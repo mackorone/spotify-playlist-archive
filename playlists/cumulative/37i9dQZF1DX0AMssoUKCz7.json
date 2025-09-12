@@ -620,7 +620,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 165250,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/5dHVdvmMAse7yVWILKU9Im"
@@ -690,7 +690,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 143161,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/400oVcUSO7uYqGSj8KjN8g"
@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 235355,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3m2uBLnzdWi4CsOhRQytZj"
@@ -9980,7 +9980,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 167160,
       "name": "Ocean Quiet",
       "url": "https://open.spotify.com/track/6zFCci00787rGrLkWDwog8"
@@ -10540,7 +10540,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 168000,
       "name": "Over & Over",
       "url": "https://open.spotify.com/track/0t0BoLdXb5VO3WelCxQoty"
@@ -12538,6 +12538,28 @@
       "duration_ms": 168863,
       "name": "Sober",
       "url": "https://open.spotify.com/track/7AaaVPT66ppeUh2dhhbUz0"
+    },
+    {
+      "album": {
+        "name": "Soldier",
+        "url": "https://open.spotify.com/album/1DpfoXhv694J2YaGuHU6W7"
+      },
+      "artists": [
+        {
+          "name": "Alphajack",
+          "url": "https://open.spotify.com/artist/16QqxKys1labZDMzVuZ8D9"
+        },
+        {
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159843,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/6fR6BGT2lk6GnOpPI9Z0n2"
     },
     {
       "album": {

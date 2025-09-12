@@ -4,7 +4,7 @@
 
 > Your festival season soundtrack includes the best Dance, House, Bass and EDM tracks right now!  Cover: Loud Luxury
 
-352 songs - 18 hr 25 min
+353 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Sex In The Mosh](https://open.spotify.com/track/2jjtWrKi0LW8nnFqbRJr8p) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Sex In The Mosh](https://open.spotify.com/album/0TMRJHdvd1GBEcKeMoadew) | 2:14 | 2025-08-15 |  |
 | [Shadows](https://open.spotify.com/track/0Ni4MDtBVlLPXm5gkkAuO6) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Shadows](https://open.spotify.com/album/6MlLPpOvRWGdwQEtFasIP4) | 3:45 | 2023-10-27 | 2023-11-25 |
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-05-31 | 2025-01-22 |
+| [Shine Like Stars](https://open.spotify.com/track/1k2OaUl9NGaBA4wa3Ommvc) | [Benji](https://open.spotify.com/artist/4VmGrnGFwIKUkAGfKfeVOo) | [Shine Like Stars](https://open.spotify.com/album/1I2mvRHxNIPa5HeHaVjtWn) | 3:46 | 2025-09-11 |  |
 | [Showstopper \(Feat\. AJ Tracey\) \- Remix](https://open.spotify.com/track/2wVGQRIr9TAEAHH8QqzfOE) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Showstopper \(Feat\. AJ Tracey\) \[Remix\]](https://open.spotify.com/album/6ayHvDamcngmka9d5Bms1l) | 2:38 | 2025-01-06 | 2025-01-22 |
 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-10-27 | 2024-05-13 |
 | [Sideways](https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 4:13 | 2024-07-26 |  |

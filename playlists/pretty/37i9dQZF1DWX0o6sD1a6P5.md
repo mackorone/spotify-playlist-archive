@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Rema
+> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: DJ Malvado x Doddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,000,227 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,000,349 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [J'ai ce qu'il faut](https://open.spotify.com/track/5Z15WSSa7fvaPJZRI4OgDS) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [J'ai ce qu'il faut](https://open.spotify.com/album/19tjQ0TPFX7z1h6eKM6qre) | 3:21 |
 | 50 | [MONEY \(feat\. Boumidjal X\)](https://open.spotify.com/track/0OItrStw62ofKZD6x857Fp) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD), [Boumidjal X](https://open.spotify.com/artist/3i2AdhSP4YeSYY1m5JoUnK) | [MONEY \(feat\. Boumidjal X\)](https://open.spotify.com/album/0eVA46YM5CygKRbBECdo2X) | 2:06 |
 
-Snapshot ID: `AAAAADYvtDI6gzaSxp2gpYKf82NVvX3v`
+Snapshot ID: `AAAAAMkl3M9d5y6dQf/w3QqDSW7Ak+mj`

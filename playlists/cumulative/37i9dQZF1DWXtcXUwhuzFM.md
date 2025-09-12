@@ -2,7 +2,7 @@
 
 ### [New Music Friday Suomi](https://open.spotify.com/playlist/37i9dQZF1DWXtcXUwhuzFM)
 
-> Uutta musiikkia tarjoilevat Haloo Helsinki!, Justin Bieber, Lady Gaga, Nelli Matula, Isac Elliot, costee, Olavi Uusivirta ja moni muu!
+> Uutta musaa tarjoilevat Sexmane, Ed Sheeran, Karim B ja Minttu – mukana myös uunituoreet Vain elämää \-biisit! 🎶
 
 7,676 songs - 16 day 21 hr 3 min
 

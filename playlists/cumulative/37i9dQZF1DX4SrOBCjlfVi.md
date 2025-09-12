@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Drake & PARTYNEXTDOOR, Don Toliver, Latto and more!
 
-8,325 songs - 15 day 23 hr 1 min
+8,326 songs - 15 day 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4223,6 +4223,7 @@
 | [Lip Service](https://open.spotify.com/track/14oVsXL6F5OJ9jNIfXEcCx) | [Jalen Santoy](https://open.spotify.com/artist/41DGOfz7IFMVvf9wKAzeZS), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [KAMAE](https://open.spotify.com/artist/3OZ93p3KH47vZorLi7mVvk) | [Lip Service](https://open.spotify.com/album/32GFoKBWjhZ4947Iz8ER62) | 2:29 | 2024-03-29 | 2024-04-06 |
 | [Liq & X](https://open.spotify.com/track/2ZEp4yv7PZQ6xf0eNbrEGl) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Liq & X](https://open.spotify.com/album/5chN7M8HXoooEDFQ0ElOAb) | 1:39 | 2024-05-17 | 2024-05-25 |
 | [Lisan al Gaib](https://open.spotify.com/track/1mBAQbOtgYgcfDDS114jfh) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Lisan al Gaib](https://open.spotify.com/album/2pPPFgH3dGwi65w6u9EHhY) | 2:24 | 2024-06-14 | 2024-06-22 |
+| [Lisp](https://open.spotify.com/track/60IM9cGuF3Y9nSz25La1zB) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Lisp](https://open.spotify.com/album/7Br73jFEjwn7r9VN6SDKtB) | 2:48 | 2025-09-05 |  |
 | [Lit](https://open.spotify.com/track/7vQlEKT4vGvaNNxgnjPj2U) | [Whoppa Wit Da Choppa](https://open.spotify.com/artist/482lFlWgAXTKFGC8C6imWq) | [Lit](https://open.spotify.com/album/6wsxDHolwGyIRMl1BRMifm) | 2:11 | 2022-09-02 | 2022-09-10 |
 | [LITA](https://open.spotify.com/track/02LMysjLCROoNyVA7528Ih) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p), [StoopidXool](https://open.spotify.com/artist/6ufMjaOmZOf0WCMgE7nR8i) | [LITA](https://open.spotify.com/album/6t00xS20FoOzAyaKp9IxPw) | 2:03 | 2025-06-27 | 2025-07-05 |
 | [Literally](https://open.spotify.com/track/6KN9nYlr3TIH8irQ1YeOHX) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD) | [Literally](https://open.spotify.com/album/2MXsvYKcikEkWl8QkdGV1I) | 2:26 | 2023-01-27 | 2023-02-04 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PP Krit",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Ink Waruntorn",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 181212,
       "name": "Airdrop",
       "url": "https://open.spotify.com/track/13NbV4PcJeeIHJkCSuUOK6"
@@ -731,6 +731,46 @@
     },
     {
       "album": {
+        "name": "Breaking Heart Station (\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e2d\u0e01\u0e2b\u0e31\u0e01)",
+        "url": "https://open.spotify.com/album/6xg9H09J4PIKekePAdKgvd"
+      },
+      "artists": [
+        {
+          "name": "ZEE PRUK",
+          "url": "https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "Breaking Heart Station (\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e2d\u0e01\u0e2b\u0e31\u0e01)",
+      "url": "https://open.spotify.com/track/4L0gbJHkKpGOlHousUBEDo"
+    },
+    {
+      "album": {
+        "name": "BU",
+        "url": "https://open.spotify.com/album/6KVDybfylX2lE1NUrpC70s"
+      },
+      "artists": [
+        {
+          "name": "SURIYA MQT",
+          "url": "https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P"
+        },
+        {
+          "name": "P6ICK",
+          "url": "https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166700,
+      "name": "BU",
+      "url": "https://open.spotify.com/track/3X5Kco6l9HuvtO9CLCtzzq"
+    },
+    {
+      "album": {
         "name": "Bus Stop",
         "url": "https://open.spotify.com/album/5wDfbJdF78dErFzMzFWnlJ"
       },
@@ -786,6 +826,24 @@
       "duration_ms": 200400,
       "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "album": {
+        "name": "Play (Extended Edition)",
+        "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215511,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
     },
     {
       "album": {
@@ -2055,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "Magic Car",
+        "url": "https://open.spotify.com/album/3TLundKEbuWiNoQWGOuInj"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Magic Car",
+      "url": "https://open.spotify.com/track/40muIoHRlB87OMC0IAwQHD"
+    },
+    {
+      "album": {
         "name": "Magic Moment",
         "url": "https://open.spotify.com/album/7nizmQvxMgpxVXnM9JabPf"
       },
@@ -3018,7 +3094,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 157033,
       "name": "SHE IS TOTALLY OUT OF MY LEAGUE (feat. Z9)",
       "url": "https://open.spotify.com/track/2UzdM3S5SrnjLCwQsleGrM"
@@ -3448,7 +3524,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
@@ -3644,6 +3720,24 @@
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
+    },
+    {
+      "album": {
+        "name": "Too Perfect for You (\u0e2a\u0e27\u0e22 \u0e40\u0e23\u0e34\u0e48\u0e14 \u0e40\u0e0a\u0e34\u0e14)",
+        "url": "https://open.spotify.com/album/4LQh1EYtYbml9sNKr7lq4M"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Too Perfect for You (\u0e2a\u0e27\u0e22 \u0e40\u0e23\u0e34\u0e48\u0e14 \u0e40\u0e0a\u0e34\u0e14)",
+      "url": "https://open.spotify.com/track/4XpxNZcQdqRk6MC6JtG1US"
     },
     {
       "album": {
@@ -4218,7 +4312,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 181914,
       "name": "\u0e01\u0e25\u0e34\u0e49\u0e07\u0e01\u0e25\u0e2d\u0e01",
       "url": "https://open.spotify.com/track/1O006OoYfT1ErDYsflZBWy"
@@ -6066,7 +6160,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 265000,
       "name": "\u0e17\u0e38\u0e01\u0e01\u0e32\u0e23\u0e40\u0e15\u0e34\u0e1a\u0e42\u0e15\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e21\u0e35\u0e09\u0e31\u0e19\u0e04\u0e2d\u0e22\u0e0b\u0e31\u0e1e\u0e1e\u0e2d\u0e23\u0e4c\u0e15\u0e40\u0e2a\u0e21\u0e2d",
       "url": "https://open.spotify.com/track/4U38O9pdKGcqKwnoo500pg"
@@ -7601,6 +7695,24 @@
     },
     {
       "album": {
+        "name": "\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19\u0e08\u0e30\u0e44\u0e21\u0e48\u0e41\u0e15\u0e01\u0e2a\u0e25\u0e32\u0e22 (Dear Trauma)",
+        "url": "https://open.spotify.com/album/32YmcZoJI0jmdy6oROXKLF"
+      },
+      "artists": [
+        {
+          "name": "FREEHAND",
+          "url": "https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19\u0e08\u0e30\u0e44\u0e21\u0e48\u0e41\u0e15\u0e01\u0e2a\u0e25\u0e32\u0e22 (Dear Trauma)",
+      "url": "https://open.spotify.com/track/1CzBBeZ0OQr7Fvh9VzMAv1"
+    },
+    {
+      "album": {
         "name": "\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19\u0e09\u0e31\u0e19\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e14\u0e35",
         "url": "https://open.spotify.com/album/64JJuERE6GnUbFFcJXw73U"
       },
@@ -7776,7 +7888,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 225837,
       "name": "\u0e2b\u0e19\u0e49\u0e32\u0e40\u0e1a\u0e25\u0e2d\u0e2b\u0e25\u0e31\u0e07\u0e0a\u0e31\u0e14 (Foreground)",
       "url": "https://open.spotify.com/track/1xRULAj35tkMlA4PM1KY0N"
@@ -7910,7 +8022,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 145979,
       "name": "\u0e2b\u0e2d\u0e21\u0e1b\u0e32\u0e01\u0e2b\u0e2d\u0e21\u0e04\u0e2d",
       "url": "https://open.spotify.com/track/3kpr6KbvKveACnE90jsk47"
@@ -8839,6 +8951,24 @@
     },
     {
       "album": {
+        "name": "BOLD",
+        "url": "https://open.spotify.com/album/21tzslgWGyfVH7JP9o5x3n"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "\u0e40\u0e25\u0e48\u0e32\u0e43\u0e2b\u0e49\u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e19\u0e30",
+      "url": "https://open.spotify.com/track/6SexuDQFnjWIt3z614UOtq"
+    },
+    {
+      "album": {
         "name": "80 Kisses",
         "url": "https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95"
       },
@@ -9378,7 +9508,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 250531,
       "name": "\u0e43\u0e08\u0e08\u0e07\u0e21\u0e31\u0e48\u0e19 Ost.\u0e40\u0e02\u0e21\u0e08\u0e34\u0e23\u0e32\u0e15\u0e49\u0e2d\u0e07\u0e23\u0e2d\u0e14",
       "url": "https://open.spotify.com/track/20RqncLIMkPObeDBgCtl0X"

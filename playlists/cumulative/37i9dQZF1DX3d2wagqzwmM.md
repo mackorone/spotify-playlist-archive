@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-622 songs - 1 day 7 hr 39 min
+623 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Feel Your Love \- Tomorrowland Mix](https://open.spotify.com/track/3DZvtV9nOQ2RDfT4nvEEi9) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq) | [Feel Your Love \(Tomorrowland Mix\)](https://open.spotify.com/album/24n3EoncsbDrqv4GI5UdDH) | 2:50 | 2022-06-23 | 2023-10-06 |
 | [Feels Like Home](https://open.spotify.com/track/2OfDYA3xkEQ2fILrBlknHD) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [AIDYL](https://open.spotify.com/artist/63YNSGgVHzU8j43ngzTw1f) | [Feels Like Home](https://open.spotify.com/album/2qNzaIxSP07ELzsFOPrspG) | 4:26 | 2022-09-01 | 2022-11-11 |
 | [Fight Club](https://open.spotify.com/track/4Hpi4pDDXLIgUaefY97vdA) | [NWYR](https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Fight Club](https://open.spotify.com/album/3FxeAvksXQAcq9zFV42G7p) | 2:40 | 2024-04-18 | 2024-09-20 |
+| [Find My Way](https://open.spotify.com/track/3lq6pKWj40gsbrTQn2ADYW) | [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v) | [Find My Way](https://open.spotify.com/album/5DU92D9mbcoBEGnc3pQSRz) | 2:27 | 2025-09-11 |  |
 | [Find My Way](https://open.spotify.com/track/4mcjqduLkxO3EgeKqBiLFh) | [Kosling](https://open.spotify.com/artist/1dsilrkrvxXE6I02SWfDYD), [NØSVN](https://open.spotify.com/artist/5uD54VjsIwudywVliLGnkc) | [Find My Way](https://open.spotify.com/album/74nOvMDPXLfqirSVoXd50n) | 3:18 | 2025-09-10 |  |
 | [Firefly](https://open.spotify.com/track/2JUekZEDv8GYGsTfSmI9Ek) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl) | [Firefly](https://open.spotify.com/album/6ERhkBSo8GO7c5pcLynXNV) | 2:54 | 2022-04-14 | 2022-04-29 |
 | [Flight 303](https://open.spotify.com/track/3VSwrup744za8NcJwdlbbL) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU) | [Tranceformation](https://open.spotify.com/album/20n8FSFvvV8YiaYB5huDTL) | 2:34 | 2023-09-07 | 2024-12-18 |
@@ -241,7 +242,7 @@
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2022-11-18 | 2023-04-09 |
 | [High For This](https://open.spotify.com/track/3EVdjxPeVxFBMcVVnwJhQv) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [High For This](https://open.spotify.com/album/0D5083Azr6y2h23yoccdxC) | 4:01 | 2024-07-11 | 2024-09-20 |
 | [Higher State Of Consciousness](https://open.spotify.com/track/1szMXvAlWLszMADcwKwR64) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Higher State Of Consciousness](https://open.spotify.com/album/2WHfvIIzdT7dLVLTajxjvv) | 3:03 | 2024-10-24 |  |
-| [Holy \- Nicky Romero & Almero Festival Edit](https://open.spotify.com/track/1eL80CN0UF5aBsncWBPfFQ) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [Holy \(Nicky Romero & Almero Festival Edit\)](https://open.spotify.com/album/4YrGxWlTt7h1Q0BPIUEOAI) | 3:43 | 2025-03-13 |  |
+| [Holy \- Nicky Romero & Almero Festival Edit](https://open.spotify.com/track/1eL80CN0UF5aBsncWBPfFQ) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [Holy \(Nicky Romero & Almero Festival Edit\)](https://open.spotify.com/album/4YrGxWlTt7h1Q0BPIUEOAI) | 3:43 | 2025-03-13 | 2025-09-12 |
 | [Holy Place](https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Holy Place](https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l) | 3:13 | 2025-05-08 |  |
 | [How We Do](https://open.spotify.com/track/1eMZdfK7A9cHAMn083Euy3) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Les Pays Bass](https://open.spotify.com/album/6yAOdghBIXRv3mwIk2b30I) | 2:30 | 2023-02-09 | 2023-02-17 |
 | [How We Feelin](https://open.spotify.com/track/4PkZNPD2waoSbn5ObPnwc9) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [BEATSBYSICK Vol\. 01](https://open.spotify.com/album/3wOGpE3SuvdehXwvnKj3ts) | 2:47 | 2025-02-03 | 2025-05-30 |

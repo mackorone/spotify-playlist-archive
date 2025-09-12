@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: Focalistic, Ch'cco
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,090,343 likes - 65 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,090,906 likes - 65 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 64 | [Wrong'o](https://open.spotify.com/track/0U8xtfWYwhma9j6GMr7qBW) | [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2), [Babalwa M](https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Wrong'o](https://open.spotify.com/album/4DBN4wMKO4YYeDAXkhxKAc) | 7:56 |
 | 65 | [Uyaphapha Marn \(feat\. Scotts Maphuma & Kabelo Sings\)](https://open.spotify.com/track/1F3J7D5byxTWbEyhpizptk) | [TNK MusiQ](https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Seun1401](https://open.spotify.com/artist/0CPfPl6Fy7ueqMoxjZjmYb), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Kabelo Sings](https://open.spotify.com/artist/3YOKEbNmcMxvIDpZxw4jvn) | [Uyaphapha Marn \(feat\. Scotts Maphuma & Kabelo Sings\)](https://open.spotify.com/album/6NG399UcNIP6WDH5R9JiJV) | 7:17 |
 
-Snapshot ID: `AAAAAK17JHtRK+9BWnhLqUsvuKOHrQgI`
+Snapshot ID: `AAAAAE3D8G6WwWar+4NwJWKAxGfXsLh4`

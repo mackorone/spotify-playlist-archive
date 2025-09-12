@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-349 songs - 19 hr 57 min
+350 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Color Your Night](https://open.spotify.com/track/4pjFNyjGaoKgLTnndISP6V) | [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 3:47 | 2024-04-26 |  |
 | [completion](https://open.spotify.com/track/4cMiyKkRtjzglIfBQtWEzH) | [Megurimeguru](https://open.spotify.com/artist/5z8DugoSIrKIjVw0i8DTFk) | [completion](https://open.spotify.com/album/6el6qm4djpKHsw5hoAwDZo) | 2:09 | 2025-02-18 |  |
 | [Creator](https://open.spotify.com/track/1mbLvyFNIifliPtmMmRQN9) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft: Tricky Trials \(Original Game Soundtrack\)](https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst) | 2:57 | 2024-05-02 |  |
+| [Cubism](https://open.spotify.com/track/6W3beEMj18hHp1wDlqGcbt) | [OMGkawaiiAngel](https://open.spotify.com/artist/5VVyj1Rj1VhcoBUrGC3SjG), [NEEDY GIRL OVERDOSE](https://open.spotify.com/artist/2N5EgsGVfPXKFH835Fc65K), [Haraguchi Sasuke](https://open.spotify.com/artist/290RfJGAmzANeDRd0ArLOj) | [Cubism](https://open.spotify.com/album/7hzpkAjq18QBwntRZ1m3O1) | 2:27 | 2025-09-11 |  |
 | [Cubism](https://open.spotify.com/track/1kNX0OJo68zyYfeyTDyp78) | [Qisano](https://open.spotify.com/artist/4lxIvq3a7DcynJVycpSpML) | [Cubism](https://open.spotify.com/album/758JEaGEMDLXtFFCLxs1wc) | 3:25 | 2025-06-29 |  |
 | [Culling!](https://open.spotify.com/track/74hrlXt0b4gf3hJcqjYcom) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:08 | 2025-05-20 |  |
 | [Cure \(VIVINOS \- ALNST Original Soundtrack Part.7\)](https://open.spotify.com/track/2ltpz0N6g4A7TwwLFk9biF) | [AKUGETSU](https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp), [PARK BYEONG HOON](https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2) | [Cure \(VIVINOS \- ALNST Original Soundtrack Part.7\)](https://open.spotify.com/album/4dLW62kTXGOTpmFoHIDULe) | 4:07 | 2025-07-24 |  |

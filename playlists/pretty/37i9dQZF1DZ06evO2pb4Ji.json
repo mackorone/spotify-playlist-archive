@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL9uAAAAAACFRVE4zqpXl/tj1Q6DLsiV",
+  "snapshot_id": "aMC/gAAAAADplZgk8ynArLOQERy793a9",
   "tracks": [
     {
       "added_at": null,
@@ -883,30 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fantastic (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/0GqyJ9KqSEo1DlDnt1TIsg"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 184960,
-      "name": "Fantastic (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/5Qq9uvUXZU5zNDh0MlkBu8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GIANTS",
         "url": "https://open.spotify.com/album/1hK1lKNTYUM4wYRIY19CRO"
       },
@@ -943,6 +919,30 @@
       "duration_ms": 191720,
       "name": "GIANTS",
       "url": "https://open.spotify.com/track/5C0ivQMxes2lWuOANhvVAm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fantastic (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/0GqyJ9KqSEo1DlDnt1TIsg"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 184960,
+      "name": "Fantastic (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/5Qq9uvUXZU5zNDh0MlkBu8"
     },
     {
       "added_at": null,

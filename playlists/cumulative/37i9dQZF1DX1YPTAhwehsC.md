@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: Cash Cobain
 
-1,726 songs - 3 day 6 hr 10 min
+1,727 songs - 3 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -885,6 +885,7 @@
 | [Like This \(Remix\) \[feat\. Bay Swag and wolfacejoeyy\]](https://open.spotify.com/track/09VSVEnGU1QDktP3WBRQRF) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [2 Sides of the Story \(Deluxe\)](https://open.spotify.com/album/4448e2jWEMcHjOQJKQk2u9) | 3:10 | 2024-12-13 | 2025-03-08 |
 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 | 2024-03-01 | 2024-06-15 |
 | [Lil Mama](https://open.spotify.com/track/7CBUbrYdluuTZZvZAhJgXr) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Lil Mama](https://open.spotify.com/album/1p75dyBk7vMZeeK4mEadMU) | 2:23 | 2022-12-02 | 2023-03-25 |
+| [Lisp](https://open.spotify.com/track/60IM9cGuF3Y9nSz25La1zB) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Lisp](https://open.spotify.com/album/7Br73jFEjwn7r9VN6SDKtB) | 2:48 | 2025-09-05 |  |
 | [Live from the Roxy \(feat\. Boldy James\)](https://open.spotify.com/track/2iNyc3IgiqZ1oIAHoSA8ed) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Live from the Roxy \(feat\. Boldy James\)](https://open.spotify.com/album/2cl2DGCPjyxVlfliCZwyXL) | 2:46 | 2024-02-23 | 2024-03-23 |
 | [Living Legend](https://open.spotify.com/track/1oUMONFJ4ne768oA5siqez) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Living Legend](https://open.spotify.com/album/6Qtrhep6csqw0jdKOy6YkY) | 2:26 | 2024-10-18 | 2024-10-26 |
 | [LIVING WRONG \(feat\. DJ Smallz 732\)](https://open.spotify.com/track/1aG71OExFGGUx1DPEeOSnM) | [Melvoni](https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [LIVING WRONG \(feat\. DJ Smallz 732\)](https://open.spotify.com/album/2AHqm6Evrww04iTiOVkdvy) | 2:23 | 2023-06-16 | 2023-09-09 |

@@ -4041,6 +4041,36 @@
     },
     {
       "album": {
+        "name": "Aroma",
+        "url": "https://open.spotify.com/album/40lSpv9DUV1CrP0ZMHozpj"
+      },
+      "artists": [
+        {
+          "name": "Angelina",
+          "url": "https://open.spotify.com/artist/3AuKpTBn0Ce09mVVhjCEEW"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171323,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/3DUb10VKSNh0dVG8ZEszNn"
+    },
+    {
+      "album": {
         "name": "Arte Povera",
         "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
       },
@@ -4628,7 +4658,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 179498,
       "name": "Ax Kardia Mou",
       "url": "https://open.spotify.com/track/0PFoC7hLMPv5NJ2l8xpofj"
@@ -6012,7 +6042,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 188400,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
@@ -20999,6 +21029,24 @@
     },
     {
       "album": {
+        "name": "Alkoolikes I Nihtes",
+        "url": "https://open.spotify.com/album/2DhTZJ7uoABIuwAceeBWq4"
+      },
+      "artists": [
+        {
+          "name": "Pantelis Pantelidis",
+          "url": "https://open.spotify.com/artist/1TubjoUgPPYHfMoUrvJxP3"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184598,
+      "name": "Isos Isoun Kiria",
+      "url": "https://open.spotify.com/track/3wXwptbzcV60VOzQz0ODG4"
+    },
+    {
+      "album": {
         "name": "ATHENA",
         "url": "https://open.spotify.com/album/16BsYbHUF4VT2u8R1Ef3Bc"
       },
@@ -33704,7 +33752,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 141406,
       "name": "P.O.S.",
       "url": "https://open.spotify.com/track/0VzLi4og9pVyuoo4jfjkWw"
@@ -46126,7 +46174,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 135568,
       "name": "TWEETY",
       "url": "https://open.spotify.com/track/0HUNjuwDo8FYwzKsaSo0a6"
@@ -46654,7 +46702,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 135636,
       "name": "VARKARIS",
       "url": "https://open.spotify.com/track/049yfS33wXFjQtwTnx0iM6"
@@ -47952,7 +48000,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 162461,
       "name": "XANA",
       "url": "https://open.spotify.com/track/0OrGmYDi04CEeIgPk6NwsV"

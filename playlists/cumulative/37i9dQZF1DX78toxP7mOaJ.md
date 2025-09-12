@@ -4,7 +4,7 @@
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: 9Million
 
-2,090 songs - 4 day 19 hr 28 min
+2,094 songs - 4 day 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,6 +624,7 @@
 | [Etch](https://open.spotify.com/track/7CjMc5pV2Vb6AnMd0pcAKf) | [Bedridden](https://open.spotify.com/artist/60aV5uqvJL1hzJjuZrwPZn) | [Etch](https://open.spotify.com/album/3cRQSViayYB45cRRyU2IqN) | 3:27 | 2025-02-12 | 2025-05-15 |
 | [Eugene \- Single Edit](https://open.spotify.com/track/0IDM4UxzlulbTqSDoMY1Sn) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [Eugene](https://open.spotify.com/album/0WtyEWiFm9IWQ9pXBopnOH) | 3:12 | 2022-08-10 | 2023-01-12 |
 | [Eutherians \(Ultramarine\)](https://open.spotify.com/track/28e2ijIPbnUzeU8b9xntzn) | [ME REX](https://open.spotify.com/artist/4i3bRgGFFhxCNJg4xURPJm) | [Eutherians \(Ultramarine\)](https://open.spotify.com/album/2F5jGyZ9z14KGjH4tdhPTA) | 4:13 | 2023-07-26 | 2023-11-16 |
+| [Even if it's Just a Dream](https://open.spotify.com/track/0mZHbgV1dlZZoii9BKGUwX) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Even if it's Just a Dream](https://open.spotify.com/album/29JGqA2SNMfjJZvYgsmvao) | 5:30 | 2025-09-10 |  |
 | [Evenfall](https://open.spotify.com/track/6e5Cw6TEhIO5XVEAGlidCa) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Evenfall](https://open.spotify.com/album/2YeM6NqqTAtcb3kQNFLOKY) | 3:14 | 2025-01-22 | 2025-04-03 |
 | [Everybody's Down](https://open.spotify.com/track/1aC8y8f7nobVnD8rTwPzL1) | [King Falcon](https://open.spotify.com/artist/65CoIqXCFvKUzD0WfKhyq2) | [King Falcon](https://open.spotify.com/album/6zEu0MDY9o0x1dyOnzTid1) | 2:38 | 2023-11-08 | 2024-01-25 |
 | [Everyone I please hates me](https://open.spotify.com/track/1KaZWvFJELretod1Gk98nS) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [I'm cool...I guess](https://open.spotify.com/album/5duNYF5T14CMxB4V3ps9lA) | 4:44 | 2024-05-22 | 2024-07-11 |
@@ -1214,6 +1215,7 @@
 | [Mind](https://open.spotify.com/track/5x1wpSRfBGoKBendz9890k) | [Byrd Dhillon](https://open.spotify.com/artist/5GC7Crmo4qTtTGXRpBsYQx) | [Byrd Dhillon](https://open.spotify.com/album/6EVHsZUNFBLocBuDMvZHTI) | 3:55 | 2022-11-30 | 2023-01-12 |
 | [Mind's a Lie](https://open.spotify.com/track/1r3zKI4PDdsBpJEVGIUrGH) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Mind's a Lie](https://open.spotify.com/album/2j3RJGifmBs9gRfkMWbVmn) | 4:46 | 2024-08-07 | 2025-02-27 |
 | [Mind's a Lie](https://open.spotify.com/track/5BypykbT4N0dRhjTbXwxBE) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Guided Tour](https://open.spotify.com/album/7FHW0Fj8a6V7gAJfPxfO2X) | 4:46 | 2024-12-04 | 2025-01-16 |
+| [Mirror World](https://open.spotify.com/track/6Z0you2CeONZMMd5aOYqyS) | [Poptones](https://open.spotify.com/artist/2a3PDuoSf6R792rIJcXI9i), [Victor Kaas](https://open.spotify.com/artist/174JqW839j5ejDAAPPhqm3) | [Mirror World](https://open.spotify.com/album/6yCDqvzkbKo7kOQ7eCpixT) | 3:48 | 2025-09-10 |  |
 | [miss melancholy](https://open.spotify.com/track/2GHQimEGRvo0OSyvqLIf8d) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [miss melancholy](https://open.spotify.com/album/68wM3sjcRJM0W4o3QRJrTX) | 3:09 | 2025-04-02 | 2025-06-05 |
 | [Miss The World](https://open.spotify.com/track/5vhCkB7OUbaEj7VE5RTihF) | [Body Type](https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D) | [Miss The World](https://open.spotify.com/album/7qm9A3oWQECjSrZINteqXY) | 2:54 | 2023-02-22 | 2023-03-16 |
 | [mo\(u\)rning anthem](https://open.spotify.com/track/2UZnsTg18LhM6StQZ3x1IG) | [Latchkey Kids](https://open.spotify.com/artist/6bXl33OFvcjrGSQ9F1lrSn) | [mo\(u\)rning anthem](https://open.spotify.com/album/0Wl0QXbaiPj4vhQ6DLcltW) | 3:27 | 2023-08-23 | 2023-09-14 |
@@ -1334,6 +1336,7 @@
 | [NUMBER](https://open.spotify.com/track/6InDikmZy2kOIzJTDVPxxW) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [BACKSTAB](https://open.spotify.com/album/6ucfgxWZPJLjTVDu9Dp6UX) | 1:59 | 2022-11-30 | 2023-01-12 |
 | [Number One Priority](https://open.spotify.com/track/3oz24Qjaq304RpvDBqOPy8) | [Dive Time](https://open.spotify.com/artist/1ZpbgunAuy4Ut5iRDdu4aA), [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Number One Priority](https://open.spotify.com/album/15D4U88mgCd8z0szWVer7D) | 2:14 | 2024-07-10 | 2024-08-29 |
 | [Nvr Rlly Hnst](https://open.spotify.com/track/6oV7SNTekPwmIyho3AUuTO) | [The Meringues](https://open.spotify.com/artist/6vPSxVLbEaRxT85jaKGr0M) | [Pavlova's Dog](https://open.spotify.com/album/6PercWROWUN3j8vMbn0Nc6) | 2:56 | 2024-09-25 | 2024-11-14 |
+| [O.D\. \(3am\)](https://open.spotify.com/track/3J2pujgkg0980b5sBq4dUY) | [Alex Orange Drink](https://open.spotify.com/artist/6MjoFNppz6Tm6qCdHrzcvx) | [O.D\. \(3am\)](https://open.spotify.com/album/0gRFeXQb59yeMaMsLIgUyJ) | 3:36 | 2025-09-10 |  |
 | [Oddly Enough](https://open.spotify.com/track/0wTRA4l4kRHoG7qR29vvXi) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s), [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [Oddly Enough](https://open.spotify.com/album/2mwK3K2XDwk1U0umEjtS9b) | 2:45 | 2024-01-17 | 2024-03-14 |
 | [Ode To Clio](https://open.spotify.com/track/6gJaZclCQVvDdHl4m5reGj) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Ode To Clio](https://open.spotify.com/album/7vNo8NiWR3gco9DhEYg4sP) | 3:17 | 2024-07-24 | 2024-10-10 |
 | [Off Center](https://open.spotify.com/track/1t07JKVYzdLobWLdp6NAH6) | [Good Sleepy](https://open.spotify.com/artist/7BPOW1Qhb4yKQ4L7c9peGB) | [Off Center](https://open.spotify.com/album/7l1kV3MJI7TqZj0CN6476e) | 2:51 | 2024-01-24 | 2024-02-15 |
@@ -1400,6 +1403,7 @@
 | [Patch](https://open.spotify.com/track/1WaKD5cNCYS7EgcJETMh2g) | [Valley Palace](https://open.spotify.com/artist/3jF2ypAAgPGDrMya2J4sHM) | [Patch](https://open.spotify.com/album/5B1s097zdY8QcrjD8CwImJ) | 3:39 | 2021-12-01 | 2022-02-17 |
 | [Pay the Price](https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc) | [Glowing](https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm) | [Pay the Price](https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4) | 3:36 | 2023-02-15 | 2023-05-04 |
 | [Peach](https://open.spotify.com/track/3HHcTqXCKDuUYTCH7ue9K8) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Peach](https://open.spotify.com/album/6A6oDzTGOLntd7edj7Cwv0) | 3:29 | 2022-08-24 | 2023-01-12 |
+| [peaches](https://open.spotify.com/track/4tcdP94DVfoNctCdz8aozT) | [Total Wife](https://open.spotify.com/artist/1JQhIj3MeXcTYorKsa5SBz) | [peaches](https://open.spotify.com/album/2C3jHv6MTDtWGx2J1hygRH) | 2:44 | 2025-09-10 |  |
 | [Pet](https://open.spotify.com/track/3zTVcP2MEDVyJcIHgvxu0T) | [Fräulein](https://open.spotify.com/artist/3L3mhNRhW5IQmo97WLbHn0) | [Pet](https://open.spotify.com/album/6LnTOqWYmom2kk9eGuXoAC) | 3:14 | 2023-02-22 | 2023-03-09 |
 | [Petty](https://open.spotify.com/track/5Ad1jjU1o1Iui70w1CvVkU) | [Gold Steps](https://open.spotify.com/artist/3KS5NGVo6xQY88JyNEeGsl) | [Petty](https://open.spotify.com/album/0TXDtyuVC2UFuO54sntYiN) | 2:51 | 2022-08-24 | 2022-11-10 |
 | [Phenomenal](https://open.spotify.com/track/21GoVUM73Z197lokQtCXdF) | [L'FREAQ](https://open.spotify.com/artist/6yIxwhGx8Mq6i1WwgRSfkQ) | [Phenomenal](https://open.spotify.com/album/4lUMfqrmNTmPQXVRB0VR3Y) | 4:00 | 2022-09-07 | 2022-12-01 |

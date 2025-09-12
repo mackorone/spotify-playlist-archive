@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXF8Nf1uycDZ.md) - [plain]
 
 ### [Throwback Thursday \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWXF8Nf1uycDZ)
 
-> This week: business as usual\. Cover: Fifth Harmony
+> This week: y2k\. Cover: Sisqo
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,959 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,038 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

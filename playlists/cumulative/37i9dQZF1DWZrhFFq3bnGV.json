@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Aku Jeje",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Tripov",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -281,6 +281,28 @@
     },
     {
       "album": {
+        "name": "Aduhai",
+        "url": "https://open.spotify.com/album/34P4gbJGnRnzihM518thWc"
+      },
+      "artists": [
+        {
+          "name": "Tya Subiakto",
+          "url": "https://open.spotify.com/artist/76gVDaj7ndXjcexm4tTlPo"
+        },
+        {
+          "name": "Alex Kuple",
+          "url": "https://open.spotify.com/artist/1GFIKiUipgbe82QEs0tvg9"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Aduhai",
+      "url": "https://open.spotify.com/track/0ykFAeYYq7EJ52Ix4Fh2eg"
+    },
+    {
+      "album": {
         "name": "Affirmation",
         "url": "https://open.spotify.com/album/3wV1gSC2bANRjc3E4oK2AP"
       },
@@ -456,7 +478,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 179827,
       "name": "As We Talk",
       "url": "https://open.spotify.com/track/1xNoiDKbPQnPZknnOxLT6m"
@@ -804,7 +826,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 322152,
       "name": "Burungkaka Tua",
       "url": "https://open.spotify.com/track/1ZjQYu0Pcc0lw6thWyzbGv"
@@ -1457,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "Elevator Music",
+        "url": "https://open.spotify.com/album/5AjKa0nb3p4CSPOpICdWNu"
+      },
+      "artists": [
+        {
+          "name": "Tripov",
+          "url": "https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172827,
+      "name": "Elevator Music",
+      "url": "https://open.spotify.com/track/3JPlpg1N3G4wv5QrTOSjvR"
+    },
+    {
+      "album": {
         "name": "Embraceable You",
         "url": "https://open.spotify.com/album/1GrxQBJFYVkFuvlmFW8cBX"
       },
@@ -1486,7 +1526,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 276052,
       "name": "Entah",
       "url": "https://open.spotify.com/track/5c8tb3bS3KtR0H56OnDKwj"

@@ -293,6 +293,28 @@
     },
     {
       "album": {
+        "name": "Back To Life",
+        "url": "https://open.spotify.com/album/4RT8Qkl0vNxvDW6iX8abxB"
+      },
+      "artists": [
+        {
+          "name": "Dannic",
+          "url": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
+        },
+        {
+          "name": "KIYOTO",
+          "url": "https://open.spotify.com/artist/5uxop8n7axixBHd562LYrR"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/08x0S0LgffRPiI1qiIsdFT"
+    },
+    {
+      "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/1DYT4lDHV9dV5QW5UvmwCJ"
       },
@@ -4086,7 +4108,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 182737,
       "name": "To The Moon And Back 2025",
       "url": "https://open.spotify.com/track/2usY7VeehDFDqP2ZYTv93Y"

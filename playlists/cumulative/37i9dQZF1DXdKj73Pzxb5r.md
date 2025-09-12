@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Angsa & Serigala
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Guernica Club
 
-389 songs - 1 day 0 hr 51 min
+394 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Amor](https://open.spotify.com/track/1lMx4GcMycvMtFh0IodxUD) | [Your Hotel in My Bathroom](https://open.spotify.com/artist/27QZu9aqu9mQ9efl6rkhKF) | [Amor](https://open.spotify.com/album/2o5xsmbGBXcTZ2YsCH2Ptt) | 2:21 | 2024-06-27 | 2024-09-06 |
 | [AN ISLAND](https://open.spotify.com/track/7EGR1RPJXmlPItqBHKcZff) | [Bin Idris](https://open.spotify.com/artist/1NWQaDr8SmaIKtiNz0GBG8) | [III](https://open.spotify.com/album/6YplJhAiQyfLRyUGRoqEvf) | 3:51 | 2025-06-19 |  |
 | [Andai Saja](https://open.spotify.com/track/2hb8n44vpefszgLwkEVXhU) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Obrolan Jam 3 Pagi](https://open.spotify.com/album/0jDClrox8tW0f2g82gVc3D) | 3:57 | 2025-05-16 |  |
+| [Angdimano](https://open.spotify.com/track/2bGHkJ2Rqdt783RFGuh2Yq) | [Caessaria](https://open.spotify.com/artist/4Lqjj5kam5AMYcZvdkKTvd) | [DYSTOPIA](https://open.spotify.com/album/4PfucubYGaerE0S6egYl38) | 4:55 | 2025-09-11 |  |
 | [Anti ∞ Hero](https://open.spotify.com/track/2GO1pRF96wqjB5TKXLQ0vY) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Anti ∞ Hero](https://open.spotify.com/album/61uE81t3kSjEmDS2GPIkZ6) | 3:30 | 2024-10-24 |  |
 | [Anti ∞ Hero \- Orchestra](https://open.spotify.com/track/4XF1ufaENddFlVFaU283EO) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Anti ∞ Hero The Legend is Born](https://open.spotify.com/album/5EtARuImOLEphaDZnoZNO7) | 3:30 | 2025-08-28 |  |
 | [Anti ∞ Hero \- Slowed + Reverb](https://open.spotify.com/track/3xN6I7qZ8bODMXGuMLrfZn) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Anti ∞ Hero \(Alternate Version\)](https://open.spotify.com/album/71dJyWzzP0QSIUq8enWZrR) | 4:33 | 2024-12-13 |  |
@@ -125,6 +126,7 @@
 | [Gelora Bertemu](https://open.spotify.com/track/3nErXdVzREIXdSxxMuPaYL) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Gelora Bertemu](https://open.spotify.com/album/309Xx2lM5PhrOk3pBaNXt9) | 4:02 | 2024-07-11 | 2024-11-29 |
 | [Gemuruh Riuh](https://open.spotify.com/track/1IpJu8YwAlc1ozSxXAyxl8) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Gemuruh Riuh](https://open.spotify.com/album/1kGJDqAiFyNuAMmxtFd0Ao) | 4:41 | 2024-06-27 | 2025-05-17 |
 | [Give You All](https://open.spotify.com/track/3HOdjNK4buCsboOYKEWzjy) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3) | [Give You All](https://open.spotify.com/album/51t5UHMtDLOVZavCGJnloA) | 3:51 | 2025-05-16 | 2025-07-04 |
+| [Givemeall](https://open.spotify.com/track/2ILd3ZZM7yC8aPyZ2PUTK0) | [Guernica Club](https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn) | [Givemeall](https://open.spotify.com/album/38Zs67jtlLmGKtaRqD14mT) | 5:54 | 2025-09-11 |  |
 | [Glitté](https://open.spotify.com/track/6dulX0zLU8yZ54hrtIEmI0) | [MADMAX](https://open.spotify.com/artist/2dJkvsD6SzhCitP5IEwP9s) | [Glitté](https://open.spotify.com/album/1TctKY6yBnCVpVitdHsCDf) | 2:34 | 2025-08-28 |  |
 | [Good Times](https://open.spotify.com/track/12upHAA95HQP1iRRqOOGZ4) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Good Times](https://open.spotify.com/album/4mTkEAZDd4xGZlFEfmROPz) | 3:13 | 2024-07-04 | 2024-11-29 |
 | [Gumam](https://open.spotify.com/track/7kGQoEXrUR7aBIkgJCwEnZ) | [Iksan Skuter](https://open.spotify.com/artist/2M0JEUzgcRX62pMAVlhpxy) | [VIS A VIS](https://open.spotify.com/album/0dC1ZaxZ1BCEM3C5Au8yeX) | 4:32 | 2025-03-06 | 2025-05-23 |
@@ -265,6 +267,7 @@
 | [Ode to an Old Man](https://open.spotify.com/track/0tUvRtES2L74EDxeZqs2lc) | [Texpack](https://open.spotify.com/artist/1OmBTwOooZHrYO3YUmSTIA) | [Gonggo Sound](https://open.spotify.com/album/05zhGBYMnpmqGFeVAeJOnx) | 2:01 | 2024-06-27 | 2024-11-01 |
 | [Oh Mengapa](https://open.spotify.com/track/3YdLD1PnI21Xsa8Nax9tGh) | [Sinajimasi](https://open.spotify.com/artist/5kyl7OeHkW1ZYHNpHDKtxD) | [Oh Mengapa](https://open.spotify.com/album/6xFlvBuwlGRgSGYkttTQk6) | 3:51 | 2024-06-27 | 2024-08-02 |
 | [Padam, Hadirmu Lentera](https://open.spotify.com/track/0tzteHtQzkR58XkA7bDzHL) | [Haliya](https://open.spotify.com/artist/3mElqeVM0OocytLEYXJpYh) | [Padam, Hadirmu Lentera](https://open.spotify.com/album/6Pgg7VZpg1Cqap7WUs0C5p) | 3:35 | 2024-06-27 | 2024-07-27 |
+| [Paint](https://open.spotify.com/track/64X0jkriPbZFq6psHQZ0av) | [Patras](https://open.spotify.com/artist/3oq19Oviwg8G6VSQCINN6z) | [Paint](https://open.spotify.com/album/4tLhCY9PwFZAVs0aJafiW4) | 3:21 | 2025-09-11 |  |
 | [Pasar Malam](https://open.spotify.com/track/4kzxuE6oUN30Zma1CoB78Q) | [Adrian Yunan](https://open.spotify.com/artist/25ex997B5aNaPvmqEO9AsJ), [Reda Gaudiamo](https://open.spotify.com/artist/6AVyhMrVK2RbcsBomY40QV) | [Pasar Malam](https://open.spotify.com/album/3CiG6oAptjTYiYzPSTXefE) | 5:03 | 2025-05-22 |  |
 | [Pelangkah](https://open.spotify.com/track/5e0OI1hT6jB6G7rLwo4Obj) | [tradeto](https://open.spotify.com/artist/6Sp5KtLrCKSA0eLp0sHptK) | [Pelangkah](https://open.spotify.com/album/1ALTAABUubZvLyB4TqbRga) | 4:12 | 2024-08-29 | 2024-11-08 |
 | [Pelita](https://open.spotify.com/track/4UI280ad7Sorebsi0gmQlL) | [NonaRia](https://open.spotify.com/artist/4nDYMMICeh9slbUCBTnmM2) | [Pelita](https://open.spotify.com/album/0VLdhzNOZH29hCVn5tBV8g) | 3:02 | 2024-06-27 | 2024-09-06 |
@@ -318,6 +321,7 @@
 | [Senja](https://open.spotify.com/track/1LpPqiax1Cd4jSoBfynPwf) | [Club Eighties](https://open.spotify.com/artist/1b5K0ucLHuG3Gnnm29t9hh) | [Senja](https://open.spotify.com/album/6ZD6nYlW0cwDQyAqr11DZR) | 4:24 | 2024-06-27 | 2024-10-04 |
 | [Serasa Asmara](https://open.spotify.com/track/3OakocbuE66b9O9HKfHqGT) | [MASEJA](https://open.spotify.com/artist/24y7WfHZNlTUi2WvU4fXfv), [Latisha Diva](https://open.spotify.com/artist/7yOn5tRmi2Gdebty1xVJrq) | [Serasa Asmara](https://open.spotify.com/album/3RxbBeG5eG5fBWpslwnhnn) | 3:18 | 2025-06-12 | 2025-06-24 |
 | [Seroja Mini](https://open.spotify.com/track/62X7M1iRFRF1hJ12FUYgMw) | [Shinjoko](https://open.spotify.com/artist/0bWXfQkYnT9xcJ6C7JQK0i), [Alahad](https://open.spotify.com/artist/7AaHhQPFtgAiytNjj81Wmt) | [Seroja Mini](https://open.spotify.com/album/0PQ9qQau2ja2yIGC2abAi9) | 3:52 | 2025-04-25 | 2025-06-20 |
+| [Serong Ke Kiri Serong Ke Kanan](https://open.spotify.com/track/5r95lj5VLGbgbqZBAYMhtt) | [The Goddamn!!!](https://open.spotify.com/artist/4XWLrH0bvZ6RQ3cb7u5loF) | [Merona Jingga](https://open.spotify.com/album/6VLPvJ8y53yAAuMBi0U7ys) | 2:54 | 2025-09-11 |  |
 | [Sesuka Hatimu](https://open.spotify.com/track/5UNhW9Gna0wtdu0h6o958W) | [GUNGS](https://open.spotify.com/artist/174qi9GGFldNKbeeQ3qM1h) | [Sesuka Hatimu / Entah Sama](https://open.spotify.com/album/2Xf4yCxHQ4TIzYAQmR58j3) | 3:06 | 2025-07-17 |  |
 | [Shower Scene](https://open.spotify.com/track/72Dl7jvzIzz8tYxfdvem6x) | [Sourmilk](https://open.spotify.com/artist/5KgwG5xqnpr6eerD8F5iKq) | [A Collection of Absurd Ideas](https://open.spotify.com/album/3eKJ4Y8KFK98fKfwNrgzlq) | 4:03 | 2025-07-24 |  |
 | [Siapa yang Salah](https://open.spotify.com/track/17UUHWz4YE6NGiOnrEMqtH) | [More on Mumbles](https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN) | [\(Masih\) Kalah](https://open.spotify.com/album/6r2HtvSWwhAU4b74a3OcT3) | 2:58 | 2024-06-27 |  |
@@ -364,6 +368,7 @@
 | [The Hereafter \(feat\. Shotgundre\)](https://open.spotify.com/track/6hBCa7IKWO0vHdQTihFHGF) | [SMSR](https://open.spotify.com/artist/55LoW5e3Gjxqnli0UexvEj), [Shotgundre](https://open.spotify.com/artist/2kaOq4K0wgkd7a2gcrGMpq) | [The Hereafter \(feat\. Shotgundre\)](https://open.spotify.com/album/5XqAbDhrTIPdqAOSy8p4Eb) | 2:23 | 2025-05-16 | 2025-07-25 |
 | [The Lady With The Sapphire in Her Eyes](https://open.spotify.com/track/3NLOvyOrCc1AxtXVBILHiJ) | [Serdadu Sam](https://open.spotify.com/artist/5C4HI7BDqAXMAKhMEGuTFe) | [The Lady With The Sapphire in Her Eyes](https://open.spotify.com/album/5xKO46V57iXZ6rlxXaHmiq) | 4:26 | 2024-06-27 | 2024-08-02 |
 | [The Society](https://open.spotify.com/track/3SnUub2OpfmI5MBfvyPwxK) | [Holy City Rollers](https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v) | [The Society](https://open.spotify.com/album/2CaghgITxYwMtJpKTbabAV) | 3:53 | 2024-12-05 | 2025-02-21 |
+| [Thirty One](https://open.spotify.com/track/0bzgCX0CtPeeFwpGF2cW6j) | [L/](https://open.spotify.com/artist/5Lk9FPpvHgvcr7L216AK30) | [Bloodline](https://open.spotify.com/album/6hgh1yLfRafmZvOLifDad8) | 3:22 | 2025-09-11 |  |
 | [This Day & Age \(feat\. Natasha Udu\) \(RIMALDI Reanimated\)](https://open.spotify.com/track/3KDSxEVrAkP4RfJaSWWctd) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [Natasha Udu](https://open.spotify.com/artist/5788KAWYDqWlejC63W92S7), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Hope + Love: reanimated edition](https://open.spotify.com/album/3Z5eDoTbEzeaEKWkwoQeUh) | 3:14 | 2024-07-04 | 2024-08-17 |
 | [THUNDER!!!!!!!!!!](https://open.spotify.com/track/5XzURZIO52HHAN5pWaglnH) | [Sunwich](https://open.spotify.com/artist/45KFMEB3QETjFvFME86vYO) | [THUNDER!!!!!!!!!!](https://open.spotify.com/album/5z3Jb4z7T5G8DzrWQY2dr5) | 3:25 | 2025-06-19 |  |
 | [TIDES](https://open.spotify.com/track/10BHh51xy9dyYduXhOkDz5) | [Kalila Klassen](https://open.spotify.com/artist/0kLU5QQ3YN5zCMGjSf3l73) | [TIDES](https://open.spotify.com/album/3fIEURrfwpSsSu5bfuRDy3) | 3:09 | 2024-12-13 | 2025-03-28 |

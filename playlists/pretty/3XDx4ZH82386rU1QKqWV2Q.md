@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > most popular tiktok phonk \- best phonk 2025 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,022,996 likes - 121 songs - 5 hr 16 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,022,844 likes - 121 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 58 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 |
 | 59 | [BOWL OF NAILS](https://open.spotify.com/track/1DMRH6Bbf36ra430p0XQKV) | [High Zombie](https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE) | [BOWL OF NAILS](https://open.spotify.com/album/1EIlhNHx7qmh024o6qRceL) | 2:42 |
 | 60 | [Brazilian Phonk Mano](https://open.spotify.com/track/5l5KiiYcmR8kbHsg18VfqK) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [lucaf.](https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Brazilian Phonk Mano](https://open.spotify.com/album/5pWDJaRKvFnwpPO1NXXw8a) | 1:24 |
-| 61 | [Come Alive](https://open.spotify.com/track/6nhQN858onDGpJAdfgNtKj) | [Pawel Morytko](https://open.spotify.com/artist/7wIVdofEefMolVPwpytyFS), [Pav](https://open.spotify.com/artist/0GY4kYjzdRVqjFpTvHUwCP) | [Come Alive](https://open.spotify.com/album/4iTSTKq9PKqaVXUAKK2F9Q) | 3:15 |
+| 61 | [Come Alive](https://open.spotify.com/track/6nhQN858onDGpJAdfgNtKj) | [Pawel Morytko](https://open.spotify.com/artist/7wIVdofEefMolVPwpytyFS) | [Come Alive](https://open.spotify.com/album/4iTSTKq9PKqaVXUAKK2F9Q) | 3:15 |
 | 62 | [skrrrrt](https://open.spotify.com/track/1XU6FTjMeyBYNouSkrNVGh) | [OMGUATE](https://open.spotify.com/artist/0CW7RykGbsYx2D89r6Lp2W) | [over 9000](https://open.spotify.com/album/6XNHuVO7WYBCdJ0I84y4Dw) | 1:07 |
 | 63 | [Disaster](https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7CkXrZnfmghdA4n2YLTgag) | 1:24 |
 | 64 | [Pants](https://open.spotify.com/track/1D3zpgixWQrSsNPeKKrT9U) | [Cut Rugs](https://open.spotify.com/artist/0aLIUEiiRuXzmFy76oscvB) | [Pants](https://open.spotify.com/album/1NL6GRHgWoHwVWVG4Hg4Y0) | 2:58 |

@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Caskets
 
-1,328 songs - 3 day 9 hr 13 min
+1,329 songs - 3 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Darwinism](https://open.spotify.com/track/1idBs3bAs5duBPIwIuFOuN) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Exhibition Of Prowess](https://open.spotify.com/album/3UqEHbnms5ixC6YPuPZTfi) | 2:38 | 2024-11-08 |  |
 | [Dead But So Alive](https://open.spotify.com/track/6udHlgNJSp4NMnkHdYrL8q) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Dead But So Alive](https://open.spotify.com/album/5b71BIlmIkQ2EFdYBw10YL) | 3:27 | 2024-09-20 | 2024-12-19 |
 | [Dead Circus](https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [Dead Circus](https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY) | 3:10 | 2022-05-06 | 2023-03-25 |
-| [Dead End](https://open.spotify.com/track/0TChvPKuOzN3SljC5tQhDu) | [Her Last Sight](https://open.spotify.com/artist/1KbA9fRxHiOCFESxSaM29p), [The Curse Within](https://open.spotify.com/artist/1ILgHQXlqAxKPwQZCJsSKH) | [Dead End](https://open.spotify.com/album/4KL8lyu9udfu7znaCrllZe) | 4:30 | 2025-05-02 |  |
+| [Dead End](https://open.spotify.com/track/0TChvPKuOzN3SljC5tQhDu) | [Her Last Sight](https://open.spotify.com/artist/1KbA9fRxHiOCFESxSaM29p), [The Curse Within](https://open.spotify.com/artist/1ILgHQXlqAxKPwQZCJsSKH) | [Dead End](https://open.spotify.com/album/4KL8lyu9udfu7znaCrllZe) | 4:30 | 2025-05-02 | 2025-09-12 |
 | [Dead End Utopia](https://open.spotify.com/track/6YYSmZKkvXeo90u6kHrYoT) | [Walking Dead On Broadway](https://open.spotify.com/artist/3kpSjBJ7SSuQ4rzdieCWSb) | [Dead End Utopia](https://open.spotify.com/album/45PMDZU0rB2jKNs7X8jV34) | 4:06 | 2022-07-13 | 2022-07-19 |
 | [Dead Inside](https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Run](https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7) | 3:24 | 2022-06-10 | 2023-05-06 |
 | [Dead Man's Diary](https://open.spotify.com/track/0W6JBOQRxYwwr4IDwfmdQg) | [Paleface](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Dead Man's Diary](https://open.spotify.com/album/1gvLe7lqcMsNmiiggAqDbn) | 4:39 | 2022-07-13 | 2022-07-23 |
@@ -1055,6 +1055,7 @@
 | [Spare Me](https://open.spotify.com/track/04NfX1qK7HBIzejYQhj6qn) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 3](https://open.spotify.com/album/0BWnYKF4PdH5ehk7oQU9W5) | 3:37 | 2024-11-08 |  |
 | [Spearmint Revolt](https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Spearmint Revolt](https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2) | 5:02 | 2022-07-08 | 2022-12-17 |
 | [Spitfire](https://open.spotify.com/track/5HX17BUpfp4hRR72K07vNp) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Disaster](https://open.spotify.com/album/0nnMK7iAg7Y3nVvw3i6Ayp) | 3:04 | 2024-09-20 | 2024-12-19 |
+| [Squier Talk](https://open.spotify.com/track/19LMSiPAc1Prev4mLWdDFt) | [vianova](https://open.spotify.com/artist/01DWiz55UPC4lQOGIo4z5n) | [Hit It!](https://open.spotify.com/album/7jcC7erlgmd9QbhooPY4bt) | 5:08 | 2025-09-05 |  |
 | [Stand Down](https://open.spotify.com/track/2tpiHcSSFCnpIH8HFzIUEa) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Shrine](https://open.spotify.com/album/6weRZNkcgMFxKcr98KC6Dg) | 4:06 | 2022-08-26 | 2023-01-06 |
 | [Stand Down](https://open.spotify.com/track/2ugULOhXNVpIvksyagm9Qr) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Stand Down](https://open.spotify.com/album/3YmIQSVKDgvDkDAdU03vEs) | 4:06 | 2022-04-15 | 2022-07-01 |
 | [Standing My Ground](https://open.spotify.com/track/2VysUNrUa2ADjbWFq9mXeM) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Standing My Ground](https://open.spotify.com/album/2hWAg8wRTOtHGvARnGPLcs) | 2:48 | 2022-01-14 | 2022-07-23 |

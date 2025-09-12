@@ -4,13 +4,14 @@
 
 > This is Venna\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 31 min
+48 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['99](https://open.spotify.com/track/1qoTLjj6YU1WWDH82RoNb7) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [EQUINOX](https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7) | 3:08 | 2025-08-02 |  |
 | [+Star101](https://open.spotify.com/track/1Te1WjWNktTVf9L1wmmTSz) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 1:58 | 2025-09-10 |  |
 | [2011 \(feat\. Venna\)](https://open.spotify.com/track/0n7mUH2Yx5mrUW2NvCBcTD) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Patience \(Deluxe Edition\)](https://open.spotify.com/album/1QEyTusbAcW5xMGGvWQkyC) | 2:50 | 2025-08-02 |  |
+| [Alchemy](https://open.spotify.com/track/46YO8XBL2ASB7kYdaiiUdl) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 1:53 | 2025-09-12 |  |
 | [Alpha House](https://open.spotify.com/track/6udE9waINs3SYdNoGTotm9) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [ALPHA PLACE](https://open.spotify.com/album/103O26J3AHRwYYZyRfKuwQ) | 3:01 | 2025-08-02 |  |
 | [Aroma](https://open.spotify.com/track/7yS7PlmXpEQGGcJInMMuow) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 2:24 | 2025-08-02 |  |
 | [Artist of the Century](https://open.spotify.com/track/0IRtsYqlZrATSdxuRS90Ip) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Showbiz!](https://open.spotify.com/album/3M1PhSsHmAlh79bAz9jBZs) | 2:53 | 2025-08-02 |  |
@@ -29,7 +30,7 @@
 | [MIMI NA WEWE](https://open.spotify.com/track/2eBFSZPYR5OX05CLSS4yWq) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [WAPOA SZN 2](https://open.spotify.com/album/5jF9JTfcYYAtr5xbzEknVD) | 2:19 | 2025-08-02 | 2025-08-09 |
 | [Misty](https://open.spotify.com/track/0KIOREGplwUG2IYkl2B7LW) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Misty](https://open.spotify.com/album/6O8KaGtYawqKjgj5JeBKg3) | 3:38 | 2025-08-02 |  |
 | [Mount Shasta](https://open.spotify.com/track/705XFBTxmtDRjrC7jIOY3t) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [EQUINOX](https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7) | 3:08 | 2025-08-02 |  |
-| [Mr Popular \(feat\. Smino\)](https://open.spotify.com/track/0CXpWhsS40RVRx81TgreI8) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Mr Popular \(feat\. Smino\)](https://open.spotify.com/album/4nO2YRNaNBas9gLW54LVyR) | 2:58 | 2025-09-10 |  |
+| [Mr Popular \(feat\. Smino\)](https://open.spotify.com/track/0CXpWhsS40RVRx81TgreI8) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Mr Popular \(feat\. Smino\)](https://open.spotify.com/album/4nO2YRNaNBas9gLW54LVyR) | 2:58 | 2025-09-10 | 2025-09-12 |
 | [My Way](https://open.spotify.com/track/7v98cyeI1bIR2kCoRuoaWG) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [My Way](https://open.spotify.com/album/3VBondIyQLQMKAOCEPKoRO) | 3:33 | 2025-08-02 |  |
 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL) | 2:58 | 2025-09-05 |  |
 | [Mystics \(feat\. Venna\) \- Live at Joshua Tree](https://open.spotify.com/track/1pemIyUJIPDQ2fWciNrh6z) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/2LrvbyF11d4ZlI1UAnLbEC) | 3:47 | 2025-08-02 |  |
@@ -54,6 +55,6 @@
 | [WestBorn](https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Soundboy](https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy) | 3:06 | 2025-08-02 |  |
 | [Where Are We Going?](https://open.spotify.com/track/6G1S9eAYKMget4tJowHYsi) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Where Are We Going?](https://open.spotify.com/album/6DEa2LNhNCldLC4bl9bE9I) | 3:46 | 2025-08-02 |  |
 | [Yoshi’ Intro](https://open.spotify.com/track/0PNd4kXm7P60yjSNLIJ6Vy) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 0:40 | 2025-09-10 |  |
-| [Zazu](https://open.spotify.com/track/5c8RVrqykEO8NTlAai5xCc) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 2:11 | 2025-09-10 |  |
+| [Zazu](https://open.spotify.com/track/5c8RVrqykEO8NTlAai5xCc) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 2:11 | 2025-09-10 | 2025-09-12 |
 
 \*This playlist was first scraped on 2025-08-02. Prior content cannot be recovered.

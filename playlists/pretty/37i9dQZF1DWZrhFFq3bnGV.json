@@ -1,13 +1,29 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Aku Jeje",
-  "num_followers": 112664,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Tripov",
+  "num_followers": 112689,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADIO6fNpiQ1tKIthYMqq09kDiadp",
+  "snapshot_id": "AAAAAF7Dm/OlzH0K41DUkSmmOC63hkaq",
   "tracks": [
+    {
+      "added_at": "2025-09-11 17:00:18",
+      "album": {
+        "name": "Elevator Music",
+        "url": "https://open.spotify.com/album/5AjKa0nb3p4CSPOpICdWNu"
+      },
+      "artists": [
+        {
+          "name": "Tripov",
+          "url": "https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h"
+        }
+      ],
+      "duration_ms": 172827,
+      "name": "Elevator Music",
+      "url": "https://open.spotify.com/track/3JPlpg1N3G4wv5QrTOSjvR"
+    },
     {
       "added_at": "2025-08-28 20:00:28",
       "album": {
@@ -39,6 +55,26 @@
       "duration_ms": 146000,
       "name": "Surely, Someday",
       "url": "https://open.spotify.com/track/2625LexPJq6aaoOst2MlLn"
+    },
+    {
+      "added_at": "2025-09-11 17:00:18",
+      "album": {
+        "name": "Aduhai",
+        "url": "https://open.spotify.com/album/34P4gbJGnRnzihM518thWc"
+      },
+      "artists": [
+        {
+          "name": "Tya Subiakto",
+          "url": "https://open.spotify.com/artist/76gVDaj7ndXjcexm4tTlPo"
+        },
+        {
+          "name": "Alex Kuple",
+          "url": "https://open.spotify.com/artist/1GFIKiUipgbe82QEs0tvg9"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Aduhai",
+      "url": "https://open.spotify.com/track/0ykFAeYYq7EJ52Ix4Fh2eg"
     },
     {
       "added_at": "2025-08-28 20:00:28",
@@ -79,26 +115,6 @@
       "duration_ms": 202300,
       "name": "Kutukan",
       "url": "https://open.spotify.com/track/5n0e7BD61fOxEK4XwwBOjW"
-    },
-    {
-      "added_at": "2025-08-14 19:00:04",
-      "album": {
-        "name": "Hanya Dia",
-        "url": "https://open.spotify.com/album/40ZH20Iiju1MZTnglsmyQK"
-      },
-      "artists": [
-        {
-          "name": "Tya Subiakto",
-          "url": "https://open.spotify.com/artist/76gVDaj7ndXjcexm4tTlPo"
-        },
-        {
-          "name": "Alex Kuple",
-          "url": "https://open.spotify.com/artist/1GFIKiUipgbe82QEs0tvg9"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Hanya Dia",
-      "url": "https://open.spotify.com/track/2ZiWWRqWPeksTDWOuL36mW"
     },
     {
       "added_at": "2025-07-17 17:28:37",
@@ -147,6 +163,26 @@
       "duration_ms": 300999,
       "name": "World : Against, Changed, Educate",
       "url": "https://open.spotify.com/track/6B1tdAqKADoEdn9Y4q9ulj"
+    },
+    {
+      "added_at": "2025-08-14 19:00:04",
+      "album": {
+        "name": "Hanya Dia",
+        "url": "https://open.spotify.com/album/40ZH20Iiju1MZTnglsmyQK"
+      },
+      "artists": [
+        {
+          "name": "Tya Subiakto",
+          "url": "https://open.spotify.com/artist/76gVDaj7ndXjcexm4tTlPo"
+        },
+        {
+          "name": "Alex Kuple",
+          "url": "https://open.spotify.com/artist/1GFIKiUipgbe82QEs0tvg9"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Hanya Dia",
+      "url": "https://open.spotify.com/track/2ZiWWRqWPeksTDWOuL36mW"
     },
     {
       "added_at": "2025-07-17 17:28:37",
@@ -1147,22 +1183,6 @@
     {
       "added_at": "2025-06-26 17:47:30",
       "album": {
-        "name": "Djanger Bali (2023 Remaster)",
-        "url": "https://open.spotify.com/album/7bMEHAHVHc6hxfLEWnWTqb"
-      },
-      "artists": [
-        {
-          "name": "Tony Scott",
-          "url": "https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v"
-        }
-      ],
-      "duration_ms": 322152,
-      "name": "Burungkaka Tua",
-      "url": "https://open.spotify.com/track/1ZjQYu0Pcc0lw6thWyzbGv"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
         "name": "Ada Anak Bertanya Pada Bapaknya",
         "url": "https://open.spotify.com/album/7CCGnASUZMKV90hDmbWaAR"
       },
@@ -1447,30 +1467,6 @@
     {
       "added_at": "2025-06-26 17:47:30",
       "album": {
-        "name": "Scars Souvenir",
-        "url": "https://open.spotify.com/album/1qvid202eOiUz6vI8xFca0"
-      },
-      "artists": [
-        {
-          "name": "Azimah Fada",
-          "url": "https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9"
-        },
-        {
-          "name": "Leca Percussion",
-          "url": "https://open.spotify.com/artist/3w7VheCMgx50I3vsFlmL2q"
-        },
-        {
-          "name": "Rhesa Siregar",
-          "url": "https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS"
-        }
-      ],
-      "duration_ms": 179827,
-      "name": "As We Talk",
-      "url": "https://open.spotify.com/track/1xNoiDKbPQnPZknnOxLT6m"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
         "name": "Lucky to Be Young",
         "url": "https://open.spotify.com/album/6EBRlRTk9ui6S0jyroopZa"
       },
@@ -1531,22 +1527,6 @@
       "duration_ms": 232400,
       "name": "Kala Itu",
       "url": "https://open.spotify.com/track/7HO2RmmmIZgZHiRJPzpguJ"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
-        "name": "Sisi Lain",
-        "url": "https://open.spotify.com/album/49VL4XUeqZHjzOiWOxzi8R"
-      },
-      "artists": [
-        {
-          "name": "Sisasa",
-          "url": "https://open.spotify.com/artist/3xC683HyOA5mFKwuCyJDc1"
-        }
-      ],
-      "duration_ms": 276052,
-      "name": "Entah",
-      "url": "https://open.spotify.com/track/5c8tb3bS3KtR0H56OnDKwj"
     },
     {
       "added_at": "2025-06-26 17:47:30",

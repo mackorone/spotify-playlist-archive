@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/7CUutOsihwRKjwongFZtgt"
+      },
+      "artists": [
+        {
+          "name": "maybe",
+          "url": "https://open.spotify.com/artist/1kLyslVxDqKFsDC68AGzdS"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216550,
+      "name": "9",
+      "url": "https://open.spotify.com/track/0qe5eV70bPb2fbDsJV0Wx9"
+    },
+    {
+      "album": {
         "name": "98 Sunset",
         "url": "https://open.spotify.com/album/386IQCbncYG3ThRtOt1Kn2"
       },
@@ -4854,7 +4872,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 210562,
       "name": "Food for the Soul",
       "url": "https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"
@@ -6052,7 +6070,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 140000,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
@@ -8758,6 +8776,24 @@
       "duration_ms": 181681,
       "name": "Live You Down",
       "url": "https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh"
+    },
+    {
+      "album": {
+        "name": "LIVING WITHOUT U",
+        "url": "https://open.spotify.com/album/1kls1K8RYllsX1baM4X8kQ"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191319,
+      "name": "LIVING WITHOUT U",
+      "url": "https://open.spotify.com/track/2krfwDVuO30gcQjZ0houHE"
     },
     {
       "album": {

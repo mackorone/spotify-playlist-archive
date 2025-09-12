@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Lady Gaga, Nickless, Hava and Dardan, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,264 likes - 108 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,267 likes - 108 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 107 | [Fuego](https://open.spotify.com/track/3QML1KPPD58a1mihUM0sa3) | [Pietro Lombardi](https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0) | [Fuego](https://open.spotify.com/album/3xire5P41qzdRGPUMmV51t) | 2:46 |
 | 108 | [qué triste, qué desastre \(bolero\)](https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [nomeolvides](https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT) | 2:59 |
 
-Snapshot ID: `AAAAAOtf9x+ZIFodpipYDPNrwpdXAsw6`
+Snapshot ID: `AAAAALSZXRdL+EaIqYRmFZglCGKdqH4m`

@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 115108,
+  "num_followers": 115112,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -59,26 +59,18 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Bi' Tek Ben Anlar\u0131m",
-        "url": "https://open.spotify.com/album/0cQbLrbLcdnLnyvYGlLEBV"
+        "name": "Akustik Travma",
+        "url": "https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU"
       },
       "artists": [
         {
-          "name": "K\u00d6FN",
-          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
-        },
-        {
-          "name": "Salman Tin",
-          "url": "https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m"
-        },
-        {
-          "name": "BKE",
-          "url": "https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C"
+          "name": "Y\u00fczy\u00fczeyken Konu\u015furuz",
+          "url": "https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU"
         }
       ],
-      "duration_ms": 196250,
-      "name": "Bi' Tek Ben Anlar\u0131m",
-      "url": "https://open.spotify.com/track/7toL7Re9rApzIuIFDaLQSe"
+      "duration_ms": 235817,
+      "name": "Bodrum",
+      "url": "https://open.spotify.com/track/7DarbtpxRUG5POF3ifwu61"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -115,18 +107,26 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Akustik Travma",
-        "url": "https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU"
+        "name": "Bi' Tek Ben Anlar\u0131m",
+        "url": "https://open.spotify.com/album/0cQbLrbLcdnLnyvYGlLEBV"
       },
       "artists": [
         {
-          "name": "Y\u00fczy\u00fczeyken Konu\u015furuz",
-          "url": "https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU"
+          "name": "K\u00d6FN",
+          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
+        },
+        {
+          "name": "Salman Tin",
+          "url": "https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m"
+        },
+        {
+          "name": "BKE",
+          "url": "https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C"
         }
       ],
-      "duration_ms": 235817,
-      "name": "Bodrum",
-      "url": "https://open.spotify.com/track/7DarbtpxRUG5POF3ifwu61"
+      "duration_ms": 196250,
+      "name": "Bi' Tek Ben Anlar\u0131m",
+      "url": "https://open.spotify.com/track/7toL7Re9rApzIuIFDaLQSe"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "\u015eark\u0131 S\u00f6ylemek Laz\u0131m",
-        "url": "https://open.spotify.com/album/1EslpWF9y4x0g6h8yfZLvU"
-      },
-      "artists": [
-        {
-          "name": "Sezen Aksu",
-          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
-        }
-      ],
-      "duration_ms": 260426,
-      "name": "\u015eark\u0131 S\u00f6ylemek Laz\u0131m",
-      "url": "https://open.spotify.com/track/3jZTq9IJuhKVbFR3GXtZ8e"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "Sen Istersin",
         "url": "https://open.spotify.com/album/3djhTR4KzzVaYfRXusCjv5"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 203400,
       "name": "Sen Istersin",
       "url": "https://open.spotify.com/track/1wMvP4KuZOcA3kum0TE6x6"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "\u015eark\u0131 S\u00f6ylemek Laz\u0131m",
+        "url": "https://open.spotify.com/album/1EslpWF9y4x0g6h8yfZLvU"
+      },
+      "artists": [
+        {
+          "name": "Sezen Aksu",
+          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "duration_ms": 260426,
+      "name": "\u015eark\u0131 S\u00f6ylemek Laz\u0131m",
+      "url": "https://open.spotify.com/track/3jZTq9IJuhKVbFR3GXtZ8e"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
+        "name": "Al Senin Olsun D\u00fcnya",
+        "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
+      },
+      "artists": [
+        {
+          "name": "Buray",
+          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
+        }
+      ],
+      "duration_ms": 195805,
+      "name": "AL SEN\u0130N OLSUN D\u00dcNYA",
+      "url": "https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
         "name": "Ele G\u00fcne Kar\u015f\u0131 Yapayaln\u0131z",
         "url": "https://open.spotify.com/album/0NyY9YsGb9YniAs5h6Eva4"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 238453,
       "name": "ultrapop",
       "url": "https://open.spotify.com/track/3SOo2UUK8PxYmR6LdY75kz"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
-        "name": "Al Senin Olsun D\u00fcnya",
-        "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
-      },
-      "artists": [
-        {
-          "name": "Buray",
-          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
-        }
-      ],
-      "duration_ms": 195805,
-      "name": "AL SEN\u0130N OLSUN D\u00dcNYA",
-      "url": "https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs"
     },
     {
       "added_at": "2025-07-10 21:06:57",

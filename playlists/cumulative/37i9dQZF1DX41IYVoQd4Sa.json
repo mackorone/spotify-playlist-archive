@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/4Spchm6vre9ivSTtnS4eZB"
+      },
+      "artists": [
+        {
+          "name": "Tomer Yosef",
+          "url": "https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "360",
+      "url": "https://open.spotify.com/track/4CFNVoLBv6DNQO0IOox6u7"
+    },
+    {
+      "album": {
         "name": "\u05e2\u05d5\u05d3 \u05de\u05e9\u05e7\u05d0\u05d5\u05ea \u05d7\u05e8\u05d9\u05e4\u05d9\u05dd",
         "url": "https://open.spotify.com/album/3RI19QNV4o6KenqcqmApIK"
       },
@@ -56,6 +74,24 @@
       "duration_ms": 225700,
       "name": "5/4",
       "url": "https://open.spotify.com/track/2FZuS4D8xTOsM7bCLy4a1z"
+    },
+    {
+      "album": {
+        "name": "50",
+        "url": "https://open.spotify.com/album/0GTWdKSin55AtpzJVHQUMq"
+      },
+      "artists": [
+        {
+          "name": "Peter Roth",
+          "url": "https://open.spotify.com/artist/5lLE5NXuUO1dpOIEKMwA5d"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "50",
+      "url": "https://open.spotify.com/track/27v4cb03PUqsG9w0KNAiPd"
     },
     {
       "album": {
@@ -552,7 +588,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 149043,
       "name": "DUMB (AATM) - Live",
       "url": "https://open.spotify.com/track/26EJ2XMpTC5RINUQOO50Cw"
@@ -764,7 +800,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 227100,
       "name": "Grow",
       "url": "https://open.spotify.com/track/1HiflKZ1j4EbduV5pSPEhF"
@@ -1784,6 +1820,24 @@
       "duration_ms": 212505,
       "name": "The Player",
       "url": "https://open.spotify.com/track/0L22an9RKBbFR3rT1yOS3W"
+    },
+    {
+      "album": {
+        "name": "Unfurling Dream",
+        "url": "https://open.spotify.com/album/4jPc7jqjSca8rkAgYRuXII"
+      },
+      "artists": [
+        {
+          "name": "Asaf Avidan",
+          "url": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348429,
+      "name": "Unfurling Dream",
+      "url": "https://open.spotify.com/track/6NyGMNJTXnn3keVdHQZeZ2"
     },
     {
       "album": {
@@ -3421,6 +3475,24 @@
     },
     {
       "album": {
+        "name": "\u05d6\u05d4 \u05dc\u05d0 \u05d7\u05d9\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/6IZ7G2mxcQbLyQ6BLF8kVB"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176812,
+      "name": "\u05d6\u05d4 \u05dc\u05d0 \u05d7\u05d9\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/5TYvxPIqdVbIUk066PaRNe"
+    },
+    {
+      "album": {
         "name": "\u05d6\u05e0\u05d1 \u05dc\u05d0\u05e8\u05d9\u05d5\u05ea",
         "url": "https://open.spotify.com/album/63puPTqi1TeyCgpurPx7v7"
       },
@@ -4076,7 +4148,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 239411,
       "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
       "url": "https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW"
@@ -4704,7 +4776,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 159665,
       "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
       "url": "https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV"
@@ -4974,6 +5046,24 @@
       "duration_ms": 265226,
       "name": "\u05e0\u05db\u05e0\u05e2 \u05dc\u05da",
       "url": "https://open.spotify.com/track/1HHfRiRLtMmRedkKSnaneH"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05d6\u05db\u05e8\u05ea \u05dc\u05d9\u05dc\u05d3\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4I6ZdbM6E5B8OfyvWKVSag"
+      },
+      "artists": [
+        {
+          "name": "\u05e2\u05de\u05e8 \u05d2\u05e9\u05df",
+          "url": "https://open.spotify.com/artist/0oLMEeiq8Fyv2QI35LtsKX"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "\u05e0\u05e8\u05d0\u05d4 \u05dc\u05d9 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9\u05d9",
+      "url": "https://open.spotify.com/track/0V9HDVYyQKRBQ8mHKXRiJ8"
     },
     {
       "album": {
@@ -5708,7 +5798,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 166506,
       "name": "\u05e9\u05d9\u05e8 \u05d2\u05d3\u05d5\u05dc",
       "url": "https://open.spotify.com/track/6mB1qSJZMD6iIF8SbTEQvD"

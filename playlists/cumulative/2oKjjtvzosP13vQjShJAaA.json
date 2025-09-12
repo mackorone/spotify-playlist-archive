@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "Die verh\u00e4rtete Epidermis (abgelehnt)",
+        "url": "https://open.spotify.com/album/7mAYfMMQU6gMfngm7lZx7f"
+      },
+      "artists": [
+        {
+          "name": "helmuth",
+          "url": "https://open.spotify.com/artist/4HIT0I8KzbTN5TuUcV60GG"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101543,
+      "name": "Die verh\u00e4rtete Epidermis (abgelehnt)",
+      "url": "https://open.spotify.com/track/5SfCfIVfAWbArSQkUeazib"
+    },
+    {
+      "album": {
         "name": "Donuts",
         "url": "https://open.spotify.com/album/4qttgo34m4dFEtc5mlJb6L"
       },
@@ -458,7 +476,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 185806,
       "name": "Peter Pan Freestyle",
       "url": "https://open.spotify.com/track/7EN1a8XLlnb0NcH2EEW8lZ"
@@ -550,7 +568,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 217605,
       "name": "Spie\u00dfer",
       "url": "https://open.spotify.com/track/1brOArnxwTo0P7X4RkzRVH"
@@ -612,7 +630,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 149370,
       "name": "Warum",
       "url": "https://open.spotify.com/track/49QKqatCdfMIoOhx3Xt2Sn"

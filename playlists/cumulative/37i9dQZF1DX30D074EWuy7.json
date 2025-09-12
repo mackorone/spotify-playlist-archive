@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "AMUN\u00cc",
+        "url": "https://open.spotify.com/album/11Eg6yBh2LphTmiHJY0vwt"
+      },
+      "artists": [
+        {
+          "name": "sunremo",
+          "url": "https://open.spotify.com/artist/0PifXQiTMFvQVmZRu3Skk5"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220969,
+      "name": "AMUN\u00cc",
+      "url": "https://open.spotify.com/track/3IbJzKw3LBlO0Gomvw4wqP"
+    },
+    {
+      "album": {
         "name": "Lavoro e tempo libero",
         "url": "https://open.spotify.com/album/5VWALGguSmp9l3FN2BWcNP"
       },
@@ -1618,7 +1636,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 283977,
       "name": "Bugiardo, incosciente",
       "url": "https://open.spotify.com/track/3DXgG3Nncn1x9qrpZHZl0V"
@@ -4416,7 +4434,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 269139,
       "name": "How Far Can You Fly? (Ladder) - Original Version",
       "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
@@ -7374,7 +7392,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 290428,
       "name": "My Groove Your Moove",
       "url": "https://open.spotify.com/track/5jkYLolY6EqsKTyQ3S64p0"

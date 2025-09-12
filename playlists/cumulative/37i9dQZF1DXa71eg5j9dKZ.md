@@ -2,7 +2,7 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: I\. JORDAN
+> The home for alternative electronic music\. Cover: Archie Holmes
 
 1,265 songs - 3 day 14 hr 12 min
 

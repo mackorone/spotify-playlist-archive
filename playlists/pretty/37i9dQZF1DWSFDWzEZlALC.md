@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: TOBIAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,887 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,878 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Rasendes Herz](https://open.spotify.com/track/29eXnzxpENGrWcMwc36eGN) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Rasendes Herz](https://open.spotify.com/album/5UWi7JLOlx3WUUINhbJTYk) | 4:07 |
 | 75 | [Das Glück gehört Versagern](https://open.spotify.com/track/1z2GenlspZ6QIU3kl1XyLl) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Das Glück gehört Versagern](https://open.spotify.com/album/5NiqrjXmfY2OwAhdNJ9fV5) | 3:28 |
 
-Snapshot ID: `AAAAAJ/plrD+tXpn7Vrzpig1q5juOPai`
+Snapshot ID: `AAAAACtUBrTbpPWqw6nJEknEej8dTtzL`

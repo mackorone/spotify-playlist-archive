@@ -1,15 +1,587 @@
 {
   "description": "Survival takes everything. Listen to the music from Beauty in Black, now streaming on Netflix. ",
-  "num_followers": 13796,
+  "num_followers": 13850,
   "original_name": "Tyler Perry's Beauty in Black Official Playlist ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALg55i1Mg/RZIPG6W8nFYTRp9kVU",
+  "snapshot_id": "AAAAANZHyz1VJv8ITX6E+Kz42dSAmtoI",
   "tracks": [
     {
-      "added_at": "2025-03-11 21:54:26",
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "AND WHAT",
+        "url": "https://open.spotify.com/album/7Gw2muTNk0bWEMuI7Jy0Tp"
+      },
+      "artists": [
+        {
+          "name": "TBoss",
+          "url": "https://open.spotify.com/artist/0RsD7Vf5UelTulHar9vCbm"
+        }
+      ],
+      "duration_ms": 227418,
+      "name": "AND WHAT",
+      "url": "https://open.spotify.com/track/0s4vQcuTKfu70E2jsZ3Qt9"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/1ZGFv0dl8LocUBEM9gdHYL"
+      },
+      "artists": [
+        {
+          "name": "She'Chinah",
+          "url": "https://open.spotify.com/artist/4QUGM1ZnTMndMLxwjsrUHN"
+        }
+      ],
+      "duration_ms": 167543,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/5NE0TQpG0bW55yjF4E2WJ2"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "U&I",
+        "url": "https://open.spotify.com/album/1J7RTEuY3VUufp1LpL70oz"
+      },
+      "artists": [
+        {
+          "name": "Rital",
+          "url": "https://open.spotify.com/artist/0VrrTjOappP6aMPgq0X9Dz"
+        }
+      ],
+      "duration_ms": 156360,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/0b81h9bYLdS2m26VztKGJq"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Thrill",
+        "url": "https://open.spotify.com/album/0yPYBC4zyI1y21HbnpYKtm"
+      },
+      "artists": [
+        {
+          "name": "Max Mill",
+          "url": "https://open.spotify.com/artist/7IDjHlFsyvjBRPRDscvL7J"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Thrill",
+      "url": "https://open.spotify.com/track/7oHU6fTGZkq8oy5gN3Mow5"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Female Hip Hop 2",
+        "url": "https://open.spotify.com/album/1y3e2NnOkp3yZZ2AEcSJLD"
+      },
+      "artists": [
+        {
+          "name": "Pea McGee",
+          "url": "https://open.spotify.com/artist/7EqlSA6HscG8ZrF1ni8ns9"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "Get My Bread Up",
+      "url": "https://open.spotify.com/track/6riIlQAbxO2vud7ZZWjG8j"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Backend Diaries",
+        "url": "https://open.spotify.com/album/6KNOQ5QZtHLrgZJJqEjc1p"
+      },
+      "artists": [
+        {
+          "name": "Juwon",
+          "url": "https://open.spotify.com/artist/6MHshInQw0WmiW4iui0j8T"
+        },
+        {
+          "name": "OG Stevo",
+          "url": "https://open.spotify.com/artist/5aRDdDmqVemjmxlwBeHj9S"
+        }
+      ],
+      "duration_ms": 150048,
+      "name": "Stepping On Tops",
+      "url": "https://open.spotify.com/track/4SyezV7ObIPH1oHJdWMhEm"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Allszn",
+        "url": "https://open.spotify.com/album/6sWsy4gFoJMTuD5SFpAdjr"
+      },
+      "artists": [
+        {
+          "name": "Yung Major",
+          "url": "https://open.spotify.com/artist/2YywYCmwx91E5U63oo7PYu"
+        },
+        {
+          "name": "B Sound Beatz",
+          "url": "https://open.spotify.com/artist/1FQZu5Bqa9UjrmtlK8dgvi"
+        }
+      ],
+      "duration_ms": 129200,
+      "name": "Its Magic",
+      "url": "https://open.spotify.com/track/24BrFf0hlBECrBYEUp2oot"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Wrong or Right",
+        "url": "https://open.spotify.com/album/3F9ZH2xz9W5jPTHwUE8Nsn"
+      },
+      "artists": [
+        {
+          "name": "Aya",
+          "url": "https://open.spotify.com/artist/3xSFO1JicLUiuRKhKR1W4Z"
+        },
+        {
+          "name": "Cole Simon",
+          "url": "https://open.spotify.com/artist/7IDkgbSmHzQ7m0GW0Fx6pk"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "Wrong or Right",
+      "url": "https://open.spotify.com/track/6Mdwntd24czBaj67SsKJyJ"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "In My Dreams",
+        "url": "https://open.spotify.com/album/2hSZUM1zUWwg2toZrMGhOW"
+      },
+      "artists": [
+        {
+          "name": "Blackhand",
+          "url": "https://open.spotify.com/artist/2DSzHCZIosApfAc8sO5r0T"
+        }
+      ],
+      "duration_ms": 152068,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/2TfsbnvPWoAwaEd2lP37Wn"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "BNB",
+        "url": "https://open.spotify.com/album/4EMQ7mQHmwxqIqa9d8ttk4"
+      },
+      "artists": [
+        {
+          "name": "OG Stevo",
+          "url": "https://open.spotify.com/artist/5aRDdDmqVemjmxlwBeHj9S"
+        }
+      ],
+      "duration_ms": 173545,
+      "name": "BNB",
+      "url": "https://open.spotify.com/track/1RWTz7WHqbQHu5IlwuX3vG"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2KTc9cgkqWTaakPfUTUD1b"
+      },
+      "artists": [
+        {
+          "name": "BAHA BANK$",
+          "url": "https://open.spotify.com/artist/0RCAPjosUl0X0PehJ5GKJz"
+        }
+      ],
+      "duration_ms": 183412,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/72OASU7NxU7ZQLVyEEU6lG"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Trending Hip Hop 5",
+        "url": "https://open.spotify.com/album/0YiZ2ViJMCtvR9hufOiuy9"
+      },
+      "artists": [
+        {
+          "name": "Camila Paiva",
+          "url": "https://open.spotify.com/artist/0rWIfLutLAE4TSECEJdV5J"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Geeked When the Beat Go Up",
+      "url": "https://open.spotify.com/track/08Jfe0x94MdUH6yDMAMG8J"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Holy Vibe",
+        "url": "https://open.spotify.com/album/7iZPG84JQs5NaQV4T3mhM2"
+      },
+      "artists": [
+        {
+          "name": "Danskiy",
+          "url": "https://open.spotify.com/artist/0nDMnyWzCyoGR7Xr8uOUFQ"
+        },
+        {
+          "name": "Chase Miracles",
+          "url": "https://open.spotify.com/artist/07ZhWIYZvFXA3HZnj9EGJb"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/7E1qe00MYPtQ5DZSKzN3Y6"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Trending Hip Hop 2",
+        "url": "https://open.spotify.com/album/1DBuF236vrZf3R6TpavYvx"
+      },
+      "artists": [
+        {
+          "name": "Lexus Michelle",
+          "url": "https://open.spotify.com/artist/0oPvTvMPi7hY0d6QnMRa9w"
+        }
+      ],
+      "duration_ms": 124090,
+      "name": "Get It Now",
+      "url": "https://open.spotify.com/track/6iJI84ZqFtWDRQJ1nsVZ4U"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "GRL 2",
+        "url": "https://open.spotify.com/album/1lEPCl7gaK5ZTincTQZnbk"
+      },
+      "artists": [
+        {
+          "name": "SATV Music",
+          "url": "https://open.spotify.com/artist/2VMbzdrOBil1vCkU2aitA6"
+        }
+      ],
+      "duration_ms": 100706,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/3fANK5fX3gd9EEuglZYr89"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Holy Vibe",
+        "url": "https://open.spotify.com/album/7iZPG84JQs5NaQV4T3mhM2"
+      },
+      "artists": [
+        {
+          "name": "Danskiy",
+          "url": "https://open.spotify.com/artist/0nDMnyWzCyoGR7Xr8uOUFQ"
+        },
+        {
+          "name": "Tori G",
+          "url": "https://open.spotify.com/artist/6EIvZ7rdYCCvDSevf63CUU"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Lambo",
+      "url": "https://open.spotify.com/track/1iyqzBt5PTqmYu14f4ewLu"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "#ClapChallenge",
+        "url": "https://open.spotify.com/album/5vOfuQgA61QTJxpewic0h0"
+      },
+      "artists": [
+        {
+          "name": "Fever 5900",
+          "url": "https://open.spotify.com/artist/4pHtGy3NnVGalUTrjq8onq"
+        }
+      ],
+      "duration_ms": 223645,
+      "name": "#ClapChallenge",
+      "url": "https://open.spotify.com/track/7oRYfMfhXAhnUT9CrYqgXk"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Freakniq",
+        "url": "https://open.spotify.com/album/4hodlcc72E1soDhRfkfZPm"
+      },
+      "artists": [
+        {
+          "name": "Nique Royale",
+          "url": "https://open.spotify.com/artist/4DxDLhMsSI7oqyrAuXVPLf"
+        }
+      ],
+      "duration_ms": 123144,
+      "name": "Freakniq",
+      "url": "https://open.spotify.com/track/5FRz0gtywkWTEl79o2vfPg"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Piano Lessons",
+        "url": "https://open.spotify.com/album/3x8eNrgvtP00iLEJBb2fXP"
+      },
+      "artists": [
+        {
+          "name": "YK The Realest",
+          "url": "https://open.spotify.com/artist/1Zj0f2osYkhrETeKd3gsfx"
+        }
+      ],
+      "duration_ms": 139404,
+      "name": "Piano Lessons",
+      "url": "https://open.spotify.com/track/0jT3O6bz68H0LY1yZcG0ud"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Artist Series; TheENDipromise",
+        "url": "https://open.spotify.com/album/7KEbNuXvLSjue5wZKWYvtA"
+      },
+      "artists": [
+        {
+          "name": "TheENDipromise",
+          "url": "https://open.spotify.com/artist/2UlmjTRNjA2V3EaGJwCnBz"
+        }
+      ],
+      "duration_ms": 102206,
+      "name": "Get Rich",
+      "url": "https://open.spotify.com/track/10XAXNatkmrSMcVlXeBdEA"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Vamanos",
+        "url": "https://open.spotify.com/album/4zGPEXcbEnA6fOK78e94uL"
+      },
+      "artists": [
+        {
+          "name": "Candice Cooper",
+          "url": "https://open.spotify.com/artist/0guTihxaXR2Lv2xhSQoW3s"
+        }
+      ],
+      "duration_ms": 139232,
+      "name": "Vamanos",
+      "url": "https://open.spotify.com/track/6onc7xbobAVAyZR5HVBuR3"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Whole Team Winning",
+        "url": "https://open.spotify.com/album/48KjYBUcfos1SKnENhmKpz"
+      },
+      "artists": [
+        {
+          "name": "B Sound Beatz",
+          "url": "https://open.spotify.com/artist/1FQZu5Bqa9UjrmtlK8dgvi"
+        },
+        {
+          "name": "Yung Major",
+          "url": "https://open.spotify.com/artist/2YywYCmwx91E5U63oo7PYu"
+        }
+      ],
+      "duration_ms": 129642,
+      "name": "Aint Seeing Me",
+      "url": "https://open.spotify.com/track/0rTnMlHZu9kW4uFXpTfFQg"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Smooth Summer",
+        "url": "https://open.spotify.com/album/1X6YH0e8Ki5rEytMQJF02g"
+      },
+      "artists": [
+        {
+          "name": "AXS Music",
+          "url": "https://open.spotify.com/artist/4DNCuKvsum3N27ll9UNhwT"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "So We Drop",
+      "url": "https://open.spotify.com/track/1S7LB9AqgWxFZbUxzhB6JO"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "The Hottest",
+        "url": "https://open.spotify.com/album/7Lvr8hVpykyY9i5RqUYZCH"
+      },
+      "artists": [
+        {
+          "name": "Life\u2019s Luckii",
+          "url": "https://open.spotify.com/artist/5dkqkpnwx0sBxGGLrkRYQf"
+        }
+      ],
+      "duration_ms": 164357,
+      "name": "The Hottest",
+      "url": "https://open.spotify.com/track/3YxEjQZrU5XYDHDACtbHV7"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Handle This",
+        "url": "https://open.spotify.com/album/7hAXe5IKodTL4oLrYlLcaM"
+      },
+      "artists": [
+        {
+          "name": "Mama Kali",
+          "url": "https://open.spotify.com/artist/2yIsBnqtN2EmTepwKQPNze"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "Servin' Looks",
+      "url": "https://open.spotify.com/track/7JnCB9C6FVVFdSCSukGlxO"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "White Lanes",
+        "url": "https://open.spotify.com/album/5BRvUEWchhVXr1c7OkvVJT"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Robertson",
+          "url": "https://open.spotify.com/artist/4UZtbKvU38q0kujsIRtrLE"
+        },
+        {
+          "name": "Jacob Paul Turner",
+          "url": "https://open.spotify.com/artist/4YJVBe5ofkmDnQGU8nd1uQ"
+        },
+        {
+          "name": "Marc Pueschl",
+          "url": "https://open.spotify.com/artist/50cy8yHKtbENdO5ifQ2vu3"
+        }
+      ],
+      "duration_ms": 133533,
+      "name": "White Lanes",
+      "url": "https://open.spotify.com/track/2TxlEmSamINKS9TOkuaryI"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "FGTBD3 (Feels Great To Be Dope 3)",
+        "url": "https://open.spotify.com/album/15SHdnuMkSHJ4Emv6zXVQo"
+      },
+      "artists": [
+        {
+          "name": "Wendell \"UTK\" Nelson",
+          "url": "https://open.spotify.com/artist/6ASacI48tJPp9ftRM1Brnm"
+        }
+      ],
+      "duration_ms": 127504,
+      "name": "WHAT I DO",
+      "url": "https://open.spotify.com/track/3HLHUVMhchcbdVQd29Z0Kz"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Wassup",
+        "url": "https://open.spotify.com/album/5cJMNT1VjcLJlCukGeaJbX"
+      },
+      "artists": [
+        {
+          "name": "MARS",
+          "url": "https://open.spotify.com/artist/6wqKQwGTEVKwuAeftF1ntw"
+        }
+      ],
+      "duration_ms": 144179,
+      "name": "Heiress",
+      "url": "https://open.spotify.com/track/4pfiy28rdFREN8VeDj86db"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "JUST JUN\u00d8",
+        "url": "https://open.spotify.com/album/0EQyA2XMufuIuuIZe3Tbdq"
+      },
+      "artists": [
+        {
+          "name": "Junoflo",
+          "url": "https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R"
+        }
+      ],
+      "duration_ms": 256665,
+      "name": "Losing Focus",
+      "url": "https://open.spotify.com/track/5BO33iSxDItuTnM5v7o856"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "I Against I",
+        "url": "https://open.spotify.com/album/6xw5oNhHoLltpXCFONNnqs"
+      },
+      "artists": [
+        {
+          "name": "Bad Brains",
+          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
+        }
+      ],
+      "duration_ms": 62306,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/79qRYbbfG8dQsgX93IEZV5"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "I Against I",
+        "url": "https://open.spotify.com/album/6xw5oNhHoLltpXCFONNnqs"
+      },
+      "artists": [
+        {
+          "name": "Bad Brains",
+          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
+        }
+      ],
+      "duration_ms": 170693,
+      "name": "I Against I",
+      "url": "https://open.spotify.com/track/5sNRPeIYoLJU5OSb7lSXPj"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Tyler Perry's Beauty in Black: Season 2, Part 1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/06n5SOHVnFiCv7XuaNJvC8"
+      },
+      "artists": [
+        {
+          "name": "WOW JONES & JIMIJAME$",
+          "url": "https://open.spotify.com/artist/6l9oqZw8rtykuMYxNyLDjN"
+        },
+        {
+          "name": "Lambert 'Stereo' Waldrip",
+          "url": "https://open.spotify.com/artist/7fYRvGjEjpBZSvLcQACP1Q"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Mask Up",
+      "url": "https://open.spotify.com/track/5cmH8zxF08HNMDjRnWqtd0"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
+      "album": {
+        "name": "Tyler Perry's Beauty in Black: Season 2, Part 1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/06n5SOHVnFiCv7XuaNJvC8"
+      },
+      "artists": [
+        {
+          "name": "WOW JONES & JIMIJAME$",
+          "url": "https://open.spotify.com/artist/6l9oqZw8rtykuMYxNyLDjN"
+        },
+        {
+          "name": "Matthew Weatherly",
+          "url": "https://open.spotify.com/artist/4kA48d8c7HUr4KJrrd9A3s"
+        },
+        {
+          "name": "Logan \"Gnarly\" Neff",
+          "url": "https://open.spotify.com/artist/0baube9E1K9iAkjB2uUVPH"
+        }
+      ],
+      "duration_ms": 132341,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/417fFmfR4kr7CiCIAexSBU"
+    },
+    {
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "LIGHTS OUT",
         "url": "https://open.spotify.com/album/6GXXBvb2XqnmpzZfzTlrAw"
@@ -29,7 +601,7 @@
       "url": "https://open.spotify.com/track/0KcvEKZsZTGHVzUmaGaHvw"
     },
     {
-      "added_at": "2025-03-06 08:00:28",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Made, Vol. 24 - Do Not Disturb",
         "url": "https://open.spotify.com/album/5wI0hiFf9zABwAcICdgb1A"
@@ -45,7 +617,7 @@
       "url": "https://open.spotify.com/track/7wMBzirVCY3f3o1aML5UVv"
     },
     {
-      "added_at": "2025-03-06 08:00:28",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Alt Hip Hop",
         "url": "https://open.spotify.com/album/3G9351xOl6LT28Hkxkuwhu"
@@ -65,7 +637,7 @@
       "url": "https://open.spotify.com/track/1Lkq3K1DU4zG0g4nth8I8W"
     },
     {
-      "added_at": "2025-03-06 08:00:28",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Made, Vol. 5 - Make A Dolla",
         "url": "https://open.spotify.com/album/4F00UPSKPINclYChKsZSiW"
@@ -81,7 +653,7 @@
       "url": "https://open.spotify.com/track/2uEylkyMqKljc7pWbvZPp0"
     },
     {
-      "added_at": "2025-03-06 08:00:28",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Inter Alia",
         "url": "https://open.spotify.com/album/456ZHuyvmEayTD8xVVJoyA"
@@ -97,7 +669,7 @@
       "url": "https://open.spotify.com/track/4Yx9cXCWZVK3XSgEn6nWvM"
     },
     {
-      "added_at": "2025-03-06 08:00:28",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "The Moonshine Music Co: Southern Soul",
         "url": "https://open.spotify.com/album/5lr5QWVheZ2cZeMw9gVOgx"
@@ -113,7 +685,7 @@
       "url": "https://open.spotify.com/track/1cie4kb17K56O616mRmcso"
     },
     {
-      "added_at": "2025-03-06 08:00:28",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Stack It",
         "url": "https://open.spotify.com/album/0po90ROxOlCyWX8IMIDMQo"
@@ -129,7 +701,7 @@
       "url": "https://open.spotify.com/track/6z58sFapcYdtQcJaFUFJ2G"
     },
     {
-      "added_at": "2025-03-06 08:00:28",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Let That Money Talk",
         "url": "https://open.spotify.com/album/3TNbtNoKWigq8Yx0XVzGfF"
@@ -145,7 +717,7 @@
       "url": "https://open.spotify.com/track/1skNMNF9w5ZxY9BvIl7Kvc"
     },
     {
-      "added_at": "2025-03-06 08:00:28",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "You Know Tha Drill",
         "url": "https://open.spotify.com/album/5n9HQV89A6vjLzkqlglrj6"
@@ -161,7 +733,7 @@
       "url": "https://open.spotify.com/track/2FPzQgvnQWqohtVZEjXQ7V"
     },
     {
-      "added_at": "2025-03-06 08:00:28",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Money All The Time",
         "url": "https://open.spotify.com/album/5JPcvxS1c2ORZdIHN4RRJn"
@@ -177,7 +749,7 @@
       "url": "https://open.spotify.com/track/6MPBJ9xgf3nTvDgrkBvPba"
     },
     {
-      "added_at": "2025-03-06 08:00:28",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Shenanigans",
         "url": "https://open.spotify.com/album/4awIt9HpQftqkNLxprL32J"
@@ -197,7 +769,7 @@
       "url": "https://open.spotify.com/track/7Kr43EbZO5SbSfQO79GdXi"
     },
     {
-      "added_at": "2025-03-06 08:00:28",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Lavish",
         "url": "https://open.spotify.com/album/4ZDhZ6acHrbsQOcFn35Pgu"
@@ -213,7 +785,7 @@
       "url": "https://open.spotify.com/track/2BRQYGmJBYcr4IPHG1MJPZ"
     },
     {
-      "added_at": "2025-03-06 08:00:28",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Made, Vol. 10 - To The Top",
         "url": "https://open.spotify.com/album/3sJODiZDFBlzDQtk68Oifw"
@@ -229,7 +801,7 @@
       "url": "https://open.spotify.com/track/0VYqCtDA8gFwtLZqbtuPSK"
     },
     {
-      "added_at": "2025-03-06 08:00:28",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "VIP",
         "url": "https://open.spotify.com/album/5YEaAkdVsRBCHyEOkiKZ0B"
@@ -245,7 +817,7 @@
       "url": "https://open.spotify.com/track/5zwN1Rz1o2v4CDJuBUqSN0"
     },
     {
-      "added_at": "2025-03-06 08:00:28",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Big Dawg",
         "url": "https://open.spotify.com/album/4uIiMf6WOhs57xm5aIYGlY"
@@ -261,7 +833,7 @@
       "url": "https://open.spotify.com/track/3cEbk0jeDHzfW0TF9GTdRn"
     },
     {
-      "added_at": "2025-03-06 08:00:28",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Made, Vol. 13 - Get Swavy",
         "url": "https://open.spotify.com/album/2lJJU168davIQM3ycEIg6E"
@@ -277,7 +849,7 @@
       "url": "https://open.spotify.com/track/1cZajhajMcHfvGVql9SRBC"
     },
     {
-      "added_at": "2025-03-06 08:00:28",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "King of Cowards",
         "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
@@ -293,7 +865,7 @@
       "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
     },
     {
-      "added_at": "2025-03-04 08:00:17",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/1MseTwoK0MEOR5KmYDv83Y"
@@ -309,7 +881,7 @@
       "url": "https://open.spotify.com/track/0kctcG2sYodFwrwnF43C1x"
     },
     {
-      "added_at": "2025-03-06 08:00:28",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Tyler Perry's Beauty in Black: Part 2 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1nDrlDFyMD5ST79MJ6tSoh"
@@ -325,7 +897,7 @@
       "url": "https://open.spotify.com/track/03VTIPQS8EmMQ4Vp1pOTUD"
     },
     {
-      "added_at": "2025-03-06 08:00:28",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Tyler Perry's Beauty in Black: Part 2 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1nDrlDFyMD5ST79MJ6tSoh"
@@ -341,7 +913,7 @@
       "url": "https://open.spotify.com/track/1dxbaOSbx699FnL0WOUaBZ"
     },
     {
-      "added_at": "2025-03-06 08:00:28",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Tyler Perry's Beauty in Black: Part 2 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1nDrlDFyMD5ST79MJ6tSoh"
@@ -357,7 +929,7 @@
       "url": "https://open.spotify.com/track/0meod8OtbE2jw9ZKQvp01U"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Buckzz Flow",
         "url": "https://open.spotify.com/album/2f16689m1hfRWRnsMQ2Pcb"
@@ -373,7 +945,7 @@
       "url": "https://open.spotify.com/track/3Vwx8Tghqn1HrsBPEKrr7j"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Made, Vol. 6 - How It Is",
         "url": "https://open.spotify.com/album/5ywzbYgLfCUZbg1A5GgUQz"
@@ -389,7 +961,7 @@
       "url": "https://open.spotify.com/track/3JTO4KYBMY9MYfXhUWXoUw"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Finally Rich",
         "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
@@ -409,7 +981,7 @@
       "url": "https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB"
     },
     {
-      "added_at": "2024-10-24 18:32:21",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Tyler Perry's Beauty in Black: Part 1 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1n2blKH2CmVB2uGaLuRtN2"
@@ -425,7 +997,7 @@
       "url": "https://open.spotify.com/track/2zXVMJ2tMQc5tEtWzYLlVV"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Big Dawg",
         "url": "https://open.spotify.com/album/4uIiMf6WOhs57xm5aIYGlY"
@@ -441,7 +1013,7 @@
       "url": "https://open.spotify.com/track/37aFxQiftFFyxJM0KBSgvz"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Gameshow 2",
         "url": "https://open.spotify.com/album/3LvzuVOMTPG3UKiHAGhSgV"
@@ -457,7 +1029,7 @@
       "url": "https://open.spotify.com/track/1qZ2JOPdIVBb69ed1ggZ4a"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Made, Vol. 3 - Too Much",
         "url": "https://open.spotify.com/album/2dPTOSSMwGY4pfeJwEGEpF"
@@ -477,7 +1049,7 @@
       "url": "https://open.spotify.com/track/2lkKJ5GepBz5BgXCsW8AH7"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Tyler Perry's Beauty in Black: Part 1 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1n2blKH2CmVB2uGaLuRtN2"
@@ -493,7 +1065,7 @@
       "url": "https://open.spotify.com/track/5zugQN3u0hNDfGfgaLXKUl"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Lavish",
         "url": "https://open.spotify.com/album/4ZDhZ6acHrbsQOcFn35Pgu"
@@ -509,7 +1081,7 @@
       "url": "https://open.spotify.com/track/5lRsEuEmeqOUVoklpjEzqq"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "The Warned About",
         "url": "https://open.spotify.com/album/3A5mfMQrgEJpR5QcwrqTSS"
@@ -525,7 +1097,7 @@
       "url": "https://open.spotify.com/track/0Be0iIN0m7WFQ6z1dwUsW2"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Do It To 'Em",
         "url": "https://open.spotify.com/album/76KZTnUXK5qhVEIBETfrsi"
@@ -541,7 +1113,7 @@
       "url": "https://open.spotify.com/track/0vvv6GXDyHGsXHZvlVKAhG"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Let That Money Talk",
         "url": "https://open.spotify.com/album/3TNbtNoKWigq8Yx0XVzGfF"
@@ -557,7 +1129,7 @@
       "url": "https://open.spotify.com/track/4OJYpUVqcmLg6p9dyGjDDb"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Let That Money Talk",
         "url": "https://open.spotify.com/album/3TNbtNoKWigq8Yx0XVzGfF"
@@ -573,7 +1145,7 @@
       "url": "https://open.spotify.com/track/4Rr5kLG92HxdBtBJXq8Q81"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Double Dutch",
         "url": "https://open.spotify.com/album/15cCv0AsrPG2SHmltMdMhO"
@@ -589,7 +1161,7 @@
       "url": "https://open.spotify.com/track/1HUTEPsfVoWw3UbIS7ajD1"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Big Dawg",
         "url": "https://open.spotify.com/album/4uIiMf6WOhs57xm5aIYGlY"
@@ -605,7 +1177,7 @@
       "url": "https://open.spotify.com/track/6oygSHfl61zwl7FFPsof4P"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Inter Alia",
         "url": "https://open.spotify.com/album/456ZHuyvmEayTD8xVVJoyA"
@@ -621,7 +1193,7 @@
       "url": "https://open.spotify.com/track/7oFfQisb6SrEAHofz4rJpe"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Do It To 'Em",
         "url": "https://open.spotify.com/album/76KZTnUXK5qhVEIBETfrsi"
@@ -637,7 +1209,7 @@
       "url": "https://open.spotify.com/track/73b2nyZY6hIOUpUIa4W69g"
     },
     {
-      "added_at": "2025-02-07 23:44:23",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "This Ain't Fa Errbody",
         "url": "https://open.spotify.com/album/05pHIQT7qOkwfcSJksNkkg"
@@ -653,7 +1225,7 @@
       "url": "https://open.spotify.com/track/7JKms9l3hAX2CD0vc5K9Pd"
     },
     {
-      "added_at": "2025-02-07 23:44:23",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "None",
         "url": "https://open.spotify.com/album/7MwH7t5XxBwAaCb7KSsM5b"
@@ -669,7 +1241,7 @@
       "url": "https://open.spotify.com/track/2Sush4VEfYWPPcktzGl3AE"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Big Dawg",
         "url": "https://open.spotify.com/album/4uIiMf6WOhs57xm5aIYGlY"
@@ -685,7 +1257,7 @@
       "url": "https://open.spotify.com/track/1cqTyjGUsdOOkbCCPtWrfE"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Tyler Perry's Beauty in Black: Part 1 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1n2blKH2CmVB2uGaLuRtN2"
@@ -701,7 +1273,7 @@
       "url": "https://open.spotify.com/track/4hP6yMHRvp1ysIiEUrWVsG"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Parlay",
         "url": "https://open.spotify.com/album/6U3Qnk7WQgJ8X3OkGbX7EO"
@@ -721,7 +1293,7 @@
       "url": "https://open.spotify.com/track/2BStgy3c1EpQZUVejAShm2"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Love Wins",
         "url": "https://open.spotify.com/album/1SNPtq3qgNVzaAAA7P8cYx"
@@ -737,7 +1309,7 @@
       "url": "https://open.spotify.com/track/5OROt6Kq0NgDBk5t3A9ecs"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "So Hood",
         "url": "https://open.spotify.com/album/2RaHojQNThjljyiUswColj"
@@ -753,7 +1325,7 @@
       "url": "https://open.spotify.com/track/0PWXLW5VCA0BqogBhNK5ZA"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Up On Us",
         "url": "https://open.spotify.com/album/48oT4RYXR1aCWxpvBb04vP"
@@ -769,7 +1341,7 @@
       "url": "https://open.spotify.com/track/2SPa91MdtTxBJy85uarkli"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Snake Eyes",
         "url": "https://open.spotify.com/album/4FrZqEBPv8KCSBsgzXdtIc"
@@ -785,7 +1357,7 @@
       "url": "https://open.spotify.com/track/77aZlC6jhti07xv9JVriIm"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Top Back",
         "url": "https://open.spotify.com/album/05JJH4NecXBnskIuTyl4Se"
@@ -801,7 +1373,7 @@
       "url": "https://open.spotify.com/track/2Tv7Ef5fRh8TnGp154zisH"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Flow Widdit",
         "url": "https://open.spotify.com/album/4wxpZE78d0xO3A7Lcv0jh5"
@@ -817,7 +1389,7 @@
       "url": "https://open.spotify.com/track/2syDFZtUeMvSOLqy7oSt9A"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Famous No Where",
         "url": "https://open.spotify.com/album/3tJudQKnMacPG0oDEiIQmN"
@@ -837,7 +1409,7 @@
       "url": "https://open.spotify.com/track/5wczjID12AjJdvFCGfkQV3"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/6sWz3hjGjLYCtcnPPuRe9i"
@@ -853,7 +1425,7 @@
       "url": "https://open.spotify.com/track/4lBHRYH1xFGPqZVkrl26df"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Do It To 'Em",
         "url": "https://open.spotify.com/album/76KZTnUXK5qhVEIBETfrsi"
@@ -869,7 +1441,7 @@
       "url": "https://open.spotify.com/track/1nAV87cdjTkBhBDociyAPp"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Poppin",
         "url": "https://open.spotify.com/album/3qpKCrcgeQMNliCtSH9Oae"
@@ -885,7 +1457,7 @@
       "url": "https://open.spotify.com/track/1roj4a6clyNV7vSn3vkPXr"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Brand New Reason",
         "url": "https://open.spotify.com/album/1liXMXQmbQQnB8xXBHqdv0"
@@ -901,7 +1473,7 @@
       "url": "https://open.spotify.com/track/3B1zj88YhiYFSLGf0Kty2A"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "DIRTY",
         "url": "https://open.spotify.com/album/5tPCTpO4A0Rce05xijhIJT"
@@ -917,7 +1489,7 @@
       "url": "https://open.spotify.com/track/3MyJ8iwiZOEqhBneh6NBAm"
     },
     {
-      "added_at": "2024-10-24 07:00:00",
+      "added_at": "2025-09-11 13:00:26",
       "album": {
         "name": "Tyler Perry's Beauty in Black: Part 1 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1n2blKH2CmVB2uGaLuRtN2"

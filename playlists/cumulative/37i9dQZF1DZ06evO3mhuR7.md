@@ -4,7 +4,7 @@
 
 > This is The Orb\. The essential tracks, all in one playlist.
 
-166 songs - 19 hr 0 min
+167 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [House of Narcotics \- Opium Wars Mix](https://open.spotify.com/track/2NAFoD9GIibDSEWofqtSxW) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Abolition of the Royal Familia](https://open.spotify.com/album/1euwyciwux1oVmj4r1Rf3X) | 6:07 | 2022-06-15 | 2022-10-13 |
 | [Into The Fourth Dimension](https://open.spotify.com/track/6vsFXXLsb83fM0QtlXQm0r) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 9:15 | 2022-06-02 |  |
 | [Isle of Horns](https://open.spotify.com/track/6e4E9dM10JS3RImIGb5k13) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [No Sounds Are Out of Bounds \(Deluxe\)](https://open.spotify.com/album/2vyUnf6hnPpsYC5Ja8T0QL) | 5:26 | 2022-09-21 | 2022-09-23 |
+| [It's Coming Soon](https://open.spotify.com/track/4ilN3buPvTXvnvgbFkAtjh) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [It's Coming Soon](https://open.spotify.com/album/08lUKyWInjb0ae5INhps8q) | 6:20 | 2025-09-12 |  |
 | [Ital Orb \(Iron Chair\) \- Gaudi Remix](https://open.spotify.com/track/2x2b7BBPR6XjWd0pS84WWa) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Gaudi](https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP) | [Abolition of the Royal Familia \(Guillotine Mixes\)](https://open.spotify.com/album/750aWEljQEs90DHcS7DDsc) | 6:54 | 2022-05-29 | 2023-03-04 |
 | [Just Because I Really Really Luv Ya](https://open.spotify.com/track/197qEq8OyjaWcHQvGkiwNJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 4:21 | 2022-10-06 | 2025-01-09 |
 | [Leaving Plymouth](https://open.spotify.com/track/3cfMWvdlP9BkOrenbJnnD8) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 4:06 | 2023-06-18 |  |
@@ -119,7 +120,7 @@
 | [picking tea leaves & chasing butterflies](https://open.spotify.com/track/2rm1cOR9ahlk0710wwuCAD) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/3TjPYf016Q9GGpugNeiGjK) | 6:13 | 2023-04-30 | 2023-11-11 |
 | [Pillow Fight @ Shag Mountain](https://open.spotify.com/track/76ZZNFBRTnnGH0Ye81SEnJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Jah Wobble](https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u) | [No Sounds Are Out of Bounds \(Deluxe\)](https://open.spotify.com/album/2vyUnf6hnPpsYC5Ja8T0QL) | 7:31 | 2022-05-29 | 2022-10-08 |
 | [Pillow Fight @ Shag Mountain \- Radio Edit](https://open.spotify.com/track/58oMAgOL0uCLxhsIFGcdOs) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/7tIEBx66gffGNBatufr1jZ) | 3:43 | 2024-11-17 | 2025-02-02 |
-| [Plateau](https://open.spotify.com/track/3B4lp8GZOzyvpNePkbL7ga) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 12:49 | 2022-05-29 |  |
+| [Plateau](https://open.spotify.com/track/3B4lp8GZOzyvpNePkbL7ga) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 12:49 | 2022-05-29 | 2025-09-12 |
 | [Police & Thieves](https://open.spotify.com/track/5EbS1wLlc1w3SqrgvWPdva) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Presents the Orbserver in the Star House](https://open.spotify.com/album/6w2RmVdD0JqHDyeYOlzhIm) | 4:50 | 2022-06-28 | 2022-09-30 |
 | [Pomme Fritz \(Meat 'N Veg\)](https://open.spotify.com/track/7mPwTpwSfEOswUzsT1xsyC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Pomme Fritz](https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1) | 9:02 | 2022-05-29 |  |
 | [prism](https://open.spotify.com/track/02muX0Vgv0DvAapP1k5vtw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [H.O.M.E\. \(high orbs mini earths\)](https://open.spotify.com/album/5evNpD3p6s9dqWEsdLPrfT) | 9:43 | 2023-05-04 | 2023-05-10 |

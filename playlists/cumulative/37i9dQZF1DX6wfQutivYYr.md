@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Olly sulla cover della playlist più grande in Italia 🏆
+> Irama e Elodie sulla cover della playlist più grande in Italia 🏆
 
 238 songs - 12 hr 15 min
 

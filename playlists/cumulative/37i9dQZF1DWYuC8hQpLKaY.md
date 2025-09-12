@@ -4,7 +4,7 @@
 
 > but listened to this instead
 
-66 songs - 3 hr 28 min
+67 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Cardigan](https://open.spotify.com/track/6tr0rglUFWJmOXr44q6BkV) | [Ingrid Olsson](https://open.spotify.com/artist/7qA3z1l5k66u0YnW4vYPWl) | [Piano Pop Covers II](https://open.spotify.com/album/0odfmFO1Q6aRfsRcRQvVmh) | 4:43 | 2025-02-20 |  |
 | [Chemical \- Piano Version](https://open.spotify.com/track/7EMUIqGngqON9tsvjqJBLF) | [Philip](https://open.spotify.com/artist/1VynTFO9AVlwqIDGYvi1wS) | [Chemical \(Piano Version\)](https://open.spotify.com/album/3UooMrCQIxGj5LKjSxKzpI) | 2:36 | 2025-02-20 |  |
 | [Cold Heart](https://open.spotify.com/track/2JR1wrR7VqWbVHjwuXl6uG) | [Samantha Foster](https://open.spotify.com/artist/0YBUHAWLRIYv0e1aTE6lJx) | [Cold Heart](https://open.spotify.com/album/2MiytJKrSJKjN8pdleNbyS) | 3:02 | 2025-02-20 |  |
+| [DAISIES \- Piano Version](https://open.spotify.com/track/68n0LyU0torN9hjbfcSIpx) | [Nazareno Aversa](https://open.spotify.com/artist/5i0O6tyJDlb7ADVL0W7eeT) | [DAISIES \(Piano Version\)](https://open.spotify.com/album/3viLGZdk8pWzq6YiBWXQJE) | 3:26 | 2025-09-11 |  |
 | [Deja Vu \- Piano Arrangement](https://open.spotify.com/track/2vvhnuW2SoUcPkkzQGRc73) | [Ellery Hughes](https://open.spotify.com/artist/5py7utGDgkOSj26N1boPUc) | [EP2 \(Piano Arrangements\)](https://open.spotify.com/album/6D3p1R3jaiYiZjQQ0xUkQm) | 4:28 | 2025-02-20 |  |
 | [Die 4 Me](https://open.spotify.com/track/6UFkfO4Hn0RCiUoL270dpq) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Die 4 Me](https://open.spotify.com/album/4zluT7uuTQrgz55gESxfZe) | 2:36 | 2025-02-20 |  |
 | [Die With A Smile](https://open.spotify.com/track/3NbO3rVszlJViICwud48IU) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Die With A Smile](https://open.spotify.com/album/1MttF66Wfhp9pwZTLy26mg) | 3:18 | 2025-02-20 |  |
@@ -34,7 +35,7 @@
 | [good 4 u](https://open.spotify.com/track/75tn6WWZg2fiMVXwalRKDs) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Calm Piano Covers \(Volume 3\)](https://open.spotify.com/album/1snNEn4IXOOgkKkWNoKvca) | 3:21 | 2025-02-20 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/7BqCj8yFwzhgElZzC9a6fV) | [Aidan Jennings](https://open.spotify.com/artist/6uUXYuGPRAHHR0TrAvV62o) | [Good Luck, Babe!](https://open.spotify.com/album/3EoCgZ1BmLFnuyklddIXDE) | 2:28 | 2025-02-20 |  |
 | [greedy \- Piano Version](https://open.spotify.com/track/2hEOB14DjfRSYynT817Fod) | [Flying Fingers](https://open.spotify.com/artist/1jUIOsS9vK91Nc9qYvpEab) | [20s Piano Pop Covers \(Vol\. 6\)](https://open.spotify.com/album/0c5oEhWRucJaYu7eWtI5Rg) | 2:26 | 2025-02-20 |  |
-| [Gymnopédie](https://open.spotify.com/track/15O50ympRbp1DjIUqjjreo) | [Chilled Pig](https://open.spotify.com/artist/1m7V9rstnZ264nGJe9MDUq), [Blissful Belle](https://open.spotify.com/artist/4JewiE5A04q3amcmrq4ZVi) | [Gymnopédie](https://open.spotify.com/album/3l3QNxUzUIG9o3k9eukUZc) | 2:51 | 2025-02-20 |  |
+| [Gymnopédie](https://open.spotify.com/track/15O50ympRbp1DjIUqjjreo) | [Chilled Pig](https://open.spotify.com/artist/1m7V9rstnZ264nGJe9MDUq), [Blissful Belle](https://open.spotify.com/artist/4JewiE5A04q3amcmrq4ZVi) | [Gymnopédie](https://open.spotify.com/album/3l3QNxUzUIG9o3k9eukUZc) | 2:51 | 2025-02-20 | 2025-09-12 |
 | [Holy](https://open.spotify.com/track/39iUn2KhFa7aKiI0mJrrv5) | [Jade Crowley](https://open.spotify.com/artist/5TrocNkTBQ5FOssBB0BXfB) | [Holy](https://open.spotify.com/album/5Zrfscw6w38zpd0AYGfW27) | 2:41 | 2025-02-20 |  |
 | [Hometown Glory \(Piano Instrumental\)](https://open.spotify.com/track/1rNDXWs0V2lQ4Efiz28rOa) | [At The Piano](https://open.spotify.com/artist/4yUYZXIvGk4SVFLYKEDQrD) | [Hometown Glory \(Piano Instrumental\)](https://open.spotify.com/album/3w1kQDMdLX3EMBpYb5FbIt) | 4:15 | 2025-06-26 |  |
 | [I Love You, Im Sorry](https://open.spotify.com/track/47y3zMQjzUGjNiEK51Y9pk) | [Marc Ventus](https://open.spotify.com/artist/5QpVRIIbhz7b7DSghK0aTH) | [Piano covers of dreams we love](https://open.spotify.com/album/1rjdRpkDRrJFRKi3QoXMKt) | 2:57 | 2025-02-20 |  |

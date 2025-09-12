@@ -1,15 +1,71 @@
 {
-  "description": "Le meilleur du rap africain francophone. Photo : Didi B",
-  "num_followers": 50720,
+  "description": "Le meilleur du rap africain francophone. Photo : Sindika",
+  "num_followers": 50751,
   "original_name": "Afro Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAcSYqLBFAQr6iVk083XcjomCaPm",
+  "snapshot_id": "AAAAAGuId5gdDZSGMm4G6oSu6olWWCFe",
   "tracks": [
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "INVASION : TOME I",
+        "url": "https://open.spotify.com/album/2LsHafbrpIYiOGn1y7YfNb"
+      },
+      "artists": [
+        {
+          "name": "Sindika",
+          "url": "https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV"
+        }
+      ],
+      "duration_ms": 159411,
+      "name": "FLOCON",
+      "url": "https://open.spotify.com/track/7zZA4wqRnpUCYVRIH6VGF4"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "JAMAIS CHERLA (feat. D\u00f8pelym & Himra)",
+        "url": "https://open.spotify.com/album/3mtkFgDdHkrNd58yC3KPGv"
+      },
+      "artists": [
+        {
+          "name": "GENERATION NERF",
+          "url": "https://open.spotify.com/artist/3ziKkD2C372I89eVBTHL8t"
+        },
+        {
+          "name": "d\u00f8pelym",
+          "url": "https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs"
+        },
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        }
+      ],
+      "duration_ms": 168979,
+      "name": "JAMAIS CHERLA (feat. D\u00f8pelym & Himra)",
+      "url": "https://open.spotify.com/track/6pywovJJTEQYgwvrrTAABN"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "SOLDAT",
+        "url": "https://open.spotify.com/album/4fkctYphAu4TFbtZMSyejI"
+      },
+      "artists": [
+        {
+          "name": "Paki Chenzu",
+          "url": "https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB"
+        }
+      ],
+      "duration_ms": 177885,
+      "name": "SOLDAT",
+      "url": "https://open.spotify.com/track/47Zi1azLkIGvZZXkVIOgnH"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
       "album": {
         "name": "DIYILEM & BAZARHOFF : GENIUS",
         "url": "https://open.spotify.com/album/0XRYwM7Fb1oAhjCaKSoSfp"
@@ -29,7 +85,23 @@
       "url": "https://open.spotify.com/track/5SHsGJXQGrlQWO3IUbGXDU"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "KATI-K",
+        "url": "https://open.spotify.com/album/572IgrZPGEt7PxkovVXqib"
+      },
+      "artists": [
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "KATI-K",
+      "url": "https://open.spotify.com/track/49L6HSlrQ8DOrAOAmHathK"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
       "album": {
         "name": "Monalisa",
         "url": "https://open.spotify.com/album/4nqE8lMwgzg9BeQEWNLHba"
@@ -49,43 +121,23 @@
       "url": "https://open.spotify.com/track/55UrNTlMsd1ADUZ4kzriV7"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:27",
       "album": {
-        "name": "Kira 5",
-        "url": "https://open.spotify.com/album/5JbJGSXKZ2e8nQlf6TqoEb"
+        "name": "Comment",
+        "url": "https://open.spotify.com/album/0vQJ88JoPmQcT5iOw3t1I6"
       },
       "artists": [
         {
-          "name": "Paki Chenzu",
-          "url": "https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB"
+          "name": "AK4SEVEN",
+          "url": "https://open.spotify.com/artist/7siecjJoVvbBcDLeeidpwJ"
         }
       ],
-      "duration_ms": 263160,
-      "name": "Kira 5",
-      "url": "https://open.spotify.com/track/5kjNtDSk3kBFIQU4ZasFm1"
+      "duration_ms": 172258,
+      "name": "Comment",
+      "url": "https://open.spotify.com/track/1xvIl0T6i2E4Rhv8hWYYTz"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "ID\u00c9E",
-        "url": "https://open.spotify.com/album/4hgaVu3udfj68haSLeYtUV"
-      },
-      "artists": [
-        {
-          "name": "KAGE",
-          "url": "https://open.spotify.com/artist/5oNgpBQyteJdewZ0emcyfb"
-        },
-        {
-          "name": "d\u00f8pelym",
-          "url": "https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs"
-        }
-      ],
-      "duration_ms": 136608,
-      "name": "ID\u00c9E",
-      "url": "https://open.spotify.com/track/60DdMNqCfcbK4rkuHDndmu"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:27",
       "album": {
         "name": "ROD\u00c9LA",
         "url": "https://open.spotify.com/album/7at50ZqUOtUANlJuquWOwa"
@@ -105,39 +157,7 @@
       "url": "https://open.spotify.com/track/3VsnE1pUT5ZOAjh23OdnKc"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "KATI-K",
-        "url": "https://open.spotify.com/album/572IgrZPGEt7PxkovVXqib"
-      },
-      "artists": [
-        {
-          "name": "L'Oiseau Rare",
-          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "KATI-K",
-      "url": "https://open.spotify.com/track/49L6HSlrQ8DOrAOAmHathK"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "DACHIBA KOUMGBA TCHAIBA",
-        "url": "https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo"
-      },
-      "artists": [
-        {
-          "name": "Himra",
-          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
-        }
-      ],
-      "duration_ms": 198605,
-      "name": "LIL WAYNE",
-      "url": "https://open.spotify.com/track/483PC4bWEqtEsXzhyb6GJl"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:27",
       "album": {
         "name": "Y'a Pas l'Homme",
         "url": "https://open.spotify.com/album/7qP5Aavx0zxVYJmp5EWrrl"
@@ -165,26 +185,30 @@
       "url": "https://open.spotify.com/track/4f5KVDd6yWAusZfwsTXFuT"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:27",
       "album": {
-        "name": "GHOST",
-        "url": "https://open.spotify.com/album/2wmwaKvtYNcMDUUXAJLg3f"
+        "name": "L\u2019Agni",
+        "url": "https://open.spotify.com/album/64vOQBEEYtRWcLCjGbPeGU"
       },
       "artists": [
         {
-          "name": "Philipayne",
-          "url": "https://open.spotify.com/artist/4yqT8sbLpKfUkQX64ujh8D"
+          "name": "N\u00d4J",
+          "url": "https://open.spotify.com/artist/2rCPBjAnHwMR274CLbtl5O"
+        },
+        {
+          "name": "Jeune Bendjoul",
+          "url": "https://open.spotify.com/artist/1cI9d67CmJ8GZmLeyY3U9u"
         }
       ],
-      "duration_ms": 178285,
-      "name": "IPERKUT",
-      "url": "https://open.spotify.com/track/4M6YCKNm2L8lmgy3onkNlS"
+      "duration_ms": 83093,
+      "name": "L\u2019Agni",
+      "url": "https://open.spotify.com/track/72eX0IBhbYB1bz7tVj5Ss2"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:27",
       "album": {
-        "name": "SOLDAT",
-        "url": "https://open.spotify.com/album/4fkctYphAu4TFbtZMSyejI"
+        "name": "Kira 5",
+        "url": "https://open.spotify.com/album/5JbJGSXKZ2e8nQlf6TqoEb"
       },
       "artists": [
         {
@@ -192,156 +216,12 @@
           "url": "https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB"
         }
       ],
-      "duration_ms": 177885,
-      "name": "SOLDAT",
-      "url": "https://open.spotify.com/track/47Zi1azLkIGvZZXkVIOgnH"
+      "duration_ms": 263160,
+      "name": "Kira 5",
+      "url": "https://open.spotify.com/track/5kjNtDSk3kBFIQU4ZasFm1"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "JAMAIS CHERLA (feat. D\u00f8pelym & Himra)",
-        "url": "https://open.spotify.com/album/3mtkFgDdHkrNd58yC3KPGv"
-      },
-      "artists": [
-        {
-          "name": "GENERATION NERF",
-          "url": "https://open.spotify.com/artist/3ziKkD2C372I89eVBTHL8t"
-        },
-        {
-          "name": "d\u00f8pelym",
-          "url": "https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs"
-        },
-        {
-          "name": "Himra",
-          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
-        }
-      ],
-      "duration_ms": 168979,
-      "name": "JAMAIS CHERLA (feat. D\u00f8pelym & Himra)",
-      "url": "https://open.spotify.com/track/6pywovJJTEQYgwvrrTAABN"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "All\u00f4 All\u00f4",
-        "url": "https://open.spotify.com/album/0kAn8N5LSmDLd1o6UvIrrJ"
-      },
-      "artists": [
-        {
-          "name": "Le couteau",
-          "url": "https://open.spotify.com/artist/59kQfrM2qVIPV7gfba2ijs"
-        },
-        {
-          "name": "3xdavs",
-          "url": "https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr"
-        }
-      ],
-      "duration_ms": 158186,
-      "name": "All\u00f4 All\u00f4",
-      "url": "https://open.spotify.com/track/5KP8NGOoGIDTViKvS1R97u"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "Hala Madrid (2025 Edition)",
-        "url": "https://open.spotify.com/album/6FZSmGG9sv5BA4lcJG2YjZ"
-      },
-      "artists": [
-        {
-          "name": "BAD NOVA",
-          "url": "https://open.spotify.com/artist/2gFUXTtTNFzZ6f5cYwijXp"
-        }
-      ],
-      "duration_ms": 240008,
-      "name": "Hala Madrid - 2025 Edition",
-      "url": "https://open.spotify.com/track/2CWotPY8sl5ASLKJ5SqgcE"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "MERCON2BABI\u00c8RE",
-        "url": "https://open.spotify.com/album/0v7GxjUA1KSWjjTavVIxRt"
-      },
-      "artists": [
-        {
-          "name": "Ameka Zrai",
-          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
-        }
-      ],
-      "duration_ms": 127687,
-      "name": "TSUNAMOUSSO",
-      "url": "https://open.spotify.com/track/3NPmCp5dbYbt4KkwxrHd7P"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "Attack",
-        "url": "https://open.spotify.com/album/5988Gg5hyH4c210UeBuTY3"
-      },
-      "artists": [
-        {
-          "name": "Saamou",
-          "url": "https://open.spotify.com/artist/4TuSbcM9N0XoSrJDj06qtg"
-        },
-        {
-          "name": "Himra",
-          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
-        }
-      ],
-      "duration_ms": 179672,
-      "name": "Attack",
-      "url": "https://open.spotify.com/track/3YNVBH9e3rVHToCBxnWVyu"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "WOLOLO",
-        "url": "https://open.spotify.com/album/7LxeU9fU0qWqksCwJokyNI"
-      },
-      "artists": [
-        {
-          "name": "L'Oiseau Rare",
-          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "WOLOLO",
-      "url": "https://open.spotify.com/track/23l3SynQyICHQSUT3TK4br"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "BOUCHEKARAILLE",
-        "url": "https://open.spotify.com/album/62XF1oGuAik09QmhiM7xaY"
-      },
-      "artists": [
-        {
-          "name": "Ste Milano",
-          "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
-        }
-      ],
-      "duration_ms": 186206,
-      "name": "BOUCHEKARAILLE",
-      "url": "https://open.spotify.com/track/0X4iwiRXOLIBlo1v7bZjEq"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "POSTER",
-        "url": "https://open.spotify.com/album/3hdx5McZX3LHIWtIHhXaeB"
-      },
-      "artists": [
-        {
-          "name": "Carty",
-          "url": "https://open.spotify.com/artist/33p7Ux3XLYuYDP1cjIaycW"
-        }
-      ],
-      "duration_ms": 154087,
-      "name": "POSTER",
-      "url": "https://open.spotify.com/track/3uncFBAHsDbeCOdAwhYQl5"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:27",
       "album": {
         "name": "DACHIBA KOUMGBA TCHAIBA",
         "url": "https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo"
@@ -350,298 +230,14 @@
         {
           "name": "Himra",
           "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 160615,
-      "name": "TAPER CREER (feat. Gazo)",
-      "url": "https://open.spotify.com/track/3YKg1eTKqjwFI8pPjZ75xP"
+      "duration_ms": 198605,
+      "name": "LIL WAYNE",
+      "url": "https://open.spotify.com/track/483PC4bWEqtEsXzhyb6GJl"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "CARDIO",
-        "url": "https://open.spotify.com/album/4sl9N2N97tl2Tskx9u7nhJ"
-      },
-      "artists": [
-        {
-          "name": "LePapara",
-          "url": "https://open.spotify.com/artist/2J7P5cx3l8PKzQnVo6BEhT"
-        },
-        {
-          "name": "Paki Chenzu",
-          "url": "https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB"
-        }
-      ],
-      "duration_ms": 144657,
-      "name": "CARDIO",
-      "url": "https://open.spotify.com/track/61GLuMu70Cn6RwTLSRWOTn"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "24H Chrono",
-        "url": "https://open.spotify.com/album/3cVip0lEuRC0tGOp009wJI"
-      },
-      "artists": [
-        {
-          "name": "Bmuxx Carter",
-          "url": "https://open.spotify.com/artist/4MrN92MAAgOpfTYjVSD40C"
-        },
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 210425,
-      "name": "24H Chrono",
-      "url": "https://open.spotify.com/track/5j3IQvpktPI41fZzZdIBag"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "Dictature 1",
-        "url": "https://open.spotify.com/album/2l0wVi1BHYru7PVpGuxftI"
-      },
-      "artists": [
-        {
-          "name": "MRKing",
-          "url": "https://open.spotify.com/artist/5OLzYSgM51p6y0RV3STRZH"
-        }
-      ],
-      "duration_ms": 194663,
-      "name": "Dictature 1",
-      "url": "https://open.spotify.com/track/7jEG3kk0udMzBSFBpc1GF5"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "BOYAUX",
-        "url": "https://open.spotify.com/album/4gQv05ciQ2OHDitu830QoT"
-      },
-      "artists": [
-        {
-          "name": "Sindika",
-          "url": "https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV"
-        }
-      ],
-      "duration_ms": 177002,
-      "name": "BOYAUX",
-      "url": "https://open.spotify.com/track/15vzfrp9XoX4bzL0Rqv4RV"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "Cherie Coco",
-        "url": "https://open.spotify.com/album/3dTDsQsyjFGae6y4NZg4SG"
-      },
-      "artists": [
-        {
-          "name": "EBOLOKO",
-          "url": "https://open.spotify.com/artist/3nUEeV8UXAOUqpXm6WahYR"
-        }
-      ],
-      "duration_ms": 175968,
-      "name": "Cherie Coco",
-      "url": "https://open.spotify.com/track/5HrLD9Z6v0bb9F4kmJJlXE"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "GAMME 2 BOSS",
-        "url": "https://open.spotify.com/album/7FNEycoTOLPCJdat5EoIGs"
-      },
-      "artists": [
-        {
-          "name": "Lil Jay Bingerack",
-          "url": "https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu"
-        },
-        {
-          "name": "L'Oiseau Rare",
-          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
-        }
-      ],
-      "duration_ms": 146322,
-      "name": "GAMME 2 BOSS",
-      "url": "https://open.spotify.com/track/0fltveHa24SP15AsxbUdOh"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "L\u2019hybride",
-        "url": "https://open.spotify.com/album/4i6y2mFHotCm1CEkjFOPEg"
-      },
-      "artists": [
-        {
-          "name": "Safarel Obiang",
-          "url": "https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK"
-        }
-      ],
-      "duration_ms": 130977,
-      "name": "Tana",
-      "url": "https://open.spotify.com/track/2JYp2XCOdmufvPrwLw1J55"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "Deodorant",
-        "url": "https://open.spotify.com/album/4KZT1WtDnBnkww8q53m0xo"
-      },
-      "artists": [
-        {
-          "name": "Toofan",
-          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
-        }
-      ],
-      "duration_ms": 121982,
-      "name": "Deodorant",
-      "url": "https://open.spotify.com/track/1ZXvWdX8l4j7JLL9kSoiT5"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "CONTRAT",
-        "url": "https://open.spotify.com/album/4KxlqtnHpU5GGtlPsl5PHX"
-      },
-      "artists": [
-        {
-          "name": "Philipayne",
-          "url": "https://open.spotify.com/artist/4yqT8sbLpKfUkQX64ujh8D"
-        },
-        {
-          "name": "Himra",
-          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
-        }
-      ],
-      "duration_ms": 215050,
-      "name": "CONTRAT",
-      "url": "https://open.spotify.com/track/13IKJyAjYbdPmBZyCR2v8Y"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "MONA LISA",
-        "url": "https://open.spotify.com/album/39DwulUHKfSGZiPo5uoGEs"
-      },
-      "artists": [
-        {
-          "name": "CJ Tell'm",
-          "url": "https://open.spotify.com/artist/2fAo6honVWkCul5xO8y97T"
-        }
-      ],
-      "duration_ms": 206273,
-      "name": "MONA LISA",
-      "url": "https://open.spotify.com/track/6K8yvIAG0B4k1p02oCBa0r"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "Trop parler",
-        "url": "https://open.spotify.com/album/4oQvTGkpuLmPvfkGJ2InZ9"
-      },
-      "artists": [
-        {
-          "name": "Vicky R",
-          "url": "https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0"
-        },
-        {
-          "name": "EBOLOKO",
-          "url": "https://open.spotify.com/artist/3nUEeV8UXAOUqpXm6WahYR"
-        }
-      ],
-      "duration_ms": 120437,
-      "name": "Trop parler",
-      "url": "https://open.spotify.com/track/6PPxenjRn95x0BHTPGCcZ2"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "Taper le Tchapa",
-        "url": "https://open.spotify.com/album/5Tvf0MnND0bt5d79hsvH9B"
-      },
-      "artists": [
-        {
-          "name": "Jolina Verdigo",
-          "url": "https://open.spotify.com/artist/25DUsTo92CWw5pklzFEMyO"
-        }
-      ],
-      "duration_ms": 216172,
-      "name": "Taper le Tchapa",
-      "url": "https://open.spotify.com/track/5MnXdNc3rDzcwVnmCRuaQy"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "MOUTOUN\u00c9N\u00c9",
-        "url": "https://open.spotify.com/album/4AW8MMmHmSMTPhKS24B6W8"
-      },
-      "artists": [
-        {
-          "name": "L'Oiseau Rare",
-          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "MOUTOUN\u00c9N\u00c9",
-      "url": "https://open.spotify.com/track/0hX2XJcISm8qWhKpbF1JNf"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "BIG AKA 4 AKA KAI",
-        "url": "https://open.spotify.com/album/2Sp3t61MrPQUPn71nv6QZm"
-      },
-      "artists": [
-        {
-          "name": "Himra",
-          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "BATON NON NON",
-      "url": "https://open.spotify.com/track/2SdSUeEaMraip31hhJ0fY5"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "Comment",
-        "url": "https://open.spotify.com/album/0vQJ88JoPmQcT5iOw3t1I6"
-      },
-      "artists": [
-        {
-          "name": "AK4SEVEN",
-          "url": "https://open.spotify.com/artist/7siecjJoVvbBcDLeeidpwJ"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "Comment",
-      "url": "https://open.spotify.com/track/1xvIl0T6i2E4Rhv8hWYYTz"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "So Sad / Vagues",
-        "url": "https://open.spotify.com/album/45KWStQ883NMsrYE327Mo4"
-      },
-      "artists": [
-        {
-          "name": "Thiird",
-          "url": "https://open.spotify.com/artist/1nQDAwkWOHhJYMxQr8SIGv"
-        },
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 226991,
-      "name": "So Sad / Vagues",
-      "url": "https://open.spotify.com/track/0d3sbopsn9o9JoODBKEnDP"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:27",
       "album": {
         "name": "3X NDOSS (feat. Yorssy)",
         "url": "https://open.spotify.com/album/5byzh0n87vakjorydykJgf"
@@ -661,7 +257,327 @@
       "url": "https://open.spotify.com/track/3h3nMY4MqyboUJRpeqT2Wn"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "GAMME 2 BOSS",
+        "url": "https://open.spotify.com/album/7FNEycoTOLPCJdat5EoIGs"
+      },
+      "artists": [
+        {
+          "name": "Lil Jay Bingerack",
+          "url": "https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu"
+        },
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        }
+      ],
+      "duration_ms": 146322,
+      "name": "GAMME 2 BOSS",
+      "url": "https://open.spotify.com/track/0fltveHa24SP15AsxbUdOh"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "24H Chrono",
+        "url": "https://open.spotify.com/album/3cVip0lEuRC0tGOp009wJI"
+      },
+      "artists": [
+        {
+          "name": "Bmuxx Carter",
+          "url": "https://open.spotify.com/artist/4MrN92MAAgOpfTYjVSD40C"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "duration_ms": 210425,
+      "name": "24H Chrono",
+      "url": "https://open.spotify.com/track/5j3IQvpktPI41fZzZdIBag"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "Deodorant",
+        "url": "https://open.spotify.com/album/4KZT1WtDnBnkww8q53m0xo"
+      },
+      "artists": [
+        {
+          "name": "Toofan",
+          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
+        }
+      ],
+      "duration_ms": 121982,
+      "name": "Deodorant",
+      "url": "https://open.spotify.com/track/1ZXvWdX8l4j7JLL9kSoiT5"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "AKOULA",
+        "url": "https://open.spotify.com/album/48vgk5EC7JN2p6dhf9iN5t"
+      },
+      "artists": [
+        {
+          "name": "JABER STATE$",
+          "url": "https://open.spotify.com/artist/7llzmVZxII2iosfXwwNaXs"
+        }
+      ],
+      "duration_ms": 106329,
+      "name": "AKOULA",
+      "url": "https://open.spotify.com/track/0FEKGqIgKfZNuAPUGXklZr"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "DACHIBA KOUMGBA TCHAIBA",
+        "url": "https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo"
+      },
+      "artists": [
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 160615,
+      "name": "TAPER CREER (feat. Gazo)",
+      "url": "https://open.spotify.com/track/3YKg1eTKqjwFI8pPjZ75xP"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "MOUTOUN\u00c9N\u00c9",
+        "url": "https://open.spotify.com/album/4AW8MMmHmSMTPhKS24B6W8"
+      },
+      "artists": [
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "MOUTOUN\u00c9N\u00c9",
+      "url": "https://open.spotify.com/track/0hX2XJcISm8qWhKpbF1JNf"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "BOYAUX",
+        "url": "https://open.spotify.com/album/4gQv05ciQ2OHDitu830QoT"
+      },
+      "artists": [
+        {
+          "name": "Sindika",
+          "url": "https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV"
+        }
+      ],
+      "duration_ms": 177002,
+      "name": "BOYAUX",
+      "url": "https://open.spotify.com/track/15vzfrp9XoX4bzL0Rqv4RV"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "DANGER",
+        "url": "https://open.spotify.com/album/64vn4xIutP3muzUVemiVa1"
+      },
+      "artists": [
+        {
+          "name": "LE JLO",
+          "url": "https://open.spotify.com/artist/4tLeb86ETPXHOWXBlzzOi6"
+        }
+      ],
+      "duration_ms": 189437,
+      "name": "DANGER",
+      "url": "https://open.spotify.com/track/55qQEtoQACqKTnefsHdbxt"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "CARDIO",
+        "url": "https://open.spotify.com/album/4sl9N2N97tl2Tskx9u7nhJ"
+      },
+      "artists": [
+        {
+          "name": "LePapara",
+          "url": "https://open.spotify.com/artist/2J7P5cx3l8PKzQnVo6BEhT"
+        },
+        {
+          "name": "Paki Chenzu",
+          "url": "https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB"
+        }
+      ],
+      "duration_ms": 144657,
+      "name": "CARDIO",
+      "url": "https://open.spotify.com/track/61GLuMu70Cn6RwTLSRWOTn"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "Attack",
+        "url": "https://open.spotify.com/album/5988Gg5hyH4c210UeBuTY3"
+      },
+      "artists": [
+        {
+          "name": "Saamou",
+          "url": "https://open.spotify.com/artist/4TuSbcM9N0XoSrJDj06qtg"
+        },
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        }
+      ],
+      "duration_ms": 179672,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/3YNVBH9e3rVHToCBxnWVyu"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "POSTER",
+        "url": "https://open.spotify.com/album/3hdx5McZX3LHIWtIHhXaeB"
+      },
+      "artists": [
+        {
+          "name": "Carty",
+          "url": "https://open.spotify.com/artist/33p7Ux3XLYuYDP1cjIaycW"
+        }
+      ],
+      "duration_ms": 154087,
+      "name": "POSTER",
+      "url": "https://open.spotify.com/track/3uncFBAHsDbeCOdAwhYQl5"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "BOUCHEKARAILLE",
+        "url": "https://open.spotify.com/album/62XF1oGuAik09QmhiM7xaY"
+      },
+      "artists": [
+        {
+          "name": "Ste Milano",
+          "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
+        }
+      ],
+      "duration_ms": 186206,
+      "name": "BOUCHEKARAILLE",
+      "url": "https://open.spotify.com/track/0X4iwiRXOLIBlo1v7bZjEq"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "TANTINE",
+        "url": "https://open.spotify.com/album/3N0RPDXIALceLrVLs6JwZB"
+      },
+      "artists": [
+        {
+          "name": "Waza no limite",
+          "url": "https://open.spotify.com/artist/0J285nKY53u8GAlvywTPQb"
+        },
+        {
+          "name": "Elgor Beatz",
+          "url": "https://open.spotify.com/artist/4AtBPAJFtolERPERU23kOr"
+        }
+      ],
+      "duration_ms": 139920,
+      "name": "TANTINE",
+      "url": "https://open.spotify.com/track/4mG3gwyKd9f1sKtSak6RlX"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "MONA LISA",
+        "url": "https://open.spotify.com/album/39DwulUHKfSGZiPo5uoGEs"
+      },
+      "artists": [
+        {
+          "name": "CJ Tell'm",
+          "url": "https://open.spotify.com/artist/2fAo6honVWkCul5xO8y97T"
+        }
+      ],
+      "duration_ms": 206273,
+      "name": "MONA LISA",
+      "url": "https://open.spotify.com/track/6K8yvIAG0B4k1p02oCBa0r"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "All\u00f4 All\u00f4",
+        "url": "https://open.spotify.com/album/0kAn8N5LSmDLd1o6UvIrrJ"
+      },
+      "artists": [
+        {
+          "name": "Le couteau",
+          "url": "https://open.spotify.com/artist/59kQfrM2qVIPV7gfba2ijs"
+        },
+        {
+          "name": "3xdavs",
+          "url": "https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr"
+        }
+      ],
+      "duration_ms": 158186,
+      "name": "All\u00f4 All\u00f4",
+      "url": "https://open.spotify.com/track/5KP8NGOoGIDTViKvS1R97u"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "BIG AKA 4 AKA KAI",
+        "url": "https://open.spotify.com/album/2Sp3t61MrPQUPn71nv6QZm"
+      },
+      "artists": [
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "BATON NON NON",
+      "url": "https://open.spotify.com/track/2SdSUeEaMraip31hhJ0fY5"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "WOLOLO",
+        "url": "https://open.spotify.com/album/7LxeU9fU0qWqksCwJokyNI"
+      },
+      "artists": [
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "WOLOLO",
+      "url": "https://open.spotify.com/track/23l3SynQyICHQSUT3TK4br"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "ID\u00c9E",
+        "url": "https://open.spotify.com/album/4hgaVu3udfj68haSLeYtUV"
+      },
+      "artists": [
+        {
+          "name": "KAGE",
+          "url": "https://open.spotify.com/artist/5oNgpBQyteJdewZ0emcyfb"
+        },
+        {
+          "name": "d\u00f8pelym",
+          "url": "https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs"
+        }
+      ],
+      "duration_ms": 136608,
+      "name": "ID\u00c9E",
+      "url": "https://open.spotify.com/track/60DdMNqCfcbK4rkuHDndmu"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
       "album": {
         "name": "Oulala (II)",
         "url": "https://open.spotify.com/album/2QN5pmtN6C2psqCjpU0Evi"
@@ -681,7 +597,7 @@
       "url": "https://open.spotify.com/track/3zPZIfGDRXOeo6k0qdooo5"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:27",
       "album": {
         "name": "Tous les jours",
         "url": "https://open.spotify.com/album/33ldjb3AqSv3FP6ZHBBtey"
@@ -701,151 +617,111 @@
       "url": "https://open.spotify.com/track/0ArHTnG4N8IOUeI1A7XfvT"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:27",
       "album": {
-        "name": "Memphis Depay (J\u2019entends plus)",
-        "url": "https://open.spotify.com/album/7fW9NRMNrVdV1y8zZ0Yxei"
+        "name": "L\u2019hybride",
+        "url": "https://open.spotify.com/album/4i6y2mFHotCm1CEkjFOPEg"
       },
       "artists": [
         {
-          "name": "Nifa Fanafoule",
-          "url": "https://open.spotify.com/artist/7FRoAqspfkJYYYYJ8DTD5O"
+          "name": "Safarel Obiang",
+          "url": "https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK"
         }
       ],
-      "duration_ms": 167142,
-      "name": "Memphis Depay (J\u2019entends plus)",
-      "url": "https://open.spotify.com/track/39QQwMNO21ntMLrTboqFkW"
+      "duration_ms": 130977,
+      "name": "Tana",
+      "url": "https://open.spotify.com/track/2JYp2XCOdmufvPrwLw1J55"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:27",
       "album": {
-        "name": "Dans la vie",
-        "url": "https://open.spotify.com/album/1prjA4u3cxcFDj78QTrxAz"
+        "name": "MERCON2BABI\u00c8RE",
+        "url": "https://open.spotify.com/album/0v7GxjUA1KSWjjTavVIxRt"
       },
       "artists": [
         {
-          "name": "TGang",
-          "url": "https://open.spotify.com/artist/0ZYI4MAlov715fXGaCtKys"
+          "name": "Ameka Zrai",
+          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
+        }
+      ],
+      "duration_ms": 127687,
+      "name": "TSUNAMOUSSO",
+      "url": "https://open.spotify.com/track/3NPmCp5dbYbt4KkwxrHd7P"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "Hala Madrid (2025 Edition)",
+        "url": "https://open.spotify.com/album/6FZSmGG9sv5BA4lcJG2YjZ"
+      },
+      "artists": [
+        {
+          "name": "BAD NOVA",
+          "url": "https://open.spotify.com/artist/2gFUXTtTNFzZ6f5cYwijXp"
+        }
+      ],
+      "duration_ms": 240008,
+      "name": "Hala Madrid - 2025 Edition",
+      "url": "https://open.spotify.com/track/2CWotPY8sl5ASLKJ5SqgcE"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "CONTRAT",
+        "url": "https://open.spotify.com/album/4KxlqtnHpU5GGtlPsl5PHX"
+      },
+      "artists": [
+        {
+          "name": "Philipayne",
+          "url": "https://open.spotify.com/artist/4yqT8sbLpKfUkQX64ujh8D"
         },
         {
-          "name": "Lil Jay Bingerack",
-          "url": "https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu"
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Dans la vie",
-      "url": "https://open.spotify.com/track/2m4btENTRJsZZJ8W0d3w22"
+      "duration_ms": 215050,
+      "name": "CONTRAT",
+      "url": "https://open.spotify.com/track/13IKJyAjYbdPmBZyCR2v8Y"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:27",
       "album": {
-        "name": "Waka waka",
-        "url": "https://open.spotify.com/album/7jtTudk8BcffL31aWK1qrW"
+        "name": "So Sad / Vagues",
+        "url": "https://open.spotify.com/album/45KWStQ883NMsrYE327Mo4"
       },
       "artists": [
         {
-          "name": "Fanicko",
-          "url": "https://open.spotify.com/artist/5w4rQV4ajaclFQUATqeo4p"
+          "name": "Thiird",
+          "url": "https://open.spotify.com/artist/1nQDAwkWOHhJYMxQr8SIGv"
         },
         {
-          "name": "L'Oiseau Rare",
-          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
         }
       ],
-      "duration_ms": 169854,
-      "name": "Waka waka",
-      "url": "https://open.spotify.com/track/5i8uwUbiAKBJ7kfhgXpVzf"
+      "duration_ms": 226991,
+      "name": "So Sad / Vagues",
+      "url": "https://open.spotify.com/track/0d3sbopsn9o9JoODBKEnDP"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:27",
       "album": {
-        "name": "C'KOMEN ?",
-        "url": "https://open.spotify.com/album/3IMMnyzz9L1WkzeFtxweYe"
+        "name": "Cherie Coco",
+        "url": "https://open.spotify.com/album/3dTDsQsyjFGae6y4NZg4SG"
       },
       "artists": [
         {
-          "name": "Le Petit Mandelha",
-          "url": "https://open.spotify.com/artist/43pdc0kZ3PvkKhcA7CfDij"
-        },
-        {
-          "name": "Le Niangboy",
-          "url": "https://open.spotify.com/artist/6GvoC0QtVxej96Urd8BFmg"
+          "name": "EBOLOKO",
+          "url": "https://open.spotify.com/artist/3nUEeV8UXAOUqpXm6WahYR"
         }
       ],
-      "duration_ms": 155063,
-      "name": "C'KOMEN ?",
-      "url": "https://open.spotify.com/track/0X3WWjm26tlB1UNTpH8qtg"
+      "duration_ms": 175968,
+      "name": "Cherie Coco",
+      "url": "https://open.spotify.com/track/5HrLD9Z6v0bb9F4kmJJlXE"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "ERUPTION VOLCANIQUE",
-        "url": "https://open.spotify.com/album/7tumaIwi1QV4HqgZbLGAHa"
-      },
-      "artists": [
-        {
-          "name": "JABER STATE$",
-          "url": "https://open.spotify.com/artist/7llzmVZxII2iosfXwwNaXs"
-        }
-      ],
-      "duration_ms": 131612,
-      "name": "Doucement",
-      "url": "https://open.spotify.com/track/6542UCxMkqxqyuXqqZS0u7"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/3qyBToiIgjktJ1OACLNpvj"
-      },
-      "artists": [
-        {
-          "name": "Carty",
-          "url": "https://open.spotify.com/artist/33p7Ux3XLYuYDP1cjIaycW"
-        },
-        {
-          "name": "KG GANG",
-          "url": "https://open.spotify.com/artist/0nYd2Px189UF3GtwQD3XiI"
-        }
-      ],
-      "duration_ms": 187785,
-      "name": "Starboy",
-      "url": "https://open.spotify.com/track/1ZjtH0XTJistu7y52uVDQC"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "BBS",
-        "url": "https://open.spotify.com/album/4wmIHBe8CZxmoMdGGZlXgp"
-      },
-      "artists": [
-        {
-          "name": "Tazeboy",
-          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
-        }
-      ],
-      "duration_ms": 98417,
-      "name": "Marbella",
-      "url": "https://open.spotify.com/track/5J8w2UbHMo8cEyCReFxTUA"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "Mc One -C' \u00e7a Q\u00e8 l\u00e0",
-        "url": "https://open.spotify.com/album/1QIVRYD3CeGRN3OLJe8UzA"
-      },
-      "artists": [
-        {
-          "name": "MC One",
-          "url": "https://open.spotify.com/artist/5z9JWjPGfMql97ONrrC294"
-        }
-      ],
-      "duration_ms": 151034,
-      "name": "Mc One -C' \u00e7a Q\u00e8 l\u00e0",
-      "url": "https://open.spotify.com/track/7kb8tHoZyA9YkZxPmKP91p"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:27",
       "album": {
         "name": "Tu veux g\u00e2ter",
         "url": "https://open.spotify.com/album/6H2EU627UPpDKQsQHDLoZ1"
@@ -865,56 +741,180 @@
       "url": "https://open.spotify.com/track/17cP2WW8NLGlvVxYCsIC7X"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:27",
       "album": {
-        "name": "Freestyle Kordial II",
-        "url": "https://open.spotify.com/album/3VUa9yULQNNi5RjFAYnyNF"
+        "name": "C'KOMEN ?",
+        "url": "https://open.spotify.com/album/3IMMnyzz9L1WkzeFtxweYe"
       },
       "artists": [
         {
-          "name": "Kadja",
-          "url": "https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek"
-        }
-      ],
-      "duration_ms": 156241,
-      "name": "Freestyle Kordial II",
-      "url": "https://open.spotify.com/track/3fcqEDDvFeTznK6ZzWWfyV"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "LIBANDA",
-        "url": "https://open.spotify.com/album/5Ozrs01s4MBs5AyLhOfzi1"
-      },
-      "artists": [
-        {
-          "name": "FETTY ND0SS",
-          "url": "https://open.spotify.com/artist/3qnEYx6CH97HzOhFZPWasv"
+          "name": "Le Petit Mandelha",
+          "url": "https://open.spotify.com/artist/43pdc0kZ3PvkKhcA7CfDij"
         },
         {
-          "name": "Waza no limite",
-          "url": "https://open.spotify.com/artist/0J285nKY53u8GAlvywTPQb"
+          "name": "Le Niangboy",
+          "url": "https://open.spotify.com/artist/6GvoC0QtVxej96Urd8BFmg"
         }
       ],
-      "duration_ms": 178534,
-      "name": "FRAIS D'ABORD",
-      "url": "https://open.spotify.com/track/5MsOWuwjLiOPLaQ40G5mvz"
+      "duration_ms": 155063,
+      "name": "C'KOMEN ?",
+      "url": "https://open.spotify.com/track/0X3WWjm26tlB1UNTpH8qtg"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:27",
       "album": {
-        "name": "Coup d\u2019\u00e9tat",
-        "url": "https://open.spotify.com/album/3wsvBj7ffVDFIuKEgfP9wF"
+        "name": "Mc One -C' \u00e7a Q\u00e8 l\u00e0",
+        "url": "https://open.spotify.com/album/1QIVRYD3CeGRN3OLJe8UzA"
       },
       "artists": [
         {
-          "name": "Lamine l\u00f8ssa",
-          "url": "https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6"
+          "name": "MC One",
+          "url": "https://open.spotify.com/artist/5z9JWjPGfMql97ONrrC294"
         }
       ],
-      "duration_ms": 121078,
-      "name": "Coup d\u2019\u00e9tat",
-      "url": "https://open.spotify.com/track/2VsgyigZAuSNNeDjhKW88d"
+      "duration_ms": 151034,
+      "name": "Mc One -C' \u00e7a Q\u00e8 l\u00e0",
+      "url": "https://open.spotify.com/track/7kb8tHoZyA9YkZxPmKP91p"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "Waka waka",
+        "url": "https://open.spotify.com/album/7jtTudk8BcffL31aWK1qrW"
+      },
+      "artists": [
+        {
+          "name": "Fanicko",
+          "url": "https://open.spotify.com/artist/5w4rQV4ajaclFQUATqeo4p"
+        },
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        }
+      ],
+      "duration_ms": 169854,
+      "name": "Waka waka",
+      "url": "https://open.spotify.com/track/5i8uwUbiAKBJ7kfhgXpVzf"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "GHOST",
+        "url": "https://open.spotify.com/album/2wmwaKvtYNcMDUUXAJLg3f"
+      },
+      "artists": [
+        {
+          "name": "Philipayne",
+          "url": "https://open.spotify.com/artist/4yqT8sbLpKfUkQX64ujh8D"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "IPERKUT",
+      "url": "https://open.spotify.com/track/4M6YCKNm2L8lmgy3onkNlS"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/3qyBToiIgjktJ1OACLNpvj"
+      },
+      "artists": [
+        {
+          "name": "Carty",
+          "url": "https://open.spotify.com/artist/33p7Ux3XLYuYDP1cjIaycW"
+        },
+        {
+          "name": "KG GANG",
+          "url": "https://open.spotify.com/artist/0nYd2Px189UF3GtwQD3XiI"
+        }
+      ],
+      "duration_ms": 187785,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/1ZjtH0XTJistu7y52uVDQC"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "Dictature 1",
+        "url": "https://open.spotify.com/album/2l0wVi1BHYru7PVpGuxftI"
+      },
+      "artists": [
+        {
+          "name": "MRKing",
+          "url": "https://open.spotify.com/artist/5OLzYSgM51p6y0RV3STRZH"
+        }
+      ],
+      "duration_ms": 194663,
+      "name": "Dictature 1",
+      "url": "https://open.spotify.com/track/7jEG3kk0udMzBSFBpc1GF5"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "Dans la vie",
+        "url": "https://open.spotify.com/album/1prjA4u3cxcFDj78QTrxAz"
+      },
+      "artists": [
+        {
+          "name": "TGang",
+          "url": "https://open.spotify.com/artist/0ZYI4MAlov715fXGaCtKys"
+        },
+        {
+          "name": "Lil Jay Bingerack",
+          "url": "https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Dans la vie",
+      "url": "https://open.spotify.com/track/2m4btENTRJsZZJ8W0d3w22"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "Taper le Tchapa",
+        "url": "https://open.spotify.com/album/5Tvf0MnND0bt5d79hsvH9B"
+      },
+      "artists": [
+        {
+          "name": "Jolina Verdigo",
+          "url": "https://open.spotify.com/artist/25DUsTo92CWw5pklzFEMyO"
+        }
+      ],
+      "duration_ms": 216172,
+      "name": "Taper le Tchapa",
+      "url": "https://open.spotify.com/track/5MnXdNc3rDzcwVnmCRuaQy"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "Memphis Depay (J\u2019entends plus)",
+        "url": "https://open.spotify.com/album/7fW9NRMNrVdV1y8zZ0Yxei"
+      },
+      "artists": [
+        {
+          "name": "Nifa Fanafoule",
+          "url": "https://open.spotify.com/artist/7FRoAqspfkJYYYYJ8DTD5O"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Memphis Depay (J\u2019entends plus)",
+      "url": "https://open.spotify.com/track/39QQwMNO21ntMLrTboqFkW"
+    },
+    {
+      "added_at": "2025-09-11 22:00:27",
+      "album": {
+        "name": "BBS",
+        "url": "https://open.spotify.com/album/4wmIHBe8CZxmoMdGGZlXgp"
+      },
+      "artists": [
+        {
+          "name": "Tazeboy",
+          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
+        }
+      ],
+      "duration_ms": 98417,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/5J8w2UbHMo8cEyCReFxTUA"
     }
   ],
   "unique_name": "Afro Rap",

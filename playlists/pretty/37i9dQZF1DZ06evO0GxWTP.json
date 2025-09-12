@@ -1,12 +1,12 @@
 {
   "description": "This is Bankzitters. The essential tracks, all in one playlist.",
-  "num_followers": 20438,
+  "num_followers": 20451,
   "original_name": "This Is Bankzitters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL9uAAAAAAAUVCO0i9W8HUlx4/nJ8D0J",
+  "snapshot_id": "aMC/gAAAAAB7bZ0m/8k65dEANdHXx3V/",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bro Code",
-        "url": "https://open.spotify.com/album/0n0xggIZu6JxTChKME0kea"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 131279,
-      "name": "Bro Code",
-      "url": "https://open.spotify.com/track/3FQ5BOtI48xiIjWesIXvET"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5 Sterren",
         "url": "https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 132600,
       "name": "Fluitend naar Huis",
       "url": "https://open.spotify.com/track/6Swd0Th7cvQH4bywi4eHak"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bro Code",
+        "url": "https://open.spotify.com/album/0n0xggIZu6JxTChKME0kea"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 131279,
+      "name": "Bro Code",
+      "url": "https://open.spotify.com/track/3FQ5BOtI48xiIjWesIXvET"
     },
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slaaptekort",
-        "url": "https://open.spotify.com/album/0ij3zgWFzKvI1qxTvg0F3b"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Slaaptekort",
-      "url": "https://open.spotify.com/track/454sfR8RN4bdHG3yn1IlzC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5 Sterren",
         "url": "https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 135023,
       "name": "Tijdmachine",
       "url": "https://open.spotify.com/track/3DMcsloRh5Rbf0oMBeMOhY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slaaptekort",
+        "url": "https://open.spotify.com/album/0ij3zgWFzKvI1qxTvg0F3b"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Slaaptekort",
+      "url": "https://open.spotify.com/track/454sfR8RN4bdHG3yn1IlzC"
     },
     {
       "added_at": null,
@@ -371,6 +371,22 @@
       "duration_ms": 158400,
       "name": "Systeem",
       "url": "https://open.spotify.com/track/3PPEVFabRGkoH271LNFpJm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eenzaam",
+        "url": "https://open.spotify.com/album/42AYxRimS50BQVmFluoN0r"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 159574,
+      "name": "Eenzaam",
+      "url": "https://open.spotify.com/track/2VXZ2Wp7wVQR70OHdK9SZy"
     }
   ],
   "unique_name": "This Is Bankzitters",

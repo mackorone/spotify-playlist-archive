@@ -25243,6 +25243,36 @@
     },
     {
       "album": {
+        "name": "Lisp",
+        "url": "https://open.spotify.com/album/7Br73jFEjwn7r9VN6SDKtB"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168021,
+      "name": "Lisp",
+      "url": "https://open.spotify.com/track/60IM9cGuF3Y9nSz25La1zB"
+    },
+    {
+      "album": {
         "name": "Lit",
         "url": "https://open.spotify.com/album/6wsxDHolwGyIRMl1BRMifm"
       },

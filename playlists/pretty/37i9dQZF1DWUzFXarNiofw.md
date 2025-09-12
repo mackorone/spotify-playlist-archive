@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,101,219 likes - 275 songs - 14 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,101,350 likes - 275 songs - 14 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,448 songs - 2 day 12 hr 3 min
+1,449 songs - 2 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [FRÖKENS NIKOTIN](https://open.spotify.com/track/7DuWqyAjYyQ8INxd1bv0Bq) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [FRÖKENS NIKOTIN](https://open.spotify.com/album/68ylpzTi3RvmMHxaoWeRVK) | 3:05 | 2023-05-11 | 2023-06-30 |
 | [FUAAARK](https://open.spotify.com/track/0bZWN3MbOWDIXWrmVcFitV) | [Weemizo](https://open.spotify.com/artist/3WS3fQqmY5p52I14rhFHE1) | [FUAAARK](https://open.spotify.com/album/3hnMydN2A28KerbUiBLc2t) | 2:38 | 2022-08-25 | 2022-09-20 |
 | [FUCK DIG](https://open.spotify.com/track/6nwn5SVc86YQ7TSJbIHs1p) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [FUCK DIG](https://open.spotify.com/album/4ZMd4XfUzydl51FuhfVw4G) | 2:08 | 2022-09-29 | 2022-11-18 |
+| [FUCK MITT EX](https://open.spotify.com/track/5uZbNtwrtQKOCkXFoVOGxX) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl) | [FUCK MITT EX](https://open.spotify.com/album/1FzUlKjvO9lEdKj5XUcrvU) | 2:50 | 2025-09-11 |  |
 | [FUCK YOU](https://open.spotify.com/track/4I94kxY59jKqxjvTH466f8) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [FUCK YOU](https://open.spotify.com/album/0SAgArg0IJVj5zvDhLZS7P) | 2:25 | 2023-08-17 | 2023-10-20 |
 | [FUCKBOYZ](https://open.spotify.com/track/3Fa0VkUgi7yqTEQXx5afCo) | [Fucktoyz](https://open.spotify.com/artist/3Dbyn9rbYNg2zgGBxoEulO), [GRANNJÄNTAN](https://open.spotify.com/artist/68F1zsaJ2m6HuKqtJz9kaZ), [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h) | [FUCKBOYZ](https://open.spotify.com/album/2mg2oEIZmvZsetYfb432T6) | 2:01 | 2025-05-15 |  |
 | [FUCKED UP](https://open.spotify.com/track/33WyltHLE1G842rtcXE8yI) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c) | [FUCKED UP](https://open.spotify.com/album/2fr0oCVpVFxHzkVYb6CBoM) | 2:24 | 2022-11-24 | 2023-07-14 |

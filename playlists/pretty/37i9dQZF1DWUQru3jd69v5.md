@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Faneto in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,373 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,391 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [step up](https://open.spotify.com/track/4IJ8wbfYg2iFKfSNXryT05) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [PORTANDO IL PESO](https://open.spotify.com/album/684uZkbeznQXV1qT9UcX9s) | 1:37 |
 | 50 | [Addiction \(feat\. Marshe\)](https://open.spotify.com/track/2ygaItqfhxNcUlCWOKvjWJ) | [Sele](https://open.spotify.com/artist/1DUg0y2Y3aL0O2CyFmzXu7), [Marshe](https://open.spotify.com/artist/7Fl8QB9g3Mc3n90XPXferx) | [Addiction \(feat\. Marshe\)](https://open.spotify.com/album/5FDtvEZN7DQYyAgGBmoaSb) | 3:19 |
 
-Snapshot ID: `AAAAAPz7JoqlhGj0TxpgEjAIF+0ZfmZH`
+Snapshot ID: `AAAAAEcpiRBEspVPUNfcL1fdaP+spDEE`

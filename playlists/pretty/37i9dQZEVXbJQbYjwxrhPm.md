@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,138 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Щото е маймуна](https://open.spotify.com/track/1o0qlusiY9LdkWtPxgybVs) | [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD), [TuFo](https://open.spotify.com/artist/2tdztiZE00ttZKprMwV10x) | [Krisko 2007 \- 2009](https://open.spotify.com/album/7zf45tYdundKUQRsOsXdNX) | 3:37 |
 | 50 | [От кеф да умирам](https://open.spotify.com/track/1SF5ZAO1oUSduw2lHschoA) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ), [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [От кеф да умирам](https://open.spotify.com/album/0SerSfJWOnQLMkEvf24aZd) | 4:00 |
 
-Snapshot ID: `MFTpoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFY7IAAAAAAAAAAAAAAAAAAAAAAAAGVu`

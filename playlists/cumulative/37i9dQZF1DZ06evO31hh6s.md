@@ -4,7 +4,7 @@
 
 > This is Young Noble\. The essential tracks, all in one playlist.
 
-83 songs - 5 hr 34 min
+84 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,9 +46,10 @@
 | [IMMORTALIZED](https://open.spotify.com/track/5IKnQVhGUxRnviKa8pk37T) | [Mr\. ESQ](https://open.spotify.com/artist/3PFvR6hD2fa1pCuV4cHHpC), [details](https://open.spotify.com/artist/5QX6VHqB9TBFQL3t1nek8I), [Livant](https://open.spotify.com/artist/3ysWeSCcHO7Cw1jnOk6cun), [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [ISLAND ROYALTY VOL 2 V.I.KINGS](https://open.spotify.com/album/5Ubd4BITMTAylgM1QENEc7) | 5:01 | 2025-09-04 |  |
 | [Last Official Outlaw](https://open.spotify.com/track/5sztZWvmDxbDHaYiBR3NBZ) | [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [Outlaw University](https://open.spotify.com/album/5CIusXHEtiDOQfAuFYwwBA) | 3:10 | 2025-07-08 |  |
 | [Let It Rain](https://open.spotify.com/track/1TWhHnLrwWPts8mQMWseQ3) | [2nd Chance](https://open.spotify.com/artist/29lnEdxtgHW9mHnfR52a4N), [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS), [Dougie](https://open.spotify.com/artist/0ENrY7KVF6HNbXEi9Twn70) | [The Fathers Love](https://open.spotify.com/album/5FEEJ9q33KZJ17YLwLE6ud) | 4:17 | 2025-07-08 |  |
-| [Letter To DMX](https://open.spotify.com/track/3aP4lUvQGpzYhnZNoslgJ3) | [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [The Last Outlaw](https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2) | 2:54 | 2025-07-08 |  |
+| [Letter To DMX](https://open.spotify.com/track/3aP4lUvQGpzYhnZNoslgJ3) | [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [The Last Outlaw](https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2) | 2:54 | 2025-07-08 | 2025-09-12 |
 | [Lift Me Up](https://open.spotify.com/track/4oMBfmrfIywZSyhNWxzNLp) | [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS), [Deuce Deuce](https://open.spotify.com/artist/076I9mh0LL6igSU0alHNzF) | [Purpose](https://open.spotify.com/album/0LoLLKMlLm2nO0lcSVJWp8) | 2:55 | 2025-07-23 | 2025-07-26 |
 | [Lighters Up](https://open.spotify.com/track/3zHJLuOdJ9NtHuPCz9elpz) | [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR), [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [Thug Brothers 3](https://open.spotify.com/album/7AR4zvTtBpjKY1Xo32q59i) | 3:49 | 2025-07-08 |  |
+| [Lion's Den \(feat\. E.D.I\. Mean\)](https://open.spotify.com/track/7eVcZxtKmJSZqJ2D4evmOv) | [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS), [Deuce Deuce](https://open.spotify.com/artist/076I9mh0LL6igSU0alHNzF), [E.D.I\. Mean](https://open.spotify.com/artist/2PLfAUDdt1zaP2rPvJ0L1m) | [Watch the Signs](https://open.spotify.com/album/2s0i0w7Lnv63uxDMrOOMxd) | 3:33 | 2025-09-12 |  |
 | [Magic \(feat\. Young Noble & Tha Chill\)](https://open.spotify.com/track/4UjPpiWFE2Pm0Hg54j4sk0) | [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X), [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS), [Tha Chill](https://open.spotify.com/artist/7vPLHiyrVGx5OmaSPqJNGw) | [Lessons](https://open.spotify.com/album/5h0fW7otGpsdIGrqQjIwNw) | 4:14 | 2025-07-08 |  |
 | [Makaveli and Eazy](https://open.spotify.com/track/5RqSGlSlvjvaxDp5bBgHdu) | [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR), [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [Thug Brothers 3](https://open.spotify.com/album/7AR4zvTtBpjKY1Xo32q59i) | 4:18 | 2025-07-08 |  |
 | [Man Up](https://open.spotify.com/track/06yvGeeMmpG4J8aYYi3UcO) | [Layzie Bone](https://open.spotify.com/artist/6wAO5FJZZ5PJoRBSpBic7M), [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [Thug Brothers](https://open.spotify.com/album/6RQMdcI0S4puobgZ62MbvD) | 4:48 | 2025-07-11 |  |

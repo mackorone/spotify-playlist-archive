@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 
 > <a href="spotify:artist:7kNqXtgeIwFtelmRjWv205">John Summit</a>'s favorite tracks\. Curated by John Summit\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,698 likes - 43 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,728 likes - 43 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 | 42 | [And 1](https://open.spotify.com/track/6ZULC5YOF7yG1d5cwzIsZH) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [And 1](https://open.spotify.com/album/7DrvIL7jOIquTMgzqHWs7e) | 3:31 |
 | 43 | [Blessings \- Max Styler Remix](https://open.spotify.com/track/4ABq8s2EfMZuqfKsh2XLls) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Blessings \(Max Styler Remix\)](https://open.spotify.com/album/0b2lrcEdueqWOAzyeAKScs) | 4:03 |
 
-Snapshot ID: `AAAAAFJZhgzCPBOqq3eFe0ZdHSxYgs1r`
+Snapshot ID: `AAAAAC9A3m3a4ipQqnxL5UMrFfsTkJ/3`

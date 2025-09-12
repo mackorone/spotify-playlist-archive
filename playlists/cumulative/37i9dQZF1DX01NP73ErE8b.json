@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat  \ud83d\udd01  Irama e Elodie in cover",
+  "description": "I brani italiani che abbiamo on repeat  \ud83d\udd01  Salmo in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "acqua santa",
+        "url": "https://open.spotify.com/album/4saZ2bZ4QrNo3KRhVk0Alj"
+      },
+      "artists": [
+        {
+          "name": "centomilacarie",
+          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156200,
+      "name": "acqua santa",
+      "url": "https://open.spotify.com/track/0Adf7j9EB2GOmjfPW71fPk"
+    },
+    {
+      "album": {
         "name": "ADDO STAJE (Ride it RMX)",
         "url": "https://open.spotify.com/album/0AgNkyLhcAdShRsMt1gtVZ"
       },
@@ -404,7 +422,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 201855,
       "name": "AMICI COME PRIMA",
       "url": "https://open.spotify.com/track/0adrbI6meVUfb7BLAYuIg0"
@@ -1190,7 +1208,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 185597,
       "name": "Casomai",
       "url": "https://open.spotify.com/track/2Yo5lsdqZunwJxkLI0mxIt"
@@ -1668,7 +1686,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 200590,
       "name": "Dai che fai",
       "url": "https://open.spotify.com/track/21KdF0KGmSXmDBcif3XZd4"
@@ -1998,6 +2016,24 @@
       "duration_ms": 159000,
       "name": "D\u00c9SOL\u00c9E",
       "url": "https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS"
+    },
+    {
+      "album": {
+        "name": "ECO",
+        "url": "https://open.spotify.com/album/3S37iz4O7LuteCbsheta2d"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129874,
+      "name": "ECO",
+      "url": "https://open.spotify.com/track/6QCTxkk1mFF54CMNROO8A9"
     },
     {
       "album": {
@@ -2555,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "giorni tristi",
+        "url": "https://open.spotify.com/album/4j4acQzrgq8RlH6zfyOZJD"
+      },
+      "artists": [
+        {
+          "name": "Mara Sattei",
+          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188135,
+      "name": "giorni tristi",
+      "url": "https://open.spotify.com/track/4HCaKR1UkcIlsULPFoQUIn"
+    },
+    {
+      "album": {
         "name": "\u00c8 FINITA LA PACE",
         "url": "https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo"
       },
@@ -2956,7 +3010,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 167283,
       "name": "In auto alle 6:00 (feat. Lazza)",
       "url": "https://open.spotify.com/track/0rufYF3Mr0ZqdmhrZeAIz6"
@@ -3231,6 +3285,24 @@
     },
     {
       "album": {
+        "name": "LA MIA STORIA TRA LE DITA / All Versions",
+        "url": "https://open.spotify.com/album/2cApRKB5zRtyepecFYb0QN"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315733,
+      "name": "LA MIA STORIA TRA LE DITA",
+      "url": "https://open.spotify.com/track/31eAijCejvmhSeou6L40Su"
+    },
+    {
+      "album": {
         "name": "LA PARTE MIGLIORE DI ME",
         "url": "https://open.spotify.com/album/3KFHE2HOL9PNuEAP9VcFOl"
       },
@@ -3300,6 +3372,24 @@
       "duration_ms": 207212,
       "name": "Lampo",
       "url": "https://open.spotify.com/track/5jLjGPzQ1ws4EanEjy6j8Y"
+    },
+    {
+      "album": {
+        "name": "Lasciamene un po'",
+        "url": "https://open.spotify.com/album/27msMZHZCDO0ZpGjPOCvco"
+      },
+      "artists": [
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207661,
+      "name": "Lasciamene un po'",
+      "url": "https://open.spotify.com/track/25W1Kc2SWFmz8DXZT2fTn5"
     },
     {
       "album": {
@@ -4006,7 +4096,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Milano Baby (feat. Joan Thiele)",
       "url": "https://open.spotify.com/track/5ccDm3bBhSgU2z9W5n6pLM"
@@ -4620,7 +4710,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 208280,
       "name": "Occhi a cuore",
       "url": "https://open.spotify.com/track/0Z6AQ7qjeS6ClJpYzNeqyL"
@@ -4904,7 +4994,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 244244,
       "name": "Perdutamente",
       "url": "https://open.spotify.com/track/5pk3bAZLMs1PqdMuHITZU9"
@@ -5138,7 +5228,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 145785,
       "name": "Popolare",
       "url": "https://open.spotify.com/track/4SNJQnHUMKnVt2Zb6Ge5IQ"
@@ -5759,6 +5849,46 @@
     },
     {
       "album": {
+        "name": "Semplicemente (from the Netflix Series \"RIV4LI\")",
+        "url": "https://open.spotify.com/album/4daX0ZBBuoXqr2GIpfe2P5"
+      },
+      "artists": [
+        {
+          "name": "Sarah Toscano",
+          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
+        },
+        {
+          "name": "Mida",
+          "url": "https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187941,
+      "name": "Semplicemente (from the Netflix Series \"RIV4LI\")",
+      "url": "https://open.spotify.com/track/1jRhY5sLzAf3d683tbOVr7"
+    },
+    {
+      "album": {
+        "name": "Senza Una Stupida Storia",
+        "url": "https://open.spotify.com/album/11kvJ6rZcdyq1RNJXiKWVJ"
+      },
+      "artists": [
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179475,
+      "name": "Senza Una Stupida Storia",
+      "url": "https://open.spotify.com/track/0603pYalC545IuB3RgWXPf"
+    },
+    {
+      "album": {
         "name": "SERENATA",
         "url": "https://open.spotify.com/album/1kknmZi7U32CSSrRVRfaqz"
       },
@@ -5894,7 +6024,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 147326,
       "name": "Show",
       "url": "https://open.spotify.com/track/4RyWA7xB7Yu6ws8yAbGexx"
@@ -5992,6 +6122,28 @@
       "duration_ms": 152500,
       "name": "So What",
       "url": "https://open.spotify.com/track/2SBKzqeS4JBGoUwGWdlIEj"
+    },
+    {
+      "album": {
+        "name": "SOLA (TI AMO)",
+        "url": "https://open.spotify.com/album/1Xizf3rtH6J1aLvfleJTm8"
+      },
+      "artists": [
+        {
+          "name": "Cioffi",
+          "url": "https://open.spotify.com/artist/7icODmmdn2ve06h2HvOfPa"
+        },
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "SOLA (TI AMO)",
+      "url": "https://open.spotify.com/track/5tQtxkxCwLsJAhWZ3K8JQ5"
     },
     {
       "album": {

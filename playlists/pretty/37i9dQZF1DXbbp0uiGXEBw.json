@@ -1,13 +1,33 @@
 {
   "description": "C\u00f9ng th\u01b0\u1edfng th\u1ee9c v\u00e0 t\u00f4n vinh c\u00e1c t\u00e1c ph\u1ea9m c\u1ee7a n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t . \u1ea2nh b\u00eca: Olew",
-  "num_followers": 29121,
+  "num_followers": 29130,
   "original_name": "EQUAL Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGHsavrMnv7CCN5GjjT3+Wn4N8YH",
+  "snapshot_id": "AAAAADEcGSUGGWYNsBoO/cqPpGxhQni9",
   "tracks": [
+    {
+      "added_at": "2025-09-11 13:34:47",
+      "album": {
+        "name": "An \u1ee6i Em \u0110\u01b0\u1ee3c Kh\u00f4ng",
+        "url": "https://open.spotify.com/album/0Wze7XS2oLsY5IDgFjrZZR"
+      },
+      "artists": [
+        {
+          "name": "Olew",
+          "url": "https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY"
+        },
+        {
+          "name": "Ng\u1eafn",
+          "url": "https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P"
+        }
+      ],
+      "duration_ms": 268236,
+      "name": "An \u1ee6i Em \u0110\u01b0\u1ee3c Kh\u00f4ng",
+      "url": "https://open.spotify.com/track/1mN4HvOcu3JU5BmPfsvaIJ"
+    },
     {
       "added_at": "2025-09-03 00:13:23",
       "album": {
@@ -23,26 +43,6 @@
       "duration_ms": 214499,
       "name": "Em \u0110\u00e2y Ch\u1eb3ng Ph\u1ea3i Th\u00fay Ki\u1ec1u",
       "url": "https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu"
-    },
-    {
-      "added_at": "2025-09-03 00:13:23",
-      "album": {
-        "name": "L\u00f9i L\u1ea1i L\u1ea5y \u0110\u00e0",
-        "url": "https://open.spotify.com/album/1iuTmrPqOZxbeY6u3dCLP0"
-      },
-      "artists": [
-        {
-          "name": "Olew",
-          "url": "https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY"
-        },
-        {
-          "name": "Th\u1ed1ng",
-          "url": "https://open.spotify.com/artist/4XbvXU1QZ22KHcaDNy3XYX"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "L\u00f9i L\u1ea1i L\u1ea5y \u0110\u00e0",
-      "url": "https://open.spotify.com/track/7uEDYqrHJ6Ab5tPz5pNhxy"
     },
     {
       "added_at": "2025-09-03 00:13:23",

@@ -2,7 +2,7 @@
 
 ### [Afro Station](https://open.spotify.com/playlist/37i9dQZF1DX6036iaZ2MYP)
 
-> Tracks popping off in the Afro scene\. Cover: Shallipopi
+> Tracks popping off in the Afro scene\. Cover: Skales
 
 921 songs - 1 day 19 hr 29 min
 

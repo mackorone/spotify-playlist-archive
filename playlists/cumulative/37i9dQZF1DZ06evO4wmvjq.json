@@ -806,7 +806,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 389453,
       "name": "Cancion Desierto",
       "url": "https://open.spotify.com/track/1QJHdpZI0opRyXaXsNZCYk"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 385600,
       "name": "Havana Man",
       "url": "https://open.spotify.com/track/7KIaxcmI9QG7veesnjLYyZ"
@@ -2678,7 +2678,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 485293,
       "name": "ORGANUM FOR STEFANO II",
       "url": "https://open.spotify.com/track/49Q7Mt36cgPZpaXPlhnpUR"
@@ -3480,7 +3480,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 214626,
       "name": "Spirit of Peace: Part I.",
       "url": "https://open.spotify.com/track/0hh4neHwvdZK7jB4yobBoX"
@@ -3578,7 +3578,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 613746,
       "name": "Sunrise Of The Planetary Dream Collector - 1985 Version",
       "url": "https://open.spotify.com/track/5RQlKEz672VrGewNyimvbs"
@@ -3666,6 +3666,28 @@
       "duration_ms": 561226,
       "name": "The Crucifixion Of My Humble Self",
       "url": "https://open.spotify.com/track/0JsGHAmk4OjhalNLJJTktU"
+    },
+    {
+      "album": {
+        "name": "Redolfi: Music on Mars",
+        "url": "https://open.spotify.com/album/26YhJH6umInRN62uUwKSYr"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Michel Redolfi",
+          "url": "https://open.spotify.com/artist/2FDVDpVITrTgS4jalChazF"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 545493,
+      "name": "The Descent",
+      "url": "https://open.spotify.com/track/6vwRcS5II1V2dQ6DEdTjw6"
     },
     {
       "album": {

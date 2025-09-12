@@ -2,7 +2,7 @@
 
 ### [RAP GENERACJA](https://open.spotify.com/playlist/37i9dQZF1DWXJnyndhASBe)
 
-> Największe rapowe kawałki w tej chwili\. Cover: Mata, Oki
+> Największe rapowe kawałki w tej chwili\. Cover: Bedoes 2115
 
 746 songs - 1 day 11 hr 9 min
 

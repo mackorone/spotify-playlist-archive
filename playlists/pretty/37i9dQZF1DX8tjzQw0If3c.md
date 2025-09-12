@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Celebrate 1000 RADAR artists by listening to some of the top most streamed RADAR artists from Singapore & Malaysia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,157 likes - 111 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,155 likes - 111 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

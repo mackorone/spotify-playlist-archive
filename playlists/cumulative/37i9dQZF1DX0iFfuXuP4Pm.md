@@ -2,7 +2,7 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. Cover: James Reid, TJ Monterde
+> Mga nangunguna sa mundo ng OPM\. Cover: The Juans
 
 382 songs - 23 hr 43 min
 

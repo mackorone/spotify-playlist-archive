@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,121 songs - 3 day 9 hr 35 min
+1,123 songs - 3 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [ETERNAL NOW](https://open.spotify.com/track/3Od1ZJW0O6puhUWFzlg85d) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Champagne Drip](https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f) | [RENEGADES OF LIGHT](https://open.spotify.com/album/4KVo7hcHmc7x12sszqdLAN) | 3:58 | 2019-07-25 | 2019-08-10 |
 | [ETERNAL NOW](https://open.spotify.com/track/40XVgYlIzqv4cndzgam9uW) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Champagne Drip](https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f) | [ETERNAL NOW](https://open.spotify.com/album/5tKnQVnukepiXvbGOf1QcI) | 3:58 | 2019-06-19\* | 2020-10-19 |
 | [Ether](https://open.spotify.com/track/5PdSt6fmAgBO5twd1xTv4j) | [dBridge](https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y) | [Inhibited LP](https://open.spotify.com/album/0WXEIsq4MYVxkK7Ap3YIfM) | 5:25 | 2020-08-26 | 2020-10-22 |
+| [Euphorique](https://open.spotify.com/track/5E6nY7W1XyP2V9V2CnaxoY) | [Sakura Tsuruta](https://open.spotify.com/artist/79OBZx6sPHvnUqeIpooOcZ) | [Euphorique](https://open.spotify.com/album/4zZXKFh6aWnxWtqSnT2VUj) | 4:51 | 2025-09-12 |  |
 | [Eurotunnel](https://open.spotify.com/track/3PbIUqlExWHZIdJ6hpuVd2) | [Dunwich](https://open.spotify.com/artist/0JqI034ZqN4yzMjyOfAmN1), [Peter Power](https://open.spotify.com/artist/5l5RxxtywxwYKaKJrl5Vrh) | [Eurotunnel](https://open.spotify.com/album/3OFqqwD4BIbHKGHPMtHPxI) | 11:32 | 2021-02-03 | 2022-07-26 |
 | [Eurybia](https://open.spotify.com/track/18rrn2iGWKhqx0TZlnCaFb) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Eurybia](https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x) | 6:02 | 2023-08-04 | 2023-10-28 |
 | [Eurybia](https://open.spotify.com/track/507fLAOWKOut8biyt9mGyX) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Eurybia](https://open.spotify.com/album/5e1pTFakXmZhCi18qt3IBm) | 6:02 | 2023-05-26 | 2023-08-16 |
@@ -359,7 +360,7 @@
 | [Flek](https://open.spotify.com/track/37MvOmyPdgyeWOymDgor3O) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Flek](https://open.spotify.com/album/32vcNeIRAUWxN8Yq0ROfEa) | 3:59 | 2023-10-06 |  |
 | [Flicker](https://open.spotify.com/track/635aBqtYKZiGQTotfllnpl) | [Rohne](https://open.spotify.com/artist/2GL5OJQQ0qp2rtth8iy6Kf) | [Flicker](https://open.spotify.com/album/51PktMeH5b1GPZvJ7ZTZsU) | 4:47 | 2021-08-27 | 2025-07-19 |
 | [Flickers in the Air of Night](https://open.spotify.com/track/7iTVMlkBHObTVK4KVXbyg5) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 4:02 | 2025-05-09 |  |
-| [Flips and Flops, Drips and Drops](https://open.spotify.com/track/06iwhAevuCgupNwTg3wSC3) | [Electric Mantis](https://open.spotify.com/artist/4oEju6elvuvjARvor8R9j9) | [Flips and Flops, Drips and Drops](https://open.spotify.com/album/1raJmkdfhcwOPMpzJ9zkea) | 3:36 | 2019-05-26\* |  |
+| [Flips and Flops, Drips and Drops](https://open.spotify.com/track/06iwhAevuCgupNwTg3wSC3) | [Electric Mantis](https://open.spotify.com/artist/4oEju6elvuvjARvor8R9j9) | [Flips and Flops, Drips and Drops](https://open.spotify.com/album/1raJmkdfhcwOPMpzJ9zkea) | 3:36 | 2019-05-26\* | 2025-09-12 |
 | [Float](https://open.spotify.com/track/7omCw0COR7xdEqGdAo15Qs) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Float](https://open.spotify.com/album/7wNrgLd06nnEGKmN41nXYI) | 4:07 | 2020-10-19 | 2020-10-22 |
 | [Floating on Your Memories](https://open.spotify.com/track/19x0wfJhjCLPlUEE63ar4o) | [Rhodz](https://open.spotify.com/artist/4BrtGOYp8sytG9MV91DROT) | [Fading Horizon LP](https://open.spotify.com/album/4FDfCvhIpbwu6956J8a0jh) | 2:36 | 2019-06-19\* | 2022-04-13 |
 | [Flood Gates](https://open.spotify.com/track/20HrDfYP92YCWRvUHjFdBc) | [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [First Opus](https://open.spotify.com/album/19FFct3GihJy9CKw9BeVFN) | 2:30 | 2019-06-24 | 2020-10-22 |
@@ -637,7 +638,7 @@
 | [Mustafa \(time to move you\)](https://open.spotify.com/track/4OwXYXg5WCQl8w4W3xYzvK) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 2:34 | 2023-03-24 | 2023-05-13 |
 | [Mutter \- 2020 Remaster](https://open.spotify.com/track/38loordkxsYzwiQpE7FHaj) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Mutter \(2020 Remaster\)](https://open.spotify.com/album/7yr0zY7ZrK4wUvuAAfr75H) | 8:10 | 2020-12-19 | 2022-04-21 |
 | [My Dream Dungeon Makeover](https://open.spotify.com/track/65JPv9TsAqdrmo5iVqF7pW) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Again \(Blu\-ray Edition\)](https://open.spotify.com/album/3Tk9UHnq0tGscjWGSKnue6) | 4:53 | 2024-04-19 | 2024-05-24 |
-| [My Safe Harbour](https://open.spotify.com/track/1VJd7jX3gvrlOSCPJmOHUp) | [Quantec](https://open.spotify.com/artist/1hjNDDzz7GzmceHSWgWdck) | [Echocord Jubilee Compilation](https://open.spotify.com/album/0nsUuLiEUz6KZcRnWx0sJm) | 7:12 | 2025-08-28 |  |
+| [My Safe Harbour](https://open.spotify.com/track/1VJd7jX3gvrlOSCPJmOHUp) | [Quantec](https://open.spotify.com/artist/1hjNDDzz7GzmceHSWgWdck) | [Echocord Jubilee Compilation](https://open.spotify.com/album/0nsUuLiEUz6KZcRnWx0sJm) | 7:12 | 2025-08-28 | 2025-09-12 |
 | [Mystery or Misery?](https://open.spotify.com/track/72C2aCZtRsUuGnjK9cqVKc) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Mystery or Misery?](https://open.spotify.com/album/6gT6dy3Bg9iHKS8N6exbWh) | 3:49 | 2024-11-22 | 2025-01-19 |
 | [Más Profundo](https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt) | [Bruxas](https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7) | [Más Profundo](https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx) | 6:12 | 2019-06-21 | 2020-08-26 |
 | [Nation](https://open.spotify.com/track/7u6e2bismSIAH1fyUvj3Ru) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Life](https://open.spotify.com/album/525ORJiAr0Gt29UjF1hpJU) | 4:36 | 2023-05-12 | 2025-05-09 |
@@ -1006,6 +1007,7 @@
 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 | 2023-04-28 | 2023-06-06 |
 | [Three Ralphs](https://open.spotify.com/track/0fXyhTmLlNm7NqrXA8el0v) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [The Mountain Will Fall](https://open.spotify.com/album/2OW3iDsmS98lTqgta5Zv0O) | 3:36 | 2019-06-24 | 2020-10-19 |
 | [through the sky window](https://open.spotify.com/track/0linWOAdLg8Og74POchDcS) | [Fantastic Mister Ox](https://open.spotify.com/artist/40KrQHHR8AJy3rAHcvbWgn) | [through the sky window](https://open.spotify.com/album/5lhwalYoAsazRYDCkWIV3y) | 4:08 | 2025-07-18 |  |
+| [Tidal Wave](https://open.spotify.com/track/2wZhZYuCFpoSElWEQq3Tt5) | [Stresshead](https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs) | [Tidal Wave](https://open.spotify.com/album/0zZz8NNJM9Uwmufm8suDSu) | 3:48 | 2025-09-12 |  |
 | [Tides](https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Tides](https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV) | 3:36 | 2024-01-16 |  |
 | [Tides](https://open.spotify.com/track/3kE3j0x9BMdyFExd2ZOq5z) | [Louf](https://open.spotify.com/artist/6FuiYA7qfyWvCzyWxepEjy) | [Kilopascal EP](https://open.spotify.com/album/4RRbT9V4De1XeIybWemoDI) | 5:31 | 2021-08-27 | 2022-07-29 |
 | [Time After Time](https://open.spotify.com/track/2TGqlWRA87pIBfdeEMmEoo) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [Late Night Tales presents Sasha: Scene Delete](https://open.spotify.com/album/5WiIPyir7oowZr5iGSu4l6) | 4:52 | 2019-07-25 | 2022-04-17 |

@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-347 songs - 22 hr 50 min
+348 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Down on the Beach Tonight](https://open.spotify.com/track/4KDpLCemsZDAa8lsEaY8AW) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Legends](https://open.spotify.com/album/1imTGKx9Ak5kaPpZLC9DGg) | 3:02 | 2021-09-08 | 2022-07-12 |
 | [Everybody Dance](https://open.spotify.com/track/2tSzHVPE05bV6mFwm2Tndd) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Good Times: The Very Best Of Chic & Sister Sledge](https://open.spotify.com/album/5kPejohrlhJVzEBxMObjDU) | 4:07 | 2021-09-08 | 2022-07-29 |
 | [Figaro](https://open.spotify.com/track/79uVpThXN2yCMpD1OFH21C) | [Brotherhood of Man](https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo) | [The Definitive Collection](https://open.spotify.com/album/0zzbdqmC8w5izz5VxxDI43) | 2:55 | 2021-09-08 | 2022-07-21 |
-| [Fire](https://open.spotify.com/track/06xkqQuJzl1ddeK48jG6qa) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Fire](https://open.spotify.com/album/3gGHGMqm9zqw0j0UIcRKvE) | 4:36 | 2021-09-08 |  |
+| [Fire](https://open.spotify.com/track/06xkqQuJzl1ddeK48jG6qa) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Fire](https://open.spotify.com/album/3gGHGMqm9zqw0j0UIcRKvE) | 4:36 | 2021-09-08 | 2025-09-12 |
 | [For the Love of Money](https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 7:19 | 2021-09-08 |  |
 | [From New York to L.A.](https://open.spotify.com/track/1hV8qrJMyGJ5tJubYCNG6c) | [Patsy Gallant](https://open.spotify.com/artist/13amDjKz680LMirXzQEqU5) | [Are You Ready for Love](https://open.spotify.com/album/3ONbXDCqblkmWne11qIlia) | 4:51 | 2021-09-08 | 2022-07-29 |
 | [Get Down](https://open.spotify.com/track/1kX0JVbq1lG9VZNiLF3Bwz) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [I'm a Writer, Not a Fighter \(Deluxe Edition\)](https://open.spotify.com/album/6SZx2JXzQ7d2CmIvQIBkyv) | 2:39 | 2021-09-08 | 2022-07-29 |
@@ -123,6 +123,7 @@
 | [Heart Of Glass](https://open.spotify.com/track/41AE8ODX2JETBCa6muhSLY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:12 | 2021-09-08 |  |
 | [Heaven Must Be Missing An Angel \- Pt\. 1](https://open.spotify.com/track/7qQzkUWsbvoTDbNpW3FHQu) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [It Only Takes a Minute: A Lifetime with Tavares](https://open.spotify.com/album/1Qe9DoLXWCIwguQieoTcQh) | 6:29 | 2021-03-22 |  |
 | [Heaven Must Be Missing An Angel \- Pt\. 1](https://open.spotify.com/track/7BDW57CKVzbjvwRT2xuv01) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [Sky High](https://open.spotify.com/album/0Iytoyo5RIovN9CL5Ii8nW) | 6:33 | 2021-03-22 | 2022-10-10 |
+| [Heaven Must Have Sent You](https://open.spotify.com/track/4KBLF8z7Hv7RIHjetaTCfD) | [Bonnie Pointer](https://open.spotify.com/artist/3ywBpweKQY8MosUnAuPAgc) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 3:34 | 2021-09-08 |  |
 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 | 2021-09-08 |  |
 | [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 | 2021-09-08 |  |
 | [Hold the Line](https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 3:55 | 2021-09-08 |  |

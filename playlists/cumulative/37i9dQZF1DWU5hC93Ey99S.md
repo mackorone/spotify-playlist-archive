@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-894 songs - 1 day 23 hr 33 min
+896 songs - 1 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [4ever](https://open.spotify.com/track/6vTwvQcOeXnZe9lO6AsSCu) | [how2fly](https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE) | [4ever](https://open.spotify.com/album/4j4aIwfhfXePxdUeoFv2MN) | 2:45 | 2025-08-11 |  |
 | [54321 \- ATRIP Remix](https://open.spotify.com/track/0ACZ92GjHD2lxR6jZ0GaYL) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d), [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [54321 \(ATRIP Remix\)](https://open.spotify.com/album/65qZVwoxmyMx9ph95PSjCH) | 3:19 | 2023-04-27 | 2024-01-06 |
 | [80HD](https://open.spotify.com/track/5x9dNJ7IZbfvPTwLlag3np) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Love Disc](https://open.spotify.com/album/3UvDnhFvJ3BFlyZec8hJ0X) | 2:37 | 2023-08-03 | 2025-08-13 |
+| [9](https://open.spotify.com/track/0qe5eV70bPb2fbDsJV0Wx9) | [maybe](https://open.spotify.com/artist/1kLyslVxDqKFsDC68AGzdS) | [9](https://open.spotify.com/album/7CUutOsihwRKjwongFZtgt) | 3:36 | 2025-09-11 |  |
 | [98 Sunset](https://open.spotify.com/track/41ZR28BD5f4nuIkK8T5McN) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG) | [98 Sunset](https://open.spotify.com/album/386IQCbncYG3ThRtOt1Kn2) | 4:00 | 2025-01-23 | 2025-08-13 |
 | [<3](https://open.spotify.com/track/7lcsNdPK8zKK7gOqfd0eAf) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [<3](https://open.spotify.com/album/2sSD6gODuaYlseme5w2dWf) | 2:26 | 2023-04-27 | 2025-08-13 |
 | [A Thousand Knives \(Enamour Remix\) \- Edit](https://open.spotify.com/track/2nwzgfxFquLBgbx3LMdxWv) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [A Thousand Knives \(Enamour Remix\) \[Edit\]](https://open.spotify.com/album/5BQ5rQxDLVSi1tjzTQOZ35) | 4:49 | 2023-06-15 | 2023-07-14 |
@@ -245,7 +246,7 @@
 | [Fly Away](https://open.spotify.com/track/3c5rvZtI9Wtb34OteppZ6k) | [Twelve](https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb) | [Fly Away](https://open.spotify.com/album/2XsGUqF4mOqRizpZYo9q4g) | 2:58 | 2024-05-09 | 2025-08-13 |
 | [Focus](https://open.spotify.com/track/5BqoenxBDt7GS31nB7ONfi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Focus](https://open.spotify.com/album/2hx11bniHH12W8UZihSMov) | 3:46 | 2024-03-21 | 2025-01-17 |
 | [follow you](https://open.spotify.com/track/7rv0FWEEb34mHYaHFcBfkw) | [informal.](https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie) | [follow you](https://open.spotify.com/album/7HTwyVqnDDTRma0swJgDJL) | 3:04 | 2023-04-27 | 2024-01-06 |
-| [Food for the Soul](https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Food for the Soul](https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw) | 3:30 | 2023-04-13 |  |
+| [Food for the Soul](https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Food for the Soul](https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw) | 3:30 | 2023-04-13 | 2025-09-12 |
 | [For You](https://open.spotify.com/track/6Xn3ss3WhxXKS6W0Mi2RR1) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr) | [For You](https://open.spotify.com/album/6kw5Yq72NQcvIqKYwsCnjV) | 2:18 | 2024-05-16 | 2025-08-13 |
 | [For You](https://open.spotify.com/track/5QgqecZMwKbC9b495DQrB8) | [Stevie Krash](https://open.spotify.com/artist/2zOpxf21yQ0GBN2yOXbjry) | [For You](https://open.spotify.com/album/0roIiNujeGQ6mZ2wgxrBQw) | 3:34 | 2024-10-24 | 2025-08-13 |
 | [Forever](https://open.spotify.com/track/1l2WYB3pwvyuwCnjXG65LI) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Patrick Aretz](https://open.spotify.com/artist/44bMkU8chE8FJimdH4XyD6) | [Forever](https://open.spotify.com/album/0ksz8SkO5pzob4qLByrWTW) | 2:42 | 2023-12-21 | 2023-12-23 |
@@ -304,7 +305,7 @@
 | [Higher](https://open.spotify.com/track/6LbA4zFOqvuHx3Zn1FyLiR) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Higher](https://open.spotify.com/album/0laWiilr8KsdXWT2n2HAjW) | 2:26 | 2024-10-24 | 2025-08-13 |
 | [Highlight](https://open.spotify.com/track/0XdLGeMddzvB6CtkuFHy7i) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Highlight](https://open.spotify.com/album/4z1KgyCoUK2h22jRFnd2yy) | 4:11 | 2024-08-22 | 2025-08-13 |
 | [Highlight \- jigitz Remix](https://open.spotify.com/track/0S2M1qkve0r09dvQw4WmbE) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [Highlight \(jigitz Remix\)](https://open.spotify.com/album/1P0suDsFOBQ5UVZHvWvrdj) | 4:06 | 2024-09-26 | 2025-08-13 |
-| [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 | 2023-04-13 |  |
+| [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 | 2023-04-13 | 2025-09-12 |
 | [Hold On](https://open.spotify.com/track/5HEx0ZwJEmZhvjlrMYnSuf) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Hold On](https://open.spotify.com/album/7d9whArUbh3cK93jfmS3Ui) | 2:18 | 2024-05-08 | 2025-08-13 |
 | [hold on](https://open.spotify.com/track/6lJEvqDWccR6tQdb9jpG4o) | [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X) | [with friends](https://open.spotify.com/album/0VuZYhSFTWFfRYkdGiG3z6) | 2:01 | 2023-04-27 | 2024-01-06 |
 | [Hold On](https://open.spotify.com/track/6pCrx0kmrXsXlMfKK9KksT) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Hold On](https://open.spotify.com/album/5EE83YjGBKzM6x5O9AT9rN) | 4:13 | 2025-03-06 |  |
@@ -438,6 +439,7 @@
 | [Little Planets \- Remix](https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Little Planets \- Remix](https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg) | 4:00 | 2023-04-21 | 2025-08-13 |
 | [Little Wing \- George FitzGerald Remix](https://open.spotify.com/track/3rhPZdw2c8MiFnTQ6xNwD5) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Little Wing \(George FitzGerald Remix\)](https://open.spotify.com/album/3nb11vQXFtfLxRqvJ278Bx) | 4:19 | 2023-11-09 | 2024-01-06 |
 | [Live You Down](https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh) | [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG) | [Live You Down](https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ) | 3:01 | 2023-04-27 | 2025-08-13 |
+| [LIVING WITHOUT U](https://open.spotify.com/track/2krfwDVuO30gcQjZ0houHE) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [LIVING WITHOUT U](https://open.spotify.com/album/1kls1K8RYllsX1baM4X8kQ) | 3:11 | 2025-09-11 |  |
 | [Lonely](https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Lonely](https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj) | 2:45 | 2023-07-07 | 2025-08-13 |
 | [Lonely \- AVAION Remix](https://open.spotify.com/track/3QFYEwD1H68ii9jXSdWJbU) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst), [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Lonely \(AVAION Remix\)](https://open.spotify.com/album/3ac5ZGbY7LbUqc3SK9z308) | 3:55 | 2024-08-15 | 2025-08-13 |
 | [Looking Down From Space](https://open.spotify.com/track/3DTTlCES4tHvTBjQBGQSwV) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Looking Down From Space](https://open.spotify.com/album/5qCrgDQMeXAQyw7eFHsGMI) | 4:08 | 2023-06-01 | 2024-01-06 |

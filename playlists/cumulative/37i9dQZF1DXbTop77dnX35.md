@@ -2,7 +2,7 @@
 
 ### [New Music Friday Naija](https://open.spotify.com/playlist/37i9dQZF1DXbTop77dnX35)
 
-> New Music from FOLA, Rema, Shalipoppi and more
+> New Music from Qing Madi, Stonebwoy, Rybeena, Skales  and more
 
 3,773 songs - 7 day 22 hr 23 min
 
@@ -1768,7 +1768,7 @@
 | [Kolobi](https://open.spotify.com/track/3kcC2SwS1Sv1G9kIjjVeDi) | [Da Chris](https://open.spotify.com/artist/1sCf1a4iPzCOIM5bFITxnQ), [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Kolobi](https://open.spotify.com/album/3XYVIO8fEqiMB5P3bmJSso) | 2:59 | 2024-12-13 | 2024-12-20 |
 | [Kolorado](https://open.spotify.com/track/0DkwQaNwxRMVD4eRHGmhnp) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Billionboi](https://open.spotify.com/artist/5OkssG2Pb7u2VGiRdYZtMz) | [Kolorado](https://open.spotify.com/album/1uW0dS24srLOCTkPbddWdP) | 2:30 | 2024-12-13 | 2024-12-20 |
 | [Komasava \(Comment Ça Va\) \[feat\. Khalil Harrison, Chley Nkosi\] \[Remix\]](https://open.spotify.com/track/0WmNSVQAT1HHzhrJPwAjyI) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Chley Nkosi](https://open.spotify.com/artist/2v7YXam9kQflXAOQ1C58Q2), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp) | [Komasava \(Comment Ça Va\) \[feat\. Khalil Harrison, Chley Nkosi\] \[Remix\]](https://open.spotify.com/album/4ACYyDQVF6TML1G4ge3IAs) | 4:45 | 2024-07-26 | 2024-08-02 |
-| [KOMOLE](https://open.spotify.com/track/2xrb6kn0KcNbLg4eUXxzZe) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [KOMOLE](https://open.spotify.com/album/7pEY5InFd1bhQ8Mzbo5dMS) | 2:02 | 2025-09-05 | 2025-09-06 |
+| [KOMOLE](https://open.spotify.com/track/2xrb6kn0KcNbLg4eUXxzZe) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [KOMOLE](https://open.spotify.com/album/7pEY5InFd1bhQ8Mzbo5dMS) | 2:02 | 2025-09-05 |  |
 | [Kor i Kor](https://open.spotify.com/track/5Ime1ULtZ3BbKkTcU8spgd) | [Danny S](https://open.spotify.com/artist/4aibukrNAW1WO9wks6Pd7M), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Kor i Kor](https://open.spotify.com/album/5Pj01XbC2M3CHIBqde9y0o) | 3:10 | 2024-08-16 | 2024-08-23 |
 | [Korle Bu No Get Bed](https://open.spotify.com/track/161wQEvlxiqmUFT3TmLMOX) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s), [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [F.O.L.A.H 1 \(Fear Of Love And Happiness\)](https://open.spotify.com/album/4ABLWme9yWPWOB4mqhDr5t) | 2:04 | 2025-04-11 | 2025-04-18 |
 | [Korobo II](https://open.spotify.com/track/3EQ3uM24iQZQrbjSA97697) | [Idyl](https://open.spotify.com/artist/2L7Vza3szswJ0fGJiVK61J), [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N) | [Korobo II](https://open.spotify.com/album/6sjF5WvzxkjrAvG25dFADT) | 3:17 | 2025-05-02 | 2025-05-09 |

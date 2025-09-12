@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Klassik Frescobar",
-  "num_followers": 237607,
+  "num_followers": 237687,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -151,26 +151,18 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Mind My Business",
-        "url": "https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1"
+        "name": "The A List",
+        "url": "https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ"
       },
       "artists": [
         {
-          "name": "Travis World",
-          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
-        },
-        {
-          "name": "Dan Evens",
-          "url": "https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK"
-        },
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+          "name": "Pumpa",
+          "url": "https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5"
         }
       ],
-      "duration_ms": 119040,
-      "name": "Mind My Business",
-      "url": "https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz"
+      "duration_ms": 217913,
+      "name": "The A List",
+      "url": "https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -227,18 +219,26 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "The A List",
-        "url": "https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ"
+        "name": "Mind My Business",
+        "url": "https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1"
       },
       "artists": [
         {
-          "name": "Pumpa",
-          "url": "https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5"
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+        },
+        {
+          "name": "Dan Evens",
+          "url": "https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK"
+        },
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
         }
       ],
-      "duration_ms": 217913,
-      "name": "The A List",
-      "url": "https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu"
+      "duration_ms": 119040,
+      "name": "Mind My Business",
+      "url": "https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -555,6 +555,26 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
+        "name": "Soca Start",
+        "url": "https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ"
+      },
+      "artists": [
+        {
+          "name": "IQ",
+          "url": "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv"
+        },
+        {
+          "name": "DJ CHEEM",
+          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
+        }
+      ],
+      "duration_ms": 141296,
+      "name": "Soca Start",
+      "url": "https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
         "name": "In the Water",
         "url": "https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo"
       },
@@ -571,22 +591,6 @@
       "duration_ms": 159873,
       "name": "In the Water",
       "url": "https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
-        "name": "D N A",
-        "url": "https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8"
-      },
-      "artists": [
-        {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "D N A",
-      "url": "https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -611,6 +615,22 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
+        "name": "D N A",
+        "url": "https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "D N A",
+      "url": "https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
         "name": "Dear Promoter",
         "url": "https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 244578,
       "name": "Dear Promoter",
       "url": "https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
-        "name": "Soca Start",
-        "url": "https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ"
-      },
-      "artists": [
-        {
-          "name": "IQ",
-          "url": "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv"
-        },
-        {
-          "name": "DJ CHEEM",
-          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
-        }
-      ],
-      "duration_ms": 141296,
-      "name": "Soca Start",
-      "url": "https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna"
+      },
+      "artists": [
+        {
+          "name": "David Rudder",
+          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
+        }
+      ],
+      "duration_ms": 295106,
+      "name": "Trini 2 De Bone",
+      "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
         "name": "Erupt",
         "url": "https://open.spotify.com/album/3iy6Yo9PjVy9OSDQqZzBqx"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Long Live Soca",
-        "url": "https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd"
-      },
-      "artists": [
-        {
-          "name": "Voice",
-          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
-        }
-      ],
-      "duration_ms": 225251,
-      "name": "Long Live Soca",
-      "url": "https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Soca Future Riddim",
         "url": "https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm"
       },
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna"
+        "name": "Long Live Soca",
+        "url": "https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd"
       },
       "artists": [
         {
-          "name": "David Rudder",
-          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
         }
       ],
-      "duration_ms": 295106,
-      "name": "Trini 2 De Bone",
-      "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
+      "duration_ms": 225251,
+      "name": "Long Live Soca",
+      "url": "https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
-      },
-      "artists": [
-        {
-          "name": "Peter Ram",
-          "url": "https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ"
-        }
-      ],
-      "duration_ms": 279426,
-      "name": "Woman By My Side",
-      "url": "https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Retro Fete Riddim",
         "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 152624,
       "name": "Party Nice",
       "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+      },
+      "artists": [
+        {
+          "name": "Peter Ram",
+          "url": "https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ"
+        }
+      ],
+      "duration_ms": 279426,
+      "name": "Woman By My Side",
+      "url": "https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1427,30 +1427,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "BISON RIDDIM",
-        "url": "https://open.spotify.com/album/1u5QLXe5LXgHiz7hkpSzgo"
-      },
-      "artists": [
-        {
-          "name": "BENJI BEATZ",
-          "url": "https://open.spotify.com/artist/5BKnVBJCdHSzMtQnVm92mJ"
-        },
-        {
-          "name": "DASH",
-          "url": "https://open.spotify.com/artist/6vpIE3IMD7dLTRAtCfZmYG"
-        },
-        {
-          "name": "WATER DADDIES",
-          "url": "https://open.spotify.com/artist/3bXQrKP6beUfeoDhncrNpo"
-        }
-      ],
-      "duration_ms": 146556,
-      "name": "PORTAL",
-      "url": "https://open.spotify.com/track/2jLKAPwUGTji359kOZl3c9"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Soca Gold 2002",
         "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
       },
@@ -1479,6 +1455,30 @@
       "duration_ms": 233116,
       "name": "Long Time",
       "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "BISON RIDDIM",
+        "url": "https://open.spotify.com/album/1u5QLXe5LXgHiz7hkpSzgo"
+      },
+      "artists": [
+        {
+          "name": "BENJI BEATZ",
+          "url": "https://open.spotify.com/artist/5BKnVBJCdHSzMtQnVm92mJ"
+        },
+        {
+          "name": "DASH",
+          "url": "https://open.spotify.com/artist/6vpIE3IMD7dLTRAtCfZmYG"
+        },
+        {
+          "name": "WATER DADDIES",
+          "url": "https://open.spotify.com/artist/3bXQrKP6beUfeoDhncrNpo"
+        }
+      ],
+      "duration_ms": 146556,
+      "name": "PORTAL",
+      "url": "https://open.spotify.com/track/2jLKAPwUGTji359kOZl3c9"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
+        "name": "Charge",
+        "url": "https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo"
+      },
+      "artists": [
+        {
+          "name": "Xtatik",
+          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
+        }
+      ],
+      "duration_ms": 276131,
+      "name": "Footsteps",
+      "url": "https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
         "name": "Front Yard Wet",
         "url": "https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk"
       },
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Charge",
-        "url": "https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo"
-      },
-      "artists": [
-        {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
-        }
-      ],
-      "duration_ms": 276131,
-      "name": "Footsteps",
-      "url": "https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Hot and Groovy",
         "url": "https://open.spotify.com/album/05BvK7qOUP4YLJxrAGaLC5"
       },
@@ -1615,6 +1615,26 @@
       "duration_ms": 282567,
       "name": "Hot and Groovy",
       "url": "https://open.spotify.com/track/5ufDDOz8dT9bW9tjegZ6DB"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Look Back",
+        "url": "https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP"
+      },
+      "artists": [
+        {
+          "name": "Boogy Rankss",
+          "url": "https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth"
+        },
+        {
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Look Back",
+      "url": "https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1643,26 +1663,6 @@
       "duration_ms": 138034,
       "name": "Fou Le Bordel",
       "url": "https://open.spotify.com/track/5O5wQzUnWQt5xAoO6It04e"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
-        "name": "Look Back",
-        "url": "https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP"
-      },
-      "artists": [
-        {
-          "name": "Boogy Rankss",
-          "url": "https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth"
-        },
-        {
-          "name": "Lyrikal",
-          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "Look Back",
-      "url": "https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK"
     },
     {
       "added_at": "2025-08-29 14:56:22",

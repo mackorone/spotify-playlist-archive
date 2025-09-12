@@ -2,7 +2,7 @@
 
 ### [Who We Be](https://open.spotify.com/playlist/37i9dQZF1DXcDoDDetPsEg)
 
-> The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Fredo
+> The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Gunna
 
 1,616 songs - 3 day 9 hr 24 min
 

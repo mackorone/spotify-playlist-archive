@@ -2,7 +2,7 @@
 
 ### [Throwback Thursday \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWXF8Nf1uycDZ)
 
-> This week: business as usual\. Cover: Fifth Harmony
+> This week: y2k\. Cover: Sisqo
 
 259 songs - 17 hr 25 min
 

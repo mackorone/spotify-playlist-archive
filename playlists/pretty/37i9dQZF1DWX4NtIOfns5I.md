@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > where folk flowers bloom 🌼 cover: Jonah Kagen
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,970 likes - 139 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,023 likes - 139 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

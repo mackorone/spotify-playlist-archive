@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 
 > Get jiggy with 90s 'dhinchak' beats\. Cover \- Khal Nayak
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,907 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,388 likes - 50 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 | 36 | [Sochenge Tumhe Pyar](https://open.spotify.com/track/54tzSEMiygXoQ6yTqUUb8L) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Deewana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5rkxSyCuiDtaAGKVndX3hL) | 6:02 |
 | 37 | [Bhangda Paale](https://open.spotify.com/track/7nX9T2V8Asg69jDP4C7IU7) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Mohammed Aziz](https://open.spotify.com/artist/3vXBH4XwXSLM1YIrRBt98k), [Sudesh Bhosle](https://open.spotify.com/artist/7GNoTWm5VObvMUeS0Wkueu) | [Karan Arjun \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dxfrb1Bld76PrHGSG4pcy) | 7:05 |
 | 38 | [Dil Jigar Nazar Kya Hai](https://open.spotify.com/track/0kBR5ixa3ozflXDZYNPiKr) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Dil Ka Kya Kasoor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ONg9pcYSvmMb7U8TCbhFi) | 7:42 |
-| 39 | [Ooee Baba](https://open.spotify.com/track/1dK7uJG66w3oHztSu0ao2H) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Sapna Mukherjee](https://open.spotify.com/artist/2ME9akyjf2IaOM5DLTqHUS) | [Judaai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ttq5LojOO2nVKQiXVXCpY) | 5:49 |
+| 39 | [Ooee Baba](https://open.spotify.com/track/1dK7uJG66w3oHztSu0ao2H) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Sapna Mukherjee](https://open.spotify.com/artist/2ME9akyjf2IaOM5DLTqHUS) | [Judaai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ttq5LojOO2nVKQiXVXCpY) | 5:39 |
 | 40 | [O Lal Dupatte Wali](https://open.spotify.com/track/2w9GgxOBuUHJEnRuQBdpWA) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Sudesh Bhosle](https://open.spotify.com/artist/7GNoTWm5VObvMUeS0Wkueu), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Aankhen Hindi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3pE0owP0H7pkRKXr4SwMq0) | 5:50 |
 | 41 | [Jaanam Samjha Karo](https://open.spotify.com/track/6aYKTGJniM49WxOEBH7dfR) | [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Hema Sardesai](https://open.spotify.com/artist/7J1dPh3Yjs0aIhQHbBfNQP) | [Jaanam Samjha Karo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pIy39AoRZ1Wn5nSNCA23L) | 6:35 |
 | 42 | [Koi Jaye To Le Aaye](https://open.spotify.com/track/1hxSRnAm5CBVgZszGSAaff) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Ghatak \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cfQxxzUcdpBgbdspdvUe6) | 6:44 |

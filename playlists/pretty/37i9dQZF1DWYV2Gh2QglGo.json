@@ -1,13 +1,45 @@
 {
-  "description": "The home of Canadian country music. Cover: Cameron Whitcomb",
-  "num_followers": 82545,
+  "description": "The home of Canadian country music. Cover: Josh Ross",
+  "num_followers": 82561,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALFUnsAYTjprNUEQcbI6yqXeqKkE",
+  "snapshot_id": "AAAAAO5vUqS2fCqrPZ70Te25q3lfFBb8",
   "tracks": [
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Namin\u2019 Names",
+        "url": "https://open.spotify.com/album/5Kf8wyxTSEAbAmSBaQIcN6"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 163638,
+      "name": "Namin\u2019 Names",
+      "url": "https://open.spotify.com/track/4ORhANtnChWYXj1aXPhQEm"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Oh to Be Young",
+        "url": "https://open.spotify.com/album/1xWpOO7XFM0JblWC8RtsCP"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe"
+        }
+      ],
+      "duration_ms": 190208,
+      "name": "Oh to Be Young",
+      "url": "https://open.spotify.com/track/4W8uc8C5xJvSaP3uM1UYNT"
+    },
     {
       "added_at": "2025-09-05 00:01:32",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 162962,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/6guJdCiBdsLLo3fgAG8Utf"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "I Want You Back",
+        "url": "https://open.spotify.com/album/0LFgLg1muvHmltWfvUTob1"
+      },
+      "artists": [
+        {
+          "name": "Hunter Brothers",
+          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
+        }
+      ],
+      "duration_ms": 150726,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/3ln9qtsUKasUPxBhPg8Pam"
     },
     {
       "added_at": "2025-09-05 00:01:32",
@@ -41,6 +89,38 @@
       "url": "https://open.spotify.com/track/6qwHNwmb6m4jN136YfJmXF"
     },
     {
+      "added_at": "2025-08-01 04:01:28",
+      "album": {
+        "name": "I'm Leavin' You",
+        "url": "https://open.spotify.com/album/7lpDPjfOekEcPLJTBwxLKj"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "duration_ms": 152915,
+      "name": "I'm Leavin' You",
+      "url": "https://open.spotify.com/track/6PUQOqhQVjchu5iqsMTVEX"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "One Thing I Got Right",
+        "url": "https://open.spotify.com/album/4BJSz6KDVSDjYLQnX65t3e"
+      },
+      "artists": [
+        {
+          "name": "Dan Swinimer",
+          "url": "https://open.spotify.com/artist/22QKKYErEVOVHDcwCz72eo"
+        }
+      ],
+      "duration_ms": 190712,
+      "name": "One Thing I Got Right",
+      "url": "https://open.spotify.com/track/27ijvgLL2Ze7Ymuv94y49M"
+    },
+    {
       "added_at": "2025-09-05 00:01:32",
       "album": {
         "name": "Feel Free",
@@ -55,6 +135,90 @@
       "duration_ms": 180763,
       "name": "Feel Free",
       "url": "https://open.spotify.com/track/7vI8yJI3tfFe8HDaus3Icl"
+    },
+    {
+      "added_at": "2025-08-29 00:01:18",
+      "album": {
+        "name": "Andrew Hyatt And The Ten Year War",
+        "url": "https://open.spotify.com/album/00irVWgO6By7ZO6WYmGanw"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        }
+      ],
+      "duration_ms": 192627,
+      "name": "Sad Eyes",
+      "url": "https://open.spotify.com/track/1OyhUMuatGDltK7CeWbfzH"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "Woman In The Mirror",
+        "url": "https://open.spotify.com/album/0A3QpA8kHi8QrInv4RYEPu"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        },
+        {
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+        }
+      ],
+      "duration_ms": 185562,
+      "name": "Shooting Star (with Restless Road)",
+      "url": "https://open.spotify.com/track/1oHguc7We32lsbkTqHIbaI"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Good Thing Goin'",
+        "url": "https://open.spotify.com/album/6u2N6AhgP7rwAuTyuUGzXo"
+      },
+      "artists": [
+        {
+          "name": "Ty Wilson",
+          "url": "https://open.spotify.com/artist/4RkiQ55j8u1VDG5TH9cSl1"
+        }
+      ],
+      "duration_ms": 161486,
+      "name": "Good Thing Goin'",
+      "url": "https://open.spotify.com/track/1ieyxmrg8nfH4zm6f7Usl1"
+    },
+    {
+      "added_at": "2025-08-22 00:01:29",
+      "album": {
+        "name": "Good Run",
+        "url": "https://open.spotify.com/album/02qxb3gX5mrdM9nTptXqTB"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "duration_ms": 216477,
+      "name": "Good Run",
+      "url": "https://open.spotify.com/track/4iwY4G8PmGnqL228wcT1o2"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Oh, Canada",
+        "url": "https://open.spotify.com/album/1Vcwpq3JiRRR97DysYpOOs"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "duration_ms": 209695,
+      "name": "Oh, Canada",
+      "url": "https://open.spotify.com/track/3Zm9XXGfjVLi5uCk0Am5Ul"
     },
     {
       "added_at": "2025-09-05 00:01:32",
@@ -75,6 +239,102 @@
       "duration_ms": 152748,
       "name": "Day One (feat. Madeline Merlo)",
       "url": "https://open.spotify.com/track/1UykuOxBRThpGGvgtOlIAC"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "The Hunter",
+        "url": "https://open.spotify.com/album/1oL4MxV3uJOeDeMfIU1BMR"
+      },
+      "artists": [
+        {
+          "name": "Maddy McKenzie",
+          "url": "https://open.spotify.com/artist/4SuxLrKsNeWPZDQRvc1Ag2"
+        }
+      ],
+      "duration_ms": 162558,
+      "name": "The Hunter",
+      "url": "https://open.spotify.com/track/0tGcVh7zgWDDOwBaX1tqkr"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "One Two Step",
+        "url": "https://open.spotify.com/album/0bH5qOiCiKjr2ji01HW9Zz"
+      },
+      "artists": [
+        {
+          "name": "Chris Buck Band",
+          "url": "https://open.spotify.com/artist/0ns82mvA25By3a6t2S2Lxr"
+        }
+      ],
+      "duration_ms": 204364,
+      "name": "One Two Step",
+      "url": "https://open.spotify.com/track/26mL1lQ5FbOtgw4Y5gmB9P"
+    },
+    {
+      "added_at": "2025-09-05 00:01:32",
+      "album": {
+        "name": "Look At Me",
+        "url": "https://open.spotify.com/album/0JBbieCypYuDh8Mz7uVABG"
+      },
+      "artists": [
+        {
+          "name": "Chevy Beaulieu",
+          "url": "https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC"
+        }
+      ],
+      "duration_ms": 165681,
+      "name": "Look At Me",
+      "url": "https://open.spotify.com/track/2RWMwlqu6w92RmUVON25EZ"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Work In Progress",
+        "url": "https://open.spotify.com/album/02fqNrFnjzcIwNyRH7VNWy"
+      },
+      "artists": [
+        {
+          "name": "Drew Gregory",
+          "url": "https://open.spotify.com/artist/0OSi0y9gt5J9LCsudux8Kg"
+        }
+      ],
+      "duration_ms": 186724,
+      "name": "Work In Progress",
+      "url": "https://open.spotify.com/track/5iUqaLL5UIAXeiKmkNSdsW"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Back To You (Live)",
+        "url": "https://open.spotify.com/album/0Ft9L74S9uiJqhfcuvIMb7"
+      },
+      "artists": [
+        {
+          "name": "Mitch Zorn",
+          "url": "https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7"
+        }
+      ],
+      "duration_ms": 198494,
+      "name": "Back To You - Live",
+      "url": "https://open.spotify.com/track/3j8Ml7JkouGEtlxfRQP8kU"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Dan Dara\u00eeche",
+        "url": "https://open.spotify.com/album/3PdhGMEahw5t4PVcnevJVQ"
+      },
+      "artists": [
+        {
+          "name": "Dan Dara\u00eeche",
+          "url": "https://open.spotify.com/artist/3WStoaPPIQwKa2kYgZWniI"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/1CEJMHD6WuJMisHmFY2Ypv"
     },
     {
       "added_at": "2025-09-05 00:01:32",
@@ -141,6 +401,22 @@
       "url": "https://open.spotify.com/track/1q7nRL9I1IBNSISTb2XzBC"
     },
     {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Country Thing",
+        "url": "https://open.spotify.com/album/0SojraGm8ZWfu3Y0NIurHC"
+      },
+      "artists": [
+        {
+          "name": "Son of John",
+          "url": "https://open.spotify.com/artist/6Ig2z8IiCbjXla7YzmZM4u"
+        }
+      ],
+      "duration_ms": 239941,
+      "name": "Country Thing",
+      "url": "https://open.spotify.com/track/7lSeEV7DSG5OmwsaRIikW7"
+    },
+    {
       "added_at": "2025-09-05 00:01:32",
       "album": {
         "name": "Cross Your Mind",
@@ -155,6 +431,22 @@
       "duration_ms": 179438,
       "name": "Cross Your Mind",
       "url": "https://open.spotify.com/track/1TrQ7icC0ep5h1QqRx0nyh"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "County Line Five",
+        "url": "https://open.spotify.com/album/55N43YQf2aWivDZLES01pK"
+      },
+      "artists": [
+        {
+          "name": "Bradley Hale",
+          "url": "https://open.spotify.com/artist/1TPjClIZ0S2xtgSNfqV6gF"
+        }
+      ],
+      "duration_ms": 231162,
+      "name": "County Line Five",
+      "url": "https://open.spotify.com/track/7yHXIuyIbrcvFGylu1xaqH"
     },
     {
       "added_at": "2025-09-05 00:01:32",
@@ -191,22 +483,6 @@
     {
       "added_at": "2025-09-05 00:01:32",
       "album": {
-        "name": "Look At Me",
-        "url": "https://open.spotify.com/album/0JBbieCypYuDh8Mz7uVABG"
-      },
-      "artists": [
-        {
-          "name": "Chevy Beaulieu",
-          "url": "https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC"
-        }
-      ],
-      "duration_ms": 165681,
-      "name": "Look At Me",
-      "url": "https://open.spotify.com/track/2RWMwlqu6w92RmUVON25EZ"
-    },
-    {
-      "added_at": "2025-09-05 00:01:32",
-      "album": {
         "name": "Motel in Southern Idaho",
         "url": "https://open.spotify.com/album/3qS8qNR3tLKEeGdSc9hKs1"
       },
@@ -219,6 +495,22 @@
       "duration_ms": 194798,
       "name": "Motel in Southern Idaho",
       "url": "https://open.spotify.com/track/60twmcF1WOcbFhNf3gOpAO"
+    },
+    {
+      "added_at": "2025-08-15 11:27:18",
+      "album": {
+        "name": "He's Mine",
+        "url": "https://open.spotify.com/album/6G6GMdTiHbvd9AkemiYcod"
+      },
+      "artists": [
+        {
+          "name": "Sykamore",
+          "url": "https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI"
+        }
+      ],
+      "duration_ms": 228951,
+      "name": "He's Mine",
+      "url": "https://open.spotify.com/track/60LKaC9TqYaiIuTkxcaCMy"
     },
     {
       "added_at": "2025-09-05 00:01:32",
@@ -301,20 +593,20 @@
       "url": "https://open.spotify.com/track/06L3jDgNDAuyQfLYTNS0KO"
     },
     {
-      "added_at": "2025-08-01 04:01:28",
+      "added_at": "2025-08-22 00:01:29",
       "album": {
-        "name": "I'm Leavin' You",
-        "url": "https://open.spotify.com/album/7lpDPjfOekEcPLJTBwxLKj"
+        "name": "Bonfire On The Beach",
+        "url": "https://open.spotify.com/album/1YBZjZMyFMOgZHV1YQEryO"
       },
       "artists": [
         {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
         }
       ],
-      "duration_ms": 152915,
-      "name": "I'm Leavin' You",
-      "url": "https://open.spotify.com/track/6PUQOqhQVjchu5iqsMTVEX"
+      "duration_ms": 147133,
+      "name": "Bonfire On The Beach",
+      "url": "https://open.spotify.com/track/0gitJl2DwkWujNwIfXd2zp"
     },
     {
       "added_at": "2025-08-29 15:58:05",
@@ -333,22 +625,6 @@
       "url": "https://open.spotify.com/track/1n8f0lGx6z7YWTEM6sy3OM"
     },
     {
-      "added_at": "2025-08-29 00:01:18",
-      "album": {
-        "name": "Andrew Hyatt And The Ten Year War",
-        "url": "https://open.spotify.com/album/00irVWgO6By7ZO6WYmGanw"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hyatt",
-          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
-        }
-      ],
-      "duration_ms": 192627,
-      "name": "Sad Eyes",
-      "url": "https://open.spotify.com/track/1OyhUMuatGDltK7CeWbfzH"
-    },
-    {
       "added_at": "2025-08-22 00:01:29",
       "album": {
         "name": "My Side Of Town",
@@ -363,22 +639,6 @@
       "duration_ms": 162060,
       "name": "My Side Of Town",
       "url": "https://open.spotify.com/track/5u4otkyiGjEPj90cNtX8gd"
-    },
-    {
-      "added_at": "2025-08-22 00:01:29",
-      "album": {
-        "name": "Good Run",
-        "url": "https://open.spotify.com/album/02qxb3gX5mrdM9nTptXqTB"
-      },
-      "artists": [
-        {
-          "name": "Tyler Joe Miller",
-          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
-        }
-      ],
-      "duration_ms": 216477,
-      "name": "Good Run",
-      "url": "https://open.spotify.com/track/4iwY4G8PmGnqL228wcT1o2"
     },
     {
       "added_at": "2025-08-29 15:58:05",
@@ -411,6 +671,22 @@
       "duration_ms": 205484,
       "name": "Nostalgic for Nothing",
       "url": "https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd"
+    },
+    {
+      "added_at": "2025-08-08 04:01:29",
+      "album": {
+        "name": "Friend Of Mine",
+        "url": "https://open.spotify.com/album/2TuEk4nFPSNxcH8ReFTXoY"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "duration_ms": 190287,
+      "name": "Friend Of Mine",
+      "url": "https://open.spotify.com/track/3zCDsRF3PLJ0lMxZo3zsY0"
     },
     {
       "added_at": "2025-08-29 00:01:18",
@@ -459,22 +735,6 @@
       "duration_ms": 185404,
       "name": "DRIVIN' AWAY",
       "url": "https://open.spotify.com/track/5lqdSzz3ukOwgapei9AnO0"
-    },
-    {
-      "added_at": "2025-08-15 11:27:18",
-      "album": {
-        "name": "He's Mine",
-        "url": "https://open.spotify.com/album/6G6GMdTiHbvd9AkemiYcod"
-      },
-      "artists": [
-        {
-          "name": "Sykamore",
-          "url": "https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI"
-        }
-      ],
-      "duration_ms": 228951,
-      "name": "He's Mine",
-      "url": "https://open.spotify.com/track/60LKaC9TqYaiIuTkxcaCMy"
     },
     {
       "added_at": "2025-08-29 00:01:18",
@@ -539,22 +799,6 @@
       "duration_ms": 189711,
       "name": "I Know You're Gonna Leave",
       "url": "https://open.spotify.com/track/72atHIvoTlciOLigaSWvmV"
-    },
-    {
-      "added_at": "2025-08-22 00:01:29",
-      "album": {
-        "name": "Bonfire On The Beach",
-        "url": "https://open.spotify.com/album/1YBZjZMyFMOgZHV1YQEryO"
-      },
-      "artists": [
-        {
-          "name": "The Reklaws",
-          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
-        }
-      ],
-      "duration_ms": 147133,
-      "name": "Bonfire On The Beach",
-      "url": "https://open.spotify.com/track/0gitJl2DwkWujNwIfXd2zp"
     },
     {
       "added_at": "2025-08-29 00:01:18",
@@ -689,22 +933,6 @@
       "url": "https://open.spotify.com/track/5U2LhQl1JGIIsVJWBQwpPH"
     },
     {
-      "added_at": "2025-08-08 04:01:29",
-      "album": {
-        "name": "Friend Of Mine",
-        "url": "https://open.spotify.com/album/2TuEk4nFPSNxcH8ReFTXoY"
-      },
-      "artists": [
-        {
-          "name": "Dean Brody",
-          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
-        }
-      ],
-      "duration_ms": 190287,
-      "name": "Friend Of Mine",
-      "url": "https://open.spotify.com/track/3zCDsRF3PLJ0lMxZo3zsY0"
-    },
-    {
       "added_at": "2025-08-15 11:27:18",
       "album": {
         "name": "On And On",
@@ -833,6 +1061,26 @@
       "url": "https://open.spotify.com/track/0v8Xje4ZqPnYpECOzeMvjJ"
     },
     {
+      "added_at": "2025-07-18 04:01:06",
+      "album": {
+        "name": "How It Goes",
+        "url": "https://open.spotify.com/album/4ZxXqsKkEDy5KpneZskE77"
+      },
+      "artists": [
+        {
+          "name": "Vince Lemire",
+          "url": "https://open.spotify.com/artist/1YzPsCwc1svqXcN5P0n7XN"
+        },
+        {
+          "name": "Trudy",
+          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
+        }
+      ],
+      "duration_ms": 167182,
+      "name": "How It Goes",
+      "url": "https://open.spotify.com/track/13u8s9lWQSQfCXfmW5M4ix"
+    },
+    {
       "added_at": "2025-08-08 04:01:29",
       "album": {
         "name": "Are You With Me?",
@@ -847,26 +1095,6 @@
       "duration_ms": 183715,
       "name": "Are You With Me?",
       "url": "https://open.spotify.com/track/4cTqE0VtYMiBNqldx2R4e0"
-    },
-    {
-      "added_at": "2025-07-11 04:01:06",
-      "album": {
-        "name": "Woman In The Mirror",
-        "url": "https://open.spotify.com/album/0A3QpA8kHi8QrInv4RYEPu"
-      },
-      "artists": [
-        {
-          "name": "Sacha",
-          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
-        },
-        {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
-        }
-      ],
-      "duration_ms": 185562,
-      "name": "Shooting Star (with Restless Road)",
-      "url": "https://open.spotify.com/track/1oHguc7We32lsbkTqHIbaI"
     },
     {
       "added_at": "2025-08-08 04:01:29",
@@ -1193,6 +1421,22 @@
       "url": "https://open.spotify.com/track/4F6po6MQ6FqFAOAXwCOw8Q"
     },
     {
+      "added_at": "2025-07-04 04:00:20",
+      "album": {
+        "name": "Worth The Double",
+        "url": "https://open.spotify.com/album/5K1tVgF54JxYcCx4ZMII1d"
+      },
+      "artists": [
+        {
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        }
+      ],
+      "duration_ms": 171657,
+      "name": "Worth The Double",
+      "url": "https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy"
+    },
+    {
       "added_at": "2025-07-18 04:01:06",
       "album": {
         "name": "Heaven Right Now",
@@ -1207,6 +1451,22 @@
       "duration_ms": 227247,
       "name": "Heaven Right Now",
       "url": "https://open.spotify.com/track/2oe0nsIEr0UgV3L6SbZr5r"
+    },
+    {
+      "added_at": "2025-07-04 04:00:20",
+      "album": {
+        "name": "I Ain't Country",
+        "url": "https://open.spotify.com/album/0nxNOATwqWpPcjR5EizThO"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "duration_ms": 163895,
+      "name": "I Ain't Country",
+      "url": "https://open.spotify.com/track/10zzzR1ccEHtdmimfgLUf5"
     },
     {
       "added_at": "2025-07-11 04:01:06",
@@ -1255,22 +1515,6 @@
       "duration_ms": 168194,
       "name": "Best Boat",
       "url": "https://open.spotify.com/track/0OlVvaNPwRQnRzPXl5PUBC"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Carl Dean",
-        "url": "https://open.spotify.com/album/6mkTIWSOpkT4JMt1ymi8eQ"
-      },
-      "artists": [
-        {
-          "name": "Hailey Benedict",
-          "url": "https://open.spotify.com/artist/494qaFjOqqQ2NOQfCHSYce"
-        }
-      ],
-      "duration_ms": 215222,
-      "name": "Carl Dean",
-      "url": "https://open.spotify.com/track/3efLofADfuZadHHNi1X0F3"
     },
     {
       "added_at": "2025-07-18 04:01:06",
@@ -1351,26 +1595,6 @@
       "duration_ms": 153543,
       "name": "Wish I Was",
       "url": "https://open.spotify.com/track/49NbdrkcFCdERnptZ1M17c"
-    },
-    {
-      "added_at": "2025-07-18 04:01:06",
-      "album": {
-        "name": "How It Goes",
-        "url": "https://open.spotify.com/album/4ZxXqsKkEDy5KpneZskE77"
-      },
-      "artists": [
-        {
-          "name": "Vince Lemire",
-          "url": "https://open.spotify.com/artist/1YzPsCwc1svqXcN5P0n7XN"
-        },
-        {
-          "name": "Trudy",
-          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
-        }
-      ],
-      "duration_ms": 167182,
-      "name": "How It Goes",
-      "url": "https://open.spotify.com/track/13u8s9lWQSQfCXfmW5M4ix"
     },
     {
       "added_at": "2025-07-11 04:01:06",
@@ -1483,38 +1707,6 @@
       "duration_ms": 182918,
       "name": "Tequila Gold",
       "url": "https://open.spotify.com/track/1pcTINzxpKJ2Fu64MWfLyS"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Worth The Double",
-        "url": "https://open.spotify.com/album/5K1tVgF54JxYcCx4ZMII1d"
-      },
-      "artists": [
-        {
-          "name": "Jade Eagleson",
-          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
-        }
-      ],
-      "duration_ms": 171657,
-      "name": "Worth The Double",
-      "url": "https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "I Ain't Country",
-        "url": "https://open.spotify.com/album/0nxNOATwqWpPcjR5EizThO"
-      },
-      "artists": [
-        {
-          "name": "Jess Moskaluke",
-          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
-        }
-      ],
-      "duration_ms": 163895,
-      "name": "I Ain't Country",
-      "url": "https://open.spotify.com/track/10zzzR1ccEHtdmimfgLUf5"
     }
   ],
   "unique_name": "North Country",

@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Wikus Botma
+> Net die beste Afrikaanse musiek! Omslag: Dassie
 
 326 songs - 18 hr 0 min
 

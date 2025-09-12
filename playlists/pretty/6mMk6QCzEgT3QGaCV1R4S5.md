@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 
 > Get moving on the dancefloor with some big room beats! Cover: Calvin Harris &amp; Jessie Reyez
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,957 likes - 101 songs - 5 hr 30 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,956 likes - 101 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 | 56 | [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6oWmcKVK6atTCoWVYTdSg1) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5bDpP9ALCp0z2r0pPmIcbm) | 2:51 |
 | 57 | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/track/5w3RgZoLVUp2jKONPZ2JVe) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/album/4ldeQvtnsa2PrA1ergNyMS) | 2:13 |
 | 58 | [Rhythm Of The Night \(feat\. Jules Buckley & The Essential Orchestra\)](https://open.spotify.com/track/4b7AfWzcpJW6RhW87MFMU3) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX), [The Essential Orchestra](https://open.spotify.com/artist/1CxAkCm3hQLlxPWeVKHPSX) | [Rhythm Of The Night \(feat\. Jules Buckley & The Essential Orchestra\)](https://open.spotify.com/album/13OQnOx7nvkmrsRKwzhD6g) | 2:55 |
-| 59 | [Exotica](https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Exotica](https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD) | 2:01 |
+| 59 | [Exotica \(feat\. Greg Taro\)](https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Greg Taro](https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U) | [Exotica \(feat\. Greg Taro\)](https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD) | 2:01 |
 | 60 | [WHISTLE](https://open.spotify.com/track/2g0lcbepYzcfts6khNOUpL) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl) | [WHISTLE](https://open.spotify.com/album/76oXPkkbhtHmG0UkuZZqDW) | 2:11 |
 | 61 | [All My Life](https://open.spotify.com/track/6NOlVkuAFtqTiBInHuqlrs) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Paradise](https://open.spotify.com/album/1jWcipGHDLJ94RMB2XUhgK) | 3:22 |
 | 62 | [You](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [You](https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4) | 2:53 |

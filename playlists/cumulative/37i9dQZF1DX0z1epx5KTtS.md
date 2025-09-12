@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from the continent to Paris\. Photo : Josey
+> African dance party music from the continent to Paris\. Photo : Team Paiya
 
-250 songs - 13 hr 48 min
+251 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Elle Est D'Où](https://open.spotify.com/track/6o9FOz7FO3EMvzjUaiKxA8) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Stamina](https://open.spotify.com/album/0Ka05Dg15vP2Sc4VbRstVo) | 2:43 | 2023-11-09 | 2024-04-12 |
 | [En fantoya](https://open.spotify.com/track/19ZRXd0zqVCfXi92FeTcsL) | [Dj Arobase](https://open.spotify.com/artist/6EsNLPqHp3fchqRJAxFe3W), [Joochar](https://open.spotify.com/artist/56I3J6X4mUPrF7bOrLoLSP) | [En fantoya](https://open.spotify.com/album/31coKTSViPIJ9EjHlAMpl7) | 2:52 | 2023-06-15 | 2023-07-14 |
 | [En Kabato](https://open.spotify.com/track/4xE4sAEZSVa9yfT1cszxQ1) | [Black K](https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq), [La Team de Poy](https://open.spotify.com/artist/1YdkFYfSU2CMKyTxmS9cDd), [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ) | [En Kabato](https://open.spotify.com/album/1MWOC8Oh4iqVv7oOhR7I8N) | 2:48 | 2024-01-11 | 2025-04-18 |
-| [EN KINMIN RELOADED \- New Version](https://open.spotify.com/track/3beJrR1QYMxbKx1GK8FKVq) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Grand Homme](https://open.spotify.com/artist/2F3A4fm1tsB1kBe6idGcO9) | [EN KINMIN RELOADED \(New Version\)](https://open.spotify.com/album/08dv4vJl0yQlNL6BmMc8in) | 2:25 | 2025-03-06 |  |
+| [EN KINMIN RELOADED \- New Version](https://open.spotify.com/track/3beJrR1QYMxbKx1GK8FKVq) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Grand Homme](https://open.spotify.com/artist/2F3A4fm1tsB1kBe6idGcO9) | [EN KINMIN RELOADED \(New Version\)](https://open.spotify.com/album/08dv4vJl0yQlNL6BmMc8in) | 2:25 | 2025-03-06 | 2025-09-12 |
 | [Enfant de Dieu](https://open.spotify.com/track/6vuHEKtooN9wuoGMMt3NcY) | [Ks Bloom](https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp) | [Allumez la lumière](https://open.spotify.com/album/67M8L0PH2ijmmshYMgdaui) | 3:23 | 2021-12-20 | 2023-01-13 |
 | [Enfants préférés](https://open.spotify.com/track/2oXPRdfajXsuvSNzQQLxQJ) | [Force One](https://open.spotify.com/artist/4quqBaZRHb1VeG3dAPucPS), [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt) | [Enfants préférés](https://open.spotify.com/album/2n3a5j2w1qlsQ4NEsN0PJu) | 3:25 | 2021-12-20 | 2022-05-27 |
 | [Enjaillement](https://open.spotify.com/track/1wmrKgGI7jHvsNUqJqMsQF) | [Ramses Tikaya](https://open.spotify.com/artist/0q00AIYSAbXj18rBqWCYT1), [Mix Premier](https://open.spotify.com/artist/7E4tPSohzAp4dXEnNuab75) | [Enjaillement](https://open.spotify.com/album/3kX7u6RihaZK11a5plv3LO) | 3:30 | 2022-09-29 | 2022-10-28 |
@@ -242,6 +242,7 @@
 | [Tu as créé quoi encore !](https://open.spotify.com/track/70p1D6Rf95l5oPb9oYdXRA) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [Tu as créé quoi encore !](https://open.spotify.com/album/5fJdI5nd8LCFiDD3J0Z4vL) | 2:54 | 2025-06-12 |  |
 | [Tu peux lover](https://open.spotify.com/track/7tcJT6VP0YpmNeWfk7pig6) | [Dj Mulukuku](https://open.spotify.com/artist/6DpPYplFUGHXaSbPsQaeMn) | [Tu peux lover](https://open.spotify.com/album/5QJJYo2YbdKDG1dDeHIJTz) | 3:32 | 2022-06-02 | 2022-09-16 |
 | [Tu Te Maries Quand? \(Part\. I\)](https://open.spotify.com/track/2sPOOhcWLuLFpERiIkJqLw) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg) | [Tu Te Maries Quand?](https://open.spotify.com/album/2tAkEGDMzJygFFyfYIXVGD) | 2:43 | 2024-07-18 | 2024-08-30 |
+| [Tui Tui](https://open.spotify.com/track/3iH43p8bTxZCYReFtkj4Lp) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Grand Homme](https://open.spotify.com/artist/2F3A4fm1tsB1kBe6idGcO9), [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [Tui Tui](https://open.spotify.com/album/0oFUxlJkZJVhED9kdQw5hv) | 2:45 | 2025-09-11 |  |
 | [Ventripotent](https://open.spotify.com/track/5zbEHbA8QzH4R3aHfOuEqm) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Renaissance](https://open.spotify.com/album/6c0kX3fNWwvnWCttIpJsg8) | 3:16 | 2021-12-20 | 2022-02-19 |
 | [WA WA DÉ DÉ](https://open.spotify.com/track/0UvThmUxfn5IRVbChCs11I) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [WA WA DÉ DÉ](https://open.spotify.com/album/04sYiTnXJ6ZFyTFWNYMJ0e) | 2:44 | 2024-06-06 | 2025-03-07 |
 | [Watterman](https://open.spotify.com/track/2WwolPx58TEp6qKRnwiuaM) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1), [David Eto'o](https://open.spotify.com/artist/6FTQrbUiUqltYJVuBne3a6) | [Watterman](https://open.spotify.com/album/19D7JqNkNDqahu9IketHmC) | 3:39 | 2022-05-05 | 2022-09-02 |

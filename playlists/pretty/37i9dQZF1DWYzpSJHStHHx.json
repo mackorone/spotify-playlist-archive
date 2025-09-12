@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 487661,
+  "num_followers": 487658,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/4oiZ494M5fJgMhdqew0n8p"
     },
     {
-      "added_at": "2025-03-27 13:00:14",
-      "album": {
-        "name": "Bouquet",
-        "url": "https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew"
-      },
-      "artists": [
-        {
-          "name": "Offthewally",
-          "url": "https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD"
-        }
-      ],
-      "duration_ms": 171884,
-      "name": "Riding the Wind",
-      "url": "https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Santino Surfers",
@@ -471,6 +455,22 @@
       "duration_ms": 377556,
       "name": "Sun Rise Swell",
       "url": "https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA"
+    },
+    {
+      "added_at": "2025-03-27 13:00:14",
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew"
+      },
+      "artists": [
+        {
+          "name": "Offthewally",
+          "url": "https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD"
+        }
+      ],
+      "duration_ms": 171884,
+      "name": "Riding the Wind",
+      "url": "https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V"
     },
     {
-      "added_at": "2025-05-22 14:00:15",
-      "album": {
-        "name": "The Beach",
-        "url": "https://open.spotify.com/album/6G5mImkruaSprUxjInD0jY"
-      },
-      "artists": [
-        {
-          "name": "Warbaby",
-          "url": "https://open.spotify.com/artist/5l7abo4Er8M2z34HTCczEK"
-        }
-      ],
-      "duration_ms": 195766,
-      "name": "The Beach",
-      "url": "https://open.spotify.com/track/46EDkHBHvcrbvb6sCjGCwF"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Existential Playboy",
@@ -569,22 +553,6 @@
       "url": "https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY"
     },
     {
-      "added_at": "2025-03-27 13:00:14",
-      "album": {
-        "name": "Right or Wrong",
-        "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 207665,
-      "name": "Right or Wrong",
-      "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Ooooo",
@@ -601,6 +569,22 @@
       "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
     },
     {
+      "added_at": "2025-05-22 14:00:15",
+      "album": {
+        "name": "The Beach",
+        "url": "https://open.spotify.com/album/6G5mImkruaSprUxjInD0jY"
+      },
+      "artists": [
+        {
+          "name": "Warbaby",
+          "url": "https://open.spotify.com/artist/5l7abo4Er8M2z34HTCczEK"
+        }
+      ],
+      "duration_ms": 195766,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/46EDkHBHvcrbvb6sCjGCwF"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Things Left to Do",
@@ -615,6 +599,22 @@
       "duration_ms": 220373,
       "name": "Yes",
       "url": "https://open.spotify.com/track/1s0EhxGMlnR0E47dRmwFZe"
+    },
+    {
+      "added_at": "2025-03-27 13:00:14",
+      "album": {
+        "name": "Right or Wrong",
+        "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 207665,
+      "name": "Right or Wrong",
+      "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Recycle",
+        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
+      },
+      "artists": [
+        {
+          "name": "loren north",
+          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
+        }
+      ],
+      "duration_ms": 204342,
+      "name": "Recycle",
+      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Mushroom",
         "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Recycle",
-        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
+        "name": "Bangkok",
+        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
       },
       "artists": [
         {
-          "name": "loren north",
-          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
+          "name": "Alaaska",
+          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
         }
       ],
-      "duration_ms": 204342,
-      "name": "Recycle",
-      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
+      "duration_ms": 212173,
+      "name": "Bangkok",
+      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -731,22 +747,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Bangkok",
-        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
-      },
-      "artists": [
-        {
-          "name": "Alaaska",
-          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
-        }
-      ],
-      "duration_ms": 212173,
-      "name": "Bangkok",
-      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Small Fry",
         "url": "https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 206260,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA"
-    },
-    {
-      "added_at": "2025-03-27 13:00:14",
-      "album": {
-        "name": "Sunday Scaries",
-        "url": "https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY"
-      },
-      "artists": [
-        {
-          "name": "LAZY GHOST",
-          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
-        }
-      ],
-      "duration_ms": 172228,
-      "name": "Sunday Scaries",
-      "url": "https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -791,6 +775,22 @@
       "duration_ms": 174000,
       "name": "I AM NOT SO TALL",
       "url": "https://open.spotify.com/track/6i2pZl5STYPFqQSigNa8Tt"
+    },
+    {
+      "added_at": "2025-03-27 13:00:14",
+      "album": {
+        "name": "Sunday Scaries",
+        "url": "https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY"
+      },
+      "artists": [
+        {
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+        }
+      ],
+      "duration_ms": 172228,
+      "name": "Sunday Scaries",
+      "url": "https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz"
     },
     {
       "added_at": "2025-05-22 14:00:15",
@@ -891,6 +891,30 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "\"For Some Other Reason\" b/w \"Fair Warning\" and \"What Would You Say?\"",
+        "url": "https://open.spotify.com/album/2gjY76SBe8JhzNisgdB4uk"
+      },
+      "artists": [
+        {
+          "name": "Mac Krol",
+          "url": "https://open.spotify.com/artist/17G6PVRcbdHfWBhPRijvSs"
+        },
+        {
+          "name": "Mike Krol",
+          "url": "https://open.spotify.com/artist/2c34ZzVmfwzsNHc05x3uzR"
+        },
+        {
+          "name": "Mac McCaughan",
+          "url": "https://open.spotify.com/artist/3pLUCmcxLXGeLoYI5rw3O4"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Fair Warning",
+      "url": "https://open.spotify.com/track/4oLZSZ3FTrml6ma6sOOMbp"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Cigarettes In Space",
         "url": "https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu"
       },
@@ -921,46 +945,6 @@
       "url": "https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "\"For Some Other Reason\" b/w \"Fair Warning\" and \"What Would You Say?\"",
-        "url": "https://open.spotify.com/album/2gjY76SBe8JhzNisgdB4uk"
-      },
-      "artists": [
-        {
-          "name": "Mac Krol",
-          "url": "https://open.spotify.com/artist/17G6PVRcbdHfWBhPRijvSs"
-        },
-        {
-          "name": "Mike Krol",
-          "url": "https://open.spotify.com/artist/2c34ZzVmfwzsNHc05x3uzR"
-        },
-        {
-          "name": "Mac McCaughan",
-          "url": "https://open.spotify.com/artist/3pLUCmcxLXGeLoYI5rw3O4"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Fair Warning",
-      "url": "https://open.spotify.com/track/4oLZSZ3FTrml6ma6sOOMbp"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Bees",
-        "url": "https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc"
-      },
-      "artists": [
-        {
-          "name": "Wholesome",
-          "url": "https://open.spotify.com/artist/2PLqBXGI8EeWZx2asQJIvl"
-        }
-      ],
-      "duration_ms": 213253,
-      "name": "Bees",
-      "url": "https://open.spotify.com/track/0KyMzgnV6wtuiSXNrSwbmF"
-    },
-    {
       "added_at": "2025-03-27 13:00:14",
       "album": {
         "name": "In Colour",
@@ -979,6 +963,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Bees",
+        "url": "https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc"
+      },
+      "artists": [
+        {
+          "name": "Wholesome",
+          "url": "https://open.spotify.com/artist/2PLqBXGI8EeWZx2asQJIvl"
+        }
+      ],
+      "duration_ms": 213253,
+      "name": "Bees",
+      "url": "https://open.spotify.com/track/0KyMzgnV6wtuiSXNrSwbmF"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Ceviche",
         "url": "https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i"
       },
@@ -991,6 +991,38 @@
       "duration_ms": 245853,
       "name": "Ceviche",
       "url": "https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Can You See The Sunshine? (EP)",
+        "url": "https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC"
+      },
+      "artists": [
+        {
+          "name": "Gerf",
+          "url": "https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB"
+        }
+      ],
+      "duration_ms": 205376,
+      "name": "Couch Sex",
+      "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Heat Stroke",
+        "url": "https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR"
+      },
+      "artists": [
+        {
+          "name": "Heat Wave",
+          "url": "https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s"
+        }
+      ],
+      "duration_ms": 207247,
+      "name": "Heat Stroke",
+      "url": "https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1023,38 +1055,6 @@
       "duration_ms": 182186,
       "name": "Stargazer",
       "url": "https://open.spotify.com/track/3NguJRn6XA8XHaBkIy5VB1"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Heat Stroke",
-        "url": "https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR"
-      },
-      "artists": [
-        {
-          "name": "Heat Wave",
-          "url": "https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s"
-        }
-      ],
-      "duration_ms": 207247,
-      "name": "Heat Stroke",
-      "url": "https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Can You See The Sunshine? (EP)",
-        "url": "https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC"
-      },
-      "artists": [
-        {
-          "name": "Gerf",
-          "url": "https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB"
-        }
-      ],
-      "duration_ms": 205376,
-      "name": "Couch Sex",
-      "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Malibu Sunset b/w Hang On",
-        "url": "https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol"
-      },
-      "artists": [
-        {
-          "name": "The Travelers",
-          "url": "https://open.spotify.com/artist/6vayW66astvaRgv4llGBff"
-        }
-      ],
-      "duration_ms": 128194,
-      "name": "Malibu Sunset",
-      "url": "https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Tommy Bahama",
         "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 229963,
       "name": "Tommy Bahama",
       "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Malibu Sunset b/w Hang On",
+        "url": "https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol"
+      },
+      "artists": [
+        {
+          "name": "The Travelers",
+          "url": "https://open.spotify.com/artist/6vayW66astvaRgv4llGBff"
+        }
+      ],
+      "duration_ms": 128194,
+      "name": "Malibu Sunset",
+      "url": "https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/32hMObO47FeOlNPfn58XiZ"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Mammoth Surf",
-        "url": "https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu"
-      },
-      "artists": [
-        {
-          "name": "Eric Tessmer",
-          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
-        }
-      ],
-      "duration_ms": 120476,
-      "name": "Mammoth Surf",
-      "url": "https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo"
-    },
-    {
       "added_at": "2025-02-07 17:00:04",
       "album": {
         "name": "Cold Summers EP",
@@ -1203,6 +1187,22 @@
       "duration_ms": 174080,
       "name": "Cold Summers",
       "url": "https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Mammoth Surf",
+        "url": "https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu"
+      },
+      "artists": [
+        {
+          "name": "Eric Tessmer",
+          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
+        }
+      ],
+      "duration_ms": 120476,
+      "name": "Mammoth Surf",
+      "url": "https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo"
     },
     {
       "added_at": "2024-10-11 04:00:00",

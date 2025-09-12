@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : James Baker",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : miki",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -510,7 +510,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 209266,
       "name": "Banquise",
       "url": "https://open.spotify.com/track/2xKdaB6C978wvUyHk8AO3M"
@@ -1137,6 +1137,24 @@
     },
     {
       "album": {
+        "name": "COMMENT TU T'APPELLES ?",
+        "url": "https://open.spotify.com/album/6sT5T9gtQCE2Xo88GO9NoV"
+      },
+      "artists": [
+        {
+          "name": "KLON",
+          "url": "https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "COMMENT TU T'APPELLES ?",
+      "url": "https://open.spotify.com/track/3iVHpYIzAVAwwOkkjIqX9P"
+    },
+    {
+      "album": {
         "name": "Conspire",
         "url": "https://open.spotify.com/album/3kuN93pe0gnDpztgTlIvX1"
       },
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 152893,
       "name": "Des b\u00eatises (part I)",
       "url": "https://open.spotify.com/track/6cHBn7KJ1zLYZuEznzeb77"
@@ -2006,7 +2024,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 179030,
       "name": "Harmonium Blue",
       "url": "https://open.spotify.com/track/15jAQDymeWRbuzS9Y33tVV"
@@ -2760,7 +2778,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 222776,
       "name": "L'hiver sur tes l\u00e8vres",
       "url": "https://open.spotify.com/track/7JO6qzrdKcydC5rPHhbeXH"
@@ -2782,6 +2800,24 @@
       "duration_ms": 141985,
       "name": "L'Usine",
       "url": "https://open.spotify.com/track/6gPrgMobziEaMU1E8w8K5T"
+    },
+    {
+      "album": {
+        "name": "LA FAUTE \u00c0 QUI!",
+        "url": "https://open.spotify.com/album/4j3fW30IbogXwFR07Pfu1K"
+      },
+      "artists": [
+        {
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "LA FAUTE \u00c0 QUI!",
+      "url": "https://open.spotify.com/track/4HcYYdx6dZSKkO0odLovJR"
     },
     {
       "album": {
@@ -4109,6 +4145,24 @@
     },
     {
       "album": {
+        "name": "PIERROT LE FOU",
+        "url": "https://open.spotify.com/album/1gUOdwnfqdL8f97BS0j5kY"
+      },
+      "artists": [
+        {
+          "name": "Marguerite Thiam",
+          "url": "https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169506,
+      "name": "PIERROT LE FOU",
+      "url": "https://open.spotify.com/track/7AkXjA1YDOG4YwXoJ4ZuXh"
+    },
+    {
+      "album": {
         "name": "Changement de programme",
         "url": "https://open.spotify.com/album/5KqWkiMSoLMDlYwC1V50Il"
       },
@@ -4156,7 +4210,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 229222,
       "name": "Playlist",
       "url": "https://open.spotify.com/track/1kgcQuaNQyWI0aGYtXLRAw"
@@ -4503,6 +4557,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Flora Fishbach",
+          "url": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246746,
+      "name": "Rends-moi ma vie",
+      "url": "https://open.spotify.com/track/4Y0pXVg7ayEhsE450GnPi2"
+    },
+    {
+      "album": {
         "name": "Requin",
         "url": "https://open.spotify.com/album/77n7xkH2PA1sHHbR2bnm8N"
       },
@@ -4536,6 +4608,24 @@
       "duration_ms": 158026,
       "name": "Requin",
       "url": "https://open.spotify.com/track/3ucY4VVFz8fmM1RyfxOlD1"
+    },
+    {
+      "album": {
+        "name": "REST IN PEACE",
+        "url": "https://open.spotify.com/album/34Rkbf3hbXACbxOgn4mYwk"
+      },
+      "artists": [
+        {
+          "name": "Simia",
+          "url": "https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219010,
+      "name": "REST IN PEACE",
+      "url": "https://open.spotify.com/track/1NOfNX66HxL1gfnxsZ2ZQ8"
     },
     {
       "album": {
@@ -4656,6 +4746,24 @@
       "duration_ms": 224687,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/4bVxD1TfLNNlbridccs1cq"
+    },
+    {
+      "album": {
+        "name": "roger rabbit",
+        "url": "https://open.spotify.com/album/7prizHwvKXEPZAcbd8xQLp"
+      },
+      "artists": [
+        {
+          "name": "miki",
+          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275733,
+      "name": "roger rabbit",
+      "url": "https://open.spotify.com/track/4LXIfg4jZNs7SSWh8e5pUq"
     },
     {
       "album": {
@@ -5760,7 +5868,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 177454,
       "name": "Vieille meuf",
       "url": "https://open.spotify.com/track/6s1IyWxMYJ1QDKX4xNmlGw"

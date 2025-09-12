@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: no na
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Ardhito Pramono
 
-461 songs - 1 day 2 hr 51 min
+466 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Drunk & Hazy](https://open.spotify.com/track/4OpkUZHdW9G5wNmeuRLo9Q) | [Anggun Dae](https://open.spotify.com/artist/59VJhih06fQKi3Sw7ukh9J) | [Drunk & Hazy](https://open.spotify.com/album/6sA6ERqMJCT3ihYwpVHo8S) | 3:22 | 2025-04-17 | 2025-05-30 |
 | [Dry](https://open.spotify.com/track/4vayL0oPgB79sPQAAkZDX6) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn), [Rekti Yoewono](https://open.spotify.com/artist/5wg7167xaH0ILxlcDymFlM) | [Dry](https://open.spotify.com/album/2YFv8DqUWhTASzYvwoPNWa) | 4:14 | 2025-01-23 |  |
 | [Earth](https://open.spotify.com/track/5TJaOJzAaDaVIiRJerkNhu) | [Rahma Savitri](https://open.spotify.com/artist/5qu3vm5pK4C2UblwOEsP4V) | [Souliberation](https://open.spotify.com/album/135FmGg8eHaj8DBl5DHWjc) | 4:13 | 2025-08-08 |  |
+| [Elevator Music](https://open.spotify.com/track/3JPlpg1N3G4wv5QrTOSjvR) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Elevator Music](https://open.spotify.com/album/5AjKa0nb3p4CSPOpICdWNu) | 2:52 | 2025-09-11 |  |
 | [Essence](https://open.spotify.com/track/43P2BUpH7mWjOx9nLZpC8C) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Emma Volard](https://open.spotify.com/artist/2dNnJIEECfh07bv1jwmfTL) | [Snakes & Ladders](https://open.spotify.com/album/3YZtiYIwDMveS0c7M4zWSO) | 4:18 | 2025-06-12 | 2025-08-08 |
 | [Eternal Love](https://open.spotify.com/track/6UESEkXgx3LpLIReIlnfNR) | [Glovy Benedicta](https://open.spotify.com/artist/1JXbD4APeV8vcCUYCrihzy) | [Eternal Love](https://open.spotify.com/album/56S4Ilt8gOTnUsivexBpVT) | 2:09 | 2025-06-26 | 2025-08-29 |
 | [Ethereal](https://open.spotify.com/track/2hlCRcQZfpHQ6FkngkAg78) | [Low Pink](https://open.spotify.com/artist/1AyxemOyWnS1s8siDQG6EH) | [Manic](https://open.spotify.com/album/4IOflu03FoysawHvpmBZSr) | 4:12 | 2024-08-09 | 2024-09-27 |
@@ -162,6 +163,7 @@
 | [Give Me a Reason to Stay](https://open.spotify.com/track/7uEsXzSqN7GJCSgw3zGguX) | [Lor](https://open.spotify.com/artist/0IMWbeAo0Sc9kkhNECqFIX) | [Give Me a Reason to Stay](https://open.spotify.com/album/2YtnecByrTLnJtk88Hn42D) | 3:26 | 2025-06-19 | 2025-07-18 |
 | [Give Me Loving](https://open.spotify.com/track/7Dfc3RHXzYeUlJaXqRyG0j) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Give Me Loving](https://open.spotify.com/album/4n6iTjYCSwT61NrbcnfjyB) | 3:30 | 2025-02-13 | 2025-04-25 |
 | [Give You All](https://open.spotify.com/track/3HOdjNK4buCsboOYKEWzjy) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3) | [Give You All](https://open.spotify.com/album/51t5UHMtDLOVZavCGJnloA) | 3:51 | 2025-05-15 | 2025-07-04 |
+| [Givemeall](https://open.spotify.com/track/2ILd3ZZM7yC8aPyZ2PUTK0) | [Guernica Club](https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn) | [Givemeall](https://open.spotify.com/album/38Zs67jtlLmGKtaRqD14mT) | 5:54 | 2025-09-11 |  |
 | [Going Up](https://open.spotify.com/track/41vUwaUD16ClRyqIQmClRT) | [Rhea Asmara](https://open.spotify.com/artist/1AWmwnZnIWWvGynh2DeUEo) | [Going Up](https://open.spotify.com/album/5WoZedpwDHzf7auzddAjLN) | 2:58 | 2024-10-03 | 2024-11-16 |
 | [Gone, Gone Again](https://open.spotify.com/track/3lLQXvcJwJezHqcnSSXvOk) | [Michael Rickard](https://open.spotify.com/artist/45Ci3JIPLftPkHA30hEH1b) | [Gone, Gone Again](https://open.spotify.com/album/6CuBCqYED6RUZdn3niCeeU) | 3:25 | 2025-05-15 | 2025-06-13 |
 | [Gonna Do](https://open.spotify.com/track/6LTzi5ctshERmUVNlGcYzN) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Gonna Do](https://open.spotify.com/album/3NaYjd3RaP0gTlM49zcpVU) | 2:33 | 2025-03-21 | 2025-05-09 |
@@ -193,6 +195,7 @@
 | [hummingbird](https://open.spotify.com/track/31xqomlJ4stcUu7qNh2T6Q) | [Syifa Aulia](https://open.spotify.com/artist/4tk8VSSlczStF09XO55bi4) | [hummingbird](https://open.spotify.com/album/17l0GOj1WbHijklNtyQLRY) | 3:10 | 2024-06-27 | 2024-07-27 |
 | [Hush](https://open.spotify.com/track/4L6CcNShN9p1sYbXob1yYn) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA) | [Hush](https://open.spotify.com/album/54Fd94bm66PcrqaqUBnZOk) | 2:43 | 2024-06-27 | 2024-10-11 |
 | [hush](https://open.spotify.com/track/6Dv7W37km5fOeuHdAUdJJD) | [gabsav](https://open.spotify.com/artist/2vBkfyTQ8dShwOjhTnVfgZ) | [hush](https://open.spotify.com/album/25udfmqeT2f2ZrTSt2H9Sa) | 4:34 | 2025-05-15 | 2025-07-11 |
+| [I Am Rich](https://open.spotify.com/track/7bLONeoEMtaxkv11pCyb3Q) | [AVIWKILA](https://open.spotify.com/artist/5wZoqr9DBLE7BYXUC1PhSs) | [I Am Rich](https://open.spotify.com/album/5Q3eNfsSft0MuVzzztsLGO) | 2:40 | 2025-09-12 |  |
 | [I Can't Be Mad At You](https://open.spotify.com/track/5ztr9sYuVpYiTseGJmbVyv) | [Tarrarin](https://open.spotify.com/artist/0KKh5D2k0gvbsSKwDiR00f), [Kafin Sulthan](https://open.spotify.com/artist/59etqRZfBHKypG44RjjDCq) | [I Can't Be Mad At You](https://open.spotify.com/album/2KfvtIrGVDouoHHv1skgyQ) | 4:06 | 2024-07-25 | 2024-10-11 |
 | [I Don't Know](https://open.spotify.com/track/0Lsj4cCPCc1IvoS7mderH9) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [I Don't Know](https://open.spotify.com/album/6aX1uKqIchfKONT5UAVGtK) | 2:49 | 2025-01-30 |  |
 | [i don't want forever without you](https://open.spotify.com/track/0pHFtqtRTZ5M5oq7FUdiHU) | [VIONA](https://open.spotify.com/artist/6Ng5PoEhU9eoRDsu6f3pUa) | [i don't want forever without you](https://open.spotify.com/album/06IRKuYvnFpgbnzx2fpmPI) | 3:16 | 2024-09-19 | 2024-11-16 |
@@ -323,6 +326,7 @@
 | [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/track/05jWq9zYFhzVlAyId8rEN3) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/album/28GoAqZtvVBLerde573OJD) | 3:47 | 2024-10-17 | 2025-01-24 |
 | [only us tonight](https://open.spotify.com/track/0zStg9YMWWNqOdhCWeMDIR) | [Evelyn Starlight](https://open.spotify.com/artist/4KWY62o37me6DDsuINOBFX) | [only us tonight](https://open.spotify.com/album/1yJbMkMWhMWWfCsV4gBy06) | 3:12 | 2025-06-26 | 2025-08-08 |
 | [Ontime](https://open.spotify.com/track/00cKHPOFw2rOoYsKCwMmye) | [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7) | [Ontime](https://open.spotify.com/album/3krCAjtsQ42SfF4Y73GZ3Z) | 3:28 | 2024-10-10 | 2024-11-16 |
+| [Ordinary Day](https://open.spotify.com/track/1cvtW4ZA6Tfmap44lhb5GG) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Ordinary Day](https://open.spotify.com/album/37OQK1sKHnUDkFWFnsbX1V) | 3:26 | 2025-09-11 |  |
 | [PAPER](https://open.spotify.com/track/1f6h9GndsIZQS4kqcSgF0M) | [Belanegara Abe](https://open.spotify.com/artist/7ynDbLbbf0ldcQvzPyALuA), [Januarta](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc), [Slayla](https://open.spotify.com/artist/4VazjevYZN85lxlc6E0CGu) | [PAPER](https://open.spotify.com/album/7iT5ZXlI7R2YYFgfeO9DCP) | 2:19 | 2024-07-25 | 2024-09-27 |
 | [Party In Bali \(PIB\)](https://open.spotify.com/track/0spo1IvT6CrCLDTVT7ue0O) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z) | [Party In Bali \(PIB\)](https://open.spotify.com/album/1H5xLltL7JBn10Ce9XZfTk) | 2:52 | 2024-08-23 | 2025-01-24 |
 | [Party In Bali \(PIB\) \[feat\. Jay Park\]](https://open.spotify.com/track/5ZjPVDronecWpciN3fmf5D) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Party In Bali \(PIB\) \[feat\. Jay Park\]](https://open.spotify.com/album/4BCEq5okdDEMSjqlg9oUZ2) | 2:52 | 2024-09-13 | 2024-11-16 |
@@ -338,6 +342,7 @@
 | [Purple Smoke](https://open.spotify.com/track/6g5plYKrCl7EgH0FOOuZvJ) | [Fangtatis](https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY), [Boogiemen](https://open.spotify.com/artist/6V4CFu9IcQNFlz6sZuIHr2), [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL) | [Purple Smoke](https://open.spotify.com/album/0d3rr9GiYnMtomwKUwIxEA) | 3:13 | 2024-12-12 | 2025-04-25 |
 | [Push & Pull](https://open.spotify.com/track/75aI6dB3LZFvEkEJqH9RdW) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Push & Pull](https://open.spotify.com/album/6gZVzSGWj4bJoADLPGKzs4) | 3:33 | 2025-08-08 |  |
 | [Queen Of Hearts](https://open.spotify.com/track/0DXUR5DC7DEXGPCCEu1dPW) | [Rick Karnadi](https://open.spotify.com/artist/4CVPQRzMqpa4OuSg2Vmg2d) | [Queen Of Hearts](https://open.spotify.com/album/0EABOXowLsvLrc5dzcO2rP) | 2:39 | 2025-08-08 |  |
+| [ragebait!](https://open.spotify.com/track/1agtREeSQBAZWgZqMJN7me) | [Father Koi](https://open.spotify.com/artist/3TiCUxDWDi4qSDLITpkziT), [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [ragebait!](https://open.spotify.com/album/1XAqhHKsw7tlS1ZnOes3Sr) | 2:20 | 2025-09-11 |  |
 | [Ready](https://open.spotify.com/track/2pCns6U2LU4gmRROcWQJiJ) | [Kenaga](https://open.spotify.com/artist/32X9bL2iCmwTbblt1NEKbR) | [Ready](https://open.spotify.com/album/60wk0LODQ3wy8v82CLoR3d) | 2:26 | 2025-08-21 |  |
 | [real love](https://open.spotify.com/track/0WuMGn0d7SRWBJi7CQ6HIO) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [real love](https://open.spotify.com/album/3TZyFrXEWXtyrNPGprdBMB) | 3:49 | 2025-08-01 |  |
 | [RECKLESS](https://open.spotify.com/track/2aKOHXO2JQG9m7BImL7b0e) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti), [Rai Anvio](https://open.spotify.com/artist/6y4WbKZooQzBGNHGDsEG0u) | [RECKLESS](https://open.spotify.com/album/4zGdm3XwogvJ62gxsSeM77) | 3:56 | 2024-10-03 | 2025-01-24 |

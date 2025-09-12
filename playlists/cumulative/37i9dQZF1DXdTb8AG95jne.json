@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uc18c\uc218\ube48) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: The Poles(\ub354 \ud3f4\uc2a4)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 208293,
       "name": "1-4-3",
       "url": "https://open.spotify.com/track/4OWKzw44sCXWih8qy4Av8K"
@@ -2790,7 +2790,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 270453,
       "name": "Circle",
       "url": "https://open.spotify.com/track/1DKXTYPfxyoGtIe48kTOZn"
@@ -3130,6 +3130,24 @@
       "duration_ms": 230000,
       "name": "Could you?",
       "url": "https://open.spotify.com/track/78hBN6qlftwJiLmkYoYahf"
+    },
+    {
+      "album": {
+        "name": "HELIX",
+        "url": "https://open.spotify.com/album/5ZuFT090sFnBjaP3kffPhl"
+      },
+      "artists": [
+        {
+          "name": "Austn",
+          "url": "https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163820,
+      "name": "Count Million",
+      "url": "https://open.spotify.com/track/0ywsLtlqi9ayRRIhKbZ6rx"
     },
     {
       "album": {
@@ -3520,7 +3538,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 139453,
       "name": "dear ari",
       "url": "https://open.spotify.com/track/2DdGj1EfEHM6nPn85yNXsx"
@@ -3556,7 +3574,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 161250,
       "name": "Dear My All",
       "url": "https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur"
@@ -4414,6 +4432,24 @@
       "duration_ms": 192586,
       "name": "Echo (feat. JUKJAE)",
       "url": "https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T"
+    },
+    {
+      "album": {
+        "name": "Echo! (talk to me baby)",
+        "url": "https://open.spotify.com/album/7kCuNUFdsY91GvViZ86Qha"
+      },
+      "artists": [
+        {
+          "name": "The Poles",
+          "url": "https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174280,
+      "name": "Echo! (talk to me baby)",
+      "url": "https://open.spotify.com/track/5BYdnzxaLxqOXk1a94qliS"
     },
     {
       "album": {
@@ -6985,6 +7021,28 @@
     },
     {
       "album": {
+        "name": "her.",
+        "url": "https://open.spotify.com/album/0SjIGRHSAiqAIcreD9U1yO"
+      },
+      "artists": [
+        {
+          "name": "CHOILB",
+          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
+        },
+        {
+          "name": "UNE",
+          "url": "https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201378,
+      "name": "her.",
+      "url": "https://open.spotify.com/track/6Qf6rGWVYUgolA02Y1Si1Q"
+    },
+    {
+      "album": {
         "name": "Here Comes Spring",
         "url": "https://open.spotify.com/album/0DshiGUF4rKrdZoFsgmnH2"
       },
@@ -7076,6 +7134,24 @@
       "duration_ms": 183000,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/1UFH9pNVxqP1CagvE6WlOZ"
+    },
+    {
+      "album": {
+        "name": "High Journey",
+        "url": "https://open.spotify.com/album/7kgl6iVZ3uLAFWWbD7q2QP"
+      },
+      "artists": [
+        {
+          "name": "cotoba",
+          "url": "https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229651,
+      "name": "High Journey",
+      "url": "https://open.spotify.com/track/3komypzGQmNIR2pfMtaGL2"
     },
     {
       "album": {
@@ -11466,7 +11542,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 228544,
       "name": "NamgungFEFERE (feat. Japanese Breakfast)",
       "url": "https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi"
@@ -13604,6 +13680,24 @@
       "duration_ms": 160466,
       "name": "Rawww",
       "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
+    },
+    {
+      "album": {
+        "name": "RE: love you, too!",
+        "url": "https://open.spotify.com/album/7LEztff3eAkB4dPQCZeJaB"
+      },
+      "artists": [
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "RE: love you, too!",
+      "url": "https://open.spotify.com/track/4AUaQEi0Clz2Gvw0WVVSOZ"
     },
     {
       "album": {
@@ -17445,6 +17539,24 @@
     },
     {
       "album": {
+        "name": "When The Lights Out",
+        "url": "https://open.spotify.com/album/1WmpPnR4sdtKBye5PMSVDh"
+      },
+      "artists": [
+        {
+          "name": "KARDI",
+          "url": "https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262886,
+      "name": "TOKKEBI-BULL",
+      "url": "https://open.spotify.com/track/5FZiKZLU2OWufNKsY1eQ5Y"
+    },
+    {
+      "album": {
         "name": "tokki",
         "url": "https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0"
       },
@@ -18226,7 +18338,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 226026,
       "name": "WANT IT!",
       "url": "https://open.spotify.com/track/3AGtmUsltzQt3K66tns6uM"

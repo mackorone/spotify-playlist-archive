@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Shaboozey with Stephen Wilson Jr., Graham Barham with Tyler Hubbard, Marcus King and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,523 likes - 78 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,685 likes - 78 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Took A Walk \- from "The Long Walk"](https://open.spotify.com/track/6nKaT12DSliz1PcbVT1Rb4) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Took A Walk \(from "The Long Walk"\)](https://open.spotify.com/album/0xOz0twDcTFReXDArM1uKe) | 4:00 |
-| 2 | [WHISKEY RAIN \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/4msu2MSyuD5N52U6qo2c9V) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [WHISKEY RAIN \(feat\. Tyler Hubbard\)](https://open.spotify.com/album/3vHELzGjnuLo1NiSILFKqr) | 2:42 |
+| 2 | [WHISKEY RAIN \- feat\. Tyler Hubbard](https://open.spotify.com/track/4msu2MSyuD5N52U6qo2c9V) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [WHISKEY RAIN \(feat\. Tyler Hubbard\)](https://open.spotify.com/album/3vHELzGjnuLo1NiSILFKqr) | 2:42 |
 | 3 | [Heartlands](https://open.spotify.com/track/4fsBCUcXnHZhWDBa2iiFfz) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Heartlands](https://open.spotify.com/album/6tNL6yercbIdXOOUJEUMrw) | 3:42 |
 | 4 | [Butterfly \(feat\. Dolly Parton\)](https://open.spotify.com/track/3XoCQ7X59RxqXg3F93DV6T) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Butterfly \(feat\. Dolly Parton\) / Give It Away](https://open.spotify.com/album/0w3e2qg8hT0CXRxI8aFT4V) | 4:04 |
 | 5 | [The Hard Way](https://open.spotify.com/track/6guJdCiBdsLLo3fgAG8Utf) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/52Xjyzwd2vW3fshL00SYU0) | 2:42 |

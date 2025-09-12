@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring Will Linley
 
-1,450 songs - 3 day 0 hr 15 min
+1,451 songs - 3 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -655,6 +655,7 @@
 | [I Won't](https://open.spotify.com/track/1y8ooe9Zr1PMIxrOwNeeOi) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [I Won't](https://open.spotify.com/album/7vXjnE5noLdqc9EIsOhLpQ) | 2:48 | 2022-07-29 | 2022-10-08 |
 | [I WRITE SONGS ABOUT YOU](https://open.spotify.com/track/0qYeqpxqxQB7VSegLNRBRc) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [CATALYST\- EP](https://open.spotify.com/album/6gyeFXC2dYLrU3O0tovWqC) | 2:14 | 2023-12-08 | 2024-02-17 |
 | [I'd Rather Die](https://open.spotify.com/track/2zrkzByBpURasLLPrSwXH2) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [I'd Rather Die](https://open.spotify.com/album/4VM5woMk58UJ0UXjBm2DkK) | 2:19 | 2025-03-28 | 2025-05-17 |
+| [I'll Be Here When You're Back](https://open.spotify.com/track/3pNcgvbucJFDBUPqWsDS6b) | [beaux](https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj) | [I Thought We'd Live Here Forever](https://open.spotify.com/album/5xq3VxjI2Y0hx6mZy89Jkk) | 3:38 | 2025-09-11 |  |
 | [I'll Call You Mine](https://open.spotify.com/track/0RQoxryvRJZD9CShaRLASb) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:21 | 2022-02-18 | 2022-04-29 |
 | [I'm Done Calling](https://open.spotify.com/track/5iCxTOIG6tyDwfGj0hYKH2) | [Cesar Santalo](https://open.spotify.com/artist/0GOf63Qs5qGm2K0SJ8EgL2), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [I'm Done Calling](https://open.spotify.com/album/0jDVFlpv3l0U9u5Ct08KQp) | 2:39 | 2023-12-08 | 2024-02-03 |
 | [I'm Not Crazy](https://open.spotify.com/track/3fiMmMyvoBGjfU9BWkTNWM) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I’m Not Crazy](https://open.spotify.com/album/193T8nOZCynXr5GHbC5UzO) | 2:41 | 2023-07-21 | 2024-03-16 |

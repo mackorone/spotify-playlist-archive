@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 
 > Reggaeton pero al sabor de Cristo! Foto: ANMILY
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,404 likes - 69 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,449 likes - 69 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 | 34 | [Acá Entre Nos](https://open.spotify.com/track/7HFJu4FWtVHNW1kSCCA5YK) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [UNO](https://open.spotify.com/album/1T9FB5R3oGSTVY4tK610IE) | 4:19 |
 | 35 | [Mi Paz](https://open.spotify.com/track/52h10vin2OjmF8kflH8kZD) | [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Esteban Music](https://open.spotify.com/artist/0Xuf6wb2j6Ok0KTAZNJTmH) | [Mi Paz](https://open.spotify.com/album/6mD9PD3HcVyeL3V5QraSm3) | 2:50 |
 | 36 | [Mate](https://open.spotify.com/track/1uS5OSVYqTpZNTpDdJiCOk) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [No Soy El Mismo \(El Album\)](https://open.spotify.com/album/6AtjWHHQAHTAG4HxMfXqd5) | 3:11 |
-| 37 | [Con Dio’](https://open.spotify.com/track/5BGBIy5gxjAXWgtOFYKi0G) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Con Dio’](https://open.spotify.com/album/22LMGZA7CzDWuz4oJvFiwH) | 3:29 |
+| 37 | [CON DIO'](https://open.spotify.com/track/5BGBIy5gxjAXWgtOFYKi0G) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [CON DIO'](https://open.spotify.com/album/22LMGZA7CzDWuz4oJvFiwH) | 3:29 |
 | 38 | [Ganas de Vivir](https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Ganas de Vivir](https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk) | 3:57 |
 | 39 | [Poco a Poco](https://open.spotify.com/track/1OMnykDpR1iqD7WycHrVWT) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [Poco a Poco](https://open.spotify.com/album/7exSbIs48xc2PVLOKSBwrF) | 3:01 |
 | 40 | [No Se Quita](https://open.spotify.com/track/71Uw8G2YIbZ7Rkoqo8CoNI) | [Simiente Incorruptible](https://open.spotify.com/artist/00lO9exwxYAnFcYeWhtotT), [El Machuca](https://open.spotify.com/artist/5RGwgqWxg85IKK6CfkzJiH), [The RialMonkey](https://open.spotify.com/artist/7bqloBOpfL37qqgklvlWm3) | [No Se Quita](https://open.spotify.com/album/5iQhx0NRljm9aaSbkDmC9L) | 3:02 |

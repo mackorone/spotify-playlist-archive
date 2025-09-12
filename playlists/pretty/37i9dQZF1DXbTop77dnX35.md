@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 ### [New Music Friday Naija](https://open.spotify.com/playlist/37i9dQZF1DXbTop77dnX35)
 
-> New Music from FOLA, Rema, Shalipoppi and more
+> New Music from Qing Madi, Stonebwoy, Rybeena, Skales  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,872 likes - 62 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,083 likes - 63 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,14 +61,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 51 | [Lala](https://open.spotify.com/track/6wwoxDPKlXhzgNOb8yN5sq) | [Kurry](https://open.spotify.com/artist/2rlFUrk9ZiY5yAQqAIWxNh) | [Lala](https://open.spotify.com/album/6arreoZtCQpIcnbJEE7YwZ) | 2:45 |
 | 52 | [Achalugo](https://open.spotify.com/track/0GHBAiVELnXDCDGnso3NRT) | [Ugoccie](https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN) | [Achalugo](https://open.spotify.com/album/6MmsSYwvywyP3PXSVkP151) | 2:09 |
 | 53 | [Sexy Lady](https://open.spotify.com/track/3k6rW3h5pnZlN0E3rUkNba) | [Lemon Adisa](https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3) | [Sexy Lady](https://open.spotify.com/album/6XMcalRHcZAvPy7hRXjF6H) | 2:52 |
-| 54 | [NO PROBLEM](https://open.spotify.com/track/7bFIK5mhVluGuypAhDzDFm) | [Chayuta](https://open.spotify.com/artist/4nXhFLBJ3zVZ9MAyUMbV6r), [SNAKA](https://open.spotify.com/artist/047KaM1aEulJuZRkR4tYF1) | [FROM THE ASHES](https://open.spotify.com/album/3SxyLuP7ULWNlL8IYQLHF3) | 4:42 |
-| 55 | [ALWAYS](https://open.spotify.com/track/6q8yzWMuCKsfmT2CpaZ5hJ) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [ALWAYS](https://open.spotify.com/album/7wHILarAi8RZwIoaKqaKY9) | 3:12 |
-| 56 | [On Time](https://open.spotify.com/track/1ZKMJ2MqdbzaS0fkzsIly1) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [On Time](https://open.spotify.com/album/20k3vSq3WUt0dRqfTmwyHI) | 3:49 |
-| 57 | [Harder To Please](https://open.spotify.com/track/6VFQMQOhkZXBwFkjWLhwme) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Harder To Please](https://open.spotify.com/album/1MVLGK9b2dBhBx7nHuqjxh) | 2:36 |
-| 58 | [Job](https://open.spotify.com/track/4pcKa72ZXndYzdMAhyh0AS) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Job](https://open.spotify.com/album/6VVSZP5emclTDs5QLSGvnP) | 3:21 |
-| 59 | [Damage Control](https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:30 |
-| 60 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL) | 2:58 |
-| 61 | [Maybe I'll Be Just Fine](https://open.spotify.com/track/6peh6iycTGLYV4WdISRPVV) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Maybe I'll Be Just Fine](https://open.spotify.com/album/79I4EtCJ7CpNPvYjSfJEZ4) | 2:52 |
-| 62 | [Porcelain Moon](https://open.spotify.com/track/1pnvK9r4V8ktJC9jFagiZs) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Porcelain Moon](https://open.spotify.com/album/3lYjJhcfPkusexhUBcUA6P) | 3:59 |
+| 54 | [KOMOLE](https://open.spotify.com/track/2xrb6kn0KcNbLg4eUXxzZe) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [KOMOLE](https://open.spotify.com/album/7pEY5InFd1bhQ8Mzbo5dMS) | 2:02 |
+| 55 | [NO PROBLEM](https://open.spotify.com/track/7bFIK5mhVluGuypAhDzDFm) | [Chayuta](https://open.spotify.com/artist/4nXhFLBJ3zVZ9MAyUMbV6r), [SNAKA](https://open.spotify.com/artist/047KaM1aEulJuZRkR4tYF1) | [FROM THE ASHES](https://open.spotify.com/album/3SxyLuP7ULWNlL8IYQLHF3) | 4:42 |
+| 56 | [ALWAYS](https://open.spotify.com/track/6q8yzWMuCKsfmT2CpaZ5hJ) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [ALWAYS](https://open.spotify.com/album/7wHILarAi8RZwIoaKqaKY9) | 3:12 |
+| 57 | [On Time](https://open.spotify.com/track/1ZKMJ2MqdbzaS0fkzsIly1) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [On Time](https://open.spotify.com/album/20k3vSq3WUt0dRqfTmwyHI) | 3:49 |
+| 58 | [Harder To Please](https://open.spotify.com/track/6VFQMQOhkZXBwFkjWLhwme) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Harder To Please](https://open.spotify.com/album/1MVLGK9b2dBhBx7nHuqjxh) | 2:36 |
+| 59 | [Job](https://open.spotify.com/track/4pcKa72ZXndYzdMAhyh0AS) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Job](https://open.spotify.com/album/6VVSZP5emclTDs5QLSGvnP) | 3:21 |
+| 60 | [Damage Control](https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:30 |
+| 61 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL) | 2:58 |
+| 62 | [Maybe I'll Be Just Fine](https://open.spotify.com/track/6peh6iycTGLYV4WdISRPVV) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Maybe I'll Be Just Fine](https://open.spotify.com/album/79I4EtCJ7CpNPvYjSfJEZ4) | 2:52 |
+| 63 | [Porcelain Moon](https://open.spotify.com/track/1pnvK9r4V8ktJC9jFagiZs) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Porcelain Moon](https://open.spotify.com/album/3lYjJhcfPkusexhUBcUA6P) | 3:59 |
 
-Snapshot ID: `AAAAAIGHOUE4vMNzAZk6vsGc6ziRIrVi`
+Snapshot ID: `AAAAAHQY3v8fUHHvcr52Wt+EyKzJbC4q`

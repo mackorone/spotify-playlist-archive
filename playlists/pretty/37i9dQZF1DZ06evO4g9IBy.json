@@ -1,37 +1,13 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 170742,
+  "num_followers": 170757,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL9uAAAAAADX1bvp8Uc/9kMOjnGWjps1",
+  "snapshot_id": "aMC/gAAAAAD5TbrddjQLxNsMauUJKwnc",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Let Me Down Again",
-        "url": "https://open.spotify.com/album/3YPEsq0WJuPWPNngxVYniJ"
-      },
-      "artists": [
-        {
-          "name": "Buckingham Nicks",
-          "url": "https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Lindsey Buckingham",
-          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
-        }
-      ],
-      "duration_ms": 231709,
-      "name": "Don't Let Me Down Again",
-      "url": "https://open.spotify.com/track/1oi6TYjH4KGNSEJ8vxHZCR"
-    },
     {
       "added_at": null,
       "album": {
@@ -199,6 +175,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frozen Love",
+        "url": "https://open.spotify.com/album/5Eov9cU1Be0M5rVvF5LVZc"
+      },
+      "artists": [
+        {
+          "name": "Buckingham Nicks",
+          "url": "https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+        }
+      ],
+      "duration_ms": 435793,
+      "name": "Frozen Love",
+      "url": "https://open.spotify.com/track/6qfNV0MDV73P9DUhyITlqS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nightwatch",
         "url": "https://open.spotify.com/album/2IIoRTMSjA1fTv11MdpGMj"
       },
@@ -275,6 +275,30 @@
       "duration_ms": 179014,
       "name": "Crying in the Night",
       "url": "https://open.spotify.com/track/39EnwJiZJ9q3hqcnKaJwlB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Let Me Down Again",
+        "url": "https://open.spotify.com/album/3YPEsq0WJuPWPNngxVYniJ"
+      },
+      "artists": [
+        {
+          "name": "Buckingham Nicks",
+          "url": "https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+        }
+      ],
+      "duration_ms": 231709,
+      "name": "Don't Let Me Down Again",
+      "url": "https://open.spotify.com/track/1oi6TYjH4KGNSEJ8vxHZCR"
     },
     {
       "added_at": null,
@@ -715,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wild Heart (2016 Remastered)",
-        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
+        "name": "The Lighthouse",
+        "url": "https://open.spotify.com/album/5oznbxAohvwRYXwfU3gvx6"
       },
       "artists": [
         {
@@ -724,9 +748,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 186173,
-      "name": "Enchanted - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6ZMQ6kKshuMLWrYk37KBmX"
+      "duration_ms": 291200,
+      "name": "The Lighthouse",
+      "url": "https://open.spotify.com/track/6KzCUv4TwlnFhej36ef5MR"
     },
     {
       "added_at": null,
@@ -747,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lighthouse",
-        "url": "https://open.spotify.com/album/5oznbxAohvwRYXwfU3gvx6"
+        "name": "The Wild Heart (2016 Remastered)",
+        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
       },
       "artists": [
         {
@@ -756,9 +780,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 291200,
-      "name": "The Lighthouse",
-      "url": "https://open.spotify.com/track/6KzCUv4TwlnFhej36ef5MR"
+      "duration_ms": 186173,
+      "name": "Enchanted - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6ZMQ6kKshuMLWrYk37KBmX"
     },
     {
       "added_at": null,
@@ -779,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Street Angel",
-        "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
+        "name": "Live In Concert: The 24 Karat Gold Tour",
+        "url": "https://open.spotify.com/album/6RXy2mL8HlVhzHU0JOO9dq"
       },
       "artists": [
         {
@@ -788,9 +812,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 259066,
-      "name": "Maybe Love Will Change Your Mind",
-      "url": "https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74"
+      "duration_ms": 256546,
+      "name": "Gypsy (Live)",
+      "url": "https://open.spotify.com/track/3gsoMKVzc0FoKaxn2rdGUL"
     },
     {
       "added_at": null,
@@ -811,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live In Concert: The 24 Karat Gold Tour",
-        "url": "https://open.spotify.com/album/6RXy2mL8HlVhzHU0JOO9dq"
+        "name": "Street Angel",
+        "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
       },
       "artists": [
         {
@@ -820,9 +844,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 256546,
-      "name": "Gypsy (Live)",
-      "url": "https://open.spotify.com/track/3gsoMKVzc0FoKaxn2rdGUL"
+      "duration_ms": 259066,
+      "name": "Maybe Love Will Change Your Mind",
+      "url": "https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74"
     },
     {
       "added_at": null,
@@ -855,22 +879,6 @@
       "duration_ms": 278138,
       "name": "The Dealer",
       "url": "https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bella Donna (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 280626,
-      "name": "Sleeping Angel (From Fast Times at Ridgemont High) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/35I5lX6yE00YSu7PEgES54"
     }
   ],
   "unique_name": "This Is Stevie Nicks",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p37CU.md) - [plain]
 
 > This is EARTHGANG\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,399 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,401 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p37CU.md) - [plain]
 | 46 | [Ghetto Gods Freestyle \(with EARTHGANG feat\. 2 Chainz\)](https://open.spotify.com/track/7Gn7HA4yOHKXDo6vHCiNXV) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:53 |
 | 47 | [ALL EYES ON ME](https://open.spotify.com/track/6NxpWAcnqCE6J9pVyLZLeQ) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 4:00 |
 | 48 | [Bank](https://open.spotify.com/track/0uqJQ1k1N63nl4tAYW8t2A) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Mirrorland](https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB) | 2:59 |
-| 49 | [Up Up Away \(with JID & EARTHGANG feat\. Vince Staples\)](https://open.spotify.com/track/6k6QKZTfsSkLcARPA3VY4D) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Revenge Of The Dreamers III: Director's Cut](https://open.spotify.com/album/5PerfGh9Smd6XjwkxpmL4V) | 3:19 |
-| 50 | [Monday](https://open.spotify.com/track/1xSRhbrcNp5Nhfq3wLbNVP) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Torba](https://open.spotify.com/album/1bfSnW4xc5x4T49TRrDelF) | 5:36 |
+| 49 | [Monday](https://open.spotify.com/track/1xSRhbrcNp5Nhfq3wLbNVP) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Torba](https://open.spotify.com/album/1bfSnW4xc5x4T49TRrDelF) | 5:36 |
+| 50 | [Up Up Away \(with JID & EARTHGANG feat\. Vince Staples\)](https://open.spotify.com/track/6k6QKZTfsSkLcARPA3VY4D) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Revenge Of The Dreamers III: Director's Cut](https://open.spotify.com/album/5PerfGh9Smd6XjwkxpmL4V) | 3:19 |
 
-Snapshot ID: `aL9uAAAAAACp0NYtKE8ePlgMjM1f4+No`
+Snapshot ID: `aMC/gAAAAADb8HzAMZO7TrpSyPbLEjKR`

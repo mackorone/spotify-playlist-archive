@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: BUNT., The Chainsmokers
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,356 likes - 90 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,373 likes - 90 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 89 | [Hole In The Head \(Fool Girl\)](https://open.spotify.com/track/1qOcBO1ILL2EnaZOSuZCVx) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Deep West](https://open.spotify.com/artist/36RMbpJsvVmrdHwWUI3nk0) | [Hole In The Head \(Fool Girl\)](https://open.spotify.com/album/1B5cEjfKFKVZry5NRppRrS) | 2:33 |
 | 90 | [BANG BANG](https://open.spotify.com/track/0eJSm2G0t3XX4SUuU1aSaH) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [BANG BANG](https://open.spotify.com/album/7eE2cLGRCyAMeCgzycZ2s2) | 2:18 |
 
-Snapshot ID: `AAAAAAigKpDJFPOFfBoZ7t+wESCzN0V+`
+Snapshot ID: `AAAAAI3HJCUK7MSpBdRmqa1HjzVnMhG/`

@@ -2,7 +2,7 @@
 
 ### [Tropical Hits](https://open.spotify.com/playlist/37i9dQZF1DWYey22ryYM8U)
 
-> Las más pegadas\. Cover: Mora & C\. Tangana
+> Las más pegadas\. Cover: Alleh & Yorghaki
 
 351 songs - 22 hr 24 min
 

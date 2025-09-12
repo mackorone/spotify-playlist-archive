@@ -1,13 +1,29 @@
 {
   "description": "De grootste hits uit de kroeg in \u00e9\u00e9n playlist.",
-  "num_followers": 245240,
+  "num_followers": 245428,
   "original_name": "Kroegenhits 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGzW6UggBgvce7poJJgHN6V/wTK5",
+  "snapshot_id": "AAAAAAUFy3nnxwL5KArx3Q51PAByJBRM",
   "tracks": [
+    {
+      "added_at": "2025-09-04 12:00:35",
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/30N0u0pWGa9VuPuWvMUjhA"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        }
+      ],
+      "duration_ms": 200520,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/2MdohxuwIfNPtEdknrsv7z"
+    },
     {
       "added_at": "2025-09-04 12:00:35",
       "album": {
@@ -27,18 +43,22 @@
     {
       "added_at": "2025-09-04 12:00:35",
       "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/30N0u0pWGa9VuPuWvMUjhA"
+        "name": "100%",
+        "url": "https://open.spotify.com/album/77lwOPIULad3xw9beebzJj"
       },
       "artists": [
         {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        },
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
         }
       ],
-      "duration_ms": 200520,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/2MdohxuwIfNPtEdknrsv7z"
+      "duration_ms": 151493,
+      "name": "100%",
+      "url": "https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv"
     },
     {
       "added_at": "2025-09-04 12:00:35",
@@ -87,26 +107,6 @@
     {
       "added_at": "2025-09-04 12:00:35",
       "album": {
-        "name": "100%",
-        "url": "https://open.spotify.com/album/77lwOPIULad3xw9beebzJj"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        },
-        {
-          "name": "Mart Hoogkamer",
-          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
-        }
-      ],
-      "duration_ms": 151493,
-      "name": "100%",
-      "url": "https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv"
-    },
-    {
-      "added_at": "2025-09-04 12:00:35",
-      "album": {
         "name": "Echte Liefde Is Te Koop",
         "url": "https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR"
       },
@@ -119,6 +119,26 @@
       "duration_ms": 152659,
       "name": "Echte Liefde Is Te Koop",
       "url": "https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4"
+    },
+    {
+      "added_at": "2025-09-04 12:00:35",
+      "album": {
+        "name": "Blikkendag",
+        "url": "https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB"
+      },
+      "artists": [
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        },
+        {
+          "name": "Likke P\u00eahp",
+          "url": "https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "Blikkendag",
+      "url": "https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT"
     },
     {
       "added_at": "2025-09-04 12:00:35",
@@ -235,26 +255,6 @@
       "duration_ms": 169147,
       "name": "Waarom Nou Niet (Kleuren)",
       "url": "https://open.spotify.com/track/6FqOih5ok2Hwn8EkrEIY5X"
-    },
-    {
-      "added_at": "2025-09-04 12:00:35",
-      "album": {
-        "name": "Blikkendag",
-        "url": "https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB"
-      },
-      "artists": [
-        {
-          "name": "Sven Versteeg",
-          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
-        },
-        {
-          "name": "Likke P\u00eahp",
-          "url": "https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma"
-        }
-      ],
-      "duration_ms": 209090,
-      "name": "Blikkendag",
-      "url": "https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT"
     },
     {
       "added_at": "2025-09-04 12:00:35",

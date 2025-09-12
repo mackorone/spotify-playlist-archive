@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: LOSTBOYJAY",
-  "num_followers": 266580,
+  "num_followers": 266606,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2025-09-05 15:10:58",
       "album": {
+        "name": "Wavey",
+        "url": "https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 143379,
+      "name": "Wavey",
+      "url": "https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1"
+    },
+    {
+      "added_at": "2025-09-05 15:10:58",
+      "album": {
         "name": "No Enemies (feat. Namasenda)",
         "url": "https://open.spotify.com/album/7pvzIp85EdrRsBMN1SDW5p"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 160768,
       "name": "No Enemies (feat. Namasenda)",
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
-    },
-    {
-      "added_at": "2025-09-05 15:10:58",
-      "album": {
-        "name": "Wavey",
-        "url": "https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 143379,
-      "name": "Wavey",
-      "url": "https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1"
     },
     {
       "added_at": "2025-09-05 15:10:58",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2025-09-05 15:10:58",
       "album": {
-        "name": "Drum Death",
-        "url": "https://open.spotify.com/album/4vqrNHTMoTgrN4DBH5b81t"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "HOSANNA",
-          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
-        }
-      ],
-      "duration_ms": 170644,
-      "name": "Drum Death",
-      "url": "https://open.spotify.com/track/1gkTO34Xg6FO8W9HrxYR4E"
-    },
-    {
-      "added_at": "2025-09-05 15:10:58",
-      "album": {
         "name": "Night In Detroit (feat. Fedde Le Grand)",
         "url": "https://open.spotify.com/album/5Z3KQqAraMareSBBjb4AZ1"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 166356,
       "name": "Night In Detroit (feat. Fedde Le Grand)",
       "url": "https://open.spotify.com/track/0HsXfYwVE21j9LGQuV7Tvp"
+    },
+    {
+      "added_at": "2025-09-05 15:10:58",
+      "album": {
+        "name": "Drum Death",
+        "url": "https://open.spotify.com/album/4vqrNHTMoTgrN4DBH5b81t"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "HOSANNA",
+          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
+        }
+      ],
+      "duration_ms": 170644,
+      "name": "Drum Death",
+      "url": "https://open.spotify.com/track/1gkTO34Xg6FO8W9HrxYR4E"
     },
     {
       "added_at": "2025-09-05 15:10:58",
@@ -1411,26 +1411,18 @@
     {
       "added_at": "2025-09-05 15:10:58",
       "album": {
-        "name": "Everybody Knows (feat. IRAH)",
-        "url": "https://open.spotify.com/album/0fx8GvBGpImoH4eOBkZY84"
+        "name": "ANGEL IN THE CLUB",
+        "url": "https://open.spotify.com/album/1WCpYZEJDzMhSXVnmx4EeR"
       },
       "artists": [
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "GorillaT",
-          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
-        },
-        {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+          "name": "Ashley Sienna",
+          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Everybody Knows - feat. IRAH",
-      "url": "https://open.spotify.com/track/5gGJVjDk6msTOGZ4cJA5CI"
+      "duration_ms": 124477,
+      "name": "ANGEL IN THE CLUB",
+      "url": "https://open.spotify.com/track/0R0ArrUWlQE64ArlNI9mcb"
     },
     {
       "added_at": "2025-09-05 15:10:58",
@@ -1459,18 +1451,50 @@
     {
       "added_at": "2025-09-05 15:10:58",
       "album": {
-        "name": "ANGEL IN THE CLUB",
-        "url": "https://open.spotify.com/album/1WCpYZEJDzMhSXVnmx4EeR"
+        "name": "Everybody Knows (feat. IRAH)",
+        "url": "https://open.spotify.com/album/0fx8GvBGpImoH4eOBkZY84"
       },
       "artists": [
         {
-          "name": "Ashley Sienna",
-          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
         }
       ],
-      "duration_ms": 124477,
-      "name": "ANGEL IN THE CLUB",
-      "url": "https://open.spotify.com/track/0R0ArrUWlQE64ArlNI9mcb"
+      "duration_ms": 168000,
+      "name": "Everybody Knows - feat. IRAH",
+      "url": "https://open.spotify.com/track/5gGJVjDk6msTOGZ4cJA5CI"
+    },
+    {
+      "added_at": "2025-09-05 15:10:58",
+      "album": {
+        "name": "Party After Party",
+        "url": "https://open.spotify.com/album/26FYs9Ps8SnNuwJLJrFeUd"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Azooland",
+          "url": "https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ"
+        },
+        {
+          "name": "Tim Bell",
+          "url": "https://open.spotify.com/artist/13AFo4856ytys2f6kQqAlY"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "Party After Party",
+      "url": "https://open.spotify.com/track/0IJxq5nQv9coXjtmm2vF0e"
     },
     {
       "added_at": "2025-09-05 15:10:58",
@@ -1515,22 +1539,6 @@
     {
       "added_at": "2025-09-05 15:10:58",
       "album": {
-        "name": "Death By Love",
-        "url": "https://open.spotify.com/album/36KL4YmFsXEDfqZVfm6qXF"
-      },
-      "artists": [
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Death By Love",
-      "url": "https://open.spotify.com/track/6YOg0daCavgHVBZ3u9hZWc"
-    },
-    {
-      "added_at": "2025-09-05 15:10:58",
-      "album": {
         "name": "California Dreamin'",
         "url": "https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C"
       },
@@ -1543,6 +1551,22 @@
       "duration_ms": 170057,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs"
+    },
+    {
+      "added_at": "2025-09-05 15:10:58",
+      "album": {
+        "name": "Death By Love",
+        "url": "https://open.spotify.com/album/36KL4YmFsXEDfqZVfm6qXF"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Death By Love",
+      "url": "https://open.spotify.com/track/6YOg0daCavgHVBZ3u9hZWc"
     },
     {
       "added_at": "2025-09-05 15:10:58",
@@ -1583,22 +1607,6 @@
     {
       "added_at": "2025-09-05 15:10:58",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/2JyHINnQMI90yaPLot64ME"
-      },
-      "artists": [
-        {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
-        }
-      ],
-      "duration_ms": 197407,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/0bQdZtYoKuUjVdbpsqbncn"
-    },
-    {
-      "added_at": "2025-09-05 15:10:58",
-      "album": {
         "name": "ADRENOCHROME : ZERO",
         "url": "https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa"
       },
@@ -1611,6 +1619,22 @@
       "duration_ms": 195310,
       "name": "Sometimes / DOPAMINE++++",
       "url": "https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF"
+    },
+    {
+      "added_at": "2025-09-05 15:10:58",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/2JyHINnQMI90yaPLot64ME"
+      },
+      "artists": [
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "duration_ms": 197407,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/0bQdZtYoKuUjVdbpsqbncn"
     },
     {
       "added_at": "2025-09-05 15:10:58",
@@ -1671,30 +1695,6 @@
     {
       "added_at": "2025-09-05 15:10:58",
       "album": {
-        "name": "Party After Party",
-        "url": "https://open.spotify.com/album/26FYs9Ps8SnNuwJLJrFeUd"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Azooland",
-          "url": "https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ"
-        },
-        {
-          "name": "Tim Bell",
-          "url": "https://open.spotify.com/artist/13AFo4856ytys2f6kQqAlY"
-        }
-      ],
-      "duration_ms": 159230,
-      "name": "Party After Party",
-      "url": "https://open.spotify.com/track/0IJxq5nQv9coXjtmm2vF0e"
-    },
-    {
-      "added_at": "2025-09-05 15:10:58",
-      "album": {
         "name": "Go Mode",
         "url": "https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG"
       },
@@ -1715,6 +1715,26 @@
       "duration_ms": 232031,
       "name": "Go Mode",
       "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
+    },
+    {
+      "added_at": "2025-09-05 15:10:58",
+      "album": {
+        "name": "Spend Money",
+        "url": "https://open.spotify.com/album/0Yc4FlwbliYKyTbtQY3Ea9"
+      },
+      "artists": [
+        {
+          "name": "GREG (BR)",
+          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
+        },
+        {
+          "name": "Pedroz",
+          "url": "https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p"
+        }
+      ],
+      "duration_ms": 175312,
+      "name": "Spend Money",
+      "url": "https://open.spotify.com/track/6Q7MfRknss7JKOxnKkKfl4"
     },
     {
       "added_at": "2025-09-05 15:10:58",
@@ -1787,26 +1807,6 @@
       "duration_ms": 173793,
       "name": "Torch",
       "url": "https://open.spotify.com/track/7EvgoFkWT1kVtOIhqGwZUm"
-    },
-    {
-      "added_at": "2025-09-05 15:10:58",
-      "album": {
-        "name": "Spend Money",
-        "url": "https://open.spotify.com/album/0Yc4FlwbliYKyTbtQY3Ea9"
-      },
-      "artists": [
-        {
-          "name": "GREG (BR)",
-          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
-        },
-        {
-          "name": "Pedroz",
-          "url": "https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p"
-        }
-      ],
-      "duration_ms": 175312,
-      "name": "Spend Money",
-      "url": "https://open.spotify.com/track/6Q7MfRknss7JKOxnKkKfl4"
     },
     {
       "added_at": "2025-09-05 15:10:58",
@@ -1931,26 +1931,6 @@
     {
       "added_at": "2025-09-05 15:10:58",
       "album": {
-        "name": "Lazarus Rise",
-        "url": "https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw"
-      },
-      "artists": [
-        {
-          "name": "Wasiu",
-          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
-        },
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "Lazarus Rise",
-      "url": "https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m"
-    },
-    {
-      "added_at": "2025-09-05 15:10:58",
-      "album": {
         "name": "Orchid",
         "url": "https://open.spotify.com/album/1H7kMYpmTl0M3bzpVlY941"
       },
@@ -1967,6 +1947,26 @@
       "duration_ms": 240017,
       "name": "Orchid",
       "url": "https://open.spotify.com/track/02NXaNtoScXGndO3Zj1MNA"
+    },
+    {
+      "added_at": "2025-09-05 15:10:58",
+      "album": {
+        "name": "Lazarus Rise",
+        "url": "https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw"
+      },
+      "artists": [
+        {
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+        },
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "Lazarus Rise",
+      "url": "https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m"
     },
     {
       "added_at": "2025-09-05 15:10:58",
@@ -2087,26 +2087,22 @@
     {
       "added_at": "2025-09-05 15:10:58",
       "album": {
-        "name": "Lights On",
-        "url": "https://open.spotify.com/album/3FjIckpnCLd0sfOb6GQ4fD"
+        "name": "Walk It Out",
+        "url": "https://open.spotify.com/album/76B1nSZCPyWtz4jIa8gFqk"
       },
       "artists": [
         {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+          "name": "MYTHM",
+          "url": "https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial"
         },
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Eloise Keeble",
-          "url": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
+          "name": "Strategy",
+          "url": "https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3"
         }
       ],
-      "duration_ms": 193185,
-      "name": "Lights On",
-      "url": "https://open.spotify.com/track/6D5a5CV8ARtijH5pLUKEuK"
+      "duration_ms": 209500,
+      "name": "Walk It Out",
+      "url": "https://open.spotify.com/track/770l1fTtBNY6xqdUlkTJDW"
     },
     {
       "added_at": "2025-09-05 15:10:58",
@@ -2131,6 +2127,30 @@
     {
       "added_at": "2025-09-05 15:10:58",
       "album": {
+        "name": "Lights On",
+        "url": "https://open.spotify.com/album/3FjIckpnCLd0sfOb6GQ4fD"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Eloise Keeble",
+          "url": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
+        }
+      ],
+      "duration_ms": 193185,
+      "name": "Lights On",
+      "url": "https://open.spotify.com/track/6D5a5CV8ARtijH5pLUKEuK"
+    },
+    {
+      "added_at": "2025-09-05 15:10:58",
+      "album": {
         "name": "Lose My Mind",
         "url": "https://open.spotify.com/album/0RZWXjXZDItdGJkTGgc7OE"
       },
@@ -2151,42 +2171,6 @@
     {
       "added_at": "2025-09-05 15:10:58",
       "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/4WD4HeFeD0K0NCzOl20VKX"
-      },
-      "artists": [
-        {
-          "name": "Dillon Nathaniel",
-          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
-        }
-      ],
-      "duration_ms": 165937,
-      "name": "Elevated",
-      "url": "https://open.spotify.com/track/5pfJqAYqSiukNZYNrWbnqK"
-    },
-    {
-      "added_at": "2025-09-05 15:10:58",
-      "album": {
-        "name": "Walk It Out",
-        "url": "https://open.spotify.com/album/76B1nSZCPyWtz4jIa8gFqk"
-      },
-      "artists": [
-        {
-          "name": "MYTHM",
-          "url": "https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial"
-        },
-        {
-          "name": "Strategy",
-          "url": "https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3"
-        }
-      ],
-      "duration_ms": 209500,
-      "name": "Walk It Out",
-      "url": "https://open.spotify.com/track/770l1fTtBNY6xqdUlkTJDW"
-    },
-    {
-      "added_at": "2025-09-05 15:10:58",
-      "album": {
         "name": "Soundboy",
         "url": "https://open.spotify.com/album/4i3Jyd8XH7EEU42JId6awO"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 151111,
       "name": "Soundboy",
       "url": "https://open.spotify.com/track/58U3P9ZuOGwcJnz7L0RUw6"
+    },
+    {
+      "added_at": "2025-09-05 15:10:58",
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/4WD4HeFeD0K0NCzOl20VKX"
+      },
+      "artists": [
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        }
+      ],
+      "duration_ms": 165937,
+      "name": "Elevated",
+      "url": "https://open.spotify.com/track/5pfJqAYqSiukNZYNrWbnqK"
     },
     {
       "added_at": "2025-09-05 15:10:58",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2025-09-05 15:10:58",
       "album": {
-        "name": "ATYYA // 2025 Singles",
-        "url": "https://open.spotify.com/album/0nBoc171VVBvMemp0bseR9"
-      },
-      "artists": [
-        {
-          "name": "ATYYA",
-          "url": "https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7"
-        }
-      ],
-      "duration_ms": 224142,
-      "name": "Luv",
-      "url": "https://open.spotify.com/track/1QMJyTqWbJVhcP6umVB9QU"
-    },
-    {
-      "added_at": "2025-09-05 15:10:58",
-      "album": {
         "name": "Give Me A Dub",
         "url": "https://open.spotify.com/album/1CCLUfUFMd6BTEYmjDjPkY"
       },
@@ -2307,22 +2291,6 @@
     {
       "added_at": "2025-09-05 15:10:58",
       "album": {
-        "name": "u don't just wanna die",
-        "url": "https://open.spotify.com/album/3E5MBfGzVb80ibLordHL8J"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "u don't just wanna die",
-      "url": "https://open.spotify.com/track/6XRPuVKshr4rTN1YthisWJ"
-    },
-    {
-      "added_at": "2025-09-05 15:10:58",
-      "album": {
         "name": "Don't Be Fooled",
         "url": "https://open.spotify.com/album/5RxVZoXHLOBK6UlgFp0JGI"
       },
@@ -2335,6 +2303,38 @@
       "duration_ms": 183056,
       "name": "Don't Be Fooled",
       "url": "https://open.spotify.com/track/2Mjim603j5TvUX3uB3YOzv"
+    },
+    {
+      "added_at": "2025-09-05 15:10:58",
+      "album": {
+        "name": "ATYYA // 2025 Singles",
+        "url": "https://open.spotify.com/album/0nBoc171VVBvMemp0bseR9"
+      },
+      "artists": [
+        {
+          "name": "ATYYA",
+          "url": "https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7"
+        }
+      ],
+      "duration_ms": 224142,
+      "name": "Luv",
+      "url": "https://open.spotify.com/track/1QMJyTqWbJVhcP6umVB9QU"
+    },
+    {
+      "added_at": "2025-09-05 15:10:58",
+      "album": {
+        "name": "u don't just wanna die",
+        "url": "https://open.spotify.com/album/3E5MBfGzVb80ibLordHL8J"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "u don't just wanna die",
+      "url": "https://open.spotify.com/track/6XRPuVKshr4rTN1YthisWJ"
     },
     {
       "added_at": "2025-09-05 15:10:58",

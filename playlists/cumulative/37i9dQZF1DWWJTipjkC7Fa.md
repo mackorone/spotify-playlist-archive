@@ -4,7 +4,7 @@
 
 > Listen to the music from and inspired by My Life With The Walter Boys, now streaming on Netflix.
 
-113 songs - 6 hr 20 min
+114 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Ice Cream](https://open.spotify.com/track/3WGfWVEcd6va103Nd8UQHZ) | [Les Filles & Christopher](https://open.spotify.com/artist/3e50327fCwO1HRUjipDkaJ) | [Ice Cream](https://open.spotify.com/album/7eaKZkEtH8YmP7bhKiaSqx) | 2:44 | 2025-08-28 |  |
 | [If That's Love](https://open.spotify.com/track/5fP6PoIZGenEqUwCNvQmK5) | [Cold Fame](https://open.spotify.com/artist/0Y6fegYjM0nlrAtUA4YLCH) | [RED ROOM](https://open.spotify.com/album/7BlHsUkjTuI3Puoo5CeSJD) | 2:55 | 2025-08-28 |  |
 | [In Between Days \- 2006 Remaster](https://open.spotify.com/track/07CyrZF9eVd02zzIse7tZA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 2:57 | 2025-08-28 |  |
+| [I’ll Be Right Here \(My Life with the Walter Boys\)](https://open.spotify.com/track/1zze8XTHhqOVFHC200EmZ7) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [I’ll Be Right Here \(My Life with the Walter Boys\)](https://open.spotify.com/album/5ZsgFHkrQCdSuQCAr9Xzf4) | 2:52 | 2025-09-11 |  |
 | [Let It Happen](https://open.spotify.com/track/7mFhyM0k5ZKG8jxcwmPVYl) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:20 | 2025-08-28 |  |
 | [Let Me Hurt \(Acoustic\)](https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Crying in Cars](https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf) | 3:42 | 2023-12-07 | 2025-08-29 |
 | [Let My Love Open The Door](https://open.spotify.com/track/0otlwsD3mSogk7VJCTp6Kg) | [Pete Townshend](https://open.spotify.com/artist/24Wa5wIZIo1sPkzVGP0B5p) | [Empty Glass](https://open.spotify.com/album/0X8rEKkL2TupftQRrOzX4h) | 2:44 | 2023-12-07 | 2025-08-29 |

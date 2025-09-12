@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LYKN",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PP Krit",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -422,7 +422,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 210526,
       "name": "BADLY",
       "url": "https://open.spotify.com/track/4BDW3yQgmhQDLHLvaxzZtd"
@@ -660,7 +660,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 270026,
       "name": "BOSS IN THE BUILDING",
       "url": "https://open.spotify.com/track/30yBnzk52RdXseGmXBuMgn"
@@ -776,6 +776,24 @@
       "duration_ms": 181753,
       "name": "Boys Love Girls",
       "url": "https://open.spotify.com/track/4BDS6sNKdmTsxJdw6BwRE5"
+    },
+    {
+      "album": {
+        "name": "Breaking Heart Station (\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e2d\u0e01\u0e2b\u0e31\u0e01)",
+        "url": "https://open.spotify.com/album/6xg9H09J4PIKekePAdKgvd"
+      },
+      "artists": [
+        {
+          "name": "ZEE PRUK",
+          "url": "https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "Breaking Heart Station (\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e2d\u0e01\u0e2b\u0e31\u0e01)",
+      "url": "https://open.spotify.com/track/4L0gbJHkKpGOlHousUBEDo"
     },
     {
       "album": {
@@ -2327,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "Magic Car",
+        "url": "https://open.spotify.com/album/3TLundKEbuWiNoQWGOuInj"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Magic Car",
+      "url": "https://open.spotify.com/track/40muIoHRlB87OMC0IAwQHD"
+    },
+    {
+      "album": {
         "name": "Magic Moment",
         "url": "https://open.spotify.com/album/7nizmQvxMgpxVXnM9JabPf"
       },
@@ -3513,6 +3549,24 @@
     },
     {
       "album": {
+        "name": "SWEET LIES",
+        "url": "https://open.spotify.com/album/2KeENmP6MKkxZy4R8OpP66"
+      },
+      "artists": [
+        {
+          "name": "ALALA",
+          "url": "https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193636,
+      "name": "SWEET LIES",
+      "url": "https://open.spotify.com/track/7CP4aJWUEgzMzkFlul94OE"
+    },
+    {
+      "album": {
         "name": "TEEDEE TADA - Single",
         "url": "https://open.spotify.com/album/2lJnxIfxZfmchF0XyDTeML"
       },
@@ -3528,6 +3582,24 @@
       "duration_ms": 195130,
       "name": "TEEDEE TADA",
       "url": "https://open.spotify.com/track/4hN87QuWWKwxL6xDxKXsn2"
+    },
+    {
+      "album": {
+        "name": "Too Perfect for You (\u0e2a\u0e27\u0e22 \u0e40\u0e23\u0e34\u0e48\u0e14 \u0e40\u0e0a\u0e34\u0e14)",
+        "url": "https://open.spotify.com/album/4LQh1EYtYbml9sNKr7lq4M"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Too Perfect for You (\u0e2a\u0e27\u0e22 \u0e40\u0e23\u0e34\u0e48\u0e14 \u0e40\u0e0a\u0e34\u0e14)",
+      "url": "https://open.spotify.com/track/4XpxNZcQdqRk6MC6JtG1US"
     },
     {
       "album": {
@@ -3888,7 +3960,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 162500,
       "name": "WHITE RABBIT",
       "url": "https://open.spotify.com/track/39VNot2WGk4Xj1ncP0Hj47"
@@ -6626,7 +6698,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 184571,
       "name": "\u0e15\u0e34\u0e14\u0e41\u0e2d\u0e4a\u0e04 (ACT ACT ACT)",
       "url": "https://open.spotify.com/track/2HYQaizq3R7YBqGtmVRH5A"

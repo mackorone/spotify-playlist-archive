@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: \uc18c\uc774\uc5d0 (soye)) \uc0c8\ub86d\uace0 \ud56b\ud55c \uad6d\ub0b4 \uc7ac\uc988 \uc74c\uc545\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "description": "All about Korean Jazz hits & new (Cover: Park Ki Hun(\ubc15\uae30\ud6c8)) \uc0c8\ub86d\uace0 \ud56b\ud55c \uad6d\ub0b4 \uc7ac\uc988 \uc74c\uc545\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -3527,6 +3527,28 @@
     },
     {
       "album": {
+        "name": "Park's Mood",
+        "url": "https://open.spotify.com/album/6WePQz4TECRBySr3pldSwe"
+      },
+      "artists": [
+        {
+          "name": "Park Ki Hun",
+          "url": "https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR"
+        },
+        {
+          "name": "paulkyte",
+          "url": "https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199799,
+      "name": "Sleepy (Feat. paulkyte)",
+      "url": "https://open.spotify.com/track/5d57dsBRU85OiDkJnPktgw"
+    },
+    {
+      "album": {
         "name": "Soft Serenade",
         "url": "https://open.spotify.com/album/5QWLLTpUyVUjXqJV19wicG"
       },
@@ -4516,6 +4538,28 @@
       "duration_ms": 296821,
       "name": "What A Wonderful Blue Night",
       "url": "https://open.spotify.com/track/53fCbojK6JJjYvaMdToit0"
+    },
+    {
+      "album": {
+        "name": "Park's Mood",
+        "url": "https://open.spotify.com/album/6WePQz4TECRBySr3pldSwe"
+      },
+      "artists": [
+        {
+          "name": "Park Ki Hun",
+          "url": "https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR"
+        },
+        {
+          "name": "Yun Seokcheol",
+          "url": "https://open.spotify.com/artist/2CducdjCN6kUjcecP0U5we"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184771,
+      "name": "What A Wonderful Blue Night (Feat. Yun Seokcheol) - Bossanova Ver.",
+      "url": "https://open.spotify.com/track/0QoGXe1zRzvNsOwbZ3dma6"
     },
     {
       "album": {

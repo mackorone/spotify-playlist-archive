@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Ranjit Bawa
 
-351 songs - 18 hr 2 min
+352 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Bijlee Bijlee](https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Bijlee Bijlee](https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8) | 2:48 | 2022-01-10 | 2024-10-25 |
 | [Bijlee Bijlee](https://open.spotify.com/track/6rypIt9X1x9Okl0mgCdoVV) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Happy Chocolate Day 2022](https://open.spotify.com/album/64MPIq8mztoup1uwycI8dw) | 2:48 | 2022-07-05 | 2022-07-30 |
 | [Billori Akh](https://open.spotify.com/track/2pisuoITO5cTaFHEhvmPBn) | [Armaan Puar](https://open.spotify.com/artist/2gpgk1ewvk37UwMR9jiWU3), [Inder Dhindsa](https://open.spotify.com/artist/1TgOppn3FJC7DxbvqK7aQj), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Billori Akh](https://open.spotify.com/album/0BUTfz7L1hHAHbdWpr4iF0) | 2:27 | 2025-06-10 | 2025-07-04 |
+| [Birmingham Jhoomar](https://open.spotify.com/track/4TYrzDxd7HZHHHSC4dtDzm) | [Raman Bains](https://open.spotify.com/artist/3BRh53qZfNoiEGO1bYrOtr), [a.s\. kullar](https://open.spotify.com/artist/38YHl4CUr7IFtVUPKEtiU1) | [A DESI LOVE STORY](https://open.spotify.com/album/0qv4jAhr65iYxuaOXpmy2Z) | 2:20 | 2025-09-05 |  |
 | [Birth Place](https://open.spotify.com/track/0mMgQvjuwTwRXyByCx5y5t) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Birth Place](https://open.spotify.com/album/1dmKo05M5rTeUGGZAmUFXk) | 3:05 | 2021-12-18 | 2022-01-11 |
 | [Bitch I'm Back](https://open.spotify.com/track/2mKvEIvd912eg3FZ8WamMS) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 | 2021-12-18 | 2024-11-21 |
 | [Black & White](https://open.spotify.com/track/5wiSbeDm2p5yniuus7eH4J) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:46 | 2021-12-18 | 2025-01-09 |

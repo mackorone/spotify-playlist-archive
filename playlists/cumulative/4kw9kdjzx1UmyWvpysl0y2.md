@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,068 songs - 2 day 11 hr 48 min
+1,069 songs - 2 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -896,6 +896,7 @@
 | [Surge](https://open.spotify.com/track/1rBcquk3vLXxSvDl0JSeTY) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [Surge](https://open.spotify.com/album/2BgT3BAKshSa5T98Q5rZds) | 3:40 | 2025-04-25 | 2025-07-22 |
 | [Surge \- No Mana Remix](https://open.spotify.com/track/6TrYEKAiC0y71cqplcn0Yy) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Surge \(No Mana Remix\)](https://open.spotify.com/album/6xgYencWHzm6ZKKzUtqPTR) | 3:30 | 2025-06-04 | 2025-08-28 |
 | [SURRENDER PEACE!](https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let Them Only See Butterflies](https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ) | 3:14 | 2023-08-10 | 2023-12-14 |
+| [Surround Me](https://open.spotify.com/track/51I5TnEKANW1F8I5MiTc83) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Surround Me](https://open.spotify.com/album/6R4BEvUHqgGASLcvpnbamM) | 3:17 | 2025-09-11 |  |
 | [SWEAT!](https://open.spotify.com/track/6Qab7nnQ1JLtpvSvkzB07q) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [SWEAT!](https://open.spotify.com/album/3cKyGMHm0XKQN5Bvx4l0Vu) | 2:39 | 2024-11-22 | 2025-03-04 |
 | [Sweetheart](https://open.spotify.com/track/5RNmbFUSiWxdLq8SiJhQXu) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Equals](https://open.spotify.com/album/2yobtVPdvXpjv5oYzCX46V) | 3:22 | 2024-10-22 | 2025-01-29 |
 | [Switch On Em](https://open.spotify.com/track/4ZPU9Q0rSQLO4NZ3Wl6ivr) | [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Switch On Em](https://open.spotify.com/album/4rL8IlLaGiexJNReOAGWWb) | 3:05 | 2025-07-11 |  |

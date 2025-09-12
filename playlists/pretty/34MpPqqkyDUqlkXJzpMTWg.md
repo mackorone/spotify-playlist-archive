@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/34MpPqqkyDUqlkXJzpMTWg.md) - [plain]
 
 > Them: So sad Summer is over..\. Me: Listening to Autumn music all day
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 26,998 likes - 88 songs - 4 hr 57 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 26,996 likes - 88 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/34MpPqqkyDUqlkXJzpMTWg.md) - [plain]
 | 87 | [I'll Be Waiting](https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting](https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR) | 2:52 |
 | 88 | [Can’t Fix Repeaters](https://open.spotify.com/track/79tQAvTMbRJagvWymtCMoR) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Can’t Fix Repeaters](https://open.spotify.com/album/0vbzibfVL5zJevWN13xbxY) | 3:21 |
 
-Snapshot ID: `AAA8T6UWikv0NJ1ELkl5mLXdEnmOupRc`
+Snapshot ID: `AAA8UfzWiS/rBSD3TT/+RmHMK9S/V20q`

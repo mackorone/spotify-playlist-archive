@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Charley Crockett
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,808 likes - 169 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,845 likes - 169 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 10 | [Piece Of Mind](https://open.spotify.com/track/1rwtU3nXaJHbB4Huhhu76B) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Piece Of Mind](https://open.spotify.com/album/2RplU3FlrnOESRCWR6lu4I) | 3:52 |
 | 11 | [Tennessee](https://open.spotify.com/track/7l9mIuhLAQJzvpoibPU2bE) | [The Creekers](https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i) | [River Rat](https://open.spotify.com/album/1B1uV1TfiwBFxKSJBakP8Z) | 3:51 |
 | 12 | [Save Your Tears](https://open.spotify.com/track/4vpGFbrj3JDGwxFDdisFcg) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Who Wants to Talk About Love?](https://open.spotify.com/album/5jqRoaJWRJjiYTHWhBA6jE) | 2:26 |
-| 13 | [Going Solo](https://open.spotify.com/track/5fRRtJ57QoPYsPYLAsTb5U) | [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt), [John Butler](https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR) | [PRISM](https://open.spotify.com/album/7hs6LrNQDVwx1e0pwamcIZ) | 4:51 |
+| 13 | [Going Solo](https://open.spotify.com/track/5fRRtJ57QoPYsPYLAsTb5U) | [John Butler](https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR), [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [PRISM](https://open.spotify.com/album/7hs6LrNQDVwx1e0pwamcIZ) | 4:51 |
 | 14 | [Should I Go Missing](https://open.spotify.com/track/1AoSjGn4UxOoUnoDIfrq9V) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Something More Than Free \(10 Year Anniversary Edition\)](https://open.spotify.com/album/6A0bAjzeIl7JYaxDru9sj1) | 4:43 |
 | 15 | [Reverend \(feat\. Billy Strings\)](https://open.spotify.com/track/0XxrvPXoMCePCYr0icUdJk) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Reverend \(feat\. Billy Strings\)](https://open.spotify.com/album/2lMtrArg7d3Oed4h6j35WQ) | 5:47 |
 | 16 | [For the First Time](https://open.spotify.com/track/2eTnZEDxXO1bZhudGX7Xw3) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [For the First Time](https://open.spotify.com/album/3bY5ENBrcf8t8G5M4sFOm3) | 3:30 |

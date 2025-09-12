@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,232 songs - 4 day 23 hr 37 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,233 songs - 4 day 23 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2240,5 +2240,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2230 | [Swimming Pools \(Drank\)](https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Swimming Pools \(Drank\)](https://open.spotify.com/album/2XPrwlaAHHXnJzP9tBcIzH) | 4:07 |
 | 2231 | [Don't Stop](https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Don't Stop](https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O) | 3:16 |
 | 2232 | [Beat Keep Rockin'](https://open.spotify.com/track/11RXJgrGmyPJEtbOJ9ZFYQ) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Beat Keep Rockin'](https://open.spotify.com/album/6qIpC1zUZJ1DqFbyMcQT6q) | 3:03 |
+| 2233 | [Overdose Casino](https://open.spotify.com/track/2Jo8S2QobFP9YOFPQlCCjT) | [Alex Peipman](https://open.spotify.com/artist/0ByI8JEqWvjZbEBuvpVnNv) | [BUCKSHOT ROULETTE VOL\. II](https://open.spotify.com/album/698NkJsxClGC6BeKRYRc0A) | 3:29 |
 
-Snapshot ID: `AAAEqo6IkzRM4tpCJmOKYTyi7NeWS7Ca`
+Snapshot ID: `AAAEq8phGqiV66DDS3UMCYGSIBYMiL5a`

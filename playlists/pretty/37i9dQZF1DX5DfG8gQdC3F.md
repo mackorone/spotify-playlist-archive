@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Justin Bieber, Drake & PARTYNEXTDOOR, Lady Gaga, Calvin Harris & Jessie Reyez,  Goldie Boutilier and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,323 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,381 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 69 | [Feel Free](https://open.spotify.com/track/7vI8yJI3tfFe8HDaus3Icl) | [Zach McPhee](https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN) | [Feel Free](https://open.spotify.com/album/05iuk1LdHKBkC90HLbminy) | 3:00 |
 | 70 | [Make A Liar](https://open.spotify.com/track/2pZ1fFixYIRvtrJlP7uQz1) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Make A Liar](https://open.spotify.com/album/550Nkv62JLHzZ91cWpkVYL) | 3:06 |
 | 71 | [Espíritu Temba](https://open.spotify.com/track/0e2X6e8QajU1wxS6Ygeqtt) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Roberto Vizcaino Jr](https://open.spotify.com/artist/3zWzGGQeplvuqwgvz5lAOj) | [Espíritu Temba](https://open.spotify.com/album/3oq4NMvgsC8puPJTJV69H8) | 2:55 |
-| 72 | [WHISKEY RAIN \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/4msu2MSyuD5N52U6qo2c9V) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [WHISKEY RAIN \(feat\. Tyler Hubbard\)](https://open.spotify.com/album/3vHELzGjnuLo1NiSILFKqr) | 2:42 |
+| 72 | [WHISKEY RAIN \- feat\. Tyler Hubbard](https://open.spotify.com/track/4msu2MSyuD5N52U6qo2c9V) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [WHISKEY RAIN \(feat\. Tyler Hubbard\)](https://open.spotify.com/album/3vHELzGjnuLo1NiSILFKqr) | 2:42 |
 | 73 | [COLLECTION PLATES \(feat\. Young Chris\)](https://open.spotify.com/track/2yMsHFOcZy9m7Tcjc0gaer) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Young Chris](https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1) | [COLLECTION PLATES \(feat\. Young Chris\)](https://open.spotify.com/album/5QVcCcyJJVeH1qiw5maq1Z) | 4:30 |
 | 74 | [Abyss \(w/ Baby Jane\)](https://open.spotify.com/track/6jXCTU6asnXjWwIhX0eyPF) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Abyss \(w/ Baby Jane\)](https://open.spotify.com/album/0Gct28SqUuJ7oAfHOq2fYx) | 2:52 |
 | 75 | [Love language](https://open.spotify.com/track/7ps2R27n2YEP8SRsRaXkqA) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Love language](https://open.spotify.com/album/3iV0gdLkvnoN6Ba58iNWAN) | 2:46 |

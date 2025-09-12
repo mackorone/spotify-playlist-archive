@@ -1,12 +1,12 @@
 {
   "description": "This is J\u00e3o. The essential tracks, all in one playlist.",
-  "num_followers": 206025,
+  "num_followers": 206015,
   "original_name": "This Is J\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL9uAAAAAAA3Pts7MYcRFxKdcvlm72DU",
+  "snapshot_id": "aMC/gAAAAABDUeNQDy57CvqxrE9MPYzA",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 181234,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/6LVzmx8BF8BFsqnpYKx3C5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ANTI-HER\u00d3I",
         "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
       },
@@ -407,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPER",
-        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
       },
       "artists": [
         {
@@ -416,9 +400,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 118466,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/7j5iKo6swq5W6iwF91xbbP"
+      "duration_ms": 181234,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/6LVzmx8BF8BFsqnpYKx3C5"
     },
     {
       "added_at": null,
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
       },
       "artists": [
         {
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 278557,
-      "name": "Locadora (Vers\u00e3o Estendida)",
-      "url": "https://open.spotify.com/track/2GgZbWe0ytQ7Uu0rglxBqX"
+      "duration_ms": 118466,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/7j5iKo6swq5W6iwF91xbbP"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 219634,
       "name": "Enquanto Me Beija",
       "url": "https://open.spotify.com/track/0EsftWIxQKCoCz5HZtlpkW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 278557,
+      "name": "Locadora (Vers\u00e3o Estendida)",
+      "url": "https://open.spotify.com/track/2GgZbWe0ytQ7Uu0rglxBqX"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louquinho",
-        "url": "https://open.spotify.com/album/3ibAprngolKW66RngB6cBs"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 176556,
-      "name": "Louquinho",
-      "url": "https://open.spotify.com/track/3lEfEePgxGH2WwsB5fHC1K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ANTI-HER\u00d3I",
         "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 179446,
       "name": "Triste Pra Sempre",
       "url": "https://open.spotify.com/track/3n7ZwCXQUZekntN3f7dzwD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Louquinho",
+        "url": "https://open.spotify.com/album/3ibAprngolKW66RngB6cBs"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 176556,
+      "name": "Louquinho",
+      "url": "https://open.spotify.com/track/3lEfEePgxGH2WwsB5fHC1K"
     },
     {
       "added_at": null,

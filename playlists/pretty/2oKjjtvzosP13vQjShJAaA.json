@@ -1,12 +1,12 @@
 {
   "description": "w\u00f6chentliche handverlesene empfehlungen des archivs. no industry bs",
-  "num_followers": 942,
+  "num_followers": 945,
   "original_name": "die hip hop empfehlung",
   "owner": {
     "name": "hiphoparchiv",
     "url": "https://open.spotify.com/user/31kxwkf6wpyxxr2lxdsndxes7d3q"
   },
-  "snapshot_id": "AAAAmcR6rxS1tpvl9trfGlLMn2yMYhNH",
+  "snapshot_id": "AAAAnAmY2uyKPxNjYArx4Vrs9IE6cIA5",
   "tracks": [
     {
       "added_at": "2025-09-09 10:51:05",
@@ -35,6 +35,22 @@
       "duration_ms": 195000,
       "name": "Glam Life",
       "url": "https://open.spotify.com/track/7M2uEtGTwbnZo6CBxug6TA"
+    },
+    {
+      "added_at": "2025-09-11 20:41:28",
+      "album": {
+        "name": "Die verh\u00e4rtete Epidermis (abgelehnt)",
+        "url": "https://open.spotify.com/album/7mAYfMMQU6gMfngm7lZx7f"
+      },
+      "artists": [
+        {
+          "name": "helmuth",
+          "url": "https://open.spotify.com/artist/4HIT0I8KzbTN5TuUcV60GG"
+        }
+      ],
+      "duration_ms": 101543,
+      "name": "Die verh\u00e4rtete Epidermis (abgelehnt)",
+      "url": "https://open.spotify.com/track/5SfCfIVfAWbArSQkUeazib"
     },
     {
       "added_at": "2025-09-04 22:11:31",
@@ -339,66 +355,6 @@
       "duration_ms": 183200,
       "name": "Generational Trauma",
       "url": "https://open.spotify.com/track/5cwYdsxPjum78GCdsH3FfJ"
-    },
-    {
-      "added_at": "2025-08-28 22:08:27",
-      "album": {
-        "name": "Spie\u00dfer",
-        "url": "https://open.spotify.com/album/3YeqAw8ReYJTmHeG3XY6Rq"
-      },
-      "artists": [
-        {
-          "name": "Mc Smook",
-          "url": "https://open.spotify.com/artist/6wsjNADP7oFba0tf4UywrP"
-        },
-        {
-          "name": "helmuth",
-          "url": "https://open.spotify.com/artist/4HIT0I8KzbTN5TuUcV60GG"
-        }
-      ],
-      "duration_ms": 217605,
-      "name": "Spie\u00dfer",
-      "url": "https://open.spotify.com/track/1brOArnxwTo0P7X4RkzRVH"
-    },
-    {
-      "added_at": "2025-08-28 22:08:50",
-      "album": {
-        "name": "Peter Pan Freestyle",
-        "url": "https://open.spotify.com/album/1a2vixgIxG8dWkTK3uDMlE"
-      },
-      "artists": [
-        {
-          "name": "Yaw Herra",
-          "url": "https://open.spotify.com/artist/0fXGcMbfHhutkOn5CFtD97"
-        },
-        {
-          "name": "JACE",
-          "url": "https://open.spotify.com/artist/3MEdIhw0C1WCzoIPxtifZ2"
-        },
-        {
-          "name": "DJ PhilHeat",
-          "url": "https://open.spotify.com/artist/1UuU2SmtMBxsbv7ri5deRU"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Peter Pan Freestyle",
-      "url": "https://open.spotify.com/track/7EN1a8XLlnb0NcH2EEW8lZ"
-    },
-    {
-      "added_at": "2025-08-29 11:08:54",
-      "album": {
-        "name": "Warum",
-        "url": "https://open.spotify.com/album/4GUhGCU2horOzmGR3NNsM9"
-      },
-      "artists": [
-        {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
-        }
-      ],
-      "duration_ms": 149370,
-      "name": "Warum",
-      "url": "https://open.spotify.com/track/49QKqatCdfMIoOhx3Xt2Sn"
     }
   ],
   "unique_name": "die hip hop empfehlung",

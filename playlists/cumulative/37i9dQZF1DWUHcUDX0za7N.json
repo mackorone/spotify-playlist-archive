@@ -5367,6 +5367,28 @@
     },
     {
       "album": {
+        "name": "Healers Chapel",
+        "url": "https://open.spotify.com/album/26EFuAiv2fxVd44jxz9oHN"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        },
+        {
+          "name": "Boma Nime",
+          "url": "https://open.spotify.com/artist/2tkw8FFnCrgenakG7wml4B"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Healers Chapel",
+      "url": "https://open.spotify.com/track/1toGWaj2vdYFyoJCgoan24"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
       },
@@ -6201,6 +6223,28 @@
     },
     {
       "album": {
+        "name": "I, Became",
+        "url": "https://open.spotify.com/album/2SgTeyciuLPYVjoub225zM"
+      },
+      "artists": [
+        {
+          "name": "Mack H.D",
+          "url": "https://open.spotify.com/artist/0IUp0l21VlpoOz8525KfAJ"
+        },
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169482,
+      "name": "Ji Jo Mi",
+      "url": "https://open.spotify.com/track/5fQuG6aDMyfQ18iMMmJpLY"
+    },
+    {
+      "album": {
         "name": "Unruly",
         "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
       },
@@ -6496,7 +6540,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 122068,
       "name": "KOMOLE",
       "url": "https://open.spotify.com/track/2xrb6kn0KcNbLg4eUXxzZe"
@@ -8676,7 +8720,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 141052,
       "name": "O.U.A.T",
       "url": "https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn"
@@ -11392,7 +11436,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 186352,
       "name": "Space",
       "url": "https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN"

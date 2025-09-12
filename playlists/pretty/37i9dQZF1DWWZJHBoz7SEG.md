@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Inicia Septiembre y Tony Aguirre nos regala serotonina para vivirla esta semana 🙌🏼
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049,312 likes - 65 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049,550 likes - 65 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -379,6 +379,24 @@
     },
     {
       "album": {
+        "name": "All Good Things (Come To An End)",
+        "url": "https://open.spotify.com/album/16WYdUkvGzVQpbH4RdcSVe"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134918,
+      "name": "All Good Things (Come To An End)",
+      "url": "https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX"
+    },
+    {
+      "album": {
         "name": "All Night (feat. Ally Brooke) [Zero Days Remix]",
         "url": "https://open.spotify.com/album/6dzGmVKEVKh75gfQyRZEOt"
       },
@@ -1228,7 +1246,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 222580,
       "name": "Behind Enemy Lines",
       "url": "https://open.spotify.com/track/0r3hUPdNI7fhxCyFpJbsYX"
@@ -1290,6 +1308,28 @@
       "duration_ms": 161049,
       "name": "Bergen - Frontliner Remix",
       "url": "https://open.spotify.com/track/3H9KW14Jjw8erGMiRpdBXx"
+    },
+    {
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/0YjzlHiQcyr1XKDE9UAmoi"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217161,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/4Klqg0c57uvGY24rlrEDi3"
     },
     {
       "album": {
@@ -1716,7 +1756,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 196576,
       "name": "Boom Boom Boom",
       "url": "https://open.spotify.com/track/1WbQ96o7shECYjvEsRhvUV"
@@ -3256,6 +3296,36 @@
       "duration_ms": 227612,
       "name": "Control Your Mind",
       "url": "https://open.spotify.com/track/0kZLs9gb3tWP8ljQVLz5eY"
+    },
+    {
+      "album": {
+        "name": "Cornflakes",
+        "url": "https://open.spotify.com/album/1lxsotpRESvh43wXTaHSfV"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167531,
+      "name": "Cornflakes",
+      "url": "https://open.spotify.com/track/0srjHiMVx5GWL3nIK6Gf56"
     },
     {
       "album": {
@@ -16668,7 +16738,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 226583,
       "name": "Symphony Of Life",
       "url": "https://open.spotify.com/track/1v5FsB6y2kNrLVjtQuuKE8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Nina Chuba, Lady Gaga, Hava und Dardan, und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,007 likes - 89 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,158 likes - 89 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 88 | [Fuego](https://open.spotify.com/track/3QML1KPPD58a1mihUM0sa3) | [Pietro Lombardi](https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0) | [Fuego](https://open.spotify.com/album/3xire5P41qzdRGPUMmV51t) | 2:46 |
 | 89 | [qué triste, qué desastre \(bolero\)](https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [nomeolvides](https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT) | 2:59 |
 
-Snapshot ID: `AAAAAIQK9rO05yEuXVANeWI/ODjRNSSe`
+Snapshot ID: `AAAAALOFuYzz5M0ZjXW/vRnwmLrZn5O9`

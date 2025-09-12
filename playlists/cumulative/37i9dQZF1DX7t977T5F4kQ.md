@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest and recent Ghana party starters\. Cover: Sista Afia
+> The hottest and recent Ghana party starters\. Cover: Bisa Kdei
 
-547 songs - 1 day 4 hr 17 min
+549 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Gangalia](https://open.spotify.com/track/0BBb5pPkfSWpf6HjEM398B) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Gangalia](https://open.spotify.com/album/5ZGwOAQ8uKjQ1MtOrTaFpQ) | 3:48 | 2023-12-15 | 2024-11-29 |
 | [Gbemidebe](https://open.spotify.com/track/7GnTsvc6WXJLnc94DT8wCG) | [Demmi](https://open.spotify.com/artist/2lF5l1MCyqNj4WyBE4Jopk), [The Ganyo](https://open.spotify.com/artist/1XRErztmwGC9jKhzkxLlJx) | [Dawn](https://open.spotify.com/album/6zJfi1Ey442LFULpxma6vS) | 2:28 | 2023-12-15 | 2024-01-13 |
 | [Gboza](https://open.spotify.com/track/6K9kZQF9mugqUJ47BWf1jL) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Gboza](https://open.spotify.com/album/1xdEbTrHZcaRKs3gjLFVQ5) | 3:19 | 2022-11-04 | 2024-03-22 |
+| [Gidi Gidi \(Fire\)](https://open.spotify.com/track/0YLPRdCGijKvQZwIcNQz5k) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [THE TORCHER](https://open.spotify.com/album/0qkEheVRbwNHB4KIGDOpLT) | 3:10 | 2025-09-11 |  |
 | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/track/3UH3DZZNIuUZ78VE2jDsO7) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/album/0S6gW0pMAIxyt7yRvw6Qnw) | 2:53 | 2022-11-04 | 2024-03-15 |
 | [Ginger](https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Ginger](https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5) | 3:33 | 2022-11-04 | 2023-09-22 |
 | [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 | 2022-11-04 | 2024-03-08 |
@@ -224,7 +225,7 @@
 | [Habit](https://open.spotify.com/track/1NtUT0I0TUPZB6OrN4dbkc) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Habit](https://open.spotify.com/album/6c98Q6htS2zxyjaPT8vrJS) | 2:53 | 2025-08-29 |  |
 | [Happy](https://open.spotify.com/track/4RtRtgj4a0UzipVkInF9Xd) | [Dr Cryme](https://open.spotify.com/artist/26HlCKbXpF27gFP3AEsVhk) | [Happy](https://open.spotify.com/album/255TlgzhDs5gF0grRyW7Sl) | 2:51 | 2023-01-27 | 2023-02-04 |
 | [Happy Day](https://open.spotify.com/track/08KL8wr8okqHoP10rTU5E0) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW) | [Happy Day](https://open.spotify.com/album/0vpAjyDr9fB2yoImBMkSci) | 2:19 | 2023-06-16 | 2023-07-08 |
-| [Heard You Trouble](https://open.spotify.com/track/4V15KWJkRLnlLOH50K73AL) | [G\-West](https://open.spotify.com/artist/39utnMndFEvTgT6ldinEaJ) | [Heard You Trouble](https://open.spotify.com/album/3yj8UL3JnT7wlYhVoQBML0) | 2:59 | 2025-08-22 |  |
+| [Heard You Trouble](https://open.spotify.com/track/4V15KWJkRLnlLOH50K73AL) | [G\-West](https://open.spotify.com/artist/39utnMndFEvTgT6ldinEaJ) | [Heard You Trouble](https://open.spotify.com/album/3yj8UL3JnT7wlYhVoQBML0) | 2:59 | 2025-08-22 | 2025-09-12 |
 | [Heart](https://open.spotify.com/track/2HNTbsyt01LxsNYt4KT34x) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Heart](https://open.spotify.com/album/2rm4WeokJysZbUES74Uray) | 3:00 | 2023-12-08 | 2023-12-15 |
 | [HEAT](https://open.spotify.com/track/2thpkCc0YtkCVn88jou50k) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [HEAT](https://open.spotify.com/album/10AAcdwwkQWzJMPTBhrEb2) | 2:20 | 2025-08-22 |  |
 | [HEAT](https://open.spotify.com/track/2y2624vyJUEGPI7Z7ID9mE) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [HEAT](https://open.spotify.com/album/55aVLKNu4SXkHLgiEFBUAb) | 3:24 | 2024-11-08 | 2025-04-08 |
@@ -417,6 +418,7 @@
 | [Ready](https://open.spotify.com/track/3DT98kqCAgabEvAbRJm5XE) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Ready](https://open.spotify.com/album/52r1OxCOpkRN68ZO4DO5xV) | 2:21 | 2024-01-26 | 2024-05-24 |
 | [Real Thing](https://open.spotify.com/track/2FkPTIoTRM5oF0IzqdOp9e) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Real Thing](https://open.spotify.com/album/3eBBdUae9jnILYuCweK1yA) | 2:28 | 2025-08-08 |  |
 | [Reggae](https://open.spotify.com/track/2KmDY8HnTtvQb8bDoJpfIH) | [Gonaboy](https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s) | [Reggae](https://open.spotify.com/album/7iiwo2OJGz1Fzt5ZxvRXy6) | 2:17 | 2024-10-12 | 2024-10-26 |
+| [Regina](https://open.spotify.com/track/1Ui0xx3VTUadgqBTSJCX2s) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Regina](https://open.spotify.com/album/6cs1GRqLaDIi7k2P4vHtbR) | 3:03 | 2025-09-11 |  |
 | [Repetez](https://open.spotify.com/track/4H3hMQ4jgHsffWtjrHNM9E) | [Shaker](https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj), [Endurance Grand](https://open.spotify.com/artist/2HyYQOikaNF11zkyUGf8SO) | [Repetez](https://open.spotify.com/album/2VOtcbAhsw7OMTO9C4JIFM) | 3:23 | 2025-04-04 | 2025-04-12 |
 | [Ride](https://open.spotify.com/track/60oKfOdsaHDve38dnEKTpA) | [NYA](https://open.spotify.com/artist/3cS8BydyVh7TR09iyKXhZH) | [Euphoria \- Vol\. 3 : Noir Tales](https://open.spotify.com/album/1oPj4fcTkKIb0ypftYNXIw) | 3:01 | 2023-07-14 | 2023-07-29 |
 | [Ride or Die](https://open.spotify.com/track/5hyZCXXu0RFA5bMnIVOI36) | [Eno Barony](https://open.spotify.com/artist/4tfgIbOiIFCXPEK3PwdBSN), [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Ride or Die](https://open.spotify.com/album/4DGELzZap9GFL5wuPaEPIo) | 2:57 | 2024-09-06 | 2024-10-01 |
@@ -467,7 +469,7 @@
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2022-11-04 | 2024-03-15 |
 | [Sophia](https://open.spotify.com/track/60836fFuqabzSTVWykb2YC) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Sophia](https://open.spotify.com/album/33MnqYooSC2VMMQrL6S0Au) | 3:07 | 2022-11-04 | 2023-02-24 |
 | [Special Love](https://open.spotify.com/track/3tDxbwxI0ekIlubIuqvH97) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Special Love](https://open.spotify.com/album/1szceHagQSVd8xb31fOoPo) | 2:46 | 2024-08-25 | 2024-10-26 |
-| [Status Quo](https://open.spotify.com/track/5TxlECIHTRbNlxdMczxIU5) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Against All Odds](https://open.spotify.com/album/02txQEiCHuBynfAWsUQQcM) | 4:36 | 2025-08-29 |  |
+| [Status Quo](https://open.spotify.com/track/5TxlECIHTRbNlxdMczxIU5) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Against All Odds](https://open.spotify.com/album/02txQEiCHuBynfAWsUQQcM) | 4:36 | 2025-08-29 | 2025-09-12 |
 | [Stay with Me](https://open.spotify.com/track/3bUPd3asMBo6vSCgCcbDjv) | [Yaw Darling](https://open.spotify.com/artist/5Evs57zwRolR6QHb2qeYwv) | [Stay with Me](https://open.spotify.com/album/21AMrY6iEhov73JUYXDVO1) | 2:38 | 2024-02-09 | 2024-03-01 |
 | [Su Mo Mi](https://open.spotify.com/track/2VP9RsnRRp1UX8BagWcZkY) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Su Mo Mi](https://open.spotify.com/album/4UYe6cZPLs6rTSl6F8ZNI4) | 3:24 | 2022-12-08 | 2023-04-09 |
 | [Suffer Suffer](https://open.spotify.com/track/1FEwkFQFOxdJLngkH7Jgao) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Suffer Suffer](https://open.spotify.com/album/3ZmxhUBvoUgzHbDh4xfmDq) | 2:50 | 2023-02-23 | 2023-03-11 |

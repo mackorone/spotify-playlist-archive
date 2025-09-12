@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,701 likes - 90 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,263 likes - 90 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 89 | [Comme des garçons](https://open.spotify.com/track/31jkFJNYpRwu0Uq9xpqe7a) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Comme des garçons](https://open.spotify.com/album/2SwOfbQwIqvEB71eXqCc4p) | 2:35 |
 | 90 | [Fire Meet Gasoline](https://open.spotify.com/track/2akkzRZ5HADuMZ03TlyxSR) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 4:01 |
 
-Snapshot ID: `AAAAAJF1U0Pk3Denx1Yj64rhN7sJ3n4f`
+Snapshot ID: `AAAAAPLsGmdhZB+iiZjMdvdp6af6O6jJ`

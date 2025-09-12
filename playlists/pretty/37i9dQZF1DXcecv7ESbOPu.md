@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Justin Bieber, Håkan Hellström, Lady Gaga, Lov1 med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,040 likes - 110 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,043 likes - 110 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 109 | [Wale Wale \(feat\. Sofiya Nzau\)](https://open.spotify.com/track/3gf2xwSXTOTnvVz7VjzbgE) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wale Wale \(feat\. Sofiya Nzau\) \[WITH U Remix \- Radio Edit\]](https://open.spotify.com/album/189nxvsd30cgk6lWXrtrXV) | 3:28 |
 | 110 | [4Life](https://open.spotify.com/track/4LeniRFvwcdR2PSBfSuAxA) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [4Life](https://open.spotify.com/album/7jn2X2VAW52JXzShOYTkcJ) | 3:02 |
 
-Snapshot ID: `AAAAAFvNrUOZZ2QLKVu3X8SUEU8n3akm`
+Snapshot ID: `AAAAAEsj8+2D4Y08AB3Uxk4Hw/rpmsLw`

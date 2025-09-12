@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 李千娜 \(Nana Lee\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,977 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,982 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 13 | [沒有如果](https://open.spotify.com/track/7mCoqI2KBUYN3cjzVO5Vts) | [ECHORA](https://open.spotify.com/artist/4YttcexiK8XuXXxQVrA1dC), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [如果我是外星人你會愛我嗎？](https://open.spotify.com/album/71uG7DE1weyiox68UmCHg4) | 2:32 |
 | 14 | [最會裝沒事的人](https://open.spotify.com/track/3rsHzGmkNxgw65ywJRvaWy) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8), [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [最會裝沒事的人](https://open.spotify.com/album/4iAKZJD5Wl2NqYqXI98ueX) | 4:12 |
 | 15 | [Lydia](https://open.spotify.com/track/2N8gMndIjTiOP8p4wGY8JS) | [ECHORA](https://open.spotify.com/artist/4YttcexiK8XuXXxQVrA1dC), [阿布絲・塔娜比瑪](https://open.spotify.com/artist/4mxP6XgX0kUYlpKlcOHVGx) | [Lydia](https://open.spotify.com/album/3bNaZ13d5nHBzKMw9TXtBz) | 4:03 |
-| 16 | [基隆路二段](https://open.spotify.com/track/4EbvpKA9z8TWSamgJ1vuUE) | [PiA吳蓓雅](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD) | [基隆路二段](https://open.spotify.com/album/6v6Pk9Yr10KLXZOvRzOzWa) | 4:47 |
+| 16 | [基隆路二段](https://open.spotify.com/track/4EbvpKA9z8TWSamgJ1vuUE) | [PiA吳蓓雅](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD) | [基隆路二段](https://open.spotify.com/album/6v6Pk9Yr10KLXZOvRzOzWa) | 4:43 |
 | 17 | [cold.](https://open.spotify.com/track/1q0J313GngZkIUlI47e8iU) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [cold.](https://open.spotify.com/album/0QUc88IhquEmqzhEoAncKH) | 2:19 |
 | 18 | [Another Star](https://open.spotify.com/track/2NUYbGvlCyvGzxo7OWQwmd) | [薛詒丹](https://open.spotify.com/artist/4sbZb3GwHmK7Ou1PVA4U5z) | [Another Star](https://open.spotify.com/album/3REEAsk4IqQA1RXbkVfO7o) | 4:06 |
 | 19 | [銀河系的你](https://open.spotify.com/track/4yZYWc5tOphERAsXpUMMgW) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [銀河系的你](https://open.spotify.com/album/0b1MA7UKRnDb4iZXzFIf4K) | 3:29 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 ### [Afro Station](https://open.spotify.com/playlist/37i9dQZF1DX6036iaZ2MYP)
 
-> Tracks popping off in the Afro scene\. Cover: Shallipopi
+> Tracks popping off in the Afro scene\. Cover: Skales
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,935 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,043 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [À l'occasion de rien](https://open.spotify.com/track/38g4aaq5geRW9RnpQcIUh9) | [Noémie](https://open.spotify.com/artist/6I4Y1OpnBcs0srZPVBGAxO), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [À l'occasion de rien](https://open.spotify.com/album/6caz3Z13sfEp5JjfEjxSJu) | 2:43 |
 | 50 | [Terrou\-Bi](https://open.spotify.com/track/5WIxPUyr1aXo0vaMzJuYDQ) | [Barack Adama](https://open.spotify.com/artist/5nzb4lFHogGWcsd9njLT0M), [Iss 814](https://open.spotify.com/artist/5jjWuqXWea7SmWxUpEWC22) | [Terrou\-Bi](https://open.spotify.com/album/4gBWh8qRUimFfuZfuMHtVE) | 2:22 |
 
-Snapshot ID: `AAAAAH0SZskl5wi1AYVbWeL5pmYI3zHL`
+Snapshot ID: `AAAAAFfM2Tf58R63/tC//h8IupF9bYA+`

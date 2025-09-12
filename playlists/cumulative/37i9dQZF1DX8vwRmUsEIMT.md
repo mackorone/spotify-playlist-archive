@@ -2,7 +2,7 @@
 
 ### [All New All Now](https://open.spotify.com/playlist/37i9dQZF1DX8vwRmUsEIMT)
 
-> All the new music you need to hear right now\. Cover: Lady Gaga
+> All the new music you need to hear right now\. Cover: JADE
 
 3,198 songs - 7 day 4 hr 57 min
 

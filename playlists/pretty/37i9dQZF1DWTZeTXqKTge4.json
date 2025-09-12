@@ -6,28 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI7fZ+J48IRsX7nrEHuYBHHR+dKt",
+  "snapshot_id": "AAAAAL9m5VCKlV72lMT6cXE3G01DJoFI",
   "tracks": [
-    {
-      "added_at": "2025-09-05 14:56:16",
-      "album": {
-        "name": "L\u00e0-Haut",
-        "url": "https://open.spotify.com/album/5SZ6wibOoBaHTiGEPa5BkP"
-      },
-      "artists": [
-        {
-          "name": "Die-On",
-          "url": "https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3"
-        },
-        {
-          "name": "Tel Kel",
-          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
-        }
-      ],
-      "duration_ms": 162833,
-      "name": "L\u00e0-Haut",
-      "url": "https://open.spotify.com/track/5qzw9Yko1Ivx3uR3USddLN"
-    },
     {
       "added_at": "2025-08-22 00:01:27",
       "album": {
@@ -55,6 +35,94 @@
       "duration_ms": 243077,
       "name": "Suis mes pas",
       "url": "https://open.spotify.com/track/0fREnZJi7nuyRaFEtK9aTw"
+    },
+    {
+      "added_at": "2025-09-11 20:45:45",
+      "album": {
+        "name": "BENDOVA (avec Fl\u00e9au Dicaprio)",
+        "url": "https://open.spotify.com/album/6gYb5rH8a5hHIHiqJuuh6f"
+      },
+      "artists": [
+        {
+          "name": "Cruzito",
+          "url": "https://open.spotify.com/artist/4StDLRKg8Jtp0qmE35907p"
+        },
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "duration_ms": 173358,
+      "name": "BENDOVA (avec Fl\u00e9au Dicaprio)",
+      "url": "https://open.spotify.com/track/0SwxIlHL7HyCBEEVjIHFeQ"
+    },
+    {
+      "added_at": "2025-09-11 20:45:45",
+      "album": {
+        "name": "Papier",
+        "url": "https://open.spotify.com/album/6cllGkRCsmNkqe3DyPEBjl"
+      },
+      "artists": [
+        {
+          "name": "MikeZup",
+          "url": "https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk"
+        }
+      ],
+      "duration_ms": 135656,
+      "name": "Papier",
+      "url": "https://open.spotify.com/track/4P4lfMiVOQP28OGa81BHOg"
+    },
+    {
+      "added_at": "2025-09-05 14:56:16",
+      "album": {
+        "name": "L\u00e0-Haut",
+        "url": "https://open.spotify.com/album/5SZ6wibOoBaHTiGEPa5BkP"
+      },
+      "artists": [
+        {
+          "name": "Die-On",
+          "url": "https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3"
+        },
+        {
+          "name": "Tel Kel",
+          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
+        }
+      ],
+      "duration_ms": 162833,
+      "name": "L\u00e0-Haut",
+      "url": "https://open.spotify.com/track/5qzw9Yko1Ivx3uR3USddLN"
+    },
+    {
+      "added_at": "2025-09-11 20:45:45",
+      "album": {
+        "name": "Sourire Mesquin",
+        "url": "https://open.spotify.com/album/2Gk4fnMesVjzS5TosvW466"
+      },
+      "artists": [
+        {
+          "name": "Rach",
+          "url": "https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n"
+        }
+      ],
+      "duration_ms": 163840,
+      "name": "Sourire Mesquin",
+      "url": "https://open.spotify.com/track/4VlANrjyZRpmqRaHlMOprL"
+    },
+    {
+      "added_at": "2025-09-11 20:45:45",
+      "album": {
+        "name": "F.C.F.L",
+        "url": "https://open.spotify.com/album/1rDFHdKKXOrcLmsgDsTAhc"
+      },
+      "artists": [
+        {
+          "name": "Boutot",
+          "url": "https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh"
+        }
+      ],
+      "duration_ms": 133846,
+      "name": "F.C.F.L",
+      "url": "https://open.spotify.com/track/0GHBw4eFrKNJK8RE1jeuwF"
     },
     {
       "added_at": "2025-08-15 00:01:29",

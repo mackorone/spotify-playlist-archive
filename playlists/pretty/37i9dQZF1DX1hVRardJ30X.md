@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Manuel Turizo, Ela Taubert & Jay Wheeler, Milo j and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,907 likes - 56 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,981 likes - 56 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 12 | [Somos Peligro](https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Somos Peligro](https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ) | 2:59 |
 | 13 | [qué triste, qué desastre \(bolero\)](https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [nomeolvides](https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT) | 2:59 |
 | 14 | [Usame](https://open.spotify.com/track/38wIbM05SFodYw2fwiq5ut) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Usame](https://open.spotify.com/album/2FuMEHblngX534yhdoSkag) | 2:45 |
-| 15 | [Quemar](https://open.spotify.com/track/0BhePps16yvCPaLNKWDMPL) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [](https://open.spotify.com/album/null) | 2:46 |
+| 15 | [Quemar](https://open.spotify.com/track/0BhePps16yvCPaLNKWDMPL) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [Cultura POPular](https://open.spotify.com/album/0dQvwB5CwAKdLgy6BvCF23) | 2:46 |
 | 16 | [ME OLVIDÉ DE LOS DOS](https://open.spotify.com/track/0UX4OC4mTZdFhmq0cnv7VX) | [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [ME OLVIDÉ DE LOS DOS](https://open.spotify.com/album/69ECapQFcIbJLnusOe8Xje) | 2:30 |
 | 17 | [Por Amor](https://open.spotify.com/track/6OiLsc7FEiM9mLwW3W92cz) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Por Amor](https://open.spotify.com/album/1n64N2o7GxBsT700Zqvgor) | 2:16 |
 | 18 | [Kronos "Lukie"](https://open.spotify.com/track/2onoYqZCUxaQjhdbCO0un6) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3) | [Kronos "Lukie"](https://open.spotify.com/album/62XhqsRthICZyivAZmN0QI) | 3:15 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 44 | [CIBELES](https://open.spotify.com/track/4TIePj8AE2txbcqAHxldnD) | [Sergio Ramos](https://open.spotify.com/artist/1nbrjOvQRh3w167UZjjMv4) | [CIBELES](https://open.spotify.com/album/5TeupQ9L12ArCFZk5AewLa) | 2:45 |
 | 45 | [Hojas En El Aire](https://open.spotify.com/track/2xnZOiG4zKn2U1wR3iQqBl) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Hojas En El Aire](https://open.spotify.com/album/2ZczGZDBqSEwNSLh9Ak4Re) | 3:02 |
 | 46 | [Inalcanzable](https://open.spotify.com/track/7pVzMxG8AWgqZAbltLxjGB) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Valdespino](https://open.spotify.com/artist/4gmPWmVobcU0zK2ErrSvJw) | [Inalcanzable](https://open.spotify.com/album/2Ml3uMdJW2Dzub5GkfTSUp) | 2:48 |
-| 47 | [Abanico Sanyo](https://open.spotify.com/track/1oBtRQwxN7DolAzfDXdh7z) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Abanico Sanyo](https://open.spotify.com/album/2JR0uSBvo2f1F96yUxlkCT) | 2:56 |
+| 47 | [ABANICO SANYO](https://open.spotify.com/track/1oBtRQwxN7DolAzfDXdh7z) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [ABANICO SANYO](https://open.spotify.com/album/2JR0uSBvo2f1F96yUxlkCT) | 2:56 |
 | 48 | [Cada Mañana](https://open.spotify.com/track/4hxPUai4jc3r76nbnVR88c) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Cada Mañana](https://open.spotify.com/album/3HklrN7N2hEhOlcDOWJAM9) | 3:21 |
 | 49 | [Arjona](https://open.spotify.com/track/7pHhsG5SuPaZw0Ktof0ix5) | [Jensen](https://open.spotify.com/artist/24tjWCXUAwkLJ6bCvYXIde), [Montelier](https://open.spotify.com/artist/56O28NX1Su8GSYhuNGupjI) | [Arjona](https://open.spotify.com/album/6zf5cQQuhcXeqvnLzmR7aJ) | 3:33 |
 | 50 | [KHALIFA](https://open.spotify.com/track/0xhszCv5LzzlNWFUJlBky3) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [KHALIFA](https://open.spotify.com/album/1IzpYW7JPQWKu3rGkBfUFt) | 4:04 |

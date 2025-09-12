@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Hannah Frances
 
-1,859 songs - 4 day 15 hr 14 min
+1,860 songs - 4 day 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1735,6 +1735,7 @@
 | [Valborg](https://open.spotify.com/track/2r0KoFkARUj3f8EW62RvCo) | [My Dear Companion](https://open.spotify.com/artist/4rCC8N3QkRNz9uoVVNdmnI) | [Valborg](https://open.spotify.com/album/5erMvieWnP1HMuPDMiboNA) | 2:38 | 2025-05-07 | 2025-07-10 |
 | [Vax](https://open.spotify.com/track/2vR3G6MDZ5bgF5BHRTRdPe) | [William Wild](https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor) | [Touchy](https://open.spotify.com/album/6DsY3pJzvg4QMwzULQOSus) | 4:18 | 2025-06-11 |  |
 | [Velvet Blues](https://open.spotify.com/track/2FNJU8ZdNVihctRSmH83il) | [BODHI](https://open.spotify.com/artist/5bHle2xQVzFgtUxLUhTbHt) | [Velvet Blues](https://open.spotify.com/album/1tuHj0atuhVAVujOV9I6Ev) | 3:41 | 2025-04-24 | 2025-07-03 |
+| [Veselka City Lights](https://open.spotify.com/track/05JzBbNuPD4LUKAAbtJhEC) | [Carla dal Forno](https://open.spotify.com/artist/6FVxEgfQsGrJ0BogIOYCd6) | [Veselka City Lights](https://open.spotify.com/album/1RwtQmCgUn36ELW06L5r9A) | 3:55 | 2025-09-10 |  |
 | [Vessel](https://open.spotify.com/track/4gkTNUit67mZlRMadhbMX4) | [Emily Izen Row](https://open.spotify.com/artist/6SV73vTipMWJYYDmHxQKK6) | [Vessel](https://open.spotify.com/album/3wHiVUNd5o031NpArPFgwd) | 4:10 | 2025-05-07 | 2025-07-10 |
 | [Villain](https://open.spotify.com/track/7tbJLOSjSOeq7ZPOuclI2W) | [Caity Krone](https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs) | [Villain](https://open.spotify.com/album/4j3HkXtgfYfRMMb8yIU8OJ) | 3:43 | 2023-09-27 | 2024-01-11 |
 | [Vino](https://open.spotify.com/track/1BtDwiCEJdkLZTNOzy34T0) | [Michael Stevens](https://open.spotify.com/artist/4zhtWLmd8goEurT8obHTJe), [Annamarie Rosanio](https://open.spotify.com/artist/7LtYuMQ3wFY4fGX8Rvq6gD) | [Vino](https://open.spotify.com/album/7rPUkB1LD7HKRZuLWLKrbP) | 4:48 | 2022-11-23 | 2023-03-02 |

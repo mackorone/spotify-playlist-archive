@@ -3087,6 +3087,24 @@
     },
     {
       "album": {
+        "name": "Death Of An Artist",
+        "url": "https://open.spotify.com/album/5QUKxBdh9lSF58pppituER"
+      },
+      "artists": [
+        {
+          "name": "Despised Icon",
+          "url": "https://open.spotify.com/artist/3MjNMjqBpaQ0P8ebfbZjYn"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221746,
+      "name": "Death Of An Artist",
+      "url": "https://open.spotify.com/track/6ezK4zlqlpaJe73ATuiHuQ"
+    },
+    {
+      "album": {
         "name": "Death Perception",
         "url": "https://open.spotify.com/album/1PvmiiUDT5lnYfL1ATCS1Y"
       },

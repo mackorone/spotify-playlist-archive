@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Songs on the Computer",
+        "url": "https://open.spotify.com/album/3GQEX55RfjR9MydqaAflHH"
+      },
+      "artists": [
+        {
+          "name": "Nick Lutsko",
+          "url": "https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137818,
+      "name": "Unleash Your Spirit",
+      "url": "https://open.spotify.com/track/21t9VLX5JNXLgVd2XNRFdq"
+    },
+    {
+      "album": {
         "name": "\"In case I make it,\"",
         "url": "https://open.spotify.com/album/0O6onBuhBVzHtJb9bk4rOV"
       },

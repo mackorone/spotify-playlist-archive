@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-327 songs - 1 day 3 hr 30 min
+328 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Full Av Tomhet](https://open.spotify.com/track/0tOAVxzcetDy2wzrJ0Hmk8) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Bansull](https://open.spotify.com/album/1HhptIM5EglrNcLOtaZXRj) | 3:24 | 2023-03-10 |  |
 | [Fundament \(Part 1\)](https://open.spotify.com/track/0NWuVsxbGEwS4qCiicGxBs) | [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Plasmafuse](https://open.spotify.com/artist/6iYdmg7rSNUKQabi5wzRtN) | [Mörkrets Narr](https://open.spotify.com/album/2VqFfX6U0xOW0Ad58xyfV9) | 7:40 | 2022-01-21 |  |
 | [Fur and Exhaust](https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS) | [Saapato](https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt), [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Decomposition: Fox on a Highway](https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB) | 3:21 | 2025-04-02 |  |
-| [Future Memory](https://open.spotify.com/track/5kiPu9EFwEhzzClpoEtRfQ) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Only Love From Now On](https://open.spotify.com/album/51gBdOcPhuUMKlSTO5CySL) | 5:02 | 2022-03-25 |  |
+| [Future Memory](https://open.spotify.com/track/5kiPu9EFwEhzzClpoEtRfQ) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Only Love From Now On](https://open.spotify.com/album/51gBdOcPhuUMKlSTO5CySL) | 5:02 | 2022-03-25 | 2025-09-12 |
 | [Für Alina](https://open.spotify.com/track/2Lio4KTzsA8BPLhXmyo4CQ) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Alexander Malter](https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH) | [Arvo Pärt: Alina](https://open.spotify.com/album/69iw6Zy6fh2dSnEgBTZKJE) | 10:47 | 2022-07-22 | 2024-04-19 |
 | [Galaxias Marinas](https://open.spotify.com/track/0PpQpnhNATKzPlOnjklGb1) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Neptuno \- Hypnotic Frequencies Vol\. 1](https://open.spotify.com/album/2sMtWzkAFoWsD6ZKhxmiVo) | 4:05 | 2025-01-31 |  |
 | [gates](https://open.spotify.com/track/1L7S9ISZQC1IuEgYGd91v8) | [mindrae.](https://open.spotify.com/artist/1LbrEsKUarj4IL86lbVF4R) | [Mindstorm](https://open.spotify.com/album/08o76ydmfNHnB6VwzlhlrD) | 2:30 | 2023-11-14 | 2025-07-04 |
@@ -159,6 +159,7 @@
 | [Ljusdal](https://open.spotify.com/track/7H6PFuHnGNkoEOwWgwGkuo) | [Marko Nyberg](https://open.spotify.com/artist/5qd3TA4AmPNW90byfRefks) | [Ingrid EP](https://open.spotify.com/album/5WGM2nY7EKogs7tOTnebHi) | 5:08 | 2022-12-30 | 2024-04-19 |
 | [Ljusdal](https://open.spotify.com/track/7xr2Gkl3u6gOVa11PPBr1J) | [Marko Nyberg](https://open.spotify.com/artist/5qd3TA4AmPNW90byfRefks) | [Ingrid EP](https://open.spotify.com/album/5795LZIYAuces2kT5rXibb) | 5:08 | 2022-02-04 | 2022-07-29 |
 | [Loneliness of Earth \(Varg´s Ursviken version\)](https://open.spotify.com/track/4uJiT3ZeO7jgMgPxBRh6zG) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [Loneliness of Earth \(Varg´s Ursviken Version\)](https://open.spotify.com/album/1GUm0mjbKPrBbMrTSFPTYo) | 5:06 | 2022-01-21 | 2023-04-11 |
+| [Lord, Am I Going Down?](https://open.spotify.com/track/7FFtFxUd9FX57DERV5EvcD) | [Mokira](https://open.spotify.com/artist/3rdStJL3GPEj3S5y8zyvn7) | [Persona](https://open.spotify.com/album/1uascUs7BH8nV5WIabVXcT) | 7:38 | 2025-09-04 |  |
 | [Love And The Framed Insects](https://open.spotify.com/track/3uK1I2fCTIvVyRnkcJRuYf) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Mosaic](https://open.spotify.com/album/7FMt32mXfynNCDGwfVa6KN) | 5:54 | 2025-01-31 | 2025-02-14 |
 | [Low Smoulder](https://open.spotify.com/track/7d8ZJaA8vvqu3FoIhGZ73V) | [William Ryan Fritch](https://open.spotify.com/artist/4uKt0y4zMxjivxkjDsT3gl) | [Low Smoulder / Canary](https://open.spotify.com/album/3bUoijDzf8zWf0KfYF1OA1) | 6:26 | 2022-01-21 |  |
 | [Luna](https://open.spotify.com/track/2MEhiY4t1uYcq1MpkNzvWd) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [Luna](https://open.spotify.com/album/03VL92zMZKklDDcd5Js06l) | 6:06 | 2022-03-11 |  |

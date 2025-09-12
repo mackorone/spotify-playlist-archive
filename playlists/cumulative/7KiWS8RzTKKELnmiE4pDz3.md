@@ -4,7 +4,7 @@
 
 > 
 
-1,173 songs - 2 day 11 hr 44 min
+1,174 songs - 2 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,6 +542,7 @@
 | [Kickback](https://open.spotify.com/track/5HtOazXOK8uc3FNRhDClDg) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Kickback](https://open.spotify.com/album/6chHTU4nfoCUxxKiuO2as0) | 1:58 | 2022-06-19 | 2023-05-09 |
 | [KickDoe](https://open.spotify.com/track/7mhfizYrxgcpYq1IQjBZFI) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Can't Tame Us](https://open.spotify.com/album/2Rl6vSmXW8PicPAfxScT87) | 2:04 | 2024-12-29 | 2025-05-21 |
 | [kill em](https://open.spotify.com/track/4QtB7BKYHpFP8xywUyev9g) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [Κankan](https://open.spotify.com/artist/2HfEGAJuiD6uQN7xwPoSgh) | [birds.](https://open.spotify.com/album/372OLql24SIHHbLAZgzoow) | 1:52 | 2022-07-28 | 2023-05-09 |
+| [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 | 2025-09-12 |  |
 | [Kills](https://open.spotify.com/track/0PA5vHHfpUq7HWiMA1y5TN) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Dedication](https://open.spotify.com/album/6UmCAaUrpnYdq0tHqeKiXX) | 2:49 | 2023-08-29 | 2024-11-06 |
 | [KitKat](https://open.spotify.com/track/4ZR9C9Ccf1nmEJN9765N2O) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 2:58 | 2022-12-15 | 2023-05-09 |
 | [KRUSTY KREW ANTHEM \(BACK ON THE GRILL\)](https://open.spotify.com/track/7KbcPfcBMquaJGf4BVesOv) | [Kash Krabs](https://open.spotify.com/artist/2p7jmj2D8qdDkM0dkHXhWP), [Oddwin](https://open.spotify.com/artist/2nLKb5KOTjny5GUxbR8doa), [Sauceward](https://open.spotify.com/artist/56J1JQFJpRFSVdMftVtJjv) | [The Krusty Pack](https://open.spotify.com/album/1jBNhLA91c4XVAEhUtsELd) | 1:52 | 2023-06-24 | 2023-12-14 |

@@ -2,7 +2,7 @@
 
 ### [New Dance Beats](https://open.spotify.com/playlist/37i9dQZF1DXaqIZ7YXxc6o)
 
-> Your weekly dose of new dance\. Cover: Hermitude
+> Your weekly dose of new dance\. Cover: Yes Boone
 
 3,433 songs - 7 day 20 hr 27 min
 

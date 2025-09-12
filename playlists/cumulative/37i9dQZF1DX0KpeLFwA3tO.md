@@ -2,7 +2,7 @@
 
 ### [All New Punk](https://open.spotify.com/playlist/37i9dQZF1DX0KpeLFwA3tO)
 
-> The best new music from the wide world of punk\. Cover: State Champs
+> The best new music from the wide world of punk\. Cover: Speed
 
 2,724 songs - 5 day 16 hr 6 min
 
@@ -1190,7 +1190,7 @@
 | [I'm Insecure](https://open.spotify.com/track/6kHnHk0jlAdYWktT0FQrSN) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [I’m Insecure](https://open.spotify.com/album/0DyvaVIRS4rdXtTcIu5QQi) | 3:42 | 2022-06-02 | 2022-07-08 |
 | [i'm not crying you're crying](https://open.spotify.com/track/2EEBYFmjdsVLmDhXXGLfZi) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [i'm not crying you're crying](https://open.spotify.com/album/1kBr8aY2qHp1JE43Kadnby) | 2:49 | 2022-07-14 | 2022-08-26 |
 | [I'm Sorry I'm Leaving](https://open.spotify.com/track/373GdfW6KshUwMjxk4JtKp) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [I'm Sorry I'm Leaving](https://open.spotify.com/album/7K1AZt6c0aXqLiS7S4qCYi) | 3:12 | 2022-05-05 | 2022-06-18 |
-| [I've been away \- 2025 Version](https://open.spotify.com/track/5Ememi90xXWzfTO7OanVvF) | [Pave](https://open.spotify.com/artist/3iLbPHbCcAt24jhVdTlzOZ) | [I've been away \(2025 Version\)](https://open.spotify.com/album/5N5yh99RbQBBdQONhkFa9m) | 3:10 | 2025-08-21 |  |
+| [I've been away \- 2025 Version](https://open.spotify.com/track/5Ememi90xXWzfTO7OanVvF) | [I'll Catch You](https://open.spotify.com/artist/1dmAR3EeeT12nTx1l9mZmZ) | [I've been away \(2025 Version\)](https://open.spotify.com/album/5N5yh99RbQBBdQONhkFa9m) | 3:10 | 2025-08-21 |  |
 | [I've Been Drunk in Every Pub in Brisbane](https://open.spotify.com/track/59R1XgGV0zcbHjzBEKCsn3) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [I've Been Drunk in Every Pub in Brisbane](https://open.spotify.com/album/4h4MqqLKI89Mv1Ezvbu2Rx) | 1:29 | 2022-07-14 | 2022-09-09 |
 | [I've Felt Better](https://open.spotify.com/track/39ybOUF3YmjGDdHsk8EqtN) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 2:53 | 2025-08-21 |  |
 | [I, VIBRATOR](https://open.spotify.com/track/0fDiMvHk6eN1kVWwOdsfuL) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [I, VIBRATOR](https://open.spotify.com/album/0e7uvTS1VE3kbZb6gwvCJU) | 4:36 | 2024-04-05 | 2024-05-24 |

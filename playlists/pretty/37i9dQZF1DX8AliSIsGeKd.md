@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 ### [Electronic Rising](https://open.spotify.com/playlist/37i9dQZF1DX8AliSIsGeKd)
 
-> The best new electronic music\. Cover: Monolink
+> The best new electronic music\. Cover: Natascha Polké
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,760 likes - 90 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,995 likes - 90 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Phantom of the Paradise](https://open.spotify.com/track/0ryYOSufs2SCjS6KIaxomy) | [Die Vögel](https://open.spotify.com/artist/5qYnFqCGzM4juTqEApKhBn) | [Phantom of the Paradise](https://open.spotify.com/album/0CsYyTfMReMKazABMF8VY9) | 6:19 |
 | 90 | [Say Who?!](https://open.spotify.com/track/15mNoHnfalvvNAQMSv888J) | [Luca Olivotto](https://open.spotify.com/artist/6TKBUwZ48ncE6FbhT5ACzj) | [Say Who?!](https://open.spotify.com/album/3pAhxeXbJ3Bky5k1A3sJc8) | 6:59 |
 
-Snapshot ID: `AAAAAFWpeB5uEA1XWEzKwu3ToV5exy5f`
+Snapshot ID: `AAAAAFHncKHYLZS05OOxeX6Nx0bcmx9L`

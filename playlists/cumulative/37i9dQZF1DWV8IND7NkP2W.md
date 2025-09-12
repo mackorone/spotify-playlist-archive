@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-809 songs - 1 day 12 hr 33 min
+810 songs - 1 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Cheongshin](https://open.spotify.com/track/2NyFugrzJAyMDLJ2TDDYAx) | [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Cheongshin](https://open.spotify.com/album/5764vWIW5PEoi0IA81Lz6n) | 1:16 | 2021-12-23 | 2022-07-10 |
 | [chidori](https://open.spotify.com/track/3riZQ5Vi2XUbWrCSE4YRYQ) | [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c) | [UNITED EAST ASIA](https://open.spotify.com/album/1bak3p7f7K3RTcqHZXnvzH) | 1:56 | 2022-01-13 | 2022-06-06 |
 | [chill oil](https://open.spotify.com/track/3zitR68UQPvSJXhj0VhVKB) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/1EBszIXQGrExYYVJl0UaYV) | 2:35 | 2023-03-09 | 2024-04-19 |
-| [chill oil](https://open.spotify.com/track/7hLSrLW8vJvg51JQMTIueR) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/58iP6i6bIiuqaaVF06sfK6) | 2:35 | 2023-03-09 |  |
+| [chill oil](https://open.spotify.com/track/7hLSrLW8vJvg51JQMTIueR) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/58iP6i6bIiuqaaVF06sfK6) | 2:35 | 2023-03-09 | 2025-09-12 |
 | [China Town](https://open.spotify.com/track/701Pk1KCm0fvaaIvDOyxa9) | [Storkes](https://open.spotify.com/artist/3UTdFWlJlDUIdrUz8LSKom) | [China Town](https://open.spotify.com/album/4ntLlHvS9lEOx3KS2Dz9cR) | 2:32 | 2021-12-23 | 2023-03-23 |
 | [CHOP SUMMER](https://open.spotify.com/track/28EVgaOqYync8V1kOi63ds) | [Tha Omedetaz](https://open.spotify.com/artist/3tYjCmnVPzQP8lzbZzJfzL) | [YAZZY BEATS 暑中見舞](https://open.spotify.com/album/58aQfV4UZbPw8KDsUWAGkW) | 2:10 | 2021-12-23 | 2024-08-24 |
 | [choppy](https://open.spotify.com/track/6NqmlKB9tFfCIPof1uVcbk) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [choppy](https://open.spotify.com/album/1GQkAyBiePE7ZJ5N8HAAPh) | 2:13 | 2023-08-24 | 2023-09-29 |
@@ -426,6 +426,7 @@
 | [meraki](https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG), [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [meraki / cosmogyral](https://open.spotify.com/album/7jqrFYgVV6klFgnCNNUXb6) | 2:28 | 2021-12-23 |  |
 | [michi](https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [michi](https://open.spotify.com/album/5Oy3je8laT66B2xqOipppP) | 2:38 | 2023-06-08 |  |
 | [michiru](https://open.spotify.com/track/5VjNGlsBU2wHiVyvX7wJSw) | [chanoma](https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN) | [michiru](https://open.spotify.com/album/6VfbCPphNz57uDjLeZjXYT) | 2:40 | 2024-01-18 | 2024-01-29 |
+| [Midnight Blurred Remnants](https://open.spotify.com/track/4TqPqbWp0doNhdbW1EteBC) | [intheshell81](https://open.spotify.com/artist/7taUQplWF9geLHguW9oPCP) | [Midnight Blurred Remnants](https://open.spotify.com/album/7j2MVb6tQwYaLlkj9EI2UR) | 2:10 | 2025-09-04 |  |
 | [midnight escape](https://open.spotify.com/track/5QPoT5KpEN9yE83J4QkHKY) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [midnight escape](https://open.spotify.com/album/2PDFaI2eZ5SCNb7vSGgfOV) | 2:34 | 2023-11-09 | 2024-01-31 |
 | [Midnight Peeps, Pt.2](https://open.spotify.com/track/2WSgwK0GqTZK8yTioy0Cd8) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Midnight Peeps, Pt.2](https://open.spotify.com/album/0yMnyXQqxoFviK7NLjfWPL) | 3:34 | 2022-01-06 | 2022-07-11 |
 | [midnightblue](https://open.spotify.com/track/68vICURdbP4DrFdumsxddr) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [midnightblue](https://open.spotify.com/album/5hWozsqDLkH1M9llIOVqP8) | 2:50 | 2021-12-23 | 2022-07-27 |
@@ -511,7 +512,7 @@
 | [NOTE](https://open.spotify.com/track/25dGr8RF6IMLHkzgHgE3Xl) | [Isaz](https://open.spotify.com/artist/2QKgJH2C0AY4KGrmn7bczD) | [Number5](https://open.spotify.com/album/3YrXxyLoT9M9WUaqlebgpq) | 2:05 | 2022-03-31 | 2022-04-09 |
 | [NTME Route 3](https://open.spotify.com/track/1JNKSKnWatoAHXtKl6CjdJ) | [DJ MASTERKEY](https://open.spotify.com/artist/2dg4DEZAnPRb0F8By56AYZ), [ONODUB](https://open.spotify.com/artist/6kQH7BRX0SMB7OlSRr6IeA) | [SUMMER BREEZE](https://open.spotify.com/album/0BYO0GnScDav439GPw8GiP) | 2:54 | 2023-08-01 | 2023-10-26 |
 | [Nujabest](https://open.spotify.com/track/2h5AdIzimnGEaT8EToDcQb) | [Astrolemo](https://open.spotify.com/artist/6XtEzqCB9T1Y8uAjCGS17j) | [Nujabest](https://open.spotify.com/album/7M1n4PgrCJoFKhdMqT1Xj2) | 0:54 | 2022-03-24 | 2022-04-16 |
-| [oak](https://open.spotify.com/track/2GhvTizbLq8G138Mw9Fhdm) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [oak](https://open.spotify.com/album/2INwNrU7hvsLxjtrKo2UXg) | 2:10 | 2024-02-15 | 2025-08-24 |
+| [oak](https://open.spotify.com/track/2GhvTizbLq8G138Mw9Fhdm) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [oak](https://open.spotify.com/album/2INwNrU7hvsLxjtrKo2UXg) | 2:10 | 2024-02-15 |  |
 | [Oak](https://open.spotify.com/track/4QrLXFESrpnpf6TXJsM1rX) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Oak](https://open.spotify.com/album/0vdKiuQsAHix0sDjoiwngg) | 2:50 | 2021-12-23 | 2025-06-24 |
 | [Ocean Avenue](https://open.spotify.com/track/5Bv8KRYPE7w6S9bZfrUYiz) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe), [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Ocean Avenue](https://open.spotify.com/album/26MxpI4CnZlMXJoD7IoiGU) | 3:53 | 2022-02-24 | 2022-07-04 |
 | [ode to N](https://open.spotify.com/track/0irCGSOIclpG2yGISXD8bN) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/1kGbYL4jMy8db0QHbskJcp) | 2:14 | 2022-09-22 | 2024-04-19 |
@@ -661,7 +662,7 @@
 | [STAY](https://open.spotify.com/track/3IDcH2PSdCnmjhi0ycCobL) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [STAY](https://open.spotify.com/album/28f2iwEkztfDPYtperPi1a) | 2:20 | 2022-12-22 | 2023-01-19 |
 | [Stay Around](https://open.spotify.com/track/1UWPpmeIw7jorX4rAII27O) | [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Stay Around](https://open.spotify.com/album/6QYCTUgRSDhqOYqYVRKoA5) | 2:01 | 2022-04-07 | 2024-06-04 |
 | [Stay Vision](https://open.spotify.com/track/3Gfh3KyQG1CXIUWkjHBSdh) | [Doubutsu System](https://open.spotify.com/artist/1rZhGbtNcaBkLQ9eRNcyd1) | [Stay Vision](https://open.spotify.com/album/4fFov7GjS6C2JBVWNcqKCZ) | 2:04 | 2021-12-23 | 2022-07-21 |
-| [Step to Your Mind](https://open.spotify.com/track/5xcJFBWJ2uuSfWryCHI9MH) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Step to Your Mind](https://open.spotify.com/album/4eAqR4Y1Cidy7ksitm954V) | 1:36 | 2021-12-23 |  |
+| [Step to Your Mind](https://open.spotify.com/track/5xcJFBWJ2uuSfWryCHI9MH) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Step to Your Mind](https://open.spotify.com/album/4eAqR4Y1Cidy7ksitm954V) | 1:36 | 2021-12-23 | 2025-09-12 |
 | [Steps](https://open.spotify.com/track/1CYBYu49XVfhKk0esW3qUF) | [Katsuya](https://open.spotify.com/artist/6aBNUuE4j0CEyKACJGPFAD) | [CIRCLES](https://open.spotify.com/album/7vF5T5P5rLHeOut7L4Xsy6) | 1:50 | 2022-01-06 | 2022-07-28 |
 | [Still Flyin'](https://open.spotify.com/track/2SGT9gVsBZF7tqfZtPN6zz) | [Kzyboost](https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil) | [Still Flyin'](https://open.spotify.com/album/1oMERc2gPq0z5ajA3MqEtU) | 3:25 | 2022-03-24 | 2022-04-21 |
 | [Still Rivers](https://open.spotify.com/track/2aocpfQKBhTKhI8KcpwkQ5) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Still Rivers](https://open.spotify.com/album/2sR542VVLs1dchuyMOMdAA) | 2:18 | 2022-01-13 | 2024-04-29 |

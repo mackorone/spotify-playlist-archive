@@ -2703,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "BARI\u015e",
+        "url": "https://open.spotify.com/album/3KuhwFOdVZ8ufC3klz1X5y"
+      },
+      "artists": [
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219374,
+      "name": "PERDE",
+      "url": "https://open.spotify.com/track/7xYtgtwlgXvpiTnXUAkceF"
+    },
+    {
+      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/2eFw0PGVpuVHagqAU8vO9X"
       },
@@ -2870,7 +2888,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 156372,
       "name": "Sakin Ol",
       "url": "https://open.spotify.com/track/1TsqyCcGctVZpyLraRRt2i"

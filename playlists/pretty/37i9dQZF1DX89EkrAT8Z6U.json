@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1273206,
+  "num_followers": 1273603,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 169946,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
         "name": "WET DREAMS (w/ Nimstarr)",
         "url": "https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 124711,
       "name": "WET DREAMS (w/ Nimstarr)",
       "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "Freddie's Inferno",
-        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 169946,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "Benbow Crescent",
-        "url": "https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF"
-      },
-      "artists": [
-        {
-          "name": "Cochise",
-          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
-        }
-      ],
-      "duration_ms": 149145,
-      "name": "Hatchback",
-      "url": "https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "GTG",
         "url": "https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG"
       },
@@ -387,22 +371,34 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "emerge pt. 2",
-        "url": "https://open.spotify.com/album/0zeq2wUbi6XBQ5HsELg4s5"
+        "name": "Benbow Crescent",
+        "url": "https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF"
       },
       "artists": [
         {
-          "name": "ptasinski",
-          "url": "https://open.spotify.com/artist/6T9oTkBolkKzQJ5ltR7Yr8"
-        },
-        {
-          "name": "RJ Pasin",
-          "url": "https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0"
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
         }
       ],
-      "duration_ms": 93070,
-      "name": "chad",
-      "url": "https://open.spotify.com/track/5xrVEhQ9BG3tz7A1bYR2MX"
+      "duration_ms": 149145,
+      "name": "Hatchback",
+      "url": "https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "Red Teenage Melody",
+        "url": "https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "duration_ms": 271413,
+      "name": "Still Cold / Pathway Private",
+      "url": "https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -427,18 +423,22 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "Red Teenage Melody",
-        "url": "https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5"
+        "name": "emerge pt. 2",
+        "url": "https://open.spotify.com/album/0zeq2wUbi6XBQ5HsELg4s5"
       },
       "artists": [
         {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+          "name": "ptasinski",
+          "url": "https://open.spotify.com/artist/6T9oTkBolkKzQJ5ltR7Yr8"
+        },
+        {
+          "name": "RJ Pasin",
+          "url": "https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0"
         }
       ],
-      "duration_ms": 271413,
-      "name": "Still Cold / Pathway Private",
-      "url": "https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h"
+      "duration_ms": 93070,
+      "name": "chad",
+      "url": "https://open.spotify.com/track/5xrVEhQ9BG3tz7A1bYR2MX"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -455,6 +455,22 @@
       "duration_ms": 177230,
       "name": "LA ESPADA",
       "url": "https://open.spotify.com/track/2KYNQpVdHsqC84TgJa5T7O"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "She Bad",
+        "url": "https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 105534,
+      "name": "She Bad",
+      "url": "https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -491,22 +507,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "RAHHHH",
-        "url": "https://open.spotify.com/album/0kBzlWRuGqJCKTLU453Hoa"
-      },
-      "artists": [
-        {
-          "name": "alt!",
-          "url": "https://open.spotify.com/artist/2JUbvars1Q5hnkRa8IglAa"
-        }
-      ],
-      "duration_ms": 60945,
-      "name": "RAHHHH",
-      "url": "https://open.spotify.com/track/5NLnV0krXXSIOqL1PyAd1Q"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "E-GIRLS ARE RUINING MY LIFE!",
         "url": "https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT"
       },
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
+        "name": "RAHHHH",
+        "url": "https://open.spotify.com/album/0kBzlWRuGqJCKTLU453Hoa"
+      },
+      "artists": [
+        {
+          "name": "alt!",
+          "url": "https://open.spotify.com/artist/2JUbvars1Q5hnkRa8IglAa"
+        }
+      ],
+      "duration_ms": 60945,
+      "name": "RAHHHH",
+      "url": "https://open.spotify.com/track/5NLnV0krXXSIOqL1PyAd1Q"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
         "name": "Killin' On Demand",
         "url": "https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 129196,
       "name": "Killin' On Demand",
       "url": "https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "She Bad",
-        "url": "https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 105534,
-      "name": "She Bad",
-      "url": "https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "V-12",
-        "url": "https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE"
-      },
-      "artists": [
-        {
-          "name": "Lil Dew'",
-          "url": "https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ"
-        }
-      ],
-      "duration_ms": 140460,
-      "name": "V-12",
-      "url": "https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "Suffer",
         "url": "https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 99807,
       "name": "WTH",
       "url": "https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "V-12",
+        "url": "https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE"
+      },
+      "artists": [
+        {
+          "name": "Lil Dew'",
+          "url": "https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ"
+        }
+      ],
+      "duration_ms": 140460,
+      "name": "V-12",
+      "url": "https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1129,6 +1129,22 @@
       "url": "https://open.spotify.com/track/4M1CMx1FyAGyrOf4zEkBGR"
     },
     {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "MAMBO",
+        "url": "https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7"
+      },
+      "artists": [
+        {
+          "name": "DIRTYXAN",
+          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
+        }
+      ],
+      "duration_ms": 127925,
+      "name": "MAMBO",
+      "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
+    },
+    {
       "added_at": "2025-02-21 22:48:04",
       "album": {
         "name": "HIT ME",
@@ -1155,22 +1171,6 @@
       "duration_ms": 161538,
       "name": "HIT ME",
       "url": "https://open.spotify.com/track/1ClLVL8w0vngTIq7Afrne6"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "MAMBO",
-        "url": "https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7"
-      },
-      "artists": [
-        {
-          "name": "DIRTYXAN",
-          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
-        }
-      ],
-      "duration_ms": 127925,
-      "name": "MAMBO",
-      "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1209,46 +1209,6 @@
       "url": "https://open.spotify.com/track/7oDUCu36rMex65tc03C8er"
     },
     {
-      "added_at": "2025-02-21 22:48:04",
-      "album": {
-        "name": "Abrakadabra",
-        "url": "https://open.spotify.com/album/4mY1EBvNaHaOhoFtwpIre0"
-      },
-      "artists": [
-        {
-          "name": "Sinoda",
-          "url": "https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b"
-        },
-        {
-          "name": "XANAKIN SKYWOK",
-          "url": "https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3"
-        }
-      ],
-      "duration_ms": 147748,
-      "name": "Abrakadabra",
-      "url": "https://open.spotify.com/track/5WEv8GQubyTUSkPowNJa87"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "from up on silent hill",
-        "url": "https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ"
-      },
-      "artists": [
-        {
-          "name": "Savage Ga$p",
-          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
-        },
-        {
-          "name": "Witchouse 40k",
-          "url": "https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J"
-        }
-      ],
-      "duration_ms": 150193,
-      "name": "from up on silent hill",
-      "url": "https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR"
-    },
-    {
       "added_at": "2024-09-18 21:12:46",
       "album": {
         "name": "Dead on Arrival",
@@ -1271,6 +1231,46 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
+        "name": "from up on silent hill",
+        "url": "https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ"
+      },
+      "artists": [
+        {
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+        },
+        {
+          "name": "Witchouse 40k",
+          "url": "https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J"
+        }
+      ],
+      "duration_ms": 150193,
+      "name": "from up on silent hill",
+      "url": "https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR"
+    },
+    {
+      "added_at": "2025-02-21 22:48:04",
+      "album": {
+        "name": "Abrakadabra",
+        "url": "https://open.spotify.com/album/4mY1EBvNaHaOhoFtwpIre0"
+      },
+      "artists": [
+        {
+          "name": "Sinoda",
+          "url": "https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b"
+        },
+        {
+          "name": "XANAKIN SKYWOK",
+          "url": "https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3"
+        }
+      ],
+      "duration_ms": 147748,
+      "name": "Abrakadabra",
+      "url": "https://open.spotify.com/track/5WEv8GQubyTUSkPowNJa87"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
         "name": "BREATHE",
         "url": "https://open.spotify.com/album/3c9lEzKYoMMjZz1sLzilHx"
       },
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/2qmn3UsrMtbt3orqjZSDVh"
     },
     {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "S1KE",
-        "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
-      },
-      "artists": [
-        {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
-        }
-      ],
-      "duration_ms": 114666,
-      "name": "S1KE",
-      "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
-    },
-    {
       "added_at": "2025-02-21 22:48:04",
       "album": {
         "name": "dedd barchetta",
@@ -1319,6 +1303,22 @@
       "duration_ms": 80029,
       "name": "dedd barchetta",
       "url": "https://open.spotify.com/track/19PGCm7eOw4IGTXeAI5Ye9"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "S1KE",
+        "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "duration_ms": 114666,
+      "name": "S1KE",
+      "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
     },
     {
       "added_at": "2024-09-18 21:12:46",

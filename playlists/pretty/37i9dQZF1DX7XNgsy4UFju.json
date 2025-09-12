@@ -1,13 +1,141 @@
 {
   "description": "The best indie tracks of the moment. Cover: Tame Impala",
-  "num_followers": 161048,
+  "num_followers": 161043,
   "original_name": "Indie All Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC6SObiCDtaAlW6OzEZUjfmn82zS",
+  "snapshot_id": "AAAAAKZbm9f2JB07c155tJitCRiWGTOp",
   "tracks": [
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Take A Drive",
+        "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Take A Drive",
+      "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "The Crux Deluxe",
+        "url": "https://open.spotify.com/album/3oaSSUc7HkXIpTb4NGLKDt"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 311083,
+      "name": "Mr. Mountebank",
+      "url": "https://open.spotify.com/track/5tN8OqwUxsVKUCE1cea23k"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 197703,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Rainbow Gal",
+        "url": "https://open.spotify.com/album/32MEZOAewxpH43adsG0yGS"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 142333,
+      "name": "Rainbow Gal",
+      "url": "https://open.spotify.com/track/7FZxZL2arm9wNi5G8owCgo"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Waiting For Love",
+        "url": "https://open.spotify.com/album/5UmQZch97gF84AIdhkRBqI"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 269047,
+      "name": "Waiting For Love",
+      "url": "https://open.spotify.com/track/7faBDPpACK6D31VqvnmeQs"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Hyperempathy",
+        "url": "https://open.spotify.com/album/0PjU3db8WuVPEsoYzdiyil"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 279475,
+      "name": "Hyperempathy",
+      "url": "https://open.spotify.com/track/1D7ASVeI5JH1CuvSnr7ynJ"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Is Anybody Out There?",
+        "url": "https://open.spotify.com/album/2P2lvrYnmVPRWD15JREeLY"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "duration_ms": 228582,
+      "name": "Is Anybody Out There?",
+      "url": "https://open.spotify.com/track/6eZHTf3YOMmlaxeOLoMC6R"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/1BrAurLoXx2P0DFrdU3N2J"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 267576,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/6LCMIrcOxFKMAmccaK7biI"
+    },
     {
       "added_at": "2025-09-05 00:01:32",
       "album": {
@@ -23,6 +151,222 @@
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 143213,
+      "name": "Jaime",
+      "url": "https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 15",
+      "url": "https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/3jaHMm1GZfioDWWZCKK46f"
+      },
+      "artists": [
+        {
+          "name": "Milk & Bone",
+          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 143826,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/6O066SuknbFTwYD3F6bpiD"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "To the Ghosts (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3EUf9rA4SLOYKWpR4i9dgO"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 174491,
+      "name": "Compaction",
+      "url": "https://open.spotify.com/track/54TEGRwMxlpMitjPwNZutV"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Inefficient Love",
+        "url": "https://open.spotify.com/album/3nrboAgmwjsaYkhhubeX2c"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 223108,
+      "name": "Inefficient Love",
+      "url": "https://open.spotify.com/track/5Bf91qvflBGAAyCChcvO8o"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Wait & See",
+        "url": "https://open.spotify.com/album/0UFMJ2sOCWrFn67X5dHRAW"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 273650,
+      "name": "Wait & See",
+      "url": "https://open.spotify.com/track/59OyzdGVIeOeBA8xdi867o"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Mountain Song",
+        "url": "https://open.spotify.com/album/4gLuhvTqLSy9jzTzyVn077"
+      },
+      "artists": [
+        {
+          "name": "Al Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+        }
+      ],
+      "duration_ms": 196146,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/20koBnPzYKk1yMb6GPBU2W"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "The Happy Dictator (feat. Sparks)",
+        "url": "https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Sparks",
+          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
+        }
+      ],
+      "duration_ms": 284775,
+      "name": "The Happy Dictator (feat. Sparks)",
+      "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Unltd. Time",
+        "url": "https://open.spotify.com/album/00XIkRXfPRY3QEbaEBNeL2"
+      },
+      "artists": [
+        {
+          "name": "Heaven For Real",
+          "url": "https://open.spotify.com/artist/0De6AsHTSn4Q2Jc049oh0U"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "Unltd. Time",
+      "url": "https://open.spotify.com/track/5cOVUq0enkHwoYUjZkoehm"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Heaviness",
+        "url": "https://open.spotify.com/album/0ynnpHniUcubTwsSaznUIM"
+      },
+      "artists": [
+        {
+          "name": "Beauts",
+          "url": "https://open.spotify.com/artist/5T0e5poGvNw2PmFOiMfwCO"
+        }
+      ],
+      "duration_ms": 237690,
+      "name": "Heaviness",
+      "url": "https://open.spotify.com/track/6Hd1CQazAHaQoYtcUHsJn6"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "tired.",
+        "url": "https://open.spotify.com/album/5or4ZL27EF8o5wvFtp5TYw"
+      },
+      "artists": [
+        {
+          "name": "Living Room for Small",
+          "url": "https://open.spotify.com/artist/2M2xZJKF0jglkIaoI35X47"
+        }
+      ],
+      "duration_ms": 268571,
+      "name": "tired.",
+      "url": "https://open.spotify.com/track/70W6X3uZ535QiaXRjlQHkM"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Tears Of A Nation",
+        "url": "https://open.spotify.com/album/0eIrDuUEIBU2BNv78WqzYd"
+      },
+      "artists": [
+        {
+          "name": "The Dears",
+          "url": "https://open.spotify.com/artist/2qljmykdCfgGy9zUw7UqkX"
+        }
+      ],
+      "duration_ms": 216167,
+      "name": "Tears Of A Nation",
+      "url": "https://open.spotify.com/track/0heJUheZGzwwduG1OMzCKC"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/37I3v6Q3jljRo2BaC3UXWx"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "duration_ms": 227228,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/3nKH0fmUPf8nEKgPs6vRvU"
     },
     {
       "added_at": "2025-09-05 00:01:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 
 > This is Auli'i Cravalho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,221 likes - 33 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,222 likes - 33 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 | 12 | [A Cautionary Tale](https://open.spotify.com/track/6JKm5XtUhS2oSl2NRiBXe2) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Jaquel Spivey](https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 1:08 |
 | 13 | [I Am Moana \(Song of the Ancestors\)](https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8) | [Rachel House](https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:42 |
 | 14 | [We Know The Way \(Te Fenua te Malie\)](https://open.spotify.com/track/20QxeN0YcZZiFW8wM6XUck) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Olivia Foa'i](https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50), [Opetaia Foa'i](https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y) | 1:28 |
-| 15 | [Part of Your World \- From "The Little Mermaid Live!"](https://open.spotify.com/track/05ET8TiuscvijP4b4b1Jg9) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 3:10 |
+| 15 | [Part of Your World \(Reprise\) \- From "The Little Mermaid Live!"](https://open.spotify.com/track/2v7WfLSmtaP09kX74RPTNJ) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 2:12 |
 | 16 | [Revenge Party](https://open.spotify.com/track/76IYmZf601sdCGQLokyrjW) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Jaquel Spivey](https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI), [Angourie Rice](https://open.spotify.com/artist/2WBxsfNZRSQriRDgDgWkTO), [Tim Meadows](https://open.spotify.com/artist/5ll9FhxzUEG7Bl9LAjPX4E), [Cast of Mean Girls](https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 4:45 |
 | 17 | [Someone Gets Hurt \- Reprise](https://open.spotify.com/track/1uElzTQ3ZDKimyoTeShKAv) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Mean Girls \(Music From The Motion Picture – Bonus Track Version\)](https://open.spotify.com/album/2VqGOWnMT8pJsYkRuEkqb7) | 0:50 |
 | 18 | [Good Morning, Beautiful You](https://open.spotify.com/track/3aqlTxMid4dpJoGjwS6TY8) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Lulu Is a Rhinoceros](https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8) | [Lulu Is a Rhinoceros \(Soundtrack from the Apple Original\)](https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg) | 2:55 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 | 32 | [The Word Of Your Body \- Rise Cast Version](https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Damon J\. Gillespie](https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I) | [The Word Of Your Body \(Rise Cast Version\)](https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw) | 2:54 |
 | 33 | [Happier](https://open.spotify.com/track/4Ixa8ZsjCWY6jDTejMUIOM) | [Paul Rust](https://open.spotify.com/artist/0vrIAUL2cMlP42YihJkBYY), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Lulu Is a Rhinoceros](https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8) | [Lulu Is a Rhinoceros \(Soundtrack from the Apple Original\)](https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg) | 3:04 |
 
-Snapshot ID: `aL9uAAAAAAAw4PmkQx4JpUzVyqLHYS5K`
+Snapshot ID: `aMC/gAAAAAD+4Zpvt5oml7dFzhmSXh1s`

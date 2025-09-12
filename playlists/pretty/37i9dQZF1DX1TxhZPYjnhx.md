@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 ### [Pop Rising Singapore & Malaysia](https://open.spotify.com/playlist/37i9dQZF1DX1TxhZPYjnhx)
 
-> Discover new favorites or tomorrow's hits today\. Cover: Lady Gaga
+> Discover new favorites or tomorrow's hits today\. Cover: moon tang
 
 [Spotify](https://open.spotify.com/user/spotify) - 13,603 likes - 119 songs - 6 hr 16 min
 
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 118 | [Bye](https://open.spotify.com/track/2OLChTG4uarZlP8GxxRZNc) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Bye](https://open.spotify.com/album/0rzQDM1XEkyeDOzvgM1E43) | 2:17 |
 | 119 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 |
 
-Snapshot ID: `AAAAAN8AzdXd/DUmALyLZ8TvdEuVhSRB`
+Snapshot ID: `AAAAACId3edY+2U5nCM5GsJAwv2d/KWk`

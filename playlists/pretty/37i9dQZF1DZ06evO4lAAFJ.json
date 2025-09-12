@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 644439,
+  "num_followers": 644469,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL9uAAAAAABzcYsqwrRnIi6suNZP/XWI",
+  "snapshot_id": "aMC/gAAAAAA0YBBuaZNQ3EGxD2qwhVYl",
   "tracks": [
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Juro Que",
+        "url": "https://open.spotify.com/album/3XV0gPorxF6TtGScGJChxG"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 170075,
+      "name": "Juro Que",
+      "url": "https://open.spotify.com/track/3ZwQCZ2LuYwuQ6R1p1CJ3w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DESPECH\u00c1 RMX",
         "url": "https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 170827,
       "name": "DESPECH\u00c1 RMX",
       "url": "https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juro Que",
-        "url": "https://open.spotify.com/album/3XV0gPorxF6TtGScGJChxG"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 170075,
-      "name": "Juro Que",
-      "url": "https://open.spotify.com/track/3ZwQCZ2LuYwuQ6R1p1CJ3w"
     },
     {
       "added_at": null,

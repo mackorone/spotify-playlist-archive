@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 192000,
       "name": "Afro Beat",
       "url": "https://open.spotify.com/track/1Y9crZGy8iOyCPxFBPfMDP"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 126534,
       "name": "Egy \u00e9jszaka",
       "url": "https://open.spotify.com/track/7fttxh2ROKLw4rVQMyYbm7"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 157688,
       "name": "LEV\u00c9L",
       "url": "https://open.spotify.com/track/1wYyJvMvmVUpCi7MA41HB8"
@@ -1875,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "PLETYKA",
+        "url": "https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155121,
+      "name": "PLETYKA",
+      "url": "https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR"
+    },
+    {
+      "album": {
         "name": "POKOL",
         "url": "https://open.spotify.com/album/2KG6WRzwryqLWd2UUfDS94"
       },
@@ -1912,6 +1930,24 @@
       "duration_ms": 154666,
       "name": "PONT J\u00d3",
       "url": "https://open.spotify.com/track/6hl5iWDLtE1OqsYxsoGZQm"
+    },
+    {
+      "album": {
+        "name": "PRESSO",
+        "url": "https://open.spotify.com/album/3eJuPUtO2KHScmYHKwJkq3"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157852,
+      "name": "PRESSO",
+      "url": "https://open.spotify.com/track/0D5QHyA6zijVjWqcTn3huY"
     },
     {
       "album": {
@@ -2662,6 +2698,28 @@
       "duration_ms": 154800,
       "name": "Voodoo Baba",
       "url": "https://open.spotify.com/track/1tTOuvmJvZ2DACbTLkwZIT"
+    },
+    {
+      "album": {
+        "name": "HA MEGHALOK SE",
+        "url": "https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ"
+      },
+      "artists": [
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        },
+        {
+          "name": "RZMVS",
+          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165900,
+      "name": "V\u00c1RJ MEG",
+      "url": "https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b"
     },
     {
       "album": {

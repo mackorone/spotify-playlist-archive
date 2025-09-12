@@ -650,7 +650,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 308666,
       "name": "One Slip",
       "url": "https://open.spotify.com/track/3h31xJfV4OpCYKlzSpazLy"
@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "The Final Cut",
+        "url": "https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133465,
+      "name": "Southampton Dock",
+      "url": "https://open.spotify.com/track/1e6P6S42qX7vFT0u14S5jm"
+    },
+    {
+      "album": {
         "name": "The Wall",
         "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
       },
@@ -1032,6 +1050,24 @@
       "duration_ms": 413947,
       "name": "Time",
       "url": "https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz"
+    },
+    {
+      "album": {
+        "name": "The Final Cut",
+        "url": "https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315444,
+      "name": "Two Suns in the Sunset",
+      "url": "https://open.spotify.com/track/3KvKMHMlRj30a7IjHXQVzu"
     },
     {
       "album": {

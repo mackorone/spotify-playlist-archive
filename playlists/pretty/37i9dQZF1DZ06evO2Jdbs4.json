@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 30173,
+  "num_followers": 30186,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL9uAAAAAABPOL2WCldO970RC7h12I4F",
+  "snapshot_id": "aMC/gAAAAABJntjXMj+vryn2WsLJbUiR",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dias de Ayer",
-        "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Algun D\u00eda",
-      "url": "https://open.spotify.com/track/1SlyhgbpLEphPZM4ammgr7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zona De Peligro",
         "url": "https://open.spotify.com/album/5s60IiC6VGWT1Si9QfKWuL"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 182960,
       "name": "Permaneces En M\u00ed",
       "url": "https://open.spotify.com/track/4hBKlTsn1rW7DxvEwgriaQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dias de Ayer",
+        "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Algun D\u00eda",
+      "url": "https://open.spotify.com/track/1SlyhgbpLEphPZM4ammgr7"
     },
     {
       "added_at": null,
@@ -547,22 +547,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada De Nada",
-        "url": "https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK"
+        "name": "Zona De Peligro",
+        "url": "https://open.spotify.com/album/5s60IiC6VGWT1Si9QfKWuL"
       },
       "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 181600,
-      "name": "Nada De Nada",
-      "url": "https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU"
+      "duration_ms": 218960,
+      "name": "Zona de Peligro",
+      "url": "https://open.spotify.com/track/3sHx52OKWUEymHdfQ4PPNf"
     },
     {
       "added_at": null,
@@ -587,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada De Nada",
+        "url": "https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Nada De Nada",
+      "url": "https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Desde Las Vegas",
         "url": "https://open.spotify.com/album/6yaPyAoNiJ9VqMTQ6i9EoB"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 400385,
       "name": "The Hits Medley: Desvelado/Ens\u00e9name/A Tu Lado - En Vivo",
       "url": "https://open.spotify.com/track/7mXOt58IK9Hqad6Uf1Bfob"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zona De Peligro",
-        "url": "https://open.spotify.com/album/5s60IiC6VGWT1Si9QfKWuL"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "Zona de Peligro",
-      "url": "https://open.spotify.com/track/3sHx52OKWUEymHdfQ4PPNf"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "No S\u00e9 Por Qu\u00e9",
-      "url": "https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas (En Vivo)",
         "url": "https://open.spotify.com/album/2yqYk2NLgdNYJMwCTh8Okh"
       },
@@ -923,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enfermo De Amor",
-        "url": "https://open.spotify.com/album/6YPqIlrOLgXeOqCVe8yYtH"
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
       "artists": [
         {
@@ -932,9 +916,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 224173,
-      "name": "Desn\u00fadame Con La Boca",
-      "url": "https://open.spotify.com/track/44iTkje2BHNMm4DZfa3rf5"
+      "duration_ms": 169000,
+      "name": "No S\u00e9 Por Qu\u00e9",
+      "url": "https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t"
     },
     {
       "added_at": null,
@@ -951,6 +935,22 @@
       "duration_ms": 212893,
       "name": "La Plancha",
       "url": "https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enfermo De Amor",
+        "url": "https://open.spotify.com/album/6YPqIlrOLgXeOqCVe8yYtH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "Desn\u00fadame Con La Boca",
+      "url": "https://open.spotify.com/track/44iTkje2BHNMm4DZfa3rf5"
     }
   ],
   "unique_name": "This Is Bobby Pulido",

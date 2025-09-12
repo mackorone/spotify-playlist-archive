@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 24029,
+  "num_followers": 24033,
   "original_name": "THE IDOLM@STER SideM",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM ST@RTING LINE-10 Caf\u00e9 Parade",
-        "url": "https://open.spotify.com/album/5PYzkS3XSiEarnYmQR3r1f"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Parade",
-          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
-        }
-      ],
-      "duration_ms": 284946,
-      "name": "Caf\u00e9 Parade!",
-      "url": "https://open.spotify.com/track/70jhHM0UPSr25v8yhcA2p7"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
         "name": "THE IDOLM@STER SideM 49 ELEMENTS -10 F-LAGS",
         "url": "https://open.spotify.com/album/7Aet8iBpl9L98DW9Xh1gSh"
       },
@@ -923,22 +907,6 @@
       "duration_ms": 245493,
       "name": "Yell Song",
       "url": "https://open.spotify.com/track/5qW0XtcObOGqgcnd5BOr3R"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
-        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 06",
-        "url": "https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB"
-      },
-      "artists": [
-        {
-          "name": "\u5186\u57ce\u5bfa\u9053\u6d41 (CV.\u6ff1\u91ce\u5927\u8f1d)",
-          "url": "https://open.spotify.com/artist/53qbQRpLiystrtb7ujOgmV"
-        }
-      ],
-      "duration_ms": 302160,
-      "name": "ROAD TO THE FUTURE",
-      "url": "https://open.spotify.com/track/3845SOwA3hXDHMijSX1caF"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -975,8 +943,8 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
-        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
+        "name": "THE IDOLM@STER SideM ST@RTING LINE-10 Caf\u00e9 Parade",
+        "url": "https://open.spotify.com/album/5PYzkS3XSiEarnYmQR3r1f"
       },
       "artists": [
         {
@@ -984,9 +952,9 @@
           "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
         }
       ],
-      "duration_ms": 320733,
-      "name": "Reversed Masquerade",
-      "url": "https://open.spotify.com/track/7KNQtN04Y4J4NOrRsQ9clC"
+      "duration_ms": 284946,
+      "name": "Caf\u00e9 Parade!",
+      "url": "https://open.spotify.com/track/70jhHM0UPSr25v8yhcA2p7"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -1051,6 +1019,38 @@
       "duration_ms": 251933,
       "name": "Sweet Diamant",
       "url": "https://open.spotify.com/track/5lFPTFN5wJ2qnHRG57Mj67"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
+        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
+        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Parade",
+          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
+        }
+      ],
+      "duration_ms": 320733,
+      "name": "Reversed Masquerade",
+      "url": "https://open.spotify.com/track/7KNQtN04Y4J4NOrRsQ9clC"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 06",
+        "url": "https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB"
+      },
+      "artists": [
+        {
+          "name": "\u5186\u57ce\u5bfa\u9053\u6d41 (CV.\u6ff1\u91ce\u5927\u8f1d)",
+          "url": "https://open.spotify.com/artist/53qbQRpLiystrtb7ujOgmV"
+        }
+      ],
+      "duration_ms": 302160,
+      "name": "ROAD TO THE FUTURE",
+      "url": "https://open.spotify.com/track/3845SOwA3hXDHMijSX1caF"
     },
     {
       "added_at": "2025-01-14 15:56:57",

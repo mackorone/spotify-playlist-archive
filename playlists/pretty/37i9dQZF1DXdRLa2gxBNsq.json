@@ -1,15 +1,15 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
-  "num_followers": 112712,
+  "num_followers": 112743,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACMk84bcyswfqsOkMMfARXpvF7//",
+  "snapshot_id": "AAAAAEA2pu1EF5g7zoVK0dwnE1tE/5Qy",
   "tracks": [
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Ellos Dicen Mierda",
         "url": "https://open.spotify.com/album/0QjDaIXJLrgirtJMFWIu8R"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6bsiPYRqISKkHN9FpgffKP"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Porsupuest\u00f3n",
         "url": "https://open.spotify.com/album/4fhyGd8qDAkvZXmDvLYixi"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/7mElnVvJoNpmTDSPvOJMUB"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "N.S.A. La Santa Familia",
         "url": "https://open.spotify.com/album/2z3V6ipEnmD9CbaOcWAjKF"
@@ -57,55 +57,23 @@
       "url": "https://open.spotify.com/track/1tef2YV1xTcWBqr6K376ab"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
-        "name": "Jarama",
-        "url": "https://open.spotify.com/album/0Xturr8pgzoF9M6gb0UPlh"
+        "name": "Ay De Mi!",
+        "url": "https://open.spotify.com/album/1d2EOTftTxtZakbykswm5E"
       },
       "artists": [
         {
-          "name": "Boikot",
-          "url": "https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn"
+          "name": "El \u00daltimo Ke Zierre",
+          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
         }
       ],
-      "duration_ms": 217595,
-      "name": "Jarama",
-      "url": "https://open.spotify.com/track/749QVthAEMdMPQdZBLQ98S"
+      "duration_ms": 198135,
+      "name": "Tus Bragas",
+      "url": "https://open.spotify.com/track/1Hh6pSlEbOSNZJYbHJBIXi"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Ya Estoy Muerto",
-        "url": "https://open.spotify.com/album/4y7bbLYsC53jnibdfthGCA"
-      },
-      "artists": [
-        {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
-        }
-      ],
-      "duration_ms": 132939,
-      "name": "Ya Estoy Muerto",
-      "url": "https://open.spotify.com/track/6jDOGFu4JAwSAR70L8fssV"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "XX5",
-        "url": "https://open.spotify.com/album/50nfGrvQcaeQdqzFxlN6u3"
-      },
-      "artists": [
-        {
-          "name": "Kaotiko",
-          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
-        }
-      ],
-      "duration_ms": 190801,
-      "name": "Otra noche - XX5",
-      "url": "https://open.spotify.com/track/4EneUyoQbFXysxjuK11Jve"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Disp\u00e1rame",
         "url": "https://open.spotify.com/album/0wdBkfYTEmMQjqND8f1MUD"
@@ -129,7 +97,39 @@
       "url": "https://open.spotify.com/track/3ttofroygpDF5hKxwfeeM6"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "XX5",
+        "url": "https://open.spotify.com/album/50nfGrvQcaeQdqzFxlN6u3"
+      },
+      "artists": [
+        {
+          "name": "Kaotiko",
+          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
+        }
+      ],
+      "duration_ms": 190801,
+      "name": "Otra noche - XX5",
+      "url": "https://open.spotify.com/track/4EneUyoQbFXysxjuK11Jve"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Ya Estoy Muerto",
+        "url": "https://open.spotify.com/album/4y7bbLYsC53jnibdfthGCA"
+      },
+      "artists": [
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        }
+      ],
+      "duration_ms": 132939,
+      "name": "Ya Estoy Muerto",
+      "url": "https://open.spotify.com/track/6jDOGFu4JAwSAR70L8fssV"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Salve",
         "url": "https://open.spotify.com/album/57AwljF0RpTwtEd5A1SzUP"
@@ -145,7 +145,103 @@
       "url": "https://open.spotify.com/track/19cTnpZXsoNpah6J4q13iP"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Presa",
+        "url": "https://open.spotify.com/album/6m1XbIXmuClVFa4lBCMlve"
+      },
+      "artists": [
+        {
+          "name": "Inkandescencia",
+          "url": "https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l"
+        }
+      ],
+      "duration_ms": 192173,
+      "name": "Presa",
+      "url": "https://open.spotify.com/track/1D1W1kKQjb1q76FZfUgsFf"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Jarama Valley",
+        "url": "https://open.spotify.com/album/0vnIIElrzcA3DEbZM72kNW"
+      },
+      "artists": [
+        {
+          "name": "Trastienda RC",
+          "url": "https://open.spotify.com/artist/6kgqNcuTLrKMh08n8gLsnW"
+        },
+        {
+          "name": "Fernando Reincidentes",
+          "url": "https://open.spotify.com/artist/4189x5Md7w8lVuQPOFi1K5"
+        },
+        {
+          "name": "Reincidentes",
+          "url": "https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX"
+        },
+        {
+          "name": "Boikot",
+          "url": "https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn"
+        },
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 224398,
+      "name": "Jarama Valley",
+      "url": "https://open.spotify.com/track/1hcshlMHRfPHhl7nXc66bw"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Jarama",
+        "url": "https://open.spotify.com/album/0Xturr8pgzoF9M6gb0UPlh"
+      },
+      "artists": [
+        {
+          "name": "Boikot",
+          "url": "https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn"
+        }
+      ],
+      "duration_ms": 217595,
+      "name": "Jarama",
+      "url": "https://open.spotify.com/track/749QVthAEMdMPQdZBLQ98S"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Perd\u00f3name, Madre",
+        "url": "https://open.spotify.com/album/3iayhGgNxplb1PlyUqd8PV"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 246657,
+      "name": "Perd\u00f3name, Madre",
+      "url": "https://open.spotify.com/track/3m4sBPROsVE0lwggigu5R4"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Tiempos Oscuros",
+        "url": "https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9"
+      },
+      "artists": [
+        {
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Piedra Contra Tijera",
+      "url": "https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Hasta Alcanzar la Eternidad",
         "url": "https://open.spotify.com/album/4Br6Uo20r4CA53ENlfU9uF"
@@ -165,42 +261,10 @@
       "url": "https://open.spotify.com/track/1P6TdzApdSr9fiCLhrKLdL"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
-        "name": "Ay De Mi!",
-        "url": "https://open.spotify.com/album/1d2EOTftTxtZakbykswm5E"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo Ke Zierre",
-          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
-        }
-      ],
-      "duration_ms": 198135,
-      "name": "Tus Bragas",
-      "url": "https://open.spotify.com/track/1Hh6pSlEbOSNZJYbHJBIXi"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "En Mi Altar",
-        "url": "https://open.spotify.com/album/4lM3dh3sXMT2qh5W6uwttw"
-      },
-      "artists": [
-        {
-          "name": "Zirrosis",
-          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
-        }
-      ],
-      "duration_ms": 177785,
-      "name": "En Mi Altar",
-      "url": "https://open.spotify.com/track/3KRNxx30eGFS28Lr9UYTXO"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Perd\u00f3name, Madre",
-        "url": "https://open.spotify.com/album/3iayhGgNxplb1PlyUqd8PV"
+        "name": "Trilog\u00eda \u00a1Vamos Afuera!",
+        "url": "https://open.spotify.com/album/7Gd4UmQBSPGJFkatH9f5fr"
       },
       "artists": [
         {
@@ -208,12 +272,12 @@
           "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
         }
       ],
-      "duration_ms": 246657,
-      "name": "Perd\u00f3name, Madre",
-      "url": "https://open.spotify.com/track/3m4sBPROsVE0lwggigu5R4"
+      "duration_ms": 214750,
+      "name": "En Tierra de Nadie",
+      "url": "https://open.spotify.com/track/2pQdxVXSdyDmwE55w72WB9"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Siglo XXI",
         "url": "https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy"
@@ -229,55 +293,7 @@
       "url": "https://open.spotify.com/track/0tk6HwFFBSkbrn8sGKaZgq"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Ladr\u00f3n de Almas",
-        "url": "https://open.spotify.com/album/7EVAAxBNm2ZnPBtQWd8eCy"
-      },
-      "artists": [
-        {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
-        }
-      ],
-      "duration_ms": 237061,
-      "name": "Ahora Me Importa una Mierda",
-      "url": "https://open.spotify.com/track/4ii0z7sM4GNXOGVaGujCT9"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Presa",
-        "url": "https://open.spotify.com/album/6m1XbIXmuClVFa4lBCMlve"
-      },
-      "artists": [
-        {
-          "name": "Inkandescencia",
-          "url": "https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l"
-        }
-      ],
-      "duration_ms": 192173,
-      "name": "Presa",
-      "url": "https://open.spotify.com/track/1D1W1kKQjb1q76FZfUgsFf"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Tiempos Oscuros",
-        "url": "https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9"
-      },
-      "artists": [
-        {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Piedra Contra Tijera",
-      "url": "https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Demasiados Enemigos",
         "url": "https://open.spotify.com/album/06jJMaPtFcbDkuzuIeKywk"
@@ -293,55 +309,39 @@
       "url": "https://open.spotify.com/track/52hHIF5rYiUi0AtPyvMrY2"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
-        "name": "Aizkolari",
-        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
+        "name": "Ladr\u00f3n de Almas",
+        "url": "https://open.spotify.com/album/7EVAAxBNm2ZnPBtQWd8eCy"
       },
       "artists": [
         {
-          "name": "Kortatu",
-          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
         }
       ],
-      "duration_ms": 197480,
-      "name": "Mierda De Ciudad",
-      "url": "https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv"
+      "duration_ms": 237061,
+      "name": "Ahora Me Importa una Mierda",
+      "url": "https://open.spotify.com/track/4ii0z7sM4GNXOGVaGujCT9"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
-        "name": "Ni una Sola Palabra",
-        "url": "https://open.spotify.com/album/3cCGlsL0rcQXpASb4Lqeka"
+        "name": "Tambores de guerra",
+        "url": "https://open.spotify.com/album/5N1GEvYaiFoxhOZZz6zTG8"
       },
       "artists": [
         {
-          "name": "Me Fritos and the Gimme Cheetos",
-          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
+          "name": "No Konforme",
+          "url": "https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Ni una Sola Palabra",
-      "url": "https://open.spotify.com/track/1rDoB0YlZ6V3V9xEoJoRnN"
+      "duration_ms": 161221,
+      "name": "Tambores de guerra",
+      "url": "https://open.spotify.com/track/7vPfVBzi7OBp0ieSXJS3te"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Profetas",
-        "url": "https://open.spotify.com/album/0TL7GYH5wG2KK55DIbTDh8"
-      },
-      "artists": [
-        {
-          "name": "Fatiga",
-          "url": "https://open.spotify.com/artist/1cY1vOsMZkeCYoXRdaZoKp"
-        }
-      ],
-      "duration_ms": 178050,
-      "name": "Profetas",
-      "url": "https://open.spotify.com/track/4zhleCCvE0sHRhsL3DCzOm"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Raska Y Pierde",
         "url": "https://open.spotify.com/album/3hYROJXYVEmFZrDJEYAqmH"
@@ -357,23 +357,119 @@
       "url": "https://open.spotify.com/track/6gnqolg2ERx8i5GAGlYb0w"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
-        "name": "Ciudadano periodista",
-        "url": "https://open.spotify.com/album/2FPJXNXLpush0YMcUVVpJw"
+        "name": "Siglo XXI",
+        "url": "https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy"
       },
       "artists": [
         {
-          "name": "Colapso",
-          "url": "https://open.spotify.com/artist/1OxK8rUG1jNXdFo1XW0V1e"
+          "name": "Gatillazo",
+          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
         }
       ],
-      "duration_ms": 176093,
-      "name": "Ciudadano periodista",
-      "url": "https://open.spotify.com/track/74GxS1s5mX7DRRD3CdOMk3"
+      "duration_ms": 192800,
+      "name": "La \u00daltima Patada",
+      "url": "https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Aizkolari",
+        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
+      },
+      "artists": [
+        {
+          "name": "Kortatu",
+          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "Mierda De Ciudad",
+      "url": "https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "El Baile de los que Sobran",
+        "url": "https://open.spotify.com/album/4dv9fBdeJW7BgSLSQqVa6r"
+      },
+      "artists": [
+        {
+          "name": "\u00daltimo Rekurso",
+          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
+        }
+      ],
+      "duration_ms": 274261,
+      "name": "El Baile de los que Sobran",
+      "url": "https://open.spotify.com/track/72aFZcLNh1iJnm5UGzvpC2"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Los Chicos No Est\u00e1n Bien",
+        "url": "https://open.spotify.com/album/2f6MF0iDAqfkaEItHBubC8"
+      },
+      "artists": [
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        }
+      ],
+      "duration_ms": 202488,
+      "name": "Los Chicos No Est\u00e1n Bien",
+      "url": "https://open.spotify.com/track/5zjQ7F3ctn5m1qOvcfroZx"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Ni una Sola Palabra",
+        "url": "https://open.spotify.com/album/3cCGlsL0rcQXpASb4Lqeka"
+      },
+      "artists": [
+        {
+          "name": "Me Fritos and the Gimme Cheetos",
+          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Ni una Sola Palabra",
+      "url": "https://open.spotify.com/track/1rDoB0YlZ6V3V9xEoJoRnN"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Impuesto Revolucionario",
+        "url": "https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm"
+      },
+      "artists": [
+        {
+          "name": "Eskorbuto",
+          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Historia triste",
+      "url": "https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "\u00a1Vaya Full!",
+        "url": "https://open.spotify.com/album/0Jy2KdVM6PIaMtl9tLYCVw"
+      },
+      "artists": [
+        {
+          "name": "Txapelpunk",
+          "url": "https://open.spotify.com/artist/1zOX25BGYZ4nt7XcACV3jG"
+        }
+      ],
+      "duration_ms": 134920,
+      "name": "Loko Kuerdo",
+      "url": "https://open.spotify.com/track/5NWWzmogzsKzCqtCSKO0cL"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "El Rodillo del Kaos",
         "url": "https://open.spotify.com/album/3lu6CnUfdYKLipTuMFyo65"
@@ -397,127 +493,7 @@
       "url": "https://open.spotify.com/track/5189Xj43eCOPecYdlM8ywk"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Siglo XXI",
-        "url": "https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy"
-      },
-      "artists": [
-        {
-          "name": "Gatillazo",
-          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "La \u00daltima Patada",
-      "url": "https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Tarde Y Cuesta Arriba Pero Bien Acompa\u00f1ados",
-        "url": "https://open.spotify.com/album/2DxYjsETDVy7QTf3Hs2wHn"
-      },
-      "artists": [
-        {
-          "name": "Dame Ke Fume",
-          "url": "https://open.spotify.com/artist/2eJP7MNXVdzesO0zu6Bl3Z"
-        },
-        {
-          "name": "Enrique Espera",
-          "url": "https://open.spotify.com/artist/3nB4Vu9jVenxNzmFy58L5N"
-        },
-        {
-          "name": "Tragandokolillas",
-          "url": "https://open.spotify.com/artist/3b2OAnoq0mgZCjrOqqbNx6"
-        }
-      ],
-      "duration_ms": 342700,
-      "name": "Balas De Goma",
-      "url": "https://open.spotify.com/track/4GzRTJ4YSPPERl82pRChGT"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Impuesto Revolucionario",
-        "url": "https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm"
-      },
-      "artists": [
-        {
-          "name": "Eskorbuto",
-          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Historia triste",
-      "url": "https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Me Escupi\u00f3 la Lumbre",
-        "url": "https://open.spotify.com/album/72XkJBzWKdcx4f40c3xytx"
-      },
-      "artists": [
-        {
-          "name": "La Doloritas",
-          "url": "https://open.spotify.com/artist/3523teAdM8GO0bPlQAyAzd"
-        }
-      ],
-      "duration_ms": 114304,
-      "name": "La Doloritas o la Incongruencia",
-      "url": "https://open.spotify.com/track/1SPug4CXRnPeknVAtopLhK"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Aizkolari",
-        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
-      },
-      "artists": [
-        {
-          "name": "Kortatu",
-          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
-        }
-      ],
-      "duration_ms": 127480,
-      "name": "Jimmy Jazz",
-      "url": "https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Los Chicos No Est\u00e1n Bien",
-        "url": "https://open.spotify.com/album/2f6MF0iDAqfkaEItHBubC8"
-      },
-      "artists": [
-        {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
-        }
-      ],
-      "duration_ms": 202488,
-      "name": "Los Chicos No Est\u00e1n Bien",
-      "url": "https://open.spotify.com/track/5zjQ7F3ctn5m1qOvcfroZx"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "\u00a1Vaya Full!",
-        "url": "https://open.spotify.com/album/0Jy2KdVM6PIaMtl9tLYCVw"
-      },
-      "artists": [
-        {
-          "name": "Txapelpunk",
-          "url": "https://open.spotify.com/artist/1zOX25BGYZ4nt7XcACV3jG"
-        }
-      ],
-      "duration_ms": 134920,
-      "name": "Loko Kuerdo",
-      "url": "https://open.spotify.com/track/5NWWzmogzsKzCqtCSKO0cL"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Inadaptados",
         "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
@@ -533,7 +509,55 @@
       "url": "https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Mucho Asco (Casi) Todo",
+        "url": "https://open.spotify.com/album/3xnkw4YKqJzJpTnPPoP7Af"
+      },
+      "artists": [
+        {
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
+        }
+      ],
+      "duration_ms": 94960,
+      "name": "Pablo Echenique",
+      "url": "https://open.spotify.com/track/2gl4Y3raioEWKhXUDALSZP"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Aizkolari",
+        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
+      },
+      "artists": [
+        {
+          "name": "Kortatu",
+          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+        }
+      ],
+      "duration_ms": 127480,
+      "name": "Jimmy Jazz",
+      "url": "https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "El Mutante del Barrio Chino",
+        "url": "https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo Ke Zierre",
+          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
+        }
+      ],
+      "duration_ms": 192946,
+      "name": "Empacho de Orfidal",
+      "url": "https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "HARRERA LEKU BAT",
         "url": "https://open.spotify.com/album/0jxfXOaoffTj6hng0Uljip"
@@ -553,39 +577,7 @@
       "url": "https://open.spotify.com/track/1uApsPmvPTyzr4T4SBTHON"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Mucho Asco (Casi) Todo",
-        "url": "https://open.spotify.com/album/3xnkw4YKqJzJpTnPPoP7Af"
-      },
-      "artists": [
-        {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
-        }
-      ],
-      "duration_ms": 94960,
-      "name": "Pablo Echenique",
-      "url": "https://open.spotify.com/track/2gl4Y3raioEWKhXUDALSZP"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "El Mutante del Barrio Chino",
-        "url": "https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo Ke Zierre",
-          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
-        }
-      ],
-      "duration_ms": 192946,
-      "name": "Empacho de Orfidal",
-      "url": "https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "C\u00f3mo Convertirse en Nada",
         "url": "https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq"
@@ -601,7 +593,7 @@
       "url": "https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Quiero que sepas",
         "url": "https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz"
@@ -617,7 +609,7 @@
       "url": "https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Busc\u00e1ndose la Vida",
         "url": "https://open.spotify.com/album/50X2yfnVjoqHP9jpj5Hztj"
@@ -633,7 +625,7 @@
       "url": "https://open.spotify.com/track/0QVrkmPehChchi52biyo8w"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Pura dinamita",
         "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
@@ -649,7 +641,7 @@
       "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Ni Descanso, Ni Paz!",
         "url": "https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z"
@@ -665,7 +657,7 @@
       "url": "https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Inadaptados",
         "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
@@ -681,7 +673,7 @@
       "url": "https://open.spotify.com/track/0OJWKkFRxkWYU8Ml5e7DA3"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Cicatriz en la Matrix",
         "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
@@ -697,7 +689,7 @@
       "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Bienvenidos a Occidente",
         "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
@@ -713,7 +705,7 @@
       "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Nuestro Barrio",
         "url": "https://open.spotify.com/album/0dEZ5OQcA4ifaNrcJA5rCD"
@@ -729,7 +721,7 @@
       "url": "https://open.spotify.com/track/2XvTRuy9b96cMtO96fvF3w"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "La Historia se Repite",
         "url": "https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg"
@@ -749,7 +741,7 @@
       "url": "https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Corona de espinas",
         "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
@@ -769,7 +761,7 @@
       "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Ya No Me Divierto",
         "url": "https://open.spotify.com/album/0jPYDc9Kf4VKxd0VSVX8HL"
@@ -785,7 +777,7 @@
       "url": "https://open.spotify.com/track/4VRq1m4iV8NTZ4tzm423qS"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Confrontaci\u00f3n",
         "url": "https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp"
@@ -801,7 +793,7 @@
       "url": "https://open.spotify.com/track/4Ek4wT7LeCVgAskl466yd8"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Versos de Rabia",
         "url": "https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2"
@@ -817,7 +809,7 @@
       "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Putos Nazis",
         "url": "https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO"
@@ -833,7 +825,7 @@
       "url": "https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "No Sabemos Perder",
         "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
@@ -857,23 +849,7 @@
       "url": "https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Camino hacia la ruina",
-        "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
-      },
-      "artists": [
-        {
-          "name": "Comando 9mm",
-          "url": "https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa"
-        }
-      ],
-      "duration_ms": 285640,
-      "name": "Amor frenop\u00e1tico",
-      "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "A Bocajarro + Sopla Sopla",
         "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
@@ -889,23 +865,23 @@
       "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
-        "name": "Manifiesto del Partido de la Gente del Bar",
-        "url": "https://open.spotify.com/album/0xJHBxCxEi92QN9EMUvnqU"
+        "name": "Camino hacia la ruina",
+        "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
       },
       "artists": [
         {
-          "name": "Sartenazo Cerebral",
-          "url": "https://open.spotify.com/artist/4UIGa1G6fmJ74FheT3qszX"
+          "name": "Comando 9mm",
+          "url": "https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa"
         }
       ],
-      "duration_ms": 216967,
-      "name": "Manifiesto del Partido de la Gente del Bar",
-      "url": "https://open.spotify.com/track/30B2sMwYzEkO7O30R4Ke2v"
+      "duration_ms": 285640,
+      "name": "Amor frenop\u00e1tico",
+      "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Los de las Paguitas Sois Vosotros",
         "url": "https://open.spotify.com/album/75rFXATmBtY2Ks9NsAWlHA"
@@ -921,7 +897,7 @@
       "url": "https://open.spotify.com/track/3BtvmKUSPhwGzjKOlZtiyI"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "No Olvidamos, 3 de Marzo - Single",
         "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
@@ -937,7 +913,23 @@
       "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Manifiesto del Partido de la Gente del Bar",
+        "url": "https://open.spotify.com/album/0xJHBxCxEi92QN9EMUvnqU"
+      },
+      "artists": [
+        {
+          "name": "Sartenazo Cerebral",
+          "url": "https://open.spotify.com/artist/4UIGa1G6fmJ74FheT3qszX"
+        }
+      ],
+      "duration_ms": 216967,
+      "name": "Manifiesto del Partido de la Gente del Bar",
+      "url": "https://open.spotify.com/track/30B2sMwYzEkO7O30R4Ke2v"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Punk Latino Vol. 1",
         "url": "https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN"
@@ -953,7 +945,23 @@
       "url": "https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Profetas",
+        "url": "https://open.spotify.com/album/0TL7GYH5wG2KK55DIbTDh8"
+      },
+      "artists": [
+        {
+          "name": "Fatiga",
+          "url": "https://open.spotify.com/artist/1cY1vOsMZkeCYoXRdaZoKp"
+        }
+      ],
+      "duration_ms": 178050,
+      "name": "Profetas",
+      "url": "https://open.spotify.com/track/4zhleCCvE0sHRhsL3DCzOm"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Ahora soy un punkarra",
         "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
@@ -969,7 +977,31 @@
       "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Tarde Y Cuesta Arriba Pero Bien Acompa\u00f1ados",
+        "url": "https://open.spotify.com/album/2DxYjsETDVy7QTf3Hs2wHn"
+      },
+      "artists": [
+        {
+          "name": "Dame Ke Fume",
+          "url": "https://open.spotify.com/artist/2eJP7MNXVdzesO0zu6Bl3Z"
+        },
+        {
+          "name": "Enrique Espera",
+          "url": "https://open.spotify.com/artist/3nB4Vu9jVenxNzmFy58L5N"
+        },
+        {
+          "name": "Tragandokolillas",
+          "url": "https://open.spotify.com/artist/3b2OAnoq0mgZCjrOqqbNx6"
+        }
+      ],
+      "duration_ms": 342700,
+      "name": "Balas De Goma",
+      "url": "https://open.spotify.com/track/4GzRTJ4YSPPERl82pRChGT"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Antifascismo",
         "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
@@ -985,7 +1017,7 @@
       "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Rico deprimido (XX5)",
         "url": "https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z"
@@ -1001,23 +1033,7 @@
       "url": "https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Nuevas Glorias (Chaos en Madrid)",
-        "url": "https://open.spotify.com/album/354mDiZ6ukhld73drKaMEE"
-      },
-      "artists": [
-        {
-          "name": "Bardeo",
-          "url": "https://open.spotify.com/artist/51oJznQAONP7CtL2s5hIHH"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Nuevas Glorias (Chaos en Madrid)",
-      "url": "https://open.spotify.com/track/431cr2qLQw6z82amu6TKjn"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Todos Mis Enemigos Se Llaman Cayetano",
         "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
@@ -1033,7 +1049,7 @@
       "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Figurante",
         "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
@@ -1049,7 +1065,7 @@
       "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Una y Nos Vamos (Versi\u00f3n 2024)",
         "url": "https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK"
@@ -1073,7 +1089,7 @@
       "url": "https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "ANTIFASCISTA",
         "url": "https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv"
@@ -1089,7 +1105,7 @@
       "url": "https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Control de Masas",
         "url": "https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm"
@@ -1105,23 +1121,23 @@
       "url": "https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
-        "name": "Ser Libre",
-        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
+        "name": "En Mi Altar",
+        "url": "https://open.spotify.com/album/4lM3dh3sXMT2qh5W6uwttw"
       },
       "artists": [
         {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+          "name": "Zirrosis",
+          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
         }
       ],
-      "duration_ms": 216250,
-      "name": "Ser Libre",
-      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
+      "duration_ms": 177785,
+      "name": "En Mi Altar",
+      "url": "https://open.spotify.com/track/3KRNxx30eGFS28Lr9UYTXO"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Loco (Remastered (2025))",
         "url": "https://open.spotify.com/album/2sPnaWzMtCoWiPtyuE1cOp"
@@ -1137,39 +1153,23 @@
       "url": "https://open.spotify.com/track/3ZQML8Ygu9spcXoDs9nB1h"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
-        "name": "Molestar",
-        "url": "https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8"
+        "name": "Ser Libre",
+        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
       },
       "artists": [
         {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
         }
       ],
-      "duration_ms": 158074,
-      "name": "Molestar",
-      "url": "https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag"
+      "duration_ms": 216250,
+      "name": "Ser Libre",
+      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Asesinos",
-        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
-      },
-      "artists": [
-        {
-          "name": "Manifa",
-          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
-        }
-      ],
-      "duration_ms": 176117,
-      "name": "Asesinos",
-      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Amar Mata (Remasterizado 2024)",
         "url": "https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP"
@@ -1185,7 +1185,39 @@
       "url": "https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Asesinos",
+        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
+      },
+      "artists": [
+        {
+          "name": "Manifa",
+          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
+        }
+      ],
+      "duration_ms": 176117,
+      "name": "Asesinos",
+      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Molestar",
+        "url": "https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8"
+      },
+      "artists": [
+        {
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+        }
+      ],
+      "duration_ms": 158074,
+      "name": "Molestar",
+      "url": "https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Borratxos y Orgullosos",
         "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
@@ -1201,7 +1233,7 @@
       "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Lo Relativo",
         "url": "https://open.spotify.com/album/2Y3sK2h9dBvTIoXivBk61H"
@@ -1217,7 +1249,39 @@
       "url": "https://open.spotify.com/track/6tRv3M6zeX26VIw56EAMZu"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Ciudadano periodista",
+        "url": "https://open.spotify.com/album/2FPJXNXLpush0YMcUVVpJw"
+      },
+      "artists": [
+        {
+          "name": "Colapso",
+          "url": "https://open.spotify.com/artist/1OxK8rUG1jNXdFo1XW0V1e"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "Ciudadano periodista",
+      "url": "https://open.spotify.com/track/74GxS1s5mX7DRRD3CdOMk3"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Me Escupi\u00f3 la Lumbre",
+        "url": "https://open.spotify.com/album/72XkJBzWKdcx4f40c3xytx"
+      },
+      "artists": [
+        {
+          "name": "La Doloritas",
+          "url": "https://open.spotify.com/artist/3523teAdM8GO0bPlQAyAzd"
+        }
+      ],
+      "duration_ms": 114304,
+      "name": "La Doloritas o la Incongruencia",
+      "url": "https://open.spotify.com/track/1SPug4CXRnPeknVAtopLhK"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Res de Nou",
         "url": "https://open.spotify.com/album/7zp4PaDjA6Pt2CjZRLfapA"
@@ -1233,7 +1297,7 @@
       "url": "https://open.spotify.com/track/7pzdAfGVuCPkltHztUFFUu"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Con Rabia, Con Ira",
         "url": "https://open.spotify.com/album/1hwEngSxBB59Rd3NohKLjS"
@@ -1249,39 +1313,7 @@
       "url": "https://open.spotify.com/track/01GNX1UmJQjyLEQOGcE4QS"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Aliens",
-        "url": "https://open.spotify.com/album/2zSV2m3p4Gb5Rs9MATrAbW"
-      },
-      "artists": [
-        {
-          "name": "Descontrol",
-          "url": "https://open.spotify.com/artist/5s68pO3PnLX7aCF7s1ARbM"
-        }
-      ],
-      "duration_ms": 148517,
-      "name": "Aliens",
-      "url": "https://open.spotify.com/track/2hzxOH4HcrvXC5Zhcaw9Sf"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Al Pie Del Ca\u00f1on",
-        "url": "https://open.spotify.com/album/0zTt9Vfgi3hLHwR5maF2yT"
-      },
-      "artists": [
-        {
-          "name": "Big Band Punk",
-          "url": "https://open.spotify.com/artist/0gGkMGNxBcGsvZjxiIX8Rh"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "Al Pie Del Ca\u00f1on",
-      "url": "https://open.spotify.com/track/7mYHOIMSMYob8KylRnmPbK"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Manual de supervivencia extrema",
         "url": "https://open.spotify.com/album/2w6v7xVczkW4iq2UPOoQCL"
@@ -1297,7 +1329,7 @@
       "url": "https://open.spotify.com/track/4w8TbXB3frLjrHgUT7gmDI"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Arde Ribera",
         "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
@@ -1313,7 +1345,7 @@
       "url": "https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "A Cara de Perro",
         "url": "https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN"
@@ -1329,7 +1361,7 @@
       "url": "https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "No Hay Agua",
         "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
@@ -1345,87 +1377,7 @@
       "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Un, Dos, Tres, Fuego",
-        "url": "https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS"
-      },
-      "artists": [
-        {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
-        }
-      ],
-      "duration_ms": 142373,
-      "name": "Las Drogas",
-      "url": "https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Ladr\u00f3n de Almas",
-        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
-      },
-      "artists": [
-        {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
-        }
-      ],
-      "duration_ms": 194192,
-      "name": "El Mes\u00edas",
-      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "J\u00f3dete",
-        "url": "https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL"
-      },
-      "artists": [
-        {
-          "name": "M.C.D.",
-          "url": "https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3"
-        }
-      ],
-      "duration_ms": 227992,
-      "name": "Gernika",
-      "url": "https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Hace falta\u2026?",
-        "url": "https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY"
-      },
-      "artists": [
-        {
-          "name": "Parabellum",
-          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "La locura - original",
-      "url": "https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Vulnerable",
-        "url": "https://open.spotify.com/album/7hL5n61zepkS2WQ1MCTpCI"
-      },
-      "artists": [
-        {
-          "name": "Los De Marras",
-          "url": "https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "As\u00ed Es la Vida",
-      "url": "https://open.spotify.com/track/12obLt5jLRqJTWwbV7HywQ"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Escapa!",
         "url": "https://open.spotify.com/album/6MQUQgI1RKD4wHu2Qc16iU"
@@ -1441,39 +1393,87 @@
       "url": "https://open.spotify.com/track/7tbmPVO7BOZ3uBTkQ4lwFV"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
-        "name": "Esta es una Noche de Rock & Roll",
-        "url": "https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D"
+        "name": "Ladr\u00f3n de Almas",
+        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
       },
       "artists": [
         {
-          "name": "Zirrosis",
-          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
         }
       ],
-      "duration_ms": 180444,
-      "name": "Esta es una Noche de Rock & Roll",
-      "url": "https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR"
+      "duration_ms": 194192,
+      "name": "El Mes\u00edas",
+      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
-        "name": "Arde Ribera",
-        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
+        "name": "J\u00f3dete",
+        "url": "https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL"
       },
       "artists": [
         {
-          "name": "Piperrak",
-          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
+          "name": "M.C.D.",
+          "url": "https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3"
         }
       ],
-      "duration_ms": 249719,
-      "name": "Kualkier D\u00eda",
-      "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
+      "duration_ms": 227992,
+      "name": "Gernika",
+      "url": "https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Hace falta\u2026?",
+        "url": "https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY"
+      },
+      "artists": [
+        {
+          "name": "Parabellum",
+          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "La locura - original",
+      "url": "https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/7hL5n61zepkS2WQ1MCTpCI"
+      },
+      "artists": [
+        {
+          "name": "Los De Marras",
+          "url": "https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "As\u00ed Es la Vida",
+      "url": "https://open.spotify.com/track/12obLt5jLRqJTWwbV7HywQ"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Un, Dos, Tres, Fuego",
+        "url": "https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS"
+      },
+      "artists": [
+        {
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+        }
+      ],
+      "duration_ms": 142373,
+      "name": "Las Drogas",
+      "url": "https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "No Hay Agua",
         "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
@@ -1489,7 +1489,39 @@
       "url": "https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Arde Ribera",
+        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
+      },
+      "artists": [
+        {
+          "name": "Piperrak",
+          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
+        }
+      ],
+      "duration_ms": 249719,
+      "name": "Kualkier D\u00eda",
+      "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Esta es una Noche de Rock & Roll",
+        "url": "https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D"
+      },
+      "artists": [
+        {
+          "name": "Zirrosis",
+          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+        }
+      ],
+      "duration_ms": 180444,
+      "name": "Esta es una Noche de Rock & Roll",
+      "url": "https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "No Te Muevas y Zona Especial Norte",
         "url": "https://open.spotify.com/album/37R9s562KSQPqUm2TYWe7h"
@@ -1505,7 +1537,7 @@
       "url": "https://open.spotify.com/track/4en5NpD2ZD6CpHeHIFTbzp"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Anda y Que Te Den",
         "url": "https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2"
@@ -1521,23 +1553,7 @@
       "url": "https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Bienvenidos al Infierno (En Directo)",
-        "url": "https://open.spotify.com/album/3axjsEhBZr1lXitt0YWgFF"
-      },
-      "artists": [
-        {
-          "name": "Los Muertos de Cristo",
-          "url": "https://open.spotify.com/artist/3kB55UDQKH1NV9TLKWgE8p"
-        }
-      ],
-      "duration_ms": 227546,
-      "name": "Resistir\u00e9",
-      "url": "https://open.spotify.com/track/4QDnW7sOmrPtgkQEQ1ZHIh"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Quiero Romper",
         "url": "https://open.spotify.com/album/2AxiRxorGQFjoND2xTwyDI"
@@ -1553,7 +1569,23 @@
       "url": "https://open.spotify.com/track/1IEAdc4FWEDCAydBnvVsli"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
+      "album": {
+        "name": "Bienvenidos al Infierno (En Directo)",
+        "url": "https://open.spotify.com/album/3axjsEhBZr1lXitt0YWgFF"
+      },
+      "artists": [
+        {
+          "name": "Los Muertos de Cristo",
+          "url": "https://open.spotify.com/artist/3kB55UDQKH1NV9TLKWgE8p"
+        }
+      ],
+      "duration_ms": 227546,
+      "name": "Resistir\u00e9",
+      "url": "https://open.spotify.com/track/4QDnW7sOmrPtgkQEQ1ZHIh"
+    },
+    {
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "El Infierno Es Demasiado Dulce",
         "url": "https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu"
@@ -1581,7 +1613,7 @@
       "url": "https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Froil\u00e1n de Todos los Antros",
         "url": "https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE"
@@ -1601,7 +1633,7 @@
       "url": "https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Cuidado",
         "url": "https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8"
@@ -1617,7 +1649,7 @@
       "url": "https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Vieja Guardia",
         "url": "https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl"
@@ -1633,7 +1665,7 @@
       "url": "https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "All Cayetanos Are Bastards",
         "url": "https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t"
@@ -1649,7 +1681,7 @@
       "url": "https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj"
     },
     {
-      "added_at": "2025-09-04 22:00:30",
+      "added_at": "2025-09-11 22:01:05",
       "album": {
         "name": "Ahora que se ha ido el sol",
         "url": "https://open.spotify.com/album/1uM5thAotEBcFCuF0G4eJl"
@@ -1663,22 +1695,6 @@
       "duration_ms": 240986,
       "name": "Herida de guerra",
       "url": "https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "A Mi Manera Vol. 2 (Leyendas de un Desconocido)",
-        "url": "https://open.spotify.com/album/1mMB89P9sgw8WRsR6qk8Rg"
-      },
-      "artists": [
-        {
-          "name": "El Noi del Sucre",
-          "url": "https://open.spotify.com/artist/2cRU20gTiJDxjQadbtENvV"
-        }
-      ],
-      "duration_ms": 316093,
-      "name": "Ni Dios Ni Amo",
-      "url": "https://open.spotify.com/track/38OqmiFdfy1Cmcn2XI90oE"
     }
   ],
   "unique_name": "Punk Espa\u00f1ol",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. Cover: James Reid, TJ Monterde
+> Mga nangunguna sa mundo ng OPM\. Cover: The Juans
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,080,269 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,080,412 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 49 | [Gayuma](https://open.spotify.com/track/1zKRYkQrnTLs3VrKELEbhh) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V), [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Gayuma](https://open.spotify.com/album/1okRQ6xy7kHk6q70FgspVC) | 3:59 |
 | 50 | [Nahanap Kita](https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Nahanap Kita](https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW) | 5:17 |
 
-Snapshot ID: `AAAAAPRgit0nh13Wg5uwPIIi7BVMDuK7`
+Snapshot ID: `AAAAAKicnbLdjzrmI5Nk3uWm/mJy8gxm`

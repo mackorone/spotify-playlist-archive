@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,295,324 likes - 75 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,296,230 likes - 75 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 74 | [Voz de Trovão](https://open.spotify.com/track/4SMEXnxi5NDimU0j3f3MRl) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Rahamim](https://open.spotify.com/album/745zGvWaNnhUMCaretCmvx) | 6:15 |
 | 75 | [Azeite \(Ao Vivo\)](https://open.spotify.com/track/2ZfhftG3iFfUEdb7tpMlsz) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \(Ao Vivo\)](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 4:32 |
 
-Snapshot ID: `AAAAAMHwBzUlr8Kpq9lLtAZmLhIsBDKm`
+Snapshot ID: `AAAAACkLXyGwt2iQ41N89lV2QxwYaito`

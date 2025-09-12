@@ -2,7 +2,7 @@
 
 ### [New Music Friday Norway](https://open.spotify.com/playlist/37i9dQZF1DWV3RrjH1jDkx)
 
-> Endelig fredag og ny musikk fra bla\. Justin Bieber, Lady Gaga, Ramón, Ina Wroldsen og mange fler!🎵
+> Endelig fredag og ny musikk fra bla\. Metropolen, Ed Sheeran, Streetboys og mange fler!🎵
 
 7,364 songs - 15 day 20 hr 20 min
 

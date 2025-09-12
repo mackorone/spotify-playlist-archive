@@ -443,6 +443,28 @@
     },
     {
       "album": {
+        "name": "Arvet",
+        "url": "https://open.spotify.com/album/0REVRXEkjLpYMMMAJFGcaF"
+      },
+      "artists": [
+        {
+          "name": "Titiyo",
+          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
+        },
+        {
+          "name": "Anna Ahnlund",
+          "url": "https://open.spotify.com/artist/3QgJNRjR0Qtw1qjmGTnRa5"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347626,
+      "name": "Arvet",
+      "url": "https://open.spotify.com/track/014rZHk6AR8tqxcmbBW4yS"
+    },
+    {
+      "album": {
         "name": "Misemotional",
         "url": "https://open.spotify.com/album/3FaYgjSf0JzLIcrRcldU6s"
       },
@@ -862,7 +884,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 201266,
       "name": "Chasing Down A Dream",
       "url": "https://open.spotify.com/track/3Car1iB91hRkVqFpgqIaJq"
@@ -3094,7 +3116,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 287745,
       "name": "H\u00e4lsingevind",
       "url": "https://open.spotify.com/track/4S8r06IA1z67uAlKoa5Ubq"
@@ -3550,7 +3572,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 199120,
       "name": "Jag dansade en sommar",
       "url": "https://open.spotify.com/track/55mmUWKU8QQf6OXYF313o1"
@@ -4444,7 +4466,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 204560,
       "name": "Maja H\u00f6nstjuv",
       "url": "https://open.spotify.com/track/7pntr5gKTnl51C3NV1fPBG"
@@ -8100,6 +8122,24 @@
       "duration_ms": 220333,
       "name": "\u00c4nglarna",
       "url": "https://open.spotify.com/track/7qCwaoYuUaHx31b6HbpEI5"
+    },
+    {
+      "album": {
+        "name": "\u00c4r det upp till dig och mig",
+        "url": "https://open.spotify.com/album/36Y6LGKWC5qrVnEU2uX5Nd"
+      },
+      "artists": [
+        {
+          "name": "Jakob Hellman",
+          "url": "https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265786,
+      "name": "\u00c4r det upp till dig och mig",
+      "url": "https://open.spotify.com/track/5D94n7MSUmTTPwO91roL9x"
     },
     {
       "album": {

@@ -16734,6 +16734,24 @@
     {
       "album": {
         "name": "I'm a Dog",
+        "url": "https://open.spotify.com/album/5yWKRtxQXd9a9kKJl9ZUMJ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2025-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148653,
+      "name": "I'm a Dog",
+      "url": "https://open.spotify.com/track/2Dlp3mgmT5GgKw9tXs85NA"
+    },
+    {
+      "album": {
+        "name": "I'm a Dog",
         "url": "https://open.spotify.com/album/52YYepian40oN800wl8cLZ"
       },
       "artists": [
@@ -16752,28 +16770,6 @@
       "duration_ms": 148654,
       "name": "I'm a Dog",
       "url": "https://open.spotify.com/track/5avNO4NZBxtf44hlPMzoY0"
-    },
-    {
-      "album": {
-        "name": "I'm a Dog",
-        "url": "https://open.spotify.com/album/5yWKRtxQXd9a9kKJl9ZUMJ"
-      },
-      "artists": [
-        {
-          "name": "Sister Tana1653",
-          "url": "https://open.spotify.com/artist/1hFE5HqYesPZ6pjDpFRNz3"
-        },
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        }
-      ],
-      "date_added": "2025-09-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 148653,
-      "name": "I'm a Dog",
-      "url": "https://open.spotify.com/track/2Dlp3mgmT5GgKw9tXs85NA"
     },
     {
       "album": {
@@ -25806,7 +25802,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 161192,
       "name": "Old Man Emu",
       "url": "https://open.spotify.com/track/0V1PIcn0XTqg6KPOfSEE7g"
@@ -26953,6 +26949,28 @@
     },
     {
       "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        },
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109759,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
+    },
+    {
+      "album": {
         "name": "Mania",
         "url": "https://open.spotify.com/album/4fuNohVRMb98IgoOUoZ1X0"
       },
@@ -27498,10 +27516,28 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 243014,
       "name": "Pool - Stripped",
       "url": "https://open.spotify.com/track/5zlxkhxG7ICPmq8x3GSPy8"
+    },
+    {
+      "album": {
+        "name": "The Baby (5th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0psSmeA56xuOptTm4N8meu"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243014,
+      "name": "Pool - Stripped",
+      "url": "https://open.spotify.com/track/74KHklP28n3kBqNtawOusZ"
     },
     {
       "album": {

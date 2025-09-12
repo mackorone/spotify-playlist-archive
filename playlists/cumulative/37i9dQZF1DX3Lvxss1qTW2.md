@@ -2,9 +2,9 @@
 
 ### [Bubblin'](https://open.spotify.com/playlist/37i9dQZF1DX3Lvxss1qTW2)
 
-> The future hits of today\. <br/>Cover: Taves
+> The future hits of today\. <br/>Cover: Rybeena & Joeboy
 
-499 songs - 23 hr 3 min
+500 songs - 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,10 +24,11 @@
 | [Adanna](https://open.spotify.com/track/1VjHpdJOpEh9WljnOtJ4pz) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Adanna](https://open.spotify.com/album/46vIukeJcCS4O9nPtLq95a) | 3:36 | 2024-11-15 | 2025-03-29 |
 | [Addicted](https://open.spotify.com/track/5DxOi1PJsqLupAo5ZBT6jL) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [This One Is Personal](https://open.spotify.com/album/55VroRmh4MCv27zw275clO) | 1:59 | 2025-08-29 |  |
 | [Adeem](https://open.spotify.com/track/1tdsA7q55NsE9PYdL5i6Xj) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Al\-Awwal](https://open.spotify.com/album/1s7omgLrTRtctnrMt8q5jL) | 2:36 | 2025-04-11 | 2025-07-05 |
+| [Adunni](https://open.spotify.com/track/07oWoYAboy2uZhDb0EMvge) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Adunni](https://open.spotify.com/album/5Eru0i7baSM4PL0er8TJK4) | 2:36 | 2025-09-11 |  |
 | [Advice Me](https://open.spotify.com/track/445ySymTQJEJ27mCnQXiqh) | [BIGKHALID](https://open.spotify.com/artist/5xnQJvSHeJkVvYjFhgUIFB) | [Advice Me](https://open.spotify.com/album/2OKYoEoVYZ3Mvbfn07yMQa) | 2:34 | 2025-04-11 | 2025-05-17 |
 | [Agba Singing](https://open.spotify.com/track/1r1Xz7MMUotaxziNtqcstp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Agba Singing](https://open.spotify.com/album/2Mt90xMkv1pP1ZxOpIvg1i) | 2:30 | 2024-09-16 | 2025-03-07 |
 | [Agility](https://open.spotify.com/track/1aMdNvjmLwPQTA97oflMaF) | [sabrina](https://open.spotify.com/artist/607SXK9fKVbEelr1dITGUC) | [Freely](https://open.spotify.com/album/0i6vKjiwKhg63HBWJvnKCp) | 2:30 | 2025-08-15 | 2025-08-22 |
-| [AKAMOLE](https://open.spotify.com/track/1EWWqfICuV4tFswlbgMK0N) | [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd) | [AKAMOLE](https://open.spotify.com/album/59IPhAfq5kIGxTufGXuQXY) | 2:33 | 2025-09-05 |  |
+| [AKAMOLE](https://open.spotify.com/track/1EWWqfICuV4tFswlbgMK0N) | [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd) | [AKAMOLE](https://open.spotify.com/album/59IPhAfq5kIGxTufGXuQXY) | 2:33 | 2025-09-05 | 2025-09-12 |
 | [Alade Ade](https://open.spotify.com/track/5bh0oljgOyl3rN8ErhqKvx) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Alade Ade](https://open.spotify.com/album/7nd9lBSL5F2pKV583BDh1r) | 2:42 | 2025-05-16 | 2025-09-05 |
 | [Alchl](https://open.spotify.com/track/6s2Axyc8OgfFFlDMK3XtqZ) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [I Dream In Color](https://open.spotify.com/album/1f2GqjFMA3dTYF6CNVAQdh) | 2:40 | 2025-02-28 | 2025-06-14 |
 | [Alhaji](https://open.spotify.com/track/5XrgPJask6SnYkoPDQAHQy) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Iliya Entertainment Music](https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh) | [Alhaji](https://open.spotify.com/album/70vdKrzZ5W8XqRj4YcbWyr) | 2:01 | 2024-12-06 | 2025-05-09 |

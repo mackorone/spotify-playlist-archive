@@ -1,6 +1,6 @@
 {
   "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: 9Million",
-  "num_followers": 165965,
+  "num_followers": 165987,
   "original_name": "Fresh Finds Rock",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,54 @@
   },
   "snapshot_id": "AAAAAJa+EDSyluBVqTnAyKMNloIr7VbD",
   "tracks": [
+    {
+      "added_at": "2025-09-10 14:27:17",
+      "album": {
+        "name": "peaches",
+        "url": "https://open.spotify.com/album/2C3jHv6MTDtWGx2J1hygRH"
+      },
+      "artists": [
+        {
+          "name": "Total Wife",
+          "url": "https://open.spotify.com/artist/1JQhIj3MeXcTYorKsa5SBz"
+        }
+      ],
+      "duration_ms": 164485,
+      "name": "peaches",
+      "url": "https://open.spotify.com/track/4tcdP94DVfoNctCdz8aozT"
+    },
+    {
+      "added_at": "2025-09-10 14:27:17",
+      "album": {
+        "name": "Even if it's Just a Dream",
+        "url": "https://open.spotify.com/album/29JGqA2SNMfjJZvYgsmvao"
+      },
+      "artists": [
+        {
+          "name": "Sword II",
+          "url": "https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi"
+        }
+      ],
+      "duration_ms": 330199,
+      "name": "Even if it's Just a Dream",
+      "url": "https://open.spotify.com/track/0mZHbgV1dlZZoii9BKGUwX"
+    },
+    {
+      "added_at": "2025-08-13 16:05:00",
+      "album": {
+        "name": "Shine On",
+        "url": "https://open.spotify.com/album/1gF9Z1pOgPatMtwV1hGrmP"
+      },
+      "artists": [
+        {
+          "name": "9Million",
+          "url": "https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna"
+        }
+      ],
+      "duration_ms": 279735,
+      "name": "Shine On",
+      "url": "https://open.spotify.com/track/0ryxHlNmyypx3sHBsUj9zI"
+    },
     {
       "added_at": "2025-09-03 16:37:10",
       "album": {
@@ -25,20 +73,24 @@
       "url": "https://open.spotify.com/track/7aJCqveV9M4UlyBpv2mB2Q"
     },
     {
-      "added_at": "2025-08-13 16:05:00",
+      "added_at": "2025-09-10 14:27:17",
       "album": {
-        "name": "Shine On",
-        "url": "https://open.spotify.com/album/1gF9Z1pOgPatMtwV1hGrmP"
+        "name": "Mirror World",
+        "url": "https://open.spotify.com/album/6yCDqvzkbKo7kOQ7eCpixT"
       },
       "artists": [
         {
-          "name": "9Million",
-          "url": "https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna"
+          "name": "Poptones",
+          "url": "https://open.spotify.com/artist/2a3PDuoSf6R792rIJcXI9i"
+        },
+        {
+          "name": "Victor Kaas",
+          "url": "https://open.spotify.com/artist/174JqW839j5ejDAAPPhqm3"
         }
       ],
-      "duration_ms": 279735,
-      "name": "Shine On",
-      "url": "https://open.spotify.com/track/0ryxHlNmyypx3sHBsUj9zI"
+      "duration_ms": 228851,
+      "name": "Mirror World",
+      "url": "https://open.spotify.com/track/6Z0you2CeONZMMd5aOYqyS"
     },
     {
       "added_at": "2025-09-03 16:37:10",
@@ -103,6 +155,22 @@
       "duration_ms": 149208,
       "name": "Swiss Army Girl",
       "url": "https://open.spotify.com/track/7JSamSm9Cc2jpliX5jkDR1"
+    },
+    {
+      "added_at": "2025-09-10 14:27:17",
+      "album": {
+        "name": "O.D. (3am)",
+        "url": "https://open.spotify.com/album/0gRFeXQb59yeMaMsLIgUyJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Orange Drink",
+          "url": "https://open.spotify.com/artist/6MjoFNppz6Tm6qCdHrzcvx"
+        }
+      ],
+      "duration_ms": 216344,
+      "name": "O.D. (3am)",
+      "url": "https://open.spotify.com/track/3J2pujgkg0980b5sBq4dUY"
     },
     {
       "added_at": "2025-09-03 16:37:10",

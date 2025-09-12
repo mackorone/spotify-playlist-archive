@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 ### [New Music Friday Norway](https://open.spotify.com/playlist/37i9dQZF1DWV3RrjH1jDkx)
 
-> Endelig fredag og ny musikk fra bla\. Justin Bieber, Lady Gaga, Ramón, Ina Wroldsen og mange fler!🎵
+> Endelig fredag og ny musikk fra bla\. Metropolen, Ed Sheeran, Streetboys og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,095 likes - 103 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,111 likes - 103 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 102 | [Flyv Højt \(feat\. Benny Jamz\)](https://open.spotify.com/track/2BA6uVQRGvPTrCiWDmYHs4) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Hyben](https://open.spotify.com/album/7whTi1VBsWABL3xXA7edVk) | 2:58 |
 | 103 | [Underneath](https://open.spotify.com/track/42IDSam8LZjs7OGCFMNCxQ) | [Wolfgang](https://open.spotify.com/artist/6FS3DK4QWbhkdV5vSlNsUd) | [Underneath](https://open.spotify.com/album/3GbJt3jPogY4qX8My93hRp) | 2:59 |
 
-Snapshot ID: `AAAAAPfucr9wYrl626T3xiSy825shfUz`
+Snapshot ID: `AAAAAMN7OwJU5VdUuVlWzDGo/v6TZewL`

@@ -146,7 +146,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 12500,
       "name": "+81 Connect Call_LANA",
       "url": "https://open.spotify.com/track/48wfpr9c8v0b4BqydswJpd"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 9500,
       "name": "+81 Connect Call_ziproom",
       "url": "https://open.spotify.com/track/0PB2eNLmxWfn1jtZQ9NlCY"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 160568,
       "name": "412",
       "url": "https://open.spotify.com/track/2DbV4QmATThwgFEcY6VsqC"
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 197870,
       "name": "99 Steps",
       "url": "https://open.spotify.com/track/7iy5CzNNrpJD3i0hx8t83n"
@@ -5230,7 +5230,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 240272,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1AHccfsS9xxFuyArt6vOlt"
@@ -9104,7 +9104,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 154213,
       "name": "DOKUTOKU (feat. 7)",
       "url": "https://open.spotify.com/track/4mO0NUePsmkv3zbex6uO2o"
@@ -14582,7 +14582,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 123535,
       "name": "hey now",
       "url": "https://open.spotify.com/track/4EUGHVQjnubTUTIexDo1F6"
@@ -15427,6 +15427,24 @@
     },
     {
       "album": {
+        "name": "Arinomama",
+        "url": "https://open.spotify.com/album/6HcNczCD1p8sH2xDk5tCng"
+      },
+      "artists": [
+        {
+          "name": "shuto",
+          "url": "https://open.spotify.com/artist/7GDEHYe4fzouanlgVi3ZkE"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257333,
+      "name": "Hustler",
+      "url": "https://open.spotify.com/track/7eOBjpDoCARFXqf8mkGTsG"
+    },
+    {
+      "album": {
         "name": "HYAKKIYAKO",
         "url": "https://open.spotify.com/album/0m9SCyoEvBNKfY7SMxO6si"
       },
@@ -15592,7 +15610,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 170557,
       "name": "I JUST",
       "url": "https://open.spotify.com/track/0cNACzcjSwDWjMhv6FRnMX"
@@ -16802,7 +16820,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 151224,
       "name": "IYASAKA LIT (feat. CHICO CARLITO)",
       "url": "https://open.spotify.com/track/3OuhE5KEvVMUQpRy2eHPZK"
@@ -18680,7 +18698,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 140537,
       "name": "Let's Get Dirty (feat. 13ELL)",
       "url": "https://open.spotify.com/track/1MtiNyteTBfMBhoUw5TuiD"
@@ -25280,6 +25298,28 @@
       "duration_ms": 142714,
       "name": "OMG",
       "url": "https://open.spotify.com/track/76LK8JFMUd50TX1SJuqvFB"
+    },
+    {
+      "album": {
+        "name": "Omote II (Remix)",
+        "url": "https://open.spotify.com/album/43L8a35axN51XW9ff7PRNn"
+      },
+      "artists": [
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118781,
+      "name": "Omote II - Remix",
+      "url": "https://open.spotify.com/track/5dkIeFcy0awNiHvZoQ7O0b"
     },
     {
       "album": {
@@ -31982,7 +32022,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 178106,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/1apk1NLMkVRJhTdUk1dV11"
@@ -34612,7 +34652,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 170587,
       "name": "Tokaido Line",
       "url": "https://open.spotify.com/track/1lNv2NEnLfIqDexRwwm0y1"
@@ -35116,7 +35156,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 113684,
       "name": "TOUMEI",
       "url": "https://open.spotify.com/track/75VtMQZyegJ7Kea8T6C5EM"
@@ -37040,7 +37080,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 180582,
       "name": "WAVEY",
       "url": "https://open.spotify.com/track/31WDWwM3hI8jzcNNeKI2Bl"
@@ -38096,7 +38136,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 142930,
       "name": "World is mine",
       "url": "https://open.spotify.com/track/23qdS5pKApBb4VjSaxQAQN"
@@ -38965,6 +39005,24 @@
     },
     {
       "album": {
+        "name": "Zoo",
+        "url": "https://open.spotify.com/album/5DtC3zQLDDNEQFwDLP5PVY"
+      },
+      "artists": [
+        {
+          "name": "STARKIDS",
+          "url": "https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156362,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/3HePCoxA2XO1Q1Mq7f0Xm0"
+    },
+    {
+      "album": {
         "name": "Y.E.N.",
         "url": "https://open.spotify.com/album/1lgmevmniw6caC26ODhfHP"
       },
@@ -39446,7 +39504,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 178528,
       "name": "\u306a\u3093\u3068\u304b\u306a\u308b\u3055",
       "url": "https://open.spotify.com/track/1okUPp53P1lvQCeZUXdbHi"
@@ -40700,7 +40758,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 213084,
       "name": "\u4e0d\u5b89\u306a\u591c\u3078",
       "url": "https://open.spotify.com/track/0FWJCYskUHi31uvkGOZOoI"

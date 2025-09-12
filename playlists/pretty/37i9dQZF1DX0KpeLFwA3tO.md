@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 ### [All New Punk](https://open.spotify.com/playlist/37i9dQZF1DX0KpeLFwA3tO)
 
-> The best new music from the wide world of punk\. Cover: State Champs
+> The best new music from the wide world of punk\. Cover: Speed
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,082 likes - 174 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,118 likes - 174 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 59 | [Street Theatre](https://open.spotify.com/track/6QHyN5Cj8qVzt5Kp3ykbw0) | [Texoprint](https://open.spotify.com/artist/3Crxw3x5GQwDrhY51BNcMi) | [Street Theatre](https://open.spotify.com/album/19qA3A3DSAS6JeLZho62Xh) | 2:21 |
 | 60 | [Centipede](https://open.spotify.com/track/2Fcl1wHmdkJLdZOej4mLNr) | [Forty Feet Tall](https://open.spotify.com/artist/5Y0hXvdIjFtKZ5UFYMAAeF) | [Clean the Cage](https://open.spotify.com/album/3rxXnKtqcLR4FHsfwCBsqe) | 4:07 |
 | 61 | [Your Misery](https://open.spotify.com/track/08Zdvv12TUEEkomxqj7l9m) | [SKIRT.](https://open.spotify.com/artist/1ncSEf033cpKhDR6NI0lke) | [Your Misery](https://open.spotify.com/album/75fMzBeHVS6gFvJWR2AfkS) | 1:37 |
-| 62 | [I've been away \- 2025 Version](https://open.spotify.com/track/5Ememi90xXWzfTO7OanVvF) | [Pave](https://open.spotify.com/artist/3iLbPHbCcAt24jhVdTlzOZ) | [I've been away \(2025 Version\)](https://open.spotify.com/album/5N5yh99RbQBBdQONhkFa9m) | 3:10 |
+| 62 | [I've been away \- 2025 Version](https://open.spotify.com/track/5Ememi90xXWzfTO7OanVvF) | [I'll Catch You](https://open.spotify.com/artist/1dmAR3EeeT12nTx1l9mZmZ) | [I've been away \(2025 Version\)](https://open.spotify.com/album/5N5yh99RbQBBdQONhkFa9m) | 3:10 |
 | 63 | [Seconds](https://open.spotify.com/track/5akK5uoFuTh2gT0GC3DhOE) | [gas station.](https://open.spotify.com/artist/3NYPmsKD44GlUOZYLuvhPZ) | [Seconds](https://open.spotify.com/album/2KvteevFw8s1sM9V2lY8HS) | 2:58 |
 | 64 | [B A D I D E A](https://open.spotify.com/track/5qDvHAFgbVJrGkBb7sJM07) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [B A D I D E A](https://open.spotify.com/album/66w1jC2ICwyggAeHCPCBmr) | 1:49 |
 | 65 | [Ricochet](https://open.spotify.com/track/06daWaRQMjUCGUUWggs5Cs) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/12u4H6lUktpqPGSamFd8tk) | 3:41 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 173 | [DUD](https://open.spotify.com/track/3TDYyOyKMZqGlk2OOZ1nvh) | [teethin](https://open.spotify.com/artist/4Wj9pvOAHySewGeVeGBMDg) | [DUD](https://open.spotify.com/album/2i2ZDjUHLMDMtYWrazDaFr) | 3:31 |
 | 174 | [BITE MY TONGUE](https://open.spotify.com/track/2L1pwAyA9lRfgaalqofUqt) | [SUCKERPUNCH!](https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp) | [BITE MY TONGUE](https://open.spotify.com/album/6shUVZFALrsOBywT2JxL0Y) | 2:39 |
 
-Snapshot ID: `AAAAAEGBZBVaOluLzuzxvj9jEP9Sd+6L`
+Snapshot ID: `AAAAADDZ5ZnYxJ4Yuf+emiYZ8g/eRgap`

@@ -2,7 +2,7 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec Charlotte Cardin
+> Les meilleures nouveautés de la variété française avec SANTA
 
 318 songs - 15 hr 41 min
 

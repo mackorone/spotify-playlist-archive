@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,234 songs - 2 day 6 hr 28 min
+1,235 songs - 2 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Don't Stop](https://open.spotify.com/track/5O5VhN7ddn4EZLiPjvmekN) | [Amphitryon](https://open.spotify.com/artist/1RZXk7ou8ZRXyFx8x40vlA) | [Don't Stop](https://open.spotify.com/album/2ebLgt1vbeJityABzquIAL) | 2:31 | 2025-05-09 | 2025-06-07 |
 | [Don't Think Too Hard](https://open.spotify.com/track/5BzOroIN5pjmK4SbCf3Tzy) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [S3S](https://open.spotify.com/artist/0av9yMRjEnYSRdv3gKLxpq), [Landon Ryle](https://open.spotify.com/artist/1ZuahBYwNDFPAo6QAsnxTf) | [Don't Think Too Hard](https://open.spotify.com/album/5NIgfZ5xGkd6fEpF37Ic42) | 3:03 | 2024-06-14 | 2024-07-20 |
 | [Don't Wanna Let You Go](https://open.spotify.com/track/6UZPpeLO9Clo8YCCwwmuP9) | [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Don't Wanna Let You Go](https://open.spotify.com/album/3ZXO6XrKic79dxxnugBZCN) | 3:15 | 2024-08-23 | 2024-11-18 |
+| [Don't Worry \(Take It Easy\)](https://open.spotify.com/track/4HuDS1Kd0Hvrw2eHetcyih) | [Santi](https://open.spotify.com/artist/5hdmCzKYktqtLIUy9auFP7), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Don't Worry \(Take It Easy\)](https://open.spotify.com/album/7nXVIJXl4GIeqdar9DX8v5) | 2:41 | 2025-09-12 |  |
 | [Don't You Want To Live](https://open.spotify.com/track/6TTUxafR3FtiQVjBp7JCmg) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Amaranth Skies](https://open.spotify.com/artist/6v1yanGkwUBUbk6G3dgNOq), [Anna\-Sophia Henry](https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8) | [Don't You Want To Live](https://open.spotify.com/album/3iuCXACdjQ2x6zdPOzwnlS) | 2:34 | 2024-09-27 | 2025-03-14 |
 | [Don't You Worry Child](https://open.spotify.com/track/1on8TuNoLPuSQclKvDOpRq) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7) | [Don't You Worry Child](https://open.spotify.com/album/3CuHBIm4ACtpNyMjGlNMIj) | 3:47 | 2024-05-03 | 2024-06-15 |
 | [Dont Let Me Go](https://open.spotify.com/track/2ZQmmmUVwsR8gIKhJJIwct) | [Lust.](https://open.spotify.com/artist/00D4DKXe3TdHJh6lzetwoi) | [Dont Let Me Go](https://open.spotify.com/album/5tusq9AKg3gRfmuVMPiWNq) | 2:20 | 2024-05-17 | 2024-06-15 |

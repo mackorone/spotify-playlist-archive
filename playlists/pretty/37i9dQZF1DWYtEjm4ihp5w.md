@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Cover: 7ari, Ramoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,733 likes - 45 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,845 likes - 45 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 44 | [CHERRANI](https://open.spotify.com/track/4jGp61FIMJW8DUS1C3O3GR) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0) | [CHERRANI](https://open.spotify.com/album/7pQCduA2fy9aDXzwQeZscQ) | 3:13 |
 | 45 | [Me](https://open.spotify.com/track/2OKNdsJOqpKcIkYWYLbXEp) | [Damost](https://open.spotify.com/artist/24Bo3rD54ttCU6Z5GsiXaU) | [Tinnitus](https://open.spotify.com/album/4tUxiowliZHmoPrHWLfkjp) | 2:58 |
 
-Snapshot ID: `AAAAAE5w4Q4KFnBjR4nIaKD1eK1mtReU`
+Snapshot ID: `AAAAAO/4FdZLDrhisb6B2DwIMUMK9cO2`

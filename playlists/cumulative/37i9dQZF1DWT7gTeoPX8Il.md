@@ -4,7 +4,7 @@
 
 > layan je
 
-331 songs - 21 hr 50 min
+332 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Belaian Derita](https://open.spotify.com/track/0U4r7j4y1m58MENm4tUWIU) | [Fairuz Syazwan](https://open.spotify.com/artist/10FOQY6tUzPRMaO2Z5ZtzA) | [Belaian Derita](https://open.spotify.com/album/048zNlPgnMRvymNowveMTx) | 3:59 | 2025-07-28 |  |
 | [Belum Mulai](https://open.spotify.com/track/5MFi8dcCIGTiuUIC2loVQc) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP), [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Belum Mulai](https://open.spotify.com/album/039LNwYmsa5hoQPDFbFbcc) | 3:34 | 2024-06-27 | 2024-07-27 |
 | [Benar Salah](https://open.spotify.com/track/5KqEwJnIyjaiLQ866MkHHY) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Benar Salah](https://open.spotify.com/album/44FncBBPS20DbZJEIL7VYN) | 3:27 | 2024-07-12 | 2024-07-27 |
-| [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \(Original Soundtrack From "Home Sweet Loan"\)](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 | 2024-10-17 |  |
+| [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \(Original Soundtrack From "Home Sweet Loan"\)](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 | 2024-10-17 | 2025-09-12 |
 | [Berbagi Hati \- Piano Version \- From "Berbagi Suami"](https://open.spotify.com/track/4ZjfH1wcBI8g1pXqXJtH7f) | [Khai Bahar](https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq), [Wany Hasrita](https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1) | [Berbagi Hati \(Piano Version \- From "Berbagi Suami"\)](https://open.spotify.com/album/4rp4jhVmwsX0tUtJEa4Dju) | 2:33 | 2024-12-12 | 2025-01-17 |
 | [Bercinta Lewat Kata \- From "Jatuh Cinta Seperti di Film\-Film"](https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Bercinta Lewat Kata \(From "Jatuh Cinta Seperti di Film\-Film"\)](https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd) | 2:49 | 2024-01-18 | 2024-10-04 |
 | [Berharap Kau Kembali](https://open.spotify.com/track/39KLpL6U90nMI1GzaBuv1s) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Berharap Kau Kembali](https://open.spotify.com/album/1PjtBnzBSScqyw9ZWaDaBV) | 4:18 | 2024-02-01 | 2024-03-01 |
@@ -105,6 +105,7 @@
 | [Diam](https://open.spotify.com/track/3Kjftr1Zz1iVNvTB1SyodI) | [Hael Husaini](https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL) | [Antonim Pt\. I](https://open.spotify.com/album/02SRZ4OSSxnHvyLQX83fwl) | 3:21 | 2025-02-17 | 2025-03-07 |
 | [Dibalas Dengan Dusta](https://open.spotify.com/track/75nN4aNv69urbVgIAPCYxR) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Dibalas Dengan Dusta](https://open.spotify.com/album/5o7eHNTm5x3FWatqCvAMqI) | 4:05 | 2024-06-20 | 2024-07-13 |
 | [Dilemma \- From "Racun Rihanna"](https://open.spotify.com/track/1VNPTiES2ROlyZQSk0gJIf) | [Kaka Azraff](https://open.spotify.com/artist/4a6rcjvQs6YOwK5sVlybKV) | [Dilemma \(From "Racun Rihanna"\)](https://open.spotify.com/album/55LCvUS6r2dNQJc36FwMbr) | 4:37 | 2024-04-05 | 2024-04-19 |
+| [Dirimu Yang Dulu](https://open.spotify.com/track/4NTJKqpoAlTG3RcPB3y4C7) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Dirimu Yang Dulu](https://open.spotify.com/album/1XwDxY39rQn75hkx763Kri) | 4:00 | 2025-07-28 |  |
 | [Dugaan Takdir Cinta \- From "Takdir Itu Milik Aku"](https://open.spotify.com/track/4YYok2PE88TSr0hLqS6E8F) | [Afif Tirmizie](https://open.spotify.com/artist/7fqIZ8Dd8XUIESFSoUeq2y), [Nikki Palikat](https://open.spotify.com/artist/6EdlX521xMCxqlD9vUeQKa) | [Dugaan Takdir Cinta \(From "Takdir Itu Milik Aku"\)](https://open.spotify.com/album/1alT5EmIg0oovdyHkCeFXn) | 4:11 | 2024-02-15 | 2024-02-23 |
 | [Dugaan Takdir Cinta \- Piano Version \- From "Takdir Itu Milik Aku"](https://open.spotify.com/track/0TtkIdfUUhmcbgAj6DkmwD) | [Afif Tirmizie](https://open.spotify.com/artist/7fqIZ8Dd8XUIESFSoUeq2y), [Nikki Palikat](https://open.spotify.com/artist/6EdlX521xMCxqlD9vUeQKa) | [Dugaan Takdir Cinta \(Piano Version \- From "Takdir Itu Milik Aku"\)](https://open.spotify.com/album/6lT10ZfMkvKpmBHTLdbYgV) | 4:10 | 2024-02-29 | 2024-03-08 |
 | [Duka](https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Duka](https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q) | 5:25 | 2024-01-18 |  |

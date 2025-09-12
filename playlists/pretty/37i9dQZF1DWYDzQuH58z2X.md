@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYDzQuH58z2X.md) - [plain]
 
 > Enjoy the NCT DREAM TOUR \[THE DREAM SHOW 4 : DREAM THE FUTURE\] LIVE SET including the voices of them on stage! \(엔시티 드림의 무대 멘트와 목소리가 포함된 \[THE DREAM SHOW 4 : DREAM THE FUTURE\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,716 likes - 38 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,714 likes - 38 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

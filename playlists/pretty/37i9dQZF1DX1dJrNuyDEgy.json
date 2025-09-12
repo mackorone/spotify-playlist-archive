@@ -1,6 +1,6 @@
 {
   "description": "Ay ay ay ay... Canta y no llores, porque cantando se alegran, cielito lindo, los corazones. ",
-  "num_followers": 219356,
+  "num_followers": 219444,
   "original_name": "M\u00e9xico Lindo & Querido",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,26 @@
     {
       "added_at": "2025-09-05 21:55:59",
       "album": {
+        "name": "Veracruz Son y Huapango",
+        "url": "https://open.spotify.com/album/7nrQ2LRqb5N0fFtW4rrPJD"
+      },
+      "artists": [
+        {
+          "name": "Tlen Huicani",
+          "url": "https://open.spotify.com/artist/47dC2tIVeFjNtRXcCE53O8"
+        },
+        {
+          "name": "Lino Chavez",
+          "url": "https://open.spotify.com/artist/0mE18DYrJBKMJdDBSUc3Jn"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/51EcnaX9uGBFYdBpMThgEs"
+    },
+    {
+      "added_at": "2025-09-05 21:55:59",
+      "album": {
         "name": "Jorge Negrete. Sus 40 Grandes Canciones (1911-1953)",
         "url": "https://open.spotify.com/album/4fowTvcUyT2fJDYgor7l6b"
       },
@@ -247,22 +267,6 @@
       "duration_ms": 144266,
       "name": "Ay, jalisco no te rajes (remastered)",
       "url": "https://open.spotify.com/track/3W6QLGKk0ggZuk2jzPlxTO"
-    },
-    {
-      "added_at": "2025-09-05 21:55:59",
-      "album": {
-        "name": "No Que No (Edici\u00f3n De Lujo)",
-        "url": "https://open.spotify.com/album/5wFfJdMGqQubs2UEerlVRR"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 161453,
-      "name": "El Mariachi Loco",
-      "url": "https://open.spotify.com/track/5p8MEea3AUX4d7azlnYHol"
     },
     {
       "added_at": "2025-09-05 21:55:59",
@@ -283,22 +287,18 @@
     {
       "added_at": "2025-09-05 21:55:59",
       "album": {
-        "name": "Veracruz Son y Huapango",
-        "url": "https://open.spotify.com/album/7nrQ2LRqb5N0fFtW4rrPJD"
+        "name": "No Que No (Edici\u00f3n De Lujo)",
+        "url": "https://open.spotify.com/album/5wFfJdMGqQubs2UEerlVRR"
       },
       "artists": [
         {
-          "name": "Tlen Huicani",
-          "url": "https://open.spotify.com/artist/47dC2tIVeFjNtRXcCE53O8"
-        },
-        {
-          "name": "Lino Chavez",
-          "url": "https://open.spotify.com/artist/0mE18DYrJBKMJdDBSUc3Jn"
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
         }
       ],
-      "duration_ms": 193453,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/51EcnaX9uGBFYdBpMThgEs"
+      "duration_ms": 161453,
+      "name": "El Mariachi Loco",
+      "url": "https://open.spotify.com/track/5p8MEea3AUX4d7azlnYHol"
     },
     {
       "added_at": "2025-09-05 21:55:59",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-09-05 21:55:59",
       "album": {
-        "name": "De Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/76fRflWFFHxPUIc0qKnmDo"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 601480,
-      "name": "La Bala",
-      "url": "https://open.spotify.com/track/2Z5fIjiXs9mewTPp2hvVTR"
-    },
-    {
-      "added_at": "2025-09-05 21:55:59",
-      "album": {
         "name": "Exitos De Chava Flores",
         "url": "https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 115013,
       "name": "La Bartola",
       "url": "https://open.spotify.com/track/0WSgW14LNEGidRni1Qsmr5"
+    },
+    {
+      "added_at": "2025-09-05 21:55:59",
+      "album": {
+        "name": "De Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/76fRflWFFHxPUIc0qKnmDo"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 601480,
+      "name": "La Bala",
+      "url": "https://open.spotify.com/track/2Z5fIjiXs9mewTPp2hvVTR"
     },
     {
       "added_at": "2025-09-05 21:55:59",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-09-05 21:55:59",
       "album": {
-        "name": "Maestra Vida",
-        "url": "https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25"
-      },
-      "artists": [
-        {
-          "name": "Susana Baca",
-          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
-        }
-      ],
-      "duration_ms": 380088,
-      "name": "Hasta La Ra\u00edz",
-      "url": "https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y"
-    },
-    {
-      "added_at": "2025-09-05 21:55:59",
-      "album": {
         "name": "Corridos Y Rancheras",
         "url": "https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf"
       },
@@ -479,18 +463,18 @@
     {
       "added_at": "2025-09-05 21:55:59",
       "album": {
-        "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
-        "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
+        "name": "Maestra Vida",
+        "url": "https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25"
       },
       "artists": [
         {
-          "name": "Conjunto Alma Jarocha",
-          "url": "https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f"
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
         }
       ],
-      "duration_ms": 216133,
-      "name": "Colas",
-      "url": "https://open.spotify.com/track/00ZarAVrDz8P9UxuLbdFTu"
+      "duration_ms": 380088,
+      "name": "Hasta La Ra\u00edz",
+      "url": "https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y"
     },
     {
       "added_at": "2025-09-05 21:55:59",
@@ -511,6 +495,22 @@
     {
       "added_at": "2025-09-05 21:55:59",
       "album": {
+        "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
+        "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Alma Jarocha",
+          "url": "https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f"
+        }
+      ],
+      "duration_ms": 216133,
+      "name": "Colas",
+      "url": "https://open.spotify.com/track/00ZarAVrDz8P9UxuLbdFTu"
+    },
+    {
+      "added_at": "2025-09-05 21:55:59",
+      "album": {
         "name": "Fiesta Mexicana\u201a Puro Mariachi",
         "url": "https://open.spotify.com/album/7bM47G8J24pQah2NMDmXFo"
       },
@@ -523,6 +523,22 @@
       "duration_ms": 181746,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/5vTCRHPzOIXTPx0Bx6fGhM"
+    },
+    {
+      "added_at": "2025-09-05 21:55:59",
+      "album": {
+        "name": "Danzones, Mambos y Cha Cha Chas",
+        "url": "https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL"
+      },
+      "artists": [
+        {
+          "name": "Marimba Chiapas",
+          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "Las Clases del Cha Cha Cha",
+      "url": "https://open.spotify.com/track/0vCBgiJZPjYXwVqVcqy8FR"
     },
     {
       "added_at": "2025-09-05 21:55:59",
@@ -555,22 +571,6 @@
       "duration_ms": 155800,
       "name": "La Evangelina",
       "url": "https://open.spotify.com/track/3WsjRAP92a3CXO3WVXpCHZ"
-    },
-    {
-      "added_at": "2025-09-05 21:55:59",
-      "album": {
-        "name": "Danzones, Mambos y Cha Cha Chas",
-        "url": "https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL"
-      },
-      "artists": [
-        {
-          "name": "Marimba Chiapas",
-          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "Las Clases del Cha Cha Cha",
-      "url": "https://open.spotify.com/track/0vCBgiJZPjYXwVqVcqy8FR"
     },
     {
       "added_at": "2025-09-05 21:55:59",

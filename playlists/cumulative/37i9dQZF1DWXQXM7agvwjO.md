@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: H3F \(Thailand\)
 
-2,160 songs - 5 day 10 hr 44 min
+2,161 songs - 5 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1299,7 +1299,7 @@
 | [Paradisa](https://open.spotify.com/track/0MRwX4pIryUzrEsn8q8XKx) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [Paradisa](https://open.spotify.com/album/5OKhOx9XtV4LKm3zikD9r4) | 4:32 | 2022-11-10 | 2023-01-20 |
 | [Paradise \(電影《我的天堂城市》主題曲\)](https://open.spotify.com/track/0ncyk8m3pWbzpWHRN5vk16) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [Retune](https://open.spotify.com/album/1b3UJcVwDhtbllbnAB5l9q) | 3:45 | 2023-12-14 | 2023-12-30 |
 | [Paradise \(電影《我的天堂城市》主題曲\)](https://open.spotify.com/track/1sPe0BW8Ob7lZ1lTY5M44V) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [Paradise \(電影《我的天堂城市》主題曲\)](https://open.spotify.com/album/6SYatLOX94QtaZtiCVjseA) | 3:45 | 2023-09-15 | 2023-09-29 |
-| [Paradise \- Japanese ver.](https://open.spotify.com/track/414pHXjusDK7U6bg0AqAq1) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ), [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [Paradise \(Japanese ver.\)](https://open.spotify.com/album/0Ae0CHwUaUjlkhPAzSglR6) | 2:56 | 2025-09-05 |  |
+| [Paradise \- Japanese ver.](https://open.spotify.com/track/414pHXjusDK7U6bg0AqAq1) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ), [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [Paradise \(Japanese ver.\)](https://open.spotify.com/album/0Ae0CHwUaUjlkhPAzSglR6) | 2:56 | 2025-09-05 | 2025-09-12 |
 | [Paris](https://open.spotify.com/track/54m4aGaWnngwTficxvykzq) | [Telex Telexs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q) | [Paris](https://open.spotify.com/album/6xDBXy2dbXvZfMztTKrmwT) | 3:34 | 2022-11-10 | 2023-01-20 |
 | [Paris](https://open.spotify.com/track/0andTPdoEDqJ5tsuWOx9BP) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Paris](https://open.spotify.com/album/1M9Vczg4mugm6otHw1X5jp) | 3:14 | 2022-11-24 | 2023-02-17 |
 | [Parking Lot \(feat\. Helena Amarantinis Phansook\)](https://open.spotify.com/track/4hMHht6F4wvqlscy13cgzl) | [MAKARA](https://open.spotify.com/artist/65RxWuQA0XBQvN9JjRUhrB), [Helena Amarantinis Phansook](https://open.spotify.com/artist/68jxAMiaEUvwRcao1vuilP) | [Parking Lot \(feat\. Helena Amarantinis Phansook\)](https://open.spotify.com/album/7nd00e1y3gwiCvqw9no6ev) | 3:37 | 2025-07-03 | 2025-08-08 |
@@ -2016,6 +2016,7 @@
 | [たまに君のことを思い出してしまうよな](https://open.spotify.com/track/6y7x5BY5C7kEGEeI6YEHAH) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [たまに君のことを思い出してしまうよな](https://open.spotify.com/album/39H14bkoydGyDjrQXtEdLl) | 4:11 | 2024-11-08 | 2024-11-16 |
 | [どうして髭を？](https://open.spotify.com/track/41QfKjANF6fiDll3MN6yxS) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [どうして髭を？](https://open.spotify.com/album/5fkSBMSaT3TGGdQohMGaX2) | 3:18 | 2024-02-29 | 2024-03-08 |
 | [なんてね](https://open.spotify.com/track/71TekkQ6MUZf8wsUKhuxhx) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [なんてね](https://open.spotify.com/album/3sGUJFiOE1W7QFuPwI4sAu) | 2:32 | 2024-07-12 | 2024-09-27 |
+| [ふわり](https://open.spotify.com/track/40HGWMDzsbCN5uIY0znQty) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [ふわり](https://open.spotify.com/album/7CjB2qN8kpU8YcXn0N0Sz4) | 4:07 | 2025-09-11 |  |
 | [まだ早い果物](https://open.spotify.com/track/3TdQ9gzUlb8xLs6tBBMzEW) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [まだ早い果物](https://open.spotify.com/album/20nMIY4kVjmrehAzij4ed0) | 4:49 | 2024-06-21 | 2024-07-05 |
 | [まどろみ](https://open.spotify.com/track/0sxEdCqofNc7JYNegZNbSX) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まどろみ](https://open.spotify.com/album/6wdoVlAvCeo5heE998oUMK) | 4:23 | 2023-10-05 | 2023-10-07 |
 | [まぶた](https://open.spotify.com/track/6YCwX5jlAEFL775YJqgLqN) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [まぶた](https://open.spotify.com/album/787EPgEJvHIXQ5MFDqG0oP) | 4:16 | 2023-01-12 | 2023-01-20 |

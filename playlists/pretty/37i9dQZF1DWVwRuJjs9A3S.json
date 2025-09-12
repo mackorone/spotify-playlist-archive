@@ -1,13 +1,29 @@
 {
-  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie, med The Last Dinner Party.",
+  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie, med Kasino.",
   "num_followers": 46895,
   "original_name": "Indie Highlights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHbHPYnL5tHPd3Y3Gdh+URp5SZyZ",
+  "snapshot_id": "AAAAAGAtq5YxHl8I0E+hhkZlM+oCG+cL",
   "tracks": [
+    {
+      "added_at": "2025-09-11 23:00:09",
+      "album": {
+        "name": "\u00d6gonen",
+        "url": "https://open.spotify.com/album/1oS4eeYnTQ1nBTLz3HeQPA"
+      },
+      "artists": [
+        {
+          "name": "Kasino",
+          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
+        }
+      ],
+      "duration_ms": 228397,
+      "name": "\u00d6gonen",
+      "url": "https://open.spotify.com/track/3hVAR6Gy8x48yXfyZB8cEU"
+    },
     {
       "added_at": "2025-09-04 22:00:28",
       "album": {
@@ -59,18 +75,102 @@
     {
       "added_at": "2025-09-04 22:00:28",
       "album": {
-        "name": "Huvet i ett moln",
-        "url": "https://open.spotify.com/album/1Uf0MTzYLkpkppVFa6SJRF"
+        "name": "Blushing",
+        "url": "https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus"
       },
       "artists": [
         {
-          "name": "Slowgold",
-          "url": "https://open.spotify.com/artist/2Urxw4X90ya3LA8KqV2WIX"
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Huvet i ett moln",
-      "url": "https://open.spotify.com/track/60Fj3KuAxjV88jHYwDesYE"
+      "duration_ms": 247000,
+      "name": "Blushing",
+      "url": "https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6"
+    },
+    {
+      "added_at": "2025-09-11 23:00:09",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 143213,
+      "name": "Jaime",
+      "url": "https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf"
+    },
+    {
+      "added_at": "2025-09-11 23:00:09",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Jens Lekman",
+          "url": "https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx"
+        },
+        {
+          "name": "Matilda Sargren",
+          "url": "https://open.spotify.com/artist/1eRz9OGhKoaqlllkjNoR6d"
+        }
+      ],
+      "duration_ms": 273240,
+      "name": "On a Pier, On the Hudson",
+      "url": "https://open.spotify.com/track/3NPGL8TYTiahQplLct85G2"
+    },
+    {
+      "added_at": "2025-09-11 23:00:09",
+      "album": {
+        "name": "Lazy",
+        "url": "https://open.spotify.com/album/62uxdKThg4AohDhzHhNlGw"
+      },
+      "artists": [
+        {
+          "name": "Club 8",
+          "url": "https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx"
+        }
+      ],
+      "duration_ms": 99873,
+      "name": "Lazy",
+      "url": "https://open.spotify.com/track/7gjLvBAVibgfEvOBzpfbaf"
+    },
+    {
+      "added_at": "2025-09-11 23:00:09",
+      "album": {
+        "name": "Take A Drive",
+        "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Take A Drive",
+      "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
+    },
+    {
+      "added_at": "2025-09-11 23:00:09",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 175339,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB"
     },
     {
       "added_at": "2025-09-04 22:00:28",
@@ -87,6 +187,70 @@
       "duration_ms": 183466,
       "name": "The Hives Forever Forever The Hives",
       "url": "https://open.spotify.com/track/2jfiQnjMbn7tnvcNiJIml2"
+    },
+    {
+      "added_at": "2025-09-11 23:00:09",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 197703,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3"
+    },
+    {
+      "added_at": "2025-09-04 22:00:28",
+      "album": {
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/6tALCdY8BWXAYqyZ0A2UEi"
+      },
+      "artists": [
+        {
+          "name": "I Don't Speak French",
+          "url": "https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY"
+        }
+      ],
+      "duration_ms": 170341,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/6mAJ6zg0qt6oWu4IdYkP3d"
+    },
+    {
+      "added_at": "2025-09-11 23:00:09",
+      "album": {
+        "name": "Allting \u00e4r en tavla",
+        "url": "https://open.spotify.com/album/4FKP1SLfGC86LS4DGTsgaA"
+      },
+      "artists": [
+        {
+          "name": "Dalmatin",
+          "url": "https://open.spotify.com/artist/6Fydl2UeADvnfloGHWW4uJ"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Det enda som finns kvar",
+      "url": "https://open.spotify.com/track/7FDe1dQOjhBHgujNmJem6B"
+    },
+    {
+      "added_at": "2025-09-11 23:00:09",
+      "album": {
+        "name": "To The Sandals",
+        "url": "https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 248932,
+      "name": "To The Sandals",
+      "url": "https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE"
     },
     {
       "added_at": "2025-09-04 22:00:28",
@@ -123,38 +287,6 @@
     {
       "added_at": "2025-09-04 22:00:28",
       "album": {
-        "name": "Blushing",
-        "url": "https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus"
-      },
-      "artists": [
-        {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Blushing",
-      "url": "https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6"
-    },
-    {
-      "added_at": "2025-09-04 22:00:28",
-      "album": {
-        "name": "Boys Don't Cry",
-        "url": "https://open.spotify.com/album/6tALCdY8BWXAYqyZ0A2UEi"
-      },
-      "artists": [
-        {
-          "name": "I Don't Speak French",
-          "url": "https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY"
-        }
-      ],
-      "duration_ms": 170341,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/6mAJ6zg0qt6oWu4IdYkP3d"
-    },
-    {
-      "added_at": "2025-09-04 22:00:28",
-      "album": {
         "name": "Aska p\u00e5 kyrkog\u00e5rden",
         "url": "https://open.spotify.com/album/6TZ2jcd9gkSNJSRX98PrQl"
       },
@@ -169,10 +301,82 @@
       "url": "https://open.spotify.com/track/2UN0SUllL5YD7N7rr7mQ0J"
     },
     {
+      "added_at": "2025-09-11 23:00:09",
+      "album": {
+        "name": "Blood Moon",
+        "url": "https://open.spotify.com/album/1T1wPY475CLErkq858TqWR"
+      },
+      "artists": [
+        {
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+        }
+      ],
+      "duration_ms": 291834,
+      "name": "Blood Moon",
+      "url": "https://open.spotify.com/track/4cXAWD76lMGYjXxezJIKin"
+    },
+    {
+      "added_at": "2025-09-11 23:00:09",
+      "album": {
+        "name": "West Coast Girl",
+        "url": "https://open.spotify.com/album/2kewRK2h4IcqaAzUTvNQTQ"
+      },
+      "artists": [
+        {
+          "name": "10 000 \u00e5r",
+          "url": "https://open.spotify.com/artist/0emic5nhAqsyLBJHDy3E4l"
+        },
+        {
+          "name": "Nowhere Blue",
+          "url": "https://open.spotify.com/artist/4rSnpj0LK5jbdGUTKeBLzP"
+        },
+        {
+          "name": "Birds Eye View",
+          "url": "https://open.spotify.com/artist/60LZHUi3OMtWf7ETGxPAMO"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "West Coast Girl",
+      "url": "https://open.spotify.com/track/4wevmhCVQ1sSrmrYyZu9U1"
+    },
+    {
+      "added_at": "2025-09-11 23:00:09",
+      "album": {
+        "name": "Change My Mind / Dare To Fall In Love",
+        "url": "https://open.spotify.com/album/7bb6XYtPuE2YE86EwswEOS"
+      },
+      "artists": [
+        {
+          "name": "Phantastic Ferniture",
+          "url": "https://open.spotify.com/artist/6uHxXCSJUP50EgddL6eWNC"
+        }
+      ],
+      "duration_ms": 137664,
+      "name": "Dare To Fall In Love",
+      "url": "https://open.spotify.com/track/6wK00cLmk8GOgJOgMusTeu"
+    },
+    {
       "added_at": "2025-09-04 22:00:28",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/5jUs3aZpuNvoxD0IkLsUfl"
+        "name": "Huvet i ett moln",
+        "url": "https://open.spotify.com/album/1Uf0MTzYLkpkppVFa6SJRF"
+      },
+      "artists": [
+        {
+          "name": "Slowgold",
+          "url": "https://open.spotify.com/artist/2Urxw4X90ya3LA8KqV2WIX"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Huvet i ett moln",
+      "url": "https://open.spotify.com/track/60Fj3KuAxjV88jHYwDesYE"
+    },
+    {
+      "added_at": "2025-09-11 23:00:09",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
       },
       "artists": [
         {
@@ -180,9 +384,9 @@
           "url": "https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY"
         }
       ],
-      "duration_ms": 170622,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/38VyxEI8InzvhKZfQJfKEM"
+      "duration_ms": 191025,
+      "name": "Bigger Person",
+      "url": "https://open.spotify.com/track/1VZJQ8i70HJiRYZyOvOBRX"
     },
     {
       "added_at": "2025-09-04 22:00:28",

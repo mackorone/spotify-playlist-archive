@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : BLOWSOM",
+  "description": "The best French indie tracks right now. Cover : Oscar Anton",
   "name": "Made in France",
   "tracks": [
     {
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 199680,
       "name": "Bluer than Blue",
       "url": "https://open.spotify.com/track/4DGTdk3mJzEfFMRtDKGR1l"
@@ -3278,7 +3278,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 159960,
       "name": "en rosalie",
       "url": "https://open.spotify.com/track/7df0w01vdDcboukwMPjjPV"
@@ -4595,6 +4595,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Peter Dallas",
+          "url": "https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh"
+        },
+        {
+          "name": "\u00e9ol",
+          "url": "https://open.spotify.com/artist/3Qsh8vZLpSAHADVBkGD70N"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155353,
+      "name": "Higher Than Before",
+      "url": "https://open.spotify.com/track/7irwdKYcZ0OsiAUgP0WStP"
+    },
+    {
+      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/2ncXtuMWMcC2c1UhJp7OmS"
       },
@@ -5016,6 +5038,24 @@
       "duration_ms": 188936,
       "name": "I'll Think About It",
       "url": "https://open.spotify.com/track/0RLKhd3wbu8733GCu03nNn"
+    },
+    {
+      "album": {
+        "name": "I'm Not Ready",
+        "url": "https://open.spotify.com/album/1F3ITwDwonkFAuXd1y4OaP"
+      },
+      "artists": [
+        {
+          "name": "Victor Marc",
+          "url": "https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165677,
+      "name": "I'm Not Ready",
+      "url": "https://open.spotify.com/track/40nh46IxI2Pqr4kHMqDNnZ"
     },
     {
       "album": {
@@ -5789,6 +5829,28 @@
     },
     {
       "album": {
+        "name": "L'homme \u00e0 la rivi\u00e8re",
+        "url": "https://open.spotify.com/album/13i8zUb2HeTdSNW1bOQvtu"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e0n\u00e7ois & The Atlas Mountains",
+          "url": "https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU"
+        },
+        {
+          "name": "Yasmine Hamdan",
+          "url": "https://open.spotify.com/artist/5VElAWe58JiEzEl4vtjw7J"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245739,
+      "name": "L'homme \u00e0 la rivi\u00e8re",
+      "url": "https://open.spotify.com/track/6QuZZAr8mMz9JDTm4rSRtd"
+    },
+    {
+      "album": {
         "name": "Carambolages",
         "url": "https://open.spotify.com/album/5UF124cCkyEHbPzvlPFJMp"
       },
@@ -5982,7 +6044,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 193474,
       "name": "la douche",
       "url": "https://open.spotify.com/track/5ANUATWKve7VCSx1B6544D"
@@ -6478,6 +6540,24 @@
       "duration_ms": 194763,
       "name": "Le monde est beau",
       "url": "https://open.spotify.com/track/5W1HRz46nKQjPG9pS3uokt"
+    },
+    {
+      "album": {
+        "name": "Le mur du salon",
+        "url": "https://open.spotify.com/album/2gZL4ccmGDOXe3mKvTGENo"
+      },
+      "artists": [
+        {
+          "name": "Steve Ibrahim",
+          "url": "https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189851,
+      "name": "Le mur du salon",
+      "url": "https://open.spotify.com/track/6DSFwl1y7t1ds2zMjgxEYy"
     },
     {
       "album": {
@@ -7050,7 +7130,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 204500,
       "name": "Lune d'argent",
       "url": "https://open.spotify.com/track/003QE5r4yCHEvFh6pOVea7"
@@ -7778,6 +7858,24 @@
       "duration_ms": 225365,
       "name": "mots cl\u00e9s",
       "url": "https://open.spotify.com/track/0ak3Rt8IxWVWQENHIrBvfn"
+    },
+    {
+      "album": {
+        "name": "Mr. Plastic",
+        "url": "https://open.spotify.com/album/0AvBXxggtjAbVknmfvDegZ"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131811,
+      "name": "Mr. Plastic",
+      "url": "https://open.spotify.com/track/6spcrcdCq4lcRnYVkhVQRb"
     },
     {
       "album": {
@@ -8826,7 +8924,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 162699,
       "name": "Parallel Lines",
       "url": "https://open.spotify.com/track/2h9k3txmnkPpDzMhgohEZO"
@@ -8938,7 +9036,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 179560,
       "name": "particule",
       "url": "https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS"
@@ -9787,6 +9885,24 @@
     },
     {
       "album": {
+        "name": "roger rabbit",
+        "url": "https://open.spotify.com/album/7prizHwvKXEPZAcbd8xQLp"
+      },
+      "artists": [
+        {
+          "name": "miki",
+          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275733,
+      "name": "roger rabbit",
+      "url": "https://open.spotify.com/track/4LXIfg4jZNs7SSWh8e5pUq"
+    },
+    {
+      "album": {
         "name": "Romantisme",
         "url": "https://open.spotify.com/album/1AuDZxt0M2s86a7EzhIFJl"
       },
@@ -10316,6 +10432,24 @@
       "duration_ms": 162109,
       "name": "SMILE",
       "url": "https://open.spotify.com/track/6EQCByvO8WXdHYw6QLLXNI"
+    },
+    {
+      "album": {
+        "name": "Smile Game",
+        "url": "https://open.spotify.com/album/5Kf1dsBBZKnOaqARQrmfH2"
+      },
+      "artists": [
+        {
+          "name": "Saint Stacy",
+          "url": "https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145759,
+      "name": "Smile Game",
+      "url": "https://open.spotify.com/track/6PiL3Tdk4LTiOWhTz5anh6"
     },
     {
       "album": {
@@ -11898,7 +12032,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 131733,
       "name": "Tu me mens",
       "url": "https://open.spotify.com/track/689RdTmyMdVYIU1F0CiWWU"
@@ -12291,6 +12425,28 @@
     },
     {
       "album": {
+        "name": "Villa d'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/2aVPOnczxN0DHnZpLAvVSy"
+      },
+      "artists": [
+        {
+          "name": "Amou\u00eb",
+          "url": "https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww"
+        },
+        {
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202331,
+      "name": "Villa d'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/5b9ynJg3oLzBSs087ubJzN"
+    },
+    {
+      "album": {
         "name": "Vinyle",
         "url": "https://open.spotify.com/album/7zKq0eBazgkWFC3vV7L0gu"
       },
@@ -12432,7 +12588,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 159573,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/7cMg5vrTt97hgKvKC6Ju7s"

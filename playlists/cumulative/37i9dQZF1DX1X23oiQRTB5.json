@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Niska au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "GIMS x SCH x La Mano 1.9 au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 176248,
       "name": "Ca parle mal",
       "url": "https://open.spotify.com/track/1nRGR8rKXQXKyzsewi6bXZ"
@@ -2221,6 +2221,24 @@
     },
     {
       "album": {
+        "name": "FDT",
+        "url": "https://open.spotify.com/album/620W178thQwaizBX6AV3G9"
+      },
+      "artists": [
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "FDT",
+      "url": "https://open.spotify.com/track/1bLGJ2sbG6SWDzO3oRePSp"
+    },
+    {
+      "album": {
         "name": "COCO JOJO",
         "url": "https://open.spotify.com/album/5xNkM6KOf8SQqeNOHTYlzD"
       },
@@ -3136,6 +3154,24 @@
       "duration_ms": 206106,
       "name": "Jeune d'en bas (feat. Nekfeu)",
       "url": "https://open.spotify.com/track/3cOIYXOt3tMpeNz9XOmNos"
+    },
+    {
+      "album": {
+        "name": "Job",
+        "url": "https://open.spotify.com/album/6VVSZP5emclTDs5QLSGvnP"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201818,
+      "name": "Job",
+      "url": "https://open.spotify.com/track/4pcKa72ZXndYzdMAhyh0AS"
     },
     {
       "album": {
@@ -4778,7 +4814,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 217693,
       "name": "NANANI NANANA",
       "url": "https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD"
@@ -4958,7 +4994,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 195906,
       "name": "ON FAIT LES CHOSES",
       "url": "https://open.spotify.com/track/0geR06bJpVHmOU2wyVnPDl"
@@ -6890,6 +6926,36 @@
       "duration_ms": 188320,
       "name": "T\u00e9l\u00e9phone - Extrait de CRCLR MVT SAISON II",
       "url": "https://open.spotify.com/track/0FLegMOg3yN9e2zF5p9Vxb"
+    },
+    {
+      "album": {
+        "name": "Un monde \u00e0 l'autre",
+        "url": "https://open.spotify.com/album/4RbDvMMrFoliCy4mUSUNf1"
+      },
+      "artists": [
+        {
+          "name": "GP Explorer",
+          "url": "https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155965,
+      "name": "Un monde \u00e0 l'autre",
+      "url": "https://open.spotify.com/track/0DAhk47iSMkfPKm5MDW17x"
     },
     {
       "album": {

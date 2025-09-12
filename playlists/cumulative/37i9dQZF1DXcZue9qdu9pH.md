@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-141 songs - 7 hr 47 min
+142 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [find a way \(dusk\)](https://open.spotify.com/track/3uziTtMALrYxzKUUs09ezj) | [SHLM](https://open.spotify.com/artist/7zG9V7FPRowfauISu9Dy2U), [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB) | [Find A Way](https://open.spotify.com/album/15qqTdTiUNccxMQNoXDlvs) | 3:56 | 2024-05-30 |  |
 | [Find Your Way \- Acoustic](https://open.spotify.com/track/2dE4C4x6itFc1Lxops4Hgy) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Presha \(Acoustic\)](https://open.spotify.com/album/3tXc0EcWrNJIWMQMSz8bF6) | 3:39 | 2023-06-30 | 2023-09-02 |
 | [Fly](https://open.spotify.com/track/06NYbaBObkkEbPvPYCo6i0) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [hihi](https://open.spotify.com/artist/2OXj55sxdZ4Lw0kSpRD9me) | [SOFT STEPS](https://open.spotify.com/album/1Z4RWl181lTgYrOKfDWM4o) | 2:56 | 2024-09-26 | 2024-10-04 |
+| [Freak Show](https://open.spotify.com/track/50L8gSrd2oUjrcPVNP6mDI) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S) | [Freak Show](https://open.spotify.com/album/1rWaIByfwfLQm2GH8cV6Pg) | 2:27 | 2025-09-11 |  |
 | [From the Other Side](https://open.spotify.com/track/6CpGpXZp9HMp0gkMUafRwC) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ) | [From the Other Side](https://open.spotify.com/album/2nleFIOQCJ9SAKQJt4bzSG) | 3:21 | 2024-12-05 | 2025-03-14 |
 | [Fuego](https://open.spotify.com/track/7EDyotg14mU02A92I7MIkF) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali](https://open.spotify.com/album/0fe0T3nNaWpMcdOr4ss9bw) | 2:29 | 2023-06-30 | 2024-05-04 |
 | [Further Lighter](https://open.spotify.com/track/4OIlpwFnpccLfdiVLZEV47) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elza Tsaiger](https://open.spotify.com/artist/6peIB4PwYFH1cLNVOTUrE7) | [Further Lighter](https://open.spotify.com/album/6zLOG4yi9RyGYmZEpBc8z9) | 3:17 | 2023-06-30 | 2024-06-01 |
@@ -118,7 +119,7 @@
 | [Spend My Money](https://open.spotify.com/track/23QGS3cR9tRLOmJ2iY8pN2) | [Tetu Shani](https://open.spotify.com/artist/4PATOXrnfnClxoIKMoRSHG), [Labdi](https://open.spotify.com/artist/310NKKgwvfe3k3nf9ug5TZ) | [Spend My Money](https://open.spotify.com/album/7a2QwjWVQQOD1O6M2zBDvq) | 2:56 | 2023-06-30 | 2024-07-03 |
 | [Spoils](https://open.spotify.com/track/6p2GZQ2XvtzY1y02AvsA0J) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Spoils](https://open.spotify.com/album/1FJRlLYSvXvf75AbJ6iRQR) | 3:16 | 2025-05-01 |  |
 | [Still Ain't Free](https://open.spotify.com/track/4TFvHFpvWHFhP9TDt02ppl) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Still Ain't Free](https://open.spotify.com/album/7gC5LgjRmFhaqdJt2o0B2R) | 2:12 | 2025-03-07 | 2025-07-04 |
-| [Sucky Place](https://open.spotify.com/track/0IxYhLVxCsjKR5Mv5ZWis4) | [Sichangi](https://open.spotify.com/artist/2DftdJfk5hxZfnnRETvXtE), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Soundtrack to a Heartbreak](https://open.spotify.com/album/5emRSeXmDV77latJDtwIM3) | 2:40 | 2023-06-30 |  |
+| [Sucky Place](https://open.spotify.com/track/0IxYhLVxCsjKR5Mv5ZWis4) | [Sichangi](https://open.spotify.com/artist/2DftdJfk5hxZfnnRETvXtE), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Soundtrack to a Heartbreak](https://open.spotify.com/album/5emRSeXmDV77latJDtwIM3) | 2:40 | 2023-06-30 | 2025-09-12 |
 | [Sunny Everyday](https://open.spotify.com/track/7r8z2NTBdx2euV2pSJkhOW) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [mphilo](https://open.spotify.com/artist/5CJTRMHq8aukAtFyoleRIF) | [Whispers of the Soul](https://open.spotify.com/album/4XZaOuCDoQ5igRDBnxqD71) | 1:39 | 2024-02-22 | 2024-10-18 |
 | [Superhuman](https://open.spotify.com/track/5IjmDEuIPnGuZlAjJVnsPV) | [Olivia Ambani](https://open.spotify.com/artist/2ZvuDMMGloNFnH6Bhm67jG) | [The Awakening](https://open.spotify.com/album/6WnV2kPJou5mPZpmnSLvx0) | 3:03 | 2023-06-30 | 2023-10-24 |
 | [Surrender](https://open.spotify.com/track/0D3SNWVC7KAzCy8jnBwqln) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn) | [Surrender](https://open.spotify.com/album/4UU3AuDsnhCk6QDwNZci6p) | 3:43 | 2024-11-21 |  |

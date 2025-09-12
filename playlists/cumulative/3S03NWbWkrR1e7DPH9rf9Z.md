@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-211 songs - 10 hr 21 min
+212 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Atmosphere](https://open.spotify.com/track/4f36yOtuLrOVxfWopiDjiw) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Atmosphere](https://open.spotify.com/album/5Z34tqOAHVByFmFK6hyhyg) | 2:44 | 2025-07-04 |  |
 | [Baby, We Go Fast](https://open.spotify.com/track/5zAD7yXhRIun5y9SJ3O4Ec) | [KROMI](https://open.spotify.com/artist/554qDHSwsDfX0qOfyxQjWs) | [Baby, We Go Fast](https://open.spotify.com/album/6SodAOzVREjC27qIMnPlTB) | 3:30 | 2025-07-04 |  |
 | [Back 2 The Oldschool](https://open.spotify.com/track/05Td46SbppRqIXW1kOnBEH) | [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [MYKRIS](https://open.spotify.com/artist/74FoBhis1hShJt1oBnmXkC) | [Back 2 The Oldschool](https://open.spotify.com/album/4mazpP6lDBqHazc8nNnVuO) | 2:49 | 2025-07-04 |  |
+| [Back To Life](https://open.spotify.com/track/08x0S0LgffRPiI1qiIsdFT) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [KIYOTO](https://open.spotify.com/artist/5uxop8n7axixBHd562LYrR) | [Back To Life](https://open.spotify.com/album/4RT8Qkl0vNxvDW6iX8abxB) | 3:05 | 2025-09-11 |  |
 | [Bad](https://open.spotify.com/track/3MmSFDQ14BHOwGiS6nTI76) | [Liah](https://open.spotify.com/artist/3iFO7dwzsgNbmsaW59HrAi) | [Bad](https://open.spotify.com/album/1DYT4lDHV9dV5QW5UvmwCJ) | 2:44 | 2025-07-04 |  |
 | [Bad Cop](https://open.spotify.com/track/2n4YYAXNgrIiLzdTfld9Rv) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Bad Cop](https://open.spotify.com/album/7wgqGkRiaGOuFue6eM03tj) | 2:20 | 2025-07-04 |  |
 | [Bassline Vandal](https://open.spotify.com/track/1GUMaM9D1qF2eHxMy7KwXT) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9) | [Bassline Vandal](https://open.spotify.com/album/5wlxgzkOV92T2RHqMGXoeM) | 3:20 | 2025-07-04 |  |
@@ -193,7 +194,7 @@
 | [This Time \(Never Be Alone Again\) \- Vion Konger Remix](https://open.spotify.com/track/7oGoYb8ptBSUPraeKpfsbG) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [This Time \(Never Be Alone Again\) \[Vion Konger Remix\]](https://open.spotify.com/album/1EQVyCfBAsYEq55IxKLbZD) | 2:39 | 2025-07-04 |  |
 | [Through The Dark](https://open.spotify.com/track/7BJJkburHcl8jD0HoKH6bf) | [9BLADE](https://open.spotify.com/artist/1NFcTe19CrpWk3TNUIBOd6) | [Through The Dark](https://open.spotify.com/album/1JjCrwn2K01vErL0JR8JVv) | 3:02 | 2025-07-04 |  |
 | [Thunderbolt \(Jaxx & Vega Remix\)](https://open.spotify.com/track/1XtnKmKyKisMPCCrM0T59C) | [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w) | [Thunderbolt \(Jaxx & Vega Remix\)](https://open.spotify.com/album/0KmqBPBuassPSQciUOWwAp) | 2:09 | 2025-07-25 |  |
-| [To The Moon And Back 2025](https://open.spotify.com/track/2usY7VeehDFDqP2ZYTv93Y) | [Discotronic](https://open.spotify.com/artist/4zboeZtcUwsTEhl2YDCLr4), [TRIIIPL3 INC.](https://open.spotify.com/artist/1m91WjQ6nEC5k3F1HC51sP) | [To The Moon And Back 2025](https://open.spotify.com/album/019jsj0pYWNJLedmOPmPu0) | 3:02 | 2025-08-01 |  |
+| [To The Moon And Back 2025](https://open.spotify.com/track/2usY7VeehDFDqP2ZYTv93Y) | [Discotronic](https://open.spotify.com/artist/4zboeZtcUwsTEhl2YDCLr4), [TRIIIPL3 INC.](https://open.spotify.com/artist/1m91WjQ6nEC5k3F1HC51sP) | [To The Moon And Back 2025](https://open.spotify.com/album/019jsj0pYWNJLedmOPmPu0) | 3:02 | 2025-08-01 | 2025-09-12 |
 | [Together](https://open.spotify.com/track/3aloxFY8qg4LZbI42TKN3o) | [Bogar Uriel](https://open.spotify.com/artist/3jbFY4fmWJ53dHwGXRYCa4) | [Together](https://open.spotify.com/album/444EVwZDVvm49c7RYE6HYn) | 3:00 | 2025-07-04 |  |
 | [Tokyo To Rio](https://open.spotify.com/track/0vLFoHL7RfspOfDsVwe4Qt) | [Alpharock](https://open.spotify.com/artist/629Fs7UJp6tWqOYZi8t8ET), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx) | [Tokyo To Rio](https://open.spotify.com/album/0Lzo5yZdsEC87h94SjMgHJ) | 2:06 | 2025-07-04 |  |
 | [Too Late](https://open.spotify.com/track/2pkXM2kb7H2zquhHGq7dVH) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC), [Mike Ottoro](https://open.spotify.com/artist/4znNJBz0N0BFo7WcnIfC5w) | [Club Weapons vol.1](https://open.spotify.com/album/7z1fsDVS8tM5UQGxRh5Aqg) | 2:58 | 2025-07-04 |  |

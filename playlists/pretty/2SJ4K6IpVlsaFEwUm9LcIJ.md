@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,217 likes - 15 songs - 49 min 55 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 23,228 likes - 16 songs - 51 min 24 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,5 +23,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 13 | [I Hope You Really Love Me](https://open.spotify.com/track/1LBvNIbA5kd4W3aOIKVrI1) | [The Family Circle](https://open.spotify.com/artist/3hrkdQYKnihdWrvt66YNM3) | [Family Circle](https://open.spotify.com/album/5l3yLjP4MtAPtVbO1G4PPm) | 2:25 |
 | 14 | [Murmurations](https://open.spotify.com/track/434K63nCgwOq27Z6UBnEah) | [Vega Trails](https://open.spotify.com/artist/0gbsttCxz1wkYMjN64WCgR) | [Sierra Tracks](https://open.spotify.com/album/7HLOgO7dhpJ3gQYQnbczKJ) | 5:11 |
 | 15 | [Micronomic](https://open.spotify.com/track/6ol3Y5VhaPW2rd1PSEgC0V) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [Faking The Books](https://open.spotify.com/album/6NUMXxMBXsCuth2PXt4d79) | 3:23 |
+| 16 | [bloom](https://open.spotify.com/track/23SyRsEwgBsFs5fnr2mffZ) | [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y) | [wishful thinking](https://open.spotify.com/album/7AzqzYUtZhGnQA2gnM6wXz) | 1:29 |
 
-Snapshot ID: `AAANEpFXTMK5Zj2ha0FICKkFMt4KBK2b`
+Snapshot ID: `AAANEx19aLOqdmqwbh8PJEepcvYiXuDB`

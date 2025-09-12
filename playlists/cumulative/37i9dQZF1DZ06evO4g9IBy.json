@@ -321,6 +321,32 @@
     },
     {
       "album": {
+        "name": "Frozen Love",
+        "url": "https://open.spotify.com/album/5Eov9cU1Be0M5rVvF5LVZc"
+      },
+      "artists": [
+        {
+          "name": "Buckingham Nicks",
+          "url": "https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435793,
+      "name": "Frozen Love",
+      "url": "https://open.spotify.com/track/6qfNV0MDV73P9DUhyITlqS"
+    },
+    {
+      "album": {
         "name": "Live In Concert: The 24 Karat Gold Tour",
         "url": "https://open.spotify.com/album/6RXy2mL8HlVhzHU0JOO9dq"
       },
@@ -828,7 +854,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 280626,
       "name": "Sleeping Angel (From Fast Times at Ridgemont High) - 2016 Remaster",
       "url": "https://open.spotify.com/track/35I5lX6yE00YSu7PEgES54"

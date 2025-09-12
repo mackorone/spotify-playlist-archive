@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Vale Lambo in cover.
 
-512 songs - 23 hr 27 min
+513 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [A Storia Mì](https://open.spotify.com/track/56syCqfZDVTN3rHWDLnxwb) | [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [A Storia Mì](https://open.spotify.com/album/2iG6CfO4qfmEGAYjHzZyD5) | 3:11 | 2024-04-18 | 2024-05-17 |
 | [A VUO FRNÌ](https://open.spotify.com/track/0ZNZzAfNAqTi6zvHmfcIp9) | [Matteo Paolillo](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J) | [A VUO FRNÌ](https://open.spotify.com/album/2uZtsCmnf5aG7N70iTnsji) | 2:59 | 2023-11-15 | 2023-12-08 |
 | [A' vita senz' e te \(Me fa paura\)](https://open.spotify.com/track/0aihKoR995mM6IO31vYd3I) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [A' vita senz' e te \(Me fa paura\)](https://open.spotify.com/album/0o862B9nqWJuGpEJwsQIsI) | 2:22 | 2022-11-10 | 2024-05-10 |
-| [Accussì](https://open.spotify.com/track/0wp7x2nM7ycrKacgPJgVWK) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [808MANUEL](https://open.spotify.com/artist/27wAttijfo2tMZAWZsl0qj) | [Accussì](https://open.spotify.com/album/2HSqakWuj1tB3v9PQ9MDqH) | 2:50 | 2025-06-12 |  |
+| [Accussì](https://open.spotify.com/track/0wp7x2nM7ycrKacgPJgVWK) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [808MANUEL](https://open.spotify.com/artist/27wAttijfo2tMZAWZsl0qj) | [Accussì](https://open.spotify.com/album/2HSqakWuj1tB3v9PQ9MDqH) | 2:50 | 2025-06-12 | 2025-09-12 |
 | [Accussì](https://open.spotify.com/track/5qvea4yzUYkFQGkUTQLjKy) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [LEO](https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp) | [Accussì](https://open.spotify.com/album/3k19bFL6YN6EEezYhA9ofi) | 3:09 | 2022-05-10 | 2022-05-13 |
 | [ADDIO](https://open.spotify.com/track/4IuhPS27Rf3lDqSYYmHqI0) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [ADDIO](https://open.spotify.com/album/7iFrtAfj9vQpE0EYTaIZBe) | 3:12 | 2024-06-20 | 2024-11-22 |
 | [Addo Staje](https://open.spotify.com/track/3AE8w0nzeosiLXfXRVQOXg) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Addo Staje](https://open.spotify.com/album/1nAiRosddjANStcOVnGUxF) | 3:15 | 2023-05-04 | 2023-06-02 |
@@ -42,6 +42,7 @@
 | [Aria](https://open.spotify.com/track/0caTPacDysfcJExNGfBGdO) | [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [Aria](https://open.spotify.com/album/64KRPtSpXUEutFU0etCUpl) | 2:45 | 2025-09-04 |  |
 | [ATM \(feat\. MV Killa\)](https://open.spotify.com/track/6jV1tdQXiQ87WPO5uqjSyq) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 2:34 | 2023-08-31 | 2023-10-06 |
 | [Audemars](https://open.spotify.com/track/2NUOdmLPgHzpUrRJAm7K5s) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9) | [Audemars](https://open.spotify.com/album/4CUHtEsTCmXgG0Y3k9oBmA) | 2:24 | 2025-07-03 |  |
+| [Audemars \(Remix\) \[with Manuel Erry & Fresh Beatz\]](https://open.spotify.com/track/1iX6LqbBWwhfctAy3DnNMh) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [Manuel Erry](https://open.spotify.com/artist/3EuxW7IEIQFkxTKHSq8ETH), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Audemars \(Remix\) \[with Manuel Erry & Fresh Beatz\]](https://open.spotify.com/album/7sSafpY92CsWyhn46s0MDI) | 2:47 | 2025-09-11 |  |
 | [AUDI NOIRE](https://open.spotify.com/track/4YvWoLoanqyBjEZGBCeyWi) | [Le garçon](https://open.spotify.com/artist/7bfaB3zJ12yoMnFMewFrnR) | [AUDI NOIRE](https://open.spotify.com/album/5Qem9pKq3VQnUoH6PzmkId) | 2:13 | 2024-04-25 | 2024-05-17 |
 | [BABY LOVE ME \(con Wako & Peppe Soks\)](https://open.spotify.com/track/4IeFakToqcwNogAjNsPCuF) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [Wako](https://open.spotify.com/artist/0b7ySAAZntR9rpgsSQLlnx), [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [BABY LOVE ME \(con Wako & Peppe Soks\)](https://open.spotify.com/album/3XS3YeYI9z9sAFtCCBmlZr) | 2:15 | 2023-06-14 | 2023-09-29 |
 | [BABY U WANT ME \(feat\. Geolier & Michelangelo\)](https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 3:43 | 2024-01-11 | 2024-11-15 |

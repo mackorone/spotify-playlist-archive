@@ -177,6 +177,28 @@
     },
     {
       "album": {
+        "name": "An \u1ee6i Em \u0110\u01b0\u1ee3c Kh\u00f4ng",
+        "url": "https://open.spotify.com/album/0Wze7XS2oLsY5IDgFjrZZR"
+      },
+      "artists": [
+        {
+          "name": "Olew",
+          "url": "https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY"
+        },
+        {
+          "name": "Ng\u1eafn",
+          "url": "https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268236,
+      "name": "An \u1ee6i Em \u0110\u01b0\u1ee3c Kh\u00f4ng",
+      "url": "https://open.spotify.com/track/1mN4HvOcu3JU5BmPfsvaIJ"
+    },
+    {
+      "album": {
         "name": "Anh",
         "url": "https://open.spotify.com/album/0P91wcAcNdrsYUJnWYXggD"
       },
@@ -3098,7 +3120,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 201600,
       "name": "L\u00f9i L\u1ea1i L\u1ea5y \u0110\u00e0",
       "url": "https://open.spotify.com/track/7uEDYqrHJ6Ab5tPz5pNhxy"

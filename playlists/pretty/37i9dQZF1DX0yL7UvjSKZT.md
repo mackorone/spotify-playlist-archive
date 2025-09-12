@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: The Creekers
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,234 likes - 127 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,255 likes - 127 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 13 | [Who I Am](https://open.spotify.com/track/5Eh6dZjFunROfk6GFsyTqg) | [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Passage Du Desir](https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t) | 3:06 |
 | 14 | [Faeries](https://open.spotify.com/track/7vrvRfRl59esYrrL6Rg9Z8) | [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [I'm Not Around](https://open.spotify.com/album/542qwbhNepiJqh4gt4WzId) | 3:25 |
 | 15 | [Lighthouse \- Alternate Version](https://open.spotify.com/track/38wsMIz4DNPPZT92tv5hsu) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Lighthouse \(Alternate Version\)](https://open.spotify.com/album/7lamU2iaFGyr8SyIxk41g7) | 3:31 |
-| 16 | [Moon in Motion 1](https://open.spotify.com/track/4JL65cYynb4QVhdM4nBM5M) | [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh), [Tray Wellington Band](https://open.spotify.com/artist/4cA3qHzBqSEeeiB9oYzLIp) | [Moon in Motion 1](https://open.spotify.com/album/6xUMxx04zJslYt50p1Ugkp) | 4:09 |
+| 16 | [Moon in Motion 1](https://open.spotify.com/track/4JL65cYynb4QVhdM4nBM5M) | [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh), [Tray Wellington Band](https://open.spotify.com/artist/4cA3qHzBqSEeeiB9oYzLIp) | [Moon in Motion 1](https://open.spotify.com/album/6xUMxx04zJslYt50p1Ugkp) | 4:11 |
 | 17 | [All Around You](https://open.spotify.com/track/5S1kM0JFOhktFalTjOZH0L) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [All Around You](https://open.spotify.com/album/1N2018a6LgCjSaZbuyTzSR) | 3:13 |
 | 18 | [Old Dreams](https://open.spotify.com/track/2H4BiN1bezzrdB7wcwzUKC) | [Maygen & The Birdwatcher](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8) | [Leap Year](https://open.spotify.com/album/7nLGwzyeB9zzYinbCdhltJ) | 3:19 |
 | 19 | [High Life](https://open.spotify.com/track/79euymTE7egtSLkw2oYFWT) | [Olivia Wolf](https://open.spotify.com/artist/4nCfP4yZhkF1g7g8MlzCM7), [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [High Life](https://open.spotify.com/album/0iJRhOqdyE4arCftukw6CN) | 3:25 |

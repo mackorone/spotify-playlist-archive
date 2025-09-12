@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Fukaj, Vito Bambino",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Zalia",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "BUENOS",
+        "url": "https://open.spotify.com/album/6qj7jhpY9oyeJQIf2mDosF"
+      },
+      "artists": [
+        {
+          "name": "Rubens",
+          "url": "https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238853,
+      "name": "BUENOS",
+      "url": "https://open.spotify.com/track/2gRq6PD3FPkATNfHBb5nti"
+    },
+    {
+      "album": {
         "name": "Bursztynowe Koraliki",
         "url": "https://open.spotify.com/album/0rQ0uNsnzi7AoG3WjWN9FZ"
       },
@@ -1066,7 +1084,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 211909,
       "name": "B\u0105d\u017a Du\u017cy",
       "url": "https://open.spotify.com/track/59J2aInt1Fo3gt0i9Kfeuy"
@@ -1620,7 +1638,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 133124,
       "name": "CZEGO CHCESZ?",
       "url": "https://open.spotify.com/track/4eue73ROoFV1r1Rw7uUQbj"
@@ -2122,7 +2140,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 236640,
       "name": "Do tego momentu",
       "url": "https://open.spotify.com/track/2odtcKKUuKyen1NiZBfXJn"
@@ -3198,7 +3216,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 179648,
       "name": "Gramy na czas",
       "url": "https://open.spotify.com/track/0FukFXGCwXpRv4wycVzRJy"
@@ -3348,6 +3366,24 @@
       "duration_ms": 150000,
       "name": "HIFI (7 bieg)",
       "url": "https://open.spotify.com/track/21radxZ4Xh5Zsq9lQ9hEs1"
+    },
+    {
+      "album": {
+        "name": "Himalaje",
+        "url": "https://open.spotify.com/album/0Y3ZhFXv40x4Euyg3J7IYY"
+      },
+      "artists": [
+        {
+          "name": "Bovska",
+          "url": "https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173963,
+      "name": "Himalaje",
+      "url": "https://open.spotify.com/track/4IhYpTLze4fiOIDZ6HTS6X"
     },
     {
       "album": {
@@ -4698,7 +4734,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 215842,
       "name": "Lepsze dni",
       "url": "https://open.spotify.com/track/3eS2Q7d7Pd8RG1B2eQ8cwA"
@@ -5981,6 +6017,28 @@
     },
     {
       "album": {
+        "name": "Na Spokojnie",
+        "url": "https://open.spotify.com/album/2wqAUxb2My9ohUxUC4LCb0"
+      },
+      "artists": [
+        {
+          "name": "DrySkull",
+          "url": "https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp"
+        },
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178977,
+      "name": "Na Spokojnie",
+      "url": "https://open.spotify.com/track/2UGaY7tgXk5gPJXOk0G8zT"
+    },
+    {
+      "album": {
         "name": "NA ZAWSZE",
         "url": "https://open.spotify.com/album/7KWCqttOI3ViyT004P1Nr5"
       },
@@ -6246,7 +6304,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 146742,
       "name": "Nie B\u0119dziemy T\u0119skni\u0107",
       "url": "https://open.spotify.com/track/0KD4ViguSRKEZry2Qh5Of5"
@@ -6442,6 +6500,24 @@
       "duration_ms": 148000,
       "name": "NIE M\u00d3WI\u0141A NIC",
       "url": "https://open.spotify.com/track/5RFe2B5H3E3ZNYL0gn04JU"
+    },
+    {
+      "album": {
+        "name": "Nie pozwol\u0119 Ci wyj\u015b\u0107",
+        "url": "https://open.spotify.com/album/1ERBMG7BItkG9tFx13JHYd"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161129,
+      "name": "Nie pozwol\u0119 Ci wyj\u015b\u0107",
+      "url": "https://open.spotify.com/track/1wHhHMk0hutBAULKaC3G3U"
     },
     {
       "album": {
@@ -7978,7 +8054,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 186716,
       "name": "Poddam si\u0119",
       "url": "https://open.spotify.com/track/7FLBDQBBSw4nhAXiIPtRq1"
@@ -8652,10 +8728,28 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 173333,
       "name": "Radar",
       "url": "https://open.spotify.com/track/4Ujt2XNnfF7HEBxRqrVpH9"
+    },
+    {
+      "album": {
+        "name": "raj",
+        "url": "https://open.spotify.com/album/2QtHtXU83l62Vxbcs8r3yT"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192506,
+      "name": "raj",
+      "url": "https://open.spotify.com/track/4Cq0rDh0QQcz5K14k4EaH9"
     },
     {
       "album": {
@@ -8812,7 +8906,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 186666,
       "name": "Sam na sam",
       "url": "https://open.spotify.com/track/0lrbZAFcTiwAqb62eC5fhj"
@@ -9363,6 +9457,28 @@
     },
     {
       "album": {
+        "name": "Szekspir",
+        "url": "https://open.spotify.com/album/4WlGNUct5FGv0Q28Ox0zjY"
+      },
+      "artists": [
+        {
+          "name": "Jacko Brango",
+          "url": "https://open.spotify.com/artist/4cbzjCAZp1uf5Ctc7hqToV"
+        },
+        {
+          "name": "Natalia Szroeder",
+          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Szekspir",
+      "url": "https://open.spotify.com/track/3B4ZCBL1Qr8k5q0YjZKfbq"
+    },
+    {
+      "album": {
         "name": "Szkic i kontury",
         "url": "https://open.spotify.com/album/0NoZoG8ggn1RzcGs2EbGOh"
       },
@@ -9824,10 +9940,32 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 150000,
       "name": "Ta\u0144cz",
       "url": "https://open.spotify.com/track/1LOtDHIE9p1ksNQ9iCz6l9"
+    },
+    {
+      "album": {
+        "name": "Ta\u0144cz Jak Ci Zagram",
+        "url": "https://open.spotify.com/album/5YvtzlS00KhxShFbbM5EEi"
+      },
+      "artists": [
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+        },
+        {
+          "name": "DZIARMA",
+          "url": "https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174342,
+      "name": "Ta\u0144cz Jak Ci Zagram",
+      "url": "https://open.spotify.com/track/6ioN1gEkTdYPuCivOoYdaB"
     },
     {
       "album": {
@@ -10786,7 +10924,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 200268,
       "name": "Wiem co z nami b\u0119dzie",
       "url": "https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj"
@@ -11594,7 +11732,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 144601,
       "name": "Zaraz Wracam",
       "url": "https://open.spotify.com/track/3RI3vuws0JrXhuDPWV72wV"

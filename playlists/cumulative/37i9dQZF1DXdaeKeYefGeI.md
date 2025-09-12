@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Herman van Veen & Gerson Main
 
-225 songs - 13 hr 43 min
+226 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Boze Wolven](https://open.spotify.com/track/2b0qtpy1kAISyhpGTOfj25) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Boze Wolven](https://open.spotify.com/album/1Cqk1oec5jI5pZA5zR265q) | 3:39 | 2024-10-10 |  |
 | [Brabant](https://open.spotify.com/track/0GiWi4EkPduFWHQyhiKpRB) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Guus Meeuwis](https://open.spotify.com/album/5Nkqfgaq1tqBzLGhSf0zaC) | 3:30 | 2023-02-10 | 2023-09-09 |
 | [Brugwachter](https://open.spotify.com/track/1nycat5wdlgvoHHl3Up4cv) | [Toverberg](https://open.spotify.com/artist/1Vem7FbnzmwH36evasOuZx) | [Brugwachter](https://open.spotify.com/album/6B1IiXW4SlRKzjvUrdkM4c) | 2:41 | 2023-12-05 | 2024-10-04 |
+| [Buut Vrij](https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Buut Vrij](https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu) | 2:38 | 2025-09-11 |  |
 | [Daarom Doe Ik Het Niet](https://open.spotify.com/track/3TJ3neKQCwrOfkstbExr9f) | [Musketiers](https://open.spotify.com/artist/3i57Jc20l9fkihVbs3ZOZq), [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Daniël Lohues](https://open.spotify.com/artist/5hmWcPzWxojagG5Q8IMrI6), [Paskal Jakobsen](https://open.spotify.com/artist/22shUi37uDfZmZQ8H6YuWr), [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk) | [Musketiers](https://open.spotify.com/album/4pLF4cLdZ5Xp2akThDvtpO) | 2:59 | 2023-02-10 | 2023-04-21 |
 | [Dan ben jij weer hier \(feat\. Red Limo Quartet\)](https://open.spotify.com/track/6ec3NKQLnV7LcV319qvHan) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Red Limo Quartet](https://open.spotify.com/artist/2rdJcBg2tEvmo0lVpYDizQ) | [Dan ben jij weer hier \(feat\. Red Limo Quartet\)](https://open.spotify.com/album/2ROH24w8CUD7bAUQ66nRSK) | 4:40 | 2024-03-07 |  |
 | [Dans met me](https://open.spotify.com/track/6HPIn3jIlvdOyKw8aH9SO0) | [Ricky Koole](https://open.spotify.com/artist/5fBVM70bd9z2d70XwIgKyS) | [Dans met me](https://open.spotify.com/album/4flGk7sNFNkEgXI5Mq0v21) | 4:38 | 2023-05-11 | 2023-07-01 |
@@ -70,7 +71,7 @@
 | [Er Is Een Lied Geschreven](https://open.spotify.com/track/2haBhftcHLtjso0v2ZhTgy) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Er Is Een Lied Geschreven](https://open.spotify.com/album/1MsOrf7YjeIIFLfbUThuWf) | 3:07 | 2024-09-26 | 2025-04-26 |
 | [Er Wordt Op Je Gewacht](https://open.spotify.com/track/59L9doBK0VFybuPglXAqzo) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Er Wordt Op Je Gewacht](https://open.spotify.com/album/4b9Jjg3fjdBiZ2EMQzJQWp) | 3:35 | 2023-02-10 | 2025-09-05 |
 | [Even voorgoed](https://open.spotify.com/track/4C7Opc7GkOln45lwSUqsaT) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Even voorgoed](https://open.spotify.com/album/0BbM1K1A00wIpkX4H9cq3q) | 3:18 | 2023-02-10 | 2024-07-06 |
-| [Gaast/Ferwoude](https://open.spotify.com/track/1M4bfMcZEKgAYOWjavoLwR) | [Esther de Jong](https://open.spotify.com/artist/3w50bIKKcdV5MfRf7LG0WV) | [Voeten in de aarde](https://open.spotify.com/album/7HZ1SrzuGUUHomVNfKTCxO) | 3:33 | 2025-03-27 |  |
+| [Gaast/Ferwoude](https://open.spotify.com/track/1M4bfMcZEKgAYOWjavoLwR) | [Esther de Jong](https://open.spotify.com/artist/3w50bIKKcdV5MfRf7LG0WV) | [Voeten in de aarde](https://open.spotify.com/album/7HZ1SrzuGUUHomVNfKTCxO) | 3:33 | 2025-03-27 | 2025-09-12 |
 | [Geef Je Hart Niet Zomaar Weg](https://open.spotify.com/track/2JPdHwNtkyZCSf2pM6AYMl) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Geef Je Hart Niet Zomaar Weg](https://open.spotify.com/album/6DtVWWZoinuNU1QiUgFMZq) | 4:05 | 2023-02-10 | 2024-07-06 |
 | [Geef Mij Nog Deze Nacht \- Ballad Versie](https://open.spotify.com/track/1VaFtGkRffdvluTUSNcUiQ) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [Geef Mij Nog Deze Nacht \(Ballad Versie\)](https://open.spotify.com/album/7qA5vyrbaQcvZVo0KaBIXG) | 4:20 | 2025-06-16 |  |
 | [Geen Ander](https://open.spotify.com/track/0erh8RtDG4siDMHqdixBXf) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Geen Ander](https://open.spotify.com/album/4miPU2jUOXsoUDAtglywn9) | 3:31 | 2023-02-10 | 2023-03-09 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Coeur maladroit\" de Marine est le Grand Hit de la semaine.",
+  "description": "\"Autrement\" de Julien Lieb est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -2934,7 +2934,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 201761,
       "name": "Le jeu",
       "url": "https://open.spotify.com/track/4Z8N4nXtKxm04qi4tE91Gn"
@@ -3622,6 +3622,24 @@
       "duration_ms": 180533,
       "name": "Mieux comme \u00e7a ? (feat. Petit K)",
       "url": "https://open.spotify.com/track/0aKBA3rWo1eBw6I9K1wXvg"
+    },
+    {
+      "album": {
+        "name": "Mille fois",
+        "url": "https://open.spotify.com/album/4KaoGdfF2k4RUhErCHDzUU"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173160,
+      "name": "Mille fois",
+      "url": "https://open.spotify.com/track/3uTr4TDHAfkpO2uR1HjtsN"
     },
     {
       "album": {

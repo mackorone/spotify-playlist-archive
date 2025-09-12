@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 ### [New Dance Beats](https://open.spotify.com/playlist/37i9dQZF1DXaqIZ7YXxc6o)
 
-> Your weekly dose of new dance\. Cover: Hermitude
+> Your weekly dose of new dance\. Cover: Yes Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,299 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,310 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Feel The Bass](https://open.spotify.com/track/0NtVfFAVWsyIRHTc7PlXbf) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Feel The Bass](https://open.spotify.com/album/0UFfEXUULwApuLxD5an0gl) | 2:38 |
 | 100 | [Waymo](https://open.spotify.com/track/0sI1Sx8scXXR3KylkXARzf) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Waymo](https://open.spotify.com/album/24tWMML2bsA27NlVIYafD9) | 3:02 |
 
-Snapshot ID: `AAAAAFwNY2UmzgEPPqQKKcrWuEKj+Sef`
+Snapshot ID: `AAAAAHE1lYubxELHitmJ2EklpiSzBbIM`

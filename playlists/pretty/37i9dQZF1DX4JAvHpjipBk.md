@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Justin Bieber, Lady Gaga, Don Toliver, Latto, Calvin Harris and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,434,407 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,434,559 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 75 | [Portal](https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Portal](https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR) | 2:23 |
 | 76 | [Stone Cold Eyes](https://open.spotify.com/track/2W9NLQFO28YMUju9BoxJAV) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [Stone Cold Eyes](https://open.spotify.com/album/1jSMxO05XmnoB8wtc2LEWk) | 4:01 |
 | 77 | [Adore You](https://open.spotify.com/track/22CkHDF8Hp3DAq6RbHTTKO) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Adore You](https://open.spotify.com/album/4N8NYtBGVBzFYIjprOZRU4) | 2:23 |
-| 78 | [WHISKEY RAIN \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/4msu2MSyuD5N52U6qo2c9V) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [WHISKEY RAIN \(feat\. Tyler Hubbard\)](https://open.spotify.com/album/3vHELzGjnuLo1NiSILFKqr) | 2:42 |
+| 78 | [WHISKEY RAIN \- feat\. Tyler Hubbard](https://open.spotify.com/track/4msu2MSyuD5N52U6qo2c9V) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [WHISKEY RAIN \(feat\. Tyler Hubbard\)](https://open.spotify.com/album/3vHELzGjnuLo1NiSILFKqr) | 2:42 |
 | 79 | [HEART AWAY](https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [WHERE DID ALL THE BUTTERFLIES GO?](https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM) | 3:01 |
 | 80 | [OOWEE \(feat\. Jill Scott & Ty Dolla $ign\)](https://open.spotify.com/track/6TjFekEFWYJuU7PI9K6Dk9) | [Camper](https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [OOWEE \(feat\. Jill Scott & Ty Dolla $ign\)](https://open.spotify.com/album/5dIeX3fErA2VsA2qk5rIhi) | 3:37 |
 | 81 | [Is It Something I Said](https://open.spotify.com/track/0kgsSEOPCAPXHOWQjgGRs6) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Is It Something I Said](https://open.spotify.com/album/5XdpbkzkUeN68R30yWsSQs) | 3:16 |

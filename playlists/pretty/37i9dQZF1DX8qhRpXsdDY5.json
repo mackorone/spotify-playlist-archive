@@ -1,6 +1,6 @@
 {
   "description": "Beloved Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 220398,
+  "num_followers": 220395,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAANnqykzrS4KRdETKHwut9IhI9NQH",
   "tracks": [
-    {
-      "added_at": "2024-12-12 20:56:21",
-      "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 254933,
-      "name": "Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1"
-    },
     {
       "added_at": "2024-12-12 20:56:21",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
+    },
+    {
+      "added_at": "2024-12-12 20:56:21",
+      "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 254933,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1"
     },
     {
       "added_at": "2024-12-12 20:56:21",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-12-12 20:56:21",
       "album": {
-        "name": "Feliz Christmas (Vol.1)",
-        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn"
-    },
-    {
-      "added_at": "2024-12-12 20:56:21",
-      "album": {
         "name": "Luis Aguil\u00e9. Sus Grabaciones En Discos Showman Vol.2 (1968-1974)",
         "url": "https://open.spotify.com/album/7wApPeeumUwWYWH1p788Mr"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 277026,
       "name": "Ven a mi casa esta navidad (remastered)",
       "url": "https://open.spotify.com/track/57eNUK2UE7zdckmKlZjJqk"
+    },
+    {
+      "added_at": "2024-12-12 20:56:21",
+      "album": {
+        "name": "Feliz Christmas (Vol.1)",
+        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn"
     },
     {
       "added_at": "2024-12-12 20:56:21",
@@ -419,26 +419,6 @@
     {
       "added_at": "2024-12-12 20:56:21",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        },
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Mis Deseos / Feliz Navidad (with Thalia)",
-      "url": "https://open.spotify.com/track/6ZdxGOaZoNzbGrBLjUcrUs"
-    },
-    {
-      "added_at": "2024-12-12 20:56:21",
-      "album": {
         "name": "Mi Navidad (Edici\u00f3n Especial En Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 207152,
       "name": "Feliz A\u00f1o Nuevo, Feliz Navidad",
       "url": "https://open.spotify.com/track/5bEBGopE3OBIAo0lOMexAy"
+    },
+    {
+      "added_at": "2024-12-12 20:56:21",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Mis Deseos / Feliz Navidad (with Thalia)",
+      "url": "https://open.spotify.com/track/6ZdxGOaZoNzbGrBLjUcrUs"
     },
     {
       "added_at": "2024-12-12 20:56:21",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-12-12 20:56:21",
       "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG"
-      },
-      "artists": [
-        {
-          "name": "Myriam Hernandez",
-          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
-        }
-      ],
-      "duration_ms": 216038,
-      "name": "Nuestra Canci\u00f3n De Navidad",
-      "url": "https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0"
-    },
-    {
-      "added_at": "2024-12-12 20:56:21",
-      "album": {
         "name": "Feliz Christmas (Vol.1)",
         "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 191333,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh"
+    },
+    {
+      "added_at": "2024-12-12 20:56:21",
+      "album": {
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG"
+      },
+      "artists": [
+        {
+          "name": "Myriam Hernandez",
+          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
+        }
+      ],
+      "duration_ms": 216038,
+      "name": "Nuestra Canci\u00f3n De Navidad",
+      "url": "https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0"
     },
     {
       "added_at": "2024-12-12 20:56:21",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-12-12 20:56:21",
       "album": {
-        "name": "Love & Christmas",
-        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 217024,
-      "name": "Viva La Navidad",
-      "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
-    },
-    {
-      "added_at": "2024-12-12 20:56:21",
-      "album": {
         "name": "Dios Me Se\u00f1al\u00f3",
         "url": "https://open.spotify.com/album/2wpm5727wmmFOtmmmtjf3N"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2024-12-12 20:56:21",
       "album": {
-        "name": "Sweet Christmas Ukulele & Jazz",
-        "url": "https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi"
+        "name": "Love & Christmas",
+        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
       },
       "artists": [
         {
-          "name": "Vazquez Sounds",
-          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
         }
       ],
-      "duration_ms": 253424,
-      "name": "Te Deseo Muy Felices Fiestas",
-      "url": "https://open.spotify.com/track/7k14Hgdg2U6nM5cF2QtQYE"
+      "duration_ms": 217024,
+      "name": "Viva La Navidad",
+      "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
     },
     {
       "added_at": "2024-12-12 20:56:21",
@@ -835,6 +819,22 @@
       "duration_ms": 175500,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/7rRhq2CEg8JhFKdtX5vIzz"
+    },
+    {
+      "added_at": "2024-12-12 20:56:21",
+      "album": {
+        "name": "Sweet Christmas Ukulele & Jazz",
+        "url": "https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi"
+      },
+      "artists": [
+        {
+          "name": "Vazquez Sounds",
+          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
+        }
+      ],
+      "duration_ms": 253424,
+      "name": "Te Deseo Muy Felices Fiestas",
+      "url": "https://open.spotify.com/track/7k14Hgdg2U6nM5cF2QtQYE"
     },
     {
       "added_at": "2024-12-12 20:56:21",

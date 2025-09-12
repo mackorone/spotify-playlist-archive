@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada:  Farruko, Louis BPM
 
-[Spotify](https://open.spotify.com/user/spotify) - 874,101 likes - 64 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 874,069 likes - 64 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 57 | [Dale Ahí](https://open.spotify.com/track/7jWdB9C9mjZzC6ac3EHxR4) | [Alexa Kayl](https://open.spotify.com/artist/7D4W9wDTggWcP7bpcT0ilH), [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [Eshconinco](https://open.spotify.com/artist/4GcktEVE1rB4Kyv1woxUrx) | [Dale Ahí](https://open.spotify.com/album/3N2ZOY3x9nKy4Z1Pya4F5H) | 3:41 |
 | 58 | [Secretos](https://open.spotify.com/track/6TgAyoiC2meWdGA6M8W1UO) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Secretos](https://open.spotify.com/album/56B30IivWmxWdqR2bsq0g7) | 3:03 |
 | 59 | [Si Aún Sigues Ahí](https://open.spotify.com/track/6yJicv7vgvirFukagLBTln) | [Rodri Bovino](https://open.spotify.com/artist/1w938PqiwXZdkotYg51CuB) | [Versátil](https://open.spotify.com/album/7zQOG05xgndnH7tGoiYjxC) | 2:48 |
-| 60 | [Abanico Sanyo](https://open.spotify.com/track/1oBtRQwxN7DolAzfDXdh7z) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Abanico Sanyo](https://open.spotify.com/album/2JR0uSBvo2f1F96yUxlkCT) | 2:56 |
+| 60 | [ABANICO SANYO](https://open.spotify.com/track/1oBtRQwxN7DolAzfDXdh7z) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [ABANICO SANYO](https://open.spotify.com/album/2JR0uSBvo2f1F96yUxlkCT) | 2:56 |
 | 61 | [Panamá](https://open.spotify.com/track/3b36XsTCTSkAzknZOs4nl3) | [Twister el Rey](https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx) | [Panamá](https://open.spotify.com/album/2n1kkz3INNajt8YVJII5HQ) | 2:48 |
 | 62 | [Lágrimas En La Playa](https://open.spotify.com/track/649ghezPxFFHVNQ0oQDgM2) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Lágrimas En La Playa](https://open.spotify.com/album/2LSgnEx852PPMBZq7GSgG5) | 2:42 |
 | 63 | [Escasez](https://open.spotify.com/track/3wKQFxxQxPrIorCQQyF2n0) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Pielroja](https://open.spotify.com/artist/1g58TQnLHp7eOEnYXfa63k), [Original Juan](https://open.spotify.com/artist/5mObIHCS5jSl4nbRnPAHGo) | [Rituales](https://open.spotify.com/album/7CgP2xyEy0nNOMThmUJpTB) | 3:33 |

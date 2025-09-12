@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 ### [New Music Friday Suomi](https://open.spotify.com/playlist/37i9dQZF1DWXtcXUwhuzFM)
 
-> Uutta musiikkia tarjoilevat Haloo Helsinki!, Justin Bieber, Lady Gaga, Nelli Matula, Isac Elliot, costee, Olavi Uusivirta ja moni muu!
+> Uutta musaa tarjoilevat Sexmane, Ed Sheeran, Karim B ja Minttu – mukana myös uunituoreet Vain elämää \-biisit! 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,932 likes - 108 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,959 likes - 108 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 107 | [Machine](https://open.spotify.com/track/0XXxTyNb3Q0DPxpf0kQi8P) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Machine](https://open.spotify.com/album/5qrls7LonwyZYXnhxETAEC) | 2:40 |
 | 108 | [Iki harmaita](https://open.spotify.com/track/1Z2hJUuWwsfZ43tphzfxf3) | [Huge L](https://open.spotify.com/artist/3CsfzUptehCikRLWMHr1dB) | [Iki harmaita](https://open.spotify.com/album/6OsYDynLYs4dGti7LYkKTj) | 3:17 |
 
-Snapshot ID: `AAAAAEny25Ray7x5l8gIQfwy83zpSJRg`
+Snapshot ID: `AAAAADuR/aCG9WJd7L1dt+CaEbl4vfV3`

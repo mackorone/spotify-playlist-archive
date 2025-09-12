@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 164785,
+  "num_followers": 164805,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL9uAAAAAACyAL9SKpX/XaFiBTfjSyKr",
+  "snapshot_id": "aMC/gAAAAADRXlN5dRHzov/Lb12uw/7n",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archives",
-        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 236293,
-      "name": "Chitlins Con Carne",
-      "url": "https://open.spotify.com/track/6IveFdcW71nooBQRl12dYy"
+      "duration_ms": 237133,
+      "name": "Change It",
+      "url": "https://open.spotify.com/track/5u00iJsWV7xj5NTGAaMBQt"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul to Soul",
-        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 237133,
-      "name": "Change It",
-      "url": "https://open.spotify.com/track/5u00iJsWV7xj5NTGAaMBQt"
+      "duration_ms": 236293,
+      "name": "Chitlins Con Carne",
+      "url": "https://open.spotify.com/track/6IveFdcW71nooBQRl12dYy"
     },
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 366666,
+      "name": "Ain't Gone 'N' Give up on Love",
+      "url": "https://open.spotify.com/track/0hTh8RO5xGOiahaDkADRKf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Solos, Sessions & Encores",
         "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 179826,
       "name": "Pipeline",
       "url": "https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soul to Soul",
-        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 366666,
-      "name": "Ain't Gone 'N' Give up on Love",
-      "url": "https://open.spotify.com/track/0hTh8RO5xGOiahaDkADRKf"
     },
     {
       "added_at": null,

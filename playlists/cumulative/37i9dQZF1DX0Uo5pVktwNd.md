@@ -4,7 +4,7 @@
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-120 songs - 9 hr 55 min
+121 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bheegi Bheegi Raaton Mein](https://open.spotify.com/track/4TmChFpXW2tqpl6BPkqdMT) | [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV) | [Special Appointments Club Hits](https://open.spotify.com/album/37lrx3ZoHvA22wjKzeWoE7) | 5:18 | 2022-04-11 | 2025-01-01 |
 | [Bheegi Bheegi Raton Mein](https://open.spotify.com/track/7FyF8fsgmBJKWmcS44NHkL) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz) | [Bheegi Bheegi Raton Mein..\. Kabhi To Nazar Milao](https://open.spotify.com/album/1LSw0BW73NEJICMFaYFmCR) | 5:58 | 2023-10-12 | 2025-04-20 |
 | [Bhool Ja](https://open.spotify.com/track/7pCE1BHlNVbvIuqUEOGAj5) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 3:34 | 2022-04-11 |  |
+| [Bijuria \- Old Version](https://open.spotify.com/track/0N5aIboDkYJ2iZuPfTk64u) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Mausam](https://open.spotify.com/album/3TgsiJzGTGn5JWY9VjGaXj) | 4:49 | 2025-01-31 |  |
 | [Boondein](https://open.spotify.com/track/2l4w5ctthghnZXpekYyBn4) | [Silk Route](https://open.spotify.com/artist/759QiRQCMliwkrJqosHbmm) | [Boondein](https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk) | 4:50 | 2022-04-11 | 2023-04-22 |
 | [Bulla Ki Jana](https://open.spotify.com/track/1TrC5A54xNaztYCyFWF4dj) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Rabbi](https://open.spotify.com/album/7qYDD5oxBq3ikNV9cgbyjo) | 5:17 | 2022-04-11 | 2025-01-01 |
 | [Bulla Ki Jana](https://open.spotify.com/track/71EsSmCOr91bFkCWQzyCmu) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Rabbi](https://open.spotify.com/album/0HUC7qxelpl3IJG5PmDKRb) | 5:17 | 2023-12-14 | 2024-04-19 |
@@ -125,7 +126,7 @@
 | [Tu Tu Hai Wahi \- Remix](https://open.spotify.com/track/2uD3RXappAgVMPbeLkq9jh) | [Vaishali](https://open.spotify.com/artist/0w8tFRpIwIcsX9HXUIaoAF) | [Greatest Love Songs \(Vol\. 2\)](https://open.spotify.com/album/3Nb1JIqf0p2tDCzeUMptg8) | 6:08 | 2024-02-06 |  |
 | [Tunak Tunak Tun](https://open.spotify.com/track/131yybV7A3TmC34a0qE8u8) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Tunak Tunak Tun](https://open.spotify.com/album/0xEUOENXKtOMg0BVr34jur) | 5:03 | 2022-04-11 |  |
 | [Woh Pehli Baar \(From "Pyaar Mein Kabhi Kabhi"\)](https://open.spotify.com/track/4Jm3Fekmlk6x2uANbmji2L) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shiraz](https://open.spotify.com/artist/7xVc0E3yppOTdqFbG7fYkA), [Samrat](https://open.spotify.com/artist/5RwriSLPFn4NLfH0ln4wT2), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Rediscovered Gems: Shaan](https://open.spotify.com/album/3UpecWk3GRINATioR0ZlKz) | 4:31 | 2022-04-11 | 2022-12-15 |
-| [Yaaron](https://open.spotify.com/track/55wP1blaV9Vlr1MTsG8ceh) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Rockford \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LUE9RNRU8IpGGYbpjtJpC) | 4:32 | 2022-04-11 |  |
+| [Yaaron](https://open.spotify.com/track/55wP1blaV9Vlr1MTsG8ceh) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Rockford \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LUE9RNRU8IpGGYbpjtJpC) | 4:32 | 2022-04-11 | 2025-09-12 |
 | [Yeh Hawa Kehti Hai Kya](https://open.spotify.com/track/29dTr9pLXHTIRACrcd6UD9) | [Jai Walia](https://open.spotify.com/artist/7gb0T42rJzDEc83fXialHZ), [Sadu](https://open.spotify.com/artist/7nIyYYhfmY8GwrzqfjqKor) | [Yeh Hawa Kehti Hai Kya](https://open.spotify.com/album/0hMcNdQP1rGgdbNip7hLvH) | 5:28 | 2023-10-12 |  |
 | [Yeh Kya Hua](https://open.spotify.com/track/6P6o9pPFIYMxxnEhsvgfJA) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Tera Mera Pyar](https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml) | 5:03 | 2024-12-31 |  |
 

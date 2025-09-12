@@ -5769,6 +5769,24 @@
     },
     {
       "album": {
+        "name": "Euphorique",
+        "url": "https://open.spotify.com/album/4zZXKFh6aWnxWtqSnT2VUj"
+      },
+      "artists": [
+        {
+          "name": "Sakura Tsuruta",
+          "url": "https://open.spotify.com/artist/79OBZx6sPHvnUqeIpooOcZ"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291702,
+      "name": "Euphorique",
+      "url": "https://open.spotify.com/track/5E6nY7W1XyP2V9V2CnaxoY"
+    },
+    {
+      "album": {
         "name": "Eurotunnel",
         "url": "https://open.spotify.com/album/3OFqqwD4BIbHKGHPMtHPxI"
       },
@@ -6662,7 +6680,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 216000,
       "name": "Flips and Flops, Drips and Drops",
       "url": "https://open.spotify.com/track/06iwhAevuCgupNwTg3wSC3"
@@ -11938,7 +11956,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 432480,
       "name": "My Safe Harbour",
       "url": "https://open.spotify.com/track/1VJd7jX3gvrlOSCPJmOHUp"
@@ -18914,6 +18932,24 @@
       "duration_ms": 248421,
       "name": "through the sky window",
       "url": "https://open.spotify.com/track/0linWOAdLg8Og74POchDcS"
+    },
+    {
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/0zZz8NNJM9Uwmufm8suDSu"
+      },
+      "artists": [
+        {
+          "name": "Stresshead",
+          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228918,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/2wZhZYuCFpoSElWEQq3Tt5"
     },
     {
       "album": {

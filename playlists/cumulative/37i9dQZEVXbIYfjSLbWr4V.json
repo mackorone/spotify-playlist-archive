@@ -426,7 +426,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 132413,
       "name": "AIST",
       "url": "https://open.spotify.com/track/3VieScqwrczxcSVTsH20gu"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 164026,
       "name": "CEREMONY",
       "url": "https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF"
@@ -8520,7 +8520,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 260560,
       "name": "\u0412\u0441\u0435\u043b\u0435\u043d\u043d\u0430\u044f \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u0430?",
       "url": "https://open.spotify.com/track/5bkfPKnHLi6AUP3fJA5Xf5"
@@ -11547,6 +11547,24 @@
     },
     {
       "album": {
+        "name": "\u041f\u043b\u0430\u043d\u0435\u0442\u0430 \u0417\u0435\u043c\u043b\u044f",
+        "url": "https://open.spotify.com/album/3h6tHHN7UhIb5ih1WBpl4W"
+      },
+      "artists": [
+        {
+          "name": "Noize MC",
+          "url": "https://open.spotify.com/artist/69v4ZOOomf1TNp59YYB1j7"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122352,
+      "name": "\u041f\u043b\u0430\u043d\u0435\u0442\u0430 \u0417\u0435\u043c\u043b\u044f",
+      "url": "https://open.spotify.com/track/1uvJSQ6JOGEw46lzpqUkXe"
+    },
+    {
+      "album": {
         "name": "\u041f\u043b\u0430\u043d\u044b \u043d\u0430 \u0437\u0430\u0432\u0442\u0440\u0430",
         "url": "https://open.spotify.com/album/3pxtE8YOtxtpqS8984YwWW"
       },
@@ -11606,7 +11624,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 128039,
       "name": "\u041f\u043b\u043e\u0445\u0430\u044f \u0421\u0443\u043a\u0430",
       "url": "https://open.spotify.com/track/7GQY5kKP1uZGWSvZ5tOxsN"
@@ -14394,7 +14412,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 127505,
       "name": "\u044f \u043d\u0435 \u0441\u043e\u0431\u0438\u0440\u0430\u044e\u0441\u044c \u043c\u0435\u0448\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/3HuWSpAduuIwOr8Qfu1xK5"

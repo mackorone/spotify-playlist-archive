@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Best of Hindi Hip\-Hop! Cover: Karma
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,504 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,563 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 43 | [Cigarette](https://open.spotify.com/track/6UsWMfasysjKyYk26oJrFs) | [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Alif Laila \(Part 2\)](https://open.spotify.com/album/3MUSOdDUE4NojtZZauRh0i) | 3:35 |
 | 44 | [The Last Talk](https://open.spotify.com/track/6Aq4cO87R2tW0pvEaJudhH) | [The Singh](https://open.spotify.com/artist/5dFkHVAGFrmhjPwvfIQg14) | [The Last Talk](https://open.spotify.com/album/0JZrr1iTr7TK2C5YIqAaEm) | 3:00 |
 | 45 | [Terey papa](https://open.spotify.com/track/7vIXP7osY1jcyIpX9hCeLt) | [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g), [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE) | [Naala Paar](https://open.spotify.com/album/1Wyju7Q67NoXso8hBrBvCB) | 3:04 |
-| 46 | [STILL THE SAME](https://open.spotify.com/track/7GcCYw4d5Z8akmEOBj4876) | [KING](https://open.spotify.com/artist/2D6VatUrBCa9y4vmZNm3BI), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [STILL THE SAME](https://open.spotify.com/album/3Plp851iYv9SGH6Fjp6xV9) | 2:45 |
+| 46 | [STILL THE SAME](https://open.spotify.com/track/7GcCYw4d5Z8akmEOBj4876) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [STILL THE SAME](https://open.spotify.com/album/3Plp851iYv9SGH6Fjp6xV9) | 2:45 |
 | 47 | [Naksha](https://open.spotify.com/track/3syqe1nnZ4eHjhsc0qM5UW) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [SHAKTI](https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3) | 3:26 |
 | 48 | [Regret](https://open.spotify.com/track/3LaUpvYmlVkxaQSNTKDDfK) | [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd), [CJ CHIRAG](https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV) | [Regret](https://open.spotify.com/album/48y1lb2W155CpRSwfgY6ZR) | 4:09 |
 | 49 | [Gunehgar](https://open.spotify.com/track/4hzDCJUFDyk66oIBirPiCl) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Gunehgar](https://open.spotify.com/album/12fCusmTQwk6IZxNR5xKm8) | 2:43 |

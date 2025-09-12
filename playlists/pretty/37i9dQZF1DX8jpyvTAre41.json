@@ -1,13 +1,241 @@
 {
-  "description": "The best rock songs of the moment. Cover: grandson",
-  "num_followers": 194975,
+  "description": "The best rock songs of the moment. Cover: Silverstein",
+  "num_followers": 194985,
   "original_name": "Rock Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGjHzLYT0wy2k5Ca4uUkINKn2nd4",
+  "snapshot_id": "AAAAAJHlx0BiAuq6Rs9Sf6TtTWEJ5sn5",
   "tracks": [
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "The Fatalist",
+      "url": "https://open.spotify.com/track/3FrT1TD82QxLtRIn5IinK4"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Chrome Jets",
+        "url": "https://open.spotify.com/album/5CXyWQG2ke7GBv0ftgVaCf"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 216747,
+      "name": "Chrome Jets",
+      "url": "https://open.spotify.com/track/5a0SxmltHNs5PaRTUAAYLZ"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/3EnqXvVQeRaxsBEQf15U7z"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 201236,
+      "name": "GUTS",
+      "url": "https://open.spotify.com/track/4RjDr8lV9QTdsYTeBKc9Pq"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Impose",
+        "url": "https://open.spotify.com/album/0WGyY2UCxFPryMrmYYVIzR"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 263198,
+      "name": "Impose",
+      "url": "https://open.spotify.com/track/3kMc83bWNdcaX1dmARQIII"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Young As This",
+        "url": "https://open.spotify.com/album/1b079FK9FKg2QFt24llds8"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 168474,
+      "name": "Young As This",
+      "url": "https://open.spotify.com/track/5qPQImgNyuoEFsZFGKUtX6"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 137844,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/5RqyRk24lcL4GkZDA4Tip7"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "New Plan",
+        "url": "https://open.spotify.com/album/4kA25J7vx3ya5UuShMbgA9"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "duration_ms": 205595,
+      "name": "New Plan",
+      "url": "https://open.spotify.com/track/4XD9LjMYlAPutmVozaXuZr"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "High Horse",
+        "url": "https://open.spotify.com/album/3pfde0RMSObLWkwllJhXqw"
+      },
+      "artists": [
+        {
+          "name": "Black Pistol Fire",
+          "url": "https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo"
+        }
+      ],
+      "duration_ms": 168270,
+      "name": "High Horse",
+      "url": "https://open.spotify.com/track/3kgNYBRqrY5cfKjypJEUKr"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "On Ice",
+        "url": "https://open.spotify.com/album/2Jx3m0Kchicr2FHzv9f0yQ"
+      },
+      "artists": [
+        {
+          "name": "Clothesline From Hell",
+          "url": "https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS"
+        }
+      ],
+      "duration_ms": 181401,
+      "name": "On Ice",
+      "url": "https://open.spotify.com/track/2wo4wX6FwPQ0YWW9wUNYY0"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Tired of You (Featuring Fionn)",
+        "url": "https://open.spotify.com/album/0yxhowBTjULC4JCRMeLfer"
+      },
+      "artists": [
+        {
+          "name": "Fake Shark",
+          "url": "https://open.spotify.com/artist/08towIgJNrFi0yAuyVXFBF"
+        },
+        {
+          "name": "Fionn",
+          "url": "https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt"
+        }
+      ],
+      "duration_ms": 166507,
+      "name": "Tired of You (Featuring Fionn)",
+      "url": "https://open.spotify.com/track/2om7X6uduu8rkg4OYxp3jA"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "Fast Asleep",
+        "url": "https://open.spotify.com/album/2z8FLd5bCvkBezjV05CaSE"
+      },
+      "artists": [
+        {
+          "name": "RUNE",
+          "url": "https://open.spotify.com/artist/23nVOrmuIA5WDBVpsU4alV"
+        }
+      ],
+      "duration_ms": 224189,
+      "name": "Fast Asleep",
+      "url": "https://open.spotify.com/track/0R2KthS70Zglr0ECKDQbUU"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "100% Ghosts",
+        "url": "https://open.spotify.com/album/18RuY6DAMo2nJzd72r2jZm"
+      },
+      "artists": [
+        {
+          "name": "Boys Night Out",
+          "url": "https://open.spotify.com/artist/4wM8eTlGUeleEqowJc2iiZ"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "100% Ghosts",
+      "url": "https://open.spotify.com/track/42bj4uPeJSxJLvZRF0Kbji"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Spite House",
+          "url": "https://open.spotify.com/artist/3ORse2pnaM7OvXoqIgS1pN"
+        }
+      ],
+      "duration_ms": 102063,
+      "name": "Ashen Grey",
+      "url": "https://open.spotify.com/track/1DequHOXV6d2AuVlokx8FI"
+    },
+    {
+      "added_at": "2025-09-12 00:01:24",
+      "album": {
+        "name": "GLASS EYED IDOLS",
+        "url": "https://open.spotify.com/album/2EyXY8yhHn85atwWJDrEfU"
+      },
+      "artists": [
+        {
+          "name": "ROMES",
+          "url": "https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "GLASS EYED IDOLS",
+      "url": "https://open.spotify.com/track/3lGBxgE4KJUwxqaebERIPp"
+    },
     {
       "added_at": "2025-09-05 00:01:32",
       "album": {
@@ -1439,234 +1667,6 @@
       "duration_ms": 230733,
       "name": "Anxiety - Spotify Singles",
       "url": "https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Take What You Want",
-        "url": "https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 146703,
-      "name": "Take What You Want",
-      "url": "https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "BITE MY TONGUE",
-        "url": "https://open.spotify.com/album/6shUVZFALrsOBywT2JxL0Y"
-      },
-      "artists": [
-        {
-          "name": "SUCKERPUNCH!",
-          "url": "https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp"
-        }
-      ],
-      "duration_ms": 159460,
-      "name": "BITE MY TONGUE",
-      "url": "https://open.spotify.com/track/2L1pwAyA9lRfgaalqofUqt"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Dilworth",
-        "url": "https://open.spotify.com/album/1DmUukUnrzc984oVIyUhFR"
-      },
-      "artists": [
-        {
-          "name": "Jutes",
-          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
-        }
-      ],
-      "duration_ms": 163765,
-      "name": "Limerence",
-      "url": "https://open.spotify.com/track/4ePRLYhdtPjS0d6Ai0Ibwi"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "BLACK MAGIC",
-        "url": "https://open.spotify.com/album/0YtqdM1lPwVEpOQip5xhfB"
-      },
-      "artists": [
-        {
-          "name": "Royale Lynn",
-          "url": "https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK"
-        }
-      ],
-      "duration_ms": 179340,
-      "name": "WTCH",
-      "url": "https://open.spotify.com/track/07S1I5r2tlpNg8QJDJewBJ"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Happy Birthday",
-        "url": "https://open.spotify.com/album/5uQ0e1loxV2LcIIQRw0crF"
-      },
-      "artists": [
-        {
-          "name": "Finn Wolfhard",
-          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
-        }
-      ],
-      "duration_ms": 274653,
-      "name": "Crown",
-      "url": "https://open.spotify.com/track/74q9nruImgs45A4xlwckZB"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "NATIONAL AVERAGE.",
-        "url": "https://open.spotify.com/album/33oory27UshNhxTd1HmiHZ"
-      },
-      "artists": [
-        {
-          "name": "BIG SPECIAL",
-          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
-        }
-      ],
-      "duration_ms": 189842,
-      "name": "GOD SAVE THE PONY.",
-      "url": "https://open.spotify.com/track/4JQGw7eMPgYB4a8hRNe864"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Hot Under The Collar",
-        "url": "https://open.spotify.com/album/5fUy7vdPf4jwGjZ9OVQ1C4"
-      },
-      "artists": [
-        {
-          "name": "The Lazys",
-          "url": "https://open.spotify.com/artist/3wPGLbWYOwMPC4oTGykAJ3"
-        }
-      ],
-      "duration_ms": 217624,
-      "name": "Hot Under The Collar",
-      "url": "https://open.spotify.com/track/0wCdoMVzXxhPobkT3llQdk"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Levon",
-        "url": "https://open.spotify.com/album/3jlvpHk0mAUxCM6dk8Jbug"
-      },
-      "artists": [
-        {
-          "name": "GHOSTWOMAN",
-          "url": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy"
-        }
-      ],
-      "duration_ms": 158500,
-      "name": "Levon",
-      "url": "https://open.spotify.com/track/22n17EY3vwWTyNDm0vAA4n"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Edge Of The Earth",
-        "url": "https://open.spotify.com/album/3dzRpXVj0YAmnCkeJ6Lt6M"
-      },
-      "artists": [
-        {
-          "name": "Aysanabee",
-          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
-        }
-      ],
-      "duration_ms": 199613,
-      "name": "Gone Baby Gone",
-      "url": "https://open.spotify.com/track/3oKBUb6PiBsOvHl3zBKfDo"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/585LJujVtyJaIn3yxtSBR8"
-      },
-      "artists": [
-        {
-          "name": "Fake Shark",
-          "url": "https://open.spotify.com/artist/08towIgJNrFi0yAuyVXFBF"
-        }
-      ],
-      "duration_ms": 216105,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/4VihG6lJfT5vu26EYIPB58"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "From Zero (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 208739,
-      "name": "Let You Fade",
-      "url": "https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Late Bloomer",
-        "url": "https://open.spotify.com/album/6GpmnmahthS0F5WuHwRMlU"
-      },
-      "artists": [
-        {
-          "name": "DYLYN",
-          "url": "https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses"
-        }
-      ],
-      "duration_ms": 180034,
-      "name": "Late Bloomer",
-      "url": "https://open.spotify.com/track/6Z8gc9x4HH8SgUQWmUhPs4"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Drain The Blood",
-        "url": "https://open.spotify.com/album/71O4BgOQrQSSc69zYDBWhg"
-      },
-      "artists": [
-        {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        },
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Drain The Blood",
-      "url": "https://open.spotify.com/track/0CGNXPhDBqhBCRunFnrVl0"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Everyday Is Saturday Night",
-        "url": "https://open.spotify.com/album/1yhmXEwX12xJku7Cdw9EbQ"
-      },
-      "artists": [
-        {
-          "name": "Danko Jones",
-          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
-        }
-      ],
-      "duration_ms": 206920,
-      "name": "Everyday Is Saturday Night",
-      "url": "https://open.spotify.com/track/4J0usOY0SMRkGYyLDl9Gsb"
     }
   ],
   "unique_name": "Rock Now",

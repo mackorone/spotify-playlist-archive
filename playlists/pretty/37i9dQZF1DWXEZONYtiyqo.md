@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Andrei Ursu
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,039 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,048 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 49 | [De ti me acuerdo](https://open.spotify.com/track/1oiIkU5RqEP44HcsYEp6nw) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Dj Pope](https://open.spotify.com/artist/6v6C3dH5H2SYdvFyhxYLwp) | [De ti me acuerdo](https://open.spotify.com/album/0iP1S2FeHcX9Gqt7umCH6n) | 2:46 |
 | 50 | [C'est la vie!](https://open.spotify.com/track/1refMgTLrsKcnxRAcBaSQs) | [Thianna](https://open.spotify.com/artist/53N39IfWFDLGSiz7dv9pRT) | [C'est la vie!](https://open.spotify.com/album/17P9Uo4IDJ2riNBDV6A48h) | 2:46 |
 
-Snapshot ID: `AAAAAHZlv0T9gJqq2EFxP8ej7zPvz6mE`
+Snapshot ID: `AAAAAMCi6Prji35IRIppkFjav52ixJIe`

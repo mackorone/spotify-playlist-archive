@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Olew
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,121 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,130 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Em Đây Chẳng Phải Thúy Kiều](https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoàng](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:34 |
-| 2 | [Lùi Lại Lấy Đà](https://open.spotify.com/track/7uEDYqrHJ6Ab5tPz5pNhxy) | [Olew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY), [Thống](https://open.spotify.com/artist/4XbvXU1QZ22KHcaDNy3XYX) | [Lùi Lại Lấy Đà](https://open.spotify.com/album/1iuTmrPqOZxbeY6u3dCLP0) | 3:21 |
+| 1 | [An Ủi Em Được Không](https://open.spotify.com/track/1mN4HvOcu3JU5BmPfsvaIJ) | [Olew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY), [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P) | [An Ủi Em Được Không](https://open.spotify.com/album/0Wze7XS2oLsY5IDgFjrZZR) | 4:28 |
+| 2 | [Em Đây Chẳng Phải Thúy Kiều](https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoàng](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:34 |
 | 3 | [Đừng kết thúc hôm nay](https://open.spotify.com/track/3VkPKSc5HU1WPahoLOCRnj) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Đừng kết thúc hôm nay](https://open.spotify.com/album/4h0hGD95lTVKwSjNZAvfp3) | 3:32 |
 | 4 | [Một Cú Lừa](https://open.spotify.com/track/16YX7SfThwFHdSYYWO6VaL) | [Bích Phương](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/56sZf01q5Ih5jXICYyslq7) | 2:32 |
 | 5 | [Seenderella](https://open.spotify.com/track/5IPyVAKgMFP99F2DqUoohG) | [Chi Xê](https://open.spotify.com/artist/3TInd7W6K9AZ6lKYA3dviJ) | [Seenderella](https://open.spotify.com/album/63j8L3ZQC6eLhHOEw3YijB) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [ALIVE NOW](https://open.spotify.com/track/4wnSCKdM9gaZqS9iVhM92j) | [antransax](https://open.spotify.com/artist/3E3VtUZsU5Ci439SjOdCd0), [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei) | [ALIVE NOW](https://open.spotify.com/album/6ePx5HWVgxVEDcYrNW4K5m) | 3:41 |
 | 50 | [Trao Về Anh](https://open.spotify.com/track/33hsLCLlUSzqdzIcc0WR5S) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Trao Về Anh](https://open.spotify.com/album/0iAmSHAb4YiO1muzyxP96Q) | 3:16 |
 
-Snapshot ID: `AAAAAGHsavrMnv7CCN5GjjT3+Wn4N8YH`
+Snapshot ID: `AAAAADEcGSUGGWYNsBoO/cqPpGxhQni9`

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain](/playlists/plain/5IRdCjOHb6RwaIl1PaomPV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5IRdCjOHb6RwaIl1PaomPV)
 
-### [Mad Decent Weekly](https://open.spotify.com/playlist/5IRdCjOHb6RwaIl1PaomPV)
+### [ATRIP \- Sinai Ray](https://open.spotify.com/playlist/5IRdCjOHb6RwaIl1PaomPV)
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from ATRIP, Major Lazer and ear, plus the latest cuts from Bennett Coast, inter alia, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,833 likes - 100 songs - 5 hr 42 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,832 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 99 | [i fall apart](https://open.spotify.com/track/2HkBZyJt61zqqO5Z5wD6JL) | [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR), [Flawless Issues](https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU) | [MISLED YOUTH](https://open.spotify.com/album/1heYcxNnyxtnUp81RhLHLV) | 4:03 |
 | 100 | [take your vibes and go](https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [take your vibes and go](https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm) | 2:14 |
 
-Snapshot ID: `AAAdJXDCpnIai2tdMuRJLGw04ETp+N45`
+Snapshot ID: `AAAdJwNXQDZAdGrM/L1LIBmISzPGwnqD`

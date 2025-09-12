@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Charlotte Cardin",
-  "num_followers": 46028,
+  "num_followers": 46027,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
       "duration_ms": 186410,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/4FKk65KZE9byNZIkPp0rDt"
+    },
+    {
+      "added_at": "2025-08-29 04:01:25",
+      "album": {
+        "name": "Traverser les saisons",
+        "url": "https://open.spotify.com/album/17BlplPNkdFgLh41bs9Y9R"
+      },
+      "artists": [
+        {
+          "name": "Ariane Simard",
+          "url": "https://open.spotify.com/artist/7qyObt9S56Vj8MAxHBazVe"
+        }
+      ],
+      "duration_ms": 178378,
+      "name": "Traverser les saisons",
+      "url": "https://open.spotify.com/track/41kw7pSz22k3RGmx7MRCzp"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -459,26 +475,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "R.A.T",
-        "url": "https://open.spotify.com/album/2UJVbFBTuYHtwHk9FvkgGU"
-      },
-      "artists": [
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 230813,
-      "name": "Crime ensoleill\u00e9",
-      "url": "https://open.spotify.com/track/5Pbfz4snuJNXoyK0Iu5Atc"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "D\u00e9g\u00e2t",
         "url": "https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4"
       },
@@ -495,6 +491,26 @@
       "duration_ms": 158667,
       "name": "Connect\u00e9s",
       "url": "https://open.spotify.com/track/3ToDaiD5To8CkHN75sn9GQ"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "R.A.T",
+        "url": "https://open.spotify.com/album/2UJVbFBTuYHtwHk9FvkgGU"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 230813,
+      "name": "Crime ensoleill\u00e9",
+      "url": "https://open.spotify.com/track/5Pbfz4snuJNXoyK0Iu5Atc"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -635,6 +651,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
+        "name": "BANGER",
+        "url": "https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 178786,
+      "name": "BANGER",
+      "url": "https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
         "name": "Alba",
         "url": "https://open.spotify.com/album/63jS0Pw5PqB2xXHJVvwTFl"
       },
@@ -655,18 +687,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "BANGER",
-        "url": "https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP"
+        "name": "BABABA WORLD",
+        "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
       },
       "artists": [
         {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 178786,
-      "name": "BANGER",
-      "url": "https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3"
+      "duration_ms": 159545,
+      "name": "SELEK",
+      "url": "https://open.spotify.com/track/53y07MqtAQLofrh8d0fIca"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -687,26 +723,6 @@
       "duration_ms": 195163,
       "name": "VHS",
       "url": "https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "BABABA WORLD",
-        "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 159545,
-      "name": "SELEK",
-      "url": "https://open.spotify.com/track/53y07MqtAQLofrh8d0fIca"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -839,22 +855,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "\u00c9B\u0112M",
-        "url": "https://open.spotify.com/album/4UPHNEDkuwpqz1GlcFOm2s"
-      },
-      "artists": [
-        {
-          "name": "Yam\u00ea",
-          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
-        }
-      ],
-      "duration_ms": 211306,
-      "name": "Dans 10 ans",
-      "url": "https://open.spotify.com/track/0FbNxtUbetsjF7s42pkOIS"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "Hors du temps",
         "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
       },
@@ -871,22 +871,38 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "En Attendant Paphos",
-        "url": "https://open.spotify.com/album/5rNckryyF0a7a4aItirV1G"
+        "name": "\u00c9B\u0112M",
+        "url": "https://open.spotify.com/album/4UPHNEDkuwpqz1GlcFOm2s"
       },
       "artists": [
         {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        },
-        {
-          "name": "Nahir",
-          "url": "https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E"
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
         }
       ],
-      "duration_ms": 160891,
-      "name": "Kappa",
-      "url": "https://open.spotify.com/track/4E0XID4RfGU5MpqwRXIizr"
+      "duration_ms": 211306,
+      "name": "Dans 10 ans",
+      "url": "https://open.spotify.com/track/0FbNxtUbetsjF7s42pkOIS"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "J'ai ce qu'il faut",
+        "url": "https://open.spotify.com/album/19tjQ0TPFX7z1h6eKM6qre"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "duration_ms": 201786,
+      "name": "J'ai ce qu'il faut",
+      "url": "https://open.spotify.com/track/5Z15WSSa7fvaPJZRI4OgDS"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

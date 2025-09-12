@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Charlotte Cardin
 
-3,460 songs - 7 day 14 hr 44 min
+3,461 songs - 7 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1348,7 +1348,7 @@
 | [J'ai besoin d'un ami](https://open.spotify.com/track/2MN2ntP1oiESpTGN2p6O4L) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [Ginette à ma façon](https://open.spotify.com/album/2sPVS4NxuXhOcc0LFzbKFv) | 3:52 | 2022-02-11 | 2022-02-26 |
 | [J'ai besoin d'un break](https://open.spotify.com/track/4IEsA1Zp1TGIyKFDW1rIYC) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [J'ai besoin d'un break](https://open.spotify.com/album/73PEyPC6tcnPYevHvRitrX) | 3:08 | 2023-03-31 | 2023-05-04 |
 | [J'ai brisé ma voix](https://open.spotify.com/track/21FjZvnrn7OnCBBHuIeVha) | [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl) | [J'ai brisé ma voix](https://open.spotify.com/album/5sGXWNkTxInx5v23wVHnFG) | 3:30 | 2024-08-30 | 2024-09-07 |
-| [J'ai ce qu'il faut](https://open.spotify.com/track/5Z15WSSa7fvaPJZRI4OgDS) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [J'ai ce qu'il faut](https://open.spotify.com/album/19tjQ0TPFX7z1h6eKM6qre) | 3:21 | 2025-05-23 | 2025-09-06 |
+| [J'ai ce qu'il faut](https://open.spotify.com/track/5Z15WSSa7fvaPJZRI4OgDS) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [J'ai ce qu'il faut](https://open.spotify.com/album/19tjQ0TPFX7z1h6eKM6qre) | 3:21 | 2025-05-23 |  |
 | [J'ai dessiné un cœur dans la neige](https://open.spotify.com/track/0P2JU5kn6PpMV3iMoYFLzJ) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [J'ai dessiné un cœur dans la neige](https://open.spotify.com/album/5Ezp3SweJKbdqdZ7jn0zXM) | 1:46 | 2021-12-31 | 2022-01-22 |
 | [J'ai l'impression](https://open.spotify.com/track/5OS1SdcRNkcMdlfolW2clz) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [J'ai l'impression](https://open.spotify.com/album/1vzYm7DbAf7yKQgaPkXXCO) | 2:47 | 2024-08-09 | 2024-09-22 |
 | [J'ai le coeur chaud](https://open.spotify.com/track/4dvds4Du1WMVGcAEs5wfvH) | [Dany Placard](https://open.spotify.com/artist/5sjde1NFxsXN9EjZyMbhHp) | [J'ai le coeur chaud](https://open.spotify.com/album/68WsThCderiLAOdZLcBEqY) | 2:44 | 2024-09-13 | 2024-09-21 |
@@ -1502,7 +1502,7 @@
 | [Kama](https://open.spotify.com/track/7JL4ESrT0oI9H1fTw60pvQ) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Kama](https://open.spotify.com/album/6oSNfN1T3yphr54HsUXuzD) | 2:42 | 2024-05-03 | 2024-05-05 |
 | [Kanye Mode](https://open.spotify.com/track/5h3SXf29h53Zeg4ijBXPG5) | [Chris Kai](https://open.spotify.com/artist/68F3LEVxh5Xr7V2P3K0vHt), [YY](https://open.spotify.com/artist/55I2KOtPAtxkwQVvgX6eWC) | [Kanye Mode](https://open.spotify.com/album/6vFIWqZBNCfI0mOzzwkuXA) | 2:27 | 2022-11-11 | 2022-11-26 |
 | [Kanye West](https://open.spotify.com/track/0Exj4hL7PquqwVrohrD7hj) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Kanye West](https://open.spotify.com/album/4vBSXrZUXvNe7QiYy1A8Ia) | 2:00 | 2024-07-26 | 2024-08-03 |
-| [Kappa](https://open.spotify.com/track/4E0XID4RfGU5MpqwRXIizr) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E) | [En Attendant Paphos](https://open.spotify.com/album/5rNckryyF0a7a4aItirV1G) | 2:40 | 2025-07-04 |  |
+| [Kappa](https://open.spotify.com/track/4E0XID4RfGU5MpqwRXIizr) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E) | [En Attendant Paphos](https://open.spotify.com/album/5rNckryyF0a7a4aItirV1G) | 2:40 | 2025-07-04 | 2025-09-12 |
 | [Karim B](https://open.spotify.com/track/5IturN1tR27wlVtDCnSSJk) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [VENI VIDI VICI](https://open.spotify.com/album/0PiKFwhGs9zPnojBJAIcc4) | 2:44 | 2024-07-12 | 2024-07-14 |
 | [Karma](https://open.spotify.com/track/57o2dAk85nAlhf6QvUttLh) | [Dieson Samba](https://open.spotify.com/artist/4IJNkk3UY2TjVpL4T2z1ki) | [Karma](https://open.spotify.com/album/5oy3WDkdnPUWtUvcBEOtOX) | 2:55 | 2021-12-31 | 2022-01-22 |
 | [karoshi](https://open.spotify.com/track/3yqGndHj0cRlzX0neZ7dE7) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA), [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [karoshi](https://open.spotify.com/album/0kvlVr56tiWquP16l0rEAY) | 2:42 | 2023-11-10 | 2023-11-18 |
@@ -3160,6 +3160,7 @@
 | [Transfert Trottinette](https://open.spotify.com/track/4HDdOkOcPcXN4STjisEEfL) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Transfert Trottinette](https://open.spotify.com/album/0F8odSiMiq1pxy9ddu9Nah) | 2:39 | 2022-07-22 | 2022-08-20 |
 | [Trap & Winnin](https://open.spotify.com/track/6mbnhgVJXbX1qHbqqXuBk7) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Trap & Winnin](https://open.spotify.com/album/4thUBlf9InqxV9EkZ01gBt) | 3:13 | 2022-11-04 | 2022-11-26 |
 | [Trap House](https://open.spotify.com/track/1lOkxlm1w2RhM8tWOId3e9) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti) | [Trap House](https://open.spotify.com/album/47lkxnHwOsoS4RftJLrWRN) | 2:58 | 2024-05-24 | 2024-06-07 |
+| [Traverser les saisons](https://open.spotify.com/track/41kw7pSz22k3RGmx7MRCzp) | [Ariane Simard](https://open.spotify.com/artist/7qyObt9S56Vj8MAxHBazVe) | [Traverser les saisons](https://open.spotify.com/album/17BlplPNkdFgLh41bs9Y9R) | 2:58 | 2025-08-29 |  |
 | [Triomphal](https://open.spotify.com/track/4fyHka6VfWq6UQ61p8xjC5) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [REALLIONAIRE](https://open.spotify.com/album/1MKsUiNuDOBqPZtIYpOPEX) | 2:47 | 2022-11-25 | 2022-12-17 |
 | [Triomphe](https://open.spotify.com/track/4PaVygkVBqsBEu8BTfvhDp) | [Jam Khalil](https://open.spotify.com/artist/0pQTmAZD71vfB70Jn3Yzh8) | [Triomphe](https://open.spotify.com/album/2ApDsFVuNCll7S4bEQMA7C) | 4:04 | 2022-04-15 | 2022-04-23 |
 | [Triple V](https://open.spotify.com/track/6e1T28Wkr7r8xciTXcwhKJ) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Diamant Noir](https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q) | 3:13 | 2025-04-11 | 2025-06-28 |

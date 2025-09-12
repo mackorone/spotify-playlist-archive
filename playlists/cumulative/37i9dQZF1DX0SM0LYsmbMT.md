@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,451 songs - 7 day 1 hr 18 min
+4,452 songs - 7 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -729,7 +729,7 @@
 | [Climbing Trees](https://open.spotify.com/track/0oA83B0PRG1XUbsAJBe84J) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB), [LeVirya](https://open.spotify.com/artist/2ZTkcW4qIScKWuYhZlzopf), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Climbing Trees](https://open.spotify.com/album/6Sh61q7yoXvsPM5xBav3iY) | 2:33 | 2019-09-06 | 2020-02-22 |
 | [Clocks](https://open.spotify.com/track/6qSyneJaynTTLoOSBNvUkb) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Clocks](https://open.spotify.com/album/1lLFbW5ierY8T5XWRcqjWe) | 3:57 | 2022-04-07 | 2022-06-03 |
 | [Clocks Forward](https://open.spotify.com/track/3DXOgShDK2FK1nUM6NeGnL) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [Guillaume Muschalle](https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X) | [Clocks Forward](https://open.spotify.com/album/62YSGSZJsYILAa9H0h9Y7i) | 2:21 | 2019-05-26\* | 2019-08-30 |
-| [clockwork dreams](https://open.spotify.com/track/4yc2GdYpTszeaA1Dhqltwd) | [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [clockwork dreams](https://open.spotify.com/album/1Wz6UtFbeMYnytnND2tM1P) | 2:51 | 2024-06-06 |  |
+| [clockwork dreams](https://open.spotify.com/track/4yc2GdYpTszeaA1Dhqltwd) | [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [clockwork dreams](https://open.spotify.com/album/1Wz6UtFbeMYnytnND2tM1P) | 2:51 | 2024-06-06 | 2025-09-12 |
 | [Close to You](https://open.spotify.com/track/18PnNpf5j8LYFuOvwlnbod) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Close to You](https://open.spotify.com/album/18vH6qJ4myaRQxAXqIdjve) | 2:03 | 2023-04-06 | 2024-03-08 |
 | [Close to you](https://open.spotify.com/track/4i5HCFVg26D7ED0qeaAY5r) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl), [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Close to you](https://open.spotify.com/album/0kgUmcRpEevZcQpGDRdziS) | 2:33 | 2021-04-13 | 2021-07-16 |
 | [close\-up](https://open.spotify.com/track/4IhYNF9qRC369JPVGVwEKn) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [close\-up](https://open.spotify.com/album/0EjhiP4qCdhY9MWHzk53zx) | 2:40 | 2023-10-26 | 2023-11-14 |
@@ -1662,6 +1662,7 @@
 | [Hometown](https://open.spotify.com/track/2z2mwCEkYqMVwc10HGwUBY) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Hometown](https://open.spotify.com/album/2YCtXEENFVa2u1RewQbP7P) | 2:06 | 2023-03-09 | 2023-04-14 |
 | [Honda Date](https://open.spotify.com/track/3rEqUbhLnATGr4zA1dKYwp) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [Honda Date](https://open.spotify.com/album/73B72PGDCHP2h8q9NRylPV) | 2:07 | 2022-03-17 | 2022-05-12 |
 | [Honda Jazz](https://open.spotify.com/track/6C84Tfxcg6dIDmUo9EauVh) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Honda Jazz](https://open.spotify.com/album/7JDQnUoKim03g1e8OhJpLK) | 1:19 | 2024-10-10 |  |
+| [Honey](https://open.spotify.com/track/3pycJOi4bv8s9guLHYtXcZ) | [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Honey](https://open.spotify.com/album/6HA0YCt69EeDJzGXpab7qt) | 1:58 | 2025-09-11 |  |
 | [Honey](https://open.spotify.com/track/2sKOR97teUvnFpiG3HE08D) | [mowtif](https://open.spotify.com/artist/5eY6Vl9jYEjpH5ZeKne0ZT), [Andrea Stefano](https://open.spotify.com/artist/7hyroNuGeG9kBa5aQVJVzL) | [Life From The Stu'](https://open.spotify.com/album/5RzAcEUVo9UIc32BQkelCv) | 3:21 | 2020-08-08 | 2021-02-12 |
 | [Honey](https://open.spotify.com/track/10y6ACyIT28QCEWoJJfQrl) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Washed Away](https://open.spotify.com/album/38aJHJuwRI12tW7rJdWJXG) | 1:58 | 2021-07-27 | 2021-09-17 |
 | [Honey](https://open.spotify.com/track/3J5TOfdapr7qhtHBTVyVkv) | [V.Raeter](https://open.spotify.com/artist/4xeIXkA9fl2gegj9YIfJtQ), [Dexter](https://open.spotify.com/artist/4dfYua3wPCN3mq8EStDZkZ) | [Honey](https://open.spotify.com/album/5i6E5I06eaXT4zZ6qsFckK) | 2:28 | 2021-12-12 | 2021-12-26 |

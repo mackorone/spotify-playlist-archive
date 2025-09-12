@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Joaquina
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,462 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,481 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Abanico Sanyo](https://open.spotify.com/track/1oBtRQwxN7DolAzfDXdh7z) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Abanico Sanyo](https://open.spotify.com/album/2JR0uSBvo2f1F96yUxlkCT) | 2:56 |
+| 1 | [ABANICO SANYO](https://open.spotify.com/track/1oBtRQwxN7DolAzfDXdh7z) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [ABANICO SANYO](https://open.spotify.com/album/2JR0uSBvo2f1F96yUxlkCT) | 2:56 |
 | 2 | [La Noche](https://open.spotify.com/track/2bBIVTh7gLuAfCDvU0vsOM) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [La Noche](https://open.spotify.com/album/65ZoZATeCt3JrbQHpTQgn1) | 2:40 |
 | 3 | [NO SUPISTE CUIDARNOS \- Respuesta \#2](https://open.spotify.com/track/0XYnxyC3AgBO8B19iqc3r4) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [NO SUPISTE CUIDARNOS \(Respuesta \#2\)](https://open.spotify.com/album/0NTnrfFM9oczlM1795mwLQ) | 2:55 |
 | 4 | [amarillo](https://open.spotify.com/track/6ULnlEp0Oto5F7fMQaokwD) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [amarillo](https://open.spotify.com/album/794XwJmivFd9maFbt8EPUb) | 3:30 |

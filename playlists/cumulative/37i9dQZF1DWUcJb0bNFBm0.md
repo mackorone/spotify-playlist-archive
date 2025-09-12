@@ -2,13 +2,15 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️  Cover: Sunlotus \(Indonesia\)
+> Noise distortion amongst the hazy clouds ☁️  Cover: Shye \(Singapore\)
 
-236 songs - 16 hr 22 min
+240 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+B\-3\-X+ \(Perunggu ver.\)](https://open.spotify.com/track/4L6oqjoKS0IlEOwrVjvMAD) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t), [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [DIFFERENT](https://open.spotify.com/album/0h7BShQP66wqF0tGgTXl4T) | 3:41 | 2025-03-20 |  |
+| [3am](https://open.spotify.com/track/6oNC0dZwthd4Gbof71UYMJ) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [3am](https://open.spotify.com/album/0CxaGou0ebafxSU63mwpIW) | 4:17 | 2025-09-11 |  |
+| [All Your Words](https://open.spotify.com/track/5c4v6jGf1gbhKHN4JAMIUc) | [Puremoon](https://open.spotify.com/artist/405acihhfj1w4x0uzlP6bF) | [All Your Words / Left Here](https://open.spotify.com/album/5pplW8N7nw7LDa8wwHSG3c) | 3:01 | 2025-09-11 |  |
 | [Always](https://open.spotify.com/track/7frdnV62ZVTt6HOqtHadnk) | [Ozzga](https://open.spotify.com/artist/4LoxjSTESClUkXDI7mP6t4) | [When You're Away](https://open.spotify.com/album/4BvY1NnxqLpigHsghwhVuU) | 4:34 | 2024-06-27 |  |
 | [anatahawatashiwosiranai, watasihaanatawowasurenai](https://open.spotify.com/track/04HQwpikUW0wHJGn1nWCOE) | [sasakure](https://open.spotify.com/artist/7wEWAY6INLk6VgiJGAGVXr) | [seasaw](https://open.spotify.com/album/5A0c3siX0WSuXNJuYxVkPO) | 3:44 | 2024-12-04 |  |
 | [Another World \- Alt\. ver.](https://open.spotify.com/track/0Ig0YS2HO6bPBhWgJ0OLXr) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Another World \(Alt\. ver.\)](https://open.spotify.com/album/57dmGLpMBQyVWOVlvFOcnV) | 5:30 | 2025-01-16 | 2025-05-02 |
@@ -121,6 +123,7 @@
 | [Malaise](https://open.spotify.com/track/68d70gUAWGHroKOssw94kj) | [Rebecca Theodora](https://open.spotify.com/artist/3gOsk0RYhnK0G4rhaCmvef) | [Malaise](https://open.spotify.com/album/6eKkUNG5HF10UtnSqN5oyt) | 5:31 | 2024-06-27 |  |
 | [Maybe Somewhere](https://open.spotify.com/track/1MMQVrSaKBllpbepX3zCho) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Sky Hundred](https://open.spotify.com/album/45rVXGAItPUFuTG9e10ldd) | 5:16 | 2024-08-26 | 2024-11-08 |
 | [Mei](https://open.spotify.com/track/6lBAU9mz4G9Gt8CQCzudnO) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Hope Hope Hope](https://open.spotify.com/album/5C0ZgBk5cZxBrwetX6Xgz2) | 3:42 | 2024-06-27 | 2024-12-05 |
+| [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:58 | 2025-09-11 |  |
 | [Mikael](https://open.spotify.com/track/3DOq3iCt2I1X9cPAWdWGXB) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Mikael](https://open.spotify.com/album/0bYXowGjv2zW5QN2nyvuO0) | 4:25 | 2024-11-08 | 2024-12-05 |
 | [milk](https://open.spotify.com/track/14wwSi8A7ruwr27w22vTq9) | [\(e\)motion engine](https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK) | [milk](https://open.spotify.com/album/3kCilwGOwzIxgkOnyaBU0M) | 4:35 | 2025-08-14 |  |
 | [MIRROR'S EDGE](https://open.spotify.com/track/5JVmJKagp4Bq88W4aoje3L) | [MoritaSaki in the pool](https://open.spotify.com/artist/0cascybzS2QQL1m3h57tcY) | [MIRROR'S EDGE](https://open.spotify.com/album/60sFiEjbEvX8Am8ht44NuN) | 3:07 | 2024-08-30 | 2024-12-05 |
@@ -157,6 +160,7 @@
 | [paradise lost](https://open.spotify.com/track/6I4DvKCAAt6LzalVyEuG0V) | [Cruyff In The Bedroom](https://open.spotify.com/artist/4tuW8N80UUAOJjJLkP0y1z) | [lazy sugar doll E.P.](https://open.spotify.com/album/07bTZPGIYuC1gsbFF9O9f2) | 4:07 | 2024-06-27 | 2024-08-31 |
 | [Paradox](https://open.spotify.com/track/7zh8Zt10egvcibYGR9VaVa) | [BrokenTeeth](https://open.spotify.com/artist/5kNGExA70Z5twMjo7mFYrW) | [Paradox](https://open.spotify.com/album/2swSZBnSV3brk5bTFiNLoW) | 4:48 | 2024-06-27 |  |
 | [Parak](https://open.spotify.com/track/531HNK0hxKnxo6pI7KxPm5) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Evol](https://open.spotify.com/album/5HHoebNadPA58uamidwMJH) | 3:30 | 2024-06-27 | 2024-12-05 |
+| [Pecah Tangisku](https://open.spotify.com/track/0kVv5bv2ASISvXJgpaE3de) | [PVLETTE](https://open.spotify.com/artist/2dYQxSe7fIwcSxwo8nMtMe) | [Pecah Tangisku](https://open.spotify.com/album/3YJP9NGO67lpMhXlZXi24P) | 3:43 | 2025-09-11 |  |
 | [Perfect Girl](https://open.spotify.com/track/5pO90RA1mYHHrTzVr3Y7AL) | [Yoko City Ghost](https://open.spotify.com/artist/6cD8bO5ylH8FlE3IGqDXfQ) | [Sputnik\-1](https://open.spotify.com/album/6XwUVQWw83K5KU4PZ8Nzys) | 3:38 | 2024-06-27 | 2024-12-05 |
 | [Pesan](https://open.spotify.com/track/0UAVfS0bpWoDt6rlBDzmhI) | [whisperdesire](https://open.spotify.com/artist/0jSvusx01G0VWBt14G0AEK) | [Pesan](https://open.spotify.com/album/5jFc5r6vMg8wavsHHYEk0Y) | 5:25 | 2024-06-27 | 2025-07-25 |
 | [Petrichor](https://open.spotify.com/track/1WfzUjKizxQkpk6d6fMLLo) | [Faustus](https://open.spotify.com/artist/6sqXbSeB9ZEfZSEz6kg95k) | [euyl](https://open.spotify.com/album/2NPGDNO34OSdpF8SUUh3B3) | 6:45 | 2025-07-04 |  |

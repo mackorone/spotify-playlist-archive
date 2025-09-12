@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : MC Menor JP x Jul",
+  "description": "Photo : DJ Kawest x L2B",
   "name": "Best Life",
   "tracks": [
     {
@@ -112,6 +112,24 @@
       "duration_ms": 189339,
       "name": "24",
       "url": "https://open.spotify.com/track/00anelAwwFxJXHD5MykhwG"
+    },
+    {
+      "album": {
+        "name": "3XDiamant",
+        "url": "https://open.spotify.com/album/53HeEpp31JSXj37OnKWxEu"
+      },
+      "artists": [
+        {
+          "name": "Benash",
+          "url": "https://open.spotify.com/artist/53loJtHWjCG1TyKarW2mzk"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153736,
+      "name": "3XDiamant",
+      "url": "https://open.spotify.com/track/38LOYYA3jfIVzIm1e9wcun"
     },
     {
       "album": {
@@ -2016,7 +2034,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 150508,
       "name": "Dame Un Grrr - Dr. Yaro Version",
       "url": "https://open.spotify.com/track/5PBuwFeYlopeLT5PXXaZLB"
@@ -5517,6 +5535,28 @@
     },
     {
       "album": {
+        "name": "Populaire",
+        "url": "https://open.spotify.com/album/5Va77etcxm2inKxBICFWiL"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204506,
+      "name": "Populaire",
+      "url": "https://open.spotify.com/track/77t6M21eaWB204PgnD1byj"
+    },
+    {
+      "album": {
         "name": "Potentiel",
         "url": "https://open.spotify.com/album/0cwJIqmCIJuIujx7YmSSjZ"
       },
@@ -5984,6 +6024,32 @@
     {
       "album": {
         "name": "RS6",
+        "url": "https://open.spotify.com/album/47A9QHZ7iDeKK9XYXLvBxR"
+      },
+      "artists": [
+        {
+          "name": "Benab",
+          "url": "https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY"
+        },
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        },
+        {
+          "name": "Zkr",
+          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275625,
+      "name": "RS6",
+      "url": "https://open.spotify.com/track/0zlkIVakn5bBF8ne5Csiz7"
+    },
+    {
+      "album": {
+        "name": "RS6",
         "url": "https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi"
       },
       "artists": [
@@ -6420,7 +6486,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 149077,
       "name": "SHATTA CRIMINEL",
       "url": "https://open.spotify.com/track/5dQZMgCDgq0CeQ76s8vPPS"
@@ -7418,7 +7484,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 155968,
       "name": "Va Bene",
       "url": "https://open.spotify.com/track/7fscpa2PI3fZuAomhPKylp"

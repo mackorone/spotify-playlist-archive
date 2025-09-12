@@ -1,6 +1,6 @@
 {
   "description": "Keep your finger on the pulse of Americana. Cover: Charley Crockett",
-  "num_followers": 631808,
+  "num_followers": 631845,
   "original_name": "The Pulse of Americana",
   "owner": {
     "name": "Spotify",
@@ -220,12 +220,12 @@
       },
       "artists": [
         {
-          "name": "John Butler Trio",
-          "url": "https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt"
-        },
-        {
           "name": "John Butler",
           "url": "https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR"
+        },
+        {
+          "name": "John Butler Trio",
+          "url": "https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt"
         }
       ],
       "duration_ms": 291400,

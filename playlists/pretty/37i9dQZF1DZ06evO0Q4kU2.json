@@ -1,12 +1,12 @@
 {
   "description": "This is Gabr\u00edel \u00d3lafs. The essential tracks, all in one playlist.",
-  "num_followers": 2146,
+  "num_followers": 2149,
   "original_name": "This Is Gabr\u00edel \u00d3lafs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL9uAAAAAAAGrLDZQUoYD4FgcIdbPjoI",
+  "snapshot_id": "aMC/gAAAAAA8yjBvcg1u+/UP7YKEdY5L",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Absent Minded",
-        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 197133,
-      "name": "Cyclist Waltz",
-      "url": "https://open.spotify.com/track/3bfTfRxO7ksp4EjYWF6LDn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lullabies for Piano and Cello",
         "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 191901,
       "name": "Mamma",
       "url": "https://open.spotify.com/track/4GrEFJisQX6VcpXuDKv5md"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Absent Minded",
+        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "Cyclist Waltz",
+      "url": "https://open.spotify.com/track/3bfTfRxO7ksp4EjYWF6LDn"
     },
     {
       "added_at": null,
@@ -476,25 +476,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 84853,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/6CW6qcpMm70WkCwsUBNIAZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lullabies for Piano and Cello",
-        "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 212415,
-      "name": "Draumheimar",
-      "url": "https://open.spotify.com/track/0dAPZAKj30bBP1dx9OPaXC"
+      "duration_ms": 80085,
+      "name": "Flatey",
+      "url": "https://open.spotify.com/track/5xrtUpX3QnFgGIAXdYAY3r"
     },
     {
       "added_at": null,
@@ -511,6 +495,22 @@
       "duration_ms": 138867,
       "name": "Permafrost I",
       "url": "https://open.spotify.com/track/2uRdQvuJA24yvOQxc2I5PI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lullabies for Piano and Cello",
+        "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 212415,
+      "name": "Draumheimar",
+      "url": "https://open.spotify.com/track/0dAPZAKj30bBP1dx9OPaXC"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Polar: Dusk",
+        "url": "https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 60202,
+      "name": "Permafrost II",
+      "url": "https://open.spotify.com/track/0ezup8npToPujZFJQNg6rL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lullabies for Piano and Cello",
         "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 157397,
       "name": "Fantas\u00eda",
       "url": "https://open.spotify.com/track/1efYB2i1q8Mg6gLNZj92jV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Polar: Dusk",
-        "url": "https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 60202,
-      "name": "Permafrost II",
-      "url": "https://open.spotify.com/track/0ezup8npToPujZFJQNg6rL"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Polar: Dusk",
+        "url": "https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 115364,
+      "name": "Ocean Variation II",
+      "url": "https://open.spotify.com/track/1ql9vbXw8QSYvJfudDpmuj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lullabies for Piano and Cello",
         "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 173730,
       "name": "S\u00e1lmur",
       "url": "https://open.spotify.com/track/4JVn0lzH3nc7lp9pVRVfaf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Polar: Dusk",
-        "url": "https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 115364,
-      "name": "Ocean Variation II",
-      "url": "https://open.spotify.com/track/1ql9vbXw8QSYvJfudDpmuj"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Polar: Dusk",
+        "url": "https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 108250,
+      "name": "Ocean Variation",
+      "url": "https://open.spotify.com/track/7ctmcDZTaWfbaWBQrE4L7G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lullabies for Piano and Cello",
         "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 183240,
       "name": "V\u00edsa",
       "url": "https://open.spotify.com/track/3gTPuppNx1qfT0q8GcG6sC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Polar: Dusk",
-        "url": "https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 108250,
-      "name": "Ocean Variation",
-      "url": "https://open.spotify.com/track/7ctmcDZTaWfbaWBQrE4L7G"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Polar: Dusk",
+        "url": "https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 82381,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4BhKib1RVbzLCRmO5cq6KC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lullabies for Piano and Cello",
         "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
       },
@@ -775,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polar: Dusk",
-        "url": "https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td"
+        "name": "Solon Islandus (Complete Works)",
+        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
       },
       "artists": [
         {
@@ -784,25 +800,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 82381,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/4BhKib1RVbzLCRmO5cq6KC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whales at Dusk",
-        "url": "https://open.spotify.com/album/4mjvmugHULMyaD8J6v7FV7"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 143523,
-      "name": "Whales at Dusk",
-      "url": "https://open.spotify.com/track/14M73gHqUYEayKdGQenYmZ"
+      "duration_ms": 98000,
+      "name": "Hind - Voiceless - Harpa Sessions",
+      "url": "https://open.spotify.com/track/35Azev1VFQXlLPmouKU2Z5"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whales at Dusk",
+        "url": "https://open.spotify.com/album/4mjvmugHULMyaD8J6v7FV7"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 143523,
+      "name": "Whales at Dusk",
+      "url": "https://open.spotify.com/track/14M73gHqUYEayKdGQenYmZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lullabies for Piano and Cello (Deluxe)",
         "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 171564,
       "name": "Fantas\u00eda Variation",
       "url": "https://open.spotify.com/track/1mGI0euU3McUKLk4SJGfC2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solon Islandus (Complete Works)",
-        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 98000,
-      "name": "Hind - Voiceless - Harpa Sessions",
-      "url": "https://open.spotify.com/track/35Azev1VFQXlLPmouKU2Z5"
     }
   ],
   "unique_name": "This Is Gabr\u00edel \u00d3lafs",

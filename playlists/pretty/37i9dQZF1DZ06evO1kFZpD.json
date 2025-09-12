@@ -1,12 +1,12 @@
 {
   "description": "This is Raveena. The essential tracks, all in one playlist.",
-  "num_followers": 7715,
+  "num_followers": 7719,
   "original_name": "This Is Raveena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL9uAAAAAACn+yJhgwPvjR9mW1BFyMDz",
+  "snapshot_id": "aMC/gAAAAACLCH12yK3ywJc63/67cxD5",
   "tracks": [
     {
       "added_at": null,
@@ -526,15 +526,11 @@
         {
           "name": "Raveena",
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        },
-        {
-          "name": "Arima Ederra",
-          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
         }
       ],
-      "duration_ms": 110487,
-      "name": "We Should Move Somewhere Beautiful (feat. Arima Ederra)",
-      "url": "https://open.spotify.com/track/3ufZfIHKU1C2WUJbOCfI2l"
+      "duration_ms": 233639,
+      "name": "Baby Mama",
+      "url": "https://open.spotify.com/track/3eEnjCOIKOV4nBpcG8aixD"
     },
     {
       "added_at": null,
@@ -600,9 +596,9 @@
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
         }
       ],
-      "duration_ms": 233639,
-      "name": "Baby Mama",
-      "url": "https://open.spotify.com/track/3eEnjCOIKOV4nBpcG8aixD"
+      "duration_ms": 171922,
+      "name": "Every Color",
+      "url": "https://open.spotify.com/track/4xjhwjkc3Lk1DLgNBShMkx"
     },
     {
       "added_at": null,
@@ -666,11 +662,15 @@
         {
           "name": "Raveena",
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        },
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
         }
       ],
-      "duration_ms": 171922,
-      "name": "Every Color",
-      "url": "https://open.spotify.com/track/4xjhwjkc3Lk1DLgNBShMkx"
+      "duration_ms": 110487,
+      "name": "We Should Move Somewhere Beautiful (feat. Arima Ederra)",
+      "url": "https://open.spotify.com/track/3ufZfIHKU1C2WUJbOCfI2l"
     },
     {
       "added_at": null,

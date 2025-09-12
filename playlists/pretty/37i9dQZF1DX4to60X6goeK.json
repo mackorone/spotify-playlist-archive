@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Turno",
-  "num_followers": 73346,
+  "num_followers": 73366,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,26 @@
     {
       "added_at": "2025-09-04 23:00:10",
       "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "MC ID",
+          "url": "https://open.spotify.com/artist/71p78rJ0sEwTMlNjqln74R"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "Alarm (feat. MC ID)",
+      "url": "https://open.spotify.com/track/4lI38Kj91ahnFG48FwVSrS"
+    },
+    {
+      "added_at": "2025-09-04 23:00:10",
+      "album": {
         "name": "Gas",
         "url": "https://open.spotify.com/album/3X9a2fO7SiOsTxzXpOG98S"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 186751,
       "name": "Gas",
       "url": "https://open.spotify.com/track/2sJKDHPYn5lZmVQhhMoStI"
-    },
-    {
-      "added_at": "2025-09-04 23:00:10",
-      "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "MC ID",
-          "url": "https://open.spotify.com/artist/71p78rJ0sEwTMlNjqln74R"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "Alarm (feat. MC ID)",
-      "url": "https://open.spotify.com/track/4lI38Kj91ahnFG48FwVSrS"
     },
     {
       "added_at": "2025-09-04 23:00:10",
@@ -843,26 +843,22 @@
     {
       "added_at": "2025-09-04 23:00:10",
       "album": {
-        "name": "Round + Round",
-        "url": "https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9"
+        "name": "Come Around",
+        "url": "https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O"
       },
       "artists": [
         {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
         },
         {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
         }
       ],
-      "duration_ms": 158620,
-      "name": "Round + Round",
-      "url": "https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4"
+      "duration_ms": 228706,
+      "name": "Come Around",
+      "url": "https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl"
     },
     {
       "added_at": "2025-09-04 23:00:10",
@@ -887,22 +883,26 @@
     {
       "added_at": "2025-09-04 23:00:10",
       "album": {
-        "name": "Come Around",
-        "url": "https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O"
+        "name": "Round + Round",
+        "url": "https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9"
       },
       "artists": [
         {
-          "name": "Subsonic",
-          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
         },
         {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
         }
       ],
-      "duration_ms": 228706,
-      "name": "Come Around",
-      "url": "https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl"
+      "duration_ms": 158620,
+      "name": "Round + Round",
+      "url": "https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4"
     },
     {
       "added_at": "2025-09-04 23:00:10",
@@ -927,26 +927,6 @@
       "duration_ms": 177931,
       "name": "Satellite - SOTA Remix",
       "url": "https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4"
-    },
-    {
-      "added_at": "2025-09-04 23:00:10",
-      "album": {
-        "name": "PURPOSE",
-        "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
-      },
-      "artists": [
-        {
-          "name": "Blooom",
-          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
-        },
-        {
-          "name": "Maksim MC",
-          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
-        }
-      ],
-      "duration_ms": 167314,
-      "name": "PURPOSE",
-      "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
     },
     {
       "added_at": "2025-09-04 23:00:10",
@@ -983,6 +963,26 @@
       "duration_ms": 235885,
       "name": "Outta Order",
       "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
+    },
+    {
+      "added_at": "2025-09-04 23:00:10",
+      "album": {
+        "name": "PURPOSE",
+        "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
+      },
+      "artists": [
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        },
+        {
+          "name": "Maksim MC",
+          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
+        }
+      ],
+      "duration_ms": 167314,
+      "name": "PURPOSE",
+      "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
     },
     {
       "added_at": "2025-09-04 23:00:10",
@@ -1063,22 +1063,22 @@
     {
       "added_at": "2025-09-04 23:00:10",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/1lGBkpmE560k1RQkn6VqBS"
+        "name": "Polarity (VIP)",
+        "url": "https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN"
       },
       "artists": [
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
         },
         {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
         }
       ],
-      "duration_ms": 179482,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/75zovB1aWBVyBffbJb15l4"
+      "duration_ms": 202971,
+      "name": "Polarity - VIP",
+      "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
     },
     {
       "added_at": "2025-09-04 23:00:10",

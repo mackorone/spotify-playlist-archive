@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "\ud83d\udd25 A new mixtape drop every Thursday\ud83d\udd25 Natanael Cano & Anuel AA are bringing the heat this week!",
+  "description": "\ud83d\udd25 A new mixtape drop every Thursday\ud83d\udd25 Clarent & Omar Courtz are bringing the heat this week!",
   "name": "Fuego",
   "tracks": [
     {
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 209813,
       "name": "5 Minutos",
       "url": "https://open.spotify.com/track/0ZBwuwhe9VnrKQvK0xPV1W"
@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 158896,
       "name": "[FREE] 5202 Type Beat",
       "url": "https://open.spotify.com/track/7v6TT7EUEYAX1S7RZaZOkG"
@@ -6104,7 +6104,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 181354,
       "name": "BELLAKEO SUCIO",
       "url": "https://open.spotify.com/track/5HdaluCMEcjgULPetLjJ3n"
@@ -7500,7 +7500,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 223058,
       "name": "Bouncy",
       "url": "https://open.spotify.com/track/2U7shUh5oZPfLshPcD9dGl"
@@ -10030,7 +10030,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 220000,
       "name": "Comando Estelar",
       "url": "https://open.spotify.com/track/4j5ZSTHkXQbV0c8EassD0N"
@@ -10136,7 +10136,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 219759,
       "name": "Como Es - Remix",
       "url": "https://open.spotify.com/track/3uZe6zsDlFNxaKiqn1kHJi"
@@ -10216,7 +10216,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 195261,
       "name": "COMO OREO",
       "url": "https://open.spotify.com/track/7sRXb5IgYWwVv1DaavHSNs"
@@ -11186,7 +11186,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 210001,
       "name": "Crush",
       "url": "https://open.spotify.com/track/1WlwdaBBBa43PYMwoKyzO4"
@@ -13587,6 +13587,28 @@
     },
     {
       "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Eddy Lover",
+          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187508,
+      "name": "Dile Luna",
+      "url": "https://open.spotify.com/track/4n0JnrS5az8qhhQRuofBfo"
+    },
+    {
+      "album": {
         "name": "Dile Que Tu Me Quieres",
         "url": "https://open.spotify.com/album/2lVfMtUwFK2bM3HNEyaNax"
       },
@@ -13764,6 +13786,42 @@
       "duration_ms": 192996,
       "name": "Dime Si Te Acuerdas",
       "url": "https://open.spotify.com/track/6hL7YNvfPF3SgeTaa77Lh9"
+    },
+    {
+      "album": {
+        "name": "dime tu bb",
+        "url": "https://open.spotify.com/album/4D4oTIQbQgrwIcMKIhFnAH"
+      },
+      "artists": [
+        {
+          "name": "TORRRES",
+          "url": "https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "dime tu bb",
+      "url": "https://open.spotify.com/track/4G4v8SFiypvlXfCPVG0w2O"
+    },
+    {
+      "album": {
+        "name": "dinero & placeres",
+        "url": "https://open.spotify.com/album/1OxF3puSD5WZPiqDmiUGlB"
+      },
+      "artists": [
+        {
+          "name": "Geo",
+          "url": "https://open.spotify.com/artist/2mzrWihYniKXcK0vNi9UUh"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "dinero & placeres",
+      "url": "https://open.spotify.com/track/754BbYmXN8XvOE6R74SOkV"
     },
     {
       "album": {
@@ -15287,6 +15345,24 @@
     },
     {
       "album": {
+        "name": "El Del Flavor",
+        "url": "https://open.spotify.com/album/3tbtaGhqHJkKS54dAgbm9Q"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140017,
+      "name": "El Del Flavor",
+      "url": "https://open.spotify.com/track/164obCYBsKXiaJq19MZWd8"
+    },
+    {
+      "album": {
         "name": "El DJ",
         "url": "https://open.spotify.com/album/36fxSO2fchu2m4pqtL5nGy"
       },
@@ -15512,6 +15588,32 @@
       "duration_ms": 169293,
       "name": "El Motorcito",
       "url": "https://open.spotify.com/track/1c89Peahzqvhcs9UtiT879"
+    },
+    {
+      "album": {
+        "name": "El Mundo V\u00e1 Deprisa",
+        "url": "https://open.spotify.com/album/6AhKldwm8BldNwE3tmnNeO"
+      },
+      "artists": [
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Victor PL",
+          "url": "https://open.spotify.com/artist/6qRL7BAmHb66G8GWMfEwuh"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162551,
+      "name": "El Mundo V\u00e1 Deprisa",
+      "url": "https://open.spotify.com/track/4J5blGtNmsEsQbFm7mrwW7"
     },
     {
       "album": {
@@ -16826,6 +16928,28 @@
       "duration_ms": 195033,
       "name": "En To Lao",
       "url": "https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA"
+    },
+    {
+      "album": {
+        "name": "En Tus Sue\u00f1os",
+        "url": "https://open.spotify.com/album/5EyekKqaKg0wRgFOG8MSeW"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188022,
+      "name": "En Tus Sue\u00f1os",
+      "url": "https://open.spotify.com/track/6QtWffbCbMMfJj7PacS5ri"
     },
     {
       "album": {
@@ -18514,7 +18638,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 217965,
       "name": "FAYA",
       "url": "https://open.spotify.com/track/4w9Lbv2E3kuXF1zMz71xh7"
@@ -25472,7 +25596,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 205714,
       "name": "La Ciudad del Sol",
       "url": "https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A"
@@ -25660,7 +25784,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-10",
+      "date_removed": null,
       "duration_ms": 149712,
       "name": "la de arca",
       "url": "https://open.spotify.com/track/4qIMKCnsasl6wE7aT6YZDi"
@@ -25836,7 +25960,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 158210,
       "name": "LA FREAK",
       "url": "https://open.spotify.com/track/34OeWFapJcyotfNV4h2Xuj"
@@ -30498,7 +30622,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 168209,
       "name": "Me Mareo",
       "url": "https://open.spotify.com/track/6jBoUckd6VEImt6pg8RpDr"
@@ -31060,6 +31184,24 @@
       "duration_ms": 174560,
       "name": "Metro Spider (with Young Thug)",
       "url": "https://open.spotify.com/track/2VtgzixdB967bHDNu5A1nh"
+    },
+    {
+      "album": {
+        "name": "MI ALGO",
+        "url": "https://open.spotify.com/album/02vBvKtAgM31xInDIxX6jh"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176845,
+      "name": "MI ALGO",
+      "url": "https://open.spotify.com/track/05VmV2lcHrbu8rD2reWJLK"
     },
     {
       "album": {
@@ -32626,7 +32768,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 182608,
       "name": "MU\u00d1ECA DE URBA",
       "url": "https://open.spotify.com/track/3BYsz5bUXe92mkIZ7XEOpN"
@@ -33396,7 +33538,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 245217,
       "name": "Nena Sad Remix",
       "url": "https://open.spotify.com/track/3MDaMg89kr21WgU0ZFFHX7"
@@ -40282,7 +40424,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 245760,
       "name": "Primer Lugar",
       "url": "https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM"
@@ -42682,7 +42824,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 161632,
       "name": "Relojito Cartier",
       "url": "https://open.spotify.com/track/3GJgf5VJTnuFwh1YUFJGic"
@@ -42996,6 +43138,28 @@
       "duration_ms": 205275,
       "name": "Ringui Dingui - con SFDK",
       "url": "https://open.spotify.com/track/7zrmKJCfEHluOWJy8LFnTs"
+    },
+    {
+      "album": {
+        "name": "HAYABUSA: El After",
+        "url": "https://open.spotify.com/album/7Fjw0eOnC7cmpwMXVJ9wPC"
+      },
+      "artists": [
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "Papi Sousa",
+          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152394,
+      "name": "Rio Nilo",
+      "url": "https://open.spotify.com/track/4mwmm8b1soOJ83WUObunna"
     },
     {
       "album": {
@@ -43968,7 +44132,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 155265,
       "name": "SANKA",
       "url": "https://open.spotify.com/track/46ufabZP6oK3ixmN6Gd753"
@@ -46916,7 +47080,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 193654,
       "name": "SUERTE",
       "url": "https://open.spotify.com/track/6pJj7JbS6TXCZW19BzXot6"
@@ -47215,6 +47379,24 @@
     },
     {
       "album": {
+        "name": "Fine Pack Vol. 1",
+        "url": "https://open.spotify.com/album/2fTc0Fh5dcNJwh9WWmoyvI"
+      },
+      "artists": [
+        {
+          "name": "Lemuell",
+          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214520,
+      "name": "Sushi Roll",
+      "url": "https://open.spotify.com/track/4MGSUDDoJTaLbZTG3P5Cln"
+    },
+    {
+      "album": {
         "name": "SUSTANCIAS CONTROLADAS",
         "url": "https://open.spotify.com/album/32F9dqCbQL0UgPbdoz7rIq"
       },
@@ -47226,7 +47408,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 175058,
       "name": "SUSTANCIAS CONTROLADAS",
       "url": "https://open.spotify.com/track/0fJ7oczb1GyWEkk04ShTPs"
@@ -49596,7 +49778,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 122448,
       "name": "TOTO",
       "url": "https://open.spotify.com/track/5zf8azI8zglZOYlIvHTS0E"
@@ -51153,6 +51335,24 @@
     },
     {
       "album": {
+        "name": "Ubaguata",
+        "url": "https://open.spotify.com/album/2tOCqM1C8mhRbOCUcvIm0J"
+      },
+      "artists": [
+        {
+          "name": "Debians",
+          "url": "https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170817,
+      "name": "Ubaguata",
+      "url": "https://open.spotify.com/track/74WaXL6gr2cLLTsS3qyMO1"
+    },
+    {
+      "album": {
         "name": "ULALA (OHH LA LA)",
         "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
       },
@@ -51980,7 +52180,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 197260,
       "name": "Undercromo - W Sound 06",
       "url": "https://open.spotify.com/track/4G1DYPZP4vGWfY2ki1rvjP"
@@ -52156,6 +52356,24 @@
       "duration_ms": 207723,
       "name": "URUS BLUE",
       "url": "https://open.spotify.com/track/4sTnItbNUAcS5KDG6vTA5B"
+    },
+    {
+      "album": {
+        "name": "afroLOVA 25'",
+        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157837,
+      "name": "UYUNI",
+      "url": "https://open.spotify.com/track/1Hq9DR1s1DZIlpNZMEFA0v"
     },
     {
       "album": {
@@ -53668,6 +53886,24 @@
       "duration_ms": 146559,
       "name": "wiggy",
       "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
+    },
+    {
+      "album": {
+        "name": "(((REXX)))",
+        "url": "https://open.spotify.com/album/4a4gi4zJPboFcefHJZwYBw"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150517,
+      "name": "WILDSEX",
+      "url": "https://open.spotify.com/track/6ybjsJNptJGQ69MzOKv9qz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: King Gnu
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,735 likes - 101 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,814 likes - 101 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 100 | [カルティベート](https://open.spotify.com/track/35VOdvKD2TufkHv9AzH6eg) | [Crab 蟹 Club](https://open.spotify.com/artist/2Po8LYeurfstvqMOLCTTs6) | [カルティベート](https://open.spotify.com/album/1zAzU2s9aRPk9ysKuj2P9t) | 3:53 |
 | 101 | [SHO GA NEE JAN](https://open.spotify.com/track/4YCuEJzrePcAWkw5di5VTa) | [Ultra Sushi Fire](https://open.spotify.com/artist/2XQ62qYdxJwZ66hEoJr5Ml) | [NEW ERA](https://open.spotify.com/album/66sXDYEzXP0YwpjqJ8jxZl) | 3:16 |
 
-Snapshot ID: `AAAAADwL2wGmD5FS4GJaq2g4e/d3l23C`
+Snapshot ID: `AAAAAKV12BiF9421tgnfdYO5TEl5KKvL`

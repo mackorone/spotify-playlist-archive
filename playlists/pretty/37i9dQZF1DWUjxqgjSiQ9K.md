@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Montesanto
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,529 likes - 90 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,683 likes - 90 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 41 | [Mi Creador](https://open.spotify.com/track/5VIG2ergnmxEFEU3is0dMj) | [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Mi Creador](https://open.spotify.com/album/16X429nrjpTB4Slqplq98d) | 2:56 |
 | 42 | [Esposa Mía](https://open.spotify.com/track/5oJU90vfKSvzZrT6g49xK8) | [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [Esposa Mía](https://open.spotify.com/album/060GsIY1ZDNFwiK2om5J2S) | 3:30 |
 | 43 | [GRACIAS](https://open.spotify.com/track/2sZ3ZWYVtFDqvBZDB4kyd1) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [GRACIAS](https://open.spotify.com/album/2o4wNjj8v1ltM7rwAHnpf5) | 2:46 |
-| 44 | [Con Dio’](https://open.spotify.com/track/5BGBIy5gxjAXWgtOFYKi0G) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Con Dio’](https://open.spotify.com/album/22LMGZA7CzDWuz4oJvFiwH) | 3:29 |
+| 44 | [CON DIO'](https://open.spotify.com/track/5BGBIy5gxjAXWgtOFYKi0G) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [CON DIO'](https://open.spotify.com/album/22LMGZA7CzDWuz4oJvFiwH) | 3:29 |
 | 45 | [Bailando](https://open.spotify.com/track/3UjG1O5avEgsYVAMXSBeg5) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Bailando](https://open.spotify.com/album/6BhuGOZh7HucgeEhZTECJc) | 2:59 |
 | 46 | [Encontrarte](https://open.spotify.com/track/1c72j3yhaPFamJi6HW4IqF) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Encontrarte](https://open.spotify.com/album/5Qph9P6iRDJVsPd2xs8Inw) | 3:38 |
 | 47 | [FÓRMULA](https://open.spotify.com/track/3wSfjUAeL0wZDQRrRHMlKH) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [UPGRADE \(Level 2\)](https://open.spotify.com/album/1uyN8qnF6kkoAVS7YvZgY9) | 3:50 |

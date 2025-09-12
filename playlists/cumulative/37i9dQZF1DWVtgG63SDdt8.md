@@ -4,7 +4,7 @@
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: bodie
 
-10,157 songs - 27 day 18 hr 1 min
+10,158 songs - 27 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1323,6 +1323,7 @@
 | [Celebration at the Empty Grave](https://open.spotify.com/track/55QERSLUTHM82JBsoTO78m) | [Down East Boys](https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln) | [Celebration at the Empty Grave](https://open.spotify.com/album/3lAyWpRS4zkP4tBOWOTL4d) | 3:40 | 2023-01-13 | 2023-01-21 |
 | [Center](https://open.spotify.com/track/52KBBrT6byL09W57V4Cgah) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Center](https://open.spotify.com/album/3bEYIv9GIQeg1RaIlcDXfM) | 2:22 | 2024-08-16 | 2024-08-24 |
 | [Center \- Live](https://open.spotify.com/track/4UYRVsS5vkpuBZXtpHU6iF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Center \(Live\)](https://open.spotify.com/album/14twTxZEfFwCDuKXmajio1) | 7:45 | 2024-11-08 | 2024-11-23 |
+| [Center of Attention](https://open.spotify.com/track/7eYZ3TFfFExJrofkq5VtmX) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [With The Lord](https://open.spotify.com/album/6tZmvvwoShgjDj5GSKhChD) | 3:29 | 2025-09-05 |  |
 | [Center Of It All](https://open.spotify.com/track/5buX2Wtoax8BmrHbSVPGDI) | [People of The Earth](https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5) | [Center Of It All](https://open.spotify.com/album/0YkKbhH7fzuDOplmVqwhLm) | 4:12 | 2023-06-24 | 2023-07-08 |
 | [Center of it All](https://open.spotify.com/track/20oT8tJ36lvfbk4fgHZAKc) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Center of it All](https://open.spotify.com/album/1Wwt4bmUJg9MrDhrT73pe8) | 3:36 | 2023-03-17 | 2023-03-25 |
 | [Center Stage](https://open.spotify.com/track/49JHT2RsBaIgTLqM86IgSk) | [Sean BE](https://open.spotify.com/artist/6np1JmYwsg2y5u29WBHGfp) | [Center Stage](https://open.spotify.com/album/5qtQHRMUffTZZvJGjqXw5v) | 2:59 | 2023-02-10 | 2023-02-25 |

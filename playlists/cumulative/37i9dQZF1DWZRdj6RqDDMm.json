@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/6esd3NqoJEU7lT86DQIVLX"
+      },
+      "artists": [
+        {
+          "name": "Annette Nandine",
+          "url": "https://open.spotify.com/artist/0euQcM7EekIFq5VcIRyyrt"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/347mcL9dEZCdoAL1ffCuCb"
+    },
+    {
+      "album": {
         "name": "change me",
         "url": "https://open.spotify.com/album/7eIDiSM5QwkWQ8JXWs7kTS"
       },
@@ -1830,6 +1848,24 @@
       "duration_ms": 142666,
       "name": "Comfort me",
       "url": "https://open.spotify.com/track/3e35HnDENOkg77SBrmOhsa"
+    },
+    {
+      "album": {
+        "name": "Comforter",
+        "url": "https://open.spotify.com/album/6MaGpTtoqsvn6LQHdo0XGk"
+      },
+      "artists": [
+        {
+          "name": "Paul Rarity",
+          "url": "https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144545,
+      "name": "Comforter",
+      "url": "https://open.spotify.com/track/0P5u7S5JktdlzlGixUEE7K"
     },
     {
       "album": {
@@ -2700,7 +2736,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 204892,
       "name": "Enough",
       "url": "https://open.spotify.com/track/3sTKNrsUuwIQ13DzlN0YR3"
@@ -3154,7 +3190,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 152683,
       "name": "Follow",
       "url": "https://open.spotify.com/track/1qvrcOZvfWsmJ2fWapXQqI"
@@ -3272,6 +3308,28 @@
       "duration_ms": 166285,
       "name": "For My Sake",
       "url": "https://open.spotify.com/track/7zMCGarwmP4zJcsBXQPkSE"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2dTPV7YZH1yDyhaUBkeDw7"
+      },
+      "artists": [
+        {
+          "name": "Brave Dyakkoh",
+          "url": "https://open.spotify.com/artist/0mPUxo9RlPxbssjTPg46KI"
+        },
+        {
+          "name": "Stanley Ifenna",
+          "url": "https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5NkYmbIrzIsk9EtCekrch9"
     },
     {
       "album": {
@@ -10709,6 +10767,28 @@
     },
     {
       "album": {
+        "name": "Wade",
+        "url": "https://open.spotify.com/album/1YFyvSlylM5oc8OF7oZtTn"
+      },
+      "artists": [
+        {
+          "name": "Shime Ahua",
+          "url": "https://open.spotify.com/artist/10hDEzXFAjeQPXm8fxhds5"
+        },
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234352,
+      "name": "Wade",
+      "url": "https://open.spotify.com/track/0nLL5geExfqitGFZTgh3kD"
+    },
+    {
+      "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/3aeud3kul1f5vS6Mh6HJrl"
       },
@@ -11020,7 +11100,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 218040,
       "name": "With Me",
       "url": "https://open.spotify.com/track/3u71fqiv5wmXgAcAmpKPae"

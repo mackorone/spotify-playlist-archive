@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 762,
+  "num_followers": 763,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL9uAAAAAAAlvCEK06O1kQp8aKh12mZd",
+  "snapshot_id": "aMC/gAAAAADZhTdXmEWPf+DdMRKCVxbq",
   "tracks": [
     {
       "added_at": null,
@@ -335,6 +335,22 @@
       "duration_ms": 78496,
       "name": "The Scholar's Mate",
       "url": "https://open.spotify.com/track/2qKga0VHaH41ajUMbVofcb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Department Q (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1e5HzQzwRsdWNh2m5kDOUy"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 96945,
+      "name": "Mh\u00f2r",
+      "url": "https://open.spotify.com/track/0xtRjT86O6sdt2BaJXyUb3"
     },
     {
       "added_at": null,

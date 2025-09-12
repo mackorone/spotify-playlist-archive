@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "The #1 Destination for the best melodies in the world. Cover: Leigh-Anne",
+  "description": "The #1 Destination for the best melodies in the world. Cover: Kali Uchis, Ravyn Lenae",
   "name": "Essence",
   "tracks": [
+    {
+      "album": {
+        "name": "This One Is Personal",
+        "url": "https://open.spotify.com/album/55VroRmh4MCv27zw275clO"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169314,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI"
+    },
     {
       "album": {
         "name": "Jupiter",
@@ -255,6 +273,28 @@
     },
     {
       "album": {
+        "name": "Cali",
+        "url": "https://open.spotify.com/album/0Yj5zhtDAOsEX8Ttvf0ezI"
+      },
+      "artists": [
+        {
+          "name": "Ife Ogunjobi",
+          "url": "https://open.spotify.com/artist/2nkMktddAGCSVHJlsO6eUK"
+        },
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175247,
+      "name": "Cali",
+      "url": "https://open.spotify.com/track/0QLMIFB1tGQBQ3HlGVKWsp"
+    },
+    {
+      "album": {
         "name": "Best Of Both Worlds",
         "url": "https://open.spotify.com/album/141gy9ZTgo1fPLfCBdXKYq"
       },
@@ -335,6 +375,24 @@
     },
     {
       "album": {
+        "name": "Symptoms of Me",
+        "url": "https://open.spotify.com/album/3j2DGHCJMkOzvHddr8GkKs"
+      },
+      "artists": [
+        {
+          "name": "Summer Banton",
+          "url": "https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149488,
+      "name": "Class A",
+      "url": "https://open.spotify.com/track/3X5VHuawDizSLFIYpJQD5U"
+    },
+    {
+      "album": {
         "name": "Closer To Me",
         "url": "https://open.spotify.com/album/0Ee564wJB77RPEtpur1p1C"
       },
@@ -386,6 +444,28 @@
       "duration_ms": 160007,
       "name": "Crush",
       "url": "https://open.spotify.com/track/75M3g2qnWgOiwaAdCEsDNz"
+    },
+    {
+      "album": {
+        "name": "Cry about it! (feat. Ravyn Lenae)",
+        "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171507,
+      "name": "Cry about it! (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
     },
     {
       "album": {
@@ -538,6 +618,24 @@
       "duration_ms": 211805,
       "name": "F with U",
       "url": "https://open.spotify.com/track/7EF82wKxrl5irOZWPbCJ9S"
+    },
+    {
+      "album": {
+        "name": "FALL THROUGH",
+        "url": "https://open.spotify.com/album/6Iaph0ERIiTHqq9YLRpMkc"
+      },
+      "artists": [
+        {
+          "name": "Rya",
+          "url": "https://open.spotify.com/artist/5o0oa7D3vG5hisRVA4M3Vp"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "FALL THROUGH",
+      "url": "https://open.spotify.com/track/3l04IKVbK3rgDLOkaigL7R"
     },
     {
       "album": {
@@ -722,7 +820,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 216296,
       "name": "I'm OK",
       "url": "https://open.spotify.com/track/6fKFucYhNUguZCuX0FTJfQ"
@@ -834,7 +932,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 151786,
       "name": "Make It Up To You (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x"
@@ -856,6 +954,24 @@
       "duration_ms": 234584,
       "name": "Maybe It's You",
       "url": "https://open.spotify.com/track/7kFgKExxDFZJghA6Q4kCUR"
+    },
+    {
+      "album": {
+        "name": "MERCY PLEASE",
+        "url": "https://open.spotify.com/album/7zp1dyDCFHB2KbMLHWuZeh"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173436,
+      "name": "MERCY PLEASE",
+      "url": "https://open.spotify.com/track/36VaeS40rE82eU4mxBCJ6v"
     },
     {
       "album": {
@@ -928,7 +1044,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 156548,
       "name": "Never Love Again",
       "url": "https://open.spotify.com/track/5ZlzrLcxXAtVsCeDq1JUUe"
@@ -1084,7 +1200,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 172631,
       "name": "Ready",
       "url": "https://open.spotify.com/track/0dDciQvSUTEbcLugnDXRCX"
@@ -1310,7 +1426,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 206466,
       "name": "Sun Don't Leave Me",
       "url": "https://open.spotify.com/track/7jwTfYyL6YFp0IUMUoHx5m"
@@ -1336,6 +1452,24 @@
       "duration_ms": 235328,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
+    },
+    {
+      "album": {
+        "name": "Sweet Sensation",
+        "url": "https://open.spotify.com/album/0jKFVbAav1wfa5smwIY0bd"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223520,
+      "name": "Sweet Sensation",
+      "url": "https://open.spotify.com/track/08lMm17NyaTxqE2pnyLNi8"
     },
     {
       "album": {
@@ -1386,7 +1520,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 164645,
       "name": "Taste",
       "url": "https://open.spotify.com/track/158aKdyaVs7HS3OfDZHANh"
@@ -1462,7 +1596,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 260420,
       "name": "This body",
       "url": "https://open.spotify.com/track/1OMgq21kzpvXOJzE8Cufnx"
@@ -1545,6 +1679,28 @@
     },
     {
       "album": {
+        "name": "US III",
+        "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
+      },
+      "artists": [
+        {
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "US III",
+      "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
+    },
+    {
+      "album": {
         "name": "Winter & Summer",
         "url": "https://open.spotify.com/album/73Z3iEJZUJxplEjmD5UZkw"
       },
@@ -1556,7 +1712,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 194785,
       "name": "Winter & Summer",
       "url": "https://open.spotify.com/track/3a7rELDtWE9gb6DBwxsNPt"

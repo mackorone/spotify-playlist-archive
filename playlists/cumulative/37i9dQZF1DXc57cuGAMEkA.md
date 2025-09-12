@@ -2,7 +2,7 @@
 
 ### [New Music Friday Japan](https://open.spotify.com/playlist/37i9dQZF1DXc57cuGAMEkA)
 
-> 洋楽を中心に今週の新曲をチェック。藤井 風, Lady Gaga, King Gnu, aespa, Tame Impala and more!
+> 洋楽を中心に今週の新曲をチェック。Ed Sheeran, Drake, Kali Uchis, Ado and more!
 
 10,902 songs - 25 day 8 hr 6 min
 

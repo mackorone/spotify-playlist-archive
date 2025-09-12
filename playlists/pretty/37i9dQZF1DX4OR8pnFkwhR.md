@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: AKASAKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,207 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,210 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [ROCK ROCK 36](https://open.spotify.com/track/6Ks1niTVpZeRpVfbb3Sbky) | [Baby Canta](https://open.spotify.com/artist/4jdLgKDWPnRF5pAP1PnUww) | [SHYBOY \- EP](https://open.spotify.com/album/1tm0gNM4UC5MgIbAS6nrlB) | 3:02 |
 | 60 | [addicted](https://open.spotify.com/track/6pbFoDKhAFfnlGy63ob2mf) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [sublimated](https://open.spotify.com/album/35yXAuUTisaemSxBiyFGVP) | 2:38 |
 
-Snapshot ID: `AAAAAKXb6UWz7VQMpRtroMlljWgKC7QK`
+Snapshot ID: `AAAAAO59xM2godZxBNEjCQOX+j/l+4YX`

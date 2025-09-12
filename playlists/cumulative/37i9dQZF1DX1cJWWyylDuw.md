@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Lorna Shore
 
-714 songs - 1 day 21 hr 56 min
+715 songs - 1 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Death Magick](https://open.spotify.com/track/0XcyTZVnvgnvgDIQEIb1S6) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death Magick](https://open.spotify.com/album/1wU3JkqJnu6jj3AnTas0Tq) | 7:07 | 2023-12-13 | 2024-04-19 |
 | [Death Magick](https://open.spotify.com/track/0lWZnBWW0UbN7t2r1b2CXi) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death Magick](https://open.spotify.com/album/1Tn0srx1e04A3T2TfEJGss) | 7:07 | 2023-08-16 | 2024-10-19 |
 | [Death March](https://open.spotify.com/track/4v9IrQXFYYbeHGR9EOnnqR) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Death March](https://open.spotify.com/album/5XxLSif8ZxqAcAZIgLfRGm) | 3:11 | 2021-12-17 | 2022-07-29 |
+| [Death Of An Artist](https://open.spotify.com/track/6ezK4zlqlpaJe73ATuiHuQ) | [Despised Icon](https://open.spotify.com/artist/3MjNMjqBpaQ0P8ebfbZjYn) | [Death Of An Artist](https://open.spotify.com/album/5QUKxBdh9lSF58pppituER) | 3:41 | 2025-09-05 |  |
 | [Death Perception](https://open.spotify.com/track/2fX47U6zoZscL53OF8AmHL) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Death Perception](https://open.spotify.com/album/1PvmiiUDT5lnYfL1ATCS1Y) | 2:34 | 2021-12-17 | 2022-04-07 |
 | [Death Whistle](https://open.spotify.com/track/6t5wPcC3CtQjzn5O7i4yVg) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Death Whistle](https://open.spotify.com/album/71IhKehJidjr8Phqa4R3U8) | 5:53 | 2021-12-17 | 2024-09-21 |
 | [Death's Grip](https://open.spotify.com/track/1K3lyjy21L5DnUbo5TBzDF) | [Galactic Pegasus](https://open.spotify.com/artist/7ctNUue6eUZSsH3rn8bioy) | [Death's Grip](https://open.spotify.com/album/6YgkBcE1axy8gUbCPNxiKH) | 3:16 | 2021-12-17 | 2022-04-07 |

@@ -1821,28 +1821,6 @@
     },
     {
       "album": {
-        "name": "Close Your Eyes - Spotify Singles",
-        "url": "https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
-        }
-      ],
-      "date_added": "2021-08-27",
-      "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
-      "duration_ms": 201720,
-      "name": "Close Your Eyes - Spotify Singles",
-      "url": "https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u"
-    },
-    {
-      "album": {
         "name": "Close Your Eyes (VisionV Remix)",
         "url": "https://open.spotify.com/album/0L9MMuZywmc62z1U7ZyAih"
       },
@@ -1868,8 +1846,30 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 149953,
-      "name": "Close Your Eyes - VisionV Remix",
+      "name": "Close Your Eyes (feat. Petit Biscuit) - VisionV Remix",
       "url": "https://open.spotify.com/track/1nOqnL9f1QbSrwCQILSYjI"
+    },
+    {
+      "album": {
+        "name": "Close Your Eyes - Spotify Singles",
+        "url": "https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 201720,
+      "name": "Close Your Eyes - Spotify Singles",
+      "url": "https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u"
     },
     {
       "album": {

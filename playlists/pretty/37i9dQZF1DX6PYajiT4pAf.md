@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Manuel Turizo, Lady Gaga, Dei V, Arcangel con Yan Block y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,538 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,622 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 59 | [Hola MaRinaaAAA](https://open.spotify.com/track/1I0XGkdTxico04E73ITKyu) | [Marina Daza](https://open.spotify.com/artist/1ycbxfYzNEBabFjFAv85u8) | [Hola MaRinaaAAA](https://open.spotify.com/album/7Mr4BqjF3904aP6bqurgSn) | 2:21 |
 | 60 | [Insomnio](https://open.spotify.com/track/2hFYfcVW8gI3dRUgCUtctM) | [Celia Becks](https://open.spotify.com/artist/50WyUnAV5BUImbldUlW5e1) | [Insomnio](https://open.spotify.com/album/4hw56VCaTeBPYbd0Ljs4Js) | 2:37 |
 
-Snapshot ID: `AAAAAHF4s7jVnqiWmfhbT/Lr0+RijY+3`
+Snapshot ID: `AAAAADF2p+qjHD3iyPsQB7lNxSgJ3ngF`

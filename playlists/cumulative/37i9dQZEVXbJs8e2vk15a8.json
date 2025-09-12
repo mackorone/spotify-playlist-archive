@@ -9989,6 +9989,24 @@
     },
     {
       "album": {
+        "name": "M\u00fasica Chilena",
+        "url": "https://open.spotify.com/album/4W8ihMUCs6adgqP9zrzmns"
+      },
+      "artists": [
+        {
+          "name": "El Monteaguilino",
+          "url": "https://open.spotify.com/artist/7cC4OFKSHYZuKU6cgbB4vf"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186003,
+      "name": "Caballito de Metal",
+      "url": "https://open.spotify.com/track/6kJgNhXUD92yG9BaBZmXTe"
+    },
+    {
+      "album": {
         "name": "Caba\u00f1a",
         "url": "https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT"
       },
@@ -13988,7 +14006,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 204000,
       "name": "CORAZ\u00d3N VAC\u00cdO",
       "url": "https://open.spotify.com/track/701VPnT03xjHs4Dr3DQwGi"
@@ -42080,7 +42098,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 163576,
       "name": "Ni\u00e9game",
       "url": "https://open.spotify.com/track/4stFQZDW8THC9osyyTCDwX"
@@ -66056,7 +66074,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 102122,
       "name": "Viva Chile, Viva Chile",
       "url": "https://open.spotify.com/track/4qYkYELTxSmwsFkeVSDsei"

@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Aymen",
-  "num_followers": 917848,
+  "num_followers": 917941,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,26 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "Tutto Bene",
-        "url": "https://open.spotify.com/album/6hp9ryEwD5QwQ7uztaEcMD"
+        "name": "CC&MO",
+        "url": "https://open.spotify.com/album/6piWSXJfxNDZLP13xDzUge"
       },
       "artists": [
         {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+          "name": "Aymo",
+          "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
         },
         {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
         }
       ],
-      "duration_ms": 219733,
-      "name": "Tutto Bene",
-      "url": "https://open.spotify.com/track/7iOadzb2kNGSR0vuZk1DD9"
+      "duration_ms": 155083,
+      "name": "CC&MO",
+      "url": "https://open.spotify.com/track/2jTMp5LqbcxgVYQEc7WU7l"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -151,6 +155,26 @@
       "duration_ms": 119244,
       "name": "Capri Sun",
       "url": "https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "Tutto Bene",
+        "url": "https://open.spotify.com/album/6hp9ryEwD5QwQ7uztaEcMD"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "Tutto Bene",
+      "url": "https://open.spotify.com/track/7iOadzb2kNGSR0vuZk1DD9"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -187,30 +211,6 @@
       "duration_ms": 252865,
       "name": "TRAPPER'S LULLABY",
       "url": "https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
-        "name": "CC&MO",
-        "url": "https://open.spotify.com/album/6piWSXJfxNDZLP13xDzUge"
-      },
-      "artists": [
-        {
-          "name": "Aymo",
-          "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
-        },
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        },
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
-        }
-      ],
-      "duration_ms": 155083,
-      "name": "CC&MO",
-      "url": "https://open.spotify.com/track/2jTMp5LqbcxgVYQEc7WU7l"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "WHINE (BADALADA)",
-        "url": "https://open.spotify.com/album/4uCbquIf4oONYWRDq1RVuF"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        }
-      ],
-      "duration_ms": 129749,
-      "name": "WHINE (BADALADA)",
-      "url": "https://open.spotify.com/track/7fjov4E4FQSn92fqndntfa"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
         "name": "Antalya",
         "url": "https://open.spotify.com/album/5O8n71paupWwPEPVJvaAiz"
       },
@@ -291,6 +275,22 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
+        "name": "WHINE (BADALADA)",
+        "url": "https://open.spotify.com/album/4uCbquIf4oONYWRDq1RVuF"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "duration_ms": 129749,
+      "name": "WHINE (BADALADA)",
+      "url": "https://open.spotify.com/track/7fjov4E4FQSn92fqndntfa"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
         "name": "GET LOW",
         "url": "https://open.spotify.com/album/3IJ5WPkhv8yeIrzsX04LbP"
       },
@@ -307,22 +307,6 @@
       "duration_ms": 150500,
       "name": "GET LOW",
       "url": "https://open.spotify.com/track/6qP4Fs2q3PGCxuobxeOdXt"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
-        "name": "CUT",
-        "url": "https://open.spotify.com/album/39wN3wYWAh5oxIsoqBauPe"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        }
-      ],
-      "duration_ms": 151399,
-      "name": "CUT",
-      "url": "https://open.spotify.com/track/1s5qFD7akbvD7Urf8iAwqY"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -363,6 +347,22 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
+        "name": "CUT",
+        "url": "https://open.spotify.com/album/39wN3wYWAh5oxIsoqBauPe"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "duration_ms": 151399,
+      "name": "CUT",
+      "url": "https://open.spotify.com/track/1s5qFD7akbvD7Urf8iAwqY"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
         "name": "Sexy Lady",
         "url": "https://open.spotify.com/album/7tFiRReJyATOnuKryi1jFn"
       },
@@ -399,42 +399,18 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "DON'T JUDGE",
-        "url": "https://open.spotify.com/album/5PJDbdQeBpwnDo9azB3lub"
-      },
-      "artists": [
-        {
-          "name": "BILLA JOE",
-          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
-        },
-        {
-          "name": "Shindy",
-          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
-        }
-      ],
-      "duration_ms": 108386,
-      "name": "DON'T JUDGE",
-      "url": "https://open.spotify.com/track/7esMLn3RT1WawDY4Wom7QN"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/60XndUjPqFimUaGzaKmlgS"
+        "name": "Simpel",
+        "url": "https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL"
       },
       "artists": [
         {
           "name": "Dardan",
           "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Jamin",
-          "url": "https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9"
         }
       ],
-      "duration_ms": 184453,
-      "name": "Highlight",
-      "url": "https://open.spotify.com/track/1ivw4hEEh8sUHcqjmuYnZ6"
+      "duration_ms": 163306,
+      "name": "Simpel",
+      "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -455,22 +431,22 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "BORN SPINNER",
-        "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8"
+        "name": "DON'T JUDGE",
+        "url": "https://open.spotify.com/album/5PJDbdQeBpwnDo9azB3lub"
       },
       "artists": [
         {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
         },
         {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
         }
       ],
-      "duration_ms": 183788,
-      "name": "BORN SPINNER",
-      "url": "https://open.spotify.com/track/3yAc2aiDRHPDusNQgJ1YQE"
+      "duration_ms": 108386,
+      "name": "DON'T JUDGE",
+      "url": "https://open.spotify.com/track/7esMLn3RT1WawDY4Wom7QN"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -495,6 +471,46 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
+        "name": "BORN SPINNER",
+        "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 183788,
+      "name": "BORN SPINNER",
+      "url": "https://open.spotify.com/track/3yAc2aiDRHPDusNQgJ1YQE"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/60XndUjPqFimUaGzaKmlgS"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Jamin",
+          "url": "https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/1ivw4hEEh8sUHcqjmuYnZ6"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
         "name": "OnTouRage - EP",
         "url": "https://open.spotify.com/album/4aYXzIUkoPjX7bY07Bk2xL"
       },
@@ -511,38 +527,6 @@
       "duration_ms": 182521,
       "name": "Aye",
       "url": "https://open.spotify.com/track/6DbfhN2HIColQgffTlInqh"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
-        "name": "Simpel",
-        "url": "https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "Simpel",
-      "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
-        "name": "Morgen",
-        "url": "https://open.spotify.com/album/2BUNxpK33SP0ctBYz1qlHp"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        }
-      ],
-      "duration_ms": 190258,
-      "name": "Morgen",
-      "url": "https://open.spotify.com/track/4YHB7lnoeFEHWtL0KtSklh"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -583,6 +567,22 @@
       "duration_ms": 164937,
       "name": "Alors (feat. CAPO)",
       "url": "https://open.spotify.com/track/0zBOXwDbCEM0Wbx3rqVdQb"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "Morgen",
+        "url": "https://open.spotify.com/album/2BUNxpK33SP0ctBYz1qlHp"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "duration_ms": 190258,
+      "name": "Morgen",
+      "url": "https://open.spotify.com/track/4YHB7lnoeFEHWtL0KtSklh"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -683,22 +683,18 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "Bei dir",
-        "url": "https://open.spotify.com/album/4bD5KUrBZ3baC2qzxwFUqk"
+        "name": "21 Gramm",
+        "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
       },
       "artists": [
         {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
         }
       ],
-      "duration_ms": 158480,
-      "name": "Bei dir",
-      "url": "https://open.spotify.com/track/7MLMhnzLCxXCsoWeKUZns7"
+      "duration_ms": 169872,
+      "name": "7er",
+      "url": "https://open.spotify.com/track/4z19vywjpPdfmcX6Ks5j3b"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -719,18 +715,22 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "21 Gramm",
-        "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
+        "name": "Bei dir",
+        "url": "https://open.spotify.com/album/4bD5KUrBZ3baC2qzxwFUqk"
       },
       "artists": [
         {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
         }
       ],
-      "duration_ms": 169872,
-      "name": "7er",
-      "url": "https://open.spotify.com/track/4z19vywjpPdfmcX6Ks5j3b"
+      "duration_ms": 158480,
+      "name": "Bei dir",
+      "url": "https://open.spotify.com/track/7MLMhnzLCxXCsoWeKUZns7"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -747,26 +747,6 @@
       "duration_ms": 194663,
       "name": "Wir sind Stars",
       "url": "https://open.spotify.com/track/4cTEuDTBN5rE5D88y0mQHl"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
-        "name": "BORN SPINNER",
-        "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8"
-      },
-      "artists": [
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        },
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        }
-      ],
-      "duration_ms": 163819,
-      "name": "REWIND",
-      "url": "https://open.spotify.com/track/1nmwQg2NjcDYc7zGuROpzN"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -791,22 +771,6 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "Yummy",
-        "url": "https://open.spotify.com/album/1Bzce6pArJYiAJJBuMVDMf"
-      },
-      "artists": [
-        {
-          "name": "Monet192",
-          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
-        }
-      ],
-      "duration_ms": 153490,
-      "name": "Yummy",
-      "url": "https://open.spotify.com/track/0soA9FP4NzRbIwwEvo5Vy6"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
         "name": "Ma Baby",
         "url": "https://open.spotify.com/album/4iflwnxuZ3RUUsnR2q0XzA"
       },
@@ -823,18 +787,38 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "Vertrau mir",
-        "url": "https://open.spotify.com/album/0kX8i13etX12YRogC6dPPh"
+        "name": "Yummy",
+        "url": "https://open.spotify.com/album/1Bzce6pArJYiAJJBuMVDMf"
       },
       "artists": [
         {
-          "name": "CANEY030",
-          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
         }
       ],
-      "duration_ms": 154160,
-      "name": "Vertrau mir",
-      "url": "https://open.spotify.com/track/0ZS1PzrTDsIVsDM0DKkYSa"
+      "duration_ms": 153490,
+      "name": "Yummy",
+      "url": "https://open.spotify.com/track/0soA9FP4NzRbIwwEvo5Vy6"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "BORN SPINNER",
+        "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        },
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        }
+      ],
+      "duration_ms": 163819,
+      "name": "REWIND",
+      "url": "https://open.spotify.com/track/1nmwQg2NjcDYc7zGuROpzN"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -851,6 +835,22 @@
       "duration_ms": 131163,
       "name": "Brazil Funk Freestyle \ud83c\udde7\ud83c\uddf7",
       "url": "https://open.spotify.com/track/1D0kYwRjSpYq7s7iieS8Oi"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "Vertrau mir",
+        "url": "https://open.spotify.com/album/0kX8i13etX12YRogC6dPPh"
+      },
+      "artists": [
+        {
+          "name": "CANEY030",
+          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
+        }
+      ],
+      "duration_ms": 154160,
+      "name": "Vertrau mir",
+      "url": "https://open.spotify.com/track/0ZS1PzrTDsIVsDM0DKkYSa"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -891,6 +891,38 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
+        "name": "Wie beim ersten Mal",
+        "url": "https://open.spotify.com/album/3lHE9xS4KWC3UnZFoVN9KE"
+      },
+      "artists": [
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "Wie beim ersten Mal",
+      "url": "https://open.spotify.com/track/4jhQOtHfWQq6GYkhvsAkOq"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "GOVA",
+        "url": "https://open.spotify.com/album/4yeuPlDecjfycHYXWlfk6v"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "duration_ms": 180062,
+      "name": "Juana auf Snapchat",
+      "url": "https://open.spotify.com/track/0IWHAYlVJISbDL5Wx1aXXU"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
         "name": "Late Night",
         "url": "https://open.spotify.com/album/66LP7glcrs50BYphCws0Jv"
       },
@@ -915,78 +947,6 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "SSJ",
-        "url": "https://open.spotify.com/album/64i90MATD7eZu6yTlkVOHS"
-      },
-      "artists": [
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
-        },
-        {
-          "name": "Haaland936",
-          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
-        }
-      ],
-      "duration_ms": 159544,
-      "name": "Serie A",
-      "url": "https://open.spotify.com/track/4GJd3kcSBnLqrXCtuEOEPH"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
-        "name": "GOVA",
-        "url": "https://open.spotify.com/album/4yeuPlDecjfycHYXWlfk6v"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vandamme",
-          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "Juana auf Snapchat",
-      "url": "https://open.spotify.com/track/0IWHAYlVJISbDL5Wx1aXXU"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
-        "name": "Wie beim ersten Mal",
-        "url": "https://open.spotify.com/album/3lHE9xS4KWC3UnZFoVN9KE"
-      },
-      "artists": [
-        {
-          "name": "Nimo",
-          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Wie beim ersten Mal",
-      "url": "https://open.spotify.com/track/4jhQOtHfWQq6GYkhvsAkOq"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
-        "name": "Anders",
-        "url": "https://open.spotify.com/album/0HcMkzOeigNRkImyrVDBgj"
-      },
-      "artists": [
-        {
-          "name": "Olexesh",
-          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
-        },
-        {
-          "name": "Edin",
-          "url": "https://open.spotify.com/artist/7jkdo74SDT1PYu6Ksbusxa"
-        }
-      ],
-      "duration_ms": 204266,
-      "name": "Anders",
-      "url": "https://open.spotify.com/track/6SfK9quduDlFWTYgbJ3gkv"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
         "name": "GUNSHOT",
         "url": "https://open.spotify.com/album/2oO4oJUUP9wHa1wv9CbW7Q"
       },
@@ -1007,26 +967,42 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "Padapapa",
-        "url": "https://open.spotify.com/album/7Mh88g2XzZNw96kzd748nl"
+        "name": "SSJ",
+        "url": "https://open.spotify.com/album/64i90MATD7eZu6yTlkVOHS"
       },
       "artists": [
         {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        },
+        {
           "name": "Haaland936",
           "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
-        },
-        {
-          "name": "Safraoui",
-          "url": "https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX"
-        },
-        {
-          "name": "HoodBlaq",
-          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
         }
       ],
-      "duration_ms": 178018,
-      "name": "Padapapa",
-      "url": "https://open.spotify.com/track/76tcXNRe8JRHYsYg8zmMff"
+      "duration_ms": 159544,
+      "name": "Serie A",
+      "url": "https://open.spotify.com/track/4GJd3kcSBnLqrXCtuEOEPH"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "Anders",
+        "url": "https://open.spotify.com/album/0HcMkzOeigNRkImyrVDBgj"
+      },
+      "artists": [
+        {
+          "name": "Olexesh",
+          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+        },
+        {
+          "name": "Edin",
+          "url": "https://open.spotify.com/artist/7jkdo74SDT1PYu6Ksbusxa"
+        }
+      ],
+      "duration_ms": 204266,
+      "name": "Anders",
+      "url": "https://open.spotify.com/track/6SfK9quduDlFWTYgbJ3gkv"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -1063,6 +1039,30 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
+        "name": "Padapapa",
+        "url": "https://open.spotify.com/album/7Mh88g2XzZNw96kzd748nl"
+      },
+      "artists": [
+        {
+          "name": "Haaland936",
+          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
+        },
+        {
+          "name": "Safraoui",
+          "url": "https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX"
+        },
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        }
+      ],
+      "duration_ms": 178018,
+      "name": "Padapapa",
+      "url": "https://open.spotify.com/track/76tcXNRe8JRHYsYg8zmMff"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
         "name": "Eintausend Farben",
         "url": "https://open.spotify.com/album/2wmJrZ5RWw969i9SifZNpJ"
       },
@@ -1075,46 +1075,6 @@
       "duration_ms": 156836,
       "name": "Eintausend Farben",
       "url": "https://open.spotify.com/track/2ExSVDSeDoHUUW0iyGEEpx"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
-        "name": "Der Faktor Mensch",
-        "url": "https://open.spotify.com/album/7z9baz3rVNE3TsUCPzOYD1"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        },
-        {
-          "name": "Nucci",
-          "url": "https://open.spotify.com/artist/3YNm5MBjwq1QDeKQJq7wze"
-        },
-        {
-          "name": "Voyage",
-          "url": "https://open.spotify.com/artist/7aASXckUdNXJ5X338n8C1D"
-        }
-      ],
-      "duration_ms": 127084,
-      "name": "Jebiga",
-      "url": "https://open.spotify.com/track/30tl9xkDBGoo8xlzsaRnA8"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
-        "name": "SOMMERNACHT 2",
-        "url": "https://open.spotify.com/album/2kAEj9QhAEz3x4ndm3DaH4"
-      },
-      "artists": [
-        {
-          "name": "OMAR",
-          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
-        }
-      ],
-      "duration_ms": 166018,
-      "name": "SOMMERNACHT 2",
-      "url": "https://open.spotify.com/track/3vlaxBPQggwXUS6TqkBHok"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -1151,6 +1111,46 @@
       "duration_ms": 135000,
       "name": "ex und so",
       "url": "https://open.spotify.com/track/2qGCbovPihUJFbaRlGsFLL"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "SOMMERNACHT 2",
+        "url": "https://open.spotify.com/album/2kAEj9QhAEz3x4ndm3DaH4"
+      },
+      "artists": [
+        {
+          "name": "OMAR",
+          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
+        }
+      ],
+      "duration_ms": 166018,
+      "name": "SOMMERNACHT 2",
+      "url": "https://open.spotify.com/track/3vlaxBPQggwXUS6TqkBHok"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "Der Faktor Mensch",
+        "url": "https://open.spotify.com/album/7z9baz3rVNE3TsUCPzOYD1"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "Nucci",
+          "url": "https://open.spotify.com/artist/3YNm5MBjwq1QDeKQJq7wze"
+        },
+        {
+          "name": "Voyage",
+          "url": "https://open.spotify.com/artist/7aASXckUdNXJ5X338n8C1D"
+        }
+      ],
+      "duration_ms": 127084,
+      "name": "Jebiga",
+      "url": "https://open.spotify.com/track/30tl9xkDBGoo8xlzsaRnA8"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "DR\u00dcCK",
-        "url": "https://open.spotify.com/album/31BNLxCRX0yXo90fgSgWa4"
-      },
-      "artists": [
-        {
-          "name": "Eno",
-          "url": "https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF"
-        }
-      ],
-      "duration_ms": 134315,
-      "name": "DR\u00dcCK",
-      "url": "https://open.spotify.com/track/1uuoGSlD4EZaarIEekY9bF"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
         "name": "Zemer",
         "url": "https://open.spotify.com/album/1ycMDahcVTL9gMDQG6Sr2I"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 134788,
       "name": "Zemer",
       "url": "https://open.spotify.com/track/1RC4uLbhnXE6bZUVXlJKky"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "DR\u00dcCK",
+        "url": "https://open.spotify.com/album/31BNLxCRX0yXo90fgSgWa4"
+      },
+      "artists": [
+        {
+          "name": "Eno",
+          "url": "https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF"
+        }
+      ],
+      "duration_ms": 134315,
+      "name": "DR\u00dcCK",
+      "url": "https://open.spotify.com/track/1uuoGSlD4EZaarIEekY9bF"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "D\u00e9sir\u00e9 Dou\u00e9",
-        "url": "https://open.spotify.com/album/13FSGypMPQ4BtYty51CsfD"
-      },
-      "artists": [
-        {
-          "name": "Haaland936",
-          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
-        }
-      ],
-      "duration_ms": 149165,
-      "name": "D\u00e9sir\u00e9 Dou\u00e9",
-      "url": "https://open.spotify.com/track/0uPckhHiNfc6BXrpnFbUqR"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
         "name": "Pasaport",
         "url": "https://open.spotify.com/album/4eBfzWqgbbTiqHsU0CONlf"
       },
@@ -1379,22 +1363,18 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "LOVE & DRAMA",
-        "url": "https://open.spotify.com/album/3aY5JIZH3bG1I4GWsd24FR"
+        "name": "D\u00e9sir\u00e9 Dou\u00e9",
+        "url": "https://open.spotify.com/album/13FSGypMPQ4BtYty51CsfD"
       },
       "artists": [
         {
-          "name": "Loredana",
-          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
-        },
-        {
-          "name": "Jugglerz",
-          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+          "name": "Haaland936",
+          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
         }
       ],
-      "duration_ms": 150146,
-      "name": "LOVE & DRAMA",
-      "url": "https://open.spotify.com/track/2OUGGTZD98jnWBNQBupEeO"
+      "duration_ms": 149165,
+      "name": "D\u00e9sir\u00e9 Dou\u00e9",
+      "url": "https://open.spotify.com/track/0uPckhHiNfc6BXrpnFbUqR"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -1411,6 +1391,26 @@
       "duration_ms": 123529,
       "name": "Primetime",
       "url": "https://open.spotify.com/track/5TTd6963bC2bAFPuz4uGEm"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "LOVE & DRAMA",
+        "url": "https://open.spotify.com/album/3aY5JIZH3bG1I4GWsd24FR"
+      },
+      "artists": [
+        {
+          "name": "Loredana",
+          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
+        },
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        }
+      ],
+      "duration_ms": 150146,
+      "name": "LOVE & DRAMA",
+      "url": "https://open.spotify.com/track/2OUGGTZD98jnWBNQBupEeO"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -1439,22 +1439,18 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "Bounce!",
-        "url": "https://open.spotify.com/album/5jEgmAXeWvaaoLkPsyL7cr"
+        "name": "Reiche Tante",
+        "url": "https://open.spotify.com/album/4kv0vmcWdkLUpzKHnhQaYp"
       },
       "artists": [
         {
-          "name": "CARAMELLA",
-          "url": "https://open.spotify.com/artist/3bzLLgN7vDyZeokKXrCQAJ"
-        },
-        {
-          "name": "YDRA",
-          "url": "https://open.spotify.com/artist/6AEAVlgzkJWaHO9nOGA91T"
+          "name": "Katja Krasavice",
+          "url": "https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK"
         }
       ],
-      "duration_ms": 175160,
-      "name": "Bounce!",
-      "url": "https://open.spotify.com/track/1zq3gomMLg5foDJxK91NFQ"
+      "duration_ms": 147048,
+      "name": "Reiche Tante",
+      "url": "https://open.spotify.com/track/7jwsshE6KbiCyE786Zgro7"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -1475,18 +1471,22 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "Reiche Tante",
-        "url": "https://open.spotify.com/album/4kv0vmcWdkLUpzKHnhQaYp"
+        "name": "Bounce!",
+        "url": "https://open.spotify.com/album/5jEgmAXeWvaaoLkPsyL7cr"
       },
       "artists": [
         {
-          "name": "Katja Krasavice",
-          "url": "https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK"
+          "name": "CARAMELLA",
+          "url": "https://open.spotify.com/artist/3bzLLgN7vDyZeokKXrCQAJ"
+        },
+        {
+          "name": "YDRA",
+          "url": "https://open.spotify.com/artist/6AEAVlgzkJWaHO9nOGA91T"
         }
       ],
-      "duration_ms": 147048,
-      "name": "Reiche Tante",
-      "url": "https://open.spotify.com/track/7jwsshE6KbiCyE786Zgro7"
+      "duration_ms": 175160,
+      "name": "Bounce!",
+      "url": "https://open.spotify.com/track/1zq3gomMLg5foDJxK91NFQ"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
+        "name": "Late Night Call",
+        "url": "https://open.spotify.com/album/6PAVsTMJ6JxwvKt3v9YfRs"
+      },
+      "artists": [
+        {
+          "name": "Ardian Bujupi",
+          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
+        }
+      ],
+      "duration_ms": 138074,
+      "name": "Late Night Call",
+      "url": "https://open.spotify.com/track/452bmiY5DNuR5xazlQNdxh"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
         "name": "Ay Ay Ay",
         "url": "https://open.spotify.com/album/4NYJsOnxZuuLFEtAnl6NUB"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 124800,
       "name": "Ay Ay Ay",
       "url": "https://open.spotify.com/track/1fkl86FECSBykeUTbDJhwJ"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
-        "name": "Late Night Call",
-        "url": "https://open.spotify.com/album/6PAVsTMJ6JxwvKt3v9YfRs"
-      },
-      "artists": [
-        {
-          "name": "Ardian Bujupi",
-          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
-        }
-      ],
-      "duration_ms": 138074,
-      "name": "Late Night Call",
-      "url": "https://open.spotify.com/track/452bmiY5DNuR5xazlQNdxh"
     },
     {
       "added_at": "2025-08-28 22:00:07",

@@ -4,7 +4,7 @@
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Danae
 
-200 songs - 10 hr 19 min
+201 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Anarotiemai](https://open.spotify.com/track/1GwcjAkB8zSlVk3WFLReNc) | [Billie Kark](https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc) | [Anarotiemai](https://open.spotify.com/album/5XkR0pjZElZ5u0AZxXkGf7) | 3:49 | 2024-11-07 | 2025-02-14 |
 | [ANASAINO KAI ZALIZOMAI](https://open.spotify.com/track/0Wl2xRQZH2c5GdYLJIGCaN) | [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [ANASAINO KAI ZALIZOMAI](https://open.spotify.com/album/2UgIdLydL04XUygE4rqF6j) | 2:38 | 2024-06-27 | 2024-07-27 |
 | [ANATOLI](https://open.spotify.com/track/1XaESunLfD5BmNNjSExrHq) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [ANATOLI](https://open.spotify.com/album/484j2WHPth2DvEu14aBcUX) | 2:57 | 2024-12-05 | 2025-04-25 |
-| [Ap' Ton Ourano](https://open.spotify.com/track/1QcHKq0Y7pue3WYWVmmIGS) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Ap' Ton Ourano](https://open.spotify.com/album/2BjaxMiv8oijoLmSLV6l6d) | 4:18 | 2025-02-20 |  |
+| [Ap' Ton Ourano](https://open.spotify.com/track/1QcHKq0Y7pue3WYWVmmIGS) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Ap' Ton Ourano](https://open.spotify.com/album/2BjaxMiv8oijoLmSLV6l6d) | 4:18 | 2025-02-20 | 2025-09-12 |
 | [Apistefto](https://open.spotify.com/track/5tR0XAJ9GBSujjlfpRLvdr) | [Katerina Stikoudi](https://open.spotify.com/artist/1Vt08HlFmHOFcUO4PCqP44), [Joanne](https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH) | [Apistefto](https://open.spotify.com/album/3AwPW3krXkhk9yNhDv9CC2) | 3:14 | 2025-05-08 |  |
 | [Apo To 1 Os To 100](https://open.spotify.com/track/0MqTIkt51D8HJhNRTYvANs) | [Michalis Hatzigiannis](https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A) | [Apo To 1 Os To 100](https://open.spotify.com/album/67RpKgF2mR9tKCtZqvJMBb) | 3:07 | 2024-06-27 | 2024-10-18 |
 | [APOTIPOMA](https://open.spotify.com/track/0SKdTC5SI6vLGcgi6DT25q) | [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [APOTIPOMA](https://open.spotify.com/album/7zDgNyZe9DPvhgyCOsqMfv) | 2:37 | 2025-05-22 |  |
@@ -191,6 +191,7 @@
 | [To Velos](https://open.spotify.com/track/6TFPOMN57JxaKdfkxwB4YQ) | [Nino Xypolitas](https://open.spotify.com/artist/1ATDcv6wTF2U42HPB4qEFz) | [To Velos](https://open.spotify.com/album/3BxWWqlUWJ0551CLIJBD2H) | 2:49 | 2025-01-30 | 2025-02-14 |
 | [Tourísta](https://open.spotify.com/track/2XTxnII8KE0wRoIqyf3nsx) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Peproméno](https://open.spotify.com/album/3rqiucHK1cixqLeXd7I6A2) | 2:57 | 2025-06-13 | 2025-08-01 |
 | [Trelane Mas](https://open.spotify.com/track/5CnaKQEtOPnY8jf1npotRQ) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [Trelane Mas](https://open.spotify.com/album/5q5Yc64p2GhKiM2deSXvBi) | 3:18 | 2025-06-19 |  |
+| [Truth or Dare](https://open.spotify.com/track/3tY0UN3X71k0xsU80x4ru4) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Truth or Dare](https://open.spotify.com/album/584E3gdT4NWJtIYwHX0iTH) | 2:16 | 2025-09-11 |  |
 | [Tsifteteli](https://open.spotify.com/track/5eMsUupeySNvfuC2eIuomA) | [Lydia](https://open.spotify.com/artist/2YTGRExtfqji1DoyvkPBeT), [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [ROPEX LATERIO](https://open.spotify.com/artist/2WpUXBjLm8j8tnrAZ4s9v9), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [Tsifteteli](https://open.spotify.com/album/2yMBmHCQC8PCisFXG22b5q) | 3:17 | 2024-07-25 | 2024-10-11 |
 | [TUCUTUM \- RMX](https://open.spotify.com/track/61Ga4RFrrsATHp0i7VRKcI) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Mikros Kleftis](https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9), [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa) | [P.O.P\. \(DELUXE\)](https://open.spotify.com/album/3pWsV5flnPCIJHpINpPQCd) | 2:44 | 2025-02-06 | 2025-04-25 |
 | [Update](https://open.spotify.com/track/4tUdB9Jbu5B5vmiof3evJY) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [Update](https://open.spotify.com/album/3sRSh3kVIcOfHPUA4Ysscu) | 2:48 | 2024-11-21 | 2025-03-21 |

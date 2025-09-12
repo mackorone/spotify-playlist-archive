@@ -1,6 +1,6 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 11519,
+  "num_followers": 11524,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Le D\u00e9lire Du Savant Fou",
+        "url": "https://open.spotify.com/album/4KSLEaEbTmkcVYabhLD3hR"
+      },
+      "artists": [
+        {
+          "name": "eXterio",
+          "url": "https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Savant Fou",
+      "url": "https://open.spotify.com/track/57qp0M59ruMNZKalIYwXA8"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Sans foi ni loi",
         "url": "https://open.spotify.com/album/3ZC0QWTlJ5DYbRrPVTiAwQ"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 238960,
       "name": "Le train",
       "url": "https://open.spotify.com/track/2p3O33eThnhhq1dMWlvR7M"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Le D\u00e9lire Du Savant Fou",
-        "url": "https://open.spotify.com/album/4KSLEaEbTmkcVYabhLD3hR"
-      },
-      "artists": [
-        {
-          "name": "eXterio",
-          "url": "https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Savant Fou",
-      "url": "https://open.spotify.com/track/57qp0M59ruMNZKalIYwXA8"
     },
     {
       "added_at": "2024-04-05 04:00:00",

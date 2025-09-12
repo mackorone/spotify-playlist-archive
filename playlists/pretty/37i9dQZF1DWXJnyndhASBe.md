@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 ### [RAP GENERACJA](https://open.spotify.com/playlist/37i9dQZF1DWXJnyndhASBe)
 
-> Największe rapowe kawałki w tej chwili\. Cover: Mata, Oki
+> Największe rapowe kawałki w tej chwili\. Cover: Bedoes 2115
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,697 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,790 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [sam na świecie](https://open.spotify.com/track/1qrKOwtEG7Zf74pD95vty3) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [sam na świecie](https://open.spotify.com/album/16WkrHyUv3U8QvZaFaA0AL) | 3:09 |
 | 50 | [W co ja się wjebałem \- Nowe Rozdanie \| S1](https://open.spotify.com/track/5LreD4p6buqBGNwV84YsZb) | [po prostu Kajtek](https://open.spotify.com/artist/2kk3YwIOrWbZHk9O3HKNY3), [Zippy Ogar](https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU), [Shelast](https://open.spotify.com/artist/7K7hYrJz4X6lkVPp8kWX7o), [matiorzel](https://open.spotify.com/artist/7k77M3ebwl8FbsAWbquOMN), [Nowe Rozdanie](https://open.spotify.com/artist/0M7n5Rct99GLcaEoD5wPt8) | [W co ja się wjebałem \- Nowe Rozdanie \| S1](https://open.spotify.com/album/6PnfYYqAiGUgPr1JV8zPQ8) | 3:06 |
 
-Snapshot ID: `AAAAANaoT85sOR9EYfIXzT+8m0z4Aa9i`
+Snapshot ID: `AAAAAHVt5mxwCfnvCtfGdc9WtzrrQnTi`

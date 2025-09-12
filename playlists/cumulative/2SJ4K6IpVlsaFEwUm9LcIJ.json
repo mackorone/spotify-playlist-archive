@@ -1429,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "wishful thinking",
+        "url": "https://open.spotify.com/album/7AzqzYUtZhGnQA2gnM6wXz"
+      },
+      "artists": [
+        {
+          "name": "Duval Timothy",
+          "url": "https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89205,
+      "name": "bloom",
+      "url": "https://open.spotify.com/track/23SyRsEwgBsFs5fnr2mffZ"
+    },
+    {
+      "album": {
         "name": "Explosions In the Glass Palace",
         "url": "https://open.spotify.com/album/7rOxe97IzTolDCSCXIdiSa"
       },

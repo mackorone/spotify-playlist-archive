@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2024.",
-  "num_followers": 3313,
+  "num_followers": 3314,
   "original_name": "BISE Festival 2024",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "De bois et de fum\u00e9e",
-        "url": "https://open.spotify.com/album/6nEyEPfSJkjaiIPZa0pDlj"
-      },
-      "artists": [
-        {
-          "name": "Joanne Radao",
-          "url": "https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "De bois et de fum\u00e9e",
-      "url": "https://open.spotify.com/track/4Aq2pTQXWpWMshDv0IAen8"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
         "name": "Nouveau Genre",
         "url": "https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 267293,
       "name": "Noise",
       "url": "https://open.spotify.com/track/59NAmzWhHHAkjBEvDD3vL5"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "De bois et de fum\u00e9e",
+        "url": "https://open.spotify.com/album/6nEyEPfSJkjaiIPZa0pDlj"
+      },
+      "artists": [
+        {
+          "name": "Joanne Radao",
+          "url": "https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "De bois et de fum\u00e9e",
+      "url": "https://open.spotify.com/track/4Aq2pTQXWpWMshDv0IAen8"
     },
     {
       "added_at": "2024-01-15 17:31:32",

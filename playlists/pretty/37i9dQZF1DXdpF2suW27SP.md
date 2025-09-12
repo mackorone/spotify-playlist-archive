@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Mizzy Miles, Teto & Ryu entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,843 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,856 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [Saudade](https://open.spotify.com/track/2YVtDpRtyFb7rzu0m7Dg6S) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Morais](https://open.spotify.com/artist/4cEw0eZ9duWo7tuxQ78Obu) | [Saudade](https://open.spotify.com/album/6P2otgLvoiizkovS14Oiaz) | 3:38 |
 | 70 | [MAGIA](https://open.spotify.com/track/0lQN7zckOfl2j0ror5i4lo) | [CBG Oficial](https://open.spotify.com/artist/3zJRDGbXRFrghnrvEpPyhi), [Wiz F](https://open.spotify.com/artist/5hzRTQXOs3cdROGIPGBSKt), [Abu Dhabii](https://open.spotify.com/artist/3xnls1th8xmJyZhnU5zCEj), [Lil Janne](https://open.spotify.com/artist/6VufL93AChGuSVXiu2natZ), [Kelson Most Wanted](https://open.spotify.com/artist/12GghNFuOPqpisGJPLH0Jn) | [TRAP NO AP II](https://open.spotify.com/album/2vK2hS9g9i7uor0pxzcOWK) | 4:43 |
 
-Snapshot ID: `AAAAAI/4c1+bkDpgmE3T/x41PWC/YgJz`
+Snapshot ID: `AAAAACrXHkOkPiP7qcp9l6Gv+Smbjdi+`

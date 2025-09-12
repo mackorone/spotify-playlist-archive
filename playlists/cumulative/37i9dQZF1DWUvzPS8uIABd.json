@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa costee ja BESS.",
+  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa Nelli Matula.",
   "name": "#vainsuomihitit",
   "tracks": [
     {
@@ -372,6 +372,24 @@
       "duration_ms": 154776,
       "name": "Ainiin Kulta",
       "url": "https://open.spotify.com/track/2mYsizhqWXBDtP8MqZBPue"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Karim B",
+          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Ainoo nainen",
+      "url": "https://open.spotify.com/track/44MDbctWdAEwsLWzMH5YLc"
     },
     {
       "album": {
@@ -909,6 +927,32 @@
     },
     {
       "album": {
+        "name": "Autiomaa (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+        "url": "https://open.spotify.com/album/7jLSDdDKjyVENj0chrbTh7"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brotherus",
+          "url": "https://open.spotify.com/artist/5lFVRyMzIDJHW9Oy9vZpYo"
+        },
+        {
+          "name": "Behm",
+          "url": "https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE"
+        },
+        {
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168385,
+      "name": "Autiomaa - Vain el\u00e4m\u00e4\u00e4 kausi 16",
+      "url": "https://open.spotify.com/track/2xMaGPMw5YroV8i32HAMX0"
+    },
+    {
+      "album": {
         "name": "Baby m\u00e4 oon back",
         "url": "https://open.spotify.com/album/1P4Sdf8YLSE2UPK9E5WpvM"
       },
@@ -999,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "BIMBO",
+        "url": "https://open.spotify.com/album/1C2gXcSkhQCQE0epXs4Uvu"
+      },
+      "artists": [
+        {
+          "name": "Vgr",
+          "url": "https://open.spotify.com/artist/4EJrHgRLh0VMC3aA7RkmH9"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188253,
+      "name": "BIMBO",
+      "url": "https://open.spotify.com/track/3wQlBmVJmrKAlsaeaMnHvu"
+    },
+    {
+      "album": {
         "name": "BMW",
         "url": "https://open.spotify.com/album/2LhZbv4JOmaFrVKyf7nXh3"
       },
@@ -1068,6 +1130,24 @@
       "duration_ms": 177804,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/0qMV9XmjaGbS9Zt7s7gSrF"
+    },
+    {
+      "album": {
+        "name": "Cha Cha Cha (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+        "url": "https://open.spotify.com/album/1mFccI2UEmvLauPalTE52j"
+      },
+      "artists": [
+        {
+          "name": "Pelle Miljoona",
+          "url": "https://open.spotify.com/artist/7Gi708Ix6cns0SGJiZ4tvo"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256008,
+      "name": "Cha Cha Cha (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+      "url": "https://open.spotify.com/track/7AJ3STqR7GkieahvF9dMHN"
     },
     {
       "album": {
@@ -1944,6 +2024,24 @@
       "duration_ms": 189080,
       "name": "Ennen kun s\u00e4 meet",
       "url": "https://open.spotify.com/track/2MKR7OmHQ2NoqhFbl4tdmZ"
+    },
+    {
+      "album": {
+        "name": "Enola Gay",
+        "url": "https://open.spotify.com/album/6crcPY9XaTewuqBwaoeSVU"
+      },
+      "artists": [
+        {
+          "name": "Mira Luoti",
+          "url": "https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215280,
+      "name": "Enola Gay",
+      "url": "https://open.spotify.com/track/1mR4aI9Np7l7RUis9CPJD4"
     },
     {
       "album": {
@@ -2844,7 +2942,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 170378,
       "name": "Idoli",
       "url": "https://open.spotify.com/track/2aozJ3HXMGekOMBowejNFV"
@@ -3044,7 +3142,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 206106,
       "name": "Ikuinen el\u00e4m\u00e4",
       "url": "https://open.spotify.com/track/2GaMylDgbCiHCKoEsXgQqp"
@@ -4737,6 +4835,24 @@
     },
     {
       "album": {
+        "name": "Kot Kot (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+        "url": "https://open.spotify.com/album/6293uefuEtz0lyBmgUmixR"
+      },
+      "artists": [
+        {
+          "name": "Vesta",
+          "url": "https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178241,
+      "name": "Kot Kot (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+      "url": "https://open.spotify.com/track/3QC3wW3gO1KyYvmnPQgfMK"
+    },
+    {
+      "album": {
         "name": "Koti-isk\u00e4",
         "url": "https://open.spotify.com/album/6JmmJJpNsUPPGn0MzGAqfc"
       },
@@ -4926,6 +5042,24 @@
       "duration_ms": 211687,
       "name": "Kukapa ei",
       "url": "https://open.spotify.com/track/4KMULSjeSrEfJ7GHWtmHau"
+    },
+    {
+      "album": {
+        "name": "Kukat kasvaa raunioon",
+        "url": "https://open.spotify.com/album/4MHQoThtc08gLgPr9IHLdj"
+      },
+      "artists": [
+        {
+          "name": "Suvi Ter\u00e4sniska",
+          "url": "https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184697,
+      "name": "Kukat kasvaa raunioon",
+      "url": "https://open.spotify.com/track/1ZxPMUJfqmazxzqxlNsAdK"
     },
     {
       "album": {
@@ -6443,6 +6577,24 @@
     },
     {
       "album": {
+        "name": "Mic Mac (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+        "url": "https://open.spotify.com/album/41HCCPuDAWtN4FktqvkxRC"
+      },
+      "artists": [
+        {
+          "name": "Jonna Tervomaa",
+          "url": "https://open.spotify.com/artist/2oyp9901wXE4E3MLXlwznV"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191610,
+      "name": "Mic Mac - Vain el\u00e4m\u00e4\u00e4 kausi 16",
+      "url": "https://open.spotify.com/track/15b1HQLOpR0B2tjvJ5Fd2h"
+    },
+    {
+      "album": {
         "name": "Miehet (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
         "url": "https://open.spotify.com/album/67hO83RxEMDaEnEkWDhzL4"
       },
@@ -6621,6 +6773,24 @@
     },
     {
       "album": {
+        "name": "Min\u00e4 olen muistanut",
+        "url": "https://open.spotify.com/album/41l3t2kt1tUblghN8jweGN"
+      },
+      "artists": [
+        {
+          "name": "90's FIN Cover Boyz & Girlz!",
+          "url": "https://open.spotify.com/artist/1Zr5kGpWfxy6auQn5bTpmG"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141770,
+      "name": "Min\u00e4 olen muistanut",
+      "url": "https://open.spotify.com/track/3zQoHH71fUAEFqHCV1Jz4x"
+    },
+    {
+      "album": {
         "name": "Miss\u00e4 oot (feat. LAVAREDO)",
         "url": "https://open.spotify.com/album/5TedU6Xs4THsTxrdcInWKH"
       },
@@ -6792,6 +6962,28 @@
       "duration_ms": 161633,
       "name": "Mit\u00e4 ollaan?",
       "url": "https://open.spotify.com/track/0wpVMzXfRDofeqxfyGC8pU"
+    },
+    {
+      "album": {
+        "name": "Mit\u00e4 On Rakkaus?",
+        "url": "https://open.spotify.com/album/29X0ieFbhl43iQWeSqOmdF"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        },
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151547,
+      "name": "Mit\u00e4 On Rakkaus?",
+      "url": "https://open.spotify.com/track/67kzN4IHVGvYJFeqVcxlIV"
     },
     {
       "album": {
@@ -7046,7 +7238,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 158042,
       "name": "Mun Maailma",
       "url": "https://open.spotify.com/track/2hernaaZjnzjbXiHA9PzP8"
@@ -7746,7 +7938,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 159224,
       "name": "Nuori Mut Ei Tyhm\u00e4",
       "url": "https://open.spotify.com/track/2OVePVQs93HnTZ1Z52WTph"
@@ -7995,6 +8187,24 @@
     },
     {
       "album": {
+        "name": "Onnellisii osumii",
+        "url": "https://open.spotify.com/album/6BfZZHzNmIKtxjyC8unB05"
+      },
+      "artists": [
+        {
+          "name": "Aurora",
+          "url": "https://open.spotify.com/artist/6B7tHfJGL5rnIxNQLN8Hp0"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156826,
+      "name": "Onnellisii osumii",
+      "url": "https://open.spotify.com/track/6rPIEhlRmhsSr9yTQSmWr5"
+    },
+    {
+      "album": {
         "name": "Ota Must Kii",
         "url": "https://open.spotify.com/album/5lbebKsgpumzkHvSKAvhDB"
       },
@@ -8102,6 +8312,28 @@
       "duration_ms": 124381,
       "name": "Oulunkyl\u00e4st ikuisuuteen (feat. VilleGalle) - Gnistan Remix",
       "url": "https://open.spotify.com/track/5CaQCCTayPEW74Ap3ChQYz"
+    },
+    {
+      "album": {
+        "name": "Outoja unia (feat. Kumma Jos\u00e9)",
+        "url": "https://open.spotify.com/album/0QjEnxzRAaKmHJT0y9aQ7a"
+      },
+      "artists": [
+        {
+          "name": "Keko Salata",
+          "url": "https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN"
+        },
+        {
+          "name": "Kumma Jos\u00e9",
+          "url": "https://open.spotify.com/artist/3xdVNHKbThYuZSQ2sXV3iR"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158040,
+      "name": "Outoja unia (feat. Kumma Jos\u00e9)",
+      "url": "https://open.spotify.com/track/7Jj5JuuZAog8yd4F33h9Wq"
     },
     {
       "album": {
@@ -8334,7 +8566,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 195029,
       "name": "Paperihaavoja",
       "url": "https://open.spotify.com/track/7GdqPP7jriHMeDlXIMpZ7l"
@@ -8435,6 +8667,24 @@
     },
     {
       "album": {
+        "name": "Parempi mies",
+        "url": "https://open.spotify.com/album/0PC2XvK07EEMfGS08PAc5a"
+      },
+      "artists": [
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177928,
+      "name": "Parempi mies",
+      "url": "https://open.spotify.com/track/7cHnbBoghcPqFQ1rcCUort"
+    },
+    {
+      "album": {
         "name": "Pari Bissee",
         "url": "https://open.spotify.com/album/17Ym7LqgrSslGK3nsUmgT2"
       },
@@ -8516,6 +8766,24 @@
       "duration_ms": 175262,
       "name": "Pellava",
       "url": "https://open.spotify.com/track/3FJzwZBjFSzIeh13pnFRuS"
+    },
+    {
+      "album": {
+        "name": "People's Champion (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+        "url": "https://open.spotify.com/album/1PX5TebdCi5gxFTAD2CREo"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199479,
+      "name": "People's Champion (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+      "url": "https://open.spotify.com/track/4peIoWqdK1Q4Zy6wVAKWFI"
     },
     {
       "album": {
@@ -8878,6 +9146,24 @@
       "duration_ms": 130893,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/1WL8TO2hnusM1mPdxZ0Cwx"
+    },
+    {
+      "album": {
+        "name": "Punainen Marli (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+        "url": "https://open.spotify.com/album/64rZ2TZgPMG43Lm01KMpub"
+      },
+      "artists": [
+        {
+          "name": "Mikki Kauste",
+          "url": "https://open.spotify.com/artist/6Zvt6lXGUh6xVlTAl1ezwo"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145524,
+      "name": "Punainen Marli (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+      "url": "https://open.spotify.com/track/4IYRNhuixor1eqpjGxY3u9"
     },
     {
       "album": {
@@ -9476,6 +9762,24 @@
       "duration_ms": 186920,
       "name": "Routainen maa",
       "url": "https://open.spotify.com/track/3SidUdwAvzsZu5rHoYzSap"
+    },
+    {
+      "album": {
+        "name": "Ruoska (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+        "url": "https://open.spotify.com/album/0uIqtBXQSzMs2ahB8FgE93"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197180,
+      "name": "Ruoska (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+      "url": "https://open.spotify.com/track/4s1JOf5J7EjssyG8quH0Cn"
     },
     {
       "album": {
@@ -12685,6 +12989,24 @@
     },
     {
       "album": {
+        "name": "Viimeinen kes\u00e4p\u00e4iv\u00e4",
+        "url": "https://open.spotify.com/album/7BTr771WcV4HGD2T6DyXD0"
+      },
+      "artists": [
+        {
+          "name": "Klamydia",
+          "url": "https://open.spotify.com/artist/2BFdLtG6ivaiRqPFTgV1in"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178385,
+      "name": "Viimeinen kes\u00e4p\u00e4iv\u00e4",
+      "url": "https://open.spotify.com/track/3CIENWj83tRZKJGw5inY65"
+    },
+    {
+      "album": {
         "name": "Viimeinen kuulutus",
         "url": "https://open.spotify.com/album/1PoLEGcjRHGA3hcNBpJEQz"
       },
@@ -13266,6 +13588,24 @@
       "duration_ms": 178590,
       "name": "Y\u00f6n selk\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/4uGuic7I5mYTwKFA9vf7XX"
+    },
+    {
+      "album": {
+        "name": "Y\u00f6pakkasii",
+        "url": "https://open.spotify.com/album/1sW7InFGvltXITXenNLk1L"
+      },
+      "artists": [
+        {
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180707,
+      "name": "Y\u00f6pakkasii",
+      "url": "https://open.spotify.com/track/5PwkPXZpfb7yXlfx5f4lsI"
     },
     {
       "album": {

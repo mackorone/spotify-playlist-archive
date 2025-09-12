@@ -2,7 +2,7 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Rema
+> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: DJ Malvado x Doddy
 
 832 songs - 1 day 16 hr 40 min
 

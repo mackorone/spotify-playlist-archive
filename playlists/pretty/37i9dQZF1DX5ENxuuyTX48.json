@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW!. Cover: TADI, Kafin Sulthan",
-  "num_followers": 26478,
+  "num_followers": 26480,
   "original_name": "OTW",
   "owner": {
     "name": "Spotify",
@@ -827,26 +827,6 @@
     {
       "added_at": "2025-09-05 06:40:51",
       "album": {
-        "name": "Seni Berdamai Dengan Takdir",
-        "url": "https://open.spotify.com/album/6I7hDjHmpbJUMbKHW7iC1y"
-      },
-      "artists": [
-        {
-          "name": "Naim Daniel",
-          "url": "https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO"
-        },
-        {
-          "name": "Adnin Roslan",
-          "url": "https://open.spotify.com/artist/6I25GBSpfW8w8czYCmUFcg"
-        }
-      ],
-      "duration_ms": 235890,
-      "name": "Seni Berdamai Dengan Takdir",
-      "url": "https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt"
-    },
-    {
-      "added_at": "2025-09-05 06:40:51",
-      "album": {
         "name": "Jalan Terbaik",
         "url": "https://open.spotify.com/album/2WrbuH0yPWAAc2oQ59J9Et"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 285071,
       "name": "Satu-Satu",
       "url": "https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG"
+    },
+    {
+      "added_at": "2025-09-05 06:40:51",
+      "album": {
+        "name": "Percuma",
+        "url": "https://open.spotify.com/album/1enR50jqoFl1yz75axX2sF"
+      },
+      "artists": [
+        {
+          "name": "Anggis Devaki",
+          "url": "https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf"
+        },
+        {
+          "name": "Betrand Putra Onsu",
+          "url": "https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c"
+        }
+      ],
+      "duration_ms": 247265,
+      "name": "Percuma",
+      "url": "https://open.spotify.com/track/06WUx317ZgnzlEfiWPvcFm"
     }
   ],
   "unique_name": "OTW",

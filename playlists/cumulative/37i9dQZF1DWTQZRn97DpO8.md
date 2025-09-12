@@ -2,9 +2,9 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> 🍯🍯🍯\. Photo : Jäde
+> 🍯🍯🍯\. Photo : Iris Aeria
 
-418 songs - 20 hr 31 min
+421 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [American Lover](https://open.spotify.com/track/5rPQtmG7DPQa3lRYAPc6B9) | [Aszul](https://open.spotify.com/artist/2IQSsvzilwzPzSDybnqAII) | [American Lover](https://open.spotify.com/album/3rmvnJO1F6ehtVPFoFTI6k) | 1:51 | 2024-02-08 | 2024-03-08 |
 | [Ancré](https://open.spotify.com/track/3zsdwhLlgpvYRDCQ5T8XTy) | [Wissam](https://open.spotify.com/artist/0rbipU0Ct85sBwdhhnpbUJ) | [Et puis demain, tout ira mieux.](https://open.spotify.com/album/6UjRPp94c5NtDCf2oPHiHz) | 3:09 | 2024-10-24 | 2024-12-20 |
 | [Anomalie](https://open.spotify.com/track/0S6FEI3T21lJ49ivaBajmQ) | [CLEH](https://open.spotify.com/artist/0VtW9WsnOqGIUlFg3qktnC), [Anagramms](https://open.spotify.com/artist/34qei9EEgV4Pvtv1HNGtFL) | [ZIKTOBER 2024](https://open.spotify.com/album/2mHedwb4ZSCs02Jw4fRo2h) | 3:34 | 2024-11-07 | 2024-12-06 |
-| [another sky](https://open.spotify.com/track/1lNSh7ZTUV5DqRHSislJvM) | [HASNA](https://open.spotify.com/artist/30ZYb42MwDzkubaZm2GEoq) | [another sky](https://open.spotify.com/album/1ZsB08CFJIAawN2jtAKgqK) | 2:14 | 2025-07-03 |  |
+| [another sky](https://open.spotify.com/track/1lNSh7ZTUV5DqRHSislJvM) | [HASNA](https://open.spotify.com/artist/30ZYb42MwDzkubaZm2GEoq) | [another sky](https://open.spotify.com/album/1ZsB08CFJIAawN2jtAKgqK) | 2:14 | 2025-07-03 | 2025-09-12 |
 | [Anémone](https://open.spotify.com/track/67sUBaW1oE1xD19STSAXgE) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Galatée](https://open.spotify.com/album/0fYC25oqs9YmPIa3V09feB) | 3:49 | 2023-09-28 | 2023-11-24 |
 | [Après](https://open.spotify.com/track/30X4degBCDUzKHUXK4HF0h) | [Mee Shel](https://open.spotify.com/artist/0fYdXlJTAY0baUS0YoHfTH) | [Le Temps Qui Passe](https://open.spotify.com/album/5UuCnoVtFkjjk5VhK1GuhH) | 1:30 | 2025-02-27 | 2025-04-04 |
 | [après l'été](https://open.spotify.com/track/6Dh3l2G4elvQTIQHM9VfCK) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1) | [On verra après l'été](https://open.spotify.com/album/1M9IXFB282zyzdhp0CSSm7) | 3:54 | 2024-08-15 | 2024-09-20 |
@@ -81,6 +81,7 @@
 | [Conséquences \(feat\. Tuerie\)](https://open.spotify.com/track/0TQzpIYyBIhnBjbyq5yEdf) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [Tuerie](https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a) | [Conséquences \(feat\. Tuerie\)](https://open.spotify.com/album/03VtAtXTEuKUysbNav4Yuh) | 2:41 | 2024-01-25 | 2024-11-08 |
 | [Contresens](https://open.spotify.com/track/30VhZNP5duxROC70ugow1w) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Contresens](https://open.spotify.com/album/2Z9Yj4fLaNRaWNGzzc94FY) | 2:51 | 2023-09-28 | 2023-11-10 |
 | [Coração](https://open.spotify.com/track/0m5xiqgNCuLFQsq52Bey9V) | [Soless](https://open.spotify.com/artist/5B0bNvzDNblvSEp9T0s20L) | [Soleil de Minuit](https://open.spotify.com/album/1iobpPQiqPlHgIQrIzuBVk) | 2:21 | 2025-06-19 | 2025-08-22 |
+| [CORPS A CORPS PIANO \- Acoustique](https://open.spotify.com/track/0ZmW26H9HdfEx16iMDMIB6) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6), [Toulou](https://open.spotify.com/artist/0X7QlcVMGgyXyNJ6IGaZWG) | [PIANO AT HOME \(ACOUSTIQUE\)](https://open.spotify.com/album/6Qqa4iQJdR7MlrdJxcGTr9) | 4:36 | 2025-09-11 |  |
 | [Corps Accord](https://open.spotify.com/track/76Fx5ruanK52uVQVTYtVlM) | [Lamarre](https://open.spotify.com/artist/6IX0WXkIrQX6mLHzCDf5oB) | [Corps Accord](https://open.spotify.com/album/0u75F1YavDI1EmhTtbD4OC) | 3:20 | 2023-10-19 | 2024-02-02 |
 | [Corps à corps](https://open.spotify.com/track/4JihV9mvL6fagy6YNYsDU0) | [Gol.d](https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV) | [Corps à corps](https://open.spotify.com/album/6STnKIdCfuS0zl2ppUJmF2) | 2:50 | 2024-11-28 | 2025-01-31 |
 | [COULER NOS NAVIRES](https://open.spotify.com/track/4sDkPDRjuTHLVVGags51en) | [Bénédicte](https://open.spotify.com/artist/4dRyS2jQjd70QFlMGQ0KJT) | [COULER NOS NAVIRES](https://open.spotify.com/album/00zMGJVsIjgd74arpSkeVE) | 3:41 | 2025-01-09 | 2025-02-21 |
@@ -105,7 +106,7 @@
 | [Dis\-moi](https://open.spotify.com/track/7Cs1QQ1hDfx4mVGvTGqljz) | [Brooxy](https://open.spotify.com/artist/3Y9j4vjfKyjLdloNBW1S6S) | [Dis\-moi](https://open.spotify.com/album/70EqwTYCmrlRbo1oJzHMOD) | 2:36 | 2024-11-28 | 2025-01-24 |
 | [Dis\-moi](https://open.spotify.com/track/7noUkZhtjTcybZEbBPIfJQ) | [Lykuin](https://open.spotify.com/artist/5pvpHit3z6tqI7R2ljivTM), [Chloëmoi](https://open.spotify.com/artist/57E3qUdM1qRS3UGyxb8TSC) | [Dis\-moi](https://open.spotify.com/album/15ht7VlmShUwfZH2a0Q6Ue) | 3:03 | 2025-05-22 | 2025-06-20 |
 | [Dis\-moi ce que je dois faire](https://open.spotify.com/track/69FcnOE8Cvm2ZO0zcaGqcQ) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Dis\-moi ce que je dois faire](https://open.spotify.com/album/32yTwatVMuuASNG6BtVUdn) | 2:39 | 2024-09-12 | 2025-01-10 |
-| [Dis\-moi que tu m'aimes](https://open.spotify.com/track/6rWZiuSrqHdgG62GIaXmZk) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Dis\-moi que tu m'aimes](https://open.spotify.com/album/5PSs4QyTRbUsv4aLyeXPwc) | 3:13 | 2025-06-05 |  |
+| [Dis\-moi que tu m'aimes](https://open.spotify.com/track/6rWZiuSrqHdgG62GIaXmZk) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Dis\-moi que tu m'aimes](https://open.spotify.com/album/5PSs4QyTRbUsv4aLyeXPwc) | 3:13 | 2025-06-05 | 2025-09-12 |
 | [DMN](https://open.spotify.com/track/4GLhJvzEntPv9ACB2I2iaH) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y) | [DMN](https://open.spotify.com/album/7JBrrX1HAx5FWeffISPRrz) | 2:53 | 2025-06-19 |  |
 | [Donne\-moi le temps](https://open.spotify.com/track/712cCUL7oIMdyQOWJRY02o) | [Denzel Macintosh](https://open.spotify.com/artist/3rJT4WiFhdI1RCZynrgv1G), [Cloé Mailly](https://open.spotify.com/artist/2Ekb814CvFDXc3uls3S8EG) | [Donne\-moi le temps](https://open.spotify.com/album/2WncVOTRl18k7LtNSsD1vW) | 2:55 | 2024-09-19 | 2024-11-29 |
 | [Donne\-moi tout](https://open.spotify.com/track/0iUXT3c1wN4SBt7UdzaBEc) | [Joss Bari](https://open.spotify.com/artist/4rJInvuWe6jp7FDVpOdwap) | [Donne\-moi tout](https://open.spotify.com/album/2IsCZeyIFElBBw0rZX4Jkz) | 3:02 | 2023-12-08 | 2024-02-16 |
@@ -129,6 +130,7 @@
 | [Entre nous \(ft\. Cinco\)](https://open.spotify.com/track/5VbARAAqegErQsxjwhzqrf) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y), [Cinco](https://open.spotify.com/artist/3S8r9fkqybCCXJLhZGA3r1) | [Star Magazine](https://open.spotify.com/album/4WR46VLHEnxNCVdUKyEKQe) | 3:05 | 2024-03-07 | 2024-05-17 |
 | [ERROR 404](https://open.spotify.com/track/0q94cCOTrT8Wk9f9uEnPzS) | [Jeunesaint](https://open.spotify.com/artist/7cVhbi4q498qnpR64Cwr2y), [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [Tes Yeux Suffisent](https://open.spotify.com/album/4AOG8LeUboNArK5BdLtixl) | 2:58 | 2025-03-27 | 2025-08-08 |
 | [Est\-ce que c'est par là qu'on pleure?](https://open.spotify.com/track/446noPVjJUgf4s9h43mbgE) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [3x5](https://open.spotify.com/album/2DlmOBqh9CEFA1dfAh9I2U) | 2:22 | 2023-11-23 | 2024-05-17 |
+| [EX](https://open.spotify.com/track/30tXoMCoV6lC01qsdwH7Ei) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [EX](https://open.spotify.com/album/7Bk2JwBLHZWcctecLKiTJP) | 2:49 | 2025-09-11 |  |
 | [F\*\*\* Cupidon](https://open.spotify.com/track/0smsfu9wCqY5LO9NQEZPwO) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Aura](https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY) | 3:34 | 2025-04-10 |  |
 | [Faire des efforts](https://open.spotify.com/track/0f97Fkbm9x4HnmnLcrrYmW) | [Mau](https://open.spotify.com/artist/1TbvaXxo4pD4LXJAFZtIxQ) | [Faire des efforts](https://open.spotify.com/album/7FLHAI41deQzWgAs0w5np5) | 4:21 | 2025-05-22 | 2025-06-20 |
 | [Faire Mieux](https://open.spotify.com/track/59fnX2XFGGKC8xhSrZcRt6) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok), [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Faire Mieux](https://open.spotify.com/album/06zpOo8JdyED6lebE1GFR2) | 3:22 | 2025-08-07 |  |
@@ -322,7 +324,7 @@
 | [QUE LES MOTS](https://open.spotify.com/track/538ptGcDqDlvEsXhgPCGzC) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [QUE LES MOTS](https://open.spotify.com/album/4p2IaBzRcV3KmtdEaSCRFF) | 2:46 | 2025-05-15 | 2025-06-27 |
 | [quel type de vibe?](https://open.spotify.com/track/2aAgX2pC17FCFB9TtBKFwn) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [quel type de vibe?](https://open.spotify.com/album/4b71KrH0rd453L1aHPN57T) | 1:56 | 2023-10-12 | 2024-10-18 |
 | [quel type de vibe?](https://open.spotify.com/track/7iospt7wmXY3BdoHsK666Y) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [quel type de vibe?](https://open.spotify.com/album/5jNKxTnotbnb8azNL0jm3l) | 1:56 | 2023-10-19 | 2024-04-19 |
-| [Questions](https://open.spotify.com/track/4ZyrI36fdL7fuNWj19WZv5) | [Kïerra](https://open.spotify.com/artist/4UYfoEvsfMWhMVb6vl1rXZ) | [Questions](https://open.spotify.com/album/3p0umCSApDfemx8Lqdxa6b) | 2:35 | 2025-08-07 |  |
+| [Questions](https://open.spotify.com/track/4ZyrI36fdL7fuNWj19WZv5) | [Kïerra](https://open.spotify.com/artist/4UYfoEvsfMWhMVb6vl1rXZ) | [Questions](https://open.spotify.com/album/3p0umCSApDfemx8Lqdxa6b) | 2:35 | 2025-08-07 | 2025-09-12 |
 | [Real Love](https://open.spotify.com/track/3AEJ9PoZEC6ovIv9rZy7aI) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Une semaine à Paris](https://open.spotify.com/album/0bCd5P38zFjnlTYD6j569u) | 3:34 | 2023-11-16 | 2024-11-08 |
 | [Recommencer](https://open.spotify.com/track/1Mjo0gMzdJK7wQX6izTsAf) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [Gros Mo](https://open.spotify.com/artist/7r65N4pfWPM7D0zKe86jgk) | [Recommencer](https://open.spotify.com/album/1EcA5Z4Tdghb4dYpMfzJsI) | 2:31 | 2024-04-04 | 2024-10-25 |
 | [Red Flags](https://open.spotify.com/track/5gWcJXR5SwxC3y8HLykCOG) | [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [Red Flags](https://open.spotify.com/album/4RoSb6Zn64vvlAQQHOoiBB) | 3:23 | 2024-02-29 | 2024-04-05 |
@@ -356,6 +358,7 @@
 | [Save Me](https://open.spotify.com/track/1RvreQuZ1kRpuAGkUIZ2V7) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [Save Me](https://open.spotify.com/album/41erfshyFUBUuPPYxOzt3A) | 2:34 | 2024-11-07 | 2025-05-23 |
 | [Say my name](https://open.spotify.com/track/13IWwumPWR4yxibM1ILGen) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [GINGER LOVE](https://open.spotify.com/album/1XqTyJRbyNXr7cAs3Syc96) | 2:51 | 2023-09-28 | 2023-12-15 |
 | [Sentiments mentent](https://open.spotify.com/track/2BkeOzac5lqwtHAm8oW4Kj) | [KEIT](https://open.spotify.com/artist/6dMbD5fkI3dZ5dsu39olCX) | [Sentiments mentent](https://open.spotify.com/album/6VgblRYgItu2DXd3b8CU1X) | 2:44 | 2025-03-06 | 2025-04-04 |
+| [Septembre](https://open.spotify.com/track/69oM9FG9MjQg8hmSfHMpiD) | [Mi Yoo](https://open.spotify.com/artist/5nrI4zcbwtB0NLi9O3fBlu) | [Septembre](https://open.spotify.com/album/2AcLdUpK98EXkGbBUZlOiD) | 2:23 | 2025-09-11 |  |
 | [Seuil](https://open.spotify.com/track/4y9MxsGtYASkUyIKGGtdEH) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Héroïne\(s\)](https://open.spotify.com/album/5UU5HGSORbZ4aCalD2uWhU) | 3:25 | 2024-11-28 |  |
 | [Si J't'oubliais](https://open.spotify.com/track/0fML4zWjIwNwOOPtUZ3SBC) | [Mocaris](https://open.spotify.com/artist/5DpA6iFia7WBNhmj2M7q2j) | [Ginger Season](https://open.spotify.com/album/4kaZiL99Daa2VLA0VQl62o) | 3:46 | 2023-09-28 | 2024-02-16 |
 | [Si seulement](https://open.spotify.com/track/7dfIxgOs8OObrkQ9MBWpVD) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Là où les Diamants brillent](https://open.spotify.com/album/6nef3YvZdsFaC6ldV2zSfL) | 2:40 | 2024-02-22 | 2025-02-14 |

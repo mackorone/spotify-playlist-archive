@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 ### [New Music Friday Japan](https://open.spotify.com/playlist/37i9dQZF1DXc57cuGAMEkA)
 
-> 洋楽を中心に今週の新曲をチェック。藤井 風, Lady Gaga, King Gnu, aespa, Tame Impala and more!
+> 洋楽を中心に今週の新曲をチェック。Ed Sheeran, Drake, Kali Uchis, Ado and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,978 likes - 86 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,295 likes - 86 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 85 | [MAKE YOU](https://open.spotify.com/track/2Muc46w8lWHsYcT9ZzT3IO) | [Kaylenn](https://open.spotify.com/artist/6QTol0F2hRjsUnavx9A1Lq) | [MAKE YOU](https://open.spotify.com/album/3aWd3XiWM27d5DMYrR0kfD) | 2:36 |
 | 86 | [Under The Starry Sky \- Piano Version](https://open.spotify.com/track/2SoMjTQ39XdxkMAQP6eVHy) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Under The Starry Sky \(Piano Version\)](https://open.spotify.com/album/4o61osStRGJJzFM6sAiAVc) | 2:56 |
 
-Snapshot ID: `AAAAAKE4fhQepHDF5m7sKnOvrVb9yFd+`
+Snapshot ID: `AAAAAGNsJa+GT0t0zK3sTGAvq7R8R7v5`

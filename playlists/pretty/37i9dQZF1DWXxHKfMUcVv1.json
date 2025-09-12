@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 124493,
+  "num_followers": 124509,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -251,38 +251,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Bailalo Como Quieras, Que Esto Cumbia Villera",
-        "url": "https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV"
-      },
-      "artists": [
-        {
-          "name": "El Monchi Papa",
-          "url": "https://open.spotify.com/artist/7n20wi37wBgwQbqabzrMTB"
-        }
-      ],
-      "duration_ms": 215981,
-      "name": "Una Cerveza",
-      "url": "https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Sentimientos Encontrados",
-        "url": "https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Armadura De Rosas",
         "url": "https://open.spotify.com/album/7q1Ya9cTQeN1ryNie2dDaF"
       },
@@ -303,6 +271,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Sentimientos Encontrados",
+        "url": "https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "El Rey del Norte",
         "url": "https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 198960,
       "name": "Vienes y Te Vas",
       "url": "https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Bailalo Como Quieras, Que Esto Cumbia Villera",
+        "url": "https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV"
+      },
+      "artists": [
+        {
+          "name": "El Monchi Papa",
+          "url": "https://open.spotify.com/artist/7n20wi37wBgwQbqabzrMTB"
+        }
+      ],
+      "duration_ms": 215981,
+      "name": "Una Cerveza",
+      "url": "https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Mis Noches Sin Ti",
-        "url": "https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU"
-      },
-      "artists": [
-        {
-          "name": "Paiko",
-          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
-        }
-      ],
-      "duration_ms": 205087,
-      "name": "Mis Noches Sin Ti",
-      "url": "https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Emergencia de Amor",
         "url": "https://open.spotify.com/album/4Ep0QJGPadz7Agnejcy8jK"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 227971,
       "name": "Si T\u00fa Supieras",
       "url": "https://open.spotify.com/track/1Pt5Ne6IbnPyLdBnYiChHV"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Mis Noches Sin Ti",
+        "url": "https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU"
+      },
+      "artists": [
+        {
+          "name": "Paiko",
+          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
+        }
+      ],
+      "duration_ms": 205087,
+      "name": "Mis Noches Sin Ti",
+      "url": "https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -415,26 +415,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Paso la Vida Pensando",
-        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        },
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 242277,
-      "name": "Paso la Vida Pensando",
-      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Tus Ojos No Me Ven (feat. Jowell y Randy and El Gorila)",
         "url": "https://open.spotify.com/album/0ZGMMZDzC6vtlKmgAl0PHn"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 279568,
       "name": "Tus Ojos No Me Ven - feat. Joewell y Randy",
       "url": "https://open.spotify.com/track/09xnGXVrbniWV4mLTgGyD5"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Paso la Vida Pensando",
+        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 242277,
+      "name": "Paso la Vida Pensando",
+      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Aguije",
-        "url": "https://open.spotify.com/album/6S3Z8Z3WcCRegp66EA5gMh"
-      },
-      "artists": [
-        {
-          "name": "Tierra Adentro",
-          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
-        }
-      ],
-      "duration_ms": 191331,
-      "name": "Aguije",
-      "url": "https://open.spotify.com/track/5jMW9bjIpyziEv5mu5Next"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "En Las Calles",
         "url": "https://open.spotify.com/album/03dGvr1nMBKbUUlTAEDgFF"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 161230,
       "name": "En Las Calles",
       "url": "https://open.spotify.com/track/5xeWKH7GcUCKM6aLtzkSm5"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Aguije",
+        "url": "https://open.spotify.com/album/6S3Z8Z3WcCRegp66EA5gMh"
+      },
+      "artists": [
+        {
+          "name": "Tierra Adentro",
+          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
+        }
+      ],
+      "duration_ms": 191331,
+      "name": "Aguije",
+      "url": "https://open.spotify.com/track/5jMW9bjIpyziEv5mu5Next"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "El Equilibrio",
+        "url": "https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ"
+      },
+      "artists": [
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        }
+      ],
+      "duration_ms": 169928,
+      "name": "La Semilla",
+      "url": "https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "Soy Latino",
         "url": "https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 189658,
       "name": "Soy Latino",
       "url": "https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "El Equilibrio",
-        "url": "https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ"
-      },
-      "artists": [
-        {
-          "name": "Kchiporros",
-          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
-        }
-      ],
-      "duration_ms": 169928,
-      "name": "La Semilla",
-      "url": "https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4"
-      },
-      "artists": [
-        {
-          "name": "El Culto Casero",
-          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
-        }
-      ],
-      "duration_ms": 137584,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "D\u00f3nde est\u00e1 el amor?",
         "url": "https://open.spotify.com/album/6Va6OpLeZmmzbBjV1CgtWE"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 194022,
       "name": "D\u00f3nde est\u00e1 el amor?",
       "url": "https://open.spotify.com/track/0vc4k8TRSYEggDDB2RVUmu"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4"
+      },
+      "artists": [
+        {
+          "name": "El Culto Casero",
+          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
+        }
+      ],
+      "duration_ms": 137584,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl"
     }
   ],
   "unique_name": "Mi Terer\u00e9",

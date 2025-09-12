@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 ### [mood\. ](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B and good vibe tracks for your current mood\. Cover: Karencici
+> The R&B and good vibe tracks for your current mood\. Cover: Natt Buntita
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,988 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,008 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 99 | [afterglow](https://open.spotify.com/track/2nM7MHQDub8jbRVmORzdoj) | [owellciao](https://open.spotify.com/artist/5S9GPm0jvveRHL8QNWircV) | [CODE SWITCH](https://open.spotify.com/album/7a4UjXZdPWfW5c16bj0LRl) | 2:46 |
 | 100 | [more than a friend?](https://open.spotify.com/track/0EJSyxVGp7ZFbrj9WPaubp) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [FION](https://open.spotify.com/artist/5fLp7OniH3WILGy9DBSPNC) | [more than a friend?](https://open.spotify.com/album/4mt2aUYS6oZxdxeCxe1zTu) | 3:08 |
 
-Snapshot ID: `AAAAALZFUws1mYcYwfx6oZz5V8jUvao9`
+Snapshot ID: `AAAAACkjR2RZF6RtIqK+xjEMOz1ZJoNo`

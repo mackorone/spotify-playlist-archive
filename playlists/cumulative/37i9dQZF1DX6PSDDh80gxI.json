@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "svegliaginevra in cover di Indie Italia \ud83c\udf0a",
+  "description": "Tommaso Paradiso \u00e8 tornato con un pezzo 100% Paradiso-coded e ovviamente \u00e8 in cover di Indie Italia \ud83c\udf0a",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -864,7 +864,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 162531,
       "name": "Cantieri",
       "url": "https://open.spotify.com/track/1o6oPDjZcGSE0aP08ogBTA"
@@ -2359,6 +2359,24 @@
     },
     {
       "album": {
+        "name": "Guarda le luci",
+        "url": "https://open.spotify.com/album/5YuWb1a74aee28zJxFZj6j"
+      },
+      "artists": [
+        {
+          "name": "Dutch Nazari",
+          "url": "https://open.spotify.com/artist/2mHrcXHBgPciUOYh3JHISu"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169480,
+      "name": "Guarda le luci",
+      "url": "https://open.spotify.com/track/1fjkAmvV9nUhjmGgd3VLRA"
+    },
+    {
+      "album": {
         "name": "Santa Tenerezza",
         "url": "https://open.spotify.com/album/0xtU9u13hjcAsIQyHEWT39"
       },
@@ -3104,6 +3122,24 @@
       "duration_ms": 207212,
       "name": "Lampo",
       "url": "https://open.spotify.com/track/5jLjGPzQ1ws4EanEjy6j8Y"
+    },
+    {
+      "album": {
+        "name": "Lasciamene un po'",
+        "url": "https://open.spotify.com/album/27msMZHZCDO0ZpGjPOCvco"
+      },
+      "artists": [
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207661,
+      "name": "Lasciamene un po'",
+      "url": "https://open.spotify.com/track/25W1Kc2SWFmz8DXZT2fTn5"
     },
     {
       "album": {
@@ -5382,7 +5418,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 180669,
       "name": "serie crime",
       "url": "https://open.spotify.com/track/5w9luhr7ivHzdHgwcF6Eo6"
@@ -5484,7 +5520,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 124652,
       "name": "Signorina Ciao (con Drast & faccianuvola)",
       "url": "https://open.spotify.com/track/082ZTTy7m8mztUHUrDTsu8"
@@ -5546,6 +5582,24 @@
       "duration_ms": 205413,
       "name": "Situazione complicata",
       "url": "https://open.spotify.com/track/2f3TSWcQlu8sRr5ymkVRFl"
+    },
+    {
+      "album": {
+        "name": "Soli E Disperati Nel Mare Meraviglioso",
+        "url": "https://open.spotify.com/album/2QNVMPmBUn0mUluCdq1rh0"
+      },
+      "artists": [
+        {
+          "name": "TROPICO",
+          "url": "https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211658,
+      "name": "Soli E Disperati Nel Mare Meraviglioso",
+      "url": "https://open.spotify.com/track/51rVDNulsFqL7rU6MbcnQV"
     },
     {
       "album": {

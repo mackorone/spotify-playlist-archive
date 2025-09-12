@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Pil, Ozzy, Justin Bieber og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,783 likes - 108 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,792 likes - 108 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 107 | [Ford \(Oh Owa\)](https://open.spotify.com/track/0VCLQlHV67Cu3ltp3fl9y4) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [Ford \(Oh Owa\)](https://open.spotify.com/album/5wTZ0Sc4Xy3AQlQrU2hseu) | 2:22 |
 | 108 | [Merengue](https://open.spotify.com/track/2YLpVJ4x8j4uPkzrBcna5R) | [MANN1](https://open.spotify.com/artist/356vCwE8TYQ3BegP02UmOs) | [Merengue](https://open.spotify.com/album/5fPUJ0KqS61AfvSnKFse64) | 2:01 |
 
-Snapshot ID: `AAAAAB5MsJhydx5NkFRa/w97l8WvqLh8`
+Snapshot ID: `AAAAAGhC2wv4xA5MXU7btA6Mr2IIg0NA`

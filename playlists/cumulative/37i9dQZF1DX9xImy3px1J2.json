@@ -670,7 +670,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 161071,
       "name": "BARRIO LAMBADA",
       "url": "https://open.spotify.com/track/6E9qTjj8kHiLKMu5yrsfFh"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 199680,
       "name": "Capri Sun",
       "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
@@ -2149,20 +2149,24 @@
     },
     {
       "album": {
-        "name": "Exotica",
+        "name": "Exotica (feat. Greg Taro)",
         "url": "https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD"
       },
       "artists": [
         {
           "name": "Gabry Ponte",
           "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Greg Taro",
+          "url": "https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U"
         }
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 121417,
-      "name": "Exotica",
+      "name": "Exotica (feat. Greg Taro)",
       "url": "https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC"
     },
     {

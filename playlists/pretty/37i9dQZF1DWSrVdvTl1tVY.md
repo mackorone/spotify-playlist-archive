@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 ### [UK House Music](https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY)
 
-> The biggest house bangers popping off in the UK, let's go! Cover: Julian Fijma
+> The biggest house bangers popping off in the UK, let's go! Cover: Kolter
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,616 likes - 99 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,630 likes - 99 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 98 | [Beachfront Avenue \- Radio Edit](https://open.spotify.com/track/0rmmK4ZwBTzFoBc3Nzod05) | [DAETOR](https://open.spotify.com/artist/0PivHDlqdfJmNugJ2TLXlt) | [Beachfront Avenue EP](https://open.spotify.com/album/2duV8faGujoAbW9zEUDqRa) | 3:54 |
 | 99 | [Someday](https://open.spotify.com/track/63FxWnLTk9LcoPwOGdMgWv) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Someday](https://open.spotify.com/album/27N3fOm7u8Sj4JEGraTc1d) | 3:47 |
 
-Snapshot ID: `AAAAANRqtOJKqurL5FlrHaR9uzU6MJwx`
+Snapshot ID: `AAAAADgEyytld/vhgWGibXqoULygXnA1`

@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: PRESIDENT
 
-10,027 songs - 27 day 21 hr 16 min
+10,028 songs - 27 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2128,6 +2128,7 @@
 | [Death Note](https://open.spotify.com/track/73YRaeo0Cs8bTZo1P5INrD) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY) | [Death Note](https://open.spotify.com/album/0MBDvJEQ2QySk0orwGHG6x) | 4:04 | 2025-01-10 | 2025-01-18 |
 | [Death Oath](https://open.spotify.com/track/6N5hpnvbfFYDQYZNhKl0Dz) | [Venemous](https://open.spotify.com/artist/28an2UZBnMulKfdQxhNOBq) | [Death Oath](https://open.spotify.com/album/36SPNysziXOCW7n2BSfD1L) | 3:32 | 2024-08-02 | 2024-08-10 |
 | [DEATH OF A PREDATOR \- Extended Version](https://open.spotify.com/track/5AXtBx24PNEHhLFPjtubJT) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf), [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004) | [DEATH OF A PREDATOR \(Extended Version\)](https://open.spotify.com/album/0CApfCeUK40PtirtTCaVRG) | 2:48 | 2023-02-24 | 2023-03-04 |
+| [Death Of An Artist](https://open.spotify.com/track/6ezK4zlqlpaJe73ATuiHuQ) | [Despised Icon](https://open.spotify.com/artist/3MjNMjqBpaQ0P8ebfbZjYn) | [Death Of An Artist](https://open.spotify.com/album/5QUKxBdh9lSF58pppituER) | 3:41 | 2025-09-05 |  |
 | [Death of Darkness](https://open.spotify.com/track/2ZhucBjDMScbNTZdBH49mX) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Death of Darkness](https://open.spotify.com/album/0W8GrbYOd4s33C4HCtTzkW) | 4:00 | 2023-03-03 | 2023-03-11 |
 | [Death of Day](https://open.spotify.com/track/0VAM2aFtK7Ntq9diiAlYIY) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Death of Day](https://open.spotify.com/album/0mUME7bbPDul93coFsv22P) | 5:34 | 2025-04-18 | 2025-04-26 |
 | [Death of Me](https://open.spotify.com/track/7aLT7w8VwVtWKp9x0YSTFm) | [Lizzy Borden](https://open.spotify.com/artist/0ZdLFpb5MhkSrsHef7A3Bb) | [Death of Me](https://open.spotify.com/album/0ZBZB8tYmOva7E7CYJqcsi) | 3:12 | 2023-08-25 | 2023-09-02 |

@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:31xNxPD0tnYKr7Krg8dyPB">BunnaB</a>
 
-2,493 songs - 4 day 14 hr 33 min
+2,494 songs - 4 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1259,6 +1259,7 @@
 | [Linktree](https://open.spotify.com/track/3l3X3oX0OOBAODEwlGD8Gh) | [Cico P](https://open.spotify.com/artist/3jAZsSIIA8HLjxR99biJyx) | [Linktree](https://open.spotify.com/album/2IMlDgXvyeOKU2L11a9VY3) | 1:52 | 2023-12-08 | 2024-02-10 |
 | [Lion's Den \(feat\. LAZER DIM 700\)](https://open.spotify.com/track/2f451diVdJbaG01Q1yClKW) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [Tronicles](https://open.spotify.com/album/4QIlVSCxe19PuTpd3OAbKd) | 3:21 | 2024-11-08 | 2024-11-27 |
 | [Liq & X](https://open.spotify.com/track/2ZEp4yv7PZQ6xf0eNbrEGl) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Liq & X](https://open.spotify.com/album/5chN7M8HXoooEDFQ0ElOAb) | 1:39 | 2024-05-17 | 2024-05-25 |
+| [Lisp](https://open.spotify.com/track/60IM9cGuF3Y9nSz25La1zB) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Lisp](https://open.spotify.com/album/7Br73jFEjwn7r9VN6SDKtB) | 2:48 | 2025-09-05 |  |
 | [Lit](https://open.spotify.com/track/7vQlEKT4vGvaNNxgnjPj2U) | [Whoppa Wit Da Choppa](https://open.spotify.com/artist/482lFlWgAXTKFGC8C6imWq) | [Lit](https://open.spotify.com/album/6wsxDHolwGyIRMl1BRMifm) | 2:11 | 2022-09-02 | 2022-10-08 |
 | [Live From The 206](https://open.spotify.com/track/08L2HjrdjB7eoMq9bBzDrI) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Iiinfinite](https://open.spotify.com/artist/5tw81TqzE5gbCxMrYU710Y), [Tope](https://open.spotify.com/artist/6w4nfg5jYD6ejjbTIB2sHq) | [LIVE FROM THE 206](https://open.spotify.com/album/2T0lzqE5dQWvkFA6pxKXxk) | 1:58 | 2024-04-12 | 2024-04-19 |
 | [Live Life Die Faster \(with Kodak Black\)](https://open.spotify.com/track/79TJ0JoYhZYJLEozMVrT0T) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Live Life Die Faster \(with Kodak Black\)](https://open.spotify.com/album/2iAZ2v69xjK5mz9ndKywVr) | 3:00 | 2022-07-08 | 2022-07-30 |

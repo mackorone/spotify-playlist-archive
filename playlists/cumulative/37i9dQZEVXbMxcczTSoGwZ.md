@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,745 songs - 6 day 0 hr 21 min
+2,746 songs - 6 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -839,7 +839,7 @@
 | [Ihmishirviö](https://open.spotify.com/track/6EsFnbuNzZmSgiKAd0weFZ) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Ihmishirviö](https://open.spotify.com/album/2xlMjMfeOJXJwgTtgQae17) | 3:06 | 2025-01-04 | 2025-01-06 |
 | [Ihmisten edessä](https://open.spotify.com/track/78jY6qGQtZAM7E5W7APoNg) | [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9) | [Ihmisten edessä](https://open.spotify.com/album/7u6S3Y9G21Z81GIr6mUXW7) | 3:32 | 2025-03-22 | 2025-03-30 |
 | [Ihmisten edessä \- ROOS+BERG Remix](https://open.spotify.com/track/4EDA2cutRTC1lNJ2eyVHlr) | [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9), [ROOS+BERG](https://open.spotify.com/artist/1zVFUjbWQLjADJsMUGV5Ao) | [Ihmisten edessä \(ROOS+BERG Remix\)](https://open.spotify.com/album/1wT2EvNZO7QzvbliG6SkZA) | 3:50 | 2024-02-17 | 2024-02-27 |
-| [ikilapsi](https://open.spotify.com/track/4Ip1CSS61Oh3EUpDWRvpB8) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [ikilapsi](https://open.spotify.com/album/6tUuGvszWmqvErCRgLKAiG) | 3:15 | 2025-06-07 |  |
+| [ikilapsi](https://open.spotify.com/track/4Ip1CSS61Oh3EUpDWRvpB8) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [ikilapsi](https://open.spotify.com/album/6tUuGvszWmqvErCRgLKAiG) | 3:15 | 2025-06-07 | 2025-09-12 |
 | [Ikinä koskaan](https://open.spotify.com/track/05etDP3P7MVkSFbljuAeIn) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Ikinä koskaan](https://open.spotify.com/album/0nCD3PpFyO1yLYSaBlxBE4) | 3:05 | 2023-02-18 | 2023-03-19 |
 | [Ikoni](https://open.spotify.com/track/4uu7Xart3eGoK0KOdatnTk) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Ikoni](https://open.spotify.com/album/0hCe8V1hHnQye0LYwzgzcr) | 2:23 | 2024-01-27 | 2024-02-25 |
 | [Ikuinen elokuu](https://open.spotify.com/track/5L1Zw17VPvmxuWa8PppvbY) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Ikuinen elokuu](https://open.spotify.com/album/1HomvM6Akkl0H1uQBulmTZ) | 3:54 | 2024-08-24 | 2024-10-06 |
@@ -2584,6 +2584,7 @@
 | [Viimeinen tanssi](https://open.spotify.com/track/39yHmPnviyu4dxSqMU9SQ7) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE), [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Viimeinen tanssi](https://open.spotify.com/album/4in73tSouBxV3pESwjLT5M) | 3:42 | 2023-05-27 | 2023-09-24 |
 | [Viimeinen tanssi](https://open.spotify.com/track/643oAKTJRrWg6sd7Npc0Qk) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE), [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Merkittävät erot](https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK) | 3:42 | 2023-09-23 | 2025-08-03 |
 | [Viimeinen tekoni](https://open.spotify.com/track/06G9w3cEqRAHaNhIgnefP3) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup) | [Sanon sen nyt ääneen](https://open.spotify.com/album/3Xd7lz68EkuMkm7uSDjYeb) | 2:39 | 2024-11-09 | 2024-11-15 |
+| [Viimeiset hitaat](https://open.spotify.com/track/2IkG3Y5PXxDFExdw1qK3W6) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Siellä on kaikki niin ihanaa](https://open.spotify.com/album/7lepN2Vnqaazmx2er7PWNW) | 3:36 | 2025-09-11 |  |
 | [Viimeiset romantikot](https://open.spotify.com/track/37dGW3mmdqh6QX41CBuBYJ) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Viimeinen romantikko](https://open.spotify.com/album/7IosFLQa3Pp4HM0NEQkr5b) | 3:16 | 2021-09-26 | 2021-09-27 |
 | [Viimeisiä sanoja](https://open.spotify.com/track/3STatpBP2zJ1CTca7PRSKp) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Viimeisiä sanoja](https://open.spotify.com/album/6xI7ijnlOk4KAdfu5nUuD0) | 3:29 | 2023-02-11 | 2023-09-17 |
 | [Viimeisiä sanoja](https://open.spotify.com/track/2qLzkSZ3nstuozJLipRIrS) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Hupsis](https://open.spotify.com/album/0IwhR2jwfVmUX7kUJnK8S2) | 3:29 | 2023-09-16 | 2024-03-03 |

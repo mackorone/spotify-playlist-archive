@@ -2,7 +2,7 @@
 
 ### [Pop Rising Singapore & Malaysia](https://open.spotify.com/playlist/37i9dQZF1DX1TxhZPYjnhx)
 
-> Discover new favorites or tomorrow's hits today\. Cover: Lady Gaga
+> Discover new favorites or tomorrow's hits today\. Cover: moon tang
 
 937 songs - 2 day 1 hr 25 min
 

@@ -1702,7 +1702,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 220084,
       "name": "Dime",
       "url": "https://open.spotify.com/track/4R6FsEosZEko5S92ne5QyV"
@@ -2182,7 +2182,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 186115,
       "name": "En Braille",
       "url": "https://open.spotify.com/track/3SLu6qTourXW22qyqSbEys"
@@ -2671,6 +2671,28 @@
     },
     {
       "album": {
+        "name": "Huapango",
+        "url": "https://open.spotify.com/album/6Fh0a12aVxYBRRSQ39a4os"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224400,
+      "name": "Huapango",
+      "url": "https://open.spotify.com/track/7Kwq0t6Tmg9eZYG0GAlT3R"
+    },
+    {
+      "album": {
         "name": "50 Palos",
         "url": "https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB"
       },
@@ -2798,7 +2820,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 144680,
       "name": "L'estaca",
       "url": "https://open.spotify.com/track/6V6p3kX685TlL51aeSgzpa"
@@ -3180,7 +3202,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 202564,
       "name": "La siembra (Cruce de Caminos)",
       "url": "https://open.spotify.com/track/0UA70rTQMmWT8MjvqQfTY5"
@@ -3871,6 +3893,24 @@
     },
     {
       "album": {
+        "name": "Mensajes borrados",
+        "url": "https://open.spotify.com/album/2SF91RudOggVjT0ie0JQhH"
+      },
+      "artists": [
+        {
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238233,
+      "name": "Mensajes borrados",
+      "url": "https://open.spotify.com/track/4WHwjdUP13JRfoyXHn1OoW"
+    },
+    {
+      "album": {
         "name": "Mi Paraca\u00eddas",
         "url": "https://open.spotify.com/album/4zyCM7SjQk8UedzfWVAYjT"
       },
@@ -4108,6 +4148,32 @@
       "duration_ms": 190468,
       "name": "Naranjas Al Mar",
       "url": "https://open.spotify.com/track/0OBOZWBSwnUhDUeGDwXJXU"
+    },
+    {
+      "album": {
+        "name": "Naranjo Amargo",
+        "url": "https://open.spotify.com/album/462mGwNuHL6RJwRDsS6y2D"
+      },
+      "artists": [
+        {
+          "name": "Santiago Auser\u00f3n",
+          "url": "https://open.spotify.com/artist/1QnWFj4XbwMBRss56Jk63W"
+        },
+        {
+          "name": "Vaggelis Tzeretas",
+          "url": "https://open.spotify.com/artist/6NujmW4jK0unbe2q9sqSke"
+        },
+        {
+          "name": "Thodoris Karellas",
+          "url": "https://open.spotify.com/artist/6Ttiu9jWHoeUf8BjSqvURL"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298307,
+      "name": "Naranjo Amargo",
+      "url": "https://open.spotify.com/track/0Th9yNUrGPcwDpbjEjk6ND"
     },
     {
       "album": {
@@ -4488,7 +4554,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 417379,
       "name": "Nos fuimos",
       "url": "https://open.spotify.com/track/3MtXGpPTac1nvzH3AYK6qS"
@@ -6274,7 +6340,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 204443,
       "name": "Todo Cambia",
       "url": "https://open.spotify.com/track/4PWGbZMeQc8j9rP8sIOc3T"
@@ -7016,6 +7082,28 @@
       "duration_ms": 199917,
       "name": "Zamba para Mi Padre",
       "url": "https://open.spotify.com/track/7yeasJCqoIBQ2UMZLbdDIW"
+    },
+    {
+      "album": {
+        "name": "\u00c1mame como soy (En Vivo)",
+        "url": "https://open.spotify.com/album/2MNT4N0bQWxgHY5pKn27ik"
+      },
+      "artists": [
+        {
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        },
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236035,
+      "name": "\u00c1mame como soy - En Vivo",
+      "url": "https://open.spotify.com/track/6lfF63n51JukdkhyJcWzHk"
     },
     {
       "album": {

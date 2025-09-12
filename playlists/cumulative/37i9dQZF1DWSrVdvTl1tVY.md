@@ -2,7 +2,7 @@
 
 ### [UK House Music](https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY)
 
-> The biggest house bangers popping off in the UK, let's go! Cover: Julian Fijma
+> The biggest house bangers popping off in the UK, let's go! Cover: Kolter
 
 1,138 songs - 2 day 16 hr 46 min
 

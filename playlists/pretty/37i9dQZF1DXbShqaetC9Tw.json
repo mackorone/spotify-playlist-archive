@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 150263,
+  "num_followers": 150257,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-09-10 03:55:55",
       "album": {
-        "name": "lie",
-        "url": "https://open.spotify.com/album/0pl034wdG7uIcvfzZJlIoI"
-      },
-      "artists": [
-        {
-          "name": "pami",
-          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
-        }
-      ],
-      "duration_ms": 264857,
-      "name": "lie",
-      "url": "https://open.spotify.com/track/0KLSzWb3O65gvzW3ipdrOG"
-    },
-    {
-      "added_at": "2025-09-10 03:55:55",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 139800,
       "name": "Empty Cup",
       "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
+    },
+    {
+      "added_at": "2025-09-10 03:55:55",
+      "album": {
+        "name": "lie",
+        "url": "https://open.spotify.com/album/0pl034wdG7uIcvfzZJlIoI"
+      },
+      "artists": [
+        {
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
+        }
+      ],
+      "duration_ms": 264857,
+      "name": "lie",
+      "url": "https://open.spotify.com/track/0KLSzWb3O65gvzW3ipdrOG"
     },
     {
       "added_at": "2025-09-10 03:55:55",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-09-10 03:55:55",
       "album": {
-        "name": "\ub85c\ub9e8\uc2a4\ub294 \ubcc4\ucc45\ubd80\ub85d OST Part.1",
-        "url": "https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "\ub098\ub294 \ubcfc \uc218 \uc5c6\ub358 \uc774\uc57c\uae30",
-      "url": "https://open.spotify.com/track/4SPZfnF7tn4Sfcv3iTjKCu"
-    },
-    {
-      "added_at": "2025-09-10 03:55:55",
-      "album": {
         "name": "you and me eternal summer (feat. Jin Hwi PARK)",
         "url": "https://open.spotify.com/album/48uHd68qRAU8PtzlI25KPG"
       },
@@ -847,18 +831,38 @@
     {
       "added_at": "2025-09-10 03:55:55",
       "album": {
-        "name": "Can I Be Me?",
-        "url": "https://open.spotify.com/album/7wnXIsAJu06lWAWRrTziIq"
+        "name": "\ub85c\ub9e8\uc2a4\ub294 \ubcc4\ucc45\ubd80\ub85d OST Part.1",
+        "url": "https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R"
       },
       "artists": [
         {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Can I Be Me?",
-      "url": "https://open.spotify.com/track/7J8Gyy5wUFBDbpD7vqpJKy"
+      "duration_ms": 224000,
+      "name": "\ub098\ub294 \ubcfc \uc218 \uc5c6\ub358 \uc774\uc57c\uae30",
+      "url": "https://open.spotify.com/track/4SPZfnF7tn4Sfcv3iTjKCu"
+    },
+    {
+      "added_at": "2025-09-10 03:55:55",
+      "album": {
+        "name": "THINKING Part.2",
+        "url": "https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Being left (Feat. Dvwn)",
+      "url": "https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp"
     }
   ],
   "unique_name": "4:00 AM GROOVE",

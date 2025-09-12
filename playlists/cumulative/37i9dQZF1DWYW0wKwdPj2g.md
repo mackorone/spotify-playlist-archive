@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Minister GUC
 
-254 songs - 1 day 9 hr 56 min
+255 songs - 1 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 | 2024-05-17 |  |
 | [Dependable God \- Live from London](https://open.spotify.com/track/2OWowRrWrSP4v3R11eZVIh) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Dependable God \(Live from London\)](https://open.spotify.com/album/23iBFmRGMwcc2BoZXnRuwO) | 5:07 | 2025-03-14 |  |
 | [Desire \- Live](https://open.spotify.com/track/1yOW7Wm9TMN0O8bp4576gd) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Desire \(Live\)](https://open.spotify.com/album/2jdNxHWLRdhZg3cer80eOu) | 9:11 | 2025-07-04 |  |
-| [Destiny Helper \- Live](https://open.spotify.com/track/4juwARHDF02F8c5ZAcunxZ) | [Jestero Music](https://open.spotify.com/artist/01KQSXIeFMuUxN2JXwjTXj) | [Destiny Helper \(Live\)](https://open.spotify.com/album/2XVzEnUlAyTcJKM8AGqKVE) | 7:23 | 2025-08-15 |  |
+| [Destiny Helper \- Live](https://open.spotify.com/track/4juwARHDF02F8c5ZAcunxZ) | [Jestero Music](https://open.spotify.com/artist/01KQSXIeFMuUxN2JXwjTXj) | [Destiny Helper \(Live\)](https://open.spotify.com/album/2XVzEnUlAyTcJKM8AGqKVE) | 7:23 | 2025-08-15 | 2025-09-12 |
 | [Do to Me What You Want](https://open.spotify.com/track/4DubS31RXrubsxE486uBPi) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Do to Me What You Want](https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c) | 11:54 | 2024-02-23 |  |
 | [Done me well \- Live](https://open.spotify.com/track/4OiD7LbfwDKJZ9nyBvbPD3) | [Segun John](https://open.spotify.com/artist/5NZNxkH7KFr0xZ2yyZpOt2) | [Done me well \(Live\)](https://open.spotify.com/album/1HYa8ia9PxlsBUTqyIOjj3) | 8:42 | 2024-09-13 | 2024-12-20 |
 | [Done so Much](https://open.spotify.com/track/0oktbWzrkxJyjtucARGMdN) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Oyel Planet](https://open.spotify.com/artist/2jFCEamp1CqHmt9u9Bsry6), [Cyzn](https://open.spotify.com/artist/0dA0oeFfSMIZc43fl7g5tc) | [Done so Much](https://open.spotify.com/album/5eehtoGboiXAaJEHZgbtN4) | 8:43 | 2024-02-23 | 2024-08-16 |
@@ -205,6 +205,7 @@
 | [Sleeping Giant \- Live](https://open.spotify.com/track/2Fd0Rb6CLlylofYzCXMu5b) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Sleeping Giant \(Live\)](https://open.spotify.com/album/4bkueR59u5NloiHDZy6tUA) | 7:27 | 2025-03-28 | 2025-05-30 |
 | [Song Of My Father \(Live\) \- Revisitation](https://open.spotify.com/track/7eBpg6M5HmQ24lKbV4p8af) | [Onome Ovwori](https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy), [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [Song Of My Father \(Live\) \[Revisitation\]](https://open.spotify.com/album/59f6I1iAqoyrvz36Js2fgc) | 5:47 | 2025-05-16 | 2025-07-25 |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2024-02-23 |  |
+| [Spirit Of The Lord \- Live](https://open.spotify.com/track/7ABCKCy6L6dA3gA6qi5cHG) | [Bredjo](https://open.spotify.com/artist/216jcBv5bdbpFqfJF7iNuz) | [Spirit Of The Lord \(Live\)](https://open.spotify.com/album/5abwqwUnWu5Efn9SWAF7Lg) | 7:04 | 2025-09-12 |  |
 | [Spontaneous Ibibio Medley \- Live](https://open.spotify.com/track/70zIV5kOfOcUg2gZ0QqURT) | [Ity'Praise](https://open.spotify.com/artist/0ve30UDdU52RBVpghohzZE) | [Spontaneous Ibibio Medley \(Live\)](https://open.spotify.com/album/5T8V17iUVFHuVbvIylG8OS) | 10:15 | 2025-02-21 | 2025-03-28 |
 | [Testimony](https://open.spotify.com/track/5zNZsfw19X9A4dXeqBXyHl) | [Otejiri Imah](https://open.spotify.com/artist/0RL7PPiJZSMN2RhaWVIp1N), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Testimony](https://open.spotify.com/album/563k12oxVh9CsYNOgjG6X2) | 3:44 | 2024-11-08 | 2025-08-22 |
 | [THAT GENERATION \- Live From The Song Of Sons Project](https://open.spotify.com/track/410PJqCS2fOaTu058aFNPr) | [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [THAT GENERATION \(Live From The Song Of Sons Project\)](https://open.spotify.com/album/1iWxYvs1BENg4iGSahahEz) | 4:19 | 2025-04-04 | 2025-05-30 |

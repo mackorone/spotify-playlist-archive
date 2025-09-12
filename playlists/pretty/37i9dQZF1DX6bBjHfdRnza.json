@@ -1,12 +1,12 @@
 {
   "description": "The best new dance music by independent artists and labels, featuring Noah Baine. Artwork by Rewina Beshue.",
-  "num_followers": 207019,
+  "num_followers": 207059,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADWJpV/wYGMq2QstXBOhYvkRj18a",
+  "snapshot_id": "AAAAAN72okubQraejiA2WAOUK/47w+QS",
   "tracks": [
     {
       "added_at": "2025-09-05 04:00:22",
@@ -23,6 +23,22 @@
       "duration_ms": 172466,
       "name": "Selective",
       "url": "https://open.spotify.com/track/5gjvHPLmOC2JMtSpountpV"
+    },
+    {
+      "added_at": "2025-09-11 03:35:14",
+      "album": {
+        "name": "Big Mouth",
+        "url": "https://open.spotify.com/album/5NxOjr8MukjRCJWZe4FCvn"
+      },
+      "artists": [
+        {
+          "name": "MADI",
+          "url": "https://open.spotify.com/artist/6X80kEoRJvuJrrKQCuyL1T"
+        }
+      ],
+      "duration_ms": 259514,
+      "name": "Big Mouth",
+      "url": "https://open.spotify.com/track/78k9qKc7z34nuPGesONAJ4"
     },
     {
       "added_at": "2025-08-29 04:00:44",
@@ -45,20 +61,36 @@
       "url": "https://open.spotify.com/track/1q1k7Tyc3JfWhoeeTjJ6BB"
     },
     {
-      "added_at": "2025-08-29 04:00:44",
+      "added_at": "2025-09-05 04:00:22",
       "album": {
-        "name": "Blaxland",
-        "url": "https://open.spotify.com/album/44CBkP3LESOkeMDnPiZmdx"
+        "name": "4x4",
+        "url": "https://open.spotify.com/album/4gA6nwPTt9kkPPugPCntEs"
       },
       "artists": [
         {
-          "name": "Nokta Servo",
-          "url": "https://open.spotify.com/artist/1zWDkHiV3HltFihfSClOVq"
+          "name": "White Pepper",
+          "url": "https://open.spotify.com/artist/5xI6IJZ7JY3kbapLmwUR1O"
         }
       ],
-      "duration_ms": 195234,
-      "name": "Blaxland",
-      "url": "https://open.spotify.com/track/5GQLlMBESzHRecWYhb0Feu"
+      "duration_ms": 202633,
+      "name": "4x4",
+      "url": "https://open.spotify.com/track/5U9ja4wixV4ba7PIWaRqeu"
+    },
+    {
+      "added_at": "2025-09-11 03:35:14",
+      "album": {
+        "name": "Could Have Been",
+        "url": "https://open.spotify.com/album/33P8egUewQXaXe9Ft4cKEC"
+      },
+      "artists": [
+        {
+          "name": "Romo Weeks",
+          "url": "https://open.spotify.com/artist/0Rld4y2tQzdYhGai8PfKwU"
+        }
+      ],
+      "duration_ms": 278238,
+      "name": "Could Have Been",
+      "url": "https://open.spotify.com/track/1NqD9b8qU23B7bm4TPH3iB"
     },
     {
       "added_at": "2025-09-05 04:00:22",
@@ -93,6 +125,38 @@
       "url": "https://open.spotify.com/track/292KoLS4yud1QuOPNo5pWk"
     },
     {
+      "added_at": "2025-09-11 03:35:14",
+      "album": {
+        "name": "NO LOVE FOR THE BOUNCE",
+        "url": "https://open.spotify.com/album/5pRFQmlH95fUJJvbLbHFU0"
+      },
+      "artists": [
+        {
+          "name": "DON JB",
+          "url": "https://open.spotify.com/artist/4uTDGyMIRwn4enZ52hJKce"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "NO LOVE FOR THE BOUNCE",
+      "url": "https://open.spotify.com/track/0arqUgnNPiUYXECib0CljX"
+    },
+    {
+      "added_at": "2025-08-29 04:00:44",
+      "album": {
+        "name": "Blaxland",
+        "url": "https://open.spotify.com/album/44CBkP3LESOkeMDnPiZmdx"
+      },
+      "artists": [
+        {
+          "name": "Nokta Servo",
+          "url": "https://open.spotify.com/artist/1zWDkHiV3HltFihfSClOVq"
+        }
+      ],
+      "duration_ms": 195234,
+      "name": "Blaxland",
+      "url": "https://open.spotify.com/track/5GQLlMBESzHRecWYhb0Feu"
+    },
+    {
       "added_at": "2025-08-15 04:00:20",
       "album": {
         "name": "BRIGHT",
@@ -111,6 +175,22 @@
       "duration_ms": 229859,
       "name": "BRIGHT",
       "url": "https://open.spotify.com/track/2OS5TP13pmupiTtVzOgsD0"
+    },
+    {
+      "added_at": "2025-09-03 19:06:06",
+      "album": {
+        "name": "Jumpstart Vol. 1",
+        "url": "https://open.spotify.com/album/6NUY3XaJ5mxPeo4oAAATmk"
+      },
+      "artists": [
+        {
+          "name": "Holmesick",
+          "url": "https://open.spotify.com/artist/4En4BomBCqFZvogPLcyT7v"
+        }
+      ],
+      "duration_ms": 188689,
+      "name": "ONLYFORYOU.",
+      "url": "https://open.spotify.com/track/1kRN7taOaUs5iCEux1ISHp"
     },
     {
       "added_at": "2025-09-03 20:08:46",
@@ -133,6 +213,22 @@
       "url": "https://open.spotify.com/track/0kFFFQwfjz9Fktc0AGrQRK"
     },
     {
+      "added_at": "2025-09-11 03:35:14",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/6B4uCGY7mwQLQXEqhI83hg"
+      },
+      "artists": [
+        {
+          "name": "MOSSY BLOC",
+          "url": "https://open.spotify.com/artist/7N0YDQLh41cKZNyn2WTugb"
+        }
+      ],
+      "duration_ms": 237908,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3ygA82nkgSpNy3pHaWwhmV"
+    },
+    {
       "added_at": "2025-09-03 19:06:06",
       "album": {
         "name": "HOT PEOPLE MAKE HOT MUSIC",
@@ -149,20 +245,20 @@
       "url": "https://open.spotify.com/track/6YG2dmPEqcOA9ctHqhFbd4"
     },
     {
-      "added_at": "2025-09-05 04:00:22",
+      "added_at": "2025-09-11 03:35:14",
       "album": {
-        "name": "4x4",
-        "url": "https://open.spotify.com/album/4gA6nwPTt9kkPPugPCntEs"
+        "name": "How To Love Again",
+        "url": "https://open.spotify.com/album/4JnlZZlJUaMT6e5zRd4vtF"
       },
       "artists": [
         {
-          "name": "White Pepper",
-          "url": "https://open.spotify.com/artist/5xI6IJZ7JY3kbapLmwUR1O"
+          "name": "morimori",
+          "url": "https://open.spotify.com/artist/37sovKVT84upXKje7rAY4Z"
         }
       ],
-      "duration_ms": 202633,
-      "name": "4x4",
-      "url": "https://open.spotify.com/track/5U9ja4wixV4ba7PIWaRqeu"
+      "duration_ms": 176275,
+      "name": "How To Love Again",
+      "url": "https://open.spotify.com/track/4gz91tKiMyHEgqkV6BvBoc"
     },
     {
       "added_at": "2025-08-27 15:33:50",
@@ -227,6 +323,22 @@
       "duration_ms": 148965,
       "name": "That That",
       "url": "https://open.spotify.com/track/28YIH5gv7UGQL8zL6PpL9w"
+    },
+    {
+      "added_at": "2025-09-11 03:35:14",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/79xO4G1MdymjwFgHwSCEab"
+      },
+      "artists": [
+        {
+          "name": "Ruthlss",
+          "url": "https://open.spotify.com/artist/4j3gWUkv9UZeRdk4GNozpS"
+        }
+      ],
+      "duration_ms": 216477,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/3Cu6S9xHtU2XbwXBwyeZ0b"
     },
     {
       "added_at": "2025-08-27 15:33:50",
@@ -395,22 +507,6 @@
       "duration_ms": 134666,
       "name": "Berry",
       "url": "https://open.spotify.com/track/46ZXFEiPubUOl8kuphtUfY"
-    },
-    {
-      "added_at": "2025-09-03 19:06:06",
-      "album": {
-        "name": "Jumpstart Vol. 1",
-        "url": "https://open.spotify.com/album/6NUY3XaJ5mxPeo4oAAATmk"
-      },
-      "artists": [
-        {
-          "name": "Holmesick",
-          "url": "https://open.spotify.com/artist/4En4BomBCqFZvogPLcyT7v"
-        }
-      ],
-      "duration_ms": 188689,
-      "name": "ONLYFORYOU.",
-      "url": "https://open.spotify.com/track/1kRN7taOaUs5iCEux1ISHp"
     },
     {
       "added_at": "2025-09-05 04:00:22",
@@ -1059,22 +1155,6 @@
     {
       "added_at": "2025-08-13 04:00:29",
       "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/1YIg0gassEuFty7mxVdpVC"
-      },
-      "artists": [
-        {
-          "name": "Benedict James",
-          "url": "https://open.spotify.com/artist/0HG4sLAE3Hp4X1PDtdDQUV"
-        }
-      ],
-      "duration_ms": 344345,
-      "name": "Mercedes",
-      "url": "https://open.spotify.com/track/0gNhMfxef6emtlWOFDYnFk"
-    },
-    {
-      "added_at": "2025-08-13 04:00:29",
-      "album": {
         "name": "Luv Letters",
         "url": "https://open.spotify.com/album/6pFgsDBQqiKpfZ4XenDGak"
       },
@@ -1389,62 +1469,6 @@
       "url": "https://open.spotify.com/track/1uIxnAIIdGF7aCfEl0Qigp"
     },
     {
-      "added_at": "2025-08-13 04:00:29",
-      "album": {
-        "name": "Transit",
-        "url": "https://open.spotify.com/album/5dY2qizbHFrIZm3HMPZXJZ"
-      },
-      "artists": [
-        {
-          "name": "msft",
-          "url": "https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx"
-        },
-        {
-          "name": "Killa P",
-          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Transit (feat. Killa P)",
-      "url": "https://open.spotify.com/track/7mR1z8YGtFKBEJ8Y0lIg7E"
-    },
-    {
-      "added_at": "2025-07-25 04:01:00",
-      "album": {
-        "name": "Sin Prisa EP",
-        "url": "https://open.spotify.com/album/6UlAPMM1HULmFEI4Ch3St8"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Arrau",
-          "url": "https://open.spotify.com/artist/4joqJDPeNyEqJvnWVb3yU6"
-        },
-        {
-          "name": "Ketiov",
-          "url": "https://open.spotify.com/artist/1MVBKaOHeQDc4bt64MKyHR"
-        }
-      ],
-      "duration_ms": 177472,
-      "name": "Sin Prisa",
-      "url": "https://open.spotify.com/track/3vno5lDrhMqrKQEUDogee3"
-    },
-    {
-      "added_at": "2025-08-01 04:00:40",
-      "album": {
-        "name": "Brooklyn Party Time",
-        "url": "https://open.spotify.com/album/5Iu8JtH05Cke8UIH7DyDfy"
-      },
-      "artists": [
-        {
-          "name": "Deaf Toucan",
-          "url": "https://open.spotify.com/artist/3psM3KJlClPARJnfMlnD7m"
-        }
-      ],
-      "duration_ms": 323478,
-      "name": "Brooklyn Party Time",
-      "url": "https://open.spotify.com/track/5ALRcE4kElzD0ZYXrk8StO"
-    },
-    {
       "added_at": "2025-07-18 04:00:29",
       "album": {
         "name": "Can You Fix Your Heart",
@@ -1504,7 +1528,7 @@
       },
       "artists": [
         {
-          "name": "MAD.DAY",
+          "name": "MAD DAY",
           "url": "https://open.spotify.com/artist/7JG77CHphAY01w2lKrvrTM"
         }
       ],
@@ -1561,22 +1585,6 @@
       "url": "https://open.spotify.com/track/2aiiorAu7zLKYanYv47LjN"
     },
     {
-      "added_at": "2025-07-18 04:00:29",
-      "album": {
-        "name": "What Can I Do",
-        "url": "https://open.spotify.com/album/1qoacL6w8NLcNTmkyHfWBY"
-      },
-      "artists": [
-        {
-          "name": "TATYANA",
-          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
-        }
-      ],
-      "duration_ms": 243914,
-      "name": "What Can I Do",
-      "url": "https://open.spotify.com/track/6EbED5jPQiMpFftw4qJ7UA"
-    },
-    {
       "added_at": "2025-07-25 04:01:00",
       "album": {
         "name": "hey listen!",
@@ -1591,22 +1599,6 @@
       "duration_ms": 158691,
       "name": "hey listen!",
       "url": "https://open.spotify.com/track/4yNhe3jDAo8o1SJ0hTEkvt"
-    },
-    {
-      "added_at": "2025-07-25 04:01:00",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/16kgfRu4InGlPouk5dzOjZ"
-      },
-      "artists": [
-        {
-          "name": "nate band",
-          "url": "https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W"
-        }
-      ],
-      "duration_ms": 155326,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2LsJ4sBvlz0V6MDCbwy4Bn"
     },
     {
       "added_at": "2025-05-30 15:24:22",

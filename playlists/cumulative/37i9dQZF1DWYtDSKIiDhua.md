@@ -2,7 +2,7 @@
 
 ### [mood\. ](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B and good vibe tracks for your current mood\. Cover: Karencici
+> The R&B and good vibe tracks for your current mood\. Cover: Natt Buntita
 
 1,358 songs - 3 day 0 hr 32 min
 

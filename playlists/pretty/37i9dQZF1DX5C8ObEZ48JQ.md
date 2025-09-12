@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW?si=UbaOpY1rTUuGQs\-5DoJ4hw">Halo Yagami</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,048 likes - 78 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,060 likes - 78 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:39BnGnKHfJNx4JXrSANdkf">MUD/O</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,093 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,193 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 10 | [Chcę się z Tobą bawić](https://open.spotify.com/track/0zP8wabUyDzx6O36m9DvOc) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0), [Maria Sadowska](https://open.spotify.com/artist/4zjvLsSNVpp8A95RZb7ryC) | [Chcę się z Tobą bawić](https://open.spotify.com/album/1mo1ZbH9DQDqB17ms82ahA) | 3:26 |
 | 11 | [RATUJ MNIE](https://open.spotify.com/track/7DnLhGu713bd0JOOosNp4S) | [levie](https://open.spotify.com/artist/2f8SMIZ9FwAohqtDNKWwh2) | [RATUJ MNIE](https://open.spotify.com/album/2l2T2dcSI8GdbOr470kRms) | 3:18 |
 | 12 | [Pozwól mi](https://open.spotify.com/track/6SsqEcjl2qPSZQlJLpNHxJ) | [Kozyrska x Sieczak](https://open.spotify.com/artist/0mKcygi44QQWOPXKUVJGD3) | [Pozwól mi](https://open.spotify.com/album/5RgG65tV8NUNbuQ4lz3Ikm) | 4:19 |
-| 13 | [TO PIPY](https://open.spotify.com/track/4feTeO321iRNVKPpVoC1TP) | [AGNT](https://open.spotify.com/artist/5lmovwB4FMczvrKUL87TRS), [styllunkown](https://open.spotify.com/artist/7MwGXvpRn73z6lLmuyh4LM) | [TO PIPY](https://open.spotify.com/album/5CTx7DlCQYEgpSzHbKSiWS) | 2:37 |
+| 13 | [TO PIPY](https://open.spotify.com/track/4feTeO321iRNVKPpVoC1TP) | [AGNT](https://open.spotify.com/artist/5lmovwB4FMczvrKUL87TRS), [styllunknown](https://open.spotify.com/artist/48zwXw0RurzGWlzTZygHzO) | [TO PIPY](https://open.spotify.com/album/5CTx7DlCQYEgpSzHbKSiWS) | 2:37 |
 | 14 | [Bywa różnie](https://open.spotify.com/track/1awEZX1rSUJ7SQzUmzTApz) | [Del\-M](https://open.spotify.com/artist/4U4eB30KhlMJ97PPSbwlqW), [Gverilla](https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U) | [Bywa różnie](https://open.spotify.com/album/4r75NWPGc5FdrWfd1DoC8e) | 2:43 |
 | 15 | [pogoda Warszawa](https://open.spotify.com/track/2BnXJsTRVOnVXVC3jcsVQ0) | [YASNO.](https://open.spotify.com/artist/5JeULU8rnukUiPQFAA8Q24) | [pogoda Warszawa](https://open.spotify.com/album/5SY2WkeZ1wWgZpznzSRoLZ) | 2:41 |
 | 16 | [Czas](https://open.spotify.com/track/4wl1Oax5xE4dOIaULFuPss) | [Echo37](https://open.spotify.com/artist/4qifB4zeruOMkx5FaiNyge), [SAKE](https://open.spotify.com/artist/1UG69F9Xy52Lz8lhzcEJ4z) | [Czas](https://open.spotify.com/album/30yfIqzEgN3mYNaCVfGuHW) | 3:02 |

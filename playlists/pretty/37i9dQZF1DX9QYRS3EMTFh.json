@@ -1,47 +1,35 @@
 {
-  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Kalash",
-  "num_followers": 194289,
+  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : TKS 2G",
+  "num_followers": 194406,
   "original_name": "Dancehall Station",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA4VOjbfxSrBnpnoWcnz3qWUGDyh",
+  "snapshot_id": "AAAAACn9TY4juUzRCuCJUSyijZ2XR3vG",
   "tracks": [
     {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
       "album": {
-        "name": "KADDRYO",
-        "url": "https://open.spotify.com/album/7ch3uXOiA1xhP0poFTPOzS"
-      },
-      "artists": [
-        {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
-        }
-      ],
-      "duration_ms": 150834,
-      "name": "KADDRYO",
-      "url": "https://open.spotify.com/track/2GOfDqnHKoF0dLmTojvl69"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "La Police",
-        "url": "https://open.spotify.com/album/5VqUJorpGVVOVFMHSXYinY"
+        "name": "Soum Soum",
+        "url": "https://open.spotify.com/album/6f4IyHaKqP6tIcW6ltXiEw"
       },
       "artists": [
         {
           "name": "TKS 2G",
           "url": "https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa"
+        },
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
         }
       ],
-      "duration_ms": 137950,
-      "name": "La Police",
-      "url": "https://open.spotify.com/track/0N1g86AFnZYqVb8xdj8MM0"
+      "duration_ms": 139805,
+      "name": "Soum Soum",
+      "url": "https://open.spotify.com/track/59TPSkY5yVmw0kvbPa9uV3"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
       "album": {
         "name": "Shatta Confessions",
         "url": "https://open.spotify.com/album/4mPjrlSA27gzo3nomTW6GP"
@@ -61,7 +49,7 @@
       "url": "https://open.spotify.com/track/7zywuMtaJQL7Nz2aTCOBCU"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
       "album": {
         "name": "La Belette",
         "url": "https://open.spotify.com/album/4K0F2zMCMwMYRNT2tEqvqO"
@@ -81,7 +69,147 @@
       "url": "https://open.spotify.com/track/2MUVuW834R2Ep08eyXFAZx"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "Mode avion",
+        "url": "https://open.spotify.com/album/1NdAgf1yROs0BrcFvb9Jzc"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "duration_ms": 144010,
+      "name": "Mode avion",
+      "url": "https://open.spotify.com/track/5m8Q6aKhrqmoF64xlPcZva"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "Money Pull Up",
+        "url": "https://open.spotify.com/album/6OntrtGTUwdWI0aH3Codpn"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        },
+        {
+          "name": "Dj Glad",
+          "url": "https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe"
+        }
+      ],
+      "duration_ms": 128399,
+      "name": "Money Pull Up",
+      "url": "https://open.spotify.com/track/0nDfHusx7VcKDBno4QYfkg"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "Mwen An Sa",
+        "url": "https://open.spotify.com/album/2NWVtbSq7FJPKi6ri4TWTi"
+      },
+      "artists": [
+        {
+          "name": "SKUNK",
+          "url": "https://open.spotify.com/artist/1sDx64DECVKoHeolqZLE57"
+        },
+        {
+          "name": "Tiitof",
+          "url": "https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 179823,
+      "name": "Mwen An Sa",
+      "url": "https://open.spotify.com/track/1GiJNHhNGReHSeHbkU02DX"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "La Police",
+        "url": "https://open.spotify.com/album/5VqUJorpGVVOVFMHSXYinY"
+      },
+      "artists": [
+        {
+          "name": "TKS 2G",
+          "url": "https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa"
+        }
+      ],
+      "duration_ms": 137950,
+      "name": "La Police",
+      "url": "https://open.spotify.com/track/0N1g86AFnZYqVb8xdj8MM0"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "KADDRYO",
+        "url": "https://open.spotify.com/album/7ch3uXOiA1xhP0poFTPOzS"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "duration_ms": 150834,
+      "name": "KADDRYO",
+      "url": "https://open.spotify.com/track/2GOfDqnHKoF0dLmTojvl69"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/28u7IAWIXFsoFwpml0Bh4G"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "DEEJAY ASAP",
+          "url": "https://open.spotify.com/artist/6gS3aG5pHWfSNTNnmgbyvy"
+        }
+      ],
+      "duration_ms": 121061,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/7iQoTrnhilIVwygGOVC8W8"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "CHORD",
+        "url": "https://open.spotify.com/album/7t1nqu0zfrVlPCxukwIxRc"
+      },
+      "artists": [
+        {
+          "name": "1T1",
+          "url": "https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we"
+        },
+        {
+          "name": "Theomaa",
+          "url": "https://open.spotify.com/artist/49j7GvUPWXDkBZf3uUwMe6"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Bouw\u00e9y",
+      "url": "https://open.spotify.com/track/3sxcR3k3ZkNmvmXQB28Qnr"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
       "album": {
         "name": "Shake It To The Max (FLY) (Kalash & Maureen Remix)",
         "url": "https://open.spotify.com/album/6bwAGOb3zI1RJBBd9e0Vle"
@@ -109,299 +237,27 @@
       "url": "https://open.spotify.com/track/6J9aDPnmDkiPAxWhwLV8Zr"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
       "album": {
-        "name": "CHORD",
-        "url": "https://open.spotify.com/album/7t1nqu0zfrVlPCxukwIxRc"
+        "name": "Wakanda",
+        "url": "https://open.spotify.com/album/1ZVs2FJytqHKRVvVvEGAcv"
       },
       "artists": [
         {
-          "name": "1T1",
-          "url": "https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we"
+          "name": "VJ Awax",
+          "url": "https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm"
         },
         {
-          "name": "Theomaa",
-          "url": "https://open.spotify.com/artist/49j7GvUPWXDkBZf3uUwMe6"
+          "name": "Youbbee",
+          "url": "https://open.spotify.com/artist/5XBjRcch15l650C0JB7j77"
         }
       ],
-      "duration_ms": 157000,
-      "name": "Bouw\u00e9y",
-      "url": "https://open.spotify.com/track/3sxcR3k3ZkNmvmXQB28Qnr"
+      "duration_ms": 112040,
+      "name": "Wakanda",
+      "url": "https://open.spotify.com/track/6j5uiiNvZMv6qL5TeZaL0x"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "Mwen An Sa",
-        "url": "https://open.spotify.com/album/2NWVtbSq7FJPKi6ri4TWTi"
-      },
-      "artists": [
-        {
-          "name": "SKUNK",
-          "url": "https://open.spotify.com/artist/1sDx64DECVKoHeolqZLE57"
-        },
-        {
-          "name": "Tiitof",
-          "url": "https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS"
-        },
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 179823,
-      "name": "Mwen An Sa",
-      "url": "https://open.spotify.com/track/1GiJNHhNGReHSeHbkU02DX"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "Mode avion",
-        "url": "https://open.spotify.com/album/1NdAgf1yROs0BrcFvb9Jzc"
-      },
-      "artists": [
-        {
-          "name": "DJ Kawest",
-          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
-        },
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        }
-      ],
-      "duration_ms": 144010,
-      "name": "Mode avion",
-      "url": "https://open.spotify.com/track/5m8Q6aKhrqmoF64xlPcZva"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/28u7IAWIXFsoFwpml0Bh4G"
-      },
-      "artists": [
-        {
-          "name": "Meryl",
-          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
-        },
-        {
-          "name": "DEEJAY ASAP",
-          "url": "https://open.spotify.com/artist/6gS3aG5pHWfSNTNnmgbyvy"
-        }
-      ],
-      "duration_ms": 121061,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/7iQoTrnhilIVwygGOVC8W8"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "J'AI MENTI.",
-        "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
-      },
-      "artists": [
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        },
-        {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Alpha",
-      "url": "https://open.spotify.com/track/1y7dY7Xu4nWM4SK2dEnoAT"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "Money Pull Up",
-        "url": "https://open.spotify.com/album/6OntrtGTUwdWI0aH3Codpn"
-      },
-      "artists": [
-        {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
-        },
-        {
-          "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
-        },
-        {
-          "name": "Dj Glad",
-          "url": "https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe"
-        }
-      ],
-      "duration_ms": 128399,
-      "name": "Money Pull Up",
-      "url": "https://open.spotify.com/track/0nDfHusx7VcKDBno4QYfkg"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "Shamballa",
-        "url": "https://open.spotify.com/album/5JD4AQHlyGOR9w0qXtOavf"
-      },
-      "artists": [
-        {
-          "name": "Anyme023",
-          "url": "https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P"
-        },
-        {
-          "name": "Shaydee's",
-          "url": "https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Shamballa",
-      "url": "https://open.spotify.com/track/00iG5sAUI0DGedMuGvyKo1"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "Whine",
-        "url": "https://open.spotify.com/album/4T7ESVSUoJqjoMIubvcZdB"
-      },
-      "artists": [
-        {
-          "name": "TKS 2G",
-          "url": "https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa"
-        }
-      ],
-      "duration_ms": 164600,
-      "name": "Whine",
-      "url": "https://open.spotify.com/track/46vaBmVDzufp98VPJCwtAU"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "LUSHENANA",
-        "url": "https://open.spotify.com/album/3aww39e7kTls8lgXDhBRI8"
-      },
-      "artists": [
-        {
-          "name": "Dcamp",
-          "url": "https://open.spotify.com/artist/0EBLKsDlJJByOW4vjFJ9bw"
-        },
-        {
-          "name": "Lewismelo",
-          "url": "https://open.spotify.com/artist/256KfGVTWcYVULdfl97En2"
-        },
-        {
-          "name": "T-Stone",
-          "url": "https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs"
-        }
-      ],
-      "duration_ms": 164791,
-      "name": "LUSHENANA",
-      "url": "https://open.spotify.com/track/7hjJr5FvJunNkbD8wBBrd0"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "Mister Plata",
-        "url": "https://open.spotify.com/album/09GlEracekfENKXJUM51XQ"
-      },
-      "artists": [
-        {
-          "name": "Kryssy",
-          "url": "https://open.spotify.com/artist/0aFrpBv0tkmDm9qFlXK2Gc"
-        },
-        {
-          "name": "Krys",
-          "url": "https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D"
-        }
-      ],
-      "duration_ms": 146465,
-      "name": "Mister Plata",
-      "url": "https://open.spotify.com/track/23DKdmAEr3pGD6aPout0gu"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "AIR FORCE 1",
-        "url": "https://open.spotify.com/album/0jllUXKBq8duDAVSvKdxAr"
-      },
-      "artists": [
-        {
-          "name": "LeJuh",
-          "url": "https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i"
-        }
-      ],
-      "duration_ms": 137625,
-      "name": "AIR FORCE 1",
-      "url": "https://open.spotify.com/track/1tAd9VYVekTTNSOESqBX1j"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "Ta meuf",
-        "url": "https://open.spotify.com/album/2Q7fKtZMhmXi6PV4tDSH2o"
-      },
-      "artists": [
-        {
-          "name": "T-Jy",
-          "url": "https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta"
-        },
-        {
-          "name": "DJ Vtrine",
-          "url": "https://open.spotify.com/artist/5icUzHElWE8qf9hxxU1nd2"
-        }
-      ],
-      "duration_ms": 109565,
-      "name": "Ta meuf",
-      "url": "https://open.spotify.com/track/17709i83p9cPzoPaPCq9jm"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/3wG3K37cJxmEei9dhW7UCG"
-      },
-      "artists": [
-        {
-          "name": "Bamby",
-          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
-        },
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Pas Jalouse",
-      "url": "https://open.spotify.com/track/0ZNRQrgOtYCNEWHBGl1F3E"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "GANGSTA",
-        "url": "https://open.spotify.com/album/40yllSwcv1D4J5jspTMHiW"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "Kybba",
-          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
-        }
-      ],
-      "duration_ms": 132244,
-      "name": "GANGSTA",
-      "url": "https://open.spotify.com/track/0xbK2OxyqU9dx2UJYz4HpN"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
       "album": {
         "name": "Sal Gason",
         "url": "https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0"
@@ -417,7 +273,7 @@
       "url": "https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
       "album": {
         "name": "La piraterie",
         "url": "https://open.spotify.com/album/1AEqrjs8dvbBH8mmE7U9Zy"
@@ -441,7 +297,175 @@
       "url": "https://open.spotify.com/track/6sJncGrdz5lcomB5D2Te9C"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "Ah Eh",
+        "url": "https://open.spotify.com/album/6Q6XBgsyU1j5xYrQbL1SlU"
+      },
+      "artists": [
+        {
+          "name": "Vanou",
+          "url": "https://open.spotify.com/artist/5bRjVnu5q4ySUkVYifxtGE"
+        },
+        {
+          "name": "Saalva13",
+          "url": "https://open.spotify.com/artist/7ziV83zu4GTZleElZOQM4z"
+        },
+        {
+          "name": "Dj Glad",
+          "url": "https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe"
+        },
+        {
+          "name": "Dj Nov",
+          "url": "https://open.spotify.com/artist/6frHZVRnz46yN6GUrmQ9VQ"
+        }
+      ],
+      "duration_ms": 180440,
+      "name": "Ah Eh",
+      "url": "https://open.spotify.com/track/6F1cqsSrK1sN50qiWhO8Wf"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "J'AI MENTI.",
+        "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Alpha",
+      "url": "https://open.spotify.com/track/1y7dY7Xu4nWM4SK2dEnoAT"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/3wG3K37cJxmEei9dhW7UCG"
+      },
+      "artists": [
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        },
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Pas Jalouse",
+      "url": "https://open.spotify.com/track/0ZNRQrgOtYCNEWHBGl1F3E"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "KOZ\u00c9 CHO 2",
+        "url": "https://open.spotify.com/album/5n6Q0g6I9WYKzK3nm6JUB7"
+      },
+      "artists": [
+        {
+          "name": "CRAAZY",
+          "url": "https://open.spotify.com/artist/7zBL53SPAeG7OObxZH6Lxd"
+        },
+        {
+          "name": "WAH WAAH",
+          "url": "https://open.spotify.com/artist/6Xv9wB1rxazucdkzKMcHMG"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        }
+      ],
+      "duration_ms": 164414,
+      "name": "KOZ\u00c9 CHO 2",
+      "url": "https://open.spotify.com/track/4BghhV8A6NhqtjFlmmH5Rg"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "Lifestyle Melody",
+        "url": "https://open.spotify.com/album/6dengxjbXezqaCBi8imQCY"
+      },
+      "artists": [
+        {
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+        },
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "duration_ms": 132815,
+      "name": "4 SAISONS",
+      "url": "https://open.spotify.com/track/56BVEDrRj3aEuSPY38lMLQ"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "Ta meuf",
+        "url": "https://open.spotify.com/album/2Q7fKtZMhmXi6PV4tDSH2o"
+      },
+      "artists": [
+        {
+          "name": "T-Jy",
+          "url": "https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta"
+        },
+        {
+          "name": "DJ Vtrine",
+          "url": "https://open.spotify.com/artist/5icUzHElWE8qf9hxxU1nd2"
+        }
+      ],
+      "duration_ms": 109565,
+      "name": "Ta meuf",
+      "url": "https://open.spotify.com/track/17709i83p9cPzoPaPCq9jm"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "AIR FORCE 1",
+        "url": "https://open.spotify.com/album/0jllUXKBq8duDAVSvKdxAr"
+      },
+      "artists": [
+        {
+          "name": "LeJuh",
+          "url": "https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i"
+        }
+      ],
+      "duration_ms": 137625,
+      "name": "AIR FORCE 1",
+      "url": "https://open.spotify.com/track/1tAd9VYVekTTNSOESqBX1j"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "Shamballa",
+        "url": "https://open.spotify.com/album/5JD4AQHlyGOR9w0qXtOavf"
+      },
+      "artists": [
+        {
+          "name": "Anyme023",
+          "url": "https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P"
+        },
+        {
+          "name": "Shaydee's",
+          "url": "https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Shamballa",
+      "url": "https://open.spotify.com/track/00iG5sAUI0DGedMuGvyKo1"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
       "album": {
         "name": "Chambre 04",
         "url": "https://open.spotify.com/album/5H8p6fAmRy5j9Hn6cJAU0l"
@@ -461,55 +485,23 @@
       "url": "https://open.spotify.com/track/6zBRSNNizxsGWRQFg2eToG"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
       "album": {
-        "name": "Coulie Coulie",
-        "url": "https://open.spotify.com/album/71JjTOLduKpzIC2UHy76Gt"
+        "name": "FLORA COQUEREL",
+        "url": "https://open.spotify.com/album/6iEDXYHbLOzBrSIt3UqAom"
       },
       "artists": [
         {
-          "name": "Aknose",
-          "url": "https://open.spotify.com/artist/1Lqc2Oqyciyq6uvTSNHlwg"
-        },
-        {
-          "name": "Kima",
-          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
-        },
-        {
-          "name": "Magistral Beats",
-          "url": "https://open.spotify.com/artist/2x2eEYuTVLBSCf0c1pPrEf"
+          "name": "Malcolm",
+          "url": "https://open.spotify.com/artist/1c3s9SZHgBWS8mpo8DpdUb"
         }
       ],
-      "duration_ms": 136106,
-      "name": "Coulie Coulie",
-      "url": "https://open.spotify.com/track/1pHqBcdEpInREi0U2WVWOq"
+      "duration_ms": 113320,
+      "name": "FLORA COQUEREL",
+      "url": "https://open.spotify.com/track/4jXIQdJpJSRcACCeQrWc8D"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "Capitaine",
-        "url": "https://open.spotify.com/album/2R1ggWo2mwiryKiGZhjCju"
-      },
-      "artists": [
-        {
-          "name": "Dj Leska",
-          "url": "https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX"
-        },
-        {
-          "name": "Shannon",
-          "url": "https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH"
-        },
-        {
-          "name": "Taliixo Beatz",
-          "url": "https://open.spotify.com/artist/0zJbnxrPTqqwSac6FEHWKE"
-        }
-      ],
-      "duration_ms": 172245,
-      "name": "Capitaine",
-      "url": "https://open.spotify.com/track/7o7phZdbsBLXcVB4nPvM2s"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
       "album": {
         "name": "TAGADA",
         "url": "https://open.spotify.com/album/1HPzalVQ9WIaSz1eQ6NAOV"
@@ -533,91 +525,7 @@
       "url": "https://open.spotify.com/track/6MO6jOYSBio7diMCMrqmyg"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "I ja ni",
-        "url": "https://open.spotify.com/album/7cGlmlcpOeXTJpzd1KEHHt"
-      },
-      "artists": [
-        {
-          "name": "Lijay",
-          "url": "https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO"
-        },
-        {
-          "name": "Lu City",
-          "url": "https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se"
-        }
-      ],
-      "duration_ms": 172695,
-      "name": "I ja ni",
-      "url": "https://open.spotify.com/track/1DqQSNC57l4LxsR7XHDf2m"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "TAMBOU",
-        "url": "https://open.spotify.com/album/1rfmcQhSMXujxmIPNKspxz"
-      },
-      "artists": [
-        {
-          "name": "Dj Glad",
-          "url": "https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe"
-        },
-        {
-          "name": "Ayewai",
-          "url": "https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3"
-        },
-        {
-          "name": "DJ Tutuss",
-          "url": "https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv"
-        }
-      ],
-      "duration_ms": 131803,
-      "name": "TAMBOU",
-      "url": "https://open.spotify.com/track/1c7i0QliKMH9SSpgPSTHDo"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "Patate",
-        "url": "https://open.spotify.com/album/5L0RlwD3q6S06NnxaBXbpx"
-      },
-      "artists": [
-        {
-          "name": "Meryl",
-          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
-        },
-        {
-          "name": "BlackBoy",
-          "url": "https://open.spotify.com/artist/390GislU2lqdtKcuFMIvjK"
-        }
-      ],
-      "duration_ms": 145482,
-      "name": "Patate",
-      "url": "https://open.spotify.com/track/39MeqqlNI3POr8nC2fsZQ9"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "Lifestyle Melody",
-        "url": "https://open.spotify.com/album/6dengxjbXezqaCBi8imQCY"
-      },
-      "artists": [
-        {
-          "name": "Kima",
-          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
-        },
-        {
-          "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
-        }
-      ],
-      "duration_ms": 132815,
-      "name": "4 SAISONS",
-      "url": "https://open.spotify.com/track/56BVEDrRj3aEuSPY38lMLQ"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
       "album": {
         "name": "Bobo",
         "url": "https://open.spotify.com/album/3hD1d1DFNoKCvMNvSSpsUM"
@@ -637,63 +545,43 @@
       "url": "https://open.spotify.com/track/0ABoJNAujfAav7KeVQm8wo"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
       "album": {
-        "name": "Swipe",
-        "url": "https://open.spotify.com/album/2khxHsYSTnnyKkQKOL67I1"
+        "name": "Whine",
+        "url": "https://open.spotify.com/album/4T7ESVSUoJqjoMIubvcZdB"
       },
       "artists": [
         {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+          "name": "TKS 2G",
+          "url": "https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa"
         }
       ],
-      "duration_ms": 154897,
-      "name": "Swipe",
-      "url": "https://open.spotify.com/track/0ASXXXCxdvzPAdpH6pKFNk"
+      "duration_ms": 164600,
+      "name": "Whine",
+      "url": "https://open.spotify.com/track/46vaBmVDzufp98VPJCwtAU"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
       "album": {
-        "name": "Dans la fiesta",
-        "url": "https://open.spotify.com/album/00msJVI5gvPi3RRADlUgEy"
+        "name": "Mister Plata",
+        "url": "https://open.spotify.com/album/09GlEracekfENKXJUM51XQ"
       },
       "artists": [
         {
-          "name": "T-Matt",
-          "url": "https://open.spotify.com/artist/4TBNXLrjYTkQKZ88FFU2cm"
+          "name": "Kryssy",
+          "url": "https://open.spotify.com/artist/0aFrpBv0tkmDm9qFlXK2Gc"
         },
         {
-          "name": "Still Fresh",
-          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+          "name": "Krys",
+          "url": "https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D"
         }
       ],
-      "duration_ms": 162352,
-      "name": "Dans la fiesta",
-      "url": "https://open.spotify.com/track/4k2A7j9Wx8PU2QKEd8zqci"
+      "duration_ms": 146465,
+      "name": "Mister Plata",
+      "url": "https://open.spotify.com/track/23DKdmAEr3pGD6aPout0gu"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "Pomme D'api",
-        "url": "https://open.spotify.com/album/6cADjFRViOi76kNzkLOIiS"
-      },
-      "artists": [
-        {
-          "name": "Shannon",
-          "url": "https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH"
-        },
-        {
-          "name": "Natoxie",
-          "url": "https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5"
-        }
-      ],
-      "duration_ms": 159246,
-      "name": "Pomme D'api",
-      "url": "https://open.spotify.com/track/5vBeKGFZ9l9v4YFAia2aGO"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
       "album": {
         "name": "Bad man",
         "url": "https://open.spotify.com/album/7d3uZcq5akMLK0J4RYOtIk"
@@ -713,71 +601,119 @@
       "url": "https://open.spotify.com/track/0LmzDpyIGpR4gaNCvLoxYC"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
       "album": {
-        "name": "Quint It",
-        "url": "https://open.spotify.com/album/68xBB8xbXUa3f3li27DvCi"
+        "name": "Capitaine",
+        "url": "https://open.spotify.com/album/2R1ggWo2mwiryKiGZhjCju"
       },
       "artists": [
         {
-          "name": "Jahyanai",
-          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+          "name": "Dj Leska",
+          "url": "https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX"
         },
         {
-          "name": "Spice",
-          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH"
         },
         {
-          "name": "Gold Up",
-          "url": "https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa"
+          "name": "Taliixo Beatz",
+          "url": "https://open.spotify.com/artist/0zJbnxrPTqqwSac6FEHWKE"
         }
       ],
-      "duration_ms": 163428,
-      "name": "Quint It",
-      "url": "https://open.spotify.com/track/5gdPDCKm6bMvopOjBrTBY8"
+      "duration_ms": 172245,
+      "name": "Capitaine",
+      "url": "https://open.spotify.com/track/7o7phZdbsBLXcVB4nPvM2s"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
       "album": {
-        "name": "L'or",
-        "url": "https://open.spotify.com/album/6y9JbOuSe9uzd5B7UwVmJT"
+        "name": "Coulie Coulie",
+        "url": "https://open.spotify.com/album/71JjTOLduKpzIC2UHy76Gt"
       },
       "artists": [
         {
-          "name": "Chani Man",
-          "url": "https://open.spotify.com/artist/3c06xbau4OgBytTvM6bXXg"
+          "name": "Aknose",
+          "url": "https://open.spotify.com/artist/1Lqc2Oqyciyq6uvTSNHlwg"
+        },
+        {
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+        },
+        {
+          "name": "Magistral Beats",
+          "url": "https://open.spotify.com/artist/2x2eEYuTVLBSCf0c1pPrEf"
         }
       ],
-      "duration_ms": 177153,
-      "name": "L'or",
-      "url": "https://open.spotify.com/track/0EZ1oWS6NsjHqIjfXdALw2"
+      "duration_ms": 136106,
+      "name": "Coulie Coulie",
+      "url": "https://open.spotify.com/track/1pHqBcdEpInREi0U2WVWOq"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
       "album": {
-        "name": "Top Gyal",
-        "url": "https://open.spotify.com/album/0AquTZ7zO9Bq5W1TSQeaEH"
+        "name": "LUSHENANA",
+        "url": "https://open.spotify.com/album/3aww39e7kTls8lgXDhBRI8"
       },
       "artists": [
         {
-          "name": "Kybba",
-          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+          "name": "Dcamp",
+          "url": "https://open.spotify.com/artist/0EBLKsDlJJByOW4vjFJ9bw"
         },
         {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+          "name": "Lewismelo",
+          "url": "https://open.spotify.com/artist/256KfGVTWcYVULdfl97En2"
         },
         {
-          "name": "EL RM",
-          "url": "https://open.spotify.com/artist/3iTAQxRGntO3VhpGLt2C3P"
+          "name": "T-Stone",
+          "url": "https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs"
         }
       ],
-      "duration_ms": 126323,
-      "name": "Top Gyal",
-      "url": "https://open.spotify.com/track/1IGIvzj5aeWUJn8C8Ran9F"
+      "duration_ms": 164791,
+      "name": "LUSHENANA",
+      "url": "https://open.spotify.com/track/7hjJr5FvJunNkbD8wBBrd0"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "Patate",
+        "url": "https://open.spotify.com/album/5L0RlwD3q6S06NnxaBXbpx"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "BlackBoy",
+          "url": "https://open.spotify.com/artist/390GislU2lqdtKcuFMIvjK"
+        }
+      ],
+      "duration_ms": 145482,
+      "name": "Patate",
+      "url": "https://open.spotify.com/track/39MeqqlNI3POr8nC2fsZQ9"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "Dans la fiesta",
+        "url": "https://open.spotify.com/album/00msJVI5gvPi3RRADlUgEy"
+      },
+      "artists": [
+        {
+          "name": "T-Matt",
+          "url": "https://open.spotify.com/artist/4TBNXLrjYTkQKZ88FFU2cm"
+        },
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Dans la fiesta",
+      "url": "https://open.spotify.com/track/4k2A7j9Wx8PU2QKEd8zqci"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
       "album": {
         "name": "Pran On Py\u00e9",
         "url": "https://open.spotify.com/album/2rXM4BzCVJMZc3HCHLLQQn"
@@ -805,7 +741,143 @@
       "url": "https://open.spotify.com/track/0iDP0gAN511CCDafoFf9Ft"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "Top Gyal",
+        "url": "https://open.spotify.com/album/0AquTZ7zO9Bq5W1TSQeaEH"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "EL RM",
+          "url": "https://open.spotify.com/artist/3iTAQxRGntO3VhpGLt2C3P"
+        }
+      ],
+      "duration_ms": 126323,
+      "name": "Top Gyal",
+      "url": "https://open.spotify.com/track/1IGIvzj5aeWUJn8C8Ran9F"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "Quint It",
+        "url": "https://open.spotify.com/album/68xBB8xbXUa3f3li27DvCi"
+      },
+      "artists": [
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        },
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "Gold Up",
+          "url": "https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa"
+        }
+      ],
+      "duration_ms": 163428,
+      "name": "Quint It",
+      "url": "https://open.spotify.com/track/5gdPDCKm6bMvopOjBrTBY8"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "GANGSTA",
+        "url": "https://open.spotify.com/album/40yllSwcv1D4J5jspTMHiW"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        }
+      ],
+      "duration_ms": 132244,
+      "name": "GANGSTA",
+      "url": "https://open.spotify.com/track/0xbK2OxyqU9dx2UJYz4HpN"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "Pomme D'api",
+        "url": "https://open.spotify.com/album/6cADjFRViOi76kNzkLOIiS"
+      },
+      "artists": [
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH"
+        },
+        {
+          "name": "Natoxie",
+          "url": "https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5"
+        }
+      ],
+      "duration_ms": 159246,
+      "name": "Pomme D'api",
+      "url": "https://open.spotify.com/track/5vBeKGFZ9l9v4YFAia2aGO"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "TAMBOU",
+        "url": "https://open.spotify.com/album/1rfmcQhSMXujxmIPNKspxz"
+      },
+      "artists": [
+        {
+          "name": "Dj Glad",
+          "url": "https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe"
+        },
+        {
+          "name": "Ayewai",
+          "url": "https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3"
+        },
+        {
+          "name": "DJ Tutuss",
+          "url": "https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv"
+        }
+      ],
+      "duration_ms": 131803,
+      "name": "TAMBOU",
+      "url": "https://open.spotify.com/track/1c7i0QliKMH9SSpgPSTHDo"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "Swipe",
+        "url": "https://open.spotify.com/album/2khxHsYSTnnyKkQKOL67I1"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "duration_ms": 154897,
+      "name": "Swipe",
+      "url": "https://open.spotify.com/track/0ASXXXCxdvzPAdpH6pKFNk"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
       "album": {
         "name": "Hot Gyal Time",
         "url": "https://open.spotify.com/album/4ULDqzLNUFZxDMNFw3g9O4"
@@ -829,7 +901,47 @@
       "url": "https://open.spotify.com/track/0clwSel3mX5KAh4E8SZrhb"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "MAESTRO",
+        "url": "https://open.spotify.com/album/6hYuhOmArT5XZJWAxeQs6S"
+      },
+      "artists": [
+        {
+          "name": "Admiral T",
+          "url": "https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE"
+        },
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH"
+        }
+      ],
+      "duration_ms": 178326,
+      "name": "D\u00c8VIZ AN MWEN",
+      "url": "https://open.spotify.com/track/3XqR2wiBCwHCDXvqICEY7S"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "I ja ni",
+        "url": "https://open.spotify.com/album/7cGlmlcpOeXTJpzd1KEHHt"
+      },
+      "artists": [
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO"
+        },
+        {
+          "name": "Lu City",
+          "url": "https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se"
+        }
+      ],
+      "duration_ms": 172695,
+      "name": "I ja ni",
+      "url": "https://open.spotify.com/track/1DqQSNC57l4LxsR7XHDf2m"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
       "album": {
         "name": "Coconut",
         "url": "https://open.spotify.com/album/7L1PQoKOx0h63gY1yeL3Bp"
@@ -853,127 +965,7 @@
       "url": "https://open.spotify.com/track/51DwuwPiBHlxGQUixns7mh"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "Slow Motion (feat. Lavbbe)",
-        "url": "https://open.spotify.com/album/7hqQDhx9nMaptTWNeG4HNb"
-      },
-      "artists": [
-        {
-          "name": "Spice",
-          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
-        },
-        {
-          "name": "Lavbbe",
-          "url": "https://open.spotify.com/artist/6izI64ghLVdJ9C45YWx3Vm"
-        }
-      ],
-      "duration_ms": 139770,
-      "name": "Slow Motion (feat. Lavbbe)",
-      "url": "https://open.spotify.com/track/3SIhhY5cRa6kyom2MFVjfa"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "Bubble Like Soup",
-        "url": "https://open.spotify.com/album/4kGJjkaVVVa5jKl6ABE9E0"
-      },
-      "artists": [
-        {
-          "name": "Jahyanai",
-          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
-        },
-        {
-          "name": "X-Man",
-          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
-        },
-        {
-          "name": "Gold Up",
-          "url": "https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa"
-        }
-      ],
-      "duration_ms": 159230,
-      "name": "Bubble Like Soup",
-      "url": "https://open.spotify.com/track/4S2h5Hz14oLQ4oxvIwLtCk"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "MAESTRO",
-        "url": "https://open.spotify.com/album/6hYuhOmArT5XZJWAxeQs6S"
-      },
-      "artists": [
-        {
-          "name": "Admiral T",
-          "url": "https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE"
-        },
-        {
-          "name": "Shannon",
-          "url": "https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH"
-        }
-      ],
-      "duration_ms": 178326,
-      "name": "D\u00c8VIZ AN MWEN",
-      "url": "https://open.spotify.com/track/3XqR2wiBCwHCDXvqICEY7S"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "Tes amis",
-        "url": "https://open.spotify.com/album/4BinJYcmZO54REiGbv9jgp"
-      },
-      "artists": [
-        {
-          "name": "Blicassty",
-          "url": "https://open.spotify.com/artist/1MbUL0JryiwgLoPNX8esk6"
-        },
-        {
-          "name": "Yanishi",
-          "url": "https://open.spotify.com/artist/2XngitiMW1vEd1VL0CQg2x"
-        }
-      ],
-      "duration_ms": 143663,
-      "name": "Tes amis",
-      "url": "https://open.spotify.com/track/04oZHLhK4mRatgqc9ne2iq"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "Par\u00e8 Ba-Y",
-        "url": "https://open.spotify.com/album/0Qa5oDlrRY368UhsAL0KqU"
-      },
-      "artists": [
-        {
-          "name": "Rachelle Allison",
-          "url": "https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52"
-        },
-        {
-          "name": "LeJuh",
-          "url": "https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i"
-        }
-      ],
-      "duration_ms": 139054,
-      "name": "Par\u00e8 Ba-Y",
-      "url": "https://open.spotify.com/track/0Rbm7NmOFuUqkT9Nqyzgcr"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
-      "album": {
-        "name": "No Long Talk",
-        "url": "https://open.spotify.com/album/2otJJIhWUjYmlnuxP6I3MG"
-      },
-      "artists": [
-        {
-          "name": "El G\u00e9nah",
-          "url": "https://open.spotify.com/artist/00WhHFfWSNGuF8utj6mBcL"
-        }
-      ],
-      "duration_ms": 170575,
-      "name": "No Long Talk",
-      "url": "https://open.spotify.com/track/7hLfMab65joMK7EB25EFVf"
-    },
-    {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
       "album": {
         "name": "Tout Kot\u00e9",
         "url": "https://open.spotify.com/album/1h8jKCAibB11m46mbcFPCN"
@@ -997,7 +989,27 @@
       "url": "https://open.spotify.com/track/5DLNMwPxp2kpgzT6RMyDLe"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
+      "album": {
+        "name": "Par\u00e8 Ba-Y",
+        "url": "https://open.spotify.com/album/0Qa5oDlrRY368UhsAL0KqU"
+      },
+      "artists": [
+        {
+          "name": "Rachelle Allison",
+          "url": "https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52"
+        },
+        {
+          "name": "LeJuh",
+          "url": "https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i"
+        }
+      ],
+      "duration_ms": 139054,
+      "name": "Par\u00e8 Ba-Y",
+      "url": "https://open.spotify.com/track/0Rbm7NmOFuUqkT9Nqyzgcr"
+    },
+    {
+      "added_at": "2025-09-11 22:00:19",
       "album": {
         "name": "SHATTA CRIMINEL",
         "url": "https://open.spotify.com/album/5pGAZuxkyjTa78ZRJBkkLT"
@@ -1017,40 +1029,36 @@
       "url": "https://open.spotify.com/track/5dQZMgCDgq0CeQ76s8vPPS"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
       "album": {
-        "name": "PA AY SI MWEN",
-        "url": "https://open.spotify.com/album/0C47SPCS526EzvzP6ns43C"
+        "name": "L'or",
+        "url": "https://open.spotify.com/album/6y9JbOuSe9uzd5B7UwVmJT"
       },
       "artists": [
         {
-          "name": "JmaX",
-          "url": "https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV"
-        },
-        {
-          "name": "Beat2Rue",
-          "url": "https://open.spotify.com/artist/6lnlZl6M3uRCKjdQ5teYBZ"
+          "name": "Chani Man",
+          "url": "https://open.spotify.com/artist/3c06xbau4OgBytTvM6bXXg"
         }
       ],
-      "duration_ms": 139537,
-      "name": "PA AY SI MWEN",
-      "url": "https://open.spotify.com/track/1hwoJE8mWywOkUufNSJVDy"
+      "duration_ms": 177153,
+      "name": "L'or",
+      "url": "https://open.spotify.com/track/0EZ1oWS6NsjHqIjfXdALw2"
     },
     {
-      "added_at": "2025-09-04 22:00:21",
+      "added_at": "2025-09-11 22:00:19",
       "album": {
-        "name": "Ukul\u00e9l\u00e9",
-        "url": "https://open.spotify.com/album/2RY4IXVUXYkzxSO2cb8jzA"
+        "name": "No Long Talk",
+        "url": "https://open.spotify.com/album/2otJJIhWUjYmlnuxP6I3MG"
       },
       "artists": [
         {
-          "name": "Keros-N",
-          "url": "https://open.spotify.com/artist/5DFOYJLWzBdNifHaXGuRQc"
+          "name": "El G\u00e9nah",
+          "url": "https://open.spotify.com/artist/00WhHFfWSNGuF8utj6mBcL"
         }
       ],
-      "duration_ms": 150937,
-      "name": "Ukul\u00e9l\u00e9",
-      "url": "https://open.spotify.com/track/0gC4KsUL796iGvzf55pNa5"
+      "duration_ms": 170575,
+      "name": "No Long Talk",
+      "url": "https://open.spotify.com/track/7hLfMab65joMK7EB25EFVf"
     }
   ],
   "unique_name": "Dancehall Station",

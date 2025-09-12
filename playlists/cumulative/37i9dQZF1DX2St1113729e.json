@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 159724,
       "name": "+Dti",
       "url": "https://open.spotify.com/track/5h48alrvDH3PLQZPaOuAkq"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 169833,
       "name": "ARTIFICIAL REMIX",
       "url": "https://open.spotify.com/track/3jsN5AUIThFnZ6V30i8SAz"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 150130,
       "name": "Bellakiar",
       "url": "https://open.spotify.com/track/6idlGSXs9VFtlUqS6eH5kJ"
@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-01",
+      "date_removed": null,
       "duration_ms": 110480,
       "name": "cara de malo",
       "url": "https://open.spotify.com/track/71Tsxr3RIJESbtABSm8GUg"
@@ -2300,7 +2300,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 250857,
       "name": "Como Misa y Kira",
       "url": "https://open.spotify.com/track/1wmLjDZkC1i2Wmqjj4KlOQ"
@@ -3476,7 +3476,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 135150,
       "name": "D\u00e9jame en paz",
       "url": "https://open.spotify.com/track/6SDySvz02gnkkp6iP7ece5"
@@ -3572,7 +3572,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 137769,
       "name": "ELLA QUIERE TECHNO",
       "url": "https://open.spotify.com/track/1t36kr1G5VQfyYGMpqUb2R"
@@ -3804,7 +3804,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 232379,
       "name": "ES TAN COMPLICADO",
       "url": "https://open.spotify.com/track/0cCMUKvP5jrFnePkTo9GtK"
@@ -4034,6 +4034,28 @@
       "duration_ms": 185460,
       "name": "Estrella De La Noche",
       "url": "https://open.spotify.com/track/3GGd933RB3nS915oezHTJl"
+    },
+    {
+      "album": {
+        "name": "Est\u00e1s fatal!",
+        "url": "https://open.spotify.com/album/0vGQ1QVitSAaz9MFUTmr6W"
+      },
+      "artists": [
+        {
+          "name": "Rizhko",
+          "url": "https://open.spotify.com/artist/5dcPKEdPkE750rjAecbwVa"
+        },
+        {
+          "name": "LA KARMA",
+          "url": "https://open.spotify.com/artist/5Tx1gnfyAAZn2jYvJE0VwF"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168334,
+      "name": "Est\u00e1s fatal!",
+      "url": "https://open.spotify.com/track/6MK9YPSNhnhjZeSJEagEib"
     },
     {
       "album": {
@@ -5114,7 +5136,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 174782,
       "name": "Heredia",
       "url": "https://open.spotify.com/track/2Dm3B2p2h1rZdtKVgjBhbj"
@@ -5176,7 +5198,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 141304,
       "name": "Hola MaRinaaAAA",
       "url": "https://open.spotify.com/track/1I0XGkdTxico04E73ITKyu"
@@ -6056,7 +6078,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-09",
+      "date_removed": null,
       "duration_ms": 125986,
       "name": "LA GUARDIA",
       "url": "https://open.spotify.com/track/0m1GcvmuavUSXIHqRsXTjV"
@@ -6264,7 +6286,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 150000,
       "name": "Lagrimas Secas",
       "url": "https://open.spotify.com/track/1vBbb1pSvJ4ENIeYnrEiUj"
@@ -6373,6 +6395,36 @@
     },
     {
       "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/6liO7XgIqTtmySHyt9n6Va"
+      },
+      "artists": [
+        {
+          "name": "Jendel",
+          "url": "https://open.spotify.com/artist/7CMHybr1N6jq7bNG7aHbIw"
+        },
+        {
+          "name": "Carz\u00e9",
+          "url": "https://open.spotify.com/artist/11Phvl6lzQFQJ2OcSXloHv"
+        },
+        {
+          "name": "Pretty Dealer",
+          "url": "https://open.spotify.com/artist/7odWZ6HTdqaw8dRhV9r70e"
+        },
+        {
+          "name": "Pina",
+          "url": "https://open.spotify.com/artist/72V0AcDwtzk0XgLg8FJ0Iv"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159116,
+      "name": "Lejos De Ti",
+      "url": "https://open.spotify.com/track/3zwY2g2trJp6OGdACOeIHS"
+    },
+    {
+      "album": {
         "name": "Lejos del ruido",
         "url": "https://open.spotify.com/album/0GTiRd3k4OSuXhdu7eIK7Q"
       },
@@ -6406,7 +6458,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 118356,
       "name": "LEJOS...",
       "url": "https://open.spotify.com/track/2qVCe3aOibINQcOVs9EjHY"
@@ -6638,6 +6690,24 @@
       "duration_ms": 133150,
       "name": "Lobby",
       "url": "https://open.spotify.com/track/7u4l3gG7TutJxtk78xyF01"
+    },
+    {
+      "album": {
+        "name": "LOS ANGELES",
+        "url": "https://open.spotify.com/album/72Wl2kVTGWIzMjIAuNSii3"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159041,
+      "name": "LOS ANGELES",
+      "url": "https://open.spotify.com/track/5wf3kCBFwj0J8boCv3Ok4p"
     },
     {
       "album": {
@@ -6982,7 +7052,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 183430,
       "name": "l\u00ednea madrugada",
       "url": "https://open.spotify.com/track/5HHSIMPJASiS6DHBbS4iI1"
@@ -7092,6 +7162,32 @@
       "duration_ms": 230794,
       "name": "MALOS D\u00cdAS",
       "url": "https://open.spotify.com/track/09xDpPPwrI5BF77raOOgNY"
+    },
+    {
+      "album": {
+        "name": "MAnchAs De Tu ReglA",
+        "url": "https://open.spotify.com/album/0ufpWWZfVetbn8jTD2UJq0"
+      },
+      "artists": [
+        {
+          "name": "Roxy<3",
+          "url": "https://open.spotify.com/artist/1mDIyqXE2yADrjDuC7SbFw"
+        },
+        {
+          "name": "Liverto",
+          "url": "https://open.spotify.com/artist/7IMuG77LMQUB8R9i1lYMUQ"
+        },
+        {
+          "name": "Blaii <3",
+          "url": "https://open.spotify.com/artist/2RXVTzAKgdqRmkHzohPfVH"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162861,
+      "name": "MAnchAs De Tu ReglA",
+      "url": "https://open.spotify.com/track/1ffBfW38TcUUw9B3Nsrsi2"
     },
     {
       "album": {
@@ -7406,7 +7502,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 128591,
       "name": "metienesloco!",
       "url": "https://open.spotify.com/track/7i1O7VFJP8LwZBua0wXSAV"
@@ -7596,6 +7692,32 @@
       "duration_ms": 144000,
       "name": "MI NOVIO ES LO OPUESTO A UN CURA",
       "url": "https://open.spotify.com/track/5RLhfK1t1ZUgprTS12FEGb"
+    },
+    {
+      "album": {
+        "name": "mi vida es como (feat. Biberon, Dalsy)",
+        "url": "https://open.spotify.com/album/66sl7jBQcSjVmRMAD5T8Vv"
+      },
+      "artists": [
+        {
+          "name": "Serchito trambotiko",
+          "url": "https://open.spotify.com/artist/7yNV6fwF1pigvEZTsEaegm"
+        },
+        {
+          "name": "Biberon",
+          "url": "https://open.spotify.com/artist/31VgmAag1FUVTzQpASIeFo"
+        },
+        {
+          "name": "Dalsy",
+          "url": "https://open.spotify.com/artist/3sHxzJm8inywT7UDA41zxP"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109166,
+      "name": "mi vida es como (feat. Biberon, Dalsy)",
+      "url": "https://open.spotify.com/track/47wUKF2TTxAKxFdH2fX4mp"
     },
     {
       "album": {
@@ -8678,7 +8800,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 165208,
       "name": "No more xanax",
       "url": "https://open.spotify.com/track/07hTAUfcuZsj66etC9NXL6"
@@ -9174,7 +9296,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-09",
+      "date_removed": null,
       "duration_ms": 96000,
       "name": "Omega",
       "url": "https://open.spotify.com/track/4s2oHgm5XcnSgEHPJYNMMA"
@@ -9454,7 +9576,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-28",
+      "date_removed": null,
       "duration_ms": 136778,
       "name": "PASODOBLE",
       "url": "https://open.spotify.com/track/7sEkenTzNgk2begN3tfZDb"
@@ -10594,7 +10716,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 174994,
       "name": "ROMAN EMPIRE!",
       "url": "https://open.spotify.com/track/08VCLpjhrKQbKlF50kq8MK"
@@ -10634,7 +10756,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 98354,
       "name": "rosas para disimular",
       "url": "https://open.spotify.com/track/0ZKymkhUM0BMlJUcAr0jSQ"
@@ -11018,7 +11140,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 142151,
       "name": "Sed",
       "url": "https://open.spotify.com/track/1vUjjjIFNHmcD7IBBAGM6e"
@@ -11348,7 +11470,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 116800,
       "name": "SMiNT!",
       "url": "https://open.spotify.com/track/3xwJrlYg4NTgHlHCjOoUI4"
@@ -11454,7 +11576,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 125305,
       "name": "Sola Perdida",
       "url": "https://open.spotify.com/track/2kId9NwyIaQb7u1QK6ZgVm"
@@ -11964,7 +12086,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 131463,
       "name": "TALK 2 ME",
       "url": "https://open.spotify.com/track/7DZlLYICF5WzmbaOqccMzM"
@@ -12644,7 +12766,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 117333,
       "name": "Tu Loko",
       "url": "https://open.spotify.com/track/2lyMpsecvBhMmX25EkHGaY"
@@ -13264,7 +13386,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 178536,
       "name": "Volver Con Mi Ex",
       "url": "https://open.spotify.com/track/6x7bITUOfSa6me2QSAp17t"
@@ -13876,7 +13998,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-12",
       "duration_ms": 106321,
       "name": "\u00bfCuanto va a pasar?",
       "url": "https://open.spotify.com/track/49sJgB0Q4SMjRPUS0jdoDs"

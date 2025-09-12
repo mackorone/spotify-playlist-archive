@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 👌 Tech house operators, featuring ALVES
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,079 likes - 125 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,150 likes - 125 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [Break That](https://open.spotify.com/track/0v9DhX3OjnPZzGyQmGUvJR) | [N2N](https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5) | [Break That](https://open.spotify.com/album/0Ye03Hgzpym1f5ReuVVhoe) | 2:24 |
 | 125 | [Mimetic](https://open.spotify.com/track/5wh23KnlcMdo2fA1roJVpS) | [Nari & Milani](https://open.spotify.com/artist/663f33ecwH8fNpgjNpHdrX) | [Mimetic](https://open.spotify.com/album/6dYfq5hfHrlmNd7AGQIf0g) | 2:34 |
 
-Snapshot ID: `AAAAACdLqiqEyEETNSeXB8/9ORy1kCS8`
+Snapshot ID: `AAAAACmzLCvx5MeMk94K0+EsdGwbeeTH`

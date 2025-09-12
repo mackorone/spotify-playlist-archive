@@ -2,7 +2,7 @@
 
 ### [Electronic Rising](https://open.spotify.com/playlist/37i9dQZF1DX8AliSIsGeKd)
 
-> The best new electronic music\. Cover: Monolink
+> The best new electronic music\. Cover: Natascha Polké
 
 5,842 songs - 20 day 9 hr 3 min
 

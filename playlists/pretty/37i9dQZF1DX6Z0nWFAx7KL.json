@@ -1,6 +1,6 @@
 {
   "description": "easy breezy summer 2025 \u2600\ufe0f\u263a\ufe0f",
-  "num_followers": 169263,
+  "num_followers": 169264,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
@@ -183,26 +183,6 @@
     {
       "added_at": "2025-09-10 22:00:24",
       "album": {
-        "name": "As It Was (Chill Edit)",
-        "url": "https://open.spotify.com/album/4xxolV9UD43C5JcWhEAbOT"
-      },
-      "artists": [
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 134693,
-      "name": "As It Was - Chill Edit",
-      "url": "https://open.spotify.com/track/6S9wjjJhcaWR7urRwNFDUZ"
-    },
-    {
-      "added_at": "2025-09-10 22:00:24",
-      "album": {
         "name": "Under The Same Sun",
         "url": "https://open.spotify.com/album/309NyVvA8HXRov57v0PMaP"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 157500,
       "name": "Under The Same Sun",
       "url": "https://open.spotify.com/track/6jaHe3gyK9hS6DYpmvVlam"
+    },
+    {
+      "added_at": "2025-09-10 22:00:24",
+      "album": {
+        "name": "As It Was (Chill Edit)",
+        "url": "https://open.spotify.com/album/4xxolV9UD43C5JcWhEAbOT"
+      },
+      "artists": [
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 134693,
+      "name": "As It Was - Chill Edit",
+      "url": "https://open.spotify.com/track/6S9wjjJhcaWR7urRwNFDUZ"
     },
     {
       "added_at": "2025-09-10 22:00:24",
@@ -351,30 +351,6 @@
     {
       "added_at": "2025-09-10 22:00:24",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2gfGTqZZLEmn9ATxYef7Xa"
-      },
-      "artists": [
-        {
-          "name": "Carston",
-          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
-        },
-        {
-          "name": "Arthur",
-          "url": "https://open.spotify.com/artist/79N6rjBT1it5T9yDObqFF3"
-        },
-        {
-          "name": "Nate VanDeusen",
-          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
-        }
-      ],
-      "duration_ms": 138305,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4JZ6Elf98LpgS4zgK4vGqT"
-    },
-    {
-      "added_at": "2025-09-10 22:00:24",
-      "album": {
         "name": "Alone With You",
         "url": "https://open.spotify.com/album/7Jq86ZKuOyQSRTEI0UzAhe"
       },
@@ -399,22 +375,46 @@
     {
       "added_at": "2025-09-10 22:00:24",
       "album": {
-        "name": "Lately",
-        "url": "https://open.spotify.com/album/4yvA9kj2sxiSkD4CK4vNYY"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2gfGTqZZLEmn9ATxYef7Xa"
       },
       "artists": [
         {
-          "name": "july",
-          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
         },
         {
-          "name": "Chilled Virus",
-          "url": "https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM"
+          "name": "Arthur",
+          "url": "https://open.spotify.com/artist/79N6rjBT1it5T9yDObqFF3"
+        },
+        {
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
         }
       ],
-      "duration_ms": 145573,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/5SAHh4L4iGDtVMV8aOpoBY"
+      "duration_ms": 138305,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4JZ6Elf98LpgS4zgK4vGqT"
+    },
+    {
+      "added_at": "2025-09-10 22:00:24",
+      "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/2UNpZByJYcRTCNRSeUqst0"
+      },
+      "artists": [
+        {
+          "name": "Dela Utca",
+          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
+        },
+        {
+          "name": "chameleon",
+          "url": "https://open.spotify.com/artist/5H61giTnrSTMQd1Pl0tKNB"
+        }
+      ],
+      "duration_ms": 133565,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/51FFmeDLNlJUkueFkjtzxY"
     },
     {
       "added_at": "2025-09-10 22:00:24",
@@ -483,22 +483,22 @@
     {
       "added_at": "2025-09-10 22:00:24",
       "album": {
-        "name": "Electric",
-        "url": "https://open.spotify.com/album/2UNpZByJYcRTCNRSeUqst0"
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/4yvA9kj2sxiSkD4CK4vNYY"
       },
       "artists": [
         {
-          "name": "Dela Utca",
-          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
+          "name": "july",
+          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
         },
         {
-          "name": "chameleon",
-          "url": "https://open.spotify.com/artist/5H61giTnrSTMQd1Pl0tKNB"
+          "name": "Chilled Virus",
+          "url": "https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM"
         }
       ],
-      "duration_ms": 133565,
-      "name": "Electric",
-      "url": "https://open.spotify.com/track/51FFmeDLNlJUkueFkjtzxY"
+      "duration_ms": 145573,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/5SAHh4L4iGDtVMV8aOpoBY"
     },
     {
       "added_at": "2025-09-10 22:00:24",
@@ -527,22 +527,18 @@
     {
       "added_at": "2025-09-10 22:00:24",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/0jdfbyi8o26wYeT5ZMHN0X"
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/1xH1qluXzXDhZFeaIUx5ud"
       },
       "artists": [
         {
-          "name": "Toby Rose",
-          "url": "https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ"
-        },
-        {
-          "name": "Jay Mason",
-          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
+          "name": "Mondingo",
+          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
         }
       ],
-      "duration_ms": 137566,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/5AjkecsmTEd5H8vvLFgz7F"
+      "duration_ms": 213558,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/1PwlrZradTFeRQg23BUZyv"
     },
     {
       "added_at": "2025-09-10 22:00:24",
@@ -571,18 +567,22 @@
     {
       "added_at": "2025-09-10 22:00:24",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/1xH1qluXzXDhZFeaIUx5ud"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/0jdfbyi8o26wYeT5ZMHN0X"
       },
       "artists": [
         {
-          "name": "Mondingo",
-          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
+          "name": "Toby Rose",
+          "url": "https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ"
+        },
+        {
+          "name": "Jay Mason",
+          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
         }
       ],
-      "duration_ms": 213558,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/1PwlrZradTFeRQg23BUZyv"
+      "duration_ms": 137566,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/5AjkecsmTEd5H8vvLFgz7F"
     },
     {
       "added_at": "2025-09-10 22:00:24",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-09-10 22:00:24",
       "album": {
-        "name": "Be With You",
-        "url": "https://open.spotify.com/album/2mj6qAdEZhnE295tKXdhW7"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien Lintz",
-          "url": "https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z"
-        }
-      ],
-      "duration_ms": 147839,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/7MDbQebDqfKMG3INjyKE5o"
-    },
-    {
-      "added_at": "2025-09-10 22:00:24",
-      "album": {
         "name": "Trampolines",
         "url": "https://open.spotify.com/album/6P3wd3aFVwuwF3tYbzCskk"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 242500,
       "name": "The Sun Will Come Again",
       "url": "https://open.spotify.com/track/77sqWKCdxGlxjEmJn3fg9F"
+    },
+    {
+      "added_at": "2025-09-10 22:00:24",
+      "album": {
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/2mj6qAdEZhnE295tKXdhW7"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Lintz",
+          "url": "https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z"
+        }
+      ],
+      "duration_ms": 147839,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/7MDbQebDqfKMG3INjyKE5o"
     },
     {
       "added_at": "2025-09-10 22:00:24",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-09-10 22:00:24",
       "album": {
-        "name": "You Have To Have A Goal",
-        "url": "https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien Lintz",
-          "url": "https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z"
-        }
-      ],
-      "duration_ms": 133924,
-      "name": "You Have To Have A Goal",
-      "url": "https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E"
-    },
-    {
-      "added_at": "2025-09-10 22:00:24",
-      "album": {
         "name": "Momentum",
         "url": "https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8"
       },
@@ -799,22 +783,38 @@
     {
       "added_at": "2025-09-10 22:00:24",
       "album": {
-        "name": "Far Beyond",
-        "url": "https://open.spotify.com/album/13M6DYmjgXDJUUdvsTSYW5"
+        "name": "You Have To Have A Goal",
+        "url": "https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX"
       },
       "artists": [
         {
-          "name": "Munch",
-          "url": "https://open.spotify.com/artist/4FX0r1sSgM9LzQdx5rgWft"
-        },
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+          "name": "S\u00e9bastien Lintz",
+          "url": "https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z"
         }
       ],
-      "duration_ms": 137993,
-      "name": "Far Beyond",
-      "url": "https://open.spotify.com/track/048ZVt7BfDpFoTORcDKRJA"
+      "duration_ms": 133924,
+      "name": "You Have To Have A Goal",
+      "url": "https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E"
+    },
+    {
+      "added_at": "2025-09-10 22:00:24",
+      "album": {
+        "name": "Sandcastles",
+        "url": "https://open.spotify.com/album/6F0zU7azVF6bzG0rVznJKk"
+      },
+      "artists": [
+        {
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Sandcastles",
+      "url": "https://open.spotify.com/track/6NmYcN4cJaFC43i3po2O1r"
     },
     {
       "added_at": "2025-09-10 22:00:24",
@@ -839,22 +839,22 @@
     {
       "added_at": "2025-09-10 22:00:24",
       "album": {
-        "name": "Sandcastles",
-        "url": "https://open.spotify.com/album/6F0zU7azVF6bzG0rVznJKk"
+        "name": "Far Beyond",
+        "url": "https://open.spotify.com/album/13M6DYmjgXDJUUdvsTSYW5"
       },
       "artists": [
         {
-          "name": "Nate VanDeusen",
-          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+          "name": "Munch",
+          "url": "https://open.spotify.com/artist/4FX0r1sSgM9LzQdx5rgWft"
         },
         {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Sandcastles",
-      "url": "https://open.spotify.com/track/6NmYcN4cJaFC43i3po2O1r"
+      "duration_ms": 137993,
+      "name": "Far Beyond",
+      "url": "https://open.spotify.com/track/048ZVt7BfDpFoTORcDKRJA"
     },
     {
       "added_at": "2025-09-10 22:00:24",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2025-09-10 22:00:24",
       "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/2GmPo1t1eRB47964nvvJAl"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        },
+        {
+          "name": "Belle Doron",
+          "url": "https://open.spotify.com/artist/0vG28tQeh1adA0xHmdUTVQ"
+        }
+      ],
+      "duration_ms": 182862,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4HEggPhcyKQGzHLsgfs9my"
+    },
+    {
+      "added_at": "2025-09-10 22:00:24",
+      "album": {
         "name": "Iawah",
         "url": "https://open.spotify.com/album/3xGdWWsFebqULLTKXBvlqt"
       },
@@ -1147,26 +1167,6 @@
     {
       "added_at": "2025-09-10 22:00:24",
       "album": {
-        "name": "Magnetic",
-        "url": "https://open.spotify.com/album/2GmPo1t1eRB47964nvvJAl"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        },
-        {
-          "name": "Belle Doron",
-          "url": "https://open.spotify.com/artist/0vG28tQeh1adA0xHmdUTVQ"
-        }
-      ],
-      "duration_ms": 182862,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4HEggPhcyKQGzHLsgfs9my"
-    },
-    {
-      "added_at": "2025-09-10 22:00:24",
-      "album": {
         "name": "Mad World",
         "url": "https://open.spotify.com/album/3wZDSM5YjFkW4rdT9VCvhT"
       },
@@ -1179,6 +1179,26 @@
       "duration_ms": 204297,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/7v976kIGJsqOaqmK54aZuJ"
+    },
+    {
+      "added_at": "2025-09-10 22:00:24",
+      "album": {
+        "name": "Morning Glory",
+        "url": "https://open.spotify.com/album/1mUAhoAG05i5MK5ZFFcVUR"
+      },
+      "artists": [
+        {
+          "name": "Mondingo",
+          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
+        },
+        {
+          "name": "Monoko",
+          "url": "https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI"
+        }
+      ],
+      "duration_ms": 269679,
+      "name": "Morning Glory",
+      "url": "https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV"
     },
     {
       "added_at": "2025-09-10 22:00:24",
@@ -1199,26 +1219,6 @@
       "duration_ms": 164125,
       "name": "That Kinda Love",
       "url": "https://open.spotify.com/track/6xaKJufSjgKoYlJt2UNnLx"
-    },
-    {
-      "added_at": "2025-09-10 22:00:24",
-      "album": {
-        "name": "Can't Stop Thinking",
-        "url": "https://open.spotify.com/album/1BlrF6cvnYpn6F5UUVtC7E"
-      },
-      "artists": [
-        {
-          "name": "SIQUE",
-          "url": "https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB"
-        },
-        {
-          "name": "Safe Wave",
-          "url": "https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6"
-        }
-      ],
-      "duration_ms": 146730,
-      "name": "Can't Stop Thinking",
-      "url": "https://open.spotify.com/track/2myJ5PdhaDCRV2KUUIDEr6"
     }
   ],
   "unique_name": "Chill Dance",

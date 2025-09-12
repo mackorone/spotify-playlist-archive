@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69437,
+  "num_followers": 69440,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aL9uAAAAAABhgBWtRK2nIZpvUDg+8WFy",
+  "snapshot_id": "aMC/gAAAAABKjEZWAzHV107m49YseA9A",
   "tracks": [
     {
       "added_at": null,
@@ -1011,34 +1011,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fantasia Sexual",
-        "url": "https://open.spotify.com/album/1lf70hdVQoWSntSmDE738c"
+        "name": "Sin Ropa",
+        "url": "https://open.spotify.com/album/0f18VhfbW22pyrX6l4MIjX"
       },
       "artists": [
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Revol",
-          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 253469,
-      "name": "Fantasia Sexual",
-      "url": "https://open.spotify.com/track/2Gbdc2PNfE5tXu9ujCxEiQ"
+      "duration_ms": 155390,
+      "name": "Sin Ropa",
+      "url": "https://open.spotify.com/track/09HSL5vRZgxXmoSrDVKMDB"
     },
     {
       "added_at": null,
@@ -1067,18 +1051,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Ropa",
-        "url": "https://open.spotify.com/album/0f18VhfbW22pyrX6l4MIjX"
+        "name": "Fantasia Sexual",
+        "url": "https://open.spotify.com/album/1lf70hdVQoWSntSmDE738c"
       },
       "artists": [
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Revol",
+          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 155390,
-      "name": "Sin Ropa",
-      "url": "https://open.spotify.com/track/09HSL5vRZgxXmoSrDVKMDB"
+      "duration_ms": 253469,
+      "name": "Fantasia Sexual",
+      "url": "https://open.spotify.com/track/2Gbdc2PNfE5tXu9ujCxEiQ"
     },
     {
       "added_at": null,

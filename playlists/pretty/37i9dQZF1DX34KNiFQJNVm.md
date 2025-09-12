@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Cabelinho, Natanzinho Lima, Hugo & Guilherme e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,152,797 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,153,002 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 29 | [Copo Americano \- Ao Vivo](https://open.spotify.com/track/1aa7JYKv7Q5K8ARjGe3aAn) | [Abel e Benício](https://open.spotify.com/artist/53ealWeLbd46JtRUBRBJlE) | [Certas Manias \(Ao Vivo\)](https://open.spotify.com/album/7cOc7zcgyPavA5UbIZKexE) | 2:34 |
 | 30 | [Keep Running Feat\. Olive](https://open.spotify.com/track/6t8SA5VZSxz0mMQvKpRd1x) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Brieuc](https://open.spotify.com/artist/7d7HOtUUHD4P5aZaeYTQf4), [Olive](https://open.spotify.com/artist/4d4czVhvwZ2vTH0fdsoSVF) | [Keep Running Feat\. Olive](https://open.spotify.com/album/28VgMG9BA5oekeppwFq5Zr) | 2:32 |
 | 31 | [GASOLINA](https://open.spotify.com/track/6km3xj1qXL5S1kinBNXKXy) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3) | [MUCHO SEXY](https://open.spotify.com/album/3mg0rt1WlfjJJi2KvJlhKV) | 3:05 |
-| 32 | [To de Volta](https://open.spotify.com/track/3gQg7tlLIiS690ouLzHfhh) | [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [SonicRunner](https://open.spotify.com/artist/08xIdpXzOCDtD818fscdz3), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [Kiell](https://open.spotify.com/artist/3jpsSxB4of8g21nPiFbYT0), [Sound Box](https://open.spotify.com/artist/6HMqsJdKF6fs0ojCsQnGTI) | [To de Volta](https://open.spotify.com/album/7C9klHybFKYMVtGg3Wobf1) | 2:02 |
+| 32 | [To de Volta](https://open.spotify.com/track/3gQg7tlLIiS690ouLzHfhh) | [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Kiell](https://open.spotify.com/artist/3jpsSxB4of8g21nPiFbYT0), [SonicRunner](https://open.spotify.com/artist/08xIdpXzOCDtD818fscdz3), [Sound Box](https://open.spotify.com/artist/6HMqsJdKF6fs0ojCsQnGTI), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH) | [To de Volta](https://open.spotify.com/album/7C9klHybFKYMVtGg3Wobf1) | 2:02 |
 | 33 | [Fórmula do Sucesso](https://open.spotify.com/track/4S54wwgItFWAHiMrNmjaTi) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Vidal](https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI) | [Fórmula do Sucesso](https://open.spotify.com/album/1MqZUvwv3IVNVt9DMy5NWK) | 2:22 |
 | 34 | [Tiramisu](https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Tiramisu](https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3) | 2:18 |
 | 35 | [Sinopse](https://open.spotify.com/track/52NRuwUkXByg4dk99RbraN) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Sinopse](https://open.spotify.com/album/0xJrF4kjy8wwsjT0Nt3W3e) | 3:21 |

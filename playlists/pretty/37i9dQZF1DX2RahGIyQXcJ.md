@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of Desi Hip\-Hop! Cover: DIVINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,500 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,559 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 58 | [Maharani](https://open.spotify.com/track/7unLxuzKpxbjASww1qi4br) | [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y), [Arpit Bala](https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9), [GHILDIYAL](https://open.spotify.com/artist/19oE1SHCKszlQciGXQGtbW) | [Maharani](https://open.spotify.com/album/6da96K6wuRyf61We22UBPe) | 6:29 |
 | 59 | [I Guess](https://open.spotify.com/track/0OxG3hlJNNzXcSrNVXEu8f) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [I Guess](https://open.spotify.com/album/7eDGcL0rxILbzih7x51fMk) | 3:06 |
 | 60 | [Lock](https://open.spotify.com/track/6MOzgX8Rj8TpWhG7bd4ZWp) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Lock](https://open.spotify.com/album/26w8VWnNdWUcF5rRZc2rrZ) | 2:55 |
-| 61 | [GOAT SHIT](https://open.spotify.com/track/2TElxFZeWPs9DhQGZWh6Oa) | [KING](https://open.spotify.com/artist/2D6VatUrBCa9y4vmZNm3BI), [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [GOAT SHIT](https://open.spotify.com/album/6VpwWq8ScclabGnlL6JqJT) | 3:51 |
+| 61 | [GOAT SHIT](https://open.spotify.com/track/2TElxFZeWPs9DhQGZWh6Oa) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [GOAT SHIT](https://open.spotify.com/album/6VpwWq8ScclabGnlL6JqJT) | 3:51 |
 | 62 | [410](https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Offgrid](https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y) | [410](https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe) | 3:54 |
 | 63 | [Vartmaan](https://open.spotify.com/track/20slSXvCF6j6Zp3WMqmyfQ) | [UNIYAL](https://open.spotify.com/artist/0EdBUkJHdLP4GGx3EN8AH0), [Soumya Rawat](https://open.spotify.com/artist/7m8OhaTNCBhSp616MhhOMY) | [Nanda Devi Express](https://open.spotify.com/album/00fpo2S0GkfGGpk0dpm19b) | 1:58 |
 | 64 | [](https://open.spotify.com/track/7cVe3mYMIfhOlz1NXFWv70) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 0:00 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 71 | [Different Kinda Hyderabadi \[DKH\]](https://open.spotify.com/track/2pxr4j23Gwvjm6TQbyYU5O) | [Nio Endo](https://open.spotify.com/artist/4pEqatZJxCL2Lxb1wNhglR), [FIREBOY](https://open.spotify.com/artist/7vJedHr307srzF8IeAKWML) | [Different Kinda Hyderabadi \[DKH\]](https://open.spotify.com/album/3UNkctOEXdX2Rak9u8e6ed) | 2:39 |
 | 72 | [No Peace In Love](https://open.spotify.com/track/7q35Cd6mgVfZfeTfzki0ij) | [SACAR aka Lil Buddha](https://open.spotify.com/artist/2KDTINgANslhPVBfLpNlz0) | [Ecstasy In The Palace](https://open.spotify.com/album/3YkvKqJyYAiFaBbpQPDyiw) | 2:24 |
 | 73 | [REAL SHI](https://open.spotify.com/track/4Ox50ESB2MQlybbU0HEHZF) | [OtaaL](https://open.spotify.com/artist/2EsJnc4nxzib2w52GbJfzO), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [NO REMORSE](https://open.spotify.com/album/1kAlPyvPOUkphqKNBvfnjS) | 2:29 |
-| 74 | [KODAK](https://open.spotify.com/track/3e1g159cSgose2jHQj9uzd) | [KING](https://open.spotify.com/artist/2D6VatUrBCa9y4vmZNm3BI), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [KODAK](https://open.spotify.com/album/3PzVNvVBZ8MnyGyWl2A3CC) | 6:03 |
+| 74 | [KODAK](https://open.spotify.com/track/3e1g159cSgose2jHQj9uzd) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [KODAK](https://open.spotify.com/album/3PzVNvVBZ8MnyGyWl2A3CC) | 6:03 |
 | 75 | [BANK ON THIS MF](https://open.spotify.com/track/1OGC4CfH72yjvtM5dFteUj) | [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [Hisab](https://open.spotify.com/artist/5hUQdeBxFRCATjJnUo5Jdx) | [BANK ON THIS MF](https://open.spotify.com/album/3MeY8t0atlVZN8lxPfdPR4) | 3:33 |
 
 Snapshot ID: `AAAAAPVc5FjarHwBCt/rRMKC5svGr1pC`

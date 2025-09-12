@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: 소이에 \(soye\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
+> All about Korean Jazz hits & new \(Cover: Park Ki Hun\(박기훈\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-268 songs - 18 hr 45 min
+270 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Shining](https://open.spotify.com/track/3Sg4sRL1ng6zcDnidYlYR0) | [Sarang You](https://open.spotify.com/artist/5TJNvnHYtvyrHdHZ7pwOXl), [Daewon Lee](https://open.spotify.com/artist/4UeorDtRRqdtpAcfhFFv3e), [Jumi Lee](https://open.spotify.com/artist/2n9DanObvlDaaN7wF86dgz) | [Shining](https://open.spotify.com/album/2Bt7cKZLbBQig4co3MvSsF) | 3:41 | 2023-03-31 | 2024-11-07 |
 | [Silent Night \(feat\. Eric Legnini\)](https://open.spotify.com/track/62behM9myudBxLIMSS6CR7) | [Youn Sun Nah](https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi) | [Silent Night \(feat\. Eric Legnini\)](https://open.spotify.com/album/5r7Oqf8S9Yd1TCRTGwtGNu) | 4:40 | 2025-04-03 |  |
 | [Skylark](https://open.spotify.com/track/7JwIhlzMnaDVhPP2ss6cc0) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD) | [I Wished On The Moon](https://open.spotify.com/album/5ZdhKqmiyAHWMTKxljrK8d) | 4:51 | 2023-10-11 | 2024-12-18 |
+| [Sleepy \(Feat\. paulkyte\)](https://open.spotify.com/track/5d57dsBRU85OiDkJnPktgw) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR), [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Park's Mood](https://open.spotify.com/album/6WePQz4TECRBySr3pldSwe) | 3:19 | 2025-09-11 |  |
 | [Soft Serenade](https://open.spotify.com/track/2kakhlsfdppnzXRGgZuRGf) | [Green Pulse](https://open.spotify.com/artist/4GdPbBDa4FCCyWWVxeoO0P) | [Soft Serenade](https://open.spotify.com/album/5QWLLTpUyVUjXqJV19wicG) | 3:11 | 2025-05-07 |  |
 | [SoftSwing](https://open.spotify.com/track/5OobhUbz1chveKKwUwwhYO) | [LeoSky](https://open.spotify.com/artist/2fz0R4dgBTTnSR3G7nrO0G) | [Soft Swing Jazz Piano](https://open.spotify.com/album/3S4bCzZKDnDykoadEVoA7S) | 2:34 | 2024-10-27 |  |
 | [Sonny](https://open.spotify.com/track/3Y8iNszws9u6tTSvCrTPae) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Sonny](https://open.spotify.com/album/6ZOZBe9jNHKFwe4XyU38uY) | 3:24 | 2022-05-03 | 2022-05-19 |
@@ -249,6 +250,7 @@
 | [Waltz For Baby\(I\)](https://open.spotify.com/track/1VoJvHIlBEKwzDxpvvJhNB) | [Nokyung Lee](https://open.spotify.com/artist/4xK66lFkraZU5FaIO3dugT) | [A Child Is Born](https://open.spotify.com/album/5qqsRg5gpMo4ZG3gdXH9Fq) | 3:43 | 2022-05-03 | 2022-05-19 |
 | [welcoming the moon trip](https://open.spotify.com/track/0PxQ9PisOytpkqMEngzDgk) | [dongyi](https://open.spotify.com/artist/6KBuSEyXlphYJhk7vGAZYU) | [welcoming the moon trip](https://open.spotify.com/album/2nfCnfYJrLPPYWAqmapxer) | 4:24 | 2023-02-07 | 2024-11-07 |
 | [What A Wonderful Blue Night](https://open.spotify.com/track/53fCbojK6JJjYvaMdToit0) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [Journey](https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES) | 4:56 | 2024-02-15 | 2024-11-07 |
+| [What A Wonderful Blue Night \(Feat\. Yun Seokcheol\) \- Bossanova Ver.](https://open.spotify.com/track/0QoGXe1zRzvNsOwbZ3dma6) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR), [Yun Seokcheol](https://open.spotify.com/artist/2CducdjCN6kUjcecP0U5we) | [Park's Mood](https://open.spotify.com/album/6WePQz4TECRBySr3pldSwe) | 3:04 | 2025-09-11 |  |
 | [When I Walk With You](https://open.spotify.com/track/5H5OTHVVhooNowDREHiW3u) | [jazzer](https://open.spotify.com/artist/6xgHk3IjlYwNlFYYiTEteb) | [When I Walk With You](https://open.spotify.com/album/3BvIjh41QjAQHF3eTmjSD5) | 3:00 | 2023-02-07 | 2024-11-07 |
 | [WHITE \(Feat\. Chan, jeebanoff, sannie\)](https://open.spotify.com/track/5sOlHrTu1dI5EhKfRNki9a) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV), [sannie](https://open.spotify.com/artist/7DzAtAzBPwXAbnwVWoo6sb) | [WHITE](https://open.spotify.com/album/71gK8qbtaxgdT9ilAKFLZK) | 4:25 | 2024-12-17 |  |
 | [White Christmas](https://open.spotify.com/track/34jFiBvQltG35fneRLMMQM) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF) | [2022 Christmas VIBE \- Kangziwon](https://open.spotify.com/album/0VAvIdy18d508PtgsUA5bG) | 4:17 | 2023-02-07 | 2024-11-07 |

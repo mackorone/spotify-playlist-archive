@@ -1,13 +1,33 @@
 {
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Masdddho",
-  "num_followers": 221635,
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Vadesta",
+  "num_followers": 221709,
   "original_name": "Boso Jowo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL+z/OBkQ5ccVAGzZf0X5A99Hq6T",
+  "snapshot_id": "AAAAADXfl+l/RaWtUSA8iP9K93FtLHqD",
   "tracks": [
+    {
+      "added_at": "2025-09-11 17:00:18",
+      "album": {
+        "name": "Sampeyan",
+        "url": "https://open.spotify.com/album/3RjDWLA3kZod405bGn7x8x"
+      },
+      "artists": [
+        {
+          "name": "Vadesta",
+          "url": "https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO"
+        },
+        {
+          "name": "Destya Eka",
+          "url": "https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2"
+        }
+      ],
+      "duration_ms": 343000,
+      "name": "Sampeyan",
+      "url": "https://open.spotify.com/track/0HODYghtMn99N7189LLFWI"
+    },
     {
       "added_at": "2025-09-04 17:37:18",
       "album": {
@@ -23,6 +43,62 @@
       "duration_ms": 262353,
       "name": "IWAK LOUHAN",
       "url": "https://open.spotify.com/track/5CIa75EuBQ3uiOJctLM9Q5"
+    },
+    {
+      "added_at": "2025-09-12 03:09:47",
+      "album": {
+        "name": "Lalekno (New Version)",
+        "url": "https://open.spotify.com/album/3cqSmz3sVPPgKWT9d6WVxR"
+      },
+      "artists": [
+        {
+          "name": "Imogiri Boys",
+          "url": "https://open.spotify.com/artist/53RErsdDMlGlugJZyYvae3"
+        },
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        },
+        {
+          "name": "GMLT",
+          "url": "https://open.spotify.com/artist/1ZzwhODUHoaPl3Xt3d9xx6"
+        }
+      ],
+      "duration_ms": 240096,
+      "name": "Lalekno - New Version",
+      "url": "https://open.spotify.com/track/5zPtFLKtxS9fhIIjnKX95F"
+    },
+    {
+      "added_at": "2025-09-12 01:34:28",
+      "album": {
+        "name": "Sabar (Sinau Bareng)",
+        "url": "https://open.spotify.com/album/7h9IP156OsoCug4bZnInLN"
+      },
+      "artists": [
+        {
+          "name": "Sadewok",
+          "url": "https://open.spotify.com/artist/5EkOo7TpmDN9Uz5wvxDyGe"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Sabar (Sinau Bareng)",
+      "url": "https://open.spotify.com/track/1jOASJ1rcIzVvX4QB1z7ze"
+    },
+    {
+      "added_at": "2025-09-12 01:34:28",
+      "album": {
+        "name": "Mencintai Dengan Ngeyel",
+        "url": "https://open.spotify.com/album/6GraNh74uCPWz2uCALkLmr"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "duration_ms": 262721,
+      "name": "Mencintai Dengan Ngeyel",
+      "url": "https://open.spotify.com/track/5vIc8msfVqULYtl2D0x7AP"
     },
     {
       "added_at": "2025-09-04 17:37:18",
@@ -113,6 +189,22 @@
       "url": "https://open.spotify.com/track/3Pelf4g0PhBY8Qf9Xdcebr"
     },
     {
+      "added_at": "2025-09-12 01:36:16",
+      "album": {
+        "name": "Denny Caknan: Live at ZEPP Kuala Lumpur",
+        "url": "https://open.spotify.com/album/3ghdTfXuLekdikteuBPK1f"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "LDR \"Langgeng Dayaning Rasa\"",
+      "url": "https://open.spotify.com/track/4EFN4pbT0KXhEfW0vlpUwH"
+    },
+    {
       "added_at": "2025-09-04 17:37:18",
       "album": {
         "name": "Nompo",
@@ -159,6 +251,22 @@
       "duration_ms": 372000,
       "name": "NGENTENI",
       "url": "https://open.spotify.com/track/2E7GrU5WTdKfqH1QsbggCs"
+    },
+    {
+      "added_at": "2025-09-12 01:36:16",
+      "album": {
+        "name": "Dumes",
+        "url": "https://open.spotify.com/album/5Xj7sJnGkHOSMIJWmoSsT0"
+      },
+      "artists": [
+        {
+          "name": "Yeni Inka",
+          "url": "https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv"
+        }
+      ],
+      "duration_ms": 274590,
+      "name": "Dumes",
+      "url": "https://open.spotify.com/track/155nJY9fhbJlFQWYavphQB"
     },
     {
       "added_at": "2025-09-04 17:37:18",

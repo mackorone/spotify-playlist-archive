@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124983,
+  "num_followers": 124985,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUkeivCrb1mgH3Qf2IL5CARPCQ8cIB",
+  "snapshot_id": "AAAUkjmWv2dnGyuAQF8VjGKFFFGIV+YZ",
   "tracks": [
+    {
+      "added_at": "2025-09-11 14:41:37",
+      "album": {
+        "name": "Surround Me",
+        "url": "https://open.spotify.com/album/6R4BEvUHqgGASLcvpnbamM"
+      },
+      "artists": [
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "duration_ms": 197563,
+      "name": "Surround Me",
+      "url": "https://open.spotify.com/track/51I5TnEKANW1F8I5MiTc83"
+    },
     {
       "added_at": "2025-09-10 15:05:36",
       "album": {

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec Charlotte Cardin
+> Les meilleures nouveautés de la variété française avec SANTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,789 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,817 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [Marche ou rêve](https://open.spotify.com/track/3m2VVaBylHoKBngpUflwUM) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Marche ou rêve](https://open.spotify.com/album/7kS5ShCz4QHayBwumXSdUO) | 3:17 |
 | 50 | [100 carats](https://open.spotify.com/track/4hAGPz2id9RX7uR3LivZDY) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Pas assez](https://open.spotify.com/album/2DCQMP7XbkkqzaQO38wFtj) | 2:44 |
 
-Snapshot ID: `AAAAABP6+VLKS45c2sehKT5Y40asBZv7`
+Snapshot ID: `AAAAAAmp/ElVYjda/evKm6Bu+K+Af3b0`
