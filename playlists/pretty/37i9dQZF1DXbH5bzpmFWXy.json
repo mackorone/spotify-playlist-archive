@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... El Malilla en portada.",
-  "num_followers": 289061,
+  "num_followers": 289046,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2025-09-05 17:52:07",
       "album": {
+        "name": "Sold Out",
+        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 198036,
+      "name": "Sold Out",
+      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
+    },
+    {
+      "added_at": "2025-09-05 17:52:07",
+      "album": {
         "name": "La Cagu\u00e9",
         "url": "https://open.spotify.com/album/74gVdaDvYpQF91s7e8eIAN"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 240000,
       "name": "La Cagu\u00e9",
       "url": "https://open.spotify.com/track/2HcRbiUHQZ8NSvYhUgRfC9"
-    },
-    {
-      "added_at": "2025-09-05 17:52:07",
-      "album": {
-        "name": "Sold Out",
-        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 198036,
-      "name": "Sold Out",
-      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
     },
     {
       "added_at": "2025-09-05 17:52:07",

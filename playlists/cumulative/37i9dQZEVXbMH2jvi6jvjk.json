@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 317675,
       "name": "Abasemzini",
       "url": "https://open.spotify.com/track/0CJJt0J9SOscYKzETJ0p4d"
@@ -16168,7 +16168,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 238120,
       "name": "Folded",
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
@@ -20173,6 +20173,32 @@
     },
     {
       "album": {
+        "name": "HOTSPOT",
+        "url": "https://open.spotify.com/album/1Mwp6DY06lVMoCLssjWnfE"
+      },
+      "artists": [
+        {
+          "name": "Kharishma",
+          "url": "https://open.spotify.com/artist/5ln4EWpJqQZEWXAlSNTtVz"
+        },
+        {
+          "name": "DJ Angelo",
+          "url": "https://open.spotify.com/artist/0kGC3Hj3caYAKD6R8rUnmT"
+        },
+        {
+          "name": "Buddy Sax",
+          "url": "https://open.spotify.com/artist/0g3kKdweX3nXMy3VQTQZ7h"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297197,
+      "name": "HOTSPOT",
+      "url": "https://open.spotify.com/track/3Vx27UVwW4PnxIk9GqQArH"
+    },
+    {
+      "album": {
         "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
         "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
       },
@@ -23979,6 +24005,32 @@
     },
     {
       "album": {
+        "name": "Izinkinga Zami (feat. SG MusiQ)",
+        "url": "https://open.spotify.com/album/7GKVqDgJwdA8gGD6NNyRli"
+      },
+      "artists": [
+        {
+          "name": "Mluh",
+          "url": "https://open.spotify.com/artist/2bavf3dLjihyCssEXzJrSA"
+        },
+        {
+          "name": "Thoby Dladla",
+          "url": "https://open.spotify.com/artist/0kyaZ9bi9LIKEqRhpZssLo"
+        },
+        {
+          "name": "SG MusiQ",
+          "url": "https://open.spotify.com/artist/0FAM9jpB9wPPb68FnjqKpA"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357966,
+      "name": "Izinkinga Zami (feat. SG MusiQ)",
+      "url": "https://open.spotify.com/track/45oRgTSNn47SIa0st2CD69"
+    },
+    {
+      "album": {
         "name": "Pisces",
         "url": "https://open.spotify.com/album/4Pm1wUaG1aOuIy8V8ARqtc"
       },
@@ -26298,7 +26350,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 296097,
       "name": "Kukwandlwane",
       "url": "https://open.spotify.com/track/3UiFU9AwSvqHtQ6yieWirL"
@@ -34344,7 +34396,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 260153,
       "name": "Nginsizwa",
       "url": "https://open.spotify.com/track/2lc0fz3gYbkNBK4rgJ0sgR"
@@ -34462,7 +34514,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 283062,
       "name": "Ngiyakuthanda",
       "url": "https://open.spotify.com/track/3RCMGDpJlWeEgCLhOz63oa"
@@ -42218,7 +42270,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 266501,
       "name": "Sesi Ka Rose (feat. Dr Skaro)",
       "url": "https://open.spotify.com/track/1HegatsCrQ83UHOKJm3ymj"

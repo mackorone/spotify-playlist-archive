@@ -1,12 +1,12 @@
 {
   "description": "We introduce exciting artists to you from the Benelux: <a href=\"spotify:artist:7Iff7uMHGSpOygBkCsdcHq\">Hiqpy</a> (cover)",
-  "num_followers": 7573,
+  "num_followers": 7577,
   "original_name": "RADAR BNLX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAACUzYsQRKD/G9OEXzTQB4/hzjk",
+  "snapshot_id": "AAAAAPJ8lQb/al1v9FoS5S2bWpBcd7AM",
   "tracks": [
     {
       "added_at": "2025-09-04 22:01:56",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-09-04 22:01:56",
       "album": {
-        "name": "Op De Zeeweg",
-        "url": "https://open.spotify.com/album/5H1MieYnriQEUrLSvpdWMK"
-      },
-      "artists": [
-        {
-          "name": "Siggy & D1ns",
-          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
-        }
-      ],
-      "duration_ms": 219432,
-      "name": "Droom Sinds Klein",
-      "url": "https://open.spotify.com/track/29w2gzyFS8FUuBrG3DeHxW"
-    },
-    {
-      "added_at": "2025-09-04 22:01:56",
-      "album": {
         "name": "Motown Philly",
         "url": "https://open.spotify.com/album/2Rb5KdeDt7P1WASorfVR46"
       },
@@ -403,6 +387,38 @@
     {
       "added_at": "2025-09-04 22:01:56",
       "album": {
+        "name": "mind games",
+        "url": "https://open.spotify.com/album/5Dx5DV0R1o7rugHiZaur0X"
+      },
+      "artists": [
+        {
+          "name": "Emma Bale",
+          "url": "https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "mind games",
+      "url": "https://open.spotify.com/track/4UpvfveHlxiH4QQuf8V7Wj"
+    },
+    {
+      "added_at": "2025-09-04 22:01:56",
+      "album": {
+        "name": "Op De Zeeweg",
+        "url": "https://open.spotify.com/album/5H1MieYnriQEUrLSvpdWMK"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        }
+      ],
+      "duration_ms": 219432,
+      "name": "Droom Sinds Klein",
+      "url": "https://open.spotify.com/track/29w2gzyFS8FUuBrG3DeHxW"
+    },
+    {
+      "added_at": "2025-09-04 22:01:56",
+      "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/76wnXaWyDwYiq2wrH0vVpB"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": "2025-09-04 22:01:56",
       "album": {
-        "name": "Maybe Another Time",
-        "url": "https://open.spotify.com/album/2T7WDXIikLUcc92g627e8S"
-      },
-      "artists": [
-        {
-          "name": "Feng Suave",
-          "url": "https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Maybe Another Time",
-      "url": "https://open.spotify.com/track/3XCU2WB2v2SXiNPphH2JZY"
-    },
-    {
-      "added_at": "2025-09-04 22:01:56",
-      "album": {
         "name": "Hallo Met Mij",
         "url": "https://open.spotify.com/album/4cJAK6hENqRInHm1clemmF"
       },
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-09-04 22:01:56",
       "album": {
+        "name": "Maybe Another Time",
+        "url": "https://open.spotify.com/album/2T7WDXIikLUcc92g627e8S"
+      },
+      "artists": [
+        {
+          "name": "Feng Suave",
+          "url": "https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Maybe Another Time",
+      "url": "https://open.spotify.com/track/3XCU2WB2v2SXiNPphH2JZY"
+    },
+    {
+      "added_at": "2025-09-04 22:01:56",
+      "album": {
         "name": "Sweet Love",
         "url": "https://open.spotify.com/album/1ktETQfJTMuoyH0oq4xXrz"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 179975,
       "name": "Grow",
       "url": "https://open.spotify.com/track/2VkQOOtMhEkd2KF2AAGVKD"
-    },
-    {
-      "added_at": "2025-09-04 22:01:56",
-      "album": {
-        "name": "mind games",
-        "url": "https://open.spotify.com/album/5Dx5DV0R1o7rugHiZaur0X"
-      },
-      "artists": [
-        {
-          "name": "Emma Bale",
-          "url": "https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV"
-        }
-      ],
-      "duration_ms": 210413,
-      "name": "mind games",
-      "url": "https://open.spotify.com/track/4UpvfveHlxiH4QQuf8V7Wj"
     }
   ],
   "unique_name": "RADAR BNLX",

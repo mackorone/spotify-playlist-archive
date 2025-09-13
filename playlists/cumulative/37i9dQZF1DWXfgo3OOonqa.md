@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,022 songs - 3 day 14 hr 41 min
+2,023 songs - 3 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1848,6 +1848,7 @@
 | [Turbo S](https://open.spotify.com/track/0DEpDFlJZmU0mdOu8LKTzd) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 1:41 | 2023-02-27 | 2023-03-10 |
 | [Turbulens](https://open.spotify.com/track/6ezDmid4nFRUNchRTWPE2u) | [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI), [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Turbulens](https://open.spotify.com/album/7KYXSmVCy0HhsnPU6Rlrov) | 2:51 | 2024-06-13 | 2024-08-02 |
 | [TURN](https://open.spotify.com/track/6j5QuG4MlwvSgSY0D6DMRI) | [LKay](https://open.spotify.com/artist/0ao2HCPhWbdBSA6Sa94xTa), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [TURN](https://open.spotify.com/album/0ynIkR95qfhpCK0KAFbe8l) | 2:43 | 2023-08-31 | 2024-01-12 |
+| [Turn Up](https://open.spotify.com/track/6QQRwucjZ87vZKEWwzJSSt) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [Turn Up](https://open.spotify.com/album/4Two3vx9kFzg7akNFxd2UK) | 2:16 | 2025-09-12 |  |
 | [Tusen Och En Natt](https://open.spotify.com/track/210J9fuZJgQySEdIdLzYwB) | [Lucaz](https://open.spotify.com/artist/7n2WwvF0ngNkWVvh7EW6IZ) | [Tusen Och En Natt](https://open.spotify.com/album/6kpjKN7wkZG8yC0NU34992) | 2:10 | 2023-04-20 | 2023-05-26 |
 | [Tvärtom](https://open.spotify.com/track/1Q6ty9DMFaALbaQaKuvnLN) | [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [MP3](https://open.spotify.com/album/6ebOVpxiICOiwmCY4B5qTQ) | 3:00 | 2021-12-16 | 2022-01-14 |
 | [Två världar](https://open.spotify.com/track/2DSv6pjsKKwZb1XNXzHXqF) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [TVÅ VÄRLDAR](https://open.spotify.com/album/53o4sbg9t3jI1iZP5ovCLD) | 2:23 | 2024-04-25 | 2024-08-09 |

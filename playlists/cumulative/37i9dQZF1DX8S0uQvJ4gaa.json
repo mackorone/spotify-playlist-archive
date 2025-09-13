@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Lanie Gardner",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Jason Aldean",
   "name": "New Boots",
   "tracks": [
     {
@@ -234,7 +234,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 185018,
       "name": "17 Year Old Problems",
       "url": "https://open.spotify.com/track/3s2n8ZRczRqkwRlfq9LKdd"
@@ -2846,7 +2846,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 191771,
       "name": "Back On Deseret",
       "url": "https://open.spotify.com/track/65UW5vb1j5Z3oiOAnDRBqW"
@@ -3034,7 +3034,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 300113,
       "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk"
@@ -3670,6 +3670,28 @@
       "duration_ms": 184532,
       "name": "Beer Drinkin' Weather",
       "url": "https://open.spotify.com/track/64Pt5SxkY256IjcJw5AbNC"
+    },
+    {
+      "album": {
+        "name": "Beer Garden Baby",
+        "url": "https://open.spotify.com/album/3NmPbYlDDM6yo20vB16OPh"
+      },
+      "artists": [
+        {
+          "name": "Tyler Halverson",
+          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221578,
+      "name": "Beer Garden Baby",
+      "url": "https://open.spotify.com/track/52YLi3V817Ks9UzbavTZAG"
     },
     {
       "album": {
@@ -9449,6 +9471,24 @@
     },
     {
       "album": {
+        "name": "Dent",
+        "url": "https://open.spotify.com/album/08Qgfm6I8ATQE7Vp1Lf8EL"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192458,
+      "name": "Dent",
+      "url": "https://open.spotify.com/track/1aPBk61BkA2efpwrSRBFMo"
+    },
+    {
+      "album": {
         "name": "Desert Child",
         "url": "https://open.spotify.com/album/42gmQzBqwaWzTF1SLdC3jH"
       },
@@ -10852,7 +10892,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 171133,
       "name": "Drink With You",
       "url": "https://open.spotify.com/track/4vcPGltxw8ux0LOzcUnN0p"
@@ -11520,7 +11560,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 164026,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/3yG18Ue8wjrlcHfCiKYgjs"
@@ -12018,6 +12058,24 @@
       "duration_ms": 151973,
       "name": "Everything She Ain\u2019t",
       "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
+    },
+    {
+      "album": {
+        "name": "Everything She Does",
+        "url": "https://open.spotify.com/album/5LYZjezeOhI4MVMASc3ZZn"
+      },
+      "artists": [
+        {
+          "name": "Bayker Blankenship",
+          "url": "https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196100,
+      "name": "Everything She Does",
+      "url": "https://open.spotify.com/track/0WXwVx2Ni5yimjV9gunwpV"
     },
     {
       "album": {
@@ -13614,7 +13672,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 165826,
       "name": "Forget Tonight (ft. Tyler Hubbard)",
       "url": "https://open.spotify.com/track/31dKu1hasoYuOq0ycWL0QF"
@@ -17153,6 +17211,24 @@
     },
     {
       "album": {
+        "name": "My Side Of Town",
+        "url": "https://open.spotify.com/album/3kjLeioihBaAQdGQePALiw"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194364,
+      "name": "Hate How You Look",
+      "url": "https://open.spotify.com/track/62e38zyWy6oa2aYvkOqf9E"
+    },
+    {
+      "album": {
         "name": "Hate Me",
         "url": "https://open.spotify.com/album/28aNImQBnhTpzp02HkW9YX"
       },
@@ -19928,6 +20004,24 @@
       "duration_ms": 175258,
       "name": "How Far Can It Go? (feat. Trisha Yearwood)",
       "url": "https://open.spotify.com/track/5a52GHQ6AhGwUcxhm15oZI"
+    },
+    {
+      "album": {
+        "name": "How Far Does A Goodbye Go",
+        "url": "https://open.spotify.com/album/0afhYLtsOqvFHx5OpJAqRn"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235727,
+      "name": "How Far Does A Goodbye Go",
+      "url": "https://open.spotify.com/track/17U2M7HB14yGe9QSAmbyyB"
     },
     {
       "album": {
@@ -23391,6 +23485,24 @@
     },
     {
       "album": {
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/1QFl8e1rgipIyTXgxcZCRg"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260209,
+      "name": "Johnny - Single Edit",
+      "url": "https://open.spotify.com/track/1j2sOWFrq5IeEze75RJwzG"
+    },
+    {
+      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
@@ -24380,7 +24492,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 162333,
       "name": "Later Tonight",
       "url": "https://open.spotify.com/track/0y1ck7CTQGlC2pLz8GM0S7"
@@ -25686,6 +25798,24 @@
       "duration_ms": 184746,
       "name": "Long Live Cowgirls (with Cody Johnson)",
       "url": "https://open.spotify.com/track/16LGRLfaVIC5rT2ZvLk0gd"
+    },
+    {
+      "album": {
+        "name": "Long Time Lovin' You",
+        "url": "https://open.spotify.com/album/59179ES0T7Ocexz6oIQXRO"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177012,
+      "name": "Long Time Lovin' You",
+      "url": "https://open.spotify.com/track/4UDGrNZ0qfDAzt3N2VXbt2"
     },
     {
       "album": {
@@ -28879,6 +29009,24 @@
     },
     {
       "album": {
+        "name": "My Bad",
+        "url": "https://open.spotify.com/album/00cZuT3zBENE367Ogcd6qF"
+      },
+      "artists": [
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152466,
+      "name": "My Bad",
+      "url": "https://open.spotify.com/track/0pZviOTm5UrtqHIHWGG6Um"
+    },
+    {
+      "album": {
         "name": "My Bar",
         "url": "https://open.spotify.com/album/5SaPpj7mUr3Yin6oaBSnEP"
       },
@@ -29078,6 +29226,24 @@
       "duration_ms": 210251,
       "name": "My Masterpiece",
       "url": "https://open.spotify.com/track/5SlOBlrnxsuhOGMQEVZeZ0"
+    },
+    {
+      "album": {
+        "name": "My Meridian",
+        "url": "https://open.spotify.com/album/1SXOeqqZ571IVsZfp73PiH"
+      },
+      "artists": [
+        {
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145381,
+      "name": "My Meridian",
+      "url": "https://open.spotify.com/track/4nT7dyS3xtuAdLpjn3pzv0"
     },
     {
       "album": {
@@ -32010,6 +32176,24 @@
       "duration_ms": 278213,
       "name": "Oneida",
       "url": "https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x"
+    },
+    {
+      "album": {
+        "name": "Only Bible",
+        "url": "https://open.spotify.com/album/12SiXaCDTNn45eI9MGXv3I"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229371,
+      "name": "Only Bible",
+      "url": "https://open.spotify.com/track/6tt12axiCiK6oQ3Wxb1Oie"
     },
     {
       "album": {
@@ -37090,7 +37274,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 177557,
       "name": "Small Forever (feat. Brantley Gilbert)",
       "url": "https://open.spotify.com/track/5F8jWvnt5d8FDrA23u7bR3"
@@ -38990,7 +39174,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 182748,
       "name": "Spend Some Time There",
       "url": "https://open.spotify.com/track/3QJEfLbiThKdtoGm0Yy89u"
@@ -40345,6 +40529,24 @@
     },
     {
       "album": {
+        "name": "Sweet Tea",
+        "url": "https://open.spotify.com/album/53IZCUuAD64yVuiqXToPO1"
+      },
+      "artists": [
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208750,
+      "name": "Sweet Tea",
+      "url": "https://open.spotify.com/track/3fDNDxcos3RuOHpkm1Qc4N"
+    },
+    {
+      "album": {
         "name": "backstory",
         "url": "https://open.spotify.com/album/5Ao4kczlRWv1zeEuwCy8M9"
       },
@@ -40450,7 +40652,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 225666,
       "name": "Tailspin",
       "url": "https://open.spotify.com/track/74ouav2arWYgDA656JHLzJ"
@@ -47376,7 +47578,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 247503,
       "name": "White Limousine",
       "url": "https://open.spotify.com/track/1Jb4Vy5d4iYSr2PWDxvzOo"

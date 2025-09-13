@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 274666,
       "name": "Antigonidon",
       "url": "https://open.spotify.com/track/5XoBIF0Y6zaHjMnf2aZsMh"
@@ -22064,7 +22064,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 187133,
       "name": "Kapos Allios",
       "url": "https://open.spotify.com/track/2AQtKCJgmykkIC2bODzcfN"
@@ -23876,7 +23876,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 247346,
       "name": "KSEHORISTO",
       "url": "https://open.spotify.com/track/1mOLBCX3IRwGNDLqYzXpM5"
@@ -32080,7 +32080,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 207225,
       "name": "Nyxterides",
       "url": "https://open.spotify.com/track/7rgTr97Ob29FuuKCHqB7a4"
@@ -40691,6 +40691,32 @@
     },
     {
       "album": {
+        "name": "Somebody Gonna Die",
+        "url": "https://open.spotify.com/album/7DAhOVWrC7rNyfEIjeujCY"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        },
+        {
+          "name": "PAR1S",
+          "url": "https://open.spotify.com/artist/6rZK15LxP7rOo0npKh0biK"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189942,
+      "name": "Somebody Gonna Die",
+      "url": "https://open.spotify.com/track/74TkmC5Nrzqxz6PiPXtxiP"
+    },
+    {
+      "album": {
         "name": "Immortale",
         "url": "https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G"
       },
@@ -48000,7 +48026,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 162461,
       "name": "XANA",
       "url": "https://open.spotify.com/track/0OrGmYDi04CEeIgPk6NwsV"

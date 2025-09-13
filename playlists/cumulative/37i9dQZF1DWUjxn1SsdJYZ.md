@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: J Emz
 
-1,301 songs - 2 day 12 hr 41 min
+1,302 songs - 2 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -777,6 +777,7 @@
 | [Next Up Australia \- S1\-E9 \- Pt.2](https://open.spotify.com/track/05xUGSY5lEmI3Dj4SlzKwz) | [Tbi$h](https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up Australia \- S1\-E9](https://open.spotify.com/album/3p7jtRW9XQ2CieEay3YYHx) | 1:49 | 2024-03-07 | 2024-06-07 |
 | [Ngarwu](https://open.spotify.com/track/2NXBQfFgqhq7I7FZWtEets) | [Drmngnow](https://open.spotify.com/artist/18IB1ryPcOlseJCtYmthDg) | [Ngarwu](https://open.spotify.com/album/7Lbe5uGko0c1JVMhYxsQ8N) | 2:50 | 2024-05-30 | 2024-07-19 |
 | [Nicest](https://open.spotify.com/track/5PESfQdzPDEEoWkKEzQMqj) | [J\-MILLA](https://open.spotify.com/artist/1sQJVmNoYaMV05kdys6jy0), [Thir13teen](https://open.spotify.com/artist/2rczA6Nwwgc543MuPuxJNq) | [Nicest](https://open.spotify.com/album/5uTQXMkn8LjfIFAS4EDwnH) | 2:55 | 2023-04-20 | 2023-07-07 |
+| [night in tokyo!](https://open.spotify.com/track/0enPdppIOTmn6gZGJbeJzS) | [TH3 KXD](https://open.spotify.com/artist/5KjxDm3rAhy7nSkSKyv0LQ) | [night in tokyo!](https://open.spotify.com/album/442902zOScm1H2tAWsNz3x) | 1:55 | 2025-09-11 |  |
 | [Night Riders \(feat\. Hooks, Hooligan Skinny, ENZO & NASA NOVA\)](https://open.spotify.com/track/7mq35SUsRC8EL1TZUN9ZUW) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [ENZO](https://open.spotify.com/artist/6QDf4GRNBNpCitIgKv0Ybe), [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [Hooks](https://open.spotify.com/artist/3ByS6WHuxmY7mMp7HsVn3u), [Hooligan Skinny](https://open.spotify.com/artist/6E2hlUEGs0bO0ktdZKy1lh) | [Night Riders \(feat\. Hooks, Hooligan Skinny, ENZO & NASA NOVA\)](https://open.spotify.com/album/5k60dt8jcSdr9xiDqn0JDi) | 2:56 | 2022-05-09 | 2022-07-29 |
 | [Nightshift](https://open.spotify.com/track/6mWVVyBZy6mkARWSObwmBM) | [Jujulipps](https://open.spotify.com/artist/6MwAhWiG2knasNMsFrJDEy) | [SUPERSTAR](https://open.spotify.com/album/5BtaNTKQz13Nrobyfc7KGA) | 2:20 | 2024-11-28 | 2025-01-17 |
 | [NINE TO FIVE](https://open.spotify.com/track/7C9jyySCogo2X5zJsS4RFd) | [The GP](https://open.spotify.com/artist/0gTh7DXw0XXoq067gagX3l) | [NINE TO FIVE](https://open.spotify.com/album/5Vo1AiGbU7kV1QjDE2iVL2) | 2:54 | 2022-03-24 | 2022-09-30 |

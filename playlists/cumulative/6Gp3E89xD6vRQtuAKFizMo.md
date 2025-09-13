@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-495 songs - 23 hr 50 min
+497 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Guerrilla](https://open.spotify.com/track/1Wys7K0G79CGrFyBxa951Q) | [Altierr](https://open.spotify.com/artist/1KsOKDPD4azbQGuRzeW2rn) | [Guerrilla](https://open.spotify.com/album/4Ni9Ox6Ggj5mrHaRT4592a) | 3:15 | 2025-03-25 |  |
 | [H8 December](https://open.spotify.com/track/2GmduVx3DDAyqMys6xgqem) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [H8 December](https://open.spotify.com/album/7uyYsla4oPYWFRWwHYJ71S) | 2:20 | 2022-09-19 | 2023-04-09 |
 | [Hachiroku](https://open.spotify.com/track/1i4abDsWpBNJZ0FIwxcwZi) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [R7CKY](https://open.spotify.com/artist/7nwTgB0QOv2yGprKxofyT8) | [Mini Motors](https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H) | 2:53 | 2023-07-24 | 2023-12-14 |
+| [Halfstep](https://open.spotify.com/track/2vVYYm1KgXXQ6QjKTTdiDl) | [TRICKSTAR](https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5) | [Halfstep](https://open.spotify.com/album/45zfCS0r1tr0HyxcNFIXsA) | 2:31 | 2025-09-12 |  |
 | [Hands Up](https://open.spotify.com/track/3WCxK21BE4ar25o8hYUsWn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Scheffwell](https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e) | [Hands Up](https://open.spotify.com/album/0H0NrzTM22cyfL4jXEySzf) | 2:11 | 2023-11-22 | 2025-04-27 |
 | [HARIKĒN](https://open.spotify.com/track/3rC44MszjGBcK7gYRHWFDh) | [shndō](https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH) | [HARIKĒN](https://open.spotify.com/album/1b7O6M1X2z1ZGv3KbwKw2e) | 2:40 | 2023-08-04 | 2025-04-27 |
 | [Haunted](https://open.spotify.com/track/6OhmXq1u2nB8Wrm5wuPrqs) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Haunted](https://open.spotify.com/album/25az9xpMDxpmAzCTCwX7hf) | 2:35 | 2023-11-22 | 2025-04-27 |
@@ -321,6 +322,7 @@
 | [My Room \- Makla Remix](https://open.spotify.com/track/1eupUP0KyIxklOmWSe0PO1) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [Makla](https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M) | [My Room \(Remixes\)](https://open.spotify.com/album/6efb70DGUPyC36qBqmLI1h) | 3:03 | 2024-03-29 | 2025-04-27 |
 | [Name Of Your DJ \(With 3 Are Legend\)](https://open.spotify.com/track/5cvbgqwWxlvC5la8h86qRi) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [MC Ambush](https://open.spotify.com/artist/18T0SpXY06tqdiyBTYTIgi) | [Name Of Your DJ \(With 3 Are Legend\)](https://open.spotify.com/album/68TkP5GE6s34dBCSdjnajh) | 2:39 | 2023-02-03 | 2023-04-09 |
 | [Nasty](https://open.spotify.com/track/2XYUIu1N5iUQw4p0lzpM0E) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Nasty](https://open.spotify.com/album/5TaUsd9PMFYsKk9ipZiGC4) | 2:40 | 2023-05-05 | 2025-04-27 |
+| [Need U To Go \(Red Light, Green Light\)](https://open.spotify.com/track/44bLkSd8XKs8HLi9VuY1To) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Need U To Go \(Red Light, Green Light\)](https://open.spotify.com/album/1vN0ccVePdWkMa0SPw0Mgg) | 2:02 | 2025-09-12 |  |
 | [Nemesis \(feat\. Jack Dawson\)](https://open.spotify.com/track/2Rsg4JE8ShKmLe7K6IcJJV) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Jack Dawson](https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx) | [Nemesis](https://open.spotify.com/album/4sLvvQA9b5mCnnB3h5k9dk) | 2:59 | 2024-06-21 | 2025-04-27 |
 | [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/track/4fqdvb26zCuhu0DxQtpUHY) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Paige Duché](https://open.spotify.com/artist/2tlmeCXC8LbHPgPZYDPgws) | [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/album/4bINJVM0T18YDd60Vl8GWN) | 2:42 | 2022-12-02 | 2023-04-09 |
 | [New Chapter \(뉴 챕터\)](https://open.spotify.com/track/7cxudOOQvZl3ot8JaL0yQc) | [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id), [Hollakim](https://open.spotify.com/artist/0g4osFXWrdwah2NGdon8yn) | [New Chapter \(뉴 챕터\)](https://open.spotify.com/album/52YITUh4O8tt4LcRRMpo8Q) | 2:21 | 2023-11-22 | 2025-04-27 |

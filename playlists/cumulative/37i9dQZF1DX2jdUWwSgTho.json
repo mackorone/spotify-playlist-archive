@@ -423,6 +423,40 @@
     },
     {
       "album": {
+        "name": "Golden (from the Netflix film KPop Demon Hunters)",
+        "url": "https://open.spotify.com/album/2FZ9yvgjgkzgcvvRMLx9Ab"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "Alexiane Broque",
+          "url": "https://open.spotify.com/artist/5qIdeu6LWidREML9dzL0WD"
+        },
+        {
+          "name": "Jeanne J\u00e9rosme",
+          "url": "https://open.spotify.com/artist/55MG6lE79B7ClZe6nMSnrK"
+        },
+        {
+          "name": "Clotilde Verry",
+          "url": "https://open.spotify.com/artist/5QrZth2MNx8LlLnzkVaqKr"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192974,
+      "name": "Briller - Golden - version fran\u00e7aise",
+      "url": "https://open.spotify.com/track/4Zg2p0S5G6dxF3xCmRBv3R"
+    },
+    {
+      "album": {
         "name": "Bruxelles je t'aime",
         "url": "https://open.spotify.com/album/72XwipnC6NWfEd5BIWAXMp"
       },
@@ -1034,7 +1068,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -2124,10 +2158,52 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
+    },
+    {
+      "album": {
+        "name": "Soda Pop (from the Netflix film KPop Demon Hunters)",
+        "url": "https://open.spotify.com/album/2UghdVFMf8TvVl55Bxho1w"
+      },
+      "artists": [
+        {
+          "name": "Saja Boys",
+          "url": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
+        },
+        {
+          "name": "Doryan Ben",
+          "url": "https://open.spotify.com/artist/7cYc1TBfW5cB9ZQ5ciW7Yq"
+        },
+        {
+          "name": "Thomas Bernier",
+          "url": "https://open.spotify.com/artist/6SiHkRHKFGILL7tyLNYRsY"
+        },
+        {
+          "name": "Guillaume Beaujolais",
+          "url": "https://open.spotify.com/artist/1LoQUk8Xi2lVQyk7j4CzcA"
+        },
+        {
+          "name": "Loa\u00ef Rahman",
+          "url": "https://open.spotify.com/artist/7qp9X0a1Cfw4SmJlD88uaG"
+        },
+        {
+          "name": "Bastien Jacquemart",
+          "url": "https://open.spotify.com/artist/43a1uyu0fNQFun2MT56hkX"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149598,
+      "name": "Soda Pop - version fran\u00e7aise",
+      "url": "https://open.spotify.com/track/24WEQrnHb2m6OKVdfhAp4T"
     },
     {
       "album": {

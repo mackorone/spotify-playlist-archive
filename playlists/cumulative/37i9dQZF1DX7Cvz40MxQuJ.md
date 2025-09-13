@@ -4,7 +4,7 @@
 
 > it’s giving medieval castlecore✨🥀
 
-75 songs - 4 hr 0 min
+76 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Ave, generosa: Verses 1 \- 4](https://open.spotify.com/track/1pZ5dtclq9vrbpOyyTy9GL) | [Hildegard von Bingen](https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d), [The Sixteen](https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS), [Sarah Sexton](https://open.spotify.com/artist/10bI1OEOEoUyMIXqylfsQ1), [Elisabeth Paul](https://open.spotify.com/artist/0DZwNKRRwb3kVgoNgesGIm), [Harry Christophers](https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu) | [Ave, generosa: Verses 1 \- 4](https://open.spotify.com/album/6P8cK9XzM1cgmplRwcfz8e) | 3:19 | 2025-02-18 |  |
 | [Billow Gently](https://open.spotify.com/track/0G6oaTsBqKgZ3VHPGZFrwL) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Spring](https://open.spotify.com/album/1JY1BKv5rj8ILQvHdz2Aaw) | 3:15 | 2025-04-11 |  |
 | [Byrd: Ave Verum Corpus](https://open.spotify.com/track/7J6b58JOnf4RGGqJmxq0bD) | [William Byrd](https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z), [Peter Phillips](https://open.spotify.com/artist/3Yu1KWrCZ0X79c0BhryYPk), [The Tallis Scholars](https://open.spotify.com/artist/3vENFkiF5PZRluBBtQiwcG) | [The Tallis Scholars Sing William Byrd](https://open.spotify.com/album/5o2Vzb7bgZHzE5sHh2T38o) | 4:10 | 2025-01-10 |  |
+| [Cello Suite in G Major, BWV 1007: I\. Prelude \(Arr\. for Harp by Alexander Boldachev\)](https://open.spotify.com/track/6wye1UDezQ5Vr66TpumWMe) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alexander Boldachev](https://open.spotify.com/artist/1XCJt7q8dHyYRIuYXbEaLn) | [Credo](https://open.spotify.com/album/00onwYWoai4ur776BORoID) | 2:27 | 2025-09-12 |  |
 | [Consolations, S\. 172: III\. Lento placido \(Adapted for Solo Harp by Sylvain Blassel\)](https://open.spotify.com/track/1vukkWhRhTW19lUAU2ID6s) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Antoine Malette\-Chénier](https://open.spotify.com/artist/7u8xUTvSlv1iqCaP3fiIuP) | [Consolations](https://open.spotify.com/album/2Bhs0aU5JCRbRupsJ7r7mR) | 4:53 | 2025-04-18 |  |
 | [Dawn \(Arr\. Webb for Harp\) \- From "Pride and Prejudice"](https://open.spotify.com/track/3ggawwYXbbJBfQwvf5NpDb) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Dawn \(Arr\. Webb for Harp\) \[From "Pride and Prejudice"\]](https://open.spotify.com/album/0EF7j3XXP8ZR6NMYQkdRW4) | 3:23 | 2025-09-05 |  |
 | [Deep River I](https://open.spotify.com/track/1wZYRFn2pFmAICpBLhzCVC) | [Samuel Coleridge\-Taylor](https://open.spotify.com/artist/0fhN6BHa9pN66ZnsrI5NUR), [Ashley Jackson](https://open.spotify.com/artist/0rJo9egOhkNC9N78nGkyXk) | [Deep River](https://open.spotify.com/album/2yVBodoUGmZmw4RW64og0T) | 4:47 | 2025-04-18 |  |

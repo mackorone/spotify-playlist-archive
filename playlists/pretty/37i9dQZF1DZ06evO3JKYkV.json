@@ -1,12 +1,12 @@
 {
   "description": "This is Aphex Twin. The essential tracks, all in one playlist.",
-  "num_followers": 77050,
+  "num_followers": 77068,
   "original_name": "This Is Aphex Twin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMC/gAAAAAAPG9YAHEJyeN+/31yC7ALt",
+  "snapshot_id": "aMIRAAAAAADKNMMbRP3ZUJj6MCopXBLX",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "#19",
-        "url": "https://open.spotify.com/album/7njwofUGv4MhSLm1VblQss"
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 614592,
-      "name": "#19",
-      "url": "https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395"
+      "duration_ms": 205186,
+      "name": "Nanou2",
+      "url": "https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl"
     },
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "#19",
+        "url": "https://open.spotify.com/album/7njwofUGv4MhSLm1VblQss"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 614592,
+      "name": "#19",
+      "url": "https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "...I Care Because You Do",
         "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 310746,
       "name": "Alberto Balsalm",
       "url": "https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 205186,
-      "name": "Nanou2",
-      "url": "https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 292826,
-      "name": "Girl/Boy Song",
-      "url": "https://open.spotify.com/track/2w6AYp7c3d4D3hbOISz0i0"
+      "duration_ms": 459280,
+      "name": "Acrid Avid Jam Shred",
+      "url": "https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...I Care Because You Do",
-        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 459280,
-      "name": "Acrid Avid Jam Shred",
-      "url": "https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs"
+      "duration_ms": 292826,
+      "name": "Girl/Boy Song",
+      "url": "https://open.spotify.com/track/2w6AYp7c3d4D3hbOISz0i0"
     },
     {
       "added_at": null,
@@ -679,38 +679,6 @@
       "duration_ms": 440333,
       "name": "Blue Calx",
       "url": "https://open.spotify.com/track/7cx5gNKRDzMfd5o9S6e9yK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Yellow Calx",
-      "url": "https://open.spotify.com/track/4nouVnQrrO8Q1yje5Gz8Tq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 631240,
-      "name": "XMAS_EVET10 [120][thanaton3 mix]",
-      "url": "https://open.spotify.com/track/3QwQ9oyEWD1Ufx7WfiJ4bn"
     },
     {
       "added_at": null,
@@ -739,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackbox Life Recorder 21f / in a room7 F760",
-        "url": "https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2"
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
       },
       "artists": [
         {
@@ -748,9 +716,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 233755,
-      "name": "in a room7 F760",
-      "url": "https://open.spotify.com/track/3sFYzy26BTS3te7WV8QeLx"
+      "duration_ms": 631240,
+      "name": "XMAS_EVET10 [120][thanaton3 mix]",
+      "url": "https://open.spotify.com/track/3QwQ9oyEWD1Ufx7WfiJ4bn"
     },
     {
       "added_at": null,
@@ -764,9 +732,25 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 134840,
-      "name": "Cornish Acid",
-      "url": "https://open.spotify.com/track/4aRLOuRBuy3FhHkHJfCqDR"
+      "duration_ms": 184906,
+      "name": "Yellow Calx",
+      "url": "https://open.spotify.com/track/4nouVnQrrO8Q1yje5Gz8Tq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blackbox Life Recorder 21f / in a room7 F760",
+        "url": "https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 233755,
+      "name": "in a room7 F760",
+      "url": "https://open.spotify.com/track/3sFYzy26BTS3te7WV8QeLx"
     },
     {
       "added_at": null,
@@ -799,6 +783,22 @@
       "duration_ms": 289693,
       "name": "The Waxen Pith",
       "url": "https://open.spotify.com/track/2O47kvC3i2H5u1SBSFU60B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 134840,
+      "name": "Cornish Acid",
+      "url": "https://open.spotify.com/track/4aRLOuRBuy3FhHkHJfCqDR"
     }
   ],
   "unique_name": "This Is Aphex Twin",

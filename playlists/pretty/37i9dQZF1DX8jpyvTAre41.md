@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Silverstein
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,985 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,982 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Fatalist](https://open.spotify.com/track/3FrT1TD82QxLtRIn5IinK4) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [](https://open.spotify.com/album/null) | 2:50 |
+| 1 | [The Fatalist](https://open.spotify.com/track/3FrT1TD82QxLtRIn5IinK4) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Pink Moon](https://open.spotify.com/album/7H14q1uaSsDDgSV0rn3W5c) | 2:50 |
 | 2 | [Chrome Jets](https://open.spotify.com/track/5a0SxmltHNs5PaRTUAAYLZ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Chrome Jets](https://open.spotify.com/album/5CXyWQG2ke7GBv0ftgVaCf) | 3:36 |
 | 3 | [GUTS](https://open.spotify.com/track/4RjDr8lV9QTdsYTeBKc9Pq) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [GUTS](https://open.spotify.com/album/3EnqXvVQeRaxsBEQf15U7z) | 3:21 |
 | 4 | [Impose](https://open.spotify.com/track/3kMc83bWNdcaX1dmARQIII) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Impose](https://open.spotify.com/album/0WGyY2UCxFPryMrmYYVIzR) | 4:23 |
 | 5 | [Young As This](https://open.spotify.com/track/5qPQImgNyuoEFsZFGKUtX6) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Young As This](https://open.spotify.com/album/1b079FK9FKg2QFt24llds8) | 2:48 |
-| 6 | [The Moment](https://open.spotify.com/track/5RqyRk24lcL4GkZDA4Tip7) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [](https://open.spotify.com/album/null) | 2:17 |
+| 6 | [The Moment](https://open.spotify.com/track/5RqyRk24lcL4GkZDA4Tip7) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Bite Reality](https://open.spotify.com/album/6i7UnNlsaT8MbI5TKtX3rM) | 2:17 |
 | 7 | [New Plan](https://open.spotify.com/track/4XD9LjMYlAPutmVozaXuZr) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [New Plan](https://open.spotify.com/album/4kA25J7vx3ya5UuShMbgA9) | 3:25 |
 | 8 | [High Horse](https://open.spotify.com/track/3kgNYBRqrY5cfKjypJEUKr) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [High Horse](https://open.spotify.com/album/3pfde0RMSObLWkwllJhXqw) | 2:48 |
 | 9 | [On Ice](https://open.spotify.com/track/2wo4wX6FwPQ0YWW9wUNYY0) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [On Ice](https://open.spotify.com/album/2Jx3m0Kchicr2FHzv9f0yQ) | 3:01 |
 | 10 | [Tired of You \(Featuring Fionn\)](https://open.spotify.com/track/2om7X6uduu8rkg4OYxp3jA) | [Fake Shark](https://open.spotify.com/artist/08towIgJNrFi0yAuyVXFBF), [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [Tired of You \(Featuring Fionn\)](https://open.spotify.com/album/0yxhowBTjULC4JCRMeLfer) | 2:46 |
 | 11 | [Fast Asleep](https://open.spotify.com/track/0R2KthS70Zglr0ECKDQbUU) | [RUNE](https://open.spotify.com/artist/23nVOrmuIA5WDBVpsU4alV) | [Fast Asleep](https://open.spotify.com/album/2z8FLd5bCvkBezjV05CaSE) | 3:44 |
 | 12 | [100% Ghosts](https://open.spotify.com/track/42bj4uPeJSxJLvZRF0Kbji) | [Boys Night Out](https://open.spotify.com/artist/4wM8eTlGUeleEqowJc2iiZ) | [100% Ghosts](https://open.spotify.com/album/18RuY6DAMo2nJzd72r2jZm) | 3:27 |
-| 13 | [Ashen Grey](https://open.spotify.com/track/1DequHOXV6d2AuVlokx8FI) | [Spite House](https://open.spotify.com/artist/3ORse2pnaM7OvXoqIgS1pN) | [](https://open.spotify.com/album/null) | 1:42 |
+| 13 | [Ashen Grey](https://open.spotify.com/track/1DequHOXV6d2AuVlokx8FI) | [Spite House](https://open.spotify.com/artist/3ORse2pnaM7OvXoqIgS1pN) | [Desertion](https://open.spotify.com/album/2hJsYTqlP0azOpmxFOK3y3) | 1:42 |
 | 14 | [GLASS EYED IDOLS](https://open.spotify.com/track/3lGBxgE4KJUwxqaebERIPp) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [GLASS EYED IDOLS](https://open.spotify.com/album/2EyXY8yhHn85atwWJDrEfU) | 2:38 |
 | 15 | [AUTONOMOUS DELIVERY ROBOT](https://open.spotify.com/track/6nXJ76qT0Z5dsVQ8BkY71R) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [INERTIA](https://open.spotify.com/album/5Srzn7hnU7DcsvD6BBTjHC) | 2:24 |
 | 16 | [End of You](https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [End of You](https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1) | 3:12 |

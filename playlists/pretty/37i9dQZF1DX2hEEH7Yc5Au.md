@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 李千娜 \(Nana Lee\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,982 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,983 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 7 | [互惠](https://open.spotify.com/track/3JMfpMiSRcmK7ZF4Oj3myo) | [施語庭](https://open.spotify.com/artist/4IuEkOrNCePRLpRYVWbUql) | [互惠](https://open.spotify.com/album/3p6GvyspmrSA9so47wC6GH) | 3:45 |
 | 8 | [愛到卡慘死 \(2025威尼斯影展地平線單元《螳螂》電影插曲\)](https://open.spotify.com/track/6Tt7bRPy3P6W3HXxGT1eYa) | [曹雅雯](https://open.spotify.com/artist/4S2fK8EvpTnOLTfrMwBThz) | [愛到卡慘死 \(2025威尼斯影展地平線單元《螳螂》電影插曲\)](https://open.spotify.com/album/74ESmwxHe860IGibi7ScZ8) | 3:10 |
 | 9 | [火大借過](https://open.spotify.com/track/7GMb9U34mKP3Yf59pRoFwW) | [余佩真](https://open.spotify.com/artist/6DHgvg8leMhBE7itUz8LgN) | [火大借過](https://open.spotify.com/album/5iq5Og6r8ZoR1tVXXaLaWx) | 4:03 |
-| 10 | [暮春 ft\. 雷擎](https://open.spotify.com/track/1oRhF0679qH1uw4WgL1YT4) | [黃宇寒 Han](https://open.spotify.com/artist/58na39JAZ12nojYGPuqdWg), [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [暮春 ft\. 雷擎](https://open.spotify.com/album/0J8AOsI5ruq8EPHcCUyItK) | 3:35 |
+| 10 | [暮春 ft\. 雷擎](https://open.spotify.com/track/1oRhF0679qH1uw4WgL1YT4) | [黃宇寒 Han](https://open.spotify.com/artist/58na39JAZ12nojYGPuqdWg), [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [暮春 ft\. 雷擎](https://open.spotify.com/album/0J8AOsI5ruq8EPHcCUyItK) | 3:34 |
 | 11 | [樹洞裡可以悲傷](https://open.spotify.com/track/21s1fMsufABfakqZXS8nzc) | [Peggy Hsu](https://open.spotify.com/artist/7ruJU7jtsDqbgA23BL3VFQ) | [樹洞裡可以悲傷](https://open.spotify.com/album/7AxiFdZ2SkbUoS7t7nQyWt) | 3:37 |
 | 12 | [你的眼神他的語氣我的聽說](https://open.spotify.com/track/457GF6g7MAbUAwSlxLNktv) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [你的眼神他的語氣我的聽說](https://open.spotify.com/album/3uhLU0eFhl8d3dRzsdsRBX) | 3:44 |
 | 13 | [沒有如果](https://open.spotify.com/track/7mCoqI2KBUYN3cjzVO5Vts) | [ECHORA](https://open.spotify.com/artist/4YttcexiK8XuXXxQVrA1dC), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [如果我是外星人你會愛我嗎？](https://open.spotify.com/album/71uG7DE1weyiox68UmCHg4) | 2:32 |

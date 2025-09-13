@@ -2,9 +2,9 @@
 
 ### [Calorcito](https://open.spotify.com/playlist/37i9dQZF1DX7dXtI26GOnj)
 
-> Todo o calor latino está aqui! 🔥  foto: Sofía Reyes, Luísa Sonza
+> Todo o calor latino está aqui! 🔥  foto: MC L da Vinte, MC Gury, Neton Vega, Anitta
 
-520 songs - 1 day 2 hr 58 min
+521 songs - 1 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Gostosa](https://open.spotify.com/track/6UU160lLOxkV1qVgg3w2Mx) | [Amber Donoso](https://open.spotify.com/artist/6SHtT7iIROXUcQJFYEoeJ7), [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Gostosa](https://open.spotify.com/album/5bsuWuQs9R4YKp3M8buXDr) | 2:25 | 2025-04-14 | 2025-05-14 |
 | [Gostosa](https://open.spotify.com/track/76VjdYvT71fK7O9j0kLoe0) | [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP), [3 TENORES](https://open.spotify.com/artist/1JXdPhTg5MFPGQmgobTKUS), [Aroxa](https://open.spotify.com/artist/3naE4Ajwsda9UkboyMC1Gb) | [Gostosa](https://open.spotify.com/album/6SAUAGqXHUupJnUWZ0lUye) | 3:38 | 2022-04-01 | 2022-04-23 |
 | [GTA.mp3](https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GTA.mp3](https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2) | 2:31 | 2023-09-08 | 2024-07-19 |
+| [GuabanSexxx](https://open.spotify.com/track/7pEwEHqjqx3kmXjXCOihff) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [GuabanSexxx](https://open.spotify.com/album/0kKZV7SgHvDgvpV4iLNBjq) | 2:41 | 2025-09-12 |  |
 | [Guapetona](https://open.spotify.com/track/2TNXWnhVVDxC3Iyuo74mKS) | [Luísa e os Alquimistas](https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC) | [Guapetona](https://open.spotify.com/album/28B0mVX9c6ZlvKIZfJ5vYY) | 2:21 | 2022-08-05 | 2022-08-30 |
 | [Habla Comigo](https://open.spotify.com/track/5i9oexxDhlcB4BEP95M6qT) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [Habla Comigo](https://open.spotify.com/album/6voR3t2LQriBJbopx7X6A9) | 3:03 | 2025-02-28 |  |
 | [Heroina](https://open.spotify.com/track/4YQPwIuHm3OAQrNbLF5Qrq) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Heroina](https://open.spotify.com/album/3EF4FDNvaA9bW5fp9YdGHQ) | 2:23 | 2025-05-13 | 2025-05-17 |
@@ -305,7 +306,7 @@
 | [Mil Veces](https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mil Veces](https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S) | 2:34 | 2023-10-20 | 2025-04-12 |
 | [MILAMORES](https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 3:31 | 2023-11-03 | 2023-11-18 |
 | [MIRAGE \(feat\. KayBlack, Ozuna, Sfera Ebbasta & GIMS\) \- Remix](https://open.spotify.com/track/55evGx4KyTqIdcymLDIZVs) | [AriBeatz](https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [MIRAGE \(feat\. KayBlack, Ozuna, Sfera Ebbasta & GIMS\)](https://open.spotify.com/album/3tHy3qFLGbgprrvpkSC0n0) | 2:36 | 2023-06-16 | 2023-07-29 |
-| [MiuMiu](https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [MiuMiu](https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA) | 2:59 | 2025-06-12 |  |
+| [MiuMiu](https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [MiuMiu](https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA) | 2:59 | 2025-06-12 | 2025-09-13 |
 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 | 2022-03-25 | 2022-11-11 |
 | [Mon soleil](https://open.spotify.com/track/2Dv1CPIgX29t816ZLscdB2) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Poison ou Antidote \(Miel Book Edition\)](https://open.spotify.com/album/275OdcSSXdxWeVxLPOGzl6) | 3:10 | 2021-12-31 | 2022-02-26 |
 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2023-10-13 | 2024-07-06 |

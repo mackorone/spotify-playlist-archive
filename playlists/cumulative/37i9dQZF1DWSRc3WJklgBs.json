@@ -970,7 +970,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 178746,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/3fA1ftCkI0rwc2fz09ae29"
@@ -6430,7 +6430,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 208106,
       "name": "Decide",
       "url": "https://open.spotify.com/track/2py6xMr2thQmJ2VhlpSD8W"
@@ -7528,7 +7528,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 157664,
       "name": "Easy Lover (feat. Hilda)",
       "url": "https://open.spotify.com/track/36s5orLQjAigIsH5TrgH8x"
@@ -11016,7 +11016,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 170602,
       "name": "Heart for Rent",
       "url": "https://open.spotify.com/track/5Pqo2Jub3Rk5aVROGwHwsy"
@@ -11716,6 +11716,24 @@
       "duration_ms": 196975,
       "name": "High",
       "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
+    },
+    {
+      "album": {
+        "name": "High For You",
+        "url": "https://open.spotify.com/album/3fu36fH3ZLGbo6kzSL6VXD"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194357,
+      "name": "High For You",
+      "url": "https://open.spotify.com/track/7E2gGp4LHfH99X0LhTnU6j"
     },
     {
       "album": {
@@ -16072,7 +16090,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 206017,
       "name": "LIFELINE",
       "url": "https://open.spotify.com/track/1DgDLr9M24s6EDdySEsQkh"
@@ -19345,6 +19363,28 @@
     },
     {
       "album": {
+        "name": "My Room (90HD)",
+        "url": "https://open.spotify.com/album/4NJHEHmFZmenw16RpncscE"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        },
+        {
+          "name": "Anatole Muster",
+          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143704,
+      "name": "My Room (90HD)",
+      "url": "https://open.spotify.com/track/5DZHmx01Pt2LbNmkop8B0V"
+    },
+    {
+      "album": {
         "name": "Mysoul",
         "url": "https://open.spotify.com/album/70HUV0y654sYmhjVuWgxsO"
       },
@@ -21892,7 +21932,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 204725,
       "name": "PURE LOVE",
       "url": "https://open.spotify.com/track/4zAvLrnmzYAc55qfUG7coN"
@@ -24222,6 +24262,24 @@
       "duration_ms": 150266,
       "name": "Skin & Bones (feat. Winona Oak)",
       "url": "https://open.spotify.com/track/0kisDgW1eYNqJhyvkKeyxJ"
+    },
+    {
+      "album": {
+        "name": "Slapped By My Life",
+        "url": "https://open.spotify.com/album/1RfbYCkmk9RUkG6sdEk2y9"
+      },
+      "artists": [
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175826,
+      "name": "Slapped By My Life",
+      "url": "https://open.spotify.com/track/1fbbToCbUVyJ9GCCgqP5A1"
     },
     {
       "album": {
@@ -28292,7 +28350,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 232738,
       "name": "TOGETHER",
       "url": "https://open.spotify.com/track/4Ihb3pHMTaLicABO47QMGM"
@@ -29158,6 +29216,24 @@
       "duration_ms": 172025,
       "name": "Waiting For A Lifetime",
       "url": "https://open.spotify.com/track/1Wm5An0CgcaLHkxtPYopfT"
+    },
+    {
+      "album": {
+        "name": "Waiting For Love",
+        "url": "https://open.spotify.com/album/4AEeRQPGR1yYYm7O9Z4snk"
+      },
+      "artists": [
+        {
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173628,
+      "name": "Waiting For Love",
+      "url": "https://open.spotify.com/track/4rK2PShTclsiFU0MKeV8JY"
     },
     {
       "album": {

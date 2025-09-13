@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/4eSUGwpQXyQh2Qb09oCs21?si=Nfu5yL6CQoWc80j7LV02gQ">Ihhashi Elimhlophe</a>
+> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg?si=HehpqP0rQM2XzTjoa0eD6w">Sminofu</a>
 
-263 songs - 20 hr 52 min
+264 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [BENG'DAKIWE](https://open.spotify.com/track/4Hv4Gwl4awcQzzazJ054Vg) | [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF), [Sne Ntuli](https://open.spotify.com/artist/7a3R5VMZYPhutTAMipMBAc) | [SILENT TREATMENT](https://open.spotify.com/album/74adsdahGKpJXVlKB6Wxlh) | 4:51 | 2025-04-24 |  |
 | [BO GIRL](https://open.spotify.com/track/6CrL5WAQNE2a94i7tqbi67) | [uMjabulisi](https://open.spotify.com/artist/7hgZmJWaqjihq01cTFgyD6) | [Ningaphiki Nami](https://open.spotify.com/album/12840tLE83NAKIiNZuEqZ8) | 4:08 | 2023-01-30 | 2023-12-02 |
 | [Buza Kunyoko](https://open.spotify.com/track/3MwXl9gwg7aG1NBHcGKaZo) | [Sgwebo Sentambo](https://open.spotify.com/artist/5p55hGi2rq290OvBwMpLps), [King Shaka](https://open.spotify.com/artist/5iVLqqv8xXE8vQ43Psq5wL) | [Ikhumbi Ekweletayo](https://open.spotify.com/album/5nxPey17l6lXWUCsNqm6lF) | 5:49 | 2023-01-30 | 2024-04-23 |
+| [Choice Yethu \(feat\. Zamambo Mkhize\)](https://open.spotify.com/track/62vKRiOWQzjXqNFbcT9XCN) | [Sminofu](https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg), [Zamambo Mkhize](https://open.spotify.com/artist/6ctLUXhi7maYCS8SqM8CYF) | [Choice Yethu \(feat\. Zamambo Mkhize\)](https://open.spotify.com/album/3Zqpd5dswFBq6p0zgumx5M) | 3:48 | 2025-09-12 |  |
 | [COME DUZE](https://open.spotify.com/track/0n4FUypXWTfC1pBdc63Kag) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV), [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [Khotha La \(A Tribute To Mjikjelwa\)](https://open.spotify.com/album/11zqEpEOTNUX5lzw68rZJe) | 4:40 | 2025-07-25 |  |
 | [Dali Ungavumi](https://open.spotify.com/track/2yTHNZL9n8zd1LXRa6LT2W) | [Mshinwemali](https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV), [Zothando](https://open.spotify.com/artist/2JKuODJH36pqK6s3gLcnVe) | [Dali Ungavumi](https://open.spotify.com/album/4TMSarXXnwy2RN5qD6tsKd) | 5:43 | 2023-01-30 |  |
 | [Diona x5](https://open.spotify.com/track/2PQl2BRgemS4sFZTFS703p) | [Mtshengiseni](https://open.spotify.com/artist/0b7Ds3CZPJOmh8hqOq9md4) | [Maskandi Greats Vol.1](https://open.spotify.com/album/3GzuoeKRn8eQF0KAR0N4o6) | 6:52 | 2018-09-25 | 2023-06-16 |

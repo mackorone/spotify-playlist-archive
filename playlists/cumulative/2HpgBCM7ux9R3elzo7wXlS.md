@@ -4,7 +4,7 @@
 
 > All of it
 
-976 songs - 2 day 12 hr 16 min
+977 songs - 2 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [20191009 I Like Her](https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:16 | 2025-08-22 |  |
 | [20Four Songs](https://open.spotify.com/track/2v14XGT6XpCxYDEq5x41me) | [gauthydies4u](https://open.spotify.com/artist/1ZhGmv6onhBEf17i6utMT6) | [20Four Songs](https://open.spotify.com/album/30RaVhHvR6uyl4UclRv45Z) | 3:09 | 2025-06-02 |  |
 | [21st Century Schizoid Man](https://open.spotify.com/track/5yClziwiwTdqRmdPQl3NDz) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/5wec5BciMpDMzlEFpYeHse) | 7:22 | 2025-06-02 |  |
+| [30 Hours](https://open.spotify.com/track/2CHmgtK8OCL28WtIK96u4N) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 5:23 | 2025-09-12 |  |
 | [3005](https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:54 | 2025-06-02 |  |
 | [3500 \(feat\. Future & 2 Chainz\)](https://open.spotify.com/track/1SGt65i9AnXYdDQt1AtDRH) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 7:41 | 2025-06-02 |  |
 | [3D \(Alternate Ver.\)](https://open.spotify.com/track/2pLZ6tUBapqlngc9lnYz4M) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 2:42 | 2025-06-02 |  |

@@ -2,9 +2,9 @@
 
 ### [Bachata Lovers](https://open.spotify.com/playlist/37i9dQZF1DX7MTlMMRl0MD)
 
-> Tu lista favorita de Bachata ❤️ Cover: Anhony Santos
+> Tu lista favorita de Bachata ❤️ Cover: KAROL G
 
-426 songs - 1 day 1 hr 47 min
+428 songs - 1 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Anímate](https://open.spotify.com/track/47KM8wYv36ePhmoDj8ybwU) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Anímate](https://open.spotify.com/album/2RaMQaXU0ZQgokm44kVgIq) | 3:38 | 2023-04-11 | 2023-07-29 |
 | [Aquí Abajo](https://open.spotify.com/track/3hsjGTNxyA4YTzzgLIggzv) | [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Aquí Abajo](https://open.spotify.com/album/4G9E6CiMHtJFw7mdSFlBIB) | 3:18 | 2024-02-09 | 2024-09-04 |
 | [Aquí No Es](https://open.spotify.com/track/06rPvwnIAn14OMlNCiF9ex) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Aquí No Es](https://open.spotify.com/album/6207Q4UNftvhZyj5sbO7tq) | 2:37 | 2025-01-24 |  |
+| [Arjona](https://open.spotify.com/track/7pHhsG5SuPaZw0Ktof0ix5) | [Jensen](https://open.spotify.com/artist/24tjWCXUAwkLJ6bCvYXIde), [Montelier](https://open.spotify.com/artist/56O28NX1Su8GSYhuNGupjI) | [Arjona](https://open.spotify.com/album/6zf5cQQuhcXeqvnLzmR7aJ) | 3:33 | 2025-09-12 |  |
 | [ASI ES LA VIDA](https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ASI ES LA VIDA](https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5) | 2:52 | 2023-09-29 |  |
 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2022-03-04 | 2024-01-13 |
 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 | 2022-03-04 | 2022-09-03 |
@@ -201,7 +202,7 @@
 | [La Carta](https://open.spotify.com/track/2mYKWIsHhODugwBho8Mi7y) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [La Carta](https://open.spotify.com/album/48phjOl7TDFecAVbHfbQZ3) | 3:03 | 2023-09-15 | 2024-01-04 |
 | [La Culpa](https://open.spotify.com/track/5OkBHe7uEoC03x7x4sckQG) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [La Culpa](https://open.spotify.com/album/4p7YEux8DrGBztLRbfWHoR) | 3:24 | 2022-12-04 | 2024-02-17 |
 | [La Culpa](https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh), [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [La Culpa](https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ) | 2:54 | 2023-01-20 | 2023-08-12 |
-| [La Culpable](https://open.spotify.com/track/7L6xzpdRR1fbMd3tMUqGlr) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [La Culpable](https://open.spotify.com/album/6CyGPqtDn4hfis24yIEjXr) | 2:45 | 2024-11-22 |  |
+| [La Culpable](https://open.spotify.com/track/7L6xzpdRR1fbMd3tMUqGlr) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [La Culpable](https://open.spotify.com/album/6CyGPqtDn4hfis24yIEjXr) | 2:45 | 2024-11-22 | 2025-09-13 |
 | [La Despedida](https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [La Despedida](https://open.spotify.com/album/79nrfAlzkAaCorWG5JtKD2) | 3:20 | 2023-04-14 | 2024-06-08 |
 | [La Diabla](https://open.spotify.com/track/252UPuQsncbBFhTrx4Ytcc) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 3:59 | 2022-09-02 | 2022-09-10 |
 | [La Envidia](https://open.spotify.com/track/6iE74C4AEtPX3AeaqFSYgT) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4), [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [La Envidia](https://open.spotify.com/album/3M0CIvvq6kouKPby52vfeD) | 3:21 | 2024-04-26 | 2025-02-08 |
@@ -271,7 +272,7 @@
 | [Morire Bebiendo](https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:14 | 2022-09-09 | 2023-10-21 |
 | [Mujer de las Mil Batallas](https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:24 | 2022-03-04 | 2022-09-03 |
 | [Necio \(feat\. Carlos Santana\)](https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 4:24 | 2022-09-02 | 2023-10-21 |
-| [Ni Me Debes Ni Te Debo](https://open.spotify.com/track/6uzGp5faL6sils5J2hdCQM) | [Gerardo Lares](https://open.spotify.com/artist/5NC4sxfhlMUwOHtAqSWgRA), [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Ni Me Debes Ni Te Debo](https://open.spotify.com/album/1ai5secpUyx9sDD8nB1OPg) | 3:48 | 2024-02-02 |  |
+| [Ni Me Debes Ni Te Debo](https://open.spotify.com/track/6uzGp5faL6sils5J2hdCQM) | [Gerardo Lares](https://open.spotify.com/artist/5NC4sxfhlMUwOHtAqSWgRA), [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Ni Me Debes Ni Te Debo](https://open.spotify.com/album/1ai5secpUyx9sDD8nB1OPg) | 3:48 | 2024-02-02 | 2025-09-13 |
 | [Niña De Mi Corazón](https://open.spotify.com/track/1fwtJ5PoXp02amYo4gFHpP) | [Karlos Rosé](https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib) | [Géminis](https://open.spotify.com/album/53kMwPKLEyqcmp8Vh1QwYt) | 3:05 | 2022-09-09 | 2024-01-13 |
 | [No Es una Novela](https://open.spotify.com/track/6PqaUk1aS7KXHXBr8iELKb) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Exitos Y Mas](https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1) | 3:40 | 2022-03-04 | 2022-09-03 |
 | [No Es una Novela](https://open.spotify.com/track/7I4WMiRLLl0lDn0XmHxkZf) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Uniquehits](https://open.spotify.com/album/60cukXHcYZwS84tTa60i9y) | 3:40 | 2022-09-09 | 2024-01-13 |
@@ -316,6 +317,7 @@
 | [Pégame Tu Vicio](https://open.spotify.com/track/0DLaQPP83EMpgmbiEuzwM4) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Vida](https://open.spotify.com/album/29eoBGwO0kyHR7Vu5NiyO9) | 5:01 | 2022-09-09 | 2023-02-25 |
 | [Que Cosas Tiene El Amor \(feat\. Prince Royce\)](https://open.spotify.com/track/1sRLHqXAohDI070tWU6QIS) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Que Cosas Tiene El Amor \(feat\. Prince Royce\)](https://open.spotify.com/album/5YbnFaF9U2kEOYvMtp1QLe) | 4:19 | 2022-03-04 | 2022-09-03 |
 | [Que Me Importa](https://open.spotify.com/track/3IPV7bpJGN0d1ca5mBOrtf) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Que Me Importa](https://open.spotify.com/album/4w8tP5YeY0t8fJjBNfivg8) | 3:28 | 2024-03-01 | 2024-08-24 |
+| [Que Pase](https://open.spotify.com/track/1sl3BFidCGYy9FdchsRPJ2) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Metamorfosis](https://open.spotify.com/album/488zuAkOMDcIF7WA6AAqDE) | 2:46 | 2025-09-12 |  |
 | [Que Sera de Mi](https://open.spotify.com/track/4T7xZSaBTDUmUWjnHtnSvQ) | [El Varon de la bachata](https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV) | [Que Sera de Mi](https://open.spotify.com/album/6S2qBQU4NA4ZEOzARrS1QF) | 4:31 | 2022-09-09 | 2024-01-13 |
 | [Que Voy a Hacer](https://open.spotify.com/track/5PeTkjViSGyv9Zo8Gq9QjQ) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [De Azua Pal´mundo, Vol\. 2](https://open.spotify.com/album/0BhAPJv3CwI0LbXes1HJHL) | 3:29 | 2024-05-17 |  |
 | [Que Vuelva](https://open.spotify.com/track/0ndYI8UT0PMaJzKLJbFr35) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Corazón Duro](https://open.spotify.com/album/3C5eb62kdgXXv8ZLzfGkiB) | 4:47 | 2022-03-04 | 2022-09-03 |

@@ -2,7 +2,7 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Karma
+> Best of Hindi Hip\-Hop! Cover: Yashraj & Calm
 
 275 songs - 13 hr 58 min
 

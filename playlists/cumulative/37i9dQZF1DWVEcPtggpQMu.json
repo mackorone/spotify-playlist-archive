@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap. \nCover: Flow Jones Jr.",
+  "description": "Only the hottest South African rap. \nCover: La Cabra, Lowfeye",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -1154,6 +1154,28 @@
       "duration_ms": 254065,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/0eJKXkQtDwSZhYfu6PJ26c"
+    },
+    {
+      "album": {
+        "name": "Analogue (Ad)",
+        "url": "https://open.spotify.com/album/29ifpgQ9Agbo16RfQfMnCr"
+      },
+      "artists": [
+        {
+          "name": "Tyson Sybateli",
+          "url": "https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy"
+        },
+        {
+          "name": "Marcus Harvey",
+          "url": "https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213506,
+      "name": "Analogue",
+      "url": "https://open.spotify.com/track/6Jdx1D3wtYGA3BnyxRZxrT"
     },
     {
       "album": {
@@ -5322,7 +5344,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 215040,
       "name": "Ekse",
       "url": "https://open.spotify.com/track/3AopEpH78mHXLRoDtfJ95G"
@@ -7054,7 +7076,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 104800,
       "name": "Gimme My Money",
       "url": "https://open.spotify.com/track/7iY8FiYAwk1B1HM9tGXl4J"
@@ -9894,7 +9916,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 198974,
       "name": "Khukhumele",
       "url": "https://open.spotify.com/track/633atCw2V4NjU8M5j4D6Py"
@@ -14796,7 +14818,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 120000,
       "name": "Plug Me S:2 Ep:2",
       "url": "https://open.spotify.com/track/12L7VhFdr2vHyuA7UvuFkc"
@@ -22242,6 +22264,32 @@
       "duration_ms": 176009,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/7sopysSZT7mUipbIcwOZ97"
+    },
+    {
+      "album": {
+        "name": "WOZALA (feat. Vson)",
+        "url": "https://open.spotify.com/album/2q6zN7Wy9YozcVZ8ecg61t"
+      },
+      "artists": [
+        {
+          "name": "NOTBENJAMIN",
+          "url": "https://open.spotify.com/artist/303bUa4VDUe6fAPIM5vzvN"
+        },
+        {
+          "name": "VegasXCesar",
+          "url": "https://open.spotify.com/artist/2WWAFBZmTE2YEyVe7lpek4"
+        },
+        {
+          "name": "Vson",
+          "url": "https://open.spotify.com/artist/5YmDVdMVzGLDcyHtZ21CPH"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "WOZALA (feat. Vson)",
+      "url": "https://open.spotify.com/track/5JsJx5K3jGCnHTpTsrNIkY"
     },
     {
       "album": {

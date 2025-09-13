@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Fleeland
 
-1,320 songs - 3 day 7 hr 30 min
+1,320 songs - 3 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [After a While](https://open.spotify.com/track/6iAEOBu38x5Qbg2CcoCgk8) | [Michael Bernard Fitzgerald](https://open.spotify.com/artist/7qugSH6OA23DE6I5v4kpdv) | [Horizon Lines](https://open.spotify.com/album/1ffDjaaQRB7Zn3g7k5MscX) | 3:04 | 2025-03-28 | 2025-07-29 |
 | [After All This Time](https://open.spotify.com/track/6pHL3CLFfkXqYGJZBk4l2c) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [After All This Time](https://open.spotify.com/album/3noFWYo0GT5o7RbsVPo9az) | 2:50 | 2023-02-03 | 2023-03-11 |
 | [afterall](https://open.spotify.com/track/0JFAzsu2ZYX7HmtjRQ3dVu) | [summersets](https://open.spotify.com/artist/56UCNajlvDjMgHedDlPr6v) | [afterall](https://open.spotify.com/album/0owHLrBuiNkiNgVJZJoY2g) | 3:22 | 2023-03-17 | 2023-04-15 |
-| [Ain't As Pretty A Blue](https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ) | [Fleeland](https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4), [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E), [Mills](https://open.spotify.com/artist/6ShWmAepwzVO9g20AQkurR) | [Ain't As Pretty A Blue](https://open.spotify.com/album/462ULrUnmVxUH6vknoGjVU) | 3:57 | 2025-09-12 |  |
+| [Ain't As Pretty A Blue](https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ) | [Fleeland](https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4), [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E), [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Ain't As Pretty A Blue](https://open.spotify.com/album/462ULrUnmVxUH6vknoGjVU) | 3:57 | 2025-09-12 |  |
 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 | 2023-09-15 | 2024-01-13 |
 | [aka's white wolf](https://open.spotify.com/track/32BzrzD6L6EsIkCqwWW4FQ) | [Amélie Farren](https://open.spotify.com/artist/6xRbdqe7I2llmjw533rYnG) | [aka's white wolf](https://open.spotify.com/album/6RwBmZb4xuBOQ3PQfpIsrE) | 2:54 | 2025-08-22 |  |
 | [Alco](https://open.spotify.com/track/0NTgQB7fb7ovrhx5pfm9Po) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Alco](https://open.spotify.com/album/1kty4m9JKEsD5NZaacdL16) | 3:48 | 2023-04-21 | 2023-06-03 |
@@ -229,7 +229,7 @@
 | [Coming Home](https://open.spotify.com/track/3cThhPUrZb0kCyMP16wuCq) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Coming Home](https://open.spotify.com/album/4eYQjUjsAlXey57Roncuyk) | 3:11 | 2022-05-13 | 2022-05-20 |
 | [Coming Like A Storm](https://open.spotify.com/track/21ZZoNpWAzqYgiTJdAZ23X) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Coming Like A Storm](https://open.spotify.com/album/6EzioNrB5s89cA1CSYao1i) | 3:21 | 2022-06-10 | 2022-09-24 |
 | [Coming Up](https://open.spotify.com/track/6kLUzaC1PDhDwxe2zIrp6i) | [Close Kicks](https://open.spotify.com/artist/3pQw5S2Z06nDHl0s2p7Ooq) | [Coming Up](https://open.spotify.com/album/1J6XWZjv2b4aqpnQl6h5bd) | 4:21 | 2022-05-13 | 2022-08-20 |
-| [Completely](https://open.spotify.com/track/07i5jOocp8ehxNoWUhdwMi) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [](https://open.spotify.com/album/null) | 4:08 | 2025-09-12 |  |
+| [Completely](https://open.spotify.com/track/07i5jOocp8ehxNoWUhdwMi) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [Completely](https://open.spotify.com/album/2OLfeRc2kDSDDRRGiN4i9L) | 4:08 | 2025-09-12 |  |
 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-08-29 | 2023-04-01 |
 | [Concussion](https://open.spotify.com/track/44QZDutuB7stlBUk7fH5O3) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Concussion](https://open.spotify.com/album/5F6qVof82S3FLTv3KT316F) | 3:02 | 2023-02-17 | 2023-03-11 |
 | [condition of us](https://open.spotify.com/track/7vAY7UDYCEdHORizieZ39t) | [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [condition of us](https://open.spotify.com/album/4bGPhjwqWjUfkR0ZcgCftm) | 4:18 | 2023-06-02 | 2023-07-15 |
@@ -912,6 +912,7 @@
 | [Qaumajur](https://open.spotify.com/track/4iEYvfQHN2ceUpZS852rnm) | [Putumayo](https://open.spotify.com/artist/7k8vgAYpmLCJNOs1J8SB8X), [Juurini](https://open.spotify.com/artist/4hJndL9GhSQZ3rymH5P5cx), [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [Qaumajur](https://open.spotify.com/album/63FnoKSa6gnqhLykGflXTI) | 3:34 | 2023-08-04 | 2024-01-20 |
 | [Qimatsilunga \(I Want to Break Free\)](https://open.spotify.com/track/3s7edrMgsb2GHt36L0mFOp) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Qimatsilunga \(I Want to Break Free\)](https://open.spotify.com/album/5ILR1GcWMyPSkEfWBsqwfZ) | 4:03 | 2023-09-15 | 2023-11-25 |
 | [Qimmijuat \(Wild Horses\)](https://open.spotify.com/track/3Rt3viQJXYZ72pLpqmL1C2) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Qimmijuat \(Wild Horses\)](https://open.spotify.com/album/464WdsCECkTzqIEv3ITRrD) | 5:29 | 2023-08-04 | 2023-09-16 |
+| [queen of the season](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [last night you said you missed me](https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2) | 3:19 | 2025-09-12 |  |
 | [Questions](https://open.spotify.com/track/7GHms8hXY5JGws8Fq43pEl) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Questions](https://open.spotify.com/album/6yYAQwewuKRqopK7aLlSjU) | 4:25 | 2025-04-25 | 2025-08-15 |
 | [Questions, Chaos & Faith](https://open.spotify.com/track/7dwszn3bUo9ozTx5SjRzZa) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Questions, Chaos & Faith](https://open.spotify.com/album/1fztGf3wviZe3XgCpBmpH3) | 3:57 | 2024-04-19 | 2024-06-01 |
 | [Quicksand](https://open.spotify.com/track/0GI6G8PlaUs1orX7nSKoBv) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Quicksand](https://open.spotify.com/album/1WDVN86bNSZ9vuGFMVfXJ6) | 3:49 | 2025-08-15 |  |
@@ -1188,7 +1189,6 @@
 | [Touch the Void](https://open.spotify.com/track/5PXpRaVbb7WsUrAzkdgWct) | [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [Touch the Void](https://open.spotify.com/album/092JOL9Fk1RgbqaqAaYMSb) | 3:57 | 2023-04-28 | 2023-10-28 |
 | [Tough Love](https://open.spotify.com/track/4kGGQubXF1b4yut3zwKQ1h) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Tough Love](https://open.spotify.com/album/4tPrGiSt9vsolF3jqexC7u) | 3:01 | 2023-07-21 | 2023-09-09 |
 | [tout ça](https://open.spotify.com/track/6a2OG6Xjsl9JZyx6WWg5LX) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\(Lot 2\) consolation](https://open.spotify.com/album/7liNPWOvTHUYVg5ZhPLBvm) | 3:10 | 2023-02-10 | 2023-03-11 |
-| [Track 4](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-12 |  |
 | [Traveler Of Swords](https://open.spotify.com/track/5ThAnXfWPVc8IoCwsuj0r7) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [In Lieu Of Light](https://open.spotify.com/album/66JVLeQWGThPRRWa20xJ4Z) | 4:16 | 2022-09-09 | 2023-03-18 |
 | [Treadmill](https://open.spotify.com/track/2WgHnskdhFJQLRK34T2ZR4) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Treadmill](https://open.spotify.com/album/68KXEVUovAaprYUksUU4Cc) | 4:53 | 2024-07-26 | 2025-01-18 |
 | [Treasure Hunt](https://open.spotify.com/track/2l8E8NGD1HycrJCvPRSuXP) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Treasure Hunt](https://open.spotify.com/album/65NK7opW4tOfm9pDemKWN1) | 3:22 | 2023-05-19 | 2023-06-17 |

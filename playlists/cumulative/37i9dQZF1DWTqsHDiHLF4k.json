@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Mark William Lewis",
+        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279506,
+      "name": "Ecstatic Heads",
+      "url": "https://open.spotify.com/track/6h8nLmwNxWrHKYm9p28oc2"
+    },
+    {
+      "album": {
         "name": "En Medio",
         "url": "https://open.spotify.com/album/6e0VAj0pMV7BqLz2MAwkAt"
       },

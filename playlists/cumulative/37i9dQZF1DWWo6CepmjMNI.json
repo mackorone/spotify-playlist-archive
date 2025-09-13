@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YODSARUN",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ROUSE",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -118,6 +118,28 @@
       "duration_ms": 295806,
       "name": "boohoo (\u0e08\u0e33\u0e44\u0e27\u0e49\u0e40\u0e25\u0e22)",
       "url": "https://open.spotify.com/track/2iVVlPFUbce9jO8vk2E9m0"
+    },
+    {
+      "album": {
+        "name": "Clone",
+        "url": "https://open.spotify.com/album/2QaChV46PMPrCjvEnKqKOZ"
+      },
+      "artists": [
+        {
+          "name": "Mary James",
+          "url": "https://open.spotify.com/artist/1gb0nqPqawTkD59BzsOODD"
+        },
+        {
+          "name": "My Wratred",
+          "url": "https://open.spotify.com/artist/2r3fZlFsIxkUPvJRC8smmI"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316105,
+      "name": "Clone",
+      "url": "https://open.spotify.com/track/1bQXHQFkMvhzvjGePw9y3v"
     },
     {
       "album": {
@@ -884,7 +906,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 259722,
       "name": "\u0e01\u0e25\u0e31\u0e1a\u0e44\u0e1b\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01 - Back To Strangers",
       "url": "https://open.spotify.com/track/41a1TRLJFko8a4rkoWYhdv"
@@ -1028,7 +1050,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 256000,
       "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e23\u0e32\u0e08\u0e30\u0e17\u0e33\u0e23\u0e49\u0e32\u0e22\u0e01\u0e31\u0e19\u0e44\u0e1b\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/1e8OYH9bDLfCFtLhKMn3Kj"
@@ -1298,7 +1320,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 408036,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33\u0e41\u0e25\u0e30\u0e01\u0e32\u0e25\u0e40\u0e27\u0e25\u0e32",
       "url": "https://open.spotify.com/track/0ZCkY4XP9bq56S1xayQzmW"
@@ -2191,6 +2213,24 @@
     },
     {
       "album": {
+        "name": "\u0e1b\u0e23\u0e30\u0e04\u0e2d\u0e07",
+        "url": "https://open.spotify.com/album/2NpvpCnqR1BaMgVlfUtl42"
+      },
+      "artists": [
+        {
+          "name": "Town Tolwer",
+          "url": "https://open.spotify.com/artist/2Rz7PNBRihBNbev6lsaxdd"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269268,
+      "name": "\u0e1b\u0e23\u0e30\u0e04\u0e2d\u0e07",
+      "url": "https://open.spotify.com/track/1IwyRB4uI2sQM1WwkhLuV1"
+    },
+    {
+      "album": {
         "name": "Troposphere",
         "url": "https://open.spotify.com/album/45stlce2xG66nrFIaWXWNb"
       },
@@ -2501,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "\u0e1e\u0e39\u0e14\u0e40\u0e25\u0e22\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01 (YOUR FUTURE IS CALLING)",
+        "url": "https://open.spotify.com/album/3qOGG6ysERzEpXFtMAkE4s"
+      },
+      "artists": [
+        {
+          "name": "YEP MAY YEP",
+          "url": "https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239677,
+      "name": "\u0e1e\u0e39\u0e14\u0e40\u0e25\u0e22\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01 (YOUR FUTURE IS CALLING)",
+      "url": "https://open.spotify.com/track/1iZ6ojuQxgHgFX3KCKXV58"
+    },
+    {
+      "album": {
         "name": "\u0e1e\u0e39\u0e48\u0e01\u0e31\u0e19 (feat. dopameen & IAmLast)",
         "url": "https://open.spotify.com/album/7jKGt7AVFeLmyeDnnK3peG"
       },
@@ -2628,7 +2686,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 343775,
       "name": "\u0e21\u0e31\u0e19\u0e08\u0e1a\u0e25\u0e07\u0e41\u0e25\u0e49\u0e27\u0e43\u0e0a\u0e48\u0e44\u0e2b\u0e21",
       "url": "https://open.spotify.com/track/3V21XBT70y2nytEwdJAiMy"
@@ -3313,6 +3371,24 @@
     },
     {
       "album": {
+        "name": "\u0e2b\u0e25\u0e38\u0e21",
+        "url": "https://open.spotify.com/album/4PQy5sDgIlkwxtwmojS1XD"
+      },
+      "artists": [
+        {
+          "name": "ROUSE",
+          "url": "https://open.spotify.com/artist/42wCcg6q3NRhi0vQQ7JvNB"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279763,
+      "name": "\u0e2b\u0e25\u0e38\u0e21",
+      "url": "https://open.spotify.com/track/6SZB6PN3AzUy4gjg6cwhyj"
+    },
+    {
+      "album": {
         "name": "\u0e2b\u0e27\u0e07\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e21\u0e31\u0e49\u0e22 (jelly)",
         "url": "https://open.spotify.com/album/4lZuaKMNN0OMyzGbbbVcnA"
       },
@@ -3648,7 +3724,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 250000,
       "name": "\u0e40\u0e08\u0e47\u0e1a\u0e40\u0e08\u0e35\u0e22\u0e19\u0e15\u0e32\u0e22",
       "url": "https://open.spotify.com/track/6zohPB1L4PuKKa6R12KzXs"
@@ -4654,6 +4730,24 @@
       "duration_ms": 263765,
       "name": "\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e17\u0e35\u0e48\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Honestly)",
       "url": "https://open.spotify.com/track/3Dj4PqpmYe63c5Ky6w9bGA"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e40\u0e18\u0e2d (not you)",
+        "url": "https://open.spotify.com/album/6M71hcGd6ZEnW9yOfohxQO"
+      },
+      "artists": [
+        {
+          "name": "Story and Feel.",
+          "url": "https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258261,
+      "name": "\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e40\u0e18\u0e2d (not you)",
+      "url": "https://open.spotify.com/track/2nCxgWqc37RCo5cb9XsCHz"
     },
     {
       "album": {

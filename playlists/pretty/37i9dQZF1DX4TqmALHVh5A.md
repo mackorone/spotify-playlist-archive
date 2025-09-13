@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : miki
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,679 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,748 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 8 | [j'peux pas te sortir de ma tête \(can't get you out of my head\)](https://open.spotify.com/track/66R9mjXTFnOcjvpArXw1Nw) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [j'peux pas te sortir de ma tête \(can't get you out of my head\)](https://open.spotify.com/album/14pywwtvhvf7b5AqRorTFW) | 3:09 |
 | 9 | [COMMENT TU T'APPELLES ?](https://open.spotify.com/track/3iVHpYIzAVAwwOkkjIqX9P) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [COMMENT TU T'APPELLES ?](https://open.spotify.com/album/6sT5T9gtQCE2Xo88GO9NoV) | 2:38 |
 | 10 | [Dans quelques années](https://open.spotify.com/track/7iTKzfE7lcUMPfqNyeKQcE) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Dans quelques années](https://open.spotify.com/album/4XYeMFN1EkDkn3BMDrZACn) | 3:19 |
-| 11 | [Rends\-moi ma vie](https://open.spotify.com/track/4Y0pXVg7ayEhsE450GnPi2) | [Flora Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [](https://open.spotify.com/album/null) | 4:06 |
+| 11 | [Rends\-moi ma vie](https://open.spotify.com/track/4Y0pXVg7ayEhsE450GnPi2) | [Flora Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Val Synth](https://open.spotify.com/album/044XJPSvbfIgaI5q4SHnvx) | 4:06 |
 | 12 | [Feet](https://open.spotify.com/track/454NLXY4WwWj6vkhcQLkvE) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Feet](https://open.spotify.com/album/67ng9BqYRD1F3Wo9QEYaTu) | 3:05 |
 | 13 | [Presque Punk](https://open.spotify.com/track/75HY55DJoZNg8lK1IZ2i4m) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Presque Punk](https://open.spotify.com/album/7Ismclfo1TZYljMc8FGfAj) | 3:53 |
 | 14 | [Coups de soleil](https://open.spotify.com/track/7z4oEyhuIL5jB45mL4bKLX) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Coups de soleil](https://open.spotify.com/album/1P9eGJfPY8ZYPdVZOndFcm) | 2:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Gabriel Guedes de Almeida
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,967 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,167 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 12 | [Posso Clamar](https://open.spotify.com/track/56CuJ4nDKjvVpaa8Hw4n7Z) | [Amanda Wanessa](https://open.spotify.com/artist/4kvOhoqtLM66VLWfcUv4Hm) | [Posso Clamar](https://open.spotify.com/album/2qIKxc718FprBnothSuHmS) | 5:24 |
 | 13 | [Fui Encontrado](https://open.spotify.com/track/4oqq498zEj7F2esUw2mmrZ) | [Lílian Marinho](https://open.spotify.com/artist/1R1fU5Cp3f7H09j7G1NkFv), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Fui Encontrado](https://open.spotify.com/album/0fDNbzqgRuQmhYXbbDnUTn) | 4:59 |
 | 14 | [Não Há Um Nome Igual](https://open.spotify.com/track/0pZunxdocQoFWfyg8psofN) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [YAHWEH](https://open.spotify.com/album/2Olp0vw8ISoUBQYH89qa42) | 8:40 |
-| 15 | [Track 1](https://open.spotify.com/track/6RCjTKe9B8UPZAjv4LebOm) | [Luciano Camargo](https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3), [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [](https://open.spotify.com/album/null) | 0:00 |
+| 15 | [Olhos não viram](https://open.spotify.com/track/6RCjTKe9B8UPZAjv4LebOm) | [Luciano Camargo](https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3), [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Unidos Pela Fé Vol 1](https://open.spotify.com/album/6LGmHhZPfHHzQCrXzFGhb4) | 4:23 |
 | 16 | [Fale com Jesus](https://open.spotify.com/track/7MpPLAA70xTxocLdVyNFQd) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Fale com Jesus](https://open.spotify.com/album/385BgwUwGoJDEb8TtwNHL8) | 5:04 |
 | 17 | [Eu Me Arrependo + Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/track/03KTzNp5hi9zjM8Wg1y8a7) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Me Arrependo + Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/album/72whHnsjNfhUiF6v4wxbA6) | 5:38 |
 | 18 | [A Minha Casa Tem um Dono \- Ao Vivo](https://open.spotify.com/track/1poenjeIuCBkSilOLUM6yh) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [A Minha Casa Tem um Dono \(Ao Vivo\)](https://open.spotify.com/album/47yT7yHReQcl4NeTX5LE7j) | 4:36 |

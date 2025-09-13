@@ -1,15 +1,47 @@
 {
   "description": "Les hits pr\u00e9f\u00e9r\u00e9s des enfants (et de leurs parents). ",
-  "num_followers": 198042,
+  "num_followers": 198036,
   "original_name": "Top Hits Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOGzcCSVTNEQgyCh5/k9t9HW6d5y",
+  "snapshot_id": "AAAAABHd4kZruECoCWfRw20O+rjIK9pY",
   "tracks": [
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
+      "album": {
+        "name": "Golden (from the Netflix film KPop Demon Hunters)",
+        "url": "https://open.spotify.com/album/2FZ9yvgjgkzgcvvRMLx9Ab"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "Alexiane Broque",
+          "url": "https://open.spotify.com/artist/5qIdeu6LWidREML9dzL0WD"
+        },
+        {
+          "name": "Jeanne J\u00e9rosme",
+          "url": "https://open.spotify.com/artist/55MG6lE79B7ClZe6nMSnrK"
+        },
+        {
+          "name": "Clotilde Verry",
+          "url": "https://open.spotify.com/artist/5QrZth2MNx8LlLnzkVaqKr"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "duration_ms": 192974,
+      "name": "Briller - Golden - version fran\u00e7aise",
+      "url": "https://open.spotify.com/track/4Zg2p0S5G6dxF3xCmRBv3R"
+    },
+    {
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Iko Iko (My Bestie)",
         "url": "https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU"
@@ -29,7 +61,7 @@
       "url": "https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Pays des merveilles",
         "url": "https://open.spotify.com/album/7B1NFmx9uu3VbOvGBAiUCe"
@@ -45,7 +77,7 @@
       "url": "https://open.spotify.com/track/6aZPMuJetqwKQCPClCNgd3"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Dance Monkey (Stripped Back) / Dance Monkey",
         "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
@@ -61,7 +93,7 @@
       "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA"
@@ -77,7 +109,7 @@
       "url": "https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "1989 (Deluxe)",
         "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
@@ -93,7 +125,7 @@
       "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Soleil Bleu",
         "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
@@ -113,7 +145,7 @@
       "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Cyclorama",
         "url": "https://open.spotify.com/album/46vqvAYDetWqC04lXDzTmc"
@@ -129,7 +161,7 @@
       "url": "https://open.spotify.com/track/0Ae5IeIdyaIzp43cdXXtZc"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "AIR FORCE BLANCHE",
         "url": "https://open.spotify.com/album/61QF4MUk8qSxpaXlsxjjKQ"
@@ -149,39 +181,7 @@
       "url": "https://open.spotify.com/track/6bcDH1OOwuKzfsByqsQKhH"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
-      "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
-      },
-      "artists": [
-        {
-          "name": "HUNTR/X",
-          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        },
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
-        }
-      ],
-      "duration_ms": 194607,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
-    },
-    {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Africainement v\u00f4tre",
         "url": "https://open.spotify.com/album/7CbbTg0ujpAaeLvEvk8JqS"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/3s6ltUrI93LBKU8taezsLn"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Come Into My Life (The Album)",
         "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Petit g\u00e9nie",
         "url": "https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Y Que Fue?",
         "url": "https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Ceinture noire",
         "url": "https://open.spotify.com/album/019J7AS3BBfPXy8rV3ZTJO"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/3sjqktglX8F6EWvjUmHe0y"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Katchi (Ofenbach vs. Nick Waterhouse)",
         "url": "https://open.spotify.com/album/7fJMKBNqYWhvWDs560x6nn"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/2NF8A7C6tICScdRaZ0BrEe"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Out\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/05LPUIOpXEr1aItAeYscFP"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/3GZCULuKsRR4FpnrKFkIe0"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "La vingtaine",
         "url": "https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/3p26SlvvvwRo3WY9pUTlE0"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "NINAO",
         "url": "https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/0wrlgAW7tetQG2L3sy2wkN"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/5xk3iZlyYSurXmanrktlgs"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
         "url": "https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "M'envoler",
         "url": "https://open.spotify.com/album/7e4NORyIvN6peW9EvGZLY8"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/79KzEOgXmAIG6yez6MxKdQ"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Menina de Vermelho",
         "url": "https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "CIEL",
         "url": "https://open.spotify.com/album/6qU5xBM7guK1Gwb3LTLufL"
@@ -525,10 +525,10 @@
       "url": "https://open.spotify.com/track/78FNSZkI1968KTtyf2s315"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+        "name": "Soda Pop (from the Netflix film KPop Demon Hunters)",
+        "url": "https://open.spotify.com/album/2UghdVFMf8TvVl55Bxho1w"
       },
       "artists": [
         {
@@ -536,36 +536,36 @@
           "url": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
         },
         {
-          "name": "Andrew Choi",
-          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
+          "name": "Doryan Ben",
+          "url": "https://open.spotify.com/artist/7cYc1TBfW5cB9ZQ5ciW7Yq"
         },
         {
-          "name": "Neckwav",
-          "url": "https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH"
+          "name": "Thomas Bernier",
+          "url": "https://open.spotify.com/artist/6SiHkRHKFGILL7tyLNYRsY"
         },
         {
-          "name": "Danny Chung",
-          "url": "https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33"
+          "name": "Guillaume Beaujolais",
+          "url": "https://open.spotify.com/artist/1LoQUk8Xi2lVQyk7j4CzcA"
         },
         {
-          "name": "KEVIN WOO",
-          "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
+          "name": "Loa\u00ef Rahman",
+          "url": "https://open.spotify.com/artist/7qp9X0a1Cfw4SmJlD88uaG"
         },
         {
-          "name": "samUIL Lee",
-          "url": "https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r"
+          "name": "Bastien Jacquemart",
+          "url": "https://open.spotify.com/artist/43a1uyu0fNQFun2MT56hkX"
         },
         {
           "name": "KPop Demon Hunters Cast",
           "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
         }
       ],
-      "duration_ms": 150686,
-      "name": "Soda Pop",
-      "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
+      "duration_ms": 149598,
+      "name": "Soda Pop - version fran\u00e7aise",
+      "url": "https://open.spotify.com/track/24WEQrnHb2m6OKVdfhAp4T"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Bam Bam (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Tahiti",
         "url": "https://open.spotify.com/album/7uHPaVhNz2ECnqC0SmpXPo"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/5vcvA0w8YoGQiifOmas9uo"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/7aa71fyBd1G9q4BPQlibUu"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/1RighqmKZNqLP9rklJ4HCz"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Jerusalema",
         "url": "https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Me Enamore",
         "url": "https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Dame Un Grrr",
         "url": "https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Franchement !",
         "url": "https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Azizam",
         "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "Minimum \u00e7a",
         "url": "https://open.spotify.com/album/2q5EahZjBppWAcWXG6nuha"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/1lRtRYr979UcWFC0By63Er"
     },
     {
-      "added_at": "2025-08-28 22:00:17",
+      "added_at": "2025-09-12 13:26:46",
       "album": {
         "name": "1000 Forms Of Fear",
         "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"

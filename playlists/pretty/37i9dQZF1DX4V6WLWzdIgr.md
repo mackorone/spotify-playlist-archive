@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 ### [Ambyar](https://open.spotify.com/playlist/37i9dQZF1DX4V6WLWzdIgr)
 
-> ra kabeh sing mbok tresnani
+> ra kabeh sing mbok tresnani, mbalik nresnani kowe 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,198 likes - 91 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,249 likes - 91 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 | 90 | [Tekan Semene](https://open.spotify.com/track/05l0TpxjHw8Y5Vxb9p5xKv) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Tekan Semene](https://open.spotify.com/album/6kll8pVZnCHYbEKPDiV5XS) | 5:44 |
 | 91 | [Cerito Loro](https://open.spotify.com/track/2G4wPLrZnnREwMOt4DT1sN) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Cerito Loro](https://open.spotify.com/album/3oFiAmnn5Q4THrMGBfjM6k) | 6:17 |
 
-Snapshot ID: `AAAAAMbak8ZPQp6uo7bog3IsCPk+1uea`
+Snapshot ID: `AAAAAFWn2EOosA9EiOrWqJstUR0Laq/8`

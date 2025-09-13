@@ -2,9 +2,9 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Guilherme & Benuto
+> O melhor do sertanejo em uma só playlist! Foto: Murilo Huff
 
-330 songs - 15 hr 29 min
+331 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [De Bandeja](https://open.spotify.com/track/5dYgIl06rPx4gIAZ7kMUTO) | [Bruno Cesar e Rodrigo](https://open.spotify.com/artist/1LKDfxZdebmgWG4qSR7hO9), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [De Bandeja](https://open.spotify.com/album/63alAoMzRcSkyxKrPYR05I) | 2:21 | 2024-08-02 | 2024-10-18 |
 | [De Chapéu na Cabeça \- Ao Vivo](https://open.spotify.com/track/5TQiPoRzcV6TqdefJYhIpd) | [Fiduma & Jeca](https://open.spotify.com/artist/2h73KyGixa4A1xlhcxjpG1) | [F&J 10 Anos \(Ao Vivo\)](https://open.spotify.com/album/2cS7p1PVo85zW1Y4lqlQLS) | 2:31 | 2025-02-26 | 2025-04-05 |
 | [Dedo do Meio \- Ao Vivo](https://open.spotify.com/track/2ORC76autQ7QTfBCkZl4Wo) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Fortaleza, Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/6t2JyS8CJ0pgBMabJhXWGK) | 2:47 | 2024-04-12 | 2024-12-20 |
+| [Deixa Eu \- Ao Vivo](https://open.spotify.com/track/2Hw0LzrD6ic8AckKBxJhiO) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/2lmUmRXPsds8n2YU68dalX) | 2:38 | 2025-09-12 |  |
 | [Deixa Eu Amar Você](https://open.spotify.com/track/2DyuHPs5w0HXuzzusnoMYa) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8) | [On Fire](https://open.spotify.com/album/2EgIkuV76R6XfAefSNOkWX) | 3:11 | 2023-11-17 | 2023-12-19 |
 | [DEJA VU](https://open.spotify.com/track/2IDf0IZ9dfw0uDYV2n1bJc) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [DEJA VU](https://open.spotify.com/album/0aN9m8iDUE1Khh5qL6Aj4q) | 3:19 | 2023-12-18 | 2024-02-10 |
 | [Depois \- Ao Vivo](https://open.spotify.com/track/1Ms6NNsLMqdC5v1qE3d89p) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Transcende \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/2r7Ojc9IwEpjQu4Ga76fFw) | 2:36 | 2024-08-09 | 2025-05-31 |
@@ -251,7 +252,7 @@
 | [Poeirão \- Ao Vivo](https://open.spotify.com/track/5ZkwwBa9DlwuUFbXwrLeXF) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Deu Rolo de Novo, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7B0EpsE17BgPH8zVUjjpNx) | 2:42 | 2023-11-10 | 2024-09-20 |
 | [Pra Sempre](https://open.spotify.com/track/6i1gSXWqwps6kqtDWefV7e) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [AgroPlay Verão 3 \- Vol\. 2](https://open.spotify.com/album/0TnCwnWqlHtB1jbE3QLqRy) | 3:26 | 2025-02-26 | 2025-05-03 |
 | [Presepada](https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 3:16 | 2021-12-31 | 2022-09-24 |
-| [Princesa \- Ao Vivo](https://open.spotify.com/track/5agC5wI07VVfe5dQfXmud8) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Princesa \(Ao Vivo\)](https://open.spotify.com/album/1oigWQMt92MvWGBMmjcUIH) | 3:28 | 2025-06-13 |  |
+| [Princesa \- Ao Vivo](https://open.spotify.com/track/5agC5wI07VVfe5dQfXmud8) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Princesa \(Ao Vivo\)](https://open.spotify.com/album/1oigWQMt92MvWGBMmjcUIH) | 3:28 | 2025-06-13 | 2025-09-13 |
 | [Problemão \- Ao Vivo](https://open.spotify.com/track/5ldOW0wsKwLIfW2BBUuLbe) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Nossa Cara \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/5HIszENJrDZiPqko4CiMdb) | 2:39 | 2025-02-07 | 2025-02-26 |
 | [Problemão \- Ao Vivo](https://open.spotify.com/track/2XP7Is6c69WaPgX2Kr65l7) | [Hugo & Vitor](https://open.spotify.com/artist/3rbG069NuFKBCXYPoGjB9g), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Respeita Minha Dupla \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/0U4phq4JCvqNLVYwiHgzG6) | 2:17 | 2022-10-28 | 2023-06-03 |
 | [Proibido Terminar \- Ao Vivo](https://open.spotify.com/track/7shkORZD3NNi6waqw7eIqT) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Proibido Terminar \(Ao Vivo\)](https://open.spotify.com/album/2wOZJYlZoefQ4fWRSiz6R8) | 2:45 | 2025-02-14 | 2025-02-22 |

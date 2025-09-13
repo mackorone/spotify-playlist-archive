@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: LØLØ
+> Dark, hard hitting pop\. Cover: Ella Red
 
-977 songs - 1 day 21 hr 5 min
+982 songs - 1 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [HATE YOUR GUTS](https://open.spotify.com/track/6x3VbkjJpLygkueOL604cz) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [HATE YOUR GUTS](https://open.spotify.com/album/0wOwIIsyCvsviyZVMyMkuW) | 2:36 | 2024-03-15 | 2024-06-29 |
 | [Haunt Your Dreams](https://open.spotify.com/track/4UuCqDO4FGdM3ZTJuN3pSW) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Haunt Your Dreams](https://open.spotify.com/album/1vYOBi8w3jO0JDaX8yexVJ) | 2:51 | 2023-06-02 | 2023-08-19 |
 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 | 2022-02-04 | 2022-06-25 |
+| [He Asked for It](https://open.spotify.com/track/748Jj8PHFv5YcURGcD9hrr) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [He Asked for It](https://open.spotify.com/album/3L2pyTDUV3Ks9fe26iFcTN) | 2:51 | 2025-09-12 |  |
 | [he loves me, he loves me not](https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [petals](https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb) | 2:37 | 2024-01-12 | 2024-05-25 |
 | [headboard](https://open.spotify.com/track/45jIKjZDlMEarhjRTKYA9F) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [headboard](https://open.spotify.com/album/54j4T7LI023ozkTZ1VhvAn) | 2:40 | 2022-09-09 | 2022-11-19 |
 | [Heart Attack \- Rock Version](https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack \(Rock Version\)](https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8) | 3:59 | 2023-03-24 | 2023-08-19 |
@@ -582,6 +583,7 @@
 | [Mirage](https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Mirage](https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT) | 2:17 | 2024-07-12 | 2024-12-21 |
 | [Mirror, Mirror](https://open.spotify.com/track/1HYIkeqybKZM2QrkOBQcML) | [Abigail Barlow](https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu) | [Mirror, Mirror](https://open.spotify.com/album/1sifnBb5fKCS0o4fD9LCDg) | 1:54 | 2023-11-10 | 2024-02-17 |
 | [Miss Independent \- Spotify Singles](https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Spotify Singles](https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL) | 3:32 | 2023-06-16 | 2023-08-19 |
+| [MISUNDERSTOOD](https://open.spotify.com/track/2bLvl13n5A23LeKggTrkTV) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [The Misunderstood EP](https://open.spotify.com/album/6Ep6pTjB74CbL3yiaTzikT) | 3:08 | 2025-09-12 |  |
 | [Moderation](https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Moderation](https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U) | 2:17 | 2022-02-25 | 2022-07-09 |
 | [Moist](https://open.spotify.com/track/0zF0Qrico9hPxd4dqmvsEL) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Moist](https://open.spotify.com/album/03mXhmUKLGxyIWyDAIxxtV) | 2:07 | 2024-04-26 | 2024-06-29 |
 | [Monica Lewinsky](https://open.spotify.com/track/5pz38Kxq8O8fnCY7PAWkoQ) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Monica Lewinsky](https://open.spotify.com/album/6tXPymDqi4qhgSo9topFTt) | 2:12 | 2022-05-20 | 2022-09-17 |
@@ -643,6 +645,7 @@
 | [out of order](https://open.spotify.com/track/7vGYjU8uzwuImp1kT7M7IO) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [out of order](https://open.spotify.com/album/3QlWoxk7qPfUht297ah82S) | 3:22 | 2025-05-09 | 2025-08-02 |
 | [over my ex](https://open.spotify.com/track/2JWC7a6oGu7OHDVpOaRrLW) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [over my ex](https://open.spotify.com/album/2UtEAEUx3RaKL1TRKe5asi) | 2:26 | 2023-09-01 | 2023-10-07 |
 | [OVER MY HEAD](https://open.spotify.com/track/6ZTM2VyrkUT5Y8kQHUy9Yf) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [OVER MY HEAD](https://open.spotify.com/album/5mSyWUOvz1l57XOeDDDYGb) | 2:18 | 2023-01-13 | 2023-04-01 |
+| [Own Me](https://open.spotify.com/track/3t7lmi5cCWlqkDCHPLxs1N) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [Own Me](https://open.spotify.com/album/5gYK8rsyQvHAHplAmFpplG) | 2:47 | 2025-09-12 |  |
 | [P.O.S.](https://open.spotify.com/track/3H88XHhVp3GUJ2C3ZuSf2U) | [Sky Katz](https://open.spotify.com/artist/2hXnTRT96JHAzENar0pxqc) | [P.O.S.](https://open.spotify.com/album/1iHrfEVH8aHvM2l1Kpecdm) | 2:00 | 2022-12-09 | 2023-05-20 |
 | [PainHub](https://open.spotify.com/track/4GB5cFlNjLMHWUtr0H0nf3) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [PainHub](https://open.spotify.com/album/0SamMMaFRb5EgaQadXP2Yx) | 2:16 | 2023-03-31 | 2023-06-03 |
 | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ) | 1:55 | 2024-09-06 | 2025-01-11 |
@@ -651,6 +654,7 @@
 | [Parachute](https://open.spotify.com/track/63AH0CKhrzqFVQt3VfJsom) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Parachute](https://open.spotify.com/album/2Uf2MHzOLmlfuciVughpzO) | 2:31 | 2024-09-27 | 2025-01-25 |
 | [PARAMOUR \(feat\. AURORA\)](https://open.spotify.com/track/1erjalqVwLQT2t1ZWcas9P) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [PARAMOUR \(feat\. AURORA\)](https://open.spotify.com/album/79NhJfhqNZgDUJtwIn1V1k) | 2:48 | 2021-11-19 | 2022-03-18 |
 | [Parasite](https://open.spotify.com/track/00Se605FE4PodGs9ZV0hJq) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [Parasite](https://open.spotify.com/album/70cJf4BIWAMjyqEtcPJA06) | 3:24 | 2025-08-01 | 2025-08-30 |
+| [PASSPORT](https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PASSPORT](https://open.spotify.com/album/3EFv9uC4C4kSP3osSDiJ1K) | 2:11 | 2025-09-12 |  |
 | [Patience](https://open.spotify.com/track/3aS7kFsjgveM02x2EM29xp) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Patience](https://open.spotify.com/album/4YKJfZZhocCHRhkAEDyXni) | 2:35 | 2024-10-04 | 2025-01-25 |
 | [PATTERNS](https://open.spotify.com/track/7htM3PtOqbtanwimghnf1u) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [PATTERNS](https://open.spotify.com/album/5KgUxgS8yrb4mdsWyfHa7T) | 2:05 | 2022-09-09 | 2022-10-08 |
 | [PAYRI$E](https://open.spotify.com/track/5oihHH2Lw051Y0mFWz7fMM) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [PAYRI$E](https://open.spotify.com/album/4bFgVrzjZ5PyVsW1BgXIok) | 2:56 | 2022-04-15 | 2022-05-20 |
@@ -817,6 +821,7 @@
 | [supermodel](https://open.spotify.com/track/1Y0Sea3Nan8ZbL7HKsneY1) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [supermodel](https://open.spotify.com/album/0VVrCJHFnOZdhjn52l3GbN) | 2:02 | 2024-09-20 | 2024-11-16 |
 | [Supernova](https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry) | 2:58 | 2024-05-17 | 2024-06-01 |
 | [SUPERPOWER](https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [SUPERPOWER](https://open.spotify.com/album/5uCFinoHAfvh3RM5UuBhZ6) | 3:02 | 2024-07-26 | 2024-11-12 |
+| [Superstar](https://open.spotify.com/track/3ZYTeFfC9odqXzECk6tiIB) | [Crybabyamy](https://open.spotify.com/artist/6dHqmYlpk4oGwRwSxGmc6e) | [Superstar](https://open.spotify.com/album/1x540tkG9mfHRpKUlMJPpn) | 2:51 | 2025-09-12 |  |
 | [Sweatshirt \- Pettier](https://open.spotify.com/track/1lHd7db3a79MPI02e3xblS) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Sweatshirt \(Pettier\)](https://open.spotify.com/album/7rNzMil2oHfLYjeZnaU2ca) | 2:27 | 2022-05-27 | 2022-07-09 |
 | [sweet and sour](https://open.spotify.com/track/6HxDuyJRMGCTogdIjzZTNl) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [sweet and sour](https://open.spotify.com/album/2iajLyL99sPi81AaxMR6SJ) | 2:58 | 2021-12-10 | 2022-03-18 |
 | [Sweetest Revenge](https://open.spotify.com/track/7ItOeQCyzT0Ud8IWXnOIfU) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sweetest Revenge](https://open.spotify.com/album/1v2Ca1S73FwtFCD0dXLZAo) | 2:29 | 2024-05-31 | 2024-08-03 |

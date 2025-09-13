@@ -4,7 +4,7 @@
 
 > Un poco de esto, un poco de lo otro.
 
-122 songs - 6 hr 59 min
+123 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [PROVENZA \- Sistek Remix](https://open.spotify.com/track/2SYfJeselsgIJ1yK0NgCto) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA \(Sistek Remix\)](https://open.spotify.com/album/2pbds46rDlZp6BjwcOi7vl) | 3:48 | 2024-05-03 |  |
 | [Puesto Pa Ella](https://open.spotify.com/track/4heJPU1pSWjYLPrWbAT4zW) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e), [ThomyDomé](https://open.spotify.com/artist/5qqUYMzxKlvDnSgAMIePLd), [Tomi Reig](https://open.spotify.com/artist/3WVT8Ru2pGghiLHCYBDtmY) | [Plan Tech](https://open.spotify.com/album/0OuINqJYAV1NRLK870kbSW) | 3:04 | 2024-03-01 |  |
 | [Punto G \- House Remix](https://open.spotify.com/track/6U3ctIALaOd2GPRlAqbxOn) | [SANTI VIVOT](https://open.spotify.com/artist/4OyA3f3rSUhFEIKFeWFZuk), [Santi Dome](https://open.spotify.com/artist/62ysFsCfzsF4LLRmOphXhM) | [Punto G \(House Remix\)](https://open.spotify.com/album/2lbodYej2auVKBpIzpA4J5) | 2:11 | 2023-11-29 |  |
+| [Que Calor \- Remix](https://open.spotify.com/track/3uomMBACY8yJ5L83kpmuR9) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR), [Broz Rodriguez](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln), [Mizter Bonezz](https://open.spotify.com/artist/7sJc5dGycdAFCCjWujvaez) | [Que Calor \(Remix\)](https://open.spotify.com/album/7po9ajJ5W1jh3QsoV4IZ1G) | 2:38 | 2025-09-12 |  |
 | [Quédate \- Tiësto Remix](https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Quédate \(Tiësto Remix\)](https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr) | 3:52 | 2023-11-29 |  |
 | [Rara Vez \- Remix](https://open.spotify.com/track/2mFnSw5xpaFkT1WxR0R4HJ) | [Santiago Ibarra](https://open.spotify.com/artist/0GdhrNbXSn4TOvqinRC076), [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e) | [Rara Vez \(Remix\)](https://open.spotify.com/album/3ZeK8wTfcM8ggbJVXSfE7z) | 2:07 | 2023-11-29 | 2024-04-19 |
 | [Rebelde](https://open.spotify.com/track/0277rymBX3wCc9tfxEqGKk) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e), [ThomyDomé](https://open.spotify.com/artist/5qqUYMzxKlvDnSgAMIePLd) | [Plan Tech](https://open.spotify.com/album/0OuINqJYAV1NRLK870kbSW) | 2:53 | 2024-03-01 |  |

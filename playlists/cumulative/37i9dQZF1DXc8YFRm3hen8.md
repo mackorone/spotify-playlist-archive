@@ -4,7 +4,7 @@
 
 > Tu dosis diaria de rock 📸 La Franela y Ciro y los Persas
 
-390 songs - 1 day 1 hr 0 min
+391 songs - 1 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Pensamientos](https://open.spotify.com/track/4BVUqdx68RHFWruvHVQtvJ) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Pensamientos](https://open.spotify.com/album/1ZO91hsQDPJohLn1NlghqD) | 3:52 | 2022-07-06 | 2022-07-12 |
 | [Perdido](https://open.spotify.com/track/4iyzfXpgx4vCEU40sVUMvm) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [PARADISO](https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9) | 3:52 | 2025-04-25 | 2025-05-02 |
 | [Perfectos Cromosomas](https://open.spotify.com/track/66Jjt6HVWhwdkdFicMKkik) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o), [Fernando Ruiz Diaz](https://open.spotify.com/artist/4DqWhVhkmy4QC5d32i591c) | [Covers en Fase 1](https://open.spotify.com/album/6QgdtzyhmigYYMh5ZiMiuc) | 3:46 | 2022-07-01 | 2022-07-05 |
+| [Pero mi mente no me deja](https://open.spotify.com/track/4LKOMJEmMfaz9SRSkbHn0O) | [NOTA](https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf) | [SUBIDOS AL PONY](https://open.spotify.com/album/46rFn3rJ8c4kvk8gSsLaI0) | 3:59 | 2025-09-12 |  |
 | [Perros de la Calle](https://open.spotify.com/track/3OtLyp9Osabr0ZD4e4Lt5w) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi), [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Perros de la Calle](https://open.spotify.com/album/0or3IneZHIPdTybhh2PWSa) | 3:14 | 2022-06-29 | 2022-07-28 |
 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 | 2022-06-29 |  |
 | [Pinta](https://open.spotify.com/track/1WTgiBnT3YO8L7O52Fq7Ow) | [Juan Rosasco en Banda](https://open.spotify.com/artist/41pJnHLzYfNFPDmJgsZkcv), [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Juan Subira](https://open.spotify.com/artist/1TQCf74SMH4NMVPHUC7ohk) | [Pinta](https://open.spotify.com/album/3f0cH17RuiFxdFlijX7Nu8) | 3:12 | 2025-07-18 | 2025-07-25 |
@@ -358,7 +359,7 @@
 | [Tu boquita](https://open.spotify.com/track/5cAuOfaZV4uQ2TLlLnuW20) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Tu boquita](https://open.spotify.com/album/0R7sqeFrkSTK2eIdZWwsUL) | 3:14 | 2025-08-22 | 2025-09-05 |
 | [Tu Encanto](https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Tu Encanto](https://open.spotify.com/album/5sNubtE2kol6DLs6o9y0K0) | 3:31 | 2022-06-29 |  |
 | [Tu Razón de Ser](https://open.spotify.com/track/6sOfBWX3tE0VV7Vs00lFfF) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Tu Razón de Ser](https://open.spotify.com/album/2ckiB0VrtKwKt14mgNqOWn) | 3:26 | 2023-08-25 | 2023-09-22 |
-| [Tu Vida Mi Vida](https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [La Ciudad Liberada](https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH) | 4:12 | 2022-06-29 |  |
+| [Tu Vida Mi Vida](https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [La Ciudad Liberada](https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH) | 4:12 | 2022-06-29 | 2025-09-13 |
 | [Tus Asuntos](https://open.spotify.com/track/0tlQiM6xM6frP0jdYHT1Aw) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE), [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb) | [Contratiempos](https://open.spotify.com/album/57M8d2JDEqjdz9LVzDtK3V) | 3:19 | 2022-07-19 | 2022-07-24 |
 | [Túnel de la Vida](https://open.spotify.com/track/4bnGyB5G0Kau4rQB4Vnz0x) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Túnel de la Vida](https://open.spotify.com/album/3WhpeIjxgEXVHzK3HHCVWP) | 4:00 | 2022-07-01 | 2022-07-20 |
 | [Ultrademente](https://open.spotify.com/track/3Mens03q0PF0NAK5VvxayF) | [Benito Cerati](https://open.spotify.com/artist/13QnAhCICgwMtr6HPWoRbH), [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [Ultrademente](https://open.spotify.com/album/1gOFeAmzrGwviem8yDU0u1) | 3:37 | 2025-08-22 | 2025-09-05 |

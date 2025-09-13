@@ -1001,6 +1001,24 @@
     },
     {
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/3WrwVAVGPXWDewDCxkdnc0"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189064,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/74nvvW4DI8UYB1EHRDONUl"
+    },
+    {
+      "album": {
         "name": "Big Al Dente",
         "url": "https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K"
       },
@@ -1235,8 +1253,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Pain to Power",
+        "url": "https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj"
       },
       "artists": [
         {
@@ -5576,7 +5594,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 167197,
       "name": "Love's The Worst",
       "url": "https://open.spotify.com/track/4qD9qh4FRu4wl5QevQKm0b"

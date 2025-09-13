@@ -1,13 +1,161 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: Olivia Dean",
-  "num_followers": 1833347,
+  "description": "Sit back and relax to the chillest pop.  Cover: CIL",
+  "num_followers": 1832949,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB+BpaSaauG5+Oo4nSV6MgrJSI/J",
+  "snapshot_id": "AAAAAICP4vBodVMtLzNBlx8STFLmQS8M",
   "tracks": [
+    {
+      "added_at": "2025-09-12 04:00:29",
+      "album": {
+        "name": "something like this",
+        "url": "https://open.spotify.com/album/5E85uZf3BYeVO3kSBxwqGR"
+      },
+      "artists": [
+        {
+          "name": "Cil",
+          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
+        }
+      ],
+      "duration_ms": 169430,
+      "name": "something like this",
+      "url": "https://open.spotify.com/track/6hR0pP818BP6CZjaOG7k1V"
+    },
+    {
+      "added_at": "2025-09-12 04:00:29",
+      "album": {
+        "name": "Cry about it! (feat. Ravyn Lenae)",
+        "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 171507,
+      "name": "Cry about it! (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
+    },
+    {
+      "added_at": "2025-09-10 16:51:47",
+      "album": {
+        "name": "Olivia Dean - Spotify Live Room",
+        "url": "https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "The Dress (Dijon Cover) (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX"
+    },
+    {
+      "added_at": "2025-07-11 04:00:17",
+      "album": {
+        "name": "Vodka Cranberry",
+        "url": "https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 245664,
+      "name": "Vodka Cranberry",
+      "url": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl"
+    },
+    {
+      "added_at": "2025-09-05 07:50:16",
+      "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 172306,
+      "name": "LOVE SONG",
+      "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ"
+    },
+    {
+      "added_at": "2025-09-12 04:00:29",
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0"
+      },
+      "artists": [
+        {
+          "name": "Hope Winter",
+          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
+        }
+      ],
+      "duration_ms": 188870,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D"
+    },
+    {
+      "added_at": "2025-09-05 07:50:16",
+      "album": {
+        "name": "A COLD PLAY",
+        "url": "https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 179817,
+      "name": "A COLD PLAY",
+      "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 302408,
+      "name": "canal street",
+      "url": "https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9"
+    },
+    {
+      "added_at": "2025-09-12 04:00:29",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 215511,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
+    },
     {
       "added_at": "2025-08-15 04:00:21",
       "album": {
@@ -25,20 +173,20 @@
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2025-09-05 07:50:16",
+      "added_at": "2025-09-12 04:00:29",
       "album": {
-        "name": "SWAG II",
-        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+        "name": "some days",
+        "url": "https://open.spotify.com/album/1UbgSoMftakwqLl0jJC5K0"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
         }
       ],
-      "duration_ms": 172306,
-      "name": "LOVE SONG",
-      "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ"
+      "duration_ms": 197528,
+      "name": "some days",
+      "url": "https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW"
     },
     {
       "added_at": "2025-09-05 07:50:16",
@@ -89,6 +237,22 @@
       "url": "https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp"
     },
     {
+      "added_at": "2025-09-12 04:00:29",
+      "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/2YbavZN7kKcOLFGnQhE2Qj"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/5RmLb6jwgOnh0yXoaO1OcV"
+    },
+    {
       "added_at": "2025-08-08 04:00:36",
       "album": {
         "name": "Snow White",
@@ -121,20 +285,20 @@
       "url": "https://open.spotify.com/track/2GIddrm2ihwIyNIXTbGL3B"
     },
     {
-      "added_at": "2025-09-05 07:50:16",
+      "added_at": "2025-09-12 04:00:29",
       "album": {
-        "name": "A COLD PLAY",
-        "url": "https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS"
+        "name": "TickTickBoom",
+        "url": "https://open.spotify.com/album/71Gg0zWr0x4I5VB3gAKumw"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
         }
       ],
-      "duration_ms": 179817,
-      "name": "A COLD PLAY",
-      "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
+      "duration_ms": 145165,
+      "name": "TickTickBoom",
+      "url": "https://open.spotify.com/track/2fifcgrC2McRDrABuG743H"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -153,20 +317,20 @@
       "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
     },
     {
-      "added_at": "2025-09-10 16:51:47",
+      "added_at": "2025-08-29 04:00:40",
       "album": {
-        "name": "Olivia Dean - Spotify Live Room",
-        "url": "https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX"
+        "name": "halfwaythru",
+        "url": "https://open.spotify.com/album/26qByOEvSOrNK0MNUw68MS"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Chelsea Jordan",
+          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
         }
       ],
-      "duration_ms": 183000,
-      "name": "The Dress (Dijon Cover) (Live) - Spotify Live Room",
-      "url": "https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX"
+      "duration_ms": 193627,
+      "name": "halfwaythru",
+      "url": "https://open.spotify.com/track/6EpqDPPT3GAdHmeFcFlRGw"
     },
     {
       "added_at": "2025-09-05 07:50:16",
@@ -201,36 +365,20 @@
       "url": "https://open.spotify.com/track/00DabHCrqGpBSictyJ7pA9"
     },
     {
-      "added_at": "2025-08-22 04:00:28",
+      "added_at": "2025-09-12 04:00:29",
       "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+        "name": "CHASING",
+        "url": "https://open.spotify.com/album/4WrywdY3xzeym2SaLcvGq7"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Cam Rao",
+          "url": "https://open.spotify.com/artist/0reunFOO4l81BNysaJUCPV"
         }
       ],
-      "duration_ms": 302408,
-      "name": "canal street",
-      "url": "https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9"
-    },
-    {
-      "added_at": "2025-08-29 04:00:40",
-      "album": {
-        "name": "halfwaythru",
-        "url": "https://open.spotify.com/album/26qByOEvSOrNK0MNUw68MS"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Jordan",
-          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
-        }
-      ],
-      "duration_ms": 193627,
-      "name": "halfwaythru",
-      "url": "https://open.spotify.com/track/6EpqDPPT3GAdHmeFcFlRGw"
+      "duration_ms": 145375,
+      "name": "CHASING",
+      "url": "https://open.spotify.com/track/6gSbemDZ5pNOpUb5HGOAdc"
     },
     {
       "added_at": "2025-09-05 07:50:16",
@@ -249,20 +397,20 @@
       "url": "https://open.spotify.com/track/5aXZpsS16SJ1pVwgGJ8KPV"
     },
     {
-      "added_at": "2025-07-11 04:00:17",
+      "added_at": "2025-09-12 04:00:29",
       "album": {
-        "name": "Vodka Cranberry",
-        "url": "https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt"
+        "name": "Little House",
+        "url": "https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y"
       },
       "artists": [
         {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 245664,
-      "name": "Vodka Cranberry",
-      "url": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl"
+      "duration_ms": 246696,
+      "name": "What A Life",
+      "url": "https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5"
     },
     {
       "added_at": "2025-09-05 07:50:16",
@@ -497,22 +645,6 @@
       "url": "https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ"
     },
     {
-      "added_at": "2025-08-15 04:00:21",
-      "album": {
-        "name": "Man On The Moon",
-        "url": "https://open.spotify.com/album/67WkCx7zCcaJzM0tqZQDKx"
-      },
-      "artists": [
-        {
-          "name": "Madeline The Person",
-          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
-        }
-      ],
-      "duration_ms": 200198,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/6uiKhAx3xG1ZsgyzcIbbf2"
-    },
-    {
       "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "puffette",
@@ -679,22 +811,6 @@
     {
       "added_at": "2025-08-15 04:00:21",
       "album": {
-        "name": "It\u2019s Alright",
-        "url": "https://open.spotify.com/album/4qdbGUkOv3hehJtxRASRFY"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 158580,
-      "name": "It\u2019s Alright",
-      "url": "https://open.spotify.com/track/22DGRiZNdwcDyi6xSTaLvR"
-    },
-    {
-      "added_at": "2025-08-15 04:00:21",
-      "album": {
         "name": "Friend Of Mine",
         "url": "https://open.spotify.com/album/7h0ZdjeQOxEDYYc0Mr5YhE"
       },
@@ -723,22 +839,6 @@
       "duration_ms": 170232,
       "name": "DRIVING",
       "url": "https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l"
-    },
-    {
-      "added_at": "2025-08-18 23:28:48",
-      "album": {
-        "name": "More To Life",
-        "url": "https://open.spotify.com/album/1qyll2DNY9P9C0JWw8hyCn"
-      },
-      "artists": [
-        {
-          "name": "J\u00c1NA",
-          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
-        }
-      ],
-      "duration_ms": 168565,
-      "name": "More To Life",
-      "url": "https://open.spotify.com/track/2V0IwUfEQaDvVYlUAsz3nk"
     },
     {
       "added_at": "2025-08-29 04:00:40",
@@ -949,22 +1049,6 @@
       "url": "https://open.spotify.com/track/1ItaFV8IGkb33gXFI2c5Ps"
     },
     {
-      "added_at": "2025-08-01 04:00:27",
-      "album": {
-        "name": "Know You Naked",
-        "url": "https://open.spotify.com/album/0RHlF72mPRiLux1omiKIxe"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 205304,
-      "name": "Know You Naked",
-      "url": "https://open.spotify.com/track/4XBkny5RwYFxETjyMU8dwE"
-    },
-    {
       "added_at": "2025-07-18 04:00:21",
       "album": {
         "name": "feel again",
@@ -1079,22 +1163,6 @@
     {
       "added_at": "2025-07-25 04:01:00",
       "album": {
-        "name": "In The Moment",
-        "url": "https://open.spotify.com/album/5oapmE6hovtOqcG4Niwh1T"
-      },
-      "artists": [
-        {
-          "name": "JONES",
-          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
-        }
-      ],
-      "duration_ms": 246413,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/26m3a6jjutoB86efXGO2dP"
-    },
-    {
-      "added_at": "2025-07-25 04:01:00",
-      "album": {
         "name": "BLOOM",
         "url": "https://open.spotify.com/album/0AduTuWnko3IDC0Oua18qQ"
       },
@@ -1163,22 +1231,6 @@
       "duration_ms": 192291,
       "name": "The Weight Of You (I\u2019m Glad You Died)",
       "url": "https://open.spotify.com/track/1ljwXbzXjEB5Sfq6B5x4F7"
-    },
-    {
-      "added_at": "2025-07-18 04:00:21",
-      "album": {
-        "name": "Sweetheart",
-        "url": "https://open.spotify.com/album/5YRCEVDf3R3TLwPJsKdctz"
-      },
-      "artists": [
-        {
-          "name": "Avery Lynch",
-          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
-        }
-      ],
-      "duration_ms": 215955,
-      "name": "Sweetheart",
-      "url": "https://open.spotify.com/track/5XSBmZKP9J3ZRdqwygm2ee"
     },
     {
       "added_at": "2025-07-11 08:56:38",
@@ -1511,54 +1563,6 @@
       "duration_ms": 160600,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX"
-    },
-    {
-      "added_at": "2025-06-13 04:00:53",
-      "album": {
-        "name": "comedown",
-        "url": "https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 192684,
-      "name": "comedown",
-      "url": "https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
-    },
-    {
-      "added_at": "2025-06-20 04:00:37",
-      "album": {
-        "name": "Tattoo (selective memory)",
-        "url": "https://open.spotify.com/album/5EulwFhILJKn6ft5jY3IYQ"
-      },
-      "artists": [
-        {
-          "name": "Ally Salort",
-          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
-        }
-      ],
-      "duration_ms": 200881,
-      "name": "Tattoo (selective memory)",
-      "url": "https://open.spotify.com/track/31xaMSuU899eoPsNtaspXT"
     },
     {
       "added_at": "2024-10-11 04:00:00",

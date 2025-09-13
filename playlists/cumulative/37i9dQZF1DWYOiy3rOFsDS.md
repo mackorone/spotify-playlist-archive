@@ -4,7 +4,7 @@
 
 > Romance a la antigüita con Çantamarta en portada.
 
-358 songs - 20 hr 41 min
+359 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Es Verdad](https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Es Verdad](https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX) | 2:41 | 2021-10-16 | 2023-10-21 |
 | [Escalofríos 86](https://open.spotify.com/track/3JSHemsvJqIVRGXmv6NvHX) | [Los Fibos](https://open.spotify.com/artist/1Kcaj61FM0mFYwh4ZCN4Lw) | [Escalofríos 86](https://open.spotify.com/album/65aRLQxcZj2x1jx4SPPRWG) | 3:39 | 2021-10-16 | 2022-04-21 |
 | [Espectro \(En Vivo Desde Cuba\)](https://open.spotify.com/track/46S0Ic3yTeYniFbB3Bh69Y) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Athanai](https://open.spotify.com/artist/7MIemSpbjGiDPJP0SSyF68), [Dayron Ortiz](https://open.spotify.com/artist/2bwwrFM6oWJ4sdKHFaYhKI) | [Espectro \(En Vivo Desde Cuba\)](https://open.spotify.com/album/5gACjsTLSACfENz4Ansroh) | 4:28 | 2021-10-26 | 2022-06-11 |
+| [ESTA ES TU CASA NENA](https://open.spotify.com/track/1be5haaiIQXBp7nQFhhpge) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [ESTA ES TU CASA NENA](https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5) | 3:29 | 2025-09-12 |  |
 | [Esta Melodia](https://open.spotify.com/track/1GQ3Clp4Mvs7f0qt0hLotX) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 3:08 | 2021-10-16 | 2023-02-25 |
 | [Esta Tarde Vi Llover](https://open.spotify.com/track/7HkeoCaym1hk1E9IlrU6Li) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Mexicano](https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R) | 3:00 | 2021-10-16 | 2022-07-29 |
 | [Estar Cerca de Ti](https://open.spotify.com/track/5bpaf2lcJD8neZJu4hbqKc) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Estar Cerca de Ti](https://open.spotify.com/album/6Ws43EfbO4IGba7j3gKXzl) | 2:05 | 2024-02-16 | 2024-09-02 |
@@ -223,7 +224,7 @@
 | [Noche No Te Vayas](https://open.spotify.com/track/5rtZvX3I8Rx6WfGmRgipBE) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Frente a Frente](https://open.spotify.com/album/3V65u48vO1TBvNsMncg8rK) | 2:51 | 2021-10-16 | 2022-07-29 |
 | [Noche Sensacional](https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5) | [Chabuco](https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl), [Dayhan Díaz](https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa) | [Noche Sensacional](https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda) | 3:17 | 2022-04-23 |  |
 | [NOstas](https://open.spotify.com/track/3xlrhGSfJsXeIMpUaH8tYA) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [UNDESASTRE delux: CERODRAMA](https://open.spotify.com/album/4drbveW8C0TBDfEVxYy0Sa) | 2:56 | 2025-04-11 |  |
-| [Noviembre](https://open.spotify.com/track/63PhHSisMHT7ahW4mcZh2e) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Noviembre](https://open.spotify.com/album/2gfu0d8ZOJ2BEJ94XrtNbi) | 3:40 | 2025-02-14 |  |
+| [Noviembre](https://open.spotify.com/track/63PhHSisMHT7ahW4mcZh2e) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Noviembre](https://open.spotify.com/album/2gfu0d8ZOJ2BEJ94XrtNbi) | 3:40 | 2025-02-14 | 2025-09-13 |
 | [Nunca vas a comprender](https://open.spotify.com/track/2OlU9hHw5so2hAKYvO9unb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [COMO LA PIEL](https://open.spotify.com/album/10dIiIjAArMNO3PCLtex1H) | 4:04 | 2021-10-16 | 2022-07-27 |
 | [Nunca vas a comprender](https://open.spotify.com/track/4dnlbvqglDqyuGYjg8rBfc) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [COMO LA PIEL](https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp) | 4:04 | 2021-10-16 | 2023-09-09 |
 | [O Tu O Ninguna](https://open.spotify.com/track/7u5wdRqlAC4qeRp47e7hce) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Amarte Es Un Placer](https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n) | 3:16 | 2021-10-16 | 2023-02-25 |

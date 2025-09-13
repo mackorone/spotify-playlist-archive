@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A mix of the best modern Deathcore tracks. Cover: Lorna Shore",
+  "description": "A mix of the best modern Deathcore tracks. Cover: Fit For An Autopsy",
   "name": "Deathcore",
   "tracks": [
     {
@@ -5309,6 +5309,24 @@
     },
     {
       "album": {
+        "name": "I Feel The Everblack Festering Within Me",
+        "url": "https://open.spotify.com/album/07y8y3CSFTq48HwejrTdGw"
+      },
+      "artists": [
+        {
+          "name": "Lorna Shore",
+          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403874,
+      "name": "Glenwood",
+      "url": "https://open.spotify.com/track/1zMtEW4SE5s3VqrmTicJaY"
+    },
+    {
+      "album": {
         "name": "The Last Ten Seconds of Life",
         "url": "https://open.spotify.com/album/4lS0MNSLmDWM7Kv8wlnyEq"
       },
@@ -6808,6 +6826,24 @@
       "duration_ms": 201546,
       "name": "Invictus Unto Fire",
       "url": "https://open.spotify.com/track/671wVJrGptwhsVbxyGiMLg"
+    },
+    {
+      "album": {
+        "name": "It Comes For You",
+        "url": "https://open.spotify.com/album/50teRCEaNpo7gWCnQ74yVU"
+      },
+      "artists": [
+        {
+          "name": "Fit For An Autopsy",
+          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234902,
+      "name": "It Comes For You",
+      "url": "https://open.spotify.com/track/1EPlAlZXGb1JO3s1DpH3rD"
     },
     {
       "album": {
@@ -8938,7 +8974,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 352560,
       "name": "Pain Remains I: Dancing Like Flames",
       "url": "https://open.spotify.com/track/4KyPlGyV6lfxOPHfBQpPZm"
@@ -9320,7 +9356,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 176305,
       "name": "Predatory",
       "url": "https://open.spotify.com/track/0nCt6JIIzpA8XtQcd6PDtq"

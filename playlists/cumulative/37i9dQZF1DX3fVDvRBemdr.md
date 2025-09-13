@@ -4,7 +4,7 @@
 
 > Wekelijkse update met Hollands en volks\. Cover: Raymon Hermans
 
-413 songs - 20 hr 1 min
+414 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [De Liefde Die Leeft \(Stumblin' In Remix\)](https://open.spotify.com/track/2rgRnoUQ29DM53zXE2RB0E) | [Mike Peterson](https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E) | [De Liefde Die Leeft \(Stumblin' In Remix\)](https://open.spotify.com/album/40flGd5I9axFmh22OnNemq) | 2:58 | 2024-06-13 | 2024-09-13 |
 | [De Liefde Komt Later Wel](https://open.spotify.com/track/7hjUluWtYTwxPVb6ezI0Ti) | [Delano Duncker](https://open.spotify.com/artist/0x1eqIicXXo77uqFTHSrCv) | [De Liefde Komt Later Wel](https://open.spotify.com/album/1dxS4O8px9hEEPng687u5N) | 2:46 | 2025-02-03 | 2025-05-09 |
 | [De Stad](https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [De Stad](https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO) | 2:38 | 2024-10-24 | 2025-03-08 |
+| [De Tent Moet Op Z'n Kop](https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p) | [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [De Tent Moet Op Z'n Kop](https://open.spotify.com/album/4NBqEWNdp6HwnNymhFSYZJ) | 2:37 | 2025-09-12 |  |
 | [De Waarheid](https://open.spotify.com/track/0c6DXOYQ1fWmj5ZlhUyysi) | [Henk Damen](https://open.spotify.com/artist/2ZUBS5L3nTT2H3ck5EEEDW) | [De Waarheid](https://open.spotify.com/album/0CgfIZH4LTUiuQe8I5dm1e) | 3:02 | 2024-10-18 | 2024-12-13 |
 | [De Wereld Aan](https://open.spotify.com/track/2beXuG1FeDAxnytU87jr54) | [Gizbey](https://open.spotify.com/artist/7GTD2ivDEWSYlwjfIdnkGq) | [De Wereld Aan](https://open.spotify.com/album/4NZpsdMj7uwxMYx7VhwgRY) | 3:07 | 2025-05-22 |  |
 | [De Zuipschuit](https://open.spotify.com/track/5Hf3Nj5I5p89JDzVre0f6F) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [De Zuipschuit](https://open.spotify.com/album/6XFYnlzinUjZybuV8KfOUL) | 3:10 | 2025-03-07 | 2025-05-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68B6aM85uUEBvFTTbHjDX4.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 162 songs - 13 hr 18 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 163 songs - 13 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,5 +170,6 @@ pretty - [cumulative](/playlists/cumulative/68B6aM85uUEBvFTTbHjDX4.md) - [plain]
 | 160 | [Forever Melancholia](https://open.spotify.com/track/6ZWYsvOTYigBYoHMpFOyoA) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Forever Melancholia](https://open.spotify.com/album/7uYTYAQsXBeVriJopyhpV9) | 7:01 |
 | 161 | [Deliverance](https://open.spotify.com/track/14F0P1p8fnJhlIgMdg6NyK) | [K90](https://open.spotify.com/artist/18YUfYOHNEVvQitsvzoUrm) | [Deliverance](https://open.spotify.com/album/1mjxue8XsTKW1JffR8PLfJ) | 3:38 |
 | 162 | [LEGACY](https://open.spotify.com/track/0ZY1TYRRPpEAu1KUuxnaKM) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [LEGACY](https://open.spotify.com/album/5o4rfjlvkETwHpsMpaAaF3) | 3:25 |
+| 163 | [Demons And The Ghost \- Radio Edit](https://open.spotify.com/track/2fznqQyX4hKIcXlk4YOzNH) | [Blame The Mono](https://open.spotify.com/artist/22HdnwskoQ7Htj3pEMP5W7), [DLV](https://open.spotify.com/artist/7AkaRihy2hr1tjUXsjYK9x) | [Demons And The Ghost \(Radio Edit\)](https://open.spotify.com/album/55VnN6m1ub5FRVyLkS3u0d) | 3:01 |
 
-Snapshot ID: `AAABYI+Jj2D7Z8SxQzuv9pCOFsDTK15L`
+Snapshot ID: `AAABYRGwMFlCS+n/3N/hDkQrTi3VTa+4`

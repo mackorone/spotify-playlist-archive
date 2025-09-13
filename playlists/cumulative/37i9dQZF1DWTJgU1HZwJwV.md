@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-587 songs - 1 day 0 hr 48 min
+591 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Arbonne](https://open.spotify.com/track/39lP6wfJd0sADo8QQVNuPo) | [Frederic Dupont](https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF) | [Iara](https://open.spotify.com/album/0gPVXKxCJ2nkXFiG1HPMtb) | 3:17 | 2022-06-17 | 2024-05-10 |
 | [Aria Amore](https://open.spotify.com/track/2gbiV6hshIr99CuE8Jmc1J) | [Sergei Baronin](https://open.spotify.com/artist/43F9YqxW89cDIMwYv7Ruoy) | [Aria Amore](https://open.spotify.com/album/0dZ1cH2oc1byH1xvEMkwhE) | 2:36 | 2022-06-17 | 2022-10-07 |
 | [Art Deco](https://open.spotify.com/track/2S1ddYY7BolUpyqjFVrgGv) | [Liam Stoler](https://open.spotify.com/artist/3siLaFiKTJUQKTTkUS8xaR) | [Satellites](https://open.spotify.com/album/2ze5UXnapC2cmlXG70feQ3) | 2:33 | 2022-06-17 | 2024-07-18 |
+| [At the same time](https://open.spotify.com/track/5Y2UB0AcXta6OuSxgeqMRG) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [At the same time](https://open.spotify.com/album/0IU4O0061NBlGfcVX9YObh) | 3:11 | 2025-09-12 |  |
 | [Azores](https://open.spotify.com/track/2YN1AKTAJApNLbTyNXrm6j) | [Brandon Taylor Smith](https://open.spotify.com/artist/0CkM1sLkP3yQW8I7ja51am) | [Azores](https://open.spotify.com/album/6cBG03sFqnDga0VqnWDpEu) | 2:39 | 2023-04-28 | 2023-06-23 |
 | [Back at Mills Creek](https://open.spotify.com/track/1sokyJcoiRdRyjmPYzcQRu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Back at Mills Creek](https://open.spotify.com/album/04bqEOyyP1MIEe5lCrUgUv) | 2:18 | 2024-02-02 |  |
 | [Bagatela De Manhã](https://open.spotify.com/track/2pNnJty3Cpkt2taPau3whq) | [Gunni Møller](https://open.spotify.com/artist/1W3Msj0w5UgqoO24nOybtE) | [Bagatela De Manhã](https://open.spotify.com/album/35g5kehLip9hxTtsktxz0R) | 2:06 | 2022-06-17 | 2022-09-03 |
@@ -194,6 +195,7 @@
 | [Fragile](https://open.spotify.com/track/2DjZfJBMQxI5tnoC6l1CVc) | [Vincenzo Adelini](https://open.spotify.com/artist/2DCXusMUJpcFfPM786dD8v) | [Fragile](https://open.spotify.com/album/1JAZhzpYAxIExPSV8jvHE6) | 2:49 | 2022-06-17 | 2022-07-29 |
 | [Fragile Dreams](https://open.spotify.com/track/1S1RTPziNCXpzq2ULuoeKG) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Fragile Dreams](https://open.spotify.com/album/0FHxZlAQQHtoyQrMPgRedP) | 2:01 | 2022-06-17 | 2023-10-13 |
 | [Frelsien](https://open.spotify.com/track/3FyCPb0sXgPpBnsvIosqAZ) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Frelsien](https://open.spotify.com/album/2xX3upugD201f0C2N2AsPr) | 2:10 | 2023-06-09 |  |
+| [From me to you](https://open.spotify.com/track/1T0Knq3JKfOdEQVQboEWWM) | [Elvin Mercher](https://open.spotify.com/artist/5GVmxZZpLOj3mPeqMmNoFv) | [From me to you](https://open.spotify.com/album/1dMuiLPoMq3CJuKgFrKc7p) | 2:42 | 2025-09-12 |  |
 | [From me to you](https://open.spotify.com/track/4P4dWU1fWY0Ub6HjVawTie) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [From me to you](https://open.spotify.com/album/2lKWukwSmwoxCNAFHZSVTK) | 2:51 | 2024-09-03 |  |
 | [Fáilte](https://open.spotify.com/track/7g4jqCEvQZGdRKemCNdOxm) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Fáilte](https://open.spotify.com/album/1Whcn3o7IpIoJtQXEBq6TZ) | 1:44 | 2023-02-24 | 2023-06-23 |
 | [Gelassenheit](https://open.spotify.com/track/4c9gXXifVcTEkTm0vSZm4q) | [William Lynn](https://open.spotify.com/artist/1EQNBTXeMqy5nDpSlzcRwx) | [Gelassenheit](https://open.spotify.com/album/7wxX9KricJdTp3U5HdtYQa) | 2:16 | 2023-03-10 | 2023-06-23 |
@@ -429,6 +431,7 @@
 | [Rovinj](https://open.spotify.com/track/6hSTsBLxqXM0WQhrmxZRpf) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Rovinj](https://open.spotify.com/album/7gw510u1oc6OWOhENT0P7N) | 3:06 | 2024-06-14 | 2024-08-14 |
 | [Royan](https://open.spotify.com/track/5fIJtYm39OtXMAh4geauC9) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Royan](https://open.spotify.com/album/6E7enXaW0kX3sil3Uq6r6g) | 3:22 | 2024-10-15 | 2025-08-19 |
 | [Rubato](https://open.spotify.com/track/1rlL61WUGjlWdhB5cjbWg8) | [Fei Kura](https://open.spotify.com/artist/5Gs7KAVWa4xqgvsJZpu0jI) | [Rubato](https://open.spotify.com/album/1MTGlmAkxdb0hueMtV3TLA) | 1:44 | 2023-01-06 | 2023-09-14 |
+| [Run With the Wind](https://open.spotify.com/track/0mzRxjvzScWww708NG5bqR) | [Jesse Rostad](https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg) | [Run With the Wind](https://open.spotify.com/album/4I4ht37rAlohJDjdHkn0lP) | 2:24 | 2025-09-12 |  |
 | [Sage](https://open.spotify.com/track/3XsO2i5UGNZfSiyd3sGJ1Y) | [Darla Churce](https://open.spotify.com/artist/0dQyC5qPStQj4m8Rc0pGN0) | [Sage](https://open.spotify.com/album/29Yl3TO5JAkkkoiqf8iEOd) | 2:43 | 2022-08-05 | 2023-12-15 |
 | [Salzburger Traum](https://open.spotify.com/track/5tkLBbZH27EVS0OZoYxrtf) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Lange Sommernächte](https://open.spotify.com/album/35b7Gi5InlL6W1mhnBZj5q) | 3:44 | 2022-10-14 | 2024-05-25 |
 | [San Sebastian](https://open.spotify.com/track/0QcnlPfVyTyuBEVZeumOUV) | [Henry Auguste](https://open.spotify.com/artist/7BYBlt9RAGjzI4QG0ZapUh) | [San Sebastian](https://open.spotify.com/album/0ov4xgE4lpfucMLPm4twXP) | 1:52 | 2022-06-17 | 2023-09-08 |
@@ -519,6 +522,7 @@
 | [The Lowest Point](https://open.spotify.com/track/2gtT9F0c1DDaz0W3vr2hRv) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [The Lowest Point](https://open.spotify.com/album/5Wf8oYxZ6nrVDBmDM6Hj6t) | 2:31 | 2024-12-10 |  |
 | [The Meadow Stirs](https://open.spotify.com/track/7cVR6AMaMaUFuWFGvAsjDv) | [Noah Lorne](https://open.spotify.com/artist/3mgtorvPIuOOqO0V5EwEqa) | [The Meadow Stirs](https://open.spotify.com/album/13MZr3OrJgQnMcukseUfSL) | 2:41 | 2025-05-28 |  |
 | [The Opera House](https://open.spotify.com/track/3dhrGAxAN0i37d64p4bCm1) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [The Opera House](https://open.spotify.com/album/3LqVjTRi1yMlpNsjYEBPMG) | 3:00 | 2023-06-22 | 2024-05-10 |
+| [The Rain Comes](https://open.spotify.com/track/5zpgmMQ46DVTr97ZwFDcAG) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [The Rain Comes](https://open.spotify.com/album/6R7wD5TChs18vFNeX4jzin) | 2:40 | 2025-09-12 |  |
 | [The Spring Bird](https://open.spotify.com/track/1PvZZloPxrC4q2nh3LCj4O) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [The Spring Bird](https://open.spotify.com/album/1zBJdIFX92nSLrv5ek5YqP) | 2:20 | 2022-06-17 | 2023-08-18 |
 | [The Summer House](https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Summer House](https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH) | 2:02 | 2023-04-28 | 2023-06-23 |
 | [The Time Traveler](https://open.spotify.com/track/0d1TNdaJWOePFAiSIiZJZ3) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [The Time Traveler](https://open.spotify.com/album/60UxszwncrUHrHxI7GJ5vM) | 2:54 | 2023-11-24 | 2024-09-26 |
@@ -591,7 +595,7 @@
 | [Yesterday’s Horizon](https://open.spotify.com/track/6aRIyvjb1r0ckDtWTAnawQ) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Yesterday’s Horizon](https://open.spotify.com/album/19Qh83lPIJvJmZwmin92d7) | 2:48 | 2025-06-04 | 2025-06-12 |
 | [Yesteryear](https://open.spotify.com/track/26onATmE5ib4iKkPfvHtnw) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Yesteryear](https://open.spotify.com/album/5Uu6qKT8FsFyUD0tRDIfxZ) | 2:39 | 2023-11-24 | 2024-07-18 |
 | [You're Not Alone](https://open.spotify.com/track/4ROmwACfJCiGMBioN6k0m5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [You're Not Alone](https://open.spotify.com/album/0xDfnkhHwktefc4MmHrXuR) | 2:23 | 2023-05-19 | 2023-06-16 |
-| [Your Eye](https://open.spotify.com/track/66ELkzGMFc0rGcYp2xfFWe) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Your Eye](https://open.spotify.com/album/6LI0lMAASHG4xoqoPQcClP) | 2:21 | 2025-06-11 |  |
+| [Your Eye](https://open.spotify.com/track/66ELkzGMFc0rGcYp2xfFWe) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Your Eye](https://open.spotify.com/album/6LI0lMAASHG4xoqoPQcClP) | 2:21 | 2025-06-11 | 2025-09-13 |
 | [Yuunagi](https://open.spotify.com/track/1W0TeWjEOb4ATZH7LlneI2) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yuunagi](https://open.spotify.com/album/069HopXqHO0E3rbTGspTzh) | 2:00 | 2022-06-17 | 2023-10-27 |
 | [Zakinthos](https://open.spotify.com/track/4rSB71Pvov9PAzvPu3MdtI) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Zakinthos](https://open.spotify.com/album/4Kd4BkMXME0FB5GsPHKAko) | 2:41 | 2024-01-12 | 2025-08-19 |
 | [À l'aventure](https://open.spotify.com/track/2iZsCe5DCx13zlHWS19iWm) | [Thibault Cauvin](https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV), [Jordan Cauvin](https://open.spotify.com/artist/6tk4EosXAJ2AVXeELBR3Bf) | [À l'aventure](https://open.spotify.com/album/1TUm0gABYxaE1Mf9WtViRc) | 3:14 | 2022-07-22 | 2022-07-29 |

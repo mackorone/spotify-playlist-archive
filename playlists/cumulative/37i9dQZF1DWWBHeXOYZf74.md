@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre\-less\. Quality first always\. Cover: El Michels Affair
+> Genre\-less\. Quality first always\. Cover: Joviale
 
 3,156 songs - 7 day 8 hr 47 min
 

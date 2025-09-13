@@ -1,13 +1,153 @@
 {
   "description": "New releases for the kids. Cover: Peppa Pig",
-  "num_followers": 69054,
+  "num_followers": 69182,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOiBXysT7bVtNnG1qOZerWKTUu7G",
+  "snapshot_id": "AAAAAKbXVdCcH9X4nH4NECrj66Roe+ZM",
   "tracks": [
+    {
+      "added_at": "2025-09-12 04:00:08",
+      "album": {
+        "name": "We Came to Have Fun!",
+        "url": "https://open.spotify.com/album/1ZQYJKkBiMkOHX6f7VkgjG"
+      },
+      "artists": [
+        {
+          "name": "Snuggle Bunch",
+          "url": "https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "Pop! Goes the Weasel",
+      "url": "https://open.spotify.com/track/3q12MYGc4rv8QRogu3jmbX"
+    },
+    {
+      "added_at": "2025-09-12 04:00:08",
+      "album": {
+        "name": "Blippi's Job Show, Vol. 2",
+        "url": "https://open.spotify.com/album/53ut0xSDEkC4Na7KFFTP9t"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        }
+      ],
+      "duration_ms": 101023,
+      "name": "Use Your Imagination",
+      "url": "https://open.spotify.com/track/4FSmnnhe2fOCW8j0reCd7I"
+    },
+    {
+      "added_at": "2025-09-12 04:00:08",
+      "album": {
+        "name": "Dance Dice",
+        "url": "https://open.spotify.com/album/7vnCEDBq59uhuZOwT5ywk1"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        },
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 199828,
+      "name": "Dance Dice",
+      "url": "https://open.spotify.com/track/543LGaSXi3BRigq9WCPbfZ"
+    },
+    {
+      "added_at": "2025-09-12 04:00:08",
+      "album": {
+        "name": "The Itsy Bitsy Spider",
+        "url": "https://open.spotify.com/album/6qgySiTfSkOfxCAVPgumBe"
+      },
+      "artists": [
+        {
+          "name": "Mega Ran",
+          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+        }
+      ],
+      "duration_ms": 56160,
+      "name": "The Itsy Bitsy Spider",
+      "url": "https://open.spotify.com/track/6wtcf4mEN54S6uriJnLZEy"
+    },
+    {
+      "added_at": "2025-09-12 04:00:08",
+      "album": {
+        "name": "Bettina the Cow Song (Skye's Music Party)",
+        "url": "https://open.spotify.com/album/4dfHyaL4vsh9nLHNwemWFR"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "duration_ms": 125374,
+      "name": "Bettina the Cow Song",
+      "url": "https://open.spotify.com/track/3iItJj2MEwoomgGwqmIvEm"
+    },
+    {
+      "added_at": "2025-09-12 04:00:08",
+      "album": {
+        "name": "Ode To Autumn",
+        "url": "https://open.spotify.com/album/1qhTp8vOzy0zJA55MyGlMJ"
+      },
+      "artists": [
+        {
+          "name": "Music House for Children",
+          "url": "https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR"
+        },
+        {
+          "name": "Emma Hutchinson",
+          "url": "https://open.spotify.com/artist/3gPZvdkMPESfv3QM4IA5Ya"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/5KmuQvBDnwJe6olHzoED6Y"
+    },
+    {
+      "added_at": "2025-09-12 04:00:08",
+      "album": {
+        "name": "The Phonics Alphabet Song",
+        "url": "https://open.spotify.com/album/3REYhlA1p5oaZ1fDKvKZNR"
+      },
+      "artists": [
+        {
+          "name": "Toddler Tunes",
+          "url": "https://open.spotify.com/artist/3uGrMgq7tseqZq7FCjMGnW"
+        }
+      ],
+      "duration_ms": 220563,
+      "name": "Letters and Words",
+      "url": "https://open.spotify.com/track/5aSRoACH3758QHss56EzMO"
+    },
+    {
+      "added_at": "2025-09-12 04:00:08",
+      "album": {
+        "name": "Run Rusty Run! (Giant Leo in the City)",
+        "url": "https://open.spotify.com/album/51fURMrZtjRfY3qZ9laX63"
+      },
+      "artists": [
+        {
+          "name": "The Little Mouse Production",
+          "url": "https://open.spotify.com/artist/6Kb3W2eeJN6YNriqvdLNNE"
+        }
+      ],
+      "duration_ms": 163600,
+      "name": "Run Rusty Run! (Giant Leo in the City)",
+      "url": "https://open.spotify.com/track/1SGuTOUgj6WpwC1ogC8Uvk"
+    },
     {
       "added_at": "2025-09-05 04:00:01",
       "album": {

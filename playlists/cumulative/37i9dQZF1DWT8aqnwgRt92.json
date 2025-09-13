@@ -3207,6 +3207,24 @@
     },
     {
       "album": {
+        "name": "CAT'S EYE",
+        "url": "https://open.spotify.com/album/3SEAcawf6EhTRl42ulumyd"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180631,
+      "name": "CAT'S EYE",
+      "url": "https://open.spotify.com/track/5lzjvTvybxPQLlGO3SVm5l"
+    },
+    {
+      "album": {
         "name": "LUPIN THE THIRD VS CAT'S EYE ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/12eUMGk9JZKeSHZ2z6UcMa"
       },
@@ -5296,6 +5314,24 @@
       "duration_ms": 246893,
       "name": "Eternal Light",
       "url": "https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2"
+    },
+    {
+      "album": {
+        "name": "eternal reality (version2025)",
+        "url": "https://open.spotify.com/album/2f8lUC2YM10CpOutTqxIBU"
+      },
+      "artists": [
+        {
+          "name": "fripSide",
+          "url": "https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231573,
+      "name": "eternal reality - version2025",
+      "url": "https://open.spotify.com/track/3WMu8AtSB0fr0ekfALCnvP"
     },
     {
       "album": {
@@ -13158,7 +13194,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 217466,
       "name": "My Way",
       "url": "https://open.spotify.com/track/7lvSAzBLYQmIPCGJRRAnAu"
@@ -25918,7 +25954,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 189566,
       "name": "\u30a2\u30d3\u30b9",
       "url": "https://open.spotify.com/track/0OKoqIO4N5HGaRwj55KbAr"

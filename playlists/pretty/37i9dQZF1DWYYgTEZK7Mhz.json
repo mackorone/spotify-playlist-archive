@@ -1,6 +1,6 @@
 {
   "description": "Un'estate al mare, stile balenare \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 45546,
+  "num_followers": 45557,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-05-02 09:12:30",
       "album": {
-        "name": "Milva: i pi\u00f9 grandi successi",
-        "url": "https://open.spotify.com/album/5c1BQIDJNweYbWfePtKKKY"
-      },
-      "artists": [
-        {
-          "name": "Milva",
-          "url": "https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "Il mare nel cassetto",
-      "url": "https://open.spotify.com/track/5kxbVnUHcv8TXWI2E0ilSs"
-    },
-    {
-      "added_at": "2025-05-02 09:12:30",
-      "album": {
         "name": "Peppino Di Capri",
         "url": "https://open.spotify.com/album/2jtQpCnF21YfepWwuM0tec"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 137346,
       "name": "Saint-Tropez Twist",
       "url": "https://open.spotify.com/track/0yzxnz8zp2ttEAWKgeD006"
+    },
+    {
+      "added_at": "2025-05-02 09:12:30",
+      "album": {
+        "name": "Milva: i pi\u00f9 grandi successi",
+        "url": "https://open.spotify.com/album/5c1BQIDJNweYbWfePtKKKY"
+      },
+      "artists": [
+        {
+          "name": "Milva",
+          "url": "https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N"
+        }
+      ],
+      "duration_ms": 179293,
+      "name": "Il mare nel cassetto",
+      "url": "https://open.spotify.com/track/5kxbVnUHcv8TXWI2E0ilSs"
     },
     {
       "added_at": "2025-05-02 09:12:30",

@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-2,052 songs - 3 day 7 hr 25 min
+2,053 songs - 3 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1276,6 +1276,7 @@
 | [New Sign](https://open.spotify.com/track/3V2ByDue8RiV2KRdxSeoWQ) | [bripp](https://open.spotify.com/artist/0d3thvBL4aAaPp5bFuHfrt) | [New Sign](https://open.spotify.com/album/0agMyOi2ocN1AhOXtxcj61) | 2:33 | 2022-09-09 | 2024-04-13 |
 | [Nice To Meet U](https://open.spotify.com/track/6jadCrE6dGrv0vFAzv9hg4) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [dave.wav](https://open.spotify.com/artist/4ZJQECwTUYezRbVJkzjis2) | [Nice To Meet U](https://open.spotify.com/album/5FXjwQMfXqgHOqmsTghIaC) | 2:07 | 2022-04-22 | 2022-11-12 |
 | [Night Ride](https://open.spotify.com/track/3XJPDL46QsgfftuBNV9lGt) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Night Ride](https://open.spotify.com/album/0WaetxJJKhBAzFNIhted0j) | 2:50 | 2022-10-28 | 2023-07-14 |
+| [Night shifting](https://open.spotify.com/track/6OOccjkcmZjVSG7aPetzY9) | [kdj\_77](https://open.spotify.com/artist/0gOMLuuQAYeuZZxFsS6AcO) | [Night shifting](https://open.spotify.com/album/5LZNeXpixJMpntTrUr2RAx) | 2:53 | 2025-09-11 |  |
 | [Night Time](https://open.spotify.com/track/0KayUzHjGFs97poj1WSngo) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [Night Time](https://open.spotify.com/album/4eyhuIIXY6aEJjjyKhAIgf) | 2:27 | 2023-02-07 | 2023-02-10 |
 | [Night Time](https://open.spotify.com/track/5U8iVlXYzTqdKPSTVNYW7K) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [Night Time](https://open.spotify.com/album/3zwK2AxQFgbvz2nE94tjP1) | 2:27 | 2022-12-09 | 2025-06-07 |
 | [nightfall](https://open.spotify.com/track/6Jll9RzBBvPYWWNvQhiPyj) | [Roe Cutz](https://open.spotify.com/artist/3tv9tFr4bEFisyEYhXkyxQ) | [nightfall](https://open.spotify.com/album/7dag2jPl7v0GCjXPPMkBPd) | 2:13 | 2022-07-01 | 2023-08-22 |

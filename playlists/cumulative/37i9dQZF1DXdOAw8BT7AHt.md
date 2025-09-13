@@ -4,7 +4,7 @@
 
 > The best in every corner of modern punk rock\. Cover: Maruja
 
-545 songs - 1 day 3 hr 21 min
+546 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Be Better](https://open.spotify.com/track/5vSXV3dlts6javSJCZH2iT) | [Queen Cult](https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt) | [Be Better](https://open.spotify.com/album/06DjLKHL3vU2hmwkgQavK2) | 2:24 | 2024-05-31 | 2024-06-25 |
 | [Before I Die](https://open.spotify.com/track/7BcTWgmZQp5Ueu3XdjCdFY) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Before I Die](https://open.spotify.com/album/61B7Jjcy1ccw5KnXEebj3T) | 2:53 | 2024-06-27 | 2024-07-05 |
 | [Beg For More](https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Beg For More](https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I) | 2:54 | 2024-06-27 | 2025-09-05 |
+| [Better](https://open.spotify.com/track/74nvvW4DI8UYB1EHRDONUl) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Better](https://open.spotify.com/album/3WrwVAVGPXWDewDCxkdnc0) | 3:09 | 2025-09-11 |  |
 | [Big Al Dente](https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Big Al Dente](https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K) | 2:50 | 2024-06-27 | 2025-08-06 |
 | [Big Black X](https://open.spotify.com/track/3RsXpoUjM75M2tsiunmqMQ) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [Big Black X](https://open.spotify.com/album/7gD1uFkXuGufNdq34F5Pa0) | 3:34 | 2024-06-27 | 2024-08-10 |
 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 | 2023-08-23 | 2024-06-01 |
@@ -75,7 +76,7 @@
 | [Bite Me](https://open.spotify.com/track/0Gs26tFXxFrZNZm2lXQfDg) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Bite Me](https://open.spotify.com/album/1GhiWvB9ZkwfYakj9PyG0j) | 2:07 | 2024-10-10 |  |
 | [Blockage](https://open.spotify.com/track/4xJfsFXJITax9I1GrGPVEI) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [Death Hilarious](https://open.spotify.com/album/3ayehNLPtO03kFwPnkOhgx) | 2:51 | 2025-05-08 | 2025-05-10 |
 | [Blood](https://open.spotify.com/track/547YHEDFzD5h3hlJSrJAR8) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Earthkeeper](https://open.spotify.com/album/1T8drhwbWC7ksyrXvR8O0n) | 4:02 | 2025-09-04 |  |
-| [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [](https://open.spotify.com/album/null) | 3:42 | 2025-09-11 |  |
+| [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 | 2025-09-11 |  |
 | [Bloodsucker](https://open.spotify.com/track/6IrvC59atKPmrQIbSimIwy) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Bloodsucker](https://open.spotify.com/album/7nmujYHg4M7v5sZwfUfBll) | 2:16 | 2024-02-16 | 2024-03-24 |
 | [Blow It](https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Blow It](https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk) | 2:44 | 2024-07-12 |  |
 | [Blue 42](https://open.spotify.com/track/2DFWAevfL1AfcarnQMrXOi) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Blue 42](https://open.spotify.com/album/3ssXAKhKD9oHtnTqGxoOpB) | 3:14 | 2025-09-04 |  |
@@ -310,7 +311,7 @@
 | [Love & Co.](https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x), [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [The Crucible Of Life](https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm) | 2:39 | 2024-07-19 |  |
 | [Love And Pain](https://open.spotify.com/track/7cqu8HAnerp6pOPRlRzLyG) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Sanguivore Special Edition](https://open.spotify.com/album/6Jqw7LKE3lEkc5GTEFrjNf) | 4:13 | 2024-04-25 | 2024-10-11 |
 | [love bombs](https://open.spotify.com/track/4lFssPSu2ZFMl5LJKiTF7S) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [love bombs](https://open.spotify.com/album/1EaVWWVkoB3inD2AIjNwX2) | 3:25 | 2024-11-15 | 2025-02-16 |
-| [Love's The Worst](https://open.spotify.com/track/4qD9qh4FRu4wl5QevQKm0b) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Love's The Worst](https://open.spotify.com/album/26S3PSq7r4OA47qMo9I4JC) | 2:47 | 2025-07-19 |  |
+| [Love's The Worst](https://open.spotify.com/track/4qD9qh4FRu4wl5QevQKm0b) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Love's The Worst](https://open.spotify.com/album/26S3PSq7r4OA47qMo9I4JC) | 2:47 | 2025-07-19 | 2025-09-13 |
 | [Low](https://open.spotify.com/track/3foGam4O1YsGX4vppR572g) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [A Different Life](https://open.spotify.com/album/4ngGXR7o8nJ6QqoVa12Bbg) | 4:07 | 2024-04-25 | 2024-06-28 |
 | [Madge's Declaration](https://open.spotify.com/track/547Ad3KBxWgNCmLbot2vf5) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [Madge's Declaration](https://open.spotify.com/album/22UTxZIaIJzdf1QfMl5AQO) | 3:10 | 2023-02-06 | 2023-11-18 |
 | [Madman](https://open.spotify.com/track/7MGDxr4uUDqOV70Uy3iPom) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [EP ii](https://open.spotify.com/album/557ntJoopjoyMhkeX40y9s) | 3:52 | 2023-11-13 | 2024-04-19 |

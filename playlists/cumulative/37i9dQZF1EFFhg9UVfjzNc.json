@@ -2243,6 +2243,28 @@
     },
     {
       "album": {
+        "name": "Maranata",
+        "url": "https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Avivah",
+          "url": "https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9"
+        },
+        {
+          "name": "Fernanda Madaloni",
+          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356266,
+      "name": "Teu Reino Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/5g4WnxOsSBpYpWe7DMtvYi"
+    },
+    {
+      "album": {
         "name": "Toca em Mim de Novo",
         "url": "https://open.spotify.com/album/7dXoY31LdmobYZ35BjLW1d"
       },

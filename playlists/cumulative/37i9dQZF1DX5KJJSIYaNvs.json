@@ -2251,6 +2251,28 @@
     },
     {
       "album": {
+        "name": "City Sessions (Season 2 - Side A)",
+        "url": "https://open.spotify.com/album/5PWT6nirwVvZ62TM1rsi7F"
+      },
+      "artists": [
+        {
+          "name": "Sanjeeta Bhattacharya",
+          "url": "https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc"
+        },
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Daira - City Sessions, Season 2 - Side A",
+      "url": "https://open.spotify.com/track/4auzGy2POHFUZ8ZkT7Hi9H"
+    },
+    {
+      "album": {
         "name": "7 Khoon Maaf (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5KeZZK7MItXn4A5SNwock7"
       },
@@ -3438,7 +3460,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 200377,
       "name": "Filam Dekho - From \"Nishaanchi\"",
       "url": "https://open.spotify.com/track/64wZ5ZEc1d1AqAZmXMDDG9"
@@ -4956,7 +4978,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 172189,
       "name": "Jee Mora Legaya",
       "url": "https://open.spotify.com/track/4tSjvGu1YvOE0D38OXAU0g"
@@ -7892,6 +7914,32 @@
       "duration_ms": 223529,
       "name": "Nah Woh Main",
       "url": "https://open.spotify.com/track/6ibFjwPeSfMdZGYv8lMuHD"
+    },
+    {
+      "album": {
+        "name": "Nain Mila Ke",
+        "url": "https://open.spotify.com/album/2HXgxrQZ2ERY4cL9pdI3t5"
+      },
+      "artists": [
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        },
+        {
+          "name": "Jaidev Kumar",
+          "url": "https://open.spotify.com/artist/3jFf4UnboFrqsHZA8qBkH8"
+        },
+        {
+          "name": "Ranjha Rajan",
+          "url": "https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Nain Mila Ke",
+      "url": "https://open.spotify.com/track/1lr3IPSq3oNBuYJvpOq8lJ"
     },
     {
       "album": {

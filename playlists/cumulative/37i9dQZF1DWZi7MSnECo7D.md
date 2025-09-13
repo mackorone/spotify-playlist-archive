@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: Mombojó
 
-793 songs - 1 day 21 hr 5 min
+794 songs - 1 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Lobo Guará](https://open.spotify.com/track/6FxB7J3n5Vhb3a8VhW0c9V) | [A Olívia](https://open.spotify.com/artist/5KF8ApJq5Uf20Ids67TQDg) | [Lobo Guará](https://open.spotify.com/album/2a8Z6xX7M2nQpZXZiNJG5H) | 3:16 | 2024-02-23 | 2024-06-29 |
 | [Longe](https://open.spotify.com/track/1aC2Sh3pqlzydr1dsoi6v0) | [Cícero](https://open.spotify.com/artist/6a5wUPC879Kyfw0aXxVatB) | [Longe](https://open.spotify.com/album/7mRz40l7AZVQfNZtuwwe7h) | 2:59 | 2023-03-10 | 2023-08-19 |
 | [Lost in the paradise](https://open.spotify.com/track/3uZ7wQzaVIGuqVHCVcKESq) | [Julia Branco](https://open.spotify.com/artist/7023uToWKoLCvKPgpuv8uo) | [Lost in the paradise](https://open.spotify.com/album/3xfTKRh3KHuZMf6E5c9RO3) | 2:59 | 2023-07-14 | 2023-07-29 |
+| [Love e Vício em Sunshine \(Ao Vivo\)](https://open.spotify.com/track/0H4MhUG9yuruXduPny8FWt) | [Supervão](https://open.spotify.com/artist/6RaRPRrUnOwLbXI5q0nvFj) | [AVGN na Radio Agulha \(ao vivo\)](https://open.spotify.com/album/6LML6JqiKorFCyfujnNz4t) | 2:38 | 2025-09-12 |  |
 | [Love Song](https://open.spotify.com/track/2mbHhK2CvpS5dsxmOYFYnD) | [Gi Basito](https://open.spotify.com/artist/5TTRCZuJLSRUhIXIBjIFBJ) | [LOVE SONGS](https://open.spotify.com/album/7swFG1JHSEBu76Zxp73k8Q) | 4:22 | 2022-03-25 | 2022-04-09 |
 | [Lugar](https://open.spotify.com/track/7agcP5gFfxhC5MZI7ypWgT) | [Lau Ro](https://open.spotify.com/artist/541ER2icL7JZDTQ2SeiOGJ), [Wax Machine](https://open.spotify.com/artist/6kZ2grSzDSRhZuB4iiw77G) | [Lugar](https://open.spotify.com/album/0Aa8q9r8yEiM5alO57r1n6) | 4:09 | 2024-05-03 | 2024-08-17 |
 | [Lugar no Espaço](https://open.spotify.com/track/4bcfbp78ITZhEt0hkQzmXM) | [Isa Salles](https://open.spotify.com/artist/6Oaq2FReJLZazdZPcX7QgH), [Murilo Lourenço](https://open.spotify.com/artist/6hPnVxYK7L67gex8jpzack) | [Lugar no Espaço](https://open.spotify.com/album/6h7anhprQcHLRifVe8fmQd) | 3:44 | 2023-11-24 | 2024-06-22 |
@@ -702,7 +703,7 @@
 | [Toada](https://open.spotify.com/track/0GxfG9JaeNHQxG227cGZxx) | [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Toada](https://open.spotify.com/album/6prDRGrGx8zpPas0p5OPqy) | 2:51 | 2024-07-05 | 2024-08-24 |
 | [toda vez](https://open.spotify.com/track/6eGRkZG3JJkzBm1QTGYpkX) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [belina](https://open.spotify.com/album/5VDXgZ7XDtKsZwMWNPUA21) | 4:07 | 2022-01-28 | 2022-04-29 |
 | [Todacor](https://open.spotify.com/track/1TDkr2o27LFZXU9pYzGCz2) | [Chico Bernardes](https://open.spotify.com/artist/1yfkdkJduKGUIgkFR6Qjs0) | [Todacor](https://open.spotify.com/album/3HVQ90NJxJMGBj0nAZh9qs) | 4:17 | 2024-06-07 | 2024-11-30 |
-| [todo dia](https://open.spotify.com/track/7bsUJaVCGb4JpBji9gpbB8) | [terraplana](https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU) | [natural](https://open.spotify.com/album/3JZZxtRlX16JGi8y1V2Ffu) | 3:40 | 2025-03-14 |  |
+| [todo dia](https://open.spotify.com/track/7bsUJaVCGb4JpBji9gpbB8) | [terraplana](https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU) | [natural](https://open.spotify.com/album/3JZZxtRlX16JGi8y1V2Ffu) | 3:40 | 2025-03-14 | 2025-09-13 |
 | [Todo Dia](https://open.spotify.com/track/5XVCGWWidSp3Of6o3AKCBh) | [Vincy](https://open.spotify.com/artist/6HlGGZw4VFdkPIFkWQnVzm) | [Todo Dia](https://open.spotify.com/album/13Y4BalYZL0tvk5I8dlqJP) | 2:36 | 2022-06-03 | 2022-06-18 |
 | [Todo Dia É De Mudanca](https://open.spotify.com/track/5rYNNP09GB18zTmcNMHVya) | [Garotas Suecas](https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd) | [1 2 3 4](https://open.spotify.com/album/3OV2o4Fy4cgTWyJYCzF1dF) | 3:05 | 2023-07-21 | 2023-12-09 |
 | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/track/5mJkZF1s8A068yo7AqD7oT) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/album/3Y69xn0j0ItsAaZvjzNo4U) | 2:06 | 2022-09-09 | 2022-12-24 |

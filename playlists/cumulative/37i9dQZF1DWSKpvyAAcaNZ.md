@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Gary Clark Jr.
 
-330 songs - 20 hr 51 min
+332 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Need To Know Basis](https://open.spotify.com/track/03medhiG64fBChIiDBTNPK) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Need To Know Basis](https://open.spotify.com/album/1OIHlXoGI7Ybv44vuI8oP3) | 1:59 | 2022-07-22 |  |
 | [Never Too Late \- with Ben Harper](https://open.spotify.com/track/56ykKB10SCoKEBF3vRREw0) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Never Too Late \(with Ben Harper\)](https://open.spotify.com/album/0wfpeRu6eb3yOBRG0jXHBr) | 3:26 | 2024-09-06 |  |
 | [No Good](https://open.spotify.com/track/5Xx8krVxg1pRy6CXieB7FS) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [No Good](https://open.spotify.com/album/4ZBpf04mlizWkXuh9X4e02) | 3:54 | 2021-12-17 |  |
+| [Noah's Children](https://open.spotify.com/track/3h4ECnl24qRZmQ53a5zBzl) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Noah's Children](https://open.spotify.com/album/6mg5QcrnRs8u2CuX1NWRTS) | 4:24 | 2025-09-12 |  |
 | [Number One](https://open.spotify.com/track/4Azj4bueh878ufsertTQDb) | [The Sideshow Tragedy](https://open.spotify.com/artist/3orDENaFfgt5gcLk24QHSS) | [Capital](https://open.spotify.com/album/38jGVyF1w8OvHapB9eOaap) | 3:11 | 2021-12-17 |  |
 | [Off The Ground](https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Give It Back To You](https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3) | 4:13 | 2021-12-17 |  |
 | [Oh Betty](https://open.spotify.com/track/1caexDoRB92w8ph8YLYQvu) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [White Jesus Black Problems](https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i) | 3:56 | 2022-06-03 |  |
@@ -289,6 +290,7 @@
 | [Trouble](https://open.spotify.com/track/2y1aq4yTcDjZKtqhAU5SAW) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Trouble](https://open.spotify.com/album/15BCxVp8zXumVNdvS4HQGc) | 4:07 | 2022-09-30 | 2022-11-14 |
 | [Trouble](https://open.spotify.com/track/4az5pchkq5BEmJTB7fpbxU) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Trouble](https://open.spotify.com/album/22osKK5opQGAkqObk6rJx8) | 4:07 | 2022-09-30 | 2024-04-19 |
 | [Trouble](https://open.spotify.com/track/7F4ZG0eN04nviV7Ry1kQGo) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Trouble](https://open.spotify.com/album/5fUwKOu6jtaJHM9GKjSj9H) | 4:07 | 2021-12-17 |  |
+| [Trouble](https://open.spotify.com/track/0rwpF4XtV2JL9857906zHq) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [Trouble](https://open.spotify.com/album/6xca8kKugBDofCcvC4gsDe) | 3:45 | 2025-09-12 |  |
 | [Trouble](https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Trouble](https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd) | 4:03 | 2022-09-23 |  |
 | [Trouble](https://open.spotify.com/track/5yw4C8rft1mCGdTlsrCY4X) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Trouble](https://open.spotify.com/album/4wMk7mjtzYXFuMSEA8AIcb) | 2:32 | 2022-09-09 |  |
 | [Troublemaker](https://open.spotify.com/track/1XDLcR3ykWZx7p0UmMoLKp) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Troublemaker](https://open.spotify.com/album/4K2P5H65cGZMz9bFLPwCVd) | 3:32 | 2021-12-17 |  |

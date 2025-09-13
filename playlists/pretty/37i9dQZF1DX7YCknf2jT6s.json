@@ -1,13 +1,53 @@
 {
-  "description": "New jazz for open minds. Cover: Alfa Mist",
-  "num_followers": 950656,
+  "description": "New jazz for open minds. Cover: Skinny Hightower",
+  "num_followers": 950587,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB6QoVgpvFgB4fUBgKXsWCLf7JIC",
+  "snapshot_id": "AAAAAOJTduRihwmmu5ysBIc9eWHPTt1U",
   "tracks": [
+    {
+      "added_at": "2025-09-12 04:22:45",
+      "album": {
+        "name": "Take Off Your Cool",
+        "url": "https://open.spotify.com/album/4cIqn29NG2sXYtANxx5LSJ"
+      },
+      "artists": [
+        {
+          "name": "Chief Adjuah",
+          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "duration_ms": 447358,
+      "name": "Take Off Your Cool",
+      "url": "https://open.spotify.com/track/0Ysimq1w9pwerOtGekE76i"
+    },
+    {
+      "added_at": "2025-09-12 04:22:45",
+      "album": {
+        "name": "Suede",
+        "url": "https://open.spotify.com/album/3tPwSfznRxFsfAWwrptFwT"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        },
+        {
+          "name": "Alex Parchment",
+          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
+        }
+      ],
+      "duration_ms": 217585,
+      "name": "Suede",
+      "url": "https://open.spotify.com/track/7a7rZUp3doRbHOyfH8Bpyu"
+    },
     {
       "added_at": "2025-09-05 04:00:01",
       "album": {
@@ -23,6 +63,30 @@
       "duration_ms": 124200,
       "name": "Dersen Cafe",
       "url": "https://open.spotify.com/track/1GhtPXeqONUwX91jVh3Obu"
+    },
+    {
+      "added_at": "2025-08-29 04:00:27",
+      "album": {
+        "name": "LIVE-ACTION",
+        "url": "https://open.spotify.com/album/6KpA380vLBVA6d6lYebIk3"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Marquis Hill",
+          "url": "https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez"
+        },
+        {
+          "name": "JSWISS",
+          "url": "https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4"
+        }
+      ],
+      "duration_ms": 202270,
+      "name": "UNDEFEATED",
+      "url": "https://open.spotify.com/track/5fwKEMTyS0FqLk7KVdGQwl"
     },
     {
       "added_at": "2025-09-05 04:00:01",
@@ -49,6 +113,54 @@
       "url": "https://open.spotify.com/track/4zmpoLyjcNudj0LcNw6e5k"
     },
     {
+      "added_at": "2025-09-12 04:22:45",
+      "album": {
+        "name": "Flight",
+        "url": "https://open.spotify.com/album/4eh6MPAz1cqfA3xwkAEIlD"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Muthspiel",
+          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
+        },
+        {
+          "name": "Scott Colley",
+          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        }
+      ],
+      "duration_ms": 457133,
+      "name": "Flight",
+      "url": "https://open.spotify.com/track/4vzN724NkFTS9OLH3sn3fK"
+    },
+    {
+      "added_at": "2025-09-12 04:22:45",
+      "album": {
+        "name": "Benny Thanks",
+        "url": "https://open.spotify.com/album/0gtNywZJdNKiixAUPE7UbU"
+      },
+      "artists": [
+        {
+          "name": "Thom Rotella",
+          "url": "https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm"
+        },
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        },
+        {
+          "name": "Ernie Watts",
+          "url": "https://open.spotify.com/artist/2savq7Id5eDV0DVsoug0wH"
+        }
+      ],
+      "duration_ms": 358533,
+      "name": "Benny Thanks",
+      "url": "https://open.spotify.com/track/01MKZzdSQL0byZSNVSZw9L"
+    },
+    {
       "added_at": "2025-09-05 04:00:01",
       "album": {
         "name": "NUEVA TIMBA",
@@ -63,30 +175,6 @@
       "duration_ms": 306896,
       "name": "Cerca y Lejos - Live",
       "url": "https://open.spotify.com/track/2I87Boyr1bzuQnQrvTKn7c"
-    },
-    {
-      "added_at": "2025-08-29 04:00:27",
-      "album": {
-        "name": "LIVE-ACTION",
-        "url": "https://open.spotify.com/album/6KpA380vLBVA6d6lYebIk3"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
-        },
-        {
-          "name": "Marquis Hill",
-          "url": "https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez"
-        },
-        {
-          "name": "JSWISS",
-          "url": "https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4"
-        }
-      ],
-      "duration_ms": 202270,
-      "name": "UNDEFEATED",
-      "url": "https://open.spotify.com/track/5fwKEMTyS0FqLk7KVdGQwl"
     },
     {
       "added_at": "2025-08-29 04:00:27",
@@ -511,22 +599,6 @@
       "duration_ms": 252083,
       "name": "Jorge's Vision",
       "url": "https://open.spotify.com/track/5LzCs06Mb04mFgIBsdSvVV"
-    },
-    {
-      "added_at": "2025-08-22 04:00:35",
-      "album": {
-        "name": "Shared Stories of Rivals II",
-        "url": "https://open.spotify.com/album/5fpyfXxzsIAgM9PmRu7kJ3"
-      },
-      "artists": [
-        {
-          "name": "Chief Adjuah",
-          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
-        }
-      ],
-      "duration_ms": 324851,
-      "name": "Shared Stories of Rivals II",
-      "url": "https://open.spotify.com/track/1Xx70YYSc3RNGIXsBTVtet"
     },
     {
       "added_at": "2025-08-01 04:00:35",
@@ -1345,26 +1417,6 @@
       "url": "https://open.spotify.com/track/0Ksmp4GMe5ehiB5M9hlZkE"
     },
     {
-      "added_at": "2025-04-25 04:00:55",
-      "album": {
-        "name": "SEVENFOLD",
-        "url": "https://open.spotify.com/album/60soXD5j9EQQoPBaTbmqol"
-      },
-      "artists": [
-        {
-          "name": "Skinny Hightower",
-          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
-        },
-        {
-          "name": "Tyler Gauldin",
-          "url": "https://open.spotify.com/artist/0zkTQamZ2Vp5GYsoFUzJnU"
-        }
-      ],
-      "duration_ms": 243898,
-      "name": "SEVENFOLD",
-      "url": "https://open.spotify.com/track/4UzlG1zarO3agn28JnH6yK"
-    },
-    {
       "added_at": "2025-04-11 04:00:21",
       "album": {
         "name": "Lazarus (Adult Swim Original Series Soundtrack)",
@@ -1515,54 +1567,6 @@
       "duration_ms": 198793,
       "name": "Best Life Now",
       "url": "https://open.spotify.com/track/4JkQT6JiF0TWegeSS8c8B6"
-    },
-    {
-      "added_at": "2025-02-07 05:00:30",
-      "album": {
-        "name": "No More Water: The Gospel Of James Baldwin",
-        "url": "https://open.spotify.com/album/2ba5r7icQRIInoWJYUrsSJ"
-      },
-      "artists": [
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/2BFIPXGjO8v1ng8mRtzoV0"
-    },
-    {
-      "added_at": "2025-01-24 05:00:29",
-      "album": {
-        "name": "Hotel Clara",
-        "url": "https://open.spotify.com/album/0royvZusJQXJnXqHJGKQyW"
-      },
-      "artists": [
-        {
-          "name": "Mauricesax",
-          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
-        },
-        {
-          "name": "Ted Taforo",
-          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
-        },
-        {
-          "name": "Efajemue",
-          "url": "https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1"
-        },
-        {
-          "name": "Lytmus",
-          "url": "https://open.spotify.com/artist/3elSNWFEqrOArFscSKfQn9"
-        },
-        {
-          "name": "Oliver Crosby",
-          "url": "https://open.spotify.com/artist/3JlivF1eIeK1qIg6BdFdNO"
-        }
-      ],
-      "duration_ms": 203418,
-      "name": "Hotel Clara",
-      "url": "https://open.spotify.com/track/2iOLyeDMmAX790wKqdl9om"
     },
     {
       "added_at": "2025-06-27 04:00:28",

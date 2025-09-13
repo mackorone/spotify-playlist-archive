@@ -343,6 +343,24 @@
     },
     {
       "album": {
+        "name": "PERMANENTLY YOURS",
+        "url": "https://open.spotify.com/album/5dcfcH1GZ71FgtZKzIXToU"
+      },
+      "artists": [
+        {
+          "name": "SWAVAY",
+          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166624,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/1JzEaFfl0dVSHV3KlzhA5E"
+    },
+    {
+      "album": {
         "name": "All Mine",
         "url": "https://open.spotify.com/album/5HfRomFAcnSvhGJEDMFE3J"
       },
@@ -962,7 +980,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 193840,
       "name": "Body",
       "url": "https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr"
@@ -2844,7 +2862,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 171000,
       "name": "Heart Of A Woman",
       "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
@@ -2898,7 +2916,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 215492,
       "name": "Here We Go (Uh Oh)",
       "url": "https://open.spotify.com/track/5ShqaLCQm38x3Y1K4kQDqm"
@@ -3849,6 +3867,24 @@
     },
     {
       "album": {
+        "name": "Kiss & Tell",
+        "url": "https://open.spotify.com/album/6RNHyqtRrerpIrqdSMjHor"
+      },
+      "artists": [
+        {
+          "name": "Bobby V.",
+          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146539,
+      "name": "Kiss & Tell",
+      "url": "https://open.spotify.com/track/1oOkykRNBrLFhNRhMiYpwp"
+    },
+    {
+      "album": {
         "name": "Total",
         "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
       },
@@ -3954,7 +3990,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 220540,
       "name": "Let It Ring",
       "url": "https://open.spotify.com/track/2QToCO9vAXoFep2CELdFz5"

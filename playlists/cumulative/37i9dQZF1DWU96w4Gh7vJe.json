@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 253333,
       "name": "Mikasa",
       "url": "https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B"
@@ -1643,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "O\u2019 Kay Tamis",
+        "url": "https://open.spotify.com/album/5TKMkaDXaNA84CswvnKokE"
+      },
+      "artists": [
+        {
+          "name": "It All Started In May",
+          "url": "https://open.spotify.com/artist/1qWLxocXl9bpeqejuQ8zJX"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "O\u2019 Kay Tamis",
+      "url": "https://open.spotify.com/track/1s1nPYN5ryw0OHejNO0eAV"
+    },
+    {
+      "album": {
         "name": "Pag-Ibig (Meron Ba?)",
         "url": "https://open.spotify.com/album/5INHCPcl1iCJl01rOt8vGI"
       },
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 192052,
       "name": "Pity Ya",
       "url": "https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9"
@@ -1914,6 +1932,24 @@
       "duration_ms": 347120,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK"
+    },
+    {
+      "album": {
+        "name": "RARARA",
+        "url": "https://open.spotify.com/album/6OqJxk4hjts59iSTpRPg35"
+      },
+      "artists": [
+        {
+          "name": "Dilaw",
+          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226807,
+      "name": "RARARA",
+      "url": "https://open.spotify.com/track/29LpgyzY0QsvhsNO6XXQ6c"
     },
     {
       "album": {

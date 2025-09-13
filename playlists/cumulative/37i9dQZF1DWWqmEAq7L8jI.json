@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Paz Carrara",
+  "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Babas\u00f3nicos.",
   "name": "Radio Pop",
   "tracks": [
     {
@@ -326,6 +326,24 @@
       "duration_ms": 198729,
       "name": "Adentro",
       "url": "https://open.spotify.com/track/4CROIfMRtC28Wx9otPTPER"
+    },
+    {
+      "album": {
+        "name": "Advertencia",
+        "url": "https://open.spotify.com/album/0dEgdpdLYJMoPWCdarqBXH"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247971,
+      "name": "Advertencia",
+      "url": "https://open.spotify.com/track/5E04c8q4aBVuoFOiVg5N60"
     },
     {
       "album": {
@@ -688,6 +706,24 @@
       "duration_ms": 192893,
       "name": "Autosabotaje",
       "url": "https://open.spotify.com/track/63pR6hi3E29x3vYJQUuvzS"
+    },
+    {
+      "album": {
+        "name": "Aventura",
+        "url": "https://open.spotify.com/album/0CFFkWAaulWLiSKskqVjB8"
+      },
+      "artists": [
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Aventura",
+      "url": "https://open.spotify.com/track/1gCDdj2jmtSYmaZYKzFs41"
     },
     {
       "album": {
@@ -2246,7 +2282,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 171578,
       "name": "El remedio",
       "url": "https://open.spotify.com/track/3wqDCyyAlbQCZsvD6isTC0"
@@ -4071,6 +4107,24 @@
     },
     {
       "album": {
+        "name": "Luis",
+        "url": "https://open.spotify.com/album/44BVovg1ixDk60xum72iji"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Luis",
+      "url": "https://open.spotify.com/track/3Wo0RfWcun0IcemZfKnmIN"
+    },
+    {
+      "album": {
         "name": "Machu Picchu",
         "url": "https://open.spotify.com/album/7jqXGkhOKZ3wuZuD6IgTYR"
       },
@@ -4816,7 +4870,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 245209,
       "name": "No Ha Parado De Llover (with Sebasti\u00e1n Yatra)",
       "url": "https://open.spotify.com/track/0Ao64XWY9rvsx4K0JmJ7Pv"
@@ -5394,7 +5448,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 206633,
       "name": "Perfecto Final",
       "url": "https://open.spotify.com/track/7gX02EZpixtgIuiygeYGtj"
@@ -6771,6 +6825,28 @@
     },
     {
       "album": {
+        "name": "Tesoro",
+        "url": "https://open.spotify.com/album/62DckjMHNPj18A3LECOUQX"
+      },
+      "artists": [
+        {
+          "name": "Homog\u00e9nica",
+          "url": "https://open.spotify.com/artist/4In5xWRYAXf9qCXKmYQ8Tt"
+        },
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132906,
+      "name": "Tesoro",
+      "url": "https://open.spotify.com/track/2wFeqKMBrU4toeSqsLm31H"
+    },
+    {
+      "album": {
         "name": "CHARLIE",
         "url": "https://open.spotify.com/album/2LTqBgZUH4EkDcj8hdkNjK"
       },
@@ -7628,7 +7704,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 207632,
       "name": "Yo Te Dir\u00e9",
       "url": "https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5"

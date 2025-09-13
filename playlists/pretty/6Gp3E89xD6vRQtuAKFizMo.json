@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43934,
+  "num_followers": 43925,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAaZ3VGy8U+0VY6AFVc0iRBXLpoSXS8",
+  "snapshot_id": "AAAaaUd3hZgimR+geDf2S/KmVNPZbEtQ",
   "tracks": [
+    {
+      "added_at": "2025-09-12 19:02:24",
+      "album": {
+        "name": "Halfstep",
+        "url": "https://open.spotify.com/album/45zfCS0r1tr0HyxcNFIXsA"
+      },
+      "artists": [
+        {
+          "name": "TRICKSTAR",
+          "url": "https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5"
+        }
+      ],
+      "duration_ms": 151113,
+      "name": "Halfstep",
+      "url": "https://open.spotify.com/track/2vVYYm1KgXXQ6QjKTTdiDl"
+    },
+    {
+      "added_at": "2025-09-12 19:02:48",
+      "album": {
+        "name": "Need U To Go (Red Light, Green Light)",
+        "url": "https://open.spotify.com/album/1vN0ccVePdWkMa0SPw0Mgg"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        }
+      ],
+      "duration_ms": 122748,
+      "name": "Need U To Go (Red Light, Green Light)",
+      "url": "https://open.spotify.com/track/44bLkSd8XKs8HLi9VuY1To"
+    },
     {
       "added_at": "2025-09-08 18:42:33",
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-133 songs - 6 hr 18 min
+134 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Expensive On Me](https://open.spotify.com/track/3vvwCxeE0jsAJSd7G1eyCF) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [HEARTBREAK ON THE DANCE FLOOR](https://open.spotify.com/album/6bSs5sjgeXM4SaoqFZkdn9) | 2:16 | 2025-08-06 |  |
 | [Expensive On Me](https://open.spotify.com/track/4OOvL85V0OSRvu7iYjYjPl) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [HEARTBREAK ON THE DANCE FLOOR](https://open.spotify.com/album/4xeB3CxmN8wCAIQGAh9XC0) | 2:16 | 2025-07-03 | 2025-08-07 |
 | [expired](https://open.spotify.com/track/7lB5RzhwWMXVtS5ZXx7JsX) | [Sejal](https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU) | [shy](https://open.spotify.com/album/6FGjEG944AvGqK1hBThw7l) | 3:09 | 2025-07-03 |  |
-| [FACTS](https://open.spotify.com/track/1Z3ZY29bXjw5wdyOXLkVUd) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [FACTS](https://open.spotify.com/album/6tphLbRCJw4bLeZhQ8ZOgV) | 1:52 | 2025-07-03 |  |
+| [FACTS](https://open.spotify.com/track/1MaRSqwpT56kqFNhdID0vd) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [XY](https://open.spotify.com/album/2L3TRZmEPzIiuDCs3pd12F) | 1:52 | 2025-09-12 |  |
+| [FACTS](https://open.spotify.com/track/1Z3ZY29bXjw5wdyOXLkVUd) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [FACTS](https://open.spotify.com/album/6tphLbRCJw4bLeZhQ8ZOgV) | 1:52 | 2025-07-03 | 2025-09-13 |
 | [Feel Good](https://open.spotify.com/track/0KLQEVv44FyvoJ0ry9P02v) | [Stolar](https://open.spotify.com/artist/73PLndNan9GxNYmuCCSUT3) | [Feel Good](https://open.spotify.com/album/2KFVfaT6bP1LAWsGJg9uMQ) | 3:14 | 2025-07-03 |  |
 | [Fire](https://open.spotify.com/track/1XTzKHCFNpATrGfOrWDDDn) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [The Arrival](https://open.spotify.com/album/1OTee7Y96zHrodzEmflRVe) | 2:28 | 2025-07-03 |  |
 | [Fitness](https://open.spotify.com/track/7Hz9M33j7cRKqTtr0PRn0w) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:45 | 2025-07-03 |  |

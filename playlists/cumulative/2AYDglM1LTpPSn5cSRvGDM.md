@@ -4,7 +4,7 @@
 
 > The best Progressive House for your late night running, cardio, lifting spinning, HIIT, workout experience\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-136 songs - 7 hr 46 min
+137 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [About To Lose It](https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [About To Lose It](https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY) | 3:15 | 2025-07-11 | 2025-08-23 |
 | [ACID](https://open.spotify.com/track/2Kkx9JxUQqsUIjGtjO4hMP) | [ON\_1](https://open.spotify.com/artist/1yga9Ci8sD6gpO5Vf1AN86) | [ACID](https://open.spotify.com/album/1COAoGRQqPCQIGZX9qCH3b) | 3:34 | 2025-07-25 | 2025-08-23 |
 | [Airwaves \- Orjan Nilsen Remix](https://open.spotify.com/track/28ekyceDcZeYpCAV3SljIB) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4), [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM) | [Airwaves \(Orjan Nilsen Remix\)](https://open.spotify.com/album/2ZD84BLme9kZmfsuzTadvO) | 3:16 | 2025-08-08 |  |
+| [And If You Go \- BLR Podium Mix](https://open.spotify.com/track/6XQnbqth5hchQel16A60ok) | [West of the Sun](https://open.spotify.com/artist/06mJk7DutiauNxY6n6U9sx), [Amber Revival](https://open.spotify.com/artist/247Rddo3rzBu5bAtYyvov0), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [And If You Go \(BLR Podium Mix\)](https://open.spotify.com/album/5dTHBqhoe9DEVj7MPO7rqf) | 3:36 | 2025-09-12 |  |
 | [Are You With Me](https://open.spotify.com/track/1aofSC2EOtU8I3DcxccJBR) | [Ryan Lucian](https://open.spotify.com/artist/3G0LbPtRVV7lsCEJ4RDChX) | [Memory](https://open.spotify.com/album/237JwE1vurV2zm9dzp32Dy) | 3:08 | 2025-07-11 |  |
 | [Arrow](https://open.spotify.com/track/3TUZGSbOgrB68DZDlaBoiS) | [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf), [Oliver Cricket](https://open.spotify.com/artist/5kU4kGnYmdsBioNmQ0meDr) | [Arrow](https://open.spotify.com/album/4G5oRZRiMpi3imTNZU8QYD) | 3:24 | 2025-07-11 |  |
 | [B2U](https://open.spotify.com/track/67CkO6Qva8D78RISimeX1n) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [B2U EP](https://open.spotify.com/album/3n4wJlkHBkt2qrPzirQNaN) | 2:48 | 2025-07-23 |  |

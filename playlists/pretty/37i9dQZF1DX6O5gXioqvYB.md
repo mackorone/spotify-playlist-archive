@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui 🌻 Cover: Emili Kasa
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,150 likes - 87 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,155 likes - 87 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 18 | [Settembre ti perdonerò anche se](https://open.spotify.com/track/3yJSb76nbOlK3iZKMxzQR7) | [Nuvola](https://open.spotify.com/artist/1DxW7i7SZhmYiNxXIYbV79) | [Settembre ti perdonerò anche se](https://open.spotify.com/album/7LtrScZDATq4zXff91Mog4) | 3:20 |
 | 19 | [Sognare un po' dormire mai](https://open.spotify.com/track/3yVoCgJw899T7MyZdWhc13) | [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW), [Driddu](https://open.spotify.com/artist/6I2Sus23V4Zb4vDAr8gMX8) | [Sognare un po' dormire mai](https://open.spotify.com/album/4RXH9haPBd1WcjXewbu8fC) | 2:57 |
 | 20 | [Perfetto](https://open.spotify.com/track/5LIBxqEAnCaATbOwhs5cbV) | [Sasio](https://open.spotify.com/artist/5vIpCD0qLNf6HdAFdiA14z) | [Perfetto](https://open.spotify.com/album/1A7DI0VFNG1Fbd5WrZf4Kd) | 3:09 |
-| 21 | [avevi ragione](https://open.spotify.com/track/1Yg2wQlCVWVe7Wx7dYc5JF) | [Randomico](https://open.spotify.com/artist/6qSOIqBWOv9LtRtcuE7RIy), [PELIGRO](https://open.spotify.com/artist/5frSoUKC7ordrJUgUzYU2I) | [avevi ragione](https://open.spotify.com/album/2bfDQw4IyYMUStf4MbWobQ) | 2:36 |
+| 21 | [avevi ragione](https://open.spotify.com/track/1Yg2wQlCVWVe7Wx7dYc5JF) | [PELIGRO](https://open.spotify.com/artist/5frSoUKC7ordrJUgUzYU2I) | [avevi ragione](https://open.spotify.com/album/2bfDQw4IyYMUStf4MbWobQ) | 2:36 |
 | 22 | [Comete](https://open.spotify.com/track/0ynYBasOulIqqOTc6wr07U) | [g.em](https://open.spotify.com/artist/43XBZSj6fCcIdEp3f0nwWo) | [Comete](https://open.spotify.com/album/03xHd85n9MLcz42DB10ICM) | 3:30 |
 | 23 | [Vivere tanto per vivere](https://open.spotify.com/track/0q6MFHtDKmhtNzfQDtY6Wh) | [Novamerica](https://open.spotify.com/artist/5jahvLO6L8sa94LsNxQQdy) | [Vivere tanto per vivere](https://open.spotify.com/album/5feGSRPMTuEUWm9sbxUXvA) | 3:33 |
 | 24 | [Ferrovia Scogliera](https://open.spotify.com/track/4zlz5wkOKoBLLgIFz3EaFT) | [Rokas](https://open.spotify.com/artist/7BUmFe61H2cYyKVgkwttxj), [Dodicianni](https://open.spotify.com/artist/3Hp4wEC9bnTXChIbsub0kX) | [Ferrovia Scogliera](https://open.spotify.com/album/2rgReMbEdNL6KwuGJnAGN5) | 3:42 |

@@ -3719,6 +3719,24 @@
     },
     {
       "album": {
+        "name": "KIDS",
+        "url": "https://open.spotify.com/album/3g2krLRAh7gyo34ZByhHF6"
+      },
+      "artists": [
+        {
+          "name": "Dan Heist",
+          "url": "https://open.spotify.com/artist/58sSgXdraXhUDJviQD4ZNS"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200547,
+      "name": "KIDS",
+      "url": "https://open.spotify.com/track/2FseetX4Od9OkF80RiQQW8"
+    },
+    {
+      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/7BjiTaogvuGSkQQ8U6KCPR"
       },

@@ -502,7 +502,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 154482,
       "name": "Arlington",
       "url": "https://open.spotify.com/track/3ePyoHtT62Gg0gdwwHam54"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 141497,
       "name": "Chameleon\u2019s tuning",
       "url": "https://open.spotify.com/track/35DNlywB4BvMt3Ys4aIxPR"
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 141536,
       "name": "Corne de Brume",
       "url": "https://open.spotify.com/track/0hxWHv0BR6EfnrXZjws1gX"
@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 154437,
       "name": "Das Gebirge",
       "url": "https://open.spotify.com/track/12gTq55jChsH7RIFX6LoBP"
@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 151219,
       "name": "Doors",
       "url": "https://open.spotify.com/track/0p8hGanIeSRCOcDZ1nayUb"
@@ -1792,7 +1792,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 225833,
       "name": "Dreaming of You",
       "url": "https://open.spotify.com/track/2Kc5cRMOGRwUHmUWCK6dtp"
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 148765,
       "name": "Dupont",
       "url": "https://open.spotify.com/track/6f0VxCNrBs7o5LBT6Luebr"
@@ -2224,7 +2224,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 127250,
       "name": "Fairplex",
       "url": "https://open.spotify.com/track/704snAC50lfAo4qJLfCzDo"
@@ -2404,7 +2404,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 128500,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7bRZz44ODWdcv9OnPDTmpe"
@@ -2696,6 +2696,24 @@
       "duration_ms": 198484,
       "name": "Have Faith In What Will Be",
       "url": "https://open.spotify.com/track/1oq0mwvjEoJPdnjq1relpX"
+    },
+    {
+      "album": {
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/3GHDOyyxzgRtxuLMex0l4I"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188016,
+      "name": "Haze",
+      "url": "https://open.spotify.com/track/4UPMz9K7zjY8THQ5MPBUEA"
     },
     {
       "album": {
@@ -3430,7 +3448,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 155342,
       "name": "La Taverne",
       "url": "https://open.spotify.com/track/3mnqApvGyVFEqgFr77X9ij"
@@ -3592,7 +3610,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 161750,
       "name": "Las Rosas",
       "url": "https://open.spotify.com/track/62eMqR3ynGdonHy5ObmWTL"
@@ -3646,7 +3664,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 140986,
       "name": "Le Marais",
       "url": "https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn"
@@ -3924,6 +3942,24 @@
       "duration_ms": 112962,
       "name": "Low-lying Indiana",
       "url": "https://open.spotify.com/track/5NYLrenhF9CwDOgun0jdP0"
+    },
+    {
+      "album": {
+        "name": "Lucca",
+        "url": "https://open.spotify.com/album/39x25Dt34a5LsGB5C1MLqA"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Campagnoli",
+          "url": "https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157595,
+      "name": "Lucca",
+      "url": "https://open.spotify.com/track/2YfwbBWdSIQ3Fcdg2dV2g2"
     },
     {
       "album": {
@@ -4435,6 +4471,24 @@
     },
     {
       "album": {
+        "name": "Neon Waltz",
+        "url": "https://open.spotify.com/album/1xNPIbnJdtlvBTmatV3Oy4"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151920,
+      "name": "Neon Waltz",
+      "url": "https://open.spotify.com/track/6UhsI5uBwLdIAzMKHJ0etV"
+    },
+    {
+      "album": {
         "name": "Everybody Loves You",
         "url": "https://open.spotify.com/album/5CbsLK7qbFYtYsGrUTwy3L"
       },
@@ -4687,6 +4741,24 @@
     },
     {
       "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/6I5a8iMX5gq4GHKnsOHzJT"
+      },
+      "artists": [
+        {
+          "name": "Immanuel",
+          "url": "https://open.spotify.com/artist/7K4eXxDLiJxRllsBhu5C09"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118374,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/1yLoqEUklNh8DjmDns9Qmo"
+    },
+    {
+      "album": {
         "name": "Open Pastures",
         "url": "https://open.spotify.com/album/3TmObRJYYizSF72Qs9IY5K"
       },
@@ -4842,7 +4914,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 169757,
       "name": "Peaberry",
       "url": "https://open.spotify.com/track/22BqJ4x6hb0oRhtyvToTon"
@@ -4932,7 +5004,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 133500,
       "name": "Piumata",
       "url": "https://open.spotify.com/track/0SwMXhWI9pZO0lroyyjfCl"
@@ -5336,7 +5408,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 145695,
       "name": "Rialto",
       "url": "https://open.spotify.com/track/6x1IIozbhUKLHu0a024rDt"
@@ -6128,7 +6200,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 174500,
       "name": "Springwood Ranch",
       "url": "https://open.spotify.com/track/1LxPHwvy8xUaZUXJoGHiaD"
@@ -7306,7 +7378,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 193634,
       "name": "Valsa Sem Fim",
       "url": "https://open.spotify.com/track/309fOMTlQ4uqIq85Uj1EDw"
@@ -7324,7 +7396,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 144398,
       "name": "Valsinha",
       "url": "https://open.spotify.com/track/1jldmlW5DuWoGzwb0Hu7ad"
@@ -7511,6 +7583,24 @@
     },
     {
       "album": {
+        "name": "Wave Crest",
+        "url": "https://open.spotify.com/album/6nrA2Gh2YzIBHeM8iThhbk"
+      },
+      "artists": [
+        {
+          "name": "Luis Diseminado",
+          "url": "https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167933,
+      "name": "Wave Crest",
+      "url": "https://open.spotify.com/track/2uvbLIjeaM6gZvIC56dU1W"
+    },
+    {
+      "album": {
         "name": "Weaving Together",
         "url": "https://open.spotify.com/album/5N0g78Zo6DEY8V0hnbfE5D"
       },
@@ -7576,7 +7666,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 134920,
       "name": "Wellspring for thought",
       "url": "https://open.spotify.com/track/4ZfA8pzOEHovwGTg5wq32Q"

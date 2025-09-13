@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring rachel chinouriri ☎️
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,526 likes - 120 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,929 likes - 120 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [](https://open.spotify.com/album/null) | 4:06 |
+| 1 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 |
 | 2 | [boys come and go](https://open.spotify.com/track/3jCAq8mb4xdmBvONTsZszV) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [boys come and go / chameleon](https://open.spotify.com/album/6TAe3IvGBxizax2j8DVDRM) | 3:46 |
 | 3 | [crushing](https://open.spotify.com/track/2pQoErkcTbLdQLnUtMYvuZ) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:27 |
 | 4 | [The Dress \(Dijon Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Olivia Dean \- Spotify Live Room](https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX) | 3:03 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 42 | [Big Bad Pearl](https://open.spotify.com/track/7cPH1QXuEtdtGGJ7f1bn6j) | [Serena Clara](https://open.spotify.com/artist/1PO51wEepI6XjVQnfl0ve1) | [Big Bad Pearl](https://open.spotify.com/album/46WHnnpAdHD3vQgtJA6e8i) | 3:42 |
 | 43 | [National Disgrace](https://open.spotify.com/track/2W16NH0f34xellZYUjEPsX) | [Little Dog Star](https://open.spotify.com/artist/2DayGMoy8DCtrJpBq8p0PH) | [National Disgrace](https://open.spotify.com/album/1c7sibEGZbZPVfgSFi4LOh) | 3:30 |
 | 44 | [THE END](https://open.spotify.com/track/61GGDNxkwqW0QLc3kvKbbb) | [dolphoe](https://open.spotify.com/artist/0Z37o7UvHfZrbW11TVrfDr) | [NOW THAT'S WHAT I CALL DOLPHOE](https://open.spotify.com/album/1cHFPTGlTEnuUlA6otHxFc) | 2:01 |
-| 45 | [Blu](https://open.spotify.com/track/7p4XQTjHv9uSXUxQnPmPSV) | [Joviale](https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7) | [](https://open.spotify.com/album/null) | 3:09 |
+| 45 | [Blu](https://open.spotify.com/track/7p4XQTjHv9uSXUxQnPmPSV) | [Joviale](https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7) | [Mount Crystal](https://open.spotify.com/album/5qiZBMIgAH1lqylwi0FC8h) | 3:09 |
 | 46 | [dexters phone call](https://open.spotify.com/track/0RcPuojOmJBzkXv5hBdBNl) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:32 |
 | 47 | [The Explorer](https://open.spotify.com/track/7xvrPR9nT6BAaUKgkqvJh2) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [The Explorer](https://open.spotify.com/album/0u4sYVjIp7dE8n6r2VlNp9) | 2:54 |
 | 48 | [easy to forget.](https://open.spotify.com/track/518XVmTTgQSOfVCZoEoKnI) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7) | [Luna, easy to forget.](https://open.spotify.com/album/3OkfFjLwS32ExZx6Y5rQR4) | 2:44 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 ### [Electro Mix](https://open.spotify.com/playlist/37i9dQZF1DWW668oFRU96k)
 
-> A selection of new, quality electro sounds from your favorite EDM acts! Cover: David Guetta x Kiko Olivier x Giacomotto x FAANGS
+> A selection of new, quality electro sounds from your favorite EDM acts! Cover: David Guetta x FAANGS
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,079 likes - 94 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,092 likes - 94 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 93 | [Body](https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Body](https://open.spotify.com/album/77lRJx359HvAd8fcFqbbO8) | 3:14 |
 | 94 | [Lucky](https://open.spotify.com/track/5ECf8gpBqmIUN7MWMN4WZx) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Lucky](https://open.spotify.com/album/2CqOc7E7a4aQHEAD6ctS8I) | 2:26 |
 
-Snapshot ID: `AAAAAL3OwX6CUkxa9FKAsaj6n7gv0sVL`
+Snapshot ID: `AAAAAOSDc6adI0HXLXKlH7iD/OdYLMI8`

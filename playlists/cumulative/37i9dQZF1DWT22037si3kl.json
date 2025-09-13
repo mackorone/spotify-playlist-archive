@@ -213,6 +213,24 @@
     },
     {
       "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/20dtIlr9uvhNd7X1Ltk8DN"
+      },
+      "artists": [
+        {
+          "name": "Reid",
+          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142706,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/7G6wkitbUYwifUNxWglmxR"
+    },
+    {
+      "album": {
         "name": "4K4",
         "url": "https://open.spotify.com/album/4lPYb7fPZqjRQdf0dXv2yo"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 230015,
       "name": "Afli\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6Yps5PS3dKGOcw6Cz1auQ7"
@@ -9390,7 +9408,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 150093,
       "name": "Replay - Spotify Singles",
       "url": "https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z"
@@ -10004,6 +10022,36 @@
       "duration_ms": 164571,
       "name": "Silenciador",
       "url": "https://open.spotify.com/track/3biKlRmlBqKIFDEbTGGC1S"
+    },
+    {
+      "album": {
+        "name": "Skinny Jeans",
+        "url": "https://open.spotify.com/album/4pM0wzgerByvzaHKXlZgD6"
+      },
+      "artists": [
+        {
+          "name": "Cashley",
+          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
+        },
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
+        },
+        {
+          "name": "C4rlinhxs",
+          "url": "https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp"
+        },
+        {
+          "name": "Erick Di",
+          "url": "https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118356,
+      "name": "Skinny Jeans",
+      "url": "https://open.spotify.com/track/6cb2O0EEeuIpXmUCLuFdL5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,870 likes - 98 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,886 likes - 98 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 32 | [Me Gusta](https://open.spotify.com/track/2SVvycM3A5XdT6leTr30mv) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Me Gusta](https://open.spotify.com/album/4QziocRlxq0VgHwO2X9vsP) | 3:10 |
 | 33 | [Better](https://open.spotify.com/track/6oUgmZK0McW4706SLJlfDh) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Manta](https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ) | [Better](https://open.spotify.com/album/5yHLIte1CKJLMMjOrexXqX) | 3:58 |
 | 34 | [Guard Your Joy](https://open.spotify.com/track/0kN37UhHU9BGZe2ZLyFW1O) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w) | [Guard Your Joy](https://open.spotify.com/album/2PiuBzsxTp8jPOhywF56pX) | 4:25 |
-| 35 | [Track 1](https://open.spotify.com/track/5fN2dHD2RxxDVJVWyTVq0t) | [Job De Jong](https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI) | [](https://open.spotify.com/album/null) | 0:00 |
+| 35 | [The Message](https://open.spotify.com/track/5fN2dHD2RxxDVJVWyTVq0t) | [Job De Jong](https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI) | [The Message EP](https://open.spotify.com/album/6OF6KDVge1XAAADYIDf9ej) | 3:37 |
 | 36 | [Part Time Lover](https://open.spotify.com/track/6krRcsHp99cTgaLUMcR9z3) | [Kav Verhouzer](https://open.spotify.com/artist/1yYBD4cVxCxXQXi4QGZfSo), [Lee McKing](https://open.spotify.com/artist/6gjwMfbDEX2vTmjsbiHJHK) | [Part Time Lover](https://open.spotify.com/album/2u9obJx5kdRl3Jte2T4R5X) | 2:12 |
 | 37 | [Party After Party](https://open.spotify.com/track/0IJxq5nQv9coXjtmm2vF0e) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Azooland](https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ), [Tim Bell](https://open.spotify.com/artist/13AFo4856ytys2f6kQqAlY) | [Party After Party](https://open.spotify.com/album/26FYs9Ps8SnNuwJLJrFeUd) | 2:39 |
 | 38 | [Anne\-Fleur](https://open.spotify.com/track/4RlqKMDmgqRKHXkDvKYGxW) | [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Anne\-Fleur](https://open.spotify.com/album/2DdtHJeoJEBvtacDAaIkko) | 2:04 |

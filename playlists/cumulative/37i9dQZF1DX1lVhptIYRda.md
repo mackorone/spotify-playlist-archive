@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Morgan Wallen
+> Today's top country hits\. Cover: Riley Green
 
 922 songs - 2 day 1 hr 50 min
 

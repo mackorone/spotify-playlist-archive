@@ -4,7 +4,7 @@
 
 > Celebrate Halloween with frighteningly good songs from your Disney favorites like The Nightmare Before Christmas, The Haunted Mansion, Descendants, ZOMBIES and more.
 
-121 songs - 5 hr 48 min
+122 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [The Werewolf Song](https://open.spotify.com/track/0QNPxITooj5C1rHCS525q4) | [Marco Marinangeli](https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 2:22 | 2023-09-22 |  |
 | [The Witches Are Back](https://open.spotify.com/track/6SWxJnEL4PgRySciwic4N3) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W), [Sarah Jessica Parker](https://open.spotify.com/artist/07fyshwD6z8kprzXN7hQYH), [Kathy Najimy](https://open.spotify.com/artist/1JdX5huLHgBUAHTNinXnN5) | [Hocus Pocus 2 \(Original Soundtrack\)](https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED) | 1:44 | 2022-10-07 |  |
 | [The World Es Mi Familia](https://open.spotify.com/track/7FOS31xq9jv4cXWtp6Jnzw) | [Anthony Gonzalez](https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv), [Antonio Sol](https://open.spotify.com/artist/7GmYpAwLQ2PyE1BubvUBsM) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 0:50 | 2023-10-25 |  |
+| [This Is Halloween](https://open.spotify.com/track/1U3mKWuUVPuXL6A3LDOkdU) | [Peter Bence](https://open.spotify.com/artist/4fdxbJLSNRIMkMGbLs5QPF) | [Disney Halloween: Thrilling Piano with Peter Bence](https://open.spotify.com/album/1ELcOf2K8Doo5azoWnYQVM) | 3:06 | 2025-09-12 |  |
 | [This Is Halloween](https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o) | [The Citizens of Halloween](https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:16 | 2022-10-07 |  |
 | [This Is The Thanks I Get?! \- From "Wish"](https://open.spotify.com/track/5jzCoRQd6YsKNWy4S3SUsx) | [Chris Pine](https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [This Is The Thanks I Get?! \(From "Wish"\)](https://open.spotify.com/album/68aJkU3aeRGUW2p4lGnVzL) | 3:14 | 2023-10-27 |  |
 | [Tie the Knot Tango](https://open.spotify.com/track/23c50sgUoawToa6LvPmWuO) | [Taraji P\. Henson](https://open.spotify.com/artist/7DHnqpyebuZan18T1diaio), [Pepé the King Prawn](https://open.spotify.com/artist/1iMTLjdRyIo58maQgO0F1a) | [Muppets Haunted Mansion \(Original Soundtrack\)](https://open.spotify.com/album/4N6yxIJCYUQEpjlUtdEsjX) | 1:43 | 2022-10-07 |  |

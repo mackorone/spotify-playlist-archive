@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 139038,
       "name": "Aahat",
       "url": "https://open.spotify.com/track/3h0rGr8B6cH738G1dF69Di"
@@ -832,7 +832,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 246702,
       "name": "Ashnaa",
       "url": "https://open.spotify.com/track/3C8ZxQ25aqnr3EtmIgVim7"
@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 215067,
       "name": "Bheegne De",
       "url": "https://open.spotify.com/track/1eyQsjV2IXXhp5vRbHniEg"
@@ -2072,6 +2072,28 @@
       "duration_ms": 181997,
       "name": "Chupke Se",
       "url": "https://open.spotify.com/track/5L0MhrWySbzU5qgo0Zjhvo"
+    },
+    {
+      "album": {
+        "name": "City Sessions (Season 2 - Side A)",
+        "url": "https://open.spotify.com/album/5PWT6nirwVvZ62TM1rsi7F"
+      },
+      "artists": [
+        {
+          "name": "Sanjeeta Bhattacharya",
+          "url": "https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc"
+        },
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Daira - City Sessions, Season 2 - Side A",
+      "url": "https://open.spotify.com/track/4auzGy2POHFUZ8ZkT7Hi9H"
     },
     {
       "album": {
@@ -2964,6 +2986,32 @@
       "duration_ms": 169500,
       "name": "Fly Fly Away (Reprise)",
       "url": "https://open.spotify.com/track/76MZxG3G1KFr6FGIJ9OGAp"
+    },
+    {
+      "album": {
+        "name": "City Sessions (Season 2 - Side A)",
+        "url": "https://open.spotify.com/album/5PWT6nirwVvZ62TM1rsi7F"
+      },
+      "artists": [
+        {
+          "name": "Rono",
+          "url": "https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6"
+        },
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        },
+        {
+          "name": "Taab",
+          "url": "https://open.spotify.com/artist/2zDvtopPWBRwNBkH4KNowY"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "FML - City Sessions, Season 2 - Side A",
+      "url": "https://open.spotify.com/track/5r5fuoBAtYhHOnaUHXw4ok"
     },
     {
       "album": {
@@ -5045,6 +5093,24 @@
     },
     {
       "album": {
+        "name": "Kehne Lagaa (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0g4VuZEzAYerI6Cqdrk8kR"
+      },
+      "artists": [
+        {
+          "name": "Rushil Aswal",
+          "url": "https://open.spotify.com/artist/0rqe1wzJ7s8JGTOaWWBUol"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194069,
+      "name": "Kehne Lagaa (Acoustic Version)",
+      "url": "https://open.spotify.com/track/5mhM5OKK4MBpQOHxBiNheY"
+    },
+    {
+      "album": {
         "name": "Khaali Panne",
         "url": "https://open.spotify.com/album/3W61toZhkU8TffnOtZlmBa"
       },
@@ -5174,6 +5240,24 @@
       "duration_ms": 179210,
       "name": "Khamakhaa",
       "url": "https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq"
+    },
+    {
+      "album": {
+        "name": "Khamokhaan",
+        "url": "https://open.spotify.com/album/4O3blD8O78RuZJQws3ASLS"
+      },
+      "artists": [
+        {
+          "name": "Arish B",
+          "url": "https://open.spotify.com/artist/6uwKdpWSHmcoE5ODUR0XCI"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201120,
+      "name": "Khamokhaan",
+      "url": "https://open.spotify.com/track/3O2FbtJAifU88mgFvr8hBK"
     },
     {
       "album": {
@@ -8688,7 +8772,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 242526,
       "name": "Roohdariyan",
       "url": "https://open.spotify.com/track/4wxtsG8K3QIzstLAMmFoKW"
@@ -9424,6 +9508,24 @@
       "duration_ms": 152042,
       "name": "Shikwe Gile - Live",
       "url": "https://open.spotify.com/track/1iJz2tL0JkK7Q2HjJKUzli"
+    },
+    {
+      "album": {
+        "name": "Sikkon Ka Nagar",
+        "url": "https://open.spotify.com/album/1HmhDhCpAOuobtyDha5uEZ"
+      },
+      "artists": [
+        {
+          "name": "Tang Mizaaji",
+          "url": "https://open.spotify.com/artist/3el3X0f5FDNfJuVJ1abqnz"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226909,
+      "name": "Sikkon Ka Nagar",
+      "url": "https://open.spotify.com/track/69AbYiI0rhlTq4mQ0KPylQ"
     },
     {
       "album": {
@@ -11080,7 +11182,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 165000,
       "name": "Tum Jo Mile",
       "url": "https://open.spotify.com/track/7I8wUSlvmYKv1bf2TU3UBy"

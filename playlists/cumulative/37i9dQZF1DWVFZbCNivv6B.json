@@ -133,6 +133,36 @@
     },
     {
       "album": {
+        "name": "228 & 229",
+        "url": "https://open.spotify.com/album/0A8Y0doV14eZTqcdGsSZYS"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Jay Romero",
+          "url": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
+        },
+        {
+          "name": "Coko Yamasaki",
+          "url": "https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm"
+        },
+        {
+          "name": "Stilo",
+          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241200,
+      "name": "228 & 229",
+      "url": "https://open.spotify.com/track/7lb97FHLBabGaB7kCweSzl"
+    },
+    {
+      "album": {
         "name": "25 Horas",
         "url": "https://open.spotify.com/album/7IPkZfiNCCBWYj8InLxr0x"
       },
@@ -728,7 +758,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 200064,
       "name": "Alley Oop",
       "url": "https://open.spotify.com/track/4prSeUgilnoQ6J5I3iMpQT"
@@ -3772,6 +3802,24 @@
       "duration_ms": 233287,
       "name": "Cuna De Maleantes",
       "url": "https://open.spotify.com/track/0iAYAT6eNN8zWZQEsLbipt"
+    },
+    {
+      "album": {
+        "name": "Desde La Cajuela",
+        "url": "https://open.spotify.com/album/2cGfHwaglYTCJTYxWQFeDj"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219711,
+      "name": "Cu\u00e9ntalo Bien",
+      "url": "https://open.spotify.com/track/0mTY5S2ZGB8bvgPMVwDcWG"
     },
     {
       "album": {
@@ -8726,7 +8774,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 269778,
       "name": "Lo Bueno Se Aproxima",
       "url": "https://open.spotify.com/track/34fPn0JOpP899mFBZKzpuU"
@@ -9968,6 +10016,24 @@
       "duration_ms": 212413,
       "name": "Mi Mejor Amigo",
       "url": "https://open.spotify.com/track/0I57eiZ5WzZKrGYuSfjDOr"
+    },
+    {
+      "album": {
+        "name": "Mi Mood",
+        "url": "https://open.spotify.com/album/2rQ3Ir36dnlH584vGv93Mc"
+      },
+      "artists": [
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164583,
+      "name": "Mi Mood",
+      "url": "https://open.spotify.com/track/1bylUrVgdGGPNeXxEfkaus"
     },
     {
       "album": {
@@ -15754,7 +15820,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 184000,
       "name": "Tumbapatos",
       "url": "https://open.spotify.com/track/5RVd3mNmD3QEXfmNaN7w38"

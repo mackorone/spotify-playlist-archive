@@ -239,6 +239,36 @@
     },
     {
       "album": {
+        "name": "After You (feat. FAANGS)",
+        "url": "https://open.spotify.com/album/2RabLUJKd1jpDS9NbojepU"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kiko",
+          "url": "https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N"
+        },
+        {
+          "name": "Olivier Giacomotto",
+          "url": "https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao"
+        },
+        {
+          "name": "FAANGS",
+          "url": "https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186093,
+      "name": "After You (feat. FAANGS)",
+      "url": "https://open.spotify.com/track/4cGvzO9ejXEVQl2FQI7Hmu"
+    },
+    {
+      "album": {
         "name": "Afterglow (The Remixes)",
         "url": "https://open.spotify.com/album/53NNYJLHlAWooYQ2wVFLsm"
       },
@@ -954,7 +984,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 239032,
       "name": "Be Strong",
       "url": "https://open.spotify.com/track/1rJCBWYDCZNIhk5eeDR4hg"
@@ -8407,6 +8437,32 @@
     },
     {
       "album": {
+        "name": "Peace of Flood",
+        "url": "https://open.spotify.com/album/28YMaSE5kx5tM9HpdafuCh"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Citadelle",
+          "url": "https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293146,
+      "name": "Peace of Flood",
+      "url": "https://open.spotify.com/track/70LDxWCoJKuxpgtErYHDQb"
+    },
+    {
+      "album": {
         "name": "Peace Of Mind",
         "url": "https://open.spotify.com/album/7HuaK77m1azcfrtBCIpE97"
       },
@@ -8658,7 +8714,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 435000,
       "name": "Quezacotl",
       "url": "https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk"

@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Damiano David, Tyla
 
-1,436 songs - 3 day 0 hr 30 min
+1,437 songs - 3 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,6 +571,7 @@
 | [Here All Night](https://open.spotify.com/track/1MnYnayoEmTfZTM7GoPJGM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Here All Night](https://open.spotify.com/album/0caOziV0fbBR8OuU9SDiSS) | 2:56 | 2025-09-11 |  |
 | [Hero](https://open.spotify.com/track/6Xr5kvIa1JnTxlcIucRLk3) | [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Hero](https://open.spotify.com/album/3NqOefjMNFryDmlbhcz6MI) | 2:40 | 2024-10-24 | 2024-11-22 |
 | [Hey](https://open.spotify.com/track/6XEQbfYGsJlrl5agnu5b1y) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Hey](https://open.spotify.com/album/4KC8c6iS6gLnXFZmQlpSEn) | 3:26 | 2025-02-13 | 2025-03-14 |
+| [Hey You](https://open.spotify.com/track/71wsJvswNfGgSb5oMMKWrJ) | [Malik Harris](https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n) | [Plain Sights](https://open.spotify.com/album/2e8uLkAdLQHfhyBxFmgy2u) | 2:57 | 2025-09-11 |  |
 | [hi lo](https://open.spotify.com/track/7Ms7XQN4mDV3qWdkEHrFEN) | [NOA LONE](https://open.spotify.com/artist/4wPKvnsueREFg2eOoUH6Gq) | [hi lo](https://open.spotify.com/album/09WWLiA9AZWMpywKn0ksTS) | 2:16 | 2025-02-27 | 2025-03-28 |
 | [Hi, Everyone Leave Please](https://open.spotify.com/track/0Ck0qxEp2sPUSPBlHBXW5L) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Hi, Everyone Leave Please](https://open.spotify.com/album/3FfMPxFVDUfAbKE7UFwhte) | 2:55 | 2025-07-17 | 2025-08-16 |
 | [Hide](https://open.spotify.com/track/3yIM5GDH3UYpYMi0fWRmx3) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Hide](https://open.spotify.com/album/1AP4YpJXsNnCXvP4EAOE6P) | 3:38 | 2024-08-08 | 2024-09-06 |
@@ -645,7 +646,7 @@
 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2024-08-08 | 2024-08-30 |
 | [I Like You Best \- Cloud 9 Version](https://open.spotify.com/track/3Ihlrpj4BkhVIEkQKECy1F) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [I Like You Best \(Cloud 9 Version\)](https://open.spotify.com/album/3Psow0HwdFlSP024i2S33b) | 2:48 | 2025-07-03 | 2025-08-01 |
 | [I Loved](https://open.spotify.com/track/0EKmZqrK4AghmiM4N5HFZ8) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Left In Your Love](https://open.spotify.com/album/7ha3cuKSuE1edlTUbMH2lb) | 3:01 | 2025-02-06 | 2025-03-07 |
-| [I Met A Boy](https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [](https://open.spotify.com/album/null) | 2:57 | 2025-09-11 |  |
+| [I Met A Boy](https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:57 | 2025-09-11 |  |
 | [I Never Loved You](https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [I Never Loved You](https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl) | 4:09 | 2024-10-10 | 2024-11-08 |
 | [I Stopped Trying \(feat\. Delaney Bailey\)](https://open.spotify.com/track/0KeS6KyWgySn91XyzMtKwe) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [I Stopped Trying](https://open.spotify.com/album/29BXkbVjefNs30DTQfRPeK) | 3:58 | 2025-08-28 |  |
 | [i think i'm in love](https://open.spotify.com/track/0U97wZxxQhrjUuTB9uqoke) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [i think i'm in love](https://open.spotify.com/album/3XoVhwa02RGA8RYIucnNe9) | 3:07 | 2024-08-08 | 2024-09-06 |
@@ -1242,6 +1243,7 @@
 | [The Butterfly Effect](https://open.spotify.com/track/7IAdmF1Oieo320QCpbeG1Y) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [The Butterfly Effect](https://open.spotify.com/album/64191AiijzQRYAUf9m8N3c) | 3:24 | 2025-02-20 | 2025-03-21 |
 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-09-04 |  |
 | [the devil's advocate](https://open.spotify.com/track/6EQxQwc56xRBxjQQMHPFkn) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [the devil's advocate](https://open.spotify.com/album/3AQLKzmHD6t3R4MTE90E4P) | 2:59 | 2025-02-27 | 2025-03-21 |
+| [The Dress \(Dijon Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Olivia Dean \- Spotify Live Room](https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX) | 3:03 | 2025-09-12 |  |
 | [The Fall](https://open.spotify.com/track/67jxDlG2yPNxNu8AUctrw3) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [The Fall](https://open.spotify.com/album/1tWYMiibkD1EukZIr0rUXp) | 2:58 | 2025-04-17 | 2025-05-09 |
 | [The Feeling Never Went Away](https://open.spotify.com/track/7MIHld5DMNTidKKHnS61M2) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [The Feeling Never Went Away](https://open.spotify.com/album/7xcvfwtJB3bBEG4F1ijrza) | 2:55 | 2025-07-31 | 2025-08-29 |
 | [The Final Straw](https://open.spotify.com/track/0V2G4OMFtXsUMzWZBvYJas) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [The Final Straw](https://open.spotify.com/album/24GDSBE6IJN4q3WXzQJc1A) | 3:11 | 2024-12-19 | 2025-01-24 |
@@ -1304,7 +1306,6 @@
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-06-13 |
 | [Toxic Love](https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [When We Get There We'll Know 2.0](https://open.spotify.com/album/7yZdmwtFDpy8gxEBMEn6cN) | 3:13 | 2025-06-12 | 2025-07-04 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-01-10 |
-| [Track 1](https://open.spotify.com/track/71wsJvswNfGgSb5oMMKWrJ) | [Malik Harris](https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-11 |  |
 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 | 2025-01-16 | 2025-02-14 |
 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-07-04 | 2024-08-02 |
 | [Troubled Waters](https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Troubled Waters](https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp) | 3:17 | 2024-09-05 | 2024-09-27 |
@@ -1371,7 +1372,7 @@
 | [Wet Hair](https://open.spotify.com/track/28g2ptfHl9P6VJrIwPDHKn) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Wet Hair](https://open.spotify.com/album/25Y5fgIAftGWw3W0ghPNTK) | 3:07 | 2025-07-24 | 2025-08-22 |
 | [Wet, Hot American Dream](https://open.spotify.com/track/3kTYwlSBqZZ1a5sLCS3SBZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Wet, Hot American Dream](https://open.spotify.com/album/3w9VCOXvlHiznf8AibKbap) | 2:56 | 2025-07-03 | 2025-08-01 |
 | [What a Girl Wants \- ft\. Sabrina Carpenter \- Live \- Spotify Anniversaries Version](https://open.spotify.com/track/3U7M2pRGnFk41lVf6bF2fH) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The 25th Anniversary of Christina Aguilera \| Spotify Anniversaries LIVE](https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo) | 3:55 | 2024-09-26 | 2024-11-01 |
-| [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [](https://open.spotify.com/album/null) | 4:06 | 2025-09-11 |  |
+| [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 | 2025-09-11 |  |
 | [What About Love](https://open.spotify.com/track/4X363jPq3db7ODossYt3l7) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 3:37 | 2025-07-31 | 2025-08-29 |
 | [what do you want from me?](https://open.spotify.com/track/14pcgxHEt0jB4bUU1JqMej) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [what do you want from me?](https://open.spotify.com/album/6dnpMvHn0bCj5ucu3QIhRG) | 2:57 | 2024-08-08 | 2024-08-24 |
 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 | 2025-05-15 | 2025-06-13 |

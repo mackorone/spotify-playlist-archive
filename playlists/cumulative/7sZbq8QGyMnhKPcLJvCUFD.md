@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-759 songs - 1 day 14 hr 9 min
+760 songs - 1 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [Memory Lane](https://open.spotify.com/track/3I4i9lPdYexRsU79R7KnoM) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Memory Lane](https://open.spotify.com/album/0msuqg81uxdZOmmFkS3ot7) | 4:02 | 2022-08-12 | 2023-04-28 |
 | [Memory Nights](https://open.spotify.com/track/3ooflzDgtL0pqnikV7HUDW) | [Jack Shore](https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P), [KORA](https://open.spotify.com/artist/3WhSCXkMRTSKS4jt43hick) | [Memory Nights](https://open.spotify.com/album/1TaHRPxZD4e0lzVB8EU2AG) | 3:16 | 2022-12-26 | 2023-04-28 |
 | [Mess](https://open.spotify.com/track/6bOXwq9j9wFe4M8LAHc3cl) | [Siik](https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf), [Alenn](https://open.spotify.com/artist/7gHWDovnAqm8jZ53BJCsa7) | [Mess](https://open.spotify.com/album/5TpIbGAHt0rVaw52JIP8md) | 2:20 | 2022-12-16 | 2023-04-28 |
+| [miffy cafe pt\. 2](https://open.spotify.com/track/1J6ojZODah7ZvCB2nwYHix) | [sakuracloud](https://open.spotify.com/artist/4e29E9h4Vt0UHW9Fnd0AhO), [99 God](https://open.spotify.com/artist/1fSNmkI8lKMFVMU2Y4hpgi) | [miffy cafe pt\. 2](https://open.spotify.com/album/7ib6Py7gIDbQI3mnur9BvW) | 1:33 | 2025-09-12 |  |
 | [Mirage Of My Heart](https://open.spotify.com/track/6lsu0PNBCk03cdTnZpdgVO) | [D'Amico & Valax](https://open.spotify.com/artist/3kSr7WLrGY10p3zTrJcTsc), [Fayzone](https://open.spotify.com/artist/1hSg7N5p2IUGoWCKtzEHcA) | [Mirage Of My Heart](https://open.spotify.com/album/6ncDWBhtWeEWVWCrmfS3Ud) | 3:09 | 2023-04-07 | 2023-08-10 |
 | [missing life](https://open.spotify.com/track/1ZO5EyLDQRsdIZESfqSlIR) | [QKReign](https://open.spotify.com/artist/5pTDhtjL1lF9Mft8TYCjv6), [gabriawll](https://open.spotify.com/artist/5jMwLnp7dI0H2YFvXpCaMH) | [missing life](https://open.spotify.com/album/2RC1d12bPxRIgNKAqODV2b) | 2:03 | 2025-05-29 |  |
 | [misunderstood](https://open.spotify.com/track/1E0IXWXtlqRjO46cfMXIRJ) | [yanvince](https://open.spotify.com/artist/5WAjBWhp1RaOUP7TxxvfOl) | [misunderstood](https://open.spotify.com/album/0NUdAPurIahjbvjmlAdk6K) | 2:09 | 2024-01-18 | 2024-08-28 |
@@ -692,7 +693,7 @@
 | [twenty five](https://open.spotify.com/track/6uFAPsfbzY0oed5p2LH5OR) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [twenty five](https://open.spotify.com/album/55d0fwseYXlNdMXQpLf7cN) | 3:18 | 2022-11-08 | 2023-04-28 |
 | [UFO](https://open.spotify.com/track/1ulJc36cqWyrHbGp2WWEb0) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [UFO](https://open.spotify.com/album/4RDCwwCBcoC2Pv4vOYo7sT) | 2:34 | 2024-03-01 | 2024-09-29 |
 | [Unbreakable](https://open.spotify.com/track/7ImmvnWXfjXGPecqo9eUVt) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Unbreakable](https://open.spotify.com/album/50PnhUD4Z1qTrgDLOgfcXV) | 3:16 | 2024-01-12 | 2024-11-20 |
-| [Uncharted](https://open.spotify.com/track/13ykMF0rtvembnRG7bjtYN) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Uncharted](https://open.spotify.com/album/2sRxVVqFRtvKTvtYF2iD7Q) | 3:06 | 2025-09-11 |  |
+| [Uncharted](https://open.spotify.com/track/13ykMF0rtvembnRG7bjtYN) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Uncharted](https://open.spotify.com/album/2sRxVVqFRtvKTvtYF2iD7Q) | 3:06 | 2025-09-11 |  |
 | [Underrated](https://open.spotify.com/track/0xABj8GJud97r7AXJSlpMg) | [Zushi&Vanko](https://open.spotify.com/artist/298Tr9fKPXEbDuEB4Bugmx), [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b) | [Underrated](https://open.spotify.com/album/3t5D4dnXjMZY8PZsbO8xz8) | 3:41 | 2024-09-03 |  |
 | [Unforgivable](https://open.spotify.com/track/4zuZkPo9wVNTmuSWj5DaZk) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Unforgivable](https://open.spotify.com/album/3htLm8vM0bgKTSTy2b0cSs) | 3:00 | 2022-09-30 | 2023-04-28 |
 | [Unstoppable](https://open.spotify.com/track/6hzOIrpitaEFkPqlSHHpap) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Unstoppable](https://open.spotify.com/album/1HjcUXi7TgTqJw6fHtGwMm) | 2:50 | 2023-01-06 | 2023-04-28 |

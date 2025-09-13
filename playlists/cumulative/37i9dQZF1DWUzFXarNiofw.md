@@ -2,7 +2,7 @@
 
 ### [R&B Weekly](https://open.spotify.com/playlist/37i9dQZF1DWUzFXarNiofw)
 
-> The newest r&b drops, every week\. Cover: Miguel
+> The newest r&b drops, every week\. Cover: 4Batz
 
 4,371 songs - 9 day 12 hr 43 min
 

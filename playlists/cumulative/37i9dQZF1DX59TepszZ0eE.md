@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd?si=\_S9SDVpeQaqDmtWHrGf99Q>Oncemore Six</a>"
 
-406 songs - 1 day 18 hr 17 min
+406 songs - 1 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Ngobekezela \- Live at Durban ICC RSA](https://open.spotify.com/track/7cbzm3WHC4J30wwQ3BVELA) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba \(Live at Durban ICC RSA\)](https://open.spotify.com/album/5kqAiJJg7CAG2sCzg6mnHa) | 2:47 | 2019-01-06 | 2024-04-19 |
 | [Ngoziphilela](https://open.spotify.com/track/6U0474ZSk2nJIYrYr5nr4G) | [Karabo M](https://open.spotify.com/artist/2eedswVJzymieGtsQyUN2r), [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Ngoziphilela](https://open.spotify.com/album/6fbV9fOh86AldX8ewDfhW9) | 4:04 | 2021-10-14 | 2023-03-18 |
 | [Ngoziphilela Ngomthandazo](https://open.spotify.com/track/3uaa8MjF6P0JYJwBdzkNww) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3), [Mphostoli We Keyboard](https://open.spotify.com/artist/1lgM1mjTHzMVjWZv08fTIN) | [Ngoziphilela Ngomthandazo](https://open.spotify.com/album/3Dm1OvOSDwg49R5JLCiwSu) | 3:31 | 2024-08-02 | 2025-03-21 |
-| [Ngu Jesu \(Bayede\) \(Live\)](https://open.spotify.com/track/45862d4xPNe3rlx7FBCajD) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Sindi Ntombela](https://open.spotify.com/artist/7cgnTBawtnmiIuatGdoQ0U) | [Ngu Jesu \(Bayede\) \(Live\)](https://open.spotify.com/album/1RF8MyVJzi0MrVWmS4ofih) | 9:46 | 2025-09-12 |  |
+| [Ngu Jesu \(Bayede\) \(Live\)](https://open.spotify.com/track/45862d4xPNe3rlx7FBCajD) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Sindi Ntombela](https://open.spotify.com/artist/7cgnTBawtnmiIuatGdoQ0U) | [Ngu Jesu \(Bayede\) \(Live\)](https://open.spotify.com/album/1RF8MyVJzi0MrVWmS4ofih) | 19:39 | 2025-09-12 |  |
 | [Nguna Phakade \(Live\)](https://open.spotify.com/track/0oSn99YO48dZWxNox6oHYF) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Mo Roriseng \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/album/0KDGCLqGhPxcY8FN5PYtd4) | 11:08 | 2023-10-27 | 2025-03-21 |
 | [Nguwe](https://open.spotify.com/track/32sgK4Fm3GCWWC4pQ21y7U) | [Shuga Cane](https://open.spotify.com/artist/7sGQ4ofwoOfiwtDCZJY7tV), [Indlovukazi](https://open.spotify.com/artist/1iG2KmUSvfX8TNCmCR8Enl) | [Nguwe](https://open.spotify.com/album/1KQj1kIYlHKK43O4Y1Bxp0) | 7:30 | 2025-06-27 | 2025-07-25 |
 | [Nithini Webantu \(Ilizwi Lenkosi\)](https://open.spotify.com/track/2IvSE2xIirukcfM3pIOdlV) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nithini Webantu \(Ilizwi Lenkosi\)](https://open.spotify.com/album/2jQWjxTc0RNj8BeCDck1E6) | 5:48 | 2023-07-21 | 2023-09-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > Listen with intention 📝 Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,195 likes - 120 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,197 likes - 120 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 6 | [Beautiful Girl](https://open.spotify.com/track/0zBapdwpLXHoqARf1KykdK) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [There, I Said It](https://open.spotify.com/album/52vbgK7rvikopkFq3GYoX3) | 3:21 |
 | 7 | [She Holds Me](https://open.spotify.com/track/5R2lEJq8s91Xm1k7mbKGoQ) | [Dring](https://open.spotify.com/artist/1CXXrFuiErqDFLhQPPPYKt) | [She Holds Me](https://open.spotify.com/album/2Ow1ZYIWU2erbGCiSlGdCF) | 3:04 |
 | 8 | [changed it all](https://open.spotify.com/track/2BvqkFHPPQ3s1lUD9Y8Lyj) | [benjamin marshall](https://open.spotify.com/artist/43uKxuazcxU13X6jFrlFlQ) | [changed it all](https://open.spotify.com/album/45zOk2s5PyA8V10vCSoleJ) | 5:19 |
-| 9 | [I Wonder](https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [](https://open.spotify.com/album/null) | 2:55 |
+| 9 | [I Wonder](https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [East Of The Sun](https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL) | 2:55 |
 | 10 | [The Valley](https://open.spotify.com/track/1TKjOHN1FDNcClMQyKQRgw) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [The Valley](https://open.spotify.com/album/4S2932lDiFz0RbLvNlHwWu) | 2:39 |
 | 11 | [Something to Say](https://open.spotify.com/track/2ZZP27kh5hf4yl3JJhlf4V) | [Pool Girl](https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2) | [Something to Say](https://open.spotify.com/album/1EgA5STWtP2nbY4kBGcre2) | 2:26 |
 | 12 | [We're Onto Something \(feat\. Zach Bryan\)](https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx), [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [We're Onto Something \(feat\. Zach Bryan\)](https://open.spotify.com/album/0qKyNTZc8qx2ZuuvXzoqb4) | 3:42 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 17 | [Lose Lose](https://open.spotify.com/track/4QCtIQUKi2wshceTwLN9PI) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Lose Lose](https://open.spotify.com/album/26JxGsEkt4JpXsHn9Vsj3Q) | 3:37 |
 | 18 | [see you later, for now](https://open.spotify.com/track/7nG5tKzx8cD9HGfEAjJlH5) | [Lorana](https://open.spotify.com/artist/5f0UvwT0IueZUyTblRVwKA) | [see you later, for now](https://open.spotify.com/album/1yJmJgb0smVa1tWIIu4Osr) | 2:44 |
 | 19 | [Glorious World](https://open.spotify.com/track/13sSRrR9Kbo9XomAgh6Iyv) | [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [Bigger Picture](https://open.spotify.com/album/6OpF3WOwR0HbljyaeJ1AQT) | 4:04 |
-| 20 | [Fall In Your Arms](https://open.spotify.com/track/0Ak2IuK7Xk29NAEJDerJE9) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [](https://open.spotify.com/album/null) | 3:38 |
+| 20 | [Fall In Your Arms](https://open.spotify.com/track/0Ak2IuK7Xk29NAEJDerJE9) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [JAMES.](https://open.spotify.com/album/2Qne4lCCAtu1lAVikGk5UY) | 3:38 |
 | 21 | [Darling, Angel, Baby](https://open.spotify.com/track/5ApdHFIid599KPPEoE3YHG) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS), [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [Darling, Angel, Baby](https://open.spotify.com/album/7KGeJnChfzp9K64iiUkIzP) | 2:36 |
 | 22 | [some days](https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [some days](https://open.spotify.com/album/1UbgSoMftakwqLl0jJC5K0) | 3:17 |
 | 23 | [Racecar](https://open.spotify.com/track/5dhnTegrm9fl3KLBU2bocS) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Racecar](https://open.spotify.com/album/7j5fmYNhtiNE94h8pQ1YW4) | 5:37 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 39 | [Ten Lifetimes](https://open.spotify.com/track/0sYVuKnsIBXThImQbMBh34) | [Ethan Hodges](https://open.spotify.com/artist/2MJuujOU75c34aWr7TZsGD) | [Ten Lifetimes](https://open.spotify.com/album/3AiPs1gZPYlIdNZqm2LZ6W) | 3:28 |
 | 40 | [Cry Your Tears On Me](https://open.spotify.com/track/7dlIaSvHeGgrzsHymXPbc2) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Cry Your Tears On Me](https://open.spotify.com/album/0u4bkIm4rRktznF1U5L50g) | 3:45 |
 | 41 | [Over it Now](https://open.spotify.com/track/1dEoNJiB3BTk1BAXQETASo) | [Chilli Chilton](https://open.spotify.com/artist/1jkQeDN38UmO3PMTayvFUq) | [Over it Now](https://open.spotify.com/album/0elLQpmzjKwbSWLgtUXiv8) | 3:23 |
-| 42 | [Miss Missing You](https://open.spotify.com/track/40uLTiiVwQh3XjU778akBx) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA) | [Miss Missing You](https://open.spotify.com/album/6j9THPoE3D5h0Dg5ZPTeTS) | 3:14 |
+| 42 | [Miss Missing You](https://open.spotify.com/track/40uLTiiVwQh3XjU778akBx) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA) | [Miss Missing You](https://open.spotify.com/album/6j9THPoE3D5h0Dg5ZPTeTS) | 3:15 |
 | 43 | [Thinkin' Bout It](https://open.spotify.com/track/4df4hm9wVgJhSIufV4gWJ7) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Thinkin' Bout It](https://open.spotify.com/album/3710Lh9kQPfuZgidaONNVO) | 2:59 |
 | 44 | [Planets](https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Dog Eared](https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi) | 3:39 |
 | 45 | [It's not love](https://open.spotify.com/track/5YnM8b7aCTTWPwAfmOaBbb) | [Síomha Hennessy](https://open.spotify.com/artist/1zLfXGP1wLk65fRTqh5fFq) | [It's not love](https://open.spotify.com/album/71vUOHcRzntJKakNA0v5Q4) | 4:20 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 69 | [Summer Of Love](https://open.spotify.com/track/5CRnt6De7rnaKr36XO11M0) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Summer Of Love](https://open.spotify.com/album/3g7EVBA03p7WNV5ZTQqPpQ) | 3:33 |
 | 70 | [The Vow](https://open.spotify.com/track/2PV8taUWEOGIoxhoYbXZQ7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/23UkQx8aKE4IERCFuxpYL0) | 3:32 |
 | 71 | [Lie To Yourself](https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Apothecary \(Pt\. 1\)](https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9) | 2:32 |
-| 72 | [Track 4](https://open.spotify.com/track/51XB92eK6Fw4BzJXMUGg5e) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [](https://open.spotify.com/album/null) | 0:00 |
+| 72 | [Drawing The Line](https://open.spotify.com/track/51XB92eK6Fw4BzJXMUGg5e) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Exodus](https://open.spotify.com/album/1HyKIoWfCYdkvI6L0pD79O) | 3:08 |
 | 73 | [Damage Control](https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:30 |
 | 74 | [Sober](https://open.spotify.com/track/1tJYwdLF1NxR0l4kgPlFK9) | [Flo Wilkes](https://open.spotify.com/artist/3IqaycBjqksXbXpUwmM8QT) | [Sober](https://open.spotify.com/album/7keNjPhNn4eJurGWAkJF0A) | 3:20 |
 | 75 | [7:45](https://open.spotify.com/track/7rWPhrTYchWZeUfH5dRMTD) | [ERNIE](https://open.spotify.com/artist/3nXSj676JUEKFxfACHmC9J) | [Sunsoaked](https://open.spotify.com/album/6QEZ9ErgKKIn7n5a68dNMl) | 3:43 |

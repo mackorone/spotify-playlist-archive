@@ -156,7 +156,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 206000,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4ksPvkPCRgMufnlTkgLtuG"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 224016,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/5SIqGf6nEnGaUDrCX2hIDd"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 221744,
       "name": "Children (What Time It Is)",
       "url": "https://open.spotify.com/track/62mKCfQX5J2nnEq8lSwuOX"
@@ -3289,6 +3289,24 @@
     },
     {
       "album": {
+        "name": "Keeping Me Strong",
+        "url": "https://open.spotify.com/album/7s630W8RkQDNMlxIfHDXrK"
+      },
+      "artists": [
+        {
+          "name": "Lack Of Afro",
+          "url": "https://open.spotify.com/artist/5e3Z7HYpiVcP3TlU0a4yap"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176956,
+      "name": "Keeping Me Strong",
+      "url": "https://open.spotify.com/track/0TjYXmxMmWmzzxR33VjwcY"
+    },
+    {
+      "album": {
         "name": "Knock Knock",
         "url": "https://open.spotify.com/album/52Aj733Z1QNSshBALGbFNP"
       },
@@ -4160,6 +4178,28 @@
       "duration_ms": 177538,
       "name": "Nowhere To Run",
       "url": "https://open.spotify.com/track/7a64PMQuzeuPOlhdIKsCgM"
+    },
+    {
+      "album": {
+        "name": "Nowhere, Nowhere",
+        "url": "https://open.spotify.com/album/2nVToq6RH7jIuYC309NaCq"
+      },
+      "artists": [
+        {
+          "name": "Jules Grant",
+          "url": "https://open.spotify.com/artist/5KLQxnoQmOOHaSobJveoD8"
+        },
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203778,
+      "name": "Nowhere, Nowhere",
+      "url": "https://open.spotify.com/track/0ri4XZbCHvM9SHtZBjz7ps"
     },
     {
       "album": {
@@ -5251,6 +5291,24 @@
     },
     {
       "album": {
+        "name": "Stay On Me",
+        "url": "https://open.spotify.com/album/3070rfYDNRp8Ij3DkfJGzC"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187557,
+      "name": "Stay On Me",
+      "url": "https://open.spotify.com/track/6h7cY2Dgk4JGGzFSIutPYC"
+    },
+    {
+      "album": {
         "name": "Stick Together",
         "url": "https://open.spotify.com/album/3UM11wSHVaIEZ7Hm54NdqX"
       },
@@ -5481,6 +5539,32 @@
     },
     {
       "album": {
+        "name": "Take a Chance",
+        "url": "https://open.spotify.com/album/4rcsUFeTpbVSyE55tpg3eZ"
+      },
+      "artists": [
+        {
+          "name": "Bazza Ranks",
+          "url": "https://open.spotify.com/artist/7EUQfwlMtkjAf9Gp7oxGIV"
+        },
+        {
+          "name": "Turnstyle",
+          "url": "https://open.spotify.com/artist/1FcfLoKSTD6x8z6Xj0SE2n"
+        },
+        {
+          "name": "Dynamite MC",
+          "url": "https://open.spotify.com/artist/5RBFw1UkHw2NBsZFtheDEl"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193684,
+      "name": "Take a Chance",
+      "url": "https://open.spotify.com/track/6ks0raychfwkqRllULuSDl"
+    },
+    {
+      "album": {
         "name": "CAPYAC FOREVER",
         "url": "https://open.spotify.com/album/63jCHRp1OODxxUM5vm6sw3"
       },
@@ -5598,7 +5682,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 170393,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5pe8674S8FnKW8tNpHFjAZ"

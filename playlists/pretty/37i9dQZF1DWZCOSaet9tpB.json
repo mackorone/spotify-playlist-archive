@@ -1,15 +1,31 @@
 {
   "description": "Nigeria's hottest tracks.  Cover: FOLA",
-  "num_followers": 283146,
+  "num_followers": 283352,
   "original_name": "Hot Hits Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD5HIMuLNA+EQEe4M8p1lrT/2x8z",
+  "snapshot_id": "AAAAANOp4N0Rmyiqd4NyqpPZqkIcBTBS",
   "tracks": [
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
+      "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 188981,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
+    },
+    {
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "you",
         "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "One Condition",
         "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
@@ -49,7 +65,7 @@
       "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "No Sign of Weakness",
         "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
@@ -65,7 +81,43 @@
       "url": "https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
+      "album": {
+        "name": "Cash Flow (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 174628,
+      "name": "Cash Flow (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
+    },
+    {
+      "added_at": "2025-09-12 08:07:59",
+      "album": {
+        "name": "Shakabulizzy",
+        "url": "https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 165296,
+      "name": "Shakabulizzy",
+      "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
+    },
+    {
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "forever be mine (feat. Wizkid)",
         "url": "https://open.spotify.com/album/7tWxhICLUYrxpalqEqT4kT"
@@ -85,7 +137,23 @@
       "url": "https://open.spotify.com/track/46yD4yZk5XdaLWM6WSN8cC"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
+      "album": {
+        "name": "Na So",
+        "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 214441,
+      "name": "Na So",
+      "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
+    },
+    {
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "BADMAN GANGSTA",
         "url": "https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01"
@@ -105,7 +173,7 @@
       "url": "https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Hot Body",
         "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
@@ -121,7 +189,7 @@
       "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Everlasting Taker",
         "url": "https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6"
@@ -137,7 +205,23 @@
       "url": "https://open.spotify.com/track/4fuLcIzYkc6MtFc09GG1mZ"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
+      "album": {
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "eko",
+      "url": "https://open.spotify.com/track/5oS7MonetNV6SLUyP0t5Xb"
+    },
+    {
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
@@ -161,7 +245,7 @@
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Uzama The 3rd",
         "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
@@ -185,7 +269,7 @@
       "url": "https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "wgft (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/5LgGFj0CG4iJ1MynD791hi"
@@ -205,7 +289,7 @@
       "url": "https://open.spotify.com/track/4kCkgD1ITALBjzBwGsf6tW"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "To Be A Man",
         "url": "https://open.spotify.com/album/2UbSWalA3La9vUpvzlvtbu"
@@ -221,7 +305,7 @@
       "url": "https://open.spotify.com/track/6whWtO0zIA5LUUGSGhojRu"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "CAPTAIN",
         "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
@@ -241,7 +325,7 @@
       "url": "https://open.spotify.com/track/2IocWgGPI0o6rmRDeb7Zrz"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "99 (feat. Daecolm)",
         "url": "https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv"
@@ -273,7 +357,7 @@
       "url": "https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Escaladizzy II",
         "url": "https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu"
@@ -301,7 +385,7 @@
       "url": "https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68"
@@ -317,7 +401,7 @@
       "url": "https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "DYNAMITE",
         "url": "https://open.spotify.com/album/0mk0S1Ytt2fDJYvc4AdzAQ"
@@ -337,27 +421,7 @@
       "url": "https://open.spotify.com/track/1myE3bHoWoSO5hyr3MxdHJ"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
-      "album": {
-        "name": "The Last Wun",
-        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 221986,
-      "name": "satisfaction (feat. Asake)",
-      "url": "https://open.spotify.com/track/4ZWwAR58cXnPhuLcK3AdxJ"
-    },
-    {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
@@ -377,23 +441,7 @@
       "url": "https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
-      "album": {
-        "name": "KELEBU",
-        "url": "https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 172069,
-      "name": "KELEBU",
-      "url": "https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj"
-    },
-    {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Uzama The 3rd",
         "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
@@ -413,7 +461,7 @@
       "url": "https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "lost",
         "url": "https://open.spotify.com/album/5CLUFOEWCqiMNRrX5Ibxod"
@@ -433,7 +481,7 @@
       "url": "https://open.spotify.com/track/3wdV4OJ37JdoLyUJMm50UW"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "CAPTAIN",
         "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
@@ -449,7 +497,7 @@
       "url": "https://open.spotify.com/track/6D09vfVjCFlRxOGdmja0yp"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
@@ -473,7 +521,7 @@
       "url": "https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Venus",
         "url": "https://open.spotify.com/album/6VbLBFjsXbH8AP3MIgqB2n"
@@ -493,7 +541,7 @@
       "url": "https://open.spotify.com/track/2pNjk1fIZTMtj8ry6SdEmB"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "CAPTAIN",
         "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
@@ -509,7 +557,7 @@
       "url": "https://open.spotify.com/track/28NElMiahjGMfcE1G8Y6TG"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Children of Africa",
         "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
@@ -525,7 +573,7 @@
       "url": "https://open.spotify.com/track/52ZxqHSe1HesJPwuuBiW4U"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Candor",
         "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
@@ -541,7 +589,7 @@
       "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy"
@@ -561,7 +609,7 @@
       "url": "https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Arike",
         "url": "https://open.spotify.com/album/10oRGnehj5sWYQ89KuLa0n"
@@ -577,7 +625,7 @@
       "url": "https://open.spotify.com/track/4WnlAkJ3S0r6C7ofHy6kNP"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Work Of Art",
         "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
@@ -593,7 +641,7 @@
       "url": "https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Barrystar Vol. 1",
         "url": "https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA"
@@ -609,39 +657,7 @@
       "url": "https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
-      "album": {
-        "name": "Olamid\u00e9",
-        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 170191,
-      "name": "Luvaluvah",
-      "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
-    },
-    {
-      "added_at": "2025-09-01 11:21:51",
-      "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140527,
-      "name": "SHAOLIN",
-      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
-    },
-    {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Coco Money",
         "url": "https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i"
@@ -657,27 +673,7 @@
       "url": "https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
-      "album": {
-        "name": "TaTaTa (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 150651,
-      "name": "TaTaTa (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
-    },
-    {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "My Amigo",
         "url": "https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj"
@@ -693,7 +689,7 @@
       "url": "https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Trenches Luv",
         "url": "https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB"
@@ -709,7 +705,7 @@
       "url": "https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
@@ -733,7 +729,7 @@
       "url": "https://open.spotify.com/track/6zZixF6uYbtG8uiNzDO2LH"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Mortal Kombat",
         "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
@@ -749,7 +745,7 @@
       "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Joy is Coming",
         "url": "https://open.spotify.com/album/7lD2tdR4j3v24wl6iSr85q"
@@ -765,7 +761,7 @@
       "url": "https://open.spotify.com/track/7msfmSm4KbVnIds5DvsGzT"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
@@ -785,7 +781,7 @@
       "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Panic",
         "url": "https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv"
@@ -801,7 +797,7 @@
       "url": "https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Che Che (feat. Asake)",
         "url": "https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R"
@@ -821,7 +817,7 @@
       "url": "https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Management",
         "url": "https://open.spotify.com/album/7HRbB37rfjzopeNej7TPsg"
@@ -841,7 +837,7 @@
       "url": "https://open.spotify.com/track/7L1DT2ByQ331AJkDfjvI5N"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Calculate",
         "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
@@ -857,7 +853,7 @@
       "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "No Sign of Weakness",
         "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
@@ -873,7 +869,7 @@
       "url": "https://open.spotify.com/track/4FHlbOMdOcPnOYmfH8dl1Z"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "THE MACHINE IS COMING",
         "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
@@ -889,7 +885,7 @@
       "url": "https://open.spotify.com/track/0OWPr4POCQ7iH9BGmTxOZV"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "Laho II",
         "url": "https://open.spotify.com/album/5lpaf3GuS3ig1yXv56OLRR"
@@ -909,7 +905,7 @@
       "url": "https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "alone (Remix)",
         "url": "https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR"
@@ -929,7 +925,7 @@
       "url": "https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4"
     },
     {
-      "added_at": "2025-09-01 11:21:51",
+      "added_at": "2025-09-12 08:07:59",
       "album": {
         "name": "My Darling",
         "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"

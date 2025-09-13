@@ -305,6 +305,28 @@
     },
     {
       "album": {
+        "name": "Credo",
+        "url": "https://open.spotify.com/album/00onwYWoai4ur776BORoID"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexander Boldachev",
+          "url": "https://open.spotify.com/artist/1XCJt7q8dHyYRIuYXbEaLn"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147933,
+      "name": "Cello Suite in G Major, BWV 1007: I. Prelude (Arr. for Harp by Alexander Boldachev)",
+      "url": "https://open.spotify.com/track/6wye1UDezQ5Vr66TpumWMe"
+    },
+    {
+      "album": {
         "name": "Consolations",
         "url": "https://open.spotify.com/album/2Bhs0aU5JCRbRupsJ7r7mR"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Baker Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,392 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,394 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 8 | [What Line?](https://open.spotify.com/track/4xGJfHUgmuXXJIKgWvNlb9) | [LOLA](https://open.spotify.com/artist/0cD96GFyKaDX2LdpHpyT7d) | [What Line?](https://open.spotify.com/album/5bH6EJdqZzCNSOVhONDsfl) | 4:55 |
 | 9 | [Lady Beetle](https://open.spotify.com/track/5qC7PMj4nHBNX7YxiArOGU) | [Lucky](https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp) | [Lady Beetle](https://open.spotify.com/album/0uRXxggkDe5tIpGeMC8ixb) | 3:32 |
 | 10 | [Accomplice](https://open.spotify.com/track/46ywwjXiSMwkQb2VP78Uqi) | [The Vanns](https://open.spotify.com/artist/7CFtg726anbQC3CY0glRDG) | [Accomplice](https://open.spotify.com/album/6vPCMylSb8OVpdTj1VWwCb) | 4:43 |
-| 11 | [Payphone Man](https://open.spotify.com/track/1EyAcfJzQIK42H5ibupAqL) | [The Slingers](https://open.spotify.com/artist/5qNh8YHxuINsJoj4jITDWh) | [PAYPHONE MAN](https://open.spotify.com/album/6dOAzKgHf7Sgj2xqmOzKQg) | 4:32 |
+| 11 | [Payphone Man](https://open.spotify.com/track/1EyAcfJzQIK42H5ibupAqL) | [The Slingers](https://open.spotify.com/artist/5qNh8YHxuINsJoj4jITDWh) | [Payphone Man](https://open.spotify.com/album/6dOAzKgHf7Sgj2xqmOzKQg) | 4:32 |
 | 12 | [Always](https://open.spotify.com/track/2RKsiqTRPsq7PHGMo7Yip2) | [BANFF](https://open.spotify.com/artist/1HXutqlj4mgfiRmeJSUN2f) | [Always](https://open.spotify.com/album/1jCethVwEGEANHy6j5MfFD) | 3:05 |
 | 13 | [Hey You](https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Hey You](https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2) | 3:31 |
 | 14 | [The Plan](https://open.spotify.com/track/4COT14vNBRARG7bDHGuy2R) | [Will Baker](https://open.spotify.com/artist/3TbzuYnLfzpxBRp8WRuFdY) | [The Plan](https://open.spotify.com/album/1JEv5xjBHEEP99wM7Wm692) | 4:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GTMwCv2RBA.md) - [plain]
 
 > Your music taste matches the character on the playlist cover! Listen to the playlist and discover music curated by director James Gunn for each character in Superman\. In theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,388 likes - 198 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,398 likes - 198 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GTMwCv2RBA.md) - [plain]
 | 10 | [San Francisco](https://open.spotify.com/track/2eQOMQkStoRUQyq6HGh1iG) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/4pmOIOmY4QXH1rMSqHMOGH) | 2:53 |
 | 11 | [The Underdog](https://open.spotify.com/track/2YRuexk6q6so8F5M69n4t1) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Ga Ga Ga Ga Ga](https://open.spotify.com/album/6zEGEx2ZXpiLczrpu5wWqu) | 3:42 |
 | 12 | [Our Love Will Change the World](https://open.spotify.com/track/22kB8tcxk63G8ySqvzSiDD) | [Outrageous Cherry](https://open.spotify.com/artist/3qkqPMTDQWqyZTz7a9ldnT) | [Our Love Will Change the World](https://open.spotify.com/album/5OmrSrEFwpEBLaCbjnYLS3) | 3:43 |
-| 13 | [The Mighty Crabjoys Theme](https://open.spotify.com/track/3r6yewphAnnKsBXsHFFSSW) | [The Mighty Crabjoys](https://open.spotify.com/artist/48cI0Zui2r9pcmO6PO6pfp) | [Superman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5NrArmSSCpQg2eDq7vqRyA) | 1:16 |
+| 13 | [The Mighty Crabjoys Theme \(feat\. Lou Lou Safran & Foxy Shazam\)](https://open.spotify.com/track/3r6yewphAnnKsBXsHFFSSW) | [The Mighty Crabjoys](https://open.spotify.com/artist/48cI0Zui2r9pcmO6PO6pfp), [Foxy Shazam](https://open.spotify.com/artist/5qRXoCC1CDTMTli9gplUvk), [Lou Lou Safran](https://open.spotify.com/artist/4ARwS7ozSEGBVBoevtA9fg) | [Superman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5NrArmSSCpQg2eDq7vqRyA) | 1:16 |
 | 14 | [Lex Luthor: Spotify Official Playlist Introduction](https://open.spotify.com/track/5lROedbCzNr6QQrBEI55OV) | [James Gunn](https://open.spotify.com/artist/3tQtOquvJ7w7CG9TCIrOVU) | [Lex Luthor: Spotify Official Playlist Introduction](https://open.spotify.com/album/6ALFd6OBENcCPGs2xLltbn) | 0:21 |
 | 15 | [Fame \- 2016 Remaster](https://open.spotify.com/track/1PehfITh0TTRx3LkDdV4h3) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Young Americans \(2016 Remaster\)](https://open.spotify.com/album/0lITGovWgaQGi42EfqcE5P) | 4:21 |
 | 16 | [Too Cold for You](https://open.spotify.com/track/0fN65FwO4sNc07YBFFNDxt) | [Sahara Hotnights](https://open.spotify.com/artist/2VPvWVAiP9GICmwh4bLUuE) | [C'mon Let's Pretend](https://open.spotify.com/album/6iIoj8QCjUqtWHmFPMIAub) | 2:41 |

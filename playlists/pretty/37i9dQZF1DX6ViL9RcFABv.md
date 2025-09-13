@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Pedro Mafama
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,357 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,384 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 5 | [Terra da Maria](https://open.spotify.com/track/7DMur7xPMYpRiECi6lfhCJ) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y) | [Terra da Maria](https://open.spotify.com/album/6R6BRuvu1YriFFhTUN5Xwe) | 2:26 |
 | 6 | [Drama](https://open.spotify.com/track/6N1z5XlUcO67JA1XxTdIsu) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [Os Azeitonas](https://open.spotify.com/artist/580DM82FybhvbJYUtEjkEz) | [Drama](https://open.spotify.com/album/4O4Z2HgACr41aZ66X0jmL7) | 3:33 |
 | 7 | [Pobre Ex\-Namorado](https://open.spotify.com/track/2AXo4bZh5m5XkuANOjNnk7) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Pobre Ex\-Namorado](https://open.spotify.com/album/0SsVu6tQmkA4wo97kMivgc) | 2:53 |
-| 8 | [Rio do Esquecimento](https://open.spotify.com/track/7L371LhPhHqD6n3M1wZnyd) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y) | [Rio do Esquecimento](https://open.spotify.com/album/52NrtbltfK9K8k23ehS78D) | 2:21 |
+| 8 | [Rio do Esquecimento \(Feiras Novas\)](https://open.spotify.com/track/7L371LhPhHqD6n3M1wZnyd) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y) | [Rio do Esquecimento \(Feiras Novas\)](https://open.spotify.com/album/52NrtbltfK9K8k23ehS78D) | 2:21 |
 | 9 | [Tu na Tua](https://open.spotify.com/track/0dKgbCUSt2Ig01fWrPriHk) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH), [Buba Espinho](https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R) | [Tu na Tua](https://open.spotify.com/album/1LWWdusOyQN5J3BfpXtFeO) | 2:48 |
 | 10 | [Ela não sabe, pois não?](https://open.spotify.com/track/10xWn4Ju0hK96COGlHm70s) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Bichinho \(para onde vai o amor?\)](https://open.spotify.com/album/5KWY5ZZLf16US8jaR3bjoR) | 3:05 |
 | 11 | [Pôr do Sol](https://open.spotify.com/track/2yMTUaAv55qoTD0JPLodIQ) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Pôr do Sol](https://open.spotify.com/album/656nGI6shKfsEFNGBZTOKA) | 2:40 |

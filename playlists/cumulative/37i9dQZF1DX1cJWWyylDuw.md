@@ -2,9 +2,9 @@
 
 ### [Deathcore](https://open.spotify.com/playlist/37i9dQZF1DX1cJWWyylDuw)
 
-> A mix of the best modern Deathcore tracks\. Cover: Lorna Shore
+> A mix of the best modern Deathcore tracks\. Cover: Fit For An Autopsy
 
-715 songs - 1 day 22 hr 0 min
+717 songs - 1 day 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Gekko Karen Stripe](https://open.spotify.com/track/6W0GXnBnorSQ2PB1adaOvI) | [Broken By The Scream](https://open.spotify.com/artist/0QJjaDqswcLyjDOgcBBf1Z) | [Solar Strain](https://open.spotify.com/album/0hXYSmAh2qU9D7AFYZaMHQ) | 5:06 | 2025-08-15 |  |
 | [Ghost](https://open.spotify.com/track/1gmmAEHwxXEVqZWnG4bwh8) | [Nylist](https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw), [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [Ghost](https://open.spotify.com/album/76qxkxWRoQMbqg1jQnNQIN) | 3:19 | 2025-08-15 | 2025-09-06 |
 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 | 2023-06-16 |  |
+| [Glenwood](https://open.spotify.com/track/1zMtEW4SE5s3VqrmTicJaY) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [I Feel The Everblack Festering Within Me](https://open.spotify.com/album/07y8y3CSFTq48HwejrTdGw) | 6:43 | 2025-09-12 |  |
 | [Glory Be 2 Misery](https://open.spotify.com/track/7a4Auzmlt3QDFZbkm1njFw) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [The Last Ten Seconds of Life](https://open.spotify.com/album/4lS0MNSLmDWM7Kv8wlnyEq) | 5:04 | 2022-01-28 | 2023-06-15 |
 | [Go Ask Alice](https://open.spotify.com/track/1IAkmmhG1HSYtRQxBU1HuE) | [Soulkeeper](https://open.spotify.com/artist/6sg8lduBgtJr5l4jMJBxLq) | [Go Ask Alice](https://open.spotify.com/album/148Xiywsm1Qx94EyvTtuGw) | 2:43 | 2025-08-22 |  |
 | [God Complex](https://open.spotify.com/track/1RoFyfpfq5sLrAvt0Mqfin) | [SHIVA](https://open.spotify.com/artist/1yO2jcxDN0jGO6aaSGvYSj), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Infested Entrails](https://open.spotify.com/artist/2UV4oVKHXKT84RWBo942Ll) | [God Complex](https://open.spotify.com/album/48S8NpnkxAlOZykfu5AtV8) | 4:46 | 2022-06-17 | 2022-08-26 |
@@ -367,6 +368,7 @@
 | [Introspection \(Loathing\)](https://open.spotify.com/track/0UWiDloT2S7C1qL84U8Z3z) | [Dead/Awake](https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm) | [Introspection \(Loathing\)](https://open.spotify.com/album/5q2xn0gUDH4TP8lN5UCeV2) | 2:44 | 2021-12-17 | 2022-07-27 |
 | [INVERTED SPEAR OF HEAVEN](https://open.spotify.com/track/1c5WFko3iRB0uCshh5YCjZ) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR) | [SALVATION LAUGHS IN THE FACE OF A GRIEVING MOTHER](https://open.spotify.com/album/0dHQH04nSGugSUSQOHOUpF) | 3:14 | 2025-07-25 |  |
 | [Invictus Unto Fire](https://open.spotify.com/track/671wVJrGptwhsVbxyGiMLg) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Invictus Unto Fire](https://open.spotify.com/album/3lAOXpQ0cqHwVfMbeSD26I) | 3:21 | 2021-12-17 | 2022-07-28 |
+| [It Comes For You](https://open.spotify.com/track/1EPlAlZXGb1JO3s1DpH3rD) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [It Comes For You](https://open.spotify.com/album/50teRCEaNpo7gWCnQ74yVU) | 3:54 | 2025-09-12 |  |
 | [It Stalks the Forest](https://open.spotify.com/track/4OF4Aqwtkqb7SdAfkpQgAt) | [Tearmyself](https://open.spotify.com/artist/29wILATaYUneAGI1ELlZ99) | [Where Life Withers](https://open.spotify.com/album/65HvrxKPfbs0yz8Cy6fZtV) | 3:51 | 2022-09-16 | 2025-03-15 |
 | [iudicium per ignem](https://open.spotify.com/track/35ifxM5PBTxc871D29YJ27) | [Dead/Awake](https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm) | [iudicium per ignem](https://open.spotify.com/album/2K3TiFdYJLqI7PNvh6VkDL) | 3:40 | 2022-06-24 | 2022-07-31 |
 | [IWONTLETYOUDIE](https://open.spotify.com/track/1cAKzjWxDnsYf20JhZ7oBw) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [IWONTLETYOUDIE](https://open.spotify.com/album/2dHhAumusascVwLITieFyp) | 3:33 | 2024-09-20 | 2025-08-24 |
@@ -479,7 +481,7 @@
 | [Ov Agony](https://open.spotify.com/track/4tpFij80eKDaM7r4YyzBvN) | [Face Yourself](https://open.spotify.com/artist/26DU5Lk20t68F2rYc2DcNU) | [Ov Agony](https://open.spotify.com/album/5Q0Tb9pZCCgDRRz515j5MN) | 3:46 | 2025-06-27 |  |
 | [Overdrive](https://open.spotify.com/track/3DQP1AK5wgHPhy2e1EIvdS) | [No Face No Case](https://open.spotify.com/artist/1jwcvlHFsttKb6JY8jPUXQ), [Spawn Of Disgust](https://open.spotify.com/artist/7A3FdTqBKKBzgVEzkE91wL), [Jonny McBee](https://open.spotify.com/artist/5p71qqd5TkcqY3wTzTIK03) | [Overdrive](https://open.spotify.com/album/5eLijWKg89vlalIFzQQOyY) | 3:08 | 2025-04-25 |  |
 | [Overlord](https://open.spotify.com/track/1Tg8yTnIA7lNC2aQPbuQHd) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Overlord](https://open.spotify.com/album/4IYXhSQyH18f8kceUIHn9m) | 3:10 | 2021-12-17 | 2022-07-04 |
-| [Pain Remains I: Dancing Like Flames](https://open.spotify.com/track/4KyPlGyV6lfxOPHfBQpPZm) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains I: Dancing Like Flames](https://open.spotify.com/album/2HRhcuqmyel4Zn92eeE3Cg) | 5:52 | 2022-12-16 |  |
+| [Pain Remains I: Dancing Like Flames](https://open.spotify.com/track/4KyPlGyV6lfxOPHfBQpPZm) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains I: Dancing Like Flames](https://open.spotify.com/album/2HRhcuqmyel4Zn92eeE3Cg) | 5:52 | 2022-12-16 | 2025-09-13 |
 | [Pain Remains II: After All I've Done, I'll Disappear](https://open.spotify.com/track/3CLV93SK84UzGD5EHm3vsT) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains II: After All I've Done, I'll Disappear](https://open.spotify.com/album/7s8v300WVzKUhsATpx692e) | 5:36 | 2022-12-16 | 2023-04-29 |
 | [Pain Remains III: In a Sea of Fire](https://open.spotify.com/track/6wgKN7mUq1CvQBnQKzjeKt) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains](https://open.spotify.com/album/1WuqlDJb7Z2ipBhM6ww7QI) | 9:12 | 2022-12-16 |  |
 | [Pandora](https://open.spotify.com/track/45wgpIER9AI3Pqh1ZFef4D) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Oh What the Future Holds](https://open.spotify.com/album/6Ye3ONH5U76f9MqPg3zxcl) | 4:36 | 2022-07-08 | 2023-02-25 |
@@ -498,7 +500,7 @@
 | [Please End Me](https://open.spotify.com/track/6TlZSSNZd397eYRzbu5SaT) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Please End Me](https://open.spotify.com/album/4IHL9ClOQoD6bT0IipDgPi) | 3:11 | 2023-06-16 |  |
 | [Portrait of God](https://open.spotify.com/track/1W9sFH9GnNHPHYWNvkdN8A) | [Nouri Yetgin](https://open.spotify.com/artist/4QWhRZYvNeYXSBkfW9hCap), [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Sugar Spine](https://open.spotify.com/artist/2xevVC5j2Ink2VeA2wnwkR), [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Torn From Oblivion](https://open.spotify.com/artist/5IXqeHYM84k26hwnTNDuZS) | [Portrait of God](https://open.spotify.com/album/6sQXYY4UOfTmfCo5MbD0Jp) | 4:30 | 2024-09-20 | 2025-04-26 |
 | [Pray For Peace](https://open.spotify.com/track/7L9JcQCPniTagNbWFXfqqF) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Pray For Peace](https://open.spotify.com/album/0fVihLbx9TE3SSxppwoIyH) | 4:54 | 2021-12-17 | 2024-06-11 |
-| [Predatory](https://open.spotify.com/track/0nCt6JIIzpA8XtQcd6PDtq) | [Face Yourself](https://open.spotify.com/artist/26DU5Lk20t68F2rYc2DcNU) | [Predatory](https://open.spotify.com/album/45SVAzIIYLwIGPsE554EtP) | 2:56 | 2025-03-14 |  |
+| [Predatory](https://open.spotify.com/track/0nCt6JIIzpA8XtQcd6PDtq) | [Face Yourself](https://open.spotify.com/artist/26DU5Lk20t68F2rYc2DcNU) | [Predatory](https://open.spotify.com/album/45SVAzIIYLwIGPsE554EtP) | 2:56 | 2025-03-14 | 2025-09-13 |
 | [Prey](https://open.spotify.com/track/3NwPtgv69DAYpb1uEaXjzQ) | [For I Am King](https://open.spotify.com/artist/2etNWORcmPZZBKxcyt6dF4) | [Prey](https://open.spotify.com/album/1KlOaLbLYC4t3qSwfx5uEP) | 3:46 | 2021-12-31 | 2022-04-09 |
 | [Prismatic Tomb](https://open.spotify.com/track/1J29uFlkIBR6IbydTvz4Pv) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx) | [Prismatic Tomb](https://open.spotify.com/album/3KobQQOwPNR4YHpWMnhypq) | 4:05 | 2023-06-30 | 2023-08-22 |
 | [Prison of Flesh](https://open.spotify.com/track/3cg3s4m9gQkV1Aqp0yBP56) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Prison of Flesh](https://open.spotify.com/album/2nyNqY9t8kn8m1nwLSxEtC) | 7:00 | 2025-08-15 |  |

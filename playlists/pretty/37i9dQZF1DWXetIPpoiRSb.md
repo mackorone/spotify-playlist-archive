@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 ### [Evolver](https://open.spotify.com/playlist/37i9dQZF1DWXetIPpoiRSb)
 
-> Now and next level pop and beyond ❤️‍🔥 ADÉLA
+> turn it up louder, i dare you 😌 hiiii frost children & kim 🩵
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,454 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,340 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [RADIO \(feat\. Kim Petras\)](https://open.spotify.com/track/06kFuqzhMk4E6IYeO0sTfx) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [SISTER](https://open.spotify.com/album/6U7EWP2htJIkZny2Iv7mHG) | 3:10 |
-| 2 | [Self Saboteur](https://open.spotify.com/track/2Lq3oDn3NJgb1eWfttjoYW) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [](https://open.spotify.com/album/null) | 4:26 |
+| 2 | [Self Saboteur](https://open.spotify.com/track/2Lq3oDn3NJgb1eWfttjoYW) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 4:26 |
 | 3 | [PONYTAIL WHIP](https://open.spotify.com/track/3TtS5WEBlgQWvI9klkb2iE) | [AMARA ctk100](https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy) | [PONYTAIL WHIP](https://open.spotify.com/album/27DFLXdP3WHeNaQFJHUan1) | 2:14 |
 | 4 | [Obsession](https://open.spotify.com/track/61B6R29gn6rEbhHzLv9ess) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Obsession](https://open.spotify.com/album/4kHuF73sN0gORKFX9k11la) | 2:44 |
 | 5 | [April](https://open.spotify.com/track/2g4WU3DW5CtHRohxMWw2wH) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [April](https://open.spotify.com/album/77SSFBy29ddxQnSq6K0zlT) | 3:15 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 8 | [SexOnTheBeat](https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:46 |
 | 9 | [Crush](https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Crush](https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst) | 2:57 |
 | 10 | [M.I.A](https://open.spotify.com/track/2HKLLlg6erdvg9CXcTEY3E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi) | 2:09 |
-| 11 | [Track 4](https://open.spotify.com/track/2BjzKoaIS9QkdTdUgbAMao) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [](https://open.spotify.com/album/null) | 0:00 |
+| 11 | [Rain](https://open.spotify.com/track/2BjzKoaIS9QkdTdUgbAMao) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [More Is More](https://open.spotify.com/album/4Bm655AzTU4i95l2cb1hle) | 2:52 |
 | 12 | [In House Enemy](https://open.spotify.com/track/4qh7uZxqN4SfWUibDaszMt) | [Akeira Jade](https://open.spotify.com/artist/1nA7MM0soxDlkwBAJrQVCF) | [In House Enemy](https://open.spotify.com/album/1sw3NglwBQkpa2o9hJb3xY) | 2:48 |
 | 13 | [girls with gills](https://open.spotify.com/track/31BP9sLVR9bY0zFvxdZbIJ) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [girls with gills](https://open.spotify.com/album/4bLta3L54y2UFGJ7tGPjsK) | 2:17 |
 | 14 | [Bandit](https://open.spotify.com/track/54PjbXrV6ONeRRZ0Ryvjzg) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Bandit](https://open.spotify.com/album/4C961BvDSC4LhIvTvFBM5K) | 2:36 |

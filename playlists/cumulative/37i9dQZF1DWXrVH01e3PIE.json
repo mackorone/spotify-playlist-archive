@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Mike Southside en la casa del Trap Argentino.",
+  "description": "C.R.O. en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -72,7 +72,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 136406,
       "name": "+personal",
       "url": "https://open.spotify.com/track/065U2pdD1ZUSr5JCCBp8mM"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 140857,
       "name": "1000mg",
       "url": "https://open.spotify.com/track/2uohrCJ6tRjqn7Z7kJdkci"
@@ -774,7 +774,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 119158,
       "name": "AFIP",
       "url": "https://open.spotify.com/track/0HoA3OjrpNHoy7NY0nXPVV"
@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 126185,
       "name": "CARAMELO",
       "url": "https://open.spotify.com/track/1DX9YuWTs64pHLsZp7rO5w"
@@ -2354,7 +2354,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 214925,
       "name": "COMO ANTES",
       "url": "https://open.spotify.com/track/49XibKXtvZo7EUdHwhiYQs"
@@ -2394,7 +2394,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 132413,
       "name": "COMPA LO HICIMOS #MANSIONBLOCKSTAR",
       "url": "https://open.spotify.com/track/37UxquBIlBucoJK44vcaFG"
@@ -2642,7 +2642,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 102897,
       "name": "CUANDO QUIERO",
       "url": "https://open.spotify.com/track/5zSV1XmJAv8wuHWD4l7gPp"
@@ -3274,7 +3274,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 125509,
       "name": "doble F con visa",
       "url": "https://open.spotify.com/track/0vwj3d7mw38Tv3P2WSlLm4"
@@ -3876,7 +3876,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 141923,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/6QL34AOizNSdOSnJpNK69L"
@@ -3942,7 +3942,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 157511,
       "name": "ESTRELLAS",
       "url": "https://open.spotify.com/track/6Lzc35RPYQJqlB3XHLbUIq"
@@ -4008,7 +4008,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 96000,
       "name": "Eternos Retornos, Cap\u00edtulo 4",
       "url": "https://open.spotify.com/track/3SM0xjt4I808lI4RBErN3w"
@@ -4956,10 +4956,32 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 143478,
       "name": "Guerrero",
       "url": "https://open.spotify.com/track/5roof80t8uRcjEjIjg8iZE"
+    },
+    {
+      "album": {
+        "name": "Guerrero (feat. Pablo Chill-E)",
+        "url": "https://open.spotify.com/album/5GwLcRW95bHtSTrIMI2ok7"
+      },
+      "artists": [
+        {
+          "name": "HDR",
+          "url": "https://open.spotify.com/artist/17c1cvfb2tkpih3xZKd50M"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183225,
+      "name": "Guerrero (feat. Pablo Chill-E)",
+      "url": "https://open.spotify.com/track/329k06ANzxl3JH7e4t6kkF"
     },
     {
       "album": {
@@ -5022,7 +5044,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 165654,
       "name": "Hacela f\u00e1cil",
       "url": "https://open.spotify.com/track/018Y4AZrdOPO4NMFzTsWht"
@@ -5560,7 +5582,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 113548,
       "name": "KFC",
       "url": "https://open.spotify.com/track/1IoJ8K4cHdPj5J6WgBqz4t"
@@ -6206,7 +6228,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 149892,
       "name": "LOLIPOP",
       "url": "https://open.spotify.com/track/4ucIG4eV4qbz2VOGJVzp4M"
@@ -6292,7 +6314,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 167191,
       "name": "LOYAL",
       "url": "https://open.spotify.com/track/2YLWt0jmewcTREDeDEi8WP"
@@ -6674,6 +6696,28 @@
       "duration_ms": 305333,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
+    },
+    {
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/2RJAqhDjcD0pB6TeUZlzMM"
+      },
+      "artists": [
+        {
+          "name": "Mike Southside",
+          "url": "https://open.spotify.com/artist/4jIPjVHNkAKmqfWjfwg960"
+        },
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "MENOS MAL",
+      "url": "https://open.spotify.com/track/2j0tu91a5OGkKOVLMVhyEX"
     },
     {
       "album": {
@@ -7782,7 +7826,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 118400,
       "name": "Novio Rockstar",
       "url": "https://open.spotify.com/track/0D2NnwQvCa1rmlGR4PzSLu"
@@ -8632,7 +8676,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 227692,
       "name": "PLATA O PLOMO",
       "url": "https://open.spotify.com/track/4BKPfCinPUz90mjx8Nh3Pu"
@@ -8906,7 +8950,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 163008,
       "name": "QUIERO M\u00c1S",
       "url": "https://open.spotify.com/track/77oK1B1teTupWqIHREmIJT"
@@ -9092,7 +9136,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 102000,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/1AUgsKnQoY9o7BZyECszCK"
@@ -10318,7 +10362,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 145398,
       "name": "TAL VEZ SI DOLI\u00d3",
       "url": "https://open.spotify.com/track/2Ypv4uGmjalzw1zgJh8VXO"
@@ -10853,6 +10897,24 @@
     },
     {
       "album": {
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/6GcvxxMeI4jvd3e8J0iyX8"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/2QlBGi84n6EiW0MOTh62KY"
+    },
+    {
+      "album": {
         "name": "TOP",
         "url": "https://open.spotify.com/album/5sIwtX6VZqRbgokXAcAtl5"
       },
@@ -10904,7 +10966,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 147452,
       "name": "TOP!",
       "url": "https://open.spotify.com/track/1e7bjH6l2RR63iUvhNg0T5"
@@ -11624,7 +11686,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 114193,
       "name": "vidapartida",
       "url": "https://open.spotify.com/track/71y2HrXHM90ZcXd7u5rwm3"
@@ -12130,7 +12192,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 145924,
       "name": "XOXOXO",
       "url": "https://open.spotify.com/track/7hqLbBeq8U1FXJ3RqqhlPM"
@@ -12358,7 +12420,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 157968,
       "name": "Zona de Confort",
       "url": "https://open.spotify.com/track/0GGzYIrma69I0NylKV46ma"

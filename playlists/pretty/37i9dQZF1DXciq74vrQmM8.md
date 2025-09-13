@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. ivri
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,029 likes - 85 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,984 likes - 85 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 4 | [Gethsemane](https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 6:23 |
 | 5 | [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 |
 | 6 | [Cuntology 101](https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 2:18 |
-| 7 | [Track 1](https://open.spotify.com/track/73fQhw7b0rTJa73YnxGeXZ) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [](https://open.spotify.com/album/null) | 0:00 |
+| 7 | [Killher](https://open.spotify.com/track/73fQhw7b0rTJa73YnxGeXZ) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [The Nut House](https://open.spotify.com/album/0HFpKIG41ZlcUkODU4Smns) | 3:21 |
 | 8 | [Run Rabbit](https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Run Rabbit](https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK) | 3:06 |
 | 9 | [Platform Shoes](https://open.spotify.com/track/46TJdLSSO0fsKWOWgdQwb1) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Platform Shoes](https://open.spotify.com/album/1gxsz0IxDEDGzFOTjHxFAv) | 3:06 |
 | 10 | [Blitz](https://open.spotify.com/track/5Fk2qdYM7noUA3WoedjLhM) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [HIM Movie](https://open.spotify.com/artist/62bEtjQcjnCO97g6vRNTV1) | [Blitz](https://open.spotify.com/album/6sRDV6Sc4WR3tyT9VhYogM) | 2:47 |
 | 11 | [Loser](https://open.spotify.com/track/3plgchkBsHc0D4prjUZLm4) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Loser](https://open.spotify.com/album/7jBMjMzRHGQHh3YJnk4x7c) | 2:07 |
 | 12 | [CATCH AND RELEASE](https://open.spotify.com/track/0xFDEEdNrcqK6OKPQGsyok) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [CATCH AND RELEASE](https://open.spotify.com/album/4jUocI6n5D4jEWx4GqYtpu) | 2:24 |
-| 13 | [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [](https://open.spotify.com/album/null) | 3:42 |
+| 13 | [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 |
 | 14 | [Pain](https://open.spotify.com/track/14M05BE09j5oytK3Wd9KWL) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Pain](https://open.spotify.com/album/2KkSDX1QPMwmLfNKbpSC5X) | 3:01 |
 | 15 | [Emergence](https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Emergence](https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH) | 6:26 |
 | 16 | [How You Doing?](https://open.spotify.com/track/4oLho63TmMfjZk11mFbqti) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [How You Doing?](https://open.spotify.com/album/7g4ylmDts9NpanpxpeiJgX) | 2:16 |

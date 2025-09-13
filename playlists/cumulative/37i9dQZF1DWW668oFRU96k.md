@@ -2,7 +2,7 @@
 
 ### [Electro Mix](https://open.spotify.com/playlist/37i9dQZF1DWW668oFRU96k)
 
-> A selection of new, quality electro sounds from your favorite EDM acts! Cover: David Guetta x Kiko Olivier x Giacomotto x FAANGS
+> A selection of new, quality electro sounds from your favorite EDM acts! Cover: David Guetta x FAANGS
 
 2,006 songs - 4 day 6 hr 18 min
 

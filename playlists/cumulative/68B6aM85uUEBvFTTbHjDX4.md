@@ -4,7 +4,7 @@
 
 > 
 
-161 songs - 13 hr 14 min
+162 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Dancin \- Krono Remix](https://open.spotify.com/track/4IlqQhaxrGPxmg35YcXXuS) | [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN), [Luvli](https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr), [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB) | [Ibiza 2019](https://open.spotify.com/album/1EFQdXVbYzfSP1KQQoIOzj) | 4:16 | 2023-08-18 |  |
 | [Dark of the Night](https://open.spotify.com/track/5KvHinVk9Mz4zlGjFUCgiA) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Dark of the Night](https://open.spotify.com/album/5maXd17AVV4IaFH8UTDUY6) | 4:11 | 2024-06-17 |  |
 | [Deliverance](https://open.spotify.com/track/14F0P1p8fnJhlIgMdg6NyK) | [K90](https://open.spotify.com/artist/18YUfYOHNEVvQitsvzoUrm) | [Deliverance](https://open.spotify.com/album/1mjxue8XsTKW1JffR8PLfJ) | 3:38 | 2025-09-08 |  |
+| [Demons And The Ghost \- Radio Edit](https://open.spotify.com/track/2fznqQyX4hKIcXlk4YOzNH) | [Blame The Mono](https://open.spotify.com/artist/22HdnwskoQ7Htj3pEMP5W7), [DLV](https://open.spotify.com/artist/7AkaRihy2hr1tjUXsjYK9x) | [Demons And The Ghost \(Radio Edit\)](https://open.spotify.com/album/55VnN6m1ub5FRVyLkS3u0d) | 3:01 | 2025-09-12 |  |
 | [Desert Queen](https://open.spotify.com/track/3XEGdwonYRQM5sX0I0CsoR) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Desert Queen](https://open.spotify.com/album/0yG7rxCosQLHe9LH6fgxoH) | 3:56 | 2024-05-04 |  |
 | [Deutschland](https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Deutschland](https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1) | 5:22 | 2019-03-28 |  |
 | [Devotion \(ft\. Cameron Hayes\)](https://open.spotify.com/track/5TGdeBW6v7BuGYjtiFKwyC) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [Devotion \(ft\. Cameron Hayes\)](https://open.spotify.com/album/1GUMG0SjpoP5ulPmB0WJbP) | 3:10 | 2019-10-05 |  |

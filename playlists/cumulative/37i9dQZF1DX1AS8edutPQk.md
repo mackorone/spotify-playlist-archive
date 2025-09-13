@@ -4,7 +4,7 @@
 
 > Sit back and relax by listening to piano renditions of your favorite Disney songs.
 
-156 songs - 8 hr 43 min
+157 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [The Tiki, Tiki, Tiki Room](https://open.spotify.com/track/58cGVTWIpbFOdoB2IWTyHm) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Joy](https://open.spotify.com/album/2zMoXnyQRqwvMRdIyNmTSb) | 2:25 | 2022-10-20 |  |
 | [There's a Great Big Beautiful Tomorrow](https://open.spotify.com/track/0zBUg8I173W3PZEkkyskAr) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Calm](https://open.spotify.com/album/6NrUAostaKMBvKjI9Oc7jj) | 3:04 | 2022-10-20 |  |
 | [This Is Halloween](https://open.spotify.com/track/3ZwLB2bhvpVp42V9NHJQoM) | [Chantry Johnson](https://open.spotify.com/artist/7DYNIsWygVsxut6h6pmyeW) | [Little Nightmares](https://open.spotify.com/album/2KwS2u87aRiv7y4AKsToqG) | 4:35 | 2022-10-20 |  |
+| [This Is Halloween](https://open.spotify.com/track/1U3mKWuUVPuXL6A3LDOkdU) | [Peter Bence](https://open.spotify.com/artist/4fdxbJLSNRIMkMGbLs5QPF) | [Disney Halloween: Thrilling Piano with Peter Bence](https://open.spotify.com/album/1ELcOf2K8Doo5azoWnYQVM) | 3:06 | 2025-09-12 |  |
 | [This Is Me](https://open.spotify.com/track/7F22J5u8Qcud2sZWSpGwNv) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Joy](https://open.spotify.com/album/2zMoXnyQRqwvMRdIyNmTSb) | 3:46 | 2022-10-20 |  |
 | [True Love's Kiss](https://open.spotify.com/track/27FoQgtlApWh7oD1vVaiPx) | [Bill Cantos](https://open.spotify.com/artist/6WjNgC678BdeXKqJ1TrS9D) | [The Circle Sessions \(Piano Performances from Carthay Circle\)](https://open.spotify.com/album/5HTjemIOHxbtKCyxFNaJ55) | 2:49 | 2023-09-25 |  |
 | [True Love's Kiss](https://open.spotify.com/track/1gQDe3rSARbQT2dzGeCDfa) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Balance](https://open.spotify.com/album/4CuPnITlVU9RjgLNchKEEW) | 2:47 | 2022-10-20 |  |

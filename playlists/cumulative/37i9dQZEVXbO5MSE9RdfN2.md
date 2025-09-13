@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-2,013 songs - 4 day 11 hr 19 min
+2,014 songs - 4 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -936,6 +936,7 @@
 | [Just Like Johnny](https://open.spotify.com/track/3Sg0jiuv2ckmxTBX4tLJQq) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Old No\. 7](https://open.spotify.com/album/6xbAU0Dd22IURpRcpHy0lj) | 3:19 | 2024-05-07 | 2024-06-13 |
 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 | 2024-08-17 | 2024-08-24 |
 | [just stand there](https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 4:20 | 2024-09-24 | 2024-09-26 |
+| [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 | 2025-09-12 |  |
 | [Just What I Said \(Everything In Its Right Place\)](https://open.spotify.com/track/1ImBKMKY6kr26rNTZ7dEKx) | [High Beam](https://open.spotify.com/artist/6JlpA7oDmgLFpyEuwpX9Sr) | [Just What I Said \(Everything In Its Right Place\)](https://open.spotify.com/album/74oGQ6WbH59pCuxcN6om5m) | 3:16 | 2025-07-05 | 2025-07-09 |
 | [Just What I Said \(Everything In Its Right Place\)](https://open.spotify.com/track/2wGRIasMJFkp2NLAISSZov) | [High Beam](https://open.spotify.com/artist/6JlpA7oDmgLFpyEuwpX9Sr) | [Just What I Said \(Everything In Its Right Place\)](https://open.spotify.com/album/1qa7N3wXybS8WpM4Dr6O9y) | 3:16 | 2025-06-05 | 2025-07-06 |
 | [K On My D + C](https://open.spotify.com/track/3r4S22VWkg8wTpLSicsQnQ) | [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL), [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Mutual Pleasure 002](https://open.spotify.com/album/4vhEZGwPicD4gD8WCaNnkP) | 4:20 | 2025-01-05 | 2025-01-22 |
@@ -1404,7 +1405,7 @@
 | [Provider](https://open.spotify.com/track/7JVAVLkkhpKOp8g4jX5Z12) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 6:05 | 2025-05-27 | 2025-06-01 |
 | [PTSD](https://open.spotify.com/track/35w8NIN7LeM4TrF4ml6uL8) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [DO NOT DISTURB](https://open.spotify.com/album/45wG3jFqzHeQIX8QsXJO5e) | 2:09 | 2024-03-25 | 2024-03-27 |
 | [Pumpin Jumpin](https://open.spotify.com/track/1VhNZmtGQPnJlzZStAYn5j) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Pumpin Jumpin](https://open.spotify.com/album/0WyIwrLoLBoS30ES2bgnXF) | 3:41 | 2025-09-04 | 2025-09-11 |
-| [Pumpin Jumpin](https://open.spotify.com/track/6sI8mbD8BhqBb5grAxiVUB) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Pumpin Jumpin](https://open.spotify.com/album/2BA5oz0kTaNGNh6Ohry9bY) | 3:41 | 2025-09-10 |  |
+| [Pumpin Jumpin](https://open.spotify.com/track/6sI8mbD8BhqBb5grAxiVUB) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Pumpin Jumpin](https://open.spotify.com/album/2BA5oz0kTaNGNh6Ohry9bY) | 3:41 | 2025-09-10 | 2025-09-13 |
 | [Punish](https://open.spotify.com/track/6JnZ9hXxtXTtjwB3aAptTf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 6:40 | 2025-01-10 | 2025-01-17 |
 | [Punkrocker \(feat\. Iggy Pop\)](https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Soft Machine \(U.S\. Version\)](https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx) | 4:06 | 2025-07-17 | 2025-08-19 |
 | [Punkrocker \(feat\. Iggy Pop\) \- As featured in Superman](https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Soft Machine](https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0) | 4:06 | 2025-07-16 | 2025-08-27 |

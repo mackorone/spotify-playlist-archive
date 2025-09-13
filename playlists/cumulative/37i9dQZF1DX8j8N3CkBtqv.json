@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Zaeden, Twin Strings other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring NAALAYAK, Taba Chake and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -4491,6 +4491,32 @@
     },
     {
       "album": {
+        "name": "Dard Dil Ke",
+        "url": "https://open.spotify.com/album/6lZGJ90RYvRi17wrY39xz4"
+      },
+      "artists": [
+        {
+          "name": "Muheet Bharti",
+          "url": "https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ"
+        },
+        {
+          "name": "Sanah Moidutty",
+          "url": "https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295625,
+      "name": "Dard Dil Ke",
+      "url": "https://open.spotify.com/track/0qz9oYAWgOZ2FByzrpdmH4"
+    },
+    {
+      "album": {
         "name": "CIRCLES",
         "url": "https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t"
       },
@@ -6074,7 +6100,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 179257,
       "name": "ESWY",
       "url": "https://open.spotify.com/track/1yazBO7fdWNDUcr3uuRbTr"
@@ -6338,7 +6364,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 182771,
       "name": "Faza",
       "url": "https://open.spotify.com/track/7bNIiEn2iHswdljQHcQY5Q"
@@ -7122,6 +7148,24 @@
       "duration_ms": 189714,
       "name": "Gulchharre",
       "url": "https://open.spotify.com/track/2ZdX0egfPXSxm7Ccv23UOB"
+    },
+    {
+      "album": {
+        "name": "Gulfam",
+        "url": "https://open.spotify.com/album/6sAAUAH0jGj035rmZc99Kt"
+      },
+      "artists": [
+        {
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153567,
+      "name": "Gulfam",
+      "url": "https://open.spotify.com/track/0mBZE8eWukMO81EZZCIQZB"
     },
     {
       "album": {
@@ -9385,6 +9429,24 @@
     },
     {
       "album": {
+        "name": "Khud Ko Miloon",
+        "url": "https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213724,
+      "name": "Jee Le",
+      "url": "https://open.spotify.com/track/1lnqjp37JJOHsrjCCJ3UJy"
+    },
+    {
+      "album": {
         "name": "Jee Lunga",
         "url": "https://open.spotify.com/album/2WlLGC3mfJxVmnaSCHA0SS"
       },
@@ -11615,6 +11677,24 @@
     },
     {
       "album": {
+        "name": "Khwaab",
+        "url": "https://open.spotify.com/album/1Q2W0Wh1meiaFywydsLZEJ"
+      },
+      "artists": [
+        {
+          "name": "Arijit Anand",
+          "url": "https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "Khwaab",
+      "url": "https://open.spotify.com/track/6QOda6PR8znCRv89uSyOr1"
+    },
+    {
+      "album": {
         "name": "Khwaabre",
         "url": "https://open.spotify.com/album/32anWLyKsIDiTjMFp4dV7a"
       },
@@ -13212,6 +13292,28 @@
       "duration_ms": 270886,
       "name": "Long To Be",
       "url": "https://open.spotify.com/track/3PHGkNX8caEkn31C63u3Bl"
+    },
+    {
+      "album": {
+        "name": "Love & Limerence",
+        "url": "https://open.spotify.com/album/13PKuzINirCBhssbAslKp9"
+      },
+      "artists": [
+        {
+          "name": "Rudy",
+          "url": "https://open.spotify.com/artist/5u5YWSbUXrkan2dIMVPyV5"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Love & Limerence",
+      "url": "https://open.spotify.com/track/2d83P9vmxC8Mc39vv7RtWY"
     },
     {
       "album": {
@@ -15874,7 +15976,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 141600,
       "name": "Nit Khair Manga",
       "url": "https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe"
@@ -16526,7 +16628,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 212500,
       "name": "Peeche Mudke",
       "url": "https://open.spotify.com/track/1H35qSJKvmYlVDycuvBWVq"
@@ -16814,7 +16916,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 168421,
       "name": "Piya Ji",
       "url": "https://open.spotify.com/track/020y6Y5I0VaZUqUIYcm8oF"
@@ -19116,6 +19218,28 @@
     {
       "album": {
         "name": "Sawaal",
+        "url": "https://open.spotify.com/album/0OR7vWEzcUAhoyO6HBrSXY"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Siddhant Bhosle",
+          "url": "https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211455,
+      "name": "Sawaal",
+      "url": "https://open.spotify.com/track/7FfCxoiaShMahjnHEGLGNu"
+    },
+    {
+      "album": {
+        "name": "Sawaal",
         "url": "https://open.spotify.com/album/3qxQCckVXydZtEWzkamf8M"
       },
       "artists": [
@@ -19676,6 +19800,24 @@
       "duration_ms": 177016,
       "name": "Sidra",
       "url": "https://open.spotify.com/track/5fUqfhpLXTgop4RItQTJBI"
+    },
+    {
+      "album": {
+        "name": "Sikkon Ka Nagar",
+        "url": "https://open.spotify.com/album/1HmhDhCpAOuobtyDha5uEZ"
+      },
+      "artists": [
+        {
+          "name": "Tang Mizaaji",
+          "url": "https://open.spotify.com/artist/3el3X0f5FDNfJuVJ1abqnz"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226909,
+      "name": "Sikkon Ka Nagar",
+      "url": "https://open.spotify.com/track/69AbYiI0rhlTq4mQ0KPylQ"
     },
     {
       "album": {
@@ -21374,7 +21516,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 210581,
       "name": "Thokro Ke Dhabe",
       "url": "https://open.spotify.com/track/5NDD08apREZEiLlT3xKQEa"
@@ -21436,7 +21578,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 182449,
       "name": "Titli",
       "url": "https://open.spotify.com/track/7hIo0oSJq396AsNH0r1zCv"
@@ -21842,6 +21984,24 @@
       "duration_ms": 163024,
       "name": "Tu Hai",
       "url": "https://open.spotify.com/track/3l66ys6wEI5DPmvwgl0ak1"
+    },
+    {
+      "album": {
+        "name": "Khud Ko Miloon",
+        "url": "https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242714,
+      "name": "Tu Hai Kahan",
+      "url": "https://open.spotify.com/track/2sF7bZubVf0kbuhIaHPojW"
     },
     {
       "album": {
@@ -22319,6 +22479,32 @@
     },
     {
       "album": {
+        "name": "Tu Sapna Mera",
+        "url": "https://open.spotify.com/album/5EvR7NmNqtkhsVx8tT5nzX"
+      },
+      "artists": [
+        {
+          "name": "Shubham Kumar",
+          "url": "https://open.spotify.com/artist/0FLVn1USi3HZMZoxCbF42x"
+        },
+        {
+          "name": "Subhashree Jena",
+          "url": "https://open.spotify.com/artist/0h5s3MoFw4Rko5XMKTgXE5"
+        },
+        {
+          "name": "Satyajeet Jena",
+          "url": "https://open.spotify.com/artist/35DaFPNjk0o133rxjRJ0W7"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168049,
+      "name": "Tu Sapna Mera",
+      "url": "https://open.spotify.com/track/0gWy0hFiWM99jhMBLSCa6x"
+    },
+    {
+      "album": {
         "name": "NidhSan - EP (15.09)",
         "url": "https://open.spotify.com/album/7sNbRk8YwnpIo0NXdqKQLg"
       },
@@ -22420,7 +22606,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 175500,
       "name": "Tujhsa Na Koi",
       "url": "https://open.spotify.com/track/5vt6phoMEMvVREJcjvcnM0"
@@ -23638,7 +23824,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 218000,
       "name": "Yeh Duniya Jala Do (Glittery Cut)",
       "url": "https://open.spotify.com/track/4mOlo4BjwvHXae8ZoVQamA"

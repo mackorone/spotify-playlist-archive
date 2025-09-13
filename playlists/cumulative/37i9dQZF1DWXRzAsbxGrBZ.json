@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Get revived with some of the best Deep House South Africa has to offer. Cover: <a href=\"https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD?si=2BamayqtRn2v0ThhAsIjSQ\">LaTique</a>",
+  "description": "Get revived with some of the best Deep House South Africa has to offer. Cover: beatsbyhand, Sio",
   "name": "Deep House Session",
   "tracks": [
     {
@@ -380,6 +380,24 @@
       "duration_ms": 468979,
       "name": "Amplified Zone",
       "url": "https://open.spotify.com/track/5B9oWE2Yp4jigMRPqg6IYs"
+    },
+    {
+      "album": {
+        "name": "Stay True Sounds Vol.7 Compiled By Kid Fonque",
+        "url": "https://open.spotify.com/album/01sfxL3RAdUxmk3ulRnH4x"
+      },
+      "artists": [
+        {
+          "name": "Pando G",
+          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414492,
+      "name": "Analog Machines",
+      "url": "https://open.spotify.com/track/1z1nEV8ojMyGwbJ6T54uvI"
     },
     {
       "album": {
@@ -3730,7 +3748,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 300000,
       "name": "Luv Wit U",
       "url": "https://open.spotify.com/track/2r3XVKpAH3CoIhPgf5dJ87"
@@ -7000,6 +7018,28 @@
       "duration_ms": 442124,
       "name": "Trend Setter",
       "url": "https://open.spotify.com/track/2ydLak6j30HnQZcHXVTKa2"
+    },
+    {
+      "album": {
+        "name": "Trick Me",
+        "url": "https://open.spotify.com/album/4wBN9DMEXCGbfrS0cou5yl"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396456,
+      "name": "Trick Me - Extended",
+      "url": "https://open.spotify.com/track/09oEsJQraqsAIPM1VsmPNH"
     },
     {
       "album": {

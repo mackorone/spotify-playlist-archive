@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met EDEN, Jo Black, Bernice West, Renier West en meer!
 
-2,005 songs - 4 day 15 hr 34 min
+2,006 songs - 4 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,6 +488,7 @@
 | [Dream Masjien](https://open.spotify.com/track/532HpXPup6e6sgp0aJpWl3) | [Pretorius](https://open.spotify.com/artist/6OlAKyXaSPw7M5ivaVpC5G) | [Dream Masjien](https://open.spotify.com/album/58RG8asgRkHxT0peotsXeW) | 2:43 | 2024-05-09 | 2024-08-23 |
 | [DRIEANKERBAAI](https://open.spotify.com/track/6xd01WV2ZZpQ8I2ZY0QYfi) | [Anja Steyn](https://open.spotify.com/artist/4ci9GCoVcKH2oexmlsX2Ng) | [DRIEANKERBAAI](https://open.spotify.com/album/3kPgpL30uPS6liJxvnFsAY) | 4:21 | 2025-04-17 | 2025-04-25 |
 | [Drink](https://open.spotify.com/track/0ES7dRb7iXkQ2GB3FfBfPa) | [Frikkie Braaibroodjie](https://open.spotify.com/artist/2AbLDwbYJ3Fq0dk8Wr0PTL) | [Drink](https://open.spotify.com/album/1TAfabaZ5Y59atQoCqi4jx) | 3:18 | 2022-11-17 | 2023-03-10 |
+| [DRINK\-DRINKFIKS](https://open.spotify.com/track/243hRgkujG43ylBMQ4dyEb) | [KrisJan](https://open.spotify.com/artist/1w2S4eToz18BlT0Cei19S0) | [DRINK\-DRINKFIKS](https://open.spotify.com/album/4FcWBkUqC8BVyEyW7V9Vyi) | 3:33 | 2025-09-12 |  |
 | [Drome](https://open.spotify.com/track/0yhRqYJCzeFe7wp1pVfaE9) | [Tiaan Grundling](https://open.spotify.com/artist/0r8SdEjJLoSFVC82V5gYhH) | [Drome](https://open.spotify.com/album/0n7Vc4tjOpbbzoqLAH3VbD) | 3:06 | 2025-04-24 | 2025-05-09 |
 | [Drome \(Amper Daar\)](https://open.spotify.com/track/54sc9Vfr6aWZCv58i46KSa) | [Jammer](https://open.spotify.com/artist/4fFAhBaPkNqlELaWEY9jHf) | [Drome \(Amper Daar\)](https://open.spotify.com/album/4QuqGyLHVdFK2OZBAwvHau) | 2:38 | 2024-11-28 | 2024-12-06 |
 | [Drome \(Amper Daar\) \- Afrikaans Wil Dans Remix](https://open.spotify.com/track/5JUSSYANvsPUWmZ9kiyPJd) | [Jammer](https://open.spotify.com/artist/4fFAhBaPkNqlELaWEY9jHf), [Afrikaans Wil Dans](https://open.spotify.com/artist/0izyicZrCh95ouk1VWn59M) | [Drome Afrikaans Wil Dans Remix](https://open.spotify.com/album/0HJdSMKgI9qMQQkhRnWxu0) | 3:00 | 2025-04-03 | 2025-04-25 |
@@ -589,7 +590,7 @@
 | [Fakebook Funk \(Waar Is Die Liefde\)](https://open.spotify.com/track/2IJz0XfuqaVa4gN6W9FfPn) | [Luzelle](https://open.spotify.com/artist/4uPi9ThPDv6AMst7MJmPmN) | [Fakebook Funk \(Waar Is Die Liefde\)](https://open.spotify.com/album/6awY4KjPdcV9pSuhXITXDw) | 3:12 | 2023-08-31 | 2023-09-15 |
 | [Flamingopan](https://open.spotify.com/track/2yg3wIKyWHf4ldrUOSaZA6) | [JohnJ](https://open.spotify.com/artist/5TzLGHF0k3Vev4SGCxq9jT) | [Flamingopan](https://open.spotify.com/album/4vmK38ryFVXqdiY0Um8nKg) | 3:57 | 2024-04-18 | 2024-04-26 |
 | [Flippen Nice](https://open.spotify.com/track/531VPEKC0P7nMGylnAmRb3) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Flippen Nice](https://open.spotify.com/album/3tkqXs6ODmuGr8EIWM5ZnU) | 3:27 | 2025-06-12 | 2025-09-12 |
-| [Flippentjop](https://open.spotify.com/track/7gwPHDihtywaO2MdQTHhzB) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Flippentjop](https://open.spotify.com/album/6p68yOlPMmVanerB1QOHUn) | 3:13 | 2025-07-17 |  |
+| [Flippentjop](https://open.spotify.com/track/7gwPHDihtywaO2MdQTHhzB) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Flippentjop](https://open.spotify.com/album/6p68yOlPMmVanerB1QOHUn) | 3:13 | 2025-07-17 | 2025-09-13 |
 | [Fluit Fluit](https://open.spotify.com/track/1XKSzBpnwfvZ0cPwICYXdR) | [Jan\-Mattys](https://open.spotify.com/artist/5Kd1RDCB4eWgLd9t8EGDv8) | [Fluit Fluit](https://open.spotify.com/album/58UjZ2vSoLn70HdR9oTQWc) | 2:46 | 2024-07-18 | 2024-11-08 |
 | [Fok Jou](https://open.spotify.com/track/3gjE2fU1aAjumf4SKEZTTN) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Fok Jou](https://open.spotify.com/album/6TlCuwtOBbYPRjktVIKscV) | 3:30 | 2024-11-21 | 2025-01-10 |
 | [Ford Fairlane](https://open.spotify.com/track/2FNZbWmwMZ8NsSowjmif6H) | [Shaun Wulf](https://open.spotify.com/artist/7DYJAQlpFEmHZU02hLjUsS) | [Ford Fairlane](https://open.spotify.com/album/3M2xjEIuVhM75J1TkFWh1P) | 2:53 | 2024-10-31 | 2024-11-15 |

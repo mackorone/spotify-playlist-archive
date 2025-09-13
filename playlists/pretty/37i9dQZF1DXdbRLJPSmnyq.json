@@ -1,63 +1,15 @@
 {
-  "description": "All the J-Pop tunes you love in one playlist. Cover: Fujii Kaze",
-  "num_followers": 417460,
+  "description": "All the J-Pop tunes you love in one playlist. Cover: HANA",
+  "num_followers": 417485,
   "original_name": "J-Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJtqIBRIvGWy9eYJsnZoTVPTyKzc",
+  "snapshot_id": "AAAAAMFOT9AeHusE6pQs0qeXnh74T8cT",
   "tracks": [
     {
-      "added_at": "2025-09-05 04:00:02",
-      "album": {
-        "name": "Prema",
-        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Prema",
-      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
-    },
-    {
-      "added_at": "2025-09-05 04:00:02",
-      "album": {
-        "name": "doku",
-        "url": "https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 176833,
-      "name": "doku",
-      "url": "https://open.spotify.com/track/7r5gbT0sRLKfyTqD0VomNS"
-    },
-    {
-      "added_at": "2025-09-05 04:00:02",
-      "album": {
-        "name": "SO BAD",
-        "url": "https://open.spotify.com/album/4Qln8io3Qbczk1OSHVTTtG"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 239520,
-      "name": "SO BAD",
-      "url": "https://open.spotify.com/track/3Qa1rG4kSuGnmVHChIJUtU"
-    },
-    {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
         "url": "https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq"
@@ -73,7 +25,103 @@
       "url": "https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
+      "album": {
+        "name": "doku",
+        "url": "https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 176833,
+      "name": "doku",
+      "url": "https://open.spotify.com/track/7r5gbT0sRLKfyTqD0VomNS"
+    },
+    {
+      "added_at": "2025-09-12 08:31:22",
+      "album": {
+        "name": "BAD LOVE",
+        "url": "https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "duration_ms": 185437,
+      "name": "BAD LOVE",
+      "url": "https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN"
+    },
+    {
+      "added_at": "2025-09-12 08:31:22",
+      "album": {
+        "name": "SO BAD",
+        "url": "https://open.spotify.com/album/4Qln8io3Qbczk1OSHVTTtG"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 239520,
+      "name": "SO BAD",
+      "url": "https://open.spotify.com/track/3Qa1rG4kSuGnmVHChIJUtU"
+    },
+    {
+      "added_at": "2025-09-12 08:31:22",
+      "album": {
+        "name": "TOGE",
+        "url": "https://open.spotify.com/album/7lFfHjC3q539cmhX71Dlhz"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "duration_ms": 252352,
+      "name": "TOGE",
+      "url": "https://open.spotify.com/track/11V0ZqAECzIKV2f1RHbFKN"
+    },
+    {
+      "added_at": "2025-09-12 08:31:22",
+      "album": {
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Prema",
+      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+    },
+    {
+      "added_at": "2025-09-12 08:31:22",
+      "album": {
+        "name": "CAT'S EYE",
+        "url": "https://open.spotify.com/album/3SEAcawf6EhTRl42ulumyd"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 180631,
+      "name": "CAT'S EYE",
+      "url": "https://open.spotify.com/track/5lzjvTvybxPQLlGO3SVm5l"
+    },
+    {
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "Toki Yo Tomare",
         "url": "https://open.spotify.com/album/34XoGWHnpRwZZieuoUN6sP"
@@ -89,7 +137,27 @@
       "url": "https://open.spotify.com/track/6VedlO2MtaEjAITax6vQyg"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
+      "album": {
+        "name": "\u771f\u590f\u306e\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/2I35grEfCPhILtpBhZAHfn"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        },
+        {
+          "name": "Polycat",
+          "url": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
+        }
+      ],
+      "duration_ms": 278550,
+      "name": "\u771f\u590f\u306e\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6Y5hTkQSznh1wFDw2p3SDW"
+    },
+    {
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u65e5\u9670",
         "url": "https://open.spotify.com/album/4dNOcPtSueHQCjKx8FeOjK"
@@ -105,7 +173,23 @@
       "url": "https://open.spotify.com/track/0S4vsLoQPVC46Ctnee2FxG"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
+      "album": {
+        "name": "Hold Me Tight",
+        "url": "https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 190463,
+      "name": "Hold Me Tight",
+      "url": "https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t"
+    },
+    {
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "OWARI DIARY",
         "url": "https://open.spotify.com/album/0MLxNB6bjESj8Ag3v24Rfm"
@@ -125,39 +209,23 @@
       "url": "https://open.spotify.com/track/12Br6Xz71WNxT8CRu28n0X"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
-        "name": "\u3055\u3088\u30fc\u306a\u3089\u307e\u305f\u3044\u3064\u304b\uff01- Sayonara",
-        "url": "https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG"
+        "name": "SILVER",
+        "url": "https://open.spotify.com/album/2lsPukvTQoecJl3WKcS0kY"
       },
       "artists": [
         {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+          "name": "Cody\u30fbLee(\u674e)",
+          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
         }
       ],
-      "duration_ms": 201251,
-      "name": "\u3055\u3088\u30fc\u306a\u3089\u307e\u305f\u3044\u3064\u304b\uff01- Sayonara",
-      "url": "https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV"
+      "duration_ms": 241426,
+      "name": "\u672a\u77e5",
+      "url": "https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
-      "album": {
-        "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/3ruOCYjSB0nWFcFRvYScyS"
-      },
-      "artists": [
-        {
-          "name": "MONO NO AWARE",
-          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
-        }
-      ],
-      "duration_ms": 327179,
-      "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
-      "url": "https://open.spotify.com/track/0FYYRa6Ib0tVxw04S07dHo"
-    },
-    {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o"
@@ -173,39 +241,23 @@
       "url": "https://open.spotify.com/track/21VsLvoE7elUmJZLSawaMh"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/6tNWDnOy3WwR5KjAxnRSmi"
+        "name": "\u3055\u3088\u30fc\u306a\u3089\u307e\u305f\u3044\u3064\u304b\uff01- Sayonara",
+        "url": "https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG"
       },
       "artists": [
         {
-          "name": "NIKO NIKO TAN TAN",
-          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
         }
       ],
-      "duration_ms": 208333,
-      "name": "FLY OUT",
-      "url": "https://open.spotify.com/track/2D2jnsZ7v6c3BQ330jwJdF"
+      "duration_ms": 201251,
+      "name": "\u3055\u3088\u30fc\u306a\u3089\u307e\u305f\u3044\u3064\u304b\uff01- Sayonara",
+      "url": "https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
-      "album": {
-        "name": "us",
-        "url": "https://open.spotify.com/album/2K4hFMFLmMUeLujQAZnNPx"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "us",
-      "url": "https://open.spotify.com/track/3dOIgsfzZWsLcCTON0ebLt"
-    },
-    {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u5f98\u5f8a",
         "url": "https://open.spotify.com/album/14i344lLBeDbxteHg1k1eH"
@@ -221,7 +273,39 @@
       "url": "https://open.spotify.com/track/3LgnpvnJw75GuuzUW2eDJb"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
+      "album": {
+        "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/3ruOCYjSB0nWFcFRvYScyS"
+      },
+      "artists": [
+        {
+          "name": "MONO NO AWARE",
+          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
+        }
+      ],
+      "duration_ms": 327179,
+      "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/0FYYRa6Ib0tVxw04S07dHo"
+    },
+    {
+      "added_at": "2025-09-12 08:31:22",
+      "album": {
+        "name": "us",
+        "url": "https://open.spotify.com/album/2K4hFMFLmMUeLujQAZnNPx"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "us",
+      "url": "https://open.spotify.com/track/3dOIgsfzZWsLcCTON0ebLt"
+    },
+    {
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u4fee\u7f85",
         "url": "https://open.spotify.com/album/19ZpB6am7neMPrehzujnrU"
@@ -237,7 +321,7 @@
       "url": "https://open.spotify.com/track/3ZDeWNiSmXUFr98iTQKf0p"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u604b\u98a8",
         "url": "https://open.spotify.com/album/2YnF0m9IK3ZEApvRVb7tqo"
@@ -253,7 +337,7 @@
       "url": "https://open.spotify.com/track/6QGuDk8tY8Lan39gTWtXWK"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "Bunny Girl",
         "url": "https://open.spotify.com/album/1mxib3LFgnhuMciehemliH"
@@ -269,7 +353,7 @@
       "url": "https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "Watch me!",
         "url": "https://open.spotify.com/album/1M2XEzXjHUbVfMVfwMTPYc"
@@ -285,7 +369,7 @@
       "url": "https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u9769\u547d\u9053\u4e2d - On The Way",
         "url": "https://open.spotify.com/album/6uBwz7fKYpTHQqEvbpRMQu"
@@ -301,7 +385,7 @@
       "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u5730\u7344\u604b\u6587 - Inferno Love Letter",
         "url": "https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs"
@@ -317,7 +401,7 @@
       "url": "https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u767e\u82b1\u7e5a\u4e71",
         "url": "https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb"
@@ -333,7 +417,7 @@
       "url": "https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u5fd8\u308c\u3066\u304f\u3060\u3055\u3044",
         "url": "https://open.spotify.com/album/4XrhbakQbPTttIIBdAKBIb"
@@ -349,7 +433,7 @@
       "url": "https://open.spotify.com/track/7raKnLKyQSatDiVVpiZDds"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u3064\u3065\u304f",
         "url": "https://open.spotify.com/album/7va0bdMQ39GEglWhgMF2XE"
@@ -365,23 +449,7 @@
       "url": "https://open.spotify.com/track/70ERCHbKifPcFyUhLJPpM2"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
-      "album": {
-        "name": "Blue Jeans",
-        "url": "https://open.spotify.com/album/0VAZse9RXTDM3rOavD1tw6"
-      },
-      "artists": [
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "Blue Jeans",
-      "url": "https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL"
-    },
-    {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "masshiro (pure white)",
         "url": "https://open.spotify.com/album/6YChKs8gVLOWqQhmUyybOg"
@@ -397,7 +465,7 @@
       "url": "https://open.spotify.com/track/00WTRpkXPTms4ah74VurQi"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "Rashisa",
         "url": "https://open.spotify.com/album/4XOkiHZhn0dnTGgFgAnNzV"
@@ -413,7 +481,7 @@
       "url": "https://open.spotify.com/track/69A1xOqqOvm387J32Ps32R"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u3086\u3046\u308c\u3044\u306b\u306a\u308a\u305f\u3044",
         "url": "https://open.spotify.com/album/3i96Y2T24u6UxrX7uFps7T"
@@ -429,7 +497,7 @@
       "url": "https://open.spotify.com/track/6FqSRGfhCdkLy0pP9NVeqz"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "I wonder",
         "url": "https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je"
@@ -445,7 +513,7 @@
       "url": "https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
         "url": "https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs"
@@ -461,23 +529,7 @@
       "url": "https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
-      "album": {
-        "name": "Same Blue",
-        "url": "https://open.spotify.com/album/36xdrf8iLOjM0LFvG9auGT"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 237836,
-      "name": "Same Blue",
-      "url": "https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j"
-    },
-    {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "Glass Heart",
         "url": "https://open.spotify.com/album/6L1YyT69ix0i35s0056fbz"
@@ -493,7 +545,23 @@
       "url": "https://open.spotify.com/track/6NfbsJouzE4184pvhjYVFR"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
+      "album": {
+        "name": "Same Blue",
+        "url": "https://open.spotify.com/album/36xdrf8iLOjM0LFvG9auGT"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 237836,
+      "name": "Same Blue",
+      "url": "https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j"
+    },
+    {
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u6700&\u5f37",
         "url": "https://open.spotify.com/album/77f7VBVt5VRwWyP4nUdswe"
@@ -509,7 +577,7 @@
       "url": "https://open.spotify.com/track/6vblHjZAX1mKmCCSbZfAET"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "Love Like This",
         "url": "https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw"
@@ -525,7 +593,7 @@
       "url": "https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u3042\u308b\u672a\u6765\u3088\u308a\u611b\u3092\u8fbc\u3081\u3066",
         "url": "https://open.spotify.com/album/0ajg9ECSPaFAULF5VWiu8A"
@@ -541,7 +609,7 @@
       "url": "https://open.spotify.com/track/60dKF6s6HZfSvFrEG3r3UG"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
         "url": "https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X"
@@ -557,7 +625,7 @@
       "url": "https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "BE CLASSIC (Special Edition)",
         "url": "https://open.spotify.com/album/6UclrVcaKUfojZfowJggOK"
@@ -573,7 +641,7 @@
       "url": "https://open.spotify.com/track/4ddBsPV13qO8SGaVf6ZQnl"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u590f\u306e\u5f71",
         "url": "https://open.spotify.com/album/3kvf1IGbcVYzN5nGnExNx9"
@@ -589,43 +657,7 @@
       "url": "https://open.spotify.com/track/3hp4ZggkNMsre9cutCSnLK"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
-      "album": {
-        "name": "Shinpai Muyou",
-        "url": "https://open.spotify.com/album/7rhrrRBda7xj3rLEZ9jzcJ"
-      },
-      "artists": [
-        {
-          "name": "\u5343\u8449\u96c4\u559c",
-          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
-        },
-        {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
-        }
-      ],
-      "duration_ms": 165009,
-      "name": "Shinpai Muyou",
-      "url": "https://open.spotify.com/track/1susvnKQ4rmj5AyAC1YuPR"
-    },
-    {
-      "added_at": "2025-09-05 04:00:02",
-      "album": {
-        "name": "\u98a8\u795e",
-        "url": "https://open.spotify.com/album/2dkncPeCSULjpH34voco0k"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 235543,
-      "name": "\u98a8\u795e",
-      "url": "https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC"
-    },
-    {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u30ab\u30fc\u30de\u30a4\u30f3",
         "url": "https://open.spotify.com/album/6ZeNJFTGFDNHUoqGyiTu7c"
@@ -641,23 +673,7 @@
       "url": "https://open.spotify.com/track/2JXkpytEoAymsaa7JtAPgd"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
-      "album": {
-        "name": "Kiss Kiss Kiss",
-        "url": "https://open.spotify.com/album/09kDSsRW2LELBw2Pjk8tWf"
-      },
-      "artists": [
-        {
-          "name": "AKASAKI",
-          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
-        }
-      ],
-      "duration_ms": 129349,
-      "name": "Kiss Kiss Kiss",
-      "url": "https://open.spotify.com/track/0t2jF8atu9yRgeO1IiHrBV"
-    },
-    {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u9a19\u30b7\u611b - Damashiai",
         "url": "https://open.spotify.com/album/470z0sAlM5eAVSyLNdUvPZ"
@@ -673,23 +689,7 @@
       "url": "https://open.spotify.com/track/48N9nuZilWYtqAKqxVPtAR"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
-      "album": {
-        "name": "\u30cd\u30d3\u30e5\u30e9\u30ed\u30de\u30f3\u30b9 \u5f8c\u7bc7",
-        "url": "https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz"
-      },
-      "artists": [
-        {
-          "name": "Perfume",
-          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
-        }
-      ],
-      "duration_ms": 255293,
-      "name": "\u30bd\u30fc\u30e9\u30fb\u30a6\u30a3\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o"
-    },
-    {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u6b8b\u9177\u306a\u591c\u306b\u8f1d\u3051 - Shine in the Cruel Night",
         "url": "https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "Hachik\u014d",
         "url": "https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "Summer Ride (feat. \u00a5ellow Bucks)",
         "url": "https://open.spotify.com/album/4Sm6CO2ZEQpTdALfsR1Sb4"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/71QDzMWQQz9ZzYauqza7N6"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "Mine or Yours",
         "url": "https://open.spotify.com/album/3qWvYtAQ2E46KGBAX82neO"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/71BFBz7Yc1Hq4MPXdn9ivo"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u6625\u306e\u5d50",
         "url": "https://open.spotify.com/album/56E3hBtUr13pElaE9XPDTO"
@@ -773,7 +773,7 @@
       "url": "https://open.spotify.com/track/5OZAEbUCMvJFdZiNM5RJwr"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "I hate this love song",
         "url": "https://open.spotify.com/album/0R8wB8JasgURZHtMHwRjm4"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/0HwDv2bXxdQnGUJhAuGAqG"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u30b9\u30b1\u30c3\u30c1",
         "url": "https://open.spotify.com/album/1Dbxuuvd9UGmd6JGZCq9Qb"
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/1qyMHya2R2k57MApk6kBzI"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u8d64\u3044\u30ef\u30a4\u30f3\u306b\u6d99\u304c\u30fb\u30fb\u30fb",
         "url": "https://open.spotify.com/album/3bsUrgtonRDuRrwKbdDBtx"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/48N4QmxXPEzt3J9nDMaGP0"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "I'll be with you",
         "url": "https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005",
         "url": "https://open.spotify.com/album/7hI2wmVbRhjWRRRGcjwyR1"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/78rUMtPs1p2zFebeMcmCZB"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u7d75\u753b / \u3053\u305f\u3048\u3042\u308f\u305b",
         "url": "https://open.spotify.com/album/2bvMqLZrtpJ3tLbOTLSzUJ"
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/5aOOHwpcSGL9gHc5dEv6wg"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u30ae\u30eb\u30c6\u30a3 - Guilty",
         "url": "https://open.spotify.com/album/5b2yWdyyfJhDIFuJjPlsxZ"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/6T39ocn30lHZqy9PCMGdSc"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "Grown Too Old",
         "url": "https://open.spotify.com/album/7KEgeAWjuoXPE1MI2UwJp8"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/5CnVGklaBKXORSogUbieCp"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "Feel / mild days",
         "url": "https://open.spotify.com/album/48KQ7NOwA31fMBBhtmrMrr"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/4NnOR8W05j63NwzVIhp6a8"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u518d\u4f1a",
         "url": "https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva"
@@ -937,23 +937,7 @@
       "url": "https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
-      "album": {
-        "name": "\u5065\u5fd8\u8005\u305f\u3061",
-        "url": "https://open.spotify.com/album/2vAlIqHLL3NnHay18v8zTP"
-      },
-      "artists": [
-        {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
-        }
-      ],
-      "duration_ms": 226177,
-      "name": "\u5065\u5fd8\u8005\u305f\u3061",
-      "url": "https://open.spotify.com/track/5pPvVb1woBjn86gnNsbBg2"
-    },
-    {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "Pain Give Form",
         "url": "https://open.spotify.com/album/60euHbS0x66nwArv5QGRdQ"
@@ -969,7 +953,7 @@
       "url": "https://open.spotify.com/track/5i8NWMVWvkYKjYPIeQv9ML"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o"
@@ -985,39 +969,7 @@
       "url": "https://open.spotify.com/track/1Xj5ZS6bpYPt87m09JbFPb"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
-      "album": {
-        "name": "Sunburst",
-        "url": "https://open.spotify.com/album/4t85TRaVgDyJJEtCZ1W8xj"
-      },
-      "artists": [
-        {
-          "name": "Suchmos",
-          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
-        }
-      ],
-      "duration_ms": 327546,
-      "name": "Eye to Eye",
-      "url": "https://open.spotify.com/track/0g1RQtrvfQI0zPsrHqVolq"
-    },
-    {
-      "added_at": "2025-09-05 04:00:02",
-      "album": {
-        "name": "zutto love song",
-        "url": "https://open.spotify.com/album/3emgAsjS97UgKw0MuxTO2W"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 212548,
-      "name": "zutto love song",
-      "url": "https://open.spotify.com/track/5sotruxtVBUsYrmnRvRhgW"
-    },
-    {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "\u7a7a",
         "url": "https://open.spotify.com/album/1ukg4OCTuWIJpBsbACk7Kp"
@@ -1033,7 +985,39 @@
       "url": "https://open.spotify.com/track/298ROhlpzNNOujR3q9XkP0"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
+      "album": {
+        "name": "\u5065\u5fd8\u8005\u305f\u3061",
+        "url": "https://open.spotify.com/album/2vAlIqHLL3NnHay18v8zTP"
+      },
+      "artists": [
+        {
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+        }
+      ],
+      "duration_ms": 226177,
+      "name": "\u5065\u5fd8\u8005\u305f\u3061",
+      "url": "https://open.spotify.com/track/5pPvVb1woBjn86gnNsbBg2"
+    },
+    {
+      "added_at": "2025-09-12 08:31:22",
+      "album": {
+        "name": "Sunburst",
+        "url": "https://open.spotify.com/album/4t85TRaVgDyJJEtCZ1W8xj"
+      },
+      "artists": [
+        {
+          "name": "Suchmos",
+          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
+        }
+      ],
+      "duration_ms": 327546,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/0g1RQtrvfQI0zPsrHqVolq"
+    },
+    {
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "PUNKS",
         "url": "https://open.spotify.com/album/2WdU0ESaT3y6lhdtW2KXrh"
@@ -1049,7 +1033,7 @@
       "url": "https://open.spotify.com/track/3KCvdwzkUI1iyLWfhWws0o"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "Carrying Happiness",
         "url": "https://open.spotify.com/album/3WQY51GZX8ppESRJzWZydP"
@@ -1065,7 +1049,7 @@
       "url": "https://open.spotify.com/track/6cSE6qGHagStJmrPa0jzu9"
     },
     {
-      "added_at": "2025-09-05 04:00:02",
+      "added_at": "2025-09-12 08:31:22",
       "album": {
         "name": "Secret Garden",
         "url": "https://open.spotify.com/album/6oTo8KY02bgxBoTRaoQ6Pd"

@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,149 songs - 5 day 13 hr 10 min
+2,151 songs - 5 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Car♡Wash♡Girl](https://open.spotify.com/track/6L4HbL7C0cCMHAdEKCHux2) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/7BV3D6bYqrgCq7S4WYDG3x) | 3:37 | 2022-10-25 | 2022-10-27 |
 | [CASANOVA POSSE](https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [CASANOVA POSSE](https://open.spotify.com/album/2xfq9tUp4QOlCGT6j4k0g9) | 4:00 | 2025-01-09 | 2025-04-11 |
 | [CAT CITY](https://open.spotify.com/track/00EZ1RQUV6awctENd1YN0S) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [CAT CITY](https://open.spotify.com/album/6dtHQyU6gMFHExelB1CF6S) | 3:50 | 2025-07-08 | 2025-07-16 |
+| [CAT'S EYE](https://open.spotify.com/track/5lzjvTvybxPQLlGO3SVm5l) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [CAT'S EYE](https://open.spotify.com/album/3SEAcawf6EhTRl42ulumyd) | 3:00 | 2025-09-11 |  |
 | [CAT'S EYE 2023](https://open.spotify.com/track/43yvgvumHPrqko99AlK1jX) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [LUPIN THE THIRD VS CAT'S EYE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/12eUMGk9JZKeSHZ2z6UcMa) | 2:49 | 2023-01-26 | 2023-02-17 |
 | [CATASTROPHE](https://open.spotify.com/track/5wgziZ1krirNMLNKMtMFZ2) | [NANO](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [CATASTROPHE](https://open.spotify.com/album/7GRXPolx9dmEZjEcqvfl1n) | 4:03 | 2022-10-04 | 2022-11-16 |
 | [Chain](https://open.spotify.com/track/0CwTBiqEhkwkBSW6lPOzij) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Chain](https://open.spotify.com/album/1JhsPt7D3qFum6vTWL5LWB) | 4:05 | 2024-01-16 | 2024-04-11 |
@@ -287,6 +288,7 @@
 | [Esquisse](https://open.spotify.com/track/2igZxJ4EC0jze98OazqKg3) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa) | 5:08 | 2022-10-13 | 2022-10-26 |
 | [ETERNAL BLAZE \- from CrosSing](https://open.spotify.com/track/1wJYrylbH1smwrpVlV90BS) | [佐伯伊織](https://open.spotify.com/artist/6JkqSsFXYZ1UBzlyZzB03S) | [ETERNAL BLAZE \- from CrosSing](https://open.spotify.com/album/1Beke3R3aCMxvPqht4Wz7T) | 5:09 | 2024-05-14 | 2024-05-29 |
 | [Eternal Light](https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 4:06 | 2022-05-28 | 2022-07-01 |
+| [eternal reality \- version2025](https://open.spotify.com/track/3WMu8AtSB0fr0ekfALCnvP) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [eternal reality \(version2025\)](https://open.spotify.com/album/2f8lUC2YM10CpOutTqxIBU) | 3:51 | 2025-09-11 |  |
 | [Eureka](https://open.spotify.com/track/5N0J0YLHluyIMdrYf8TfE4) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Eureka](https://open.spotify.com/album/5HfCLJOXg3OJJbr6Lz9C67) | 3:45 | 2024-04-02 | 2024-04-19 |
 | [Ever Changing Violet](https://open.spotify.com/track/0paujNr3farh2seipSSsnn) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [Ever Changing Violet](https://open.spotify.com/album/7kDkSzkQm97VWwmUwXAq2d) | 4:24 | 2024-07-23 | 2024-09-04 |
 | [EVERLASTING](https://open.spotify.com/track/3yUn3VJ4i211Tgu7cLpGfn) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [EVERLASTING/ジャーニー](https://open.spotify.com/album/2nVMaMPC2mCUsCCJGKDZZj) | 4:02 | 2022-08-02 | 2022-10-05 |
@@ -705,7 +707,7 @@
 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 | 2023-01-12 | 2023-04-21 |
 | [My Plan \- Lofi Remix](https://open.spotify.com/track/3By0mwdcJC2m9Vq0W3LwC2) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [一騎\(CV:豊永利行\)](https://open.spotify.com/artist/6UNfWUQV7Zjuz2WvFSXcj3), [零\(CV:内山昂輝\)](https://open.spotify.com/artist/3bT8HW83dr4YDKYN20RYjy) | [My Plan](https://open.spotify.com/album/3CpERluTyAXWsI6kaQp139) | 3:37 | 2023-03-14 | 2023-04-12 |
 | [My Tale](https://open.spotify.com/track/6wWKDglEzL9JfiTnJmOSeo) | [Yoshino Aoyama](https://open.spotify.com/artist/41AMM7nACzTXN8OCVTsFvP) | [My Tale](https://open.spotify.com/album/4CtOKxZsZXOWBHbJjnLoWT) | 4:19 | 2022-12-13 | 2023-01-13 |
-| [My Way](https://open.spotify.com/track/7lvSAzBLYQmIPCGJRRAnAu) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [My Way](https://open.spotify.com/album/2vS6xVVrQkhGrWWhwfrhTp) | 3:37 | 2025-07-22 |  |
+| [My Way](https://open.spotify.com/track/7lvSAzBLYQmIPCGJRRAnAu) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [My Way](https://open.spotify.com/album/2vS6xVVrQkhGrWWhwfrhTp) | 3:37 | 2025-07-22 | 2025-09-13 |
 | [My Way \- TV Size ver.](https://open.spotify.com/track/0cM71HisvBdz7ItncNjioW) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [My Way \(TV Size ver.\)](https://open.spotify.com/album/21auQ5ctveILZJWtGVSaEZ) | 1:29 | 2025-07-08 | 2025-07-16 |
 | [Naimononedari](https://open.spotify.com/track/3o8bAr8xAgnlkdq8Dd6IvO) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11th Album Kioku no Toshokan](https://open.spotify.com/album/6fMoOjoupQC9dszgcKkhj6) | 4:05 | 2023-05-30 | 2023-07-07 |
 | [Naiteiinda](https://open.spotify.com/track/0XG0tbMYCtXac43tJaA3Dg) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Naiteiinda](https://open.spotify.com/album/43Z43JtRCAwtORme6d6BnR) | 3:40 | 2023-10-05 | 2023-10-12 |
@@ -1377,7 +1379,7 @@
 | [アストライド](https://open.spotify.com/track/3jkxzb8XGpMONMhcJbr6a5) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [アストライド](https://open.spotify.com/album/50lLhPPMB72sMQk1viav33) | 3:32 | 2025-05-21 | 2025-06-14 |
 | [アタシのドレス](https://open.spotify.com/track/7dQovfNtTx042gZErs0bdq) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [アタシのドレス](https://open.spotify.com/album/5j5eVbOlICvlJs1o2Grxgv) | 3:29 | 2025-01-11 | 2025-04-08 |
 | [アドリブ](https://open.spotify.com/track/1tsxzgZZFkak7eOkjPJnqP) | [七倉 凛\(CV:早見沙織\)](https://open.spotify.com/artist/1PnHx5MlsBt8eRKOA5c9yL) | [アドリブ](https://open.spotify.com/album/0mWdmlouyoZl1lEBJCfJJ8) | 3:07 | 2024-07-05 | 2024-10-09 |
-| [アビス](https://open.spotify.com/track/0OKoqIO4N5HGaRwj55KbAr) | [のんぴー](https://open.spotify.com/artist/0JEql610gvFzhlnZZkI4we) | [アビス](https://open.spotify.com/album/2V1kpXIUuxgr5tc2EfuXKN) | 3:09 | 2025-07-08 |  |
+| [アビス](https://open.spotify.com/track/0OKoqIO4N5HGaRwj55KbAr) | [のんぴー](https://open.spotify.com/artist/0JEql610gvFzhlnZZkI4we) | [アビス](https://open.spotify.com/album/2V1kpXIUuxgr5tc2EfuXKN) | 3:09 | 2025-07-08 | 2025-09-13 |
 | [アフターグロウ](https://open.spotify.com/track/4JGiODNnchXeUpbyWwk9nG) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Magie×Magie](https://open.spotify.com/album/5Nymj45jme7PoBC6z8FCGU) | 4:04 | 2023-10-10 | 2023-10-12 |
 | [アポリア](https://open.spotify.com/track/7ugSlmtBWNMAgTpdvBPcIh) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アポリア](https://open.spotify.com/album/4AucYbX9MX5phmTpawxEfo) | 3:50 | 2024-10-08 | 2025-01-10 |
 | [アマリリス](https://open.spotify.com/track/4eIDKBcRJnlZmrRLNdlbgX) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [アマリリス](https://open.spotify.com/album/5Tdq4ftTKRVA2FYE4kc0QT) | 3:53 | 2023-07-11 | 2023-09-29 |

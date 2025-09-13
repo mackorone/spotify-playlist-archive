@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 155222,
+  "num_followers": 155224,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-02-18 15:28:48",
       "album": {
-        "name": "Peaceful Rain Recordings",
-        "url": "https://open.spotify.com/album/4DlF8SX13AdB37uKVgMziM"
-      },
-      "artists": [
-        {
-          "name": "Rain Recordings",
-          "url": "https://open.spotify.com/artist/0K4qycWYB7fwNMvrtS9lID"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Forest Rain",
-      "url": "https://open.spotify.com/track/6ADPydLM8fmi6fjO9ZXAb8"
-    },
-    {
-      "added_at": "2025-02-18 15:28:48",
-      "album": {
         "name": "Rainforest Soundscapes",
         "url": "https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 162679,
       "name": "Rainforest",
       "url": "https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF"
+    },
+    {
+      "added_at": "2025-02-18 15:28:48",
+      "album": {
+        "name": "Peaceful Rain Recordings",
+        "url": "https://open.spotify.com/album/4DlF8SX13AdB37uKVgMziM"
+      },
+      "artists": [
+        {
+          "name": "Rain Recordings",
+          "url": "https://open.spotify.com/artist/0K4qycWYB7fwNMvrtS9lID"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Forest Rain",
+      "url": "https://open.spotify.com/track/6ADPydLM8fmi6fjO9ZXAb8"
     },
     {
       "added_at": "2025-02-18 15:28:48",
@@ -331,8 +331,8 @@
     {
       "added_at": "2025-02-18 15:28:48",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz"
+        "name": "Rainmaker",
+        "url": "https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
         }
       ],
-      "duration_ms": 241374,
-      "name": "Chill Waves & Wind in Leaves",
-      "url": "https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm"
+      "duration_ms": 230983,
+      "name": "Rain Forest Meditation",
+      "url": "https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF"
     },
     {
       "added_at": "2025-02-18 15:28:48",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-02-18 15:28:48",
       "album": {
+        "name": "Noise Of The Forest",
+        "url": "https://open.spotify.com/album/0E5PbOCoT5MwE7yEb1jpFS"
+      },
+      "artists": [
+        {
+          "name": "Mind & Body",
+          "url": "https://open.spotify.com/artist/6JYtJJDafQm9bjAm5zRxbz"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Noise Of The Forest",
+      "url": "https://open.spotify.com/track/3archW4qVggMhQVrWnnYje"
+    },
+    {
+      "added_at": "2025-02-18 15:28:48",
+      "album": {
         "name": "Tr\u00f3pico",
         "url": "https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 184611,
       "name": "Tr\u00f3pico",
       "url": "https://open.spotify.com/track/24KbrtLvLX4QQevrVkMYRR"
-    },
-    {
-      "added_at": "2025-02-18 15:28:48",
-      "album": {
-        "name": "Noise Of The Forest",
-        "url": "https://open.spotify.com/album/0E5PbOCoT5MwE7yEb1jpFS"
-      },
-      "artists": [
-        {
-          "name": "Mind & Body",
-          "url": "https://open.spotify.com/artist/6JYtJJDafQm9bjAm5zRxbz"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Noise Of The Forest",
-      "url": "https://open.spotify.com/track/3archW4qVggMhQVrWnnYje"
     },
     {
       "added_at": "2025-02-18 15:28:48",
@@ -479,8 +479,8 @@
     {
       "added_at": "2025-02-18 15:28:48",
       "album": {
-        "name": "Rainmaker",
-        "url": "https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
         }
       ],
-      "duration_ms": 230983,
-      "name": "Rain Forest Meditation",
-      "url": "https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF"
+      "duration_ms": 241374,
+      "name": "Chill Waves & Wind in Leaves",
+      "url": "https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm"
     },
     {
       "added_at": "2025-02-18 15:28:48",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-02-18 15:28:48",
       "album": {
+        "name": "Song Birds",
+        "url": "https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU"
+      },
+      "artists": [
+        {
+          "name": "Zen Master",
+          "url": "https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Spring Shower Bird Songs",
+      "url": "https://open.spotify.com/track/7GQ7Rg1yQPawBeXAlsef7A"
+    },
+    {
+      "added_at": "2025-02-18 15:28:48",
+      "album": {
         "name": "Soothing Birdsong by the River",
         "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 196000,
       "name": "Gentle River Sounds",
       "url": "https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y"
-    },
-    {
-      "added_at": "2025-02-18 15:28:48",
-      "album": {
-        "name": "Song Birds",
-        "url": "https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU"
-      },
-      "artists": [
-        {
-          "name": "Zen Master",
-          "url": "https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Spring Shower Bird Songs",
-      "url": "https://open.spotify.com/track/7GQ7Rg1yQPawBeXAlsef7A"
     },
     {
       "added_at": "2025-02-18 15:28:48",

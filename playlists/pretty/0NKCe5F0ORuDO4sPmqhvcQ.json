@@ -6,8 +6,40 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAAqyNFq52P4/l7sSAtjdkOpxJ2KHAvS",
+  "snapshot_id": "AAAqzZew0qvFKJx6mobCXJE5+VUv7jCy",
   "tracks": [
+    {
+      "added_at": "2025-09-12 21:36:16",
+      "album": {
+        "name": "AUTOBAHN",
+        "url": "https://open.spotify.com/album/5flItG4w6QQs7mdUheOAwq"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        }
+      ],
+      "duration_ms": 191108,
+      "name": "AUTOBAHN",
+      "url": "https://open.spotify.com/track/64pEJ9PB0iB2NfAb8R2GOf"
+    },
+    {
+      "added_at": "2025-09-12 21:35:29",
+      "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/1kw8SiaqsRjeg8hAMxDdjL"
+      },
+      "artists": [
+        {
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+        }
+      ],
+      "duration_ms": 211862,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/2H43AB2EgHmUChTFL8zVZp"
+    },
     {
       "added_at": "2025-09-10 18:38:50",
       "album": {
@@ -1407,6 +1439,26 @@
       "duration_ms": 147613,
       "name": "I know U know",
       "url": "https://open.spotify.com/track/4Yp2C2WQJVG3vZNJzUTapC"
+    },
+    {
+      "added_at": "2025-09-12 21:37:42",
+      "album": {
+        "name": "SISTER",
+        "url": "https://open.spotify.com/album/0IojfyxFQMggZW9aNCeaV7"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 190222,
+      "name": "RADIO (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/648EfIeWCsM2ssgEAB3s4k"
     }
   ],
   "unique_name": "Moving Castle Monthly",

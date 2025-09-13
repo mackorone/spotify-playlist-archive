@@ -4,7 +4,7 @@
 
 > This is Mudvayne\. The essential tracks, all in one playlist.
 
-41 songs - 2 hr 43 min
+42 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Seed](https://open.spotify.com/track/2FSaIjUhyJ21nEwIe0JApd) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 3:27 | 2024-05-14 |  |
 | [Silenced](https://open.spotify.com/track/7zBp5vs6V2bXiNt5FulPf5) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 3:01 | 2024-05-14 |  |
 | [Some Assembly Required](https://open.spotify.com/track/5vdTsxP1p3Vshq9TaI9Ffr) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 2:46 | 2024-05-14 |  |
+| [Sticks and Stones](https://open.spotify.com/track/7vEtEZXHMAk8oZksZ6xftE) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Sticks And Stones](https://open.spotify.com/album/2dHPDll7CHkR15u1shRGBU) | 3:53 | 2025-09-13 |  |
 | [Trapped In the Wake of a Dream](https://open.spotify.com/track/0vO8Q8lAmmoQU8lx0ugE39) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 4:41 | 2024-05-14 |  |
 | [Under My Skin](https://open.spotify.com/track/6jryVg8V79kUVqFNUP9njw) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 3:47 | 2024-05-14 |  |
 | [World So Cold](https://open.spotify.com/track/0I5Fgl7pT26M1qSIixlzR2) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 5:36 | 2024-05-14 |  |

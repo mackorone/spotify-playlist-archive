@@ -2,9 +2,9 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Remembering Brent Hinds
+> Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Sabaton
 
-1,126 songs - 3 day 10 hr 5 min
+1,127 songs - 3 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Cross the Divide](https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Cross The Divide](https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2) | 4:18 | 2025-01-31 |  |
 | [Crossing Over](https://open.spotify.com/track/0qbIG8PmVDHRcJQ7FXKQTB) | [Elysion](https://open.spotify.com/artist/5yxZeKeX0FcaT6OlOnx52v) | [Bring Out Your Dead](https://open.spotify.com/album/5Y9cEIruQ0SQCXgugO8igf) | 4:02 | 2024-04-05 | 2025-07-19 |
 | [Crossing the Blades](https://open.spotify.com/track/4diHw8YPlaaKbcqATN3WBd) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Crossing the Blades](https://open.spotify.com/album/4FMF6kWNYex6Poy4GA8FQ3) | 5:26 | 2021-12-17 | 2022-05-11 |
+| [Crossing the Rubicon \(feat\. NOTHING MORE\)](https://open.spotify.com/track/2EVeVyXH9mQ5IIGi9b3smP) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG), [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Jonny Hawkins](https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN), [Mark Vollelunga](https://open.spotify.com/artist/69lSSZZg7Xp8XJ3bjdNOXU) | [Crossing the Rubicon \(feat\. NOTHING MORE\)](https://open.spotify.com/album/1wSTkIeWrOhenv55gnRIFI) | 3:24 | 2025-09-12 |  |
 | [Crow Killer Blues](https://open.spotify.com/track/3LK0cE6zURQCFoiAzQiaUy) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 5:00 | 2022-07-13 |  |
 | [Crown of Horns](https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Crown of Horns](https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D) | 5:45 | 2024-01-26 |  |
 | [Crucify Me](https://open.spotify.com/track/6xh1HHGZPLN0FsGg68Gm1c) | [Primal Fear](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g) | [Crucify Me](https://open.spotify.com/album/3Y76qo9r5o9YPfwEPuJV7Y) | 4:10 | 2022-03-02 | 2022-05-20 |
@@ -904,7 +905,7 @@
 | [Take the World](https://open.spotify.com/track/4ZpMNbTPXI9sOPv0mIPY7K) | [Mammothor](https://open.spotify.com/artist/6L8W07NCv5iosKaHy29F46) | [Take the World](https://open.spotify.com/album/3zc9s6GMTNjZhTfIxvkT5x) | 2:48 | 2022-04-01 | 2022-04-17 |
 | [Taniwha \(feat\. Randy Blythe\)](https://open.spotify.com/track/0NMjS1FNduEm9SK2hwiP1x) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [Te Rā](https://open.spotify.com/album/2H7YgFo7y9Jy0H8kI2XieO) | 4:48 | 2025-04-25 | 2025-07-31 |
 | [Taniwha \(feat\. Randy Blythe\)](https://open.spotify.com/track/3FKmAybKmHrRHbLOBQ0hDx) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm), [Randy Blythe](https://open.spotify.com/artist/3ATfxPE7daw3thpYsevlBc) | [Taniwha](https://open.spotify.com/album/1CFDsqaT9pVqUqMFtm2Ari) | 4:48 | 2025-03-28 | 2025-04-26 |
-| [Teardrinker](https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Teardrinker](https://open.spotify.com/album/2rLL53sWbr1njAQGRqCLfw) | 5:20 | 2021-12-17 | 2025-05-10 |
+| [Teardrinker](https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Teardrinker](https://open.spotify.com/album/2rLL53sWbr1njAQGRqCLfw) | 5:20 | 2021-12-17 |  |
 | [Teardrinker](https://open.spotify.com/track/7z7A9g6N2prBVa0baThmGq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 5:20 | 2022-07-13 | 2022-08-06 |
 | [Tears Don't Fall](https://open.spotify.com/track/3iWlbqAaoIR7H7gyO3a6rV) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 5:48 | 2022-08-19 | 2023-03-11 |
 | [Tears of a Mandrake](https://open.spotify.com/track/2soaqea9OtrB2gD36zNF6s) | [Edguy](https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu) | [Mandrake](https://open.spotify.com/album/2S5whZS0ouI2rHct9VJuK5) | 7:11 | 2022-07-08 | 2024-04-19 |
@@ -979,7 +980,7 @@
 | [The Sirens Sound](https://open.spotify.com/track/13ke0vDc5JPVf9Hzcik9V8) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [The Head & The Habit](https://open.spotify.com/album/1gsJpMVqM372TjZwQ19dYq) | 4:32 | 2024-06-21 | 2024-08-23 |
 | [The Skeleton Key](https://open.spotify.com/track/6IVKiq8Xxhvg03MUtu5smv) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Omega](https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q) | 5:06 | 2021-12-17 |  |
 | [The Stargate \[Tablet I\]](https://open.spotify.com/track/6FCnWu5zcWDoeScwYayLv6) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [The Stargate](https://open.spotify.com/album/74QYxU9qmoLzkuHp4RdCGP) | 8:20 | 2024-10-11 | 2025-01-22 |
-| [The Storm](https://open.spotify.com/track/1ta7ZkwOfJjRvZ0dLscAZc) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [The Storm](https://open.spotify.com/album/07usIiC9Kg8h89N868G1nu) | 4:23 | 2025-06-20 |  |
+| [The Storm](https://open.spotify.com/track/1ta7ZkwOfJjRvZ0dLscAZc) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [The Storm](https://open.spotify.com/album/07usIiC9Kg8h89N868G1nu) | 4:23 | 2025-06-20 | 2025-09-13 |
 | [The Sword And The Cross](https://open.spotify.com/track/2ZilY3rX71TpyJ76LJKbQH) | [Warbringer](https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1) | [The Sword And The Cross](https://open.spotify.com/album/6p0pn5jW573roXeepMLEmy) | 6:07 | 2025-02-14 | 2025-04-14 |
 | [The Tale of the Three Hawks](https://open.spotify.com/track/34X4VwzolE2cbLd5tlNH51) | [Vexillum](https://open.spotify.com/artist/1N4Ef6A6BVQtjsYUZ6MeV2) | [When Good Men Go to War](https://open.spotify.com/album/5Z6Y4FiTT7PR7D6Hsv6QTi) | 6:03 | 2021-12-29 | 2022-07-16 |
 | [The Tales of War](https://open.spotify.com/track/1hOOJBNK0fuRIyEytMkx07) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [The Tales of War](https://open.spotify.com/album/2j4QjsX5LnrSlSomQDYeRz) | 5:08 | 2025-05-09 | 2025-09-07 |
@@ -1020,7 +1021,7 @@
 | [Twilight](https://open.spotify.com/track/74ameKBF6bcaHN7O6Knmqw) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Twilight](https://open.spotify.com/album/0ks7CUZzcbl7BK09HxPjDa) | 3:48 | 2021-12-17 | 2022-07-29 |
 | [Twilight of the Gods](https://open.spotify.com/track/7LvIHenP3bZ7yp5NiXWJYF) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Beyond the Red Mirror](https://open.spotify.com/album/5QTcrJ2UrC9KhnN9xDWW2C) | 4:49 | 2022-07-08 | 2022-08-20 |
 | [Twilight Of The Gods](https://open.spotify.com/track/06HNCfXJcMnKHmRrkue97s) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Beyond The Red Mirror](https://open.spotify.com/album/5bH9q5EMi147oTykVETEZn) | 4:51 | 2022-03-22 | 2022-04-19 |
-| [Tyrant King](https://open.spotify.com/track/43S1Zw11WVZxVxoMczFXTu) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [The Return of Gor Gor](https://open.spotify.com/album/3BXP8puT6OR8NfBKAejNsJ) | 3:26 | 2025-07-25 |  |
+| [Tyrant King](https://open.spotify.com/track/43S1Zw11WVZxVxoMczFXTu) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [The Return of Gor Gor](https://open.spotify.com/album/3BXP8puT6OR8NfBKAejNsJ) | 3:26 | 2025-07-25 | 2025-09-13 |
 | [Tyrants Serenade](https://open.spotify.com/track/6TdTD8R3iWculjW9k2HWJP) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Tyrants Serenade](https://open.spotify.com/album/6d0gOnYNbE4rFNOrSVYnCD) | 4:20 | 2025-08-15 |  |
 | [Unbreakable](https://open.spotify.com/track/1IaQLINjiOCSv4INrrv0aS) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Nemesis](https://open.spotify.com/album/37qdr3nW8foSCx7SRHP5La) | 4:37 | 2021-12-17 | 2022-04-30 |
 | [UNBØUND](https://open.spotify.com/track/0qgQlOPeF3z8zjwQ0ff2K9) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [BØNESCRAPER](https://open.spotify.com/album/5BdBDX5zGZP0cidRxkV9C2) | 3:56 | 2025-04-25 | 2025-09-10 |

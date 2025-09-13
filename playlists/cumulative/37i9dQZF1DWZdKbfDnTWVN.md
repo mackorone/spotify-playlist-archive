@@ -2,7 +2,7 @@
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=SB7QTVYiSOmFPV3GM3nqmA"> Nyashinski</a>
+> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=2B5U2Xl5Qr2xQcGsREfa6A"> Khaligraph Jones</a>
 
 399 songs - 21 hr 38 min
 

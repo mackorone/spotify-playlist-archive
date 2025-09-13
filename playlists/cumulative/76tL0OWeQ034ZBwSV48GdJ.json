@@ -2223,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "Dear Diary",
+        "url": "https://open.spotify.com/album/1Gxfg7F8DQ1V8oBEIZzWa7"
+      },
+      "artists": [
+        {
+          "name": "Narciss",
+          "url": "https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436285,
+      "name": "Ludmilla",
+      "url": "https://open.spotify.com/track/1nENRX73yJFJqa4XN1uJEV"
+    },
+    {
+      "album": {
         "name": "Mariposa",
         "url": "https://open.spotify.com/album/7mDh3O1KajlknUZaJaYhrm"
       },

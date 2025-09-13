@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Arppa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,084 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,088 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Viidestä kolme pois](https://open.spotify.com/track/0eA3yVMSzzbxQEIIQhGtKH) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [](https://open.spotify.com/album/null) | 3:09 |
+| 1 | [Viidestä kolme pois](https://open.spotify.com/track/0eA3yVMSzzbxQEIIQhGtKH) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Peppuni kanssa](https://open.spotify.com/album/7xe8AruYJ8xpR82d1N3rcK) | 3:09 |
 | 2 | [Kuka kuuntelee sua nyt](https://open.spotify.com/track/5dck3LV7Jfn6lYbCiYeYEe) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [Kuka kuuntelee sua nyt](https://open.spotify.com/album/5rb5gHGUAn4QC67egGROEV) | 2:57 |
 | 3 | [Mänty](https://open.spotify.com/track/7BZrAf03BHkGizOiMG8TjQ) | [Aili Järvelä](https://open.spotify.com/artist/6r1mVyGnnq60IThQV3Is8j), [Ostrobothnian Chamber Orchestra](https://open.spotify.com/artist/7A0u8NYeGO91iCE7xRs50j), [Samuli Kosminen](https://open.spotify.com/artist/4336HEyKCwnRI5JjGV8E00), [Laura Hynninen](https://open.spotify.com/artist/34TPmQUcZvfSgrpkW8Wj06) | [Mänty](https://open.spotify.com/album/3b8vgDObjBydE6bH9yU7Mz) | 3:33 |
 | 4 | [Pidän sulle paikkaa](https://open.spotify.com/track/6dBmIdJGwPo7VTGgrVZA45) | [Lyyti](https://open.spotify.com/artist/1thzcI6KSWuEdFD35WJTtE) | [Pidän sulle paikkaa](https://open.spotify.com/album/2mTKbF5AzJ37r7qZi8KdEW) | 3:09 |

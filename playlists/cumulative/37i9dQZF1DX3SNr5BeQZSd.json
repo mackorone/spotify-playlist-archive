@@ -1289,6 +1289,42 @@
     },
     {
       "album": {
+        "name": "authentic",
+        "url": "https://open.spotify.com/album/0xkFrmV1bkv35DT6Xvb2gA"
+      },
+      "artists": [
+        {
+          "name": "MF Eistee",
+          "url": "https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101721,
+      "name": "authentic",
+      "url": "https://open.spotify.com/track/0oGXMJIvZAXEjpKNoFbpPi"
+    },
+    {
+      "album": {
+        "name": "Autumn Letters",
+        "url": "https://open.spotify.com/album/2HyYRDTyuVecdO1dNSQcHo"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171940,
+      "name": "Autumn Letters",
+      "url": "https://open.spotify.com/track/7e1VORsL4GCNqACM8G3evL"
+    },
+    {
+      "album": {
         "name": "The Life in Between",
         "url": "https://open.spotify.com/album/4Y0iVYxyTFyheAzIwVfjR8"
       },
@@ -3445,6 +3481,28 @@
     },
     {
       "album": {
+        "name": "Cozy",
+        "url": "https://open.spotify.com/album/1tom1VTMXVAJ1mhmabMQcv"
+      },
+      "artists": [
+        {
+          "name": "Corey J. Beats",
+          "url": "https://open.spotify.com/artist/0CpOAY2TliyvzxykFggFVS"
+        },
+        {
+          "name": "fnonose",
+          "url": "https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Cozy",
+      "url": "https://open.spotify.com/track/5PCZLFW6oIvZuf33gvh3r2"
+    },
+    {
+      "album": {
         "name": "Crawling",
         "url": "https://open.spotify.com/album/4I1Lf04Ydm1Q665Hww7oib"
       },
@@ -4668,7 +4726,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 135779,
       "name": "easy",
       "url": "https://open.spotify.com/track/4KVbd8XF4PHJLwET6Z6BXb"
@@ -6480,7 +6538,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 117142,
       "name": "Grey",
       "url": "https://open.spotify.com/track/3n8NRHLcAPZVPegt0QkGFE"
@@ -6520,7 +6578,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 129718,
       "name": "Habitual",
       "url": "https://open.spotify.com/track/2iSacc78J797ghDnn9C12B"
@@ -8726,7 +8784,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 123157,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/2jRhznDCSZDHuiTfT2VGDQ"
@@ -8744,7 +8802,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 102000,
       "name": "Jasmine Jive",
       "url": "https://open.spotify.com/track/1gDWe2zeatKZZGeztmxygD"
@@ -9615,6 +9673,24 @@
     },
     {
       "album": {
+        "name": "Light Changes",
+        "url": "https://open.spotify.com/album/7jU1gXaiks9UYq3vbBSIF9"
+      },
+      "artists": [
+        {
+          "name": "Oh, My.",
+          "url": "https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139904,
+      "name": "Light Changes",
+      "url": "https://open.spotify.com/track/6lDu71XHCahhK2Gc5vb4gW"
+    },
+    {
+      "album": {
         "name": "Cosmic Cove",
         "url": "https://open.spotify.com/album/623Qjo8XXT0kOKSPtHbxw1"
       },
@@ -10086,6 +10162,24 @@
       "duration_ms": 166285,
       "name": "Look Up",
       "url": "https://open.spotify.com/track/4FMQy70BdrlnH3eRR2vSCx"
+    },
+    {
+      "album": {
+        "name": "Looking Out The Window",
+        "url": "https://open.spotify.com/album/6zYruG0fbrYCfkJYwLIuuu"
+      },
+      "artists": [
+        {
+          "name": "Aisake",
+          "url": "https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Looking Out The Window",
+      "url": "https://open.spotify.com/track/4dOo68DtnUugqMHByebaAS"
     },
     {
       "album": {
@@ -10600,7 +10694,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 203437,
       "name": "Lumen",
       "url": "https://open.spotify.com/track/1vTYj8rKxysE9fAszeFmx2"
@@ -10974,6 +11068,24 @@
       "duration_ms": 92571,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/26JxoGgFVjK1CUMRkVo1F3"
+    },
+    {
+      "album": {
+        "name": "mare",
+        "url": "https://open.spotify.com/album/1iPoQLFowzJyolbFR2xNlM"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136216,
+      "name": "mare",
+      "url": "https://open.spotify.com/track/0JO8LdOOOhqQ1AGok1KlYF"
     },
     {
       "album": {
@@ -12983,6 +13095,24 @@
     },
     {
       "album": {
+        "name": "Once More",
+        "url": "https://open.spotify.com/album/18tN2yXH1XxB2tSuPE5DAd"
+      },
+      "artists": [
+        {
+          "name": "Jhove",
+          "url": "https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156279,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/301q317ARnydUot60rCZAC"
+    },
+    {
+      "album": {
         "name": "Once Upon A Time",
         "url": "https://open.spotify.com/album/2fUrkqWGzLxL8fP6CoAlAA"
       },
@@ -13016,6 +13146,24 @@
       "duration_ms": 84845,
       "name": "one daiquiri please",
       "url": "https://open.spotify.com/track/7zagLh165NqLavoZfKByaY"
+    },
+    {
+      "album": {
+        "name": "one day at a time",
+        "url": "https://open.spotify.com/album/2feghZhZqoMPa39VQV0UjU"
+      },
+      "artists": [
+        {
+          "name": "jaackson",
+          "url": "https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129325,
+      "name": "one day at a time",
+      "url": "https://open.spotify.com/track/5ioNzWIPlHYQMTqnzX8K0T"
     },
     {
       "album": {
@@ -14366,7 +14514,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 100465,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/4EXUFyiFVDLfa9EJZKAa29"
@@ -19486,7 +19634,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 157090,
       "name": "tomorrow can wait",
       "url": "https://open.spotify.com/track/2MUS0BjQN2ebfBqs8XWfYu"
@@ -20711,6 +20859,28 @@
     },
     {
       "album": {
+        "name": "Warmer",
+        "url": "https://open.spotify.com/album/7neutXjse8aQ2yeAFe5N6c"
+      },
+      "artists": [
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        },
+        {
+          "name": "think less.",
+          "url": "https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119906,
+      "name": "Warmer",
+      "url": "https://open.spotify.com/track/1S2VpIw8eBDkSCwLV2zmVZ"
+    },
+    {
+      "album": {
         "name": "Wasted Love",
         "url": "https://open.spotify.com/album/1wpFdqotsmb3KxRM3LT5F9"
       },
@@ -21074,7 +21244,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 153575,
       "name": "where to jump into the sea",
       "url": "https://open.spotify.com/track/3nFRaPjkQFcpn1qgLe5cOZ"

@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Tailspin",
+        "url": "https://open.spotify.com/album/2qtMLDwO5ktiVtFVATsL0O"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225666,
+      "name": "Tailspin",
+      "url": "https://open.spotify.com/track/74ouav2arWYgDA656JHLzJ"
+    },
+    {
+      "album": {
         "name": "That's Why We Fight (feat. Koe Wetzel)",
         "url": "https://open.spotify.com/album/5JosqecYhWy8ikWQtYVLel"
       },

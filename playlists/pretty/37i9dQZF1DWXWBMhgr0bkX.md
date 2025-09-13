@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Homegrown talent feat\. Mimi Webb ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,968 likes - 69 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,975 likes - 69 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Met A Boy](https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [](https://open.spotify.com/album/null) | 2:57 |
+| 1 | [I Met A Boy](https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:57 |
 | 2 | [Let Down](https://open.spotify.com/track/2kRI6Hl0kz67GMMrDRcSIP) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Let Down](https://open.spotify.com/album/7nXvfkF5A3OAsCSMA8qnUC) | 3:06 |
 | 3 | [808 HYMN](https://open.spotify.com/track/3UaOcDgXZVFMopdWX8hukn) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [808 HYMN](https://open.spotify.com/album/6Br8z93mJODxZskiJ3GHZD) | 4:13 |
 | 4 | [April](https://open.spotify.com/track/2g4WU3DW5CtHRohxMWw2wH) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [April](https://open.spotify.com/album/77SSFBy29ddxQnSq6K0zlT) | 3:15 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 27 | [Object of Desire](https://open.spotify.com/track/1GqR0hjHCPGndDX8D2FtBx) | [Fred Roberts](https://open.spotify.com/artist/4n1vjpbmyeFvTvMJX1TL0v) | [Object of Desire](https://open.spotify.com/album/12K3G8WHbq2DPWwFWRxnPM) | 2:42 |
 | 28 | [Boys Become Men](https://open.spotify.com/track/67ivPMcti0KSuMPU1twN1r) | [Aaron Dinning](https://open.spotify.com/artist/7xutVKUy1wLHmi2rmSvacV) | [Boys Become Men](https://open.spotify.com/album/2ohRpS6UQWgqGOnqeLxFp9) | 2:24 |
 | 29 | [It's Whatever](https://open.spotify.com/track/6mC9g1cMeWdFQBddpwsiTF) | [Nadia Loren](https://open.spotify.com/artist/7JjDgRpOWRxMdqijlOoNU1) | [It's Whatever](https://open.spotify.com/album/7vspCMdZ1RnJwaHGTDM50b) | 2:51 |
-| 30 | [swimming with sharks](https://open.spotify.com/track/2XrQDg1HIZeRQVqtcJrnYn) | [Lily Knott](https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW) | [](https://open.spotify.com/album/null) | 3:12 |
+| 30 | [swimming with sharks](https://open.spotify.com/track/2XrQDg1HIZeRQVqtcJrnYn) | [Lily Knott](https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW) | [the risk feels pretty even](https://open.spotify.com/album/3uMUIBxpBvrLEDdJfdcYQq) | 3:12 |
 | 31 | [Suzy Loves Sam](https://open.spotify.com/track/25DVLJE4mZkLLcaGZAaGXE) | [Erica Manzoli](https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ) | [Suzy Loves Sam](https://open.spotify.com/album/3b6c71BkZifMY0jhDVnaoE) | 2:45 |
 | 32 | [Saturday](https://open.spotify.com/track/4RTM4wFDwqKUMMSHbjC5eA) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [Saturday](https://open.spotify.com/album/0XgNimRWk6iKq1c9qsHXIU) | 2:40 |
 | 33 | [Obligation](https://open.spotify.com/track/1DU4mvfofGaw2uEjrEk9wF) | [ARI LEE](https://open.spotify.com/artist/2CR4RXDXZVMvjEV3rrEVA7) | [Trophy Wife In Training](https://open.spotify.com/album/0jf4mIHvDy1oHSIsLDvsSB) | 3:15 |

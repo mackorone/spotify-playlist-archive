@@ -4,7 +4,7 @@
 
 > There's another 104 days of summer vacation to sing\-along to your favorite Disney Channel hits!
 
-195 songs - 9 hr 14 min
+196 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [What Time Is It](https://open.spotify.com/track/6NqfslFfCCOyBQ0Xw8kN8E) | [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [Lucas Grabeel](https://open.spotify.com/artist/0Ybn7NBu1okFzrFdrhzZs4), [Corbin Bleu](https://open.spotify.com/artist/5GuEFqVXxQsqJtjGqoFWvf), [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL), [Monique Coleman](https://open.spotify.com/artist/3RjA1wgUy4z4V6cCWH8EqU), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical 2 \(Original Soundtrack\)](https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49) | 3:18 | 2024-05-22 |  |
 | [What's My Name](https://open.spotify.com/track/53xAT6jud1w0NqlBjSW4VB) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV), [Thomas Doherty](https://open.spotify.com/artist/4QS6MMKct3F3LkN7cr6vHg), [Dylan Playfair](https://open.spotify.com/artist/3kJ7YsRgaO8ggKD1lw4C2T), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI) | 3:10 | 2024-05-22 |  |
 | [Where You Come From](https://open.spotify.com/track/6FzBEWmvVFmdJnX7MTL47R) | [Diamond White](https://open.spotify.com/artist/0Ns29jDBaYI2wbHvTR1B9j) | [Marvel's Moon Girl and Devil Dinosaur \(Original Soundtrack\)](https://open.spotify.com/album/31zZeDmG2Va5zvgfIyJuOy) | 2:36 | 2024-05-22 |  |
+| [Wherever We Go We Go Together](https://open.spotify.com/track/4Cc70YcZO3WrofjEKBoqTW) | [Electric Bloom](https://open.spotify.com/artist/217c2c3FKAB33k8kBgGNnz), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Electric Bloom: Season 1 \(Original Soundtrack\)](https://open.spotify.com/album/0oo6DnUTGm2T452lfGCaf2) | 2:50 | 2025-09-12 |  |
 | [Who Says](https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:15 | 2024-05-22 |  |
 | [Wildside \- From "Adventures in Babysitting"](https://open.spotify.com/track/0FgzKYAKXRPlu9BEZwYeV0) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Wildside \(From "Adventures in Babysitting"\)](https://open.spotify.com/album/4hWifUINe2aRCLtbqczRKB) | 3:07 | 2024-05-22 |  |
 | [Wizards Beyond Waverly Place Theme Song \- From "Wizards Beyond Waverly Place"](https://open.spotify.com/track/6ddAEgwxZqgHZNwQ28ps0Y) | [Janice LeAnn Brown](https://open.spotify.com/artist/4R010RX8x0Hrga0YO6FeyF) | [Wizards Beyond Waverly Place Theme Song \(From "Wizards Beyond Waverly Place"\)](https://open.spotify.com/album/16pLjr2bH7Dnx2O4xcobhP) | 0:45 | 2025-01-25 |  |

@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Don't Pretend",
+        "url": "https://open.spotify.com/album/1xzB42qRKOpfZVdFEyoL7B"
+      },
+      "artists": [
+        {
+          "name": "Sik World",
+          "url": "https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "Don't Pretend",
+      "url": "https://open.spotify.com/track/0cDE1IzAH6OsPpwLKT1l6t"
+    },
+    {
+      "album": {
         "name": "dont let me go",
         "url": "https://open.spotify.com/album/6VA6WgquH5zBIfIDz5IMKb"
       },
@@ -610,7 +628,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 199993,
       "name": "Erase Your Social",
       "url": "https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN"

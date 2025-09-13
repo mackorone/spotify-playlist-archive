@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,043 likes - 151 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,033 likes - 151 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 7 | [Is Anybody Out There?](https://open.spotify.com/track/6eZHTf3YOMmlaxeOLoMC6R) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Is Anybody Out There?](https://open.spotify.com/album/2P2lvrYnmVPRWD15JREeLY) | 3:48 |
 | 8 | [Yellow](https://open.spotify.com/track/6LCMIrcOxFKMAmccaK7biI) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Yellow](https://open.spotify.com/album/1BrAurLoXx2P0DFrdU3N2J) | 4:27 |
 | 9 | [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 |
-| 10 | [Jaime](https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [](https://open.spotify.com/album/null) | 2:23 |
-| 11 | [Track 15](https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [](https://open.spotify.com/album/null) | 0:00 |
+| 10 | [Jaime](https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Girl Violence](https://open.spotify.com/album/4aAqSQJ69OruOHDlQ9B5ki) | 2:23 |
+| 11 | [Dreamin'](https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin' \(Deluxe\)](https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p) | 3:53 |
 | 12 | [Hoops](https://open.spotify.com/track/6O066SuknbFTwYD3F6bpiD) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Hoops](https://open.spotify.com/album/3jaHMm1GZfioDWWZCKK46f) | 2:23 |
 | 13 | [Compaction](https://open.spotify.com/track/54TEGRwMxlpMitjPwNZutV) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [To the Ghosts \(Deluxe Edition\)](https://open.spotify.com/album/3EUf9rA4SLOYKWpR4i9dgO) | 2:54 |
 | 14 | [Inefficient Love](https://open.spotify.com/track/5Bf91qvflBGAAyCChcvO8o) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Inefficient Love](https://open.spotify.com/album/3nrboAgmwjsaYkhhubeX2c) | 3:43 |

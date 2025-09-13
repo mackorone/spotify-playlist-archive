@@ -1,6 +1,6 @@
 {
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Lady Gaga",
-  "num_followers": 312723,
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Ed Sheeran",
+  "num_followers": 312900,
   "original_name": "Futurs Hits",
   "owner": {
     "name": "Spotify",
@@ -9,23 +9,23 @@
   "snapshot_id": "AAAAAG2NUZLQfJqqYnuBXKS25SdTCgPa",
   "tracks": [
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
-        "name": "The Dead Dance",
-        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
+        "name": "Play (Extended Edition)",
+        "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 228518,
-      "name": "The Dead Dance",
-      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
+      "duration_ms": 215511,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "DO YOU LOVE ME ?",
         "url": "https://open.spotify.com/album/5kbK6yrQk48c9aggLhihGo"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/0ntWrkVB9TSfpYRs7pPMrP"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "Y Que Fue?",
         "url": "https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw"
@@ -57,27 +57,7 @@
       "url": "https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "Run (feat. Ragdoll)",
-        "url": "https://open.spotify.com/album/7fjndSdcSBxsoB4CWZMOpe"
-      },
-      "artists": [
-        {
-          "name": "Henri PFR",
-          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
-        },
-        {
-          "name": "Ragdoll",
-          "url": "https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl"
-        }
-      ],
-      "duration_ms": 156322,
-      "name": "Run (feat. Ragdoll)",
-      "url": "https://open.spotify.com/track/35t8pOqxELRbWS7ODsyc7p"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "QUE CE SOIT CLAIR",
         "url": "https://open.spotify.com/album/3KPXmdrGHVCiVJNp1Q5jPx"
@@ -97,27 +77,67 @@
       "url": "https://open.spotify.com/track/6eDKyG6jvCXaTyTdFOh9wA"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
-        "name": "Noventa (with J Balvin)",
-        "url": "https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ"
+        "name": "Mussulo (feat. Doddy)",
+        "url": "https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO"
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "DJ Malvado",
+          "url": "https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "DJ Aka-m",
+          "url": "https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9"
+        },
+        {
+          "name": "DODDY",
+          "url": "https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp"
         }
       ],
-      "duration_ms": 146700,
-      "name": "Noventa (with J Balvin)",
-      "url": "https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp"
+      "duration_ms": 256483,
+      "name": "Mussulo (feat. Doddy)",
+      "url": "https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
+      "album": {
+        "name": "Run (feat. Ragdoll)",
+        "url": "https://open.spotify.com/album/7fjndSdcSBxsoB4CWZMOpe"
+      },
+      "artists": [
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        },
+        {
+          "name": "Ragdoll",
+          "url": "https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl"
+        }
+      ],
+      "duration_ms": 156322,
+      "name": "Run (feat. Ragdoll)",
+      "url": "https://open.spotify.com/track/35t8pOqxELRbWS7ODsyc7p"
+    },
+    {
+      "added_at": "2025-09-11 22:00:21",
+      "album": {
+        "name": "The Dead Dance",
+        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
+    },
+    {
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "Aje (feat. Tayc)",
         "url": "https://open.spotify.com/album/2dqNGRTr6rw6WqvDyovSwX"
@@ -141,7 +161,43 @@
       "url": "https://open.spotify.com/track/2Nmq1A64nO4LCgyQNhrRLq"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
+      "album": {
+        "name": "Noventa (with J Balvin)",
+        "url": "https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 146700,
+      "name": "Noventa (with J Balvin)",
+      "url": "https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp"
+    },
+    {
+      "added_at": "2025-09-11 22:00:21",
+      "album": {
+        "name": "Tant pis pour elle",
+        "url": "https://open.spotify.com/album/2iNJAjSxBMS58hKIqHpAxw"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 158185,
+      "name": "Tant pis pour elle",
+      "url": "https://open.spotify.com/track/1VeDrlbLw18quxCqWfEFEi"
+    },
+    {
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "Survive",
         "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
@@ -157,7 +213,7 @@
       "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "Jealous Type",
         "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
@@ -173,66 +229,10 @@
       "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
-        "name": "TU ME RENDS B\u00caTE",
-        "url": "https://open.spotify.com/album/73CuswFpjJR0oISufRQZL2"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "TU ME RENDS B\u00caTE",
-      "url": "https://open.spotify.com/track/6LChsTTDPShYFbzngKMSWK"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "No Broke Boys",
-        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 163994,
-      "name": "No Broke Boys",
-      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "Autrement",
-        "url": "https://open.spotify.com/album/2CI0v7K6WEB8Z9O6TnXOzE"
-      },
-      "artists": [
-        {
-          "name": "Julien Lieb",
-          "url": "https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i"
-        }
-      ],
-      "duration_ms": 164578,
-      "name": "Autrement",
-      "url": "https://open.spotify.com/track/3SMtVY7EyN0tSYhAZl1AA7"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52"
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF"
       },
       "artists": [
         {
@@ -240,16 +240,16 @@
           "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 219650,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"
+      "duration_ms": 219087,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
@@ -265,27 +265,7 @@
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "Bloodline (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 182008,
-      "name": "Bloodline (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "C'est Fort",
         "url": "https://open.spotify.com/album/7n64v5dvmdTNLTvM1NzUdS"
@@ -305,51 +285,7 @@
       "url": "https://open.spotify.com/track/4VSR4ZWtfYgJwldRcNNFC3"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
-        "url": "https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 209051,
-      "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
-      "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "Corazon",
-        "url": "https://open.spotify.com/album/5kC8331Mp6YWnB7oHQWtXL"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        },
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 179840,
-      "name": "Corazon",
-      "url": "https://open.spotify.com/track/5GU81R3iKvSHkBVQj1KzaV"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "Hit My Heart (TR3NACRIA Remix)",
         "url": "https://open.spotify.com/album/0sQ8w7fRhtepxsjCinPXlB"
@@ -373,27 +309,87 @@
       "url": "https://open.spotify.com/track/06g67XFL3EvhddvSG5Cuku"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
-        "name": "\u00c0 qui le tour",
-        "url": "https://open.spotify.com/album/7vgUh9mWDMtSboczXCDYxG"
+        "name": "Corazon",
+        "url": "https://open.spotify.com/album/5kC8331Mp6YWnB7oHQWtXL"
       },
       "artists": [
         {
-          "name": "Jeck",
-          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         },
         {
-          "name": "Carla",
-          "url": "https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         }
       ],
-      "duration_ms": 162247,
-      "name": "\u00c0 qui le tour",
-      "url": "https://open.spotify.com/track/4kdkyOmEnSHMdWO242OPiU"
+      "duration_ms": 179840,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/5GU81R3iKvSHkBVQj1KzaV"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
+      "album": {
+        "name": "Bloodline (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 182008,
+      "name": "Bloodline (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
+    },
+    {
+      "added_at": "2025-09-11 22:00:21",
+      "album": {
+        "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
+        "url": "https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 209051,
+      "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
+      "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
+    },
+    {
+      "added_at": "2025-09-11 22:00:21",
+      "album": {
+        "name": "Autrement",
+        "url": "https://open.spotify.com/album/2CI0v7K6WEB8Z9O6TnXOzE"
+      },
+      "artists": [
+        {
+          "name": "Julien Lieb",
+          "url": "https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i"
+        }
+      ],
+      "duration_ms": 164578,
+      "name": "Autrement",
+      "url": "https://open.spotify.com/track/3SMtVY7EyN0tSYhAZl1AA7"
+    },
+    {
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "A New Day (feat. Celine Dion)",
         "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
@@ -413,43 +409,7 @@
       "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "ALICANTE",
-        "url": "https://open.spotify.com/album/3fufMNLo972SXMjHR9oPBM"
-      },
-      "artists": [
-        {
-          "name": "Karmen",
-          "url": "https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq"
-        },
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 178533,
-      "name": "ALICANTE",
-      "url": "https://open.spotify.com/track/7kjOMxmzroF5zYszbw4cWP"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "My Darling",
-        "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"
-      },
-      "artists": [
-        {
-          "name": "Chella",
-          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "Tour du monde",
         "url": "https://open.spotify.com/album/0S05qjbRcOueLjoZZDgVZO"
@@ -469,7 +429,7 @@
       "url": "https://open.spotify.com/track/3JzeDkdvorMWUvaAnU7BCX"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "KALISTA (Eke-ke-ke-ke)",
         "url": "https://open.spotify.com/album/5eNJdyQRNeMt8ROwAVYluX"
@@ -489,7 +449,79 @@
       "url": "https://open.spotify.com/track/4E2sPamzFvyDbZecdcX4Ik"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
+      "album": {
+        "name": "\u00c0 qui le tour",
+        "url": "https://open.spotify.com/album/7vgUh9mWDMtSboczXCDYxG"
+      },
+      "artists": [
+        {
+          "name": "Jeck",
+          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+        },
+        {
+          "name": "Carla",
+          "url": "https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr"
+        }
+      ],
+      "duration_ms": 162247,
+      "name": "\u00c0 qui le tour",
+      "url": "https://open.spotify.com/track/4kdkyOmEnSHMdWO242OPiU"
+    },
+    {
+      "added_at": "2025-09-11 22:00:21",
+      "album": {
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"
+      },
+      "artists": [
+        {
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk"
+    },
+    {
+      "added_at": "2025-09-11 22:00:21",
+      "album": {
+        "name": "MEGA BBL",
+        "url": "https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 162041,
+      "name": "ZOU BISOU",
+      "url": "https://open.spotify.com/track/1LmeIVvg4CVTu6kicEVoAr"
+    },
+    {
+      "added_at": "2025-09-11 22:00:21",
+      "album": {
+        "name": "Lovin Myself",
+        "url": "https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 176214,
+      "name": "Lovin Myself",
+      "url": "https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN"
+    },
+    {
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "Hors du temps",
         "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
@@ -505,7 +537,43 @@
       "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
+      "album": {
+        "name": "A Minute, A Moment...",
+        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
+    },
+    {
+      "added_at": "2025-09-11 22:00:21",
+      "album": {
+        "name": "ALICANTE",
+        "url": "https://open.spotify.com/album/3fufMNLo972SXMjHR9oPBM"
+      },
+      "artists": [
+        {
+          "name": "Karmen",
+          "url": "https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "ALICANTE",
+      "url": "https://open.spotify.com/track/7kjOMxmzroF5zYszbw4cWP"
+    },
+    {
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "Be Your Friend (feat. Enisa)",
         "url": "https://open.spotify.com/album/2sXOcCwvjKDF3pvNkSALfq"
@@ -529,43 +597,7 @@
       "url": "https://open.spotify.com/track/1wUgaVZAwwdqC7dq3nHTjE"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "MEGA BBL",
-        "url": "https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 162041,
-      "name": "ZOU BISOU",
-      "url": "https://open.spotify.com/track/1LmeIVvg4CVTu6kicEVoAr"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "A Minute, A Moment...",
-        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "Les \u00e9toiles",
         "url": "https://open.spotify.com/album/3p3XIEqXV37o6CCdCEa0W8"
@@ -581,39 +613,7 @@
       "url": "https://open.spotify.com/track/0qhFivak96RXIyePqIWIWx"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "Lovin Myself",
-        "url": "https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 176214,
-      "name": "Lovin Myself",
-      "url": "https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
-      "album": {
-        "name": "H\u00e9l\u00e9",
-        "url": "https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017"
-      },
-      "artists": [
-        {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
-        }
-      ],
-      "duration_ms": 166146,
-      "name": "Tout a chang\u00e9 (Rien n'a chang\u00e9)",
-      "url": "https://open.spotify.com/track/2LVLfi56877BcKEPkrUuYZ"
-    },
-    {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "12 to 12",
         "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
@@ -629,23 +629,23 @@
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
-        "name": "Gamin des sables",
-        "url": "https://open.spotify.com/album/3PxgtcdYshpXCtNAfBQHdW"
+        "name": "H\u00e9l\u00e9",
+        "url": "https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017"
       },
       "artists": [
         {
-          "name": "J\u00e9r\u00e9my Frerot",
-          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
         }
       ],
-      "duration_ms": 172413,
-      "name": "Avec ou sans",
-      "url": "https://open.spotify.com/track/2WZci6zfzEeVg7kjeRT1RH"
+      "duration_ms": 166146,
+      "name": "Tout a chang\u00e9 (Rien n'a chang\u00e9)",
+      "url": "https://open.spotify.com/track/2LVLfi56877BcKEPkrUuYZ"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun"
@@ -665,31 +665,23 @@
       "url": "https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
-        "name": "Magic In The Air",
-        "url": "https://open.spotify.com/album/6xqtYll27YUCy4amaLlByu"
+        "name": "Gamin des sables",
+        "url": "https://open.spotify.com/album/3PxgtcdYshpXCtNAfBQHdW"
       },
       "artists": [
         {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Magic System",
-          "url": "https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F"
-        },
-        {
-          "name": "Chawki",
-          "url": "https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt"
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
         }
       ],
-      "duration_ms": 167804,
-      "name": "Magic In The Air",
-      "url": "https://open.spotify.com/track/29CvrDmscTVF9tD5Pyd8hQ"
+      "duration_ms": 172413,
+      "name": "Avec ou sans",
+      "url": "https://open.spotify.com/track/2WZci6zfzEeVg7kjeRT1RH"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "Hot summer night (Oh La La La)",
         "url": "https://open.spotify.com/album/3OwwK4RPKg0xubd8IFMjoG"
@@ -709,7 +701,7 @@
       "url": "https://open.spotify.com/track/23uAM0P7BzfC2Vf5qVrczN"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "Un, Dos, Tres",
         "url": "https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG"
@@ -725,7 +717,7 @@
       "url": "https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "The Subway",
         "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
@@ -741,7 +733,7 @@
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
-      "added_at": "2025-09-04 22:00:22",
+      "added_at": "2025-09-11 22:00:21",
       "album": {
         "name": "particule",
         "url": "https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM"

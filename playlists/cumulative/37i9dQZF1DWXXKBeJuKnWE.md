@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Poppy, Amy Lee, Courtney LaPlante
 
-619 songs - 1 day 13 hr 2 min
+620 songs - 1 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [DEGRADATION](https://open.spotify.com/track/7ldazH7Gj6i47iNayZ8zGw) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [DEGRADATION](https://open.spotify.com/album/0snTEryRTQI073OlBkM5yn) | 3:49 | 2025-09-01 |  |
 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 | 2024-07-11 |  |
 | [Delusions of Grandeur](https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Delusions of Grandeur](https://open.spotify.com/album/0ehJqGshc3gcqVjJeo6hy1) | 2:58 | 2023-02-10 | 2023-10-06 |
-| [Demagoguery](https://open.spotify.com/track/1x77ughFOY7YgArlkGZeZB) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [The Screaming Of The Valkyries](https://open.spotify.com/album/3qwLRjvY7IYpv6N248PIAi) | 6:16 | 2025-03-26 |  |
+| [Demagoguery](https://open.spotify.com/track/1x77ughFOY7YgArlkGZeZB) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [The Screaming Of The Valkyries](https://open.spotify.com/album/3qwLRjvY7IYpv6N248PIAi) | 6:16 | 2025-03-26 | 2025-09-13 |
 | [Demonic Depression](https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [God Of Angels Trust](https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC) | 3:58 | 2025-06-06 |  |
 | [Demure](https://open.spotify.com/track/0q3a74dm3dH5Sm8ORI2hnB) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Demure](https://open.spotify.com/album/7wuJv3LE3mXdMY0CxF29Mj) | 4:49 | 2023-07-25 | 2024-01-27 |
 | [Depraved Idol](https://open.spotify.com/track/5kt6KuCw6Zve6JhI4xRV4a) | [God Complex](https://open.spotify.com/artist/4Ase9pfG4FCMoiuyRduc8k) | [Depraved Idol](https://open.spotify.com/album/6TqWBOgLzqNVZBZ3neOBWK) | 2:32 | 2025-02-07 | 2025-09-12 |
@@ -482,6 +482,7 @@
 | [smother](https://open.spotify.com/track/2HcGm8GCzfYJGmCZuxweT2) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [smother](https://open.spotify.com/album/05NqH0AXhKrCSes5CQJdYk) | 3:21 | 2023-11-11 | 2025-09-12 |
 | [Snake In The Grass](https://open.spotify.com/track/7ziq4cBxm5xZ0GsyBJxAq9) | [ALPHAMEGA](https://open.spotify.com/artist/5Jo80kcSLQNYiwgu7A68EI) | [Snake In The Grass](https://open.spotify.com/album/03PP8plAoML5JYtp55htjB) | 2:54 | 2023-07-25 | 2024-01-19 |
 | [So Called Life](https://open.spotify.com/track/1QTQ3VNzabl4yF5GJE6hhK) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:26 | 2022-11-10 | 2023-07-26 |
+| [So Low](https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [So Low](https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf) | 2:59 | 2025-09-11 |  |
 | [Social Blackout](https://open.spotify.com/track/2S5ev6ECcvAnBdZkgQWjyg) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Back With Another One](https://open.spotify.com/album/3eHN1YdgT8aGewySxzHdeK) | 3:46 | 2024-05-10 | 2025-09-12 |
 | [Soft Glow](https://open.spotify.com/track/2KZsN4rkEtuL35yGuRsfr5) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Soft Glow](https://open.spotify.com/album/0eUzgbZHA9nwoHiKvT1zVF) | 3:43 | 2024-06-07 | 2025-09-12 |
 | [Soft Spine](https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Soft Spine](https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR) | 3:03 | 2024-09-20 |  |

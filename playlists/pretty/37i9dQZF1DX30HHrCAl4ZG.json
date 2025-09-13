@@ -1,12 +1,12 @@
 {
   "description": "Explore all things indie rock right now. Featuring music from The Last Dinner Party",
-  "num_followers": 818839,
+  "num_followers": 818511,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAqz6IUzHb28XgkTcrOlwnwUQgk1",
+  "snapshot_id": "AAAAAM4O/bv5L7xd0W0znR4Hh/9VIetA",
   "tracks": [
     {
       "added_at": "2025-09-05 19:44:07",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
     },
     {
+      "added_at": "2025-09-12 04:00:24",
+      "album": {
+        "name": "Drag",
+        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
+    },
+    {
       "added_at": "2025-09-05 19:44:07",
       "album": {
         "name": "Double Infinity",
@@ -55,6 +71,22 @@
       "duration_ms": 227070,
       "name": "Words",
       "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
+    },
+    {
+      "added_at": "2025-09-12 04:00:24",
+      "album": {
+        "name": "Hahaha",
+        "url": "https://open.spotify.com/album/6GlAxqMj77oOovHFv4NpK0"
+      },
+      "artists": [
+        {
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+        }
+      ],
+      "duration_ms": 177707,
+      "name": "Orangutan",
+      "url": "https://open.spotify.com/track/1yheRpNN3knYt8Eb92v0Bd"
     },
     {
       "added_at": "2025-09-05 19:44:07",
@@ -105,6 +137,22 @@
       "url": "https://open.spotify.com/track/2cjQAWtDFoWVWdXr0oKfef"
     },
     {
+      "added_at": "2025-09-12 04:00:24",
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/6EOg0mbeoG7Qwsw2kV8fIx"
+      },
+      "artists": [
+        {
+          "name": "Dogpark",
+          "url": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7"
+        }
+      ],
+      "duration_ms": 254059,
+      "name": "September",
+      "url": "https://open.spotify.com/track/28Ax0ZKpA7n5yh0xe9Bhio"
+    },
+    {
       "added_at": "2025-09-05 19:44:07",
       "album": {
         "name": "77 (Pt. 1)",
@@ -119,6 +167,22 @@
       "duration_ms": 185200,
       "name": "Ready To Go",
       "url": "https://open.spotify.com/track/6WDQwwy5lcKA7zCjJ1kvKQ"
+    },
+    {
+      "added_at": "2025-09-12 04:00:24",
+      "album": {
+        "name": "weirdthrob",
+        "url": "https://open.spotify.com/album/1BcTRJbkG9oQg7CAcmwcTa"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 248553,
+      "name": "Sewers",
+      "url": "https://open.spotify.com/track/1jK61x0g4ylpBlbrj7MfER"
     },
     {
       "added_at": "2025-08-22 04:00:27",
@@ -663,22 +727,6 @@
       "duration_ms": 234947,
       "name": "Searching For",
       "url": "https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "We Really Done It This Time",
-        "url": "https://open.spotify.com/album/4RDA0EEVEaPwF8FGymnfQs"
-      },
-      "artists": [
-        {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
-        }
-      ],
-      "duration_ms": 200080,
-      "name": "We Really Done It This Time",
-      "url": "https://open.spotify.com/track/6gi2EhPjN26W9wXVoxrtxF"
     },
     {
       "added_at": "2025-08-22 04:00:27",
@@ -2163,102 +2211,6 @@
       "duration_ms": 194760,
       "name": "Tyrants",
       "url": "https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/3642b765vQWRQXzDyoPItp"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 203370,
-      "name": "Entertainer",
-      "url": "https://open.spotify.com/track/2MTGcrlm3vnMdzlgS2eKe8"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "Metal",
-        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 283253,
-      "name": "Metal",
-      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "she came for a sweet time",
-        "url": "https://open.spotify.com/album/1vanujSCrZTGKwCEUOo1zY"
-      },
-      "artists": [
-        {
-          "name": "late night drive home",
-          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
-        }
-      ],
-      "duration_ms": 259413,
-      "name": "she came for a sweet time",
-      "url": "https://open.spotify.com/track/2385kaeJicfgBSN3q7mpPR"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "Natural Pleasure",
-        "url": "https://open.spotify.com/album/5tJQnCPddwUupM2qXrpVUK"
-      },
-      "artists": [
-        {
-          "name": "BRONCHO",
-          "url": "https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264"
-        }
-      ],
-      "duration_ms": 206246,
-      "name": "Dreamin",
-      "url": "https://open.spotify.com/track/4cYvM8q9V6HTEayIBHuP1W"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "V.I.S.",
-        "url": "https://open.spotify.com/album/3QJDKsdfBMlx3LI6GNgMdd"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "V.I.S.",
-      "url": "https://open.spotify.com/track/2EUp86hKB1fsdr3Mf5y2dN"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "Everything Must Go",
-        "url": "https://open.spotify.com/album/7mYw7l4p7Q3W9N1aLSWXZF"
-      },
-      "artists": [
-        {
-          "name": "Goose",
-          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
-        }
-      ],
-      "duration_ms": 355136,
-      "name": "Everything Must Go",
-      "url": "https://open.spotify.com/track/0R6RPFA9f9aid6X3GsWDJ3"
     },
     {
       "added_at": "2025-08-22 04:00:27",

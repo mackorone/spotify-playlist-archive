@@ -4,7 +4,7 @@
 
 > Hottest tracks from Coke Studio Bharat\. Cover: Anuv Jain
 
-62 songs - 14 hr 43 min
+63 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Leta Jaijo Re \| Coke Studio Bharat](https://open.spotify.com/track/16yMLqQledh43yQ788cGzc) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Chotu Khan](https://open.spotify.com/artist/0dV0HtaKhSbIFeE3izhj4p), [Jaipur Kawa Brass Band](https://open.spotify.com/artist/3sKQnFP3Mx4Xg8H9EVXJbf), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Leta Jaijo Re \| Coke Studio Bharat](https://open.spotify.com/album/2hnV4PR6Ef1JPz4QS36BxF) | 3:54 | 2025-03-03 |  |
 | [Magic \| Coke Studio Bharat](https://open.spotify.com/track/4BsLcWv5zyE69A1K5tY9CO) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Magic \| Coke Studio Bharat](https://open.spotify.com/album/41H9MlRUw6FyrPsVxWSgfF) | 3:54 | 2025-03-03 |  |
 | [Maria \| Coke Studio Bharat](https://open.spotify.com/track/6BuMI0q8B7tfHmyv4utInV) | [Arijit Datta](https://open.spotify.com/artist/2jTgcbhkElI05eLyI2AWgV), [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu), [Shillong Chamber Choir](https://open.spotify.com/artist/7gkmvNNfD8KJXAwePUNpDU), [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Bombay Brass](https://open.spotify.com/artist/6eDQhQkAtGoABXSFp57kNV) | [Maria \| Coke Studio Bharat](https://open.spotify.com/album/00DBRzcVPtbJzqqBaNAKJi) | 5:29 | 2025-03-03 |  |
+| [Meetha Khaara \| Coke Studio Bharat](https://open.spotify.com/track/3K5KK5oFQ3IENpO9TMb5U6) | [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Thanu Khan](https://open.spotify.com/artist/2rsKioENkDPHCekKfluLb4) | [Meetha Khaara \| Coke Studio Bharat](https://open.spotify.com/album/0NBPTJLJy9Rd9SK6HgkIGL) | 4:22 | 2025-09-12 |  |
 | [Peaceful Escape \(Raga Bhimpalasi\)](https://open.spotify.com/track/1iOJROLXHdQM4eOyFutqKw) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Whisper](https://open.spotify.com/album/5JbHzXUfSQuVXabVdaEuNr) | 5:03 | 2022-03-03 | 2025-03-04 |
 | [Pilu Ragmala in Rupak](https://open.spotify.com/track/2KQVqgVWDSThJqcQniIson) | [Alam Khan](https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG), [Indranil Mallick](https://open.spotify.com/artist/0KL6Nzq5FePQByCl3mG8X1) | [Immersion](https://open.spotify.com/album/5QjIPDt3eApiZ2elAmiJ8i) | 13:50 | 2022-03-03 | 2025-03-04 |
 | [Punjab Vekh Ke \| Coke Studio Bharat](https://open.spotify.com/track/5C3JGJ4iDXKxHQzq3pNW27) | [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Raaginder](https://open.spotify.com/artist/0aS41TT32O5PsnAB7qZj7L) | [Punjab Vekh Ke \| Coke Studio Bharat](https://open.spotify.com/album/2k1RpCAJBFJO9aa9BgFBxA) | 3:53 | 2025-05-08 |  |

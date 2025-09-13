@@ -2,7 +2,7 @@
 
 ### [mint Canada](https://open.spotify.com/playlist/37i9dQZF1DXdIpacQDPDV5)
 
-> The best of today's dance hits\. Cover: Calvin Harris & Jessie Reyez
+> The best of today's dance hits\. Cover: Rezz
 
 1,812 songs - 4 day 6 hr 38 min
 

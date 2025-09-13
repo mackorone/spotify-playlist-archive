@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Özgün
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,533,526 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,533,674 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Her İki Durumda](https://open.spotify.com/track/0UCXX2vvVqhoFVdFL4XZa5) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Aerro](https://open.spotify.com/artist/1pJzB49ODjAOHUBRtKQK6A) | [Her İki Durumda](https://open.spotify.com/album/4O8buhpWrEtD6bvEeoGf8o) | 3:10 |
 | 2 | [Böyledir Benim Ayrılıklarım](https://open.spotify.com/track/1DWRHBlVULk2hFyqNBJMSq) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Böyledir Benim Ayrılıklarım](https://open.spotify.com/album/7hvVVsFw8TTy8dcESkq7kA) | 5:04 |
-| 3 | [YAPAR MISIN?](https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [YAPAR MISIN?](https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC) | 2:37 |
-| 4 | [Deli Bal](https://open.spotify.com/track/47Q1uW1QzKb5BwPeG37QTQ) | [Özgün](https://open.spotify.com/artist/2DJNQjrMqbyGFax9mgHm3f) | [Deli Bal](https://open.spotify.com/album/2rfmKxcGFWZRSm8b29oq64) | 3:04 |
+| 3 | [Deli Bal](https://open.spotify.com/track/47Q1uW1QzKb5BwPeG37QTQ) | [Özgün](https://open.spotify.com/artist/2DJNQjrMqbyGFax9mgHm3f) | [Deli Bal](https://open.spotify.com/album/2rfmKxcGFWZRSm8b29oq64) | 3:04 |
+| 4 | [YAPAR MISIN?](https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [YAPAR MISIN?](https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC) | 2:37 |
 | 5 | [Gelsen Ölür müsün?](https://open.spotify.com/track/0bsGav7YJae1SRnNKCOVxh) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B), [Hanao](https://open.spotify.com/artist/4GGm4WCSO8lXb4Z3YvoneL) | [Gelsen Ölür müsün?](https://open.spotify.com/album/7D2ZK58DhumOgvxo3pwIFV) | 3:23 |
 | 6 | [İnan Elimde Değil](https://open.spotify.com/track/5xEHCKRQMr43QHiPKuXYIY) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [İnan Elimde Değil](https://open.spotify.com/album/0Gb7WHfASUzgYwn7rAp5EY) | 3:16 |
 | 7 | [DEKOR](https://open.spotify.com/track/2Qukv7j4Miy71uOF2PAJXA) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [DEKOR](https://open.spotify.com/album/0ASHdhW7cRjY2z5wL6uUtJ) | 2:09 |

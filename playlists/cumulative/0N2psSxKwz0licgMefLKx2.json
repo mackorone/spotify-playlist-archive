@@ -3997,6 +3997,24 @@
     },
     {
       "album": {
+        "name": "Namin\u2019 Names",
+        "url": "https://open.spotify.com/album/5Kf8wyxTSEAbAmSBaQIcN6"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163638,
+      "name": "Namin\u2019 Names",
+      "url": "https://open.spotify.com/track/4ORhANtnChWYXj1aXPhQEm"
+    },
+    {
+      "album": {
         "name": "Neon Cowgirl",
         "url": "https://open.spotify.com/album/090hcRCJQ70C3TnLuSn6FG"
       },

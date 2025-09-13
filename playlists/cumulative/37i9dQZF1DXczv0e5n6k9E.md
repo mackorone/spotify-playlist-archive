@@ -4,7 +4,7 @@
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Ivan Greko, Trannos
 
-509 songs - 23 hr 31 min
+510 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [TIFFANY](https://open.spotify.com/track/01uZUp6CVnT0wXBebCJZlV) | [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [TIFFANY](https://open.spotify.com/album/7bZmIoJpx7T24YUWeUoYSz) | 2:31 | 2025-02-20 | 2025-06-27 |
 | [TIMIO KSYLO](https://open.spotify.com/track/4nPYK5p4lbh4OZFHiFvgkk) | [DJ Waif](https://open.spotify.com/artist/34E7XSYuJQGWpBlVQS0jkv), [Thitis](https://open.spotify.com/artist/2JQCG349xGvlhwEkK4qWoz), [INKA](https://open.spotify.com/artist/6dZKNyb9BRbax5HZUNsfka) | [TIMIO KSYLO](https://open.spotify.com/album/7wnB3WqKmitMqUuGOOS2YN) | 2:41 | 2025-04-24 | 2025-05-09 |
 | [TMC](https://open.spotify.com/track/3SHWhHNbN985xOYOsjBncJ) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [TMC](https://open.spotify.com/album/2e6sVmYoChoenjtWFbcxre) | 2:44 | 2024-07-25 | 2025-01-31 |
+| [To Deltio \- A COLORS SHOW](https://open.spotify.com/track/4W2lw91tvgia2PmT8ZGTl1) | [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [To Deltio \- A COLORS SHOW](https://open.spotify.com/album/3sK3Vcdr5xrywuSKYoCUNz) | 3:49 | 2025-09-11 |  |
 | [TOKAREV](https://open.spotify.com/track/103UeBr3kdzZcyUhcb72BU) | [Venom](https://open.spotify.com/artist/6CdAVuqNOSOZ9KsZXMZwFr), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [TOKAREV](https://open.spotify.com/album/7oSt8u5psAFkIlYyyjcCTO) | 3:19 | 2025-02-06 | 2025-03-28 |
 | [Toriko](https://open.spotify.com/track/0NQCWuZvutMqgjHocOTAUR) | [Kako](https://open.spotify.com/artist/4Dsd6cAcZNwLHc3Gjg59vO) | [MIA KOLASH ANTHIZEI STIN KARDIA SOY](https://open.spotify.com/album/68VJNEJxAamjOVoDs22mrR) | 3:15 | 2025-03-27 | 2025-04-18 |
 | [Tou Chelmou To Chioni](https://open.spotify.com/track/4EwpQXSCSGOxZt3NJO4kqo) | [TAF LATHOS](https://open.spotify.com/artist/5sMTmnLClGnDFZm4c1yjCP) | [O Kosmos Pos Allazei](https://open.spotify.com/album/3TMDuG2Bf9lWeWtsgIjJ8K) | 3:57 | 2024-09-12 | 2024-09-27 |

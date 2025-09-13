@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: Sjava",
+  "description": "Proudly Southern African Afropop gems. Cover: Vusi Nova",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -1968,6 +1968,28 @@
       "duration_ms": 250938,
       "name": "Black President (Brenda Fassie 60th Tribute)",
       "url": "https://open.spotify.com/track/2HAquNlzSJBEQpz4ZhATii"
+    },
+    {
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/3FUsw3tcGtqJboGJmyR92G"
+      },
+      "artists": [
+        {
+          "name": "Vusi Nova",
+          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
+        },
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273253,
+      "name": "Black Sweater",
+      "url": "https://open.spotify.com/track/3pdGzKXpQPLstXujPTZQg5"
     },
     {
       "album": {
@@ -13589,6 +13611,24 @@
     },
     {
       "album": {
+        "name": "Mkabayi Legacy",
+        "url": "https://open.spotify.com/album/4LljHF0vaVp6G5GLAgHDKD"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Qwana",
+          "url": "https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "Umendo 2",
+      "url": "https://open.spotify.com/track/144MjlSQzblBVzyGJtHK8o"
+    },
+    {
+      "album": {
         "name": "spy_da_man",
         "url": "https://open.spotify.com/album/5lXb8z5UIVu0usiRFgxhbQ"
       },
@@ -14392,7 +14432,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 324000,
       "name": "Uvalo",
       "url": "https://open.spotify.com/track/3H8XWGDteOl8nmUqeYrHw5"

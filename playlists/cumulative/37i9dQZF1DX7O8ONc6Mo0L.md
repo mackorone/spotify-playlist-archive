@@ -4,7 +4,7 @@
 
 > Relaxe com hinos acústicos\. Foto: Fernandinho
 
-167 songs - 12 hr 23 min
+168 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Falar Com Deus \- Faixa Bônus](https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [On Tape \(Ao Vivo\)](https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL) | 3:48 | 2022-09-02 |  |
 | [Faz Chover \- Acústica](https://open.spotify.com/track/5FPjAIOZoxboGvYkr7eawZ) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Série Acústica Com Fernandinho, Vol\. 3 \(Acústico\)](https://open.spotify.com/album/461uxJ7Fk4jjJ1q8gYo16L) | 3:54 | 2022-09-02 |  |
 | [Ficar Aqui](https://open.spotify.com/track/1rRyqNPnozrr5wLEjrnoF1) | [Igor Felix](https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud) | [Nossa História, Pt\. 1](https://open.spotify.com/album/3lS2E1CMUjTCUERCaEjDoE) | 5:27 | 2024-08-30 |  |
-| [Ficarei Aqui \- Acústico](https://open.spotify.com/track/59ipGli2xXjxfvQAS82cyD) | [Lorhann](https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ) | [Ficarei Aqui \(Acústico\)](https://open.spotify.com/album/1xh3s0d92kE7lKXCNCQ1zL) | 1:49 | 2024-08-16 |  |
+| [Ficarei Aqui \- Acústico](https://open.spotify.com/track/59ipGli2xXjxfvQAS82cyD) | [Lorhann](https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ) | [Ficarei Aqui \(Acústico\)](https://open.spotify.com/album/1xh3s0d92kE7lKXCNCQ1zL) | 1:49 | 2024-08-16 | 2025-09-13 |
 | [Florescer](https://open.spotify.com/track/0YukDUvWMxW2FPuceeTNT0) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Jacqueline Palheiro](https://open.spotify.com/artist/0KsrPvrENzZp3EvN3YAi9w) | [Florescer](https://open.spotify.com/album/1JlMVDkzH54t0v8kz148LG) | 6:20 | 2023-12-22 |  |
 | [Formoso És \- Acústico](https://open.spotify.com/track/3aEqPmCyU6HaoVmtrsmFCa) | [Dunamis Music](https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce), [Rapha Gonçalves](https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui) | [Formoso És \(Acústico\)](https://open.spotify.com/album/3VrYf1WUs45obGKYZzUb70) | 4:38 | 2023-05-26 |  |
 | [Grande É o Senhor](https://open.spotify.com/track/5kRbuUv8904cbMwhGmQsE3) | [Bereia Music](https://open.spotify.com/artist/2uylz2eDUc2XW6eFWoR3N4), [Lucas Goes](https://open.spotify.com/artist/6FS6gCbdyM0guva0tNopay) | [Grande É o Senhor](https://open.spotify.com/album/3w8C9IwPG42g22aOFflszr) | 4:13 | 2024-04-26 |  |
@@ -145,6 +145,7 @@
 | [Primeiro Amor \- Acústico](https://open.spotify.com/track/7Ez77DgeaCrCgtbsTidmYg) | [Lincoln Baena](https://open.spotify.com/artist/5Y9gRv6jhlSzK4IVpSHp57), [Adelso Freire](https://open.spotify.com/artist/1ppkWLi1n5n1lIbp1I95i5) | [Primeiro Amor \(Acústico\)](https://open.spotify.com/album/5936MSabTVIlGYX5nVkoID) | 4:06 | 2022-09-02 | 2022-09-20 |
 | [Promessa \- Ao Vivo](https://open.spotify.com/track/1FOrlR1cxL3edaOIoH4uVn) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Promessa \(Ao Vivo\)](https://open.spotify.com/album/4exZVjNV5GZpCJa8iMVSgT) | 4:16 | 2023-04-15 |  |
 | [Prossiga](https://open.spotify.com/track/3BXyIobmrRSKBluqalspMi) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Prossiga](https://open.spotify.com/album/4fY5eKN9tjRUnQTGO1zTs1) | 5:07 | 2022-09-02 | 2023-06-17 |
+| [Pés Descalços \- Acústico](https://open.spotify.com/track/4VOsJRyiADQaROG2e6NZyL) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Pés Descalços \(Acústico\)](https://open.spotify.com/album/7i50ZWb0o1IlMBpJl4x57G) | 7:23 | 2025-09-12 |  |
 | [Quanto Amor \- Acústico](https://open.spotify.com/track/4oTqFJc5YtuYNNM5VsgkKT) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Quanto Amor \(Acústico\)](https://open.spotify.com/album/7nwC2hRmSCpMHwLBGfcmyL) | 4:12 | 2023-05-19 | 2023-12-23 |
 | [Quem Sou](https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK) | [PEDRAZUL](https://open.spotify.com/artist/5A2Slemy1IuX9KdV8xjCfA), [Antônio](https://open.spotify.com/artist/3XlPRhG9w1NMCPvS1f4dW5), [Jaqueline Nobre](https://open.spotify.com/artist/4Ho1MOw0lfdAfXvH4DVJXd) | [Quem Sou](https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj) | 4:30 | 2022-09-02 |  |
 | [Quem Te Guarda É Deus](https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Quem Te Guarda É Deus](https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h) | 3:13 | 2023-11-24 |  |

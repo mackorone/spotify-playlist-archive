@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 ### [Indie Brandneu](https://open.spotify.com/playlist/37i9dQZF1DX8hcTuUCeYxa)
 
-> Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Von Wegen Lisbeth
+> Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Parcels
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,152 likes - 90 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,181 likes - 90 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 3 | [Darling](https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Darling](https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k) | 3:30 |
 | 4 | [Hyperempathy](https://open.spotify.com/track/1D7ASVeI5JH1CuvSnr7ynJ) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hyperempathy](https://open.spotify.com/album/0PjU3db8WuVPEsoYzdiyil) | 4:39 |
 | 5 | [Camouflage](https://open.spotify.com/track/2a8mqTYjErkuGZXvyu4wYV) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape III](https://open.spotify.com/album/2msYWXAkZvkbOBUHLs3QcM) | 2:25 |
-| 6 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [](https://open.spotify.com/album/null) | 4:06 |
-| 7 | [neon screen](https://open.spotify.com/track/5HjsrEbtv8IzUdVd9l8iYS) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [](https://open.spotify.com/album/null) | 3:19 |
+| 6 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 |
+| 7 | [neon screen](https://open.spotify.com/track/5HjsrEbtv8IzUdVd9l8iYS) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [3](https://open.spotify.com/album/5C6Wc2061ThnQWSrWx1skr) | 3:19 |
 | 8 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 |
 | 9 | [Very Far Away](https://open.spotify.com/track/0q9CqWspKpvVkH5OKTbgRS) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Very Far Away EP](https://open.spotify.com/album/37RdgI61BvnCrNqXIUT6zC) | 3:42 |
 | 10 | [Hinge](https://open.spotify.com/track/115eVVoPwI1MnXrEA0IEYv) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Hinge](https://open.spotify.com/album/07X1z4tHWK9GCMsOWvIcKV) | 2:40 |
@@ -24,21 +24,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 14 | [Concrete Pool](https://open.spotify.com/track/7KuQSfbM0uxBhD59u2hZKY) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Concrete Pool](https://open.spotify.com/album/21jS8YMEUu56F4CgGcGjMd) | 2:52 |
 | 15 | [Inefficient Love](https://open.spotify.com/track/5Bf91qvflBGAAyCChcvO8o) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Inefficient Love](https://open.spotify.com/album/3nrboAgmwjsaYkhhubeX2c) | 3:43 |
 | 16 | [Sick Surrounding](https://open.spotify.com/track/7LDa6AihhhXV427DbgTJXT) | [Anna Wydra](https://open.spotify.com/artist/1KPslttsLzdof3L6ud4prw) | [Sick Surrounding](https://open.spotify.com/album/2LMiwETAAcFvBR234oGpWu) | 3:09 |
-| 17 | [Love Language](https://open.spotify.com/track/20vI6DliSLYWeHNWnD8tee) | [Power Plush](https://open.spotify.com/artist/5oFIcDSdVrn8T3Ldes4Ebn) | [](https://open.spotify.com/album/null) | 2:56 |
+| 17 | [Love Language](https://open.spotify.com/track/20vI6DliSLYWeHNWnD8tee) | [Power Plush](https://open.spotify.com/artist/5oFIcDSdVrn8T3Ldes4Ebn) | [Love Language](https://open.spotify.com/album/7HebsgkkOwtksiXlHGhn9O) | 2:56 |
 | 18 | [Back to the Wind](https://open.spotify.com/track/3PppWqmsD5jpwWBfOM4YNM) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Back to the Wind](https://open.spotify.com/album/3sBwfhCWBnVzbY5qynudYT) | 3:20 |
 | 19 | [I Want to Know What Love Is](https://open.spotify.com/track/3N2sOLpwv49A4lYrzb2nsO) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [I Want to Know What Love Is](https://open.spotify.com/album/1gIxvP2jqMuGavn5jEJ3Dc) | 4:17 |
-| 20 | [Diamonds](https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [](https://open.spotify.com/album/null) | 3:21 |
+| 20 | [Diamonds](https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood](https://open.spotify.com/album/3UtLsPn5V412E1SeqzFOP2) | 3:21 |
 | 21 | [Waiting For Love](https://open.spotify.com/track/7faBDPpACK6D31VqvnmeQs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Waiting For Love](https://open.spotify.com/album/5UmQZch97gF84AIdhkRBqI) | 4:29 |
 | 22 | [Carry The Name](https://open.spotify.com/track/51KMcWr99QkVAlfEQgIytv) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Carry The Name](https://open.spotify.com/album/2o3HyMAeoX9Xj5mBxkFIj4) | 2:27 |
 | 23 | [Mr\. Plastic](https://open.spotify.com/track/6spcrcdCq4lcRnYVkhVQRb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Mr\. Plastic](https://open.spotify.com/album/0AvBXxggtjAbVknmfvDegZ) | 2:11 |
 | 24 | [Wait for Us](https://open.spotify.com/track/0lir9OdRmDLnBAdeV23Bkt) | [HAERTS](https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt) | [Wait for Us](https://open.spotify.com/album/03KqeYKaOEMf4vGNRER7ut) | 3:51 |
 | 25 | [Promiser](https://open.spotify.com/track/7vK4lAkzM3reaTh8UcfmgA) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Promiser](https://open.spotify.com/album/7s1GuSRgmDr35au0jkWYNp) | 3:53 |
 | 26 | [SOUP](https://open.spotify.com/track/0SvMadVyJtyLNwHgbBUi78) | [Nik Dandelion](https://open.spotify.com/artist/5SrhFOt282uZjwSYWo71ds) | [SOUP](https://open.spotify.com/album/7ssKOLcgjZyhYkylY1aohJ) | 1:29 |
-| 27 | [Petals](https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [](https://open.spotify.com/album/null) | 2:53 |
+| 27 | [Petals](https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 2:53 |
 | 28 | [Euphoria](https://open.spotify.com/track/1DGhpBes6fYtNZNMublX4f) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Euphoria](https://open.spotify.com/album/2dA7szXHLZJOWupblsLyIi) | 3:06 |
 | 29 | [Visions](https://open.spotify.com/track/7MWUwFDk7QGvEUS3rMyXGw) | [Almost Twins](https://open.spotify.com/artist/7xe5zbkg4tKrRQAAmscgQg) | [Visions](https://open.spotify.com/album/4Y4NgbcJ03QcwEyD1XB2f8) | 4:08 |
 | 30 | [Flat Tire Ride](https://open.spotify.com/track/7ig17MWSf7vdRzcLZwuMIQ) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [Flat Tire Ride](https://open.spotify.com/album/3fsHk7lqp1YTBLmGR1kC3t) | 2:46 |
-| 31 | [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [](https://open.spotify.com/album/null) | 2:30 |
+| 31 | [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:30 |
 | 32 | [Each Sun Casts a Shadow](https://open.spotify.com/track/3HsiPW3eGKPHQNetD75Tem) | [Andrina Bollinger](https://open.spotify.com/artist/2q3FpbEgilJkxSn0e5B5xp) | [Each Sun Casts a Shadow](https://open.spotify.com/album/0iTkxE4wugRapDJpPFfGpN) | 3:41 |
 | 33 | [There’s No More Underground](https://open.spotify.com/track/3FRVbgqA7pVAJ0VBnXsrIK) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [There’s No More Underground](https://open.spotify.com/album/5euflJlUQaylKswQycK6oS) | 2:14 |
 | 34 | [Wenn es Liebe ist](https://open.spotify.com/track/1VCcvsu9QPULeJ1lExUFsY) | [Die Sterne](https://open.spotify.com/artist/7hVoi7crxYOHIayk4v9x4Q) | [Wenn es Liebe ist](https://open.spotify.com/album/2yYbECnKnA6HmFstRIKCw8) | 2:46 |

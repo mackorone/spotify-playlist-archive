@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UlNQ36OjFp.md) - [plain]
 
 > <a href="spotify:artist:2Yz9F5lQVc0p6SDxkw2BvF">ZULAN</a>'s favorite tracks\. Updated regularly\. Curated by ZULAN\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,188 likes - 22 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,209 likes - 22 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

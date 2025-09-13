@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "La nueva ola de trovadores del siglo XXI. En portada: Juana Aguirre.",
+  "description": "La nueva ola de trovadores del siglo XXI. En portada: Vicente Navarro.",
   "name": "Cancionistas",
   "tracks": [
     {
@@ -648,6 +648,24 @@
       "duration_ms": 210487,
       "name": "Aire",
       "url": "https://open.spotify.com/track/2MDgD7iAVZNPT0hHffWYYT"
+    },
+    {
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/6yqNx1ROZUgdP3YeLj028W"
+      },
+      "artists": [
+        {
+          "name": "Lucia De la Puerta",
+          "url": "https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/33YIXkbueflRjBkxDAHZwo"
     },
     {
       "album": {
@@ -1536,6 +1554,28 @@
       "duration_ms": 201428,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/5sAZO2RSyywOcDXO2y8d9G"
+    },
+    {
+      "album": {
+        "name": "Ausencia presente",
+        "url": "https://open.spotify.com/album/2wxa7NqmCB6cd8yjKiVloI"
+      },
+      "artists": [
+        {
+          "name": "Kike M",
+          "url": "https://open.spotify.com/artist/03V1FJKRO1ZPrdA8zLxFu9"
+        },
+        {
+          "name": "Zarzamora",
+          "url": "https://open.spotify.com/artist/1x4wu27lR2ffQJAcPbJA7l"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180818,
+      "name": "Ausencia presente",
+      "url": "https://open.spotify.com/track/3ZBpqGATfuTDoJOHMQJELG"
     },
     {
       "album": {
@@ -3119,6 +3159,24 @@
     },
     {
       "album": {
+        "name": "Collar",
+        "url": "https://open.spotify.com/album/1RrDIJxt64MMRhJ6c2uPIb"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ares",
+          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346500,
+      "name": "Collar",
+      "url": "https://open.spotify.com/track/2pTybbfIVMwtgQNArFb1ca"
+    },
+    {
+      "album": {
         "name": "Comando Antivand\u00e1lico, Pero Violento",
         "url": "https://open.spotify.com/album/19FKHlGrl68xlfNDuo9k8x"
       },
@@ -3236,6 +3294,24 @@
       "duration_ms": 208308,
       "name": "Como Un P\u00e1jaro",
       "url": "https://open.spotify.com/track/4zVznkVDNdQNnXsj058THT"
+    },
+    {
+      "album": {
+        "name": "Como una Ola",
+        "url": "https://open.spotify.com/album/4nYNOMkB5h9IkZE2qOywHL"
+      },
+      "artists": [
+        {
+          "name": "Inbal Comedi",
+          "url": "https://open.spotify.com/artist/3TXSj7UeT47TDTYwnr9RnV"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232484,
+      "name": "Como una Ola",
+      "url": "https://open.spotify.com/track/3Vf1VfLg0RbY7pXF6s6tdL"
     },
     {
       "album": {
@@ -4137,6 +4213,24 @@
     },
     {
       "album": {
+        "name": "demo linda",
+        "url": "https://open.spotify.com/album/3td3E7EQmVLVCIwKOSLOSO"
+      },
+      "artists": [
+        {
+          "name": "agosto",
+          "url": "https://open.spotify.com/artist/0WSxxeaRyEijDqsE2TziXK"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "demo linda",
+      "url": "https://open.spotify.com/track/3Ug2psiYdvDQLDdLsBzTFa"
+    },
+    {
+      "album": {
         "name": "Dentro del Armario (Turisme Per la Mem\u00f2ria)",
         "url": "https://open.spotify.com/album/2cGtXj8RUlnouClzRfzi6t"
       },
@@ -4250,7 +4344,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 252496,
       "name": "Desde Ac\u00e1",
       "url": "https://open.spotify.com/track/5bJvfOO8J3ay2XTXa5FUUP"
@@ -5034,7 +5128,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 225000,
       "name": "El Estallido",
       "url": "https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB"
@@ -6395,6 +6489,24 @@
     },
     {
       "album": {
+        "name": "Ga\u00f1anada",
+        "url": "https://open.spotify.com/album/4S3u2H6WZipWIvodUYRZam"
+      },
+      "artists": [
+        {
+          "name": "Vicente Navarro",
+          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156338,
+      "name": "Ga\u00f1anada",
+      "url": "https://open.spotify.com/track/01hFvT4TVUcskqsHNnXf44"
+    },
+    {
+      "album": {
         "name": "Gigante",
         "url": "https://open.spotify.com/album/6QMUy7rnNwnnbw0lW9faxW"
       },
@@ -7372,7 +7484,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 175642,
       "name": "la corriente",
       "url": "https://open.spotify.com/track/0ba2ivMbQf3VC62yseBbRO"
@@ -7692,6 +7804,24 @@
       "duration_ms": 193838,
       "name": "La LLorona (A Guitarra y Voz Desde Casa)",
       "url": "https://open.spotify.com/track/2O3GGAQw18PISYdsx4aaBk"
+    },
+    {
+      "album": {
+        "name": "La Maleza",
+        "url": "https://open.spotify.com/album/3eG2CiXR8IGinvyvOXFh8A"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Bird",
+          "url": "https://open.spotify.com/artist/1DbosGATEZmWSixTqlGPUh"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244829,
+      "name": "La maleza",
+      "url": "https://open.spotify.com/track/1OcthnIlVcqN6Tqlvcz2Ny"
     },
     {
       "album": {
@@ -8856,7 +8986,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 186181,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
@@ -9511,6 +9641,24 @@
     },
     {
       "album": {
+        "name": "Me estoy contradiciendo",
+        "url": "https://open.spotify.com/album/08CPwQOoHuZBjmImnDQ4wq"
+      },
+      "artists": [
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217750,
+      "name": "Me estoy contradiciendo",
+      "url": "https://open.spotify.com/track/29KeBbRfHKiZpKRi4lzsCJ"
+    },
+    {
+      "album": {
         "name": "Me Fui",
         "url": "https://open.spotify.com/album/1j7caKPPkCC1VUPChrAjmM"
       },
@@ -9598,7 +9746,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 244636,
       "name": "Me mudo de casa",
       "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
@@ -11336,7 +11484,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 170750,
       "name": "Noviembre",
       "url": "https://open.spotify.com/track/4uDVKfmJ8cnn63O5V8ZKeq"
@@ -14254,7 +14402,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 165546,
       "name": "Se va",
       "url": "https://open.spotify.com/track/0ASnHQcC2WH7cxzVuuyd3R"
@@ -15783,6 +15931,24 @@
     },
     {
       "album": {
+        "name": "To electrRrocutao",
+        "url": "https://open.spotify.com/album/116O2YcqDMazBUCzMx9RwV"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Vidanauta",
+          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257738,
+      "name": "To electrRrocutao",
+      "url": "https://open.spotify.com/track/2bAxqjRnfA53FBeX16Z2cK"
+    },
+    {
+      "album": {
         "name": "Toca",
         "url": "https://open.spotify.com/album/1GOEHy8QMoN1SaZa6yl7Zs"
       },
@@ -15856,7 +16022,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 180250,
       "name": "Todas Las Banderas (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/0GE2jclS5RVs3SDV5MZJK3"
@@ -16083,6 +16249,28 @@
     },
     {
       "album": {
+        "name": "Tonada del bosque",
+        "url": "https://open.spotify.com/album/26JTN2p6eQGpvj12U2QWMK"
+      },
+      "artists": [
+        {
+          "name": "Alberto & Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5BKyujkSrDiZtHyRGtVJx6"
+        },
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213546,
+      "name": "Tonada del bosque",
+      "url": "https://open.spotify.com/track/5ztOwpKs9yiV11RL31DPwQ"
+    },
+    {
+      "album": {
         "name": "an\u00f3nimo",
         "url": "https://open.spotify.com/album/6oC9BCN4OyTRRi0S9H4n9Y"
       },
@@ -16094,7 +16282,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 129500,
       "name": "TORMENTA",
       "url": "https://open.spotify.com/track/3tWNKBef2ko1QKViQsQMEv"
@@ -16282,7 +16470,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 169412,
       "name": "Tu casa",
       "url": "https://open.spotify.com/track/4sZfAbGlXcNnDCbf7PmTHx"
@@ -17419,6 +17607,28 @@
     },
     {
       "album": {
+        "name": "Vos",
+        "url": "https://open.spotify.com/album/0H5BnWQZyob5gORyrods7t"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198157,
+      "name": "Vos",
+      "url": "https://open.spotify.com/track/2d7QcFbqo7AfLLnHRmbqrn"
+    },
+    {
+      "album": {
         "name": "Vidas",
         "url": "https://open.spotify.com/album/18hCohjBmXY0XoQDZNZOB4"
       },
@@ -17532,7 +17742,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 195250,
       "name": "Wish you well - Live at Bridge 48",
       "url": "https://open.spotify.com/track/6GEx8nxl4n9N8JoMrF8lK9"

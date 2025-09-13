@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: Qlas
 
-128 songs - 5 hr 44 min
+128 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,8 +119,8 @@
 | [Theezakjes](https://open.spotify.com/track/1DhmAP6wzyk83oSu9aCfV8) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Theezakjes](https://open.spotify.com/album/7oQovlHX14Tuu4x8MGbxeJ) | 2:04 | 2025-07-24 | 2025-09-07 |
 | [Tiffany](https://open.spotify.com/track/1h6tEGvt21f6TrGxjJ7RWJ) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Tiffany](https://open.spotify.com/album/7IXEhlp1q2hUAPEjKFqTZ3) | 2:27 | 2025-08-04 | 2025-08-29 |
 | [TOXIC](https://open.spotify.com/track/02SkhSShsYpPPAmqwdJi6B) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2), [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [TOXIC](https://open.spotify.com/album/7DWEu6Ka60yycvREDE9XLG) | 3:15 | 2025-07-17 | 2025-08-15 |
-| [Track 1](https://open.spotify.com/track/5mnKGcQAPxt7YPJpf28gMo) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-11 |  |
 | [Trendsetter](https://open.spotify.com/track/1hEc7w72T66QCtN6AbVa2R) | [Elliven](https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu) | [Trendsetter](https://open.spotify.com/album/4NufF0Z58ZQYF7S61NO6LI) | 2:42 | 2025-07-17 | 2025-08-15 |
+| [Turks & Caicos](https://open.spotify.com/track/5mnKGcQAPxt7YPJpf28gMo) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Turks & Caicos](https://open.spotify.com/album/3fjKPy78dV3A9HzZ2QcUZb) | 1:48 | 2025-09-11 |  |
 | [Uomini d’Onore](https://open.spotify.com/track/6cpG23bMKBRor5ZPBTxIRS) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [Heinek'n](https://open.spotify.com/artist/5ed6V9Y0zJ86tgeKvgDRKo) | [Rozengeur & Bloedsporen](https://open.spotify.com/album/0YG1mRrVCLpN3EfLbrW2Og) | 2:54 | 2025-08-28 |  |
 | [Vdv](https://open.spotify.com/track/6qB66SFVZSTTWlWT8POSlM) | [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [RResstante](https://open.spotify.com/artist/2VBibXVmZwmvX8tn3maHMC), [Gettalot](https://open.spotify.com/artist/3Ah2w3vVoguN5RdBDeyXPc), [Fearblow](https://open.spotify.com/artist/35xHCzQHAXuCWut0PxO793) | [Noéden](https://open.spotify.com/album/1v80U9kA5nNBvJXlCQbEFW) | 3:31 | 2025-08-14 |  |
 | [Vertrouwen In Mij](https://open.spotify.com/track/5nZImbRFbiYuNZu8Zc3grD) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Rozengeur & Bloedsporen](https://open.spotify.com/album/0YG1mRrVCLpN3EfLbrW2Og) | 3:33 | 2025-08-28 |  |

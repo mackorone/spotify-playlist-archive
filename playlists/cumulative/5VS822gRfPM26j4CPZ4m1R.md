@@ -4,7 +4,7 @@
 
 > Playlist
 
-606 songs - 1 day 11 hr 52 min
+607 songs - 1 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -605,6 +605,7 @@
 | [Working On Me](https://open.spotify.com/track/0yr2LoaiGP3gtZFKnZlC6i) | [Winter McQuinn](https://open.spotify.com/artist/6I0liQbFH687PhtMjQ4WMK), [Acacia Pip](https://open.spotify.com/artist/0nMxJkBFGCbCJfhDUKUY7V) | [Recently I've Been Missing The Colour Green](https://open.spotify.com/album/5VUIJqVSg5k9dsxUEIbhfE) | 2:47 | 2024-11-27 |  |
 | [You](https://open.spotify.com/track/7l4PFwUqgzpWGxI485kAnt) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [You](https://open.spotify.com/album/36Tr7KWXXHVOf8iiMUpXxS) | 2:38 | 2023-10-25 |  |
 | [You](https://open.spotify.com/track/4pyR2RnK5A5vryIgQOcGis) | [Sebastian Roca](https://open.spotify.com/artist/4axhTQXDTfbRk7FZe2tsTF) | [Parkview Demos](https://open.spotify.com/album/3Vgnh06FtxYOsr1zkFwVu2) | 4:52 | 2023-10-25 |  |
+| [You And I](https://open.spotify.com/track/7jwJMpWbCm9SPrV6dqvAc7) | [Grayson Hamm](https://open.spotify.com/artist/1zQbqJWYcdrVXef2iatspr) | [You And I](https://open.spotify.com/album/7uplgyK0NYSBM0vtLK4BIE) | 2:16 | 2025-09-12 |  |
 | [You and Me](https://open.spotify.com/track/3hv0c9crZAmWBqGxhDkuYF) | [Butter Bath](https://open.spotify.com/artist/5iZ8TjSyYZoBSmVSZRIJjg) | [You and Me](https://open.spotify.com/album/01OtjntAAs5CH0j9De639T) | 3:19 | 2023-10-25 |  |
 | [You and Me](https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [You and Me](https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ) | 3:45 | 2023-10-25 |  |
 | [You'll Find Me, Beija Flor](https://open.spotify.com/track/0IKMFgKDBT30zUrFALNADs) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM), [Butter Bath](https://open.spotify.com/artist/5iZ8TjSyYZoBSmVSZRIJjg) | [You'll Find Me, Beija Flor](https://open.spotify.com/album/28Fx2k4sZECLvDTgjh1dpT) | 4:23 | 2023-10-25 |  |

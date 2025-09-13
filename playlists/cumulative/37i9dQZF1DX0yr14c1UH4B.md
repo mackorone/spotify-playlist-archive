@@ -4,7 +4,7 @@
 
 > Listen with intention 📝 Cover: Ed Sheeran
 
-528 songs - 1 day 5 hr 34 min
+528 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Don't Wanna Take It Slow](https://open.spotify.com/track/3p8oeg4lwleZwm0TygNK4A) | [Persia Holder](https://open.spotify.com/artist/3b6h32F8106P4eodXJHhmd) | [I Didn't Think You'd Hear This](https://open.spotify.com/album/65Pj7sMtNINA7kWqzqbOpi) | 3:14 | 2025-07-17 |  |
 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 | 2025-04-24 | 2025-05-16 |
 | [downward spiral](https://open.spotify.com/track/41NLDchtPOKKkSCKtoygBI) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [downward spiral](https://open.spotify.com/album/6B4BCGkmYIQwEjWkV8TybZ) | 2:25 | 2025-04-10 | 2025-05-10 |
+| [Drawing The Line](https://open.spotify.com/track/51XB92eK6Fw4BzJXMUGg5e) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Exodus](https://open.spotify.com/album/1HyKIoWfCYdkvI6L0pD79O) | 3:08 | 2025-09-11 |  |
 | [Dream Police](https://open.spotify.com/track/2zyodCmgNx5slEG5tOlXX2) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Dream Police](https://open.spotify.com/album/4tZDDiPikDegR9qbqagDBF) | 3:10 | 2025-05-29 | 2025-08-29 |
 | [Dream Woman](https://open.spotify.com/track/5R6hCi9TVatMsM0UNqhZKA) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Dream Woman](https://open.spotify.com/album/6bbtoTI64tkjiOkDNTteig) | 4:08 | 2025-03-07 | 2025-03-21 |
 | [Dreaming](https://open.spotify.com/track/14uRu4FrDuBKrd4PEwc8ha) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/3uoFn9YXRikta2GkvMXoR7) | 3:28 | 2024-05-31 | 2024-08-17 |
@@ -130,7 +131,7 @@
 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 | 2025-07-17 |  |
 | [Everything Is Grey](https://open.spotify.com/track/2qqXXdxpr1cxuDxEPrp3uX) | [Ellie Nanni](https://open.spotify.com/artist/3spMydBaIHg5DCbXY8tDqc) | [You weren't supposed to stop listening](https://open.spotify.com/album/0d3Zp2vTnNUACGPow1nvgS) | 3:52 | 2025-04-24 | 2025-06-20 |
 | [Faithless](https://open.spotify.com/track/768a7GSLHgCj4DxvT830mT) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [Faithless / Zombie](https://open.spotify.com/album/6OkJDLKDLH070r4A5DMprA) | 2:28 | 2025-06-12 | 2025-08-08 |
-| [Fall In Your Arms](https://open.spotify.com/track/0Ak2IuK7Xk29NAEJDerJE9) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [](https://open.spotify.com/album/null) | 3:38 | 2025-09-11 |  |
+| [Fall In Your Arms](https://open.spotify.com/track/0Ak2IuK7Xk29NAEJDerJE9) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [JAMES.](https://open.spotify.com/album/2Qne4lCCAtu1lAVikGk5UY) | 3:38 | 2025-09-11 |  |
 | [Fall on Me](https://open.spotify.com/track/10wIeKaNvOaUgvzUUfwu7L) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Fall on Me](https://open.spotify.com/album/3WFSscg1CmMws760Eir9Ot) | 3:36 | 2025-03-07 | 2025-04-04 |
 | [Falling Deep](https://open.spotify.com/track/55u8ATvEGWOBIb4vY81OgP) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Falling Deep](https://open.spotify.com/album/7kMyLSuFjj6zudrTaYRfG2) | 3:08 | 2024-05-31 | 2024-07-27 |
 | [Fame Won’t Love You \(feat\. Paris Hilton\)](https://open.spotify.com/track/7h2FujO8auY7s0hD4SCtZ4) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Fame Won’t Love You \(feat\. Paris Hilton\)](https://open.spotify.com/album/7iRrjlIP9COrhuNaX65WZb) | 3:19 | 2024-05-31 | 2024-09-14 |
@@ -213,7 +214,7 @@
 | [I Tried So Hard To Disappear](https://open.spotify.com/track/17xVfDzVQYIKtX7BVuG3xN) | [Chloe Foy](https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa) | [I Tried So Hard To Disappear](https://open.spotify.com/album/5agZkd7lVfm5rH1qybUt7H) | 4:05 | 2025-04-10 | 2025-05-03 |
 | [I Wanna Be Loved \(Just A Little Better\)](https://open.spotify.com/track/1KwZQmJ03PN3hye7NF4iiA) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [I Wanna Be Loved \(Just A Little Better\)](https://open.spotify.com/album/57QKPE7R7BYQ29aX0npMIg) | 3:08 | 2024-07-26 | 2024-08-17 |
 | [I Wanna Be Loved By You](https://open.spotify.com/track/18gnbzwrQjunR6kpaTJp6F) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [I Got Too Sad For My Friends](https://open.spotify.com/album/2PTF4EW8kJIeib3cQ87lJk) | 3:03 | 2025-05-29 | 2025-08-15 |
-| [I Wonder](https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [](https://open.spotify.com/album/null) | 2:55 | 2025-09-11 |  |
+| [I Wonder](https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [East Of The Sun](https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL) | 2:55 | 2025-09-11 |  |
 | [I'll Wait](https://open.spotify.com/track/30eT8RRHMc5HGH2V6y9AJE) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [I'll Wait](https://open.spotify.com/album/6gt3DjmYBwX5PiDI6uhYiC) | 3:14 | 2025-08-07 | 2025-09-05 |
 | [I'm Done \(Games That You Play\)](https://open.spotify.com/track/3CU0zRaHMAbPR66sCS4SVC) | [Amy Macdonald](https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH) | [Is This What You've Been Waiting For?](https://open.spotify.com/album/5ejJPbIGRno4cbZFz08bik) | 3:03 | 2025-07-10 |  |
 | [I'm Here Now](https://open.spotify.com/track/2bcw9gsRf5ijZDnn2z2qU7) | [Bea Elmy Martin](https://open.spotify.com/artist/3Z3GDBp8qms6GCTWZlBA3M) | [I'm Here Now](https://open.spotify.com/album/2wwnEl5h6TsOoI2jTxv72d) | 4:23 | 2025-03-21 | 2025-04-18 |
@@ -284,7 +285,7 @@
 | [Me & You](https://open.spotify.com/track/4mSfyqUcjl0Zwb2YWYohyO) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Me & You](https://open.spotify.com/album/4wTcGH918lQogI7Tyz7hEx) | 2:47 | 2025-05-15 | 2025-07-18 |
 | [Migraine](https://open.spotify.com/track/2ehmpUPDLlM1zhJtdDb6vl) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Migraine](https://open.spotify.com/album/0iokJoz4Ykss9l7uZwhxHa) | 3:28 | 2025-08-29 |  |
 | [Miles](https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Miles](https://open.spotify.com/album/5NTwzn0gyfspqs0CgRXAnK) | 2:35 | 2025-02-28 | 2025-03-28 |
-| [Miss Missing You](https://open.spotify.com/track/40uLTiiVwQh3XjU778akBx) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA) | [Miss Missing You](https://open.spotify.com/album/6j9THPoE3D5h0Dg5ZPTeTS) | 3:14 | 2025-09-04 |  |
+| [Miss Missing You](https://open.spotify.com/track/40uLTiiVwQh3XjU778akBx) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA) | [Miss Missing You](https://open.spotify.com/album/6j9THPoE3D5h0Dg5ZPTeTS) | 3:15 | 2025-09-04 |  |
 | [More Than A Feeling](https://open.spotify.com/track/1AgcC6Xyhp5gw0BnedjCJh) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [More Than A Feeling](https://open.spotify.com/album/1uJzTlXwEwWwo30TWER0ms) | 2:47 | 2025-04-03 | 2025-05-03 |
 | [More to Lose](https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [More to Lose](https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc) | 4:35 | 2025-05-09 | 2025-07-25 |
 | [Mr\. Eclectic](https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:35 | 2025-08-22 |  |
@@ -475,7 +476,6 @@
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-05-31 | 2025-01-31 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-03-08 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-07-11 |
-| [Track 4](https://open.spotify.com/track/51XB92eK6Fw4BzJXMUGg5e) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-11 |  |
 | [Trap Door](https://open.spotify.com/track/2YmU8nq1nHFrRLJTOonDC2) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Gumshoe](https://open.spotify.com/album/4RtdIqhVWgQ2moLXF9yooo) | 2:27 | 2025-05-02 | 2025-05-23 |
 | [Treehouse Wings](https://open.spotify.com/track/4iiiQSCFi5y1B1agejyqg3) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Treehouse Wings](https://open.spotify.com/album/22KFaK3JsMm2FTCN0SpRoF) | 3:19 | 2025-05-02 | 2025-05-23 |
 | [Try Me](https://open.spotify.com/track/7rO7QXBRq8Ka9bgs8pVaBr) | [Ava Joe](https://open.spotify.com/artist/1kExWfjjFzo8vNlmtBjCdj) | [Try Me](https://open.spotify.com/album/3MEkYRv9qRdxGi03qKkFh6) | 2:29 | 2025-05-09 | 2025-05-16 |

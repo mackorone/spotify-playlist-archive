@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Kassa Overall
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,195 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,203 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NUTHIN BUT A “G” THANG](https://open.spotify.com/track/2bnWiqPqZM80JiXz0n3hUK) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [](https://open.spotify.com/album/null) | 4:58 |
+| 1 | [NUTHIN BUT A “G” THANG](https://open.spotify.com/track/2bnWiqPqZM80JiXz0n3hUK) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [CREAM](https://open.spotify.com/album/65GIBuA6SrrV8pfjbcgtw7) | 4:58 |
 | 2 | [Outside](https://open.spotify.com/track/2EQ0pVG4H8m9pBGtZgkzwF) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [The Eternal Now](https://open.spotify.com/album/1cTZwsdZutzwt8nGvwTOYA) | 5:15 |
 | 3 | [my friend](https://open.spotify.com/track/3uWcSECdnlt0KkOWGFJY9x) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Sector 202](https://open.spotify.com/artist/4wZcgsw8OsO3gxRkbSQ5dP) | [my friend](https://open.spotify.com/album/06f11n0nawAhdN7Tuy3KFQ) | 4:04 |
 | 4 | [WHEN YOUR OWN INITIALS ARE ENOUGH](https://open.spotify.com/track/0huE46kfj5EC4TqEWw5Be5) | [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [SUNDANCE FOR BOTTEGA VENETA](https://open.spotify.com/album/4Ds0rPkwGrxsHSqysy8IoR) | 3:09 |

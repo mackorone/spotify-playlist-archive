@@ -1,12 +1,12 @@
 {
   "description": "For full-volume lovers. Cover: Sleep Token",
-  "num_followers": 417346,
+  "num_followers": 417619,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKG6p93a1abQ/l3ZpoRJxQWV5X7I",
+  "snapshot_id": "AAAAANRgYHj1AMOYJWU1tHuqhAIte6ro",
   "tracks": [
     {
       "added_at": "2025-09-05 13:44:55",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-09-05 13:44:55",
       "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 203264,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5"
-    },
-    {
-      "added_at": "2025-09-05 13:44:55",
-      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/0vYjqR60YBxBFtRia6ezF5"
       },
@@ -995,50 +979,18 @@
     {
       "added_at": "2025-09-05 13:44:55",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/0UkeBEb0zPrQbuMCCGSxn2"
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3"
       },
       "artists": [
         {
-          "name": "Amira Elfeky",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 193154,
-      "name": "Forever Overdose",
-      "url": "https://open.spotify.com/track/07FeCdaFiJYdynFyJW515F"
-    },
-    {
-      "added_at": "2025-09-05 13:44:55",
-      "album": {
-        "name": "I Can't Stand Waiting",
-        "url": "https://open.spotify.com/album/4vamBLOq71dxi3Fj4YvLCw"
-      },
-      "artists": [
-        {
-          "name": "Michael Schenker Group",
-          "url": "https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi"
-        }
-      ],
-      "duration_ms": 223455,
-      "name": "I Can't Stand Waiting",
-      "url": "https://open.spotify.com/track/6gBCzq67eXe4cVhw5pYwha"
-    },
-    {
-      "added_at": "2025-09-05 13:44:55",
-      "album": {
-        "name": "Shallow",
-        "url": "https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "SHALLOW",
-      "url": "https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7"
+      "duration_ms": 203264,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5"
     },
     {
       "added_at": "2025-09-05 13:44:55",
@@ -1059,6 +1011,54 @@
     {
       "added_at": "2025-09-05 13:44:55",
       "album": {
+        "name": "I Can't Stand Waiting",
+        "url": "https://open.spotify.com/album/4vamBLOq71dxi3Fj4YvLCw"
+      },
+      "artists": [
+        {
+          "name": "Michael Schenker Group",
+          "url": "https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi"
+        }
+      ],
+      "duration_ms": 223455,
+      "name": "I Can't Stand Waiting",
+      "url": "https://open.spotify.com/track/6gBCzq67eXe4cVhw5pYwha"
+    },
+    {
+      "added_at": "2025-09-05 13:44:55",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/0UkeBEb0zPrQbuMCCGSxn2"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 193154,
+      "name": "Forever Overdose",
+      "url": "https://open.spotify.com/track/07FeCdaFiJYdynFyJW515F"
+    },
+    {
+      "added_at": "2025-09-05 13:44:55",
+      "album": {
+        "name": "Shallow",
+        "url": "https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "SHALLOW",
+      "url": "https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7"
+    },
+    {
+      "added_at": "2025-09-05 13:44:55",
+      "album": {
         "name": "Keep Me Fed",
         "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
       },
@@ -1071,38 +1071,6 @@
       "duration_ms": 176066,
       "name": "Hell You Call A Dream",
       "url": "https://open.spotify.com/track/03A89GAR9MPybXei4sZiYh"
-    },
-    {
-      "added_at": "2025-09-05 13:44:55",
-      "album": {
-        "name": "Will You Love Me When I\u2019m Dead",
-        "url": "https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU"
-      },
-      "artists": [
-        {
-          "name": "Amira Elfeky",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
-        }
-      ],
-      "duration_ms": 193798,
-      "name": "Will You Love Me When I\u2019m Dead",
-      "url": "https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK"
-    },
-    {
-      "added_at": "2025-09-05 13:44:55",
-      "album": {
-        "name": "Maneater",
-        "url": "https://open.spotify.com/album/315WL9wdYAiTTudSTkbpDw"
-      },
-      "artists": [
-        {
-          "name": "Storm Orchestra",
-          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
-        }
-      ],
-      "duration_ms": 172166,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/2bHGwS7k1U3lDDhEz3qjmI"
     },
     {
       "added_at": "2025-09-05 13:44:55",
@@ -1123,6 +1091,22 @@
     {
       "added_at": "2025-09-05 13:44:55",
       "album": {
+        "name": "Maneater",
+        "url": "https://open.spotify.com/album/315WL9wdYAiTTudSTkbpDw"
+      },
+      "artists": [
+        {
+          "name": "Storm Orchestra",
+          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
+        }
+      ],
+      "duration_ms": 172166,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/2bHGwS7k1U3lDDhEz3qjmI"
+    },
+    {
+      "added_at": "2025-09-05 13:44:55",
+      "album": {
         "name": "nail polish",
         "url": "https://open.spotify.com/album/2LyLtyiyURMTqx0C4wFOE7"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 226771,
       "name": "nail polish",
       "url": "https://open.spotify.com/track/5UtL2WBVPySPhiNsmrBbTv"
+    },
+    {
+      "added_at": "2025-09-05 13:44:55",
+      "album": {
+        "name": "The Jaws Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/3pXReKEtUVjzaXLY6nissS"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 256268,
+      "name": "Kiss Me Now",
+      "url": "https://open.spotify.com/track/6yT9iNKt8fQoYpQkbWc7YR"
     },
     {
       "added_at": "2025-09-05 13:44:55",
@@ -1155,22 +1155,6 @@
       "duration_ms": 213924,
       "name": "HURT (feat. The Warning)",
       "url": "https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc"
-    },
-    {
-      "added_at": "2025-09-05 13:44:55",
-      "album": {
-        "name": "The Jaws Of Life (Deluxe)",
-        "url": "https://open.spotify.com/album/3pXReKEtUVjzaXLY6nissS"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 256268,
-      "name": "Kiss Me Now",
-      "url": "https://open.spotify.com/track/6yT9iNKt8fQoYpQkbWc7YR"
     },
     {
       "added_at": "2025-09-05 13:44:55",
@@ -1203,6 +1187,22 @@
       "duration_ms": 194773,
       "name": "Dominate",
       "url": "https://open.spotify.com/track/5R0uszDwzrAEtxMgTwoIbt"
+    },
+    {
+      "added_at": "2025-09-05 13:44:55",
+      "album": {
+        "name": "Will You Love Me When I\u2019m Dead",
+        "url": "https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 193798,
+      "name": "Will You Love Me When I\u2019m Dead",
+      "url": "https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK"
     },
     {
       "added_at": "2025-09-05 13:44:55",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-09-05 13:44:55",
       "album": {
-        "name": "bad luck",
-        "url": "https://open.spotify.com/album/1axn0DNrI4nqiEF5Oaus7y"
-      },
-      "artists": [
-        {
-          "name": "We Came As Romans",
-          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
-        }
-      ],
-      "duration_ms": 245767,
-      "name": "bad luck",
-      "url": "https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF"
-    },
-    {
-      "added_at": "2025-09-05 13:44:55",
-      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/4KPMUpAhf3IGMgsV1RAdY1"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 212113,
       "name": "Dance, Kid, Dance",
       "url": "https://open.spotify.com/track/3FZUR5UnfKK1q5gqbouBeW"
+    },
+    {
+      "added_at": "2025-09-05 13:44:55",
+      "album": {
+        "name": "bad luck",
+        "url": "https://open.spotify.com/album/1axn0DNrI4nqiEF5Oaus7y"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        }
+      ],
+      "duration_ms": 245767,
+      "name": "bad luck",
+      "url": "https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF"
     },
     {
       "added_at": "2025-09-05 13:44:55",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-09-05 13:44:55",
       "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 262195,
-      "name": "Like A Woman Can",
-      "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
-    },
-    {
-      "added_at": "2025-09-05 13:44:55",
-      "album": {
         "name": "Losing Faith",
         "url": "https://open.spotify.com/album/4olRFQJPy6arx9NjdWGaTf"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 185569,
       "name": "Losing Faith",
       "url": "https://open.spotify.com/track/1FouhNVA5qcS0IQ5nucCh6"
+    },
+    {
+      "added_at": "2025-09-05 13:44:55",
+      "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 262195,
+      "name": "Like A Woman Can",
+      "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
     },
     {
       "added_at": "2025-09-05 13:44:55",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-09-05 13:44:55",
       "album": {
-        "name": "God Of Angels Trust",
-        "url": "https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 238813,
-      "name": "Demonic Depression",
-      "url": "https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V"
-    },
-    {
-      "added_at": "2025-09-05 13:44:55",
-      "album": {
         "name": "Hollywood Forever",
         "url": "https://open.spotify.com/album/69FMIiQw61cmQM3B1xACr9"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 277714,
       "name": "Hollywood Forever",
       "url": "https://open.spotify.com/track/5CNopDW4B3IBlspdSmvjCh"
+    },
+    {
+      "added_at": "2025-09-05 13:44:55",
+      "album": {
+        "name": "God Of Angels Trust",
+        "url": "https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 238813,
+      "name": "Demonic Depression",
+      "url": "https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V"
     },
     {
       "added_at": "2025-09-05 13:44:55",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2025-09-05 13:44:55",
       "album": {
-        "name": "Enough Is Enough",
-        "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 169133,
-      "name": "Enough Is Enough",
-      "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
-    },
-    {
-      "added_at": "2025-09-05 13:44:55",
-      "album": {
         "name": "Say It To My Face",
         "url": "https://open.spotify.com/album/6k6blSkAQz9DlMfJzqsS6f"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 188731,
       "name": "Say It To My Face",
       "url": "https://open.spotify.com/track/6LJCYaK4xE3WAGjEs547Yr"
+    },
+    {
+      "added_at": "2025-09-05 13:44:55",
+      "album": {
+        "name": "Enough Is Enough",
+        "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "Enough Is Enough",
+      "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
     },
     {
       "added_at": "2025-09-05 13:44:55",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2025-09-05 13:44:55",
       "album": {
-        "name": "Negative Space",
-        "url": "https://open.spotify.com/album/3BSAYIxEIPKc6DdJwpSeDh"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 198880,
-      "name": "Negative Space",
-      "url": "https://open.spotify.com/track/2y360Vbmgunt8pyLHmwOUf"
-    },
-    {
-      "added_at": "2025-09-05 13:44:55",
-      "album": {
         "name": "Worst in You",
         "url": "https://open.spotify.com/album/1vtNfw2wx3CYEenhVJHkU6"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 206672,
       "name": "Worst in You",
       "url": "https://open.spotify.com/track/7HhLrUGNVM0mHMoFwHYINb"
+    },
+    {
+      "added_at": "2025-09-05 13:44:55",
+      "album": {
+        "name": "Negative Space",
+        "url": "https://open.spotify.com/album/3BSAYIxEIPKc6DdJwpSeDh"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 198880,
+      "name": "Negative Space",
+      "url": "https://open.spotify.com/track/2y360Vbmgunt8pyLHmwOUf"
     },
     {
       "added_at": "2025-09-05 13:44:55",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2025-09-05 13:44:55",
       "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/4frviFPPh65QTlBHlEaNTQ"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 287633,
-      "name": "Everest",
-      "url": "https://open.spotify.com/track/5rZLkmdMY0T0PnUnmfUQoB"
-    },
-    {
-      "added_at": "2025-09-05 13:44:55",
-      "album": {
         "name": "Addicted To The Violence",
         "url": "https://open.spotify.com/album/6CWO5GdXfUd6mjbDDD5Hln"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 181046,
       "name": "Done Me Wrong",
       "url": "https://open.spotify.com/track/01ywKW2yXAkTjnttwrZgGm"
+    },
+    {
+      "added_at": "2025-09-05 13:44:55",
+      "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/4frviFPPh65QTlBHlEaNTQ"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 287633,
+      "name": "Everest",
+      "url": "https://open.spotify.com/track/5rZLkmdMY0T0PnUnmfUQoB"
     },
     {
       "added_at": "2025-09-05 13:44:55",
@@ -2119,26 +2119,38 @@
     {
       "added_at": "2025-09-05 13:44:55",
       "album": {
-        "name": "Gods Of Rock N Roll",
-        "url": "https://open.spotify.com/album/3QmCUNc3xulR0uuL8HJfwf"
+        "name": "Bad Dreams (feat. Of Virtue)",
+        "url": "https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31"
       },
       "artists": [
         {
-          "name": "Billy Morrison",
-          "url": "https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD"
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
         },
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        },
-        {
-          "name": "Steve Stevens",
-          "url": "https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb"
+          "name": "Of Virtue",
+          "url": "https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA"
         }
       ],
-      "duration_ms": 316160,
-      "name": "Gods Of Rock N Roll",
-      "url": "https://open.spotify.com/track/6fJ3mXUUBRHj1cCBazDCwQ"
+      "duration_ms": 220866,
+      "name": "Bad Dreams (feat. Of Virtue)",
+      "url": "https://open.spotify.com/track/1MYG4PzDAovlzKFZ6dqatY"
+    },
+    {
+      "added_at": "2025-09-05 13:44:55",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/33k6y0sxFbgW1I0GBcUrN3"
+      },
+      "artists": [
+        {
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+        }
+      ],
+      "duration_ms": 183187,
+      "name": "III",
+      "url": "https://open.spotify.com/track/4TNV2F6yCqt5ska9ojuEnA"
     },
     {
       "added_at": "2025-09-05 13:44:55",
@@ -2163,38 +2175,26 @@
     {
       "added_at": "2025-09-05 13:44:55",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/33k6y0sxFbgW1I0GBcUrN3"
+        "name": "Gods Of Rock N Roll",
+        "url": "https://open.spotify.com/album/3QmCUNc3xulR0uuL8HJfwf"
       },
       "artists": [
         {
-          "name": "Sleep Theory",
-          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
-        }
-      ],
-      "duration_ms": 183187,
-      "name": "III",
-      "url": "https://open.spotify.com/track/4TNV2F6yCqt5ska9ojuEnA"
-    },
-    {
-      "added_at": "2025-09-05 13:44:55",
-      "album": {
-        "name": "Bad Dreams (feat. Of Virtue)",
-        "url": "https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+          "name": "Billy Morrison",
+          "url": "https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD"
         },
         {
-          "name": "Of Virtue",
-          "url": "https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Steve Stevens",
+          "url": "https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb"
         }
       ],
-      "duration_ms": 220866,
-      "name": "Bad Dreams (feat. Of Virtue)",
-      "url": "https://open.spotify.com/track/1MYG4PzDAovlzKFZ6dqatY"
+      "duration_ms": 316160,
+      "name": "Gods Of Rock N Roll",
+      "url": "https://open.spotify.com/track/6fJ3mXUUBRHj1cCBazDCwQ"
     },
     {
       "added_at": "2025-09-05 13:44:55",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2025-09-05 13:44:55",
       "album": {
-        "name": "Paws",
-        "url": "https://open.spotify.com/album/2WTsBo00ik6uknNsm09K9v"
-      },
-      "artists": [
-        {
-          "name": "Badflower",
-          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
-        }
-      ],
-      "duration_ms": 259088,
-      "name": "Paws",
-      "url": "https://open.spotify.com/track/73bLtrWnmMu15zgkwgxIft"
-    },
-    {
-      "added_at": "2025-09-05 13:44:55",
-      "album": {
         "name": "face.",
         "url": "https://open.spotify.com/album/1pWnfUxBMWhF3TgWarYieF"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 141500,
       "name": "face.",
       "url": "https://open.spotify.com/track/0zX4S0PU6BG9UxHtaAx2jA"
+    },
+    {
+      "added_at": "2025-09-05 13:44:55",
+      "album": {
+        "name": "Paws",
+        "url": "https://open.spotify.com/album/2WTsBo00ik6uknNsm09K9v"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "duration_ms": 259088,
+      "name": "Paws",
+      "url": "https://open.spotify.com/track/73bLtrWnmMu15zgkwgxIft"
     },
     {
       "added_at": "2025-09-05 13:44:55",
@@ -2551,18 +2551,18 @@
     {
       "added_at": "2025-09-05 13:44:55",
       "album": {
-        "name": "Satanized",
-        "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
+        "name": "Vigilantes",
+        "url": "https://open.spotify.com/album/1F0QxXNCGOWbfBhUM1Ej6m"
       },
       "artists": [
         {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
         }
       ],
-      "duration_ms": 236794,
-      "name": "Satanized",
-      "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
+      "duration_ms": 240384,
+      "name": "Vigilantes",
+      "url": "https://open.spotify.com/track/7DNjlPhZrhOgykB94HjecI"
     }
   ],
   "unique_name": "Hard Rock",

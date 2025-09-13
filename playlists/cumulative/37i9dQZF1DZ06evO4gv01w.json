@@ -608,7 +608,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 231250,
       "name": "Blue & Sentimental",
       "url": "https://open.spotify.com/track/4SDVaxrqzqOfDEgqTejxLV"
@@ -2302,10 +2302,28 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 246351,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/7kiwF7Shhi48WbBNswDhqb"
+    },
+    {
+      "album": {
+        "name": "Mockingbird (Unplugged)",
+        "url": "https://open.spotify.com/album/4Zpta4p5CW0taFXqri9vNj"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259688,
+      "name": "Mockingbird - Unplugged",
+      "url": "https://open.spotify.com/track/3506MAAZ175xoFrLAsp65Z"
     },
     {
       "album": {
@@ -2414,7 +2432,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-03",
+      "date_removed": null,
       "duration_ms": 243496,
       "name": "Pearls",
       "url": "https://open.spotify.com/track/6UmsDKfCYFre7UcMGo0eer"

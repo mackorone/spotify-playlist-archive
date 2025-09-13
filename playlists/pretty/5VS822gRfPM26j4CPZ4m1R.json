@@ -1,13 +1,29 @@
 {
   "description": "Playlist",
-  "num_followers": 17824,
+  "num_followers": 17823,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMAP9A7kN7D2xhxbZsk++D4nB59I9W",
+  "snapshot_id": "AAAMAm1tfrxV1HoFwCNk86L2S2q1QAib",
   "tracks": [
+    {
+      "added_at": "2025-09-12 07:21:16",
+      "album": {
+        "name": "You And I",
+        "url": "https://open.spotify.com/album/7uplgyK0NYSBM0vtLK4BIE"
+      },
+      "artists": [
+        {
+          "name": "Grayson Hamm",
+          "url": "https://open.spotify.com/artist/1zQbqJWYcdrVXef2iatspr"
+        }
+      ],
+      "duration_ms": 136045,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/7jwJMpWbCm9SPrV6dqvAc7"
+    },
     {
       "added_at": "2025-09-10 07:58:48",
       "album": {

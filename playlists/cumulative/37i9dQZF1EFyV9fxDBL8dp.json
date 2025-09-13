@@ -1105,6 +1105,32 @@
     },
     {
       "album": {
+        "name": "Rasta Commander",
+        "url": "https://open.spotify.com/album/3aGP9FKhuvuqnbkUuFISnC"
+      },
+      "artists": [
+        {
+          "name": "Luiz de Assis",
+          "url": "https://open.spotify.com/artist/6GsSCLHySnPTdaS82mgMir"
+        },
+        {
+          "name": "Cedric Myton",
+          "url": "https://open.spotify.com/artist/0WYnbwHtJwlgq4kZ8wv5Y3"
+        },
+        {
+          "name": "\u00c1tila Santana",
+          "url": "https://open.spotify.com/artist/3xZplycz3ZHKYoIUM9wwnS"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Rasta Commander",
+      "url": "https://open.spotify.com/track/5a6pFkwgYuw7SgJ2QanIJG"
+    },
+    {
+      "album": {
         "name": "R\u00fastico",
         "url": "https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS"
       },

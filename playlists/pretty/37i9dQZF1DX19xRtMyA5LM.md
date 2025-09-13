@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Qlas
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,732 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,720 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Go Shawty](https://open.spotify.com/track/4ENcpdZsvh5BNzI5slh50x) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Go Shawty](https://open.spotify.com/album/3bGEmdL2XkICohy6Aoo5yw) | 3:24 |
 | 2 | [Oude Kicksen](https://open.spotify.com/track/0ngDRXmotZ8QABStdaHcPt) | [HIGH SOCIETY](https://open.spotify.com/artist/4jKqyxQfzYrfO3MvccH7Ps), [Lostt](https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk), [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk), [Cité](https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp), [NOBODYPANICC](https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg) | [Springplank 2 \(Deluxe\)](https://open.spotify.com/album/2H3WpgJ9cxgjMcVSwAJTlL) | 3:47 |
 | 3 | [Gebroken Harten](https://open.spotify.com/track/19Ua7zLOl1mSvYMgSYLGrd) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj) | [Gebroken Harten](https://open.spotify.com/album/67n04L5Nqzr1AyjBa5CE1z) | 2:31 |
-| 4 | [Track 1](https://open.spotify.com/track/5mnKGcQAPxt7YPJpf28gMo) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [](https://open.spotify.com/album/null) | 0:00 |
+| 4 | [Turks & Caicos](https://open.spotify.com/track/5mnKGcQAPxt7YPJpf28gMo) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Turks & Caicos](https://open.spotify.com/album/3fjKPy78dV3A9HzZ2QcUZb) | 1:48 |
 | 5 | [Geldmaat](https://open.spotify.com/track/7c8jgMl2dwVBnC4RvBZHtm) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Geldmaat](https://open.spotify.com/album/3ZbovTolXgET9q8sQkomEN) | 2:36 |
 | 6 | [Keuzes](https://open.spotify.com/track/2hzwrmcj0tpH8dDsPiqF93) | [GOR](https://open.spotify.com/artist/5MlJLdL7eYtIn5UeOOzluz), [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Keuzes](https://open.spotify.com/album/2YGieQDyPnrxdjoAke6QBB) | 2:51 |
 | 7 | [Fine Sh\*t](https://open.spotify.com/track/4qqrA3hWrSdeHcxoPkF2bM) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [Fine Sh\*t](https://open.spotify.com/album/5WMy7wGdcs1fAFshjJg5MJ) | 2:13 |

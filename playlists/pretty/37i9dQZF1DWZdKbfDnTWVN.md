@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=SB7QTVYiSOmFPV3GM3nqmA"> Nyashinski</a>
+> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=2B5U2Xl5Qr2xQcGsREfa6A"> Khaligraph Jones</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,460 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,468 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 59 | [Guza Umbwa](https://open.spotify.com/track/6MSkSYXha1WI5HLRnGPGPB) | [Masterpiece King](https://open.spotify.com/artist/4JVrLMd2BhgXFwrNCOmHsF), [DOMANI MKADINALI](https://open.spotify.com/artist/0E2SnFa1zHrnkq9XILmxRY) | [ESCOBAR](https://open.spotify.com/album/71sTYeu27jvOCfcBdZ2DVU) | 3:42 |
 | 60 | [Riswa 4](https://open.spotify.com/track/4pvrbIrBj18UKnsEi3QZf1) | [Dyana Cods](https://open.spotify.com/artist/1TMFrPAmqxTK5rVS8ujqMR), [Sewersydaa](https://open.spotify.com/artist/6CxcUeJaPy4qYjudhmDJaf) | [Rong Manners](https://open.spotify.com/album/11VRCN8jmGgrfzD7b1hoF4) | 2:03 |
 
-Snapshot ID: `AAAAALwbweGv+amSg7WZtPTHpWNO/dar`
+Snapshot ID: `AAAAAAwbdgfKhbXpkUZV777xQF1pxKUG`

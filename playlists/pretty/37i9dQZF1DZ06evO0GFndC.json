@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 61270,
+  "num_followers": 61276,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMC/gAAAAABteJVadUHjVenTT56/wbyK",
+  "snapshot_id": "aMIRAAAAAADNhgKChkGD6WtkbgBtH3Ng",
   "tracks": [
     {
       "added_at": null,
@@ -128,9 +128,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 174272,
-      "name": "El Fat Tony",
-      "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
+      "duration_ms": 159978,
+      "name": "La Oveja Negra",
+      "url": "https://open.spotify.com/track/7ss0vnlNgbpUSYd5f5UyhD"
     },
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 159978,
-      "name": "La Oveja Negra",
-      "url": "https://open.spotify.com/track/7ss0vnlNgbpUSYd5f5UyhD"
+      "duration_ms": 174272,
+      "name": "El Fat Tony",
+      "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
     },
     {
       "added_at": null,
@@ -214,15 +214,11 @@
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 165760,
-      "name": "Area 81",
-      "url": "https://open.spotify.com/track/3XlsdR2Fna6QHyDTfgSqZq"
+      "duration_ms": 235477,
+      "name": "La Lealtad",
+      "url": "https://open.spotify.com/track/163KLwvYqUElKJA27ygSoa"
     },
     {
       "added_at": null,
@@ -282,11 +278,15 @@
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 235477,
-      "name": "La Lealtad",
-      "url": "https://open.spotify.com/track/163KLwvYqUElKJA27ygSoa"
+      "duration_ms": 165760,
+      "name": "Area 81",
+      "url": "https://open.spotify.com/track/3XlsdR2Fna6QHyDTfgSqZq"
     },
     {
       "added_at": null,
@@ -403,18 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Manzanita Vol. 4",
-        "url": "https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp"
+        "name": "Pura Manzanita Vol. 3",
+        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
       },
       "artists": [
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 156031,
-      "name": "Ying Yang",
-      "url": "https://open.spotify.com/track/1OYg0a4gAgjcACM7Rl1BnB"
+      "duration_ms": 212304,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/4FMtsxQY2DZr9vaLiJL84h"
     },
     {
       "added_at": null,
@@ -435,22 +439,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Manzanita Vol. 3",
-        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
+        "name": "Pura Manzanita Vol. 4",
+        "url": "https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp"
       },
       "artists": [
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 212304,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/4FMtsxQY2DZr9vaLiJL84h"
+      "duration_ms": 156031,
+      "name": "Ying Yang",
+      "url": "https://open.spotify.com/track/1OYg0a4gAgjcACM7Rl1BnB"
     },
     {
       "added_at": null,

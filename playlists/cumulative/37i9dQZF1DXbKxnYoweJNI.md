@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 莉莉周她說 \(Lily Chou\-Chou Lied\)
 
-3,029 songs - 7 day 8 hr 53 min
+3,030 songs - 7 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -951,6 +951,7 @@
 | [一尋長个空間](https://open.spotify.com/track/1bQrY9HeRpQdkTnvbjbkPA) | [黃宇寒 Han](https://open.spotify.com/artist/58na39JAZ12nojYGPuqdWg) | [樹影](https://open.spotify.com/album/2XK09sjUtTm8XNvEgTTN5T) | 3:13 | 2024-10-31 | 2024-11-22 |
 | [一幅深藍的畫](https://open.spotify.com/track/1EWFaTMr1c155rzhCTas2E) | [沈安](https://open.spotify.com/artist/2tT4arcwVKQK6wfZV23vTt) | [一幅深藍的畫](https://open.spotify.com/album/3euEevOFE1GEiGR4a24kEU) | 3:38 | 2024-11-21 | 2024-11-29 |
 | [一年四季都為你開花](https://open.spotify.com/track/2nvNOFJwS9Pd20jbTZ47QI) | [Shawn 尚融](https://open.spotify.com/artist/2clYc3flufmjrUm1ZUNuJA) | [一年四季都為你開花](https://open.spotify.com/album/07nHG6Vq7Cz9HlSb3JavzW) | 3:00 | 2024-09-26 | 2024-10-18 |
+| [一念之間－在水中](https://open.spotify.com/track/3qYQgBOu4B9NWlffzdP336) | [Chyi Yu](https://open.spotify.com/artist/5E94Yc9O9D4N3oTr4SzJLx), [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [一念之間](https://open.spotify.com/album/7oEUaQhq2tpBnSWB80cIyf) | 4:35 | 2025-09-11 |  |
 | [一整天](https://open.spotify.com/track/2Bf38yCUENYoZX2N6iXLVy) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [一整天](https://open.spotify.com/album/3d9CbNWURQQ7N6uHA7lha8) | 3:08 | 2024-08-22 | 2024-09-13 |
 | [一棵不逃跑的小草](https://open.spotify.com/track/6aq2LLZQhNDu1O65zAApNn) | [Eiva 林麗謙](https://open.spotify.com/artist/568BSqN29OrH6UNmGDnvKj) | [原地重生 Eterno](https://open.spotify.com/album/2ZbVunpAL6JIExTFoP2eRt) | 4:15 | 2024-11-14 | 2024-11-22 |
 | [一步之差](https://open.spotify.com/track/5u90CLkCBsiUkcLwcwkwtz) | [曲曲CHUCHU](https://open.spotify.com/artist/27hQBDHt29JiCGZQ03aAYH) | [一步之差](https://open.spotify.com/album/4qTOBcgctwxWxuvfNEYFXQ) | 4:03 | 2025-01-30 | 2025-02-21 |
@@ -2049,7 +2050,7 @@
 | [時光從不溫柔 \(戲劇《你好，我是接體員》插曲\)](https://open.spotify.com/track/0Xi9FrvNUA4n43nKUJh7FF) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO), [陳嘉樺](https://open.spotify.com/artist/2mYxX4f6tb7itKfUvtS99S) | [時光從不溫柔](https://open.spotify.com/album/6i7c4oFztMoRC0Uq7IURSN) | 3:39 | 2024-09-05 | 2024-09-20 |
 | [時時刻刻](https://open.spotify.com/track/4scbxO9opkszB4TzL1moIr) | [瑀禾](https://open.spotify.com/artist/7CMnTDS8VyLz3Irr8UzRiD) | [時時刻刻](https://open.spotify.com/album/1d8fU7gl4ZYC0RhgAWOckC) | 3:44 | 2025-04-17 | 2025-05-16 |
 | [時鐘](https://open.spotify.com/track/0C0FKXU4VjxzG6f6I32QYm) | [賴奕泓](https://open.spotify.com/artist/4n0pWvKeByJ8apOVaU2K39) | [時鐘](https://open.spotify.com/album/2A5DUA98m6gIxUk8OVLqGa) | 4:03 | 2024-10-31 | 2024-11-22 |
-| [時間在行](https://open.spotify.com/track/1hobyS0KButaCGzd8BJ8jU) | [黃宇寒 Han](https://open.spotify.com/artist/58na39JAZ12nojYGPuqdWg) | [時間在行](https://open.spotify.com/album/5mieGEnZp7l21lCZwt4clr) | 4:20 | 2025-09-11 |  |
+| [時間在行](https://open.spotify.com/track/1hobyS0KButaCGzd8BJ8jU) | [黃宇寒 Han](https://open.spotify.com/artist/58na39JAZ12nojYGPuqdWg) | [時間在行](https://open.spotify.com/album/5mieGEnZp7l21lCZwt4clr) | 4:16 | 2025-09-11 |  |
 | [時間暫停](https://open.spotify.com/track/31Ojg5h9T7jahNkARwE8Bf) | [Paper Jim](https://open.spotify.com/artist/6D9Y7Digr5149549sWuN1g) | [時間暫停](https://open.spotify.com/album/2QSWweAqpOUp0V37W1kjw0) | 2:22 | 2025-03-20 | 2025-04-11 |
 | [時間讓我長了年歲， 卻沒有成為合格的大人](https://open.spotify.com/track/5Zt3BLuyLYkzVt9SWnhPtc) | [SHUA](https://open.spotify.com/artist/4ZPApia4YNHraw5nhgp804) | [時間讓我長了年歲， 卻沒有成為合格的大人](https://open.spotify.com/album/6uvuLnNoFztn3QhmNpzran) | 4:20 | 2025-05-15 | 2025-05-23 |
 | [晃](https://open.spotify.com/track/0H6v82tPExbPhJYoB8ulDv) | [STACO](https://open.spotify.com/artist/2zztZu8VnEsHm25yTJfof9) | [晃](https://open.spotify.com/album/1srEj38YOZiHpgpxG0OeJ0) | 2:57 | 2025-01-23 | 2025-02-14 |

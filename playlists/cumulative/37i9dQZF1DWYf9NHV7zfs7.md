@@ -4,7 +4,7 @@
 
 > y nada más que pop ✨✨✨<br/>📷  Luciano Pereyra & David Bisbal
 
-366 songs - 19 hr 42 min
+368 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2023-07-14 | 2023-10-24 |
 | [Borracha en un Baño Ajeno](https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Borracha en un Baño Ajeno](https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG) | 4:00 | 2023-12-01 | 2024-02-20 |
 | [Breaking Bad](https://open.spotify.com/track/51lUwiop70vQfBtif5sFsW) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 1:51 | 2024-03-01 | 2024-03-09 |
-| [Brecha](https://open.spotify.com/track/5lLK0RKHZSqojJr4kZMAuJ) | [Mercedes Cañas](https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb), [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Brecha](https://open.spotify.com/album/1YUqU6EcmPdlTm9PQttPqO) | 3:01 | 2025-07-22 |  |
+| [Brecha](https://open.spotify.com/track/5lLK0RKHZSqojJr4kZMAuJ) | [Mercedes Cañas](https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb), [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Brecha](https://open.spotify.com/album/1YUqU6EcmPdlTm9PQttPqO) | 3:01 | 2025-07-22 | 2025-09-13 |
 | [buenos aires](https://open.spotify.com/track/3eNenN5eoBwMRNPkmoyk81) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 3:23 | 2024-05-10 |  |
 | [Buscaba un tema](https://open.spotify.com/track/0LmpfqkgUqMJmHelWGCCBB) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Buscaba un tema](https://open.spotify.com/album/6B7rIipzLIZWPuTWASX369) | 2:37 | 2024-09-06 | 2024-09-14 |
 | [Butter \- Megan Thee Stallion Remix](https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v) | 2:44 | 2023-07-14 | 2023-10-24 |
@@ -106,6 +106,7 @@
 | [Eres](https://open.spotify.com/track/5dOxmkHjQ0xJIyRzEJsn6e) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Eres](https://open.spotify.com/album/0KiWWTMscBa4ypgrTc8QVQ) | 3:06 | 2025-04-04 | 2025-05-24 |
 | [Es ahora](https://open.spotify.com/track/1MWDhdadRnIK7APAKV0PfG) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Es ahora](https://open.spotify.com/album/7KS2HnDSQ2O9pAyoSBEMwF) | 3:26 | 2024-05-10 |  |
 | [Esperanza \(feat\. Agarrate Catalina\)](https://open.spotify.com/track/3yUylEQIeozYWNXv8MIGqJ) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:46 | 2023-10-23 | 2024-02-29 |
+| [Estrella Fugaz](https://open.spotify.com/track/3BJ1CCCBuxUCxMtMO0DMpS) | [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [Estrella Fugaz](https://open.spotify.com/album/6jpJuQcLhhSVGtOIiRnIrj) | 2:57 | 2025-09-12 |  |
 | [Experiencia religiosa](https://open.spotify.com/track/0uLhztL9TkJPC8UoyStJU1) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Experiencia religiosa](https://open.spotify.com/album/2Y5Rqv0qKqei0Iic7LXV3M) | 3:44 | 2024-02-23 | 2024-03-02 |
 | [Ey](https://open.spotify.com/track/5HiI0uAeODyl0tyP32L0YT) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Ey](https://open.spotify.com/album/4PvPb8cSavZNxXcHFXZlFV) | 3:27 | 2024-10-25 | 2024-12-07 |
 | [Faldera](https://open.spotify.com/track/35VIh10XZ4J1PekIJLVyWc) | [Marina Wil](https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4) | [Faldera](https://open.spotify.com/album/1CrngP1cS5NJB9bXOPo0gu) | 2:50 | 2024-09-20 | 2024-10-05 |
@@ -163,7 +164,7 @@
 | [La Niña de la Escuela](https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:24 | 2023-07-14 | 2023-10-24 |
 | [La Pelirroja](https://open.spotify.com/track/6Jz04ruR15iuwrUwW3usr9) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [La Pelirroja](https://open.spotify.com/album/4DqYrcBKkblqWqbOpUWCK1) | 2:44 | 2025-03-21 |  |
 | [La Renta](https://open.spotify.com/track/6OZ2PKOW6Pn8f3yhu2qzdW) | [SER](https://open.spotify.com/artist/5Tk3cLiTSfgrMC4BxInpO9), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [La Renta](https://open.spotify.com/album/2XOgg0XKfHY0ypjNPEj4wo) | 3:08 | 2025-01-31 | 2025-02-22 |
-| [La traición](https://open.spotify.com/track/1iofHMtGYQZY3NMEv641IQ) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [La traición](https://open.spotify.com/album/0RL5iVXxnP2IwHggO8BBgC) | 3:39 | 2025-07-18 |  |
+| [La traición](https://open.spotify.com/track/1iofHMtGYQZY3NMEv641IQ) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [La traición](https://open.spotify.com/album/0RL5iVXxnP2IwHggO8BBgC) | 3:39 | 2025-07-18 | 2025-09-13 |
 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 | 2023-07-14 | 2023-10-24 |
 | [La Vida Baila](https://open.spotify.com/track/26tkAeyQlch0s77x0tazYQ) | [SER](https://open.spotify.com/artist/5Tk3cLiTSfgrMC4BxInpO9), [Salo](https://open.spotify.com/artist/017ABXmkLtlACQrBeTdvlV) | [La Vida Baila](https://open.spotify.com/album/0dICtEXAGHGIB7F2umpmLm) | 3:31 | 2024-05-24 | 2024-07-19 |
 | [La última canción](https://open.spotify.com/track/38tkHGzTz7zkSWtdih973H) | [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [La última canción](https://open.spotify.com/album/5mv9TLj5uCgoyApnPbQct5) | 3:01 | 2025-06-27 | 2025-09-03 |
@@ -372,6 +373,7 @@
 | [¿Cuánto Tiempo?](https://open.spotify.com/track/2KPJZGGDiU4AXImDydkP3s) | [SANTACRUZ](https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2) | [¿Cuánto Tiempo?](https://open.spotify.com/album/5mgaOULjcVaPxLFLKvVDFn) | 2:45 | 2024-09-13 | 2024-10-05 |
 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 | 2024-04-05 |  |
 | [¿Cómo Pasó? \- Con Joe Jonas](https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [¿Cómo Pasó? \(Con Joe Jonas\)](https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc) | 3:02 | 2024-11-15 |  |
+| [¿Qué Nos Pasó?](https://open.spotify.com/track/14PwFiWlJmE3gBq2IMU8hr) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz), [Federico Iván](https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh) | [¿Qué Nos Pasó?](https://open.spotify.com/album/0FpymR6pbRIZmBKeehgatT) | 2:16 | 2025-09-12 |  |
 | [Éxtasis](https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Éxtasis](https://open.spotify.com/album/3pfyjuT8pPM0i9K3i7n451) | 3:11 | 2023-07-14 | 2023-10-24 |
 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2023-07-14 | 2023-10-24 |
 

@@ -989,6 +989,28 @@
     },
     {
       "album": {
+        "name": "Dancing By Myself",
+        "url": "https://open.spotify.com/album/2NWDOJYhFJ92FaFtZMbgjw"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        },
+        {
+          "name": "Timethai",
+          "url": "https://open.spotify.com/artist/4OP4jGznSvNjM0aY8IFm3S"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Dancing By Myself",
+      "url": "https://open.spotify.com/track/4xrUExyBK5PrsSnq0fQZVG"
+    },
+    {
+      "album": {
         "name": "DAY ONE",
         "url": "https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi"
       },

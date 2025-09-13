@@ -4,7 +4,7 @@
 
 > One in a million! TWICE!
 
-267 songs - 14 hr 15 min
+268 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [SET ME FREE \(Tommy “TBHits” Brown Remix\) \(ENG\)](https://open.spotify.com/track/6BhpvHofjQy5ZHSJLUy1V5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Tommy “TBHits” Brown](https://open.spotify.com/artist/06moEoVtCKweJmGYid8vU7) | [SET ME FREE \(Remixes\)](https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD) | 2:50 | 2023-03-31 | 2024-04-19 |
 | [SHADOW](https://open.spotify.com/track/0Wv6HtcBNex6lwPugykWCd) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 2:48 | 2022-03-24 |  |
 | [SHADOW](https://open.spotify.com/track/7HzvvhTmfzvD1dV4F7MIcm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 2:48 | 2022-07-19 | 2024-04-19 |
+| [SHOOT \(Firecracker\)](https://open.spotify.com/track/0pUEewaz1L9Vt8BCEVEnxx) | [CHAEYOUNG](https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa) | [LIL FANTASY vol.1](https://open.spotify.com/album/5j07H7jnOu2gYRj1ZrPoak) | 2:48 | 2025-09-12 |  |
 | [SHOT CLOCK](https://open.spotify.com/track/35J5q8vdObi345b8NKm1CX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 3:29 | 2022-03-24 |  |
 | [SHOT CLOCK](https://open.spotify.com/track/5HSooivbDgCWBOv24vtYiB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:29 | 2022-07-19 | 2024-04-19 |
 | [Signal](https://open.spotify.com/track/15rX80MpEJ2OqW3dPunQvI) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [SIGNAL](https://open.spotify.com/album/28PwDunFAR71toOCTYRvkf) | 3:16 | 2022-07-19 | 2024-04-19 |

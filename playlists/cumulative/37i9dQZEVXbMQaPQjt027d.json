@@ -536,7 +536,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 172661,
       "name": "Black Out Days (Stay Away)",
       "url": "https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 172819,
       "name": "Carolien (Nee, Ik Blijf Wel Hier)",
       "url": "https://open.spotify.com/track/5qAqwsdfnb0E9uETWqPKAY"
@@ -2093,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "I'm a Dog",
+        "url": "https://open.spotify.com/album/5yWKRtxQXd9a9kKJl9ZUMJ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148653,
+      "name": "I'm a Dog",
+      "url": "https://open.spotify.com/track/2Dlp3mgmT5GgKw9tXs85NA"
+    },
+    {
+      "album": {
         "name": "If I tell you",
         "url": "https://open.spotify.com/album/2prXPEPdJdozdhJElpiuaj"
       },
@@ -2980,6 +2998,24 @@
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "album": {
+        "name": "No Comment",
+        "url": "https://open.spotify.com/album/7lJucfUoSX4vCCDAa0Nyss"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "No Comment",
+      "url": "https://open.spotify.com/track/16YfvpZgzzdxzrulTpIwvB"
     },
     {
       "album": {

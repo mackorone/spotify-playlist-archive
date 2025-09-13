@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oWCUlN9CxD.md) - [plain]
 
 > Retrouvez toutes les chansons de Tchoupi et de ses copains Lalou et Doudou
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,010 likes - 37 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,023 likes - 37 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

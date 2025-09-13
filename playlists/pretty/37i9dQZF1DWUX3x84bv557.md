@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Douwe Bob & MEAU
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,880 likes - 67 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,940 likes - 67 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 16 | [Wassenaar](https://open.spotify.com/track/3heP3Hxlq68F3H5QoX3Smw) | [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse), [DUIV](https://open.spotify.com/artist/1DaRHeBqAWuqwECwUaWm72) | [Wassenaar](https://open.spotify.com/album/2TvKCToGz0NsPLcWH8Hl32) | 2:31 |
 | 17 | [Je Kan Een Hoop](https://open.spotify.com/track/6U1qyy4qXzs9VSazl0HAc0) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Je Kan Een Hoop](https://open.spotify.com/album/23rbyKPTBlBY8O5fzqK5dr) | 2:54 |
 | 18 | [Hoe hou ik dit vast](https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hoe hou ik dit vast](https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh) | 3:38 |
-| 19 | [Ik Heb Je Gemist](https://open.spotify.com/track/3cHSCDCPYczMfKrSOLChKM) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [](https://open.spotify.com/album/null) | 3:01 |
+| 19 | [Ik Heb Je Gemist](https://open.spotify.com/track/3cHSCDCPYczMfKrSOLChKM) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Wegwerpliefde](https://open.spotify.com/album/4nF1DWMvzLvI8LIx3UUrdn) | 3:01 |
 | 20 | [Huisje Aan De Zee](https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Huisje Aan De Zee](https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc) | 2:46 |
 | 21 | [Gezelligheid \(..3,4,5\)](https://open.spotify.com/track/1BGGuweM2uI2Y95yfuvUW7) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Gezelligheid \(..3,4,5\)](https://open.spotify.com/album/6agf289SMNPxPVmi6fh4UE) | 2:56 |
 | 22 | [Alleen](https://open.spotify.com/track/18ry46YUhRyFUnxR5oDjwC) | [Kaya](https://open.spotify.com/artist/6JHeO4hQdbJWt1eLhs6W01) | [Laat Mij Breekbaar Zijn](https://open.spotify.com/album/7sWz38ViZOOAQE9c1UyNpc) | 2:47 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 66 | [Miljonair](https://open.spotify.com/track/0SJvHaZlRRWFI4UKikZaZn) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Miljonair](https://open.spotify.com/album/2jqgoXgJJ1fVsDr1aaGFdE) | 2:55 |
 | 67 | [Deze Avond!](https://open.spotify.com/track/1JaI4md1z1GSClwSM8nx59) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Deze Avond!](https://open.spotify.com/album/7tycJAQ5061GWLZvYmXsuD) | 2:55 |
 
-Snapshot ID: `AAAAAB7rNlIjgKne5/CghNQd76TQHYwA`
+Snapshot ID: `AAAAANRymtgkDTOxnLGmCLG6tEz7SsaB`

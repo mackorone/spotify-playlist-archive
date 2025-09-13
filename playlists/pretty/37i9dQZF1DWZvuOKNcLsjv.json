@@ -1,6 +1,6 @@
 {
-  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: Justin Bieber",
-  "num_followers": 47965,
+  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: Lady Gaga",
+  "num_followers": 47964,
   "original_name": "Next Up",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2025-09-11 15:00:08",
       "album": {
+        "name": "LIL FANTASY vol.1",
+        "url": "https://open.spotify.com/album/3EOXM6O9a3UZr5FaDyrgLL"
+      },
+      "artists": [
+        {
+          "name": "CHAEYOUNG",
+          "url": "https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa"
+        }
+      ],
+      "duration_ms": 168531,
+      "name": "SHOOT (Firecracker)",
+      "url": "https://open.spotify.com/track/4amAvQMUbcN0DIyMbMmy7x"
+    },
+    {
+      "added_at": "2025-09-11 15:00:08",
+      "album": {
         "name": "Gabriela",
         "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
       },
@@ -435,8 +451,8 @@
     {
       "added_at": "2025-09-11 15:00:08",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH"
       },
       "artists": [
         {

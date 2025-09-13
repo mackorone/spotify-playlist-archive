@@ -4,7 +4,7 @@
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rezz
 
-185 songs - 10 hr 24 min
+186 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Heard It Like This](https://open.spotify.com/track/6HtjJ09kCJbaQSrazLVEGr) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Heard It Like This](https://open.spotify.com/album/0YPe5oH70RPB9HAGkpXmQ9) | 3:40 | 2023-12-01 |  |
 | [Heavyweight](https://open.spotify.com/track/3v5zBPtf296IiVc1uiv5No) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Heavyweight](https://open.spotify.com/album/54iIrG2X8bkCYPyl9n1vCM) | 2:28 | 2024-06-06 | 2024-11-09 |
 | [HI\-TECH](https://open.spotify.com/track/1HCR9P0ZqA91ylnfJiT4c2) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [HI\-TECH](https://open.spotify.com/album/2cwfGnDOTg6CjVCkwOHGkH) | 2:48 | 2023-12-01 | 2025-05-03 |
+| [HOW I DO IT](https://open.spotify.com/track/0Y1ZeaRs0gAEwb1rYxdbjq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [BRVMES](https://open.spotify.com/artist/13OXgp0fFDhWRPSXnN8yLT) | [As The Pendulum Swings](https://open.spotify.com/album/6lWtjIwHMyJdZlRaiGwVnd) | 2:28 | 2025-09-12 |  |
 | [Hush](https://open.spotify.com/track/19gqEo6BksJ7OEqyOAziks) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX) | [Hush](https://open.spotify.com/album/3bQ9LYg0ZGhvlQf7uLQd6Y) | 3:15 | 2025-02-21 |  |
 | [I Admit It \(feat\. 24kGoldn\)](https://open.spotify.com/track/5QUbOFOkbDlt4ZY7bdL4Am) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [I Admit It \(feat\. 24kGoldn\)](https://open.spotify.com/album/2pHkZymG4rqjYfIP5GfeDO) | 2:53 | 2023-12-01 | 2024-11-30 |
 | [i think you're cool](https://open.spotify.com/track/6tkHWTety7Wd4Fv4oyGAcz) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Jenna Pemkowski](https://open.spotify.com/artist/29eVvwQJ6dwSiykc8RtlpG) | [Catching Z's](https://open.spotify.com/album/2Tkn1vJF1Fb5fdw2pm4Fz1) | 3:33 | 2023-12-01 | 2024-11-30 |

@@ -1,12 +1,12 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 371346,
+  "num_followers": 371331,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHwDQYSDaswnRCnZ0AIk2qA7rCG/",
+  "snapshot_id": "AAAAABjqf0RxFQe5PzfIqhiP/8fTQFFo",
   "tracks": [
     {
       "added_at": "2025-08-28 23:00:33",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-08-28 23:00:33",
       "album": {
+        "name": "If You Love Her",
+        "url": "https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "If You Love Her",
+      "url": "https://open.spotify.com/track/1MaDw1BQ797k8j7xXnH486"
+    },
+    {
+      "added_at": "2025-08-28 23:00:33",
+      "album": {
         "name": "All that Glitters is not Gold",
         "url": "https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 171613,
       "name": "All that Glitters is not Gold",
       "url": "https://open.spotify.com/track/45Exz93oyRbDvmM8FvpgYz"
-    },
-    {
-      "added_at": "2025-08-28 23:00:33",
-      "album": {
-        "name": "If You Love Her",
-        "url": "https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "If You Love Her",
-      "url": "https://open.spotify.com/track/1MaDw1BQ797k8j7xXnH486"
     },
     {
       "added_at": "2025-08-28 23:00:33",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-08-28 23:00:33",
       "album": {
-        "name": "Crave",
-        "url": "https://open.spotify.com/album/6bC4wS1VnIVFhlks2Wx0XX"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Crave",
-      "url": "https://open.spotify.com/track/75ZvCtDorLfeaaTKyX7s1z"
-    },
-    {
-      "added_at": "2025-08-28 23:00:33",
-      "album": {
         "name": "Skin to Skin",
         "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 225454,
       "name": "Skin to Skin",
       "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
+    },
+    {
+      "added_at": "2025-08-28 23:00:33",
+      "album": {
+        "name": "Crave",
+        "url": "https://open.spotify.com/album/6bC4wS1VnIVFhlks2Wx0XX"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "Crave",
+      "url": "https://open.spotify.com/track/75ZvCtDorLfeaaTKyX7s1z"
     },
     {
       "added_at": "2025-08-28 23:00:33",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-08-28 23:00:33",
       "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        }
+      ],
+      "duration_ms": 242637,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
+    },
+    {
+      "added_at": "2025-08-28 23:00:33",
+      "album": {
         "name": "ILLUSIONS Pt. II",
         "url": "https://open.spotify.com/album/2oRN202MZsHOTJacPOYeZv"
       },
@@ -1359,38 +1375,22 @@
     {
       "added_at": "2025-08-28 23:00:33",
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/2okzARk2QDGDKlFoQOjEJA"
       },
       "artists": [
         {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        }
-      ],
-      "duration_ms": 242637,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
-    },
-    {
-      "added_at": "2025-08-28 23:00:33",
-      "album": {
-        "name": "Deafened (feat. Family Habits)",
-        "url": "https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
         },
         {
-          "name": "Family Habits",
-          "url": "https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y"
+          "name": "The West Green Quartet",
+          "url": "https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI"
         }
       ],
-      "duration_ms": 201626,
-      "name": "Deafened (feat. Family Habits)",
-      "url": "https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV"
+      "duration_ms": 130867,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/15aMiMUQgoy2a43ov9Cqnp"
     }
   ],
   "unique_name": "Soultronic",

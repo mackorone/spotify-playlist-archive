@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PP Krit
 
-758 songs - 1 day 20 hr 41 min
+759 songs - 1 day 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [TROUBLE](https://open.spotify.com/track/4gBWrLugqUnha4tkM2RAtK) | [VOC](https://open.spotify.com/artist/7fzDjCUPqX7niI33oPmCvT) | [TROUBLE](https://open.spotify.com/album/7shfsgYMrsbwFnHkLRDKWv) | 2:13 | 2025-08-28 |  |
 | [TRUST ISSUES \(ไว้ใจไม่ไหว\)](https://open.spotify.com/track/6TLLoXCwSdWC34nd2sxltS) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [TRUST ISSUES \(ไว้ใจไม่ไหว\)](https://open.spotify.com/album/3WO9K53LaU4UZMm23zFCUq) | 3:54 | 2025-07-17 | 2025-08-01 |
 | [TRY](https://open.spotify.com/track/7BKE7q7IPJMrWke7zo2ISS) | [THI\-O](https://open.spotify.com/artist/7vYaE3YGPOeipQnjSCVPM1) | [TRY](https://open.spotify.com/album/2bv4P5pVQ83fpcjCcHCvwa) | 3:32 | 2024-04-04 | 2024-04-19 |
+| [TwiLiGHT](https://open.spotify.com/track/4KtiFeLXqNikiKZtnJCkZ4) | [MINDY](https://open.spotify.com/artist/2a7WiIiQJcunh4cSWmp0Gi) | [TwiLiGHT](https://open.spotify.com/album/6EZlRDPjpPSTKwE6jT6fpj) | 3:12 | 2025-09-12 |  |
 | [U can't hurt me no more](https://open.spotify.com/track/7MF3ugIgl06Fi8CX5NKA4m) | [Venita](https://open.spotify.com/artist/1suxWOTjtwWh0CNcydUeWQ) | [U can't hurt me no more](https://open.spotify.com/album/6DofRSGlqkwj4jLDxk0JRd) | 3:14 | 2022-08-25 | 2022-09-01 |
 | [UMM UMM](https://open.spotify.com/track/2DZDnHMcGd71AuKP4b8OM2) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [UMM UMM](https://open.spotify.com/album/1arBxJSSZSdEPZKIYKAH9O) | 3:07 | 2023-08-04 | 2023-08-25 |
 | [Vanilla Sky](https://open.spotify.com/track/0pxUadEywlbr8gqAfKMgH3) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [Vanilla Sky](https://open.spotify.com/album/0oLBGvBd14ctZplQ4lYQIe) | 2:36 | 2024-03-07 | 2024-03-22 |
@@ -345,7 +346,7 @@
 | [ซ้อมก่อน \(Practice\)](https://open.spotify.com/track/6pxIQcL1gzlpGh9JiGHg6V) | [Noeul Nuttarat](https://open.spotify.com/artist/1FdeO1Hyc2AFlbbq2Lr0hn) | [ซ้อมก่อน \(Practice\)](https://open.spotify.com/album/3tLZermJOKbLbSfW8EFxOV) | 2:39 | 2024-03-26 | 2024-03-29 |
 | [ซ้อมมีแฟน \(trial\)](https://open.spotify.com/track/5xdmFkq5uVLzhogUK8wRQk) | [Kinkaworn](https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg), [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ซ้อมมีแฟน \(trial\)](https://open.spotify.com/album/1X4Je0roqbsKnR5EQwUv4g) | 3:14 | 2022-10-12 | 2024-06-21 |
 | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/album/3c507rxKQ6lmPMw7l3Ut6r) | 3:48 | 2024-07-18 |  |
-| [ดีอยู่แล้ว ที่ต้องลา \(I’m Good\)](https://open.spotify.com/track/3sbTe6C4kfaGoGSKmDCqY5) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ดีอยู่แล้ว ที่ต้องลา \(I’m Good\)](https://open.spotify.com/album/5X0wKDAHXF8QcTIUrY5prK) | 4:00 | 2025-07-24 |  |
+| [ดีอยู่แล้ว ที่ต้องลา \(I’m Good\)](https://open.spotify.com/track/3sbTe6C4kfaGoGSKmDCqY5) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ดีอยู่แล้ว ที่ต้องลา \(I’m Good\)](https://open.spotify.com/album/5X0wKDAHXF8QcTIUrY5prK) | 4:00 | 2025-07-24 | 2025-09-13 |
 | [ดีไปหมด](https://open.spotify.com/track/4ry6ldKaFtoLOBgS6rAndh) | [CM Cafe](https://open.spotify.com/artist/3HIIbzo8qdutuxFS1yPCUz) | [ดีไปหมด](https://open.spotify.com/album/1viYiMdvWDes9eIAqwLF1p) | 4:00 | 2022-06-02 | 2022-06-10 |
 | [ดึกมากแล้ว \(Night Ride\)](https://open.spotify.com/track/75Bo8CwyOB44OwaXw14w1a) | [WIN METAWIN](https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW), [Badmixy](https://open.spotify.com/artist/5487qToh8N42rr1XqH3qlC) | [ดึกมากแล้ว \(Night Ride\) \- Single](https://open.spotify.com/album/6UtRPTFCUI812kj8IFHODm) | 3:02 | 2024-02-15 | 2025-02-14 |
 | [ดูดีดี \(Doo Dee Dee\)](https://open.spotify.com/track/3oWixUokccVq32DD5FAXj8) | [SEYA](https://open.spotify.com/artist/372OyNajj4MygpcWFhBq1v), [Miya Thongchua](https://open.spotify.com/artist/4ATuJlsULjVBgK1GrEyurD) | [ดูดีดี \(Doo Dee Dee\)](https://open.spotify.com/album/7Lz17nkftNCr0eUo1e1M3o) | 3:07 | 2024-06-20 | 2024-06-28 |

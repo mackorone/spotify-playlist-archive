@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Barranquilla",
+        "url": "https://open.spotify.com/album/3oTQSSQPFnYtbPk494Y5Cx"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158959,
+      "name": "Barranquilla",
+      "url": "https://open.spotify.com/track/1PHfOJSTE5nDbLl82HF4Vj"
+    },
+    {
+      "album": {
         "name": "2017 Relaxed Spanish Guitar",
         "url": "https://open.spotify.com/album/15get6QSHM8hkQJEpjEKzy"
       },

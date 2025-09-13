@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-733 songs - 2 day 21 hr 56 min
+734 songs - 2 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Distant Paradise](https://open.spotify.com/track/1wwfW6cJLS3kf0NV1dGzlA) | [Function](https://open.spotify.com/artist/6eu3TBnYM3SrkUU59SFhgp) | [Existenz](https://open.spotify.com/album/6y5DYvvHhDbNQfonF1Ykc3) | 8:04 | 2020-01-01 | 2020-01-04 |
 | [Divergence](https://open.spotify.com/track/1NNSKbwxHECS8soJykPFHD) | [Lake People](https://open.spotify.com/artist/6YTWss7MFcjsJRDgmtqO2l) | [Dixon & Âme Present Limbo](https://open.spotify.com/album/4mG0wdymDEjVc8S8LcShI5) | 3:25 | 2020-12-24 | 2021-02-26 |
 | [Domino \- David Guetta Remix](https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Domino \(David Guetta Remix\)](https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k) | 4:56 | 2021-12-17 | 2024-12-27 |
+| [Don't Give Up](https://open.spotify.com/track/41IzbkTcmjj8EMsMCAw0iM) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Don't Give Up](https://open.spotify.com/album/1MuZwe2gViW1Pv3MQrznk5) | 3:06 | 2025-09-12 |  |
 | [Don't Give Up \- Radio Edit](https://open.spotify.com/track/3Ect3TlbUYwB0pwWUzCOv9) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Talal](https://open.spotify.com/artist/4FahFgHbYW6tRpEwCQqQTz), [Amy Wawn](https://open.spotify.com/artist/2LfqKoz9RFoKwyCs3s2OLf) | [Don't Give Up \(Radio Edit\)](https://open.spotify.com/album/3uvEmBmwZIVOVYu5DDXYUN) | 3:28 | 2021-05-09 | 2022-12-24 |
 | [Don't Hold Back \- Edit](https://open.spotify.com/track/7g2ubdOa7LFHBGgt4UcjqO) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Don't Hold Back \(Edit\)](https://open.spotify.com/album/3MG0AAwNKfBPAUMGJR3mRz) | 4:30 | 2021-10-04 | 2022-07-29 |
 | [Don't Stop Me Now](https://open.spotify.com/track/2FxDmxZdZ0yNb8rABBxLS1) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Don't Stop Me Now](https://open.spotify.com/album/2jS4uQwgKMayLnhp2M38eS) | 5:44 | 2024-12-13 | 2025-01-19 |
@@ -581,7 +582,7 @@
 | [Spectra](https://open.spotify.com/track/0iHzGqToy1uEM000sKlSiD) | [Nick Devon](https://open.spotify.com/artist/1tf23w0XfVu28n9arb8wX4), [Haffenfold](https://open.spotify.com/artist/2b22KV07lFaJYxVmpdiCkq) | [Spectra](https://open.spotify.com/album/4VLEDbMcKMORaJKIAztSzJ) | 6:49 | 2022-08-12 | 2022-08-20 |
 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 | 2022-04-15 | 2024-08-11 |
 | [Spicy \(feat\. Ginger\) \- Edit](https://open.spotify.com/track/5ebmgjX1AIlMPXmAvmxfoH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Spicy \(feat\. Ginger\) \[Edit\]](https://open.spotify.com/album/5NiOkqIUEhAutwSmH4uD5X) | 3:31 | 2021-06-05 | 2023-07-01 |
-| [Spiral \- Edit](https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Spiral \(Edit\)](https://open.spotify.com/album/1Xycot3BuBMYXvCFRMeZ88) | 3:41 | 2022-11-15 |  |
+| [Spiral \- Edit](https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Spiral \(Edit\)](https://open.spotify.com/album/1Xycot3BuBMYXvCFRMeZ88) | 3:41 | 2022-11-15 | 2025-09-13 |
 | [Spiral of Silence](https://open.spotify.com/track/2dEHguDxHDq3gCJwuUm3dV) | [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Spiral of Silence](https://open.spotify.com/album/1jsIFgJnEKQKo1lyurn3xS) | 3:04 | 2019-08-06\* | 2020-06-08 |
 | [St Claire](https://open.spotify.com/track/7qrch7xVClA6bB299puPoz) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [St Claire](https://open.spotify.com/album/0XzPQU4d0gDH92VLJzNe1q) | 3:34 | 2022-02-01 | 2022-07-29 |
 | [Starblast](https://open.spotify.com/track/1YLSzMuj4nKVIPe6bbkxg6) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB), [Alex Kaspersky](https://open.spotify.com/artist/63UXhrqsOY2vKDXbQ0yjRX) | [Starblast](https://open.spotify.com/album/0pEOEbhcaBtOr6ph6cnSys) | 6:25 | 2020-06-12 | 2020-07-18 |

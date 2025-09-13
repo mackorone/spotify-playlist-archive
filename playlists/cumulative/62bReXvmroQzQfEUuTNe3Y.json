@@ -5825,6 +5825,28 @@
     },
     {
       "album": {
+        "name": "Mood Song",
+        "url": "https://open.spotify.com/album/0NQgDxmm1VEk9WQqwx1875"
+      },
+      "artists": [
+        {
+          "name": "Why U So",
+          "url": "https://open.spotify.com/artist/4oxwokKRwskQbaEFsCHyeS"
+        },
+        {
+          "name": "Lua Sola",
+          "url": "https://open.spotify.com/artist/66uLLued7K4dTOOnUQ3Knl"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Mood Song",
+      "url": "https://open.spotify.com/track/79fIQTrSfK6J9r8va0INAo"
+    },
+    {
+      "album": {
         "name": "Play Me Again",
         "url": "https://open.spotify.com/album/4iII9nfzjxOYQFp8PyV6HD"
       },

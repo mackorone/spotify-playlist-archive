@@ -4,7 +4,7 @@
 
 > Only the BIGGEST Hardstyle bangers 💥
 
-938 songs - 2 day 4 hr 50 min
+939 songs - 2 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Africa \(Shinzo Radio Edit\)](https://open.spotify.com/track/3Gnyu3henEnnYl6LeUt2Dj) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Nick Skitz](https://open.spotify.com/artist/0b56YzqAu22jh2CDUYvbbx), [Shinzo](https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv) | [Africa \(The Remixes\)](https://open.spotify.com/album/339hhBU7RbxyYhXVfXBagi) | 4:11 | 2022-05-29 | 2022-12-06 |
 | [Aliens On Acid](https://open.spotify.com/track/3CsSF3Ty6F3qa09ngJcps2) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Sarah Anglionin](https://open.spotify.com/artist/2rgyrW6ADyl42MjTUymTL5) | [Aliens On Acid](https://open.spotify.com/album/2uWl3zx25KruSMy8dML13B) | 3:48 | 2025-06-16 |  |
 | [Alive](https://open.spotify.com/track/1DT9IvbYb9QCqpnGbsPJVj) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Frequencerz](https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s) | [Alive](https://open.spotify.com/album/7qXMjcaHOxc9WFvyfbyZBs) | 3:40 | 2021-12-16 | 2022-04-21 |
+| [Alive 2Nite](https://open.spotify.com/track/4WrWGFQakutzb7IZJGYNbD) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC) | [Alive 2Nite](https://open.spotify.com/album/1XjyuAM33YDfB2MrT3YeXq) | 3:21 | 2025-09-11 |  |
 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/16WYdUkvGzVQpbH4RdcSVe) | 2:14 | 2025-09-11 |  |
 | [All Night \(feat\. Ally Brooke\) \- Zero Days Remix](https://open.spotify.com/track/2afCjVAtVunsZMXlC4O6Ck) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk), [Zero Days](https://open.spotify.com/artist/2KNwETqTaIm0KbNyGrCnc6) | [All Night \(feat\. Ally Brooke\) \[Zero Days Remix\]](https://open.spotify.com/album/6dzGmVKEVKh75gfQyRZEOt) | 3:05 | 2021-12-16 | 2023-11-28 |
 | [All of Time](https://open.spotify.com/track/0qNkOzdzM10WaUQ8qBvoi5) | [Dany Bpm](https://open.spotify.com/artist/3E6p5In4n4lbmS6oVipW8R), [Rewildz](https://open.spotify.com/artist/2dazU1L3zOpHEjW9OB2myo), [Max Landry](https://open.spotify.com/artist/0wJDbxpqtwjA2FxfU6KI0E) | [All of Time](https://open.spotify.com/album/1l7lx8t6NQDFBOfEUbnOTU) | 3:53 | 2022-03-24 | 2022-04-21 |
@@ -360,7 +361,7 @@
 | [Heat Of The Moment](https://open.spotify.com/track/6VpR1Ddi97grQSLuHjh4dH) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [Jurgen Vries](https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Destination](https://open.spotify.com/album/7oEm0ankzz0Is25YkrhUNu) | 3:06 | 2024-07-04 | 2024-10-26 |
 | [Hellraiser](https://open.spotify.com/track/7jPZ8CnQPpcbJp9ZiTvuMY) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Hellraiser](https://open.spotify.com/album/2ZCAMFZH543dHiGCNRsp4J) | 3:39 | 2021-12-16 | 2022-07-28 |
 | [HELP\_LESS](https://open.spotify.com/track/6ABSVbnjexJNj5CEFAuVeG) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [HELP\_LESS](https://open.spotify.com/album/64TWja31XGSqKYNBoDrGQ7) | 3:07 | 2025-02-10 |  |
-| [Hemel Of De Hel](https://open.spotify.com/track/1escL1SNOKwtICWMbtDVXa) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Leeft](https://open.spotify.com/album/725WPG1r0kICMw7vDKxi9E) | 2:07 | 2025-03-27 |  |
+| [Hemel Of De Hel](https://open.spotify.com/track/1escL1SNOKwtICWMbtDVXa) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Leeft](https://open.spotify.com/album/725WPG1r0kICMw7vDKxi9E) | 2:07 | 2025-03-27 | 2025-09-13 |
 | [Here To Stay](https://open.spotify.com/track/4bidbyOK1pdyHM3Hu0cvKO) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Here To Stay](https://open.spotify.com/album/7lbZP1s3x8hvjQDXK20mMQ) | 4:22 | 2021-12-28 | 2022-11-01 |
 | [Hero](https://open.spotify.com/track/1bc1ykb05EfBvnzjOmqvmi) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV) | [Hero](https://open.spotify.com/album/6WN1NA4eXWtdmNdXzjxEVS) | 3:02 | 2022-10-13 | 2024-06-15 |
 | [Heroine](https://open.spotify.com/track/0Hu7MIDZWEiipqaN2UBCet) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Heroine](https://open.spotify.com/album/1UO9nuCWFo4NaLkAhQqsRT) | 2:03 | 2024-10-25 |  |

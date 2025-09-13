@@ -1050,6 +1050,24 @@
     {
       "album": {
         "name": "Running on a Knife-Edge",
+        "url": "https://open.spotify.com/album/4pjVHrqf901239z7oschzQ"
+      },
+      "artists": [
+        {
+          "name": "kazemaru",
+          "url": "https://open.spotify.com/artist/21dXDRr189OA3FpGA1Evig"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291980,
+      "name": "Between You and Me",
+      "url": "https://open.spotify.com/track/5Lxv5Hq08wdPKkJGajwoZB"
+    },
+    {
+      "album": {
+        "name": "Running on a Knife-Edge",
         "url": "https://open.spotify.com/album/75h6VRL47NaHpPe53q91br"
       },
       "artists": [
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 292101,
       "name": "Between You and Me",
       "url": "https://open.spotify.com/track/4BstoiptB4aehSZzSpYvIn"

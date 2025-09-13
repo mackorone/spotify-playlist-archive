@@ -725,6 +725,32 @@
     },
     {
       "album": {
+        "name": "BaBaBa (Hangover)",
+        "url": "https://open.spotify.com/album/3Xq4k9A16wDzWLrwLM6rTo"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Marco Strous",
+          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
+        },
+        {
+          "name": "Buraka Som Sistema",
+          "url": "https://open.spotify.com/artist/6zUiRChNyL3HEezOd1Wjam"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172384,
+      "name": "BaBaBa (Hangover)",
+      "url": "https://open.spotify.com/track/14lJLTWfq5vkoe2CZksFvC"
+    },
+    {
+      "album": {
         "name": "Bad Bongo EP",
         "url": "https://open.spotify.com/album/5M0NfNz9ywxmSNh7BCtCf4"
       },
@@ -1247,6 +1273,28 @@
     },
     {
       "album": {
+        "name": "Batucada",
+        "url": "https://open.spotify.com/album/42lkhLfrZK7M3Sx5C2tJPH"
+      },
+      "artists": [
+        {
+          "name": "Lucas Bahr",
+          "url": "https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v"
+        },
+        {
+          "name": "Kieran San Jose",
+          "url": "https://open.spotify.com/artist/5dXI8u68DU1ANPlDlSsAli"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Batucada",
+      "url": "https://open.spotify.com/track/7tmFbt2e3f8ezhoCebTj6j"
+    },
+    {
+      "album": {
         "name": "Alterego",
         "url": "https://open.spotify.com/album/4JypWzN41tSUvnRIzWt4f2"
       },
@@ -1408,7 +1456,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 196153,
       "name": "Boladao",
       "url": "https://open.spotify.com/track/2OcFlyDd6GO1Dw09FQ8Iln"
@@ -5743,6 +5791,24 @@
     },
     {
       "album": {
+        "name": "Mi Vida EP",
+        "url": "https://open.spotify.com/album/0qVltBVJYcyhhhdKhQapPI"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152883,
+      "name": "Mi Vida",
+      "url": "https://open.spotify.com/track/7GNcodiCQICWsRT99AZ3ib"
+    },
+    {
+      "album": {
         "name": "MIA in Miami",
         "url": "https://open.spotify.com/album/17pv0JSvdJkKt1CYttl0zj"
       },
@@ -7398,7 +7464,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 201147,
       "name": "Rompe La Pista",
       "url": "https://open.spotify.com/track/7vxpNe9wFP6tZgAAXP3yiV"
@@ -9610,7 +9676,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 184761,
       "name": "XTC",
       "url": "https://open.spotify.com/track/7oPB4kg8YwmofthqXzSFIB"

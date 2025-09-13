@@ -468,7 +468,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 175000,
       "name": "Baadal",
       "url": "https://open.spotify.com/track/3tVyOXUe5o1IHBJVcZpfr6"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 353254,
       "name": "Bade Din Huye (From \"Love In Vietnam\")",
       "url": "https://open.spotify.com/track/1S3MoKHNaCtCnuh1dQygMn"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 293333,
       "name": "Bavajud",
       "url": "https://open.spotify.com/track/11c2UM7bs99TrvsuGSvGWP"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 220111,
       "name": "Bawaria - From \"Dhadak 2\"",
       "url": "https://open.spotify.com/track/0QCdkOOINHgFUj3CxaoKMM"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 379071,
       "name": "Bichadna",
       "url": "https://open.spotify.com/track/30HPcTpMEEbTaR79T9zLmn"
@@ -1182,6 +1182,36 @@
       "duration_ms": 216986,
       "name": "Chahatein",
       "url": "https://open.spotify.com/track/236VOozHmMSm7yLLbaYXLy"
+    },
+    {
+      "album": {
+        "name": "Chahe Jo Ho (From \"Love In Vietnam\")",
+        "url": "https://open.spotify.com/album/2TSAD2PwSjeHP7MhZNCl2o"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Aamir Ali",
+          "url": "https://open.spotify.com/artist/46X00Pv0n9aGIkR9adzvgg"
+        },
+        {
+          "name": "Rahhat Shah Kazmi",
+          "url": "https://open.spotify.com/artist/0akOm9j9fXo73lGDPvpX7d"
+        },
+        {
+          "name": "Aishwarya Tripathi",
+          "url": "https://open.spotify.com/artist/73HnxBFkcbmQ3QqUqiFjkB"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233588,
+      "name": "Chahe Jo Ho (From \"Love In Vietnam\")",
+      "url": "https://open.spotify.com/track/6ORRb0rYrq0FB7fWE9XvHJ"
     },
     {
       "album": {
@@ -1538,7 +1568,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 249600,
       "name": "Dhul Gaye",
       "url": "https://open.spotify.com/track/3TXjNRh2C9ybqG2ZYDrgh5"
@@ -2897,6 +2927,32 @@
     },
     {
       "album": {
+        "name": "Jhoom Jhoom",
+        "url": "https://open.spotify.com/album/5zmJgoX7CGyOlxQSlX5WF1"
+      },
+      "artists": [
+        {
+          "name": "Meghdeep Bose",
+          "url": "https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Manoj Yadav",
+          "url": "https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307970,
+      "name": "Jhoom Jhoom",
+      "url": "https://open.spotify.com/track/1ZbddoQNQdutI2htLkAhPu"
+    },
+    {
+      "album": {
         "name": "Jiya",
         "url": "https://open.spotify.com/album/5jbylBl96YBPRaW22QJf1F"
       },
@@ -2942,6 +2998,32 @@
       "duration_ms": 206022,
       "name": "Jiya Laage Na",
       "url": "https://open.spotify.com/track/65Ejv1ucmRi0nXBdZMWM0S"
+    },
+    {
+      "album": {
+        "name": "Julmi Sawariya",
+        "url": "https://open.spotify.com/album/4qpU2MUMObHZKGh9021Itp"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Bhoomi Trivedi",
+          "url": "https://open.spotify.com/artist/16IWQKGP5XiiKxalXZuIMZ"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189044,
+      "name": "Julmi Sawariya",
+      "url": "https://open.spotify.com/track/1KMAzWU2TIrnHLpaHNoz4b"
     },
     {
       "album": {
@@ -3200,6 +3282,32 @@
       "duration_ms": 206542,
       "name": "Kitni Pyaari Si (From \"ANDAAZ 2\")",
       "url": "https://open.spotify.com/track/5kX7sUxOoQi2sh44DxWipi"
+    },
+    {
+      "album": {
+        "name": "Tu Meri Poori Kahani",
+        "url": "https://open.spotify.com/album/6LfZLLWvHlfEeLuXt5AsCm"
+      },
+      "artists": [
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        {
+          "name": "Aanandi Joshi",
+          "url": "https://open.spotify.com/artist/7qj8b5tuzeSkb4ff01h5rJ"
+        },
+        {
+          "name": "Shweta Bothra",
+          "url": "https://open.spotify.com/artist/4SaUCGLlUsUzH4ppt7ayiD"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431200,
+      "name": "Kuch Toh Hai - Female Version",
+      "url": "https://open.spotify.com/track/34eFvzyZqHkWl8WAFRu38x"
     },
     {
       "album": {
@@ -5016,7 +5124,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 180648,
       "name": "Sapphire (feat. Arijit Singh)",
       "url": "https://open.spotify.com/track/65dt1vedDHPOCCPS3mVhtN"
@@ -5050,6 +5158,28 @@
       "duration_ms": 245145,
       "name": "Sar Aankhon Pe Mere - From \"Sitaare Zameen Par\"",
       "url": "https://open.spotify.com/track/0YdGMQLUfkAude5fulp0b3"
+    },
+    {
+      "album": {
+        "name": "Sawaal",
+        "url": "https://open.spotify.com/album/0OR7vWEzcUAhoyO6HBrSXY"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Siddhant Bhosle",
+          "url": "https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211455,
+      "name": "Sawaal",
+      "url": "https://open.spotify.com/track/7FfCxoiaShMahjnHEGLGNu"
     },
     {
       "album": {
@@ -5401,7 +5531,7 @@
         },
         {
           "name": "Aryan Khan",
-          "url": "https://open.spotify.com/artist/33AKscrjhyspinlS8r4yKr"
+          "url": "https://open.spotify.com/artist/61gOxq7Ufie0TwQ5NzdG6F"
         },
         {
           "name": "Kumaar",
@@ -5583,6 +5713,32 @@
     },
     {
       "album": {
+        "name": "Teri Pehli Nazar (From \"Love In Vietnam\")",
+        "url": "https://open.spotify.com/album/4eS9yCRDlKVVu3BDcDlDvX"
+      },
+      "artists": [
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "Devv Sadaana",
+          "url": "https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215607,
+      "name": "Teri Pehli Nazar (From \"Love In Vietnam\")",
+      "url": "https://open.spotify.com/track/5kyJcLvzDC85mWf5LHqXwL"
+    },
+    {
+      "album": {
         "name": "The Po Po Song (From \"Son Of Sardaar 2\")",
         "url": "https://open.spotify.com/album/6PyWk5K1Ha5PtZ7yoaP6cp"
       },
@@ -5742,7 +5898,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 189500,
       "name": "Tu Dikhayi De",
       "url": "https://open.spotify.com/track/5NnQD7NWng53BtxR9CmAIY"
@@ -5798,6 +5954,32 @@
       "duration_ms": 301928,
       "name": "Tu Meri Dhadak Hai - From \"Dhadak 2\"",
       "url": "https://open.spotify.com/track/2zB9rx9QW4TsKyWjz6F2wD"
+    },
+    {
+      "album": {
+        "name": "Tu Meri Poori Kahani",
+        "url": "https://open.spotify.com/album/6LfZLLWvHlfEeLuXt5AsCm"
+      },
+      "artists": [
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        },
+        {
+          "name": "Shweta Bothra",
+          "url": "https://open.spotify.com/artist/4SaUCGLlUsUzH4ppt7ayiD"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371111,
+      "name": "Tu Meri Poori Kahani - Male Version",
+      "url": "https://open.spotify.com/track/364WOgSrjwWsiDEH4NZLee"
     },
     {
       "album": {
@@ -6026,7 +6208,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 243841,
       "name": "Yaar Bichhda - From \"Tehran\"",
       "url": "https://open.spotify.com/track/7gIVNnlh8oVCydvC5ZlDiq"
@@ -6069,6 +6251,36 @@
     },
     {
       "album": {
+        "name": "Ye Jawani Hai Diwani",
+        "url": "https://open.spotify.com/album/1gJ1ObyT70F0z7rhJOoMj6"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Shamir Tandon",
+          "url": "https://open.spotify.com/artist/5l78zXA0RNE96IP45w3d5t"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200416,
+      "name": "Ye Jawani Hai Diwani",
+      "url": "https://open.spotify.com/track/3x7AbWZsejP2Ou3q0EC2Eb"
+    },
+    {
+      "album": {
         "name": "Dhadak 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3daeQ1DOD0NOHjrrzwYaIy"
       },
@@ -6106,6 +6318,28 @@
       "duration_ms": 319009,
       "name": "Ye Lo",
       "url": "https://open.spotify.com/track/4GXz04z6A7G6NnR8KrGDiX"
+    },
+    {
+      "album": {
+        "name": "Yeh Desh - Reborn",
+        "url": "https://open.spotify.com/album/1dAl1ImWm7c8FNTLsfiDkb"
+      },
+      "artists": [
+        {
+          "name": "Vikram Montrose",
+          "url": "https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg"
+        },
+        {
+          "name": "Abhinav Shekhar",
+          "url": "https://open.spotify.com/artist/7bBqAz65fp8BVnuHQTFgSQ"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189696,
+      "name": "Yeh Desh - Reborn",
+      "url": "https://open.spotify.com/track/3hqTdRfpg4ychCuDeSZP91"
     },
     {
       "album": {

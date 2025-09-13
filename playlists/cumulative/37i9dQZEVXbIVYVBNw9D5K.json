@@ -3724,7 +3724,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 312000,
       "name": "Beni Hat\u0131rla",
       "url": "https://open.spotify.com/track/4mwKj8jNSq8eTp3ylpcBAE"
@@ -4948,7 +4948,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 268515,
       "name": "Bu A\u015fk Fazla Sana",
       "url": "https://open.spotify.com/track/3Ommpa2aE0RU3F04BedepA"
@@ -5260,7 +5260,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 139833,
       "name": "BURADA SOKAKLAR",
       "url": "https://open.spotify.com/track/2vPA1SN0fPjevTyvWIJNO4"
@@ -8540,7 +8540,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 174762,
       "name": "E\u011eME BOYUN",
       "url": "https://open.spotify.com/track/2QDSRyIio26v05eRWuBSjS"
@@ -20096,7 +20096,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 128947,
       "name": "SALINA SALINA",
       "url": "https://open.spotify.com/track/1Ka5a3r3oYJzCfXl5Uq2CA"
@@ -21164,6 +21164,24 @@
       "duration_ms": 177959,
       "name": "Sherlock Holmes - Tirat",
       "url": "https://open.spotify.com/track/0VtY1lmgsWOv6ciozU0DEn"
+    },
+    {
+      "album": {
+        "name": "SHEVCHENKO",
+        "url": "https://open.spotify.com/album/67VaNB2V6tWiuwr7DhSgci"
+      },
+      "artists": [
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100965,
+      "name": "SHEVCHENKO",
+      "url": "https://open.spotify.com/track/4GJEkYQVl6CSxh0qaS5O0Q"
     },
     {
       "album": {

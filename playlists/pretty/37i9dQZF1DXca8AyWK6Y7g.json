@@ -1,12 +1,12 @@
 {
   "description": "living life babe",
-  "num_followers": 1578874,
+  "num_followers": 1578647,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB9kZrN/Ku+xa0kZcAMgaa3nFC0Z",
+  "snapshot_id": "AAAAAOcuefWz8awbI5TCIO17vNWz8dYi",
   "tracks": [
     {
       "added_at": "2025-09-05 04:57:49",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/6uiwQZzhXU7IKFvtJ4DkRV"
     },
     {
-      "added_at": "2025-06-27 04:00:43",
-      "album": {
-        "name": "Lover Girl",
-        "url": "https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
-    },
-    {
       "added_at": "2025-08-29 04:01:51",
       "album": {
         "name": "Man\u2019s Best Friend",
@@ -57,20 +41,116 @@
       "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
     },
     {
-      "added_at": "2025-09-05 04:57:49",
+      "added_at": "2025-07-25 04:01:01",
       "album": {
-        "name": "God Damn Baby",
-        "url": "https://open.spotify.com/album/16B9iKwLj2CT7Rq6LiNMTR"
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
       },
       "artists": [
         {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 192744,
-      "name": "God Damn Baby",
-      "url": "https://open.spotify.com/track/75yGJrcOyZon1q5xn6NR7t"
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "added_at": "2025-09-12 04:00:25",
+      "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 177862,
+      "name": "I Met A Boy",
+      "url": "https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq"
+    },
+    {
+      "added_at": "2025-05-30 04:00:37",
+      "album": {
+        "name": "don't hold me accountable",
+        "url": "https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB"
+      },
+      "artists": [
+        {
+          "name": "Cil",
+          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
+        }
+      ],
+      "duration_ms": 175290,
+      "name": "hot shit",
+      "url": "https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh"
+    },
+    {
+      "added_at": "2025-09-12 04:00:25",
+      "album": {
+        "name": "Vodka Cranberry",
+        "url": "https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 245664,
+      "name": "Vodka Cranberry",
+      "url": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl"
+    },
+    {
+      "added_at": "2025-09-12 04:00:25",
+      "album": {
+        "name": "Olivia Dean - Spotify Live Room",
+        "url": "https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "The Dress (Dijon Cover) (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX"
+    },
+    {
+      "added_at": "2025-08-08 04:35:43",
+      "album": {
+        "name": "Shapeshifting on a Saturday Night",
+        "url": "https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s"
+      },
+      "artists": [
+        {
+          "name": "Avery Cochrane",
+          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
+        }
+      ],
+      "duration_ms": 205728,
+      "name": "Shapeshifting on a Saturday Night",
+      "url": "https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt"
+    },
+    {
+      "added_at": "2025-09-12 04:00:25",
+      "album": {
+        "name": "I Thought We'd Live Here Forever",
+        "url": "https://open.spotify.com/album/5xq3VxjI2Y0hx6mZy89Jkk"
+      },
+      "artists": [
+        {
+          "name": "beaux",
+          "url": "https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj"
+        }
+      ],
+      "duration_ms": 218613,
+      "name": "I'll Be Here When You're Back",
+      "url": "https://open.spotify.com/track/3pNcgvbucJFDBUPqWsDS6b"
     },
     {
       "added_at": "2025-08-22 04:32:11",
@@ -89,20 +169,116 @@
       "url": "https://open.spotify.com/track/6kMRCc9RQCseorIJFn0sJn"
     },
     {
-      "added_at": "2025-05-30 04:00:37",
+      "added_at": "2025-09-12 04:00:25",
       "album": {
-        "name": "don't hold me accountable",
-        "url": "https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB"
+        "name": "Little House",
+        "url": "https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y"
       },
       "artists": [
         {
-          "name": "Cil",
-          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 175290,
-      "name": "hot shit",
-      "url": "https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh"
+      "duration_ms": 246696,
+      "name": "What A Life",
+      "url": "https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5"
+    },
+    {
+      "added_at": "2025-09-12 04:00:25",
+      "album": {
+        "name": "East Of The Sun",
+        "url": "https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 175339,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB"
+    },
+    {
+      "added_at": "2025-09-05 04:57:49",
+      "album": {
+        "name": "God Damn Baby",
+        "url": "https://open.spotify.com/album/16B9iKwLj2CT7Rq6LiNMTR"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 192744,
+      "name": "God Damn Baby",
+      "url": "https://open.spotify.com/track/75yGJrcOyZon1q5xn6NR7t"
+    },
+    {
+      "added_at": "2025-09-12 04:00:25",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/3RYk2xBbRzb2ioIyH41mun"
+      },
+      "artists": [
+        {
+          "name": "Haven Madison",
+          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
+        }
+      ],
+      "duration_ms": 200045,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/1QtTacL4mYK42Y8nYkKY83"
+    },
+    {
+      "added_at": "2025-09-12 04:00:25",
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/5XoefP34nhwCwVI6dBpZ4E"
+      },
+      "artists": [
+        {
+          "name": "Evie Irie",
+          "url": "https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK"
+        }
+      ],
+      "duration_ms": 180566,
+      "name": "Rebel",
+      "url": "https://open.spotify.com/track/5DHVH6B3OcjuuURuVV4eKV"
+    },
+    {
+      "added_at": "2025-09-12 04:00:25",
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/0D02okGg2jKsdeDX3Gqhe8"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 186367,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/2oLdcgV9mi8acMszmVZnYS"
+    },
+    {
+      "added_at": "2025-06-27 04:00:43",
+      "album": {
+        "name": "Lover Girl",
+        "url": "https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
     },
     {
       "added_at": "2025-09-05 04:57:49",
@@ -183,22 +359,6 @@
       "duration_ms": 241732,
       "name": "i\u2019m too pretty for this",
       "url": "https://open.spotify.com/track/5GHDLL8nYL4dKing77xBiQ"
-    },
-    {
-      "added_at": "2025-07-25 04:01:01",
-      "album": {
-        "name": "12 to 12",
-        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
       "added_at": "2025-08-31 17:12:50",
@@ -411,22 +571,6 @@
       "duration_ms": 247000,
       "name": "Blushing",
       "url": "https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6"
-    },
-    {
-      "added_at": "2025-08-08 04:35:43",
-      "album": {
-        "name": "Shapeshifting on a Saturday Night",
-        "url": "https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s"
-      },
-      "artists": [
-        {
-          "name": "Avery Cochrane",
-          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
-        }
-      ],
-      "duration_ms": 205728,
-      "name": "Shapeshifting on a Saturday Night",
-      "url": "https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt"
     },
     {
       "added_at": "2025-07-11 04:00:22",
@@ -961,46 +1105,6 @@
       "url": "https://open.spotify.com/track/39M1vHVjacFSQroeRSTV4V"
     },
     {
-      "added_at": "2025-07-25 04:01:01",
-      "album": {
-        "name": "Wet Hair",
-        "url": "https://open.spotify.com/album/25Y5fgIAftGWw3W0ghPNTK"
-      },
-      "artists": [
-        {
-          "name": "Audrey Hobert",
-          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Wet Hair",
-      "url": "https://open.spotify.com/track/28g2ptfHl9P6VJrIwPDHKn"
-    },
-    {
-      "added_at": "2025-08-01 00:00:22",
-      "album": {
-        "name": "Girls Just Wanna Be Famous(er)",
-        "url": "https://open.spotify.com/album/6pFIHcXkm2IoTVpuFuCc9Q"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        },
-        {
-          "name": "MARIS",
-          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
-        },
-        {
-          "name": "Molly Grace",
-          "url": "https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH"
-        }
-      ],
-      "duration_ms": 161060,
-      "name": "Girls Just Wanna Be Famous(er)",
-      "url": "https://open.spotify.com/track/3M1LgeXNTjRs99oDyAXsVf"
-    },
-    {
       "added_at": "2025-06-20 04:00:44",
       "album": {
         "name": "Rein Me In (with Olivia Dean)",
@@ -1117,22 +1221,6 @@
       "url": "https://open.spotify.com/track/5ApnrwxpgMOETU50C9JjzM"
     },
     {
-      "added_at": "2025-07-18 04:30:37",
-      "album": {
-        "name": "Dive Bar Opera",
-        "url": "https://open.spotify.com/album/5y8vYUf5I66jv3OHOAFxPn"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 146054,
-      "name": "Dive Bar Opera",
-      "url": "https://open.spotify.com/track/1WBy88hoogwNohh3PPwpRb"
-    },
-    {
       "added_at": "2025-01-24 05:00:54",
       "album": {
         "name": "21st Century Cool Girl",
@@ -1147,22 +1235,6 @@
       "duration_ms": 197655,
       "name": "21st Century Cool Girl",
       "url": "https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt"
-    },
-    {
-      "added_at": "2025-07-11 04:00:22",
-      "album": {
-        "name": "Jellyfish",
-        "url": "https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 186435,
-      "name": "Jellyfish",
-      "url": "https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw"
     },
     {
       "added_at": "2025-07-18 04:45:42",

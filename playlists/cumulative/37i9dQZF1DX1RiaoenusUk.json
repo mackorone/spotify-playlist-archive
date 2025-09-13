@@ -1305,6 +1305,28 @@
     },
     {
       "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/0xQBnUxQ2X5Rv2onXeXKfi"
+      },
+      "artists": [
+        {
+          "name": "Lopsis",
+          "url": "https://open.spotify.com/artist/7a03TrYmYowGh36mXBsLGD"
+        },
+        {
+          "name": "Kiefa",
+          "url": "https://open.spotify.com/artist/1pdGBLkz1FE6kFpgjXtMfX"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166528,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/64h1Hb1B7nscCcQRuGu7IX"
+    },
+    {
+      "album": {
         "name": "Funky Magazine",
         "url": "https://open.spotify.com/album/0dpvI4sK6dte5X32dELM95"
       },
@@ -2266,7 +2288,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 207888,
       "name": "Polvo C\u00f3smico - Remix",
       "url": "https://open.spotify.com/track/70a8kMxbPGDkGk0yNXnU5B"

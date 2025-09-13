@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-347 songs - 22 hr 25 min
+348 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Gliding Through Everything](https://open.spotify.com/track/2QE9lU3p7G3vF2GhaIyQsB) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 4:08 | 2025-08-15 |  |
 | [Go](https://open.spotify.com/track/3rXRBdXLKrccDbmHq9ID2m) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [Go](https://open.spotify.com/album/6R4b5As03b4M96c6QxyOhs) | 2:54 | 2024-11-01 |  |
 | [Golden Hour](https://open.spotify.com/track/0sej79DRiZ9sdldWxMU66H) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X), [Zen That Beat](https://open.spotify.com/artist/5tvZL3AII2rEZExWD64M2r) | [Golden Hour](https://open.spotify.com/album/4PokXbdxPuVTXnxzyJg8VO) | 3:37 | 2025-09-08 |  |
+| [Gone Gone Gone](https://open.spotify.com/track/7fz1Yct0n5ea5PDlZ9JqVi) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm), [Polar M](https://open.spotify.com/artist/3deSTS7GVnIHb5s6T7rV5g) | [Dance](https://open.spotify.com/album/0jJrmv08OZRYXwGQk8LUR9) | 5:21 | 2025-09-12 |  |
 | [Green](https://open.spotify.com/track/4EcQ8GHyJGLw45jkA9SzmD) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 3:48 | 2024-01-12 | 2024-02-03 |
 | [Happiness](https://open.spotify.com/track/42dXKrKWJwYf7tnRbdsrfo) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Happiness](https://open.spotify.com/album/7ugVT07wxOcRKewNgcE9J4) | 1:40 | 2023-12-08 | 2024-01-13 |
 | [Happiness](https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Happiness](https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx) | 3:59 | 2024-02-02 | 2025-03-15 |
@@ -275,7 +276,7 @@
 | [Satisfied \- Ambient Reprise](https://open.spotify.com/track/4vNW3T8XMgXltqrSxNnykV) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied \(The Remixes\)](https://open.spotify.com/album/7zEKaM5PDUm8GfEk1Lzt0b) | 3:15 | 2025-01-17 |  |
 | [Satisfied \[Strings\]](https://open.spotify.com/track/4hUI4xL5nAiY2pAWBfohEH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied \[Strings\]](https://open.spotify.com/album/6yWdmcKUunAkFi4V6rfV1B) | 2:57 | 2024-08-23 | 2025-01-18 |
 | [Second Chance](https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Second Chance](https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS) | 4:30 | 2024-01-12 | 2025-04-26 |
-| [Shadow Cycle](https://open.spotify.com/track/1zlbeVYcTnlW8fSCCBiTfj) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 2:44 | 2025-08-15 |  |
+| [Shadow Cycle](https://open.spotify.com/track/1zlbeVYcTnlW8fSCCBiTfj) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 2:44 | 2025-08-15 | 2025-09-13 |
 | [Shall We Begin](https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Shall We Begin](https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg) | 3:27 | 2025-01-14 |  |
 | [shimmering like you taught me](https://open.spotify.com/track/2mAj7esKn9QtZwjzKKAyow) | [Jorge](https://open.spotify.com/artist/06gZcKE43fmppPdPVYG8HV) | [shimmering like you taught me](https://open.spotify.com/album/1eBMSN2GVwskDKeBKUcuYa) | 2:44 | 2024-07-19 | 2024-08-17 |
 | [Shinrin\-yoku \(森林浴\)](https://open.spotify.com/track/2gHvMuXWRWs1E3hGhba4Vl) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Shinrin\-yoku \(森林浴\)](https://open.spotify.com/album/2fb2A2HtNR5dUvFpai1Pmv) | 4:38 | 2023-12-08 | 2024-01-20 |
@@ -296,7 +297,7 @@
 | [Smiling Through The Pain](https://open.spotify.com/track/2yE235IuLnmcYj9kj2TJSI) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 1:37 | 2024-06-21 | 2024-08-03 |
 | [Snow Day](https://open.spotify.com/track/4om6fOW3uXnGWfTSmLDfwq) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Snow Day](https://open.spotify.com/album/4CGsHJyqHvYt1TdEtj359g) | 3:28 | 2023-12-08 | 2023-12-16 |
 | [Softness II](https://open.spotify.com/track/1JVpCuDd3FVoaGlbPQV3lW) | [Jorge](https://open.spotify.com/artist/06gZcKE43fmppPdPVYG8HV) | [Softness II](https://open.spotify.com/album/5qZZk35b3QYQy7Nytj7TVT) | 3:34 | 2024-11-01 | 2024-11-09 |
-| [Solace](https://open.spotify.com/track/27DozBowhDYuHNExnzbipt) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Solace](https://open.spotify.com/album/3jnjfy0d3wpbZ12cy1LlPj) | 3:13 | 2023-12-08 |  |
+| [Solace](https://open.spotify.com/track/27DozBowhDYuHNExnzbipt) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Solace](https://open.spotify.com/album/3jnjfy0d3wpbZ12cy1LlPj) | 3:13 | 2023-12-08 | 2025-09-13 |
 | [Starlight](https://open.spotify.com/track/7fAZs2JfvclRnHJSsd3aGt) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [Starlight](https://open.spotify.com/album/1B5a772TAeLW1f5nnu8din) | 3:21 | 2025-07-18 | 2025-08-16 |
 | [Stay](https://open.spotify.com/track/58AB6UhgBqKSPByXQiUFkS) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Stay](https://open.spotify.com/album/0Va3WNAvWz7Tb3e2XjI4kb) | 4:10 | 2025-01-13 |  |
 | [Stellar](https://open.spotify.com/track/2Go5FfwZeqUPW3OnmPdmPN) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Mimose](https://open.spotify.com/album/4C3g7KoC8HBoiURn8eWGaa) | 3:45 | 2024-04-19 | 2024-06-15 |

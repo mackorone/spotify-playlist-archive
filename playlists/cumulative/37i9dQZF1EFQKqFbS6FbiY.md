@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-689 songs - 1 day 9 hr 33 min
+690 songs - 1 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,8 @@
 | [Dá uma Chance Pra Nós \- Ao Vivo](https://open.spotify.com/track/1YfOvCotaV0FMfbZIwmM4x) | [Lu Fossi](https://open.spotify.com/artist/5UooWZC3dCujBUWDDgn0G3), [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm) | [Dá uma Chance Pra Nós \(Ao Vivo\)](https://open.spotify.com/album/7wNQyQsqSmnIV0SYc6YaA2) | 3:10 | 2023-12-30 |  |
 | [Dá uma Segurada \- Ao Vivo](https://open.spotify.com/track/5fQ7LowPHFRDMI4CEXvNfs) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Contraste \(Ao Vivo\)](https://open.spotify.com/album/45j7kQSCmIQt3XJbOhO9Bx) | 2:50 | 2023-12-30 | 2025-06-28 |
 | [E Eu](https://open.spotify.com/track/2GfCkgOiNolKBv1HTnD14H) | [Vitor Lima](https://open.spotify.com/artist/3n5lTanyLbwil9M5vkjFqh) | [Brincar de Vida](https://open.spotify.com/album/4xYyGSs39slfLLhRPssNFH) | 3:27 | 2023-12-30 |  |
-| [Eclipse](https://open.spotify.com/track/3iPojzimwFbZMIFal2rGoF) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Solaris EP](https://open.spotify.com/album/1dHjqHTWHDvr7JZ5eqjA54) | 5:57 | 2024-01-06 |  |
+| [Eclipse](https://open.spotify.com/track/4VKt2DlbNb5jzNZZXNZRJv) | [Audio Lotion](https://open.spotify.com/artist/5cZ5SHlKcEENAxUuRgbU10) | [Metrosensual](https://open.spotify.com/album/3o2HFdr1aiu73iPwuDGAWQ) | 5:01 | 2025-09-12 |  |
+| [Eclipse](https://open.spotify.com/track/3iPojzimwFbZMIFal2rGoF) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Solaris EP](https://open.spotify.com/album/1dHjqHTWHDvr7JZ5eqjA54) | 5:57 | 2024-01-06 | 2025-09-13 |
 | [Eclipse](https://open.spotify.com/track/4SKMrPrW8frZEI8AyqYXsv) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Solaris EP](https://open.spotify.com/album/7KPGIirUj8LCjGUTnXpCgB) | 5:57 | 2023-12-30 | 2024-01-07 |
 | [Ela Bebeu Demais](https://open.spotify.com/track/4V2ui915VSDGM78CtDgqNg) | [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C) | [Jm](https://open.spotify.com/album/4E6f45NgRNA2g05ewJXFnu) | 3:11 | 2023-12-30 | 2025-06-28 |
 | [Ela Engana Bem](https://open.spotify.com/track/43IGpXyM0KpMqqmIKTZCgt) | [Mateus Camillo](https://open.spotify.com/artist/36SK9M4qewJfoCmbbjnpzP) | [Eu e Você](https://open.spotify.com/album/7h6CWCea9P6SLDkL9dhdiP) | 2:32 | 2024-01-09 |  |

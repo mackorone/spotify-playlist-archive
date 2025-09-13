@@ -2115,6 +2115,24 @@
     },
     {
       "album": {
+        "name": "Colorful Skies",
+        "url": "https://open.spotify.com/album/2P2IhMt0oh8V9mRtKlWxkm"
+      },
+      "artists": [
+        {
+          "name": "makers mask",
+          "url": "https://open.spotify.com/artist/2QtcIrpLf2jtdMDs8gF3Q9"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Colorful Skies",
+      "url": "https://open.spotify.com/track/63kpKtoxzjJbWVQCCp4iqe"
+    },
+    {
+      "album": {
         "name": "Coloring Book",
         "url": "https://open.spotify.com/album/5iWXKx09E9WAsRiGUBULCL"
       },
@@ -3010,6 +3028,24 @@
       "duration_ms": 188571,
       "name": "Dreamscapes",
       "url": "https://open.spotify.com/track/0lH7Pb1Tneet6TAzIAFHZq"
+    },
+    {
+      "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/2sqIovu6Xq6rORktpPbcMa"
+      },
+      "artists": [
+        {
+          "name": "Half Tone",
+          "url": "https://open.spotify.com/artist/2AQalBCbiCK7zUReGcIzA8"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141823,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/5SlZp3PgAC8mK64zsx34OH"
     },
     {
       "album": {
@@ -5894,7 +5930,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 173333,
       "name": "Ladder to the Stars",
       "url": "https://open.spotify.com/track/1SAux0dXdZBJphTIr6zg6p"
@@ -10224,7 +10260,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 149490,
       "name": "skystream",
       "url": "https://open.spotify.com/track/3cpH965slVAktKRqw8yjGI"
@@ -11893,6 +11929,24 @@
     },
     {
       "album": {
+        "name": "Tiger Hill",
+        "url": "https://open.spotify.com/album/1px17l45XWDQNXqANJuCnz"
+      },
+      "artists": [
+        {
+          "name": "The Afronaut",
+          "url": "https://open.spotify.com/artist/0RcAEaIg21iTmK6ru4WS9U"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160392,
+      "name": "Tiger Hill",
+      "url": "https://open.spotify.com/track/603ppRIZkfxa45IZkwbGLN"
+    },
+    {
+      "album": {
         "name": "Focus Inside",
         "url": "https://open.spotify.com/album/6j0BaPQlbezfWxEcVB7CLB"
       },
@@ -12748,7 +12802,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 121666,
       "name": "War of Jenkins",
       "url": "https://open.spotify.com/track/5nOs1XotO7WDv10F9CjiH0"

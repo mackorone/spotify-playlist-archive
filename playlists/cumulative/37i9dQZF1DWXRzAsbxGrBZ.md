@@ -2,9 +2,9 @@
 
 ### [Deep House Session](https://open.spotify.com/playlist/37i9dQZF1DWXRzAsbxGrBZ)
 
-> Get revived with some of the best Deep House South Africa has to offer\. Cover: <a href="https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD?si=2BamayqtRn2v0ThhAsIjSQ">LaTique</a>
+> Get revived with some of the best Deep House South Africa has to offer\. Cover: beatsbyhand, Sio
 
-360 songs - 1 day 16 hr 59 min
+362 songs - 1 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Amor](https://open.spotify.com/track/44cQTb4w0KFe0e6GYVagiQ) | [Luxury SA](https://open.spotify.com/artist/1KuiSB2g4gYQoyjmUy4cea) | [Amor](https://open.spotify.com/album/7qKGijVAnApTpXoywHTzsZ) | 5:08 | 2025-05-22 | 2025-05-27 |
 | [Amplified Zone](https://open.spotify.com/track/4nfY8k8nVypCCVSVMnui86) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [Amplified Zone](https://open.spotify.com/album/3rvIj2PfEKBmJEmfMikco8) | 7:48 | 2022-11-17 | 2024-04-27 |
 | [Amplified Zone](https://open.spotify.com/track/5B9oWE2Yp4jigMRPqg6IYs) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [Amplified Zone](https://open.spotify.com/album/6BunQuy6Xhv9XDGJChRyzE) | 7:48 | 2024-03-15 | 2024-04-19 |
+| [Analog Machines](https://open.spotify.com/track/1z1nEV8ojMyGwbJ6T54uvI) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Stay True Sounds Vol.7 Compiled By Kid Fonque](https://open.spotify.com/album/01sfxL3RAdUxmk3ulRnH4x) | 6:54 | 2025-09-12 |  |
 | [Angikaze](https://open.spotify.com/track/1n2LjzjCZPYx78wdxLHvH9) | [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe), [CocoSA](https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j), [George Lesley](https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL) | [Angikaze](https://open.spotify.com/album/24jSGmLZMp4TVNnD8GSDtE) | 6:43 | 2022-09-29 | 2023-03-18 |
 | [Angisakhoni](https://open.spotify.com/track/5DmShmiXG3tr1ecawIj5lU) | [Mr Shane SA](https://open.spotify.com/artist/59ktOxkRezipbkRhjsDCHZ), [Nto Musica](https://open.spotify.com/artist/5tY5mwl5YNRpp2nQhRU4JR) | [Angisakhoni](https://open.spotify.com/album/4OjvvWAt33gzXlopHCjE2Z) | 5:36 | 2025-07-24 |  |
 | [Another Day \(feat\. Ziyon\)](https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ) | [Sculptured Music](https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN), [Ziyon](https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy) | [Reputation](https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS) | 5:30 | 2024-02-15 | 2025-02-28 |
@@ -181,7 +182,7 @@
 | [Love Me](https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Love Me](https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law) | 6:32 | 2022-09-29 | 2023-03-11 |
 | [Love Peace & Happiness](https://open.spotify.com/track/0wQgeIIKdYECAOKaiFn7Wa) | [House Victimz](https://open.spotify.com/artist/2jLxHBm09mAVmAoaVh47Lr) | [Victimized, Vol\. 2](https://open.spotify.com/album/5rP9dcGPYuXvoFGtecoUiV) | 7:33 | 2025-02-21 |  |
 | [Lucky Man \- Da Gifto's Remake](https://open.spotify.com/track/4xb4ur7DrYA4L5sBS2cvN8) | [LnSoul](https://open.spotify.com/artist/5UfmOvlvYSikp9JvZutZtk), [Kenton Lee](https://open.spotify.com/artist/6YBvH6Au8RM76TTcuTDA5h), [Caviar Musique](https://open.spotify.com/artist/4kbLdUj3XS7lBxUI5ZynFz) | [Lucky Man \(Da Gifto's Remake\)](https://open.spotify.com/album/2EssVYSSSLOJjKcOBxusWf) | 8:08 | 2025-02-27 |  |
-| [Luv Wit U](https://open.spotify.com/track/2r3XVKpAH3CoIhPgf5dJ87) | [Roque](https://open.spotify.com/artist/0T58iqONtkqeUUMUC8RkdQ) | [Mind CTRL](https://open.spotify.com/album/375eBdw4nw3xddrWsvQqtl) | 5:00 | 2025-08-21 |  |
+| [Luv Wit U](https://open.spotify.com/track/2r3XVKpAH3CoIhPgf5dJ87) | [Roque](https://open.spotify.com/artist/0T58iqONtkqeUUMUC8RkdQ) | [Mind CTRL](https://open.spotify.com/album/375eBdw4nw3xddrWsvQqtl) | 5:00 | 2025-08-21 | 2025-09-13 |
 | [M.A.U.R](https://open.spotify.com/track/6FN2OCdwgB83jSf5DS3hIn) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 7:24 | 2022-09-14 | 2022-10-03 |
 | [Magic](https://open.spotify.com/track/3HjYj3NtP9nO539UA4KTXB) | [Miza](https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1), [Aubs](https://open.spotify.com/artist/7xFMyWEhRwAXmnhr6dMVm3), [Kabomo](https://open.spotify.com/artist/3OcUY8YTn6uDmMyCzKw18f) | [Mmino Wa Batho](https://open.spotify.com/album/3NMGKlR1F7LrS3cF8U3sGJ) | 5:54 | 2024-10-31 | 2025-03-08 |
 | [Make iit \- Vocal Mix](https://open.spotify.com/track/240ghJBlXfR022lq75B9Jp) | [KaySoul](https://open.spotify.com/artist/0eCTrYePahyPxq2lIHpzfv), [OVEOUS](https://open.spotify.com/artist/5AnuYnFCVs0mK7rbcvIiBc) | [Make iit \(Vocal Mix\)](https://open.spotify.com/album/5mlah7XljL0QzG1btoYXHj) | 5:20 | 2025-07-10 | 2025-08-08 |
@@ -331,6 +332,7 @@
 | [To The World](https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A) | [Brazo Wa Afrika](https://open.spotify.com/artist/6uGuuIkpLIWdUYVJit1dvP), [Chymamusique](https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI) | [To The World](https://open.spotify.com/album/4pQzAwYAdmIKo7xDoKQ35v) | 6:27 | 2022-09-14 | 2024-07-19 |
 | [Traveling To Pluto](https://open.spotify.com/track/66u3aazALT5fmstO4btvlz) | [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5) | [Wish You Were Mine](https://open.spotify.com/album/00PJd2ro1zXNoYuMhlPxls) | 6:30 | 2025-02-27 | 2025-03-08 |
 | [Trend Setter](https://open.spotify.com/track/2ydLak6j30HnQZcHXVTKa2) | [Smagsoul \(SA\)](https://open.spotify.com/artist/4Px8sG6gOwEF8MIKgO5NQf), [Mega BT](https://open.spotify.com/artist/3MfzVTk6dH9KKe459heRZo), [KingTouch](https://open.spotify.com/artist/19mB8PdWAm23SETJac3rOG) | [Trend Setter](https://open.spotify.com/album/2R1SKY57U4lDHT8aH8D5W7) | 7:22 | 2025-05-01 | 2025-06-20 |
+| [Trick Me \- Extended](https://open.spotify.com/track/09oEsJQraqsAIPM1VsmPNH) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Trick Me](https://open.spotify.com/album/4wBN9DMEXCGbfrS0cou5yl) | 6:36 | 2025-09-12 |  |
 | [Trill is Gone \- Original Mix](https://open.spotify.com/track/6eHT2RqorlHgS68W6U62X2) | [Deep Xcape](https://open.spotify.com/artist/1PZwBIf3nPI7r8jvS0Oh9Z), [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5) | [Sin City \[Italian Mafia \(God Father Edition\)\]](https://open.spotify.com/album/5qK2NsJpHTj6mcZ37BvozA) | 6:30 | 2022-09-14 | 2022-11-18 |
 | [Truth \- Nostalgic Mix](https://open.spotify.com/track/1TNs2tJtHYShkH5OYYYLEK) | [The Godfathers Of Deep House SA](https://open.spotify.com/artist/0DTHMLPSmN9DLQdi0Di5ND) | [Trace EP](https://open.spotify.com/album/2k6OcQTdxtE89UQzh7nek3) | 7:08 | 2024-06-06 | 2025-05-02 |
 | [Try To Remember \(Original Mix\)](https://open.spotify.com/track/6KerR6DY3JYn27TE7De4vG) | [MacZito](https://open.spotify.com/artist/2thqWGNDvNBDTetSDqquhC) | [MEMORIES](https://open.spotify.com/album/33hQ1jsLvMsr4M2onJr6eI) | 7:39 | 2025-03-20 | 2025-04-11 |

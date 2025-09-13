@@ -1,13 +1,29 @@
 {
   "description": "Still yachting. Cover: Yacht Rock Revue",
-  "num_followers": 19209,
+  "num_followers": 19217,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGnHxUkrTo15RMF+4BlYA435n4JR",
+  "snapshot_id": "AAAAAHyAtGEex1WmGBdSLtQGBdZ4TKRk",
   "tracks": [
+    {
+      "added_at": "2025-09-12 04:00:28",
+      "album": {
+        "name": "Lovesick Jukebox",
+        "url": "https://open.spotify.com/album/6G1fK4rqGWc7CFW4K4wqcM"
+      },
+      "artists": [
+        {
+          "name": "Nathan Farrell",
+          "url": "https://open.spotify.com/artist/23TLmhli2QZAV6iJsySHeW"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Guilty Lover",
+      "url": "https://open.spotify.com/track/6ZQmDtlDuosc8R1Tbr3Ewn"
+    },
     {
       "added_at": "2025-08-15 04:00:11",
       "album": {
@@ -659,26 +675,6 @@
       "duration_ms": 243946,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/4niMjTTcDJFOKxOzn9INQy"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Let\u2019s Start Here.",
-        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Diana Gordon",
-          "url": "https://open.spotify.com/artist/71Ug2zQHWlJFjNCK8swHfL"
-        }
-      ],
-      "duration_ms": 229804,
-      "name": "drive ME crazy!",
-      "url": "https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12"
     },
     {
       "added_at": "2023-09-01 04:00:00",

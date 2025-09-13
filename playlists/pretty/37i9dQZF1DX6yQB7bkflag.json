@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Kali Uchis, Ravyn Lenae",
-  "num_followers": 117853,
+  "num_followers": 117860,
   "original_name": "Pop Rising Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHbBO43PoT6zsoKApjEiv7dLOIl3",
+  "snapshot_id": "AAAAAKeoIlwwlAp+xpV6LnDVMaQlwzEL",
   "tracks": [
     {
       "added_at": "2025-09-12 01:47:03",
@@ -111,8 +111,8 @@
     {
       "added_at": "2025-09-12 01:47:03",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH"
       },
       "artists": [
         {
@@ -219,6 +219,26 @@
     {
       "added_at": "2025-09-12 01:47:03",
       "album": {
+        "name": "Dancing By Myself",
+        "url": "https://open.spotify.com/album/2NWDOJYhFJ92FaFtZMbgjw"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        },
+        {
+          "name": "Timethai",
+          "url": "https://open.spotify.com/artist/4OP4jGznSvNjM0aY8IFm3S"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Dancing By Myself",
+      "url": "https://open.spotify.com/track/4xrUExyBK5PrsSnq0fQZVG"
+    },
+    {
+      "added_at": "2025-09-12 01:47:03",
+      "album": {
         "name": "REMIND ME",
         "url": "https://open.spotify.com/album/5NZLWaWu9JYHR2Vqy5A1Zu"
       },
@@ -301,6 +321,118 @@
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
     },
     {
+      "added_at": "2025-09-12 07:38:28",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/5uurUTJsmlR5v29fb42u2r"
+      },
+      "artists": [
+        {
+          "name": "dia",
+          "url": "https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/0cYa8kO74yiwQkl4V1I61Q"
+    },
+    {
+      "added_at": "2025-09-12 07:38:28",
+      "album": {
+        "name": "Izinkan Hatimu Bicara",
+        "url": "https://open.spotify.com/album/1UhNjlBNxHOdUY9euNqyVj"
+      },
+      "artists": [
+        {
+          "name": "Segara",
+          "url": "https://open.spotify.com/artist/0WjyOvIkQBnivAPEMLRMIC"
+        }
+      ],
+      "duration_ms": 269293,
+      "name": "Izinkan Hatimu Bicara",
+      "url": "https://open.spotify.com/track/5ZxoU3xRM3bx55bb3VZTT8"
+    },
+    {
+      "added_at": "2025-09-12 07:38:28",
+      "album": {
+        "name": "Kias",
+        "url": "https://open.spotify.com/album/4tHWs8ezoBOwMbk5G9xeIL"
+      },
+      "artists": [
+        {
+          "name": "Fanny Soegi",
+          "url": "https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE"
+        }
+      ],
+      "duration_ms": 381983,
+      "name": "Kias",
+      "url": "https://open.spotify.com/track/63uf6yvX8NxuNk2c55ojwC"
+    },
+    {
+      "added_at": "2025-09-12 07:38:28",
+      "album": {
+        "name": "Elevator Music",
+        "url": "https://open.spotify.com/album/5AjKa0nb3p4CSPOpICdWNu"
+      },
+      "artists": [
+        {
+          "name": "Tripov",
+          "url": "https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h"
+        }
+      ],
+      "duration_ms": 172827,
+      "name": "Elevator Music",
+      "url": "https://open.spotify.com/track/3JPlpg1N3G4wv5QrTOSjvR"
+    },
+    {
+      "added_at": "2025-09-12 07:38:28",
+      "album": {
+        "name": "Aku Cape Banget",
+        "url": "https://open.spotify.com/album/3xbo1OE0afgzqK5btGnDc3"
+      },
+      "artists": [
+        {
+          "name": "Refo Dan Fauna",
+          "url": "https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi"
+        }
+      ],
+      "duration_ms": 190557,
+      "name": "Aku Cape Banget",
+      "url": "https://open.spotify.com/track/4D3PddoeRoeKqSpacIawSz"
+    },
+    {
+      "added_at": "2025-09-12 07:38:28",
+      "album": {
+        "name": "Givemeall",
+        "url": "https://open.spotify.com/album/38Zs67jtlLmGKtaRqD14mT"
+      },
+      "artists": [
+        {
+          "name": "Guernica Club",
+          "url": "https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn"
+        }
+      ],
+      "duration_ms": 354621,
+      "name": "Givemeall",
+      "url": "https://open.spotify.com/track/2ILd3ZZM7yC8aPyZ2PUTK0"
+    },
+    {
+      "added_at": "2025-09-12 07:38:28",
+      "album": {
+        "name": "Aku Ingin",
+        "url": "https://open.spotify.com/album/5M7gzKtJsGKEhhV7Isa0ES"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Gaskins",
+          "url": "https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR"
+        }
+      ],
+      "duration_ms": 261303,
+      "name": "Aku Ingin",
+      "url": "https://open.spotify.com/track/4lmgkmp7kOMg0ilXMyJheF"
+    },
+    {
       "added_at": "2025-09-12 01:47:03",
       "album": {
         "name": "SPIDERS",
@@ -335,6 +467,22 @@
       "duration_ms": 137733,
       "name": "Gyatt",
       "url": "https://open.spotify.com/track/6cpRVsxxwB04HEnOGddGCc"
+    },
+    {
+      "added_at": "2025-09-12 07:44:05",
+      "album": {
+        "name": "Tidak Nyambung, Daijobu",
+        "url": "https://open.spotify.com/album/4fTEL2xstF3Oig1sWkPain"
+      },
+      "artists": [
+        {
+          "name": "Kawaii Indonesia",
+          "url": "https://open.spotify.com/artist/1tR2xnwcejRtktExL88nPa"
+        }
+      ],
+      "duration_ms": 183740,
+      "name": "Tidak Nyambung, Daijobu",
+      "url": "https://open.spotify.com/track/05ODly4EekASJ7NjJizd8J"
     },
     {
       "added_at": "2025-09-12 01:47:03",

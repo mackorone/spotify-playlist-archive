@@ -2,9 +2,9 @@
 
 ### [Varsity Bars](https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm)
 
-> A little bit of pop, a little bit of rap, a little bit of country? Cover: Lil Peep
+> A little bit of pop, a little bit of rap, a little bit of country? Cover: CORTIS
 
-765 songs - 1 day 10 hr 58 min
+767 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Fallin](https://open.spotify.com/track/4v3W97RqEN0kgaLAre1pbJ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Fallin](https://open.spotify.com/album/3BNE2EslctMXmhiffyrVGt) | 2:01 | 2022-01-28 | 2022-02-26 |
 | [Falling Slowly](https://open.spotify.com/track/20O2mCvJkmrZ5RNED9tbpu) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [Falling Slowly](https://open.spotify.com/album/3vwDyVZuMeteQGUVb3tF7S) | 1:59 | 2022-03-25 | 2022-07-07 |
 | [fantasize](https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fantasize](https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE) | 2:30 | 2022-05-19 | 2022-07-13 |
+| [FaSHioN](https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:54 | 2025-09-12 |  |
 | [Father's Eyes \(feat\. Stan Walker\)](https://open.spotify.com/track/5nxQzwAkcKPPOhF7RBLDWg) | [Kobie Dee](https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Father's Eyes \(feat\. Stan Walker\)](https://open.spotify.com/album/2AjIya9H5LNYjFS2ipFUXt) | 2:52 | 2023-11-10 | 2024-06-01 |
 | [Favorite Hoodie](https://open.spotify.com/track/7si7Q6h3MSuTpRJ6v9e0Py) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Favorite Hoodie](https://open.spotify.com/album/4q885P1HRolf3Gr8whgGt2) | 1:53 | 2022-10-07 | 2022-11-30 |
 | [favorite song](https://open.spotify.com/track/4h9DDdqtoiamRfNMYTwvwE) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [favorite song](https://open.spotify.com/album/02EcgisWMMm96JVl6r0mjf) | 2:11 | 2021-11-16 | 2022-02-26 |
@@ -434,7 +435,7 @@
 | [Miami](https://open.spotify.com/track/1N8dX8FWPUzVuSlKJA25FK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:25 | 2025-05-27 | 2025-08-23 |
 | [midwest kids](https://open.spotify.com/track/5VPiXYa0YEMrq6cf0MFWM5) | [Apollo](https://open.spotify.com/artist/6DuMOGPBqZFTTM1MawW6Lw) | [midwest kids](https://open.spotify.com/album/7eX31xLsNWdM8NFJu1oLlb) | 2:25 | 2022-10-21 | 2023-06-17 |
 | [Mile Away](https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Mile Away](https://open.spotify.com/album/3jWJ0eFI78vTuyZwNpZfrD) | 3:26 | 2024-05-31 | 2025-02-25 |
-| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2025-04-15 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2025-04-15 | 2025-09-13 |
 | [miranda!](https://open.spotify.com/track/3uG9TIm5RSa04lKkPvb4wu) | [Buppy.](https://open.spotify.com/artist/3ycfZfYaqEN0PpZ2nB89k4) | [miranda!](https://open.spotify.com/album/1pC6umMKhr0BrOtJT8QxG2) | 2:19 | 2023-04-07 | 2023-07-08 |
 | [MISS ME](https://open.spotify.com/track/3obnp1i01eTrrU816HOfxx) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [MISS ME](https://open.spotify.com/album/3nswnoYynY8SodmuIpVhOu) | 2:38 | 2023-02-03 | 2024-01-23 |
 | [Miss Sunshine](https://open.spotify.com/track/1kl741F4JVqW36Cte5kRg1) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Miss Sunshine](https://open.spotify.com/album/3UbrfhQSsZ5NTQrAZUdLYq) | 3:23 | 2025-02-24 | 2025-05-28 |
@@ -457,7 +458,7 @@
 | [My Shit](https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 2:08 | 2022-04-04 | 2022-10-01 |
 | [MY TIME](https://open.spotify.com/track/0pM1oWq2iw8W0AY6ORdC0x) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [MY TIME](https://open.spotify.com/album/6ir87nGMrNUOEl4aNc437S) | 2:30 | 2022-03-25 | 2022-07-02 |
 | [My World](https://open.spotify.com/track/5PCn4ysnzhILLhQY0u4Ans) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [My World](https://open.spotify.com/album/3WRgF7kV3rACmcjk8JDbdh) | 2:37 | 2025-08-18 |  |
-| [Nada](https://open.spotify.com/track/6qJb1Bd9J8ZGFFesNqMFen) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Nada](https://open.spotify.com/album/2rB0VAyJVp7W2XkG4H4BTB) | 2:12 | 2024-12-13 |  |
+| [Nada](https://open.spotify.com/track/6qJb1Bd9J8ZGFFesNqMFen) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Nada](https://open.spotify.com/album/2rB0VAyJVp7W2XkG4H4BTB) | 2:12 | 2024-12-13 | 2025-09-13 |
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-02-18 | 2022-09-24 |
 | [Napoleon](https://open.spotify.com/track/328p9YLeNTjWUnL6qCXqmv) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 2:36 | 2025-08-08 |  |
 | [NAUSEOUS](https://open.spotify.com/track/4L5ATobsBdlUoHgVG5LdKa) | [PERRIS](https://open.spotify.com/artist/28g5e8S0umbeXJOxmRZFMw) | [NAUSEOUS](https://open.spotify.com/album/61ZmBqFS4wXTwky1qojCvC) | 2:30 | 2025-05-27 | 2025-06-21 |
@@ -492,6 +493,7 @@
 | [NOTHING IS REAL](https://open.spotify.com/track/6bzQq9ucC73NrFeycJGkkQ) | [Oshua](https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV) | [NOTHING IS REAL](https://open.spotify.com/album/2iWRrUK85hwDRSaBT35BFX) | 2:23 | 2022-10-28 | 2022-11-30 |
 | [Nothing Last Forever](https://open.spotify.com/track/6qMt0E05ZeHbinh3SlJkTX) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Nothing Last Forever](https://open.spotify.com/album/1KBW5j3M9VEKbfgUCMvV0C) | 2:58 | 2023-04-28 | 2024-06-01 |
 | [nothing to lose](https://open.spotify.com/track/1FjHCIhGZNXkuYQGziT3p4) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [nothing to lose](https://open.spotify.com/album/70ZI0zWLDEQP4MTB0ONVCA) | 1:14 | 2022-05-06 | 2022-07-23 |
+| [NSFW](https://open.spotify.com/track/15KkQmwZhilaeahH0TYdeS) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [NSFW](https://open.spotify.com/album/1VjkgQldR3Gv1akeGkLyDa) | 2:26 | 2025-09-12 |  |
 | [numb \(feat\. blackbear\)](https://open.spotify.com/track/05UKPuq9D7C6YDaps38ReU) | [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [numb \(feat\. blackbear\)](https://open.spotify.com/album/4jrLreiCKIGcxG0z7WcQkt) | 2:57 | 2022-09-30 | 2023-04-18 |
 | [Off A Cliff \(With Reo Cragun\)](https://open.spotify.com/track/7KjY1Xr1vXsAgolo63F0sV) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Escape Cycle](https://open.spotify.com/album/2JCIdveMkl6k4YdAqEMEBx) | 2:53 | 2023-08-25 | 2024-06-01 |
 | [OH MY LORD \(feat\. 24kGoldn\)](https://open.spotify.com/track/1hQTaxMocyO7uH3Mko9Tn2) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [OH MY LORD \(feat\. 24kGoldn\)](https://open.spotify.com/album/5G8RlksQs4NlBrWcLEDPjY) | 2:27 | 2022-06-10 | 2022-11-30 |

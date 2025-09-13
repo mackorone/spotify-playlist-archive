@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Rubens
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,919 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,944 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 8 | [Mam talent](https://open.spotify.com/track/7yRAd07H8Khf9qVZhFSyeO) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Mam talent](https://open.spotify.com/album/3elZnF5IQwic5oaEoGAP2A) | 3:34 |
 | 9 | [Szekspir](https://open.spotify.com/track/3B4ZCBL1Qr8k5q0YjZKfbq) | [Jacko Brango](https://open.spotify.com/artist/4cbzjCAZp1uf5Ctc7hqToV), [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [Szekspir](https://open.spotify.com/album/4WlGNUct5FGv0Q28Ox0zjY) | 3:06 |
 | 10 | [Bezruch](https://open.spotify.com/track/1wi803YpJn9jTkpUxawGN5) | [Hey](https://open.spotify.com/artist/3z5O1IzrnIQfWHAMuQEeZB) | [Bezruch](https://open.spotify.com/album/1yKRuE5bMRJliSr9pj0E2B) | 3:09 |
-| 11 | [yolo \_ yola](https://open.spotify.com/track/01HM297RF3F5juxodFBaGV) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [](https://open.spotify.com/album/null) | 4:28 |
+| 11 | [yolo \_ yola](https://open.spotify.com/track/01HM297RF3F5juxodFBaGV) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [Tematy i wariacje](https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT) | 4:28 |
 | 12 | [Life Is A Game](https://open.spotify.com/track/2sjN8s15GRHoZTctyP0qx2) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3) | [Life Is A Game](https://open.spotify.com/album/5EcDYFP87JwM371HNyEAWK) | 3:34 |
 | 13 | [A może jeszcze się da](https://open.spotify.com/track/3cgYiA3rrrnwJmGvoFZj7K) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [A może jeszcze się da](https://open.spotify.com/album/7LzQ1pShtDXpPjeY6FUSBX) | 4:03 |
 | 14 | [w kilometrach](https://open.spotify.com/track/7G4wYMAA1C4sgjfUqDiPLf) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW), [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [tylko haj.](https://open.spotify.com/album/0CJLjWszByYZc9UczenSCA) | 3:35 |
 | 15 | [Ciosy proste](https://open.spotify.com/track/3swBcfF8L9D4x8FpRlIIs9) | [michał od kości](https://open.spotify.com/artist/4SWaZDXBz7FgqxwOi0iVtI) | [Ciosy proste](https://open.spotify.com/album/4DZQ288saZwPHA5tIJRxL9) | 4:07 |
-| 16 | [NAD RANEM](https://open.spotify.com/track/3WOdMYBgZJBKKqMVzU3ndj) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [](https://open.spotify.com/album/null) | 4:33 |
+| 16 | [NAD RANEM](https://open.spotify.com/track/3WOdMYBgZJBKKqMVzU3ndj) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [NAD RANEM](https://open.spotify.com/album/5QXG3wphlrSN8iF97n7Mkv) | 4:33 |
 | 17 | [Biegnij ze mną](https://open.spotify.com/track/4gBemV0vYcmFsWS78S5Ozp) | [Cheap Tobacco](https://open.spotify.com/artist/15kkqvIcypRQGUiE17Shej), [hugo](https://open.spotify.com/artist/6CqTCNzbNNnLKJVFROmqty) | [Biegnij ze mną](https://open.spotify.com/album/6ljAjOLidOlNIBRgsfAax8) | 4:14 |
 | 18 | [Mimo wszystko \- wersja radiowa](https://open.spotify.com/track/2QCozDgFWeIbi9yGbwm2qt) | [T.Love](https://open.spotify.com/artist/2L14uYIQePr3ZEutb6feZz), [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Mimo wszystko](https://open.spotify.com/album/537Y8Uy3uMgyqXFFWwmlRs) | 2:38 |
 | 19 | [Ponton](https://open.spotify.com/track/57Q7QjiuYdJJquCoeOEnd6) | [nago](https://open.spotify.com/artist/1SffW2FKbStzVnMBdBwSy6), [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs) | [Ponton](https://open.spotify.com/album/5JdHrK3PTsXmMuG11d2KDF) | 3:53 |

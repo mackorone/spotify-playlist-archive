@@ -2,9 +2,9 @@
 
 ### [Mutima ](https://open.spotify.com/playlist/37i9dQZF1DXbmINI7suDts)
 
-> Get your spirits up and manage your mood any time of the day\. Cover: Pallaso
+> Get your spirits up and manage your mood any time of the day\. Cover: Jon Muq
 
-162 songs - 9 hr 2 min
+164 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Call Me Crazy](https://open.spotify.com/track/50orEVgOt7P1e2ok0gbJGu) | [The Goddess Lawino](https://open.spotify.com/artist/60Zm0GjEqosthGtgWzKZUj), [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz) | [Call Me Crazy](https://open.spotify.com/album/4FltpHD4x1eQKA7X8sDcpQ) | 3:09 | 2023-06-09 | 2025-01-24 |
 | [Clear](https://open.spotify.com/track/4r9DKPP3egZ5LSSMknYrzc) | [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3) | [Clear](https://open.spotify.com/album/0aznaBi7uhInSSagaQu9dF) | 2:42 | 2024-03-01 | 2025-05-23 |
 | [Commander](https://open.spotify.com/track/0qy7wQ1yDQO6zNwzHd3Kmk) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Commander](https://open.spotify.com/album/6zG9mpL0l0Y914JBs63i58) | 2:57 | 2024-04-12 |  |
-| [crashout.](https://open.spotify.com/track/2Tp485UNtMoCITqA1W1WwQ) | [itsjamer](https://open.spotify.com/artist/3mCv51R0mWs08fIwjK2g07), [Nyende](https://open.spotify.com/artist/7ChGkbKDyeFnbvGLsz3p8y) | [crashout.](https://open.spotify.com/album/0ru9TW5stzidg6jhOy573B) | 2:04 | 2024-11-22 |  |
+| [crashout.](https://open.spotify.com/track/2Tp485UNtMoCITqA1W1WwQ) | [itsjamer](https://open.spotify.com/artist/3mCv51R0mWs08fIwjK2g07), [Nyende](https://open.spotify.com/artist/7ChGkbKDyeFnbvGLsz3p8y) | [crashout.](https://open.spotify.com/album/0ru9TW5stzidg6jhOy573B) | 2:04 | 2024-11-22 | 2025-09-13 |
 | [CRAZY](https://open.spotify.com/track/2orP9huOYuU3PvcPTfZHh8) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [EAST KISS](https://open.spotify.com/artist/2cPSokmCvfZskC180zAoZr) | [For The Love of R&B Vol 1](https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ) | 2:50 | 2024-10-04 | 2025-08-29 |
 | [daisy](https://open.spotify.com/track/4x64Sipuqi7sJ1PCr9UEMc) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [olympean](https://open.spotify.com/album/6sSChOGxUAliFMngXURrWf) | 1:12 | 2024-11-22 | 2025-07-25 |
 | [Desire](https://open.spotify.com/track/654SYg2HiYmZI3chN6erFl) | [Melissa Mulungi](https://open.spotify.com/artist/77ZzFS6WajdNwqHdOMScJl) | [Desire](https://open.spotify.com/album/70yKNubVpLpVipULl9k5Pr) | 3:35 | 2025-08-21 |  |
@@ -41,6 +41,7 @@
 | [Evergreen](https://open.spotify.com/track/5Uj7Pb5JlONVHEQLKzoiF3) | [Izabelug](https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ), [Afrie](https://open.spotify.com/artist/5TfXPuuJjjcEDJjeSbKd2A) | [Love and Light](https://open.spotify.com/album/4Ey6awVzVJAAROedfxTnrJ) | 3:19 | 2022-06-06 | 2023-12-09 |
 | [Fire Deh Deh](https://open.spotify.com/track/3CLcX5MphVX20oqeGDaNT7) | [Felista Di Superstar](https://open.spotify.com/artist/4ePK3JSaxcq2ZeulZlkERH) | [Fire Deh Deh](https://open.spotify.com/album/2D5qDtijtUUlf4UB2RXrDm) | 3:25 | 2022-12-16 | 2023-08-12 |
 | [Forgot About This](https://open.spotify.com/track/62oPZHSDurMtZZgFEWC0dK) | [VICt](https://open.spotify.com/artist/4qPkLQyOqMb9VvaJNQhXfk) | [Forgot About This](https://open.spotify.com/album/2RogHtIbvAYTE9bEygQoHM) | 3:00 | 2025-04-24 |  |
+| [Freak Show](https://open.spotify.com/track/50L8gSrd2oUjrcPVNP6mDI) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S) | [Freak Show](https://open.spotify.com/album/1rWaIByfwfLQm2GH8cV6Pg) | 2:27 | 2025-09-12 |  |
 | [Freezing](https://open.spotify.com/track/0JH1B6eF3qBmmFuuTfZ9kw) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM), [An\-Known](https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ) | [Freezing](https://open.spotify.com/album/225aerNjqf3ec1luImNmGg) | 3:54 | 2024-07-18 | 2025-08-22 |
 | [GHOST TOWN ROAD](https://open.spotify.com/track/3ZKjSQSC5EYcqebSM44Nwy) | [Bowman Aremwaki](https://open.spotify.com/artist/2YoIFtQ3oep6z6p5z7j1Dh) | [GHOST TOWN ROAD](https://open.spotify.com/album/0QRgoCNVjFYzK4ZBhBbdYA) | 4:08 | 2025-04-24 |  |
 | [Give Me Your Hand](https://open.spotify.com/track/6SzIN4egYTNrqE22mcb6WR) | [Bravo Lion](https://open.spotify.com/artist/0t8TuUkIVtcfdSzr06o83A), [Dvoice](https://open.spotify.com/artist/5rAc0Q7Vylz98aK0UWJ6Gf) | [Give Me Your Hand](https://open.spotify.com/album/25EzvrXbFM5qKNy2qHmZZH) | 3:59 | 2023-01-26 | 2025-05-23 |
@@ -61,7 +62,7 @@
 | [HURTS LIKE HEAVEN](https://open.spotify.com/track/12X4xWpq0wNgHNDtyJhI2E) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [For The Love of R&B Vol 1](https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ) | 4:09 | 2024-10-04 |  |
 | [I am an African Girl \- Let Her Know Remix](https://open.spotify.com/track/3LM0vvNxz70Hn8ZClSZuw0) | [Afrie](https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx), [Ife](https://open.spotify.com/artist/5WiC6YMFHUEPrD5p1KBRUn), [Smarty](https://open.spotify.com/artist/0bptA6l4hIWy33bCXiXO45) | [I am an African Girl \(Let Her Know Remix\)](https://open.spotify.com/album/4yhSNfpElmAk8g1bn9ULuN) | 4:15 | 2022-06-06 | 2023-10-13 |
 | [I Do \- Acoustic Version](https://open.spotify.com/track/35p0RKvsJ6wS5fthRJLFQh) | [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [I Do \(Acoustic Version\)](https://open.spotify.com/album/1HURfcIukpOqxEhsJeL38E) | 2:34 | 2024-04-12 |  |
-| [I Have a Dream](https://open.spotify.com/track/6C3hJMzXPspSPRSMTZ640O) | [Sheebah](https://open.spotify.com/artist/7HMJF5fdL8BY3tHoX8we7c) | [I Have a Dream](https://open.spotify.com/album/7DBV6VBPBqU6FG9DU7iYsf) | 4:15 | 2022-11-10 |  |
+| [I Have a Dream](https://open.spotify.com/track/6C3hJMzXPspSPRSMTZ640O) | [Sheebah](https://open.spotify.com/artist/7HMJF5fdL8BY3tHoX8we7c) | [I Have a Dream](https://open.spotify.com/album/7DBV6VBPBqU6FG9DU7iYsf) | 4:15 | 2022-11-10 | 2025-09-13 |
 | [I Hope](https://open.spotify.com/track/4pqG4WjrY0YRCaDTpYy86G) | [Shawn Maine](https://open.spotify.com/artist/2WYf5FfGLxxLahVy554PlB) | [After The Pain](https://open.spotify.com/album/2UldGFRlxpHh12VjkuEajQ) | 3:20 | 2022-06-06 | 2022-08-06 |
 | [i will recover all](https://open.spotify.com/track/5MMYn4ZjRc0up1HhJO6N4T) | [itsjamer](https://open.spotify.com/artist/3mCv51R0mWs08fIwjK2g07) | [i will recover all](https://open.spotify.com/album/1Kg731pJsUpMP289JbiX58) | 2:57 | 2023-08-11 | 2025-02-08 |
 | [I'M FINE](https://open.spotify.com/track/5yHijGi2Od2BYKbRa7EShU) | [Likkle Bangi](https://open.spotify.com/artist/0ziAEtI2DsCBTbBChD6pK8), [Kavali King](https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn) | [I'M FINE](https://open.spotify.com/album/77ieplqkCJVSK8YdLAt91a) | 3:07 | 2024-07-18 | 2024-11-23 |
@@ -123,6 +124,7 @@
 | [REALLY NEED](https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 2:57 | 2023-02-16 | 2024-10-04 |
 | [River Nile](https://open.spotify.com/track/6e1t9WWPexddWCd9hiwpsg) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [River Nile](https://open.spotify.com/album/1tUosBioWR9zjs2qRIR4gk) | 2:55 | 2023-11-16 |  |
 | [Runaway](https://open.spotify.com/track/20uyihs553VZ9hWLaoCZqe) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Runaway](https://open.spotify.com/album/0OmJ43CgaYjwrbk7qfS6C7) | 3:41 | 2023-09-07 | 2025-02-15 |
+| [Secret Island](https://open.spotify.com/track/73YcIIseQ43Z2yiGjqTXIe) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Secret Island](https://open.spotify.com/album/0pk2St2lhedWK1wxvzPOzY) | 3:30 | 2025-09-12 |  |
 | [Sema](https://open.spotify.com/track/1YjgPU8BIH0COPwQa4HZFH) | [Eli Maliki](https://open.spotify.com/artist/2a2c2oSVT9yIvl5eEXkCMK) | [Maliki\-Fy](https://open.spotify.com/album/1uxXkx3peWh84WEVw149dF) | 4:39 | 2023-06-30 | 2023-09-08 |
 | [Sema](https://open.spotify.com/track/7oM02oJnBVup7JsLHk9zMW) | [Eli Maliki](https://open.spotify.com/artist/2a2c2oSVT9yIvl5eEXkCMK) | [Sema](https://open.spotify.com/album/3SyBHbLDHnKPncg8HaSTfv) | 4:39 | 2023-01-12 | 2023-08-26 |
 | [Serenade at Serena](https://open.spotify.com/track/3CeVhX1dTzx8IxQ9BVcqpa) | [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Evon](https://open.spotify.com/artist/3aRikpwal24y5bhOYcVHnJ) | [The Ugandan](https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8) | 5:44 | 2022-06-06 | 2022-08-06 |

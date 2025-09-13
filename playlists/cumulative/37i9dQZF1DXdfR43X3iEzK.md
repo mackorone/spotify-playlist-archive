@@ -4,7 +4,7 @@
 
 > my alt/pop could mean anything ⚔️ cover: king princess
 
-491 songs - 1 day 2 hr 28 min
+491 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [\_\_\_\_, close to you.](https://open.spotify.com/track/2Z4VqvPcyjpNpWUCZ75ddH) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7), [ultra caro](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [\_\_\_\_, close to you.](https://open.spotify.com/album/2fo5NIYUfdWFSNLbC6bJuA) | 2:43 | 2025-07-17 |  |
 | [A COLD PLAY](https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A COLD PLAY](https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS) | 2:59 | 2025-09-04 |  |
 | [a green light](https://open.spotify.com/track/2QlTtHM87EDM5E1H8RqiYQ) | [yergurl](https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo) | [a green light](https://open.spotify.com/album/0aFdRy0kEmY8rOKrU5pzbI) | 2:38 | 2025-05-01 | 2025-05-31 |
+| [Accidental Black Hole](https://open.spotify.com/track/6V5jhjPr2eQMmvwJuXoXuh) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Blipper](https://open.spotify.com/album/6kp9Yh8WEYWaH039iJL7NL) | 3:12 | 2025-09-11 |  |
 | [Act of Innocence](https://open.spotify.com/track/0CiHRdnBbxTpao3DychgTp) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Act of Innocence](https://open.spotify.com/album/0cDD4yvNsLL9eermbxEngG) | 3:03 | 2024-06-07 | 2024-07-31 |
 | [all i ever had](https://open.spotify.com/track/3QQ2um3SEAZUXaz8sL7YVV) | [ONUR](https://open.spotify.com/artist/0NQnxyOtffxLFIatMhCp35) | [all i ever had](https://open.spotify.com/album/6GGaPCCUmyK2jzR5zI3IeA) | 2:24 | 2025-06-06 | 2025-07-25 |
 | [All I Ever Really Wanted](https://open.spotify.com/track/57s0lwZ3aDerYYvXZZfxfg) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [All I Ever Really Wanted](https://open.spotify.com/album/2yXEkzs3cPIQSwGPbb83eq) | 3:08 | 2025-04-10 | 2025-06-27 |
@@ -254,7 +255,7 @@
 | [It's you](https://open.spotify.com/track/7BMosyyfESXA8PoYJWm6N5) | [Little Dog Star](https://open.spotify.com/artist/2DayGMoy8DCtrJpBq8p0PH) | [It's you](https://open.spotify.com/album/1XnIi6LnbvwXafL4gntBCD) | 2:50 | 2025-07-10 |  |
 | [I’m sad and I’m angry and I’m scared that you hate me](https://open.spotify.com/track/2Il5seHCUssppn09Kg3xg3) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [Productive Pain](https://open.spotify.com/album/525ZS2Bwq3EgvyEtio5iHh) | 2:51 | 2025-03-07 | 2025-04-18 |
 | [JACKIN’ THE SYSTEM](https://open.spotify.com/track/0rJQhqLVu9phFCbhFwk0vp) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [JACKIN’ THE SYSTEM](https://open.spotify.com/album/4x38wTeIhE0eIdSCOtgJVL) | 3:08 | 2024-08-23 | 2024-10-11 |
-| [Jaime](https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [](https://open.spotify.com/album/null) | 2:23 | 2025-09-11 |  |
+| [Jaime](https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Girl Violence](https://open.spotify.com/album/4aAqSQJ69OruOHDlQ9B5ki) | 2:23 | 2025-09-11 |  |
 | [Jennifer's Body](https://open.spotify.com/track/64R0m9KpCEmQxumJU3ZlCj) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Jennifer's Body](https://open.spotify.com/album/1mOHFGk4ujYJT06VRxWfvL) | 2:32 | 2025-04-10 | 2025-05-23 |
 | [Jim](https://open.spotify.com/track/4p5sL5mKAdMP0w4aAkUQY2) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Jim](https://open.spotify.com/album/2OkJPYBYQCTlRkzknoZTdF) | 4:49 | 2025-03-07 | 2025-04-11 |
 | [Joyride](https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Joyride](https://open.spotify.com/album/2mqDhcLG9qQ1rlHx8LKAlj) | 4:44 | 2025-05-09 | 2025-08-08 |
@@ -453,7 +454,6 @@
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-06-07 | 2025-03-08 |
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-06-07 | 2024-10-04 |
 | [Touch You](https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [What I made with Joe](https://open.spotify.com/album/2D1gXzXVm3wbcjf3sEQjwV) | 2:53 | 2025-05-22 | 2025-07-25 |
-| [Track 8](https://open.spotify.com/track/6V5jhjPr2eQMmvwJuXoXuh) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-11 |  |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-07 | 2025-03-14 |
 | [True Believer](https://open.spotify.com/track/4G1ihdzBFpIwd9brtk0AF3) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [True Believer](https://open.spotify.com/album/59CWOYyzKcrts5u07Bs6jI) | 3:49 | 2025-08-15 |  |
 | [Turn it up](https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Turn it up](https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0) | 2:27 | 2024-06-07 | 2025-03-14 |
@@ -469,7 +469,7 @@
 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 | 2025-08-28 |  |
 | [We Move](https://open.spotify.com/track/7ahvkrZ5wIpOTRBKYmL0i0) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Common People](https://open.spotify.com/album/6QuyXjOtOEWJ0RkUanzAlu) | 2:26 | 2024-08-23 | 2024-10-11 |
 | [we never dated](https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [we never dated](https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez) | 3:16 | 2025-06-19 | 2025-08-22 |
-| [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [](https://open.spotify.com/album/null) | 4:06 | 2025-09-11 |  |
+| [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 | 2025-09-11 |  |
 | [What Happened.](https://open.spotify.com/track/4JHIRSicUIwvi997lxoAN3) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [15](https://open.spotify.com/album/5eDAiMfKjtgrk5RK7OTfvO) | 2:33 | 2025-03-14 | 2025-04-04 |
 | [What If You're The Love of My Life?](https://open.spotify.com/track/2rNp14nmgJc4IK0FajIzGn) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [What If You're The Love of My Life?](https://open.spotify.com/album/3gHdoNyalsBcrZ4QSJAmuc) | 2:08 | 2024-06-07 | 2024-08-09 |
 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 | 2024-06-07 | 2025-03-08 |

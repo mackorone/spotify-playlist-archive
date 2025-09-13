@@ -2,7 +2,7 @@
 
 ### [Rising 65](https://open.spotify.com/playlist/37i9dQZF1DXdUdTJS2IdZ2)
 
-> Rising stars and new releases from sunny Singapore\. Cover: Jean Seizure
+> Rising stars and new releases from sunny Singapore\. Cover: Shye
 
 967 songs - 2 day 4 hr 42 min
 

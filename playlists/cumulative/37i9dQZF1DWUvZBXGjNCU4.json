@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "At the same time",
+        "url": "https://open.spotify.com/album/0IU4O0061NBlGfcVX9YObh"
+      },
+      "artists": [
+        {
+          "name": "Blythe Davidson",
+          "url": "https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191334,
+      "name": "At the same time",
+      "url": "https://open.spotify.com/track/5Y2UB0AcXta6OuSxgeqMRG"
+    },
+    {
+      "album": {
         "name": "Auburn to Green",
         "url": "https://open.spotify.com/album/6bHo8s2CSu4tzCnTTPLE3n"
       },
@@ -7354,6 +7372,24 @@
       "duration_ms": 140643,
       "name": "You're The Inspiration",
       "url": "https://open.spotify.com/track/0VDgKAQVZC9Hx6OKvgYaHG"
+    },
+    {
+      "album": {
+        "name": "Young Together",
+        "url": "https://open.spotify.com/album/0y7nwbzW2Vv9X1wg3n5wU9"
+      },
+      "artists": [
+        {
+          "name": "August Wilkes",
+          "url": "https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141831,
+      "name": "Young Together",
+      "url": "https://open.spotify.com/track/5ZWUjw5hQ09L93p1MiZ6ir"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUvZBXGjNCU4"

@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 123117,
+  "num_followers": 123133,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMC/gAAAAAB9K2MWDsmkX40xaNSgGXM7",
+  "snapshot_id": "aMIRAAAAAAAAgZw1zYi8OgNFNkB2WUik",
   "tracks": [
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peso in My Pocket",
+        "url": "https://open.spotify.com/album/18AunqcqOhcZYZewF5uQFQ"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 211609,
+      "name": "Oklahoma Breakdown",
+      "url": "https://open.spotify.com/track/7J1w5qpIoFFE6YA9BJC5sk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rodeo Rock And Roll Collection",
         "url": "https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 163666,
       "name": "Copenhagen",
       "url": "https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peso in My Pocket",
-        "url": "https://open.spotify.com/album/18AunqcqOhcZYZewF5uQFQ"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 211609,
-      "name": "Oklahoma Breakdown",
-      "url": "https://open.spotify.com/track/7J1w5qpIoFFE6YA9BJC5sk"
     },
     {
       "added_at": null,

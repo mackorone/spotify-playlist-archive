@@ -6,28 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMC/gAAAAABl8dGZhKj7CbDsVTGELePq",
+  "snapshot_id": "aMIRAAAAAABl/tCs4qgaJJvy87HKar28",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chica Traviesa",
-        "url": "https://open.spotify.com/album/1oxBe1xqSV6sfevAmtc8Qt"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "La Expansion",
-          "url": "https://open.spotify.com/artist/3TMPTLwsdt24hPu8TActJN"
-        }
-      ],
-      "duration_ms": 185126,
-      "name": "Chica Traviesa",
-      "url": "https://open.spotify.com/track/7zXxlCRQ1UGq2twIEuhlnD"
-    },
     {
       "added_at": null,
       "album": {
@@ -299,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Una Explicaci\u00f3n",
+        "url": "https://open.spotify.com/album/7hcCoLffWR5b8LT1ILZPDt"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 186633,
+      "name": "Una Explicaci\u00f3n",
+      "url": "https://open.spotify.com/track/4kg65BjXUvaw8tUTQLFiBg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No La Hagas Sufrir",
         "url": "https://open.spotify.com/album/0Ti9OKOhKoZ56iWmUVK0As"
       },
@@ -343,22 +339,6 @@
       "duration_ms": 247200,
       "name": "Queda Restringido",
       "url": "https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una Explicaci\u00f3n",
-        "url": "https://open.spotify.com/album/7hcCoLffWR5b8LT1ILZPDt"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 186633,
-      "name": "Una Explicaci\u00f3n",
-      "url": "https://open.spotify.com/track/4kg65BjXUvaw8tUTQLFiBg"
     },
     {
       "added_at": null,
@@ -459,6 +439,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chica Traviesa",
+        "url": "https://open.spotify.com/album/1oxBe1xqSV6sfevAmtc8Qt"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "La Expansion",
+          "url": "https://open.spotify.com/artist/3TMPTLwsdt24hPu8TActJN"
+        }
+      ],
+      "duration_ms": 185126,
+      "name": "Chica Traviesa",
+      "url": "https://open.spotify.com/track/7zXxlCRQ1UGq2twIEuhlnD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Me Voy O Te Vas (En Vivo)",
         "url": "https://open.spotify.com/album/3SVQlmPakKoEPIesi3JSsn"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 141589,
-      "name": "La Hungara - En Vivo",
-      "url": "https://open.spotify.com/track/5dwb7j5AzP2w15YIEzEKQ8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Me Ag\u00fcit\u00f3",
         "url": "https://open.spotify.com/album/51YMAnkG9rMuNXXejqCFNB"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 203072,
       "name": "Se Me Ag\u00fcit\u00f3",
       "url": "https://open.spotify.com/track/26ejebTudwx94xrQxrdNgh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 141589,
+      "name": "La Hungara - En Vivo",
+      "url": "https://open.spotify.com/track/5dwb7j5AzP2w15YIEzEKQ8"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "Juro Por Dios - En Vivo",
-      "url": "https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tres Botes",
         "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 237182,
       "name": "Si Tu Quieres",
       "url": "https://open.spotify.com/track/2TbeBA72jmvoAXnBvnezKB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Juro Por Dios - En Vivo",
+      "url": "https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66"
     },
     {
       "added_at": null,

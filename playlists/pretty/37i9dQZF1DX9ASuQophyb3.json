@@ -1,6 +1,6 @@
 {
   "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: \u00d6zg\u00fcn",
-  "num_followers": 1533526,
+  "num_followers": 1533674,
   "original_name": "T\u00fcrk\u00e7e Pop",
   "owner": {
     "name": "Spotify",
@@ -51,6 +51,22 @@
     {
       "added_at": "2025-09-11 21:00:10",
       "album": {
+        "name": "Deli Bal",
+        "url": "https://open.spotify.com/album/2rfmKxcGFWZRSm8b29oq64"
+      },
+      "artists": [
+        {
+          "name": "\u00d6zg\u00fcn",
+          "url": "https://open.spotify.com/artist/2DJNQjrMqbyGFax9mgHm3f"
+        }
+      ],
+      "duration_ms": 184471,
+      "name": "Deli Bal",
+      "url": "https://open.spotify.com/track/47Q1uW1QzKb5BwPeG37QTQ"
+    },
+    {
+      "added_at": "2025-09-11 21:00:10",
+      "album": {
         "name": "YAPAR MISIN?",
         "url": "https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 157948,
       "name": "YAPAR MISIN?",
       "url": "https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8"
-    },
-    {
-      "added_at": "2025-09-11 21:00:10",
-      "album": {
-        "name": "Deli Bal",
-        "url": "https://open.spotify.com/album/2rfmKxcGFWZRSm8b29oq64"
-      },
-      "artists": [
-        {
-          "name": "\u00d6zg\u00fcn",
-          "url": "https://open.spotify.com/artist/2DJNQjrMqbyGFax9mgHm3f"
-        }
-      ],
-      "duration_ms": 184471,
-      "name": "Deli Bal",
-      "url": "https://open.spotify.com/track/47Q1uW1QzKb5BwPeG37QTQ"
     },
     {
       "added_at": "2025-09-11 21:00:10",

@@ -1,12 +1,12 @@
 {
   "description": "All of your favourites, new favourites, live favourites and unearthed soon to be favourites.  <a href=\"https://www.umusic.ca/collections/rediscover\">here</a>",
-  "num_followers": 3625,
+  "num_followers": 3624,
   "original_name": "UMUSIC Rediscover",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAC8NOd7oTv5dHbY0JkjqD/YvPJuYQv",
+  "snapshot_id": "AAAC9BnnGh058DE0+iMv3n2aUWNjlzBO",
   "tracks": [
     {
       "added_at": "2025-09-08 13:39:56",
@@ -39,6 +39,58 @@
       "duration_ms": 257760,
       "name": "Returning To Myself",
       "url": "https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB"
+    },
+    {
+      "added_at": "2025-09-12 19:18:08",
+      "album": {
+        "name": "Dark Moon (Expanded)",
+        "url": "https://open.spotify.com/album/3Va0xdnZRhe967o4shAf3V"
+      },
+      "artists": [
+        {
+          "name": "Holly Cole",
+          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+        }
+      ],
+      "duration_ms": 211361,
+      "name": "Comin' Home Baby",
+      "url": "https://open.spotify.com/track/3uSicJO7nw0t44vvhRXFHh"
+    },
+    {
+      "added_at": "2025-09-12 19:26:40",
+      "album": {
+        "name": "Band On The Run",
+        "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 313026,
+      "name": "Band On The Run - 2010 Remaster",
+      "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY"
+    },
+    {
+      "added_at": "2025-09-12 19:27:01",
+      "album": {
+        "name": "Bitter, Bitter You",
+        "url": "https://open.spotify.com/album/68ap6bSu3nNhyycv8HytNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 322853,
+      "name": "Bitter, Bitter You",
+      "url": "https://open.spotify.com/track/6wRxkYS7jwIAOJbrGlY15E"
     },
     {
       "added_at": "2025-09-08 13:38:55",

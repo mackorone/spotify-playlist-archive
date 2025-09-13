@@ -3765,6 +3765,24 @@
     },
     {
       "album": {
+        "name": "TwiLiGHT",
+        "url": "https://open.spotify.com/album/6EZlRDPjpPSTKwE6jT6fpj"
+      },
+      "artists": [
+        {
+          "name": "MINDY",
+          "url": "https://open.spotify.com/artist/2a7WiIiQJcunh4cSWmp0Gi"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "TwiLiGHT",
+      "url": "https://open.spotify.com/track/4KtiFeLXqNikiKZtnJCkZ4"
+    },
+    {
+      "album": {
         "name": "U can't hurt me no more",
         "url": "https://open.spotify.com/album/6DofRSGlqkwj4jLDxk0JRd"
       },
@@ -6350,7 +6368,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 240000,
       "name": "\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27 \u0e17\u0e35\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32 (I\u2019m Good)",
       "url": "https://open.spotify.com/track/3sbTe6C4kfaGoGSKmDCqY5"

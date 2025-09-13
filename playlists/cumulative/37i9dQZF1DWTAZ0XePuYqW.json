@@ -4612,7 +4612,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 180624,
       "name": "Home",
       "url": "https://open.spotify.com/track/5PdA08FFRf8LaufbO0kQdv"
@@ -6392,7 +6392,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 170720,
       "name": "Mine",
       "url": "https://open.spotify.com/track/27UB48yRwGTsPsswfAbgN1"
@@ -8806,6 +8806,24 @@
       "duration_ms": 270329,
       "name": "S.M.O.",
       "url": "https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb"
+    },
+    {
+      "album": {
+        "name": "COLLIDE",
+        "url": "https://open.spotify.com/album/4HC7EHKHEMR4iT0sTt6hNr"
+      },
+      "artists": [
+        {
+          "name": "Mopao Mumu",
+          "url": "https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172341,
+      "name": "SAD GIRL DISCO",
+      "url": "https://open.spotify.com/track/24dJ7fDXFjBjoTKAICL8vU"
     },
     {
       "album": {
@@ -11890,6 +11908,24 @@
       "duration_ms": 225693,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/5BrX72zkxJaowRZwgM8wyB"
+    },
+    {
+      "album": {
+        "name": "ZOOM OUT",
+        "url": "https://open.spotify.com/album/3Sd3kWO3QsdR4QI48LV0CE"
+      },
+      "artists": [
+        {
+          "name": "APB",
+          "url": "https://open.spotify.com/artist/3vUy9wmklGDZ5r2sEPk7N8"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "ZOOM OUT",
+      "url": "https://open.spotify.com/track/1SaSEeMnVGgvSUTrltQBdj"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW"

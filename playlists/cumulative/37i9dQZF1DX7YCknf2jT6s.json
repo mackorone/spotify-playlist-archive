@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Alfa Mist",
+  "description": "New jazz for open minds. Cover: Skinny Hightower",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -3920,6 +3920,32 @@
       "duration_ms": 270778,
       "name": "Below",
       "url": "https://open.spotify.com/track/4uS12ibCJvo83kxACQgC3e"
+    },
+    {
+      "album": {
+        "name": "Benny Thanks",
+        "url": "https://open.spotify.com/album/0gtNywZJdNKiixAUPE7UbU"
+      },
+      "artists": [
+        {
+          "name": "Thom Rotella",
+          "url": "https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm"
+        },
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        },
+        {
+          "name": "Ernie Watts",
+          "url": "https://open.spotify.com/artist/2savq7Id5eDV0DVsoug0wH"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358533,
+      "name": "Benny Thanks",
+      "url": "https://open.spotify.com/track/01MKZzdSQL0byZSNVSZw9L"
     },
     {
       "album": {
@@ -11879,6 +11905,32 @@
     },
     {
       "album": {
+        "name": "Flight",
+        "url": "https://open.spotify.com/album/4eh6MPAz1cqfA3xwkAEIlD"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Muthspiel",
+          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
+        },
+        {
+          "name": "Scott Colley",
+          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457133,
+      "name": "Flight",
+      "url": "https://open.spotify.com/track/4vzN724NkFTS9OLH3sn3fK"
+    },
+    {
+      "album": {
         "name": "Flume Ride Blues",
         "url": "https://open.spotify.com/album/3LQjN6bwGqmkycky15TOxA"
       },
@@ -14884,7 +14936,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 203418,
       "name": "Hotel Clara",
       "url": "https://open.spotify.com/track/2iOLyeDMmAX790wKqdl9om"
@@ -19846,7 +19898,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 222653,
       "name": "Love",
       "url": "https://open.spotify.com/track/2BFIPXGjO8v1ng8mRtzoV0"
@@ -29186,7 +29238,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 243898,
       "name": "SEVENFOLD",
       "url": "https://open.spotify.com/track/4UzlG1zarO3agn28JnH6yK"
@@ -29392,7 +29444,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 324851,
       "name": "Shared Stories of Rivals II",
       "url": "https://open.spotify.com/track/1Xx70YYSc3RNGIXsBTVtet"
@@ -31891,6 +31943,28 @@
     },
     {
       "album": {
+        "name": "Suede",
+        "url": "https://open.spotify.com/album/3tPwSfznRxFsfAWwrptFwT"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        },
+        {
+          "name": "Alex Parchment",
+          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217585,
+      "name": "Suede",
+      "url": "https://open.spotify.com/track/7a7rZUp3doRbHOyfH8Bpyu"
+    },
+    {
+      "album": {
         "name": "Resilience",
         "url": "https://open.spotify.com/album/7b7egZtdKqZ1OnK0P3xpUV"
       },
@@ -32634,6 +32708,28 @@
       "duration_ms": 319108,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/2CZtyy1ewF8niOUigOriZm"
+    },
+    {
+      "album": {
+        "name": "Take Off Your Cool",
+        "url": "https://open.spotify.com/album/4cIqn29NG2sXYtANxx5LSJ"
+      },
+      "artists": [
+        {
+          "name": "Chief Adjuah",
+          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447358,
+      "name": "Take Off Your Cool",
+      "url": "https://open.spotify.com/track/0Ysimq1w9pwerOtGekE76i"
     },
     {
       "album": {

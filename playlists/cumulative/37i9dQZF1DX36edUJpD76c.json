@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Die wichtigste Hip-Hop Playlist Deutschlands. Cover: Haaland936",
+  "description": "Die wichtigste Hip-Hop Playlist Deutschlands. Cover: Aymen, Amo",
   "name": "Modus Mio",
   "tracks": [
     {
@@ -169,6 +169,28 @@
     },
     {
       "album": {
+        "name": "Alo Alo",
+        "url": "https://open.spotify.com/album/0rwrY3NX3RM6rBSYtXApFK"
+      },
+      "artists": [
+        {
+          "name": "Haaland936",
+          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186646,
+      "name": "Alo Alo",
+      "url": "https://open.spotify.com/track/001CpUJGi8ZKwZrsoTEB5H"
+    },
+    {
+      "album": {
         "name": "Andere Niveau",
         "url": "https://open.spotify.com/album/2D7jmbKdukoAIUNsFNsurQ"
       },
@@ -265,6 +287,32 @@
     },
     {
       "album": {
+        "name": "BADMAN",
+        "url": "https://open.spotify.com/album/1TnyqXbKQHLzJnHgI4y67r"
+      },
+      "artists": [
+        {
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU"
+        },
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "BABYLON (feat. RAF Camora)",
+      "url": "https://open.spotify.com/track/7CB3yhNywB2q2mh57w4Oiq"
+    },
+    {
+      "album": {
         "name": "Baccarat",
         "url": "https://open.spotify.com/album/6pFdsURt1GsWw2gV7WDyu2"
       },
@@ -280,7 +328,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 172617,
       "name": "Baccarat",
       "url": "https://open.spotify.com/track/3qTIWCS4FRBCgO36huOUaq"
@@ -412,7 +460,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 177956,
       "name": "Bonzeneltern",
       "url": "https://open.spotify.com/track/3h9RWKFJ50an9X3xOhJ54g"
@@ -470,7 +518,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 111600,
       "name": "Bubblegum",
       "url": "https://open.spotify.com/track/1dW3Cd4MshbzcUSIRktqGz"
@@ -594,7 +642,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 151399,
       "name": "CUT",
       "url": "https://open.spotify.com/track/1s5qFD7akbvD7Urf8iAwqY"
@@ -620,6 +668,32 @@
       "duration_ms": 128960,
       "name": "DANGEROUS",
       "url": "https://open.spotify.com/track/4HW6FIovTu45BgiV4Ex9tG"
+    },
+    {
+      "album": {
+        "name": "Daytona",
+        "url": "https://open.spotify.com/album/5Z4MoX4CpiFQI7M9mH5S5e"
+      },
+      "artists": [
+        {
+          "name": "Aymo",
+          "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211725,
+      "name": "Daytona",
+      "url": "https://open.spotify.com/track/6lmXLltCYZciRhKFNPofCo"
     },
     {
       "album": {
@@ -736,7 +810,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 160733,
       "name": "Dreh den auf",
       "url": "https://open.spotify.com/track/6AJxMwlPrmTOpSpYL2XJko"
@@ -754,7 +828,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 181778,
       "name": "Ein Lied f\u00fcr dich",
       "url": "https://open.spotify.com/track/3awCCyQfwNbQdf3lL5EL7C"
@@ -776,6 +850,24 @@
       "duration_ms": 97666,
       "name": "EMOTION",
       "url": "https://open.spotify.com/track/61CTcyXQ4qbPnYlc6Z2gxz"
+    },
+    {
+      "album": {
+        "name": "erstersommerohnedich",
+        "url": "https://open.spotify.com/album/2KOoc1rqO8WYrDWI1FUFDV"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154741,
+      "name": "erstersommerohnedich",
+      "url": "https://open.spotify.com/track/0Bf7Lc7d6gE3xUDCePUvV7"
     },
     {
       "album": {
@@ -1026,6 +1118,28 @@
       "duration_ms": 168496,
       "name": "H\u00c4NG AB",
       "url": "https://open.spotify.com/track/2zXvZ0GxWLU6wTaFu7rP3I"
+    },
+    {
+      "album": {
+        "name": "Immer",
+        "url": "https://open.spotify.com/album/33Yvnfe9qp3GRN7pMdUnk9"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159404,
+      "name": "Immer",
+      "url": "https://open.spotify.com/track/7uIhcRg6ia0S9z1UzCl0Qc"
     },
     {
       "album": {
@@ -1559,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "Pole Position",
+        "url": "https://open.spotify.com/album/363EXqb8TO4SsY1XqR8Kfn"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171089,
+      "name": "Pole Position",
+      "url": "https://open.spotify.com/track/2mW3KRKLCR2jshXKaot4EL"
+    },
+    {
+      "album": {
         "name": "PRIVILEG",
         "url": "https://open.spotify.com/album/0H9FLEBrGN0itLpO1PIE6Q"
       },
@@ -1752,7 +1884,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 140178,
       "name": "Sexy Lady",
       "url": "https://open.spotify.com/track/3xA6Eb4uD9HLF4K3syPpJD"
@@ -1872,7 +2004,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 195790,
       "name": "Sure Shots",
       "url": "https://open.spotify.com/track/2Nryu9QVJp6pOBRnzbjCMd"
@@ -2075,6 +2207,24 @@
     },
     {
       "album": {
+        "name": "Was f\u00fcr ein Leben",
+        "url": "https://open.spotify.com/album/0TD5PaZPlIx5c0A90WUsTG"
+      },
+      "artists": [
+        {
+          "name": "Lucio101",
+          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113877,
+      "name": "Was f\u00fcr ein Leben",
+      "url": "https://open.spotify.com/track/7LKrRZ6Hrjx7xwE5ADSC9M"
+    },
+    {
+      "album": {
         "name": "WHINE (BADALADA)",
         "url": "https://open.spotify.com/album/4uCbquIf4oONYWRDq1RVuF"
       },
@@ -2156,6 +2306,28 @@
       "duration_ms": 194663,
       "name": "Wir sind Stars",
       "url": "https://open.spotify.com/track/4cTEuDTBN5rE5D88y0mQHl"
+    },
+    {
+      "album": {
+        "name": "GLOCKS & ROSES",
+        "url": "https://open.spotify.com/album/3oyUTNf5mPKmOqpHb9QGAd"
+      },
+      "artists": [
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        },
+        {
+          "name": "benno!",
+          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "WOCK",
+      "url": "https://open.spotify.com/track/448Pxb7Tiz2fU8LHlZqGa9"
     },
     {
       "album": {

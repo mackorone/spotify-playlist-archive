@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Paul & Hannah McClure",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Matt Redman & Joe L Barnes",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -318,6 +318,24 @@
       "duration_ms": 228269,
       "name": "Abide - Radio Version",
       "url": "https://open.spotify.com/track/1kjy5475BVdvJ4ZgG2So9L"
+    },
+    {
+      "album": {
+        "name": "Song Of The Saints",
+        "url": "https://open.spotify.com/album/3qFz4esCZu7Xwjti4I8vrw"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273800,
+      "name": "Able",
+      "url": "https://open.spotify.com/track/7p0Kjlz12accKuVFrT1gCv"
     },
     {
       "album": {
@@ -3123,6 +3141,28 @@
     },
     {
       "album": {
+        "name": "Consider Him",
+        "url": "https://open.spotify.com/album/3ycOePI4xr5Z9z66XWPm5w"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568546,
+      "name": "Consider Him",
+      "url": "https://open.spotify.com/track/3jxmJxj1fGRmV9ZGyOdCvr"
+    },
+    {
+      "album": {
         "name": "1350 (Live)",
         "url": "https://open.spotify.com/album/1GTvVA3HOCDDEnW27RV52Z"
       },
@@ -3802,7 +3842,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 447670,
       "name": "Elohim - Live From Church",
       "url": "https://open.spotify.com/track/7crAY5NVt4JB7oDEy7rEI6"
@@ -9184,7 +9224,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 436873,
       "name": "Let Me See Jesus / Turn Your Eyes Upon Jesus",
       "url": "https://open.spotify.com/track/7o4ReVU85sKOYOfD9RfWdL"
@@ -10381,6 +10421,28 @@
     },
     {
       "album": {
+        "name": "My Vision",
+        "url": "https://open.spotify.com/album/3AD6QiHOiyrpbEaKsqNCTX"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Lindsey Arcaro",
+          "url": "https://open.spotify.com/artist/3JhAmrIzgB8ssJ22OWIhQH"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370815,
+      "name": "My Vision",
+      "url": "https://open.spotify.com/track/2ITMOREJl032pWV0WzHUYb"
+    },
+    {
+      "album": {
         "name": "Come Behold the Wondrous Mystery",
         "url": "https://open.spotify.com/album/25AJ4n2vNiYmR34lLwessO"
       },
@@ -10798,6 +10860,32 @@
       "duration_ms": 500300,
       "name": "No One Like The Lord (Live)",
       "url": "https://open.spotify.com/track/6R3Zp0J2CMp1CgZEQcfWPa"
+    },
+    {
+      "album": {
+        "name": "No One Like The Lord/Nadie Como El Se\u00f1or (Live)",
+        "url": "https://open.spotify.com/album/6YdYTtyFK5MlfzPv849u5Z"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468466,
+      "name": "No One Like The Lord/Nadie Como El Se\u00f1or - Live",
+      "url": "https://open.spotify.com/track/4fzC4XMxdP5prBebf3mjSR"
     },
     {
       "album": {
@@ -12205,6 +12293,28 @@
     },
     {
       "album": {
+        "name": "Praise To The Most High",
+        "url": "https://open.spotify.com/album/1oOvKokBAPOfp1eBXS8Dw8"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302003,
+      "name": "Praise To The Most High",
+      "url": "https://open.spotify.com/track/1QTn0Xf38y1ucsMVaR1DI0"
+    },
+    {
+      "album": {
         "name": "Praise You Again - EP",
         "url": "https://open.spotify.com/album/0mNaue6xtEXcNUc6EfdVp5"
       },
@@ -13348,7 +13458,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 463133,
       "name": "Send The Fire",
       "url": "https://open.spotify.com/track/0nA8aos5a7tWOXlm6ZkseN"
@@ -13706,7 +13816,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 360666,
       "name": "Song Of The Saints",
       "url": "https://open.spotify.com/track/7hDnAItpviJf4XFrgqAgpI"
@@ -14772,7 +14882,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 301650,
       "name": "The Church",
       "url": "https://open.spotify.com/track/6QqFXtYklJRgk1UGGFpugh"

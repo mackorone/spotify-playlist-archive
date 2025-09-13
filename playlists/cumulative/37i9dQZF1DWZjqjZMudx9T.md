@@ -2,7 +2,7 @@
 
 ### [MANSIÓN REGGAETÓN](https://open.spotify.com/playlist/37i9dQZF1DWZjqjZMudx9T)
 
-> De la Calle a la Cima con Blessd, Fuerza Regida y Ovy On The Drums.
+> De la Calle a la Cima con Luis R Conriquez y Anuel AA.
 
 603 songs - 1 day 9 hr 22 min
 

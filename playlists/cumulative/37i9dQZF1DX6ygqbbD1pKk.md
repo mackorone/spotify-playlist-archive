@@ -4,7 +4,7 @@
 
 > Todos tus éxitos favoritos de Disney\. Lilo & Stitch, Moana 2, Encanto y mucho más!
 
-147 songs - 7 hr 29 min
+148 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Beyond \(End Credit Version\) \- From "Moana 2"](https://open.spotify.com/track/3fzqWttckvSJS7KPGPiWAg) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Moana 2"\]](https://open.spotify.com/album/6uCyNThgUieE9elUSd4SuP) | 3:16 | 2024-11-07 | 2024-11-26 |
 | [Bibbidi\-Bobbidi\-Boo \(The Magic Song\)](https://open.spotify.com/track/0tZqXCvOx44WKqcgEZtIRl) | [Helena Bonham Carter](https://open.spotify.com/artist/7gX22Ua3mEH2KXTCpIfoOP) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 1:22 | 2023-09-15 | 2024-05-01 |
 | [Brillo](https://open.spotify.com/track/4RnN3TNgEKObmmrBbbTw9w) | [Dan Osorio](https://open.spotify.com/artist/0bQBooej9K9x0aJL6HM2QK) | [Moana: un mar de aventuras \(Sonora Original en Español\)](https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX) | 3:06 | 2024-04-30 |  |
+| [Bum bum, terremoto \- De "Playback: Una somos dos" \| Disney+](https://open.spotify.com/track/3IsMYvrVTExYztrNVzb7yS) | [Juli Castro](https://open.spotify.com/artist/26MEve506HPSe2WmdeHTMR), [Antonella Podestá](https://open.spotify.com/artist/7Kl1jmJUJPCofdbHkirqfP), [VALEN G](https://open.spotify.com/artist/3Pw9vz2aHdju3tLJZ4MM5D), [Elenco de Playback: Una somos dos](https://open.spotify.com/artist/6HNSWK7i5Pyg4alZkUv2wz), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Bum bum, terremoto \(De "Playback: Una somos dos" \| Disney+\)](https://open.spotify.com/album/1XVxfKtefJIkZvlcReb9nU) | 3:05 | 2025-09-12 |  |
 | [Bésala](https://open.spotify.com/track/1BKNatU4cpHxUAfET1Q9Ln) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Howard Ashman](https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN), [Michael Cruz](https://open.spotify.com/artist/2AGl0dUCflM3mAfFcJVq5d) | [La Sirenita \(Banda Sonora Original en Español\)](https://open.spotify.com/album/64at2CIfC4MgtN5u0HNkVw) | 2:41 | 2024-04-30 |  |
 | [Bésame mucho \- Inspirado en "Coco"](https://open.spotify.com/track/5IpadzdYReC5SKGQWVa7jw) | [Jorge Blanco](https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:57 | 2023-09-15 |  |
 | [Call me Cruella](https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Cruella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq) | 2:07 | 2023-09-15 |  |

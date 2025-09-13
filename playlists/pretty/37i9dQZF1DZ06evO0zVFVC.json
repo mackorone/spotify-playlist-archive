@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 108323,
+  "num_followers": 108366,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMC/gAAAAACA+3F9XFpJhlVIEXFb/3k3",
+  "snapshot_id": "aMIRAAAAAAD8tzYBwYshnSTf98HUaXWa",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 303808,
-      "name": "Wishing Wells",
-      "url": "https://open.spotify.com/track/6Fqdip4cWZEFwtmdhX9iNq"
+      "duration_ms": 380410,
+      "name": "Chronos",
+      "url": "https://open.spotify.com/track/4oYNIBkL3n5SRR99kfGV5Z"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 380410,
-      "name": "Chronos",
-      "url": "https://open.spotify.com/track/4oYNIBkL3n5SRR99kfGV5Z"
+      "duration_ms": 303808,
+      "name": "Wishing Wells",
+      "url": "https://open.spotify.com/track/6Fqdip4cWZEFwtmdhX9iNq"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Killing With A Smile",
+        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 317907,
+      "name": "Romance Is Dead",
+      "url": "https://open.spotify.com/track/6Q9XnZPl7qbvvYV3UBz6bP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viva The Underdogs",
         "url": "https://open.spotify.com/album/5wLd53vzbBM0TIa0NmwxGb"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 230364,
       "name": "Schattenboxen",
       "url": "https://open.spotify.com/track/0fP3R18uL3KgJabqm5Crja"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Killing With A Smile",
-        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 317907,
-      "name": "Romance Is Dead",
-      "url": "https://open.spotify.com/track/6Q9XnZPl7qbvvYV3UBz6bP"
     },
     {
       "added_at": null,

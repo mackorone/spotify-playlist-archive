@@ -4,7 +4,7 @@
 
 > welcome to our universe ft\. ivri
 
-1,199 songs - 2 day 10 hr 50 min
+1,199 songs - 2 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [BLOODMONEY](https://open.spotify.com/track/5SVnsTqXBHhHYLSwULC2nv) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4uTce2w80loIu3oLnW0irN) | 3:02 | 2024-03-08 | 2024-03-09 |
 | [BLOODMONEY](https://open.spotify.com/track/6QPOr9B8aEquK1nGwG9Yj6) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4LgpVx8efQT7SRXGRq5Tze) | 3:02 | 2022-08-27 | 2022-09-02 |
 | [BLOODPUDDLE](https://open.spotify.com/track/4cbmaakH3pHNNBn4oYhxgO) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [BLOODPUDDLE](https://open.spotify.com/album/1ECcVLJb9ksKW15h4Slulo) | 1:54 | 2023-03-10 | 2023-07-07 |
-| [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [](https://open.spotify.com/album/null) | 3:42 | 2025-09-11 |  |
+| [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 | 2025-09-11 |  |
 | [BLOODSUCKA \(feat\. Debbie Gough\)](https://open.spotify.com/track/2qoc9gvHSFGx8c4hLBQxPy) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W), [Debbie Gough](https://open.spotify.com/artist/4OvDgVw2NEVzt79bIDxsjF) | [ANATOMY](https://open.spotify.com/album/0GyTlhdr6mF1jllBgzDxbb) | 2:47 | 2024-11-29 | 2025-05-02 |
 | [Bloody Crescent](https://open.spotify.com/track/2fWfZfktaLdOi5U13BLQKJ) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw), [Sect Unit](https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju) | [Bloody Crescent](https://open.spotify.com/album/6V8LTX1vyMrJoHxjQ0Ye7R) | 2:48 | 2022-03-11 | 2022-11-04 |
 | [Blossom](https://open.spotify.com/track/4Ft8VwrsSfGV2bXmWf51Kf) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Blossom](https://open.spotify.com/album/78gD487gcnP0mhlTOpvD9H) | 3:26 | 2023-11-10 | 2024-02-16 |
@@ -624,6 +624,7 @@
 | [Keep Up](https://open.spotify.com/track/1iKE8ZTRJEW0lr8eus0KFS) | [HANNAHBELLA](https://open.spotify.com/artist/0HY4L6Y3gywUaQ3FnM22yU) | [Keep Up](https://open.spotify.com/album/4v4mgHdNHnGXZexZ48N788) | 3:03 | 2024-07-04 | 2024-09-06 |
 | [kill all of u](https://open.spotify.com/track/3gxdROUxVaDaj9c1MXdOzI) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [GOODNIGHT](https://open.spotify.com/album/5QOGIpTHGhWmyhT1uTonJZ) | 2:44 | 2024-06-27 | 2024-08-23 |
 | [KILL ALL PREDATORS](https://open.spotify.com/track/116m1FqbddR1KEFTw7ZItH) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf), [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [KILL ALL PREDATORS](https://open.spotify.com/album/33OtJjrHXYS7cHY7O6NDXn) | 2:05 | 2022-10-20 | 2023-05-05 |
+| [Killher](https://open.spotify.com/track/73fQhw7b0rTJa73YnxGeXZ) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [The Nut House](https://open.spotify.com/album/0HFpKIG41ZlcUkODU4Smns) | 3:21 | 2025-09-11 |  |
 | [KILLIN](https://open.spotify.com/track/0QNXRzvMbrX2NC6eZ8nLSl) | [GREEN ORXNGE](https://open.spotify.com/artist/57QsdaQhaRhRruISmg7W2G), [Eyez Hate U](https://open.spotify.com/artist/0dIUq8UqtoJF5T7Lt3MxBT) | [KILLIN](https://open.spotify.com/album/3Oy7WMxX7dtnKx4HVCnyHP) | 2:03 | 2022-04-28 | 2022-10-14 |
 | [King Baby](https://open.spotify.com/track/1hmeufH2R0CSwweMj6TlKu) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [King Baby](https://open.spotify.com/album/1cRf0gH7hkVHZQVZHwVXV7) | 3:12 | 2024-12-13 | 2025-04-04 |
 | [Knife Party \(feat\. Oli Sykes\)](https://open.spotify.com/track/08DG2bPYn9GHQt5AITyRtD) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Party At The Cemetery](https://open.spotify.com/album/3kT0vXJqRNILDVVUX5LhkQ) | 2:23 | 2022-04-19 | 2022-04-29 |
@@ -1096,7 +1097,6 @@
 | [tower of memories](https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the theory of you](https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB) | 3:28 | 2025-09-11 |  |
 | [Toxic](https://open.spotify.com/track/75nfXT58HlELm2SGI3L0Ea) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34) | [Toxic](https://open.spotify.com/album/5RMQfalO8QgRNArs0nIFuk) | 2:10 | 2023-12-15 | 2024-05-29 |
 | [Toxins](https://open.spotify.com/track/5MarKAwrQvOEGlCOKEeIw3) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Toxins](https://open.spotify.com/album/7lKTFbEOfMHcZ0xMzPB9md) | 2:22 | 2024-06-21 | 2024-10-04 |
-| [Track 1](https://open.spotify.com/track/73fQhw7b0rTJa73YnxGeXZ) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-11 |  |
 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 | 2025-04-10 | 2025-08-09 |
 | [Trust No One](https://open.spotify.com/track/5JWvuCZ6yOJJ4GlbAVjl1v) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Trust No One](https://open.spotify.com/album/7DhBu788ygCSGB9xnoNBVE) | 3:03 | 2023-07-27 | 2023-09-15 |
 | [U Love It](https://open.spotify.com/track/4tvVKTTnvDal5mUhf80RJC) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [U Love It](https://open.spotify.com/album/0fnqpN4YCLNfiKdQ8uzvPi) | 2:40 | 2022-02-18 | 2023-02-24 |

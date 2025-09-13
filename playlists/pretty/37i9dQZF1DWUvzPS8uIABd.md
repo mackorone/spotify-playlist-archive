@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Nelli Matula.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,296 likes - 73 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,306 likes - 73 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 28 | [Jumalat juhlivat öisin](https://open.spotify.com/track/1cTUxnoy0BqVpSs43J3mpV) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Jumalat juhlivat öisin](https://open.spotify.com/album/2oj7x1lNyktgT53TG3eJdv) | 2:53 |
 | 29 | [Enola Gay](https://open.spotify.com/track/1mR4aI9Np7l7RUis9CPJD4) | [Mira Luoti](https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho) | [Enola Gay](https://open.spotify.com/album/6crcPY9XaTewuqBwaoeSVU) | 3:35 |
 | 30 | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/track/0qhInLAWcI38LnFEcKa2FV) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/album/49KPpjc1firTCQNTJAGn1i) | 2:44 |
-| 31 | [Ainoo nainen](https://open.spotify.com/track/44MDbctWdAEwsLWzMH5YLc) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [](https://open.spotify.com/album/null) | 2:38 |
+| 31 | [Ainoo nainen](https://open.spotify.com/track/44MDbctWdAEwsLWzMH5YLc) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [Tuhat ja yksi yötä](https://open.spotify.com/album/2oizcE37WwDzW9ZvQuO0cY) | 2:38 |
 | 32 | [Kellon suuntaa \(feat\. JVG\)](https://open.spotify.com/track/0kK2tWDGg7XFnPKV4YZSIO) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Kellon suuntaa \(feat\. JVG\)](https://open.spotify.com/album/5TB2VuFmGALE6GXp3L7vmS) | 2:48 |
 | 33 | [Naadindoo \(feat\. Ege Zulu\)](https://open.spotify.com/track/4CV6CKX2rRNLbfUH0PN3yL) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Naadindoo \(feat\. Ege Zulu\)](https://open.spotify.com/album/5qIgADv917SGS6fqhguuZz) | 2:37 |
 | 34 | [Mic Mac \- Vain elämää kausi 16](https://open.spotify.com/track/15b1HQLOpR0B2tjvJ5Fd2h) | [Jonna Tervomaa](https://open.spotify.com/artist/2oyp9901wXE4E3MLXlwznV) | [Mic Mac \(Vain elämää kausi 16\)](https://open.spotify.com/album/41HCCPuDAWtN4FktqvkxRC) | 3:11 |

@@ -2599,6 +2599,24 @@
     },
     {
       "album": {
+        "name": "Everything She Does",
+        "url": "https://open.spotify.com/album/5LYZjezeOhI4MVMASc3ZZn"
+      },
+      "artists": [
+        {
+          "name": "Bayker Blankenship",
+          "url": "https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196100,
+      "name": "Everything She Does",
+      "url": "https://open.spotify.com/track/0WXwVx2Ni5yimjV9gunwpV"
+    },
+    {
+      "album": {
         "name": "Fall In Love With Me",
         "url": "https://open.spotify.com/album/67JHB0s8c5pbNELuRkl0E8"
       },

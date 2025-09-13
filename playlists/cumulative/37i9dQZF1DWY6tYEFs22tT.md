@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Central](https://open.spotify.com/playlist/37i9dQZF1DWY6tYEFs22tT)
 
-> Today's Hip\-Hop with Latto & Ice Spice, Drake, Don Toliver, Offset and Cardi B.
+> Today's Hip\-Hop with Drake, Latto & Ice Spice, Nemzzz, Offset and Cardi B.
 
 1,394 songs - 2 day 21 hr 10 min
 

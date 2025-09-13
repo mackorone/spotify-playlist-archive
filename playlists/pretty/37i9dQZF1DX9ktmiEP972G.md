@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ktmiEP972G.md) - [plain]
 
 > This championship summer, football icons across Europe have teamed up to curate a playlist to bring people together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,638 likes - 40 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,668 likes - 40 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

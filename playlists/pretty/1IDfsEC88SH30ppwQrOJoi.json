@@ -1,12 +1,12 @@
 {
   "description": "High energy, club songs from around the world! <a href=\"https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA\">Jaxomy</a> on the cover. Follow <a href=\"http://open.spotify.com/user/ultramusicofficial\">our profile</a> for more playlists.",
-  "num_followers": 14254,
+  "num_followers": 14251,
   "original_name": "Ultra Club Hits",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAAKcUjReyBGqHIxiu6Otc5usKhZhVbZ",
+  "snapshot_id": "AAAKciwBeIcAgNA/oU1iiNERWOia9dQ1",
   "tracks": [
     {
       "added_at": "2025-06-10 12:37:11",
@@ -3035,6 +3035,22 @@
       "duration_ms": 126290,
       "name": "Le Temps Est Bon (feat. In-Grid)",
       "url": "https://open.spotify.com/track/6M3gx3M4AvOgxQ3HIk5Qi5"
+    },
+    {
+      "added_at": "2025-09-12 15:54:09",
+      "album": {
+        "name": "KIDS",
+        "url": "https://open.spotify.com/album/3g2krLRAh7gyo34ZByhHF6"
+      },
+      "artists": [
+        {
+          "name": "Dan Heist",
+          "url": "https://open.spotify.com/artist/58sSgXdraXhUDJviQD4ZNS"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "KIDS",
+      "url": "https://open.spotify.com/track/2FseetX4Od9OkF80RiQQW8"
     }
   ],
   "unique_name": "Ultra Club Hits",

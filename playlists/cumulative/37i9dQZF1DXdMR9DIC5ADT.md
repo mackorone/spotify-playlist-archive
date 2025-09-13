@@ -2,7 +2,7 @@
 
 ### [The WISHLIST](https://open.spotify.com/playlist/37i9dQZF1DXdMR9DIC5ADT)
 
-> 来日希望！ライブで観たい注目の海外アーティストを特集。cover: Big Thief
+> 来日希望！ライブで観たい注目の海外アーティストを特集。cover: Gorillaz
 
 690 songs - 1 day 14 hr 15 min
 

@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-179 songs - 8 hr 11 min
+180 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Pick It Up](https://open.spotify.com/track/6lY2AdInMhdWlio2rS8yph) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 2:50 | 2024-01-30 | 2024-05-04 |
 | [Play Outside](https://open.spotify.com/track/3t4STKA849plfaghVfM57x) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Play Outside](https://open.spotify.com/album/0JWaUhGdMrPXGu1DdUq424) | 2:31 | 2024-02-23 | 2024-07-27 |
 | [Please & Thank You](https://open.spotify.com/track/6PTkVli8zGBzffeZGZnWDm) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 1:35 | 2024-01-30 | 2024-04-06 |
+| [Pop! Goes the Weasel](https://open.spotify.com/track/3q12MYGc4rv8QRogu3jmbX) | [Snuggle Bunch](https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv) | [We Came to Have Fun!](https://open.spotify.com/album/1ZQYJKkBiMkOHX6f7VkgjG) | 2:09 | 2025-09-12 |  |
 | [Reading is Amazing \(World Book Day 2022\)](https://open.spotify.com/track/1V2Ck7XdziVOmHBbXDujQy) | [MC Grammar](https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN) | [Reading is Amazing \(World Book Day 2022\)](https://open.spotify.com/album/529nXtwRpnni4MtGtKrEJy) | 2:59 | 2024-01-30 |  |
 | [Recess](https://open.spotify.com/track/4cTLSLjhkKCtGdkwmBPdK6) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I), [JER](https://open.spotify.com/artist/7xJaPX4LwOT3i6XB7WFskK), [Stacked Like Pancakes](https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp) | [Buddy's Magic Toy Box](https://open.spotify.com/album/0t89W84YBh8m1CsqBrR5Ip) | 2:48 | 2024-01-30 | 2025-06-07 |
 | [Rise](https://open.spotify.com/track/00Nx5kFUJBcdGa0GNPH8Lx) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Tower to Tower 2](https://open.spotify.com/album/0FT8XvXuscoSlxZb5138Fq) | 3:03 | 2021-11-19 | 2024-01-31 |

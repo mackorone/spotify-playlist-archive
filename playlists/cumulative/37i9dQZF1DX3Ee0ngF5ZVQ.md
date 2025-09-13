@@ -2,9 +2,9 @@
 
 ### [Texas Country Now](https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ)
 
-> Check out Band Together Texas, a livestream in support of Texas Flood Relief Efforts, airing at 7pm CT on August 17\. Tune\-in and donate at bandtogethertexas.com
+> New and trending tracks from Texas Country icons and rising stars\. Cover: Jake Worthington
 
-703 songs - 1 day 17 hr 47 min
+705 songs - 1 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Beaumont](https://open.spotify.com/track/024K3TtiidXB4YBqiVEfD2) | [Parker Ryan](https://open.spotify.com/artist/6q8CPuf8PaE5fvf6WMEldG) | [Parker Ryan](https://open.spotify.com/album/4iCyyEW61JDJimz3pvU03j) | 3:59 | 2021-12-17 | 2022-10-08 |
 | [Beautiful Morning](https://open.spotify.com/track/38Cw9mLDRWi311iOUbgjQe) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [Down the Stairwell – Side A](https://open.spotify.com/album/3pGCt22bCC6LLcNXIuR8AO) | 2:58 | 2023-02-24 | 2023-07-01 |
 | [Been Better](https://open.spotify.com/track/0CxBzA90gMAPSpInZmLaAv) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Been Better](https://open.spotify.com/album/3tb8rjXSmT3E2rgOMPbVB4) | 3:16 | 2023-02-01 | 2023-07-12 |
+| [Beer Garden Baby](https://open.spotify.com/track/52YLi3V817Ks9UzbavTZAG) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Beer Garden Baby](https://open.spotify.com/album/3NmPbYlDDM6yo20vB16OPh) | 3:41 | 2025-09-12 |  |
 | [Bend](https://open.spotify.com/track/1hd2FhXKSbH7X6DsGZWPmw) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Bend](https://open.spotify.com/album/076D8t21jWpx0yLOZYyBWe) | 3:26 | 2023-08-18 | 2023-10-07 |
 | [Better For You](https://open.spotify.com/track/0ZHstdIl6lbENFFj5A9R8C) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Better For You](https://open.spotify.com/album/2zQoCOG7PmZkFikB6K4aTs) | 3:22 | 2022-05-13 | 2022-07-30 |
 | [Better Half](https://open.spotify.com/track/6oI9O4mep2xh7kqPCaeVb5) | [Brendyn Kyle](https://open.spotify.com/artist/7Bf6Wz0HefBc51pffYVf3j) | [Better Half](https://open.spotify.com/album/5mgiSM2ro7ucsgOUOOiG5F) | 3:19 | 2021-12-17 | 2022-02-05 |
@@ -151,7 +152,7 @@
 | [Crash Landing](https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Crash Landing](https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG) | 3:24 | 2021-12-17 | 2022-03-19 |
 | [Creepin up on Me](https://open.spotify.com/track/4C2RJVUMlDlPFT1vo1Qbja) | [Carter Lybrand](https://open.spotify.com/artist/0ophv4tU6QFbsUQ0DwotdM) | [Creepin up on Me](https://open.spotify.com/album/7cFZBIt7E41fBinNftbq5x) | 3:39 | 2021-12-17 | 2022-03-19 |
 | [Creeps](https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Creeps](https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB) | 3:46 | 2022-08-26 |  |
-| [Crossing Lines](https://open.spotify.com/track/3sR8Hdgl2oD1kKB7oS2U1M) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Crossing Lines](https://open.spotify.com/album/2i37SSqkyaIafbqGWHYyqw) | 2:50 | 2023-11-03 |  |
+| [Crossing Lines](https://open.spotify.com/track/3sR8Hdgl2oD1kKB7oS2U1M) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Crossing Lines](https://open.spotify.com/album/2i37SSqkyaIafbqGWHYyqw) | 2:50 | 2023-11-03 | 2025-09-13 |
 | [Crown and Coke](https://open.spotify.com/track/2LdU5dCjpUOqtYz7l3zI4K) | [Kristen Foreman](https://open.spotify.com/artist/1Vj1bZDumDGeiyAu3GkGsJ) | [Crown and Coke](https://open.spotify.com/album/2K2f5FubTucs2sY0g2wJmK) | 2:47 | 2021-12-17 | 2022-05-28 |
 | [Cuz I'm Country](https://open.spotify.com/track/3djfobOj71XBOhb8eQaCzS) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [Cuz I'm Country](https://open.spotify.com/album/03ccca7v1ES41IFLaSeSq6) | 3:13 | 2022-04-08 | 2022-08-06 |
 | [Damn Fine Livin'](https://open.spotify.com/track/5USNgeOEK6Z85dEj59RPsz) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Damn Fine Livin'](https://open.spotify.com/album/6kf6HOmzaq6m8YgYQmxsAc) | 3:09 | 2023-04-14 | 2023-07-08 |
@@ -443,7 +444,7 @@
 | [Only Need One](https://open.spotify.com/track/6xjVFA6jmSIuQEH108s6V2) | [Ned LeDoux](https://open.spotify.com/artist/0vdfJvybF4QD1rzkHYqp6Q) | [Only Need One](https://open.spotify.com/album/2LAc0RjCJ2qynoCRN6tUil) | 3:33 | 2022-02-04 | 2022-07-27 |
 | [Open Book](https://open.spotify.com/track/71F8QUX0UiqmoSZKgjCnP6) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [Open Book](https://open.spotify.com/album/5ivrCd6Y6Z1BGr6GwROBwp) | 3:47 | 2022-04-29 | 2022-07-15 |
 | [Open Road](https://open.spotify.com/track/51WG9PYBpY8wgecAZFEMTS) | [Ned LeDoux](https://open.spotify.com/artist/0vdfJvybF4QD1rzkHYqp6Q) | [Buckskin](https://open.spotify.com/album/27K52pfrgwrUqsaAJZ2WLn) | 3:29 | 2022-03-11 | 2022-07-28 |
-| [Other Girls \(Ain't Havin' Any Fun\)](https://open.spotify.com/track/6zLZHGqONXx2yYWS9S4Ebv) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner!](https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N) | 4:13 | 2024-06-28 |  |
+| [Other Girls \(Ain't Havin' Any Fun\)](https://open.spotify.com/track/6zLZHGqONXx2yYWS9S4Ebv) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner!](https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N) | 4:13 | 2024-06-28 | 2025-09-13 |
 | [Oughta See You \(The Way I Do\)](https://open.spotify.com/track/4yAirqjJEOtOW06WLUqAXa) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 3:55 | 2023-11-03 | 2024-04-19 |
 | [Oughta See You \(The Way I Do\)](https://open.spotify.com/track/7tkXLhjS4lZjuykWzGkBF7) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Oughta See You \(The Way I Do\)](https://open.spotify.com/album/71vntnzbDCNp3CpFc0RiET) | 3:55 | 2023-08-25 | 2023-11-08 |
 | [Outlaw Angel](https://open.spotify.com/track/3hvugLbmjKHMf1qQijX99W) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Outlaw Angel](https://open.spotify.com/album/04HvbuaquvTZlfBDWi0Eqf) | 2:58 | 2021-12-17 | 2022-03-19 |
@@ -625,6 +626,7 @@
 | [Trouble With You](https://open.spotify.com/track/5WxsXiljdTceevmqvsi4hq) | [Taylor Dunn](https://open.spotify.com/artist/1FfX9825XN0Uy6HBVoQsxr) | [Trouble With You](https://open.spotify.com/album/4aZYrGkb1ZxJql4oUQ3bfs) | 3:30 | 2021-12-17 | 2022-07-10 |
 | [Truth Like a Lie](https://open.spotify.com/track/0QqZqpe0mQJ8R7FYVgJ4qs) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [Truth Like a Lie](https://open.spotify.com/album/1udk2S0wk7gC9LUYGZ5Zgu) | 4:12 | 2021-12-17 | 2022-04-29 |
 | [Turn It Down](https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [Turn It Down](https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4) | 3:12 | 2023-09-01 |  |
+| [Two First Names](https://open.spotify.com/track/2e7x4VTgV0faEfG9MwkHFI) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [When I Write The Song](https://open.spotify.com/album/0GpuzOYTm6vI23eCZV9GRw) | 4:08 | 2025-09-12 |  |
 | [Two Hands](https://open.spotify.com/track/7vVC6koJ1ZxiegJItW77pA) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX), [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Two Hands](https://open.spotify.com/album/4pGOuhDwIrhIRAFffciZHf) | 3:26 | 2025-06-18 |  |
 | [Two Hearts in Terlingua](https://open.spotify.com/track/1xzTlHwxVsnI34HgnINYpt) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones](https://open.spotify.com/album/5kHo4RAMzYArFTulnKOEWr) | 5:01 | 2021-12-17 | 2022-07-29 |
 | [Two Left Feet](https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31) | [Cameron James Smith](https://open.spotify.com/artist/0KPGnaMKvXuA50sWdoxDBp) | [Two Left Feet](https://open.spotify.com/album/5t2Ea1xdYg7Fm7M1lSpreK) | 3:14 | 2022-10-07 | 2022-11-28 |

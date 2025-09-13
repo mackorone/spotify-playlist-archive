@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: AKASAKI
 
-2,028 songs - 5 day 2 hr 32 min
+2,029 songs - 5 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [aaa](https://open.spotify.com/track/2Srt34brSW8VItRqJStPAV) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:31 | 2023-07-25 | 2023-08-09 |
 | [About me](https://open.spotify.com/track/3axLw3lcHemC6MMkEz4Sac) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [About me](https://open.spotify.com/album/14CLwdCKsrhYWjcxRDv4o0) | 4:44 | 2022-02-17 | 2022-03-23 |
 | [ACTOR](https://open.spotify.com/track/7DU9Ttw5ugUKXo8LqwO6M6) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [ACTOR](https://open.spotify.com/album/2F3rLv6zsQBB9ZZjb3d6YD) | 2:56 | 2024-11-27 | 2025-01-10 |
-| [addicted](https://open.spotify.com/track/6pbFoDKhAFfnlGy63ob2mf) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [sublimated](https://open.spotify.com/album/35yXAuUTisaemSxBiyFGVP) | 2:38 | 2025-06-17 |  |
+| [addicted](https://open.spotify.com/track/6pbFoDKhAFfnlGy63ob2mf) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [sublimated](https://open.spotify.com/album/35yXAuUTisaemSxBiyFGVP) | 2:38 | 2025-06-17 | 2025-09-13 |
 | [After All](https://open.spotify.com/track/2hsIDYYI4J7hdJeRsiSss0) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp) | [After All](https://open.spotify.com/album/1DkbzERh9lwu0l4N5LYk2H) | 3:38 | 2023-05-16 | 2023-06-21 |
 | [Aftershow](https://open.spotify.com/track/6dyn5n7eQdJ2Br5TKpfDrI) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi), [Harry Teardrop](https://open.spotify.com/artist/3AIYyng1ByLhJC6TimwJJV) | [Aftershow](https://open.spotify.com/album/11aeI5jTdP7gy6bRwS6EEy) | 3:52 | 2023-11-28 | 2024-01-11 |
 | [again](https://open.spotify.com/track/7jFM74WwcnAZnHy4v4YTvK) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [again](https://open.spotify.com/album/0QIoiV1zp5iciJIpVI07Y0) | 3:41 | 2023-10-10 | 2023-10-25 |
@@ -453,6 +453,7 @@
 | [Hesitate](https://open.spotify.com/track/059gJJ8254eNcPhese0enO) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [Hesitate](https://open.spotify.com/album/2a4JxJrhYkacvjOShXbKSX) | 2:55 | 2023-02-01 | 2023-02-22 |
 | [Hi](https://open.spotify.com/track/3hjfDTCvGUJAFlgyVuiH6T) | [Fukumoto Nao](https://open.spotify.com/artist/1QLZ0b7wV4GzLfIrDscnET) | [Hi](https://open.spotify.com/album/1tKXgSSx2DEQi0ZihkYkTm) | 4:05 | 2022-05-12 | 2022-06-08 |
 | [Hibi no Tezawari](https://open.spotify.com/track/6ViBB1UJ6YTeIAbKR3KPRu) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hibi no Tezawari](https://open.spotify.com/album/2M9nbcQSeIYQbis8zj48Xz) | 4:30 | 2022-10-04 | 2022-11-09 |
+| [Hideaway](https://open.spotify.com/track/0U5eI9p9H669wEu8sry6YO) | [烏兎 \-uto\-](https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc) | [Hideaway \- Single](https://open.spotify.com/album/2e7y2toEKLcd97QXoql3Hs) | 3:52 | 2025-09-11 |  |
 | [HIDEOUT](https://open.spotify.com/track/5JbhaBfVDztQ9gvvDXns0r) | [Odd Donuts](https://open.spotify.com/artist/7rflUhNjhxlITzPI54XTzg) | [HIDEOUT](https://open.spotify.com/album/6bn75MSAQaMdH9Wij0BEOi) | 2:37 | 2023-06-27 | 2023-08-16 |
 | [High Flying](https://open.spotify.com/track/5Cl7xRJWzFLjyvEUJBIkgV) | [muggy](https://open.spotify.com/artist/1u45bjenzoQUC0YsziuPsQ) | [High Flying](https://open.spotify.com/album/46jJwqWD84Yl4RlWjRFYxm) | 4:06 | 2024-08-27 | 2024-12-18 |
 | [Higher](https://open.spotify.com/track/1xgqWAixmkbPMmW3jypi5Q) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Higher](https://open.spotify.com/album/5d9cAMhQ094u3wzKY3iraV) | 3:41 | 2024-08-27 | 2024-09-18 |

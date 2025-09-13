@@ -1,28 +1,48 @@
 {
-  "description": "New music from your favorite women.  Cover: Queen Naija",
-  "num_followers": 225702,
+  "description": "New music from your favorite women.  Cover: Peyton",
+  "num_followers": 225729,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL4q4T+qtb4UvXiQNGQJDmEItXzT",
+  "snapshot_id": "AAAAAOhRDK11dpriR7a83/w636z4jI83",
   "tracks": [
     {
-      "added_at": "2025-09-05 04:00:30",
+      "added_at": "2025-09-12 20:19:37",
       "album": {
-        "name": "rain...",
-        "url": "https://open.spotify.com/album/0sONAhcuKfkTNrO725PJG3"
+        "name": "Au",
+        "url": "https://open.spotify.com/album/2ddqwkTKxHVWweH5t1y1Ll"
       },
       "artists": [
         {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+          "name": "Peyton",
+          "url": "https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV"
+        },
+        {
+          "name": "Sunni Col\u00f3n",
+          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
         }
       ],
-      "duration_ms": 179613,
-      "name": "rain...",
-      "url": "https://open.spotify.com/track/6cJjOFMM0qvYzSNhHVEkHx"
+      "duration_ms": 186114,
+      "name": "Get Out Of Your Hair (feat. Sunni Col\u00f3n)",
+      "url": "https://open.spotify.com/track/0R6uge6tjTqDc1sb9OdHrc"
+    },
+    {
+      "added_at": "2025-08-08 06:44:51",
+      "album": {
+        "name": "act right",
+        "url": "https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 188899,
+      "name": "can't stop",
+      "url": "https://open.spotify.com/track/266NPG21d1RGm5GHxchVF3"
     },
     {
       "added_at": "2025-08-29 19:11:33",
@@ -57,36 +77,20 @@
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
-      "added_at": "2025-08-08 06:44:51",
+      "added_at": "2025-09-05 04:00:30",
       "album": {
-        "name": "act right",
-        "url": "https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX"
+        "name": "rain...",
+        "url": "https://open.spotify.com/album/0sONAhcuKfkTNrO725PJG3"
       },
       "artists": [
         {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
         }
       ],
-      "duration_ms": 188899,
-      "name": "can't stop",
-      "url": "https://open.spotify.com/track/266NPG21d1RGm5GHxchVF3"
-    },
-    {
-      "added_at": "2025-07-25 08:54:44",
-      "album": {
-        "name": "Hot Body",
-        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Hot Body",
-      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
+      "duration_ms": 179613,
+      "name": "rain...",
+      "url": "https://open.spotify.com/track/6cJjOFMM0qvYzSNhHVEkHx"
     },
     {
       "added_at": "2025-08-22 04:00:29",
@@ -103,6 +107,22 @@
       "duration_ms": 241206,
       "name": "All I Want + In Pursuit",
       "url": "https://open.spotify.com/track/3X6hp5iPHRAB7AZ27liSbF"
+    },
+    {
+      "added_at": "2025-07-25 08:54:44",
+      "album": {
+        "name": "Hot Body",
+        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Hot Body",
+      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
       "added_at": "2025-08-29 19:11:33",
@@ -179,6 +199,22 @@
       "duration_ms": 212281,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs"
+    },
+    {
+      "added_at": "2025-09-12 20:19:37",
+      "album": {
+        "name": "WE NEED TO TALK : DRAMA",
+        "url": "https://open.spotify.com/album/4I4je4xJo10gcEK7LlIXG6"
+      },
+      "artists": [
+        {
+          "name": "Keri Hilson",
+          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
+        }
+      ],
+      "duration_ms": 224486,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/1kXkSTv8sCwI4vLbLLBstW"
     },
     {
       "added_at": "2025-07-11 08:08:29",
@@ -269,22 +305,6 @@
       "url": "https://open.spotify.com/track/6slFpFRzS8WJPbr25ega3p"
     },
     {
-      "added_at": "2025-09-05 04:00:30",
-      "album": {
-        "name": "Assumptions",
-        "url": "https://open.spotify.com/album/0AligRsoUXy8NgojEVYWyM"
-      },
-      "artists": [
-        {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
-        }
-      ],
-      "duration_ms": 136905,
-      "name": "Assumptions",
-      "url": "https://open.spotify.com/track/0egBqATpcSau87VeLWdZQt"
-    },
-    {
       "added_at": "2025-08-01 05:55:11",
       "album": {
         "name": "Gone",
@@ -305,40 +325,36 @@
       "url": "https://open.spotify.com/track/5GzaOxdfGG93a5K9g12GZY"
     },
     {
-      "added_at": "2025-08-15 06:46:58",
+      "added_at": "2025-09-05 04:00:30",
       "album": {
-        "name": "Why Not More? (MORE!)",
-        "url": "https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M"
+        "name": "Assumptions",
+        "url": "https://open.spotify.com/album/0AligRsoUXy8NgojEVYWyM"
       },
       "artists": [
         {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
         }
       ],
-      "duration_ms": 192852,
-      "name": "Other Side Of Love (Remix) [feat. Alicia Keys]",
-      "url": "https://open.spotify.com/track/3Bnbwbe6ReNLOQwBoTxBC7"
+      "duration_ms": 136905,
+      "name": "Assumptions",
+      "url": "https://open.spotify.com/track/0egBqATpcSau87VeLWdZQt"
     },
     {
-      "added_at": "2025-08-22 04:00:29",
+      "added_at": "2025-09-12 20:19:37",
       "album": {
-        "name": "CiCi",
-        "url": "https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ"
+        "name": "Symptoms of Me",
+        "url": "https://open.spotify.com/album/3j2DGHCJMkOzvHddr8GkKs"
       },
       "artists": [
         {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+          "name": "Summer Banton",
+          "url": "https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI"
         }
       ],
-      "duration_ms": 205668,
-      "name": "Drop Your Love",
-      "url": "https://open.spotify.com/track/1OJx4MMKqJQL51v3zjS5f4"
+      "duration_ms": 149488,
+      "name": "Class A",
+      "url": "https://open.spotify.com/track/3X5VHuawDizSLFIYpJQD5U"
     },
     {
       "added_at": "2025-07-25 08:54:44",
@@ -391,6 +407,26 @@
       "duration_ms": 193108,
       "name": "Shook One",
       "url": "https://open.spotify.com/track/1hh3cYtGRm5z9EfxLbQ9qv"
+    },
+    {
+      "added_at": "2025-08-15 06:46:58",
+      "album": {
+        "name": "Why Not More? (MORE!)",
+        "url": "https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 192852,
+      "name": "Other Side Of Love (Remix) [feat. Alicia Keys]",
+      "url": "https://open.spotify.com/track/3Bnbwbe6ReNLOQwBoTxBC7"
     },
     {
       "added_at": "2025-08-15 06:46:58",
@@ -461,22 +497,6 @@
       "url": "https://open.spotify.com/track/3jMy1VarebpNysMa9dN6pr"
     },
     {
-      "added_at": "2025-06-27 04:00:50",
-      "album": {
-        "name": "Bed of Roses",
-        "url": "https://open.spotify.com/album/7EHL9PCseJVg7jLeF08G3S"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 149503,
-      "name": "Bed of Roses",
-      "url": "https://open.spotify.com/track/4hTBcHQ5DjYH9dbroi91if"
-    },
-    {
       "added_at": "2025-08-01 05:55:11",
       "album": {
         "name": "Thank You For A Lovely Time (Raphael Saadiq Version)",
@@ -509,6 +529,22 @@
       "url": "https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr"
     },
     {
+      "added_at": "2025-09-12 20:19:37",
+      "album": {
+        "name": "tmwtd",
+        "url": "https://open.spotify.com/album/6HWs956z785ALyfHLkzTYf"
+      },
+      "artists": [
+        {
+          "name": "Jordyn Simone",
+          "url": "https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb"
+        }
+      ],
+      "duration_ms": 193116,
+      "name": "tmwtd",
+      "url": "https://open.spotify.com/track/7zIS9pKDkKQVUedycOP6kK"
+    },
+    {
       "added_at": "2025-08-29 19:11:33",
       "album": {
         "name": "Dream of You",
@@ -539,6 +575,22 @@
       "duration_ms": 245972,
       "name": "My World (beyond)",
       "url": "https://open.spotify.com/track/32ifMUB1J4IPP08kd0NI1u"
+    },
+    {
+      "added_at": "2025-09-12 20:19:37",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/4Mrqm0SLoMDGBbHNKAxJbz"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 200536,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot"
     },
     {
       "added_at": "2025-09-05 04:00:30",
@@ -813,6 +865,22 @@
       "url": "https://open.spotify.com/track/1dT8081zonRYVJjB7powau"
     },
     {
+      "added_at": "2025-09-12 20:19:37",
+      "album": {
+        "name": "ISOLA",
+        "url": "https://open.spotify.com/album/7EbbWfniqqvccuutDWnzJn"
+      },
+      "artists": [
+        {
+          "name": "Ayoni",
+          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Comeback",
+      "url": "https://open.spotify.com/track/1ns5o3vQ9MfB6Q52VZpmz1"
+    },
+    {
       "added_at": "2025-09-05 04:00:30",
       "album": {
         "name": "Cover Girl",
@@ -915,26 +983,6 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
-    },
-    {
-      "added_at": "2025-07-25 08:54:44",
-      "album": {
-        "name": "Thick n Country",
-        "url": "https://open.spotify.com/album/6zmx0UMQ04JeZmDzoXdehm"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        },
-        {
-          "name": "Akeem Ali",
-          "url": "https://open.spotify.com/artist/5aTVaxCp68WGSX8qRkVM3X"
-        }
-      ],
-      "duration_ms": 128240,
-      "name": "Thick n Country",
-      "url": "https://open.spotify.com/track/6QclcBITSWRLF49MJiRxCq"
     },
     {
       "added_at": "2025-08-01 05:55:11",

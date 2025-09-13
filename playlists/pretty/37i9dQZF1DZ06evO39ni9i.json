@@ -1,12 +1,12 @@
 {
   "description": "This is Sly & The Family Stone. The essential tracks, all in one playlist.",
-  "num_followers": 29596,
+  "num_followers": 29598,
   "original_name": "This Is Sly & The Family Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMC/gAAAAAAgl6WEJcMkyBT0DinoWyv9",
+  "snapshot_id": "aMIRAAAAAAA3r8QKgPe0XOJ/MMlycS2Z",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 235826,
-      "name": "Sing a Simple Song - Single Version",
-      "url": "https://open.spotify.com/track/3QbfWiLvHcAMYmdRPd9WnX"
+      "duration_ms": 322360,
+      "name": "I Want to Take You Higher",
+      "url": "https://open.spotify.com/track/4qpIk2rvkmxJEVvt38tepd"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 322360,
-      "name": "I Want to Take You Higher",
-      "url": "https://open.spotify.com/track/4qpIk2rvkmxJEVvt38tepd"
+      "duration_ms": 235826,
+      "name": "Sing a Simple Song - Single Version",
+      "url": "https://open.spotify.com/track/3QbfWiLvHcAMYmdRPd9WnX"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back On The Right Track",
-        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 163360,
-      "name": "If It's Not Addin' Up",
-      "url": "https://open.spotify.com/track/2NB532dM3UPhcNibc0qW3Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The First Family: Live At Winchester Cathedral 1967",
         "url": "https://open.spotify.com/album/2RKFmKwO5tdaXkIcsqXfd7"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 267546,
       "name": "Skate Now - Live At Winchester Cathedral 1967",
       "url": "https://open.spotify.com/track/5kVhCcyzMDfDK186S4ZUAM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back On The Right Track",
+        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "If It's Not Addin' Up",
+      "url": "https://open.spotify.com/track/2NB532dM3UPhcNibc0qW3Y"
     },
     {
       "added_at": null,

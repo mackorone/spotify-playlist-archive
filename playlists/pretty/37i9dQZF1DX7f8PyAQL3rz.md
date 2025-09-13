@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 ### [creme](https://open.spotify.com/playlist/37i9dQZF1DX7f8PyAQL3rz)
 
-> pião na jacu pêssego ali, fk nos falante altão pensa?
+> h no alto falante, favelado elegante
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,404,801 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,404,738 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 54 | [GRAVE COM BOLHA](https://open.spotify.com/track/0JL108ixFHAwPYR2Ed2oV4) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Dj dener](https://open.spotify.com/artist/0ks9Nv5247Ks7imSztT4Sl) | [GRAVE COM BOLHA](https://open.spotify.com/album/1ZEpEqanEY8hDdqPM1xBls) | 1:59 |
 | 55 | [Alvo](https://open.spotify.com/track/3fu29XDWtWRxc78fJ7Lc54) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [DSR](https://open.spotify.com/artist/79TTYxMKrND5NcKFUbpuTQ) | [Alvo](https://open.spotify.com/album/40kVaqAwkXZqex3ZNkcVoD) | 1:34 |
 | 56 | [Gostosa Demais](https://open.spotify.com/track/6VOu9NObZ00mk5KFC6HfIQ) | [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT) | [BOLA + 1 BECK \(DELUXE\)](https://open.spotify.com/album/1igloqPc3QZzGlugijWVga) | 8:16 |
-| 57 | [Marmita de Blogueira](https://open.spotify.com/track/6TFne3kuZiI7kfSVCx1OFg) | [Nath Fischer](https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU) | [Marmita de Blogueira](https://open.spotify.com/album/4U6TbTVXKGwF7OAmZPNczl) | 2:11 |
+| 57 | [Marmita de Blogueira](https://open.spotify.com/track/6TFne3kuZiI7kfSVCx1OFg) | [Nath Fischer](https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE) | [Marmita de Blogueira](https://open.spotify.com/album/4U6TbTVXKGwF7OAmZPNczl) | 2:11 |
 | 58 | [Congelado](https://open.spotify.com/track/6isKHPmLTVivlrS7ywADqr) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Dj Herculano](https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv) | [Congelado](https://open.spotify.com/album/5miBfk7sbs8B8I8keKO719) | 4:17 |
 | 59 | [Alvinegro Praiano](https://open.spotify.com/track/06koM9lsbR0OEdbv8GgL4j) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nle Doprê](https://open.spotify.com/artist/5eIBAoPi08IA4rVTJZznZL) | [Alvinegro Praiano](https://open.spotify.com/album/35qVvVRuTpudHAmjXoF4Ru) | 3:58 |
 | 60 | [Mulher de Ronca](https://open.spotify.com/track/12qlwYHrxkIYVg94XPfhuZ) | [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Teatro de um Tralha](https://open.spotify.com/album/6yB9230AK3UBAdia8XvCi7) | 3:28 |

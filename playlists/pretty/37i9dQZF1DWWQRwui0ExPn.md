@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,423,949 likes - 200 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,424,191 likes - 200 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 199 | [Elevator](https://open.spotify.com/track/5iPB9VskHHAsEcpOf4dpxw) | [Cosmoo](https://open.spotify.com/artist/5fntdguRKMh3yJhfTqmFrG) | [Elevator](https://open.spotify.com/album/3xzPR62gpoezzrvy1Ybmkw) | 1:11 |
 | 200 | [Sparks Down](https://open.spotify.com/track/4HfrXnXrj1fyTnNRdTMLqy) | [KiddoCalvin](https://open.spotify.com/artist/08tB77WyTGC9pZ5Pm7Ymu6) | [Sparks Down](https://open.spotify.com/album/5ADGHmXhf1EWZZvmjxnC0h) | 2:18 |
 
-Snapshot ID: `AAAAANBKlJlzO+N5QAD5nRIWPknQ1ulg`
+Snapshot ID: `AAAAAJNFG9AVxC/3zKRwZFsCeW8ZpBz9`

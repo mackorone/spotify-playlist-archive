@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: Sjava
+> Proudly Southern African Afropop gems\. Cover: Vusi Nova
 
-709 songs - 2 day 2 hr 36 min
+711 songs - 2 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Bhekemehlweni](https://open.spotify.com/track/4GqYUUX01isf7s5YpQk59o) | [Afrotraction](https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL) | [Africa\. Love\. Music](https://open.spotify.com/album/5LirWmWeo0o9nZbMPVfEMf) | 3:36 | 2022-10-13 | 2023-02-10 |
 | [BIZAN'UMAMA](https://open.spotify.com/track/40OrhVxoTGnPbo1avCDYTM) | [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [BIZAN'UMAMA](https://open.spotify.com/album/4zhPzcxKGHw0CLDmP28HRc) | 4:18 | 2023-10-12 | 2024-05-03 |
 | [Black President \(Brenda Fassie 60th Tribute\)](https://open.spotify.com/track/2HAquNlzSJBEQpz4ZhATii) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU) | [Black President \(Brenda Fassie 60th Tribute\)](https://open.spotify.com/album/285dGwNu1LHuKsggkEJ3Xo) | 4:10 | 2025-04-10 |  |
+| [Black Sweater](https://open.spotify.com/track/3pdGzKXpQPLstXujPTZQg5) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Promises](https://open.spotify.com/album/3FUsw3tcGtqJboGJmyR92G) | 4:33 | 2025-09-12 |  |
 | [Break](https://open.spotify.com/track/1LtKgnc7y3jW4bkkYozDDc) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Break](https://open.spotify.com/album/701nJOG1dAwQ0VYSGk3zbt) | 2:10 | 2025-06-20 |  |
 | [Buya](https://open.spotify.com/track/6xhsflZ8sxlJVmquIIcMZp) | [Bongi Silinda](https://open.spotify.com/artist/1HS4J0XmZ1djkEOtCkhH6r), [Soul Kulture](https://open.spotify.com/artist/1LZkUMy70sBaxwNWLr22ah) | [Buya](https://open.spotify.com/album/2UpileuXTy8en41E8ZEpL6) | 4:05 | 2024-08-01 | 2024-08-16 |
 | [Buya](https://open.spotify.com/track/7EbI4Ctt4ZQ7R90mXf0Kcv) | [KhiweG](https://open.spotify.com/artist/1r2fqIvsisXOh3VkwYeZGz) | [Buya](https://open.spotify.com/album/6MIMxuFqi0vMLybGOs9Z29) | 4:33 | 2022-03-24 | 2022-06-17 |
@@ -630,6 +631,7 @@
 | [Umbayimbayi](https://open.spotify.com/track/7cICJP7hsjo6e7JZgvNLiO) | [Inkabi Zezwe](https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Umbayimbayi](https://open.spotify.com/album/3ozczTzDSjr8zjBpCsN7BW) | 3:50 | 2023-03-24 | 2024-02-09 |
 | [Umbuzo Wodwa](https://open.spotify.com/track/2Y78qvXgPX8AhZ3CyGTjkj) | [Siya Ntuli](https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc), [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma) | [Umbuzo Wodwa](https://open.spotify.com/album/2nEh7aJQC9MyfTrtSGuJPf) | 4:29 | 2024-03-15 |  |
 | [Umdanso](https://open.spotify.com/track/0Oz3p5UYinbodtyw7dRndb) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [The Maniac DJ](https://open.spotify.com/artist/22uhGwtaO918jLyqEtMIUC) | [Amagalelo](https://open.spotify.com/album/1KdQjmlYYh74SahJmDNGSV) | 3:09 | 2022-02-17 | 2022-06-03 |
+| [Umendo 2](https://open.spotify.com/track/144MjlSQzblBVzyGJtHK8o) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Mkabayi Legacy](https://open.spotify.com/album/4LljHF0vaVp6G5GLAgHDKD) | 3:53 | 2025-09-12 |  |
 | [uMfazi\_omuhle](https://open.spotify.com/track/21ihgUfLmtxXwACVarO6EY) | [SouthSideblueprint](https://open.spotify.com/artist/4hiA5BZLtNc8W5Jv1As1vv), [XiKamakazi](https://open.spotify.com/artist/5FTpKlIyNZxecEd2xT8FRL) | [spy\_da\_man](https://open.spotify.com/album/5lXb8z5UIVu0usiRFgxhbQ) | 2:18 | 2022-06-02 | 2022-06-17 |
 | [Umgani Wakho](https://open.spotify.com/track/3O2xwCcuT0k6KG6oqAkAQu) | [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv), [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [3310](https://open.spotify.com/album/7AgGMHzNjT0Fudd77ZGonH) | 4:32 | 2021-08-26 | 2022-04-15 |
 | [Umhlaba Wakho \(feat\. Nkosazana Daughter & Azana\)](https://open.spotify.com/track/5k0Ng0woKxgXJ8wv5CyO4M) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Umhlaba Wakho \(feat\. Nkosazana Daughter & Azana\)](https://open.spotify.com/album/4pG98Z46EJRUepyWcRl015) | 4:25 | 2022-07-07 | 2022-10-14 |
@@ -664,7 +666,7 @@
 | [Uthando nguwe](https://open.spotify.com/track/5klchI3pdBqkD93X99NJrC) | [Nonny Muji](https://open.spotify.com/artist/08aBSBkDfgrusrkPYKJhGX), [Maverick Muji](https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o) | [Uthando nguwe](https://open.spotify.com/album/6WFXHsr8iQlfKLH5jwQgtc) | 4:09 | 2025-07-04 |  |
 | [Uthando Olunjeh](https://open.spotify.com/track/6vjciCCw4J5Va2ngFfMgJJ) | [Fezeka Dlamini](https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7), [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh) | [Uthando Olunjeh](https://open.spotify.com/album/0Ao25wg1szso9XPbl3KYGG) | 4:17 | 2025-04-18 |  |
 | [Uthe Uyangithanda \(feat\. Mjolisi & Pretty Masompisi\)](https://open.spotify.com/track/2d1akyadOHjOCHS6GopvyE) | [Sbahle](https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5), [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr), [Pretty Masompisi](https://open.spotify.com/artist/7xBgvT4t4AQ0t7gcBc90ts) | [Uthe Uyangithanda \(feat\. Mjolisi & Pretty Masompisi\)](https://open.spotify.com/album/23FDAiS5OfPy9kUugXgRlg) | 3:42 | 2025-02-28 |  |
-| [Uvalo](https://open.spotify.com/track/3H8XWGDteOl8nmUqeYrHw5) | [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [20th: Days Before Maud](https://open.spotify.com/album/41wiN7FdTbfUJHbjaQW1YH) | 5:24 | 2024-09-26 |  |
+| [Uvalo](https://open.spotify.com/track/3H8XWGDteOl8nmUqeYrHw5) | [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [20th: Days Before Maud](https://open.spotify.com/album/41wiN7FdTbfUJHbjaQW1YH) | 5:24 | 2024-09-26 | 2025-09-13 |
 | [Uvume Kanjani?](https://open.spotify.com/track/1SBdVvoxfFvuO6BVY9WqnI) | [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [Uvume Kanjani?](https://open.spotify.com/album/1EQ6FllXqVYFKGVjRKtDRp) | 4:44 | 2025-04-09 |  |
 | [Uwena](https://open.spotify.com/track/4jMGsxKzQkCweqvkodJlPA) | [Vernotile](https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn), [Claudio](https://open.spotify.com/artist/1WwJrA5E5rKNpTWCSlzRWC) | [Uwena](https://open.spotify.com/album/5IbTxyepjq9s9P6Pdc3NRG) | 4:22 | 2024-07-25 | 2024-08-30 |
 | [Uyadlala](https://open.spotify.com/track/3s35eJ95LxZV70WRqHxnHk) | [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks) | [Fezisa](https://open.spotify.com/album/4gSrxkjuXCt0nBtHhDN4uI) | 3:35 | 2022-10-13 | 2022-10-21 |

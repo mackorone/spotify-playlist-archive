@@ -2,9 +2,9 @@
 
 ### [The Pulse of Americana](https://open.spotify.com/playlist/37i9dQZF1DX3Fzl4v4w9Zp)
 
-> Keep your finger on the pulse of Americana\. Cover: Charley Crockett
+> Keep your finger on the pulse of Americana\. Cover: Brandi Carlile
 
-851 songs - 2 day 4 hr 25 min
+853 songs - 2 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [Make a Picture](https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Inside Problems](https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE) | 3:25 | 2022-06-24 | 2023-06-17 |
 | [Man's Gotta Eat](https://open.spotify.com/track/2USfmX6vhiEofB8i1I5HoA) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Man's Gotta Eat](https://open.spotify.com/album/1OXgvOC5e9cfu7nUrkChpK) | 2:43 | 2023-04-14 | 2023-05-13 |
 | [Married Alone \(feat\. Vince Gill\)](https://open.spotify.com/track/0zvwzNNpHS4Z4cLk1KNOzD) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Married Alone \(feat\. Vince Gill\)](https://open.spotify.com/album/1wOHneMzn80srFomjCpTR9) | 4:14 | 2022-09-09 | 2023-06-24 |
+| [Me and You](https://open.spotify.com/track/3QCC92CeayvexV8Fbd83ee) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Pale, Through the Window](https://open.spotify.com/album/6hpTU7DqO5EJkjdirMNNH5) | 2:42 | 2025-09-12 |  |
 | [Mean Old Sun](https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Mean Old Sun](https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk) | 4:08 | 2023-05-05 | 2025-05-10 |
 | [Memory Bank](https://open.spotify.com/track/68mOTz9MLUmcIjGJiWP7Qf) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs), [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Memory Bank](https://open.spotify.com/album/1b9UvYOJnbIVGZVLUhLTV8) | 3:37 | 2024-10-18 |  |
 | [Mercy](https://open.spotify.com/track/0ZewwU3gkgXbYr0ixnDco4) | [Suzanne Santo](https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a) | [Mercy](https://open.spotify.com/album/1GC1QuXfAaPTCScjnDChwl) | 4:02 | 2021-12-17 | 2022-08-20 |
@@ -763,6 +764,7 @@
 | [Through the Dark](https://open.spotify.com/track/45S2pGg2kr8ezWQZcfHZfr) | [Slaid Cleaves](https://open.spotify.com/artist/1mkuxdmqLdlrtCSwLQ2sUn) | [Through the Dark](https://open.spotify.com/album/7IKwphVoCQ3ULBkEEU4omX) | 3:03 | 2023-01-13 | 2023-09-16 |
 | [Tide of Love](https://open.spotify.com/track/2o349jiFKT0rfdYMHoC96f) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Tide of Love](https://open.spotify.com/album/1uUd4igIiOBB8bTnqGfAkM) | 3:32 | 2024-01-12 | 2025-05-31 |
 | [Tide of Love](https://open.spotify.com/track/4lq1JdHhuIs4VOwHhENQvf) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Mellow War](https://open.spotify.com/album/0Jd8RkTQ1kqieqVlENwyJR) | 3:32 | 2024-03-01 | 2024-04-19 |
+| [Tied To You \(feat\. Medium Build\)](https://open.spotify.com/track/0YrUVLFiFi0udpYkLjgzSt) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Tied To You \(feat\. Medium Build\)](https://open.spotify.com/album/6HKGQOW4nrFhGbu9yIC2jk) | 3:40 | 2025-09-12 |  |
 | [Time Waited](https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Time Waited](https://open.spotify.com/album/7KAQ5nrJbMGqLtfCVWH1dF) | 3:39 | 2025-01-17 | 2025-07-26 |
 | [To All the Girls I've Loved Before](https://open.spotify.com/track/1vyAuZmklumKjd5Udd6Zmb) | [Raul Malo](https://open.spotify.com/artist/2GHyWa3uUslUFgOayQLW6b), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [To All the Girls I've Loved Before](https://open.spotify.com/album/20HLM7DxBDyiNyrIxCFz1q) | 3:44 | 2021-12-17 | 2022-02-05 |
 | [To Be Alone With You](https://open.spotify.com/track/7M10tbfWnKZT3MR8zCccmr) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Still Provoked](https://open.spotify.com/album/6tXJMaVcENjAiSyNXyW0C8) | 2:17 | 2024-08-30 |  |

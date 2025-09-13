@@ -2,7 +2,7 @@
 
 ### [Country Top 50](https://open.spotify.com/playlist/37i9dQZF1DX7aUUBCKwo4Y)
 
-> Country music's 50 most played songs in the world\. Updated weekly\. Cover: BigXthaPlug and Ella Langley
+> Country music's 50 most played songs in the world\. Updated weekly\. Cover: Morgan Wallen
 
 313 songs - 17 hr 27 min
 

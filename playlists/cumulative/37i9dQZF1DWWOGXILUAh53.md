@@ -2,7 +2,7 @@
 
 ### [New Dance Pop](https://open.spotify.com/playlist/37i9dQZF1DWWOGXILUAh53)
 
-> The hottest new pop with all the drops\. Cover: Calvin Harris & Jessie Reyez
+> The hottest new pop with all the drops\. Cover: Demi Lovato
 
 1,712 songs - 3 day 11 hr 38 min
 

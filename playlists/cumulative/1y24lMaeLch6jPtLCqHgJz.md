@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-429 songs - 21 hr 38 min
+430 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [I Want You](https://open.spotify.com/track/0oZDidA985NcUVE2GhnHI1) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Want You](https://open.spotify.com/album/0pdMhSoq6vLUhnSFoM1PnE) | 3:06 | 2022-07-29 | 2025-06-07 |
 | [I'll Be There](https://open.spotify.com/track/5KzCynjLHERTYYPFholHLr) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A) | [I'll Be There](https://open.spotify.com/album/382roHRnixJGvT9BP5BmeG) | 2:55 | 2022-07-29 | 2023-12-23 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2023-08-10 |  |
+| [I've Got It In Me](https://open.spotify.com/track/3y7FVFC0o6TFnq5mjU3EEH) | [Waztoo](https://open.spotify.com/artist/0MP4QHK5BlSbmwJxOncnfB), [Otto Palmborg](https://open.spotify.com/artist/1YQWn973MCGK5yzVeukVtc) | [I've Got It In Me](https://open.spotify.com/album/4PIa8qGXJkH3oGMYJVpLZa) | 2:42 | 2025-09-12 |  |
 | [If I Could Be](https://open.spotify.com/track/0sBfZWTh37Oe41odntXpIF) | [Jordi Sans](https://open.spotify.com/artist/2aIdkBxgg1fhkWPiEXGqP0) | [If I Could Be](https://open.spotify.com/album/0NrA4ntS1Dl0uYcevhediU) | 3:47 | 2022-07-29 | 2022-09-03 |
 | [Imma Love You](https://open.spotify.com/track/4I8Bk2MvKpZSaNkCJD2U5k) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz) | [Imma Love You](https://open.spotify.com/album/6OxuyFTWch2iIRisoizBxh) | 2:30 | 2023-02-17 | 2023-10-14 |
 | [In My Heart](https://open.spotify.com/track/361BnvS4Uta3DqxlYrcjYL) | [Fablers](https://open.spotify.com/artist/54XePvvWvcqPr7Jj95qOWX), [ATREOUS](https://open.spotify.com/artist/0EX6qdKwwNO9TN24DvRHwG), [Darking On](https://open.spotify.com/artist/6e2ZvwSvsd7TY2fr8wPE7C), [Robbie Hutton](https://open.spotify.com/artist/05qvZreQgj82j4gXKT6K0T) | [In My Heart](https://open.spotify.com/album/2mywPUscfstwdqUG0Zvecr) | 3:24 | 2022-07-29 | 2022-11-19 |

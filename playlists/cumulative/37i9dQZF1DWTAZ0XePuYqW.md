@@ -4,7 +4,7 @@
 
 > Lizzo's got that big energy.
 
-552 songs - 1 day 3 hr 25 min
+554 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Hold Me Down \(feat\. Kah\-Lo\)](https://open.spotify.com/track/6PaNqowxXiXwNtbT6Nk6vy) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Hold Me Down \(feat\. Kah\-Lo\)](https://open.spotify.com/album/77kQjc7iSD6oE0K11HWBjv) | 2:47 | 2024-09-27 | 2025-02-15 |
 | [Holiday](https://open.spotify.com/track/3HhdRHgiGbSH8rcGhJ0PGW) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU), [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V), [Nelieux](https://open.spotify.com/artist/0gMDsodMcZUuum1iXNMVge) | [Black Keys Riddim](https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g) | 2:17 | 2023-10-06 | 2024-03-30 |
 | [Holy Moly \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1q22aC4uN1ScliKRzoB0OV) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Head Rush](https://open.spotify.com/album/1LWY99BhdUJPU72PZ0MCIc) | 2:21 | 2024-06-28 | 2025-04-19 |
-| [Home](https://open.spotify.com/track/5PdA08FFRf8LaufbO0kQdv) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Home](https://open.spotify.com/album/0g7gJ3pJdy0O61GMgVQcqO) | 3:00 | 2025-06-13 |  |
+| [Home](https://open.spotify.com/track/5PdA08FFRf8LaufbO0kQdv) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Home](https://open.spotify.com/album/0g7gJ3pJdy0O61GMgVQcqO) | 3:00 | 2025-06-13 | 2025-09-13 |
 | [HOOD RAT SHIT](https://open.spotify.com/track/3kngaJLn8ch92TAI33kGtf) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [Chenzehn](https://open.spotify.com/artist/4f6mzHylkFqgtpggUv7qdq) | [HOOD RAT SHIT](https://open.spotify.com/album/6XMm1PP7M1nUzXypot7Rut) | 2:42 | 2023-08-18 | 2023-09-02 |
 | [Hot & Mysterious](https://open.spotify.com/track/0fs75XwQHj1mdIWUhvNohh) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Hot & Mysterious](https://open.spotify.com/album/2WUZrYy8Edtl3xmrWWDEAq) | 2:35 | 2025-01-31 | 2025-07-26 |
 | [Hot Honey](https://open.spotify.com/track/2zq9JzV4REqw574jN2yyEH) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Hot Honey](https://open.spotify.com/album/6jRGHMzuPV5oSphIusq9IL) | 2:17 | 2024-05-31 | 2024-08-10 |
@@ -302,7 +302,7 @@
 | [Meridian](https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:15 | 2023-10-27 | 2023-12-02 |
 | [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 | 2023-08-25 | 2023-10-27 |
 | [METATRON \- feat\. Lola Moxom](https://open.spotify.com/track/0kaDuqfiEeUGa9SYKHEEmI) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Lola Moxom](https://open.spotify.com/artist/108GZkpexhWFatGlQTbb1g) | [METATRON \(feat\. Lola Moxom\)](https://open.spotify.com/album/55L4dwxaTZIwY0bRk4nFzn) | 2:43 | 2025-04-18 | 2025-06-28 |
-| [Mine](https://open.spotify.com/track/27UB48yRwGTsPsswfAbgN1) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Mine](https://open.spotify.com/album/1rNWlNl9xcl2vp3v4aUV6s) | 2:50 | 2024-09-20 |  |
+| [Mine](https://open.spotify.com/track/27UB48yRwGTsPsswfAbgN1) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Mine](https://open.spotify.com/album/1rNWlNl9xcl2vp3v4aUV6s) | 2:50 | 2024-09-20 | 2025-09-13 |
 | [MONCLER](https://open.spotify.com/track/4kbMThlSBxsO7AJL12eNrb) | [CHAIME](https://open.spotify.com/artist/5ntCtEJfmuE4RPQyGyN7CB) | [MONCLER](https://open.spotify.com/album/37EPREjGXwMHqZtRlMW8qO) | 3:19 | 2024-06-21 | 2025-01-01 |
 | [Mood Swings](https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:20 | 2024-02-09 | 2025-03-29 |
 | [Moodboard](https://open.spotify.com/track/6fpqzhSCpzGQthHJGA3j6u) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Moodboard](https://open.spotify.com/album/2e2Y4XowuTP4qR48PBvHZA) | 2:12 | 2024-09-06 | 2025-01-01 |
@@ -414,6 +414,7 @@
 | [Runaway](https://open.spotify.com/track/5zQjsdDEqcpXaluAax1jKn) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Runaway](https://open.spotify.com/album/5kdzySpTqsyQNS00JQPFff) | 2:47 | 2023-08-18 | 2023-09-09 |
 | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns) | 2:52 | 2023-09-02 | 2024-03-09 |
 | [S.M.O.](https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [S.M.O.](https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy) | 4:30 | 2025-06-20 | 2025-07-26 |
+| [SAD GIRL DISCO](https://open.spotify.com/track/24dJ7fDXFjBjoTKAICL8vU) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [COLLIDE](https://open.spotify.com/album/4HC7EHKHEMR4iT0sTt6hNr) | 2:52 | 2025-09-12 |  |
 | [Salvaje](https://open.spotify.com/track/4poJASsAQ5WAi8565dHLOV) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [Salvaje](https://open.spotify.com/album/0IPAKI1Q1PuyGRl5r8bFfX) | 1:36 | 2023-08-18 | 2023-12-02 |
 | [Samba Surprise](https://open.spotify.com/track/4k2pfOaO2JyxQd2RjpC7hh) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Samba Surprise](https://open.spotify.com/album/32LT19tACxN2zoMbdAqbzK) | 2:53 | 2025-02-28 | 2025-06-07 |
 | [Scars](https://open.spotify.com/track/3HnXO5psqLAfH6wrwl248f) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Gilberto's Son](https://open.spotify.com/album/1kGLrR4To17fbnAKxTLHVM) | 2:16 | 2024-11-15 | 2025-01-01 |
@@ -560,5 +561,6 @@
 | [You're Nasty](https://open.spotify.com/track/3xoGV25ng6sbUCEmMQlQ8K) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [You're Nasty](https://open.spotify.com/album/4UZ4Onm7nghGgBeypjWJCx) | 5:03 | 2025-07-25 |  |
 | [Young Rich & In Love \- KAYTRANADA Remix](https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS PARTE 2 \(Deluxe\)](https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS) | 3:52 | 2024-12-31 | 2025-07-12 |
 | [ZOOM](https://open.spotify.com/track/5BrX72zkxJaowRZwgM8wyB) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [ZOOM](https://open.spotify.com/album/1sh6E8cJ0BOG5aN4jQ1MiK) | 3:45 | 2024-03-08 | 2024-06-01 |
+| [ZOOM OUT](https://open.spotify.com/track/1SaSEeMnVGgvSUTrltQBdj) | [APB](https://open.spotify.com/artist/3vUy9wmklGDZ5r2sEPk7N8) | [ZOOM OUT](https://open.spotify.com/album/3Sd3kWO3QsdR4QI48LV0CE) | 4:26 | 2025-09-12 |  |
 
 \*This playlist was first scraped on 2023-08-19. Prior content cannot be recovered.

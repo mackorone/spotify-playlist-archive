@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med Kasino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,895 likes - 200 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,892 likes - 200 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 3 | [EXISTENS](https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EXISTENS](https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm) | 2:52 |
 | 4 | [know no love](https://open.spotify.com/track/5jziLoMTqLYV1shUXkOqch) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [know no love](https://open.spotify.com/album/1MfAvxgc9XlVf4cCPIBks7) | 3:47 |
 | 5 | [Blushing](https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Blushing](https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus) | 4:07 |
-| 6 | [Jaime](https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [](https://open.spotify.com/album/null) | 2:23 |
-| 7 | [On a Pier, On the Hudson](https://open.spotify.com/track/3NPGL8TYTiahQplLct85G2) | [Jens Lekman](https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx), [Matilda Sargren](https://open.spotify.com/artist/1eRz9OGhKoaqlllkjNoR6d) | [](https://open.spotify.com/album/null) | 4:33 |
+| 6 | [Jaime](https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Girl Violence](https://open.spotify.com/album/4aAqSQJ69OruOHDlQ9B5ki) | 2:23 |
+| 7 | [On a Pier, On the Hudson](https://open.spotify.com/track/3NPGL8TYTiahQplLct85G2) | [Jens Lekman](https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx), [Matilda Sargren](https://open.spotify.com/artist/1eRz9OGhKoaqlllkjNoR6d) | [Songs for Other People's Weddings](https://open.spotify.com/album/4SEOqwVS7l830bA5Q4aBFd) | 4:33 |
 | 8 | [Lazy](https://open.spotify.com/track/7gjLvBAVibgfEvOBzpfbaf) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Lazy](https://open.spotify.com/album/62uxdKThg4AohDhzHhNlGw) | 1:39 |
 | 9 | [Take A Drive](https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Take A Drive](https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a) | 3:45 |
-| 10 | [I Wonder](https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [](https://open.spotify.com/album/null) | 2:55 |
+| 10 | [I Wonder](https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [East Of The Sun](https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL) | 2:55 |
 | 11 | [The Hives Forever Forever The Hives](https://open.spotify.com/track/2jfiQnjMbn7tnvcNiJIml2) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/4dhvyOGnFrrfCIYoENyUiL) | 3:03 |
 | 12 | [Sorry](https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Sorry](https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ) | 3:17 |
 | 13 | [Boys Don't Cry](https://open.spotify.com/track/6mAJ6zg0qt6oWu4IdYkP3d) | [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY) | [Boys Don't Cry](https://open.spotify.com/album/6tALCdY8BWXAYqyZ0A2UEi) | 2:50 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 20 | [West Coast Girl](https://open.spotify.com/track/4wevmhCVQ1sSrmrYyZu9U1) | [10 000 år](https://open.spotify.com/artist/0emic5nhAqsyLBJHDy3E4l), [Nowhere Blue](https://open.spotify.com/artist/4rSnpj0LK5jbdGUTKeBLzP), [Birds Eye View](https://open.spotify.com/artist/60LZHUi3OMtWf7ETGxPAMO) | [West Coast Girl](https://open.spotify.com/album/2kewRK2h4IcqaAzUTvNQTQ) | 3:19 |
 | 21 | [Dare To Fall In Love](https://open.spotify.com/track/6wK00cLmk8GOgJOgMusTeu) | [Phantastic Ferniture](https://open.spotify.com/artist/6uHxXCSJUP50EgddL6eWNC) | [Change My Mind / Dare To Fall In Love](https://open.spotify.com/album/7bb6XYtPuE2YE86EwswEOS) | 2:17 |
 | 22 | [Huvet i ett moln](https://open.spotify.com/track/60Fj3KuAxjV88jHYwDesYE) | [Slowgold](https://open.spotify.com/artist/2Urxw4X90ya3LA8KqV2WIX) | [Huvet i ett moln](https://open.spotify.com/album/1Uf0MTzYLkpkppVFa6SJRF) | 3:17 |
-| 23 | [Bigger Person](https://open.spotify.com/track/1VZJQ8i70HJiRYZyOvOBRX) | [Ji Nilsson](https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY) | [](https://open.spotify.com/album/null) | 3:11 |
+| 23 | [Bigger Person](https://open.spotify.com/track/1VZJQ8i70HJiRYZyOvOBRX) | [Ji Nilsson](https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY) | [Nordic Noir](https://open.spotify.com/album/4KB0uWkYl4ktPULgeW8hUS) | 3:11 |
 | 24 | [Allting & Ingenting](https://open.spotify.com/track/6LAhnTDTZsVPHEPC1VTWkS) | [crescenterna](https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh) | [Allting & Ingenting](https://open.spotify.com/album/6ENEYzffmyOq4w2Wsw6Ihd) | 4:14 |
 | 25 | [Nice Shoes](https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Nice Shoes](https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl) | 3:15 |
 | 26 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:11 |

@@ -2,7 +2,7 @@
 
 ### [Fresh Folk](https://open.spotify.com/playlist/37i9dQZF1DXaUDcU6KDCj4)
 
-> Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Brandi Carlile
+> Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Madison Cunningham
 
 3,385 songs - 8 day 11 hr 57 min
 

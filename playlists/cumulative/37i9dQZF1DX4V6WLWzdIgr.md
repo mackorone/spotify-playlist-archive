@@ -2,7 +2,7 @@
 
 ### [Ambyar](https://open.spotify.com/playlist/37i9dQZF1DX4V6WLWzdIgr)
 
-> ra kabeh sing mbok tresnani
+> ra kabeh sing mbok tresnani, mbalik nresnani kowe 💔
 
 131 songs - 10 hr 56 min
 

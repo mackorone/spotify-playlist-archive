@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,685 likes - 75 songs - 13 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,733 likes - 75 songs - 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 74 | [Om Namoh Hanumate Rudravataraya Mantra](https://open.spotify.com/track/5oOVQSeZ7Ju2n3Db7mlmkn) | [Sudhir Yaduvanshi](https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Rinku Giri](https://open.spotify.com/artist/6KTxdJHAeOBHMwMZhoPBFE) | [Om Namoh Hanumate Rudravataraya Mantra](https://open.spotify.com/album/5mohdfYe1g23futO6cTwra) | 5:05 |
 | 75 | [Lingashtakam](https://open.spotify.com/track/664589X4AEPP7wqeduHx0W) | [Ashit Desai](https://open.spotify.com/artist/5tF1NFJk94pRxMjqMVGjIW), [Hema Desai](https://open.spotify.com/artist/2oKrQNVX1h5pXjDK5dNjln), [Alap Desai](https://open.spotify.com/artist/56Z4uEVUQTmYESTHyrPECN) | [Shivoham](https://open.spotify.com/album/4oDggXTk0GxDUsFc6s2IM9) | 2:40 |
 
-Snapshot ID: `AAAAANa+JEBhW+VOqAn8cjqdq2pLKSAP`
+Snapshot ID: `AAAAALALT82bG/e/iNmpF3SrlFpaq/+H`

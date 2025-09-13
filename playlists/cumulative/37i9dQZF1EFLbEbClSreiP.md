@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/78m3qQF3Q7KRGIsXzQkREU">Ines Dunn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-44 songs - 2 hr 10 min
+45 songs - 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Freezing](https://open.spotify.com/track/61ypmrpI4Duo6Sn2Tbr3jo) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Freezing \(Official Music Video\)](https://open.spotify.com/album/13xmSqE74BOPfYj6VEAdPg) | 2:57 | 2023-12-13 | 2024-02-02 |
 | [Get Better](https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Get Better](https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU) | 2:51 | 2023-04-16 | 2024-08-22 |
 | [Girlfriend](https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Girlfriend](https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd) | 2:35 | 2023-06-04 | 2024-08-22 |
+| [girls with gills](https://open.spotify.com/track/31BP9sLVR9bY0zFvxdZbIJ) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [girls with gills](https://open.spotify.com/album/4bLta3L54y2UFGJ7tGPjsK) | 2:17 | 2025-09-12 |  |
 | [House On Fire](https://open.spotify.com/track/0Le4FRrPfbFzpyy8SsaCLf) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:19 | 2023-04-03 |  |
 | [House On Fire](https://open.spotify.com/track/3oy1jvGbUDdYPyQRSfSCdJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire \(Official Music Video\)](https://open.spotify.com/album/5qG3zaKFxgQXjgUD2SiU36) | 2:38 | 2023-12-14 | 2024-02-02 |
 | [MAMA'S EYES](https://open.spotify.com/track/5cW2aVfOGvbnxlXm8POXLR) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [METTENARRATIVE](https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM) | 3:20 | 2023-09-25 | 2023-12-14 |

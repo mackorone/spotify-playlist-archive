@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Vadesta
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,709 likes - 103 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,809 likes - 103 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sampeyan](https://open.spotify.com/track/0HODYghtMn99N7189LLFWI) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Sampeyan](https://open.spotify.com/album/3RjDWLA3kZod405bGn7x8x) | 5:43 |
-| 2 | [IWAK LOUHAN](https://open.spotify.com/track/5CIa75EuBQ3uiOJctLM9Q5) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [IWAK LOUHAN](https://open.spotify.com/album/6LnjYcnCx4lPe4L1DXPfIy) | 4:22 |
+| 2 | [IWAK LOUHAN \- Live](https://open.spotify.com/track/5CIa75EuBQ3uiOJctLM9Q5) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [IWAK LOUHAN \(Live\)](https://open.spotify.com/album/6LnjYcnCx4lPe4L1DXPfIy) | 4:22 |
 | 3 | [Lalekno \- New Version](https://open.spotify.com/track/5zPtFLKtxS9fhIIjnKX95F) | [Imogiri Boys](https://open.spotify.com/artist/53RErsdDMlGlugJZyYvae3), [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD), [GMLT](https://open.spotify.com/artist/1ZzwhODUHoaPl3Xt3d9xx6) | [Lalekno \(New Version\)](https://open.spotify.com/album/3cqSmz3sVPPgKWT9d6WVxR) | 4:00 |
 | 4 | [Sabar \(Sinau Bareng\)](https://open.spotify.com/track/1jOASJ1rcIzVvX4QB1z7ze) | [Sadewok](https://open.spotify.com/artist/5EkOo7TpmDN9Uz5wvxDyGe) | [Sabar \(Sinau Bareng\)](https://open.spotify.com/album/7h9IP156OsoCug4bZnInLN) | 4:14 |
 | 5 | [Mencintai Dengan Ngeyel](https://open.spotify.com/track/5vIc8msfVqULYtl2D0x7AP) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Mencintai Dengan Ngeyel](https://open.spotify.com/album/6GraNh74uCPWz2uCALkLmr) | 4:22 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 14 | [NGENTENI](https://open.spotify.com/track/2E7GrU5WTdKfqH1QsbggCs) | [Hanaya](https://open.spotify.com/artist/2NQDemih2wIWvsrZsn4xAW) | [NGENTENI](https://open.spotify.com/album/5Q7v7zWbzlUGogvZfgeVeC) | 6:12 |
 | 15 | [Dumes](https://open.spotify.com/track/155nJY9fhbJlFQWYavphQB) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Dumes](https://open.spotify.com/album/5Xj7sJnGkHOSMIJWmoSsT0) | 4:34 |
 | 16 | [KABAGYAN \- Acoustic](https://open.spotify.com/track/1LCIeF83tnkviTmnyJ3mgY) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [KABAGYAN \(Acoustic\)](https://open.spotify.com/album/3yAreNxTUGoSglnGNHZC4q) | 4:44 |
-| 17 | [AMBILKAN GELAS](https://open.spotify.com/track/0diK7fRaoeWY7by5AvPIz2) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [AMBILKAN GELAS](https://open.spotify.com/album/6QgwQWSBYE70KJFZ6JpCyz) | 3:28 |
+| 17 | [AMBILKAN GELAS \- Live](https://open.spotify.com/track/0diK7fRaoeWY7by5AvPIz2) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [AMBILKAN GELAS \(Live\)](https://open.spotify.com/album/6QgwQWSBYE70KJFZ6JpCyz) | 3:28 |
 | 18 | [Koyo Jogja Istimewa](https://open.spotify.com/track/1mjeG270XmC8lwqhFThozC) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Vocalista Paradisso](https://open.spotify.com/artist/3ZOStv8j7hEvJODod3ssMz), [Mabes Balker](https://open.spotify.com/artist/4VzBcz3WQjrqzXnb6OIPiI) | [Koyo Jogja Istimewa](https://open.spotify.com/album/7wuVFLSgOugQKqgiZEHlyM) | 4:32 |
 | 19 | [Gulu Pedot \- Live](https://open.spotify.com/track/48ufGeB97D6pQsy5lZzq1P) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Gulu Pedot \(Live\)](https://open.spotify.com/album/42P3BhobI6farqfymog1qv) | 6:14 |
 | 20 | [Tembang Wengi](https://open.spotify.com/track/0AZdVEpngBr4ndqDMwcI0D) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Tembang Wengi](https://open.spotify.com/album/6fuXFmORl2e5zMKI5q9phF) | 5:14 |

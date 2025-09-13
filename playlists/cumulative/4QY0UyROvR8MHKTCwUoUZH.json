@@ -604,7 +604,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 206549,
       "name": "Follows You",
       "url": "https://open.spotify.com/track/5nStHzdHO2GQDRuscRxPJQ"
@@ -899,6 +899,28 @@
     },
     {
       "album": {
+        "name": "Illusion (feat. Tangarine) [acoustic]",
+        "url": "https://open.spotify.com/album/2W126AI21HqwNAjupJfnJr"
+      },
+      "artists": [
+        {
+          "name": "OGENE",
+          "url": "https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8"
+        },
+        {
+          "name": "Tangarine",
+          "url": "https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193749,
+      "name": "Illusion (feat. Tangarine) - acoustic",
+      "url": "https://open.spotify.com/track/4Y86dcLLPyk5CKfGAzEjFc"
+    },
+    {
+      "album": {
         "name": "In Between The Glass",
         "url": "https://open.spotify.com/album/35kxAAk9pr5OlJaNGhWvek"
       },
@@ -950,7 +972,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 199493,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
@@ -1004,7 +1026,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 193967,
       "name": "Looping",
       "url": "https://open.spotify.com/track/6p3qUiFmgLx3nVFJn7zhKn"
@@ -1256,7 +1278,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 201303,
       "name": "Older",
       "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
@@ -1350,7 +1372,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 208455,
       "name": "Over You",
       "url": "https://open.spotify.com/track/3slbgFPGIqBPcQH1gDynB5"
@@ -1469,6 +1491,24 @@
     },
     {
       "album": {
+        "name": "Scaredy Cat",
+        "url": "https://open.spotify.com/album/3nUL20I7rAjJ4cnNSHhrsO"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182266,
+      "name": "Scaredy Cat",
+      "url": "https://open.spotify.com/track/0BBwsVm77FPUSonCHdNZcN"
+    },
+    {
+      "album": {
         "name": "Submarine",
         "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
       },
@@ -1556,7 +1596,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 300800,
       "name": "Song While You're Away (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2"
@@ -1765,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "There She Goes",
+        "url": "https://open.spotify.com/album/7tJQYF7j1H65H3HHVrXfvy"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182954,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/17Oq7DCHIwtaFs2GuWHEr2"
+    },
+    {
+      "album": {
         "name": "This Life",
         "url": "https://open.spotify.com/album/5qpWnisdd8hhGmgAa3p1Yy"
       },
@@ -1783,6 +1841,24 @@
     },
     {
       "album": {
+        "name": "TickTickBoom",
+        "url": "https://open.spotify.com/album/71Gg0zWr0x4I5VB3gAKumw"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145165,
+      "name": "TickTickBoom",
+      "url": "https://open.spotify.com/track/2fifcgrC2McRDrABuG743H"
+    },
+    {
+      "album": {
         "name": "Treehouse Wings",
         "url": "https://open.spotify.com/album/22KFaK3JsMm2FTCN0SpRoF"
       },
@@ -1798,6 +1874,24 @@
       "duration_ms": 199996,
       "name": "Treehouse Wings",
       "url": "https://open.spotify.com/track/4iiiQSCFi5y1B1agejyqg3"
+    },
+    {
+      "album": {
+        "name": "Trouble Is Me",
+        "url": "https://open.spotify.com/album/2haCvHHeluKqvojJPKzJpN"
+      },
+      "artists": [
+        {
+          "name": "Tangarine",
+          "url": "https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192442,
+      "name": "Trouble Is Me",
+      "url": "https://open.spotify.com/track/4LJdc3NTNFugi2pWkjZZmr"
     },
     {
       "album": {
@@ -1834,6 +1928,24 @@
       "duration_ms": 202200,
       "name": "Vauxhall",
       "url": "https://open.spotify.com/track/2ukWCx1OUBiZsTyjhfGVYY"
+    },
+    {
+      "album": {
+        "name": "Little House",
+        "url": "https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246696,
+      "name": "What A Life",
+      "url": "https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5"
     },
     {
       "album": {

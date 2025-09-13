@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: KI/KI, Son Mieux, Ed Sheeran en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,296 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,749 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 6 | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF) | 4:44 |
 | 7 | [All Behind](https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [All Behind](https://open.spotify.com/album/3Vtcyh9oWdZtNFrikeONaZ) | 4:05 |
 | 8 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5) | 3:13 |
-| 9 | [City Walls](https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [](https://open.spotify.com/album/null) | 5:22 |
+| 9 | [City Walls](https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 5:22 |
 | 10 | [DOG HOUSE \(feat\. Julia Wolf & Yeat\)](https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DOG HOUSE](https://open.spotify.com/album/3r4vAHYjjrGp84E0g909W6) | 3:10 |
 | 11 | [Praat Te Veel](https://open.spotify.com/track/1U5e0L9t9393QN0FrzPa6h) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Praat Te Veel](https://open.spotify.com/album/5fcW10KqULqNexBgtsehXY) | 2:22 |
 | 12 | [Game Sounds](https://open.spotify.com/track/7Aw5lv7dmE0zr57MG0qV7g) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 3:26 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 23 | [crystallized \(feat\. Inéz\)](https://open.spotify.com/track/6YiIWuVXS4AqF1KvUGMwyx) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [crystallized \(feat\. Inéz\)](https://open.spotify.com/album/5PnlLTo9MLkbd4noHgisk9) | 3:37 |
 | 24 | [Phases](https://open.spotify.com/track/6NzoVYiCWulsOECuaXDazA) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Phases](https://open.spotify.com/album/3msLrvkMWgzkEMM0HTmTxJ) | 3:04 |
 | 25 | [Freaky Girl](https://open.spotify.com/track/6QssOhsCKtCahmm4KP9VaO) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [Freaky Girl](https://open.spotify.com/album/5tjUWnZh077vkmqagyXm07) | 2:35 |
-| 26 | [Track 1](https://open.spotify.com/track/5mnKGcQAPxt7YPJpf28gMo) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [](https://open.spotify.com/album/null) | 0:00 |
+| 26 | [Turks & Caicos](https://open.spotify.com/track/5mnKGcQAPxt7YPJpf28gMo) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Turks & Caicos](https://open.spotify.com/album/3fjKPy78dV3A9HzZ2QcUZb) | 1:48 |
 | 27 | [Hamer op mijn hart](https://open.spotify.com/track/0IH3FMkshOXur7jnTWdbtL) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [Hamer op mijn hart](https://open.spotify.com/album/4HooLHxXVxnri1TcS8jZH2) | 2:53 |
 | 28 | [Als Ons \(feat\. Sluwe Ollie\)](https://open.spotify.com/track/0fZl3DuUx5nRPz3tY0n06Z) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Als Ons](https://open.spotify.com/album/2qAP0w0bBu1EvJygXOWtrg) | 2:17 |
 | 29 | [Systeem](https://open.spotify.com/track/3BaF1c9siBSnFa2jArT5i1) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Systeem](https://open.spotify.com/album/6Jgk1FNTyR9GW3mrcL3Hzh) | 3:02 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 50 | [Ik Ben Meer Man Dan Jij](https://open.spotify.com/track/6Em9r0cOBP5Bje6DGJ2HGJ) | [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE), [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ) | [Ik Ben Meer Man Dan Jij](https://open.spotify.com/album/7LN3lRXIvt51WGiujhNtwj) | 2:22 |
 | 51 | [Guard Your Joy](https://open.spotify.com/track/0kN37UhHU9BGZe2ZLyFW1O) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w) | [Guard Your Joy](https://open.spotify.com/album/2PiuBzsxTp8jPOhywF56pX) | 4:25 |
 | 52 | [Halen / Trekken](https://open.spotify.com/track/6J0LTt5zN5rGVtqhDqzY5A) | [Chanou](https://open.spotify.com/artist/1wLOlcmOMs7q9HzLQkVlXT) | [Halen / Trekken](https://open.spotify.com/album/1HE8jj3qJZ6vP08u1vZVyC) | 2:11 |
-| 53 | [Ik Heb Je Gemist](https://open.spotify.com/track/3cHSCDCPYczMfKrSOLChKM) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [](https://open.spotify.com/album/null) | 3:01 |
+| 53 | [Ik Heb Je Gemist](https://open.spotify.com/track/3cHSCDCPYczMfKrSOLChKM) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Wegwerpliefde](https://open.spotify.com/album/4nF1DWMvzLvI8LIx3UUrdn) | 3:01 |
 | 54 | [Freezer](https://open.spotify.com/track/22gVJsaG0owIYg3QXnaQiU) | [Maryn Charlie](https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL) | [Freezer](https://open.spotify.com/album/1vr5yhrBU9NTnsLiHs1I3R) | 2:33 |
 | 55 | [Get Up](https://open.spotify.com/track/2H43AB2EgHmUChTFL8zVZp) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Get Up](https://open.spotify.com/album/1kw8SiaqsRjeg8hAMxDdjL) | 3:31 |
 | 56 | [On Repeat](https://open.spotify.com/track/2NuKvt8jjaIivq4Za4glMP) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [On Repeat](https://open.spotify.com/album/4shvqvbwtI2KQQyw3T9aK2) | 3:10 |
@@ -85,13 +85,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 75 | [Baya \(Take Me Away\)](https://open.spotify.com/track/3h5CcqwcPqck5hlbEH5F14) | [BATHSHEBA](https://open.spotify.com/artist/76bDEeabrfohMhoWwm4av7), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl) | [Baya \(Take Me Away\)](https://open.spotify.com/album/5FVrumbayD073wdWhJm38r) | 2:58 |
 | 76 | [Carry On](https://open.spotify.com/track/6SNDUz9G2XO7XeltUSnQdd) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [Carry On](https://open.spotify.com/album/6lyUjiFBMoUByUoBgeLGvn) | 3:10 |
 | 77 | [GIRL I WANT YOU](https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [GIRL I WANT YOU](https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct) | 3:31 |
-| 78 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [](https://open.spotify.com/album/null) | 4:06 |
+| 78 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 |
 | 79 | [Stay On Me](https://open.spotify.com/track/6h7cY2Dgk4JGGzFSIutPYC) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Stay On Me](https://open.spotify.com/album/3070rfYDNRp8Ij3DkfJGzC) | 3:07 |
-| 80 | [I Met A Boy](https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [](https://open.spotify.com/album/null) | 2:57 |
-| 81 | [I Wonder](https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [](https://open.spotify.com/album/null) | 2:55 |
+| 80 | [I Met A Boy](https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:57 |
+| 81 | [I Wonder](https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [East Of The Sun](https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL) | 2:55 |
 | 82 | [Darling](https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Darling](https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k) | 3:30 |
-| 83 | [Track 4](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [](https://open.spotify.com/album/null) | 0:00 |
-| 84 | [Diamonds](https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [](https://open.spotify.com/album/null) | 3:21 |
+| 83 | [queen of the season](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [last night you said you missed me](https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2) | 3:19 |
+| 84 | [Diamonds](https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood](https://open.spotify.com/album/3UtLsPn5V412E1SeqzFOP2) | 3:21 |
 | 85 | [Sorry](https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Sorry](https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ) | 3:17 |
 | 86 | [AP Freestyle](https://open.spotify.com/track/6s0omAiJpLcMWdbCCJbG6s) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [AP Freestyle](https://open.spotify.com/album/3NDWj9V9tP41LSc1JyE3c7) | 1:58 |
 | 87 | [Shoot It Off](https://open.spotify.com/track/0yfOjGzOXq6N0PzS3J2YwD) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Shoot It Off](https://open.spotify.com/album/3dTBL1AUSSGAA9r73yf9Oy) | 2:08 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 95 | [Where Are You](https://open.spotify.com/track/2311Bw0y6vkQavhTgoJvVp) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Where Are You](https://open.spotify.com/album/3sG4dBq0U0CHX6nbOu22vw) | 3:01 |
 | 96 | [GRANADA](https://open.spotify.com/track/5STqdnPzPB9EgFtoACYPzP) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [GRANADA](https://open.spotify.com/album/5LlrIYufVG0v5C8dEYmf81) | 2:19 |
 | 97 | [Flatline](https://open.spotify.com/track/4PIrbZdWo7ETTWZQNEbCUz) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Flatline](https://open.spotify.com/album/5UaiSKEsyY4vjBBR9ZIodw) | 2:45 |
-| 98 | [Fall In Your Arms](https://open.spotify.com/track/0Ak2IuK7Xk29NAEJDerJE9) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [](https://open.spotify.com/album/null) | 3:38 |
+| 98 | [Fall In Your Arms](https://open.spotify.com/track/0Ak2IuK7Xk29NAEJDerJE9) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [JAMES.](https://open.spotify.com/album/2Qne4lCCAtu1lAVikGk5UY) | 3:38 |
 | 99 | [HOE IK MOOV IN SOUTH](https://open.spotify.com/track/489LTZDaiAn5uEbDts0r8P) | [$KEER&BOO$](https://open.spotify.com/artist/54AXOGACUgkWEWlIG07d6B), [Starvin Marv](https://open.spotify.com/artist/1G4mjanvIMscJ8JuNOAqik) | [HOE IK MOOV IN SOUTH](https://open.spotify.com/album/7lJE5SwbNQZlJmsUTPlcwZ) | 3:01 |
 | 100 | [Vrijmibo](https://open.spotify.com/track/4GNInieTf3P08NFKYUKkTu) | [Yung Volwassen](https://open.spotify.com/artist/5VrGtTnbcfrS3uaIqhNCfj) | [Vrijmibo](https://open.spotify.com/album/4aj750bpAhK5PTzYa7JAv2) | 2:12 |
 
-Snapshot ID: `AAAAAC6u5fsmiPH318r5xEfH58J1vctE`
+Snapshot ID: `AAAAAJu5W/6mH7SDi02eyIPLBfSrZ9RA`

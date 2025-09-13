@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Noah Rinker",
-  "num_followers": 219171,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Karly Bowman",
+  "num_followers": 219185,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIRVvs5zq95aTPXLoKkC9vDTVr8T",
+  "snapshot_id": "AAAAABM5IeFKNriDQRW8DzgcsYwb/jVm",
   "tracks": [
+    {
+      "added_at": "2025-09-12 04:20:00",
+      "album": {
+        "name": "Just Like Us",
+        "url": "https://open.spotify.com/album/4rm9TMVQIUkgLHLs9TldWD"
+      },
+      "artists": [
+        {
+          "name": "Karly Bowman",
+          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
+        }
+      ],
+      "duration_ms": 195154,
+      "name": "Just Like Us",
+      "url": "https://open.spotify.com/track/7sQtaWzxpZZe4BDAYyGotk"
+    },
     {
       "added_at": "2025-09-05 04:00:31",
       "album": {
@@ -57,6 +73,22 @@
       "url": "https://open.spotify.com/track/2kEkIOoKTB6I9wkMnyH11K"
     },
     {
+      "added_at": "2025-09-12 04:00:17",
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0"
+      },
+      "artists": [
+        {
+          "name": "Hope Winter",
+          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
+        }
+      ],
+      "duration_ms": 188870,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D"
+    },
+    {
       "added_at": "2025-08-29 04:00:40",
       "album": {
         "name": "fawn",
@@ -89,6 +121,22 @@
       "url": "https://open.spotify.com/track/3oWnxaIUpSkYNrZKj6oltw"
     },
     {
+      "added_at": "2025-09-12 04:00:17",
+      "album": {
+        "name": "His Loss",
+        "url": "https://open.spotify.com/album/1pyc1F50zOzklKlCaX1OEn"
+      },
+      "artists": [
+        {
+          "name": "Natalie 2V",
+          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
+        }
+      ],
+      "duration_ms": 150839,
+      "name": "His Loss",
+      "url": "https://open.spotify.com/track/5JoippRoB40L2kD9WBydn7"
+    },
+    {
       "added_at": "2025-09-05 04:00:31",
       "album": {
         "name": "Avalon",
@@ -119,6 +167,22 @@
       "duration_ms": 204153,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1ikNsb06HbYG5wsHddxWGW"
+    },
+    {
+      "added_at": "2025-09-12 04:00:17",
+      "album": {
+        "name": "Powerful",
+        "url": "https://open.spotify.com/album/65UihlYgSsnfbvph1lZmdx"
+      },
+      "artists": [
+        {
+          "name": "Citizen Papes",
+          "url": "https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Powerful",
+      "url": "https://open.spotify.com/track/7qkxE2CKWhccItjbGmMrs7"
     },
     {
       "added_at": "2025-08-15 04:00:19",
@@ -409,22 +473,6 @@
       "url": "https://open.spotify.com/track/20v9Q8HXtnMFXJ0PsXz1N2"
     },
     {
-      "added_at": "2025-08-08 04:00:36",
-      "album": {
-        "name": "Apples",
-        "url": "https://open.spotify.com/album/2VmOnJT6VkmkfB3erQ4Jv6"
-      },
-      "artists": [
-        {
-          "name": "Brye",
-          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Apples",
-      "url": "https://open.spotify.com/track/14rIlyTo7ZRzgIDbzhmK2b"
-    },
-    {
       "added_at": "2025-07-11 04:00:17",
       "album": {
         "name": "feel again",
@@ -551,22 +599,6 @@
       "duration_ms": 309454,
       "name": "tightrope",
       "url": "https://open.spotify.com/track/16GBUPnzB2pSU5x0Vby14u"
-    },
-    {
-      "added_at": "2025-07-18 04:00:21",
-      "album": {
-        "name": "Turn Red",
-        "url": "https://open.spotify.com/album/1u2RNnee15k34sv5gMf5IM"
-      },
-      "artists": [
-        {
-          "name": "ROSIE",
-          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "Turn Red",
-      "url": "https://open.spotify.com/track/7ruY9EHnzkOc01D5zxGQ1N"
     },
     {
       "added_at": "2025-07-18 13:36:50",
@@ -1003,38 +1035,6 @@
       "duration_ms": 111319,
       "name": "table for two",
       "url": "https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k"
-    },
-    {
-      "added_at": "2025-05-09 04:00:04",
-      "album": {
-        "name": "Castle",
-        "url": "https://open.spotify.com/album/4Xlh9COlVebZI24fodiVSq"
-      },
-      "artists": [
-        {
-          "name": "Haven Madison",
-          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
-        }
-      ],
-      "duration_ms": 191219,
-      "name": "Castle",
-      "url": "https://open.spotify.com/track/4B6irprsslV13IM1nr0QoR"
-    },
-    {
-      "added_at": "2025-05-09 04:00:04",
-      "album": {
-        "name": "Sail Away",
-        "url": "https://open.spotify.com/album/0ZTVAUvD7uDqn2s3Ir6IQV"
-      },
-      "artists": [
-        {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
-        }
-      ],
-      "duration_ms": 149466,
-      "name": "Sail Away",
-      "url": "https://open.spotify.com/track/4CZswu0Wz6p8MofHYdjgxc"
     },
     {
       "added_at": "2025-04-14 17:52:38",

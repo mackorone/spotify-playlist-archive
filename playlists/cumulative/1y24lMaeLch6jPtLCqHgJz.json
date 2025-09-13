@@ -4665,6 +4665,28 @@
     },
     {
       "album": {
+        "name": "I've Got It In Me",
+        "url": "https://open.spotify.com/album/4PIa8qGXJkH3oGMYJVpLZa"
+      },
+      "artists": [
+        {
+          "name": "Waztoo",
+          "url": "https://open.spotify.com/artist/0MP4QHK5BlSbmwJxOncnfB"
+        },
+        {
+          "name": "Otto Palmborg",
+          "url": "https://open.spotify.com/artist/1YQWn973MCGK5yzVeukVtc"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162890,
+      "name": "I've Got It In Me",
+      "url": "https://open.spotify.com/track/3y7FVFC0o6TFnq5mjU3EEH"
+    },
+    {
+      "album": {
         "name": "If I Could Be",
         "url": "https://open.spotify.com/album/0NrA4ntS1Dl0uYcevhediU"
       },

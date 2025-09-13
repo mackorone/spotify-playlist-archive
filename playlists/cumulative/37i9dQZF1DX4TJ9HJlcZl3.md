@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Yacht Rock Revue
 
-127 songs - 7 hr 54 min
+128 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Day & Night](https://open.spotify.com/track/09iktHjNiTzCX6YT5XKScx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:36 | 2022-10-21 | 2023-12-09 |
 | [Diamond Eyes](https://open.spotify.com/track/69LWzGUpt3oe1URUCvjVbt) | [Tom Noble](https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [Diamond Eyes](https://open.spotify.com/album/1TJiqXwjAVzyGtTjxXq6WM) | 6:42 | 2024-11-08 |  |
 | [Distant Calls](https://open.spotify.com/track/2QU1bg22cuTuNXUpQl389b) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Close to Your Heart](https://open.spotify.com/album/2BbAWGyJvddLWwzpzhA6lp) | 2:44 | 2022-10-21 |  |
-| [drive ME crazy!](https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Diana Gordon](https://open.spotify.com/artist/71Ug2zQHWlJFjNCK8swHfL) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:49 | 2023-01-27 |  |
+| [drive ME crazy!](https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Diana Gordon](https://open.spotify.com/artist/71Ug2zQHWlJFjNCK8swHfL) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:49 | 2023-01-27 | 2025-09-13 |
 | [Emily](https://open.spotify.com/track/0gAvRZbaMrnUsH8bmo8eg8) | [State Cows](https://open.spotify.com/artist/5O1GkdCKBSYzioJb4Jysiv), [Fredrik Lundgren](https://open.spotify.com/artist/5yRJ7bDOd8MvTsM8kaaWNz) | [High and Dry](https://open.spotify.com/album/6msgsUb3ZihJbdWcaSc7fd) | 3:54 | 2022-10-21 | 2023-08-12 |
 | [Everything To Everyone](https://open.spotify.com/track/50EIC4ElPCZgtyzwlmdNxj) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME) | 4:45 | 2022-10-21 | 2023-04-29 |
 | [Fool](https://open.spotify.com/track/3I0zW3z9PalncwV0q0EoKS) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Eli & Harry](https://open.spotify.com/album/1KegDWdxHi7jT1gXURY6BO) | 3:49 | 2023-05-26 | 2023-08-19 |
@@ -39,6 +39,7 @@
 | [Forget You](https://open.spotify.com/track/5bA0aMV01KfFnjvkB74SQQ) | [Sean Bertram](https://open.spotify.com/artist/6l8QxpDCZkxVOUsrASqEWM), [Shirsha](https://open.spotify.com/artist/77kAKRKSDOVjmSE5VwXUPH) | [Forget You \(Feat\. Shirsha\)](https://open.spotify.com/album/1xly1xL1enLrEfsm7Tf6GX) | 3:31 | 2025-07-11 |  |
 | [Four In The Morning](https://open.spotify.com/track/5LnDdFPjJkrUDt9BOoJMfS) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Escape Artist](https://open.spotify.com/album/7IfMDEwQODVi1NBKFJlcNp) | 4:40 | 2024-11-29 |  |
 | [Free](https://open.spotify.com/track/6kAOOamDflxqkrAWI6wZRR) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 5:27 | 2022-10-21 |  |
+| [Guilty Lover](https://open.spotify.com/track/6ZQmDtlDuosc8R1Tbr3Ewn) | [Nathan Farrell](https://open.spotify.com/artist/23TLmhli2QZAV6iJsySHeW) | [Lovesick Jukebox](https://open.spotify.com/album/6G1fK4rqGWc7CFW4K4wqcM) | 3:24 | 2025-09-12 |  |
 | [Guy I Used To Be](https://open.spotify.com/track/4dmNWxKKw0Me0uzgE7WIGT) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Guy I Used To Be](https://open.spotify.com/album/4clPOxIV3bm5XheafZ24b7) | 3:47 | 2024-04-05 |  |
 | [Hold On \(I Was Wrong\)](https://open.spotify.com/track/1lh13cQN0IwZDtjyXxrXFH) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Pop Therapy](https://open.spotify.com/album/4VvY6HIl5iFIAGhiFGamNR) | 3:43 | 2022-10-21 | 2023-09-09 |
 | [Hottie & the Yachty](https://open.spotify.com/track/1RXRgsZKh7arq9vB7Dt1Es) | [superGOODthings](https://open.spotify.com/artist/7twKK7krUtniPlYv9i92vp) | [Yachty Rock Feelings, Vol\. 2](https://open.spotify.com/album/1TKNnr6wdF5OVEnVMAlDwf) | 3:18 | 2022-10-21 |  |

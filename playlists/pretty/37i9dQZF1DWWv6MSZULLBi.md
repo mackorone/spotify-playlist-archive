@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Fleeland
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,487 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,476 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ain't As Pretty A Blue](https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ) | [Fleeland](https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4), [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E), [Mills](https://open.spotify.com/artist/6ShWmAepwzVO9g20AQkurR) | [Ain't As Pretty A Blue](https://open.spotify.com/album/462ULrUnmVxUH6vknoGjVU) | 3:57 |
+| 1 | [Ain't As Pretty A Blue](https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ) | [Fleeland](https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4), [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E), [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Ain't As Pretty A Blue](https://open.spotify.com/album/462ULrUnmVxUH6vknoGjVU) | 3:57 |
 | 2 | [Luther](https://open.spotify.com/track/6zv0lTlnSWeYdjCDIYPAeL) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [Luther](https://open.spotify.com/album/1wfs4vGzWOLyeiLvHv7VUP) | 3:18 |
 | 3 | [Whose face am I](https://open.spotify.com/track/7hdSVanm1ob3fY8JPDMrMF) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Whose face am I](https://open.spotify.com/album/5rAXZIxcvg96yLLT9M5atx) | 2:15 |
 | 4 | [Every Town](https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Every Town](https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q) | 3:53 |
 | 5 | [Wake \(feat\. Fleet Foxes\)](https://open.spotify.com/track/3BET187FKsBSEEwU5qtDXU) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Wake](https://open.spotify.com/album/7f9YkOw54CSn7GcMvUk89m) | 4:16 |
 | 6 | [Sapphire Blue](https://open.spotify.com/track/7GXWLCpt8dqfaz8mGAzvC2) | [Meredith Moon](https://open.spotify.com/artist/02zKoKfNVxQkU6Au4itp0f) | [Sapphire Blue](https://open.spotify.com/album/25Qc8ombuzk4pO0MABTCQ0) | 4:13 |
 | 7 | [These Days \(with James Bay\)](https://open.spotify.com/track/2kO2tdljZLnzz1dBJHeUOW) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [These Days \(with James Bay\)](https://open.spotify.com/album/5hMk0B7plmqHwVsWgSRyMQ) | 3:11 |
-| 8 | [Track 4](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [](https://open.spotify.com/album/null) | 0:00 |
+| 8 | [queen of the season](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [last night you said you missed me](https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2) | 3:19 |
 | 9 | [Darling](https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Darling](https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k) | 3:30 |
 | 10 | [Youth Not Wasted](https://open.spotify.com/track/61qkbWy786DEXnR4sla066) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Youth Not Wasted](https://open.spotify.com/album/7JuZuM7VoogKx1xuk2fq1Y) | 4:11 |
 | 11 | [Surrounded](https://open.spotify.com/track/5dNKttSZleDghdhl02rNbT) | [Pompey](https://open.spotify.com/artist/2nWS0foFZts25bZ6sxfP9x) | [Surrounded](https://open.spotify.com/album/7GV2WxJnpmhF7DRjjUYOov) | 2:56 |
 | 12 | [Maybe For Once](https://open.spotify.com/track/44YwwgsWXfrSObT4vCmJMS) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Maybe For Once](https://open.spotify.com/album/3T97rdVL9AGz3s1EUJUQ0z) | 3:07 |
 | 13 | [Long Exposure](https://open.spotify.com/track/3IWhOgDozuUkzpIcmi4up3) | [The Town Council](https://open.spotify.com/artist/7xL3xiRU8HYbwDmDUym4aq) | [Long Exposure](https://open.spotify.com/album/5m8I230z4udm9ONYxNK33e) | 4:06 |
-| 14 | [Completely](https://open.spotify.com/track/07i5jOocp8ehxNoWUhdwMi) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [](https://open.spotify.com/album/null) | 4:08 |
+| 14 | [Completely](https://open.spotify.com/track/07i5jOocp8ehxNoWUhdwMi) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [Completely](https://open.spotify.com/album/2OLfeRc2kDSDDRRGiN4i9L) | 4:08 |
 | 15 | [Feeling Fine](https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Feeling Fine](https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx) | 2:48 |
 | 16 | [Words](https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:47 |
 | 17 | [Wild One](https://open.spotify.com/track/1ez4a2Zt26EJWcIoKaXO67) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Wild One](https://open.spotify.com/album/6uQPitAnucKcatIRufA7om) | 2:22 |

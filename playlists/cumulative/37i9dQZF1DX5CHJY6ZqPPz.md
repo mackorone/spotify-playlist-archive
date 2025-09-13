@@ -4,7 +4,7 @@
 
 > Find out the true meaning of <a href="spotify:site:aesparichman"> aespa RICH MAN</a>\. <br/>All about aespa: meeting another self and experiencing the new world
 
-95 songs - 5 hr 2 min
+97 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,8 @@
 | [Prologue](https://open.spotify.com/track/4stu4P8xHdm8ywpX1YpdFJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:14 | 2024-05-27 |  |
 | [Regret of the Times \- 2024 aespa Remake Version](https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Regret of the Times \(2024 aespa Remake Version\) \- SM STATION](https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh) | 2:51 | 2024-01-16 |  |
 | [Rich Man](https://open.spotify.com/track/1sUjTLLCJzcxC15GUBrOlg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/7FxdJyW8SaXRMR9d7pdDv2) | 3:17 | 2025-09-05 |  |
+| [Rich Man \(English Version\)](https://open.spotify.com/track/4SfkxptnEx8vnp8wQWalc8) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \(English Version\)](https://open.spotify.com/album/7LVy2GtmquicG5pNZBDpse) | 3:17 | 2025-09-12 |  |
+| [Rich Man \(feat\. Sevdaliza\)](https://open.spotify.com/track/6UW6Gvem9YVXTcf41eAIey) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Rich Man \(English Version\)](https://open.spotify.com/album/7LVy2GtmquicG5pNZBDpse) | 3:17 | 2025-09-12 |  |
 | [Rum Pum Pum Pum](https://open.spotify.com/track/00M2YcEqhsVbSW6RUKqIY3) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [2025 SMTOWN : THE CULTURE, THE FUTURE](https://open.spotify.com/album/7tbmvcs2vAe7mijL8Pfven) | 3:29 | 2025-02-14 |  |
 | [Salty & Sweet](https://open.spotify.com/track/4wQDjZtXjsFtU3BLSiIH4t) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:21 | 2023-05-08 |  |
 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2022-07-08 |  |

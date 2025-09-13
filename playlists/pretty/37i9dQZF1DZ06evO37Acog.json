@@ -1,29 +1,13 @@
 {
   "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 82384,
+  "num_followers": 82392,
   "original_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMC/gAAAAADY3vOjVUYLt/og4CLmZ4X4",
+  "snapshot_id": "aMIRAAAAAABOVqApahbwPD45AkYI65Qe",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES",
-        "url": "https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Rinconcito En El Cielo",
-      "url": "https://open.spotify.com/track/0uJUohjIxJs0FHE53qOCvX"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 263466,
       "name": "Casas de Madera",
       "url": "https://open.spotify.com/track/6aBQBHd6G9tX287t88CcL0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rinconcito En El Cielo",
+        "url": "https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imprescindibles",
-        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Para Poder Llegar A Ti",
-      "url": "https://open.spotify.com/track/0vixYN2nSOIn9k1wr0qfhC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Mejores 15 \u00c9xitos Norte\u00f1os",
         "url": "https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 210946,
       "name": "Corrido De Chito Cano",
       "url": "https://open.spotify.com/track/31cRUiuUfvpxAEYAXn1Qtq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Para Poder Llegar A Ti",
+      "url": "https://open.spotify.com/track/0vixYN2nSOIn9k1wr0qfhC"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relampagueando - En Memoria De Cornelio Reyna 25 A\u00f1os Despu\u00e9s",
-        "url": "https://open.spotify.com/album/1nD4NSry2Tv0Fz4UzjkHfy"
+        "name": "Lo Mejor De Los Rel\u00e1mpagos Con",
+        "url": "https://open.spotify.com/album/5Alc676cqJGN5rqCWY4tl1"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 144426,
+      "duration_ms": 146920,
       "name": "El Disgusto",
-      "url": "https://open.spotify.com/track/1yhUCJgl0iUT9zX8UvEyPr"
+      "url": "https://open.spotify.com/track/6vFceYiO9H6rsW5pLKF3Tv"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor De Los Rel\u00e1mpagos Con",
-        "url": "https://open.spotify.com/album/5Alc676cqJGN5rqCWY4tl1"
+        "name": "Relampagueando - En Memoria De Cornelio Reyna 25 A\u00f1os Despu\u00e9s",
+        "url": "https://open.spotify.com/album/1nD4NSry2Tv0Fz4UzjkHfy"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 146920,
+      "duration_ms": 144426,
       "name": "El Disgusto",
-      "url": "https://open.spotify.com/track/6vFceYiO9H6rsW5pLKF3Tv"
+      "url": "https://open.spotify.com/track/1yhUCJgl0iUT9zX8UvEyPr"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recu\u00e9rdame Y Ven A M\u00ed",
-        "url": "https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Recu\u00e9rdame Y Ven A M\u00ed",
-      "url": "https://open.spotify.com/track/5zvQpeFatZ1BaDHG6o2GT2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Mejores 15 \u00c9xitos Norte\u00f1os",
         "url": "https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 184973,
       "name": "Mi Tesoro",
       "url": "https://open.spotify.com/track/1w1uxMoBEwQGBIq5eKSYWb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recu\u00e9rdame Y Ven A M\u00ed",
+        "url": "https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Recu\u00e9rdame Y Ven A M\u00ed",
+      "url": "https://open.spotify.com/track/5zvQpeFatZ1BaDHG6o2GT2"
     },
     {
       "added_at": null,

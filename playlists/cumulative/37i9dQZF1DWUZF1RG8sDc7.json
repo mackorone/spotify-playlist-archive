@@ -575,6 +575,28 @@
     },
     {
       "album": {
+        "name": "Historia Musical",
+        "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
+      },
+      "artists": [
+        {
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+        },
+        {
+          "name": "David Rendon",
+          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289253,
+      "name": "Confundido",
+      "url": "https://open.spotify.com/track/44Bt3ZHq9rVV2G7uDpmXsG"
+    },
+    {
+      "album": {
         "name": "Mas Vallenato",
         "url": "https://open.spotify.com/album/6CWpkd6nAKm2P3IHHOe7zO"
       },
@@ -2312,7 +2334,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 292800,
       "name": "Perd\u00f3name la Vida",
       "url": "https://open.spotify.com/track/2Z4mhXRWi1ef8eqW8i4hjH"
@@ -3428,7 +3450,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 238503,
       "name": "Ven T\u00fa",
       "url": "https://open.spotify.com/track/70Xs8tFys12cvz8fNS2dal"
@@ -3544,7 +3566,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 279893,
       "name": "Voy a Enloquecer",
       "url": "https://open.spotify.com/track/5EPiuK5gNJIUrljQo8ylnd"

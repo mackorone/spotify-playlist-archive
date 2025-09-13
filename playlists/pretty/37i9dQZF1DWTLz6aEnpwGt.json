@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 65779,
+  "num_followers": 65803,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -291,26 +291,6 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Bach: Concertos italiens",
-        "url": "https://open.spotify.com/album/5evVqOt9b6mgDO6Cqfik0F"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "duration_ms": 253413,
-      "name": "Adagio in D Minor, BWV 974: II. Adagio",
-      "url": "https://open.spotify.com/track/4a8dR8XKOBOMxUSr8UT58W"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
         "name": "Bach, J.S.: Favourite Piano Works",
         "url": "https://open.spotify.com/album/77gPyAB4JVRfevI48PRIpS"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 228266,
       "name": "Concerto in the Italian Style in F Major, BWV 971: I. Allegro",
       "url": "https://open.spotify.com/track/5vaj19JrnNJfkdKgMRXUiV"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Bach: Concertos italiens",
+        "url": "https://open.spotify.com/album/5evVqOt9b6mgDO6Cqfik0F"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "duration_ms": 253413,
+      "name": "Adagio in D Minor, BWV 974: II. Adagio",
+      "url": "https://open.spotify.com/track/4a8dR8XKOBOMxUSr8UT58W"
     },
     {
       "added_at": "2025-01-24 04:00:20",

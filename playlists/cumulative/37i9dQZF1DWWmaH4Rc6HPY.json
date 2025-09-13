@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "\u00a1Rock para cantar en todos lados! Juanes en portada.",
+  "description": "\u00a1Rock para cantar en todos lados! Siddhartha en portada.",
   "name": "Pop Rock Latino",
   "tracks": [
+    {
+      "album": {
+        "name": "10 Minutos (25 Aniversario)",
+        "url": "https://open.spotify.com/album/0rGZNA5XTX7nxAxDfTiaBO"
+      },
+      "artists": [
+        {
+          "name": "Efecto Mariposa",
+          "url": "https://open.spotify.com/artist/2fFrIDTV1Tk8MwAv4OJiY5"
+        },
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257023,
+      "name": "10 Minutos - 25 Aniversario",
+      "url": "https://open.spotify.com/track/6QRdgGh1GicCA7VEqwF33g"
+    },
     {
       "album": {
         "name": "110",
@@ -270,7 +292,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 196190,
       "name": "Ah\u00ed Est\u00e1s",
       "url": "https://open.spotify.com/track/4YOiOj1ieSsH8R29fWWf8Y"
@@ -923,6 +945,28 @@
     },
     {
       "album": {
+        "name": "claroqno",
+        "url": "https://open.spotify.com/album/63hfVh7t6qaeyBKYO8wbI7"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154488,
+      "name": "claroqno",
+      "url": "https://open.spotify.com/track/5kEYcU75XZeEebiPy3XpcT"
+    },
+    {
+      "album": {
         "name": "Clich\u00e9s",
         "url": "https://open.spotify.com/album/5m4LQysjakthnOllaQEVSc"
       },
@@ -1524,7 +1568,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 193181,
       "name": "EL DIABLO",
       "url": "https://open.spotify.com/track/5Zinmdnrq6Gp8ho1VS4zAg"
@@ -1542,7 +1586,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 208400,
       "name": "El Espectador",
       "url": "https://open.spotify.com/track/4LAP6gQ9YOon6N2W6h3qqy"
@@ -2484,7 +2528,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 189920,
       "name": "Los de Siempre",
       "url": "https://open.spotify.com/track/0SZVn79BrjPN5WqLGpTzWF"
@@ -4212,7 +4256,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 235738,
       "name": "Siente El Fuego",
       "url": "https://open.spotify.com/track/25JhGQeJOYgpgToWMMp3jO"
@@ -4717,6 +4761,24 @@
     },
     {
       "album": {
+        "name": "T\u00fa y yo y t\u00fa",
+        "url": "https://open.spotify.com/album/481MCPmKn2LqqRmElx0p2o"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246073,
+      "name": "T\u00fa y yo y t\u00fa",
+      "url": "https://open.spotify.com/track/2x8hADKmsUOZNSJPEKGFED"
+    },
+    {
+      "album": {
         "name": "Un Parque",
         "url": "https://open.spotify.com/album/627VLg40KgocbJfDXnQ8U1"
       },
@@ -4768,6 +4830,24 @@
       "duration_ms": 226030,
       "name": "uno",
       "url": "https://open.spotify.com/track/5CnZikUv9jNZdliIFps0Wo"
+    },
+    {
+      "album": {
+        "name": "Ven",
+        "url": "https://open.spotify.com/album/3zQzzmfZiOYffhlPxma7p9"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254800,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/6SB9odzgBMVCuspFE0O5u0"
     },
     {
       "album": {
@@ -4902,6 +4982,24 @@
       "duration_ms": 272386,
       "name": "Zero (Feat. Zaira Jabnell)",
       "url": "https://open.spotify.com/track/669OFp5ut5nydyepuuS0Eg"
+    },
+    {
+      "album": {
+        "name": "\u00bfC\u00f3mo Te Explico?",
+        "url": "https://open.spotify.com/album/7xwB5SWmLE7U1OiJj2G4ZK"
+      },
+      "artists": [
+        {
+          "name": "Dimitri y las brujas",
+          "url": "https://open.spotify.com/artist/1k3U6CLxJlkGEL29oGctSr"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "\u00bfC\u00f3mo Te Explico?",
+      "url": "https://open.spotify.com/track/2pS5D2KqOw73apT7vjPyrQ"
     },
     {
       "album": {

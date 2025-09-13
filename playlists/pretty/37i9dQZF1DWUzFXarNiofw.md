@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 ### [R&B Weekly](https://open.spotify.com/playlist/37i9dQZF1DWUzFXarNiofw)
 
-> The newest r&b drops, every week\. Cover: Miguel
+> The newest r&b drops, every week\. Cover: 4Batz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,101,350 likes - 275 songs - 14 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,101,581 likes - 275 songs - 14 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 274 | [One More](https://open.spotify.com/track/5tIGuk52YhmumV4dbzzITj) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Hope She Hears This](https://open.spotify.com/album/01aAP2WJGtq3rc6JNGJHpW) | 2:08 |
 | 275 | [BLIND](https://open.spotify.com/track/2OmnzMLTn0mx6iXrp4VBjz) | [EJ Ross](https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB), [Jay Versace](https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5) | [BLIND](https://open.spotify.com/album/5MBqQGtqtrh3Vrw1aVA4ZB) | 3:02 |
 
-Snapshot ID: `AAAAACVxhxPHVW9hlZui2ItcvP61WwpV`
+Snapshot ID: `AAAAANfSa2VO2RlK9Q0LuEnBXm0eRd9a`

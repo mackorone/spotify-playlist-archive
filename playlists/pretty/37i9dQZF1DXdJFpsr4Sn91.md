@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa costee ja BESS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,868 likes - 84 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,876 likes - 84 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 24 | [People's Champion \(Vain elämää kausi 16\)](https://open.spotify.com/track/4peIoWqdK1Q4Zy6wVAKWFI) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [People's Champion \(Vain elämää kausi 16\)](https://open.spotify.com/album/1PX5TebdCi5gxFTAD2CREo) | 3:19 |
 | 25 | [Next Summer](https://open.spotify.com/track/71GABxN1QMc3RbtKqhYvXb) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 2:45 |
 | 26 | [Valoa varten](https://open.spotify.com/track/6ZBvGogC8NYOUXFRTaxVTq) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Valoa varten](https://open.spotify.com/album/1RUTppaKrlMH27m0E4Y6lP) | 3:18 |
-| 27 | [I Met A Boy](https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [](https://open.spotify.com/album/null) | 2:57 |
+| 27 | [I Met A Boy](https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:57 |
 | 28 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5) | 3:13 |
 | 29 | [Hauki](https://open.spotify.com/track/2dai7toOP0V2JJ8nvH0IYQ) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [Hauki](https://open.spotify.com/album/6SCLpy8SJ8czojoUcSi9SJ) | 2:54 |
 | 30 | [Crush](https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Crush](https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst) | 2:57 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 41 | [Ok](https://open.spotify.com/track/72vi3juBT0iaK0fwePm3ky) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Ok](https://open.spotify.com/album/1l3exYRBannWFRLP2D3CM9) | 2:31 |
 | 42 | [Outoja unia \(feat\. Kumma José\)](https://open.spotify.com/track/7Jj5JuuZAog8yd4F33h9Wq) | [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN), [Kumma José](https://open.spotify.com/artist/3xdVNHKbThYuZSQ2sXV3iR) | [Outoja unia \(feat\. Kumma José\)](https://open.spotify.com/album/0QjEnxzRAaKmHJT0y9aQ7a) | 2:38 |
 | 43 | [Brother \(with Post Malone & YoungBoy Never Broke Again\)](https://open.spotify.com/track/6mGzRR8T7NQouNu7V37XMp) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Brother](https://open.spotify.com/album/6XfKpQ5ncl00Zn1fc4iLsJ) | 3:37 |
-| 44 | [Ainoo nainen](https://open.spotify.com/track/44MDbctWdAEwsLWzMH5YLc) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [](https://open.spotify.com/album/null) | 2:38 |
+| 44 | [Ainoo nainen](https://open.spotify.com/track/44MDbctWdAEwsLWzMH5YLc) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [Tuhat ja yksi yötä](https://open.spotify.com/album/2oizcE37WwDzW9ZvQuO0cY) | 2:38 |
 | 45 | [Ilman sua](https://open.spotify.com/track/4zfCDCuYM2r0rCRWdnhS1n) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Ilman sua](https://open.spotify.com/album/3zmhcYYQW88NrOk5QlITTY) | 3:16 |
 | 46 | [Ocean](https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Ocean](https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF) | 3:39 |
 | 47 | [Enola Gay](https://open.spotify.com/track/1mR4aI9Np7l7RUis9CPJD4) | [Mira Luoti](https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho) | [Enola Gay](https://open.spotify.com/album/6crcPY9XaTewuqBwaoeSVU) | 3:35 |

@@ -594,7 +594,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 125084,
       "name": "CPH",
       "url": "https://open.spotify.com/track/1p7OcSfDwx3kr4m4E23UPB"
@@ -757,6 +757,28 @@
     },
     {
       "album": {
+        "name": "Euro",
+        "url": "https://open.spotify.com/album/1QYw5ZwARebwLY0WWNo2Px"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168717,
+      "name": "Euro",
+      "url": "https://open.spotify.com/track/3Z9Yr1ziFNgkK3oHcvxC5v"
+    },
+    {
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/0WvP86fINZdLQX9d2VYuo3"
       },
@@ -870,7 +892,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 245264,
       "name": "Flipper",
       "url": "https://open.spotify.com/track/01SOrIQHZcGl5y6NlkYb7J"
@@ -1436,6 +1458,24 @@
       "duration_ms": 222786,
       "name": "Leather Loafers",
       "url": "https://open.spotify.com/track/2A1j5MzOI9xQH1godISbki"
+    },
+    {
+      "album": {
+        "name": "Lift Me",
+        "url": "https://open.spotify.com/album/6VWQ6Sf45nNMDVvzEoeHGl"
+      },
+      "artists": [
+        {
+          "name": "Yambow",
+          "url": "https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253751,
+      "name": "Lift Me",
+      "url": "https://open.spotify.com/track/4NE0fBZomP6rcyyzFXcMId"
     },
     {
       "album": {

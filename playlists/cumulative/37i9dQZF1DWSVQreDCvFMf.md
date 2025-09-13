@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Janine Berdin
 
-516 songs - 1 day 8 hr 14 min
+523 songs - 1 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Akin](https://open.spotify.com/track/5JVH4SJnTLPDouGwJWdTQD) | [figvres](https://open.spotify.com/artist/4ShxxebL6hOdEveQSOVZkV) | [Akin](https://open.spotify.com/album/6kWDSBC2UNB5qfV92j0TQU) | 4:29 | 2025-05-23 |  |
 | [AKIN](https://open.spotify.com/track/5MT8VS94CftuX3KdPZdBUn) | [LUMI](https://open.spotify.com/artist/0iXMbg56YghBO3Fx2dZFwA) | [AKIN](https://open.spotify.com/album/4KKSk2igvtrIzzb2AtoxJX) | 3:04 | 2025-05-30 |  |
 | [Aking Mithiin](https://open.spotify.com/track/4E6SCQoYgnOr8U9RwtdRzQ) | [Shane G](https://open.spotify.com/artist/1lFT4J66bALlo4lCHqIYzZ) | [Aking Mithiin](https://open.spotify.com/album/0Cqq7saYapa5si8rmeF3bK) | 3:56 | 2025-05-12 | 2025-07-19 |
+| [Ako Lang](https://open.spotify.com/track/4fyGUG2NUY5LCrEP7TgAC0) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Ako Lang](https://open.spotify.com/album/1k2tHZmTuKFI31xPt0RZ9n) | 2:15 | 2025-09-12 |  |
 | [Ako Na Lang](https://open.spotify.com/track/6qvHdIO3la7MIDr6IX4S3S) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Ako Na Lang](https://open.spotify.com/album/0GJLUa9eKNwUM3Fd8XG77U) | 2:59 | 2025-08-08 |  |
 | [Ako nalang](https://open.spotify.com/track/3Ujf4wZ44Yx4MAcnQnufUN) | [NIO](https://open.spotify.com/artist/3xkS4OmxFVJbJ3IlAv30qH), [Dream Seven](https://open.spotify.com/artist/5kaDk3ytlVTNa6cj1Zv2ne) | [Ako nalang](https://open.spotify.com/album/1VD9Ud7e7xPFmLUXucqLy8) | 3:41 | 2024-12-25 | 2025-04-16 |
 | [Alipin](https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [BANDROOM SESSIONS EPISODE 1](https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2) | 3:54 | 2025-08-14 |  |
@@ -164,6 +165,7 @@
 | [HAYUP KA](https://open.spotify.com/track/7z527B3xf93ei8pR2q7UR4) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [HAYUP KA](https://open.spotify.com/album/2lufRVNXDecGoZewh5yv1n) | 3:00 | 2025-09-05 |  |
 | [Hayy](https://open.spotify.com/track/5Nc8J2Ie4eXi7l12C083GD) | [BLASTER](https://open.spotify.com/artist/34KLaW82VNor4hhKXMyXJ9) | [Last Fool Show](https://open.spotify.com/album/7gF385mKDnOQEXQNrvBgD3) | 3:45 | 2025-05-23 |  |
 | [Headlines](https://open.spotify.com/track/5060fEQEvAIywQ8NMLJeOi) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Headlines](https://open.spotify.com/album/3pIxnSDUJ0I9KHdrahOC1s) | 2:19 | 2025-08-23 |  |
+| [Healing \(Someday I Might Fly\)](https://open.spotify.com/track/3u4hPVKemj7VPAxhOqmKsa) | [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0) | [Healing \(Someday I Might Fly\)](https://open.spotify.com/album/7qx81xGLcWUZHpHGb0orfD) | 3:12 | 2025-09-12 |  |
 | [Hele](https://open.spotify.com/track/16CAfglFpGKN9U8n1VoaF4) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Hele](https://open.spotify.com/album/2uWlw4sPVjH267Jw7UQt61) | 4:51 | 2025-05-09 |  |
 | [Hey You](https://open.spotify.com/track/5VbhpRXYHv8encAvLTk9AE) | [Janella Salvador](https://open.spotify.com/artist/5TNuvf8y7Y3QLXsNaIYCYX) | [Hey You](https://open.spotify.com/album/6Ux8KoRZJYi5td2vKRFd6J) | 4:31 | 2024-07-02 | 2024-08-17 |
 | [Hindi Ako Mawawala](https://open.spotify.com/track/7kP8dbiMKm83kOAmy1GcuQ) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Hindi Ako Mawawala](https://open.spotify.com/album/3Xs46eH5aOqsGPdCYalWOS) | 4:43 | 2025-09-01 |  |
@@ -224,6 +226,7 @@
 | [Kidlat](https://open.spotify.com/track/6utifKVIx7dSUzD8D7ivW2) | [Plume](https://open.spotify.com/artist/666ekgxxGiZCImY6lwlOmk) | [Kidlat](https://open.spotify.com/album/3EjMtnIERkGojDYYjZc2uL) | 3:40 | 2025-05-20 |  |
 | [Kilala](https://open.spotify.com/track/2wzn9QDSMkZHuxXi7xzHr0) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Kilala](https://open.spotify.com/album/2wN4WXC3zWNOmwBygIzxiN) | 4:31 | 2025-03-28 | 2025-06-21 |
 | [kiss](https://open.spotify.com/track/4WoFk6eYCFzln1TlbmY9kB) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [kiss](https://open.spotify.com/album/00soTzV3z8l97RY0Z26l69) | 2:40 | 2024-11-08 | 2025-02-01 |
+| [Konsensya](https://open.spotify.com/track/3ilfK8uTk4VB50GKtfKHTL) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Konsensya](https://open.spotify.com/album/3Gwpshb9YLl9oLss4dVPot) | 3:33 | 2025-09-12 |  |
 | [KPG](https://open.spotify.com/track/0kFjcEbZKRy6IjtUTmNvC3) | [Liel](https://open.spotify.com/artist/1jrYfEdTDqMZBPQpXzEBlG) | [KPG](https://open.spotify.com/album/4jkjJKgRMRsjhgNbE6Ij8K) | 3:14 | 2024-11-11 | 2025-02-01 |
 | [Kulimlim](https://open.spotify.com/track/7otcJuVUk3fEbvJ5tNO4af) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [Kulimlim](https://open.spotify.com/album/6OhYBRH3PE4wH9t1Yfljpq) | 3:30 | 2024-10-18 | 2025-02-01 |
 | [Kumot](https://open.spotify.com/track/0fRgD25k6ouyUi8wd80eIc) | [Frizzle Anne](https://open.spotify.com/artist/0nFYwBSW3uQyPErFv96mr7) | [Kumot](https://open.spotify.com/album/1BeL5uaojiQ9O6ZX0JMSTK) | 2:31 | 2025-02-12 | 2025-04-17 |
@@ -253,6 +256,7 @@
 | [Live Your Life \(2025\)](https://open.spotify.com/track/6ozec3Smt66vQKmDso6DVn) | [Mayonnaise](https://open.spotify.com/artist/7lIVjtsgz0y1oRQFBAVNzq) | [B\-sides & Rarities, Vol\. II](https://open.spotify.com/album/4nLhhipkDMXbUQrjRGJtpB) | 4:27 | 2025-04-07 | 2025-06-21 |
 | [Liwanag sa Dilim \- from “Incognito”](https://open.spotify.com/track/3Ynpt5qseTmDdl9bN21FNJ) | [PABLO](https://open.spotify.com/artist/7wY8cwtF13xDJIHO7htMNk) | [Liwanag sa Dilim \(from "Incognito"\)](https://open.spotify.com/album/1vCSYqaZovDj09EiUgBjdJ) | 3:39 | 2025-02-12 | 2025-05-31 |
 | [LNP](https://open.spotify.com/track/6jhiq2JcvZMLFSPpezkgpP) | [Sponge Cola](https://open.spotify.com/artist/1tXFYQZSAswt4JLB42lpye) | [LNP](https://open.spotify.com/album/4KnI9jHizxfkvyegXahVpR) | 3:55 | 2025-05-16 |  |
+| [Love I'm Feelin'](https://open.spotify.com/track/28EUDJeKxSOsLxb0OZrWR3) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP) | [Love I'm Feelin'](https://open.spotify.com/album/7MtCWl50c8RqDRc2JZQ8mK) | 3:22 | 2025-09-12 |  |
 | [Love Is](https://open.spotify.com/track/2SABOK9LGZ68jM5TPPHBvD) | [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [Love Is](https://open.spotify.com/album/4RU1GrHbHIXBlrVOrUdwfw) | 3:52 | 2024-07-26 | 2024-11-09 |
 | [Loved For Once](https://open.spotify.com/track/1MEWoZA2iNHNL3tb1e22Zm) | [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER) | [Loved For Once](https://open.spotify.com/album/4y5pQr79iY387t8FINjwlV) | 3:17 | 2025-03-06 | 2025-03-08 |
 | [Lulay](https://open.spotify.com/track/6IVoV10fauImZHBVmc4vAF) | [Nowan.](https://open.spotify.com/artist/2FhQRdH3HIiapENFKfBvXJ) | [Lulay](https://open.spotify.com/album/6ntZ2nx0HXRj3Vb5gYkUOo) | 3:12 | 2024-11-20 | 2025-04-08 |
@@ -324,6 +328,7 @@
 | [Never Ever](https://open.spotify.com/track/4acuAxO3HX8gnG0cPoHdY3) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU), [Shanice](https://open.spotify.com/artist/7d0Wq0KsjId0JcqsDg02l2) | [Never Ever](https://open.spotify.com/album/4Kgp0O7onWFiBSFfw3Fadq) | 4:07 | 2025-08-23 |  |
 | [New Dimensions](https://open.spotify.com/track/2fPTeoTG28JAExuQyoX8b5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Traveller Across Dimensions](https://open.spotify.com/album/3AxFszKy5olWdrPV3bHTFY) | 4:18 | 2024-11-29 | 2025-05-12 |
 | [Ngalan Mo](https://open.spotify.com/track/7vkINABNJgMl0K7xRUrIhp) | [Yden](https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV) | [Ngalan mo](https://open.spotify.com/album/5K20pRwZSozWqH2xn7GSha) | 2:54 | 2025-07-21 |  |
+| [Ngiti](https://open.spotify.com/track/0OzQ6q4AErZG5kJGA3wbcN) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [TAWID](https://open.spotify.com/album/3bkrsArJCA2Wf6J3BksYot) | 3:21 | 2025-09-12 |  |
 | [Nilalang](https://open.spotify.com/track/7eMn5OCApyTgqrPPoLJWBq) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Nilalang](https://open.spotify.com/album/7vTwHNQJy2vVhbhDfmF6NY) | 3:29 | 2024-07-19 | 2024-11-21 |
 | [Nobya](https://open.spotify.com/track/6eBIvH2ARm4psC3kkbARSn) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Nobya](https://open.spotify.com/album/5Bhm5NsqTDSjBdUzoWripN) | 6:18 | 2024-11-04 | 2025-04-08 |
 | [Numbers](https://open.spotify.com/track/16przOekKjy6Cta9GmFAn4) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Numbers](https://open.spotify.com/album/5AhOxlO1XfZ7gCjOzCQcD3) | 5:38 | 2025-03-14 | 2025-05-24 |
@@ -373,6 +378,7 @@
 | [Para Pilitin Ka](https://open.spotify.com/track/69U6iomvHuKP2m27XRD0Ct) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Para Pilitin Ka](https://open.spotify.com/album/4KcovszCGgDit0iyhwuQ9u) | 3:16 | 2025-03-21 | 2025-06-21 |
 | [Para Tayo Sa Huli](https://open.spotify.com/track/3gqnvHHafyhMsDnwblMSKH) | [Onin Musika](https://open.spotify.com/artist/5N7aBJqsIbIYun4Le9zBq6) | [Para Tayo Sa Huli](https://open.spotify.com/album/3wTwQ5wLt0efk68seZnBqA) | 4:47 | 2025-06-20 |  |
 | [Paradise](https://open.spotify.com/track/19sHbXsObFK88fuwExVoWT) | [Maymay Entrata](https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI) | [Paradise](https://open.spotify.com/album/2qIrswJEQtfCmgobWtsQ5X) | 2:25 | 2025-02-24 | 2025-05-03 |
+| [Parang Pelikula](https://open.spotify.com/track/6DWL1p0Tk0ZnWtBnqPhUOS) | [HNT](https://open.spotify.com/artist/7aL6rI1bHOBUAtmLPCxfNR) | [Parang Pelikula](https://open.spotify.com/album/5UinpsjCo3itl7OQjyojtS) | 4:50 | 2025-09-12 |  |
 | [Paraya](https://open.spotify.com/track/5DDS1hu1GcEZppuArUcfUA) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Paraya](https://open.spotify.com/album/6Rlp7gO2NJv8YEDuCkBRWX) | 4:12 | 2024-09-06 | 2024-12-05 |
 | [Parking Lot \(with Darren Cashwell & Chie Filomeno\)](https://open.spotify.com/track/29tmagQbIElVlFxjM4arKd) | [Jeremy G](https://open.spotify.com/artist/5BukDmriB1WrLFDavZzHdJ), [Darren Cashwell](https://open.spotify.com/artist/047tIYfc2xQ4IlQvKwKeh6), [Chie Filomeno](https://open.spotify.com/artist/1fLKfl7vy40jYqnXGgqAlR) | [Parking Lot \(with Darren Cashwell & Chie Filomeno\)](https://open.spotify.com/album/0ZohNUbSnEJ0c2DGMkPr2V) | 2:26 | 2025-05-12 | 2025-07-19 |
 | [Pasado](https://open.spotify.com/track/6CnRHAc2wQxd1q4MyQU2lr) | [It All Started In May](https://open.spotify.com/artist/1qWLxocXl9bpeqejuQ8zJX) | [Pasado](https://open.spotify.com/album/44PsVipyfXXv1s3jDG4TwE) | 3:37 | 2025-06-27 |  |
@@ -423,6 +429,7 @@
 | [sana hindi na lang](https://open.spotify.com/track/1ADgl3jQmbAGi6uCC2eLbN) | [Kylu](https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5), [Matt Wilson](https://open.spotify.com/artist/5xPS5Chr0YYtb1VmZJqz38) | [sana hindi na lang](https://open.spotify.com/album/1uzlXLSHMKR4lRQMJjJ0Oa) | 3:16 | 2024-07-11 | 2024-09-25 |
 | [Sana Ikaw Ay Masaya](https://open.spotify.com/track/5xXeVq7dZsGyaXBEjnADUD) | [Noah Raquel](https://open.spotify.com/artist/3cXAOAlL3hdCbm2SGTagr2) | [Sana Ikaw Ay Masaya](https://open.spotify.com/album/6Pz7jfWCTX3H04cthEO3eY) | 3:17 | 2024-11-29 | 2025-02-15 |
 | [Sandal](https://open.spotify.com/track/5AqmRNx25UmxdyA93Gwb7P) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Sandal](https://open.spotify.com/album/29fpGpYFrsx9QbWZiu2oWX) | 3:46 | 2024-08-30 | 2024-11-23 |
+| [Sandali](https://open.spotify.com/track/01yAdrgd5cjxUyebfX4VGa) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Sandali](https://open.spotify.com/album/4t92Zbfii2HcubPxieMyUX) | 3:39 | 2025-09-12 |  |
 | [Sandali](https://open.spotify.com/track/6gbhAe0l2WPXEGFYOBdPOO) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Sandali](https://open.spotify.com/album/6HculBGdKrjNRW3w2ChG7P) | 3:28 | 2024-07-02 | 2024-09-07 |
 | [Sandstorm](https://open.spotify.com/track/7i03IwGihweGrBw9IdSd5h) | [Mona Gonzales](https://open.spotify.com/artist/4WfDxyfUCSNCJtorm2eOOT) | [Love, Mona](https://open.spotify.com/album/2TtyretwUDsRHZPCkGFFT7) | 3:14 | 2024-12-16 | 2025-04-16 |
 | [Sargo](https://open.spotify.com/track/0HM3uWoejsV1P6JfmAnFh3) | [Daph](https://open.spotify.com/artist/6Msb8E2b9GXLJZst4EB0Cs) | [Sargo](https://open.spotify.com/album/0YGqRqCSE9MHKtJ4qaKjvh) | 3:08 | 2024-11-20 | 2025-02-26 |

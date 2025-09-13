@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "XY",
+        "url": "https://open.spotify.com/album/2L3TRZmEPzIiuDCs3pd12F"
+      },
+      "artists": [
+        {
+          "name": "XY",
+          "url": "https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112240,
+      "name": "FACTS",
+      "url": "https://open.spotify.com/track/1MaRSqwpT56kqFNhdID0vd"
+    },
+    {
+      "album": {
         "name": "FACTS",
         "url": "https://open.spotify.com/album/6tphLbRCJw4bLeZhQ8ZOgV"
       },
@@ -720,7 +738,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 112839,
       "name": "FACTS",
       "url": "https://open.spotify.com/track/1Z3ZY29bXjw5wdyOXLkVUd"

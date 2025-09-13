@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-643 songs - 2 day 14 hr 13 min
+645 songs - 2 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Hallelujah For The Cross \- Live](https://open.spotify.com/track/4cd4S4o80CBDAXEI9f4Fch) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Breakthrough \(Live\)](https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi) | 5:32 | 2022-05-27 | 2023-01-05 |
 | [Happily Hidden \(with John Mark McMillan\)](https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Happily Hidden](https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b) | 3:53 | 2024-07-26 |  |
 | [Hard Fought Hallelujah](https://open.spotify.com/track/6ye2zG3DhdwDf6VRVyj4jx) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Hard Fought Hallelujah](https://open.spotify.com/album/2ZRoUKXGiyxc63Q6xLAIh5) | 5:16 | 2025-03-20 |  |
+| [Hard Part Of A Dream](https://open.spotify.com/track/2aFGiXWOakLh5rLkLNCPkh) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Hard Part Of A Dream](https://open.spotify.com/album/0uprMRGyOpM6Dtv5m0XK4z) | 4:45 | 2025-09-12 |  |
 | [He Is Lord \- Live](https://open.spotify.com/track/5Cs4n0uOzg2vA23SCUK2I9) | [Michael Bethany](https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe), [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB) | [He Is Lord \(Live\)](https://open.spotify.com/album/3ptsqliM0KTOGWkFhaqE4h) | 7:37 | 2023-05-26 | 2024-09-10 |
 | [He Lives](https://open.spotify.com/track/4nt2QalH8b0qqzDFiVMFLD) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [He Lives](https://open.spotify.com/album/2BYeHrl5Uk56Js2O6wc1Oi) | 4:46 | 2023-04-14 | 2024-09-10 |
 | [He Lives \- Live](https://open.spotify.com/track/68OJj3OTc9mnXsy39B7eve) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [He Lives](https://open.spotify.com/album/4p1AUbD3hdYhEu62DUOUEQ) | 4:52 | 2022-04-05 | 2023-01-05 |
@@ -387,6 +388,7 @@
 | [My Jesus](https://open.spotify.com/track/0KNvJzxdbslBddN27BEhfm) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:37 | 2025-03-20 |  |
 | [My Reward \- Live](https://open.spotify.com/track/0tIPhh7banUZMcLSCfuIsu) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l) | [My Reward \(Live\)](https://open.spotify.com/album/6eNbXPWZRkMCoGP1NYci3H) | 4:29 | 2024-10-18 | 2025-03-21 |
 | [My Story \- Live](https://open.spotify.com/track/63tgIvV6n1mAvEpjIF9iNE) | [Open Heaven](https://open.spotify.com/artist/5mCCAerun72aycTarMpOYw) | [My Story \(Live\)](https://open.spotify.com/album/7mFvBAs6skJ9iuSB9PBnqb) | 6:54 | 2024-02-23 | 2024-03-02 |
+| [My Vision](https://open.spotify.com/track/2ITMOREJl032pWV0WzHUYb) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Lindsey Arcaro](https://open.spotify.com/artist/3JhAmrIzgB8ssJ22OWIhQH) | [My Vision](https://open.spotify.com/album/3AD6QiHOiyrpbEaKsqNCTX) | 6:10 | 2025-09-12 |  |
 | [Never Found A Love](https://open.spotify.com/track/4WwB2Q0MBXldoo2xIBqeOU) | [City Students Worship](https://open.spotify.com/artist/6mGZBhDHH1Ypnwg3VoSD4G), [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Brantley Pollock](https://open.spotify.com/artist/5m0P6dlB9jrsCinSWm09Fk) | [Never Found A Love](https://open.spotify.com/album/714Uq6GBID0a8xnQaZuugc) | 4:03 | 2022-10-14 | 2023-12-14 |
 | [Never The Same \- Live](https://open.spotify.com/track/2s6VEUOxLFKWQP3eIC2Esy) | [Open Heaven](https://open.spotify.com/artist/5mCCAerun72aycTarMpOYw) | [Never The Same \(Live\)](https://open.spotify.com/album/4UsZq2PoJCbNiYkn6qqqxC) | 4:50 | 2024-03-08 | 2025-03-21 |
 | [Never Walk Alone \- Live](https://open.spotify.com/track/6nnVErd0ufKmBDdZBAcEV7) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Mi\-kaisha Rose](https://open.spotify.com/artist/2U2ol5NQFCm5zI9NefWhCK) | [Never Walk Alone \(Live\)](https://open.spotify.com/album/0p0ZqL10vihrkDNfUfgAb0) | 5:48 | 2022-02-17 | 2022-04-02 |

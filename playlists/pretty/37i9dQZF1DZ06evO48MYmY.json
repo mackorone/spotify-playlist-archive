@@ -1,12 +1,12 @@
 {
   "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
-  "num_followers": 346112,
+  "num_followers": 346123,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMC/gAAAAADzZoBUbSPXOX1ysrONEcLi",
+  "snapshot_id": "aMIRAAAAAABbXeAyPwIS25ZMcFKMczUZ",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 114626,
-      "name": "A Poem on the Underground Wall",
-      "url": "https://open.spotify.com/track/0CtuChNoy9SwaiOddQ4EPc"
+      "duration_ms": 167160,
+      "name": "Sparrow",
+      "url": "https://open.spotify.com/track/7pz0HomuJsxkbrNQUHNYBE"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 167160,
-      "name": "Sparrow",
-      "url": "https://open.spotify.com/track/7pz0HomuJsxkbrNQUHNYBE"
+      "duration_ms": 114626,
+      "name": "A Poem on the Underground Wall",
+      "url": "https://open.spotify.com/track/0CtuChNoy9SwaiOddQ4EPc"
     },
     {
       "added_at": null,

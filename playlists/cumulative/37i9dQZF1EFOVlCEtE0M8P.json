@@ -5148,6 +5148,28 @@
     {
       "album": {
         "name": "Trouble",
+        "url": "https://open.spotify.com/album/0tJTJOrLDyLiynoSaWW7lf"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Little Daylight",
+          "url": "https://open.spotify.com/artist/63aFY9yQyFDJtGkInMUris"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150618,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1HbcpRA4XnqOOZZNiN41oi"
+    },
+    {
+      "album": {
+        "name": "Trouble",
         "url": "https://open.spotify.com/album/6XT2WI977FCKvwdfFXerkh"
       },
       "artists": [
@@ -5184,7 +5206,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 150618,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/6VTxre8RGM9v4pJoHJBcI8"

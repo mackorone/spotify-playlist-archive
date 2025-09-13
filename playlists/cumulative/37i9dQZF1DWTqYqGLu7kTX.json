@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Punjabi Hip-Hop! Cover:  Navaan Sandhu",
+  "description": "Best of Punjabi Hip-Hop! Cover:  Karan Aujla",
   "name": "RAP 91 Punjabi",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF"
@@ -2753,6 +2753,28 @@
     },
     {
       "album": {
+        "name": "Longway",
+        "url": "https://open.spotify.com/album/44SVcjDKmwb0buNknrEpiW"
+      },
+      "artists": [
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140740,
+      "name": "Iceman",
+      "url": "https://open.spotify.com/track/0lu0MNaneFAc0jx5THg5wu"
+    },
+    {
+      "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
       },
@@ -4796,6 +4818,28 @@
       "duration_ms": 166666,
       "name": "Regions",
       "url": "https://open.spotify.com/track/41rBgLENFkfdMRT7ZyZKQC"
+    },
+    {
+      "album": {
+        "name": "Rich Heart",
+        "url": "https://open.spotify.com/album/3wyfDA6l0kFU0NaVIaj14J"
+      },
+      "artists": [
+        {
+          "name": "Gurinder Gill",
+          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
+        },
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/3IKpHWEZQ8pPp4PEsGuT28"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146351,
+      "name": "Rich Heart",
+      "url": "https://open.spotify.com/track/78Q7kowOkvO72hiDjFjhaT"
     },
     {
       "album": {

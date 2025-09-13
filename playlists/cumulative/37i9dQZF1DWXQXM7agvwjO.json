@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds from Asia. Cover: H3F (Thailand)",
+  "description": "Hottest indie sounds from Asia. Cover: IV OF SPADES (Philippines)",
   "name": ".ORG",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 187729,
       "name": "3 Day Hangover",
       "url": "https://open.spotify.com/track/4wSBL1WHuiJDfEAMbUpkmc"
@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "3am",
+        "url": "https://open.spotify.com/album/0CxaGou0ebafxSU63mwpIW"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257400,
+      "name": "3am",
+      "url": "https://open.spotify.com/track/6oNC0dZwthd4Gbof71UYMJ"
+    },
+    {
+      "album": {
         "name": "4am",
         "url": "https://open.spotify.com/album/6T8Nrg2KG8IPld0wBQmxPC"
       },
@@ -422,6 +440,24 @@
       "duration_ms": 179040,
       "name": "4am love",
       "url": "https://open.spotify.com/track/6SYSKoTRle2gRxtDtfx4TB"
+    },
+    {
+      "album": {
+        "name": "555",
+        "url": "https://open.spotify.com/album/1yeZP5DH78a5IX1lQn5aTG"
+      },
+      "artists": [
+        {
+          "name": "Cupnoodle",
+          "url": "https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171030,
+      "name": "555",
+      "url": "https://open.spotify.com/track/67vZPOQsyVNxFHPylJcIiG"
     },
     {
       "album": {
@@ -1030,6 +1066,28 @@
       "duration_ms": 174011,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/1F7m10RKlI7ddbkJtAEnNs"
+    },
+    {
+      "album": {
+        "name": "Pathetic",
+        "url": "https://open.spotify.com/album/01QzBNOBEffMzcOQFrXhL6"
+      },
+      "artists": [
+        {
+          "name": "hidari",
+          "url": "https://open.spotify.com/artist/1qXQMTY6l4Y1ipNXBo8Ysq"
+        },
+        {
+          "name": "woah",
+          "url": "https://open.spotify.com/artist/14lmu0Tv9vxB7LcyV4auHK"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126153,
+      "name": "Afraid",
+      "url": "https://open.spotify.com/track/3vushHjCIv070V3m28mzzS"
     },
     {
       "album": {
@@ -2300,7 +2358,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 237625,
       "name": "As Falsas",
       "url": "https://open.spotify.com/track/0qPLO41igft7jd9NzSFOKd"
@@ -10340,6 +10398,28 @@
     {
       "album": {
         "name": "Falling",
+        "url": "https://open.spotify.com/album/0ATeTy0c1pbtskdSzcr9dk"
+      },
+      "artists": [
+        {
+          "name": "NYK",
+          "url": "https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx"
+        },
+        {
+          "name": "Kuszanagi",
+          "url": "https://open.spotify.com/artist/7G8U6CwUfY85f2PzV6rcTO"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220235,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/6fy8BFwRgwwJHeCvlJAj1S"
+    },
+    {
+      "album": {
+        "name": "Falling",
         "url": "https://open.spotify.com/album/20seSdfLCB1f4OeI7xWYve"
       },
       "artists": [
@@ -10596,6 +10676,24 @@
       "duration_ms": 190000,
       "name": "feel again",
       "url": "https://open.spotify.com/track/0CB6B3ih81cvlzUduNKQhL"
+    },
+    {
+      "album": {
+        "name": "g/g",
+        "url": "https://open.spotify.com/album/6b7YD26Mjwgd2TfOr59Hrj"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "feel like a goss",
+      "url": "https://open.spotify.com/track/3KxlWm0hFZTni0CpOAvls7"
     },
     {
       "album": {
@@ -11810,7 +11908,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 225354,
       "name": "Funky Lovely Girl",
       "url": "https://open.spotify.com/track/5tC5E4f9rjRgxsUpr4abHh"
@@ -13589,6 +13687,24 @@
     },
     {
       "album": {
+        "name": "High Journey",
+        "url": "https://open.spotify.com/album/7kgl6iVZ3uLAFWWbD7q2QP"
+      },
+      "artists": [
+        {
+          "name": "cotoba",
+          "url": "https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229651,
+      "name": "High Journey",
+      "url": "https://open.spotify.com/track/3komypzGQmNIR2pfMtaGL2"
+    },
+    {
+      "album": {
         "name": "Highteen",
         "url": "https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW"
       },
@@ -13716,6 +13832,24 @@
       "duration_ms": 244821,
       "name": "Hold",
       "url": "https://open.spotify.com/track/5qe2mnouQfrbzec96JvBD3"
+    },
+    {
+      "album": {
+        "name": "Hold Me Tight",
+        "url": "https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190463,
+      "name": "Hold Me Tight",
+      "url": "https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t"
     },
     {
       "album": {
@@ -14338,7 +14472,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 327567,
       "name": "Ho\u00e0ng H\u00f4n C\u00f3 Em",
       "url": "https://open.spotify.com/track/79Y7bTLjTUjDMCt350uvJs"
@@ -17537,6 +17671,24 @@
     },
     {
       "album": {
+        "name": "Konsensya",
+        "url": "https://open.spotify.com/album/3Gwpshb9YLl9oLss4dVPot"
+      },
+      "artists": [
+        {
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213934,
+      "name": "Konsensya",
+      "url": "https://open.spotify.com/track/3ilfK8uTk4VB50GKtfKHTL"
+    },
+    {
+      "album": {
         "name": "Krisan",
         "url": "https://open.spotify.com/album/0KzhDllitU7DI7J9YC3vr1"
       },
@@ -17718,7 +17870,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 134732,
       "name": "Lakeside",
       "url": "https://open.spotify.com/track/56qgpAknQSXvlGwx4ptx8M"
@@ -18312,7 +18464,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 128610,
       "name": "Letters to Pumpkins",
       "url": "https://open.spotify.com/track/2eYlILcy7NFIfDUSitUzjX"
@@ -18740,7 +18892,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 146877,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/63JRM5n95SFY49feQu9U1G"
@@ -19075,6 +19227,24 @@
     },
     {
       "album": {
+        "name": "LOUDMOUTH",
+        "url": "https://open.spotify.com/album/7ghnFFOMt2D7t72OU7Qy8x"
+      },
+      "artists": [
+        {
+          "name": "Hazylazy",
+          "url": "https://open.spotify.com/artist/5hVGJyd2WyWbzSkJiWmetp"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236262,
+      "name": "LOUDMOUTH",
+      "url": "https://open.spotify.com/track/184PMQAPvZeMkk3CXgSn9a"
+    },
+    {
+      "album": {
         "name": "Everything I've Wanted To Say",
         "url": "https://open.spotify.com/album/6ZPOaniWpQLMPp6YTmi8Td"
       },
@@ -19346,6 +19516,28 @@
       "duration_ms": 142374,
       "name": "love you soul <3",
       "url": "https://open.spotify.com/track/1Ch4Uwouu50i3hExy8EvTN"
+    },
+    {
+      "album": {
+        "name": "Love, Again",
+        "url": "https://open.spotify.com/album/3eAojLETHEJnVKHjepSypD"
+      },
+      "artists": [
+        {
+          "name": "lightcraft",
+          "url": "https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3"
+        },
+        {
+          "name": "RIMALDI",
+          "url": "https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193306,
+      "name": "Love, Again",
+      "url": "https://open.spotify.com/track/1NxnWDCt9sXfXiigC8KvK9"
     },
     {
       "album": {
@@ -22361,6 +22553,24 @@
     },
     {
       "album": {
+        "name": "Netherlands",
+        "url": "https://open.spotify.com/album/6wqICiLMk0RGgzdWGUKfWP"
+      },
+      "artists": [
+        {
+          "name": "Lukpeach",
+          "url": "https://open.spotify.com/artist/61uCmA6xLc4E7zuns8HyJK"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196530,
+      "name": "Netherlands",
+      "url": "https://open.spotify.com/track/5QlMRzmbS70707wo0RPTvc"
+    },
+    {
+      "album": {
         "name": "never again",
         "url": "https://open.spotify.com/album/2XyeaT6WmyO5w2hhWCRffu"
       },
@@ -23686,7 +23896,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 189941,
       "name": "One",
       "url": "https://open.spotify.com/track/7DFXLXzUdRbQRt7Gd02Xft"
@@ -25246,7 +25456,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 197647,
       "name": "Please Say It",
       "url": "https://open.spotify.com/track/4lZpvHAd9s2vzb2ZrVA4ba"
@@ -25958,7 +26168,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 138000,
       "name": "Rainbow (\u0e23\u0e38\u0e49\u0e07)",
       "url": "https://open.spotify.com/track/3TBGPc9fUBo3AjBzgiXNGY"
@@ -27640,7 +27850,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 168400,
       "name": "Secret Codes",
       "url": "https://open.spotify.com/track/1BSvCKeSJFGkynbhQVWsqw"
@@ -28562,7 +28772,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 210000,
       "name": "slip away",
       "url": "https://open.spotify.com/track/3Hs6qdFHmTGqo7yTgEapU3"
@@ -29678,7 +29888,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 235053,
       "name": "Stand up",
       "url": "https://open.spotify.com/track/66p4uyqFsbxVJl7Pqfqj02"
@@ -30394,7 +30604,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 267500,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/7dYKr8N5BrDE24FAMTMFaz"
@@ -32568,6 +32778,24 @@
       "duration_ms": 305960,
       "name": "Third Summer of Love",
       "url": "https://open.spotify.com/track/1JqvgMV4lvu6HCMTY2eAkL"
+    },
+    {
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/6hgh1yLfRafmZvOLifDad8"
+      },
+      "artists": [
+        {
+          "name": "L/",
+          "url": "https://open.spotify.com/artist/5Lk9FPpvHgvcr7L216AK30"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Thirty One",
+      "url": "https://open.spotify.com/track/0bzgCX0CtPeeFwpGF2cW6j"
     },
     {
       "album": {
@@ -35488,7 +35716,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 178920,
       "name": "What\u2019s the Point?",
       "url": "https://open.spotify.com/track/1rKTEQcNDg3wslMviFXrwj"
@@ -39183,6 +39411,24 @@
     },
     {
       "album": {
+        "name": "\u5728\u9019\u500b\u6e05\u6668",
+        "url": "https://open.spotify.com/album/4ancqmWTgf0EvyCc0R6FcZ"
+      },
+      "artists": [
+        {
+          "name": "LINION",
+          "url": "https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220826,
+      "name": "\u5728\u9019\u500b\u6e05\u6668",
+      "url": "https://open.spotify.com/track/2ZiTY57vnyNlTvRvQI7ZCY"
+    },
+    {
+      "album": {
         "name": "Correspondances",
         "url": "https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z"
       },
@@ -40389,6 +40635,28 @@
     },
     {
       "album": {
+        "name": "\u771f\u590f\u306e\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/2I35grEfCPhILtpBhZAHfn"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        },
+        {
+          "name": "Polycat",
+          "url": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278550,
+      "name": "\u771f\u590f\u306e\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6Y5hTkQSznh1wFDw2p3SDW"
+    },
+    {
+      "album": {
         "name": "\u795d\u798f",
         "url": "https://open.spotify.com/album/64dqnbWFC9GnDNHqTMEnHm"
       },
@@ -40874,6 +41142,24 @@
       "duration_ms": 215181,
       "name": "\u9999\u6e2f\u5730pt.2",
       "url": "https://open.spotify.com/track/2q24Khiek5SoCiBMyHO1Kx"
+    },
+    {
+      "album": {
+        "name": "\u9b5a\u6e56",
+        "url": "https://open.spotify.com/album/10t7VwlzQ7n3J5bQf3wsHb"
+      },
+      "artists": [
+        {
+          "name": "\u91ce\u5de2 Nosu",
+          "url": "https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299076,
+      "name": "\u9b5a\u6e56",
+      "url": "https://open.spotify.com/track/7Ew6nHhy81sbXXdAtWe6p1"
     },
     {
       "album": {

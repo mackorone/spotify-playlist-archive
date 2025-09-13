@@ -3233,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/1MuZwe2gViW1Pv3MQrznk5"
+      },
+      "artists": [
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186562,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/41IzbkTcmjj8EMsMCAw0iM"
+    },
+    {
+      "album": {
         "name": "Don't Give Up (Radio Edit)",
         "url": "https://open.spotify.com/album/3uvEmBmwZIVOVYu5DDXYUN"
       },
@@ -11634,7 +11652,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 221577,
       "name": "Spiral - Edit",
       "url": "https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R"

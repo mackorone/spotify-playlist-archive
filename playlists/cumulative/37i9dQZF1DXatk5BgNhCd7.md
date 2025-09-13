@@ -2,9 +2,9 @@
 
 ### [Novedades Tropicales](https://open.spotify.com/playlist/37i9dQZF1DXatk5BgNhCd7)
 
-> Todo lo nuevo en música tropical 📸 La Combo Tortuga & DrefQuila.
+> Todo lo nuevo en música tropical 📸 Ke Personajes & J Balvin.
 
-4,229 songs - 10 day 4 hr 15 min
+4,230 songs - 10 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1430,6 +1430,7 @@
 | [Fantasía Prohibida](https://open.spotify.com/track/0ILL2zsPRSVX1jn75sFfNn) | [Andrés Ariza Villazón](https://open.spotify.com/artist/1CCFWuHLfkFUEWhNQcEcZZ), [Saul Lallemand](https://open.spotify.com/artist/58HQ31tulzijCh06bRR0QO) | [Fantasía Prohibida](https://open.spotify.com/album/2EtkkppHgGo6AhilIRky6C) | 3:56 | 2025-08-29 |  |
 | [Fantasías](https://open.spotify.com/track/5uu3Fow35vbH5Ira6sQnNt) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Fantasías](https://open.spotify.com/album/3jZ2fCNFSY3p5YZ6B2yxdY) | 3:16 | 2024-02-16 | 2024-05-04 |
 | [Farsante](https://open.spotify.com/track/7bRtrWz5oNwfw4rXFU3VrI) | [ZAPEROKO La Resistencia Salsera del Callao](https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif) | [Farsante](https://open.spotify.com/album/4Jj1eQLwOi6vdq7YpOVFMM) | 3:54 | 2022-07-01 | 2022-07-09 |
+| [Fatal](https://open.spotify.com/track/6RhxpK8VbkuCGfJMOAebFf) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Serie 25](https://open.spotify.com/album/33LXlCCc4TB8TJ1HcQfSZX) | 2:42 | 2025-09-12 |  |
 | [Feeling Something](https://open.spotify.com/track/08xwzdi5VJ3jnTx0Z2kyUR) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs) | [Casagemas](https://open.spotify.com/album/5tUWJ8CEcSx55oKlEfY8RH) | 3:11 | 2024-08-02 | 2024-08-10 |
 | [Feeling Something](https://open.spotify.com/track/3HodFUzilBclM9v6FutNjJ) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs) | [Feeling Something](https://open.spotify.com/album/7tTFTrDOcZpILzYSl6o8Ey) | 3:12 | 2024-02-09 | 2024-02-17 |
 | [Felices los 4](https://open.spotify.com/track/2zkU4teE8FdsR43jYsreiO) | [Boyz of Kumbia](https://open.spotify.com/artist/2HeR4Dpca4cva6SUlEHuEA) | [Felices los 4](https://open.spotify.com/album/4Waceb7C4ILx5c5hFe9i4L) | 3:14 | 2022-05-27 | 2022-06-11 |
@@ -3714,7 +3715,6 @@
 | [Totona](https://open.spotify.com/track/3PZ6unz84QLZExL3HEHNnW) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [Totona](https://open.spotify.com/album/2Z5CUiR6Irh7MnnOWligNY) | 3:25 | 2023-09-22 | 2023-09-30 |
 | [TOUCH & GO](https://open.spotify.com/track/3cZJv1QBNqlPVewsUGR7Lk) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [TOUCH & GO](https://open.spotify.com/album/0DaH1E2DayeOWT1XWbE8lt) | 2:50 | 2024-04-12 | 2024-04-19 |
 | [Tqg](https://open.spotify.com/track/2ss4k10PdYJQTyxIucJX7n) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [Tqg](https://open.spotify.com/album/1IKAdLi3ydjJY063vYGNDO) | 4:43 | 2023-11-24 | 2023-12-02 |
-| [Track 6](https://open.spotify.com/track/5eEnXoscc8v5AT6NLlBHt2) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-12 |  |
 | [Traemos Alegría](https://open.spotify.com/track/6TA2MBNAjNslTfth8ht143) | [Barreto el Show](https://open.spotify.com/artist/2tZTRbJlPaHYjXRBMIrKaN), [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Traemos Alegría](https://open.spotify.com/album/5XETq4o7BJAOsIUai2bN6L) | 3:39 | 2024-11-01 | 2024-11-09 |
 | [Traficando Cumbia](https://open.spotify.com/track/3rX0nXzioBhff6neZ4mgdb) | [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Traficando Cumbia](https://open.spotify.com/album/1ElZRslDT3uuMMH9bLzkYt) | 3:16 | 2022-06-03 | 2022-07-02 |
 | [Trago de whisky](https://open.spotify.com/track/1nrCDK71KYEJZgXt2IdWZA) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [El Kuko Esta En La Kalle](https://open.spotify.com/album/6oldAaJRR8kCE1o0wJ8aBL) | 3:49 | 2023-06-02 | 2023-06-10 |
@@ -3951,6 +3951,7 @@
 | [Vamos Pa Arriba](https://open.spotify.com/track/2NFePYo4be9vtcIPjc5rit) | [Master Kumbia](https://open.spotify.com/artist/59lBorf6DoHbZgeqrf12XG), [Los Karkik's](https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg) | [Vamos Pa Arriba](https://open.spotify.com/album/7tRjoCzolyoBm0yYcXqCIh) | 3:59 | 2022-06-24 | 2022-07-16 |
 | [Vanidad](https://open.spotify.com/track/1QlJSCz5vDDsvbDovwcVlV) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs) | [Casagemas](https://open.spotify.com/album/5tUWJ8CEcSx55oKlEfY8RH) | 4:50 | 2024-05-31 | 2024-06-08 |
 | [VAPOR Y CIELO](https://open.spotify.com/track/3Udoa1rsfpk7gYLuKx06yH) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [VAPOR Y CIELO](https://open.spotify.com/album/6aDL1lkv9Pm6NEM7ATGEbg) | 3:02 | 2024-11-22 | 2024-11-30 |
+| [Vaquera Galáctica](https://open.spotify.com/track/5eEnXoscc8v5AT6NLlBHt2) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Cerca del Lugar](https://open.spotify.com/album/37CQ20F36JmmHtRuSGpTux) | 3:42 | 2025-09-12 |  |
 | [Vas a decir que sí](https://open.spotify.com/track/4xJWfJHktjHf922MATCgrR) | [Lalo Capetillo](https://open.spotify.com/artist/6u4vthpKyJ2lF3o9nTorR7), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [Vas a decir que sí](https://open.spotify.com/album/5UjfB9Ox0qRn4urJjq5MUo) | 3:05 | 2024-08-09 | 2024-08-17 |
 | [Vas a Llorar](https://open.spotify.com/track/0LBmWK8k8jky75OuxOqZyu) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Willy Campero](https://open.spotify.com/artist/3VYoITWsXC5qWcdf1dUeL3) | [Vas a Llorar](https://open.spotify.com/album/18Czl2haScpbWU0swGFgNv) | 3:59 | 2025-05-02 | 2025-05-31 |
 | [Vas A Llorar \- En Vivo](https://open.spotify.com/track/5T3mOr4QOLVoZULJgF4pzA) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [Sessiones Peposas \#4 \(En Vivo\)](https://open.spotify.com/album/3XJDtBqB5vd0YWDfh7QAX1) | 2:22 | 2023-06-23 | 2023-07-01 |

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,123 songs - 2 day 12 hr 31 min
+1,124 songs - 2 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,7 +518,7 @@
 | [Kikran De Phull](https://open.spotify.com/track/4lXSc0Dxyv4gfSDWF2p6Pw) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Kikran De Phull](https://open.spotify.com/album/7cVzbQr4trRpNRTQLKGP57) | 3:10 | 2025-07-15 |  |
 | [Kill Kure](https://open.spotify.com/track/5Y6pohDxlWqRH69bDv5er4) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [Kill Kure](https://open.spotify.com/album/0PHp8FjClTq3VQNPbUpAXo) | 4:34 | 2022-01-17 | 2022-02-01 |
 | [King Queen](https://open.spotify.com/track/7idV9Nalvb7FbEcN5Qbtou) | [KB Bhangu](https://open.spotify.com/artist/1ckQY8GQZNvJBr1y9HP74r), [Sumirat Kaur](https://open.spotify.com/artist/0hAxNB52FTz62jLDbtG6eK) | [King Queen](https://open.spotify.com/album/43gOBtn2vMaDyPEQ1e08l0) | 3:20 | 2022-02-04 | 2022-02-12 |
-| [Kini Der Baad](https://open.spotify.com/track/3khFbpLzwO8KSNoz36CRES) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:50 | 2025-03-05 |  |
+| [Kini Der Baad](https://open.spotify.com/track/3khFbpLzwO8KSNoz36CRES) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:50 | 2025-03-05 | 2025-09-13 |
 | [Kinne Sohne Lagde](https://open.spotify.com/track/1vuMd5EqT1CZhK8we8ENLJ) | [Devenderpal Singh](https://open.spotify.com/artist/1jN2Fv5V6wFOU6wRNEod4T), [Ruhi Sethi](https://open.spotify.com/artist/6VqAlXwwoDxGZTUgG0Sx2y) | [Kinne Sohne Lagde](https://open.spotify.com/album/4jWS2jTivJTZdfA2y90V3W) | 3:24 | 2022-05-31 | 2022-07-06 |
 | [Kitaab](https://open.spotify.com/track/5m1KzEE8olyXQ2SD0Ec0pz) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Love War](https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ) | 3:07 | 2022-03-16 | 2022-04-06 |
 | [Kitab](https://open.spotify.com/track/3LkBUj5Qd6OyIchgTOyKFi) | [Amarinder](https://open.spotify.com/artist/7fBmn4qIlIlpCTgV1VE4cV) | [Love On Top](https://open.spotify.com/album/4cCzLf1SWnIVArzSpreEsT) | 2:48 | 2022-01-10 | 2022-02-01 |
@@ -1091,6 +1091,7 @@
 | [Wanga](https://open.spotify.com/track/7jio2ibU8YYrlKzWzmdgXU) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jay Dee](https://open.spotify.com/artist/35sUjoeFA3eopTY3PXEjVA) | [Wanga](https://open.spotify.com/album/1tmjTkjz5XPlMCiSB0d95L) | 3:39 | 2022-11-07 | 2023-02-02 |
 | [Water](https://open.spotify.com/track/25jtUwCQfXwnxENh8Bvoj4) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Water](https://open.spotify.com/album/28hNsbbvkDlH26ep3bZeWE) | 3:16 | 2025-02-15 |  |
 | [Waves](https://open.spotify.com/track/0PTKdhCpWGehmffPEum7jA) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Waves](https://open.spotify.com/album/3MhjfVPObsfp6YEZiNi2av) | 3:03 | 2022-07-05 | 2023-02-02 |
+| [We Don't Talk Anymore](https://open.spotify.com/track/741BHlTeSVBReJdfUdKlRk) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [WORDPLAY](https://open.spotify.com/album/1ZT00C99V2fm1qOMWTe9kg) | 2:16 | 2025-09-12 |  |
 | [Wedding Vibes](https://open.spotify.com/track/1M0kEP53VUsLQi5yOJtL2W) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Beat Boi Deep](https://open.spotify.com/artist/024zFKsfkByro9RORWasCq) | [Wedding Vibes](https://open.spotify.com/album/3EBlV4zqE2nTJu3a7SFsAL) | 2:58 | 2022-01-10 | 2022-02-01 |
 | [Weekend](https://open.spotify.com/track/4Su7DHadrVmCFuxU972eTc) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Weekend](https://open.spotify.com/album/5CWJfhgBQzYb3GbIfpjvw1) | 2:50 | 2022-01-10 | 2022-04-06 |
 | [What's Going On](https://open.spotify.com/track/5QnNYkOELv5lOQDcIHQoNN) | [Kabir](https://open.spotify.com/artist/6xB458m3PTcThjtZgXcNws) | [What's Going On](https://open.spotify.com/album/3vKTKh8cexyD1kqbJdNwqg) | 2:06 | 2022-07-08 | 2022-08-18 |

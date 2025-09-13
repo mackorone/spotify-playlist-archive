@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Edwin Rosen
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,380 likes - 101 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,423 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,18 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 86 | [ur gf](https://open.spotify.com/track/0PqnLIwJi5ikmE53xvoPl4) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [milk & honey](https://open.spotify.com/album/2mSTkRkw7ukApj7hTm9uwl) | 2:53 |
 | 87 | [nicht gefragt](https://open.spotify.com/track/0JHjZJm015P2Qtj780ddI8) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [nicht gefragt](https://open.spotify.com/album/7ILF9Lr0NWZbZiUniwVvRh) | 2:18 |
 | 88 | [So Far So Fake](https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:56 |
-| 89 | [Shine Like Stars](https://open.spotify.com/track/1k2OaUl9NGaBA4wa3Ommvc) | [Benji](https://open.spotify.com/artist/4VmGrnGFwIKUkAGfKfeVOo) | [Shine Like Stars](https://open.spotify.com/album/1I2mvRHxNIPa5HeHaVjtWn) | 3:46 |
-| 90 | [MP3](https://open.spotify.com/track/00zEYh3JTo06GVPtgMh3Qo) | [S1RENA](https://open.spotify.com/artist/6CvM2CYmcK06XVbI1qI4SW) | [MP3 M1XTAPE](https://open.spotify.com/album/79sd4BgSWDXoVzQIJMUgmz) | 1:53 |
-| 91 | [da ist niemand](https://open.spotify.com/track/2D84LDQMndBqf5AvwaVyPZ) | [Ben Factor](https://open.spotify.com/artist/16Z37kyA2PJ85ppgwBAHtC), [Pbb Yea](https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9) | [da ist niemand](https://open.spotify.com/album/5eldM9F0Ef29Tm48XGwhxW) | 1:38 |
-| 92 | [SEE RIGHT THROUGH ME \(feat\. Kehlani\)](https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 4:16 |
-| 93 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 |
-| 94 | [Verliebt](https://open.spotify.com/track/2wctsmT5xcCOPa5hE0lB5R) | [MARNELE](https://open.spotify.com/artist/0IYqTMlpmVrLsnpyHyvbxv) | [Verliebt](https://open.spotify.com/album/6EGc1cDGGM32e0I6sSBQEH) | 2:23 |
-| 95 | [Glückssträhne](https://open.spotify.com/track/2dwFT3ep5vjTmieRLJUlt1) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [Glückssträhne](https://open.spotify.com/album/0rw9j3JpihgYfnKXZVKXjs) | 2:55 |
-| 96 | [Dolce Vita](https://open.spotify.com/track/3ShBAG35gU9uz8ir4uqBrz) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Dolce Vita](https://open.spotify.com/album/2YXykNX1ijXo9Yc8Kw5Pol) | 2:38 |
-| 97 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
-| 98 | [Super Shiny Forehead Core](https://open.spotify.com/track/5R3Q0IgMgXhXShkolUGCj2) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Super Shiny Forehead Core](https://open.spotify.com/album/0klnD5YQrCqc5ADr41rPnV) | 2:11 |
-| 99 | [Kleines Mädchen große Träume](https://open.spotify.com/track/34y5yuvWwxO93Ws1Ng0PVw) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr), [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Kleines Mädchen große Träume](https://open.spotify.com/album/39d8JB3Nil2U7iAPqQcMLd) | 2:11 |
-| 100 | [Männergrippe](https://open.spotify.com/track/6UZmCixV2nEzLIdFKfkWlt) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Männergrippe](https://open.spotify.com/album/6WBEMwQ40QCKDv3Iaf9Zwv) | 2:02 |
-| 101 | [Kotti d'Azur](https://open.spotify.com/track/1DoKidkFLUJeiFtmhmUQm5) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Kotti d'Azur](https://open.spotify.com/album/70K6Hp3TXk8gAgabJFtcPB) | 2:43 |
+| 89 | [MP3](https://open.spotify.com/track/00zEYh3JTo06GVPtgMh3Qo) | [S1RENA](https://open.spotify.com/artist/6CvM2CYmcK06XVbI1qI4SW) | [MP3 M1XTAPE](https://open.spotify.com/album/79sd4BgSWDXoVzQIJMUgmz) | 1:53 |
+| 90 | [da ist niemand](https://open.spotify.com/track/2D84LDQMndBqf5AvwaVyPZ) | [Ben Factor](https://open.spotify.com/artist/16Z37kyA2PJ85ppgwBAHtC), [Pbb Yea](https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9) | [da ist niemand](https://open.spotify.com/album/5eldM9F0Ef29Tm48XGwhxW) | 1:38 |
+| 91 | [SEE RIGHT THROUGH ME \(feat\. Kehlani\)](https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 4:16 |
+| 92 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 |
+| 93 | [Verliebt](https://open.spotify.com/track/2wctsmT5xcCOPa5hE0lB5R) | [MARNELE](https://open.spotify.com/artist/0IYqTMlpmVrLsnpyHyvbxv) | [Verliebt](https://open.spotify.com/album/6EGc1cDGGM32e0I6sSBQEH) | 2:23 |
+| 94 | [Glückssträhne](https://open.spotify.com/track/2dwFT3ep5vjTmieRLJUlt1) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [Glückssträhne](https://open.spotify.com/album/0rw9j3JpihgYfnKXZVKXjs) | 2:55 |
+| 95 | [Dolce Vita](https://open.spotify.com/track/3ShBAG35gU9uz8ir4uqBrz) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Dolce Vita](https://open.spotify.com/album/2YXykNX1ijXo9Yc8Kw5Pol) | 2:38 |
+| 96 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
+| 97 | [Super Shiny Forehead Core](https://open.spotify.com/track/5R3Q0IgMgXhXShkolUGCj2) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Super Shiny Forehead Core](https://open.spotify.com/album/0klnD5YQrCqc5ADr41rPnV) | 2:11 |
+| 98 | [Kleines Mädchen große Träume](https://open.spotify.com/track/34y5yuvWwxO93Ws1Ng0PVw) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr), [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Kleines Mädchen große Träume](https://open.spotify.com/album/39d8JB3Nil2U7iAPqQcMLd) | 2:11 |
+| 99 | [Männergrippe](https://open.spotify.com/track/6UZmCixV2nEzLIdFKfkWlt) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Männergrippe](https://open.spotify.com/album/6WBEMwQ40QCKDv3Iaf9Zwv) | 2:02 |
+| 100 | [Kotti d'Azur](https://open.spotify.com/track/1DoKidkFLUJeiFtmhmUQm5) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Kotti d'Azur](https://open.spotify.com/album/70K6Hp3TXk8gAgabJFtcPB) | 2:43 |
 
-Snapshot ID: `AAAAABvDYok5Ki/bgwsgpbNZOSgxG3SS`
+Snapshot ID: `AAAAAJQ0WS6Z4YxHUwkQhgWxOt0KmBem`

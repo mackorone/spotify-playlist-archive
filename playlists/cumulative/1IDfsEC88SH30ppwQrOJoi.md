@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-421 songs - 21 hr 42 min
+422 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 | 2023-10-13 | 2024-08-03 |
 | [Jet Setter](https://open.spotify.com/track/7Em4GDCn2OgQSZ39s5OiRc) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Yeah Boy](https://open.spotify.com/artist/42ZsyPZ66sNbbjyeY9G2Au) | [Jet Setter](https://open.spotify.com/album/59CWlHTdKkVuLT9LcDdO8U) | 2:54 | 2024-09-27 |  |
 | [Jungle](https://open.spotify.com/track/0yVNtNWZshsOXu0GLWp07P) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Jungle](https://open.spotify.com/album/4eZtcLOUFdM3ScPCGERBvx) | 3:31 | 2024-08-23 |  |
+| [KIDS](https://open.spotify.com/track/2FseetX4Od9OkF80RiQQW8) | [Dan Heist](https://open.spotify.com/artist/58sSgXdraXhUDJviQD4ZNS) | [KIDS](https://open.spotify.com/album/3g2krLRAh7gyo34ZByhHF6) | 3:20 | 2025-09-12 |  |
 | [Kids](https://open.spotify.com/track/0OaocSJofzn35x0d1zYBkG) | [Flexxus](https://open.spotify.com/artist/0KIOQL6cgarrHCSaIdIMJv) | [Kids](https://open.spotify.com/album/7BjiTaogvuGSkQQ8U6KCPR) | 2:10 | 2023-11-03 | 2024-03-14 |
 | [Kill For This Shit \(feat\. Young Dolph\)](https://open.spotify.com/track/5ScpTvVlLoTG9pEJiO1LZF) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Kill For This Shit \(feat\. Young Dolph\)](https://open.spotify.com/album/0WEHkvTwLphaOKZMM1kpok) | 3:17 | 2024-03-13 |  |
 | [La Bomba](https://open.spotify.com/track/3mp0R7UzCB9tP0tjBCtGr0) | [Aphesta](https://open.spotify.com/artist/7zWSFa0jzUynkGowMgzH46) | [Wet Mode](https://open.spotify.com/album/2zJnjm8f9oJjOnnnRhRYMw) | 2:29 | 2025-06-02 |  |

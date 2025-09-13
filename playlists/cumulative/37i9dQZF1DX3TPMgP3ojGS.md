@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,817 songs - 3 day 9 hr 26 min
+1,820 songs - 3 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Bloom](https://open.spotify.com/track/7wilNobfinzsRr8ey92TIX) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Bloom](https://open.spotify.com/album/5WGW2OzIOgLix003qTTthr) | 2:35 | 2021-12-21 | 2022-07-27 |
 | [Blue](https://open.spotify.com/track/1MxHKxjuUwyBw0uREfYyKZ) | [Clarence Öfwerman](https://open.spotify.com/artist/58c41fbN8x9viByYPYSdSc) | [Blue](https://open.spotify.com/album/4bKozDx7DQxvaLrX38Ntpv) | 3:08 | 2021-03-15 | 2022-04-11 |
 | [Blue Aurora](https://open.spotify.com/track/2XUDxWhpULyCwZ6tSyAULr) | [Kim Alvez](https://open.spotify.com/artist/24U3alIirCYs7TMOlIVEAv) | [Blue Aurora](https://open.spotify.com/album/3BQjjetj53tqBx2KgLNlHc) | 2:14 | 2021-04-29 | 2022-05-29 |
-| [Blue Skies Are Coming](https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Lupi](https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68) | 2:52 | 2021-11-26 |  |
+| [Blue Skies Are Coming](https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Lupi](https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68) | 2:52 | 2021-11-26 | 2025-09-13 |
 | [Bluebird](https://open.spotify.com/track/2NW5l5VDQNbt7IIS6SAZH6) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Bluebird](https://open.spotify.com/album/3JpEvq41EcVub0QNEhlwvH) | 3:07 | 2022-04-20 | 2022-07-24 |
 | [Bluebird \(Solo Piano Version\)](https://open.spotify.com/track/3LQwGnHo2iHiRGbLl5aPXQ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Bluebird \(Solo Piano Version\)](https://open.spotify.com/album/1DsyDD6mimG3xUjdCvPFSz) | 3:24 | 2021-03-17 | 2022-07-29 |
 | [Bona Fide](https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Bona Fide](https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC) | 2:37 | 2023-12-26 |  |
@@ -702,7 +702,7 @@
 | [Hvorhen du end går](https://open.spotify.com/track/6fwGU5vdnXBUHiEMW7FAnB) | [VIbeke Holst\-Tofte](https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h) | [Hvorhen du end går](https://open.spotify.com/album/5GPuiMrxFPHRBES2itNeYp) | 2:28 | 2021-04-30 | 2021-12-18 |
 | [Hymn](https://open.spotify.com/track/68MFyn8QAEd9DknwOj4E9n) | [Carl Stark Willgold](https://open.spotify.com/artist/6NlWW71ojh1uY2qoQorYr9) | [Hymn](https://open.spotify.com/album/2LMgrkLAH33GhIH5EQd6bq) | 2:05 | 2021-03-06\* | 2021-03-07 |
 | [Hymn](https://open.spotify.com/track/6g2oJDJp7HYh8rkG0tu5A2) | [Frans Kulick](https://open.spotify.com/artist/6RBboCQThobAlgyvheFKEe) | [Sleepy Baby Piano](https://open.spotify.com/album/4F64kqOUZucHOwcfftBJ5u) | 3:13 | 2022-03-29 | 2022-04-13 |
-| [Hymn](https://open.spotify.com/track/1fyzSisXLaQ552QD31P4ot) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Hymn](https://open.spotify.com/album/0Qy2yQC2LvEBpEDC8PMr89) | 2:57 | 2022-03-24 |  |
+| [Hymn](https://open.spotify.com/track/1fyzSisXLaQ552QD31P4ot) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Hymn](https://open.spotify.com/album/0Qy2yQC2LvEBpEDC8PMr89) | 2:57 | 2022-03-24 | 2025-09-13 |
 | [Hymn](https://open.spotify.com/track/4FOhzTO7AErvRzEmI08qTv) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Amélie](https://open.spotify.com/album/49DC7zrTAsk81BJdFxrKJM) | 2:23 | 2021-03-18 | 2022-07-22 |
 | [Hymne d'été](https://open.spotify.com/track/1BMXuo67CPYuccFQO0r0v9) | [Gael Motif](https://open.spotify.com/artist/5Cekx8y4a1ldk7upl3DTe3) | [Hymne d'été](https://open.spotify.com/album/5BqIJ93b8hXkeVY2LMPj1G) | 2:14 | 2021-09-15 | 2022-04-09 |
 | [Høstsol](https://open.spotify.com/track/4WSd5HfPN9mlJl4lSzoXw4) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Høstsol](https://open.spotify.com/album/17kenhwkiIX1zmroBRnfdH) | 2:09 | 2021-03-20 | 2022-04-22 |
@@ -919,7 +919,7 @@
 | [Love Is About Daily Leaps](https://open.spotify.com/track/1Ja4NlTHvkVc45El8wpDHC) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Love Is \_\_ \(Music From The Original TV Series\)](https://open.spotify.com/album/3CGjYf6qmtumZFTnLXv7iE) | 4:00 | 2021-05-25 | 2022-07-22 |
 | [Love Theme](https://open.spotify.com/track/0lSZUzGi4EBc1Q0HqynTqO) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Love Theme](https://open.spotify.com/album/5trgrL7pUh0OyxMRsxztyk) | 2:59 | 2022-02-15 | 2022-10-01 |
 | [Love to Give](https://open.spotify.com/track/197gAis0L7q9xIFreP0cGA) | [Evelyn Haidu](https://open.spotify.com/artist/0KLuY1vs0XOszyBK0zwAq0) | [The Window](https://open.spotify.com/album/2qZEwFZ6xmtvVAOPaKEMpQ) | 3:17 | 2021-03-18 | 2022-04-07 |
-| [Luce](https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Luce](https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H) | 2:10 | 2023-11-21 |  |
+| [Luce](https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Luce](https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H) | 2:10 | 2023-11-21 | 2025-09-13 |
 | [Lucida](https://open.spotify.com/track/316nnoeN99STxwMJWNnH0a) | [Odin Sørlie](https://open.spotify.com/artist/5El7zD8iCQu87fDwPBlPbN) | [Lucida](https://open.spotify.com/album/5ddAstd0V5H42ABq8olDSE) | 2:07 | 2021-05-14 | 2021-12-20 |
 | [Lucienda](https://open.spotify.com/track/53TDpUUYxE0KGPVhdkNpOn) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Lucienda](https://open.spotify.com/album/65syZRHtM5IwwyjwDbhh0z) | 2:51 | 2022-07-14 | 2022-07-29 |
 | [Lullaby](https://open.spotify.com/track/2x9QbyrXlsIzZkC6vujcha) | [Elvin Adams](https://open.spotify.com/artist/272IydxAD2nQmIsCTMpCJZ) | [Lullaby](https://open.spotify.com/album/2sdvqdVN8jmAHgfcMUayJA) | 2:28 | 2021-03-17 | 2022-07-21 |
@@ -1635,6 +1635,7 @@
 | [Tout, sauf mon ombre](https://open.spotify.com/track/18gxWtwvPc7BtLfcL52K9i) | [Corrine Chloé](https://open.spotify.com/artist/1BjYghTaiPxeWiLObrvsyR) | [Tout, sauf mon ombre](https://open.spotify.com/album/3b2kYxC690HiyzFYxcgzYY) | 3:02 | 2021-10-13 | 2022-04-20 |
 | [Toužebný](https://open.spotify.com/track/3I36NaLQR6zCn5Y2stUg9H) | [Jan Kubec](https://open.spotify.com/artist/1qalElRe3QyFhucbpFX9On) | [Toužebný](https://open.spotify.com/album/79wxphlSK7Xj0dUCMiK7SS) | 2:14 | 2021-03-06\* | 2022-03-28 |
 | [Tra Di Noi](https://open.spotify.com/track/7yJJuCckCfvjuIVDK96KlL) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Tra Di Noi](https://open.spotify.com/album/0J5qqU8x786MCP07FHgJGa) | 2:30 | 2021-03-22 | 2022-04-16 |
+| [Trail](https://open.spotify.com/track/6d9imovORU4yeJspAk95cE) | [Kenshiro Matsuo](https://open.spotify.com/artist/5kxfzBE0JvuXtV4hmaUuvo) | [Trail](https://open.spotify.com/album/0FLftuEtzLapBWyGXDval3) | 2:02 | 2025-09-11 |  |
 | [Trail of Light](https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:18 | 2021-03-24 | 2022-07-28 |
 | [Tramonto Sul Mugello](https://open.spotify.com/track/3Z1iMbGEDRnQeQd5zCBSFU) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Tramonto Sul Mugello](https://open.spotify.com/album/1YjBkOBztQeKQOvRdIrrJC) | 3:54 | 2021-03-07 | 2022-04-14 |
 | [Tranquillity waltz](https://open.spotify.com/track/4httQXCwO5j2i57mmJZvFL) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Tranquillity waltz](https://open.spotify.com/album/3QMb20fXVrYo4PcZVlkmbq) | 1:58 | 2023-08-22 | 2023-12-12 |
@@ -1824,6 +1825,8 @@
 | [Échelle](https://open.spotify.com/track/2QKdAMS5nL4aAH8pg7NHlm) | [Satordi de Launay](https://open.spotify.com/artist/4NZ53ctU4KWRID8Y431vhq) | [Échelle](https://open.spotify.com/album/1kV6tLaBDsR4t2xaSmVVzJ) | 0:59 | 2021-05-16 | 2022-04-02 |
 | [森の住人](https://open.spotify.com/track/4hxnwRWpuL8J4S5oOtl9jT) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [神様のメロディ](https://open.spotify.com/album/1xtbw2HzyWubGlsgO2gEGe) | 5:39 | 2025-01-21 |  |
 | [管弦楽組曲 第3番 ニ長調 BWV 1068: G線上のアリア](https://open.spotify.com/track/4uSFOXu5fSfbWMLsNPikp0) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Miyuji Kaneko](https://open.spotify.com/artist/1P9zpzupo4lDtMYqC96WLE) | [管弦楽組曲 第3番 ニ長調 BWV 1068: G線上のアリア](https://open.spotify.com/album/3JNTQwUs7ggr8fsFiVNhuC) | 3:34 | 2022-03-01 | 2022-07-29 |
+| [還る](https://open.spotify.com/track/4SsJaHSydoIr3cYwxPKwfU) | [田中タリラ](https://open.spotify.com/artist/1xQC7gNhUDSY1IfQvF8fou) | [還る](https://open.spotify.com/album/6GsJjr8oBbjvXmNOLwYVRk) | 4:23 | 2025-09-11 |  |
+| [陽だまり](https://open.spotify.com/track/5m8CY9GToqHZDzdWvF1kl3) | [Amane](https://open.spotify.com/artist/08kVeFrSyMxCN8sAUJeRHr) | [陽だまり](https://open.spotify.com/album/0IdaqRT4ULMBDNjkEKzMn9) | 2:40 | 2025-09-11 |  |
 | [어스름](https://open.spotify.com/track/5z7sxlo3kf8eg8s3Zkb8dQ) | [Woong Sun Hee](https://open.spotify.com/artist/1HYFlkIP8WNiSu2E5R5Txx) | [어스름](https://open.spotify.com/album/6dTC18Wb6YRS6nDpFSOn8A) | 1:38 | 2021-05-03 | 2022-04-03 |
 
 \*This playlist was first scraped on 2021-03-06. Prior content cannot be recovered.

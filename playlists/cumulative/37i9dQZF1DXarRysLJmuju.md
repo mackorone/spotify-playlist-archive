@@ -2,7 +2,7 @@
 
 ### [Pop All Day](https://open.spotify.com/playlist/37i9dQZF1DXarRysLJmuju)
 
-> The latest in pop\. Cover: Faouzia
+> The latest in pop\. Cover: Lady Gaga
 
 2,409 songs - 5 day 1 hr 44 min
 

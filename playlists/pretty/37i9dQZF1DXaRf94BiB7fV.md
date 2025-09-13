@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Katya Krishnan
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,173 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,183 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 58 | [Qurbat](https://open.spotify.com/track/1lqimyRZTU10J1YpRtW7QY) | [Rohan Saikia](https://open.spotify.com/artist/2fPvpAYez7gRgVqCl9PNE9), [Mayukh](https://open.spotify.com/artist/19I0L8PB44SSGiPhpIjdmr), [Madhurjya Shivam](https://open.spotify.com/artist/0T9Vt9wKDa2pChvnb0rArh) | [Qurbat](https://open.spotify.com/album/3CVJsfvfp42W9qCkjvDXkp) | 3:13 |
 | 59 | [Raste Hi Raste](https://open.spotify.com/track/2CdcHa7yatV3eGZ57isis0) | [Prashant Marathe](https://open.spotify.com/artist/2j8QqSWMojyNw3aNnRB4kV) | [Raste Hi Raste](https://open.spotify.com/album/02FELdvey9RZeqgZ81LRYc) | 3:28 |
 | 60 | [Tere Liye Hoon](https://open.spotify.com/track/0jYBc6mUEfYj28V8exsscM) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k), [Rehna Shaz](https://open.spotify.com/artist/0sqtUy5FyYwyRptp7SOx44), [Prashant Marathe](https://open.spotify.com/artist/2j8QqSWMojyNw3aNnRB4kV) | [Tere Liye Hoon](https://open.spotify.com/album/4zua5RQehQjrrAuqlRIzfo) | 3:14 |
-| 61 | [Jaaneya](https://open.spotify.com/track/5ttfXRXP1XgDieXwRnPSKL) | [Kartikeya Chaturvedi](https://open.spotify.com/artist/2fAkgqhof6QSWqx0ZYogDO) | [Jaaneya](https://open.spotify.com/album/6scixP46fuDRrX5XxfPsgY) | 4:08 |
+| 61 | [Jaaneya](https://open.spotify.com/track/5ttfXRXP1XgDieXwRnPSKL) | [Kartikeya Chaturvedi](https://open.spotify.com/artist/2fAkgqhof6QSWqx0ZYogDO), [Bhakti Modak](https://open.spotify.com/artist/77dZIsR8mzDxS1Duz7V44a) | [Jaaneya](https://open.spotify.com/album/6scixP46fuDRrX5XxfPsgY) | 4:08 |
 | 62 | [Julie](https://open.spotify.com/track/5iwjgcMnLYJktYFQAwkKJC) | [AtharvaMusic](https://open.spotify.com/artist/689wgdJ8FExzGjaiehjfTS), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Julie](https://open.spotify.com/album/78HskG3sohsjIhYQlSDCj7) | 3:19 |
 | 63 | [Main Aur Tu](https://open.spotify.com/track/1tMcyG1edG9yZwO6tr055j) | [Akshita Mengi](https://open.spotify.com/artist/6KK9WCRaOCuchdB9Ot2FLV) | [Main Aur Tu](https://open.spotify.com/album/3IJrECvqZgScqhv7O3F6Ux) | 2:07 |
 | 64 | [Chadiyo Na](https://open.spotify.com/track/6RcryU4sG376VcoaGwQxJr) | [Sarthak Saksena](https://open.spotify.com/artist/3rGPKj1qScQgEsDyL8PKfu), [Moin](https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti) | [Chadiyo Na](https://open.spotify.com/album/0c8prOyk2s1apZ6F93dOb8) | 2:55 |

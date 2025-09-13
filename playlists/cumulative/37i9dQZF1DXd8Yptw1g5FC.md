@@ -4,7 +4,7 @@
 
 > Sertab Erener ve haftanın en iyi çıkışları!
 
-3,184 songs - 6 day 16 hr 40 min
+3,186 songs - 6 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -672,7 +672,7 @@
 | [Cinema Inferno](https://open.spotify.com/track/1NaJax5gLzYLmpPMVzmVtB) | [Kana Kana](https://open.spotify.com/artist/79m8TbKxx4eO0G80RgmZox) | [Cinema Inferno](https://open.spotify.com/album/33ny2JjFX0x88TwzM0wrii) | 3:21 | 2025-04-24 | 2025-05-02 |
 | [Cinnamon](https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Cinnamon](https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3) | 2:42 | 2025-08-28 | 2025-09-05 |
 | [Circle of Trust](https://open.spotify.com/track/76x9lsvahKXzPQVIJQLhDp) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Pink Elephant](https://open.spotify.com/album/5qLTlCTZvN24Fm1nqd7XCV) | 6:05 | 2025-05-08 | 2025-05-16 |
-| [City Walls](https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [](https://open.spotify.com/album/null) | 5:22 | 2025-09-11 |  |
+| [City Walls](https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 5:22 | 2025-09-11 |  |
 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-05-22 | 2025-05-30 |
 | [Close to you](https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Close to you](https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP) | 1:43 | 2025-06-19 | 2025-06-27 |
 | [cLOUDs](https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [cLOUDs](https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex) | 4:02 | 2025-02-27 | 2025-03-07 |
@@ -1342,7 +1342,7 @@
 | [I Hate That It's True](https://open.spotify.com/track/6H4stZ1AHlYnKl9iii1bvF) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [I Hate That It's True](https://open.spotify.com/album/4Bx9UDgMFGH2hyqm9Gia4P) | 2:41 | 2025-04-10 | 2025-04-18 |
 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 | 2025-02-20 | 2025-02-28 |
 | [I Know You'd Kill](https://open.spotify.com/track/44rqdhvXIFXY30GPejON8Y) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [I Know You'd Kill](https://open.spotify.com/album/4Q3C0YpuMPVrIO857IZqGD) | 2:54 | 2025-03-20 | 2025-03-28 |
-| [I Met A Boy](https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [](https://open.spotify.com/album/null) | 2:57 | 2025-09-11 |  |
+| [I Met A Boy](https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:57 | 2025-09-11 |  |
 | [I Saw the Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw the Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 | 2025-05-15 | 2025-05-23 |
 | [i wish i could](https://open.spotify.com/track/0gV38ZHVWVVNcyZzezQnV2) | [Mariana Tereso](https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu) | [i wish i could](https://open.spotify.com/album/5gklbKhbNbpEq6PBPtDIdm) | 2:43 | 2025-02-27 | 2025-03-07 |
 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 | 2025-08-21 | 2025-08-29 |
@@ -1551,6 +1551,7 @@
 | [Karaoğlan](https://open.spotify.com/track/4flyPmZc9beqxpACSgraC7) | [Zelişah & Mustafa](https://open.spotify.com/artist/53B9LpOHjwjCIG3AchEzfq), [Zelişah](https://open.spotify.com/artist/5udJW11D92UmG6OrwnLxbi), [Mustafa Altınkaya](https://open.spotify.com/artist/1J7leVHT6SogY5Jzu8bMQY) | [Karaoğlan](https://open.spotify.com/album/6wlBkOOjzwX9eAuWGzPpsq) | 2:34 | 2025-07-24 | 2025-08-01 |
 | [Karayazı](https://open.spotify.com/track/4YyJsVunDC6MKQMWDvQBVH) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Karayazı](https://open.spotify.com/album/0zRYazkaEMQbCb5ZgEzfbQ) | 2:02 | 2025-03-06 | 2025-03-14 |
 | [Kardan Adamlar](https://open.spotify.com/track/0b6zlBifW5drsBAwcjQ9Sf) | [ZAMA](https://open.spotify.com/artist/5yu0jAfDrCDCuXsmSvNnRb) | [Kardan Adamlar](https://open.spotify.com/album/7gwlyTcltWsPjnksUu00Bn) | 2:58 | 2025-06-19 | 2025-06-27 |
+| [Kardelen](https://open.spotify.com/track/2FNLtACGFszIOMXCHFixpb) | [Ahmet Mungan](https://open.spotify.com/artist/2xFH2zKZ3l7keEEv21tXKZ) | [Kardelen](https://open.spotify.com/album/1G19XDspvSNWdAkg31bHDh) | 2:26 | 2025-09-11 |  |
 | [Kardeş](https://open.spotify.com/track/1unnxQFfZAn5tFTpq46fuX) | [Groz](https://open.spotify.com/artist/2dg2w8X3b1Sjh4MMzXkfXx) | [Kardeş](https://open.spotify.com/album/7yW2aeqX2sLcS5xXiBfeh0) | 2:25 | 2025-07-31 | 2025-08-09 |
 | [KARDOSTATION](https://open.spotify.com/track/0k9VG87YOnvPRG5mq0CXvS) | [Amentu](https://open.spotify.com/artist/1DoViijiLgIvYxypbq0sCS) | [KARDOSTATION](https://open.spotify.com/album/54WKr7DFNy2hQ19AphgCAn) | 2:00 | 2025-03-06 | 2025-03-14 |
 | [Karma](https://open.spotify.com/track/2itq7IbKoWjhEsLTaHkI7g) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [Karma](https://open.spotify.com/album/6yWY1X3IAyi6IIuTY5Li3v) | 3:12 | 2025-07-17 | 2025-07-25 |
@@ -2122,6 +2123,7 @@
 | [PEŞİNDEYİM](https://open.spotify.com/track/6vwqj2YtO60U0dtilViSIo) | [Berkay Duman](https://open.spotify.com/artist/797U4xKy4p5Vi8vpWzJRD6), [KEIN](https://open.spotify.com/artist/0NgwbngKjnsiflJGX8wint) | [PEŞİNDEYİM](https://open.spotify.com/album/5rY9vpAZVp7tGDoeaGMVHT) | 2:34 | 2025-07-24 | 2025-08-01 |
 | [Phantom](https://open.spotify.com/track/6Dj5lEggc3Jq3pJbKrSAut) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Phantom](https://open.spotify.com/album/2TQtvkf52D9sOjUyKpMIlh) | 1:50 | 2025-08-21 | 2025-08-29 |
 | [Phases](https://open.spotify.com/track/6NzoVYiCWulsOECuaXDazA) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Phases](https://open.spotify.com/album/3msLrvkMWgzkEMM0HTmTxJ) | 3:04 | 2025-09-11 |  |
+| [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC) | 2:44 | 2025-09-11 |  |
 | [PINYATA](https://open.spotify.com/track/1Nkfkc4zwqseUObLxzmaBG) | [Cotard](https://open.spotify.com/artist/0OR34vxRvcPuyDK9s7EuQ8), [Young Mess](https://open.spotify.com/artist/3lqYLybktyF2fA8CguBQCZ), [Aqtaii](https://open.spotify.com/artist/6Dg5SYLT3x8OBSBRJkx6gX), [Azure Wrath](https://open.spotify.com/artist/4jkgIFWljOfnbcE1fkwcQX) | [PINYATA](https://open.spotify.com/album/4lfXG0zWV6PHu70m8Rq5YX) | 2:37 | 2025-03-06 | 2025-03-14 |
 | [Pirus Zaferi](https://open.spotify.com/track/5CY7pn9FiXmAC0LEhDBctu) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Pirus Zaferi](https://open.spotify.com/album/4TdieX4nzF4PcLTd7Ywe8X) | 2:54 | 2025-06-05 | 2025-06-13 |
 | [Pişman Mısın?](https://open.spotify.com/track/4SnRiESCUvb11VivJzFETi) | [Zilan Küçükbalaban](https://open.spotify.com/artist/49y2npUybja4TNJv4soStK) | [Pişman Mısın?](https://open.spotify.com/album/2ZLkosnFQUlzJJH0ZftNT7) | 2:22 | 2025-08-14 | 2025-08-22 |

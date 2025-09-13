@@ -1797,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183536,
+      "name": "Mr. Nobody",
+      "url": "https://open.spotify.com/track/2nKAJsGygU8lWxd8VE6kjU"
+    },
+    {
+      "album": {
         "name": "Nessuno",
         "url": "https://open.spotify.com/album/5Ev6Kga0Mc8swJ7u9JPSPU"
       },

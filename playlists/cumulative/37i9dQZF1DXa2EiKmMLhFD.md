@@ -2,7 +2,7 @@
 
 ### [Hot Hits Indonesia](https://open.spotify.com/playlist/37i9dQZF1DXa2EiKmMLhFD)
 
-> Hits terpanas dari Sabrina Carpenter, Rombongan Bodonk Koplo  serta artis terfavorit Anda dari dalam negeri dan mancanegara.
+> Hits terpanas dari sombr, .Feast, Ed Sheeran serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
 342 songs - 21 hr 14 min
 

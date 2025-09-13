@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 45904,
+  "num_followers": 45920,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -263,26 +263,6 @@
     {
       "added_at": "2025-09-05 00:01:31",
       "album": {
-        "name": "Very Soon",
-        "url": "https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 137100,
-      "name": "Very Soon",
-      "url": "https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5"
-    },
-    {
-      "added_at": "2025-09-05 00:01:31",
-      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 205373,
       "name": "Slow (feat. Ana\u00efs Cardot)",
       "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
+    },
+    {
+      "added_at": "2025-09-05 00:01:31",
+      "album": {
+        "name": "Very Soon",
+        "url": "https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 137100,
+      "name": "Very Soon",
+      "url": "https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5"
     },
     {
       "added_at": "2025-09-05 00:01:31",
@@ -503,6 +503,26 @@
     {
       "added_at": "2025-09-05 00:01:31",
       "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 144657,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75"
+    },
+    {
+      "added_at": "2025-09-05 00:01:31",
+      "album": {
         "name": "[I.N.I.T] In Nasboi I Trust",
         "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
       },
@@ -519,30 +539,6 @@
       "duration_ms": 137962,
       "name": "Could This Be Love",
       "url": "https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC"
-    },
-    {
-      "added_at": "2025-09-05 00:01:31",
-      "album": {
-        "name": "Control (with Joeboy & Bella Shmurda)",
-        "url": "https://open.spotify.com/album/3Uw9jJDZqTVdE0JAl7Za1a"
-      },
-      "artists": [
-        {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "Control (with Joeboy & Bella Shmurda)",
-      "url": "https://open.spotify.com/track/4wdWoMwW8W4HfKj49XQm0S"
     },
     {
       "added_at": "2025-09-05 00:01:31",
@@ -643,22 +639,26 @@
     {
       "added_at": "2025-09-05 00:01:31",
       "album": {
-        "name": "Lifestyle",
-        "url": "https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5"
+        "name": "Control (with Joeboy & Bella Shmurda)",
+        "url": "https://open.spotify.com/album/3Uw9jJDZqTVdE0JAl7Za1a"
       },
       "artists": [
         {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
         },
         {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 144657,
-      "name": "Forget",
-      "url": "https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75"
+      "duration_ms": 185880,
+      "name": "Control (with Joeboy & Bella Shmurda)",
+      "url": "https://open.spotify.com/track/4wdWoMwW8W4HfKj49XQm0S"
     },
     {
       "added_at": "2025-09-05 00:01:31",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2025-09-05 00:01:31",
       "album": {
+        "name": "ODABO",
+        "url": "https://open.spotify.com/album/4RHU8YObN5ELcnHs4IVeXR"
+      },
+      "artists": [
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "NOBODY KNOW",
+      "url": "https://open.spotify.com/track/5Dg5iu5kzOP7Cdp6DT9jCF"
+    },
+    {
+      "added_at": "2025-09-05 00:01:31",
+      "album": {
         "name": "Synergy",
         "url": "https://open.spotify.com/album/0Gnu0tAKZ8BciRDgFP7pr0"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 153803,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/7cNbtgxY30NhUlygagOonu"
-    },
-    {
-      "added_at": "2025-09-05 00:01:31",
-      "album": {
-        "name": "ODABO",
-        "url": "https://open.spotify.com/album/4RHU8YObN5ELcnHs4IVeXR"
-      },
-      "artists": [
-        {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "NOBODY KNOW",
-      "url": "https://open.spotify.com/track/5Dg5iu5kzOP7Cdp6DT9jCF"
     },
     {
       "added_at": "2025-09-05 00:01:31",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2025-09-05 00:01:31",
       "album": {
-        "name": "131 (EP)",
-        "url": "https://open.spotify.com/album/1x9kTzzq1OHHjKA8KzI8sO"
-      },
-      "artists": [
-        {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
-        },
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Behind (with Joshua Baraka)",
-      "url": "https://open.spotify.com/track/64YJeGo9tXmfvRTPcv9rcP"
-    },
-    {
-      "added_at": "2025-09-05 00:01:31",
-      "album": {
         "name": "Lose My Mind - A COLORS SHOW",
         "url": "https://open.spotify.com/album/78ifkKkoXwrREDN28GeIez"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 210404,
       "name": "Lose My Mind - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3YnaqBaUzBzqTl0UB4DQJi"
+    },
+    {
+      "added_at": "2025-09-05 00:01:31",
+      "album": {
+        "name": "131 (EP)",
+        "url": "https://open.spotify.com/album/1x9kTzzq1OHHjKA8KzI8sO"
+      },
+      "artists": [
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        },
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Behind (with Joshua Baraka)",
+      "url": "https://open.spotify.com/track/64YJeGo9tXmfvRTPcv9rcP"
     },
     {
       "added_at": "2025-09-05 00:01:31",

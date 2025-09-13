@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Charley Crockett",
+  "description": "Keep your finger on the pulse of Americana. Cover: Brandi Carlile",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -8631,6 +8631,24 @@
     },
     {
       "album": {
+        "name": "Pale, Through the Window",
+        "url": "https://open.spotify.com/album/6hpTU7DqO5EJkjdirMNNH5"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162200,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/3QCC92CeayvexV8Fbd83ee"
+    },
+    {
+      "album": {
         "name": "Mean Old Sun",
         "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
       },
@@ -14268,6 +14286,28 @@
       "duration_ms": 212201,
       "name": "Tide of Love",
       "url": "https://open.spotify.com/track/4lq1JdHhuIs4VOwHhENQvf"
+    },
+    {
+      "album": {
+        "name": "Tied To You (feat. Medium Build)",
+        "url": "https://open.spotify.com/album/6HKGQOW4nrFhGbu9yIC2jk"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        },
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220525,
+      "name": "Tied To You (feat. Medium Build)",
+      "url": "https://open.spotify.com/track/0YrUVLFiFi0udpYkLjgzSt"
     },
     {
       "album": {

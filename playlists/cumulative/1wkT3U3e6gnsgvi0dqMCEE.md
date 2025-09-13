@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-316 songs - 20 hr 39 min
+319 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Another One Bites The Dust \- Live](https://open.spotify.com/track/45mhiVPUphR25oRJ4UEgDz) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen Rock Montreal](https://open.spotify.com/album/2IY3Ty8CrUyvpibt8AcZmp) | 4:00 | 2024-05-23 |  |
 | [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 | 2025-07-18 |  |
 | [Back To Black](https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 4:01 | 2024-05-23 |  |
+| [Band On The Run \- 2010 Remaster](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 | 2025-09-12 |  |
 | [Beautiful Day \- The Perfecto Mix / Remastered 2024](https://open.spotify.com/track/1Sbfug2rLXIWeszhGtc0Tb) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Andy Gray](https://open.spotify.com/artist/4LqKZtouJMsqnHPN813ch7) | [Beautiful Day](https://open.spotify.com/album/4SbnxPaReYpeMTVnC1N6D2) | 7:50 | 2024-07-19 |  |
 | [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 | 2023-10-16 | 2024-05-24 |
 | [Belle promeneuse \- 2025 Remasterisé](https://open.spotify.com/track/5nKfWb9qVCAbeL4QCbCqQ6) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Belle promeneuse \(2025 Remasterisé\)](https://open.spotify.com/album/4xHVEIEQfmu8DoZamAHmW3) | 3:51 | 2025-08-15 |  |
@@ -32,6 +33,7 @@
 | [Best Guess](https://open.spotify.com/track/4zZ1V5x9lvKz2KGpAOP8SV) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Best Guess](https://open.spotify.com/album/7mer2hSbDhEeC6lJvhoSfa) | 4:00 | 2025-02-14 |  |
 | [Beverly Hills](https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Make Believe](https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz) | 3:16 | 2023-10-16 | 2024-05-24 |
 | [BIG MONEY](https://open.spotify.com/track/55Xw7I5I01M0Bs4QW1MNR2) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [BIG MONEY](https://open.spotify.com/album/6pOJaihjrHalPcX6SeuEuH) | 2:34 | 2025-07-11 |  |
+| [Bitter, Bitter You](https://open.spotify.com/track/6wRxkYS7jwIAOJbrGlY15E) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Bitter, Bitter You](https://open.spotify.com/album/68ap6bSu3nNhyycv8HytNm) | 5:22 | 2025-09-12 |  |
 | [Blackbird \- One Hand Clapping Sessions](https://open.spotify.com/track/3qfMHMt2UzbyPkePNKIYDh) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [One Hand Clapping – The Backyard \(One Hand Clapping Sessions\)](https://open.spotify.com/album/6YCmiTHYtzwNuW4DkgzcwI) | 2:34 | 2024-07-19 |  |
 | [Blue Highway \- Demo](https://open.spotify.com/track/6Qt87PqZpDX5KLDLrB1YiU) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell \(Expanded Edition\)](https://open.spotify.com/album/7toLJZQWTgBbSFE07O2s9D) | 4:58 | 2024-05-23 |  |
 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 | 2025-04-18 |  |
@@ -59,6 +61,7 @@
 | [Chloe Dancer/Crown Of Thorns \- 2025 Remaster](https://open.spotify.com/track/6PNs89S0rfoFxgQsaFWbkg) | [Mother Love Bone](https://open.spotify.com/artist/3XR64HmFo4OvexUUNW7TP0) | [Shine \(2025 Remaster\)](https://open.spotify.com/album/7bNHTsFrOIc4sCTQm69M3X) | 8:24 | 2025-08-15 |  |
 | [Chocolate](https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:44 | 2023-10-16 | 2024-05-24 |
 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 | 2023-10-16 | 2024-05-24 |
+| [Comin' Home Baby](https://open.spotify.com/track/3uSicJO7nw0t44vvhRXFHh) | [Holly Cole](https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX) | [Dark Moon \(Expanded\)](https://open.spotify.com/album/3Va0xdnZRhe967o4shAf3V) | 3:31 | 2025-09-12 |  |
 | [Cosmic Love \- BBC Proms at the Royal Albert Hall](https://open.spotify.com/track/2aisf4mcN6SdM2Z4Pjekb2) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Symphony of Lungs \- BBC Proms at the Royal Albert Hall](https://open.spotify.com/album/6qaCznAyIPlFLBbbh2vHub) | 9:11 | 2024-10-25 |  |
 | [Could Have Been Me](https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:07 | 2023-10-16 | 2024-05-24 |
 | [Country Mile](https://open.spotify.com/track/5oD7ZW1uUJL2QMQ4cQyNJ0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Country Mile / Picture Of You \(X+W\)](https://open.spotify.com/album/52GkmdDV5MIcPBgo5L4zFk) | 4:58 | 2024-09-27 |  |

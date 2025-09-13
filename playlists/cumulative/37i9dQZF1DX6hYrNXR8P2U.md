@@ -4,7 +4,7 @@
 
 > porque sí.<br/>📷 tatool y Trueno
 
-542 songs - 1 day 4 hr 22 min
+544 songs - 1 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Atormentada](https://open.spotify.com/track/0KHFf9RtpZyRlcJDHL4AKR) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Vida Real](https://open.spotify.com/album/4LzdHfWwKopzSuUichGbgm) | 3:19 | 2023-11-24 | 2024-02-02 |
 | [AUTOESTIMA](https://open.spotify.com/track/5eIMsg846G1fgvJR3tkJOK) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [AUTOESTIMA](https://open.spotify.com/album/2WIPTovvQmyBCVLBIouNOv) | 2:57 | 2025-04-11 | 2025-06-07 |
 | [AYAYAY \(feat\. Dillom\)](https://open.spotify.com/track/3qZ8kllBS6LoyAW2QtBaJQ) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [AYAYAY \(feat\. Dillom\)](https://open.spotify.com/album/5fnP4WvBKSWYeSVbmtKefP) | 2:59 | 2024-07-19 | 2024-09-14 |
-| [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-05-30 |  |
+| [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-05-30 | 2025-09-13 |
 | [Bailar](https://open.spotify.com/track/1c7mns2I81sJ4QWYcvHvec) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bailar](https://open.spotify.com/album/0amD7KdCrcQDorc6Ljd58H) | 3:11 | 2025-01-10 | 2025-03-08 |
 | [Bajo De La Piel](https://open.spotify.com/track/3io2lDGcBuinTqSvIhQfAk) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Bajo De La Piel](https://open.spotify.com/album/76qJOX4kiSAyRHMicyHjO2) | 2:48 | 2025-09-01 |  |
 | [balearico](https://open.spotify.com/track/1wAkBB3pOOjOPAWnjJKvoh) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [balearico](https://open.spotify.com/album/0Ck8RKyWCJv77wBlgFOPrA) | 2:30 | 2024-08-30 | 2024-11-09 |
@@ -379,6 +379,7 @@
 | [Pensando en Ti](https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Pensando en Ti](https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH) | 2:53 | 2024-03-01 | 2024-08-17 |
 | [PERDÓN](https://open.spotify.com/track/5YSuQJsJoFrEPUSwfydSmj) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [BAM: LA SUITE](https://open.spotify.com/album/7Foru1jdTrjfzOjVkQuYeS) | 2:58 | 2023-11-10 | 2024-07-19 |
 | [PERFUME](https://open.spotify.com/track/04wRhNvu27f04JlvZnazWx) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [PERFUME](https://open.spotify.com/album/2WmyzZpgVIo0DFMQRq4Qkb) | 2:38 | 2024-10-25 | 2025-05-30 |
+| [Pero mi mente no me deja](https://open.spotify.com/track/4LKOMJEmMfaz9SRSkbHn0O) | [NOTA](https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf) | [SUBIDOS AL PONY](https://open.spotify.com/album/46rFn3rJ8c4kvk8gSsLaI0) | 3:59 | 2025-09-12 |  |
 | [Pesar](https://open.spotify.com/track/0kVPTk7BfLGDTqYPdOrysr) | [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI), [Pity Alvarez](https://open.spotify.com/artist/3ZM2EFVMGSXyEqn3l3HA26) | [Pesar](https://open.spotify.com/album/5mpDQEO7EhSLuDrcdZ7Qky) | 4:27 | 2024-10-11 | 2024-11-30 |
 | [Piel](https://open.spotify.com/track/4vrN0RUZKFUGRynUoqbv4u) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Piel](https://open.spotify.com/album/14oOpHIVZQLSWZocLT4Cj2) | 3:29 | 2024-03-29 | 2025-04-04 |
 | [Piola](https://open.spotify.com/track/1K5cL6O2dHT985ad2p1Cbm) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Piola](https://open.spotify.com/album/4WnVzvPrkXDRqPrJIjJ9pz) | 3:01 | 2023-10-13 | 2024-03-23 |
@@ -386,6 +387,7 @@
 | [PIRLO](https://open.spotify.com/track/5NXGXxxSsJo2HBZC1brxj4) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:43 | 2024-04-19 | 2025-02-08 |
 | [PIZZA PARTY](https://open.spotify.com/track/6R3NX7RBEqt2552Wr0AeIj) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [ESPECTACULAR](https://open.spotify.com/album/60cgkcmF1mxBx2fiB0rz5U) | 2:40 | 2025-07-25 |  |
 | [Playita](https://open.spotify.com/track/3zUBGvGynrXKx1sKzTre98) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Sueño Cítrico \(El Día Después\)](https://open.spotify.com/album/1c92815dElLk9cEKctEvEv) | 2:51 | 2023-12-15 | 2024-03-23 |
+| [Plumas y humedad](https://open.spotify.com/track/75ZNu84nTbgM01X5wqNBbg) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [Plumas y humedad](https://open.spotify.com/album/337u698cPXrv8jVClW6wr3) | 2:31 | 2025-09-12 |  |
 | [Pocas Cosas](https://open.spotify.com/track/1dIGSxJ9uI2GAqD0HnotZ4) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mundo Moderno](https://open.spotify.com/album/6bRvXiS5p6KygKxMYGlqGQ) | 2:50 | 2024-09-27 | 2024-10-26 |
 | [podríamos haber hecho todo de una forma tan diferente...](https://open.spotify.com/track/0twSO6QsLPhpzOF7h4AlMq) | [LICHY](https://open.spotify.com/artist/2rhKI3T4T93HZUmR8uF569) | [podríamos haber hecho todo de una forma tan diferente...](https://open.spotify.com/album/4Xolq0qRLScxwQzgtjeC2U) | 1:30 | 2025-05-30 | 2025-07-05 |
 | [Polos](https://open.spotify.com/track/6QhVCcZMEN374iI96HRoV6) | [dinastia](https://open.spotify.com/artist/34y6hMib20KsOtCnuXRNgp), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy), [LvRod](https://open.spotify.com/artist/0KI4UbGY4Tta8GNoMgzTEv) | [POLOS](https://open.spotify.com/album/6n0RntJw1cNybIzjs6Cc7Y) | 1:30 | 2025-04-04 | 2025-05-30 |

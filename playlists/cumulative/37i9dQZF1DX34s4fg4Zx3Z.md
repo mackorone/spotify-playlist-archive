@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Trang Anh
 
-2,181 songs - 5 day 7 hr 51 min
+2,182 songs - 5 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1054,6 +1054,7 @@
 | [Lối Cũ Rêu Phong](https://open.spotify.com/track/37sSLv1ymssI6KLFKxEs7D) | [Chiennhatlang](https://open.spotify.com/artist/71LQEF4uo08r9RIB7eTEAE), [FreshlyRC](https://open.spotify.com/artist/6WMNTpBmbvK4a7yikMwZDn) | [Lối Cũ Rêu Phong](https://open.spotify.com/album/044vx6UpDhtpvkHwb7hbpU) | 4:11 | 2023-06-15 | 2023-08-04 |
 | [Lối Mòn](https://open.spotify.com/track/0ZEXBaCesgzYHyyDyAHceY) | [Fong Báo](https://open.spotify.com/artist/3oL0sKajPgK3f7JDtlQ3x1), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Lối Mòn](https://open.spotify.com/album/6tyx6LvMDoEIcQxg3CyrhF) | 2:29 | 2025-07-22 |  |
 | [Lối Này](https://open.spotify.com/track/0OqfPDViEYNV8fmbGy8ynG) | [Tr.D](https://open.spotify.com/artist/6jiITlNS4hrm3dq90ZDftJ), [Miniv](https://open.spotify.com/artist/3ai0qrXsBu82gX7n5i4XDP) | [Lối Này](https://open.spotify.com/album/4MB6SVenbLwikjFduxTyXk) | 2:27 | 2023-10-05 | 2023-11-17 |
+| [Lối Thoát](https://open.spotify.com/track/2KkZHzMAR3lAs8JehR27AV) | [Cashmel](https://open.spotify.com/artist/3KjC3qk8ZE5JbC4tSj8COh) | [Lối Thoát](https://open.spotify.com/album/78gTc2HzlZjc8W9sKYk3Vw) | 3:59 | 2025-09-11 |  |
 | [lối đêm](https://open.spotify.com/track/3k5M1jDyDTySWWsRV69zX7) | [Maize](https://open.spotify.com/artist/1t9YGBngLrj99AgaqqQl49), [quinnie](https://open.spotify.com/artist/0ChIFJOUVDJyZEvyHwICse) | [lối đêm](https://open.spotify.com/album/2eSO04JUSBEkCAhC1Otiv3) | 4:13 | 2024-07-25 | 2024-09-04 |
 | [lỗi anh](https://open.spotify.com/track/2FYCrPefYthQKlwvfVVr1T) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [lỗi anh](https://open.spotify.com/album/0J70Yetjg3I0iZlQXuR5wv) | 3:23 | 2024-03-22 | 2024-04-24 |
 | [Lời Chia Tay](https://open.spotify.com/track/2nBMaVcTDMeBvNPPZN9D7m) | [Cà Nâu](https://open.spotify.com/artist/1GaNXOOINBcBKwdd58rMbW) | [Lời Chia Tay](https://open.spotify.com/album/5KOH26O71H916UUymEgTjS) | 4:07 | 2023-08-10 | 2023-10-06 |

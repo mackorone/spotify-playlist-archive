@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 ### [Hip\-Hop Central](https://open.spotify.com/playlist/37i9dQZF1DWY6tYEFs22tT)
 
-> Today's Hip\-Hop with Latto & Ice Spice, Drake, Don Toliver, Offset and Cardi B.
+> Today's Hip\-Hop with Drake, Latto & Ice Spice, Nemzzz, Offset and Cardi B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,252 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,166 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 49 | [Typa](https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Typa](https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY) | 2:04 |
 | 50 | [Dope Boy Phone \(with Takeoff\)](https://open.spotify.com/track/3QuxakJMdpWDvu30D5I1hH) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Dope Boy Phone \(with Takeoff\)](https://open.spotify.com/album/2bbTlvoX7gaRTjznctL7nu) | 2:08 |
 
-Snapshot ID: `AAAAAMNimzjAL5qdlhG8HEt43kqpKMau`
+Snapshot ID: `AAAAAOP+wOerq8/svjVXmeAIIv6pXHqY`

@@ -2453,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "We Came to Have Fun!",
+        "url": "https://open.spotify.com/album/1ZQYJKkBiMkOHX6f7VkgjG"
+      },
+      "artists": [
+        {
+          "name": "Snuggle Bunch",
+          "url": "https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Pop! Goes the Weasel",
+      "url": "https://open.spotify.com/track/3q12MYGc4rv8QRogu3jmbX"
+    },
+    {
+      "album": {
         "name": "Reading is Amazing (World Book Day 2022)",
         "url": "https://open.spotify.com/album/529nXtwRpnni4MtGtKrEJy"
       },

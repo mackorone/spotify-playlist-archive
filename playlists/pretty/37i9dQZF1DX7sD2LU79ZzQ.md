@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Rizwan Fadilah
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,551 likes - 120 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,606 likes - 120 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sendiri Lagi](https://open.spotify.com/track/6wRjcngSR5UjfjKGYoB6fy) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Imajinasi](https://open.spotify.com/album/7LJlbBAK1N8HwXgqwkwc8P) | 3:23 |
 | 2 | [Bukan Lagi Rumahmu \(Air Mata Di Ujung Sajadah Original Motion Picture Soundtrack\)](https://open.spotify.com/track/6pM2HooueA9dHb5NeTVJeT) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Bukan Lagi Rumahmu \(Air Mata Di Ujung Sajadah Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2zs39r5aMSz13iNaaqeTlH) | 4:32 |
 | 3 | [Tak Harus Menunggu Surga](https://open.spotify.com/track/4ZkhMMBsBHA2HtgYWX1L3c) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Tak Harus Menunggu Surga](https://open.spotify.com/album/6vkoGI2vnmwnqA7ppy1PLU) | 2:59 |
-| 4 | [Kias \- Original](https://open.spotify.com/track/63uf6yvX8NxuNk2c55ojwC) | [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Kias \(Original\)](https://open.spotify.com/album/4tHWs8ezoBOwMbk5G9xeIL) | 6:21 |
+| 4 | [Kias](https://open.spotify.com/track/63uf6yvX8NxuNk2c55ojwC) | [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Kias](https://open.spotify.com/album/4tHWs8ezoBOwMbk5G9xeIL) | 6:21 |
 | 5 | [Surga Sementara](https://open.spotify.com/track/5dLjZvJd76yUUHd3EjXi9g) | [TADI](https://open.spotify.com/artist/6hpZLcLqVjqzWWA0ZXTThF), [Kafin Sulthan](https://open.spotify.com/artist/59etqRZfBHKypG44RjjDCq) | [Surga Sementara](https://open.spotify.com/album/0Ij0gZEXvC4dGlTdFlzAch) | 3:40 |
 | 6 | [Di Mana Rumah Tuk Pulang?](https://open.spotify.com/track/10JW9o9lfFSTG7NDek5uRs) | [Dialog Senja](https://open.spotify.com/artist/7hzltD6Z1nipi3asl645sh) | [Di Mana Rumah Tuk Pulang?](https://open.spotify.com/album/4s7CBBNisdAhUM963JCduC) | 4:51 |
 | 7 | [Untukmu Aku Bertahan](https://open.spotify.com/track/2pl7jihblGbhtPLWIFrGEr) | [Eby](https://open.spotify.com/artist/5gDlLgkZisEeYWMUvarltN) | [Untukmu Aku Bertahan](https://open.spotify.com/album/51I6fKkvP3JL9jbnQZhVwj) | 3:47 |

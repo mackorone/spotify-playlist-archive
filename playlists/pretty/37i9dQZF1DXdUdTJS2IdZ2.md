@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 ### [Rising 65](https://open.spotify.com/playlist/37i9dQZF1DXdUdTJS2IdZ2)
 
-> Rising stars and new releases from sunny Singapore\. Cover: Jean Seizure
+> Rising stars and new releases from sunny Singapore\. Cover: Shye
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,089 likes - 85 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,091 likes - 85 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 84 | [Cut It Close](https://open.spotify.com/track/4zEneJPCbdxJpGXCxMSSTY) | [dolltr!ck](https://open.spotify.com/artist/1aqhiunipMdTly6kvb6w8p) | [Cut It Close](https://open.spotify.com/album/7C23c3CmSn81KfyNxjjCGH) | 3:12 |
 | 85 | [AIR MATA](https://open.spotify.com/track/5coMupfXCXasAbvM2Tg1RR) | [Twntytwodegree](https://open.spotify.com/artist/5FUjZ0QR0zLoEov5g5uzsk), [Guccimith](https://open.spotify.com/artist/7HD9LqZEcayqh3S6F9F3uy), [Tish Errda](https://open.spotify.com/artist/4WnVvYBKHRliSEu7uGORsG) | [AIR MATA](https://open.spotify.com/album/3sE59rQ6bmyi2rtFfkHMEM) | 3:56 |
 
-Snapshot ID: `AAAAAJzS+WmkWDjlwhCH7Ug7xjgtoFGt`
+Snapshot ID: `AAAAAHImv88VqeLMwNWY8JB/6PkmXCT4`

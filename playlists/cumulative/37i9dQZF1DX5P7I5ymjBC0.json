@@ -241,6 +241,32 @@
     },
     {
       "album": {
+        "name": "Aye Na Baalam",
+        "url": "https://open.spotify.com/album/6puODOC1EE1pJBbFAVq5q4"
+      },
+      "artists": [
+        {
+          "name": "The Bombay Chill",
+          "url": "https://open.spotify.com/artist/05r5zMnYeosNIESUzhbHhd"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        },
+        {
+          "name": "Ajay Tiwari",
+          "url": "https://open.spotify.com/artist/2lcUlawqk8jssyIOd7GTy5"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333809,
+      "name": "Aye Na Baalam",
+      "url": "https://open.spotify.com/track/33G967Z68M8rwvQGZe6WRk"
+    },
+    {
+      "album": {
         "name": "Between Flowers",
         "url": "https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB"
       },
@@ -514,7 +540,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 273394,
       "name": "Boondan Boondan (feat. Ankita Joshi)",
       "url": "https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu"
@@ -580,7 +606,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 532300,
       "name": "Chaap Tilak",
       "url": "https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T"
@@ -1118,7 +1144,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 305613,
       "name": "Ghir Ghir",
       "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
@@ -2960,7 +2986,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 336866,
       "name": "Ranjish Hi Sahi",
       "url": "https://open.spotify.com/track/4t2sMBajRuSKudtieXPgPp"
@@ -3866,7 +3892,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 355441,
       "name": "Tum Naraz Ho",
       "url": "https://open.spotify.com/track/7od22pmztVH9YfpzZ0205R"

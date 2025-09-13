@@ -4,7 +4,7 @@
 
 > und macht laune
 
-314 songs - 14 hr 38 min
+315 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Dein ist mein ganzes Herz](https://open.spotify.com/track/0xcjCd9FoMNaYjPK7R8I1L) | [BIG TIM](https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF), [Heinz Rudolf Kunze](https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ) | [Dein ist mein ganzes Herz](https://open.spotify.com/album/3m3gNWXJYp8KeoYuZVpN97) | 2:09 | 2024-03-28 | 2024-08-23 |
 | [Dein Mann Freestyle](https://open.spotify.com/track/3B32IYD2zmDza2Pp17xqgV) | [benno!](https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053) | [Dein Mann Freestyle](https://open.spotify.com/album/0ayWaNEoJHQHWvGI6i11Vu) | 2:25 | 2025-04-10 |  |
 | [Dernière danse \- Techno Mix](https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Dernière danse \(Techno Mix\)](https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q) | 3:17 | 2024-02-01 |  |
+| [Desire](https://open.spotify.com/track/4sMR8fuTzbUyzB0asxifV0) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Desire](https://open.spotify.com/album/2yamyyBAOGWiGKI1O9X0wf) | 2:38 | 2025-09-12 |  |
 | [DIE NACHBARIN](https://open.spotify.com/track/6CtCcYXsk1xP7oNuVg7Dm9) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [DIE NACHBARIN](https://open.spotify.com/album/7rix88ZMMGyiAow91CytZb) | 2:19 | 2025-03-24 | 2025-05-16 |
 | [Ding](https://open.spotify.com/track/5LH1z4ma2TN2aVeESXthj9) | [Seeed](https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV) | [Next!](https://open.spotify.com/album/3BKfDiq9KWSmbV7NHoCGlt) | 3:26 | 2023-07-21 | 2025-07-20 |
 | [Disco Cone \(Take It High\) \[ft\. WENZL\]](https://open.spotify.com/track/59IA01UnxFiJhxWXpG24mM) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6), [WENZL](https://open.spotify.com/artist/20TzJXkB1BHRDiazEqsf8r) | [Disco Cone \(Take It High\) \[ft\. WENZL\]](https://open.spotify.com/album/60S00zDlfsP8UPGjMmTSH2) | 2:11 | 2024-02-23 | 2024-03-07 |
@@ -320,7 +321,7 @@
 | [WORTH NOTHING \(feat\. Oliver Tree\) \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/65tX8MBdsnTiwy9UoIPHzr) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [WORTH NOTHING \(feat\. Oliver Tree\) \[Fast & Furious: Drift Tape/Vol 1\]](https://open.spotify.com/album/3iqdAcelKcHA5cdJXse2Gr) | 2:44 | 2023-07-21 | 2023-09-04 |
 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 | 2023-09-08 |  |
 | [YEAH](https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [YEAH](https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH) | 2:21 | 2025-04-10 |  |
-| [Zelten auf Kies](https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [Zelten auf Kies](https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY) | 2:17 | 2023-07-21 |  |
+| [Zelten auf Kies](https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [Zelten auf Kies](https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY) | 2:17 | 2023-07-21 | 2025-09-13 |
 | [ZOOM CALL](https://open.spotify.com/track/1m4juqM2fqfLfKMYKUJB0h) | [Whitey en vogue](https://open.spotify.com/artist/1ColxjJZKheMce3o7giApM), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [ZOOM CALL](https://open.spotify.com/album/3YghzNFQ9wo5Cc0q5FGdFI) | 1:56 | 2024-12-09 | 2024-12-12 |
 
 \*This playlist was first scraped on 2023-07-28. Prior content cannot be recovered.

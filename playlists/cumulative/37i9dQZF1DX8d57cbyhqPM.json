@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde \ud83c\udf0d avec Tontons SenSey' et Bol\u00e9mvn.",
+  "description": "Du Congo, au monde \ud83c\udf0d avec Tantine Ga\u00eblle.",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -626,7 +626,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 172129,
       "name": "Assez",
       "url": "https://open.spotify.com/track/5khLB5FEPptQb1PirpzYyg"
@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 148186,
       "name": "Boulot",
       "url": "https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K"
@@ -4894,7 +4894,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 120531,
       "name": "I Feel So Bad",
       "url": "https://open.spotify.com/track/0qNgxeW3EHbX5XjkBS4Dlh"
@@ -5894,7 +5894,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 139022,
       "name": "La jeunesse dor\u00e9e (feat. Killa Predator)",
       "url": "https://open.spotify.com/track/4XjlNoFMggD2LK9WkCjkII"
@@ -8124,6 +8124,24 @@
       "duration_ms": 208366,
       "name": "Muselu",
       "url": "https://open.spotify.com/track/3OkLPaGFAjbpCVC31V6pNL"
+    },
+    {
+      "album": {
+        "name": "Mususu",
+        "url": "https://open.spotify.com/album/6h3RnIZIKupVCcMIck5jb9"
+      },
+      "artists": [
+        {
+          "name": "kulturr",
+          "url": "https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137659,
+      "name": "Mususu",
+      "url": "https://open.spotify.com/track/2Uzw0LCK1D4epiBWHNOva9"
     },
     {
       "album": {
@@ -11485,6 +11503,24 @@
     },
     {
       "album": {
+        "name": "Tiens x2",
+        "url": "https://open.spotify.com/album/3Dhsls9jIpD3VKnUHyCR9E"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00eblle",
+          "url": "https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90769,
+      "name": "Tiens x2",
+      "url": "https://open.spotify.com/track/7lhZIrBnEHmOfUlC8rWc4Y"
+    },
+    {
+      "album": {
         "name": "N'Djila Wa Mudjimu",
         "url": "https://open.spotify.com/album/3h9hONYG9Ahpw10nqgp21y"
       },
@@ -12384,6 +12420,24 @@
       "duration_ms": 269373,
       "name": "Waah! (feat. Koffi Olomide)",
       "url": "https://open.spotify.com/track/0ceJAvjokFWwhh0nsOM9QD"
+    },
+    {
+      "album": {
+        "name": "Wagyu du Jap'",
+        "url": "https://open.spotify.com/album/71iiMtckKbHxVjTKMTVFvV"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105613,
+      "name": "Wagyu du Jap'",
+      "url": "https://open.spotify.com/track/0f23kGg4dotmFXMxBRnTpF"
     },
     {
       "album": {

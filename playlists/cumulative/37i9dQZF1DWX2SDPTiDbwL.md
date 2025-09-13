@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-119 songs - 7 hr 33 min
+120 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Añoranza de Amor](https://open.spotify.com/track/3aUYPiewWIKreBLbXqbb61) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Thomas Koch](https://open.spotify.com/artist/0CtjYrZQVXtGjWM0mOjS65), [Topo Gioia](https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8), [Khader Ahmad](https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg) | [Rafa El Tachliela: Flamenco Romantico](https://open.spotify.com/album/7LX33MEo6gOOVDG0DB3drB) | 5:00 | 2023-09-01 |  |
 | [Aún Queda Esperanza](https://open.spotify.com/track/1HZcCCtG85KLI0pQi3Vjr2) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Aún Queda Esperanza](https://open.spotify.com/album/5jKnxgsj9a5Hj73gG4yGgk) | 2:37 | 2025-04-07 |  |
 | [Banana Bay](https://open.spotify.com/track/4fNb7ey8LhuxKmlCNsiIiO) | [Luis Villegas](https://open.spotify.com/artist/4h5NL4qMX8cHrfbUT1j99U) | [Cafe Olé](https://open.spotify.com/album/4vTKwJlyyvNtqVT3tKK52D) | 3:17 | 2023-09-01 | 2024-06-01 |
+| [Barranquilla](https://open.spotify.com/track/1PHfOJSTE5nDbLl82HF4Vj) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Barranquilla](https://open.spotify.com/album/3oTQSSQPFnYtbPk494Y5Cx) | 2:38 | 2025-09-12 |  |
 | [Beautiful Eyes](https://open.spotify.com/track/1MHqusTSSA5UOjNZFkOugB) | [Spanish Guitar Chill Out](https://open.spotify.com/artist/71ey1tIAyP0CDMalhfwT8Q) | [2017 Relaxed Spanish Guitar](https://open.spotify.com/album/15get6QSHM8hkQJEpjEKzy) | 2:13 | 2024-04-05 |  |
 | [Beautiful Eyes](https://open.spotify.com/track/3Fj9716RD0SufAGVOB4SK8) | [Torfi Olafsson](https://open.spotify.com/artist/3cy6iNC00fIz90oeyV4G5D) | [Ice Blue Vol\. 1](https://open.spotify.com/album/01xhxXr0BK55PE4yyxLSOt) | 2:15 | 2023-09-01 | 2024-04-19 |
 | [Beyond The Mirage](https://open.spotify.com/track/1RDkmgfjWsK7J9xlDS3PkX) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Paco De Lucia, Al Di Meola, John McLaughlin](https://open.spotify.com/album/3S83H2RAz4qYHibsrEKfm7) | 6:10 | 2023-09-01 |  |

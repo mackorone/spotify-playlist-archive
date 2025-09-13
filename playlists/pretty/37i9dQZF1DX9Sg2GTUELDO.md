@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: Kiri T
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,164 likes - 120 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,168 likes - 120 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 18 | [出事 OOPS](https://open.spotify.com/track/79CnYUMohdUYH72JQOsxZg) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [REVOLVING: UP](https://open.spotify.com/album/4dOoaq4G65ff54rHCsNJgg) | 2:34 |
 | 19 | [Another Day](https://open.spotify.com/track/2mIv66hfLHGn59uzBPPtnZ) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [Another Day](https://open.spotify.com/album/7ohZZGOS9fYAifoSES1nMi) | 3:44 |
 | 20 | [幸運兒](https://open.spotify.com/track/6Z4siL1lRnQxQo2AvIcle0) | [Kira Chan](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [幸運兒](https://open.spotify.com/album/0sLKkpNhNZS3P3e7Hxg4fl) | 4:15 |
-| 21 | [LOST IN THE RAIN](https://open.spotify.com/track/5UMxYZWGxAfLdqqQaoXYja) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [LOST IN THE RAIN](https://open.spotify.com/album/26mI5XVEqidvanvC7rpmBN) | 3:07 |
+| 21 | [LOST IN THE RAIN](https://open.spotify.com/track/5UMxYZWGxAfLdqqQaoXYja) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [LOST IN THE RAIN](https://open.spotify.com/album/26mI5XVEqidvanvC7rpmBN) | 3:08 |
 | 22 | [大車 BIG CARS](https://open.spotify.com/track/2vhGQ3mEOknbY7TkqsW0uB) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [大車 BIG CARS](https://open.spotify.com/album/0ontVjrKGrzEm5CiTGTGLo) | 3:08 |
 | 23 | [i wish i could](https://open.spotify.com/track/1PjOMAmUb14E9WGkCVGcMR) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [Based On True Stories](https://open.spotify.com/album/0nvkolp7jXcubRKImPEHML) | 4:01 |
 | 24 | [命中注定在一起](https://open.spotify.com/track/1e7PDB6R15aFB1FAn29hbb) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [命中注定在一起](https://open.spotify.com/album/10dbtY3P2IkcE78EBqHpV5) | 2:56 |

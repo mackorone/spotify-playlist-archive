@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Geloomy
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,611 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,635 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 74 | [people in the city](https://open.spotify.com/track/4LvtRhhKSt9qLdJ1umejPe) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [テン・シティ](https://open.spotify.com/album/7BbfejS9Y32QrDCgYAQ5DC) | 3:50 |
 | 75 | [Heartache Homework](https://open.spotify.com/track/1CLQqlWwBRVW1XjvkD162Y) | [MisiiN](https://open.spotify.com/artist/1AWaERDm3O1qwyVa3NpmXC) | [THIS IS MisiiN](https://open.spotify.com/album/5MTDOIxQkLNoHewpdUM6DZ) | 4:39 |
 | 76 | [pilloo](https://open.spotify.com/track/54hl4cYLE5mXmbCAwJbTS2) | [pige](https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr) | [pilloo](https://open.spotify.com/album/74tkOdcauMzcYYdWbWnJOv) | 3:52 |
-| 77 | [菌糸](https://open.spotify.com/track/7hou672bkyBmd3AOQqwfOi) | [Pedestrian](https://open.spotify.com/artist/6fIP2qKVhs77fnk8PqyzZg) | [菌糸](https://open.spotify.com/album/6n1KGR77dFm0mzbbnLgt94) | 2:06 |
+| 77 | [菌糸](https://open.spotify.com/track/7hou672bkyBmd3AOQqwfOi) | [Pedestrian](https://open.spotify.com/artist/6fIP2qKVhs77fnk8PqyzZg), [NEXTLIGHT](https://open.spotify.com/artist/3TB8FogU3YjuUQa8osr0cY) | [菌糸](https://open.spotify.com/album/6n1KGR77dFm0mzbbnLgt94) | 2:06 |
 | 78 | [bad ending](https://open.spotify.com/track/3c50eYHlpow1O7zYipiWaW) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [bad ending](https://open.spotify.com/album/5kvtrgcuNcm13RQhYq9WGW) | 3:14 |
 | 79 | [不安でよかった](https://open.spotify.com/track/6NdcPnaNkzSilRtbWXTp2P) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [NORM](https://open.spotify.com/album/2HqRQNUYtonTi5BK3eeneq) | 3:57 |
 | 80 | [ありふれた夜に](https://open.spotify.com/track/15Et2idMfNVaDWRdfuaTO0) | [未完成ブレイブ](https://open.spotify.com/artist/04Ed81vmCD3qqU2AoBePXW) | [ありふれた夜に](https://open.spotify.com/album/13BzZ4SptC03puZvhOsFnk) | 5:11 |

@@ -267,6 +267,24 @@
     },
     {
       "album": {
+        "name": "Blanqueamiento",
+        "url": "https://open.spotify.com/album/050j1btFNDXmEx918VljDF"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149780,
+      "name": "Blanqueamiento",
+      "url": "https://open.spotify.com/track/05yS4nw5upCsQGDdp4elu3"
+    },
+    {
+      "album": {
         "name": "Blow",
         "url": "https://open.spotify.com/album/6p6iPFMjvMgcQm4E0VClla"
       },
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 188082,
       "name": "Gitana",
       "url": "https://open.spotify.com/track/7q78FieNqXkT9WgADVpLBc"
@@ -1390,7 +1408,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 204511,
       "name": "Joseando",
       "url": "https://open.spotify.com/track/67Yw5OgtVMoRdOkVSbUXXw"
@@ -1854,6 +1872,24 @@
       "duration_ms": 198620,
       "name": "Malo H - Remix",
       "url": "https://open.spotify.com/track/4tAxviSnEboFWHkvIyRo88"
+    },
+    {
+      "album": {
+        "name": "ManiKI",
+        "url": "https://open.spotify.com/album/55RsGWoHmCAqm56r7tXtcR"
+      },
+      "artists": [
+        {
+          "name": "Lil Keren",
+          "url": "https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134161,
+      "name": "ManiKI",
+      "url": "https://open.spotify.com/track/3eg2SVktHhkyH0djwJ51X5"
     },
     {
       "album": {

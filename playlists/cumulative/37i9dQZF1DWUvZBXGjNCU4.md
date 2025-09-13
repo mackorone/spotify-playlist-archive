@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-408 songs - 18 hr 19 min
+410 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Asian Delight](https://open.spotify.com/track/0EQOLN8bCteRj62De3MLSn) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [Asian Delight](https://open.spotify.com/album/3EhfE5X0ILlNI30Yt3trQ2) | 3:28 | 2022-05-13 | 2024-04-06 |
 | [At a Glance](https://open.spotify.com/track/0ohcThy8ktuaj2QoGfiROC) | [Jonas Björk](https://open.spotify.com/artist/6hSqPgf1kehZN3pifbGH62) | [At a Glance](https://open.spotify.com/album/10T5DllHUZDAkwudvT9QUV) | 2:28 | 2025-03-11 |  |
 | [At first dawn](https://open.spotify.com/track/7xWZgRtEfN2WYzomtNynes) | [Robert Blanke](https://open.spotify.com/artist/0nXlrKMk6YSm3vN04HaghF) | [At first dawn](https://open.spotify.com/album/2Cv6U6taQMno5m7KMZakLz) | 2:41 | 2022-05-13 | 2022-06-10 |
+| [At the same time](https://open.spotify.com/track/5Y2UB0AcXta6OuSxgeqMRG) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [At the same time](https://open.spotify.com/album/0IU4O0061NBlGfcVX9YObh) | 3:11 | 2025-09-12 |  |
 | [Auburn to Green](https://open.spotify.com/track/5UN9mQlx5fr9SirISSSuVJ) | [Noah Lorne](https://open.spotify.com/artist/3mgtorvPIuOOqO0V5EwEqa) | [Auburn to Green](https://open.spotify.com/album/6bHo8s2CSu4tzCnTTPLE3n) | 2:40 | 2025-06-11 |  |
 | [Aurora Prelude](https://open.spotify.com/track/4zNrO0MmzxqlthrBhnV8d2) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Aurora Prelude](https://open.spotify.com/album/6fiETmJfgbxUs0Rx3zE7Vi) | 2:32 | 2024-03-29 |  |
 | [Autumn Coming](https://open.spotify.com/track/4FMe5WxTUYxd4U9jk0C4yl) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Autumn Coming](https://open.spotify.com/album/3Q6axAHOm4KVMFJlxFRvQF) | 2:21 | 2022-05-13 | 2022-10-07 |
@@ -416,5 +417,6 @@
 | [You Will Never Understand](https://open.spotify.com/track/2c5HAbpl8XOnc4a5LybluN) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [You Will Never Understand](https://open.spotify.com/album/3br5iGGaBreqQ9OjcT9osL) | 4:32 | 2022-05-13 | 2023-04-28 |
 | [You Won't Let Go](https://open.spotify.com/track/78MdS8kr8w3sI2GhSx0sWk) | [Charlie Oakfield](https://open.spotify.com/artist/2ExlksqshO8Lce70P62KN1) | [You Won't Let Go](https://open.spotify.com/album/778RfK2nbu1ZTUMB5MZKGz) | 3:33 | 2024-06-07 |  |
 | [You're The Inspiration](https://open.spotify.com/track/0VDgKAQVZC9Hx6OKvgYaHG) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [You're The Inspiration](https://open.spotify.com/album/4PTyfdexQ5OAvTkdaE2jqU) | 2:20 | 2022-11-18 | 2023-03-11 |
+| [Young Together](https://open.spotify.com/track/5ZWUjw5hQ09L93p1MiZ6ir) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Young Together](https://open.spotify.com/album/0y7nwbzW2Vv9X1wg3n5wU9) | 2:21 | 2025-09-12 |  |
 
 \*This playlist was first scraped on 2022-05-15. Prior content cannot be recovered.

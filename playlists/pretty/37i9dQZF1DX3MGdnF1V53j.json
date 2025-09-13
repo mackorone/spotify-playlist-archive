@@ -815,26 +815,6 @@
     {
       "added_at": "2025-09-09 13:49:16",
       "album": {
-        "name": "Titanic",
-        "url": "https://open.spotify.com/album/4I68fZMnmzmGSFc2SuIul0"
-      },
-      "artists": [
-        {
-          "name": "Oualid",
-          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
-        },
-        {
-          "name": "DJEZJA",
-          "url": "https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf"
-        }
-      ],
-      "duration_ms": 154014,
-      "name": "Titanic",
-      "url": "https://open.spotify.com/track/1Y3pjOAKXdTniNMDMtsViT"
-    },
-    {
-      "added_at": "2025-09-09 13:49:16",
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/6G3DcLtH640Po7Ch5fJDSY"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 144000,
       "name": "Dream",
       "url": "https://open.spotify.com/track/7qkKTvMlCRC2VZ4fjyKZOu"
+    },
+    {
+      "added_at": "2025-09-09 13:49:16",
+      "album": {
+        "name": "Titanic",
+        "url": "https://open.spotify.com/album/4I68fZMnmzmGSFc2SuIul0"
+      },
+      "artists": [
+        {
+          "name": "Oualid",
+          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
+        },
+        {
+          "name": "DJEZJA",
+          "url": "https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf"
+        }
+      ],
+      "duration_ms": 154014,
+      "name": "Titanic",
+      "url": "https://open.spotify.com/track/1Y3pjOAKXdTniNMDMtsViT"
     },
     {
       "added_at": "2025-09-09 13:49:16",

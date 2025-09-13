@@ -1189,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "Art Museum (2am)",
+        "url": "https://open.spotify.com/album/1w6aoFfe36P5hJ5KTuPcD0"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130189,
+      "name": "Art Museum (2am)",
+      "url": "https://open.spotify.com/track/10u8ssp3b4XOqB9s4nczkd"
+    },
+    {
+      "album": {
         "name": "Artery",
         "url": "https://open.spotify.com/album/2DNglHje1BeqeInOWoFvSX"
       },
@@ -5400,7 +5418,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 199207,
       "name": "Friend Like You",
       "url": "https://open.spotify.com/track/5lyh0Nuo41eCq1pTcdg9sE"
@@ -7620,6 +7638,24 @@
       "duration_ms": 185785,
       "name": "I Know",
       "url": "https://open.spotify.com/track/66KnATMXwIjIR4ju5KYznX"
+    },
+    {
+      "album": {
+        "name": "I Know (A Little)",
+        "url": "https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220200,
+      "name": "I Know (A Little)",
+      "url": "https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU"
     },
     {
       "album": {
@@ -11183,6 +11219,24 @@
     },
     {
       "album": {
+        "name": "Nothing Ever Changes",
+        "url": "https://open.spotify.com/album/4GFqvXV50eB7JrB7bFJQir"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164922,
+      "name": "Nothing Ever Changes",
+      "url": "https://open.spotify.com/track/2I4nP51WoUZ7lnsggMKK5i"
+    },
+    {
+      "album": {
         "name": "Oceans & Engines",
         "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
       },
@@ -14164,7 +14218,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 179293,
       "name": "Something You Can Hold",
       "url": "https://open.spotify.com/track/3qqlyGEO02ZoW8OwYhuMq8"
@@ -14952,7 +15006,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 211934,
       "name": "Talking To Strangers",
       "url": "https://open.spotify.com/track/4e1EFgbXKAo787T4xb2oRB"

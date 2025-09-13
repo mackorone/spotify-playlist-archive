@@ -1965,6 +1965,24 @@
     },
     {
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/1HyKIoWfCYdkvI6L0pD79O"
+      },
+      "artists": [
+        {
+          "name": "Aaron Rowe",
+          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188937,
+      "name": "Drawing The Line",
+      "url": "https://open.spotify.com/track/51XB92eK6Fw4BzJXMUGg5e"
+    },
+    {
+      "album": {
         "name": "Dream Police",
         "url": "https://open.spotify.com/album/4tZDDiPikDegR9qbqagDBF"
       },
@@ -2253,8 +2271,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "JAMES.",
+        "url": "https://open.spotify.com/album/2Qne4lCCAtu1lAVikGk5UY"
       },
       "artists": [
         {
@@ -3779,8 +3797,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "East Of The Sun",
+        "url": "https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL"
       },
       "artists": [
         {
@@ -5113,7 +5131,7 @@
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 194713,
+      "duration_ms": 195722,
       "name": "Miss Missing You",
       "url": "https://open.spotify.com/track/40uLTiiVwQh3XjU778akBx"
     },
@@ -8628,24 +8646,6 @@
       "duration_ms": 192866,
       "name": "Tough Luck",
       "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Aaron Rowe",
-          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
-        }
-      ],
-      "date_added": "2025-09-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/51XB92eK6Fw4BzJXMUGg5e"
     },
     {
       "album": {

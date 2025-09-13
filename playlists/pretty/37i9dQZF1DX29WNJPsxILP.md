@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Karma
+> Best of Hindi Hip\-Hop! Cover: Yashraj & Calm
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,563 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,613 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ring A Rose](https://open.spotify.com/track/2TwzMCeWCH3B66jvwMtEem) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [Ring A Rose](https://open.spotify.com/album/3vnQUiE4n9mzvcSEC5kK33) | 2:19 |
-| 2 | [Raat Ki Rani](https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [SHAKTI](https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3) | 3:31 |
-| 3 | [TOP FLOOR SHiii](https://open.spotify.com/track/5PBLHkJ35cyzRHWN083JKM) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE) | [TOP FLOOR SHiii](https://open.spotify.com/album/4HQywyfzZIxnI1zems5VBX) | 2:59 |
+| 1 | [TOP FLOOR SHiii](https://open.spotify.com/track/5PBLHkJ35cyzRHWN083JKM) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE) | [TOP FLOOR SHiii](https://open.spotify.com/album/4HQywyfzZIxnI1zems5VBX) | 2:59 |
+| 2 | [Ring A Rose](https://open.spotify.com/track/2TwzMCeWCH3B66jvwMtEem) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [Ring A Rose](https://open.spotify.com/album/3vnQUiE4n9mzvcSEC5kK33) | 2:19 |
+| 3 | [Raat Ki Rani](https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [SHAKTI](https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3) | 3:31 |
 | 4 | [SILENCE](https://open.spotify.com/track/3Phlh6RTAyyFHy7cjkoTSK) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [SILENCE](https://open.spotify.com/album/4TQKcToj98khhRJdzBTRei) | 1:52 |
 | 5 | [Bigshots](https://open.spotify.com/track/76in3GYb0JA5ix0h8DfuP6) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Amit Bhadana](https://open.spotify.com/artist/7xyFz6QIHP6Sq0YbT2GZoO) | [Bigshots](https://open.spotify.com/album/3RFwbOZwpFWicFjsJiImUj) | 3:15 |
 | 6 | [3 DRAGS](https://open.spotify.com/track/4tHJc5agHg9LVsijAwtooy) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5) | [3 DRAGS](https://open.spotify.com/album/22qni5DTd8Sx2W08kkSNV9) | 2:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 74 | [Kaali Kaali Aankhein](https://open.spotify.com/track/7an5mcIKj1seDb137qc1RU) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Kaali Kaali Aankhein](https://open.spotify.com/album/4kMaciIPljFvOCRGpTdjFw) | 3:26 |
 | 75 | [MP3](https://open.spotify.com/track/3tw4ri5orliO3MgB16zhin) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Hurricane](https://open.spotify.com/artist/6OvPeLnrLk4v7X7tmjnOiO), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE) | [DL91 FM](https://open.spotify.com/album/2Jc0evKv7asNZMx32rQHrF) | 2:51 |
 
-Snapshot ID: `AAAAANfr4DKqe5DAaAGffb8x1wtYm81X`
+Snapshot ID: `AAAAAB8VxUtGhlUKNbahv1vxupr3ZSba`

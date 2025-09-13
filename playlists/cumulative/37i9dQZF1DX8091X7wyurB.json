@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "The Pursuit",
+        "url": "https://open.spotify.com/album/4c1ujaYiWGsU3qFsKmu8rv"
+      },
+      "artists": [
+        {
+          "name": "Mnqobi Nxumalo",
+          "url": "https://open.spotify.com/artist/70Y2n0KGh0iCJrpBronVOW"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469823,
+      "name": "All Powerful",
+      "url": "https://open.spotify.com/track/3ajMxkGIalFItWrXuEf9YS"
+    },
+    {
+      "album": {
         "name": "All That I Need",
         "url": "https://open.spotify.com/album/6alYBAfGKfBay4xZaRi97O"
       },
@@ -466,6 +484,24 @@
       "duration_ms": 270000,
       "name": "All Things Are Possible (Live)",
       "url": "https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM"
+    },
+    {
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/6xcVt9czkLqIzlEpelhoPv"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309577,
+      "name": "All Yours",
+      "url": "https://open.spotify.com/track/0yZpq2QPTsVqs6sSbOhtpe"
     },
     {
       "album": {
@@ -885,6 +921,28 @@
     },
     {
       "album": {
+        "name": "ATOFARATI",
+        "url": "https://open.spotify.com/album/2zOO5doG10OaVijVrqsgMT"
+      },
+      "artists": [
+        {
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        },
+        {
+          "name": "Tope Alabi",
+          "url": "https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 545470,
+      "name": "ATOFARATI",
+      "url": "https://open.spotify.com/track/5JJCORb7DGLOUpPxCcNCwi"
+    },
+    {
+      "album": {
         "name": "Sustained By Grace",
         "url": "https://open.spotify.com/album/5RWsRd2bGY4sjXWC25emKV"
       },
@@ -1064,7 +1122,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 556346,
       "name": "Bamba Mzalwane (Live)",
       "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
@@ -1086,7 +1144,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 471533,
       "name": "Bamise",
       "url": "https://open.spotify.com/track/5xhDyOMsuFZqYgKZBUd5sI"
@@ -1584,7 +1642,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 280424,
       "name": "Chinedum",
       "url": "https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp"
@@ -2474,7 +2532,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 427500,
       "name": "Eledumare - Live",
       "url": "https://open.spotify.com/track/26UUHxn7Mhbav9oJIwhqYc"
@@ -4096,7 +4154,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 201500,
       "name": "Grateful Heart",
       "url": "https://open.spotify.com/track/21yiBzduCsvNj8T1IfAxqW"
@@ -4114,7 +4172,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 337560,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB"
@@ -4830,7 +4888,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 351666,
       "name": "Holy Spirit",
       "url": "https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9"
@@ -5074,6 +5132,24 @@
       "duration_ms": 271499,
       "name": "I AM",
       "url": "https://open.spotify.com/track/6krahQOOJZosOiHKPZBbZS"
+    },
+    {
+      "album": {
+        "name": "Awakened",
+        "url": "https://open.spotify.com/album/6Gcg5SObsua8DuMmszhEs5"
+      },
+      "artists": [
+        {
+          "name": "Oge Stan",
+          "url": "https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286108,
+      "name": "I Am Temple (Live)",
+      "url": "https://open.spotify.com/track/42IkSQoEco0FPshWVWNHiQ"
     },
     {
       "album": {
@@ -7527,6 +7603,28 @@
     },
     {
       "album": {
+        "name": "Moyo Wanga",
+        "url": "https://open.spotify.com/album/1MDz8Ruc8nq72ZQh5IAjO0"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Eziashi",
+          "url": "https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx"
+        },
+        {
+          "name": "Tobi Jeff Richards",
+          "url": "https://open.spotify.com/artist/4otRzds8kWRbAxtnJQHPTP"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381041,
+      "name": "Moyo Wanga",
+      "url": "https://open.spotify.com/track/3mYapvHCLZ9udtGPiQfSyU"
+    },
+    {
+      "album": {
         "name": "Moyongcwele",
         "url": "https://open.spotify.com/album/3Md7jFJCda78uhck7VfPJC"
       },
@@ -7872,7 +7970,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 388866,
       "name": "Ndenzel' Uncedo Hymn 377 - Live",
       "url": "https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc"
@@ -8300,6 +8398,28 @@
       "duration_ms": 303674,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/1ei1YUmhJwUPZOXicTNjFW"
+    },
+    {
+      "album": {
+        "name": "In His Will",
+        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "MOGmusic",
+          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361389,
+      "name": "None Like You Lord",
+      "url": "https://open.spotify.com/track/4C1j4hhESWONgyhe52Bwpc"
     },
     {
       "album": {
@@ -8770,7 +8890,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 322848,
       "name": "OL\u00d3R\u00daKO APERIRE",
       "url": "https://open.spotify.com/track/0CnVj15KCwPFph8YLoHudR"
@@ -9756,7 +9876,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 360000,
       "name": "Refresh",
       "url": "https://open.spotify.com/track/4389ZHH3tiQzRgThj2dobk"
@@ -11070,7 +11190,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 560944,
       "name": "The Entrance Procession - Live",
       "url": "https://open.spotify.com/track/799Lwti2ygmoiEDC20Uo16"
@@ -12296,7 +12416,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 386382,
       "name": "WHATEVER (TO YOUR GLORY)",
       "url": "https://open.spotify.com/track/5GNInxl3MHbeC7Of0jTIqO"
@@ -12668,7 +12788,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 236000,
       "name": "WORTHY",
       "url": "https://open.spotify.com/track/01VqTmMt86wGlRVjvrhZ23"
@@ -13480,7 +13600,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 416807,
       "name": "\u00c8k\u00e8l\u00e8 (The Believers\u2019 Thanksgiving)",
       "url": "https://open.spotify.com/track/2iMQ38DUoUBy23diwqC6zj"

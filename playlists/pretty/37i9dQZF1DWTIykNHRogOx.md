@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Vanessa Paradis
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,171 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,243 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Le retour des beaux jours](https://open.spotify.com/track/7yFFmbTlVZZHW33AdcMBKP) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Le retour des beaux jours](https://open.spotify.com/album/45IfEOM2tJVHxpNiC9uOmG) | 3:35 |
-| 2 | [Les désirs fatigués des navires d’argent](https://open.spotify.com/track/5yWjsQylhePlSIF14zcWvT) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [](https://open.spotify.com/album/null) | 3:37 |
+| 2 | [Les désirs fatigués des navires d’argent](https://open.spotify.com/track/5yWjsQylhePlSIF14zcWvT) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [Paris Amour](https://open.spotify.com/album/3dvIlg1tuKOqYaAU8eYFJ5) | 3:37 |
 | 3 | [Ça ne saurait tarder](https://open.spotify.com/track/1aOR6tifyYNqMBFgOljtHv) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [Ça ne saurait tarder](https://open.spotify.com/album/5nMycdHbuXuCDaPzcq22Tc) | 4:57 |
 | 4 | [Cette vie](https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR) | 2:54 |
-| 5 | [À cause ou grâce](https://open.spotify.com/track/4UaZ1EKTRqiGUhwsHtGHdG) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [](https://open.spotify.com/album/null) | 4:18 |
+| 5 | [À cause ou grâce](https://open.spotify.com/track/4UaZ1EKTRqiGUhwsHtGHdG) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Labyrinthe](https://open.spotify.com/album/6Dlr1OhxAWl5JIE7bUwS6X) | 4:18 |
 | 6 | [Grand\-mère](https://open.spotify.com/track/5t6WasNuGNuc7u4cqPcjCq) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Grand\-mère](https://open.spotify.com/album/5h32dU86HS9BxewTJGpULm) | 3:58 |
 | 7 | [Devant nous](https://open.spotify.com/track/7ubQv0YHkA16nAV71oYUs4) | [Constance Amiot](https://open.spotify.com/artist/57aTJRDQsVsP8fMuY7URiO) | [Devant nous](https://open.spotify.com/album/5dwOshnXhrbMlLaKkBwPCD) | 2:36 |
 | 8 | [Ça va](https://open.spotify.com/track/5bQf0GkvmAvsVIq9iocbn9) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Ça va](https://open.spotify.com/album/28H5Pp4wCwxWkGv15589Nl) | 3:14 |
 | 9 | [ton ventre](https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [ton ventre](https://open.spotify.com/album/4h0LVUeJZt3PWAO9nFh6XV) | 2:55 |
 | 10 | [Comme je t'ai aimé](https://open.spotify.com/track/2Eek8Rh5baaDB3VBH2eqXR) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Comme je t'ai aimé](https://open.spotify.com/album/5Ntr7yJLHxJFq8FyyC5Gaz) | 5:13 |
 | 11 | [Évidemment](https://open.spotify.com/track/62DJGlOgqUfGm1CiuREznh) | [Kaky](https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O) | [Est\-ce que quelqu'un m'entend ?](https://open.spotify.com/album/2yMg4BHzIx08hgwly5JsG5) | 3:27 |
-| 12 | [Haut les coeurs](https://open.spotify.com/track/6WHLlfd4QpKu9rK8gOWCY1) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [](https://open.spotify.com/album/null) | 2:52 |
+| 12 | [Haut les coeurs](https://open.spotify.com/track/6WHLlfd4QpKu9rK8gOWCY1) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Haut les coeurs\*](https://open.spotify.com/album/2ZZB68unzpDYt770nYA57y) | 2:52 |
 | 13 | [Le nom des fleurs](https://open.spotify.com/track/3aTMleeOHwd89RFAJzkQsW) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [Le nom des fleurs](https://open.spotify.com/album/2HsikV99a1wKHnzWrObeSm) | 3:25 |
 | 14 | [Le penseur](https://open.spotify.com/track/1tv58Ak1QlECDQNAIl1xqz) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Le penseur](https://open.spotify.com/album/5q90PSSaosWpyeeH0f6QM7) | 4:04 |
 | 15 | [J'veux tout savoir](https://open.spotify.com/track/1lzRKxLpVfYG1w8ZCKaabi) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [J'veux tout savoir](https://open.spotify.com/album/3amQWaEVgIcfpWfTQcUrgT) | 3:19 |

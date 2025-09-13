@@ -4,7 +4,7 @@
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
 
-482 songs - 1 day 2 hr 47 min
+483 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Evangelina](https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Evangelina](https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib) | 3:47 | 2023-11-03 | 2024-04-02 |
 | [Evangelina](https://open.spotify.com/track/6RxtsOjMkQI3AVqgJDs3It) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Little Songs](https://open.spotify.com/album/4l1JW9aV2fmAxnH9TeeK82) | 3:47 | 2023-11-03 | 2024-01-13 |
 | [Everblue](https://open.spotify.com/track/749p6fK8jkNFEk2QQNuWOX) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Everblue](https://open.spotify.com/album/5dz9kN0STuNF0L65IBMPcp) | 2:56 | 2025-07-04 |  |
+| [Everything She Does](https://open.spotify.com/track/0WXwVx2Ni5yimjV9gunwpV) | [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [Everything She Does](https://open.spotify.com/album/5LYZjezeOhI4MVMASc3ZZn) | 3:16 | 2025-09-12 |  |
 | [Fall In Love With Me](https://open.spotify.com/track/56CmYOZ5YNtmuVUtY5W5jF) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Fall In Love With Me](https://open.spotify.com/album/67JHB0s8c5pbNELuRkl0E8) | 3:15 | 2023-11-03 | 2024-01-20 |
 | [Fall of Summer](https://open.spotify.com/track/5YOAM7GS2QQu1TCGnhVhnh) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Rise & Fall](https://open.spotify.com/album/4qSFCfqrmdQ7OOnPeUsjoz) | 3:44 | 2024-05-10 | 2024-07-20 |
 | [Falling for You](https://open.spotify.com/track/4kbaHslboiwyCgHmxRyLTm) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Tim & The Glory Boys \(Deluxe\)](https://open.spotify.com/album/7L6UgCIxEViu4qDyrnjbwZ) | 2:59 | 2023-11-03 | 2024-08-24 |

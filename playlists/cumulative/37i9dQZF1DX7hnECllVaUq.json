@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-01",
-  "description": "The biggest hits from country artists around the globe. Cover: Lewis Love",
+  "description": "The biggest hits from country artists around the globe. Cover: Gareth",
   "name": "Country Worldwide",
   "tracks": [
     {
@@ -2045,6 +2045,24 @@
     },
     {
       "album": {
+        "name": "Long Story Short",
+        "url": "https://open.spotify.com/album/2dFEhMsQ3dBxASbxrDVZ7g"
+      },
+      "artists": [
+        {
+          "name": "Gareth",
+          "url": "https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162933,
+      "name": "Long Story Short",
+      "url": "https://open.spotify.com/track/0axf2CGpDvy8FOZeOQNTrT"
+    },
+    {
+      "album": {
         "name": "Dear Life",
         "url": "https://open.spotify.com/album/0OYe3l0I2Crach4c9dOr4N"
       },
@@ -4060,7 +4078,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 212200,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n"

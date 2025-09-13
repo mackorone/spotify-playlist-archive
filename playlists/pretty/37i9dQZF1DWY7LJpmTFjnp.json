@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Los Amigos Invisibles en portada. ",
-  "num_followers": 990667,
+  "num_followers": 990326,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
+        "name": "Fuera Del Cielo",
+        "url": "https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Del Real",
+          "url": "https://open.spotify.com/artist/3zsKni86bXvCrbu8HxSIAM"
+        },
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        }
+      ],
+      "duration_ms": 232880,
+      "name": "16 De Febrero",
+      "url": "https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
         "name": "Parison",
         "url": "https://open.spotify.com/album/3GJi4Wwqd9ieXuTeuSfnKm"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 291074,
       "name": "Parison",
       "url": "https://open.spotify.com/track/3JaKelhIeMYrDoyglzqzLl"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
-        "name": "Fuera Del Cielo",
-        "url": "https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Del Real",
-          "url": "https://open.spotify.com/artist/3zsKni86bXvCrbu8HxSIAM"
-        },
-        {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
-        }
-      ],
-      "duration_ms": 232880,
-      "name": "16 De Febrero",
-      "url": "https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
-        "name": "Y Ca\u00edste",
-        "url": "https://open.spotify.com/album/1mRK52YC5AHfqLV2AizYyD"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 292846,
-      "name": "Y Ca\u00edste",
-      "url": "https://open.spotify.com/track/6WgxkxlKYel9tbcXGJ2EcG"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
         "name": "No Olvidamos",
         "url": "https://open.spotify.com/album/26kvfgqmq2SoSBw1Kh1x76"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 274991,
       "name": "No Olvidamos",
       "url": "https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
+        "name": "Y Ca\u00edste",
+        "url": "https://open.spotify.com/album/1mRK52YC5AHfqLV2AizYyD"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 292846,
+      "name": "Y Ca\u00edste",
+      "url": "https://open.spotify.com/track/6WgxkxlKYel9tbcXGJ2EcG"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
-        "name": "Volovan",
-        "url": "https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr"
-      },
-      "artists": [
-        {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
-        }
-      ],
-      "duration_ms": 209346,
-      "name": "Ella Es Azul",
-      "url": "https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
         "name": "Sweet & Sour - Hot & Spicy",
         "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 262066,
       "name": "Ojos Claros, Labios Rosas",
       "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
+        "name": "Volovan",
+        "url": "https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr"
+      },
+      "artists": [
+        {
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+        }
+      ],
+      "duration_ms": 209346,
+      "name": "Ella Es Azul",
+      "url": "https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
-        "name": "Gringo Hunter (De la Serie de Netflix \"Gringo Hunters\")",
-        "url": "https://open.spotify.com/album/4RD6jo0ORjqVeRH5e0aBrW"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "Gringo Hunter - De la Serie de Netflix \"Gringo Hunters\"",
-      "url": "https://open.spotify.com/track/5UADTFVdvIpNPnNyST7fdZ"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
         "name": "Maria Barracuda",
         "url": "https://open.spotify.com/album/1bhUnlxM5e8p9jkvHDGGu9"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 253840,
       "name": "Tenochtitl\u00e1n",
       "url": "https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
+        "name": "Gringo Hunter (De la Serie de Netflix \"Gringo Hunters\")",
+        "url": "https://open.spotify.com/album/4RD6jo0ORjqVeRH5e0aBrW"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Gringo Hunter - De la Serie de Netflix \"Gringo Hunters\"",
+      "url": "https://open.spotify.com/track/5UADTFVdvIpNPnNyST7fdZ"
     },
     {
       "added_at": "2025-08-22 06:00:12",

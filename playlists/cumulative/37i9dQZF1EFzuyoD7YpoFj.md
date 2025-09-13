@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-605 songs - 1 day 8 hr 54 min
+606 songs - 1 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Begin the Beguine \- Versión Alternativa](https://open.spotify.com/track/08Mkx3CzMCnsRCgdmydLEo) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Presentando a Los Indios Tabajaras](https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv) | 2:50 | 2024-07-24 | 2024-12-13 |
 | [Begin The Beguine \- Versión Alternativa](https://open.spotify.com/track/5b0sXfcHJQESX3cqzNlS1C) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Ecos del Llano](https://open.spotify.com/album/1DyxBZDqwHfHScePM56zE7) | 2:58 | 2024-12-14 |  |
 | [Beguin The Beguin](https://open.spotify.com/track/7vbIqWJvz47rRwGTDR4id5) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Lo Mejor de los Indios Tabajaras](https://open.spotify.com/album/3edF3RAq1O9WRVmMSW52xU) | 2:58 | 2024-12-12 | 2024-12-15 |
-| [Between You and Me](https://open.spotify.com/track/4BstoiptB4aehSZzSpYvIn) | [Оскар](https://open.spotify.com/artist/5BvGivKcddTxmnABDkMyan) | [Running on a Knife\-Edge](https://open.spotify.com/album/75h6VRL47NaHpPe53q91br) | 4:52 | 2025-09-10 |  |
+| [Between You and Me](https://open.spotify.com/track/5Lxv5Hq08wdPKkJGajwoZB) | [kazemaru](https://open.spotify.com/artist/21dXDRr189OA3FpGA1Evig) | [Running on a Knife\-Edge](https://open.spotify.com/album/4pjVHrqf901239z7oschzQ) | 4:51 | 2025-09-12 |  |
+| [Between You and Me](https://open.spotify.com/track/4BstoiptB4aehSZzSpYvIn) | [Оскар](https://open.spotify.com/artist/5BvGivKcddTxmnABDkMyan) | [Running on a Knife\-Edge](https://open.spotify.com/album/75h6VRL47NaHpPe53q91br) | 4:52 | 2025-09-10 | 2025-09-13 |
 | [Bianca](https://open.spotify.com/track/0qQKCB4j56XhQUFdKAHvTE) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 4:18 | 2024-07-24 |  |
 | [Big Stuff](https://open.spotify.com/track/6DBTJQB1VxR82nIEwNrPUp) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Camarata And His Orchestra](https://open.spotify.com/artist/4TYE75eI4rO1QTLoDFUUGq) | [The Blues Are Brewin'](https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ) | 2:32 | 2025-07-10 |  |
 | [Blow, Gabriel, Blow](https://open.spotify.com/track/4DtUDXWjncnJEGkjWNzXUg) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G), [Shina Ann Morris](https://open.spotify.com/artist/6kpPCCVDYv5UWp0yTGTpF6), [Kimberly Fauré](https://open.spotify.com/artist/7KeRvQu3QWimR0R7rmQBGs), [Jennifer Savelli](https://open.spotify.com/artist/1JpQAKngZpluarksWQz7TO), [Joyce Chittick](https://open.spotify.com/artist/1OKlLBg3Sw8YvUpaMJNtKW), ['Anything Goes' New Broadway Cast Ensemble](https://open.spotify.com/artist/66t5xqw9MdEEgfUmKs6DOD) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 7:32 | 2024-07-24 |  |

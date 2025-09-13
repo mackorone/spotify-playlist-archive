@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: TOBIAS",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Jassin",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -326,6 +326,24 @@
       "duration_ms": 163626,
       "name": "1996",
       "url": "https://open.spotify.com/track/6qkWqGP2McFW7HCo43QqQc"
+    },
+    {
+      "album": {
+        "name": "1996",
+        "url": "https://open.spotify.com/album/1LxZlo9yLCM1p53gALTffx"
+      },
+      "artists": [
+        {
+          "name": "RAR",
+          "url": "https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210454,
+      "name": "1996",
+      "url": "https://open.spotify.com/track/1FQ20CihLeBuPUlpJiQXgQ"
     },
     {
       "album": {
@@ -2021,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Arsenalplatz",
+        "url": "https://open.spotify.com/album/6xztgC0pES1sRIA3v1JTTh"
+      },
+      "artists": [
+        {
+          "name": "Jassin",
+          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175026,
+      "name": "Arsenalplatz",
+      "url": "https://open.spotify.com/track/2BflyD6iRTJJffvVqmMtk5"
+    },
+    {
+      "album": {
         "name": "Art und Weise",
         "url": "https://open.spotify.com/album/0f9er9ha0bbTwoZsdP5myK"
       },
@@ -2250,6 +2286,28 @@
       "duration_ms": 162626,
       "name": "Aus dem Nichts",
       "url": "https://open.spotify.com/track/233zgukbOI7quzjK124SfJ"
+    },
+    {
+      "album": {
+        "name": "aus dem Takt",
+        "url": "https://open.spotify.com/album/7xuJ8WboYUbx9sofA1d7XZ"
+      },
+      "artists": [
+        {
+          "name": "Schlotte",
+          "url": "https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv"
+        },
+        {
+          "name": "laurin",
+          "url": "https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "aus dem Takt",
+      "url": "https://open.spotify.com/track/0kLIJuhdf3ylloA84Z1tXS"
     },
     {
       "album": {
@@ -4490,7 +4548,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 208443,
       "name": "Das Gl\u00fcck geh\u00f6rt Versagern",
       "url": "https://open.spotify.com/track/1z2GenlspZ6QIU3kl1XyLl"
@@ -9733,6 +9791,24 @@
     },
     {
       "album": {
+        "name": "laut",
+        "url": "https://open.spotify.com/album/417GtyBzOCsj7JFkvgzozh"
+      },
+      "artists": [
+        {
+          "name": "Marlo Grosshardt",
+          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238251,
+      "name": "Hamburger Zukunftsentscheid",
+      "url": "https://open.spotify.com/track/3EK17keVMunkpJfH3PdM7o"
+    },
+    {
+      "album": {
         "name": "Haus am Strand",
         "url": "https://open.spotify.com/album/31KAO9AGqHUIF3Ug8hTskl"
       },
@@ -10945,6 +11021,28 @@
     },
     {
       "album": {
+        "name": "ich lieg wieder wach",
+        "url": "https://open.spotify.com/album/0GpctchdE4a4L3qaM0bn4u"
+      },
+      "artists": [
+        {
+          "name": "Wolke 8",
+          "url": "https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26"
+        },
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272857,
+      "name": "ich lieg wieder wach",
+      "url": "https://open.spotify.com/track/0ZCyFfKamJE0xEbg28L3ob"
+    },
+    {
+      "album": {
         "name": "ich mach mich (regardless)",
         "url": "https://open.spotify.com/album/477Bp1mHoQ4XhTY2LWm8UG"
       },
@@ -11068,7 +11166,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 91200,
       "name": "Ich werde still",
       "url": "https://open.spotify.com/track/0OzMJwdfsGawWlErbtUHEb"
@@ -11862,7 +11960,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 143944,
       "name": "Jetzt oder Skigebiet",
       "url": "https://open.spotify.com/track/3ybfVOzDMpcJiSorQLatvn"
@@ -12462,7 +12560,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 157500,
       "name": "Kein Schlaf",
       "url": "https://open.spotify.com/track/15ZgdKMbbFRVBmd1GQq046"
@@ -13393,6 +13491,24 @@
     },
     {
       "album": {
+        "name": "langeher",
+        "url": "https://open.spotify.com/album/28us0TybhZwN1XawPpYZvm"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158608,
+      "name": "langeher",
+      "url": "https://open.spotify.com/track/2dwFcTa9PuN6w03DWdWJPx"
+    },
+    {
+      "album": {
         "name": "Langeweile",
         "url": "https://open.spotify.com/album/5NdsPi8JHfKId2UY5dySo4"
       },
@@ -14120,6 +14236,24 @@
       "duration_ms": 162373,
       "name": "Liebeslied",
       "url": "https://open.spotify.com/track/5yf926Kfq9Wv2vGJ11hCn1"
+    },
+    {
+      "album": {
+        "name": "Liebeslieder",
+        "url": "https://open.spotify.com/album/7dUu1CouJlkNjXppuGiHIC"
+      },
+      "artists": [
+        {
+          "name": "Felix Herbst",
+          "url": "https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Liebeslieder",
+      "url": "https://open.spotify.com/track/2DiM40iTWQdrRt0TqSZQfr"
     },
     {
       "album": {
@@ -15109,6 +15243,24 @@
     },
     {
       "album": {
+        "name": "Mein Kiez",
+        "url": "https://open.spotify.com/album/0gC776dYXeaZ25MfLmGGkG"
+      },
+      "artists": [
+        {
+          "name": "Kicker Dibs",
+          "url": "https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200247,
+      "name": "Mein Kiez",
+      "url": "https://open.spotify.com/track/3cv9u90WIXk8PNGfBP27jo"
+    },
+    {
+      "album": {
         "name": "Mein Kopf ist eine Party",
         "url": "https://open.spotify.com/album/3DULPWw4QAwWiS6Oam5P2q"
       },
@@ -15302,7 +15454,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 245773,
       "name": "Mephisto",
       "url": "https://open.spotify.com/track/04txXxnX14crWZJZz59Srm"
@@ -17529,6 +17681,24 @@
     },
     {
       "album": {
+        "name": "Pflaster",
+        "url": "https://open.spotify.com/album/7iZAC44rL0HrhYyl74iIck"
+      },
+      "artists": [
+        {
+          "name": "Magda",
+          "url": "https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177262,
+      "name": "Pflaster",
+      "url": "https://open.spotify.com/track/65nHrdMGRurIyNBf3ENRvt"
+    },
+    {
+      "album": {
         "name": "Piet",
         "url": "https://open.spotify.com/album/4AZAa8DleVENz8JltXcnMh"
       },
@@ -18826,7 +18996,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 186000,
       "name": "Sag Was",
       "url": "https://open.spotify.com/track/5h7eSdgx20arGtQSfftIBw"
@@ -19210,7 +19380,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 198068,
       "name": "Schmetterlingseffekt",
       "url": "https://open.spotify.com/track/2OJ5xBE7BcRYAgDyG2RcXi"
@@ -19438,7 +19608,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 150361,
       "name": "schwerelos",
       "url": "https://open.spotify.com/track/6CCyFCFmXLuPms82BeZJUB"
@@ -20788,7 +20958,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 124986,
       "name": "Sonnencreme",
       "url": "https://open.spotify.com/track/5BnTLaDhcCRa4BC5MZNAJT"
@@ -23143,6 +23313,24 @@
     },
     {
       "album": {
+        "name": "wenn ich gro\u00df bin, will ich alles werden au\u00dfer alt",
+        "url": "https://open.spotify.com/album/6XGCSVoJkjrRJCAg53I1jQ"
+      },
+      "artists": [
+        {
+          "name": "Akryl",
+          "url": "https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210625,
+      "name": "Verlier Mich",
+      "url": "https://open.spotify.com/track/4lvvLeeiKvsOPglkOXWowx"
+    },
+    {
+      "album": {
         "name": "VERLIEREN",
         "url": "https://open.spotify.com/album/69Hk90ekT8Lypnk2dE0mrb"
       },
@@ -23476,7 +23664,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 132500,
       "name": "Vielleicht",
       "url": "https://open.spotify.com/track/3Lv12k5Wg80e41i9Xwdc1X"
@@ -23704,7 +23892,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 216973,
       "name": "vorbei",
       "url": "https://open.spotify.com/track/26KYKHhaezkO3A5cPsTs45"
@@ -25032,6 +25220,24 @@
       "duration_ms": 136216,
       "name": "wie papier",
       "url": "https://open.spotify.com/track/6CVik5FWKhct0VwMit0rfr"
+    },
+    {
+      "album": {
+        "name": "Wie sehr tut es weh?",
+        "url": "https://open.spotify.com/album/1Jg8mEexQQyUYKdizzRnRK"
+      },
+      "artists": [
+        {
+          "name": "Edwin Rosen",
+          "url": "https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165012,
+      "name": "Wie sehr tut es weh?",
+      "url": "https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk"
     },
     {
       "album": {

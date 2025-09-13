@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Rachael Jenkins
+> Underground indie rock gems\. Cover: Phantastic Ferniture
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,290 likes - 150 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,306 likes - 150 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 149 | [Mountain](https://open.spotify.com/track/2L2gjXyR49y51IyBz7wKvl) | [Cryogeyser](https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ), [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Mountain](https://open.spotify.com/album/4e0AsgwbmUBQhy92uMUZfv) | 2:59 |
 | 150 | [Funny](https://open.spotify.com/track/1NjQvWlo2JxKc4ST0hJdxZ) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Funny](https://open.spotify.com/album/5EZn9ph9YN8zbioYjNrMmm) | 3:57 |
 
-Snapshot ID: `AAAAABUKr0Fb2e4W6k2lF0KSRnH2vZ7j`
+Snapshot ID: `AAAAAB2OPY+WgUiLH/LitAAaDippQRRC`

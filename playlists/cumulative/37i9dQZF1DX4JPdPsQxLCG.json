@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "All Is Well",
+        "url": "https://open.spotify.com/album/3fvSbGLtvLXfClvz8UTwka"
+      },
+      "artists": [
+        {
+          "name": "Babygirl",
+          "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195311,
+      "name": "All Is Well",
+      "url": "https://open.spotify.com/track/5FmWkwmh6jLUd91DVeVwub"
+    },
+    {
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t"
       },
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 195573,
       "name": "Crush",
       "url": "https://open.spotify.com/track/3Uqrh2vcziJBZABRExKDZP"
@@ -2296,6 +2314,24 @@
       "duration_ms": 219853,
       "name": "Electric Pow Wow Drum",
       "url": "https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ"
+    },
+    {
+      "album": {
+        "name": "Emptiness",
+        "url": "https://open.spotify.com/album/7GVUQX0koyq6iu1qu4RmnO"
+      },
+      "artists": [
+        {
+          "name": "Surf Hat",
+          "url": "https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246410,
+      "name": "Emptiness",
+      "url": "https://open.spotify.com/track/3OAG78OqCzfS6JpEeYquAN"
     },
     {
       "album": {
@@ -2908,7 +2944,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 188032,
       "name": "Hard Lines",
       "url": "https://open.spotify.com/track/2MmVtejhstTIqHLMhRsv8i"

@@ -361,6 +361,24 @@
     },
     {
       "album": {
+        "name": "Blipper",
+        "url": "https://open.spotify.com/album/6kp9Yh8WEYWaH039iJL7NL"
+      },
+      "artists": [
+        {
+          "name": "Madge",
+          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192013,
+      "name": "Accidental Black Hole",
+      "url": "https://open.spotify.com/track/6V5jhjPr2eQMmvwJuXoXuh"
+    },
+    {
+      "album": {
         "name": "Act of Innocence",
         "url": "https://open.spotify.com/album/0cDD4yvNsLL9eermbxEngG"
       },
@@ -4541,8 +4559,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Girl Violence",
+        "url": "https://open.spotify.com/album/4aAqSQJ69OruOHDlQ9B5ki"
       },
       "artists": [
         {
@@ -8215,24 +8233,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Madge",
-          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
-        }
-      ],
-      "date_added": "2025-09-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/6V5jhjPr2eQMmvwJuXoXuh"
-    },
-    {
-      "album": {
         "name": "trespass coat",
         "url": "https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1"
       },
@@ -8527,8 +8527,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Little House",
+        "url": "https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y"
       },
       "artists": [
         {

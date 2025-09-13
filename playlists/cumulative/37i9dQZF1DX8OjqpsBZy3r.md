@@ -2,7 +2,7 @@
 
 ### [Viral Country](https://open.spotify.com/playlist/37i9dQZF1DX8OjqpsBZy3r)
 
-> The trending country songs and viral hits you need to know\. Cover: Jake Banfield
+> They call him Mr\. Saturday Night...
 
 213 songs - 11 hr 39 min
 

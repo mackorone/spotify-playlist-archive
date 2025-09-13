@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-192 songs - 9 hr 33 min
+194 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Anoranza](https://open.spotify.com/track/6aq1erKhdTigJdqnoeWCrz) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Anoranza](https://open.spotify.com/album/29qvE6ctOnyrUJWZODkMhV) | 2:48 | 2022-03-03 |  |
 | [Ansia](https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 3:06 | 2022-03-03 | 2022-07-15 |
 | [Antiques](https://open.spotify.com/track/5Ma7R5NkweVB9H39IfxVjm) | [Quinn Sage](https://open.spotify.com/artist/4k3ooZfSTsaIT5DPGL2dhz) | [Antiques](https://open.spotify.com/album/47Y0BDt1BR8iuRLwBiOfzG) | 3:16 | 2025-05-13 |  |
+| [Ascensión del Alma](https://open.spotify.com/track/6vzCTgKaWMFxkCtvW6gfak) | [Elías Flores](https://open.spotify.com/artist/7HWUEipeFBHvnz4GITai8Z) | [Ascensión del Alma](https://open.spotify.com/album/43JOWnjmydMkJb2rPVO3q0) | 2:45 | 2025-09-12 |  |
 | [Augusto Caliente](https://open.spotify.com/track/0TMULfbEnuUoOytRvWcLMI) | [Los Principes del Flamenco](https://open.spotify.com/artist/5QRBOvnAAd81MkUgB2pyzD) | [Rumba De Rambla](https://open.spotify.com/album/10pjbovsMmRO6b4YjSrqKR) | 3:08 | 2022-03-03 | 2025-01-14 |
 | [Autumn](https://open.spotify.com/track/0ansjnBkSFKDqlQ0KaTydJ) | [Kee Marcello](https://open.spotify.com/artist/5yBVDQGDI58X71bTYrle3o), [Freddie Hultana](https://open.spotify.com/artist/2kbBom27w5NJydUVB2SonR) | [The Four Seasons](https://open.spotify.com/album/6ekmiW4L7zlzHgAqWKbImP) | 2:03 | 2022-03-03 | 2022-07-15 |
 | [Ave Maria](https://open.spotify.com/track/23WyiE0ihlkTTkPZm0wndZ) | [Andrea Chiarini](https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3) | [Ave Maria](https://open.spotify.com/album/7itZ0Ps9FuYl3nG1jCmDK0) | 2:05 | 2022-11-18 | 2023-09-01 |
@@ -28,6 +29,7 @@
 | [Back In Vienna](https://open.spotify.com/track/7f5KoA0YwUSblUJJ1Fhgq3) | [Carey Bestwood](https://open.spotify.com/artist/2retIxvtHYYB3JXjfYLAOW) | [Back In Vienna](https://open.spotify.com/album/0BiRWf0kePadH7rrZNX6Lu) | 2:00 | 2022-03-03 | 2025-05-14 |
 | [Bahia Dream](https://open.spotify.com/track/164gnhOiZDQsSa3VbSPeRw) | [Reynaldo Delgado](https://open.spotify.com/artist/104TOFsmSso5sw7ynQ4vhE) | [Bahia Dream](https://open.spotify.com/album/3ZQlm3syeRzlmascVX9l3N) | 2:18 | 2022-03-03 |  |
 | [Barracas Bird](https://open.spotify.com/track/79Ny2c8UogZ0We79hPRnMk) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Barracas Bird](https://open.spotify.com/album/6CItD5vZzN9KcMCitNZXX8) | 2:43 | 2022-03-03 |  |
+| [Barranquilla](https://open.spotify.com/track/1PHfOJSTE5nDbLl82HF4Vj) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Barranquilla](https://open.spotify.com/album/3oTQSSQPFnYtbPk494Y5Cx) | 2:38 | 2025-09-12 |  |
 | [Beatriz \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/track/17wRtZlmO6TEZqGDpZv673) | [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Beatriz \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/album/0UYrRuHrJcz2il0oww8zeW) | 3:36 | 2022-06-17 | 2022-07-22 |
 | [Beber](https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Beber](https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km) | 4:13 | 2022-03-03 |  |
 | [Bella Donna](https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Bella Donna](https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4) | 2:19 | 2022-03-03 | 2025-01-14 |

@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "2K225",
+        "url": "https://open.spotify.com/album/0yh6HGCMihGUK9Y9PMJVBz"
+      },
+      "artists": [
+        {
+          "name": "Le D",
+          "url": "https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX"
+        },
+        {
+          "name": "Bol\u00e9mvn",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141162,
+      "name": "2K225",
+      "url": "https://open.spotify.com/track/5WO8WYu8JIRexWYGjkCDKt"
+    },
+    {
+      "album": {
         "name": "4 Kamp\u00e9 II",
         "url": "https://open.spotify.com/album/28EA7dYeDclWlULlTN3sbC"
       },
@@ -6222,7 +6244,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 168461,
       "name": "forever",
       "url": "https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj"
@@ -9850,7 +9872,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 208470,
       "name": "Malembe",
       "url": "https://open.spotify.com/track/0FmItoePsyfwRtuQP78vue"
@@ -10620,6 +10642,24 @@
       "duration_ms": 256483,
       "name": "Mussulo (feat. Doddy)",
       "url": "https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q"
+    },
+    {
+      "album": {
+        "name": "Mususu",
+        "url": "https://open.spotify.com/album/6h3RnIZIKupVCcMIck5jb9"
+      },
+      "artists": [
+        {
+          "name": "kulturr",
+          "url": "https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137659,
+      "name": "Mususu",
+      "url": "https://open.spotify.com/track/2Uzw0LCK1D4epiBWHNOva9"
     },
     {
       "album": {
@@ -11562,6 +11602,28 @@
       "duration_ms": 161043,
       "name": "On se comprend (Musique originale inspir\u00e9e du film \"Indomptables\")",
       "url": "https://open.spotify.com/track/3xYkZkwCIcolLD1Y8j9144"
+    },
+    {
+      "album": {
+        "name": "AfroViibes",
+        "url": "https://open.spotify.com/album/75zAuEBy3Xe7VaxV0WRwRa"
+      },
+      "artists": [
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        },
+        {
+          "name": "Chily",
+          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "On shoot ! (feat. Chily)",
+      "url": "https://open.spotify.com/track/6IZr7Z7lXaliYYx88d0GJL"
     },
     {
       "album": {
@@ -13818,7 +13880,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 98333,
       "name": "Self-Control (feat. Vegedream)",
       "url": "https://open.spotify.com/track/2I2TemaXXejqA7k3q3SEG8"

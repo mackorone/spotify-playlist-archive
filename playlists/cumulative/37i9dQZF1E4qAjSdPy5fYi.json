@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With STYXVII, Joshua Lanuarii, UrvTek and more",
+  "description": "With STYXVII, Joshua Lanuarii, sixwing and more",
   "name": "Kittydog Radio",
   "tracks": [
+    {
+      "album": {
+        "name": "The New 4lung Album",
+        "url": "https://open.spotify.com/album/7ktcibSjb9UykTwVGR92NU"
+      },
+      "artists": [
+        {
+          "name": "4lung",
+          "url": "https://open.spotify.com/artist/0OJS9aMfVg5cd30ZXyHU9L"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121110,
+      "name": "$20",
+      "url": "https://open.spotify.com/track/2T7CiH77MaDtr9I0pGL7iS"
+    },
     {
       "album": {
         "name": "14",
@@ -222,7 +240,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 153575,
       "name": "AlterHuman",
       "url": "https://open.spotify.com/track/5iFc7qq3RJDAvyGSHFm27Z"
@@ -516,7 +534,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 136800,
       "name": "Bathtub Wine Barf Homocide Fantasy",
       "url": "https://open.spotify.com/track/3qqRtGhdKzl3xDm2zR7AKu"
@@ -622,7 +640,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 129417,
       "name": "Bees in my head - Remake",
       "url": "https://open.spotify.com/track/6x0klaEnNtoq4qOBXqgho7"
@@ -724,10 +742,28 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 117931,
       "name": "BOARD GAME",
       "url": "https://open.spotify.com/track/1Igt5ktZquhARK8upr7UOx"
+    },
+    {
+      "album": {
+        "name": "FANSERVICE",
+        "url": "https://open.spotify.com/album/1iRaZxijTjfQ0qZiU6BoZK"
+      },
+      "artists": [
+        {
+          "name": "MAILPUP",
+          "url": "https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126829,
+      "name": "BORIS JOHNSON DEATH INCANTATION",
+      "url": "https://open.spotify.com/track/1z8vrhnn3OxVDwUB3H4978"
     },
     {
       "album": {
@@ -872,7 +908,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 121573,
       "name": "CATBOY JERMA",
       "url": "https://open.spotify.com/track/2yVtfEQ0EVMIA3qKDoDmW7"
@@ -938,6 +974,24 @@
       "duration_ms": 193096,
       "name": "CHANGED",
       "url": "https://open.spotify.com/track/4zd9ODrv8sfgGprCVhER4j"
+    },
+    {
+      "album": {
+        "name": "my teeth will free you",
+        "url": "https://open.spotify.com/album/6ieL6pmFGmestYx7pqn5ZR"
+      },
+      "artists": [
+        {
+          "name": "sixwing",
+          "url": "https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109594,
+      "name": "choke it out!",
+      "url": "https://open.spotify.com/track/6e7XkfLsy4LrjwDGaVNXkh"
     },
     {
       "album": {
@@ -1130,7 +1184,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 201456,
       "name": "DEATHRAVE",
       "url": "https://open.spotify.com/track/6AcE5etPybYmRF656WUsae"
@@ -1383,6 +1437,50 @@
     },
     {
       "album": {
+        "name": "Sparkle Signal",
+        "url": "https://open.spotify.com/album/3dyEzOmrM1UortWaIMorky"
+      },
+      "artists": [
+        {
+          "name": "Gynx",
+          "url": "https://open.spotify.com/artist/41vwOItZ3tvhGwj3zUaYjl"
+        },
+        {
+          "name": "Srgt. Moon",
+          "url": "https://open.spotify.com/artist/4qgYfRYYgzCfGqdLkV6Jrd"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Eminem Adopts a Dragon",
+      "url": "https://open.spotify.com/track/3Y7EUPVbmkPpMRFSTekaUO"
+    },
+    {
+      "album": {
+        "name": "Breakcore Is Not a Good Way to Get Laid but a Little Less Swag",
+        "url": "https://open.spotify.com/album/3hcUG0lWamAhdxrypVY8Lm"
+      },
+      "artists": [
+        {
+          "name": "BRN1NG BRAIN SOUND INDUSTRIES",
+          "url": "https://open.spotify.com/artist/6bnkB4ek6nKCPVv18kkrUv"
+        },
+        {
+          "name": "cotiles",
+          "url": "https://open.spotify.com/artist/3IzNJXFWCCOWKpEowP8Ro1"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152423,
+      "name": "Ena MIX (Allergic to People MIX)",
+      "url": "https://open.spotify.com/track/34jDexIVNRb3E12CMkQwlZ"
+    },
+    {
+      "album": {
         "name": "falling into place (the cat's out!)",
         "url": "https://open.spotify.com/album/64i9yGucn6fgikh9NMHC8m"
       },
@@ -1459,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "STOMACH BOOK",
+        "url": "https://open.spotify.com/album/6Vbtpo67ePu1IS9hZf2xOY"
+      },
+      "artists": [
+        {
+          "name": "STOMACH BOOK",
+          "url": "https://open.spotify.com/artist/079cEjjSpv5dOLH5xsGdvN"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176519,
+      "name": "Folie \u00e0 Deux",
+      "url": "https://open.spotify.com/track/3NaH9aP8PTPj3uvaKM3jLC"
+    },
+    {
+      "album": {
         "name": "Fox Paws",
         "url": "https://open.spotify.com/album/0nsb8DM6Dhzb4LrHN5zC8g"
       },
@@ -1470,7 +1586,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 177679,
       "name": "Fox Paws",
       "url": "https://open.spotify.com/track/7tiPt81dGVuX14yNVe8cvT"
@@ -1712,7 +1828,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 174000,
       "name": "HOW TO FORGET YOU (destroy you)",
       "url": "https://open.spotify.com/track/0fSMq4iJJXWK65V1H5umyb"
@@ -1756,7 +1872,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 201951,
       "name": "I Need Coffee - Remix",
       "url": "https://open.spotify.com/track/10hQaGJs4fnENxawWcwkPL"
@@ -1796,6 +1912,24 @@
       "duration_ms": 70024,
       "name": "i only got one",
       "url": "https://open.spotify.com/track/78lrxMDObspPOaFyLYgzoL"
+    },
+    {
+      "album": {
+        "name": "MAILPUP",
+        "url": "https://open.spotify.com/album/3JW5phtrelhiFkkZic6j7o"
+      },
+      "artists": [
+        {
+          "name": "MAILPUP",
+          "url": "https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132173,
+      "name": "I REALLY REALLY REALLY HATE THE WORLD BUT THAT'S OK AT LEAST I'VE GOT MY GABBER DRUM",
+      "url": "https://open.spotify.com/track/0dBffLuyZ97YHFTbTWby2D"
     },
     {
       "album": {
@@ -1872,7 +2006,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 278700,
       "name": "i'm down",
       "url": "https://open.spotify.com/track/7uzi1qfd28lYxjJDxhiH5y"
@@ -2232,7 +2366,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 164746,
       "name": "KILL YOURSELF",
       "url": "https://open.spotify.com/track/13rSC7PiWGDR15lZxgrxtw"
@@ -2964,7 +3098,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 123245,
       "name": "One Day You'll Die (I do not like this)",
       "url": "https://open.spotify.com/track/7wuwuepA7yWz9lKBUle8xE"
@@ -3368,7 +3502,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 202000,
       "name": "re:ARRANGEMENT",
       "url": "https://open.spotify.com/track/13F6tG0As0WV4fSx6WX9NP"
@@ -3444,7 +3578,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 194693,
       "name": "rose tints",
       "url": "https://open.spotify.com/track/5PcC91JT46zbmpSXO4htwO"
@@ -3534,7 +3668,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 105000,
       "name": "Sleep Paralysis",
       "url": "https://open.spotify.com/track/1MniCshySWjTHcKkUo863V"
@@ -3592,6 +3726,24 @@
       "duration_ms": 124043,
       "name": "Something For Your M.I.N.D. - Sped Up",
       "url": "https://open.spotify.com/track/4VHIC1Q4q2FwwjlEMcAYqV"
+    },
+    {
+      "album": {
+        "name": "Breakcore Is Not a Good Way to Get Laid but a Little Less Swag",
+        "url": "https://open.spotify.com/album/3hcUG0lWamAhdxrypVY8Lm"
+      },
+      "artists": [
+        {
+          "name": "BRN1NG BRAIN SOUND INDUSTRIES",
+          "url": "https://open.spotify.com/artist/6bnkB4ek6nKCPVv18kkrUv"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112007,
+      "name": "Specifically Chu Chu",
+      "url": "https://open.spotify.com/track/6XdB57hNt51hPF0eHVCjGZ"
     },
     {
       "album": {
@@ -4084,7 +4236,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 148500,
       "name": "VICTIMiZED",
       "url": "https://open.spotify.com/track/6K8EAeBdTspjpkHwuIn7H9"

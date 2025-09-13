@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Cassin",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: M'DEP",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 166000,
       "name": "A Volta Do Detroit",
       "url": "https://open.spotify.com/track/3XDMhkNXAWqm03dwBDn39T"
@@ -15474,7 +15474,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 148584,
       "name": "FORAGIDO",
       "url": "https://open.spotify.com/track/5R3FGDN93IbF2CdKsTGLIz"
@@ -16242,6 +16242,32 @@
       "duration_ms": 152727,
       "name": "F\u00e9 de Abra\u00e3o",
       "url": "https://open.spotify.com/track/6rGOddAeZDBywYmeDYhJrQ"
+    },
+    {
+      "album": {
+        "name": "F\u00e9 e Fogo",
+        "url": "https://open.spotify.com/album/4Jm2vaR9c9f8sywi7nrN6v"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "GVBE",
+          "url": "https://open.spotify.com/artist/2MHy3p4PeBgsb7WMIftgpM"
+        },
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141402,
+      "name": "F\u00e9 e Fogo",
+      "url": "https://open.spotify.com/track/3ArrNjYgJFNcdxbSRl9pFl"
     },
     {
       "album": {
@@ -17556,7 +17582,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 256040,
       "name": "Hublot",
       "url": "https://open.spotify.com/track/7ex8vCBdtsjZvQgxo5hnKf"
@@ -17826,6 +17852,28 @@
       "duration_ms": 165000,
       "name": "Imperatriz",
       "url": "https://open.spotify.com/track/0G1Y45e6lrg3hvSMTPiCdo"
+    },
+    {
+      "album": {
+        "name": "IMP\u00c9RIO",
+        "url": "https://open.spotify.com/album/4HQ1aKcnPhlsHawRiBBs7S"
+      },
+      "artists": [
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150794,
+      "name": "IMP\u00c9RIO",
+      "url": "https://open.spotify.com/track/5DC5J4ki3mJHGjbaegsD3L"
     },
     {
       "album": {
@@ -19618,6 +19666,48 @@
       "duration_ms": 158769,
       "name": "LET'S GET IT",
       "url": "https://open.spotify.com/track/5KllQEYNihnq2sLAe50t4J"
+    },
+    {
+      "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/50pnbzhiYdTDzR0BQXt3KV"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "Js da Torre",
+          "url": "https://open.spotify.com/artist/4HSHSwbclouX2q2qw4cEC2"
+        },
+        {
+          "name": "Cordeiro",
+          "url": "https://open.spotify.com/artist/2yMTlcrLja7mjJnYVTY1Sb"
+        },
+        {
+          "name": "Bebeto",
+          "url": "https://open.spotify.com/artist/2KHYG7vNRKtN0e3xdueQdz"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "808 Ander",
+          "url": "https://open.spotify.com/artist/22BZPaeC7qaUL1opAQCWTk"
+        },
+        {
+          "name": "J8nn",
+          "url": "https://open.spotify.com/artist/5KxB1KJGKu0wU1x3ghdoLL"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140580,
+      "name": "Liberdade",
+      "url": "https://open.spotify.com/track/2Bp1I0SCNJqpSI0VFyZ7nf"
     },
     {
       "album": {
@@ -23176,7 +23266,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 147923,
       "name": "Modo Sport",
       "url": "https://open.spotify.com/track/0XwfQskri77tsjOUKdGQu2"
@@ -28953,6 +29043,24 @@
     },
     {
       "album": {
+        "name": "LOOP",
+        "url": "https://open.spotify.com/album/1KkV08iT8W8mIR2dPGeufs"
+      },
+      "artists": [
+        {
+          "name": "Lil Chainz",
+          "url": "https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117429,
+      "name": "PRECISO SAIR DO LOOP",
+      "url": "https://open.spotify.com/track/7eRB7FCmG5ByRF7nURaNi5"
+    },
+    {
+      "album": {
         "name": "Contradi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
@@ -30282,7 +30390,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 246400,
       "name": "QUERO PRA N\u00d3S",
       "url": "https://open.spotify.com/track/51LcOHrJZA9UpUDdivHX68"
@@ -30410,6 +30518,24 @@
       "duration_ms": 144716,
       "name": "Raio Laser",
       "url": "https://open.spotify.com/track/6Cnook4zLTSVLfAi4AYHSe"
+    },
+    {
+      "album": {
+        "name": "Ralph Lauren",
+        "url": "https://open.spotify.com/album/5b8biXtHh9kAFIIIbWqn5L"
+      },
+      "artists": [
+        {
+          "name": "Cashley",
+          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131773,
+      "name": "Ralph Lauren",
+      "url": "https://open.spotify.com/track/5XuHS5INNB3xeCFbve7mTa"
     },
     {
       "album": {
@@ -32528,7 +32654,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 190360,
       "name": "Senta Pros Do Momento",
       "url": "https://open.spotify.com/track/64O5X0s5QYtLQcUrXeo0L7"
@@ -33350,6 +33476,24 @@
       "duration_ms": 168607,
       "name": "Sobrevivente",
       "url": "https://open.spotify.com/track/4e8Iuy55BlsLv4JBL17gKt"
+    },
+    {
+      "album": {
+        "name": "Social Girl",
+        "url": "https://open.spotify.com/album/4XnBNKruPvFDJN4e2EIai9"
+      },
+      "artists": [
+        {
+          "name": "Akashi Cruz",
+          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114857,
+      "name": "Social Girl",
+      "url": "https://open.spotify.com/track/2JxgWplCkw07zl3Z4WAwhB"
     },
     {
       "album": {

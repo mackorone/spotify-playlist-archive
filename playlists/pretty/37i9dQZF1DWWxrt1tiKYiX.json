@@ -1,12 +1,12 @@
 {
   "description": "Lovely, acoustic pop. Cover: Ariana Grande",
-  "num_followers": 166219,
+  "num_followers": 166258,
   "original_name": "Acoustic Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE7kGKOujJeNIlwUOvAKlm53H37c",
+  "snapshot_id": "AAAAAKwnzYt9nMqR0p1/l6qZph0SRmfG",
   "tracks": [
     {
       "added_at": "2024-09-09 19:12:03",
@@ -39,6 +39,22 @@
       "duration_ms": 201248,
       "name": "Beautiful Things - Acoustic",
       "url": "https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy"
+    },
+    {
+      "added_at": "2025-09-12 04:00:16",
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 192124,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -113,20 +129,20 @@
       "url": "https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd"
     },
     {
-      "added_at": "2025-08-21 15:12:40",
+      "added_at": "2025-09-12 04:00:16",
       "album": {
-        "name": "Man On The Moon",
-        "url": "https://open.spotify.com/album/67WkCx7zCcaJzM0tqZQDKx"
+        "name": "foreign",
+        "url": "https://open.spotify.com/album/23OgtHfI5AfqaXHVuFN2KW"
       },
       "artists": [
         {
-          "name": "Madeline The Person",
-          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
+          "name": "Britton",
+          "url": "https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0"
         }
       ],
-      "duration_ms": 200198,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/6uiKhAx3xG1ZsgyzcIbbf2"
+      "duration_ms": 174503,
+      "name": "foreign",
+      "url": "https://open.spotify.com/track/315NelSgp7uGl0BNLRvFaf"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -147,6 +163,22 @@
       "duration_ms": 227625,
       "name": "Little Bit Better",
       "url": "https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st"
+    },
+    {
+      "added_at": "2025-08-21 15:12:40",
+      "album": {
+        "name": "Man On The Moon",
+        "url": "https://open.spotify.com/album/67WkCx7zCcaJzM0tqZQDKx"
+      },
+      "artists": [
+        {
+          "name": "Madeline The Person",
+          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
+        }
+      ],
+      "duration_ms": 200198,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/6uiKhAx3xG1ZsgyzcIbbf2"
     },
     {
       "added_at": "2025-05-17 02:34:55",
@@ -1279,22 +1311,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Heaven (Acoustic)",
-        "url": "https://open.spotify.com/album/0Ju0PhEN0Z43pCKc7ah1HN"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 192622,
-      "name": "Heaven (Acoustic)",
-      "url": "https://open.spotify.com/track/0B4MTjEdRDso17Oy9iugE7"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "All That Really Matters (Stripped Version)",
         "url": "https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 222955,
       "name": "Remember That Night? - Acoustic",
       "url": "https://open.spotify.com/track/49HbzUD2vcpoTAepAW2sjI"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "One Night (Stripped Version)",
-        "url": "https://open.spotify.com/album/0IOkSCsKp7rixM8Q1Vzmxn"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 154951,
-      "name": "One Night - Stripped Version",
-      "url": "https://open.spotify.com/track/46PZbNbQ37DDhMbuVkL8V0"
     },
     {
       "added_at": "2024-08-09 04:00:00",

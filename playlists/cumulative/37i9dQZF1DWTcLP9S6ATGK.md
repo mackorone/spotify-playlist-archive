@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Segara
 
-625 songs - 1 day 16 hr 59 min
+626 songs - 1 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Kencan Pertama](https://open.spotify.com/track/0O7ztA4GbF5u3rBdDuGrWp) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [Kencan Pertama](https://open.spotify.com/album/2YZwmhuRd6XRHZy2QeqMWL) | 3:37 | 2025-02-13 | 2025-03-04 |
 | [Kepada Nya](https://open.spotify.com/track/7bM8Eb8TQUFJGk6tDmkA4K) | [Novia Bachmid](https://open.spotify.com/artist/6eK6JN4xhNFMfe2QHLwrx9) | [Kepada Nya](https://open.spotify.com/album/6J5KkAeZCQAniRBAHVn8vj) | 3:56 | 2025-03-06 | 2025-05-09 |
 | [Kepada Yang Teristimewa](https://open.spotify.com/track/3nwbFx4JoOHflWwYQgrvoJ) | [Syarla](https://open.spotify.com/artist/3SnAuONzYaCzmnojLPCbnx) | [Kepada Yang Teristimewa](https://open.spotify.com/album/5RlOi0Tjr7IWd61fSKwOGK) | 4:00 | 2025-01-23 | 2025-03-07 |
-| [Kias \- Original](https://open.spotify.com/track/63uf6yvX8NxuNk2c55ojwC) | [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Kias \(Original\)](https://open.spotify.com/album/4tHWs8ezoBOwMbk5G9xeIL) | 6:21 | 2025-09-11 |  |
+| [Kias](https://open.spotify.com/track/63uf6yvX8NxuNk2c55ojwC) | [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Kias](https://open.spotify.com/album/4tHWs8ezoBOwMbk5G9xeIL) | 6:21 | 2025-09-11 |  |
 | [Kini](https://open.spotify.com/track/5AIAQ8Si5Gx9xFT3n3U3Jl) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Kini](https://open.spotify.com/album/46DOpLwkpDlUHfPusJ91cB) | 3:37 | 2024-06-27 | 2024-07-27 |
 | [Kini \(sudut pandang Grace\)](https://open.spotify.com/track/6oyxsovvQWOSanJA9YWXmc) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI), [Grace Kaitlin](https://open.spotify.com/artist/2aZrqM2hPUmc2dIJgLhfSd) | [Kini \(sudut pandang Grace\)](https://open.spotify.com/album/3CRjRZVpInbfCaV7wf46vA) | 3:53 | 2025-07-31 |  |
 | [Kini Mereka Tahu](https://open.spotify.com/track/6fMS9J2yAv4I6ss9sQ230f) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kini Mereka Tahu](https://open.spotify.com/album/3Z7YGGrQBW3omLHjIvpAQv) | 4:44 | 2024-06-27 | 2024-07-27 |
@@ -420,6 +420,7 @@
 | [Pulang](https://open.spotify.com/track/4eoBTSohhzOCSIqIEJIBuD) | [Swaradawai](https://open.spotify.com/artist/0mJ11iodUk35WntCRJu6bx) | [Pulang](https://open.spotify.com/album/1chUn9HkqnLMTgmpG1Vdx9) | 6:12 | 2025-05-01 | 2025-06-27 |
 | [Punah](https://open.spotify.com/track/1f4KvIPE9v3sIL5qdvBF2Y) | [Lyla](https://open.spotify.com/artist/3GheatPWdVzxqmRXOKxHTb) | [Punah](https://open.spotify.com/album/2NA9ZxLjSkeh1w9SQusai9) | 4:06 | 2024-08-22 | 2024-10-11 |
 | [Pupus](https://open.spotify.com/track/1B03UqsH5VJ5YQSO1ew0aP) | [Evan Sanders](https://open.spotify.com/artist/1qiBflbBz0FZdGLkoTH0uM) | [Pupus](https://open.spotify.com/album/1btDc2Ec1fnYrdMsf0VeRc) | 4:27 | 2024-10-31 | 2024-12-13 |
+| [Pura Pura Bahagia \(Air Mata Di Ujung Sajadah Original Motion Picture Soundtrack\)](https://open.spotify.com/track/510uu4XzVglUYK1ORb8iJw) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL) | [Pura Pura Bahagia \(Air Mata Di Ujung Sajadah Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5fUc794LvvTtVoLMMUouMA) | 4:29 | 2025-09-12 |  |
 | [Rahasia Hati \(New Version\)](https://open.spotify.com/track/5ljoPIZmzmXVoTdF7ebfwE) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Rahasia Hati \(New Version\)](https://open.spotify.com/album/2irA4FZKAdkCn7y6iceOhx) | 4:19 | 2024-11-07 |  |
 | [Rahasia Terindah](https://open.spotify.com/track/06l3dRW1EHrotoysy6A9i1) | [PIAFARHAN](https://open.spotify.com/artist/0M7CsP09MKGoHKNcOqJ4kV) | [Rahasia Terindah](https://open.spotify.com/album/7zuC7iTKR4uS1b4rifOm8h) | 4:05 | 2025-04-24 | 2025-06-13 |
 | [Rainbow](https://open.spotify.com/track/3V0ArrICvrvC0wgzrnJPdg) | [Ten2Five](https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO) | [Rainbow](https://open.spotify.com/album/6VpyQTOEJBXdZD3K9WxxoK) | 3:28 | 2024-10-17 | 2024-12-13 |

@@ -2918,7 +2918,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 136626,
       "name": "Ciclos",
       "url": "https://open.spotify.com/track/4SKnW8k3OxrPXP8XRUSXRj"
@@ -4418,7 +4418,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 161856,
       "name": "Dona da Minha Vida",
       "url": "https://open.spotify.com/track/7Mw6z69iGhfLYAwwmVKJDC"
@@ -13137,6 +13137,32 @@
     },
     {
       "album": {
+        "name": "RASTAFARI",
+        "url": "https://open.spotify.com/album/63qxJ2WUYGI97N0litTHEG"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127794,
+      "name": "RASTAFARI",
+      "url": "https://open.spotify.com/track/1vK57Ufl3GsX5zrT9ZiRf7"
+    },
+    {
+      "album": {
         "name": "Recome\u00e7o",
         "url": "https://open.spotify.com/album/5MoBxDzlYReoWJMSRwxFDp"
       },
@@ -14694,6 +14720,36 @@
       "duration_ms": 151103,
       "name": "Sintomas de Prazer - Live",
       "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
+    },
+    {
+      "album": {
+        "name": "Nos Tornamos Estranhos",
+        "url": "https://open.spotify.com/album/5hegLclkT2Nt4zt5I3dWSx"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+        },
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        },
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93007,
+      "name": "sintomas de saudade",
+      "url": "https://open.spotify.com/track/5AENWVhhcLH7NtaLb3llNj"
     },
     {
       "album": {

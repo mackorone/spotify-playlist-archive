@@ -4,7 +4,7 @@
 
 > techno you can relax/study to
 
-105 songs - 12 hr 20 min
+106 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Sleepygirl 1](https://open.spotify.com/track/7d7BxwnjpR4WrBHmyo5tnA) | [Yagya](https://open.spotify.com/artist/2r01Y1iNjVr8W88RuseQLf) | [Sleepygirls](https://open.spotify.com/album/1C04uwe7mOJ9ogiOCjnKqd) | 5:23 | 2025-03-14 |  |
 | [Slowing and Spinning](https://open.spotify.com/track/3o1wphDvQXC1XUpJZPcanr) | [Vactrol Park](https://open.spotify.com/artist/0xznqEZUaSB7a2JvIXpVLU) | [5 Years Compilation](https://open.spotify.com/album/3Xr0TiuRPWCuw2U7zVyvwd) | 10:22 | 2025-03-14 |  |
 | [Sogni D'oro](https://open.spotify.com/track/7vGlHIN3gFi2UYnZTGEyER) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [Enter \(Deluxe\)](https://open.spotify.com/album/6GxFHSII49ehi2JNQDvlPb) | 4:48 | 2025-03-14 |  |
+| [Solid State Rain](https://open.spotify.com/track/1ZOsVzvEQxbId9cGSagZdx) | [Kangding Ray](https://open.spotify.com/artist/20UWNE4rEU7YMO0GHq4F26) | [Polar EP](https://open.spotify.com/album/39sJr4ODaxsa9LrmL5XeJQ) | 4:52 | 2025-08-28 |  |
 | [Starlight \- Echospace Unreleased Mix](https://open.spotify.com/track/0EgviF3SRYuARt8IwCMWMo) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [Starlight](https://open.spotify.com/album/6StG61wOmTvfUmfz0szLpz) | 7:09 | 2025-03-14 |  |
 | [Stephan](https://open.spotify.com/track/54XsLtQxFGxk4IZnREKPqC) | [Mikkel Metal](https://open.spotify.com/artist/0q1Nx41aWpZqanF9sK0O9A) | [Peaks & Troughs 3/3](https://open.spotify.com/album/43CVa2RETrPk8JZdSw4ALp) | 6:17 | 2025-03-14 |  |
 | [Subcultures](https://open.spotify.com/track/219dcH5o0f37ECYioSPtaw) | [Surgeon](https://open.spotify.com/artist/1PSylklb2w06BAAHEtepqM) | [Crash Recoil](https://open.spotify.com/album/074BDQSfufLOuL8qWsRsyg) | 5:58 | 2025-03-14 |  |
@@ -105,7 +106,7 @@
 | [Tramuntana \- Efdemin Remix](https://open.spotify.com/track/6yUIf4MeZhA2tvq42EHaFT) | [Ben Kaczor](https://open.spotify.com/artist/4F3AofUDB3Vb0dHSSFP4aL), [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Petrovo Uho Remixes Part I/III](https://open.spotify.com/album/6V5xhUwDfS2z2zHo608b84) | 7:00 | 2025-03-14 |  |
 | [Twelve Miles High](https://open.spotify.com/track/0hyYhGMrqMJBzuwRZAvELk) | [burger/ink](https://open.spotify.com/artist/3x3wGSv3Xm8xtgXNe6hq99) | [Las Vegas](https://open.spotify.com/album/2e9288yxNdFTCKO6MitcDy) | 11:22 | 2025-03-14 |  |
 | [U Ready 4 That](https://open.spotify.com/track/127C3fm1ruE2yDGo87RExy) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [U Ready 4 That](https://open.spotify.com/album/2io3hZxgdHtvmKTpu9rux2) | 8:19 | 2025-03-14 |  |
-| [Unity \- G's Dub](https://open.spotify.com/track/0tbbwxwUgqh40MSzLqupPp) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV), [Red Eye](https://open.spotify.com/artist/6ixoXddZ103IcJlEeQ17Kt), [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN) | [Unity \(G's Dub\)](https://open.spotify.com/album/7FcRPKDM9QLRaVzp2doaj6) | 7:48 | 2025-03-14 |  |
+| [Unity \- G's Dub](https://open.spotify.com/track/0tbbwxwUgqh40MSzLqupPp) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV), [Red Eye](https://open.spotify.com/artist/6ixoXddZ103IcJlEeQ17Kt), [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN) | [Unity \(G's Dub\)](https://open.spotify.com/album/7FcRPKDM9QLRaVzp2doaj6) | 7:48 | 2025-03-14 | 2025-09-13 |
 | [Untitled C3](https://open.spotify.com/track/3zotN6ezz03EnQoLDMmduF) | [SW.](https://open.spotify.com/artist/6lDaViWraJYpkI6nRq29vp) | [The Album](https://open.spotify.com/album/5yHg79n8OTEDo9V5zNg6oi) | 3:03 | 2025-03-14 |  |
 | [upekah](https://open.spotify.com/track/7I1pDB99PH4iaUatXBXHgi) | [son.sine](https://open.spotify.com/artist/1t4NXvWnxF1xx3r6vhJMSp) | [upekah](https://open.spotify.com/album/5nqOxv7NpHWGFtiZCBuaxq) | 8:57 | 2025-03-14 |  |
 | [Want 2](https://open.spotify.com/track/2Xzkluga8FYJSrvFSg1Mel) | [Eden Aurelius](https://open.spotify.com/artist/5Hs3xbnOvuzuQrBTp2XTOA) | [Plateau](https://open.spotify.com/album/5gaunzRiHIJ4eAGPrES3Dn) | 5:02 | 2025-03-14 |  |

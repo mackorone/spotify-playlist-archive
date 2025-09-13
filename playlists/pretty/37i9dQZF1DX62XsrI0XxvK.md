@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: I Talk Too Much When I'm Drunk
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,352 likes - 94 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,359 likes - 94 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

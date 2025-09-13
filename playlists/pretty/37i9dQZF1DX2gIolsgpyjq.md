@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: ORA
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,356 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,408 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LIMBO](https://open.spotify.com/track/0LEqNH9R8kQxI094YhHBpe) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [](https://open.spotify.com/album/null) | 2:32 |
+| 1 | [LIMBO](https://open.spotify.com/track/0LEqNH9R8kQxI094YhHBpe) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [: \(:](https://open.spotify.com/album/4HN7xWLgsSVl6CdpbNPGRa) | 2:32 |
 | 2 | [How Does It Make U Feel](https://open.spotify.com/track/76KQNTCROBYS2FCsW22z59) | [Betty Bass](https://open.spotify.com/artist/0TwII45Qeh2MAqMjEIoQ8b) | [How Does It Make U Feel](https://open.spotify.com/album/0IqDhsXRrfVOGsOT3J4Bzg) | 3:09 |
 | 3 | [MAJOR CONTEST](https://open.spotify.com/track/3pCWAgzVZ84h10NLQpXQay) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [MAJOR CONTEST](https://open.spotify.com/album/7unvBth5M8c46usYzfA6KP) | 3:07 |
 | 4 | [Blood Moon](https://open.spotify.com/track/4cXAWD76lMGYjXxezJIKin) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Blood Moon](https://open.spotify.com/album/1T1wPY475CLErkq858TqWR) | 4:51 |
-| 5 | [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [](https://open.spotify.com/album/null) | 2:30 |
+| 5 | [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:30 |
 | 6 | [Technology](https://open.spotify.com/track/1yQbR35MXXMhF1GpCK8IQI) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [Technology](https://open.spotify.com/album/1WMjIoQ9QlCDbNxcxTKDJ7) | 3:20 |
 | 7 | [Younger Self](https://open.spotify.com/track/0uyWyRYclJVmkI4uqwsljH) | [Ziggy Maxwell](https://open.spotify.com/artist/6CU3o4SjJwW3qdEI6VDDiE) | [Younger Self](https://open.spotify.com/album/0NugqlTsxUeTbLc75QIrPH) | 3:50 |
 | 8 | [You Don't Wanna Be Mine](https://open.spotify.com/track/46zvZV1EiD2Qch4qELYLno) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [You Don't Wanna Be Mine](https://open.spotify.com/album/7e9JMqzTga2FTNHZFmG1NP) | 2:39 |

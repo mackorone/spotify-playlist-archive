@@ -191,6 +191,28 @@
     },
     {
       "album": {
+        "name": "4 Million",
+        "url": "https://open.spotify.com/album/7C7SAnb0JnoysBMRvvUmV1"
+      },
+      "artists": [
+        {
+          "name": "ELOQ",
+          "url": "https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw"
+        },
+        {
+          "name": "Talons",
+          "url": "https://open.spotify.com/artist/0qiRTNQwfvA91BL30UBRu1"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230845,
+      "name": "4 Million",
+      "url": "https://open.spotify.com/track/2qaWWn0uI8wMwxaeR1oomL"
+    },
+    {
+      "album": {
         "name": "DR-EP-2068",
         "url": "https://open.spotify.com/album/1PB5Z6p5whpyCiQoHXId4y"
       },
@@ -1803,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "Blood Lily",
+        "url": "https://open.spotify.com/album/3ebGUAzkfX0jzNEEydjjx7"
+      },
+      "artists": [
+        {
+          "name": "Olof Dreijer",
+          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374309,
+      "name": "Blood Lily",
+      "url": "https://open.spotify.com/track/6mac12mJ7w4ljGlBmvxvcN"
+    },
+    {
+      "album": {
         "name": "Intuition EP",
         "url": "https://open.spotify.com/album/1GWmmcYy4C5uYoSFYNvavK"
       },
@@ -3208,6 +3248,24 @@
       "duration_ms": 417693,
       "name": "Control",
       "url": "https://open.spotify.com/track/4p3CqOVsYZVupN00Q9Dv1q"
+    },
+    {
+      "album": {
+        "name": "corinthia",
+        "url": "https://open.spotify.com/album/72nSO9MAZLRQ7EXVXQgLxD"
+      },
+      "artists": [
+        {
+          "name": "Vaarwell",
+          "url": "https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253200,
+      "name": "corinthia",
+      "url": "https://open.spotify.com/track/1U5sIecZeRKhACJtqTf9mq"
     },
     {
       "album": {
@@ -6782,7 +6840,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 225976,
       "name": "Hydro",
       "url": "https://open.spotify.com/track/1MbkzIAIN7jNxiUsn4lM2U"
@@ -8241,6 +8299,24 @@
     },
     {
       "album": {
+        "name": "GTC-003: Hizuo",
+        "url": "https://open.spotify.com/album/4zXSYOijUuPqV210URDm7V"
+      },
+      "artists": [
+        {
+          "name": "Hizuo",
+          "url": "https://open.spotify.com/artist/6ro0w9BZTUPO5sk4U0Zz46"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278646,
+      "name": "Like Never Before",
+      "url": "https://open.spotify.com/track/0PwruqT2jjtXoHyBQ9u2SE"
+    },
+    {
+      "album": {
         "name": "Never Ending Story",
         "url": "https://open.spotify.com/album/2MKHidty5McwOOQBddCgr0"
       },
@@ -8602,7 +8678,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 276820,
       "name": "Mantequilla - Pariah Remix",
       "url": "https://open.spotify.com/track/2J8cKWzvrXN1ZcrBoS1IvA"
@@ -9458,7 +9534,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 308341,
       "name": "NINE OH NINE",
       "url": "https://open.spotify.com/track/7bDXl8jdrMwnPmZhOJAYh6"
@@ -15084,7 +15160,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 180909,
       "name": "Wicked",
       "url": "https://open.spotify.com/track/3EEptVzM4uHi9p4RuBMElo"

@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own\. chloe moriondo on the cover.
 
-587 songs - 1 day 8 hr 54 min
+588 songs - 1 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [I MISS YOUR LOVE](https://open.spotify.com/track/0ex8iDhoMsgoix4EkoeTMm) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [I MISS YOUR LOVE](https://open.spotify.com/album/0iJxa8u12IwBPFvOHm47D3) | 3:33 | 2025-08-29 |  |
 | [i pick loneliness](https://open.spotify.com/track/3pacqxmoVX4Im2y6IrrdeU) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l), [Delanie Leclerc](https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx) | [only human.](https://open.spotify.com/album/0IB5gkV5Te5PRuA2KKXqhQ) | 2:37 | 2021-10-21 | 2022-07-29 |
 | [i pick loneliness](https://open.spotify.com/track/4SdoXp42bZe2w5ZFynw8oo) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l), [Delanie Leclerc](https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx) | [i pick loneliness](https://open.spotify.com/album/4TSmJsTIr6I6WDQNwLF0KW) | 2:37 | 2021-09-22 | 2021-09-25 |
-| [I think about it all the time featuring bon iver](https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:20 | 2024-10-11 |  |
+| [I think about it all the time featuring bon iver](https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:20 | 2024-10-11 | 2025-09-13 |
 | [I Went Too Far \- MK Remix / Radio Version](https://open.spotify.com/track/1DtyyKcLBsBoHkbyXd6wzL) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [I Went Too Far \(MK Remix\)](https://open.spotify.com/album/0DAitjhaRt2iMt6uCSkJcm) | 3:57 | 2019-06-22 | 2019-08-08 |
 | [I'm a Ruin](https://open.spotify.com/track/6fODVIVjNDHTSzlEHSsCQt) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Froot](https://open.spotify.com/album/3TGFADcugVPngfF7dtiqqY) | 4:32 | 2019-07-28 | 2019-08-10 |
 | [i'm in the corner, alone](https://open.spotify.com/track/4u8Ul6jrHW8tngY9iHNHzh) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [i'm in the corner, alone](https://open.spotify.com/album/5E1tZLSJJNzzu8WQCqaxIv) | 2:20 | 2025-05-27 |  |
@@ -554,6 +554,7 @@
 | [Vertigo](https://open.spotify.com/track/2Aqg6jGRbrpyX3Pms61Q9o) | [Kisnou](https://open.spotify.com/artist/3Co4gT2U5SSLRcqcaArvBF), [Amethyst](https://open.spotify.com/artist/4rWVnoVdnBxs0C1o9RNIhg) | [Glow to Last](https://open.spotify.com/album/6uF3BZA5Hi002BbTERqshy) | 4:17 | 2019-05-26\* | 2021-05-27 |
 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 | 2022-07-01 |  |
 | [Wait](https://open.spotify.com/track/6AvfZXpbb6r35DfF7gHPRq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:10 | 2019-05-26\* | 2021-05-28 |
+| [Waiting For Love](https://open.spotify.com/track/7faBDPpACK6D31VqvnmeQs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Waiting For Love](https://open.spotify.com/album/5UmQZch97gF84AIdhkRBqI) | 4:29 | 2025-09-12 |  |
 | [waiting on nothing](https://open.spotify.com/track/1KQy9bivMyVPi4LRW9xbAd) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [waiting on nothing \(bye\)](https://open.spotify.com/album/69AGCvDt5nAEIyXFEyTuxy) | 4:07 | 2021-08-07 | 2021-10-23 |
 | [Walking Away](https://open.spotify.com/track/3VVLOvm3AV7quKn7gN9szx) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Walking Away](https://open.spotify.com/album/75KOL2hRVtFhYmpFNKOCFF) | 2:56 | 2021-07-17 | 2021-07-23 |
 | [watch](https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 2:57 | 2021-10-27 |  |

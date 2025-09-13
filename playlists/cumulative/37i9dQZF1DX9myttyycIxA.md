@@ -2,7 +2,7 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Rachael Jenkins
+> Underground indie rock gems\. Cover: Phantastic Ferniture
 
 1,715 songs - 4 day 3 hr 1 min
 

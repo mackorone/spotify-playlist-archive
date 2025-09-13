@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,810 songs - 5 day 3 hr 9 min
+1,811 songs - 5 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1228,7 +1228,7 @@
 | [Paradise](https://open.spotify.com/track/3w9Y8pn8IslbbCL970xMcy) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Paradise](https://open.spotify.com/album/03JjqwDRiH4zqkIwyUTxKo) | 4:07 | 2024-02-23 | 2024-10-23 |
 | [Paradise](https://open.spotify.com/track/3DO4r1LcdreYzoMR9gEKjq) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [Paradise](https://open.spotify.com/album/0f5ddbtff3tuI0S9XMncQj) | 2:51 | 2020-03-16 | 2020-07-03 |
 | [Paradox](https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [Paradox](https://open.spotify.com/album/0YePuQd1BOP4iZiBV33Sqy) | 3:30 | 2021-01-16 | 2024-03-23 |
-| [Part Of Me](https://open.spotify.com/track/1OH2vSZlCAiObaOXq45ccg) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [PHILDEL](https://open.spotify.com/artist/7B0uXJvJUTwwbeSToeZeJ4) | [Part Of Me](https://open.spotify.com/album/3bKS1jrPEjD4Bp6BCtbYRc) | 2:53 | 2025-03-07 |  |
+| [Part Of Me](https://open.spotify.com/track/1OH2vSZlCAiObaOXq45ccg) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [PHILDEL](https://open.spotify.com/artist/7B0uXJvJUTwwbeSToeZeJ4) | [Part Of Me](https://open.spotify.com/album/3bKS1jrPEjD4Bp6BCtbYRc) | 2:53 | 2025-03-07 | 2025-09-13 |
 | [Passing Trains](https://open.spotify.com/track/01oZjrRICAL5l0sSFqpb5D) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [All That Must Be](https://open.spotify.com/album/52LJO0cNeBErBohaxNZ0t4) | 3:13 | 2020-03-20 | 2021-12-21 |
 | [Pattern](https://open.spotify.com/track/56pKxbJR1QFD8fmcqNI4R5) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Pattern](https://open.spotify.com/album/7FL4xjBXkmCJFDVDKP51dG) | 4:12 | 2022-04-01 | 2023-05-30 |
 | [PCH](https://open.spotify.com/track/3JsnAcVZxSzraNojV2rysg) | [Middle Child](https://open.spotify.com/artist/2hp8yAzOnYRUFMCdot9tzN) | [PCH](https://open.spotify.com/album/63vdqcftyz2avO5EdhH6JO) | 3:51 | 2020-07-03 | 2020-10-09 |
@@ -1669,6 +1669,7 @@
 | [U Got My Heart](https://open.spotify.com/track/752noY44yVo7eYK78VikAx) | [Clément Leroux](https://open.spotify.com/artist/3MttWEEoyq7W9MjHEBaKhG), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [U Got My Heart](https://open.spotify.com/album/1a8afZYgO0ToDcgn2VJldN) | 3:11 | 2020-03-16 | 2022-04-20 |
 | [U REALLY HURT ME](https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy) | [LUV HRTS](https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8), [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [U REALLY HURT ME](https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5) | 2:42 | 2024-05-24 | 2025-06-27 |
 | [Ultimatum \- Edit](https://open.spotify.com/track/0slkzFvyBWcwnjEEDtYE5E) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Ultimatum](https://open.spotify.com/album/3mKvAiTrhpJUTAFsJXmjTE) | 3:33 | 2020-05-18 | 2020-07-18 |
+| [Unbound](https://open.spotify.com/track/4helZ9CsKDRX0aO7ogIQTv) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [BJOERN](https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN) | [Unbound](https://open.spotify.com/album/0MCD47Wv2l9Vx62CSVO47O) | 4:23 | 2025-09-05 |  |
 | [Undecided](https://open.spotify.com/track/25CSuITuHOTUSrCx4u72UT) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Undecided](https://open.spotify.com/album/1Ybr2PycNvqre2mpj35VRD) | 4:06 | 2020-11-13 | 2022-02-19 |
 | [Under The Surface](https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Under The Surface](https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1) | 5:24 | 2023-11-24 | 2025-03-22 |
 | [Undercover](https://open.spotify.com/track/1QTNCy6V8BhTi0jLUS2P1I) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Undercover](https://open.spotify.com/album/32i4ZFpav2nsbMtbMvPg76) | 3:32 | 2020-10-23 | 2020-11-06 |

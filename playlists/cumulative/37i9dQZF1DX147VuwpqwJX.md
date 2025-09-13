@@ -4,7 +4,7 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-164 songs - 10 hr 44 min
+165 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [I Miss The Club](https://open.spotify.com/track/1kGXL1YKRNgmTM1niMUsyO) | [Kweku Saunderson](https://open.spotify.com/artist/6TLjcZpFzo4Sno68bY6MkZ), [Dai Burger](https://open.spotify.com/artist/1y6hiqeSWkQrJYXkU5PvUk) | [I Miss The Club](https://open.spotify.com/album/4xOt8HyBopCBsYZAda8u83) | 2:56 | 2021-11-19 |  |
 | [I'M AN ICON](https://open.spotify.com/track/19v2hGGiGoV6HG76q3AoBQ) | [Icon Sinia Alaia](https://open.spotify.com/artist/4lcAwldRw3SfyyEmL80Hpo), [B\. Ames](https://open.spotify.com/artist/4vTr4hPE8WSlvgo9dkSZNW) | [I'M AN ICON](https://open.spotify.com/album/4VtP614QxtGsjlzxfSGBRk) | 3:16 | 2021-11-19 |  |
 | [In Fashion \- Edit](https://open.spotify.com/track/1QQknfkmVoBE1nW6wQtBsm) | [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Jonbers](https://open.spotify.com/artist/0harOPPf2JWeVMHSH2kKtS) | [In Fashion](https://open.spotify.com/album/0yZ1D3ZbcguF5ZkGXPwXkS) | 2:47 | 2024-02-09 |  |
+| [IN N OUT](https://open.spotify.com/track/026I1hB5wan5wdQv20AEEZ) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [SEX DEMON](https://open.spotify.com/album/75zv3Qzx7XhFgS1mDywH7E) | 2:42 | 2025-09-12 |  |
 | [Into The Light](https://open.spotify.com/track/3qbpb3YepbCVJMLx4jONIy) | [Purple Crush](https://open.spotify.com/artist/7k38mPk8Flx7gjsdVMIhg1) | [Ballroom Baby](https://open.spotify.com/album/5ltQzlLgfYXeP4sKh9aVWU) | 3:58 | 2021-11-19 |  |
 | [Jingle Balls](https://open.spotify.com/track/0OmmIqLH2Y1Ln2ddj7iebU) | [Ocean Kelly](https://open.spotify.com/artist/5Gzk0GbwDyoMuAvo4dhj3S) | [Jingle Balls](https://open.spotify.com/album/25k7tn8mxGfJjFVelyVnpa) | 1:46 | 2021-11-19 | 2024-02-10 |
 | [Just What They Want](https://open.spotify.com/track/0jq1oPbJ8seaxmHURGYlde) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Mamaru](https://open.spotify.com/album/2jBDNqjSMY1hUz1BGHsXWB) | 3:12 | 2023-07-14 | 2024-04-19 |
@@ -141,7 +142,7 @@
 | [tunna\-melt](https://open.spotify.com/track/40wS0Hn107CwIHLHSQNsGt) | [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [CKUNTINOMKSZ](https://open.spotify.com/album/2YzChAOzMjwskZWWuSXXcI) | 2:27 | 2021-11-19 | 2024-02-10 |
 | [Turned Heads](https://open.spotify.com/track/2imalXmegXoWFbiqXxXeDf) | [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Turned Heads](https://open.spotify.com/album/21PU8CmmhciAg0HKRL1oh3) | 2:22 | 2022-03-04 |  |
 | [Turned Heads](https://open.spotify.com/track/4GKDapJjK9DOCG3ZQdWxcG) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v) | [Turned Heads](https://open.spotify.com/album/4X1xAPK4ft5jb9MPvUuDDX) | 2:22 | 2022-08-05 | 2024-04-19 |
-| [Type of Way](https://open.spotify.com/track/71Z6LqO4xMJU3n68WN5OuW) | [Prince Airick](https://open.spotify.com/artist/13gzY5N96fkEIK8jJBHQUs) | [Type of Way](https://open.spotify.com/album/4HnemZupNIEbgsYpHfM9M6) | 2:46 | 2021-11-19 |  |
+| [Type of Way](https://open.spotify.com/track/71Z6LqO4xMJU3n68WN5OuW) | [Prince Airick](https://open.spotify.com/artist/13gzY5N96fkEIK8jJBHQUs) | [Type of Way](https://open.spotify.com/album/4HnemZupNIEbgsYpHfM9M6) | 2:46 | 2021-11-19 | 2025-09-13 |
 | [U Wanna?](https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1) | [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [Sir JoQ](https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs) | [U Wanna?](https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO) | 4:10 | 2022-04-01 |  |
 | [Voodoo Pussy](https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Whorecore](https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy) | 3:23 | 2021-11-19 |  |
 | [Vox](https://open.spotify.com/track/7I5Ob4Izz1yJKINm2C3hjf) | [OG MarlynMonROLLUP](https://open.spotify.com/artist/5WL4ngAXr946yPkXFvUkax) | [Vox](https://open.spotify.com/album/3ePnQQvmjCbOH0Bo8EJ7XV) | 0:59 | 2023-02-28 |  |

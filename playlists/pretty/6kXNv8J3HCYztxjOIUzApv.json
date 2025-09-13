@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 61628,
+  "num_followers": 61624,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "AAAI0/koRiwrK9FQDUoNsYxiid3X1wfE",
+  "snapshot_id": "AAAI1aBQmhmT/HqbFuGQCsHwDpKRmyfS",
   "tracks": [
     {
       "added_at": "2025-08-08 16:01:32",
@@ -79,6 +79,34 @@
       "duration_ms": 183151,
       "name": "Heretic (feat. Kim Dracula)",
       "url": "https://open.spotify.com/track/5Xa0Qdt8xFbjGKvJgb12nt"
+    },
+    {
+      "added_at": "2025-09-12 15:19:54",
+      "album": {
+        "name": "Crossing the Rubicon (feat. NOTHING MORE)",
+        "url": "https://open.spotify.com/album/1wSTkIeWrOhenv55gnRIFI"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        },
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        },
+        {
+          "name": "Jonny Hawkins",
+          "url": "https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN"
+        },
+        {
+          "name": "Mark Vollelunga",
+          "url": "https://open.spotify.com/artist/69lSSZZg7Xp8XJ3bjdNOXU"
+        }
+      ],
+      "duration_ms": 204400,
+      "name": "Crossing the Rubicon (feat. NOTHING MORE)",
+      "url": "https://open.spotify.com/track/2EVeVyXH9mQ5IIGi9b3smP"
     },
     {
       "added_at": "2025-07-18 08:05:42",

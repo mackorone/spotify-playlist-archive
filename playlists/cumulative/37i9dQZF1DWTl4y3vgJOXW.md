@@ -2,9 +2,9 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Jayden Daniels
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jordan Love
 
-843 songs - 1 day 19 hr 11 min
+844 songs - 1 day 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,7 @@
 | [GEEKALEEK \(feat\. Cash Kidd\)](https://open.spotify.com/track/2f9JzwRy6Ofr5ixvN0ojKt) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu) | [GEEKALEEK \(feat\. Cash Kidd\)](https://open.spotify.com/album/37Vw00Rrpb0klzR4Tez4bo) | 2:26 | 2023-02-03 | 2023-02-15 |
 | [Get Em High](https://open.spotify.com/track/5b2FFKC64kxqcfaFnIZxoM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 4:49 | 2024-10-25 | 2024-11-02 |
 | [GET JIGGY](https://open.spotify.com/track/1yPOdPOvDAR8J4KBzEHIy2) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L), [Lil Slixk](https://open.spotify.com/artist/30r98xL28PIfjUG4JwyWaM), [Lil Reaper](https://open.spotify.com/artist/0pXg9udRX8G5ra0m4xllGv) | [HELL CAN'T SAVE YOU](https://open.spotify.com/album/5F10HRZliGco8ZtXZQCqPV) | 2:24 | 2024-03-22 | 2024-05-04 |
-| [Get To It \(feat\. Nino Paid\)](https://open.spotify.com/track/02h1SjpjOuceuRbMTvihBt) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Get To It \(feat\. Nino Paid\)](https://open.spotify.com/album/750gEj1yKmKpsgetJHUvtv) | 3:10 | 2025-05-16 |  |
+| [Get To It \(feat\. Nino Paid\)](https://open.spotify.com/track/02h1SjpjOuceuRbMTvihBt) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Get To It \(feat\. Nino Paid\)](https://open.spotify.com/album/750gEj1yKmKpsgetJHUvtv) | 3:10 | 2025-05-16 | 2025-09-13 |
 | [Gettin Money \(feat\. OJ Da Juiceman\)](https://open.spotify.com/track/5iFOoVlBbI0GO4XWyS5L8a) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [OJ Da Juiceman](https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn) | [Gettin Money](https://open.spotify.com/album/24WWSezNd0RRJQL6jnrpXs) | 2:24 | 2025-03-07 | 2025-04-26 |
 | [Ghost Of Soulja Slim](https://open.spotify.com/track/4T9PRL2ykQDKxgF3XWsPga) | [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [A Written Testimony](https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu) | 4:26 | 2024-10-25 | 2024-11-02 |
 | [Gimme Da Lite](https://open.spotify.com/track/5VE6OSfJkMHyMpHaJzuUqn) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gimme Da Lite](https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx) | 1:53 | 2023-12-08 | 2024-02-10 |
@@ -491,6 +491,7 @@
 | [Moonwalking in Calabasas \- YG Remix](https://open.spotify.com/track/0Ho6FZYMzklqIlRaa9LRR3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Moonwalking in Calabasas \(YG Remix\)](https://open.spotify.com/album/1gaTBBgYUTU0mSzJtMzYdo) | 3:02 | 2021-09-02 | 2022-06-25 |
 | [Mopstick \(feat\. Kodak Black\)](https://open.spotify.com/track/5FAQb7Cfps6JCYl2ZjtWHO) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mopstick \(feat\. Kodak Black\)](https://open.spotify.com/album/1RuIdS69hrZ6ToCFOIRjYK) | 3:36 | 2022-06-24 | 2023-06-09 |
 | [Morant \(feat\. Skilla Baby\)](https://open.spotify.com/track/3skAfNDUhLK3dZsF9ac7Fw) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Back Outside](https://open.spotify.com/album/4g0tiSLEGgiPOPTOMS5UGP) | 2:59 | 2023-12-08 | 2024-01-20 |
+| [Motion \(feat\. Sexyy Red & NaNaski\)](https://open.spotify.com/track/5Ryy52nsMyZhYhAxypC2b8) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [NaNaski](https://open.spotify.com/artist/0mEBhT853pcpz3xM3URKXf) | [Motion \(feat\. Sexyy Red & NaNaski\)](https://open.spotify.com/album/3uGhJedbjmZ0kGDqjp3bkP) | 3:12 | 2025-09-12 |  |
 | [Motion God](https://open.spotify.com/track/4FpgCVHDfwcHQ17hJ9SyuL) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:22 | 2023-06-09 | 2024-04-19 |
 | [Motion God](https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Motion God](https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31) | 2:23 | 2023-05-18 | 2024-09-01 |
 | [Move Wrong \(feat\. VonOff1700\)](https://open.spotify.com/track/2SMF2u7O3EWWQOGOWV0saV) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Move Wrong \(feat\. VonOff1700\)](https://open.spotify.com/album/7v6gSKQkaHs78xNG9FMLFd) | 2:19 | 2025-08-15 |  |

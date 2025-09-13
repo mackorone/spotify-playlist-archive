@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,816 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,824 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 74 | [Tu És Real \(feat\. Fernandinho & Gabriela Rocha\)](https://open.spotify.com/track/103rDmKCI9cOA5z1ZMkkHm) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Som da Liberdade 2.0](https://open.spotify.com/album/6lXJdvuPnJl7T3dN2ctPws) | 4:21 |
 | 75 | [YOU ARE GOOD](https://open.spotify.com/track/2K8WQYyYQgCkMn68iK5yiz) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr) | [YOU ARE GOOD](https://open.spotify.com/album/4N7YMZlUlS4Mx4UAqKRUEJ) | 2:20 |
 
-Snapshot ID: `AAAAAOIesdO4Y7MOsRAcKsY0kqtD7ekR`
+Snapshot ID: `AAAAAGO/B0l1kdDVaaPqhyE8L+eaOHkw`

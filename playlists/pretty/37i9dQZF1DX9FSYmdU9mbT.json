@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Caetano & Beth\u00e2nia",
-  "num_followers": 1439421,
+  "num_followers": 1439612,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Ana Rita Joana Iracema Carolina",
-        "url": "https://open.spotify.com/album/4EeOCRFhVMUClJ50RquRwK"
-      },
-      "artists": [
-        {
-          "name": "Ana Carolina",
-          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
-        }
-      ],
-      "duration_ms": 305666,
-      "name": "Quem de n\u00f3s Dois (La Mia Storia Tra Le Dita)",
-      "url": "https://open.spotify.com/track/2yQMmtem48vOjB1OXAvbKD"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
         "name": "A Bossa De Caetano",
         "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 187626,
       "name": "Samba De Ver\u00e3o",
       "url": "https://open.spotify.com/track/1vt0n3GcAYrsSMue1C6OtC"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Ana Rita Joana Iracema Carolina",
+        "url": "https://open.spotify.com/album/4EeOCRFhVMUClJ50RquRwK"
+      },
+      "artists": [
+        {
+          "name": "Ana Carolina",
+          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
+        }
+      ],
+      "duration_ms": 305666,
+      "name": "Quem de n\u00f3s Dois (La Mia Storia Tra Le Dita)",
+      "url": "https://open.spotify.com/track/2yQMmtem48vOjB1OXAvbKD"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -395,26 +395,18 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
+        "name": "Djavan \"Ao Vivo\"",
+        "url": "https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7"
       },
       "artists": [
         {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        },
-        {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
-        },
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
         }
       ],
-      "duration_ms": 327946,
-      "name": "Anuncia\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy"
+      "duration_ms": 254800,
+      "name": "Meu Bem-Querer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -435,18 +427,26 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Djavan \"Ao Vivo\"",
-        "url": "https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7"
+        "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
       },
       "artists": [
         {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        },
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        },
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
         }
       ],
-      "duration_ms": 254800,
-      "name": "Meu Bem-Querer (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG"
+      "duration_ms": 327946,
+      "name": "Anuncia\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Ex-Amor",
-        "url": "https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 245773,
-      "name": "Ex-Amor",
-      "url": "https://open.spotify.com/track/5eN58yh1jG1af8DWgZELk0"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
         "name": "Como Vai Voc\u00ea",
         "url": "https://open.spotify.com/album/73zRVTgL5JJugtY1zWasXe"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 227568,
       "name": "Como Vai Voc\u00ea",
       "url": "https://open.spotify.com/track/6DihrQCKtLq7SpVQt4jBzA"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Ex-Amor",
+        "url": "https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 245773,
+      "name": "Ex-Amor",
+      "url": "https://open.spotify.com/track/5eN58yh1jG1af8DWgZELk0"
     },
     {
       "added_at": "2025-05-30 05:19:13",

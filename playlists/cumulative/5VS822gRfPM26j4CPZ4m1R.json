@@ -11039,6 +11039,24 @@
     },
     {
       "album": {
+        "name": "You And I",
+        "url": "https://open.spotify.com/album/7uplgyK0NYSBM0vtLK4BIE"
+      },
+      "artists": [
+        {
+          "name": "Grayson Hamm",
+          "url": "https://open.spotify.com/artist/1zQbqJWYcdrVXef2iatspr"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136045,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/7jwJMpWbCm9SPrV6dqvAc7"
+    },
+    {
+      "album": {
         "name": "You and Me",
         "url": "https://open.spotify.com/album/01OtjntAAs5CH0j9De639T"
       },

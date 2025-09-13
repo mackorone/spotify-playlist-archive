@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "At the same time",
+        "url": "https://open.spotify.com/album/0IU4O0061NBlGfcVX9YObh"
+      },
+      "artists": [
+        {
+          "name": "Blythe Davidson",
+          "url": "https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191334,
+      "name": "At the same time",
+      "url": "https://open.spotify.com/track/5Y2UB0AcXta6OuSxgeqMRG"
+    },
+    {
+      "album": {
         "name": "Azores",
         "url": "https://open.spotify.com/album/6cBG03sFqnDga0VqnWDpEu"
       },
@@ -3382,6 +3400,24 @@
       "duration_ms": 130351,
       "name": "Frelsien",
       "url": "https://open.spotify.com/track/3FyCPb0sXgPpBnsvIosqAZ"
+    },
+    {
+      "album": {
+        "name": "From me to you",
+        "url": "https://open.spotify.com/album/1dMuiLPoMq3CJuKgFrKc7p"
+      },
+      "artists": [
+        {
+          "name": "Elvin Mercher",
+          "url": "https://open.spotify.com/artist/5GVmxZZpLOj3mPeqMmNoFv"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162124,
+      "name": "From me to you",
+      "url": "https://open.spotify.com/track/1T0Knq3JKfOdEQVQboEWWM"
     },
     {
       "album": {
@@ -7627,6 +7663,24 @@
     },
     {
       "album": {
+        "name": "Run With the Wind",
+        "url": "https://open.spotify.com/album/4I4ht37rAlohJDjdHkn0lP"
+      },
+      "artists": [
+        {
+          "name": "Jesse Rostad",
+          "url": "https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144533,
+      "name": "Run With the Wind",
+      "url": "https://open.spotify.com/track/0mzRxjvzScWww708NG5bqR"
+    },
+    {
+      "album": {
         "name": "Sage",
         "url": "https://open.spotify.com/album/29Yl3TO5JAkkkoiqf8iEOd"
       },
@@ -9251,6 +9305,24 @@
     },
     {
       "album": {
+        "name": "The Rain Comes",
+        "url": "https://open.spotify.com/album/6R7wD5TChs18vFNeX4jzin"
+      },
+      "artists": [
+        {
+          "name": "Ivan Bielsa",
+          "url": "https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160481,
+      "name": "The Rain Comes",
+      "url": "https://open.spotify.com/track/5zpgmMQ46DVTr97ZwFDcAG"
+    },
+    {
+      "album": {
         "name": "The Spring Bird",
         "url": "https://open.spotify.com/album/1zBJdIFX92nSLrv5ek5YqP"
       },
@@ -10562,7 +10634,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 141707,
       "name": "Your Eye",
       "url": "https://open.spotify.com/track/66ELkzGMFc0rGcYp2xfFWe"

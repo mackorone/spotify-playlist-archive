@@ -4,7 +4,7 @@
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Alok
 
-253 songs - 13 hr 16 min
+254 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Hanging Tree](https://open.spotify.com/track/5cZvvqthQVJCRXccaTIi6K) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Erjona Sylejmani](https://open.spotify.com/artist/4hPIBZfAdFw7xbOJodijWv) | [Hanging Tree](https://open.spotify.com/album/1xBRANluuhfC5N5RsPUI3I) | 2:32 | 2021-12-24 | 2022-07-02 |
 | [Harder](https://open.spotify.com/track/2YEfNfLGrHzps3NVUpfIqu) | [NALYRO](https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f) | [Harder](https://open.spotify.com/album/6kErOOaFnYHlbv8GDs9Igv) | 2:00 | 2022-05-20 | 2022-10-08 |
 | [Haters](https://open.spotify.com/track/1g4a73fKAi2cZJiCXdVZl2) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Haters](https://open.spotify.com/album/0zw51vWfDGCqI2LbRAACOP) | 0:29 | 2021-12-24 | 2022-07-02 |
+| [Hear Yourself](https://open.spotify.com/track/1Ly28zPxxStDqwxtN9zBwF) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX) | [Hear Yourself](https://open.spotify.com/album/7Kag43UkTniOWUXObqK4Qt) | 3:52 | 2025-09-12 |  |
 | [Hello](https://open.spotify.com/track/4E9K1ajd8rZk2sxBquLgUy) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Juicce](https://open.spotify.com/artist/63arbh8ZF2mvGFINe50Byi) | [Hello](https://open.spotify.com/album/2FzEWrQDIQB7fQuYrKxdDf) | 2:50 | 2024-02-23 | 2024-12-20 |
 | [High](https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Vinter](https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz) | [High](https://open.spotify.com/album/1KXGij9oegXwEbsx8jnXe8) | 3:00 | 2024-10-04 | 2025-05-23 |
 | [Hollaback Girl](https://open.spotify.com/track/532gUQw045MyBKmh0Wsaiv) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Dansyn](https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv) | [Hollaback Girl](https://open.spotify.com/album/154vD3Lcgt8zHEKlfZRYH5) | 2:37 | 2025-07-04 |  |
@@ -198,7 +199,7 @@
 | [Push The Feeling On](https://open.spotify.com/track/0XkWaA0Vyls3Jd15oYWG9L) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Push The Feeling On](https://open.spotify.com/album/1UasoHOSOcPNtRII5u3wiL) | 2:54 | 2021-12-24 | 2023-08-19 |
 | [QUE TÚ QUIERES](https://open.spotify.com/track/5ADDkBla6hmJsvvPxeV8Pg) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [QUE TÚ QUIERES](https://open.spotify.com/album/5QoP5tRJwXuFVmWOR1iGPH) | 2:12 | 2023-03-17 | 2024-06-08 |
 | [Rare Vision](https://open.spotify.com/track/4XGTuVNDxJzYu0YMRr32fc) | [REDÜKT](https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH), [Talkz](https://open.spotify.com/artist/3tlA6hvvEzWvgLzIQX4WS5) | [Rare Vision](https://open.spotify.com/album/5Vkz6Cs7Afi7BytbP2BWb7) | 3:05 | 2022-05-20 | 2023-04-22 |
-| [REALITY](https://open.spotify.com/track/2FH95vGwiMrLK3UtqnOLUd) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg) | [REALITY](https://open.spotify.com/album/6aEaeRTSchD9QgL21EfjII) | 4:08 | 2024-05-10 |  |
+| [REALITY](https://open.spotify.com/track/2FH95vGwiMrLK3UtqnOLUd) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg) | [REALITY](https://open.spotify.com/album/6aEaeRTSchD9QgL21EfjII) | 4:08 | 2024-05-10 | 2025-09-13 |
 | [Reason](https://open.spotify.com/track/0ppTYxMWmNN8SuVoRZMbKB) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Reason](https://open.spotify.com/album/11L6VBSHib3rjEo7PQbJib) | 3:06 | 2023-12-08 | 2024-10-18 |
 | [Reasons](https://open.spotify.com/track/2BHpGigZGOeJGLGbBrjWUk) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Reasons](https://open.spotify.com/album/4vIUsFZLhoOh3yMdXfOYtl) | 3:40 | 2025-05-16 |  |
 | [Redline](https://open.spotify.com/track/2SccLSKaSbPI8ei4V0kTnw) | [Reezer](https://open.spotify.com/artist/0A0qH0k5vzwUrAAjcxZsN0) | [Redline](https://open.spotify.com/album/0aXKQ2PXqOWt7I1b2zHNc9) | 3:11 | 2024-05-10 |  |

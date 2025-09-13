@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre\-less\. Quality first always\. Cover: El Michels Affair
+> Genre\-less\. Quality first always\. Cover: Joviale
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335,325 likes - 188 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335,280 likes - 188 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 187 | [<<<<3333](https://open.spotify.com/track/0B6m0N0hRcBbQUtOcfsJh7) | [Hadren](https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln), [Memory Of Jane](https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM) | [<<<<3333](https://open.spotify.com/album/47K9wfu3icsZOGwqJa6LPW) | 2:58 |
 | 188 | [Omorfo Mou](https://open.spotify.com/track/0KfsgnDl1DxrudLyDrD1Iq) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Omorfo Mou](https://open.spotify.com/album/0c7AnOZzrNxSSNwEotCL8m) | 2:47 |
 
-Snapshot ID: `AAAAADtMridfH111vs6PLips7icELpGY`
+Snapshot ID: `AAAAACBv5CiOBfUP0jniclRIwx0cMVFj`

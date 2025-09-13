@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,254 likes - 153 songs - 7 hr 36 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,251 likes - 154 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,5 +161,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 151 | [Me And The Boys](https://open.spotify.com/track/26yigi8Zls6uVgEdrOKk42) | [Roc Dubloc](https://open.spotify.com/artist/2hjZ90rim3E4OjQh6oG2QV) | [Me And The Boys](https://open.spotify.com/album/43GyKcda0rVZNZNtw6ZtwA) | 2:33 |
 | 152 | [Everytime](https://open.spotify.com/track/5uaHSOou5ernQBKhfVse1f) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT), [Lustral](https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7) | [Everytime](https://open.spotify.com/album/3mSHcMzJwojPzTVubh9MuN) | 3:25 |
 | 153 | [Le Temps Est Bon \(feat\. In\-Grid\)](https://open.spotify.com/track/6M3gx3M4AvOgxQ3HIk5Qi5) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [Paolo Rossini](https://open.spotify.com/artist/2D2DjBvMJ0TjhT2eSCPgaF), [In\-Grid](https://open.spotify.com/artist/1SLFnlhgHr5lExgdr6YeoL) | [Le Temps Est Bon \(feat\. In\-Grid\)](https://open.spotify.com/album/340t3nNRrXRWijl4HTajn6) | 2:06 |
+| 154 | [KIDS](https://open.spotify.com/track/2FseetX4Od9OkF80RiQQW8) | [Dan Heist](https://open.spotify.com/artist/58sSgXdraXhUDJviQD4ZNS) | [KIDS](https://open.spotify.com/album/3g2krLRAh7gyo34ZByhHF6) | 3:20 |
 
-Snapshot ID: `AAAKcUjReyBGqHIxiu6Otc5usKhZhVbZ`
+Snapshot ID: `AAAKciwBeIcAgNA/oU1iiNERWOia9dQ1`

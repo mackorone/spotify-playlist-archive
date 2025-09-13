@@ -4,7 +4,7 @@
 
 > All the freshest hip\-hop heaters in one list! Cover: Central Cee.
 
-743 songs - 1 day 10 hr 49 min
+745 songs - 1 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [cyber girl](https://open.spotify.com/track/00a15KYoukrddq5MKhzyGF) | [MIRRAR](https://open.spotify.com/artist/39zqfoXqVbCNHs3Ip4kbGp) | [Emotional Trillz](https://open.spotify.com/album/3Upvn1wCLlwtrZ8Z3Sgaca) | 2:10 | 2025-02-21 | 2025-03-22 |
 | [D\-Boy \(feat\. Foggieraw & DaVionne\)](https://open.spotify.com/track/1k5KzXU18wUu77gVeogfY2) | [Jourden](https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [DaVionne](https://open.spotify.com/artist/0kQVtbYXplOdbRNlQ3RBOE) | [Straight, No Chase](https://open.spotify.com/album/1E3bAnOZmyf5Myw22u6330) | 2:33 | 2024-08-23 | 2024-09-14 |
 | [DADA](https://open.spotify.com/track/51OEKsTq9Vzj1yHZruJaDm) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [DADA](https://open.spotify.com/album/3eUYSh3MjmBl6Va32AFYEW) | 1:56 | 2025-08-08 | 2025-08-16 |
+| [DADE \(feat\. Key Glock\)](https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [DADE \(feat\. Key Glock\)](https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad) | 1:44 | 2025-09-12 |  |
 | [Danger Danger \(with Swizz Beatz, Pusha T & Jadakiss\)](https://open.spotify.com/track/6WiIoG4iuSebXWYi7C9o1L) | [Godfather of Harlem](https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Godfather of Harlem: Season 4 \(Original Series Soundtrack\)](https://open.spotify.com/album/7hDe4I5azuRDU2Z5yhHTix) | 3:45 | 2025-04-21 | 2025-05-24 |
 | [DARK AURA](https://open.spotify.com/track/7rAP7mtyWDhUPkOVBqIVLs) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [DARK AURA](https://open.spotify.com/album/71gwUOOxYPgpA7z55066tn) | 2:53 | 2025-08-22 | 2025-09-09 |
 | [David Blaine](https://open.spotify.com/track/6PYEqxYgg6BGlJyuOaBbSr) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [David Blaine](https://open.spotify.com/album/1i0lCItQxibzKozJOCc0tQ) | 1:22 | 2025-03-28 | 2025-05-10 |
@@ -510,6 +511,7 @@
 | [Petite Dose](https://open.spotify.com/track/5sJYv4k2LCN2JFytafATyv) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [Petite Dose](https://open.spotify.com/album/4GZOqf9NfaYlwZxA9viP33) | 2:10 | 2024-11-29 | 2025-01-18 |
 | [petty](https://open.spotify.com/track/29MLR2NLLgklE3jtjVZPa7) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [petty](https://open.spotify.com/album/6weS9JZ5fOI3ZuhERlRUL2) | 2:31 | 2025-03-21 | 2025-04-26 |
 | [Pink Dreads](https://open.spotify.com/track/0dbJg8aQkJ08TdO0HjzipR) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Pink Dreads](https://open.spotify.com/album/1BmgY2s1z4yYuKU3ZwMrzZ) | 2:00 | 2025-01-10 | 2025-03-15 |
+| [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC) | 2:44 | 2025-09-12 |  |
 | [Piss Me Off](https://open.spotify.com/track/3I1Mn6RzwUcijoJWyyLPmF) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7) | [Here to Stay](https://open.spotify.com/album/2a77t1VrX4BW3NTdqY345t) | 2:00 | 2025-04-04 | 2025-05-10 |
 | [PISSED OFF](https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [PISSED OFF](https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e) | 2:41 | 2024-10-13 | 2024-12-14 |
 | [PISSED OFF](https://open.spotify.com/track/5iB7DuZkjVDALevcDbeCh9) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [PISSED OFF](https://open.spotify.com/album/2KprY5iIAZnhqRomAWaDUX) | 2:41 | 2024-09-27 | 2024-10-05 |

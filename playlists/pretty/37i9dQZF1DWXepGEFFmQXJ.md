@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: Riley Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,239 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,333 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 23 | [How Far Does A Goodbye Go](https://open.spotify.com/track/17U2M7HB14yGe9QSAmbyyB) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [How Far Does A Goodbye Go](https://open.spotify.com/album/0afhYLtsOqvFHx5OpJAqRn) | 3:55 |
 | 24 | [Believe](https://open.spotify.com/track/1NFoiN49PDuBXtUHdNbbDs) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Believe](https://open.spotify.com/album/4Ja7hIWc5OM23OygWQ7zLA) | 4:42 |
 | 25 | [Momma Loves Me \(feat\. The Red Clay Strays\)](https://open.spotify.com/track/43tsELuga3UvhqsCFKpVER) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Momma Loves Me \(feat\. The Red Clay Strays\)](https://open.spotify.com/album/4RXLRP92cCLxT834dGyKSJ) | 3:29 |
-| 26 | [Two First Names](https://open.spotify.com/track/2e7x4VTgV0faEfG9MwkHFI) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [](https://open.spotify.com/album/null) | 4:08 |
+| 26 | [Two First Names](https://open.spotify.com/track/2e7x4VTgV0faEfG9MwkHFI) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [When I Write The Song](https://open.spotify.com/album/0GpuzOYTm6vI23eCZV9GRw) | 4:08 |
 | 27 | [Chevy Silverado](https://open.spotify.com/track/4d7xkIulyiI53l1n4K2Nor) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Chevy Silverado](https://open.spotify.com/album/4XbzaCm1Eg2kKza2rkTKIP) | 3:41 |
 | 28 | [Eatin' Big Time](https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 4:45 |
 | 29 | [The Thing About Us](https://open.spotify.com/track/6iv02GFYLyihjmLKnDgtWM) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [The Thing About Us](https://open.spotify.com/album/6jeWOR4WLDY93oZ39yFAbd) | 3:09 |

@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Gabriel Guedes de Almeida
 
-2,713 songs - 9 day 12 hr 19 min
+2,713 songs - 9 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1766,6 +1766,7 @@
 | [Olho no Espelho](https://open.spotify.com/track/7rLC1zwv7TRrFEZseK180K) | [Tania Tavares](https://open.spotify.com/artist/1iCl82PTyNkMdECjwbhvn4), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS) | [Olho no Espelho](https://open.spotify.com/album/2YFesWo3cexntgenwZlPjH) | 4:17 | 2023-08-18 | 2023-09-02 |
 | [Olho Para Ti \(Ao Vivo\)](https://open.spotify.com/track/2nezrCwnOsNScl12Ut7s7M) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Olho Para Ti \(Ao Vivo\)](https://open.spotify.com/album/6oFnNKu4vrCwUlZ2rTs1g0) | 4:40 | 2024-06-14 | 2024-06-29 |
 | [Olhos nos Olhos](https://open.spotify.com/track/40joWfsggJi2lD7ma8I1pQ) | [Ministério Atitude](https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4), [Filipe Bitencourt](https://open.spotify.com/artist/12eLZflwp21B3NNLVlKKsR) | [O Tempo da Promessa](https://open.spotify.com/album/6BdFDJkq2Du6vWSfOlAmDT) | 5:26 | 2023-11-24 | 2023-12-23 |
+| [Olhos não viram](https://open.spotify.com/track/6RCjTKe9B8UPZAjv4LebOm) | [Luciano Camargo](https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3), [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Unidos Pela Fé Vol 1](https://open.spotify.com/album/6LGmHhZPfHHzQCrXzFGhb4) | 4:23 | 2025-09-12 |  |
 | [Olá, Muito Bom Dia](https://open.spotify.com/track/4rRAYwisssZH0kadnlS4d1) | [Rafael Caff](https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw) | [Olá, Muito Bom Dia](https://open.spotify.com/album/2zCkFHFz95lIZZDL1KUhJM) | 2:55 | 2025-02-21 | 2025-03-01 |
 | [Onde Está ó Morte ?](https://open.spotify.com/track/0owJC2w9eUqzFILfiGR4u1) | [Cultura do Céu](https://open.spotify.com/artist/2CzYWEDa8pdDgcwaazooQd), [Davi Fernandes](https://open.spotify.com/artist/6llGArQXTEY84S4Oto9Vll), [Kaleb e Josh](https://open.spotify.com/artist/7lHNnOaw7HKhocFnGvCxpW) | [Onde Está ó Morte ?](https://open.spotify.com/album/3yigpcrpJ9DIDXAgLQrmsD) | 6:25 | 2023-09-15 | 2023-09-26 |
 | [Onde Está ó Morte?](https://open.spotify.com/track/74SuzjKPi2iVH3EqG46js6) | [Lagoinha Worship](https://open.spotify.com/artist/35zvQThIAPQyUB1Nb5VkbV), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Marllon Ribeiro](https://open.spotify.com/artist/6CdzLasuO9Gbn0mHJSPD5l) | [Onde Está Ó Morte?](https://open.spotify.com/album/5r4kf9k5zIUJUkqTAhh7Me) | 7:42 | 2023-11-24 | 2023-12-23 |
@@ -2393,7 +2394,6 @@
 | [Toma o Teu Lugar \- Ao Vivo](https://open.spotify.com/track/3LoRbNWwkxHNEVkoLCUyzw) | [AC Music](https://open.spotify.com/artist/64BteyaH9QwIRgW5hNSseP) | [Toma o Teu Lugar \(Ao Vivo\)](https://open.spotify.com/album/5oZPXlM2A5k78kmB48oPXi) | 7:41 | 2023-07-07 | 2023-07-15 |
 | [Toma o Teu Lugar \- Ao Vivo](https://open.spotify.com/track/11orEuMlG892JoAEe8AO7O) | [Davi Silva](https://open.spotify.com/artist/37MmnavknAY8Z2ICERRshR), [Calebe Silva](https://open.spotify.com/artist/3xNrTtlY538coY4laqBfd9) | [Toma o Teu Lugar \(Ao Vivo\)](https://open.spotify.com/album/2wtJ4lJkXdoZ5HVEXN5biS) | 5:33 | 2025-04-25 | 2025-05-10 |
 | [Trabalho Duro \- Deluxe](https://open.spotify.com/track/4GmyRRbamtB2G39PK7jhk7) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Trabalho Duro \- Deluxe](https://open.spotify.com/album/0JTucnGKKHiCUlUF1c3W9T) | 3:26 | 2024-08-30 | 2024-09-07 |
-| [Track 1](https://open.spotify.com/track/6RCjTKe9B8UPZAjv4LebOm) | [Luciano Camargo](https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3), [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-12 |  |
 | [Tragam Suas Vasilhas \- Ao vivo](https://open.spotify.com/track/4ixDVetdu4PkAHQuojumDM) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [Tragam Suas Vasilhas \(Ao Vivo\)](https://open.spotify.com/album/7IISqDRueMy006SHDOFWIO) | 7:19 | 2024-06-14 | 2024-06-29 |
 | [TRAIÇÃO NA MESA](https://open.spotify.com/track/5klH9yQ6VRFvfdP654eIg4) | [Israel Santos](https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu) | [TRAIÇÃO NA MESA](https://open.spotify.com/album/0Eqbeu7lWpuIW2Kgsy3MOo) | 3:03 | 2025-09-05 |  |
 | [Trajeto de Uma Oração](https://open.spotify.com/track/4oFTo955xdpdewPdkQUbh6) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Trajeto de Uma Oração](https://open.spotify.com/album/2KbS1m4cfGgPnolOC6KK7x) | 4:50 | 2024-09-27 | 2024-10-12 |

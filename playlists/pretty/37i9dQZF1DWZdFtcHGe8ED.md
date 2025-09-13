@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,974 likes - 200 songs - 14 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,936 likes - 200 songs - 14 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,9 +204,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 194 | [Bleeding Out](https://open.spotify.com/track/43leqVDeli1HgybvpX93GG) | [Xentrix](https://open.spotify.com/artist/5lYOBorQmZgCCPxJYCjSmO) | [Bleeding Out](https://open.spotify.com/album/5t1gUgN4mYBojZTxRQyCEO) | 4:33 |
 | 195 | [Romeo Delight](https://open.spotify.com/track/0Zl2Wx0aqXhMfFMcsLYmor) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO), [Stu Block](https://open.spotify.com/artist/3y7cQLWTNdxQ1u3KZBSTtl), [Dave Lombardo](https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r) | [Metal II](https://open.spotify.com/album/6rvqy7S1R8d5kZ7jHNQ3Iw) | 4:20 |
 | 196 | [Snob \(feat\. Jasta\)](https://open.spotify.com/track/6MFyOWhWGUGL5PHb1KVCb9) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59), [Jasta](https://open.spotify.com/artist/03248d0xYQltNDAF2XongP) | [Snob \(feat\. Jasta\)](https://open.spotify.com/album/7r0lZzGYhG3al65li0dnhQ) | 4:33 |
-| 197 | [Glock 'n' Roll](https://open.spotify.com/track/4Uc5URdSRMGfPLBRWg5lY0) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Genesis XIX](https://open.spotify.com/album/0mdgJNwMZZhkcMI0CcKzZJ) | 5:02 |
-| 198 | [Lockdown Forever](https://open.spotify.com/track/68R8KwPDpmDk44l8Xyelqg) | [Tankard](https://open.spotify.com/artist/0lKpKsvjBKLUeyVIAPHUy1) | [Lockdown Forever](https://open.spotify.com/album/0zcre4qdDKeLiSsVk6srPM) | 4:06 |
+| 197 | [Lockdown Forever](https://open.spotify.com/track/68R8KwPDpmDk44l8Xyelqg) | [Tankard](https://open.spotify.com/artist/0lKpKsvjBKLUeyVIAPHUy1) | [Lockdown Forever](https://open.spotify.com/album/0zcre4qdDKeLiSsVk6srPM) | 4:06 |
+| 198 | [Glock 'n' Roll](https://open.spotify.com/track/4Uc5URdSRMGfPLBRWg5lY0) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Genesis XIX](https://open.spotify.com/album/0mdgJNwMZZhkcMI0CcKzZJ) | 5:02 |
 | 199 | [Sacrilegious Pain](https://open.spotify.com/track/7sYEZU5f02dITKOEgSo6TM) | [Lowest Creature](https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e) | [Sacrilegious Pain](https://open.spotify.com/album/3DFD5UOgUynlN4mZ3LRL1u) | 3:53 |
 | 200 | [Illusion of Existence](https://open.spotify.com/track/1T7pML1JBYs1IQ50uE2wwy) | [Refore](https://open.spotify.com/artist/4MmDues4Gop2TTlDJLQNBF) | [Illusion of Existence](https://open.spotify.com/album/5QJVXAmX39ddZtJNwq3vnq) | 3:53 |
 
-Snapshot ID: `AAAAAIfOdrk/AlqRTjc2ihYjxDmg25Wv`
+Snapshot ID: `AAAAAMkO9X5DQJ92fgdMfY8Gv2Gi/5HS`

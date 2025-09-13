@@ -1,13 +1,29 @@
 {
-  "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 276688,
+  "description": "Pop for neon streets, rainy windows, and everything you still feel after dark.",
+  "num_followers": 276700,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAh3zTcn8s5GMdWCyG1dVd3OWShV",
+  "snapshot_id": "AAAAAIMwDCEutUEGS2gXldk94YpE1/1z",
   "tracks": [
+    {
+      "added_at": "2025-09-12 04:00:31",
+      "album": {
+        "name": "808 HYMN",
+        "url": "https://open.spotify.com/album/6Br8z93mJODxZskiJ3GHZD"
+      },
+      "artists": [
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "duration_ms": 253751,
+      "name": "808 HYMN",
+      "url": "https://open.spotify.com/track/3UaOcDgXZVFMopdWX8hukn"
+    },
     {
       "added_at": "2025-08-19 00:20:46",
       "album": {
@@ -23,6 +39,54 @@
       "duration_ms": 194173,
       "name": "Call me when you need me",
       "url": "https://open.spotify.com/track/5sJ7YLGwsOP7pmwGTz2Osu"
+    },
+    {
+      "added_at": "2025-09-12 04:00:31",
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/665ddrCgPJLmhnGjWJmmRj"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "duration_ms": 212386,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/2mpoTHp955e9ojKaA2Yb9b"
+    },
+    {
+      "added_at": "2025-08-15 13:48:37",
+      "album": {
+        "name": "Dancing2",
+        "url": "https://open.spotify.com/album/7xx2t5BwTC6BrprRBynu50"
+      },
+      "artists": [
+        {
+          "name": "Keli Holiday",
+          "url": "https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM"
+        }
+      ],
+      "duration_ms": 272803,
+      "name": "Dancing2",
+      "url": "https://open.spotify.com/track/2ttnp69yYFGqppvqNGBBsW"
+    },
+    {
+      "added_at": "2025-09-12 04:00:31",
+      "album": {
+        "name": "Waiting For Love",
+        "url": "https://open.spotify.com/album/5UmQZch97gF84AIdhkRBqI"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 269047,
+      "name": "Waiting For Love",
+      "url": "https://open.spotify.com/track/7faBDPpACK6D31VqvnmeQs"
     },
     {
       "added_at": "2025-08-08 04:00:33",
@@ -57,6 +121,22 @@
       "url": "https://open.spotify.com/track/1MAPgk3yv5Oft9A3opmFKt"
     },
     {
+      "added_at": "2025-09-12 04:00:31",
+      "album": {
+        "name": "CANNIBALISM!",
+        "url": "https://open.spotify.com/album/20PiiYxiYvWiagbQ65z1Qo"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 167156,
+      "name": "CANNIBALISM!",
+      "url": "https://open.spotify.com/track/0d5maE1saK2pmlhZfW0xmh"
+    },
+    {
       "added_at": "2025-08-15 13:48:37",
       "album": {
         "name": "I Don't Go Out",
@@ -73,22 +153,6 @@
       "url": "https://open.spotify.com/track/1MyaKBtXxY6fVXKpGnfpZh"
     },
     {
-      "added_at": "2025-08-15 13:48:37",
-      "album": {
-        "name": "Dancing2",
-        "url": "https://open.spotify.com/album/7xx2t5BwTC6BrprRBynu50"
-      },
-      "artists": [
-        {
-          "name": "Keli Holiday",
-          "url": "https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM"
-        }
-      ],
-      "duration_ms": 272803,
-      "name": "Dancing2",
-      "url": "https://open.spotify.com/track/2ttnp69yYFGqppvqNGBBsW"
-    },
-    {
       "added_at": "2025-08-01 04:00:32",
       "album": {
         "name": "RACER",
@@ -103,6 +167,38 @@
       "duration_ms": 163796,
       "name": "DON\u2019T LOOK AT ME LIKE THAT",
       "url": "https://open.spotify.com/track/2sWwA2lynn8aJXlf2k5NgS"
+    },
+    {
+      "added_at": "2025-09-12 04:00:31",
+      "album": {
+        "name": "Urban Legend",
+        "url": "https://open.spotify.com/album/3CzL5fWwa4XO0rL3K6pU7w"
+      },
+      "artists": [
+        {
+          "name": "LEXXE",
+          "url": "https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Urban Legend",
+      "url": "https://open.spotify.com/track/11PgMaGaPDVfitNJqH5lzm"
+    },
+    {
+      "added_at": "2025-09-12 04:00:31",
+      "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/4kHuF73sN0gORKFX9k11la"
+      },
+      "artists": [
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        }
+      ],
+      "duration_ms": 164227,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/61B6R29gn6rEbhHzLv9ess"
     },
     {
       "added_at": "2025-07-02 15:52:36",
@@ -137,6 +233,22 @@
       "url": "https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR"
     },
     {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
       "added_at": "2025-08-01 04:00:32",
       "album": {
         "name": "milk & honey",
@@ -153,22 +265,6 @@
       "url": "https://open.spotify.com/track/0PqnLIwJi5ikmE53xvoPl4"
     },
     {
-      "added_at": "2025-08-01 04:00:32",
-      "album": {
-        "name": "Chocolate",
-        "url": "https://open.spotify.com/album/7I3QeEOfJk7fQ8iegHWFUc"
-      },
-      "artists": [
-        {
-          "name": "Caroline Kingsbury",
-          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
-        }
-      ],
-      "duration_ms": 223240,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/7ELsmbYGsoe911WcuFkLKf"
-    },
-    {
       "added_at": "2025-07-18 04:33:22",
       "album": {
         "name": "needle and thread",
@@ -183,6 +279,22 @@
       "duration_ms": 234000,
       "name": "needle and thread",
       "url": "https://open.spotify.com/track/1BAS3dk6UejbMT5w4RywJA"
+    },
+    {
+      "added_at": "2025-09-12 04:00:31",
+      "album": {
+        "name": "Desire / The Echo",
+        "url": "https://open.spotify.com/album/6rOgSgLPH6OtQuJsX7inJP"
+      },
+      "artists": [
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 289646,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/1LpsGhseP5CoRstvoXRhYi"
     },
     {
       "added_at": "2025-08-08 04:00:33",
@@ -285,6 +397,22 @@
       "url": "https://open.spotify.com/track/5EsODmIpUVw30t1Bq8dF5b"
     },
     {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Dark Hearts",
+        "url": "https://open.spotify.com/album/79w7ntjrEgNuWW1OziZ0zZ"
+      },
+      "artists": [
+        {
+          "name": "Annie",
+          "url": "https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "The Streets Where I Belong",
+      "url": "https://open.spotify.com/track/5YS94vzqRIexErw7hMbufA"
+    },
+    {
       "added_at": "2025-07-18 04:00:32",
       "album": {
         "name": "Ride Or Die",
@@ -317,24 +445,20 @@
       "url": "https://open.spotify.com/track/1kQffpF3I0YD5dDVSYaEGG"
     },
     {
-      "added_at": "2025-07-04 04:00:34",
+      "added_at": "2025-09-12 04:00:31",
       "album": {
-        "name": "Hold Me Closer",
-        "url": "https://open.spotify.com/album/2k9qbwMJmO8HTT9TiYIeTG"
+        "name": "Telephoning from Safari",
+        "url": "https://open.spotify.com/album/3ZuSJqiZI3trIcISJxm0iY"
       },
       "artists": [
         {
-          "name": "Soft Faith",
-          "url": "https://open.spotify.com/artist/76TvRLbqtgOcAoIsBplbfz"
-        },
-        {
-          "name": "LEXXE",
-          "url": "https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU"
+          "name": "Juliana Madrid",
+          "url": "https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx"
         }
       ],
-      "duration_ms": 199680,
-      "name": "Hold Me Closer",
-      "url": "https://open.spotify.com/track/3Z9opAvcyRGRJBV6VcaptT"
+      "duration_ms": 203285,
+      "name": "Telephoning from Safari",
+      "url": "https://open.spotify.com/track/6bZkrUb3kNQG5XCCcWZOt5"
     },
     {
       "added_at": "2025-07-02 15:52:36",
@@ -497,6 +621,22 @@
       "url": "https://open.spotify.com/track/3t5nTLIDZqxsNi1wAeLvFy"
     },
     {
+      "added_at": "2025-09-12 04:00:31",
+      "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/08IGuy0rN0SWQ6x3lXj21z"
+      },
+      "artists": [
+        {
+          "name": "Harley Huke",
+          "url": "https://open.spotify.com/artist/60AKTQShzHFnEz1ocRxB56"
+        }
+      ],
+      "duration_ms": 185401,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/0WY7T4GSFh5Ky4cj9kYI2i"
+    },
+    {
       "added_at": "2025-05-16 04:00:11",
       "album": {
         "name": "enough",
@@ -543,22 +683,6 @@
       "duration_ms": 240963,
       "name": "CUNTISSIMO",
       "url": "https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg"
-    },
-    {
-      "added_at": "2025-05-16 04:00:11",
-      "album": {
-        "name": "Real Bob Mackie",
-        "url": "https://open.spotify.com/album/3jRL8KbdOfrZkz3jsKHQNc"
-      },
-      "artists": [
-        {
-          "name": "LEXXE",
-          "url": "https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU"
-        }
-      ],
-      "duration_ms": 217241,
-      "name": "Real Bob Mackie",
-      "url": "https://open.spotify.com/track/1jmqtACNpnjbUkASK7iWmB"
     },
     {
       "added_at": "2025-05-02 04:00:38",
@@ -975,26 +1099,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Galina",
-        "url": "https://open.spotify.com/album/0KYNpXFnKd9FTtHUOlx6tx"
-      },
-      "artists": [
-        {
-          "name": "Allie X",
-          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
-        },
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 270448,
-      "name": "Galina",
-      "url": "https://open.spotify.com/track/41ZNfWxvTOgPZBukjhIjCe"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "15 MINUTES",
         "url": "https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK"
       },
@@ -1119,38 +1223,6 @@
       "duration_ms": 303306,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/0FrCX7P2C2hcRTcuhjEvK4"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Dark Hearts",
-        "url": "https://open.spotify.com/album/79w7ntjrEgNuWW1OziZ0zZ"
-      },
-      "artists": [
-        {
-          "name": "Annie",
-          "url": "https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "The Streets Where I Belong",
-      "url": "https://open.spotify.com/track/5YS94vzqRIexErw7hMbufA"
     },
     {
       "added_at": "2024-08-30 04:00:00",

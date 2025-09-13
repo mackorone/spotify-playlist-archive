@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Israel B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,295 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,171 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 21 | [HA$H DE MOROCCO](https://open.spotify.com/track/0wZTlJJqfkwsbTVYx77GTp) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [AMOR DE BARRIO](https://open.spotify.com/album/47cKeHSRPpq01MrnXA8pj4) | 2:38 |
 | 22 | [I'm So High](https://open.spotify.com/track/20Kch1lUnS2OVduVqEo7P2) | [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx) | [I'm So High](https://open.spotify.com/album/45RXqCNUNlftv6t4UBntRN) | 4:26 |
 | 23 | [Shorty](https://open.spotify.com/track/5emjBfWheJT83MyOzmlTNU) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Tirititando](https://open.spotify.com/album/23CDTnMpY9k9tKblvWsxGw) | 3:03 |
-| 24 | [Mucho para ti](https://open.spotify.com/track/6NUZEpnN8L71edv5OgeDu5) | [dani dicostas](https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl) | [Mucho para ti](https://open.spotify.com/album/72KxW1g0Q3tJHPLoTOUJNP) | 3:00 |
+| 24 | [Que Nos Pasó](https://open.spotify.com/track/38aK9txbPZdjsYxvt2cHYU) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Grind](https://open.spotify.com/artist/7zRP76y8bnV3OdkaraLHuy), [mauvetrip](https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR) | [Que Nos Pasó](https://open.spotify.com/album/5ry3bkhwVfh9zIGOE8qlF2) | 3:04 |
 | 25 | [Shars 2019](https://open.spotify.com/track/4vI7HAK6oC52MfOYlICa0l) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Shars 2019](https://open.spotify.com/album/0ouvrlpcjyOklFJK70pwNe) | 2:55 |
 | 26 | [Hasta Cuando](https://open.spotify.com/track/2py8CbfQ8NvoXK4hIGhEHP) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Hasta Cuando](https://open.spotify.com/album/3g8qnjrSaAVo1KeY8QVJxt) | 3:19 |
 | 27 | [Mortales](https://open.spotify.com/track/2cAlHsqGkTYqQEEZCrMrF0) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Siempre](https://open.spotify.com/album/3uuFYpXPgZRB6MLcH8tiUo) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 49 | [Poco a Poco](https://open.spotify.com/track/08rNMX9zgEtl5pZUvtRFp7) | [Jarfaiter](https://open.spotify.com/artist/7hqwOMu222wUGHIzm49sJk), [Geckodelarue](https://open.spotify.com/artist/7pN6gysuGSvvdMpWPyDoN4) | [Poco a Poco](https://open.spotify.com/album/0q1VjTfbC30yaZb03oRde2) | 1:51 |
 | 50 | [El Método](https://open.spotify.com/track/2D8jG41HnBRlwZE8VCFyM7) | [Escandaloso Xpósito](https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf) | [El Método](https://open.spotify.com/album/0m7wFEI6CWfWn2nv9y9Cqg) | 2:16 |
 
-Snapshot ID: `AAAAAPM6s5zL7UldL0osKt1sSORDjtXz`
+Snapshot ID: `AAAAAEa4Ka/zq9CgW1topG39Db+3iS3f`

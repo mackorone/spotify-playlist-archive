@@ -2,7 +2,7 @@
 
 ### [Progressive Metal](https://open.spotify.com/playlist/37i9dQZF1DX5wgKYQVRARv)
 
-> New and recent favorites of Prog Metal\. Cover: Katatonia
+> New and recent favorites of Prog Metal\. Cover: Opeth
 
 819 songs - 2 day 22 hr 25 min
 

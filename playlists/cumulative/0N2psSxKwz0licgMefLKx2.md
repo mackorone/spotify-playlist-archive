@@ -4,7 +4,7 @@
 
 > From Toronto to Nashville \- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: James Barker Band
 
-372 songs - 20 hr 19 min
+373 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [my place](https://open.spotify.com/track/4QHuywfD1V1eBMRY8Hbqnl) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [my place](https://open.spotify.com/album/0LYfCVKOshd8xC4VTVtbol) | 3:38 | 2024-04-05 | 2024-05-11 |
 | [My Shadow](https://open.spotify.com/track/7M2fkGO31n1sIcgsyZvVyx) | [Dillon James](https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR) | [My Shadow](https://open.spotify.com/album/1UYesAlvVGlSxNPIIS6gp3) | 3:14 | 2024-03-08 | 2024-04-06 |
 | [My Side Of Town](https://open.spotify.com/track/5u4otkyiGjEPj90cNtX8gd) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [My Side Of Town](https://open.spotify.com/album/3kjLeioihBaAQdGQePALiw) | 2:42 | 2025-08-22 |  |
+| [Namin’ Names](https://open.spotify.com/track/4ORhANtnChWYXj1aXPhQEm) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Namin’ Names](https://open.spotify.com/album/5Kf8wyxTSEAbAmSBaQIcN6) | 2:43 | 2025-09-12 |  |
 | [Neon Cowgirl](https://open.spotify.com/track/6EViVjzk04NKzhVMtMxvbk) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Neon Cowgirl](https://open.spotify.com/album/090hcRCJQ70C3TnLuSn6FG) | 3:39 | 2025-03-28 | 2025-05-10 |
 | [Neon Needs The Night](https://open.spotify.com/track/3ymcorUKwzHUPBAtoEoKBP) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Neon Needs The Night](https://open.spotify.com/album/4ye5fM0KnsXT8rnLIAEIBE) | 3:06 | 2024-01-12 | 2024-03-23 |
 | [Never Been Over](https://open.spotify.com/track/5Izy5w7WRKyOTH7CtWgyPG) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Carolyn's Boy](https://open.spotify.com/album/475EaXHvy2e2QvNXkt6twf) | 3:25 | 2023-11-03 | 2024-04-27 |

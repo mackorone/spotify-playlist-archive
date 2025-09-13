@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 
 > Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: Pollyfromthedirt
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,737 likes - 79 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,751 likes - 79 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cherry seeds](https://open.spotify.com/track/5X9pY5zAA3KUEdmfT4vMHN) | [Pollyfromthedirt](https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM) | [Cherry seeds](https://open.spotify.com/album/6bcqX4DDDZICR87U5OoxLb) | 2:40 |
 | 2 | [USA Baby](https://open.spotify.com/track/29hQhpxNbzf4IDjODEZKko) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [USA Baby](https://open.spotify.com/album/78IlsjAG2OP6vpEBJB5ti1) | 1:55 |
 | 3 | [Life Of The Party](https://open.spotify.com/track/3pWAykbBhuG4Qxp3aQiKpq) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [Life Of The Party](https://open.spotify.com/album/2SOY7ASK4wU3ecJTPBTT44) | 2:42 |
-| 4 | [See You in Everyone](https://open.spotify.com/track/6eunHrBuu3ftWdWIntSfvF) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [](https://open.spotify.com/album/null) | 3:30 |
+| 4 | [See You in Everyone](https://open.spotify.com/track/6eunHrBuu3ftWdWIntSfvF) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Blush Response](https://open.spotify.com/album/11wZb9A2jAk54mXF9FXM2r) | 3:30 |
 | 5 | [Angles Mortz](https://open.spotify.com/track/4CFGeqMhzAPy48XAh0ttAm) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Angles Mortz](https://open.spotify.com/album/6UM5wrJbAOW1eHz62V8yIg) | 4:18 |
 | 6 | [Between Dreams](https://open.spotify.com/track/38z26PUg63ewXSY7yQV1oi) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Between Dreams](https://open.spotify.com/album/4CeCvMBu8oQteG3NNtaYYs) | 3:34 |
 | 7 | [Pain](https://open.spotify.com/track/14M05BE09j5oytK3Wd9KWL) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Pain](https://open.spotify.com/album/2KkSDX1QPMwmLfNKbpSC5X) | 3:01 |

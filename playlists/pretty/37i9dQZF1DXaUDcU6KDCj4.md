@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 ### [Fresh Folk](https://open.spotify.com/playlist/37i9dQZF1DXaUDcU6KDCj4)
 
-> Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Brandi Carlile
+> Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Madison Cunningham
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,705 likes - 174 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,009 likes - 174 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 173 | [Slow Down](https://open.spotify.com/track/4NYPDvTEjxgCRwahkswKb0) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [All Things Light](https://open.spotify.com/album/4Sj8iHrpEA4axsC3vSld9M) | 1:38 |
 | 174 | [Fair To You](https://open.spotify.com/track/21ZKNvnpr0ahYMFsTffZCm) | [Vincent Lima](https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX) | [Fair To You](https://open.spotify.com/album/6nXMgFLI7FcMiDR9OHnLaQ) | 3:38 |
 
-Snapshot ID: `AAAAAATatx+8zlnkz2BJBJKuE+CGzwZ0`
+Snapshot ID: `AAAAAILioCOVq8YetVGNcD9u4TgUa84W`

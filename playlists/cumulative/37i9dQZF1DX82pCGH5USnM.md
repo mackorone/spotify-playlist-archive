@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-915 songs - 2 day 1 hr 37 min
+916 songs - 2 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,7 @@
 | [Guybrush](https://open.spotify.com/track/5Uk37TLnoOQzOh5tH6iaDb) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moves EP](https://open.spotify.com/album/5zW05MYM8hD6pBbhbyjQlC) | 3:57 | 2021-08-20 | 2023-02-04 |
 | [Hacienda](https://open.spotify.com/track/7qh8bK1Udbf8gfcjXDy9KX) | [Edinbrgh](https://open.spotify.com/artist/42s3gYCf3gvLSECSxA1ofi) | [Birds Fly High](https://open.spotify.com/album/77fiDE7wtn1HMMBMxuXHyi) | 3:46 | 2022-12-09 | 2025-02-08 |
 | [Half Crazy](https://open.spotify.com/track/7aTxeg2uMJmshTOlm9GwiP) | [SGT DUST](https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6) | [Half Crazy](https://open.spotify.com/album/2Vqm4tIyaEeET9IMnXHq4s) | 2:49 | 2022-06-24 | 2024-08-31 |
-| [Hanalei](https://open.spotify.com/track/4iLZ7Bn8M2VJ9lJbMuzn9k) | [Cake](https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc) | [Hanalei](https://open.spotify.com/album/6TxB2jHIaxixdSS2WdcCwa) | 2:11 | 2023-03-03 |  |
+| [Hanalei](https://open.spotify.com/track/4iLZ7Bn8M2VJ9lJbMuzn9k) | [Cake](https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc) | [Hanalei](https://open.spotify.com/album/6TxB2jHIaxixdSS2WdcCwa) | 2:11 | 2023-03-03 | 2025-09-13 |
 | [Hanging Out](https://open.spotify.com/track/5sxk6ElBzgcFqneVR1Uug6) | [Neotronicz](https://open.spotify.com/artist/6LvxEsI0dKlKpN7RHthHOf) | [Hanging Out](https://open.spotify.com/album/1QqzZApC7xi8JtVEGXDMBr) | 2:55 | 2022-04-05 | 2025-01-25 |
 | [Haze](https://open.spotify.com/track/3hQkNHdJ3gOFkXhHDG6i0p) | [Glenneth](https://open.spotify.com/artist/1J1OlnQmAupMJMAlLDgnEa) | [Circular](https://open.spotify.com/album/5xdc29ZbnPZAEBH74RX8QT) | 9:33 | 2020-11-19 | 2020-12-24 |
 | [He Said I Don't Care](https://open.spotify.com/track/2Eh6U9Kgg324iB9ozprRaX) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [He Said I Don't Care](https://open.spotify.com/album/14AzPtcTUbwo52VElToOoY) | 2:58 | 2022-01-21 | 2022-09-09 |
@@ -593,7 +593,7 @@
 | [Phase Off](https://open.spotify.com/track/4jnuEF4AKcTnJg0bpiVsKQ) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Phase Off EP](https://open.spotify.com/album/2iEyHd5HSBeKQlRpHZMnar) | 3:32 | 2021-07-08 | 2021-08-20 |
 | [Phases](https://open.spotify.com/track/2yIhzbIcSxJF2CCgqU0Ay2) | [Astrovox](https://open.spotify.com/artist/1zDQ4Lyy4QK1MKFaysBLqx) | [Phases](https://open.spotify.com/album/49tS1lTdOd6KS2X5iOgNxD) | 2:02 | 2025-05-30 |  |
 | [Phasing](https://open.spotify.com/track/0MbDBEQ1PNif0uKUxUeHCF) | [Slashio](https://open.spotify.com/artist/47tNKltwmA9PtSyeuGvhHe) | [Phasing](https://open.spotify.com/album/2FNJ50w4UCMKgdyo5Z3dKz) | 2:16 | 2025-06-13 |  |
-| [Phuket](https://open.spotify.com/track/3Sqk5b3LUnqjPVMA8BVkro) | [WickedWish](https://open.spotify.com/artist/7mAYh1GPFbyzFnRpmej9Xj) | [Phuket](https://open.spotify.com/album/16GUyxx81tkR744vMg3coF) | 2:55 | 2023-12-01 |  |
+| [Phuket](https://open.spotify.com/track/3Sqk5b3LUnqjPVMA8BVkro) | [WickedWish](https://open.spotify.com/artist/7mAYh1GPFbyzFnRpmej9Xj) | [Phuket](https://open.spotify.com/album/16GUyxx81tkR744vMg3coF) | 2:55 | 2023-12-01 | 2025-09-13 |
 | [Piano Park](https://open.spotify.com/track/7MYP5ACQrR73wJ4CQkzhaZ) | [Ben Jonovski](https://open.spotify.com/artist/01lzF0kz4osCQXfUDFmOnC) | [Piano Park](https://open.spotify.com/album/6u0PJfhQLlBRArcd2T5iNr) | 2:08 | 2022-02-10 | 2025-01-11 |
 | [Piece Of Me](https://open.spotify.com/track/5AacqlxHPjBA5amhrkkdRR) | [Jorja X](https://open.spotify.com/artist/75eRLowc6cNPJmalbZoU6H) | [Piece Of Me](https://open.spotify.com/album/5egWJ1LnfvrNX3zBwyz28a) | 2:16 | 2021-03-06 | 2021-06-02 |
 | [Pigments](https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R) | [Norabel](https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo) | [Blue Pigments](https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk) | 2:10 | 2020-04-03\* | 2021-03-25 |
@@ -721,7 +721,7 @@
 | [skies](https://open.spotify.com/track/7wSCgWpis1zblS4ow4IYLW) | [Setjet](https://open.spotify.com/artist/5blU4gW1Xn3kQ73i2brApA) | [skies](https://open.spotify.com/album/2mrrLqTtqzE0zm8cUQ9Ci7) | 3:24 | 2022-12-09 | 2025-02-08 |
 | [skin shimmer](https://open.spotify.com/track/7FRE4xPjkql1KTJJDHQJn5) | [Mateo Hill](https://open.spotify.com/artist/6ZwI5BEf3SVNDkdOKFpxKQ) | [skin shimmer](https://open.spotify.com/album/2DIDzDbyIq8rNX0VbnjCrG) | 2:57 | 2022-11-25 | 2024-11-16 |
 | [Skipper's Tale](https://open.spotify.com/track/41CUgsSWTYxMf7Tu6ed1e7) | [Tree House Club](https://open.spotify.com/artist/2OrSkXOfuJmlq2e1tpYTwZ) | [Skipper's Tale](https://open.spotify.com/album/5Mgyt4mxPFGBPhcLXnkAuI) | 2:56 | 2023-08-25 |  |
-| [Slide Into Position](https://open.spotify.com/track/6oyYsLP4VAcppKWZFYxK6S) | [Flx Jayson](https://open.spotify.com/artist/0pMictTR50Jxx9el1IKuWL) | [Slide Into Position](https://open.spotify.com/album/0D6nTnrF5q6diptnY7ladk) | 2:37 | 2024-02-13 |  |
+| [Slide Into Position](https://open.spotify.com/track/6oyYsLP4VAcppKWZFYxK6S) | [Flx Jayson](https://open.spotify.com/artist/0pMictTR50Jxx9el1IKuWL) | [Slide Into Position](https://open.spotify.com/album/0D6nTnrF5q6diptnY7ladk) | 2:37 | 2024-02-13 | 2025-09-13 |
 | [Slightly Irregular](https://open.spotify.com/track/2c04Oaz220QLDR3mP5xC6j) | [longwayfromhome](https://open.spotify.com/artist/1dfULz0Piwd2pjpwve3Xyh) | [Slightly Irregular](https://open.spotify.com/album/4DaNYBdickKB4XtsKGRBJw) | 2:56 | 2023-06-19 |  |
 | [Slippery Slope](https://open.spotify.com/track/5UhbQmKfFcI9EdxliAxntg) | [Mountainberg](https://open.spotify.com/artist/6m9A8ej6yJ1VJrcb30bHlJ) | [Slippery Slope](https://open.spotify.com/album/4QaMWNmQ5MF7PqmR9TpyXO) | 2:31 | 2021-03-06 | 2022-01-22 |
 | [Slow Rain](https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 3:50 | 2020-12-09 | 2021-09-22 |
@@ -744,7 +744,7 @@
 | [Some Like It Hot](https://open.spotify.com/track/7sud5rRJp7QOLsWyZXmF9T) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Keep It Chill](https://open.spotify.com/album/5cyotxqSzrwck7zLt1ZyqK) | 2:37 | 2023-02-17 |  |
 | [Sommarvind](https://open.spotify.com/track/6ujiFW9V5Q3eRIhA8nYbqf) | [Konrad Wijk](https://open.spotify.com/artist/7bGBkxzCyn9FMjY2g1LMp2) | [Sommarvind](https://open.spotify.com/album/5q8bT1e9p1I33DsBu0hzCI) | 2:14 | 2021-04-15 | 2022-09-23 |
 | [Sooner Or Later](https://open.spotify.com/track/2uuRWIn5mIcM7ptvk8lxbp) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Sooner Or Later](https://open.spotify.com/album/0cqf7LPBl6kQqNOcCjciky) | 2:52 | 2020-04-03\* | 2021-03-18 |
-| [Soul Balance](https://open.spotify.com/track/5jRdhhDJ6rahAxtPI8CYrU) | [Major Mirror](https://open.spotify.com/artist/4TJKZfkv0XFP29x1TVBSny) | [Soul Balance](https://open.spotify.com/album/585lWip1w8XUC8WU2AVIjv) | 2:39 | 2024-01-23 |  |
+| [Soul Balance](https://open.spotify.com/track/5jRdhhDJ6rahAxtPI8CYrU) | [Major Mirror](https://open.spotify.com/artist/4TJKZfkv0XFP29x1TVBSny) | [Soul Balance](https://open.spotify.com/album/585lWip1w8XUC8WU2AVIjv) | 2:39 | 2024-01-23 | 2025-09-13 |
 | [Soul Spectral](https://open.spotify.com/track/4NSAXuEw0kwuwvCG89L4hi) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85), [Greg Paulus](https://open.spotify.com/artist/0DRjf5CVRpPpDSjHSdRAM3) | [Soul Spectral EP](https://open.spotify.com/album/4URtVxo78Lf8RjBmWkAVyS) | 6:00 | 2021-03-18 | 2021-08-20 |
 | [Southern Sky](https://open.spotify.com/track/7b5JVYNwXrFVB94lBBqeQU) | [My Ocean](https://open.spotify.com/artist/3QHeux68acRCH1mNlBrdoP) | [Southern Sky](https://open.spotify.com/album/2FND9HEcVEEmhGzfQuNnYH) | 3:54 | 2021-01-05 | 2022-06-24 |
 | [Spectrum](https://open.spotify.com/track/3IDdpuIzrtWQqP2kT5r1Iq) | [Wael](https://open.spotify.com/artist/5yLU77HGlLwIOkuqsxctrp) | [Spectrum](https://open.spotify.com/album/32qSgni58sL6LGoELPUia1) | 3:04 | 2021-04-29 | 2021-09-22 |
@@ -878,6 +878,7 @@
 | [Varuna](https://open.spotify.com/track/3jxl6mTtkQwGCgzKleyYC5) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Varuna / UP2U](https://open.spotify.com/album/6Sq4QBMeCu2DrYOW6gRFqO) | 5:14 | 2022-10-07 | 2023-06-03 |
 | [Veesha](https://open.spotify.com/track/40TVYUkRQ5GgLApjXOxq3O) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Veesha](https://open.spotify.com/album/37F3Q7SpyF9cdrqsrrnnYB) | 2:33 | 2024-01-19 |  |
 | [Vei](https://open.spotify.com/track/6RgMpjc2jIoCAAtAykmTgE) | [Travertia](https://open.spotify.com/artist/2hw9kXvOh4i601W9hPC6GB) | [Vei](https://open.spotify.com/album/3y2u7rDyyfKTbEuwFnIBGD) | 8:15 | 2021-01-27 | 2021-02-10 |
+| [Velvet Booth](https://open.spotify.com/track/7nr7FBOjNubyavoqhoRkMb) | [Mr Rawlings](https://open.spotify.com/artist/5IjVKmCZM7Sy41wQISlmRI) | [Velvet Booth](https://open.spotify.com/album/3VInFJGz32nL7s5aCWRxIa) | 2:14 | 2025-09-12 |  |
 | [Verum](https://open.spotify.com/track/6u4H3xjl3hrUj8CItVHbtR) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Fiducia](https://open.spotify.com/album/5Z9GD0MJpZHslJ7OHljnwD) | 3:45 | 2020-04-21 | 2020-08-26 |
 | [Very Simple](https://open.spotify.com/track/6mqNxdwau1QWYX7yChJSYF) | [Hasse Hans](https://open.spotify.com/artist/4PjVK6KNfnMASGMI6gmMTW) | [Very Simple](https://open.spotify.com/album/16dLJ0Cp895Vm3BdpkYzxP) | 2:08 | 2022-11-25 | 2025-01-25 |
 | [Vibe Ticket](https://open.spotify.com/track/653lRpnjayYZIcxrNqdUDN) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [Vibe Ticket](https://open.spotify.com/album/4OiZscgHocT90MiWy61bGQ) | 3:13 | 2021-11-08 | 2024-09-28 |

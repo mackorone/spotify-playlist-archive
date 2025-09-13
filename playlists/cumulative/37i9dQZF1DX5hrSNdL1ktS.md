@@ -2,7 +2,7 @@
 
 ### [Reggaetón Mexa ](https://open.spotify.com/playlist/37i9dQZF1DX5hrSNdL1ktS)
 
-> Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Luis R Conriquez y Anuel AA bufando
+> Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Yng Lvcas bufando
 
 888 songs - 1 day 19 hr 25 min
 

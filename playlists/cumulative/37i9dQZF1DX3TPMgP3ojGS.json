@@ -4088,7 +4088,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 172482,
       "name": "Blue Skies Are Coming",
       "url": "https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv"
@@ -12580,7 +12580,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 177705,
       "name": "Hymn",
       "url": "https://open.spotify.com/track/1fyzSisXLaQ552QD31P4ot"
@@ -16502,7 +16502,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 130403,
       "name": "Luce",
       "url": "https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1"
@@ -29459,6 +29459,24 @@
     },
     {
       "album": {
+        "name": "Trail",
+        "url": "https://open.spotify.com/album/0FLftuEtzLapBWyGXDval3"
+      },
+      "artists": [
+        {
+          "name": "Kenshiro Matsuo",
+          "url": "https://open.spotify.com/artist/5kxfzBE0JvuXtV4hmaUuvo"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122784,
+      "name": "Trail",
+      "url": "https://open.spotify.com/track/6d9imovORU4yeJspAk95cE"
+    },
+    {
+      "album": {
         "name": "The Ember",
         "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
       },
@@ -32874,6 +32892,42 @@
       "duration_ms": 214026,
       "name": "\u7ba1\u5f26\u697d\u7d44\u66f2 \u7b2c3\u756a \u30cb\u9577\u8abf BWV 1068: G\u7dda\u4e0a\u306e\u30a2\u30ea\u30a2",
       "url": "https://open.spotify.com/track/4uSFOXu5fSfbWMLsNPikp0"
+    },
+    {
+      "album": {
+        "name": "\u9084\u308b",
+        "url": "https://open.spotify.com/album/6GsJjr8oBbjvXmNOLwYVRk"
+      },
+      "artists": [
+        {
+          "name": "\u7530\u4e2d\u30bf\u30ea\u30e9",
+          "url": "https://open.spotify.com/artist/1xQC7gNhUDSY1IfQvF8fou"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263823,
+      "name": "\u9084\u308b",
+      "url": "https://open.spotify.com/track/4SsJaHSydoIr3cYwxPKwfU"
+    },
+    {
+      "album": {
+        "name": "\u967d\u3060\u307e\u308a",
+        "url": "https://open.spotify.com/album/0IdaqRT4ULMBDNjkEKzMn9"
+      },
+      "artists": [
+        {
+          "name": "Amane",
+          "url": "https://open.spotify.com/artist/08kVeFrSyMxCN8sAUJeRHr"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160701,
+      "name": "\u967d\u3060\u307e\u308a",
+      "url": "https://open.spotify.com/track/5m8CY9GToqHZDzdWvF1kl3"
     },
     {
       "album": {

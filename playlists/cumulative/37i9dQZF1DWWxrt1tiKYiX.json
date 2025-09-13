@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192124,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6"
+    },
+    {
+      "album": {
         "name": "afraid of heights",
         "url": "https://open.spotify.com/album/5x6BZ6XJ2YVcwE6l26yy6p"
       },
@@ -1499,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "foreign",
+        "url": "https://open.spotify.com/album/23OgtHfI5AfqaXHVuFN2KW"
+      },
+      "artists": [
+        {
+          "name": "Britton",
+          "url": "https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174503,
+      "name": "foreign",
+      "url": "https://open.spotify.com/track/315NelSgp7uGl0BNLRvFaf"
+    },
+    {
+      "album": {
         "name": "Fortnight (Acoustic Version)",
         "url": "https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX"
       },
@@ -1854,7 +1890,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 192622,
       "name": "Heaven (Acoustic)",
       "url": "https://open.spotify.com/track/0B4MTjEdRDso17Oy9iugE7"
@@ -3706,7 +3742,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 154951,
       "name": "One Night - Stripped Version",
       "url": "https://open.spotify.com/track/46PZbNbQ37DDhMbuVkL8V0"

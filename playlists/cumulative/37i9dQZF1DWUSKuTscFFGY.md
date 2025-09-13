@@ -2,7 +2,7 @@
 
 ### [Nouveautés Pop](https://open.spotify.com/playlist/37i9dQZF1DWUSKuTscFFGY)
 
-> Découvrez les meilleures nouveautés pop\. Photo : Justin Bieber
+> Découvrez les meilleures nouveautés pop\. Photo : Damiano David
 
 720 songs - 1 day 13 hr 4 min
 

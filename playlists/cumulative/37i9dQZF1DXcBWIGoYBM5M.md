@@ -2,7 +2,7 @@
 
 ### [Today’s Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> The hottest 50\. Cover: Lady Gaga
+> The hottest 50\. Cover: Justin Bieber
 
 1,284 songs - 2 day 20 hr 45 min
 

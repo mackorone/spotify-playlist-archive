@@ -2,7 +2,7 @@
 
 ### [All New Metal](https://open.spotify.com/playlist/37i9dQZF1DX5J7FIl4q56G)
 
-> The best new tracks in metal, hard rock, and all things heavy\. Cover: PRESIDENT
+> The best new tracks in metal, hard rock, and all things heavy\. Cover: Lorna Shore
 
 10,028 songs - 27 day 21 hr 20 min
 

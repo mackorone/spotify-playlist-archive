@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Bagkos",
+        "url": "https://open.spotify.com/album/6C1PRXiyvjCmDWeKnm7ZgZ"
+      },
+      "artists": [
+        {
+          "name": "Slico",
+          "url": "https://open.spotify.com/artist/1n32OOMDyy2zi6y9cACjLP"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224375,
+      "name": "Bagkos",
+      "url": "https://open.spotify.com/track/1vIy9LahYQR6fWmsgryjbD"
+    },
+    {
+      "album": {
         "name": "Baliw",
         "url": "https://open.spotify.com/album/60jvhHVlmuAmEzdjRpkvue"
       },
@@ -1733,6 +1751,24 @@
     },
     {
       "album": {
+        "name": "I Think I Love You",
+        "url": "https://open.spotify.com/album/5yCi1FXzQ2IYoyqaY0XzKd"
+      },
+      "artists": [
+        {
+          "name": "David Licauco",
+          "url": "https://open.spotify.com/artist/6mGDgys4zvPKYGh8K80dTW"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "I Think I Love You",
+      "url": "https://open.spotify.com/track/5HEKt8IROiFFssxxdAWojl"
+    },
+    {
+      "album": {
         "name": "I Think They Call This Love",
         "url": "https://open.spotify.com/album/5GubtQSUJnwMlF6G7gX3QE"
       },
@@ -2490,10 +2526,32 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 232906,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g"
+    },
+    {
+      "album": {
+        "name": "Mapasakin Ka",
+        "url": "https://open.spotify.com/album/43iK3iz4U2Q3MsiOKh1MZJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Concepcion",
+          "url": "https://open.spotify.com/artist/2P3aLwJ41aRYkyFFw2FRM7"
+        },
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237608,
+      "name": "Mapasakin Ka",
+      "url": "https://open.spotify.com/track/12NTRLqHFmQ17uZGcKwhhB"
     },
     {
       "album": {
@@ -3094,7 +3152,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 252500,
       "name": "Patutunguhan",
       "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
@@ -3892,7 +3950,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 180644,
       "name": "What A Man Gotta Do",
       "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"

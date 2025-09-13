@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Sticks And Stones",
+        "url": "https://open.spotify.com/album/2dHPDll7CHkR15u1shRGBU"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233303,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/7vEtEZXHMAk8oZksZ6xftE"
+    },
+    {
+      "album": {
         "name": "The End Of All Things To Come",
         "url": "https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo"
       },

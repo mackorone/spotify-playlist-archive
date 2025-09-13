@@ -2,7 +2,7 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> This is the range of R&B in Canada\. Elevate your aura with Avenoir from Edmonton, AB.
+> Your guide to R&B in Canada, featuring Rochelle Jordan from Scarborough, ON.
 
 1,436 songs - 3 day 2 hr 47 min
 

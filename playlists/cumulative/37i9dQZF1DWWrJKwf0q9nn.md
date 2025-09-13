@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: KI/KI
 
-255 songs - 12 hr 43 min
+255 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,11 +228,11 @@
 | [That Acid](https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [That Acid](https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL) | 2:25 | 2025-07-17 | 2025-08-09 |
 | [The B Side](https://open.spotify.com/track/12SC4NqICdEAZ4XkTcHDKD) | [EMJIE](https://open.spotify.com/artist/3RqdVnPEMwpv4EVX5J2lzh) | [Wan Time](https://open.spotify.com/album/6d4awKIQYOXDO2hlVrCClM) | 4:34 | 2025-07-17 | 2025-09-05 |
 | [The Devil Works Hard](https://open.spotify.com/track/0hP0E1XXzOmCBJI7ROF0Ni) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [The Devil Works Hard](https://open.spotify.com/album/3Y3UmB3THsefvGMZh1BGw4) | 2:49 | 2025-07-17 | 2025-08-29 |
+| [The Message](https://open.spotify.com/track/5fN2dHD2RxxDVJVWyTVq0t) | [Job De Jong](https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI) | [The Message EP](https://open.spotify.com/album/6OF6KDVge1XAAADYIDf9ej) | 3:37 | 2025-09-11 |  |
 | [Things I Haven’t Told You](https://open.spotify.com/track/0pDVZoDOubNxgzjgTvzVQi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [Things I Haven’t Told You](https://open.spotify.com/album/1BVA2ZrleGhk13DKwSIJib) | 2:36 | 2025-08-07 |  |
 | [Thinking About You](https://open.spotify.com/track/12LH9eZbjEaKqllpe5WGIo) | [Tim Hox](https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM) | [Thinking About You](https://open.spotify.com/album/2pjRlKXLBCI0M1dEEbkrdo) | 2:43 | 2025-09-11 |  |
 | [Time to Party](https://open.spotify.com/track/08lKWR8JNqZdlNOvyE7O1s) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [club slash 006 \- Time to Party](https://open.spotify.com/album/0plQH92WSIv5QjX0ooqNmV) | 4:10 | 2025-07-17 | 2025-08-09 |
 | [Together](https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Together](https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH) | 2:33 | 2025-07-17 | 2025-08-15 |
-| [Track 1](https://open.spotify.com/track/5fN2dHD2RxxDVJVWyTVq0t) | [Job De Jong](https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-11 |  |
 | [Traffic Jam \- Code Rood Remix](https://open.spotify.com/track/605Hfbi7qsYr7kWYOq9xso) | [5NAPBACK](https://open.spotify.com/artist/0ERCrnTOTP6m7KbCLTliEj), [Holliz](https://open.spotify.com/artist/1GcM7yt6bCkRdj82FxVY45), [Code Rood](https://open.spotify.com/artist/4bdCXQ4wEcfojdlPl0Vup5) | [Traffic Jam \(Code Rood Remix\)](https://open.spotify.com/album/3Ig9S3c7Hur5IlOdL2O3LN) | 3:20 | 2025-08-07 |  |
 | [Truth, Peace, Love, Acid](https://open.spotify.com/track/2gxrSR8QROUH669XjI4VI0) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Truth, Peace, Love, Acid](https://open.spotify.com/album/7A7x2wJL7tfD8ADAsxChsp) | 3:19 | 2025-08-28 | 2025-09-12 |
 | [Tsunami](https://open.spotify.com/track/2n3zCFoj5VM9UYGDeiUlPs) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Tsunami](https://open.spotify.com/album/1yI4sqzattJa3bLcyIn29K) | 2:44 | 2025-07-17 | 2025-09-05 |

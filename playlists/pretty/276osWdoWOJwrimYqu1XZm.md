@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/276osWdoWOJwrimYqu1XZm.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 123 songs - 13 hr 23 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 128 songs - 13 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,5 +131,10 @@ pretty - [cumulative](/playlists/cumulative/276osWdoWOJwrimYqu1XZm.md) - [plain]
 | 121 | [Take Me Down](https://open.spotify.com/track/7aSvg2Yn8NZy63f4dLVqBE) | [Amstra](https://open.spotify.com/artist/22hoWqtS82DDN3jJqxjqH7), [Sosya](https://open.spotify.com/artist/4xs7ROT2oEnleHZeio5t9j) | [Exhale VA006](https://open.spotify.com/album/0ATkgjuuEqaPJbX0Cg7n2z) | 5:16 |
 | 122 | [Era Of Us](https://open.spotify.com/track/0AdZea91wVCpeAT1NA5YPF) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Exhale VA005](https://open.spotify.com/album/1qi1t5uTt9q8FMLMwHFV5t) | 4:32 |
 | 123 | [Before I Forget Your Voice](https://open.spotify.com/track/5yNlRRPQCG05GVNzUM3PWH) | [Krl Mx](https://open.spotify.com/artist/49e9A9elFAUS9sCDMTyiWC) | [Exhale VA003](https://open.spotify.com/album/6wruyQtjglWadmz5JsfKaI) | 5:24 |
+| 124 | [New Order \- Blue Monday \- ARMA Remix](https://open.spotify.com/track/0sWcAFIqdK1d4Q3HI2B9Nc) | [ARMA](https://open.spotify.com/artist/6521yl6LJNVjbPpSz3ohSZ) | [New Order \- Blue Monday \(ARMA Remix\)](https://open.spotify.com/album/5rqubfjv6XettGbsiCQBRm) | 6:28 |
+| 125 | [Lost in Suffering \- Original Mix](https://open.spotify.com/track/5nTJFYx6zw0FxkkXlCscxB) | [Amstra](https://open.spotify.com/artist/22hoWqtS82DDN3jJqxjqH7) | [MRC Various Artists](https://open.spotify.com/album/3Nrgw8cvAsOk9x1ALuQMGS) | 5:34 |
+| 126 | [Demons And The Ghost \- Radio Edit](https://open.spotify.com/track/2fznqQyX4hKIcXlk4YOzNH) | [Blame The Mono](https://open.spotify.com/artist/22HdnwskoQ7Htj3pEMP5W7), [DLV](https://open.spotify.com/artist/7AkaRihy2hr1tjUXsjYK9x) | [Demons And The Ghost \(Radio Edit\)](https://open.spotify.com/album/55VnN6m1ub5FRVyLkS3u0d) | 3:01 |
+| 127 | [Let Out](https://open.spotify.com/track/3mZ2RvcTuBxe7O1y7EMl4d) | [In Verruf](https://open.spotify.com/artist/5EnbpUtGIk2qPzGgNE75m0) | [Sektion 1](https://open.spotify.com/album/37MyA9ZcBxHBwp0a2ti4CI) | 6:07 |
+| 128 | [Getrieben Von Der Bassline](https://open.spotify.com/track/73ipi4sxE1SeHysVkrdAb2) | [Blame The Mono](https://open.spotify.com/artist/22HdnwskoQ7Htj3pEMP5W7), [DLV](https://open.spotify.com/artist/7AkaRihy2hr1tjUXsjYK9x), [Palastoni](https://open.spotify.com/artist/28oa99VEqmiC6i2SzvMPiC) | [Demons And The Ghost \- EP](https://open.spotify.com/album/0v3KxI8YwAV8Tn5GjmDnMA) | 5:31 |
 
-Snapshot ID: `AAAAhsaeVs/ZrejPT7MItXSd94zGCZyk`
+Snapshot ID: `AAAAi5RFOp2uF4hSVRTmbtKjBewzxFL9`

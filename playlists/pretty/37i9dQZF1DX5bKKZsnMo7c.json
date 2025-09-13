@@ -1,13 +1,45 @@
 {
   "description": "Feeling dramatic? All eyes on you. Cover: Conan Gray",
-  "num_followers": 555652,
+  "num_followers": 555801,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGyOIStZ1RZqeeUdjdKeCcYWxmZT",
+  "snapshot_id": "AAAAAJlDfIfhtoSSsHKI0qGH+3oSt+nE",
   "tracks": [
+    {
+      "added_at": "2025-09-12 04:00:22",
+      "album": {
+        "name": "A Thousand Songs About It All: Act 1",
+        "url": "https://open.spotify.com/album/10zjvlSmwTfjc491s3eVUQ"
+      },
+      "artists": [
+        {
+          "name": "Madilyn Mei",
+          "url": "https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer"
+        }
+      ],
+      "duration_ms": 113186,
+      "name": "Velcro",
+      "url": "https://open.spotify.com/track/54K4WsM7uRhK0z57aoVmNr"
+    },
+    {
+      "added_at": "2025-09-05 04:00:16",
+      "album": {
+        "name": "Hot Goblin",
+        "url": "https://open.spotify.com/album/3ehPg84etRc980Up4eqY93"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 158167,
+      "name": "Hot Goblin",
+      "url": "https://open.spotify.com/track/1AQlvpcPh79BKnoKe1E6Nw"
+    },
     {
       "added_at": "2025-09-08 07:14:09",
       "album": {
@@ -39,22 +71,6 @@
       "duration_ms": 128198,
       "name": "Washing Machine Heart",
       "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
-    },
-    {
-      "added_at": "2025-09-05 04:00:16",
-      "album": {
-        "name": "Hot Goblin",
-        "url": "https://open.spotify.com/album/3ehPg84etRc980Up4eqY93"
-      },
-      "artists": [
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 158167,
-      "name": "Hot Goblin",
-      "url": "https://open.spotify.com/track/1AQlvpcPh79BKnoKe1E6Nw"
     },
     {
       "added_at": "2025-08-15 04:00:29",
@@ -89,6 +105,38 @@
       "url": "https://open.spotify.com/track/1y0aVfbxp1NAhQ5Z4Jhz0o"
     },
     {
+      "added_at": "2025-09-12 04:00:22",
+      "album": {
+        "name": "He Asked for It",
+        "url": "https://open.spotify.com/album/3L2pyTDUV3Ks9fe26iFcTN"
+      },
+      "artists": [
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        }
+      ],
+      "duration_ms": 171236,
+      "name": "He Asked for It",
+      "url": "https://open.spotify.com/track/748Jj8PHFv5YcURGcD9hrr"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
+    },
+    {
       "added_at": "2025-06-20 04:00:48",
       "album": {
         "name": "piano in the sky",
@@ -121,6 +169,22 @@
       "url": "https://open.spotify.com/track/3gS0VrWH2NyPGXYiFmcagd"
     },
     {
+      "added_at": "2025-09-12 04:00:22",
+      "album": {
+        "name": "Dogs In Heaven",
+        "url": "https://open.spotify.com/album/1FKbZv8ZPuDt8ufBnyFiH0"
+      },
+      "artists": [
+        {
+          "name": "Silver Gore",
+          "url": "https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2"
+        }
+      ],
+      "duration_ms": 159733,
+      "name": "25 Metres",
+      "url": "https://open.spotify.com/track/0vEty4cjnxyYJVv9Gsoqjy"
+    },
+    {
       "added_at": "2025-08-22 04:00:35",
       "album": {
         "name": "A Matter of Time",
@@ -135,22 +199,6 @@
       "duration_ms": 150866,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/1zOXs9kBDCGVYZXbxCR3eu"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "labour",
-        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 237744,
-      "name": "labour",
-      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
       "added_at": "2025-08-22 04:00:35",
@@ -221,6 +269,82 @@
       "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
     },
     {
+      "added_at": "2024-08-23 04:11:51",
+      "album": {
+        "name": "The Family Jewels",
+        "url": "https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 215960,
+      "name": "Hermit the Frog",
+      "url": "https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o"
+    },
+    {
+      "added_at": "2025-09-12 04:00:22",
+      "album": {
+        "name": "Helluva Boss: Season One (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7AjoUb9SiaGNfl2n99YYiz"
+      },
+      "artists": [
+        {
+          "name": "Helluva Boss",
+          "url": "https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7"
+        },
+        {
+          "name": "Rochelle Diamante",
+          "url": "https://open.spotify.com/artist/1LBGR7XDjLl6koGwUthUEs"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/6UJha694htAqAP6Ad1M4Oy"
+        }
+      ],
+      "duration_ms": 176702,
+      "name": "BUZZZN",
+      "url": "https://open.spotify.com/track/4aDvMSlTIH4RP66ignhUFv"
+    },
+    {
+      "added_at": "2025-08-18 02:36:33",
+      "album": {
+        "name": "boys beware",
+        "url": "https://open.spotify.com/album/6MFaXFiSwULcA42Zv7FMuW"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 133887,
+      "name": "boys beware",
+      "url": "https://open.spotify.com/track/799zCg04fIPgcbmplT3ecQ"
+    },
+    {
+      "added_at": "2025-08-18 02:36:33",
+      "album": {
+        "name": "The Last Werewolf",
+        "url": "https://open.spotify.com/album/3lZ6LgRBT4VV6bjFSdIFxp"
+      },
+      "artists": [
+        {
+          "name": "The Real Tuesday Weld",
+          "url": "https://open.spotify.com/artist/12KsgeavNVg66cW2frw3j2"
+        }
+      ],
+      "duration_ms": 264386,
+      "name": "Me and Mr Wolf",
+      "url": "https://open.spotify.com/track/1v6IAzMitH1xrFEZLQmmRN"
+    },
+    {
       "added_at": "2025-08-22 04:00:35",
       "album": {
         "name": "midsummer eve",
@@ -253,22 +377,6 @@
       "url": "https://open.spotify.com/track/0uEeF2vQCTu4ucShvarTIH"
     },
     {
-      "added_at": "2024-08-23 04:11:51",
-      "album": {
-        "name": "The Family Jewels",
-        "url": "https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 215960,
-      "name": "Hermit the Frog",
-      "url": "https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o"
-    },
-    {
       "added_at": "2025-08-22 04:00:35",
       "album": {
         "name": "Happy as Hell",
@@ -283,22 +391,6 @@
       "duration_ms": 189528,
       "name": "Happy as Hell",
       "url": "https://open.spotify.com/track/29z3ucWB5DV4EjS1jQ7e39"
-    },
-    {
-      "added_at": "2025-08-18 02:36:33",
-      "album": {
-        "name": "The Last Werewolf",
-        "url": "https://open.spotify.com/album/3lZ6LgRBT4VV6bjFSdIFxp"
-      },
-      "artists": [
-        {
-          "name": "The Real Tuesday Weld",
-          "url": "https://open.spotify.com/artist/12KsgeavNVg66cW2frw3j2"
-        }
-      ],
-      "duration_ms": 264386,
-      "name": "Me and Mr Wolf",
-      "url": "https://open.spotify.com/track/1v6IAzMitH1xrFEZLQmmRN"
     },
     {
       "added_at": "2025-07-25 04:11:48",
@@ -347,22 +439,6 @@
       "duration_ms": 174545,
       "name": "LOCK ME OUT",
       "url": "https://open.spotify.com/track/6n0qQ8JIB2nWs8fOMcDFcW"
-    },
-    {
-      "added_at": "2025-08-18 02:36:33",
-      "album": {
-        "name": "boys beware",
-        "url": "https://open.spotify.com/album/6MFaXFiSwULcA42Zv7FMuW"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 133887,
-      "name": "boys beware",
-      "url": "https://open.spotify.com/track/799zCg04fIPgcbmplT3ecQ"
     },
     {
       "added_at": "2025-06-13 18:59:28",
@@ -483,22 +559,6 @@
       "duration_ms": 220786,
       "name": "The Moon Will Sing",
       "url": "https://open.spotify.com/track/4v0Zqmuhlbt5nCj712Y26n"
-    },
-    {
-      "added_at": "2025-07-18 04:00:30",
-      "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x"
-      },
-      "artists": [
-        {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
-        }
-      ],
-      "duration_ms": 219413,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA"
     },
     {
       "added_at": "2025-05-16 04:00:10",
@@ -1053,50 +1113,6 @@
       "url": "https://open.spotify.com/track/0hjTOj4u1cLwPov4fqevnw"
     },
     {
-      "added_at": "2024-12-13 05:00:33",
-      "album": {
-        "name": "You are what you fear in me.",
-        "url": "https://open.spotify.com/album/0AGfakFPdkGpiHBehGWcRh"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 144374,
-      "name": "You are what you fear in me.",
-      "url": "https://open.spotify.com/track/1I6sx82iLyF7iCD5CaeFBR"
-    },
-    {
-      "added_at": "2024-08-23 04:11:51",
-      "album": {
-        "name": "Hazbin Hotel Original Soundtrack (Part 1)",
-        "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
-      },
-      "artists": [
-        {
-          "name": "Andrew Underberg",
-          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
-        },
-        {
-          "name": "Sam Haft",
-          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
-        },
-        {
-          "name": "Keith David",
-          "url": "https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY"
-        },
-        {
-          "name": "Blake Roman",
-          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
-        }
-      ],
-      "duration_ms": 175113,
-      "name": "Loser, Baby",
-      "url": "https://open.spotify.com/track/7sRz3vO2bEMhZGEkjnfMxb"
-    },
-    {
       "added_at": "2024-08-23 04:11:51",
       "album": {
         "name": "lucy~",
@@ -1143,22 +1159,6 @@
       "duration_ms": 279910,
       "name": "Fine",
       "url": "https://open.spotify.com/track/3CxpaC5Aw4jgRFlgeQH6BA"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Prom Queen",
-        "url": "https://open.spotify.com/album/6sEMWS70V7jsFnEP76XDmc"
-      },
-      "artists": [
-        {
-          "name": "Molly Kate Kestner",
-          "url": "https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf"
-        }
-      ],
-      "duration_ms": 226143,
-      "name": "Prom Queen",
-      "url": "https://open.spotify.com/track/2WEAKylXBPr9PJNANBSTDG"
     },
     {
       "added_at": "2024-08-23 04:11:51",

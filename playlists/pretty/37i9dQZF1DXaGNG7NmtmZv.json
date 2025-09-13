@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 239388,
+  "num_followers": 239414,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Break Down The Walls",
-        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
-      },
-      "artists": [
-        {
-          "name": "Youth Of Today",
-          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
-        }
-      ],
-      "duration_ms": 124373,
-      "name": "Break Down the Walls",
-      "url": "https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Wake The Dead",
         "url": "https://open.spotify.com/album/12E474LltJ7NCZD2L2kvR0"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 197226,
       "name": "Wake the Dead",
       "url": "https://open.spotify.com/track/0Ux0LyZRoLFiXfyKZtt6IE"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Break Down The Walls",
+        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
+      },
+      "artists": [
+        {
+          "name": "Youth Of Today",
+          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
+        }
+      ],
+      "duration_ms": 124373,
+      "name": "Break Down the Walls",
+      "url": "https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "Get It Away",
+        "url": "https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ"
+      },
+      "artists": [
+        {
+          "name": "SS Decontrol",
+          "url": "https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a"
+        }
+      ],
+      "duration_ms": 78099,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/58GYzvbTEO6p012RiuYaEp"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "Bulldog Edition",
         "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 96053,
       "name": "Can't Take It Away",
       "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "Merciless",
-        "url": "https://open.spotify.com/album/2FAsfrChg9GvQAa1wDGsEV"
-      },
-      "artists": [
-        {
-          "name": "Most Precious Blood",
-          "url": "https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu"
-        }
-      ],
-      "duration_ms": 220453,
-      "name": "Shark Ethic",
-      "url": "https://open.spotify.com/track/5o4ZaZnfWGRr7GWXU4LsXm"
     }
   ],
   "unique_name": "Classic Hardcore",

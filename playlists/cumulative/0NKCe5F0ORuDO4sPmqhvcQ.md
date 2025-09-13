@@ -4,7 +4,7 @@
 
 > selects from music we've been listening
 
-684 songs - 1 day 14 hr 25 min
+687 songs - 1 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [ARRIVAL](https://open.spotify.com/track/1WjTYi3pmVxaAogY4EmNXF) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [axxa\*](https://open.spotify.com/artist/4MuTo1P8rBfII96fchcoF5) | [6AE](https://open.spotify.com/album/6TAKPPLhU5c5J4g5z4ZdXf) | 3:35 | 2024-12-14 | 2025-06-07 |
 | [Ascend \(Reload\)](https://open.spotify.com/track/6IB4pkRzElFPRudm6ANKpu) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [Ascend \(Reload\)](https://open.spotify.com/album/6S4jvKUaVD3meKXB2nCwVm) | 5:37 | 2022-01-14 |  |
 | [Aurora](https://open.spotify.com/track/5FEbMc1hZuQahbLv0KDTNI) | [ZUSO](https://open.spotify.com/artist/6ZsS4MH8OG5vLGrXAoC5Ee) | [Aurora](https://open.spotify.com/album/0wsTnLWu8E6Ly8Jl84dG0O) | 7:08 | 2023-05-31 | 2023-07-20 |
+| [AUTOBAHN](https://open.spotify.com/track/64pEJ9PB0iB2NfAb8R2GOf) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [AUTOBAHN](https://open.spotify.com/album/5flItG4w6QQs7mdUheOAwq) | 3:11 | 2025-09-12 |  |
 | [aywhat + supasoaka](https://open.spotify.com/track/7bfUCyvnGwly51E5Qx1XE2) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [VVYELLOW](https://open.spotify.com/album/4s2XWWnnkZEF1BtVB5HrgL) | 2:34 | 2022-04-18 | 2022-07-23 |
 | [Baby from Atlanta](https://open.spotify.com/track/0Dmei5q5aCd8zLIuMUVoiq) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Baby from Atlanta](https://open.spotify.com/album/0jf4RUx2WK91eYFyllJPlc) | 3:19 | 2023-03-02 | 2024-03-23 |
 | [BACK ONLINE](https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [BACK ONLINE](https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j) | 3:37 | 2023-02-23 | 2025-09-11 |
@@ -247,6 +248,7 @@
 | [Free Yourself](https://open.spotify.com/track/6hBXPSKrmGBiRVD65Rpqot) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Sofasound](https://open.spotify.com/artist/3pOOUcLNTiZ8nljgMJDXQ6) | [Free Yourself](https://open.spotify.com/album/4t9ySdBRxL6KchQWrXL8Jz) | 3:50 | 2023-06-27 | 2023-08-18 |
 | [Gasoline](https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Gasoline](https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY) | 3:13 | 2024-03-30 | 2024-08-07 |
 | [Get To You](https://open.spotify.com/track/4jfySsGwhaA7TT4RsYzDvM) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Get To You](https://open.spotify.com/album/68Kb2V3PP0mmHrerQpspM5) | 3:46 | 2023-02-24 | 2023-06-23 |
+| [Get Up](https://open.spotify.com/track/2H43AB2EgHmUChTFL8zVZp) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Get Up](https://open.spotify.com/album/1kw8SiaqsRjeg8hAMxDdjL) | 3:31 | 2025-09-12 |  |
 | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/track/2afb6GwatIa0DC1u9rd6Fu) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/album/7BIZ9jNR3XG7q6AsNs4z3e) | 2:42 | 2022-09-16 | 2023-07-20 |
 | [Glimmer](https://open.spotify.com/track/5viOqMYnOlMeuCQmhqxyzg) | [West End Cove](https://open.spotify.com/artist/64WV3o80jWUNafJmMYFLze) | [Glimmer](https://open.spotify.com/album/6oOnyCD8sfO4ysaycHGFdJ) | 3:42 | 2022-11-22 | 2023-01-30 |
 | [GO!](https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb) | [GO!](https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V) | 3:06 | 2024-06-24 | 2024-08-07 |
@@ -477,6 +479,7 @@
 | [Proud](https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 3:56 | 2021-11-02 | 2022-01-08 |
 | [Psycho Bubblegum](https://open.spotify.com/track/4ri7J4V85t9huVJ3aqxvdR) | [GiGi Grombacher](https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n) | [Psycho Bubblegum](https://open.spotify.com/album/2D9lGhQ0uAM5WMzUiWQIyP) | 1:58 | 2022-11-04 | 2024-08-07 |
 | [Rabbit Hole](https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Rabbit Hole](https://open.spotify.com/album/2ARyPZ8mzwNLznwnBcfcpO) | 2:38 | 2022-06-28 | 2024-03-23 |
+| [RADIO \(feat\. Kim Petras\)](https://open.spotify.com/track/648EfIeWCsM2ssgEAB3s4k) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [SISTER](https://open.spotify.com/album/0IojfyxFQMggZW9aNCeaV7) | 3:10 | 2025-09-12 |  |
 | [rainonmyparade](https://open.spotify.com/track/7IQPEaJi04YGb0NrZnHMqh) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1) | [rainonmyparade](https://open.spotify.com/album/5kw8ltCF2M15RLZSMBqAjh) | 2:34 | 2024-03-01 | 2024-03-23 |
 | [Rally Girl 2000](https://open.spotify.com/track/2cYIHZbP6KlmZBoNkwtMah) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Rally Girl 2000](https://open.spotify.com/album/0ZZBf3AEVyzaw9HPNVjUzU) | 2:50 | 2025-07-02 | 2025-08-25 |
 | [Reach](https://open.spotify.com/track/616AZIQrnsA3jsCsBCFL7Y) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [Reach](https://open.spotify.com/album/0kl5oaz47bqBL4oSQEoeui) | 4:20 | 2022-01-14 | 2022-03-10 |

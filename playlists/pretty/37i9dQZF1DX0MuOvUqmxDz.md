@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the Holiday Season with your favorite country artists\. Cover: Dan + Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,979 likes - 102 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,956 likes - 102 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 60 | [Officially Christmas](https://open.spotify.com/track/2Z0htiPiNK8IiJDYTD51hr) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Officially Christmas](https://open.spotify.com/album/1ntmy0iqSY14aEeNZ7kXXa) | 2:58 |
 | 61 | [All I Want for Christmas is a Cowboy](https://open.spotify.com/track/3LelA67J3InQRCvUnyHomd) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Blue Christmas ...duh](https://open.spotify.com/album/2jAxdB4oHVxoEnqoEYbcOl) | 3:17 |
 | 62 | [Please Come Home For Christmas](https://open.spotify.com/track/1ThD4PsOGfnO9a14FcEiTd) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Please Come Home For Christmas](https://open.spotify.com/album/2VMY6ng8JtPwoH0hNJMlMY) | 2:51 |
-| 63 | [Falalala Falling](https://open.spotify.com/track/5BYV9T7qbq3fHoevvNqSZO) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Falalala Falling](https://open.spotify.com/album/04nBlv8vuV6Tw4CtRgUwGq) | 3:17 |
+| 63 | [Mistletoe Tipsy](https://open.spotify.com/track/5BYV9T7qbq3fHoevvNqSZO) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Mistletoe Tipsy](https://open.spotify.com/album/04nBlv8vuV6Tw4CtRgUwGq) | 3:17 |
 | 64 | [Last Christmas](https://open.spotify.com/track/2ADlV7RigsZc3Lo6kzGczk) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Last Christmas](https://open.spotify.com/album/6gWCpXtACkNTSchRJtD3oo) | 2:48 |
 | 65 | [Christmas Time Is Here](https://open.spotify.com/track/1moEucbMhmAK6KVPoNw6ms) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow \(Deluxe Edition\)](https://open.spotify.com/album/1MRT2V3JLYB6fL2TLJy2Rd) | 3:30 |
 | 66 | [Christmas Is](https://open.spotify.com/track/3bevuid8HsXwCo3RIzJv0Y) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [Christmas Is](https://open.spotify.com/album/6vsBjtv7f5laIdOB6NNUcM) | 2:55 |

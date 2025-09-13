@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to this Summer 2025\. Updated weekly!
 
-495 songs - 1 day 3 hr 43 min
+496 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Moment](https://open.spotify.com/track/2Zk9i8ayiwYLZIEJemuhl9) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Moment](https://open.spotify.com/album/4zvb6dFdrfPFHcLGtMdCXr) | 3:12 | 2021-12-17 | 2022-07-23 |
 | [Moment \- Mahmut Orhan Remix](https://open.spotify.com/track/3M6U1RZt2xU6GuVk80pIO0) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Moment \(Mahmut Orhan Remix\)](https://open.spotify.com/album/5aBDwb8E9GJvQruSw0eyrx) | 3:50 | 2022-07-22 |  |
 | [Moments \- Ben Böhmer & Nils Hoffmann Remix](https://open.spotify.com/track/3RF7yizTDynqcKO9EmypOy) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Moments \(Ben Böhmer & Nils Hoffmann Remix\)](https://open.spotify.com/album/0BqyPWvPIl8nyAmSZhvUoc) | 4:10 | 2021-03-06 |  |
+| [Mood Song](https://open.spotify.com/track/79fIQTrSfK6J9r8va0INAo) | [Why U So](https://open.spotify.com/artist/4oxwokKRwskQbaEFsCHyeS), [Lua Sola](https://open.spotify.com/artist/66uLLued7K4dTOOnUQ3Knl) | [Mood Song](https://open.spotify.com/album/0NQgDxmm1VEk9WQqwx1875) | 2:24 | 2025-09-12 |  |
 | [Moon \(And It Went Like\)](https://open.spotify.com/track/24upABZ8A0sAepfu91sEYr) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/4iII9nfzjxOYQFp8PyV6HD) | 6:30 | 2021-11-11 | 2025-07-31 |
 | [Moonlight](https://open.spotify.com/track/2YK9mLBoqHBtQzJfSC4yEn) | [Rayasa](https://open.spotify.com/artist/5hYGtyMCQoHCd7FOjyKxZN), [Jacala](https://open.spotify.com/artist/5TdUZkpbYaOWn9ec5mWzAm), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Moonlight](https://open.spotify.com/album/4n0YxfNjkOMvIRitlspEoK) | 2:09 | 2021-08-28 |  |
 | [Moonshine](https://open.spotify.com/track/0BvYYottMAxdwdzDnPWei4) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Moonshine](https://open.spotify.com/album/3ggeOhfB1ahEqdmv3AYZdV) | 3:34 | 2020-09-13\* | 2020-10-10 |

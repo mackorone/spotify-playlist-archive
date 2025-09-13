@@ -399,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Advertencia",
+        "url": "https://open.spotify.com/album/0dEgdpdLYJMoPWCdarqBXH"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247971,
+      "name": "Advertencia",
+      "url": "https://open.spotify.com/track/5E04c8q4aBVuoFOiVg5N60"
+    },
+    {
+      "album": {
         "name": "Aeropuerto",
         "url": "https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn"
       },
@@ -2827,6 +2845,24 @@
     },
     {
       "album": {
+        "name": "Decir Que No",
+        "url": "https://open.spotify.com/album/4pZ54jVFrOW0lrnYj10AYl"
+      },
+      "artists": [
+        {
+          "name": "Policias y Ladrones",
+          "url": "https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173170,
+      "name": "Decir Que No",
+      "url": "https://open.spotify.com/track/1NZM5iJCYBrQ4m9E7pPYsC"
+    },
+    {
+      "album": {
         "name": "Deja Que Ladren los Perros",
         "url": "https://open.spotify.com/album/2zsdjDwHhZM3h7rgwo23I1"
       },
@@ -3965,6 +4001,28 @@
     },
     {
       "album": {
+        "name": "El Taquicardio",
+        "url": "https://open.spotify.com/album/7AIQsTUjFdh6D69rYIocT6"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/6wRhvAUh6C5QUoK59hc9A1"
+        },
+        {
+          "name": "Chingadazo de Kung Fu",
+          "url": "https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270806,
+      "name": "El Taquicardio",
+      "url": "https://open.spotify.com/track/08ZqrrG5IcnVvyZh9kFOjd"
+    },
+    {
+      "album": {
         "name": "MAGIC EXPERIENCE BAND",
         "url": "https://open.spotify.com/album/6rMJCqRow0rYyceLLIxbDX"
       },
@@ -4210,7 +4268,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 228668,
       "name": "Entretenimiento",
       "url": "https://open.spotify.com/track/7rA6edTCfSvnXWyr0fy1Ff"
@@ -4318,7 +4376,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 228000,
       "name": "Especial 56",
       "url": "https://open.spotify.com/track/6Nq8gYcnnJyePJak4yvoHP"
@@ -8201,6 +8259,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9xico Libre",
+        "url": "https://open.spotify.com/album/3XAyTBYE7vIdK8mvYsMe9Z"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134031,
+      "name": "M\u00e9xico Libre",
+      "url": "https://open.spotify.com/track/4Da0sxKYH394GEov6ZdjZX"
+    },
+    {
+      "album": {
         "name": "M\u00e9xico M\u00e1xico",
         "url": "https://open.spotify.com/album/2hS6iPoJyOp8xQxGiV2jBZ"
       },
@@ -9326,7 +9402,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 233807,
       "name": "Para llegar hasta aqu\u00ed",
       "url": "https://open.spotify.com/track/538EBNYTHPk4NL8yrTatX4"
@@ -9546,7 +9622,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-13",
       "duration_ms": 254160,
       "name": "Patrones en el vac\u00edo",
       "url": "https://open.spotify.com/track/3qS7HgdEU1EOroGJg7mqUX"

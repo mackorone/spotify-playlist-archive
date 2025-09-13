@@ -2,9 +2,9 @@
 
 ### [la pop\~wave](https://open.spotify.com/playlist/37i9dQZF1DWYEIx04mlcFR)
 
-> la nueva ola de artistas con Miranda Santizo en portada\. 🌊✨
+> la nueva ola de artistas con Bratty & Barry B en portada\. 🌊✨
 
-736 songs - 1 day 13 hr 49 min
+739 songs - 1 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 | 2023-04-14 | 2024-01-13 |
 | [Algo Que Escuché / Algo Que Vi](https://open.spotify.com/track/7GrNmmMydQfmhBN9YfCeRc) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [ISABEL LP](https://open.spotify.com/album/2wKUbvW4GLcdbvCYVoLnEX) | 2:24 | 2024-03-15 | 2024-04-30 |
 | [Algo sobre ti](https://open.spotify.com/track/6lUpx82NCHXJXVVVcjL3s5) | [Alan Troy](https://open.spotify.com/artist/2AAtJ9SZMYanKsVF87wxGU) | [Algo sobre ti](https://open.spotify.com/album/12vLLxaafRgbJKD3M5FKRg) | 2:06 | 2025-07-18 |  |
+| [Alma Dividida](https://open.spotify.com/track/50jrttPQLPvef6BlpaxdYY) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Morena+](https://open.spotify.com/album/3YQgBmOjOXTXnNRmK8E2rs) | 2:47 | 2025-09-12 |  |
 | [ALMA</3](https://open.spotify.com/track/1Mq86WnX64KKQoCuIaXT1t) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [ALMA</3](https://open.spotify.com/album/68bcjscUFhKvunT391ALub) | 2:24 | 2024-02-23 | 2024-07-06 |
 | [Aloha](https://open.spotify.com/track/7u4ECMwlGz2H7kc8r3EvRN) | [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw) | [Aloha](https://open.spotify.com/album/1n9qhPuxCqXD7X1dA5nQox) | 2:50 | 2021-12-10 | 2022-04-14 |
 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 | 2024-12-04 | 2025-01-25 |
@@ -82,6 +83,7 @@
 | [aunque quisiera, no podría](https://open.spotify.com/track/2Eem56vLTyF2pi2T19AmvG) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [fuera de lugar](https://open.spotify.com/album/6Z73rP80ugJPA7zEhCitar) | 4:22 | 2022-03-11 | 2022-07-12 |
 | [Aura \- Spanish Version](https://open.spotify.com/track/5l8bXrvNDKsc41o07lL9YN) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura \(Spanish Version\)](https://open.spotify.com/album/6LWAOYIqPzIdujffA7ah7W) | 3:28 | 2022-09-23 | 2023-04-15 |
 | [Autorretrato](https://open.spotify.com/track/55SwmpdOchhXCJwYxrRdrq) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Autorretrato](https://open.spotify.com/album/3Mz3vMXm002M6VTs6Swg9V) | 3:34 | 2023-05-19 | 2023-07-07 |
+| [Ave Canta \- Reprise](https://open.spotify.com/track/0BUcpces0vo6QUB8sexVD5) | [Hay Un Dinosaurio](https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe) | [Ave Canta \(Reprise\)](https://open.spotify.com/album/32YUzQAtanQDlcis3O4NRy) | 4:32 | 2025-09-12 |  |
 | [Azul](https://open.spotify.com/track/4REs7jIplREVkIfXaNjUzJ) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Azul](https://open.spotify.com/album/6VgL4TQPE0jfvuCGWgUMut) | 4:10 | 2023-08-25 | 2023-11-30 |
 | [Back To U](https://open.spotify.com/track/4kWzYqOsoT2uzn42ueE4jX) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Back To U](https://open.spotify.com/album/4rRwEmIEgyqL70Omv2IWW3) | 3:13 | 2023-08-25 | 2023-10-21 |
 | [BAD INTENCIONES](https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [BAD INTENCIONES](https://open.spotify.com/album/1sSipuadK72m7WMdrfrieC) | 2:49 | 2024-01-26 | 2024-11-30 |
@@ -304,7 +306,7 @@
 | [Ké MaL](https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL](https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv) | 3:08 | 2024-07-26 | 2024-12-05 |
 | [la calle](https://open.spotify.com/track/1Z46DKkcu0ZVpp5MQSSdi1) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [NICA](https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3) | 4:03 | 2024-12-04 | 2025-02-22 |
 | [la calle](https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la calle](https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq) | 4:03 | 2024-01-26 | 2024-11-30 |
-| [La Ciudad](https://open.spotify.com/track/2WkdQRVKSpQR7m8ADRgen5) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [La Ciudad](https://open.spotify.com/album/6Kg0WYwrz6on4qEPJLGuWO) | 3:33 | 2025-06-20 |  |
+| [La Ciudad](https://open.spotify.com/track/2WkdQRVKSpQR7m8ADRgen5) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [La Ciudad](https://open.spotify.com/album/6Kg0WYwrz6on4qEPJLGuWO) | 3:33 | 2025-06-20 | 2025-09-13 |
 | [La Del Campo De Fresas](https://open.spotify.com/track/21xwVpmT4Jp9DcJHsm5AoG) | [ALONG](https://open.spotify.com/artist/1tbJON658Utp3LCByyGz6v) | [Navegando](https://open.spotify.com/album/1dExVI7g7HBba3243F7XRy) | 3:56 | 2022-06-17 | 2022-10-08 |
 | [La Humedad](https://open.spotify.com/track/5iadwXUy0bgFAoyjHTMGrb) | [Yöels](https://open.spotify.com/artist/7nS08seSNCpGqZhkQORnZL), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [La Humedad](https://open.spotify.com/album/31OO3nEarsxYyRJ8KLCQUv) | 3:28 | 2024-10-04 | 2024-11-30 |
 | [La Lista](https://open.spotify.com/track/0AtNOujrNexbsOjJkD7NEF) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [La Lista](https://open.spotify.com/album/6vF9qaVzcUaOh9A0fuA7PP) | 3:44 | 2023-10-21 | 2024-04-19 |
@@ -371,7 +373,7 @@
 | [Me Caga Tu Novia](https://open.spotify.com/track/1xBFsxUw84BMgEClaw09z4) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Me Caga Tu Novia](https://open.spotify.com/album/2uPxcGS41IV2ZH9ie4JWov) | 2:50 | 2023-05-05 | 2024-11-30 |
 | [Me Duele \(Suceso 2\)](https://open.spotify.com/track/2K9fZ87LZyBNmLFeldootY) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Me Duele \(Suceso 2\)](https://open.spotify.com/album/1h08JW9Wa6FbpaeWDyQ9zR) | 3:20 | 2021-12-10 | 2022-03-12 |
 | [me elegiste a mí <3](https://open.spotify.com/track/6AsXVvuBCO21Q5bVVGEmsD) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [me elegiste a mí <3](https://open.spotify.com/album/5BFyJckUm8cZwto6BozwFo) | 2:59 | 2022-04-22 | 2022-07-30 |
-| [ME ESTOY RINDIENDO am0r :\(](https://open.spotify.com/track/74KvgeiH6BjFD39S4nwxvA) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ME ESTOY RINDIENDO am0r :\(](https://open.spotify.com/album/1CnDy0F1wT923JSznCjUtr) | 3:16 | 2025-06-20 |  |
+| [ME ESTOY RINDIENDO am0r :\(](https://open.spotify.com/track/74KvgeiH6BjFD39S4nwxvA) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ME ESTOY RINDIENDO am0r :\(](https://open.spotify.com/album/1CnDy0F1wT923JSznCjUtr) | 3:16 | 2025-06-20 | 2025-09-13 |
 | [Me Hipnotizas](https://open.spotify.com/track/4nCTEteEhAkAGtk9rMSUUe) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Me Hipnotizas](https://open.spotify.com/album/3kf3Kvtes1T7ywPIn2oW30) | 2:35 | 2024-12-04 | 2025-05-03 |
 | [Me Jodiste](https://open.spotify.com/track/5IpVwbuqd1RAdJCsV5GdWD) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Me Jodiste](https://open.spotify.com/album/2l5menS7GnDZE1p4lArfAZ) | 2:46 | 2022-03-11 | 2022-08-20 |
 | [me jodiste](https://open.spotify.com/track/3Ff1wmVXy1vnKaBOxeZSNj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [me jodiste](https://open.spotify.com/album/19KhpijfIvsOdJeZzqR7Ii) | 2:56 | 2023-02-24 | 2023-06-24 |
@@ -383,7 +385,7 @@
 | [mE vALe maDRE :\)](https://open.spotify.com/track/0ktTd6UI2vktUtieujvgU8) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [mE vALe maDRE :\)](https://open.spotify.com/album/2NU9IGazkM2S6l0C0i1EaP) | 2:30 | 2023-06-02 | 2024-05-11 |
 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 | 2023-06-02 | 2023-09-30 |
 | [MEDIO LLENO: medio vacío](https://open.spotify.com/track/38uBvlxu8rchby9QF2mqbo) | [Mérida](https://open.spotify.com/artist/40mr1p17oA1QhgK0IoJZkj) | [MEDIO LLENO: medio vacío](https://open.spotify.com/album/3B3jVJecGNaL1gaEvkHbwT) | 3:07 | 2025-01-24 | 2025-04-26 |
-| [mejorasí](https://open.spotify.com/track/0DdJAiPRTusgibGZr6Pm2T) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [mejorasí](https://open.spotify.com/album/52f0I2VU84gdiTh2tkbTXV) | 2:50 | 2025-07-04 |  |
+| [mejorasí](https://open.spotify.com/track/0DdJAiPRTusgibGZr6Pm2T) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [mejorasí](https://open.spotify.com/album/52f0I2VU84gdiTh2tkbTXV) | 2:50 | 2025-07-04 | 2025-09-13 |
 | [Memorias](https://open.spotify.com/track/7xU7ApnDHCvSGyJO1RUq9U) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Memorias](https://open.spotify.com/album/63bU9OBrh67z7rWPQPcbUm) | 3:52 | 2025-06-06 | 2025-09-06 |
 | [Menos Tú Y Yo](https://open.spotify.com/track/43SNLAbMAeWEj5iV2WIrIm) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Menos Tú y Yo](https://open.spotify.com/album/0vXp6cX8hFR5EyonKAJFFx) | 3:08 | 2023-02-17 | 2023-06-10 |
 | [Mensajes Leídos](https://open.spotify.com/track/4Eud3awU5ezovZc0sGcWoT) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [Mensajes Leídos](https://open.spotify.com/album/31fsFRMZhDyn4Rmjt57AsN) | 2:41 | 2022-09-23 | 2023-04-01 |
@@ -482,6 +484,7 @@
 | [ONE SHOT](https://open.spotify.com/track/5eiinOqRCTAXl5RIJmby8o) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Mudanzas](https://open.spotify.com/album/2UNqbgVDrEGAjk8n2JEpvV) | 2:24 | 2025-05-02 |  |
 | [Origami](https://open.spotify.com/track/6OwCDKci5J0HlQfpYlKe9f) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Origami](https://open.spotify.com/album/5tWgfnBjbkKhn7j7Q23SgD) | 3:01 | 2023-02-24 | 2023-07-07 |
 | [Otra salida](https://open.spotify.com/track/5idCAuhxhDWldAm93frr0u) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Otra salida](https://open.spotify.com/album/7uNknMu8j1uaoN0fuiiWVS) | 4:26 | 2025-09-05 |  |
+| [Otra Vez?](https://open.spotify.com/track/6m4gJe6ZvQrFtUBbzK4Qn3) | [Duck Fizz](https://open.spotify.com/artist/6sk1tzWevukbzNTIDTlhzy) | [Otra Vez?](https://open.spotify.com/album/1YlxRivTatOeCOMGFi93gh) | 3:03 | 2025-09-12 |  |
 | [Otro Día](https://open.spotify.com/track/0bUfdeUmiVzHSIT5l2NmGa) | [Angel Vergara](https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x), [ARIA](https://open.spotify.com/artist/6W4UUzoroQt4P9pjHnauHt) | [Otro Día](https://open.spotify.com/album/1YAp4K65JOhGKRpbu1gnMb) | 2:39 | 2022-05-16 | 2022-09-01 |
 | [otro día más](https://open.spotify.com/track/2ru9Lqal7lsrkPMVb9MWi0) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [otro día más](https://open.spotify.com/album/2wd2sRJLvslFfGODquw3oG) | 2:26 | 2025-09-05 |  |
 | [Pa PRIVE](https://open.spotify.com/track/59EISn3QlxiItQFAlk4WVy) | [Steff](https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt) | [Pa PRIVE](https://open.spotify.com/album/1NcSaHWDtxlB7VX3RbwKhS) | 3:10 | 2022-05-27 | 2022-10-15 |

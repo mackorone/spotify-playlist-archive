@@ -1,13 +1,45 @@
 {
   "description": "Jazz voices of today. Cover: Rachael & Vilray",
-  "num_followers": 160199,
+  "num_followers": 160220,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJtTkbe/0C9qTgRplJ67OGjyZNrL",
+  "snapshot_id": "AAAAAOwzIkhS9BAiJ8rkqBK4qniJ6HMQ",
   "tracks": [
+    {
+      "added_at": "2025-09-12 04:00:27",
+      "album": {
+        "name": "Just Wait A Minute",
+        "url": "https://open.spotify.com/album/05pfw7Rs7dirnwvQc8LnxQ"
+      },
+      "artists": [
+        {
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
+        }
+      ],
+      "duration_ms": 202056,
+      "name": "Just Wait A Minute",
+      "url": "https://open.spotify.com/track/2XBcAlAlbXsx13Q4Czs6cG"
+    },
+    {
+      "added_at": "2025-09-12 04:00:27",
+      "album": {
+        "name": "fucking happy",
+        "url": "https://open.spotify.com/album/5OmCmJBDtcN6yQLeoiJNoN"
+      },
+      "artists": [
+        {
+          "name": "Niia",
+          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+        }
+      ],
+      "duration_ms": 227080,
+      "name": "fucking happy",
+      "url": "https://open.spotify.com/track/5tZplFi9dOTcwmlFUJV088"
+    },
     {
       "added_at": "2025-08-22 04:00:09",
       "album": {
@@ -27,6 +59,26 @@
       "duration_ms": 177320,
       "name": "Pour for the Hour",
       "url": "https://open.spotify.com/track/4IM8Agsa5fDz7b2NqkQUkB"
+    },
+    {
+      "added_at": "2025-09-12 04:00:27",
+      "album": {
+        "name": "You've Got What It Takes",
+        "url": "https://open.spotify.com/album/6qD1iK0ju2hWXqciyro7Rz"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 198645,
+      "name": "You've Got What It Takes",
+      "url": "https://open.spotify.com/track/73T8S57Je3UY0LTHtDlu08"
     },
     {
       "added_at": "2025-08-22 04:00:09",
@@ -1601,42 +1653,6 @@
       "url": "https://open.spotify.com/track/6kXF7Mhr3HaIvkPo3h3dOs"
     },
     {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
-        "name": "Look to the sky",
-        "url": "https://open.spotify.com/album/2GEdsH8sBS89u9jgjMx2BR"
-      },
-      "artists": [
-        {
-          "name": "Claudia Zannoni",
-          "url": "https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s"
-        },
-        {
-          "name": "Massimo Fara\u00f2",
-          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
-        }
-      ],
-      "duration_ms": 195454,
-      "name": "Look to the sky",
-      "url": "https://open.spotify.com/track/4AjRWlUyFY64H9B6Onfayz"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "I've Seen That Face Before (Libertango)",
-        "url": "https://open.spotify.com/album/3oGgc8Wx9GDWbfikSmSndi"
-      },
-      "artists": [
-        {
-          "name": "Youn Sun Nah",
-          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
-        }
-      ],
-      "duration_ms": 298680,
-      "name": "I've Seen That Face Before (Libertango)",
-      "url": "https://open.spotify.com/track/2ZRop5JAfbOZKihY7ufETq"
-    },
-    {
       "added_at": "2024-01-26 05:01:00",
       "album": {
         "name": "East Coast Jazz",
@@ -1831,22 +1847,6 @@
       "duration_ms": 229133,
       "name": "Stop This World",
       "url": "https://open.spotify.com/track/4yvljqDSkPWgUuxw9gm4pH"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Moonlight Saving Time",
-        "url": "https://open.spotify.com/album/7iaBrbkEsbv9OKNCzgxvai"
-      },
-      "artists": [
-        {
-          "name": "Kelly Green",
-          "url": "https://open.spotify.com/artist/6MGNhzLevHtkeVTcwNpTmZ"
-        }
-      ],
-      "duration_ms": 228177,
-      "name": "Moonlight Saving Time",
-      "url": "https://open.spotify.com/track/0PTJWngEh1q5CXeNUduXjU"
     },
     {
       "added_at": "2024-02-16 05:01:00",

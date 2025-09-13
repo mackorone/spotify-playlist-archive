@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 70108,
+  "num_followers": 70115,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-08-22 16:56:16",
       "album": {
+        "name": "Na Mi\u00fada",
+        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        }
+      ],
+      "duration_ms": 164131,
+      "name": "Romance Fora de Hora",
+      "url": "https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr"
+    },
+    {
+      "added_at": "2025-08-22 16:56:16",
+      "album": {
         "name": "SALVE-SE!",
         "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 170000,
       "name": "Quem diria",
       "url": "https://open.spotify.com/track/7jQ3qAyxy3gbYNGw6ysO5E"
-    },
-    {
-      "added_at": "2025-08-22 16:56:16",
-      "album": {
-        "name": "TRAN\u00c7A",
-        "url": "https://open.spotify.com/album/33o0Id7mFVN77Vn4tKx8EQ"
-      },
-      "artists": [
-        {
-          "name": "Trajano",
-          "url": "https://open.spotify.com/artist/3LxEjKaojOdrfAZ4HrdJQy"
-        }
-      ],
-      "duration_ms": 269062,
-      "name": "OFERENDA",
-      "url": "https://open.spotify.com/track/4knACzeO6UUyh8mVMzhAk2"
     },
     {
       "added_at": "2025-08-22 16:56:16",
@@ -623,18 +623,18 @@
     {
       "added_at": "2025-08-22 16:56:16",
       "album": {
-        "name": "Na Mi\u00fada",
-        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
+        "name": "TRAN\u00c7A",
+        "url": "https://open.spotify.com/album/33o0Id7mFVN77Vn4tKx8EQ"
       },
       "artists": [
         {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+          "name": "Trajano",
+          "url": "https://open.spotify.com/artist/3LxEjKaojOdrfAZ4HrdJQy"
         }
       ],
-      "duration_ms": 164131,
-      "name": "Romance Fora de Hora",
-      "url": "https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr"
+      "duration_ms": 269062,
+      "name": "OFERENDA",
+      "url": "https://open.spotify.com/track/4knACzeO6UUyh8mVMzhAk2"
     },
     {
       "added_at": "2025-08-22 16:56:16",

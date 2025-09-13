@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 ### [All New Metal](https://open.spotify.com/playlist/37i9dQZF1DX5J7FIl4q56G)
 
-> The best new tracks in metal, hard rock, and all things heavy\. Cover: PRESIDENT
+> The best new tracks in metal, hard rock, and all things heavy\. Cover: Lorna Shore
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,564 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,015 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 99 | [Renewal](https://open.spotify.com/track/1S0AbOPzmLwUXtyv2Czq3z) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Renewal](https://open.spotify.com/album/7erRumRzCic3S7fkI8IiMP) | 5:21 |
 | 100 | [Falling](https://open.spotify.com/track/0FXd66izREULY9vJhshI7Y) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Falling](https://open.spotify.com/album/2hIV0w5oK3WCosJTj0RM5x) | 3:00 |
 
-Snapshot ID: `AAAAALB18pymgvR11xbmEZXPUGVwRW2k`
+Snapshot ID: `AAAAAKvw9Om01YFLWnEuSUJOwExYTOUo`
