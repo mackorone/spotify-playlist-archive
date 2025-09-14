@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,305 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,302 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 31 | [call me](https://open.spotify.com/track/49WCwFt5TTXeEVfK3aB5Ln) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX), [Gracio Zaqueu](https://open.spotify.com/artist/2S0NEVzLlZGbfq4Mqkfd1i) | [call me](https://open.spotify.com/album/53RZRwrE2R70bsJ3DPn7My) | 7:18 |
 | 32 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 |
 | 33 | [Bora Bora](https://open.spotify.com/track/4m4YHd7kzcJnEMPBJBjqsL) | [LEPYUTIN](https://open.spotify.com/artist/0xIHNVToPKLLTMFFpRKFUv) | [Bora Bora](https://open.spotify.com/album/0DDElz4yORty6Mq6WBR9K3) | 6:14 |
-| 34 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 |
+| 34 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 |
 | 35 | [メルヘンを捨てないで](https://open.spotify.com/track/3O1ojkYeGIfbsHwoPnNYVy) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [メルヘンを捨てないで \- Single](https://open.spotify.com/album/5QTY7exTo7bUbckd9HAolP) | 4:52 |
-| 36 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 |
+| 36 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 |
 | 37 | [In Between](https://open.spotify.com/track/46HV59uHgPKBntPWvVIQdZ) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [In Between](https://open.spotify.com/album/4FKYyvK7jc7pfGTUB5RIsw) | 2:13 |
 | 38 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 |
 | 39 | [Valparaiso](https://open.spotify.com/track/4lhbMN6hbhlr221DJs3c9F) | [Wicked Lights](https://open.spotify.com/artist/2JMweZxR2xGs9rcfzktB5k) | [Valparaiso](https://open.spotify.com/album/2rX7ye6GRZ7rRGWRGjlHnr) | 4:03 |

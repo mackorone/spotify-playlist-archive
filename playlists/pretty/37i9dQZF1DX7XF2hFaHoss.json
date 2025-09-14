@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: I'm With Her",
-  "num_followers": 153609,
+  "num_followers": 153635,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-09-02 20:18:55",
       "album": {
-        "name": "Halfway There",
-        "url": "https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI"
-      },
-      "artists": [
-        {
-          "name": "Kathleen Regan",
-          "url": "https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf"
-        }
-      ],
-      "duration_ms": 194365,
-      "name": "Halfway There",
-      "url": "https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s"
-    },
-    {
-      "added_at": "2025-09-02 20:18:55",
-      "album": {
         "name": "Be Careful",
         "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 342272,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
+    },
+    {
+      "added_at": "2025-09-02 20:18:55",
+      "album": {
+        "name": "Halfway There",
+        "url": "https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Regan",
+          "url": "https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf"
+        }
+      ],
+      "duration_ms": 194365,
+      "name": "Halfway There",
+      "url": "https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s"
     },
     {
       "added_at": "2025-09-02 20:18:55",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2025-09-02 20:18:55",
       "album": {
-        "name": "California Calling",
-        "url": "https://open.spotify.com/album/1RR6o1mYDjmZDZZvE75KFi"
-      },
-      "artists": [
-        {
-          "name": "Laura Cortese & The Dance Cards",
-          "url": "https://open.spotify.com/artist/0jHvVCEhCmKwd3Aqz2Jwh3"
-        },
-        {
-          "name": "Laura Cortese",
-          "url": "https://open.spotify.com/artist/5T5BMVZGSvhRXSx3alNp2n"
-        }
-      ],
-      "duration_ms": 241373,
-      "name": "The Low Hum",
-      "url": "https://open.spotify.com/track/2VnR0EzbyFApMflT0xrcuD"
-    },
-    {
-      "added_at": "2025-09-02 20:18:55",
-      "album": {
         "name": "New Frontier",
         "url": "https://open.spotify.com/album/6FU2w4wTADCGBJsYKkyz47"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 199346,
       "name": "American Crow",
       "url": "https://open.spotify.com/track/1Z1Fo7DlxPhlbR7Q9hhgKg"
+    },
+    {
+      "added_at": "2025-09-02 20:18:55",
+      "album": {
+        "name": "California Calling",
+        "url": "https://open.spotify.com/album/1RR6o1mYDjmZDZZvE75KFi"
+      },
+      "artists": [
+        {
+          "name": "Laura Cortese & The Dance Cards",
+          "url": "https://open.spotify.com/artist/0jHvVCEhCmKwd3Aqz2Jwh3"
+        },
+        {
+          "name": "Laura Cortese",
+          "url": "https://open.spotify.com/artist/5T5BMVZGSvhRXSx3alNp2n"
+        }
+      ],
+      "duration_ms": 241373,
+      "name": "The Low Hum",
+      "url": "https://open.spotify.com/track/2VnR0EzbyFApMflT0xrcuD"
     },
     {
       "added_at": "2025-09-02 20:18:55",

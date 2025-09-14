@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 
 > Jazz piano to accompany your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,402 likes - 200 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,491 likes - 200 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 | 199 | [Nordic Dreams](https://open.spotify.com/track/1XRHb1rYnhKxoF0SzCgVjH) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [Nordic Dreams](https://open.spotify.com/album/0VjnDOivugjQtCXeUEmW8H) | 3:46 |
 | 200 | [On the Sunny Side of the Street](https://open.spotify.com/track/4D3Yd7spmD1lJiXkCYAuDU) | [Winola Weber](https://open.spotify.com/artist/0KfXDCKVMe0yr65RVDFZoL) | [On the Sunny Side of the Street](https://open.spotify.com/album/3a3kKQAfeBVFkosQpWBRfo) | 2:27 |
 
-Snapshot ID: `AAAAAKn+v/FccBEVdWUx2gee676cyH8i`
+Snapshot ID: `AAAAAE9/FqleJP/HMXGP/PL/qdLKYNVL`

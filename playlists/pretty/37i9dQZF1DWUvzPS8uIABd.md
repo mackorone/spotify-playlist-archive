@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Nelli Matula.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,306 likes - 73 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,309 likes - 73 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ai Että](https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ai Että](https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg) | 2:41 |
-| 2 | [Köyhä ja kipee \(feat\. BESS\)](https://open.spotify.com/track/4N1xl85zvCN21lRpz5aEZQ) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Nää pirut on mun kavereit](https://open.spotify.com/album/3qfGZ2Tk9Y3SmS0p7BPjO7) | 3:11 |
-| 3 | [Uus ikuisuus](https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Uus ikuisuus](https://open.spotify.com/album/5sJ7kXJARagnnxyPaKrNXc) | 2:56 |
-| 4 | [Autiomaa \- Vain elämää kausi 16](https://open.spotify.com/track/2xMaGPMw5YroV8i32HAMX0) | [Johannes Brotherus](https://open.spotify.com/artist/5lFVRyMzIDJHW9Oy9vZpYo), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Autiomaa \(Vain elämää kausi 16\)](https://open.spotify.com/album/7jLSDdDKjyVENj0chrbTh7) | 2:48 |
-| 5 | [Parempi mies](https://open.spotify.com/track/7cHnbBoghcPqFQ1rcCUort) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Parempi mies](https://open.spotify.com/album/0PC2XvK07EEMfGS08PAc5a) | 2:57 |
-| 6 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
-| 7 | [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 |
-| 8 | [Yöpakkasii](https://open.spotify.com/track/5PwkPXZpfb7yXlfx5f4lsI) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Yöpakkasii](https://open.spotify.com/album/1sW7InFGvltXITXenNLk1L) | 3:00 |
-| 9 | [People's Champion \(Vain elämää kausi 16\)](https://open.spotify.com/track/4peIoWqdK1Q4Zy6wVAKWFI) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [People's Champion \(Vain elämää kausi 16\)](https://open.spotify.com/album/1PX5TebdCi5gxFTAD2CREo) | 3:19 |
-| 10 | [Voiko enkelitkin eksyä](https://open.spotify.com/track/0p2JegDOnAHal6tyUqcsbW) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6ZawkhQLo031iW3evZzeUr) | 4:00 |
+| 2 | [Voiko enkelitkin eksyä](https://open.spotify.com/track/0p2JegDOnAHal6tyUqcsbW) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6ZawkhQLo031iW3evZzeUr) | 4:00 |
+| 3 | [Autiomaa \- Vain elämää kausi 16](https://open.spotify.com/track/2xMaGPMw5YroV8i32HAMX0) | [Johannes Brotherus](https://open.spotify.com/artist/5lFVRyMzIDJHW9Oy9vZpYo), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Autiomaa \(Vain elämää kausi 16\)](https://open.spotify.com/album/7jLSDdDKjyVENj0chrbTh7) | 2:48 |
+| 4 | [Uus ikuisuus](https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Uus ikuisuus](https://open.spotify.com/album/5sJ7kXJARagnnxyPaKrNXc) | 2:56 |
+| 5 | [Köyhä ja kipee \(feat\. BESS\)](https://open.spotify.com/track/4N1xl85zvCN21lRpz5aEZQ) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Nää pirut on mun kavereit](https://open.spotify.com/album/3qfGZ2Tk9Y3SmS0p7BPjO7) | 3:11 |
+| 6 | [Parempi mies](https://open.spotify.com/track/7cHnbBoghcPqFQ1rcCUort) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Parempi mies](https://open.spotify.com/album/0PC2XvK07EEMfGS08PAc5a) | 2:57 |
+| 7 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
+| 8 | [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 |
+| 9 | [Yöpakkasii](https://open.spotify.com/track/5PwkPXZpfb7yXlfx5f4lsI) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Yöpakkasii](https://open.spotify.com/album/1sW7InFGvltXITXenNLk1L) | 3:00 |
+| 10 | [People's Champion \(Vain elämää kausi 16\)](https://open.spotify.com/track/4peIoWqdK1Q4Zy6wVAKWFI) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [People's Champion \(Vain elämää kausi 16\)](https://open.spotify.com/album/1PX5TebdCi5gxFTAD2CREo) | 3:19 |
 | 11 | [BMW](https://open.spotify.com/track/0Oqr9x0w5JSx74G307XWFV) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [BMW](https://open.spotify.com/album/2LhZbv4JOmaFrVKyf7nXh3) | 2:58 |
 | 12 | [Ruoska \(Vain elämää kausi 16\)](https://open.spotify.com/track/4s1JOf5J7EjssyG8quH0Cn) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Ruoska \(Vain elämää kausi 16\)](https://open.spotify.com/album/0uIqtBXQSzMs2ahB8FgE93) | 3:17 |
 | 13 | [Jiihaa](https://open.spotify.com/track/13kEg5VG2AxCHwM7Haudzd) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Jiihaa](https://open.spotify.com/album/2642MXbCEbPaqqvO1q6KHC) | 2:56 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 72 | [MRR](https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MRR](https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9) | 1:51 |
 | 73 | [Äiti Älä Huoli](https://open.spotify.com/track/25mu4aiASODLDGYi7comEJ) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Äiti Älä Huoli](https://open.spotify.com/album/5JEN1rcriU1XRuzFwJdqdI) | 3:12 |
 
-Snapshot ID: `AAAAAOd6CnSIPIvr2Wh0UxQsQrF75NYh`
+Snapshot ID: `AAAAALAFiOQzgopw4jZzTYBY6pJY1i2d`

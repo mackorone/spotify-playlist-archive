@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > nem todas as AULAS são mó mamão \- pergunta pro dinizz \(ce tá na sua razão né beatriz? dmr então 👍🏽\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,161,189 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161,099 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

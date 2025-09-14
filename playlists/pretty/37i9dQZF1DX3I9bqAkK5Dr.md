@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! <br/>Cover : Jagdish, Ayaan, Damini
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,934 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,940 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 32 | [London Pilla](https://open.spotify.com/track/3yVXVL58qnSYpbBh4Ai5bk) | [Afroz Ali](https://open.spotify.com/artist/163z7nRHrdBeQtMSIUacZW) | [London Pilla](https://open.spotify.com/album/0zqkzhdB3ZRqZDLvSavTpy) | 3:51 |
 | 33 | [Manasu](https://open.spotify.com/track/3Akm212i2lCzxfFnX7Bioe) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA) | [Manasu](https://open.spotify.com/album/7kCsUSSQNGDr0ArNHD8uHy) | 4:22 |
 | 34 | [Ole Ole](https://open.spotify.com/track/44wZfxFJ6CbTavqxdbbHxz) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Pavani Vasa](https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS) | [Ole Ole](https://open.spotify.com/album/3NeFI900xOcCuuYjxKr5xr) | 5:31 |
-| 35 | [Vellake](https://open.spotify.com/track/2cDyQDAoP0cPQXzaviXu2f) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vellake](https://open.spotify.com/album/5wJ35PHDoH8sL0C74s4fQL) | 3:37 |
+| 35 | [Vellake](https://open.spotify.com/track/2cDyQDAoP0cPQXzaviXu2f) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Suresh Banisetti](https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km) | [Vellake](https://open.spotify.com/album/5wJ35PHDoH8sL0C74s4fQL) | 3:37 |
 | 36 | [Oorelipota Mama](https://open.spotify.com/track/3lQCnKafxZtct8QfsG6jog) | [Chowraasta](https://open.spotify.com/artist/7l8YWhszshSlwN43NtokOO) | [Oorellipota Mama](https://open.spotify.com/album/5WEUFAOSi07U29RKWNsKG9) | 2:46 |
 | 37 | [Unnale Nee Kosam](https://open.spotify.com/track/22qSRZ72otdpb4OZGe3W4k) | [Kanha Mohanty](https://open.spotify.com/artist/3TpKuzt672JdZX9B0NvA0D), [Nikki George](https://open.spotify.com/artist/1cprnGfYrfsnaBT2A6QMr4) | [Unnale Nee Kosam](https://open.spotify.com/album/6zodQWOGxCMYKOiYhMuhYv) | 3:40 |
 | 38 | [Vidipothe](https://open.spotify.com/track/6lxj734hdJUn9bNyH9g3gr) | [Rohith Samuel Ganta](https://open.spotify.com/artist/1FbFPqgM6s7d9kWriJcgHC) | [Vidipothe](https://open.spotify.com/album/2f7j5zS8Nz26KCUAW5iuUt) | 4:04 |

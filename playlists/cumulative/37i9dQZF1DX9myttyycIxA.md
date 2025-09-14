@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Phantastic Ferniture
 
-1,715 songs - 4 day 3 hr 1 min
+1,717 songs - 4 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [Can You See Me](https://open.spotify.com/track/5bcuh5urwoAEJ2FfoGextz) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Can You See Me](https://open.spotify.com/album/6xmguBJKNb4Xxn3ODeICu7) | 3:30 | 2022-01-28 | 2022-04-28 |
 | [Can You See Me Tonight?](https://open.spotify.com/track/0zirRjZmsGJZAuSWLAXrUo) | [Good Looks](https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG) | [Can You See Me Tonight?](https://open.spotify.com/album/77cPckM91tiVaVyusQRd2q) | 3:15 | 2024-05-10 | 2024-10-05 |
 | [Can You Trace It On My Hand](https://open.spotify.com/track/1hmWGeX8SZOTwvdcwJOCtn) | [Evil Adeline](https://open.spotify.com/artist/1ECkxQh8rsOcuOChE5Flzi) | [Can You Trace It On My Hand](https://open.spotify.com/album/3VAzjF7KTCxJ7lG9Jm6L5M) | 1:57 | 2025-08-08 |  |
-| [Can't Thank You Enough](https://open.spotify.com/track/7E48Io3GNay3N7PpFO7cQP) | [Creative Writing](https://open.spotify.com/artist/4Sfo6fx6HtWfbdroFZHiXz) | [Can't Thank You Enough](https://open.spotify.com/album/68H4VJRurcGNKin36Zt4Qg) | 3:02 | 2025-08-04 |  |
+| [Can't Thank You Enough](https://open.spotify.com/track/7E48Io3GNay3N7PpFO7cQP) | [Creative Writing](https://open.spotify.com/artist/4Sfo6fx6HtWfbdroFZHiXz) | [Can't Thank You Enough](https://open.spotify.com/album/68H4VJRurcGNKin36Zt4Qg) | 3:02 | 2025-08-04 | 2025-09-14 |
 | [Candle](https://open.spotify.com/track/2Elr1Zc3CIhfAdxBA8oD58) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q) | [Candle](https://open.spotify.com/album/5Gqr5h8mLjgcs3hUSAY24E) | 3:08 | 2023-08-24 | 2024-02-06 |
 | [Cannibal Capital](https://open.spotify.com/track/2v5v3uK96QddzNNwE8YNMz) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO) | [Cannibal Capital](https://open.spotify.com/album/35eBeNmH2x9WK759IVikYJ) | 4:24 | 2022-03-26 | 2022-05-19 |
 | [Capital C](https://open.spotify.com/track/63uu2Px8EBJ3P4wBidbqZy) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Capital C](https://open.spotify.com/album/7jPTQfu31KK6ENmcixwt3c) | 4:19 | 2024-11-22 | 2025-03-22 |
@@ -269,6 +269,7 @@
 | [Chainsaw the Door](https://open.spotify.com/track/1OPM1BmEoywWzFfQxMRj7L) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Chainsaw the Door](https://open.spotify.com/album/4QSb6tII3D5Y9BIW2sTMi9) | 2:28 | 2022-08-12 | 2022-12-03 |
 | [Chamomile](https://open.spotify.com/track/5xaiU9nNP58J5tmFvsRXf2) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Chamomile](https://open.spotify.com/album/7IaqMaOXdasnfxYEAghgFn) | 3:40 | 2025-04-18 | 2025-07-12 |
 | [Change](https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Change](https://open.spotify.com/album/4fqQu9B3x8EwknltlbXv83) | 3:32 | 2024-06-14 | 2024-10-05 |
+| [Change My Mind](https://open.spotify.com/track/2bQcgUJSzCV48MJwPTnqFN) | [Phantastic Ferniture](https://open.spotify.com/artist/6uHxXCSJUP50EgddL6eWNC) | [Change My Mind / Dare To Fall In Love](https://open.spotify.com/album/7bb6XYtPuE2YE86EwswEOS) | 3:01 | 2025-09-12 |  |
 | [Change Shapes \(feat\. Jesse\)](https://open.spotify.com/track/0pFx0KHtJVFzfjrQQB1FoR) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Jesse](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Change Shapes \(feat\. Jesse\)](https://open.spotify.com/album/5n3pUtUIrPAV5CqujbDGh1) | 3:29 | 2021-07-16 | 2022-04-17 |
 | [changer](https://open.spotify.com/track/2xsZaZI0rAKeF2aPWnMrGn) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Tracey Denim](https://open.spotify.com/album/0Ihb9szHztEdXpHU7C40Qn) | 3:28 | 2023-06-15 | 2024-01-27 |
 | [changes](https://open.spotify.com/track/7J3dgWROCXy7RwM19W7fhU) | [sqip](https://open.spotify.com/artist/6DL4rhjtux4udnPtjnFy1B) | [battery](https://open.spotify.com/album/6qj4cOCtxW37c5uFNrztZS) | 2:27 | 2022-03-04 | 2022-04-29 |
@@ -1192,7 +1193,7 @@
 | [Prudence & Poise](https://open.spotify.com/track/3RMZ0lEGewSR0CPab6Kv1r) | [Soft Glas](https://open.spotify.com/artist/64YO6kjOrspjCGA2GQwsT0) | [Prudence & Poise](https://open.spotify.com/album/0Z2ZkWyy4ZhCb6CzBVDxI0) | 4:20 | 2021-03-05 | 2022-04-20 |
 | [Pulling Quotes](https://open.spotify.com/track/6iH3AXLQHlrbHfG6XGqjau) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Pulling Quotes](https://open.spotify.com/album/31yJkBf5Kp70ecygDPPSsc) | 4:42 | 2024-06-14 | 2024-10-12 |
 | [Pumpkin](https://open.spotify.com/track/1IQx5nJcdso6KsMloQSWza) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Pumpkin](https://open.spotify.com/album/6b5OV9K1FhzSTREVtpy8hs) | 4:17 | 2024-05-24 | 2024-06-22 |
-| [Punching Up](https://open.spotify.com/track/32Xt9yW9HLdMTtUpMooCr0) | [Garage Sale](https://open.spotify.com/artist/5mKieFMfRUdzfTKG1FtOXu) | [Punching Up](https://open.spotify.com/album/46URcwbxXPLxI6ATPCHnBt) | 3:23 | 2025-07-25 |  |
+| [Punching Up](https://open.spotify.com/track/32Xt9yW9HLdMTtUpMooCr0) | [Garage Sale](https://open.spotify.com/artist/5mKieFMfRUdzfTKG1FtOXu) | [Punching Up](https://open.spotify.com/album/46URcwbxXPLxI6ATPCHnBt) | 3:23 | 2025-07-25 | 2025-09-14 |
 | [Quantum Physics](https://open.spotify.com/track/5mI7nxjalLOnhoqeHLOSOX) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Quantum Physics](https://open.spotify.com/album/4rRem8BYu1grDC7PMrlZ62) | 2:38 | 2021-03-05 | 2022-04-21 |
 | [Quarry](https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 4:07 | 2023-12-15 | 2024-05-18 |
 | [Queen of Ears](https://open.spotify.com/track/2y20szyvKlsK3jnL3LwPK9) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Queen of Ears](https://open.spotify.com/album/5pPAwx1AV9H3aWepcY7DhA) | 3:06 | 2022-10-28 | 2022-12-18 |
@@ -1524,6 +1525,7 @@
 | [Time Bomb](https://open.spotify.com/track/0OdzC5KFzqugM9XjQF599R) | [Jacklen Ro](https://open.spotify.com/artist/02V9xHLkyNSvfSbJka7HhX) | [Sunshine, I'm Counting on You!](https://open.spotify.com/album/0Flk6B4XLCxviaNVfsTZwO) | 4:15 | 2023-01-20 | 2023-06-16 |
 | [Time of Your Life](https://open.spotify.com/track/6QvZeQylq5VDMkBx4Uvb0f) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Time of Your Life](https://open.spotify.com/album/1817WuNlDWoq89RhEofTXA) | 2:55 | 2022-11-11 | 2023-01-07 |
 | [Time to Melt](https://open.spotify.com/track/49csj8JI9bpJ0aFBeRGmpN) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Time to Melt](https://open.spotify.com/album/0kPkiCZNV7EY487616MHDt) | 3:51 | 2021-09-17 | 2022-04-29 |
+| [Time to Run](https://open.spotify.com/track/6jHXmArwmV8nbUBXSv4tzI) | [Junaco](https://open.spotify.com/artist/6Q3I3yOdG7MhwX6BCWiu0e) | [In Motion](https://open.spotify.com/album/6MiXLNfzYegqSRLGbnrZXt) | 3:52 | 2025-09-12 |  |
 | [time waits](https://open.spotify.com/track/6KVFcap7bKzswabvTXqzh4) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [time waits](https://open.spotify.com/album/0bQ8W6aJPOW3CI6vlGZGTZ) | 3:19 | 2023-05-12 | 2023-06-16 |
 | [Time Walk](https://open.spotify.com/track/3sU3dsN3etkC0Teh3IZU9S) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Everything](https://open.spotify.com/album/0O5kzFuZOVnamq7gpSVmqU) | 1:33 | 2022-04-29 | 2022-05-20 |
 | [Tin Man](https://open.spotify.com/track/1BYmpDprZGuCfuZolqwuk9) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Tin Man](https://open.spotify.com/album/2zcAU1ZzOSw5c7islwbVZP) | 2:11 | 2023-06-15 | 2024-02-07 |

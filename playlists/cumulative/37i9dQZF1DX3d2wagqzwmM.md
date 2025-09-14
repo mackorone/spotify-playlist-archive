@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-623 songs - 1 day 7 hr 42 min
+624 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Hated On \(Funkatron\)](https://open.spotify.com/track/0BGMkKTFjUrznBsbpnqsQt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [Hated On \(Funkatron\)](https://open.spotify.com/album/65z5rSxOEzyMFdu6FbGCOO) | 3:07 | 2024-01-18 | 2024-03-15 |
 | [He's A Pirate](https://open.spotify.com/track/45kPbDRRY5kWe8p6OO2YvM) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [He's A Pirate](https://open.spotify.com/album/7wWM2IHx54paNs60XQe1zo) | 3:03 | 2022-10-27 | 2024-07-05 |
 | [Heater](https://open.spotify.com/track/3lyVvkO4yOZx36laPSFrLh) | [Tazi](https://open.spotify.com/artist/60Yvub9178MthC7zIgX3rF) | [Heater](https://open.spotify.com/album/0op4ZEAtJjPWSS1yH9S9sg) | 2:59 | 2022-12-27 | 2023-01-03 |
+| [Heaven](https://open.spotify.com/track/4Un1dBih9aFD4pTZwRk9ZM) | [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [AKI\-HIRO](https://open.spotify.com/artist/532rNbzwQMk20W1yTmmj3L) | [Heaven](https://open.spotify.com/album/2fBY8khpyyFfGVe0xfvATz) | 3:23 | 2025-09-11 |  |
 | [Heaven \(feat\. Sofia Quinn\) \- Club Mix](https://open.spotify.com/track/6uTCim4OGFZOauCqHWIpu9) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Heaven \(feat\. Sofia Quinn\) \[Club Mix\]](https://open.spotify.com/album/3Vw0qrLB2KLYTXEPRFVK9b) | 2:55 | 2022-04-14 | 2024-03-15 |
 | [Heaven Is A Place On Earth](https://open.spotify.com/track/6FAmtZoa7jq6bH9GBjCRkM) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Heaven Is A Place On Earth](https://open.spotify.com/album/12aiQyL5DQ1lPNwOqfiiFM) | 2:45 | 2022-12-16 | 2024-07-05 |
 | [Heavy](https://open.spotify.com/track/00kTtwFuoRVfFiH8wJabBu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Heavy](https://open.spotify.com/album/5U6bJLke6HXBUp6Q40caJN) | 2:51 | 2025-08-07 |  |
@@ -316,7 +317,7 @@
 | [Lucky](https://open.spotify.com/track/5ECf8gpBqmIUN7MWMN4WZx) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Lucky](https://open.spotify.com/album/2CqOc7E7a4aQHEAD6ctS8I) | 2:26 | 2025-09-10 |  |
 | [Luvstruck](https://open.spotify.com/track/0ZxYJrCv0Kq2ONqgFWw5SM) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/1TS5PmnWKa6vr5qBV4dq46) | 2:41 | 2025-05-08 |  |
 | [Madness](https://open.spotify.com/track/1N0SMPZllogg6bH4ueBSw4) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A) | [Madness](https://open.spotify.com/album/2RxoQZVEWaNX5VLZIaBU73) | 2:38 | 2025-05-29 | 2025-07-04 |
-| [Magalenha](https://open.spotify.com/track/4IPEchRbWdV3CFCgl3tXRA) | [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Magalenha](https://open.spotify.com/album/3NQrqWMpGH9PqZMEoSPBsZ) | 2:32 | 2025-02-03 |  |
+| [Magalenha](https://open.spotify.com/track/4IPEchRbWdV3CFCgl3tXRA) | [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Magalenha](https://open.spotify.com/album/3NQrqWMpGH9PqZMEoSPBsZ) | 2:32 | 2025-02-03 | 2025-09-14 |
 | [MAIA](https://open.spotify.com/track/1M50UhY5allL6W5QbwFBcZ) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [MAIA](https://open.spotify.com/album/76RWt2AfhIAiEAIqTEzAC1) | 3:08 | 2023-06-01 | 2023-07-13 |
 | [Make It Count](https://open.spotify.com/track/6qroXN9iyKNG6mP0Ddvh1b) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Just\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Make It Count](https://open.spotify.com/album/7yRpzkneNaRzDwq6BGvtsi) | 3:33 | 2024-01-11 | 2024-04-12 |
 | [Make It Louder](https://open.spotify.com/track/4ncKmpQLkgdUWf7HUpWc8K) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Make It Louder](https://open.spotify.com/album/1TyjMtZ1ZtzBc8hoqHHVip) | 2:37 | 2022-04-14 | 2022-06-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 30506,
+  "num_followers": 30562,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFsUKJcHd6MUJSnicqVKLYMEzV4G",
+  "snapshot_id": "AAAAAJBAOuegGX7FGnr4WbnoktT2G6X+",
   "tracks": [
     {
       "added_at": "2025-08-28 07:59:31",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-08-28 07:59:31",
       "album": {
-        "name": "Bemisaal Jagjit Singh",
-        "url": "https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs"
-      },
-      "artists": [
-        {
-          "name": "Jagjit Singh",
-          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Ishq",
-      "url": "https://open.spotify.com/track/74wdoS4XBF6rDcejHiyfBR"
-    },
-    {
-      "added_at": "2025-08-28 07:59:31",
-      "album": {
         "name": "Meriyaan Udaasiyann",
         "url": "https://open.spotify.com/album/1xWbPeWLVJeLZyFYRt4W9k"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 645097,
       "name": "Meriyaan Udaasiyann",
       "url": "https://open.spotify.com/track/7HE54gXIfogSglOKCPrnmD"
+    },
+    {
+      "added_at": "2025-08-28 07:59:31",
+      "album": {
+        "name": "Bemisaal Jagjit Singh",
+        "url": "https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Ishq",
+      "url": "https://open.spotify.com/track/74wdoS4XBF6rDcejHiyfBR"
     },
     {
       "added_at": "2025-08-28 07:59:31",

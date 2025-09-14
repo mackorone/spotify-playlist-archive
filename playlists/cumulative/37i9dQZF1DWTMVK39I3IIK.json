@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "Goodbyehouse",
+        "url": "https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu"
+      },
+      "artists": [
+        {
+          "name": "snuggle",
+          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150416,
+      "name": "Driving me crazy",
+      "url": "https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG"
+    },
+    {
+      "album": {
         "name": "Dr\u00f8mmer / Helt",
         "url": "https://open.spotify.com/album/6hX2wyH7niZIByb0OFKdC5"
       },
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 200325,
       "name": "D\u00e9r (feat. Wads)",
       "url": "https://open.spotify.com/track/1CHopLIbq57daqmMzdZW1k"

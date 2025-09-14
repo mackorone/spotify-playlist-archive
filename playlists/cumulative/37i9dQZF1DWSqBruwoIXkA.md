@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with Alec Benjamin
 
-965 songs - 2 day 5 hr 8 min
+966 songs - 2 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-07-22 | 2023-07-17 |
 | [Fingers Crossed](https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:55 | 2023-06-16 | 2024-04-19 |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-07 | 2025-05-19 |
-| [Finish Line](https://open.spotify.com/track/3O9zNcKGwoNLq4vUSqPekJ) | [HANA](https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj) | [Finish Line](https://open.spotify.com/album/0lHlWcm8GT3PGJWxYIhAJJ) | 2:10 | 2025-08-15 |  |
+| [Finish Line](https://open.spotify.com/track/3O9zNcKGwoNLq4vUSqPekJ) | [HANA](https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj) | [Finish Line](https://open.spotify.com/album/0lHlWcm8GT3PGJWxYIhAJJ) | 2:10 | 2025-08-15 | 2025-09-14 |
 | [First Heartbreak](https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [First Heartbreak](https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n) | 3:00 | 2024-09-13 | 2025-03-26 |
 | [First Love](https://open.spotify.com/track/5MRPUeJGuyCwmwWzYgYI1t) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [First Love](https://open.spotify.com/album/0FjpV9YcHraLYooBKCmu2l) | 3:41 | 2025-08-01 |  |
 | [Fix It to Break It](https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [Fix It to Break It](https://open.spotify.com/album/1Y0hY5nNKjrfP54eztDUV8) | 3:18 | 2021-12-17 | 2022-12-17 |
@@ -497,6 +497,7 @@
 | [June Gloom](https://open.spotify.com/track/5fvPYln4Ke77apnrjbbvOo) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 3:00 | 2024-08-31 | 2025-03-26 |
 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 | 2022-10-28 | 2022-12-17 |
 | [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 | 2023-05-05 | 2025-03-26 |
+| [Just Like Us](https://open.spotify.com/track/7sQtaWzxpZZe4BDAYyGotk) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [Just Like Us](https://open.spotify.com/album/4rm9TMVQIUkgLHLs9TldWD) | 3:15 | 2025-09-12 |  |
 | [Just Married](https://open.spotify.com/track/3jwLmTcTwuE0xLR3sm6SqI) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 3:18 | 2023-02-17 | 2023-08-05 |
 | [Keep Hoping](https://open.spotify.com/track/4RhK5GQfBDhrJfkHImoBS0) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Keep Hoping](https://open.spotify.com/album/61GIbNflbuWH1DWUoHxI8Q) | 3:26 | 2022-03-18 | 2022-04-16 |
 | [Keep Your Head Up Princess](https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Keep Your Head Up Princess](https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK) | 3:18 | 2021-12-17 | 2024-04-27 |

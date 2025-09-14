@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Lo mejor del electropop latino\. Foto: Vera Frod
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,692 likes - 101 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,698 likes - 101 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

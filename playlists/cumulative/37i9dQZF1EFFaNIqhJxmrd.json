@@ -1228,6 +1228,28 @@
     {
       "album": {
         "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/3kdIhR8CnYyNhDpAuj5iJK"
+      },
+      "artists": [
+        {
+          "name": "HUTS",
+          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
+        },
+        {
+          "name": "HOLT",
+          "url": "https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155142,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/5RYyRqmxjNLGhnhFNTeHGe"
+    },
+    {
+      "album": {
+        "name": "I'll Be There",
         "url": "https://open.spotify.com/album/6UiAUq5QdDMgJNezvXTnbc"
       },
       "artists": [
@@ -1264,7 +1286,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 183991,
       "name": "I'll Be There - Cahill Remix",
       "url": "https://open.spotify.com/track/7gEbuXht8gYcA5OdN9zUpy"

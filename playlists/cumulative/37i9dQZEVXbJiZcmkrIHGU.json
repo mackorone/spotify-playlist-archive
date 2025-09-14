@@ -4248,7 +4248,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 239019,
       "name": "Als du gingst - edit",
       "url": "https://open.spotify.com/track/1MDyUzZgyrdeQVmV1FU3WQ"
@@ -4906,7 +4906,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -5252,7 +5252,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -6518,7 +6518,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 162029,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
@@ -6856,6 +6856,32 @@
       "duration_ms": 141430,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/6eeUDtR2OHjdDnAlFaO4cl"
+    },
+    {
+      "album": {
+        "name": "BADMAN",
+        "url": "https://open.spotify.com/album/1TnyqXbKQHLzJnHgI4y67r"
+      },
+      "artists": [
+        {
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU"
+        },
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "BABYLON (feat. RAF Camora)",
+      "url": "https://open.spotify.com/track/7CB3yhNywB2q2mh57w4Oiq"
     },
     {
       "album": {
@@ -12991,6 +13017,24 @@
     },
     {
       "album": {
+        "name": "Play (Extended Edition)",
+        "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215511,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
+    },
+    {
+      "album": {
         "name": "Camilla",
         "url": "https://open.spotify.com/album/4MGZL6LTZHQYWM1tFGPDMS"
       },
@@ -16383,6 +16427,32 @@
     },
     {
       "album": {
+        "name": "Daytona",
+        "url": "https://open.spotify.com/album/5Z4MoX4CpiFQI7M9mH5S5e"
+      },
+      "artists": [
+        {
+          "name": "Aymo",
+          "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211725,
+      "name": "Daytona",
+      "url": "https://open.spotify.com/track/6lmXLltCYZciRhKFNPofCo"
+    },
+    {
+      "album": {
         "name": "Dear Santa",
         "url": "https://open.spotify.com/album/2hhMU1z6iEq0UxYMBdp9xp"
       },
@@ -16434,6 +16504,24 @@
       "duration_ms": 221193,
       "name": "Definition von Gl\u00fcck",
       "url": "https://open.spotify.com/track/6uPLFAfq72cAYjHelYSMT3"
+    },
+    {
+      "album": {
+        "name": "Dein Leben ist gefickt",
+        "url": "https://open.spotify.com/album/6h9BNttAAX01XQKM5sQrLn"
+      },
+      "artists": [
+        {
+          "name": "SSIO",
+          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189451,
+      "name": "Dein Leben ist gefickt",
+      "url": "https://open.spotify.com/track/1E3vT7l26UgidG8mlnXgN1"
     },
     {
       "album": {
@@ -21067,6 +21155,24 @@
     },
     {
       "album": {
+        "name": "erstersommerohnedich",
+        "url": "https://open.spotify.com/album/2KOoc1rqO8WYrDWI1FUFDV"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154741,
+      "name": "erstersommerohnedich",
+      "url": "https://open.spotify.com/track/0Bf7Lc7d6gE3xUDCePUvV7"
+    },
+    {
+      "album": {
         "name": "Erwachsen werden",
         "url": "https://open.spotify.com/album/69oZWg9SY64DpZvxxtIxf6"
       },
@@ -21502,7 +21608,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 189553,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
@@ -24002,7 +24108,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 187963,
       "name": "Free",
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
@@ -26776,7 +26882,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 164520,
       "name": "Gib uns niemals auf",
       "url": "https://open.spotify.com/track/25ZtcdNKE1WBjMrizwlWhO"
@@ -28857,6 +28963,24 @@
     },
     {
       "album": {
+        "name": "Hast du kurz Zeit",
+        "url": "https://open.spotify.com/album/3zzgES6xGTbJag6mGUxbpJ"
+      },
+      "artists": [
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133751,
+      "name": "Hast du kurz Zeit",
+      "url": "https://open.spotify.com/track/46BjFXnWrumhdl0uvk7IwE"
+    },
+    {
+      "album": {
         "name": "hausflur",
         "url": "https://open.spotify.com/album/1edD0IzK7r5KxKtNlWVgPa"
       },
@@ -30706,7 +30830,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
@@ -31980,7 +32104,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 138580,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/4Vwb4A41SoZWdTRL7Jojus"
@@ -32270,6 +32394,28 @@
       "duration_ms": 189988,
       "name": "Imaginando (feat. Morad & MERO)",
       "url": "https://open.spotify.com/track/5XO5xTh36v4kdblErCUk4k"
+    },
+    {
+      "album": {
+        "name": "Immer",
+        "url": "https://open.spotify.com/album/33Yvnfe9qp3GRN7pMdUnk9"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159404,
+      "name": "Immer",
+      "url": "https://open.spotify.com/track/7uIhcRg6ia0S9z1UzCl0Qc"
     },
     {
       "album": {
@@ -32854,7 +33000,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
@@ -34546,6 +34692,28 @@
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
+    },
+    {
+      "album": {
+        "name": "wir haben zwei geile songs gemacht",
+        "url": "https://open.spotify.com/album/6QTu7N6z2cnSXegvlOeXqT"
+      },
+      "artists": [
+        {
+          "name": "Filow",
+          "url": "https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145323,
+      "name": "JWD",
+      "url": "https://open.spotify.com/track/7iLaBBQq0tzQvZUBXwJ2KL"
     },
     {
       "album": {
@@ -47464,7 +47632,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 187404,
       "name": "NIEMALS GEDACHT",
       "url": "https://open.spotify.com/track/4M7uBg4aK1rXUgRT6bbJPM"
@@ -52330,7 +52498,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 152923,
       "name": "Plug",
       "url": "https://open.spotify.com/track/32RAvahOV7rbMILBfuMN6Q"
@@ -52388,6 +52556,24 @@
       "duration_ms": 83200,
       "name": "Poland",
       "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
+    },
+    {
+      "album": {
+        "name": "Pole Position",
+        "url": "https://open.spotify.com/album/363EXqb8TO4SsY1XqR8Kfn"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171089,
+      "name": "Pole Position",
+      "url": "https://open.spotify.com/track/2mW3KRKLCR2jshXKaot4EL"
     },
     {
       "album": {
@@ -56747,6 +56933,24 @@
     },
     {
       "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179082,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/7HXUFIILHAhS6esiRy5Ibz"
+    },
+    {
+      "album": {
         "name": "BORN SPINNER",
         "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8"
       },
@@ -60684,7 +60888,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 137487,
       "name": "SQUADRA",
       "url": "https://open.spotify.com/track/0aYweD6lXNl9Wzt97PdEeY"
@@ -63490,7 +63694,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
@@ -64364,7 +64568,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 208226,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK"
@@ -65854,7 +66058,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 252865,
       "name": "TRAPPER'S LULLABY",
       "url": "https://open.spotify.com/track/17xC4jTj1kzw4PhaQyOhUd"
@@ -69853,6 +70057,28 @@
     },
     {
       "album": {
+        "name": "Was ich mach",
+        "url": "https://open.spotify.com/album/1WVhNwop7LwhqtUItjV5qC"
+      },
+      "artists": [
+        {
+          "name": "Vega",
+          "url": "https://open.spotify.com/artist/6F9QTYrJgiLY80BZGzWIHO"
+        },
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149533,
+      "name": "Was ich mach",
+      "url": "https://open.spotify.com/track/22GHZQfIxCUbwZVcmOLD9E"
+    },
+    {
+      "album": {
         "name": "Rap \u00fcber Hass",
         "url": "https://open.spotify.com/album/12MOBAZ9tzCaJpJbFYhqiy"
       },
@@ -70962,7 +71188,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 164991,
       "name": "Wenn das Liebe ist",
       "url": "https://open.spotify.com/track/1E7xmNFzqkkh1DMwBomBg3"
@@ -73069,6 +73295,28 @@
     },
     {
       "album": {
+        "name": "GLOCKS & ROSES",
+        "url": "https://open.spotify.com/album/3oyUTNf5mPKmOqpHb9QGAd"
+      },
+      "artists": [
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        },
+        {
+          "name": "benno!",
+          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "WOCK",
+      "url": "https://open.spotify.com/track/448Pxb7Tiz2fU8LHlZqGa9"
+    },
+    {
+      "album": {
         "name": "WOHIN",
         "url": "https://open.spotify.com/album/3ijyvvXTkjX4y5P0I6hnYD"
       },
@@ -73604,6 +73852,24 @@
       "duration_ms": 144813,
       "name": "Ya Habibi",
       "url": "https://open.spotify.com/track/315qV7Sx21xfDerY4SC5nF"
+    },
+    {
+      "album": {
+        "name": "Yalli Nassini",
+        "url": "https://open.spotify.com/album/4iNimSnn9ke44xxX2iEMvX"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177040,
+      "name": "Yalli Nassini",
+      "url": "https://open.spotify.com/track/4QMDIWqalKFYSrENWsIHpc"
     },
     {
       "album": {

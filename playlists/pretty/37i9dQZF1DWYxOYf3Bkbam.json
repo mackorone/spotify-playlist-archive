@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 59694,
+  "num_followers": 59728,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Santa Ana",
+          "url": "https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu"
+        }
+      ],
+      "duration_ms": 175613,
+      "name": "La Calandria",
+      "url": "https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Coleccion Aniversario",
         "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 147986,
       "name": "Siete Higueras",
       "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "20 Superexitos Originales",
-        "url": "https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Santa Ana",
-          "url": "https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu"
-        }
-      ],
-      "duration_ms": 175613,
-      "name": "La Calandria",
-      "url": "https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Monchito Merlo",
-          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "Siento haberte perdido",
-      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Con Alma y Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5IoHxn4YI7ahW3xGT38MlZ"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 339000,
       "name": "Enganchados: Al Otro de la Tablada / Crece el R\u00edo / El Tapecito",
       "url": "https://open.spotify.com/track/2BAgZZXOrecQPxRkEInYf6"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Monchito Merlo",
+          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "Siento haberte perdido",
+      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Paquito Aranda",
-          "url": "https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf"
-        }
-      ],
-      "duration_ms": 170893,
-      "name": "A villa Guillermina",
-      "url": "https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "De Raza Campera",
         "url": "https://open.spotify.com/album/0vdvQ4LlkeD0RstpjmDs3D"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 138844,
       "name": "De Raza Campera",
       "url": "https://open.spotify.com/track/2ML3ESPtnijeGoMbEniGhU"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Paquito Aranda",
+          "url": "https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf"
+        }
+      ],
+      "duration_ms": 170893,
+      "name": "A villa Guillermina",
+      "url": "https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Chamam\u00e9 Con Estilo Propio",
-        "url": "https://open.spotify.com/album/4SzyVKQbXI2788CC3Cyahb"
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
       "artists": [
         {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+          "name": "Fito Ledesma",
+          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
         }
       ],
-      "duration_ms": 156025,
-      "name": "El Petizo Maceta",
-      "url": "https://open.spotify.com/track/00Zi29FEljeO6hlBN7Ioyo"
+      "duration_ms": 120720,
+      "name": "Jineteando",
+      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1516,22 +1516,6 @@
       },
       "artists": [
         {
-          "name": "Fito Ledesma",
-          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
-        }
-      ],
-      "duration_ms": 120720,
-      "name": "Jineteando",
-      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
           "name": "Abelardo Dimotta",
           "url": "https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm"
         }
@@ -1539,6 +1523,22 @@
       "duration_ms": 158520,
       "name": "La Ofelia",
       "url": "https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Chamam\u00e9 Con Estilo Propio",
+        "url": "https://open.spotify.com/album/4SzyVKQbXI2788CC3Cyahb"
+      },
+      "artists": [
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        }
+      ],
+      "duration_ms": 156025,
+      "name": "El Petizo Maceta",
+      "url": "https://open.spotify.com/track/00Zi29FEljeO6hlBN7Ioyo"
     },
     {
       "added_at": "2025-03-31 12:53:49",

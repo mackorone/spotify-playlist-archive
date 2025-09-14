@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19154,
+  "num_followers": 19155,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "Man Of The Year",
-        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 180433,
-      "name": "Man Of The Year",
-      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
         "name": "Off The Rails",
         "url": "https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 107266,
       "name": "Off The Rails",
       "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
+        "name": "Man Of The Year",
+        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 180433,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "The Great Escape",
-        "url": "https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Concubine",
-      "url": "https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
         "name": "Broken Glass",
         "url": "https://open.spotify.com/album/5t31M8n1vxdpWaNlCeSeEG"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 196260,
       "name": "Broken Glass",
       "url": "https://open.spotify.com/track/7lYyAj4YWhsP1naYx8DSZc"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
+        "name": "The Great Escape",
+        "url": "https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Concubine",
+      "url": "https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "Hammer",
-        "url": "https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 193443,
-      "name": "Hammer",
-      "url": "https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
         "name": "Sad Boiii",
         "url": "https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 166026,
       "name": "Sad Boiii",
       "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
+        "name": "Hammer",
+        "url": "https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 193443,
+      "name": "Hammer",
+      "url": "https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "No Joy",
-        "url": "https://open.spotify.com/album/1HbbRnWZ0mMVKHj9PsCUk7"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "No Joy",
-      "url": "https://open.spotify.com/track/3p1UaNpImYT3nrIy1reGJ6"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
         "name": "The//Glow",
         "url": "https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 234947,
       "name": "Searching For",
       "url": "https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
+        "name": "No Joy",
+        "url": "https://open.spotify.com/album/1HbbRnWZ0mMVKHj9PsCUk7"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "No Joy",
+      "url": "https://open.spotify.com/track/3p1UaNpImYT3nrIy1reGJ6"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "pretend",
-        "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
-      },
-      "artists": [
-        {
-          "name": "Teo Glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 170676,
-      "name": "pretend",
-      "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "Metal",
-        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
+        "name": "pretend",
+        "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
       },
       "artists": [
         {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+          "name": "Teo Glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
         }
       ],
-      "duration_ms": 283253,
-      "name": "Metal",
-      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
+      "duration_ms": 170676,
+      "name": "pretend",
+      "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -719,6 +703,22 @@
       "duration_ms": 194480,
       "name": "Cross My Heart and Hope to Die",
       "url": "https://open.spotify.com/track/6bBv0aGohueaTw6KaLVWUD"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
+        "name": "Metal",
+        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 283253,
+      "name": "Metal",
+      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 254920,
-      "name": "Give Me That Feeling",
-      "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
         "name": "Blister",
         "url": "https://open.spotify.com/album/1j6EOOgb7OtwaTPu1aA0gi"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 179866,
       "name": "Blister",
       "url": "https://open.spotify.com/track/3InSQjWvh4fKQx1BBiA4Nl"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 254920,
+      "name": "Give Me That Feeling",
+      "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -879,22 +879,6 @@
       "duration_ms": 194933,
       "name": "East Coast",
       "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 260088,
-      "name": "Ocean Demon",
-      "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -979,6 +963,22 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 260088,
+      "name": "Ocean Demon",
+      "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
         "name": "Red Dirt Romeo",
         "url": "https://open.spotify.com/album/4efAnZiWIGbf6sklc5JQ2R"
       },
@@ -1007,30 +1007,6 @@
       "duration_ms": 209000,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
-        "name": "Maumahara Noa Ahau",
-        "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        },
-        {
-          "name": "Corrella",
-          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
-        },
-        {
-          "name": "Brannigan Kaa",
-          "url": "https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy"
-        }
-      ],
-      "duration_ms": 170691,
-      "name": "Maumahara Noa Ahau",
-      "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -1119,22 +1095,6 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "look what you're doing to me",
-        "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 264289,
-      "name": "look what you're doing to me",
-      "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
         "name": "Clean",
         "url": "https://open.spotify.com/album/1XrG4FbpWriXEqBBriZD50"
       },
@@ -1151,18 +1111,62 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
+        "name": "look what you're doing to me",
+        "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 264289,
+      "name": "look what you're doing to me",
+      "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
+        "name": "Maumahara Noa Ahau",
+        "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        },
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        },
+        {
+          "name": "Brannigan Kaa",
+          "url": "https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy"
+        }
+      ],
+      "duration_ms": 170691,
+      "name": "Maumahara Noa Ahau",
+      "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
+        "name": "Holding Your Hand",
+        "url": "https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ"
       },
       "artists": [
         {
           "name": "SACHI",
           "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 156055,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
+      "duration_ms": 152603,
+      "name": "Holding Your Hand",
+      "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -1183,18 +1187,18 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "Crazy Dream (Edit)",
-        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
+        "name": "Hell Of A Night",
+        "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
       },
       "artists": [
         {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+          "name": "LA WOMEN",
+          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
         }
       ],
-      "duration_ms": 178062,
-      "name": "Crazy Dream - Edit",
-      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
+      "duration_ms": 232615,
+      "name": "Hell Of A Night",
+      "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -1223,42 +1227,6 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "Hell Of A Night",
-        "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
-      },
-      "artists": [
-        {
-          "name": "LA WOMEN",
-          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
-        }
-      ],
-      "duration_ms": 232615,
-      "name": "Hell Of A Night",
-      "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
-        "name": "Holding Your Hand",
-        "url": "https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ"
-      },
-      "artists": [
-        {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 152603,
-      "name": "Holding Your Hand",
-      "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
         "name": "Everything Is Going To Be Alright",
         "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
       },
@@ -1271,6 +1239,38 @@
       "duration_ms": 191812,
       "name": "Forever Is A Charm",
       "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "duration_ms": 156055,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
+        "name": "Crazy Dream (Edit)",
+        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 178062,
+      "name": "Crazy Dream - Edit",
+      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
     }
   ],
   "unique_name": "The Local List Aotearoa",

@@ -8402,7 +8402,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 272803,
       "name": "Dancing2",
       "url": "https://open.spotify.com/track/2ttnp69yYFGqppvqNGBBsW"
@@ -8420,7 +8420,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 272803,
       "name": "Dancing2",
       "url": "https://open.spotify.com/track/5681R3tgnW4Oz8A7uy2kR7"
@@ -11600,6 +11600,28 @@
       "duration_ms": 238120,
       "name": "Folded",
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+    },
+    {
+      "album": {
+        "name": "P-POP CULTURE",
+        "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "For A Reason",
+      "url": "https://open.spotify.com/track/0cYohCh24y1aMjJmcS9RBl"
     },
     {
       "album": {
@@ -18772,7 +18794,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 229880,
       "name": "Just Two Girls",
       "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
@@ -30095,6 +30117,24 @@
     },
     {
       "album": {
+        "name": "EVE: ROMANCE",
+        "url": "https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193040,
+      "name": "Scott and Zelda",
+      "url": "https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL"
+    },
+    {
+      "album": {
         "name": "Best Buds",
         "url": "https://open.spotify.com/album/0KzElSxcfAvleUIuOg0TOQ"
       },
@@ -34226,6 +34266,24 @@
     {
       "album": {
         "name": "River Rat",
+        "url": "https://open.spotify.com/album/6AIye9W5mOCZgsbfk6c440"
+      },
+      "artists": [
+        {
+          "name": "The Creekers",
+          "url": "https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231653,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/7qAIHFtOLHXMsVH3RJA0Ug"
+    },
+    {
+      "album": {
+        "name": "River Rat",
         "url": "https://open.spotify.com/album/2D8HqqqloeD9Mh87J6P7pK"
       },
       "artists": [
@@ -34236,7 +34294,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 231675,
       "name": "Tennessee",
       "url": "https://open.spotify.com/track/0p4pUefPWyulxgXr33yAE2"
@@ -37174,7 +37232,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 166393,
       "name": "Useless (Without You)",
       "url": "https://open.spotify.com/track/22AbBg7GdbP7sjxQ0SLQZi"

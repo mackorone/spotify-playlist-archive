@@ -17942,7 +17942,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 237884,
       "name": "Ain't As Pretty A Blue",
       "url": "https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ"
@@ -34488,7 +34488,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 200597,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/60ms6HaoWLPNJPYWp3K84t"
@@ -270077,6 +270077,24 @@
     },
     {
       "album": {
+        "name": "Is Anybody Out There?",
+        "url": "https://open.spotify.com/album/2P2lvrYnmVPRWD15JREeLY"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228582,
+      "name": "Is Anybody Out There?",
+      "url": "https://open.spotify.com/track/6eZHTf3YOMmlaxeOLoMC6R"
+    },
+    {
+      "album": {
         "name": "Is Everybody Going Crazy?",
         "url": "https://open.spotify.com/album/5J2B0xzIbsFSqwLTLrlRe1"
       },
@@ -367090,6 +367108,24 @@
       "duration_ms": 166992,
       "name": "No Lie",
       "url": "https://open.spotify.com/track/0xsZyK1iL6WO8WEzVdjySp"
+    },
+    {
+      "album": {
+        "name": "Create, Destroy, Rebuild, Repeat",
+        "url": "https://open.spotify.com/album/1FD51KOJseTIfFneCe2HIL"
+      },
+      "artists": [
+        {
+          "name": "Oxymorrons",
+          "url": "https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169717,
+      "name": "No Lies Detected [Blind]",
+      "url": "https://open.spotify.com/track/258ZiFVggPg9p9XZ3fAD8Q"
     },
     {
       "album": {
@@ -549285,7 +549321,7 @@
     },
     {
       "album": {
-        "name": "Unconditional",
+        "name": "UNCONDITIONAL",
         "url": "https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R"
       },
       "artists": [
@@ -549302,7 +549338,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181294,
-      "name": "Unconditional",
+      "name": "UNCONDITIONAL",
       "url": "https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl"
     },
     {

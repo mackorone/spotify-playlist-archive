@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Metejoor, Ed Sheeran, Red Sebastian and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,727 likes - 101 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,735 likes - 101 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 20 | [Djandjou](https://open.spotify.com/track/4UZtg71V0nS1WzYhQjC6jC) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Djandjou](https://open.spotify.com/album/47geVrhMGNBweBffJAq5gr) | 2:55 |
 | 21 | [vriller](https://open.spotify.com/track/0fhr4CjEHL2TgEaQ2Ggc1J) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [vriller](https://open.spotify.com/album/3OQ1MvLSUdYTSK7GsBUw0T) | 2:04 |
 | 22 | [Oublier](https://open.spotify.com/track/08ERabruhqMIkZOlIPKIDb) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Oublier](https://open.spotify.com/album/5Ezw4AdjahQsjz7U3iXIec) | 2:48 |
-| 23 | [Take It Off](https://open.spotify.com/track/1eNWXxZY9ZLLG2yrp9PNn0) | [Yung Mavu](https://open.spotify.com/artist/6lVRinYmZqt7NFNPZHx0TP), [BAVR](https://open.spotify.com/artist/2GKky4NWDiyQGNfg0AWV0m) | [Cold Summer](https://open.spotify.com/album/1HxEc9CTpTEAfi6TrBJdDw) | 2:39 |
+| 23 | [Take It Off](https://open.spotify.com/track/1eNWXxZY9ZLLG2yrp9PNn0) | [Yung Mavu](https://open.spotify.com/artist/6lVRinYmZqt7NFNPZHx0TP) | [Cold Summer](https://open.spotify.com/album/1HxEc9CTpTEAfi6TrBJdDw) | 2:39 |
 | 24 | [Waarom ben ik zo destructief?](https://open.spotify.com/track/3nrnuhplQHnXmouoT5NJGU) | [Yong Yello](https://open.spotify.com/artist/5geaPrGcbPsBX3D2p1OZ9G) | [Waarom ben ik zo destructief?](https://open.spotify.com/album/1eZ0fMgpRj117054Ww75tK) | 3:59 |
 | 25 | [Wie ze is](https://open.spotify.com/track/4hDrNEeCd6QiEc4J9uB1Eq) | [Yevgueni](https://open.spotify.com/artist/3GiUQz28eEtMI2Y2AeaY03) | [Wie ze is](https://open.spotify.com/album/6QbooamKMdO8NBgLVTktkh) | 3:05 |
 | 26 | [The Cheapest Seats](https://open.spotify.com/track/0gFwzYpoS3w2cPibHvy5zw) | [The Radar Station](https://open.spotify.com/artist/3Vp5u3UjIcleE3GSU5DSLs) | [Birds Of Choice](https://open.spotify.com/album/3ZrHnvW9hyrb5QvLa2NPvL) | 4:28 |

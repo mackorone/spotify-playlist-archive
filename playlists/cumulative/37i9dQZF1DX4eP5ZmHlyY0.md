@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: CORTIS
 
-708 songs - 1 day 15 hr 2 min
+709 songs - 1 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [CyberHelix](https://open.spotify.com/track/5U4nj0Gt9A9dIMyBQPAH6Q) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [CyberHelix](https://open.spotify.com/album/39LkA12lKbHhlNkv87U9u2) | 3:59 | 2024-04-09 | 2024-05-08 |
 | [D\-DAY](https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Head over Heels, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/1gCYdqywMDYyYLn9xZh6Df) | 3:11 | 2025-06-24 | 2025-07-23 |
 | [DAM](https://open.spotify.com/track/1NNsL6tYk06TqTea3mKB9P) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [DAM](https://open.spotify.com/album/612lgzG3p1PYJCxZFFLztN) | 3:29 | 2025-03-06 | 2025-04-25 |
+| [Dancing By Myself](https://open.spotify.com/track/4xrUExyBK5PrsSnq0fQZVG) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [Timethai](https://open.spotify.com/artist/4OP4jGznSvNjM0aY8IFm3S) | [Dancing By Myself](https://open.spotify.com/album/2NWDOJYhFJ92FaFtZMbgjw) | 2:46 | 2025-09-12 |  |
 | [DANGER](https://open.spotify.com/track/5HBKNY11WYdJUY4iKXHzG1) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [DANGER](https://open.spotify.com/album/3KJBbTH6HJ80waDYtLYvDb) | 2:31 | 2025-08-18 |  |
 | [Dangerous](https://open.spotify.com/track/5unyDrt3v3Yfo7hV20G7DI) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [LIKE INFINITE](https://open.spotify.com/album/4na98IiEj4lAFQS3NKQ5qk) | 3:00 | 2025-03-06 | 2025-04-21 |
 | [DARK MATTER](https://open.spotify.com/track/0JTMpgGCb3AYhFj5CT8C6V) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [FANTASTIC ROCKET](https://open.spotify.com/album/1lgDUdGBXBYYWS6MtyTFT6) | 3:11 | 2023-12-05 | 2024-01-03 |
@@ -475,7 +476,7 @@
 | [Royal](https://open.spotify.com/track/0NR5Ps5s2hpfZ8Ysmp3dTF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Royal](https://open.spotify.com/album/1YKSS88CPp87pKphKTZMTd) | 3:42 | 2024-09-03 | 2025-03-07 |
 | [RU\-PUM PUM \- Japanese ver.](https://open.spotify.com/track/6DHzcm29i8oid8To18mMxx) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [RU\-PUM PUM \(Japanese ver.\)](https://open.spotify.com/album/5OurfkN4UO7DRPnIkfODcA) | 3:22 | 2024-03-05 | 2024-03-27 |
 | [Running Wild](https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:31 | 2025-03-06 | 2025-03-24 |
-| [SADISTIC](https://open.spotify.com/track/11umzbLG97P5FTncGcjUhl) | [JASP.ER](https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER) | [SADISTIC](https://open.spotify.com/album/7BBhwoonSRzWEohQIcHDkY) | 3:04 | 2025-03-06 |  |
+| [SADISTIC](https://open.spotify.com/track/11umzbLG97P5FTncGcjUhl) | [JASP.ER](https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER) | [SADISTIC](https://open.spotify.com/album/7BBhwoonSRzWEohQIcHDkY) | 3:04 | 2025-03-06 | 2025-09-14 |
 | [Sailing](https://open.spotify.com/track/0Tjfd3zPoTpPo7FwR21DC2) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sailing](https://open.spotify.com/album/1hzne4NVJBLxSD78Flnzww) | 3:06 | 2024-11-05 | 2024-12-25 |
 | [Salvia](https://open.spotify.com/track/0bcTxNXi8c0IUY0PhNYItd) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sarracenia / Salvia](https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl) | 3:26 | 2023-11-23 | 2023-12-20 |
 | [Same Key](https://open.spotify.com/track/6bl0lwuf0okN1QKOer1m2n) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Same Key](https://open.spotify.com/album/13QLqadsR7ld5XzrTslUFY) | 4:03 | 2024-10-01 | 2024-10-23 |

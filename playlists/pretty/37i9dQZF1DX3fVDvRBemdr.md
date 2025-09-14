@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en volks\. Cover: Raymon Hermans
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,995 likes - 87 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,991 likes - 87 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

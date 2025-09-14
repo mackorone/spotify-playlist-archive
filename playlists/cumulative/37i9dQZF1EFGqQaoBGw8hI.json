@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 206266,
       "name": "Blue Eyes - Remastered 2003",
       "url": "https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5"
@@ -7210,7 +7210,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 343240,
       "name": "Nikita",
       "url": "https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI"
@@ -10412,6 +10412,36 @@
       "duration_ms": 53866,
       "name": "The Cookie Factory",
       "url": "https://open.spotify.com/track/7a6FoJr9OprikVANiv7zzz"
+    },
+    {
+      "album": {
+        "name": "The Devil Wears Prada",
+        "url": "https://open.spotify.com/album/5j82q5nI1FaU7ZD65rLYJv"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada Original West End Cast",
+          "url": "https://open.spotify.com/artist/3b9mqCrbSkiDrvLZujmVd9"
+        },
+        {
+          "name": "Vanessa Williams",
+          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
+        },
+        {
+          "name": "Matt Henry",
+          "url": "https://open.spotify.com/artist/7FwryX2qpYOkGTew0lJfZz"
+        },
+        {
+          "name": "Olivia Saunders",
+          "url": "https://open.spotify.com/artist/1GbByJkrYduJGezKC4gMkC"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217826,
+      "name": "The Devil Wears Prada",
+      "url": "https://open.spotify.com/track/52cpfquskajLuoVUojXYZq"
     },
     {
       "album": {

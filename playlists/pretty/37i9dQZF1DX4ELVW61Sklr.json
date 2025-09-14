@@ -1,6 +1,6 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 217652,
+  "num_followers": 217641,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
@@ -961,22 +961,6 @@
       "url": "https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc"
     },
     {
-      "added_at": "2024-11-22 08:50:08",
-      "album": {
-        "name": "Red & Green",
-        "url": "https://open.spotify.com/album/2msUdJTMMBdkK30onLIAi2"
-      },
-      "artists": [
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        }
-      ],
-      "duration_ms": 235049,
-      "name": "Forever Mistletoe",
-      "url": "https://open.spotify.com/track/4ITRXrlcGDCfu7JRcajD5k"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Christmas in Baltimore",
@@ -991,6 +975,22 @@
       "duration_ms": 216933,
       "name": "Favorite Time of Year",
       "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
+    },
+    {
+      "added_at": "2024-11-22 08:50:08",
+      "album": {
+        "name": "Red & Green",
+        "url": "https://open.spotify.com/album/2msUdJTMMBdkK30onLIAi2"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "duration_ms": 235049,
+      "name": "Forever Mistletoe",
+      "url": "https://open.spotify.com/track/4ITRXrlcGDCfu7JRcajD5k"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1209,6 +1209,22 @@
       "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
     },
     {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Christmas With Babyface",
+        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 276960,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "A Mary Mary Christmas",
@@ -1239,22 +1255,6 @@
       "duration_ms": 117520,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Christmas With Babyface",
-        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 276960,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
     },
     {
       "added_at": "2023-12-08 05:22:39",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "Def The Halls",
-        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 176461,
-      "name": "Silver Bells",
-      "url": "https://open.spotify.com/track/4llYiT4hqVZAshVmEAmc1W"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
         "name": "Still Home For The Holidays",
         "url": "https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 175347,
       "name": "Alone for Christmas (feat. Kiana Led\u00e9) - from Still Home For The Holidays (An R&B Christmas Album)",
       "url": "https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Def The Halls",
+        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 176461,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/4llYiT4hqVZAshVmEAmc1W"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1401,6 +1401,22 @@
       "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
     },
     {
+      "added_at": "2024-11-22 17:56:01",
+      "album": {
+        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
+        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
+      },
+      "artists": [
+        {
+          "name": "Xscape",
+          "url": "https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Christmas Without You",
+      "url": "https://open.spotify.com/track/1H6AKiklPGPjd7MTxiOJD8"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Spend Christmas With You",
@@ -1424,22 +1440,6 @@
       },
       "artists": [
         {
-          "name": "Xscape",
-          "url": "https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Christmas Without You",
-      "url": "https://open.spotify.com/track/1H6AKiklPGPjd7MTxiOJD8"
-    },
-    {
-      "added_at": "2024-11-22 17:56:01",
-      "album": {
-        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
-        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
-      },
-      "artists": [
-        {
           "name": "Alicia Keys",
           "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
@@ -1447,6 +1447,22 @@
       "duration_ms": 272333,
       "name": "Little Drummer Girl",
       "url": "https://open.spotify.com/track/6UkM1RIxrnkEIIvyjmyD2Q"
+    },
+    {
+      "added_at": "2023-11-18 05:00:00",
+      "album": {
+        "name": "The Greatest Gift",
+        "url": "https://open.spotify.com/album/4bWvqIdV6KOfrWVjr1AwY0"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "duration_ms": 145925,
+      "name": "The Greatest Gift",
+      "url": "https://open.spotify.com/track/6Z5pH8apjl8doBlYvLXv3u"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1503,22 +1519,6 @@
       "duration_ms": 237666,
       "name": "In Love at Christmas",
       "url": "https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ"
-    },
-    {
-      "added_at": "2023-11-18 05:00:00",
-      "album": {
-        "name": "The Greatest Gift",
-        "url": "https://open.spotify.com/album/4bWvqIdV6KOfrWVjr1AwY0"
-      },
-      "artists": [
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 145925,
-      "name": "The Greatest Gift",
-      "url": "https://open.spotify.com/track/6Z5pH8apjl8doBlYvLXv3u"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1689,26 +1689,6 @@
       "url": "https://open.spotify.com/track/1wHzxntsy0HjTLGvTuFi5a"
     },
     {
-      "added_at": "2023-12-08 05:22:39",
-      "album": {
-        "name": "A Legacy Christmas",
-        "url": "https://open.spotify.com/album/1YxEqMNJy5J9kZiMzG5iLA"
-      },
-      "artists": [
-        {
-          "name": "Adam Blackstone",
-          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
-        },
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 265927,
-      "name": "Greatest Gift",
-      "url": "https://open.spotify.com/track/3NbSZ8YBpCpnDEdLMeEOtv"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "The Most Wonderful Time",
@@ -1731,6 +1711,26 @@
       "duration_ms": 247251,
       "name": "Jesus What A Wonderful Child",
       "url": "https://open.spotify.com/track/6wxKZGJPphOUm6p4JpIEIr"
+    },
+    {
+      "added_at": "2023-12-08 05:22:39",
+      "album": {
+        "name": "A Legacy Christmas",
+        "url": "https://open.spotify.com/album/1YxEqMNJy5J9kZiMzG5iLA"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 265927,
+      "name": "Greatest Gift",
+      "url": "https://open.spotify.com/track/3NbSZ8YBpCpnDEdLMeEOtv"
     },
     {
       "added_at": "2024-11-22 17:56:01",

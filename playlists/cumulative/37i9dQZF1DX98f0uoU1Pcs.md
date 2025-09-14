@@ -4,7 +4,7 @@
 
 > a experimental mix of rock, punk, alt & indie\. Cover: bar italia
 
-822 songs - 1 day 22 hr 7 min
+825 songs - 1 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Badlands](https://open.spotify.com/track/35q5Q5szEL8lr1VbKrc6ri) | [Black Foxxes](https://open.spotify.com/artist/0rkzatSSd1Dh41phOf4qFT) | [Badlands](https://open.spotify.com/album/27ckS7pEnLVutpJjJbuoi2) | 8:29 | 2021-10-07 | 2022-08-06 |
 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 | 2023-04-07 | 2023-08-26 |
 | [Barley](https://open.spotify.com/track/27XmeyUl26m0KYMJx1Blsb) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Barley](https://open.spotify.com/album/52iaofjBnrsriZOMnzijkZ) | 3:29 | 2023-03-10 | 2024-04-13 |
+| [Barn Boiler](https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [The Clip](https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i) | 2:45 | 2025-09-12 |  |
 | [Bat House](https://open.spotify.com/track/5sKOVfR2y34oEul2QQSkFc) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc), [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [Bat House](https://open.spotify.com/album/2Srf4Q1lp5VDXZHzsLhdgQ) | 2:42 | 2021-10-07 | 2022-06-18 |
 | [BATTERY NOT INCLUDED](https://open.spotify.com/track/7ypHme2lqJbZQjk3LOAqPD) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [BATTERY NOT INCLUDED](https://open.spotify.com/album/1eDCjMOm70DpKkzw2mxfhx) | 2:53 | 2022-01-25 | 2022-08-17 |
 | [Be A Big Girl](https://open.spotify.com/track/3tdBEe2FBbWJpWzaSyfKto) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Be A Big Girl](https://open.spotify.com/album/3M48990TSLoCplWuNssAAs) | 2:50 | 2025-09-12 |  |
@@ -345,7 +346,7 @@
 | [Hey Kekulé](https://open.spotify.com/track/0bAGgOU0w2gKhEqmdeKWKe) | [Font](https://open.spotify.com/artist/1JvNkFtciI17H6uQrKIGbs) | [Strange Burden](https://open.spotify.com/album/2nFfJYlW08ZKtWN3XiRV9T) | 3:33 | 2024-07-15 |  |
 | [Hide & Seek](https://open.spotify.com/track/7tJwNCxACiqdewg8dODKAL) | [The Jesus Lizard](https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa) | [Hide & Seek](https://open.spotify.com/album/2OUAkno2xG9rjGhHlt0pqM) | 3:04 | 2024-06-10 | 2025-09-13 |
 | [High Value Male](https://open.spotify.com/track/2bAsqCCS2HQj83iw2tB0X6) | [Papa Jupe's T.C.](https://open.spotify.com/artist/4cTTWSl72fBBZZSSosrXkh) | [High Value Male](https://open.spotify.com/album/3XP2320XRPEq8TseiN55yx) | 3:42 | 2025-01-31 | 2025-09-13 |
-| [Highway Man](https://open.spotify.com/track/4eAXBJOQjxZV14Su1G8QhC) | [The New Eves](https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l) | [Highway Man](https://open.spotify.com/album/0XHnz7bYP1A6Bfo49IauRf) | 3:42 | 2025-04-16 |  |
+| [Highway Man](https://open.spotify.com/track/4eAXBJOQjxZV14Su1G8QhC) | [The New Eves](https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l) | [Highway Man](https://open.spotify.com/album/0XHnz7bYP1A6Bfo49IauRf) | 3:42 | 2025-04-16 | 2025-09-14 |
 | [Holy, Holy](https://open.spotify.com/track/4Nk10X45JIH1xrIWOCbA3I) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [Holy, Holy](https://open.spotify.com/album/5vH37rLJhlrXMK9drGQD2V) | 6:03 | 2024-08-23 |  |
 | [Homo Sapien](https://open.spotify.com/track/4mflFeaji6SfBoJUaLuozF) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Sympathy for Life](https://open.spotify.com/album/3pimNTNgv34WFrdooDB0TT) | 2:55 | 2022-01-07 | 2022-03-12 |
 | [Honest Living](https://open.spotify.com/track/3YTusZlExW8QCdrlDR1HTR) | [Meat Wave](https://open.spotify.com/artist/1BFVh82YuUOyM8XKZIRaBL) | [Honest Living](https://open.spotify.com/album/5EkpUpnQL3kgBH904GNHXH) | 2:06 | 2022-03-11 | 2023-04-09 |
@@ -402,7 +403,7 @@
 | [insomniac](https://open.spotify.com/track/7ErCpZ3lV1Hb4VulM0yc6R) | [Pasteldrip](https://open.spotify.com/artist/5CSVtQpFZevcKVOGjRMhed) | [insomniac](https://open.spotify.com/album/46B1KESuQU3KveXeKzMCPE) | 3:04 | 2022-08-05 | 2023-02-17 |
 | [Irreversible Damage](https://open.spotify.com/track/4MGMHnYXV1sWJLXpkw7n4z) | [Algiers](https://open.spotify.com/artist/58WFmcqNmejE2IpVIna43o), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Shook](https://open.spotify.com/album/7KTAkz6cGXjFqpxUZIG8WH) | 4:42 | 2023-02-27 | 2023-05-23 |
 | [It Might Get Dark](https://open.spotify.com/track/7JTcb32OsQAYibVKnOZ2q2) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [It Might Get Dark](https://open.spotify.com/album/3W8PCtSpEBUw4VCpvlAYbh) | 3:36 | 2021-10-07 | 2022-02-22 |
-| [It Will Get Worse](https://open.spotify.com/track/7fk5buzd6JTrRouvR1Qvuq) | [Lifeguard](https://open.spotify.com/artist/17HkDJlzsK1YoBja2XmY5O) | [It Will Get Worse](https://open.spotify.com/album/6ydter6esbJmAV73fIR8sD) | 2:53 | 2025-04-16 |  |
+| [It Will Get Worse](https://open.spotify.com/track/7fk5buzd6JTrRouvR1Qvuq) | [Lifeguard](https://open.spotify.com/artist/17HkDJlzsK1YoBja2XmY5O) | [It Will Get Worse](https://open.spotify.com/album/6ydter6esbJmAV73fIR8sD) | 2:53 | 2025-04-16 | 2025-09-14 |
 | [It's Just A Bit Of Blood](https://open.spotify.com/track/2lToI26o842YtPLOQHPM7r) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [It's Just A Bit Of Blood](https://open.spotify.com/album/12DSMvIltoBDrMGwFgDLgn) | 4:46 | 2023-02-13 | 2023-04-15 |
 | [It's The Magic](https://open.spotify.com/track/4Y66dc6AG2eWQNUOzpKqtK) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [It's The Magic](https://open.spotify.com/album/1SuoXeP6CNGV78FIY2hO4v) | 4:26 | 2024-01-24 | 2024-04-13 |
 | [Itch](https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Itch](https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt) | 2:24 | 2024-06-28 |  |
@@ -627,6 +628,7 @@
 | [Running The Madness](https://open.spotify.com/track/1RYxVFfhqEF7z4ZEwovlTH) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Running The Madness](https://open.spotify.com/album/3IiKibozo2kM67YDcSk2Wy) | 3:17 | 2024-06-28 | 2025-02-01 |
 | [Running Through The Campus](https://open.spotify.com/track/422l4EwnKnhoNDWtB1eeSD) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Running Through The Campus](https://open.spotify.com/album/5CM0ezcLZzjZeQxwVlAeW1) | 2:48 | 2024-03-01 | 2024-07-31 |
 | [Salome](https://open.spotify.com/track/2ZhMiaTlkiqwKNz6iUO1KN) | [The Ophelias](https://open.spotify.com/artist/0Kpf7PvEotzvndPhYwwZzb) | [Spring Grove](https://open.spotify.com/album/5t7CByjhX4jdwiCtN4llLI) | 2:18 | 2025-04-16 |  |
+| [Salsa Verde](https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Salsa Verde](https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ) | 3:24 | 2025-09-12 |  |
 | [Same Difference](https://open.spotify.com/track/0fLB4BtBqarIqFattC2n8A) | [Future Teens](https://open.spotify.com/artist/4psGjIN7MDwMYJTlRjauKr) | [Same Difference](https://open.spotify.com/album/4KkYMIEwXR8QthqLAW0Kdb) | 2:55 | 2022-06-10 | 2022-08-06 |
 | [San Fernando Shadow Blues](https://open.spotify.com/track/2NTZeFqSfijcBrTK5RpOSG) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Endless Afternoon](https://open.spotify.com/album/1kSTHq1yseNNxYpM48o3ry) | 3:14 | 2022-06-17 | 2023-04-09 |
 | [Sand on the Beach](https://open.spotify.com/track/45WduJCqST7pBJPvxZ6ZgU) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Sand on the Beach](https://open.spotify.com/album/3vcKqp5Pque6sqEXiZvMtU) | 2:16 | 2022-10-14 | 2023-02-18 |
@@ -783,6 +785,7 @@
 | [Unbloom](https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Unbloom](https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis) | 3:22 | 2025-09-12 |  |
 | [Unproductive Funk](https://open.spotify.com/track/1s7vOMl4IyJsqKZGNVlnzI) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Unproductive Funk / Who Wants to Go Hunting?](https://open.spotify.com/album/61dzj1qngfSTlt8L9z2tQT) | 3:28 | 2022-06-10 | 2023-02-14 |
 | [Up In The Clouds](https://open.spotify.com/track/7IDoIZhfvwKq3S7Xi0pIEY) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Up In The Clouds](https://open.spotify.com/album/0rSKsrW7yUabBN1vY3vr76) | 2:29 | 2021-10-07 | 2022-01-08 |
+| [Used To Be Your Girlfriend](https://open.spotify.com/track/0GwLnJlGKzhNHF7SzQnvOg) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Used To Be Your Girlfriend](https://open.spotify.com/album/1DmjTFdOH7owc0tnL2Z0Tk) | 3:26 | 2025-09-12 |  |
 | [Used To It](https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Used To It](https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR) | 3:02 | 2023-05-22 | 2023-10-17 |
 | [Van Goes](https://open.spotify.com/track/093h09L86XdJXkAOQcXMrk) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [Van Goes](https://open.spotify.com/album/2w2CfjTUKr4YzODWtOeMSz) | 3:33 | 2024-08-23 | 2024-09-28 |
 | [Van Goes](https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [EELS](https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT) | 3:33 | 2024-09-27 |  |
@@ -798,7 +801,7 @@
 | [Waiting](https://open.spotify.com/track/2TfZoYnsj6V0GAKytmNidf) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Waiting / Kill Something](https://open.spotify.com/album/7k4p5L2vlq7jdIAkB7HK8R) | 3:10 | 2021-11-12 | 2022-07-29 |
 | [Waiting](https://open.spotify.com/track/5G8DaMyIdri7FfETWuDUxz) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6) | 3:10 | 2022-07-08 | 2022-08-17 |
 | [War](https://open.spotify.com/track/5yUrfeb9aXwcCRMSP8fW1g) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Ultra Mono](https://open.spotify.com/album/3gibkQ68214sLiYPR7chrS) | 3:07 | 2021-10-07 | 2022-01-08 |
-| [Warm Storm](https://open.spotify.com/track/0va5q7JGNX9nIR1gvm3wwX) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Warm Storm](https://open.spotify.com/album/4PvvuATtNefKM5qbTTOCPI) | 5:18 | 2024-04-12 |  |
+| [Warm Storm](https://open.spotify.com/track/0va5q7JGNX9nIR1gvm3wwX) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Warm Storm](https://open.spotify.com/album/4PvvuATtNefKM5qbTTOCPI) | 5:18 | 2024-04-12 | 2025-09-14 |
 | [Wash Away](https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Wash Away](https://open.spotify.com/album/6PWkXVHVMGVO7H82rLh1bt) | 3:23 | 2025-01-31 |  |
 | [Watching Strangers Smile](https://open.spotify.com/track/2fZ2u0nLos8nBjS4n3IDKl) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Watching Strangers Smile](https://open.spotify.com/album/2FbdRiyp61bzj01wQmtiDA) | 3:34 | 2022-03-11 | 2023-05-23 |
 | [Wayfinding](https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wayfinding](https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl) | 3:09 | 2022-09-23 | 2023-04-15 |

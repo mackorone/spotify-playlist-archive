@@ -1,6 +1,6 @@
 {
   "description": "indie folk latino de estaci\u00f3n. Foto: Inbal Comedi",
-  "num_followers": 61245,
+  "num_followers": 61246,
   "original_name": "folk & invierno",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-09-05 03:00:37",
       "album": {
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+        }
+      ],
+      "duration_ms": 110762,
+      "name": "Iuju",
+      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
+    },
+    {
+      "added_at": "2025-09-05 03:00:37",
+      "album": {
         "name": "De Ballenas",
         "url": "https://open.spotify.com/album/3ocfV6SaW9x6NPF5sD6DQ0"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 221200,
       "name": "De Ballenas",
       "url": "https://open.spotify.com/track/17GAhyPJ1N3QB0bLf8kdoW"
-    },
-    {
-      "added_at": "2025-09-05 03:00:37",
-      "album": {
-        "name": "Agua Viva",
-        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
-        }
-      ],
-      "duration_ms": 110762,
-      "name": "Iuju",
-      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
     },
     {
       "added_at": "2025-09-05 03:00:37",
@@ -963,26 +963,6 @@
     {
       "added_at": "2025-09-05 03:00:37",
       "album": {
-        "name": "Tampoco Poco",
-        "url": "https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 180534,
-      "name": "Tampoco Poco",
-      "url": "https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47"
-    },
-    {
-      "added_at": "2025-09-05 03:00:37",
-      "album": {
         "name": "Particular",
         "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
       },
@@ -1003,18 +983,22 @@
     {
       "added_at": "2025-09-05 03:00:37",
       "album": {
-        "name": "Locomotora",
-        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
+        "name": "Tampoco Poco",
+        "url": "https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r"
       },
       "artists": [
         {
-          "name": "La Gente del Bien",
-          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
         }
       ],
-      "duration_ms": 185296,
-      "name": "Que Placer",
-      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
+      "duration_ms": 180534,
+      "name": "Tampoco Poco",
+      "url": "https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47"
     },
     {
       "added_at": "2025-09-05 03:00:37",
@@ -1035,6 +1019,22 @@
       "duration_ms": 175810,
       "name": "V13",
       "url": "https://open.spotify.com/track/5oKKNT5mBFvCx068uXCKwn"
+    },
+    {
+      "added_at": "2025-09-05 03:00:37",
+      "album": {
+        "name": "Locomotora",
+        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
+      },
+      "artists": [
+        {
+          "name": "La Gente del Bien",
+          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
+        }
+      ],
+      "duration_ms": 185296,
+      "name": "Que Placer",
+      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
     },
     {
       "added_at": "2025-09-05 03:00:37",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-09-05 03:00:37",
       "album": {
-        "name": "Ser\u00e9 m\u00eda",
-        "url": "https://open.spotify.com/album/1QGEjpTaJ64tSx3CsQqbkU"
-      },
-      "artists": [
-        {
-          "name": "Kurmi",
-          "url": "https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W"
-        }
-      ],
-      "duration_ms": 194611,
-      "name": "Ser\u00e9 m\u00eda",
-      "url": "https://open.spotify.com/track/6ztXazDxjvxifJMWRAGkKn"
-    },
-    {
-      "added_at": "2025-09-05 03:00:37",
-      "album": {
         "name": "Comerte la boca (Nos Vamos a Comer)",
         "url": "https://open.spotify.com/album/7F2KSKTlQTkbKRS1DSeSo1"
       },
@@ -1163,22 +1147,18 @@
     {
       "added_at": "2025-09-05 03:00:37",
       "album": {
-        "name": "Camino libre medio",
-        "url": "https://open.spotify.com/album/71qLgCiOOv7SRPkOBcHCSd"
+        "name": "Ser\u00e9 m\u00eda",
+        "url": "https://open.spotify.com/album/1QGEjpTaJ64tSx3CsQqbkU"
       },
       "artists": [
         {
-          "name": "Delair\u00eb",
-          "url": "https://open.spotify.com/artist/1tkmkMPY8p0LWx3c4Y4Ltj"
-        },
-        {
-          "name": "Astronautiko",
-          "url": "https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw"
+          "name": "Kurmi",
+          "url": "https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W"
         }
       ],
-      "duration_ms": 189109,
-      "name": "Camino libre medio",
-      "url": "https://open.spotify.com/track/6RQrXgG9tb70dQx2rZVExp"
+      "duration_ms": 194611,
+      "name": "Ser\u00e9 m\u00eda",
+      "url": "https://open.spotify.com/track/6ztXazDxjvxifJMWRAGkKn"
     },
     {
       "added_at": "2025-09-05 03:00:37",
@@ -1195,6 +1175,26 @@
       "duration_ms": 230500,
       "name": "Ay, Mi Gorri\u00f3n!",
       "url": "https://open.spotify.com/track/0txPwD3oxvQ7dlLnYlmkLh"
+    },
+    {
+      "added_at": "2025-09-05 03:00:37",
+      "album": {
+        "name": "Camino libre medio",
+        "url": "https://open.spotify.com/album/71qLgCiOOv7SRPkOBcHCSd"
+      },
+      "artists": [
+        {
+          "name": "Delair\u00eb",
+          "url": "https://open.spotify.com/artist/1tkmkMPY8p0LWx3c4Y4Ltj"
+        },
+        {
+          "name": "Astronautiko",
+          "url": "https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw"
+        }
+      ],
+      "duration_ms": 189109,
+      "name": "Camino libre medio",
+      "url": "https://open.spotify.com/track/6RQrXgG9tb70dQx2rZVExp"
     },
     {
       "added_at": "2025-09-05 03:00:37",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2025-09-05 03:00:37",
       "album": {
-        "name": "Tur Blues",
-        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
-      },
-      "artists": [
-        {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 213112,
-      "name": "Tur Blues",
-      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
-    },
-    {
-      "added_at": "2025-09-05 03:00:37",
-      "album": {
         "name": "A la deriva",
         "url": "https://open.spotify.com/album/63EtKfnVExFTiSWXiXgC5e"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 186597,
       "name": "A la deriva",
       "url": "https://open.spotify.com/track/51Ja3NyA8qg70aMCFjZU2B"
+    },
+    {
+      "added_at": "2025-09-05 03:00:37",
+      "album": {
+        "name": "Tur Blues",
+        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
+      },
+      "artists": [
+        {
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 213112,
+      "name": "Tur Blues",
+      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
     },
     {
       "added_at": "2025-09-05 03:00:37",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2025-09-05 03:00:37",
       "album": {
+        "name": "Cuando Estemos Solos",
+        "url": "https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        }
+      ],
+      "duration_ms": 193025,
+      "name": "Cuando Estemos Solos",
+      "url": "https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d"
+    },
+    {
+      "added_at": "2025-09-05 03:00:37",
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 170353,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7jUG0DPV7K1r0gHBvF6BFz"
-    },
-    {
-      "added_at": "2025-09-05 03:00:37",
-      "album": {
-        "name": "Cuando Estemos Solos",
-        "url": "https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        }
-      ],
-      "duration_ms": 193025,
-      "name": "Cuando Estemos Solos",
-      "url": "https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d"
     },
     {
       "added_at": "2025-09-05 03:00:37",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-09-05 03:00:37",
       "album": {
-        "name": "Cumbia Nena Magic",
-        "url": "https://open.spotify.com/album/2caja4MilrThiyXshp5nTa"
-      },
-      "artists": [
-        {
-          "name": "Manu Hattom",
-          "url": "https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY"
-        }
-      ],
-      "duration_ms": 191418,
-      "name": "Cumbia Nena Magic",
-      "url": "https://open.spotify.com/track/7iU8rcZIZBsVs8UX3t5xCW"
-    },
-    {
-      "added_at": "2025-09-05 03:00:37",
-      "album": {
         "name": "ODIO el ODIO (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4yui6NMZ1sFX7s0uSHWyvX"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 178983,
       "name": "El Campo - ac\u00fastico",
       "url": "https://open.spotify.com/track/1KzpT0TFVNiZFx2NlzOcdP"
+    },
+    {
+      "added_at": "2025-09-05 03:00:37",
+      "album": {
+        "name": "Cumbia Nena Magic",
+        "url": "https://open.spotify.com/album/2caja4MilrThiyXshp5nTa"
+      },
+      "artists": [
+        {
+          "name": "Manu Hattom",
+          "url": "https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY"
+        }
+      ],
+      "duration_ms": 191418,
+      "name": "Cumbia Nena Magic",
+      "url": "https://open.spotify.com/track/7iU8rcZIZBsVs8UX3t5xCW"
     },
     {
       "added_at": "2025-09-05 03:00:37",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2025-09-05 03:00:37",
       "album": {
+        "name": "Sigo Llorando",
+        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 223349,
+      "name": "Sigo Llorando",
+      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
+    },
+    {
+      "added_at": "2025-09-05 03:00:37",
+      "album": {
         "name": "Trance",
         "url": "https://open.spotify.com/album/52vCupeM1LskVDxdpwuiXQ"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 241810,
       "name": "Trance",
       "url": "https://open.spotify.com/track/6DLb7WbfYJmIu2f40B9G4T"
-    },
-    {
-      "added_at": "2025-09-05 03:00:37",
-      "album": {
-        "name": "Sigo Llorando",
-        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 223349,
-      "name": "Sigo Llorando",
-      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
     },
     {
       "added_at": "2025-09-05 03:00:37",

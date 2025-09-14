@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Drake, Ed Sheeran, Rezz, Twenty One Pilots, Silverstein and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,168 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,260 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 42 | [Light Me Up](https://open.spotify.com/track/1VbLQ4OGIkoxPqmaxgOIIv) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Light Me Up](https://open.spotify.com/album/6z5uf0oR3EiKMj7PAnbNva) | 2:41 |
 | 43 | [crystallized \(feat\. Inéz\)](https://open.spotify.com/track/6YiIWuVXS4AqF1KvUGMwyx) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [crystallized \(feat\. Inéz\)](https://open.spotify.com/album/5PnlLTo9MLkbd4noHgisk9) | 3:37 |
 | 44 | [Mauat tsham \(avec Matiu\) \- Live au Café\-Théâtre Graffiti de Port\-Cartier](https://open.spotify.com/track/2kN1TVLKmonEjWklaMuId6) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu), [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE) | [Bill aux îles \(Live\)](https://open.spotify.com/album/0QL3yfcfLcrQRl4mI4T9Fu) | 3:35 |
-| 45 | [Unconditional](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Unconditional](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
+| 45 | [UNCONDITIONAL](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [UNCONDITIONAL](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
 | 46 | [Runnin](https://open.spotify.com/track/7ogFpOxcsqo60XeNQNfapN) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Runnin](https://open.spotify.com/album/2JWUE5oWp1jnTqK4hr9WGC) | 2:56 |
 | 47 | [Nobody But Us](https://open.spotify.com/track/0FHb0FsvH71rigM3vuaOLs) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Nobody But Us](https://open.spotify.com/album/0o9R9YUhYDJgnGOHaWfwO9) | 3:14 |
 | 48 | [L'usine](https://open.spotify.com/track/35kpLsbkfjiza5VLsPwYfM) | [Kaïn](https://open.spotify.com/artist/1KMHmX2PgvEl1nFzFmEdcZ) | [La cour des grands](https://open.spotify.com/album/1uKOZ7jO4iq5dwPL3iuBbH) | 3:36 |

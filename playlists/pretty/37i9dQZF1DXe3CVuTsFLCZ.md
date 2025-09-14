@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3CVuTsFLCZ.md) - [plain]
 
 > Enjoy the sound track of Nine Puzzles with memorable lines from the show \(나인 퍼즐의 사운드 트랙을 대사와 함께 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,170 likes - 52 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,179 likes - 52 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

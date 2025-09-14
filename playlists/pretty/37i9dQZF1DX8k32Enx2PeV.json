@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 14307,
+  "num_followers": 14315,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 221346,
+      "name": "Se Acab\u00f3",
+      "url": "https://open.spotify.com/track/5VCpCHyZO5LzLGgN4399D4"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
         "name": "S\u00ed",
         "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 158428,
       "name": "S\u00ed",
       "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 221346,
-      "name": "Se Acab\u00f3",
-      "url": "https://open.spotify.com/track/5VCpCHyZO5LzLGgN4399D4"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
-        "name": "Ma Vie",
-        "url": "https://open.spotify.com/album/70bUXOYC5M8yRPTybauNt8"
-      },
-      "artists": [
-        {
-          "name": "Valerian\u00e4",
-          "url": "https://open.spotify.com/artist/31eD4Jy2jTXFosFfrnaVgs"
-        }
-      ],
-      "duration_ms": 152826,
-      "name": "Ma Vie",
-      "url": "https://open.spotify.com/track/5DMWjLDck4h90C61FPwKWt"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
         "name": "Calavera",
         "url": "https://open.spotify.com/album/4ow3K1rnLp878Zzi7wGlFL"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 193333,
       "name": "Calavera",
       "url": "https://open.spotify.com/track/34AtIFSuygzhGe5Xm6QvCD"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
+        "name": "Ma Vie",
+        "url": "https://open.spotify.com/album/70bUXOYC5M8yRPTybauNt8"
+      },
+      "artists": [
+        {
+          "name": "Valerian\u00e4",
+          "url": "https://open.spotify.com/artist/31eD4Jy2jTXFosFfrnaVgs"
+        }
+      ],
+      "duration_ms": 152826,
+      "name": "Ma Vie",
+      "url": "https://open.spotify.com/track/5DMWjLDck4h90C61FPwKWt"
     },
     {
       "added_at": "2025-05-30 15:44:41",

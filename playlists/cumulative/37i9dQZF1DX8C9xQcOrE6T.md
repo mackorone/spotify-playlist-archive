@@ -4,7 +4,7 @@
 
 > All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Lilo & Stitch.
 
-248 songs - 12 hr 43 min
+249 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [We're Back](https://open.spotify.com/track/1t0BoWU7oLtfrOX5XsBXAG) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Villagers of Motunui](https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3K7KtvJLEzijZoLJfKsOma) | 3:11 | 2024-12-05 |  |
 | [Welcome To Rosas](https://open.spotify.com/track/0Rl0MTCd5rMNxUbxCayrbn) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Wish \- Cast](https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Wish \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/0E1E9rycn3meGC321pYwmZ) | 2:27 | 2024-04-30 | 2024-07-11 |
 | [Welcome To Rosas \- From "Wish"](https://open.spotify.com/track/2WjNeDXYk0EdyCSpK9hi5x) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Wish \- Cast](https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Welcome To Rosas \(From "Wish"\)](https://open.spotify.com/album/4q3CESoBemRptRaga5teAx) | 2:27 | 2023-11-06 | 2024-05-01 |
+| [What Dreams Are Made Of](https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [The Lizzie McGuire Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh) | 4:02 | 2025-09-12 |  |
 | [What Else Can I Do?](https://open.spotify.com/track/3XoYqtiWHhsk59frZupImG) | [Diane Guerrero](https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 2:59 | 2022-04-01 |  |
 | [What's My Name](https://open.spotify.com/track/53xAT6jud1w0NqlBjSW4VB) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV), [Thomas Doherty](https://open.spotify.com/artist/4QS6MMKct3F3LkN7cr6vHg), [Dylan Playfair](https://open.spotify.com/artist/3kJ7YsRgaO8ggKD1lw4C2T), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI) | 3:10 | 2024-02-06 | 2024-05-01 |
 | [What's My Name \(Red Version\)](https://open.spotify.com/track/5EkVTZFndWZcS49W1eFi7B) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV), [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants: The Rise of Red \(Original Soundtrack\)](https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK) | 2:26 | 2025-07-25 |  |

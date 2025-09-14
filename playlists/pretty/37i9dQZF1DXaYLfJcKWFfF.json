@@ -1,6 +1,6 @@
 {
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Tommy W\u00c1",
-  "num_followers": 592,
+  "num_followers": 620,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2025-08-15 00:01:34",
       "album": {
-        "name": "Somewhere Only We Go",
-        "url": "https://open.spotify.com/album/7CkVmuSarxEAaF40gwVNWm"
-      },
-      "artists": [
-        {
-          "name": "Tommy W\u00c1",
-          "url": "https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd"
-        }
-      ],
-      "duration_ms": 219841,
-      "name": "Somewhere Only We Go",
-      "url": "https://open.spotify.com/track/0e5r1a7ZVAbSRvsrdOdvFv"
-    },
-    {
-      "added_at": "2025-08-15 00:01:34",
-      "album": {
         "name": "Ngibongiseni",
         "url": "https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 156000,
       "name": "Ngibongiseni",
       "url": "https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU"
+    },
+    {
+      "added_at": "2025-08-15 00:01:34",
+      "album": {
+        "name": "Somewhere Only We Go",
+        "url": "https://open.spotify.com/album/7CkVmuSarxEAaF40gwVNWm"
+      },
+      "artists": [
+        {
+          "name": "Tommy W\u00c1",
+          "url": "https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd"
+        }
+      ],
+      "duration_ms": 219841,
+      "name": "Somewhere Only We Go",
+      "url": "https://open.spotify.com/track/0e5r1a7ZVAbSRvsrdOdvFv"
     },
     {
       "added_at": "2025-08-28 22:00:23",
@@ -309,20 +309,24 @@
       "url": "https://open.spotify.com/track/6f9QDh2uAINwIXTfmoCO1v"
     },
     {
-      "added_at": "2025-08-28 22:00:23",
+      "added_at": "2025-08-15 00:01:34",
       "album": {
-        "name": "Mellow Dramatic",
-        "url": "https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4"
+        "name": "Nyoni Yami",
+        "url": "https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy"
       },
       "artists": [
         {
-          "name": "Maali",
-          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        },
+        {
+          "name": "Yoav",
+          "url": "https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH"
         }
       ],
-      "duration_ms": 234582,
-      "name": "New Lamp",
-      "url": "https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP"
+      "duration_ms": 212500,
+      "name": "Nyoni Yami",
+      "url": "https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg"
     },
     {
       "added_at": "2025-08-28 22:00:23",
@@ -361,24 +365,20 @@
       "url": "https://open.spotify.com/track/3PINiNx7YoLY1M2LKGEpzo"
     },
     {
-      "added_at": "2025-08-15 00:01:34",
+      "added_at": "2025-08-28 22:00:23",
       "album": {
-        "name": "Nyoni Yami",
-        "url": "https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy"
+        "name": "Mellow Dramatic",
+        "url": "https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4"
       },
       "artists": [
         {
-          "name": "Jabulile Majola",
-          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
-        },
-        {
-          "name": "Yoav",
-          "url": "https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH"
+          "name": "Maali",
+          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
         }
       ],
-      "duration_ms": 212500,
-      "name": "Nyoni Yami",
-      "url": "https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg"
+      "duration_ms": 234582,
+      "name": "New Lamp",
+      "url": "https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP"
     },
     {
       "added_at": "2025-08-28 22:00:23",
@@ -503,38 +503,6 @@
     {
       "added_at": "2025-08-28 22:00:23",
       "album": {
-        "name": "Sugar Rush",
-        "url": "https://open.spotify.com/album/5W4zIRDdgp5y3N0AzxGSmL"
-      },
-      "artists": [
-        {
-          "name": "Porcelain Moon",
-          "url": "https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Sugar Rush",
-      "url": "https://open.spotify.com/track/2biDEbOgHPFrFBFDSU6VZl"
-    },
-    {
-      "added_at": "2025-08-28 22:00:23",
-      "album": {
-        "name": "PETER AND JESUS",
-        "url": "https://open.spotify.com/album/0KSx0TO3RHggizzeLtDagf"
-      },
-      "artists": [
-        {
-          "name": "burningforestboy",
-          "url": "https://open.spotify.com/artist/44JiNZ7Zxi7IDh6njqD55M"
-        }
-      ],
-      "duration_ms": 127692,
-      "name": "PETER AND JESUS",
-      "url": "https://open.spotify.com/track/0fyEtqKrSAAoSO0isqyFc4"
-    },
-    {
-      "added_at": "2025-08-28 22:00:23",
-      "album": {
         "name": "Holu Lufuno",
         "url": "https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu"
       },
@@ -555,6 +523,38 @@
     {
       "added_at": "2025-08-28 22:00:23",
       "album": {
+        "name": "PETER AND JESUS",
+        "url": "https://open.spotify.com/album/0KSx0TO3RHggizzeLtDagf"
+      },
+      "artists": [
+        {
+          "name": "burningforestboy",
+          "url": "https://open.spotify.com/artist/44JiNZ7Zxi7IDh6njqD55M"
+        }
+      ],
+      "duration_ms": 127692,
+      "name": "PETER AND JESUS",
+      "url": "https://open.spotify.com/track/0fyEtqKrSAAoSO0isqyFc4"
+    },
+    {
+      "added_at": "2025-08-28 22:00:23",
+      "album": {
+        "name": "Sugar Rush",
+        "url": "https://open.spotify.com/album/5W4zIRDdgp5y3N0AzxGSmL"
+      },
+      "artists": [
+        {
+          "name": "Porcelain Moon",
+          "url": "https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Sugar Rush",
+      "url": "https://open.spotify.com/track/2biDEbOgHPFrFBFDSU6VZl"
+    },
+    {
+      "added_at": "2025-08-28 22:00:23",
+      "album": {
         "name": "With You in Mind",
         "url": "https://open.spotify.com/album/5dDVYZyFfxvCZR9lUrQPsC"
       },
@@ -571,58 +571,6 @@
       "duration_ms": 177272,
       "name": "With You in Mind",
       "url": "https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv"
-    },
-    {
-      "added_at": "2025-08-15 00:01:34",
-      "album": {
-        "name": "Isineke",
-        "url": "https://open.spotify.com/album/4snBnZfS3Aogw2OzWwbmr3"
-      },
-      "artists": [
-        {
-          "name": "Jabulile Majola",
-          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
-        },
-        {
-          "name": "Thando Zide",
-          "url": "https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2"
-        }
-      ],
-      "duration_ms": 206086,
-      "name": "Isineke",
-      "url": "https://open.spotify.com/track/0voNRJ0ndsSafNOZlkAGCB"
-    },
-    {
-      "added_at": "2025-08-28 22:00:23",
-      "album": {
-        "name": "Citrus",
-        "url": "https://open.spotify.com/album/35wtAN1hExKJFtW18MUpIX"
-      },
-      "artists": [
-        {
-          "name": "Mia Lord",
-          "url": "https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI"
-        }
-      ],
-      "duration_ms": 187013,
-      "name": "Citrus",
-      "url": "https://open.spotify.com/track/45bXXyFCZPrRDIdhjaQUHU"
-    },
-    {
-      "added_at": "2025-08-28 22:00:23",
-      "album": {
-        "name": "The Coffee Song",
-        "url": "https://open.spotify.com/album/1apdfQVzlefD9wbTQrMCkN"
-      },
-      "artists": [
-        {
-          "name": "Louis Island",
-          "url": "https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft"
-        }
-      ],
-      "duration_ms": 141981,
-      "name": "The Coffee Song",
-      "url": "https://open.spotify.com/track/1Ah4lhKd037z5lbG7BO7of"
     },
     {
       "added_at": "2025-08-28 22:00:23",
@@ -647,6 +595,58 @@
       "duration_ms": 116400,
       "name": "CRAZY SEXY PERFECT GIRLS",
       "url": "https://open.spotify.com/track/2yK4TLFFCgLUmTWyQoY8qj"
+    },
+    {
+      "added_at": "2025-08-15 00:01:34",
+      "album": {
+        "name": "Isineke",
+        "url": "https://open.spotify.com/album/4snBnZfS3Aogw2OzWwbmr3"
+      },
+      "artists": [
+        {
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        },
+        {
+          "name": "Thando Zide",
+          "url": "https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2"
+        }
+      ],
+      "duration_ms": 206086,
+      "name": "Isineke",
+      "url": "https://open.spotify.com/track/0voNRJ0ndsSafNOZlkAGCB"
+    },
+    {
+      "added_at": "2025-08-28 22:00:23",
+      "album": {
+        "name": "The Coffee Song",
+        "url": "https://open.spotify.com/album/1apdfQVzlefD9wbTQrMCkN"
+      },
+      "artists": [
+        {
+          "name": "Louis Island",
+          "url": "https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft"
+        }
+      ],
+      "duration_ms": 141981,
+      "name": "The Coffee Song",
+      "url": "https://open.spotify.com/track/1Ah4lhKd037z5lbG7BO7of"
+    },
+    {
+      "added_at": "2025-08-28 22:00:23",
+      "album": {
+        "name": "Citrus",
+        "url": "https://open.spotify.com/album/35wtAN1hExKJFtW18MUpIX"
+      },
+      "artists": [
+        {
+          "name": "Mia Lord",
+          "url": "https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "Citrus",
+      "url": "https://open.spotify.com/track/45bXXyFCZPrRDIdhjaQUHU"
     },
     {
       "added_at": "2025-08-28 22:00:23",
@@ -681,38 +681,6 @@
       "url": "https://open.spotify.com/track/6P6NBxeNQTQIu1ZGpoTwks"
     },
     {
-      "added_at": "2025-08-28 22:00:23",
-      "album": {
-        "name": "when the night ends",
-        "url": "https://open.spotify.com/album/0OMAhbCagKggdTIRe1ZwK3"
-      },
-      "artists": [
-        {
-          "name": "Corbon Amodio",
-          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "eyes~",
-      "url": "https://open.spotify.com/track/4jTlIwyg9WkHxnGYAV5oBZ"
-    },
-    {
-      "added_at": "2025-08-29 09:59:56",
-      "album": {
-        "name": "WE HAPPEN TO THE WORLD",
-        "url": "https://open.spotify.com/album/7HWnS5yPd76Z4k33OjaE30"
-      },
-      "artists": [
-        {
-          "name": "Tatum",
-          "url": "https://open.spotify.com/artist/3177FcyIUM43NTARj2BABz"
-        }
-      ],
-      "duration_ms": 459945,
-      "name": "WE HAPPEN TO THE WORLD",
-      "url": "https://open.spotify.com/track/0Ad75CVKGaj6ic2yOqjvhJ"
-    },
-    {
       "added_at": "2025-08-15 00:01:34",
       "album": {
         "name": "PUFF PUFF",
@@ -737,10 +705,42 @@
       "url": "https://open.spotify.com/track/6NMuQPXrTjnolGuttpu5Xy"
     },
     {
-      "added_at": "2025-08-15 00:01:34",
+      "added_at": "2025-08-29 09:59:56",
       "album": {
-        "name": "Paradise Now",
-        "url": "https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81"
+        "name": "WE HAPPEN TO THE WORLD",
+        "url": "https://open.spotify.com/album/7HWnS5yPd76Z4k33OjaE30"
+      },
+      "artists": [
+        {
+          "name": "Tatum",
+          "url": "https://open.spotify.com/artist/3177FcyIUM43NTARj2BABz"
+        }
+      ],
+      "duration_ms": 459945,
+      "name": "WE HAPPEN TO THE WORLD",
+      "url": "https://open.spotify.com/track/0Ad75CVKGaj6ic2yOqjvhJ"
+    },
+    {
+      "added_at": "2025-08-28 22:00:23",
+      "album": {
+        "name": "when the night ends",
+        "url": "https://open.spotify.com/album/0OMAhbCagKggdTIRe1ZwK3"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "eyes~",
+      "url": "https://open.spotify.com/track/4jTlIwyg9WkHxnGYAV5oBZ"
+    },
+    {
+      "added_at": "2025-08-28 22:00:23",
+      "album": {
+        "name": "Jellyfish",
+        "url": "https://open.spotify.com/album/66jybmyf9i4NelFuzOkJYz"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 149624,
-      "name": "Holy Mountain",
-      "url": "https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG"
+      "duration_ms": 124422,
+      "name": "Jellyfish",
+      "url": "https://open.spotify.com/track/5ocBo0wYEEkonAuvhBU2j8"
     },
     {
       "added_at": "2025-08-15 00:01:34",
@@ -767,22 +767,6 @@
       "duration_ms": 186352,
       "name": "Let Me Go (Acoustic)",
       "url": "https://open.spotify.com/track/64EdpHc7nTMEYbA3Woarpq"
-    },
-    {
-      "added_at": "2025-08-15 00:01:34",
-      "album": {
-        "name": "TV DREAMS",
-        "url": "https://open.spotify.com/album/2cdXDRhZF4KQdzBiCukdzD"
-      },
-      "artists": [
-        {
-          "name": "Negro Impacto",
-          "url": "https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw"
-        }
-      ],
-      "duration_ms": 249851,
-      "name": "NWANNE",
-      "url": "https://open.spotify.com/track/5WmlObC2frm0zlHuKiTyIV"
     },
     {
       "added_at": "2025-08-28 22:00:23",
@@ -817,10 +801,26 @@
       "url": "https://open.spotify.com/track/2nTNClRzELryaGpbFBSJHK"
     },
     {
-      "added_at": "2025-08-28 22:00:23",
+      "added_at": "2025-08-15 00:01:34",
       "album": {
-        "name": "Jellyfish",
-        "url": "https://open.spotify.com/album/66jybmyf9i4NelFuzOkJYz"
+        "name": "TV DREAMS",
+        "url": "https://open.spotify.com/album/2cdXDRhZF4KQdzBiCukdzD"
+      },
+      "artists": [
+        {
+          "name": "Negro Impacto",
+          "url": "https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw"
+        }
+      ],
+      "duration_ms": 249851,
+      "name": "NWANNE",
+      "url": "https://open.spotify.com/track/5WmlObC2frm0zlHuKiTyIV"
+    },
+    {
+      "added_at": "2025-08-15 00:01:34",
+      "album": {
+        "name": "Paradise Now",
+        "url": "https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 124422,
-      "name": "Jellyfish",
-      "url": "https://open.spotify.com/track/5ocBo0wYEEkonAuvhBU2j8"
+      "duration_ms": 149624,
+      "name": "Holy Mountain",
+      "url": "https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG"
     },
     {
       "added_at": "2025-08-28 22:00:23",
@@ -951,22 +951,22 @@
     {
       "added_at": "2025-08-15 00:01:34",
       "album": {
-        "name": "brighter days",
-        "url": "https://open.spotify.com/album/32vv2uGF81uF0fBKmEQPzc"
+        "name": "In Pursuit Of Happiness",
+        "url": "https://open.spotify.com/album/7cR90I8NPn64HTVjcDHQpb"
       },
       "artists": [
         {
-          "name": "NATAB",
-          "url": "https://open.spotify.com/artist/5sk7DMYabyF7C12HgIG5QF"
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
         },
         {
-          "name": "Anabel Rose",
-          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
+          "name": "Seyyoh",
+          "url": "https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h"
         }
       ],
-      "duration_ms": 250674,
-      "name": "brighter days",
-      "url": "https://open.spotify.com/track/2u4YH1J4WcfxpzRSgQZ2aK"
+      "duration_ms": 159360,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/7MhwICkzmhuWWdsNn082c8"
     },
     {
       "added_at": "2025-08-15 00:01:34",
@@ -987,6 +987,26 @@
     {
       "added_at": "2025-08-15 00:01:34",
       "album": {
+        "name": "brighter days",
+        "url": "https://open.spotify.com/album/32vv2uGF81uF0fBKmEQPzc"
+      },
+      "artists": [
+        {
+          "name": "NATAB",
+          "url": "https://open.spotify.com/artist/5sk7DMYabyF7C12HgIG5QF"
+        },
+        {
+          "name": "Anabel Rose",
+          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
+        }
+      ],
+      "duration_ms": 250674,
+      "name": "brighter days",
+      "url": "https://open.spotify.com/track/2u4YH1J4WcfxpzRSgQZ2aK"
+    },
+    {
+      "added_at": "2025-08-15 00:01:34",
+      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/5Zy6ElTbp4KxZgBNsIof3B"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 219000,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/1zIL8IsEfk0qtK5RcUlXAa"
-    },
-    {
-      "added_at": "2025-08-15 00:01:34",
-      "album": {
-        "name": "In Pursuit Of Happiness",
-        "url": "https://open.spotify.com/album/7cR90I8NPn64HTVjcDHQpb"
-      },
-      "artists": [
-        {
-          "name": "Baaba J",
-          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
-        },
-        {
-          "name": "Seyyoh",
-          "url": "https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/7MhwICkzmhuWWdsNn082c8"
     },
     {
       "added_at": "2025-08-28 22:00:23",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-08-28 22:00:23",
       "album": {
+        "name": "All That I Am",
+        "url": "https://open.spotify.com/album/0Q3mPbwZR61xAOsvtXA95R"
+      },
+      "artists": [
+        {
+          "name": "PSILK",
+          "url": "https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6"
+        }
+      ],
+      "duration_ms": 143187,
+      "name": "All That I Am",
+      "url": "https://open.spotify.com/track/6VcJDLVNppqqFHGkQcs0kb"
+    },
+    {
+      "added_at": "2025-08-28 22:00:23",
+      "album": {
         "name": "Spheres",
         "url": "https://open.spotify.com/album/2I8Mjgw47gc9gBWLZQcOly"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 230431,
       "name": "Spheres",
       "url": "https://open.spotify.com/track/7bYXCCtVFwaiRyoUP1uD3n"
-    },
-    {
-      "added_at": "2025-08-28 22:00:23",
-      "album": {
-        "name": "All That I Am",
-        "url": "https://open.spotify.com/album/0Q3mPbwZR61xAOsvtXA95R"
-      },
-      "artists": [
-        {
-          "name": "PSILK",
-          "url": "https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6"
-        }
-      ],
-      "duration_ms": 143187,
-      "name": "All That I Am",
-      "url": "https://open.spotify.com/track/6VcJDLVNppqqFHGkQcs0kb"
     },
     {
       "added_at": "2025-08-28 22:00:23",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-08-28 22:00:23",
       "album": {
-        "name": "I Forget Myself",
-        "url": "https://open.spotify.com/album/3qvh4z5Tbe4th26RZpqHFe"
-      },
-      "artists": [
-        {
-          "name": "Akeeda",
-          "url": "https://open.spotify.com/artist/2yuVKgx8du6G6BGl5LrHcK"
-        }
-      ],
-      "duration_ms": 216237,
-      "name": "Fucking Games",
-      "url": "https://open.spotify.com/track/2AeEdDUGn1iUilYGcsuLtk"
-    },
-    {
-      "added_at": "2025-08-28 22:00:23",
-      "album": {
         "name": "uBhubesi",
         "url": "https://open.spotify.com/album/0RhEwNHQ4TI1iZnKLeNrjf"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 217013,
       "name": "uBhubesi",
       "url": "https://open.spotify.com/track/5lMPmfeVPO8JBrVZN3qERJ"
+    },
+    {
+      "added_at": "2025-08-28 22:00:23",
+      "album": {
+        "name": "I Forget Myself",
+        "url": "https://open.spotify.com/album/3qvh4z5Tbe4th26RZpqHFe"
+      },
+      "artists": [
+        {
+          "name": "Akeeda",
+          "url": "https://open.spotify.com/artist/2yuVKgx8du6G6BGl5LrHcK"
+        }
+      ],
+      "duration_ms": 216237,
+      "name": "Fucking Games",
+      "url": "https://open.spotify.com/track/2AeEdDUGn1iUilYGcsuLtk"
     },
     {
       "added_at": "2025-08-28 22:00:23",
@@ -1309,6 +1309,22 @@
       "url": "https://open.spotify.com/track/3lciDsGSVaG9gLzK5f0wc3"
     },
     {
+      "added_at": "2025-08-28 22:00:23",
+      "album": {
+        "name": "This Parlor Trick Life",
+        "url": "https://open.spotify.com/album/4JiZqsIUwogrOK2T1SGae7"
+      },
+      "artists": [
+        {
+          "name": "Luke Beling",
+          "url": "https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V"
+        }
+      ],
+      "duration_ms": 221014,
+      "name": "Silence Underneath",
+      "url": "https://open.spotify.com/track/11pN4k5Cjt9XBlIhyiYosF"
+    },
+    {
       "added_at": "2025-08-15 00:01:34",
       "album": {
         "name": "Jane",
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2025-08-28 22:00:23",
       "album": {
-        "name": "Oceans",
-        "url": "https://open.spotify.com/album/4JJFDNnWjyAmTJ1jO2ltmq"
-      },
-      "artists": [
-        {
-          "name": "YOSHE",
-          "url": "https://open.spotify.com/artist/4v9lEuK0nSxVknvcwOWfYn"
-        }
-      ],
-      "duration_ms": 199285,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/37vs2EU2zGb0EhLmgZ2VC6"
-    },
-    {
-      "added_at": "2025-08-28 22:00:23",
-      "album": {
         "name": "Mw\u012bhoko: \u00dbtheri wa Ngoro",
         "url": "https://open.spotify.com/album/27n0r1a10eltqzoFqYMyqg"
       },
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2025-08-28 22:00:23",
       "album": {
-        "name": "This Parlor Trick Life",
-        "url": "https://open.spotify.com/album/4JiZqsIUwogrOK2T1SGae7"
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/4JJFDNnWjyAmTJ1jO2ltmq"
       },
       "artists": [
         {
-          "name": "Luke Beling",
-          "url": "https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V"
+          "name": "YOSHE",
+          "url": "https://open.spotify.com/artist/4v9lEuK0nSxVknvcwOWfYn"
         }
       ],
-      "duration_ms": 221014,
-      "name": "Silence Underneath",
-      "url": "https://open.spotify.com/track/11pN4k5Cjt9XBlIhyiYosF"
+      "duration_ms": 199285,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/37vs2EU2zGb0EhLmgZ2VC6"
     },
     {
       "added_at": "2025-08-28 22:00:23",

@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 291747,
+  "num_followers": 291825,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "What'd I Say",
-        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 307053,
-      "name": "What'd I Say, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 132970,
       "name": "Get Rhythm",
       "url": "https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "What'd I Say",
+        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 307053,
+      "name": "What'd I Say, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 160226,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Fats Domino Swings",
         "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 152200,
       "name": "Ain't That A Shame",
       "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 117080,
-      "name": "All Shook Up",
-      "url": "https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockin' The Joint",
         "url": "https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 166840,
       "name": "See You Later, Alligator",
       "url": "https://open.spotify.com/track/05eNEozACh10Rn0ewFnH8Y"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 117080,
+      "name": "All Shook Up",
+      "url": "https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 122893,
-      "name": "Don't Be Cruel",
-      "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Here's Little Richard (Deluxe Edition)",
         "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 141400,
       "name": "Rip It Up",
       "url": "https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 122893,
+      "name": "Don't Be Cruel",
+      "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Bear Cat / Walkin' in the Rain",
+        "url": "https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X"
+      },
+      "artists": [
+        {
+          "name": "Rufus Thomas",
+          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "Bear Cat",
+      "url": "https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Memories Never Grow Old / Good Lovin'",
         "url": "https://open.spotify.com/album/1JfYQZ9G80fMf9DGtQqSac"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 172568,
       "name": "Good Lovin'",
       "url": "https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Bear Cat / Walkin' in the Rain",
-        "url": "https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X"
-      },
-      "artists": [
-        {
-          "name": "Rufus Thomas",
-          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "Bear Cat",
-      "url": "https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "My Bucket's Got a Hole in It / Sweet Misery",
-        "url": "https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS"
-      },
-      "artists": [
-        {
-          "name": "Sonny Burgess",
-          "url": "https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT"
-        }
-      ],
-      "duration_ms": 138520,
-      "name": "My Bucket's Got a Hole in It",
-      "url": "https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "I Dig You Baby / Sweetie Pie",
         "url": "https://open.spotify.com/album/36eFyxEy9tCTvlyZ4PeIJf"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 124363,
       "name": "Sweetie Pie",
       "url": "https://open.spotify.com/track/15Z8moPRfShAyP9EkrKked"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "My Bucket's Got a Hole in It / Sweet Misery",
+        "url": "https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS"
+      },
+      "artists": [
+        {
+          "name": "Sonny Burgess",
+          "url": "https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT"
+        }
+      ],
+      "duration_ms": 138520,
+      "name": "My Bucket's Got a Hole in It",
+      "url": "https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Very Best Of Little Richard",
-        "url": "https://open.spotify.com/album/3LXNSUpx48PQxUn2StRqfu"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 128280,
-      "name": "Long Tall Sally",
-      "url": "https://open.spotify.com/track/1q7njNe2QfE0xbZMtTOT2m"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Dance Album",
         "url": "https://open.spotify.com/album/6tmyqBnmU3ifbcDw5rZHfc"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 134445,
       "name": "Blue Suede Shoes",
       "url": "https://open.spotify.com/track/3Qylbx7tZcsP9RggQ6umUh"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Very Best Of Little Richard",
+        "url": "https://open.spotify.com/album/3LXNSUpx48PQxUn2StRqfu"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 128280,
+      "name": "Long Tall Sally",
+      "url": "https://open.spotify.com/track/1q7njNe2QfE0xbZMtTOT2m"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records Yearbook - 1958 part 2",
-        "url": "https://open.spotify.com/album/4o5IAd8PpTkQe825QG2Lhq"
-      },
-      "artists": [
-        {
-          "name": "Gene Simmons",
-          "url": "https://open.spotify.com/artist/5hF9nqYkULfy3LZnoYaRPD"
-        }
-      ],
-      "duration_ms": 141457,
-      "name": "I Done Told You",
-      "url": "https://open.spotify.com/track/5HpqVE9dPqR9D4XnCV5Wdm"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Sun Records- Boogie BBQ",
         "url": "https://open.spotify.com/album/3TT5zI6B1Cfvzp008AbkFT"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 119368,
       "name": "Rockin Daddy",
       "url": "https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Sun Records Yearbook - 1958 part 2",
+        "url": "https://open.spotify.com/album/4o5IAd8PpTkQe825QG2Lhq"
+      },
+      "artists": [
+        {
+          "name": "Gene Simmons",
+          "url": "https://open.spotify.com/artist/5hF9nqYkULfy3LZnoYaRPD"
+        }
+      ],
+      "duration_ms": 141457,
+      "name": "I Done Told You",
+      "url": "https://open.spotify.com/track/5HpqVE9dPqR9D4XnCV5Wdm"
     },
     {
       "added_at": "2022-06-07 05:25:13",

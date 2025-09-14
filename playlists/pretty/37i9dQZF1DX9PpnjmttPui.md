@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PpnjmttPui.md) - [plain]
 
 > <a href="spotify:artist:3l0CmX0FuQjFxr8SK7Vqag">Clairo</a> shares the songs she finds charming ✨ Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,345 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,377 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PpnjmttPui.md) - [plain]
 | 29 | [The Sly, Slick & The Wicked](https://open.spotify.com/track/2IKI9AJSfHfarD3P5SJttC) | [The Lost Generation](https://open.spotify.com/artist/3GyivO62GLk3C8DqfawQwV) | [Brunswick Top 40 Singles 1966\-1975](https://open.spotify.com/album/0lE2TzjpW5LqTEAxYEeyrO) | 2:56 |
 | 30 | [Sweet Pea](https://open.spotify.com/track/1dF5iP2sWmmBQr85M1kLm8) | [Altyrone Deno Brown](https://open.spotify.com/artist/2fsLYZN95FcfcLNMe0CNAV) | [If You Love Me b/w Sweet Pea](https://open.spotify.com/album/7wUju9SbvN55Mbp9c89h4t) | 2:21 |
 | 31 | [Under My Umbrella](https://open.spotify.com/track/7MdHCzU4IUT75Y6b0OS1dp) | [Margo Guryan](https://open.spotify.com/artist/3SMY2MGuaUOhuPpgRn6clw) | [27 Demos](https://open.spotify.com/album/6g45FvnHKSTYzTuB2OKdEm) | 2:01 |
-| 32 | [Why Do I Cry](https://open.spotify.com/track/753pG7rn5FcFcjcn3pot4Z) | [Margo Guryan](https://open.spotify.com/artist/3SMY2MGuaUOhuPpgRn6clw) | [27 Demos](https://open.spotify.com/album/6g45FvnHKSTYzTuB2OKdEm) | 2:15 |
+| 32 | [Why Do I Cry](https://open.spotify.com/track/753pG7rn5FcFcjcn3pot4Z) | [Margo Guryan](https://open.spotify.com/artist/3SMY2MGuaUOhuPpgRn6clw) | [27 Demos](https://open.spotify.com/album/6g45FvnHKSTYzTuB2OKdEm) | 2:14 |
 | 33 | [Light of Love](https://open.spotify.com/track/1eigPCP2PNnoI7oCrwKnxD) | [Bonnie Dobson](https://open.spotify.com/artist/62dp4ukQTgdD8vhPD2gb67) | [Good Morning Rain](https://open.spotify.com/album/7JsEzSrxXVyenKmcFEcpWx) | 3:49 |
 | 34 | [Saving My Feeling for You](https://open.spotify.com/track/7E4QNSReFS5xSU4ev0qAk7) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie Sings \(45th Anniversary Edition\)](https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A) | 3:45 |
 | 35 | [Where Is Love?](https://open.spotify.com/track/3Eaj6hXJ8EA0kDD5vELuZ1) | [The Equatics](https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P) | [Doin It!!!!](https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW) | 4:36 |

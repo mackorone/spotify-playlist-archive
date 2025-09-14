@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1517010,
+  "num_followers": 1517025,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Outra Vida",
+        "url": "https://open.spotify.com/album/12wdWIai1Ipd1tiFPaQYOQ"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 184006,
+      "name": "Outra Vida",
+      "url": "https://open.spotify.com/track/5y53mloVN0UCz9nnvCpes0"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Essas Can\u00e7\u00f5es de Amor (N\u00e3o Reclamo)",
         "url": "https://open.spotify.com/album/4Gk5jm37gE3gNkg7ZA71JQ"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 259058,
       "name": "Essas Can\u00e7\u00f5es de Amor (N\u00e3o Reclamo)",
       "url": "https://open.spotify.com/track/1wMoz6YOoZjHZCDL9Ssx1b"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Outra Vida",
-        "url": "https://open.spotify.com/album/12wdWIai1Ipd1tiFPaQYOQ"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 184006,
-      "name": "Outra Vida",
-      "url": "https://open.spotify.com/track/5y53mloVN0UCz9nnvCpes0"
     },
     {
       "added_at": "2024-08-02 18:37:00",

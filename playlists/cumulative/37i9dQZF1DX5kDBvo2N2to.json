@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 147840,
       "name": "Du kan inte ljuga f\u00f6r mig",
       "url": "https://open.spotify.com/track/7FUHlgux4d0OKwSfHr5GjR"
@@ -3372,7 +3372,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 128142,
       "name": "Igen",
       "url": "https://open.spotify.com/track/3RNTLflckFVMuAQq42qT1j"
@@ -4228,7 +4228,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 225593,
       "name": "Lost My Mind",
       "url": "https://open.spotify.com/track/1R6RXKsCXPokaX4kToMg1g"
@@ -4622,6 +4622,28 @@
       "duration_ms": 182040,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT"
+    },
+    {
+      "album": {
+        "name": "MIG/DIG (feat. Klaudy)",
+        "url": "https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S"
+      },
+      "artists": [
+        {
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+        },
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176672,
+      "name": "MIG/DIG (feat. Klaudy)",
+      "url": "https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc"
     },
     {
       "album": {
@@ -6003,6 +6025,24 @@
     },
     {
       "album": {
+        "name": "Solros",
+        "url": "https://open.spotify.com/album/00ImPIP0ISklhkv9UvNwoT"
+      },
+      "artists": [
+        {
+          "name": "Theo",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161597,
+      "name": "Solros",
+      "url": "https://open.spotify.com/track/1VgZrgml86gvvb4HAgDJP5"
+    },
+    {
+      "album": {
         "name": "Som du",
         "url": "https://open.spotify.com/album/2PLgiSA2x5NWmUyu6O3gNc"
       },
@@ -6328,6 +6368,24 @@
       "duration_ms": 196423,
       "name": "Stuck Cat",
       "url": "https://open.spotify.com/track/17FtZbDIv4cwjULKgPIMyr"
+    },
+    {
+      "album": {
+        "name": "St\u00f6rd",
+        "url": "https://open.spotify.com/album/4A7EjZFyWeH1fobQTj1UmV"
+      },
+      "artists": [
+        {
+          "name": "noll2",
+          "url": "https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173173,
+      "name": "St\u00f6rd",
+      "url": "https://open.spotify.com/track/2IgrHNArmP0qRKbQ5UVeVB"
     },
     {
       "album": {

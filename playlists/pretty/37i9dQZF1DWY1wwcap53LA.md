@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Ink
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,135 likes - 105 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,166 likes - 105 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 104 | [Magnolia \(Acoustic\)](https://open.spotify.com/track/3x5jkS931VvNRg4tLIqzvL) | [Austin McNeill](https://open.spotify.com/artist/7mYDpUarg1iQgonYRRwpMR) | [Carolina](https://open.spotify.com/album/5PiWlfUUUYB8gMqAEZbrRC) | 2:56 |
 | 105 | [Gonna Be Alright](https://open.spotify.com/track/3Eo9aTE1gnvShpP21Vb7tu) | [Cowboy Troy](https://open.spotify.com/artist/3Rd3kr9QoBdHGjD1Hk0tkj) | [Gonna Be Alright](https://open.spotify.com/album/6jlXxGbWeMOMbSEU9TJ3K9) | 2:56 |
 
-Snapshot ID: `AAAAAFR2YHXPPXddQZBt57rhn8Z/vTja`
+Snapshot ID: `AAAAAKy7y5UAHbuzcsNqQd8/rqoy+Mpv`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 
 > Jejeran artis perempuan inspiratif Indonesia\. Cover: Anggis Devaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,420 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,424 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 6 | [Datang Tepat Waktu](https://open.spotify.com/track/2AYH3gvpjIi98i8wfQxkM5) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Datang Tepat Waktu](https://open.spotify.com/album/05aAEYCzXw9g5esJmsEYxS) | 4:20 |
 | 7 | [Percik Kecil](https://open.spotify.com/track/6CsSNFkQVVuQjRQMrzyDzq) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC), [JKT48](https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk) | [Percik Kecil](https://open.spotify.com/album/3TrKCx9c3yJ7iD7NsIDRAC) | 3:49 |
 | 8 | [Room For Someone](https://open.spotify.com/track/6PL6UX3zf3No2Aa4w2yKXB) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Room For Someone](https://open.spotify.com/album/0R8L8vIgcXMz1lmrWYQVXR) | 2:26 |
-| 9 | [Menarilah dengan Jiwamu](https://open.spotify.com/track/64AhTEtMOkiTPybwkuv7TY) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Menarilah dengan Jiwamu](https://open.spotify.com/album/2LGwwFntQoPzu17MlS2QvE) | 4:34 |
+| 9 | [Menarilah dengan Jiwamu](https://open.spotify.com/track/64AhTEtMOkiTPybwkuv7TY) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Mamiu](https://open.spotify.com/album/2LGwwFntQoPzu17MlS2QvE) | 4:34 |
 | 10 | [Orang Baru](https://open.spotify.com/track/5sfOHV8uS1ICKFkst0bua9) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Orang Baru](https://open.spotify.com/album/4A1va6CGH22Tf8tY11E4v6) | 4:09 |
 | 11 | [Well, dadah](https://open.spotify.com/track/5qxbLTQzhm8pDTbS2W9kyp) | [Aya Anjani](https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf) | [Well, dadah](https://open.spotify.com/album/6NqZyZZl2lsbQ0cXIGL6cI) | 3:17 |
 | 12 | [Looking for Love in Wrong Places](https://open.spotify.com/track/4gngdFoZ9jGJcHAlbjWmIZ) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Looking for Love in Wrong Places](https://open.spotify.com/album/1KN2KKeuWwdkimahJ0lmFp) | 4:05 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 30 | [Tak Lagi Ragu](https://open.spotify.com/track/5beYOAOwOGY7d7ZLkryNju) | [Tissa Biani](https://open.spotify.com/artist/30VMqU6hVQqn46eGWn5rXM) | [Apakah Kita?](https://open.spotify.com/album/1TgyHkafKmeUG3vvJzrSof) | 3:39 |
 | 31 | [Saat Kutemukanmu](https://open.spotify.com/track/14r7MA3sinr4549JcHeJpr) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c) | [Panggil Saja Hanna](https://open.spotify.com/album/6PmNwvDjjpY5QCOFdtaOYO) | 4:03 |
 | 32 | [Selalu Kalah](https://open.spotify.com/track/5hmcqpdSHSv75EOakw3NCh) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Selalu Kalah](https://open.spotify.com/album/5bnA3ExkT9T6YmzQf63vGp) | 3:09 |
-| 33 | [Game of Love](https://open.spotify.com/track/47tEFLhr9yywjfCiaz4AbV) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Menarilah dengan Jiwamu](https://open.spotify.com/album/2LGwwFntQoPzu17MlS2QvE) | 1:55 |
+| 33 | [Game of Love](https://open.spotify.com/track/47tEFLhr9yywjfCiaz4AbV) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Mamiu](https://open.spotify.com/album/2LGwwFntQoPzu17MlS2QvE) | 1:55 |
 | 34 | [Dari Awal Pertama](https://open.spotify.com/track/6FuZQ1wnpjvMIgmot3t5TP) | [Aya Anjani](https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf) | [Dari Awal Pertama](https://open.spotify.com/album/4tEh1PHEFm9ipXF8u7z9Io) | 2:48 |
 | 35 | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/track/7Lm4S2P0MHwBktcdNILLQA) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 2:58 |
 | 36 | [Jungkir Balik](https://open.spotify.com/track/7FHZjRzlzK7EYLfWNjVQG4) | [Maisha Kanna](https://open.spotify.com/artist/3iYoSZ1R7GsEvKNzTfr5gw) | [Jungkir Balik](https://open.spotify.com/album/61Iqd46DegZEqa1yFwm3Dp) | 3:50 |

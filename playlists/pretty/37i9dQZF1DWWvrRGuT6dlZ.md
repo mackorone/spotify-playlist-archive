@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: Straw 林水草\.  Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: Ehin\.  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,055 likes - 102 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,056 likes - 102 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

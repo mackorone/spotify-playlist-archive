@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 11489,
+  "num_followers": 11499,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-09-03 07:33:34",
       "album": {
-        "name": "H1-KEY 4th Mini Album [Lovestruck]",
-        "url": "https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt"
-      },
-      "artists": [
-        {
-          "name": "H1-KEY",
-          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Let Me Be Your Sea",
-      "url": "https://open.spotify.com/track/5ovEBpKRTo7HpWXNNzBJda"
-    },
-    {
-      "added_at": "2025-09-03 07:33:34",
-      "album": {
         "name": "Love(Prod.Rocoberry)",
         "url": "https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH"
       },
@@ -839,18 +823,34 @@
     {
       "added_at": "2025-09-03 07:33:34",
       "album": {
-        "name": "Good Luck",
-        "url": "https://open.spotify.com/album/1gWh6KvIx3OP9Blsd8RJIR"
+        "name": "H1-KEY 4th Mini Album [Lovestruck]",
+        "url": "https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt"
       },
       "artists": [
         {
-          "name": "Sandeul",
-          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Good Luck",
-      "url": "https://open.spotify.com/track/5JUtZlWE1jYLNZJrnBUWYM"
+      "duration_ms": 188000,
+      "name": "Let Me Be Your Sea",
+      "url": "https://open.spotify.com/track/5ovEBpKRTo7HpWXNNzBJda"
+    },
+    {
+      "added_at": "2025-09-03 07:33:34",
+      "album": {
+        "name": "What Do I Call You - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 163026,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/7xTDCxibzHpmUUQeso8Sg7"
     }
   ],
   "unique_name": "\uc378 !",

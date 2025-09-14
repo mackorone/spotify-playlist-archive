@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Los Amigos Invisibles en portada. ",
-  "num_followers": 990326,
+  "num_followers": 990170,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 267226,
+      "name": "Kumbala",
+      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
       },
@@ -159,22 +175,6 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 267226,
-      "name": "Kumbala",
-      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -207,22 +207,6 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
-        "name": "Contrareloj",
-        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 161440,
-      "name": "La Muralla Verde",
-      "url": "https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
         "name": "Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 232026,
       "name": "Crimen",
       "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
+        "name": "Contrareloj",
+        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 161440,
+      "name": "La Muralla Verde",
+      "url": "https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
-        "name": "Amores Lejanos",
-        "url": "https://open.spotify.com/album/6JlMb03WAKr2QcilmUzRkC"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 317320,
-      "name": "Frances Limon",
-      "url": "https://open.spotify.com/track/2BPmAFsiy6vwDceybqIAjw"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 225173,
       "name": "Vendedora de Caricias",
       "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
+        "name": "Amores Lejanos",
+        "url": "https://open.spotify.com/album/6JlMb03WAKr2QcilmUzRkC"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 317320,
+      "name": "Frances Limon",
+      "url": "https://open.spotify.com/track/2BPmAFsiy6vwDceybqIAjw"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
-        "name": "Amor Chiquito",
-        "url": "https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u"
-      },
-      "artists": [
-        {
-          "name": "Fobia",
-          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
-        }
-      ],
-      "duration_ms": 297533,
-      "name": "Veneno Vil",
-      "url": "https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
         "name": "Monarca",
         "url": "https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 283013,
       "name": "Tu Volver\u00e1s",
       "url": "https://open.spotify.com/track/3FD4WGUSXKAkYSXs1FJ5JU"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
+        "name": "Amor Chiquito",
+        "url": "https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u"
+      },
+      "artists": [
+        {
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
+        }
+      ],
+      "duration_ms": 297533,
+      "name": "Veneno Vil",
+      "url": "https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -943,6 +943,22 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
+        "name": "La Gusana Ciega",
+        "url": "https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ"
+      },
+      "artists": [
+        {
+          "name": "La Gusana Ciega",
+          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "Tornasol (Vuelves a Ser)",
+      "url": "https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
         "name": "Pasos Al Costado",
         "url": "https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 240703,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
-        "name": "La Gusana Ciega",
-        "url": "https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ"
-      },
-      "artists": [
-        {
-          "name": "La Gusana Ciega",
-          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "Tornasol (Vuelves a Ser)",
-      "url": "https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -1275,38 +1275,6 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
-        "name": "Parison",
-        "url": "https://open.spotify.com/album/3GJi4Wwqd9ieXuTeuSfnKm"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        },
-        {
-          "name": "Lng Sht",
-          "url": "https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2"
-        }
-      ],
-      "duration_ms": 291074,
-      "name": "Parison",
-      "url": "https://open.spotify.com/track/3JaKelhIeMYrDoyglzqzLl"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
         "name": "Maldita Vecindad y los Hijos del Quinto Patio",
         "url": "https://open.spotify.com/album/1JfXrzzdymYGCrSXfKcAyE"
       },
@@ -1335,6 +1303,38 @@
       "duration_ms": 148600,
       "name": "S\u00e3o Paulo Motoboy",
       "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
+        "name": "Parison",
+        "url": "https://open.spotify.com/album/3GJi4Wwqd9ieXuTeuSfnKm"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        },
+        {
+          "name": "Lng Sht",
+          "url": "https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2"
+        }
+      ],
+      "duration_ms": 291074,
+      "name": "Parison",
+      "url": "https://open.spotify.com/track/3JaKelhIeMYrDoyglzqzLl"
     },
     {
       "added_at": "2025-08-22 06:00:12",

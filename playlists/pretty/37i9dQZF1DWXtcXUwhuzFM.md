@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Sexmane, Ed Sheeran, Karim B ja Minttu – mukana myös uunituoreet Vain elämää \-biisit! 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,075 likes - 109 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,095 likes - 109 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 67 | [Nosta sun nyrkkis ilmaan!](https://open.spotify.com/track/6kcd3ZprUkDYMPAFKOKTLL) | [Nyrkkitappelu](https://open.spotify.com/artist/3iqfiMKG1Qp35bRjj03sb1) | [Nosta sun nyrkkis ilmaan!](https://open.spotify.com/album/0Ke0v6IUAJ1XuMhAxGS5qz) | 2:41 |
 | 68 | [Hypnotic](https://open.spotify.com/track/1ulorUgFxDQdshBrtzgYRK) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Hypnotic](https://open.spotify.com/album/4pYBgkBcpcqhEOfrLCBKWc) | 2:58 |
 | 69 | [Syntynyt kulkemaan](https://open.spotify.com/track/7sT2I668UvJqPghjsXXl1I) | [Jarkko Ahola](https://open.spotify.com/artist/3jP9vMttV2eyctsfcuYNQc) | [Syntynyt kulkemaan](https://open.spotify.com/album/1A7fxVNtjWzBM0t3kOClte) | 4:00 |
-| 70 | [Unconditional](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Unconditional](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
+| 70 | [UNCONDITIONAL](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [UNCONDITIONAL](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
 | 71 | [Emmanuelle](https://open.spotify.com/track/0BxDI3IOQVULp4bDfEjiDj) | [Saarisalo](https://open.spotify.com/artist/6IgTXnqCShUIfXhX2eC8Yl) | [Emmanuelle](https://open.spotify.com/album/5iS8S366FtI3WpGnRTUgxY) | 3:31 |
 | 72 | [FOSTER WALLACE & GROMIT](https://open.spotify.com/track/1wXWYI7j7fGi057TZ4543L) | [TÄYDET](https://open.spotify.com/artist/2f3DGRemlGLnmnwqIttkPA) | [FOSTER WALLACE & GROMIT](https://open.spotify.com/album/3HvRUzARYqf5RnASM4lzq2) | 2:18 |
 | 73 | [Run Free](https://open.spotify.com/track/0Qe2Ob5cSEcIba8jyIQOMH) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Run Free](https://open.spotify.com/album/1aZaI6i5ZUCIkGfI1Yz4HL) | 2:55 |
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 105 | [A Possessione Diabolica](https://open.spotify.com/track/32Yoalh9nTFUBKN4DFxUqR) | [Cvlt Ov the Svn](https://open.spotify.com/artist/2KVSnLE8OkCi50mbRsBtWU) | [A Possessione Diabolica](https://open.spotify.com/album/4UxhWPPpNU2lDuv42if1YY) | 2:47 |
 | 106 | [Young As This](https://open.spotify.com/track/5qPQImgNyuoEFsZFGKUtX6) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Young As This](https://open.spotify.com/album/1b079FK9FKg2QFt24llds8) | 2:48 |
 | 107 | [IN A MOOD](https://open.spotify.com/track/7jq2d4lyn2WvP6m5v2Q4fD) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [IN A MOOD](https://open.spotify.com/album/5mW9cSLIMRs3QLz41HSGU8) | 2:50 |
-| 108 | [To The Nines \(2 da 9z\) \(feat\. Capri Everitt\)](https://open.spotify.com/track/4GoYAXlLabsGIIAK5anXUi) | [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY), [Capri Everitt](https://open.spotify.com/artist/6EFNRnIRbAh7pHV1FgCQaB) | [To The Nines \(2 da 9z\) \[feat\. Capri Everitt\]](https://open.spotify.com/album/65HTbQQJMw1HOKNMVYVKSm) | 2:38 |
+| 108 | [To The Nines \(2 da 9z\)](https://open.spotify.com/track/4GoYAXlLabsGIIAK5anXUi) | [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY), [Capri Everitt](https://open.spotify.com/artist/6EFNRnIRbAh7pHV1FgCQaB) | [To The Nines \(2 da 9z\)](https://open.spotify.com/album/65HTbQQJMw1HOKNMVYVKSm) | 2:38 |
 | 109 | [Koirat ovat enkeleitä](https://open.spotify.com/track/3Psk5UY9NBsdO8TUBXWkct) | [Electric Elisa](https://open.spotify.com/artist/51fd90keaHvX7zT0PICCEO) | [Koirat ovat enkeleitä](https://open.spotify.com/album/6splyJLCPwr6jidKlhWtRm) | 4:22 |
 
 Snapshot ID: `AAAAADuR/aCG9WJd7L1dt+CaEbl4vfV3`

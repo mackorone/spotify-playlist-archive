@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 100894,
+  "num_followers": 100918,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Pit Stop",
+        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
+      },
+      "artists": [
+        {
+          "name": "Bridde Boys",
+          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
+        }
+      ],
+      "duration_ms": 253544,
+      "name": "Pit Stop",
+      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Wat Is Je Naam",
         "url": "https://open.spotify.com/album/7DSXNoQCBYILBZGG83t53t"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 157935,
       "name": "Wat Is Je Naam",
       "url": "https://open.spotify.com/track/4SlqfJkQNAS7A5cvjBvQ3C"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Pit Stop",
-        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
-      },
-      "artists": [
-        {
-          "name": "Bridde Boys",
-          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
-        }
-      ],
-      "duration_ms": 253544,
-      "name": "Pit Stop",
-      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
     },
     {
       "added_at": "2024-07-19 06:38:33",

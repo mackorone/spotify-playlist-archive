@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Kali Uchis & Ravyn Lenae, Ed Sheeran, Hazlett, Drake, Demi Lovato, Parcels  + more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,912 likes - 81 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,942 likes - 81 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 27 | [Inefficient Love](https://open.spotify.com/track/5Bf91qvflBGAAyCChcvO8o) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Inefficient Love](https://open.spotify.com/album/3nrboAgmwjsaYkhhubeX2c) | 3:43 |
 | 28 | [I OUGHTA KNOW BETTER](https://open.spotify.com/track/5xRHTbZPkWHV9seGljMKYw) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [I OUGHTA KNOW BETTER](https://open.spotify.com/album/4gtI5sbgbNJgLQ6nSsYYKt) | 3:26 |
 | 29 | [Camouflage](https://open.spotify.com/track/2a8mqTYjErkuGZXvyu4wYV) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape III](https://open.spotify.com/album/2msYWXAkZvkbOBUHLs3QcM) | 2:25 |
-| 30 | [Unconditional](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Unconditional](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
+| 30 | [UNCONDITIONAL](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [UNCONDITIONAL](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
 | 31 | [The Tune I’ll Be Singing Until I’m Dead](https://open.spotify.com/track/68E3CiiHyiyDpdVQRLeOxQ) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [The Tune I’ll Be Singing Until I’m Dead](https://open.spotify.com/album/6zO24Qw7DO5UldvWyy80CZ) | 3:05 |
 | 32 | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC) | 2:44 |
 | 33 | [See You in Everyone](https://open.spotify.com/track/6eunHrBuu3ftWdWIntSfvF) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Blush Response](https://open.spotify.com/album/11wZb9A2jAk54mXF9FXM2r) | 3:30 |

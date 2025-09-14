@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1uYXu9L0vzo1lcJk7SjgCT">Brittany "Chi" Coney</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,392 likes - 109 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,393 likes - 109 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,9 +113,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 | 103 | [Balloons](https://open.spotify.com/track/6JX3C5Y7fHUSpUz4ErXKJE) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Unstoppable](https://open.spotify.com/album/3rH58guWMYywyTs5E8V6WE) | 3:21 |
 | 104 | [7Days7Nights](https://open.spotify.com/track/1I8Txfr1qXMr604hC3ElJr) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [After 7](https://open.spotify.com/album/6YRxXLfApqwOhEPAtI8UZY) | 2:45 |
 | 105 | [Understanding](https://open.spotify.com/track/1CTDwwNP5iwnzRJryXgVtW) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Unstoppable](https://open.spotify.com/album/3rH58guWMYywyTs5E8V6WE) | 3:01 |
-| 106 | [Tattoo \(feat\. Jeremih\)](https://open.spotify.com/track/2A6ToOoGwznmWMhTM64Gud) | [Gillie Da Kid](https://open.spotify.com/artist/467NioAq9fvSiEnANCOGzE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Welcome To Gilladelphia](https://open.spotify.com/album/0AH03qFsdih3raMGNMEpF2) | 3:36 |
-| 107 | [Can't Relate](https://open.spotify.com/track/16fDi1h68eNxp9al1m5B39) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Can't Relate](https://open.spotify.com/album/6OgNHBteVXB95zUAXPPTK8) | 2:41 |
+| 106 | [Can't Relate](https://open.spotify.com/track/16fDi1h68eNxp9al1m5B39) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Can't Relate](https://open.spotify.com/album/6OgNHBteVXB95zUAXPPTK8) | 2:41 |
+| 107 | [Tattoo \(feat\. Jeremih\)](https://open.spotify.com/track/2A6ToOoGwznmWMhTM64Gud) | [Gillie Da Kid](https://open.spotify.com/artist/467NioAq9fvSiEnANCOGzE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Welcome To Gilladelphia](https://open.spotify.com/album/0AH03qFsdih3raMGNMEpF2) | 3:36 |
 | 108 | [Heaven On Earth](https://open.spotify.com/track/55NGMZ4yqhnXZ5ucOww4lw) | [Kendall Cudd](https://open.spotify.com/artist/5omufeVw7t0EfjorCC8rDK) | [Heaven On Earth](https://open.spotify.com/album/7ufOgb0K3eDHvkiJiojFHj) | 2:45 |
 | 109 | [Luv Hug](https://open.spotify.com/track/7AfipMJ54S6m004iJ3DvM9) | [Shunda K](https://open.spotify.com/artist/25EMx35978LX76CR9xPBhH), [Brittany Coney](https://open.spotify.com/artist/0jxdssOxFO2Z612ZOMbN1T) | [The Most Wanted](https://open.spotify.com/album/1T5GaDlXrcvs3UP1KBkQ0Q) | 3:44 |
 
-Snapshot ID: `Ab8DqgAAAACqI5jpkS/ZB7W0hD/kPBzE`
+Snapshot ID: `Ab8JfAAAAABkd0fN4EOaBG16nd7qLYsr`

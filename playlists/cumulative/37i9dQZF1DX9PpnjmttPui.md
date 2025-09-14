@@ -56,7 +56,7 @@
 | [When It's Time to Go](https://open.spotify.com/track/06bgtOwOTqbDLf1n1eqjji) | [Buddy Fo & His Group](https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI) | [When It's Time to Go](https://open.spotify.com/album/0pEYDo499hzgCpBLzcpVpl) | 2:43 | 2024-08-23 |  |
 | [Where Is Love?](https://open.spotify.com/track/3Eaj6hXJ8EA0kDD5vELuZ1) | [The Equatics](https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P) | [Doin It!!!!](https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW) | 4:36 | 2024-08-23 |  |
 | [Who I am](https://open.spotify.com/track/70EOI7haPUwLx2gQu6gATR) | [Joanne Grauer](https://open.spotify.com/artist/0lpJi1x47ItOCuFgnnZFOh) | [Joanne Grauer](https://open.spotify.com/album/1KcegDm0HBgo5XCxcHWlwF) | 3:07 | 2024-08-23 |  |
-| [Why Do I Cry](https://open.spotify.com/track/753pG7rn5FcFcjcn3pot4Z) | [Margo Guryan](https://open.spotify.com/artist/3SMY2MGuaUOhuPpgRn6clw) | [27 Demos](https://open.spotify.com/album/6g45FvnHKSTYzTuB2OKdEm) | 2:15 | 2024-08-23 |  |
+| [Why Do I Cry](https://open.spotify.com/track/753pG7rn5FcFcjcn3pot4Z) | [Margo Guryan](https://open.spotify.com/artist/3SMY2MGuaUOhuPpgRn6clw) | [27 Demos](https://open.spotify.com/album/6g45FvnHKSTYzTuB2OKdEm) | 2:14 | 2024-08-23 |  |
 | [You Are Giving Me Some Other Love](https://open.spotify.com/track/1piyCUCyKo0WqV2pBRpD43) | [Penny & The Quarters](https://open.spotify.com/artist/76sXjAhV0Hc3Pdb6bH3waC) | [Penny & the Quarters EP](https://open.spotify.com/album/6zmwrJVYFvWE4xOVFBP04V) | 3:47 | 2024-08-23 |  |
 
 \*This playlist was first scraped on 2024-08-24. Prior content cannot be recovered.

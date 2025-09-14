@@ -1,6 +1,6 @@
 {
   "description": "The official playlist for the 67th GRAMMY Awards.",
-  "num_followers": 150781,
+  "num_followers": 150754,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "El Viaje",
-        "url": "https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Andaluc\u00eda",
-      "url": "https://open.spotify.com/track/3gJCWirg9qx1ze9t6B3P4P"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
         "name": "In The Room (feat. Tasha Cobbs Leonard)",
         "url": "https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 597481,
       "name": "In The Room (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
+        "name": "El Viaje",
+        "url": "https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Andaluc\u00eda",
+      "url": "https://open.spotify.com/track/3gJCWirg9qx1ze9t6B3P4P"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 137631,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
         "name": "Sensational (feat. Davido & Lojay)",
         "url": "https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 231109,
       "name": "Sensational (feat. Davido & Lojay)",
       "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 137631,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "All Born Screaming",
-        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 226578,
-      "name": "Flea",
-      "url": "https://open.spotify.com/track/6TryolYM0MBzNTxGrlfcqt"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
         "name": "Wild God",
         "url": "https://open.spotify.com/album/0TRr4JGEPJ4eAb5QKRaunf"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 216586,
       "name": "Song Of The Lake",
       "url": "https://open.spotify.com/track/7kN3xKqRtMQEnhxCK5d5Ih"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
+        "name": "All Born Screaming",
+        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 226578,
+      "name": "Flea",
+      "url": "https://open.spotify.com/track/6TryolYM0MBzNTxGrlfcqt"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "Happiness Bastards",
-        "url": "https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 255560,
-      "name": "Wanting and Waiting",
-      "url": "https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
         "name": "Choirmaster II (Live)",
         "url": "https://open.spotify.com/album/4Nqqfoi87fORR9WqZssv78"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 370399,
       "name": "Hold On - Live",
       "url": "https://open.spotify.com/track/4QTXebgW5IJJS8WpBLn6Zc"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
+        "name": "Happiness Bastards",
+        "url": "https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 255560,
+      "name": "Wanting and Waiting",
+      "url": "https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0"
     },
     {
       "added_at": "2025-02-03 18:19:52",

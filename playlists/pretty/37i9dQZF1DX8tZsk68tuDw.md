@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Chris Stussy & Locklead
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,873,147 likes - 85 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,872,336 likes - 85 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 5 | [Everytime](https://open.spotify.com/track/5uaHSOou5ernQBKhfVse1f) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT), [Lustral](https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7) | [Everytime](https://open.spotify.com/album/3mSHcMzJwojPzTVubh9MuN) | 3:25 |
 | 6 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
 | 7 | [Make Believe](https://open.spotify.com/track/7IoTUnyyvbMEY2UuE2Tmsx) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Make Believe](https://open.spotify.com/album/0WsYBIIe88Cbqs6QpwYqMy) | 3:05 |
-| 8 | [Unconditional](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Unconditional](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
+| 8 | [UNCONDITIONAL](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [UNCONDITIONAL](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
 | 9 | [Hold Me](https://open.spotify.com/track/2uxRNIseE14NHEh38SaEeZ) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Hold Me](https://open.spotify.com/album/0xq1Ug8C06g4znM3QizelQ) | 2:32 |
 | 10 | [What's a Girl to Do in '25](https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [What's a Girl to Do in '25](https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr) | 2:28 |
 | 11 | [On Repeat](https://open.spotify.com/track/2NuKvt8jjaIivq4Za4glMP) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [On Repeat](https://open.spotify.com/album/4shvqvbwtI2KQQyw3T9aK2) | 3:10 |

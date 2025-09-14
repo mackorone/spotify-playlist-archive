@@ -4,7 +4,7 @@
 
 > ¡Pasadía y sabrosura!
 
-234 songs - 15 hr 26 min
+235 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Distancia](https://open.spotify.com/track/1uCs7r1Col4jCPsfMrVUwS) | [El Tropicombo](https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM) | [Historia Musical de el Tropicombo](https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx) | 4:03 | 2024-04-06 |  |
 | [Dominique](https://open.spotify.com/track/6CVeVvOVY6AzlzL3O3oRxi) | [Anibal Velasquez](https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE) | [Historia Musical de Aníbal Velásquez](https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk) | 2:36 | 2024-07-12 | 2025-03-30 |
 | [Dulcemente Bella](https://open.spotify.com/track/3anFu90Cfdwgt31a2tYJix) | [Miguel Moly](https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8) | [Y Como Se Mata El Gusano?](https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK) | 3:52 | 2021-12-16 | 2024-11-05 |
-| [El Amor Es Perdón y Algo Mas](https://open.spotify.com/track/2mWKz1tLyXlEbjzy9yrwFj) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Historia Musical de los Chiches Vallenatos: Éxitos Originales](https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt) | 5:15 | 2024-04-06 |  |
+| [El Amor Es Perdón y Algo Mas](https://open.spotify.com/track/2mWKz1tLyXlEbjzy9yrwFj) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Historia Musical de los Chiches Vallenatos: Éxitos Originales](https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt) | 5:15 | 2024-04-06 | 2025-09-14 |
 | [El Ausente](https://open.spotify.com/track/01iowdZND8PTDZ5r8dQclR) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Historia Musical de Fruko: Éxitos](https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB) | 4:02 | 2024-04-06 |  |
 | [El Ausente](https://open.spotify.com/track/3B4wzlkWJCJlXeFZIAQQLr) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Fruko El Bueno: Ayunando](https://open.spotify.com/album/0zPoXzqnCDjPccDBSoXP7V) | 4:02 | 2021-12-16 | 2023-07-29 |
 | [El Ausente](https://open.spotify.com/track/2bmlo7ze2SmrVooKmSYbDm) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Fruko el Bueno "ayunando"](https://open.spotify.com/album/02D7tAZfwwecg2kx5m66jW) | 4:03 | 2024-04-06 | 2024-04-19 |
@@ -213,6 +213,7 @@
 | [Solo Un Cigarro](https://open.spotify.com/track/1IU4yR9zKEdYDqQt7dI2yh) | [Pastor López](https://open.spotify.com/artist/5eHNeUjS4GogffJdQ1vVN5) | [Recordando a Pastor Lopez](https://open.spotify.com/album/5tmSVevQNFdbxFKTFOHWAk) | 2:48 | 2021-12-16 | 2024-01-15 |
 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 | 2021-12-16 | 2024-04-19 |
 | [Sufro por Este Amor \(Baile de la Quebradita\)](https://open.spotify.com/track/50pqdArO9o1AZx4C4eQ0TH) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo) | [El Baile de la Quebradita](https://open.spotify.com/album/1vRkuGwrTKgOcSPOGwOTSV) | 3:56 | 2024-04-06 |  |
+| [Sólo Puedo Quererte](https://open.spotify.com/track/1bnFyXpb8z9K6zp8LEo02w) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Historia Musical de los Chiches Vallenatos: Éxitos Originales](https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt) | 4:33 | 2024-07-12 |  |
 | [Tabaco y Ron](https://open.spotify.com/track/0yR6g8tt0IzisAPcizD4xz) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU) | 4:02 | 2024-04-06 |  |
 | [Tabaco y Ron](https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable \- 16 Exitos](https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8) | 4:04 | 2021-12-16 | 2024-04-19 |
 | [Tabaco Y Ron \(Live\)](https://open.spotify.com/track/24RO2HsK6v0mH8EqplKR9u) | [El Rey de los Diciembres](https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y) | [Grandes Exitos](https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6) | 4:03 | 2021-12-16 | 2024-02-29 |

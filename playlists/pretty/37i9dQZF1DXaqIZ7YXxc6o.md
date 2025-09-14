@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Yes Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,302 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,296 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All I Really Want](https://open.spotify.com/track/3lLh5lWerYHviy8hSVvtBw) | [Yes Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [All I Really Want](https://open.spotify.com/album/0K36Q2buZbBp4aEQQyJmQ3) | 3:13 |
 | 2 | [crystallized \(feat\. Inéz\)](https://open.spotify.com/track/6YiIWuVXS4AqF1KvUGMwyx) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [crystallized \(feat\. Inéz\)](https://open.spotify.com/album/5PnlLTo9MLkbd4noHgisk9) | 3:37 |
 | 3 | [Royalty](https://open.spotify.com/track/4j5jyPieqmrFSaKmPKIwoo) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [Adrian Dzvuke](https://open.spotify.com/artist/3fgolNSZnidBlbm5dFi4go) | [Royalty](https://open.spotify.com/album/1ytdCmycRnhnGCEecUoISo) | 3:54 |
-| 4 | [Unconditional](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Unconditional](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
+| 4 | [UNCONDITIONAL](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [UNCONDITIONAL](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
 | 5 | [Hypnotic](https://open.spotify.com/track/1ulorUgFxDQdshBrtzgYRK) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Hypnotic](https://open.spotify.com/album/4pYBgkBcpcqhEOfrLCBKWc) | 2:58 |
 | 6 | [Restart \(ft\. KLP\)](https://open.spotify.com/track/3jmxKFfaUa3kFXaldidkDd) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Restart \(ft\. KLP\)](https://open.spotify.com/album/1q1MrlDS7p0APneFaobN71) | 3:35 |
 | 7 | [Last 2 Leave](https://open.spotify.com/track/5lfuQ9C0UOnmH4tRXrDjIK) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Last 2 Leave](https://open.spotify.com/album/1nOD3LXVd8jdPN7qGsxEmU) | 2:05 |

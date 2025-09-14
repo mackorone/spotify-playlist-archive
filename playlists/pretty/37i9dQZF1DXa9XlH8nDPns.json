@@ -1,6 +1,6 @@
 {
   "description": "Feelgood indie & roadtrip bangers",
-  "num_followers": 28315,
+  "num_followers": 28324,
   "original_name": "Happy Roadtrip",
   "owner": {
     "name": "Spotify",
@@ -43,18 +43,18 @@
     {
       "added_at": "2025-08-29 11:45:54",
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+        "name": "Maybe You've Been Brainwashed Too",
+        "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "New Radicals",
+          "url": "https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd"
         }
       ],
-      "duration_ms": 182693,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
+      "duration_ms": 300773,
+      "name": "You Get What You Give",
+      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
     },
     {
       "added_at": "2025-08-29 11:45:54",
@@ -91,18 +91,18 @@
     {
       "added_at": "2025-08-29 11:45:54",
       "album": {
-        "name": "Maybe You've Been Brainwashed Too",
-        "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
       },
       "artists": [
         {
-          "name": "New Radicals",
-          "url": "https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 300773,
-      "name": "You Get What You Give",
-      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
+      "duration_ms": 182693,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
     },
     {
       "added_at": "2025-08-29 11:45:54",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-08-29 11:45:54",
       "album": {
-        "name": "Californication",
-        "url": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 204960,
-      "name": "Road Trippin'",
-      "url": "https://open.spotify.com/track/7Gpr3kKk4BMgItz6UbI73q"
-    },
-    {
-      "added_at": "2025-08-29 11:45:54",
-      "album": {
         "name": "Welcome to the Mood / Sundown",
         "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 184133,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb"
+    },
+    {
+      "added_at": "2025-08-29 11:45:54",
+      "album": {
+        "name": "Californication",
+        "url": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 204960,
+      "name": "Road Trippin'",
+      "url": "https://open.spotify.com/track/7Gpr3kKk4BMgItz6UbI73q"
     },
     {
       "added_at": "2025-08-29 11:45:54",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-08-29 11:45:54",
       "album": {
-        "name": "Slow Karma",
-        "url": "https://open.spotify.com/album/4f0y5JIiCu4utUhZJgUGCg"
-      },
-      "artists": [
-        {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Slow Karma",
-      "url": "https://open.spotify.com/track/4G9aTrG0ucDbflr3oUwyKc"
-    },
-    {
-      "added_at": "2025-08-29 11:45:54",
-      "album": {
         "name": "Townie",
         "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 253733,
       "name": "Smoke On the Highway",
       "url": "https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL"
+    },
+    {
+      "added_at": "2025-08-29 11:45:54",
+      "album": {
+        "name": "Slow Karma",
+        "url": "https://open.spotify.com/album/4f0y5JIiCu4utUhZJgUGCg"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Slow Karma",
+      "url": "https://open.spotify.com/track/4G9aTrG0ucDbflr3oUwyKc"
     },
     {
       "added_at": "2025-08-29 11:45:54",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-08-29 11:45:54",
       "album": {
-        "name": "I Don't Dance",
-        "url": "https://open.spotify.com/album/1bfNoxTdhtHh34RGUE5zTI"
-      },
-      "artists": [
-        {
-          "name": "Orange Skyline",
-          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
-        }
-      ],
-      "duration_ms": 189038,
-      "name": "I Don't Dance",
-      "url": "https://open.spotify.com/track/1IJYxWXp3UFOgnZDnmH6y9"
-    },
-    {
-      "added_at": "2025-08-29 11:45:54",
-      "album": {
         "name": "Never Look Down",
         "url": "https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 173133,
       "name": "What My Heart Needs",
       "url": "https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh"
+    },
+    {
+      "added_at": "2025-08-29 11:45:54",
+      "album": {
+        "name": "I Don't Dance",
+        "url": "https://open.spotify.com/album/1bfNoxTdhtHh34RGUE5zTI"
+      },
+      "artists": [
+        {
+          "name": "Orange Skyline",
+          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
+        }
+      ],
+      "duration_ms": 189038,
+      "name": "I Don't Dance",
+      "url": "https://open.spotify.com/track/1IJYxWXp3UFOgnZDnmH6y9"
     }
   ],
   "unique_name": "Happy Roadtrip",

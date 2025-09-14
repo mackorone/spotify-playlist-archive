@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,610 likes - 272 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,611 likes - 272 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 100 | [FLORIDA FLOW](https://open.spotify.com/track/5VIaKcmQyU9dt4DKN1NOlm) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [JACKBOYS 2](https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb) | 5:28 |
 | 101 | [Mercedes](https://open.spotify.com/track/5LPI0nfzndJ6mjGkCTDPNv) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [I Am Me](https://open.spotify.com/album/4pAz6zuQCyAXFGpVE1yhi6) | 2:01 |
 | 102 | [Stay Ur Distance \- Bonus](https://open.spotify.com/track/6guglW3GUtF0z7ecX79cHg) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [CM10: Free Game \(Deluxe\)](https://open.spotify.com/album/72iAwt0JTYutgyO8cDsSj6) | 2:47 |
-| 103 | [I'm Up](https://open.spotify.com/track/5zKlUZrOViLs7W0L5o1gPp) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Good Intentions \(Brown Boy 2 Deluxe Version\)](https://open.spotify.com/album/2kx4l1OQNT2JXLld9HJDIh) | 2:47 |
-| 104 | [DomeShuffle](https://open.spotify.com/track/6PnyMfUwWslSSnup9ug9BO) | [STMG DemGuyz](https://open.spotify.com/artist/0jieytrsm8GJJGwTTCAkkq) | [DomeShuffle](https://open.spotify.com/album/36ZiA6JeMcdcuc1uKfrO7m) | 3:54 |
+| 103 | [DomeShuffle](https://open.spotify.com/track/6PnyMfUwWslSSnup9ug9BO) | [STMG DemGuyz](https://open.spotify.com/artist/0jieytrsm8GJJGwTTCAkkq) | [DomeShuffle](https://open.spotify.com/album/36ZiA6JeMcdcuc1uKfrO7m) | 3:54 |
+| 104 | [I'm Up](https://open.spotify.com/track/5zKlUZrOViLs7W0L5o1gPp) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Good Intentions \(Brown Boy 2 Deluxe Version\)](https://open.spotify.com/album/2kx4l1OQNT2JXLld9HJDIh) | 2:47 |
 | 105 | [Amazing \(feat\. Future\)](https://open.spotify.com/track/4xyhmhurbsNC0cYaAgAxt1) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 2:18 |
 | 106 | [Gucci Flow](https://open.spotify.com/track/46flHVUXDhQQKkGOPrjNo5) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [So Icy Boyz: The Finale](https://open.spotify.com/album/5Rb7JdsT1IEITEMgUqcWq2) | 2:11 |
 | 107 | [Correct Me](https://open.spotify.com/track/5qQC8gBibGDBiJ8yV8w6zE) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Bet On Me](https://open.spotify.com/album/6TFMgR0C4F4ql0OkXSf9Fh) | 3:01 |
@@ -281,4 +281,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 271 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 |
 | 272 | [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 3:19 |
 
-Snapshot ID: `Ab8DvgAAAAAKlRH66j0c3xn/xKGhrID7`
+Snapshot ID: `Ab8JcgAAAAA8emxSxQxwwURnn8CBwIAD`

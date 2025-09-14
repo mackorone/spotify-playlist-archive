@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to sept-oct 2025",
-  "num_followers": 23262,
+  "num_followers": 23279,
   "original_name": "warmth, and red eyes",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAANEx19aLOqdmqwbh8PJEepcvYiXuDB",
+  "snapshot_id": "AAANFYgJDQ4qQ7S6LlFZMPYK1/X47iVJ",
   "tracks": [
     {
       "added_at": "2025-09-10 18:40:15",
@@ -267,6 +267,38 @@
       "duration_ms": 89205,
       "name": "bloom",
       "url": "https://open.spotify.com/track/23SyRsEwgBsFs5fnr2mffZ"
+    },
+    {
+      "added_at": "2025-09-13 02:49:38",
+      "album": {
+        "name": "Welcome To The Cruise",
+        "url": "https://open.spotify.com/album/5S3tGTzTgNl45UJCIY7tNd"
+      },
+      "artists": [
+        {
+          "name": "Judie Tzuke",
+          "url": "https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3iyyhV6kIgzwzRu7gOjV7u"
+    },
+    {
+      "added_at": "2025-09-13 02:50:21",
+      "album": {
+        "name": "Mirage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 190377,
+      "name": "That's Alright - 2016 Remaster",
+      "url": "https://open.spotify.com/track/01Ad3YljWv9gfMVYpn6cL7"
     }
   ],
   "unique_name": "warmth, and red eyes",

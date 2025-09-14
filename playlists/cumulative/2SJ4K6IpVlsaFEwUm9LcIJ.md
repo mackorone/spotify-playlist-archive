@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-721 songs - 1 day 18 hr 28 min
+723 songs - 1 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Fool](https://open.spotify.com/track/60ffqfm2XFkdKeo8tp96ml) | [The Slaps](https://open.spotify.com/artist/4nNxZ9weXMeokvs9ohcmZl) | [Mudglimmer](https://open.spotify.com/album/6do71LE89y6Uqs4hVXbFH3) | 3:29 | 2024-11-17 | 2025-01-12 |
 | [For Marmish](https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 5:46 | 2025-07-03 | 2025-09-11 |
 | [For You](https://open.spotify.com/track/3ZPgyQzK9cwKMQzxDFiYRd) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [Then I Try Some More](https://open.spotify.com/album/0TrqwVnAcuTtGU7VcRJFiJ) | 2:07 | 2024-07-12 | 2024-09-08 |
+| [For You](https://open.spotify.com/track/3iyyhV6kIgzwzRu7gOjV7u) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Welcome To The Cruise](https://open.spotify.com/album/5S3tGTzTgNl45UJCIY7tNd) | 2:38 | 2025-09-13 |  |
 | [Forever](https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Forever](https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt) | 3:28 | 2024-01-30 | 2024-03-10 |
 | [Fourth of July](https://open.spotify.com/track/3AASTYWf8pLMdBj2ZIAMBx) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [This is Our Music](https://open.spotify.com/album/79JBh8OZRmvaC4ORkKB7ou) | 5:38 | 2024-05-24 | 2024-07-12 |
 | [Franz Kafka at the Zoo](https://open.spotify.com/track/6lapVjn3EjBGS5m2r17h0x) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Unknown Country](https://open.spotify.com/album/258ADCcHaA6gRgiM5JrbU2) | 1:58 | 2024-01-08 | 2024-03-10 |
@@ -610,6 +611,7 @@
 | [Tbtf](https://open.spotify.com/track/7Dha5Jw4EVQbFHe58pJ5AU) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Spirit If...](https://open.spotify.com/album/0MtuWHjHXAEwWimsMuEtZf) | 3:51 | 2024-06-17 | 2024-07-12 |
 | [Tea Or Coffee](https://open.spotify.com/track/4ZISwlHvOnn5zg9kHZmM7o) | [Gaze](https://open.spotify.com/artist/7nRXUCPuFbA0y7dGZ06Jlq) | [Shake the Pounce](https://open.spotify.com/album/3eMTYeAfSefi2vy5TTbB4Q) | 2:11 | 2024-05-29 | 2024-06-06 |
 | [Tell me I never knew that](https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Tell me I never knew that](https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW) | 4:39 | 2025-04-15 | 2025-05-09 |
+| [That's Alright \- 2016 Remaster](https://open.spotify.com/track/01Ad3YljWv9gfMVYpn6cL7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 3:10 | 2025-09-13 |  |
 | [The "Sweetest Girl"](https://open.spotify.com/track/2vHXzgaYSP0LNIOZTFx2FA) | [Scritti Politti](https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS) | [Early](https://open.spotify.com/album/32z2z8cxZ2bqU5eZbJdwI1) | 5:07 | 2025-01-14 | 2025-03-02 |
 | [The Beat Of Black Wings](https://open.spotify.com/track/2DyQKUqKUpOFV3Fs3ijW9Q) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 5:24 | 2024-03-25 | 2024-04-25 |
 | [The Beauty of the Duty](https://open.spotify.com/track/0G7ee8kSG4zjvxLF0BF6eU) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [Un\-American Activities](https://open.spotify.com/album/6BWJZfps9TMudDT2CL0UhI) | 2:40 | 2024-07-27 | 2024-09-08 |

@@ -1,6 +1,6 @@
 {
   "description": "Underground indie rock gems. Cover: Phantastic Ferniture",
-  "num_followers": 309306,
+  "num_followers": 309310,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAB2OPY+WgUiLH/LitAAaDippQRRC",
   "tracks": [
+    {
+      "added_at": "2025-09-12 04:00:25",
+      "album": {
+        "name": "Change My Mind / Dare To Fall In Love",
+        "url": "https://open.spotify.com/album/7bb6XYtPuE2YE86EwswEOS"
+      },
+      "artists": [
+        {
+          "name": "Phantastic Ferniture",
+          "url": "https://open.spotify.com/artist/6uHxXCSJUP50EgddL6eWNC"
+        }
+      ],
+      "duration_ms": 181393,
+      "name": "Change My Mind",
+      "url": "https://open.spotify.com/track/2bQcgUJSzCV48MJwPTnqFN"
+    },
     {
       "added_at": "2025-09-05 16:53:16",
       "album": {
@@ -71,6 +87,22 @@
       "duration_ms": 216266,
       "name": "(I Wanna) Be Your Girl",
       "url": "https://open.spotify.com/track/5TjPVnjkMzEUetVnA8jehV"
+    },
+    {
+      "added_at": "2025-09-12 04:00:25",
+      "album": {
+        "name": "In Motion",
+        "url": "https://open.spotify.com/album/6MiXLNfzYegqSRLGbnrZXt"
+      },
+      "artists": [
+        {
+          "name": "Junaco",
+          "url": "https://open.spotify.com/artist/6Q3I3yOdG7MhwX6BCWiu0e"
+        }
+      ],
+      "duration_ms": 232108,
+      "name": "Time to Run",
+      "url": "https://open.spotify.com/track/6jHXmArwmV8nbUBXSv4tzI"
     },
     {
       "added_at": "2025-09-05 16:53:16",
@@ -1083,38 +1115,6 @@
       "duration_ms": 203840,
       "name": "bus stop",
       "url": "https://open.spotify.com/track/4JjJoKsFOtR9rvaYMzVXW8"
-    },
-    {
-      "added_at": "2025-08-22 04:00:30",
-      "album": {
-        "name": "Can't Thank You Enough",
-        "url": "https://open.spotify.com/album/68H4VJRurcGNKin36Zt4Qg"
-      },
-      "artists": [
-        {
-          "name": "Creative Writing",
-          "url": "https://open.spotify.com/artist/4Sfo6fx6HtWfbdroFZHiXz"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Can't Thank You Enough",
-      "url": "https://open.spotify.com/track/7E48Io3GNay3N7PpFO7cQP"
-    },
-    {
-      "added_at": "2025-08-22 04:00:30",
-      "album": {
-        "name": "Punching Up",
-        "url": "https://open.spotify.com/album/46URcwbxXPLxI6ATPCHnBt"
-      },
-      "artists": [
-        {
-          "name": "Garage Sale",
-          "url": "https://open.spotify.com/artist/5mKieFMfRUdzfTKG1FtOXu"
-        }
-      ],
-      "duration_ms": 203861,
-      "name": "Punching Up",
-      "url": "https://open.spotify.com/track/32Xt9yW9HLdMTtUpMooCr0"
     },
     {
       "added_at": "2025-08-22 04:00:30",

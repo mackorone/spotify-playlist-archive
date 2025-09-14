@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 1560,
+  "num_followers": 1562,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "CIRCLES",
-        "url": "https://open.spotify.com/album/35GLnwRLlCO2YY3x0WsfpD"
-      },
-      "artists": [
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
-        }
-      ],
-      "duration_ms": 274053,
-      "name": "CIRCLES",
-      "url": "https://open.spotify.com/track/4T0RHYd7PAZgCP7opCDI3l"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Desert",
         "url": "https://open.spotify.com/album/3J55fcmO15upttdki07D9U"
       },
@@ -643,18 +627,34 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Memories In Flight",
-        "url": "https://open.spotify.com/album/581T6Mw7jPP4IGgFDrQAfE"
+        "name": "CIRCLES",
+        "url": "https://open.spotify.com/album/35GLnwRLlCO2YY3x0WsfpD"
       },
       "artists": [
         {
-          "name": "Sampology",
-          "url": "https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ"
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
         }
       ],
-      "duration_ms": 229399,
-      "name": "Memories In Flight",
-      "url": "https://open.spotify.com/track/0c2mirf2nzleq4ctZ5vFKx"
+      "duration_ms": 274053,
+      "name": "CIRCLES",
+      "url": "https://open.spotify.com/track/4T0RHYd7PAZgCP7opCDI3l"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Poly 61",
+        "url": "https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "duration_ms": 273300,
+      "name": "Poly 61",
+      "url": "https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Poly 61",
-        "url": "https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H"
+        "name": "Memories In Flight",
+        "url": "https://open.spotify.com/album/581T6Mw7jPP4IGgFDrQAfE"
       },
       "artists": [
         {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+          "name": "Sampology",
+          "url": "https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ"
         }
       ],
-      "duration_ms": 273300,
-      "name": "Poly 61",
-      "url": "https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU"
+      "duration_ms": 229399,
+      "name": "Memories In Flight",
+      "url": "https://open.spotify.com/track/0c2mirf2nzleq4ctZ5vFKx"
     },
     {
       "added_at": "2023-08-31 14:00:00",

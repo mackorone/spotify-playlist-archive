@@ -939,6 +939,24 @@
     },
     {
       "album": {
+        "name": "The Clip",
+        "url": "https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i"
+      },
+      "artists": [
+        {
+          "name": "Hockey Dad",
+          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165346,
+      "name": "Barn Boiler",
+      "url": "https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc"
+    },
+    {
+      "album": {
         "name": "Bat House",
         "url": "https://open.spotify.com/album/2Srf4Q1lp5VDXZHzsLhdgQ"
       },
@@ -6170,7 +6188,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 222666,
       "name": "Highway Man",
       "url": "https://open.spotify.com/track/4eAXBJOQjxZV14Su1G8QhC"
@@ -7204,7 +7222,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 173600,
       "name": "It Will Get Worse",
       "url": "https://open.spotify.com/track/7fk5buzd6JTrRouvR1Qvuq"
@@ -11295,6 +11313,24 @@
     },
     {
       "album": {
+        "name": "Salsa Verde",
+        "url": "https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204704,
+      "name": "Salsa Verde",
+      "url": "https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l"
+    },
+    {
+      "album": {
         "name": "Same Difference",
         "url": "https://open.spotify.com/album/4KkYMIEwXR8QthqLAW0Kdb"
       },
@@ -14127,6 +14163,24 @@
     },
     {
       "album": {
+        "name": "Used To Be Your Girlfriend",
+        "url": "https://open.spotify.com/album/1DmjTFdOH7owc0tnL2Z0Tk"
+      },
+      "artists": [
+        {
+          "name": "Picture Parlour",
+          "url": "https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206764,
+      "name": "Used To Be Your Girlfriend",
+      "url": "https://open.spotify.com/track/0GwLnJlGKzhNHF7SzQnvOg"
+    },
+    {
+      "album": {
         "name": "Used To It",
         "url": "https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR"
       },
@@ -14412,7 +14466,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 318652,
       "name": "Warm Storm",
       "url": "https://open.spotify.com/track/0va5q7JGNX9nIR1gvm3wwX"

@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: kurayamisaka
 
-1,376 songs - 3 day 18 hr 22 min
+1,377 songs - 3 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [CHAMPiONS](https://open.spotify.com/track/25DKLVXbY747FnWBpum6k5) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [CHAMPiONS](https://open.spotify.com/album/1tgzTFdkXKzMhZhsHZs0PD) | 4:01 | 2025-02-18 | 2025-04-02 |
 | [Change and Vanish](https://open.spotify.com/track/6E0Dz2xGBjK5XdnViJ0jYg) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Change and Vanish](https://open.spotify.com/album/0yOLK8giK4aXxk1Lv3d3ne) | 3:49 | 2023-02-21 | 2023-04-16 |
 | [Channeling lurking demons](https://open.spotify.com/track/7pJZeXJAE5AxFKya5VHyV6) | [Violent Magic Orchestra](https://open.spotify.com/artist/5t2YzgwFxf0RH68rlh0sxw) | [Channeling lurking demons](https://open.spotify.com/album/0uaT7pb6rDecaxENpMjnMR) | 4:03 | 2025-04-01 | 2025-04-09 |
-| [Chasing Shadows](https://open.spotify.com/track/2KzPlIJdel4ObXJBDqcFOk) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Chasing Shadows](https://open.spotify.com/album/3DU6iVhXE99QOPKpmTW4RQ) | 3:47 | 2025-08-05 |  |
+| [CHASING SHADOWS](https://open.spotify.com/track/2KzPlIJdel4ObXJBDqcFOk) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Chasing Shadows](https://open.spotify.com/album/3DU6iVhXE99QOPKpmTW4RQ) | 3:47 | 2025-08-05 |  |
 | [Chatbot Baby](https://open.spotify.com/track/5pFxMMuDiSRLrWV7RKG78k) | [Buffalo Daughter](https://open.spotify.com/artist/66UBlnqgUCqDlalQXK8Nby) | [Chatbot Baby](https://open.spotify.com/album/3ZkXsyroPq7JFbtt0GLQfv) | 4:11 | 2023-05-16 | 2023-06-07 |
 | [Cheep Hero](https://open.spotify.com/track/6rQOoCmuWJqSUuvpPN2bpu) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [4EVER](https://open.spotify.com/album/5QQ45cQC6Ra4QvW4i5NVnS) | 2:51 | 2025-01-21 | 2025-02-19 |
 | [CHELSEA](https://open.spotify.com/track/4MmBxyUuriLeyMadtKSPE9) | [SHERBETS](https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9) | [Same](https://open.spotify.com/album/2mtBzPqV6lOooeyUXMUdiA) | 2:48 | 2022-06-02 | 2022-06-05 |
@@ -847,7 +847,7 @@
 | [Zetsubou Billy](https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [Bu\-ikikaesu](https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K) | 3:44 | 2024-04-23 | 2025-08-02 |
 | [zutto love song](https://open.spotify.com/track/5sotruxtVBUsYrmnRvRhgW) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [zutto love song](https://open.spotify.com/album/3emgAsjS97UgKw0MuxTO2W) | 3:32 | 2025-08-26 |  |
 | [○か×](https://open.spotify.com/track/2VbxCJgAXOYcf5ashGYuHh) | [Kazuya Yoshii](https://open.spotify.com/artist/4tgnOBWTNWUtp3uhUiLCkj) | [○か×](https://open.spotify.com/album/0Ew3ozhOSJz96Np4YTWPXB) | 3:51 | 2022-05-12 | 2022-07-26 |
-| [あいつら全員同窓会](https://open.spotify.com/track/2VIK6jaaKghS4QPHr6sAkv) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [あいつら全員同窓会](https://open.spotify.com/album/3JV0AKw3HatCzJgSEDq450) | 4:14 | 2024-04-23 |  |
+| [あいつら全員同窓会](https://open.spotify.com/track/2VIK6jaaKghS4QPHr6sAkv) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [あいつら全員同窓会](https://open.spotify.com/album/3JV0AKw3HatCzJgSEDq450) | 4:14 | 2024-04-23 | 2025-09-14 |
 | [あおにもどる](https://open.spotify.com/track/46lu106wmysXsOp6zDw1UC) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [BLUE](https://open.spotify.com/album/20AsUOZVegUSO3JC2oTZVb) | 6:08 | 2025-03-04 | 2025-04-02 |
 | [あなたがどこかで](https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK) | [Anzen Chitai](https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC) | [あなたがどこかで](https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF) | 4:40 | 2022-07-19 | 2022-08-17 |
 | [あなたが毎日直面している 世界の憂鬱](https://open.spotify.com/track/6IcwVnM9zRuibPqH1aFnTm) | [SOPHIA](https://open.spotify.com/artist/5DppQgaMuyzR2ea5t9DOcK) | [あなたが毎日直面している 世界の憂鬱](https://open.spotify.com/album/0JNZLaNLwNmwLikCzJcdP0) | 3:28 | 2023-10-10 | 2023-10-18 |
@@ -953,6 +953,7 @@
 | [オートクチュール](https://open.spotify.com/track/57y16YFgicFBtzCnNVSrzk) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [オートクチュール](https://open.spotify.com/album/4pG489P1bIuHFYLpDmkowT) | 3:17 | 2022-05-12 | 2022-07-24 |
 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 | 2023-07-04 |  |
 | [カヨコ](https://open.spotify.com/track/05QKC25nXuMkjucXFlBvyk) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [カヨコ](https://open.spotify.com/album/4FMDJwUfNnBU1qku3DyXgI) | 4:02 | 2022-05-10 | 2022-05-27 |
+| [カルチャー](https://open.spotify.com/track/6lM8TkGnjBwijnAcM9sJlp) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [カルチャー](https://open.spotify.com/album/22yg77xzNQlpZtFsKG3vdv) | 2:58 | 2025-09-09 |  |
 | [ガッツだぜ!! V](https://open.spotify.com/track/1l1sKGhllHsrEb0Ge6f9os) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [ズ盤](https://open.spotify.com/album/5wYoY3kT3f1c0AdT7VSmoX) | 4:00 | 2022-05-24 | 2022-07-14 |
 | [キミシダイ列車](https://open.spotify.com/track/0a5rZP8sYdlvBRVmcNovyC) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [残響リファレンス](https://open.spotify.com/album/46tySm112BCkEkfssfPODv) | 4:14 | 2024-09-26 |  |
 | [キラーチューン](https://open.spotify.com/track/7bDgXhmpzHjvWx4qrtFaDS) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [娯楽\(バラエティ\)](https://open.spotify.com/album/3lppsAthiV8VkNYwTPJBRp) | 3:42 | 2023-09-05 | 2024-02-06 |

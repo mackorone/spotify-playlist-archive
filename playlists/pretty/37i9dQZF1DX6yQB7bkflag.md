@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Kali Uchis, Ravyn Lenae
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,860 likes - 117 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,857 likes - 117 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 82 | [UP ALL NITE \(Feat\. SUMIN\)](https://open.spotify.com/track/403TlzPjfgom5QGWX11FCw) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [FANG](https://open.spotify.com/album/5LPzhS5QHGdIMcZ8Bk1oWq) | 3:06 |
 | 83 | [The Suburbs](https://open.spotify.com/track/1RtBcv6qFWBiKfVWfP7gHX) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [The Suburbs](https://open.spotify.com/album/5DNXxlpEJF20jnQsFFTfmg) | 3:08 |
 | 84 | [Tak Secinta Itu](https://open.spotify.com/track/4PR85M8Le8SBr4fU7CCadz) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Tak Secinta Itu](https://open.spotify.com/album/6l4mo22pd6Mxxq2rViRGOQ) | 4:01 |
-| 85 | [Menarilah dengan Jiwamu](https://open.spotify.com/track/64AhTEtMOkiTPybwkuv7TY) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Menarilah dengan Jiwamu](https://open.spotify.com/album/2LGwwFntQoPzu17MlS2QvE) | 4:34 |
+| 85 | [Menarilah dengan Jiwamu](https://open.spotify.com/track/64AhTEtMOkiTPybwkuv7TY) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Mamiu](https://open.spotify.com/album/2LGwwFntQoPzu17MlS2QvE) | 4:34 |
 | 86 | [Rumah Terakhir](https://open.spotify.com/track/2RYTOchHmp7oqhUva7wpvD) | [Aldy Amis](https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V), [eńau](https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u) | [Rumah Terakhir](https://open.spotify.com/album/20cjU6B2kkUlLY0Rw7MCYo) | 4:21 |
 | 87 | [oh to be loved](https://open.spotify.com/track/7wR4drNkIHfT3JkDbL5jIg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be loved](https://open.spotify.com/album/5cF4Ayv8e7RDvHQXZVUmhj) | 3:45 |
 | 88 | [Drum Show](https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drum Show](https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo) | 3:23 |

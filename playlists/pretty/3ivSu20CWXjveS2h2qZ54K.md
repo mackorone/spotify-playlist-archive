@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,857 likes - 85 songs - 4 hr 45 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,856 likes - 85 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 52 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 |
 | 53 | [GOLDTOOTH \(feat\. Blaqbonez\)](https://open.spotify.com/track/4Rhwm8YXBJ1cX6LGLzq7l4) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [GOLDTOOTH \(feat\. Blaqbonez\)](https://open.spotify.com/album/3tpHFtP8V65CUVLMYCe4dY) | 2:25 |
 | 54 | [AP Freestyle](https://open.spotify.com/track/6s0omAiJpLcMWdbCCJbG6s) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [AP Freestyle](https://open.spotify.com/album/3NDWj9V9tP41LSc1JyE3c7) | 1:58 |
-| 55 | [Unconditional](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Unconditional](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
+| 55 | [UNCONDITIONAL](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [UNCONDITIONAL](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
 | 56 | [Aura](https://open.spotify.com/track/5vtZTLyLMkIHsAUuSVnzg2) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS), [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Diaspora Dance Music](https://open.spotify.com/album/32U6tpk6aNinHdFEhDnHGl) | 2:38 |
 | 57 | [Petals](https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 2:53 |
 | 58 | [Mockingjay](https://open.spotify.com/track/22hjpM2j5KWg7zNyve4T1g) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Mockingjay](https://open.spotify.com/album/2vuLW3TUCDbcikyzgITy6o) | 3:01 |

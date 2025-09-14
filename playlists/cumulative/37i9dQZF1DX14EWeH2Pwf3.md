@@ -2,7 +2,7 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> Sfera e Shiva in cover \- SMG, One Night Only a Milano\. Ci vediamo al concerto? 🔥
+> Sfera e Shiva in cover \- SMG, One Night Only a Milano\. Ci vediamo al concerto sabato? 🔥
 
 859 songs - 1 day 17 hr 55 min
 

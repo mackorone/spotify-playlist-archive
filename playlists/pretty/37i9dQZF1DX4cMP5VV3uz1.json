@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 165464,
+  "num_followers": 165467,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC2gUa9kJ51c5f/UFtLsOh2Su984",
+  "snapshot_id": "AAAAALZ/SAoyAPPNxfM8vv9auBP4HS+1",
   "tracks": [
     {
       "added_at": "2025-08-28 23:00:37",
@@ -391,6 +391,26 @@
     {
       "added_at": "2025-08-28 23:00:37",
       "album": {
+        "name": "Interstellar",
+        "url": "https://open.spotify.com/album/6c2lgEoa6569HdwpGghy5C"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/6ElhC5DxYjhCzhjtrn3GUU"
+    },
+    {
+      "added_at": "2025-08-28 23:00:37",
+      "album": {
         "name": "Gas",
         "url": "https://open.spotify.com/album/3X9a2fO7SiOsTxzXpOG98S"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 186751,
       "name": "Gas",
       "url": "https://open.spotify.com/track/2sJKDHPYn5lZmVQhhMoStI"
-    },
-    {
-      "added_at": "2025-08-28 23:00:37",
-      "album": {
-        "name": "Interstellar",
-        "url": "https://open.spotify.com/album/6c2lgEoa6569HdwpGghy5C"
-      },
-      "artists": [
-        {
-          "name": "Friction",
-          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
-        },
-        {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/6ElhC5DxYjhCzhjtrn3GUU"
     },
     {
       "added_at": "2025-08-28 23:00:37",
@@ -627,6 +627,26 @@
     {
       "added_at": "2025-08-28 23:00:37",
       "album": {
+        "name": "Badman Talk",
+        "url": "https://open.spotify.com/album/6JXpd9RqKGRUKbYYmgL1ND"
+      },
+      "artists": [
+        {
+          "name": "Basslayerz",
+          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
+        },
+        {
+          "name": "Born On Road",
+          "url": "https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "Badman Talk",
+      "url": "https://open.spotify.com/track/26Culai82bJKYjljJcncdp"
+    },
+    {
+      "added_at": "2025-08-28 23:00:37",
+      "album": {
         "name": "NOBU",
         "url": "https://open.spotify.com/album/7ATcVnfZiGPVcuvW0xHQVn"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 193103,
       "name": "MOTION",
       "url": "https://open.spotify.com/track/3zOHSTVeWT8qwTESyFdZoy"
-    },
-    {
-      "added_at": "2025-08-28 23:00:37",
-      "album": {
-        "name": "Badman Talk",
-        "url": "https://open.spotify.com/album/6JXpd9RqKGRUKbYYmgL1ND"
-      },
-      "artists": [
-        {
-          "name": "Basslayerz",
-          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
-        },
-        {
-          "name": "Born On Road",
-          "url": "https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "Badman Talk",
-      "url": "https://open.spotify.com/track/26Culai82bJKYjljJcncdp"
     },
     {
       "added_at": "2025-08-28 23:00:37",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-08-28 23:00:37",
       "album": {
+        "name": "Bodybag",
+        "url": "https://open.spotify.com/album/2yuXJrAl2fv23yrONBcHwB"
+      },
+      "artists": [
+        {
+          "name": "Modestep",
+          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+        }
+      ],
+      "duration_ms": 215481,
+      "name": "Bodybag",
+      "url": "https://open.spotify.com/track/7vEGUcKdEVNM7kbm8bnPF7"
+    },
+    {
+      "added_at": "2025-08-28 23:00:37",
+      "album": {
         "name": "Do It Like Me",
         "url": "https://open.spotify.com/album/7paw1JVXaUnUjd35ojHwb8"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 182683,
       "name": "Do It Like Me",
       "url": "https://open.spotify.com/track/7JXxPzRxLhN9V1NJJw20TH"
-    },
-    {
-      "added_at": "2025-08-28 23:00:37",
-      "album": {
-        "name": "Bodybag",
-        "url": "https://open.spotify.com/album/2yuXJrAl2fv23yrONBcHwB"
-      },
-      "artists": [
-        {
-          "name": "Modestep",
-          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
-        }
-      ],
-      "duration_ms": 215481,
-      "name": "Bodybag",
-      "url": "https://open.spotify.com/track/7vEGUcKdEVNM7kbm8bnPF7"
     },
     {
       "added_at": "2025-08-28 23:00:37",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-08-28 23:00:37",
       "album": {
+        "name": "Pelican",
+        "url": "https://open.spotify.com/album/4RSP3GwgUEidQYbGF870D8"
+      },
+      "artists": [
+        {
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Pelican",
+      "url": "https://open.spotify.com/track/3vrdgIcTToKlIeakWuAOcy"
+    },
+    {
+      "added_at": "2025-08-28 23:00:37",
+      "album": {
         "name": "Born Again",
         "url": "https://open.spotify.com/album/0FEnXxXa9qM9GJaL4o69SD"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 200423,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/2ehJK0PvxALIbdFtVAFfAV"
-    },
-    {
-      "added_at": "2025-08-28 23:00:37",
-      "album": {
-        "name": "Pelican",
-        "url": "https://open.spotify.com/album/4RSP3GwgUEidQYbGF870D8"
-      },
-      "artists": [
-        {
-          "name": "Rohaan",
-          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Pelican",
-      "url": "https://open.spotify.com/track/3vrdgIcTToKlIeakWuAOcy"
     },
     {
       "added_at": "2025-08-28 23:00:37",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-08-28 23:00:37",
       "album": {
-        "name": "Last Verse",
-        "url": "https://open.spotify.com/album/7IFgUpIGDSNIGv85Jh5yxc"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        }
-      ],
-      "duration_ms": 313500,
-      "name": "Last Verse",
-      "url": "https://open.spotify.com/track/7BtvCweEjy5aYPKL9NtLWj"
-    },
-    {
-      "added_at": "2025-08-28 23:00:37",
-      "album": {
         "name": "This Is Goodbye",
         "url": "https://open.spotify.com/album/2xXQWmPGktx6jyh22RGEmq"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 219428,
       "name": "This Is Goodbye",
       "url": "https://open.spotify.com/track/6gkQQhUt1VaHmWz2WpOPxh"
+    },
+    {
+      "added_at": "2025-08-28 23:00:37",
+      "album": {
+        "name": "Last Verse",
+        "url": "https://open.spotify.com/album/7IFgUpIGDSNIGv85Jh5yxc"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        }
+      ],
+      "duration_ms": 313500,
+      "name": "Last Verse",
+      "url": "https://open.spotify.com/track/7BtvCweEjy5aYPKL9NtLWj"
     },
     {
       "added_at": "2025-08-28 23:00:37",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-08-28 23:00:37",
       "album": {
-        "name": "Old School",
-        "url": "https://open.spotify.com/album/7Moh1CwiKkoFwm6R4nVfnV"
-      },
-      "artists": [
-        {
-          "name": "Rameses B",
-          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
-        }
-      ],
-      "duration_ms": 162068,
-      "name": "Old School",
-      "url": "https://open.spotify.com/track/4PJ2d3KGZ0goovJMHOpxwr"
-    },
-    {
-      "added_at": "2025-08-28 23:00:37",
-      "album": {
         "name": "West Connect",
         "url": "https://open.spotify.com/album/4A4Ab2OjKIVvelyAs2apOz"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 178014,
       "name": "Addressed",
       "url": "https://open.spotify.com/track/0Z22AV09GTFMhlDXp0ulWy"
+    },
+    {
+      "added_at": "2025-08-28 23:00:37",
+      "album": {
+        "name": "Old School",
+        "url": "https://open.spotify.com/album/7Moh1CwiKkoFwm6R4nVfnV"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        }
+      ],
+      "duration_ms": 162068,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/4PJ2d3KGZ0goovJMHOpxwr"
     },
     {
       "added_at": "2025-08-28 23:00:37",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2025-08-28 23:00:37",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/0rCsWD9BEuZ0f1B30WAFyM"
-      },
-      "artists": [
-        {
-          "name": "Jamezy",
-          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
-        }
-      ],
-      "duration_ms": 180862,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/3A46AtPYhGUejVm1ooJurs"
-    },
-    {
-      "added_at": "2025-08-28 23:00:37",
-      "album": {
         "name": "Loud Enuff",
         "url": "https://open.spotify.com/album/25qNcSGObLXHH3xu76ZmPR"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 177977,
       "name": "Loud Enuff",
       "url": "https://open.spotify.com/track/10sy3wFzQSZGUyFZ60quBP"
+    },
+    {
+      "added_at": "2025-08-28 23:00:37",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/0rCsWD9BEuZ0f1B30WAFyM"
+      },
+      "artists": [
+        {
+          "name": "Jamezy",
+          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
+        }
+      ],
+      "duration_ms": 180862,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/3A46AtPYhGUejVm1ooJurs"
     },
     {
       "added_at": "2025-08-28 23:00:37",

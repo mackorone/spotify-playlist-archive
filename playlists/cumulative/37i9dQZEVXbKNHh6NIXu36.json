@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 131924,
       "name": "3 Uhr Nachts",
       "url": "https://open.spotify.com/track/3UYxIENAasKz3LVwOnTeLX"
@@ -10461,6 +10461,24 @@
     },
     {
       "album": {
+        "name": "Play (Extended Edition)",
+        "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215511,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
+    },
+    {
+      "album": {
         "name": "Camilla",
         "url": "https://open.spotify.com/album/4MGZL6LTZHQYWM1tFGPDMS"
       },
@@ -10626,7 +10644,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 119244,
       "name": "Capri Sun",
       "url": "https://open.spotify.com/track/6KtocJ4pw4vO32T6OXRvqz"
@@ -11584,6 +11602,24 @@
       "duration_ms": 195480,
       "name": "City nach City",
       "url": "https://open.spotify.com/track/2zNZyica9PueXijVVx1cEr"
+    },
+    {
+      "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322066,
+      "name": "City Walls",
+      "url": "https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb"
     },
     {
       "album": {
@@ -12944,7 +12980,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -13417,6 +13453,32 @@
     },
     {
       "album": {
+        "name": "Daytona",
+        "url": "https://open.spotify.com/album/5Z4MoX4CpiFQI7M9mH5S5e"
+      },
+      "artists": [
+        {
+          "name": "Aymo",
+          "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211725,
+      "name": "Daytona",
+      "url": "https://open.spotify.com/track/6lmXLltCYZciRhKFNPofCo"
+    },
+    {
+      "album": {
         "name": "So Close To What",
         "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
       },
@@ -13834,7 +13896,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 104431,
       "name": "Devil in Disguise",
       "url": "https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw"
@@ -16490,7 +16552,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 142462,
       "name": "Einmal um die Welt",
       "url": "https://open.spotify.com/track/6gQAyT7B7cYGTRBOiFdQUS"
@@ -17028,6 +17090,24 @@
       "duration_ms": 144386,
       "name": "Erster Song",
       "url": "https://open.spotify.com/track/02VNbURaEjAUZ8L5BlfiXl"
+    },
+    {
+      "album": {
+        "name": "erstersommerohnedich",
+        "url": "https://open.spotify.com/album/2KOoc1rqO8WYrDWI1FUFDV"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154741,
+      "name": "erstersommerohnedich",
+      "url": "https://open.spotify.com/track/0Bf7Lc7d6gE3xUDCePUvV7"
     },
     {
       "album": {
@@ -24704,7 +24784,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
@@ -25935,6 +26015,28 @@
     },
     {
       "album": {
+        "name": "Immer",
+        "url": "https://open.spotify.com/album/33Yvnfe9qp3GRN7pMdUnk9"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159404,
+      "name": "Immer",
+      "url": "https://open.spotify.com/track/7uIhcRg6ia0S9z1UzCl0Qc"
+    },
+    {
+      "album": {
         "name": "Wilmersdorfs Kind",
         "url": "https://open.spotify.com/album/7nXtCEr6XwIstTNFIsO9t4"
       },
@@ -26208,7 +26310,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 216800,
       "name": "In the End",
       "url": "https://open.spotify.com/track/3tSmXSxaAnU1EPGKa6NytH"
@@ -26226,7 +26328,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
@@ -27404,7 +27506,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
@@ -38488,7 +38590,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 145652,
       "name": "OCEAN",
       "url": "https://open.spotify.com/track/765HA23qRUBVx6kLz2P9Aq"
@@ -41545,6 +41647,24 @@
     },
     {
       "album": {
+        "name": "Pole Position",
+        "url": "https://open.spotify.com/album/363EXqb8TO4SsY1XqR8Kfn"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171089,
+      "name": "Pole Position",
+      "url": "https://open.spotify.com/track/2mW3KRKLCR2jshXKaot4EL"
+    },
+    {
+      "album": {
         "name": "Polizei",
         "url": "https://open.spotify.com/album/4HfUAIcfEIhKjPXDiGavqH"
       },
@@ -44190,7 +44310,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 129967,
       "name": "ROSSI",
       "url": "https://open.spotify.com/track/21cPFi4NI17Cql3typCawA"
@@ -45208,6 +45328,24 @@
       "duration_ms": 179082,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
+    },
+    {
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179082,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/7HXUFIILHAhS6esiRy5Ibz"
     },
     {
       "album": {
@@ -49980,7 +50118,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -54400,7 +54538,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 138032,
       "name": "Unsicher",
       "url": "https://open.spotify.com/track/2GN2pbQi4Yz7Qp99Wbp2vZ"
@@ -55034,6 +55172,28 @@
       "duration_ms": 161557,
       "name": "Verliebt",
       "url": "https://open.spotify.com/track/5AcVJGTTLGM78ncDcFsNuf"
+    },
+    {
+      "album": {
+        "name": "VERLIEBT IN MICH",
+        "url": "https://open.spotify.com/album/1mgjUkBHhJLQlrcxtC3QOX"
+      },
+      "artists": [
+        {
+          "name": "FAYAN",
+          "url": "https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF"
+        },
+        {
+          "name": "Dalton",
+          "url": "https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129982,
+      "name": "VERLIEBT IN MICH",
+      "url": "https://open.spotify.com/track/1XZK1B904mtFv1Ze3Rgeg2"
     },
     {
       "album": {
@@ -55764,7 +55924,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 168801,
       "name": "Wackelkontakt",
       "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"

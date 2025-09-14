@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 33595,
+  "num_followers": 33600,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-09-12 13:11:23",
       "album": {
+        "name": "Puerta Abierta",
+        "url": "https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "duration_ms": 171788,
+      "name": "Puerta Abierta",
+      "url": "https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC"
+    },
+    {
+      "added_at": "2025-09-12 13:11:23",
+      "album": {
         "name": "RE$FRIADO",
         "url": "https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 203506,
       "name": "Baila el Funk",
       "url": "https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0"
-    },
-    {
-      "added_at": "2025-09-12 13:11:23",
-      "album": {
-        "name": "Puerta Abierta",
-        "url": "https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ"
-      },
-      "artists": [
-        {
-          "name": "DARUMAS",
-          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
-        }
-      ],
-      "duration_ms": 171788,
-      "name": "Puerta Abierta",
-      "url": "https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC"
     },
     {
       "added_at": "2025-09-12 13:11:23",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-09-12 13:11:23",
       "album": {
-        "name": "Groovin' Bohemia",
-        "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
-      },
-      "artists": [
-        {
-          "name": "Groovin' Bohemia",
-          "url": "https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1"
-        }
-      ],
-      "duration_ms": 445089,
-      "name": "Ameba",
-      "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
-    },
-    {
-      "added_at": "2025-09-12 13:11:23",
-      "album": {
         "name": "Tony 70",
         "url": "https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 233373,
       "name": "Simon Freak",
       "url": "https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr"
+    },
+    {
+      "added_at": "2025-09-12 13:11:23",
+      "album": {
+        "name": "Groovin' Bohemia",
+        "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
+      },
+      "artists": [
+        {
+          "name": "Groovin' Bohemia",
+          "url": "https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1"
+        }
+      ],
+      "duration_ms": 445089,
+      "name": "Ameba",
+      "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
     },
     {
       "added_at": "2025-09-12 13:11:23",
@@ -1019,38 +1019,6 @@
     {
       "added_at": "2025-09-12 13:11:23",
       "album": {
-        "name": "Clover",
-        "url": "https://open.spotify.com/album/5BPFjfOxGzEo7z8Ttd9g31"
-      },
-      "artists": [
-        {
-          "name": "Cami Brooks",
-          "url": "https://open.spotify.com/artist/0umsL7xYMs6A9SOaarE93x"
-        }
-      ],
-      "duration_ms": 226871,
-      "name": "Clover",
-      "url": "https://open.spotify.com/track/5po0wdASiFRcFUXydOEKye"
-    },
-    {
-      "added_at": "2025-09-12 13:11:23",
-      "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 236858,
-      "name": "Alergica",
-      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
-    },
-    {
-      "added_at": "2025-09-12 13:11:23",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
       },
@@ -1071,6 +1039,38 @@
     {
       "added_at": "2025-09-12 13:11:23",
       "album": {
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 236858,
+      "name": "Alergica",
+      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
+    },
+    {
+      "added_at": "2025-09-12 13:11:23",
+      "album": {
+        "name": "Clover",
+        "url": "https://open.spotify.com/album/5BPFjfOxGzEo7z8Ttd9g31"
+      },
+      "artists": [
+        {
+          "name": "Cami Brooks",
+          "url": "https://open.spotify.com/artist/0umsL7xYMs6A9SOaarE93x"
+        }
+      ],
+      "duration_ms": 226871,
+      "name": "Clover",
+      "url": "https://open.spotify.com/track/5po0wdASiFRcFUXydOEKye"
+    },
+    {
+      "added_at": "2025-09-12 13:11:23",
+      "album": {
         "name": "Chicas on Fire - Single",
         "url": "https://open.spotify.com/album/19hyihRj65Z9jPhBAXaErH"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 240085,
       "name": "Chicas on Fire",
       "url": "https://open.spotify.com/track/1OJTHnR95k4N0mNfYYkoFB"
-    },
-    {
-      "added_at": "2025-09-12 13:11:23",
-      "album": {
-        "name": "LOVE BUSINESS",
-        "url": "https://open.spotify.com/album/5dXTa851mvVhUI4nnK7gaA"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "LOVE BUSINESS",
-      "url": "https://open.spotify.com/track/0vIXs6yeaiWxNiu3Rh59ym"
     },
     {
       "added_at": "2025-09-12 13:11:23",
@@ -1119,6 +1103,22 @@
       "duration_ms": 287639,
       "name": "Myselfed",
       "url": "https://open.spotify.com/track/5mp9xzoVJgpdHQTDkJz7r2"
+    },
+    {
+      "added_at": "2025-09-12 13:11:23",
+      "album": {
+        "name": "LOVE BUSINESS",
+        "url": "https://open.spotify.com/album/5dXTa851mvVhUI4nnK7gaA"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "LOVE BUSINESS",
+      "url": "https://open.spotify.com/track/0vIXs6yeaiWxNiu3Rh59ym"
     },
     {
       "added_at": "2025-09-12 13:11:23",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-09-12 13:11:23",
       "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
-      },
-      "artists": [
-        {
-          "name": "Goro Wins",
-          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Traffic (Groovin' de bondi)",
-      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
-    },
-    {
-      "added_at": "2025-09-12 13:11:23",
-      "album": {
         "name": "Sudamericano",
         "url": "https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 252120,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN"
+    },
+    {
+      "added_at": "2025-09-12 13:11:23",
+      "album": {
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
+      },
+      "artists": [
+        {
+          "name": "Goro Wins",
+          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Traffic (Groovin' de bondi)",
+      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
     },
     {
       "added_at": "2025-09-12 13:11:23",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2025-09-12 13:11:23",
       "album": {
+        "name": "Best Of Us",
+        "url": "https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH"
+      },
+      "artists": [
+        {
+          "name": "Ale Zurita",
+          "url": "https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq"
+        },
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 185024,
+      "name": "Best Of Us",
+      "url": "https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t"
+    },
+    {
+      "added_at": "2025-09-12 13:11:23",
+      "album": {
         "name": "Volverte a Ver",
         "url": "https://open.spotify.com/album/0vryHuywlY0re96fmjap4c"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 173112,
       "name": "Volverte a Ver",
       "url": "https://open.spotify.com/track/5eFwMCx6eYjMxMKIv0wYXL"
-    },
-    {
-      "added_at": "2025-09-12 13:11:23",
-      "album": {
-        "name": "Best Of Us",
-        "url": "https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH"
-      },
-      "artists": [
-        {
-          "name": "Ale Zurita",
-          "url": "https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq"
-        },
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 185024,
-      "name": "Best Of Us",
-      "url": "https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t"
     },
     {
       "added_at": "2025-09-12 13:11:23",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2025-09-12 13:11:23",
       "album": {
+        "name": "Sobrado",
+        "url": "https://open.spotify.com/album/1FOA8jYE6xy7EoezghqF6a"
+      },
+      "artists": [
+        {
+          "name": "Fugazza",
+          "url": "https://open.spotify.com/artist/3FxT0q5mh6vZoE8r3HR1th"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Sobrado",
+      "url": "https://open.spotify.com/track/6ZIyRHUA5KUoSGq4UrttIb"
+    },
+    {
+      "added_at": "2025-09-12 13:11:23",
+      "album": {
         "name": "Twice",
         "url": "https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 216249,
       "name": "Twice",
       "url": "https://open.spotify.com/track/3VKdesoESiJOCohefJctj3"
-    },
-    {
-      "added_at": "2025-09-12 13:11:23",
-      "album": {
-        "name": "Sobrado",
-        "url": "https://open.spotify.com/album/1FOA8jYE6xy7EoezghqF6a"
-      },
-      "artists": [
-        {
-          "name": "Fugazza",
-          "url": "https://open.spotify.com/artist/3FxT0q5mh6vZoE8r3HR1th"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "Sobrado",
-      "url": "https://open.spotify.com/track/6ZIyRHUA5KUoSGq4UrttIb"
     },
     {
       "added_at": "2025-09-12 13:11:23",

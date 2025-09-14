@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 115101,
+  "num_followers": 115107,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/11KfFiHZxXiBoEq52HAsJi"
+      },
+      "artists": [
+        {
+          "name": "Tarkan",
+          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "duration_ms": 262246,
+      "name": "A\u015fk",
+      "url": "https://open.spotify.com/track/02AO4xUN8MszyC1j4UpNkr"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
         "name": "Aldat\u0131ld\u0131k",
         "url": "https://open.spotify.com/album/2wr1SwiuPVivHQ2S7Bnv9s"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 186947,
       "name": "Aldat\u0131ld\u0131k",
       "url": "https://open.spotify.com/track/5E1gxNXvUGvpvUECz54xXm"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/11KfFiHZxXiBoEq52HAsJi"
-      },
-      "artists": [
-        {
-          "name": "Tarkan",
-          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
-        }
-      ],
-      "duration_ms": 262246,
-      "name": "A\u015fk",
-      "url": "https://open.spotify.com/track/02AO4xUN8MszyC1j4UpNkr"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
+        "name": "Kahrettim",
+        "url": "https://open.spotify.com/album/2NAz0dyteIeluVwHLaGG1b"
+      },
+      "artists": [
+        {
+          "name": "Mabel Matiz",
+          "url": "https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku"
+        }
+      ],
+      "duration_ms": 186172,
+      "name": "Kahrettim",
+      "url": "https://open.spotify.com/track/6oSiqvaLNJk8PWF9G7jGh8"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
         "name": "Yosun (Ayta\u00e7 Kart Remix)",
         "url": "https://open.spotify.com/album/742LXpIVetALHQnkHi1G31"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 218761,
       "name": "Yosun - Ayta\u00e7 Kart Remix",
       "url": "https://open.spotify.com/track/0UVorGN8jZe7RMgTq6RzXJ"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
-        "name": "Kahrettim",
-        "url": "https://open.spotify.com/album/2NAz0dyteIeluVwHLaGG1b"
-      },
-      "artists": [
-        {
-          "name": "Mabel Matiz",
-          "url": "https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku"
-        }
-      ],
-      "duration_ms": 186172,
-      "name": "Kahrettim",
-      "url": "https://open.spotify.com/track/6oSiqvaLNJk8PWF9G7jGh8"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -871,18 +871,18 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Kuzu Kuzu",
-        "url": "https://open.spotify.com/album/32fmr8WaoHl7XJXnlzyVyX"
+        "name": "Fatih",
+        "url": "https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf"
       },
       "artists": [
         {
-          "name": "Tarkan",
-          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          "name": "Mabel Matiz",
+          "url": "https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku"
         }
       ],
-      "duration_ms": 218933,
-      "name": "Kuzu Kuzu (Akustik Version)",
-      "url": "https://open.spotify.com/track/6dcCXXpoqvumthffl42A4t"
+      "duration_ms": 176170,
+      "name": "Dalga",
+      "url": "https://open.spotify.com/track/6uGpoWUxH4heqObDAMr4gU"
     }
   ],
   "unique_name": "K\u0131y\u0131 Boyu",

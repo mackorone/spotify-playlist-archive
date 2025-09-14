@@ -5716,7 +5716,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 178883,
       "name": "BELLA DAVVERO",
       "url": "https://open.spotify.com/track/4HDX2Orm48gaWCyg9F5ZAs"
@@ -12220,7 +12220,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 230922,
       "name": "CRUDELIA - I nervi",
       "url": "https://open.spotify.com/track/0xEgDBXYO9gGzmxCFWKxNg"
@@ -12396,7 +12396,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 148483,
       "name": "Cuore Rotto",
       "url": "https://open.spotify.com/track/2ESC4H0XPgf760cUIr2hnJ"
@@ -13472,7 +13472,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 185503,
       "name": "Destri",
       "url": "https://open.spotify.com/track/7nRFsITVaSHko2Fw2Gcy59"
@@ -27205,6 +27205,24 @@
     },
     {
       "album": {
+        "name": "Larry Hoover",
+        "url": "https://open.spotify.com/album/0h1lFD5K1MjHVPnEiUyTXK"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155287,
+      "name": "Larry Hoover",
+      "url": "https://open.spotify.com/track/7eScENac9mVHxi7kts5pBH"
+    },
+    {
+      "album": {
         "name": "Las Vegas",
         "url": "https://open.spotify.com/album/2hcaCrci37aiAtQrex4dNH"
       },
@@ -36796,7 +36814,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 162080,
       "name": "OGNI SBAGLIO (feat. BLANCO & Simba La Rue)",
       "url": "https://open.spotify.com/track/6f5bgjeiFQIRFzUOvKcmwv"
@@ -44658,6 +44676,24 @@
       "duration_ms": 227333,
       "name": "SENZA TEMPO (feat. Izi)",
       "url": "https://open.spotify.com/track/1NgWfYWI2bzBjBI0TsxvWU"
+    },
+    {
+      "album": {
+        "name": "Comuni Mortali",
+        "url": "https://open.spotify.com/album/1FZn7Fk6ntCejfamX5W9ov"
+      },
+      "artists": [
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179475,
+      "name": "Senza Una Stupida Storia",
+      "url": "https://open.spotify.com/track/214ReaHON1LuF8VvGRfdWM"
     },
     {
       "album": {
@@ -53518,7 +53554,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 180863,
       "name": "VVS CARTIER",
       "url": "https://open.spotify.com/track/3FrbT8aqk9xHtTfQc9Z3IR"

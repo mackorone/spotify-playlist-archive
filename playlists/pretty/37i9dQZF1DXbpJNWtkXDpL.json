@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Malcriada",
-  "num_followers": 92192,
+  "num_followers": 92196,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,26 @@
     {
       "added_at": "2025-09-11 00:17:05",
       "album": {
+        "name": "Obsesionado Contigo",
+        "url": "https://open.spotify.com/album/2Ok43A9PgC9F6pqHXp4UWV"
+      },
+      "artists": [
+        {
+          "name": "Billy Manhattan",
+          "url": "https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy"
+        },
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        }
+      ],
+      "duration_ms": 131608,
+      "name": "Obsesionado Contigo",
+      "url": "https://open.spotify.com/track/3Za44VMsjDNQJS2qUsFD54"
+    },
+    {
+      "added_at": "2025-09-11 00:17:05",
+      "album": {
         "name": "Bellako Loner Club",
         "url": "https://open.spotify.com/album/4cM9FzKuYIyD8kXakMLsbw"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 180679,
       "name": "Que pretendes",
       "url": "https://open.spotify.com/track/0FAqZhz6FO4SoNN5wSXgn1"
-    },
-    {
-      "added_at": "2025-09-11 00:17:05",
-      "album": {
-        "name": "Obsesionado Contigo",
-        "url": "https://open.spotify.com/album/2Ok43A9PgC9F6pqHXp4UWV"
-      },
-      "artists": [
-        {
-          "name": "Billy Manhattan",
-          "url": "https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy"
-        },
-        {
-          "name": "Eddy",
-          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
-        }
-      ],
-      "duration_ms": 131608,
-      "name": "Obsesionado Contigo",
-      "url": "https://open.spotify.com/track/3Za44VMsjDNQJS2qUsFD54"
     },
     {
       "added_at": "2025-09-11 00:17:05",
@@ -551,30 +551,6 @@
     {
       "added_at": "2025-09-11 00:17:05",
       "album": {
-        "name": "PU\u00d1OS PULSERAS Y PALETAS",
-        "url": "https://open.spotify.com/album/5tLfLxGmx7N71QBzmiCx58"
-      },
-      "artists": [
-        {
-          "name": "Kevis & Maykyy",
-          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
-        },
-        {
-          "name": "Chans",
-          "url": "https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG"
-        },
-        {
-          "name": "Fntwxy",
-          "url": "https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH"
-        }
-      ],
-      "duration_ms": 143529,
-      "name": "PU\u00d1OS PULSERAS Y PALETAS",
-      "url": "https://open.spotify.com/track/3ZSVSvD86WfSiKD6ubOygJ"
-    },
-    {
-      "added_at": "2025-09-11 00:17:05",
-      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/1mjSdq627mNj9Cc7aYjDoE"
       },
@@ -599,6 +575,30 @@
       "duration_ms": 181176,
       "name": "3 Chakas (Aferrados Al Culo)",
       "url": "https://open.spotify.com/track/6coYvVbQYPGlpNBInFvJXS"
+    },
+    {
+      "added_at": "2025-09-11 00:17:05",
+      "album": {
+        "name": "PU\u00d1OS PULSERAS Y PALETAS",
+        "url": "https://open.spotify.com/album/5tLfLxGmx7N71QBzmiCx58"
+      },
+      "artists": [
+        {
+          "name": "Kevis & Maykyy",
+          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
+        },
+        {
+          "name": "Chans",
+          "url": "https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG"
+        },
+        {
+          "name": "Fntwxy",
+          "url": "https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "PU\u00d1OS PULSERAS Y PALETAS",
+      "url": "https://open.spotify.com/track/3ZSVSvD86WfSiKD6ubOygJ"
     },
     {
       "added_at": "2025-09-11 00:17:05",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-09-11 00:17:05",
       "album": {
-        "name": "Hesitated",
-        "url": "https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp"
-      },
-      "artists": [
-        {
-          "name": "Jack Rabbit",
-          "url": "https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp"
-        }
-      ],
-      "duration_ms": 160426,
-      "name": "Hesitated",
-      "url": "https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP"
-    },
-    {
-      "added_at": "2025-09-11 00:17:05",
-      "album": {
         "name": "adondevamos??",
         "url": "https://open.spotify.com/album/7F766sekcvwWXK5YVp7eJf"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 231724,
       "name": "adondevamos??",
       "url": "https://open.spotify.com/track/7137vD0rMEEK3Qoy3G9Sp7"
+    },
+    {
+      "added_at": "2025-09-11 00:17:05",
+      "album": {
+        "name": "Hesitated",
+        "url": "https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp"
+      },
+      "artists": [
+        {
+          "name": "Jack Rabbit",
+          "url": "https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp"
+        }
+      ],
+      "duration_ms": 160426,
+      "name": "Hesitated",
+      "url": "https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP"
     },
     {
       "added_at": "2025-09-11 00:17:05",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-09-11 00:17:05",
       "album": {
-        "name": "ATIZALE",
-        "url": "https://open.spotify.com/album/0E6BnN3hk8Om51qM2vtmfv"
-      },
-      "artists": [
-        {
-          "name": "Refugee",
-          "url": "https://open.spotify.com/artist/65GZg7V2p8KsgXcr72slTx"
-        }
-      ],
-      "duration_ms": 144196,
-      "name": "ATIZALE",
-      "url": "https://open.spotify.com/track/3OLDaypybBlk46CtasInNL"
-    },
-    {
-      "added_at": "2025-09-11 00:17:05",
-      "album": {
         "name": "Voz en el Mar",
         "url": "https://open.spotify.com/album/0h2WlyrHox0ZH2Jlxs7Obb"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 194694,
       "name": "Voz en el Mar",
       "url": "https://open.spotify.com/track/6PxW6AGMLOetOyHF7gjVAH"
+    },
+    {
+      "added_at": "2025-09-11 00:17:05",
+      "album": {
+        "name": "ATIZALE",
+        "url": "https://open.spotify.com/album/0E6BnN3hk8Om51qM2vtmfv"
+      },
+      "artists": [
+        {
+          "name": "Refugee",
+          "url": "https://open.spotify.com/artist/65GZg7V2p8KsgXcr72slTx"
+        }
+      ],
+      "duration_ms": 144196,
+      "name": "ATIZALE",
+      "url": "https://open.spotify.com/track/3OLDaypybBlk46CtasInNL"
     },
     {
       "added_at": "2025-09-11 00:17:05",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-09-11 00:17:05",
       "album": {
+        "name": "Entresue\u00f1os",
+        "url": "https://open.spotify.com/album/0Jsc0pQII2vfnBV1fWKZIz"
+      },
+      "artists": [
+        {
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+        }
+      ],
+      "duration_ms": 176950,
+      "name": "Entresue\u00f1os",
+      "url": "https://open.spotify.com/track/1hZfTTvkoxecJCqEqaoYqq"
+    },
+    {
+      "added_at": "2025-09-11 00:17:05",
+      "album": {
         "name": "De Tepito Pa'La Calle",
         "url": "https://open.spotify.com/album/0BxPmyGd6fUA6vzg4NnQoX"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 146400,
       "name": "TOMI",
       "url": "https://open.spotify.com/track/5HGLJDt8i6tlNbSxgyo84p"
-    },
-    {
-      "added_at": "2025-09-11 00:17:05",
-      "album": {
-        "name": "Entresue\u00f1os",
-        "url": "https://open.spotify.com/album/0Jsc0pQII2vfnBV1fWKZIz"
-      },
-      "artists": [
-        {
-          "name": "Anthr\u00e9s",
-          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
-        }
-      ],
-      "duration_ms": 176950,
-      "name": "Entresue\u00f1os",
-      "url": "https://open.spotify.com/track/1hZfTTvkoxecJCqEqaoYqq"
     },
     {
       "added_at": "2025-09-11 00:17:05",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-09-11 00:17:05",
       "album": {
+        "name": "antonio banderas",
+        "url": "https://open.spotify.com/album/06qlB6sf07ldcmzoN9wGSh"
+      },
+      "artists": [
+        {
+          "name": "babas tutsipop",
+          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
+        }
+      ],
+      "duration_ms": 248195,
+      "name": "antonio banderas",
+      "url": "https://open.spotify.com/track/0f5OsrCA49IeHZS2omDSB5"
+    },
+    {
+      "added_at": "2025-09-11 00:17:05",
+      "album": {
         "name": "UN D\u00cdA INOLVIDABLE",
         "url": "https://open.spotify.com/album/2gebtTNWr7VKAJxpduDhXK"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 191544,
       "name": "UN D\u00cdA INOLVIDABLE",
       "url": "https://open.spotify.com/track/1oE3XNRIn02bCdf3WwaWbI"
-    },
-    {
-      "added_at": "2025-09-11 00:17:05",
-      "album": {
-        "name": "antonio banderas",
-        "url": "https://open.spotify.com/album/06qlB6sf07ldcmzoN9wGSh"
-      },
-      "artists": [
-        {
-          "name": "babas tutsipop",
-          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
-        }
-      ],
-      "duration_ms": 248195,
-      "name": "antonio banderas",
-      "url": "https://open.spotify.com/track/0f5OsrCA49IeHZS2omDSB5"
     },
     {
       "added_at": "2025-09-11 00:17:05",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-09-11 00:17:05",
       "album": {
-        "name": "rompopito",
-        "url": "https://open.spotify.com/album/1WAh3dKS5N8WxTCnAt2IMc"
-      },
-      "artists": [
-        {
-          "name": "gatitaartistica",
-          "url": "https://open.spotify.com/artist/35QbBmTEGYgGdExpZ77zSH"
-        }
-      ],
-      "duration_ms": 119162,
-      "name": "rompopito",
-      "url": "https://open.spotify.com/track/5whTsCJbEm0oOKuyL4571k"
-    },
-    {
-      "added_at": "2025-09-11 00:17:05",
-      "album": {
         "name": "Bailar",
         "url": "https://open.spotify.com/album/1V2DA85OwMHvNIxFKsVzxt"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 208639,
       "name": "Bailar",
       "url": "https://open.spotify.com/track/2mZ0Wx315hGFz3TgnUX6bg"
+    },
+    {
+      "added_at": "2025-09-11 00:17:05",
+      "album": {
+        "name": "rompopito",
+        "url": "https://open.spotify.com/album/1WAh3dKS5N8WxTCnAt2IMc"
+      },
+      "artists": [
+        {
+          "name": "gatitaartistica",
+          "url": "https://open.spotify.com/artist/35QbBmTEGYgGdExpZ77zSH"
+        }
+      ],
+      "duration_ms": 119162,
+      "name": "rompopito",
+      "url": "https://open.spotify.com/track/5whTsCJbEm0oOKuyL4571k"
     },
     {
       "added_at": "2025-09-11 00:17:05",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-09-11 00:17:05",
       "album": {
-        "name": "Un Error",
-        "url": "https://open.spotify.com/album/16onl3sub2I1ZjnnTKNd0b"
-      },
-      "artists": [
-        {
-          "name": "Monte Carlo",
-          "url": "https://open.spotify.com/artist/7IQKn1xlyJJ6hHTP2nrq0K"
-        }
-      ],
-      "duration_ms": 239358,
-      "name": "Un Error",
-      "url": "https://open.spotify.com/track/4nQWqFS9685r2ZyYSkQ0Sr"
-    },
-    {
-      "added_at": "2025-09-11 00:17:05",
-      "album": {
         "name": "DESAYUNO CONTINENTAL",
         "url": "https://open.spotify.com/album/26gWSCualjNYdFUyS2FGdE"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 169500,
       "name": "DESAYUNO CONTINENTAL",
       "url": "https://open.spotify.com/track/084OQhMV7UzdHBK4htw3CM"
+    },
+    {
+      "added_at": "2025-09-11 00:17:05",
+      "album": {
+        "name": "Un Error",
+        "url": "https://open.spotify.com/album/16onl3sub2I1ZjnnTKNd0b"
+      },
+      "artists": [
+        {
+          "name": "Monte Carlo",
+          "url": "https://open.spotify.com/artist/7IQKn1xlyJJ6hHTP2nrq0K"
+        }
+      ],
+      "duration_ms": 239358,
+      "name": "Un Error",
+      "url": "https://open.spotify.com/track/4nQWqFS9685r2ZyYSkQ0Sr"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

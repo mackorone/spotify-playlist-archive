@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Opeth
 
-819 songs - 2 day 22 hr 25 min
+821 songs - 2 day 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Against All Odds](https://open.spotify.com/track/5FiRXKrXSDYyhXbPeimIPL) | [Prospective](https://open.spotify.com/artist/0HV13XD3wrHiWmP0vnLeuS) | [Against All Odds](https://open.spotify.com/album/2mBtsWW7nAgy5jUJDnayTf) | 3:01 | 2022-07-13 | 2023-12-07 |
 | [Against My Sins](https://open.spotify.com/track/4MRwYzMlCH8wSNL9fP3nMW) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB) | [Loathing Light](https://open.spotify.com/album/6XZzx7Yx0MWI7pCl2ptI06) | 3:27 | 2022-06-17 | 2024-11-23 |
 | [Algorithmic Salvation](https://open.spotify.com/track/0MOq1oGBPwvKDTINCn0msG) | [The Zenith Passage](https://open.spotify.com/artist/55ISuKXdlefU2R5hV3GWnf) | [Algorithmic Salvation](https://open.spotify.com/album/47KCxwR5wIEduTaRIcaTzX) | 3:29 | 2021-12-17 | 2023-01-21 |
+| [Alive](https://open.spotify.com/track/3MlgjrGfQoUa9apf39me6L) | [Esoterica](https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21) | [Alive](https://open.spotify.com/album/53O8bwvmBaxGZinKoV6Akt) | 5:04 | 2025-09-12 |  |
 | [Alive \- Pt\. II](https://open.spotify.com/track/7JNxaa1S1SixiuoAsQTLZW) | [Darkwater](https://open.spotify.com/artist/3VFAEJuUQ6rHfKT9qlZ3Zq) | [Alive \(Pt\. II\)](https://open.spotify.com/album/3633zGg6z9nbAuM1mMukm8) | 7:21 | 2021-12-17 | 2022-06-30 |
 | [Alive! \- Radio Edit](https://open.spotify.com/track/3bymeUkdN8JpYAhyDerxqD) | [Ohhms](https://open.spotify.com/artist/2z7v2xekqVRvMCXWNESxt0) | [Alive](https://open.spotify.com/album/4MfENe2S0AVoPXGsr3c0dx) | 5:12 | 2021-12-17 | 2022-07-29 |
 | [Alkaline](https://open.spotify.com/track/3TgG7j2pQTuRGXbmgR1QYw) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Alkaline](https://open.spotify.com/album/2NSI6KShPfoYeYVs89G2fA) | 3:34 | 2021-12-17 | 2023-01-21 |
@@ -283,6 +284,7 @@
 | [Gluttony](https://open.spotify.com/track/5Lb4V4hzjSLtht1umgFdfa) | [Theraphosa](https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge) | [Gluttony](https://open.spotify.com/album/2ooQDwESE21g2QTWLot2ii) | 3:36 | 2023-12-06 |  |
 | [Go With Your Ghost](https://open.spotify.com/track/4qa0jsQWm6pUWeffnaYxYT) | [Stellar Circuits](https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV) | [Go With Your Ghost](https://open.spotify.com/album/7huklU2xBCjc6Ms0nJjHc3) | 4:03 | 2021-12-17 | 2022-05-09 |
 | [God is in the Slumber](https://open.spotify.com/track/5CiLiwu8FzetlzVa15taDs) | [Hippotraktor](https://open.spotify.com/artist/2gK9GyHbKYyvigK6wOb7pv) | [God is in the Slumber](https://open.spotify.com/album/5rDrzED7ZQRb706aNnElUh) | 4:35 | 2021-12-17 | 2022-07-26 |
+| [God Terror](https://open.spotify.com/track/1wlikY9neDeNwPvVFETOod) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [The Blue Nowhere](https://open.spotify.com/album/7qy9gnX5SXAeW9fO6pzwTh) | 6:41 | 2025-09-12 |  |
 | [Goddamn Conspiracy \- No Narration](https://open.spotify.com/track/59Owq9lFBlY3O64hH7TK6I) | [Arjen Anthony Lucassen](https://open.spotify.com/artist/0EB6qOap6h8OJSEswOv8y5) | [Goddamn Conspiracy](https://open.spotify.com/album/6ugodEhROAJ5y9bnhvvhaM) | 4:41 | 2025-08-15 |  |
 | [Gods Way is my Way](https://open.spotify.com/track/5vDwPAcIikEc4g21ndDtVw) | [Deathbeds AU](https://open.spotify.com/artist/2CA3NHP7ecfgsgczb2TApg), [Misstiq](https://open.spotify.com/artist/2T56ZlaXC3o801bzHwzJg1) | [Sinner](https://open.spotify.com/album/2KasnGDYJUuOPdcejZ1KNt) | 4:06 | 2022-07-13 | 2025-02-08 |
 | [Golden Age Of Music](https://open.spotify.com/track/6V3piBg988IoOyqxyAQ3yF) | [Arjen Lucassen's Supersonic Revolution](https://open.spotify.com/artist/6FKUrDi8oDOzLFLGlb0hfK), [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt) | [Golden Age Of Music](https://open.spotify.com/album/1tVChIu5QsFKxCsCdGx2Yx) | 5:12 | 2023-05-12 | 2023-08-03 |
@@ -346,7 +348,7 @@
 | [In Your Face](https://open.spotify.com/track/73YB6qqXBRPYeDfDjUd6IB) | [ADHARMA](https://open.spotify.com/artist/3L9OmtjKGtOmtoMOpzxsMt) | [In Your Face](https://open.spotify.com/album/5ufaWcLX8Ire6Al9J1jd1F) | 2:48 | 2024-03-29 | 2025-02-08 |
 | [Indulge in Color](https://open.spotify.com/track/0mk2G6IvDSxccVTKFIfRIy) | [Redemption](https://open.spotify.com/artist/3TZpN3GTy0RL1i6Pb10IRS) | [Indulge in Color](https://open.spotify.com/album/6mvqzauGJu9W8a5aFJcQg3) | 7:52 | 2021-12-17 | 2022-01-29 |
 | [Infinion](https://open.spotify.com/track/2ZPlZDKXW57qLyQoXMEAiT) | [Shylmagoghnar](https://open.spotify.com/artist/0sfWl1dWLgEtMy9oFnNoDA) | [Convergence](https://open.spotify.com/album/0dXuF6u3SQPBT53qTWbHYl) | 7:01 | 2023-12-06 | 2024-04-19 |
-| [Innocence Was Long Forgotten](https://open.spotify.com/track/38xswHmNWqoAFznp81djgj) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [Innocence Was Long Forgotten](https://open.spotify.com/album/59i8Qqzatwq6dKpHDsrjcU) | 4:20 | 2024-07-23 |  |
+| [Innocence Was Long Forgotten](https://open.spotify.com/track/38xswHmNWqoAFznp81djgj) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [Innocence Was Long Forgotten](https://open.spotify.com/album/59i8Qqzatwq6dKpHDsrjcU) | 4:20 | 2024-07-23 | 2025-09-14 |
 | [Innocent](https://open.spotify.com/track/6wviLxwR04XGjTRH8LkJ3R) | [Uneven Structure](https://open.spotify.com/artist/6ncfp4E8TXGnp6nYwBUwwj) | [Innocent](https://open.spotify.com/album/2bleSQYUwyI2O785GsosnE) | 5:39 | 2021-12-17 | 2022-07-25 |
 | [Into The Ether](https://open.spotify.com/track/2ZErxAtLkav1xSNNIuUJM5) | [Esoterica](https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21) | [Into The Ether](https://open.spotify.com/album/7kTTeCH5BZEh51P3nYF1CP) | 5:18 | 2025-06-20 |  |
 | [Into the Fall](https://open.spotify.com/track/7rWczgig0np2zhmR6CyzMF) | [Ancestors](https://open.spotify.com/artist/4aGLoZx4GdlR6fqtmY7rNV) | [Suspended in Reflections](https://open.spotify.com/album/5gWycJLVfdSFcDYGU5IvP2) | 5:07 | 2021-12-17 | 2022-01-13 |
@@ -556,7 +558,7 @@
 | [Reptile](https://open.spotify.com/track/6hWHGG68ZARHuuNTUvW8vg) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Reptile](https://open.spotify.com/album/1rqFnKswVUvYL5EjjME4Z4) | 3:44 | 2022-07-13 | 2024-04-19 |
 | [Rest](https://open.spotify.com/track/4PKGtdh5xf04gf1b5OlXR2) | [Curses](https://open.spotify.com/artist/5Waz4LdRTkbyqfgladPHHk) | [Rest](https://open.spotify.com/album/5J1F9sJQetwCcdMU6VfEHM) | 4:03 | 2022-07-13 | 2023-07-22 |
 | [Return To One](https://open.spotify.com/track/3d4gBGDpByOnQXCcj0d8Uf) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt), [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Return To One](https://open.spotify.com/album/2pKC84UFiaaol1GosInWBs) | 3:35 | 2025-02-07 |  |
-| [Rigel](https://open.spotify.com/track/2v94YzlQ7jNn2IHcGHw7L6) | [Thessa](https://open.spotify.com/artist/7AmcyOXvn35ZkuUWSIn8eu) | [Arcus](https://open.spotify.com/album/5pVn4oUe0UzrcS1p2irbax) | 4:43 | 2022-07-13 |  |
+| [Rigel](https://open.spotify.com/track/2v94YzlQ7jNn2IHcGHw7L6) | [Thessa](https://open.spotify.com/artist/7AmcyOXvn35ZkuUWSIn8eu) | [Arcus](https://open.spotify.com/album/5pVn4oUe0UzrcS1p2irbax) | 4:43 | 2022-07-13 | 2025-09-14 |
 | [Right In Front of Me](https://open.spotify.com/track/65NfSqmYpJV5soI2JuwiD8) | [Indigo Storm](https://open.spotify.com/artist/0jwtY9QnEopkK4nI9McYDk) | [Demeter](https://open.spotify.com/album/74KBiQFdncb3dTMJSvN9bp) | 3:32 | 2022-06-10 | 2025-02-08 |
 | [Risset](https://open.spotify.com/track/00fqV46YpTk3w4qrwoBFlf) | [Kryn](https://open.spotify.com/artist/4OUkgSJQkianAfCIzM5Y9L) | [Risset](https://open.spotify.com/album/5qcFZTlyZlKLo1yHrUDgZ9) | 4:49 | 2021-12-17 | 2022-09-03 |
 | [Roundabout](https://open.spotify.com/track/2dDlRT8gT5jCBm5m5qkneI) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Roundabout](https://open.spotify.com/album/7LNKPAcxvswG7jpbH4gkf6) | 8:20 | 2021-12-17 | 2022-09-03 |

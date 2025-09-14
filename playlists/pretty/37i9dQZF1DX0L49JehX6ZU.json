@@ -1,6 +1,6 @@
 {
   "description": "Pouring Indie tunes for all you bathroom singers.",
-  "num_followers": 139230,
+  "num_followers": 139291,
   "original_name": "Indie Shower Tunes",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-09-05 09:47:27",
       "album": {
+        "name": "Songs of Love",
+        "url": "https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "Madhubala",
+      "url": "https://open.spotify.com/track/3hcwpXiJtR7kwDrWllcH0v"
+    },
+    {
+      "added_at": "2025-09-05 09:47:27",
+      "album": {
         "name": "Dil Beparvah (The Dewarists, Season 5)",
         "url": "https://open.spotify.com/album/03CDp0VEvqgFEXoo8gXNru"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 250000,
       "name": "Dil Beparvah - The Dewarists, Season 5",
       "url": "https://open.spotify.com/track/4kXkT9HF9ZfDjuv3LIKcwJ"
-    },
-    {
-      "added_at": "2025-09-05 09:47:27",
-      "album": {
-        "name": "Songs of Love",
-        "url": "https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "Madhubala",
-      "url": "https://open.spotify.com/track/3hcwpXiJtR7kwDrWllcH0v"
     },
     {
       "added_at": "2025-09-05 09:47:27",

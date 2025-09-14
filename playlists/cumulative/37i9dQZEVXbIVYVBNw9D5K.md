@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,321 songs - 2 day 18 hr 25 min
+1,322 songs - 2 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,6 +594,7 @@
 | [Hepsi Geçiyor](https://open.spotify.com/track/2EiDxAtcTF4vHAr95ztZwU) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Hepsi Geçiyor](https://open.spotify.com/album/6272MuSjfOJ3dbSOkb68Is) | 3:09 | 2021-03-27\* | 2021-05-06 |
 | [Her Gece](https://open.spotify.com/track/6D9C3pOcz76P84cMuAY1Ry) | [Perdenin Ardındakiler](https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn) | [Her Gece](https://open.spotify.com/album/20vhqRqL2VYwDOZ75rMGkE) | 4:20 | 2021-11-03 | 2021-11-06 |
 | [HER GÜN AĞLADIM](https://open.spotify.com/track/4K64OOHItyspEsQFLobJqn) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [HER GÜN AĞLADIM](https://open.spotify.com/album/5GaZBROdkVIR1dDGJTLAqS) | 3:52 | 2025-01-18 | 2025-03-06 |
+| [Her İki Durumda](https://open.spotify.com/track/0UCXX2vvVqhoFVdFL4XZa5) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Aerro](https://open.spotify.com/artist/1pJzB49ODjAOHUBRtKQK6A) | [Her İki Durumda](https://open.spotify.com/album/4O8buhpWrEtD6bvEeoGf8o) | 3:10 | 2025-09-13 |  |
 | [Her Nerdeysen](https://open.spotify.com/track/65txmqjijZoGYs1irX6tBU) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 2:29 | 2024-10-12 | 2025-08-31 |
 | [HER YER FAVELA](https://open.spotify.com/track/5fuPdS5jBncmRu9uu1MLOr) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [HER YER FAVELA](https://open.spotify.com/album/3PWIyRztWQE0AICzbD3Dpb) | 3:33 | 2024-09-21 | 2024-09-24 |
 | [Her şey Sensin](https://open.spotify.com/track/406NzjjqZlOiFyIvhTGcAQ) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Her şey Sensin](https://open.spotify.com/album/448sA39a2V3mKafgqVszK2) | 4:36 | 2025-07-17 | 2025-07-19 |
@@ -1127,7 +1128,7 @@
 | [Sönen Sigaralar](https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:31 | 2024-10-12 | 2025-08-24 |
 | [SÖYLENEYDİBU?](https://open.spotify.com/track/3Z3R4NcwpanDzsnZccpnoc) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [SÖYLENEYDİBU?](https://open.spotify.com/album/6CC3P0r7TWplXSDtFycHfU) | 2:05 | 2023-05-06 | 2023-05-11 |
 | [SÜR](https://open.spotify.com/track/3SLOjhcE08rzXXBMN8c6UM) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [SÜR](https://open.spotify.com/album/0JMhNmkcLl9dZf9U7uDVkK) | 3:26 | 2022-08-06 | 2022-08-13 |
-| [Sıfırdan Zirveye](https://open.spotify.com/track/4DYpSlYDrQyAvfQhORjyGM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Sıfırdan Zirveye](https://open.spotify.com/album/5pNZZwx87US89C5MTkUFI2) | 2:38 | 2025-08-16 |  |
+| [Sıfırdan Zirveye](https://open.spotify.com/track/4DYpSlYDrQyAvfQhORjyGM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Sıfırdan Zirveye](https://open.spotify.com/album/5pNZZwx87US89C5MTkUFI2) | 2:38 | 2025-08-16 | 2025-09-14 |
 | [Sır](https://open.spotify.com/track/1qfaoZIi4RuWa1eS8vYS2L) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Sır](https://open.spotify.com/album/1DAMEAIqb27PCErT8HjCDx) | 3:09 | 2021-08-01 | 2021-08-13 |
 | [TAK TAK TAK](https://open.spotify.com/track/28TeosAOQZvsftj5ZxucaX) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TAK TAK TAK](https://open.spotify.com/album/5QWdCZD91757ow6zCrYTnr) | 1:30 | 2025-08-02 |  |
 | [Take My Breath](https://open.spotify.com/track/0XvDZGVqGYM7P4rgzRnWhq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 5:39 | 2022-01-08 | 2022-01-10 |

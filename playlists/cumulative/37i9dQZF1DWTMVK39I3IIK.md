@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  ORA
 
-300 songs - 15 hr 17 min
+301 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,10 +74,11 @@
 | [Dopa min](https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Dopa min](https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b) | 2:41 | 2024-06-27 | 2025-01-23 |
 | [Dopamin](https://open.spotify.com/track/0tDh78JNlubuGDJfkv8Juk) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Dopamin](https://open.spotify.com/album/1vFGBcedPfM321fycYoNqs) | 2:28 | 2024-06-27 | 2025-08-01 |
 | [drikker med mig selv](https://open.spotify.com/track/0i4Tf0W7BdBXBdRO5AfuWI) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [vågner](https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w) | 2:30 | 2025-02-20 |  |
+| [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:30 | 2025-09-11 |  |
 | [Drømmer](https://open.spotify.com/track/0LygyTQgwgub7hlSnxniKJ) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Drømmer / Helt](https://open.spotify.com/album/6hX2wyH7niZIByb0OFKdC5) | 2:32 | 2025-03-20 | 2025-03-22 |
 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-07 | 2025-05-30 |
 | [Dårligste Bedste Idé](https://open.spotify.com/track/3MMQxJeAw1A9jjqyGHz8DF) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Dårligste Bedste Idé](https://open.spotify.com/album/0fsi7iQLNKjjs2zsWjNzyl) | 3:16 | 2024-06-27 | 2025-04-09 |
-| [Dér \(feat\. Wads\)](https://open.spotify.com/track/1CHopLIbq57daqmMzdZW1k) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen), [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [Dér \(feat\. Wads\)](https://open.spotify.com/album/4DVroCTqltqCUJdOcKaG9E) | 3:20 | 2024-06-27 |  |
+| [Dér \(feat\. Wads\)](https://open.spotify.com/track/1CHopLIbq57daqmMzdZW1k) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen), [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [Dér \(feat\. Wads\)](https://open.spotify.com/album/4DVroCTqltqCUJdOcKaG9E) | 3:20 | 2024-06-27 | 2025-09-14 |
 | [Ekkoer](https://open.spotify.com/track/48JWAZ5llPwoW51EdYKrYO) | [Laura Vejlby](https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ) | [Ekkoer](https://open.spotify.com/album/0iVMwoK9qjCMMFDariqDVa) | 2:41 | 2025-06-26 |  |
 | [Elskede At Drømme, Drømmer Om At Elske](https://open.spotify.com/track/1Z360UrBxnLoVV05mJczDh) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m), [Peter Sommer](https://open.spotify.com/artist/5EXeUuYgGRA1RnXHqALLDL) | [Legebørn](https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD) | 4:50 | 2024-06-27 | 2025-02-07 |
 | [Elsker Baglæns](https://open.spotify.com/track/3cAX47H0v2jJCxbCERnHWs) | [Rosa På Månen](https://open.spotify.com/artist/0IEqg7JbD6lmfu11MllHEd) | [Elsker Baglæns](https://open.spotify.com/album/3zZyhCehjeXxWxjwxGLD3I) | 3:45 | 2025-06-05 | 2025-06-13 |

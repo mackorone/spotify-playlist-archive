@@ -4,7 +4,7 @@
 
 > 🤝
 
-176 songs - 8 hr 16 min
+177 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Chaos](https://open.spotify.com/track/52RqMbWDZmNEcj4ogyIDAn) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Chaos](https://open.spotify.com/album/16hB0SDVHnDtThxvcVGi6A) | 3:38 | 2024-09-05 | 2024-09-20 |
 | [Chit Chat](https://open.spotify.com/track/1cRXDCCWTIYyMroXZtbC3G) | [Segertåget](https://open.spotify.com/artist/2ipDTQIxcKOp0YwDcGgO1u) | [Chit Chat](https://open.spotify.com/album/2Fw6u9hJvOOkcm0GJQdqhI) | 2:32 | 2025-06-26 | 2025-08-08 |
 | [Clean Fit, Fin Anledning](https://open.spotify.com/track/7qky42Br09C4K93lYdAXAs) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Clean Fit, Fin Anledning](https://open.spotify.com/album/1CfrrqDKpfZbU2rVn2DoaA) | 2:33 | 2024-11-21 | 2025-01-30 |
-| [Cut the shit](https://open.spotify.com/track/2exlxqoHDMQVXRRN4CUQLn) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Cut the shit](https://open.spotify.com/album/25cevYblvE1sa7lZ54ERaC) | 2:33 | 2025-04-03 | 2025-05-18 |
+| [Cut the shit](https://open.spotify.com/track/2exlxqoHDMQVXRRN4CUQLn) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Cut the shit](https://open.spotify.com/album/25cevYblvE1sa7lZ54ERaC) | 2:33 | 2025-04-03 |  |
 | [Da Vi Møtte Fanden](https://open.spotify.com/track/4D6hnelZ3b9XOfetGZCxrD) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Da Vi Møtte Fanden](https://open.spotify.com/album/3b9FdXRlIqsqvlR6g2M0jk) | 2:58 | 2025-04-24 | 2025-08-15 |
 | [Da vi var to](https://open.spotify.com/track/66mAcIc3VtfVTgae4gVeBV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Da vi var to](https://open.spotify.com/album/5kubT1Uexezpd5eejqQDgZ) | 3:07 | 2024-06-27 | 2024-11-09 |
 | [Dag Otto](https://open.spotify.com/track/5oBYIX7jqkWuaZR97fwGEH) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [Dag Otto](https://open.spotify.com/album/2uImL3lD9YDFcUwO9Pviab) | 2:42 | 2025-09-04 |  |
@@ -103,6 +103,7 @@
 | [Lever Som Aldrig Før \(feat\. Soppgirobygget\)](https://open.spotify.com/track/5FN2WmM6V4vR8kas4KqckJ) | [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev), [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Lever Som Aldrig Før \(feat\. Soppgirobygget\)](https://open.spotify.com/album/2Kek5X3lagfrxLqT49uIZY) | 2:02 | 2025-08-14 |  |
 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-04 |  |
 | [Like I Tried To Save You](https://open.spotify.com/track/6fiYBguLSNJaEjiEaSDnvH) | [Cupid Girl](https://open.spotify.com/artist/1SfyDxRQj4ro8cluxkCaLq) | [Go Find Your Lover!](https://open.spotify.com/album/1pcAjs1D1zNBfyd5GPVzGR) | 2:53 | 2024-11-14 | 2024-12-20 |
+| [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd) | 2:40 | 2025-09-11 |  |
 | [LOVE AGAIN](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [LOVE AGAIN](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2024-06-27 |  |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-27 | 2025-05-02 |
 | [LUV \(Studz\)](https://open.spotify.com/track/5bqP1GCEqCrg2yU0bTO7aQ) | [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7), [Sjakklubb](https://open.spotify.com/artist/0Wv1O0aA5CyUVdrwh4JZ1n) | [LUV \(Studz\)](https://open.spotify.com/album/4duFN3ZyqfIkf0xm9S78Fb) | 2:03 | 2025-04-03 | 2025-06-27 |
@@ -110,7 +111,7 @@
 | [MACHIAVELLI](https://open.spotify.com/track/3eDoZJEihP31ln8fcXTZOw) | [Rakkere](https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25), [Due](https://open.spotify.com/artist/7yIAX7VC5OTc651ec9XWcx) | [MACHIAVELLI](https://open.spotify.com/album/16nEPTjTPhoBpqGjzT1KDh) | 3:16 | 2025-08-07 | 2025-08-15 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-06-27 | 2024-09-13 |
 | [Matilda](https://open.spotify.com/track/4dES0Jkiasmrch4WZFAtzq) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Matilda](https://open.spotify.com/album/0zGT9axGA9QpF0A0opS26M) | 2:14 | 2025-02-06 | 2025-09-12 |
-| [Memoarer](https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Memoarer](https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW) | 3:03 | 2025-05-01 |  |
+| [Memoarer](https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Memoarer](https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW) | 3:03 | 2025-05-01 | 2025-09-14 |
 | [Narco Freestyle](https://open.spotify.com/track/6abCeotQ2T6eFP2zTjW7WN) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Narco Freestyle](https://open.spotify.com/album/5sbWMsirtJm5whDYeWqDLv) | 2:22 | 2025-02-27 | 2025-04-14 |
 | [NEPOBABY](https://open.spotify.com/track/2T137G2j4il2iSc2md900S) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:08 | 2024-10-24 | 2025-01-17 |
 | [Normandie](https://open.spotify.com/track/66efVUD3ziUs3mPLZWysJ6) | [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7), [BERGREM](https://open.spotify.com/artist/3xw4Fyy4UUWDSVfScqt2BH) | [Normandie](https://open.spotify.com/album/77n1CfO0adsKZVHCGrZMnH) | 2:13 | 2025-06-26 | 2025-07-24 |
@@ -166,7 +167,7 @@
 | [Tjue år](https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh) | 4:19 | 2025-05-29 |  |
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-06-27 | 2025-07-01 |
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2024-06-27 | 2025-05-02 |
-| [Trouble](https://open.spotify.com/track/4IVuDp5OaR7XS4ZreqeKlC) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Gettin' Away With It](https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ) | 3:13 | 2024-10-17 |  |
+| [Trouble](https://open.spotify.com/track/4IVuDp5OaR7XS4ZreqeKlC) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Gettin' Away With It](https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ) | 3:13 | 2024-10-17 | 2025-09-14 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-03-20 |  |
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-06-27 | 2024-08-16 |
 | [VEM FAN E DU?](https://open.spotify.com/track/4BliCq54T5TbxmaLdXJGEK) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [VEM FAN E DU?](https://open.spotify.com/album/0BWAxu1c9xgq4z4BvhsXUT) | 2:32 | 2024-06-27 | 2024-08-16 |

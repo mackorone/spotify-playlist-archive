@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 136398,
+  "num_followers": 136400,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "TWO MOON",
-        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
-      },
-      "artists": [
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
-        }
-      ],
-      "duration_ms": 240323,
-      "name": "Mellow",
-      "url": "https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd"
-    },
-    {
-      "added_at": "2025-09-05 04:00:26",
-      "album": {
         "name": "Westbound EP",
         "url": "https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 228005,
       "name": "Separate Seasons",
       "url": "https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4"
+    },
+    {
+      "added_at": "2025-09-05 04:00:26",
+      "album": {
+        "name": "TWO MOON",
+        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 240323,
+      "name": "Mellow",
+      "url": "https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0\uff5ebeautiful sleep\uff5e",
-        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
-      },
-      "artists": [
-        {
-          "name": "Shinya Kiyozuka",
-          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
-        }
-      ],
-      "duration_ms": 242573,
-      "name": "Beautiful Sleep",
-      "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
-    },
-    {
-      "added_at": "2025-09-05 04:00:26",
-      "album": {
         "name": "NEW BORN GHOST",
         "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 269301,
       "name": "\u30af\u30ec\u30a4",
       "url": "https://open.spotify.com/track/0TtzPfEvqp8YasVy0xOsvd"
+    },
+    {
+      "added_at": "2025-09-05 04:00:26",
+      "album": {
+        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0\uff5ebeautiful sleep\uff5e",
+        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
+      },
+      "artists": [
+        {
+          "name": "Shinya Kiyozuka",
+          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "Beautiful Sleep",
+      "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "THUNDERBIRD",
-        "url": "https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "\u3064\u3050\u307f",
-      "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
-    },
-    {
-      "added_at": "2025-09-05 04:00:26",
-      "album": {
         "name": "50th Anniversary Special A Tribute of Hayashi Tetsuji - Saudade -",
         "url": "https://open.spotify.com/album/5xsy4iKnYN4g8uM3KWiMLf"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 382866,
       "name": "\u5317\u30a6\u30a4\u30f3\u30b0 -CLASSIC-",
       "url": "https://open.spotify.com/track/07OiQkDWUwgatxU5WUWxXN"
+    },
+    {
+      "added_at": "2025-09-05 04:00:26",
+      "album": {
+        "name": "THUNDERBIRD",
+        "url": "https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "\u3064\u3050\u307f",
+      "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -1615,30 +1615,6 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "\u306f\u3058\u307e\u308a\u306e\u591c",
-        "url": "https://open.spotify.com/album/2a4fbJxLjZzfTlSloBMJxL"
-      },
-      "artists": [
-        {
-          "name": "\u6c5f\ufa11\u6587\u6b66",
-          "url": "https://open.spotify.com/artist/3AAwWUnp6ZdLgfin1hQYd2"
-        },
-        {
-          "name": "mei ehara",
-          "url": "https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF"
-        },
-        {
-          "name": "\u6728\u539f\u5065\u5150",
-          "url": "https://open.spotify.com/artist/6Q1QTDtWjKSeeZ0IqpVdQJ"
-        }
-      ],
-      "duration_ms": 250110,
-      "name": "\u671d\u65e5\u306e\u306c\u304f\u3082\u308a",
-      "url": "https://open.spotify.com/track/0945XJg88Eu5VUu7Lchpig"
-    },
-    {
-      "added_at": "2025-09-05 04:00:26",
-      "album": {
         "name": "\u5e30\u308a\u305f\u304f\u306a\u3063\u305f\u3088",
         "url": "https://open.spotify.com/album/0fNR4AYbU7lZ6m4LrQobu6"
       },
@@ -1667,6 +1643,30 @@
       "duration_ms": 327173,
       "name": "Good Night Station",
       "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
+    },
+    {
+      "added_at": "2025-09-05 04:00:26",
+      "album": {
+        "name": "\u306f\u3058\u307e\u308a\u306e\u591c",
+        "url": "https://open.spotify.com/album/2a4fbJxLjZzfTlSloBMJxL"
+      },
+      "artists": [
+        {
+          "name": "\u6c5f\ufa11\u6587\u6b66",
+          "url": "https://open.spotify.com/artist/3AAwWUnp6ZdLgfin1hQYd2"
+        },
+        {
+          "name": "mei ehara",
+          "url": "https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF"
+        },
+        {
+          "name": "\u6728\u539f\u5065\u5150",
+          "url": "https://open.spotify.com/artist/6Q1QTDtWjKSeeZ0IqpVdQJ"
+        }
+      ],
+      "duration_ms": 250110,
+      "name": "\u671d\u65e5\u306e\u306c\u304f\u3082\u308a",
+      "url": "https://open.spotify.com/track/0945XJg88Eu5VUu7Lchpig"
     },
     {
       "added_at": "2025-09-05 04:00:26",

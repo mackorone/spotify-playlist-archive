@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,591 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,612 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 5 | [Diaba](https://open.spotify.com/track/6OL1PIjTZoCEA4NA1yVUPj) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk) | [Cachorro Sincero](https://open.spotify.com/album/0PWbgeNtP3j5bR7QhZ8suc) | 2:17 |
 | 6 | [Conta Essa História Direito \(Fantasma remix\)](https://open.spotify.com/track/3eUpogDjDWgYIvHGfkeLg0) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2), [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Conta Essa História Direito \(Fantasma remix\)](https://open.spotify.com/album/3ShMK4CzhrFWAIicVpdfkk) | 2:10 |
 | 7 | [Sangra](https://open.spotify.com/track/0XSxVbeRrukitzmQJf8f3R) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv), [Sanak](https://open.spotify.com/artist/4gtGDgSatYQc0li6HIc3dt) | [Sangra](https://open.spotify.com/album/5KezIV18zOBAMaYvnx7S3r) | 2:42 |
-| 8 | [Você Sai Chamando](https://open.spotify.com/track/0qdkQZJGnfJeIU4QCq3v00) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB), [Dj Nene](https://open.spotify.com/artist/46rjzf8iju1SloTOLxPmtl) | [Você Sai Chamando](https://open.spotify.com/album/5a9iRo13S538u2QO2nZiFo) | 3:41 |
+| 8 | [Você Sai Chamando](https://open.spotify.com/track/0qdkQZJGnfJeIU4QCq3v00) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB), [Dj Nene](https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM) | [Você Sai Chamando](https://open.spotify.com/album/5a9iRo13S538u2QO2nZiFo) | 3:41 |
 | 9 | [Bandidas Também Falam de Amor](https://open.spotify.com/track/0uMi0uuEPXERdlryQDYeCa) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Ian Durso](https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3) | [Bandidas Também Falam de Amor](https://open.spotify.com/album/1WUl20Dstb0rJ0Z7fcNGwz) | 2:46 |
 | 10 | [Latino Americano](https://open.spotify.com/track/5p02vl3X0p227XS6Lro9sI) | [Drinho Sp](https://open.spotify.com/artist/5WN4qyNrnrDosMqrczBxuo) | [Latino Americano](https://open.spotify.com/album/06bOKhOjYZe7OGjA5XK6tt) | 4:36 |
 | 11 | [sintomas de saudade](https://open.spotify.com/track/5AENWVhhcLH7NtaLb3llNj) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB), [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Nos Tornamos Estranhos](https://open.spotify.com/album/5hegLclkT2Nt4zt5I3dWSx) | 1:33 |

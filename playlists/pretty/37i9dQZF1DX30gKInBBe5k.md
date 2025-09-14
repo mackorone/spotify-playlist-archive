@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,371 likes - 84 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,420 likes - 84 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 41 | [Snowstorm](https://open.spotify.com/track/5s5uy4gguOtt5DZcsqxVsu) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [On Fire](https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M) | 5:14 |
 | 42 | [talking to flowers](https://open.spotify.com/track/4iSLT1H9AP6UHAXuPnQPMN) | [porch kiss](https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT) | [talking to flowers](https://open.spotify.com/album/3hvoe7LxHmqZ2TlTvMxObi) | 2:03 |
 | 43 | [Black Fly](https://open.spotify.com/track/3AXcnekPeKzjol7iQlM0Xx) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Reaching For Indigo](https://open.spotify.com/album/1GBJUdudjxW6w96CkPd6Kg) | 7:26 |
-| 44 | [I Never Did Get That Call](https://open.spotify.com/track/2u4YAeYmJPcFU9OlDyPKja) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [I Never Did Get That Call](https://open.spotify.com/album/3EP72o1hUz4jHUUjeZrMk3) | 1:39 |
-| 45 | [Sun Drawing](https://open.spotify.com/track/6AtRvRFkhSiP9518S48WBj) | [Movietone](https://open.spotify.com/artist/71ZjnwAyCVUWd6UsMbRtqf) | [Day And Night](https://open.spotify.com/album/64SmrtVEj2HwkQyz2Z9GXf) | 3:57 |
+| 44 | [Sun Drawing](https://open.spotify.com/track/6AtRvRFkhSiP9518S48WBj) | [Movietone](https://open.spotify.com/artist/71ZjnwAyCVUWd6UsMbRtqf) | [Day And Night](https://open.spotify.com/album/64SmrtVEj2HwkQyz2Z9GXf) | 3:57 |
+| 45 | [I Never Did Get That Call](https://open.spotify.com/track/2u4YAeYmJPcFU9OlDyPKja) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [I Never Did Get That Call](https://open.spotify.com/album/3EP72o1hUz4jHUUjeZrMk3) | 1:39 |
 | 46 | [glowing hands](https://open.spotify.com/track/4R5bWuBSkvxFLOc3SDjq3Z) | [forlorn](https://open.spotify.com/artist/10URY9GmoJErCHAzo6jFyT), [friendly to crows](https://open.spotify.com/artist/1KOecUxfQdUJA8mNaRaiAR) | [i hope everything goes well](https://open.spotify.com/album/747L9aHFJZ6tN7rwnyNC4c) | 2:10 |
 | 47 | [Two Wrongs Won't Make Things Right](https://open.spotify.com/track/0cE2SGmO5eaatzBsCpYPKI) | [Tarnation](https://open.spotify.com/artist/5cVphcm0FP2N0GXVl9csxh) | [Gentle Creatures](https://open.spotify.com/album/2HXMG5PMDO4stERgmNORdx) | 4:09 |
 | 48 | [Save Yourself](https://open.spotify.com/track/4EIQZRKN4Qp44YRu5xOCsE) | [Rachel Goswell](https://open.spotify.com/artist/0prEgQscX7BEd2EvCFm6Se) | [Waves Are Universal](https://open.spotify.com/album/1JFDiOWdfuPWEwxieEHXFY) | 3:58 |
@@ -62,22 +62,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 52 | [Bold Marauder](https://open.spotify.com/track/4AkLsoLJoc3wXjsVN3zsdH) | [Kendra Smith](https://open.spotify.com/artist/4baSCyV2xPPhakoOEOltou) | [Five Ways of Disappearing](https://open.spotify.com/album/6WmyaI6ciyv0XPfyQtf2NE) | 5:33 |
 | 53 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 |
 | 54 | [Exit Music \(For a Film\)](https://open.spotify.com/track/4Na0siMtWOW9pJoWJ1Ponv) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 4:27 |
-| 55 | [Inside Out](https://open.spotify.com/track/2gZ6I0MB9XaKmWOPwNJuqt) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH) | 2:21 |
-| 56 | [Memory](https://open.spotify.com/track/5krHe0jThPClniUNYLKNYn) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:52 |
-| 57 | [Hold On Magnolia](https://open.spotify.com/track/5qpMqMGCu9tXD4gNqtpxrT) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/41RHNc47RzqBt9FBmhb8YY) | 7:51 |
-| 58 | [Stop Waiting](https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 6:02 |
+| 55 | [Stop Waiting](https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 6:02 |
+| 56 | [Inside Out](https://open.spotify.com/track/2gZ6I0MB9XaKmWOPwNJuqt) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH) | 2:21 |
+| 57 | [Memory](https://open.spotify.com/track/5krHe0jThPClniUNYLKNYn) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:52 |
+| 58 | [Hold On Magnolia](https://open.spotify.com/track/5qpMqMGCu9tXD4gNqtpxrT) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/41RHNc47RzqBt9FBmhb8YY) | 7:51 |
 | 59 | [Return From The Ice](https://open.spotify.com/track/3vtMKnsC5A2Sk8ylRxyU10) | [Acetone](https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL) | [1992 \- 2001](https://open.spotify.com/album/6vUZbXDPOX59fKA8hacgyW) | 5:19 |
 | 60 | [Maybe Not](https://open.spotify.com/track/2WEMLmGP6s5ZLccFD8lQGA) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [You Are Free](https://open.spotify.com/album/38CsAH6IM7fKMN0XnZReR6) | 4:16 |
 | 61 | [How To Disappear Completely](https://open.spotify.com/track/69pwmeyvQMuHMtkCmpEWhQ) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp) | 5:56 |
 | 62 | [So Much Water](https://open.spotify.com/track/0J5jztzHjt08li8Lurpi2j) | [Tacoma Radar](https://open.spotify.com/artist/0qhbCDBSjvtKJXyujrFdHP) | [No One Waved Goodbye](https://open.spotify.com/album/3FL15PhmhsId7fKeYS0iVm) | 3:33 |
-| 63 | [Liferaft](https://open.spotify.com/track/1lii7ZXQTxPHozDSjmkibm) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [WhatFunLifeWas](https://open.spotify.com/album/2IpqDJKaf7873tRUmxuxae) | 4:40 |
-| 64 | [Topical Solution](https://open.spotify.com/track/1DrJC3J11DolsHxVd8cAmq) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH) | 5:00 |
+| 63 | [Topical Solution](https://open.spotify.com/track/1DrJC3J11DolsHxVd8cAmq) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH) | 5:00 |
+| 64 | [Liferaft](https://open.spotify.com/track/1lii7ZXQTxPHozDSjmkibm) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [WhatFunLifeWas](https://open.spotify.com/album/2IpqDJKaf7873tRUmxuxae) | 4:40 |
 | 65 | [nail i couldn't bite](https://open.spotify.com/track/0AgghN0YfYSZRilCXOb3do) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [Hypnic Jerks](https://open.spotify.com/album/3M1hjHgDdFdhZKQRAccl8n) | 5:15 |
 | 66 | [Washer](https://open.spotify.com/track/3QkTIg9pFStcRvsC3SA10t) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/0cp3HJ6szImZfnVSPHDqAU) | 8:50 |
 | 67 | [Didn't It Rain](https://open.spotify.com/track/7LVRbiFiUi1XwxcGy7rFdS) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Didn't It Rain \(Deluxe Edition\)](https://open.spotify.com/album/1pcDNDsUKweDsbxF5aFLvM) | 7:52 |
 | 68 | [Ugly Brunette](https://open.spotify.com/track/10sW0aDGSqVtlkzNmU6nOZ) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Horse Jumper of Love](https://open.spotify.com/album/4f49uPuntbmcWXz0TUHYSk) | 2:56 |
-| 69 | [On Fire](https://open.spotify.com/track/1Z1lzLOYf6CuAsrbNbmdDl) | [Idaho](https://open.spotify.com/artist/5lQ9ygSr6WMqXYsG00nNNY) | [On Fire](https://open.spotify.com/album/4XcXyoxuSTavad15AaOTIp) | 3:10 |
-| 70 | [Bedside Table](https://open.spotify.com/track/7EdM33TRHCYTfjsYqtagKp) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [WhatFunLifeWas](https://open.spotify.com/album/2IpqDJKaf7873tRUmxuxae) | 4:44 |
+| 69 | [Bedside Table](https://open.spotify.com/track/7EdM33TRHCYTfjsYqtagKp) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [WhatFunLifeWas](https://open.spotify.com/album/2IpqDJKaf7873tRUmxuxae) | 4:44 |
+| 70 | [On Fire](https://open.spotify.com/track/1Z1lzLOYf6CuAsrbNbmdDl) | [Idaho](https://open.spotify.com/artist/5lQ9ygSr6WMqXYsG00nNNY) | [On Fire](https://open.spotify.com/album/4XcXyoxuSTavad15AaOTIp) | 3:10 |
 | 71 | [Tugboat](https://open.spotify.com/track/6iMDFMjepxLshlWqW7cKgb) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today \(Deluxe Edition\)](https://open.spotify.com/album/6xHl53sZW2mcFOvY0GbXvB) | 3:54 |
 | 72 | [Good Morning, Captain](https://open.spotify.com/track/154qGmayKVoKeeqv8Yy0QC) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/0cp3HJ6szImZfnVSPHDqAU) | 7:39 |
 | 73 | [Atmosphere](https://open.spotify.com/track/548iWzPhzdvVYUTvdupSOf) | [Codeine](https://open.spotify.com/artist/60CBjmRpwr02JwAd3Ho25U) | [When I See the Sun](https://open.spotify.com/album/1bMj9nHN1zouoGBbSF9GZP) | 4:57 |

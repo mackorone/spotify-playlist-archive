@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Ed Sheeran, Saga Faye, Drake med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,299 likes - 103 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,296 likes - 103 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 72 | [Europojke](https://open.spotify.com/track/5Ws1VRvCdhzBkIQCY2bdtz) | [Faaka](https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx), [PreGame](https://open.spotify.com/artist/0MeqrNMZbF4Nv9HCwmi0qC) | [Europojke](https://open.spotify.com/album/70dcBWb3UN0zMvktU9GXRQ) | 2:39 |
 | 73 | [Is Anybody Out There?](https://open.spotify.com/track/6eZHTf3YOMmlaxeOLoMC6R) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Is Anybody Out There?](https://open.spotify.com/album/2P2lvrYnmVPRWD15JREeLY) | 3:48 |
 | 74 | [Hypnotic](https://open.spotify.com/track/1ulorUgFxDQdshBrtzgYRK) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Hypnotic](https://open.spotify.com/album/4pYBgkBcpcqhEOfrLCBKWc) | 2:58 |
-| 75 | [Unconditional](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Unconditional](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
+| 75 | [UNCONDITIONAL](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [UNCONDITIONAL](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
 | 76 | [New hair, New me](https://open.spotify.com/track/0jlIGGHaXmdagLgGNsYQRk) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [New hair, New me](https://open.spotify.com/album/0dMh0YdW5h2e0uGLFxLAEs) | 2:32 |
 | 77 | [West Coast Girl](https://open.spotify.com/track/4wevmhCVQ1sSrmrYyZu9U1) | [10 000 år](https://open.spotify.com/artist/0emic5nhAqsyLBJHDy3E4l), [Nowhere Blue](https://open.spotify.com/artist/4rSnpj0LK5jbdGUTKeBLzP), [Birds Eye View](https://open.spotify.com/artist/60LZHUi3OMtWf7ETGxPAMO) | [West Coast Girl](https://open.spotify.com/album/2kewRK2h4IcqaAzUTvNQTQ) | 3:19 |
 | 78 | [FOREVER AGAIN](https://open.spotify.com/track/3CVQG2E6CL91pTeggbJOSj) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [FOREVER AGAIN](https://open.spotify.com/album/0j9WkluXe8I6DNPWyYTevQ) | 2:40 |

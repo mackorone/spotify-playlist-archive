@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Die Klassiker des Schweizer Hip\-Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,951 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,954 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 8 | [Track 05](https://open.spotify.com/track/7ojgCkJNhgFw7y5C7WlA3h) | [Temple of Speed](https://open.spotify.com/artist/3AWI9871W8BrYS6opessD9), [Sterneis](https://open.spotify.com/artist/2WkWYAv7rOry0WxWiDrcYE), [Tinguely dä Chnächt](https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj) | [10 Tracks \- Vol\. 4](https://open.spotify.com/album/1ZAiyo0VLkq8hO4Ev6mEK0) | 6:40 |
 | 9 | [Tagebuach](https://open.spotify.com/track/53hEa3yzWEKm7ft3EG7cVF) | [LIV](https://open.spotify.com/artist/4pw7Mbk0DDfe90FRWlXIzA), [DJ Babon](https://open.spotify.com/artist/0wc6XBZwfrVIKFxJkhxm41) | [Churer Dame König Gras](https://open.spotify.com/album/3chLYTAznowVTDoIZByBVq) | 3:25 |
 | 10 | [Glasmönsch](https://open.spotify.com/track/0GfZ8xC6eDB0OyeC3vipjn) | [Tommy Vercetti](https://open.spotify.com/artist/26ZoEX0BLjUNba2ED2JyP3), [Dezmond Dez](https://open.spotify.com/artist/24NMjXIq47JuymBZ5AVlLD) | [Glanton Gang](https://open.spotify.com/album/0kiaJgxcPFBCRx7AilxSef) | 4:53 |
-| 11 | [Ich weiss scho](https://open.spotify.com/track/7G8OZ2uvpFeMbUfx9TP3Bj) | [Luut & Tüütli](https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW) | [Als chänteds Bärgä versetzä](https://open.spotify.com/album/3hCDtIE1aAIK90Wf3oIgys) | 5:14 |
-| 12 | [Gedankegäng](https://open.spotify.com/track/1Gn956F0SU6oKY0cGrAgEq) | [GeilerAsDu](https://open.spotify.com/artist/2sRldY768fLza4lKT5A0U6) | [Flöchted](https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek) | 3:02 |
+| 11 | [Gedankegäng](https://open.spotify.com/track/1Gn956F0SU6oKY0cGrAgEq) | [GeilerAsDu](https://open.spotify.com/artist/2sRldY768fLza4lKT5A0U6) | [Flöchted](https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek) | 3:02 |
+| 12 | [Ich weiss scho](https://open.spotify.com/track/7G8OZ2uvpFeMbUfx9TP3Bj) | [Luut & Tüütli](https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW) | [Als chänteds Bärgä versetzä](https://open.spotify.com/album/3hCDtIE1aAIK90Wf3oIgys) | 5:14 |
 | 13 | [Stars und Sternli](https://open.spotify.com/track/4MlczrGSAqPqRupKLRsZUj) | [Phumaso & Smack](https://open.spotify.com/artist/2uOvks2pSGWPKKw30tq9kS), [Bandit](https://open.spotify.com/artist/0JjVRX0d2SnWZc3I1sEfvS) | [Wurzle & Chrone](https://open.spotify.com/album/3aGKP36WDLsuImUpGG6qSM) | 4:08 |
 | 14 | [Avenue \(feat\. Karolyn\)](https://open.spotify.com/track/2oBcWgTaL7Hf3kwyKKoKAM) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Avenue \(feat\. Karolyn\)](https://open.spotify.com/album/1FROZGtaQG82Gr2SkohAE3) | 3:32 |
 | 15 | [Engel Vo Züri](https://open.spotify.com/track/5OETCdn1Y51cTsdWOVjWQg) | [Semantik](https://open.spotify.com/artist/2EMN6fOJ9EF6cUcd9pv7hE) | [Molotow](https://open.spotify.com/album/6E9o75YzTD5tJ5v3lWoGZR) | 4:00 |

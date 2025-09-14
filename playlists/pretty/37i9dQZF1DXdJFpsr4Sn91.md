@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa costee ja BESS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,876 likes - 84 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,884 likes - 84 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Köyhä ja kipee \(feat\. BESS\)](https://open.spotify.com/track/4N1xl85zvCN21lRpz5aEZQ) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Nää pirut on mun kavereit](https://open.spotify.com/album/3qfGZ2Tk9Y3SmS0p7BPjO7) | 3:11 |
 | 2 | [Ai Että](https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ai Että](https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg) | 2:41 |
-| 3 | [Camera](https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl) | 3:35 |
-| 4 | [BMW](https://open.spotify.com/track/0Oqr9x0w5JSx74G307XWFV) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [BMW](https://open.spotify.com/album/2LhZbv4JOmaFrVKyf7nXh3) | 2:58 |
-| 5 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
-| 6 | [Uus ikuisuus](https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Uus ikuisuus](https://open.spotify.com/album/5sJ7kXJARagnnxyPaKrNXc) | 2:56 |
-| 7 | [Voiko enkelitkin eksyä](https://open.spotify.com/track/0p2JegDOnAHal6tyUqcsbW) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6ZawkhQLo031iW3evZzeUr) | 4:00 |
+| 3 | [Voiko enkelitkin eksyä](https://open.spotify.com/track/0p2JegDOnAHal6tyUqcsbW) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6ZawkhQLo031iW3evZzeUr) | 4:00 |
+| 4 | [Camera](https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl) | 3:35 |
+| 5 | [BMW](https://open.spotify.com/track/0Oqr9x0w5JSx74G307XWFV) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [BMW](https://open.spotify.com/album/2LhZbv4JOmaFrVKyf7nXh3) | 2:58 |
+| 6 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
+| 7 | [Uus ikuisuus](https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Uus ikuisuus](https://open.spotify.com/album/5sJ7kXJARagnnxyPaKrNXc) | 2:56 |
 | 8 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 |
 | 9 | [Yöpakkasii](https://open.spotify.com/track/5PwkPXZpfb7yXlfx5f4lsI) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Yöpakkasii](https://open.spotify.com/album/1sW7InFGvltXITXenNLk1L) | 3:00 |
 | 10 | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/track/0qhInLAWcI38LnFEcKa2FV) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/album/49KPpjc1firTCQNTJAGn1i) | 2:44 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 83 | [Onneks](https://open.spotify.com/track/6Pnv2q27FEAXKAPeuny5w5) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Onneks](https://open.spotify.com/album/47CR0XQ5zbMS7Rg8KIs87e) | 2:40 |
 | 84 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
 
-Snapshot ID: `AAAAAO2DsHD0bOPVmZAf3LQzCUw+iUWe`
+Snapshot ID: `AAAAABO3dViXGIY5fnzH/w1ZfHUitYwE`

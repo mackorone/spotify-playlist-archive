@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Kujenga",
-  "num_followers": 11824,
+  "num_followers": 11828,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
-        "name": "TRUE STORY",
-        "url": "https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Jiyane Tree-O",
-          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
-        }
-      ],
-      "duration_ms": 237516,
-      "name": "Baby Ngimanzi Wuthando",
-      "url": "https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ"
-    },
-    {
-      "added_at": "2025-08-29 10:19:41",
-      "album": {
         "name": "Ndilapha",
         "url": "https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 398530,
       "name": "Wendile",
       "url": "https://open.spotify.com/track/72eOisbgNdPmSKNMrokUIQ"
+    },
+    {
+      "added_at": "2025-08-29 10:19:41",
+      "album": {
+        "name": "TRUE STORY",
+        "url": "https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Jiyane Tree-O",
+          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
+        }
+      ],
+      "duration_ms": 237516,
+      "name": "Baby Ngimanzi Wuthando",
+      "url": "https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ"
     },
     {
       "added_at": "2025-08-29 10:19:41",
@@ -575,26 +575,6 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
-        "name": "When We Love",
-        "url": "https://open.spotify.com/album/6Unyfiu2vf5ylGeSOuQm4S"
-      },
-      "artists": [
-        {
-          "name": "Tutu Puoane",
-          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        }
-      ],
-      "duration_ms": 338800,
-      "name": "When We Love",
-      "url": "https://open.spotify.com/track/0xJhuT46JCo3KcE8EECp4e"
-    },
-    {
-      "added_at": "2025-08-29 10:19:41",
-      "album": {
         "name": "Usuku Oluzayo (feat. Ndabo Zulu & Terrace Martin)",
         "url": "https://open.spotify.com/album/0UMsyKw3yImVOrbpIFXGle"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 471952,
       "name": "Usuku Oluzayo (feat. Ndabo Zulu & Terrace Martin)",
       "url": "https://open.spotify.com/track/4tuvLHfZ9vHeGS000zP20G"
+    },
+    {
+      "added_at": "2025-08-29 10:19:41",
+      "album": {
+        "name": "When We Love",
+        "url": "https://open.spotify.com/album/6Unyfiu2vf5ylGeSOuQm4S"
+      },
+      "artists": [
+        {
+          "name": "Tutu Puoane",
+          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        }
+      ],
+      "duration_ms": 338800,
+      "name": "When We Love",
+      "url": "https://open.spotify.com/track/0xJhuT46JCo3KcE8EECp4e"
     },
     {
       "added_at": "2025-08-29 10:19:41",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
+        "name": "Ndiyakudinga (Live)",
+        "url": "https://open.spotify.com/album/4UnKNK8myYGeFXZeOSKg0a"
+      },
+      "artists": [
+        {
+          "name": "Herbie Tsoaeli",
+          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
+        }
+      ],
+      "duration_ms": 480000,
+      "name": "Monwabisi's Delights I - Live",
+      "url": "https://open.spotify.com/track/4LXlevI5oBoowRjn2w3Ydy"
+    },
+    {
+      "added_at": "2025-08-29 10:19:41",
+      "album": {
         "name": "Bela Bela (Live Studio)",
         "url": "https://open.spotify.com/album/7jwsvjLpVhlglv8Wy7NZOn"
       },
@@ -887,18 +903,18 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
-        "name": "Ndiyakudinga (Live)",
-        "url": "https://open.spotify.com/album/4UnKNK8myYGeFXZeOSKg0a"
+        "name": "H.O.P.E (Holding On to Positive Expectations)",
+        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
       },
       "artists": [
         {
-          "name": "Herbie Tsoaeli",
-          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
+          "name": "Ofentse Moses Sebula",
+          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
         }
       ],
-      "duration_ms": 480000,
-      "name": "Monwabisi's Delights I - Live",
-      "url": "https://open.spotify.com/track/4LXlevI5oBoowRjn2w3Ydy"
+      "duration_ms": 365000,
+      "name": "H.O.P.E",
+      "url": "https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a"
     },
     {
       "added_at": "2025-08-29 10:19:41",
@@ -919,22 +935,6 @@
       "duration_ms": 258920,
       "name": "Elusive Freedom",
       "url": "https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3"
-    },
-    {
-      "added_at": "2025-08-29 10:19:41",
-      "album": {
-        "name": "H.O.P.E (Holding On to Positive Expectations)",
-        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
-      },
-      "artists": [
-        {
-          "name": "Ofentse Moses Sebula",
-          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
-        }
-      ],
-      "duration_ms": 365000,
-      "name": "H.O.P.E",
-      "url": "https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a"
     }
   ],
   "unique_name": "Jazz NXT",

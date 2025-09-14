@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajdJmP3ZBZI.md) - [plain]
 
 > a seriously incredible playlist from Kyle MacLachlan to say au revoir to Brat Summer\. Check out <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">past mixtapes here</a>\. Welcome to the curators' playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,317 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,339 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

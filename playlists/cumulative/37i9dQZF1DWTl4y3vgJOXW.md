@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Jordan Love
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Canelo Álvarez<br/> and Terence Crawford
 
 844 songs - 1 day 19 hr 14 min
 

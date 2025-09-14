@@ -1,6 +1,6 @@
 {
   "description": "Der Sommer neigt sich dem Ende \ud83e\udd72 - und das waren die Sommerhits  2025.",
-  "num_followers": 1607394,
+  "num_followers": 1607297,
   "original_name": "Sommerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "Helele",
-        "url": "https://open.spotify.com/album/57OkXxBnv09LuYBJ1f14de"
-      },
-      "artists": [
-        {
-          "name": "Noel Holler",
-          "url": "https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj"
-        },
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        }
-      ],
-      "duration_ms": 130298,
-      "name": "Helele",
-      "url": "https://open.spotify.com/track/2c0bSdQd5dxkfCySYm6xJU"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
         "name": "Born Again",
         "url": "https://open.spotify.com/album/3sCDeEFzmAnapVbmkLGKmt"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 217004,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/04S8gIcwrcm97fNZKtSGXX"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
+        "name": "Helele",
+        "url": "https://open.spotify.com/album/57OkXxBnv09LuYBJ1f14de"
+      },
+      "artists": [
+        {
+          "name": "Noel Holler",
+          "url": "https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        }
+      ],
+      "duration_ms": 130298,
+      "name": "Helele",
+      "url": "https://open.spotify.com/track/2c0bSdQd5dxkfCySYm6xJU"
     },
     {
       "added_at": "2025-08-29 06:03:40",

@@ -7515,6 +7515,32 @@
     },
     {
       "album": {
+        "name": "CC&MO",
+        "url": "https://open.spotify.com/album/6piWSXJfxNDZLP13xDzUge"
+      },
+      "artists": [
+        {
+          "name": "Aymo",
+          "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155083,
+      "name": "CC&MO",
+      "url": "https://open.spotify.com/track/2jTMp5LqbcxgVYQEc7WU7l"
+    },
+    {
+      "album": {
         "name": "KARMA",
         "url": "https://open.spotify.com/album/5ULZLn7Vv8TCeIpe0Uh2hO"
       },
@@ -18956,7 +18982,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 143298,
       "name": "I Think I Like You Better When You\u2019re Gone",
       "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
@@ -19090,7 +19116,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 148653,
       "name": "I'm a Dog",
       "url": "https://open.spotify.com/track/2Dlp3mgmT5GgKw9tXs85NA"
@@ -35564,7 +35590,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
@@ -37910,7 +37936,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 109206,
       "name": "TANLINES",
       "url": "https://open.spotify.com/track/0WjgqfgjsdwZnwUBCqdOxq"
@@ -43916,7 +43942,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 157948,
       "name": "YAPAR MISIN?",
       "url": "https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8"

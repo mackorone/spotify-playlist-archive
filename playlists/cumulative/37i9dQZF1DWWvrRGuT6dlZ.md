@@ -2,7 +2,7 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: Straw 林水草\.  Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: Ehin\.  Artwork: Isu Kim.
 
 1,260 songs - 2 day 20 hr 50 min
 

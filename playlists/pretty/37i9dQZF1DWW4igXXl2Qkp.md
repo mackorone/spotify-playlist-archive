@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\.  Cover: <a href="spotify:artist:4WBs3HlXxMAqo8Yi6m1PCM">Liim</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,360 likes - 104 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,397 likes - 104 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 91 | [Billie](https://open.spotify.com/track/5vx8AY92YD9EzUWW2F3Klb) | [Otto4eva](https://open.spotify.com/artist/1xJuGnBVpAiZ7mApnalMyV) | [Billie](https://open.spotify.com/album/0QOzdnzwSGYHbcZEZfGL8o) | 1:50 |
 | 92 | [get 2 it](https://open.spotify.com/track/7hgiEbySRPGB7TEXhVTB4K) | [Langston Bristol](https://open.spotify.com/artist/06gQAoURCBTZrRk850fP16) | [get 2 it](https://open.spotify.com/album/5LgfaI4n4DB5yfMx3SwXQ7) | 1:48 |
 | 93 | [Rice & Gravy](https://open.spotify.com/track/4tG3Gz20s4r9ctRzRk0e23) | [Warhol.SS](https://open.spotify.com/artist/3O7mUqVuHmLJqHXbFiQY62) | [Rice & Gravy](https://open.spotify.com/album/1Ufz3m6LV4csSJ9IxnDfGz) | 2:03 |
-| 94 | [Fasho Dat \(feat\. Honest, Lil Yachty, & Concrete Boys\)](https://open.spotify.com/track/2l9SA8iwvzEQqYJhbKngWT) | [Honest](https://open.spotify.com/artist/0UVv3tdAVAmHXHhhMOQyhX), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Fasho Dat \(feat\. Honest, Lil Yachty, & Concrete Boys\)](https://open.spotify.com/album/1YHp8ihu0HjFCWv6eQHnLM) | 2:24 |
+| 94 | [Fasho Dat \(feat\. Honest, Lil Yachty, & Concrete Boys\)](https://open.spotify.com/track/2l9SA8iwvzEQqYJhbKngWT) | [Honest](https://open.spotify.com/artist/4esIMCwjjCf91Jgmwe5VB9), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Fasho Dat \(feat\. Honest, Lil Yachty, & Concrete Boys\)](https://open.spotify.com/album/1YHp8ihu0HjFCWv6eQHnLM) | 2:24 |
 | 95 | ['Twas The Day](https://open.spotify.com/track/7ChfYq3jN4DJuyAUb2OBpM) | [D2x](https://open.spotify.com/artist/39Cb8HYiuT4clBeNABSjPA) | [Boy In The Blue Hoodie](https://open.spotify.com/album/39wg5lXwNEY2Nw5RYIQ4z5) | 3:04 |
 | 96 | [CHICKEN GANG YMC](https://open.spotify.com/track/03z3nHwRY2DcLhUBzw1mI8) | [Lil Dre6o](https://open.spotify.com/artist/3HT9jbDp89eu9Dxi3vAZzG) | [CHICKEN GANG YMC](https://open.spotify.com/album/3yMJXSWoQDOn9aXxS4poli) | 2:00 |
 | 97 | [Back Of The Bank](https://open.spotify.com/track/2lEgefekp7xam3uQk0evmo) | [DEMIYAA](https://open.spotify.com/artist/2VFnxZPBUoglahI0kc6dvc), [Lil Rae](https://open.spotify.com/artist/3mBgj6uh2YjNocaBRGJumA) | [My World](https://open.spotify.com/album/0DPVHxNMS2ey3Eno7qMd4h) | 2:12 |

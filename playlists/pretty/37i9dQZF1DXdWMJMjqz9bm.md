@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: CORTIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,802 likes - 55 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,840 likes - 55 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

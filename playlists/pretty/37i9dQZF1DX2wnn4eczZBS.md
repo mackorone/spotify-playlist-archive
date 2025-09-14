@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: Elias Mazian
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,806 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,804 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,20 +40,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 30 | [Ik Heb Tijd](https://open.spotify.com/track/7qXpqAZIeaqKh1VA9XbQVh) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Ik Heb Tijd](https://open.spotify.com/album/0UmqecBUudgRkeagngDkd9) | 3:16 |
 | 31 | [Neem Het Dan Terug](https://open.spotify.com/track/4wUlyyKkDIFiqWnAMt9nob) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Neem Het Dan Terug](https://open.spotify.com/album/2IDr4joV1YC6rivjvCACtg) | 2:50 |
 | 32 | [Liefdesliedjes](https://open.spotify.com/track/4PzyPRTRkMB6JsDlVGjuNu) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw), [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea) | [Liefdesliedjes](https://open.spotify.com/album/2QtZT3JR3tOkPhdLtm3Juz) | 2:13 |
-| 33 | [VOL v2.025](https://open.spotify.com/track/61pq3uXW7ybCgWxBi4iAGY) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [v2.025](https://open.spotify.com/album/1UVFHFPXrnPXiLR7bOTiFZ) | 3:31 |
-| 34 | [Kubus In Een Ballenbak](https://open.spotify.com/track/6gVbNT8Tqy1OzcnmDJYdcP) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Kubus In Een Ballenbak](https://open.spotify.com/album/2MRU9IpUwOsXN3n1dfXhFd) | 2:25 |
-| 35 | [De Grens Tussen Ons](https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Het Hart Bestaat Niet En De Rest Ook Niet](https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW) | 3:29 |
-| 36 | [dichtbij, veraf](https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [kleine auto, grote hot wheel](https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP) | 4:25 |
-| 37 | [Krijt](https://open.spotify.com/track/43EQUVQgXKeEQ3jivFdE6c) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Krijt](https://open.spotify.com/album/14XuQas4lx3fztkq8H5GjE) | 2:28 |
+| 33 | [Kubus In Een Ballenbak](https://open.spotify.com/track/6gVbNT8Tqy1OzcnmDJYdcP) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Kubus In Een Ballenbak](https://open.spotify.com/album/2MRU9IpUwOsXN3n1dfXhFd) | 2:25 |
+| 34 | [VOL v2.025](https://open.spotify.com/track/61pq3uXW7ybCgWxBi4iAGY) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [v2.025](https://open.spotify.com/album/1UVFHFPXrnPXiLR7bOTiFZ) | 3:31 |
+| 35 | [dichtbij, veraf](https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [kleine auto, grote hot wheel](https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP) | 4:25 |
+| 36 | [De Grens Tussen Ons](https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Het Hart Bestaat Niet En De Rest Ook Niet](https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW) | 3:29 |
+| 37 | [Disco Dip](https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje \(Deluxe\)](https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0) | 3:05 |
 | 38 | [narcose](https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [narcose](https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa) | 2:53 |
-| 39 | [Disco Dip](https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje \(Deluxe\)](https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0) | 3:05 |
+| 39 | [Krijt](https://open.spotify.com/track/43EQUVQgXKeEQ3jivFdE6c) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Krijt](https://open.spotify.com/album/14XuQas4lx3fztkq8H5GjE) | 2:28 |
 | 40 | [Ik Geloof Dat Wij Iets Delen](https://open.spotify.com/track/5RydxLGNvlzrHfhxUQUoI9) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Ik Geloof Dat Wij Iets Delen](https://open.spotify.com/album/2li4Roi5D0L2W5AhADHfwR) | 2:45 |
 | 41 | [LEKKER MET DE MEIDEN v2.025](https://open.spotify.com/track/65vKBzAGrgUEaKNaWvl3qY) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [LEKKER MET DE MEIDEN v2.025](https://open.spotify.com/album/3AQSe8C18CAPmlY1gCVFeV) | 4:11 |
 | 42 | [Vlinder](https://open.spotify.com/track/1ylgbB1PBVQPtE9TQvRNH8) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Vlinder](https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f) | 2:49 |
 | 43 | [Drijfzand](https://open.spotify.com/track/7xIUJS8zUUfkXvxXrdOgmo) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [Drijfzand](https://open.spotify.com/album/33HwgqAUk5su4mUxTsKtoc) | 3:39 |
 | 44 | [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:10 |
-| 45 | [Filmster](https://open.spotify.com/track/33hQTFcIB1w2NTGSXwnvAj) | [dorpsstraat 3](https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A) | [Staal Op Staal](https://open.spotify.com/album/4ATUDakW1IL9zYu3oEG74Q) | 3:55 |
-| 46 | [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 |
+| 45 | [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 |
+| 46 | [Filmster](https://open.spotify.com/track/33hQTFcIB1w2NTGSXwnvAj) | [dorpsstraat 3](https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A) | [Staal Op Staal](https://open.spotify.com/album/4ATUDakW1IL9zYu3oEG74Q) | 3:55 |
 | 47 | [Wind In De Zeilen](https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Wind In De Zeilen](https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D) | 3:35 |
 | 48 | [Vager!](https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN), [MAZOO](https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj) | [Vager!](https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J) | 2:12 |
 | 49 | [Wauw](https://open.spotify.com/track/2Pqh5BrKly0mN6uvavP6Xm) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Diep In De Nacht \(Original Soundtrack\)](https://open.spotify.com/album/1Alx3D8sFOF2APdvn2XMHu) | 1:54 |

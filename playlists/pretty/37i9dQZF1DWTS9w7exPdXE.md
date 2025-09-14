@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Volkspop \| Nederpop\. Cover: Yves Berendse
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,720 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,788 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 24 | [Bon Gepakt](https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Bon Gepakt](https://open.spotify.com/album/6XvZXJyMOhUtXapAJW7hiY) | 2:53 |
 | 25 | [Jammer Dan](https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Jammer Dan](https://open.spotify.com/album/2AxAA2mZxU9U8EymFn0nxd) | 3:05 |
 | 26 | [Vluchtstrook](https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Vluchtstrook](https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm) | 2:28 |
-| 27 | [Ik Heb De Hele Nacht Liggen Dromen](https://open.spotify.com/track/424Blek9ClYC97FV3muHqV) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Niemand Anders](https://open.spotify.com/album/5nqY3O7eAIz1RpKmFr1zRB) | 4:08 |
-| 28 | [Lekkerding](https://open.spotify.com/track/5sTqteIZDJJtx04xHBTbBD) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Jouw Glimlach Op Je Mond](https://open.spotify.com/album/19DQ4S9J7ga2NczygNpl58) | 3:43 |
+| 27 | [Lekkerding](https://open.spotify.com/track/5sTqteIZDJJtx04xHBTbBD) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Jouw Glimlach Op Je Mond](https://open.spotify.com/album/19DQ4S9J7ga2NczygNpl58) | 3:43 |
+| 28 | [Ik Heb De Hele Nacht Liggen Dromen](https://open.spotify.com/track/424Blek9ClYC97FV3muHqV) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Niemand Anders](https://open.spotify.com/album/5nqY3O7eAIz1RpKmFr1zRB) | 4:08 |
 | 29 | [Automatisch](https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Automatisch](https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs) | 2:45 |
 | 30 | [Het Regent Zonnestralen](https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Adem](https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb) | 3:45 |
 | 31 | [Uit M'n Bol](https://open.spotify.com/track/0uCGho2Tyzcq3vTKerkWiQ) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Met Heel Mijn Hart](https://open.spotify.com/album/1O66zmJwQw98cKjVzdRAiD) | 3:29 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 89 | [Mijn Loterij](https://open.spotify.com/track/6XSanjhhXXpnsEI3O6zQqC) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Mijn Loterij](https://open.spotify.com/album/3RKA8TDjP7UVdY15avLtcb) | 3:09 |
 | 90 | [Smoorverliefd](https://open.spotify.com/track/6bXaoRO085rjafV7Qfkgcm) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 3:15 |
 | 91 | [Ik Laat Je Nooit Meer Gaan](https://open.spotify.com/track/2LJdZAqsVXQK8YhfxyFDv5) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [10 Jaar \(Mijn Grootste Hits Tot Nu Toe\)](https://open.spotify.com/album/7BXFVHDPJh2pKr9AdP7wiH) | 3:50 |
-| 92 | [Helena 2.0](https://open.spotify.com/track/2J0br43id0NFuqLt5fJDe0) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Helena 2.0](https://open.spotify.com/album/27UELHV6awvdAjsLtsh5Uf) | 3:20 |
-| 93 | [Echte Mannen](https://open.spotify.com/track/4o9157hDlVkI3yB6VlftO2) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Echte Mannen](https://open.spotify.com/album/7j19gpFj0fFgofGpzKBxIA) | 2:31 |
+| 92 | [Echte Mannen](https://open.spotify.com/track/4o9157hDlVkI3yB6VlftO2) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Echte Mannen](https://open.spotify.com/album/7j19gpFj0fFgofGpzKBxIA) | 2:31 |
+| 93 | [Helena 2.0](https://open.spotify.com/track/2J0br43id0NFuqLt5fJDe0) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Helena 2.0](https://open.spotify.com/album/27UELHV6awvdAjsLtsh5Uf) | 3:20 |
 | 94 | [Liever Te Dik In De Kist](https://open.spotify.com/track/67xy7fhM9hKO6SxyHh7vrE) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm), [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Liever Te Dik In De Kist](https://open.spotify.com/album/1JcMPNLvGonkOCRUIU8oaA) | 3:58 |
 | 95 | [Bloedje Bloedje Heet](https://open.spotify.com/track/2lLJZ9cbx2Dp8cgfQTPkhy) | [Rob Zorn](https://open.spotify.com/artist/0c6wYitLm4qjmJSfw4Aej8) | [Bloedje Bloedje Heet](https://open.spotify.com/album/4kmJHWSPd0ZxiZOXals4zi) | 3:54 |
 | 96 | [Want Jij](https://open.spotify.com/track/1uAwsciTUTnHRWzi1b0ylJ) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Want Jij](https://open.spotify.com/album/7ljEQvUEmPD7fKQGzwCPS7) | 3:02 |

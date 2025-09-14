@@ -1,6 +1,6 @@
 {
   "description": "Revive aquellas grandes canciones desenchufadas.",
-  "num_followers": 1079022,
+  "num_followers": 1078992,
   "original_name": "Grandes Unplugged",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 324773,
+      "name": "Si t\u00fa no vuelves - MTV Unplugged",
+      "url": "https://open.spotify.com/track/0L5sYIDHdhnwtJE0xB0JKV"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
         "name": "MTV Unplugged: El Desconecte",
         "url": "https://open.spotify.com/album/5ceBnTwI1hUewZEwYnTc7z"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 313400,
       "name": "Hit Me - MTV Unplugged",
       "url": "https://open.spotify.com/track/3vKCtmzGnf87XsILKozKVX"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 324773,
-      "name": "Si t\u00fa no vuelves - MTV Unplugged",
-      "url": "https://open.spotify.com/track/0L5sYIDHdhnwtJE0xB0JKV"
     },
     {
       "added_at": "2021-02-10 21:16:07",

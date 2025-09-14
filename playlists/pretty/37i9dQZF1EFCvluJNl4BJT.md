@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,058 likes - 113 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,059 likes - 113 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 84 | [Is There Someone New?](https://open.spotify.com/track/0994zyvjadFAqOkl5ak8Uo) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Jeremy](https://open.spotify.com/album/5X7h8P7D3blxtgexUNAyV3) | 2:32 |
 | 85 | [Best Friend](https://open.spotify.com/track/4vt8u3ml9SWNWE2GUNpMPO) | [RaVaughn](https://open.spotify.com/artist/3JdYPiv1crdgsbgsryxQu6) | [Best Friend](https://open.spotify.com/album/314f7RM2bkNZiqAG3vc8Ym) | 3:33 |
 | 86 | [Mean It](https://open.spotify.com/track/7B4XVwdxXFJ3yzz2BtJPmf) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Homicide](https://open.spotify.com/album/5MEbCYZLR7HGbZP45NrhrW) | 2:24 |
-| 87 | [SOONER OR LATER \(feat\. Axlfolie\)](https://open.spotify.com/track/5FRwXERFravyWu3AoCHNsT) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Axlfolie](https://open.spotify.com/artist/0sIAaocqA1M3h5zegadwFx) | [MUTT](https://open.spotify.com/album/6gXOscJIR9wBb3OvNmeAGk) | 1:48 |
-| 88 | [HEEL](https://open.spotify.com/track/5JG9zYkmhPnc6X8nyO3Bv1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL) | 3:55 |
+| 87 | [HEEL](https://open.spotify.com/track/5JG9zYkmhPnc6X8nyO3Bv1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL) | 3:55 |
+| 88 | [SOONER OR LATER \(feat\. Axlfolie\)](https://open.spotify.com/track/5FRwXERFravyWu3AoCHNsT) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Axlfolie](https://open.spotify.com/artist/0sIAaocqA1M3h5zegadwFx) | [MUTT](https://open.spotify.com/album/6gXOscJIR9wBb3OvNmeAGk) | 1:48 |
 | 89 | [Rendezvous \(feat\. Leon Thomas\)](https://open.spotify.com/track/1c5h0GIyMexX7pMpc3hg1I) | [Kronic](https://open.spotify.com/artist/2V30V0HJG5k0FKh3Zd3UnH), [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce) | [Rendezvous \(feat\. Leon Thomas\)](https://open.spotify.com/album/7pOH9q0rAjdCKAXlWY9wnZ) | 3:28 |
 | 90 | [My Will](https://open.spotify.com/track/1JQQJiQRK3zmc1EXBLJOj1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:53 |
 | 91 | [The Get Down](https://open.spotify.com/track/7jWGjydjIZSA1tsGtWW4mF) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Phases II \- EP](https://open.spotify.com/album/298YQLbdm8HlKXbh0uXKxN) | 3:29 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 112 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 | 113 | [Gold Roses](https://open.spotify.com/track/3XomMMljed4MXjdFZ9onGZ) | [Clyde Hawk](https://open.spotify.com/artist/6LvZ5UnHQ0cJ552rXZKwre) | [Tuxedo Time](https://open.spotify.com/album/63nRJfSxLTmpRQ1nNi79BV) | 5:47 |
 
-Snapshot ID: `Ab8DoAAAAABNV6pr0zF608ZM/qT1Y4/8`
+Snapshot ID: `Ab8JcgAAAAB35M7Cg4J8D8NQsM/ipYhe`

@@ -38610,7 +38610,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 237570,
       "name": "Eitt af bl\u00f3munum",
       "url": "https://open.spotify.com/track/1GYdqYsy1wZ3NtGdt9wslN"
@@ -42584,7 +42584,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 205946,
       "name": "falls no wonder - live",
       "url": "https://open.spotify.com/track/6XyUboZM9VTEF7Ulk2yVcb"
@@ -105361,6 +105361,32 @@
     },
     {
       "album": {
+        "name": "Pink Money (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164586,
+      "name": "Pink Money (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW"
+    },
+    {
+      "album": {
         "name": "PISSED OFF",
         "url": "https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e"
       },
@@ -124226,7 +124252,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 245704,
       "name": "Stay Right Here",
       "url": "https://open.spotify.com/track/75S8iX5TsSyuv6EKQQ7Vc4"
@@ -129636,6 +129662,24 @@
     {
       "album": {
         "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/52BDAip4KBtIyhrRN6llfz"
+      },
+      "artists": [
+        {
+          "name": "BJOREN",
+          "url": "https://open.spotify.com/artist/4QBbT0svzItb89Ftbgxu5M"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197419,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/5VZ0iEJUeYJ9xY7ebpd4a7"
+    },
+    {
+      "album": {
+        "name": "Take Me Away",
         "url": "https://open.spotify.com/album/2yoPkKdnOSZGvBvSwjQdmB"
       },
       "artists": [
@@ -130156,7 +130200,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 152479,
       "name": "Take Your Shoes Off",
       "url": "https://open.spotify.com/track/5HxoXZLOnzOB2cLBrWQOij"

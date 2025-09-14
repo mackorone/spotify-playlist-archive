@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 335388,
+  "num_followers": 335707,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,22 @@
     {
       "added_at": "2025-09-10 07:56:42",
       "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 277600,
+      "name": "Where the Night Begins",
+      "url": "https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu"
+    },
+    {
+      "added_at": "2025-09-10 07:56:42",
+      "album": {
         "name": "South Beach",
         "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 292120,
       "name": "Never Without You",
       "url": "https://open.spotify.com/track/7G212RN10A9CTozYwBXbNq"
-    },
-    {
-      "added_at": "2025-09-10 07:56:42",
-      "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "Where the Night Begins",
-      "url": "https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu"
     },
     {
       "added_at": "2025-09-10 07:56:42",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-09-10 07:56:42",
       "album": {
-        "name": "Chill Factor",
-        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 276360,
-      "name": "Deep Touch",
-      "url": "https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW"
-    },
-    {
-      "added_at": "2025-09-10 07:56:42",
-      "album": {
         "name": "Forever, For Always, For Luther",
         "url": "https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 274466,
       "name": "Autumn Day",
       "url": "https://open.spotify.com/track/2w3XMjQfcfO2cS1T0xXcDu"
+    },
+    {
+      "added_at": "2025-09-10 07:56:42",
+      "album": {
+        "name": "Chill Factor",
+        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 276360,
+      "name": "Deep Touch",
+      "url": "https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW"
     },
     {
       "added_at": "2025-09-10 07:56:42",
@@ -691,18 +691,22 @@
     {
       "added_at": "2025-09-10 07:56:42",
       "album": {
-        "name": "My Inspiration",
-        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
       },
       "artists": [
         {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        },
+        {
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
         }
       ],
-      "duration_ms": 266960,
-      "name": "Old School",
-      "url": "https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi"
+      "duration_ms": 236960,
+      "name": "Two of a Kind (feat. Chuck Loeb)",
+      "url": "https://open.spotify.com/track/0rG2XJ2nMojj2dFMkpfSJ7"
     },
     {
       "added_at": "2025-09-10 07:56:42",
@@ -727,6 +731,22 @@
     {
       "added_at": "2025-09-10 07:56:42",
       "album": {
+        "name": "My Inspiration",
+        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
+      },
+      "artists": [
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 266960,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi"
+    },
+    {
+      "added_at": "2025-09-10 07:56:42",
+      "album": {
         "name": "Little Tokyo",
         "url": "https://open.spotify.com/album/4OtCVYtmUw5oJ7fSyRqbMQ"
       },
@@ -739,42 +759,6 @@
       "duration_ms": 195333,
       "name": "Little Tokyo",
       "url": "https://open.spotify.com/track/6KH7ps7H92gdLQcfIHpoc6"
-    },
-    {
-      "added_at": "2025-09-10 07:56:42",
-      "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        },
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "Two of a Kind (feat. Chuck Loeb)",
-      "url": "https://open.spotify.com/track/0rG2XJ2nMojj2dFMkpfSJ7"
-    },
-    {
-      "added_at": "2025-09-10 07:56:42",
-      "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 279040,
-      "name": "Candlelight",
-      "url": "https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy"
     },
     {
       "added_at": "2025-09-10 07:56:42",
@@ -795,6 +779,22 @@
     {
       "added_at": "2025-09-10 07:56:42",
       "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 279040,
+      "name": "Candlelight",
+      "url": "https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy"
+    },
+    {
+      "added_at": "2025-09-10 07:56:42",
+      "album": {
         "name": "Dressed To Chill",
         "url": "https://open.spotify.com/album/19oObbehmZIBxRB0lxfxXg"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 241386,
       "name": "Dressed To Chill",
       "url": "https://open.spotify.com/track/5yEoj9jfZcq2i31RfGIGUk"
-    },
-    {
-      "added_at": "2025-09-10 07:56:42",
-      "album": {
-        "name": "Howling At The Moon",
-        "url": "https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y"
-      },
-      "artists": [
-        {
-          "name": "Josie Stalilao",
-          "url": "https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL"
-        }
-      ],
-      "duration_ms": 215291,
-      "name": "Howling At The Moon",
-      "url": "https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4"
     },
     {
       "added_at": "2025-09-10 07:56:42",
@@ -843,18 +827,18 @@
     {
       "added_at": "2025-09-10 07:56:42",
       "album": {
-        "name": "For Your Pleasure",
-        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
+        "name": "Howling At The Moon",
+        "url": "https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y"
       },
       "artists": [
         {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+          "name": "Josie Stalilao",
+          "url": "https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL"
         }
       ],
-      "duration_ms": 258398,
-      "name": "I Feel You",
-      "url": "https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd"
+      "duration_ms": 215291,
+      "name": "Howling At The Moon",
+      "url": "https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4"
     },
     {
       "added_at": "2025-09-10 07:56:42",
@@ -875,18 +859,18 @@
     {
       "added_at": "2025-09-10 07:56:42",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
+        "name": "For Your Pleasure",
+        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
       },
       "artists": [
         {
-          "name": "Fourplay",
-          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
         }
       ],
-      "duration_ms": 329346,
-      "name": "Rozil",
-      "url": "https://open.spotify.com/track/5UMFH7JvX5Mdt96XT6TzKG"
+      "duration_ms": 258398,
+      "name": "I Feel You",
+      "url": "https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd"
     },
     {
       "added_at": "2025-09-10 07:56:42",
@@ -907,34 +891,18 @@
     {
       "added_at": "2025-09-10 07:56:42",
       "album": {
-        "name": "Got 2 Be Groovin'",
-        "url": "https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA"
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
       },
       "artists": [
         {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+          "name": "Fourplay",
+          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
         }
       ],
-      "duration_ms": 291226,
-      "name": "Miss Bane",
-      "url": "https://open.spotify.com/track/4j8MxCB4MmB7gxAQeLfVbG"
-    },
-    {
-      "added_at": "2025-09-10 07:56:42",
-      "album": {
-        "name": "Grinnell Street",
-        "url": "https://open.spotify.com/album/70qBNTYFomQkHYnBZvvYcX"
-      },
-      "artists": [
-        {
-          "name": "Citronium",
-          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
-        }
-      ],
-      "duration_ms": 235696,
-      "name": "Grinnell Street",
-      "url": "https://open.spotify.com/track/6DKXxUcWJqGIleYjogIoEQ"
+      "duration_ms": 329346,
+      "name": "Rozil",
+      "url": "https://open.spotify.com/track/5UMFH7JvX5Mdt96XT6TzKG"
     },
     {
       "added_at": "2025-09-10 07:56:42",
@@ -955,18 +923,34 @@
     {
       "added_at": "2025-09-10 07:56:42",
       "album": {
-        "name": "Do not disturb",
-        "url": "https://open.spotify.com/album/4RG39enCANdnjbagkDndcp"
+        "name": "Grinnell Street",
+        "url": "https://open.spotify.com/album/70qBNTYFomQkHYnBZvvYcX"
       },
       "artists": [
         {
-          "name": "Matty Mel Jr",
-          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
+          "name": "Citronium",
+          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
         }
       ],
-      "duration_ms": 179250,
-      "name": "Do not disturb",
-      "url": "https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE"
+      "duration_ms": 235696,
+      "name": "Grinnell Street",
+      "url": "https://open.spotify.com/track/6DKXxUcWJqGIleYjogIoEQ"
+    },
+    {
+      "added_at": "2025-09-10 07:56:42",
+      "album": {
+        "name": "Got 2 Be Groovin'",
+        "url": "https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 291226,
+      "name": "Miss Bane",
+      "url": "https://open.spotify.com/track/4j8MxCB4MmB7gxAQeLfVbG"
     },
     {
       "added_at": "2025-09-10 07:56:42",
@@ -983,6 +967,22 @@
       "duration_ms": 303973,
       "name": "Catnap",
       "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
+    },
+    {
+      "added_at": "2025-09-10 07:56:42",
+      "album": {
+        "name": "Do not disturb",
+        "url": "https://open.spotify.com/album/4RG39enCANdnjbagkDndcp"
+      },
+      "artists": [
+        {
+          "name": "Matty Mel Jr",
+          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "Do not disturb",
+      "url": "https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE"
     },
     {
       "added_at": "2025-09-10 07:56:42",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-09-10 07:56:42",
       "album": {
-        "name": "Jumpin' Off",
-        "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 325800,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO"
-    },
-    {
-      "added_at": "2025-09-10 07:56:42",
-      "album": {
         "name": "Smooth Creations the Album, Pt. 1",
         "url": "https://open.spotify.com/album/5NRxQH0cNTSE9JsssWVYDI"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2025-09-10 07:56:42",
       "album": {
-        "name": "Pleasure Seeker",
-        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
+        "name": "Jumpin' Off",
+        "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
       },
       "artists": [
         {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
         }
       ],
-      "duration_ms": 259360,
-      "name": "Dry Your Eyes",
-      "url": "https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl"
+      "duration_ms": 325800,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO"
     },
     {
       "added_at": "2025-09-10 07:56:42",
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2025-09-10 07:56:42",
       "album": {
-        "name": "Big Dume",
-        "url": "https://open.spotify.com/album/5gMbrDCBuqb0fHLteBX3fk"
+        "name": "Pleasure Seeker",
+        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
       },
       "artists": [
         {
-          "name": "Citronium",
-          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
         }
       ],
-      "duration_ms": 230101,
-      "name": "Big Dume",
-      "url": "https://open.spotify.com/track/2losmatdtyW89YzZuXzD3j"
+      "duration_ms": 259360,
+      "name": "Dry Your Eyes",
+      "url": "https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl"
     },
     {
       "added_at": "2025-09-10 07:56:42",
@@ -1147,6 +1131,22 @@
       "duration_ms": 180666,
       "name": "Changing Lanes",
       "url": "https://open.spotify.com/track/4JA3H5Yl2AaPlYJGHSExeb"
+    },
+    {
+      "added_at": "2025-09-10 07:56:42",
+      "album": {
+        "name": "Big Dume",
+        "url": "https://open.spotify.com/album/5gMbrDCBuqb0fHLteBX3fk"
+      },
+      "artists": [
+        {
+          "name": "Citronium",
+          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
+        }
+      ],
+      "duration_ms": 230101,
+      "name": "Big Dume",
+      "url": "https://open.spotify.com/track/2losmatdtyW89YzZuXzD3j"
     },
     {
       "added_at": "2025-09-10 07:56:42",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-09-10 07:56:42",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
-      },
-      "artists": [
-        {
-          "name": "Dan Siegel",
-          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
-        }
-      ],
-      "duration_ms": 332920,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN"
-    },
-    {
-      "added_at": "2025-09-10 07:56:42",
-      "album": {
         "name": "Brazil Chill",
         "url": "https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 322000,
       "name": "Brazil Chill",
       "url": "https://open.spotify.com/track/3UI2NlVimWCWOohTfyaP9v"
+    },
+    {
+      "added_at": "2025-09-10 07:56:42",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
+      },
+      "artists": [
+        {
+          "name": "Dan Siegel",
+          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
+        }
+      ],
+      "duration_ms": 332920,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN"
     },
     {
       "added_at": "2025-09-10 07:56:42",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2025-09-10 07:56:42",
       "album": {
-        "name": "Jazzmasters 3",
-        "url": "https://open.spotify.com/album/0WXePiP7WNfImObygPwrNM"
+        "name": "Paks",
+        "url": "https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW"
       },
       "artists": [
         {
-          "name": "Paul Hardcastle",
-          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
+          "name": "Lndoner",
+          "url": "https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7"
         }
       ],
-      "duration_ms": 251772,
-      "name": "London Chimes",
-      "url": "https://open.spotify.com/track/0jn3TQth2idMpHd4XhwgxH"
+      "duration_ms": 168888,
+      "name": "Paks",
+      "url": "https://open.spotify.com/track/3f526KslwaHSuamZFabgvk"
     },
     {
       "added_at": "2025-09-10 07:56:42",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2025-09-10 07:56:42",
       "album": {
-        "name": "Paks",
-        "url": "https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW"
+        "name": "Jazzmasters 3",
+        "url": "https://open.spotify.com/album/0WXePiP7WNfImObygPwrNM"
       },
       "artists": [
         {
-          "name": "Lndoner",
-          "url": "https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7"
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
         }
       ],
-      "duration_ms": 168888,
-      "name": "Paks",
-      "url": "https://open.spotify.com/track/3f526KslwaHSuamZFabgvk"
+      "duration_ms": 251772,
+      "name": "London Chimes",
+      "url": "https://open.spotify.com/track/0jn3TQth2idMpHd4XhwgxH"
     },
     {
       "added_at": "2025-09-10 07:56:42",

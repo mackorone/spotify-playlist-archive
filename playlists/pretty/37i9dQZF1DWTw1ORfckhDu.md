@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯  Kannessa Jami Faltin ja Etta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,235 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,260 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mitä On Rakkaus?](https://open.spotify.com/track/67kzN4IHVGvYJFeqVcxlIV) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Mitä On Rakkaus?](https://open.spotify.com/album/29X0ieFbhl43iQWeSqOmdF) | 2:31 |
-| 2 | [Parempi mies](https://open.spotify.com/track/7cHnbBoghcPqFQ1rcCUort) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Parempi mies](https://open.spotify.com/album/0PC2XvK07EEMfGS08PAc5a) | 2:57 |
-| 3 | [Ai Että](https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ai Että](https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg) | 2:41 |
+| 2 | [Ai Että](https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ai Että](https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg) | 2:41 |
+| 3 | [Parempi mies](https://open.spotify.com/track/7cHnbBoghcPqFQ1rcCUort) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Parempi mies](https://open.spotify.com/album/0PC2XvK07EEMfGS08PAc5a) | 2:57 |
 | 4 | [MRR](https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MRR](https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9) | 1:51 |
 | 5 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
 | 6 | [Kaunotar ja Hirviö](https://open.spotify.com/track/28sGUcOTAHoeyZ82zHoEOt) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Kaunotar ja Hirviö](https://open.spotify.com/album/2m3R1xD5xBTYwOcBKJkHPK) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Muijii stadis](https://open.spotify.com/track/3esf5YD88WaHyYw6rr9WWc) | [Sonia](https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah) | [Muijii stadis](https://open.spotify.com/album/32wXB7RFCSyS2qxATYi1Wl) | 3:12 |
 | 50 | [Kummitusjuna](https://open.spotify.com/track/1XtpCzueUZM4hDd5gpi0nB) | [Nikke Ankara](https://open.spotify.com/artist/2E5rkwWAKphgpurncaoAyn) | [Kummitusjuna](https://open.spotify.com/album/7Ksj2Y1jfGypo7fzHWG3IX) | 2:56 |
 
-Snapshot ID: `AAAAADlS2KfshUmm3Cn/+V7F2gpVNwgh`
+Snapshot ID: `AAAAACj1Nb7uSeEiETLxog8La2sG3yNQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: moon tang
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,600 likes - 97 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,601 likes - 97 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

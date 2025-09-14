@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Adia
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,367 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,383 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 50 | [God 1st](https://open.spotify.com/track/3fr7sRjXYbYz7rf2EdiKXr) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [God 1st](https://open.spotify.com/album/7a33DGV1r0RPgDLBDU2aez) | 2:00 |
 | 51 | [SHINING](https://open.spotify.com/track/1kBn6vyLimyz27XqoB5QJ9) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [SHINING](https://open.spotify.com/album/2df0FZvvJynhdzs0q01e52) | 2:38 |
 | 52 | [Pray For Me](https://open.spotify.com/track/5a4GypMcWJOAPHDU3iHY1Z) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [Pray For Me](https://open.spotify.com/album/6BpitCkt7DmiQNXkkwV3T3) | 2:45 |
-| 53 | [lord take my hand](https://open.spotify.com/track/5XeE2BPiivryusGlGrj3uB) | [Issac Mansfield](https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w) | [lord take my hand](https://open.spotify.com/album/74PYgyZTy9iH2EGznODDOY) | 2:12 |
+| 53 | [Lord take my hand](https://open.spotify.com/track/5XeE2BPiivryusGlGrj3uB) | [Issac Mansfield](https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w) | [Lord take my hand](https://open.spotify.com/album/74PYgyZTy9iH2EGznODDOY) | 2:12 |
 | 54 | [GOLD](https://open.spotify.com/track/3rmleojX0HSXOdIO1UeLti) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [GOLD](https://open.spotify.com/album/3tbfHbQ1UoWlmBLYZfCVZ7) | 2:12 |
 | 55 | [Peacekeeper](https://open.spotify.com/track/1kFP2HW3NWa9ng92zoqTgi) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Haiti Babii](https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi), [GodFearin](https://open.spotify.com/artist/2ivrSM5ZHAZj1tip28DlWR) | [Peacekeeper](https://open.spotify.com/album/2UhIMpSDgVMGXWnzRqggC5) | 2:41 |
 | 56 | [Thank You Lord](https://open.spotify.com/track/5xPmU88ZnWOfPVFIlUogNk) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [Thank You Lord](https://open.spotify.com/album/0BJntH21Xd65RJsLzlsipj) | 3:06 |

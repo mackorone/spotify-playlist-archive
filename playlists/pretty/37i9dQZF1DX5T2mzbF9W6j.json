@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 111960,
+  "num_followers": 111964,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -543,8 +543,8 @@
     {
       "added_at": "2025-08-08 11:05:28",
       "album": {
-        "name": "Next Summer",
-        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
         }
       ],
-      "duration_ms": 165676,
-      "name": "Next Summer",
-      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
+      "duration_ms": 188952,
+      "name": "Zombie Lady",
+      "url": "https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV"
     },
     {
       "added_at": "2025-08-08 11:05:28",
@@ -631,8 +631,8 @@
     {
       "added_at": "2025-08-08 11:05:28",
       "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+        "name": "Next Summer",
+        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
         }
       ],
-      "duration_ms": 188952,
-      "name": "Zombie Lady",
-      "url": "https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV"
+      "duration_ms": 165676,
+      "name": "Next Summer",
+      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
     },
     {
       "added_at": "2025-08-08 11:05:28",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-08-08 11:05:28",
       "album": {
-        "name": "Co noc",
-        "url": "https://open.spotify.com/album/4f1bC5xpaa9WEr87Wum7Bd"
-      },
-      "artists": [
-        {
-          "name": "Oskar Cyms",
-          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
-        }
-      ],
-      "duration_ms": 159428,
-      "name": "Co noc",
-      "url": "https://open.spotify.com/track/5GElBQDxiLNF991NLcuGje"
-    },
-    {
-      "added_at": "2025-08-08 11:05:28",
-      "album": {
         "name": "lekko",
         "url": "https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 158666,
       "name": "Z\u0141Y",
       "url": "https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6"
+    },
+    {
+      "added_at": "2025-08-08 11:05:28",
+      "album": {
+        "name": "Co noc",
+        "url": "https://open.spotify.com/album/4f1bC5xpaa9WEr87Wum7Bd"
+      },
+      "artists": [
+        {
+          "name": "Oskar Cyms",
+          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
+        }
+      ],
+      "duration_ms": 159428,
+      "name": "Co noc",
+      "url": "https://open.spotify.com/track/5GElBQDxiLNF991NLcuGje"
     },
     {
       "added_at": "2025-08-08 11:05:28",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-08-08 11:05:28",
       "album": {
-        "name": "No co Ty",
-        "url": "https://open.spotify.com/album/22xbCPIQgn3GtC218yfKBR"
-      },
-      "artists": [
-        {
-          "name": "Oskar Cyms",
-          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
-        }
-      ],
-      "duration_ms": 159374,
-      "name": "No co Ty",
-      "url": "https://open.spotify.com/track/2riYbbQSpMG2rKL9uKHZn8"
-    },
-    {
-      "added_at": "2025-08-08 11:05:28",
-      "album": {
         "name": "Flowers In The Water",
         "url": "https://open.spotify.com/album/6fOhPdyTl3T58HFWEXeqmw"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 142994,
       "name": "Flowers In The Water",
       "url": "https://open.spotify.com/track/1czfrD4LSjHFYHuYkzkrJK"
+    },
+    {
+      "added_at": "2025-08-08 11:05:28",
+      "album": {
+        "name": "No co Ty",
+        "url": "https://open.spotify.com/album/22xbCPIQgn3GtC218yfKBR"
+      },
+      "artists": [
+        {
+          "name": "Oskar Cyms",
+          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
+        }
+      ],
+      "duration_ms": 159374,
+      "name": "No co Ty",
+      "url": "https://open.spotify.com/track/2riYbbQSpMG2rKL9uKHZn8"
     },
     {
       "added_at": "2025-08-08 11:05:28",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2025-08-08 11:05:28",
       "album": {
-        "name": "for your validation",
-        "url": "https://open.spotify.com/album/1urRiweW0usayaxE3ueVmd"
+        "name": "Ma\u0142go\u015bka",
+        "url": "https://open.spotify.com/album/65Y5MXSN1X3WekMpUGkGlL"
       },
       "artists": [
         {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+          "name": "Maryla Rodowicz",
+          "url": "https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6"
+        },
+        {
+          "name": "Lanberry",
+          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
         }
       ],
-      "duration_ms": 166528,
-      "name": "IKYK",
-      "url": "https://open.spotify.com/track/1Dex4T6UbptuDqqdmMT7xw"
+      "duration_ms": 202263,
+      "name": "Ma\u0142go\u015bka",
+      "url": "https://open.spotify.com/track/1rTIdJlLHR60adzUKtjjAr"
     }
   ],
   "unique_name": "... ale najpierw kawa",

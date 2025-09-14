@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/53O8bwvmBaxGZinKoV6Akt"
+      },
+      "artists": [
+        {
+          "name": "Esoterica",
+          "url": "https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304986,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3MlgjrGfQoUa9apf39me6L"
+    },
+    {
+      "album": {
         "name": "Alive (Pt. II)",
         "url": "https://open.spotify.com/album/3633zGg6z9nbAuM1mMukm8"
       },
@@ -5131,6 +5149,24 @@
     },
     {
       "album": {
+        "name": "The Blue Nowhere",
+        "url": "https://open.spotify.com/album/7qy9gnX5SXAeW9fO6pzwTh"
+      },
+      "artists": [
+        {
+          "name": "Between The Buried And Me",
+          "url": "https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401146,
+      "name": "God Terror",
+      "url": "https://open.spotify.com/track/1wlikY9neDeNwPvVFETOod"
+    },
+    {
+      "album": {
         "name": "Goddamn Conspiracy",
         "url": "https://open.spotify.com/album/6ugodEhROAJ5y9bnhvvhaM"
       },
@@ -6292,7 +6328,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 260013,
       "name": "Innocence Was Long Forgotten",
       "url": "https://open.spotify.com/track/38xswHmNWqoAFznp81djgj"
@@ -10164,7 +10200,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 283008,
       "name": "Rigel",
       "url": "https://open.spotify.com/track/2v94YzlQ7jNn2IHcGHw7L6"

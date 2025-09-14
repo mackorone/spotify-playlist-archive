@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2446842,
+  "num_followers": 2446933,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -939,26 +939,6 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
-        "name": "Free (with Ellie Goulding)",
-        "url": "https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 212345,
-      "name": "Free (with Ellie Goulding)",
-      "url": "https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC"
-    },
-    {
-      "added_at": "2025-09-05 16:00:10",
-      "album": {
         "name": "Woke Up in Love",
         "url": "https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 216873,
       "name": "Woke Up in Love",
       "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
+    },
+    {
+      "added_at": "2025-09-05 16:00:10",
+      "album": {
+        "name": "Free (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 212345,
+      "name": "Free (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC"
     },
     {
       "added_at": "2025-09-05 16:00:10",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
+        "name": "WET TENNIS",
+        "url": "https://open.spotify.com/album/1u54eF07irCSSssyDG67R2"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 158549,
+      "name": "Summer In New York",
+      "url": "https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q"
+    },
+    {
+      "added_at": "2025-09-05 16:00:10",
+      "album": {
         "name": "Danielle (smile on my face)",
         "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
       },
@@ -1551,18 +1567,18 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
-        "name": "WET TENNIS",
-        "url": "https://open.spotify.com/album/1u54eF07irCSSssyDG67R2"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
       },
       "artists": [
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
         }
       ],
-      "duration_ms": 158549,
-      "name": "Summer In New York",
-      "url": "https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q"
+      "duration_ms": 164885,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
     },
     {
       "added_at": "2025-09-05 16:00:10",
@@ -1603,38 +1619,6 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 164885,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
-    },
-    {
-      "added_at": "2025-09-05 16:00:10",
-      "album": {
-        "name": "Billie (loving arms)",
-        "url": "https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 217265,
-      "name": "Billie (loving arms)",
-      "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
-    },
-    {
-      "added_at": "2025-09-05 16:00:10",
-      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 135428,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
+    },
+    {
+      "added_at": "2025-09-05 16:00:10",
+      "album": {
+        "name": "Billie (loving arms)",
+        "url": "https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 217265,
+      "name": "Billie (loving arms)",
+      "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
     },
     {
       "added_at": "2025-09-05 16:00:10",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
-    },
-    {
-      "added_at": "2025-09-05 16:00:10",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/4iVzhfADLoMgbTb4EIMPVF"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 177167,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/3lx9HS7No2pTJxPZRgdPdX"
+    },
+    {
+      "added_at": "2025-09-05 16:00:10",
+      "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
     },
     {
       "added_at": "2025-09-05 16:00:10",
@@ -2195,26 +2195,6 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/6jXFSUgmXl8qAZEIPChYcE"
-      },
-      "artists": [
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        },
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 167104,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/6E36ezapy6yorkh8UbNO65"
-    },
-    {
-      "added_at": "2025-09-05 16:00:10",
-      "album": {
         "name": "JOY (By My Side)",
         "url": "https://open.spotify.com/album/1pTMDMH44oAjkBArRruE3g"
       },
@@ -2251,6 +2231,26 @@
       "duration_ms": 191612,
       "name": "More Love (feat. Secondcity)",
       "url": "https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd"
+    },
+    {
+      "added_at": "2025-09-05 16:00:10",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/6jXFSUgmXl8qAZEIPChYcE"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 167104,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/6E36ezapy6yorkh8UbNO65"
     },
     {
       "added_at": "2025-09-05 16:00:10",
@@ -2667,26 +2667,6 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
-        "name": "Sunday Best",
-        "url": "https://open.spotify.com/album/41i9jjaqgHvTJJjJRUiRTe"
-      },
-      "artists": [
-        {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 171990,
-      "name": "Sunday Best",
-      "url": "https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n"
-    },
-    {
-      "added_at": "2025-09-05 16:00:10",
-      "album": {
         "name": "Anemoia",
         "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
       },
@@ -2703,6 +2683,26 @@
       "duration_ms": 218757,
       "name": "Devotion (feat. TEED)",
       "url": "https://open.spotify.com/track/6wgm6R3hGR820RHkX1cfTr"
+    },
+    {
+      "added_at": "2025-09-05 16:00:10",
+      "album": {
+        "name": "Sunday Best",
+        "url": "https://open.spotify.com/album/41i9jjaqgHvTJJjJRUiRTe"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 171990,
+      "name": "Sunday Best",
+      "url": "https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n"
     },
     {
       "added_at": "2025-09-05 16:00:10",
@@ -2855,26 +2855,6 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
-        "name": "Pressing Onward",
-        "url": "https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C"
-      },
-      "artists": [
-        {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        },
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        }
-      ],
-      "duration_ms": 170253,
-      "name": "Celebration (feat. Dawn Richard)",
-      "url": "https://open.spotify.com/track/723J8TT1MrywSg66aIqZio"
-    },
-    {
-      "added_at": "2025-09-05 16:00:10",
-      "album": {
         "name": "You Make Me Feel",
         "url": "https://open.spotify.com/album/5BwmV3PN9DS5Yvx8En57as"
       },
@@ -2895,22 +2875,22 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc"
+        "name": "Pressing Onward",
+        "url": "https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C"
       },
       "artists": [
         {
-          "name": "Eats Everything",
-          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
         },
         {
-          "name": "ShezAr",
-          "url": "https://open.spotify.com/artist/3PPJmIxohGjhNvQIyrksIW"
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
         }
       ],
-      "duration_ms": 186862,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN"
+      "duration_ms": 170253,
+      "name": "Celebration (feat. Dawn Richard)",
+      "url": "https://open.spotify.com/track/723J8TT1MrywSg66aIqZio"
     },
     {
       "added_at": "2025-09-05 16:00:10",
@@ -2931,6 +2911,26 @@
       "duration_ms": 221683,
       "name": "THIS IS FOR YOU (feat. Niki & the Dove)",
       "url": "https://open.spotify.com/track/2EY0iypCKjix9tBeaGvm03"
+    },
+    {
+      "added_at": "2025-09-05 16:00:10",
+      "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc"
+      },
+      "artists": [
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        },
+        {
+          "name": "ShezAr",
+          "url": "https://open.spotify.com/artist/3PPJmIxohGjhNvQIyrksIW"
+        }
+      ],
+      "duration_ms": 186862,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN"
     },
     {
       "added_at": "2025-09-05 16:00:10",
@@ -3015,22 +3015,6 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8"
-      },
-      "artists": [
-        {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        }
-      ],
-      "duration_ms": 172867,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw"
-    },
-    {
-      "added_at": "2025-09-05 16:00:10",
-      "album": {
         "name": "B Somebody",
         "url": "https://open.spotify.com/album/7xmebVjjWoxe8SydTu49PF"
       },
@@ -3047,6 +3031,22 @@
       "duration_ms": 172033,
       "name": "B Somebody",
       "url": "https://open.spotify.com/track/3X74B55XKoP8mEPmyZlBvW"
+    },
+    {
+      "added_at": "2025-09-05 16:00:10",
+      "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8"
+      },
+      "artists": [
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        }
+      ],
+      "duration_ms": 172867,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw"
     },
     {
       "added_at": "2025-09-05 16:00:10",

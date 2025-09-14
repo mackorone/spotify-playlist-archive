@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-892 songs - 1 day 14 hr 26 min
+894 songs - 1 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Cuando Duermes](https://open.spotify.com/track/0ynAGgB5TLv14W2HdRytzk) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Cuando Duermes](https://open.spotify.com/album/14tU3MYJORpXh8IyF5Fe4w) | 1:48 | 2022-09-09 | 2023-05-13 |
 | [Cuantas Amantes](https://open.spotify.com/track/009thiR2SWpG6jXqXYX2AT) | [Xavier Suarez](https://open.spotify.com/artist/4qxGMBS25xDymfWz3kkKOE) | [Cuantas Amantes](https://open.spotify.com/album/3YKLNFNyg3a1ZSYO9z3EHr) | 2:32 | 2021-12-08 | 2022-04-22 |
 | [Cuchumáchu](https://open.spotify.com/track/6HjfMikPTyxC47XQEbzQjS) | [Lester Paredes](https://open.spotify.com/artist/6qmJhBPj3ROsuH7bLDODMf) | [Cuchumáchu](https://open.spotify.com/album/3UAuh9vRAczRziYhNr70J2) | 2:42 | 2022-07-01 | 2022-09-17 |
+| [Cusco](https://open.spotify.com/track/70t5pC4WbitgORnAfV79Ej) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Cusco](https://open.spotify.com/album/0Ukzxi8OgRqJJ1BP0wkTki) | 2:42 | 2025-09-12 |  |
 | [Cut Flower Garden](https://open.spotify.com/track/4mODR07RUAtPBH4ACE0r1r) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Cut Flower Garden](https://open.spotify.com/album/6rHPm1x9z81VJHbpqzdQ5A) | 2:49 | 2022-06-10 | 2024-05-04 |
 | [Cymatic Patterns](https://open.spotify.com/track/5iPaREWrPaHuLjfZIJvOfM) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Cymatic Patterns](https://open.spotify.com/album/4D7FAUbOxuBOvyGjRUdglI) | 1:53 | 2023-08-17 | 2023-08-19 |
 | [Cypress Castles](https://open.spotify.com/track/2f7VpoODTaBAeQMeGHqjRI) | [Fathomsong](https://open.spotify.com/artist/3koJbZXIy6hN5sOp9OMZFj) | [Effervescence](https://open.spotify.com/album/508xVNABZUOxcFBfEFeep5) | 2:35 | 2021-12-08 | 2022-05-11 |
@@ -555,7 +556,7 @@
 | [Nostalgia](https://open.spotify.com/track/0ytp8JZQRlVUhV6QQRZmEI) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/1Wezujs4mQrwg1cvpb4Mad) | 2:28 | 2022-10-28 | 2023-04-27 |
 | [Nostalgia](https://open.spotify.com/track/4atfRW7bT2qyNJhlgmB3RR) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/6bzPgSWghq5hhVwgbIrTTX) | 2:28 | 2023-04-21 | 2023-10-13 |
 | [Nostalgia](https://open.spotify.com/track/7mqFhE493l53bq0XNiccgk) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/56KoK3U87kpNUP1CXeDlmC) | 2:28 | 2022-09-16 | 2022-11-04 |
-| [Nostalgic](https://open.spotify.com/track/5q5otSq5s8JRENndQRisZJ) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Nostalgic](https://open.spotify.com/album/2sAoh43R2UOHgKF5cuNiuk) | 2:53 | 2025-08-18 |  |
+| [Nostalgic](https://open.spotify.com/track/5q5otSq5s8JRENndQRisZJ) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Nostalgic](https://open.spotify.com/album/2sAoh43R2UOHgKF5cuNiuk) | 2:53 | 2025-08-18 | 2025-09-14 |
 | [Now and Always](https://open.spotify.com/track/1y4kDlA8bZhboSNVxSa8vW) | [Sam Blom](https://open.spotify.com/artist/25zEYREIlgZF0kZ4Mb7OKN) | [Now and Always](https://open.spotify.com/album/6p2dyzjZvDiVZib2tSRjt0) | 2:27 | 2025-06-16 |  |
 | [Now Let's Move On](https://open.spotify.com/track/4Ch7WJ7oWgjCNR0gTSWnxu) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Now Let's Move On](https://open.spotify.com/album/11DnBfUveDGErBMm4h8zQo) | 2:23 | 2025-08-18 |  |
 | [Now's Not The Time](https://open.spotify.com/track/1DC5UfKYnUeMTQaKscS46L) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Now's Not The Time](https://open.spotify.com/album/1WaKJvnkORcs3oIvRErCBt) | 2:58 | 2024-03-08 |  |
@@ -795,6 +796,7 @@
 | [The Northwest](https://open.spotify.com/track/3y4oXU6iqCiFPueAtRQ88I) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [The Northwest](https://open.spotify.com/album/4cL55EmSZz5XuqISawUSTr) | 2:42 | 2024-08-20 | 2025-04-17 |
 | [The Path Forward](https://open.spotify.com/track/5u2Pz05Zs7xVjtJnLuDmTT) | [Oliver Fowles](https://open.spotify.com/artist/1YSnhg3LTTtSqMNUOyauIP) | [Long Story Short](https://open.spotify.com/album/0bKjRSTlNd1UFhgkMgqR2h) | 3:12 | 2022-08-12 | 2023-02-11 |
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2021-12-08 | 2022-05-11 |
+| [The Rain Comes](https://open.spotify.com/track/5zpgmMQ46DVTr97ZwFDcAG) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [The Rain Comes](https://open.spotify.com/album/6R7wD5TChs18vFNeX4jzin) | 2:40 | 2025-09-12 |  |
 | [The River Song \(Dream Nr\. 1\)](https://open.spotify.com/track/63s37RyQINHVSf3FGdLsxK) | [Liad Abraham](https://open.spotify.com/artist/2Y8i0N5eDGrqRbk3MJGBni) | [The River Song \(Dream Nr\. 1\)](https://open.spotify.com/album/1HzQRuz4CFkAqF0K2UtH9y) | 3:28 | 2022-10-28 | 2023-05-13 |
 | [The secret trail](https://open.spotify.com/track/1c04luQUt67s15rXVOPD4h) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [The secret trail](https://open.spotify.com/album/1I8NCIidGKSYOJkPqp9nI6) | 3:09 | 2025-04-16 | 2025-04-23 |
 | [The small things in life](https://open.spotify.com/track/77RRa9i2ITwLznWo4Q9HPv) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [The small things in life](https://open.spotify.com/album/6XJEnO611nb1gGDE2kpUPa) | 2:15 | 2023-11-24 | 2025-03-06 |

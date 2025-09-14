@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-130 songs - 6 hr 31 min
+131 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,8 +73,9 @@
 | [I Left My Heart](https://open.spotify.com/track/0ldEQfRPvKax4SIcF6br7g) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Unsent Letters](https://open.spotify.com/album/5SSlfIyW1noqLGrqiwTGR4) | 3:40 | 2024-01-29 |  |
 | [I Should Be a Bird](https://open.spotify.com/track/0ZRZeLNAKPHBwkalUqW1xz) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk) | 3:59 | 2024-01-29 |  |
 | [I Should Have Told You](https://open.spotify.com/track/7e6yzc8ipEp2sbasDMHjo4) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [I Should Have Told You](https://open.spotify.com/album/37hXIqnv6DJ7xZbcgaqE7O) | 3:26 | 2024-01-29 |  |
+| [I'll Be There](https://open.spotify.com/track/5RYyRqmxjNLGhnhFNTeHGe) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [I'll Be There](https://open.spotify.com/album/3kdIhR8CnYyNhDpAuj5iJK) | 2:35 | 2025-09-13 |  |
 | [I'll Be There](https://open.spotify.com/track/7n1hMxVl2T8dXLZ1giLg14) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [I'll Be There](https://open.spotify.com/album/6UiAUq5QdDMgJNezvXTnbc) | 2:35 | 2024-01-29 | 2024-08-15 |
-| [I'll Be There \- Cahill Remix](https://open.spotify.com/track/7gEbuXht8gYcA5OdN9zUpy) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Cahill](https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm) | [I'll Be There \(Cahill Remix\)](https://open.spotify.com/album/3jISdgH8X9apM1WUFLyvqe) | 3:03 | 2025-09-10 |  |
+| [I'll Be There \- Cahill Remix](https://open.spotify.com/track/7gEbuXht8gYcA5OdN9zUpy) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Cahill](https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm) | [I'll Be There \(Cahill Remix\)](https://open.spotify.com/album/3jISdgH8X9apM1WUFLyvqe) | 3:03 | 2025-09-10 | 2025-09-14 |
 | [Imposter Syndrome](https://open.spotify.com/track/3wjEFPAe4ofrzlrbPy0WrC) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4yHhW0tJ06QGsIBSpFRchc) | 3:36 | 2024-01-29 |  |
 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 | 2024-12-11 |  |
 | [Ingenting har gjort så ont](https://open.spotify.com/track/4aNxEqnVKKjbkwx3TdvJX7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:26 | 2024-01-29 |  |

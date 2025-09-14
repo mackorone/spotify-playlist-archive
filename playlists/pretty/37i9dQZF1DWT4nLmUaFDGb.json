@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 605553,
+  "num_followers": 605963,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
-        "name": "The Gospel Truth (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4XtDTphsf8ejPLt2e8cxbt"
-      },
-      "artists": [
-        {
-          "name": "Ida Sand",
-          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
-        }
-      ],
-      "duration_ms": 225093,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/5Eh01izYB2eY2SZLHgzBwH"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
         "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
         "url": "https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 261176,
       "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
       "url": "https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
+        "name": "The Gospel Truth (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4XtDTphsf8ejPLt2e8cxbt"
+      },
+      "artists": [
+        {
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        }
+      ],
+      "duration_ms": 225093,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/5Eh01izYB2eY2SZLHgzBwH"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
-        "name": "Nat \"King\" Cole & Me (Deluxe)",
-        "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 128520,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/70gk9Y6aKEdWiASuu59T7Q"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
         "name": "Let Me Love You",
         "url": "https://open.spotify.com/album/0TsCxKSmji1bgovGqizJII"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 219080,
       "name": "I Will Wait for You",
       "url": "https://open.spotify.com/track/12SjdWu7R9pDvQieJA68v8"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
+        "name": "Nat \"King\" Cole & Me (Deluxe)",
+        "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 128520,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/70gk9Y6aKEdWiASuu59T7Q"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -971,26 +971,6 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
-        "name": "Coming Back To You",
-        "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Coming Back To You",
-      "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
         "name": "Lumi\u00e9re",
         "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
       },
@@ -1035,6 +1015,26 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
+        "name": "Coming Back To You",
+        "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Coming Back To You",
+      "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
         "name": "The Sound of Music",
         "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
       },
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
+        "name": "First Song",
+        "url": "https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 283586,
+      "name": "First Song",
+      "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
         "name": "I\u00b4m a Fool to Want You",
         "url": "https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 246349,
       "name": "I\u00b4m a Fool to Want You",
       "url": "https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
-        "name": "First Song",
-        "url": "https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 283586,
-      "name": "First Song",
-      "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 380066,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
         "name": "The Look Of Love - Burt Bacharach Songbook",
         "url": "https://open.spotify.com/album/34pw7PTVYdcEkfHnIo9jx2"
       },
@@ -1363,18 +1343,22 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
-        "name": "Next Time",
-        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
       "artists": [
         {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
         }
       ],
-      "duration_ms": 318077,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
+      "duration_ms": 380066,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -1391,6 +1375,22 @@
       "duration_ms": 251413,
       "name": "I'll Tell You Something",
       "url": "https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 318077,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
-        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
-        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
         "name": "For All We Know",
         "url": "https://open.spotify.com/album/2Uc9iyrRuHRksplRbnDZhP"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 444306,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/5r1nL8IUVak9RMqwpvC0Nh"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
+        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
+        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
+        "name": "Do You Know What It Means to Miss New Orleans",
+        "url": "https://open.spotify.com/album/0Qco1GecYXsJKqhXXaaGkx"
+      },
+      "artists": [
+        {
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+        }
+      ],
+      "duration_ms": 253386,
+      "name": "Do You Know What It Means to Miss New Orleans",
+      "url": "https://open.spotify.com/track/5DTWu4zFlUZnOD9StTy164"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
         "name": "True Love's Flame",
         "url": "https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 152360,
       "name": "A Place I Don\u2019t Know",
       "url": "https://open.spotify.com/track/6r5NsGB9lBN4YXT9NXWHDP"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
-        "name": "Do You Know What It Means to Miss New Orleans",
-        "url": "https://open.spotify.com/album/0Qco1GecYXsJKqhXXaaGkx"
-      },
-      "artists": [
-        {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
-        }
-      ],
-      "duration_ms": 253386,
-      "name": "Do You Know What It Means to Miss New Orleans",
-      "url": "https://open.spotify.com/track/5DTWu4zFlUZnOD9StTy164"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -2003,6 +2003,42 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
+        "name": "Lonely House",
+        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        }
+      ],
+      "duration_ms": 211664,
+      "name": "There's a Lull in My Life",
+      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/0Yly6QXR76EpiQtG51yenm"
+      },
+      "artists": [
+        {
+          "name": "Sachal Vasandani",
+          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+        },
+        {
+          "name": "Romain Collin",
+          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
+        }
+      ],
+      "duration_ms": 226656,
+      "name": "Blue in Green",
+      "url": "https://open.spotify.com/track/1091lAjkbu1GrbdsxICeWI"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
         "name": "Somehow Life Got in the Way",
         "url": "https://open.spotify.com/album/7eYV6gKGKsNlmdfVrRPwVo"
       },
@@ -2035,42 +2071,6 @@
       "duration_ms": 336600,
       "name": "Everything Must Change",
       "url": "https://open.spotify.com/track/3Vtde7QUf90QcCLyZs6aYc"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
-        "name": "Still Life",
-        "url": "https://open.spotify.com/album/0Yly6QXR76EpiQtG51yenm"
-      },
-      "artists": [
-        {
-          "name": "Sachal Vasandani",
-          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
-        },
-        {
-          "name": "Romain Collin",
-          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
-        }
-      ],
-      "duration_ms": 226656,
-      "name": "Blue in Green",
-      "url": "https://open.spotify.com/track/1091lAjkbu1GrbdsxICeWI"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
-        "name": "Lonely House",
-        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
-      },
-      "artists": [
-        {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
-        }
-      ],
-      "duration_ms": 211664,
-      "name": "There's a Lull in My Life",
-      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
     },
     {
       "added_at": "2025-09-05 08:58:28",

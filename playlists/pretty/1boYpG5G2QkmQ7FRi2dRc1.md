@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 284,380 likes - 33 songs - 1 hr 54 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 284,334 likes - 33 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 13 | [Racetrack in France](https://open.spotify.com/track/24fjDgffXOlSpYSFrIMu7r) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Masters At Work](https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1), [J\. Ivy](https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn), [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Racetrack in France](https://open.spotify.com/album/5vNWJFdk3EEQGZQ1cLPSE1) | 7:08 |
 | 14 | [Want Me](https://open.spotify.com/track/4JzWZpuYvxpRUiLpnwL2dB) | [Distant Matter](https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [Want Me](https://open.spotify.com/album/70vbgCHbe3TCjK7bfMP6sM) | 3:18 |
 | 15 | [HOW I DO IT](https://open.spotify.com/track/0Y1ZeaRs0gAEwb1rYxdbjq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [BRVMES](https://open.spotify.com/artist/13OXgp0fFDhWRPSXnN8yLT) | [As The Pendulum Swings](https://open.spotify.com/album/6lWtjIwHMyJdZlRaiGwVnd) | 2:28 |
-| 16 | [Unconditional](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Unconditional](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
+| 16 | [UNCONDITIONAL](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [UNCONDITIONAL](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
 | 17 | [Light Me Up](https://open.spotify.com/track/1VbLQ4OGIkoxPqmaxgOIIv) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Light Me Up](https://open.spotify.com/album/6z5uf0oR3EiKMj7PAnbNva) | 2:41 |
 | 18 | [Workin' With](https://open.spotify.com/track/5ndNI8cLYxPgkIoC7ZzMLP) | [Girls Don't Sync](https://open.spotify.com/artist/4SluGaQhJuMDsRRMf1PWKT) | [Workin' With](https://open.spotify.com/album/0t5md9XWk0XnnS9E43PqrL) | 2:30 |
 | 19 | [Sweet Boy](https://open.spotify.com/track/1SB3vBA3V37paKqQ4BfLVn) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Sweet Boy](https://open.spotify.com/album/6B53fE8uMvCNbRTzD86ACl) | 3:37 |

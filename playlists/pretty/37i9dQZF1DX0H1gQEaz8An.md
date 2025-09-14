@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H1gQEaz8An.md) - [plain]
 
 > Lo que diga el corazón ❤️💔 Cover: Saul Villarreal
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,843 likes - 106 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,913 likes - 106 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

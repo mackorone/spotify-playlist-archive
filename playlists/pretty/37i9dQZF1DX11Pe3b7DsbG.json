@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 232687,
+  "num_followers": 232689,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-06-13 14:34:50",
       "album": {
+        "name": "Tudo Que Sou, Vol. 1: Fragmentos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17clMnpX0WwlXFt3v7rmEW"
+      },
+      "artists": [
+        {
+          "name": "Toninho Geraes",
+          "url": "https://open.spotify.com/artist/1XavFymdZWNz3HyS5jkStp"
+        }
+      ],
+      "duration_ms": 267545,
+      "name": "Alma Bo\u00eamia - Ao Vivo",
+      "url": "https://open.spotify.com/track/54pvIGtbbIUy5qhVNPDfCt"
+    },
+    {
+      "added_at": "2025-06-13 14:34:50",
+      "album": {
         "name": "Sambista Perfeito",
         "url": "https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 195493,
       "name": "Gostoso Veneno",
       "url": "https://open.spotify.com/track/2gfSAH2Cim8mwv4VPsqvId"
-    },
-    {
-      "added_at": "2025-06-13 14:34:50",
-      "album": {
-        "name": "Tudo Que Sou, Vol. 1: Fragmentos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/17clMnpX0WwlXFt3v7rmEW"
-      },
-      "artists": [
-        {
-          "name": "Toninho Geraes",
-          "url": "https://open.spotify.com/artist/1XavFymdZWNz3HyS5jkStp"
-        }
-      ],
-      "duration_ms": 267545,
-      "name": "Alma Bo\u00eamia - Ao Vivo",
-      "url": "https://open.spotify.com/track/54pvIGtbbIUy5qhVNPDfCt"
     },
     {
       "added_at": "2025-06-13 14:34:50",

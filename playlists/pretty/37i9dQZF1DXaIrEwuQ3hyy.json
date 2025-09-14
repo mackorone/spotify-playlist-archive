@@ -1,6 +1,6 @@
 {
   "description": "Die cozy season geht los \ud83c\udf42",
-  "num_followers": 1082755,
+  "num_followers": 1082937,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-09-12 06:02:01",
       "album": {
+        "name": "Know the Night",
+        "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Know the Night",
+      "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
+    },
+    {
+      "added_at": "2025-09-12 06:02:01",
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 215573,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e"
-    },
-    {
-      "added_at": "2025-09-12 06:02:01",
-      "album": {
-        "name": "Know the Night",
-        "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Know the Night",
-      "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
     },
     {
       "added_at": "2025-09-12 06:02:01",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-09-12 06:02:01",
       "album": {
-        "name": "Oceanside",
-        "url": "https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 167826,
-      "name": "Oceanside",
-      "url": "https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq"
-    },
-    {
-      "added_at": "2025-09-12 06:02:01",
-      "album": {
         "name": "Two Thirds",
         "url": "https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 206546,
       "name": "Two Thirds",
       "url": "https://open.spotify.com/track/4iwlTULepVCvBDYDGuibt1"
+    },
+    {
+      "added_at": "2025-09-12 06:02:01",
+      "album": {
+        "name": "Oceanside",
+        "url": "https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 167826,
+      "name": "Oceanside",
+      "url": "https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq"
     },
     {
       "added_at": "2025-09-12 06:02:01",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-09-12 06:02:01",
       "album": {
-        "name": "Girl Next Door",
-        "url": "https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH"
-      },
-      "artists": [
-        {
-          "name": "JISKA",
-          "url": "https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Girl Next Door",
-      "url": "https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA"
-    },
-    {
-      "added_at": "2025-09-12 06:02:01",
-      "album": {
         "name": "when words fail",
         "url": "https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 176495,
       "name": "when words fail",
       "url": "https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA"
+    },
+    {
+      "added_at": "2025-09-12 06:02:01",
+      "album": {
+        "name": "Girl Next Door",
+        "url": "https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH"
+      },
+      "artists": [
+        {
+          "name": "JISKA",
+          "url": "https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Girl Next Door",
+      "url": "https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA"
     },
     {
       "added_at": "2025-09-12 06:02:01",

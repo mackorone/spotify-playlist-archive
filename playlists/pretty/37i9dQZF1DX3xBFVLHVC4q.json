@@ -683,22 +683,6 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "LoveLive! Sunshine!! Sakurauchi Riko First Solo Concert Album \u301cPianoforte Monologue\u301c",
-        "url": "https://open.spotify.com/album/2xY1q5fW6R5ERqthaBptkb"
-      },
-      "artists": [
-        {
-          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50) from Aqours",
-          "url": "https://open.spotify.com/artist/5vOwRlEKe8Sq03ayfreW5r"
-        }
-      ],
-      "duration_ms": 310293,
-      "name": "PURE PHRASE",
-      "url": "https://open.spotify.com/track/2oZ6e3TmmuFU0p2QowptUo"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
         "name": "LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album \u301cRED GEM WINK\u301c",
         "url": "https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 295360,
       "name": "RED GEM WINK",
       "url": "https://open.spotify.com/track/6puhUOFB5b7CggOnVUufpI"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "LoveLive! Sunshine!! Sakurauchi Riko First Solo Concert Album \u301cPianoforte Monologue\u301c",
+        "url": "https://open.spotify.com/album/2xY1q5fW6R5ERqthaBptkb"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50) from Aqours",
+          "url": "https://open.spotify.com/artist/5vOwRlEKe8Sq03ayfreW5r"
+        }
+      ],
+      "duration_ms": 310293,
+      "name": "PURE PHRASE",
+      "url": "https://open.spotify.com/track/2oZ6e3TmmuFU0p2QowptUo"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "LoveLive! Sunshine!! Second Solo Concert Album \uff5eTHE STORY OF FEATHER\uff5e starring Watanabe You",
-        "url": "https://open.spotify.com/album/4QbH80ewjdtHpNoDhTivdq"
+        "name": "LoveLive! Sunshine!! Ohara Mari First Solo Concert Album \uff5eNew winding road\uff5e",
+        "url": "https://open.spotify.com/album/07dOooBV026YI3SftNDkoM"
       },
       "artists": [
         {
-          "name": "\u6e21\u8fba \u66dc (CV.\u6589\u85e4\u6731\u590f) from Aqours",
-          "url": "https://open.spotify.com/artist/60xC7FUmpDBsPRQsb7uUNg"
+          "name": "\u5c0f\u539f\u97a0\u8389 (CV.\u9234\u6728\u611b\u5948) from Aqours",
+          "url": "https://open.spotify.com/artist/5SLHumqNgWjbkFS95wlRGr"
         }
       ],
-      "duration_ms": 229346,
-      "name": "Paradise Chime",
-      "url": "https://open.spotify.com/track/6ib8owyFKokRdEECOOkATG"
+      "duration_ms": 217746,
+      "name": "Shiny Racers",
+      "url": "https://open.spotify.com/track/4oTMK1IRb2AbMoA2HhB1Du"
     }
   ],
   "unique_name": "Love Live! Sunshine!!",

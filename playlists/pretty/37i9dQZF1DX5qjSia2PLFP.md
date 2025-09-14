@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:0V5bkwV2Bd90bMLMc8JFeS">IShowSpeed</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,361 likes - 65 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,427 likes - 65 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

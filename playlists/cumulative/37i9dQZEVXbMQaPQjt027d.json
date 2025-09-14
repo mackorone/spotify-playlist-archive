@@ -536,7 +536,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 172661,
       "name": "Black Out Days (Stay Away)",
       "url": "https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ"
@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 148653,
       "name": "I'm a Dog",
       "url": "https://open.spotify.com/track/2Dlp3mgmT5GgKw9tXs85NA"
@@ -2660,7 +2660,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Ma Tnsani (Yalla Habibi)",
       "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
@@ -3388,7 +3388,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 221333,
       "name": "Pumpin Jumpin",
       "url": "https://open.spotify.com/track/1VhNZmtGQPnJlzZStAYn5j"
@@ -3406,7 +3406,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 221333,
       "name": "Pumpin Jumpin",
       "url": "https://open.spotify.com/track/6sI8mbD8BhqBb5grAxiVUB"
@@ -3472,7 +3472,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 171245,
       "name": "Rijcke Rapper",
       "url": "https://open.spotify.com/track/5q6iWoas2KoltMETxhtTa8"
@@ -3862,6 +3862,24 @@
       "duration_ms": 185942,
       "name": "stay",
       "url": "https://open.spotify.com/track/56PS9rUrkwa1TYG6l1Vb0v"
+    },
+    {
+      "album": {
+        "name": "Stil De Tijd",
+        "url": "https://open.spotify.com/album/0st5sS8GV2koKCNXhJF8Vp"
+      },
+      "artists": [
+        {
+          "name": "Jacqueline Govaert",
+          "url": "https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153080,
+      "name": "Stil De Tijd",
+      "url": "https://open.spotify.com/track/2U45gCmFOwMkD8OnWHIOxn"
     },
     {
       "album": {
@@ -4307,6 +4325,24 @@
     },
     {
       "album": {
+        "name": "Tung Tung Tung Sahur (Psy-Trance)",
+        "url": "https://open.spotify.com/album/2ZaGAhX7FaGJBAYICFP0pS"
+      },
+      "artists": [
+        {
+          "name": "DJ Tralalero Tralala",
+          "url": "https://open.spotify.com/artist/5rChNZRJnV2MciNb9U6HyH"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133147,
+      "name": "Tung Tung Tung Sahur",
+      "url": "https://open.spotify.com/track/7N0hlz8sQ1wPI4iH5Fh2L1"
+    },
+    {
+      "album": {
         "name": "Heat The Streets",
         "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
       },
@@ -4746,7 +4782,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 177777,
       "name": "What Trance Feels Like",
       "url": "https://open.spotify.com/track/7dZYojbGaX6sHmruG62EKC"
@@ -4786,7 +4822,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 160500,
       "name": "which one x 1er gaou",
       "url": "https://open.spotify.com/track/5cXfuSHfFGntIaiFiwGlN3"

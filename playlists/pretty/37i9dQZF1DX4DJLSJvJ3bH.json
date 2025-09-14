@@ -1,6 +1,6 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 134134,
+  "num_followers": 134131,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2025-09-04 12:37:02",
       "album": {
+        "name": "My Favourite Time of Year",
+        "url": "https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw"
+      },
+      "artists": [
+        {
+          "name": "Kingsley Thomas",
+          "url": "https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t"
+        }
+      ],
+      "duration_ms": 242786,
+      "name": "My Favourite Time of Year",
+      "url": "https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54"
+    },
+    {
+      "added_at": "2025-09-04 12:37:02",
+      "album": {
         "name": "Christmas With You",
         "url": "https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 166594,
       "name": "Better Than Snow",
       "url": "https://open.spotify.com/track/74H6uHl17HLeYWshgDfMrX"
-    },
-    {
-      "added_at": "2025-09-04 12:37:02",
-      "album": {
-        "name": "My Favourite Time of Year",
-        "url": "https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw"
-      },
-      "artists": [
-        {
-          "name": "Kingsley Thomas",
-          "url": "https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t"
-        }
-      ],
-      "duration_ms": 242786,
-      "name": "My Favourite Time of Year",
-      "url": "https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54"
     },
     {
       "added_at": "2025-09-04 12:37:02",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-09-04 12:37:02",
       "album": {
-        "name": "Bing Crosby - Christmas Classics",
-        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 133413,
-      "name": "Frosty The Snowman - Remastered 2006",
-      "url": "https://open.spotify.com/track/35MqcEIVZ7svbBpRt4N30g"
-    },
-    {
-      "added_at": "2025-09-04 12:37:02",
-      "album": {
         "name": "Little Saint Nick",
         "url": "https://open.spotify.com/album/4N7C1nhf0lCBLoMVJEo80H"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 161430,
       "name": "Little Saint Nick",
       "url": "https://open.spotify.com/track/3ZujkFo6UN8jihSZirvbWz"
+    },
+    {
+      "added_at": "2025-09-04 12:37:02",
+      "album": {
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 133413,
+      "name": "Frosty The Snowman - Remastered 2006",
+      "url": "https://open.spotify.com/track/35MqcEIVZ7svbBpRt4N30g"
     },
     {
       "added_at": "2025-09-04 12:37:02",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-09-04 12:37:02",
       "album": {
-        "name": "Bing Crosby - Christmas Classics",
-        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 115266,
-      "name": "I Wish You A Merry Christmas - Remastered 2006",
-      "url": "https://open.spotify.com/track/26hUXfKoJYkAMK07nW2dzQ"
-    },
-    {
-      "added_at": "2025-09-04 12:37:02",
-      "album": {
         "name": "Once in Royal David's City",
         "url": "https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 165225,
       "name": "Once in Royal David's City",
       "url": "https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G"
+    },
+    {
+      "added_at": "2025-09-04 12:37:02",
+      "album": {
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 115266,
+      "name": "I Wish You A Merry Christmas - Remastered 2006",
+      "url": "https://open.spotify.com/track/26hUXfKoJYkAMK07nW2dzQ"
     },
     {
       "added_at": "2025-09-04 12:37:02",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-09-04 12:37:02",
       "album": {
-        "name": "Tis the season",
-        "url": "https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC"
-      },
-      "artists": [
-        {
-          "name": "Wonder Eve",
-          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
-        }
-      ],
-      "duration_ms": 214596,
-      "name": "Tis the season",
-      "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
-    },
-    {
-      "added_at": "2025-09-04 12:37:02",
-      "album": {
         "name": "Embraced by White",
         "url": "https://open.spotify.com/album/329EHbBqemJFz5CKXt6IDp"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": "2025-09-04 12:37:02",
       "album": {
+        "name": "Tis the season",
+        "url": "https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC"
+      },
+      "artists": [
+        {
+          "name": "Wonder Eve",
+          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
+        }
+      ],
+      "duration_ms": 214596,
+      "name": "Tis the season",
+      "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
+    },
+    {
+      "added_at": "2025-09-04 12:37:02",
+      "album": {
         "name": "Candy Canes and Silver Lanes",
         "url": "https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC"
       },
@@ -491,22 +491,6 @@
       "duration_ms": 223151,
       "name": "Candy Canes and Silver Lanes",
       "url": "https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6"
-    },
-    {
-      "added_at": "2025-09-04 12:37:02",
-      "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 206639,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R"
     },
     {
       "added_at": "2025-09-04 12:37:02",
@@ -555,6 +539,22 @@
       "duration_ms": 177215,
       "name": "The Gift of Joy",
       "url": "https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V"
+    },
+    {
+      "added_at": "2025-09-04 12:37:02",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 206639,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R"
     },
     {
       "added_at": "2025-09-04 12:37:02",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-09-04 12:37:02",
       "album": {
+        "name": "Angels from the Realms of Glory",
+        "url": "https://open.spotify.com/album/614xnvrnOoO8hojPMk5RUC"
+      },
+      "artists": [
+        {
+          "name": "Trois Amis",
+          "url": "https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7"
+        }
+      ],
+      "duration_ms": 105235,
+      "name": "Angels from the Realms of Glory",
+      "url": "https://open.spotify.com/track/4AHihkbxRhNCsOnJdy8NBC"
+    },
+    {
+      "added_at": "2025-09-04 12:37:02",
+      "album": {
         "name": "A Swingin' Christmas (feat. Count Basie Big Band)",
         "url": "https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2025-09-04 12:37:02",
       "album": {
-        "name": "Angels from the Realms of Glory",
-        "url": "https://open.spotify.com/album/614xnvrnOoO8hojPMk5RUC"
+        "name": "The North Pole Express",
+        "url": "https://open.spotify.com/album/1NbfF4vlT8Eq9rhi78B9S2"
       },
       "artists": [
         {
-          "name": "Trois Amis",
-          "url": "https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7"
+          "name": "Japari Park",
+          "url": "https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW"
         }
       ],
-      "duration_ms": 105235,
-      "name": "Angels from the Realms of Glory",
-      "url": "https://open.spotify.com/track/4AHihkbxRhNCsOnJdy8NBC"
+      "duration_ms": 170000,
+      "name": "The North Pole Express",
+      "url": "https://open.spotify.com/track/1WpxDIN7ccKey5xJm5wTen"
     },
     {
       "added_at": "2025-09-04 12:37:02",
@@ -723,22 +739,6 @@
       "duration_ms": 96947,
       "name": "Oh what a merry christmas day",
       "url": "https://open.spotify.com/track/4lIPBRlA44zsLXpGzg3mS1"
-    },
-    {
-      "added_at": "2025-09-04 12:37:02",
-      "album": {
-        "name": "The North Pole Express",
-        "url": "https://open.spotify.com/album/1NbfF4vlT8Eq9rhi78B9S2"
-      },
-      "artists": [
-        {
-          "name": "Japari Park",
-          "url": "https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "The North Pole Express",
-      "url": "https://open.spotify.com/track/1WpxDIN7ccKey5xJm5wTen"
     },
     {
       "added_at": "2025-09-04 12:37:02",
@@ -951,6 +951,38 @@
     {
       "added_at": "2025-09-04 12:37:02",
       "album": {
+        "name": "Away In a Manger",
+        "url": "https://open.spotify.com/album/0zMvwS3xk4yzILsWST0dZ5"
+      },
+      "artists": [
+        {
+          "name": "Tannenbaum Trio",
+          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
+        }
+      ],
+      "duration_ms": 69541,
+      "name": "Away In a Manger",
+      "url": "https://open.spotify.com/track/2GRvpoXLoxOiu88ME6YX6y"
+    },
+    {
+      "added_at": "2025-09-04 12:37:02",
+      "album": {
+        "name": "Deck the Halls",
+        "url": "https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop"
+      },
+      "artists": [
+        {
+          "name": "Michael Stylez & Co",
+          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
+        }
+      ],
+      "duration_ms": 160415,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/6ayK59JrXwTFNIO4l8YeHr"
+    },
+    {
+      "added_at": "2025-09-04 12:37:02",
+      "album": {
         "name": "Selections From Irving Berlin's White Christmas",
         "url": "https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl"
       },
@@ -979,38 +1011,6 @@
     {
       "added_at": "2025-09-04 12:37:02",
       "album": {
-        "name": "Deck the Halls",
-        "url": "https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop"
-      },
-      "artists": [
-        {
-          "name": "Michael Stylez & Co",
-          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
-        }
-      ],
-      "duration_ms": 160415,
-      "name": "O Come All Ye Faithful",
-      "url": "https://open.spotify.com/track/6ayK59JrXwTFNIO4l8YeHr"
-    },
-    {
-      "added_at": "2025-09-04 12:37:02",
-      "album": {
-        "name": "Away In a Manger",
-        "url": "https://open.spotify.com/album/0zMvwS3xk4yzILsWST0dZ5"
-      },
-      "artists": [
-        {
-          "name": "Tannenbaum Trio",
-          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
-        }
-      ],
-      "duration_ms": 69541,
-      "name": "Away In a Manger",
-      "url": "https://open.spotify.com/track/2GRvpoXLoxOiu88ME6YX6y"
-    },
-    {
-      "added_at": "2025-09-04 12:37:02",
-      "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-09-04 12:37:02",
       "album": {
-        "name": "A Joyful Holiday",
-        "url": "https://open.spotify.com/album/2VEsXkmIycyL3VL2vvbneU"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 206026,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/6XXMs8hRg0KSvopUMSOqzh"
-    },
-    {
-      "added_at": "2025-09-04 12:37:02",
-      "album": {
         "name": "Little Drummer Boy",
         "url": "https://open.spotify.com/album/2LheEqGdlCtcbCTvPZOQtG"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 180517,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/4YKOgDDwKW2lrbwrvqFcVI"
+    },
+    {
+      "added_at": "2025-09-04 12:37:02",
+      "album": {
+        "name": "A Joyful Holiday",
+        "url": "https://open.spotify.com/album/2VEsXkmIycyL3VL2vvbneU"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 206026,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/6XXMs8hRg0KSvopUMSOqzh"
     },
     {
       "added_at": "2025-09-04 12:37:02",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-09-04 12:37:02",
       "album": {
-        "name": "Busy Santa",
-        "url": "https://open.spotify.com/album/2Q8zMZnQ3GkbpTiqLleuQD"
-      },
-      "artists": [
-        {
-          "name": "Eddie Harper",
-          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
-        }
-      ],
-      "duration_ms": 200872,
-      "name": "Busy Santa",
-      "url": "https://open.spotify.com/track/6mupcBc2lZIzSLhpaAzGtM"
-    },
-    {
-      "added_at": "2025-09-04 12:37:02",
-      "album": {
         "name": "Snow!",
         "url": "https://open.spotify.com/album/0a805poEESIyC6G5KjrFDK"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 206816,
       "name": "Perfect Time Of Year",
       "url": "https://open.spotify.com/track/5UI0toFLwTpXiWoN4AWi7p"
+    },
+    {
+      "added_at": "2025-09-04 12:37:02",
+      "album": {
+        "name": "Busy Santa",
+        "url": "https://open.spotify.com/album/2Q8zMZnQ3GkbpTiqLleuQD"
+      },
+      "artists": [
+        {
+          "name": "Eddie Harper",
+          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
+        }
+      ],
+      "duration_ms": 200872,
+      "name": "Busy Santa",
+      "url": "https://open.spotify.com/track/6mupcBc2lZIzSLhpaAzGtM"
     },
     {
       "added_at": "2025-09-04 12:37:02",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-09-04 12:37:02",
       "album": {
-        "name": "Season's Greetings",
-        "url": "https://open.spotify.com/album/3IAxXCAQQ1cPZQFFBKh6Om"
-      },
-      "artists": [
-        {
-          "name": "Eddie Harper",
-          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
-        }
-      ],
-      "duration_ms": 195624,
-      "name": "Season's Greetings",
-      "url": "https://open.spotify.com/track/6m9C49EiOkMWaGgzh1Mllx"
-    },
-    {
-      "added_at": "2025-09-04 12:37:02",
-      "album": {
         "name": "Sound Of Christmas",
         "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 167506,
       "name": "Christmas Blues",
       "url": "https://open.spotify.com/track/0KyArXxWFOxjKQOxl0P97i"
+    },
+    {
+      "added_at": "2025-09-04 12:37:02",
+      "album": {
+        "name": "Season's Greetings",
+        "url": "https://open.spotify.com/album/3IAxXCAQQ1cPZQFFBKh6Om"
+      },
+      "artists": [
+        {
+          "name": "Eddie Harper",
+          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
+        }
+      ],
+      "duration_ms": 195624,
+      "name": "Season's Greetings",
+      "url": "https://open.spotify.com/track/6m9C49EiOkMWaGgzh1Mllx"
     },
     {
       "added_at": "2025-09-04 12:37:02",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-09-04 12:37:02",
       "album": {
-        "name": "Christmas Time Is Here",
-        "url": "https://open.spotify.com/album/5HfF8IPJadrq9DMVw7Yp7U"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 144953,
-      "name": "Santa Claus Is Coming To Town",
-      "url": "https://open.spotify.com/track/6BiJEPqMY3IvsvXLYe5tTh"
-    },
-    {
-      "added_at": "2025-09-04 12:37:02",
-      "album": {
         "name": "We Wish You A Merry Christmas",
         "url": "https://open.spotify.com/album/506rp9HRzW8Eu1Cmnlo0rg"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 161129,
       "name": "We Wish You A Merry Christmas",
       "url": "https://open.spotify.com/track/7sqKpLs0CUelnUekGEhHwW"
+    },
+    {
+      "added_at": "2025-09-04 12:37:02",
+      "album": {
+        "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/5HfF8IPJadrq9DMVw7Yp7U"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 144953,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/6BiJEPqMY3IvsvXLYe5tTh"
     },
     {
       "added_at": "2025-09-04 12:37:02",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-09-04 12:37:02",
       "album": {
-        "name": "More Sounds Of Christmas",
-        "url": "https://open.spotify.com/album/0PXIY5ZJpZWy3LMpujLN6C"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
-        }
-      ],
-      "duration_ms": 241866,
-      "name": "We Three Kings",
-      "url": "https://open.spotify.com/track/4F5Ht2JjkaMmL4b8verZ2W"
-    },
-    {
-      "added_at": "2025-09-04 12:37:02",
-      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 266586,
       "name": "Baby It's Cold Outside",
       "url": "https://open.spotify.com/track/7m7tdsmeN4M0rZXJR4PHN7"
+    },
+    {
+      "added_at": "2025-09-04 12:37:02",
+      "album": {
+        "name": "More Sounds Of Christmas",
+        "url": "https://open.spotify.com/album/0PXIY5ZJpZWy3LMpujLN6C"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/4F5Ht2JjkaMmL4b8verZ2W"
     },
     {
       "added_at": "2025-09-04 12:37:02",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-09-04 12:37:02",
       "album": {
-        "name": "The Pianoman at Christmas",
-        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Beautiful, Altogether",
-      "url": "https://open.spotify.com/track/7qsv2ZaehJN4uIkCDsubKQ"
-    },
-    {
-      "added_at": "2025-09-04 12:37:02",
-      "album": {
         "name": "Deck the Halls",
         "url": "https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 99179,
       "name": "Deck the Halls",
       "url": "https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq"
+    },
+    {
+      "added_at": "2025-09-04 12:37:02",
+      "album": {
+        "name": "The Pianoman at Christmas",
+        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Beautiful, Altogether",
+      "url": "https://open.spotify.com/track/7qsv2ZaehJN4uIkCDsubKQ"
     },
     {
       "added_at": "2025-09-04 12:37:02",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-09-04 12:37:02",
       "album": {
-        "name": "Christmas Eve",
-        "url": "https://open.spotify.com/album/5cexNJyM1uYPlM3EH2bSpP"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 142840,
-      "name": "A Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/2qIufYDNP1YlmKVsNuOFdn"
-    },
-    {
-      "added_at": "2025-09-04 12:37:02",
-      "album": {
         "name": "Jazz For Joy: A Verve Christmas Album",
         "url": "https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 280933,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/0chBHr9DJuSYwN5JuunfY5"
+    },
+    {
+      "added_at": "2025-09-04 12:37:02",
+      "album": {
+        "name": "Christmas Eve",
+        "url": "https://open.spotify.com/album/5cexNJyM1uYPlM3EH2bSpP"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 142840,
+      "name": "A Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/2qIufYDNP1YlmKVsNuOFdn"
     },
     {
       "added_at": "2025-09-04 12:37:02",
@@ -1818,15 +1818,11 @@
         {
           "name": "Diana Krall",
           "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        },
-        {
-          "name": "Clayton-Hamilton Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy"
         }
       ],
-      "duration_ms": 193586,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/7cbaFyvM1Cbl8xr4YT0qWw"
+      "duration_ms": 212880,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/5a0H5FJlnPdRt66TM6Kz9r"
     },
     {
       "added_at": "2025-09-04 12:37:02",
@@ -1914,11 +1910,15 @@
         {
           "name": "Diana Krall",
           "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        },
+        {
+          "name": "Clayton-Hamilton Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy"
         }
       ],
-      "duration_ms": 212880,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/5a0H5FJlnPdRt66TM6Kz9r"
+      "duration_ms": 193586,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/7cbaFyvM1Cbl8xr4YT0qWw"
     },
     {
       "added_at": "2025-09-04 12:37:02",

@@ -1,6 +1,6 @@
 {
   "description": "Recent hits and new songs from your fave artists. Cover: BigxthaPlug & Ella Langley",
-  "num_followers": 942444,
+  "num_followers": 942462,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
@@ -29,6 +29,30 @@
       "url": "https://open.spotify.com/track/0U1nO2frLx8w2dIsfvlP1d"
     },
     {
+      "added_at": "2025-09-12 04:00:23",
+      "album": {
+        "name": "FUNNY little FEARS (DREAMS)",
+        "url": "https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 193502,
+      "name": "Talk to Me (feat. Tyla, Nile Rodgers)",
+      "url": "https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn"
+    },
+    {
       "added_at": "2025-08-15 04:00:29",
       "album": {
         "name": "Man I Need",
@@ -43,6 +67,134 @@
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2025-09-12 04:00:23",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 215511,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
+    },
+    {
+      "added_at": "2025-08-22 04:00:34",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 302408,
+      "name": "canal street",
+      "url": "https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9"
+    },
+    {
+      "added_at": "2025-07-25 04:00:59",
+      "album": {
+        "name": "be a bitch",
+        "url": "https://open.spotify.com/album/26TVH1aBTaZG5TQURy09Wl"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 184406,
+      "name": "be a bitch",
+      "url": "https://open.spotify.com/track/2nTvToMkyC8w9HySV4W7uU"
+    },
+    {
+      "added_at": "2025-09-05 04:00:20",
+      "album": {
+        "name": "What No One's Thinking",
+        "url": "https://open.spotify.com/album/2cNDGdbVTxhvH3elDcLVKh"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 302653,
+      "name": "The Big Goodbye",
+      "url": "https://open.spotify.com/track/2VvdnhGdRYqYCenXLh6rJ4"
+    },
+    {
+      "added_at": "2025-09-12 04:00:23",
+      "album": {
+        "name": "Jealous Type",
+        "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 163647,
+      "name": "Jealous Type",
+      "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
+    },
+    {
+      "added_at": "2025-08-22 04:00:34",
+      "album": {
+        "name": "Like It Like That",
+        "url": "https://open.spotify.com/album/25oCUC8YL51Tak2f2qZrP6"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 167527,
+      "name": "Like It Like That",
+      "url": "https://open.spotify.com/track/5zlJMdPyfd6p3Tw1IAS5r0"
+    },
+    {
+      "added_at": "2025-04-25 04:00:38",
+      "album": {
+        "name": "Mystical Magical",
+        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "Mystical Magical",
+      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
+    },
+    {
+      "added_at": "2025-09-12 04:00:23",
+      "album": {
+        "name": "Wait & See",
+        "url": "https://open.spotify.com/album/0UFMJ2sOCWrFn67X5dHRAW"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 273650,
+      "name": "Wait & See",
+      "url": "https://open.spotify.com/track/59OyzdGVIeOeBA8xdi867o"
     },
     {
       "added_at": "2025-09-05 04:00:20",
@@ -61,20 +213,20 @@
       "url": "https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1"
     },
     {
-      "added_at": "2025-08-22 04:00:34",
+      "added_at": "2025-09-12 04:00:23",
       "album": {
-        "name": "Like It Like That",
-        "url": "https://open.spotify.com/album/25oCUC8YL51Tak2f2qZrP6"
+        "name": "Take A Drive",
+        "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
       },
       "artists": [
         {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 167527,
-      "name": "Like It Like That",
-      "url": "https://open.spotify.com/track/5zlJMdPyfd6p3Tw1IAS5r0"
+      "duration_ms": 225000,
+      "name": "Take A Drive",
+      "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
     },
     {
       "added_at": "2025-09-05 04:00:20",
@@ -95,6 +247,22 @@
     {
       "added_at": "2025-08-22 04:00:34",
       "album": {
+        "name": "UNETHICAL",
+        "url": "https://open.spotify.com/album/7JGdeYz3PWV1n79hAUxhTc"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "duration_ms": 219864,
+      "name": "UNETHICAL",
+      "url": "https://open.spotify.com/track/6QKpHmO41jkd9pTp0FfmHs"
+    },
+    {
+      "added_at": "2025-08-22 04:00:34",
+      "album": {
         "name": "Lover Girl",
         "url": "https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS"
       },
@@ -107,6 +275,38 @@
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK"
+    },
+    {
+      "added_at": "2025-09-12 04:00:23",
+      "album": {
+        "name": "Greetings From Your Hometown",
+        "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 180340,
+      "name": "Backwards",
+      "url": "https://open.spotify.com/track/4sUreUOAY8aJEGxqPwIWI9"
+    },
+    {
+      "added_at": "2025-09-12 04:00:23",
+      "album": {
+        "name": "Waiting For Love",
+        "url": "https://open.spotify.com/album/5UmQZch97gF84AIdhkRBqI"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 269047,
+      "name": "Waiting For Love",
+      "url": "https://open.spotify.com/track/7faBDPpACK6D31VqvnmeQs"
     },
     {
       "added_at": "2025-08-22 04:00:34",
@@ -129,6 +329,22 @@
       "url": "https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R"
     },
     {
+      "added_at": "2025-09-12 04:00:23",
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/0D02okGg2jKsdeDX3Gqhe8"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 186367,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/2oLdcgV9mi8acMszmVZnYS"
+    },
+    {
       "added_at": "2025-09-05 04:00:20",
       "album": {
         "name": "Machine",
@@ -145,20 +361,20 @@
       "url": "https://open.spotify.com/track/0XXxTyNb3Q0DPxpf0kQi8P"
     },
     {
-      "added_at": "2025-07-25 04:00:59",
+      "added_at": "2025-09-12 04:00:23",
       "album": {
-        "name": "be a bitch",
-        "url": "https://open.spotify.com/album/26TVH1aBTaZG5TQURy09Wl"
+        "name": "FOREVER AGAIN",
+        "url": "https://open.spotify.com/album/0j9WkluXe8I6DNPWyYTevQ"
       },
       "artists": [
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
         }
       ],
-      "duration_ms": 184406,
-      "name": "be a bitch",
-      "url": "https://open.spotify.com/track/2nTvToMkyC8w9HySV4W7uU"
+      "duration_ms": 160147,
+      "name": "FOREVER AGAIN",
+      "url": "https://open.spotify.com/track/3CVQG2E6CL91pTeggbJOSj"
     },
     {
       "added_at": "2025-09-05 04:00:20",
@@ -177,6 +393,22 @@
       "url": "https://open.spotify.com/track/6guJdCiBdsLLo3fgAG8Utf"
     },
     {
+      "added_at": "2025-09-12 04:00:23",
+      "album": {
+        "name": "something like this",
+        "url": "https://open.spotify.com/album/5E85uZf3BYeVO3kSBxwqGR"
+      },
+      "artists": [
+        {
+          "name": "Cil",
+          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
+        }
+      ],
+      "duration_ms": 169430,
+      "name": "something like this",
+      "url": "https://open.spotify.com/track/6hR0pP818BP6CZjaOG7k1V"
+    },
+    {
       "added_at": "2025-08-01 15:16:16",
       "album": {
         "name": "Love Me Not / Love Is Blind",
@@ -193,52 +425,20 @@
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
     },
     {
-      "added_at": "2025-08-22 04:00:34",
+      "added_at": "2025-09-12 04:00:23",
       "album": {
-        "name": "UNETHICAL",
-        "url": "https://open.spotify.com/album/7JGdeYz3PWV1n79hAUxhTc"
+        "name": "Summer Anthem",
+        "url": "https://open.spotify.com/album/3DCY0TDCPChhTocNkkFoah"
       },
       "artists": [
         {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 219864,
-      "name": "UNETHICAL",
-      "url": "https://open.spotify.com/track/6QKpHmO41jkd9pTp0FfmHs"
-    },
-    {
-      "added_at": "2025-09-05 04:00:20",
-      "album": {
-        "name": "Handsome",
-        "url": "https://open.spotify.com/album/75L3Tq36JRPGF4z86UhVUw"
-      },
-      "artists": [
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 225910,
-      "name": "Handsome",
-      "url": "https://open.spotify.com/track/2GIddrm2ihwIyNIXTbGL3B"
-    },
-    {
-      "added_at": "2025-08-22 04:00:34",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 302408,
-      "name": "canal street",
-      "url": "https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9"
+      "duration_ms": 206533,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/07l1kKih1RMbzyXtrfV7dl"
     },
     {
       "added_at": "2025-07-18 04:00:31",
@@ -257,6 +457,22 @@
       "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
     },
     {
+      "added_at": "2025-09-12 04:00:23",
+      "album": {
+        "name": "Madeline",
+        "url": "https://open.spotify.com/album/1WeO8z4bDl9OYUp5bL678l"
+      },
+      "artists": [
+        {
+          "name": "Carter Vail",
+          "url": "https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK"
+        }
+      ],
+      "duration_ms": 217584,
+      "name": "Madeline",
+      "url": "https://open.spotify.com/track/7olLQTNt5CTBoT7p5eQt3p"
+    },
+    {
       "added_at": "2025-05-16 04:00:10",
       "album": {
         "name": "weren't for the wind",
@@ -273,22 +489,6 @@
       "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
     },
     {
-      "added_at": "2025-09-05 04:00:20",
-      "album": {
-        "name": "What No One's Thinking",
-        "url": "https://open.spotify.com/album/2cNDGdbVTxhvH3elDcLVKh"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 302653,
-      "name": "The Big Goodbye",
-      "url": "https://open.spotify.com/track/2VvdnhGdRYqYCenXLh6rJ4"
-    },
-    {
       "added_at": "2025-08-29 04:00:39",
       "album": {
         "name": "Man\u2019s Best Friend",
@@ -303,22 +503,6 @@
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
-    },
-    {
-      "added_at": "2025-04-25 04:00:38",
-      "album": {
-        "name": "Mystical Magical",
-        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "Mystical Magical",
-      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
     },
     {
       "added_at": "2025-08-08 04:00:36",
@@ -389,6 +573,22 @@
       "url": "https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6"
     },
     {
+      "added_at": "2025-09-05 04:00:20",
+      "album": {
+        "name": "Handsome",
+        "url": "https://open.spotify.com/album/75L3Tq36JRPGF4z86UhVUw"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 225910,
+      "name": "Handsome",
+      "url": "https://open.spotify.com/track/2GIddrm2ihwIyNIXTbGL3B"
+    },
+    {
       "added_at": "2025-08-29 04:00:39",
       "album": {
         "name": "Love In Reverse",
@@ -439,22 +639,6 @@
       "duration_ms": 177064,
       "name": "Make A Baby (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/7DrMUeCJ5lgfcxhBdb4mV1"
-    },
-    {
-      "added_at": "2025-08-15 13:51:18",
-      "album": {
-        "name": "Greetings From Your Hometown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "Tantrum",
-      "url": "https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG"
     },
     {
       "added_at": "2025-03-21 04:01:01",
@@ -737,22 +921,6 @@
       "url": "https://open.spotify.com/track/0vM4LQCV9TsBH8hvTWsow9"
     },
     {
-      "added_at": "2025-08-01 15:16:16",
-      "album": {
-        "name": "Not Goodbye (Close My Eyes)",
-        "url": "https://open.spotify.com/album/1sIXZgz5vUYWCkR6yHaDSS"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Not Goodbye (Close My Eyes)",
-      "url": "https://open.spotify.com/track/21I6SL2JSDfV04k1QFyLEG"
-    },
-    {
       "added_at": "2025-08-15 04:00:29",
       "album": {
         "name": "Catching Bodies",
@@ -767,6 +935,22 @@
       "duration_ms": 186493,
       "name": "Catching Bodies",
       "url": "https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI"
+    },
+    {
+      "added_at": "2025-09-12 04:00:23",
+      "album": {
+        "name": "City of Angels",
+        "url": "https://open.spotify.com/album/29F3ec1kejSDhaaOiwVOx8"
+      },
+      "artists": [
+        {
+          "name": "Daniel Powter",
+          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+        }
+      ],
+      "duration_ms": 194972,
+      "name": "City Of Angels",
+      "url": "https://open.spotify.com/track/1B6IIGFdZaYZMhjpMcPBUW"
     },
     {
       "added_at": "2025-07-11 04:00:18",

@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Big Thief
 
-372 songs - 1 day 0 hr 7 min
+373 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 | 2024-10-06 |  |
 | [Passing Judgment](https://open.spotify.com/track/2br7c0YcCucYv0YhoXExad) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Passing Judgment](https://open.spotify.com/album/4Png2UTnbV4CKSnMSEcRf1) | 3:58 | 2024-06-14 | 2024-07-12 |
 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 | 2024-07-11 |  |
+| [Petals](https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 2:53 | 2025-09-11 |  |
 | [Picture Window](https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 2:58 | 2025-03-21 |  |
 | [Pined For You My Whole Life](https://open.spotify.com/track/45ACl4h73fWq3pAjGxyGNi) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Pined For You My Whole Life](https://open.spotify.com/album/47CrI5tzjO4ULXAgf8irey) | 3:18 | 2025-03-21 |  |
 | [Pink](https://open.spotify.com/track/3q1uWf6BulnqldbYrDJ45U) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pink](https://open.spotify.com/album/0utv7DeJSHoEHBYu0kol5R) | 3:18 | 2025-05-08 | 2025-06-07 |
@@ -269,7 +270,7 @@
 | [Read The Room](https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:14 | 2024-06-14 | 2025-03-22 |
 | [Release Myself](https://open.spotify.com/track/2KXFFgeqNkSWnOKy0eMAuB) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Light Sleeper](https://open.spotify.com/album/4wmalPtenCERnePwFsCD99) | 3:38 | 2024-06-14 | 2025-05-09 |
 | [Renegade](https://open.spotify.com/track/6XMHSmYxPPSu5dEIYT2iiB) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Renegade](https://open.spotify.com/album/0lzllJKffqeHBrlhg79BMw) | 5:11 | 2024-11-15 | 2025-03-18 |
-| [Return Of The Sharp Heads](https://open.spotify.com/track/7MbYj4jXgAkEmp2pts5Ov1) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Return Of the Sharp Heads](https://open.spotify.com/album/39k2pwAvi0MV65HXhFrQHw) | 5:05 | 2025-06-20 |  |
+| [Return Of The Sharp Heads](https://open.spotify.com/track/7MbYj4jXgAkEmp2pts5Ov1) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Return Of the Sharp Heads](https://open.spotify.com/album/39k2pwAvi0MV65HXhFrQHw) | 5:05 | 2025-06-20 | 2025-09-14 |
 | [Return of Youth](https://open.spotify.com/track/1Up0lG6k9NsBKs7hjJulCw) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Return of Youth](https://open.spotify.com/album/0rBtZug6roUoHxRSVCpPWC) | 7:38 | 2025-05-23 | 2025-08-09 |
 | [Rock And Roll](https://open.spotify.com/track/58yz3lbCHxj18jsbwkQEyz) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Guitar](https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY) | 3:02 | 2025-09-04 |  |
 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 | 2024-11-15 |  |

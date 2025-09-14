@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ Algernon Cadwallader
 
-292 songs - 16 hr 14 min
+293 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Crawling](https://open.spotify.com/track/0P4A7IE22FzgcerZuf0fTs) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Raw Emotion](https://open.spotify.com/album/5giGovo1IyngRkyi58nxtY) | 2:44 | 2022-11-25 | 2022-12-18 |
 | [Crawling](https://open.spotify.com/track/3uXRPo8BHWB3ZJIfL4PrgB) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Soft Slam](https://open.spotify.com/album/6qexqy400QLAyDIu8Cf5Fe) | 2:44 | 2022-12-09 | 2022-12-19 |
 | [Crawling](https://open.spotify.com/track/7q9CCkU2CpUodkMx02V11R) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Raw Emotion](https://open.spotify.com/album/5Xfy7lIiqneDoEf3jEQwQY) | 2:44 | 2022-12-09 | 2023-03-18 |
+| [cross my heart](https://open.spotify.com/track/5ayZLwBFGNfQpI2ZsMnnKs) | [saturdays at your place](https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR) | [these things happen](https://open.spotify.com/album/3xiYqnYgX8053Tg4KR6h4P) | 1:30 | 2025-09-12 |  |
 | [cross to bear](https://open.spotify.com/track/3IYiaXzyuPALEvpJ5IXzZ8) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [cross to bear + sorrow machine](https://open.spotify.com/album/0GAtySUVv6nUhmVeWpfAFy) | 4:32 | 2024-06-21 | 2024-10-12 |
 | [Crumbling](https://open.spotify.com/track/2EJgEVwGWA0tvt3xgDUAOh) | [Sign Language](https://open.spotify.com/artist/3KdIx1AzUI5DQCazdl4yKg) | [Crumbling](https://open.spotify.com/album/5k67HhKmzB4FrsIk7PUkzy) | 3:13 | 2023-05-01 | 2024-07-13 |
 | [Curly Q](https://open.spotify.com/track/5etEJrn4QNlm0Z7xIbmnDi) | [Prince Daddy & the Hyena](https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49) | [Prince Daddy & The Hyena](https://open.spotify.com/album/4Os6Tb2ris9W7QgWSHEUye) | 4:17 | 2022-11-25 | 2024-05-15 |
@@ -228,7 +229,7 @@
 | [Shhhh! Golf is On](https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Why Would I Watch](https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ) | 2:44 | 2023-04-14 | 2024-04-19 |
 | [Sick As Your Secrets](https://open.spotify.com/track/1v7zwwBb8iKquvkApcnCHn) | [Mikey Erg](https://open.spotify.com/artist/5YuPLav1vGZmaeeASQrsQK) | [Love At Leeds](https://open.spotify.com/album/3xEWVX0nsMdrElVih8p62M) | 2:39 | 2022-11-25 | 2023-03-18 |
 | [Silhouettes In Motion](https://open.spotify.com/track/4ygG0M1l8RY9PLOnzbnZzE) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Respite For A Tragic Tale / Silhouettes in Motion](https://open.spotify.com/album/7EJ2kr6NZ1kJsAPj0lkQWa) | 2:47 | 2024-03-08 | 2024-07-13 |
-| [Sixth Sense](https://open.spotify.com/track/67dfhhZTDrlHKw94sdvqYX) | [Retirement Party](https://open.spotify.com/artist/6scS2RlUYZHwgNWfMfviOL) | [Sixth Sense](https://open.spotify.com/album/7jCl50f6dYTLWDwLqI9tvF) | 3:08 | 2025-08-08 |  |
+| [Sixth Sense](https://open.spotify.com/track/67dfhhZTDrlHKw94sdvqYX) | [Retirement Party](https://open.spotify.com/artist/6scS2RlUYZHwgNWfMfviOL) | [Sixth Sense](https://open.spotify.com/album/7jCl50f6dYTLWDwLqI9tvF) | 3:08 | 2025-08-08 | 2025-09-14 |
 | [Solstice](https://open.spotify.com/track/5zIX0xubhZoDYkTBG1pm49) | [Downhaul](https://open.spotify.com/artist/5g4PKgeQwXYLTktYSIYPXR) | [Solstice](https://open.spotify.com/album/3Lc9EedJrBItDSjC0Vd8na) | 3:07 | 2024-09-10 | 2024-10-12 |
 | [Sometimes Things Change](https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0) | [Swimming](https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa) | [That's OK](https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl) | 4:05 | 2022-11-25 | 2025-09-13 |
 | [Speaking in Tongues](https://open.spotify.com/track/16sWPx7xLq8iyVTHATLULA) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Keepsakes & Reminders \(Deluxe\)](https://open.spotify.com/album/56EAwWQtYqwtVfHznqfdvj) | 3:08 | 2022-11-25 | 2024-06-22 |

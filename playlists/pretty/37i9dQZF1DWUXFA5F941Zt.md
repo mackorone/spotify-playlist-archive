@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXFA5F941Zt.md) - [plain]
 
 > Celebrate Halloween with the the best in old fashioned spooky Jazz and Blues from the 1920s\-1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,089 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,100 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

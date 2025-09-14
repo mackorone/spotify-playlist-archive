@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-431 songs - 1 day 1 hr 7 min
+432 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All Day](https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [All Day](https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO) | 2:37 | 2024-06-27 | 2024-10-25 |
 | [All I See Is You](https://open.spotify.com/track/6fguxhJr4J74AhAPACfVf4) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [All I See Is You](https://open.spotify.com/album/4PCW9G4aPNA9E72DianbnY) | 2:37 | 2025-03-20 | 2025-06-13 |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-03 | 2025-04-25 |
+| [All These Years](https://open.spotify.com/track/79SPu1VplDqde3ONfxvS4w) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [All These Years](https://open.spotify.com/album/6GLddY1ROJ42TaJ3z8Unm1) | 3:48 | 2025-09-11 |  |
 | [All vår dans](https://open.spotify.com/track/6UBN3gqdmJwz6hdaDaCxAv) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [All vår dans](https://open.spotify.com/album/1XSg5n8WaCQ3y5QM25CZ0K) | 3:28 | 2024-08-29 | 2024-09-27 |
 | [Alla minnen kvar](https://open.spotify.com/track/0sXv5C6EEag4ATQmeSYw9e) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe), [Andreas Mattsson](https://open.spotify.com/artist/4Vff2nZMDC6c3GBrVL2y8n) | [I mina drömmars land](https://open.spotify.com/album/1yclSKg2FVF7t6bXcDc2XJ) | 2:51 | 2025-05-08 | 2025-08-31 |
 | [Alla Tittar På Mig](https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Alla Tittar På Mig](https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr) | 2:24 | 2025-01-16 | 2025-05-30 |
@@ -93,7 +94,7 @@
 | [Du lever bara en gång](https://open.spotify.com/track/4XeAYorvujNce5c46bMCHw) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Du lever bara en gång](https://open.spotify.com/album/3uTHyiH9oRSibuPZeryfjp) | 3:04 | 2024-10-17 | 2025-04-25 |
 | [Du längtar bort](https://open.spotify.com/track/7wHzj6EPkLK8GasG0NVFe0) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS), [Kristin Amparo](https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR) | [Du längtar bort](https://open.spotify.com/album/6QNGCI3PqSDORrueoaC5wK) | 4:33 | 2025-05-29 | 2025-06-29 |
 | [Du är inte ensam](https://open.spotify.com/track/6hysTRJfm36bH5gyGhMokz) | [Michael Jeff Johnson](https://open.spotify.com/artist/3ta73ydktHSzZRez9vzyUV), [Sonja Aldén](https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ) | [Du är inte ensam](https://open.spotify.com/album/00veIC6BKJUrFwhxISPhUu) | 3:11 | 2024-09-19 | 2024-10-08 |
-| [East River Park Song](https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Alphabet City Songs \(Lost and Found Album\)](https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw) | 3:55 | 2025-03-27 |  |
+| [East River Park Song](https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Alphabet City Songs \(Lost and Found Album\)](https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw) | 3:55 | 2025-03-27 | 2025-09-14 |
 | [Elaine](https://open.spotify.com/track/02TJw6vUHpiFOFw3TVNjFK) | [Hagsätra Sport](https://open.spotify.com/artist/0QAkm7atdiO4zIMNQDKkua), [Niklas Strömstedt](https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu), [Andreas Johnson](https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC) | [Elaine](https://open.spotify.com/album/2cyHxoHmfKnjN9F4cXZ8fw) | 3:03 | 2024-06-27 | 2024-09-29 |
 | [Eller hur](https://open.spotify.com/track/7I6Su8oH5i0IUF4ONw6d7j) | [David Urwitz](https://open.spotify.com/artist/2ces6d2YsQP1RpGMYpdFy8) | [Eller hur](https://open.spotify.com/album/5H8n2sZeG4MqcYKuWtbY4i) | 3:14 | 2025-05-15 | 2025-06-06 |
 | [Emilie's Song \- From the TV series "Tordyveln flyger i skymningen"](https://open.spotify.com/track/1OAbp83E27ZE0eLiw9KxaF) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Emilie's Song \(From the TV series "Tordyveln flyger i skymningen"\)](https://open.spotify.com/album/5UXEPUUmaP2yXhPYAI5pMd) | 4:24 | 2025-07-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: <br/>Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,008 likes - 75 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,026 likes - 75 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

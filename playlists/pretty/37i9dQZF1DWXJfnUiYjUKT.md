@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Ed Sheeran on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,798 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,897 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 58 | [Dent](https://open.spotify.com/track/1aPBk61BkA2efpwrSRBFMo) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Dent](https://open.spotify.com/album/08Qgfm6I8ATQE7Vp1Lf8EL) | 3:12 |
 | 59 | [Tennessee](https://open.spotify.com/track/06KKE7mSrJo1zpAxvKJYpk) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tennessee](https://open.spotify.com/album/4TUWQbjGTrO3N2jdxWAj46) | 2:36 |
 | 60 | [CURIOUS \(feat\. Toro y Moi\)](https://open.spotify.com/track/1iX4H6DTyg7xrmt8EzJbzB) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [CURIOUS \(feat\. Toro y Moi\)](https://open.spotify.com/album/7uwhe6VCJXSpA5kEYK2BL2) | 3:50 |
-| 61 | [Unconditional](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Unconditional](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
+| 61 | [UNCONDITIONAL](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [UNCONDITIONAL](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
 | 62 | [Daddy's Girl](https://open.spotify.com/track/2a3FGFNNn9OJsn7RL70Jhs) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [MadRaps](https://open.spotify.com/album/4xrnbBiQQs4mNaVqvOaicV) | 2:10 |
 | 63 | [Two First Names](https://open.spotify.com/track/2e7x4VTgV0faEfG9MwkHFI) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [When I Write The Song](https://open.spotify.com/album/0GpuzOYTm6vI23eCZV9GRw) | 4:08 |
 | 64 | [What You Need](https://open.spotify.com/track/2UvWkmIR6mUaOx7gkWWuCT) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Soft Glas](https://open.spotify.com/artist/64YO6kjOrspjCGA2GQwsT0) | [What You Need](https://open.spotify.com/album/5JbGpDzw1QQpWEWfJIh8ux) | 3:50 |

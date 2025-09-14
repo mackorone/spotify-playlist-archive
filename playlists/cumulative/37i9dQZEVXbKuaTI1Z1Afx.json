@@ -35310,7 +35310,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 232375,
       "name": "i wish i knew how to quit you",
       "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
@@ -44258,7 +44258,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 237134,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5"
@@ -61490,6 +61490,24 @@
     {
       "album": {
         "name": "The Complete Discography",
+        "url": "https://open.spotify.com/album/37CVMGPwdL5IcNMQQt7HOi"
+      },
+      "artists": [
+        {
+          "name": "Korea Girl",
+          "url": "https://open.spotify.com/artist/1Z5bekaSxinwyB2pxG6pks"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261293,
+      "name": "Reunion",
+      "url": "https://open.spotify.com/track/6oMnjoXuRPZ543CgQalTea"
+    },
+    {
+      "album": {
+        "name": "The Complete Discography",
         "url": "https://open.spotify.com/album/5rQPHWyiLu7mkHIb3p8F5r"
       },
       "artists": [
@@ -61500,7 +61518,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 261293,
       "name": "Reunion",
       "url": "https://open.spotify.com/track/7cSwv1A2yKLUIf7ya0tKxJ"
@@ -72322,6 +72340,24 @@
     {
       "album": {
         "name": "River Rat",
+        "url": "https://open.spotify.com/album/6AIye9W5mOCZgsbfk6c440"
+      },
+      "artists": [
+        {
+          "name": "The Creekers",
+          "url": "https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231653,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/7qAIHFtOLHXMsVH3RJA0Ug"
+    },
+    {
+      "album": {
+        "name": "River Rat",
         "url": "https://open.spotify.com/album/2D8HqqqloeD9Mh87J6P7pK"
       },
       "artists": [
@@ -72332,7 +72368,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 231675,
       "name": "Tennessee",
       "url": "https://open.spotify.com/track/0p4pUefPWyulxgXr33yAE2"

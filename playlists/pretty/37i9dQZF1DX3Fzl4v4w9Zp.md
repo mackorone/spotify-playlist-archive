@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,557 likes - 171 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,460 likes - 171 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

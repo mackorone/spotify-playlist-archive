@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,738 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,739 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Niña Fresa](https://open.spotify.com/track/3sgHiiSR5V8V97FiQtne0u) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:40 |
-| 2 | [Ritmo Chido](https://open.spotify.com/track/0bXznJ4BNcGaOxNig3LNV5) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 2:55 |
+| 2 | [Ritmo Chido](https://open.spotify.com/track/0bXznJ4BNcGaOxNig3LNV5) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 2:55 |
 | 3 | [Presumidas, S.a.](https://open.spotify.com/track/3awoHuOrcCKZTKQj0ICkLf) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:58 |
 | 4 | [La buenotota](https://open.spotify.com/track/6u93FoQMwa24Y0at0W72GX) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 3:11 |
 | 5 | [Hotel California](https://open.spotify.com/track/7aGYG6w2hMxiJXot3LZVTS) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 4:16 |
-| 6 | [Bandrobic's](https://open.spotify.com/track/26a5Wt3kbRA7bt64czqupC) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:40 |
+| 6 | [Bandrobic's](https://open.spotify.com/track/26a5Wt3kbRA7bt64czqupC) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:40 |
 | 7 | [Balada Del Parque Frío](https://open.spotify.com/track/0IhM4cYDTuD5CN9EnW5uFo) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:57 |
 | 8 | [El Pasito Perron](https://open.spotify.com/track/70cAHG35vnpbGnoykbIFcn) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [El Pasito Perron](https://open.spotify.com/album/6CiXXNc8Mg5rFwbUwcZ68k) | 2:51 |
 | 9 | [Zapatos De Bailador](https://open.spotify.com/track/35UoR8RpKtdvI2TUFVeKmU) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:49 |
@@ -39,20 +39,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 | 29 | [La ilógica](https://open.spotify.com/track/2Z3kvyu4xhzr77UTf20F14) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [Ni tan chico, ni tan che](https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP) | 2:10 |
 | 30 | [El Zorro y el Sabueso](https://open.spotify.com/track/79SlePX5ZXM6Ooldf7rcLy) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:31 |
 | 31 | [La chispa](https://open.spotify.com/track/5frBieEOpYDKSmYByQeQ4n) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:18 |
-| 32 | [A Pesar De Todo](https://open.spotify.com/track/2DZmRvxjFzZZv6BnByxsAv) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:05 |
+| 32 | [A Pesar De Todo](https://open.spotify.com/track/2DZmRvxjFzZZv6BnByxsAv) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:05 |
 | 33 | [Ni alta, ni chaparrita](https://open.spotify.com/track/3YahOWl6Rn8R71eBTxeeR9) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [Ni tan chico, ni tan che](https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP) | 2:30 |
 | 34 | [La Buenota](https://open.spotify.com/track/0yaXCQ3HblOcM1swa7mN3s) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:01 |
 | 35 | [Un Engaño Más](https://open.spotify.com/track/6GLVpQEhEFzyRQsPUqQtJI) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Sorprendente](https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my) | 2:59 |
-| 36 | [Acariciame](https://open.spotify.com/track/4D4T9dfFC2D31OvolyhM3R) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:07 |
+| 36 | [Acariciame](https://open.spotify.com/track/4D4T9dfFC2D31OvolyhM3R) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:07 |
 | 37 | [Pal Bailador \(Pasito Tun Tun\)](https://open.spotify.com/track/1SGcApP6dz2XJDDH7FgUce) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Pal Bailador \(Pasito Tun Tun\)](https://open.spotify.com/album/7dxxzJPwgFh9yqr6dcCWbz) | 3:05 |
 | 38 | [Pinto Raya](https://open.spotify.com/track/1SaWeuHTTtX3bmLx8dvvGY) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:02 |
 | 39 | [Donde Estas Corazon](https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Donde Estas Corazon](https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM) | 3:16 |
 | 40 | [Gracias por Ser Mi Mujer](https://open.spotify.com/track/1cYyS7rccvdPHzOgmVOCEf) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 3:27 |
 | 41 | [Luna](https://open.spotify.com/track/2heL7osf5TOVYLLczovWN6) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL), [La Original Banda GM](https://open.spotify.com/artist/3NSgRhld0JBzrIvPj7bXAw) | [Luna](https://open.spotify.com/album/5X7cego1SYUkPvv7WKP1Vl) | 3:26 |
 | 42 | [Como un Tatuaje](https://open.spotify.com/track/5FiSHv18l1jms2YcV2Avpk) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:02 |
-| 43 | [Hasta El Fondo Del Abismo](https://open.spotify.com/track/1cP65BrZnrflETwKMWSZZs) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:17 |
+| 43 | [Hasta El Fondo Del Abismo](https://open.spotify.com/track/1cP65BrZnrflETwKMWSZZs) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:17 |
 | 44 | [Manos chicas](https://open.spotify.com/track/7AIxN1s3O2ZVlHX2PqwyDI) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 3:35 |
-| 45 | [Mujer Al Volante](https://open.spotify.com/track/2jVI0WGvWnMTN90AMMq0Yz) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:10 |
+| 45 | [Mujer Al Volante](https://open.spotify.com/track/2jVI0WGvWnMTN90AMMq0Yz) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:10 |
 | 46 | [Dame Chamoy](https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf) | [Marea Musical](https://open.spotify.com/artist/3artnpQ7f3G0xY70vl23TL), [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Dame Chamoy](https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T) | 2:26 |
 | 47 | [El Taladro](https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:45 |
 | 48 | [Con un poquito de amor](https://open.spotify.com/track/241BmTaBzj3c96kzcZH34O) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 3:09 |

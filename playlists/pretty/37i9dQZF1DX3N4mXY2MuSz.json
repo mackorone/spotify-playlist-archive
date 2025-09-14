@@ -1,6 +1,6 @@
 {
   "description": "Holiday classics from your favourite punks. ",
-  "num_followers": 79589,
+  "num_followers": 79591,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas Every Day",
-        "url": "https://open.spotify.com/album/4ViPUv1NUYHuBpfNX3gkVL"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 226019,
-      "name": "Christmas Every Day",
-      "url": "https://open.spotify.com/track/1VFXTsoR3uHlu9tBAAlElO"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "X Christmas",
         "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 212680,
       "name": "His Favorite Christmas Story",
       "url": "https://open.spotify.com/track/0zrbISwByqUAWssIhgQwQr"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christmas Every Day",
+        "url": "https://open.spotify.com/album/4ViPUv1NUYHuBpfNX3gkVL"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 226019,
+      "name": "Christmas Every Day",
+      "url": "https://open.spotify.com/track/1VFXTsoR3uHlu9tBAAlElO"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Black Christmas",
-        "url": "https://open.spotify.com/album/3AiM0vW6bds2RNDKIgHZY9"
-      },
-      "artists": [
-        {
-          "name": "Poly Styrene",
-          "url": "https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq"
-        }
-      ],
-      "duration_ms": 203640,
-      "name": "Black Christmas",
-      "url": "https://open.spotify.com/track/4KBMP1TjinUxc6HAZZU51L"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Merry Flippin' Christmas Vol. 1 and 2",
         "url": "https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 164746,
       "name": "Merry Flippin' Christmas (Happy Freakin' New Year)",
       "url": "https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Black Christmas",
+        "url": "https://open.spotify.com/album/3AiM0vW6bds2RNDKIgHZY9"
+      },
+      "artists": [
+        {
+          "name": "Poly Styrene",
+          "url": "https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq"
+        }
+      ],
+      "duration_ms": 203640,
+      "name": "Black Christmas",
+      "url": "https://open.spotify.com/track/4KBMP1TjinUxc6HAZZU51L"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christma-ska",
-        "url": "https://open.spotify.com/album/01WaNurRP5USodwR1m67tU"
-      },
-      "artists": [
-        {
-          "name": "The Toasters",
-          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "Rudy Christmas A Jail",
-      "url": "https://open.spotify.com/track/1iICcD096UT9ckrlTent5j"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Santa Claus Is Coming to Town",
         "url": "https://open.spotify.com/album/3KsEuysKMu3uTRac1Y1x41"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Stoke Extinguisher",
-        "url": "https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7"
+        "name": "Christma-ska",
+        "url": "https://open.spotify.com/album/01WaNurRP5USodwR1m67tU"
       },
       "artists": [
         {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
         }
       ],
-      "duration_ms": 139133,
-      "name": "New Year's Revolution",
-      "url": "https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd"
+      "duration_ms": 159133,
+      "name": "Rudy Christmas A Jail",
+      "url": "https://open.spotify.com/track/1iICcD096UT9ckrlTent5j"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -871,6 +855,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Stoke Extinguisher",
+        "url": "https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 139133,
+      "name": "New Year's Revolution",
+      "url": "https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Christmas Rock",
         "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christma-ska",
-        "url": "https://open.spotify.com/album/01WaNurRP5USodwR1m67tU"
-      },
-      "artists": [
-        {
-          "name": "The Toasters",
-          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/3i7yZ91aKCk5BsYwhKAZdl"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Holiday Records",
         "url": "https://open.spotify.com/album/4xrqHer0s9cTXkL0VyGgYx"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 183000,
       "name": "Holiday Records",
       "url": "https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christma-ska",
+        "url": "https://open.spotify.com/album/01WaNurRP5USodwR1m67tU"
+      },
+      "artists": [
+        {
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/3i7yZ91aKCk5BsYwhKAZdl"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Father Christmas",
-        "url": "https://open.spotify.com/album/7voAxY5cusvcdJynnQzggG"
-      },
-      "artists": [
-        {
-          "name": "Lauran Hibberd",
-          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
-        }
-      ],
-      "duration_ms": 199071,
-      "name": "Father Christmas",
-      "url": "https://open.spotify.com/track/2fARp1aruu7SCi4e3XdnwP"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "It's Better to Give Than Receive",
         "url": "https://open.spotify.com/album/4cT4OTGawl9xdboA8qWOhq"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 135110,
       "name": "I'm Going Surfing for Xmas",
       "url": "https://open.spotify.com/track/4Rfapwi4NNQjw2PJO7WTmo"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Father Christmas",
+        "url": "https://open.spotify.com/album/7voAxY5cusvcdJynnQzggG"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        }
+      ],
+      "duration_ms": 199071,
+      "name": "Father Christmas",
+      "url": "https://open.spotify.com/track/2fARp1aruu7SCi4e3XdnwP"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Happy Christmas: A Tooth And Nail Christmas",
+        "url": "https://open.spotify.com/album/6SnL8p2tCeaosY8oEKs3An"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        }
+      ],
+      "duration_ms": 171145,
+      "name": "Christmas, Baby Please Come Home",
+      "url": "https://open.spotify.com/track/0fwADJw0ieQ6F2yKhKbogt"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "This Could Be Christmas",
         "url": "https://open.spotify.com/album/3mlCzvIC685wUotds8Fpye"
       },
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Happy Christmas: A Tooth And Nail Christmas",
-        "url": "https://open.spotify.com/album/6SnL8p2tCeaosY8oEKs3An"
-      },
-      "artists": [
-        {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
-        }
-      ],
-      "duration_ms": 171145,
-      "name": "Christmas, Baby Please Come Home",
-      "url": "https://open.spotify.com/track/0fwADJw0ieQ6F2yKhKbogt"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "We Wish You a Merry Christmas / Jingle Bells (Short Edit)",
         "url": "https://open.spotify.com/album/0ns5OyzHII4TJ0gjtfyC4b"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 126857,
       "name": "We Wish You a Merry Christmas / Jingle Bells - Short Edit",
       "url": "https://open.spotify.com/track/1UsnscOXO3MEGrl3TBP6AS"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Single All the Way",
+        "url": "https://open.spotify.com/album/2ELrF257DBvEtUnYqPqRVa"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Sunrise",
+          "url": "https://open.spotify.com/artist/4CzSDigTxbLBQU4DdvhkxY"
+        }
+      ],
+      "duration_ms": 195131,
+      "name": "Single All the Way",
+      "url": "https://open.spotify.com/track/2xt5i2X4YhPqTb5sQc9heQ"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Single All the Way",
-        "url": "https://open.spotify.com/album/2ELrF257DBvEtUnYqPqRVa"
+        "name": "Christmas Cards",
+        "url": "https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R"
       },
       "artists": [
         {
-          "name": "Goodnight Sunrise",
-          "url": "https://open.spotify.com/artist/4CzSDigTxbLBQU4DdvhkxY"
+          "name": "Spoke Too Soon",
+          "url": "https://open.spotify.com/artist/3oARFNb8lJnqLCubtq2yMx"
         }
       ],
-      "duration_ms": 195131,
-      "name": "Single All the Way",
-      "url": "https://open.spotify.com/track/2xt5i2X4YhPqTb5sQc9heQ"
+      "duration_ms": 246074,
+      "name": "Christmas Cards",
+      "url": "https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1203,22 +1219,6 @@
       "duration_ms": 150136,
       "name": "Rum Nogs",
       "url": "https://open.spotify.com/track/0DGfcRKLwqAJQX4k426sJ6"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Christmas Cards",
-        "url": "https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R"
-      },
-      "artists": [
-        {
-          "name": "Spoke Too Soon",
-          "url": "https://open.spotify.com/artist/3oARFNb8lJnqLCubtq2yMx"
-        }
-      ],
-      "duration_ms": 246074,
-      "name": "Christmas Cards",
-      "url": "https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas Lullaby",
-        "url": "https://open.spotify.com/album/4QCofUG55C0lck6URon2Pn"
-      },
-      "artists": [
-        {
-          "name": "CJ Ramone",
-          "url": "https://open.spotify.com/artist/3jVd6Z5yEh5SSdvzkzUbUp"
-        }
-      ],
-      "duration_ms": 184532,
-      "name": "Christmas Lullaby",
-      "url": "https://open.spotify.com/track/6csB7qcfwypYTXeItvHcEq"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Get This Christmas Right",
         "url": "https://open.spotify.com/album/1trvEENbl7mzhG6t6FQoy1"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 131292,
       "name": "Get This Christmas Right",
       "url": "https://open.spotify.com/track/52PxV5MwXOVcNocge2Ay1W"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christmas Lullaby",
+        "url": "https://open.spotify.com/album/4QCofUG55C0lck6URon2Pn"
+      },
+      "artists": [
+        {
+          "name": "CJ Ramone",
+          "url": "https://open.spotify.com/artist/3jVd6Z5yEh5SSdvzkzUbUp"
+        }
+      ],
+      "duration_ms": 184532,
+      "name": "Christmas Lullaby",
+      "url": "https://open.spotify.com/track/6csB7qcfwypYTXeItvHcEq"
     },
     {
       "added_at": "2023-11-18 13:41:26",

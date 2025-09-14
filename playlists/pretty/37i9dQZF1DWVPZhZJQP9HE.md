@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,700 likes - 53 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,711 likes - 53 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

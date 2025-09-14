@@ -1,6 +1,6 @@
 {
   "description": "Hear all of Drake's biggest and best hits in one playlist. Thank us later.",
-  "num_followers": 4168923,
+  "num_followers": 4169338,
   "original_name": "This Is Drake",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,54 @@
   },
   "snapshot_id": "AAAAAFQqmOD1KHepP5Y8Ie09oPVbw64P",
   "tracks": [
+    {
+      "added_at": "2025-09-12 16:49:06",
+      "album": {
+        "name": "DOG HOUSE",
+        "url": "https://open.spotify.com/album/3r4vAHYjjrGp84E0g909W6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 190010,
+      "name": "DOG HOUSE (feat. Julia Wolf & Yeat)",
+      "url": "https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la"
+    },
+    {
+      "added_at": "2025-09-12 16:49:06",
+      "album": {
+        "name": "SOMEBODY LOVES ME PT. 2",
+        "url": "https://open.spotify.com/album/6xizpwyMt2WmBawEEwh03y"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "duration_ms": 181276,
+      "name": "SOMEBODY LOVES ME PT. 2",
+      "url": "https://open.spotify.com/track/47czTWYsHN8TXMR0TfYtUR"
+    },
     {
       "added_at": "2025-07-06 00:52:15",
       "album": {

@@ -4,7 +4,7 @@
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-96 songs - 3 hr 42 min
+99 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 | 2024-10-18 |  |
 | [Autumn In New York](https://open.spotify.com/track/0zDJijiN6g2nIKp5IqTKmC) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9) | [Autumn In New York](https://open.spotify.com/album/7cz2pYe6rJnJxpc6xR8q9u) | 1:45 | 2024-10-18 | 2025-09-06 |
 | [Autumn Leaves](https://open.spotify.com/track/0TVNasZT7dOG7EJAxilDx1) | [Otaam](https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0), [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Autumn Leaves](https://open.spotify.com/album/1paX5WTymOVXSlyUD1Rq0b) | 2:03 | 2024-10-18 | 2024-10-25 |
+| [Autumn Letters](https://open.spotify.com/track/7e1VORsL4GCNqACM8G3evL) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Autumn Letters](https://open.spotify.com/album/2HyYRDTyuVecdO1dNSQcHo) | 2:51 | 2025-09-12 |  |
 | [autumn morning](https://open.spotify.com/track/4sO4UnfiATMXi4xZHdEFJO) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR), [re:fill](https://open.spotify.com/artist/2YAjZCYyobcy0FTHSeiqOe) | [autumn morning](https://open.spotify.com/album/3hkpAm6vcGbjn9smI79zyi) | 2:02 | 2024-10-18 |  |
 | [Beam Me Up](https://open.spotify.com/track/4iuQ5DwUqpOXfazF3S4pHG) | [Adam Space](https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU) | [Beam Me Up](https://open.spotify.com/album/2eAXEuljSiuSlxT9i3tYj4) | 2:03 | 2024-10-18 |  |
 | [Big Fish](https://open.spotify.com/track/2zoSvGZXm4NSLHd5oBNtUc) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Big Fish](https://open.spotify.com/album/2Ldz0ZfQh8GKRl43TlLjiT) | 2:35 | 2024-10-18 | 2025-09-06 |
@@ -25,9 +26,9 @@
 | [chuli](https://open.spotify.com/track/2ImZV0z7y8R68StmTUR9gH) | [rollinsmpls](https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois) | [chuli](https://open.spotify.com/album/4SxVO3YXiuWNgliaiMnwU0) | 2:04 | 2024-11-15 |  |
 | [clouded](https://open.spotify.com/track/02yaLWrbBD6rjztw6b0cLL) | [ffoorreesstt](https://open.spotify.com/artist/7kR8pcIkkacGIHGiw8kNej) | [clouded](https://open.spotify.com/album/7mIPhNXOSRMWkqCwVPpuuE) | 2:37 | 2024-10-18 |  |
 | [dawn to dawn](https://open.spotify.com/track/40LJYr9L3F8r2I1AXiV2QA) | [rec.memos](https://open.spotify.com/artist/6n2kivcHpNhuk2kQICjkBZ) | [dawn to dawn](https://open.spotify.com/album/0BKPWdx8EYZxf81MCjot5C) | 2:31 | 2024-10-18 |  |
-| [Days to Come](https://open.spotify.com/track/7CJ5MPvYa6Hcuz050BDW9F) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Days to Come](https://open.spotify.com/album/37mH8rqJLln47F6qdDssfW) | 2:27 | 2024-10-18 |  |
+| [Days to Come](https://open.spotify.com/track/7CJ5MPvYa6Hcuz050BDW9F) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Days to Come](https://open.spotify.com/album/37mH8rqJLln47F6qdDssfW) | 2:27 | 2024-10-18 | 2025-09-14 |
 | [decorate](https://open.spotify.com/track/5VlhG140Gp9NhWhS9Dky1y) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [decorate](https://open.spotify.com/album/3T1DwyLHdDde5oOxNGmwyt) | 2:25 | 2024-10-18 |  |
-| [Deep Blue Dream](https://open.spotify.com/track/4f9InuUz4uZuN2970RymXW) | [Curli Loxx](https://open.spotify.com/artist/72VXvG3lgyD6jsQyr6J05m) | [Deep Blue Dream](https://open.spotify.com/album/3CFaRM1b3dehFSsBaBcseB) | 3:01 | 2024-10-18 |  |
+| [Deep Blue Dream](https://open.spotify.com/track/4f9InuUz4uZuN2970RymXW) | [Curli Loxx](https://open.spotify.com/artist/72VXvG3lgyD6jsQyr6J05m) | [Deep Blue Dream](https://open.spotify.com/album/3CFaRM1b3dehFSsBaBcseB) | 3:01 | 2024-10-18 | 2025-09-14 |
 | [Dippin' Toes](https://open.spotify.com/track/7ralH7l4bA0HBkABnmADuS) | [Hey Aura](https://open.spotify.com/artist/1LkPLzQZg2M4H0XUWDaclS) | [Dippin' Toes](https://open.spotify.com/album/5RuFLo0jP07yvfPfNBJrMu) | 1:42 | 2024-10-18 | 2024-10-25 |
 | [downstream memories](https://open.spotify.com/track/3bBIcw0sCrz0z3W0UEG29k) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [downstream memories](https://open.spotify.com/album/3AA5PeY5bEZKxYY60HsSek) | 2:32 | 2024-11-08 |  |
 | [Dream Drift](https://open.spotify.com/track/5yQXLsJZJBcQQV3mhuWDE4) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Dream Drift](https://open.spotify.com/album/3tEO0ArWLOU1t0kNVIoTwi) | 2:04 | 2024-10-18 |  |
@@ -56,7 +57,7 @@
 | [Inconspicuous](https://open.spotify.com/track/2OnnVbgVtWHzLLSne6IXT8) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [Inconspicuous](https://open.spotify.com/album/7njxinH6A0xtEB5QPO3A6b) | 1:57 | 2024-10-18 |  |
 | [Island Bounce](https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Island Bounce](https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq) | 2:27 | 2024-10-18 |  |
 | [keeping up appearances](https://open.spotify.com/track/0NLSPdAfVk8ArLAH0XqTWJ) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [keeping up appearances](https://open.spotify.com/album/6UMpw0PMtV73MOhsU5ohJ6) | 2:08 | 2024-10-18 | 2024-10-25 |
-| [Lack Of Emotions](https://open.spotify.com/track/1WR0dswbkp0ZH6ml4i9Uzl) | [thea harbor](https://open.spotify.com/artist/2fsFJWtDekOjJEBGAZlFTg) | [Lack Of Emotions](https://open.spotify.com/album/74zbpMColLiKgUjufUIFJr) | 2:27 | 2024-12-11 |  |
+| [Lack Of Emotions](https://open.spotify.com/track/1WR0dswbkp0ZH6ml4i9Uzl) | [thea harbor](https://open.spotify.com/artist/2fsFJWtDekOjJEBGAZlFTg) | [Lack Of Emotions](https://open.spotify.com/album/74zbpMColLiKgUjufUIFJr) | 2:27 | 2024-12-11 | 2025-09-14 |
 | [late nights](https://open.spotify.com/track/7eFgCZQYH6fHKxwn6HPMas) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [late nights](https://open.spotify.com/album/4MyA7lyAneHYWnuR9S7NeA) | 2:37 | 2024-10-24 | 2024-11-30 |
 | [Leaves Fallin'](https://open.spotify.com/track/5UcQZ8I3N17Yx8SkeHMcUG) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Leaves Fallin'](https://open.spotify.com/album/4F4jx6ZzR1SJ7Hl9BcZg4M) | 2:18 | 2024-10-18 | 2025-09-06 |
 | [Light of October](https://open.spotify.com/track/0bT0KigMA1yirlMo7EBZqp) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk) | [Light of October](https://open.spotify.com/album/0BmL2ieDWhMalFMmle2HEu) | 1:42 | 2024-11-15 | 2024-11-30 |
@@ -77,7 +78,7 @@
 | [nightvision](https://open.spotify.com/track/574p3oZ9clAcRkM74jhj4d) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [nightvision](https://open.spotify.com/album/6F2olvguA8qhb9u3XJ7zP5) | 2:23 | 2024-10-18 |  |
 | [nothing to lose](https://open.spotify.com/track/33zke8d6rCkng1Brt3LjlH) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [nothing to lose](https://open.spotify.com/album/5MnN94EeAMkc0DeOMeSYwm) | 2:32 | 2024-10-18 |  |
 | [Now](https://open.spotify.com/track/4VixPNMZMDJ9qV0KUUuxBf) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [Now](https://open.spotify.com/album/3mSLe7fzKHHVpGxfy4Z4oG) | 2:07 | 2024-10-18 |  |
-| [Occasions](https://open.spotify.com/track/5Bf3tZzkgcnpqaGLKkInmV) | [cloudsonmymind](https://open.spotify.com/artist/2YS55Gaa9L2WvDtG3kYRy7) | [Occasions](https://open.spotify.com/album/4KADYqV6KjvdtxhY8MulEA) | 2:22 | 2024-10-18 | 2024-12-02 |
+| [Occasions](https://open.spotify.com/track/5Bf3tZzkgcnpqaGLKkInmV) | [cloudsonmymind](https://open.spotify.com/artist/2YS55Gaa9L2WvDtG3kYRy7) | [Occasions](https://open.spotify.com/album/4KADYqV6KjvdtxhY8MulEA) | 2:22 | 2024-10-18 |  |
 | [Ocean Ride](https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Ocean Ride](https://open.spotify.com/album/0wHm0QUEgZUUNYUF9ut2pq) | 2:09 | 2024-10-18 |  |
 | [On The Surface](https://open.spotify.com/track/5VT8EXUki1C1aZdKmMbsXI) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [On The Surface](https://open.spotify.com/album/6VJ3WlHiq8GOMOddlNgvx3) | 2:05 | 2024-10-18 | 2025-09-06 |
 | [Open Doors](https://open.spotify.com/track/7GhpBmlLkehIvowAgeU7wU) | [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [At Ease](https://open.spotify.com/album/16qoJEqdBZ3s71UCX3GfaG) | 2:30 | 2024-10-18 |  |
@@ -88,8 +89,10 @@
 | [raphael](https://open.spotify.com/track/5mLWt4ZwYYAWtnBE3v1xGT) | [vädur](https://open.spotify.com/artist/2Mbe5uXFqTeYC5exWeeQrQ) | [raphael](https://open.spotify.com/album/21oJkldyM7lbK0Ki87qnFA) | 2:34 | 2024-10-18 | 2025-09-06 |
 | [Renaissance](https://open.spotify.com/track/6rjWO9LcpRRAovhVpJ93pr) | [SumPlusOne](https://open.spotify.com/artist/0cER211mwgbpBAMlqyXNi4) | [Renaissance](https://open.spotify.com/album/1j1RJtqUsyL4P9ATPCIf2x) | 2:08 | 2024-10-18 |  |
 | [routine](https://open.spotify.com/track/0HZsLTBHkIrtDC0qmCOAtg) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [routine](https://open.spotify.com/album/0z1s7c5kahemDRbOVe0YOP) | 2:02 | 2024-10-18 |  |
+| [Sail Setter](https://open.spotify.com/track/2zdcTEiOSuMUM3ZoO32o1q) | [French Connection](https://open.spotify.com/artist/65psUobejSe9ZkjPgtCtZW) | [Sail Setter](https://open.spotify.com/album/0JMWzKEYE8lz7lmzUJTYMj) | 2:04 | 2025-09-12 |  |
 | [Short of Breath](https://open.spotify.com/track/3nChuUgl4otmgu0u0ZueWj) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r) | [Short of Breath](https://open.spotify.com/album/1PntOd2Nr7y3CtOoPCFJnc) | 2:32 | 2024-12-11 |  |
 | [slow down time](https://open.spotify.com/track/5Aq3RQPH6qfrhuoTrRHhHN) | [yellow sofa](https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc) | [slow down time](https://open.spotify.com/album/4dtVbTvZb6GVX40nnMlQFw) | 2:24 | 2024-10-18 |  |
+| [slow turn](https://open.spotify.com/track/7zbGD2aCLp4ZaJnyk7i8FT) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [slow turn](https://open.spotify.com/album/59TAYTgMS7y01sIXrcwyWg) | 2:07 | 2025-09-12 |  |
 | [So Very Much](https://open.spotify.com/track/5dN8phxVcvz7BAIMuI4wqv) | [nora haze](https://open.spotify.com/artist/1pcopnUDTLC87zfDfV16es) | [So Very Much](https://open.spotify.com/album/3EhNEOMhyAweUU6beirfnQ) | 2:05 | 2024-10-18 |  |
 | [Solitude](https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3) | [Soibú](https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI) | [Solitude](https://open.spotify.com/album/2qBou21EABjntC15p7h3cz) | 2:23 | 2024-10-18 |  |
 | [spirulina](https://open.spotify.com/track/6RTXsP4KJKDhBSATyR4ZSB) | [green print](https://open.spotify.com/artist/39W25if0IxsMNwE37DBgZu) | [spirulina](https://open.spotify.com/album/5q0CUqbosogIw2TbpQTI9k) | 2:07 | 2024-10-18 | 2024-11-09 |
@@ -102,7 +105,7 @@
 | [triple sun](https://open.spotify.com/track/5DcoqE24JhH57niz7kgR0I) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [triple sun](https://open.spotify.com/album/4mG00rSaqK95YPPnA4ZmQV) | 1:53 | 2024-10-18 | 2025-09-06 |
 | [Walk Away](https://open.spotify.com/track/09xMSfQxVF0sPhBuduXAPl) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Couch Potato](https://open.spotify.com/album/3ep8vjvJIrCoAKfOI76vZI) | 2:26 | 2024-11-22 |  |
 | [what´s my name](https://open.spotify.com/track/0tgX9pQ08mwF29RB89XH6P) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [what´s my name](https://open.spotify.com/album/0gUnjr4PLsev8CSxg7BbYG) | 1:52 | 2024-12-11 |  |
-| [Windmill](https://open.spotify.com/track/31EArKgvKgR8hdPSahd7QK) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Windmill](https://open.spotify.com/album/27pD2gQL69w78Wtf9CbjUa) | 2:01 | 2024-12-11 | 2025-03-08 |
+| [Windmill](https://open.spotify.com/track/31EArKgvKgR8hdPSahd7QK) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Windmill](https://open.spotify.com/album/27pD2gQL69w78Wtf9CbjUa) | 2:01 | 2024-12-11 |  |
 | [Worcestershire dreaming](https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Worcestershire dreaming](https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj) | 2:06 | 2024-10-18 |  |
 
 \*This playlist was first scraped on 2024-10-20. Prior content cannot be recovered.

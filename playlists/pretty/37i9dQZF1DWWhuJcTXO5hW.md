@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,956 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,967 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 5 | [Devlerin Aşkı](https://open.spotify.com/track/5E6AjfzuqfFmtQyxwyqntu) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2) | [Ahi](https://open.spotify.com/album/3E69rNQtG0zSIWC6tI9OWF) | 3:36 |
 | 6 | [Aicha](https://open.spotify.com/track/21wo3e3K1h5zy03Q3Nkk4E) | [Ahmed Alshaiba](https://open.spotify.com/artist/3draSJS8Ixp5PoZv1oWfwx) | [Aicha](https://open.spotify.com/album/3RRJUlqb8IJvxRKTyCG4h5) | 4:15 |
 | 7 | [Hal Asmar El\-Lon](https://open.spotify.com/track/1LJfErM0iTdKxp2BOM3sEA) | [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [The Collection](https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3) | 5:22 |
-| 8 | [Even If You Leave](https://open.spotify.com/track/3i8YW2Jy2ANDRi0f5VQhwD) | [Ara Dinkjian](https://open.spotify.com/artist/1yu2nsRarrGq79v5gNCX6X) | [An Armenian In America](https://open.spotify.com/album/3B53HQY2j0FkwfT8jeyrwW) | 4:16 |
-| 9 | [Souvenir](https://open.spotify.com/track/5zKoRVSbZ3UQJX9Son7eJK) | [Mohamed Rouane](https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde) | [Un homme libre](https://open.spotify.com/album/7immQi68cW0cg675tlCsmI) | 7:08 |
+| 8 | [Souvenir](https://open.spotify.com/track/5zKoRVSbZ3UQJX9Son7eJK) | [Mohamed Rouane](https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde) | [Un homme libre](https://open.spotify.com/album/7immQi68cW0cg675tlCsmI) | 7:08 |
+| 9 | [Even If You Leave](https://open.spotify.com/track/3i8YW2Jy2ANDRi0f5VQhwD) | [Ara Dinkjian](https://open.spotify.com/artist/1yu2nsRarrGq79v5gNCX6X) | [An Armenian In America](https://open.spotify.com/album/3B53HQY2j0FkwfT8jeyrwW) | 4:16 |
 | 10 | [Al bint el shalabiya](https://open.spotify.com/track/269AmdV2hBIdEJkysPDIBd) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [The Beirut Oriental Ensemble](https://open.spotify.com/artist/6N646pfdfynkHnoKEnpBFN) | [HandMade](https://open.spotify.com/album/1VZ827wwKIonSOc7g5YTW9) | 4:50 |
 | 11 | [Oblivion](https://open.spotify.com/track/5sFJcINPGw2PjZHg4soZoK) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [Oblivion](https://open.spotify.com/album/6KEMRKPWrk56GSXRX1jJBf) | 3:02 |
 | 12 | [Nafas](https://open.spotify.com/track/2MOrdaDFhHoyTpefyvQWCF) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT), [Selim Kusur](https://open.spotify.com/artist/3B2ZGMKcVz6MLE2R3SYcSi), [Glen Velez](https://open.spotify.com/artist/15iQ5XT6Esaps90Qp8XlXr), [Setrak Sarkissian](https://open.spotify.com/artist/1QLQGJzb3i3sH7rAuVaAsc) | [Nafas](https://open.spotify.com/album/4LwyNUteskctw7AwVmQSQy) | 1:34 |

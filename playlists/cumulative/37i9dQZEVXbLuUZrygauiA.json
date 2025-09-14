@@ -37147,6 +37147,24 @@
     },
     {
       "album": {
+        "name": "Miren Al Muchacho",
+        "url": "https://open.spotify.com/album/0AyTQWfINdnDhbQofGRMcV"
+      },
+      "artists": [
+        {
+          "name": "El Esparza",
+          "url": "https://open.spotify.com/artist/4RT0MnB1whwGBJ3N8oEntX"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141746,
+      "name": "Miren Al Muchacho",
+      "url": "https://open.spotify.com/track/3ibol5FXj2rcsj5NqM61pw"
+    },
+    {
+      "album": {
         "name": "afroLOVA 25'",
         "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
       },
@@ -53196,7 +53214,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 236160,
       "name": "So Far So Fake",
       "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"

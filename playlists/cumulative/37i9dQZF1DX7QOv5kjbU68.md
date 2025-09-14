@@ -4,7 +4,7 @@
 
 > Hear all of Drake's biggest and best hits in one playlist\. Thank us later.
 
-193 songs - 12 hr 26 min
+195 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Currents](https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:37 | 2022-06-17 |  |
 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 | 2025-02-26 |  |
 | [Do Not Disturb](https://open.spotify.com/track/2KvHC9z14GSl4YpkNMX384) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 4:43 | 2020-07-17 |  |
+| [DOG HOUSE \(feat\. Julia Wolf & Yeat\)](https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DOG HOUSE](https://open.spotify.com/album/3r4vAHYjjrGp84E0g909W6) | 3:10 | 2025-09-12 |  |
 | [Don’t Matter To Me](https://open.spotify.com/track/36ONiya0OANYknz0GgJmwB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Scorpion](https://open.spotify.com/album/2o9McLtDM7mbODV7yZF2mc) | 4:05 | 2020-07-17 |  |
 | [Don’t Matter To Me \(with Michael Jackson\)](https://open.spotify.com/track/6G8kHiVZ1jW7vHMPVRNZU0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 4:05 | 2020-07-17 | 2024-04-19 |
 | [Ela É do Tipo \(feat\. Drake\) \- Remix](https://open.spotify.com/track/7qLnSuxwLNlcapat8OCWZp) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Ela É do Tipo \(feat\. Drake\) \[Remix\]](https://open.spotify.com/album/76DKVptBQueRuRfpf3YM9m) | 3:32 | 2020-07-17 | 2022-06-18 |
@@ -150,6 +151,7 @@
 | [Signs](https://open.spotify.com/track/6Na5uKk5SsqZimk0hAWo8y) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Signs](https://open.spotify.com/album/1JZxCJ86P4GUYkHj03CgDT) | 3:54 | 2020-07-17 |  |
 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-19 |  |
 | [SOMEBODY LOVES ME](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:02 | 2025-02-26 |  |
+| [SOMEBODY LOVES ME PT\. 2](https://open.spotify.com/track/47czTWYsHN8TXMR0TfYtUR) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [SOMEBODY LOVES ME PT\. 2](https://open.spotify.com/album/6xizpwyMt2WmBawEEwh03y) | 3:01 | 2025-09-12 |  |
 | [SOMETHING ABOUT YOU](https://open.spotify.com/track/1F6nHHDJyTHLgDDFj1ZZDt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:38 | 2025-02-26 |  |
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2022-11-11 |  |
 | [Stars Align](https://open.spotify.com/track/6isRn13M76FHcFFefJwSUj) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Attention \- R&B Favourites](https://open.spotify.com/album/4HendAoi1Gnkm8O4Q0rQ8P) | 4:20 | 2021-10-27 | 2023-01-04 |

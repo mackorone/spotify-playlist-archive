@@ -1,6 +1,6 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 812231,
+  "num_followers": 812318,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-09-12 04:00:12",
       "album": {
+        "name": "For My Broken Heart",
+        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "The Night The Lights Went Out In Georgia",
+      "url": "https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3"
+    },
+    {
+      "added_at": "2025-09-12 04:00:12",
+      "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 227266,
       "name": "Suds in the Bucket",
       "url": "https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc"
-    },
-    {
-      "added_at": "2025-09-12 04:00:12",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/5ToL8KapdzZAMtOT7Y4USs"
-      },
-      "artists": [
-        {
-          "name": "Nitty Gritty Dirt Band",
-          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
-        }
-      ],
-      "duration_ms": 202786,
-      "name": "Fishin' in the Dark",
-      "url": "https://open.spotify.com/track/7lJbTVbDEMa3w7NFamrwdq"
     },
     {
       "added_at": "2025-09-12 04:00:12",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-09-12 04:00:12",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/5ToL8KapdzZAMtOT7Y4USs"
+      },
+      "artists": [
+        {
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+        }
+      ],
+      "duration_ms": 202786,
+      "name": "Fishin' in the Dark",
+      "url": "https://open.spotify.com/track/7lJbTVbDEMa3w7NFamrwdq"
+    },
+    {
+      "added_at": "2025-09-12 04:00:12",
+      "album": {
         "name": "Dreamin' Out Loud",
         "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 179600,
       "name": "Every Light In The House",
       "url": "https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf"
-    },
-    {
-      "added_at": "2025-09-12 04:00:12",
-      "album": {
-        "name": "For My Broken Heart",
-        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "The Night The Lights Went Out In Georgia",
-      "url": "https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3"
     },
     {
       "added_at": "2025-09-12 04:00:12",
@@ -831,18 +831,18 @@
     {
       "added_at": "2025-09-12 04:00:12",
       "album": {
-        "name": "Storms of Life",
-        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
+        "name": "If I Could Make a Living",
+        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
         }
       ],
-      "duration_ms": 186346,
-      "name": "On the Other Hand",
-      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
+      "duration_ms": 133853,
+      "name": "If I Could Make a Living",
+      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
     },
     {
       "added_at": "2025-09-12 04:00:12",
@@ -863,18 +863,18 @@
     {
       "added_at": "2025-09-12 04:00:12",
       "album": {
-        "name": "If I Could Make a Living",
-        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
+        "name": "Storms of Life",
+        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
       },
       "artists": [
         {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 133853,
-      "name": "If I Could Make a Living",
-      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
+      "duration_ms": 186346,
+      "name": "On the Other Hand",
+      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
     },
     {
       "added_at": "2025-09-12 04:00:12",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-09-12 04:00:12",
       "album": {
-        "name": "Put Yourself In My Place",
-        "url": "https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz"
-      },
-      "artists": [
-        {
-          "name": "Pam Tillis",
-          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "Maybe It Was Memphis",
-      "url": "https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3"
-    },
-    {
-      "added_at": "2025-09-12 04:00:12",
-      "album": {
         "name": "On the Other Hand - All the Number Ones",
         "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 186746,
       "name": "If I Didn't Have You",
       "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
+    },
+    {
+      "added_at": "2025-09-12 04:00:12",
+      "album": {
+        "name": "Put Yourself In My Place",
+        "url": "https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz"
+      },
+      "artists": [
+        {
+          "name": "Pam Tillis",
+          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "Maybe It Was Memphis",
+      "url": "https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3"
     },
     {
       "added_at": "2025-09-12 04:00:12",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-09-12 04:00:12",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
-      },
-      "artists": [
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "Pickup Man",
-      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
-    },
-    {
-      "added_at": "2025-09-12 04:00:12",
-      "album": {
         "name": "Mr. Saturday Night",
         "url": "https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 186549,
       "name": "Mr. Saturday Night",
       "url": "https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH"
+    },
+    {
+      "added_at": "2025-09-12 04:00:12",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
+      },
+      "artists": [
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Pickup Man",
+      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
     },
     {
       "added_at": "2025-09-12 04:00:12",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2025-09-12 04:00:12",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
+        "name": "I Will Stand By You - The Essential Collection",
+        "url": "https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
         }
       ],
-      "duration_ms": 259893,
-      "name": "Gone Country",
-      "url": "https://open.spotify.com/track/1A0I5aiVZRwecRlbQcweBh"
+      "duration_ms": 254640,
+      "name": "Grandpa (Tell Me 'Bout The Good Old Days)",
+      "url": "https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE"
     },
     {
       "added_at": "2025-09-12 04:00:12",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2025-09-12 04:00:12",
       "album": {
-        "name": "I Will Stand By You - The Essential Collection",
-        "url": "https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM"
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
       },
       "artists": [
         {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 254640,
-      "name": "Grandpa (Tell Me 'Bout The Good Old Days)",
-      "url": "https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE"
+      "duration_ms": 259893,
+      "name": "Gone Country",
+      "url": "https://open.spotify.com/track/1A0I5aiVZRwecRlbQcweBh"
     },
     {
       "added_at": "2025-09-12 04:00:12",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-09-12 04:00:12",
       "album": {
-        "name": "34 Number Ones",
-        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 228733,
-      "name": "Livin' On Love",
-      "url": "https://open.spotify.com/track/26iYJEimPCE0ozDlpj0UFN"
-    },
-    {
-      "added_at": "2025-09-12 04:00:12",
-      "album": {
         "name": "Ten Thousand Angels",
         "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 272866,
       "name": "I May Hate Myself In The Morning",
       "url": "https://open.spotify.com/track/6dWGSm15Vj6m7qLKEO85ZN"
+    },
+    {
+      "added_at": "2025-09-12 04:00:12",
+      "album": {
+        "name": "34 Number Ones",
+        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 228733,
+      "name": "Livin' On Love",
+      "url": "https://open.spotify.com/track/26iYJEimPCE0ozDlpj0UFN"
     },
     {
       "added_at": "2025-09-12 04:00:12",

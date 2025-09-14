@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 70. Photo : Dalida",
-  "num_followers": 121774,
+  "num_followers": 121786,
   "original_name": "Tubes Fran\u00e7ais 70",
   "owner": {
     "name": "Spotify",
@@ -107,26 +107,6 @@
     {
       "added_at": "2025-07-18 18:27:59",
       "album": {
-        "name": "40 succ\u00e8s en or",
-        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
-      },
-      "artists": [
-        {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
-        },
-        {
-          "name": "Alain Delon",
-          "url": "https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "Paroles\u2026 paroles\u2026",
-      "url": "https://open.spotify.com/track/4VvTGipG8YaF09z0kfGqaD"
-    },
-    {
-      "added_at": "2025-07-18 18:27:59",
-      "album": {
         "name": "Jaloux",
         "url": "https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb"
       },
@@ -143,18 +123,22 @@
     {
       "added_at": "2025-07-18 18:27:59",
       "album": {
-        "name": "Mon Vieux",
-        "url": "https://open.spotify.com/album/1DJRvlJg6vGlXWQihVdMtb"
+        "name": "40 succ\u00e8s en or",
+        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
       },
       "artists": [
         {
-          "name": "Daniel Guichard",
-          "url": "https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs"
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        },
+        {
+          "name": "Alain Delon",
+          "url": "https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8"
         }
       ],
-      "duration_ms": 210466,
-      "name": "Mon vieux",
-      "url": "https://open.spotify.com/track/6xs2iOXaBfCeVKeyfo2VNE"
+      "duration_ms": 245666,
+      "name": "Paroles\u2026 paroles\u2026",
+      "url": "https://open.spotify.com/track/4VvTGipG8YaF09z0kfGqaD"
     },
     {
       "added_at": "2025-07-18 18:27:59",
@@ -183,6 +167,22 @@
     {
       "added_at": "2025-07-18 18:27:59",
       "album": {
+        "name": "Mon Vieux",
+        "url": "https://open.spotify.com/album/1DJRvlJg6vGlXWQihVdMtb"
+      },
+      "artists": [
+        {
+          "name": "Daniel Guichard",
+          "url": "https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Mon vieux",
+      "url": "https://open.spotify.com/track/6xs2iOXaBfCeVKeyfo2VNE"
+    },
+    {
+      "added_at": "2025-07-18 18:27:59",
+      "album": {
         "name": "La vieille",
         "url": "https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm"
       },
@@ -199,22 +199,6 @@
     {
       "added_at": "2025-07-18 18:27:59",
       "album": {
-        "name": "Joe Dassin \u00c9ternel...",
-        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
-      },
-      "artists": [
-        {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
-        }
-      ],
-      "duration_ms": 269320,
-      "name": "L'\u00e9t\u00e9 indien",
-      "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
-    },
-    {
-      "added_at": "2025-07-18 18:27:59",
-      "album": {
         "name": "Niagara",
         "url": "https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 214173,
       "name": "Ce n'est rien",
       "url": "https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT"
+    },
+    {
+      "added_at": "2025-07-18 18:27:59",
+      "album": {
+        "name": "Joe Dassin \u00c9ternel...",
+        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "duration_ms": 269320,
+      "name": "L'\u00e9t\u00e9 indien",
+      "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
     },
     {
       "added_at": "2025-07-18 18:27:59",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-07-18 18:27:59",
       "album": {
-        "name": "Il Est Mort Le Soleil",
-        "url": "https://open.spotify.com/album/0MFLG2QTNGADxHK0kH8tWd"
-      },
-      "artists": [
-        {
-          "name": "Nicoletta",
-          "url": "https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "La musique",
-      "url": "https://open.spotify.com/track/3fVhJWtJvWOFWriulfKBh3"
-    },
-    {
-      "added_at": "2025-07-18 18:27:59",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/4tDE4kPJZBjZ8MJpF1ABUt"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 204800,
       "name": "Les Rois mages - Remasteris\u00e9 en 2006",
       "url": "https://open.spotify.com/track/2y31xdqCINOlMWeR7sfR23"
+    },
+    {
+      "added_at": "2025-07-18 18:27:59",
+      "album": {
+        "name": "Il Est Mort Le Soleil",
+        "url": "https://open.spotify.com/album/0MFLG2QTNGADxHK0kH8tWd"
+      },
+      "artists": [
+        {
+          "name": "Nicoletta",
+          "url": "https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "La musique",
+      "url": "https://open.spotify.com/track/3fVhJWtJvWOFWriulfKBh3"
     },
     {
       "added_at": "2025-07-18 18:27:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tq7CPNyNEM.md) - [plain]
 
 > "Remember who we are." Music from and inspired by Black Panther and Black Panther: Wakanda Forever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,483 likes - 59 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,468 likes - 59 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tq7CPNyNEM.md) - [plain]
 | 58 | [Eyes of Wakanda Main Title](https://open.spotify.com/track/68OvoLY0aaC3QoZNCLwQjs) | [Hesham Nazih](https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT) | [Eyes of Wakanda \(Original Soundtrack\)](https://open.spotify.com/album/7d954NsLk8Outte8CNw2XX) | 1:16 |
 | 59 | [Eyes of Wakanda Main on Ends](https://open.spotify.com/track/50Z9iOfUjLetR4H6eiX9FI) | [Hesham Nazih](https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT) | [Eyes of Wakanda \(Original Soundtrack\)](https://open.spotify.com/album/7d954NsLk8Outte8CNw2XX) | 1:16 |
 
-Snapshot ID: `AAAAANC9irCZYWpQ4jscyoxAROFEZtol`
+Snapshot ID: `AAAAAL5KbT4LU1US8Cn1w64+6R53zIrj`

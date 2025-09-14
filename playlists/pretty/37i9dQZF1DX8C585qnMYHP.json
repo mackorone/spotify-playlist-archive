@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:5qK8WYVzvkaBcoe4CDfuyY\">KUNTARI</a> on cover. Artwork by Thami Nabil",
-  "num_followers": 190818,
+  "num_followers": 190832,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -271,18 +271,18 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Belly Up",
-        "url": "https://open.spotify.com/album/0ONmkhgJogbSp5Y76aNIfa"
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
       },
       "artists": [
         {
-          "name": "Moin",
-          "url": "https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e"
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
         }
       ],
-      "duration_ms": 174959,
-      "name": "You Leave Me Breathless",
-      "url": "https://open.spotify.com/track/27L3epE6bPso0M1B3BTeZj"
+      "duration_ms": 192283,
+      "name": "Snapdragon",
+      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -303,18 +303,18 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
+        "name": "Belly Up",
+        "url": "https://open.spotify.com/album/0ONmkhgJogbSp5Y76aNIfa"
       },
       "artists": [
         {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+          "name": "Moin",
+          "url": "https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e"
         }
       ],
-      "duration_ms": 192283,
-      "name": "Snapdragon",
-      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
+      "duration_ms": 174959,
+      "name": "You Leave Me Breathless",
+      "url": "https://open.spotify.com/track/27L3epE6bPso0M1B3BTeZj"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Body Roll",
-        "url": "https://open.spotify.com/album/5BzvKV2NobLTNcy3b15VNl"
-      },
-      "artists": [
-        {
-          "name": "Adrian Sherwood",
-          "url": "https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW"
-        }
-      ],
-      "duration_ms": 215826,
-      "name": "Body Roll",
-      "url": "https://open.spotify.com/track/5ELkW9AejyHpKzRDDAgNvh"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
         "name": "About Ghosts",
         "url": "https://open.spotify.com/album/4NQc2LrmUUFc2poPCVsD4F"
       },
@@ -467,22 +451,6 @@
       "duration_ms": 328959,
       "name": "Carved From",
       "url": "https://open.spotify.com/track/05Nt0VGCAlLW0m66mh3Tqx"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
-        "name": "Lucidity",
-        "url": "https://open.spotify.com/album/1l24uZzw4lC0J60iq4wYGf"
-      },
-      "artists": [
-        {
-          "name": "Kloke",
-          "url": "https://open.spotify.com/artist/2cggyYmdk2HP87tYGtw3La"
-        }
-      ],
-      "duration_ms": 312105,
-      "name": "Emeralds",
-      "url": "https://open.spotify.com/track/2THOplVIqdYq8FcHBd7HP4"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -503,6 +471,38 @@
       "duration_ms": 342463,
       "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
       "url": "https://open.spotify.com/track/7BqXXObACQqxqSMKBTkLZ0"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
+        "name": "Lucidity",
+        "url": "https://open.spotify.com/album/1l24uZzw4lC0J60iq4wYGf"
+      },
+      "artists": [
+        {
+          "name": "Kloke",
+          "url": "https://open.spotify.com/artist/2cggyYmdk2HP87tYGtw3La"
+        }
+      ],
+      "duration_ms": 312105,
+      "name": "Emeralds",
+      "url": "https://open.spotify.com/track/2THOplVIqdYq8FcHBd7HP4"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
+        "name": "Body Roll",
+        "url": "https://open.spotify.com/album/5BzvKV2NobLTNcy3b15VNl"
+      },
+      "artists": [
+        {
+          "name": "Adrian Sherwood",
+          "url": "https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW"
+        }
+      ],
+      "duration_ms": 215826,
+      "name": "Body Roll",
+      "url": "https://open.spotify.com/track/5ELkW9AejyHpKzRDDAgNvh"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -995,18 +995,18 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "63N3RD",
-        "url": "https://open.spotify.com/album/6X206Ws0Yw2mpA6m7kagU4"
+        "name": "Solvay Beach",
+        "url": "https://open.spotify.com/album/6g3lLi3ROpgGsXNVxUWfsl"
       },
       "artists": [
         {
-          "name": "biased",
-          "url": "https://open.spotify.com/artist/5IcKb8EjHON0CVHtrP6Us5"
+          "name": "Laura Agnusdei",
+          "url": "https://open.spotify.com/artist/4YifuXxngq8oFkWNWVUi7J"
         }
       ],
-      "duration_ms": 307350,
-      "name": "Winded",
-      "url": "https://open.spotify.com/track/0mKGYmfGwTfEyfUkgoOwCZ"
+      "duration_ms": 554026,
+      "name": "Solvay Beach",
+      "url": "https://open.spotify.com/track/3Q62MpruGadQlTmN7LHtmu"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Solvay Beach",
-        "url": "https://open.spotify.com/album/6g3lLi3ROpgGsXNVxUWfsl"
+        "name": "63N3RD",
+        "url": "https://open.spotify.com/album/6X206Ws0Yw2mpA6m7kagU4"
       },
       "artists": [
         {
-          "name": "Laura Agnusdei",
-          "url": "https://open.spotify.com/artist/4YifuXxngq8oFkWNWVUi7J"
+          "name": "biased",
+          "url": "https://open.spotify.com/artist/5IcKb8EjHON0CVHtrP6Us5"
         }
       ],
-      "duration_ms": 554026,
-      "name": "Solvay Beach",
-      "url": "https://open.spotify.com/track/3Q62MpruGadQlTmN7LHtmu"
+      "duration_ms": 307350,
+      "name": "Winded",
+      "url": "https://open.spotify.com/track/0mKGYmfGwTfEyfUkgoOwCZ"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Kampana - Vibration, trembling",
-        "url": "https://open.spotify.com/album/4PKFMgHF91f8bSZUb4VsfG"
-      },
-      "artists": [
-        {
-          "name": "Jan Kadereit",
-          "url": "https://open.spotify.com/artist/7471nwLmVL3nQLysLfeGFV"
-        },
-        {
-          "name": "Gamelan Salukat",
-          "url": "https://open.spotify.com/artist/2pciUK7qPMybdj0Bp6lpkL"
-        }
-      ],
-      "duration_ms": 390959,
-      "name": "Kampana - Vibration, trembling",
-      "url": "https://open.spotify.com/track/0mqCMl0iihyYf4yhnYWReV"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
         "name": "Rememberer",
         "url": "https://open.spotify.com/album/3upV2lrm2jUWJUkEr0kKzd"
       },
@@ -1111,18 +1091,22 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Noor-e Vojood",
-        "url": "https://open.spotify.com/album/3tEm5SjojNJ79ZrW5iTQ7R"
+        "name": "Kampana - Vibration, trembling",
+        "url": "https://open.spotify.com/album/4PKFMgHF91f8bSZUb4VsfG"
       },
       "artists": [
         {
-          "name": "Mohammad Mostafa Heydarian",
-          "url": "https://open.spotify.com/artist/5gcN10J58SA82tyq6nScoa"
+          "name": "Jan Kadereit",
+          "url": "https://open.spotify.com/artist/7471nwLmVL3nQLysLfeGFV"
+        },
+        {
+          "name": "Gamelan Salukat",
+          "url": "https://open.spotify.com/artist/2pciUK7qPMybdj0Bp6lpkL"
         }
       ],
-      "duration_ms": 254599,
-      "name": "B\u00e2rieh",
-      "url": "https://open.spotify.com/track/4twU0LMGHLqK4dtwDaDL5x"
+      "duration_ms": 390959,
+      "name": "Kampana - Vibration, trembling",
+      "url": "https://open.spotify.com/track/0mqCMl0iihyYf4yhnYWReV"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
+        "name": "Noor-e Vojood",
+        "url": "https://open.spotify.com/album/3tEm5SjojNJ79ZrW5iTQ7R"
+      },
+      "artists": [
+        {
+          "name": "Mohammad Mostafa Heydarian",
+          "url": "https://open.spotify.com/artist/5gcN10J58SA82tyq6nScoa"
+        }
+      ],
+      "duration_ms": 254599,
+      "name": "B\u00e2rieh",
+      "url": "https://open.spotify.com/track/4twU0LMGHLqK4dtwDaDL5x"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
         "name": "Distratta",
         "url": "https://open.spotify.com/album/0LC582TtftOkHG7J5KvFlJ"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 169775,
       "name": "Distratta",
       "url": "https://open.spotify.com/track/7hinjcS3WbroKjp04bDj0i"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
+        "name": "M29",
+        "url": "https://open.spotify.com/album/0mp2d3TTvyqhyiciUqx7Ja"
+      },
+      "artists": [
+        {
+          "name": "The Delay in the Universal Loop",
+          "url": "https://open.spotify.com/artist/1gGgZFg6XipWjLJ1fdfdeG"
+        }
+      ],
+      "duration_ms": 188615,
+      "name": "M29",
+      "url": "https://open.spotify.com/track/2Qs0YnwrRRHoggAqR0LxCR"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1183,22 +1199,6 @@
       "duration_ms": 196340,
       "name": "Thinking about you",
       "url": "https://open.spotify.com/track/1I0uK1t1GX7a8H8zbqKRma"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
-        "name": "M29",
-        "url": "https://open.spotify.com/album/0mp2d3TTvyqhyiciUqx7Ja"
-      },
-      "artists": [
-        {
-          "name": "The Delay in the Universal Loop",
-          "url": "https://open.spotify.com/artist/1gGgZFg6XipWjLJ1fdfdeG"
-        }
-      ],
-      "duration_ms": 188615,
-      "name": "M29",
-      "url": "https://open.spotify.com/track/2Qs0YnwrRRHoggAqR0LxCR"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "JUMP",
-        "url": "https://open.spotify.com/album/2pZT0w3ek6VOZzxQtvJt4H"
-      },
-      "artists": [
-        {
-          "name": "PARKGOLF",
-          "url": "https://open.spotify.com/artist/56oGj3qZcyqRZkHL4IrMz9"
-        }
-      ],
-      "duration_ms": 121730,
-      "name": "JUMP",
-      "url": "https://open.spotify.com/track/0mDbRQCAc9FMeNxXBpJWFX"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
         "name": "sound for people's spaces",
         "url": "https://open.spotify.com/album/0uja4DPzq4bfeJ43HXrH23"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "TIDE/TIED",
-        "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/2pZT0w3ek6VOZzxQtvJt4H"
       },
       "artists": [
         {
-          "name": "Thanya Iyer",
-          "url": "https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P"
+          "name": "PARKGOLF",
+          "url": "https://open.spotify.com/artist/56oGj3qZcyqRZkHL4IrMz9"
         }
       ],
-      "duration_ms": 440269,
-      "name": "Waves/Hold/Tied",
-      "url": "https://open.spotify.com/track/4eKAKVci8MLFTLkuIJUja6"
+      "duration_ms": 121730,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/0mDbRQCAc9FMeNxXBpJWFX"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1331,6 +1315,22 @@
       "duration_ms": 237093,
       "name": "I Think I Just Died a Lil Bit",
       "url": "https://open.spotify.com/track/16DhEPGbwJb08lHjupIhXF"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
+        "name": "TIDE/TIED",
+        "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
+      },
+      "artists": [
+        {
+          "name": "Thanya Iyer",
+          "url": "https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P"
+        }
+      ],
+      "duration_ms": 440269,
+      "name": "Waves/Hold/Tied",
+      "url": "https://open.spotify.com/track/4eKAKVci8MLFTLkuIJUja6"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1383,30 +1383,6 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "R\u00f8j\u00f8 Latid\u00f8",
-        "url": "https://open.spotify.com/album/1OoB3m7Gv5yqZEWYAXQ979"
-      },
-      "artists": [
-        {
-          "name": "La Maga",
-          "url": "https://open.spotify.com/artist/1GS2v1clFqp1XPiBKlDzeH"
-        },
-        {
-          "name": "Vitu Valera",
-          "url": "https://open.spotify.com/artist/3HV5zAEqTKXHhbF9PsN6Uo"
-        },
-        {
-          "name": "El Trayecto Salvaje",
-          "url": "https://open.spotify.com/artist/5kN2ZwThXNAmUYKIB1HMSC"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "R\u00f8j\u00f8 Latid\u00f8",
-      "url": "https://open.spotify.com/track/7eAIySgz1OsYFZGPRvLCLj"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
         "name": "ARCTERYX",
         "url": "https://open.spotify.com/album/5hPUH4ZC8ROe32jIEx6muf"
       },
@@ -1435,6 +1411,30 @@
       "duration_ms": 264902,
       "name": "Cross Road",
       "url": "https://open.spotify.com/track/2tvaoRPWrVprKZrLkg69lW"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
+        "name": "R\u00f8j\u00f8 Latid\u00f8",
+        "url": "https://open.spotify.com/album/1OoB3m7Gv5yqZEWYAXQ979"
+      },
+      "artists": [
+        {
+          "name": "La Maga",
+          "url": "https://open.spotify.com/artist/1GS2v1clFqp1XPiBKlDzeH"
+        },
+        {
+          "name": "Vitu Valera",
+          "url": "https://open.spotify.com/artist/3HV5zAEqTKXHhbF9PsN6Uo"
+        },
+        {
+          "name": "El Trayecto Salvaje",
+          "url": "https://open.spotify.com/artist/5kN2ZwThXNAmUYKIB1HMSC"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "R\u00f8j\u00f8 Latid\u00f8",
+      "url": "https://open.spotify.com/track/7eAIySgz1OsYFZGPRvLCLj"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
+        "name": "Cero",
+        "url": "https://open.spotify.com/album/67mzZB3Tacqcr0gD52Dtfu"
+      },
+      "artists": [
+        {
+          "name": "The Gardener",
+          "url": "https://open.spotify.com/artist/0i1kzner1XKAvSz62HEnge"
+        }
+      ],
+      "duration_ms": 230852,
+      "name": "Tres",
+      "url": "https://open.spotify.com/track/2xGt7oyNvPCt9I2XuhB33n"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
         "name": "Chamber Music for Lawn Mowers",
         "url": "https://open.spotify.com/album/25VbFVsir31MRrpiuzxJfY"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Cero",
-        "url": "https://open.spotify.com/album/67mzZB3Tacqcr0gD52Dtfu"
-      },
-      "artists": [
-        {
-          "name": "The Gardener",
-          "url": "https://open.spotify.com/artist/0i1kzner1XKAvSz62HEnge"
-        }
-      ],
-      "duration_ms": 230852,
-      "name": "Tres",
-      "url": "https://open.spotify.com/track/2xGt7oyNvPCt9I2XuhB33n"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
         "name": "Oasi Estesa",
         "url": "https://open.spotify.com/album/6EiP5aoogQj7W178L09w2l"
       },
@@ -1579,6 +1579,26 @@
       "duration_ms": 272137,
       "name": "GITA IN TRAM",
       "url": "https://open.spotify.com/track/2cXNSETwLqc0G2ttPY0RsF"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
+        "name": "Wondrous is the Silence of My Master OST",
+        "url": "https://open.spotify.com/album/6A2rmvDWz9ORqwGDeFEpfH"
+      },
+      "artists": [
+        {
+          "name": "Mai Mai Mai",
+          "url": "https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3"
+        },
+        {
+          "name": "Igor Bo\u017eani\u0107",
+          "url": "https://open.spotify.com/artist/5ObKVcjRF7bYuBZqZwzVxH"
+        }
+      ],
+      "duration_ms": 131328,
+      "name": "Mirabilis",
+      "url": "https://open.spotify.com/track/00y4AKxM2nbFBJNkWKOE2p"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1603,22 +1623,6 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "FRAGILE",
-        "url": "https://open.spotify.com/album/5Kr7LAn2YXvRuu9wnI0bWj"
-      },
-      "artists": [
-        {
-          "name": "Vera Di Lecce",
-          "url": "https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ"
-        }
-      ],
-      "duration_ms": 241970,
-      "name": "FRAGILE",
-      "url": "https://open.spotify.com/track/0fCIitWe2mTCldYyLJppzw"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
         "name": "Activate Cities",
         "url": "https://open.spotify.com/album/5rt0xcpHthjEtdha0silGG"
       },
@@ -1635,22 +1639,18 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Wondrous is the Silence of My Master OST",
-        "url": "https://open.spotify.com/album/6A2rmvDWz9ORqwGDeFEpfH"
+        "name": "FRAGILE",
+        "url": "https://open.spotify.com/album/5Kr7LAn2YXvRuu9wnI0bWj"
       },
       "artists": [
         {
-          "name": "Mai Mai Mai",
-          "url": "https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3"
-        },
-        {
-          "name": "Igor Bo\u017eani\u0107",
-          "url": "https://open.spotify.com/artist/5ObKVcjRF7bYuBZqZwzVxH"
+          "name": "Vera Di Lecce",
+          "url": "https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ"
         }
       ],
-      "duration_ms": 131328,
-      "name": "Mirabilis",
-      "url": "https://open.spotify.com/track/00y4AKxM2nbFBJNkWKOE2p"
+      "duration_ms": 241970,
+      "name": "FRAGILE",
+      "url": "https://open.spotify.com/track/0fCIitWe2mTCldYyLJppzw"
     },
     {
       "added_at": "2025-09-05 15:14:39",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-3,243 songs - 7 day 8 hr 5 min
+3,244 songs - 7 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1821,6 +1821,7 @@
 | [MIRAA](https://open.spotify.com/track/2TTCzngTprmJJGlmkeM5HR) | [Ismael CM](https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [MIRAA](https://open.spotify.com/album/5y9gU5iaqGy61GUeANXwLu) | 3:08 | 2024-07-09 | 2024-07-24 |
 | [Mirada](https://open.spotify.com/track/0tXFWZC3ZF44vgi0h2o4iI) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 2:47 | 2024-08-06 | 2024-08-26 |
 | [Mirame](https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mirame](https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz) | 2:37 | 2024-06-29 | 2024-08-02 |
+| [Miren Al Muchacho](https://open.spotify.com/track/3ibol5FXj2rcsj5NqM61pw) | [El Esparza](https://open.spotify.com/artist/4RT0MnB1whwGBJ3N8oEntX) | [Miren Al Muchacho](https://open.spotify.com/album/0AyTQWfINdnDhbQofGRMcV) | 2:21 | 2025-09-13 |  |
 | [Mis Días A Tu Suerte](https://open.spotify.com/track/0XRJc66Gcvq8F98KE1TXD8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 2:23 | 2025-07-08 | 2025-07-17 |
 | [Mis Ojos No Podían Ver](https://open.spotify.com/track/3Vu0DaVs8y02I9mqm4NJso) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Mis Ojos No Podían Ver](https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM) | 2:43 | 2024-08-24 | 2024-10-16 |
 | [misa](https://open.spotify.com/track/6AebAAfoIjSRsARv6p05kS) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 2:21 | 2024-08-20 | 2024-09-04 |
@@ -2606,7 +2607,7 @@
 | [SNAP \- High and Fast](https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:15 | 2022-08-14 | 2022-08-16 |
 | [Snow Flower \(feat\. Peakboy\)](https://open.spotify.com/track/34IGOyXR6cn0YI9VBu8m0y) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l) | [Snow Flower \(feat\. Peakboy\)](https://open.spotify.com/album/4w5Rzux7dz1GkLkNkMd7L3) | 3:49 | 2023-09-12 | 2025-01-01 |
 | [so american](https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:49 | 2024-04-09 | 2024-04-17 |
-| [So Far So Fake](https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:56 | 2025-08-20 |  |
+| [So Far So Fake](https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:56 | 2025-08-20 | 2025-09-14 |
 | [So High School](https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:48 | 2024-05-07 | 2025-09-04 |
 | [So Many Men, So Little Time](https://open.spotify.com/track/7FBuEpOAcJKiiLuVqSOfSj) | [Miquel Brown](https://open.spotify.com/artist/0y6KR72CWZyrsYZr8iAq4G) | [So Many Men, So Little Time \- Ep](https://open.spotify.com/album/6We1ilyMvJQ1y3YhilnHWo) | 8:12 | 2025-01-03 | 2025-01-08 |
 | [So Many Men, So Little Time](https://open.spotify.com/track/3UQr5ymFHrfcWwwvetw767) | [Miquel Brown](https://open.spotify.com/artist/0y6KR72CWZyrsYZr8iAq4G) | [That's Eurobeat \- Hi Energy Disco Vol\. 3](https://open.spotify.com/album/4KQgD4VqrIXZvSQXOn56Fa) | 8:16 | 2025-01-07 | 2025-01-09 |

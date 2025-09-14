@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,702 likes - 168 songs - 9 hr 14 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,704 likes - 168 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Deep Clear Water](https://open.spotify.com/track/10jXicWLj7TM7Ny7eTZgdP) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Deep Clear Water](https://open.spotify.com/album/6WIt8IVo6ayTiQQ9zihsSM) | 3:19 |
 | 2 | [CURIOUS \(feat\. Toro y Moi\)](https://open.spotify.com/track/1iX4H6DTyg7xrmt8EzJbzB) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [CURIOUS \(feat\. Toro y Moi\)](https://open.spotify.com/album/7uwhe6VCJXSpA5kEYK2BL2) | 3:50 |
 | 3 | [HOW I DO IT](https://open.spotify.com/track/0Y1ZeaRs0gAEwb1rYxdbjq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [BRVMES](https://open.spotify.com/artist/13OXgp0fFDhWRPSXnN8yLT) | [As The Pendulum Swings](https://open.spotify.com/album/6lWtjIwHMyJdZlRaiGwVnd) | 2:28 |
-| 4 | [Unconditional](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Unconditional](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
+| 4 | [UNCONDITIONAL](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [UNCONDITIONAL](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
 | 5 | [All The Things She Said \(Culture Shock Version\)](https://open.spotify.com/track/4hp4cs1fKConq0Cmr4luW9) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [All The Things She Said \(Culture Shock Version\)](https://open.spotify.com/album/4iHVL611SiXiIYtgEJbmRS) | 2:38 |
 | 6 | [crystallized \(feat\. Inéz\)](https://open.spotify.com/track/6YiIWuVXS4AqF1KvUGMwyx) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [crystallized \(feat\. Inéz\)](https://open.spotify.com/album/5PnlLTo9MLkbd4noHgisk9) | 3:37 |
 | 7 | [Dingus](https://open.spotify.com/track/4xWXrhg0Vwc29lbeyHZsYt) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [Dingus](https://open.spotify.com/album/0XHk4T6oko97C3cjIipb26) | 3:38 |

@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: LOSTBOYJAY",
-  "num_followers": 266604,
+  "num_followers": 266631,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -743,26 +743,6 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "I Don't Trust A Soul",
-        "url": "https://open.spotify.com/album/1K34ZHVTpDsWUvvHjwfBQP"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 146059,
-      "name": "I Don't Trust A Soul",
-      "url": "https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti"
-    },
-    {
-      "added_at": "2025-09-12 04:00:10",
-      "album": {
         "name": "Raving In The Studio",
         "url": "https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 183771,
       "name": "Raving In The Studio",
       "url": "https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d"
+    },
+    {
+      "added_at": "2025-09-12 04:00:10",
+      "album": {
+        "name": "I Don't Trust A Soul",
+        "url": "https://open.spotify.com/album/1K34ZHVTpDsWUvvHjwfBQP"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 146059,
+      "name": "I Don't Trust A Soul",
+      "url": "https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"
-    },
-    {
-      "added_at": "2025-09-12 04:00:10",
-      "album": {
         "name": "X-Rated",
         "url": "https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 184620,
       "name": "X-Rated",
       "url": "https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw"
+    },
+    {
+      "added_at": "2025-09-12 04:00:10",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "Prophecy",
-        "url": "https://open.spotify.com/album/1lYOAexnj4ZwKHofhvWBAn"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 315276,
-      "name": "Prophecy",
-      "url": "https://open.spotify.com/track/69nFLl74Rqr8LmqUCUZJL6"
-    },
-    {
-      "added_at": "2025-09-12 04:00:10",
-      "album": {
         "name": "Party After Party",
         "url": "https://open.spotify.com/album/26FYs9Ps8SnNuwJLJrFeUd"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 159230,
       "name": "Party After Party",
       "url": "https://open.spotify.com/track/0IJxq5nQv9coXjtmm2vF0e"
+    },
+    {
+      "added_at": "2025-09-12 04:00:10",
+      "album": {
+        "name": "Prophecy",
+        "url": "https://open.spotify.com/album/1lYOAexnj4ZwKHofhvWBAn"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 315276,
+      "name": "Prophecy",
+      "url": "https://open.spotify.com/track/69nFLl74Rqr8LmqUCUZJL6"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "Take It All",
-        "url": "https://open.spotify.com/album/6Z4FhlsTWm5HaEUNcWHC6l"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 171207,
-      "name": "Take It All",
-      "url": "https://open.spotify.com/track/4Su7VFUPb9KYr6bnCRBWxU"
-    },
-    {
-      "added_at": "2025-09-12 04:00:10",
-      "album": {
         "name": "JUMP OUT",
         "url": "https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 145714,
       "name": "JUMP OUT",
       "url": "https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0"
+    },
+    {
+      "added_at": "2025-09-12 04:00:10",
+      "album": {
+        "name": "Take It All",
+        "url": "https://open.spotify.com/album/6Z4FhlsTWm5HaEUNcWHC6l"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 171207,
+      "name": "Take It All",
+      "url": "https://open.spotify.com/track/4Su7VFUPb9KYr6bnCRBWxU"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/4WD4HeFeD0K0NCzOl20VKX"
+      },
+      "artists": [
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        }
+      ],
+      "duration_ms": 165937,
+      "name": "Elevated",
+      "url": "https://open.spotify.com/track/5pfJqAYqSiukNZYNrWbnqK"
+    },
+    {
+      "added_at": "2025-09-12 04:00:10",
+      "album": {
         "name": "Lose My Mind",
         "url": "https://open.spotify.com/album/0RZWXjXZDItdGJkTGgc7OE"
       },
@@ -2191,22 +2207,6 @@
       "duration_ms": 164780,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/0b1Hl2o1a1Z2ScSvImmVDE"
-    },
-    {
-      "added_at": "2025-09-12 04:00:10",
-      "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/4WD4HeFeD0K0NCzOl20VKX"
-      },
-      "artists": [
-        {
-          "name": "Dillon Nathaniel",
-          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
-        }
-      ],
-      "duration_ms": 165937,
-      "name": "Elevated",
-      "url": "https://open.spotify.com/track/5pfJqAYqSiukNZYNrWbnqK"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/7oRtW8f3lbjdtc1ZpDm22b"
-      },
-      "artists": [
-        {
-          "name": "Suray Sertin",
-          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
-        }
-      ],
-      "duration_ms": 138984,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/1Z7Hi0l3MKc7hFajM2Ocde"
-    },
-    {
-      "added_at": "2025-09-12 04:00:10",
-      "album": {
         "name": "Don't Be Fooled",
         "url": "https://open.spotify.com/album/5RxVZoXHLOBK6UlgFp0JGI"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 183056,
       "name": "Don't Be Fooled",
       "url": "https://open.spotify.com/track/2Mjim603j5TvUX3uB3YOzv"
+    },
+    {
+      "added_at": "2025-09-12 04:00:10",
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/7oRtW8f3lbjdtc1ZpDm22b"
+      },
+      "artists": [
+        {
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+        }
+      ],
+      "duration_ms": 138984,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/1Z7Hi0l3MKc7hFajM2Ocde"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -2427,6 +2427,22 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
+        "name": "AUTOBAHN",
+        "url": "https://open.spotify.com/album/5flItG4w6QQs7mdUheOAwq"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        }
+      ],
+      "duration_ms": 191108,
+      "name": "AUTOBAHN",
+      "url": "https://open.spotify.com/track/64pEJ9PB0iB2NfAb8R2GOf"
+    },
+    {
+      "added_at": "2025-09-12 04:00:10",
+      "album": {
         "name": "Fired Up (feat. Dope Earth Alien)",
         "url": "https://open.spotify.com/album/4CygDgkQ7CQ62hcjc9JohI"
       },
@@ -2463,22 +2479,6 @@
       "duration_ms": 153750,
       "name": "A Milli - SIDEPIECE Remix",
       "url": "https://open.spotify.com/track/2jB8Y4OCA1azQrsIkva32z"
-    },
-    {
-      "added_at": "2025-09-12 04:00:10",
-      "album": {
-        "name": "AUTOBAHN",
-        "url": "https://open.spotify.com/album/5flItG4w6QQs7mdUheOAwq"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        }
-      ],
-      "duration_ms": 191108,
-      "name": "AUTOBAHN",
-      "url": "https://open.spotify.com/track/64pEJ9PB0iB2NfAb8R2GOf"
     }
   ],
   "unique_name": "Bangers",

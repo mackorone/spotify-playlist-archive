@@ -49,6 +49,6 @@
 | [Warum](https://open.spotify.com/track/49QKqatCdfMIoOhx3Xt2Sn) | [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Warum](https://open.spotify.com/album/4GUhGCU2horOzmGR3NNsM9) | 2:29 | 2025-08-29 | 2025-09-12 |
 | [Who U Know](https://open.spotify.com/track/1CWOyqjpuktFyDUae1bOVs) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Ain't Shit Stopped](https://open.spotify.com/album/09QccDPYvqNdIs8ZnDm2KS) | 2:11 | 2025-09-05 | 2025-09-13 |
 | [Wo die Wölfe wohnen](https://open.spotify.com/track/4aiV0i0VFsfAPlL6ohkRl3) | [Megaloh](https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G), [marú](https://open.spotify.com/artist/31ewsty6sg67C5UuOZmDcr), [Carlifornia](https://open.spotify.com/artist/35zmWY1Vg28Fb8ltQ1qtnz), [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [Nichts wie bisher / Wo die Wölfe wohnen](https://open.spotify.com/album/3Cd9Ta0N03ko98gJoDaWfq) | 2:38 | 2025-08-29 | 2025-09-05 |
-| [ZÄUNE](https://open.spotify.com/track/1iZ4CwKghZBjyBAlDKQaTQ) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [ZÄUNE](https://open.spotify.com/album/2uRJOcEtQxaVDVEzX7cZRm) | 2:33 | 2025-09-12 |  |
+| [ZÄUNE](https://open.spotify.com/track/1iZ4CwKghZBjyBAlDKQaTQ) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/1yxVBnVWDIMtmOgg5mHK9J) | [ZÄUNE](https://open.spotify.com/album/2uRJOcEtQxaVDVEzX7cZRm) | 2:33 | 2025-09-12 |  |
 
 \*This playlist was first scraped on 2025-08-30. Prior content cannot be recovered.

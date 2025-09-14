@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Archie Holmes
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,882 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,886 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 13 | [Hold On, Let Go](https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Hold On, Let Go](https://open.spotify.com/album/73diRAl84rievVIadGPsoc) | 4:01 |
 | 14 | [Wanna See U Again](https://open.spotify.com/track/61wIaRj0CMJR7MecUlW5a1) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Pure Motion](https://open.spotify.com/album/3OBeNrJXWPdq8HP7VzyIev) | 2:53 |
 | 15 | [Last 1s Left](https://open.spotify.com/track/78igz8PCqqNYLVyhhSh0z5) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Skepta .\. Fred](https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT) | 3:45 |
-| 16 | [Unconditional](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Unconditional](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
+| 16 | [UNCONDITIONAL](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [UNCONDITIONAL](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
 | 17 | [I Need U](https://open.spotify.com/track/1j5OPlPaNAvWL9mgis4lur) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [So Far South](https://open.spotify.com/album/0QVZNjVqsLenILPinmltYG) | 3:46 |
 | 18 | [Better Days](https://open.spotify.com/track/4ncYt6zcpeT7TdKy5XQ8Mu) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Better Days](https://open.spotify.com/album/77rQVGYB6ZuwjAKo6Q2Qbh) | 3:00 |
 | 19 | [Champagne](https://open.spotify.com/track/0GvCFasUqd63QhmvMUiWqN) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Champagne](https://open.spotify.com/album/4TKxmz7JRy8QKPxO7dWDTo) | 3:32 |

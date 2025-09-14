@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-969 songs - 2 day 9 hr 28 min
+971 songs - 2 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,7 @@
 | [Disassociate](https://open.spotify.com/track/0Apty1GYyLLBkG6MHehlqF) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Disassociate](https://open.spotify.com/album/1IQv4Zj4RFkydAxXfS7CLJ) | 3:19 | 2021-06-11 | 2022-04-19 |
 | [Do The Dance](https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Do The Dance](https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza) | 4:02 | 2023-09-15 | 2024-07-20 |
 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-02-03 | 2023-05-24 |
-| [Doc Whiler](https://open.spotify.com/track/2xkib9MAHlGtxJRhIesSAX) | [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [Since Winona](https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK) | 2:29 | 2025-08-29 |  |
+| [Doc Whiler](https://open.spotify.com/track/2xkib9MAHlGtxJRhIesSAX) | [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [Since Winona](https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK) | 2:29 | 2025-08-29 | 2025-09-14 |
 | [Dog Years](https://open.spotify.com/track/5RRNZFyOi17nTh2bPEKPtp) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Now That The Light Is Fading](https://open.spotify.com/album/16wZsyXQ463IYlrXyJnRfY) | 4:37 | 2020-10-20 | 2024-11-16 |
 | [Dominoes](https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:57 | 2023-08-11 | 2024-04-19 |
 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 | 2023-05-26 | 2023-09-15 |
@@ -275,6 +275,7 @@
 | [Dream police](https://open.spotify.com/track/5jdlKW2oMtQkOaZp5YOS4G) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:49 | 2024-04-11 | 2024-05-07 |
 | [Dreamers](https://open.spotify.com/track/2eVzRsZ1qLjw3TJSk5Cqym) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Dreamers](https://open.spotify.com/album/0UUW8lGiDr1NnJSb9gNGq1) | 4:00 | 2020-10-05\* | 2021-03-17 |
 | [Dreamin](https://open.spotify.com/track/4cYvM8q9V6HTEayIBHuP1W) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Natural Pleasure](https://open.spotify.com/album/5tJQnCPddwUupM2qXrpVUK) | 3:26 | 2025-04-25 | 2025-05-13 |
+| [Dreamin'](https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin' \(Deluxe\)](https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p) | 3:53 | 2025-09-12 |  |
 | [Drive](https://open.spotify.com/track/0czTyG0fnI3ERVcVrUx8Ol) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [This Is What It's Like](https://open.spotify.com/album/7jJdFic5YXGnrFUjultwMf) | 3:07 | 2020-10-16 | 2022-04-20 |
 | [Drive](https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:16 | 2020-10-16 | 2022-11-12 |
 | [Drive Slow](https://open.spotify.com/track/13795WBWdWvQHCXeOPLCWQ) | [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Drive Slow](https://open.spotify.com/album/16hoKJlZ0Y3kt7zJ5eIP7R) | 2:57 | 2021-06-15 | 2022-07-09 |
@@ -802,7 +803,7 @@
 | [Stay](https://open.spotify.com/track/1xqkbi0rZNNcbGv8r6kK8p) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Opening The Door](https://open.spotify.com/album/7qWVvcaFH5Wlv0vxBXMOUQ) | 3:48 | 2022-10-07 | 2022-11-13 |
 | [stay late](https://open.spotify.com/track/0SYw9oxfkCgewe45b68RBG) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [stay late](https://open.spotify.com/album/5BVIrhysqsYBAOOEInHCzC) | 2:53 | 2024-08-16 | 2024-12-15 |
 | [Stevie Doesn't Wonder](https://open.spotify.com/track/7BgyWwbbybJr2IbQoI1gzH) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Stevie Doesn't Wonder](https://open.spotify.com/album/4QOjBDPM9AbaxFzV9khrca) | 2:44 | 2023-04-19 | 2023-05-24 |
-| [still love you \(todavía\)](https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [still love you \(todavía\)](https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3) | 2:32 | 2025-03-03 |  |
+| [still love you \(todavía\)](https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [still love you \(todavía\)](https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3) | 2:32 | 2025-03-03 | 2025-09-14 |
 | [Stockholmsvy](https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM) | 2:41 | 2023-03-31 |  |
 | [Straight Line Was A Lie](https://open.spotify.com/track/1KpAjuTO2M9eYnaGz6uoTc) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Straight Line Was A Lie](https://open.spotify.com/album/5XbVk30ifqaiI6EiVVjA1p) | 4:04 | 2025-08-29 |  |
 | [Strawberry](https://open.spotify.com/track/4T4n6TcazA7p6Q4fjYMzev) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Strawberry](https://open.spotify.com/album/0Ijw0q4XzBPKXfDyO2qvkI) | 2:42 | 2022-11-10 | 2023-02-22 |
@@ -935,6 +936,7 @@
 | [We Stayed Up All Night](https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Ardyn](https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu) | [We Stayed Up All Night](https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC) | 4:25 | 2020-10-16 | 2022-11-12 |
 | [Weight in Gold](https://open.spotify.com/track/1gXBi2I04CLJkTQnhNfEJT) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Ology](https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf) | 3:23 | 2020-10-16 | 2022-04-18 |
 | [Wet Dreams](https://open.spotify.com/track/6TO72fq3wZajWVpXR83bO7) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Wet Dreams](https://open.spotify.com/album/7HOKM6aTC7eA8z0J2PdoEL) | 2:52 | 2020-10-05\* | 2022-04-21 |
+| [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 | 2025-09-12 |  |
 | [what a shame](https://open.spotify.com/track/4kevrm6eqiUXb3D5mRDSOB) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:48 | 2022-11-10 | 2023-05-14 |
 | [what a shame](https://open.spotify.com/track/5iMyoCg4HkcYzsZzEuIvgk) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 2:48 | 2022-10-07 | 2022-10-16 |
 | [What Does It Mean To Me?](https://open.spotify.com/track/4kDqNIQiBwkqDs6jWWcHAM) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [What Does It Mean To Me?](https://open.spotify.com/album/40IbEerrh6DeFhhedn5DQx) | 2:46 | 2021-08-27 | 2022-04-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVNUz8WZk9Y.md) - [plain]
 
 > Enjoy music from Doraemon The Movie! ⓒFujiko\-Pro, Shogakukan, TV\-Asahi, Shin\-ei, and ADK 2025
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,021 likes - 40 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,031 likes - 40 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVNUz8WZk9Y.md) - [plain]
 | 25 | [生きてる生きてく](https://open.spotify.com/track/6TT5cVq9gtm9Fxm1jm3RSj) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [生きてる生きてく](https://open.spotify.com/album/7qkPAM0ZbpWoZgfTbIxpg3) | 3:29 |
 | 26 | [またあえる日まで](https://open.spotify.com/track/4pPnHbZ5jUVdr7SaDi7mPc) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [ゆずイロハ1997\-2017](https://open.spotify.com/album/62RkaypIofhMaSsd96mWxR) | 3:14 |
 | 27 | [夢をかなえてドラえもん](https://open.spotify.com/track/6FEABJMKAHeFuz3OrKw5ix) | [Mao](https://open.spotify.com/artist/3FqWvozs0flehtWPsXuNdo) | [テレビ朝日系アニメ「ドラえもん」主題歌 夢をかなえてドラえもん](https://open.spotify.com/album/4wS3lDrvp1wPIh1KdNfqCN) | 4:08 |
-| 28 | [ドラえもんのうた](https://open.spotify.com/track/6rZW4S32ocga4upgydixZ0) | [Satoko Yamano](https://open.spotify.com/artist/6RN3CWxzQHF7m1txkot9Bm), [大山のぶ代 \(ドラえもん\)](https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj) | [テレビアニメ放送40周年記念ドラえもん うたのコレクション](https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx) | 3:01 |
+| 28 | [ドラえもんのうた](https://open.spotify.com/track/6rZW4S32ocga4upgydixZ0) | [山野さと子](https://open.spotify.com/artist/7kKF2ZKw6nIxfApICwgo06), [大山のぶ代 \(ドラえもん\)](https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj) | [テレビアニメ放送40周年記念ドラえもん うたのコレクション](https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx) | 3:01 |
 | 29 | [兎のダンス \- ディスコMix](https://open.spotify.com/track/4LFRXRyJ9FS1VZYGlfVzVu) | [Takayuki Hattori](https://open.spotify.com/artist/76bJYea3ZCMhhO8aF0iU5W) | [「映画ドラえもん のび太の月面探査記」 オリジナル・サウンドトラック](https://open.spotify.com/album/6VsE03eRiyrsrPExSbodmX) | 1:12 |
 | 30 | [360°](https://open.spotify.com/track/1R1J6DYl44LgLVOzhakreI) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [miwa THE BEST](https://open.spotify.com/album/2qrJDzCYtTSAVPhC8impSh) | 4:32 |
 | 31 | [季節がいく時](https://open.spotify.com/track/4STyGIa61Kpz51HaC4AdEP) | [SPEED](https://open.spotify.com/artist/3VpWtcxsAiE148UkrC1yt9) | [Precious Time](https://open.spotify.com/album/62ZzDxPA2TU4JVnUMEcnOy) | 4:11 |

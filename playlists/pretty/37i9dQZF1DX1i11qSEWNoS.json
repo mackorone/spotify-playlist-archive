@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 632066,
+  "num_followers": 632261,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,30 @@
     {
       "added_at": "2025-09-12 10:54:23",
       "album": {
+        "name": "Not Fair",
+        "url": "https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "Enny-Mae",
+          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
+        }
+      ],
+      "duration_ms": 163034,
+      "name": "Not Fair",
+      "url": "https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU"
+    },
+    {
+      "added_at": "2025-09-12 10:54:23",
+      "album": {
         "name": "Sleepless",
         "url": "https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9"
       },
@@ -611,30 +635,6 @@
       "duration_ms": 165263,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH"
-    },
-    {
-      "added_at": "2025-09-12 10:54:23",
-      "album": {
-        "name": "Not Fair",
-        "url": "https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "Old Jim",
-          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
-        },
-        {
-          "name": "Enny-Mae",
-          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
-        }
-      ],
-      "duration_ms": 163034,
-      "name": "Not Fair",
-      "url": "https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU"
     },
     {
       "added_at": "2025-09-12 10:54:23",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-09-12 10:54:23",
       "album": {
+        "name": "WHO'S THAT",
+        "url": "https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        }
+      ],
+      "duration_ms": 140009,
+      "name": "WHO'S THAT",
+      "url": "https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu"
+    },
+    {
+      "added_at": "2025-09-12 10:54:23",
+      "album": {
         "name": "DRAGO AUGUSTINO",
         "url": "https://open.spotify.com/album/5eay977L3PSc3kaq3l7Ouq"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 157402,
       "name": "DRAGO AUGUSTINO",
       "url": "https://open.spotify.com/track/3zadSXykCJFdmRKxsfOQ2h"
-    },
-    {
-      "added_at": "2025-09-12 10:54:23",
-      "album": {
-        "name": "WHO'S THAT",
-        "url": "https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL"
-      },
-      "artists": [
-        {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        }
-      ],
-      "duration_ms": 140009,
-      "name": "WHO'S THAT",
-      "url": "https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu"
     },
     {
       "added_at": "2025-09-12 10:54:23",
@@ -927,6 +927,26 @@
     {
       "added_at": "2025-09-12 10:54:23",
       "album": {
+        "name": "Big City Life",
+        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Mattafix",
+          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
+        }
+      ],
+      "duration_ms": 146711,
+      "name": "Big City Life",
+      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "added_at": "2025-09-12 10:54:23",
+      "album": {
         "name": "Craving 4 U (feat. bbyclose)",
         "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 139300,
       "name": "Craving 4 U (feat. bbyclose)",
       "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
-    },
-    {
-      "added_at": "2025-09-12 10:54:23",
-      "album": {
-        "name": "Big City Life",
-        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Mattafix",
-          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
-        }
-      ],
-      "duration_ms": 146711,
-      "name": "Big City Life",
-      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
     },
     {
       "added_at": "2025-09-12 10:54:23",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-09-12 10:54:23",
       "album": {
-        "name": "HURENSOHN",
-        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "HURENSOHN",
-      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
-    },
-    {
-      "added_at": "2025-09-12 10:54:23",
-      "album": {
         "name": "Dein Mann Freestyle",
         "url": "https://open.spotify.com/album/0ayWaNEoJHQHWvGI6i11Vu"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2025-09-12 10:54:23",
       "album": {
-        "name": "Mille Grazie",
-        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
+        "name": "HURENSOHN",
+        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
       },
       "artists": [
         {
-          "name": "Roy Bianco & Die Abbrunzati Boys",
-          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
         }
       ],
-      "duration_ms": 235986,
-      "name": "Bella Napoli",
-      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
+      "duration_ms": 154493,
+      "name": "HURENSOHN",
+      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
     },
     {
       "added_at": "2025-09-12 10:54:23",
@@ -1187,6 +1171,22 @@
       "duration_ms": 137114,
       "name": "bad bunnies",
       "url": "https://open.spotify.com/track/4aAZTaXHlm625nZhF6Zr12"
+    },
+    {
+      "added_at": "2025-09-12 10:54:23",
+      "album": {
+        "name": "Mille Grazie",
+        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
+      },
+      "artists": [
+        {
+          "name": "Roy Bianco & Die Abbrunzati Boys",
+          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Bella Napoli",
+      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
     },
     {
       "added_at": "2025-09-12 10:54:23",
@@ -1747,30 +1747,6 @@
     {
       "added_at": "2025-09-12 10:54:23",
       "album": {
-        "name": "EWIGKEIT (REMIX)",
-        "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
-      },
-      "artists": [
-        {
-          "name": "erob\u00e9",
-          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
-        },
-        {
-          "name": "KXXMA",
-          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
-        },
-        {
-          "name": "Lyfrix",
-          "url": "https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "EWIGKEIT - REMIX",
-      "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
-    },
-    {
-      "added_at": "2025-09-12 10:54:23",
-      "album": {
         "name": "All of the Lights",
         "url": "https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F"
       },
@@ -1791,18 +1767,26 @@
     {
       "added_at": "2025-09-12 10:54:23",
       "album": {
-        "name": "Faster n Harder",
-        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
+        "name": "EWIGKEIT (REMIX)",
+        "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
       },
       "artists": [
         {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+          "name": "erob\u00e9",
+          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
+        },
+        {
+          "name": "KXXMA",
+          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
+        },
+        {
+          "name": "Lyfrix",
+          "url": "https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU"
         }
       ],
-      "duration_ms": 123428,
-      "name": "Faster n Harder",
-      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
+      "duration_ms": 137647,
+      "name": "EWIGKEIT - REMIX",
+      "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
     },
     {
       "added_at": "2025-09-12 10:54:23",
@@ -1843,6 +1827,26 @@
       "duration_ms": 156387,
       "name": "Ich will nur dass du wei\u00dft - IIVEN Remix",
       "url": "https://open.spotify.com/track/7MCNurIGh8Hg9SYaCPP9vv"
+    },
+    {
+      "added_at": "2025-09-12 10:54:23",
+      "album": {
+        "name": "FOTZE",
+        "url": "https://open.spotify.com/album/5rNQXvHYeexPQHtsz5OJWo"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+        }
+      ],
+      "duration_ms": 135950,
+      "name": "AMENA",
+      "url": "https://open.spotify.com/track/6wPupZx0WFmkj9wnCrCUJU"
     }
   ],
   "unique_name": "schiebt anders",

@@ -1586,6 +1586,32 @@
     {
       "album": {
         "name": "Back To Life",
+        "url": "https://open.spotify.com/album/2xXaPI29IwS1St0SP7uvjk"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        },
+        {
+          "name": "Le Bok",
+          "url": "https://open.spotify.com/artist/29FYBcFeHQ8z432memmfvF"
+        },
+        {
+          "name": "ay-Mill",
+          "url": "https://open.spotify.com/artist/6GyEey05kfps6PpzxapBcY"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163434,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/7aTVdaOk1WISfbuTVJw8EG"
+    },
+    {
+      "album": {
+        "name": "Back To Life",
         "url": "https://open.spotify.com/album/2LlHEnrb2lp6UHtBZd3DXY"
       },
       "artists": [

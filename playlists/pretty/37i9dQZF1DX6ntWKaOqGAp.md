@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: King Gnu
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,838 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,861 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 60 | [BLADE](https://open.spotify.com/track/0xiLLuDMFgFoUbJX2EHHcd) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [BLADE](https://open.spotify.com/album/4loNGWqbtqewau1O9IK6QB) | 3:44 |
 | 61 | [utopia](https://open.spotify.com/track/2nF89JPsdElOBGNktaxveo) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [in my mind](https://open.spotify.com/album/5UEXM9D4ATjJewEwzWjZIu) | 4:21 |
 | 62 | [沼超えて湖](https://open.spotify.com/track/7cikWM5KETPtV41hGqsEPi) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [沼超えて湖](https://open.spotify.com/album/6RWVTE6kOHUzGhFtbEORrw) | 3:17 |
-| 63 | [Chasing Shadows](https://open.spotify.com/track/2KzPlIJdel4ObXJBDqcFOk) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Chasing Shadows](https://open.spotify.com/album/3DU6iVhXE99QOPKpmTW4RQ) | 3:47 |
+| 63 | [CHASING SHADOWS](https://open.spotify.com/track/2KzPlIJdel4ObXJBDqcFOk) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Chasing Shadows](https://open.spotify.com/album/3DU6iVhXE99QOPKpmTW4RQ) | 3:47 |
 | 64 | [涙のスイマー](https://open.spotify.com/track/0OUxpQVIoca5mB0JKSGop0) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [涙のスイマー](https://open.spotify.com/album/3Mi20D234lblgBeMJjdEZc) | 3:09 |
 | 65 | [Level up](https://open.spotify.com/track/76hK1up4IZX5jru3LMArLz) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Level up](https://open.spotify.com/album/6fEJgo9dzJ4rZOy0FIziq8) | 2:48 |
 | 66 | [菫](https://open.spotify.com/track/4vVIlJbofRcrzIfNkgdFDK) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [菫](https://open.spotify.com/album/216vfpaQDaZ4CbHMs7WRRG) | 2:56 |

@@ -1,6 +1,6 @@
 {
   "description": "gusto ko lang naman ng kayakap ",
-  "num_followers": 891793,
+  "num_followers": 891747,
   "original_name": "cuddleweather",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-09-12 11:06:07",
       "album": {
+        "name": "Trilogy",
+        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 247226,
+      "name": "High For This",
+      "url": "https://open.spotify.com/track/5fohLPNqO6TqwrZ7BoUWUT"
+    },
+    {
+      "added_at": "2025-09-12 11:06:07",
+      "album": {
         "name": "I Need You More Today",
         "url": "https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 233728,
       "name": "I Need You More Today",
       "url": "https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej"
-    },
-    {
-      "added_at": "2025-09-12 11:06:07",
-      "album": {
-        "name": "Trilogy",
-        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 247226,
-      "name": "High For This",
-      "url": "https://open.spotify.com/track/5fohLPNqO6TqwrZ7BoUWUT"
     },
     {
       "added_at": "2025-09-12 11:06:07",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-09-12 11:06:07",
       "album": {
+        "name": "Palagi",
+        "url": "https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "duration_ms": 218051,
+      "name": "Palagi",
+      "url": "https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m"
+    },
+    {
+      "added_at": "2025-09-12 11:06:07",
+      "album": {
         "name": "Ikigai (feat. Loonie)",
         "url": "https://open.spotify.com/album/4XkhhI9dq3Dr2IJGpiXpBf"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 245729,
       "name": "Ikigai (feat. Loonie)",
       "url": "https://open.spotify.com/track/521fDEPuyS2szREJ9NkMDs"
-    },
-    {
-      "added_at": "2025-09-12 11:06:07",
-      "album": {
-        "name": "Palagi",
-        "url": "https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH"
-      },
-      "artists": [
-        {
-          "name": "TJ Monterde",
-          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
-        }
-      ],
-      "duration_ms": 218051,
-      "name": "Palagi",
-      "url": "https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m"
     },
     {
       "added_at": "2025-09-12 11:06:07",
@@ -847,22 +847,18 @@
     {
       "added_at": "2025-09-12 11:06:07",
       "album": {
-        "name": "Are You Even Real (feat. Giv\u0113on)",
-        "url": "https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD"
+        "name": "LAST GOODBYE",
+        "url": "https://open.spotify.com/album/60J04ZdOL6STeI0S9OLDZq"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "sunkis",
+          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
         }
       ],
-      "duration_ms": 147702,
-      "name": "Are You Even Real (feat. Giv\u0113on)",
-      "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
+      "duration_ms": 148000,
+      "name": "LAST GOODBYE",
+      "url": "https://open.spotify.com/track/4sTjUYjIC02RkNa1A8rWjE"
     }
   ],
   "unique_name": "cuddleweather",

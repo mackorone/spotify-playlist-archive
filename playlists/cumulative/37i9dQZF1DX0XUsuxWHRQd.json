@@ -2693,6 +2693,24 @@
     },
     {
       "album": {
+        "name": "AP Freestyle",
+        "url": "https://open.spotify.com/album/3NDWj9V9tP41LSc1JyE3c7"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118356,
+      "name": "AP Freestyle",
+      "url": "https://open.spotify.com/track/6s0omAiJpLcMWdbCCJbG6s"
+    },
+    {
+      "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/45lKgjsHIE2vz79l8EydQv"
       },
@@ -6346,7 +6364,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 178708,
       "name": "Bodies (with JID)",
       "url": "https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL"
@@ -8114,7 +8132,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 107777,
       "name": "Cant Go Broke - Remix",
       "url": "https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz"
@@ -28770,7 +28788,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 139807,
       "name": "Move Wrong (feat. VonOff1700)",
       "url": "https://open.spotify.com/track/2SMF2u7O3EWWQOGOWV0saV"
@@ -33890,6 +33908,32 @@
       "duration_ms": 120412,
       "name": "Pink Dreads",
       "url": "https://open.spotify.com/track/0dbJg8aQkJ08TdO0HjzipR"
+    },
+    {
+      "album": {
+        "name": "Pink Money (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164586,
+      "name": "Pink Money (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW"
     },
     {
       "album": {
@@ -39529,6 +39573,24 @@
     },
     {
       "album": {
+        "name": "Shoot It Off",
+        "url": "https://open.spotify.com/album/3dTBL1AUSSGAA9r73yf9Oy"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128832,
+      "name": "Shoot It Off",
+      "url": "https://open.spotify.com/track/0yfOjGzOXq6N0PzS3J2YwD"
+    },
+    {
+      "album": {
         "name": "Survivor\u2019s Remorse: A Side",
         "url": "https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr"
       },
@@ -40174,7 +40236,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 228933,
       "name": "Sittin' Sidewayz (feat. Big Pokey)",
       "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"

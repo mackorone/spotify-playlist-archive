@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 216813,
       "name": "1916",
       "url": "https://open.spotify.com/track/29y2j3s6i528lBTSMP0wbE"
@@ -2187,6 +2187,36 @@
     },
     {
       "album": {
+        "name": "Crossing the Rubicon (feat. NOTHING MORE)",
+        "url": "https://open.spotify.com/album/1wSTkIeWrOhenv55gnRIFI"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        },
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        },
+        {
+          "name": "Jonny Hawkins",
+          "url": "https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN"
+        },
+        {
+          "name": "Mark Vollelunga",
+          "url": "https://open.spotify.com/artist/69lSSZZg7Xp8XJ3bjdNOXU"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204400,
+      "name": "Crossing the Rubicon (feat. NOTHING MORE)",
+      "url": "https://open.spotify.com/track/2EVeVyXH9mQ5IIGi9b3smP"
+    },
+    {
+      "album": {
         "name": "Beyond",
         "url": "https://open.spotify.com/album/5b7ycJH12J71YLRJulfj8M"
       },
@@ -2306,7 +2336,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 178999,
       "name": "Dance Till We Sink",
       "url": "https://open.spotify.com/track/5RJTbctfEPvxAWa4ejPwDm"
@@ -8528,7 +8558,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 249600,
       "name": "Reincarnation",
       "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
@@ -10132,6 +10162,28 @@
       "duration_ms": 301533,
       "name": "The Apostate",
       "url": "https://open.spotify.com/track/1vAb78bGwENFZmf3T79ABo"
+    },
+    {
+      "album": {
+        "name": "The Art Of Being Alone",
+        "url": "https://open.spotify.com/album/64XgHGWD8KkYDrDI1wp9OX"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        },
+        {
+          "name": "Lord Of The Lost",
+          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259563,
+      "name": "The Art Of Being Alone",
+      "url": "https://open.spotify.com/track/4tPx1qTsAr7kwB4oKAoMCu"
     },
     {
       "album": {
@@ -12196,7 +12248,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 183626,
       "name": "We Stand Tall",
       "url": "https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx"

@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 471796,
+  "num_followers": 471828,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Retratos",
+        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 261733,
+      "name": "Canto Das Tr\u00eas Ra\u00e7as",
+      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
         "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 306853,
       "name": "Frevo Mulher - Ao Vivo",
       "url": "https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Retratos",
-        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 261733,
-      "name": "Canto Das Tr\u00eas Ra\u00e7as",
-      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
     },
     {
       "added_at": "2021-11-26 03:18:52",

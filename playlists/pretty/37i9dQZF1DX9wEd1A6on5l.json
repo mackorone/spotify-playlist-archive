@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 101186,
+  "num_followers": 101282,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAJs1KMkh1bUabJ/EH4QW4Nker6jz",
   "tracks": [
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 165642,
-      "name": "you",
-      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
-    },
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 188981,
       "name": "FUN",
       "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
+        "name": "you",
+        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 165642,
+      "name": "you",
+      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -115,22 +115,6 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "Candor",
-        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
-      },
-      "artists": [
-        {
-          "name": "Monaky",
-          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
-        }
-      ],
-      "duration_ms": 175666,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
         "name": "KELEBU",
         "url": "https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 172069,
       "name": "KELEBU",
       "url": "https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
+        "name": "Candor",
+        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
+      },
+      "artists": [
+        {
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
+        }
+      ],
+      "duration_ms": 175666,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -315,22 +315,22 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "Gaddem",
-        "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
+        "name": "Calculate II",
+        "url": "https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK"
       },
       "artists": [
         {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
         },
         {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 161454,
-      "name": "Gaddem",
-      "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
+      "duration_ms": 180688,
+      "name": "Calculate II - II",
+      "url": "https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -383,6 +383,26 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
+        "name": "Gaddem",
+        "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Gaddem",
+      "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
         "name": "Na Scra",
         "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 150000,
       "name": "Na Scra",
       "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
-        "name": "Calculate II",
-        "url": "https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 180688,
-      "name": "Calculate II - II",
-      "url": "https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 172736,
-      "name": "Jies",
-      "url": "https://open.spotify.com/track/6dmuFoJ8jYh7kzai2twWNo"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
         "name": "Escaladizzy",
         "url": "https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 164745,
       "name": "Escaladizzy",
       "url": "https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 172736,
+      "name": "Jies",
+      "url": "https://open.spotify.com/track/6dmuFoJ8jYh7kzai2twWNo"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
+        "name": "Uncle Pele / Sew-Tape",
+        "url": "https://open.spotify.com/album/59cWQDtXikHHxtrdYI1KGc"
+      },
+      "artists": [
+        {
+          "name": "Dxtiny",
+          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Uncle Pele",
+      "url": "https://open.spotify.com/track/6BdhR1gE0lAGdPbHi53sOp"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
         "name": "On The Low",
         "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "Uncle Pele / Sew-Tape",
-        "url": "https://open.spotify.com/album/59cWQDtXikHHxtrdYI1KGc"
+        "name": "Loyal",
+        "url": "https://open.spotify.com/album/4gYliBmMW5PvtrRbOn5Ish"
       },
       "artists": [
         {
-          "name": "Dxtiny",
-          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Uncle Pele",
-      "url": "https://open.spotify.com/track/6BdhR1gE0lAGdPbHi53sOp"
+      "duration_ms": 160134,
+      "name": "Loyal",
+      "url": "https://open.spotify.com/track/01pAPjpO2BBDAWG4yGs6uA"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -787,22 +803,6 @@
       "duration_ms": 160043,
       "name": "My Amigo",
       "url": "https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
-        "name": "Loyal",
-        "url": "https://open.spotify.com/album/4gYliBmMW5PvtrRbOn5Ish"
-      },
-      "artists": [
-        {
-          "name": "Chella",
-          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
-        }
-      ],
-      "duration_ms": 160134,
-      "name": "Loyal",
-      "url": "https://open.spotify.com/track/01pAPjpO2BBDAWG4yGs6uA"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -887,22 +887,26 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "Shakur",
-        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/7huXtUw0I2ftTQLFNMEYWL"
       },
       "artists": [
         {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         },
         {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
         }
       ],
-      "duration_ms": 164745,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
+      "duration_ms": 182142,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/48fNM8TUHTZbndUYoWnEUy"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -919,6 +923,26 @@
       "duration_ms": 153026,
       "name": "Bend",
       "url": "https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
+        "name": "Shakur",
+        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -1003,30 +1027,6 @@
       "duration_ms": 205714,
       "name": "Trenches Luv",
       "url": "https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
-        "name": "Bobo",
-        "url": "https://open.spotify.com/album/7huXtUw0I2ftTQLFNMEYWL"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/48fNM8TUHTZbndUYoWnEUy"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 131413,
-      "name": "Don't Care",
-      "url": "https://open.spotify.com/track/1t6yJs1WSeetp1OdFf9oHJ"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
         "name": "Panic",
         "url": "https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv"
       },
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 131413,
+      "name": "Don't Care",
+      "url": "https://open.spotify.com/track/1t6yJs1WSeetp1OdFf9oHJ"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
         "name": "Over The Moon",
         "url": "https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD"
       },
@@ -1251,26 +1251,6 @@
       "duration_ms": 165714,
       "name": "Over The Moon",
       "url": "https://open.spotify.com/track/5CHi28woINyyaqdi1t7FZM"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
-        "name": "[I.N.I.T] In Nasboi I Trust",
-        "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
-      },
-      "artists": [
-        {
-          "name": "Nasboi",
-          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 137962,
-      "name": "Could This Be Love",
-      "url": "https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -1295,6 +1275,26 @@
       "duration_ms": 185880,
       "name": "Control (with Joeboy & Bella Shmurda)",
       "url": "https://open.spotify.com/track/4wdWoMwW8W4HfKj49XQm0S"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
+        "name": "[I.N.I.T] In Nasboi I Trust",
+        "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
+      },
+      "artists": [
+        {
+          "name": "Nasboi",
+          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 137962,
+      "name": "Could This Be Love",
+      "url": "https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "KEROSENE",
-        "url": "https://open.spotify.com/album/7jReirhUtytItxVqQGiTg8"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 158608,
-      "name": "KEROSENE",
-      "url": "https://open.spotify.com/track/1o17ns83QiAuDt84MkdJ5K"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
         "name": "Laye Mi",
         "url": "https://open.spotify.com/album/2meXvu010wYVafBBpFjVwd"
       },
@@ -1363,18 +1343,22 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "HIGH STAR",
-        "url": "https://open.spotify.com/album/1UE4Fy6qYCLqbM4Lz1Kf95"
+        "name": "KEROSENE",
+        "url": "https://open.spotify.com/album/7jReirhUtytItxVqQGiTg8"
       },
       "artists": [
         {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 139636,
-      "name": "HIGH STAR",
-      "url": "https://open.spotify.com/track/0lDF1W7GchI8tKq6GCfdUE"
+      "duration_ms": 158608,
+      "name": "KEROSENE",
+      "url": "https://open.spotify.com/track/1o17ns83QiAuDt84MkdJ5K"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -1399,6 +1383,22 @@
       "duration_ms": 172800,
       "name": "TOY GIRL (with Juno & Valentino Rose)",
       "url": "https://open.spotify.com/track/3iHp95MVzN1hBiOuR0cJmy"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
+        "name": "HIGH STAR",
+        "url": "https://open.spotify.com/album/1UE4Fy6qYCLqbM4Lz1Kf95"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "duration_ms": 139636,
+      "name": "HIGH STAR",
+      "url": "https://open.spotify.com/track/0lDF1W7GchI8tKq6GCfdUE"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
         "name": "For Where?",
         "url": "https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 113454,
       "name": "For Where?",
       "url": "https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
-        "name": "FOR YOU",
-        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
     },
     {
       "added_at": "2025-09-05 00:01:30",

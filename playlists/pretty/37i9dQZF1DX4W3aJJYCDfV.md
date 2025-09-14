@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ed Sheeran, JADE, Gorillaz and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,807 likes - 116 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,820 likes - 116 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 12 | [GOLDTOOTH \(feat\. Blaqbonez\)](https://open.spotify.com/track/4Rhwm8YXBJ1cX6LGLzq7l4) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [GOLDTOOTH \(feat\. Blaqbonez\)](https://open.spotify.com/album/3tpHFtP8V65CUVLMYCe4dY) | 2:25 |
 | 13 | [Waiting For Love](https://open.spotify.com/track/7faBDPpACK6D31VqvnmeQs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Waiting For Love](https://open.spotify.com/album/5UmQZch97gF84AIdhkRBqI) | 4:29 |
 | 14 | [AP Freestyle](https://open.spotify.com/track/6s0omAiJpLcMWdbCCJbG6s) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [AP Freestyle](https://open.spotify.com/album/3NDWj9V9tP41LSc1JyE3c7) | 1:58 |
-| 15 | [Unconditional](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Unconditional](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
+| 15 | [UNCONDITIONAL](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [UNCONDITIONAL](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
 | 16 | [Aura](https://open.spotify.com/track/5vtZTLyLMkIHsAUuSVnzg2) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS), [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Diaspora Dance Music](https://open.spotify.com/album/32U6tpk6aNinHdFEhDnHGl) | 2:38 |
 | 17 | [Impose](https://open.spotify.com/track/3kMc83bWNdcaX1dmARQIII) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Impose](https://open.spotify.com/album/0WGyY2UCxFPryMrmYYVIzR) | 4:23 |
 | 18 | [Phases](https://open.spotify.com/track/6NzoVYiCWulsOECuaXDazA) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Phases](https://open.spotify.com/album/3msLrvkMWgzkEMM0HTmTxJ) | 3:04 |

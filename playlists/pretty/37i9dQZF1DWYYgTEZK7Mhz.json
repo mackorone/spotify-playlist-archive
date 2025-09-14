@@ -1,6 +1,6 @@
 {
   "description": "Un'estate al mare, stile balenare \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 45557,
+  "num_followers": 45570,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-05-02 09:12:30",
       "album": {
+        "name": "Qualcuno mi pu\u00f2 giudicare",
+        "url": "https://open.spotify.com/album/1ydi18iypjZlrUszS7gsbO"
+      },
+      "artists": [
+        {
+          "name": "Caterina Caselli",
+          "url": "https://open.spotify.com/artist/19tdzR0mBQe9NrCyXvzw3p"
+        }
+      ],
+      "duration_ms": 161933,
+      "name": "Nessuno mi pu\u00f2 giudicare",
+      "url": "https://open.spotify.com/track/0ZXKyekFgjiSJ6q2Wc3bRn"
+    },
+    {
+      "added_at": "2025-05-02 09:12:30",
+      "album": {
         "name": "Donatella Rettore",
         "url": "https://open.spotify.com/album/2eGxIkMPIgcvthCOLYoQZU"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 137573,
       "name": "Il Ballo Del Mattone",
       "url": "https://open.spotify.com/track/7HsCbVk1DlfgBqxk7yX8ym"
-    },
-    {
-      "added_at": "2025-05-02 09:12:30",
-      "album": {
-        "name": "Qualcuno mi pu\u00f2 giudicare",
-        "url": "https://open.spotify.com/album/1ydi18iypjZlrUszS7gsbO"
-      },
-      "artists": [
-        {
-          "name": "Caterina Caselli",
-          "url": "https://open.spotify.com/artist/19tdzR0mBQe9NrCyXvzw3p"
-        }
-      ],
-      "duration_ms": 161933,
-      "name": "Nessuno mi pu\u00f2 giudicare",
-      "url": "https://open.spotify.com/track/0ZXKyekFgjiSJ6q2Wc3bRn"
     },
     {
       "added_at": "2025-05-02 09:12:30",

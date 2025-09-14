@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 629505,
+  "num_followers": 629643,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -935,18 +935,22 @@
     {
       "added_at": "2025-09-05 01:52:34",
       "album": {
-        "name": "Hit Different",
-        "url": "https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB"
+        "name": "Whiskey Lullaby",
+        "url": "https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM"
       },
       "artists": [
         {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+          "name": "Drew Jacobs",
+          "url": "https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0"
+        },
+        {
+          "name": "Caitlynne Curtis",
+          "url": "https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf"
         }
       ],
-      "duration_ms": 193271,
-      "name": "Hit Different",
-      "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
+      "duration_ms": 269594,
+      "name": "Whiskey Lullaby",
+      "url": "https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc"
     },
     {
       "added_at": "2025-09-05 01:52:34",
@@ -967,6 +971,22 @@
     {
       "added_at": "2025-09-05 01:52:34",
       "album": {
+        "name": "Hit Different",
+        "url": "https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "duration_ms": 193271,
+      "name": "Hit Different",
+      "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
+    },
+    {
+      "added_at": "2025-09-05 01:52:34",
+      "album": {
         "name": "Creeps",
         "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 226309,
       "name": "Creeps",
       "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
-    },
-    {
-      "added_at": "2025-09-05 01:52:34",
-      "album": {
-        "name": "Whiskey Lullaby",
-        "url": "https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM"
-      },
-      "artists": [
-        {
-          "name": "Drew Jacobs",
-          "url": "https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0"
-        },
-        {
-          "name": "Caitlynne Curtis",
-          "url": "https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf"
-        }
-      ],
-      "duration_ms": 269594,
-      "name": "Whiskey Lullaby",
-      "url": "https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc"
     },
     {
       "added_at": "2025-09-05 01:52:34",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-09-05 01:52:34",
       "album": {
-        "name": "Burnpile",
-        "url": "https://open.spotify.com/album/4U4XFiX4vwKkbjHCiWiLRk"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 176344,
-      "name": "Burnpile",
-      "url": "https://open.spotify.com/track/0RZIfeHVRF7fDohP3V7twJ"
-    },
-    {
-      "added_at": "2025-09-05 01:52:34",
-      "album": {
         "name": "AMERICAN MOTOR SPORTS",
         "url": "https://open.spotify.com/album/1HrM3lPorHLHWPApviVRRz"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 164552,
       "name": "SPINNIN' YOU AROUND",
       "url": "https://open.spotify.com/track/3Kc9IdvNTmjH1fO0MFzwAD"
+    },
+    {
+      "added_at": "2025-09-05 01:52:34",
+      "album": {
+        "name": "Burnpile",
+        "url": "https://open.spotify.com/album/4U4XFiX4vwKkbjHCiWiLRk"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 176344,
+      "name": "Burnpile",
+      "url": "https://open.spotify.com/track/0RZIfeHVRF7fDohP3V7twJ"
     },
     {
       "added_at": "2025-09-05 01:52:34",
@@ -1463,18 +1463,22 @@
     {
       "added_at": "2025-09-05 01:52:34",
       "album": {
-        "name": "Dirt Road When I Die - EP",
-        "url": "https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM"
+        "name": "TOMBSTONE TOWN (feat. Slash)",
+        "url": "https://open.spotify.com/album/6ADtO6kde5TxMseMn2r7WO"
       },
       "artists": [
         {
-          "name": "Dylan Marlowe",
-          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        },
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
         }
       ],
-      "duration_ms": 174280,
-      "name": "Dirt Road When I Die",
-      "url": "https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk"
+      "duration_ms": 194653,
+      "name": "TOMBSTONE TOWN (feat. Slash)",
+      "url": "https://open.spotify.com/track/2Xs6Vya6Zninq68d7uUopi"
     },
     {
       "added_at": "2025-09-05 01:52:34",
@@ -1495,22 +1499,18 @@
     {
       "added_at": "2025-09-05 01:52:34",
       "album": {
-        "name": "TOMBSTONE TOWN (feat. Slash)",
-        "url": "https://open.spotify.com/album/6ADtO6kde5TxMseMn2r7WO"
+        "name": "Dirt Road When I Die - EP",
+        "url": "https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM"
       },
       "artists": [
         {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        },
-        {
-          "name": "Slash",
-          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
         }
       ],
-      "duration_ms": 194653,
-      "name": "TOMBSTONE TOWN (feat. Slash)",
-      "url": "https://open.spotify.com/track/2Xs6Vya6Zninq68d7uUopi"
+      "duration_ms": 174280,
+      "name": "Dirt Road When I Die",
+      "url": "https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk"
     },
     {
       "added_at": "2025-09-05 01:52:34",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-09-05 01:52:34",
       "album": {
-        "name": "Middle Finger Motto",
-        "url": "https://open.spotify.com/album/788rbiHAOAvbo26RzsdyOU"
-      },
-      "artists": [
-        {
-          "name": "Eddie And The Getaway",
-          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
-        }
-      ],
-      "duration_ms": 171937,
-      "name": "Middle Finger Motto",
-      "url": "https://open.spotify.com/track/4SflMtWx9gjZ4lT7qcU871"
-    },
-    {
-      "added_at": "2025-09-05 01:52:34",
-      "album": {
         "name": "Name In A Song",
         "url": "https://open.spotify.com/album/5TnxrgBI9muACAEOHEO0Ik"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 200282,
       "name": "Name In A Song",
       "url": "https://open.spotify.com/track/7pCopTBQmUIvVHCAREicYC"
+    },
+    {
+      "added_at": "2025-09-05 01:52:34",
+      "album": {
+        "name": "Middle Finger Motto",
+        "url": "https://open.spotify.com/album/788rbiHAOAvbo26RzsdyOU"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        }
+      ],
+      "duration_ms": 171937,
+      "name": "Middle Finger Motto",
+      "url": "https://open.spotify.com/track/4SflMtWx9gjZ4lT7qcU871"
     },
     {
       "added_at": "2025-09-05 01:52:34",

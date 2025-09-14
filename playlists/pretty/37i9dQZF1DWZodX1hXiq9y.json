@@ -1,6 +1,6 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 131427,
+  "num_followers": 131469,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,38 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Somethin' Else (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 659520,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Blues Walk",
+        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 294666,
+      "name": "Autumn Nocturne",
+      "url": "https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Milestones",
         "url": "https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv"
       },
@@ -79,38 +111,6 @@
       "duration_ms": 342066,
       "name": "Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/1xicvSO4CJ2ymqYgpk7DFh"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Somethin' Else (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 659520,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Blues Walk",
-        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 294666,
-      "name": "Autumn Nocturne",
-      "url": "https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Used To Be Duke",
-        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Warm Valley",
-      "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Page One",
         "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 361773,
       "name": "Recorda Me",
       "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Used To Be Duke",
+        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Warm Valley",
+      "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Cliff Craft",
-        "url": "https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp"
-      },
-      "artists": [
-        {
-          "name": "Clifford Jordan",
-          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
-        }
-      ],
-      "duration_ms": 407266,
-      "name": "Sophisticated Lady - Remastered 1997",
-      "url": "https://open.spotify.com/track/4MOg9akJ30Hz8ox8NBw2j1"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Art Pepper + Eleven: Modern Jazz Classics",
         "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 192493,
       "name": "Opus De Funk",
       "url": "https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Cliff Craft",
+        "url": "https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp"
+      },
+      "artists": [
+        {
+          "name": "Clifford Jordan",
+          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
+        }
+      ],
+      "duration_ms": 407266,
+      "name": "Sophisticated Lady - Remastered 1997",
+      "url": "https://open.spotify.com/track/4MOg9akJ30Hz8ox8NBw2j1"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 309253,
-      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
         "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 355546,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 309253,
+      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 336680,
-      "name": "Chicago Calling - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7v9gdHQr7giAb3pTI6x805"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "The Return Of Art Pepper",
         "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/2S2e9KAsq88kaNMO5xqDV5"
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
       },
       "artists": [
         {
-          "name": "Charles Lloyd Quartet",
-          "url": "https://open.spotify.com/artist/1uVXezA2zuHxGwdKZHDOaj"
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
         }
       ],
-      "duration_ms": 242560,
-      "name": "Caroline, No",
-      "url": "https://open.spotify.com/track/5MgpYFpvrsMp3J1rzliKF4"
+      "duration_ms": 336680,
+      "name": "Chicago Calling - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7v9gdHQr7giAb3pTI6x805"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Swingin' Till The Girls Come Home",
-        "url": "https://open.spotify.com/album/4yl06rWUAfJwtgC4O3ZfSw"
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/2S2e9KAsq88kaNMO5xqDV5"
       },
       "artists": [
         {
-          "name": "Eddie \"Lockjaw\" Davis",
-          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
+          "name": "Charles Lloyd Quartet",
+          "url": "https://open.spotify.com/artist/1uVXezA2zuHxGwdKZHDOaj"
         }
       ],
-      "duration_ms": 220933,
-      "name": "Bye bye blackbird",
-      "url": "https://open.spotify.com/track/4vKfWkaLc1gJ5swCnib2a6"
+      "duration_ms": 242560,
+      "name": "Caroline, No",
+      "url": "https://open.spotify.com/track/5MgpYFpvrsMp3J1rzliKF4"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1651,6 +1635,22 @@
       "duration_ms": 582133,
       "name": "The Song Is You",
       "url": "https://open.spotify.com/track/2BDZCdN2zLYjfbZ3WdqZBC"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Swingin' Till The Girls Come Home",
+        "url": "https://open.spotify.com/album/4yl06rWUAfJwtgC4O3ZfSw"
+      },
+      "artists": [
+        {
+          "name": "Eddie \"Lockjaw\" Davis",
+          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
+        }
+      ],
+      "duration_ms": 220933,
+      "name": "Bye bye blackbird",
+      "url": "https://open.spotify.com/track/4vKfWkaLc1gJ5swCnib2a6"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Escaping Shadows",
+        "url": "https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW"
+      },
+      "artists": [
+        {
+          "name": "Benny Reid",
+          "url": "https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "New Days",
+      "url": "https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Jazz Alive! A Night at the Half Note",
         "url": "https://open.spotify.com/album/7ae4qsLX1ZBTrrClmrGPWA"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 614613,
       "name": "It Had to Be You",
       "url": "https://open.spotify.com/track/3TVGO0B20dnOgBBKb8Fkye"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Escaping Shadows",
-        "url": "https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW"
-      },
-      "artists": [
-        {
-          "name": "Benny Reid",
-          "url": "https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "New Days",
-      "url": "https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Lenox Avenue Breakdown",
-        "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
-      },
-      "artists": [
-        {
-          "name": "Arthur Blythe",
-          "url": "https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33"
-        }
-      ],
-      "duration_ms": 578880,
-      "name": "Slidin' Through",
-      "url": "https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Analog Man",
         "url": "https://open.spotify.com/album/1CO7OMJS4alGJG1gKOnKlP"
       },
@@ -1923,34 +1907,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Quartets",
-        "url": "https://open.spotify.com/album/13sMOpWaJbtf0qNLzBN2Yk"
+        "name": "Lenox Avenue Breakdown",
+        "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
       },
       "artists": [
         {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+          "name": "Arthur Blythe",
+          "url": "https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33"
         }
       ],
-      "duration_ms": 444840,
-      "name": "Haghia Sophia",
-      "url": "https://open.spotify.com/track/3koWLVebFC6KtgEQ5ZMOgd"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 368053,
-      "name": "Eco - Remastered",
-      "url": "https://open.spotify.com/track/6XHR5Gs3ZbrBrqVPPA1tGa"
+      "duration_ms": 578880,
+      "name": "Slidin' Through",
+      "url": "https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1971,6 +1939,38 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 368053,
+      "name": "Eco - Remastered",
+      "url": "https://open.spotify.com/track/6XHR5Gs3ZbrBrqVPPA1tGa"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Quartets",
+        "url": "https://open.spotify.com/album/13sMOpWaJbtf0qNLzBN2Yk"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "duration_ms": 444840,
+      "name": "Haghia Sophia",
+      "url": "https://open.spotify.com/track/3koWLVebFC6KtgEQ5ZMOgd"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Pushing the World Away",
         "url": "https://open.spotify.com/album/79HogqAl7FydqNlNZqVz79"
       },
@@ -1983,6 +1983,22 @@
       "duration_ms": 223960,
       "name": "A Side Order of Hijiki",
       "url": "https://open.spotify.com/track/2ZdIftmBJqA88uoE8H1wZq"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Joyous Encounter",
+        "url": "https://open.spotify.com/album/7JJAVKH0nRCW4NzpAqUhGu"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        }
+      ],
+      "duration_ms": 485920,
+      "name": "Pannonica",
+      "url": "https://open.spotify.com/track/4iuYeo7alKHLLyNBIWbt88"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2007,22 +2023,6 @@
       "duration_ms": 447600,
       "name": "J.E.V.",
       "url": "https://open.spotify.com/track/4o16N2cUPKqIzDikfo79Eg"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Joyous Encounter",
-        "url": "https://open.spotify.com/album/7JJAVKH0nRCW4NzpAqUhGu"
-      },
-      "artists": [
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        }
-      ],
-      "duration_ms": 485920,
-      "name": "Pannonica",
-      "url": "https://open.spotify.com/track/4iuYeo7alKHLLyNBIWbt88"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Warm Woods",
+        "url": "https://open.spotify.com/album/4lj7s0K81qfLbXdLaDt2Ba"
+      },
+      "artists": [
+        {
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Blues In Pig Alley",
+      "url": "https://open.spotify.com/track/63FHjEdLJDR1VStrTg9LmY"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/74XTSksd8h9wLA595z0A5Y"
       },
@@ -2107,46 +2123,6 @@
       "duration_ms": 363333,
       "name": "Lamenting",
       "url": "https://open.spotify.com/track/49kINl7tEr7Hq45LD4OSnI"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Warm Woods",
-        "url": "https://open.spotify.com/album/4lj7s0K81qfLbXdLaDt2Ba"
-      },
-      "artists": [
-        {
-          "name": "Phil Woods",
-          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Blues In Pig Alley",
-      "url": "https://open.spotify.com/track/63FHjEdLJDR1VStrTg9LmY"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Where Are You?",
-        "url": "https://open.spotify.com/album/5UIu8Ra41XV49VoscOnMjT"
-      },
-      "artists": [
-        {
-          "name": "Mark Turner",
-          "url": "https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP"
-        },
-        {
-          "name": "Kevin Hays",
-          "url": "https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J"
-        },
-        {
-          "name": "Marc Miralta",
-          "url": "https://open.spotify.com/artist/5k9fBcpEq6FWQH87BSLIpy"
-        }
-      ],
-      "duration_ms": 315520,
-      "name": "Nigeria",
-      "url": "https://open.spotify.com/track/0p9mkM9GtASH9tF73Qo5H3"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2179,6 +2155,30 @@
       "duration_ms": 799425,
       "name": "The Last Train",
       "url": "https://open.spotify.com/track/5H1HQb0Sma4TVuFbKDRQWO"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Where Are You?",
+        "url": "https://open.spotify.com/album/5UIu8Ra41XV49VoscOnMjT"
+      },
+      "artists": [
+        {
+          "name": "Mark Turner",
+          "url": "https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP"
+        },
+        {
+          "name": "Kevin Hays",
+          "url": "https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J"
+        },
+        {
+          "name": "Marc Miralta",
+          "url": "https://open.spotify.com/artist/5k9fBcpEq6FWQH87BSLIpy"
+        }
+      ],
+      "duration_ms": 315520,
+      "name": "Nigeria",
+      "url": "https://open.spotify.com/track/0p9mkM9GtASH9tF73Qo5H3"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2251,6 +2251,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith",
+        "url": "https://open.spotify.com/album/0yAbp9pGErWGyK3g8n0KFp"
+      },
+      "artists": [
+        {
+          "name": "Roland Kirk Quartet",
+          "url": "https://open.spotify.com/artist/0SCzoP5VlkILozXUjaf3Gk"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Once In A While",
+      "url": "https://open.spotify.com/track/4T43EB5BkiOq3XpYB3VPts"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Parker, Charlie: Ornithology (1945-1947)",
         "url": "https://open.spotify.com/album/3KIQyUFgbHKf8WjBhwYCaK"
       },
@@ -2267,22 +2283,6 @@
       "duration_ms": 176040,
       "name": "Scrapple from the Apple",
       "url": "https://open.spotify.com/track/4pHMQ2nhXitWc4NpvfnzH9"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith",
-        "url": "https://open.spotify.com/album/0yAbp9pGErWGyK3g8n0KFp"
-      },
-      "artists": [
-        {
-          "name": "Roland Kirk Quartet",
-          "url": "https://open.spotify.com/artist/0SCzoP5VlkILozXUjaf3Gk"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Once In A While",
-      "url": "https://open.spotify.com/track/4T43EB5BkiOq3XpYB3VPts"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Complete Savoy & Dial Master Takes",
-        "url": "https://open.spotify.com/album/6Hy2ceuTvU2CNSrvQCRXl7"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 154333,
-      "name": "Donna Lee",
-      "url": "https://open.spotify.com/track/7M8iXcl69hHLrsNBinz8C5"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "The Jazz Giants",
         "url": "https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 606026,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/6aLIAUgSkoBMz7cRzqsVN7"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "The Complete Savoy & Dial Master Takes",
+        "url": "https://open.spotify.com/album/6Hy2ceuTvU2CNSrvQCRXl7"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "Donna Lee",
+      "url": "https://open.spotify.com/track/7M8iXcl69hHLrsNBinz8C5"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 837813,
-      "name": "Lush Life - Rudy Van Gelder Remaster 1958",
-      "url": "https://open.spotify.com/track/1PLbGCU1s3imPfz7FZ4NI0"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Just You, Just Me",
         "url": "https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 208400,
       "name": "On the Sunny Side of the Street - 2003 Remastered Version",
       "url": "https://open.spotify.com/track/1f42qBi0iHP3ZTef6H5WjB"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 837813,
+      "name": "Lush Life - Rudy Van Gelder Remaster 1958",
+      "url": "https://open.spotify.com/track/1PLbGCU1s3imPfz7FZ4NI0"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2523,6 +2523,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Further Definitions",
+        "url": "https://open.spotify.com/album/4HSABxiXhFWk3UQrCzloLz"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Blue Star",
+      "url": "https://open.spotify.com/track/3uyvyUKCmZXVC5S5NcnuaO"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Impressions (Live)",
         "url": "https://open.spotify.com/album/7g6pX3CjRqEiqF1fFm9M8b"
       },
@@ -2539,22 +2555,6 @@
       "duration_ms": 612881,
       "name": "Impressions (feat. Eric Dolphy) - Live",
       "url": "https://open.spotify.com/track/0jFcrPx0fe5pRBRKKf8Apf"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Further Definitions",
-        "url": "https://open.spotify.com/album/4HSABxiXhFWk3UQrCzloLz"
-      },
-      "artists": [
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Blue Star",
-      "url": "https://open.spotify.com/track/3uyvyUKCmZXVC5S5NcnuaO"
     },
     {
       "added_at": "2024-07-17 12:24:10",

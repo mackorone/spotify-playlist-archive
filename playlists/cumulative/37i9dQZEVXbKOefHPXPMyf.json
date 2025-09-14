@@ -531,6 +531,32 @@
     },
     {
       "album": {
+        "name": "2 pa 1",
+        "url": "https://open.spotify.com/album/7skQPB9PUxafPYhjfOEaQP"
+      },
+      "artists": [
+        {
+          "name": "Sayuri",
+          "url": "https://open.spotify.com/artist/5I7CLVc8zfo3FvdFn7Nc2n"
+        },
+        {
+          "name": "Sopholov",
+          "url": "https://open.spotify.com/artist/5YPbRfy2YxNs2rWJc63gdE"
+        },
+        {
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+        }
+      ],
+      "date_added": "2025-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "2 pa 1",
+      "url": "https://open.spotify.com/track/7mY74CfnMf1d7fvusV2IVQ"
+    },
+    {
+      "album": {
         "name": "2+2",
         "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
       },
@@ -6088,7 +6114,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -12082,7 +12108,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 164026,
       "name": "CEREMONY",
       "url": "https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF"
@@ -14782,7 +14808,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 163411,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
@@ -22020,7 +22046,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 188022,
       "name": "En Tus Sue\u00f1os",
       "url": "https://open.spotify.com/track/1bf9ZQggUbjASYfFhBcbNI"
@@ -36368,7 +36394,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 199826,
       "name": "Linda Costa Rica",
       "url": "https://open.spotify.com/track/5uA9Qx6ZmjLoJbThB4qBhU"
@@ -39116,7 +39142,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 122125,
       "name": "MamaZota",
       "url": "https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb"
@@ -56580,7 +56606,7 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 128809,
       "name": "Saludo a la Bandera",
       "url": "https://open.spotify.com/track/28oh511BxfHdYHXxJ5GSL1"
@@ -60670,7 +60696,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
@@ -62814,7 +62840,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 153332,
       "name": "Sugar On My Tongue",
       "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
@@ -66084,7 +66110,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 197600,
       "name": "Ticas Lindas",
       "url": "https://open.spotify.com/track/0a6lIvAiYy7yHzBC2zLRCy"
@@ -74564,7 +74590,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 200707,
       "name": "YO NO TE OLVIDO",
       "url": "https://open.spotify.com/track/641M1deHD4Y0X74pt8csik"

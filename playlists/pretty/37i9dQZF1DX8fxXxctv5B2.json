@@ -1,6 +1,6 @@
 {
   "description": "Windows down, volume up. The soundtrack to your road trip.",
-  "num_followers": 240504,
+  "num_followers": 240535,
   "original_name": "Coastal Drive",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-07-24 14:00:12",
       "album": {
+        "name": "Small Change",
+        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 165020,
+      "name": "Small Change",
+      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
+    },
+    {
+      "added_at": "2025-07-24 14:00:12",
+      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 310553,
       "name": "Mariella",
       "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
-    },
-    {
-      "added_at": "2025-07-24 14:00:12",
-      "album": {
-        "name": "Small Change",
-        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 165020,
-      "name": "Small Change",
-      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
     },
     {
       "added_at": "2025-07-24 14:00:12",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-07-24 14:00:12",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Go Your Own Way",
-      "url": "https://open.spotify.com/track/15rjQH7nTcTomKwfVMd4xl"
-    },
-    {
-      "added_at": "2025-07-24 14:00:12",
-      "album": {
         "name": "L.A.B III",
         "url": "https://open.spotify.com/album/6S2Wk7gzCsJzfArpNgPbHh"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 252680,
       "name": "In the Air",
       "url": "https://open.spotify.com/track/6r88rMGtfNgC0SJEytTA7c"
+    },
+    {
+      "added_at": "2025-07-24 14:00:12",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Go Your Own Way",
+      "url": "https://open.spotify.com/track/15rjQH7nTcTomKwfVMd4xl"
     },
     {
       "added_at": "2025-07-24 14:00:12",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-07-24 14:00:12",
       "album": {
-        "name": "Greyhound",
-        "url": "https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 226235,
-      "name": "Greyhound",
-      "url": "https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv"
-    },
-    {
-      "added_at": "2025-07-24 14:00:12",
-      "album": {
         "name": "My Fun",
         "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 162291,
       "name": "My Fun",
       "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
+    },
+    {
+      "added_at": "2025-07-24 14:00:12",
+      "album": {
+        "name": "Greyhound",
+        "url": "https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 226235,
+      "name": "Greyhound",
+      "url": "https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv"
     },
     {
       "added_at": "2025-07-24 14:00:12",

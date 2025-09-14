@@ -4,7 +4,7 @@
 
 > The best in every corner of modern punk rock\. Cover: Maruja
 
-546 songs - 1 day 3 hr 24 min
+547 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [In The Flesh](https://open.spotify.com/track/7h3XDCvLUgYt2t4DEf96Ro) | [Baby Strange](https://open.spotify.com/artist/0rOadSgjgHpAXqcEq4D0xS) | [In The Flesh](https://open.spotify.com/album/4COHHNiG8j5AoJ0a8fVpl6) | 2:00 | 2022-12-02 | 2023-01-19 |
 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 | 2024-05-31 | 2025-05-09 |
 | [Iron Feet](https://open.spotify.com/track/4HDGRiM06AJMNVkmTaC59z) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [45 Pounds](https://open.spotify.com/album/1uch3WTm8HyawghHDBsyXZ) | 1:45 | 2025-05-08 | 2025-07-05 |
-| [Isaac Is Typing…](https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [HEAVY JELLY](https://open.spotify.com/album/2oSZ420w1kkEdXMaDaNEbt) | 2:44 | 2024-07-19 |  |
+| [Isaac Is Typing…](https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [HEAVY JELLY](https://open.spotify.com/album/2oSZ420w1kkEdXMaDaNEbt) | 2:44 | 2024-07-19 | 2025-09-14 |
 | [It Ain't Enough](https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Cave World \(Deluxe\)](https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8) | 4:43 | 2023-01-18 | 2024-06-01 |
 | [It Burns](https://open.spotify.com/track/514cam2TdGuqXOu3oeGFAj) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [It Burns](https://open.spotify.com/album/77flV7s0GAsUvzd5vbCk9K) | 3:56 | 2024-07-05 | 2024-10-30 |
 | [It Smells Like Fudge Axe in Here](https://open.spotify.com/track/1K9hzBweKhayUE3mF7GsRN) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [The Sound a Body Makes When It's Still](https://open.spotify.com/album/0HMgzw7KIZ7gnmkfeOxCs6) | 3:26 | 2025-09-04 |  |
@@ -303,6 +303,7 @@
 | [Long Line](https://open.spotify.com/track/2hj5Qm88WoLdKPut2KGoRD) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Long Line](https://open.spotify.com/album/2rG5spc0tbdMY3pwVB7vkd) | 3:32 | 2025-07-04 | 2025-07-29 |
 | [Look Down On Us](https://open.spotify.com/track/7yIyR2o9DGWKhVrTe37FLs) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Look Down On Us](https://open.spotify.com/album/3CxAKlsE2UUbX1O80xwAqY) | 9:58 | 2025-05-08 |  |
 | [LOOK OUT FOR ME](https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 6:43 | 2025-07-31 |  |
+| [Lose Your Way & Find Yourself](https://open.spotify.com/track/1YQ8XXekRidvp3AqQ8ihmM) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Lose Your Way & Find Yourself](https://open.spotify.com/album/2uK8FWZRtauDSnYvWWmD3A) | 3:13 | 2025-09-11 |  |
 | [LOSER](https://open.spotify.com/track/6HOsksISHjFGsjk0vzK0S6) | [LOWLIVES](https://open.spotify.com/artist/7Hg9yStqSEaKmwPxFlWeE2) | [LOSER](https://open.spotify.com/album/6stziyO40ovFZGQN71pB67) | 3:22 | 2024-05-31 | 2024-10-11 |
 | [Losing My Mind](https://open.spotify.com/track/2bBMQ7SebBsgJFM6j4wgfz) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Losing My Mind](https://open.spotify.com/album/4cVwNDeIhkhkBItY85YgVf) | 3:52 | 2022-12-02 | 2023-11-11 |
 | [Lost In Time](https://open.spotify.com/track/6RxAiQGhBC9mZhWQEXJn6M) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [GET BENT!](https://open.spotify.com/album/3GGarrspHOxKZ9TCrOzq4t) | 2:52 | 2025-05-08 | 2025-07-20 |

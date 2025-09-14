@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaX6F5hVloGL.md) - [plain]
 
 > Music from ”TEKKEN” series!  鉄拳シリーズの楽曲を1つのプレイリストで。　TEKKEN™8 & ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,785 likes - 79 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,786 likes - 79 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2728,7 +2728,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 166399,
       "name": "Feriado",
       "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
@@ -4008,6 +4008,28 @@
       "duration_ms": 195351,
       "name": "La L\u00e1",
       "url": "https://open.spotify.com/track/4kitLAHbmBBXYHt9g22md3"
+    },
+    {
+      "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/65ZoZATeCt3JrbQHpTQgn1"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/2bBIVTh7gLuAfCDvU0vsOM"
     },
     {
       "album": {

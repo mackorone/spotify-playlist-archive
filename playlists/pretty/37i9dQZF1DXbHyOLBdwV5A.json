@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 129824,
+  "num_followers": 129842,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Tomado",
-        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "Tomado",
-      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "Respirar e Confiar",
         "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 216470,
       "name": "Respirar e Confiar",
       "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Tomado",
+        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "Tomado",
+      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -1083,8 +1083,8 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Ruah, Vento de Deus",
-        "url": "https://open.spotify.com/album/0y3JnRAjkfu2HxZuerRXKS"
+        "name": "Deus \u00e9 Amor, Arrisquemos",
+        "url": "https://open.spotify.com/album/57R6btoJJnBfj915VRC8AV"
       },
       "artists": [
         {
@@ -1096,25 +1096,41 @@
           "url": "https://open.spotify.com/artist/4c01PEAPQNIBuSStnBUTPf"
         },
         {
-          "name": "D. Pedro Casaldaliga",
-          "url": "https://open.spotify.com/artist/0bYZuQcdov0OYUvRMD5os5"
+          "name": "ICAR - Igreja Cat\u00f3lica Apost\u00f3lica Romana",
+          "url": "https://open.spotify.com/artist/20RZizxMMmZ5gVg6vXlcYD"
         },
         {
-          "name": "Denyse Nunes",
-          "url": "https://open.spotify.com/artist/0BIMNQf7InxIj0ynN2QWQp"
+          "name": "Iago Marques",
+          "url": "https://open.spotify.com/artist/7sRVoSWop4BSu0bCn3IWn6"
         },
         {
-          "name": "Pastoral da Juventude Nacional",
-          "url": "https://open.spotify.com/artist/0xFViW0uHjA2hwbAg0JGLJ"
+          "name": "Padre Kaz\u00e9 Ramos",
+          "url": "https://open.spotify.com/artist/7hPiV3PEKLcauWk9l2Ws9q"
         },
         {
           "name": "PJ e Raiz",
           "url": "https://open.spotify.com/artist/6R3rTZKnYFiwYemGqq3xuZ"
+        },
+        {
+          "name": "PJ Nacional",
+          "url": "https://open.spotify.com/artist/3iPm1suJUUUeqb5qLGOcri"
+        },
+        {
+          "name": "Frei, Luiz Carlos Susin",
+          "url": "https://open.spotify.com/artist/3JIlrSAdqLeUQJhz1l6yiI"
+        },
+        {
+          "name": "DJ J\u00e2nio Suzuki",
+          "url": "https://open.spotify.com/artist/0XmkNmztKLMaD5VBN3jYXA"
+        },
+        {
+          "name": "Grupo Musical Mensageiros de Cristo",
+          "url": "https://open.spotify.com/artist/4AdjVTxcrJbzM8zUZRbZJG"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Ruah, Vento de Deus - Padre Jucinei Vilpert Natal CSJ Remix",
-      "url": "https://open.spotify.com/track/33896eXL0XhGPH1OvpB9rB"
+      "duration_ms": 177519,
+      "name": "Deus \u00e9 Amor, Arrisquemos",
+      "url": "https://open.spotify.com/track/2cAzEICXKmChQqVln8xC8l"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -1207,8 +1223,8 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Deus \u00e9 Amor, Arrisquemos",
-        "url": "https://open.spotify.com/album/57R6btoJJnBfj915VRC8AV"
+        "name": "Ruah, Vento de Deus",
+        "url": "https://open.spotify.com/album/0y3JnRAjkfu2HxZuerRXKS"
       },
       "artists": [
         {
@@ -1220,41 +1236,25 @@
           "url": "https://open.spotify.com/artist/4c01PEAPQNIBuSStnBUTPf"
         },
         {
-          "name": "ICAR - Igreja Cat\u00f3lica Apost\u00f3lica Romana",
-          "url": "https://open.spotify.com/artist/20RZizxMMmZ5gVg6vXlcYD"
+          "name": "D. Pedro Casaldaliga",
+          "url": "https://open.spotify.com/artist/0bYZuQcdov0OYUvRMD5os5"
         },
         {
-          "name": "Iago Marques",
-          "url": "https://open.spotify.com/artist/7sRVoSWop4BSu0bCn3IWn6"
+          "name": "Denyse Nunes",
+          "url": "https://open.spotify.com/artist/0BIMNQf7InxIj0ynN2QWQp"
         },
         {
-          "name": "Padre Kaz\u00e9 Ramos",
-          "url": "https://open.spotify.com/artist/7hPiV3PEKLcauWk9l2Ws9q"
+          "name": "Pastoral da Juventude Nacional",
+          "url": "https://open.spotify.com/artist/0xFViW0uHjA2hwbAg0JGLJ"
         },
         {
           "name": "PJ e Raiz",
           "url": "https://open.spotify.com/artist/6R3rTZKnYFiwYemGqq3xuZ"
-        },
-        {
-          "name": "PJ Nacional",
-          "url": "https://open.spotify.com/artist/3iPm1suJUUUeqb5qLGOcri"
-        },
-        {
-          "name": "Frei, Luiz Carlos Susin",
-          "url": "https://open.spotify.com/artist/3JIlrSAdqLeUQJhz1l6yiI"
-        },
-        {
-          "name": "DJ J\u00e2nio Suzuki",
-          "url": "https://open.spotify.com/artist/0XmkNmztKLMaD5VBN3jYXA"
-        },
-        {
-          "name": "Grupo Musical Mensageiros de Cristo",
-          "url": "https://open.spotify.com/artist/4AdjVTxcrJbzM8zUZRbZJG"
         }
       ],
-      "duration_ms": 177519,
-      "name": "Deus \u00e9 Amor, Arrisquemos",
-      "url": "https://open.spotify.com/track/2cAzEICXKmChQqVln8xC8l"
+      "duration_ms": 180000,
+      "name": "Ruah, Vento de Deus - Padre Jucinei Vilpert Natal CSJ Remix",
+      "url": "https://open.spotify.com/track/33896eXL0XhGPH1OvpB9rB"
     },
     {
       "added_at": "2025-08-29 03:01:05",

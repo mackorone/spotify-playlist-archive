@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 77648,
+  "num_followers": 77668,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -11,18 +11,22 @@
     {
       "added_at": "2025-08-20 03:11:47",
       "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 201869,
-      "name": "Ring Ring Ring",
-      "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
     },
     {
       "added_at": "2025-08-20 03:11:47",
@@ -43,22 +47,18 @@
     {
       "added_at": "2025-08-20 03:11:47",
       "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 177598,
-      "name": "luther (with sza)",
-      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+      "duration_ms": 201869,
+      "name": "Ring Ring Ring",
+      "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
     },
     {
       "added_at": "2025-08-20 03:11:47",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-08-20 03:11:47",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 201028,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW"
-    },
-    {
-      "added_at": "2025-08-20 03:11:47",
-      "album": {
         "name": "Nasty",
         "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 176027,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
+    },
+    {
+      "added_at": "2025-08-20 03:11:47",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 201028,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW"
     },
     {
       "added_at": "2025-08-20 03:11:47",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-08-20 03:11:47",
       "album": {
-        "name": "Sweet Serotonin",
-        "url": "https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 181310,
-      "name": "Sweet Serotonin",
-      "url": "https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa"
-    },
-    {
-      "added_at": "2025-08-20 03:11:47",
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 344680,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
+    },
+    {
+      "added_at": "2025-08-20 03:11:47",
+      "album": {
+        "name": "Sweet Serotonin",
+        "url": "https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 181310,
+      "name": "Sweet Serotonin",
+      "url": "https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa"
     },
     {
       "added_at": "2025-08-20 03:11:47",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-08-20 03:11:47",
       "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg"
+    },
+    {
+      "added_at": "2025-08-20 03:11:47",
+      "album": {
         "name": "ONE CALL",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 158712,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
-    },
-    {
-      "added_at": "2025-08-20 03:11:47",
-      "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg"
     },
     {
       "added_at": "2025-08-20 03:11:47",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-08-20 03:11:47",
       "album": {
-        "name": "4EVER",
-        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 159595,
-      "name": "4EVER",
-      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
-    },
-    {
-      "added_at": "2025-08-20 03:11:47",
-      "album": {
         "name": "Drown",
         "url": "https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 234055,
       "name": "Drown",
       "url": "https://open.spotify.com/track/0r3EjWduZ249mBlXAfcHyL"
+    },
+    {
+      "added_at": "2025-08-20 03:11:47",
+      "album": {
+        "name": "4EVER",
+        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 159595,
+      "name": "4EVER",
+      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
     },
     {
       "added_at": "2025-08-20 03:11:47",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2025-08-20 03:11:47",
       "album": {
-        "name": "Twisting (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/4IXE89h8jk4cKXBzpXAIvE"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 225613,
-      "name": "Twisting (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj"
-    },
-    {
-      "added_at": "2025-08-20 03:11:47",
-      "album": {
         "name": "Rolling Stone",
         "url": "https://open.spotify.com/album/4HqdElx5myiCasQwHkh82T"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 195789,
       "name": "Be There Still",
       "url": "https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd"
+    },
+    {
+      "added_at": "2025-08-20 03:11:47",
+      "album": {
+        "name": "Twisting (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/4IXE89h8jk4cKXBzpXAIvE"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Twisting (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj"
     },
     {
       "added_at": "2025-08-20 03:11:47",

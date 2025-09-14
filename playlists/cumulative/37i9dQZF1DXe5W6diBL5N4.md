@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: IU\(아이유\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-13,547 songs - 32 day 7 hr 14 min
+13,548 songs - 32 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9469,7 +9469,7 @@
 | [Selfish](https://open.spotify.com/track/30YISPDrtL9xKLbDRFUkzd) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Selfish](https://open.spotify.com/album/0isgsltrKdElJbFS6Fj1LF) | 3:03 | 2025-06-04 | 2025-06-17 |
 | [Selfish \(Feat\. Jay Kim\)](https://open.spotify.com/track/26LCUA3aZ6rNh81697CeBE) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [Jay Kim](https://open.spotify.com/artist/6imBIUT38VebSD6K6N6cN6) | [Selfish](https://open.spotify.com/album/5kPeLQPXeICtwHrNR5Jc0I) | 3:21 | 2023-07-20 | 2023-08-10 |
 | [Selfish Love \(feat\. Ashley Alisha\)](https://open.spotify.com/track/6C7MxXUzaIwheATX8SMfGX) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [This Love](https://open.spotify.com/album/2VWWFozeHHk4fUvkzYFczj) | 3:01 | 2022-11-14 | 2022-12-22 |
-| [SELL FISH](https://open.spotify.com/track/2HSGx5SqDT8eFEnobRdWA7) | [A.TRAIN](https://open.spotify.com/artist/7D0HzqgqyXHSl3Vp4EC1EL) | [SELL FISH](https://open.spotify.com/album/0yRg8FTZYlmw8722Ib5Vij) | 4:49 | 2025-09-12 |  |
+| [SELL FISH](https://open.spotify.com/track/2HSGx5SqDT8eFEnobRdWA7) | [A.TRAIN](https://open.spotify.com/artist/7D0HzqgqyXHSl3Vp4EC1EL), [THE FISHERS](https://open.spotify.com/artist/3pKZscz7dIOmW5wef86SID) | [SELL FISH](https://open.spotify.com/album/0yRg8FTZYlmw8722Ib5Vij) | 4:49 | 2025-09-12 |  |
 | [SEMICOLON](https://open.spotify.com/track/0w65CzzSEWuafT4YHh3RTy) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [SEMICOLON](https://open.spotify.com/album/6o04cBEAl6iWnNRYxCnQO3) | 4:00 | 2024-12-10 | 2025-01-02 |
 | [SEMO](https://open.spotify.com/track/62fjokPuIIPNyCAkhWX4nU) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [SEMO](https://open.spotify.com/album/2d2u8JNauEHnPNMk5VmZTd) | 2:56 | 2023-09-28 | 2023-11-11 |
 | [Sencha](https://open.spotify.com/track/7AcZspBwRxAlLVU6SE3OpX) | [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [Sencha](https://open.spotify.com/album/78c2BmxmV4JhmgFkg8q2eo) | 2:50 | 2024-01-22 | 2024-03-14 |
@@ -11739,6 +11739,7 @@
 | [Variations and Fugue on a Theme by Handel, Op\. 24: Var\. 5 \(Espressivo\)](https://open.spotify.com/track/6GnbdIWcPdTIItr6GZP9u0) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Brahms: Variations and Fugue on a Theme by Handel, Op\. 24: Var\. 5 \(Espressivo\)](https://open.spotify.com/album/76qcC6SFUTAqwi1fxrRfEk) | 0:56 | 2023-01-06 | 2023-02-01 |
 | [VEGAS](https://open.spotify.com/track/0vv47eMJbQtZT9qBAE4hRX) | [Juncoco](https://open.spotify.com/artist/1VO8DNH2pIBgyrjNz9V7Td), [Route 1](https://open.spotify.com/artist/2LT18ID3Rygm7n13gZBny2) | [VEGAS](https://open.spotify.com/album/6DRYfG06JPxFU9KgKVVIxM) | 3:36 | 2023-05-29 | 2023-08-10 |
 | [VEIL](https://open.spotify.com/track/6TO1ByuAUW8xUwilXhSY6J) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [VEIL](https://open.spotify.com/album/7400fy7VotUGmiwjtGbH5J) | 3:18 | 2022-11-07 | 2022-12-22 |
+| [Veil](https://open.spotify.com/track/3s0eqXMoij2RmAz2qiN3Bq) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Veil](https://open.spotify.com/album/245a7QKvETcXIn3iilhU3T) | 2:52 | 2025-09-13 |  |
 | [Vein \- 2023 BAND VERSION](https://open.spotify.com/track/2atbd5rnb7DEHzAh2R5AP8) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [SWIPE ME RIGHT \(2023 BAND VER.\)](https://open.spotify.com/album/7pbUMHC83x9AUtsYYEC5Sc) | 4:15 | 2023-03-28 | 2023-05-03 |
 | [Vending Machine 2049](https://open.spotify.com/track/4ujyol8zpSjgyDQ0SNm5eK) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ) | [y=f\(x\)](https://open.spotify.com/album/4UXrhNNaCxUEkCgJqOcpPA) | 3:05 | 2023-03-22 | 2023-04-02 |
 | [Venice Calle](https://open.spotify.com/track/0P0d6FdDTKGAC8sgqOEMIw) | [Standard1](https://open.spotify.com/artist/1ApMXttgfE896QxynNL0MB) | [Venice Calle](https://open.spotify.com/album/3zLp95jSHy71DRg7QMc9SO) | 3:40 | 2022-05-11 | 2022-05-28 |

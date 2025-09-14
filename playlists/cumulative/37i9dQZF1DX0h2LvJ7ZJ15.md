@@ -4,7 +4,7 @@
 
 > slowed, reverbed, chopped and screwed.
 
-248 songs - 13 hr 47 min
+249 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [controlla \- slowed + reverb](https://open.spotify.com/track/6RSQeyP04RWrZagVQbrvLj) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [controlla \- slowed + reverb](https://open.spotify.com/album/6XEaL0Xu7ZiYQQAs5RIfgz) | 1:18 | 2022-04-01 | 2022-05-17 |
 | [Could Be Friends \- Slowed](https://open.spotify.com/track/5RNfYbSht0gQR6ZldRPQoy) | [$avage KD](https://open.spotify.com/artist/125r6N80whxIEzOb4maM01) | [Could Be Friends \(Slowed\)](https://open.spotify.com/album/4enBTTztoGlCzQ65ahJdRX) | 4:00 | 2021-11-12 | 2023-12-09 |
 | [CRYSTALS \(Slowed\)](https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1) | [PR1SVX](https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP) | [CRYSTALS \(Remixes\)](https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5) | 1:15 | 2023-06-01 | 2025-01-23 |
-| [CUTE DEPRESSED \- SLOWED VERSION](https://open.spotify.com/track/0gALPCrSYb7vW8PDcbvzmU) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED \(ALL VERSIONS\)](https://open.spotify.com/album/64CIZ10gxcp0WGZmVV4B0c) | 2:01 | 2024-04-05 |  |
+| [CUTE DEPRESSED \- SLOWED VERSION](https://open.spotify.com/track/0gALPCrSYb7vW8PDcbvzmU) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED \(ALL VERSIONS\)](https://open.spotify.com/album/64CIZ10gxcp0WGZmVV4B0c) | 2:01 | 2024-04-05 | 2025-09-14 |
 | [Dandelions \- slowed + reverb](https://open.spotify.com/track/6cii6vbf1gITzGEpDrc5BP) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Dandelions \(slowed + reverb\)](https://open.spotify.com/album/1UtDjgbJnpqtAhfeMrb4Qm) | 4:28 | 2023-07-13 |  |
 | [Dandelions \- slowed + reverb](https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Dandelions \(slowed + reverb\)](https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj) | 4:28 | 2021-10-01 | 2023-07-18 |
 | [Daylight \- Slowed + Reverb](https://open.spotify.com/track/0hy0avC3ZHXuSmob8ymMXD) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight \(Reimagined\)](https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ) | 3:55 | 2023-09-21 | 2025-04-14 |
@@ -113,6 +113,7 @@
 | [go \- Lower & Slower](https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 3:44 | 2022-08-12 | 2023-12-09 |
 | [Golden Brown \- Slowed Down Version](https://open.spotify.com/track/612bl0KHzyyxEhPzuMqM6e) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Golden Brown](https://open.spotify.com/album/6B9W97yJuTQvYL1ImrJJ6u) | 4:08 | 2025-09-11 |  |
 | [Good Ones \- Perfume Genius Remix](https://open.spotify.com/track/0S986gqvIWWdZzTKZGqKfU) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Good Ones \(Perfume Genius Remix\)](https://open.spotify.com/album/0fF3b80mTfc9IXeSATBX0u) | 3:23 | 2021-12-10 | 2023-12-09 |
+| [Goth \(Slowed + Reverb\)](https://open.spotify.com/track/2AoXXli5UxkavZn7QweHsz) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [Goth \(Slowed + Reverb\)](https://open.spotify.com/album/2cu8b9WLmyDoK0mLwfhysh) | 4:12 | 2025-07-15 |  |
 | [green to blue \- slowed + reverbed](https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [green to blue \(slowed + reverbed\)](https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s) | 3:07 | 2023-01-12 |  |
 | [Hands up! \- Slowed](https://open.spotify.com/track/1cbDFtFwFk3iyYOgnuxNT4) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Hands up! \(The Remix\)](https://open.spotify.com/album/07YCL9cU3GuKxXQucJsKap) | 2:38 | 2023-09-21 | 2025-05-23 |
 | [Hands up! \- Slowed](https://open.spotify.com/track/5QysgWndNifZvQ6RSjZVcZ) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Hands up! \(Slowed\)](https://open.spotify.com/album/4MRoilt5EIy78XbiemIdfZ) | 2:38 | 2023-06-01 | 2023-11-06 |

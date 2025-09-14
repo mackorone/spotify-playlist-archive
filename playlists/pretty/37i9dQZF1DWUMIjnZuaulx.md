@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Dante Bowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,575 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,620 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [What You Say](https://open.spotify.com/track/1XtXq1jLfniQvKaMq3mrl4) | [Jay Todd](https://open.spotify.com/artist/5MsEDRnwrD69LtmZuBtu3A) | [What You Say](https://open.spotify.com/album/5lAQXXoTAz4GVwYxLsjuVw) | 4:53 |
 | 100 | [Better than Life \- Live](https://open.spotify.com/track/4MrCvonLoLGsQZpu69EJaz) | [Vizion Worship](https://open.spotify.com/artist/50U7PStTJa45DXDnGt6Cy0), [Katrina Houston](https://open.spotify.com/artist/10yRCRMqHkgFSSrXEcJqeE) | [Better than Life \(Live\)](https://open.spotify.com/album/4zcsi3YBVPTItEHMOyvguC) | 4:20 |
 
-Snapshot ID: `AAAAAFljIExeWYleJvF3Mei8SgThpALD`
+Snapshot ID: `AAAAAOP85p0PlG4/QfsbdjAyxVclpYW1`

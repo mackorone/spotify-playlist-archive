@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > The vibes start here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,337 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,381 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 10 | [Hit & Run \(feat\. Masicka & Di Genius\)](https://open.spotify.com/track/0ZozwNxlrIRfBAhAibtM4M) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:49 |
 | 11 | [Dansa](https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6) | [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Sal Gason](https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0) | 2:18 |
 | 12 | [Whine & Kotch](https://open.spotify.com/track/5o5yQsdZblzaqzgBFDVJTv) | [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Whine & Kotch](https://open.spotify.com/album/6rWFf1oVidy2nKpf1w53bQ) | 3:37 |
-| 13 | [The Greatest Bend Over \(Take It Easy\)](https://open.spotify.com/track/5eCp47PfcZy61mDNdCZz1X) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [The Greatest Bend Over \(Take It Easy\)](https://open.spotify.com/album/2FTBVtk2epsaWph60TJBPL) | 2:50 |
-| 14 | [Turn Me On](https://open.spotify.com/track/0RmXtDH1cBMGImRrmn5xL6) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [Turn Me On \(Online Music\)](https://open.spotify.com/album/4SxJ71noA4wcd03JfJVkKT) | 3:12 |
+| 13 | [Turn Me On](https://open.spotify.com/track/0RmXtDH1cBMGImRrmn5xL6) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [Turn Me On \(Online Music\)](https://open.spotify.com/album/4SxJ71noA4wcd03JfJVkKT) | 3:12 |
+| 14 | [The Greatest Bend Over \(Take It Easy\)](https://open.spotify.com/track/5eCp47PfcZy61mDNdCZz1X) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [The Greatest Bend Over \(Take It Easy\)](https://open.spotify.com/album/2FTBVtk2epsaWph60TJBPL) | 2:50 |
 | 15 | [So Mi Like It](https://open.spotify.com/track/6rgSSesTJGyjQuvx06l3jU) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [10](https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP) | 2:34 |
 | 16 | [Bruk off Yuh Back](https://open.spotify.com/track/2O8oFfQOzt6Q9G69XBQdIG) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Bruk off Yuh Back](https://open.spotify.com/album/1yDKRNLbUWFF68muRwElC0) | 2:53 |
 | 17 | [Wah Yo Deh Pan](https://open.spotify.com/track/4vLRSAGR6yNXVLaFmTS8jI) | [Ayetian](https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39), [Nvtzz](https://open.spotify.com/artist/05o8XSOOdWrBMeOKefCTrf) | [Wah Yo Deh Pan](https://open.spotify.com/album/2hJ0zvvkrvINhecK5uRW75) | 2:22 |
-| 18 | [Tempted To Touch](https://open.spotify.com/track/0ENQCg0FziqV4VB9U2xTf5) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Soca Gold 2003](https://open.spotify.com/album/5Eg7rfQh9NtDvffZ1yyyyP) | 3:32 |
-| 19 | [Rich Sex](https://open.spotify.com/track/7tnE1N6Cf5l9Z17h3C34xQ) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Rich Sex](https://open.spotify.com/album/5lB6dD6uOkcuR7jdEMuoCb) | 2:44 |
+| 18 | [Rich Sex](https://open.spotify.com/track/7tnE1N6Cf5l9Z17h3C34xQ) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Rich Sex](https://open.spotify.com/album/5lB6dD6uOkcuR7jdEMuoCb) | 2:44 |
+| 19 | [Tempted To Touch](https://open.spotify.com/track/0ENQCg0FziqV4VB9U2xTf5) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Soca Gold 2003](https://open.spotify.com/album/5Eg7rfQh9NtDvffZ1yyyyP) | 3:32 |
 | 20 | [One Man \- Raw](https://open.spotify.com/track/0JHEnd78AYUatG7BYcP6IZ) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Adidjaheim Records Presents Introducing Vanessa Bling As Gaza Slim \(feat\. Vybz Kartel\)](https://open.spotify.com/album/3qSkwHeSBwlTttflXNZS2q) | 2:56 |
 | 21 | [Cocoa Tea](https://open.spotify.com/track/1x89dD1bENfCHL6MiZurDI) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Cocoa Tea](https://open.spotify.com/album/4bKlTsxPKoojrBks3j7JSL) | 3:31 |
 | 22 | [She's Royal](https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Parables](https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 49 | [Ignite the World](https://open.spotify.com/track/4y4C4B2g9S7Ui2QT8aFIj6) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Ignite the World \- Single](https://open.spotify.com/album/6JINQjFUePDsCO92qWuz8F) | 3:09 |
 | 50 | [So Special](https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Mr\. Brooks...A Better Tomorrow](https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB) | 2:58 |
 
-Snapshot ID: `AAAAAHxOKS52uit3u1Ki1TTV+f3FG2y9`
+Snapshot ID: `AAAAAPTS8yzdSAATQKLyKUf2r4d46V86`

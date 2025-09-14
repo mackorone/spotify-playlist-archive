@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Diego & Victor Hugo com NATTAN, Ivete Sangalo, Clayton & Romário e muito mais!
 
-15,702 songs - 33 day 6 hr 2 min
+15,704 songs - 33 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [Abraça\-Me \- Ao Vivo](https://open.spotify.com/track/5qXn94jTUxbFGIDdJRmQzv) | [ZeZé Di Camargo](https://open.spotify.com/artist/1wT33JDD3YLC0fqFnsWo9F) | [Rústico \- EP 1 \(Ao Vivo\)](https://open.spotify.com/album/6E9KXABonOSuK2moEnEsCn) | 3:23 | 2023-08-04 | 2023-08-12 |
 | [Abre A Mente \- Ao Vivo Em Brasília](https://open.spotify.com/track/4KUj5wxJuY9Nf7L6guRxrU) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília EP4\)](https://open.spotify.com/album/4J251d8QDdjYABrjPImSTy) | 3:10 | 2023-06-09 | 2023-06-17 |
 | [Abre a Porteira \- Ao Vivo](https://open.spotify.com/track/6ta63H6eRVHtMIn2s0gauX) | [Bruno & Barretto](https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Abre a Porteira \(Ao Vivo\)](https://open.spotify.com/album/3CzXeHa2oI4IinsC4VpH7g) | 3:23 | 2023-10-06 | 2023-10-14 |
+| [Abre e Fecha](https://open.spotify.com/track/1wVECSZVUPJwiQ9coDKtEx) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50), [FP do Trem Bala](https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR) | [Abre e Fecha](https://open.spotify.com/album/6Upjd7GXRdGmlz2IkvnkRK) | 1:44 | 2025-09-12 |  |
 | [Abrigo](https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe) | [Abrigo](https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs) | 2:46 | 2025-08-15 | 2025-08-23 |
 | [Absorve a Visão](https://open.spotify.com/track/6wc9RtolEjOcM5o57jEZFS) | [Dj Rhuivo](https://open.spotify.com/artist/16nxxy3xbRtRtcK7buR2PQ), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT) | [Absorve a Visão](https://open.spotify.com/album/4xeacjg7w5Csb1HkFj2c2L) | 2:36 | 2022-04-15 | 2022-04-23 |
 | [Absorvendo Tudo](https://open.spotify.com/track/5Ppn6TF1mFx5hEiRpjxEfY) | [Cruvinel](https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW) | [ABSORVENDO TUDO](https://open.spotify.com/album/4LE3dTrNjyxSWqk7pHjFZv) | 2:35 | 2023-11-17 | 2023-11-25 |
@@ -597,6 +598,7 @@
 | [Ai Gostoso](https://open.spotify.com/track/50TYKfrLCPChY0QJIl2T8p) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8) | [Ai Gostoso](https://open.spotify.com/album/6O5eUvwO0u2SdaHG1WfBdg) | 2:49 | 2022-12-02 | 2022-12-10 |
 | [Ai Minha Larissinha](https://open.spotify.com/track/0DB49f88cyB9sYYQMaPBEt) | [A Travestis](https://open.spotify.com/artist/00Jb0oU8RUPJgKTWKsNCxw) | [Ai Minha Larissinha](https://open.spotify.com/album/0ZHEJIji5yjOSEoGbiulrM) | 3:01 | 2023-10-06 | 2023-10-14 |
 | [Ai Ontem Eu Bebi](https://open.spotify.com/track/5gICKRlsKIviZkLxkyH82G) | [Carvalho & Mariano](https://open.spotify.com/artist/7EkGQhqB3UrQBVoFIZzA3a) | [Ai Ontem Eu Bebi](https://open.spotify.com/album/1txjO0mXJSqNnXfhsVReM2) | 2:56 | 2023-05-05 | 2023-05-13 |
+| [Ai Onti Eu Bebi \- Ao Vivo](https://open.spotify.com/track/443gJHPdgcnrTtoxAWgLtF) | [Bruno Cesar e Rodrigo](https://open.spotify.com/artist/1LKDfxZdebmgWG4qSR7hO9) | [Sofredores Entenderão, EP.1 \(Ao Vivo\)](https://open.spotify.com/album/1acW97ZMuawXRvwOGP92QM) | 2:25 | 2025-09-12 |  |
 | [Ai Papi](https://open.spotify.com/track/6l6RuG9usSZXu2s0NsyLWe) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Ai Papi](https://open.spotify.com/album/5q36s9vwucIs4XKp03mNVv) | 2:38 | 2022-09-02 | 2022-09-10 |
 | [Ai Papi](https://open.spotify.com/track/2e7a4odH1FkMKAPGFRxkaO) | [Pizzolo](https://open.spotify.com/artist/4OHphxLRxjo5L6Y09rp50a), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi) | [Ai Papi](https://open.spotify.com/album/4Izv8PBQCEl7emlpB4mbir) | 3:08 | 2023-08-04 | 2023-08-12 |
 | [Ai Que Calor](https://open.spotify.com/track/4T8ox558vnY7tCdWvdOhan) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:24 | 2024-11-08 | 2024-11-16 |

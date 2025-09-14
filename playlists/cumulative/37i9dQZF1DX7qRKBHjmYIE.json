@@ -4273,6 +4273,24 @@
     },
     {
       "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/6qqLIWRr9XpxuqZiWRM5Zr"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174150,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/7ocNC8jszuZKlwz7vvgI7R"
+    },
+    {
+      "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/7pFnghxBLJx78ZDRUSkEYy"
       },
@@ -13238,7 +13256,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 223910,
       "name": "Q.I.S - feat. maye",
       "url": "https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt"

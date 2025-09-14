@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 
 > Le son des chichas !
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,489 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,563 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 | 39 | [TI TI TI](https://open.spotify.com/track/6ob9uKyryapebruQXDzIlu) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [TI TI TI](https://open.spotify.com/album/4xAALJ2WaDy2IhJUaXPPfP) | 3:20 |
 | 40 | [Totopika](https://open.spotify.com/track/3Tl3NwVX0ndMY3jcPaFoVm) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [En Attendant Paphos](https://open.spotify.com/album/04shx6Zxkh6JEoln4IX1Me) | 2:19 |
 
-Snapshot ID: `AAAAAFaTajwlFAUy62A8odWhvOa6cJlC`
+Snapshot ID: `AAAAAGV3axFX57+sEHS2A5V0Zl59lIG5`

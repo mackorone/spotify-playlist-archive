@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 72 | [Bunun Adı Aşk](https://open.spotify.com/track/0xTaRDcnPxUujOw5QiPhF7) | [Düşgezer](https://open.spotify.com/artist/4ocqexTJMtJOJ0IEytggmJ) | [Bunun Adı Aşk](https://open.spotify.com/album/0SZ88Gcbaydn4RlKgZoIiG) | 3:34 |
 | 73 | [Güneş Yerinde Güzel](https://open.spotify.com/track/6uTXl0duKVtr6yCLBWuUnz) | [Kanvas](https://open.spotify.com/artist/3uNuQ2i7KBY08OJ6XDZyeR) | [Güneş Yerinde Güzel](https://open.spotify.com/album/3LkZ1Kddrrifxkv0b1w2fM) | 3:04 |
 
-Snapshot ID: `AAAAAAVubkPjmii95OfzUTj4+0Z2iQEY`
+Snapshot ID: `AAAAALAoCveUkLJ3Fsg1bHtZcP4GrG+X`

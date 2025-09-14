@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 110,075 likes - 124 songs - 5 hr 23 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 110,057 likes - 125 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,5 +132,6 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 122 | [Ain't No Sunshine](https://open.spotify.com/track/667TakUrGfXAZCjnlvzVs4) | [Tim Olsson](https://open.spotify.com/artist/3efoFjvdNKj8La91WgFA1j) | [Ain't No Sunshine](https://open.spotify.com/album/0yKxr7LyQBSUh8XhTrdxL7) | 2:25 |
 | 123 | [Edge of Desire \- Grigoré & Serve Cold Remix](https://open.spotify.com/track/1c6RdSyRJhMYQkSU6LUQEn) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX), [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm) | [Edge of Desire \(Grigoré & Serve Cold Remix\)](https://open.spotify.com/album/70zilcYKAum6da4NKWVkDE) | 3:24 |
 | 124 | [The One](https://open.spotify.com/track/0dyChP0JnFXTjSIqdpRPbE) | [Avista Band](https://open.spotify.com/artist/4V0OLM23lX2E4Wt5HhXU6Q) | [The One](https://open.spotify.com/album/64dVOoGX2ItgKr8Js8f2Gv) | 2:46 |
+| 125 | [Back To Life](https://open.spotify.com/track/7aTVdaOk1WISfbuTVJw8EG) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v), [Le Bok](https://open.spotify.com/artist/29FYBcFeHQ8z432memmfvF), [ay\-Mill](https://open.spotify.com/artist/6GyEey05kfps6PpzxapBcY) | [Back To Life](https://open.spotify.com/album/2xXaPI29IwS1St0SP7uvjk) | 2:43 |
 
-Snapshot ID: `AAAhORK0PjrCeCloqiQx6JrF4SGm0GRP`
+Snapshot ID: `AAAhOgoE7KD8ue0inKrnNQe9u/kk3cZd`

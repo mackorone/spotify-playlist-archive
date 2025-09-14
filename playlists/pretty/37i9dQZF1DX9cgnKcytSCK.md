@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cgnKcytSCK.md) - [plain]
 
 > Music from the world of Sinners, now in theaters\. Curated by Ryan Coogler and Ludwig Göransson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,396 likes - 71 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,454 likes - 71 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cgnKcytSCK.md) - [plain]
 | 15 | [In Moonlight](https://open.spotify.com/track/5gaVFfAVePRWLqotvH1cb1) | [Jerry Cantrell](https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 4:21 |
 | 16 | [Travelin'](https://open.spotify.com/track/0DFc5GuX8VG95HBbzebVby) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 1:09 |
 | 17 | [Last Time \(I Seen the Sun\)](https://open.spotify.com/track/7MEpmTSCARpgFdj2Q9Q2d6) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw), [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 3:17 |
-| 18 | [Sinners](https://open.spotify.com/track/4uP6LhmRMU7FayUlkMaDOZ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 3:08 |
+| 18 | [Sinners](https://open.spotify.com/track/4uP6LhmRMU7FayUlkMaDOZ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 3:08 |
 | 19 | [Troubled Waters / Homesick](https://open.spotify.com/track/67OS2zUpPpLtJDt02yOxiw) | [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr), [Uncle James](https://open.spotify.com/artist/4W3GoXL0mb3A0CHNbPWC58), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 4:15 |
 | 20 | [Pale, Pale Moon](https://open.spotify.com/track/3zYGlW1wIrpbo9vG79ZfMn) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 5:01 |
 | 21 | [I Lied to You \(Radio Edit\)](https://open.spotify.com/track/6cXuJmJcjV7aa0rRHtAkuK) | [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 2:54 |

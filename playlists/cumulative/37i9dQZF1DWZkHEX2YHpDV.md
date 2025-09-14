@@ -4,7 +4,7 @@
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Yellowcard
 
-1,406 songs - 3 day 2 hr 12 min
+1,407 songs - 3 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -801,6 +801,7 @@
 | [Messed Up Summer](https://open.spotify.com/track/7sGY4Alflf7Y9RUhRFHo1b) | [Nevrlands](https://open.spotify.com/artist/1DNIohNOTsWcoNmp5sx3yx) | [Messed Up Summer](https://open.spotify.com/album/3yhBG5JKxaaH2XOigzL7gH) | 3:20 | 2021-12-10 | 2022-07-12 |
 | [Midnight Thoughts](https://open.spotify.com/track/0rJzsc89WVFLnFEeksmOZO) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Midnight Thoughts](https://open.spotify.com/album/4ArNx4hVW0qUGlLORpmnnE) | 2:57 | 2022-03-25 | 2022-04-20 |
 | [migration patterns](https://open.spotify.com/track/3oEEFMm9zcTyjhvKWMGoxz) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2) | [migration patterns](https://open.spotify.com/album/3EoHlEOAFafYIHY1fGLYLF) | 3:35 | 2025-04-18 | 2025-08-16 |
+| [Mike Nolan’s Long Weekend ft\. Dom Fox](https://open.spotify.com/track/2lTwwQcnBQlh0d4Ipshbkl) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc), [Bad Luck.](https://open.spotify.com/artist/4Hjb6XIYNt5Qkokl30luY9) | [Mike Nolan’s Long Weekend ft\. Dom Fox](https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ) | 3:34 | 2025-09-12 |  |
 | [Mindreader](https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Mindreader](https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ) | 2:53 | 2021-12-10 | 2022-02-12 |
 | [Mine to Mold](https://open.spotify.com/track/38j5PEWq2xFnv69Ewhfikt) | [Forever Came Calling](https://open.spotify.com/artist/3LqgxOMfONGBf034jekl9H) | [Retro Future](https://open.spotify.com/album/6nxMLwYLNiyyTuGGiIJYpf) | 2:48 | 2022-03-25 | 2022-04-18 |
 | [Miracle](https://open.spotify.com/track/2ah5gOCogw00A62XBoepmc) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Miracle](https://open.spotify.com/album/7sobDr1V7BbSF0mkJOOGj3) | 4:03 | 2022-11-04 | 2022-12-03 |
@@ -1339,7 +1340,7 @@
 | [What's An Hour Really Worth](https://open.spotify.com/track/2ynVwAfLqk8GLXf4W95OMf) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [What's An Hour Really Worth](https://open.spotify.com/album/23NuSKPDQnvMwLJjcDTmjR) | 3:33 | 2024-05-14 | 2024-10-20 |
 | [What's Left of Me](https://open.spotify.com/track/0G3ZCzAYZD29pzb3eH28Cy) | [Percy Bluu](https://open.spotify.com/artist/2PmcmJA18f9Pa9gT440EYy) | [What's Left of Me](https://open.spotify.com/album/2zf2xViTgY8tVjscTiysVA) | 3:14 | 2021-12-10 | 2022-07-25 |
 | [Whatever, Who Cares](https://open.spotify.com/track/5NlkbhyJBy2WNJsl4hHpIB) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [Whatever, Who Cares](https://open.spotify.com/album/1nAB5FeTy2zIHu3AEdlZtk) | 2:55 | 2022-08-05 | 2022-10-01 |
-| [When We Were Young](https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [When We Were Young](https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R) | 3:11 | 2024-01-19 |  |
+| [When We Were Young](https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [When We Were Young](https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R) | 3:11 | 2024-01-19 | 2025-09-14 |
 | [When We Were Young \(feat\. Jaret Reddick of Bowling For Soup\)](https://open.spotify.com/track/5Ia75Gb9IdPKsAuU7v93PL) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK), [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [When We Were Young \(feat\. Jaret Reddick of Bowling For Soup\)](https://open.spotify.com/album/40R60muWYyAVfngs2hVZfj) | 2:59 | 2024-04-12 | 2024-10-12 |
 | [When You Know](https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:09 | 2022-07-08 | 2023-04-11 |
 | [When You Know](https://open.spotify.com/track/5nPGjh9lVIhIoFUjegFhNS) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [When You Know](https://open.spotify.com/album/2c4dPbcVvPWZ31RkrSdZe4) | 3:09 | 2021-12-10 | 2022-07-29 |

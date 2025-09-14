@@ -1,6 +1,6 @@
 {
   "description": "Roses are red, violet are blue, its been fun but i'm leaving you. \n",
-  "num_followers": 96346,
+  "num_followers": 96323,
   "original_name": "Breakup Szn",
   "owner": {
     "name": "Spotify",
@@ -895,8 +895,8 @@
     {
       "added_at": "2025-05-21 13:36:44",
       "album": {
-        "name": "emails i can't send",
-        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+        "name": "Singular Act I",
+        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
       },
       "artists": [
         {
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 149890,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/6Alp15t6urC4opjJiyOqZu"
+      "duration_ms": 179226,
+      "name": "Sue Me",
+      "url": "https://open.spotify.com/track/3WVhkjB7Y4xFruqoCAajBb"
     },
     {
       "added_at": "2025-05-21 13:36:44",
@@ -959,38 +959,6 @@
     {
       "added_at": "2025-05-21 13:36:44",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/0lnIJmgcUpEpe4AZACjayW"
-    },
-    {
-      "added_at": "2025-05-21 13:36:44",
-      "album": {
-        "name": "Singular Act I",
-        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "Sue Me",
-      "url": "https://open.spotify.com/track/3WVhkjB7Y4xFruqoCAajBb"
-    },
-    {
-      "added_at": "2025-05-21 13:36:44",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/5duyQokC4FMcWPYTV9Gpf9"
       },
@@ -1003,6 +971,38 @@
       "duration_ms": 223266,
       "name": "Rumour Has It",
       "url": "https://open.spotify.com/track/5mFMb5OHI3cN0UjITVztCj"
+    },
+    {
+      "added_at": "2025-05-21 13:36:44",
+      "album": {
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 149890,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/6Alp15t6urC4opjJiyOqZu"
+    },
+    {
+      "added_at": "2025-05-21 13:36:44",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/0lnIJmgcUpEpe4AZACjayW"
     },
     {
       "added_at": "2025-05-21 13:36:44",

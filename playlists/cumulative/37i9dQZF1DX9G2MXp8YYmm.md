@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Göksel İpekçi x Safiye
 
-382 songs - 19 hr 12 min
+383 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Ne Olur](https://open.spotify.com/track/5jxxdNApkd5Uayjfqiv5lh) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Ne Olur](https://open.spotify.com/album/1tJGZnDCmzMhNpLfjnyvxg) | 2:11 | 2024-11-07 | 2025-01-03 |
 | [Neden Anlamadın Beni?](https://open.spotify.com/track/2Ai8HBSGn3KYyYFBemhf51) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Neden Anlamadın Beni?](https://open.spotify.com/album/2coCoZ06wAwafV4lUeJ8QO) | 2:16 | 2024-08-01 | 2024-09-06 |
 | [Nerdesin](https://open.spotify.com/track/0oPMxe6anF4Kw2SYEUpKDl) | [Etem](https://open.spotify.com/artist/7f9vInea1FeKnX1pCTHn1d), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Nerdesin](https://open.spotify.com/album/7pxOEGLoCaNNbnaJjOEtWM) | 3:52 | 2024-10-10 | 2024-11-10 |
+| [NERDEYDİN DE](https://open.spotify.com/track/60y3mXqJxzdUzeBxTdujnb) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si) | [NERDEYDİN DE](https://open.spotify.com/album/2mhL2Xts85wt0O8mLnYXSV) | 3:10 | 2025-09-04 |  |
 | [Nereye Kadar](https://open.spotify.com/track/0u3u0mGeWYU0h8tWin4ZCa) | [Ozbi](https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [Nereye Kadar](https://open.spotify.com/album/5PYBFjQAwPNuvrsyBKNyrT) | 2:55 | 2024-06-27 | 2024-07-12 |
 | [Neyleyim](https://open.spotify.com/track/4DP9EEtBGAzmsM8URT7MIw) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Neyleyim](https://open.spotify.com/album/7afUZVEM8lLALmNbi9ejgh) | 3:32 | 2025-09-04 | 2025-09-10 |
 | [NOLDUYSA OLDU](https://open.spotify.com/track/4JygvKkVjhgA2v5MNFqeEP) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [NOLDUYSA OLDU](https://open.spotify.com/album/2szyZK8995Knlb6krlCSw9) | 2:31 | 2024-09-05 | 2024-12-17 |
@@ -291,7 +292,7 @@
 | [Sersem](https://open.spotify.com/track/0ryZM7pn8qOvUxudgYSHwf) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Sersem](https://open.spotify.com/album/4VvzbhojIXrULSGsbdJeSR) | 2:52 | 2025-08-21 | 2025-09-02 |
 | [Sesini Duymadan](https://open.spotify.com/track/7rdh1nIXma6TGcAjUg73EP) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Eda Sakız](https://open.spotify.com/artist/43kof4zqki1s51xx3bX8wB) | [Sesini Duymadan](https://open.spotify.com/album/1inriD9tYt18qtoKy3lppN) | 2:53 | 2025-08-15 |  |
 | [Sesini Duymam Lazım](https://open.spotify.com/track/0RPc5Dd42QIxwXWWziBvCZ) | [Cem Belevi](https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg) | [CEMiyet Beach](https://open.spotify.com/album/29irqiFigkCaqcK5d5Feej) | 2:20 | 2024-07-18 | 2024-08-20 |
-| [Sessizim](https://open.spotify.com/track/3sHbx4dQJkdUTAxKkHMxTr) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Sessizim](https://open.spotify.com/album/2ma8ecolQnN4TFK9Gsu1JG) | 3:01 | 2024-06-27 |  |
+| [Sessizim](https://open.spotify.com/track/3sHbx4dQJkdUTAxKkHMxTr) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Sessizim](https://open.spotify.com/album/2ma8ecolQnN4TFK9Gsu1JG) | 3:01 | 2024-06-27 | 2025-09-14 |
 | [Sevda Treni](https://open.spotify.com/track/1E14MPC2yAEbABOqVf4U0n) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Sevda Treni](https://open.spotify.com/album/4emRxiAVJFfRSxf0erdzz4) | 2:32 | 2025-07-17 |  |
 | [Sevdam](https://open.spotify.com/track/1kxyTI6tIkozvTlLXaa4ER) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3), [Zehra](https://open.spotify.com/artist/2kdaYJfJVIGBaNcMmrg13p) | [Sevdam](https://open.spotify.com/album/1dz1wwRN1kFoxNCimPiDm6) | 3:11 | 2024-06-27 | 2025-02-07 |
 | [Seviyore Mi](https://open.spotify.com/track/03akFZOY1Gpe6gnBjq3ZzM) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Seviyore Mi](https://open.spotify.com/album/4wZIEKXg8VAFfFtgkH9MOw) | 2:22 | 2024-07-11 | 2024-07-24 |

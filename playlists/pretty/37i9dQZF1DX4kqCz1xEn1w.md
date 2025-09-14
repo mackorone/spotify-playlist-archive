@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,997 likes - 100 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,989 likes - 100 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Good Good Father](https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The Ultimate Playlist](https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2) | 4:53 |
-| 2 | [10,000 Reasons \(Bless The Lord\) \- Live](https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [10,000 Reasons \(Live\)](https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ) | 5:42 |
+| 2 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 |
 | 3 | [Good For Nothing](https://open.spotify.com/track/3VgboIL9HZRZN9umNXAV7r) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Good For Nothing](https://open.spotify.com/album/1zRobWXPx0e1cDbHihNfGR) | 3:28 |
-| 4 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 |
+| 4 | [10,000 Reasons \(Bless The Lord\) \- Live](https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [10,000 Reasons \(Live\)](https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ) | 5:42 |
 | 5 | [No Greater Love \- As Featured in the Film "The Last Supper"](https://open.spotify.com/track/5woxR7S0ZXk5RWS0kLYGLu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [No Greater Love \(As Featured in the Film "The Last Supper"\)](https://open.spotify.com/album/2x1WPk4KeLGQa4AKpL6rUJ) | 3:38 |
 | 6 | [Do It Again](https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:38 |
 | 7 | [God So Loved](https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 4:25 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 82 | [Long Live The King \- Live At The Grove](https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn) | 7:01 |
 | 83 | [Who Could \(Live\)](https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Faith And Wonder \(Live\)](https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj) | 5:59 |
 | 84 | [The Anchor \(Live\)](https://open.spotify.com/track/0NkwVfWRSsrBQlo6tE6nVA) | [Life Church Music](https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2) | [Greater Things](https://open.spotify.com/album/0XeC21BGINMRdZnaPQQNPx) | 6:18 |
-| 85 | [It is Finished \- Acoustic](https://open.spotify.com/track/1g6T53Cokac07tcUa4Bkma) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [It is Finished \(Acoustic\)](https://open.spotify.com/album/6ddWeLr7hPG7DYEupfECQI) | 3:19 |
+| 85 | [Sunday Morning \- Live](https://open.spotify.com/track/0CP1HpKqS9LpXl7ngd3A3u) | [Central Live](https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn) | [Sunday Morning \(Live\)](https://open.spotify.com/album/5eR7lMlo5QOIyfFuHvdbol) | 5:23 |
 | 86 | [Calvary's Cross](https://open.spotify.com/track/76WVzKc2G1HDMkx70U4Gmr) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [This Is Jesus](https://open.spotify.com/album/6ay87bBJ8ybv7xiIj4M0ks) | 5:17 |
-| 87 | [Sunday Morning \- Live](https://open.spotify.com/track/0CP1HpKqS9LpXl7ngd3A3u) | [Central Live](https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn) | [Sunday Morning \(Live\)](https://open.spotify.com/album/5eR7lMlo5QOIyfFuHvdbol) | 5:23 |
+| 87 | [It is Finished \- Acoustic](https://open.spotify.com/track/1g6T53Cokac07tcUa4Bkma) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [It is Finished \(Acoustic\)](https://open.spotify.com/album/6ddWeLr7hPG7DYEupfECQI) | 3:19 |
 | 88 | [Rolled Away](https://open.spotify.com/track/3xw2yhV13p82PA6P1bw1JA) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Hollow](https://open.spotify.com/album/2Mo9j3A6jzSQHxUhZ5bXad) | 4:51 |
 | 89 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 |
 | 90 | [Because He Lives \(Amen\) \- \[Live\]](https://open.spotify.com/track/0UIy96vF75u1ebFFmop49Y) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing Vol\. 2](https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk) | 3:49 |

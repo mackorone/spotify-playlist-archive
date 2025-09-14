@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 166198,
+  "num_followers": 166282,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Karyn White",
-        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
-      },
-      "artists": [
-        {
-          "name": "Karyn White",
-          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
-        }
-      ],
-      "duration_ms": 347453,
-      "name": "Superwoman",
-      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Superfly (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 233600,
       "name": "Superfly",
       "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "Karyn White",
+        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
+      },
+      "artists": [
+        {
+          "name": "Karyn White",
+          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
+        }
+      ],
+      "duration_ms": 347453,
+      "name": "Superwoman",
+      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
+        "name": "Extension of a Man",
+        "url": "https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Love, Love, Love",
+      "url": "https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
         "name": "Diana & Marvin (Expanded Edition)",
         "url": "https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 190440,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
-        "name": "Extension of a Man",
-        "url": "https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Love, Love, Love",
-      "url": "https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "Caught Up in the Rapture",
-      "url": "https://open.spotify.com/track/1Df1rxgMob1qQudexDEKuu"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Back To The Egg",
         "url": "https://open.spotify.com/album/3zMRSD0zUqopFPaoER2ODc"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 216693,
       "name": "Arrow Through Me - Remastered 1993",
       "url": "https://open.spotify.com/track/3NiYvMjp5A3FZmP3dojS8k"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "Caught Up in the Rapture",
+      "url": "https://open.spotify.com/track/1Df1rxgMob1qQudexDEKuu"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -987,6 +987,22 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
+        "name": "In A Special Way",
+        "url": "https://open.spotify.com/album/4TcXnypScHBMIwlVa1rGGa"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 225573,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5jlcCqsD7yJdwhZYAhoCFY"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
         "name": "Cold Blooded (Expanded Edition)",
         "url": "https://open.spotify.com/album/0OvSems3CIWCs2Tty0oO9B"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 307640,
       "name": "Ebony Eyes",
       "url": "https://open.spotify.com/track/71JkyCi11ETSz58jhgg2YE"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
-        "name": "In A Special Way",
-        "url": "https://open.spotify.com/album/4TcXnypScHBMIwlVa1rGGa"
-      },
-      "artists": [
-        {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
-        }
-      ],
-      "duration_ms": 225573,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5jlcCqsD7yJdwhZYAhoCFY"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
+        "name": "Giving You the Best That I Got",
+        "url": "https://open.spotify.com/album/2X4C9NBLaFtUSZLPqTC50W"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 333533,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/2MJl8m9AbWgXLq4Ku7wWCX"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
         "name": "Ask Rufus",
         "url": "https://open.spotify.com/album/3ZJJdnvxztzpOvwvzUzUxC"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 288373,
       "name": "Everlasting Love",
       "url": "https://open.spotify.com/track/6MlM7j7otOKpa0jFi8htxm"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
-        "name": "Giving You the Best That I Got",
-        "url": "https://open.spotify.com/album/2X4C9NBLaFtUSZLPqTC50W"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 333533,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/2MJl8m9AbWgXLq4Ku7wWCX"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Vicious & Fresh",
-        "url": "https://open.spotify.com/album/7HtRGLzPo0eC2wwPwXoYft"
-      },
-      "artists": [
-        {
-          "name": "Liz Hogue",
-          "url": "https://open.spotify.com/artist/6easnQDujkGyX9coigNSjm"
-        }
-      ],
-      "duration_ms": 357560,
-      "name": "Dream Lover",
-      "url": "https://open.spotify.com/track/6h637gCeeBs6cXYbJKoQZg"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Nossa Imagina\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9"
+        "name": "Vicious & Fresh",
+        "url": "https://open.spotify.com/album/7HtRGLzPo0eC2wwPwXoYft"
       },
       "artists": [
         {
-          "name": "Don Beto",
-          "url": "https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa"
+          "name": "Liz Hogue",
+          "url": "https://open.spotify.com/artist/6easnQDujkGyX9coigNSjm"
         }
       ],
-      "duration_ms": 216333,
-      "name": "Pensando Nela",
-      "url": "https://open.spotify.com/track/4FFDhzWVlhcg0Y6ujrYsm0"
+      "duration_ms": 357560,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/6h637gCeeBs6cXYbJKoQZg"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -1647,6 +1631,22 @@
       "duration_ms": 190520,
       "name": "Where There Is Love - Remastered",
       "url": "https://open.spotify.com/track/1HWOX9Er7FnEm9yuM7bTtj"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "Nossa Imagina\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9"
+      },
+      "artists": [
+        {
+          "name": "Don Beto",
+          "url": "https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Pensando Nela",
+      "url": "https://open.spotify.com/track/4FFDhzWVlhcg0Y6ujrYsm0"
     },
     {
       "added_at": "2025-06-03 20:18:35",

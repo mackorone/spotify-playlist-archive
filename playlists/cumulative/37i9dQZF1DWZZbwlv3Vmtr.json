@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "authentic",
+        "url": "https://open.spotify.com/album/0xkFrmV1bkv35DT6Xvb2gA"
+      },
+      "artists": [
+        {
+          "name": "MF Eistee",
+          "url": "https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101721,
+      "name": "authentic",
+      "url": "https://open.spotify.com/track/0oGXMJIvZAXEjpKNoFbpPi"
+    },
+    {
+      "album": {
         "name": "Autumn Colours",
         "url": "https://open.spotify.com/album/1MqZmJJ8PXsSc76DRVRotP"
       },
@@ -2758,7 +2776,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 112014,
       "name": "Chrome",
       "url": "https://open.spotify.com/track/69jaSWaSMN8g90yrPBBgbV"
@@ -6903,6 +6921,24 @@
     },
     {
       "album": {
+        "name": "Healing in HD",
+        "url": "https://open.spotify.com/album/2wGqWzAizybnHbqRXSNafS"
+      },
+      "artists": [
+        {
+          "name": "88keys",
+          "url": "https://open.spotify.com/artist/7K52AJqMzOyGW6ImM0w9yQ"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "Healing in HD",
+      "url": "https://open.spotify.com/track/6CTFQ7hQohx68uoMb7WZ0S"
+    },
+    {
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/2b4MQwic08GoiWdAoI76Q3"
       },
@@ -9789,6 +9825,24 @@
     },
     {
       "album": {
+        "name": "Luxurious Soul",
+        "url": "https://open.spotify.com/album/33TEJpZmVgMwxjeqy8NU3y"
+      },
+      "artists": [
+        {
+          "name": "bleubeats",
+          "url": "https://open.spotify.com/artist/17xtshp63CJcjSRpRowYMm"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169704,
+      "name": "Luxurious Soul",
+      "url": "https://open.spotify.com/track/4OkB2CMeDP0QHXU3xVQPdc"
+    },
+    {
+      "album": {
         "name": "Maca",
         "url": "https://open.spotify.com/album/7L6D24JOqqngMKQvknjWiA"
       },
@@ -11646,7 +11700,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 131420,
       "name": "Oboe on Jupiter",
       "url": "https://open.spotify.com/track/23NfXr1s9xe0xzAquqGmq5"
@@ -12440,6 +12494,24 @@
       "duration_ms": 174850,
       "name": "Pause",
       "url": "https://open.spotify.com/track/1wbCJkX2qff7wTqVHou8Ow"
+    },
+    {
+      "album": {
+        "name": "Pavement",
+        "url": "https://open.spotify.com/album/0NclXGKk4PoMhcMpBXzreC"
+      },
+      "artists": [
+        {
+          "name": "Velvet Static",
+          "url": "https://open.spotify.com/artist/0gvY5ddNmoAw3UdKk4pUE1"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136411,
+      "name": "Pavement",
+      "url": "https://open.spotify.com/track/68bDTt4iNSpb0FH2gugH9w"
     },
     {
       "album": {
@@ -15092,7 +15164,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 153658,
       "name": "Simple Solitude",
       "url": "https://open.spotify.com/track/6QRsJz7vfDqWmX2YT64yqn"
@@ -19624,7 +19696,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 228345,
       "name": "Wild poetry",
       "url": "https://open.spotify.com/track/1x0ohLWX95zrSrngK2Fa7R"

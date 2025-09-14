@@ -227,22 +227,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 345213,
-      "name": "Jet Fuel",
-      "url": "https://open.spotify.com/track/2JmFRXaJrkAUD2cs6U20KG"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "2014 Forest Hills Drive",
         "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 292865,
       "name": "Apparently",
       "url": "https://open.spotify.com/track/5O59s7bCgTFsXDXlWecyQ1"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 345213,
+      "name": "Jet Fuel",
+      "url": "https://open.spotify.com/track/2JmFRXaJrkAUD2cs6U20KG"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "Sonder Son",
-        "url": "https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 159485,
-      "name": "Talk 2 U",
-      "url": "https://open.spotify.com/track/1Xm9CQRcJbOgTCpKCpS9s5"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "T R A P S O U L",
         "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 200760,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/16bHRxM89ue0TiCKARYbRp"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "Sonder Son",
+        "url": "https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 159485,
+      "name": "Talk 2 U",
+      "url": "https://open.spotify.com/track/1Xm9CQRcJbOgTCpKCpS9s5"
     },
     {
       "added_at": "2023-01-01 05:00:00",

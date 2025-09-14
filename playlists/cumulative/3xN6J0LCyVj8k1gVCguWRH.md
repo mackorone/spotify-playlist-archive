@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,293 songs - 12 day 7 hr 55 min
+5,295 songs - 12 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -797,6 +797,7 @@
 | [Catch Me](https://open.spotify.com/track/03tEGxIYgegCoVi0UVYrRx) | [Jake Cooper](https://open.spotify.com/artist/7KKsjyYI1JYxvme5vEUlNQ) | [Catch Me](https://open.spotify.com/album/0pcvhAgZsgMF4eU1NQ3a02) | 2:26 | 2022-04-15 | 2022-04-30 |
 | [Catch the vibe](https://open.spotify.com/track/6S6WGQ1AIoip3JMTkuzKNy) | [Lyzaira](https://open.spotify.com/artist/2O1eRHtwz8NfdWaq2S5zJH) | [Catch the vibe](https://open.spotify.com/album/5SW01pxb5ZWzZwlDbzNl1s) | 2:46 | 2023-03-17 | 2023-04-09 |
 | [Catch Up On My Drinking](https://open.spotify.com/track/0zYYY0wovnRgcVMtcYulIa) | [Cory Luetjen & the Traveling Blues Band](https://open.spotify.com/artist/0Z2b8ni9OcOXwVSZE1efwy) | [Catch Up On My Drinking](https://open.spotify.com/album/5HBrANzl4CTnU1Pw58UN3k) | 3:57 | 2024-01-30 | 2024-02-11 |
+| [Cauchemar](https://open.spotify.com/track/0WjAg9u9EjD7ufrS92yMs2) | [Joy Bogat](https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg) | [What It Means To...](https://open.spotify.com/album/6k3GnyKxqSyNccoXzkWUfR) | 3:31 | 2025-09-13 |  |
 | [Caught In A Twilight Zone](https://open.spotify.com/track/16zYRIQL1ZFmjXiHoh3STn) | [Elephant Castle](https://open.spotify.com/artist/1B2xz3ZP0Vuezwk4gGhbkD) | [Caught In A Twilight Zone](https://open.spotify.com/album/2rMsaTVc3ilQAO2dfIkWeZ) | 3:37 | 2021-11-13 | 2021-12-05 |
 | [Caught In The Rain](https://open.spotify.com/track/09sHY9OymxleKKerJML5M0) | [Nico Brey](https://open.spotify.com/artist/1PelAqHkDh239fKIvBQMG4) | [Caught In The Rain](https://open.spotify.com/album/4DWF7hgbkwA0RjMttjdUGn) | 3:28 | 2023-08-25 | 2023-09-26 |
 | [Caught Up in My Head](https://open.spotify.com/track/0DYD7bR5s7rZFBvtFPDAML) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Wonderlust](https://open.spotify.com/artist/4UOV8Skac7kQY6xuPYhxLu), [Michael Prince](https://open.spotify.com/artist/7wpJcApbX613kBHyMyL1yg) | [Caught Up in My Head](https://open.spotify.com/album/1gXawAdvjOBxm636q5fvFa) | 3:04 | 2024-08-23 | 2024-09-04 |
@@ -3092,6 +3093,7 @@
 | [My Calling, The Door](https://open.spotify.com/track/4fTVfics9pwvRsEIcZRJ3H) | [Natalie Claro](https://open.spotify.com/artist/6A0AOpJ7VsZvimYUSbE1Iw) | [Atychiphobia](https://open.spotify.com/album/0CW1jo2pFzW6GMhYeMx4zG) | 3:06 | 2023-09-01 | 2023-09-26 |
 | [My Country Blonde](https://open.spotify.com/track/0l1jDe1RfFJtI7onZlrYcV) | [HazyHero](https://open.spotify.com/artist/0b1nIWvxtjb7eqO9C17G5P) | [Creations](https://open.spotify.com/album/72q3lm7zWRzbeETFcJSmfp) | 2:58 | 2025-01-15 | 2025-01-28 |
 | [My Favorite Song](https://open.spotify.com/track/7e3PU3ddyrtQ4aQL09tXpn) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [My Favorite Song](https://open.spotify.com/album/6pfmQzcmMQBpzrdbm82MG7) | 3:31 | 2023-02-11 | 2023-03-11 |
+| [My Favorite Things](https://open.spotify.com/track/7blEpVH3NaBdwNNsTkC8qf) | [Hannah Stokes](https://open.spotify.com/artist/0VFXVciHQhitOVfXQxQ5jo) | [My Favorite Things](https://open.spotify.com/album/1nudCoqMVlbNzWarlpS9gP) | 2:40 | 2025-09-13 |  |
 | [My Fire](https://open.spotify.com/track/0GpwjUTJLfwJRGnBpmSsG6) | [Yon Idy](https://open.spotify.com/artist/4D92NZA9x3RLim0Ap6p8hr) | [My Fire](https://open.spotify.com/album/1xZT0U8TpmwWzUc4sTch8G) | 3:13 | 2021-09-24 | 2021-10-10 |
 | [My Flower](https://open.spotify.com/track/7gzYQk8YYHuAG3nqrKk98E) | [Josie James](https://open.spotify.com/artist/4lvQeMOBIb26KSoPaYXMI2) | [My Flower](https://open.spotify.com/album/6hlouhJGBMd0dJuEV1D3Qs) | 2:00 | 2024-07-08 | 2024-07-20 |
 | [My Freedom](https://open.spotify.com/track/4MUrLGKNqRgH3LRUriDWit) | [Jared Benson](https://open.spotify.com/artist/5tOpgdpxDhmsR7khI7GBHd) | [Save My Soul](https://open.spotify.com/album/4jLCcV8PYXcmtrDOROZUwp) | 3:31 | 2025-04-28 | 2025-05-10 |

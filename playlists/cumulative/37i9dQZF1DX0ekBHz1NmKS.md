@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,987 songs - 4 day 6 hr 57 min
+1,989 songs - 4 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,7 +531,7 @@
 | [Farväl](https://open.spotify.com/track/78ojtQHsb5KBUjjTIJGvf1) | [Nardn](https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp) | [Farväl](https://open.spotify.com/album/4xrJlXt3MvNTbfNPuQfHrK) | 2:32 | 2024-04-18 | 2024-05-17 |
 | [Fast med dig](https://open.spotify.com/track/2KIzBv4vFeLtO50WBbHGKk) | [Ness Hakin](https://open.spotify.com/artist/73SA7OgBvMc1GGRyius3UN) | [Fast med dig](https://open.spotify.com/album/1ENEtJUy1nmsK4isB1YXl6) | 2:38 | 2022-05-26 | 2022-07-29 |
 | [Fattiga & Rika](https://open.spotify.com/track/2EIxY5QoWuXUNNyPrnHg3b) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Fattiga & Rika](https://open.spotify.com/album/1DMi8QGUj1fzhgqG0XodjI) | 2:41 | 2025-05-01 | 2025-05-25 |
-| [Feberdrömmar](https://open.spotify.com/track/3sk4gzlXoaylQ3DR3NdnKK) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen // Feberdrömmar](https://open.spotify.com/album/44SPK7QVLYgoYVB7A3auuS) | 3:23 | 2025-05-16 |  |
+| [Feberdrömmar](https://open.spotify.com/track/3sk4gzlXoaylQ3DR3NdnKK) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen // Feberdrömmar](https://open.spotify.com/album/44SPK7QVLYgoYVB7A3auuS) | 3:23 | 2025-05-16 | 2025-09-14 |
 | [Feel Love](https://open.spotify.com/track/2rEepd7vMT7nySNBliu8VU) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Truth & Consequences](https://open.spotify.com/album/1ekyxoUytdZjVwOR5teXlm) | 3:43 | 2022-05-19 | 2022-07-28 |
 | [Feeling Lucky Tonight](https://open.spotify.com/track/4FAqXvlU7GDVKdhrNAkTS7) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Feeling Lucky Tonight](https://open.spotify.com/album/3aHdbDjoD4a0dY0jzkELCS) | 2:25 | 2024-05-16 | 2024-06-14 |
 | [Feels Like A Dream](https://open.spotify.com/track/5mQmh9swNjNrfp1wKCZi8p) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Feels Like A Dream](https://open.spotify.com/album/4gyZv5JaaDicMnO1Ja3kBw) | 2:52 | 2022-09-01 | 2022-10-31 |
@@ -682,6 +682,7 @@
 | [Hallå hallå](https://open.spotify.com/track/1Ngsjy3FBg0hiYDEMBpu34) | [Eric Sporrong](https://open.spotify.com/artist/4ThLnQoYqiBCMWJKi8hnFO) | [Hallå hallå](https://open.spotify.com/album/0c53CwHfQEV3G8EZES70IC) | 2:53 | 2024-05-02 | 2024-06-01 |
 | [Halvfullt sprucket glas](https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Halvfullt sprucket glas](https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX) | 3:30 | 2023-11-09 | 2024-02-09 |
 | [han e done](https://open.spotify.com/track/4X7OxzooUwGd8wQTYtLWKk) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [han e done](https://open.spotify.com/album/0otIfMs1Ie7jSBOvqnecDy) | 2:39 | 2025-01-23 | 2025-05-23 |
+| [Han vill ha dig](https://open.spotify.com/track/3ZkBKXprXJkxTgnB0dihHG) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Han vill ha dig](https://open.spotify.com/album/4H9LJsjpxU9m2F6plJrp5a) | 3:28 | 2025-09-11 |  |
 | [Hand i hand](https://open.spotify.com/track/5Is7rjtE6dITztWlElOitM) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [DJ BERIT](https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI) | [Hand i hand](https://open.spotify.com/album/64kF2Bzxt5cqOrsBNcNT6s) | 2:27 | 2024-05-09 | 2024-06-07 |
 | [HAPPENS](https://open.spotify.com/track/1EQQWbq0FDpj1P5A0SjbJp) | [LUCIIA](https://open.spotify.com/artist/4wstpJTWcoASedbusTGfjd), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [HAPPENS](https://open.spotify.com/album/2FbreqUspf86wHIv47Mycj) | 3:28 | 2024-08-29 | 2024-10-19 |
 | [Happier](https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Happier](https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM) | 2:53 | 2023-06-29 | 2023-11-17 |
@@ -731,7 +732,7 @@
 | [Her](https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9) | [Sky Li](https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI) | [Her](https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv) | 3:18 | 2023-01-12 | 2023-04-28 |
 | [Hercules](https://open.spotify.com/track/2EKj7HXp6JHXIVbMzmDUlK) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Hercules](https://open.spotify.com/album/128LJh1FIAAS0QcpRNvPWD) | 3:20 | 2024-04-19 | 2024-05-24 |
 | [Here Comes The Night](https://open.spotify.com/track/3iLQ42RCWUurSrIUn14ogf) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Here Comes The Night](https://open.spotify.com/album/4Ix7oLZKkbrqbsb12qTShP) | 3:32 | 2021-12-16 | 2022-05-13 |
-| [High On Life](https://open.spotify.com/track/5XQ9N8tQH3vKe7gbFvIVqo) | [Tennessee Tears](https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp) | [High On Life](https://open.spotify.com/album/0t7QlpZaFc7UaJwJYRvKhg) | 2:54 | 2025-09-04 |  |
+| [High On Life](https://open.spotify.com/track/5XQ9N8tQH3vKe7gbFvIVqo) | [Tennessee Tears](https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp) | [High On Life](https://open.spotify.com/album/0t7QlpZaFc7UaJwJYRvKhg) | 2:54 | 2025-09-04 | 2025-09-14 |
 | [High Time](https://open.spotify.com/track/2RAaI9h95On0Z1h4wq0Qbj) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [High Time](https://open.spotify.com/album/7A7g9DyaTInJ7cRuq53K9a) | 2:29 | 2025-07-05 |  |
 | [Higher](https://open.spotify.com/track/6voH1nEeqIS3S0ZOAtqRfi) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ), [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Higher](https://open.spotify.com/album/5gjw2rOMq6aWDCYBDgKzhy) | 3:51 | 2023-01-19 | 2023-02-12 |
 | [Higher Place](https://open.spotify.com/track/14xFUlSQiS45PpDZ21RP5i) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Higher Place](https://open.spotify.com/album/5HVfLqGAzSoHcIpmzNXZYe) | 2:22 | 2025-07-03 | 2025-07-30 |
@@ -839,6 +840,7 @@
 | [I Will Be Better Than You At Letting Go](https://open.spotify.com/track/7Hjo1HHU4AEnYc509tRhjK) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [I Will Be Better Than You At Letting Go](https://open.spotify.com/album/5Zhiw61adJtxcJtoILhQ2b) | 2:46 | 2022-04-07 | 2022-04-30 |
 | [I Wish I Was Someone Else](https://open.spotify.com/track/1XWCk0iPODzTX9cNMpFzps) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Wish I Was Someone Else](https://open.spotify.com/album/1zJtLZQme1Vr0fbkExQDfv) | 2:53 | 2023-09-28 | 2023-11-02 |
 | [I Wish I Was Someone Else](https://open.spotify.com/track/3m5tZaadIfIGzc25Q2QiNV) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Wish I Was Someone Else](https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz) | 2:53 | 2023-11-03 | 2024-01-19 |
+| [I Wonder](https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [East Of The Sun](https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL) | 2:55 | 2025-09-11 |  |
 | [I'm Coming Home](https://open.spotify.com/track/4UKu4kk8t9fTj9RsqxSMV5) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [I'm Coming Home](https://open.spotify.com/album/4NacRixpn1ImOnKmwlgBfc) | 1:21 | 2022-06-21 | 2022-11-24 |
 | [I'm Coming Home](https://open.spotify.com/track/72TII5VXJvfSWVpwlNuoPF) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [I'm Coming Home](https://open.spotify.com/album/2Uy07vkjqxcAxyaH5cP6xu) | 1:21 | 2022-12-09 | 2023-04-28 |
 | [I'm So Sick](https://open.spotify.com/track/5qCVolVLPIb57Jhqhzurfk) | [Buster Moe](https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf) | [I'm So Sick](https://open.spotify.com/album/7IUw02WezIcITzhD8Mv8rU) | 3:24 | 2025-05-08 |  |

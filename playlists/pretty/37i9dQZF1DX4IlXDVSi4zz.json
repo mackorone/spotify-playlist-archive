@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 964135,
+  "num_followers": 964542,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,30 @@
     {
       "added_at": "2025-09-12 04:00:27",
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "duration_ms": 152250,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
+    },
+    {
+      "added_at": "2025-09-12 04:00:27",
+      "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
       },
@@ -203,30 +227,6 @@
       "duration_ms": 248000,
       "name": "Yamore",
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
-    },
-    {
-      "added_at": "2025-09-12 04:00:27",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Ink",
-          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
-        }
-      ],
-      "duration_ms": 152250,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
     },
     {
       "added_at": "2025-09-12 04:00:27",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2025-09-12 04:00:27",
       "album": {
+        "name": "Verano En NY",
+        "url": "https://open.spotify.com/album/6lwdsDlonNio6vDG42eUZu"
+      },
+      "artists": [
+        {
+          "name": "Toman",
+          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
+        }
+      ],
+      "duration_ms": 245972,
+      "name": "Verano En NY",
+      "url": "https://open.spotify.com/track/7DxrTNmUprBMQ0RV45xreb"
+    },
+    {
+      "added_at": "2025-09-12 04:00:27",
+      "album": {
         "name": "My Heart Goes (La Di Da)",
         "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 148960,
       "name": "My Heart Goes (La Di Da)",
       "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
-    },
-    {
-      "added_at": "2025-09-12 04:00:27",
-      "album": {
-        "name": "Verano En NY",
-        "url": "https://open.spotify.com/album/6lwdsDlonNio6vDG42eUZu"
-      },
-      "artists": [
-        {
-          "name": "Toman",
-          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
-        }
-      ],
-      "duration_ms": 245972,
-      "name": "Verano En NY",
-      "url": "https://open.spotify.com/track/7DxrTNmUprBMQ0RV45xreb"
     },
     {
       "added_at": "2025-09-12 04:00:27",
@@ -2187,30 +2187,22 @@
     {
       "added_at": "2025-09-12 04:00:27",
       "album": {
-        "name": "Tshwala Bam (feat. S.N.E, EeQue)",
-        "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
+        "name": "In Your Eyes (feat. Alida)",
+        "url": "https://open.spotify.com/album/7Aq8cN8Br8AHcDqC327dlV"
       },
       "artists": [
         {
-          "name": "TitoM",
-          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         },
         {
-          "name": "Yuppe",
-          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
-        },
-        {
-          "name": "S.N.E",
-          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
-        },
-        {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
         }
       ],
-      "duration_ms": 390000,
-      "name": "Tshwala Bam (feat. S.N.E, EeQue)",
-      "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
+      "duration_ms": 208222,
+      "name": "In Your Eyes (feat. Alida)",
+      "url": "https://open.spotify.com/track/61ZM92T2zaXIVsqncThQzC"
     }
   ],
   "unique_name": "Tulum Party",

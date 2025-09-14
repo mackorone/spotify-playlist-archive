@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 
 > YAYAY 303 SAVESSS
 
-[beanspace](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 331 likes - 189 songs - 6 hr 13 min
+[beanspace](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 333 likes - 189 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

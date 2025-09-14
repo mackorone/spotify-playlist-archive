@@ -1,6 +1,6 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 93724,
+  "num_followers": 93721,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
@@ -1163,6 +1163,30 @@
     {
       "added_at": "2024-12-06 12:53:49",
       "album": {
+        "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
+        "url": "https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 213307,
+      "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
+      "url": "https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892"
+    },
+    {
+      "added_at": "2024-12-06 12:53:49",
+      "album": {
         "name": "Body (Remix) [feat. Capo Plaza & Rondodasosa]",
         "url": "https://open.spotify.com/album/6DiEWYk79JFILIgUd6SrTA"
       },
@@ -1187,30 +1211,6 @@
       "duration_ms": 205106,
       "name": "Body (Remix) [feat. Capo Plaza & Rondodasosa]",
       "url": "https://open.spotify.com/track/1JAkXiY10vwLhSbcsiimrp"
-    },
-    {
-      "added_at": "2024-12-06 12:53:49",
-      "album": {
-        "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
-        "url": "https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY"
-      },
-      "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 213307,
-      "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
-      "url": "https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892"
     },
     {
       "added_at": "2024-12-06 12:53:49",
@@ -1439,22 +1439,22 @@
     {
       "added_at": "2024-12-06 12:53:49",
       "album": {
-        "name": "Only You Freestyle",
-        "url": "https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4"
+        "name": "Look Back at It (feat. CAPO PLAZA)",
+        "url": "https://open.spotify.com/album/0aMlaFvuHZNRxOIPP5GRwr"
       },
       "artists": [
         {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 248936,
-      "name": "Only You Freestyle",
-      "url": "https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r"
+      "duration_ms": 225541,
+      "name": "Look Back at It (feat. CAPO PLAZA)",
+      "url": "https://open.spotify.com/track/34Jnbbi34tPtYdutY5Pd6G"
     },
     {
       "added_at": "2024-12-06 12:53:49",
@@ -1483,22 +1483,22 @@
     {
       "added_at": "2024-12-06 12:53:49",
       "album": {
-        "name": "Look Back at It (feat. CAPO PLAZA)",
-        "url": "https://open.spotify.com/album/0aMlaFvuHZNRxOIPP5GRwr"
+        "name": "Only You Freestyle",
+        "url": "https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4"
       },
       "artists": [
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
         },
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 225541,
-      "name": "Look Back at It (feat. CAPO PLAZA)",
-      "url": "https://open.spotify.com/track/34Jnbbi34tPtYdutY5Pd6G"
+      "duration_ms": 248936,
+      "name": "Only You Freestyle",
+      "url": "https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r"
     },
     {
       "added_at": "2024-12-06 12:53:49",

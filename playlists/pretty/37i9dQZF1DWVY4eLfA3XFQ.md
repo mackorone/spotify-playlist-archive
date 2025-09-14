@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🫨 Tech house operators, featuring HNTR
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,263 likes - 125 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,330 likes - 125 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 46 | [In The Ghetto](https://open.spotify.com/track/6ImGTefrNq75qXm90IXT7F) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [GS5](https://open.spotify.com/artist/29oDS1dKeMtzLbkirOBHFN) | [In The Ghetto](https://open.spotify.com/album/08ckclPzxO6ksnuBdROYnu) | 2:57 |
 | 47 | [Get Stupid](https://open.spotify.com/track/22pC8m4kzjrMQRJXYg0usw) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Get Stupid](https://open.spotify.com/album/0xkWdnlmmsfqbFrdqlrGom) | 3:21 |
 | 48 | [TESLA](https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [TESLA](https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn) | 3:06 |
-| 49 | [NO SATIVA \- Radio Edit](https://open.spotify.com/track/6SURypOXgIXYuy1XZvhd1a) | [Jake Bleu](https://open.spotify.com/artist/46yegH77IvTiL6hRD3TOEN) | [NO SATIVA \(Radio Edit\)](https://open.spotify.com/album/6bFVceU6WjWI8Ik7MrkSZ2) | 3:13 |
+| 49 | [NO SATIVA](https://open.spotify.com/track/6SURypOXgIXYuy1XZvhd1a) | [Jake Bleu](https://open.spotify.com/artist/46yegH77IvTiL6hRD3TOEN) | [NO SATIVA](https://open.spotify.com/album/6bFVceU6WjWI8Ik7MrkSZ2) | 3:13 |
 | 50 | [Feelings](https://open.spotify.com/track/684VQ4PHIZgVFY6Qg0PQ9t) | [Louden](https://open.spotify.com/artist/0dh6ekhgvAz7Kr8ayRuYlr), [Julzy](https://open.spotify.com/artist/3BU6QeQolMdzRUBl46HtgO) | [Feelings](https://open.spotify.com/album/2Wgjuwnr8aif1Oq36kPeCl) | 4:04 |
 | 51 | [My Neck My Back ft\. Khia](https://open.spotify.com/track/4Z9jBxkpBb9yvKVVQjqnUr) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Khia](https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60) | [TOOLS 4 HARDWORKERS 004](https://open.spotify.com/album/2tz4aDa64T9jO7Qp2M8t2s) | 4:28 |
 | 52 | [Way To Paradice](https://open.spotify.com/track/0o0GV5jONy1DkYlpmBcf8U) | [Nabewalks](https://open.spotify.com/artist/3T3MaUXZKyIUMhi1EcGoJb) | [Stay As You Are](https://open.spotify.com/album/0czzjygKU6YkDOkKlJFDML) | 5:46 |

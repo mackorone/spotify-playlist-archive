@@ -1111,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "these things happen",
+        "url": "https://open.spotify.com/album/3xiYqnYgX8053Tg4KR6h4P"
+      },
+      "artists": [
+        {
+          "name": "saturdays at your place",
+          "url": "https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90860,
+      "name": "cross my heart",
+      "url": "https://open.spotify.com/track/5ayZLwBFGNfQpI2ZsMnnKs"
+    },
+    {
+      "album": {
         "name": "cross to bear + sorrow machine",
         "url": "https://open.spotify.com/album/0GAtySUVv6nUhmVeWpfAFy"
       },
@@ -4032,7 +4050,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-14",
       "duration_ms": 188163,
       "name": "Sixth Sense",
       "url": "https://open.spotify.com/track/67dfhhZTDrlHKw94sdvqYX"

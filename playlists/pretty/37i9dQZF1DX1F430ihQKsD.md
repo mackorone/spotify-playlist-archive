@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Ariane Roy
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,300 likes - 106 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,305 likes - 106 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 105 | [Give Me Time](https://open.spotify.com/track/1yr0y9if1dqK9MHHNrRTBi) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Eastend Confessions](https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ) | 2:34 |
 | 106 | [Plateau Botticelli](https://open.spotify.com/track/6eyc6Gz5rZBOL7n2UoKD9m) | [Aistis](https://open.spotify.com/artist/1NIVmyi3ACEHxwmBRAlipR) | [Plateau Botticelli](https://open.spotify.com/album/68op5OjftkJxIYNcscWEbK) | 3:46 |
 
-Snapshot ID: `AAAAADW7b6GU07OZM0yMl8d8yPtEippo`
+Snapshot ID: `AAAAAJVWY67Kj9SmpYN8Sd8oinzCajVW`

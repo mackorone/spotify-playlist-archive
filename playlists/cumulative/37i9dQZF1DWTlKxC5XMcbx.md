@@ -4,7 +4,7 @@
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-146 songs - 11 hr 44 min
+147 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Portrait Of Jenny](https://open.spotify.com/track/1C5HpiqUgOY7v5audtXeXa) | [Wynton Kelly Trio](https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr) | [It's All Right!](https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad) | 4:35 | 2023-09-18 | 2024-04-19 |
 | [Quintessence](https://open.spotify.com/track/4dUVpbIu8FW7R76gejw3cq) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:44 | 2022-09-12 | 2024-04-19 |
 | [Reacquainted](https://open.spotify.com/track/0MdFNrukQ56KurgxVNTNm2) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Reacquainted](https://open.spotify.com/album/7jttkH7iYONN0AoY3jTyeD) | 3:29 | 2025-03-03 |  |
-| [Reflections](https://open.spotify.com/track/7c7aRF6EJ96zCmep9BmewW) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Standards Trio: Reflections](https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn) | 9:15 | 2025-04-14 |  |
+| [Reflections](https://open.spotify.com/track/7c7aRF6EJ96zCmep9BmewW) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Standards Trio: Reflections](https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn) | 9:15 | 2025-04-14 | 2025-09-14 |
 | [Rhapsody in Blue](https://open.spotify.com/track/5up8HNHkEfnK47K1H74R2F) | [Dominick Farinacci](https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB) | [Rhapsody in Blue](https://open.spotify.com/album/0qrqm7a77kUuX8GgttNs4p) | 4:09 | 2022-09-26 |  |
 | [Rinaldo, HWV 7: Lascia ch'io pianga \(Arr\. for Piano & Bass\)](https://open.spotify.com/track/45QVpFPpNOYMXDbbEeZ39X) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [PianoBasso](https://open.spotify.com/artist/0lFzJ6s1Rip3L1KbqTDmP7) | [Tranquillo II](https://open.spotify.com/album/0YijaagftFAOjGIfwFwji3) | 3:32 | 2022-09-12 | 2025-08-06 |
 | [Romaria](https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0) | [Andy Sheppard Quartet](https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb) | [Romaria](https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY) | 5:11 | 2022-09-12 |  |
@@ -132,6 +132,7 @@
 | [Strange Meadow Lark](https://open.spotify.com/track/0ivpUENLpheuPoa6VuY1ax) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y) | 7:22 | 2024-04-08 |  |
 | [Strange Meadow Lark](https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 7:22 | 2022-09-12 | 2024-04-19 |
 | [Surprises](https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 6:27 | 2022-11-07 |  |
+| [The Ansible](https://open.spotify.com/track/31MCSGCZylxFfi9iWLtM0l) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [The Ansible](https://open.spotify.com/album/5eabCRB9zmiOQyxtmy7Pbd) | 3:34 | 2025-09-08 |  |
 | [The Great Ennui](https://open.spotify.com/track/0Inho965rlE38Rip2e9nJ6) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [The Great Ennui](https://open.spotify.com/album/0rSMhyt4OaK93GhfJGDN0U) | 3:21 | 2024-06-09 |  |
 | [The Nearness Of You](https://open.spotify.com/track/4vuoL9ldmpmZcXm7RkhQvx) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Stardust: The Music Of Hoagy Carmichael](https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT) | 7:27 | 2022-09-12 |  |
 | [The Tearjerker Returns](https://open.spotify.com/track/5BmNj3cDAyqSFw69VY12WU) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [Room 29](https://open.spotify.com/album/5OoDylPvT78As7o5uwIDRX) | 3:32 | 2022-09-12 | 2024-04-19 |

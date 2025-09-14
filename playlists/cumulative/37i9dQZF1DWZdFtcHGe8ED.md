@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-453 songs - 1 day 7 hr 59 min
+454 songs - 1 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Indoctrinate](https://open.spotify.com/track/0YG3IZcxzcr2ore9vV6zey) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59) | [Indoctrinate](https://open.spotify.com/album/5znqQUUxyrHcr4nLEmNLjo) | 5:39 | 2021-12-17 |  |
 | [Indoctrination](https://open.spotify.com/track/5rJglpSmC76KMRYiFZUKwo) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Indoctrination](https://open.spotify.com/album/1V5uNa855jGZi4TqoTA9VU) | 3:10 | 2021-12-17 | 2022-07-24 |
 | [Inexorable Darkness](https://open.spotify.com/track/5rWhMFUhgeGFgiLLu4vZAv) | [High Command](https://open.spotify.com/artist/4M3EzJBgOCW0MFc54EBEqQ) | [Beyond the Wall of Desolation](https://open.spotify.com/album/4szLMEwiYzD3QC4jI7ClZA) | 4:57 | 2021-12-17 |  |
-| [Infanticide A.I.](https://open.spotify.com/track/59gHi5YTMV2DMf6FOQ7lLh) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Infanticide A.I.](https://open.spotify.com/album/4HxvJvHmd0KWqTXvWgudMe) | 3:27 | 2025-08-22 |  |
+| [Infanticide A.I.](https://open.spotify.com/track/59gHi5YTMV2DMf6FOQ7lLh) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Infanticide A.I.](https://open.spotify.com/album/4HxvJvHmd0KWqTXvWgudMe) | 3:27 | 2025-08-22 | 2025-09-14 |
 | [Insane](https://open.spotify.com/track/0EussHoROH1wsSg3qhN0WO) | [S7N](https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm) | [Insane](https://open.spotify.com/album/7DlA2Vm8witrWKt7mZEGyQ) | 3:02 | 2021-12-17 |  |
 | [Institutionalized](https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Suicidal Tendencies](https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO) | 3:49 | 2022-12-15 | 2024-06-28 |
 | [Interface with the Infinite](https://open.spotify.com/track/3DVcZjs38AN1yyV6919IWb) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [V](https://open.spotify.com/album/0Fkj9N2dzhtukOFYnauPO0) | 4:02 | 2021-12-17 |  |
@@ -347,6 +347,7 @@
 | [Semtex Revolution](https://open.spotify.com/track/7mTceRxYae4a5xkEhTgdqq) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Mental Vortex](https://open.spotify.com/album/0qbld4MsN4rUa4uyEm1juQ) | 5:30 | 2022-07-13 | 2023-11-04 |
 | [Seven Words](https://open.spotify.com/track/1OBphi1GDxcPMNExEvNIh5) | [Xentrix](https://open.spotify.com/artist/5lYOBorQmZgCCPxJYCjSmO) | [Seven Words](https://open.spotify.com/album/0K1aAagoaaplNXP2vHRSkM) | 3:56 | 2022-10-08 | 2022-11-13 |
 | [Sever The Tongue](https://open.spotify.com/track/0kWPYyduQ5Vo5jLdf20AGG) | [Deicide](https://open.spotify.com/artist/2K3GorTixXKAiwe2t9lO89) | [Sever The Tongue](https://open.spotify.com/album/3Hm85xoM0c1XorBsEqOenD) | 3:24 | 2024-03-08 |  |
+| [Shadow People](https://open.spotify.com/track/5s7Jgjo2e8UtXItw91tK7d) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Shadow People](https://open.spotify.com/album/5ZAFMho7IwLr15Dbq3LSfv) | 5:45 | 2025-09-12 |  |
 | [Sharpen the Guillotine](https://open.spotify.com/track/3qy8XCdTUJI7UGynBI7Hkn) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59) | [Cabaret De La Guillotine](https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC) | 6:01 | 2021-12-17 |  |
 | [Sheer Khan](https://open.spotify.com/track/7qlkGiHmqF9VyFiIKlJVRt) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Sheer Khan](https://open.spotify.com/album/7iZkuSyf84VXzCVwSbotnS) | 4:38 | 2021-12-17 | 2022-07-28 |
 | [Shoot for the Sun](https://open.spotify.com/track/03gS9ZSLBYSsMS9Z9b1uU4) | [Paladin](https://open.spotify.com/artist/3qQtwCBsbL4gkvUfaI4KyQ) | [Shoot for the Sun](https://open.spotify.com/album/5pkqghvbwhbLvDS8jn94Uq) | 4:01 | 2021-12-17 |  |

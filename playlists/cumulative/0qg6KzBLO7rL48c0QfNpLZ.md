@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,241 songs - 2 day 6 hr 46 min
+1,242 songs - 2 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Aurora](https://open.spotify.com/track/7GU09kliZ520rX2jbLf3Pu) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Aurora](https://open.spotify.com/album/6gcXFqo18EewamLotkOarE) | 2:12 | 2025-02-19 | 2025-03-22 |
 | [Back to Life](https://open.spotify.com/track/0LupN6QwZ8ahjouaewGGtP) | [Arpad](https://open.spotify.com/artist/5GBl1D2wTdYnNbmOVBfl87), [deep dispatch](https://open.spotify.com/artist/7t8Bpn9yllm4qqOH8qcupk), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Back to Life](https://open.spotify.com/album/2u5AfWM0K28d6adWEvMOA6) | 2:14 | 2025-04-18 | 2025-06-07 |
 | [Back to Life](https://open.spotify.com/track/0qzRIQqFitzv0FZJupaeFV) | [nineveh.](https://open.spotify.com/artist/73AdEqHxLEDFFXecpOXrbU), [Kevin Kairouz](https://open.spotify.com/artist/44NK7lcuXAEc35Z383UnCS) | [Back to Life](https://open.spotify.com/album/4Lij0CvIP9LI1ZQyyLjXrK) | 4:03 | 2024-12-06 | 2025-01-11 |
+| [Back To Life](https://open.spotify.com/track/7aTVdaOk1WISfbuTVJw8EG) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v), [Le Bok](https://open.spotify.com/artist/29FYBcFeHQ8z432memmfvF), [ay\-Mill](https://open.spotify.com/artist/6GyEey05kfps6PpzxapBcY) | [Back To Life](https://open.spotify.com/album/2xXaPI29IwS1St0SP7uvjk) | 2:43 | 2025-09-13 |  |
 | [Back To Life](https://open.spotify.com/track/6Jh3BMkWV1lY9w9s365zdx) | [SouMix](https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp), [Murphy](https://open.spotify.com/artist/25nKGLt8u775jURsw1bIP0) | [Back To Life](https://open.spotify.com/album/2LlHEnrb2lp6UHtBZd3DXY) | 2:29 | 2024-07-26 | 2024-08-31 |
 | [Back To Love](https://open.spotify.com/track/7EVPFtiYgSHpmh2ElNrFQ4) | [moslo](https://open.spotify.com/artist/4RbmzMRz1KL6Tj9Tvno7FR), [JANU](https://open.spotify.com/artist/39089lNQ7op5bbQ28tyfxT) | [Back To Love](https://open.spotify.com/album/3IXdIafX929ShhcHaizX8n) | 3:35 | 2025-08-15 |  |
 | [Back To My Bed](https://open.spotify.com/track/0NHBjddjKTkJQvEb5oTilt) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Back To My Bed](https://open.spotify.com/album/6xT0yZwxV34C84SOdIoEUh) | 3:22 | 2023-11-24 | 2024-09-15 |

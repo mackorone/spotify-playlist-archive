@@ -543,22 +543,6 @@
     {
       "added_at": "2025-09-02 15:00:27",
       "album": {
-        "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
-        "url": "https://open.spotify.com/album/0VT7LIPGfvANx4jh5s11Ui"
-      },
-      "artists": [
-        {
-          "name": "\u306a\u308b\u307f\u3084",
-          "url": "https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
-      "url": "https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5"
-    },
-    {
-      "added_at": "2025-09-02 15:00:27",
-      "album": {
         "name": "ROSE",
         "url": "https://open.spotify.com/album/2l7pgbmqxrUzgY7ppseiGv"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 161872,
       "name": "\u6625\u5d50",
       "url": "https://open.spotify.com/track/3wM3VFL0nuEhwATHcJfPSm"
+    },
+    {
+      "added_at": "2025-09-02 15:00:27",
+      "album": {
+        "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/0VT7LIPGfvANx4jh5s11Ui"
+      },
+      "artists": [
+        {
+          "name": "\u306a\u308b\u307f\u3084",
+          "url": "https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5"
     },
     {
       "added_at": "2025-09-02 15:00:27",

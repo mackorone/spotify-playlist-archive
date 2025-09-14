@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,146 likes - 276 songs - 14 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,148 likes - 276 songs - 14 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 50 | [I Can't Make It Alone \- Remastered](https://open.spotify.com/track/2KzlY5heyGkSYSbd6MK7yr) | [P.J\. Proby](https://open.spotify.com/artist/3g4Os4LNZvOQUaokeSLCwG) | [Best Of The EMI Years \(1961\-1972\)](https://open.spotify.com/album/3AsA1h6kQvqdnfaC1lu8Tx) | 4:20 |
 | 51 | [CHAINS](https://open.spotify.com/track/6xYjG5RKGzubOElLiTIo5k) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [チェインズ・オブ・ラヴ、ディメンション・イヤーズ 1962\-1964](https://open.spotify.com/album/7GJoJn6hIWoTNgYjccM0ZZ) | 2:34 |
 | 52 | [I'd Never Find Another You](https://open.spotify.com/track/0mdCa3f0hJVCe02B54okhM) | [Billy Fury](https://open.spotify.com/artist/7rtLZcKWGV4eaZsBwSKimf) | [The Billy Fury Hit Parade](https://open.spotify.com/album/6fRNMCvZ3lp5XOUvLTvPAx) | 2:37 |
-| 53 | [Keep Your Hands off My Baby](https://open.spotify.com/track/4NkklQ3D3TjFGUVmj72EsU) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Uptown](https://open.spotify.com/album/6YPhneHexGxBqdG4JYBjlO) | 2:32 |
-| 54 | [Cindy's Birthday](https://open.spotify.com/track/3Id8znxIUtTYNhZsak8Unb) | [Johnny Crawford](https://open.spotify.com/artist/48QdHdRanCXdBt6lygsDES) | [A Young Man's Fancy](https://open.spotify.com/album/3VNpShZrCWsR61aBORHSgh) | 2:08 |
+| 53 | [Cindy's Birthday](https://open.spotify.com/track/3Id8znxIUtTYNhZsak8Unb) | [Johnny Crawford](https://open.spotify.com/artist/48QdHdRanCXdBt6lygsDES) | [A Young Man's Fancy](https://open.spotify.com/album/3VNpShZrCWsR61aBORHSgh) | 2:08 |
+| 54 | [Keep Your Hands off My Baby](https://open.spotify.com/track/4NkklQ3D3TjFGUVmj72EsU) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Uptown](https://open.spotify.com/album/6YPhneHexGxBqdG4JYBjlO) | 2:32 |
 | 55 | [Out in the Cold](https://open.spotify.com/track/0mgRHRnVctNI7KhXSnoRMn) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Out In the Cold](https://open.spotify.com/album/2ggh6pNMFI6yQHF0yfKJ91) | 2:44 |
 | 56 | [See Them A Come](https://open.spotify.com/track/1UDd9KiROrar9stu4qSXqo) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Two Sevens Clash](https://open.spotify.com/album/2xP6fksOqdajg0gha4TeqH) | 3:20 |
 | 57 | [Josie](https://open.spotify.com/track/1o1d0VwFhCaYN0LcukppPt) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [What's Bin Did and What's Bin Hid](https://open.spotify.com/album/627n67TYQ6bIijcrkD7V7Y) | 3:25 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 90 | [Yours Truly](https://open.spotify.com/track/2TFS8koduXCAmOwqdjjJ4A) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [Simply Engelbert \- Classic Love Songs and Ballads](https://open.spotify.com/album/4BiyT51ZLVRucMx9fxJVxU) | 3:38 |
 | 91 | [This Little Girl](https://open.spotify.com/track/6VGqU1LCPFjJ7ZwrV5dsHS) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Donna the Prima Donna](https://open.spotify.com/album/5ZQh54BjXCUK15ziGP1zuX) | 2:34 |
 | 92 | [Really Rosie](https://open.spotify.com/track/4Af5QDykrTYYZ0uTPA6air) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 1:50 |
-| 93 | [A Quiet Place to Live](https://open.spotify.com/track/5gjD5X9YR05v8JVqbWvqg7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 1:55 |
-| 94 | [In the Name of Love](https://open.spotify.com/track/5RpGVmGXHyC9xQXsAFB3W6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:04 |
+| 93 | [In the Name of Love](https://open.spotify.com/track/5RpGVmGXHyC9xQXsAFB3W6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:04 |
+| 94 | [A Quiet Place to Live](https://open.spotify.com/track/5gjD5X9YR05v8JVqbWvqg7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 1:55 |
 | 95 | [The Girl From Ipanema](https://open.spotify.com/track/4azEwlFfJ6rC1Zp88dRoJI) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Snuggles](https://open.spotify.com/artist/0hMbS7DvRkVNTnrCMeUUAX), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [The Girl From Ipanema](https://open.spotify.com/album/5bDOastHuIYL0rHjZ3WMDf) | 1:23 |
 | 96 | [Tell Daddy \- Single Version](https://open.spotify.com/track/3pCkgTO02gQveCFBiRKBoe) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [The Complete Atco/Atlantic Singles, Vol\. 1: 1960\-1966](https://open.spotify.com/album/1Wvl2Y20FavtOTi6y0jhEb) | 2:41 |
 | 97 | [Being at War with Each Other](https://open.spotify.com/track/1hHpDn9q89uyvPAlrkri8i) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Way We Were](https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS) | 4:01 |
@@ -274,8 +274,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 264 | [Golden Days](https://open.spotify.com/track/7jcInqhfBalnzBRfozpvbJ) | [Kathy Kirby](https://open.spotify.com/artist/1kVx0f62SrfKxKIzXJtTUf) | [The Best Of The EMI Years](https://open.spotify.com/album/4IgZkMxuTkMXiaa6Nq9IJw) | 2:59 |
 | 265 | [Free As The Wind](https://open.spotify.com/track/6EGp2ibu1erSO4KdrkgcAd) | [Susan & The Surftones](https://open.spotify.com/artist/1VUnCTjMfvEyUvg2CVx3JE) | [Fluid Drive](https://open.spotify.com/album/6gFsi025x9kfLWZFbmn5sd) | 3:19 |
 | 266 | [Heartbreaker](https://open.spotify.com/track/1yYfpshvncxodfCWjFsgbn) | [Gerald Brown](https://open.spotify.com/artist/0UBFE9knxbTF9bopaqiTqh) | [I\-35 Corridor: Rock, Blues, 80's, R&B and Funk Compilation](https://open.spotify.com/album/1IomGUBY624tyBMSOGsSri) | 4:04 |
-| 267 | [Everybody Go Home](https://open.spotify.com/track/6LqAZzYb3mY0rqotiIeJTS) | [Alison Lewis](https://open.spotify.com/artist/3zsi1T1OHInajubA5nldu9) | [Everybody Go Home](https://open.spotify.com/album/6zNQI5woCX6uRlJtAK3CuF) | 3:25 |
-| 268 | [Soul Waltzing](https://open.spotify.com/track/0eqSSVFpBzjziDwLgAjoIR) | [Big Dee Irwin](https://open.spotify.com/artist/266kUpRv0Ukfh9bKq8HGGa) | [Another Night With Big Dee Irwin: The Complete Dimension Recordings And More](https://open.spotify.com/album/6P1NRF6amZAXo77GG1tniN) | 2:24 |
+| 267 | [Soul Waltzing](https://open.spotify.com/track/0eqSSVFpBzjziDwLgAjoIR) | [Big Dee Irwin](https://open.spotify.com/artist/266kUpRv0Ukfh9bKq8HGGa) | [Another Night With Big Dee Irwin: The Complete Dimension Recordings And More](https://open.spotify.com/album/6P1NRF6amZAXo77GG1tniN) | 2:24 |
+| 268 | [Everybody Go Home](https://open.spotify.com/track/6LqAZzYb3mY0rqotiIeJTS) | [Alison Lewis](https://open.spotify.com/artist/3zsi1T1OHInajubA5nldu9) | [Everybody Go Home](https://open.spotify.com/album/6zNQI5woCX6uRlJtAK3CuF) | 3:25 |
 | 269 | [Whiskey](https://open.spotify.com/track/0Z7bBhS39A2459ujdt932i) | [Sally Vaughn](https://open.spotify.com/artist/4tizy2wQXCYajjMBtvCVGw) | [The Way I Am](https://open.spotify.com/album/0EqNztOIi5w91HOUgincFu) | 2:52 |
 | 270 | [Hula Hoppin'](https://open.spotify.com/track/3pS2GQh9TxauUYkVhq2K2s) | [Idalia Boyd](https://open.spotify.com/artist/6k9rCzG2VKiUp8OgoXUpUW) | [Girl Group Rock](https://open.spotify.com/album/3L3RcUhkBmuGRZLHwbe3Ji) | 2:32 |
 | 271 | [Brand New Man](https://open.spotify.com/track/2TRTsXcV9EMqLg8BlH8zw0) | [Marvin King and the Blues Revival Band](https://open.spotify.com/artist/30joDii6xGsFJI4fdbgexZ), [Marcus Lee King](https://open.spotify.com/artist/3F6BAyA3BxoSmHS1PuLfQ9) | [Huge in Europe \(feat\. Marcus Lee King\)](https://open.spotify.com/album/1LKm2CQtNgb30rW7GA7Lms) | 5:50 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 275 | [It's A Crazy Afternoon](https://open.spotify.com/track/3HR8V9vdhRYdRXg9dlGRQw) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [Something's Burning](https://open.spotify.com/album/4DVJF6FAjpGPMMWJroujUX) | 1:57 |
 | 276 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `Ab8DvgAAAACts7JA3LGLgSYPW3sflodV`
+Snapshot ID: `Ab8JfAAAAAARt8KYPcoQoY/kCGE1/HaT`

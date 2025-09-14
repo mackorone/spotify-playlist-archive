@@ -4,7 +4,7 @@
 
 > The new school \- Alternative R&B\. Cover: Jordan Ward
 
-1,490 songs - 3 day 6 hr 31 min
+1,491 songs - 3 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Applause \- Gio Genesis Version](https://open.spotify.com/track/0pLjL24V419o2qIkJpssMC) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Gio Genesis](https://open.spotify.com/artist/6OVtVXga1DBhBAq6GQcF0m) | [Applause – Gio Genesis Version](https://open.spotify.com/album/0xwasyOcZCgZx0Neum5UV1) | 1:50 | 2023-03-31 | 2023-04-22 |
 | [Apple](https://open.spotify.com/track/7CBlZqB7b1AcXksVCoiWZX) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj) | [Apple](https://open.spotify.com/album/4E2SOsnj6v1tGlWOZGNbCK) | 3:24 | 2022-04-01 | 2022-04-15 |
 | [ARMS \(Edit\)](https://open.spotify.com/track/1PWOdHUiBFiT4hJJ8DBSnh) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [ARMS](https://open.spotify.com/album/28gNtcHwTNJ5BJspX50iMq) | 3:33 | 2022-11-04 | 2022-11-19 |
+| [Art Museum \(2am\)](https://open.spotify.com/track/10u8ssp3b4XOqB9s4nczkd) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Art Museum \(2am\)](https://open.spotify.com/album/1w6aoFfe36P5hJ5KTuPcD0) | 2:10 | 2025-09-12 |  |
 | [Art of War](https://open.spotify.com/track/7FdS8jLabsc3ym9VY8kGjK) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Art of War](https://open.spotify.com/album/3PqJN4iYjY0IpMBPZqspwm) | 2:06 | 2025-03-28 |  |
 | [Artery](https://open.spotify.com/track/1wJbNrBJ3Bwh4HJvS0NNxT) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Artery](https://open.spotify.com/album/2DNglHje1BeqeInOWoFvSX) | 3:42 | 2022-04-01 | 2022-04-13 |
 | [As Days Go By](https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge) | [Paulade](https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK) | [As Days Go By](https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx) | 3:42 | 2022-10-14 | 2024-06-29 |
@@ -874,7 +875,7 @@
 | [need your love](https://open.spotify.com/track/1CqwiEhGcYlRntmpTIHGCu) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [need your love](https://open.spotify.com/album/3kWkmQuS1oBj0a8YwL4KP5) | 2:56 | 2025-02-28 | 2025-08-16 |
 | [Neo Surf](https://open.spotify.com/track/6XmT8fIEfcS3ZSVEz00U7m) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Neo Surf](https://open.spotify.com/album/2g3h5sHGcVvbvsit77Sbbb) | 3:20 | 2022-04-01 | 2022-04-14 |
 | [NEON PEACH feat\. Tyler, The Creator](https://open.spotify.com/track/5PF2WtSZV4EtmGx4oER1zt) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:12 | 2021-07-23 | 2022-07-23 |
-| [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 | 2024-01-12 |  |
+| [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 | 2024-01-12 | 2025-09-14 |
 | [Never Felt Better](https://open.spotify.com/track/4fxzJneKp90ru93KfMGmcv) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Never Felt Better](https://open.spotify.com/album/6LgXtpkfa3VlhfPZhWGhem) | 4:27 | 2025-02-28 | 2025-08-03 |
 | [New Faces](https://open.spotify.com/track/2QAtG4bBRtLtvgeC3rSTRy) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [New Faces](https://open.spotify.com/album/2tEbyjjMbPQ7uOAXjW7MhR) | 3:09 | 2021-05-14 | 2022-01-09 |
 | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/album/2A4pe5mwhAjBx2gas0HsWM) | 2:10 | 2024-02-23 |  |

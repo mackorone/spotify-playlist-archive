@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Lupe De Lupe
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,504 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,430 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Plano Alto](https://open.spotify.com/track/33KhjAQMAWvmhXIH963YVX) | [NAVALA](https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p) | [Plano Alto](https://open.spotify.com/album/4OaJDqpqkGRnQ8k1IzqQdv) | 2:50 |
 | 75 | [quero MAIS](https://open.spotify.com/track/6RKOKsO0CjpzzKrIOuRSum) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [quero MAIS](https://open.spotify.com/album/0bYca4gn3JGd723cTqNeQJ) | 2:55 |
 
-Snapshot ID: `AAAAAPBZxeowZ8RXniwyR0ORKl7TbiM2`
+Snapshot ID: `AAAAAFkUoaJ5K6KU4Bet4usJRmcK9qXr`

@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Zo\u00e9 en portada ",
-  "num_followers": 793524,
+  "num_followers": 793809,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-09-12 06:00:13",
       "album": {
-        "name": "Te Juro Que Te Amo",
-        "url": "https://open.spotify.com/album/048hj9COAKtTGGm3YyO02H"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 208298,
-      "name": "Te Juro Que Te Amo",
-      "url": "https://open.spotify.com/track/3qtGLAar7AhrbwLegrYOUE"
-    },
-    {
-      "added_at": "2025-09-12 06:00:13",
-      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 225581,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/22CILLfATiWSO8NsyOhJp3"
+    },
+    {
+      "added_at": "2025-09-12 06:00:13",
+      "album": {
+        "name": "Te Juro Que Te Amo",
+        "url": "https://open.spotify.com/album/048hj9COAKtTGGm3YyO02H"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 208298,
+      "name": "Te Juro Que Te Amo",
+      "url": "https://open.spotify.com/track/3qtGLAar7AhrbwLegrYOUE"
     },
     {
       "added_at": "2025-09-12 06:00:13",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-09-12 06:00:13",
       "album": {
-        "name": "Con Todo Respetillo",
-        "url": "https://open.spotify.com/album/4ROV46hkQiEQelXlcgtSfw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los Chavalos",
-          "url": "https://open.spotify.com/artist/3J8o4uEwZq2fYACRxm4rgf"
-        }
-      ],
-      "duration_ms": 188838,
-      "name": "Con Todo Respetillo",
-      "url": "https://open.spotify.com/track/7pdV3v2uiSdhryajFIeLJJ"
-    },
-    {
-      "added_at": "2025-09-12 06:00:13",
-      "album": {
         "name": "Meneo",
         "url": "https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp"
       },
@@ -651,22 +635,18 @@
     {
       "added_at": "2025-09-12 06:00:13",
       "album": {
-        "name": "El Despertador",
-        "url": "https://open.spotify.com/album/2hqyIE8I3qQb4HQBiDhgip"
+        "name": "Con Todo Respetillo",
+        "url": "https://open.spotify.com/album/4ROV46hkQiEQelXlcgtSfw"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Grupo Los Chavalos",
+          "url": "https://open.spotify.com/artist/3J8o4uEwZq2fYACRxm4rgf"
         }
       ],
-      "duration_ms": 171613,
-      "name": "El Despertador",
-      "url": "https://open.spotify.com/track/1WsorPwrFdjCt7toUE4P7i"
+      "duration_ms": 188838,
+      "name": "Con Todo Respetillo",
+      "url": "https://open.spotify.com/track/7pdV3v2uiSdhryajFIeLJJ"
     },
     {
       "added_at": "2025-09-12 06:00:13",
@@ -687,6 +667,26 @@
       "duration_ms": 179706,
       "name": "Amarre",
       "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
+    },
+    {
+      "added_at": "2025-09-12 06:00:13",
+      "album": {
+        "name": "El Despertador",
+        "url": "https://open.spotify.com/album/2hqyIE8I3qQb4HQBiDhgip"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 171613,
+      "name": "El Despertador",
+      "url": "https://open.spotify.com/track/1WsorPwrFdjCt7toUE4P7i"
     },
     {
       "added_at": "2025-09-12 06:00:13",
@@ -747,6 +747,26 @@
     {
       "added_at": "2025-09-12 06:00:13",
       "album": {
+        "name": "Modo Dif\u00edcil",
+        "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 201461,
+      "name": "Modo Dif\u00edcil",
+      "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
+    },
+    {
+      "added_at": "2025-09-12 06:00:13",
+      "album": {
         "name": "Apaga la luz",
         "url": "https://open.spotify.com/album/2lG9UbKlWrurlbT6GDZJCf"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 170259,
       "name": "El Chore",
       "url": "https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL"
-    },
-    {
-      "added_at": "2025-09-12 06:00:13",
-      "album": {
-        "name": "Modo Dif\u00edcil",
-        "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 201461,
-      "name": "Modo Dif\u00edcil",
-      "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
     },
     {
       "added_at": "2025-09-12 06:00:13",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-09-12 06:00:13",
       "album": {
+        "name": "Adicto A Ti",
+        "url": "https://open.spotify.com/album/3rRx6lmhafwUpFZGVIvTWJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "Adicto A Ti",
+      "url": "https://open.spotify.com/track/3SRlfFW7njWnmzD3KwTCMg"
+    },
+    {
+      "added_at": "2025-09-12 06:00:13",
+      "album": {
         "name": "PERDIDO",
         "url": "https://open.spotify.com/album/1bySzNQNPElENKhS564NkO"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 211250,
       "name": "Porque La Demora",
       "url": "https://open.spotify.com/track/0Dau6menNiCeTqyqGSNgMt"
-    },
-    {
-      "added_at": "2025-09-12 06:00:13",
-      "album": {
-        "name": "Adicto A Ti",
-        "url": "https://open.spotify.com/album/3rRx6lmhafwUpFZGVIvTWJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Adicto A Ti",
-      "url": "https://open.spotify.com/track/3SRlfFW7njWnmzD3KwTCMg"
     },
     {
       "added_at": "2025-09-12 06:00:13",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2025-09-12 06:00:13",
       "album": {
+        "name": "Cada Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/3HklrN7N2hEhOlcDOWJAM9"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 201474,
+      "name": "Cada Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4hxPUai4jc3r76nbnVR88c"
+    },
+    {
+      "added_at": "2025-09-12 06:00:13",
+      "album": {
         "name": "La Bestia",
         "url": "https://open.spotify.com/album/1MVzuXnt954MHjpUhvsjqS"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2025-09-12 06:00:13",
       "album": {
-        "name": "Cada Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/3HklrN7N2hEhOlcDOWJAM9"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 201474,
-      "name": "Cada Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4hxPUai4jc3r76nbnVR88c"
-    },
-    {
-      "added_at": "2025-09-12 06:00:13",
-      "album": {
         "name": "La Que Se Fue, Se Fue",
         "url": "https://open.spotify.com/album/60fXvuA8j60Z8kz78kP28e"
       },
@@ -1299,22 +1299,18 @@
     {
       "added_at": "2025-09-12 06:00:13",
       "album": {
-        "name": "REGALO DE DIOS",
-        "url": "https://open.spotify.com/album/7v0P9sc9ZS62U6UB9c7B16"
+        "name": "TRAVES\u00cdA",
+        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 270328,
-      "name": "REGALO DE DIOS",
-      "url": "https://open.spotify.com/track/1CpICQpUz3ZrHcJs84oAbH"
+      "duration_ms": 216746,
+      "name": "Que Emoci\u00f3n",
+      "url": "https://open.spotify.com/track/4gEJMS993Cg13T1yWZVrKs"
     },
     {
       "added_at": "2025-09-12 06:00:13",
@@ -1347,18 +1343,22 @@
     {
       "added_at": "2025-09-12 06:00:13",
       "album": {
-        "name": "TRAVES\u00cdA",
-        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
+        "name": "REGALO DE DIOS",
+        "url": "https://open.spotify.com/album/7v0P9sc9ZS62U6UB9c7B16"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 216746,
-      "name": "Que Emoci\u00f3n",
-      "url": "https://open.spotify.com/track/4gEJMS993Cg13T1yWZVrKs"
+      "duration_ms": 270328,
+      "name": "REGALO DE DIOS",
+      "url": "https://open.spotify.com/track/1CpICQpUz3ZrHcJs84oAbH"
     },
     {
       "added_at": "2025-09-12 06:00:13",

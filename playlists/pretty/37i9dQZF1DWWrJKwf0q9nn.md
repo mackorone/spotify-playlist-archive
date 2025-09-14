@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,886 likes - 98 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,892 likes - 98 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 14 | [Rock The Party](https://open.spotify.com/track/2oqq6m2yhaocEOukbvwxur) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Rock The Party](https://open.spotify.com/album/0A9qsdWpUkxRMXR6RlQjk9) | 1:56 |
 | 15 | [Punch Drunk Feeling \(Feat david hugo\)](https://open.spotify.com/track/5SoPTQLAFngnBUcETAnrEW) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Punch Drunk Feeling \(Feat david hugo\)](https://open.spotify.com/album/1JoGcASBekbsgXjdO8FrhA) | 2:22 |
 | 16 | [Komodo](https://open.spotify.com/track/1ABRhft3atwd5itDELR0jD) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/1K4UbTRjbfTUR0Xh7NdRjy) | 3:21 |
-| 17 | [Unconditional](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Unconditional](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
+| 17 | [UNCONDITIONAL](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [UNCONDITIONAL](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
 | 18 | [Sleepless Nights](https://open.spotify.com/track/39pgWHKvgtSlvEI0AWvi62) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sleepless Nights](https://open.spotify.com/album/7oqrJHKyfWOJGJqLSG4iDW) | 3:00 |
 | 19 | [Radiate \(feat\. Hayley May\)](https://open.spotify.com/track/1y9Yo4EGuAVlmUr3fgklpm) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [nilsix](https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Radiate \(feat\. Hayley May\)](https://open.spotify.com/album/0qhB3pwU5CkZJ9LT7wBHRg) | 4:03 |
 | 20 | [Cry \(Just A Little\)](https://open.spotify.com/track/5aLTtkq9oHUCCVO96gyNQN) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB) | [Cry \(Just A Little\)](https://open.spotify.com/album/3XnwQ88D5UqWNYXpRQw5ji) | 2:43 |

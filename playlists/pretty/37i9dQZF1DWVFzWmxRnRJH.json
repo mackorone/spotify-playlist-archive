@@ -1,6 +1,6 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 341187,
+  "num_followers": 341323,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "The Road To Here",
-        "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "Boondocks",
-      "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
-    },
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
         "name": "Storms of Life",
         "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 178973,
       "name": "Diggin' Up Bones",
       "url": "https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
+        "name": "The Road To Here",
+        "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "Boondocks",
+      "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
+        "name": "Something Special",
+        "url": "https://open.spotify.com/album/7HaYFV1KJiWYXgQwKoIwOK"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "The Chair",
+      "url": "https://open.spotify.com/track/4sDiJmHNcm0wLTH8ns65va"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
         "name": "Wichita Lineman (Remastered)",
         "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 186200,
       "name": "Wichita Lineman - Remastered 2001",
       "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
-    },
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
-        "name": "I Hope You Dance",
-        "url": "https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv"
-      },
-      "artists": [
-        {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "I Hope You Dance",
-      "url": "https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -1167,34 +1167,18 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "Something Special",
-        "url": "https://open.spotify.com/album/7HaYFV1KJiWYXgQwKoIwOK"
+        "name": "I Hope You Dance",
+        "url": "https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
         }
       ],
-      "duration_ms": 170906,
-      "name": "The Chair",
-      "url": "https://open.spotify.com/track/4sDiJmHNcm0wLTH8ns65va"
-    },
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
-        "name": "Tanya Tucker / Super Hits",
-        "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Delta Dawn",
-      "url": "https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt"
+      "duration_ms": 294533,
+      "name": "I Hope You Dance",
+      "url": "https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -1211,6 +1195,22 @@
       "duration_ms": 199840,
       "name": "Bye-Bye",
       "url": "https://open.spotify.com/track/5FxgRnXBHMM0q4stwqrjjM"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
+        "name": "Tanya Tucker / Super Hits",
+        "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Delta Dawn",
+      "url": "https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "I'm From The Country",
-        "url": "https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS"
-      },
-      "artists": [
-        {
-          "name": "Tracy Byrd",
-          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "I'm From The Country - Single Version",
-      "url": "https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt"
-    },
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 173466,
       "name": "Teach Your Children",
       "url": "https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
+        "name": "I'm From The Country",
+        "url": "https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS"
+      },
+      "artists": [
+        {
+          "name": "Tracy Byrd",
+          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "I'm From The Country - Single Version",
+      "url": "https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "C.W. McCall's Greatest Hits",
-        "url": "https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY"
-      },
-      "artists": [
-        {
-          "name": "C.W. McCall",
-          "url": "https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Convoy",
-      "url": "https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh"
-    },
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
         "name": "When I Call Your Name",
         "url": "https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 255133,
       "name": "When I Call Your Name",
       "url": "https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
+        "name": "C.W. McCall's Greatest Hits",
+        "url": "https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY"
+      },
+      "artists": [
+        {
+          "name": "C.W. McCall",
+          "url": "https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Convoy",
+      "url": "https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "On the Other Hand - All the Number Ones",
-        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
+        "name": "The Very Best of Travis Tritt",
+        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 186746,
-      "name": "If I Didn't Have You",
-      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
+      "duration_ms": 213706,
+      "name": "Take It Easy - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
     }
   ],
   "unique_name": "Raised on Country",

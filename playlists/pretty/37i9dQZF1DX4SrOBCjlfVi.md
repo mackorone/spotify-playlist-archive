@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Coi Leray, Drake, Polo G and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,466 likes - 51 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,577 likes - 51 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 50 | [PSA Pt\. 2](https://open.spotify.com/track/5mLN9CofxY4Ip5s8QfREmJ) | [Iconic Savvy](https://open.spotify.com/artist/2rs4EKIuoLOqrH89wLZ2mC) | [SAVVY SUMMER](https://open.spotify.com/album/5nGN7tQHIRfX8Ds80Qjr6Y) | 2:35 |
 | 51 | [Forbes List](https://open.spotify.com/track/2uFGXKcPCmtUUuVytPHyxQ) | [Hustleman Quise](https://open.spotify.com/artist/6gB8BpeoCpDP1BVmX0uqHd), [Montana 700](https://open.spotify.com/artist/0KpToBdtK9KP6TZPFK2zbw) | [How I Came In](https://open.spotify.com/album/2AgW2wWUiwlhzsVVWnEzR5) | 2:51 |
 
-Snapshot ID: `AAAAADIyC+j4biLNookvqviFIohjKz2D`
+Snapshot ID: `AAAAAOqkK+g1lBIX+X1pVPW6Qen+je2r`

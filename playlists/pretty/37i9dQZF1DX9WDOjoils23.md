@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,506 likes - 50 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,562 likes - 50 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 32 | [Ruh Le Gaya Dil da Jani](https://open.spotify.com/track/1NwvqenZqqhO2ibwEUTAbB) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Tarranum Naaz](https://open.spotify.com/artist/3i77C8F5q6oEiuRB80xgye) | [Dil Mera Dol Da](https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr) | 9:08 |
 | 33 | [Allah Mola](https://open.spotify.com/track/1XYsXVcd5to0wAuIdrzGY4) | [Sultana](https://open.spotify.com/artist/5Y1AqsKrn4ZFw118BUwEfE) | [Allah Mola](https://open.spotify.com/album/6d2xxrqFIldOccXZCxHLQj) | 3:31 |
 | 34 | [Giya Piplan da Dhal](https://open.spotify.com/track/3zTutpd4Y5GjSEr5veg0rp) | [Deedar Singh Pardesi](https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu) | [Ek Buta Ambi Da](https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i) | 7:11 |
-| 35 | [Ishq](https://open.spotify.com/track/74wdoS4XBF6rDcejHiyfBR) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 3:40 |
-| 36 | [Meriyaan Udaasiyann](https://open.spotify.com/track/7HE54gXIfogSglOKCPrnmD) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Meriyaan Udaasiyann](https://open.spotify.com/album/1xWbPeWLVJeLZyFYRt4W9k) | 10:45 |
+| 35 | [Meriyaan Udaasiyann](https://open.spotify.com/track/7HE54gXIfogSglOKCPrnmD) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Meriyaan Udaasiyann](https://open.spotify.com/album/1xWbPeWLVJeLZyFYRt4W9k) | 10:45 |
+| 36 | [Ishq](https://open.spotify.com/track/74wdoS4XBF6rDcejHiyfBR) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 3:40 |
 | 37 | [Bawa](https://open.spotify.com/track/4NrOwtaDJniWjjlmifEyX1) | [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 5:20 |
 | 38 | [Sayio Nee Dhal Challian Pippal Dian Chanwan Poetry](https://open.spotify.com/track/6M4o88XTUa3RxrB4TcN1Gt) | [Dilraj Kaur](https://open.spotify.com/artist/7CyTpH4bv3zB2M6CqYMv3Z) | [Ichhabal Modern Punjabi Poerty](https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp) | 6:54 |
 | 39 | [Nitt De Vichhore Saada Sukh Chain](https://open.spotify.com/track/29351vA9iRgtYyDsXbrMOp) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Punjabi Mehfil, Vol\. 3](https://open.spotify.com/album/6Qyt1ZwPegk8Qx3UfvT64a) | 14:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 49 | [Chhadd Balle Balle Nu \(From "Hoshiar Singh"\)](https://open.spotify.com/track/4kxI1XJtu7ftTRsvM4kmEj) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Chhadd Balle Balle Nu \(From "Hoshiar Singh"\)](https://open.spotify.com/album/5m9hCPOrY8zgLUOFlbGKza) | 3:08 |
 | 50 | [Meri Heeriye Fakiriye](https://open.spotify.com/track/2hkr7JCiGMuZLG8gotQj5t) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Sartaaj](https://open.spotify.com/album/0VUrwBn8uYyR7tM8tLDOto) | 7:35 |
 
-Snapshot ID: `AAAAAFsUKJcHd6MUJSnicqVKLYMEzV4G`
+Snapshot ID: `AAAAAJBAOuegGX7FGnr4WbnoktT2G6X+`
