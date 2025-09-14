@@ -1,4 +1,4 @@
-## Playlists \(8774\)
+## Playlists \(8775\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -2196,6 +2196,7 @@
 - [Fate/Grand Order](/playlists/pretty/37i9dQZF1DWXJLiusIFBdb.md)
 - [Father's Day](/playlists/pretty/37i9dQZF1DWXakVTmpoTAP.md)
 - [Fatima Hajji's track IDs](/playlists/pretty/37i9dQZF1DWVPkU1Q0FTEV.md)
+- [Favs](/playlists/pretty/6HV88uHcSaFJutip6aZgfE.md)
 - [Faxina Nostalgia](/playlists/pretty/37i9dQZF1DXce9JMR6ngZx.md)
 - [Faxina com Sofrência](/playlists/pretty/37i9dQZF1DWVCpC5RyKiLg.md)
 - [Feel Good](/playlists/pretty/37i9dQZF1DWYRdd9noPgqB.md)
