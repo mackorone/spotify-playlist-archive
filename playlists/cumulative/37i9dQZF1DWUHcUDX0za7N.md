@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Wizard Chan
 
-639 songs - 1 day 6 hr 2 min
+640 songs - 1 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [I LOOK GOOD](https://open.spotify.com/track/5hSiM6ctEOTsQAMBjidq2r) | [Eva Alordiah](https://open.spotify.com/artist/3Fys2rzPCbp6tDzQ7YO3Pq) | [I LOOK GOOD](https://open.spotify.com/album/3LaVxJ3gAcD59h3piZ5kAM) | 2:25 | 2024-02-16 | 2024-02-23 |
 | [I Met Nas in a Dream](https://open.spotify.com/track/53ji2kOnMFVz81RblzTCSc) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [Tonee C](https://open.spotify.com/artist/5Yst8ocYJuFir5d09eNFj8) | [I Met Nas in a Dream](https://open.spotify.com/album/0RLi8gzE8HYWZly3iMoVIT) | 2:42 | 2024-11-22 | 2024-11-30 |
 | [I No Be God](https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [I No Be God](https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw) | 2:18 | 2025-03-21 | 2025-09-03 |
-| [i2SABI](https://open.spotify.com/track/2lp9VBNpTnwBkzexrdS2K4) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [444PLAY](https://open.spotify.com/album/2cPlLYr25YG9fHF0u2meRT) | 2:34 | 2025-07-18 |  |
+| [i2SABI](https://open.spotify.com/track/2lp9VBNpTnwBkzexrdS2K4) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [444PLAY](https://open.spotify.com/album/2cPlLYr25YG9fHF0u2meRT) | 2:34 | 2025-07-18 | 2025-09-15 |
 | [Ibadan](https://open.spotify.com/track/4DjaSwVoNBqwWMgjP9cxhY) | [Son of Ika](https://open.spotify.com/artist/5XEgoROh3Nat8vH8PSb0Xi) | [Ibadan](https://open.spotify.com/album/1H6CGuiJMBgfVZ7aV5HxZh) | 1:54 | 2025-08-01 | 2025-08-22 |
 | [Ice Cream](https://open.spotify.com/track/0k1iGWN9cX5SzXE6dGn4to) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ice Cream](https://open.spotify.com/album/1k3GHzhZBvuLUEfpk5NdK5) | 2:15 | 2022-06-09 | 2023-02-24 |
 | [IDAN](https://open.spotify.com/track/6b5Xz3pqizdtTU0UvMSyki) | [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv), [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67) | [IDAN](https://open.spotify.com/album/1dOxtUsvRR96cU5ptMn6zb) | 3:05 | 2024-11-22 | 2024-11-30 |
@@ -507,6 +507,7 @@
 | [Sere](https://open.spotify.com/track/7bhCJLuXAhD7VXkjvwrtG4) | [Evil Beast](https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Sere](https://open.spotify.com/album/5fzyuJuRuonlLJDnXzYx8q) | 2:10 | 2023-11-24 | 2023-12-01 |
 | [Sere \(feat\. Tega boi dc\)](https://open.spotify.com/track/0Kl55thn00rFid2leXTeo9) | [Evil Beast](https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Sere](https://open.spotify.com/album/1ANJrFdux0Uj3j89YlhhUh) | 2:10 | 2023-09-11 | 2023-11-25 |
 | [Sere \(feat\. Tega boi dc\)](https://open.spotify.com/track/5hU61pgNrTLnAdJORwv5Nd) | [Evil Beast](https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Sere \(feat\. Tega boi dc\)](https://open.spotify.com/album/0luLBx14FYCia0BSO2y1Ws) | 2:10 | 2023-12-01 | 2024-04-19 |
+| [Sexy Lady](https://open.spotify.com/track/3k6rW3h5pnZlN0E3rUkNba) | [Lemon Adisa](https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3) | [Sexy Lady](https://open.spotify.com/album/6XMcalRHcZAvPy7hRXjF6H) | 2:52 | 2025-09-05 |  |
 | [Shakara](https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Shakara](https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI) | 3:20 | 2022-06-09 | 2023-02-24 |
 | [Shakur](https://open.spotify.com/track/6FAZgSguZfXqdpqtVjV7iP) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 2:23 | 2022-10-14 | 2022-10-29 |
 | [Shame On You](https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Shame On You](https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e) | 3:06 | 2024-06-07 | 2025-04-21 |

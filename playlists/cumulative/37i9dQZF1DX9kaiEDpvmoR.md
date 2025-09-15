@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-432 songs - 1 day 1 hr 11 min
+433 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,13 +328,14 @@
 | [Silverregn](https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Silverregn / Återvänd till mig](https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95) | 5:54 | 2025-01-23 |  |
 | [Sirens](https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Sirens](https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110) | 2:52 | 2025-01-16 | 2025-05-30 |
 | [Skin and Bones](https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Where Flowers Grow](https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm) | 3:18 | 2024-11-08 | 2025-05-16 |
+| [Skönheten och odjuret](https://open.spotify.com/track/4GRpxB5acnIxYVfYwMkD18) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe), [Linus Wahlgren](https://open.spotify.com/artist/0AYfmrpYfkwRY1tlatDc2Q) | [Skönheten och odjuret](https://open.spotify.com/album/3rYdH9DNXbIbhqANB6QPeO) | 3:00 | 2025-09-11 |  |
 | [Slå upp dina fönster \(musik för sorgfyllda bröst\)](https://open.spotify.com/track/5puE0tlsaUSm5zxqBc8mkl) | [Sofia Karlsson](https://open.spotify.com/artist/2tKGISNf0bei0IxfLQGMEt) | [Slå upp dina fönster \(musik för sorgfyllda bröst\)](https://open.spotify.com/album/5g5O50A5IQhBppY1hcaIEe) | 4:31 | 2025-05-19 | 2025-06-03 |
 | [Sol å snygga män](https://open.spotify.com/track/4hsMGYvX8AHgtqbkQrRDSe) | [Lina Hedlund](https://open.spotify.com/artist/0ISkgZ0y3iY60jiG3SQgvN) | [Sol å snygga män](https://open.spotify.com/album/3VfsKFPtcTtlhDf2l8MyHA) | 3:32 | 2025-06-12 | 2025-06-20 |
 | [Sol, vind och vatten](https://open.spotify.com/track/0Dl6aAece1roeWExwDV6Xs) | [Jakob Karlberg](https://open.spotify.com/artist/2wTNL2DgYACRKqxGb9oKO1) | [Sol, vind och vatten](https://open.spotify.com/album/2tKNEji5t3NPjriC1WXijr) | 3:16 | 2024-06-27 | 2024-08-09 |
 | [Sol, vind och vatten](https://open.spotify.com/track/5s3pTIa2lWnitF6x0pqWDu) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Sol, vind och vatten](https://open.spotify.com/album/6Fz2mcB9LBohD8iKu2uFrg) | 3:38 | 2024-06-27 | 2024-08-30 |
 | [Solen går aldrig ner](https://open.spotify.com/track/7sWi4kUiI1o0dmp72tfZpS) | [Tim Lidman](https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq) | [Solen går aldrig ner](https://open.spotify.com/album/2y5tJvYtWXmNNXizFcF9LT) | 2:40 | 2024-06-27 | 2024-08-16 |
 | [Solen i den vänstra](https://open.spotify.com/track/0TvDOiUmwRKnaXEXosumeI) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Solen i den vänstra](https://open.spotify.com/album/7Jxzxuupn1Jil8QYQknm5Q) | 4:53 | 2024-09-06 | 2025-01-14 |
-| [Solens alla änglar](https://open.spotify.com/track/0IefRffecTIzgApJOf6cms) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe) | [Solens alla änglar](https://open.spotify.com/album/2ckdEx33yCKlLwQjVrTnw4) | 4:17 | 2025-03-27 |  |
+| [Solens alla änglar](https://open.spotify.com/track/0IefRffecTIzgApJOf6cms) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe) | [Solens alla änglar](https://open.spotify.com/album/2ckdEx33yCKlLwQjVrTnw4) | 4:17 | 2025-03-27 | 2025-09-15 |
 | [Som att jag bryr mig](https://open.spotify.com/track/18qdws9fuz3z2DYWJVYDaF) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Som att jag bryr mig](https://open.spotify.com/album/14C1eFILphO24CKmlKNJcE) | 3:02 | 2025-01-09 | 2025-05-16 |
 | [Som en sprucken mandolin](https://open.spotify.com/track/6NmjnuBzH9lE7AzKDLwadl) | [Benny Anderssons Orkester](https://open.spotify.com/artist/5KcJSAFLAEtpCkK5EI0KLS), [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx) | [Alla kan dansa](https://open.spotify.com/album/7iCxq3oFrvvFV2ojh0vaHA) | 3:40 | 2024-09-26 | 2024-11-08 |
 | [Som jag har längtat](https://open.spotify.com/track/4DWHJnyw4aeD3lQqnHyf0S) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn), [Vapendragarna](https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G) | [Som jag har längtat](https://open.spotify.com/album/183IIgn8Rta9AJkGaP90wG) | 3:26 | 2024-06-27 | 2024-08-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 
 > Dance tracks for your power moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,938 likes - 90 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,955 likes - 90 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 61 | [Waste Your Love](https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Waste Your Love](https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd) | 2:47 |
 | 62 | [Feel Better](https://open.spotify.com/track/1UOatZnMxpHnbKBVDyLVUf) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Feel Better](https://open.spotify.com/album/5cONRb78gsiZdp8we3vIUm) | 2:54 |
 | 63 | [Got That](https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Got That](https://open.spotify.com/album/2zbCrqjLeh3tWowXjGQHN1) | 2:46 |
-| 64 | [Make Out](https://open.spotify.com/track/2F86GnddMdes90OgTTp7FZ) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [Make Out](https://open.spotify.com/album/1wYyb3PD5sNXfG962OWgRI) | 2:37 |
+| 64 | [World Gone Wild \(feat\. Sam Martin\) \- Matt Sassari Remix](https://open.spotify.com/track/1E3bD3DEr4wtSk7C9EqsFp) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [World Gone Wild \(feat\. Sam Martin\) \[Matt Sassari Remix\]](https://open.spotify.com/album/4aG4CbD5cqxXZ8rmB0ESp0) | 2:20 |
 | 65 | [Fable](https://open.spotify.com/track/26AfDY0UGmvCqd9kSAhA02) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Fable](https://open.spotify.com/album/6G8n70rc0syjnFkn6SFhmk) | 2:45 |
-| 66 | [World Gone Wild \(feat\. Sam Martin\) \- Matt Sassari Remix](https://open.spotify.com/track/1E3bD3DEr4wtSk7C9EqsFp) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [World Gone Wild \(feat\. Sam Martin\) \[Matt Sassari Remix\]](https://open.spotify.com/album/4aG4CbD5cqxXZ8rmB0ESp0) | 2:20 |
+| 66 | [Make Out](https://open.spotify.com/track/2F86GnddMdes90OgTTp7FZ) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [Make Out](https://open.spotify.com/album/1wYyb3PD5sNXfG962OWgRI) | 2:37 |
 | 67 | [Heavy Steady](https://open.spotify.com/track/1EdKAlrC5taPJcHkHF2yDv) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Heavy Steady](https://open.spotify.com/album/5QcJ5jvAO1DV1sAOyugAz4) | 2:36 |
 | 68 | [Morumbi](https://open.spotify.com/track/3Ffgz1prGwJuIeNiEvKO5h) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Tocadisco](https://open.spotify.com/artist/2iwhenp5euZtZLmtK6cgbe) | [Morumbi](https://open.spotify.com/album/5a9vexwClSZXqcMkWIfnZw) | 3:05 |
 | 69 | [Remember](https://open.spotify.com/track/2Hnr9PJk0eHCIupm3o198W) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [SUPERSTRINGS](https://open.spotify.com/artist/0WDwBVGmUjf7eJUKDpecYz) | [Remember](https://open.spotify.com/album/4UTHlrVzquErmNkkVfI1MM) | 3:39 |

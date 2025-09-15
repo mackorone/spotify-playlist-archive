@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,744 likes - 114 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,782 likes - 114 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 108 | [Wire](https://open.spotify.com/track/57cnDGo73bLHCFAY5uIBJm) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P), [Easymind](https://open.spotify.com/artist/79sbVzBEni3fpzLtDvwh5b), [oddeen](https://open.spotify.com/artist/3wVtQAFYxeJcOdMOEsPogf) | [GEORGE](https://open.spotify.com/album/5YYgmFU4aVssLNV0ISnZuv) | 2:44 |
 | 109 | [God Gave Me Feet For Dancing \- feat\. Yazmin Lacey](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 |
 | 110 | [Villains](https://open.spotify.com/track/3xFjz2vlzkyty4vUCs6HFo) | [Gino](https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Villains](https://open.spotify.com/album/6P5bTg5CNgTGdECjcdUZfU) | 3:12 |
-| 111 | [ItsNotREEAALLLLLLLL](https://open.spotify.com/track/7ijuKZ7TRWKOprJTbTK0Q1) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Duoteque](https://open.spotify.com/artist/1fDV6gCETmlkCUugBxq59g), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [USB](https://open.spotify.com/album/7ibCW271bXBi24a6YGfsDz) | 5:27 |
-| 112 | [What Do You Believe In?](https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In?](https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP) | 3:10 |
+| 111 | [What Do You Believe In?](https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In?](https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP) | 3:10 |
+| 112 | [ItsNotREEAALLLLLLLL](https://open.spotify.com/track/7ijuKZ7TRWKOprJTbTK0Q1) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Duoteque](https://open.spotify.com/artist/1fDV6gCETmlkCUugBxq59g), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [USB](https://open.spotify.com/album/7ibCW271bXBi24a6YGfsDz) | 5:27 |
 | 113 | [Juanita](https://open.spotify.com/track/52iHuhD1Xw0KcMgE55MvcK) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Juanita](https://open.spotify.com/album/6s3Fpi741oftAVXvdqfhe9) | 3:46 |
 | 114 | [En Forma](https://open.spotify.com/track/27FDuXQ7CFYMyFQ29kgz5E) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [En Forma](https://open.spotify.com/album/4oVr846yv4H94fHCHahAjd) | 3:48 |
 

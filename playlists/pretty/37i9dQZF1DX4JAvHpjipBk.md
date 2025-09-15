@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Ed Sheeran, Drake, Kali Uchis & Ravyn Lenae, Demi Lovato, Slayyyter and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,438,302 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,437,810 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Sfera e Shiva in cover \- SMG, One Night Only a Milano\. Ci vediamo al concerto sabato? 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,134,380 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,134,485 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

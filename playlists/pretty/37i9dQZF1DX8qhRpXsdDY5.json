@@ -1,6 +1,6 @@
 {
   "description": "Beloved Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 220382,
+  "num_followers": 220373,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-12-12 20:56:21",
       "album": {
+        "name": "Una Navidad Con Gilberto",
+        "url": "https://open.spotify.com/album/6vX1tbiWHuHkths8Gtq1xc"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "Me Gustan las Navidades",
+      "url": "https://open.spotify.com/track/4f1tQ7QYq0WihANZEdAGCp"
+    },
+    {
+      "added_at": "2024-12-12 20:56:21",
+      "album": {
         "name": "Luis Aguil\u00e9. Sus Grabaciones En Discos Showman Vol.2 (1968-1974)",
         "url": "https://open.spotify.com/album/7wApPeeumUwWYWH1p788Mr"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 154453,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn"
-    },
-    {
-      "added_at": "2024-12-12 20:56:21",
-      "album": {
-        "name": "Una Navidad Con Gilberto",
-        "url": "https://open.spotify.com/album/6vX1tbiWHuHkths8Gtq1xc"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "Me Gustan las Navidades",
-      "url": "https://open.spotify.com/track/4f1tQ7QYq0WihANZEdAGCp"
     },
     {
       "added_at": "2024-12-12 20:56:21",

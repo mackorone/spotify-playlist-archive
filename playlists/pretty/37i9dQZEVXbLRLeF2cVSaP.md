@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,159 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,161 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 42 | [миниюбка](https://open.spotify.com/track/4c8cveMq2r70IVDbJIUwxv) | [emoslut666](https://open.spotify.com/artist/4UYmYu83rr6K8XKURSLeYn) | [страшные следы](https://open.spotify.com/album/54tDpjtDrO6R5VF8qO5fJb) | 1:18 |
 | 43 | [Hoodtrapstar](https://open.spotify.com/track/7N1AiJjucLwjTBvRajtnW0) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [From Sparta to Padre](https://open.spotify.com/album/5H12u8bLTbrdlLQ96iETPL) | 2:07 |
 | 44 | [отвратительный король](https://open.spotify.com/track/03unkZidjzUbrOd35kUPXd) | [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV) | [отвратительный король](https://open.spotify.com/album/58qc9IKDgX0cjEq4yeD3L5) | 1:51 |
-| 45 | [CEREMONY](https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:44 |
+| 45 | [CEREMONY](https://open.spotify.com/track/1GfRjLG3DivFZEr85b6k7G) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/5ULZLn7Vv8TCeIpe0Uh2hO) | 2:44 |
 | 46 | [AIST](https://open.spotify.com/track/3VieScqwrczxcSVTsH20gu) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Graf Monte\-Cristo / Most Valuable Pirate](https://open.spotify.com/album/61ps9wdfl2bgjaKOPQ9zCb) | 2:12 |
 | 47 | [Гектор](https://open.spotify.com/track/71LcXxyXOLybJnTjno152t) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [Гектор](https://open.spotify.com/album/3MapgHBbb88Dpwl4BiZ8DT) | 1:22 |
 | 48 | [AGENT\-PROVOCATEUR](https://open.spotify.com/track/7BgRKxGurY7Kds8X74mD88) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [ENEMY](https://open.spotify.com/album/6Cou92zlMJIMHCInVfrVW4) | 1:42 |
 | 49 | [Wake Up](https://open.spotify.com/track/4T6kkDUqUiv7Adh9o5ImRw) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Wake Up](https://open.spotify.com/album/0KIv2HwJItvjalsFzQRzf8) | 2:45 |
 | 50 | [я не собираюсь мешать](https://open.spotify.com/track/3HuWSpAduuIwOr8Qfu1xK5) | [KRISTIEE](https://open.spotify.com/artist/0qyv7OappGDi0OyJxcqpVt) | [я не собираюсь мешать](https://open.spotify.com/album/1qSJHNrqHmzudSaBAPr6eI) | 2:07 |
 
-Snapshot ID: `MFjgeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFox+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

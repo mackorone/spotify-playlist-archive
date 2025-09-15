@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 120790,
+  "num_followers": 120829,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAANUJPc9LhO5lFkE03l5ZhdXljHvz",
   "tracks": [
-    {
-      "added_at": "2025-03-14 05:25:23",
-      "album": {
-        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
-        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
-      },
-      "artists": [
-        {
-          "name": "William Onyeabor",
-          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
-        }
-      ],
-      "duration_ms": 386160,
-      "name": "Fantastic Man",
-      "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
-    },
     {
       "added_at": "2025-03-14 05:25:23",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 279306,
       "name": "Weekend Special",
       "url": "https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r"
+    },
+    {
+      "added_at": "2025-03-14 05:25:23",
+      "album": {
+        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
+        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "duration_ms": 386160,
+      "name": "Fantastic Man",
+      "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
     },
     {
       "added_at": "2025-03-14 05:25:23",
@@ -396,13 +396,13 @@
       },
       "artists": [
         {
-          "name": "Tony Okoroji",
-          "url": "https://open.spotify.com/artist/3JFUA6La6HVGT8bYYsmucd"
+          "name": "Harry Mosco",
+          "url": "https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl"
         }
       ],
-      "duration_ms": 535160,
-      "name": "Juliana",
-      "url": "https://open.spotify.com/track/7II6pBzmOKIwTWZA6EhHjH"
+      "duration_ms": 331653,
+      "name": "Sugar Cane Baby",
+      "url": "https://open.spotify.com/track/5kFPItOjyYqGrNnqsROU42"
     },
     {
       "added_at": "2025-03-14 05:25:23",
@@ -412,13 +412,13 @@
       },
       "artists": [
         {
-          "name": "Harry Mosco",
-          "url": "https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl"
+          "name": "Tony Okoroji",
+          "url": "https://open.spotify.com/artist/3JFUA6La6HVGT8bYYsmucd"
         }
       ],
-      "duration_ms": 331653,
-      "name": "Sugar Cane Baby",
-      "url": "https://open.spotify.com/track/5kFPItOjyYqGrNnqsROU42"
+      "duration_ms": 535160,
+      "name": "Juliana",
+      "url": "https://open.spotify.com/track/7II6pBzmOKIwTWZA6EhHjH"
     },
     {
       "added_at": "2025-03-14 05:25:23",
@@ -587,18 +587,18 @@
     {
       "added_at": "2025-03-14 05:25:23",
       "album": {
-        "name": "Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973-77 (Soundway Records)",
-        "url": "https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj"
+        "name": "Sibongile",
+        "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
       },
       "artists": [
         {
-          "name": "The Funkees",
-          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
         }
       ],
-      "duration_ms": 448914,
-      "name": "Akula Owu Onyeara",
-      "url": "https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP"
+      "duration_ms": 351053,
+      "name": "Ndihamba Nawe",
+      "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
     },
     {
       "added_at": "2025-03-14 05:25:23",
@@ -619,6 +619,22 @@
       "duration_ms": 745653,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
+    },
+    {
+      "added_at": "2025-03-14 05:25:23",
+      "album": {
+        "name": "Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973-77 (Soundway Records)",
+        "url": "https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "duration_ms": 448914,
+      "name": "Akula Owu Onyeara",
+      "url": "https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP"
     },
     {
       "added_at": "2025-03-14 05:25:23",
@@ -651,22 +667,6 @@
       "duration_ms": 339000,
       "name": "It's About Time",
       "url": "https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO"
-    },
-    {
-      "added_at": "2025-03-14 05:25:23",
-      "album": {
-        "name": "XX - Celebrating 20 Years Of Kalawa Jazmee",
-        "url": "https://open.spotify.com/album/2tOX9Qfl3lZcc8JlWEiokT"
-      },
-      "artists": [
-        {
-          "name": "Bongo Maffin",
-          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
-        }
-      ],
-      "duration_ms": 320240,
-      "name": "Thathi Sgubu",
-      "url": "https://open.spotify.com/track/2OCDwRtjbmAVZaiF93pDn3"
     }
   ],
   "unique_name": "Classic Afropop",

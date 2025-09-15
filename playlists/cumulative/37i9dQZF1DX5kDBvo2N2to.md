@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-402 songs - 21 hr 31 min
+403 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Grått hjärta](https://open.spotify.com/track/2e69EDxpXQcL3sjEWczftg) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [Grått hjärta](https://open.spotify.com/album/0l3dlQtLAH060ylPe7ksnD) | 3:02 | 2025-03-20 | 2025-03-28 |
 | [Gå för glory](https://open.spotify.com/track/5JF5WXIyAvGAhMVI8Rn5AG) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Gå för glory](https://open.spotify.com/album/0O1Vm8GzLMmuaG73QKDq0a) | 3:26 | 2025-01-16 | 2025-06-27 |
 | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk) | 3:31 | 2024-10-10 | 2025-05-23 |
-| [Hail Mary](https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hail Mary](https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU) | 2:46 | 2025-06-19 |  |
+| [Hail Mary](https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hail Mary](https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU) | 2:46 | 2025-06-19 | 2025-09-15 |
 | [Halleluja](https://open.spotify.com/track/0Oz87iCfzi4JXmEV3YdjZf) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Halleluja](https://open.spotify.com/album/6oG0r4B68LY1oQIe8rQJuv) | 2:37 | 2025-01-16 | 2025-04-19 |
 | [HALLÅ \(finns det någon här som hör mig?\)](https://open.spotify.com/track/5hOnEGZYlR9DzBNndF9gke) | [Henning Bourghardt](https://open.spotify.com/artist/4ZWqMmReiisFGAdek6qYpP) | [HALLÅ \(finns det någon här som hör mig?\)](https://open.spotify.com/album/5HKd0f7dQO7dEMZ5a0i5cE) | 2:30 | 2024-10-10 | 2024-10-24 |
 | [Han vill ha dig](https://open.spotify.com/track/3ZkBKXprXJkxTgnB0dihHG) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Han vill ha dig](https://open.spotify.com/album/4H9LJsjpxU9m2F6plJrp5a) | 3:28 | 2025-09-11 |  |
@@ -257,6 +257,7 @@
 | [Mayflowers](https://open.spotify.com/track/5RaVwbwzUBO09MkQV8tcMr) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Copium](https://open.spotify.com/album/3W4rMKjMNt7AfTPnkHoYGC) | 2:39 | 2024-06-28 | 2024-08-30 |
 | [Mellan Stockholm & Lund](https://open.spotify.com/track/1RjL6HmLPSzqp70Xg4Ivpg) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Mellan Stockholm & Lund](https://open.spotify.com/album/04iAIpyezWd5lNmP5XcuWb) | 2:26 | 2025-08-21 |  |
 | [Memej](https://open.spotify.com/track/444MYG2ruLc3bQhW4eei0l) | [Oh Mar](https://open.spotify.com/artist/1FuN1nqOZUFzpJMZih3XMe) | [Memej](https://open.spotify.com/album/6BrWFuKKrLEIv0qT1YtHBG) | 2:08 | 2025-08-07 | 2025-08-15 |
+| [Men du](https://open.spotify.com/track/76MUeiYerAnR6J5GvBXM4U) | [Elin Wiigh](https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn) | [Men du](https://open.spotify.com/album/7HLTPSI5iTSLad6OJHid1P) | 3:07 | 2025-09-11 |  |
 | [Mercy](https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Mercy](https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl) | 3:02 | 2024-06-28 | 2025-04-09 |
 | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E), [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S) | 2:56 | 2025-09-11 |  |
 | [Might Destroy You](https://open.spotify.com/track/58tteWR7XWQwM7sfH6hDaP) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Might Destroy You](https://open.spotify.com/album/6wreWP88Dq9htpmXBz0qQe) | 2:34 | 2024-08-08 | 2024-10-25 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-226 songs - 11 hr 49 min
+227 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,8 @@
 | [Marry Me](https://open.spotify.com/track/4HpQKgKo9tk9xf7yLxgppS) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Marry Me \(Wedding Video\)](https://open.spotify.com/album/1K2AsL850MH9m3MziPBzBy) | 3:36 | 2024-01-02 | 2024-01-31 |
 | [Me Too](https://open.spotify.com/track/1m4dXbkplvaOO4Wbdjbwxs) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:01 | 2023-12-31 | 2025-07-12 |
 | [Me Too](https://open.spotify.com/track/2rjwLuDkeT4bQ7T5hXKMR3) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Me Too](https://open.spotify.com/album/542uFsrJQ2QTMdU2UXav89) | 3:01 | 2023-12-30 | 2024-02-01 |
-| [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/track/7oN7VcpfjpSyuzScL3930l) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/album/4t4REL6KQpg2leApBEG23W) | 2:31 | 2025-05-16 |  |
+| [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/track/0gFfVhkNsfRjXg1zLFmbLT) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:31 | 2025-09-14 |  |
+| [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/track/7oN7VcpfjpSyuzScL3930l) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/album/4t4REL6KQpg2leApBEG23W) | 2:31 | 2025-05-16 | 2025-09-15 |
 | [Mom \(feat\. Kelli Trainor\)](https://open.spotify.com/track/7DCmHP3gX1PvlQNm0ia8Cf) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Kelli Trainor](https://open.spotify.com/artist/1pW0NUJuJSLcLNW1JTlqiP) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:14 | 2023-12-30 | 2025-07-12 |
 | [More Than Friends \(feat\. Meghan Trainor\)](https://open.spotify.com/track/03VNgdCL9t8aPyvwZecglI) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Know.](https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm) | 3:01 | 2023-12-30 | 2025-07-12 |
 | [More Than Friends \(feat\. Meghan Trainor\)](https://open.spotify.com/track/6y7zyXqsJMRWzIYuJ3KXxZ) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [More Than Friends \(feat\. Meghan Trainor\)](https://open.spotify.com/album/7LLCougEDWEEnAhxRCI5Fx) | 3:02 | 2023-12-31 | 2024-02-01 |

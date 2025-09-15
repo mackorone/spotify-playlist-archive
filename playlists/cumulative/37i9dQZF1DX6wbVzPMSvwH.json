@@ -111,6 +111,24 @@
     },
     {
       "album": {
+        "name": "Aku Ingin",
+        "url": "https://open.spotify.com/album/5M7gzKtJsGKEhhV7Isa0ES"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Gaskins",
+          "url": "https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261303,
+      "name": "Aku Ingin",
+      "url": "https://open.spotify.com/track/4lmgkmp7kOMg0ilXMyJheF"
+    },
+    {
+      "album": {
         "name": "Aku Rindu (feat. Oslo Ibrahim)",
         "url": "https://open.spotify.com/album/0po3vBU4rl0fTEwWr9qYOy"
       },

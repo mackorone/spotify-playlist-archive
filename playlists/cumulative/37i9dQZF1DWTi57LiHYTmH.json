@@ -1587,6 +1587,32 @@
     },
     {
       "album": {
+        "name": "Fortissima",
+        "url": "https://open.spotify.com/album/52nyxasP91msWuPs0C64Dl"
+      },
+      "artists": [
+        {
+          "name": "Luise Adolpha Le Beau",
+          "url": "https://open.spotify.com/artist/15KzHD78uVagBwSRELfIDX"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        },
+        {
+          "name": "Julian Riem",
+          "url": "https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312333,
+      "name": "Cello Sonata in D Major, Op. 17: II. Andante tranquillo",
+      "url": "https://open.spotify.com/track/47h1LqaY7KTqI5eYnaLvrz"
+    },
+    {
+      "album": {
         "name": "1846, derni\u00e8re ann\u00e9e \u00e0 Nohant - Chopin: Cello Sonata; Piano Works",
         "url": "https://open.spotify.com/album/3gFpVgQIJzQzBqr1uWAsHQ"
       },
@@ -1892,7 +1918,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 269393,
       "name": "Conception",
       "url": "https://open.spotify.com/track/3CEk3HUa5Mg8Ryz24qu5LC"
@@ -2681,6 +2707,24 @@
     },
     {
       "album": {
+        "name": "The Importance of Birds",
+        "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "From a Convenient Grass",
+      "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
+    },
+    {
+      "album": {
         "name": "Tchaikovsky: Piano Concerto No. 1",
         "url": "https://open.spotify.com/album/3XOHLGlVerK61CyOIt4pEF"
       },
@@ -3238,6 +3282,24 @@
       "duration_ms": 58893,
       "name": "Lakm\u00e9: Flower Duet",
       "url": "https://open.spotify.com/track/5K8jqeLAxZIqHR6e5w5so1"
+    },
+    {
+      "album": {
+        "name": "Last Trip Around the Sun",
+        "url": "https://open.spotify.com/album/0VbwQNe0djQ6n5I1cKtPX8"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166810,
+      "name": "Last Trip Around the Sun",
+      "url": "https://open.spotify.com/track/2X2bsPfqB3ih1iS8KSqU1c"
     },
     {
       "album": {
@@ -4412,7 +4474,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 143189,
       "name": "Or\u00edensa",
       "url": "https://open.spotify.com/track/467rzaIMT7UEmkMGlJM8ho"
@@ -4850,6 +4912,28 @@
       "duration_ms": 323858,
       "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
       "url": "https://open.spotify.com/track/4eqguQ4cObNAYvlFlGcZkf"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Edit)",
+        "url": "https://open.spotify.com/album/7ccd4dlgDTaEfuzivfo7Gz"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140665,
+      "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo - Edit",
+      "url": "https://open.spotify.com/track/01Ir8veMRt2G54ZKPPvrJW"
     },
     {
       "album": {
@@ -6084,7 +6168,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 129360,
       "name": "Suite d'orchestre dans le style ancien, Op. 2: II. Sarabande. Mesto",
       "url": "https://open.spotify.com/track/3C8Xxgad3ejXfJ0RiJq9G1"
@@ -6844,7 +6928,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 96253,
       "name": "Waltz in G-Flat Major, D. 1/14 \"Kupelwieser-Walzer\"",
       "url": "https://open.spotify.com/track/0w5HZnzDgV3WgpIRZG1U6U"

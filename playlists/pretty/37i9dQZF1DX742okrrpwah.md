@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > SANTA, Ed Sheeran et Feu! Chatterton au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,335 likes - 99 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,541 likes - 99 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 41 | [Higher Than Before](https://open.spotify.com/track/7irwdKYcZ0OsiAUgP0WStP) | [Peter Dallas](https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh), [éol](https://open.spotify.com/artist/3Qsh8vZLpSAHADVBkGD70N) | [Adult](https://open.spotify.com/album/3Ny9XMvVVgNr9fDn8kS2ln) | 2:35 |
 | 42 | [Take A Drive](https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Take A Drive](https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a) | 3:45 |
 | 43 | [Sage](https://open.spotify.com/track/7dWF43SRnWnqRNVXTa43lG) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [Sincère](https://open.spotify.com/album/4kuvu8IkLHyb3yodU8qNZ5) | 2:45 |
-| 44 | [Haut les coeurs](https://open.spotify.com/track/6WHLlfd4QpKu9rK8gOWCY1) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Haut les coeurs\*](https://open.spotify.com/album/2ZZB68unzpDYt770nYA57y) | 2:52 |
+| 44 | [Haut les coeurs](https://open.spotify.com/track/6WHLlfd4QpKu9rK8gOWCY1) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Haut les coeurs\*](https://open.spotify.com/album/2ZZB68unzpDYt770nYA57y) | 2:49 |
 | 45 | [GuabanSexxx](https://open.spotify.com/track/7pEwEHqjqx3kmXjXCOihff) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [GuabanSexxx](https://open.spotify.com/album/0kKZV7SgHvDgvpV4iLNBjq) | 2:41 |
 | 46 | [Bandit](https://open.spotify.com/track/54PjbXrV6ONeRRZ0Ryvjzg) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Bandit](https://open.spotify.com/album/4C961BvDSC4LhIvTvFBM5K) | 2:36 |
 | 47 | [112](https://open.spotify.com/track/6LMeT9MN8aYMT1sp6CPVZ3) | [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [112](https://open.spotify.com/album/2yF9faLFKf5b5nbo5DxMOb) | 2:44 |

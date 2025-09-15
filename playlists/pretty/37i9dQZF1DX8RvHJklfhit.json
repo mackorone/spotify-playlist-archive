@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 211834,
+  "num_followers": 211870,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "Ser\u00e1",
+        "url": "https://open.spotify.com/album/3pmsaPjaLVhM7In7eZKEre"
+      },
+      "artists": [
+        {
+          "name": "La Vida Boh\u00e8me",
+          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
+        }
+      ],
+      "duration_ms": 257453,
+      "name": "La Vida Mejor",
+      "url": "https://open.spotify.com/track/4dkjZa9RAkz1RKZAAxQnUD"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "Adi\u00f3s",
         "url": "https://open.spotify.com/album/0Q387CN0LUiJentAMwkSLA"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 166583,
       "name": "Lejos (feat. Coco Santos)",
       "url": "https://open.spotify.com/track/672t21hOO34Xvv6oMLvzPN"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "Ser\u00e1",
-        "url": "https://open.spotify.com/album/3pmsaPjaLVhM7In7eZKEre"
-      },
-      "artists": [
-        {
-          "name": "La Vida Boh\u00e8me",
-          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
-        }
-      ],
-      "duration_ms": 257453,
-      "name": "La Vida Mejor",
-      "url": "https://open.spotify.com/track/4dkjZa9RAkz1RKZAAxQnUD"
     },
     {
       "added_at": "2024-07-12 18:08:37",

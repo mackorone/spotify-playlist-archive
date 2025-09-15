@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > Takeover: Candelabrum Metal Fest 2025
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,504 likes - 120 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,495 likes - 120 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

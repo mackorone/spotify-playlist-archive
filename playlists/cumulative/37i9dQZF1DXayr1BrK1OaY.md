@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-565 songs - 1 day 9 hr 18 min
+566 songs - 1 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/track/4dZHhJUpHa0D3kSN8iOVvx) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/album/2bcHQl1hCwAZRHERbtDR4d) | 2:36 | 2021-04-16 | 2024-08-17 |
 | [Chains \(feat\. Daya\)](https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Chains \(feat\. Daya\)](https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0) | 3:19 | 2024-03-29 | 2024-04-09 |
 | [Change This Pain For Ecstasy](https://open.spotify.com/track/2o9XDwndOF3b3uQqoI6N53) | [Rex The Dog](https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC) | [Change This Pain For Ecstasy](https://open.spotify.com/album/08xHiG90YhACt4w637oTqn) | 3:27 | 2024-04-19 | 2025-02-16 |
-| [Change Your Mind](https://open.spotify.com/track/5uaDalQlyPv4qBwjvM2PRT) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Change Your Mind](https://open.spotify.com/album/7HAJI7LMmkBcC3GZDSszrk) | 4:00 | 2025-08-15 |  |
+| [Change Your Mind](https://open.spotify.com/track/5uaDalQlyPv4qBwjvM2PRT) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Change Your Mind](https://open.spotify.com/album/7HAJI7LMmkBcC3GZDSszrk) | 4:00 | 2025-08-15 | 2025-09-15 |
 | [Cheating Heart](https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Monophase \(IT\)](https://open.spotify.com/artist/2zOPWsVJRlO1narDOJ8z9Z), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [Cheating Heart](https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn) | 3:40 | 2025-02-21 | 2025-05-24 |
 | [Choices \(We Made\)](https://open.spotify.com/track/2Q8YkqxwL8hOUHQ2uve0nK) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [U Know Me?](https://open.spotify.com/album/2eLIrXEoeCoSPG1sEQrvK0) | 3:38 | 2024-11-22 | 2025-02-16 |
 | [Cigarette](https://open.spotify.com/track/5xiiqiCNaFVAged8VtyEnM) | [Lucky Yu](https://open.spotify.com/artist/7EVJloAqLSz0LiDi3308dL) | [Cigarette](https://open.spotify.com/album/6JJUx5ImjU5D10N4mpLs7f) | 3:30 | 2024-05-10 | 2024-08-17 |
@@ -523,6 +523,7 @@
 | [u told me](https://open.spotify.com/track/3LRjxc6kt4MGoqGulI6ZhT) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv), [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [u told me](https://open.spotify.com/album/7wwvgEMy1YFm66dRklYZcz) | 2:52 | 2025-01-24 | 2025-02-16 |
 | [U Were Mine](https://open.spotify.com/track/4jh9AK3ejCk1ueDAr2VGGl) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Out There](https://open.spotify.com/album/3eae86ngTES2NdFjffBlTM) | 3:35 | 2024-01-26 | 2024-02-17 |
 | [U&ME](https://open.spotify.com/track/25ZR15mdsTb5fubAu1dbZc) | [Stresshead](https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs) | [U&ME](https://open.spotify.com/album/5qMQZdRVSr7MBBNSmZ3H1d) | 2:36 | 2024-05-10 | 2025-05-31 |
+| [UNCONDITIONAL](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [UNCONDITIONAL](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 | 2025-09-12 |  |
 | [Underwater](https://open.spotify.com/track/05VS9ifTEUpV6RiajKLxxW) | [19Clouds](https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF) | [Underwater](https://open.spotify.com/album/2Te7Vf1TcGQBbSlh3BRWat) | 2:47 | 2024-03-01 | 2025-06-14 |
 | [Underwater](https://open.spotify.com/track/6Iw43Wm8LRMwCfgkKEed0u) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Messing With Magic](https://open.spotify.com/album/7uZGulWnnHuNfRkzGZ2yEa) | 2:57 | 2021-04-02 | 2022-06-24 |
 | [Underwater \- MAFRO Remix](https://open.spotify.com/track/2hfLJtAGFiRGu0JwsBfpzF) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Underwater \(MAFRO Remix\)](https://open.spotify.com/album/34Nvyk7E5e6Nl7gjRNQPto) | 3:36 | 2024-02-16 | 2024-04-13 |

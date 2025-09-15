@@ -1489,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "Every Girl",
+        "url": "https://open.spotify.com/album/0rmckhgttnp4e5WaaBCVQw"
+      },
+      "artists": [
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170934,
+      "name": "Drink Up",
+      "url": "https://open.spotify.com/track/7lBhBYIo8ZZar90G2y4UAK"
+    },
+    {
+      "album": {
         "name": "Come On With It",
         "url": "https://open.spotify.com/album/5xPnmT5CGuQp1E0vxPXveO"
       },

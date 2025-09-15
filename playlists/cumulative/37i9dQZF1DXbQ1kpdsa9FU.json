@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Classic Contemporary Christian songs you can always count on! Cover: Chris Tomlin",
+  "description": "Classic Contemporary Christian songs you can always count on! Cover: Phil Wickham",
   "name": "Christian Classics",
   "tracks": [
     {
@@ -880,6 +880,24 @@
       "duration_ms": 289746,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
+    },
+    {
+      "album": {
+        "name": "Come What May",
+        "url": "https://open.spotify.com/album/3skjNvlGvAQwauNzv217yy"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201671,
+      "name": "Come What May",
+      "url": "https://open.spotify.com/track/5zpuYdCR4Tmm7zv6wYgqMK"
     },
     {
       "album": {
@@ -5020,7 +5038,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 353013,
       "name": "Revelation Song",
       "url": "https://open.spotify.com/track/2BflXRITyEi4dUJ6XJtahG"
@@ -5154,7 +5172,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 277720,
       "name": "Shout To the Lord",
       "url": "https://open.spotify.com/track/6Zs9I09InN5IzZl46WGUVf"
@@ -5354,7 +5372,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-14",
+      "date_removed": null,
       "duration_ms": 184733,
       "name": "Start A Fire",
       "url": "https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter"
@@ -6582,7 +6600,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 267906,
       "name": "Whom Shall I Fear (God Of Angel Armies)",
       "url": "https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz"
@@ -6798,7 +6816,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 254443,
       "name": "You Are My King (Amazing Love) - Spotify Singles",
       "url": "https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN"

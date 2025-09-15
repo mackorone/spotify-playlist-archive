@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Grandes \u00c9xitos - Luis Mateus y David Rend\u00f3n",
+        "url": "https://open.spotify.com/album/7nfMoMwDa68qYPOKjjM7tU"
+      },
+      "artists": [
+        {
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259015,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/5aRkqvho3gUvxrljEbpnTT"
+    },
+    {
+      "album": {
         "name": "Los 3 Amigos",
         "url": "https://open.spotify.com/album/192GUv5p5fMEjf7ODUdpof"
       },
@@ -2952,7 +2970,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 283853,
       "name": "No Voy A Llorar",
       "url": "https://open.spotify.com/track/3w3qhkJcjCPmJuNQH6Nrt0"
@@ -3326,7 +3344,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-11",
+      "date_removed": null,
       "duration_ms": 283786,
       "name": "Que No Me Faltes Tu",
       "url": "https://open.spotify.com/track/1lMWIocgDgDRBmYQnoTi44"
@@ -3414,7 +3432,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 298986,
       "name": "Quiero Que Seas Mi Estrella",
       "url": "https://open.spotify.com/track/1BId2hCYqsaajdDYbwZc1p"
@@ -4204,7 +4222,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 280783,
       "name": "Un Solo Cuerpo",
       "url": "https://open.spotify.com/track/6nF6pFyr9m8x6Fc3Dz57Hk"
@@ -4338,7 +4356,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 276413,
       "name": "Volvio El Dolor",
       "url": "https://open.spotify.com/track/0Hherx8M8jlKSB3Rr2iz2N"

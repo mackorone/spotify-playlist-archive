@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > freshly squeezed 🧹 daydreamers
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,389 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,390 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Back In Town](https://open.spotify.com/track/2UYMqEc8YckMucNfU6z7nc) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Super Pedestrian](https://open.spotify.com/album/1VWd62Gbw17U0BUEp1jZE6) | 3:36 |
 | 2 | [Good Intentions](https://open.spotify.com/track/0P5PPuVLKdyHnWdjbOeMxa) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Good Intentions](https://open.spotify.com/album/3UmgT04hGukECZlKdsmFmW) | 2:58 |
 | 3 | [Lemonade](https://open.spotify.com/track/7xUxlg5T0d9p04TjqrIVb9) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Lemonade](https://open.spotify.com/album/4XKswa1EEfMw5fZMy7tITU) | 2:36 |
-| 4 | [Buttercup](https://open.spotify.com/track/2tyG8HDeoOQpN5XHwB0e96) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Buttercup](https://open.spotify.com/album/24u8S8yWPezu70hemgvdp0) | 4:30 |
+| 4 | [buttercup](https://open.spotify.com/track/2tyG8HDeoOQpN5XHwB0e96) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [buttercup](https://open.spotify.com/album/24u8S8yWPezu70hemgvdp0) | 4:30 |
 | 5 | [Better Without You](https://open.spotify.com/track/38iOwl3BlTJPfzY0qpWn6d) | [Edie Bens](https://open.spotify.com/artist/0BdtAVeSQlKZkWcgcz7aLS) | [Songs for Myfanwy](https://open.spotify.com/album/31H5DZZXYZ6PvN4ZOWlBW7) | 3:24 |
 | 6 | [Adventures In Monotony](https://open.spotify.com/track/7batUU1Nc3QS2Bjafam0Xy) | [Kamran Khan](https://open.spotify.com/artist/4Kl1w2H0gNlDJ4JB1pL2EA) | [Adventures In Monotony](https://open.spotify.com/album/6uxo4EDZKtg3BiJvSf6cVC) | 2:18 |
 | 7 | [someone](https://open.spotify.com/track/2RYZvP3DX7lj8Yzpv63UYF) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [someone](https://open.spotify.com/album/53w2Th0lIwncJDoLhhfz9a) | 3:29 |

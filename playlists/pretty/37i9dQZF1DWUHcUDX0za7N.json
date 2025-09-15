@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Wizard Chan",
-  "num_followers": 69682,
+  "num_followers": 69742,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2025-09-05 00:01:29",
       "album": {
+        "name": "THE MACHINE IS COMING",
+        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 169285,
+      "name": "LEGOLAS",
+      "url": "https://open.spotify.com/track/0OWPr4POCQ7iH9BGmTxOZV"
+    },
+    {
+      "added_at": "2025-09-05 00:01:29",
+      "album": {
         "name": "Free Service",
         "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
       },
@@ -375,26 +391,6 @@
     {
       "added_at": "2025-09-05 00:01:29",
       "album": {
-        "name": "BlownBoy RU",
-        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Giveaway",
-      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
-    },
-    {
-      "added_at": "2025-09-05 00:01:29",
-      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/1hubduTkpAtoo68MPDm6rT"
       },
@@ -431,18 +427,42 @@
     {
       "added_at": "2025-09-05 00:01:29",
       "album": {
-        "name": "THE MACHINE IS COMING",
-        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
+        "name": "BlownBoy RU",
+        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Giveaway",
+      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
+    },
+    {
+      "added_at": "2025-09-05 00:01:29",
+      "album": {
+        "name": "PITY THIS BOY",
+        "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
       },
       "artists": [
         {
           "name": "ODUMODUBLVCK",
           "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 169285,
-      "name": "LEGOLAS",
-      "url": "https://open.spotify.com/track/0OWPr4POCQ7iH9BGmTxOZV"
+      "duration_ms": 165000,
+      "name": "PITY THIS BOY (with Victony)",
+      "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
     },
     {
       "added_at": "2025-09-05 00:01:29",
@@ -523,26 +543,6 @@
     {
       "added_at": "2025-09-05 00:01:29",
       "album": {
-        "name": "PITY THIS BOY",
-        "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "PITY THIS BOY (with Victony)",
-      "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
-    },
-    {
-      "added_at": "2025-09-05 00:01:29",
-      "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/2IYHliuJCkUkswU1sb3XHM"
       },
@@ -615,22 +615,26 @@
     {
       "added_at": "2025-09-05 00:01:29",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
+        "name": "THE MACHINE IS COMING",
+        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         },
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is"
+        },
+        {
+          "name": "Valentino Rose",
+          "url": "https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t"
         }
       ],
-      "duration_ms": 205263,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
+      "duration_ms": 172800,
+      "name": "TOY GIRL (with Juno & Valentino Rose)",
+      "url": "https://open.spotify.com/track/3iHp95MVzN1hBiOuR0cJmy"
     },
     {
       "added_at": "2025-09-05 00:01:29",
@@ -655,26 +659,22 @@
     {
       "added_at": "2025-09-05 00:01:29",
       "album": {
-        "name": "THE MACHINE IS COMING",
-        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         },
         {
-          "name": "Juno",
-          "url": "https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is"
-        },
-        {
-          "name": "Valentino Rose",
-          "url": "https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 172800,
-      "name": "TOY GIRL (with Juno & Valentino Rose)",
-      "url": "https://open.spotify.com/track/3iHp95MVzN1hBiOuR0cJmy"
+      "duration_ms": 205263,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
     },
     {
       "added_at": "2025-09-05 00:01:29",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-09-05 00:01:29",
       "album": {
-        "name": "Xistence.",
-        "url": "https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5"
-      },
-      "artists": [
-        {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
-        }
-      ],
-      "duration_ms": 98964,
-      "name": "flavor.",
-      "url": "https://open.spotify.com/track/3q51YwUa160xFufWZuPM78"
-    },
-    {
-      "added_at": "2025-09-05 00:01:29",
-      "album": {
         "name": "Jehovah",
         "url": "https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2025-09-05 00:01:29",
       "album": {
-        "name": "Bad Boy",
-        "url": "https://open.spotify.com/album/1H5E7l7pGFxDIRGa6Ory2P"
+        "name": "Xistence.",
+        "url": "https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5"
       },
       "artists": [
         {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
         }
       ],
-      "duration_ms": 142001,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/3se8r711I0D2zoOIi2LH7E"
+      "duration_ms": 98964,
+      "name": "flavor.",
+      "url": "https://open.spotify.com/track/3q51YwUa160xFufWZuPM78"
     },
     {
       "added_at": "2025-09-05 00:01:29",
@@ -1035,6 +1019,22 @@
       "duration_ms": 136732,
       "name": "Hello Habibi",
       "url": "https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM"
+    },
+    {
+      "added_at": "2025-09-05 00:01:29",
+      "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/1H5E7l7pGFxDIRGa6Ory2P"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        }
+      ],
+      "duration_ms": 142001,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/3se8r711I0D2zoOIi2LH7E"
     },
     {
       "added_at": "2025-09-05 00:01:29",
@@ -1163,46 +1163,6 @@
     {
       "added_at": "2025-09-05 00:01:29",
       "album": {
-        "name": "Pawon Boy Vol.1",
-        "url": "https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Dj 4kerty",
-          "url": "https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG"
-        }
-      ],
-      "duration_ms": 135652,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a"
-    },
-    {
-      "added_at": "2025-09-05 00:01:29",
-      "album": {
-        "name": "Olufunmi (The Missing Recipe)",
-        "url": "https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Styl-Plus",
-          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Olufunmi (The Missing Recipe)",
-      "url": "https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon"
-    },
-    {
-      "added_at": "2025-09-05 00:01:29",
-      "album": {
         "name": "Zaza (feat. ODUMODUBLVCK)",
         "url": "https://open.spotify.com/album/1jRnWoU55hKmRllDJsTvvU"
       },
@@ -1219,6 +1179,26 @@
       "duration_ms": 127058,
       "name": "Zaza (feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/53BtrOyMr2ETb8Mtk7qruJ"
+    },
+    {
+      "added_at": "2025-09-05 00:01:29",
+      "album": {
+        "name": "Pawon Boy Vol.1",
+        "url": "https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Dj 4kerty",
+          "url": "https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG"
+        }
+      ],
+      "duration_ms": 135652,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a"
     },
     {
       "added_at": "2025-09-05 00:01:29",
@@ -1259,6 +1239,26 @@
       "duration_ms": 180530,
       "name": "ASAMPETE",
       "url": "https://open.spotify.com/track/1J9cc7U4jyaOgoCJ7Nssmf"
+    },
+    {
+      "added_at": "2025-09-05 00:01:29",
+      "album": {
+        "name": "Olufunmi (The Missing Recipe)",
+        "url": "https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Styl-Plus",
+          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Olufunmi (The Missing Recipe)",
+      "url": "https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon"
     },
     {
       "added_at": "2025-09-05 00:01:29",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-09-05 00:01:29",
       "album": {
+        "name": "Sexy Lady",
+        "url": "https://open.spotify.com/album/6XMcalRHcZAvPy7hRXjF6H"
+      },
+      "artists": [
+        {
+          "name": "Lemon Adisa",
+          "url": "https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3"
+        }
+      ],
+      "duration_ms": 172394,
+      "name": "Sexy Lady",
+      "url": "https://open.spotify.com/track/3k6rW3h5pnZlN0E3rUkNba"
+    },
+    {
+      "added_at": "2025-09-05 00:01:29",
+      "album": {
         "name": "Hello Habibi",
         "url": "https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07"
       },
@@ -1343,30 +1359,6 @@
       "duration_ms": 194661,
       "name": "Hello Habibi",
       "url": "https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY"
-    },
-    {
-      "added_at": "2025-09-05 00:01:29",
-      "album": {
-        "name": "444PLAY",
-        "url": "https://open.spotify.com/album/2cPlLYr25YG9fHF0u2meRT"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        },
-        {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "i2SABI",
-      "url": "https://open.spotify.com/track/2lp9VBNpTnwBkzexrdS2K4"
     }
   ],
   "unique_name": "Naija Bars ",

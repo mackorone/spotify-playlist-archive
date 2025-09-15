@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCoIfIXcr8r.md) - [plain]
 
 > Find your flow with a classical Indian soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,746 likes - 50 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,770 likes - 50 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

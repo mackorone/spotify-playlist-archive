@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu positif untuk mengawali harimu.",
-  "num_followers": 253111,
+  "num_followers": 253116,
   "original_name": "Semangat Pagi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJdHu1Lp2X3cGDzjKLN+22Fj/cCe",
+  "snapshot_id": "AAAAAH6a5cvITEC6MO17HfYW03udLfwu",
   "tracks": [
     {
       "added_at": "2025-03-03 12:33:50",
@@ -171,6 +171,22 @@
       "duration_ms": 219695,
       "name": "Kata Kata",
       "url": "https://open.spotify.com/track/2AzoifKBHrbzI3WCrdEhZo"
+    },
+    {
+      "added_at": "2025-09-15 02:35:46",
+      "album": {
+        "name": "Aku Ingin",
+        "url": "https://open.spotify.com/album/5M7gzKtJsGKEhhV7Isa0ES"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Gaskins",
+          "url": "https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR"
+        }
+      ],
+      "duration_ms": 261303,
+      "name": "Aku Ingin",
+      "url": "https://open.spotify.com/track/4lmgkmp7kOMg0ilXMyJheF"
     },
     {
       "added_at": "2025-03-03 12:33:50",

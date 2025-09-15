@@ -41,6 +41,68 @@
     },
     {
       "album": {
+        "name": "Gravitas",
+        "url": "https://open.spotify.com/album/7JA2YnBXzhTeGnTQ2JVhNd"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Kanjii Mbugua",
+          "url": "https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY"
+        },
+        {
+          "name": "Jonni Mae",
+          "url": "https://open.spotify.com/artist/530VpfY3yZBmxkNCDbwsrt"
+        },
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        },
+        {
+          "name": "JonCarlos + Gabriella",
+          "url": "https://open.spotify.com/artist/6QluT3zLHLfjZZNcWvpL47"
+        },
+        {
+          "name": "Jenny Wahlstr\u00f6m",
+          "url": "https://open.spotify.com/artist/42ngjMklH9b9JLMudMnLEp"
+        },
+        {
+          "name": "Phillip Joubert",
+          "url": "https://open.spotify.com/artist/10Nt11FgrmhaSSoiol0JSW"
+        },
+        {
+          "name": "Royce Lovett",
+          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
+        },
+        {
+          "name": "Charrise Barron",
+          "url": "https://open.spotify.com/artist/6605K7pp3GA4NxliiVPret"
+        },
+        {
+          "name": "Bryan Joy",
+          "url": "https://open.spotify.com/artist/1z5D53u4OQEPLSqFdi1O2c"
+        },
+        {
+          "name": "Kierre Bjorn",
+          "url": "https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9"
+        },
+        {
+          "name": "Riffi Wacho",
+          "url": "https://open.spotify.com/artist/71zaHFHlaeg0e9GL7hvqqS"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246551,
+      "name": "A Time",
+      "url": "https://open.spotify.com/track/0GiVtGPVYAS0zU5IfnfY9Z"
+    },
+    {
+      "album": {
         "name": "Alive & Breathing Vol. 2",
         "url": "https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk"
       },
@@ -74,7 +136,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 195119,
       "name": "All Joy - Piano Version",
       "url": "https://open.spotify.com/track/4fsD7VQxb3zlILVbt8a95m"
@@ -428,6 +490,24 @@
       "duration_ms": 365185,
       "name": "Christ Our King - Live From Camp",
       "url": "https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ"
+    },
+    {
+      "album": {
+        "name": "Cloud",
+        "url": "https://open.spotify.com/album/4DbQACQLLMvxUF9ooleJOT"
+      },
+      "artists": [
+        {
+          "name": "Megan Tibbits",
+          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243645,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/1OWwOQxvXElGhT7PX5acpn"
     },
     {
       "album": {
@@ -1014,7 +1094,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 321455,
       "name": "Good Plans - Live",
       "url": "https://open.spotify.com/track/28lkMmc05F9Kuw3jzsg1Xd"
@@ -1224,7 +1304,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 202283,
       "name": "Heaven Help Me",
       "url": "https://open.spotify.com/track/08gnjwNqOY4d2MkOAg9WGW"
@@ -1246,6 +1326,24 @@
       "duration_ms": 202283,
       "name": "Heaven Help Me",
       "url": "https://open.spotify.com/track/2fV1D2YYFYreZXNDhqxk4D"
+    },
+    {
+      "album": {
+        "name": "Heaven On My Mind",
+        "url": "https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203450,
+      "name": "Heaven On My Mind",
+      "url": "https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq"
     },
     {
       "album": {
@@ -1402,6 +1500,24 @@
       "duration_ms": 192903,
       "name": "Hold Your Light High",
       "url": "https://open.spotify.com/track/3q95zAsgnhbbb9JOsFY5R2"
+    },
+    {
+      "album": {
+        "name": "Holding Onto You",
+        "url": "https://open.spotify.com/album/5M0ZVocrG0n4DRcKfsLO72"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230666,
+      "name": "Holding Onto You",
+      "url": "https://open.spotify.com/track/0FtUnLtfdfeJ27b0h4OQpa"
     },
     {
       "album": {
@@ -1726,7 +1842,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 238897,
       "name": "I See Good - Radio Edit",
       "url": "https://open.spotify.com/track/3McbAhHwjCfAMplxzf2Hu2"
@@ -1777,6 +1893,28 @@
     },
     {
       "album": {
+        "name": "I'll Fly Away (feat. Benjamin William Hastings)",
+        "url": "https://open.spotify.com/album/1G1dXoBVTVsHi8ckSxwl0z"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180936,
+      "name": "I'll Fly Away (feat. Benjamin William Hastings)",
+      "url": "https://open.spotify.com/track/2wyDAbsLjAysWOWr6q5NGB"
+    },
+    {
+      "album": {
         "name": "If Everything Falls",
         "url": "https://open.spotify.com/album/0IlodMh8kMQMmOsTznKfwz"
       },
@@ -1792,7 +1930,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 233198,
       "name": "If Everything Falls",
       "url": "https://open.spotify.com/track/1zGVjJFDiDEdbPad3Ge8gw"
@@ -1876,7 +2014,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 202960,
       "name": "It's Gonna Get Better",
       "url": "https://open.spotify.com/track/0Bp1lUqyvL2uGDS1GOJTm3"
@@ -1898,7 +2036,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 469495,
       "name": "It's Working - Live",
       "url": "https://open.spotify.com/track/6UQGXQm42Wy6uyUgw1S3Qv"
@@ -1960,10 +2098,28 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 220161,
       "name": "Joy In The Battle",
       "url": "https://open.spotify.com/track/085xF3tCAXlTmaWDczmwmv"
+    },
+    {
+      "album": {
+        "name": "Just Hold On",
+        "url": "https://open.spotify.com/album/4pKnhYEaa0Io4Vlx70ka2u"
+      },
+      "artists": [
+        {
+          "name": "Josh Wright",
+          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167449,
+      "name": "Just Hold On",
+      "url": "https://open.spotify.com/track/1OZ4Zz6ji3pZAAsnEEh2t5"
     },
     {
       "album": {
@@ -2203,6 +2359,28 @@
     },
     {
       "album": {
+        "name": "Marvelous (Live)",
+        "url": "https://open.spotify.com/album/7MC0d2DF0kSt5stF1ce58g"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Hannah Waters",
+          "url": "https://open.spotify.com/artist/4ikD0yzW2w4xoY6xBla98L"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525690,
+      "name": "Marvelous - Live",
+      "url": "https://open.spotify.com/track/7yGFqQLgDpHmSetmzyWX94"
+    },
+    {
+      "album": {
         "name": "Maybe It's Ok",
         "url": "https://open.spotify.com/album/1ZgvI7IO77cxYzwSU40wNf"
       },
@@ -2276,7 +2454,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 344986,
       "name": "Mover of Mountains (Live)",
       "url": "https://open.spotify.com/track/7tj72TNjfyaYeYyQ01yNhP"
@@ -2298,7 +2476,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 357996,
       "name": "Multiply",
       "url": "https://open.spotify.com/track/03BLK4HxDAwoULiYsHC76q"
@@ -2483,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "Not The End",
+        "url": "https://open.spotify.com/album/1z9cu0bqNqoJ0YHZqzmMM8"
+      },
+      "artists": [
+        {
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161001,
+      "name": "Not The End",
+      "url": "https://open.spotify.com/track/4UxBbFETMwBIHhXtlAI0Po"
+    },
+    {
+      "album": {
         "name": "BOATS",
         "url": "https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ"
       },
@@ -2538,6 +2734,24 @@
       "duration_ms": 535962,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
+    },
+    {
+      "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161787,
+      "name": "Oh Child",
+      "url": "https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk"
     },
     {
       "album": {
@@ -2642,7 +2856,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 215960,
       "name": "Order Disorder Reorder",
       "url": "https://open.spotify.com/track/1ZwbamvWCrg2oSYBE2d8sA"
@@ -3043,6 +3257,32 @@
     },
     {
       "album": {
+        "name": "Something You Can Be Proud Of",
+        "url": "https://open.spotify.com/album/0AAfSkX3bGKPLLRFnRkKkD"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        },
+        {
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+        },
+        {
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208172,
+      "name": "Something You Can Be Proud Of",
+      "url": "https://open.spotify.com/track/678eYcNG8TIiTsXtnKyNHc"
+    },
+    {
+      "album": {
         "name": "Lead Us Back: Songs of Worship",
         "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
       },
@@ -3271,6 +3511,24 @@
     },
     {
       "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/3x29opvwVFDFXpxRzNzgYp"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242850,
+      "name": "The Reminder",
+      "url": "https://open.spotify.com/track/6INilJMURz2ptArultdEDl"
+    },
+    {
+      "album": {
         "name": "Beloved",
         "url": "https://open.spotify.com/album/6xzgb1SLbb9yC3fONCwYI1"
       },
@@ -3348,6 +3606,24 @@
       "duration_ms": 305674,
       "name": "This Is The Gospel",
       "url": "https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB"
+    },
+    {
+      "album": {
+        "name": "Though I Walk",
+        "url": "https://open.spotify.com/album/43lH22LlJmyiY2c9WxCKgy"
+      },
+      "artists": [
+        {
+          "name": "Tekoa",
+          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254445,
+      "name": "Though I Walk",
+      "url": "https://open.spotify.com/track/7GTawGOmJHsHz3cBhpma9W"
     },
     {
       "album": {
@@ -3702,7 +3978,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 242160,
       "name": "when we pray",
       "url": "https://open.spotify.com/track/1FkVzG1kwJR7MgMC8lNq94"

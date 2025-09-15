@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
-  "num_followers": 69414,
+  "num_followers": 69436,
   "original_name": "Arab Metal",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Moongod",
-        "url": "https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa"
-      },
-      "artists": [
-        {
-          "name": "Aeternam",
-          "url": "https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s"
-        }
-      ],
-      "duration_ms": 341175,
-      "name": "Moongod",
-      "url": "https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Line of Fear",
         "url": "https://open.spotify.com/album/4iyZLxCNIGZEZAJBuOopi5"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 255440,
       "name": "Freedom Denied",
       "url": "https://open.spotify.com/track/6Qd5yE8cmlcaaBz7Nxy2EL"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Moongod",
+        "url": "https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa"
+      },
+      "artists": [
+        {
+          "name": "Aeternam",
+          "url": "https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s"
+        }
+      ],
+      "duration_ms": 341175,
+      "name": "Moongod",
+      "url": "https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -475,18 +475,18 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Timeless Truths",
-        "url": "https://open.spotify.com/album/2cRzUDMv0vyRrufvKT7tSA"
+        "name": "Desert Call",
+        "url": "https://open.spotify.com/album/3x5aAqCdwXsvisJZve1cwt"
       },
       "artists": [
         {
-          "name": "Luay Rifai",
-          "url": "https://open.spotify.com/artist/36iwFNTe4PEIY0Bhpryu8g"
+          "name": "Myrath",
+          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
         }
       ],
-      "duration_ms": 342266,
-      "name": "Leap of Faith",
-      "url": "https://open.spotify.com/track/1lnPIy0Vp3sEnPnFidT3bH"
+      "duration_ms": 340426,
+      "name": "Forever and A Day",
+      "url": "https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd"
     }
   ],
   "unique_name": "Arab Metal",

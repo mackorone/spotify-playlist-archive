@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-530 songs - 1 day 5 hr 11 min
+531 songs - 1 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Cry](https://open.spotify.com/track/0DXaXkroE0Kuc9Ca9clOgf) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Here Goes Nothing!](https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt) | 3:49 | 2022-10-23 |  |
 | [Cry](https://open.spotify.com/track/6m4E54GfmxDReiIoPMPALO) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Cry](https://open.spotify.com/album/7h4rNt0Jka3I0D3wLBJqYG) | 3:49 | 2022-10-13 | 2022-10-24 |
 | [Cry out Loud](https://open.spotify.com/track/1NaHqiRyy8o3yzeegfu3R8) | [Florian Ross](https://open.spotify.com/artist/0GLHbptUlhXPw7SVVh4jBF) | [Eight Ball & White Horse](https://open.spotify.com/album/6CqRQ1liq773LaKlkqg7k3) | 5:29 | 2022-12-15 | 2023-12-14 |
+| [Cult](https://open.spotify.com/track/7hQnF5KGHCE2XQtg8ZURbM) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Cult](https://open.spotify.com/album/4jC2rLiranXWJsvUtLP7YH) | 3:26 | 2025-09-14 |  |
 | [Daisies](https://open.spotify.com/track/367wyLNqQMr5e8S2E6Zvpp) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 2:54 | 2021-12-27 |  |
 | [dance with you](https://open.spotify.com/track/2NY14rxSByaLfPZY0OA78x) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:19 | 2021-12-27 |  |
 | [Dancehall](https://open.spotify.com/track/4GpqmcUvJcY5XJcwLSxMOi) | [Xternal](https://open.spotify.com/artist/1ddhUGauGANGPAmaUpgfvY) | [Old Fan Riddim](https://open.spotify.com/album/3egAD2whk3pAz5jMj13XyU) | 3:16 | 2023-06-22 |  |
@@ -267,7 +268,7 @@
 | [Leave Me Alone](https://open.spotify.com/track/2ZJapIiYXKyTiy82xCn6x0) | [Without Shelter](https://open.spotify.com/artist/2HNpxWTZNdh0lkSTquhmie) | [Leave Me Alone](https://open.spotify.com/album/7CtqQG5hfqtjh1MjF81WV5) | 3:32 | 2022-07-09 | 2024-07-27 |
 | [leave my mind](https://open.spotify.com/track/1Z5nR7epPPmldWTOcUF8Iz) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:18 | 2021-12-27 |  |
 | [lemonade](https://open.spotify.com/track/6qF2SapjKCkp3ZOtzh3bBr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:58 | 2025-07-02 |  |
-| [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2021-12-27 |  |
+| [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2021-12-27 | 2025-09-15 |
 | [Let Me Down Slowly \(feat\. Alessia Cara\)](https://open.spotify.com/track/1roCmBlcpV7LzsmB7pmCyt) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Let Me Down Slowly \(feat\. Alessia Cara\)](https://open.spotify.com/album/30NnJW4urmnnaExzLLMuy6) | 2:49 | 2021-12-27 |  |
 | [Let Me Go](https://open.spotify.com/track/5h7Ehxi8K371hMuw6E7gyQ) | [Michael E.T.](https://open.spotify.com/artist/7H7joGMu2NEACFMbzMqMkf) | [Locked On Vol 2](https://open.spotify.com/album/54Nzi9eQ8TztLiEZCI1Nwf) | 6:01 | 2023-06-22 | 2024-01-31 |
 | [Let You Go](https://open.spotify.com/track/1u9Rbcgc4WLaW2HtienJzK) | [Zee Scott](https://open.spotify.com/artist/7Hx6eIpj0hdYJNZHH8RJAG) | [My Parents' basement](https://open.spotify.com/album/6auFJVznjAnHpi5wrHKRn4) | 4:19 | 2022-12-15 | 2023-06-23 |

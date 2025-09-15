@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 156935,
+  "num_followers": 156952,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 160111,
-      "name": "BLISS",
-      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
-    },
-    {
-      "added_at": "2025-08-29 08:01:40",
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 376169,
       "name": "I Drink Wine",
       "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
+    },
+    {
+      "added_at": "2025-08-29 08:01:40",
+      "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 160111,
+      "name": "BLISS",
+      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
-        "name": "hickey",
-        "url": "https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "who\u2019s your boyfriend",
-      "url": "https://open.spotify.com/track/1FrmEoNfKBx7Z6nU05KW5w"
-    },
-    {
-      "added_at": "2025-08-29 08:01:40",
-      "album": {
         "name": "T\u00c6T P\u00c5 (feat. Delara)",
         "url": "https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 137400,
       "name": "T\u00c6T P\u00c5 (feat. Delara)",
       "url": "https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg"
+    },
+    {
+      "added_at": "2025-08-29 08:01:40",
+      "album": {
+        "name": "hickey",
+        "url": "https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "who\u2019s your boyfriend",
+      "url": "https://open.spotify.com/track/1FrmEoNfKBx7Z6nU05KW5w"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
-    },
-    {
-      "added_at": "2025-08-29 08:01:40",
-      "album": {
         "name": "Lonely (feat. Artigeardit)",
         "url": "https://open.spotify.com/album/01jgWIUkK5rDmbWf3tFIMb"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 196090,
       "name": "Lonely (feat. Artigeardit)",
       "url": "https://open.spotify.com/track/00Ma3dn1eTeuz8LYEpUXQo"
+    },
+    {
+      "added_at": "2025-08-29 08:01:40",
+      "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
-        "name": "Hey Ya!",
-        "url": "https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G"
+        "name": "Hey Honey (fra filmen Honey)",
+        "url": "https://open.spotify.com/album/2SZVaS11dDhRK8aDHShYA7"
       },
       "artists": [
         {
-          "name": "Maygen Lacey",
-          "url": "https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5"
+          "name": "Selma Sol \u00cd Dali Pape",
+          "url": "https://open.spotify.com/artist/0FD7P40OJQBG6RrjI7IKnL"
         }
       ],
-      "duration_ms": 214689,
-      "name": "Hey Ya! - Acoustic",
-      "url": "https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB"
+      "duration_ms": 182708,
+      "name": "Hey Honey (fra filmen Honey)",
+      "url": "https://open.spotify.com/track/0e1p08mJJyCQU7DRQu7VWK"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
-        "name": "Hey Honey (fra filmen Honey)",
-        "url": "https://open.spotify.com/album/2SZVaS11dDhRK8aDHShYA7"
+        "name": "Hey Ya!",
+        "url": "https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G"
       },
       "artists": [
         {
-          "name": "Selma Sol \u00cd Dali Pape",
-          "url": "https://open.spotify.com/artist/0FD7P40OJQBG6RrjI7IKnL"
+          "name": "Maygen Lacey",
+          "url": "https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5"
         }
       ],
-      "duration_ms": 182708,
-      "name": "Hey Honey (fra filmen Honey)",
-      "url": "https://open.spotify.com/track/0e1p08mJJyCQU7DRQu7VWK"
+      "duration_ms": 214689,
+      "name": "Hey Ya! - Acoustic",
+      "url": "https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
-        "name": "Angel Eyes",
-        "url": "https://open.spotify.com/album/3mw9YndQ85eJ1lT3poL29W"
-      },
-      "artists": [
-        {
-          "name": "Isak Benjamin",
-          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
-        }
-      ],
-      "duration_ms": 207560,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/1egdYRbCxQuKL9KEbAkUNm"
-    },
-    {
-      "added_at": "2025-08-29 08:01:40",
-      "album": {
         "name": "Until The Morning Light",
         "url": "https://open.spotify.com/album/4cVEjngO8IoVReFVgCd9DG"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 194809,
       "name": "Call Your Girlfriend",
       "url": "https://open.spotify.com/track/5hs8G87IGQq0Sz37oY9efX"
+    },
+    {
+      "added_at": "2025-08-29 08:01:40",
+      "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/3mw9YndQ85eJ1lT3poL29W"
+      },
+      "artists": [
+        {
+          "name": "Isak Benjamin",
+          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+        }
+      ],
+      "duration_ms": 207560,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/1egdYRbCxQuKL9KEbAkUNm"
     },
     {
       "added_at": "2025-08-29 08:01:40",

@@ -3797,6 +3797,24 @@
     },
     {
       "album": {
+        "name": "The Color Violet",
+        "url": "https://open.spotify.com/album/4GdcHnq2iwnYWmCnswotzr"
+      },
+      "artists": [
+        {
+          "name": "DATSKO",
+          "url": "https://open.spotify.com/artist/2b1Yc522In2BV3Q1fj2JzY"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292915,
+      "name": "The Color Violet",
+      "url": "https://open.spotify.com/track/6JtnOj7ubrZpi2busElfkt"
+    },
+    {
+      "album": {
         "name": "The Days (NOTION Remix)",
         "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
       },

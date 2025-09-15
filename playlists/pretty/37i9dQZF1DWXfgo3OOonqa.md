@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,820 likes - 118 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,801 likes - 118 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 117 | [Real Life](https://open.spotify.com/track/3rnU46eWn3eXkKNzVz5Jzq) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Real Life](https://open.spotify.com/album/6IhbtsWYjwBQ9YwM5ouDeS) | 2:40 |
 | 118 | [OBAMA](https://open.spotify.com/track/31ozexiE5T5lWeEly3XWzG) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [OBAMA](https://open.spotify.com/album/0rXPLDNVlxhpW3rBLQiysp) | 2:10 |
 
-Snapshot ID: `AAAAACPSGJQz3V6d55RCqRj681LdD5Kx`
+Snapshot ID: `AAAAADpzpP5claiJosU2Oi7XQ7TsJ7qX`

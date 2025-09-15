@@ -4,7 +4,7 @@
 
 > 
 
-129 songs - 13 hr 55 min
+132 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All I Need to Get High \- Ae:ther Dreaming Dub Remix](https://open.spotify.com/track/2Z2RVWzEq2oOUlQsnBCYOl) | [Damian Lazarus & The Ancient Moons](https://open.spotify.com/artist/6eWDcQUkr1JSLQLn5j6dsc), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [All I Need to Get High](https://open.spotify.com/album/4EzWnPeG0wP0nfBEPi1Dex) | 8:28 | 2020-10-18 |  |
 | [Alles Zerfällt](https://open.spotify.com/track/3Z2DU1Dy4u9HxCwcXnJ0j0) | [Ben Techy](https://open.spotify.com/artist/2ZxU6WNgBLwqif2Bkf6bbT) | [Kein Vorbei](https://open.spotify.com/album/1SsdgkBgBWFdxQEAwFq8oi) | 4:07 | 2025-08-23 |  |
 | [Amnesiac](https://open.spotify.com/track/6xrsoTWyI9KrnQja71ecdO) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Amnesiac](https://open.spotify.com/album/47x8rEoFX1EGr2R73g9Dce) | 6:10 | 2019-07-28 |  |
+| [Anderswelt](https://open.spotify.com/track/42jTsCLNaBG2o9N01DPiI4) | [Roman Gehrecke](https://open.spotify.com/artist/7g2FnYwHfBBbE7YihQcG1O) | [Schutt und Asche](https://open.spotify.com/album/39idKqpFh8Ft41yM8tFgpv) | 5:58 | 2025-09-14 |  |
 | [Another Life \- Original Mix](https://open.spotify.com/track/4GAl7Z9uE6aehvrkGvorpm) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Another Life EP](https://open.spotify.com/album/4st4vsVz6LIl0sry69LJPW) | 6:22 | 2019-06-14 |  |
 | [Aquarius](https://open.spotify.com/track/5cxqV1SHGXM5LGNI8KrNxf) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [John Monkman](https://open.spotify.com/artist/61wk5KcJO2a9mZFzkmOe0f) | [CARE4LIFE](https://open.spotify.com/album/5UupDvLyN0JgQ5L67Lv63c) | 7:15 | 2020-07-24 |  |
 | [Astral Trip](https://open.spotify.com/track/77lTdkQOMTK0BFs5JhoOwY) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [ROUND ONE](https://open.spotify.com/album/2ltVjp4MDpvCXfXfvweaFN) | 6:49 | 2025-02-01 |  |
@@ -35,6 +36,7 @@
 | [Chant Rush \- Original Mix](https://open.spotify.com/track/6nUnghMhzgPoaAydHHi8jd) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Chant Rush](https://open.spotify.com/album/4JIwIyc5U91KsfsQ6EozmZ) | 7:15 | 2019-06-14 |  |
 | [Charlotte](https://open.spotify.com/track/79qGeySfCTNHoaV9XUnzWS) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [Schneeweiss VI: Presented by Oliver Koletzki](https://open.spotify.com/album/0SK66LLltiw0JnaH5v45m5) | 7:59 | 2019-06-14 |  |
 | [Cloudy Monday](https://open.spotify.com/track/2UnjcM8nDvwCZhttzhvSd9) | [Keith Carnal](https://open.spotify.com/artist/6HRwZyhgBk2QIxctsdM1x6) | [Realm Of Consciousness Pt.II](https://open.spotify.com/album/3UGKng57h05TZEJKQ9WR0l) | 9:09 | 2020-07-25 |  |
+| [Conflict](https://open.spotify.com/track/52NB4f71xepo93DrRtoFFk) | [Amstra](https://open.spotify.com/artist/22hoWqtS82DDN3jJqxjqH7) | [Kriptika records 004A](https://open.spotify.com/album/4Fq95fQ2Rj0Ygt09Tnga8t) | 5:17 | 2025-09-14 |  |
 | [Conjure Dreams](https://open.spotify.com/track/6TcpM1p0xHy1smBjxEF73s) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Conjure Infinity](https://open.spotify.com/album/6DSutTphiozvGUw3hvifo8) | 7:21 | 2019-06-14 |  |
 | [Critical Alert](https://open.spotify.com/track/4jSu0VWzxpSUVFibgNBMEH) | [Wanton](https://open.spotify.com/artist/2GuBiMEkNPxnVyuoIY5Ckm) | [Critical Alert](https://open.spotify.com/album/7IgyArXbOPN243iuNiNmRi) | 4:04 | 2025-02-28 |  |
 | [Dark of the Night](https://open.spotify.com/track/5KvHinVk9Mz4zlGjFUCgiA) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Dark of the Night](https://open.spotify.com/album/5maXd17AVV4IaFH8UTDUY6) | 4:11 | 2024-06-18 |  |
@@ -126,6 +128,7 @@
 | [Toter Schmetterling](https://open.spotify.com/track/4LsYdWDeumtYjMndQVcA94) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Toter Schmetterling](https://open.spotify.com/album/4DE6Bmt5GNbm4up60YkXe2) | 3:53 | 2025-08-04 |  |
 | [Touch The Darkness](https://open.spotify.com/track/6BaQEqUuo6R1RISio9U5T3) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Touch The Darkness](https://open.spotify.com/album/4RJKnty59mAjgmslaWAGkm) | 7:33 | 2023-05-05 |  |
 | [Triple H](https://open.spotify.com/track/5JyafhDS6oapE6GCQMY0SD) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Triple H](https://open.spotify.com/album/6QkLYzyRekvkJJNe6y51jo) | 5:47 | 2023-05-30 |  |
+| [Trouble](https://open.spotify.com/track/3BWwcNKgJMf0Kpzij48Oj0) | [Amstra](https://open.spotify.com/artist/22hoWqtS82DDN3jJqxjqH7) | [Trouble](https://open.spotify.com/album/6wbkwZOtHOvaaNLn47dRNy) | 6:57 | 2025-09-14 |  |
 | [Vibrancy \- Original Mix](https://open.spotify.com/track/1ubk4FS88dx180KNXHYqWw) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Vibrancy EP](https://open.spotify.com/album/43E7OU1TDX0zSeG65RwLPR) | 6:50 | 2020-07-25 |  |
 | [Wavey](https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Wavey](https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB) | 2:23 | 2025-05-19 |  |
 | [We Control](https://open.spotify.com/track/1dzvje2q7KX8k1U9eOT6Pv) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/60rhOCClApo0duvJbe2A18) | 3:26 | 2025-05-19 |  |

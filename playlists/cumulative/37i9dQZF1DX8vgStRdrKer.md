@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-591 songs - 1 day 23 hr 43 min
+592 songs - 1 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [All The Way](https://open.spotify.com/track/5xoTK2L3G7eLbUdHo4TnpU) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Afolake](https://open.spotify.com/artist/6BQJqR87wQhMbTca9VP8H8), [Tite Tunez](https://open.spotify.com/artist/4kkaELRqmzjvexnCIKPyBT) | [All The Way](https://open.spotify.com/album/6UkFSOzDVAsJkXjmOG3iwB) | 3:07 | 2025-06-06 | 2025-06-27 |
 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 | 2023-09-15 | 2024-03-12 |
 | [All Things Are Possible \(Live\)](https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [All Things Are Possible \(Live\)](https://open.spotify.com/album/5zAoHldAVbalTRk851wI1S) | 4:30 | 2024-04-12 | 2025-06-06 |
+| [All Yours](https://open.spotify.com/track/0yZpq2QPTsVqs6sSbOhtpe) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [All Yours](https://open.spotify.com/album/6xcVt9czkLqIzlEpelhoPv) | 5:09 | 2025-09-12 |  |
 | [Alpha Omega \(Radio Edit\)](https://open.spotify.com/track/1cjnRNR7aKHrSsVDKFYFnz) | [Helen Yawson](https://open.spotify.com/artist/3ChtrSrR4Klo88Gkp3mCc0) | [Alpha Omega \(Radio Edit\)](https://open.spotify.com/album/5FqdpJR39kJBWzmPTrIzHD) | 5:24 | 2025-06-13 | 2025-07-17 |
 | [Altar \(Hosanna\)](https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Altar \(Hosanna\)](https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko) | 2:52 | 2024-01-26 | 2024-07-12 |
 | [Amaram Onyewem \- Live](https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Amaram Onyewem \(Live\)](https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP) | 10:42 | 2024-01-12 | 2025-06-20 |
@@ -70,7 +71,7 @@
 | [Belongs To You](https://open.spotify.com/track/4QI6Qba9iqc3XaqI5OSWrS) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [Belongs To You](https://open.spotify.com/album/31g16Qly95t9uSQdt5MSOI) | 2:25 | 2025-07-04 | 2025-07-29 |
 | [Bigger](https://open.spotify.com/track/1kV7EtGG52g3BsqzkLHZVy) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR) | [Bigger](https://open.spotify.com/album/2At2AXk7Zt0AdAElt4GTM1) | 2:12 | 2025-05-30 | 2025-06-27 |
 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 | 2024-01-26 | 2025-06-06 |
-| [Blessed](https://open.spotify.com/track/7fgogLsPWxBlvCK9SBcMKn) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Blessed](https://open.spotify.com/album/4lSKv0ZqMxMwRyvSGWWT9A) | 2:48 | 2025-06-20 |  |
+| [Blessed](https://open.spotify.com/track/7fgogLsPWxBlvCK9SBcMKn) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Blessed](https://open.spotify.com/album/4lSKv0ZqMxMwRyvSGWWT9A) | 2:48 | 2025-06-20 | 2025-09-15 |
 | [Blessed Be Your Name](https://open.spotify.com/track/19naPYtiHYPNmXUNfHVnj3) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Blessed Be Your Name](https://open.spotify.com/album/2bPxiD3QggQ6JLOr8O890p) | 5:11 | 2025-05-30 | 2025-09-12 |
 | [Blessed Year](https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Vin Mokay](https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz) | [Blessed Year](https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW) | 3:04 | 2024-01-26 | 2024-08-22 |
 | [Blessings](https://open.spotify.com/track/23p2phcUQwmqYWYqNjGS7z) | [God in This Music](https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K) | [Blessings](https://open.spotify.com/album/6fkdRN3MTSKqirGb30cDx7) | 3:53 | 2025-06-13 | 2025-06-27 |

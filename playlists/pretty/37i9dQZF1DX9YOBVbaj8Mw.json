@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19264,
+  "num_followers": 19263,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Dziewczyna S\u0142o\u0144ca",
-        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
-      },
-      "artists": [
-        {
-          "name": "Anna Rusowicz",
-          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
-        }
-      ],
-      "duration_ms": 336253,
-      "name": "Tobie",
-      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Cudze rady psuj\u0105 mi \u017cycie",
         "url": "https://open.spotify.com/album/72gEeFKWNw8mqXxdiscM20"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 237482,
       "name": "Zima",
       "url": "https://open.spotify.com/track/1lpDXgomCsKmXUl2yRRaLH"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Dziewczyna S\u0142o\u0144ca",
+        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
+      },
+      "artists": [
+        {
+          "name": "Anna Rusowicz",
+          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
+        }
+      ],
+      "duration_ms": 336253,
+      "name": "Tobie",
+      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
-      },
-      "artists": [
-        {
-          "name": "Tomasz D\u0105browski",
-          "url": "https://open.spotify.com/artist/4cMrE5WUrsp0aWwGk7s2RC"
-        },
-        {
-          "name": "The Individual Beings",
-          "url": "https://open.spotify.com/artist/7KrJJz5yz5HoJlK7j7M6Gz"
-        }
-      ],
-      "duration_ms": 338031,
-      "name": "Bonzer",
-      "url": "https://open.spotify.com/track/1914NxEjaK9z3xQgw228Rc"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Come back...",
         "url": "https://open.spotify.com/album/6admD4ZvV7VDYrJZ6jNE7v"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 363312,
       "name": "Boozing",
       "url": "https://open.spotify.com/track/2NZeUYUdcNljussjj0rkvZ"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
+      },
+      "artists": [
+        {
+          "name": "Tomasz D\u0105browski",
+          "url": "https://open.spotify.com/artist/4cMrE5WUrsp0aWwGk7s2RC"
+        },
+        {
+          "name": "The Individual Beings",
+          "url": "https://open.spotify.com/artist/7KrJJz5yz5HoJlK7j7M6Gz"
+        }
+      ],
+      "duration_ms": 338031,
+      "name": "Bonzer",
+      "url": "https://open.spotify.com/track/1914NxEjaK9z3xQgw228Rc"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Zero Waste",
+        "url": "https://open.spotify.com/album/0wSbtYIaTVvnvFiqhvCF9P"
+      },
+      "artists": [
+        {
+          "name": "Szymon Zawodny Quintet",
+          "url": "https://open.spotify.com/artist/1FzZFGg0D2C6v8tF3B314n"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Morning Sea",
+      "url": "https://open.spotify.com/track/0IBQDcU3f1m5fs3xgc8tEr"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 361016,
       "name": "F Jak Samolot",
       "url": "https://open.spotify.com/track/3Nd5ppPsA2Tl1fMNG1jy7q"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Zero Waste",
-        "url": "https://open.spotify.com/album/0wSbtYIaTVvnvFiqhvCF9P"
-      },
-      "artists": [
-        {
-          "name": "Szymon Zawodny Quintet",
-          "url": "https://open.spotify.com/artist/1FzZFGg0D2C6v8tF3B314n"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Morning Sea",
-      "url": "https://open.spotify.com/track/0IBQDcU3f1m5fs3xgc8tEr"
     }
   ],
   "unique_name": "Fryderyk 2025",

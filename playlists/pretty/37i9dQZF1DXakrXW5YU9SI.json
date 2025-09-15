@@ -1,6 +1,6 @@
 {
   "description": "S\u0142o\u0144ce, le\u017cak i letnia b\u0142ogo\u015b\u0107 w d\u017awi\u0119kach \u2600\ufe0f",
-  "num_followers": 339083,
+  "num_followers": 339078,
   "original_name": "Letni chill",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-08-22 15:18:21",
       "album": {
-        "name": "The Cosmic Selector Vol. 1",
-        "url": "https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 186987,
-      "name": "Watch Me Go",
-      "url": "https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz"
-    },
-    {
-      "added_at": "2025-08-22 15:18:21",
-      "album": {
         "name": "samoloty i nadprzestrzenie",
         "url": "https://open.spotify.com/album/0StAZ0TQ0RlUAxLOjXPne8"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 244213,
       "name": "samoloty",
       "url": "https://open.spotify.com/track/2sHiHyAQZCD7oPXo1eBAbL"
+    },
+    {
+      "added_at": "2025-08-22 15:18:21",
+      "album": {
+        "name": "The Cosmic Selector Vol. 1",
+        "url": "https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 186987,
+      "name": "Watch Me Go",
+      "url": "https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz"
     },
     {
       "added_at": "2025-08-22 15:18:21",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-08-22 15:18:21",
       "album": {
-        "name": "Incomprehensible",
-        "url": "https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 233307,
-      "name": "Incomprehensible",
-      "url": "https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v"
-    },
-    {
-      "added_at": "2025-08-22 15:18:21",
-      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/4H5tU13iR2Sl2Ohogn5DTz"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 196363,
       "name": "vip",
       "url": "https://open.spotify.com/track/6C41CBFUPJIlTGypAy1MaP"
+    },
+    {
+      "added_at": "2025-08-22 15:18:21",
+      "album": {
+        "name": "Incomprehensible",
+        "url": "https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 233307,
+      "name": "Incomprehensible",
+      "url": "https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v"
     }
   ],
   "unique_name": "Letni chill",

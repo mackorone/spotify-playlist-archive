@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,141 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,187 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 39 | [REBELS AT HEART](https://open.spotify.com/track/7sRBCzeVu9wnOtOi7ifXGP) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [REBELS AT HEART](https://open.spotify.com/album/4GSKfWQafbT294cDzRb6y1) | 2:04 |
 | 40 | [Kamikaze](https://open.spotify.com/track/3BaGQ8tsutNrim7MGWBjbC) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc), [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [Kamikaze](https://open.spotify.com/album/49C4pHCfwYCc0XeSSeJvV0) | 3:40 |
 | 41 | [F.R.E.N.C.H.C.O.R.E.](https://open.spotify.com/track/48KVM5tvfliqY6l7kduiPF) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB), [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [Frenchcore Familia](https://open.spotify.com/artist/3lX2yJBnRgHzvGp6d5xGjR) | [F.R.E.N.C.H.C.O.R.E.](https://open.spotify.com/album/08UAg9MSdmXQ2IBnhJx6eC) | 2:38 |
-| 42 | [Life's A Bitch](https://open.spotify.com/track/3IatERaIQb9jVbR0OmrlXa) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Life's A Bitch](https://open.spotify.com/album/4LbVG19yQnDbyt1khkSIGI) | 3:33 |
-| 43 | [Monkey Man](https://open.spotify.com/track/6bSKqsylJ6DzDP6Onvp746) | [The Herbalist](https://open.spotify.com/artist/15FJi8mBaxYory85rxoCtu), [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Monkey Man](https://open.spotify.com/album/4R9thnGKDqtC5jzajpi5u4) | 2:20 |
+| 42 | [Monkey Man](https://open.spotify.com/track/6bSKqsylJ6DzDP6Onvp746) | [The Herbalist](https://open.spotify.com/artist/15FJi8mBaxYory85rxoCtu), [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Monkey Man](https://open.spotify.com/album/4R9thnGKDqtC5jzajpi5u4) | 2:20 |
+| 43 | [Life's A Bitch](https://open.spotify.com/track/3IatERaIQb9jVbR0OmrlXa) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Life's A Bitch](https://open.spotify.com/album/4LbVG19yQnDbyt1khkSIGI) | 3:33 |
 | 44 | [Come Take My Hand \- Spiady Remix](https://open.spotify.com/track/7gX4bpFwdU52E2XKSCjFOw) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm), [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs) | [Come Take My Hand \(Spiady Remix\)](https://open.spotify.com/album/5MlnLtzvtZo6IzZaoo9Ez6) | 2:40 |
 | 45 | [Ruffneck \(Still\) Rules The Hardcore Scene](https://open.spotify.com/track/2M7b4VKISXJIQE1pw5TJfS) | [DJ Ruffneck](https://open.spotify.com/artist/0Zr8KrP13XdTkcbhn3bv8Y) | [Witch Queen EP](https://open.spotify.com/album/4OGLu6ud8DZt8BFzzVVPZ7) | 3:36 |
 | 46 | [Raven](https://open.spotify.com/track/4tpyc7GdDYkIr2leWQZF9Z) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Joel Beukers](https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF) | [Raven](https://open.spotify.com/album/08CFtqHiqW9GdL1tmjdzEN) | 2:55 |

@@ -1,6 +1,6 @@
 {
   "description": "Selection of soul music for the perfect dinner.",
-  "num_followers": 140980,
+  "num_followers": 140981,
   "original_name": "Soul Dinner",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "I Never Loved a Man (The Way I Love You)",
+      "url": "https://open.spotify.com/track/1hES47PrbU8GPTI5A9lsr0"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
         "name": "Fugue State",
         "url": "https://open.spotify.com/album/3DiHrdZ5z0AqW6JTpLAKxG"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 199639,
       "name": "1612",
       "url": "https://open.spotify.com/track/39rHfrVqCX6A55GF7uOZSC"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -355,18 +355,18 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
         }
       ],
-      "duration_ms": 171773,
-      "name": "I Never Loved a Man (The Way I Love You)",
-      "url": "https://open.spotify.com/track/1hES47PrbU8GPTI5A9lsr0"
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Bettye Swann",
-        "url": "https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs"
-      },
-      "artists": [
-        {
-          "name": "Bettye Swann",
-          "url": "https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Then You Can Tell Me Goodbye",
-      "url": "https://open.spotify.com/track/1bDjWyTOXs0sxQMC1mchSM"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "The Essentials: Ruth Brown",
         "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 173733,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Bettye Swann",
+        "url": "https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs"
+      },
+      "artists": [
+        {
+          "name": "Bettye Swann",
+          "url": "https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Then You Can Tell Me Goodbye",
+      "url": "https://open.spotify.com/track/1bDjWyTOXs0sxQMC1mchSM"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Groove Curse",
-        "url": "https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 275826,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Choice Cuts",
         "url": "https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 184466,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Groove Curse",
+        "url": "https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 275826,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Circle Of One",
-        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
-      },
-      "artists": [
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 259666,
-      "name": "Rhythm Of Life",
-      "url": "https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Irma Thomas Collection: 1961-1966",
         "url": "https://open.spotify.com/album/3MhMYjRhAkiZ9F4GDkcpuy"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 159733,
       "name": "Ruler Of My Heart",
       "url": "https://open.spotify.com/track/2W9cyvOHeC26mSy96802Kk"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Circle Of One",
+        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
+      },
+      "artists": [
+        {
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+        }
+      ],
+      "duration_ms": 259666,
+      "name": "Rhythm Of Life",
+      "url": "https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -867,22 +867,6 @@
       "duration_ms": 289173,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/7KsXSnQc8qdeBSOnTM5Vvn"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/6LCUPmtf6kJpk5p2RPPKQm"
-      },
-      "artists": [
-        {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
-        }
-      ],
-      "duration_ms": 251013,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/59526I0d4raugRW8MHNxXy"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -911,6 +895,22 @@
       "duration_ms": 264866,
       "name": "Wake up Everybody (feat. Common & Melanie Fiona)",
       "url": "https://open.spotify.com/track/7lVxWMH0C3Bj8b8JLkh9EN"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/6LCUPmtf6kJpk5p2RPPKQm"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "duration_ms": 251013,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/59526I0d4raugRW8MHNxXy"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Capitol Gold: The Best Of Minnie Riperton",
-        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
-      },
-      "artists": [
-        {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "Inside My Love - Remastered 1993",
-      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Rejuvenation",
         "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 318800,
       "name": "People Say",
       "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Capitol Gold: The Best Of Minnie Riperton",
+        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
+      },
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Inside My Love - Remastered 1993",
+      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 179973,
-      "name": "Down in the Valley - Mono; 2018 Remaster",
-      "url": "https://open.spotify.com/track/5DaqgXFk5SxNCiMOpuPJS2"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "The Way I See It",
         "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 184413,
       "name": "Love That Girl",
       "url": "https://open.spotify.com/track/3XTYgwvbBsNonoauUvZgo6"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 179973,
+      "name": "Down in the Valley - Mono; 2018 Remaster",
+      "url": "https://open.spotify.com/track/5DaqgXFk5SxNCiMOpuPJS2"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
+        "name": "Loving on the Flipside",
+        "url": "https://open.spotify.com/album/2PtqMUT1wupaBBZqnQmnzQ"
+      },
+      "artists": [
+        {
+          "name": "Eunice Collins",
+          "url": "https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN"
+        }
+      ],
+      "duration_ms": 208533,
+      "name": "At the Hotel",
+      "url": "https://open.spotify.com/track/4sjycYDj539aqcvb2jjDnj"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
         "name": "Serena (Feat. Samm Henshaw)",
         "url": "https://open.spotify.com/album/5L2yapDADu1ud53fW3OSti"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 226466,
       "name": "Serena - Feat. Samm Henshaw",
       "url": "https://open.spotify.com/track/3M7CTl6EiNEeeoFl79GiAG"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "Loving on the Flipside",
-        "url": "https://open.spotify.com/album/2PtqMUT1wupaBBZqnQmnzQ"
-      },
-      "artists": [
-        {
-          "name": "Eunice Collins",
-          "url": "https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN"
-        }
-      ],
-      "duration_ms": 208533,
-      "name": "At the Hotel",
-      "url": "https://open.spotify.com/track/4sjycYDj539aqcvb2jjDnj"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Mmm... Gumbo? [ International Version ]",
-        "url": "https://open.spotify.com/album/2GhhKuE8coVyF5us5Glbe2"
-      },
-      "artists": [
-        {
-          "name": "Room Eleven",
-          "url": "https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "What Will It Be?",
-      "url": "https://open.spotify.com/track/5Z6Y7HWyIQJ1Y5DaepehAp"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Dreamin' Wild",
         "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 250533,
       "name": "Baby",
       "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Mmm... Gumbo? [ International Version ]",
+        "url": "https://open.spotify.com/album/2GhhKuE8coVyF5us5Glbe2"
+      },
+      "artists": [
+        {
+          "name": "Room Eleven",
+          "url": "https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT"
+        }
+      ],
+      "duration_ms": 239213,
+      "name": "What Will It Be?",
+      "url": "https://open.spotify.com/track/5Z6Y7HWyIQJ1Y5DaepehAp"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2603,18 +2603,18 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "The Addict",
-        "url": "https://open.spotify.com/album/2HFb5wiy7PY5u11FhHzkCK"
+        "name": "Songs In A Minor (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
       },
       "artists": [
         {
-          "name": "Bo Saris",
-          "url": "https://open.spotify.com/artist/5iFyVnPvgc3b4bduxnqn6l"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 224960,
-      "name": "The Addict",
-      "url": "https://open.spotify.com/track/5rPXLUWqG6JwKCYMGH6e8C"
+      "duration_ms": 237626,
+      "name": "How Come You Don't Call Me",
+      "url": "https://open.spotify.com/track/5bAEFsQjo0DEJalVwFVmsW"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2635,6 +2635,22 @@
       "duration_ms": 205573,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3oI95Uihdvu7uCiirC1DQA"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "The Addict",
+        "url": "https://open.spotify.com/album/2HFb5wiy7PY5u11FhHzkCK"
+      },
+      "artists": [
+        {
+          "name": "Bo Saris",
+          "url": "https://open.spotify.com/artist/5iFyVnPvgc3b4bduxnqn6l"
+        }
+      ],
+      "duration_ms": 224960,
+      "name": "The Addict",
+      "url": "https://open.spotify.com/track/5rPXLUWqG6JwKCYMGH6e8C"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2695,18 +2711,18 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Songs In A Minor (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
+        "name": "19",
+        "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 237626,
-      "name": "How Come You Don't Call Me",
-      "url": "https://open.spotify.com/track/5bAEFsQjo0DEJalVwFVmsW"
+      "duration_ms": 197346,
+      "name": "Right As Rain",
+      "url": "https://open.spotify.com/track/1ARkKt39O6WQqE0QEpZntu"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2723,22 +2739,6 @@
       "duration_ms": 209593,
       "name": "I Think I'll Call It Morning",
       "url": "https://open.spotify.com/track/2NFaL70qpAezdlByUkFTOq"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Right As Rain",
-      "url": "https://open.spotify.com/track/1ARkKt39O6WQqE0QEpZntu"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2795,22 +2795,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Beach Diggin', Vol. 3",
-        "url": "https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU"
-      },
-      "artists": [
-        {
-          "name": "Bobbie Houston",
-          "url": "https://open.spotify.com/artist/4i975rT2vHNcwrOqEm6laa"
-        }
-      ],
-      "duration_ms": 186617,
-      "name": "I Want to Make It with You",
-      "url": "https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Jim",
         "url": "https://open.spotify.com/album/3Hoe3hptCyII2pA7tNEAab"
       },
@@ -2823,6 +2807,22 @@
       "duration_ms": 242720,
       "name": "Little Bit of Feel Good",
       "url": "https://open.spotify.com/track/0cIoSMR8kFaJHF8eGgHBHs"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Beach Diggin', Vol. 3",
+        "url": "https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU"
+      },
+      "artists": [
+        {
+          "name": "Bobbie Houston",
+          "url": "https://open.spotify.com/artist/4i975rT2vHNcwrOqEm6laa"
+        }
+      ],
+      "duration_ms": 186617,
+      "name": "I Want to Make It with You",
+      "url": "https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -3263,6 +3263,22 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
+        "name": "Liquid Spirit (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4HVY2UGhxlZseyDu3EqcQc"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 235573,
+      "name": "No Love Dying",
+      "url": "https://open.spotify.com/track/0q8Yje436bw3FkzEDNs7qI"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
         "name": "Late Night Tales: Another Late Night - Zero 7 (Remastered)",
         "url": "https://open.spotify.com/album/2LmIvyJlLul3Zlp4xElhhs"
       },
@@ -3279,18 +3295,18 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Liquid Spirit (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4HVY2UGhxlZseyDu3EqcQc"
+        "name": "Ultimate Collection: Gladys Knight & The Pips",
+        "url": "https://open.spotify.com/album/6QVtxfO3l14a5BWkvL9lqP"
       },
       "artists": [
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
         }
       ],
-      "duration_ms": 235573,
-      "name": "No Love Dying",
-      "url": "https://open.spotify.com/track/0q8Yje436bw3FkzEDNs7qI"
+      "duration_ms": 263693,
+      "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
+      "url": "https://open.spotify.com/track/1u19N7mWVxSvHIcOGM3wak"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -3311,22 +3327,6 @@
       "duration_ms": 187106,
       "name": "I'm Gonna Make You Love Me",
       "url": "https://open.spotify.com/track/0XaJ8Fk3d8eZa9RZGUat0e"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "Ultimate Collection: Gladys Knight & The Pips",
-        "url": "https://open.spotify.com/album/6QVtxfO3l14a5BWkvL9lqP"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 263693,
-      "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
-      "url": "https://open.spotify.com/track/1u19N7mWVxSvHIcOGM3wak"
     }
   ],
   "unique_name": "Soul Dinner",

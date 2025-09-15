@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Sean McConnell
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,315 likes - 112 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,330 likes - 112 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

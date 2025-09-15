@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: \u00c9mile Bilodeau",
-  "num_followers": 46116,
+  "num_followers": 46113,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -723,26 +723,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Zota (feat. Tayc)",
-        "url": "https://open.spotify.com/album/42MNxx6I0NSs8kG5aZxx2V"
-      },
-      "artists": [
-        {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 142640,
-      "name": "Zota (feat. Tayc)",
-      "url": "https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "Chouchou",
         "url": "https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 200458,
       "name": "Chouchou",
       "url": "https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "Zota (feat. Tayc)",
+        "url": "https://open.spotify.com/album/42MNxx6I0NSs8kG5aZxx2V"
+      },
+      "artists": [
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 142640,
+      "name": "Zota (feat. Tayc)",
+      "url": "https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
+        "name": "Hors du temps",
+        "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        }
+      ],
+      "duration_ms": 173887,
+      "name": "Hors du temps",
+      "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
         "name": "Choisi (feat. Alonzo)",
         "url": "https://open.spotify.com/album/1naaJZp4etAdNUufFG0etc"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 170774,
       "name": "Choisi (feat. Alonzo)",
       "url": "https://open.spotify.com/track/6yVnTSBQjTuoVN9Jl2VOFX"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Hors du temps",
-        "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
-      },
-      "artists": [
-        {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
-        }
-      ],
-      "duration_ms": 173887,
-      "name": "Hors du temps",
-      "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
     },
     {
       "added_at": "2025-08-01 04:00:28",

@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: Dijon",
-  "num_followers": 180381,
+  "num_followers": 180386,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
+        "name": "NO MANNERS",
+        "url": "https://open.spotify.com/album/2u9XbBgvH6M2YIkUh6swAX"
+      },
+      "artists": [
+        {
+          "name": "MGEE",
+          "url": "https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC"
+        }
+      ],
+      "duration_ms": 138591,
+      "name": "NO MANNERS",
+      "url": "https://open.spotify.com/track/6ZwndlSxLb1QlzQxbMcWjO"
+    },
+    {
+      "added_at": "2025-09-02 09:16:14",
+      "album": {
         "name": "Three Piece Suit (feat. Azekel)",
         "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 276733,
       "name": "Three Piece Suit (feat. Azekel)",
       "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
-    },
-    {
-      "added_at": "2025-09-02 09:16:14",
-      "album": {
-        "name": "NO MANNERS",
-        "url": "https://open.spotify.com/album/2u9XbBgvH6M2YIkUh6swAX"
-      },
-      "artists": [
-        {
-          "name": "MGEE",
-          "url": "https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC"
-        }
-      ],
-      "duration_ms": 138591,
-      "name": "NO MANNERS",
-      "url": "https://open.spotify.com/track/6ZwndlSxLb1QlzQxbMcWjO"
     },
     {
       "added_at": "2025-09-02 09:16:14",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
-        "name": "Figures On The Wall",
-        "url": "https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi"
-      },
-      "artists": [
-        {
-          "name": "MOIO",
-          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Figures On The Wall",
-      "url": "https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH"
-    },
-    {
-      "added_at": "2025-09-02 09:16:14",
-      "album": {
         "name": "Angel Patience",
         "url": "https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
+        "name": "Figures On The Wall",
+        "url": "https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi"
+      },
+      "artists": [
+        {
+          "name": "MOIO",
+          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "Figures On The Wall",
+      "url": "https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH"
+    },
+    {
+      "added_at": "2025-09-02 09:16:14",
+      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
       },
@@ -803,26 +803,6 @@
       "duration_ms": 196235,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
-    },
-    {
-      "added_at": "2025-09-02 09:16:14",
-      "album": {
-        "name": "One Call Away",
-        "url": "https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        },
-        {
-          "name": "High John",
-          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
-        }
-      ],
-      "duration_ms": 107333,
-      "name": "One Call Away",
-      "url": "https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO"
     },
     {
       "added_at": "2025-09-02 09:16:14",
@@ -847,6 +827,26 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
+        "name": "One Call Away",
+        "url": "https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        },
+        {
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
+        }
+      ],
+      "duration_ms": 107333,
+      "name": "One Call Away",
+      "url": "https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO"
+    },
+    {
+      "added_at": "2025-09-02 09:16:14",
+      "album": {
         "name": "JIGGY",
         "url": "https://open.spotify.com/album/6ufPPtJ4nLKEc1wAZI8IOe"
       },
@@ -863,26 +863,6 @@
       "duration_ms": 141170,
       "name": "JIGGY",
       "url": "https://open.spotify.com/track/3bwSYqsCf1FLQ3bZN8zepl"
-    },
-    {
-      "added_at": "2025-09-02 09:16:14",
-      "album": {
-        "name": "ceremonial contrafact (empathogen deluxe)",
-        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "wanted",
-      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
     },
     {
       "added_at": "2025-09-02 09:16:14",
@@ -911,18 +891,22 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
-        "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
-        "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
+        "name": "ceremonial contrafact (empathogen deluxe)",
+        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
       },
       "artists": [
         {
-          "name": "Bricknasty",
-          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
         }
       ],
-      "duration_ms": 169228,
-      "name": "vinland",
-      "url": "https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK"
+      "duration_ms": 159200,
+      "name": "wanted",
+      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
     },
     {
       "added_at": "2025-09-02 09:16:14",
@@ -947,18 +931,18 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
-        "name": "time to go",
-        "url": "https://open.spotify.com/album/4wK1EeHH2tYFoBKffEKL6p"
+        "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
+        "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
       },
       "artists": [
         {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
         }
       ],
-      "duration_ms": 209362,
-      "name": "time to go",
-      "url": "https://open.spotify.com/track/6nmaIMf8pxfhcis6ptgxGB"
+      "duration_ms": 169228,
+      "name": "vinland",
+      "url": "https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK"
     },
     {
       "added_at": "2025-09-02 09:16:14",
@@ -975,6 +959,22 @@
       "duration_ms": 126568,
       "name": "Take Me Down",
       "url": "https://open.spotify.com/track/4kNM7KttOXiMykZbYJasQo"
+    },
+    {
+      "added_at": "2025-09-02 09:16:14",
+      "album": {
+        "name": "AMANZI",
+        "url": "https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS"
+      },
+      "artists": [
+        {
+          "name": "AMANZI",
+          "url": "https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4"
+        }
+      ],
+      "duration_ms": 192018,
+      "name": "Give Us Some Time",
+      "url": "https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS"
     },
     {
       "added_at": "2025-09-02 09:16:14",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
-        "name": "AMANZI",
-        "url": "https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS"
+        "name": "time to go",
+        "url": "https://open.spotify.com/album/4wK1EeHH2tYFoBKffEKL6p"
       },
       "artists": [
         {
-          "name": "AMANZI",
-          "url": "https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4"
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
         }
       ],
-      "duration_ms": 192018,
-      "name": "Give Us Some Time",
-      "url": "https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS"
+      "duration_ms": 209362,
+      "name": "time to go",
+      "url": "https://open.spotify.com/track/6nmaIMf8pxfhcis6ptgxGB"
     },
     {
       "added_at": "2025-09-02 09:16:14",

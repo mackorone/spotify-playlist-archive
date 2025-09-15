@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Raphaela Gromes
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,464 likes - 79 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,486 likes - 79 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

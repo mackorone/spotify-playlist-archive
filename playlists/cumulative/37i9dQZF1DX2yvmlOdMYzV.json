@@ -3201,6 +3201,24 @@
     },
     {
       "album": {
+        "name": "Colourblind",
+        "url": "https://open.spotify.com/album/0DXeh2BLeWOEQO3BojC5og"
+      },
+      "artists": [
+        {
+          "name": "Linden Jay",
+          "url": "https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC"
+        }
+      ],
+      "date_added": "2025-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199706,
+      "name": "Colourblind",
+      "url": "https://open.spotify.com/track/200KeH52qmJMGG9jBj4wTH"
+    },
+    {
+      "album": {
         "name": "Combo #5",
         "url": "https://open.spotify.com/album/0cd6U74C5NwMf1kHsN66Ib"
       },
@@ -6834,7 +6852,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 180781,
       "name": "Haven",
       "url": "https://open.spotify.com/track/6csQ9wt1FoZ9FwbfI2U3XV"
@@ -19234,7 +19252,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 160000,
       "name": "We've Come So Far",
       "url": "https://open.spotify.com/track/1eF6pVPoLLbOvn4mM8CIfM"
@@ -19448,7 +19466,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 188181,
       "name": "When It Comes Together",
       "url": "https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n"

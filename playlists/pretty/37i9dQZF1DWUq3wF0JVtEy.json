@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 928653,
+  "num_followers": 928519,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
-        "name": "SWEAT",
-        "url": "https://open.spotify.com/album/2dUSvHHI2NblaTDGeXlb43"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        }
-      ],
-      "duration_ms": 159230,
-      "name": "SWEAT",
-      "url": "https://open.spotify.com/track/72oKwaidmdyrEsehdWFMct"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
         "name": "Instant Moments",
         "url": "https://open.spotify.com/album/5Fg45x7G4Pq2DNZAek17vu"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 160208,
       "name": "Instant Moments",
       "url": "https://open.spotify.com/track/3La3KFoSyjE2MOxoljTioT"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/2dUSvHHI2NblaTDGeXlb43"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/72oKwaidmdyrEsehdWFMct"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
+        "name": "Beast Mode (Knock You Out)",
+        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 164761,
+      "name": "Beast Mode (Knock You Out)",
+      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 166190,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
-        "name": "Beast Mode (Knock You Out)",
-        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 164761,
-      "name": "Beast Mode (Knock You Out)",
-      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
+        "name": "All Night & Gemini",
+        "url": "https://open.spotify.com/album/7hmuaX4utQQELTvPIovNUn"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6wpIGFUcDUSg2l75npKFdU"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
         "name": "Genesis (Don Diablo Edit)",
         "url": "https://open.spotify.com/album/5t5GtF3wm4p8c7wLDMBVvz"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 196876,
       "name": "Genesis - Don Diablo Edit",
       "url": "https://open.spotify.com/track/4aPh4IKYRg2fm4sqxLFo8b"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
-        "name": "All Night & Gemini",
-        "url": "https://open.spotify.com/album/7hmuaX4utQQELTvPIovNUn"
-      },
-      "artists": [
-        {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
-        },
-        {
-          "name": "Vluarr",
-          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6wpIGFUcDUSg2l75npKFdU"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
-        "name": "Senses (Now We Go)",
-        "url": "https://open.spotify.com/album/7mRcRoOlROslZtjpnke7BO"
-      },
-      "artists": [
-        {
-          "name": "Vluarr",
-          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
-        },
-        {
-          "name": "ONEDUO",
-          "url": "https://open.spotify.com/artist/6snkU8m506AxtvyBGXPGrc"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Senses (Now We Go)",
-      "url": "https://open.spotify.com/track/0kE6DMsgVSb6oHJzQlGEFC"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
         "name": "Goodies - Knock2 Remix",
         "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 209523,
       "name": "Goodies - Knock2 Remix",
       "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
+        "name": "Senses (Now We Go)",
+        "url": "https://open.spotify.com/album/7mRcRoOlROslZtjpnke7BO"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        },
+        {
+          "name": "ONEDUO",
+          "url": "https://open.spotify.com/artist/6snkU8m506AxtvyBGXPGrc"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Senses (Now We Go)",
+      "url": "https://open.spotify.com/track/0kE6DMsgVSb6oHJzQlGEFC"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
-        "name": "Keep On Dancin\u2019",
-        "url": "https://open.spotify.com/album/2Uailrdpotagi31qGYaKOj"
-      },
-      "artists": [
-        {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
-        }
-      ],
-      "duration_ms": 207096,
-      "name": "Keep On Dancin\u2019",
-      "url": "https://open.spotify.com/track/2tZ6RENHFCbw6vyv0LRcZP"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
         "name": "B\u20acNZ",
         "url": "https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
+        "name": "Keep On Dancin\u2019",
+        "url": "https://open.spotify.com/album/2Uailrdpotagi31qGYaKOj"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        }
+      ],
+      "duration_ms": 207096,
+      "name": "Keep On Dancin\u2019",
+      "url": "https://open.spotify.com/track/2tZ6RENHFCbw6vyv0LRcZP"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/2xQP7FhsF1Qpstvb7wdVRH"
       },
@@ -1379,22 +1379,6 @@
       "duration_ms": 150875,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/2JIWCJrgxmmM8coyFZZriG"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
-        "name": "Rock The Party",
-        "url": "https://open.spotify.com/album/7mJCgi7cA9vFsA4hMhizL7"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 204923,
-      "name": "Rock The Party",
-      "url": "https://open.spotify.com/track/3wnan34oo7sAqyoLPV5G9k"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/55vK8u3nIuOGLwg2t2TwmE"
+        "name": "Rock The Party",
+        "url": "https://open.spotify.com/album/7mJCgi7cA9vFsA4hMhizL7"
       },
       "artists": [
         {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
         }
       ],
-      "duration_ms": 177187,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/1exrUHaSRlgqZspTt4iRpB"
+      "duration_ms": 204923,
+      "name": "Rock The Party",
+      "url": "https://open.spotify.com/track/3wnan34oo7sAqyoLPV5G9k"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -1459,6 +1443,22 @@
       "duration_ms": 135468,
       "name": "Reading My Mind",
       "url": "https://open.spotify.com/track/2c8TIDfFaU5LH6U05aTlIY"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/55vK8u3nIuOGLwg2t2TwmE"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 177187,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/1exrUHaSRlgqZspTt4iRpB"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
-        "name": "Hey You",
-        "url": "https://open.spotify.com/album/01TNCjTnEhlr60BNeLShO5"
-      },
-      "artists": [
-        {
-          "name": "NOME.",
-          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
-        }
-      ],
-      "duration_ms": 141860,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/064ax84zHUqkFIcSvhlLZh"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
         "name": "Droppin' It (La La La)",
         "url": "https://open.spotify.com/album/7xYg6EaYOKlvp1rf1EPXX5"
       },
@@ -1719,18 +1703,18 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
-        "name": "C.R.E.A.M.",
-        "url": "https://open.spotify.com/album/7pOk3ct870S4hLB547f7VJ"
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/01TNCjTnEhlr60BNeLShO5"
       },
       "artists": [
         {
-          "name": "Lukas Vane",
-          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
         }
       ],
-      "duration_ms": 149562,
-      "name": "C.R.E.A.M.",
-      "url": "https://open.spotify.com/track/3sPnvTRfLlviMwOGbvjIug"
+      "duration_ms": 141860,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/064ax84zHUqkFIcSvhlLZh"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -1751,6 +1735,22 @@
       "duration_ms": 160000,
       "name": "What You Got",
       "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
+        "name": "C.R.E.A.M.",
+        "url": "https://open.spotify.com/album/7pOk3ct870S4hLB547f7VJ"
+      },
+      "artists": [
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        }
+      ],
+      "duration_ms": 149562,
+      "name": "C.R.E.A.M.",
+      "url": "https://open.spotify.com/track/3sPnvTRfLlviMwOGbvjIug"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
-        "name": "No Ecstasy Love",
-        "url": "https://open.spotify.com/album/23LgdnFZdrukb4zopFgz8e"
-      },
-      "artists": [
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 205846,
-      "name": "No Ecstasy Love",
-      "url": "https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
         "name": "Make a Living",
         "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 177798,
       "name": "Make a Living",
       "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
+        "name": "No Ecstasy Love",
+        "url": "https://open.spotify.com/album/23LgdnFZdrukb4zopFgz8e"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 205846,
+      "name": "No Ecstasy Love",
+      "url": "https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD"
     },
     {
       "added_at": "2025-09-12 04:00:11",

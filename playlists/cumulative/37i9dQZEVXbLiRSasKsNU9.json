@@ -7238,7 +7238,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -14314,7 +14314,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 164026,
       "name": "CEREMONY",
       "url": "https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF"
@@ -62549,6 +62549,24 @@
     },
     {
       "album": {
+        "name": "The Complete Discography",
+        "url": "https://open.spotify.com/album/5rQPHWyiLu7mkHIb3p8F5r"
+      },
+      "artists": [
+        {
+          "name": "Korea Girl",
+          "url": "https://open.spotify.com/artist/1Z5bekaSxinwyB2pxG6pks"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261293,
+      "name": "Reunion",
+      "url": "https://open.spotify.com/track/7cSwv1A2yKLUIf7ya0tKxJ"
+    },
+    {
+      "album": {
         "name": "So Close To What",
         "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
       },
@@ -65940,7 +65958,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 145777,
       "name": "Sequ\u00eancia da Bota\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6XX6DTK8eugxgZqmlwcvkG"

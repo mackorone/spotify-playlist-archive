@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hungary.",
-  "num_followers": 74917,
+  "num_followers": 74933,
   "original_name": "Top 50 - Hungary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MFjgeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MFox+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "OHMAMMA",
         "url": "https://open.spotify.com/album/0FI47MJzrv0dDT38VZaJEu"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2oKmNG8j56GqcX4XxyYcax"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "PRESSO",
         "url": "https://open.spotify.com/album/3eJuPUtO2KHScmYHKwJkq3"
@@ -45,43 +45,7 @@
       "url": "https://open.spotify.com/track/0D5QHyA6zijVjWqcTn3huY"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "S\u00d6T\u00c9T",
-        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 144203,
-      "name": "S\u00d6T\u00c9T",
-      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "PONT J\u00d3",
-        "url": "https://open.spotify.com/album/2nrPm89sh8J9HY1GHyedQ1"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "ANUBII$",
-          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "PONT J\u00d3",
-      "url": "https://open.spotify.com/track/6hl5iWDLtE1OqsYxsoGZQm"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "rabiga",
         "url": "https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH"
@@ -101,7 +65,23 @@
       "url": "https://open.spotify.com/track/52kBWybNy033009vfeYu5n"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "S\u00d6T\u00c9T",
+        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 144203,
+      "name": "S\u00d6T\u00c9T",
+      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "FREY TIMI",
         "url": "https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k"
@@ -117,7 +97,7 @@
       "url": "https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "BAKPAKK",
         "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
@@ -137,7 +117,27 @@
       "url": "https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "PONT J\u00d3",
+        "url": "https://open.spotify.com/album/2nrPm89sh8J9HY1GHyedQ1"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "PONT J\u00d3",
+      "url": "https://open.spotify.com/track/6hl5iWDLtE1OqsYxsoGZQm"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "PLETYKA",
         "url": "https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "Kimarad\u00e1s",
         "url": "https://open.spotify.com/album/06yuxkFSMGASGQOnQdSiBI"
@@ -173,39 +173,7 @@
       "url": "https://open.spotify.com/track/6ij2MtTi05Tpghcvp4i64m"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "BE VAGYOK Z\u00c1RVA",
-        "url": "https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        }
-      ],
-      "duration_ms": 131779,
-      "name": "BE VAGYOK Z\u00c1RVA",
-      "url": "https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "Vinnipu",
-        "url": "https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 108746,
-      "name": "Vinnipu",
-      "url": "https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "MOKKA",
         "url": "https://open.spotify.com/album/4iQWeN0DOgVm1npN2nKkpk"
@@ -225,47 +193,7 @@
       "url": "https://open.spotify.com/track/3u582Ft7ws5CvUxCsBHxwT"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "Talpra cig\u00e1nyok",
-        "url": "https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 146808,
-      "name": "Talpra cig\u00e1nyok",
-      "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "BAKPAKK",
-        "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        },
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 147120,
-      "name": "PANNONIA",
-      "url": "https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -297,23 +225,79 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
-        "name": "Demo",
-        "url": "https://open.spotify.com/album/4eddCF6C4oHNORXbMSKHvZ"
+        "name": "BAKPAKK",
+        "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
       },
       "artists": [
         {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 171806,
-      "name": "Demo",
-      "url": "https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn"
+      "duration_ms": 147120,
+      "name": "PANNONIA",
+      "url": "https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "BE VAGYOK Z\u00c1RVA",
+        "url": "https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "duration_ms": 131779,
+      "name": "BE VAGYOK Z\u00c1RVA",
+      "url": "https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "Vinnipu",
+        "url": "https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 108746,
+      "name": "Vinnipu",
+      "url": "https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "Talpra cig\u00e1nyok",
+        "url": "https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 146808,
+      "name": "Talpra cig\u00e1nyok",
+      "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "HA MEGHALOK SE",
         "url": "https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ"
@@ -333,23 +317,7 @@
       "url": "https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "BAKPAKK",
         "url": "https://open.spotify.com/album/0oCPs1829LWGJUVlx50BNE"
@@ -373,23 +341,39 @@
       "url": "https://open.spotify.com/track/6dd2fGbktU3zOHHWK58nto"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+        "name": "Demo",
+        "url": "https://open.spotify.com/album/4eddCF6C4oHNORXbMSKHvZ"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
         }
       ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
+      "duration_ms": 171806,
+      "name": "Demo",
+      "url": "https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "Lidokain",
         "url": "https://open.spotify.com/album/0epDJ4zO5ZSQtLYcqJ8Z2b"
@@ -409,27 +393,7 @@
       "url": "https://open.spotify.com/track/2lQkm39mnvJWhEABSRduHx"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "0",
-        "url": "https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "ANUBII$",
-          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "MEGGYF\u00c1N",
-      "url": "https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "SZAR AZ \u00c9LET",
         "url": "https://open.spotify.com/album/1dQ7jejuPoZHDusPiG2vhc"
@@ -453,7 +417,23 @@
       "url": "https://open.spotify.com/track/3jsbWC8B4zKp45oeXiUnLP"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "Strawberry",
         "url": "https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU"
@@ -469,7 +449,7 @@
       "url": "https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
@@ -489,55 +469,27 @@
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
-        "name": "STRESSZ",
-        "url": "https://open.spotify.com/album/33kQNgChvr8USSJ5lER3hJ"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 168738,
-      "name": "STRESSZ",
-      "url": "https://open.spotify.com/track/0HQbcGdDDXz6YN1rH7SAQe"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "Vagy Mindent Vagy Semmit",
-        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 199183,
-      "name": "\u00dagy Hiszem",
-      "url": "https://open.spotify.com/track/2zIijzos3rNY6DkvX2ZYDX"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "ANGYALOK",
-        "url": "https://open.spotify.com/album/7El982ts9FR1auscPCNLr6"
+        "name": "0",
+        "url": "https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf"
       },
       "artists": [
         {
           "name": "Beton.Hofi",
           "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
         }
       ],
-      "duration_ms": 211670,
-      "name": "ANGYALOK",
-      "url": "https://open.spotify.com/track/5VzhASm2474qyIwDbDQjFw"
+      "duration_ms": 146400,
+      "name": "MEGGYF\u00c1N",
+      "url": "https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -553,195 +505,23 @@
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
-        "name": "VID\u00c9KI CSAJSZI",
-        "url": "https://open.spotify.com/album/6Nz8LUkFkdvlQWwbByHDaq"
+        "name": "Csurran, cseppen",
+        "url": "https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM"
       },
       "artists": [
         {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+          "name": "Majka",
+          "url": "https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB"
         }
       ],
-      "duration_ms": 189714,
-      "name": "VID\u00c9KI CSAJSZI",
-      "url": "https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY"
+      "duration_ms": 250000,
+      "name": "Csurran, cseppen",
+      "url": "https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "BANDANA",
-        "url": "https://open.spotify.com/album/42hd8PAjFmpZfA9Z9Dy96l"
-      },
-      "artists": [
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        }
-      ],
-      "duration_ms": 186808,
-      "name": "BANDANA",
-      "url": "https://open.spotify.com/track/7A65mp4YCD2HyrYZ7DGIW9"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "CARPE DIEM",
-        "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        },
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "Lord Panamo",
-          "url": "https://open.spotify.com/artist/7veanrmdYNXRdmVxbsjSNh"
-        }
-      ],
-      "duration_ms": 189354,
-      "name": "Rampapapam",
-      "url": "https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 228518,
-      "name": "The Dead Dance",
-      "url": "https://open.spotify.com/track/5pobX21I8uZdHM8YOWItU7"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "BAKPAKK",
-        "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        }
-      ],
-      "duration_ms": 113046,
-      "name": "CHOCO MOMMY",
-      "url": "https://open.spotify.com/track/2V5x33qFjc72hmrrtG6ujv"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "Orgonabokor",
-        "url": "https://open.spotify.com/album/1WNazH6XAncw7qxBR60nHV"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Nosztalgia",
-      "url": "https://open.spotify.com/track/40CivnFDKYVbvhIpcXAcNB"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "Babak\u00e9k",
-        "url": "https://open.spotify.com/album/2OMzYVGlibnAkt0kucqen0"
-      },
-      "artists": [
-        {
-          "name": "Suhantz",
-          "url": "https://open.spotify.com/artist/4EGWMrbTfGPYx3vUp60GK2"
-        }
-      ],
-      "duration_ms": 215720,
-      "name": "Babak\u00e9k",
-      "url": "https://open.spotify.com/track/6eqGbInGpl1NWSIEbcE07a"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "Vagy Mindent Vagy Semmit",
-        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 176395,
-      "name": "M\u00e1mor",
-      "url": "https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
-        "url": "https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b"
-      },
-      "artists": [
-        {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
-        }
-      ],
-      "duration_ms": 174843,
-      "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
-      "url": "https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "Meg\u00e1ll Az Id\u0151",
-        "url": "https://open.spotify.com/album/22ZvDsUygqGo9SmPtPhRtp"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        },
-        {
-          "name": "ANUBII$",
-          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Afro Beat",
-      "url": "https://open.spotify.com/track/2KViM7OZzQU9mLWxJxHJWG"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -781,43 +561,7 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "Csurran, cseppen",
-        "url": "https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM"
-      },
-      "artists": [
-        {
-          "name": "Majka",
-          "url": "https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Csurran, cseppen",
-      "url": "https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 181530,
-      "name": "Feledn\u00e9d",
-      "url": "https://open.spotify.com/track/3Mls3f2j9xGRqRRsoKA0Ef"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "Orgonabokor",
         "url": "https://open.spotify.com/album/1WNazH6XAncw7qxBR60nHV"
@@ -826,70 +570,114 @@
         {
           "name": "Manuel",
           "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        },
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
         }
       ],
-      "duration_ms": 173100,
-      "name": "Entit\u00e1s",
-      "url": "https://open.spotify.com/track/07laYuqY1DjvMgp5HNXyF2"
+      "duration_ms": 189320,
+      "name": "Nosztalgia",
+      "url": "https://open.spotify.com/track/40CivnFDKYVbvhIpcXAcNB"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
-        "name": "Fotof\u00f3bia",
-        "url": "https://open.spotify.com/album/3lKnPe0akux4j2uthibT7i"
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
       },
       "artists": [
         {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 211022,
-      "name": "Spanom",
-      "url": "https://open.spotify.com/track/2iikrNErUXVZ9dgWzNHGsQ"
+      "duration_ms": 199183,
+      "name": "\u00dagy Hiszem",
+      "url": "https://open.spotify.com/track/2zIijzos3rNY6DkvX2ZYDX"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
-        "name": "PLAYB\u00c1NIA",
-        "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "Hundred Sins",
-          "url": "https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28"
-        }
-      ],
-      "duration_ms": 124273,
-      "name": "BAGIRA",
-      "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
-    },
-    {
-      "added_at": "2025-09-13 13:01:13",
-      "album": {
-        "name": "Egy \u00e9jszaka",
-        "url": "https://open.spotify.com/album/6Sj4RoQMxrJrCQpZ3ZQAvf"
+        "name": "CARPE DIEM",
+        "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
       },
       "artists": [
         {
           "name": "DESH",
           "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "Lord Panamo",
+          "url": "https://open.spotify.com/artist/7veanrmdYNXRdmVxbsjSNh"
         }
       ],
-      "duration_ms": 126534,
-      "name": "Egy \u00e9jszaka",
-      "url": "https://open.spotify.com/track/0PAoh7yFiKicaNCqw1mLRu"
+      "duration_ms": 189354,
+      "name": "Rampapapam",
+      "url": "https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "BANDANA",
+        "url": "https://open.spotify.com/album/42hd8PAjFmpZfA9Z9Dy96l"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "duration_ms": 186808,
+      "name": "BANDANA",
+      "url": "https://open.spotify.com/track/7A65mp4YCD2HyrYZ7DGIW9"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "STRESSZ",
+        "url": "https://open.spotify.com/album/33kQNgChvr8USSJ5lER3hJ"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 168738,
+      "name": "STRESSZ",
+      "url": "https://open.spotify.com/track/0HQbcGdDDXz6YN1rH7SAQe"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "VID\u00c9KI CSAJSZI",
+        "url": "https://open.spotify.com/album/6Nz8LUkFkdvlQWwbByHDaq"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 189714,
+      "name": "VID\u00c9KI CSAJSZI",
+      "url": "https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -921,43 +709,239 @@
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
-        "name": "Lidokain",
-        "url": "https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ"
+        "name": "Meg\u00e1ll Az Id\u0151",
+        "url": "https://open.spotify.com/album/22ZvDsUygqGo9SmPtPhRtp"
       },
       "artists": [
         {
-          "name": "BSW",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
         }
       ],
-      "duration_ms": 137614,
-      "name": "Passport",
-      "url": "https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K"
+      "duration_ms": 192000,
+      "name": "Afro Beat",
+      "url": "https://open.spotify.com/track/2KViM7OZzQU9mLWxJxHJWG"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
       "album": {
-        "name": "Suttog a sz\u00e9l",
-        "url": "https://open.spotify.com/album/4IxmvNpvwBFC8vj1JVl9qY"
+        "name": "A l\u00f3 t\u00faloldal\u00e1n",
+        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
       },
       "artists": [
         {
-          "name": "Parno Graszt",
-          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 181530,
+      "name": "Feledn\u00e9d",
+      "url": "https://open.spotify.com/track/3Mls3f2j9xGRqRRsoKA0Ef"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "Saja Boys",
+          "url": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
+        },
+        {
+          "name": "Andrew Choi",
+          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
+        },
+        {
+          "name": "Neckwav",
+          "url": "https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH"
+        },
+        {
+          "name": "Danny Chung",
+          "url": "https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33"
+        },
+        {
+          "name": "KEVIN WOO",
+          "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
+        },
+        {
+          "name": "samUIL Lee",
+          "url": "https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "duration_ms": 150686,
+      "name": "Soda Pop",
+      "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
+      },
+      "artists": [
         {
           "name": "Pog\u00e1ny Indul\u00f3",
           "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 280458,
-      "name": "A sz\u00edv dobban\u00e1sa",
-      "url": "https://open.spotify.com/track/7x07u3rQJ97cfppeSYFhNe"
+      "duration_ms": 176395,
+      "name": "M\u00e1mor",
+      "url": "https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j"
     },
     {
-      "added_at": "2025-09-13 13:01:13",
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "Egy \u00e9jszaka",
+        "url": "https://open.spotify.com/album/6Sj4RoQMxrJrCQpZ3ZQAvf"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 126534,
+      "name": "Egy \u00e9jszaka",
+      "url": "https://open.spotify.com/track/0PAoh7yFiKicaNCqw1mLRu"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "ANGYALOK",
+        "url": "https://open.spotify.com/album/7El982ts9FR1auscPCNLr6"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "duration_ms": 211670,
+      "name": "ANGYALOK",
+      "url": "https://open.spotify.com/track/5VzhASm2474qyIwDbDQjFw"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/5pobX21I8uZdHM8YOWItU7"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "Babak\u00e9k",
+        "url": "https://open.spotify.com/album/2OMzYVGlibnAkt0kucqen0"
+      },
+      "artists": [
+        {
+          "name": "Suhantz",
+          "url": "https://open.spotify.com/artist/4EGWMrbTfGPYx3vUp60GK2"
+        }
+      ],
+      "duration_ms": 215720,
+      "name": "Babak\u00e9k",
+      "url": "https://open.spotify.com/track/6eqGbInGpl1NWSIEbcE07a"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "A b\u00fas barista ballad\u00e1i",
+        "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 126930,
+      "name": "Osztriga",
+      "url": "https://open.spotify.com/track/1BXp9PwKtW5AKD0QDdaPSw"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "Good Girl Gone Bad",
+        "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Breakin' Dishes",
+      "url": "https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "PLAYB\u00c1NIA",
+        "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "Hundred Sins",
+          "url": "https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28"
+        }
+      ],
+      "duration_ms": 124273,
+      "name": "BAGIRA",
+      "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "Orgonabokor",
+        "url": "https://open.spotify.com/album/1WNazH6XAncw7qxBR60nHV"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        },
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 173100,
+      "name": "Entit\u00e1s",
+      "url": "https://open.spotify.com/track/07laYuqY1DjvMgp5HNXyF2"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
       "album": {
         "name": "No Broke Boys",
         "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
@@ -975,6 +959,54 @@
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "duration_ms": 250268,
+      "name": "What It Sounds Like",
+      "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
+    },
+    {
+      "added_at": "2025-09-14 13:28:18",
+      "album": {
+        "name": "Lidokain",
+        "url": "https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "duration_ms": 137614,
+      "name": "Passport",
+      "url": "https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K"
     }
   ],
   "unique_name": "Top 50 - Hungary",

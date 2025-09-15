@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 104938,
+  "num_followers": 104955,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -1299,42 +1299,6 @@
     {
       "added_at": "2025-09-10 15:16:34",
       "album": {
-        "name": "Make Out",
-        "url": "https://open.spotify.com/album/1wYyb3PD5sNXfG962OWgRI"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        },
-        {
-          "name": "Kazhi",
-          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
-        }
-      ],
-      "duration_ms": 157727,
-      "name": "Make Out",
-      "url": "https://open.spotify.com/track/2F86GnddMdes90OgTTp7FZ"
-    },
-    {
-      "added_at": "2025-09-10 15:16:34",
-      "album": {
-        "name": "Fable",
-        "url": "https://open.spotify.com/album/6G8n70rc0syjnFkn6SFhmk"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 165845,
-      "name": "Fable",
-      "url": "https://open.spotify.com/track/26AfDY0UGmvCqd9kSAhA02"
-    },
-    {
-      "added_at": "2025-09-10 15:16:34",
-      "album": {
         "name": "World Gone Wild (feat. Sam Martin) [Matt Sassari Remix]",
         "url": "https://open.spotify.com/album/4aG4CbD5cqxXZ8rmB0ESp0"
       },
@@ -1359,6 +1323,42 @@
       "duration_ms": 140625,
       "name": "World Gone Wild (feat. Sam Martin) - Matt Sassari Remix",
       "url": "https://open.spotify.com/track/1E3bD3DEr4wtSk7C9EqsFp"
+    },
+    {
+      "added_at": "2025-09-10 15:16:34",
+      "album": {
+        "name": "Fable",
+        "url": "https://open.spotify.com/album/6G8n70rc0syjnFkn6SFhmk"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 165845,
+      "name": "Fable",
+      "url": "https://open.spotify.com/track/26AfDY0UGmvCqd9kSAhA02"
+    },
+    {
+      "added_at": "2025-09-10 15:16:34",
+      "album": {
+        "name": "Make Out",
+        "url": "https://open.spotify.com/album/1wYyb3PD5sNXfG962OWgRI"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        },
+        {
+          "name": "Kazhi",
+          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
+        }
+      ],
+      "duration_ms": 157727,
+      "name": "Make Out",
+      "url": "https://open.spotify.com/track/2F86GnddMdes90OgTTp7FZ"
     },
     {
       "added_at": "2025-09-10 15:16:34",

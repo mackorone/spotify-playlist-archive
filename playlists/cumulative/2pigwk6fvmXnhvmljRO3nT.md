@@ -4,7 +4,7 @@
 
 > 
 
-7,721 songs - 19 day 22 hr 45 min
+7,722 songs - 19 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3380,6 +3380,7 @@
 | [Let's Dance in the Dirt!](https://open.spotify.com/track/66bN3aZeNvaeRnSmtOtuNe) | [Macabre Plaza](https://open.spotify.com/artist/7r8EHfxHZHU16sUV3BEH1t) | [Remember Me? EP from Mp](https://open.spotify.com/album/1cFqReOHHUQF7pIdr0MHS3) | 1:21 | 2025-01-30 |  |
 | [Let's Go](https://open.spotify.com/track/5YPMcT7Je01NAqFd3LMlQL) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Hot Soup](https://open.spotify.com/album/1h19AU04eolAfpQ3ywiQGX) | 2:29 | 2024-12-27 |  |
 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 | 2025-01-03 |  |
+| [Let's Go Home](https://open.spotify.com/track/1P0JP5gsaDDMvJOB02dl7B) | [Carousel](https://open.spotify.com/artist/0oYWECmtozBZGjnklDFPTH) | [Let's Go Home](https://open.spotify.com/album/5oTSgI5xEsrEhXICmEowq3) | 3:40 | 2025-09-14 |  |
 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 | 2025-02-21 |  |
 | [Let's Ride \(feat\. YG, Ty Dolla $ign, Lambo4oe\) \- Trailer Anthem](https://open.spotify.com/track/0sKJExQWRKxd76gSSwrsaI) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [Let's Ride \(feat\. YG, Ty Dolla $ign, Lambo4oe\) \[Trailer Anthem\]](https://open.spotify.com/album/2gtzhUrfhH4VsoiWeQqSmX) | 2:27 | 2025-01-15 |  |
 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2024-12-05 |  |

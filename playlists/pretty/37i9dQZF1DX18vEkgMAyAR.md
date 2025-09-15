@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,397 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,391 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 33 | [Love Everlasting](https://open.spotify.com/track/4qWgTI5kANphagZlJL4f8g) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7) | [Love Everlasting](https://open.spotify.com/album/1jk13k67kk897HjHgIELRV) | 2:40 |
 | 34 | [SHANGRI\-LA \- Radio Edit](https://open.spotify.com/track/04NEE6filobSes2pww809U) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi) | [SHANGRI\-LA \(Radio Edit\)](https://open.spotify.com/album/5ibPTCuJQNcbZnWTU9HkuX) | 3:02 |
 | 35 | [Say You Will Remember Me](https://open.spotify.com/track/3cVbwXyr9oZdeNfISdeS7F) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Say You Will Remember Me](https://open.spotify.com/album/39wcKYCki3w61JhTzUM8be) | 3:22 |
-| 36 | [You & I](https://open.spotify.com/track/1KyLPWLT2H7xMVk92YineV) | [Tamara Dey](https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9), [Jann Klose](https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR) | [La Musica](https://open.spotify.com/album/6XazW7KRkCIZ4Tp7XjoYfG) | 3:32 |
-| 37 | [Passionfruit](https://open.spotify.com/track/1HgYlsGP1lWzKp9vM08itv) | [GoodLuck](https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3) | [Passionfruit](https://open.spotify.com/album/5yJhQGEnuwbOUnlbY6aHCA) | 4:04 |
+| 36 | [Passionfruit](https://open.spotify.com/track/1HgYlsGP1lWzKp9vM08itv) | [GoodLuck](https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3) | [Passionfruit](https://open.spotify.com/album/5yJhQGEnuwbOUnlbY6aHCA) | 4:04 |
+| 37 | [You & I](https://open.spotify.com/track/1KyLPWLT2H7xMVk92YineV) | [Tamara Dey](https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9), [Jann Klose](https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR) | [La Musica](https://open.spotify.com/album/6XazW7KRkCIZ4Tp7XjoYfG) | 3:32 |
 | 38 | [Liars And Fakes \- Tensnake Remix](https://open.spotify.com/track/09JHqEed5hkhPUBz6gW8AA) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Liars And Fakes \(Tensnake Remix\)](https://open.spotify.com/album/7arIeG0OMONxbIatlukv6S) | 5:29 |
 | 39 | [Forever Free \(DeepFish Remix\) \(feat\. Nate Highfield & SILVER\)](https://open.spotify.com/track/2YT7OMlGZlaFpBpMGLtDuK) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Nate Highfield](https://open.spotify.com/artist/4JquAIlxYSGeqFcQyPUMVF), [SILVER](https://open.spotify.com/artist/1HXRQ8IflmWzNxTrymVI7u) | [Forever Free \(DeepFish Remix\) \(feat\. Nate Highfield & SILVER\)](https://open.spotify.com/album/3PJnw0E507X2yMby8pUHOm) | 3:24 |
 | 40 | [Dark Side](https://open.spotify.com/track/0LUsPZLpu4gxyLxKaHAI8g) | [Thor Rixon](https://open.spotify.com/artist/53Gm4E92lh1hMANUw9r2pX), [Deep Aztec](https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw) | [Dark Side](https://open.spotify.com/album/2VPAWHuNgQuowuPQzWU45b) | 4:05 |

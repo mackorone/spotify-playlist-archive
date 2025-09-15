@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-205 songs - 13 hr 5 min
+206 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,8 +55,9 @@
 | [Falling](https://open.spotify.com/track/0POZLh4zmngcmZlED3TE6M) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/0UdmyRJgaoe92dHgMit5bT) | 3:19 | 2021-12-27 |  |
 | [Feed Your Love](https://open.spotify.com/track/1182NfpbWAJflmaIMOmKaQ) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 5:12 | 2021-12-27 |  |
 | [Feel The Fire](https://open.spotify.com/track/7uHjZ4U9ZKyyjHQqIAvDuk) | [Joe McElderry](https://open.spotify.com/artist/38SqjWcm8au0qiQZvd3FbF) | [Wide Awake](https://open.spotify.com/album/2VQ14UU4v7KGDu1H1NrIKB) | 2:58 | 2021-12-27 |  |
+| [Freedom Of The Night](https://open.spotify.com/track/149O5EKwCXIbVNXQr6mxgj) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:12 | 2025-09-14 |  |
 | [Freedom Of The Night](https://open.spotify.com/track/2xrLUgh8qtlYfibZQ7V6M5) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Murder In The Night](https://open.spotify.com/album/3cVD020aOEwFazH5OvoJ3L) | 3:12 | 2024-11-01 | 2024-11-22 |
-| [Freedom Of The Night](https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Freedom Of The Night](https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk) | 3:12 | 2024-10-20 |  |
+| [Freedom Of The Night](https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Freedom Of The Night](https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk) | 3:12 | 2024-10-20 | 2025-09-15 |
 | [From Now On](https://open.spotify.com/track/7K7GpxGtqKYvywwDirV1iq) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On](https://open.spotify.com/album/1ZH8hj897xqqzJRmfDc1Ry) | 3:40 | 2021-12-27 |  |
 | [Give And Take](https://open.spotify.com/track/33exaNQmkBIgcDh8hlYmHk) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 3:52 | 2021-12-27 |  |
 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 | 2022-07-24 |  |

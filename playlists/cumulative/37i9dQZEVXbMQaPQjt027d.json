@@ -202,7 +202,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 61269,
       "name": "ACELERADA",
       "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 153750,
       "name": "Ben Je Morgen Vrij?",
       "url": "https://open.spotify.com/track/2ytB93cB0vNztVGnzYF7Rz"
@@ -1144,10 +1144,28 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 104431,
       "name": "Devil in Disguise",
       "url": "https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw"
+    },
+    {
+      "album": {
+        "name": "Deze Nacht (All Night Long)",
+        "url": "https://open.spotify.com/album/4eueg0K9RALrcC4OInrPdN"
+      },
+      "artists": [
+        {
+          "name": "Thijs Boontjes",
+          "url": "https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243005,
+      "name": "Deze Nacht (All Night Long)",
+      "url": "https://open.spotify.com/track/00tDSqUMjyOICNNmQSBE8w"
     },
     {
       "album": {
@@ -3388,7 +3406,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 221333,
       "name": "Pumpin Jumpin",
       "url": "https://open.spotify.com/track/1VhNZmtGQPnJlzZStAYn5j"
@@ -3876,7 +3894,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 153080,
       "name": "Stil De Tijd",
       "url": "https://open.spotify.com/track/2U45gCmFOwMkD8OnWHIOxn"

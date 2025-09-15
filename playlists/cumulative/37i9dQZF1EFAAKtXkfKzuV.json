@@ -1609,6 +1609,28 @@
     },
     {
       "album": {
+        "name": "Wrong Side of Love",
+        "url": "https://open.spotify.com/album/0FxreyHyZihHMyvcnM97bi"
+      },
+      "artists": [
+        {
+          "name": "Kastra",
+          "url": "https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC"
+        },
+        {
+          "name": "Amanda Collis",
+          "url": "https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "Wrong Side of Love",
+      "url": "https://open.spotify.com/track/6uShcdguw0MhXGHlUpLz2L"
+    },
+    {
+      "album": {
         "name": "Besser kann ich es nicht erkl\u00e4ren",
         "url": "https://open.spotify.com/album/2x3GbNC5I3eFx4ZrFJjvsy"
       },

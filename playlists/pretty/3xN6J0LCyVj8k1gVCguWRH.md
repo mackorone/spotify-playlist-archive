@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,889 likes - 169 songs - 9 hr 57 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,907 likes - 166 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,8 +174,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 164 | [Buffalo Road](https://open.spotify.com/track/2T4SooBrjDN65je9dGioDi) | [Marty O'Neill](https://open.spotify.com/artist/3tIkLvNAAQfZdJwbDASQsz) | [Buffalo Road](https://open.spotify.com/album/1aKMxBgbmpHOS3Geuc6QIt) | 3:21 |
 | 165 | [Good News](https://open.spotify.com/track/0b28fB7SY2A02P5t1GdHOb) | [Sharveal](https://open.spotify.com/artist/1wB8uJ5IudA0NItT9jbmsb) | [Sharveal](https://open.spotify.com/album/051KRjrs5GsrovSdZd5KGK) | 3:24 |
 | 166 | [Affillele](https://open.spotify.com/track/5HsX6VMVdg1tsNGPcZ4uiC) | [MUZIG](https://open.spotify.com/artist/2jwPteq80dFbeimmms4H8F) | [Affillele](https://open.spotify.com/album/7LrXjIOnUu5ldW3ENMgieu) | 3:16 |
-| 167 | [This Love's Gonna Last](https://open.spotify.com/track/3zjD9zbfstE9vndzqIgu1U) | [Lina Territo](https://open.spotify.com/artist/1JWFrq1ahJDRvlLZJcJvic) | [This Love's Gonna Last](https://open.spotify.com/album/4deU9bqegmx4OeaJlAxwBo) | 5:20 |
-| 168 | [Show Me](https://open.spotify.com/track/5jxp9RnSdWNO7ssxdeWsog) | [Taylor Ayanna](https://open.spotify.com/artist/1DiI4vXMOkFgot9HtfFbKA) | [Show Me](https://open.spotify.com/album/0X9AETRgtKtQRP9pUCo6Hj) | 2:52 |
-| 169 | [Now and Later](https://open.spotify.com/track/73IQcuPNUKBm1QpA4a0uQD) | [Junior Pasare](https://open.spotify.com/artist/5vlW1zn9PS9H58BbcWz7Fv) | [Now and Later](https://open.spotify.com/album/1w2eUjDjLUDMmmXQHdDFpP) | 3:09 |
 
-Snapshot ID: `AAA0dKAXRT5tcmzVXILM1+dlqEj9EXx+`
+Snapshot ID: `AAA0ddOeTNXSoXpfnX/pxuDfNUaQC/1M`

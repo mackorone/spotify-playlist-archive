@@ -4,7 +4,7 @@
 
 > 
 
-237 songs - 22 hr 28 min
+238 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Teardrop \- dark version](https://open.spotify.com/track/4SZHXagJBFjtbiuKzqnMvX) | [The Subs](https://open.spotify.com/artist/06h5xeeCDip3usS3go9zjI), [gala dragot](https://open.spotify.com/artist/5bec6G42etdHwqurstmocM) | [Teardrop \- dark version](https://open.spotify.com/album/4BbQBXfpo00N83v9bhv1Fb) | 3:17 | 2023-08-12 |  |
 | [Thank You \(Rework\)](https://open.spotify.com/track/5bcvu6T9QzdNFxTy6FZ0WQ) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA) | [Thank You \(Rework\)](https://open.spotify.com/album/01aReRIGYGkvz9RndUc7fh) | 4:43 | 2025-01-15 |  |
 | [That's Too Slow](https://open.spotify.com/track/7AtNHY2plqqo6WrY239YUd) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Eyes Open EP](https://open.spotify.com/album/13Ua4Sd4A8WhG3CgaNOKT0) | 4:21 | 2022-07-13 | 2025-08-28 |
+| [The Color Violet](https://open.spotify.com/track/6JtnOj7ubrZpi2busElfkt) | [DATSKO](https://open.spotify.com/artist/2b1Yc522In2BV3Q1fj2JzY) | [The Color Violet](https://open.spotify.com/album/4GdcHnq2iwnYWmCnswotzr) | 4:52 | 2025-09-14 |  |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-07-01 |  |
 | [The Distance](https://open.spotify.com/track/7kUZGVHKDRBrPIYfhZ49ju) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/4Y5HddfFNFopRAhEbXuUe7) | 4:51 | 2022-01-03 |  |
 | [The Last Glow](https://open.spotify.com/track/77hkwtbbh3pGuNFkXwfVkB) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Realm Of Consciousness Pt\. IV](https://open.spotify.com/album/0V6u4pveYlufmU2qnige3y) | 6:50 | 2021-10-27 |  |

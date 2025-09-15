@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36edUJpD76c.md) - [plain]
 
 > Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Aymen, Amo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,972,688 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,972,529 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

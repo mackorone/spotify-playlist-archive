@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 225890,
       "name": "2nd Happy",
       "url": "https://open.spotify.com/track/5q38R7YPq4uHSpVTUYye1k"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 246461,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt"
@@ -180,7 +180,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 224013,
       "name": "Angel",
       "url": "https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "COME MY WAY",
       "url": "https://open.spotify.com/track/0yx037HdsRNA6x8eMPMCmI"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 216991,
       "name": "Commitment",
       "url": "https://open.spotify.com/track/0kJSz8ENF9QUcBmhBvIROi"
@@ -950,6 +950,24 @@
       "duration_ms": 166000,
       "name": "Copacetic",
       "url": "https://open.spotify.com/track/4Ruz004Up9H5sPPeLs7JLe"
+    },
+    {
+      "album": {
+        "name": "Cortado",
+        "url": "https://open.spotify.com/album/5cO0gKE8gcyAypB1fH7iaq"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160514,
+      "name": "Cortado",
+      "url": "https://open.spotify.com/track/7CN1TLlARavoQZLUBm42xF"
     },
     {
       "album": {
@@ -1156,7 +1174,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 251640,
       "name": "Don't Deserve You",
       "url": "https://open.spotify.com/track/1TRibL6UoaiU3yEdqCQbgx"
@@ -1232,6 +1250,28 @@
       "duration_ms": 178387,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv"
+    },
+    {
+      "album": {
+        "name": "EASY FOR ME TO CHOOSE",
+        "url": "https://open.spotify.com/album/1IU0h2LQE675URTV0K4T8d"
+      },
+      "artists": [
+        {
+          "name": "Thomas Austin",
+          "url": "https://open.spotify.com/artist/7CX2IocKUqEmOQ74CsU9zt"
+        },
+        {
+          "name": "Jalen Jackson",
+          "url": "https://open.spotify.com/artist/29XB8DEu3JLWyMjbJrdDp9"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "EASY FOR ME TO CHOOSE",
+      "url": "https://open.spotify.com/track/1ev6x5ZiaFR7ONYi5Dxgap"
     },
     {
       "album": {
@@ -1419,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/6BWnjFtlkr5qPpFxQiQcXw"
+      },
+      "artists": [
+        {
+          "name": "DeAngelo",
+          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187994,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2D4g5r9CzCmHuDPKfgqmcr"
+    },
+    {
+      "album": {
         "name": "Feel The Waters",
         "url": "https://open.spotify.com/album/58RSzSjbWuVbY7Yy0Zt3vX"
       },
@@ -1542,6 +1600,24 @@
       "duration_ms": 171315,
       "name": "Forever the Love of My Life",
       "url": "https://open.spotify.com/track/2p6K4Am9Izdgv2t73Kasog"
+    },
+    {
+      "album": {
+        "name": "Forever With You (Freestyle Session)",
+        "url": "https://open.spotify.com/album/6d3pB44ez3TsJ7ZShjP72R"
+      },
+      "artists": [
+        {
+          "name": "ZOE Music",
+          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123386,
+      "name": "Forever With You (Freestyle Session)",
+      "url": "https://open.spotify.com/track/434WFp5IK0hnp2df22hdOv"
     },
     {
       "album": {
@@ -1791,6 +1867,24 @@
     },
     {
       "album": {
+        "name": "Growing Up & Growing Old",
+        "url": "https://open.spotify.com/album/3HK8c05UVtSjJQxKPSbK99"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177751,
+      "name": "Growing Up & Growing Old",
+      "url": "https://open.spotify.com/track/300wOCld4kQjwfPptDMwI0"
+    },
+    {
+      "album": {
         "name": "Half of forever",
         "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
       },
@@ -1986,7 +2080,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 222868,
       "name": "Holding On to You - Single Version",
       "url": "https://open.spotify.com/track/25wGFtILSRZ5SktMdrnd9g"
@@ -2148,7 +2242,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 340200,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/7zLrZg50t25YSwU1iDskbQ"
@@ -2300,7 +2394,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 246240,
       "name": "I'm in Love With You",
       "url": "https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt"
@@ -2336,7 +2430,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 207986,
       "name": "If Only",
       "url": "https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi"
@@ -2433,6 +2527,32 @@
     },
     {
       "album": {
+        "name": "Je t'aime(I love you)",
+        "url": "https://open.spotify.com/album/1kLj0soMFjI8bIX2lG95U7"
+      },
+      "artists": [
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "Drulo",
+          "url": "https://open.spotify.com/artist/4uI8RC8WQcP4R5Q4Vafdfz"
+        },
+        {
+          "name": "WINNER WAYS.",
+          "url": "https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Je t'aime(I love you)",
+      "url": "https://open.spotify.com/track/4X1Ndb7krWWkVRJPwkgRer"
+    },
+    {
+      "album": {
         "name": "Junto a Ti",
         "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
       },
@@ -2516,7 +2636,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 198140,
       "name": "Known",
       "url": "https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X"
@@ -2588,7 +2708,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 183573,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/11S5G8taDSpsUiGYP4lKxm"
@@ -2754,6 +2874,24 @@
       "duration_ms": 201526,
       "name": "Look At Love",
       "url": "https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw"
+    },
+    {
+      "album": {
+        "name": "Love 'n Loyalty",
+        "url": "https://open.spotify.com/album/6Hp8lI3R57AJcsRONlOwcX"
+      },
+      "artists": [
+        {
+          "name": "Larell",
+          "url": "https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145846,
+      "name": "Love 'n Loyalty",
+      "url": "https://open.spotify.com/track/6zYaKidxO9k84yHAnqA7Ca"
     },
     {
       "album": {
@@ -3090,7 +3228,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 169846,
       "name": "Me + You = Pi",
       "url": "https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus"
@@ -3108,7 +3246,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 186373,
       "name": "Meant to Be",
       "url": "https://open.spotify.com/track/2YGu3QpHqj5AHtS8RzFQdW"
@@ -3148,6 +3286,24 @@
       "duration_ms": 223445,
       "name": "Midwest Magic",
       "url": "https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6"
+    },
+    {
+      "album": {
+        "name": "More Like Jesus",
+        "url": "https://open.spotify.com/album/5WDh2LvUaeJJueZknrvADZ"
+      },
+      "artists": [
+        {
+          "name": "Micah Fletcher",
+          "url": "https://open.spotify.com/artist/6f78Kz0Wb1MGVk3rSIodth"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182028,
+      "name": "More Like Jesus",
+      "url": "https://open.spotify.com/track/2aZ1i4ngczUSujMpuTLKnn"
     },
     {
       "album": {
@@ -3358,7 +3514,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 214600,
       "name": "Only One",
       "url": "https://open.spotify.com/track/1iAqQMUVtp5E1EYJkqZw2g"
@@ -3402,6 +3558,24 @@
       "duration_ms": 173023,
       "name": "oxygen",
       "url": "https://open.spotify.com/track/5l7n3eYehOySHFCHGevIMz"
+    },
+    {
+      "album": {
+        "name": "PASSIONATE",
+        "url": "https://open.spotify.com/album/2clEdPUvgRj9Gqy043PLAj"
+      },
+      "artists": [
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152842,
+      "name": "PASSIONATE",
+      "url": "https://open.spotify.com/track/1xWNuAcLnTnAxc9eWcdjVA"
     },
     {
       "album": {
@@ -3668,7 +3842,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 208520,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/7BTmtN6bP35E54vVASTqao"
@@ -3686,7 +3860,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-29",
+      "date_removed": null,
       "duration_ms": 157895,
       "name": "Red Mercedes",
       "url": "https://open.spotify.com/track/3II7QddbZjEKhYh7XoBb1Y"
@@ -3788,7 +3962,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 270680,
       "name": "Safe",
       "url": "https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH"
@@ -3952,6 +4126,24 @@
       "duration_ms": 165000,
       "name": "South Florida (Remix)",
       "url": "https://open.spotify.com/track/7rcXtR06BJ0D6xU9wmwgkI"
+    },
+    {
+      "album": {
+        "name": "Sunday Coffee",
+        "url": "https://open.spotify.com/album/7JiQDq1Ze76saXNgnk0Edk"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91141,
+      "name": "Sunday Coffee",
+      "url": "https://open.spotify.com/track/3okfIj8e23ahdmkx1u1Aym"
     },
     {
       "album": {
@@ -4184,7 +4376,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 212426,
       "name": "The Day Before You - Acoustic",
       "url": "https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF"
@@ -4220,7 +4412,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 245640,
       "name": "The Marriage Prayer",
       "url": "https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB"
@@ -4384,7 +4576,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 242746,
       "name": "Together",
       "url": "https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S"
@@ -4406,6 +4598,24 @@
       "duration_ms": 193966,
       "name": "True Love",
       "url": "https://open.spotify.com/track/6QrUlBbT5SwVnE6DfQXqBg"
+    },
+    {
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d"
+      },
+      "artists": [
+        {
+          "name": "Drakeford",
+          "url": "https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158260,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf"
     },
     {
       "album": {
@@ -4478,6 +4688,24 @@
       "duration_ms": 239653,
       "name": "Unfailing Love",
       "url": "https://open.spotify.com/track/7CdKRgZiFWgMWDIbbFURZA"
+    },
+    {
+      "album": {
+        "name": "ALBA",
+        "url": "https://open.spotify.com/album/5H99GIWYw1JWhEHKZKjfx4"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192256,
+      "name": "Vamos bien",
+      "url": "https://open.spotify.com/track/3ihSP5eDXLDUWCglJgj75b"
     },
     {
       "album": {
@@ -4576,7 +4804,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 192893,
       "name": "We Can Be More",
       "url": "https://open.spotify.com/track/6Jpcc6gwS1viCvse3M4Rji"
@@ -4594,7 +4822,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 280866,
       "name": "We Will Dance",
       "url": "https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o"
@@ -4612,7 +4840,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 177658,
       "name": "What A Mystery",
       "url": "https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg"

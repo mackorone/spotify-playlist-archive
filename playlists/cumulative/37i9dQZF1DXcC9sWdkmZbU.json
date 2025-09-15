@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/77kMAZ0oUkx5dqNkoLaEcw"
+      },
+      "artists": [
+        {
+          "name": "Juana",
+          "url": "https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek"
+        },
+        {
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219403,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/2a2p5OmUg1cf9qH2ruF9qt"
+    },
+    {
+      "album": {
         "name": "Worship For Your Family (Yellow)",
         "url": "https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA"
       },
@@ -160,7 +182,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 242866,
       "name": "Be Still (Psalm 46:10)",
       "url": "https://open.spotify.com/track/0Ie6BTfYSyMcvl845hGr94"
@@ -182,6 +204,24 @@
       "duration_ms": 242866,
       "name": "Be Still (Psalm 46:10)",
       "url": "https://open.spotify.com/track/3DyECaH0ay8Eaq07c84Nno"
+    },
+    {
+      "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/7dBJvgDpKP4aF9DzkRdz7u"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196600,
+      "name": "Best Day of My Life",
+      "url": "https://open.spotify.com/track/1A6or9Pbj0RDBKHyiujChc"
     },
     {
       "album": {
@@ -319,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Sing: Spring Songs",
+        "url": "https://open.spotify.com/album/7i2nlqerXQ3KhZzXzcY1cR"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192800,
+      "name": "Christ The Lord Is Risen Today",
+      "url": "https://open.spotify.com/track/5uQTIFIqXyx17f99UbPSKX"
+    },
+    {
+      "album": {
         "name": "Come and See (Psalm 66) [Live]",
         "url": "https://open.spotify.com/album/6UYQR7u1wyVVhcGK04SXeX"
       },
@@ -352,7 +410,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 174480,
       "name": "Come To Me (Matthew 11:28-30)",
       "url": "https://open.spotify.com/track/5ftRDxHHlXxhYjiwPDQu2j"
@@ -388,7 +446,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 305319,
       "name": "Deep Cries Out",
       "url": "https://open.spotify.com/track/6PCTbGecSbQlHp7CD4taCd"
@@ -574,7 +632,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 173403,
       "name": "From the Rising of the Sun (Psalm 113:3-5 ESV)",
       "url": "https://open.spotify.com/track/5m6OS0i0JwQhgawp5cfn97"
@@ -650,7 +708,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 131885,
       "name": "God Gives Power Not Fear (1 Timothy 1:7)",
       "url": "https://open.spotify.com/track/4XSzE4AIVFpJk3CsPJYGUS"
@@ -780,7 +838,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 171866,
       "name": "Great Big God",
       "url": "https://open.spotify.com/track/5MHMX1yGMvDGZiauUayAtH"
@@ -838,7 +896,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 164259,
       "name": "He Is the Light",
       "url": "https://open.spotify.com/track/7Bi1ZbcjXppd20X6IyldE7"
@@ -968,7 +1026,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 123243,
       "name": "I Will Worship The Lord",
       "url": "https://open.spotify.com/track/5qkAd5c8LJ54kmi3ihvm2B"
@@ -1022,7 +1080,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 64476,
       "name": "If You're Saved and You Know It",
       "url": "https://open.spotify.com/track/4fBymO23KqavJifkRrMQDE"
@@ -1066,7 +1124,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 234472,
       "name": "Jesus - Kids Version",
       "url": "https://open.spotify.com/track/7Hd90b1Oh8HIRk7gyIZ8BW"
@@ -1088,6 +1146,24 @@
       "duration_ms": 230266,
       "name": "Jesus Loves Me",
       "url": "https://open.spotify.com/track/18vX3PoNMD7zeSIzjON4FL"
+    },
+    {
+      "album": {
+        "name": "Jesus Loves Me",
+        "url": "https://open.spotify.com/album/3KOm9XWmIqqVmGbcovRnUS"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Kids",
+          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86575,
+      "name": "Jesus Loves Me",
+      "url": "https://open.spotify.com/track/70AOGWKZWH7cuiNnaTiTZ5"
     },
     {
       "album": {
@@ -1207,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "Let My Light Shine",
+        "url": "https://open.spotify.com/album/6YTSa6nh81zLwXc7SIFIHI"
+      },
+      "artists": [
+        {
+          "name": "KidSpring",
+          "url": "https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166709,
+      "name": "Let My Light Shine",
+      "url": "https://open.spotify.com/track/1kGmEkiS3Xpf48qrfw4HR8"
+    },
+    {
+      "album": {
         "name": "Let Your Light Shine (Matthew 5:14,16 Berean)",
         "url": "https://open.spotify.com/album/5z8Ma2gz6h4sIH4Rj2jwiw"
       },
@@ -1218,7 +1312,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 186693,
       "name": "Let Your Light Shine",
       "url": "https://open.spotify.com/track/6N1V1o6ZZ9aWJFn3r6wgfl"
@@ -1236,7 +1330,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 238573,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/5KcX22U4kPDlva7JIjaigI"
@@ -1272,7 +1366,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 177480,
       "name": "Matthew 6:9-13 Jesus' Prayer",
       "url": "https://open.spotify.com/track/0EMBz31tjvy0Z04Qb7adFn"
@@ -1395,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "Oh Come, Let Us Worship",
+        "url": "https://open.spotify.com/album/4M67vB4bJDf7rQ9ALnXQxx"
+      },
+      "artists": [
+        {
+          "name": "Slugs and Bugs",
+          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149906,
+      "name": "Oh Come, Let Us Worship",
+      "url": "https://open.spotify.com/track/7h19A0XhUCeWo7mNC3sgx3"
+    },
+    {
+      "album": {
         "name": "Worship in The Word (Live)",
         "url": "https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ"
       },
@@ -1486,7 +1598,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 193160,
       "name": "Power (Acts 1:8 Esv)",
       "url": "https://open.spotify.com/track/5TWNtcnXBFKOD6J6ZMH2Cm"
@@ -1508,6 +1620,24 @@
       "duration_ms": 198093,
       "name": "Prayed for This Day",
       "url": "https://open.spotify.com/track/2GZK4aAvR7QYTPuQOoJCVN"
+    },
+    {
+      "album": {
+        "name": "Psalms 150",
+        "url": "https://open.spotify.com/album/5JnXfbyb5m4kbtYkLzPMz2"
+      },
+      "artists": [
+        {
+          "name": "3 Little Words",
+          "url": "https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Psalms 150",
+      "url": "https://open.spotify.com/track/6uXSvz27nzIPY8rWDywweF"
     },
     {
       "album": {
@@ -1606,10 +1736,28 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 183151,
       "name": "So Much More (John 21:25 ESV)",
       "url": "https://open.spotify.com/track/2pPsfoIBlqSI0sRJVWQbhZ"
+    },
+    {
+      "album": {
+        "name": "Spring Sings",
+        "url": "https://open.spotify.com/album/385COA05ACgHNxR3zojfE1"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Spring Sings",
+      "url": "https://open.spotify.com/track/0AIAI0gEUkN4di7wx4nPov"
     },
     {
       "album": {
@@ -1624,7 +1772,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 208826,
       "name": "Stars",
       "url": "https://open.spotify.com/track/0swWz0e1kcnDokEQTm4qvC"
@@ -1660,10 +1808,28 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 164569,
       "name": "Superhero - Reimagined",
       "url": "https://open.spotify.com/track/4YuRIjer2Tgc7cZ3kUf3s1"
+    },
+    {
+      "album": {
+        "name": "That's My King",
+        "url": "https://open.spotify.com/album/0hlXwtjHODFgSMJ4BTaIjU"
+      },
+      "artists": [
+        {
+          "name": "Yancy",
+          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228008,
+      "name": "That's My King",
+      "url": "https://open.spotify.com/track/1WyzN9L3060M4gNa4cD8Sw"
     },
     {
       "album": {
@@ -1696,10 +1862,28 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 150706,
       "name": "The Lord Is My Shepherd (Psalm 23:1)",
       "url": "https://open.spotify.com/track/1yjzLKL3Oa2UEnMLoYIa0X"
+    },
+    {
+      "album": {
+        "name": "The New Testament Song",
+        "url": "https://open.spotify.com/album/1ZawOBwcYWtpKMVwVqE59Y"
+      },
+      "artists": [
+        {
+          "name": "Seeds Kids Worship",
+          "url": "https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174350,
+      "name": "The New Testament Song",
+      "url": "https://open.spotify.com/track/3dvNnUeafyziPJvmgcFz6i"
     },
     {
       "album": {
@@ -1757,6 +1941,28 @@
     },
     {
       "album": {
+        "name": "This Is My Father's World (From Pippa And The Singing Tree)",
+        "url": "https://open.spotify.com/album/7qaxZz4ttunI9fG24X1lN3"
+      },
+      "artists": [
+        {
+          "name": "The Getty Girls",
+          "url": "https://open.spotify.com/artist/3V65Gy3Luidoo7kBhplU9a"
+        },
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180745,
+      "name": "This Is My Father's World - From Pippa And The Singing Tree",
+      "url": "https://open.spotify.com/track/2B59Pvir5WHVZYicWhjiAB"
+    },
+    {
+      "album": {
         "name": "Pop Praise: Celebrate",
         "url": "https://open.spotify.com/album/6y5JEipzGCoFRLPFZZFcy7"
       },
@@ -1768,10 +1974,28 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 134322,
       "name": "This Little Light of Mine",
       "url": "https://open.spotify.com/track/75JqUtlGJZXysWPR57rvSJ"
+    },
+    {
+      "album": {
+        "name": "This Little Light of Mine",
+        "url": "https://open.spotify.com/album/3Eaa14k1FtRd3GpQBoB0Uw"
+      },
+      "artists": [
+        {
+          "name": "Slugs and Bugs",
+          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166874,
+      "name": "This Little Light of Mine",
+      "url": "https://open.spotify.com/track/0tBb8VIT8MWo9mGHFOt1Ed"
     },
     {
       "album": {
@@ -1858,7 +2082,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 222760,
       "name": "Whatever You Do (Colossians 3:17,23)",
       "url": "https://open.spotify.com/track/1En87DDfDeheilBsDG0V8d"
@@ -1937,6 +2161,24 @@
     },
     {
       "album": {
+        "name": "Hope For The Wobbly World",
+        "url": "https://open.spotify.com/album/212VIFg5oHDU7J8K8Iol2K"
+      },
+      "artists": [
+        {
+          "name": "Colin Buchanan",
+          "url": "https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184678,
+      "name": "Wibbly Wobbly World",
+      "url": "https://open.spotify.com/track/0Vl6QU641TX42GNyu2F3YQ"
+    },
+    {
+      "album": {
         "name": "Wisdom, Stature and Favor (Luke 2:52 ESV)",
         "url": "https://open.spotify.com/album/3YEC8Ah8C2F4KHI9k3A2Qn"
       },
@@ -1948,7 +2190,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 149500,
       "name": "Wisdom, Stature and Favor (Luke 2:52 ESV)",
       "url": "https://open.spotify.com/track/2yyIZE3H7hWSvcGkHaWnhJ"
@@ -1992,7 +2234,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 209520,
       "name": "Won't Let Go (feat. Cole Novak)",
       "url": "https://open.spotify.com/track/468Cpwss1N8UhVqAJBx11O"
@@ -2068,7 +2310,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 267023,
       "name": "You Make Me Brave",
       "url": "https://open.spotify.com/track/5yv7dwLuopHQcakKw1pmHo"

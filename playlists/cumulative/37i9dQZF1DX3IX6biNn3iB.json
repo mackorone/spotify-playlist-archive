@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "cuando t\u00fa me besas",
+        "url": "https://open.spotify.com/album/2QtFMf82Oxhy77QWX6xVgr"
+      },
+      "artists": [
+        {
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152148,
+      "name": "cuando t\u00fa me besas",
+      "url": "https://open.spotify.com/track/1iSwx9InMi6I6SKIWANKKv"
+    },
+    {
+      "album": {
         "name": "cuida",
         "url": "https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8"
       },
@@ -406,7 +424,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 224800,
       "name": "Me Caes Muy Bien",
       "url": "https://open.spotify.com/track/6kTCDfKw1X01COdmKM89v0"

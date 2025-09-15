@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy summer 2025 ☀️☺️
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,232 likes - 60 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,243 likes - 60 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 46 | [Not Your House](https://open.spotify.com/track/48GVZUhF5IOr97zW7pCEoy) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Usually Quiet](https://open.spotify.com/artist/1O1HvB6EYifPQ5udFJnL6j) | [Not Your House](https://open.spotify.com/album/4hKeNnaXXJ901davvlWHuZ) | 3:55 |
 | 47 | [Sona](https://open.spotify.com/track/5RiBDqZLOcqsvrmlhfGUzv) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [CassMae](https://open.spotify.com/artist/4n87X0j7v2W2G3HXmFgTjS) | [Sona](https://open.spotify.com/album/4Anf0gFqtpKBzBpdtSXEnd) | 2:20 |
 | 48 | [Red](https://open.spotify.com/track/2GIu11lkivvXvXU79ABX28) | [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Surfin' Sam](https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie) | [Red](https://open.spotify.com/album/6Hy2fLVSlcBl1rYjCfKG3Q) | 2:50 |
-| 49 | [Wake Me Up](https://open.spotify.com/track/20AtESSjtFjlJzthw4hoK5) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Wake Me Up](https://open.spotify.com/album/72jI12qAnYJjWj7DWdDlIz) | 2:45 |
-| 50 | [Blood & Bones](https://open.spotify.com/track/5Hxtysk3LR8P1psVZtikua) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Blood & Bones](https://open.spotify.com/album/0dHrUxujzudylcwsq6OZYW) | 3:12 |
+| 49 | [Blood & Bones](https://open.spotify.com/track/5Hxtysk3LR8P1psVZtikua) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Blood & Bones](https://open.spotify.com/album/0dHrUxujzudylcwsq6OZYW) | 3:12 |
+| 50 | [Wake Me Up](https://open.spotify.com/track/20AtESSjtFjlJzthw4hoK5) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Wake Me Up](https://open.spotify.com/album/72jI12qAnYJjWj7DWdDlIz) | 2:45 |
 | 51 | [Wicked Games](https://open.spotify.com/track/0oriUexHwmSx7J5IJaXHDk) | [Dj Youcef](https://open.spotify.com/artist/7dhDLHILqhHlgn0hPn8rOZ), [Nicole Slack Jones](https://open.spotify.com/artist/7ApsqRn7DyUaNrbknP7XBw) | [Wicked Games](https://open.spotify.com/album/3ZPcDsOHqgiq5DPDgDDyIw) | 2:39 |
 | 52 | [No Tomorrow](https://open.spotify.com/track/5f6qWXuKbURFowOWT2QruI) | [Honest Regrets](https://open.spotify.com/artist/6WeJcp2maE7mFGx43ccufg), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm), [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [No Tomorrow](https://open.spotify.com/album/37h56UTs220Dk38R36Au2h) | 2:12 |
 | 53 | [Magnetic](https://open.spotify.com/track/4HEggPhcyKQGzHLsgfs9my) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp), [Belle Doron](https://open.spotify.com/artist/0vG28tQeh1adA0xHmdUTVQ) | [Magnetic](https://open.spotify.com/album/2GmPo1t1eRB47964nvvJAl) | 3:02 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 55 | [Care For You](https://open.spotify.com/track/0JonhpHYNgsCjQzjlpbsS1) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Care For You](https://open.spotify.com/album/049MSquEgIYBZtSUx8Bhzy) | 3:14 |
 | 56 | [Iawah](https://open.spotify.com/track/17VWtILiXRAg9hr4XE32ZS) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Iawah](https://open.spotify.com/album/3xGdWWsFebqULLTKXBvlqt) | 2:21 |
 | 57 | [My Favourite Game](https://open.spotify.com/track/4GGu1HfGUG5qOBXgN1slUa) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [My Favourite Game](https://open.spotify.com/album/5k19pURiFqjHnhl3zTr2EV) | 3:41 |
-| 58 | [Mad World](https://open.spotify.com/track/7v976kIGJsqOaqmK54aZuJ) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Mad World](https://open.spotify.com/album/3wZDSM5YjFkW4rdT9VCvhT) | 3:24 |
-| 59 | [Morning Glory](https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI) | [Morning Glory](https://open.spotify.com/album/1mUAhoAG05i5MK5ZFFcVUR) | 4:29 |
+| 58 | [Morning Glory](https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI) | [Morning Glory](https://open.spotify.com/album/1mUAhoAG05i5MK5ZFFcVUR) | 4:29 |
+| 59 | [Mad World](https://open.spotify.com/track/7v976kIGJsqOaqmK54aZuJ) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Mad World](https://open.spotify.com/album/3wZDSM5YjFkW4rdT9VCvhT) | 3:24 |
 | 60 | [That Kinda Love](https://open.spotify.com/track/6xaKJufSjgKoYlJt2UNnLx) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [JIMINI](https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn) | [That Kinda Love](https://open.spotify.com/album/7DzgRJKoXPUbkHsnxOnASQ) | 2:44 |
 
 Snapshot ID: `AAAAAMU2EByIISLqBqrcKouUPoacXD0R`

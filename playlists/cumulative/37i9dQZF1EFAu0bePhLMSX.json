@@ -883,6 +883,24 @@
     },
     {
       "album": {
+        "name": "Perimenopop",
+        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "Freedom Of The Night",
+      "url": "https://open.spotify.com/track/149O5EKwCXIbVNXQr6mxgj"
+    },
+    {
+      "album": {
         "name": "Murder In The Night",
         "url": "https://open.spotify.com/album/3cVD020aOEwFazH5OvoJ3L"
       },
@@ -912,7 +930,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 192466,
       "name": "Freedom Of The Night",
       "url": "https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu"

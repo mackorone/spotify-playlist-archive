@@ -2763,6 +2763,32 @@
     },
     {
       "album": {
+        "name": "Jhoom Jhoom",
+        "url": "https://open.spotify.com/album/5zmJgoX7CGyOlxQSlX5WF1"
+      },
+      "artists": [
+        {
+          "name": "Meghdeep Bose",
+          "url": "https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Manoj Yadav",
+          "url": "https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307970,
+      "name": "Jhoom Jhoom",
+      "url": "https://open.spotify.com/track/1ZbddoQNQdutI2htLkAhPu"
+    },
+    {
+      "album": {
         "name": "Jhuki Aayi Badariya",
         "url": "https://open.spotify.com/album/0WBU61Fd1qBsaFWzo8n5w7"
       },
@@ -6192,7 +6218,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 1309387,
       "name": "Raag Mishra Shirvranjani Taal Deepchandi",
       "url": "https://open.spotify.com/track/21CxzCrRgjPe5nFFe3ks9j"

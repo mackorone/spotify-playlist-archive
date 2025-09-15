@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > Nuevo sonido, misma actitud.<br/>📷 MARTTEIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,371 likes - 33 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,370 likes - 33 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 32 | [PARANOIA](https://open.spotify.com/track/1QHurP8fLcwXDi4IkE6sBv) | [KAKTOV](https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94) | [PARANOIA](https://open.spotify.com/album/7rTfKkqiMRMr9PGNZQAqqb) | 1:44 |
 | 33 | [Colchón](https://open.spotify.com/track/7EpTQc1MrZxtfZw0rSjbVx) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [Colchón](https://open.spotify.com/album/27MMFWTcfIZXz1VuCker37) | 2:18 |
 
-Snapshot ID: `AAAAAHSHgANikcJHfPxRXMNgYl0qkR57`
+Snapshot ID: `AAAAAKDjl6++tpp8jgnCJb49TmB8xBk6`

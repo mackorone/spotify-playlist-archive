@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 166400,
       "name": "Hail Mary",
       "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
@@ -4604,6 +4604,24 @@
       "duration_ms": 128741,
       "name": "Memej",
       "url": "https://open.spotify.com/track/444MYG2ruLc3bQhW4eei0l"
+    },
+    {
+      "album": {
+        "name": "Men du",
+        "url": "https://open.spotify.com/album/7HLTPSI5iTSLad6OJHid1P"
+      },
+      "artists": [
+        {
+          "name": "Elin Wiigh",
+          "url": "https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Men du",
+      "url": "https://open.spotify.com/track/76MUeiYerAnR6J5GvBXM4U"
     },
     {
       "album": {

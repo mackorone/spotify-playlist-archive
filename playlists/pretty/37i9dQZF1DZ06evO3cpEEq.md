@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cpEEq.md) - [plain]
 
 > This is Felicity Urquhart\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 493 likes - 39 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 494 likes - 39 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

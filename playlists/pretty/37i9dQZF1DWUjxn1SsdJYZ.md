@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: J Emz
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,975 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,965 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 53 | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/track/57yu1WujridphAAkPgpkhC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8) | 2:02 |
 | 54 | [Welcome to the West \(feat\. ENOS\)](https://open.spotify.com/track/3ftSTGgBLSyYQQAfsKc6U2) | [Lawd Lance](https://open.spotify.com/artist/2PUgqVHa3xxbtHd8MRQCxb), [ENOS](https://open.spotify.com/artist/2IGsquQf70DeF6nalUsZ26) | [Welcome to the West \(feat\. ENOS\)](https://open.spotify.com/album/1b3zlJ5RXS8b3VYwVGlGIP) | 2:35 |
 | 55 | [Mind My French](https://open.spotify.com/track/5S3V5vTQQwdNiXbjCE8wCd) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ) | [Mind My French](https://open.spotify.com/album/2vd2M2XCE0aJovR5DpGeYp) | 2:49 |
-| 56 | [Feeling Rich](https://open.spotify.com/track/5U10tIWZLkiKqtqrPaWAyA) | [Kash](https://open.spotify.com/artist/783o8iFjWYhKqGj88z6WY3) | [Feeling Rich](https://open.spotify.com/album/4rkMaMYf89eYEwRQEb7fHl) | 1:57 |
+| 56 | [Feeling Rich](https://open.spotify.com/track/5U10tIWZLkiKqtqrPaWAyA) | [kashorcard](https://open.spotify.com/artist/7nXzLobtuXFVfcJZEcbRyK) | [Feeling Rich](https://open.spotify.com/album/4rkMaMYf89eYEwRQEb7fHl) | 1:57 |
 | 57 | [A Classic Rap Song](https://open.spotify.com/track/4vbadk6vTyeLJ2ayy5AkWa) | [Lil Wright](https://open.spotify.com/artist/7i03rpnL7xfaXDmCj72JVA) | [A Classic Rap Song](https://open.spotify.com/album/2oHOhAoRXl2MV170Cp5wxG) | 2:23 |
 | 58 | [Luxford](https://open.spotify.com/track/7asYmLWx9FqYTBqfkOxRsv) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Luxford](https://open.spotify.com/album/14RtB2BufGODTUgDlsvjfx) | 3:27 |
 | 59 | [Atlantis](https://open.spotify.com/track/3IWstfWSOzS7uOHpiKGCUG) | [MzUki](https://open.spotify.com/artist/1WXhw0PBeOUR46yQsXoXW9) | [Atlantis](https://open.spotify.com/album/2ArHiotwqGrQlmFJ8WVYK9) | 2:38 |

@@ -74,7 +74,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 475000,
       "name": "Abide",
       "url": "https://open.spotify.com/track/2hKuhm3kV2lxDjVzS8pqr5"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 485396,
       "name": "Be Enthroned (Live)",
       "url": "https://open.spotify.com/track/3OzQn19XAveO8ZbKH1YPOA"
@@ -781,6 +781,24 @@
     },
     {
       "album": {
+        "name": "Cloud",
+        "url": "https://open.spotify.com/album/4DbQACQLLMvxUF9ooleJOT"
+      },
+      "artists": [
+        {
+          "name": "Megan Tibbits",
+          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243645,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/1OWwOQxvXElGhT7PX5acpn"
+    },
+    {
+      "album": {
         "name": "spark. (Be Still) [Live]",
         "url": "https://open.spotify.com/album/2FVwTQ2fLK0BHDxieS1LNK"
       },
@@ -952,7 +970,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 265377,
       "name": "Endless Alleluia",
       "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
@@ -1435,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "God of the Supernatural",
+        "url": "https://open.spotify.com/album/1gNQKrBDi0mmlRUx8rwHtC"
+      },
+      "artists": [
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "God of the Supernatural",
+      "url": "https://open.spotify.com/track/256ai8xPuy4UfBHyLar0rd"
+    },
+    {
+      "album": {
         "name": "Offerings II: All I Have to Give",
         "url": "https://open.spotify.com/album/4TDlKYbi6YxSphRYPMMe3k"
       },
@@ -1748,7 +1784,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 253756,
       "name": "Heaven's Well - Live",
       "url": "https://open.spotify.com/track/1pq7TEmOODeyNE6mtSQbpn"
@@ -3537,6 +3573,24 @@
     },
     {
       "album": {
+        "name": "PROOF",
+        "url": "https://open.spotify.com/album/6EpqQXiIfwfuO66kQhROys"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271285,
+      "name": "PROOF",
+      "url": "https://open.spotify.com/track/2Wf6uUY3wsf2hwCxVl4rRG"
+    },
+    {
+      "album": {
         "name": "Praise Before My Breakthrough",
         "url": "https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9"
       },
@@ -4050,6 +4104,28 @@
       "duration_ms": 227093,
       "name": "Sing My Way Back",
       "url": "https://open.spotify.com/track/6h5pFZKZMvobTx6UVceeyX"
+    },
+    {
+      "album": {
+        "name": "So Much More (Live)",
+        "url": "https://open.spotify.com/album/0A3W9PWXZRiohthISHRmGf"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Kendra Benay",
+          "url": "https://open.spotify.com/artist/7MnuroVletzdv032tWkLUa"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384542,
+      "name": "So Much More (Live)",
+      "url": "https://open.spotify.com/track/2amP8TnRkOy9VKD02DTWzd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Ed Sheeran, Drake, Kali Uchis, Ado and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,697 likes - 84 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,695 likes - 84 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

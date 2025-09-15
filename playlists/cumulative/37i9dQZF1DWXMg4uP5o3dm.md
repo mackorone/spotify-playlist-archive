@@ -4,7 +4,7 @@
 
 > alternative meets electronic.
 
-339 songs - 17 hr 47 min
+341 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [IDFLU](https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [IDFLU](https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf) | 2:52 | 2023-04-21 |  |
 | [Idolize](https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fanfare](https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv) | 2:25 | 2024-01-19 | 2024-07-13 |
 | [If I Were You](https://open.spotify.com/track/5zq85bH7aHwAwYKpPzwyH5) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic II](https://open.spotify.com/album/6I4s9QeVMZfaF152XWjXFY) | 3:28 | 2021-07-23 | 2022-03-16 |
-| [In The Dark](https://open.spotify.com/track/1IkiWXaS68JIK4ZdNLtHe8) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [In The Dark](https://open.spotify.com/album/1lvLwsaQXClUnNEICZaV7p) | 3:22 | 2024-07-12 |  |
+| [In The Dark](https://open.spotify.com/track/1IkiWXaS68JIK4ZdNLtHe8) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [In The Dark](https://open.spotify.com/album/1lvLwsaQXClUnNEICZaV7p) | 3:22 | 2024-07-12 | 2025-09-15 |
 | [Insect Song](https://open.spotify.com/track/4foh6agVKurSkd9dujPrlB) | [Elke](https://open.spotify.com/artist/5hYrKCvJDo3NMvcGKQQqBM), [Carter Ace](https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz) | [Insect Song](https://open.spotify.com/album/1nedLOmomdhGUoigWrqcGv) | 3:14 | 2024-10-18 |  |
 | [Just Breathing](https://open.spotify.com/track/1n57AukEXifaY4B0CYnui1) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Just Breathing](https://open.spotify.com/album/1DhPyUmy8h6xVPg4QOr3Kw) | 3:38 | 2021-11-26 | 2022-10-15 |
 | [Keep Me Alive](https://open.spotify.com/track/0kMTBQJ9HLsaIt6oXfZp6V) | [LEVVELS](https://open.spotify.com/artist/15ooNAHn5f8iAE6LR7faur) | [Keep Me Alive](https://open.spotify.com/album/1tZJ4hu8ny3KuDrFpTGOiu) | 3:22 | 2021-07-06 | 2022-07-28 |
@@ -216,7 +216,7 @@
 | [New Friends](https://open.spotify.com/track/6bHFFcOvpc1pKrT4YL1K83) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [New Friends](https://open.spotify.com/album/3CqLMnA4ivtuBuGPV4h4Ky) | 2:56 | 2021-01-22 |  |
 | [New World](https://open.spotify.com/track/4j9XjA7cYOeX9KFKNk3WUz) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [New World](https://open.spotify.com/album/6MTwKUXoJ0zWO8H8bshzqy) | 3:14 | 2023-04-21 | 2023-06-10 |
 | [Nightmare](https://open.spotify.com/track/0JyWZ4BrLIlvyJ5lt7HNM1) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Nightmare](https://open.spotify.com/album/7kmb7rf1uASmCbFe3YLfhV) | 3:29 | 2021-12-03 | 2022-03-16 |
-| [Nightmare](https://open.spotify.com/track/7EsbZDWgR5abkQJ9EYyeeK) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [BROKEN HEARTS](https://open.spotify.com/album/2p0CrNn7iJNopOsJmAoSD7) | 3:29 | 2022-11-25 |  |
+| [Nightmare](https://open.spotify.com/track/7EsbZDWgR5abkQJ9EYyeeK) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [BROKEN HEARTS](https://open.spotify.com/album/2p0CrNn7iJNopOsJmAoSD7) | 3:29 | 2022-11-25 | 2025-09-15 |
 | [Nightmare](https://open.spotify.com/track/64A7qQZGMqYBOVKloPox8i) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Nightmare](https://open.spotify.com/album/0JnLJpn7HyNTPMAbQDAB3E) | 2:26 | 2024-01-19 |  |
 | [NIGHTMARE \(feat\. guardin\)](https://open.spotify.com/track/3as5VuWv791EWn04JkrvtK) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [NIGHTMARE \(feat\. guardin\)](https://open.spotify.com/album/482FoQaZMMqfZrLl5rAJSC) | 2:52 | 2022-06-17 | 2022-08-14 |
 | [NO ESCAPE](https://open.spotify.com/track/5Xg5bGbWHToIMSsqWxOsej) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 3:34 | 2022-04-09 | 2024-02-17 |
@@ -253,6 +253,7 @@
 | [Pressure](https://open.spotify.com/track/2wjUXJaPHgzBaCMnSzOjwH) | [Rosenfeld](https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg) | [Pressure](https://open.spotify.com/album/6HileZpU7Zc2ybr3fLX8Xg) | 2:18 | 2023-04-21 | 2024-08-16 |
 | [PROTOTYPE](https://open.spotify.com/track/1MMjfMrkY5MX7N21ELPYIZ) | [Big X](https://open.spotify.com/artist/0OCVpOnm94jD2iVVeefUeu) | [PROTOTYPE](https://open.spotify.com/album/1YgvkeqTsb9gk84EHjd4b7) | 3:17 | 2021-09-17 | 2022-03-05 |
 | [Psychic Attack](https://open.spotify.com/track/51iihv2nFYbbQzqRl3pxw1) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Psychic Attack](https://open.spotify.com/album/4BKWWF0ncdBBrdGwK7R76T) | 4:19 | 2024-10-18 | 2024-12-31 |
+| [PSYCHO](https://open.spotify.com/track/21ncqOTJc9gXfd6bVwOdgo) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [PSYCHO](https://open.spotify.com/album/3EpyUvW0VCMAHVKRfYHMTr) | 2:43 | 2025-09-12 |  |
 | [PUMP THE BREAK](https://open.spotify.com/track/2IHKvWv9VvGwCy7sakPVWy) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [PUMP THE BREAK](https://open.spotify.com/album/5Z5fr1ucp2w9TvwqgLAUDg) | 3:12 | 2020-10-02 | 2022-07-29 |
 | [PUMP THE BREAK](https://open.spotify.com/track/7baoqD2YuFgFTqdBwf72PC) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 3:12 | 2022-10-14 | 2024-04-19 |
 | [Puppy Pound](https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Puppy Pound](https://open.spotify.com/album/5zGyQgvJKk2o8qBYh5O1PZ) | 3:20 | 2022-04-01 | 2022-10-15 |
@@ -343,6 +344,7 @@
 | [Wretched](https://open.spotify.com/track/6lKlCsBcsiPky4LP0DRmQd) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Wretched](https://open.spotify.com/album/2Ehu1KE6isCk03znJL0LWS) | 3:49 | 2022-06-17 | 2023-01-26 |
 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-03-04 |  |
 | [You Lose!](https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:24 | 2022-03-22 | 2024-02-17 |
+| [Young As This](https://open.spotify.com/track/5qPQImgNyuoEFsZFGKUtX6) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Young As This](https://open.spotify.com/album/1b079FK9FKg2QFt24llds8) | 2:48 | 2025-09-12 |  |
 | [Your Touch](https://open.spotify.com/track/5Mnh0r4fIBfKW1QjaRBKFH) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Your Touch](https://open.spotify.com/album/5JFoJ30gCidTapLFVuyTeF) | 3:45 | 2022-06-17 | 2022-09-12 |
 | [Your Touch](https://open.spotify.com/track/5dS9u36myZ35YBrhgqAIle) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Hello Sunshine](https://open.spotify.com/album/5R3R5lGNcVmNXdDFljZzud) | 3:45 | 2022-06-17 | 2024-04-19 |
 | [Your Touch](https://open.spotify.com/track/7GXzl1P7qswewR5aKKVFuA) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Your Touch](https://open.spotify.com/album/5rL0GCQlE2UYgsac0RzUDT) | 3:45 | 2021-08-13 | 2022-07-29 |

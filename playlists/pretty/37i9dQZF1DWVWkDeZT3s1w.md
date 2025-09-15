@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,009 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,024 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 41 | [Esquirlas](https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd) | [Lirika Inverza](https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb), [Montebel](https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV) | [Esquirlas](https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi) | 3:40 |
 | 42 | [Dolor](https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Dolor](https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8) | 4:25 |
 | 43 | [La Capital Del Pecado](https://open.spotify.com/track/5sxIv3QmlnQ4u5NxPM1E7V) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Zirck Saucedo](https://open.spotify.com/artist/4T69z0gm8SP5HxlUBMMXpR) | [La Capital Del Pecado](https://open.spotify.com/album/5ZhKILys7Vne4fJ1gvWZVc) | 2:43 |
-| 44 | [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 |
-| 45 | [Es La Hora](https://open.spotify.com/track/1srxm85ipeTn89EZACaWEF) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Es La Hora](https://open.spotify.com/album/1ubaszU0AtWQL82uYKnaSo) | 3:46 |
+| 44 | [Es La Hora](https://open.spotify.com/track/1srxm85ipeTn89EZACaWEF) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Es La Hora](https://open.spotify.com/album/1ubaszU0AtWQL82uYKnaSo) | 3:46 |
+| 45 | [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 |
 | 46 | [Flow Leyenda](https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP) | [Flaco Flow y Melanina](https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2) | [Flow Leyenda](https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw) | 3:14 |
 | 47 | [Esto Es México](https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb) | [Elote el Barbaro](https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m), [Sinful](https://open.spotify.com/artist/0Pe4PWfk1dWblSMuxQbKt2) | [Tiempos Muertos](https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV) | 4:46 |
 | 48 | [La teoría de la evolución](https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP) | [La teoría de la evolución](https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy) | 2:53 |

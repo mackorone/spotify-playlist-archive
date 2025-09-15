@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,298 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,392 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [P do Pecado \- Ao Vivo](https://open.spotify.com/track/7EknynLJTt9YMm1HL37s5D) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [P do Pecado \(Ao Vivo\)](https://open.spotify.com/album/2JyYavPMFsaTRZFrc77bc3) | 3:12 |
-| 2 | [Tubarões \- Ao Vivo](https://open.spotify.com/track/6tUdNbB9aYbX0sUDXOzX1u) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Ao Vivo Em Uberlândia Vol\. 02](https://open.spotify.com/album/2gbsDRJhXlBr23ab9O95c9) | 2:42 |
+| 2 | [Tubarões \- Ao Vivo](https://open.spotify.com/track/0mg7xsgu0pzcWFwk6Ckwdx) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Ao Vivo Em Uberlândia Vol\. 02](https://open.spotify.com/album/29VnTLRHOkm8hoJj9AvEMv) | 2:42 |
 | 3 | [FAMOSINHA](https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al) | [Dj Caio Vieira](https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [FAMOSINHA](https://open.spotify.com/album/1hOcmOgX024gR2IkB7Xg26) | 2:12 |
 | 4 | [Pela Última Vez \- Ao Vivo](https://open.spotify.com/track/4bxyHku6rNffRealVxu30p) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Pela Última Vez \(Ao Vivo\)](https://open.spotify.com/album/5QVFS3TZhg8te5X8Eq20zV) | 2:42 |
 | 5 | [Ama Um Maloqueiro](https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Ama Um Maloqueiro](https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Meu Grito de Amor](https://open.spotify.com/track/6WjPuwI7jxzqLWwFXr60m4) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Country Sessions](https://open.spotify.com/album/0x6pkgWkVjIlXWS016XzDN) | 3:32 |
 | 50 | [É Tudo Sobre Você / Ser Mudado \- Ao Vivo](https://open.spotify.com/track/1h0yBDChztCJRTqmI5U6ou) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Uma Só Voz \- Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/1nvgIwTyHcYpxu5Xk6o0ZY) | 7:22 |
 
-Snapshot ID: `MFjgeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFox+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

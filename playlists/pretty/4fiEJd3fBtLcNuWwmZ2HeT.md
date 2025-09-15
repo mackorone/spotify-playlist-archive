@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 346 songs - 19 hr 40 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 347 songs - 19 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -354,5 +354,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 344 | [Cubism](https://open.spotify.com/track/6W3beEMj18hHp1wDlqGcbt) | [OMGkawaiiAngel](https://open.spotify.com/artist/5VVyj1Rj1VhcoBUrGC3SjG), [NEEDY GIRL OVERDOSE](https://open.spotify.com/artist/2N5EgsGVfPXKFH835Fc65K), [Haraguchi Sasuke](https://open.spotify.com/artist/290RfJGAmzANeDRd0ArLOj) | [Cubism](https://open.spotify.com/album/7hzpkAjq18QBwntRZ1m3O1) | 2:27 |
 | 345 | [4nim0sity \[99.999999999%\]](https://open.spotify.com/track/2u2kyKAf9mpQegLo9IedWA) | [ICHI](https://open.spotify.com/artist/305bMWyRhzAMV0PmrqYTC4) | [4nim0sity \[99.999999999%\]](https://open.spotify.com/album/30E43p3UUNrMZypGdgLmzU) | 3:36 |
 | 346 | [ゲシュタルト後悔](https://open.spotify.com/track/2V4nd8UC7PrhKpZAWcxHpB) | [CARAMEL CANDiD](https://open.spotify.com/artist/4nDSmohFDEuowSQQjTAStH) | [ゲシュタルト後悔](https://open.spotify.com/album/7tJhkSSOzBgYiOduOLIx6o) | 3:09 |
+| 347 | [DARLING](https://open.spotify.com/track/2tsKPVmDYAspAyOU2Wjbkd) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 3:43 |
 
-Snapshot ID: `AAAJTwdpNTdVCKrshlBoTgh5rkZ1s792`
+Snapshot ID: `AAAJUJaF6qzwIm2bJeJm6gZ+pX5S239w`

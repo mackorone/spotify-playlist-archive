@@ -1,6 +1,6 @@
 {
   "description": "Aumente o volume e ou\u00e7a o rajad\u00e3o que est\u00e1 com tudo no rock! Foto: Pabllo Vittar",
-  "num_followers": 952620,
+  "num_followers": 952409,
   "original_name": "Rajad\u00e3o M\u00e1ximo",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-09-12 17:38:23",
       "album": {
+        "name": "High on Me",
+        "url": "https://open.spotify.com/album/2BCMRSiYPHaHAC42YcWmqv"
+      },
+      "artists": [
+        {
+          "name": "Saliva",
+          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
+        }
+      ],
+      "duration_ms": 182526,
+      "name": "High on Me",
+      "url": "https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8"
+    },
+    {
+      "added_at": "2025-09-12 17:38:23",
+      "album": {
         "name": "CRAWLER",
         "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 281052,
       "name": "Too Close / Too Late",
       "url": "https://open.spotify.com/track/6CE4GRKBl4TXXrybKD3E7q"
-    },
-    {
-      "added_at": "2025-09-12 17:38:23",
-      "album": {
-        "name": "High on Me",
-        "url": "https://open.spotify.com/album/2BCMRSiYPHaHAC42YcWmqv"
-      },
-      "artists": [
-        {
-          "name": "Saliva",
-          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
-        }
-      ],
-      "duration_ms": 182526,
-      "name": "High on Me",
-      "url": "https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8"
     },
     {
       "added_at": "2025-09-12 17:38:23",

@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Goldie Boutilier
 
-574 songs - 1 day 10 hr 58 min
+575 songs - 1 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Arlo](https://open.spotify.com/track/6g8TfaY4o7uzIDHOqXFsxg) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Arlo](https://open.spotify.com/album/4QdNH73Llt7pENDkJfXl0V) | 4:10 | 2022-11-11 | 2023-01-21 |
 | [Ave H Blue](https://open.spotify.com/track/49kM29AjpsB9Zv444PnvED) | [NUTANA](https://open.spotify.com/artist/2IlotRrtfpIKvTZhXoXDH0) | [NUTANA](https://open.spotify.com/album/6wwhPFPCp19M47e19Y8oK0) | 3:23 | 2023-04-07 | 2023-04-22 |
 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 | 2024-05-10 |  |
-| [Baby Blue](https://open.spotify.com/track/6sthHfwGUlwXAKY4pHUk6U) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Baby Blue](https://open.spotify.com/album/4PMpIDpeiHvUNMMxbze6Oe) | 4:08 | 2025-01-24 |  |
+| [Baby Blue](https://open.spotify.com/track/6sthHfwGUlwXAKY4pHUk6U) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Baby Blue](https://open.spotify.com/album/4PMpIDpeiHvUNMMxbze6Oe) | 4:08 | 2025-01-24 | 2025-09-15 |
 | [Baby, You're a Gun](https://open.spotify.com/track/2t75rwAHmPqCvb1B86NiGN) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Kingmaker](https://open.spotify.com/album/5fuIzeNg4rYracgepUeZWa) | 3:29 | 2023-04-28 | 2024-01-31 |
 | [Baby, You're a Gun](https://open.spotify.com/track/6yk3E2nQ2VNEJynMzQTEgg) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Baby, You're a Gun](https://open.spotify.com/album/56VpDmshdg2w7BQhWnCwTk) | 3:29 | 2022-05-13 | 2023-04-22 |
 | [Back In The Blue](https://open.spotify.com/track/1PQrDN2COuMeQGQnj7Npiu) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn), [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Back In The Blue](https://open.spotify.com/album/7iOzxAUo7u7QQD0VXX19u8) | 2:53 | 2024-12-13 | 2025-01-16 |
@@ -310,6 +310,7 @@
 | [Let It Pass](https://open.spotify.com/track/5G9fPEoXEtw4NSHaYjssGl) | [Starpainter](https://open.spotify.com/artist/12PMNRQFZzmXrwS3ge7qbO) | [Rattlesnake Dream](https://open.spotify.com/album/5tRkeh3TVIuk0cJH42f6R3) | 3:32 | 2023-06-23 | 2023-07-13 |
 | [Let's All Help the Cowboys \(Sing the Blues\)](https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Cypress Hills and the Big Country](https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h) | 3:04 | 2023-04-21 | 2023-04-29 |
 | [Life Lessons](https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Life Lessons](https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv) | 3:15 | 2023-11-17 |  |
+| [Light In a Dark Place](https://open.spotify.com/track/7gZ82MIsBnYyOxr1SOVo0P) | [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [Light In a Dark Place](https://open.spotify.com/album/63VpDpCxeifFcPwtk8qFZr) | 2:36 | 2025-08-29 |  |
 | [Lighthouse in Little Lorraine](https://open.spotify.com/track/5OoH1BWs8xVTvNNcARmP5R) | [Adam Baldwin](https://open.spotify.com/artist/0NSQUjhseRVGuBwjz6rWnY) | [Concertos & Serenades](https://open.spotify.com/album/1lnm1yLB86rkOcThRb0iRG) | 6:07 | 2022-09-23 | 2023-04-22 |
 | [Lightning in July \(Prairie Fire\)](https://open.spotify.com/track/3zKhe0wP0hUyikWRUrQkaK) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas / Lightning in July \(Prairie Fire\)](https://open.spotify.com/album/4sb2phigQoxyIkRU9kSMYQ) | 4:02 | 2024-08-09 | 2024-10-19 |
 | [Likewise](https://open.spotify.com/track/1YemKGp8t5PmqW5shGV8c8) | [Devarrow](https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ) | [Likewise](https://open.spotify.com/album/49W2Nmi2Sa415JIy1bQzzp) | 3:39 | 2024-06-21 | 2024-07-13 |

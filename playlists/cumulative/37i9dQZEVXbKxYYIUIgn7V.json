@@ -962,7 +962,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 118695,
       "name": "a good man with a broken heart",
       "url": "https://open.spotify.com/track/07fNxq0gkGFZpAYCTd0v2A"
@@ -3502,7 +3502,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 217142,
       "name": "Back to Black - Afro Edit",
       "url": "https://open.spotify.com/track/5jywi58ysjaNpgQpYJgtfe"
@@ -5356,7 +5356,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 156786,
       "name": "Bitte sei vorsichtig",
       "url": "https://open.spotify.com/track/20B2I2t11yceg5v6CSdF2C"
@@ -13730,7 +13730,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 151441,
       "name": "First Class",
       "url": "https://open.spotify.com/track/589AHMjHAclINx6UGjCFRD"
@@ -18149,6 +18149,24 @@
     },
     {
       "album": {
+        "name": "To Close Your Eyes And See Fire (OST)",
+        "url": "https://open.spotify.com/album/4BjdnSjJO87gM4lgCWsHsq"
+      },
+      "artists": [
+        {
+          "name": "HVOB",
+          "url": "https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245802,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2wQYQZH5ramAVhz09ampBp"
+    },
+    {
+      "album": {
         "name": "home/daheim (demo)",
         "url": "https://open.spotify.com/album/3La5XRtytbfr7N7E6L6nqL"
       },
@@ -20132,6 +20150,32 @@
       "duration_ms": 144012,
       "name": "Intimschmuck",
       "url": "https://open.spotify.com/track/7Cue0PN1rM13PbeHOx6NyJ"
+    },
+    {
+      "album": {
+        "name": "Intimschmuck (Remix)",
+        "url": "https://open.spotify.com/album/3N05GzjXDtKJ3ewXNYRTf8"
+      },
+      "artists": [
+        {
+          "name": "ScubaPro",
+          "url": "https://open.spotify.com/artist/60pNbc1sAEJ8iNuArbgIFM"
+        },
+        {
+          "name": "Doktormethoden & Doktormithoden",
+          "url": "https://open.spotify.com/artist/0xsQy6ZpcHBskCcLXKJqDY"
+        },
+        {
+          "name": "Flocas",
+          "url": "https://open.spotify.com/artist/5RwGhaDpiJyJduZ3HKe8LU"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182531,
+      "name": "Intimschmuck - Remix",
+      "url": "https://open.spotify.com/track/5zQDNTPbhYPAsaWyonXosl"
     },
     {
       "album": {
@@ -35590,7 +35634,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-14",
+      "date_removed": null,
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
@@ -37936,7 +37980,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 109206,
       "name": "TANLINES",
       "url": "https://open.spotify.com/track/0WjgqfgjsdwZnwUBCqdOxq"

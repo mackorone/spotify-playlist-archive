@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-352 songs - 20 hr 6 min
+353 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Dance In The Game](https://open.spotify.com/track/7kSYwyMv5dnc5aORNwZb15) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [ZAQPOT](https://open.spotify.com/album/623vd5so8U7NFy7tFWmTgV) | 3:28 | 2023-10-07 |  |
 | [Dance of Life](https://open.spotify.com/track/2ECoDhG6Xe9aQ4TuwE22yW) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Dance of Life](https://open.spotify.com/album/5h94Q9larv6crjfGZlWo4B) | 3:47 | 2024-08-08 |  |
 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 | 2021-09-12 |  |
+| [DARLING](https://open.spotify.com/track/2tsKPVmDYAspAyOU2Wjbkd) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 3:43 | 2025-09-14 |  |
 | [DEAD END in My Brain \(unknown Vo:10fu\)](https://open.spotify.com/track/1muALek1dLnnpVzZzDEHfC) | [レトベア](https://open.spotify.com/artist/3rtNjlT8krol2X6iAuelYA) | [DEAD END in My Brain \(unknown Vo:10fu\)](https://open.spotify.com/album/4ntvDwQXImuuKGwFp182Mi) | 3:13 | 2023-08-21 |  |
 | [Dec.](https://open.spotify.com/track/7iYrP7trNTMlH9fbRAnexx) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Dec.](https://open.spotify.com/album/2Ym8AuIyzuVjSgxq81gIvp) | 2:12 | 2025-08-31 |  |
 | [Deep Breath Deep Breath \-Reload\-](https://open.spotify.com/track/44U2jUczRzLNme3lweF2Rs) | [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 2:55 | 2024-06-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Vanessa Paradis
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,247 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,255 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 9 | [ton ventre](https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [ton ventre](https://open.spotify.com/album/4h0LVUeJZt3PWAO9nFh6XV) | 2:55 |
 | 10 | [Comme je t'ai aimé](https://open.spotify.com/track/2Eek8Rh5baaDB3VBH2eqXR) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Comme je t'ai aimé](https://open.spotify.com/album/5Ntr7yJLHxJFq8FyyC5Gaz) | 5:13 |
 | 11 | [Évidemment](https://open.spotify.com/track/62DJGlOgqUfGm1CiuREznh) | [Kaky](https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O) | [Est\-ce que quelqu'un m'entend ?](https://open.spotify.com/album/2yMg4BHzIx08hgwly5JsG5) | 3:27 |
-| 12 | [Haut les coeurs](https://open.spotify.com/track/6WHLlfd4QpKu9rK8gOWCY1) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Haut les coeurs\*](https://open.spotify.com/album/2ZZB68unzpDYt770nYA57y) | 2:52 |
+| 12 | [Haut les coeurs](https://open.spotify.com/track/6WHLlfd4QpKu9rK8gOWCY1) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Haut les coeurs\*](https://open.spotify.com/album/2ZZB68unzpDYt770nYA57y) | 2:49 |
 | 13 | [Le nom des fleurs](https://open.spotify.com/track/3aTMleeOHwd89RFAJzkQsW) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [Le nom des fleurs](https://open.spotify.com/album/2HsikV99a1wKHnzWrObeSm) | 3:25 |
 | 14 | [Le penseur](https://open.spotify.com/track/1tv58Ak1QlECDQNAIl1xqz) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Le penseur](https://open.spotify.com/album/5q90PSSaosWpyeeH0f6QM7) | 4:04 |
 | 15 | [J'veux tout savoir](https://open.spotify.com/track/1lzRKxLpVfYG1w8ZCKaabi) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [J'veux tout savoir](https://open.spotify.com/album/3amQWaEVgIcfpWfTQcUrgT) | 3:19 |

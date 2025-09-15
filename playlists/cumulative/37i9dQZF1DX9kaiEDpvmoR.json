@@ -6045,6 +6045,28 @@
     },
     {
       "album": {
+        "name": "Sk\u00f6nheten och odjuret",
+        "url": "https://open.spotify.com/album/3rYdH9DNXbIbhqANB6QPeO"
+      },
+      "artists": [
+        {
+          "name": "Viktor Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
+        },
+        {
+          "name": "Linus Wahlgren",
+          "url": "https://open.spotify.com/artist/0AYfmrpYfkwRY1tlatDc2Q"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180920,
+      "name": "Sk\u00f6nheten och odjuret",
+      "url": "https://open.spotify.com/track/4GRpxB5acnIxYVfYwMkD18"
+    },
+    {
+      "album": {
         "name": "Sl\u00e5 upp dina f\u00f6nster (musik f\u00f6r sorgfyllda br\u00f6st)",
         "url": "https://open.spotify.com/album/5g5O50A5IQhBppY1hcaIEe"
       },
@@ -6164,7 +6186,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 257359,
       "name": "Solens alla \u00e4nglar",
       "url": "https://open.spotify.com/track/0IefRffecTIzgApJOf6cms"

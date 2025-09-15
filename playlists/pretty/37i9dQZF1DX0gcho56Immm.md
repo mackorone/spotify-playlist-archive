@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: snuggle
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,246 likes - 140 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,360 likes - 140 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

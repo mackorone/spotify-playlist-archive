@@ -1,6 +1,6 @@
 {
   "description": "Die beste country musiek. Omslag: Ariana Venus",
-  "num_followers": 40292,
+  "num_followers": 40322,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/5ZBxXBh0h4QuwXb3tNj91d"
     },
     {
-      "added_at": "2025-07-25 08:00:42",
-      "album": {
-        "name": "Snipe Hunter",
-        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 285466,
-      "name": "Eatin' Big Time",
-      "url": "https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn"
-    },
-    {
       "added_at": "2025-05-22 22:00:25",
       "album": {
         "name": "Blink Twice",
@@ -837,24 +821,36 @@
       "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
     },
     {
-      "added_at": "2025-06-26 22:00:36",
+      "added_at": "2025-07-25 08:00:42",
       "album": {
-        "name": "Ashes",
-        "url": "https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg"
+        "name": "Snipe Hunter",
+        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 183815,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
+      "duration_ms": 285466,
+      "name": "Eatin' Big Time",
+      "url": "https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
+        "name": "4\u00d74\u00d7U",
+        "url": "https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 239453,
+      "name": "4\u00d74\u00d7U",
+      "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
     }
   ],
   "unique_name": "Country Musiek",

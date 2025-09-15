@@ -1,6 +1,6 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2649452,
+  "num_followers": 2649371,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Rumor And Sigh",
-        "url": "https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ"
-      },
-      "artists": [
-        {
-          "name": "Richard Thompson",
-          "url": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "1952 Vincent Black Lightning",
-      "url": "https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "Live At The Cellar Door and at the Santa Monica Civic Auditorium",
         "url": "https://open.spotify.com/album/5W2hT3ooeITFHAGaLap3v2"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 254000,
       "name": "Here Comes The Sun",
       "url": "https://open.spotify.com/track/0hhzJEusz6r7f0eL1Uc8kw"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "Rumor And Sigh",
+        "url": "https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ"
+      },
+      "artists": [
+        {
+          "name": "Richard Thompson",
+          "url": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "1952 Vincent Black Lightning",
+      "url": "https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Music For The Motion Picture Into The Wild",
-        "url": "https://open.spotify.com/album/3H2Mr0PkWDtgdgVKt6c8c6"
+        "name": "Led Zeppelin IV",
+        "url": "https://open.spotify.com/album/1Ugdi2OTxKopVVqsprp5pb"
       },
       "artists": [
         {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 321760,
-      "name": "Hard Sun",
-      "url": "https://open.spotify.com/track/54dAM9PfABaX5vJ3aFSepP"
+      "duration_ms": 211466,
+      "name": "Going to California - 1990 Remaster",
+      "url": "https://open.spotify.com/track/55sjCMeQM26VxbNHhMtj2b"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Led Zeppelin IV",
-        "url": "https://open.spotify.com/album/1Ugdi2OTxKopVVqsprp5pb"
+        "name": "Music For The Motion Picture Into The Wild",
+        "url": "https://open.spotify.com/album/3H2Mr0PkWDtgdgVKt6c8c6"
       },
       "artists": [
         {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
         }
       ],
-      "duration_ms": 211466,
-      "name": "Going to California - 1990 Remaster",
-      "url": "https://open.spotify.com/track/55sjCMeQM26VxbNHhMtj2b"
+      "duration_ms": 321760,
+      "name": "Hard Sun",
+      "url": "https://open.spotify.com/track/54dAM9PfABaX5vJ3aFSepP"
     }
   ],
   "unique_name": "Classic Acoustic",

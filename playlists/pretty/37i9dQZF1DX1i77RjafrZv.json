@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 319400,
+  "num_followers": 319373,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
+        "name": "Les chemins de traverse (Remastered)",
+        "url": "https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 163466,
+      "name": "Je l'aime \u00e0 mourir - Remastered",
+      "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
         "name": "VersuS",
         "url": "https://open.spotify.com/album/5DD7BStcOFBl3i9z1fyr7e"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 223800,
       "name": "Avant toi",
       "url": "https://open.spotify.com/track/4iNPp0BZ4lBu7bipdWLcWk"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
-        "name": "Les chemins de traverse (Remastered)",
-        "url": "https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 163466,
-      "name": "Je l'aime \u00e0 mourir - Remastered",
-      "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "A Fleur De Toi",
-        "url": "https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf"
-      },
-      "artists": [
-        {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
-        }
-      ],
-      "duration_ms": 261093,
-      "name": "A fleur de toi",
-      "url": "https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "Samedi soir sur la terre (Remastered)",
         "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 278253,
       "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
       "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "A Fleur De Toi",
+        "url": "https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 261093,
+      "name": "A fleur de toi",
+      "url": "https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Morgane De Toi (Remastered)",
-        "url": "https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE"
-      },
-      "artists": [
-        {
-          "name": "Renaud",
-          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
-        }
-      ],
-      "duration_ms": 372186,
-      "name": "Morgane de toi",
-      "url": "https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "Ch\u00e2telet les Halles",
         "url": "https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 319493,
       "name": "Et un jour une femme",
       "url": "https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "Morgane De Toi (Remastered)",
+        "url": "https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE"
+      },
+      "artists": [
+        {
+          "name": "Renaud",
+          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
+        }
+      ],
+      "duration_ms": 372186,
+      "name": "Morgane de toi",
+      "url": "https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Solune",
-        "url": "https://open.spotify.com/album/1aiz7KLiuWW32LuxQGsYm1"
-      },
-      "artists": [
-        {
-          "name": "Slimane",
-          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "Viens on s\u2019aime",
-      "url": "https://open.spotify.com/track/1KSFqVqZm5QQXr9FLsppSL"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "Qui s\u00e8me le vent r\u00e9colte le tempo",
         "url": "https://open.spotify.com/album/5hM61fBUA5OIMJUUuMrzyH"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 283493,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/7esR7jO5Fyl78B6CwwhZJy"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "Solune",
+        "url": "https://open.spotify.com/album/1aiz7KLiuWW32LuxQGsYm1"
+      },
+      "artists": [
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "Viens on s\u2019aime",
+      "url": "https://open.spotify.com/track/1KSFqVqZm5QQXr9FLsppSL"
     },
     {
       "added_at": "2024-10-15 19:50:17",

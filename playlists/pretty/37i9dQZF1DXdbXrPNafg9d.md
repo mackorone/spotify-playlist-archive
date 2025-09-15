@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Acopia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,303,595 likes - 170 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,303,393 likes - 170 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [Hits خليجي](https://open.spotify.com/playlist/37i9dQZF1DWU486KSiznWZ)
 
-> اسمعوا افضل الاغاني الخليجية\. الغلاف: عايض
+> أفضل الأغاني الخليجية\. الغلاف: عايض
 
-220 songs - 15 hr 47 min
+221 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Ya Hob](https://open.spotify.com/track/6OOd1KZo9qEXLvhdUqrZto) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Ya Hob](https://open.spotify.com/album/0veyUyHuLWTMr5IuNjm67h) | 4:03 | 2022-04-07 | 2022-12-09 |
 | [Ya Jannat El Dinia](https://open.spotify.com/track/47P2kGqDQtyVXAzg1ywjmr) | [Mohammed Abdu](https://open.spotify.com/artist/3byKtMzSP9AhdnWbWz7geB) | [Mohammed Abdo 2024](https://open.spotify.com/album/0CgRFv0sKpaGZxa6Jh10DO) | 3:53 | 2024-11-11 |  |
 | [Ya Monyati](https://open.spotify.com/track/7wsIBAUAr6PRARca4KDot9) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Abdul Majeed Abdullah 2024](https://open.spotify.com/album/7q9ZsaQ6tyCoB4aJq1Lma7) | 4:05 | 2024-09-05 | 2025-07-01 |
+| [Ya Nadmanah](https://open.spotify.com/track/43U6XTwaYlxPHy5n9FpV9o) | [Zayed Al Saleh](https://open.spotify.com/artist/1l5hkQZj28djsCJWtN62wm) | [Songs 2014](https://open.spotify.com/album/5s2OWfuwCojCAzUHj1XOlN) | 6:00 | 2025-09-14 |  |
 | [Ya Teeby](https://open.spotify.com/track/5VEyLrrmsz5m4qw09EFTLY) | [Nabeel Shuail](https://open.spotify.com/artist/4nZsv9MFbvSrHrNupU4Ttu) | [Ya Teeby](https://open.spotify.com/album/5cRh6dR6POLV2wUyP5uVLc) | 3:37 | 2024-11-25 |  |
 | [Ya Zain El Zain](https://open.spotify.com/track/52uNdZCDUCgyVho9CnFun2) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ya Zain El Zain](https://open.spotify.com/album/3UrneICqeyutuEi8cibtyD) | 3:36 | 2024-05-15 |  |
 | [Yabn Elawadem](https://open.spotify.com/track/59QhPINpDiU4BP2v4o33Eg) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Aalam Mowazi](https://open.spotify.com/album/48Gf2lv7siQk2cfXUQ7KDu) | 4:55 | 2024-04-18 | 2024-09-06 |

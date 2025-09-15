@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,279 likes - 18 songs - 57 min 13 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 23,284 likes - 21 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,10 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 14 | [Murmurations](https://open.spotify.com/track/434K63nCgwOq27Z6UBnEah) | [Vega Trails](https://open.spotify.com/artist/0gbsttCxz1wkYMjN64WCgR) | [Sierra Tracks](https://open.spotify.com/album/7HLOgO7dhpJ3gQYQnbczKJ) | 5:11 |
 | 15 | [Micronomic](https://open.spotify.com/track/6ol3Y5VhaPW2rd1PSEgC0V) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [Faking The Books](https://open.spotify.com/album/6NUMXxMBXsCuth2PXt4d79) | 3:23 |
 | 16 | [bloom](https://open.spotify.com/track/23SyRsEwgBsFs5fnr2mffZ) | [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y) | [wishful thinking](https://open.spotify.com/album/7AzqzYUtZhGnQA2gnM6wXz) | 1:29 |
-| 17 | [For You](https://open.spotify.com/track/3iyyhV6kIgzwzRu7gOjV7u) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Welcome To The Cruise](https://open.spotify.com/album/5S3tGTzTgNl45UJCIY7tNd) | 2:38 |
-| 18 | [That's Alright \- 2016 Remaster](https://open.spotify.com/track/01Ad3YljWv9gfMVYpn6cL7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 3:10 |
+| 17 | [I Know I'm Not Wrong](https://open.spotify.com/track/3O3wyqDfFcl5JfVMqtY4PM) | [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [104.3](https://open.spotify.com/album/5Y6h6h59UAKTk0w78Bsxig) | 3:25 |
+| 18 | [For You](https://open.spotify.com/track/3iyyhV6kIgzwzRu7gOjV7u) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Welcome To The Cruise](https://open.spotify.com/album/5S3tGTzTgNl45UJCIY7tNd) | 2:38 |
+| 19 | [That's Alright \- 2016 Remaster](https://open.spotify.com/track/01Ad3YljWv9gfMVYpn6cL7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 3:10 |
+| 20 | [Portal](https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Portal](https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR) | 2:23 |
+| 21 | [Daisy Cutter](https://open.spotify.com/track/2ed6AGgJmYoie95RS1zkTs) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Daisy Cutter](https://open.spotify.com/album/2BGk4RtNgJ10Zh1XqDgsYp) | 3:32 |
 
-Snapshot ID: `AAANFYgJDQ4qQ7S6LlFZMPYK1/X47iVJ`
+Snapshot ID: `AAANGTy1Td7yKmSoLRsRdzePthIbGgcK`

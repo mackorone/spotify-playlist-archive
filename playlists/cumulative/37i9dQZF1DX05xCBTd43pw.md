@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Benjamin Amaru
 
-401 songs - 20 hr 41 min
+402 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Fingsch mi no?](https://open.spotify.com/track/7JW4xEUnwOKnB3jTZwJDCl) | [Vernisage](https://open.spotify.com/artist/4leNLJ04hEVBqGEUZneALa), [san mattia](https://open.spotify.com/artist/1cisvq85CCxyU1EPjLH3OK), [Alwa Alibi](https://open.spotify.com/artist/4P0DgQh6sua07b6r0C4xPO) | [Fingsch mi no?](https://open.spotify.com/album/04fl1S4SWBMq3r0f3rZDJ1) | 3:30 | 2025-04-24 | 2025-05-02 |
 | [fire](https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [fire](https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc) | 2:15 | 2024-06-27 |  |
 | [Fire To The Sky](https://open.spotify.com/track/64z7HtT0PDMdlWaUwacAuz) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Fire To The Sky](https://open.spotify.com/album/1Fz5JAZlatqEDYC9gpThwl) | 2:45 | 2025-05-22 |  |
+| [Flatline](https://open.spotify.com/track/4PIrbZdWo7ETTWZQNEbCUz) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Flatline](https://open.spotify.com/album/5UaiSKEsyY4vjBBR9ZIodw) | 2:45 | 2025-09-12 |  |
 | [Fleur](https://open.spotify.com/track/1WKvbTPhG5CQ2MoXQ44nJD) | [Lily Claire](https://open.spotify.com/artist/1x7tHpp3O11dDPMcpGlI08) | [Fleur](https://open.spotify.com/album/4vvrxrD8fVSIplYL00CFyX) | 3:08 | 2025-05-01 | 2025-05-09 |
 | [Flight Mode](https://open.spotify.com/track/2jWdBRug5Q4jtYEA4xGHP5) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Flight Mode](https://open.spotify.com/album/1b3uUquOhMNhm95lPI48Fo) | 2:30 | 2024-06-27 | 2024-09-07 |
 | [Floating](https://open.spotify.com/track/6KF1PU58VkEa4yhWApIyCC) | [Damian Lynn](https://open.spotify.com/artist/4ST7R4xWexBdeBD5u6OP2U) | [Floating](https://open.spotify.com/album/3b5Z4RX4Ew5ivVQ8FHkHD5) | 2:50 | 2024-10-03 | 2025-05-30 |
@@ -160,7 +161,7 @@
 | [Heaven](https://open.spotify.com/track/6w2q9iV3oJAjcN8cPKNT4a) | [Gotthard](https://open.spotify.com/artist/4DwhNqibDIsxIamSxWb7tQ) | [Homerun](https://open.spotify.com/album/4CUSYHYyzqumxIUrCcLDco) | 4:33 | 2025-05-08 | 2025-05-16 |
 | [Heaven or Hell](https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Heaven or Hell](https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9) | 3:07 | 2024-06-27 |  |
 | [Heimatgfühl](https://open.spotify.com/track/1JB6bYhBfba3wkSFhxZTeU) | [Megawatt](https://open.spotify.com/artist/1OXgQIrgvp6L46akQ5lBey) | [Megawatt](https://open.spotify.com/album/2PGvhxLXvgZu6F2OEu5nwN) | 3:23 | 2025-05-08 | 2025-05-16 |
-| [Hell](https://open.spotify.com/track/3jCXH64RBJHKjvMW9U7TZZ) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Playgrounds In Ruins](https://open.spotify.com/album/1rh0TJbZ0l0rjJeJMSLsfc) | 3:19 | 2025-02-07 |  |
+| [Hell](https://open.spotify.com/track/3jCXH64RBJHKjvMW9U7TZZ) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Playgrounds In Ruins](https://open.spotify.com/album/1rh0TJbZ0l0rjJeJMSLsfc) | 3:19 | 2025-02-07 | 2025-09-15 |
 | [Hey You](https://open.spotify.com/track/1WIHgWVRmvWLyIyzpkcm93) | [Lizzysloaf](https://open.spotify.com/artist/4jGl71C5wK8SCQHgfaa6BN) | [Hey You](https://open.spotify.com/album/4BJ9S9AoqOtP5PmbU8XN8r) | 3:32 | 2025-04-17 | 2025-04-25 |
 | [High Hopes](https://open.spotify.com/track/7MrNK0Fyp8pCMTtWYoDRYt) | [Ladina](https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo) | [High Hopes](https://open.spotify.com/album/469y0vPtya1jZBoNIfqoQe) | 3:12 | 2024-06-27 | 2025-05-27 |
 | [highway love estate](https://open.spotify.com/track/6yDXUscVGQ9w5P0qVP9Hnf) | [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [highway love estate](https://open.spotify.com/album/2rpZAnxSvqRIlfofiAi7Pj) | 3:51 | 2024-06-27 | 2024-07-27 |

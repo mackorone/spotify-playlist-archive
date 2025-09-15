@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 100424,
+  "num_followers": 100436,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,26 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "Space Ibiza 2014 (25th Anniversary) [Unmixed DJ Version]",
+        "url": "https://open.spotify.com/album/6Un9KGv9hSJYnxKSxl2Txf"
+      },
+      "artists": [
+        {
+          "name": "Octave One",
+          "url": "https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH"
+        },
+        {
+          "name": "Ann Saunderson",
+          "url": "https://open.spotify.com/artist/7IItD0N1A3unbTmcIzsCEK"
+        }
+      ],
+      "duration_ms": 518945,
+      "name": "Black Water - Full Strings Vocal Mix",
+      "url": "https://open.spotify.com/track/4GGjMkxZiV3Z7KqxcIMZJQ"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "On A Journey",
         "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 362946,
       "name": "Strings Of Life",
       "url": "https://open.spotify.com/track/7DXfJX286N3ZBURaq8D9mc"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
-        "name": "Space Ibiza 2014 (25th Anniversary) [Unmixed DJ Version]",
-        "url": "https://open.spotify.com/album/6Un9KGv9hSJYnxKSxl2Txf"
-      },
-      "artists": [
-        {
-          "name": "Octave One",
-          "url": "https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH"
-        },
-        {
-          "name": "Ann Saunderson",
-          "url": "https://open.spotify.com/artist/7IItD0N1A3unbTmcIzsCEK"
-        }
-      ],
-      "duration_ms": 518945,
-      "name": "Black Water - Full Strings Vocal Mix",
-      "url": "https://open.spotify.com/track/4GGjMkxZiV3Z7KqxcIMZJQ"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "On A Journey",
-        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 271464,
-      "name": "On A Journey",
-      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
         "name": "Neptunes Lair",
         "url": "https://open.spotify.com/album/4M0QYlDP6vIlrPLEBTZOFz"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 376680,
       "name": "Andreaen Sand Dunes",
       "url": "https://open.spotify.com/track/4r0YHR3zvwXER5yrZuKDfP"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
+        "name": "On A Journey",
+        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "duration_ms": 271464,
+      "name": "On A Journey",
+      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "The Art of Music",
-        "url": "https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 320866,
-      "name": "Telekinesis",
-      "url": "https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
         "name": "The Album Formerly Known As ...",
         "url": "https://open.spotify.com/album/6BP19StMYNWhcV0bv9zAZr"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 415759,
       "name": "A Wonderful Life - Version",
       "url": "https://open.spotify.com/track/5yXoaywtrfHi1dcoSn69CV"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
+        "name": "The Art of Music",
+        "url": "https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "duration_ms": 320866,
+      "name": "Telekinesis",
+      "url": "https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn"
     },
     {
       "added_at": "2025-08-29 04:00:36",

@@ -83,22 +83,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Sincerely",
-      "url": "https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "America's Bandleader",
         "url": "https://open.spotify.com/album/31DxnMa6Do5GPZzz1JoMKT"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 183213,
       "name": "Let's Have Another Cup Of Coffee (From \"Face The Music\") - 2002 Remastered",
       "url": "https://open.spotify.com/track/5DMTreJFLW0tzLdqIC7OtZ"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -179,22 +179,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "May You Always",
-      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "SOMEWHERE MY LOVE (Love Theme from \"Dr. Zhivago\") And Other Great Hits",
         "url": "https://open.spotify.com/album/69McWz1Og4ZOjEeupHfpw7"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 149066,
       "name": "Red Roses For A Blue lady",
       "url": "https://open.spotify.com/track/2DmaZOeu9YazJTYnG7Uadv"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "May You Always",
+      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-03-28 19:29:09",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
-    },
-    {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
         "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
         "url": "https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv"
       },
@@ -297,20 +281,36 @@
       "url": "https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml"
     },
     {
-      "added_at": "2020-08-17 22:49:59",
+      "added_at": "2022-03-28 19:29:09",
       "album": {
-        "name": "The Merry Macs Sing Mairzy Doats",
-        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
       },
       "artists": [
         {
-          "name": "The Merry Macs",
-          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
         }
       ],
-      "duration_ms": 164600,
-      "name": "Mairzy Doats",
-      "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
+      "duration_ms": 185200,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Anthology: 1931 - 1968",
+        "url": "https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo"
+      },
+      "artists": [
+        {
+          "name": "The Mills Brothers",
+          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
+        }
+      ],
+      "duration_ms": 168600,
+      "name": "Nevertheless (I'm In Love With You)",
+      "url": "https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak"
     },
     {
       "added_at": "2022-03-28 19:29:09",
@@ -331,18 +331,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Anthology: 1931 - 1968",
-        "url": "https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo"
+        "name": "The Merry Macs Sing Mairzy Doats",
+        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
       },
       "artists": [
         {
-          "name": "The Mills Brothers",
-          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
+          "name": "The Merry Macs",
+          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
         }
       ],
-      "duration_ms": 168600,
-      "name": "Nevertheless (I'm In Love With You)",
-      "url": "https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak"
+      "duration_ms": 164600,
+      "name": "Mairzy Doats",
+      "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
     },
     {
       "added_at": "2022-03-28 19:29:09",

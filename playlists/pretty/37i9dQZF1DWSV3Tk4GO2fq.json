@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1950s. Cover: Elvis Presley",
-  "num_followers": 1851555,
+  "num_followers": 1851602,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 321133,
-      "name": "Mannish Boy",
-      "url": "https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 151866,
       "name": "What A Diff'rence A Day Made",
       "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 321133,
+      "name": "Mannish Boy",
+      "url": "https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Sings His Favorites",
-        "url": "https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 140520,
-      "name": "Diana",
-      "url": "https://open.spotify.com/track/2k6qpHJsrKCCyvsHv2cPqR"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Who Wrote The Book Of Love? [Digital Version]",
         "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 138440,
       "name": "The Book of Love",
       "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Sings His Favorites",
+        "url": "https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 140520,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/2k6qpHJsrKCCyvsHv2cPqR"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Bo Diddley",
-        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 149013,
-      "name": "Bo Diddley",
-      "url": "https://open.spotify.com/track/2R7uUQ0Dehu80gsOcydQC9"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
         "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 145133,
       "name": "Mr. Blue",
       "url": "https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Bo Diddley",
+        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "duration_ms": 149013,
+      "name": "Bo Diddley",
+      "url": "https://open.spotify.com/track/2R7uUQ0Dehu80gsOcydQC9"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 140773,
-      "name": "A Teenager's Romance",
-      "url": "https://open.spotify.com/track/1Qn5jElT7XqjvVeJ8pYM2w"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/62NEZstQICTR73eBvw6ZwG"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Essential Jim Reeves",
-        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
       },
       "artists": [
         {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
         }
       ],
-      "duration_ms": 138640,
-      "name": "He'll Have to Go",
-      "url": "https://open.spotify.com/track/7DH5dXVuQaqcKf9oTy9oUN"
+      "duration_ms": 140773,
+      "name": "A Teenager's Romance",
+      "url": "https://open.spotify.com/track/1Qn5jElT7XqjvVeJ8pYM2w"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1699,6 +1683,22 @@
       "duration_ms": 128639,
       "name": "Good Golly, Miss Molly",
       "url": "https://open.spotify.com/track/5wJXbK6be3OUwZHrqEuuaD"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Essential Jim Reeves",
+        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
+      },
+      "artists": [
+        {
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+        }
+      ],
+      "duration_ms": 138640,
+      "name": "He'll Have to Go",
+      "url": "https://open.spotify.com/track/7DH5dXVuQaqcKf9oTy9oUN"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The \"Chirping\" Crickets",
-        "url": "https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly & The Crickets",
-          "url": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
-        }
-      ],
-      "duration_ms": 142773,
-      "name": "Not Fade Away",
-      "url": "https://open.spotify.com/track/6sBPjgvLZzHHrpxbBDjmdE"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Here's Little Richard (Deluxe Edition)",
         "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 126680,
       "name": "Ready Teddy",
       "url": "https://open.spotify.com/track/5wbZ3sbWf4PppzZiRxkxou"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The \"Chirping\" Crickets",
+        "url": "https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly & The Crickets",
+          "url": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+        }
+      ],
+      "duration_ms": 142773,
+      "name": "Not Fade Away",
+      "url": "https://open.spotify.com/track/6sBPjgvLZzHHrpxbBDjmdE"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -2103,6 +2103,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "Definitive Soul: The Drifters",
+        "url": "https://open.spotify.com/album/4P2Ydg6ObtLrn99a7l3wsO"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 130320,
+      "name": "There Goes My Baby - Single Version; 2019 Remaster",
+      "url": "https://open.spotify.com/track/5Aqnf8w3OZG0RQIW90QGaP"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "The Essential Johnny Mathis",
         "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
       },
@@ -2119,22 +2135,6 @@
       "duration_ms": 169546,
       "name": "Wonderful! Wonderful! (with Ray Conniff & His Orchestra & Chorus) - Single Version",
       "url": "https://open.spotify.com/track/5bDVkMLsBJgNL3eejUhBKF"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "Definitive Soul: The Drifters",
-        "url": "https://open.spotify.com/album/4P2Ydg6ObtLrn99a7l3wsO"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 130320,
-      "name": "There Goes My Baby - Single Version; 2019 Remaster",
-      "url": "https://open.spotify.com/track/5Aqnf8w3OZG0RQIW90QGaP"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Swingin' On A Rainbow / The Young Frankie Avalon & Bonus Tracks",
-        "url": "https://open.spotify.com/album/3qbfCkusJDoxWVTjDPMQO4"
-      },
-      "artists": [
-        {
-          "name": "Frankie Avalon",
-          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
-        }
-      ],
-      "duration_ms": 141986,
-      "name": "Venus - Bonus Track",
-      "url": "https://open.spotify.com/track/0qDShcc7oY6M8OFaDXHOZG"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Aladdin '52-'59:Let The Good Times Roll",
         "url": "https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP"
       },
@@ -2299,18 +2283,18 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The King of Rhythm & Blues (Remastered)",
-        "url": "https://open.spotify.com/album/1hm7cgyVAwJ2iPLRgItyR2"
+        "name": "Swingin' On A Rainbow / The Young Frankie Avalon & Bonus Tracks",
+        "url": "https://open.spotify.com/album/3qbfCkusJDoxWVTjDPMQO4"
       },
       "artists": [
         {
-          "name": "Clarence \"Frogman\" Henry",
-          "url": "https://open.spotify.com/artist/3EYYw0bxDMBYfLoBehpsNf"
+          "name": "Frankie Avalon",
+          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
         }
       ],
-      "duration_ms": 138453,
-      "name": "Ain't Got No Home - Remastered",
-      "url": "https://open.spotify.com/track/10DTjZTPH0y0XXFYp43AXC"
+      "duration_ms": 141986,
+      "name": "Venus - Bonus Track",
+      "url": "https://open.spotify.com/track/0qDShcc7oY6M8OFaDXHOZG"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -2327,6 +2311,22 @@
       "duration_ms": 259026,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/28HXaQiH5DF10ey7yh9Gdu"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The King of Rhythm & Blues (Remastered)",
+        "url": "https://open.spotify.com/album/1hm7cgyVAwJ2iPLRgItyR2"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Frogman\" Henry",
+          "url": "https://open.spotify.com/artist/3EYYw0bxDMBYfLoBehpsNf"
+        }
+      ],
+      "duration_ms": 138453,
+      "name": "Ain't Got No Home - Remastered",
+      "url": "https://open.spotify.com/track/10DTjZTPH0y0XXFYp43AXC"
     },
     {
       "added_at": "2024-09-06 14:23:51",

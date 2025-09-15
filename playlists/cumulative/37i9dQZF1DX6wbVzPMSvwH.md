@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-195 songs - 12 hr 16 min
+196 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Adu Rayu](https://open.spotify.com/track/0mOLyv1GL4sIuzVR1I92Fb) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Adu Rayu](https://open.spotify.com/album/7MQvEjN92cqRdNUCMOKCPA) | 3:27 | 2022-12-13 | 2024-04-19 |
 | [Adu Rayu](https://open.spotify.com/track/3FcCAFQj4bLpfxo8gj1kk9) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Adu Rayu](https://open.spotify.com/album/6h4KWlzry7wdgIAKfiVCER) | 3:27 | 2024-02-01 |  |
 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 | 2023-11-28 |  |
+| [Aku Ingin](https://open.spotify.com/track/4lmgkmp7kOMg0ilXMyJheF) | [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [Aku Ingin](https://open.spotify.com/album/5M7gzKtJsGKEhhV7Isa0ES) | 4:21 | 2025-09-15 |  |
 | [Aku Rindu \(feat\. Oslo Ibrahim\)](https://open.spotify.com/track/3CatYmaiD3I6II8w57RQEg) | [B.O.H FM](https://open.spotify.com/artist/0MabmxJ5QFG0o5R2ZSMl6x), [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Aku Rindu \(feat\. Oslo Ibrahim\)](https://open.spotify.com/album/0po3vBU4rl0fTEwWr9qYOy) | 3:32 | 2023-09-20 | 2023-11-16 |
 | [Aku Sayang Kamu](https://open.spotify.com/track/1lu1JZPI7s2cWIeIFYgjL3) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Aku Sayang Kamu](https://open.spotify.com/album/0eq61IIDrq945HH7oThPQW) | 4:15 | 2023-10-19 |  |
 | [Aku Tempatmu Pulang](https://open.spotify.com/track/2THSRFEIrQHhW6zgMb4aJI) | [Armand Maulana](https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb) | [Sarwa Renjana](https://open.spotify.com/album/54bIfja1dUvfnOPUCmY5CC) | 3:10 | 2025-03-03 | 2025-04-08 |

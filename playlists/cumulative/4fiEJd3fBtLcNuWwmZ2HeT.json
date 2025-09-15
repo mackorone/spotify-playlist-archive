@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "SIU",
+        "url": "https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ"
+      },
+      "artists": [
+        {
+          "name": "Maretu",
+          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223793,
+      "name": "DARLING",
+      "url": "https://open.spotify.com/track/2tsKPVmDYAspAyOU2Wjbkd"
+    },
+    {
+      "album": {
         "name": "DEAD END in My Brain (unknown Vo:10fu)",
         "url": "https://open.spotify.com/album/4ntvDwQXImuuKGwFp182Mi"
       },

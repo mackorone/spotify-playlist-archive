@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to sept-oct 2025",
-  "num_followers": 23279,
+  "num_followers": 23284,
   "original_name": "warmth, and red eyes",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAANFYgJDQ4qQ7S6LlFZMPYK1/X47iVJ",
+  "snapshot_id": "AAANGTy1Td7yKmSoLRsRdzePthIbGgcK",
   "tracks": [
     {
       "added_at": "2025-09-10 18:40:15",
@@ -269,6 +269,22 @@
       "url": "https://open.spotify.com/track/23SyRsEwgBsFs5fnr2mffZ"
     },
     {
+      "added_at": "2025-09-14 16:58:53",
+      "album": {
+        "name": "104.3",
+        "url": "https://open.spotify.com/album/5Y6h6h59UAKTk0w78Bsxig"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        }
+      ],
+      "duration_ms": 205401,
+      "name": "I Know I'm Not Wrong",
+      "url": "https://open.spotify.com/track/3O3wyqDfFcl5JfVMqtY4PM"
+    },
+    {
       "added_at": "2025-09-13 02:49:38",
       "album": {
         "name": "Welcome To The Cruise",
@@ -299,6 +315,38 @@
       "duration_ms": 190377,
       "name": "That's Alright - 2016 Remaster",
       "url": "https://open.spotify.com/track/01Ad3YljWv9gfMVYpn6cL7"
+    },
+    {
+      "added_at": "2025-09-14 17:15:13",
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 143592,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
+    },
+    {
+      "added_at": "2025-09-14 19:12:35",
+      "album": {
+        "name": "Daisy Cutter",
+        "url": "https://open.spotify.com/album/2BGk4RtNgJ10Zh1XqDgsYp"
+      },
+      "artists": [
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "duration_ms": 212027,
+      "name": "Daisy Cutter",
+      "url": "https://open.spotify.com/track/2ed6AGgJmYoie95RS1zkTs"
     }
   ],
   "unique_name": "warmth, and red eyes",

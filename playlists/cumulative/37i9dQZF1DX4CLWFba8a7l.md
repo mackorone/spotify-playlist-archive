@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Hazlett
 
-443 songs - 1 day 0 hr 40 min
+444 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Loving Me Lover](https://open.spotify.com/track/1ssaRxZU0QoRFIgrHEVDqr) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Loving Me Lover](https://open.spotify.com/album/0AleWkO3Bq3IfF5WxtCyKZ) | 3:22 | 2024-05-31 | 2024-07-27 |
 | [Lucky Dimes](https://open.spotify.com/track/5RBsjWGHFmZlVeA4QuP9WI) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Lucky Dimes](https://open.spotify.com/album/5WeCbcQ2IxU5IFVx5zlf9f) | 3:28 | 2025-08-14 | 2025-08-22 |
 | [Lucy](https://open.spotify.com/track/7tCXixP04LDsacfpKJCBUE) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Lucy](https://open.spotify.com/album/2omalIN0hJYm2oC8PcqL43) | 2:49 | 2024-11-07 | 2024-11-22 |
-| [Luxford](https://open.spotify.com/track/7asYmLWx9FqYTBqfkOxRsv) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Luxford](https://open.spotify.com/album/14RtB2BufGODTUgDlsvjfx) | 3:27 | 2025-05-15 |  |
+| [Luxford](https://open.spotify.com/track/7asYmLWx9FqYTBqfkOxRsv) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Luxford](https://open.spotify.com/album/14RtB2BufGODTUgDlsvjfx) | 3:27 | 2025-05-15 | 2025-09-15 |
 | [Maybe](https://open.spotify.com/track/6F9aI7NCQJXMvnBKj7gQJV) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Maybe](https://open.spotify.com/album/6YtMcA6XlBO9TN27dQNLsF) | 2:50 | 2025-09-01 | 2025-09-05 |
 | [Maybe I'm Just a Freak](https://open.spotify.com/track/3g2Fe6UmB8PJ06gchjavHK) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Maybe I’m Just a Freak](https://open.spotify.com/album/1xeKCdfejurpPoQsi20TuS) | 4:12 | 2025-05-29 | 2025-06-06 |
 | [Meant to Be](https://open.spotify.com/track/0pXt0UdacoAg0eYHvPukXF) | [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl), [© Linda Fox](https://open.spotify.com/artist/2DOGDrGDmfURr17vp3FYkJ) | [Meant to Be](https://open.spotify.com/album/7owhzox0MmtVOr95H3jYRR) | 4:33 | 2025-07-24 | 2025-08-01 |
@@ -311,6 +311,7 @@
 | [Recognise](https://open.spotify.com/track/6NHRakvvF7z0VdrGbfgq1l) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Recognise](https://open.spotify.com/album/4887blG8QR8i119By3sGO8) | 3:51 | 2024-09-26 | 2025-07-19 |
 | [Red Lights](https://open.spotify.com/track/7egbENInwPWegyktIf4rVh) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Red Lights](https://open.spotify.com/album/0tf1GkuAI4CdzdrrtAXm7I) | 2:28 | 2025-02-13 | 2025-02-21 |
 | [REMEMBER](https://open.spotify.com/track/3kuSEpeOT2IuPaIynwpcjq) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [REMEMBER](https://open.spotify.com/album/7z947NgHMz8Ievh7nUciWY) | 3:39 | 2025-01-09 | 2025-03-05 |
+| [REMIND ME](https://open.spotify.com/track/7hWVFCk6UZf8Pjywuemi6l) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [REMIND ME](https://open.spotify.com/album/5NZLWaWu9JYHR2Vqy5A1Zu) | 3:34 | 2025-09-11 |  |
 | [Rescue Me](https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Rescue Me](https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR) | 2:47 | 2025-03-13 | 2025-07-25 |
 | [Restart \(ft\. KLP\)](https://open.spotify.com/track/3jmxKFfaUa3kFXaldidkDd) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Restart \(ft\. KLP\)](https://open.spotify.com/album/1q1MrlDS7p0APneFaobN71) | 3:35 | 2025-09-01 | 2025-09-05 |
 | [Rita Wrote A Letter](https://open.spotify.com/track/0Lj0AoP6XiNWcahkcVt6xd) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Rita Wrote A Letter](https://open.spotify.com/album/5Ty10XaMVNa6FcUfnIuDcm) | 4:14 | 2025-08-14 | 2025-08-22 |

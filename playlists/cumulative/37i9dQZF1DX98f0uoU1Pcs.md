@@ -4,7 +4,7 @@
 
 > a experimental mix of rock, punk, alt & indie\. Cover: bar italia
 
-825 songs - 1 day 22 hr 16 min
+826 songs - 1 day 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [Here Hair](https://open.spotify.com/track/115AP550Xkjhj1O6S0teo8) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Here Hair / Hard Hair](https://open.spotify.com/album/03fQcyzWD57NgUkIwFuVmD) | 4:40 | 2024-02-16 | 2024-04-13 |
 | [Hertz](https://open.spotify.com/track/7fri3wodaEszuJBZcGB4VF) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 2:33 | 2022-06-10 | 2022-11-22 |
 | [HEY ASSHOLE](https://open.spotify.com/track/5EbeMB2XW1Gh0ExAawkBCJ) | [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv) | [HEY ASSHOLE!](https://open.spotify.com/album/4WUzvidSHP2O30d27dShPZ) | 1:29 | 2023-06-02 | 2023-11-11 |
-| [Hey Kekulé](https://open.spotify.com/track/0bAGgOU0w2gKhEqmdeKWKe) | [Font](https://open.spotify.com/artist/1JvNkFtciI17H6uQrKIGbs) | [Strange Burden](https://open.spotify.com/album/2nFfJYlW08ZKtWN3XiRV9T) | 3:33 | 2024-07-15 |  |
+| [Hey Kekulé](https://open.spotify.com/track/0bAGgOU0w2gKhEqmdeKWKe) | [Font](https://open.spotify.com/artist/1JvNkFtciI17H6uQrKIGbs) | [Strange Burden](https://open.spotify.com/album/2nFfJYlW08ZKtWN3XiRV9T) | 3:33 | 2024-07-15 | 2025-09-15 |
 | [Hide & Seek](https://open.spotify.com/track/7tJwNCxACiqdewg8dODKAL) | [The Jesus Lizard](https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa) | [Hide & Seek](https://open.spotify.com/album/2OUAkno2xG9rjGhHlt0pqM) | 3:04 | 2024-06-10 | 2025-09-13 |
 | [High Value Male](https://open.spotify.com/track/2bAsqCCS2HQj83iw2tB0X6) | [Papa Jupe's T.C.](https://open.spotify.com/artist/4cTTWSl72fBBZZSSosrXkh) | [High Value Male](https://open.spotify.com/album/3XP2320XRPEq8TseiN55yx) | 3:42 | 2025-01-31 | 2025-09-13 |
 | [Highway Man](https://open.spotify.com/track/4eAXBJOQjxZV14Su1G8QhC) | [The New Eves](https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l) | [Highway Man](https://open.spotify.com/album/0XHnz7bYP1A6Bfo49IauRf) | 3:42 | 2025-04-16 | 2025-09-14 |
@@ -395,6 +395,7 @@
 | [Immigrant Songs](https://open.spotify.com/track/68UHXy1CYxlp6VsjJSYqaH) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Immigrant Songs](https://open.spotify.com/album/1nw1TaoIrHaLSpBwSBqyqm) | 7:00 | 2025-04-16 | 2025-07-29 |
 | [Impermanency](https://open.spotify.com/track/4Kd7lRXOO8jfvG9RpGvthk) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [Impermanency](https://open.spotify.com/album/3MlXwaIdVPDOmtN7rpSRYV) | 3:07 | 2022-04-29 | 2024-06-05 |
 | [Impersonator](https://open.spotify.com/track/2odisK3KJX3mtLtilbWVt1) | [The C.I.A.](https://open.spotify.com/artist/2uDJLOUWa8gYq78mf9OIvB) | [Surgery Channel](https://open.spotify.com/album/1H1ef6bHZQAWggvVWlufLf) | 3:18 | 2023-01-24 | 2023-10-17 |
+| [In My Pocket](https://open.spotify.com/track/2ZO4EidiOqngPkhNlSY5Zl) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Bite Reality](https://open.spotify.com/album/6i7UnNlsaT8MbI5TKtX3rM) | 3:58 | 2025-09-12 |  |
 | [In The Blood](https://open.spotify.com/track/4ogMXaW5JVBAxCDPgXTh28) | [The Beefs](https://open.spotify.com/artist/05Q0d2MnKH75xfeXzGDPnX) | [In The Blood](https://open.spotify.com/album/4Kn57eDhYst8I1zKrDJQbn) | 3:57 | 2022-08-26 | 2022-10-08 |
 | [In the Stone](https://open.spotify.com/track/0rCH70n5wGsFO51mQDbZc2) | [The Goon Sax](https://open.spotify.com/artist/7qtF58vGfOhD4z3yzrD9PD) | [Mirror II](https://open.spotify.com/album/06swqSES9WCGwO1LRhXrxw) | 4:07 | 2022-01-07 | 2023-04-09 |
 | [In The Wawa \(Convinced I Am God\)](https://open.spotify.com/track/0yNH8lmgClOtNtRrjDkYOM) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [In The Wawa \(Convinced I Am God\)](https://open.spotify.com/album/1DqpCzmJ4ilZoRkcmDO1YH) | 2:19 | 2024-04-12 | 2025-04-17 |

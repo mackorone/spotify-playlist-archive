@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Émile Bilodeau
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,116 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,113 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 37 | [Laponie](https://open.spotify.com/track/16PdkWi7CVsCuFcRbERudr) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC), [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) | [Alba](https://open.spotify.com/album/63jS0Pw5PqB2xXHJVvwTFl) | 2:40 |
 | 38 | [SELEK](https://open.spotify.com/track/53y07MqtAQLofrh8d0fIca) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 2:39 |
 | 39 | [VHS](https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [VHS](https://open.spotify.com/album/2EurhJLQsbr7BP8VTeMg6c) | 3:15 |
-| 40 | [Zota \(feat\. Tayc\)](https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Zota \(feat\. Tayc\)](https://open.spotify.com/album/42MNxx6I0NSs8kG5aZxx2V) | 2:22 |
-| 41 | [Chouchou](https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chouchou](https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ) | 3:20 |
+| 40 | [Chouchou](https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chouchou](https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ) | 3:20 |
+| 41 | [Zota \(feat\. Tayc\)](https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Zota \(feat\. Tayc\)](https://open.spotify.com/album/42MNxx6I0NSs8kG5aZxx2V) | 2:22 |
 | 42 | [COMÈTE](https://open.spotify.com/track/4PsXJ6y2MN1zSqdDV4XJbX) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [COMÈTE](https://open.spotify.com/album/2zQQAxnFJsYXAIP23v516s) | 2:26 |
 | 43 | [Plus pareil \(feat\. Gazo\)](https://open.spotify.com/track/51OxkEhk8CwEhBl6xxJn2L) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [HAYATI \(Episode 1 : Du sable et du sang\)](https://open.spotify.com/album/5DSAu517doRjS2AxNPfDSd) | 2:58 |
 | 44 | [A TI](https://open.spotify.com/track/3GYowZ5IL7gnri8Zejti3t) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [A TI](https://open.spotify.com/album/1ag9N6fc6EmxG7EPlasQl2) | 2:42 |
-| 45 | [Choisi \(feat\. Alonzo\)](https://open.spotify.com/track/6yVnTSBQjTuoVN9Jl2VOFX) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Choisi \(feat\. Alonzo\)](https://open.spotify.com/album/1naaJZp4etAdNUufFG0etc) | 2:50 |
-| 46 | [Hors du temps](https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [Hors du temps](https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59) | 2:53 |
+| 45 | [Hors du temps](https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [Hors du temps](https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59) | 2:53 |
+| 46 | [Choisi \(feat\. Alonzo\)](https://open.spotify.com/track/6yVnTSBQjTuoVN9Jl2VOFX) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Choisi \(feat\. Alonzo\)](https://open.spotify.com/album/1naaJZp4etAdNUufFG0etc) | 2:50 |
 | 47 | [Dans 10 ans](https://open.spotify.com/track/0FbNxtUbetsjF7s42pkOIS) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [ÉBĒM](https://open.spotify.com/album/4UPHNEDkuwpqz1GlcFOm2s) | 3:31 |
 | 48 | [Mille vagues](https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Mille vagues](https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf) | 5:03 |
 | 49 | [J'ai ce qu'il faut](https://open.spotify.com/track/5Z15WSSa7fvaPJZRI4OgDS) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [J'ai ce qu'il faut](https://open.spotify.com/album/19tjQ0TPFX7z1h6eKM6qre) | 3:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6usZxRd8e7TQwcksnohR1U">Denisia "Blu June" Andrews</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,044 likes - 113 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,042 likes - 113 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 | 37 | [Whole Lotta Woman](https://open.spotify.com/track/1nukLnD50ey3rfs6jNnMJa) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 2:53 |
 | 38 | [Holy Mountain \(feat\. Buju Banton, Sizzla, Mavado & 070 Shake\)](https://open.spotify.com/track/74LujaXmzGQi5wRZ2HFh0G) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv), [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 4:54 |
 | 39 | [Sometimes](https://open.spotify.com/track/2m0pzukUN2eFutFjnXNFXF) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Sometimes](https://open.spotify.com/album/2iF0e8WtqcNWDgmo7mDz0m) | 4:33 |
-| 40 | [I Believe \(feat\. Demi Lovato\) \- As featured in the Walt Disney Pictures' "A WRINKLE IN TIME"](https://open.spotify.com/track/1hEiVb61xXfCc9JL4cJRQP) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [I Believe \(feat\. Demi Lovato\) \[As featured in the Walt Disney Pictures' "A WRINKLE IN TIME"\]](https://open.spotify.com/album/5e4Pmy1H9vfODuZiGTRrRb) | 3:45 |
-| 41 | [Sou Má](https://open.spotify.com/track/7vJQNVZgwTLIh98biCmpRs) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 3:30 |
+| 40 | [Sou Má](https://open.spotify.com/track/7vJQNVZgwTLIh98biCmpRs) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 3:30 |
+| 41 | [I Believe \(feat\. Demi Lovato\) \- As featured in the Walt Disney Pictures' "A WRINKLE IN TIME"](https://open.spotify.com/track/1hEiVb61xXfCc9JL4cJRQP) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [I Believe \(feat\. Demi Lovato\) \[As featured in the Walt Disney Pictures' "A WRINKLE IN TIME"\]](https://open.spotify.com/album/5e4Pmy1H9vfODuZiGTRrRb) | 3:45 |
 | 42 | [I CAN HAVE IT ALL \(feat\. Bryson Tiller, H.E.R\. & Meek Mill\)](https://open.spotify.com/track/1WTv76ouGCJZ0Rhz15YkIC) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 4:30 |
 | 43 | [Stick Around](https://open.spotify.com/track/5VSlplWVGj9b3HBUJ7Gsnz) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [3 \(The Purple Album\)](https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj) | 3:12 |
 | 44 | [Emotional \(feat\. Quavo\)](https://open.spotify.com/track/4rrFGOdnreypzg6ux5mdPh) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 3:10 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 | 112 | [Tattoo \(feat\. Jeremih\)](https://open.spotify.com/track/2A6ToOoGwznmWMhTM64Gud) | [Gillie Da Kid](https://open.spotify.com/artist/467NioAq9fvSiEnANCOGzE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Welcome To Gilladelphia](https://open.spotify.com/album/0AH03qFsdih3raMGNMEpF2) | 3:36 |
 | 113 | [Heaven On Earth](https://open.spotify.com/track/55NGMZ4yqhnXZ5ucOww4lw) | [Kendall Cudd](https://open.spotify.com/artist/5omufeVw7t0EfjorCC8rDK) | [Heaven On Earth](https://open.spotify.com/album/7ufOgb0K3eDHvkiJiojFHj) | 2:45 |
 
-Snapshot ID: `Ab8JfAAAAAD8sFmxVlN1mF9UQp3zdUMM`
+Snapshot ID: `Ab8PCAAAAABYK81nIkLAZgOOwYNutAC4`

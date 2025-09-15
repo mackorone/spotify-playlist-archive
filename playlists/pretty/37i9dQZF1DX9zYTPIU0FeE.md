@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the sounds of South African Jazz\. Cover: Kujenga
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,828 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,835 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 39 | [P \(x\) J](https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt) | [NALEDI](https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA) | [P \(x\) J](https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt) | 4:32 |
 | 40 | [Together](https://open.spotify.com/track/1m3FOsWgYb3bSdWTT7ts2a) | [Tutu Puoane](https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH) | [Wrapped in Rhythm, Vol\. 1](https://open.spotify.com/album/1QkGdyJI5qlYxUcwTTna8i) | 3:30 |
 | 41 | [We Have Been Here Before](https://open.spotify.com/track/0y4Lvo22ISPrr44LUes28r) | [Keenan Meyer](https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG) | [We Have Been Here Before](https://open.spotify.com/album/27kRcs08cwVT7xZHKCLQPE) | 4:50 |
-| 42 | [Sinamanga \(uMagebhula\)](https://open.spotify.com/track/4fZe1x4UfOPqNIZcmtzrAC) | [Letta Mbulu](https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0) | [Sinamanga \(uMagebhula\)](https://open.spotify.com/album/3YPdyUJ9F9TJBA9Njlmkjl) | 4:05 |
-| 43 | [Ezilalini](https://open.spotify.com/track/09hp2WoNDK4HmVL7kTzrHy) | [McCoy Mrubata](https://open.spotify.com/artist/1s3Cp2bZrnzP9rOFeIJvw5) | [Lullaby for Khayoyo](https://open.spotify.com/album/1DHnHcZeohhtUCN67IOxiB) | 8:11 |
+| 42 | [Ezilalini](https://open.spotify.com/track/09hp2WoNDK4HmVL7kTzrHy) | [McCoy Mrubata](https://open.spotify.com/artist/1s3Cp2bZrnzP9rOFeIJvw5) | [Lullaby for Khayoyo](https://open.spotify.com/album/1DHnHcZeohhtUCN67IOxiB) | 8:11 |
+| 43 | [Sinamanga \(uMagebhula\)](https://open.spotify.com/track/4fZe1x4UfOPqNIZcmtzrAC) | [Letta Mbulu](https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0) | [Sinamanga \(uMagebhula\)](https://open.spotify.com/album/3YPdyUJ9F9TJBA9Njlmkjl) | 4:05 |
 | 44 | [MaBrrrrrrrrr](https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [MaBrrrrrrrrr](https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs) | 4:56 |
 | 45 | [Inkehli](https://open.spotify.com/track/2sCSm8uWxprJbkwqk4roTs) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Inkehli](https://open.spotify.com/album/5HSsIxH98Ic7Mw0k12cmSm) | 6:53 |
 | 46 | [Njia](https://open.spotify.com/track/6tmedtkicLtB4uJKuc2spW) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Jonno Sweetman](https://open.spotify.com/artist/0l8peTQLmGJYNRyeecRFhW), [Gontse Makhene](https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD), [Micca Manganye](https://open.spotify.com/artist/3UtkXcZLR9l1xzjTvp1aae) | [Njia](https://open.spotify.com/album/7IYWPcAgxfOe7xPwAFti5w) | 1:53 |
-| 47 | [Monwabisi's Delights I \- Live](https://open.spotify.com/track/4LXlevI5oBoowRjn2w3Ydy) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Ndiyakudinga \(Live\)](https://open.spotify.com/album/4UnKNK8myYGeFXZeOSKg0a) | 8:00 |
-| 48 | [Bela Bela \- Live Studio](https://open.spotify.com/track/29uC6WCV5q0jYJlfVw8IDc) | [Nkosi Zondo](https://open.spotify.com/artist/6fZnlEQhCdN5rTWuzKG7ao), [Bhekinkosi 'Soja' Hlatshwayo](https://open.spotify.com/artist/1pOOeJi41sMEExc6FXxWIR) | [Bela Bela \(Live Studio\)](https://open.spotify.com/album/7jwsvjLpVhlglv8Wy7NZOn) | 6:38 |
-| 49 | [H.O.P.E](https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a) | [Ofentse Moses Sebula](https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E) | [H.O.P.E \(Holding On to Positive Expectations\)](https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF) | 6:05 |
+| 47 | [H.O.P.E](https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a) | [Ofentse Moses Sebula](https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E) | [H.O.P.E \(Holding On to Positive Expectations\)](https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF) | 6:05 |
+| 48 | [Monwabisi's Delights I \- Live](https://open.spotify.com/track/4LXlevI5oBoowRjn2w3Ydy) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Ndiyakudinga \(Live\)](https://open.spotify.com/album/4UnKNK8myYGeFXZeOSKg0a) | 8:00 |
+| 49 | [Bela Bela \- Live Studio](https://open.spotify.com/track/29uC6WCV5q0jYJlfVw8IDc) | [Nkosi Zondo](https://open.spotify.com/artist/6fZnlEQhCdN5rTWuzKG7ao), [Bhekinkosi 'Soja' Hlatshwayo](https://open.spotify.com/artist/1pOOeJi41sMEExc6FXxWIR) | [Bela Bela \(Live Studio\)](https://open.spotify.com/album/7jwsvjLpVhlglv8Wy7NZOn) | 6:38 |
 | 50 | [Elusive Freedom](https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3) | [Billy Monama](https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m), [MoAfrika Wa Mokgathi](https://open.spotify.com/artist/11bbCo2uUJXVimYJOrEJrs) | [The Y\-Factor Project](https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s) | 4:18 |
 
-Snapshot ID: `AAAAABeqPijZPVOa43VNdSh4DMxiD8x7`
+Snapshot ID: `AAAAAPNMVMb4Imo5gNeeWad9j5BXHFmi`

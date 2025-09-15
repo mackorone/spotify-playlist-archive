@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Bederf Jouself",
+        "url": "https://open.spotify.com/album/7A1Qn3imELMi13Tc9N2Q8b"
+      },
+      "artists": [
+        {
+          "name": "Dassie",
+          "url": "https://open.spotify.com/artist/6nxwYjU9ngwfCXXtJBGZrg"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167562,
+      "name": "Bederf Jouself",
+      "url": "https://open.spotify.com/track/3m6Cl5qaA3xuJyrckoOxzD"
+    },
+    {
+      "album": {
         "name": "Beheer Verloor",
         "url": "https://open.spotify.com/album/3AO17da9Gz9djPWZf8XoJC"
       },
@@ -5136,7 +5154,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 195937,
       "name": "Stof Skop",
       "url": "https://open.spotify.com/track/6i3liOlaFt1evquWjWbZkx"

@@ -1,6 +1,6 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 332714,
+  "num_followers": 332752,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Into the light",
+        "url": "https://open.spotify.com/album/3wmJ1Cnepzf42MBkdnEUqp"
+      },
+      "artists": [
+        {
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+        }
+      ],
+      "duration_ms": 83465,
+      "name": "Curves",
+      "url": "https://open.spotify.com/track/1mvjF9OhKGF57Lm1gDjlfM"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Left to Our Own Devices",
         "url": "https://open.spotify.com/album/1y8vLhvcsBHmFcNB57IZyy"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 388732,
       "name": "so be it",
       "url": "https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Into the light",
-        "url": "https://open.spotify.com/album/3wmJ1Cnepzf42MBkdnEUqp"
-      },
-      "artists": [
-        {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
-        }
-      ],
-      "duration_ms": 83465,
-      "name": "Curves",
-      "url": "https://open.spotify.com/track/1mvjF9OhKGF57Lm1gDjlfM"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Marina Forever",
-        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
-      },
-      "artists": [
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
-        }
-      ],
-      "duration_ms": 162024,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "\uff23\uff39\uff22\uff25\uff32\uff29\uff21",
         "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 227462,
       "name": "\u5929\u4f7f",
       "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Marina Forever",
+        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
+      },
+      "artists": [
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        }
+      ],
+      "duration_ms": 162024,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "On the Promenade (George Clanton Remix)",
-        "url": "https://open.spotify.com/album/4LcVbqtExdOpkYDDTZnqt0"
-      },
-      "artists": [
-        {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
-        },
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
-        }
-      ],
-      "duration_ms": 196956,
-      "name": "On the Promenade (George Clanton Remix)",
-      "url": "https://open.spotify.com/track/2S7pNIePcW0RYrt3N3NxHx"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Downpour",
         "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 484471,
       "name": "Downpour",
       "url": "https://open.spotify.com/track/62Htu6Xp6JIM06bBN2Q2sn"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "On the Promenade (George Clanton Remix)",
+        "url": "https://open.spotify.com/album/4LcVbqtExdOpkYDDTZnqt0"
+      },
+      "artists": [
+        {
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        }
+      ],
+      "duration_ms": 196956,
+      "name": "On the Promenade (George Clanton Remix)",
+      "url": "https://open.spotify.com/track/2S7pNIePcW0RYrt3N3NxHx"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Ultrasound",
+        "url": "https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt"
+      },
+      "artists": [
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        },
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        }
+      ],
+      "duration_ms": 231745,
+      "name": "Ricochet",
+      "url": "https://open.spotify.com/track/4o6bBmo3q1JCZtKEUhwXsX"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Floppy Disk Prism",
         "url": "https://open.spotify.com/album/7qTY0v8YjlxieRbap6FvKG"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 164400,
       "name": "Floppy Disk Prism",
       "url": "https://open.spotify.com/track/4PX57QU943gWujcaDhTAX5"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Ultrasound",
-        "url": "https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt"
-      },
-      "artists": [
-        {
-          "name": "A.L.I.S.O.N",
-          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
-        },
-        {
-          "name": "Hotel Pools",
-          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
-        }
-      ],
-      "duration_ms": 231745,
-      "name": "Ricochet",
-      "url": "https://open.spotify.com/track/4o6bBmo3q1JCZtKEUhwXsX"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "You're no one",
+        "url": "https://open.spotify.com/album/2L642n3LEGg6XVAwHq58UR"
+      },
+      "artists": [
+        {
+          "name": "Somburd",
+          "url": "https://open.spotify.com/artist/6wcT73JBleLHxOuXSURwi7"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "You're no one",
+      "url": "https://open.spotify.com/track/2BN6fLHHoqZJt4QCFiSEJp"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "\u9752\u6625\u306e\u4f11\u6687",
         "url": "https://open.spotify.com/album/6G9BSnNfs463Zk6T6dccAu"
       },
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "You're no one",
-        "url": "https://open.spotify.com/album/2L642n3LEGg6XVAwHq58UR"
+        "name": "Buy Now",
+        "url": "https://open.spotify.com/album/0CfFoSKMVSd1T50G4eekah"
       },
       "artists": [
         {
-          "name": "Somburd",
-          "url": "https://open.spotify.com/artist/6wcT73JBleLHxOuXSURwi7"
+          "name": "Eyeliner",
+          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
         }
       ],
-      "duration_ms": 144000,
-      "name": "You're no one",
-      "url": "https://open.spotify.com/track/2BN6fLHHoqZJt4QCFiSEJp"
+      "duration_ms": 227827,
+      "name": "Sneakers for Men",
+      "url": "https://open.spotify.com/track/09Y1oU16bH9WllukYJABBF"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1495,22 +1511,6 @@
       "duration_ms": 375876,
       "name": "Surfer Girl",
       "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Buy Now",
-        "url": "https://open.spotify.com/album/0CfFoSKMVSd1T50G4eekah"
-      },
-      "artists": [
-        {
-          "name": "Eyeliner",
-          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
-        }
-      ],
-      "duration_ms": 227827,
-      "name": "Sneakers for Men",
-      "url": "https://open.spotify.com/track/09Y1oU16bH9WllukYJABBF"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Glass Mind",
-        "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        },
-        {
-          "name": "Lavera",
-          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Glass Mind",
-      "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "\u264d\ufe0e\u2752\ufe0e\u2353\ufe0e\u2b27\ufe0e\u29eb\ufe0e\u264b\ufe0e\u25cf\ufe0e \u264c\ufe0e\u264b\ufe0e\u25cf\ufe0e\u25cf\ufe0e",
         "url": "https://open.spotify.com/album/5p4jf5AH2qd8NlLZOWKfOE"
       },
@@ -1671,18 +1651,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Glass Prism",
-        "url": "https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA"
+        "name": "Glass Mind",
+        "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
       },
       "artists": [
         {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        },
+        {
+          "name": "Lavera",
+          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
         }
       ],
-      "duration_ms": 210895,
-      "name": "Glass Prism",
-      "url": "https://open.spotify.com/track/2hxmNgtk3qIqZKTKjeoDpd"
+      "duration_ms": 219428,
+      "name": "Glass Mind",
+      "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1699,6 +1683,22 @@
       "duration_ms": 233774,
       "name": "Beyond Nostalgia",
       "url": "https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Glass Prism",
+        "url": "https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA"
+      },
+      "artists": [
+        {
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+        }
+      ],
+      "duration_ms": 210895,
+      "name": "Glass Prism",
+      "url": "https://open.spotify.com/track/2hxmNgtk3qIqZKTKjeoDpd"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
+        "name": "Midnight Store",
+        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
       },
       "artists": [
         {
-          "name": "VANITAS\u547d\u6b7b",
-          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
+          "name": "Donor Lens",
+          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
         }
       ],
-      "duration_ms": 277570,
-      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
+      "duration_ms": 157974,
+      "name": "Turn the Fridge On",
+      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
     }
   ],
   "unique_name": "vaporwave",

@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Cristian D",
-  "num_followers": 140183,
+  "num_followers": 140182,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -863,26 +863,6 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
-        "name": "Voorzichtig",
-        "url": "https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        },
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        }
-      ],
-      "duration_ms": 143015,
-      "name": "Voorzichtig",
-      "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
         "name": "Love Doesn't Exist",
         "url": "https://open.spotify.com/album/0TlTVRoWCe48EuS8o5bEYT"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 170269,
       "name": "Tiffany",
       "url": "https://open.spotify.com/track/1Jidj5J8iTH9LdePcv8iDo"
+    },
+    {
+      "added_at": "2025-07-17 22:00:46",
+      "album": {
+        "name": "Voorzichtig",
+        "url": "https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        }
+      ],
+      "duration_ms": 143015,
+      "name": "Voorzichtig",
+      "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"
     },
     {
       "added_at": "2025-07-17 22:00:46",
@@ -1811,26 +1811,34 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
-        "name": "Fallin in Love",
-        "url": "https://open.spotify.com/album/7N3hxtYqewN5Mz0W0QTaM1"
+        "name": "Monogram",
+        "url": "https://open.spotify.com/album/1EFWH0ql51hoYtJmvxRnXj"
       },
       "artists": [
         {
-          "name": "JMANI",
-          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+          "name": "Quatro Vision",
+          "url": "https://open.spotify.com/artist/6uRCP6vPABt2mY7ZGHr7nJ"
         },
         {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+          "name": "Elliven",
+          "url": "https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu"
         },
         {
-          "name": "Monq",
-          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
+          "name": "Seek",
+          "url": "https://open.spotify.com/artist/6MXEJwFpBlBNxM0IcgeQYj"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
         }
       ],
-      "duration_ms": 162061,
-      "name": "Fallin in Love",
-      "url": "https://open.spotify.com/track/3HYdxQ11DSiYnuI00jW0QH"
+      "duration_ms": 165600,
+      "name": "Monogram",
+      "url": "https://open.spotify.com/track/0PNnvtiejtjLXoEM5D5Vgv"
     }
   ],
   "unique_name": "Pull Up Hits",

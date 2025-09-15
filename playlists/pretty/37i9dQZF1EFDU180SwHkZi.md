@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171 likes - 130 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 176 likes - 130 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 59 | [Get It](https://open.spotify.com/track/5Oy1hOAnCit3XFyQVwIGOH) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19) | 1:53 |
 | 60 | [Double Standards](https://open.spotify.com/track/4tHM9DzWtj0P0ZTZzEuaP5) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Double Standards](https://open.spotify.com/album/3ffSkoeLJWwuX3GdrTfcpy) | 2:49 |
 | 61 | [Hypochondriac](https://open.spotify.com/track/3gz1k8QjOsAvkpQlkhmDM8) | [Miranda Glory](https://open.spotify.com/artist/3LU5ho1MrktZxpRBGYPISK) | [Hypochondriac](https://open.spotify.com/album/7ENl3nfDJl9totzRCLUyZA) | 3:01 |
-| 62 | [Jealous](https://open.spotify.com/track/5wXX1UkC8iX4fD1WIkcXdn) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Double Standards](https://open.spotify.com/album/3ffSkoeLJWwuX3GdrTfcpy) | 3:16 |
-| 63 | [Real Thing](https://open.spotify.com/track/7bJcvljR0snEcdfmd9j0B1) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Pick It Up](https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq) | 2:40 |
+| 62 | [Real Thing](https://open.spotify.com/track/7bJcvljR0snEcdfmd9j0B1) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Pick It Up](https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq) | 2:40 |
+| 63 | [Jealous](https://open.spotify.com/track/5wXX1UkC8iX4fD1WIkcXdn) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Double Standards](https://open.spotify.com/album/3ffSkoeLJWwuX3GdrTfcpy) | 3:16 |
 | 64 | [for Christmas](https://open.spotify.com/track/3kxnX9hlQSv1ahtXG9kleN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [for Christmas](https://open.spotify.com/album/4p51pGMOGcFpoaohQ2yMbZ) | 3:26 |
 | 65 | [All Ways](https://open.spotify.com/track/5DH635Kh0z9A0uLaj9eugX) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [All Ways](https://open.spotify.com/album/7JkhCAperaUpB0LxtI51Z3) | 2:17 |
 | 66 | [50/50](https://open.spotify.com/track/22hfS6XgllEJyBcAX9s7BM) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Saanvarey](https://open.spotify.com/album/69rceaPY8Gc7nutstZ4oI5) | 2:32 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 74 | [Way You Move](https://open.spotify.com/track/2D63BaGWZtBjUBOYVSrl5K) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Way You Move](https://open.spotify.com/album/1rxymbQM3Vvv2rH27kpzBp) | 2:58 |
 | 75 | [Ada](https://open.spotify.com/track/40haOxIaprGiFVmhKUkXRm) | [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Ada](https://open.spotify.com/album/4oLtHbGG9VRAI7f0T4FvYR) | 2:25 |
 | 76 | [Expensive On Me](https://open.spotify.com/track/3vvwCxeE0jsAJSd7G1eyCF) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [HEARTBREAK ON THE DANCE FLOOR](https://open.spotify.com/album/6bSs5sjgeXM4SaoqFZkdn9) | 2:16 |
-| 77 | [Can I Be Ur Friend?](https://open.spotify.com/track/2enudDsKGps4ZGh8CVg4u0) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Can I Be Ur Friend?](https://open.spotify.com/album/5RZiAE8EKz0giwhhgJYVDr) | 3:37 |
-| 78 | [One Fine Day](https://open.spotify.com/track/0cAcuLGXhCIR5aCMlkmGJc) | [Maitreyi Ramakrishnan](https://open.spotify.com/artist/0syHMgSCCIb3v7ngXtXHg0), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Freakier Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21GEjVF1Rr389EmT0pEedm) | 2:58 |
+| 77 | [One Fine Day](https://open.spotify.com/track/0cAcuLGXhCIR5aCMlkmGJc) | [Maitreyi Ramakrishnan](https://open.spotify.com/artist/0syHMgSCCIb3v7ngXtXHg0), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Freakier Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21GEjVF1Rr389EmT0pEedm) | 2:58 |
+| 78 | [Can I Be Ur Friend?](https://open.spotify.com/track/2enudDsKGps4ZGh8CVg4u0) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Can I Be Ur Friend?](https://open.spotify.com/album/5RZiAE8EKz0giwhhgJYVDr) | 3:37 |
 | 79 | [Look At Me Go](https://open.spotify.com/track/6Y8NDWGqBgJPSz7Ejfn7YQ) | [Marqus Clae](https://open.spotify.com/artist/6CMbYeF5Lb3RZjnig0rSBT) | [Look At Me Go](https://open.spotify.com/album/4ZV3duqSz1IUk84iGlX8a0) | 2:57 |
 | 80 | [Imperfect](https://open.spotify.com/track/6I8QoVJcwzTYrRNLOzYkYI) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y), [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq) | [Double Standards](https://open.spotify.com/album/3ffSkoeLJWwuX3GdrTfcpy) | 3:05 |
 | 81 | [chalo](https://open.spotify.com/track/56suLLcdkGhJJqTWS5Rv9x) | [Sejal](https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU) | [chalo](https://open.spotify.com/album/5bvBVax9mBgWZ8y2iLpa50) | 1:11 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 129 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 | 130 | [Get It Done](https://open.spotify.com/track/5J9WaXYErqUTZoNmk7ebG6) | [Saint Bodhi](https://open.spotify.com/artist/6JQTItHYnmTq4PxskHsxr4) | [Get It Done](https://open.spotify.com/album/1MVJomsYj2fjYDtA5QzEk3) | 2:16 |
 
-Snapshot ID: `Ab8JfAAAAADkL2zANsB/Cjs+coswXEur`
+Snapshot ID: `Ab8O/gAAAACpZFTpjRf42JGYv3tQ8xPE`

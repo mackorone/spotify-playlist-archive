@@ -1,6 +1,6 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1169716,
+  "num_followers": 1169907,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
@@ -959,18 +959,22 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef"
+        "name": "Sarah Vaughan",
+        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
       },
       "artists": [
         {
           "name": "Sarah Vaughan",
           "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        },
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
         }
       ],
-      "duration_ms": 174373,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/7HTv5iPtAdyES2QRbZn8Lt"
+      "duration_ms": 354493,
+      "name": "Jim",
+      "url": "https://open.spotify.com/track/1cxBehMLI8smC0EAx0I0Ut"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -1043,22 +1047,18 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "Sarah Vaughan",
-        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef"
       },
       "artists": [
         {
           "name": "Sarah Vaughan",
           "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        },
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
         }
       ],
-      "duration_ms": 354493,
-      "name": "Jim",
-      "url": "https://open.spotify.com/track/1cxBehMLI8smC0EAx0I0Ut"
+      "duration_ms": 174373,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/7HTv5iPtAdyES2QRbZn8Lt"
     },
     {
       "added_at": "2024-06-03 14:41:08",

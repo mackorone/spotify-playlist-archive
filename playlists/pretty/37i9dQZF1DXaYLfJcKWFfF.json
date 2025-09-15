@@ -1,6 +1,6 @@
 {
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Tommy W\u00c1",
-  "num_followers": 620,
+  "num_followers": 646,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,30 @@
     {
       "added_at": "2025-08-28 22:00:23",
       "album": {
+        "name": "LEATHER PARK (VOL. 1)",
+        "url": "https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN"
+      },
+      "artists": [
+        {
+          "name": "Leather Park",
+          "url": "https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 116400,
+      "name": "CRAZY SEXY PERFECT GIRLS",
+      "url": "https://open.spotify.com/track/2yK4TLFFCgLUmTWyQoY8qj"
+    },
+    {
+      "added_at": "2025-08-28 22:00:23",
+      "album": {
         "name": "Sugar Rush",
         "url": "https://open.spotify.com/album/5W4zIRDdgp5y3N0AzxGSmL"
       },
@@ -571,30 +595,6 @@
       "duration_ms": 177272,
       "name": "With You in Mind",
       "url": "https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv"
-    },
-    {
-      "added_at": "2025-08-28 22:00:23",
-      "album": {
-        "name": "LEATHER PARK (VOL. 1)",
-        "url": "https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN"
-      },
-      "artists": [
-        {
-          "name": "Leather Park",
-          "url": "https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1"
-        },
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 116400,
-      "name": "CRAZY SEXY PERFECT GIRLS",
-      "url": "https://open.spotify.com/track/2yK4TLFFCgLUmTWyQoY8qj"
     },
     {
       "added_at": "2025-08-15 00:01:34",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-08-28 22:00:23",
       "album": {
-        "name": "Duality Pt 2 Peace",
-        "url": "https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw"
-      },
-      "artists": [
-        {
-          "name": "DemiMa",
-          "url": "https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD"
-        }
-      ],
-      "duration_ms": 265480,
-      "name": "Let Love Be",
-      "url": "https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV"
-    },
-    {
-      "added_at": "2025-08-28 22:00:23",
-      "album": {
         "name": "The Adults Are Talking",
         "url": "https://open.spotify.com/album/5kaGxvecYiURJZ5hW4Mdmk"
       },
@@ -801,20 +785,36 @@
       "url": "https://open.spotify.com/track/2nTNClRzELryaGpbFBSJHK"
     },
     {
-      "added_at": "2025-08-15 00:01:34",
+      "added_at": "2025-08-28 22:00:23",
       "album": {
-        "name": "TV DREAMS",
-        "url": "https://open.spotify.com/album/2cdXDRhZF4KQdzBiCukdzD"
+        "name": "Goodbyes",
+        "url": "https://open.spotify.com/album/2WrsY0gAVrCmzd2PtlDydT"
       },
       "artists": [
         {
-          "name": "Negro Impacto",
-          "url": "https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw"
+          "name": "Nic van Graan",
+          "url": "https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt"
         }
       ],
-      "duration_ms": 249851,
-      "name": "NWANNE",
-      "url": "https://open.spotify.com/track/5WmlObC2frm0zlHuKiTyIV"
+      "duration_ms": 218800,
+      "name": "Goodbyes",
+      "url": "https://open.spotify.com/track/6Gf8lW8YOh7OmEMUSG5OM6"
+    },
+    {
+      "added_at": "2025-08-28 22:00:23",
+      "album": {
+        "name": "Duality Pt 2 Peace",
+        "url": "https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw"
+      },
+      "artists": [
+        {
+          "name": "DemiMa",
+          "url": "https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD"
+        }
+      ],
+      "duration_ms": 265480,
+      "name": "Let Love Be",
+      "url": "https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV"
     },
     {
       "added_at": "2025-08-15 00:01:34",
@@ -853,20 +853,20 @@
       "url": "https://open.spotify.com/track/3AqBDvLglwUIZBGh6At7hq"
     },
     {
-      "added_at": "2025-08-28 22:00:23",
+      "added_at": "2025-08-15 00:01:34",
       "album": {
-        "name": "Goodbyes",
-        "url": "https://open.spotify.com/album/2WrsY0gAVrCmzd2PtlDydT"
+        "name": "TV DREAMS",
+        "url": "https://open.spotify.com/album/2cdXDRhZF4KQdzBiCukdzD"
       },
       "artists": [
         {
-          "name": "Nic van Graan",
-          "url": "https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt"
+          "name": "Negro Impacto",
+          "url": "https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw"
         }
       ],
-      "duration_ms": 218800,
-      "name": "Goodbyes",
-      "url": "https://open.spotify.com/track/6Gf8lW8YOh7OmEMUSG5OM6"
+      "duration_ms": 249851,
+      "name": "NWANNE",
+      "url": "https://open.spotify.com/track/5WmlObC2frm0zlHuKiTyIV"
     },
     {
       "added_at": "2025-08-28 22:00:23",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/2COv0NGUIsXwZxhxXtdQiH"
     },
     {
+      "added_at": "2025-08-28 22:00:23",
+      "album": {
+        "name": "All That I Am",
+        "url": "https://open.spotify.com/album/0Q3mPbwZR61xAOsvtXA95R"
+      },
+      "artists": [
+        {
+          "name": "PSILK",
+          "url": "https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6"
+        }
+      ],
+      "duration_ms": 143187,
+      "name": "All That I Am",
+      "url": "https://open.spotify.com/track/6VcJDLVNppqqFHGkQcs0kb"
+    },
+    {
       "added_at": "2025-08-15 00:01:34",
       "album": {
         "name": "The Abyss",
@@ -1095,22 +1111,6 @@
       "duration_ms": 186407,
       "name": "Sometin Small",
       "url": "https://open.spotify.com/track/1OUtnF5LExKbHllln1ljMK"
-    },
-    {
-      "added_at": "2025-08-28 22:00:23",
-      "album": {
-        "name": "All That I Am",
-        "url": "https://open.spotify.com/album/0Q3mPbwZR61xAOsvtXA95R"
-      },
-      "artists": [
-        {
-          "name": "PSILK",
-          "url": "https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6"
-        }
-      ],
-      "duration_ms": 143187,
-      "name": "All That I Am",
-      "url": "https://open.spotify.com/track/6VcJDLVNppqqFHGkQcs0kb"
     },
     {
       "added_at": "2025-08-28 22:00:23",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-08-15 00:01:34",
       "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/2WxjpVtftn4jmB8mcDBJpK"
-      },
-      "artists": [
-        {
-          "name": "Njoki Karu",
-          "url": "https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F"
-        }
-      ],
-      "duration_ms": 343800,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz"
-    },
-    {
-      "added_at": "2025-08-15 00:01:34",
-      "album": {
         "name": "BILLIKI EP",
         "url": "https://open.spotify.com/album/4B8neKJWOFj40IXDqAl4nn"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 261028,
       "name": "Billiki - remix",
       "url": "https://open.spotify.com/track/54zHwBEGGG1k5ndsMzDbuW"
+    },
+    {
+      "added_at": "2025-08-15 00:01:34",
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/2WxjpVtftn4jmB8mcDBJpK"
+      },
+      "artists": [
+        {
+          "name": "Njoki Karu",
+          "url": "https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F"
+        }
+      ],
+      "duration_ms": 343800,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz"
     },
     {
       "added_at": "2025-08-28 22:00:23",
@@ -1325,6 +1325,22 @@
       "url": "https://open.spotify.com/track/11pN4k5Cjt9XBlIhyiYosF"
     },
     {
+      "added_at": "2025-08-28 22:00:23",
+      "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/4JJFDNnWjyAmTJ1jO2ltmq"
+      },
+      "artists": [
+        {
+          "name": "YOSHE",
+          "url": "https://open.spotify.com/artist/4v9lEuK0nSxVknvcwOWfYn"
+        }
+      ],
+      "duration_ms": 199285,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/37vs2EU2zGb0EhLmgZ2VC6"
+    },
+    {
       "added_at": "2025-08-15 00:01:34",
       "album": {
         "name": "Jane",
@@ -1361,20 +1377,20 @@
       "url": "https://open.spotify.com/track/0Ux6CyGdySGIvrzQ6Lx9ri"
     },
     {
-      "added_at": "2025-08-28 22:00:23",
+      "added_at": "2025-08-15 00:01:34",
       "album": {
-        "name": "Oceans",
-        "url": "https://open.spotify.com/album/4JJFDNnWjyAmTJ1jO2ltmq"
+        "name": "Hammarsdale",
+        "url": "https://open.spotify.com/album/3UkDRVrOBRrMvoMsb0EGim"
       },
       "artists": [
         {
-          "name": "YOSHE",
-          "url": "https://open.spotify.com/artist/4v9lEuK0nSxVknvcwOWfYn"
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
         }
       ],
-      "duration_ms": 199285,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/37vs2EU2zGb0EhLmgZ2VC6"
+      "duration_ms": 162547,
+      "name": "Imali",
+      "url": "https://open.spotify.com/track/0POdzGSgOhsL9oPX4ERj6q"
     },
     {
       "added_at": "2025-08-28 22:00:23",
@@ -1391,22 +1407,6 @@
       "duration_ms": 225000,
       "name": "City of \"Kings\"",
       "url": "https://open.spotify.com/track/4NeJTjVZ6pPuPZcFJeR7JJ"
-    },
-    {
-      "added_at": "2025-08-15 00:01:34",
-      "album": {
-        "name": "Hammarsdale",
-        "url": "https://open.spotify.com/album/3UkDRVrOBRrMvoMsb0EGim"
-      },
-      "artists": [
-        {
-          "name": "The Joy",
-          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
-        }
-      ],
-      "duration_ms": 162547,
-      "name": "Imali",
-      "url": "https://open.spotify.com/track/0POdzGSgOhsL9oPX4ERj6q"
     },
     {
       "added_at": "2025-08-15 00:01:34",

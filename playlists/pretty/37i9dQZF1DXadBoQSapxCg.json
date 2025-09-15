@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319104,
+  "num_followers": 319110,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -979,30 +979,6 @@
     {
       "added_at": "2025-08-01 19:15:40",
       "album": {
-        "name": "Apela\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1dFNG3V6K51mOWtwZAPO4v"
-      },
-      "artists": [
-        {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
-        },
-        {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
-        },
-        {
-          "name": "Chibatinha",
-          "url": "https://open.spotify.com/artist/1ugAp6InWzuA4mPxWz3Pkt"
-        }
-      ],
-      "duration_ms": 137333,
-      "name": "Apela\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0IN3WGJIqcwnypFHtGpoZJ"
-    },
-    {
-      "added_at": "2025-08-01 19:15:40",
-      "album": {
         "name": "INOCENTE",
         "url": "https://open.spotify.com/album/7jTFuAWHhPQqRXIZdljYEn"
       },
@@ -1031,6 +1007,30 @@
       "duration_ms": 139605,
       "name": "INOCENTE",
       "url": "https://open.spotify.com/track/0oIl9QzWrp7ccEhcyRGArw"
+    },
+    {
+      "added_at": "2025-08-01 19:15:40",
+      "album": {
+        "name": "Apela\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1dFNG3V6K51mOWtwZAPO4v"
+      },
+      "artists": [
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        },
+        {
+          "name": "Chibatinha",
+          "url": "https://open.spotify.com/artist/1ugAp6InWzuA4mPxWz3Pkt"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "Apela\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0IN3WGJIqcwnypFHtGpoZJ"
     },
     {
       "added_at": "2025-08-01 19:15:40",

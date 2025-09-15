@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Greensky Bluegrass
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,443 likes - 133 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,471 likes - 133 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 132 | [Collateral Damage](https://open.spotify.com/track/7HlF5pzi9nKEtfz8pTMD0b) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Collateral Damage](https://open.spotify.com/album/0tNFTSfBRONBYGUFOmnVAI) | 3:18 |
 | 133 | [Looking for Yourself](https://open.spotify.com/track/6LLCAgAppJLQ91FAdaGJ45) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Looking for Yourself](https://open.spotify.com/album/6kwcAs1zoGCBbzcPjkTL2x) | 3:11 |
 
-Snapshot ID: `AAAAAL/yIVty152Rwl1go6BQ4/sLBeAd`
+Snapshot ID: `AAAAAOF1SxAJnWcRr2uUF5mFcMSZ4FyM`

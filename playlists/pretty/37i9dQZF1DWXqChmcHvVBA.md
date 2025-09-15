@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > 📸 Callejero Fino y DobleP.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,526 likes - 101 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,594 likes - 101 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

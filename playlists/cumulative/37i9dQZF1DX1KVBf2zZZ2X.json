@@ -2309,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Luna's Forest",
+        "url": "https://open.spotify.com/album/5C6d1q0wQAzX8h724CTLl5"
+      },
+      "artists": [
+        {
+          "name": "Verala Lux",
+          "url": "https://open.spotify.com/artist/2zTDYjWYdea2V7ZXILRLKW"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154977,
+      "name": "Luna's Forest",
+      "url": "https://open.spotify.com/track/6As07zYXCbu96oth2IcIXM"
+    },
+    {
+      "album": {
         "name": "Lunar Serenade 432Hz",
         "url": "https://open.spotify.com/album/7hJvjekmC9YgzSwhsw7deN"
       },
@@ -4336,7 +4354,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 189076,
       "name": "Variations",
       "url": "https://open.spotify.com/track/7rM7Awo7rpVrS7O8egu5Mx"

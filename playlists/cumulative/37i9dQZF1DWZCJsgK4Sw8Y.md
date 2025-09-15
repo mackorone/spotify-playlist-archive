@@ -4,7 +4,7 @@
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-127 songs - 7 hr 55 min
+128 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Evil \(A Chorus Of Resistance\)](https://open.spotify.com/track/75Ub3ckaoTdzgH9Azeu8cY) | [Project 86](https://open.spotify.com/artist/7toVzxZQU21OjB5PqXNvTF) | [Rival Factions](https://open.spotify.com/album/1kerU19WZ2hDAWMXaOa3hT) | 3:03 | 2021-07-30 | 2024-06-24 |
 | [Fading](https://open.spotify.com/track/0aAnHzjVQxXyvmbOHGAsfD) | [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [Crash](https://open.spotify.com/album/4Dir4ut5xEbGqJC3Pe9HsW) | 4:11 | 2021-07-30 | 2024-06-24 |
 | [Fading](https://open.spotify.com/track/6JvEDa0gyoQ6XkmUrLpMwU) | [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [Crash](https://open.spotify.com/album/6EXEpRGL3vNulelPB5HZKc) | 4:11 | 2021-07-30 |  |
-| [Faith Like That](https://open.spotify.com/track/6RQKQCnrdFsN1fFwAMqpLp) | [Jonah33](https://open.spotify.com/artist/0Chu9tSPIjW9bGr5OLlvy0) | [Jonah33](https://open.spotify.com/album/1Stml9q5yeDQI1cSz3o8AR) | 4:24 | 2021-07-30 |  |
+| [Faith Like That](https://open.spotify.com/track/6RQKQCnrdFsN1fFwAMqpLp) | [Jonah33](https://open.spotify.com/artist/0Chu9tSPIjW9bGr5OLlvy0) | [Jonah33](https://open.spotify.com/album/1Stml9q5yeDQI1cSz3o8AR) | 4:24 | 2021-07-30 | 2025-09-15 |
 | [Faith Like That](https://open.spotify.com/track/7aBjju8338UrDu043NCM1U) | [Jonah33](https://open.spotify.com/artist/0Chu9tSPIjW9bGr5OLlvy0) | [Jonah33](https://open.spotify.com/album/5ZnDqixFeRh73LZVutNVQQ) | 4:24 | 2021-07-30 | 2024-04-19 |
 | [Fall, Goliath, Fall](https://open.spotify.com/track/3i3XwvrLZ74c97On7g2VkK) | [Project 86](https://open.spotify.com/artist/7toVzxZQU21OjB5PqXNvTF) | [Wait for the Siren](https://open.spotify.com/album/62ZjB6ny3sUujvynLd81Uu) | 4:20 | 2021-07-30 | 2024-06-24 |
 | [Flood](https://open.spotify.com/track/4wSqP7Vo7HcoakudSMzxAO) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Jars Of Clay](https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ) | 3:31 | 2024-06-23 |  |
@@ -80,6 +80,7 @@
 | [Keep Waiting](https://open.spotify.com/track/2nie6zXCdvw3iWFlLVfHLt) | [Stavesacre](https://open.spotify.com/artist/0TyFKV9Tlx4eibaotGxHPS) | [Speakeasy](https://open.spotify.com/album/5GrGjFaWxaMKou9L7WU107) | 4:33 | 2021-07-30 | 2024-06-24 |
 | [Kill Me, Heal Me](https://open.spotify.com/track/3Kts5BTjqmb17mecgMo3aZ) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Alien Youth](https://open.spotify.com/album/1pbi0SpuDeXcZOauPhs96L) | 3:35 | 2021-07-30 | 2024-06-24 |
 | [Kill Me, Heal Me](https://open.spotify.com/track/4uAoGnYtLYdDTCNxG6liOJ) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Alien Youth](https://open.spotify.com/album/5AffZsDjtfhfUhLCkjvypp) | 3:35 | 2021-07-30 | 2024-04-19 |
+| [King of the Jews](https://open.spotify.com/track/1N5xILoz2dAx8n13TCGY1e) | [David & The Giants](https://open.spotify.com/artist/6ZKubx3xXEEcwscVeMNLXA) | [Riders in the Sky](https://open.spotify.com/album/6ObISSujN0MOeuMaiCvt7h) | 4:52 | 2025-09-14 |  |
 | [Kings & Queens](https://open.spotify.com/track/3N8L7MZktWeZquTAWQ2oY8) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [Kings & Queens](https://open.spotify.com/album/1NcSOkBUqSXxFiRZxSL24d) | 3:49 | 2024-06-23 |  |
 | [Let the Music Do the Talking](https://open.spotify.com/track/2imvWwJzFTUj1OXIRMxbGn) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Snuff the Punk](https://open.spotify.com/album/7e5QNC3nZ2g563b22IzdrQ) | 3:42 | 2021-07-30 | 2024-06-24 |
 | [Live Like That](https://open.spotify.com/track/6QbbxQtijqLfUV90Vlm1Xh) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Live Like That](https://open.spotify.com/album/7FahRUE20rBZZuaR7pVk38) | 3:57 | 2024-06-23 |  |

@@ -19511,6 +19511,24 @@
     },
     {
       "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/2Z0uLc4Ug1h4PLI4liULoj"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60413,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/0W6T84QaDscQV7wcwGQ0yV"
+    },
+    {
+      "album": {
         "name": "Recollections Vol. 3",
         "url": "https://open.spotify.com/album/2jagQByBpQMevSxF0lEvoS"
       },

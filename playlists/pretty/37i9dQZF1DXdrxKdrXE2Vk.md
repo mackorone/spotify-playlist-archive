@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Ryan Ofei & Shoreline City Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 943,559 likes - 75 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 943,653 likes - 75 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 33 | [Wounded Healer \- Live](https://open.spotify.com/track/4ujmFtslgiy5WuPpKql0qX) | [Lifepoint Worship](https://open.spotify.com/artist/7GPZGfVnkGTiIq3f4E78yo) | [Wounded Healer \(Live\)](https://open.spotify.com/album/6nX30ZZ7uB4e11VEgKkIZE) | 5:36 |
 | 34 | [Worthy Of It All + Nothing But The Blood \(Live\)](https://open.spotify.com/track/673DfckxPqLXZnkGqspIhm) | [Metro Collective Worship](https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn), [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Worthy Of It All + Nothing But The Blood \(Live\)](https://open.spotify.com/album/6znEf58Zw2RuOOwkWfBf90) | 5:19 |
 | 35 | [No One Like You / Higher](https://open.spotify.com/track/5nj4pfC3DgRBvMMPwDyrZX) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Dominik Laim](https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd) | [No One Like You / Higher](https://open.spotify.com/album/7zsR8FEqc9lxuSmkUh6FAa) | 9:08 |
-| 36 | [King On The Throne \- Live](https://open.spotify.com/track/6VW30VHpjdnytcnHeR4hro) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Michael Bethany](https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe), [Nikki Moltz](https://open.spotify.com/artist/6FXUJ4VJ1RJuel7hgRcKiz) | [King On The Throne \(Live\)](https://open.spotify.com/album/6UXRmfkCJmy75aLrvoY0XE) | 6:35 |
+| 36 | [King On The Throne \- Live from Covenant Church, Dallas TX, 2024](https://open.spotify.com/track/6VW30VHpjdnytcnHeR4hro) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Michael Bethany](https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe), [Nikki Moltz](https://open.spotify.com/artist/6FXUJ4VJ1RJuel7hgRcKiz) | [King On The Throne \(Live\)](https://open.spotify.com/album/6UXRmfkCJmy75aLrvoY0XE) | 6:35 |
 | 37 | [Earth And Heaven Roar \- Live](https://open.spotify.com/track/5yfdzZGGwTPa8eFLh8L04c) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [Earth And Heaven Roar \(Live\)](https://open.spotify.com/album/3uq2vwzLuwY4IYCsH8NyjV) | 5:02 |
 | 38 | [You're All I'm After \- Live](https://open.spotify.com/track/1ehpGnSzHMNUsblmlYGfVq) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0) | [You're All I'm After](https://open.spotify.com/album/38pdZqUj7YMuTem0YMAtSa) | 5:37 |
 | 39 | [This Is How I Thank The Lord \(feat\. Cody Carnes, Amanda Cook, Joe L Barnes\)](https://open.spotify.com/track/2t8f07knCNSY19avq19l1R) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Thanks](https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML) | 3:41 |

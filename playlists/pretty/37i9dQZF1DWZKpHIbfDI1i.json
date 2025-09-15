@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Zo\u00e9 en portada ",
-  "num_followers": 793809,
+  "num_followers": 793937,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,26 @@
     {
       "added_at": "2025-09-12 06:00:13",
       "album": {
+        "name": "Amarre",
+        "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        }
+      ],
+      "duration_ms": 179706,
+      "name": "Amarre",
+      "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
+    },
+    {
+      "added_at": "2025-09-12 06:00:13",
+      "album": {
         "name": "Meneo",
         "url": "https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp"
       },
@@ -651,22 +671,22 @@
     {
       "added_at": "2025-09-12 06:00:13",
       "album": {
-        "name": "Amarre",
-        "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
+        "name": "Modo Dif\u00edcil",
+        "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 179706,
-      "name": "Amarre",
-      "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
+      "duration_ms": 201461,
+      "name": "Modo Dif\u00edcil",
+      "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
     },
     {
       "added_at": "2025-09-12 06:00:13",
@@ -711,6 +731,22 @@
     {
       "added_at": "2025-09-12 06:00:13",
       "album": {
+        "name": "Piedras a la Luna",
+        "url": "https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 192004,
+      "name": "Piedras a la Luna",
+      "url": "https://open.spotify.com/track/2Cz7K3xFrJIYMkpxDbrqtu"
+    },
+    {
+      "added_at": "2025-09-12 06:00:13",
+      "album": {
         "name": "SECRETO",
         "url": "https://open.spotify.com/album/7GVR3lkK8tz5kcOa6LnQfG"
       },
@@ -731,38 +767,18 @@
     {
       "added_at": "2025-09-12 06:00:13",
       "album": {
-        "name": "Piedras a la Luna",
-        "url": "https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI"
+        "name": "Pens\u00e9 En Ti",
+        "url": "https://open.spotify.com/album/1on66Xxi4XDMhYPCpJ3Woe"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 192004,
-      "name": "Piedras a la Luna",
-      "url": "https://open.spotify.com/track/2Cz7K3xFrJIYMkpxDbrqtu"
-    },
-    {
-      "added_at": "2025-09-12 06:00:13",
-      "album": {
-        "name": "Modo Dif\u00edcil",
-        "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 201461,
-      "name": "Modo Dif\u00edcil",
-      "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
+      "duration_ms": 152599,
+      "name": "Pens\u00e9 En Ti",
+      "url": "https://open.spotify.com/track/178eS1qkX3Fg7o6yMggt9O"
     },
     {
       "added_at": "2025-09-12 06:00:13",
@@ -787,22 +803,6 @@
     {
       "added_at": "2025-09-12 06:00:13",
       "album": {
-        "name": "Pens\u00e9 En Ti",
-        "url": "https://open.spotify.com/album/1on66Xxi4XDMhYPCpJ3Woe"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 152599,
-      "name": "Pens\u00e9 En Ti",
-      "url": "https://open.spotify.com/track/178eS1qkX3Fg7o6yMggt9O"
-    },
-    {
-      "added_at": "2025-09-12 06:00:13",
-      "album": {
         "name": "El Chore",
         "url": "https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 170259,
       "name": "El Chore",
       "url": "https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL"
+    },
+    {
+      "added_at": "2025-09-12 06:00:13",
+      "album": {
+        "name": "Adicto A Ti",
+        "url": "https://open.spotify.com/album/3rRx6lmhafwUpFZGVIvTWJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "Adicto A Ti",
+      "url": "https://open.spotify.com/track/3SRlfFW7njWnmzD3KwTCMg"
     },
     {
       "added_at": "2025-09-12 06:00:13",
@@ -923,22 +939,6 @@
     {
       "added_at": "2025-09-12 06:00:13",
       "album": {
-        "name": "Adicto A Ti",
-        "url": "https://open.spotify.com/album/3rRx6lmhafwUpFZGVIvTWJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Adicto A Ti",
-      "url": "https://open.spotify.com/track/3SRlfFW7njWnmzD3KwTCMg"
-    },
-    {
-      "added_at": "2025-09-12 06:00:13",
-      "album": {
         "name": "PERDIDO",
         "url": "https://open.spotify.com/album/1bySzNQNPElENKhS564NkO"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-09-12 06:00:13",
       "album": {
-        "name": "\u00bfQu\u00e9 Fue Lo Que Me Diste?",
-        "url": "https://open.spotify.com/album/2fJrm1oEbTww4VWJsob6zn"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 206773,
-      "name": "\u00bfQu\u00e9 Fue Lo Que Me Diste?",
-      "url": "https://open.spotify.com/track/5NfKSbEf0ZT6wpGXivX5WK"
-    },
-    {
-      "added_at": "2025-09-12 06:00:13",
-      "album": {
         "name": "Mexicano Soy",
         "url": "https://open.spotify.com/album/5GZMtgqovc3UrzjdjVOpQY"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 152562,
       "name": "Mexicano Soy",
       "url": "https://open.spotify.com/track/1do505QmrjLQUvQLbwMdId"
+    },
+    {
+      "added_at": "2025-09-12 06:00:13",
+      "album": {
+        "name": "\u00bfQu\u00e9 Fue Lo Que Me Diste?",
+        "url": "https://open.spotify.com/album/2fJrm1oEbTww4VWJsob6zn"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "\u00bfQu\u00e9 Fue Lo Que Me Diste?",
+      "url": "https://open.spotify.com/track/5NfKSbEf0ZT6wpGXivX5WK"
     },
     {
       "added_at": "2025-09-12 06:00:13",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2025-09-12 06:00:13",
       "album": {
+        "name": "Cada Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/3HklrN7N2hEhOlcDOWJAM9"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 201474,
+      "name": "Cada Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4hxPUai4jc3r76nbnVR88c"
+    },
+    {
+      "added_at": "2025-09-12 06:00:13",
+      "album": {
         "name": "PORTATE BIEN",
         "url": "https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 186285,
       "name": "EBVSY",
       "url": "https://open.spotify.com/track/2hmJqWAAbkb2kM2KLoIqio"
-    },
-    {
-      "added_at": "2025-09-12 06:00:13",
-      "album": {
-        "name": "Cada Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/3HklrN7N2hEhOlcDOWJAM9"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 201474,
-      "name": "Cada Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4hxPUai4jc3r76nbnVR88c"
     },
     {
       "added_at": "2025-09-12 06:00:13",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-09-12 06:00:13",
       "album": {
-        "name": "La Que Se Fue, Se Fue",
-        "url": "https://open.spotify.com/album/60fXvuA8j60Z8kz78kP28e"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 159621,
-      "name": "La Que Se Fue, Se Fue",
-      "url": "https://open.spotify.com/track/2vFNLepne0WkERnX6oIOJe"
-    },
-    {
-      "added_at": "2025-09-12 06:00:13",
-      "album": {
         "name": "TRAVES\u00cdA",
         "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 216746,
       "name": "Que Emoci\u00f3n",
       "url": "https://open.spotify.com/track/4gEJMS993Cg13T1yWZVrKs"
+    },
+    {
+      "added_at": "2025-09-12 06:00:13",
+      "album": {
+        "name": "La Que Se Fue, Se Fue",
+        "url": "https://open.spotify.com/album/60fXvuA8j60Z8kz78kP28e"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 159621,
+      "name": "La Que Se Fue, Se Fue",
+      "url": "https://open.spotify.com/track/2vFNLepne0WkERnX6oIOJe"
     },
     {
       "added_at": "2025-09-12 06:00:13",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-09-12 06:00:13",
       "album": {
-        "name": "Nunca Es Tarde",
-        "url": "https://open.spotify.com/album/0bSKZwkisWICC5VLoWN5uU"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 163192,
-      "name": "Nunca Es Tarde",
-      "url": "https://open.spotify.com/track/42xUObMfaCgxlBCB9T1Y2Z"
-    },
-    {
-      "added_at": "2025-09-12 06:00:13",
-      "album": {
         "name": "Lo Que Construimos",
         "url": "https://open.spotify.com/album/2maXmcI7gl4oZMzNQSlLUz"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 210541,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/7GlfNhJutjN1rhKwhR779E"
+    },
+    {
+      "added_at": "2025-09-12 06:00:13",
+      "album": {
+        "name": "Nunca Es Tarde",
+        "url": "https://open.spotify.com/album/0bSKZwkisWICC5VLoWN5uU"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 163192,
+      "name": "Nunca Es Tarde",
+      "url": "https://open.spotify.com/track/42xUObMfaCgxlBCB9T1Y2Z"
     }
   ],
   "unique_name": "Top M\u00e9xico",

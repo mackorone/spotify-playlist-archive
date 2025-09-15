@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 188180,
       "name": "Always So Good - Single Version",
       "url": "https://open.spotify.com/track/3kbtag4mVjtbbHyziEPzex"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 391636,
       "name": "Always Thank You",
       "url": "https://open.spotify.com/track/11lIYYbMiKHwMuNaFIED6p"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 312586,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/2E671HNXR5AfhnbhEhX9u6"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 305006,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/5cTw0oq5qvySv7k5LpRfg9"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 353769,
       "name": "Give Thanks to God",
       "url": "https://open.spotify.com/track/6TifEylXRiTPrGn4NHXd6O"
@@ -976,7 +976,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 237146,
       "name": "Give Thanks To The Lord (Forever) - Live",
       "url": "https://open.spotify.com/track/24HDmEMoHettUmN3Gf01Pn"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 225712,
       "name": "Good To Give Thanks (Psalm 92)",
       "url": "https://open.spotify.com/track/3485EBtPNPrdT6AiBRmnAF"
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 389920,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/1zm7N5ffTPjHQzNIQAdGq1"
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 256226,
       "name": "Grateful Heart",
       "url": "https://open.spotify.com/track/2o7aZHDBPxZtQO8EqRl7lJ"
@@ -1853,6 +1853,32 @@
     },
     {
       "album": {
+        "name": "Look What The Lord Has Done",
+        "url": "https://open.spotify.com/album/4nwrCIGItCekOhkEUyX2v7"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Matt Pelt",
+          "url": "https://open.spotify.com/artist/4Bq682UCIDpgtfgVpvxMwh"
+        },
+        {
+          "name": "Melody Noel",
+          "url": "https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264066,
+      "name": "Look What The Lord Has Done",
+      "url": "https://open.spotify.com/track/5NuR456SQe5Gic5qnsL48s"
+    },
+    {
+      "album": {
         "name": "Amazing Love",
         "url": "https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk"
       },
@@ -1922,7 +1948,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 233470,
       "name": "Mountain Top",
       "url": "https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue"
@@ -1994,7 +2020,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 217786,
       "name": "My Tribute",
       "url": "https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86"
@@ -2275,6 +2301,24 @@
     },
     {
       "album": {
+        "name": "Sons Of Sunday",
+        "url": "https://open.spotify.com/album/0uGwOI1g9VLHVZtaGh2X9w"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Sunday",
+          "url": "https://open.spotify.com/artist/4xdrIk3HcWXiRifZnnpG5O"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435322,
+      "name": "One More Day",
+      "url": "https://open.spotify.com/track/4WBlyFT7SIsAwkKSpmFeAB"
+    },
+    {
+      "album": {
         "name": "Down By The Old Mainstream",
         "url": "https://open.spotify.com/album/3JN6iTnWyTYFULRijpCtTY"
       },
@@ -2344,6 +2388,28 @@
       "duration_ms": 198745,
       "name": "Praise The Lord",
       "url": "https://open.spotify.com/track/5TkSbXGmy8bhMs4fxZ939Z"
+    },
+    {
+      "album": {
+        "name": "Remember Christ",
+        "url": "https://open.spotify.com/album/1Bt6HpkfPaNGpASQR3u4RZ"
+      },
+      "artists": [
+        {
+          "name": "CXMMXNS",
+          "url": "https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa"
+        },
+        {
+          "name": "David Ware",
+          "url": "https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190257,
+      "name": "Remember Christ",
+      "url": "https://open.spotify.com/track/6BuzWDphO9StRX45gLCCRf"
     },
     {
       "album": {
@@ -2420,6 +2486,50 @@
       "duration_ms": 197280,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM"
+    },
+    {
+      "album": {
+        "name": "So Much (MultiTracks Session)",
+        "url": "https://open.spotify.com/album/7Gut2BBkOjBJDDYaNEgFy4"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327180,
+      "name": "So Much - MultiTracks Session",
+      "url": "https://open.spotify.com/track/5WeGtzWzGwdMIIGL3n50Pg"
+    },
+    {
+      "album": {
+        "name": "So So Good (Live)",
+        "url": "https://open.spotify.com/album/37gaFi95mVqqxKOYVdyTv4"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288766,
+      "name": "So So Good - Live",
+      "url": "https://open.spotify.com/track/1NfkApXza2Stn80T8vBGOq"
     },
     {
       "album": {
@@ -2583,6 +2693,42 @@
     },
     {
       "album": {
+        "name": "Thank The Lord",
+        "url": "https://open.spotify.com/album/5W8f2P0TXfmMGruXVp4WBF"
+      },
+      "artists": [
+        {
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207706,
+      "name": "Thank The Lord",
+      "url": "https://open.spotify.com/track/48NixLE8O2z9G7VnFh2OVf"
+    },
+    {
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/2ocrwBpvEWwXfjL6eZdkk7"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/7bepx5i8LoFzHKinpEWuUM"
+    },
+    {
+      "album": {
         "name": "No Angel",
         "url": "https://open.spotify.com/album/5HC0K52InwrhTEd5zDPzRk"
       },
@@ -2612,7 +2758,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 144574,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/0l2Y3iQqgDqnuh7qn2tw7d"
@@ -2666,7 +2812,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 217626,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/5xXjFLdqsj0Jnb7GXduA99"
@@ -2720,7 +2866,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 280333,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW"
@@ -2840,10 +2986,28 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 511900,
       "name": "Thank You - Live",
       "url": "https://open.spotify.com/track/0LAqiyd9TaU0mpTH7VMvYl"
+    },
+    {
+      "album": {
+        "name": "Thank You (Live)",
+        "url": "https://open.spotify.com/album/15wpZmn1wOJmDyS3dymey4"
+      },
+      "artists": [
+        {
+          "name": "Mercy Culture Worship",
+          "url": "https://open.spotify.com/artist/7qbjOkkH57gPl41xfR8RuI"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 647154,
+      "name": "Thank You - Live",
+      "url": "https://open.spotify.com/track/5pctb5fQMqfncJqRRAMsRh"
     },
     {
       "album": {
@@ -2971,6 +3135,24 @@
     },
     {
       "album": {
+        "name": "Thank You Lord",
+        "url": "https://open.spotify.com/album/0BJntH21Xd65RJsLzlsipj"
+      },
+      "artists": [
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Thank You Lord",
+      "url": "https://open.spotify.com/track/5xPmU88ZnWOfPVFIlUogNk"
+    },
+    {
+      "album": {
         "name": "Covered: Alive In Asia (Deluxe Version)",
         "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
       },
@@ -3048,7 +3230,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 249173,
       "name": "Thank You So Much Jesus",
       "url": "https://open.spotify.com/track/4isb96lpcN6o7wJSnx4uHT"
@@ -3196,7 +3378,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 152973,
       "name": "Thankful (7.6.19)",
       "url": "https://open.spotify.com/track/6HBHeStTx6pT5rMuu3O1T1"
@@ -3660,7 +3842,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 250360,
       "name": "We Give Thanks (Psalm 107) - Live",
       "url": "https://open.spotify.com/track/2HHI1ZtuLVPP49CpegOLjU"
@@ -3690,7 +3872,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 335652,
       "name": "We Give You Thanks",
       "url": "https://open.spotify.com/track/7ophliTSArPbWKiydO5TRl"

@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-450 songs - 1 day 0 hr 7 min
+451 songs - 1 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Frikitona](https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g) | 2:54 | 2023-12-15 |  |
 | [Frikitona \- Odd Mob Remix](https://open.spotify.com/track/4VmJrlaQyNESNp5kAK7zIY) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Frikitona \(Odd Mob Remix\)](https://open.spotify.com/album/0tDuxbHaSqjfQrqCDYalHk) | 3:11 | 2024-03-29 | 2024-04-27 |
 | [Frisky In Fortaleza](https://open.spotify.com/track/6ImDe3MEJdeLRgw4hwqwYh) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Frisky In Fortaleza EP](https://open.spotify.com/album/3IO6R1UgxXAWK3lUuwGkof) | 3:37 | 2021-10-08 | 2022-07-29 |
-| [Fuego](https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Morry](https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u) | [Fuego](https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a) | 2:00 | 2024-05-31 |  |
+| [Fuego](https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Morry](https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u) | [Fuego](https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a) | 2:00 | 2024-05-31 | 2025-09-15 |
 | [Fuego](https://open.spotify.com/track/6BmDiFZKXXzlLppoWpInHL) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf) | [Fuego](https://open.spotify.com/album/4PszKzAqcqcRyZkwIDtCJP) | 2:37 | 2024-01-05 | 2024-03-04 |
 | [Fuego](https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Fuego](https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq) | 1:56 | 2023-11-10 |  |
 | [Get Me There](https://open.spotify.com/track/3Vibd3EowNEXVCLbp1nMKT) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Tiffy Vera](https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0) | [Get Me There](https://open.spotify.com/album/2hzVqM5sd94DRVzzMUjjFk) | 3:23 | 2025-02-28 | 2025-05-24 |
@@ -327,6 +327,7 @@
 | [Piquete Cabron](https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [Bray](https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn) | [Piquete Cabron](https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq) | 2:42 | 2024-06-21 |  |
 | [Pliva](https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Pliva](https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh) | 4:04 | 2023-11-17 |  |
 | [Polvito](https://open.spotify.com/track/7eqoRSVevSWWhw437jt8l2) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [Nano the DJ](https://open.spotify.com/artist/6NVb0deCyWyTK5arv4hqIr), [PRIMO](https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP) | [Polvito](https://open.spotify.com/album/6kAxRV8Fq3wVya05pagXsb) | 2:42 | 2024-06-28 | 2024-10-26 |
+| [Prendemos](https://open.spotify.com/track/3VjDXDQHo85S8h6hfniLmb) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Prendemos](https://open.spotify.com/album/6q8kuIR3wtqvmU8R2nbtDP) | 2:18 | 2025-09-12 |  |
 | [Pronosticos Cachito](https://open.spotify.com/track/3lBQvzsycvySqg739cOGew) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB) | [Pronosticos Cachito](https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e) | 4:00 | 2023-11-17 | 2024-04-26 |
 | [Puerto Rico](https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf) | [Landis](https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn) | [Puerto Rico](https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G) | 2:24 | 2021-10-08 | 2023-11-11 |
 | [Pártelo](https://open.spotify.com/track/7pAZFQZylCaA138Gort875) | [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Juany Bravo](https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm), [Ghetto Flow](https://open.spotify.com/artist/0ScfiVR0ZTtu9428PJS3LP) | [Pártelo](https://open.spotify.com/album/6kzkm05qMFnY2W0fxHYGEC) | 2:07 | 2025-04-11 | 2025-06-16 |

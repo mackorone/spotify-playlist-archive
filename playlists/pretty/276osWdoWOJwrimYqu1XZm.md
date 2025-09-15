@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/276osWdoWOJwrimYqu1XZm.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 128 songs - 13 hr 49 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 131 songs - 14 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,5 +136,8 @@ pretty - [cumulative](/playlists/cumulative/276osWdoWOJwrimYqu1XZm.md) - [plain]
 | 126 | [Demons And The Ghost \- Radio Edit](https://open.spotify.com/track/2fznqQyX4hKIcXlk4YOzNH) | [Blame The Mono](https://open.spotify.com/artist/22HdnwskoQ7Htj3pEMP5W7), [DLV](https://open.spotify.com/artist/7AkaRihy2hr1tjUXsjYK9x) | [Demons And The Ghost \(Radio Edit\)](https://open.spotify.com/album/55VnN6m1ub5FRVyLkS3u0d) | 3:01 |
 | 127 | [Let Out](https://open.spotify.com/track/3mZ2RvcTuBxe7O1y7EMl4d) | [In Verruf](https://open.spotify.com/artist/5EnbpUtGIk2qPzGgNE75m0) | [Sektion 1](https://open.spotify.com/album/37MyA9ZcBxHBwp0a2ti4CI) | 6:07 |
 | 128 | [Getrieben Von Der Bassline](https://open.spotify.com/track/73ipi4sxE1SeHysVkrdAb2) | [Blame The Mono](https://open.spotify.com/artist/22HdnwskoQ7Htj3pEMP5W7), [DLV](https://open.spotify.com/artist/7AkaRihy2hr1tjUXsjYK9x), [Palastoni](https://open.spotify.com/artist/28oa99VEqmiC6i2SzvMPiC) | [Demons And The Ghost \- EP](https://open.spotify.com/album/0v3KxI8YwAV8Tn5GjmDnMA) | 5:31 |
+| 129 | [Conflict](https://open.spotify.com/track/52NB4f71xepo93DrRtoFFk) | [Amstra](https://open.spotify.com/artist/22hoWqtS82DDN3jJqxjqH7) | [Kriptika records 004A](https://open.spotify.com/album/4Fq95fQ2Rj0Ygt09Tnga8t) | 5:17 |
+| 130 | [Anderswelt](https://open.spotify.com/track/42jTsCLNaBG2o9N01DPiI4) | [Roman Gehrecke](https://open.spotify.com/artist/7g2FnYwHfBBbE7YihQcG1O) | [Schutt und Asche](https://open.spotify.com/album/39idKqpFh8Ft41yM8tFgpv) | 5:58 |
+| 131 | [Trouble](https://open.spotify.com/track/3BWwcNKgJMf0Kpzij48Oj0) | [Amstra](https://open.spotify.com/artist/22hoWqtS82DDN3jJqxjqH7) | [Trouble](https://open.spotify.com/album/6wbkwZOtHOvaaNLn47dRNy) | 6:57 |
 
-Snapshot ID: `AAAAi5RFOp2uF4hSVRTmbtKjBewzxFL9`
+Snapshot ID: `AAAAjrFk7LBLw8jOX4I3tc3uSd30vRB6`

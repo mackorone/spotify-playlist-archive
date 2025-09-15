@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Lauren Daigle",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Josiah Queen",
   "name": "Top Contemporary Christian",
   "tracks": [
     {
@@ -468,7 +468,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 193170,
       "name": "Armor",
       "url": "https://open.spotify.com/track/1sYfBuCWTEeB7U120WXO9w"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 215074,
       "name": "As For Me And My House",
       "url": "https://open.spotify.com/track/7h5gGePVD30yqhh7WIu3lC"
@@ -660,7 +660,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 218437,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/0VCKzgBHVbEex7guaat0gq"
@@ -1293,6 +1293,24 @@
     },
     {
       "album": {
+        "name": "With The Lord",
+        "url": "https://open.spotify.com/album/6tZmvvwoShgjDj5GSKhChD"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209088,
+      "name": "Center of Attention",
+      "url": "https://open.spotify.com/track/7eYZ3TFfFExJrofkq5VtmX"
+    },
+    {
+      "album": {
         "name": "The Heavy. The Healing. The Holding.",
         "url": "https://open.spotify.com/album/7FTdPyA46usZd9MUzMWr8M"
       },
@@ -1597,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Days God Gave",
+        "url": "https://open.spotify.com/album/72PudhF4u5ROBYEekDjjHt"
+      },
+      "artists": [
+        {
+          "name": "Matt Hammitt",
+          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189986,
+      "name": "Days God Gave",
+      "url": "https://open.spotify.com/track/3rjJSnrmEtZTEr9AdRoMfZ"
+    },
+    {
+      "album": {
         "name": "Deeper Still",
         "url": "https://open.spotify.com/album/0WXGgsKvFy2eCWwDr6i1TB"
       },
@@ -1810,10 +1846,28 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 204983,
       "name": "Dopamine and Jesus",
       "url": "https://open.spotify.com/track/4iVq3rMJb1QnJXFoSphDy7"
+    },
+    {
+      "album": {
+        "name": "Mt. Zion",
+        "url": "https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190266,
+      "name": "Dusty Bibles",
+      "url": "https://open.spotify.com/track/1GvJ35amuk7oGjcnoYSKFA"
     },
     {
       "album": {
@@ -2056,6 +2110,28 @@
       "duration_ms": 264386,
       "name": "Fall On Me (feat. Carly Pearce)",
       "url": "https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF"
+    },
+    {
+      "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170911,
+      "name": "Familia",
+      "url": "https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn"
     },
     {
       "album": {
@@ -3601,6 +3677,24 @@
     },
     {
       "album": {
+        "name": "Hated",
+        "url": "https://open.spotify.com/album/2SkFP9diCvojn8atSZueTM"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186285,
+      "name": "Hated",
+      "url": "https://open.spotify.com/track/1B1DAOmwUSKYchg0gfJhrP"
+    },
+    {
+      "album": {
         "name": "Mercy & Me",
         "url": "https://open.spotify.com/album/2PTWD2o2rCDUhiNynCXTRb"
       },
@@ -3616,6 +3710,24 @@
       "duration_ms": 201243,
       "name": "Have Church",
       "url": "https://open.spotify.com/track/0JluplHZMaZqlutmFMUXKp"
+    },
+    {
+      "album": {
+        "name": "Honest Conversations",
+        "url": "https://open.spotify.com/album/3qGiq0le8CJHSjclrv7TW0"
+      },
+      "artists": [
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182597,
+      "name": "Have Your Way",
+      "url": "https://open.spotify.com/track/27wpOVposNwYnFAQ8c4mSo"
     },
     {
       "album": {
@@ -3952,6 +4064,28 @@
       "duration_ms": 186213,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/6uGKLZ6z8ogdfDRDwOReTf"
+    },
+    {
+      "album": {
+        "name": "Hindsight (feat. Colton Dixon)",
+        "url": "https://open.spotify.com/album/3K3FmjEj41lyJN3QQmGGxg"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        },
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154440,
+      "name": "Hindsight (feat. Colton Dixon)",
+      "url": "https://open.spotify.com/track/7xRoXeHKkvDji3gXGUuSUN"
     },
     {
       "album": {
@@ -4584,7 +4718,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 231039,
       "name": "I Made It",
       "url": "https://open.spotify.com/track/3HrFG2EttmPaatFspolS8c"
@@ -4862,6 +4996,24 @@
       "duration_ms": 175090,
       "name": "I'm So Blessed - Aaron Cole Mix",
       "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
+    },
+    {
+      "album": {
+        "name": "I've Got A Fire",
+        "url": "https://open.spotify.com/album/2oGldW4w8iBH7mRAvNIWwk"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197250,
+      "name": "I've Got A Fire",
+      "url": "https://open.spotify.com/track/6yj2intfyAz3JhxaZvEjim"
     },
     {
       "album": {
@@ -5321,6 +5473,28 @@
     },
     {
       "album": {
+        "name": "Jesus Lifted Me",
+        "url": "https://open.spotify.com/album/1hGHh1A0wEKM7hGDr4c4kD"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233689,
+      "name": "Jesus Lifted Me",
+      "url": "https://open.spotify.com/track/2YnBRumwub642xD4ZbmziP"
+    },
+    {
+      "album": {
         "name": "Jesus Loves",
         "url": "https://open.spotify.com/album/2a5kK7pL7IeyfEnNnDrs9i"
       },
@@ -5480,7 +5654,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 243166,
       "name": "Killed A Man",
       "url": "https://open.spotify.com/track/14J76SoPwOr0LipzczmVCW"
@@ -7150,7 +7324,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 273402,
       "name": "ONE OF A KIND",
       "url": "https://open.spotify.com/track/0JgVTB2jPyfLXZxEBdMPeO"
@@ -8182,7 +8356,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 181625,
       "name": "Runs Deep",
       "url": "https://open.spotify.com/track/5LMPzktMwPp1cslz5Cnxqp"
@@ -8859,6 +9033,24 @@
     },
     {
       "album": {
+        "name": "Still Pretty Good",
+        "url": "https://open.spotify.com/album/3S9oxeOacDh2vxRdNlR4rK"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212273,
+      "name": "Still Pretty Good",
+      "url": "https://open.spotify.com/track/1kW3QRFTnynPSNDdAv9DxJ"
+    },
+    {
+      "album": {
         "name": "Still Standing",
         "url": "https://open.spotify.com/album/4dm87zKKSWl09tAY3v6dcn"
       },
@@ -9056,7 +9248,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 182921,
       "name": "Take It From Me",
       "url": "https://open.spotify.com/track/3KHXU5g2OazK66V9ZKxQiO"
@@ -10131,6 +10323,24 @@
     },
     {
       "album": {
+        "name": "Don't Stop Praying (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5pNkcbwAJrjjKwmvjdRdkT"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218137,
+      "name": "To Be With Jesus (Piano Version)",
+      "url": "https://open.spotify.com/track/6WPrFvnp5odSwESUybeaHv"
+    },
+    {
+      "album": {
         "name": "To Move Your Heart",
         "url": "https://open.spotify.com/album/1pqsyIydGa5dnxp8npesZg"
       },
@@ -10308,7 +10518,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 221276,
       "name": "Unashamed",
       "url": "https://open.spotify.com/track/2LpNhfhJcn1C2Hta8YQmLV"
@@ -10528,7 +10738,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 237758,
       "name": "We Praise You",
       "url": "https://open.spotify.com/track/3hV0y1xVtdmVW6XKmuUPyC"
@@ -10724,7 +10934,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 205349,
       "name": "When I Fall",
       "url": "https://open.spotify.com/track/275IgKeEgdEQV5MCJkIC26"
@@ -10760,7 +10970,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 234857,
       "name": "When I Meet Jesus",
       "url": "https://open.spotify.com/track/7AqYCTyrIRiXs0lgSVbLKy"
@@ -10822,7 +11032,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 277000,
       "name": "Where Can I Go - Psalm 139",
       "url": "https://open.spotify.com/track/759M03NuO9GCcWNRbZlWOL"
@@ -10927,6 +11137,24 @@
     },
     {
       "album": {
+        "name": "Far Country",
+        "url": "https://open.spotify.com/album/27jThL2BVBZJHQSAubMwms"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Wherever I Go",
+      "url": "https://open.spotify.com/track/1JT7bhp6nftlHdW8bKWIwj"
+    },
+    {
+      "album": {
         "name": "While I Can",
         "url": "https://open.spotify.com/album/6CA3wQ1FPOU52vhvWYgJGV"
       },
@@ -10974,7 +11202,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 197652,
       "name": "whisper and the wind",
       "url": "https://open.spotify.com/track/2FmLCb7nZpqLFmVMW8ALt3"
@@ -11372,7 +11600,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 202333,
       "name": "Yesterday, Today, & Tomorrow",
       "url": "https://open.spotify.com/track/1LJsJnjyc4TvEhNNzfS5Vb"
@@ -11390,7 +11618,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 198774,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/2SKn74eH7TukmmWCIRrrPp"

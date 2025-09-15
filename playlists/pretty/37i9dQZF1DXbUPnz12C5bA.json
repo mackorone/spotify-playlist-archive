@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 154425,
+  "num_followers": 154501,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Pa Que Te Enamores",
-        "url": "https://open.spotify.com/album/0zYbs9xZl8BpKXjv74GeJM"
+        "name": "A Paso Firme",
+        "url": "https://open.spotify.com/album/5LlXqtODmWEDCoLL6cfkSs"
       },
       "artists": [
         {
-          "name": "Ivan Villazon",
-          "url": "https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7"
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
         },
         {
-          "name": "Ivan Zuleta",
-          "url": "https://open.spotify.com/artist/5EaL3CfK7WVRU5pCzUt35B"
+          "name": "Zabaleta",
+          "url": "https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU"
         }
       ],
-      "duration_ms": 277573,
-      "name": "Tu Olvido",
-      "url": "https://open.spotify.com/track/3YwtXX7xtSvQSVMzwc1PUP"
+      "duration_ms": 279613,
+      "name": "Lo Tienes Todo",
+      "url": "https://open.spotify.com/track/30VdvTsDJt103vPvhWur7z"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -291,8 +291,28 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "A Paso Firme",
-        "url": "https://open.spotify.com/album/5LlXqtODmWEDCoLL6cfkSs"
+        "name": "Pa Que Te Enamores",
+        "url": "https://open.spotify.com/album/0zYbs9xZl8BpKXjv74GeJM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Villazon",
+          "url": "https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7"
+        },
+        {
+          "name": "Ivan Zuleta",
+          "url": "https://open.spotify.com/artist/5EaL3CfK7WVRU5pCzUt35B"
+        }
+      ],
+      "duration_ms": 277573,
+      "name": "Tu Olvido",
+      "url": "https://open.spotify.com/track/3YwtXX7xtSvQSVMzwc1PUP"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp"
       },
       "artists": [
         {
@@ -300,33 +320,13 @@
           "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
         },
         {
-          "name": "Zabaleta",
-          "url": "https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU"
+          "name": "Manuel Juli\u00e1n",
+          "url": "https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC"
         }
       ],
-      "duration_ms": 279613,
-      "name": "Lo Tienes Todo",
-      "url": "https://open.spotify.com/track/30VdvTsDJt103vPvhWur7z"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "Coleccion Top 50",
-        "url": "https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY"
-      },
-      "artists": [
-        {
-          "name": "Jorge O\u00f1ate",
-          "url": "https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG"
-        },
-        {
-          "name": "\u00c1lvaro L\u00f3pez",
-          "url": "https://open.spotify.com/artist/5sjNYuS0jubMekjJ5T56AG"
-        }
-      ],
-      "duration_ms": 282920,
-      "name": "No Comprendi Tu Amor",
-      "url": "https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z"
+      "duration_ms": 249560,
+      "name": "Mi Celosa Hermosa",
+      "url": "https://open.spotify.com/track/2qBYoUdefV0JufBpNCGor1"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -391,22 +391,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp"
+        "name": "Coleccion Top 50",
+        "url": "https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY"
       },
       "artists": [
         {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+          "name": "Jorge O\u00f1ate",
+          "url": "https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG"
         },
         {
-          "name": "Manuel Juli\u00e1n",
-          "url": "https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC"
+          "name": "\u00c1lvaro L\u00f3pez",
+          "url": "https://open.spotify.com/artist/5sjNYuS0jubMekjJ5T56AG"
         }
       ],
-      "duration_ms": 249560,
-      "name": "Mi Celosa Hermosa",
-      "url": "https://open.spotify.com/track/2qBYoUdefV0JufBpNCGor1"
+      "duration_ms": 282920,
+      "name": "No Comprendi Tu Amor",
+      "url": "https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -803,6 +803,38 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Manuel",
+          "url": "https://open.spotify.com/artist/1XLwJzZGjXyXjIz9s11R4Z"
+        }
+      ],
+      "duration_ms": 300666,
+      "name": "Directo al coraz\u00f3n",
+      "url": "https://open.spotify.com/track/13RzmI1NWQyyOIGh02egTP"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 298986,
+      "name": "Quiero Que Seas Mi Estrella",
+      "url": "https://open.spotify.com/track/1BId2hCYqsaajdDYbwZc1p"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
         "name": "Alto Voltaje",
         "url": "https://open.spotify.com/album/3XrDzVJBrwbiwJ0uBZQIEB"
       },
@@ -819,38 +851,6 @@
       "duration_ms": 246726,
       "name": "Infiel",
       "url": "https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/3sMUVwOyhOuQYFmpHfzBZn"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Manuel",
-          "url": "https://open.spotify.com/artist/1XLwJzZGjXyXjIz9s11R4Z"
-        }
-      ],
-      "duration_ms": 300666,
-      "name": "Directo al coraz\u00f3n",
-      "url": "https://open.spotify.com/track/13RzmI1NWQyyOIGh02egTP"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -880,35 +880,31 @@
           "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 283853,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/3w3qhkJcjCPmJuNQH6Nrt0"
+      "duration_ms": 283786,
+      "name": "Que No Me Faltes Tu",
+      "url": "https://open.spotify.com/track/1lMWIocgDgDRBmYQnoTi44"
     },
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Volando Alto",
-        "url": "https://open.spotify.com/album/2Da7oQa7i1njcO3VXjL6bl"
+        "name": "Grandes \u00c9xitos - Luis Mateus y David Rend\u00f3n",
+        "url": "https://open.spotify.com/album/7nfMoMwDa68qYPOKjjM7tU"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
         }
       ],
-      "duration_ms": 280783,
-      "name": "Un Solo Cuerpo",
-      "url": "https://open.spotify.com/track/6nF6pFyr9m8x6Fc3Dz57Hk"
+      "duration_ms": 259015,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/5aRkqvho3gUvxrljEbpnTT"
     },
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "A Su Gusto",
-        "url": "https://open.spotify.com/album/6NyPshDTRFdloia9LlLZW4"
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
       },
       "artists": [
         {
@@ -916,9 +912,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 276413,
-      "name": "Volvio El Dolor",
-      "url": "https://open.spotify.com/track/0Hherx8M8jlKSB3Rr2iz2N"
+      "duration_ms": 308040,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/3sMUVwOyhOuQYFmpHfzBZn"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Vallenato",

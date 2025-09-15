@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,148 likes - 276 songs - 14 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,150 likes - 276 songs - 14 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 137 | [Lady](https://open.spotify.com/track/1YJFNPGWi5jErLPgGZKuSv) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Rake It In: The Greatestest Hits](https://open.spotify.com/album/1PI3JjctHVS3Z1WyXwCuvI) | 2:22 |
 | 138 | [I Won't Be](https://open.spotify.com/track/6PYPAsGS9m3G3VIj2Tq4hy) | [The Queers](https://open.spotify.com/artist/1kRABJWDxSnOJFteI351V6) | [Love Songs For the Retarded](https://open.spotify.com/album/7cirEMVoNE7n6FOgqk9rzZ) | 2:07 |
 | 139 | [Screaming and Yelling](https://open.spotify.com/track/2oM2lFz3AscyEWb3aT5nj0) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 1:16 |
-| 140 | [Directions](https://open.spotify.com/track/0FkpcNnT38YM9NLRVjLWvv) | [Illskillz](https://open.spotify.com/artist/2uPLrf6Eg6PENCm0l1uSg7) | [Sick Music 2](https://open.spotify.com/album/7fsWT3eJkTw46541pYLC7g) | 6:20 |
-| 141 | [I Can't Stop Talking about You](https://open.spotify.com/track/1S3HwyddiVAR18ZYOqxRZ8) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [The Greatest Hits Vol\. 2](https://open.spotify.com/album/4hKXMzhgsG1YMUMBHTEEB8) | 2:07 |
+| 140 | [I Can't Stop Talking about You](https://open.spotify.com/track/1S3HwyddiVAR18ZYOqxRZ8) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [The Greatest Hits Vol\. 2](https://open.spotify.com/album/4hKXMzhgsG1YMUMBHTEEB8) | 2:07 |
+| 141 | [Directions](https://open.spotify.com/track/0FkpcNnT38YM9NLRVjLWvv) | [Illskillz](https://open.spotify.com/artist/2uPLrf6Eg6PENCm0l1uSg7) | [Sick Music 2](https://open.spotify.com/album/7fsWT3eJkTw46541pYLC7g) | 6:20 |
 | 142 | [Raspberry Jam](https://open.spotify.com/track/4MeARHhXvNJ2hhbkTSj7O3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 4:34 |
 | 143 | [What Have You Got to Lose](https://open.spotify.com/track/75TZ0xBZiHI09OHm3fu9JR) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:30 |
 | 144 | [Down Home](https://open.spotify.com/track/53VcK1ZiDZ2C3LI7u5JRlZ) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Nelson Sings For You](https://open.spotify.com/album/3mendizPjqVORmu6mBQIDV) | 2:44 |
@@ -274,8 +274,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 264 | [Golden Days](https://open.spotify.com/track/7jcInqhfBalnzBRfozpvbJ) | [Kathy Kirby](https://open.spotify.com/artist/1kVx0f62SrfKxKIzXJtTUf) | [The Best Of The EMI Years](https://open.spotify.com/album/4IgZkMxuTkMXiaa6Nq9IJw) | 2:59 |
 | 265 | [Free As The Wind](https://open.spotify.com/track/6EGp2ibu1erSO4KdrkgcAd) | [Susan & The Surftones](https://open.spotify.com/artist/1VUnCTjMfvEyUvg2CVx3JE) | [Fluid Drive](https://open.spotify.com/album/6gFsi025x9kfLWZFbmn5sd) | 3:19 |
 | 266 | [Heartbreaker](https://open.spotify.com/track/1yYfpshvncxodfCWjFsgbn) | [Gerald Brown](https://open.spotify.com/artist/0UBFE9knxbTF9bopaqiTqh) | [I\-35 Corridor: Rock, Blues, 80's, R&B and Funk Compilation](https://open.spotify.com/album/1IomGUBY624tyBMSOGsSri) | 4:04 |
-| 267 | [Soul Waltzing](https://open.spotify.com/track/0eqSSVFpBzjziDwLgAjoIR) | [Big Dee Irwin](https://open.spotify.com/artist/266kUpRv0Ukfh9bKq8HGGa) | [Another Night With Big Dee Irwin: The Complete Dimension Recordings And More](https://open.spotify.com/album/6P1NRF6amZAXo77GG1tniN) | 2:24 |
-| 268 | [Everybody Go Home](https://open.spotify.com/track/6LqAZzYb3mY0rqotiIeJTS) | [Alison Lewis](https://open.spotify.com/artist/3zsi1T1OHInajubA5nldu9) | [Everybody Go Home](https://open.spotify.com/album/6zNQI5woCX6uRlJtAK3CuF) | 3:25 |
+| 267 | [Everybody Go Home](https://open.spotify.com/track/6LqAZzYb3mY0rqotiIeJTS) | [Alison Lewis](https://open.spotify.com/artist/3zsi1T1OHInajubA5nldu9) | [Everybody Go Home](https://open.spotify.com/album/6zNQI5woCX6uRlJtAK3CuF) | 3:25 |
+| 268 | [Soul Waltzing](https://open.spotify.com/track/0eqSSVFpBzjziDwLgAjoIR) | [Big Dee Irwin](https://open.spotify.com/artist/266kUpRv0Ukfh9bKq8HGGa) | [Another Night With Big Dee Irwin: The Complete Dimension Recordings And More](https://open.spotify.com/album/6P1NRF6amZAXo77GG1tniN) | 2:24 |
 | 269 | [Whiskey](https://open.spotify.com/track/0Z7bBhS39A2459ujdt932i) | [Sally Vaughn](https://open.spotify.com/artist/4tizy2wQXCYajjMBtvCVGw) | [The Way I Am](https://open.spotify.com/album/0EqNztOIi5w91HOUgincFu) | 2:52 |
 | 270 | [Hula Hoppin'](https://open.spotify.com/track/3pS2GQh9TxauUYkVhq2K2s) | [Idalia Boyd](https://open.spotify.com/artist/6k9rCzG2VKiUp8OgoXUpUW) | [Girl Group Rock](https://open.spotify.com/album/3L3RcUhkBmuGRZLHwbe3Ji) | 2:32 |
 | 271 | [Brand New Man](https://open.spotify.com/track/2TRTsXcV9EMqLg8BlH8zw0) | [Marvin King and the Blues Revival Band](https://open.spotify.com/artist/30joDii6xGsFJI4fdbgexZ), [Marcus Lee King](https://open.spotify.com/artist/3F6BAyA3BxoSmHS1PuLfQ9) | [Huge in Europe \(feat\. Marcus Lee King\)](https://open.spotify.com/album/1LKm2CQtNgb30rW7GA7Lms) | 5:50 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 275 | [It's A Crazy Afternoon](https://open.spotify.com/track/3HR8V9vdhRYdRXg9dlGRQw) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [Something's Burning](https://open.spotify.com/album/4DVJF6FAjpGPMMWJroujUX) | 1:57 |
 | 276 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `Ab8JfAAAAAARt8KYPcoQoY/kCGE1/HaT`
+Snapshot ID: `Ab8PCAAAAABP5VfcyxYikP6il1ngjYEJ`

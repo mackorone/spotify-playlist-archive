@@ -199,22 +199,6 @@
     {
       "added_at": "2025-08-01 04:00:51",
       "album": {
-        "name": "Formula One",
-        "url": "https://open.spotify.com/album/2BEaUNZ7RqGaXI4V599GvI"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 185179,
-      "name": "Formula One",
-      "url": "https://open.spotify.com/track/41wEwoDCdrSPBHYJShUi8t"
-    },
-    {
-      "added_at": "2025-08-01 04:00:51",
-      "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 224920,
       "name": "Fin de Semana",
       "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
+    },
+    {
+      "added_at": "2025-08-01 04:00:51",
+      "album": {
+        "name": "Formula One",
+        "url": "https://open.spotify.com/album/2BEaUNZ7RqGaXI4V599GvI"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 185179,
+      "name": "Formula One",
+      "url": "https://open.spotify.com/track/41wEwoDCdrSPBHYJShUi8t"
     },
     {
       "added_at": "2025-08-01 04:00:51",
@@ -1191,22 +1191,18 @@
     {
       "added_at": "2025-08-01 04:00:51",
       "album": {
-        "name": "Cielo Eterno - Spotify Singles",
-        "url": "https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme"
+        "name": "Como En Los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 244245,
-      "name": "Cielo Eterno",
-      "url": "https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q"
+      "duration_ms": 245250,
+      "name": "Como En Los Viejos Tiempos",
+      "url": "https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq"
     },
     {
       "added_at": "2025-08-01 04:00:51",
@@ -1227,18 +1223,22 @@
     {
       "added_at": "2025-08-01 04:00:51",
       "album": {
-        "name": "Como En Los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P"
+        "name": "Cielo Eterno - Spotify Singles",
+        "url": "https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 245250,
-      "name": "Como En Los Viejos Tiempos",
-      "url": "https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq"
+      "duration_ms": 244245,
+      "name": "Cielo Eterno",
+      "url": "https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q"
     },
     {
       "added_at": "2025-08-01 04:00:51",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-08-01 04:00:51",
       "album": {
+        "name": "Aqui Voy",
+        "url": "https://open.spotify.com/album/6tQC4IL4LPhYP2iXvgCt6F"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 242232,
+      "name": "Aqui Voy",
+      "url": "https://open.spotify.com/track/5kJRw7qC03YRRAUo6An5AO"
+    },
+    {
+      "added_at": "2025-08-01 04:00:51",
+      "album": {
         "name": "CONMIGO",
         "url": "https://open.spotify.com/album/13JzpgNLqea7qVEGRoSiDh"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 175818,
       "name": "CONMIGO",
       "url": "https://open.spotify.com/track/4tqTjLWSw4Tw8cMDeZ7f8t"
-    },
-    {
-      "added_at": "2025-08-01 04:00:51",
-      "album": {
-        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
-      },
-      "artists": [
-        {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
-        }
-      ],
-      "duration_ms": 182073,
-      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
     },
     {
       "added_at": "2025-08-01 04:00:51",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2025-08-01 04:00:51",
       "album": {
+        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 182073,
+      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
+    },
+    {
+      "added_at": "2025-08-01 04:00:51",
+      "album": {
         "name": "Redenci\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
       },
@@ -1431,38 +1447,6 @@
       "duration_ms": 160185,
       "name": "Ni Con Patrulla",
       "url": "https://open.spotify.com/track/5KsUOwCSFIKKBsBxyCfgnS"
-    },
-    {
-      "added_at": "2025-08-01 04:00:51",
-      "album": {
-        "name": "Aqui Voy",
-        "url": "https://open.spotify.com/album/6tQC4IL4LPhYP2iXvgCt6F"
-      },
-      "artists": [
-        {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
-        }
-      ],
-      "duration_ms": 242232,
-      "name": "Aqui Voy",
-      "url": "https://open.spotify.com/track/5kJRw7qC03YRRAUo6An5AO"
-    },
-    {
-      "added_at": "2025-08-01 04:00:51",
-      "album": {
-        "name": "Peda en la Banqueta",
-        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
-      },
-      "artists": [
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 185173,
-      "name": "Ya Te Supere - En Vivo",
-      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
     },
     {
       "added_at": "2025-08-01 04:00:51",
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2025-08-01 04:00:51",
       "album": {
+        "name": "Peda en la Banqueta",
+        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 185173,
+      "name": "Ya Te Supere - En Vivo",
+      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
+    },
+    {
+      "added_at": "2025-08-01 04:00:51",
+      "album": {
         "name": "0 Sentimientos",
         "url": "https://open.spotify.com/album/6Fa9qyvlQcFL1G8h96ZcTi"
       },
@@ -1499,6 +1499,22 @@
       "duration_ms": 195334,
       "name": "0 Sentimientos",
       "url": "https://open.spotify.com/track/3KFej6pGPI0yVV04oxRFf8"
+    },
+    {
+      "added_at": "2025-08-01 04:00:51",
+      "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 177058,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
     },
     {
       "added_at": "2025-08-01 04:00:51",
@@ -1523,38 +1539,6 @@
     {
       "added_at": "2025-08-01 04:00:51",
       "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 177058,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
-    },
-    {
-      "added_at": "2025-08-01 04:00:51",
-      "album": {
-        "name": "PENSANDO Y PENSANDO",
-        "url": "https://open.spotify.com/album/6ImDSXC8NMv7gdwNIuXtMO"
-      },
-      "artists": [
-        {
-          "name": "Armenta",
-          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "PENSANDO Y PENSANDO",
-      "url": "https://open.spotify.com/track/7dVY5BkyRtWQM3I3Mnog3k"
-    },
-    {
-      "added_at": "2025-08-01 04:00:51",
-      "album": {
         "name": "Amor Eterno",
         "url": "https://open.spotify.com/album/1kr2ajwgiK7Evj83Q6WLyB"
       },
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2025-08-01 04:00:51",
       "album": {
-        "name": "Quiero Presumirte",
-        "url": "https://open.spotify.com/album/3X7xLaoYlXGMViA8dpa9DJ"
+        "name": "PENSANDO Y PENSANDO",
+        "url": "https://open.spotify.com/album/6ImDSXC8NMv7gdwNIuXtMO"
       },
       "artists": [
         {
-          "name": "Picassoo",
-          "url": "https://open.spotify.com/artist/09d1lCanP0TEHpTMpApqja"
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
         }
       ],
-      "duration_ms": 242227,
-      "name": "Quiero Presumirte",
-      "url": "https://open.spotify.com/track/6soqRrsiWygH5gSzTCHbDl"
+      "duration_ms": 206210,
+      "name": "PENSANDO Y PENSANDO",
+      "url": "https://open.spotify.com/track/7dVY5BkyRtWQM3I3Mnog3k"
     },
     {
       "added_at": "2025-08-01 04:00:51",
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2025-08-01 04:00:51",
       "album": {
+        "name": "Quiero Presumirte",
+        "url": "https://open.spotify.com/album/3X7xLaoYlXGMViA8dpa9DJ"
+      },
+      "artists": [
+        {
+          "name": "Picassoo",
+          "url": "https://open.spotify.com/artist/09d1lCanP0TEHpTMpApqja"
+        }
+      ],
+      "duration_ms": 242227,
+      "name": "Quiero Presumirte",
+      "url": "https://open.spotify.com/track/6soqRrsiWygH5gSzTCHbDl"
+    },
+    {
+      "added_at": "2025-08-01 04:00:51",
+      "album": {
         "name": "THE GB",
         "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
       },
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2025-08-01 04:00:51",
       "album": {
+        "name": "Sin Rumbo",
+        "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Garcia",
+          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
+        }
+      ],
+      "duration_ms": 203606,
+      "name": "PLAYBOY",
+      "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
+    },
+    {
+      "added_at": "2025-08-01 04:00:51",
+      "album": {
         "name": "Parque de Diversiones",
         "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 209358,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY"
-    },
-    {
-      "added_at": "2025-08-01 04:00:51",
-      "album": {
-        "name": "Sin Rumbo",
-        "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
-      },
-      "artists": [
-        {
-          "name": "Daniel Garcia",
-          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
-        }
-      ],
-      "duration_ms": 203606,
-      "name": "PLAYBOY",
-      "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
     },
     {
       "added_at": "2025-08-01 04:00:51",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2025-08-01 04:00:51",
       "album": {
-        "name": "LA BATUTA",
-        "url": "https://open.spotify.com/album/1E87bPdkmorxfpyA2QrrIb"
-      },
-      "artists": [
-        {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
-        }
-      ],
-      "duration_ms": 173712,
-      "name": "LA BATUTA",
-      "url": "https://open.spotify.com/track/48YNlQDqghyn4zwMOSCahp"
-    },
-    {
-      "added_at": "2025-08-01 04:00:51",
-      "album": {
         "name": "B\u00e9lico y Cholo",
         "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 202218,
       "name": "B\u00e9lico y Cholo",
       "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
+    },
+    {
+      "added_at": "2025-08-01 04:00:51",
+      "album": {
+        "name": "LA BATUTA",
+        "url": "https://open.spotify.com/album/1E87bPdkmorxfpyA2QrrIb"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "duration_ms": 173712,
+      "name": "LA BATUTA",
+      "url": "https://open.spotify.com/track/48YNlQDqghyn4zwMOSCahp"
     },
     {
       "added_at": "2025-08-01 04:00:51",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2025-08-01 04:00:51",
       "album": {
-        "name": "Demasiado Tarde",
-        "url": "https://open.spotify.com/album/56kTxnxogCqBKbGmPMZkHH"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 132536,
-      "name": "Demasiado Tarde",
-      "url": "https://open.spotify.com/track/2v9qicGSoOgaa9lz5djEze"
-    },
-    {
-      "added_at": "2025-08-01 04:00:51",
-      "album": {
         "name": "Ebrio de Amor",
         "url": "https://open.spotify.com/album/5hMXEiyUTFXqlK5VdSb21l"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 125490,
       "name": "Ebrio de Amor",
       "url": "https://open.spotify.com/track/63hJExblfUaDnJMZpRGhto"
+    },
+    {
+      "added_at": "2025-08-01 04:00:51",
+      "album": {
+        "name": "Demasiado Tarde",
+        "url": "https://open.spotify.com/album/56kTxnxogCqBKbGmPMZkHH"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 132536,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/2v9qicGSoOgaa9lz5djEze"
     },
     {
       "added_at": "2025-08-01 04:00:51",

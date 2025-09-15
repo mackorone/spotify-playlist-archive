@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Matheus Vargas
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,046 likes - 69 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,086 likes - 69 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

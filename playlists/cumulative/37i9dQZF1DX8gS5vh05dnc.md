@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-383 songs - 20 hr 25 min
+385 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [butterfly](https://open.spotify.com/track/2MA293TkgkhpCXjF9B5b2h) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [Shoi](https://open.spotify.com/artist/4K30q4KklfsA9oHxwkXa4x) | [butterfly](https://open.spotify.com/album/1amQciKTNw1gSAEWzBlkbJ) | 2:31 | 2024-04-22 | 2024-04-29 |
 | [buttons](https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [buttons](https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK) | 2:07 | 2024-10-28 | 2025-05-17 |
 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 | 2022-06-06 | 2022-07-29 |
-| [can't slow down](https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [can't slow down](https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK) | 2:55 | 2024-06-03 |  |
+| [can't slow down](https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [can't slow down](https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK) | 2:55 | 2024-06-03 | 2025-09-15 |
 | [Catwalk](https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Chalawan Sound](https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go) | 4:11 | 2023-08-28 | 2023-09-05 |
 | [Chandelier](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 3:36 | 2022-07-25 | 2024-04-19 |
 | [Chandelier](https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:36 | 2024-04-08 |  |
@@ -87,6 +87,7 @@
 | [Crush!](https://open.spotify.com/track/6lZrMteR4f7nHrNW4ot3H1) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Crush!](https://open.spotify.com/album/0clcYq3eLhpPzTF4TCp8XB) | 2:08 | 2023-12-04 | 2023-12-14 |
 | [Ctrl + Esc](https://open.spotify.com/track/5pH3quHteOINNWgxAJeWUO) | [Project Orange](https://open.spotify.com/artist/49hXOL1GCkpxGUVNtV4ke8) | [Ctrl + Esc](https://open.spotify.com/album/0w2b2v1VW3OdwbGc35Mxlo) | 3:18 | 2022-06-06 | 2022-07-28 |
 | [Cups \(Pitch Perfect’s “When I’m Gone”\) \- Pop Version](https://open.spotify.com/track/6mH3qVIeOsnQIAho5eWwhH) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 2:08 | 2024-04-08 | 2024-04-19 |
+| [Daisy](https://open.spotify.com/track/4nGH9TgCC3Ebz3WzOGdrgs) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Daisy](https://open.spotify.com/album/2ex1SdB7QepUqe5bqCWhPI) | 2:44 | 2025-09-14 |  |
 | [Dance With My Mistakes](https://open.spotify.com/track/7jd9wJQLGgaXPjPXPJiiMB) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Dance With My Mistakes](https://open.spotify.com/album/6dHu65n9dIQZyXaFtaSehO) | 2:57 | 2025-04-07 | 2025-04-14 |
 | [dandelions](https://open.spotify.com/track/692Q0Ry0X0BV1C9XhORcVF) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [dandelions](https://open.spotify.com/album/4yWnb5waN424BvaVNA7N50) | 3:12 | 2025-07-20 | 2025-07-28 |
 | [Dang! \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:05 | 2022-07-25 | 2024-04-19 |
@@ -178,7 +179,7 @@
 | [It Takes Two](https://open.spotify.com/track/7lR4o63cpYr8zY3nBEPead) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [It Takes Two](https://open.spotify.com/album/314mIakb1sF5Lfl23kmibT) | 2:39 | 2022-06-06 | 2022-07-29 |
 | [IT’S COMPLICATED!](https://open.spotify.com/track/3hpvMehmJJTsEKfld0hi8X) | [Timmy Albert](https://open.spotify.com/artist/4acGozsQZscrP4YKMg2Xwn) | [IT’S COMPLICATED!](https://open.spotify.com/album/7r6vYoLLh9Ix4X6MjZQzyU) | 2:59 | 2023-06-05 | 2023-06-20 |
 | [Jenny](https://open.spotify.com/track/2wBWnLzt1RKMwEFjraNXXK) | [Goodmorning Pancake](https://open.spotify.com/artist/7Bezyy4h6Ftw2pjtq8NcbE) | [Jenny](https://open.spotify.com/album/1vKTtL98SYXOK8fxTS5N2X) | 3:09 | 2022-08-22 | 2022-08-30 |
-| [Jet Black \(feat\. Brandy\)](https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:28 | 2024-04-08 |  |
+| [Jet Black \(feat\. Brandy\)](https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:28 | 2024-04-08 | 2025-09-15 |
 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 | 2022-07-25 | 2024-04-19 |
 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 | 2022-07-25 |  |
 | [kaleidoscope](https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [kaleidoscope](https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy) | 3:05 | 2022-08-08 | 2022-08-16 |
@@ -311,6 +312,7 @@
 | [so good](https://open.spotify.com/track/5viDyBHBnJHCF1XTcROFkF) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [so good](https://open.spotify.com/album/37KP5nrRhwvBAD8QDqMYWe) | 2:31 | 2022-06-06 | 2022-07-29 |
 | [Sober](https://open.spotify.com/track/7gEVqV2uGyP34Mklu7jYr5) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Sober](https://open.spotify.com/album/3Uk1j4TxLk0ylBR4k8icmp) | 3:45 | 2023-01-23 | 2023-02-01 |
 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-04-03 | 2023-07-18 |
+| [some days](https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [some days](https://open.spotify.com/album/1UbgSoMftakwqLl0jJC5K0) | 3:17 | 2025-09-14 |  |
 | [Some Things Never Change](https://open.spotify.com/track/04ZQVZvFadkN5wA88owIxv) | [Laura Ribeiro](https://open.spotify.com/artist/0VwEJB7l36x6SorcdfcT5a), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Some Things Never Change](https://open.spotify.com/album/573Vfx55DSu8ysefBIU3QP) | 2:54 | 2022-06-13 | 2022-07-17 |
 | [something special](https://open.spotify.com/track/10e9vFUj8aRJItKhhIsmRT) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [something special \(hi\)](https://open.spotify.com/album/3ym5rYu42SjQOoirjjg8Dy) | 2:37 | 2022-06-06 | 2022-07-29 |
 | [STAY](https://open.spotify.com/track/453LUWCXecCS234CYjtnoL) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [STAY](https://open.spotify.com/album/6MUZsclNb2Ve2A5lSzmPQ7) | 3:33 | 2022-06-06 | 2022-07-29 |

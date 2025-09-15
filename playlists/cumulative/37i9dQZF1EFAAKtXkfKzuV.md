@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-79 songs - 3 hr 42 min
+80 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [We're Done](https://open.spotify.com/track/1ZmP8k7gRkFnHU5WT5f3qm) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Zoe Maxwell](https://open.spotify.com/artist/642AbhxMV1HpvwV4kMAFmw) | [We're Done](https://open.spotify.com/album/5OMiYGBlMTN09vXaf8rZ5u) | 2:59 | 2023-06-29 |  |
 | [Wenn mein Herz wieder bricht](https://open.spotify.com/track/2JCNmjkXZ9XZaGYGy15QOL) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Wenn mein Herz wieder bricht](https://open.spotify.com/album/4Fq0A9Ayu7gKZaPsghKFw4) | 3:14 | 2023-06-29 |  |
 | [When I Wake Up](https://open.spotify.com/track/6URUyQLdPdKgCySVgryLpH) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [LNZHD](https://open.spotify.com/album/6R9ddkyO2cIN2TqZGBWcvg) | 2:54 | 2023-06-29 |  |
+| [Wrong Side of Love](https://open.spotify.com/track/6uShcdguw0MhXGHlUpLz2L) | [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Wrong Side of Love](https://open.spotify.com/album/0FxreyHyZihHMyvcnM97bi) | 3:05 | 2025-09-14 |  |
 | [Über dich](https://open.spotify.com/track/3qM79gu83nz6RiT98UGWTI) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Besser kann ich es nicht erklären](https://open.spotify.com/album/2x3GbNC5I3eFx4ZrFJjvsy) | 3:04 | 2023-06-29 |  |
 
 \*This playlist was first scraped on 2023-06-30. Prior content cannot be recovered.

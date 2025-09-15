@@ -4,7 +4,7 @@
 
 > The new school \- Alternative R&B\. Cover: Jordan Ward
 
-1,491 songs - 3 day 6 hr 33 min
+1,492 songs - 3 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -764,8 +764,9 @@
 | [Lonely As I Ever Was](https://open.spotify.com/track/1eYHAdDUKLUUWn0lhZgyUz) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Lonely As I Ever Was](https://open.spotify.com/album/2zzmIdVneqgcQVkKicolqF) | 3:53 | 2021-07-09 | 2022-07-15 |
 | [Lonely As I Ever Was](https://open.spotify.com/track/6YY6jWYRxEcctNOepXpOVE) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Are U Down?](https://open.spotify.com/album/6VVsa93buutotShEWaBejL) | 3:53 | 2022-07-15 | 2022-07-28 |
 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 | 2024-08-23 |  |
-| [Lonely in the Jungle](https://open.spotify.com/track/1iKy0DFWOx1rEaeY3xZ5G7) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Lonely in the Jungle](https://open.spotify.com/album/2SrBp9iFFQAC3dhO1ADs3b) | 3:25 | 2025-07-25 |  |
+| [Lonely in the Jungle](https://open.spotify.com/track/1iKy0DFWOx1rEaeY3xZ5G7) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Lonely in the Jungle](https://open.spotify.com/album/2SrBp9iFFQAC3dhO1ADs3b) | 3:25 | 2025-07-25 | 2025-09-15 |
 | [Look To Him](https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Look To Him](https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1) | 4:11 | 2022-08-19 | 2022-12-03 |
+| [Lord, Forgive Me](https://open.spotify.com/track/6OoRRvJWQdAL4nOIFrVKv9) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 4:00 | 2025-08-22 |  |
 | [lost and found](https://open.spotify.com/track/0bcmVu5QWuGSFPXKGTsMrM) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [3 Typa Nights](https://open.spotify.com/album/2Na7pVtwC8nSmU3lBkizub) | 2:24 | 2023-08-04 | 2023-09-22 |
 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 | 2021-07-23 | 2022-04-16 |
 | [Louphoria \(with Cruza\)](https://open.spotify.com/track/0E1GJFHAHBQLNyh7VZqDoZ) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 3:46 | 2022-10-28 | 2023-04-29 |

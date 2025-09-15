@@ -4,7 +4,7 @@
 
 > Net die beste Afrikaanse musiek! Omslag: Dassie
 
-326 songs - 18 hr 0 min
+327 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [AVBOB Se Stoep](https://open.spotify.com/track/2gLVnU9kvjcY8KYhs2grNj) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [AVBOB Se Stoep](https://open.spotify.com/album/0yUeMZgVg6YaTbBIIf2X9S) | 3:28 | 2024-07-25 |  |
 | [Bakkie In Die Land](https://open.spotify.com/track/2432rSufmYmFZmRQ5TKuDj) | [Marno van der Merwe](https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR) | [Bakkie In Die Land](https://open.spotify.com/album/56R1XIxyMF7PDewMC3K3dE) | 3:08 | 2025-05-29 | 2025-06-01 |
 | [Ballade Vir 'N Enkeling](https://open.spotify.com/track/3AnbHTbNiQuURUxHiiFBtl) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Ja\. Nee\. Lekker\. \(Deluxe Edition\)](https://open.spotify.com/album/6ntTrtwUni1E0PAlSe61rY) | 3:02 | 2023-03-09 | 2023-08-11 |
+| [Bederf Jouself](https://open.spotify.com/track/3m6Cl5qaA3xuJyrckoOxzD) | [Dassie](https://open.spotify.com/artist/6nxwYjU9ngwfCXXtJBGZrg) | [Bederf Jouself](https://open.spotify.com/album/7A1Qn3imELMi13Tc9N2Q8b) | 2:47 | 2025-09-11 |  |
 | [Beheer Verloor](https://open.spotify.com/track/0f875VUlQ6bv1yoma2TYUZ) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Beheer Verloor](https://open.spotify.com/album/3AO17da9Gz9djPWZf8XoJC) | 3:01 | 2022-09-01 | 2022-12-02 |
 | [Bella](https://open.spotify.com/track/2laH6IayV3wrHxjjsFawOK) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Aansteeklik](https://open.spotify.com/album/3dOKf9YXYnPLlRLaCwsL2G) | 4:13 | 2022-10-20 | 2022-11-04 |
 | [Beskerm Jou Hart](https://open.spotify.com/track/6L7t6WouMiMp03T6IocgBQ) | [Deidré Barnard](https://open.spotify.com/artist/4uNWMdfRm0Fd0qbOxBgFPL) | [Beskerm Jou Hart](https://open.spotify.com/album/1ic0wKTlW4AsHzEwfKSIPv) | 3:12 | 2023-01-27 | 2023-05-05 |
@@ -280,7 +281,7 @@
 | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb), [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK) | 2:47 | 2025-05-15 | 2025-06-01 |
 | [Sterre](https://open.spotify.com/track/7yAksYBNmgbryUSlNUes59) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Sterre](https://open.spotify.com/album/53HLLXYhqMXsHSibVFdYCl) | 3:37 | 2025-08-28 |  |
 | [Sterre](https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Liezel Pieters](https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4) | [Sterre](https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D) | 3:33 | 2024-04-26 |  |
-| [Stof Skop](https://open.spotify.com/track/6i3liOlaFt1evquWjWbZkx) | [Jan\-Mattys](https://open.spotify.com/artist/5Kd1RDCB4eWgLd9t8EGDv8) | [Stof Skop](https://open.spotify.com/album/6kpLZnD6pGWSTZV9A48Kmx) | 3:15 | 2025-05-29 |  |
+| [Stof Skop](https://open.spotify.com/track/6i3liOlaFt1evquWjWbZkx) | [Jan\-Mattys](https://open.spotify.com/artist/5Kd1RDCB4eWgLd9t8EGDv8) | [Stof Skop](https://open.spotify.com/album/6kpLZnD6pGWSTZV9A48Kmx) | 3:15 | 2025-05-29 | 2025-09-15 |
 | [Stoom](https://open.spotify.com/track/1mCw2uig3k3B1qGBJ1Hpn2) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Stoom](https://open.spotify.com/album/1CSsLrp52azvnNC5mMiuFe) | 2:58 | 2024-03-28 |  |
 | [Stout Vir ...](https://open.spotify.com/track/5IWqYabOkbAXOAUd5RsY8o) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Stout Vir ...](https://open.spotify.com/album/44OnJYSwia2u2MUYgObohx) | 3:27 | 2023-06-29 | 2024-07-12 |
 | [Stoute Boude](https://open.spotify.com/track/6kBte7otKF6WvMdeP20rEg) | [Kevboii](https://open.spotify.com/artist/4Mp36UE9keQ7vXLcVLWzmN), [Charlie Beeskraal](https://open.spotify.com/artist/7Dp09kdCJoVzLPynMH0TMz) | [Stoute Boude](https://open.spotify.com/album/7hBAyrqbYZ9zesTt6t69t2) | 2:59 | 2021-09-27 | 2022-10-14 |

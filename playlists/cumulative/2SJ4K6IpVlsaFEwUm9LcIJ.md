@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-723 songs - 1 day 18 hr 34 min
+726 songs - 1 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Cross Purposes](https://open.spotify.com/track/1LWNGV4aU7nLCnfIgO2xuJ) | [Novak](https://open.spotify.com/artist/2fb1zlAyUxXYuZnrtLw90x) | [Novak](https://open.spotify.com/album/7wJpbPDD3MhcxblMVKjdg1) | 4:54 | 2024-10-08 | 2024-11-14 |
 | [Cruel](https://open.spotify.com/track/7Ka90WZhBoWgyyoualEHcb) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Cruel](https://open.spotify.com/album/5wbdEyE7lvzohXtsFfvvdZ) | 3:18 | 2024-10-10 | 2024-11-14 |
 | [Crushing](https://open.spotify.com/track/0qS8CNO9bZlCJoGk6jyGXo) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [1992\-1998](https://open.spotify.com/album/2WwcPCIKcAoVlYmIKjd8PO) | 3:51 | 2025-01-18 | 2025-03-02 |
+| [Daisy Cutter](https://open.spotify.com/track/2ed6AGgJmYoie95RS1zkTs) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Daisy Cutter](https://open.spotify.com/album/2BGk4RtNgJ10Zh1XqDgsYp) | 3:32 | 2025-09-14 |  |
 | [Dancing with your eyes closed](https://open.spotify.com/track/1QkeomwCeKgXOEWoMHzrXr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Dancing with your eyes closed](https://open.spotify.com/album/56bYgJoNy2rzmrjJQnmoJy) | 3:50 | 2025-03-01 | 2025-05-09 |
 | [Dark Shirt](https://open.spotify.com/track/2FU34BCqCh93uP1XQYNtoq) | [Joshua Chuquimia Crampton](https://open.spotify.com/artist/4vV7A3OS088S8Ps2NtTcRO) | [Profundo Amor](https://open.spotify.com/album/0kcRYlSmu6DV3nIjFsYfTl) | 4:39 | 2025-04-13 | 2025-05-09 |
 | [Dawn \- Raisa K Sunset Remix](https://open.spotify.com/track/3UmAc2ov9CpMzr2JeO2cCl) | [TONE](https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei), [Raisa K](https://open.spotify.com/artist/11H2kC5a9Jk0IJ0gPUrZl9) | [So I Can See You \(Remixes\)](https://open.spotify.com/album/5FKCLvPPIlr7wwaDXaYbrE) | 3:42 | 2025-07-12 | 2025-09-11 |
@@ -288,6 +289,7 @@
 | [I Hope You Like Me Too](https://open.spotify.com/track/3tx60M0Bvhzlk2y4bqoZew) | [The Maybellines](https://open.spotify.com/artist/1JvhzOsfMYwQHRB9cSYaBu) | [The Maybellines](https://open.spotify.com/album/43KuGKCsf99Oq5G8WtJEOA) | 1:43 | 2024-08-12 | 2024-09-08 |
 | [I Hope You Really Love Me](https://open.spotify.com/track/1LBvNIbA5kd4W3aOIKVrI1) | [The Family Circle](https://open.spotify.com/artist/3hrkdQYKnihdWrvt66YNM3) | [Family Circle](https://open.spotify.com/album/5l3yLjP4MtAPtVbO1G4PPm) | 2:25 | 2025-09-10 |  |
 | [I Just Want to Be Your Friend](https://open.spotify.com/track/4rKpi6H6IFtuBVAdNN3fUe) | [The Millennium](https://open.spotify.com/artist/2C49JSiNeHN0xwLQCohpyY) | [Begin](https://open.spotify.com/album/6sSb8m6MPGJIEMKH8FWCS0) | 2:37 | 2024-03-26 | 2024-05-16 |
+| [I Know I'm Not Wrong](https://open.spotify.com/track/3O3wyqDfFcl5JfVMqtY4PM) | [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [104.3](https://open.spotify.com/album/5Y6h6h59UAKTk0w78Bsxig) | 3:25 | 2025-09-14 |  |
 | [I Never Want To Be Without You](https://open.spotify.com/track/0j5XRIuOKp6Nsx6FRan8Z9) | [AIR](https://open.spotify.com/artist/5I8xhwELTKXC9ZRCq2zzgr) | [In Need of You featuring Googie](https://open.spotify.com/album/2Jn1DbxmIirP7RvA5U1fVW) | 3:22 | 2025-04-27 | 2025-07-04 |
 | [I Only Did It 'Cause I Felt so Lonely](https://open.spotify.com/track/50pbA8K52DbKILgZ4AiQX6) | [The Choir](https://open.spotify.com/artist/1CBHzR63n8JTqYNiGwgeqO) | [I'd Rather You Leave Me](https://open.spotify.com/album/1h3zASfdILrqQDjxhpOQls) | 2:15 | 2024-01-05 | 2024-03-10 |
 | [I Ought To Stay Away From You](https://open.spotify.com/track/4tAkesAHyf2zsmmWPoCDWJ) | [Margo Guryan](https://open.spotify.com/artist/3SMY2MGuaUOhuPpgRn6clw) | [I Ought To Stay Away From You b/w Why Do I Cry](https://open.spotify.com/album/0igbKMZKrnrO2x3TPDFL1M) | 2:39 | 2024-01-08 | 2024-03-10 |
@@ -497,6 +499,7 @@
 | [Please Stand By](https://open.spotify.com/track/4fD3AMQTVRLuil3SKDKaVv) | [The Shivvers](https://open.spotify.com/artist/2s3zHhJ18IqSPNfOKb5Ip6) | [Lost Hits From Milwaukee's First Family Of Powerpop 1979\-82](https://open.spotify.com/album/3UJIHfRGlXH7BRKzosUVNI) | 3:14 | 2025-02-22 | 2025-03-02 |
 | [POKKA POKKA](https://open.spotify.com/track/2diC2THH55uAw4GGpZQjwn) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [宇宙 日本 世田谷](https://open.spotify.com/album/0hUfv1cSXNaBZ6dHKGluEy) | 4:04 | 2024-01-24 | 2024-03-10 |
 | [Polynesia](https://open.spotify.com/track/1kRSfl02tYqUkyNuAuStDC) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [Long Journey](https://open.spotify.com/album/3jqLDxYTcxRXOWIL6UcquW) | 2:23 | 2025-04-04 | 2025-05-09 |
+| [Portal](https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Portal](https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR) | 2:23 | 2025-09-14 |  |
 | [Porto](https://open.spotify.com/track/6mttPfa53PF6MC5Oq4GW3k) | [Dori Caymmi](https://open.spotify.com/artist/6fV3ZNUY8BCP45yuCWWDez) | [Dori Caymmi \(1980\)](https://open.spotify.com/album/67U5cjkiVh0I0bTsWgPbCD) | 3:49 | 2025-08-21 | 2025-09-11 |
 | [Post\-War Glamour Girls](https://open.spotify.com/track/3ocWpEl44dJAIMuDCMqC4E) | [John Cooper Clarke](https://open.spotify.com/artist/0EOkMBYWbDnVqwfHA4zq32) | [The Very Best Of](https://open.spotify.com/album/0GbJSduK8qUuLpG91duF0C) | 3:31 | 2024-02-28 | 2024-03-05 |
 | [Pre\-munitions](https://open.spotify.com/track/7Bw7Dv6BCHA9O0AmzggOax) | [Daedelus](https://open.spotify.com/artist/1YRGQOk4Mk9EpM6nTJhXtK) | [The Light Brigade](https://open.spotify.com/album/6yT4qGlJQE3Nvxf6MukGIZ) | 2:24 | 2024-07-29 | 2024-09-08 |

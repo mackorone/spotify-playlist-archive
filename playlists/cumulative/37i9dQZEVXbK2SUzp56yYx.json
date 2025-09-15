@@ -3198,7 +3198,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 164026,
       "name": "CEREMONY",
       "url": "https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF"
@@ -5072,11 +5072,15 @@
         {
           "name": "DJ VYZ",
           "url": "https://open.spotify.com/artist/7cIqiNrqyr9yAGv7e1WJ8F"
+        },
+        {
+          "name": "Mc Rd",
+          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
         }
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 88000,
       "name": "DOORS LIGHT FUNK",
       "url": "https://open.spotify.com/track/3jauxgH08JQsagBfDQ8Kwz"
@@ -10402,7 +10406,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 166440,
       "name": "Kidnapping an Heiress",
       "url": "https://open.spotify.com/track/7uRGUYUj3oquFQAflWrwR8"
@@ -30548,6 +30552,24 @@
       "duration_ms": 180645,
       "name": "\u041e\u043a\u0440\u0430\u0438\u043d\u0430",
       "url": "https://open.spotify.com/track/4enCMfd6Ubyn2m9Tkb8lUV"
+    },
+    {
+      "album": {
+        "name": "\u0417\u043b\u043e\u0432\u043e\u043d\u043d\u044b\u0439 \u041c\u0430\u0441\u043a\u0430\u0440\u0430\u0434",
+        "url": "https://open.spotify.com/album/3w3nrwLhZxWvseNocHFizP"
+      },
+      "artists": [
+        {
+          "name": "\u042d\u041b\u0415\u041a\u0422\u0420\u041e\u0421\u041b\u0410\u0411\u041e\u0421\u0422\u042c",
+          "url": "https://open.spotify.com/artist/3NjfWBZqT3K1uEZhULOZXE"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188514,
+      "name": "\u041e\u043b\u0435\u043d\u0438\u0439 \u041f\u0435\u043d\u0438\u0441",
+      "url": "https://open.spotify.com/track/5jIpWK8QGeMmR1jBHJBNwx"
     },
     {
       "album": {

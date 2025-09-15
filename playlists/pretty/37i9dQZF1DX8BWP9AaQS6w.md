@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BWP9AaQS6w.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ampexclusive/">AMP</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,731 likes - 59 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,766 likes - 59 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTHhW4hDVUUi.md) - [plain]
 
 > Check out Jennifer Lopez's Official Halftime playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,095 likes - 30 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,096 likes - 30 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

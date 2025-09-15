@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > Playlist artwork by: @mun15h on Instagram
 
-[Frutfield](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,351 likes - 528 songs - 1 day 7 hr 33 min
+[Frutfield](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,349 likes - 528 songs - 1 day 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 50 | [Better Off Alone](https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:34 |
 | 51 | [Interdimensional Chocobo](https://open.spotify.com/track/53gyk1hW2ecJWXoy2WpvsQ) | [Golden Living Room](https://open.spotify.com/artist/2HrvfucjJcyvbBBU33i7EL) | [Post\-Internet](https://open.spotify.com/album/4KHYr2C5MPHXMwZljGauaF) | 2:57 |
 | 52 | [Puppy](https://open.spotify.com/track/6h7WnYtD8BTlRwCqrfFxly) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/1aSB8LZ9XAzTkAHOWG60yn) | 4:08 |
-| 53 | [Around the World \(La La La La La\) \- Radio Version](https://open.spotify.com/track/7CvOnbFdnIoXMQ4eFCo5lB) | [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo), [Pete Konemann](https://open.spotify.com/artist/0PEfbjTw85CAN5G0lz9n3p) | [Planet Pop](https://open.spotify.com/album/2kBFECL9a71fNRXbRW5xO3) | 3:34 |
+| 53 | [Around the World \(La La La La La\)](https://open.spotify.com/track/7CvOnbFdnIoXMQ4eFCo5lB) | [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo), [Pete Konemann](https://open.spotify.com/artist/0PEfbjTw85CAN5G0lz9n3p) | [Planet Pop](https://open.spotify.com/album/2kBFECL9a71fNRXbRW5xO3) | 3:34 |
 | 54 | [Pocket Crocodile](https://open.spotify.com/track/4S4zAz91PBXtnTLrBHioHQ) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3RNP9iHMJpFkGbMB2OAnJn) | 1:55 |
 | 55 | [nero](https://open.spotify.com/track/5JrjlQdiSIbhiviLl5U4PF) | [フレネシ](https://open.spotify.com/artist/1YoSYNmMHPZEa2WNNUS1oP) | [キュプラ](https://open.spotify.com/album/758SQhbduGjDqXcWrbIDuM) | 4:11 |
 | 56 | [prickly pufferfish](https://open.spotify.com/track/2TdDZUcgwxrOHawTNI4vfW) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [nymph tones](https://open.spotify.com/album/5vEMPjJgxW0rb2Z52FRdhK) | 1:47 |

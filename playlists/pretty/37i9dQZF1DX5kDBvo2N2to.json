@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60215,
+  "num_followers": 60218,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,18 @@
     {
       "added_at": "2025-09-11 22:00:30",
       "album": {
-        "name": "Leyla",
-        "url": "https://open.spotify.com/album/6pkRBjBGXdVF8b0AUCfuUl"
+        "name": "RING MIG 112!!?",
+        "url": "https://open.spotify.com/album/2NSfq8TfMOrTjGyzhHTpxt"
       },
       "artists": [
         {
-          "name": "Robin Kadir",
-          "url": "https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2"
-        },
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
         }
       ],
-      "duration_ms": 146352,
-      "name": "Leyla",
-      "url": "https://open.spotify.com/track/4QIzYCGDTLJxue9HQe4xaY"
+      "duration_ms": 176000,
+      "name": "RING MIG 112!!?",
+      "url": "https://open.spotify.com/track/4XOPm2rZy1MZLhxLdqVYcH"
     },
     {
       "added_at": "2025-09-11 22:00:30",
@@ -407,22 +403,6 @@
     {
       "added_at": "2025-09-11 22:00:30",
       "album": {
-        "name": "RING MIG 112!!?",
-        "url": "https://open.spotify.com/album/2NSfq8TfMOrTjGyzhHTpxt"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "RING MIG 112!!?",
-      "url": "https://open.spotify.com/track/4XOPm2rZy1MZLhxLdqVYcH"
-    },
-    {
-      "added_at": "2025-09-11 22:00:30",
-      "album": {
         "name": "Bon Voyage",
         "url": "https://open.spotify.com/album/59423YD9JZdvJsFSICrsfg"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 163320,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW"
+    },
+    {
+      "added_at": "2025-09-11 22:00:30",
+      "album": {
+        "name": "Leyla",
+        "url": "https://open.spotify.com/album/6pkRBjBGXdVF8b0AUCfuUl"
+      },
+      "artists": [
+        {
+          "name": "Robin Kadir",
+          "url": "https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2"
+        },
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "duration_ms": 146352,
+      "name": "Leyla",
+      "url": "https://open.spotify.com/track/4QIzYCGDTLJxue9HQe4xaY"
     },
     {
       "added_at": "2025-09-11 22:00:30",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-09-11 22:00:30",
       "album": {
-        "name": "Regn \u00f6ver Zinken",
-        "url": "https://open.spotify.com/album/7KBJwS8O2z8ZslnjQONpgb"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "Regn \u00f6ver Zinken",
-      "url": "https://open.spotify.com/track/5vNdZIUXEMgcTt46CuhA7C"
-    },
-    {
-      "added_at": "2025-09-11 22:00:30",
-      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 132500,
       "name": "24/7",
       "url": "https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm"
+    },
+    {
+      "added_at": "2025-09-11 22:00:30",
+      "album": {
+        "name": "Regn \u00f6ver Zinken",
+        "url": "https://open.spotify.com/album/7KBJwS8O2z8ZslnjQONpgb"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "duration_ms": 244733,
+      "name": "Regn \u00f6ver Zinken",
+      "url": "https://open.spotify.com/track/5vNdZIUXEMgcTt46CuhA7C"
     },
     {
       "added_at": "2025-09-11 22:00:30",
@@ -619,8 +619,8 @@
     {
       "added_at": "2025-09-11 22:00:30",
       "album": {
-        "name": "Dominos",
-        "url": "https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg"
+        "name": "Som i en dr\u00f6m",
+        "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
         }
       ],
-      "duration_ms": 160601,
-      "name": "Dominos",
-      "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
+      "duration_ms": 145568,
+      "name": "Fr\u00e5n & med nu",
+      "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
     },
     {
       "added_at": "2025-09-11 22:00:30",
@@ -667,6 +667,26 @@
     {
       "added_at": "2025-09-11 22:00:30",
       "album": {
+        "name": "MIG/DIG (feat. Klaudy)",
+        "url": "https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S"
+      },
+      "artists": [
+        {
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+        },
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "duration_ms": 176672,
+      "name": "MIG/DIG (feat. Klaudy)",
+      "url": "https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc"
+    },
+    {
+      "added_at": "2025-09-11 22:00:30",
+      "album": {
         "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
         "url": "https://open.spotify.com/album/282V3114CXhdwxHdVDWpE3"
       },
@@ -679,6 +699,22 @@
       "duration_ms": 172053,
       "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
       "url": "https://open.spotify.com/track/0gEMFfHYQXxjRp1bVIllVa"
+    },
+    {
+      "added_at": "2025-09-11 22:00:30",
+      "album": {
+        "name": "St\u00f6rd",
+        "url": "https://open.spotify.com/album/4A7EjZFyWeH1fobQTj1UmV"
+      },
+      "artists": [
+        {
+          "name": "noll2",
+          "url": "https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "St\u00f6rd",
+      "url": "https://open.spotify.com/track/2IgrHNArmP0qRKbQ5UVeVB"
     },
     {
       "added_at": "2025-09-11 22:00:30",
@@ -731,6 +767,22 @@
     {
       "added_at": "2025-09-11 22:00:30",
       "album": {
+        "name": "Dominos",
+        "url": "https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        }
+      ],
+      "duration_ms": 160601,
+      "name": "Dominos",
+      "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
+    },
+    {
+      "added_at": "2025-09-11 22:00:30",
+      "album": {
         "name": "Lampan t\u00e4nd f\u00f6r dig",
         "url": "https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl"
       },
@@ -743,6 +795,22 @@
       "duration_ms": 153176,
       "name": "Lampan t\u00e4nd f\u00f6r dig",
       "url": "https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66"
+    },
+    {
+      "added_at": "2025-09-11 22:00:30",
+      "album": {
+        "name": "Jag m\u00e5ste v\u00e4lja",
+        "url": "https://open.spotify.com/album/3inX2cdSEUxZat1E2lcZNE"
+      },
+      "artists": [
+        {
+          "name": "Elin Wiigh",
+          "url": "https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "Jag m\u00e5ste v\u00e4lja",
+      "url": "https://open.spotify.com/track/3GDX6H2fLc3UyBaHHdIGwz"
     },
     {
       "added_at": "2025-09-11 22:00:30",
@@ -767,38 +835,18 @@
     {
       "added_at": "2025-09-11 22:00:30",
       "album": {
-        "name": "Som i en dr\u00f6m",
-        "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
+        "name": "Stockholm City",
+        "url": "https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L"
       },
       "artists": [
         {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+          "name": "Adrian Mac\u00e9us",
+          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
         }
       ],
-      "duration_ms": 145568,
-      "name": "Fr\u00e5n & med nu",
-      "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
-    },
-    {
-      "added_at": "2025-09-11 22:00:30",
-      "album": {
-        "name": "MIG/DIG (feat. Klaudy)",
-        "url": "https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S"
-      },
-      "artists": [
-        {
-          "name": "ABEL",
-          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
-        },
-        {
-          "name": "Klaudy",
-          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
-        }
-      ],
-      "duration_ms": 176672,
-      "name": "MIG/DIG (feat. Klaudy)",
-      "url": "https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc"
+      "duration_ms": 160465,
+      "name": "Stockholm City",
+      "url": "https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S"
     },
     {
       "added_at": "2025-09-11 22:00:30",
@@ -819,34 +867,18 @@
     {
       "added_at": "2025-09-11 22:00:30",
       "album": {
-        "name": "Stockholm City",
-        "url": "https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L"
+        "name": "Damned",
+        "url": "https://open.spotify.com/album/1rKX1Fsy3e8H1dpFt1BFXn"
       },
       "artists": [
         {
-          "name": "Adrian Mac\u00e9us",
-          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
+          "name": "Nause",
+          "url": "https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ"
         }
       ],
-      "duration_ms": 160465,
-      "name": "Stockholm City",
-      "url": "https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S"
-    },
-    {
-      "added_at": "2025-09-11 22:00:30",
-      "album": {
-        "name": "Jag m\u00e5ste v\u00e4lja",
-        "url": "https://open.spotify.com/album/3inX2cdSEUxZat1E2lcZNE"
-      },
-      "artists": [
-        {
-          "name": "Elin Wiigh",
-          "url": "https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "Jag m\u00e5ste v\u00e4lja",
-      "url": "https://open.spotify.com/track/3GDX6H2fLc3UyBaHHdIGwz"
+      "duration_ms": 154340,
+      "name": "Damned",
+      "url": "https://open.spotify.com/track/4aSqI2QSyfmnCBmKqaExz0"
     },
     {
       "added_at": "2025-09-11 22:00:30",
@@ -863,22 +895,6 @@
       "duration_ms": 207312,
       "name": "Dust",
       "url": "https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC"
-    },
-    {
-      "added_at": "2025-09-11 22:00:30",
-      "album": {
-        "name": "Damned",
-        "url": "https://open.spotify.com/album/1rKX1Fsy3e8H1dpFt1BFXn"
-      },
-      "artists": [
-        {
-          "name": "Nause",
-          "url": "https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ"
-        }
-      ],
-      "duration_ms": 154340,
-      "name": "Damned",
-      "url": "https://open.spotify.com/track/4aSqI2QSyfmnCBmKqaExz0"
     },
     {
       "added_at": "2025-09-11 22:00:30",
@@ -935,18 +951,18 @@
     {
       "added_at": "2025-09-11 22:00:30",
       "album": {
-        "name": "St\u00f6rd",
-        "url": "https://open.spotify.com/album/4A7EjZFyWeH1fobQTj1UmV"
+        "name": "i guess this is me now?",
+        "url": "https://open.spotify.com/album/0fr8btLAWf5vRidQtFtVxc"
       },
       "artists": [
         {
-          "name": "noll2",
-          "url": "https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR"
+          "name": "ENVYYOU",
+          "url": "https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm"
         }
       ],
-      "duration_ms": 173173,
-      "name": "St\u00f6rd",
-      "url": "https://open.spotify.com/track/2IgrHNArmP0qRKbQ5UVeVB"
+      "duration_ms": 148906,
+      "name": "violet",
+      "url": "https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j"
     },
     {
       "added_at": "2025-09-11 22:00:30",
@@ -967,18 +983,18 @@
     {
       "added_at": "2025-09-11 22:00:30",
       "album": {
-        "name": "i guess this is me now?",
-        "url": "https://open.spotify.com/album/0fr8btLAWf5vRidQtFtVxc"
+        "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
+        "url": "https://open.spotify.com/album/0yaCpQvJffjcBuD4JFbXzI"
       },
       "artists": [
         {
-          "name": "ENVYYOU",
-          "url": "https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm"
+          "name": "Felicia Takman",
+          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
         }
       ],
-      "duration_ms": 148906,
-      "name": "violet",
-      "url": "https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j"
+      "duration_ms": 219642,
+      "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
+      "url": "https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA"
     },
     {
       "added_at": "2025-09-11 22:00:30",
@@ -999,18 +1015,18 @@
     {
       "added_at": "2025-09-11 22:00:30",
       "album": {
-        "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
-        "url": "https://open.spotify.com/album/0yaCpQvJffjcBuD4JFbXzI"
+        "name": "Same Old Dirt",
+        "url": "https://open.spotify.com/album/5nBa7kEFLjmMmftj60JWwM"
       },
       "artists": [
         {
-          "name": "Felicia Takman",
-          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
+          "name": "Hannes Aitman",
+          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
         }
       ],
-      "duration_ms": 219642,
-      "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
-      "url": "https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA"
+      "duration_ms": 186893,
+      "name": "Same Old Dirt",
+      "url": "https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD"
     },
     {
       "added_at": "2025-09-11 22:00:30",
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2025-09-11 22:00:30",
       "album": {
-        "name": "Gatorna i Bor\u00e5s",
-        "url": "https://open.spotify.com/album/2mF1j4OyXm341L4m2OvPHV"
+        "name": "4Eternity",
+        "url": "https://open.spotify.com/album/3QeWdLvzv9SonvakLiu6T1"
       },
       "artists": [
         {
-          "name": "Wiktoria",
-          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+          "name": " louii lane",
+          "url": "https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v"
         }
       ],
-      "duration_ms": 164089,
-      "name": "Gatorna i Bor\u00e5s",
-      "url": "https://open.spotify.com/track/3m7fpG1kdxzRHvyNXqsEPg"
+      "duration_ms": 136451,
+      "name": "IN YOUR BLUE",
+      "url": "https://open.spotify.com/track/4vUeyFeDjVQcroK7nfthyO"
     },
     {
       "added_at": "2025-09-11 22:00:30",
@@ -1063,34 +1079,18 @@
     {
       "added_at": "2025-09-11 22:00:30",
       "album": {
-        "name": "4Eternity",
-        "url": "https://open.spotify.com/album/3QeWdLvzv9SonvakLiu6T1"
+        "name": "Gatorna i Bor\u00e5s",
+        "url": "https://open.spotify.com/album/2mF1j4OyXm341L4m2OvPHV"
       },
       "artists": [
         {
-          "name": " louii lane",
-          "url": "https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v"
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
         }
       ],
-      "duration_ms": 136451,
-      "name": "IN YOUR BLUE",
-      "url": "https://open.spotify.com/track/4vUeyFeDjVQcroK7nfthyO"
-    },
-    {
-      "added_at": "2025-09-11 22:00:30",
-      "album": {
-        "name": "Same Old Dirt",
-        "url": "https://open.spotify.com/album/5nBa7kEFLjmMmftj60JWwM"
-      },
-      "artists": [
-        {
-          "name": "Hannes Aitman",
-          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
-        }
-      ],
-      "duration_ms": 186893,
-      "name": "Same Old Dirt",
-      "url": "https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD"
+      "duration_ms": 164089,
+      "name": "Gatorna i Bor\u00e5s",
+      "url": "https://open.spotify.com/track/3m7fpG1kdxzRHvyNXqsEPg"
     },
     {
       "added_at": "2025-09-11 22:00:30",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2025-09-11 22:00:30",
       "album": {
-        "name": "Mellan Stockholm & Lund",
-        "url": "https://open.spotify.com/album/04iAIpyezWd5lNmP5XcuWb"
+        "name": "1000 \u00e5r av regn",
+        "url": "https://open.spotify.com/album/4at4SVxyTWuvH6797oSgJd"
       },
       "artists": [
         {
-          "name": "Vilhelm Nordvall",
-          "url": "https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA"
+          "name": "Lilla London",
+          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
         }
       ],
-      "duration_ms": 146842,
-      "name": "Mellan Stockholm & Lund",
-      "url": "https://open.spotify.com/track/1RjL6HmLPSzqp70Xg4Ivpg"
+      "duration_ms": 198709,
+      "name": "Tills natt blir dag",
+      "url": "https://open.spotify.com/track/39O4z0CnFqAnE781FhYHN2"
     },
     {
       "added_at": "2025-09-11 22:00:30",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2025-09-11 22:00:30",
       "album": {
-        "name": "1000 \u00e5r av regn",
-        "url": "https://open.spotify.com/album/4at4SVxyTWuvH6797oSgJd"
+        "name": "Mellan Stockholm & Lund",
+        "url": "https://open.spotify.com/album/04iAIpyezWd5lNmP5XcuWb"
       },
       "artists": [
         {
-          "name": "Lilla London",
-          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
+          "name": "Vilhelm Nordvall",
+          "url": "https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA"
         }
       ],
-      "duration_ms": 198709,
-      "name": "Tills natt blir dag",
-      "url": "https://open.spotify.com/track/39O4z0CnFqAnE781FhYHN2"
+      "duration_ms": 146842,
+      "name": "Mellan Stockholm & Lund",
+      "url": "https://open.spotify.com/track/1RjL6HmLPSzqp70Xg4Ivpg"
     },
     {
       "added_at": "2025-09-11 22:00:30",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-09-11 22:00:30",
       "album": {
+        "name": "Solros",
+        "url": "https://open.spotify.com/album/00ImPIP0ISklhkv9UvNwoT"
+      },
+      "artists": [
+        {
+          "name": "Theo",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+        }
+      ],
+      "duration_ms": 161597,
+      "name": "Solros",
+      "url": "https://open.spotify.com/track/1VgZrgml86gvvb4HAgDJP5"
+    },
+    {
+      "added_at": "2025-09-11 22:00:30",
+      "album": {
         "name": "Berusad \u00e4ngel",
         "url": "https://open.spotify.com/album/0oInNpSsVkorWAchWQsZyb"
       },
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2025-09-11 22:00:30",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/5ttGp9NcuUNKFSwHd1h9j6"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 172307,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/2CghTghvdsGOiTWAHoEOaf"
-    },
-    {
-      "added_at": "2025-09-11 22:00:30",
-      "album": {
         "name": "Tiderna i Solna",
         "url": "https://open.spotify.com/album/6rRfCs1pgXT33V8azO2jmu"
       },
@@ -1303,6 +1303,22 @@
       "duration_ms": 138913,
       "name": "Tiderna i Solna",
       "url": "https://open.spotify.com/track/0mJahyRnWWalqO1e0HERBj"
+    },
+    {
+      "added_at": "2025-09-11 22:00:30",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/5ttGp9NcuUNKFSwHd1h9j6"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/2CghTghvdsGOiTWAHoEOaf"
     },
     {
       "added_at": "2025-09-11 22:00:30",
@@ -1355,6 +1371,22 @@
     {
       "added_at": "2025-09-11 22:00:30",
       "album": {
+        "name": "TVIVEL & TRO",
+        "url": "https://open.spotify.com/album/2eWk5PnmUu9dT0rNQMB9wg"
+      },
+      "artists": [
+        {
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+        }
+      ],
+      "duration_ms": 168928,
+      "name": "DELILAH",
+      "url": "https://open.spotify.com/track/1zmufSjMnUu7VBVuMDJ5Bf"
+    },
+    {
+      "added_at": "2025-09-11 22:00:30",
+      "album": {
         "name": "Blundar F\u00f6r En Stund",
         "url": "https://open.spotify.com/album/3lJKVj5d5dvy9BwFXPIGrN"
       },
@@ -1371,18 +1403,18 @@
     {
       "added_at": "2025-09-11 22:00:30",
       "album": {
-        "name": "TVIVEL & TRO",
-        "url": "https://open.spotify.com/album/2eWk5PnmUu9dT0rNQMB9wg"
+        "name": "Men du",
+        "url": "https://open.spotify.com/album/7HLTPSI5iTSLad6OJHid1P"
       },
       "artists": [
         {
-          "name": "ABEL",
-          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+          "name": "Elin Wiigh",
+          "url": "https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn"
         }
       ],
-      "duration_ms": 168928,
-      "name": "DELILAH",
-      "url": "https://open.spotify.com/track/1zmufSjMnUu7VBVuMDJ5Bf"
+      "duration_ms": 187500,
+      "name": "Men du",
+      "url": "https://open.spotify.com/track/76MUeiYerAnR6J5GvBXM4U"
     },
     {
       "added_at": "2025-09-11 22:00:30",
@@ -1431,38 +1463,6 @@
       "duration_ms": 139310,
       "name": "INATT IGEN",
       "url": "https://open.spotify.com/track/2VqbxwOaj6t3DW6Yylv9PW"
-    },
-    {
-      "added_at": "2025-09-11 22:00:30",
-      "album": {
-        "name": "Solros",
-        "url": "https://open.spotify.com/album/00ImPIP0ISklhkv9UvNwoT"
-      },
-      "artists": [
-        {
-          "name": "Theo",
-          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
-        }
-      ],
-      "duration_ms": 161597,
-      "name": "Solros",
-      "url": "https://open.spotify.com/track/1VgZrgml86gvvb4HAgDJP5"
-    },
-    {
-      "added_at": "2025-09-11 22:00:30",
-      "album": {
-        "name": "Hail Mary",
-        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
     },
     {
       "added_at": "2025-09-11 22:00:30",

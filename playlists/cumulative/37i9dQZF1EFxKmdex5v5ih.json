@@ -1623,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "Cult",
+        "url": "https://open.spotify.com/album/4jC2rLiranXWJsvUtLP7YH"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206308,
+      "name": "Cult",
+      "url": "https://open.spotify.com/track/7hQnF5KGHCE2XQtg8ZURbM"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
       },
@@ -4966,7 +4984,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 169353,
       "name": "Let Me Down Slowly",
       "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"

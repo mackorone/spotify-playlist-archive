@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-410 songs - 1 day 0 hr 14 min
+411 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Don't Die Young, Don't Get Old](https://open.spotify.com/track/1bs6AEglHC8hQqBbsylTDy) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 3:13 | 2024-02-27 |  |
 | [Don't Even Go There](https://open.spotify.com/track/03rfZYPDfZsHtClobeKpLc) | [Kaylens Rain](https://open.spotify.com/artist/2fYyRW0iCIGiN1ju0KcWyO) | [Found](https://open.spotify.com/album/00E7KsqlLiwM6PLCUUwzMq) | 3:27 | 2025-04-30 |  |
 | [Don't Text Me When You're Drunk](https://open.spotify.com/track/3xSoK8ldUubd66INPOszNi) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ), [Zai1k](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII) | [Don't Text Me When You're Drunk](https://open.spotify.com/album/5AMveWacvgD5dNeZlXlr4c) | 3:14 | 2024-02-27 |  |
+| [Drink Up](https://open.spotify.com/track/7lBhBYIo8ZZar90G2y4UAK) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Every Girl](https://open.spotify.com/album/0rmckhgttnp4e5WaaBCVQw) | 2:50 | 2025-09-14 |  |
 | [Drive On Back](https://open.spotify.com/track/61231CJVuizcjjkpsPPPKK) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Come On With It](https://open.spotify.com/album/5xPnmT5CGuQp1E0vxPXveO) | 3:11 | 2024-02-27 |  |
 | [Driving Back There In My Mind \(Demo\)](https://open.spotify.com/track/09fRiBGIEVAeX7eNBipm2G) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Driving Back There In My Mind \(Demo\)](https://open.spotify.com/album/2dfDT5XbCDlNABvafIfLmz) | 3:41 | 2024-02-27 |  |
 | [Drunk and Hungover](https://open.spotify.com/track/6mFw6OhoyHsEdRFCCNY8LP) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones \(Deluxe Edition\)](https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy) | 3:04 | 2024-02-27 |  |

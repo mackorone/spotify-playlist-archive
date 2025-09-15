@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  不平靜水域
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  kayan9896
 
-1,507 songs - 3 day 13 hr 1 min
+1,508 songs - 3 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [Lost Boy, Lost City](https://open.spotify.com/track/2rb8Kwb5bD5uqbdDL1xSd1) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Lost Boy, Lost City](https://open.spotify.com/album/2ewnHTcqfX66aPT82faWS9) | 2:23 | 2023-07-27 | 2023-11-03 |
 | [lost in between](https://open.spotify.com/track/1gFUB17VTbq9TGCpfFA42J) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [lost in between](https://open.spotify.com/album/74eS9OYv4G5ln8EE5V88Pr) | 3:40 | 2024-12-12 | 2025-05-30 |
 | [Lost in Between](https://open.spotify.com/track/407HZCSxQUhks2BW0MyRzv) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9), [Anniina](https://open.spotify.com/artist/44aOM1DNwPKGb0ticurbPT) | [Lost in Between](https://open.spotify.com/album/6f6a0nmZpwbKJrPeCNvv7N) | 2:43 | 2024-08-22 | 2024-12-13 |
+| [LOST IN THE RAIN](https://open.spotify.com/track/5UMxYZWGxAfLdqqQaoXYja) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [LOST IN THE RAIN](https://open.spotify.com/album/26mI5XVEqidvanvC7rpmBN) | 3:08 | 2025-09-14 |  |
 | [lost time](https://open.spotify.com/track/0LoVgf386yTByUTT0RWPSJ) | [ben chow](https://open.spotify.com/artist/3O9Vari0d5odpXVPlRT04w) | [lost time](https://open.spotify.com/album/0fNEhviqEOD993Or3wHw3l) | 2:21 | 2024-10-31 | 2025-02-14 |
 | [lost you twice](https://open.spotify.com/track/3s5c0uvwMLkFe1f7ow9B0Z) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [lost you twice](https://open.spotify.com/album/4MhFlHb9GRJoHBoLq1d8tx) | 4:28 | 2022-05-26 | 2022-06-10 |
 | [Lotus](https://open.spotify.com/track/4wx8KI6mcAT2yjab2hgeul) | [Gia Fu](https://open.spotify.com/artist/3dwN2G3cx8i7rEFDvYhRLi) | [Lotus](https://open.spotify.com/album/0Z9uE1lFTTQVwPPuaKYbdJ) | 4:57 | 2024-09-26 | 2025-02-14 |

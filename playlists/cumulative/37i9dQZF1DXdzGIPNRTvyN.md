@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-343 songs - 16 hr 13 min
+344 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Forest Bathing](https://open.spotify.com/track/7BoUZW0mqbznnmdkuekAIS) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Forest Bathing](https://open.spotify.com/album/3FXUXH9AxDpvYxfqvbc67q) | 3:03 | 2025-07-01 |  |
 | [Forest Breath](https://open.spotify.com/track/4JHSk6ehy7ztovsUjZAxV9) | [Cerasifera](https://open.spotify.com/artist/6KiFF18YRCbYzhQl5XEY9k) | [Forest Breath](https://open.spotify.com/album/4SCtfrNF8SSagNIYk3b5B7) | 2:41 | 2025-03-14 | 2025-04-02 |
 | [Forest Breath](https://open.spotify.com/track/725gBK4qfI7RizSxTeXduz) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Forest Breath](https://open.spotify.com/album/6mD6RVEoDX5YGzoaCbawzt) | 3:12 | 2025-04-01 |  |
-| [Forest Channel](https://open.spotify.com/track/21kHvsjYwW7vE8yRJGCHGr) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Forest Channel](https://open.spotify.com/album/43XL6Q7IOeJkvX2gC1fwQx) | 2:37 | 2025-07-01 |  |
+| [Forest Channel](https://open.spotify.com/track/21kHvsjYwW7vE8yRJGCHGr) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Forest Channel](https://open.spotify.com/album/43XL6Q7IOeJkvX2gC1fwQx) | 2:37 | 2025-07-01 | 2025-09-15 |
 | [Forest Dream](https://open.spotify.com/track/3dSrZUj12wbg8N4615IQRR) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Forest Dream](https://open.spotify.com/album/2M8KpQdopdn3r8tgG8FOoN) | 2:36 | 2023-07-28 |  |
 | [Forest Harp Dreams 528 Hz](https://open.spotify.com/track/7bRCmNh2cPzxhPskiniGSA) | [Ahti Aeo](https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO) | [Forest Harp Dreams 528 Hz](https://open.spotify.com/album/0QTRE8RUaMUKnKDL9v3d79) | 2:40 | 2023-12-18 | 2024-12-05 |
 | [Forest of Calm](https://open.spotify.com/track/2YydBkXJxHR9M7H66VaIcX) | [Elvin Malm](https://open.spotify.com/artist/6NKcTiARAryvU82LrRjcY1) | [Forest of Calm](https://open.spotify.com/album/5zDnbDbgHwirFy6Ax5Cw3h) | 3:45 | 2025-02-10 |  |
@@ -286,6 +286,7 @@
 | [Shine](https://open.spotify.com/track/0HoQL2kDebChTcE3x2e0Lz) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:10 | 2023-03-13 |  |
 | [Signs Of Life](https://open.spotify.com/track/0UDoXifu2rd9J25FgbYiSJ) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Signs Of Life](https://open.spotify.com/album/3pm52kadp5DClaRVbLMW2S) | 2:55 | 2024-03-05 |  |
 | [Silence](https://open.spotify.com/track/5KzDnM8dfL6rWOzxIpU8tr) | [Antoine Lefèvre](https://open.spotify.com/artist/1Sxv9K4k979TM31rrz9dVC) | [Silence](https://open.spotify.com/album/6kffjbiRYPhXXR8ahCazdi) | 2:36 | 2024-12-20 |  |
+| [Silent Garden](https://open.spotify.com/track/5a6p7ljcmAEsIlx8fPMnIM) | [Divine Isle](https://open.spotify.com/artist/2lbyzOWzrHi2r8yMUnuglT) | [Silent Garden](https://open.spotify.com/album/30f8pVQw0QoYkJ6UY71If6) | 2:31 | 2025-08-13 |  |
 | [Silva](https://open.spotify.com/track/5MMZaDi79Qma47pWO6Uotv) | [Songlark](https://open.spotify.com/artist/2UHdn1PjYe05hpiNNm91oK) | [Silva](https://open.spotify.com/album/5BlwN0E9wy8Ky4DvYcbaJk) | 2:28 | 2024-06-03 |  |
 | [Silva Fabula](https://open.spotify.com/track/2nkAMyppbrCEwr6W0ObGDT) | [Baltasar Thorgimson](https://open.spotify.com/artist/7AvjGwRVcZebryU03FobZt) | [Silva Fabula](https://open.spotify.com/album/28gLeF0gUVTBRbtJczNWUn) | 3:10 | 2023-02-13 | 2024-07-17 |
 | [Silver & Gold](https://open.spotify.com/track/4OrQu62Uv8X5xW5nJ0Hhfr) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Silver & Gold](https://open.spotify.com/album/75MIeBFvynPkb13J6kjDmr) | 3:36 | 2025-04-29 |  |

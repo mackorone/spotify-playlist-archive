@@ -2709,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "The Now Now",
+        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180373,
+      "name": "Sorcererz",
+      "url": "https://open.spotify.com/track/0IJK096XrKQd14Q6fNqW0e"
+    },
+    {
+      "album": {
         "name": "Amanecer",
         "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
       },
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 203758,
       "name": "Tiring Game",
       "url": "https://open.spotify.com/track/7eeg1G22Q386Zigie8qrpN"

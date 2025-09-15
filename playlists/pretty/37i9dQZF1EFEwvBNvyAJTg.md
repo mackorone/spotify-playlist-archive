@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 145 | [Back to Love](https://open.spotify.com/track/5CvjyttMuXKAyfBjV1iSJ3) | [Algee Smith](https://open.spotify.com/artist/10gHoEHUPNcTFsyVR2YyeA) | [Listen](https://open.spotify.com/album/6CYTungb6eOWUboOc9SPk2) | 3:12 |
 | 146 | [Over You](https://open.spotify.com/track/5Wde3lrtqj94TuX997Nx77) | [Toni Romiti](https://open.spotify.com/artist/0taUqKeI9JbGZECxu5bVV0), [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 2:54 |
 | 147 | [Sicko](https://open.spotify.com/track/1HviCfLLU3yd7SktE1AmvO) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:32 |
-| 148 | [Friday](https://open.spotify.com/track/2vTf9a0lLSWVKNtwpVQ498) | [Tommy Down](https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg) | [Friday](https://open.spotify.com/album/49CKOwAEpZZn1L9CDbNibI) | 4:28 |
-| 149 | [Wildflower](https://open.spotify.com/track/6e3aWmdRTfEm9aXQjNuVl0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Wildflower](https://open.spotify.com/album/7FoV7pzO9XsiabsDFdi8S8) | 3:28 |
+| 148 | [Wildflower](https://open.spotify.com/track/6e3aWmdRTfEm9aXQjNuVl0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Wildflower](https://open.spotify.com/album/7FoV7pzO9XsiabsDFdi8S8) | 3:28 |
+| 149 | [Friday](https://open.spotify.com/track/2vTf9a0lLSWVKNtwpVQ498) | [Tommy Down](https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg) | [Friday](https://open.spotify.com/album/49CKOwAEpZZn1L9CDbNibI) | 4:28 |
 | 150 | [Heartslap](https://open.spotify.com/track/4K81soo8r8lpB711m7E0ze) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Mykal Kilgore](https://open.spotify.com/artist/0YO1x9lk7UJdHjR16lC23F) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 3:09 |
 | 151 | [Stay In](https://open.spotify.com/track/3K6fxJQP324dGBh0ugobb3) | [Algee Smith](https://open.spotify.com/artist/10gHoEHUPNcTFsyVR2YyeA) | [Listen](https://open.spotify.com/album/6CYTungb6eOWUboOc9SPk2) | 2:52 |
 | 152 | [Steph Curry](https://open.spotify.com/track/2SoD6N6lXUp9cPmFkEFW3Q) | [Algee Smith](https://open.spotify.com/artist/10gHoEHUPNcTFsyVR2YyeA) | [Listen](https://open.spotify.com/album/6CYTungb6eOWUboOc9SPk2) | 3:18 |
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 182 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 183 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `Ab8JfAAAAAAMdjQ3PjW8tLDWV69Iz3xb`
+Snapshot ID: `Ab8O/gAAAACkaqvz6u2pJidqI1gujy9J`

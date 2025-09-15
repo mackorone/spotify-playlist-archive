@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 578 songs - 1 day 13 hr 56 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 579 songs - 1 day 13 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -586,5 +586,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 576 | [Prelude](https://open.spotify.com/track/7KIWUT6JRWPgXMFeNLTyS4) | [Typhoon](https://open.spotify.com/artist/6p6WlxIkeWH8yOYvciFfVl) | [White Lighter](https://open.spotify.com/album/4O1WEqjRcJqSjF0HhQPm31) | 0:17 |
 | 577 | [Ashes in the Snow \- Remastered](https://open.spotify.com/track/6ieH021IWLGOGifX0FUzsM) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Hymn to the Immortal Wind \(Anniversary Edition\)](https://open.spotify.com/album/2tMQkZ8WvwpM7qmRVrW3hK) | 11:44 |
 | 578 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
+| 579 | [Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [The Most Dear and The Future](https://open.spotify.com/album/51h6ahBtJWl7emcB5yDSuU) | 2:19 |
 
-Snapshot ID: `AAAHq46mNRQscyuNFCLZExz61gz2vU40`
+Snapshot ID: `AAAHrDylFCWqiwJgPKTSj5Nz0jNxRjjr`

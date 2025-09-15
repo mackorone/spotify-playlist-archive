@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,013 songs - 1 day 16 hr 41 min
+2,014 songs - 1 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1089,6 +1089,7 @@
 | [Midnight Swimming](https://open.spotify.com/track/6c7pm5E7MRwLCzaaoD7j4I) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Inspiring Wonder](https://open.spotify.com/album/5GaqAoc0gAzImOql9eWKVF) | 1:03 | 2022-02-19 |  |
 | [Miles to Go](https://open.spotify.com/track/1g5254X82g7isq9vJuOcTu) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Songs Without Words](https://open.spotify.com/album/0rhu5ZYpDAN0J9Njc4zHb7) | 2:19 | 2022-01-12 | 2024-01-30 |
 | [Mindful](https://open.spotify.com/track/5cxMFzeeSgOJ0piXC90cZo) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Mindful](https://open.spotify.com/album/2GvzXMQXMDAGB2Bna6w4A9) | 1:00 | 2024-12-19 |  |
+| [Mirror](https://open.spotify.com/track/0W6T84QaDscQV7wcwGQ0yV) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Mirror](https://open.spotify.com/album/2Z0uLc4Ug1h4PLI4liULoj) | 1:00 | 2025-09-14 |  |
 | [Missing Yesterday](https://open.spotify.com/track/1PgFLXu3um2BfPU7nDh9VB) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Recollections Vol\. 3](https://open.spotify.com/album/2jagQByBpQMevSxF0lEvoS) | 1:55 | 2022-01-12 | 2024-01-30 |
 | [Missing Yesterday](https://open.spotify.com/track/4RBXAmFuvv0dxnUmdNb74x) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Adventures In Solitude](https://open.spotify.com/album/5pKjYSX5Xu0BvLQJ9znHA2) | 1:55 | 2024-01-29 |  |
 | [Mist In The Field](https://open.spotify.com/track/2IK8qNQt3f9v5iYm7d3jL9) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Mist In The Field](https://open.spotify.com/album/4EFn8EjIUBKo3IM95JqlQ3) | 1:00 | 2024-02-09 | 2024-02-13 |

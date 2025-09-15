@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-903 songs - 2 day 11 hr 52 min
+904 songs - 2 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,6 +637,7 @@
 | [Ready Lets Go](https://open.spotify.com/track/27M2m1NzEmCkzb9kzTLqzT) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 0:59 | 2022-05-28 | 2024-01-10 |
 | [Real Death](https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [A Crow Looked at Me](https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN) | 2:27 | 2024-06-06 |  |
 | [Real House](https://open.spotify.com/track/62R903SYfJm79xxLhjEhyW) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 5:58 | 2024-03-22 | 2024-06-25 |
+| [Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [The Most Dear and The Future](https://open.spotify.com/album/51h6ahBtJWl7emcB5yDSuU) | 2:19 | 2025-09-14 |  |
 | [recognized](https://open.spotify.com/track/4sriGuSuKyc8mmcoWaNO2b) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 1:02 | 2023-04-19 | 2024-01-02 |
 | [Red Rain \- 2012 Remaster](https://open.spotify.com/track/3ixUQ3Wt5B6iIkY6zWhRMY) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(2012 Remastered\)](https://open.spotify.com/album/2ikq6LspaBbUG2qyiV5qdx) | 5:40 | 2024-01-08 |  |
 | [Redemption Arc](https://open.spotify.com/track/5P2xjOkykDrAHcLxCLyBDi) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 3:21 | 2024-03-03 | 2024-03-05 |

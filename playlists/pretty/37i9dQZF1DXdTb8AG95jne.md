@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: The Poles\(더 폴스\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,411 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,436 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Tomato Marinade \(feat\. 윤형준\)](https://open.spotify.com/track/3XkYgZPYOwn9Y4PSDKIITK) | [Jang kiki](https://open.spotify.com/artist/2uMuJQRkgaDPQzSccUgNbd), [Yoon Hyeong Jun](https://open.spotify.com/artist/1RD1AHG2pFbjj6CRXwZbMl) | [Recipe of Summer](https://open.spotify.com/album/6KH3ojIirdLY8LaZdw7ft8) | 2:57 |
 | 50 | [To Be Found](https://open.spotify.com/track/4xLUZsn5d9Io9a0ZDyHo5z) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [To Be Found](https://open.spotify.com/album/6RK0ja0NOIrgN8q5lD6218) | 4:55 |
 
-Snapshot ID: `AAAAABZ/vmazCy0/HZwPvRNeuwdpNUlZ`
+Snapshot ID: `AAAAAAcfArtRV5c86QqmM6w6pgSVlWCF`

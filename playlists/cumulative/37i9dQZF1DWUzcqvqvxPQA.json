@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "Sun's out...and so are you!  Let these inspirational and faith-filled songs soundtrack your summer fun!",
-  "name": "Summer Spirit",
+  "description": "To everything there is a season so let these faith-filled songs be the soundtrack to your Fall!",
+  "name": "Fall Spirit",
   "tracks": [
     {
       "album": {
@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "a light in me",
+        "url": "https://open.spotify.com/album/3tEVEN59Yr9xHBjNNIt5YU"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191547,
+      "name": "a light in me",
+      "url": "https://open.spotify.com/track/1LMiE4tPJ49stB7AsHyWZ4"
+    },
+    {
+      "album": {
         "name": "A Little Light",
         "url": "https://open.spotify.com/album/2qlhs0qXQ3PMWzsPHpPwhC"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 219464,
       "name": "A Little Light",
       "url": "https://open.spotify.com/track/74LJN9lVkbpVRXnZOLKttx"
@@ -52,7 +70,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 123888,
       "name": "Abacus",
       "url": "https://open.spotify.com/track/6NWHhbD4HG7IqLrks7aAju"
@@ -248,7 +266,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 241998,
       "name": "Ancient of Days (reimagined)",
       "url": "https://open.spotify.com/track/3RXZmXBwAuIZOBNIwkQvzO"
@@ -306,7 +324,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 218948,
       "name": "Awesome",
       "url": "https://open.spotify.com/track/1CCi2rldOo75tHL5kau6WA"
@@ -342,7 +360,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 174650,
       "name": "backseat drive",
       "url": "https://open.spotify.com/track/4IValzT5ZRzUXyofWl8mbp"
@@ -360,7 +378,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 299658,
       "name": "Be Glad",
       "url": "https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1"
@@ -396,7 +414,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 227234,
       "name": "Beautiful Day (House of the Lord)",
       "url": "https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh"
@@ -432,7 +450,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 112497,
       "name": "Believe It",
       "url": "https://open.spotify.com/track/24MzsXH35mx5ZAJqIhVC8K"
@@ -494,6 +512,24 @@
       "duration_ms": 224494,
       "name": "Between U And Me",
       "url": "https://open.spotify.com/track/47EB5UKcMRu1A5NCgzv6Sr"
+    },
+    {
+      "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/1HXCaQmQea8GL5FXUze8oI"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233152,
+      "name": "Black Sheep",
+      "url": "https://open.spotify.com/track/42AQxbRCvwfGg9L0oRDUR5"
     },
     {
       "album": {
@@ -720,7 +756,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 222157,
       "name": "Cheers",
       "url": "https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL"
@@ -884,7 +920,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 127514,
       "name": "closer",
       "url": "https://open.spotify.com/track/0OXZJHPmDYIyVaJ5nHM8YB"
@@ -1046,7 +1082,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 188267,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4VRYsx7ppmuqEQAfb2oiZT"
@@ -1094,7 +1130,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 169090,
       "name": "DESTINY",
       "url": "https://open.spotify.com/track/5RtRPhTCDjPoJqhqAtMz3t"
@@ -1178,7 +1214,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 152555,
       "name": "Don't do Molly",
       "url": "https://open.spotify.com/track/2eIxhnxXBPcFawLvjZyhzy"
@@ -1286,7 +1322,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 183479,
       "name": "Drives",
       "url": "https://open.spotify.com/track/3olQqumBrebhLCjZXtpE3D"
@@ -1366,7 +1402,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 160468,
       "name": "Eva Comin' Down",
       "url": "https://open.spotify.com/track/4HBtGUZWkoUPd75SlF7sCk"
@@ -1572,7 +1608,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 186000,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV"
@@ -1674,7 +1710,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 153793,
       "name": "fix my eyes",
       "url": "https://open.spotify.com/track/6Ep2zX7LwsYw1eMDZu0Ukx"
@@ -1750,7 +1786,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 249750,
       "name": "FOOTSTOOL",
       "url": "https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw"
@@ -1793,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "Fork in the Road (ft. Trella)",
+        "url": "https://open.spotify.com/album/1HZbGKCMrnZi1V0EQ5NiJg"
+      },
+      "artists": [
+        {
+          "name": "gavn!",
+          "url": "https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207642,
+      "name": "Fork in the Road",
+      "url": "https://open.spotify.com/track/0dgbQ7OVTpIzCNMf9BxAQ9"
+    },
+    {
+      "album": {
         "name": "FOUGHT 4 LOVE",
         "url": "https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx"
       },
@@ -1808,7 +1862,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 150000,
       "name": "FOUGHT 4 LOVE",
       "url": "https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1"
@@ -1870,7 +1924,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 225617,
       "name": "FREE! - Live",
       "url": "https://open.spotify.com/track/6TK9UE4eODGbyimh0qEYoq"
@@ -1888,7 +1942,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 362346,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
@@ -1950,7 +2004,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 174220,
       "name": "Give It All",
       "url": "https://open.spotify.com/track/2IEPGJGDOYz8aOaaXZCbUT"
@@ -2114,7 +2168,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 183213,
       "name": "Gonna Be Good",
       "url": "https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U"
@@ -2132,7 +2186,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 170521,
       "name": "GOOD DAY",
       "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
@@ -2150,7 +2204,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 289285,
       "name": "Good Feeling - Live",
       "url": "https://open.spotify.com/track/0bJ3hmRDGCMLM6fOcHygq1"
@@ -2242,7 +2296,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 195818,
       "name": "Grace",
       "url": "https://open.spotify.com/track/73RrO6QxGa9svtiBkzjgPc"
@@ -2666,7 +2720,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 174800,
       "name": "Highs Get Low",
       "url": "https://open.spotify.com/track/0kKZrM6uJlr9tU1qAuTntD"
@@ -2702,7 +2756,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 172113,
       "name": "Hold On Me",
       "url": "https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH"
@@ -2782,7 +2836,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 164632,
       "name": "How Good of God",
       "url": "https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t"
@@ -2879,6 +2933,28 @@
     },
     {
       "album": {
+        "name": "I'll Fly Away (feat. Benjamin William Hastings)",
+        "url": "https://open.spotify.com/album/1G1dXoBVTVsHi8ckSxwl0z"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180936,
+      "name": "I'll Fly Away (feat. Benjamin William Hastings)",
+      "url": "https://open.spotify.com/track/2wyDAbsLjAysWOWr6q5NGB"
+    },
+    {
+      "album": {
         "name": "I'm Gonna Let It Go",
         "url": "https://open.spotify.com/album/7fHnC7zjvIf46XZV6KAoVt"
       },
@@ -2930,7 +3006,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 175090,
       "name": "I'm So Blessed - Aaron Cole Mix",
       "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
@@ -3054,7 +3130,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 168096,
       "name": "Into The Wild",
       "url": "https://open.spotify.com/track/7xyXxjGU6p5nBJi2mB198Y"
@@ -3134,7 +3210,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 111110,
       "name": "JESUS IS LORD",
       "url": "https://open.spotify.com/track/2YYWFVVEKQbn74uifc6gLh"
@@ -3160,7 +3236,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 168000,
       "name": "Jireh (My Provider)",
       "url": "https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH"
@@ -3240,7 +3316,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 170400,
       "name": "Joyful Melody",
       "url": "https://open.spotify.com/track/69yAwdmV8VngYAYXNgbWrZ"
@@ -3276,7 +3352,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 205659,
       "name": "Jump",
       "url": "https://open.spotify.com/track/0LS222XE1wYJZ30WEy2HBa"
@@ -3356,7 +3432,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 180829,
       "name": "Koolaid",
       "url": "https://open.spotify.com/track/2VT2WRmWPN4Be318KrdFDo"
@@ -3436,7 +3512,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 187871,
       "name": "LIFE IS GOOD",
       "url": "https://open.spotify.com/track/1MGJgerlsDFsQsUo7ITVop"
@@ -3644,7 +3720,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 150662,
       "name": "Love Me Anyway",
       "url": "https://open.spotify.com/track/4FiC3pmU9BruZNna7YH84u"
@@ -3662,7 +3738,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 167617,
       "name": "Love Me Back to Life",
       "url": "https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J"
@@ -3716,7 +3792,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 183702,
       "name": "Made for This",
       "url": "https://open.spotify.com/track/6RKTY3Hg1q19kmrlPzMCIh"
@@ -3760,7 +3836,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 214200,
       "name": "Meant For Good",
       "url": "https://open.spotify.com/track/3HzNYPLR7TB2PkDak8kVEN"
@@ -3804,7 +3880,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 210933,
       "name": "MILLION WAYS",
       "url": "https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP"
@@ -3934,7 +4010,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 138947,
       "name": "Move",
       "url": "https://open.spotify.com/track/2zFuw2F2ryWdseOeVILZlN"
@@ -4216,7 +4292,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 133761,
       "name": "Not For You",
       "url": "https://open.spotify.com/track/0yuBiPxOKOe4jYbOzSe92t"
@@ -4322,7 +4398,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 176929,
       "name": "Nothin' Sweeter",
       "url": "https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1"
@@ -4788,7 +4864,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 123478,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
@@ -4818,7 +4894,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 304535,
       "name": "Praise (feat. Brandon Lake, Chris Brown & Chandler Moore)",
       "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"
@@ -4840,7 +4916,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 191212,
       "name": "Praise The Lord (Sunday Prelude)",
       "url": "https://open.spotify.com/track/2AQnZjjMM13j7hhyot1hEz"
@@ -5024,7 +5100,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 170533,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/4pVzf8UaGNQV0v9HyVjjVO"
@@ -5140,7 +5216,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 179843,
       "name": "Run",
       "url": "https://open.spotify.com/track/2CQPcqiBrGm19Gx2I2EqB2"
@@ -5162,7 +5238,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 187478,
       "name": "Safety",
       "url": "https://open.spotify.com/track/2gEJF2jsnb6yqTCuy34weW"
@@ -5216,7 +5292,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 135601,
       "name": "SAY SO",
       "url": "https://open.spotify.com/track/4WVX0krwrhG46SObNcUVaq"
@@ -5448,7 +5524,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 176000,
       "name": "SOMETHING DIFFERENT",
       "url": "https://open.spotify.com/track/6IYLA7aFxVNi5puPw6wppV"
@@ -5492,7 +5568,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 180229,
       "name": "Song of the Summer",
       "url": "https://open.spotify.com/track/3m1hA3gecbWfbEKXYD0V7U"
@@ -5634,7 +5710,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 213995,
       "name": "STRENGTH AND SONG",
       "url": "https://open.spotify.com/track/0MpVmc8oPQswuIwt1hMPYW"
@@ -5706,7 +5782,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 145919,
       "name": "SUMMER",
       "url": "https://open.spotify.com/track/22xjQaEYVuTKbZVdTUneSw"
@@ -5758,7 +5834,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 222315,
       "name": "Sunrise 2 Sunset",
       "url": "https://open.spotify.com/track/3mrX6h20KTtxUqBwxkCaPV"
@@ -5794,7 +5870,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 187073,
       "name": "SUNSHINE",
       "url": "https://open.spotify.com/track/1Q6GO5Uq4DbfWAtMGTlnm4"
@@ -5830,7 +5906,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 216583,
       "name": "Sweeter",
       "url": "https://open.spotify.com/track/5JhK3XsKHNrfejHmonKTto"
@@ -5866,7 +5942,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 191979,
       "name": "Take Over Me",
       "url": "https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X"
@@ -5888,7 +5964,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 149379,
       "name": "Tee It Up",
       "url": "https://open.spotify.com/track/5lbEEcGksMwi4ztAqCvvtA"
@@ -5914,7 +5990,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 154124,
       "name": "Testify",
       "url": "https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg"
@@ -5968,7 +6044,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 186709,
       "name": "That Thank You Song!",
       "url": "https://open.spotify.com/track/5YHrFpkDJ0yThCWlx3MbSa"
@@ -6128,7 +6204,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 193048,
       "name": "The Prodigal",
       "url": "https://open.spotify.com/track/6BqobW3pEDxEvgznbam8kv"
@@ -6168,7 +6244,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 228215,
       "name": "The Sacrifice",
       "url": "https://open.spotify.com/track/35Bkyy0sIJ2HB2fEJXlV43"
@@ -6190,7 +6266,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 305674,
       "name": "This Is The Gospel",
       "url": "https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB"
@@ -6226,7 +6302,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 197834,
       "name": "This Love",
       "url": "https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b"
@@ -6262,7 +6338,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 182731,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/51ntQprVv963OPeFxdLCJt"
@@ -6298,7 +6374,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 242341,
       "name": "True Religion",
       "url": "https://open.spotify.com/track/3IlnvgJOZFgiXv5nVu90E9"
@@ -6316,7 +6392,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 213912,
       "name": "Turbulent Skies",
       "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
@@ -6450,7 +6526,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 152656,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/5R41ZubwtDGxn4xpBZBV1g"
@@ -6610,7 +6686,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 197817,
       "name": "When I Say Yes",
       "url": "https://open.spotify.com/track/09wek0QXMM5ZjZ2B3JAcp4"
@@ -6632,6 +6708,24 @@
       "duration_ms": 218719,
       "name": "Where Does The Time Go?",
       "url": "https://open.spotify.com/track/0eSITaFDrUyyjjcQ2KmqWh"
+    },
+    {
+      "album": {
+        "name": "Where the Living is Deep",
+        "url": "https://open.spotify.com/album/4Wc2fjWX8CTCCtgqssKadU"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "date_added": "2025-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212891,
+      "name": "Where the Living is Deep",
+      "url": "https://open.spotify.com/track/7v4UqCKQqjoWRy8gDfYZq5"
     },
     {
       "album": {
@@ -6736,7 +6830,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 194251,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/4q8AWVVk5OB1Xz9vNoBn5h"
@@ -6790,7 +6884,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 162000,
       "name": "Yellow Soul",
       "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
@@ -6964,7 +7058,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-15",
       "duration_ms": 198082,
       "name": "YOUR WAY'S BETTER",
       "url": "https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU"

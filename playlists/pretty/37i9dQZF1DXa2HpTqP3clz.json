@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Rhiannon Giddens & Justin Robinson",
-  "num_followers": 167282,
+  "num_followers": 167298,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Small Towns",
-        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
-      },
-      "artists": [
-        {
-          "name": "Stillhouse Junkies",
-          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Colorado Bound",
-      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
         "name": "Back Porch Bluegrass",
         "url": "https://open.spotify.com/album/3g3awNPtHQE1qcyBOTnlea"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 170440,
       "name": "Polly Vaughn",
       "url": "https://open.spotify.com/track/0EPJB1ozouVQYW1qfHtWS1"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
+        "name": "Small Towns",
+        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
+      },
+      "artists": [
+        {
+          "name": "Stillhouse Junkies",
+          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Colorado Bound",
+      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/5sVC9YU9VdVhQhGxayUX0n"
-      },
-      "artists": [
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "Smoky Mountain Girl",
-      "url": "https://open.spotify.com/track/0np7pLWzNJcW06dIil3fWp"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
         "name": "Wake Me When It's Over",
         "url": "https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 258393,
       "name": "Wake Me When It's Over",
       "url": "https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/5sVC9YU9VdVhQhGxayUX0n"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "Smoky Mountain Girl",
+      "url": "https://open.spotify.com/track/0np7pLWzNJcW06dIil3fWp"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Please Mr Please",
-        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
-      },
-      "artists": [
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        }
-      ],
-      "duration_ms": 272326,
-      "name": "Please Mr Please",
-      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
         "name": "The Whole of the Moon",
         "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 282794,
       "name": "The Whole of the Moon",
       "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
+        "name": "Please Mr Please",
+        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 272326,
+      "name": "Please Mr Please",
+      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Squareneck Soul",
-        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
-      },
-      "artists": [
-        {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "Squareneck Soul",
-      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
         "name": "Living In A Song",
         "url": "https://open.spotify.com/album/6OBDoOanDakhw9QyyB5wau"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 236213,
       "name": "Living In A Song",
       "url": "https://open.spotify.com/track/2xedIPhAxW5H0IGWM9J29L"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
+        "name": "Squareneck Soul",
+        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
+      },
+      "artists": [
+        {
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+        }
+      ],
+      "duration_ms": 149346,
+      "name": "Squareneck Soul",
+      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "No Matter Where It Goes from Here",
-        "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
-      },
-      "artists": [
-        {
-          "name": "Wood & Wire",
-          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
         "name": "Into the Wild",
         "url": "https://open.spotify.com/album/058OYbS7WY1vMt77wgSbo6"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 254316,
       "name": "Into the Wild",
       "url": "https://open.spotify.com/track/3N5uxXspMxRD6q1k0G0NwW"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
+        "name": "No Matter Where It Goes from Here",
+        "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
+      },
+      "artists": [
+        {
+          "name": "Wood & Wire",
+          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
+        "name": "Reason To Believe",
+        "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
+      },
+      "artists": [
+        {
+          "name": "The Seldom Scene",
+          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
+        }
+      ],
+      "duration_ms": 173688,
+      "name": "Reason To Believe",
+      "url": "https://open.spotify.com/track/7eYu7mpSO3ReYrPM2Hyg72"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
         "name": "Mr. Charlie",
         "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 273627,
       "name": "Mr. Charlie",
       "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
-        "name": "Reason To Believe",
-        "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
-      },
-      "artists": [
-        {
-          "name": "The Seldom Scene",
-          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
-        }
-      ],
-      "duration_ms": 173688,
-      "name": "Reason To Believe",
-      "url": "https://open.spotify.com/track/7eYu7mpSO3ReYrPM2Hyg72"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Railroadin' & Gamblin'",
-        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
-      },
-      "artists": [
-        {
-          "name": "East Nash Grass",
-          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
-        }
-      ],
-      "duration_ms": 173237,
-      "name": "Railroadin' & Gamblin'",
-      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
         "name": "Will You Ever Be Mine",
         "url": "https://open.spotify.com/album/3hCrcdxBsHCItEVaPhNbdb"
       },
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Blue Night",
-        "url": "https://open.spotify.com/album/4zuvesfsRy11qUXy9RyAJM"
+        "name": "Railroadin' & Gamblin'",
+        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
       },
       "artists": [
         {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+          "name": "East Nash Grass",
+          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Blue Night",
-      "url": "https://open.spotify.com/track/5CsDpl5sZRU3GtAYZe8YfN"
+      "duration_ms": 173237,
+      "name": "Railroadin' & Gamblin'",
+      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
+        "name": "Blue Night",
+        "url": "https://open.spotify.com/album/4zuvesfsRy11qUXy9RyAJM"
+      },
+      "artists": [
+        {
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Blue Night",
+      "url": "https://open.spotify.com/track/5CsDpl5sZRU3GtAYZe8YfN"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
         "name": "Bury Me Beneath the Willow",
         "url": "https://open.spotify.com/album/7udN0NdG7MCc8j5ud1XDt5"
       },
@@ -1651,6 +1651,22 @@
       "duration_ms": 238157,
       "name": "Bury Me Beneath the Willow",
       "url": "https://open.spotify.com/track/0wVkYqvTSittO0HGc3EUCF"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
+        "name": "Big City",
+        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
+      },
+      "artists": [
+        {
+          "name": "Joe Mullins & The Radio Ramblers",
+          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
+        }
+      ],
+      "duration_ms": 171055,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -1683,22 +1699,6 @@
       "duration_ms": 195000,
       "name": "Georgia Rain",
       "url": "https://open.spotify.com/track/6kM1cbK4b9MPzIDKvzXJHu"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
-        "name": "Big City",
-        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
-      },
-      "artists": [
-        {
-          "name": "Joe Mullins & The Radio Ramblers",
-          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
-        }
-      ],
-      "duration_ms": 171055,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Radio John: Songs of John Hartford",
-        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
-      },
-      "artists": [
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "I'm Still Here",
-      "url": "https://open.spotify.com/track/7kb2VDW8ENEIsQRUnia0if"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
         "name": "Hang Around for the Heartbreak",
         "url": "https://open.spotify.com/album/5CSL7Qy9qIxwAefETqmUy6"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 170000,
       "name": "Hang Around for the Heartbreak",
       "url": "https://open.spotify.com/track/5AdjLQJAOvXsdInkY1nuPD"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
+        "name": "Radio John: Songs of John Hartford",
+        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
+      },
+      "artists": [
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "I'm Still Here",
+      "url": "https://open.spotify.com/track/7kb2VDW8ENEIsQRUnia0if"
     },
     {
       "added_at": "2025-08-15 04:00:22",
