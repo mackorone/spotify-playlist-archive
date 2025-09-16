@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Jassin
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,068 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,102 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Arsenalplatz](https://open.spotify.com/track/2BflyD6iRTJJffvVqmMtk5) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Arsenalplatz](https://open.spotify.com/album/6xztgC0pES1sRIA3v1JTTh) | 2:55 |
-| 2 | [Pflaster](https://open.spotify.com/track/65nHrdMGRurIyNBf3ENRvt) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Pflaster](https://open.spotify.com/album/7iZAC44rL0HrhYyl74iIck) | 2:57 |
-| 3 | [Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Wie sehr tut es weh?](https://open.spotify.com/album/1Jg8mEexQQyUYKdizzRnRK) | 2:45 |
+| 2 | [Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Wie sehr tut es weh?](https://open.spotify.com/album/1Jg8mEexQQyUYKdizzRnRK) | 2:45 |
+| 3 | [Pflaster](https://open.spotify.com/track/65nHrdMGRurIyNBf3ENRvt) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Pflaster](https://open.spotify.com/album/7iZAC44rL0HrhYyl74iIck) | 2:57 |
 | 4 | [langeher](https://open.spotify.com/track/2dwFcTa9PuN6w03DWdWJPx) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [langeher](https://open.spotify.com/album/28us0TybhZwN1XawPpYZvm) | 2:38 |
-| 5 | [siriusstern](https://open.spotify.com/track/2nFfjUbdHsmgt7bszzqXOE) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [siriusstern](https://open.spotify.com/album/0LfbdxND1TtRf0EVzeyyR8) | 3:03 |
-| 6 | [Hamburger Zukunftsentscheid](https://open.spotify.com/track/3EK17keVMunkpJfH3PdM7o) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [laut](https://open.spotify.com/album/417GtyBzOCsj7JFkvgzozh) | 3:58 |
-| 7 | [aus dem Takt](https://open.spotify.com/track/0kLIJuhdf3ylloA84Z1tXS) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [aus dem Takt](https://open.spotify.com/album/7xuJ8WboYUbx9sofA1d7XZ) | 2:52 |
+| 5 | [aus dem Takt](https://open.spotify.com/track/0kLIJuhdf3ylloA84Z1tXS) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [aus dem Takt](https://open.spotify.com/album/7xuJ8WboYUbx9sofA1d7XZ) | 2:52 |
+| 6 | [1996](https://open.spotify.com/track/1FQ20CihLeBuPUlpJiQXgQ) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [1996](https://open.spotify.com/album/1LxZlo9yLCM1p53gALTffx) | 3:30 |
+| 7 | [siriusstern](https://open.spotify.com/track/2nFfjUbdHsmgt7bszzqXOE) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [siriusstern](https://open.spotify.com/album/0LfbdxND1TtRf0EVzeyyR8) | 3:03 |
 | 8 | [Verlier Mich](https://open.spotify.com/track/4lvvLeeiKvsOPglkOXWowx) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [wenn ich groß bin, will ich alles werden außer alt](https://open.spotify.com/album/6XGCSVoJkjrRJCAg53I1jQ) | 3:30 |
-| 9 | [4000 Grad](https://open.spotify.com/track/072I9eZXzqc4FTcihvofjR) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [4000 Grad](https://open.spotify.com/album/2lkXbUhpicIypWig96Sa4P) | 2:23 |
-| 10 | [ich lieg wieder wach](https://open.spotify.com/track/0ZCyFfKamJE0xEbg28L3ob) | [Wolke 8](https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26), [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [ich lieg wieder wach](https://open.spotify.com/album/0GpctchdE4a4L3qaM0bn4u) | 4:32 |
-| 11 | [1996](https://open.spotify.com/track/1FQ20CihLeBuPUlpJiQXgQ) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [1996](https://open.spotify.com/album/1LxZlo9yLCM1p53gALTffx) | 3:30 |
+| 9 | [Hamburger Zukunftsentscheid](https://open.spotify.com/track/3EK17keVMunkpJfH3PdM7o) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [laut](https://open.spotify.com/album/417GtyBzOCsj7JFkvgzozh) | 3:58 |
+| 10 | [4000 Grad](https://open.spotify.com/track/072I9eZXzqc4FTcihvofjR) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [4000 Grad](https://open.spotify.com/album/2lkXbUhpicIypWig96Sa4P) | 2:23 |
+| 11 | [ich lieg wieder wach](https://open.spotify.com/track/0ZCyFfKamJE0xEbg28L3ob) | [Wolke 8](https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26), [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [ich lieg wieder wach](https://open.spotify.com/album/0GpctchdE4a4L3qaM0bn4u) | 4:32 |
 | 12 | [Luftschloss](https://open.spotify.com/track/1NJ1BkSyT0PAcbCPOQmtmJ) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Erinnerst du dich](https://open.spotify.com/album/6HGoY1yJ9SvuXzbZz5k037) | 2:30 |
 | 13 | [Mars](https://open.spotify.com/track/2pBJ5niLIzgziC8MsL7A4F) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq) | [Mars](https://open.spotify.com/album/1rp2rarNiSFB7ZqkIs5zPu) | 4:52 |
 | 14 | [Liebeslieder](https://open.spotify.com/track/2DiM40iTWQdrRt0TqSZQfr) | [Felix Herbst](https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d) | [Liebeslieder](https://open.spotify.com/album/7dUu1CouJlkNjXppuGiHIC) | 2:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Seltsame Welt](https://open.spotify.com/track/6pKeiH8i03FKfwTPfPi2F6) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh), [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Seltsame Welt](https://open.spotify.com/album/0KqRCqU3oh9vL6nBrxPIWU) | 2:42 |
 | 75 | [ed hardy walzer](https://open.spotify.com/track/08pOhi3ERDYUVVSqfyHlq3) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [ed hardy walzer](https://open.spotify.com/album/4oLYzNrkxfXr5zbi2ZTJJ5) | 2:45 |
 
-Snapshot ID: `AAAAACtUBrTbpPWqw6nJEknEej8dTtzL`
+Snapshot ID: `AAAAANo9j0ANpY9lLG9Vm1bbgeN/ngJM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,229 likes - 178 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,241 likes - 178 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 36 | [Butterfly \(Main Title Theme\)](https://open.spotify.com/track/0GzYENQAOCMmdAqNiUmvnd) | [Curtis Green](https://open.spotify.com/artist/7BeM8T22ATymjmtyyfoHyV) | [Butterfly \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/33wNbXk6xIdqy76Hp9Cwmu) | 1:02 |
 | 37 | [The Rainmaker](https://open.spotify.com/track/6iJ4jqghoqrp25uv9JPXte) | [Clinton Shorter](https://open.spotify.com/artist/23Vu6ClvSnmNSbz3ODd3iJ) | [The Rainmaker: Season 1 \(Music from the USA Original Series\)](https://open.spotify.com/album/4ylbsqtyvreiqVBx9hfvLw) | 3:46 |
 | 38 | [Return To Nevermore \- from "Wednesday: Season 2"](https://open.spotify.com/track/1HF04uqv5vSe8drRMO83TT) | [Chris Bacon](https://open.spotify.com/artist/5WWp4g4TgYMfz8XcO3RTHO), [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03), [Nevermore Academy Orchestra](https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU) | [Wednesday: Season 2 \(Original Score from the Netflix Series\), Vol\. 1](https://open.spotify.com/album/77cjR6MiFQnX9NCl3O955f) | 1:12 |
-| 39 | [The Julia and Henry Theme](https://open.spotify.com/track/5L97IMqGQrDaHMQaCeg3pQ) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Blood of My Blood \(Season 1 Original Series Soundtrack\)](https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6) | 3:58 |
+| 39 | [The Julia and Henry Theme](https://open.spotify.com/track/5L97IMqGQrDaHMQaCeg3pQ) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Blood of my Blood \(Season 1 Original Series Soundtrack\)](https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6) | 3:58 |
 | 40 | [I Thought I Wanted To Meet You](https://open.spotify.com/track/33oCDJ85Ednvm0ZVxfpCUc) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [I Thought I Wanted To Meet You](https://open.spotify.com/album/6Y1SFwTfrqPi7KNPBkZc43) | 4:29 |
 | 41 | [Nina’s Theme](https://open.spotify.com/track/11vzrx4D9aunBxK7GuiPR9) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [Duster \(Original Series Soundtrack\)](https://open.spotify.com/album/2ljhGzOnHXtIupNqP9Se12) | 3:20 |
 | 42 | [L'épreuve du feu](https://open.spotify.com/track/5JekY6RpOkFHwGWWTRO5lV) | [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [L'épreuve du feu \(Bande originale du film\)](https://open.spotify.com/album/2hsRmm3fiX1lXYFfoE0Imm) | 1:25 |

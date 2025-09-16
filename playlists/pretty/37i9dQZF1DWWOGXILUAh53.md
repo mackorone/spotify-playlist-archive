@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Demi Lovato
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,571 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,774 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 4 | [RADIO \(feat\. Kim Petras\)](https://open.spotify.com/track/06kFuqzhMk4E6IYeO0sTfx) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [SISTER](https://open.spotify.com/album/6U7EWP2htJIkZny2Iv7mHG) | 3:10 |
 | 5 | [808 HYMN](https://open.spotify.com/track/3UaOcDgXZVFMopdWX8hukn) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [808 HYMN](https://open.spotify.com/album/6Br8z93mJODxZskiJ3GHZD) | 4:13 |
 | 6 | [Ocean](https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Ocean](https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF) | 3:39 |
-| 7 | [Forever](https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/5AOBx6uu2fTnhsu5keahyR) | [Forever](https://open.spotify.com/album/5bZB1yQFWT2YAR36eEuSct) | 2:51 |
+| 7 | [Forever](https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/42CbYw1Y9fAdCr6UND2P5f) | [Forever](https://open.spotify.com/album/5bZB1yQFWT2YAR36eEuSct) | 2:51 |
 | 8 | [Phases](https://open.spotify.com/track/6NzoVYiCWulsOECuaXDazA) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Phases](https://open.spotify.com/album/3msLrvkMWgzkEMM0HTmTxJ) | 3:04 |
 | 9 | [April](https://open.spotify.com/track/2g4WU3DW5CtHRohxMWw2wH) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [April](https://open.spotify.com/album/77SSFBy29ddxQnSq6K0zlT) | 3:15 |
 | 10 | [Stay On Me](https://open.spotify.com/track/6h7cY2Dgk4JGGzFSIutPYC) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Stay On Me](https://open.spotify.com/album/3070rfYDNRp8Ij3DkfJGzC) | 3:07 |

@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-315 songs - 21 hr 31 min
+316 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Another Riff For The Good Times](https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Another Riff For The Good Times / Daydreaming](https://open.spotify.com/album/4ACy5ync0g9C1cgphs8YMG) | 3:48 | 2022-01-14 | 2024-07-05 |
 | [Aquatic](https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Aquatic](https://open.spotify.com/album/1sXUPeXG3bo3norKvF2nJx) | 3:46 | 2022-01-14 | 2024-07-19 |
 | [Around](https://open.spotify.com/track/0qDYl6Bj6oTuaBLNKZfuHb) | [Noir](https://open.spotify.com/artist/2rHW9XpYMGsHj7BmAOSmr9), [Haze](https://open.spotify.com/artist/339nH3LvJ62PHz7OXYAYwd), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Around](https://open.spotify.com/album/4ANmjIhAGKLPOl9F3NrqWC) | 3:07 | 2025-04-17 |  |
-| [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 | 2024-08-15 |  |
+| [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 | 2024-08-15 | 2025-09-16 |
 | [Ascendance](https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [Ascendance / Give It Up](https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd) | 3:50 | 2022-01-14 | 2024-03-15 |
 | [Automatic](https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Automatic](https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf) | 4:09 | 2022-01-14 | 2024-03-29 |
 | [Ayana](https://open.spotify.com/track/6C7dpTWYty3stEQ0KrLxep) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Ayana](https://open.spotify.com/album/4DdIBvo6xW2iXFqoNyJx5g) | 3:21 | 2024-07-11 | 2024-08-16 |
@@ -161,6 +161,7 @@
 | [L'owè L'owè](https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx) | [DJ Qness](https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0), [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc) | [L'owe L'owe](https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG) | 7:29 | 2022-01-14 | 2024-06-21 |
 | [Last Night](https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Last Night](https://open.spotify.com/album/61FSTdvDNl2fNqdGKTrXib) | 3:42 | 2024-10-24 |  |
 | [Letting Go](https://open.spotify.com/track/4cliBLsKJiv3tno21brdKJ) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Bigger Than All Of Us](https://open.spotify.com/album/1yXsFzEZ5amp2ocSjGQhkm) | 3:19 | 2025-07-17 |  |
+| [Lifetime](https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL) | [J Ribbon](https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk) | [Lifetime](https://open.spotify.com/album/3YYhyx9KGWk1wPwU01tbdW) | 3:05 | 2025-08-28 |  |
 | [Like You](https://open.spotify.com/track/5cTXoEwwSBUchuNGeURbZT) | [Hydawai](https://open.spotify.com/artist/5adV10VCaQCO3HJLlVQiFZ), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Like You](https://open.spotify.com/album/1K6suHCZSSwuZucm6H8ypP) | 2:39 | 2025-01-10 | 2025-07-05 |
 | [List](https://open.spotify.com/track/30HKHaDLgbOz9qv6TgpIId) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [List \(Hosini Remix\)](https://open.spotify.com/album/2vuenVOn3qtC4ff2I57eI4) | 4:23 | 2022-01-14 | 2022-11-26 |
 | [LMK](https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [LMK](https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6) | 3:53 | 2024-03-15 | 2025-02-14 |

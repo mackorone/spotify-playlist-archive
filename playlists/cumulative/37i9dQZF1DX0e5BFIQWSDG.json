@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Kidd, Arab",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Sicario, Konstantinos Argiros, SNIK",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -849,6 +849,36 @@
     },
     {
       "album": {
+        "name": "Aroma",
+        "url": "https://open.spotify.com/album/40lSpv9DUV1CrP0ZMHozpj"
+      },
+      "artists": [
+        {
+          "name": "Angelina",
+          "url": "https://open.spotify.com/artist/3AuKpTBn0Ce09mVVhjCEEW"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171323,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/3DUb10VKSNh0dVG8ZEszNn"
+    },
+    {
+      "album": {
         "name": "Asteromata",
         "url": "https://open.spotify.com/album/02dO5tdgmZFm72qmWAETdA"
       },
@@ -1252,7 +1282,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 153230,
       "name": "BORDEL",
       "url": "https://open.spotify.com/track/62fNVyXaqfWkWlDiDrGyw2"
@@ -1911,6 +1941,32 @@
     },
     {
       "album": {
+        "name": "Echo Summer",
+        "url": "https://open.spotify.com/album/1OyocKYIOGfX3OZz7GNweI"
+      },
+      "artists": [
+        {
+          "name": "Verde",
+          "url": "https://open.spotify.com/artist/5caqmh5ZXnKSx8vmdsCA9v"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206640,
+      "name": "Echo Summer",
+      "url": "https://open.spotify.com/track/2HdusSddU4ImVttg4Rl9b1"
+    },
+    {
+      "album": {
         "name": "Eforia",
         "url": "https://open.spotify.com/album/4QXbIx0AstIuqtFKCqRhje"
       },
@@ -2172,7 +2228,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 164281,
       "name": "ERWTES",
       "url": "https://open.spotify.com/track/6y7AoMd7LhqI8pi2GyJMRJ"
@@ -3342,7 +3398,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 134262,
       "name": "Kalokairi",
       "url": "https://open.spotify.com/track/2VmtUsynPzLtI02zWv0fh6"
@@ -4464,7 +4520,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 133179,
       "name": "Money Dance",
       "url": "https://open.spotify.com/track/0KW4JDVbQG4FKgUHPfdzse"
@@ -4594,6 +4650,28 @@
       "duration_ms": 151200,
       "name": "NARCOTRAFICANTE",
       "url": "https://open.spotify.com/track/4vpn2IGV4Eb3249OJ5X3dH"
+    },
+    {
+      "album": {
+        "name": "Nero",
+        "url": "https://open.spotify.com/album/1TzT3q0Z7rRE7jwjyXdg8y"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        },
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Nero",
+      "url": "https://open.spotify.com/track/2ubEbpEKlROchIqMYQSC9f"
     },
     {
       "album": {
@@ -4850,6 +4928,32 @@
       "duration_ms": 169696,
       "name": "OMERTA",
       "url": "https://open.spotify.com/track/3SX7Wbl2uotkaeKUJkrP85"
+    },
+    {
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/5CPfihmme19iTL4VuZedQT"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/2InisuUeQxBarfQ33xn8Md"
     },
     {
       "album": {
@@ -6025,6 +6129,32 @@
     },
     {
       "album": {
+        "name": "Somebody Gonna Die",
+        "url": "https://open.spotify.com/album/7DAhOVWrC7rNyfEIjeujCY"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        },
+        {
+          "name": "PAR1S",
+          "url": "https://open.spotify.com/artist/6rZK15LxP7rOo0npKh0biK"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189942,
+      "name": "Somebody Gonna Die",
+      "url": "https://open.spotify.com/track/74TkmC5Nrzqxz6PiPXtxiP"
+    },
+    {
+      "album": {
         "name": "SOS 2",
         "url": "https://open.spotify.com/album/4RVpjTkGxzG2E2YgxxGalG"
       },
@@ -6044,7 +6174,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 183307,
       "name": "SOS 2",
       "url": "https://open.spotify.com/track/12EQ1xDHqPMmnLtP1z6bi8"

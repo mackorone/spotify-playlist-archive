@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 5984,
+  "num_followers": 5986,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAAMFZgLyCHopN93Hs2wuqS4",
+  "snapshot_id": "aMYFgAAAAAD7xvj/O7Lsz3Q6KVaSj4KF",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 234520,
-      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus de Obras Completas (Ao Vivo)",
         "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
       },
@@ -299,6 +283,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 278573,
+      "name": "Frente a Frente Com Deus",
+      "url": "https://open.spotify.com/track/0krbH7EB28cDn1KDqK4E3g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sonhador (Ao Vivo)",
         "url": "https://open.spotify.com/album/5BBal0yfHCqk2WMBS3wiRb"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 233093,
       "name": "Sonhador (Ao Vivo)",
       "url": "https://open.spotify.com/track/115fT6bA6oiR4mHVrnZzG2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fica Tranquilo",
-        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 278573,
-      "name": "Frente a Frente Com Deus",
-      "url": "https://open.spotify.com/track/0krbH7EB28cDn1KDqK4E3g"
     },
     {
       "added_at": null,
@@ -411,18 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sempre Foi Deus",
-        "url": "https://open.spotify.com/album/1NpTyl3tLidjF6x2PWHb0j"
+        "name": "Far\u00e1s Outra Vez",
+        "url": "https://open.spotify.com/album/7G8XGVmyU4c0ZOeX5nyzPK"
       },
       "artists": [
+        {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        },
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 284583,
-      "name": "Sempre Foi Deus",
-      "url": "https://open.spotify.com/track/45Fb4jFMHddR0gu7JsUcuW"
+      "duration_ms": 246998,
+      "name": "Far\u00e1s Outra Vez",
+      "url": "https://open.spotify.com/track/3DFHmoWf6DvDlYQWpSGOrj"
     },
     {
       "added_at": null,
@@ -443,6 +447,22 @@
       "duration_ms": 424985,
       "name": "Cicatrizes - Ao Vivo",
       "url": "https://open.spotify.com/track/6v9d7DgP3HoWwCaR8EJ5t0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sempre Foi Deus",
+        "url": "https://open.spotify.com/album/1NpTyl3tLidjF6x2PWHb0j"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 284583,
+      "name": "Sempre Foi Deus",
+      "url": "https://open.spotify.com/track/45Fb4jFMHddR0gu7JsUcuW"
     },
     {
       "added_at": null,
@@ -475,26 +495,6 @@
       "duration_ms": 308059,
       "name": "O Desfecho",
       "url": "https://open.spotify.com/track/4wLdCnugMTuCRL3QnM0Nr4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Far\u00e1s Outra Vez",
-        "url": "https://open.spotify.com/album/7G8XGVmyU4c0ZOeX5nyzPK"
-      },
-      "artists": [
-        {
-          "name": "Marcos Freire",
-          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
-        },
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 246998,
-      "name": "Far\u00e1s Outra Vez",
-      "url": "https://open.spotify.com/track/3DFHmoWf6DvDlYQWpSGOrj"
     },
     {
       "added_at": null,
@@ -667,18 +667,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
-        "url": "https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN"
+        "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
+        "url": "https://open.spotify.com/album/1igRu2gmmWySSID0sgMLvb"
       },
       "artists": [
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        },
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
         }
       ],
-      "duration_ms": 241874,
-      "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
-      "url": "https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1"
+      "duration_ms": 393986,
+      "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
+      "url": "https://open.spotify.com/track/0jl5MElelZG8K8qH3XEn0L"
     },
     {
       "added_at": null,
@@ -715,30 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
-        "url": "https://open.spotify.com/album/1igRu2gmmWySSID0sgMLvb"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        },
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 393986,
-      "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
-      "url": "https://open.spotify.com/track/0jl5MElelZG8K8qH3XEn0L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grito Aflito",
         "url": "https://open.spotify.com/album/7004Y9QzkFf5IRZbz9Yq3P"
       },
@@ -759,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 305506,
-      "name": "Fogo e Gl\u00f3ria / O Que Sua Gl\u00f3ria Fez Comigo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3UpoN13s3AYmC8UJlbrfNm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plano Original",
         "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
       },
@@ -791,6 +759,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 305506,
+      "name": "Fogo e Gl\u00f3ria / O Que Sua Gl\u00f3ria Fez Comigo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3UpoN13s3AYmC8UJlbrfNm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
+        "url": "https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 241874,
+      "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
+      "url": "https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vazio",
         "url": "https://open.spotify.com/album/2zfFusFI8xDJRGdDY1pyYR"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 309636,
       "name": "Vazio",
       "url": "https://open.spotify.com/track/4GcFLWd9UDa55Hy8TAU0FE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 273913,
+      "name": "A Resposta",
+      "url": "https://open.spotify.com/track/4oNXwuFag2I7YMDLvlldtW"
     },
     {
       "added_at": null,
@@ -843,22 +859,6 @@
       "duration_ms": 716300,
       "name": "La Paloma",
       "url": "https://open.spotify.com/track/4eGqQrzZnq85k876sjVJkO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Plano Original",
-        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 273913,
-      "name": "A Resposta",
-      "url": "https://open.spotify.com/track/4oNXwuFag2I7YMDLvlldtW"
     },
     {
       "added_at": null,

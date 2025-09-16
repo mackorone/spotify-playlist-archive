@@ -6,8 +6,28 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAClLwbiTsUmBQpuKQyeeBLP",
+  "snapshot_id": "aMYFgAAAAADLpHkY25ZfEENpvrDTtIwd",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sed de Acci\u00f3n Con Carolina Ross (Re-versi\u00f3n)",
+        "url": "https://open.spotify.com/album/6LBOwIpVw50EltrrnZqRAN"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 213959,
+      "name": "Sed de Acci\u00f3n - Re-versi\u00f3n",
+      "url": "https://open.spotify.com/track/4c7GjdSskBPh6drENlszMY"
+    },
     {
       "added_at": null,
       "album": {
@@ -67,22 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Sed de Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Plan B",
         "url": "https://open.spotify.com/album/7h1x794Hla1SRPGMvf2ve1"
       },
@@ -123,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 195720,
+      "name": "Extra\u00f1os de Nuevo",
+      "url": "https://open.spotify.com/track/1HJ0lo09YjPsvlCLBiCmtF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Intenciones",
         "url": "https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3"
       },
@@ -143,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "Extra\u00f1os de Nuevo",
-      "url": "https://open.spotify.com/track/1HJ0lo09YjPsvlCLBiCmtF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mechero",
         "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
       },
@@ -175,6 +179,38 @@
       "duration_ms": 155392,
       "name": "Mechero",
       "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 143173,
+      "name": "Si T\u00fa Quisieras",
+      "url": "https://open.spotify.com/track/0stFNtovTjxUl4d6YS8iWQ"
     },
     {
       "added_at": null,
@@ -215,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 143173,
-      "name": "Si T\u00fa Quisieras",
-      "url": "https://open.spotify.com/track/0stFNtovTjxUl4d6YS8iWQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "for good (with RENEE)",
         "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
       },
@@ -251,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
       "artists": [
         {
@@ -260,9 +280,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 181080,
-      "name": "Playlist",
-      "url": "https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH"
+      "duration_ms": 152560,
+      "name": "Dame Chance (Rayuela)",
+      "url": "https://open.spotify.com/track/4cTZXPvu2LB6yev8imUWsU"
     },
     {
       "added_at": null,
@@ -283,22 +303,6 @@
       "duration_ms": 181181,
       "name": "Imperfecto",
       "url": "https://open.spotify.com/track/5V60OhB9WYqDhG8va96eCS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 152560,
-      "name": "Dame Chance (Rayuela)",
-      "url": "https://open.spotify.com/track/4cTZXPvu2LB6yev8imUWsU"
     },
     {
       "added_at": null,
@@ -339,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "Fue Por Algo",
+      "url": "https://open.spotify.com/track/52RgEhI3p361d16IE63Wbv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bye Boy",
         "url": "https://open.spotify.com/album/1zHYaWSoIDDI12DM5yEXrc"
       },
@@ -355,22 +375,6 @@
       "duration_ms": 178261,
       "name": "Bye Boy",
       "url": "https://open.spotify.com/track/2if0GLjlNgA4H5nJ4tQEkT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "Fue Por Algo",
-      "url": "https://open.spotify.com/track/52RgEhI3p361d16IE63Wbv"
     },
     {
       "added_at": null,
@@ -407,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 180720,
+      "name": "Ojal\u00e1 Te Vaya Mal",
+      "url": "https://open.spotify.com/track/2tQjKz9dpge3nwSNLPgvuY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rakata",
         "url": "https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E"
       },
@@ -423,22 +443,6 @@
       "duration_ms": 182384,
       "name": "Rakata",
       "url": "https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 180720,
-      "name": "Ojal\u00e1 Te Vaya Mal",
-      "url": "https://open.spotify.com/track/2tQjKz9dpge3nwSNLPgvuY"
     },
     {
       "added_at": null,
@@ -475,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 181880,
+      "name": "Sobrevivir",
+      "url": "https://open.spotify.com/track/2e8BFnEIvvcCF2SW85cOst"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bichota \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
       },
@@ -491,22 +511,6 @@
       "duration_ms": 157666,
       "name": "Bichota - Spotify Singles",
       "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canto Tu Historia (VOL. 1)",
-        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 190053,
-      "name": "Casual (YTQDV)",
-      "url": "https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU"
     },
     {
       "added_at": null,
@@ -543,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canto Tu Historia (VOL. 1)",
+        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 190053,
+      "name": "Casual (YTQDV)",
+      "url": "https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00cdO",
         "url": "https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP"
       },
@@ -559,22 +579,6 @@
       "duration_ms": 217232,
       "name": "M\u00cdO",
       "url": "https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "mucho texto",
-        "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 203280,
-      "name": "as\u00ed no funciona",
-      "url": "https://open.spotify.com/track/3Ucf2vetuD34u1HiKsE3p3"
     },
     {
       "added_at": null,
@@ -611,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "mucho texto",
+        "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 203280,
+      "name": "as\u00ed no funciona",
+      "url": "https://open.spotify.com/track/3Ucf2vetuD34u1HiKsE3p3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tiki Tai",
         "url": "https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu"
       },
@@ -631,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Cohete",
+      "url": "https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rockea Bien Duro",
         "url": "https://open.spotify.com/album/34vemP8xTFy8VhTvwCDcLN"
       },
@@ -647,22 +683,6 @@
       "duration_ms": 224533,
       "name": "A\u00fan Hay Algo",
       "url": "https://open.spotify.com/track/42q8MaOL25k3ZTz3Wa8xU2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Cohete",
-      "url": "https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35"
     },
     {
       "added_at": null,
@@ -699,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfecto",
-        "url": "https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 152050,
-      "name": "Perfecto",
-      "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breve Espacio",
         "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
       },
@@ -735,42 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retrofuturismo",
-        "url": "https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O"
+        "name": "Perfecto",
+        "url": "https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na"
       },
       "artists": [
         {
-          "name": "MiSHNRZ",
-          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 176000,
-      "name": "VHS",
-      "url": "https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alta Joya",
-        "url": "https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva"
-      },
-      "artists": [
-        {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Alta Joya",
-      "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
+      "duration_ms": 152050,
+      "name": "Perfecto",
+      "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
     },
     {
       "added_at": null,
@@ -795,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Retrofuturismo",
+        "url": "https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O"
+      },
+      "artists": [
+        {
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "VHS",
+      "url": "https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breve Espacio",
         "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
       },
@@ -807,6 +807,26 @@
       "duration_ms": 290040,
       "name": "La Buena Lecci\u00f3n",
       "url": "https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alta Joya",
+        "url": "https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Alta Joya",
+      "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 727605,
+  "num_followers": 727847,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAAeLMGPjkqAXW3soLVSiP3z",
+  "snapshot_id": "aMYFgAAAAADTd+Q/t+tqdfj04amGU8ri",
   "tracks": [
     {
       "added_at": null,
@@ -128,9 +128,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 204963,
-      "name": "I Got Better",
-      "url": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
+      "duration_ms": 166206,
+      "name": "Just In Case",
+      "url": "https://open.spotify.com/track/5z0LSDpPpGwc2ZyJHpsE3J"
     },
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 177811,
-      "name": "I'm The Problem",
-      "url": "https://open.spotify.com/track/7AeM1BGYM7emrqmQn1PuWv"
+      "duration_ms": 204963,
+      "name": "I Got Better",
+      "url": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
     },
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 166206,
-      "name": "Just In Case",
-      "url": "https://open.spotify.com/track/5z0LSDpPpGwc2ZyJHpsE3J"
+      "duration_ms": 177811,
+      "name": "I'm The Problem",
+      "url": "https://open.spotify.com/track/7AeM1BGYM7emrqmQn1PuWv"
     },
     {
       "added_at": null,
@@ -567,6 +567,26 @@
       "duration_ms": 205767,
       "name": "red (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/6GBXOabwqSAI5A75F3FruX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPEAK NOW",
+        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "WHISKEY WHISKEY (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7hRLuo4QnzCsjICXUOhTE6"
     }
   ],
   "unique_name": "This Is Morgan Wallen",

@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "3am",
+        "url": "https://open.spotify.com/album/0CxaGou0ebafxSU63mwpIW"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257400,
+      "name": "3am",
+      "url": "https://open.spotify.com/track/6oNC0dZwthd4Gbof71UYMJ"
+    },
+    {
+      "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/0b8ic9Uuk1hhhRTihimPYc"
       },
@@ -2630,7 +2648,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 103875,
       "name": "BOP IT!",
       "url": "https://open.spotify.com/track/6sCQYWvTIOIinEgO1d1JJV"
@@ -2753,6 +2771,24 @@
     },
     {
       "album": {
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/3b6EgeeuKDdfwG8xC5cFHC"
+      },
+      "artists": [
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156373,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/16MTQq5iwPVy76gbgcAS6i"
+    },
+    {
+      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/6XfKpQ5ncl00Zn1fc4iLsJ"
       },
@@ -2772,7 +2808,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 217498,
       "name": "Brother (with Post Malone & YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/6mGzRR8T7NQouNu7V37XMp"
@@ -3108,10 +3144,28 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 169294,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC"
+    },
+    {
+      "album": {
+        "name": "Play (Extended Edition)",
+        "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215511,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
     },
     {
       "album": {
@@ -3188,7 +3242,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 234228,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112"
@@ -3478,6 +3532,24 @@
       "duration_ms": 162266,
       "name": "Cinnamon",
       "url": "https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3"
+    },
+    {
+      "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322066,
+      "name": "City Walls",
+      "url": "https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb"
     },
     {
       "album": {
@@ -3866,6 +3938,28 @@
       "duration_ms": 177118,
       "name": "Crush",
       "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
+    },
+    {
+      "album": {
+        "name": "Cry about it! (feat. Ravyn Lenae)",
+        "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171507,
+      "name": "Cry about it! (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
     },
     {
       "album": {
@@ -4638,7 +4732,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 208176,
       "name": "Divine Feelings",
       "url": "https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi"
@@ -4696,6 +4790,32 @@
       "duration_ms": 236140,
       "name": "do you think you could love me?",
       "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
+    },
+    {
+      "album": {
+        "name": "DOG HOUSE",
+        "url": "https://open.spotify.com/album/3r4vAHYjjrGp84E0g909W6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190010,
+      "name": "DOG HOUSE (feat. Julia Wolf & Yeat)",
+      "url": "https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la"
     },
     {
       "album": {
@@ -6060,7 +6180,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 208421,
       "name": "forget2rmbr",
       "url": "https://open.spotify.com/track/1NiiVxRGJ2BVcqNzHMfCGY"
@@ -7581,6 +7701,24 @@
     },
     {
       "album": {
+        "name": "Here All Night",
+        "url": "https://open.spotify.com/album/0caOziV0fbBR8OuU9SDiSS"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176832,
+      "name": "Here All Night",
+      "url": "https://open.spotify.com/track/1MnYnayoEmTfZTM7GoPJGM"
+    },
+    {
+      "album": {
         "name": "HERE WE GO! (from the Netflix film \"Beverly Hills Cop: Axel F\")",
         "url": "https://open.spotify.com/album/0g097m0P0zZhYnImicon1n"
       },
@@ -8078,7 +8216,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 184585,
       "name": "Hot Shot (feat. Buju Banton & Bounty Killer)",
       "url": "https://open.spotify.com/track/6DSDSLGD0CcBwpkTTmoCXq"
@@ -8548,7 +8686,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 203773,
       "name": "i don\u2019t know you",
       "url": "https://open.spotify.com/track/2IAmKxh24ZiPTDI4kL8yrl"
@@ -8628,6 +8766,24 @@
       "duration_ms": 199226,
       "name": "I HAVEN'T SAID ENOUGH",
       "url": "https://open.spotify.com/track/40L1n9k9hAIgfDpIHTGvHi"
+    },
+    {
+      "album": {
+        "name": "I Know (A Little)",
+        "url": "https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220200,
+      "name": "I Know (A Little)",
+      "url": "https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU"
     },
     {
       "album": {
@@ -8783,6 +8939,28 @@
     },
     {
       "album": {
+        "name": "I Wanna Dance With Somebody (Who Loves Me)",
+        "url": "https://open.spotify.com/album/0QqUqMaNbFvY7iIihnDJZ4"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218006,
+      "name": "I Wanna Dance With Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/4uAnA8nZAgl1bASMQTqnJI"
+    },
+    {
+      "album": {
         "name": "Dear Big Santa",
         "url": "https://open.spotify.com/album/2HaS5g0VjsXf93yy7TNf6c"
       },
@@ -8812,7 +8990,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 232375,
       "name": "i wish i knew how to quit you",
       "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
@@ -10418,7 +10596,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 209051,
       "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
       "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
@@ -11826,6 +12004,24 @@
       "duration_ms": 155000,
       "name": "Mr. Eclectic",
       "url": "https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5"
+    },
+    {
+      "album": {
+        "name": "The Crux Deluxe",
+        "url": "https://open.spotify.com/album/3oaSSUc7HkXIpTb4NGLKDt"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311083,
+      "name": "Mr. Mountebank",
+      "url": "https://open.spotify.com/track/5tN8OqwUxsVKUCE1cea23k"
     },
     {
       "album": {
@@ -13986,7 +14182,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 216073,
       "name": "Red, White and Jersey",
       "url": "https://open.spotify.com/track/3ailGBMR9j635tXSADNwV6"
@@ -15197,6 +15393,24 @@
     },
     {
       "album": {
+        "name": "Slicked Back Hair",
+        "url": "https://open.spotify.com/album/7gxQnRYlUl5UkH1KMuxZRJ"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162773,
+      "name": "Slicked Back Hair",
+      "url": "https://open.spotify.com/track/0ZhStYZNAZZk52Udk4sREx"
+    },
+    {
+      "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
       },
@@ -15501,6 +15715,24 @@
     },
     {
       "album": {
+        "name": "some days",
+        "url": "https://open.spotify.com/album/1UbgSoMftakwqLl0jJC5K0"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197528,
+      "name": "some days",
+      "url": "https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW"
+    },
+    {
+      "album": {
         "name": "Somebody Else's",
         "url": "https://open.spotify.com/album/31ruqJWGHD6c3d45HUGPcy"
       },
@@ -15618,7 +15850,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 142451,
       "name": "Something Wrong (with Don Toliver)",
       "url": "https://open.spotify.com/track/1LR9rQCGhM0MqESvRQ9EFX"
@@ -15748,7 +15980,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 267520,
       "name": "SPIDERS",
       "url": "https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ"
@@ -16060,7 +16292,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 161068,
       "name": "Stewpid",
       "url": "https://open.spotify.com/track/4ZCs1ZodLShvfhYLDrJExa"
@@ -16743,6 +16975,32 @@
     },
     {
       "album": {
+        "name": "FUNNY little FEARS (DREAMS)",
+        "url": "https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193502,
+      "name": "Talk to Me (feat. Tyla, Nile Rodgers)",
+      "url": "https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn"
+    },
+    {
+      "album": {
         "name": "TANGO",
         "url": "https://open.spotify.com/album/3ukVxzDCp3cedGE2kopns6"
       },
@@ -17251,6 +17509,28 @@
     },
     {
       "album": {
+        "name": "The Happy Dictator (feat. Sparks)",
+        "url": "https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Sparks",
+          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284775,
+      "name": "The Happy Dictator (feat. Sparks)",
+      "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
+    },
+    {
+      "album": {
         "name": "The Knife In My Back",
         "url": "https://open.spotify.com/album/2gTy3DhstHXAph5LjtHEnX"
       },
@@ -17262,7 +17542,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 169320,
       "name": "The Knife In My Back",
       "url": "https://open.spotify.com/track/52hW86OGxT6nn0Aex2V6oM"
@@ -19706,7 +19986,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 228413,
       "name": "Wonderful Life",
       "url": "https://open.spotify.com/track/5phSRJKDo1ihkqbwNlSTVp"

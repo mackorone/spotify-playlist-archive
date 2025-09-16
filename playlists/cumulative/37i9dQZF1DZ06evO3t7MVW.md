@@ -4,7 +4,7 @@
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-47 songs - 3 hr 21 min
+48 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Paradise](https://open.spotify.com/track/3iyMN5JhGnJXvKvFr8Mf7S) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:10 | 2025-07-04 |  |
 | [Railroad Shelter \(with Stick Figure\)](https://open.spotify.com/track/2Cv6DwpDGeg1m6gcHG55dc) | [TJ O'Neill](https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Railroad Shelter \(with Stick Figure\)](https://open.spotify.com/album/3BNHMe5yqmK0dn332yDD6D) | 4:05 | 2025-07-04 |  |
 | [Shine](https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 4:29 | 2025-07-04 |  |
-| [Show Love \(with Stick Figure\)](https://open.spotify.com/track/77sjqCc9fDW6YdQ1NpAUyo) | [Sensamotion](https://open.spotify.com/artist/58hWUFxkzmX6sU5OMsN2Pm), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Show Love \(with Stick Figure\)](https://open.spotify.com/album/1xzKO7tdVCsQuGrRYWxwnb) | 3:14 | 2025-07-04 |  |
+| [Show Love \(with Stick Figure\)](https://open.spotify.com/track/40duW4CYbkAvHPtb19eX03) | [Sensamotion](https://open.spotify.com/artist/58hWUFxkzmX6sU5OMsN2Pm), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Feel It All Around](https://open.spotify.com/album/02qlYc4mrjNMFFQvOkrS01) | 3:14 | 2025-09-16 |  |
+| [Show Love \(with Stick Figure\)](https://open.spotify.com/track/77sjqCc9fDW6YdQ1NpAUyo) | [Sensamotion](https://open.spotify.com/artist/58hWUFxkzmX6sU5OMsN2Pm), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Show Love \(with Stick Figure\)](https://open.spotify.com/album/1xzKO7tdVCsQuGrRYWxwnb) | 3:14 | 2025-07-04 | 2025-09-16 |
 | [Showdown \(with Collie Buddz\)](https://open.spotify.com/track/3z9AA2p7kCDX8Ds8Donb7l) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:25 | 2025-07-04 |  |
 | [Siren \(with Stick Figure\)](https://open.spotify.com/track/3jSlARN861elnfSuveZx8X) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Ways Of The World](https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q) | 3:57 | 2025-07-04 |  |
 | [Slow Ride](https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Slow Ride](https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX) | 3:52 | 2025-07-04 |  |

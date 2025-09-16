@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy y Triny y La Leyenda en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,105 likes - 125 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,167 likes - 125 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 67 | [El Albanil](https://open.spotify.com/track/5Ubv1KI0TUpD5fedw1kagG) | [Raza Obrera](https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF) | [Rolonononas Pa la Raza](https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy) | 2:57 |
 | 68 | [El Rengo Del Gallo Giro](https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw) | [La Fuerza de Tierra Caliente](https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N) | [A Donde Vas Chiquilla](https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y) | 3:36 |
 | 69 | [Cuanto Te Quiero](https://open.spotify.com/track/7AluH6DilKrQvTIOyFdcLD) | [Banda Roja](https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2) | [Cuestión De Tiempo](https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA) | 2:43 |
-| 70 | [Vida de Rancho \(Zapateado\)](https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:54 |
-| 71 | [La Luz de Tus Ojos / Cuestión Olvidada](https://open.spotify.com/track/2vLPZ5KsckjEa4EuYyHy5t) | [Banda los Costeños de Zirándaro Guerrero](https://open.spotify.com/artist/0cVRVkZyKQmKRcYLgiKphe), [Los Monarcas De Tierra Caliente](https://open.spotify.com/artist/6sIEMWaLmoLFkhc1O2bjBo) | [La Luz de Tus Ojos / Cuestión Olvidada](https://open.spotify.com/album/4j3MTUsDymuLJGsJpuOXMK) | 3:03 |
+| 70 | [La Luz de Tus Ojos / Cuestión Olvidada](https://open.spotify.com/track/2vLPZ5KsckjEa4EuYyHy5t) | [Banda los Costeños de Zirándaro Guerrero](https://open.spotify.com/artist/0cVRVkZyKQmKRcYLgiKphe), [Los Monarcas De Tierra Caliente](https://open.spotify.com/artist/6sIEMWaLmoLFkhc1O2bjBo) | [La Luz de Tus Ojos / Cuestión Olvidada](https://open.spotify.com/album/4j3MTUsDymuLJGsJpuOXMK) | 3:03 |
+| 71 | [Vida de Rancho \(Zapateado\)](https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:54 |
 | 72 | [Me Gustas Mucho](https://open.spotify.com/track/11vaLp8ocblznMKhpEMBbu) | [La Victoria De Mexico](https://open.spotify.com/artist/5H3OgLU1hxDDEqfmr4z5l0) | [Exitos de La Victoria de Mexico: Volume 1](https://open.spotify.com/album/7dSZTQ9RG7Ytk7h08A6Tgf) | 2:49 |
 | 73 | [Carta de Luto](https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8) | [Raul Garcia Y Su Grupo Kabildo](https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU), [La Dinastia de Tuzantla Mich](https://open.spotify.com/artist/7BouKelHMxy42RJSMzkE0w) | [Homenaje al Rey Pobre](https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST) | 2:52 |
 | 74 | [Conchita Del Mar](https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB) | [Los Huaches De Tierra Caliente](https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum) | [Los Huaches Vip 2015](https://open.spotify.com/album/58LE63ynfEACZoYkKruFrF) | 3:08 |

@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 633365,
+  "num_followers": 633336,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "el jardinero",
+        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "el jardinero",
+      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Cigarrito y Caf\u00e9",
         "url": "https://open.spotify.com/album/40BCKQLAweweUfSrr4Pyhj"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 171130,
       "name": "Cigarrito y Caf\u00e9",
       "url": "https://open.spotify.com/track/4zCcsSId3HZ6DvjFcxmg2l"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "el jardinero",
-        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "el jardinero",
-      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "Uno Que Tropieza Y Cae Al Mar",
+        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "duration_ms": 209346,
+      "name": "Uno Que Tropieza Y Cae Al Mar",
+      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Otros Colores",
         "url": "https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 351813,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "Uno Que Tropieza Y Cae Al Mar",
-        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
-      },
-      "artists": [
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        }
-      ],
-      "duration_ms": 209346,
-      "name": "Uno Que Tropieza Y Cae Al Mar",
-      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Am\u00e1",
-        "url": "https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ"
+        "name": "No Soy Yo",
+        "url": "https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09"
       },
       "artists": [
         {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
         }
       ],
-      "duration_ms": 176256,
-      "name": "Am\u00e1",
-      "url": "https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9"
+      "duration_ms": 193654,
+      "name": "No Soy Yo",
+      "url": "https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX"
     }
   ],
   "unique_name": "Qu\u00e9 Sad!",

@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 161820,
+  "num_followers": 161850,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAAT/PXPhFpSi48geyOfggvN",
+  "snapshot_id": "aMYFgAAAAAAtLMduNdPoMKFrYM1Xbiws",
   "tracks": [
     {
       "added_at": null,
@@ -919,30 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/4s4I3L3OOyeR5b5Ecmpynm"
-        }
-      ],
-      "duration_ms": 766715,
-      "name": "Have My Heart (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jubilee: Juneteenth Edition",
         "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
       },
@@ -967,6 +943,30 @@
       "duration_ms": 360451,
       "name": "Jireh (feat. Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/2MYjytJWL1cXiv3jWvCqzZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/4s4I3L3OOyeR5b5Ecmpynm"
+        }
+      ],
+      "duration_ms": 766715,
+      "name": "Have My Heart (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
     },
     {
       "added_at": null,
@@ -1043,38 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breathe - EP",
-        "url": "https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        },
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        },
-        {
-          "name": "Mav City Gospel Choir",
-          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
-        }
-      ],
-      "duration_ms": 326500,
-      "name": "Breathe (feat. Jonathan McReynolds, DOE & Mav City Gospel Choir) - Studio Version",
-      "url": "https://open.spotify.com/track/0G20Y1YJ7wD1GqmKXq9JVn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAVHOUSE",
         "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
       },
@@ -1135,6 +1103,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breathe - EP",
+        "url": "https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "duration_ms": 326500,
+      "name": "Breathe (feat. Jonathan McReynolds, DOE & Mav City Gospel Choir) - Studio Version",
+      "url": "https://open.spotify.com/track/0G20Y1YJ7wD1GqmKXq9JVn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fridayy",
         "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
       },
@@ -1159,26 +1159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Maryanne J. George",
-          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
-        }
-      ],
-      "duration_ms": 432294,
-      "name": "Such an Awesome God (feat. Maryanne J. George)",
-      "url": "https://open.spotify.com/track/2bC8nrT3tqqGUXRGUbqimw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 2",
         "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
       },
@@ -1199,22 +1179,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jireh (Lofi Remix)",
-        "url": "https://open.spotify.com/album/6F3TM2ui3W5f8SGltEHkol"
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
       "artists": [
         {
-          "name": "xander.",
-          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
-        },
-        {
           "name": "Maverick City Music",
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
         }
       ],
-      "duration_ms": 158896,
-      "name": "Jireh - Lofi Remix",
-      "url": "https://open.spotify.com/track/17ShT3cqakwxD14w8nLJm0"
+      "duration_ms": 432294,
+      "name": "Such an Awesome God (feat. Maryanne J. George)",
+      "url": "https://open.spotify.com/track/2bC8nrT3tqqGUXRGUbqimw"
     },
     {
       "added_at": null,
@@ -1239,26 +1219,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+        "name": "Jireh (Lofi Remix)",
+        "url": "https://open.spotify.com/album/6F3TM2ui3W5f8SGltEHkol"
       },
       "artists": [
         {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
+        },
+        {
           "name": "Maverick City Music",
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 449446,
-      "name": "Thank You (feat. Steffany Gretzinger & Chandler Moore)",
-      "url": "https://open.spotify.com/track/0tI27jZrVAIKhpT5koEU7V"
+      "duration_ms": 158896,
+      "name": "Jireh - Lofi Remix",
+      "url": "https://open.spotify.com/track/17ShT3cqakwxD14w8nLJm0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lofi Remix Vol.1",
+        "url": "https://open.spotify.com/album/7AJqD7JKndBsBfTKnxbeQf"
+      },
+      "artists": [
+        {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Promises (Lofi Remix)",
+      "url": "https://open.spotify.com/track/7xyvOFRONKq8LYYQJfShtn"
     }
   ],
   "unique_name": "This Is Maverick City Music",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Ed Sheeran, Saga Faye, Drake med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,290 likes - 103 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,278 likes - 103 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 26 | [MAJOR CONTEST](https://open.spotify.com/track/3pCWAgzVZ84h10NLQpXQay) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [MAJOR CONTEST](https://open.spotify.com/album/7unvBth5M8c46usYzfA6KP) | 3:07 |
 | 27 | [Turn Up](https://open.spotify.com/track/6QQRwucjZ87vZKEWwzJSSt) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [Turn Up](https://open.spotify.com/album/4Two3vx9kFzg7akNFxd2UK) | 2:16 |
 | 28 | [Min Till Slut](https://open.spotify.com/track/1Q2KjEBrfko2pDnFnrAsUg) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Min Till Slut](https://open.spotify.com/album/3A2IXQNnLr7el2B9r7FdF7) | 2:38 |
-| 29 | [Safeandsound](https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Safeandsound](https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA) | 4:37 |
+| 29 | [Sorry](https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:17 |
 | 30 | [Younger Self](https://open.spotify.com/track/0uyWyRYclJVmkI4uqwsljH) | [Ziggy Maxwell](https://open.spotify.com/artist/6CU3o4SjJwW3qdEI6VDDiE) | [Younger Self](https://open.spotify.com/album/0NugqlTsxUeTbLc75QIrPH) | 3:50 |
 | 31 | [the Price of Modern Love](https://open.spotify.com/track/1O5Ooryihj2cP8icwQyrw7) | [Wilma Vidal](https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O) | [the Price of Modern Love](https://open.spotify.com/album/4zWYa1SbiNea5t9Qf9vcdP) | 3:17 |
 | 32 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 102 | [Love On My Mind](https://open.spotify.com/track/59E49woaalBRS3uyNuwbCF) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Love On My Mind](https://open.spotify.com/album/2UJ7YIbEH8VMcKcwz9KNhe) | 2:56 |
 | 103 | [GIRL I WANT YOU](https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [GIRL I WANT YOU](https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct) | 3:31 |
 
-Snapshot ID: `AAAAAKsM4ffhdsj9nyVZ4L72G+cB93u7`
+Snapshot ID: `AAAAAHPYeVERWlxHboxdwqiHqC1nK7Nx`

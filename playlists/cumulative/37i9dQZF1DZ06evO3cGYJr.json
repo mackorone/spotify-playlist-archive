@@ -389,6 +389,28 @@
     },
     {
       "album": {
+        "name": "Can you take it?",
+        "url": "https://open.spotify.com/album/6ilt6meuMxAA7WXOLRKJf8"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213683,
+      "name": "Can you take it?",
+      "url": "https://open.spotify.com/track/0TPcuz0aWCaspJflGL4FGp"
+    },
+    {
+      "album": {
         "name": "maybe i need to know myself",
         "url": "https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y"
       },
@@ -814,7 +836,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 205565,
       "name": "EUPHORIA",
       "url": "https://open.spotify.com/track/2QqDOV1Mh0Dg8ngWu9zFqu"
@@ -1286,7 +1308,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 297152,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/2spKRxUBwrc4pMBBJpPnCC"
@@ -1340,7 +1362,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 197973,
       "name": "I spend too much time on the internet to care about the small things",
       "url": "https://open.spotify.com/track/3qHOPE9thwIvqfO274o8Gn"
@@ -1972,7 +1994,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 151014,
       "name": "Square - 2021 Version",
       "url": "https://open.spotify.com/track/6RLolhTFuwRYW1erhineq5"
@@ -2194,7 +2216,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-17",
+      "date_removed": null,
       "duration_ms": 332149,
       "name": "The End of the World As We Know",
       "url": "https://open.spotify.com/track/6B5ylNQNgtzp4VH7RDNcPb"
@@ -2284,7 +2306,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 180134,
       "name": "Time To Spare",
       "url": "https://open.spotify.com/track/2xoAo5u7Tce4ggNWfVQPQg"
@@ -2374,7 +2396,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 58590,
       "name": "Xaiyne - 2021 Version",
       "url": "https://open.spotify.com/track/5P6n33YS2cZF4qtE4YF1t9"

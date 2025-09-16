@@ -4479,6 +4479,24 @@
     },
     {
       "album": {
+        "name": "Drop In",
+        "url": "https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3"
+      },
+      "artists": [
+        {
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Drop In",
+      "url": "https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j"
+    },
+    {
+      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/46YjmtyJkwVGMjTqDo09ZE"
       },
@@ -19466,7 +19484,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 188181,
       "name": "When It Comes Together",
       "url": "https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n"

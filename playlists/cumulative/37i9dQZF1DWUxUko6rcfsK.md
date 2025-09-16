@@ -4,7 +4,7 @@
 
 > Het leven is 'beautiful' en dat verdient fijne muziek!
 
-165 songs - 9 hr 18 min
+167 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [heat](https://open.spotify.com/track/0qB6vfLUW11bMGjz8SHvtt) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [heat](https://open.spotify.com/album/7N1nx9qGHk0KpDDgJNtG6z) | 3:06 | 2024-07-01 | 2025-01-17 |
 | [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 | 2024-07-01 | 2024-11-05 |
 | [Heavy](https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk), [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Heavy](https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z) | 3:34 | 2025-01-09 |  |
+| [Heavy Skies](https://open.spotify.com/track/2s4rj8K66iq16zQ6VK8O27) | [Mercy John](https://open.spotify.com/artist/1zJU6SWc4fzECllRZbixhJ) | [Heavy Skies](https://open.spotify.com/album/3xjysPSOysvvD5yHEWUiKY) | 3:46 | 2025-09-15 |  |
 | [Hedonism](https://open.spotify.com/track/2q2dQNaDVmSeLV4UgbLGtn) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [Hedonism](https://open.spotify.com/album/4YEOVs05mZl1CC8GYwV2os) | 2:49 | 2024-11-07 | 2025-06-27 |
 | [Here To Stay](https://open.spotify.com/track/47nDxKt2bTRH1CtU8fgKnu) | [Holliz](https://open.spotify.com/artist/1GcM7yt6bCkRdj82FxVY45) | [Here To Stay](https://open.spotify.com/album/6Qun7KN1zgB4W2tCMv8mBx) | 3:11 | 2024-11-07 | 2025-08-30 |
 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2024-07-15 | 2025-04-18 |
@@ -82,7 +83,7 @@
 | [I Wasn’t Gonna](https://open.spotify.com/track/7M3zFT6CPIQmCwpPhyzRIp) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Chameleon](https://open.spotify.com/album/6TWKVr6ZbFwVsxHstHnCkI) | 3:23 | 2025-01-24 |  |
 | [I Will Go There \(feat\. remme\)](https://open.spotify.com/track/71V025BxBhBKJNHAky0ZfM) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX), [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [I Will Go There \(feat\. remme\)](https://open.spotify.com/album/5cs3LTA5B9mHiTzolOdH55) | 3:20 | 2024-11-04 | 2025-06-20 |
 | [I'm Coming Over](https://open.spotify.com/track/3jJFEDl5iPkxwYoHGcSztW) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [I'm Coming Over](https://open.spotify.com/album/6lzL0TZtncmBdU02TWlTcl) | 3:42 | 2025-08-29 |  |
-| [If You Would Prove Me Wrong Now](https://open.spotify.com/track/1Z1Z33mYJe4z2XT9FFYB76) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [If You Would Prove Me Wrong Now](https://open.spotify.com/album/2O9T2PFFsswlLkoe9dkh0q) | 3:37 | 2024-12-20 |  |
+| [If You Would Prove Me Wrong Now](https://open.spotify.com/track/1Z1Z33mYJe4z2XT9FFYB76) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [If You Would Prove Me Wrong Now](https://open.spotify.com/album/2O9T2PFFsswlLkoe9dkh0q) | 3:37 | 2024-12-20 | 2025-09-16 |
 | [Il Mare Calmo della Sera \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6hIPQdA0r7ulZQFnMakEdh) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Duets \(30th Anniversary\)](https://open.spotify.com/album/0Iv3XfTgPnPqxPyCf9yt2C) | 4:35 | 2025-04-11 |  |
 | [It Ain't Easy](https://open.spotify.com/track/342GqbRoRy44h9uo5yYSTq) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [It Ain't Easy](https://open.spotify.com/album/0mlqIx7Cd69n4hcR2wYQSs) | 2:35 | 2025-06-19 |  |
 | [It's You Or Me](https://open.spotify.com/track/4hq7e1IgOKKS3nmfUaEwaH) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [It's You Or Me](https://open.spotify.com/album/1arwfvhx4Ox7cl84QqHCUl) | 3:54 | 2024-07-18 | 2025-05-13 |
@@ -119,6 +120,7 @@
 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 | 2025-02-03 |  |
 | [Pink Shades](https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv) | 3:30 | 2024-07-01 | 2024-10-23 |
 | [Queen of my Castle](https://open.spotify.com/track/5xvL8aAtHOj0R7Fpz4eAVS) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Queen of my Castle](https://open.spotify.com/album/4RRplsBhzIVuwUeFcQnDJr) | 3:12 | 2024-09-24 | 2025-06-27 |
+| [Reason](https://open.spotify.com/track/7gq3qbUWbmSTIlGND1CXAJ) | [Bastian Steven](https://open.spotify.com/artist/1WjUPqHiUz3DrX0l1PLsC5) | [Reason](https://open.spotify.com/album/3u0XBQJaKbbE4GcAAFuXrj) | 3:38 | 2025-09-15 |  |
 | [Red Flag Magician](https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Red Flag Magician](https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p) | 5:28 | 2025-07-04 |  |
 | [Remember Me](https://open.spotify.com/track/60DTWHQSXLdOMairERdoOn) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Self Sabotage](https://open.spotify.com/album/2LMv04vlituVhg9BD2VUVL) | 3:25 | 2025-03-07 |  |
 | [Remind Me](https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Remind Me](https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt) | 3:31 | 2024-07-01 | 2024-07-27 |
@@ -169,7 +171,7 @@
 | [Without You](https://open.spotify.com/track/1IEoy0vZyeioQ727qJPfYX) | [Franco Rivers](https://open.spotify.com/artist/3vJzR1NZh8RxVYU7aPEHMh) | [Without You](https://open.spotify.com/album/6RWXsszBHm5YcyMQaykVgE) | 3:19 | 2024-10-21 | 2025-04-04 |
 | [WOLFMAN](https://open.spotify.com/track/6zAsAcqHvvjiEY67kGjhvb) | [Jan Verstraeten](https://open.spotify.com/artist/7upKfBWNUqe6pSUDxNQa2v) | [WOLFMAN](https://open.spotify.com/album/2a8NOG3o9Q7b0Fm2TFROEr) | 4:11 | 2025-02-17 |  |
 | [Won't You Stay](https://open.spotify.com/track/3xSBlzT8N3WTXK5phOTIiQ) | [Michael Asnot](https://open.spotify.com/artist/1TfbvyIkRpQHY0JIsX4nuL) | [Won't You Stay](https://open.spotify.com/album/0UMogPftzVp0O5CUkOEr0b) | 2:52 | 2024-07-01 | 2024-09-28 |
-| [Wonderful World](https://open.spotify.com/track/5ZlXMsa5agAYYy1iUMK2Z5) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Wonderful World](https://open.spotify.com/album/2kwfiuCGxb661CKIBSWLK4) | 4:39 | 2025-02-17 |  |
+| [Wonderful World](https://open.spotify.com/track/5ZlXMsa5agAYYy1iUMK2Z5) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Wonderful World](https://open.spotify.com/album/2kwfiuCGxb661CKIBSWLK4) | 4:39 | 2025-02-17 | 2025-09-16 |
 | [You Still Got Me \- Edit](https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [You Still Got Me](https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi) | 4:20 | 2024-09-26 | 2025-05-16 |
 | [You're All I Got](https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [You're All I Got / So Long](https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz) | 3:22 | 2025-06-19 |  |
 | [your opinion](https://open.spotify.com/track/4ujzt2xbe6cqhE4wK9ImkR) | [Judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [your opinion](https://open.spotify.com/album/1vheuh1Y2cI2JFfKciRJut) | 2:49 | 2025-05-22 |  |

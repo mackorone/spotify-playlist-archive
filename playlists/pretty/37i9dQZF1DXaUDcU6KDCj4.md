@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Madison Cunningham
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,047 likes - 149 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,116 likes - 149 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 148 | [Whenever I Go](https://open.spotify.com/track/0Q7Z9VD2Qa6qEQuildKxfC) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Whenever I Go](https://open.spotify.com/album/3dT5zo8xAsyJqgdN1z1SF3) | 3:30 |
 | 149 | [headlock](https://open.spotify.com/track/4R69DlSkWoqIEL91UgD3zG) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [headlock](https://open.spotify.com/album/6iHwP7K0ECzrDhR6RsXuxG) | 2:45 |
 
-Snapshot ID: `AAAAAILioCOVq8YetVGNcD9u4TgUa84W`
+Snapshot ID: `AAAAAHWCnTE2zuHkL+ef4qrZ7K1Ppunl`

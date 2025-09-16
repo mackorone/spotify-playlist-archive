@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 146290,
+  "num_followers": 146301,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAA6uUSVrPQDoUw9z4iDeOPW",
+  "snapshot_id": "aMYFgAAAAADkYjp8gj9qoRqbKOM41HRl",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Studio Rio Presents: The Brazil Connection",
         "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 226906,
       "name": "You've Changed - Studio Rio Version",
       "url": "https://open.spotify.com/track/6au6zu7SJAbqf4a6RDqySc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "An Evening With Billie Holiday",
         "url": "https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 221280,
       "name": "Stormy Weather",
       "url": "https://open.spotify.com/track/3mwIoHzwnTnGWjAUVqajLr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lady Sings",
-        "url": "https://open.spotify.com/album/12Ie61TJvvha9qm27suytg"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "I'll Look Around",
-      "url": "https://open.spotify.com/track/1wAURZCIA0k5RNwaJN3dH3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Complete Billie Holiday On Verve 1945 - 1959",
         "url": "https://open.spotify.com/album/0IDzonuhaUBQp0zB03t6tC"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 214826,
       "name": "P.S. I Love You",
       "url": "https://open.spotify.com/track/7vmC7JVs2lGtdaE3vg8aPp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lady Sings",
+        "url": "https://open.spotify.com/album/12Ie61TJvvha9qm27suytg"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "I'll Look Around",
+      "url": "https://open.spotify.com/track/1wAURZCIA0k5RNwaJN3dH3"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recital",
+        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "How Deep Is The Ocean?",
+      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Musical Romance",
         "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 169466,
       "name": "When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson & His Orchestra) - Take 3",
       "url": "https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recital",
-        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 179853,
-      "name": "How Deep Is The Ocean?",
-      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 199186,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/4dUDfXcIhBWs1ybDWzyCd8"
+      "duration_ms": 179546,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/5FVAdaE6kYzs49jpQviM05"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 179546,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/5FVAdaE6kYzs49jpQviM05"
+      "duration_ms": 199186,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/4dUDfXcIhBWs1ybDWzyCd8"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body and Soul",
-        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 378400,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/7c7yHHFdYkqBzS1DG3UIFq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Musical Romance",
         "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 187560,
       "name": "This Year's Kisses (with Teddy Wilson & His Orchestra)",
       "url": "https://open.spotify.com/track/5g0MM8pdWqW1tSjvPwyigh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Body and Soul",
+        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 378400,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/7c7yHHFdYkqBzS1DG3UIFq"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+        "name": "The Lady Sings",
+        "url": "https://open.spotify.com/album/12Ie61TJvvha9qm27suytg"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 269146,
-      "name": "Speak Low",
-      "url": "https://open.spotify.com/track/17SIqmKU86yUoUq41MyklH"
+      "duration_ms": 204186,
+      "name": "Don't Explain",
+      "url": "https://open.spotify.com/track/6GLMwwNDbiiBe4D9JcSOwP"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lady Sings",
-        "url": "https://open.spotify.com/album/12Ie61TJvvha9qm27suytg"
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 204186,
-      "name": "Don't Explain",
-      "url": "https://open.spotify.com/track/6GLMwwNDbiiBe4D9JcSOwP"
+      "duration_ms": 269146,
+      "name": "Speak Low",
+      "url": "https://open.spotify.com/track/17SIqmKU86yUoUq41MyklH"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lover Man",
-        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 179453,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/2fSlY7Sv6ZKcTOkp1ki9xL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lady Sings The Blues",
         "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 186560,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 179453,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/2fSlY7Sv6ZKcTOkp1ki9xL"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The premier indie melancholia playlist, featuring Lana Del Rey
 
-431 songs - 1 day 4 hr 54 min
+432 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 | 2023-10-07 |  |
 | [folks](https://open.spotify.com/track/1alJwHrE2dnC8QiTrnVDTk) | [doe bed](https://open.spotify.com/artist/1taZ0AU1T90fiyOzY0Lpbx) | [folks](https://open.spotify.com/album/63t0ENmlzHSXiCo45aRVP5) | 2:12 | 2020-08-30 | 2020-09-11 |
 | [Fourth of July](https://open.spotify.com/track/1LjVNoqN5YsWf9vGu2JzhF) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Fourth of July](https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL) | 4:39 | 2022-07-01 | 2024-09-14 |
-| [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 | 2022-08-26 |  |
+| [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 | 2022-08-26 | 2025-09-16 |
 | [Frederick](https://open.spotify.com/track/1AWSemPzuGu4A9lVhSsFWJ) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 3:04 | 2020-08-30 | 2020-09-11 |
 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 | 2024-08-02 | 2024-09-14 |
 | [Freedom Now](https://open.spotify.com/track/64raCIYgrD3ymY0bF8IARP) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Crossroads](https://open.spotify.com/album/7xlc8VKmPqZJ9m1Dphm6O5) | 4:05 | 2020-08-30 | 2020-09-11 |
@@ -223,6 +223,7 @@
 | [Ludlow St.](https://open.spotify.com/track/0kxQTfplg7tjX5aOCrGDns) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 5:42 | 2020-08-30 | 2020-09-11 |
 | [Make Ya Proud](https://open.spotify.com/track/4W3NWOJTsR3oCICJqUht5d) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Hovvdy](https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0) | 3:30 | 2024-04-29 | 2024-09-14 |
 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 | 2024-07-08 |  |
+| [Me and the Devil](https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Sugarbread](https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa) | 3:05 | 2025-09-15 |  |
 | [Mean Old World](https://open.spotify.com/track/1v4BpOiU0WuSwiNbdYvdWd) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 3:45 | 2020-08-30 | 2020-09-11 |
 | [midnight love](https://open.spotify.com/track/32XaqPVTVkkuOiOPQZ3SpA) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:13 | 2024-07-08 | 2024-12-14 |
 | [Milk](https://open.spotify.com/track/7qbQiDc6OZgw8p91UTy2fE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Milk](https://open.spotify.com/album/4RgHhQQ1Q0UPrDyqsJCMfE) | 3:54 | 2019-09-29\* | 2022-08-27 |

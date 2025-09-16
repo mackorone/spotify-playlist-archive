@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,065 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,069 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 43 | [Beyond the way](https://open.spotify.com/track/26I5UfjfxqsUAB2Ryr4utP) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [Beyond the way](https://open.spotify.com/album/72mmKlShf9SvsGGQuOLi6u) | 3:00 |
 | 44 | [花に風](https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6) | [バルーン](https://open.spotify.com/artist/4RrSI9kIV8fMWQj1gDmc5K) | [花に風](https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA) | 3:45 |
 | 45 | [天ノ弱](https://open.spotify.com/track/0UUV97Kf5nowsUWIxVs4bO) | [164](https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ) | [天ノ弱 \(feat\. Mayumi Morinaga\)](https://open.spotify.com/album/0KshnO8rWAFXOdZHXwkqCH) | 3:06 |
-| 46 | [エンヴィーベイビー](https://open.spotify.com/track/02vOyaNCKGX8uhjggOIH83) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [エンヴィーベイビー](https://open.spotify.com/album/6NG4Ztq0KcNdsKYRu2RNOA) | 2:15 |
+| 46 | [QUEEN](https://open.spotify.com/track/4KXEPamxxfzDLG7Qv1eS4j) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/2AmHDRUOPKyrmVNZY8hyNq) | 2:21 |
 | 47 | [人マニア](https://open.spotify.com/track/4H89WUjBaQMIiqcnMSVX1j) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [人マニア](https://open.spotify.com/album/0oUGAS1qyR8O5jbNe71uKn) | 2:07 |
 | 48 | [㋰責任集合体](https://open.spotify.com/track/4cyk1ppFfQleEgXBvWX4Uc) | [マサラダ](https://open.spotify.com/artist/7samVyTa42GWxA0DedqZL2) | [㋰責任集合体](https://open.spotify.com/album/5wL21xdm0DWF6jIG1mE1gI) | 3:30 |
 | 49 | [グッバイ宣言](https://open.spotify.com/track/2sQDwbzGSpHXwnIAOrcDn9) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [グッバイ宣言](https://open.spotify.com/album/383X8RO1IowJ8bDO3hlsMs) | 2:52 |

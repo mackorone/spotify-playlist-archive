@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 
 > These are the eclectic sounds of now\. Cover: 700 Feel
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,181 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,185 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

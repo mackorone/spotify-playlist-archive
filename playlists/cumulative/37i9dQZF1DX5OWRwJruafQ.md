@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-693 songs - 1 day 9 hr 0 min
+694 songs - 1 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,7 @@
 | [Mere Wala Jatt](https://open.spotify.com/track/2A9cZk5m1wYvlUPLhIMA7U) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Mere Wala Jatt](https://open.spotify.com/album/71mPX0HJuZ6FSJD7WNiTCi) | 3:43 | 2023-03-29 | 2023-04-27 |
 | [Miami Flow](https://open.spotify.com/track/2DgeseqrXJEc7MmKvXWxY0) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [RAW](https://open.spotify.com/album/72MyJJSH7ZThR7366dRC2Y) | 2:29 | 2024-05-09 |  |
 | [Millionaire](https://open.spotify.com/track/78BWCd70D1X6LMkDZm1UoF) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:19 | 2024-08-26 | 2024-09-12 |
-| [Mind Map](https://open.spotify.com/track/5gYF95v7W7sbKWHLM5VTBj) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Mind Map](https://open.spotify.com/album/0qQ6zM8aN3d3Gqy6w3g3tL) | 2:42 | 2024-01-12 |  |
+| [Mind Map](https://open.spotify.com/track/5gYF95v7W7sbKWHLM5VTBj) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Mind Map](https://open.spotify.com/album/0qQ6zM8aN3d3Gqy6w3g3tL) | 2:42 | 2024-01-12 | 2025-09-16 |
 | [Miss India](https://open.spotify.com/track/25YxiGah27DBUtuxADIzug) | [George Sidhu](https://open.spotify.com/artist/3D2754tZxCEJ4bhiEN0QEC), [G Noor](https://open.spotify.com/artist/3oCuewGts8hB4pGDkG5Lo8), [Riyaaz](https://open.spotify.com/artist/7CpYGl06EZeQ7cQJ6lCTkq) | [Miss India](https://open.spotify.com/album/2jPAZcpRzdI7GIMThM56am) | 2:56 | 2023-04-17 | 2023-04-21 |
 | [Mittran Di Tohr](https://open.spotify.com/track/3ZHt5EVUy4bIAWXjEJQKkf) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Haakam](https://open.spotify.com/artist/1gPdNRLkL8J1nZrck72moJ), [Preet Hundal](https://open.spotify.com/artist/3jbXizgjZpi8FZ9g28wb1c) | [Villain](https://open.spotify.com/album/5tS0ZaJl2qopJ4ghermqUS) | 2:43 | 2023-11-07 | 2024-08-13 |
 | [MOB](https://open.spotify.com/track/4jcXe8ZPh1tbww116de3Md) | [Sukha Sandhu](https://open.spotify.com/artist/6JGz5B12Ek0m8GJahoYRus) | [MOB](https://open.spotify.com/album/0kejlguVcpApnfmNCI1jeO) | 2:19 | 2025-06-12 | 2025-06-20 |
@@ -603,6 +603,7 @@
 | [Street Flow](https://open.spotify.com/track/6OrstIkLUMihQEgQv4txvy) | [Armaan Dhillon](https://open.spotify.com/artist/7tKbaCF35AFn9aXt22LFoC), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [Legacy](https://open.spotify.com/album/0m8UoInWemJ0sdaS2GIqai) | 2:16 | 2023-10-23 | 2024-04-19 |
 | [Streetwise](https://open.spotify.com/track/5YYqibj5kqYWjZ3GOHHUaC) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:44 | 2023-09-04 | 2024-03-05 |
 | [Strong Enough](https://open.spotify.com/track/6C4zDUv7NpDxmvyakCGnKf) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [Strong Enough](https://open.spotify.com/album/6sxRh5LkG9gk3cAnaaZjT6) | 3:10 | 2025-05-05 |  |
+| [STUBBORN](https://open.spotify.com/track/2EWNCovGetUcsMm0YoaLW1) | [Shera Dhaliwal](https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5), [Avy](https://open.spotify.com/artist/60LOC5YjxUz2giCuSG8vgY) | [STUBBORN](https://open.spotify.com/album/7sLWgorFOvUA5U6ri8m2bN) | 2:14 | 2025-09-15 |  |
 | [Style](https://open.spotify.com/track/4qNCoi29Sy2wjqltNCs0uV) | [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ), [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Jashan dandiwal](https://open.spotify.com/artist/4hDhWCwjFx2gm00vBrN4tA) | [Style](https://open.spotify.com/album/2aaiIRxkz5XNJI5sClUmdk) | 2:46 | 2023-06-12 | 2023-07-13 |
 | [Superstar](https://open.spotify.com/track/7eQoMQdE4JqngwYDOqLBU0) | [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4), [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [Rita Kim](https://open.spotify.com/artist/5Xtuk7kRz7Y5qVOlaB7kml) | [ONE FROM THE CROWD](https://open.spotify.com/album/5KOxI4N3j6nWS1OiEUm8Ab) | 3:01 | 2025-04-04 |  |
 | [Superstar](https://open.spotify.com/track/5ZYdnrx8FCqb1Yt7xGfgck) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Superstar](https://open.spotify.com/album/4aTDCllLClADNAXO3Ifd6h) | 3:38 | 2025-07-03 | 2025-07-11 |

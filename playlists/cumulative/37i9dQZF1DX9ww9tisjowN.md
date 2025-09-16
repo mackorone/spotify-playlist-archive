@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Snow Man
 
-909 songs - 2 day 4 hr 6 min
+911 songs - 2 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [BRIGHTER](https://open.spotify.com/track/6fogrhjCnge5TICLZ7frhL) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx), [suisoh](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [BRIGHTER](https://open.spotify.com/album/17CTshHASvTqh0FBF10474) | 5:15 | 2025-07-17 | 2025-07-25 |
 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 | 2023-10-05 | 2024-02-21 |
 | [Buckingham](https://open.spotify.com/track/7uX2DpFsKiitlAYGLSGlci) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Neon](https://open.spotify.com/album/2B5aKWrCrb8XNAtufGyxm8) | 3:41 | 2023-05-09 | 2023-05-31 |
+| [Bunny Girl](https://open.spotify.com/track/3CeUMk1K4RPOpyzxn7JKZV) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [AKASAKI \- 2024](https://open.spotify.com/album/72Y5bHjwM0AJQG2zfkhaLX) | 3:37 | 2025-09-15 |  |
 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 | 2024-10-03 | 2025-07-18 |
 | [BURN](https://open.spotify.com/track/6NYHXyWnurns3vjIsohSGX) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BURN](https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4) | 2:16 | 2025-01-16 | 2025-04-04 |
 | [Burn The Fire](https://open.spotify.com/track/6FqxaTZhLuGWc89hc9ZOMe) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [Burn The Fire](https://open.spotify.com/album/01F2KOw5jXOkJDBAeDLAWs) | 3:55 | 2023-10-17 | 2023-11-03 |
@@ -214,6 +215,7 @@
 | [Insomnia](https://open.spotify.com/track/52KxsRBZj7Ip9HdxgvEQbO) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Insomnia](https://open.spotify.com/album/51QJlvJclfVB6jNNXlDatS) | 3:24 | 2024-02-29 | 2024-05-10 |
 | [Intergalactic Bound \(feat\. Hatsune Miku\)](https://open.spotify.com/track/25tNraNmMNwSEccFVcXxnu) | [Yunosuke](https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks), [Circus\-P](https://open.spotify.com/artist/1C0DQxH8vVeXuDuo9eqetl), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Intergalactic Bound](https://open.spotify.com/album/7r4h1bFrkehz6ssyx6ox1i) | 3:31 | 2024-04-16 | 2024-06-01 |
 | [iPhone feat\. Skaai](https://open.spotify.com/track/56JbxvYrxvRJuGLZEZemru) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [iPhone feat\. Skaai](https://open.spotify.com/album/4TVblZTOgvpzp9f5WAEwmM) | 2:55 | 2024-03-12 | 2024-04-12 |
+| [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 | 2025-09-15 |  |
 | [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2025-02-27 | 2025-03-09 |
 | [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 | 2025-03-08 | 2025-05-17 |
 | [ISOGA♡PEACH](https://open.spotify.com/track/2rUXvoihe7UXWbHogW3xNs) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [gokigen](https://open.spotify.com/album/4vNzwzawCSP3840t0wVEdE) | 2:53 | 2023-11-02 | 2023-12-15 |
@@ -551,7 +553,7 @@
 | [すないぱー。](https://open.spotify.com/track/0taluMnYokviw9ujgOslXV) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [すないぱー。](https://open.spotify.com/album/5Z4Hfh1uEzNUrNqqciAvhp) | 3:25 | 2025-01-16 | 2025-02-07 |
 | [ずぎゅんぎゅんゆらり](https://open.spotify.com/track/7imHT2drWF3A1rnEh1hwjy) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [ずぎゅんぎゅんゆらり](https://open.spotify.com/album/07ak0gzMu1dVuyyfsGlB65) | 2:47 | 2023-05-30 | 2023-07-19 |
 | [ずっとラブソング](https://open.spotify.com/track/7slVPAiTi7H25Oxburz5Ky) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ずっとラブソング](https://open.spotify.com/album/6Nvzx5sB6BLuc9rrThucvq) | 3:32 | 2025-09-04 |  |
-| [そこに在る、光。](https://open.spotify.com/track/50viqPbAvhYq8cednKv1a9) | [25時、ナイトコードで。](https://open.spotify.com/artist/1VMXuPyhNldYomz8ojLKP7) | [そこに在る、光。](https://open.spotify.com/album/7uo85jq6onSaMtXUuzm62E) | 3:14 | 2025-07-17 |  |
+| [そこに在る、光。](https://open.spotify.com/track/50viqPbAvhYq8cednKv1a9) | [25時、ナイトコードで。](https://open.spotify.com/artist/1VMXuPyhNldYomz8ojLKP7) | [そこに在る、光。](https://open.spotify.com/album/7uo85jq6onSaMtXUuzm62E) | 3:14 | 2025-07-17 | 2025-09-16 |
 | [それしか言えない](https://open.spotify.com/track/4pGMj1OT9QPyQV5C5BlcEV) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [それしか言えない](https://open.spotify.com/album/479WTy9v0d0wWC960eTawU) | 4:24 | 2025-09-11 |  |
 | [ただ君に晴れ](https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:18 | 2023-11-16 | 2024-03-22 |
 | [ただ声一つ](https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ただ声一つ](https://open.spotify.com/album/4XSyWcP9Ofb0aGunNVVV6t) | 2:41 | 2025-05-01 | 2025-07-25 |
@@ -559,7 +561,7 @@
 | [ちゅ、多様性。](https://open.spotify.com/track/2FN7qaJcXH3HQfGeeBinbZ) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [猫猫吐吐 \- 猫猫 \-](https://open.spotify.com/album/1BZ7jYbJGOBvNhwcv1w6Hj) | 3:08 | 2023-12-31 | 2024-03-22 |
 | [つくし](https://open.spotify.com/track/3fLHgcamKWZUG8qv6HrhoW) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [つくし](https://open.spotify.com/album/7C9g2DBFNVJ2drlDCzquCI) | 4:27 | 2025-02-27 | 2025-04-04 |
 | [ときはなて！](https://open.spotify.com/track/21Wgqu00gOXzmnycUnF1Ny) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [ときはなて！](https://open.spotify.com/album/5VUOIuIKEMn26nUczsVSB9) | 3:45 | 2025-07-03 | 2025-07-18 |
-| [とろい](https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [とろい](https://open.spotify.com/album/6N31XhdzrU7yLWmr6WoKki) | 4:00 | 2025-07-17 |  |
+| [とろい](https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [とろい](https://open.spotify.com/album/6N31XhdzrU7yLWmr6WoKki) | 4:00 | 2025-07-17 | 2025-09-16 |
 | [どうかしてる](https://open.spotify.com/track/1N7SNqZRZsQzwJNtq2lV6O) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [どうかしてる](https://open.spotify.com/album/3Homeh5wwwJBteBjRAqGQI) | 2:30 | 2025-07-24 |  |
 | [どうでもいい話がしたい](https://open.spotify.com/track/5neukhTvTU38FpGUjpjW6q) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [愛の産声、哀の鳴き声](https://open.spotify.com/album/2v3t0YRjdNqjO1yXJ0bhuk) | 3:23 | 2024-09-26 | 2024-10-25 |
 | [どどんぱ](https://open.spotify.com/track/6OeQQeRIw82KWUvsCjtPrg) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [キャンディーレーサー](https://open.spotify.com/album/1OxcfvSkYw5pD8Lv6zq5rf) | 4:37 | 2024-04-18 | 2024-05-10 |

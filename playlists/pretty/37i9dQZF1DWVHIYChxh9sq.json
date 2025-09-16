@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Codiciado y Edgardo Nu\u00f1ez",
-  "num_followers": 81306,
+  "num_followers": 81321,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-07-04 05:47:54",
       "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Sin Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+    },
+    {
+      "added_at": "2025-07-04 05:47:54",
+      "album": {
         "name": "El Deportivo",
         "url": "https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 192400,
       "name": "El Deportivo",
       "url": "https://open.spotify.com/track/73VqJQTEcqbgbVBxDPIaz6"
-    },
-    {
-      "added_at": "2025-07-04 05:47:54",
-      "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sin Miedo - En Vivo",
-      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
     },
     {
       "added_at": "2025-07-04 05:47:54",
@@ -723,26 +723,6 @@
     {
       "added_at": "2025-07-04 05:47:54",
       "album": {
-        "name": "El Chaman",
-        "url": "https://open.spotify.com/album/0dKlcXtiUXnQK7BZH7UIfE"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        },
-        {
-          "name": "Legion RG",
-          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
-        }
-      ],
-      "duration_ms": 279181,
-      "name": "El Chaman",
-      "url": "https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8"
-    },
-    {
-      "added_at": "2025-07-04 05:47:54",
-      "album": {
         "name": "Desde Topo Hasta La Sierra (En vivo)",
         "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 265791,
       "name": "Mi Pasado y Mi Presente - En Vivo",
       "url": "https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN"
+    },
+    {
+      "added_at": "2025-07-04 05:47:54",
+      "album": {
+        "name": "El Chaman",
+        "url": "https://open.spotify.com/album/0dKlcXtiUXnQK7BZH7UIfE"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        },
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        }
+      ],
+      "duration_ms": 279181,
+      "name": "El Chaman",
+      "url": "https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8"
     },
     {
       "added_at": "2025-07-04 05:47:54",
@@ -1527,22 +1527,18 @@
     {
       "added_at": "2025-07-04 05:47:54",
       "album": {
-        "name": "Cr\u00f3nicas de la Batalla",
-        "url": "https://open.spotify.com/album/5Q4J26KtTCjWK9QQpp9ZqC"
+        "name": "Pisteando Con La Regida (Vol. 3)",
+        "url": "https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 209668,
-      "name": "Cr\u00f3nicas de la Batalla",
-      "url": "https://open.spotify.com/track/34udvnm0D8Lib2RLsREx04"
+      "duration_ms": 137506,
+      "name": "Aguanta Corazon",
+      "url": "https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX"
     },
     {
       "added_at": "2025-07-04 05:47:54",
@@ -1563,18 +1559,22 @@
     {
       "added_at": "2025-07-04 05:47:54",
       "album": {
-        "name": "Pisteando Con La Regida (Vol. 3)",
-        "url": "https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc"
+        "name": "Cr\u00f3nicas de la Batalla",
+        "url": "https://open.spotify.com/album/5Q4J26KtTCjWK9QQpp9ZqC"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 137506,
-      "name": "Aguanta Corazon",
-      "url": "https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX"
+      "duration_ms": 209668,
+      "name": "Cr\u00f3nicas de la Batalla",
+      "url": "https://open.spotify.com/track/34udvnm0D8Lib2RLsREx04"
     },
     {
       "added_at": "2025-07-04 05:47:54",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2025-07-04 05:47:54",
       "album": {
-        "name": "Bien Belicones (En vivo)",
-        "url": "https://open.spotify.com/album/0lroHqTkfmsxY3OYhRWZda"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 150200,
-      "name": "Bien Belicones (En vivo)",
-      "url": "https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne"
-    },
-    {
-      "added_at": "2025-07-04 05:47:54",
-      "album": {
         "name": "Yakifest Oasis Vol. 5 (En Vivo)",
         "url": "https://open.spotify.com/album/5iJMnRlnUcuN9GTlGrgJgP"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 262597,
       "name": "C\u00f3mo Este Loco (En Vivo)",
       "url": "https://open.spotify.com/track/2lfOKHw5PZ6oSRBM1LdWpd"
+    },
+    {
+      "added_at": "2025-07-04 05:47:54",
+      "album": {
+        "name": "Bien Belicones (En vivo)",
+        "url": "https://open.spotify.com/album/0lroHqTkfmsxY3OYhRWZda"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 150200,
+      "name": "Bien Belicones (En vivo)",
+      "url": "https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne"
     },
     {
       "added_at": "2025-07-04 05:47:54",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-07-04 05:47:54",
       "album": {
-        "name": "Las Preferidas, Vol. 5 (En vivo)",
-        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 245183,
-      "name": "Due\u00f1o De Ti - En vivo",
-      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
-    },
-    {
-      "added_at": "2025-07-04 05:47:54",
-      "album": {
         "name": "Se Cans\u00f3 (En Vivo)",
         "url": "https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 194634,
       "name": "Se Cans\u00f3 - En Vivo",
       "url": "https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA"
+    },
+    {
+      "added_at": "2025-07-04 05:47:54",
+      "album": {
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 245183,
+      "name": "Due\u00f1o De Ti - En vivo",
+      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
     },
     {
       "added_at": "2025-07-04 05:47:54",

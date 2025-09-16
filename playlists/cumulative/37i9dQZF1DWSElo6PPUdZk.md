@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Simiran Kaur Dhadli
 
-213 songs - 10 hr 57 min
+214 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Chori Chori](https://open.spotify.com/track/0XJxjocvgG75ixFM66qxuv) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Chori Chori](https://open.spotify.com/album/1kBvmOFJyTfZTg4cfGHSUS) | 2:51 | 2023-03-18 | 2024-12-23 |
 | [Defaulter](https://open.spotify.com/track/260lfDzVnZHXmIXIvKUNVz) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Defaulter](https://open.spotify.com/album/4iGipyYHimj6ZMsAzkhQDQ) | 3:21 | 2023-03-18 | 2024-10-04 |
 | [Dhill](https://open.spotify.com/track/0r2wxY718iQRndDklGbt21) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [Dhill](https://open.spotify.com/album/1MDXzIwFBqaNm3VsW7kQ0Q) | 2:57 | 2024-10-03 | 2025-01-06 |
-| [Dhola](https://open.spotify.com/track/0ozR2yQS7gY27fywJkaOb1) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Saggi Nexuss](https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi), [Khan Mallan Wala](https://open.spotify.com/artist/7Hs5OBCr72yssKFxWws6MN), [Ranjha Rajan](https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N) | [Dhola](https://open.spotify.com/album/7EHkKYRXhXNiKDGU07Z7Xv) | 3:15 | 2024-10-01 |  |
+| [Dhola](https://open.spotify.com/track/0ozR2yQS7gY27fywJkaOb1) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Saggi Nexuss](https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi), [Khan Mallan Wala](https://open.spotify.com/artist/7Hs5OBCr72yssKFxWws6MN), [Ranjha Rajan](https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N) | [Dhola](https://open.spotify.com/album/7EHkKYRXhXNiKDGU07Z7Xv) | 3:15 | 2024-10-01 | 2025-09-16 |
 | [Dhola](https://open.spotify.com/track/3mG2vx5a7GJAI8hJo5vqP4) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Dhola](https://open.spotify.com/album/2870WWZANLoQX7blYvBluB) | 2:22 | 2025-01-06 | 2025-07-26 |
 | [Dil Te](https://open.spotify.com/track/2UPFPN46lpcpZCSCrPVjad) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Dil Te](https://open.spotify.com/album/7ymbaDDS8DT9ObivkZ5bco) | 2:51 | 2023-03-18 | 2024-08-28 |
 | [Dil Tutteya](https://open.spotify.com/track/48IF4LGpBuSitHqaiPua95) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Dil Tutteya](https://open.spotify.com/album/0VT9ERykGHCBKSn2eqbFAg) | 3:47 | 2023-03-18 | 2023-11-22 |
@@ -145,6 +145,7 @@
 | [My Dil Goes](https://open.spotify.com/track/5pVaSZRi5mLAuNYFAz7XUU) | [Raveena Mehta](https://open.spotify.com/artist/5II26ULdW25JT4tbUISamb), [Rishi Rich](https://open.spotify.com/artist/2DpITTpb4v5SQtB3iA4A44) | [My Dil Goes](https://open.spotify.com/album/1SpbFGHXAhmeqr5jWnhqVB) | 2:40 | 2025-01-06 | 2025-01-21 |
 | [Na Na Na](https://open.spotify.com/track/6BXzT27RykmZwNSXDffi7j) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd) | [Na Na Na](https://open.spotify.com/album/1uVZpHsFhGt48a5b8awBPm) | 2:59 | 2023-03-18 | 2023-10-10 |
 | [Naal Naal](https://open.spotify.com/track/5oS0I3HkOPsr39H4JEEvGh) | [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc), [Preet Ahluwalia](https://open.spotify.com/artist/1TKw4lrjy1H3kIS6Tkmm5Q), [Real Sach](https://open.spotify.com/artist/3SaiIyh09WpsbDlMFPz3ix) | [Naal Naal](https://open.spotify.com/album/4iEbTYxyRl0hlRvs9TkoMl) | 2:53 | 2024-11-06 | 2025-01-11 |
+| [Nach Le](https://open.spotify.com/track/1kPUAOdUMX1sNnjqW97AEn) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z), [Sameer Uddin](https://open.spotify.com/artist/4V6kiLVN9YYIgd5TzBZ7rX) | [Nach Le](https://open.spotify.com/album/6bmXOOWBEb7iomssbJCZl9) | 2:46 | 2025-09-15 |  |
 | [Nagri Nagri \("From Bibi Rajni"\)](https://open.spotify.com/track/1vuC6Y0R7WI9uOUm4h6zYJ) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt) | [Nagri Nagri \("From Bibi Rajni"\)](https://open.spotify.com/album/0fH91dN0Sr2Dwj382FM5DI) | 4:22 | 2025-01-24 |  |
 | [NAI LABHNI \| Folk & Rock](https://open.spotify.com/track/28DxA6GtbLXBj8FsEdVWTU) | [Nitika Singh](https://open.spotify.com/artist/5N3uKvdQ6vyVeKWZv9Bgmk) | [NAI LABHNI \| Folk & Rock](https://open.spotify.com/album/7pwMEDa5LX3PZSLYujG5aE) | 3:12 | 2024-12-22 | 2025-03-21 |
 | [Nakhro](https://open.spotify.com/track/1dEEx1rJw08XcH9nbWs35B) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:26 | 2024-10-10 | 2024-10-19 |

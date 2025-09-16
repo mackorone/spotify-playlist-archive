@@ -1,8 +1,62 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
+  "description": "Afropop Classics to get you in the 90s mood ahead of My Father\u2019s Shadow\u2019s Nigerian debut. Curated by the film\u2019s writer, Grammy-winning executive Wale Davies.",
   "name": "Classic Afropop",
   "tracks": [
+    {
+      "album": {
+        "name": "1er Gaou",
+        "url": "https://open.spotify.com/album/6AfIwxROlQG3iv2yVDdKUp"
+      },
+      "artists": [
+        {
+          "name": "Magic System",
+          "url": "https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295146,
+      "name": "1er Gaou",
+      "url": "https://open.spotify.com/track/5ohqZJp2b7HRQ6SWmxnXzU"
+    },
+    {
+      "album": {
+        "name": "KOKOROKO",
+        "url": "https://open.spotify.com/album/5GgdFrmouCR0Ud5Ag7IC8H"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424080,
+      "name": "Abusey Junction",
+      "url": "https://open.spotify.com/track/3W4IoNW4011i8qfCwN75Va"
+    },
+    {
+      "album": {
+        "name": "ADAUGO",
+        "url": "https://open.spotify.com/album/7FA8ItLt3NvvgL8ZExtpih"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231360,
+      "name": "ADAUGO",
+      "url": "https://open.spotify.com/track/6lxai3ZSpU2UctunwrCjvp"
+    },
     {
       "album": {
         "name": "\"Folon\".....The Past",
@@ -16,7 +70,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 359706,
       "name": "Africa",
       "url": "https://open.spotify.com/track/3UiNahTo7xKY5qFY6Fgr0b"
@@ -34,7 +88,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 289493,
       "name": "Agolo",
       "url": "https://open.spotify.com/track/0epThWIIEZZBBwDaHoMBBz"
@@ -70,7 +124,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 448914,
       "name": "Akula Owu Onyeara",
       "url": "https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP"
@@ -117,6 +171,64 @@
     },
     {
       "album": {
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/5tJfeG422ERh16KZqMqHs2"
+      },
+      "artists": [
+        {
+          "name": "Orlando Julius",
+          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
+        },
+        {
+          "name": "The Afro Sounders",
+          "url": "https://open.spotify.com/artist/6NJCN6KXFzP8YlfX4mFDx8"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483986,
+      "name": "Alo Mi Alo (Parts 1 & 2)",
+      "url": "https://open.spotify.com/track/7HbNRy1HQPUpqJ0QdIgJRK"
+    },
+    {
+      "album": {
+        "name": "Seven Degrees North",
+        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409026,
+      "name": "Appreciation",
+      "url": "https://open.spotify.com/track/5KKA2xfuxPgOpSlCuBpOAQ"
+    },
+    {
+      "album": {
+        "name": "Five Days a Week Lover",
+        "url": "https://open.spotify.com/album/2FID8HSU38Z25x1oHVgXYk"
+      },
+      "artists": [
+        {
+          "name": "Sir Victor Uwaifo",
+          "url": "https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535170,
+      "name": "Arabade",
+      "url": "https://open.spotify.com/track/0Jw61ZDudvQH74oCija9AU"
+    },
+    {
+      "album": {
         "name": "Third World Child",
         "url": "https://open.spotify.com/album/1RIv8PQTIchFfs76YPeB9k"
       },
@@ -139,6 +251,42 @@
     },
     {
       "album": {
+        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
+        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479546,
+      "name": "Atomic Bomb",
+      "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
+    },
+    {
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/4t2suyEBeShOXvvzQS4hcV"
+      },
+      "artists": [
+        {
+          "name": "Pat Thomas",
+          "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206346,
+      "name": "Awurade Mpaebo",
+      "url": "https://open.spotify.com/track/4YMSrlVjrrw0LEBK6gwGMY"
+    },
+    {
+      "album": {
         "name": "Ivory Music Classics, Vol. 2",
         "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
       },
@@ -150,10 +298,64 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 265573,
       "name": "Baby Kilode",
       "url": "https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu"
+    },
+    {
+      "album": {
+        "name": "Lagos to Toronto",
+        "url": "https://open.spotify.com/album/6B4PkYyILIdZEIQVav3AjH"
+      },
+      "artists": [
+        {
+          "name": "Dipo",
+          "url": "https://open.spotify.com/artist/0fWySMiRJ3rCJjcVlw6DWd"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270628,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/1uf9KS6uC1G1UbsHDgoICt"
+    },
+    {
+      "album": {
+        "name": "ROOTS",
+        "url": "https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206564,
+      "name": "Beautiful Rain",
+      "url": "https://open.spotify.com/track/4RvaURFdgzDdMc9IrHg28N"
+    },
+    {
+      "album": {
+        "name": "Shoki Shoki",
+        "url": "https://open.spotify.com/album/0iL5NHl4oL1gFquGBRRjbO"
+      },
+      "artists": [
+        {
+          "name": "Femi Kuti",
+          "url": "https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "Beng Beng Beng",
+      "url": "https://open.spotify.com/track/2A7qQvMZ710KPFpIvRKI9h"
     },
     {
       "album": {
@@ -197,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Buga",
+        "url": "https://open.spotify.com/album/03m61gb4oqfDamdrmwvl13"
+      },
+      "artists": [
+        {
+          "name": "Jesse King & The Queens In The Palace",
+          "url": "https://open.spotify.com/artist/098qOt76s46NMCahJbGxZL"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410533,
+      "name": "Buga",
+      "url": "https://open.spotify.com/track/4kre5jC1AncY14Ra2gzmR0"
+    },
+    {
+      "album": {
         "name": "Horizon Unlimited",
         "url": "https://open.spotify.com/album/0STgCf0eno2mvc48tbckNt"
       },
@@ -226,7 +446,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 316866,
       "name": "Come On Home",
       "url": "https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4"
@@ -251,6 +471,32 @@
     },
     {
       "album": {
+        "name": "Palmwine Music 2",
+        "url": "https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257153,
+      "name": "Damiloun",
+      "url": "https://open.spotify.com/track/5g8e0DVT296yBxSbL0EMpr"
+    },
+    {
+      "album": {
         "name": "Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973-77 (Soundway Records)",
         "url": "https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj"
       },
@@ -262,7 +508,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 199067,
       "name": "Dancing Time",
       "url": "https://open.spotify.com/track/6GIBtvIijjv5EzlgEO04I7"
@@ -280,7 +526,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 416800,
       "name": "Disco Dancer",
       "url": "https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo"
@@ -334,10 +580,64 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 332720,
       "name": "Dlala Mapantsula",
       "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
+    },
+    {
+      "album": {
+        "name": "Nigeria 70 - Lagos Jump",
+        "url": "https://open.spotify.com/album/49KkKqMz5dmpB8ShSGVU88"
+      },
+      "artists": [
+        {
+          "name": "Peacocks Guiter Band",
+          "url": "https://open.spotify.com/artist/5DTLOGgelbrtyUyBmfG5Iv"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265106,
+      "name": "Eddie Quansa",
+      "url": "https://open.spotify.com/track/38hRZMu3usbPPomYQUBDQe"
+    },
+    {
+      "album": {
+        "name": "Emem / Lagos Sundown",
+        "url": "https://open.spotify.com/album/0eoHel2kgJA6BjDCH0okZL"
+      },
+      "artists": [
+        {
+          "name": "Nsikak David",
+          "url": "https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177458,
+      "name": "Emem",
+      "url": "https://open.spotify.com/track/0dpHY6IOhk82FM1BBRby6m"
+    },
+    {
+      "album": {
+        "name": "Expensive Shit",
+        "url": "https://open.spotify.com/album/5QtXhQE2WvVLz60sYwafQH"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 793200,
+      "name": "Expensive Shit",
+      "url": "https://open.spotify.com/track/0sGVPD9nqrwUipu6pQmx4c"
     },
     {
       "album": {
@@ -392,7 +692,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 386160,
       "name": "Fantastic Man",
       "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
@@ -410,10 +710,28 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 375293,
       "name": "Fasiribo (Apala)",
       "url": "https://open.spotify.com/track/0W2js3dfXqZ94iTJ1Pr2aM"
+    },
+    {
+      "album": {
+        "name": "ASA (Asha) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6jJE2t5ZfWq3I7n5KhF89d"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280413,
+      "name": "Fire on the Mountain",
+      "url": "https://open.spotify.com/track/2NCKDXkbnLTPtcKsyK56u6"
     },
     {
       "album": {
@@ -428,7 +746,7 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 314772,
       "name": "Free",
       "url": "https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG"
@@ -486,7 +804,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 353106,
       "name": "Guitar Boy",
       "url": "https://open.spotify.com/track/2Sj8A8FS3wiv0B5pIFklg9"
@@ -504,7 +822,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 339386,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/6GkCK4jJhwQDOnGKXxmvmN"
@@ -594,7 +912,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 185933,
       "name": "I Like Your Style",
       "url": "https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY"
@@ -612,10 +930,50 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 271856,
       "name": "I Need Someone",
       "url": "https://open.spotify.com/track/43nHMCR6U4gw8sC4Q6JtK0"
+    },
+    {
+      "album": {
+        "name": "Ebenezer Obey in London",
+        "url": "https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457360,
+      "name": "Iba F'Oluwa/Ajokodabi Ile (Highlife Juju Yoruba)",
+      "url": "https://open.spotify.com/track/6kkJJ1jkn03m7TVR8DyXFA"
+    },
+    {
+      "album": {
+        "name": "Tuff Times Never Last",
+        "url": "https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        },
+        {
+          "name": "LULU.",
+          "url": "https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291046,
+      "name": "Idea 5 (Call My Name) [feat. LULU.]",
+      "url": "https://open.spotify.com/track/0H9K4Ul9aFjf2RV14K5Xzf"
     },
     {
       "album": {
@@ -634,7 +992,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 643022,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q"
@@ -706,7 +1064,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 202920,
       "name": "Invitation Highlife",
       "url": "https://open.spotify.com/track/2B6kXQao1fw0ZOevX5fOA2"
@@ -742,10 +1100,28 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 339000,
       "name": "It's About Time",
       "url": "https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO"
+    },
+    {
+      "album": {
+        "name": "Returns",
+        "url": "https://open.spotify.com/album/3ihswkvIlWIlvbRKFuiYNG"
+      },
+      "artists": [
+        {
+          "name": "Fatai Rolling Dollar",
+          "url": "https://open.spotify.com/artist/2hmII4Kb4GCDksiIqAsOYV"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "Iyawo Iyawo",
+      "url": "https://open.spotify.com/track/35fCe2LpKH9uGq2oQU16QX"
     },
     {
       "album": {
@@ -760,10 +1136,28 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 428800,
       "name": "Ja Funmi",
       "url": "https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv"
+    },
+    {
+      "album": {
+        "name": "Afro Hi Life Classics Volume 2",
+        "url": "https://open.spotify.com/album/5HTObp7AXm3QfaEvADIHFN"
+      },
+      "artists": [
+        {
+          "name": "Orlando Julius",
+          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381146,
+      "name": "James Brown Ride On",
+      "url": "https://open.spotify.com/track/3wNs6Yp0kh9Ldyl67D3hYE"
     },
     {
       "album": {
@@ -782,6 +1176,24 @@
       "duration_ms": 372733,
       "name": "Jingo",
       "url": "https://open.spotify.com/track/1C9XAjzr0pd1yE76TD3FM3"
+    },
+    {
+      "album": {
+        "name": "Rex Lawson's Greatest Hits",
+        "url": "https://open.spotify.com/album/7CTFf1WCY4Ay6SOwzkizH0"
+      },
+      "artists": [
+        {
+          "name": "Cardinal Rex Jim Lawson",
+          "url": "https://open.spotify.com/artist/61HFskCqHEghNfZ1XYb8RI"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250493,
+      "name": "Jolly Papa",
+      "url": "https://open.spotify.com/track/3N8DNMhPjtyISddn6qFfLp"
     },
     {
       "album": {
@@ -814,10 +1226,28 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 535160,
       "name": "Juliana",
       "url": "https://open.spotify.com/track/7II6pBzmOKIwTWZA6EhHjH"
+    },
+    {
+      "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
+      },
+      "artists": [
+        {
+          "name": "Amanaz",
+          "url": "https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203716,
+      "name": "Khala My Friend",
+      "url": "https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy"
     },
     {
       "album": {
@@ -839,6 +1269,78 @@
     },
     {
       "album": {
+        "name": "Ultimate Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
+      },
+      "artists": [
+        {
+          "name": "Daasebre Gyamenah",
+          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386089,
+      "name": "Kokooko",
+      "url": "https://open.spotify.com/track/3NqbUokKHKN5pV3povZfaz"
+    },
+    {
+      "album": {
+        "name": "Koloba Koloba",
+        "url": "https://open.spotify.com/album/4rdKDIh53SNoAOsWOGeNdx"
+      },
+      "artists": [
+        {
+          "name": "Adewale Ayuba",
+          "url": "https://open.spotify.com/artist/2LE8mP1xv4ZOZ9vJ9JKfOe"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Koloba Koloba",
+      "url": "https://open.spotify.com/track/3T9tjdqWQBXURorTRGnL1E"
+    },
+    {
+      "album": {
+        "name": "Afro-Rock Vol. 1",
+        "url": "https://open.spotify.com/album/46ZQZkK27RoM56LLt8xkSY"
+      },
+      "artists": [
+        {
+          "name": "K. Frimpong",
+          "url": "https://open.spotify.com/artist/2LDOr6fxXh2JPduLAHzztr"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414520,
+      "name": "Kyenkyen Bi Adi M'awu",
+      "url": "https://open.spotify.com/track/5jCmqthHBgShD3rk9AVVxQ"
+    },
+    {
+      "album": {
+        "name": "Shakara",
+        "url": "https://open.spotify.com/album/5e3d0MYUMLhio9GYPRZPQQ"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 828360,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/0dgvBQcfJHrZP43YlIAsvV"
+    },
+    {
+      "album": {
         "name": "Ivory Music Classics, Vol. 2",
         "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
       },
@@ -850,7 +1352,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 364706,
       "name": "Living Music",
       "url": "https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd"
@@ -868,7 +1370,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 415090,
       "name": "Love and Death",
       "url": "https://open.spotify.com/track/2EdcEOJf2V8xMOTO7q2gCN"
@@ -886,10 +1388,50 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 415090,
       "name": "Love and Death",
       "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
+    },
+    {
+      "album": {
+        "name": "Born In Africa",
+        "url": "https://open.spotify.com/album/3oQlolcqdgyHOlL8iRo99o"
+      },
+      "artists": [
+        {
+          "name": "Seyi Sodimu",
+          "url": "https://open.spotify.com/artist/0hszORYZcOYqWOkpKURIEY"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317779,
+      "name": "Love Me Jeje",
+      "url": "https://open.spotify.com/track/5UN8BRKJgnuflqlJY1diOm"
+    },
+    {
+      "album": {
+        "name": "Jaiyede Afro",
+        "url": "https://open.spotify.com/album/6qbKpBTwlQw53EjMD0BLs5"
+      },
+      "artists": [
+        {
+          "name": "Orlando Julius",
+          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
+        },
+        {
+          "name": "The Heliocentrics",
+          "url": "https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258333,
+      "name": "Love Thy Neighbour",
+      "url": "https://open.spotify.com/track/0OZt04ueuAb8LlRdyqY6BP"
     },
     {
       "album": {
@@ -904,7 +1446,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 307866,
       "name": "Ma Jaiye Oni",
       "url": "https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn"
@@ -929,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Mali Spirit",
+        "url": "https://open.spotify.com/album/1I2XSrjEHR8vZ60fqIdBlW"
+      },
+      "artists": [
+        {
+          "name": "LAGOS IN PARIS",
+          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "Mali Spirit",
+      "url": "https://open.spotify.com/track/4cEQJAGKi0ToNEqBs60Kpd"
+    },
+    {
+      "album": {
         "name": "Ivory Music Classics, Vol. 2",
         "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
       },
@@ -944,10 +1504,50 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 410600,
       "name": "Mother & Child",
       "url": "https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld"
+    },
+    {
+      "album": {
+        "name": "Nigeria 70: No Wahala: Highlife, Afro-Funk & Juju 1973-1987",
+        "url": "https://open.spotify.com/album/3UIkChZwkzrN3EghlSrf2e"
+      },
+      "artists": [
+        {
+          "name": "M.A. Jaiyesimi & His Crescent Bros Band",
+          "url": "https://open.spotify.com/artist/07zVElJ03vV7oXU7ccFmlN"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183240,
+      "name": "Mundiya Loju",
+      "url": "https://open.spotify.com/track/7srz6fVKgQhnFc2rsZJe7z"
+    },
+    {
+      "album": {
+        "name": "My Car",
+        "url": "https://open.spotify.com/album/3U6bIPNzVzzt4sJ2mIjFmw"
+      },
+      "artists": [
+        {
+          "name": "Tony Tetuila",
+          "url": "https://open.spotify.com/artist/7fypMlrHKV3ziGuvZkSYoX"
+        },
+        {
+          "name": "ICE K, PASTO GOODY GOODY",
+          "url": "https://open.spotify.com/artist/5EYJENlwor1tQ52BITpvRI"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248426,
+      "name": "My Car",
+      "url": "https://open.spotify.com/track/2eFJKElZ98vRvWChxh1niz"
     },
     {
       "album": {
@@ -962,7 +1562,7 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 351053,
       "name": "Ndihamba Nawe",
       "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
@@ -1114,7 +1714,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 1026986,
       "name": "Ohun Oju Ri Laye Medley, Pt. 1",
       "url": "https://open.spotify.com/track/6gq9ZlCF97t0v9z3wH7Kez"
@@ -1175,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "The Legendary Victor Olaiya Vol2",
+        "url": "https://open.spotify.com/album/29hIFLXfGHhE2hcWUNYBcP"
+      },
+      "artists": [
+        {
+          "name": "Victor Olaiya",
+          "url": "https://open.spotify.com/artist/4VKeh6oDfqhDLx0MME7R7f"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164333,
+      "name": "Omopupa",
+      "url": "https://open.spotify.com/track/3V2QPfSXa63do9rdEJAozs"
+    },
+    {
+      "album": {
         "name": "Horizon Unlimited",
         "url": "https://open.spotify.com/album/0STgCf0eno2mvc48tbckNt"
       },
@@ -1222,10 +1840,46 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 256306,
       "name": "Orere-Elejigbo",
       "url": "https://open.spotify.com/track/7Mi1P2r04F6iyOzrB3IOlR"
+    },
+    {
+      "album": {
+        "name": "Kedu America",
+        "url": "https://open.spotify.com/album/3weszYT2MGBxRomdYb7QDB"
+      },
+      "artists": [
+        {
+          "name": "Chief Stephen Osita Osadebe",
+          "url": "https://open.spotify.com/artist/3p5v42DQP2YtTAwWznBnpn"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471200,
+      "name": "Osondi Owendi",
+      "url": "https://open.spotify.com/track/1n21ku53K1pMOU9ib6bEdL"
+    },
+    {
+      "album": {
+        "name": "Otoolege",
+        "url": "https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS"
+      },
+      "artists": [
+        {
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400960,
+      "name": "Otoolege",
+      "url": "https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ"
     },
     {
       "album": {
@@ -1258,7 +1912,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 180174,
       "name": "Pata Pata - Stereo Version",
       "url": "https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA"
@@ -1319,6 +1973,46 @@
     },
     {
       "album": {
+        "name": "Boiling Point",
+        "url": "https://open.spotify.com/album/3V2q1VVjZOxjemY9gQCdp1"
+      },
+      "artists": [
+        {
+          "name": "Jazzman Olofin",
+          "url": "https://open.spotify.com/artist/0woFuYoaCTypnVKTBLpxr4"
+        },
+        {
+          "name": "Adewale Ayuba",
+          "url": "https://open.spotify.com/artist/18hEs0eJXSExsjafkIVnC8"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315115,
+      "name": "Raise Da Roof",
+      "url": "https://open.spotify.com/track/65aILpSXNERV8zWJB5QnRb"
+    },
+    {
+      "album": {
+        "name": "Blackmagic (Version 2.0)",
+        "url": "https://open.spotify.com/album/0nepGl4m2TfanN9B9LYZDW"
+      },
+      "artists": [
+        {
+          "name": "Blackmagic",
+          "url": "https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218186,
+      "name": "Repete",
+      "url": "https://open.spotify.com/track/2IgwxE5qvqb6LoP36mHa8G"
+    },
+    {
+      "album": {
         "name": "Rex Lawson's Greatest Hits",
         "url": "https://open.spotify.com/album/7CTFf1WCY4Ay6SOwzkizH0"
       },
@@ -1330,7 +2024,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 180386,
       "name": "Sawale",
       "url": "https://open.spotify.com/track/5WyWNQZr7oiGoResxNSrj0"
@@ -1348,7 +2042,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 235799,
       "name": "Say I Love You",
       "url": "https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa"
@@ -1370,7 +2064,7 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 245626,
       "name": "Scatterlings Of Africa",
       "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
@@ -1388,7 +2082,7 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 351746,
       "name": "Shibobo / The Final Countdown",
       "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
@@ -1406,7 +2100,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 1002906,
       "name": "Shinamania, Pt. 1",
       "url": "https://open.spotify.com/track/3pFVnwh9vK7pUSiA2ZRlub"
@@ -1460,7 +2154,7 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 353266,
       "name": "Special Star",
       "url": "https://open.spotify.com/track/1xMFHgilbKXS02lMSBlDvZ"
@@ -1503,6 +2197,32 @@
     },
     {
       "album": {
+        "name": "No Love In Lagos",
+        "url": "https://open.spotify.com/album/3OB64tBkIABfzlcWTYfr9N"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        },
+        {
+          "name": "Nsikak David",
+          "url": "https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274159,
+      "name": "Sudden Day",
+      "url": "https://open.spotify.com/track/6FvnqxPCxXf1Zl2MxY4FNW"
+    },
+    {
+      "album": {
         "name": "Ivory Music Classics, Vol. 2",
         "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
       },
@@ -1514,10 +2234,46 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 331653,
       "name": "Sugar Cane Baby",
       "url": "https://open.spotify.com/track/5kFPItOjyYqGrNnqsROU42"
+    },
+    {
+      "album": {
+        "name": "Seven Degrees North",
+        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 581400,
+      "name": "Suku Suku Bam Bam",
+      "url": "https://open.spotify.com/track/5MY2shxqQ4bFBPUeYB5azo"
+    },
+    {
+      "album": {
+        "name": "Chicago Afrobeat Project",
+        "url": "https://open.spotify.com/album/04zWkNRPOYwP5Hbknd7L7J"
+      },
+      "artists": [
+        {
+          "name": "Chicago Afrobeat Project",
+          "url": "https://open.spotify.com/artist/5vGu21AjbS8AR9A1Ivgl5j"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366440,
+      "name": "Talking Bush",
+      "url": "https://open.spotify.com/track/1pD52RIAJeW8pd75WRBSSx"
     },
     {
       "album": {
@@ -1640,7 +2396,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 501133,
       "name": "Tire Ni Oluwa",
       "url": "https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0"
@@ -1694,7 +2450,7 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 261800,
       "name": "Vuli Ndlela",
       "url": "https://open.spotify.com/track/04p7jtRJdhQUB1UeQsMGBx"
@@ -1737,6 +2493,24 @@
     },
     {
       "album": {
+        "name": "The Best of The Black President",
+        "url": "https://open.spotify.com/album/3c3I6vfhTLKwUqN7p8jQpl"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 591706,
+      "name": "Water No Get Enemy",
+      "url": "https://open.spotify.com/track/4YZv78tF4qCI841KHRF3vf"
+    },
+    {
+      "album": {
         "name": "Best of The Black President",
         "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
       },
@@ -1748,10 +2522,28 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 591706,
       "name": "Water No Get Enemy - Edit",
       "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
+    },
+    {
+      "album": {
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220853,
+      "name": "We Give Thanks",
+      "url": "https://open.spotify.com/track/1whO1RzuS19yG358T4d8G6"
     },
     {
       "album": {
@@ -1766,7 +2558,7 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 279306,
       "name": "Weekend Special",
       "url": "https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r"
@@ -1802,10 +2594,46 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 221573,
       "name": "Wings Of A Dove",
       "url": "https://open.spotify.com/track/6pOE4vLnWvzdR6AJ4Gl2Nk"
+    },
+    {
+      "album": {
+        "name": "1958",
+        "url": "https://open.spotify.com/album/3uyHh4SFgda0Y3Sjgg26V9"
+      },
+      "artists": [
+        {
+          "name": "Blick Bassy",
+          "url": "https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177201,
+      "name": "Wo\u00f1i",
+      "url": "https://open.spotify.com/track/1PHvFKlYUVJsBpDawCOSk8"
+    },
+    {
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/5daEPaHfFiOSpKJLMraH9D"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 745653,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/2r0KlAVemiB1TyTqgCh5ve"
     },
     {
       "album": {
@@ -1842,7 +2670,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 745653,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"

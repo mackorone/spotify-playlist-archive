@@ -4,7 +4,7 @@
 
 > easy breezy summer 2025 ☀️☺️
 
-326 songs - 16 hr 6 min
+327 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 | 2024-03-28 | 2024-07-27 |
 | [Perfect Crime](https://open.spotify.com/track/6BkH661tOzDMqcuyhzhVE6) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v), [She Is Jules](https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379) | [Perfect Crime](https://open.spotify.com/album/4H1PRrmGJ7vPJP4mhHwG2g) | 3:17 | 2024-07-26 | 2024-08-31 |
 | [Perfect Melody](https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Perfect Melody](https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L) | 2:39 | 2022-09-15 | 2022-09-30 |
+| [Pink Oasis](https://open.spotify.com/track/37YNRTW6PaAVYN1fM767yL) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [Pink Oasis](https://open.spotify.com/album/4gE0gYLZdOmdYSpnnoIpET) | 2:34 | 2025-09-10 |  |
 | [Pretender](https://open.spotify.com/track/7qPGFCBs2ATVLwzWLbTvs4) | [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Pretender](https://open.spotify.com/album/2HBBTubm4XQkiBNhYo20lT) | 2:32 | 2024-07-26 | 2024-08-02 |
 | [Prophecy](https://open.spotify.com/track/3esLmDNmNFBOQo4XaBxs9n) | [Koelle](https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a), [Solanca](https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM) | [Prophecy](https://open.spotify.com/album/7g65vIbP4x2zJYWDqMevCI) | 3:44 | 2024-07-26 | 2024-12-13 |
 | [Put Your Lips On Mine](https://open.spotify.com/track/3SN5Y2nOIyX8oY6HiFYsSm) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Kimotion](https://open.spotify.com/artist/6X4zocbF8W6mPR9UFIvQ3z), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Put Your Lips On Mine](https://open.spotify.com/album/5OQhMEDQ5iKAZ5mUXtJCf8) | 2:44 | 2022-09-15 | 2023-06-02 |
@@ -287,7 +288,7 @@
 | [Tell Me How](https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Jeannette](https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw) | [Tell Me How](https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv) | 2:12 | 2022-10-30 | 2024-03-21 |
 | [Temptation](https://open.spotify.com/track/3wqBSBa92YjumaxGO9SH3U) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Temptation](https://open.spotify.com/album/7eYa0dcRtYtxiHKsj7Af43) | 3:09 | 2024-11-08 | 2025-03-21 |
 | [That Kinda Love](https://open.spotify.com/track/1Mpo8ZIbEYMVQYZeEHlF15) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [JIMINI](https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn) | [That Kinda Love](https://open.spotify.com/album/55CLCdTPdK4EhfeHqeZ5Zc) | 2:44 | 2024-01-11 | 2024-04-19 |
-| [That Kinda Love](https://open.spotify.com/track/6xaKJufSjgKoYlJt2UNnLx) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [JIMINI](https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn) | [That Kinda Love](https://open.spotify.com/album/7DzgRJKoXPUbkHsnxOnASQ) | 2:44 | 2024-04-11 |  |
+| [That Kinda Love](https://open.spotify.com/track/6xaKJufSjgKoYlJt2UNnLx) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [JIMINI](https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn) | [That Kinda Love](https://open.spotify.com/album/7DzgRJKoXPUbkHsnxOnASQ) | 2:44 | 2024-04-11 | 2025-09-16 |
 | [The Beach](https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [The Beach](https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD) | 3:37 | 2022-09-15 | 2024-07-05 |
 | [The Boys Of Summer](https://open.spotify.com/track/5oeG2dP6Qda3ueQEllB7pW) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Geoff Duncan](https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N) | [The Boys Of Summer](https://open.spotify.com/album/31XBvtJJ3fQkQUrRukoq1E) | 2:17 | 2023-06-08 | 2024-03-21 |
 | [the key \- Tim van Werd remix](https://open.spotify.com/track/2HMZhXZhX3ErAds3UmFhem) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3), [Tim van Werd](https://open.spotify.com/artist/5UgA77bKieWHI27WVk6bPE) | [the key \(Tim van Werd remix\)](https://open.spotify.com/album/42qOGIkeeyxxc2i7ZMXrJp) | 4:30 | 2024-04-11 | 2024-10-04 |

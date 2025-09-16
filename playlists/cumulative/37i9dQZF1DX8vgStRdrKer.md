@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-592 songs - 1 day 23 hr 48 min
+593 songs - 1 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [IDINMA \(Mercy Prevails\) \- Live](https://open.spotify.com/track/4oqxo4bkaRbnOqXMsWxP1Y) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [IDINMA \(Mercy Prevails\) \[Live\]](https://open.spotify.com/album/4vDlB283bSnqfdk1IC4upA) | 11:55 | 2025-05-16 |  |
 | [If All I Say Is Jesus \(Green Worship Version\)](https://open.spotify.com/track/18Fbap1b31YBSzvO46CDpb) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [If All I Say Is Jesus \(Green Worship Version\)](https://open.spotify.com/album/3a0zNYcxVl69zNcZAx8zrG) | 7:08 | 2024-04-26 | 2024-05-13 |
 | [ife](https://open.spotify.com/track/2dTsN61HPz0EjLpv70QOyq) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [God First](https://open.spotify.com/album/4bcYm108DwI3sdT3yW8g8F) | 2:30 | 2025-06-20 | 2025-06-27 |
-| [Ife](https://open.spotify.com/track/30SbSJ28UDIMrZcduXXMmy) | [Donndagreat](https://open.spotify.com/artist/0Ug5Xy3Ce7GB95HjK2Ohwi), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Ife](https://open.spotify.com/album/2oNJr6H7HUWerNcx4xH6HE) | 2:43 | 2025-08-22 |  |
+| [Ife](https://open.spotify.com/track/30SbSJ28UDIMrZcduXXMmy) | [Donndagreat](https://open.spotify.com/artist/0Ug5Xy3Ce7GB95HjK2Ohwi), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Ife](https://open.spotify.com/album/2oNJr6H7HUWerNcx4xH6HE) | 2:43 | 2025-08-22 | 2025-09-16 |
 | [Ikenga](https://open.spotify.com/track/5ViVHmE5JQUyPFob6YQaz8) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [Ikenga](https://open.spotify.com/album/3MDKcQW0afcWdDScjm3R4P) | 4:45 | 2023-11-10 | 2023-11-17 |
 | [Ikhandlela](https://open.spotify.com/track/6K6nUh69oUPiyQar1Vkdya) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Ikhandlela](https://open.spotify.com/album/0cGh4bbnCT1yoVDwsdUVSp) | 5:22 | 2025-08-15 |  |
 | [Imela](https://open.spotify.com/track/3WSjY8Z9vCKX8X3sc1pQwb) | [TFC Gold](https://open.spotify.com/artist/0tUXkhXZq28ovlMTUHTyg1), [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Imela](https://open.spotify.com/album/5O5ASDteTamA9ceHyDExRY) | 3:22 | 2025-05-30 | 2025-06-20 |
@@ -348,6 +348,7 @@
 | [Move](https://open.spotify.com/track/1o0vYv6GqhLIxORHLnm0zj) | [Nomza](https://open.spotify.com/artist/0ebNqGJ09joqyFiemZyLpx) | [Move](https://open.spotify.com/album/2N7u6Odm8DaxfsUVaowOQY) | 2:23 | 2025-06-06 | 2025-07-29 |
 | [Move On](https://open.spotify.com/track/6DZopdGdHv6WIh6d1Qh0rZ) | [Moses Luka](https://open.spotify.com/artist/2vGifkRUpxkURfLeKJoikp) | [Move On](https://open.spotify.com/album/57FkLvxpYb3TvD6xbRvdOj) | 2:50 | 2025-08-08 |  |
 | [Moving forward](https://open.spotify.com/track/3csf2n4WnJhsKAZsLMLtXi) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Moving forward](https://open.spotify.com/album/6V6iJ7TeErriUcj8Epx4SR) | 3:50 | 2025-07-11 | 2025-08-07 |
+| [Moyo Wanga](https://open.spotify.com/track/3mYapvHCLZ9udtGPiQfSyU) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Tobi Jeff Richards](https://open.spotify.com/artist/4otRzds8kWRbAxtnJQHPTP) | [Moyo Wanga](https://open.spotify.com/album/1MDz8Ruc8nq72ZQh5IAjO0) | 6:21 | 2025-09-12 |  |
 | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu) | 8:20 | 2023-10-20 | 2023-11-27 |
 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 | 2023-09-15 | 2024-03-16 |
 | [My Future and Hope](https://open.spotify.com/track/2yYmdb2fPecJFrS9erTpvb) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 4:41 | 2024-03-01 | 2025-06-20 |

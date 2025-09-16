@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\. Cover: BIA  & Key Glock
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,009 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,012 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 9 | [Runnin](https://open.spotify.com/track/7ogFpOxcsqo60XeNQNfapN) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Runnin](https://open.spotify.com/album/2JWUE5oWp1jnTqK4hr9WGC) | 2:56 |
 | 10 | [Pole Position](https://open.spotify.com/track/2mW3KRKLCR2jshXKaot4EL) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Pole Position](https://open.spotify.com/album/363EXqb8TO4SsY1XqR8Kfn) | 2:51 |
 | 11 | [SOMEBODY LOVES ME PT\. 2](https://open.spotify.com/track/2aTf0R0TQCJJKcb0ipszD2) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [SOMEBODY LOVES ME PT\. 2](https://open.spotify.com/album/039HqIGiK3GLheUbqtyu8H) | 3:01 |
-| 12 | [Petty \(Whistle\)](https://open.spotify.com/track/4I3xiAA75MfboUnqczxJCN) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS) | [Petty \(Whistle\)](https://open.spotify.com/album/26r0xaeLHtkNa4hyqmBlU5) | 2:29 |
+| 12 | [Petty \(Whistle\)](https://open.spotify.com/track/4I3xiAA75MfboUnqczxJCN) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS) | [Petty \(Whistle\)](https://open.spotify.com/album/26r0xaeLHtkNa4hyqmBlU5) | 2:27 |
 | 13 | [Tiramisu](https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Tiramisu](https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3) | 2:18 |
 | 14 | [Backyard \(with JID\)](https://open.spotify.com/track/0lXryFB1cmrLYTfZ7vH91y) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Backyard \(with JID\)](https://open.spotify.com/album/5BTYzBFEHJuToi9lVeDdCw) | 3:23 |
 | 15 | [Name My Price](https://open.spotify.com/track/1fT7mEKaIgqBCcCvpHzi2x) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Name My Price](https://open.spotify.com/album/0ye3thyZPRwQzkulMm2phJ) | 2:12 |

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUozJiHy44Y.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,409,625 likes - 39 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,409,843 likes - 39 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Someone Like You](https://open.spotify.com/track/6QPKYGnAW9QozVz2dSWqRg) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 4:45 |
 | 2 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
 | 3 | [Make You Feel My Love](https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1) | 3:32 |
-| 4 | [Hello](https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:55 |
+| 4 | [When We Were Young](https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:50 |
 | 5 | [Rolling in the Deep](https://open.spotify.com/track/5xPazRvyrkVootu8pM9vUG) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Rolling In The Deep](https://open.spotify.com/album/6cw6QU9pF7FyQtSyJjzMua) | 3:48 |
-| 6 | [Set Fire to the Rain](https://open.spotify.com/track/3CKCZ9pfwAfoMZlMncA1Nc) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 4:01 |
-| 7 | [When We Were Young](https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:50 |
-| 8 | [Chasing Pavements](https://open.spotify.com/track/4YoGMmUJJ9dZpQ2CLOmPl2) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/3uftDqGs13LsE1s8nn5XSe) | 3:30 |
-| 9 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 |
-| 10 | [Hometown Glory](https://open.spotify.com/track/3cCPT7eJhpYXXlH2pbWhfP) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/3uftDqGs13LsE1s8nn5XSe) | 4:31 |
-| 11 | [Love In The Dark](https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:45 |
+| 6 | [Hello](https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:55 |
+| 7 | [Set Fire to the Rain](https://open.spotify.com/track/3CKCZ9pfwAfoMZlMncA1Nc) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 4:01 |
+| 8 | [Hometown Glory](https://open.spotify.com/track/3cCPT7eJhpYXXlH2pbWhfP) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/3uftDqGs13LsE1s8nn5XSe) | 4:31 |
+| 9 | [Love In The Dark](https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:45 |
+| 10 | [Chasing Pavements](https://open.spotify.com/track/4YoGMmUJJ9dZpQ2CLOmPl2) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/3uftDqGs13LsE1s8nn5XSe) | 3:30 |
+| 11 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 |
 | 12 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/4BHzQ9C00ceJxfG16AlNWb) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/0K4pIOOsfJ9lK8OjrZfXzd) | 3:43 |
 | 13 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 |
 | 14 | [Water Under the Bridge](https://open.spotify.com/track/4vb4mFvYsr2h6enhjJsq9Y) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/0K4pIOOsfJ9lK8OjrZfXzd) | 4:00 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUozJiHy44Y.md) - [plain]
 | 38 | [Many Shades of Black](https://open.spotify.com/track/1nX4VLG50VzERLthNEXWtY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY), [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 4:28 |
 | 39 | [Hometown Glory \(High Contrast Remix\)](https://open.spotify.com/track/7pfObKU7pvD5ZQPNNNsl62) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Hometown Glory](https://open.spotify.com/album/0waVqJjsfINWbs3aMK9y4s) | 6:36 |
 
-Snapshot ID: `AAAAABmQDnYq5N9ghOukeQJQk63/8cr+`
+Snapshot ID: `AAAAAPYUXN/uaNxhhFFsIo1c2yjzVadl`

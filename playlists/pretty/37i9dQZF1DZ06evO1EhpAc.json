@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9590,
+  "num_followers": 9591,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAABM0Ogy9T0m3lm59Pebt5+I",
+  "snapshot_id": "aMYFgAAAAABl0uXaf3RnyqMn5ivTiMoL",
   "tracks": [
     {
       "added_at": null,
@@ -67,46 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirror (feat. Jessy Lanza & Yaeji)",
-        "url": "https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk"
-      },
-      "artists": [
-        {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
-        },
-        {
-          "name": "Jessy Lanza",
-          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "Mirror (feat. Jessy Lanza & Yaeji)",
-      "url": "https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 274728,
-      "name": "Passionfruit",
-      "url": "https://open.spotify.com/track/5HwHdYpk3QiOUhsfWKYkFq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Charli",
         "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
       },
@@ -127,6 +87,46 @@
       "duration_ms": 153093,
       "name": "February 2017 (feat. Clairo and Yaeji)",
       "url": "https://open.spotify.com/track/3fTEcn7Jt6Dq3NVVdNvl4w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 274728,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5HwHdYpk3QiOUhsfWKYkFq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirror (feat. Jessy Lanza & Yaeji)",
+        "url": "https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Mirror (feat. Jessy Lanza & Yaeji)",
+      "url": "https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "With A Hammer",
+        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "Submerge FM",
+      "url": "https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What a Joy",
         "url": "https://open.spotify.com/album/66awLlAFni3514drN79wdh"
       },
@@ -343,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "With A Hammer",
-        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "Submerge FM",
-      "url": "https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
       },
@@ -371,30 +371,6 @@
       "duration_ms": 218910,
       "name": "After That",
       "url": "https://open.spotify.com/track/48wFUJgjPLELDleMsJ9xlY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "YonYon",
-          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
-        },
-        {
-          "name": "G.L.A.M.",
-          "url": "https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ"
-        }
-      ],
-      "duration_ms": 186873,
-      "name": "SPELL \uc8fc\ubb38",
-      "url": "https://open.spotify.com/track/2a03sGTTkUFXpNKwDpdB3B"
     },
     {
       "added_at": null,
@@ -428,9 +404,33 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 172613,
-      "name": "Done (Let's Get It)",
-      "url": "https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I"
+      "duration_ms": 122600,
+      "name": "I'll Remember For Me, I'll Remember For You",
+      "url": "https://open.spotify.com/track/4TQTxlRQkVkQAtRkZvtlSS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        },
+        {
+          "name": "G.L.A.M.",
+          "url": "https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ"
+        }
+      ],
+      "duration_ms": 186873,
+      "name": "SPELL \uc8fc\ubb38",
+      "url": "https://open.spotify.com/track/2a03sGTTkUFXpNKwDpdB3B"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
       "duration_ms": 355121,
       "name": "New York 93 (Baba Stiltz Remix)",
       "url": "https://open.spotify.com/track/3aMdNsf7cEtehKpJpBuqOD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 229848,
-      "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-      "url": "https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf"
     },
     {
       "added_at": null,
@@ -496,9 +480,25 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 122600,
-      "name": "I'll Remember For Me, I'll Remember For You",
-      "url": "https://open.spotify.com/track/4TQTxlRQkVkQAtRkZvtlSS"
+      "duration_ms": 172613,
+      "name": "Done (Let's Get It)",
+      "url": "https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 229848,
+      "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+      "url": "https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
       "duration_ms": 127487,
       "name": "Do You See Me",
       "url": "https://open.spotify.com/track/2Qq4cHhvAKu55LDU5kzijB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 197343,
-      "name": "When in Summer, I Forget About the Winter - Bonus Track",
-      "url": "https://open.spotify.com/track/23Vl5xmLj3Z4pc1zRtjUe2"
     },
     {
       "added_at": null,
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 197343,
+      "name": "When in Summer, I Forget About the Winter - Bonus Track",
+      "url": "https://open.spotify.com/track/23Vl5xmLj3Z4pc1zRtjUe2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RAVE:N, The Remixes",
         "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
       },
@@ -587,22 +587,6 @@
       "duration_ms": 149982,
       "name": "Enough For Love - Yaeji heart+beat Remix",
       "url": "https://open.spotify.com/track/4IjNSEP03dDNFAcQVgUfXH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 162459,
-      "name": "WHEN I GROW UP",
-      "url": "https://open.spotify.com/track/3ROrNVOrcH68Hh2EbLffxs"
     },
     {
       "added_at": null,
@@ -639,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 162459,
+      "name": "WHEN I GROW UP",
+      "url": "https://open.spotify.com/track/3ROrNVOrcH68Hh2EbLffxs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TRANSA",
         "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
       },
@@ -655,26 +655,6 @@
       "duration_ms": 185366,
       "name": "Pink Ponies",
       "url": "https://open.spotify.com/track/3sQIxMBHXvqaAc0RMtw8QT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "Nappy Nina",
-          "url": "https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx"
-        }
-      ],
-      "duration_ms": 170424,
-      "name": "MONEY CAN'T BUY",
-      "url": "https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX"
     },
     {
       "added_at": null,
@@ -723,6 +703,26 @@
       "duration_ms": 284411,
       "name": "Believe In Ya (Max Tundra Remix)",
       "url": "https://open.spotify.com/track/1Tlr1PHzDwaPJVRUD6A1bo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Nappy Nina",
+          "url": "https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx"
+        }
+      ],
+      "duration_ms": 170424,
+      "name": "MONEY CAN'T BUY",
+      "url": "https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX"
     }
   ],
   "unique_name": "This Is Yaeji",

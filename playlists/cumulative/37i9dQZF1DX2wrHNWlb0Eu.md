@@ -4,7 +4,7 @@
 
 > พบคนคลั่งรักหลายอัตราที่เพลย์ลิสต์นี้!
 
-217 songs - 13 hr 19 min
+218 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/track/58ViLaYQWchYq9vMfW5Prk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk) | 3:27 | 2023-02-10 |  |
 | [หมอนอิง \(Anything\)](https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [หมอนอิง \(Anything\)](https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL) | 3:38 | 2023-10-06 | 2025-03-22 |
 | [หลับไม่ฝัน \(Sleep Tight\)](https://open.spotify.com/track/3Zm6ydHdqWKx4PkqMOddIq) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [หลับไม่ฝัน \(Sleep Tight\)](https://open.spotify.com/album/6Z1bPXBVelf3jQc4esbRo5) | 2:50 | 2025-03-05 | 2025-03-15 |
+| [หวง \(You're Mine\)](https://open.spotify.com/track/5t2958ghc1UIUovv1pqMl3) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [หวง \(You're Mine\)](https://open.spotify.com/album/4oWwhDTfbza1oR6DXlkFSH) | 3:36 | 2025-08-17 |  |
 | [หวง\(You're Mine\)](https://open.spotify.com/track/0fHmpM00nb8arza6MMvM6i) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [หวง\(You're Mine\)](https://open.spotify.com/album/63GllsPcsHzVIelwhn5ZDa) | 3:36 | 2023-02-10 | 2024-04-19 |
 | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/track/6vAH43fkKUA2Ysgf7jIw6R) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [สยาโม](https://open.spotify.com/artist/4AJ2vsPrlHwJMpGB4RHuvG) | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/album/0E2eCd2zuv1Iuk4MnKdros) | 3:05 | 2025-03-21 |  |
 | [หากเธอเคยรักใคร \(IF YOU LOVE\)](https://open.spotify.com/track/08OtCoRVu0sHp8dmCddtvg) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC), [Koen](https://open.spotify.com/artist/0Uz2jjlCiSOpsxSD7qOEB0) | [หากเธอเคยรักใคร \(IF YOU LOVE\)](https://open.spotify.com/album/49h8RHuCZSrOZKqsE9q8JM) | 3:35 | 2023-02-10 | 2025-03-22 |
@@ -188,7 +189,7 @@
 | [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\)](https://open.spotify.com/track/3YN1Qgpgt5xVurl2mUFA4y) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [MILLI](https://open.spotify.com/artist/15D6XEjr6LVGGc6dNmS2yz) | [It's Gonna Be OK](https://open.spotify.com/album/37wolAPWNOJfdRRwW1N6gL) | 3:37 | 2023-02-10 | 2024-02-13 |
 | [เพื่อนแท้](https://open.spotify.com/track/5IWMAHpNDXeKH0aZ0YHY70) | [Earn Piyada](https://open.spotify.com/artist/4ztgw56xBHUOm0yb7ubz7K), [The Gang](https://open.spotify.com/artist/1U2Se7sKuBWItaZypVElX9) | [เพลงของเธอ](https://open.spotify.com/album/0YtFmuQfVCp9nOkIcLEvls) | 3:50 | 2023-02-10 | 2023-11-11 |
 | [เมะ](https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เมะ](https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw) | 3:06 | 2023-02-10 |  |
-| [เรา](https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [เรา \- Single](https://open.spotify.com/album/1DdTVigUvEMwqK6r710cZ8) | 5:06 | 2023-02-10 |  |
+| [เรา](https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [เรา \- Single](https://open.spotify.com/album/1DdTVigUvEMwqK6r710cZ8) | 5:06 | 2023-02-10 | 2025-09-16 |
 | [เริ่มใหม่](https://open.spotify.com/track/0jKVrsyHlyEhH1JyKE45iT) | [Tony Phee](https://open.spotify.com/artist/3e9fZ7KYeCdQg3iEBFbFJN) | [กลัว](https://open.spotify.com/album/4KpElpE1zjE2AQqxr1H93k) | 4:52 | 2023-02-21 | 2024-10-23 |
 | [เรื่องมหัศจรรย์](https://open.spotify.com/track/2ZvuGneo9p5JqtDQU45Yhv) | [Sofa](https://open.spotify.com/artist/2de8om9GjyJuMclZbGQw9O) | [Sofa](https://open.spotify.com/album/56gyLvDXgWHVcsHZd7qV4S) | 4:05 | 2024-03-16 | 2025-02-14 |
 | [เวลาเธอยิ้ม \(You Had Me At Hello\)](https://open.spotify.com/track/06DPpk0hUJEgpzl5cuWNI6) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [80 Kisses](https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95) | 3:47 | 2023-02-10 |  |

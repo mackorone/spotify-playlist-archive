@@ -1,12 +1,12 @@
 {
   "description": "This is Benson Boone. The essential tracks, all in one playlist.",
-  "num_followers": 342837,
+  "num_followers": 343152,
   "original_name": "This Is Benson Boone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAACxPGvvifiTY2ETzR8s5JRH",
+  "snapshot_id": "aMYFgAAAAACKCg9+yYbvrs/B4vShMr+n",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PULSE",
-        "url": "https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5"
+        "name": "Walk Me Home...",
+        "url": "https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 186540,
-      "name": "Coffee Cake",
-      "url": "https://open.spotify.com/track/31XxRxQ4g4mVkHoJwhCJ5z"
+      "duration_ms": 169494,
+      "name": "Work of Art",
+      "url": "https://open.spotify.com/track/0CmN570l8ZwQpI70oV8Avg"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk Me Home...",
-        "url": "https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 169494,
-      "name": "Work of Art",
-      "url": "https://open.spotify.com/track/0CmN570l8ZwQpI70oV8Avg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PULSE",
         "url": "https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5"
       },
@@ -388,9 +372,9 @@
           "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 195277,
-      "name": "Little Runaway",
-      "url": "https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR"
+      "duration_ms": 186540,
+      "name": "Coffee Cake",
+      "url": "https://open.spotify.com/track/31XxRxQ4g4mVkHoJwhCJ5z"
     },
     {
       "added_at": null,
@@ -411,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walk Me Home...",
+        "url": "https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 176779,
+      "name": "Empty Heart Shaped Box",
+      "url": "https://open.spotify.com/track/0bZdTyIER1CKRpdHXa579G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Better Alone",
         "url": "https://open.spotify.com/album/0vTZFLIIpFT4Zxwbt1dFFD"
       },
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk Me Home...",
-        "url": "https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz"
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 176779,
-      "name": "Empty Heart Shaped Box",
-      "url": "https://open.spotify.com/track/0bZdTyIER1CKRpdHXa579G"
+      "duration_ms": 195277,
+      "name": "Little Runaway",
+      "url": "https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR"
     },
     {
       "added_at": null,

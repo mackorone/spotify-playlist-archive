@@ -1,12 +1,12 @@
 {
   "description": "This is Doja Cat. The essential tracks, all in one playlist.",
-  "num_followers": 1077958,
+  "num_followers": 1078262,
   "original_name": "This Is Doja Cat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAABc/A2HG5cefrsTOY4YC0L+",
+  "snapshot_id": "aMYFgAAAAAC+lx+qsH4m9jf7y9JkVNP1",
   "tracks": [
     {
       "added_at": null,
@@ -215,18 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paint The Town Red",
-        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+        "name": "Amala",
+        "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
       },
       "artists": [
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
         }
       ],
-      "duration_ms": 231750,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+      "duration_ms": 219000,
+      "name": "Wine Pon You (feat. Konshens)",
+      "url": "https://open.spotify.com/track/2s4AcE9n80mSHl87lp4gIm"
     },
     {
       "added_at": null,
@@ -251,22 +255,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amala",
-        "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
       },
       "artists": [
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Wine Pon You (feat. Konshens)",
-      "url": "https://open.spotify.com/track/2s4AcE9n80mSHl87lp4gIm"
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boss Bitch",
-        "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 134239,
-      "name": "Boss Bitch",
-      "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
       },
@@ -355,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+        "name": "Boss Bitch",
+        "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
       },
       "artists": [
         {
@@ -364,25 +348,9 @@
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 182906,
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Been Like This",
-      "url": "https://open.spotify.com/track/7y3xU9vEC1s8DSuuoSYKih"
+      "duration_ms": 134239,
+      "name": "Boss Bitch",
+      "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
     },
     {
       "added_at": null,
@@ -407,6 +375,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "Been Like This",
+      "url": "https://open.spotify.com/track/7y3xU9vEC1s8DSuuoSYKih"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Streets (Silhouette Remix)",
         "url": "https://open.spotify.com/album/3vUpSuV7VbV4vonGqQQmUG"
       },
@@ -419,6 +419,38 @@
       "duration_ms": 242692,
       "name": "Streets - Silhouette Remix",
       "url": "https://open.spotify.com/track/0Uru1UoJdHKf2lxssQT3kC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "Rules",
+      "url": "https://open.spotify.com/track/1TMWcbxL5YF8rKsFHv5hAP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Ain't Shit",
+      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
     },
     {
       "added_at": null,
@@ -443,38 +475,6 @@
       "duration_ms": 214506,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Ain't Shit",
-      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "Rules",
-      "url": "https://open.spotify.com/track/1TMWcbxL5YF8rKsFHv5hAP"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amala (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 285053,
+      "name": "MOOO!",
+      "url": "https://open.spotify.com/track/043dDJ9u0PQ3ooAXMgcwOe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Positions (Deluxe)",
         "url": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amala",
-        "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 240386,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/2tT9weSQUFDWsVgHBYz3G6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hot Pink",
         "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amala (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU"
+        "name": "Amala",
+        "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 285053,
-      "name": "MOOO!",
-      "url": "https://open.spotify.com/track/043dDJ9u0PQ3ooAXMgcwOe"
+      "duration_ms": 240386,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/2tT9weSQUFDWsVgHBYz3G6"
     },
     {
       "added_at": null,
@@ -766,15 +766,11 @@
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 152653,
-      "name": "URRRGE!!!!!!!!!! (feat. A$AP Rocky)",
-      "url": "https://open.spotify.com/track/0mxMMetknt24PVQxAHwXAZ"
+      "duration_ms": 169066,
+      "name": "OKLOSER",
+      "url": "https://open.spotify.com/track/3Vlt0DKYBK0h3Vf92nywhp"
     },
     {
       "added_at": null,
@@ -838,11 +834,15 @@
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 169066,
-      "name": "OKLOSER",
-      "url": "https://open.spotify.com/track/3Vlt0DKYBK0h3Vf92nywhp"
+      "duration_ms": 152653,
+      "name": "URRRGE!!!!!!!!!! (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/0mxMMetknt24PVQxAHwXAZ"
     },
     {
       "added_at": null,

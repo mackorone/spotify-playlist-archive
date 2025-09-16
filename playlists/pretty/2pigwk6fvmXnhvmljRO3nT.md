@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,638 songs - 19 day 18 hr 9 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,639 songs - 19 day 18 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7646,5 +7646,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7636 | [Slow Jamz](https://open.spotify.com/track/4gaQeAqniHihtQIFlrPvBG) | [ssjishmael](https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC) | [Slow Jamz](https://open.spotify.com/album/1s2JzLPIExAeNO1hHQBzXJ) | 2:03 |
 | 7637 | [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/track/3tHd50688EEocgRLmeSiWV) | [Kaden MacKay](https://open.spotify.com/artist/3pvdhTDfKYnjDZ0R41qY3x) | [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/album/5UGxCLRU8NaCVYpznC2Exd) | 3:13 |
 | 7638 | [Let's Go Home](https://open.spotify.com/track/1P0JP5gsaDDMvJOB02dl7B) | [Carousel](https://open.spotify.com/artist/0oYWECmtozBZGjnklDFPTH) | [Let's Go Home](https://open.spotify.com/album/5oTSgI5xEsrEhXICmEowq3) | 3:40 |
+| 7639 | [Zodiac Killer](https://open.spotify.com/track/5YNpZZLw3sXVq9VYT9XqCw) | [Khalil?](https://open.spotify.com/artist/0TzMK687XQf4EwLFYvpDLz) | [Zodiac Killer](https://open.spotify.com/album/4f3WQMLPtPvf7zIigKa2q2) | 2:04 |
 
-Snapshot ID: `AAAIq3eZmYyQ1495x6ZS6msCbgvwCFPU`
+Snapshot ID: `AAAIrDhey+DzpUnP31VdSr9uFpFkLu6y`

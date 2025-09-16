@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Ed Sheeran, Saga Faye, Drake med flera\. Happy New Music Friday!
 
-20,810 songs - 44 day 21 hr 19 min
+20,811 songs - 44 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15278,7 +15278,7 @@
 | [Safe](https://open.spotify.com/track/0Bd3qt36q8Je7W6jGYYITL) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Safe](https://open.spotify.com/album/3RIdpPPRMQgqWTK0nk3sT4) | 2:59 | 2025-01-23 | 2025-01-31 |
 | [Safe](https://open.spotify.com/track/6uLOJ6fKjpxssU2SKkKJ6y) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Covenants](https://open.spotify.com/artist/13QkZsAUXqAXVMGhMDEluJ) | [Safe](https://open.spotify.com/album/7bQNH3eVOn3W9VtAb2dCpC) | 2:55 | 2022-03-17 | 2022-03-25 |
 | [Safe And Sorry](https://open.spotify.com/track/6f7TYlaYYwOxZ0OeZCX3ZD) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Safe And Sorry](https://open.spotify.com/album/0AphAftJDSEGYfDzzHKQue) | 2:58 | 2025-08-01 | 2025-08-08 |
-| [Safeandsound](https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Safeandsound](https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA) | 4:37 | 2025-03-14 |  |
+| [Safeandsound](https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Safeandsound](https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA) | 4:37 | 2025-03-14 | 2025-09-16 |
 | [Safety Net](https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Safety Net](https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8) | 3:23 | 2024-09-12 | 2024-09-20 |
 | [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 | 2025-02-27 | 2025-03-07 |
 | [Sagan om oss två \- Live från Benjamin's](https://open.spotify.com/track/0msSU5IPH4NCpjdb8ak92w) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Sarah Dawn Finer](https://open.spotify.com/artist/4TuGR5xkIry198WmY7hax2) | [Sagan om oss två \(Live från Benjamin's\)](https://open.spotify.com/album/4O9w3NAVgBwCXI1aktJgA6) | 3:32 | 2022-04-14 | 2022-04-22 |
@@ -16496,6 +16496,7 @@
 | [Sorgsna sånger gör mig glad](https://open.spotify.com/track/5zbab2M7fQH503D5Hpg7ap) | [Tomas Andersson Wij](https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL) | [Sorgsna sånger gör mig glad](https://open.spotify.com/album/5ZRDQOqBSzwsf1bHxgfC0z) | 3:31 | 2023-12-14 | 2023-12-22 |
 | [Sorry](https://open.spotify.com/track/0uhBPPQzwOMXz49eTE2ZhX) | [ABDIFATAH](https://open.spotify.com/artist/02X8uyJgzIxRtcXl4D0Mt0), [CharlyC](https://open.spotify.com/artist/6EKwuMau0XsZaaBea8aXAV) | [Nomad](https://open.spotify.com/album/0be58KzbHTjSKRFq2uTUpw) | 2:21 | 2022-08-18 | 2022-08-26 |
 | [Sorry](https://open.spotify.com/track/4wwnHAfmF12t0XGd3exEX0) | [Jessiqa Jones](https://open.spotify.com/artist/3jt2Xvzm0RHCW962b1N1qT) | [Sorry](https://open.spotify.com/album/3Co2nl4J3gN6N5VVaACJnb) | 3:18 | 2022-12-23 | 2023-01-06 |
+| [Sorry](https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:17 | 2025-09-15 |  |
 | [SORRY](https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 3:12 | 2023-11-10 | 2023-11-18 |
 | [Sorry For The Drama](https://open.spotify.com/track/5WhP5twAAdHUo3CxKcwMa2) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Sorry For The Drama](https://open.spotify.com/album/5BzuEBSDMfwBhUobVPyQCh) | 3:11 | 2023-10-05 | 2023-10-13 |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-02-27 | 2025-03-07 |

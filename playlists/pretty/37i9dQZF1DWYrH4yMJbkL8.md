@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Carsen Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,717 likes - 29 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,726 likes - 29 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 28 | [Mino Bimaadiziwin \(A Good Way of Life\)](https://open.spotify.com/track/6GPpr4RjiqJtIym1wx8U0L) | [Boogey the Beat](https://open.spotify.com/artist/0Kc8I2nrf9po7TU4VH3lnK) | [Mino Bimaadiziwin \(A Good Way of Life\)](https://open.spotify.com/album/1dGzZnC2qf98ctc78fCOMX) | 3:26 |
 | 29 | [I Can Feel the Ocean \(Sung in Haida Language\)](https://open.spotify.com/track/2dhRkBLQf2VtJgLHPGvw9a) | [Sondra S\. Segundo](https://open.spotify.com/artist/5LmbmW5Tf5IrM3r4j8GB7O) | [Díi Gudangáay Uu Síigaay](https://open.spotify.com/album/6adYgQ3lGDAOOCUvvdWljx) | 4:31 |
 
-Snapshot ID: `AAAAAOzXBMBTzX40E8NxfZ6HPckhJM3f`
+Snapshot ID: `AAAAAPe0ohJdLCOn5l3uyhgcCTtAL9vo`

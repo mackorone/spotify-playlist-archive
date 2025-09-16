@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. Curada por Sol Ortega.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,700 likes - 23 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,694 likes - 23 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 5 | [Fiesta Gay](https://open.spotify.com/track/6f9KXtKxhAywscYmiCgx0k) | [Franzizca](https://open.spotify.com/artist/0Mgj6yf5sMHjzpFBfPHe2m) | [VIDA NOCTURNA](https://open.spotify.com/album/3lQGtbbjeHxl1JbHrhEsa2) | 3:12 |
 | 6 | [Fluctuating Consciousness](https://open.spotify.com/track/1QU34oSGR7fkUk8zVTL5Pm) | [Victoria Engel](https://open.spotify.com/artist/2yNhH2Dks4MsBo79ozjpDa) | [Fluctuating Consciousness](https://open.spotify.com/album/3wl8lHdP1NQSoUCZTYvxuM) | 7:08 |
 | 7 | [Gatekeeper](https://open.spotify.com/track/2N82rmvgNW6ApPIeR3uJ0C) | [TINKERHELL](https://open.spotify.com/artist/0Y1HdImRNp7q0Qfw8dhmWF) | [Gatekeeper](https://open.spotify.com/album/7Ibyl4ZQcPOvJBlxtM3f5Q) | 6:33 |
-| 8 | [Human or Monkeys](https://open.spotify.com/track/2frjkLrX8eWM6RF2vVvzI4) | [Sol Porro](https://open.spotify.com/artist/1TLxSIoXyqq9myZRDw5LjG) | [Human or Monkeys](https://open.spotify.com/album/0khynoy6wlTjmvu8YFjpzo) | 4:28 |
-| 9 | [Sicaria](https://open.spotify.com/track/4ukKTac13xGAB27uHnOBT9) | [Milena Adamis](https://open.spotify.com/artist/2Bgl8dbmtHRYbgeDtWq4Yy) | [Tranzas Del Swing Vol.2](https://open.spotify.com/album/6as1rvZnLlajz5Wr4Q68Zs) | 5:32 |
+| 8 | [Sicaria](https://open.spotify.com/track/4ukKTac13xGAB27uHnOBT9) | [Milena Adamis](https://open.spotify.com/artist/2Bgl8dbmtHRYbgeDtWq4Yy) | [Tranzas Del Swing Vol.2](https://open.spotify.com/album/6as1rvZnLlajz5Wr4Q68Zs) | 5:32 |
+| 9 | [Human or Monkeys](https://open.spotify.com/track/2frjkLrX8eWM6RF2vVvzI4) | [Sol Porro](https://open.spotify.com/artist/1TLxSIoXyqq9myZRDw5LjG) | [Human or Monkeys](https://open.spotify.com/album/0khynoy6wlTjmvu8YFjpzo) | 4:28 |
 | 10 | [The labyrinth trapped you](https://open.spotify.com/track/3sO1Vc43sVbprXnpRpv0rr) | [Cia Rebeck](https://open.spotify.com/artist/6xUdgbtLYC7vFdAKr5nP44) | [The labyrinth trapped you \[DK004\]](https://open.spotify.com/album/1VUSzqXDKRCfX5o8mpC9dp) | 5:31 |
-| 11 | [Máquina De Experiencias](https://open.spotify.com/track/4H3ahu5ghqt7PwKr2ff2TA) | [PAMPA](https://open.spotify.com/artist/5tWAMlHCmAZl5gJQJjFwmS) | [Barreras Mentales](https://open.spotify.com/album/7yGaBonx8PctSKnPlf4mmY) | 5:00 |
-| 12 | [Lost at 9pm](https://open.spotify.com/track/3rxfxCbXfNWIn2rwFxPdn8) | [Erika Halliday](https://open.spotify.com/artist/5HlRz2Fo1ZBzTt4RJrFlzv) | [Lost at 9pm](https://open.spotify.com/album/5gqWklcCpjfqWzc9w4rJUf) | 5:49 |
+| 11 | [Lost at 9pm](https://open.spotify.com/track/3rxfxCbXfNWIn2rwFxPdn8) | [Erika Halliday](https://open.spotify.com/artist/5HlRz2Fo1ZBzTt4RJrFlzv) | [Lost at 9pm](https://open.spotify.com/album/5gqWklcCpjfqWzc9w4rJUf) | 5:49 |
+| 12 | [Máquina De Experiencias](https://open.spotify.com/track/4H3ahu5ghqt7PwKr2ff2TA) | [PAMPA](https://open.spotify.com/artist/5tWAMlHCmAZl5gJQJjFwmS) | [Barreras Mentales](https://open.spotify.com/album/7yGaBonx8PctSKnPlf4mmY) | 5:00 |
 | 13 | [Queen Of Swords](https://open.spotify.com/track/2PSjplBcb9xHYgZdTurg88) | [Desirée Falessi](https://open.spotify.com/artist/3YPJmqPLtlrRR4oiJquoNF) | [Queen Of Swords](https://open.spotify.com/album/7eHRGdkgXkVP8nVkxLrCa0) | 6:41 |
 | 14 | [Hit Me](https://open.spotify.com/track/3LcWadS1j2rfrcOVcS6vjc) | [Romina Cohn](https://open.spotify.com/artist/2IZzBDyzXaUQ7pu9gbmXI8) | [Hit Me](https://open.spotify.com/album/3OA4trUNkErSGCuQ9XdRyS) | 6:59 |
 | 15 | [Randomshape](https://open.spotify.com/track/1E9kknrc1pYDRn37pbcsLc) | [Mai iachetti](https://open.spotify.com/artist/575TgodOOhMtSqhGYNWAeh) | [90s Trip](https://open.spotify.com/album/0KUyW9SX1sc2zdnQ2YbLyr) | 6:26 |

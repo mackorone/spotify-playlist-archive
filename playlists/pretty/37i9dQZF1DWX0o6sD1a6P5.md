@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: DJ Malvado x Doddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,000,593 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,000,645 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 13 | [With You \(feat\. Omah Lay\)](https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 |
 | 14 | [Baddies](https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Baddies](https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ) | 3:27 |
 | 15 | [Laho II](https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Laho II](https://open.spotify.com/album/5lpaf3GuS3ig1yXv56OLRR) | 2:37 |
-| 16 | [On shoot ! \(feat\. Chily\)](https://open.spotify.com/track/6IZr7Z7lXaliYYx88d0GJL) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [AfroViibes](https://open.spotify.com/album/75zAuEBy3Xe7VaxV0WRwRa) | 1:56 |
+| 16 | [On shoot !](https://open.spotify.com/track/6IZr7Z7lXaliYYx88d0GJL) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [AfroViibes](https://open.spotify.com/album/75zAuEBy3Xe7VaxV0WRwRa) | 1:56 |
 | 17 | [BADMAN GANGSTA](https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BADMAN GANGSTA](https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01) | 2:23 |
 | 18 | [2K225](https://open.spotify.com/track/5WO8WYu8JIRexWYGjkCDKt) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [2K225](https://open.spotify.com/album/0yh6HGCMihGUK9Y9PMJVBz) | 2:21 |
 | 19 | [Congolaise](https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Congolaise](https://open.spotify.com/album/55Dt41YpOW2lzPUpSl4lFk) | 2:54 |

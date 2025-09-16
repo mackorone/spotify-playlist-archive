@@ -4,7 +4,7 @@
 
 > This is RENEE\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 40 min
+72 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,10 +67,11 @@
 | [Quiero Quedarme para Siempre](https://open.spotify.com/track/3du9ocej65TycajaDfw8j9) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Quiero Quedarme para Siempre](https://open.spotify.com/album/7AQmikvyjRWLYx5cey4JIG) | 3:09 | 2023-03-24 | 2023-12-14 |
 | [Quiero Quedarme para Siempre](https://open.spotify.com/track/78LESagKrWYm0P9E4cyRSj) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Blockbuster](https://open.spotify.com/album/5a159rNIxq78lGa4qnoZBL) | 3:09 | 2023-12-13 |  |
 | [Rakata](https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Rakata](https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E) | 3:02 | 2023-06-03 |  |
-| [Sed de Acción](https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:30 | 2024-10-20 |  |
+| [Sed de Acción](https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:30 | 2024-10-20 | 2025-09-16 |
+| [Sed de Acción \- Re\-versión](https://open.spotify.com/track/4c7GjdSskBPh6drENlszMY) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Sed de Acción Con Carolina Ross \(Re\-versión\)](https://open.spotify.com/album/6LBOwIpVw50EltrrnZqRAN) | 3:33 | 2025-09-16 |  |
 | [Si Tú Quisieras](https://open.spotify.com/track/0stFNtovTjxUl4d6YS8iWQ) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 2:23 | 2024-10-20 |  |
 | [Sin Plan B](https://open.spotify.com/track/0l2UZXjizWAHzdI8w64RV0) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Sin Plan B](https://open.spotify.com/album/7h1x794Hla1SRPGMvf2ve1) | 3:07 | 2025-09-05 |  |
-| [Sobrevivir](https://open.spotify.com/track/2e8BFnEIvvcCF2SW85cOst) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:01 | 2024-10-20 | 2025-04-09 |
+| [Sobrevivir](https://open.spotify.com/track/2e8BFnEIvvcCF2SW85cOst) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:01 | 2024-10-20 |  |
 | [Soy](https://open.spotify.com/track/20uLEIzctSD6LCyCN8DI7R) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 3:07 | 2023-03-24 |  |
 | [Tibio](https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 | 2023-03-24 |  |
 | [Tiki Tai](https://open.spotify.com/track/3Ss1uzI0Eh1pAvVOTIixR5) | [Amuna](https://open.spotify.com/artist/7gtLIOTPwX9CdZttm7ETVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Tiki Tai](https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu) | 2:32 | 2023-07-16 |  |

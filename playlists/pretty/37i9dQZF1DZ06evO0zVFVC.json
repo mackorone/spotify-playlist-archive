@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 108456,
+  "num_followers": 108496,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAD8tzYBwYshnSTf98HUaXWa",
+  "snapshot_id": "aMYFgAAAAABH3+M6ogBPE1SxgQuhc1Jw",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 327013,
-      "name": "The River",
-      "url": "https://open.spotify.com/track/4yVgz6jQy3rshd2OJoyLuY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killing With A Smile",
         "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 211393,
       "name": "Anasasis (Xenophontis)",
       "url": "https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 327013,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/4yVgz6jQy3rshd2OJoyLuY"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 256829,
-      "name": "It's So Hard To Speak Without A Tongue",
-      "url": "https://open.spotify.com/track/5B1LaPTAASab9ObgycVmLl"
+      "duration_ms": 238440,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/0DvT1fJmgN0pWA7R7AlGAf"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 238440,
-      "name": "Pandora",
-      "url": "https://open.spotify.com/track/0DvT1fJmgN0pWA7R7AlGAf"
+      "duration_ms": 256829,
+      "name": "It's So Hard To Speak Without A Tongue",
+      "url": "https://open.spotify.com/track/5B1LaPTAASab9ObgycVmLl"
     },
     {
       "added_at": null,

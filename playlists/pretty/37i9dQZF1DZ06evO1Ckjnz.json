@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAAfx3xZ2zkToSN2Y9mM6PJX",
+  "snapshot_id": "aMYFgAAAAACKedNFIcx+whW7GqnfGFmN",
   "tracks": [
     {
       "added_at": null,
@@ -743,6 +743,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "my way (w/ Rico Nasty & Kanii)",
+        "url": "https://open.spotify.com/album/4CmTdaHt5vFyOQQjjmcruR"
+      },
+      "artists": [
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 177782,
+      "name": "my way (w/ Rico Nasty & Kanii)",
+      "url": "https://open.spotify.com/track/0MIJyhl23TYo8HBVcLxx0Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SEXORCISM",
         "url": "https://open.spotify.com/album/4TI5JC2BNfGFqk9GeA86Hk"
       },
@@ -783,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Is Better",
-        "url": "https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf"
-      },
-      "artists": [
-        {
-          "name": "Token",
-          "url": "https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 155657,
-      "name": "High Heels (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/4DrDU8Vv9UkveFFgGhAnzG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Ruinas",
         "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
       },
@@ -823,46 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "my way (w/ Rico Nasty & Kanii)",
-        "url": "https://open.spotify.com/album/4CmTdaHt5vFyOQQjjmcruR"
-      },
-      "artists": [
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 177782,
-      "name": "my way (w/ Rico Nasty & Kanii)",
-      "url": "https://open.spotify.com/track/0MIJyhl23TYo8HBVcLxx0Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sugar Trap 2",
-        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 181796,
-      "name": "Key Lime OG",
-      "url": "https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ONEPOINTFIVE",
         "url": "https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I"
       },
@@ -879,6 +843,42 @@
       "duration_ms": 119920,
       "name": "SUGARPARENTS (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/2WS2N8wgs9Drd5MNJLJxkf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Is Better",
+        "url": "https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf"
+      },
+      "artists": [
+        {
+          "name": "Token",
+          "url": "https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 155657,
+      "name": "High Heels (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/4DrDU8Vv9UkveFFgGhAnzG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sugar Trap 2",
+        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 181796,
+      "name": "Key Lime OG",
+      "url": "https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر مع <a href="https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl?si=6m5I27tLRiminIYSION2cw"> احمد موزه   </a>  🔥🔥
+> أجمد المهرجانات في مصر مع  إسلام كابونجا
 
-323 songs - 20 hr 5 min
+324 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Ana Fi El Balad 3odma](https://open.spotify.com/track/6rK0qpBQgqYr4yBGLYFTzB) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI) | [Ana Fi El Balad 3odma](https://open.spotify.com/album/4B66UDs1jdJXzdrMDEs3gL) | 3:35 | 2024-08-12 | 2025-01-25 |
 | [Ana Gahed Ma Baheb Wala Wahed \(Wana Masek Ghorbaly W Bhzo\)](https://open.spotify.com/track/4WyjQ5vnCaIAJ447xBT0N4) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [Ana Gahed Ma Baheb Wala Wahed \(Wana Masek Ghorbaly W Bhzo\)](https://open.spotify.com/album/3URGWq92EEs5dSBsxEE9aB) | 2:41 | 2023-12-14 | 2024-02-01 |
 | [Ana Msh Faker El Kobleh](https://open.spotify.com/track/1yJt6UC4eFykMMhT1CrUyD) | [G\. Oka](https://open.spotify.com/artist/6EZ1sLlOJzgFJzfWUnF0Py) | [Ana Msh Faker El Kobleh](https://open.spotify.com/album/69ri14oRZGne9mxRRNdE9G) | 3:02 | 2024-06-11 |  |
-| [Awlad Misk](https://open.spotify.com/track/5gkVGDhKUVOugX4EtdKAMy) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [Awlad Misk](https://open.spotify.com/album/6sCIOOppSkOmDxpwZkpPkT) | 2:38 | 2024-05-10 |  |
+| [Awlad Misk](https://open.spotify.com/track/5gkVGDhKUVOugX4EtdKAMy) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [Awlad Misk](https://open.spotify.com/album/6sCIOOppSkOmDxpwZkpPkT) | 2:38 | 2024-05-10 | 2025-09-16 |
 | [Bahr Shar](https://open.spotify.com/track/1AZjgKOrI1MVwoDKYlZIdF) | [Ahmed Abdo](https://open.spotify.com/artist/3wBceLeEWRgOJOM8uRxG7k), [Houda Bondok](https://open.spotify.com/artist/3h9whENZphIzFOkg0brmgK) | [Bahr Shar](https://open.spotify.com/album/60jBCD1LI5FDHxPQV3mef5) | 2:51 | 2021-12-16 | 2022-02-25 |
 | [Boleka](https://open.spotify.com/track/4nj0TWlpj3hPgx8jTgkFzF) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8), [G\. Oka](https://open.spotify.com/artist/6EZ1sLlOJzgFJzfWUnF0Py) | [Boleka](https://open.spotify.com/album/6PvzO5ytpicA0jDEPBgTqy) | 2:23 | 2022-11-23 | 2024-02-01 |
 | [Dawla](https://open.spotify.com/track/5BedaQpN3d92CLUVewl94E) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [Dawla](https://open.spotify.com/album/2pERipFZNzfQPbKR19Od0B) | 2:56 | 2021-12-16 | 2025-06-17 |
@@ -319,6 +319,7 @@
 | [وريتك الخير](https://open.spotify.com/track/07i2eEAI1ZlCs1QcbVaGA3) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [وريتك الخير](https://open.spotify.com/album/1seiMv0ALxFo8PXYuMigUP) | 3:26 | 2025-05-07 | 2025-07-25 |
 | [وريتك الخير](https://open.spotify.com/track/2PLF2ROeHnF9k2CJ4hKCJ1) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [وريتك الخير](https://open.spotify.com/album/5JteErMIA62KWKklfSlMIx) | 4:53 | 2025-03-10 | 2025-04-08 |
 | [وسط دموع وجراح](https://open.spotify.com/track/3FdV0iO6fskyPeYnrMsKPM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [وسط دموع وجراح](https://open.spotify.com/album/5QcbolYaY1VvcTKA2mvu0T) | 4:24 | 2021-12-16 | 2025-06-04 |
+| [وشوش مفبركه](https://open.spotify.com/track/1s3XxWKQe5yeTiCmtmnVDX) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [ايفا الايراني](https://open.spotify.com/artist/0CNw6MNbrkG3Vd6aSpHhA5) | [وشوش مفبركه](https://open.spotify.com/album/2SwQsR2WwWqvIQMrVwo53H) | 4:56 | 2025-09-15 |  |
 | [وقوف في القلب](https://open.spotify.com/track/31zXcMW1eLrnVPWy4XpoaY) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Moslem](https://open.spotify.com/artist/4Cmzjffz7uLaESQIWIs9G5) | [وقوف في القلب](https://open.spotify.com/album/3e6uGfC65QZA9A1T17Gncg) | 3:10 | 2023-04-20 | 2023-08-09 |
 | [وكيف تذهب الهموم](https://open.spotify.com/track/5sbtKbHk6z3OVT9ZOFDtzT) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [وكيف تذهب الهموم](https://open.spotify.com/album/6pbhkc6a37ff4ym4Hn2bjj) | 5:16 | 2024-02-21 | 2024-05-11 |
 | [ولاد الشمس](https://open.spotify.com/track/6bT6tu7R9BaAZHAHTebbFM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ولاد الشمس](https://open.spotify.com/album/3c9LqrAjd1JANFnh2C8IzO) | 2:34 | 2025-03-10 | 2025-05-08 |

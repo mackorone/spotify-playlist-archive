@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 108266,
+  "num_followers": 108264,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAD5DvzIQ+gquyptGZf0XFct",
+  "snapshot_id": "aMYFgAAAAAAdD20dMAWc+5SbASzILqZO",
   "tracks": [
     {
       "added_at": null,
@@ -220,9 +220,25 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 244706,
-      "name": "Trigger Finger",
-      "url": "https://open.spotify.com/track/5opU7iBbcGxUkZy3yXIil2"
+      "duration_ms": 250453,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/78JHuHaQP0or5BUMiimgn3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 243733,
+      "name": "The Valley Runs Low",
+      "url": "https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT"
     },
     {
       "added_at": null,
@@ -243,22 +259,6 @@
       "duration_ms": 282800,
       "name": "Dry Stick (feat. Joe Bonamassa)",
       "url": "https://open.spotify.com/track/1OYL19WV8Gf1Gx42AS45Xw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 243733,
-      "name": "The Valley Runs Low",
-      "url": "https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT"
     },
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 250453,
-      "name": "Breakthrough",
-      "url": "https://open.spotify.com/track/78JHuHaQP0or5BUMiimgn3"
+      "duration_ms": 244706,
+      "name": "Trigger Finger",
+      "url": "https://open.spotify.com/track/5opU7iBbcGxUkZy3yXIil2"
     },
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dont Wanna Go Home (feat. Joe Bonamassa)",
-        "url": "https://open.spotify.com/album/6qWmhd3HsIHSaNRWz4NftB"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 323013,
-      "name": "Don't Wanna Go Home (feat. Joe Bonamassa)",
-      "url": "https://open.spotify.com/track/5pVwwTrPd0UNmcOUsTO5LR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time Clocks",
         "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
       },
@@ -415,6 +395,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dont Wanna Go Home (feat. Joe Bonamassa)",
+        "url": "https://open.spotify.com/album/6qWmhd3HsIHSaNRWz4NftB"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 323013,
+      "name": "Don't Wanna Go Home (feat. Joe Bonamassa)",
+      "url": "https://open.spotify.com/track/5pVwwTrPd0UNmcOUsTO5LR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
       },
@@ -427,22 +427,6 @@
       "duration_ms": 247426,
       "name": "Shake This Ground",
       "url": "https://open.spotify.com/track/1l9iy4tXChdwVacJWASwnn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 343906,
-      "name": "Mountain Climbing",
-      "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
     },
     {
       "added_at": null,
@@ -515,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 343906,
+      "name": "Mountain Climbing",
+      "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dust Bowl",
         "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
       },
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+        "name": "Live at Radio City Music Hall",
+        "url": "https://open.spotify.com/album/26KqnXS7z05nYCYGiGG7di"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 518533,
-      "name": "No Good Place For The Lonely",
-      "url": "https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3"
+      "duration_ms": 338771,
+      "name": "One Less Cross to Bear - Live Version",
+      "url": "https://open.spotify.com/track/1OzeFaTHSjQ20ycXdUgHCl"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at Radio City Music Hall",
-        "url": "https://open.spotify.com/album/26KqnXS7z05nYCYGiGG7di"
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 338771,
-      "name": "One Less Cross to Bear - Live Version",
-      "url": "https://open.spotify.com/track/1OzeFaTHSjQ20ycXdUgHCl"
+      "duration_ms": 518533,
+      "name": "No Good Place For The Lonely",
+      "url": "https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
-      },
-      "artists": [
-        {
-          "name": "The Imaginaries",
-          "url": "https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 227453,
-      "name": "Crossroads",
-      "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beacon Theatre - Live from New York",
         "url": "https://open.spotify.com/album/3NOga2NO6MSegEIgDNUZnN"
       },
@@ -675,22 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "S.O.S. 4: Blues For Your Soul",
-        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
       },
       "artists": [
         {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+          "name": "The Imaginaries",
+          "url": "https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L"
         },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 246306,
-      "name": "When Will I Let Her Go",
-      "url": "https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy"
+      "duration_ms": 227453,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
     },
     {
       "added_at": null,
@@ -707,6 +687,26 @@
       "duration_ms": 254133,
       "name": "Black Lung Heartache",
       "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 246306,
+      "name": "When Will I Let Her Go",
+      "url": "https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+        "name": "Tales Of Time (Live)",
+        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 333333,
-      "name": "What I've Known For A Very Long Time",
-      "url": "https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R"
+      "duration_ms": 511933,
+      "name": "The Heart That Never Waits (Live)",
+      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tales Of Time (Live)",
-        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 511933,
-      "name": "The Heart That Never Waits (Live)",
-      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
+      "duration_ms": 333333,
+      "name": "What I've Known For A Very Long Time",
+      "url": "https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Shades of Blue",
-        "url": "https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 228520,
-      "name": "Love Ain't a Love Song",
-      "url": "https://open.spotify.com/track/6U7s8WTYhJgCQuaS1RYgL2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live At The Hollywood Bowl With Orchestra",
         "url": "https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 515226,
       "name": "Prisoner (Live At The Hollywood Bowl With Orchestra)",
       "url": "https://open.spotify.com/track/0lJaKtdseCtmsSsYHXptfC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different Shades of Blue",
+        "url": "https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 228520,
+      "name": "Love Ain't a Love Song",
+      "url": "https://open.spotify.com/track/6U7s8WTYhJgCQuaS1RYgL2"
     }
   ],
   "unique_name": "This Is Joe Bonamassa",

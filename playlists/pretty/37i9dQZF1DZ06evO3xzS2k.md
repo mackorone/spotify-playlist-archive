@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 
 > This is Nothing\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,667 likes - 38 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,668 likes - 38 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 15 | [Fever Queen](https://open.spotify.com/track/2hWnuDzcKznJvlCxuRgfaA) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 2:56 |
 | 16 | [Like Stars In The Firmament](https://open.spotify.com/track/0rCLd0wFQQPqDNsJ1aTNZU) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 5:24 |
 | 17 | [In Blueberry Memories](https://open.spotify.com/track/3wjWNCX6ADU9NaOSoRZhSQ) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 5:18 |
-| 18 | [Hymn to the Pillory](https://open.spotify.com/track/5mR1Clx2pnR6RNSS0U3wq9) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:41 |
+| 18 | [Dig](https://open.spotify.com/track/2jUvEnpLXGQh94Qoymx4P8) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:02 |
 | 19 | [Nineteen Ninety Heaven](https://open.spotify.com/track/3wsglsWrkeITfIWmYpY0Ge) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:40 |
 | 20 | [Plastic Migraine](https://open.spotify.com/track/2K4MJk3z1GgNKIElhcwT44) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:44 |
 | 21 | [Bernie Sanders](https://open.spotify.com/track/5SQkUFHUn2Gsj5tfvNKoa0) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:07 |
-| 22 | [Dig](https://open.spotify.com/track/2jUvEnpLXGQh94Qoymx4P8) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:02 |
+| 22 | [Hymn to the Pillory](https://open.spotify.com/track/5mR1Clx2pnR6RNSS0U3wq9) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:41 |
 | 23 | [Eaten by Worms](https://open.spotify.com/track/6cpbYfrmRRATj7MK89ZMox) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 5:00 |
 | 24 | [Us/We/are](https://open.spotify.com/track/12v6blwysPzpK8DsOSB0z9) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:34 |
 | 25 | [Forever Well](https://open.spotify.com/track/2KGr5OPHCcjFKTHKeYOg2N) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 4:07 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 31 | [Mine Is Clouds](https://open.spotify.com/track/4yCLoPgF4fv3GRvwKOflMO) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 6:15 |
 | 32 | [Pattern After Us \- DOTB B Side](https://open.spotify.com/track/0W2TihuUErag5W2UeWnMQp) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Spirit of the Stairs \- B\-Sides & Rarities](https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF) | 3:40 |
 | 33 | [When No Birds Sang](https://open.spotify.com/track/2y6SnKCdLqMycrUq0gJZ7f) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 5:48 |
-| 34 | [The Dives \(Lazarus in Ashes\)](https://open.spotify.com/track/2sEGs6OadzAdCKJV5GOzvD) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 2:38 |
+| 34 | [Suns and Lovers](https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 4:44 |
 | 35 | [Heavy Water / I'd Rather Be Sleeping \- DOTB B Side](https://open.spotify.com/track/79KTG4D0tqWjAAU0eFcLYY) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Spirit of the Stairs \- B\-Sides & Rarities](https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF) | 4:08 |
 | 36 | [Wild Blue](https://open.spotify.com/track/2r5JFrwl0quzXoGNSqWqe4) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 4:32 |
-| 37 | [Suns and Lovers](https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 4:44 |
+| 37 | [The Dives \(Lazarus in Ashes\)](https://open.spotify.com/track/2sEGs6OadzAdCKJV5GOzvD) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 2:38 |
 | 38 | [Spend The Grace](https://open.spotify.com/track/2wcVDlzVPDIGqPbL5Z3lSS) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 5:47 |
 
-Snapshot ID: `aMIRAAAAAAB9K9i6zx/6/QGcoufrR4m2`
+Snapshot ID: `aMYFgAAAAAA8MJ9wsQ/PF+CbP78De1oN`

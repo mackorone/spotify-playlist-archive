@@ -1,6 +1,6 @@
 {
   "description": "\uc13c\uce58\ud55c \uac10\uc815\uc744 \ub178\ub798\ud558\ub294 \uac10\uc131\uc801\uc778 \uace1\ub4e4\uacfc \ud568\uaed8 \ubb3c \uba4d\uc5d0 \uc7a0\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 7448,
+  "num_followers": 7463,
   "original_name": "\ubb3c \uba4d",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-09-08 08:28:09",
       "album": {
-        "name": "0.1 flaws and all.",
-        "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "homesick",
-      "url": "https://open.spotify.com/track/2FZIabCRMEWAYfN69Ijn1U"
-    },
-    {
-      "added_at": "2025-09-08 08:28:09",
-      "album": {
         "name": "Clancy",
         "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
       },
@@ -403,18 +387,18 @@
     {
       "added_at": "2025-09-08 08:28:09",
       "album": {
-        "name": "I met you when I was 18. (the playlist)",
-        "url": "https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6"
+        "name": "0.1 flaws and all.",
+        "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Never Not",
-      "url": "https://open.spotify.com/track/1MaQMMOR80DNUWVBM7L9fz"
+      "duration_ms": 306000,
+      "name": "homesick",
+      "url": "https://open.spotify.com/track/2FZIabCRMEWAYfN69Ijn1U"
     },
     {
       "added_at": "2025-09-08 08:28:09",
@@ -431,6 +415,22 @@
       "duration_ms": 234174,
       "name": "Pistol",
       "url": "https://open.spotify.com/track/36pMQRacz9p99OevARrvVs"
+    },
+    {
+      "added_at": "2025-09-08 08:28:09",
+      "album": {
+        "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Never Not",
+      "url": "https://open.spotify.com/track/1MaQMMOR80DNUWVBM7L9fz"
     },
     {
       "added_at": "2025-09-08 08:28:09",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-09-08 08:28:09",
       "album": {
+        "name": "Clancy",
+        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn"
+    },
+    {
+      "added_at": "2025-09-08 08:28:09",
+      "album": {
         "name": "LOOM",
         "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 227031,
       "name": "drunk",
       "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
-    },
-    {
-      "added_at": "2025-09-08 08:28:09",
-      "album": {
-        "name": "Clancy",
-        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn"
     },
     {
       "added_at": "2025-09-08 08:28:09",
@@ -611,6 +611,22 @@
     {
       "added_at": "2025-09-08 08:28:09",
       "album": {
+        "name": "Clancy",
+        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "The Craving (Jenna's version)",
+      "url": "https://open.spotify.com/track/4hfqe20vqkuRv1RDsA1LbQ"
+    },
+    {
+      "added_at": "2025-09-08 08:28:09",
+      "album": {
         "name": "Neon Pill",
         "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2025-09-08 08:28:09",
       "album": {
-        "name": "Clancy",
-        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "The Craving (Jenna's version)",
-      "url": "https://open.spotify.com/track/4hfqe20vqkuRv1RDsA1LbQ"
-    },
-    {
-      "added_at": "2025-09-08 08:28:09",
-      "album": {
         "name": "WHOEVER",
         "url": "https://open.spotify.com/album/4j878Utyg4KAXw0vAKuaSj"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 194546,
       "name": "Closely Far Away",
       "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
+    },
+    {
+      "added_at": "2025-09-08 08:28:09",
+      "album": {
+        "name": "The Craving",
+        "url": "https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "The Craving - single version",
+      "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
     },
     {
       "added_at": "2025-09-08 08:28:09",
@@ -799,26 +815,6 @@
       "duration_ms": 197995,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt"
-    },
-    {
-      "added_at": "2025-09-08 08:28:09",
-      "album": {
-        "name": "Medicate Me",
-        "url": "https://open.spotify.com/album/5IVuTn7LffwxIzCx2Ii3Bp"
-      },
-      "artists": [
-        {
-          "name": "Rain City Drive",
-          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
-        },
-        {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        }
-      ],
-      "duration_ms": 167454,
-      "name": "Medicate Me",
-      "url": "https://open.spotify.com/track/1EusMjYm7PZftlZn87vPWE"
     }
   ],
   "unique_name": "\ubb3c \uba4d",

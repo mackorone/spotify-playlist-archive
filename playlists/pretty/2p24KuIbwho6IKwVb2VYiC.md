@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > Your festival season soundtrack includes the best Dance, House, Bass and EDM tracks right now!  Cover: Rezz
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,392 likes - 164 songs - 8 hr 27 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,391 likes - 164 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HOW I DO IT](https://open.spotify.com/track/0Y1ZeaRs0gAEwb1rYxdbjq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [BRVMES](https://open.spotify.com/artist/13OXgp0fFDhWRPSXnN8yLT) | [As The Pendulum Swings](https://open.spotify.com/album/6lWtjIwHMyJdZlRaiGwVnd) | 2:28 |
-| 2 | [Forever](https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/5AOBx6uu2fTnhsu5keahyR) | [Forever](https://open.spotify.com/album/5bZB1yQFWT2YAR36eEuSct) | 2:51 |
+| 2 | [Forever](https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/42CbYw1Y9fAdCr6UND2P5f) | [Forever](https://open.spotify.com/album/5bZB1yQFWT2YAR36eEuSct) | 2:51 |
 | 3 | [Light Me Up](https://open.spotify.com/track/1VbLQ4OGIkoxPqmaxgOIIv) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Light Me Up](https://open.spotify.com/album/6z5uf0oR3EiKMj7PAnbNva) | 2:41 |
 | 4 | [Sex In The Mosh](https://open.spotify.com/track/2jjtWrKi0LW8nnFqbRJr8p) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Sex In The Mosh](https://open.spotify.com/album/0TMRJHdvd1GBEcKeMoadew) | 2:14 |
 | 5 | [UNCONDITIONAL](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [UNCONDITIONAL](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |

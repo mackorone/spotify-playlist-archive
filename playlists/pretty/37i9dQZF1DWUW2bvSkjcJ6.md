@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Ed Sheeran, Pashanim,  Damiano David und Tyla, und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,377 likes - 89 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,317 likes - 89 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Yellowcard
 
-1,407 songs - 3 day 2 hr 16 min
+1,408 songs - 3 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Die Another Day](https://open.spotify.com/track/08NlZMpzLHxrk3kfSA4ebB) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Jackpot Juicer](https://open.spotify.com/album/07sIEDGzhGsfM8QZQll0FO) | 3:41 | 2023-10-27 | 2024-04-19 |
 | [Die Another Day](https://open.spotify.com/track/7LBZfkcgTohIQQ1DqnSuPV) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Jackpot Juicer](https://open.spotify.com/album/6c5mEBiGZdHm0lnzvlbXVW) | 3:41 | 2022-08-05 | 2023-11-05 |
 | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ) | 2:14 | 2022-04-08 | 2023-04-11 |
+| [Different \(feat\. Alex Gaskarth\)](https://open.spotify.com/track/7DW93g5FY4SAPCq7jUsgWF) | [Acceptance](https://open.spotify.com/artist/4zCbNayYzorqdzd9mPrghW), [Alex Gaskarth](https://open.spotify.com/artist/5X0hXpGcJDZiGTpnGPWEm5) | [Phantoms/Twenty](https://open.spotify.com/album/3kI3OWrB6LKdH7HwVI8X6o) | 4:31 | 2025-09-12 |  |
 | [DIFFERENT NOW](https://open.spotify.com/track/1GBxgmzXXgXrJkRUjSDvKM) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [DIFFERENT NOW](https://open.spotify.com/album/5CjjTliphX5WD59p3AQmAz) | 3:07 | 2021-12-10 | 2022-05-15 |
 | [Dilemma](https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:18 | 2024-02-09 | 2024-03-02 |
 | [Dirty Mirror Selfie](https://open.spotify.com/track/0k51vsfx9ard3xN3dXyzQI) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Dirty Mirror Selfie / Where Blue Light Blooms](https://open.spotify.com/album/2l8tR5Q0mToBh2I2U6D0w4) | 3:37 | 2024-08-12 | 2025-09-13 |
@@ -1164,7 +1165,7 @@
 | [S’old](https://open.spotify.com/track/0eMecDjtpUfpi0mc1qzKVi) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [S'old](https://open.spotify.com/album/1jsyRZ5yUSQGOigC50bNef) | 2:43 | 2023-09-15 | 2024-05-15 |
 | [S’old](https://open.spotify.com/track/3CnO992SN5Pg4teEUJ8z2X) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 2:43 | 2023-10-27 | 2024-04-19 |
 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 | 2021-12-10 | 2022-10-08 |
-| [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 | 2023-04-10 |  |
+| [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 | 2023-04-10 | 2025-09-16 |
 | [Take Me With You](https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Take Me With You](https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4) | 3:17 | 2023-09-15 | 2023-12-09 |
 | [Take What You Want](https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Take What You Want](https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw) | 2:26 | 2025-07-11 |  |
 | [TALK](https://open.spotify.com/track/34zukSow00sQeQqx5kKpNv) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [My Apologies To The Chef](https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0) | 2:42 | 2025-02-14 | 2025-08-24 |

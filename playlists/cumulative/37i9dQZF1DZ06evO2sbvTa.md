@@ -4,7 +4,7 @@
 
 > This is Young Scooter\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 54 min
+67 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Fake Gold](https://open.spotify.com/track/7JtliCAsPltJ3wvMl0K4ll) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Fake Gold](https://open.spotify.com/album/71c4JcnNeAO299SDxXmQ1c) | 2:58 | 2025-09-09 |  |
 | [For My Hutlers](https://open.spotify.com/track/5rNSTZgFHGCe69wlUXMZMF) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Street Lottery 3](https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF) | 3:14 | 2025-09-13 |  |
 | [Grew Up](https://open.spotify.com/track/0GE9xF6B72abnhLBrp60ri) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [High Class Street Music 3: Trappin' out a Mansion](https://open.spotify.com/album/11qFqK39bAL6MRegFESHPB) | 4:21 | 2025-04-01 |  |
-| [Grind Dont Stop](https://open.spotify.com/track/41QEAMvVuZNabhwvICttLn) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap's Last Hope](https://open.spotify.com/album/20UGfoQBYKeVrcph3ti0OI) | 2:55 | 2025-06-21 |  |
+| [Grind Don't Stop](https://open.spotify.com/track/6iOBrCVAN4cmlYhJEBSbpj) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Street Lottery 3](https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF) | 2:55 | 2025-09-16 |  |
+| [Grind Dont Stop](https://open.spotify.com/track/41QEAMvVuZNabhwvICttLn) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap's Last Hope](https://open.spotify.com/album/20UGfoQBYKeVrcph3ti0OI) | 2:55 | 2025-06-21 | 2025-09-16 |
 | [Guwop \(feat\. Quavo, Offset and Young Scooter\)](https://open.spotify.com/track/1BSA5I386L2IAmFQURYjIz) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 5:15 | 2025-04-01 |  |
 | [Hard To Handle](https://open.spotify.com/track/2pNQZGRG9V4HoeJW05vk8b) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 3:35 | 2025-04-01 |  |
 | [How Can I Not \(feat\. Young Scooter\)](https://open.spotify.com/track/3LRdrJky4qhRp8HiyY9mWL) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 3:58 | 2025-04-01 |  |

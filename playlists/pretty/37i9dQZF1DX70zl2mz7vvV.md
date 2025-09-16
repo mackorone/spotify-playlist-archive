@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,773 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,799 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 28 | [Stay With Me](https://open.spotify.com/track/0dAr3S2Hwopw7NueD6YJzJ) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Lifted](https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg) | 3:37 |
 | 29 | [It's Growing](https://open.spotify.com/track/10WzihaZhGPaWBjJIEd2cf) | [Garnett Silk](https://open.spotify.com/artist/4xDC3G6OUck11fSodF11jI) | [It's Growing](https://open.spotify.com/album/4TjHpHW4Ij2bOjdxTi1SJC) | 3:39 |
 | 30 | [Deeper](https://open.spotify.com/track/4pbQqdxHDI1oJpKxEfHxvq) | [Alaine](https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc) | [Strictly The Best Vol\. 36](https://open.spotify.com/album/5OAh9E576gCvvut3xHh89G) | 3:50 |
-| 31 | [Nice Up The Dance](https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Nice Up The Dance](https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ) | 3:32 |
-| 32 | [Two Sevens Clash](https://open.spotify.com/track/4ueq6n73MAh23KMabKrpI0) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Two Sevens Clash \(40th Anniversary Edition\)](https://open.spotify.com/album/75KzjLsruVDxWJ0bL0Lrm6) | 3:29 |
+| 31 | [Two Sevens Clash](https://open.spotify.com/track/4ueq6n73MAh23KMabKrpI0) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Two Sevens Clash \(40th Anniversary Edition\)](https://open.spotify.com/album/75KzjLsruVDxWJ0bL0Lrm6) | 3:29 |
+| 32 | [Nice Up The Dance](https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Nice Up The Dance](https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ) | 3:32 |
 | 33 | [Stop That Train](https://open.spotify.com/track/0Ajis5FpljtwnD7uWqO8jf) | [Clint Eastwood](https://open.spotify.com/artist/7gDNcZAStavwiBcb1CHQND), [General Saint](https://open.spotify.com/artist/3LvMhOfZRrE93aW5Xtb5Ua) | [Stop That Train](https://open.spotify.com/album/2GkHD2HdhKoY4B5yigF66J) | 5:10 |
 | 34 | [Lights Out](https://open.spotify.com/track/4Hue6rHN892sFzzOJBHYra) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Lovers Rock](https://open.spotify.com/album/1dWQbbFSkCNnMbdSJMmsge) | 3:23 |
 | 35 | [Man Is The Least](https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Extra Raw: The First Lady Of Dancehall](https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd) | 3:50 |

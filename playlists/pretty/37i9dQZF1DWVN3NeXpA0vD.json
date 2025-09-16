@@ -603,6 +603,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/6SysUU95ns1m8xfNrLCWDx"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 153391,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Hold Up",
-      "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -883,8 +883,8 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
-        "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
       },
       "artists": [
         {
@@ -892,13 +892,13 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
         }
       ],
-      "duration_ms": 215315,
-      "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
-      "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
+      "duration_ms": 215360,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -983,8 +983,8 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
+        "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+        "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
       },
       "artists": [
         {
@@ -992,13 +992,13 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 215360,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
+      "duration_ms": 215315,
+      "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+      "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1655,18 +1655,26 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Mind The Moon",
-        "url": "https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ"
+        "name": "Sweet & Sour (feat. Lauv & Tyga)",
+        "url": "https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "Jawsh 685",
+          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
+        },
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 177986,
-      "name": "Scarlet Paintings",
-      "url": "https://open.spotify.com/track/41UBTzyPAbtkge6aWVr7Uy"
+      "duration_ms": 163228,
+      "name": "Sweet & Sour (feat. Lauv & Tyga)",
+      "url": "https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1695,26 +1703,18 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Sweet & Sour (feat. Lauv & Tyga)",
-        "url": "https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL"
+        "name": "Mind The Moon",
+        "url": "https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ"
       },
       "artists": [
         {
-          "name": "Jawsh 685",
-          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
-        },
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 163228,
-      "name": "Sweet & Sour (feat. Lauv & Tyga)",
-      "url": "https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa"
+      "duration_ms": 177986,
+      "name": "Scarlet Paintings",
+      "url": "https://open.spotify.com/track/41UBTzyPAbtkge6aWVr7Uy"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/6rlqFfCAuPnZUFmS8sCIWw"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        }
-      ],
-      "duration_ms": 209933,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/7p4tetW3qNwSCz92PLGJg5"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
         "url": "https://open.spotify.com/album/4lbrKowAEUP76TRU57FAJI"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 205760,
       "name": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
       "url": "https://open.spotify.com/track/3D1rlKmZdpYUeMtRRLNawc"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6rlqFfCAuPnZUFmS8sCIWw"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "duration_ms": 209933,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/7p4tetW3qNwSCz92PLGJg5"
     },
     {
       "added_at": "2024-07-03 14:32:39",

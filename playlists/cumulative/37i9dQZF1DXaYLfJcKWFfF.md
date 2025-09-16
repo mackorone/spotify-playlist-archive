@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Tommy WÁ
 
-299 songs - 17 hr 31 min
+300 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Chasing Love](https://open.spotify.com/track/0UvDsFVi25ulx7UsoboyLZ) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Chasing Love](https://open.spotify.com/album/4kCSRS7Tr6RMq67l3icaTd) | 3:20 | 2023-03-10 | 2023-12-02 |
 | [Circus](https://open.spotify.com/track/7lgrLAXxW1frMbdO5h2wUZ) | [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [Circus](https://open.spotify.com/album/7fCYNOf16YBpZ3XwByoUmd) | 4:14 | 2022-10-21 | 2023-02-04 |
 | [Citrus](https://open.spotify.com/track/45bXXyFCZPrRDIdhjaQUHU) | [Mia Lord](https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI) | [Citrus](https://open.spotify.com/album/35wtAN1hExKJFtW18MUpIX) | 3:07 | 2025-08-28 |  |
-| [City of "Kings"](https://open.spotify.com/track/4NeJTjVZ6pPuPZcFJeR7JJ) | [tait mills](https://open.spotify.com/artist/15Om2Twy4OFk32Y3CKD5jH) | [City of "Kings"](https://open.spotify.com/album/3piozrVCzshPgPTD649oAO) | 3:45 | 2025-08-28 |  |
+| [City of "Kings"](https://open.spotify.com/track/4NeJTjVZ6pPuPZcFJeR7JJ) | [tait mills](https://open.spotify.com/artist/15Om2Twy4OFk32Y3CKD5jH) | [City of "Kings"](https://open.spotify.com/album/3piozrVCzshPgPTD649oAO) | 3:45 | 2025-08-28 | 2025-09-16 |
 | [Clair De Lune](https://open.spotify.com/track/756ty0Bv8lSNQZ00ylKSJd) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP), [NegoO](https://open.spotify.com/artist/3gzr7RSwdcex4CdfvZi0TX) | [Tears On The Dancefloor](https://open.spotify.com/album/4FSWeYOHJIGe65jSgxOXu2) | 3:08 | 2025-02-28 | 2025-03-21 |
 | [Come Home To God](https://open.spotify.com/track/68hSEF4xKfksoiuzwNSfZn) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:19 | 2023-06-08 | 2023-07-01 |
 | [Comme ci comme ça](https://open.spotify.com/track/0J4zPN3wUmYVhBurN45OzS) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [The Lagos Panic](https://open.spotify.com/artist/3dNMFM4VVHFHZd3yo1SpCG) | [Pan African Rockstar](https://open.spotify.com/album/2kA7NTDqESZM0B7COf3cfh) | 3:07 | 2023-09-21 | 2024-07-12 |
@@ -295,6 +295,7 @@
 | [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 | 2023-09-29 | 2024-02-09 |
 | [Who No Know Go Know](https://open.spotify.com/track/06X209H8fcc5K70BrKWf1K) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Who No Know Go Know](https://open.spotify.com/album/1leaqx7QytYKi4CSgWQBYH) | 3:17 | 2020-12-10 | 2022-11-04 |
 | [Wine Drunk](https://open.spotify.com/track/4FUOS0mP6SnAqBdnRWkbBN) | [Baraka](https://open.spotify.com/artist/7jhoWa68COaf3lbfwYgkz9) | [Voicemail](https://open.spotify.com/album/4cjkqBi12YLhvPs5vIwWmG) | 3:57 | 2023-06-30 | 2023-08-04 |
+| [Wish](https://open.spotify.com/track/5swbXHitmJ9RqBrgK8gEYC) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB) | [Wish](https://open.spotify.com/album/1A1zf55JDCIn6qEAb1g8N8) | 3:08 | 2025-08-28 |  |
 | [Wishbone \- Acoustic](https://open.spotify.com/track/2COv0NGUIsXwZxhxXtdQiH) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Wishbone \(Acoustic\)](https://open.spotify.com/album/2iWdlTgui1qOzJwUPisj8j) | 2:45 | 2025-08-28 |  |
 | [With You in Mind](https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [With You in Mind](https://open.spotify.com/album/5dDVYZyFfxvCZR9lUrQPsC) | 2:57 | 2025-05-23 |  |
 | [Woman King](https://open.spotify.com/track/1OBzOpEaPjWE7lnGsmF4vA) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [African Royalty](https://open.spotify.com/album/2bh6NRrRmiKVSST5ia5JpK) | 2:37 | 2023-12-01 | 2025-07-11 |

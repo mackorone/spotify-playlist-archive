@@ -5351,6 +5351,24 @@
     },
     {
       "album": {
+        "name": "Feel So",
+        "url": "https://open.spotify.com/album/75S1gpFwiCnwQ3UvHl2aVK"
+      },
+      "artists": [
+        {
+          "name": "Myles O'Neal",
+          "url": "https://open.spotify.com/artist/4iRVsCKjwFnKxB5dAZrPUv"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Feel So",
+      "url": "https://open.spotify.com/track/0GJhjMF7jlV2Oepwed85SO"
+    },
+    {
+      "album": {
         "name": "Feel So Good",
         "url": "https://open.spotify.com/album/3MFDDyUqEuMne5UpkHZcCC"
       },
@@ -11566,6 +11584,24 @@
       "duration_ms": 150923,
       "name": "Mi Gente",
       "url": "https://open.spotify.com/track/5nYWOu3zriPJJvHh9j2hpS"
+    },
+    {
+      "album": {
+        "name": "Mi Vida EP",
+        "url": "https://open.spotify.com/album/0qVltBVJYcyhhhdKhQapPI"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152883,
+      "name": "Mi Vida",
+      "url": "https://open.spotify.com/track/7GNcodiCQICWsRT99AZ3ib"
     },
     {
       "album": {

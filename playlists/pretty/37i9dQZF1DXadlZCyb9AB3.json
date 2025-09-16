@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 203001,
+  "num_followers": 203055,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
+        "name": "Bricks Are Heavy",
+        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "Shitlist",
+      "url": "https://open.spotify.com/track/7fxpqs4G8vj3rFYbJnsG7w"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
         "name": "Spend The Night (U.S. Version)",
         "url": "https://open.spotify.com/album/15wLLULZwFUQ2aDp4PB3nv"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 160860,
       "name": "Double Dare Ya",
       "url": "https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "Bricks Are Heavy",
-        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
-      },
-      "artists": [
-        {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "Shitlist",
-      "url": "https://open.spotify.com/track/7fxpqs4G8vj3rFYbJnsG7w"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb"
-      },
-      "artists": [
-        {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
-        }
-      ],
-      "duration_ms": 93493,
-      "name": "New Radio",
-      "url": "https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Shadow (I'm Breaking Down)",
         "url": "https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
+        "name": "Nemesisters",
+        "url": "https://open.spotify.com/album/7KGRLGS0Bwc494GS7awFsL"
+      },
+      "artists": [
+        {
+          "name": "Babes In Toyland\u00a0",
+          "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Sweet '69",
+      "url": "https://open.spotify.com/track/55oE1XL7HceNY7VR7Nz4yu"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
         "name": "Bricks Are Heavy",
         "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
       },
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 93493,
+      "name": "New Radio",
+      "url": "https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
         "name": "Horses (Legacy Edition)",
         "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 565453,
       "name": "Land: Horses / Land of a Thousand Dances / La Mer(de)",
       "url": "https://open.spotify.com/track/0KkXMzaRaXL8AyChkWbYCx"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "Nemesisters",
-        "url": "https://open.spotify.com/album/7KGRLGS0Bwc494GS7awFsL"
-      },
-      "artists": [
-        {
-          "name": "Babes In Toyland\u00a0",
-          "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Sweet '69",
-      "url": "https://open.spotify.com/track/55oE1XL7HceNY7VR7Nz4yu"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -559,6 +559,22 @@
       "duration_ms": 156986,
       "name": "I Wanna Be Your Joey Ramone",
       "url": "https://open.spotify.com/track/1WDqjH0PJ8ruWQXsp3bN2Z"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Smell the Magic",
+        "url": "https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "Shove - Remastered",
+      "url": "https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -611,18 +627,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Smell the Magic",
-        "url": "https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB"
+        "name": "Painkillers",
+        "url": "https://open.spotify.com/album/3ym30rhJeAnjr7DHcYpqJa"
       },
       "artists": [
         {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+          "name": "Babes In Toyland\u00a0",
+          "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
         }
       ],
-      "duration_ms": 193480,
-      "name": "Shove - Remastered",
-      "url": "https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb"
+      "duration_ms": 175213,
+      "name": "He's My Thing - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5aMsCHy4nyk0LKJnk63aCr"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -639,22 +655,6 @@
       "duration_ms": 146946,
       "name": "Eating Toothpaste",
       "url": "https://open.spotify.com/track/3woDV8HAFSwgS8uTWrjYFI"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "Painkillers",
-        "url": "https://open.spotify.com/album/3ym30rhJeAnjr7DHcYpqJa"
-      },
-      "artists": [
-        {
-          "name": "Babes In Toyland\u00a0",
-          "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
-        }
-      ],
-      "duration_ms": 175213,
-      "name": "He's My Thing - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5aMsCHy4nyk0LKJnk63aCr"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
+        "name": "Fontanelle",
+        "url": "https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09"
+      },
+      "artists": [
+        {
+          "name": "Babes In Toyland\u00a0",
+          "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
+        }
+      ],
+      "duration_ms": 110693,
+      "name": "Handsome & Gretel",
+      "url": "https://open.spotify.com/track/1sjP6WHuidsDYhTOg6KOCf"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
         "name": "THICK",
         "url": "https://open.spotify.com/album/3gfufUzwziwEigzdC507KP"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Run Fast",
-        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
-      },
-      "artists": [
-        {
-          "name": "The Julie Ruin",
-          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Just My Kind",
-      "url": "https://open.spotify.com/track/2mc0Lq811WFLcfYgggz0fp"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Dry",
         "url": "https://open.spotify.com/album/08Plby1CLD0UNgChnPD8lo"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 198200,
       "name": "Dress",
       "url": "https://open.spotify.com/track/3ajG91JkP3bAaLrDjywKNj"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "Fontanelle",
-        "url": "https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09"
-      },
-      "artists": [
-        {
-          "name": "Babes In Toyland\u00a0",
-          "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
-        }
-      ],
-      "duration_ms": 110693,
-      "name": "Handsome & Gretel",
-      "url": "https://open.spotify.com/track/1sjP6WHuidsDYhTOg6KOCf"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -860,9 +844,9 @@
           "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
         }
       ],
-      "duration_ms": 199480,
-      "name": "Girls Like Us",
-      "url": "https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC"
+      "duration_ms": 231920,
+      "name": "Just My Kind",
+      "url": "https://open.spotify.com/track/2mc0Lq811WFLcfYgggz0fp"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1007,6 +991,22 @@
       "duration_ms": 384666,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/3XvrUSWE6QZvCv4scH43JA"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Run Fast",
+        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
+      },
+      "artists": [
+        {
+          "name": "The Julie Ruin",
+          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Girls Like Us",
+      "url": "https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Ladies, Women and Girls",
-        "url": "https://open.spotify.com/album/7J5Dh22aIS2NeMGXQ3LPN4"
-      },
-      "artists": [
-        {
-          "name": "Bratmobile",
-          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
-        }
-      ],
-      "duration_ms": 136880,
-      "name": "Gimme Brains",
-      "url": "https://open.spotify.com/track/2ICGarWJwQiIGMl07os7sQ"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Cold Cold Hearts",
         "url": "https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 197226,
       "name": "Cute Boy Discount",
       "url": "https://open.spotify.com/track/1iJHW1X7Kke2OQ9fK7Fou1"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Ladies, Women and Girls",
+        "url": "https://open.spotify.com/album/7J5Dh22aIS2NeMGXQ3LPN4"
+      },
+      "artists": [
+        {
+          "name": "Bratmobile",
+          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
+        }
+      ],
+      "duration_ms": 136880,
+      "name": "Gimme Brains",
+      "url": "https://open.spotify.com/track/2ICGarWJwQiIGMl07os7sQ"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Pottymouth",
-        "url": "https://open.spotify.com/album/0er043d9DCecxrz0XVsPos"
-      },
-      "artists": [
-        {
-          "name": "Bratmobile",
-          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
-        }
-      ],
-      "duration_ms": 91600,
-      "name": "Bitch Theme",
-      "url": "https://open.spotify.com/track/3wu6pRZrOAAet8YxeZ49nv"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Current Affair (feat. Sienna)",
         "url": "https://open.spotify.com/album/3pyiSjhhlYmUvGo3i8Mhy9"
       },
@@ -1607,18 +1591,34 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Bazooka Smooth!",
-        "url": "https://open.spotify.com/album/3J9UlDltpkop6xK3Ew8sBj"
+        "name": "Pottymouth",
+        "url": "https://open.spotify.com/album/0er043d9DCecxrz0XVsPos"
       },
       "artists": [
         {
-          "name": "Skinned Teen",
-          "url": "https://open.spotify.com/artist/7os5CJbSzqsNlcVJd99aV1"
+          "name": "Bratmobile",
+          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
         }
       ],
-      "duration_ms": 98466,
-      "name": "Pillow Case Kisser",
-      "url": "https://open.spotify.com/track/1uXSrZF3qd7ZLXURZw1BzP"
+      "duration_ms": 91600,
+      "name": "Bitch Theme",
+      "url": "https://open.spotify.com/track/3wu6pRZrOAAet8YxeZ49nv"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "University",
+        "url": "https://open.spotify.com/album/5DrPmYzVSJwbRboOJQbqqS"
+      },
+      "artists": [
+        {
+          "name": "Throwing Muses",
+          "url": "https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4"
+        }
+      ],
+      "duration_ms": 223800,
+      "name": "Bright Yellow Gun",
+      "url": "https://open.spotify.com/track/5B4M7SIVdfoclqKoSbvykA"
     }
   ],
   "unique_name": "Riot Grrrl",

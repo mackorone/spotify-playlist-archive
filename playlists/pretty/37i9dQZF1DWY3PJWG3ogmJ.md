@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,667 likes - 120 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,729 likes - 120 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 83 | [Rebirth](https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Rebirth](https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm) | 4:01 |
 | 84 | [Reflections](https://open.spotify.com/track/55phx17AxbonvXWipSlHON) | [Destinity](https://open.spotify.com/artist/553eIV3aSzE17cxgVVG7o6) | [In Continuum](https://open.spotify.com/album/4DpTzDNRbyJmwqIi0Cv4KW) | 4:53 |
 | 85 | [Mayday](https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Mayday](https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi) | 3:18 |
-| 86 | [Poverty of Self](https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Poverty of Self](https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU) | 3:25 |
-| 87 | [Here Comes The Boom](https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Here Comes The Boom](https://open.spotify.com/album/1pIuEG8M02eyQkR6HVdd83) | 4:11 |
+| 86 | [Here Comes The Boom](https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Here Comes The Boom](https://open.spotify.com/album/1pIuEG8M02eyQkR6HVdd83) | 4:11 |
+| 87 | [Poverty of Self](https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Poverty of Self](https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU) | 3:25 |
 | 88 | [Title Fight](https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA) | [We Are The Flesh](https://open.spotify.com/artist/0YWWiLQWC5XGx7JMhD1P5q) | [Title Fight](https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg) | 3:56 |
 | 89 | [Endarkenment](https://open.spotify.com/track/3BNourqkaWoTaHoxS2LFfO) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [Endarkenment](https://open.spotify.com/album/5xReWyf922gGJUHZMale2w) | 3:55 |
 | 90 | [Brotherhood](https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0) | [Fallbrawl](https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP) | [Brotherhood EP](https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy) | 2:23 |
@@ -117,12 +117,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 107 | [New Salem](https://open.spotify.com/track/3hH0jHNUxzfPhYimw0OmF6) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [New Salem](https://open.spotify.com/album/6IjPbGlExfQKH1FYnsWCLh) | 3:23 |
 | 108 | [A Colossal Wreck](https://open.spotify.com/track/2MEsI0FQNG8L4s13vkPwK4) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [A Colossal Wreck // Desperate Pleasures](https://open.spotify.com/album/6TliRbh2qzFFExsCtKCVTh) | 2:28 |
 | 109 | [Narcissus](https://open.spotify.com/track/67TLcedNMzqt7hXF5Z4t4K) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Narcissus](https://open.spotify.com/album/3RSvBqR7JagDbfsNtJP40p) | 3:08 |
-| 110 | [I Am No Good](https://open.spotify.com/track/7MtsR2dUH5AqeHgpzVyPDv) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW) | [Crook](https://open.spotify.com/album/7HIqTShZ6AA8TbE20XJNdr) | 2:58 |
-| 111 | [Eat What You Kill](https://open.spotify.com/track/6yz2HojEuzMLx1yJoMYVSH) | [Confess](https://open.spotify.com/artist/6XFIRJcLodORR7cmCCL5Zw) | [Eat What You Kill](https://open.spotify.com/album/4g9x50zBfdnemdovUhjwyt) | 5:15 |
+| 110 | [Eat What You Kill](https://open.spotify.com/track/6yz2HojEuzMLx1yJoMYVSH) | [Confess](https://open.spotify.com/artist/6XFIRJcLodORR7cmCCL5Zw) | [Eat What You Kill](https://open.spotify.com/album/4g9x50zBfdnemdovUhjwyt) | 5:15 |
+| 111 | [I Am No Good](https://open.spotify.com/track/7MtsR2dUH5AqeHgpzVyPDv) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW) | [Crook](https://open.spotify.com/album/7HIqTShZ6AA8TbE20XJNdr) | 2:58 |
 | 112 | [No Rest No Peace](https://open.spotify.com/track/5z2l7csO5pRiFd95W8PiRI) | [Katalepsy](https://open.spotify.com/artist/5YhUdrpk2poH0o5B8DOa8w) | [No Rest No Peace](https://open.spotify.com/album/073aO5vQNwfiauKtuOq0NZ) | 4:26 |
 | 113 | [Desperate Pleasures](https://open.spotify.com/track/56qkrMwEzu4cR4UrG6GHiL) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [A Colossal Wreck // Desperate Pleasures](https://open.spotify.com/album/6TliRbh2qzFFExsCtKCVTh) | 3:11 |
-| 114 | [The Outlaw](https://open.spotify.com/track/5C2rlT1Tt9QztEI6dtsZT6) | [Wake up Frankie](https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv), [Antti Wirman](https://open.spotify.com/artist/2H08RJiVCpxloQiDKTgTMA) | [The Outlaw](https://open.spotify.com/album/61PjFKUEeTtJhWPlU3SnKQ) | 3:46 |
-| 115 | [Writhe](https://open.spotify.com/track/6GG08QXPhf0GweL9WIUZbF) | [Teeth](https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F) | [Writhe](https://open.spotify.com/album/3VJXuxoFeVp58orpuHY9UM) | 3:22 |
+| 114 | [Writhe](https://open.spotify.com/track/6GG08QXPhf0GweL9WIUZbF) | [Teeth](https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F) | [Writhe](https://open.spotify.com/album/3VJXuxoFeVp58orpuHY9UM) | 3:22 |
+| 115 | [The Outlaw](https://open.spotify.com/track/5C2rlT1Tt9QztEI6dtsZT6) | [Wake up Frankie](https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv), [Antti Wirman](https://open.spotify.com/artist/2H08RJiVCpxloQiDKTgTMA) | [The Outlaw](https://open.spotify.com/album/61PjFKUEeTtJhWPlU3SnKQ) | 3:46 |
 | 116 | [ManiaCult](https://open.spotify.com/track/72YghcscYUxL9GyUWTsqZn) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR) | [ManiaCult](https://open.spotify.com/album/1jhN2yRAz1ZEwPkdLlBdir) | 3:37 |
 | 117 | [Army of Cops](https://open.spotify.com/track/0vIw2iqkDif52mbEtamoXB) | [Pig Destroyer](https://open.spotify.com/artist/4raqfuxaWjPjrOQGb6zoa7) | [Army of Cops](https://open.spotify.com/album/04tzfk0qraiatBfO3N5RwR) | 3:18 |
 | 118 | [Three Bastards](https://open.spotify.com/track/1jX4MOsnVz3lnPt5PJXWfN) | [Infant Annihilator](https://open.spotify.com/artist/6eSSPyqys0J4j0kdi3hFrR) | [Three Bastards](https://open.spotify.com/album/4omNTdi2r9MIciuJVMSJoB) | 4:17 |

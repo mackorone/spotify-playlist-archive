@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 751730,
+  "num_followers": 751847,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAAwj5n5CsXe3/ajkXYFbQpD",
+  "snapshot_id": "aMYFgAAAAABE3LWty1DcXoVwd/XRhVrZ",
   "tracks": [
     {
       "added_at": null,
@@ -63,18 +63,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes De Ti",
-        "url": "https://open.spotify.com/album/0r2OaEU4I8vfWw4hALciVN"
+        "name": "Los Bunkers (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj"
       },
       "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 242240,
-      "name": "Antes De Ti",
-      "url": "https://open.spotify.com/track/5IkOnAKGDJT5M8KpFIHzsd"
+      "duration_ms": 290752,
+      "name": "Quiero Dormir Cansado - MTV Unplugged",
+      "url": "https://open.spotify.com/track/5Df8mDDSY22DR5XZcHIA4A"
     },
     {
       "added_at": null,
@@ -131,8 +135,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Noche de Llorar",
-        "url": "https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX"
+        "name": "Antes De Ti",
+        "url": "https://open.spotify.com/album/0r2OaEU4I8vfWw4hALciVN"
       },
       "artists": [
         {
@@ -140,9 +144,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 219949,
-      "name": "Otra Noche de Llorar",
-      "url": "https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79"
+      "duration_ms": 242240,
+      "name": "Antes De Ti",
+      "url": "https://open.spotify.com/track/5IkOnAKGDJT5M8KpFIHzsd"
     },
     {
       "added_at": null,
@@ -175,6 +179,22 @@
       "duration_ms": 203760,
       "name": "Que S\u00ed",
       "url": "https://open.spotify.com/track/6FOE00lDuzxdmGfJ9501ro"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Noche de Llorar",
+        "url": "https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 219949,
+      "name": "Otra Noche de Llorar",
+      "url": "https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79"
     },
     {
       "added_at": null,
@@ -219,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 276733,
-      "name": "Tormento",
-      "url": "https://open.spotify.com/track/0pR6N68RkIGKxitlTqraZ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
@@ -247,6 +251,22 @@
       "duration_ms": 249266,
       "name": "Pa\u2019 D\u00f3nde Se Fue",
       "url": "https://open.spotify.com/track/2TPZomzhdB7toV3cx0hj08"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 276733,
+      "name": "Tormento",
+      "url": "https://open.spotify.com/track/0pR6N68RkIGKxitlTqraZ3"
     },
     {
       "added_at": null,
@@ -287,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 256773,
+      "name": "Flaco",
+      "url": "https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
       },
@@ -303,22 +339,6 @@
       "duration_ms": 312442,
       "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 256773,
-      "name": "Flaco",
-      "url": "https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb"
     },
     {
       "added_at": null,
@@ -355,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1940 Carmen",
-        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "No Soy Para Ti",
-      "url": "https://open.spotify.com/track/06uVO4cR3ZReuXxW5eTH9F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
@@ -383,6 +387,22 @@
       "duration_ms": 231653,
       "name": "Primaveral",
       "url": "https://open.spotify.com/track/1gQxoBZiyLK5hRLLoBg89x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1940 Carmen",
+        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "No Soy Para Ti",
+      "url": "https://open.spotify.com/track/06uVO4cR3ZReuXxW5eTH9F"
     },
     {
       "added_at": null,
@@ -463,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Bunkers (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 290752,
-      "name": "Quiero Dormir Cansado - MTV Unplugged",
-      "url": "https://open.spotify.com/track/5Df8mDDSY22DR5XZcHIA4A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
         "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 178640,
-      "name": "El Beso",
-      "url": "https://open.spotify.com/track/3eiXtKo5PAWArBDAw1gkhI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
         "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 278373,
       "name": "Tu Falta De Querer - En Vivo",
       "url": "https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 178640,
+      "name": "El Beso",
+      "url": "https://open.spotify.com/track/3eiXtKo5PAWArBDAw1gkhI"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 230973,
-      "name": "Qu\u00e9date Esta Noche",
-      "url": "https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1940 Carmen",
         "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 240573,
       "name": "Algo Es Mejor",
       "url": "https://open.spotify.com/track/5GB8RBBzQLojlzQXtABIRp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 230973,
+      "name": "Qu\u00e9date Esta Noche",
+      "url": "https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Caderas Blancas",
-      "url": "https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1940 Carmen",
         "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Caderas Blancas",
+      "url": "https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Autopoi\u00e9tica",
         "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 263533,
       "name": "Pornocracia",
       "url": "https://open.spotify.com/track/67nuer2QzVcANQ32vDV5kV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paisaje Japon\u00e9s",
-        "url": "https://open.spotify.com/album/1h4yooOKEv9XQRhmSG66PX"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Paisaje Japon\u00e9s",
-      "url": "https://open.spotify.com/track/0Yo6IZJ5e4DJFKxlVPtzma"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paisaje Japon\u00e9s",
+        "url": "https://open.spotify.com/album/1h4yooOKEv9XQRhmSG66PX"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Paisaje Japon\u00e9s",
+      "url": "https://open.spotify.com/track/0Yo6IZJ5e4DJFKxlVPtzma"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Autopoi\u00e9tica",
         "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 240746,
       "name": "Pr\u00e9ndele Fuego",
       "url": "https://open.spotify.com/track/6aVoAutMSg9BZv0jkwPKN1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEIS",
+        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 248933,
+      "name": "Amado M\u00edo",
+      "url": "https://open.spotify.com/track/16B4vpVzBCj9muuoxPchlP"
     },
     {
       "added_at": null,
@@ -811,22 +827,6 @@
       "duration_ms": 200400,
       "name": "Celos",
       "url": "https://open.spotify.com/track/7eihx3GaEiFI3OGhQo6oL2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SEIS",
-        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 248933,
-      "name": "Amado M\u00edo",
-      "url": "https://open.spotify.com/track/16B4vpVzBCj9muuoxPchlP"
     },
     {
       "added_at": null,

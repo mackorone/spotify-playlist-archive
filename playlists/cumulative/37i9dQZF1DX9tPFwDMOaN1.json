@@ -1335,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "gonna love me, right?",
+        "url": "https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb"
+      },
+      "artists": [
+        {
+          "name": "DAYOUNG",
+          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "body",
+      "url": "https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM"
+    },
+    {
+      "album": {
         "name": "2ND FULL ALBUM 'REBOOT'",
         "url": "https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR"
       },
@@ -3598,6 +3616,24 @@
       "duration_ms": 193277,
       "name": "Fancy - Spotify Singles",
       "url": "https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp"
+    },
+    {
+      "album": {
+        "name": "COLOR OUTSIDE THE LINES",
+        "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174653,
+      "name": "FaSHioN",
+      "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
     },
     {
       "album": {
@@ -7000,7 +7036,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 210762,
       "name": "Loose",
       "url": "https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i"
@@ -7134,7 +7170,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 177514,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ"

@@ -4,7 +4,7 @@
 
 > This is The 1975\. The essential tracks, all in one playlist.
 
-61 songs - 4 hr 0 min
+62 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [All I Need To Hear](https://open.spotify.com/track/1RB8jMVr0eSo6ExOOvXavV) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:30 | 2023-03-19 |  |
 | [An Encounter](https://open.spotify.com/track/3Uuf7UQy96o8rkyEXSmAmv) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 1:14 | 2023-11-10 | 2023-12-19 |
 | [An Encounter \(Live From The AO Arena, Manchester, 17.02.24\)](https://open.spotify.com/track/2fsNOvKiVlGWRhL0CA0uXR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Still..\. At Their Very Best \(Live From The AO Arena, Manchester, 17.02.24\)](https://open.spotify.com/album/2YXTt0mcAXUSfBcstBn38I) | 0:47 | 2025-03-10 |  |
+| [Antichrist](https://open.spotify.com/track/5pmGhj5ToTK2kSinMCS0LJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe\)](https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ) | 4:43 | 2025-09-16 |  |
 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 | 2023-03-19 |  |
 | [By Your Side](https://open.spotify.com/track/6VKX7rGnHoHJ4bECP12OOG) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [By Your Side](https://open.spotify.com/album/03v3s0EfBKb1PPViZGOyyY) | 4:55 | 2023-03-19 |  |
 | [Chocolate](https://open.spotify.com/track/4WiiRw2PHMNQE0ad6y6GdD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 3:44 | 2023-03-19 |  |

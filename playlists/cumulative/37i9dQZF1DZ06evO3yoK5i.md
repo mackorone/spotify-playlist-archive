@@ -4,7 +4,7 @@
 
 > This is Eros Ramazzotti\. The essential tracks, all in one playlist.
 
-80 songs - 5 hr 39 min
+81 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,11 +41,12 @@
 | [La Media Vuelta](https://open.spotify.com/track/4YaWx75feX1fdZdMP9TLDO) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [México & Amigos](https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt) | 3:18 | 2023-09-25 |  |
 | [La Mia Felicità \(feat\. Eros Ramazzotti\)](https://open.spotify.com/track/2GmQZYlkLrJcxPPuCL7s2N) | [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [La Mia Felicità \(feat\. Eros Ramazzotti\)](https://open.spotify.com/album/22Jtg9y38pFvjlKl8CM7mL) | 2:50 | 2023-09-25 | 2023-11-11 |
 | [Lo spirito degli alberi](https://open.spotify.com/track/1a3al4GEJCxO0eAOczgM5B) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Stilelibero](https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5) | 4:11 | 2024-10-07 | 2025-04-17 |
-| [Ma che bello questo amore](https://open.spotify.com/track/12s8fpxTKhQl4HmKUKEYZv) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [In Certi Momenti](https://open.spotify.com/album/2tDqY2Aw9iCJtM9rtafPdd) | 4:09 | 2024-02-10 |  |
+| [Ma che bello questo amore](https://open.spotify.com/track/12s8fpxTKhQl4HmKUKEYZv) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [In Certi Momenti](https://open.spotify.com/album/2tDqY2Aw9iCJtM9rtafPdd) | 4:09 | 2024-02-10 | 2025-09-16 |
 | [Magia](https://open.spotify.com/track/42ip91KdjOIlSinrzbT33f) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Battito Infinito](https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG) | 3:46 | 2023-09-25 | 2024-01-23 |
 | [Mi día preferido](https://open.spotify.com/track/2rsLMD3pXqaYUiAaSsrZoJ) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Il mio giorno preferito/Mi día preferido](https://open.spotify.com/album/364VKqmZIJSiFbH4F5UX2x) | 3:27 | 2025-08-24 |  |
 | [Musica è](https://open.spotify.com/track/0iBOLnepgpMhH4NinExjCn) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Eros \(Spanish Version\)](https://open.spotify.com/album/66PLBQY9K6Ehb6QYAqjYYA) | 9:44 | 2023-09-25 | 2024-11-22 |
 | [Nada Sin Ti](https://open.spotify.com/track/1SqNm3h3tjXYqAZUYOcX5L) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Musica Es](https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh) | 5:05 | 2023-09-25 |  |
+| [Nel cuore lei](https://open.spotify.com/track/7mlmpmwrkMKcU94jXRAaPy) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Sogno](https://open.spotify.com/album/3fKfyzmHnCsdCw4iD3xIch) | 3:43 | 2025-09-16 |  |
 | [Nessuno a parte noi](https://open.spotify.com/track/28Zy2IHlctRGdoxeFp1rSg) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Battito Infinito](https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG) | 3:48 | 2023-09-25 | 2023-11-11 |
 | [No Estamos Solos](https://open.spotify.com/track/7KSsr9xwY7C8wPFq4BzOjn) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [e2](https://open.spotify.com/album/180OkoknJvtUxYrO0t8y9a) | 3:42 | 2023-09-25 |  |
 | [Occhi di speranza](https://open.spotify.com/track/1O3JhhkfsRcOv7CdNuq1BN) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros \- Best Of](https://open.spotify.com/album/4ZbNG8537boyzvfvdnQqY3) | 3:21 | 2025-08-05 | 2025-08-09 |

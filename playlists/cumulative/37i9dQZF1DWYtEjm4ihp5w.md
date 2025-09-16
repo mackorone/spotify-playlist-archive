@@ -4,7 +4,7 @@
 
 > Cover: 7ari, Ramoon
 
-434 songs - 22 hr 53 min
+435 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [L7ara](https://open.spotify.com/track/18svODSSAYC1DeOpn20xYT) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [L7ara](https://open.spotify.com/album/3tKdlwdmM8EfhPGNfQZzze) | 3:00 | 2024-05-10 | 2024-05-18 |
 | [L7ARB \- Spotify Singles](https://open.spotify.com/track/5GNQQVf3hHLtSp4XP143Xa) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [L7ARB \(Spotify Singles\)](https://open.spotify.com/album/0hrLNERzqFfgqVZbkS9Zmk) | 4:02 | 2023-12-07 | 2024-02-23 |
 | [La Bandera](https://open.spotify.com/track/1qXF28As0TDqYhmerGNqQR) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Promise](https://open.spotify.com/album/0g1YqG7Hn9RmZ96Q3GGOpq) | 3:29 | 2022-11-14 | 2023-01-01 |
+| [La Blonde w La Brune](https://open.spotify.com/track/5lSCjIKU24TavFykuaDkOt) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [MC3](https://open.spotify.com/album/4adJ7R9LtergjKVJJUYUmH) | 2:59 | 2025-09-15 |  |
 | [LA HAINE](https://open.spotify.com/track/4bRBYl1PQMcaKIhqbPWKKn) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [LA HAINE](https://open.spotify.com/album/5UMKs200IuLCZuRUpkOtPp) | 3:18 | 2025-02-13 | 2025-04-27 |
 | [La Tete](https://open.spotify.com/track/5XXOa4ih4ELmoeY5G48Axk) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 2:57 | 2023-05-18 | 2025-02-13 |
 | [La Weed](https://open.spotify.com/track/3Qe4g2M8lld0lmyE2LLRNk) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 3:10 | 2022-11-14 | 2023-08-06 |

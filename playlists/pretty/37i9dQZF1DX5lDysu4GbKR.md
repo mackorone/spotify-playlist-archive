@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Stripped back vibes\. Cover:  Lekan
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,192 likes - 147 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,203 likes - 147 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

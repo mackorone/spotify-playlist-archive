@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Intersection of R&B and afrobeats. Cover: Tay Iwar",
+  "description": "Intersection of R&B and afrobeats. Cover: Maya Amolo",
   "name": "afro&b ",
   "tracks": [
     {
@@ -3636,6 +3636,24 @@
       "duration_ms": 158069,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
+    },
+    {
+      "album": {
+        "name": "The Sweetest Time",
+        "url": "https://open.spotify.com/album/0kHP5lmMGgaPNS4tI8mwxX"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149433,
+      "name": "Hollon",
+      "url": "https://open.spotify.com/track/7n2nsap8jzTrmMejzm3eyx"
     },
     {
       "album": {
@@ -9624,7 +9642,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 167717,
       "name": "Your Loss",
       "url": "https://open.spotify.com/track/0ohCXfOYVw5om6ZK26LGXd"

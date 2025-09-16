@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Josh Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,592 likes - 105 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,594 likes - 105 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

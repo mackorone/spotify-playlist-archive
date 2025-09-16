@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ed Sheeran, JADE, Gorillaz and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,824 likes - 116 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,808 likes - 116 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 102 | [TEETH](https://open.spotify.com/track/1DQpwH1X8qUQgF8aAnN3DP) | [MESSIE](https://open.spotify.com/artist/4VsVLz3Uw6d0fdM6gFtLfo) | [TEETH](https://open.spotify.com/album/1EUIvJIjLFdUsHaNRicdxz) | 3:03 |
 | 103 | [Slowest Way To Drown](https://open.spotify.com/track/3eIf0QktAUC9YI5U4PhZcU) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Slowest Way To Drown](https://open.spotify.com/album/7C7D16N9be6lAJgtDOupcE) | 3:41 |
 | 104 | [9](https://open.spotify.com/track/0qe5eV70bPb2fbDsJV0Wx9) | [maybe](https://open.spotify.com/artist/1kLyslVxDqKFsDC68AGzdS) | [9](https://open.spotify.com/album/7CUutOsihwRKjwongFZtgt) | 3:36 |
-| 105 | [Running Club](https://open.spotify.com/track/5ai9VD4uVhxdBJsu9QgSXa) | [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh), [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [El Londo](https://open.spotify.com/artist/6XO1rl4e9IDahI86s9UJZC), [NJ Made It](https://open.spotify.com/artist/2UttVHqejvOrMcIdOqBTU4) | [Running Club](https://open.spotify.com/album/4q7oZexaKceSprMryQLMKg) | 3:12 |
+| 105 | [Running Club](https://open.spotify.com/track/5ai9VD4uVhxdBJsu9QgSXa) | [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh), [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9) | [Running Club](https://open.spotify.com/album/4q7oZexaKceSprMryQLMKg) | 3:12 |
 | 106 | [I Love It](https://open.spotify.com/track/7gqcQg5BexFAhj848x2Nni) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi), [shortstraw.](https://open.spotify.com/artist/3qlFWAsq8StLpupHiBDVND) | [Baby Teeth](https://open.spotify.com/album/3TBvK353HDQDDNfScJ8QaD) | 3:14 |
 | 107 | [Own Me](https://open.spotify.com/track/3t7lmi5cCWlqkDCHPLxs1N) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [Own Me](https://open.spotify.com/album/5gYK8rsyQvHAHplAmFpplG) | 2:47 |
 | 108 | [Sweet Sensation](https://open.spotify.com/track/08lMm17NyaTxqE2pnyLNi8) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Sweet Sensation](https://open.spotify.com/album/0jKFVbAav1wfa5smwIY0bd) | 3:43 |

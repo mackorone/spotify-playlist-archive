@@ -1,6 +1,6 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 7596,
+  "num_followers": 7597,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "EIGHT",
-        "url": "https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 292261,
-      "name": "Bless God",
-      "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
         "name": "Kumama",
         "url": "https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 260064,
       "name": "Kumama Papa",
       "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
+        "name": "EIGHT",
+        "url": "https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 292261,
+      "name": "Bless God",
+      "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
     },
     {
       "added_at": "2024-12-05 23:59:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "Praise The Lord",
-        "url": "https://open.spotify.com/album/6AVULKLk5k401GWjYcqesn"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 198745,
-      "name": "Praise The Lord",
-      "url": "https://open.spotify.com/track/5TkSbXGmy8bhMs4fxZ939Z"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
         "name": "Safari: The Journey",
         "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 282932,
       "name": "Naomba",
       "url": "https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/6AVULKLk5k401GWjYcqesn"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 198745,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/5TkSbXGmy8bhMs4fxZ939Z"
     },
     {
       "added_at": "2024-12-05 23:59:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "Heaven Changes Everything",
-        "url": "https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Heaven Changes Everything",
-      "url": "https://open.spotify.com/track/09K7v6EnuoR2TmjAEKUD71"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
         "name": "Look At God",
         "url": "https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 219514,
       "name": "Look At God",
       "url": "https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
+        "name": "Heaven Changes Everything",
+        "url": "https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Heaven Changes Everything",
+      "url": "https://open.spotify.com/track/09K7v6EnuoR2TmjAEKUD71"
     },
     {
       "added_at": "2024-12-05 23:59:00",
@@ -919,30 +919,6 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "I Set My Hope On Jesus",
-        "url": "https://open.spotify.com/album/2Tk1ntQrATbl2G05ncpJDK"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        },
-        {
-          "name": "Matt Boswell",
-          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
-        },
-        {
-          "name": "Matt Papa",
-          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
-        }
-      ],
-      "duration_ms": 255796,
-      "name": "I Set My Hope (Hymn For A Deconstructing Friend)",
-      "url": "https://open.spotify.com/track/6WOMNb2YNHE3HhTo3w0KCx"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
         "name": "Ndio",
         "url": "https://open.spotify.com/album/5CzUS1DY6pEqcYUxq9fiLm"
       },
@@ -955,6 +931,22 @@
       "duration_ms": 563252,
       "name": "Ndio",
       "url": "https://open.spotify.com/track/3CnETTK4rc5A5XnTWpvjWZ"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
+        "name": "Mkono Wa Bwana",
+        "url": "https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF"
+      },
+      "artists": [
+        {
+          "name": "Zabron Singers",
+          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
+        }
+      ],
+      "duration_ms": 349492,
+      "name": "Mkono Wa Bwana",
+      "url": "https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5"
     }
   ],
   "unique_name": "Sunday Service",

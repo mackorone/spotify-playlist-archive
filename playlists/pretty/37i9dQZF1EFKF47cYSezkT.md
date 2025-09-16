@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 34 | [To The Girl That Gets Him Next](https://open.spotify.com/track/5tfY4sv86EelJYS14Qm8Lj) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA) | [I'd Step On Lego For You.](https://open.spotify.com/album/2AdpJvtbF0pGyrincYRjWG) | 2:33 |
 | 35 | [Sacrifice](https://open.spotify.com/track/7ohIVwjfkygpO1Nr3L2Utl) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Sacrifice](https://open.spotify.com/album/0CvatjEeK2b1YHWWxfJC9U) | 3:17 |
 | 36 | [Coming Back For More](https://open.spotify.com/track/73xrd1Gv43Ddar11zLDtP1) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [PALPITATIONS](https://open.spotify.com/album/7fxhGVYVaAnGw6ZQ50DkJC) | 2:33 |
-| 37 | [Drip](https://open.spotify.com/track/6x8WE23eSl8mLFiI0JqYWZ) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [TIPI\-TAP](https://open.spotify.com/album/1mNCEsMLc2YkZt22rhNdg7) | 2:28 |
-| 38 | [Cute Aggression](https://open.spotify.com/track/2FXZpTJ0xQ6TUouxewefrL) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Cute Aggression](https://open.spotify.com/album/59JQH8iTAuKOo3EMzIkI66) | 2:36 |
+| 37 | [Cute Aggression](https://open.spotify.com/track/2FXZpTJ0xQ6TUouxewefrL) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Cute Aggression](https://open.spotify.com/album/59JQH8iTAuKOo3EMzIkI66) | 2:36 |
+| 38 | [Drip](https://open.spotify.com/track/6x8WE23eSl8mLFiI0JqYWZ) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [TIPI\-TAP](https://open.spotify.com/album/1mNCEsMLc2YkZt22rhNdg7) | 2:28 |
 | 39 | [French Riviera](https://open.spotify.com/track/1narRB8YDs0h77LwNvCDPv) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [French Riviera](https://open.spotify.com/album/3Irs9pckio6dyVVeNt3LQL) | 3:35 |
 | 40 | [Written By A Woman](https://open.spotify.com/track/5ZLBwNrCPjjLBbPwsq09bZ) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 2:26 |
 | 41 | [Better Off](https://open.spotify.com/track/3M2mwvKYNF5yglT3Ob9eYg) | [HAYES](https://open.spotify.com/artist/60Vo6QqGGmDzr6ZiwqNxxP) | [Better Off](https://open.spotify.com/album/3M6Bh0RUOgRy6YtD7abWSV) | 2:38 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 48 | [Meherbaan](https://open.spotify.com/track/46hWgb9J4Lf5bAnEV4dY2T) | [Reet Talwar](https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5) | [Meherbaan](https://open.spotify.com/album/1lI6lP0ODvHbBzSXuzqIWy) | 2:33 |
 | 49 | [Sleepy Head](https://open.spotify.com/track/2hhisc2iY0UPwps2DYxNou) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Sleepy Head](https://open.spotify.com/album/6NLsQQzO4vZv4u9EFk8DEE) | 2:24 |
 | 50 | [Work Of Art](https://open.spotify.com/track/1EU6rKdmudLSZJl9zJ4geL) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [NEVER REALLY THE END](https://open.spotify.com/album/0m8rinQENV3VFp8fud5gaD) | 2:43 |
-| 51 | [Another Night](https://open.spotify.com/track/2ollh0CfwAz4snWXe5Ii85) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [Life Begins After Dark](https://open.spotify.com/album/1IA3CdlBxrnTdJUDoP1Sfb) | 2:32 |
-| 52 | [in another life](https://open.spotify.com/track/3Bh2SISC7cpYYc126SGdrj) | [Isabella Kensington](https://open.spotify.com/artist/4Ffrd2faZZlkN2LTyPIPxb) | [in another life](https://open.spotify.com/album/2F7fBEWKOpA99tw7DF8xwY) | 2:51 |
+| 51 | [in another life](https://open.spotify.com/track/3Bh2SISC7cpYYc126SGdrj) | [Isabella Kensington](https://open.spotify.com/artist/4Ffrd2faZZlkN2LTyPIPxb) | [in another life](https://open.spotify.com/album/2F7fBEWKOpA99tw7DF8xwY) | 2:51 |
+| 52 | [Another Night](https://open.spotify.com/track/2ollh0CfwAz4snWXe5Ii85) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [Life Begins After Dark](https://open.spotify.com/album/1IA3CdlBxrnTdJUDoP1Sfb) | 2:32 |
 | 53 | [Ego Rush](https://open.spotify.com/track/5405yu0tbDmDA1iSJNbrta) | [evi](https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH) | [Ego Rush](https://open.spotify.com/album/6PUUdGSQCZs1bu30g5fUac) | 2:39 |
 | 54 | [strangers](https://open.spotify.com/track/0rFxyx0ZAU9KkFnao5Wt13) | [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6) | [dying art](https://open.spotify.com/album/1fne7Ywwqq0XdjjY6tmsQr) | 3:11 |
 | 55 | [Everything's Not Fine](https://open.spotify.com/track/6fvFzv3h94tKr9SWhR6SSh) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Everything's Not Fine](https://open.spotify.com/album/5tCSaDGt7dqIMBTuWCCx5P) | 2:59 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 62 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
 | 63 | [Disappointed](https://open.spotify.com/track/6mqw63eipmNwS74xCslQDi) | [Sophia Brenan](https://open.spotify.com/artist/0VEeqX29DGzL9KKwqacHtb) | [Deutsche Pop / United Pop: Campus Compilation 4th Edition](https://open.spotify.com/album/6KYElnHWvVU1UGaCnRgaU4) | 3:06 |
 
-Snapshot ID: `Ab8O/gAAAABMm4IVcHz1xe0kt18HGKoL`
+Snapshot ID: `Ab8UigAAAAB+7RUJxtcXWbkQzHVmF7SA`

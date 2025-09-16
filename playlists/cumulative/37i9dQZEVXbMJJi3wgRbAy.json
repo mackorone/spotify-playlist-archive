@@ -157,6 +157,28 @@
     },
     {
       "album": {
+        "name": "1% Diablita",
+        "url": "https://open.spotify.com/album/7siKGu1dnEo3S1UvFIwA3m"
+      },
+      "artists": [
+        {
+          "name": "LA NUEVA ESCUELA",
+          "url": "https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx"
+        },
+        {
+          "name": "Lucas LM",
+          "url": "https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133105,
+      "name": "1% Diablita",
+      "url": "https://open.spotify.com/track/5nB2nd2RBfEXbVwOD58DvO"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
       },
@@ -662,7 +684,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 207533,
       "name": "A las Nueve",
       "url": "https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU"
@@ -3180,7 +3202,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 127874,
       "name": "Brickell",
       "url": "https://open.spotify.com/track/7gofti5CijzbkBiNS14aGV"
@@ -4004,6 +4026,28 @@
       "duration_ms": 157333,
       "name": "Celosa",
       "url": "https://open.spotify.com/track/4FtuqEWmjtgKmVWW0iZOP7"
+    },
+    {
+      "album": {
+        "name": "Celosa",
+        "url": "https://open.spotify.com/album/4U98hPFmBA89MrkxPgaa23"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202457,
+      "name": "Celosa",
+      "url": "https://open.spotify.com/track/4aEyI7nU1uCm4G0YpR7NvQ"
     },
     {
       "album": {
@@ -19966,7 +20010,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 298000,
       "name": "Tan Lejos",
       "url": "https://open.spotify.com/track/44m9PAUZYeOEGeaTYh6NAl"
@@ -21258,7 +21302,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 156413,
       "name": "TU MISTERIOSO ALGUIEN (CUARTETO) (feat. Miranda!)",
       "url": "https://open.spotify.com/track/4Kzi8hXKkT87SQoYClizh0"

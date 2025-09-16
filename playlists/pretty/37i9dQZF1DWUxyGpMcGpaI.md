@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain]
 
 ### [Chainsaw Man](https://open.spotify.com/playlist/37i9dQZF1DWUxyGpMcGpaI)
 
-> Music from the new anime,  <a href="https://chainsawman.dog/">"Chainsaw Man"</a>!
+> Music from the new anime,  <a href="https://chainsawman.dog/">"Chainsaw Man"</a>! © 2025 MAPPA/CHAINSAW MAN PROJECT ©Tatsuki Fujimoto/SHUEISHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,471 likes - 65 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,488 likes - 65 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
-| 2 | [CHAINSAW BLOOD](https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [CHAINSAW BLOOD](https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg) | 3:20 |
-| 3 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 |
-| 4 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 |
-| 5 | [KICK BACK \(Frost Children Remix\)](https://open.spotify.com/track/4FI5XZ9paE4Lliaacra77p) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [KICK BACK \(Frost Children Remix\)](https://open.spotify.com/album/3osCW6kofsU9dIlILmL46l) | 4:12 |
+| 1 | [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 |
+| 2 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
+| 3 | [CHAINSAW BLOOD](https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [CHAINSAW BLOOD](https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg) | 3:20 |
+| 4 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 |
+| 5 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 |
 | 6 | [\#4【チェンソーマン】  戸谷菊之介×坂田将吾「台本を暗記して臨んだシーンとは…？」](https://open.spotify.com/episode/2whKtBEufvm8OyaEejUDFa) | [Spotify ANIZONE \- アニゾーン 【まったく最近の探偵ときたら』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【まったく最近の探偵ときたら』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 25:47 |
 | 7 | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \- TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \(TV edit\)](https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4) | 1:29 |
 | 8 | [錠剤](https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [錠剤](https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH) | 3:24 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain]
 | 64 | [sword of hunter](https://open.spotify.com/track/5YuWiyq11gNqCaXvnoiitC) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack Complete Edition \- chainsaw edge fragments \-](https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C) | 2:37 |
 | 65 | [the end of childhood](https://open.spotify.com/track/5OmMnJXOLsbuDqdQKZklHo) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack Complete Edition \- chainsaw edge fragments \-](https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C) | 2:29 |
 
-Snapshot ID: `AAAAADRquameO9Mx5f0saKi6unlMRv8h`
+Snapshot ID: `AAAAAO4Uo00ZQdarLm/agyx1UTgxNT2s`

@@ -1,13 +1,45 @@
 {
   "description": "Turn this playlist all the way up! Featuring, Babyface Ray, Ski Mask The Slump God, XXXTENTACION &amp; Rio Da Yung Og.",
-  "num_followers": 36140,
+  "num_followers": 36099,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAbn+dSj9YmFBgkGZl1JfgiJAGkuE6Y",
+  "snapshot_id": "AAAbp5rii63j1NtSfcUF8/12lQae6ZjV",
   "tracks": [
+    {
+      "added_at": "2025-09-15 21:37:37",
+      "album": {
+        "name": "Nobody But Us",
+        "url": "https://open.spotify.com/album/0o9R9YUhYDJgnGOHaWfwO9"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Nobody But Us",
+      "url": "https://open.spotify.com/track/0FHb0FsvH71rigM3vuaOLs"
+    },
+    {
+      "added_at": "2025-08-18 23:52:18",
+      "album": {
+        "name": "F.L.I.N.T. (Feeling Like I'm Not Through)",
+        "url": "https://open.spotify.com/album/5Jn2jLQVdViuoHPnXpcJu7"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "duration_ms": 171049,
+      "name": "Different Music",
+      "url": "https://open.spotify.com/track/4Cg7xBdI08BcfqwOC3aRfr"
+    },
     {
       "added_at": "2025-08-18 23:32:12",
       "album": {
@@ -49,20 +81,40 @@
       "url": "https://open.spotify.com/track/5RRIO4JSQyAEdiivATnXUq"
     },
     {
-      "added_at": "2025-08-18 23:52:18",
+      "added_at": "2025-09-15 21:36:06",
       "album": {
-        "name": "F.L.I.N.T. (Feeling Like I'm Not Through)",
-        "url": "https://open.spotify.com/album/5Jn2jLQVdViuoHPnXpcJu7"
+        "name": "Let's Talk About It",
+        "url": "https://open.spotify.com/album/71VHehXnjoRuQ4jqxhtkL7"
       },
       "artists": [
         {
-          "name": "Rio Da Yung Og",
-          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
         }
       ],
-      "duration_ms": 171049,
-      "name": "Different Music",
-      "url": "https://open.spotify.com/track/4Cg7xBdI08BcfqwOC3aRfr"
+      "duration_ms": 217254,
+      "name": "Let's Talk About It",
+      "url": "https://open.spotify.com/track/3CqKtcxQ9JsXkJFvifxV5B"
+    },
+    {
+      "added_at": "2025-09-15 21:36:39",
+      "album": {
+        "name": "Kreature Muzik",
+        "url": "https://open.spotify.com/album/3KPnccCnCb3algnpQHTyYC"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "duration_ms": 184105,
+      "name": "BADA BING",
+      "url": "https://open.spotify.com/track/5W3pJgN9xbIRMO1SPCOHkC"
     },
     {
       "added_at": "2025-09-04 22:08:35",

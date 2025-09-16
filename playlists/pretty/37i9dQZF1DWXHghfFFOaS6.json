@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 370086,
+  "num_followers": 370164,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Winelight",
+        "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
+      },
+      "artists": [
+        {
+          "name": "Grover Washington, Jr.",
+          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+        }
+      ],
+      "duration_ms": 350600,
+      "name": "Let It Flow (For \"DR. J\")",
+      "url": "https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Pushin On",
         "url": "https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 199560,
       "name": "Pushin On",
       "url": "https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Winelight",
-        "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
-      },
-      "artists": [
-        {
-          "name": "Grover Washington, Jr.",
-          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
-        }
-      ],
-      "duration_ms": 350600,
-      "name": "Let It Flow (For \"DR. J\")",
-      "url": "https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Rewind, Vol. 4",
-        "url": "https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp"
-      },
-      "artists": [
-        {
-          "name": "The Rebirth",
-          "url": "https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL"
-        }
-      ],
-      "duration_ms": 333106,
-      "name": "Evil Vibrations",
-      "url": "https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Cookie Dough",
         "url": "https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 175586,
       "name": "Serious Drug",
       "url": "https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Rewind, Vol. 4",
+        "url": "https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp"
+      },
+      "artists": [
+        {
+          "name": "The Rebirth",
+          "url": "https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL"
+        }
+      ],
+      "duration_ms": 333106,
+      "name": "Evil Vibrations",
+      "url": "https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Brass Construction",
-        "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
-      },
-      "artists": [
-        {
-          "name": "Brass Construction",
-          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
-        }
-      ],
-      "duration_ms": 494960,
-      "name": "Changin'",
-      "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Beatmaker",
         "url": "https://open.spotify.com/album/26r7BEpLvogzNadNhpR73H"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 177842,
       "name": "Beatmaker",
       "url": "https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Brass Construction",
+        "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
+      },
+      "artists": [
+        {
+          "name": "Brass Construction",
+          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
+        }
+      ],
+      "duration_ms": 494960,
+      "name": "Changin'",
+      "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh"
+      },
+      "artists": [
+        {
+          "name": "United Future Organization",
+          "url": "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
+        }
+      ],
+      "duration_ms": 327133,
+      "name": "Good Luck Shore",
+      "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Disposable Arts",
         "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 228466,
       "name": "Block Episode",
       "url": "https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh"
-      },
-      "artists": [
-        {
-          "name": "United Future Organization",
-          "url": "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
-        }
-      ],
-      "duration_ms": 327133,
-      "name": "Good Luck Shore",
-      "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
     },
     {
       "added_at": "2024-03-26 13:55:21",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "In Pursuit Of The 13th Note",
-        "url": "https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 286600,
-      "name": "Nothing Has Changed",
-      "url": "https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Dad Man Cat",
         "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 265266,
       "name": "Long Cool & Bubbly",
       "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "In Pursuit Of The 13th Note",
+        "url": "https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 286600,
+      "name": "Nothing Has Changed",
+      "url": "https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "House of the Rising Sun",
+        "url": "https://open.spotify.com/album/6pC0QxD8NR7f1R5HzJ4q5U"
+      },
+      "artists": [
+        {
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
+        }
+      ],
+      "duration_ms": 282093,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/71hiblgY44Xeo11ajThYz6"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Cosmic Vortex (Justice Divine)",
         "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
       },
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "House of the Rising Sun",
-        "url": "https://open.spotify.com/album/6pC0QxD8NR7f1R5HzJ4q5U"
+        "name": "Pizza Pie",
+        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
       },
       "artists": [
         {
-          "name": "Idris Muhammad",
-          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
+          "name": "Let Your Hair Down",
+          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
         }
       ],
-      "duration_ms": 282093,
-      "name": "House of the Rising Sun",
-      "url": "https://open.spotify.com/track/71hiblgY44Xeo11ajThYz6"
+      "duration_ms": 186324,
+      "name": "Pizza Pie",
+      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
     },
     {
       "added_at": "2024-08-12 13:49:26",
@@ -1163,22 +1179,6 @@
       "duration_ms": 289933,
       "name": "In The Breaks",
       "url": "https://open.spotify.com/track/34IBYWXWppPwRJa9mCuPtc"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Pizza Pie",
-        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
-      },
-      "artists": [
-        {
-          "name": "Let Your Hair Down",
-          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
-        }
-      ],
-      "duration_ms": 186324,
-      "name": "Pizza Pie",
-      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
     },
     {
       "added_at": "2022-07-18 17:17:22",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "The Best of Acid Jazz Vol. 2",
-        "url": "https://open.spotify.com/album/5TagkuIHtwtdmDKqdMdv9f"
-      },
-      "artists": [
-        {
-          "name": "The Brand New Heavies",
-          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Don't Let It Go to Your Head",
-      "url": "https://open.spotify.com/track/0NQ61HS437hTIsl57U0GNw"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Leaves of Memories",
         "url": "https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 144500,
       "name": "Clouds in the Sky",
       "url": "https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "The Best of Acid Jazz Vol. 2",
+        "url": "https://open.spotify.com/album/5TagkuIHtwtdmDKqdMdv9f"
+      },
+      "artists": [
+        {
+          "name": "The Brand New Heavies",
+          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Don't Let It Go to Your Head",
+      "url": "https://open.spotify.com/track/0NQ61HS437hTIsl57U0GNw"
     },
     {
       "added_at": "2022-07-18 17:17:22",

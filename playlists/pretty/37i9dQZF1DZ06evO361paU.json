@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 287777,
+  "num_followers": 287816,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAD0IexM1VS+dmBkDp43zqtM",
+  "snapshot_id": "aMYFgAAAAABmI5FtiKg9+pYWxtCFXamw",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Rock And Roll Is Dead",
-      "url": "https://open.spotify.com/track/1os9lKQD0M56nlIiXbWpE5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baptism",
         "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 156866,
       "name": "California",
       "url": "https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Rock And Roll Is Dead",
+      "url": "https://open.spotify.com/track/1os9lKQD0M56nlIiXbWpE5"
     },
     {
       "added_at": null,

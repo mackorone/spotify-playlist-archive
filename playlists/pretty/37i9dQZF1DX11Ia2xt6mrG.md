@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Deorro, Alexia Mariel y RAYBEN en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,197 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,214 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 50 | [ADICTO](https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN) | [Mario Santander](https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS) | [ADICTO](https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE) | 2:20 |
 | 51 | [Sin Sentir](https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC), [Dr Babe](https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW) | [Sin Sentir](https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7) | 3:39 |
 | 52 | [Ushuaïa](https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Ushuaïa](https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU) | 2:58 |
-| 53 | [SUSTANCIAS](https://open.spotify.com/track/5ixFDmN4lbynwZyEc8Wfbk) | [Happykid](https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2), [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP) | [SUSTANCIAS](https://open.spotify.com/album/0GPyQFEdQVpA2f3LiBGhh9) | 3:48 |
-| 54 | [THIRST FOR ME!](https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [EXTAPHORIC!](https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr) | 1:25 |
+| 53 | [THIRST FOR ME!](https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [EXTAPHORIC!](https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr) | 1:25 |
+| 54 | [SUSTANCIAS](https://open.spotify.com/track/5ixFDmN4lbynwZyEc8Wfbk) | [Happykid](https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2), [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP) | [SUSTANCIAS](https://open.spotify.com/album/0GPyQFEdQVpA2f3LiBGhh9) | 3:48 |
 | 55 | [TE QUIERO](https://open.spotify.com/track/0CTaBZCRrQVsxdEFTYUByb) | [Mario Santander](https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS) | [TE QUIERO](https://open.spotify.com/album/2uRZYoFo5UrI7d8AlUHLLK) | 2:27 |
 | 56 | [Corrupted](https://open.spotify.com/track/70KbdYzwNiSd8sayMqa687) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC) | [Corrupted](https://open.spotify.com/album/2MHJfwPN2ruuHa8RTulzFk) | 3:20 |
 | 57 | [Light Up](https://open.spotify.com/track/319XgEPeEfhMw276p5wzg3) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Light Up](https://open.spotify.com/album/3lpliBOg303cNhbNCeDMZm) | 2:41 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 86 | [CRAYZI](https://open.spotify.com/track/353cf2mcZqNBaWTfnFFRao) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi), [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj) | [CRAYZI](https://open.spotify.com/album/77o3N2J6knMchqNBrWLHzH) | 2:53 |
 | 87 | [Nada Falta Como Me Faltas](https://open.spotify.com/track/4b7UGrxHPIq1sBeUKlW83X) | [Depressiego](https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD) | [Nada Falta Como Me Faltas](https://open.spotify.com/album/0K82jU8AWiVVLOQWR48eWx) | 3:23 |
 | 88 | [LA MALA VIDA](https://open.spotify.com/track/3QVNEQyPraEeAQZfLRjQeU) | [Castro Angel](https://open.spotify.com/artist/01olnHHF6FukRRCAObvofr), [Diego Lopez](https://open.spotify.com/artist/2op9BfI5gKPUEutCwsij5D) | [LA MALA VIDA](https://open.spotify.com/album/1sy88TQtIIpUGKiHgRFWbw) | 3:06 |
-| 89 | [Winter](https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Winter](https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS) | 2:24 |
-| 90 | [Porque La Demora](https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Porque La Demora](https://open.spotify.com/album/6zUt368NvVDSN4UCMvGlv7) | 2:49 |
+| 89 | [Porque La Demora](https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Porque La Demora](https://open.spotify.com/album/6zUt368NvVDSN4UCMvGlv7) | 2:49 |
+| 90 | [Winter](https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Winter](https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS) | 2:24 |
 
 Snapshot ID: `AAAAAP9kTFskmADNYghRuYGBg55/K2ek`

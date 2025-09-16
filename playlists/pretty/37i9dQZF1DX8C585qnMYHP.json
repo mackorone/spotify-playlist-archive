@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:5qK8WYVzvkaBcoe4CDfuyY\">KUNTARI</a> on cover. Artwork by Thami Nabil",
-  "num_followers": 190857,
+  "num_followers": 190877,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -199,18 +199,22 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Vevey",
-        "url": "https://open.spotify.com/album/6ErQO53PyIeEvbIk4D1iaJ"
+        "name": "If I Had a Boat",
+        "url": "https://open.spotify.com/album/5kzZHox2H0kcWMo9l8AgEd"
       },
       "artists": [
         {
-          "name": "Clay Kin",
-          "url": "https://open.spotify.com/artist/1LVrDV9Es1LZIA6KCMqAqD"
+          "name": "Kieran Hebden",
+          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
+        },
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
         }
       ],
-      "duration_ms": 195668,
-      "name": "45\u00b055'41.1\"N 7\u00b005'46.4\"E",
-      "url": "https://open.spotify.com/track/0nPSkMFuNCS5lwwk0vmyoN"
+      "duration_ms": 678676,
+      "name": "If I Had a Boat",
+      "url": "https://open.spotify.com/track/2jzIgL4FzE2whuIdMEjOAO"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -235,22 +239,18 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "If I Had a Boat",
-        "url": "https://open.spotify.com/album/5kzZHox2H0kcWMo9l8AgEd"
+        "name": "Vevey",
+        "url": "https://open.spotify.com/album/6ErQO53PyIeEvbIk4D1iaJ"
       },
       "artists": [
         {
-          "name": "Kieran Hebden",
-          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
-        },
-        {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+          "name": "Clay Kin",
+          "url": "https://open.spotify.com/artist/1LVrDV9Es1LZIA6KCMqAqD"
         }
       ],
-      "duration_ms": 678676,
-      "name": "If I Had a Boat",
-      "url": "https://open.spotify.com/track/2jzIgL4FzE2whuIdMEjOAO"
+      "duration_ms": 195668,
+      "name": "45\u00b055'41.1\"N 7\u00b005'46.4\"E",
+      "url": "https://open.spotify.com/track/0nPSkMFuNCS5lwwk0vmyoN"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
+        "name": "By Night",
+        "url": "https://open.spotify.com/album/5ozUmbzo5jhtPz4WvJpOEI"
+      },
+      "artists": [
+        {
+          "name": "Noah Praise God",
+          "url": "https://open.spotify.com/artist/3UjCR3c49FUCGq5MGvV4WV"
+        }
+      ],
+      "duration_ms": 159642,
+      "name": "By Night",
+      "url": "https://open.spotify.com/track/7Aeix3UGJHLTbwLxChbTUE"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
         "name": "Clandestine",
         "url": "https://open.spotify.com/album/5rIausjHvphykBRA3h1aMF"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 156000,
       "name": "new links",
       "url": "https://open.spotify.com/track/2MFXIYR10k8fUumqanMSLI"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
-        "name": "By Night",
-        "url": "https://open.spotify.com/album/5ozUmbzo5jhtPz4WvJpOEI"
-      },
-      "artists": [
-        {
-          "name": "Noah Praise God",
-          "url": "https://open.spotify.com/artist/3UjCR3c49FUCGq5MGvV4WV"
-        }
-      ],
-      "duration_ms": 159642,
-      "name": "By Night",
-      "url": "https://open.spotify.com/track/7Aeix3UGJHLTbwLxChbTUE"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Walks",
-        "url": "https://open.spotify.com/album/1lvbdPNXbYZGyNmE4vu9xV"
-      },
-      "artists": [
-        {
-          "name": "Group Listening",
-          "url": "https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "New Brighton",
-      "url": "https://open.spotify.com/track/0uOpsETVlKyKvfWJlEIgg9"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
         "name": "O, Dark Mother",
         "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "I Keep My Diamond Necklace in a Pond of Sparkling Water",
-        "url": "https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ"
+        "name": "Walks",
+        "url": "https://open.spotify.com/album/1lvbdPNXbYZGyNmE4vu9xV"
       },
       "artists": [
         {
-          "name": "Gryphon Rue",
-          "url": "https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP"
+          "name": "Group Listening",
+          "url": "https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe"
         }
       ],
-      "duration_ms": 276866,
-      "name": "Squatter's Quarters",
-      "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
+      "duration_ms": 204586,
+      "name": "New Brighton",
+      "url": "https://open.spotify.com/track/0uOpsETVlKyKvfWJlEIgg9"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -587,18 +571,18 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Hold the Edges",
-        "url": "https://open.spotify.com/album/6DLJ126k5YfhEzHp3uLM3c"
+        "name": "I Keep My Diamond Necklace in a Pond of Sparkling Water",
+        "url": "https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ"
       },
       "artists": [
         {
-          "name": "Kitba",
-          "url": "https://open.spotify.com/artist/3n8KzsjhAfQXapgZG4N1Ax"
+          "name": "Gryphon Rue",
+          "url": "https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP"
         }
       ],
-      "duration_ms": 213160,
-      "name": "Hold the Edges",
-      "url": "https://open.spotify.com/track/3xScwoXWtndJkA4h1Nsh1S"
+      "duration_ms": 276866,
+      "name": "Squatter's Quarters",
+      "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -615,6 +599,22 @@
       "duration_ms": 142000,
       "name": "14 Rue d'Abbeville",
       "url": "https://open.spotify.com/track/56zIzQ7cQkk6jtqKjngLeA"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
+        "name": "Hold the Edges",
+        "url": "https://open.spotify.com/album/6DLJ126k5YfhEzHp3uLM3c"
+      },
+      "artists": [
+        {
+          "name": "Kitba",
+          "url": "https://open.spotify.com/artist/3n8KzsjhAfQXapgZG4N1Ax"
+        }
+      ],
+      "duration_ms": 213160,
+      "name": "Hold the Edges",
+      "url": "https://open.spotify.com/track/3xScwoXWtndJkA4h1Nsh1S"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Wanted To Show You",
-        "url": "https://open.spotify.com/album/7auwpvWqguoC2QAlebNpka"
-      },
-      "artists": [
-        {
-          "name": "Lipsticism",
-          "url": "https://open.spotify.com/artist/3yZVhblOfQUomJFGUKdOf2"
-        }
-      ],
-      "duration_ms": 190738,
-      "name": "Feeling Why Do You Follow",
-      "url": "https://open.spotify.com/track/5MGeZ5lMzPlgdfcwVmVCzr"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
         "name": "Wish You Well / Album",
         "url": "https://open.spotify.com/album/6VOPycS7XmfgA0y43Xd8dq"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 427694,
       "name": "Saint",
       "url": "https://open.spotify.com/track/2JzB9o5dq0KUg5CEBdK2nN"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
+        "name": "Wanted To Show You",
+        "url": "https://open.spotify.com/album/7auwpvWqguoC2QAlebNpka"
+      },
+      "artists": [
+        {
+          "name": "Lipsticism",
+          "url": "https://open.spotify.com/artist/3yZVhblOfQUomJFGUKdOf2"
+        }
+      ],
+      "duration_ms": 190738,
+      "name": "Feeling Why Do You Follow",
+      "url": "https://open.spotify.com/track/5MGeZ5lMzPlgdfcwVmVCzr"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Too Close to Call",
-        "url": "https://open.spotify.com/album/4GRuolM8ty3ahWoKE56Z0b"
-      },
-      "artists": [
-        {
-          "name": "Tom Kinsella",
-          "url": "https://open.spotify.com/artist/3zmBYWcupp9ux1zvBDub8K"
-        }
-      ],
-      "duration_ms": 278630,
-      "name": "Too Close to Call",
-      "url": "https://open.spotify.com/track/0n6icrUXzDFyrNJFPGjX0w"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
         "name": "Hand To Mouth",
         "url": "https://open.spotify.com/album/3wGORzE4SH5K6toBJhzGnX"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 218962,
       "name": "Consider This",
       "url": "https://open.spotify.com/track/7ibTbfuTYaIUbcGAJlpyzB"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
+        "name": "Too Close to Call",
+        "url": "https://open.spotify.com/album/4GRuolM8ty3ahWoKE56Z0b"
+      },
+      "artists": [
+        {
+          "name": "Tom Kinsella",
+          "url": "https://open.spotify.com/artist/3zmBYWcupp9ux1zvBDub8K"
+        }
+      ],
+      "duration_ms": 278630,
+      "name": "Too Close to Call",
+      "url": "https://open.spotify.com/track/0n6icrUXzDFyrNJFPGjX0w"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -995,6 +995,38 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
+        "name": "Sonny Gray",
+        "url": "https://open.spotify.com/album/1fXY2l6fVkSNL8xWC54KZR"
+      },
+      "artists": [
+        {
+          "name": "Alex Wilcox",
+          "url": "https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu"
+        }
+      ],
+      "duration_ms": 238625,
+      "name": "I Am The Cucumber Man",
+      "url": "https://open.spotify.com/track/6G0LBBs1XDry3cauKvXYHT"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
+        "name": "Neptune Anteater",
+        "url": "https://open.spotify.com/album/4N23iLAHXRJ0uq4NL84kfU"
+      },
+      "artists": [
+        {
+          "name": "The Dwarfs of East Agouza",
+          "url": "https://open.spotify.com/artist/4hOby8V5qAcpSDTMxKchiR"
+        }
+      ],
+      "duration_ms": 238948,
+      "name": "Neptune Anteater",
+      "url": "https://open.spotify.com/track/21G0z6uwYJ6ry6btg4H9uX"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
         "name": "Solvay Beach",
         "url": "https://open.spotify.com/album/6g3lLi3ROpgGsXNVxUWfsl"
       },
@@ -1027,18 +1059,18 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Neptune Anteater",
-        "url": "https://open.spotify.com/album/4N23iLAHXRJ0uq4NL84kfU"
+        "name": "Rememberer",
+        "url": "https://open.spotify.com/album/3upV2lrm2jUWJUkEr0kKzd"
       },
       "artists": [
         {
-          "name": "The Dwarfs of East Agouza",
-          "url": "https://open.spotify.com/artist/4hOby8V5qAcpSDTMxKchiR"
+          "name": "Radio Anorak",
+          "url": "https://open.spotify.com/artist/7DI8lla9rOD2GxmKprt2yl"
         }
       ],
-      "duration_ms": 238948,
-      "name": "Neptune Anteater",
-      "url": "https://open.spotify.com/track/21G0z6uwYJ6ry6btg4H9uX"
+      "duration_ms": 208917,
+      "name": "King of England",
+      "url": "https://open.spotify.com/track/6g7p4fERQRnAPHtfDfqbWL"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1059,38 +1091,6 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Sonny Gray",
-        "url": "https://open.spotify.com/album/1fXY2l6fVkSNL8xWC54KZR"
-      },
-      "artists": [
-        {
-          "name": "Alex Wilcox",
-          "url": "https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu"
-        }
-      ],
-      "duration_ms": 238625,
-      "name": "I Am The Cucumber Man",
-      "url": "https://open.spotify.com/track/6G0LBBs1XDry3cauKvXYHT"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
-        "name": "Rememberer",
-        "url": "https://open.spotify.com/album/3upV2lrm2jUWJUkEr0kKzd"
-      },
-      "artists": [
-        {
-          "name": "Radio Anorak",
-          "url": "https://open.spotify.com/artist/7DI8lla9rOD2GxmKprt2yl"
-        }
-      ],
-      "duration_ms": 208917,
-      "name": "King of England",
-      "url": "https://open.spotify.com/track/6g7p4fERQRnAPHtfDfqbWL"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
         "name": "Kampana - Vibration, trembling",
         "url": "https://open.spotify.com/album/4PKFMgHF91f8bSZUb4VsfG"
       },
@@ -1107,30 +1107,6 @@
       "duration_ms": 390959,
       "name": "Kampana - Vibration, trembling",
       "url": "https://open.spotify.com/track/0mqCMl0iihyYf4yhnYWReV"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
-        "name": "46\u00b027'29.6\"N 6\u00b051'03.4\"E",
-        "url": "https://open.spotify.com/album/6hm5M2Q7I1GJltggp6oclw"
-      },
-      "artists": [
-        {
-          "name": "Clay Kin",
-          "url": "https://open.spotify.com/artist/1LVrDV9Es1LZIA6KCMqAqD"
-        },
-        {
-          "name": "Dan Nicholls",
-          "url": "https://open.spotify.com/artist/3jPACp3hjJoZE4amLccrTW"
-        },
-        {
-          "name": "Julian Sartorius",
-          "url": "https://open.spotify.com/artist/6uZnp5qm39fcS98jofdiHz"
-        }
-      ],
-      "duration_ms": 238243,
-      "name": "46\u00b027'29.6\"N 6\u00b051'03.4\"E",
-      "url": "https://open.spotify.com/track/3xLkOgGI2B9IMb5SkdAZOn"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1167,18 +1143,26 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Distratta",
-        "url": "https://open.spotify.com/album/0LC582TtftOkHG7J5KvFlJ"
+        "name": "46\u00b027'29.6\"N 6\u00b051'03.4\"E",
+        "url": "https://open.spotify.com/album/6hm5M2Q7I1GJltggp6oclw"
       },
       "artists": [
         {
-          "name": "Silvia Tarozzi",
-          "url": "https://open.spotify.com/artist/3QXW4xSGmwli3mbaKTgFxb"
+          "name": "Clay Kin",
+          "url": "https://open.spotify.com/artist/1LVrDV9Es1LZIA6KCMqAqD"
+        },
+        {
+          "name": "Dan Nicholls",
+          "url": "https://open.spotify.com/artist/3jPACp3hjJoZE4amLccrTW"
+        },
+        {
+          "name": "Julian Sartorius",
+          "url": "https://open.spotify.com/artist/6uZnp5qm39fcS98jofdiHz"
         }
       ],
-      "duration_ms": 169775,
-      "name": "Distratta",
-      "url": "https://open.spotify.com/track/7hinjcS3WbroKjp04bDj0i"
+      "duration_ms": 238243,
+      "name": "46\u00b027'29.6\"N 6\u00b051'03.4\"E",
+      "url": "https://open.spotify.com/track/3xLkOgGI2B9IMb5SkdAZOn"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1199,6 +1183,22 @@
       "duration_ms": 196340,
       "name": "Thinking about you",
       "url": "https://open.spotify.com/track/1I0uK1t1GX7a8H8zbqKRma"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
+        "name": "Distratta",
+        "url": "https://open.spotify.com/album/0LC582TtftOkHG7J5KvFlJ"
+      },
+      "artists": [
+        {
+          "name": "Silvia Tarozzi",
+          "url": "https://open.spotify.com/artist/3QXW4xSGmwli3mbaKTgFxb"
+        }
+      ],
+      "duration_ms": 169775,
+      "name": "Distratta",
+      "url": "https://open.spotify.com/track/7hinjcS3WbroKjp04bDj0i"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
+        "name": "Scintille",
+        "url": "https://open.spotify.com/album/32TzqEeSbMwM3QhrYtnmfz"
+      },
+      "artists": [
+        {
+          "name": "Ehua",
+          "url": "https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50"
+        }
+      ],
+      "duration_ms": 299786,
+      "name": "Scintille",
+      "url": "https://open.spotify.com/track/1TVL0GMb5jryOaAbkutpPc"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
         "name": "sound for people's spaces",
         "url": "https://open.spotify.com/album/0uja4DPzq4bfeJ43HXrH23"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 121730,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/0mDbRQCAc9FMeNxXBpJWFX"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
-        "name": "Scintille",
-        "url": "https://open.spotify.com/album/32TzqEeSbMwM3QhrYtnmfz"
-      },
-      "artists": [
-        {
-          "name": "Ehua",
-          "url": "https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50"
-        }
-      ],
-      "duration_ms": 299786,
-      "name": "Scintille",
-      "url": "https://open.spotify.com/track/1TVL0GMb5jryOaAbkutpPc"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Charged Up 2",
-        "url": "https://open.spotify.com/album/0whw8OyYCpRqelxXYawD2b"
-      },
-      "artists": [
-        {
-          "name": "Heavee",
-          "url": "https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw"
-        }
-      ],
-      "duration_ms": 264902,
-      "name": "Cross Road",
-      "url": "https://open.spotify.com/track/2tvaoRPWrVprKZrLkg69lW"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
         "name": "R\u00f8j\u00f8 Latid\u00f8",
         "url": "https://open.spotify.com/album/1OoB3m7Gv5yqZEWYAXQ979"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 211500,
       "name": "R\u00f8j\u00f8 Latid\u00f8",
       "url": "https://open.spotify.com/track/7eAIySgz1OsYFZGPRvLCLj"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
+        "name": "Charged Up 2",
+        "url": "https://open.spotify.com/album/0whw8OyYCpRqelxXYawD2b"
+      },
+      "artists": [
+        {
+          "name": "Heavee",
+          "url": "https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw"
+        }
+      ],
+      "duration_ms": 264902,
+      "name": "Cross Road",
+      "url": "https://open.spotify.com/track/2tvaoRPWrVprKZrLkg69lW"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
+        "name": "Oasi Estesa",
+        "url": "https://open.spotify.com/album/6EiP5aoogQj7W178L09w2l"
+      },
+      "artists": [
+        {
+          "name": "Indianizer",
+          "url": "https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp"
+        }
+      ],
+      "duration_ms": 272137,
+      "name": "GITA IN TRAM",
+      "url": "https://open.spotify.com/track/2cXNSETwLqc0G2ttPY0RsF"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
         "name": "Contralepsy",
         "url": "https://open.spotify.com/album/7ki9wj2Ntk7II1ZWIc6Ys0"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 142004,
       "name": "Presentation of Lawn Mower I (Type: Snapper Riding Mower)",
       "url": "https://open.spotify.com/track/1f9SrCP2nWlmrGh4Ie6ZgA"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
-        "name": "Oasi Estesa",
-        "url": "https://open.spotify.com/album/6EiP5aoogQj7W178L09w2l"
-      },
-      "artists": [
-        {
-          "name": "Indianizer",
-          "url": "https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp"
-        }
-      ],
-      "duration_ms": 272137,
-      "name": "GITA IN TRAM",
-      "url": "https://open.spotify.com/track/2cXNSETwLqc0G2ttPY0RsF"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Bucking Broadway",
-        "url": "https://open.spotify.com/album/471ObvUX41NI2XGXz0CNW6"
-      },
-      "artists": [
-        {
-          "name": "Jetski",
-          "url": "https://open.spotify.com/artist/43PNREByD3AYaBIzTQk5uR"
-        }
-      ],
-      "duration_ms": 347542,
-      "name": "Bucking Broadway",
-      "url": "https://open.spotify.com/track/0cGdT6UaU0KsblbiEF7pDt"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
         "name": "Old and New Dreams chapter.1\u300e\u5e8f\u300f",
         "url": "https://open.spotify.com/album/0ILOEUHGGyFUzN4SYDiYUs"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 424893,
       "name": "Lonely Woman",
       "url": "https://open.spotify.com/track/5q5cwKF98rdbbu3eyN125y"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
+        "name": "Bucking Broadway",
+        "url": "https://open.spotify.com/album/471ObvUX41NI2XGXz0CNW6"
+      },
+      "artists": [
+        {
+          "name": "Jetski",
+          "url": "https://open.spotify.com/artist/43PNREByD3AYaBIzTQk5uR"
+        }
+      ],
+      "duration_ms": 347542,
+      "name": "Bucking Broadway",
+      "url": "https://open.spotify.com/track/0cGdT6UaU0KsblbiEF7pDt"
     },
     {
       "added_at": "2025-09-05 15:14:39",

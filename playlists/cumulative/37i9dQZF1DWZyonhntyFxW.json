@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": " \u0625\u062d\u0646\u0627 \u0641\u0648\u0642 \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0645\u0627\u0641\u064a\u0634 \u063a\u064a\u0631\u0646\u0627 \u0641\u064a \u0627\u0644\u0633\u064a\u0646! \u063a\u0644\u0627\u0641: \u0648\u064a\u062c\u0632",
+  "description": " \u0625\u062d\u0646\u0627 \u0641\u0648\u0642 \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0645\u0627\u0641\u064a\u0634 \u063a\u064a\u0631\u0646\u0627 \u0641\u064a \u0627\u0644\u0633\u064a\u0646! \u063a\u0644\u0627\u0641: \u0645\u0631\u0648\u0627\u0646 \u0645\u0648\u0633\u0649",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "tracks": [
     {
@@ -980,6 +980,28 @@
       "duration_ms": 195642,
       "name": "ANA DEAL",
       "url": "https://open.spotify.com/track/1QcOE9wJeillm0WK0oujtD"
+    },
+    {
+      "album": {
+        "name": "ANA ESMY ZIAD ZAZA",
+        "url": "https://open.spotify.com/album/7bv20zT7obBMQ6Fq3reFIV"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        },
+        {
+          "name": "Omar Keif",
+          "url": "https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133641,
+      "name": "ANA ESMY ZIAD ZAZA",
+      "url": "https://open.spotify.com/track/4llSXlOfqesFjhnLazIpxd"
     },
     {
       "album": {
@@ -3342,7 +3364,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 149915,
       "name": "HERO",
       "url": "https://open.spotify.com/track/5iCZDlejNhUKyIQMMwml5l"

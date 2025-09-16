@@ -4,7 +4,7 @@
 
 > Get down and jam out to these throwback '80s R&B and soul tunes!
 
-81 songs - 6 hr 45 min
+82 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,8 +59,9 @@
 | [Never Knew Love Like This Before](https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Pride Classics](https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc) | 5:26 | 2021-04-01 | 2024-04-19 |
 | [Never Knew Love Like This Before \(Extended Mix\)](https://open.spotify.com/track/1Urr1PLp5Cy0ylztRSJvdB) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Groove On, Vol\. 1](https://open.spotify.com/album/3XITzC6hfZyl7U2C4ngxWa) | 5:28 | 2021-04-01 | 2023-06-01 |
 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 | 2021-04-01 |  |
+| [New Attitude](https://open.spotify.com/track/71DxDMPiElIeGgvJvtITXR) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Patti LaBelle's Greatest Hits](https://open.spotify.com/album/12ENRe4Pw9qXVXz10nng3R) | 4:11 | 2021-04-01 |  |
 | [Nights Over Egypt](https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:39 | 2021-07-01 |  |
-| [Object of My Desire](https://open.spotify.com/track/63Ql2zSLiBryLRPihaUToK) | [Starpoint](https://open.spotify.com/artist/6W9OZQ862LR0HM76QQJJY3) | [Restless](https://open.spotify.com/album/1RuIZ3XuB6TFN11ApV2tgG) | 5:06 | 2021-04-01 |  |
+| [Object of My Desire](https://open.spotify.com/track/63Ql2zSLiBryLRPihaUToK) | [Starpoint](https://open.spotify.com/artist/6W9OZQ862LR0HM76QQJJY3) | [Restless](https://open.spotify.com/album/1RuIZ3XuB6TFN11ApV2tgG) | 5:06 | 2021-04-01 | 2025-09-16 |
 | [Off on Your Own \(Girl\)](https://open.spotify.com/track/2GRMJEIAvKlqJd9UHZTjRD) | [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk) | [In Effect Mode](https://open.spotify.com/album/3RjOQ5eRm9f5kf6ysRpByu) | 4:09 | 2021-04-01 |  |
 | [Oh Sheila](https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG) | [Ready For The World](https://open.spotify.com/artist/6h29EZDlc2NTvmCUe4yoXV) | [Ready For The World](https://open.spotify.com/album/7J4vN1d089or6LJDdIQxdg) | 4:00 | 2021-04-01 |  |
 | [Old Friend](https://open.spotify.com/track/3qTq1bSZBrndBmw8YktDNi) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:50 | 2021-07-01 | 2022-02-14 |

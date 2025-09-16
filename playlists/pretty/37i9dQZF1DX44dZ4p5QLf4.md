@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > New releases in modern soul\. Cover: Braxton Cook
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,115 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,117 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 79 | [Imaginary Windows](https://open.spotify.com/track/57D4IUGT6DHjAqiyJzbGCF) | [Helena Casella](https://open.spotify.com/artist/0cRh1NWKBsNPYyUwc7DiYN) | [Imaginary Windows](https://open.spotify.com/album/1RRDWzSM2lCKrt4p0Exy7I) | 6:32 |
 | 80 | [The Water](https://open.spotify.com/track/6mFtRPwwIHSFfmrRChicDx) | [Bel Tempo](https://open.spotify.com/artist/4pJRvcgbeXo78Lne0j9uKJ), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [The Water](https://open.spotify.com/album/51qnnj0KfsTbijLYHTy0ox) | 3:00 |
 
-Snapshot ID: `AAAAAHjyDQ39r9/ihkRHsaCLBgRWQ6ZG`
+Snapshot ID: `AAAAAKzYPsenK//3fahs35gba+oDc3/s`

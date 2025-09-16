@@ -3491,6 +3491,24 @@
     },
     {
       "album": {
+        "name": "Snooze",
+        "url": "https://open.spotify.com/album/0GrWylaTP2A3nDLDIklvWM"
+      },
+      "artists": [
+        {
+          "name": "wotaku",
+          "url": "https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178102,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/1Ht0sIJf1IYEiBW9XDLKnF"
+    },
+    {
+      "album": {
         "name": "Something more awesome than a ghost",
         "url": "https://open.spotify.com/album/49TixC2pbSlrKHpGZBntp1"
       },

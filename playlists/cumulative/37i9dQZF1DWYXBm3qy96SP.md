@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: twenty one pilots
 
-1,694 songs - 4 day 1 hr 57 min
+1,695 songs - 4 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -909,6 +909,7 @@
 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 | 2024-06-06 | 2024-10-21 |
 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 | 2023-08-24 | 2025-07-11 |
 | [Makes Me Violent](https://open.spotify.com/track/1nNSdsmH6rqpa6x7WeUL5v) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Makes Me Violent](https://open.spotify.com/album/0j6c4JKUS4ofsa0P927Irn) | 3:19 | 2024-02-29 | 2024-04-05 |
+| [Making Love to Morgan Wallen](https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Making Love to Morgan Wallen](https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM) | 4:09 | 2025-09-11 |  |
 | [Man Down](https://open.spotify.com/track/0zwTWAaEvnHoGIoRIPG0oD) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Man Down](https://open.spotify.com/album/2hPc8LFCi2HzeW1BdSw8TH) | 3:03 | 2023-09-07 | 2023-09-15 |
 | [Man On A Mission](https://open.spotify.com/track/6fJld32axCH9Aw7XlVLoGG) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Man On A Mission](https://open.spotify.com/album/3gXvlO1pTEgCQlQ3O3oOPJ) | 3:31 | 2025-06-19 | 2025-08-13 |
 | [Man on the Run](https://open.spotify.com/track/6C1ejrxo19nyEtVbn86egr) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Who's in the House?](https://open.spotify.com/album/04cL4l3zjxF2iwKC9yziNm) | 2:33 | 2025-08-14 | 2025-08-22 |
@@ -1464,7 +1465,7 @@
 | [The Rabbi](https://open.spotify.com/track/6YokS9sLLeB1bLBq1Szcc9) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren \(Deluxe\)](https://open.spotify.com/album/7oIWsV8OxCtzp7LyJa23wg) | 2:43 | 2023-07-27 | 2023-08-04 |
 | [The Rope](https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [The Rope](https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId) | 3:10 | 2025-06-05 | 2025-08-21 |
 | [The Scene](https://open.spotify.com/track/0h4aBq7QsZiNwwsxQlwQoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Raspberry Moon](https://open.spotify.com/album/3MVdeSmUl32TTzLy6dFFtZ) | 2:21 | 2025-06-19 | 2025-08-22 |
-| [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 | 2025-09-04 |  |
+| [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 | 2025-09-04 | 2025-09-16 |
 | [The Serpent and the King](https://open.spotify.com/track/2n09w41gAdEsJFp6bD0sBT) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [The Serpent and the King](https://open.spotify.com/album/53T5pDi25DmqJiQgHdinBq) | 4:19 | 2024-02-22 | 2024-03-08 |
 | [the slab](https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [the slab](https://open.spotify.com/album/1OheOBc8tPeAQRNoFAq6ve) | 5:10 | 2023-08-10 | 2023-08-18 |
 | [The Sofa](https://open.spotify.com/track/0GXtn7xnJlySfJJznk800I) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/2jKqk91xmXtQWlPrzI7r3w) | 4:26 | 2025-07-10 | 2025-07-25 |

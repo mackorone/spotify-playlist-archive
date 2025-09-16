@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Douwe Bob & MEAU
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,943 likes - 67 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,950 likes - 67 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nog Even Blijven](https://open.spotify.com/track/3VbpCqh33Dn8in4JC1c46o) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Nog Even Blijven](https://open.spotify.com/album/4cVl4YviVNupCLjdyHCLu6) | 2:50 |
 | 2 | [Kan Je Me Zien](https://open.spotify.com/track/1jKuRFbCCTkzSC119cXcLd) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Kan Je Me Zien](https://open.spotify.com/album/2IZ7K8sB1gKaGkUswemFlU) | 3:27 |
-| 3 | [Praat Te Veel](https://open.spotify.com/track/1U5e0L9t9393QN0FrzPa6h) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Praat Te Veel](https://open.spotify.com/album/5fcW10KqULqNexBgtsehXY) | 2:22 |
-| 4 | [Bij Jou Voel Ik Me Thuis](https://open.spotify.com/track/2zpyzN6xxDwgNVFogR0s63) | [Niels Destadsbader](https://open.spotify.com/artist/4AripACtwIVH69NdCbsJus), [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Bij Jou Voel Ik Me Thuis](https://open.spotify.com/album/6FkGLWXQjDAbOVWfzDEc9l) | 2:49 |
-| 5 | [Hamer op mijn hart](https://open.spotify.com/track/0IH3FMkshOXur7jnTWdbtL) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [Hamer op mijn hart](https://open.spotify.com/album/4HooLHxXVxnri1TcS8jZH2) | 2:53 |
-| 6 | [Buut Vrij](https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Buut Vrij](https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu) | 2:38 |
-| 7 | [Even Niemand Zijn](https://open.spotify.com/track/1rs5Yyk8HExjAy0iRfGsLr) | [Kiya](https://open.spotify.com/artist/5AmyUXItyIVvSaIMO4seW9) | [Even Niemand Zijn](https://open.spotify.com/album/0hwBGKIJrWS6lP1DRN2di5) | 3:01 |
-| 8 | [Begin Opnieuw](https://open.spotify.com/track/3Q9ljh3xWnWJpzGYDY0qfP) | [Bazart](https://open.spotify.com/artist/3kcwSBHk3lMgHMHuxjJLNZ) | [Begin Opnieuw](https://open.spotify.com/album/2JotcPiUL4bSobxOXNJ2xg) | 3:06 |
-| 9 | [Voorbestemd](https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Voorbestemd](https://open.spotify.com/album/06MjGp4d3fO4J2nHM742RK) | 2:58 |
-| 10 | [Overdosis](https://open.spotify.com/track/1PHlNckjnBedkWSNhQ6nvr) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Overdosis](https://open.spotify.com/album/32We7ASDADKiivoG5cJGhL) | 2:30 |
-| 11 | [Nooit Genoeg \(bla bla bla\)](https://open.spotify.com/track/1vynTOF2wevlg9eE0Y06W5) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Nooit Genoeg \(bla bla bla\)](https://open.spotify.com/album/0DntQLCiPu5P9GJQ8gUAxJ) | 2:26 |
-| 12 | [Alles Staat Je](https://open.spotify.com/track/1GF5rnU8BgUqXQ6YILOx6V) | [Hansen Tomas](https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5) | [Alles Staat Je](https://open.spotify.com/album/49cafK4QUkSTYbpiulbLhL) | 2:36 |
+| 3 | [Alles Staat Je](https://open.spotify.com/track/1GF5rnU8BgUqXQ6YILOx6V) | [Hansen Tomas](https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5) | [Alles Staat Je](https://open.spotify.com/album/49cafK4QUkSTYbpiulbLhL) | 2:36 |
+| 4 | [Praat Te Veel](https://open.spotify.com/track/1U5e0L9t9393QN0FrzPa6h) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Praat Te Veel](https://open.spotify.com/album/5fcW10KqULqNexBgtsehXY) | 2:22 |
+| 5 | [Bij Jou Voel Ik Me Thuis](https://open.spotify.com/track/2zpyzN6xxDwgNVFogR0s63) | [Niels Destadsbader](https://open.spotify.com/artist/4AripACtwIVH69NdCbsJus), [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Bij Jou Voel Ik Me Thuis](https://open.spotify.com/album/6FkGLWXQjDAbOVWfzDEc9l) | 2:49 |
+| 6 | [Hamer op mijn hart](https://open.spotify.com/track/0IH3FMkshOXur7jnTWdbtL) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [Hamer op mijn hart](https://open.spotify.com/album/4HooLHxXVxnri1TcS8jZH2) | 2:53 |
+| 7 | [Buut Vrij](https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Buut Vrij](https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu) | 2:38 |
+| 8 | [Even Niemand Zijn](https://open.spotify.com/track/1rs5Yyk8HExjAy0iRfGsLr) | [Kiya](https://open.spotify.com/artist/5AmyUXItyIVvSaIMO4seW9) | [Even Niemand Zijn](https://open.spotify.com/album/0hwBGKIJrWS6lP1DRN2di5) | 3:01 |
+| 9 | [Nooit Genoeg \(bla bla bla\)](https://open.spotify.com/track/1vynTOF2wevlg9eE0Y06W5) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Nooit Genoeg \(bla bla bla\)](https://open.spotify.com/album/0DntQLCiPu5P9GJQ8gUAxJ) | 2:26 |
+| 10 | [Begin Opnieuw](https://open.spotify.com/track/3Q9ljh3xWnWJpzGYDY0qfP) | [Bazart](https://open.spotify.com/artist/3kcwSBHk3lMgHMHuxjJLNZ) | [Begin Opnieuw](https://open.spotify.com/album/2JotcPiUL4bSobxOXNJ2xg) | 3:06 |
+| 11 | [Voorbestemd](https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Voorbestemd](https://open.spotify.com/album/06MjGp4d3fO4J2nHM742RK) | 2:58 |
+| 12 | [Overdosis](https://open.spotify.com/track/1PHlNckjnBedkWSNhQ6nvr) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Overdosis](https://open.spotify.com/album/32We7ASDADKiivoG5cJGhL) | 2:30 |
 | 13 | [Blijf Dan Hier \(feat\. Danique\)](https://open.spotify.com/track/0ZlOCk6sjUpJkMcFNszlmo) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ), [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Blijf Dan Hier \(feat\. Danique\)](https://open.spotify.com/album/5tIDCaNRuNQW39P0hbPUMv) | 2:14 |
 | 14 | [Nachtregen](https://open.spotify.com/track/18P9LX6bCq6wLLH9bqKx10) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Nachtregen](https://open.spotify.com/album/2ziSzJWGO57AZXW05zkOJi) | 3:20 |
 | 15 | [De Lieve Jongen](https://open.spotify.com/track/4abBs6DIk89PJKl3wXOwum) | [MYMI](https://open.spotify.com/artist/0nO0wj4l9DNwoPEqbrPGMp) | [De Lieve Jongen](https://open.spotify.com/album/4ecm0EqGoKQsvdOMe2pwzN) | 3:00 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 66 | [Miljonair](https://open.spotify.com/track/0SJvHaZlRRWFI4UKikZaZn) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Miljonair](https://open.spotify.com/album/2jqgoXgJJ1fVsDr1aaGFdE) | 2:55 |
 | 67 | [Deze Avond!](https://open.spotify.com/track/1JaI4md1z1GSClwSM8nx59) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Deze Avond!](https://open.spotify.com/album/7tycJAQ5061GWLZvYmXsuD) | 2:55 |
 
-Snapshot ID: `AAAAANRymtgkDTOxnLGmCLG6tEz7SsaB`
+Snapshot ID: `AAAAAOy5Brt3uHg/k5T7khjLkQjkyqrb`

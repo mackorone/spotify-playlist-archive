@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,667 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,705 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 53 | [Dawn](https://open.spotify.com/track/5adS6sOA3qKVw5qxhRPowE) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Dawn](https://open.spotify.com/album/0YQeE6phJTbw0RH4xrkZXs) | 4:22 |
 | 54 | [Utopia](https://open.spotify.com/track/6yeXOGFx7lkO6obKWKZP0r) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Serotonin](https://open.spotify.com/album/2yTfM6fWFKAvaUd0gWoJw1) | 3:15 |
 | 55 | [Looks Like I'm Waiting \(Feat\. Afnan Prince\)](https://open.spotify.com/track/51JugfoqOCejQxQA1l3KA2) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [CultureKind](https://open.spotify.com/artist/1YNigXVj4nplsVBqUMbeDK), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Life Through A Different Lens](https://open.spotify.com/album/2zXpavr4cwijBRpdNkXWyw) | 4:11 |
-| 56 | [Protected](https://open.spotify.com/track/1cRRIRrUiPnLOvsnWNhoH9) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Protected](https://open.spotify.com/album/4MOIA5rcy0XfN7kRWmSukG) | 4:00 |
-| 57 | [Feel This Way](https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv) | [MOTSA](https://open.spotify.com/artist/2fyuHXew1I5FJDAQdbCYXP), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Feel This Way](https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo) | 3:57 |
+| 56 | [Feel This Way](https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv) | [MOTSA](https://open.spotify.com/artist/2fyuHXew1I5FJDAQdbCYXP), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Feel This Way](https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo) | 3:57 |
+| 57 | [Protected](https://open.spotify.com/track/1cRRIRrUiPnLOvsnWNhoH9) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Protected](https://open.spotify.com/album/4MOIA5rcy0XfN7kRWmSukG) | 4:00 |
 | 58 | [The Underground](https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Tom Diesel](https://open.spotify.com/artist/7rolJUC0OEHjIesmKcAGKX) | [The Underground](https://open.spotify.com/album/1EVXcljYwqRs05PCzODyWB) | 3:26 |
 | 59 | [Burn](https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk) | 3:04 |
-| 60 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 |
+| 60 | [Lifetime](https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL) | [J Ribbon](https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk) | [Lifetime](https://open.spotify.com/album/3YYhyx9KGWk1wPwU01tbdW) | 3:05 |
 
 Snapshot ID: `AAAAAPy1mx0L5ZMMlnU1tEtc64GYVqzf`

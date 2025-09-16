@@ -1,6 +1,6 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 355498,
+  "num_followers": 355554,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
+        "name": "Amanecida Con Todo Y Con Todos",
+        "url": "https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 215882,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/64iXvXF27Kf02B2Q6Wdr9N"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
         "name": "10 A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/4D3w10tAtPiZ0MtJTP9pt9"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 159493,
       "name": "Ya Lo Pasado Pasado (En Vivo) - En el Palacio de Bellas Artes",
       "url": "https://open.spotify.com/track/7bAZfbX3ElF6b3deYNBKlF"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "Amanecida Con Todo Y Con Todos",
-        "url": "https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 215882,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/64iXvXF27Kf02B2Q6Wdr9N"
     },
     {
       "added_at": "2024-07-02 23:46:15",

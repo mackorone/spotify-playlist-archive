@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Freddie Gibbs & The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,582,748 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,582,674 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 29 | [Die Together](https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:44 |
 | 30 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 |
 | 31 | [User Guide](https://open.spotify.com/track/27JAvIc1hxDugIP0Q0wnaq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [W!LD](https://open.spotify.com/album/1gFQ6dGFvpDsHmnr4bPbTV) | 2:01 |
-| 32 | [Summer '25](https://open.spotify.com/track/75YrOesTP7LR2NxNrKDH7h) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Summer '25](https://open.spotify.com/album/4Z5Q79bhK7ViROrUyrhZgk) | 2:19 |
-| 33 | [LLC](https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:18 |
+| 32 | [LLC](https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:18 |
+| 33 | [Summer '25](https://open.spotify.com/track/75YrOesTP7LR2NxNrKDH7h) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Summer '25](https://open.spotify.com/album/4Z5Q79bhK7ViROrUyrhZgk) | 2:19 |
 | 34 | [Rap Kingpin](https://open.spotify.com/track/16DbwT7RexA23Q8uVtmjGI) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Rap Kingpin](https://open.spotify.com/album/0pp3BsWWuOoI20DMHgTH7V) | 2:44 |
 | 35 | [Bear Hill](https://open.spotify.com/track/5CKlHD7oT40Z793Ykppbfn) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [The Emperor's New Clothes](https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck) | 2:24 |
 | 36 | [EINSTEIN KITCHEN](https://open.spotify.com/track/6dA7M8QPaOH5nvsH1qf5DF) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [HEELS HAVE EYES](https://open.spotify.com/album/1T5LMO1wKzfY6oCdiQRpr3) | 1:22 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 46 | [055](https://open.spotify.com/track/4fPRdyZTAJxZS3m3UKm8zR) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [12](https://open.spotify.com/album/3LtZUOfccDjNs18684twS8) | 4:03 |
 | 47 | [MICHIGAN](https://open.spotify.com/track/6k1cc8PaQCA0HUVImhYBcn) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [MICHIGAN](https://open.spotify.com/album/1Tju3BMSIKB61FBSZWM5n7) | 2:57 |
 | 48 | [Bad Choices](https://open.spotify.com/track/7bFXjldFpiHnXqM38oSi50) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Bad Choices](https://open.spotify.com/album/4X6ifMiovznIkvjZ4Ti98g) | 3:04 |
-| 49 | [World Gone Mad](https://open.spotify.com/track/1U1CADbCm9OBjikOFHXXqL) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [Graymatter](https://open.spotify.com/artist/79sVZ1pbm24IZ9GbbCWlLv) | [WORLD GONE MAD](https://open.spotify.com/album/3U5SXb7g5qciMdge81y6yZ) | 2:30 |
-| 50 | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/track/44BRidSOFkXcKH3oZzHKdR) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 3:33 |
+| 49 | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/track/44BRidSOFkXcKH3oZzHKdR) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 3:33 |
+| 50 | [World Gone Mad](https://open.spotify.com/track/1U1CADbCm9OBjikOFHXXqL) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [Graymatter](https://open.spotify.com/artist/79sVZ1pbm24IZ9GbbCWlLv) | [WORLD GONE MAD](https://open.spotify.com/album/3U5SXb7g5qciMdge81y6yZ) | 2:30 |
 
 Snapshot ID: `AAAAACs0xet+glzaG2jQvTzboyht7pUI`

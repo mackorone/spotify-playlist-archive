@@ -1,6 +1,6 @@
 {
   "description": "The sound of Summer 2025! ",
-  "num_followers": 123484,
+  "num_followers": 123485,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-12-16 03:00:18",
       "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 198448,
-      "name": "Got Me Started",
-      "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
-    },
-    {
-      "added_at": "2024-12-16 03:00:18",
-      "album": {
         "name": "Me & U",
         "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
       },
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2024-12-16 03:00:18",
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 198448,
+      "name": "Got Me Started",
+      "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
+    },
+    {
+      "added_at": "2024-12-16 03:00:18",
+      "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/6WWmYtlj6smtLFnfUf0Xny"
       },
@@ -1059,18 +1059,22 @@
     {
       "added_at": "2024-12-16 03:00:18",
       "album": {
-        "name": "Inhale / Exhale",
-        "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
+        "name": "Neverender",
+        "url": "https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 236080,
-      "name": "Music is Better",
-      "url": "https://open.spotify.com/track/4NlxBNd38G9nXjCVrbBYre"
+      "duration_ms": 266493,
+      "name": "Neverender",
+      "url": "https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj"
     }
   ],
   "unique_name": "Summer Hits",

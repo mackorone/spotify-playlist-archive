@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,150 likes - 276 songs - 14 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,148 likes - 276 songs - 14 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 56 | [See Them A Come](https://open.spotify.com/track/1UDd9KiROrar9stu4qSXqo) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Two Sevens Clash](https://open.spotify.com/album/2xP6fksOqdajg0gha4TeqH) | 3:20 |
 | 57 | [Josie](https://open.spotify.com/track/1o1d0VwFhCaYN0LcukppPt) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [What's Bin Did and What's Bin Hid](https://open.spotify.com/album/627n67TYQ6bIijcrkD7V7Y) | 3:25 |
 | 58 | [Don't Ever Take Her For Granted](https://open.spotify.com/track/4qxdMUUt6w1Eh4J5epKYJA) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Essential Bobby Vee](https://open.spotify.com/album/4pUfjuVHUx9UpYMpgRlMgk) | 3:06 |
-| 59 | [Lush Life](https://open.spotify.com/track/7ls9IFeCDuAdOcBKosMxyK) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:46 |
-| 60 | [The Best Is Yet to Come \(feat\. Clay Finnesand\)](https://open.spotify.com/track/3cPFQk1FXSpSF40VQlvR5R) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Clay Finnesand](https://open.spotify.com/artist/1nfsteEnDvYQUoFNJtsiM4) | [Abundantly More](https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke) | 3:05 |
+| 59 | [The Best Is Yet to Come \(feat\. Clay Finnesand\)](https://open.spotify.com/track/3cPFQk1FXSpSF40VQlvR5R) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Clay Finnesand](https://open.spotify.com/artist/1nfsteEnDvYQUoFNJtsiM4) | [Abundantly More](https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke) | 3:05 |
+| 60 | [Lush Life](https://open.spotify.com/track/7ls9IFeCDuAdOcBKosMxyK) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:46 |
 | 61 | [Peace In the Valley](https://open.spotify.com/track/12BUnLZGAUBJ0KoZDaDFz7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:21 |
 | 62 | [Brother, Brother](https://open.spotify.com/track/1TsajzaE7CbCxT3BmYJ5lk) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:58 |
 | 63 | [Come Down Easy](https://open.spotify.com/track/4WhYHtwrNzjloBMdLOeK4o) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:05 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 275 | [It's A Crazy Afternoon](https://open.spotify.com/track/3HR8V9vdhRYdRXg9dlGRQw) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [Something's Burning](https://open.spotify.com/album/4DVJF6FAjpGPMMWJroujUX) | 1:57 |
 | 276 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `Ab8PCAAAAABP5VfcyxYikP6il1ngjYEJ`
+Snapshot ID: `Ab8UvAAAAAA+/pR5wQ/FbnwivbsgFyef`

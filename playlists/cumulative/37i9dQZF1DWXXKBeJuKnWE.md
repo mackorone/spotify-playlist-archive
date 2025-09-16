@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Poppy, Amy Lee, Courtney LaPlante
 
-623 songs - 1 day 13 hr 19 min
+624 songs - 1 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Blood Red](https://open.spotify.com/track/4AnKuPB7x38JYmx2kTod9o) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Blood Red](https://open.spotify.com/album/6LvwGtZQBIgivk0qOXCrEu) | 3:29 | 2025-02-21 | 2025-09-12 |
 | [BLOODPUDDLE](https://open.spotify.com/track/4cbmaakH3pHNNBn4oYhxgO) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [BLOODPUDDLE](https://open.spotify.com/album/1ECcVLJb9ksKW15h4Slulo) | 1:54 | 2023-07-25 | 2023-12-03 |
 | [Bloodshot](https://open.spotify.com/track/0eyaXlEiQOmUyQo0PC0PpT) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Bloodshot](https://open.spotify.com/album/2ZGm33efqRup92vVIxh1kw) | 3:24 | 2023-03-17 | 2023-03-25 |
+| [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 | 2025-09-11 |  |
 | [Bloodsuckers](https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [BLOODSUCKERS](https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb) | 3:22 | 2023-07-25 | 2025-09-12 |
 | [Bloody Knuckles](https://open.spotify.com/track/1cAmibBZfF14IvY7MA0lDA) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Complete Collapse](https://open.spotify.com/album/1gWJtOk76VzVKiIKp1cCtd) | 3:27 | 2022-11-10 | 2023-02-20 |
 | [Blossom](https://open.spotify.com/track/2Wq4wVXPnJYaK214y26y1H) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Blossom](https://open.spotify.com/album/7nQPjvGZUoGPDmOkpHYO9H) | 2:58 | 2022-11-26 | 2023-01-20 |
@@ -400,7 +401,7 @@
 | [No Shame](https://open.spotify.com/track/7tEOucZMfYd1hnW1lN8dMd) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Whatever The Weather](https://open.spotify.com/album/4AGDYW1rAzimrnrahLHF6p) | 2:48 | 2024-10-04 | 2025-09-12 |
 | [Not Hell, Not Heaven](https://open.spotify.com/track/4Ce8dTj67I9SbiSf7QPno2) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Not Hell, Not Heaven](https://open.spotify.com/album/5iMnk7ccwBlI3EKlKmEDBU) | 3:01 | 2025-02-07 | 2025-09-12 |
 | [Notion](https://open.spotify.com/track/5fnVNZotDRjpyoDohip3r9) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Notion](https://open.spotify.com/album/0Q3VYGJreWH7MNNZU1tbpo) | 3:15 | 2024-09-20 | 2025-09-12 |
-| [Novocaine](https://open.spotify.com/track/7ylI3Csj3EG4HPVf11L2jz) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Novocaine](https://open.spotify.com/album/7dMhiwQNwLVNmqUdRCQ8My) | 4:55 | 2024-03-08 |  |
+| [Novocaine](https://open.spotify.com/track/7ylI3Csj3EG4HPVf11L2jz) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Novocaine](https://open.spotify.com/album/7dMhiwQNwLVNmqUdRCQ8My) | 4:55 | 2024-03-08 | 2025-09-16 |
 | [Nuclear Boy Scout](https://open.spotify.com/track/4MarIUdPF8riTeoEi00xao) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Nuclear Boy Scout](https://open.spotify.com/album/2lmSKXcV1MkDYaKli47ICz) | 3:39 | 2024-03-08 | 2025-09-12 |
 | [Numb](https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Numb](https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI) | 2:54 | 2023-05-11 | 2025-09-12 |
 | [Of Her](https://open.spotify.com/track/2415zlo33NvXzYSZEH61s5) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 1:33 | 2025-09-01 | 2025-09-12 |

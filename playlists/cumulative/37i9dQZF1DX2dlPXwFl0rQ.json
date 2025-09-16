@@ -281,6 +281,28 @@
     },
     {
       "album": {
+        "name": "Ahora Te Llamas Ex",
+        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
+      },
+      "artists": [
+        {
+          "name": "Estibaliz Badiola",
+          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149835,
+      "name": "Ahora Te Llamas Ex",
+      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
+    },
+    {
+      "album": {
         "name": "Ahora Va la M\u00eda",
         "url": "https://open.spotify.com/album/659ZgUGvjwyo9Yt4KOiyFm"
       },
@@ -5300,7 +5322,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 177000,
       "name": "NADIE TE NECESITA",
       "url": "https://open.spotify.com/track/2MQd8ifA2TMa0YoRJSKQo9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Gerson Rufino
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,950 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,996 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 40 | [Mais que Vencedor \(feat\. Carlos Henrique\)](https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw) | [Kleuder Leão](https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk), [Carlos Henrique](https://open.spotify.com/artist/3QlHTFeE4uEB4zLEv9gy4r) | [Mais que Vencedor \(feat\. Carlos Henrique\)](https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73) | 3:35 |
 | 41 | [O Pródigo Vai Voltar](https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Triunfo de Glória](https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH) | 5:36 |
 | 42 | [De Volta à Inocência](https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [De Volta à Inocência](https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf) | 4:48 |
-| 43 | [A Terra e o Lavrador](https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Terra e o Lavrador](https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb) | 3:20 |
+| 43 | [Lugar Secreto](https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT) | [Lucélia Santos](https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV) | [Lugar Secreto](https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk) | 3:46 |
 | 44 | [A Resposta É Deus](https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [A Resposta É Deus](https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE) | 4:16 |
-| 45 | [Lugar Secreto](https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT) | [Lucélia Santos](https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV) | [Lugar Secreto](https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk) | 3:46 |
+| 45 | [A Terra e o Lavrador](https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Terra e o Lavrador](https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb) | 3:20 |
 | 46 | [Vencer É Preciso \- Voz e Violão](https://open.spotify.com/track/5xGiqpFqj8iM9d7rEEAWHE) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Voz e Violão \- Parte 1](https://open.spotify.com/album/6pwnl7jg7ZAnXF1PuD8I2c) | 4:55 |
 | 47 | [Amar É Fácil](https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU) | [Lenno Maia](https://open.spotify.com/artist/7h4qSS1HJt6i1Fws0qInTx) | [Amar É Fácil](https://open.spotify.com/album/3wcYcruIxHI6xfQcVqiTo8) | 4:37 |
 | 48 | [Assim Como Deus Quer](https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Assim Como Deus Quer](https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD) | 2:43 |

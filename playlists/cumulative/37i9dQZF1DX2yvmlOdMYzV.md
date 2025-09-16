@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-1,034 songs - 2 day 8 hr 23 min
+1,035 songs - 2 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Drifty](https://open.spotify.com/track/3dJSC3yIV69Afxvme5qf5d) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Demos](https://open.spotify.com/album/2HatDWFqyd2cFNHX7wX7Yp) | 3:57 | 2021-12-15 | 2023-02-13 |
 | [Dripping](https://open.spotify.com/track/3Gjx7TOIYZkO9X8HoikLgy) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [A Sky Without Stars](https://open.spotify.com/album/3QIrrLWq2wnMdScMx1YXeS) | 3:56 | 2023-09-22 | 2025-09-08 |
 | [Driving Me Wild](https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Driving Me Wild](https://open.spotify.com/album/2sClfYTlQ4XeDKox9QCVxG) | 3:02 | 2025-06-06 |  |
+| [Drop In](https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [Drop In](https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3) | 3:26 | 2023-09-15 |  |
 | [Drowning](https://open.spotify.com/track/6ra4QCibGRwecj33rpqTIo) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Drowning](https://open.spotify.com/album/46YjmtyJkwVGMjTqDo09ZE) | 2:36 | 2025-01-24 |  |
 | [Drream](https://open.spotify.com/track/0Sfjn8R8lvJwB4xjPAA2MU) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx), [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR) | [Drream](https://open.spotify.com/album/3LTsCYKj2YIWrlq5GiZ2dy) | 3:10 | 2023-08-25 | 2024-06-16 |
 | [Drunk AF](https://open.spotify.com/track/1syXzcic9jT7Vqq0i17pLt) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [They Cloned Tyrone \(Music from and Inspired by the Netflix Film\)](https://open.spotify.com/album/7DQGbVYleJAOwg9ETfeBZA) | 2:34 | 2023-07-28 | 2023-08-03 |
@@ -1001,7 +1002,7 @@
 | [What's Luv?](https://open.spotify.com/track/6ZVaa16xlSrloQhYPV63BW) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [What's Luv?](https://open.spotify.com/album/6C2yR407il1fwIhy3P5iPp) | 2:46 | 2024-01-12 | 2024-04-21 |
 | [When I Close My Eyes](https://open.spotify.com/track/4EkDdsHltvCs1qVsF8XKNO) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [When I Close My Eyes](https://open.spotify.com/album/02uOI0VExcmWzc3R2Y4jjT) | 3:52 | 2025-03-07 | 2025-06-04 |
 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 | 2023-01-27 | 2023-08-12 |
-| [When It Comes Together](https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [When It Comes Together](https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic) | 3:08 | 2024-06-28 |  |
+| [When It Comes Together](https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [When It Comes Together](https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic) | 3:08 | 2024-06-28 | 2025-09-16 |
 | [When Was It Over](https://open.spotify.com/track/5G3AAgHRIuoyQyjMKawD9X) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Beautiful Pain](https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk) | 5:00 | 2024-08-30 | 2024-10-18 |
 | [When You're Around](https://open.spotify.com/track/32RZgcuKaGBZeSZFCjqekc) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz), [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [When You're Around](https://open.spotify.com/album/3RIGb42y1erPlKLH1qcSec) | 3:17 | 2024-09-06 |  |
 | [When You're Lonely](https://open.spotify.com/track/0cGzG9CFE3l6HygfUzr6Uo) | [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [Son of Zeus](https://open.spotify.com/album/6GhXHLKieoeh9LHLsBrDeN) | 2:36 | 2024-03-08 | 2025-02-05 |

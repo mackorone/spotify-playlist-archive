@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Cheluis
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,941 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,957 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 49 | [Travesuras Contigo](https://open.spotify.com/track/3IRYCsGqM18nICfoWXRkuQ) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Travesuras Contigo](https://open.spotify.com/album/1uWnroRrAL8nzS3dSiyQsA) | 2:50 |
 | 50 | [EN ALTAVOZ](https://open.spotify.com/track/0YpYqtnjIWYR516n46of97) | [Cheluis](https://open.spotify.com/artist/08EHv9ysRhyjFxU8woWkRh) | [Por Amores No Lloro](https://open.spotify.com/album/25Du1tvxBaNnYfNLGKGvw6) | 2:57 |
 
-Snapshot ID: `AAAAAHHShPtVcFAslnHVAM3i2yQQoAIZ`
+Snapshot ID: `AAAAAPxYX8/V18p6pTQfkuVnZxxs6dtj`

@@ -4,11 +4,11 @@
 
 > Unearth the year's most exciting rock and alternative hidden gems\. Cover: Chloe Slater
 
-96 songs - 5 hr 27 min
+97 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [0%](https://open.spotify.com/track/5On63WZYDvgFsRA5jPTEo9) | [Hello Mary](https://open.spotify.com/artist/6kgB8Ix1GHS4t8OWmsMDGn) | [Emita Ox](https://open.spotify.com/album/13eIbvtsIMuTfvN7v3nK4X) | 2:56 | 2024-12-04 |  |
+| [0%](https://open.spotify.com/track/5On63WZYDvgFsRA5jPTEo9) | [Hello Mary](https://open.spotify.com/artist/6kgB8Ix1GHS4t8OWmsMDGn) | [Emita Ox](https://open.spotify.com/album/13eIbvtsIMuTfvN7v3nK4X) | 2:56 | 2024-12-04 | 2025-09-16 |
 | [Adoringly Drunk](https://open.spotify.com/track/14cTaKkjwvw9nZFk7DC1UX) | [The Criticals](https://open.spotify.com/artist/6ArhcOX0zzUe8GDzLTgBrK) | [Adoringly Drunk](https://open.spotify.com/album/32xqQUt1BvPqxRjjdjts7C) | 3:05 | 2024-12-04 |  |
 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 | 2024-12-04 |  |
 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 | 2024-12-04 |  |
@@ -45,6 +45,7 @@
 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 | 2024-12-04 |  |
 | [Giant's Despair](https://open.spotify.com/track/6ZM932VVT6gSgo2ATdtt4i) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [All You Embrace](https://open.spotify.com/album/5fXeDBzHjkgwYod1kt4EUL) | 3:40 | 2024-12-04 |  |
 | [Heaven](https://open.spotify.com/track/4tgikaa2iJTVUreVxW2Us6) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Heaven](https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP) | 3:10 | 2024-12-04 |  |
+| [Heavy Pour](https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:50 | 2024-12-04 |  |
 | [High On My Lows](https://open.spotify.com/track/1kCJ1s8wtiXF3OK3dwQIcG) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [High On My Lows](https://open.spotify.com/album/0hMq2OW2LKUNWGcM1p5VeP) | 2:58 | 2024-12-04 |  |
 | [Hold On](https://open.spotify.com/track/485LquEiV7XRBU98FgvSbn) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Hold On](https://open.spotify.com/album/6tnu2poBfIsL28fb4KK9KX) | 3:10 | 2024-12-04 | 2024-12-23 |
 | [Hurts Like Hell](https://open.spotify.com/track/4DmXWoFYEsBtwSSJe1wkGe) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Hurts Like Hell](https://open.spotify.com/album/4DWR9YrTgCNBma8yC6L6Ie) | 3:41 | 2024-12-04 | 2025-02-03 |

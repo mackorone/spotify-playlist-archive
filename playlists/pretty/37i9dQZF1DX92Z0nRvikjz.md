@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92Z0nRvikjz.md) - [plain]
 
 > 他們把音樂給了世界、溫柔給了我們。所有的喜怒哀樂，仍然都會是五月天。
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,990 likes - 42 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,008 likes - 41 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92Z0nRvikjz.md) - [plain]
 | 38 | [OAOA（現在就是永遠）](https://open.spotify.com/track/5oTA7Oa9jJXV3JF0OEXUfo) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [第二人生 NOW HERE 明日版](https://open.spotify.com/album/6SDqVCvBMsmIDl12WLqCWp) | 4:42 |
 | 39 | [頑固](https://open.spotify.com/track/0B2odvEgW0NHtoYuByRPcR) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [自傳](https://open.spotify.com/album/42Xl2upzvVz7di36YN1ZqB) | 4:24 |
 | 40 | [如煙](https://open.spotify.com/track/5S2B7hbFwBPuC9IQDQ4sYm) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [五月天 \| 步步 \| 自選作品輯 the Best of 1999\-2013](https://open.spotify.com/album/7wBtSo4fwzyPNQM1ipx6JR) | 5:13 |
-| 41 | [轉眼](https://open.spotify.com/track/67CKNH2lWb078HubZ93r0F) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [自傳](https://open.spotify.com/album/42Xl2upzvVz7di36YN1ZqB) | 6:06 |
-| 42 | [最重要的小事](https://open.spotify.com/track/73acY3QjECBG2M6BfkOiem) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [五月天 \| 步步 \| 自選作品輯 the Best of 1999\-2013](https://open.spotify.com/album/7wBtSo4fwzyPNQM1ipx6JR) | 4:48 |
+| 41 | [最重要的小事](https://open.spotify.com/track/73acY3QjECBG2M6BfkOiem) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [五月天 \| 步步 \| 自選作品輯 the Best of 1999\-2013](https://open.spotify.com/album/7wBtSo4fwzyPNQM1ipx6JR) | 4:48 |
 
-Snapshot ID: `AAAAAAN6HoRyRy1ufDJ2dk55+lAvkZeX`
+Snapshot ID: `AAAAAEE99rjqCGalMqho/ytKM0vKHGD1`

@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 8946,
+  "num_followers": 8948,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAACBM936m+GcXyVXjiWXSbK6",
+  "snapshot_id": "aMYFgAAAAADZBgtb2J0XaL+TLhtAomrq",
   "tracks": [
     {
       "added_at": null,
@@ -262,19 +262,11 @@
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        },
-        {
-          "name": "Brendan Murphy",
-          "url": "https://open.spotify.com/artist/7CbcN4VBt2aG1NzFlB8uJE"
-        },
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
         }
       ],
-      "duration_ms": 172560,
-      "name": "Constant Dread",
-      "url": "https://open.spotify.com/track/3IyhY55cr7wlxkVgLl1HCT"
+      "duration_ms": 191585,
+      "name": "The Rain Just Follows Me",
+      "url": "https://open.spotify.com/track/5I4ATfw1W2dvK3d9Kam4El"
     },
     {
       "added_at": null,
@@ -334,11 +326,19 @@
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        },
+        {
+          "name": "Brendan Murphy",
+          "url": "https://open.spotify.com/artist/7CbcN4VBt2aG1NzFlB8uJE"
+        },
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
         }
       ],
-      "duration_ms": 191585,
-      "name": "The Rain Just Follows Me",
-      "url": "https://open.spotify.com/track/5I4ATfw1W2dvK3d9Kam4El"
+      "duration_ms": 172560,
+      "name": "Constant Dread",
+      "url": "https://open.spotify.com/track/3IyhY55cr7wlxkVgLl1HCT"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Will Follow You into the Dark / Cinco De Mayo Shit Show",
+        "url": "https://open.spotify.com/album/0zqnHcHf2juzSYudfZJe7I"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 199753,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
       },
@@ -407,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Will Follow You into the Dark / Cinco De Mayo Shit Show",
-        "url": "https://open.spotify.com/album/0zqnHcHf2juzSYudfZJe7I"
+        "name": "The Rain Just Follows Me",
+        "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
       },
       "artists": [
         {
@@ -416,9 +432,25 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 199753,
-      "name": "I Will Follow You into the Dark",
-      "url": "https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH"
+      "duration_ms": 245302,
+      "name": "Tired and Alone",
+      "url": "https://open.spotify.com/track/4QWgINy84BQ3OAk9vgAVNU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "Bring You Back",
+      "url": "https://open.spotify.com/track/4sKW67AcIqF83EXXNhkjyy"
     },
     {
       "added_at": null,
@@ -439,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
       },
       "artists": [
         {
@@ -448,9 +480,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 202346,
-      "name": "Bring You Back",
-      "url": "https://open.spotify.com/track/4sKW67AcIqF83EXXNhkjyy"
+      "duration_ms": 201414,
+      "name": "Tail Lights",
+      "url": "https://open.spotify.com/track/1wLyxJA73dEPitzJFtY0pd"
     },
     {
       "added_at": null,
@@ -478,43 +510,15 @@
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 245302,
-      "name": "Tired and Alone",
-      "url": "https://open.spotify.com/track/4QWgINy84BQ3OAk9vgAVNU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
-      },
-      "artists": [
+        },
         {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+          "name": "Anthony Raneri",
+          "url": "https://open.spotify.com/artist/2u1ZGZ0hhd48oZoiJ0MCoj"
         }
       ],
-      "duration_ms": 201414,
-      "name": "Tail Lights",
-      "url": "https://open.spotify.com/track/1wLyxJA73dEPitzJFtY0pd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Frequencies",
-        "url": "https://open.spotify.com/album/1Nlnc7r6wgmpnUFKQ9gEAf"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 185250,
-      "name": "Just Another Ghost",
-      "url": "https://open.spotify.com/track/7rgmDxJcV3ZsouQdBLUIB4"
+      "duration_ms": 198066,
+      "name": "Spray Paint It Black",
+      "url": "https://open.spotify.com/track/24XKYC05n4pfwC8x9HxxCB"
     },
     {
       "added_at": null,
@@ -535,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rain Just Follows Me",
-        "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
+        "name": "Bad Frequencies",
+        "url": "https://open.spotify.com/album/1Nlnc7r6wgmpnUFKQ9gEAf"
       },
       "artists": [
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        },
-        {
-          "name": "Anthony Raneri",
-          "url": "https://open.spotify.com/artist/2u1ZGZ0hhd48oZoiJ0MCoj"
         }
       ],
-      "duration_ms": 198066,
-      "name": "Spray Paint It Black",
-      "url": "https://open.spotify.com/track/24XKYC05n4pfwC8x9HxxCB"
+      "duration_ms": 185250,
+      "name": "Just Another Ghost",
+      "url": "https://open.spotify.com/track/7rgmDxJcV3ZsouQdBLUIB4"
     },
     {
       "added_at": null,
@@ -567,38 +567,6 @@
       "duration_ms": 205229,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/766h2nBdhksrA8IRkR4Tgd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 186653,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fragile Future",
-        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 220200,
-      "name": "321.",
-      "url": "https://open.spotify.com/track/3owaeMLD1YICiGMAzWJSak"
     },
     {
       "added_at": null,
@@ -635,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 186653,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lost Frequencies",
         "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
       },
@@ -644,25 +628,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 217113,
-      "name": "Pet Sematary",
-      "url": "https://open.spotify.com/track/2JSJ8qYk6Kvzmb87pTRsjn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 289316,
-      "name": "Bury My Bones at Crystal Cove",
-      "url": "https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x"
+      "duration_ms": 180093,
+      "name": "So Hopelessly",
+      "url": "https://open.spotify.com/track/3rdiIX9ZHQ3PcxWcmCl8Zz"
     },
     {
       "added_at": null,
@@ -703,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 289316,
+      "name": "Bury My Bones at Crystal Cove",
+      "url": "https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lost Frequencies",
         "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
       },
@@ -712,25 +696,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 180093,
-      "name": "So Hopelessly",
-      "url": "https://open.spotify.com/track/3rdiIX9ZHQ3PcxWcmCl8Zz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 166213,
-      "name": "Hollywood & Vine",
-      "url": "https://open.spotify.com/track/0jK7tJvPWzdG73hnSnQweF"
+      "duration_ms": 217113,
+      "name": "Pet Sematary",
+      "url": "https://open.spotify.com/track/2JSJ8qYk6Kvzmb87pTRsjn"
     },
     {
       "added_at": null,
@@ -751,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucerne Valley",
-        "url": "https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy"
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
       },
       "artists": [
         {
@@ -760,9 +728,25 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 207899,
-      "name": "Lucerne Valley",
-      "url": "https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF"
+      "duration_ms": 166213,
+      "name": "Hollywood & Vine",
+      "url": "https://open.spotify.com/track/0jK7tJvPWzdG73hnSnQweF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fragile Future",
+        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 220200,
+      "name": "321.",
+      "url": "https://open.spotify.com/track/3owaeMLD1YICiGMAzWJSak"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 152346,
       "name": "The Girl That Destroyed Me",
       "url": "https://open.spotify.com/track/358p1DPqhRm4ttRbyua9DX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lucerne Valley",
+        "url": "https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 207899,
+      "name": "Lucerne Valley",
+      "url": "https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF"
     },
     {
       "added_at": null,
@@ -823,18 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+        "name": "Nine Reasons To Say Goodbye",
+        "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
       },
       "artists": [
+        {
+          "name": "A Day In The Life",
+          "url": "https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr"
+        },
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 162160,
-      "name": "Abandoned Driveways",
-      "url": "https://open.spotify.com/track/0PBhQRL2CdOZhBgIL3dzqK"
+      "duration_ms": 133440,
+      "name": "Control Alt Delete",
+      "url": "https://open.spotify.com/track/74a24lwWJ7buVc5su1gGUT"
     }
   ],
   "unique_name": "This Is Hawthorne Heights",

@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6hRfwgVwKK815NQzfTzt2m"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216992,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/6Ko5US40P263KBvES0HAdJ"
+    },
+    {
+      "album": {
         "name": "Als Is Okay",
         "url": "https://open.spotify.com/album/1V7vyyFiCCPYav5PHinkNb"
       },
@@ -828,7 +846,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 176750,
       "name": "Buffel Van Buffelsfontein",
       "url": "https://open.spotify.com/track/5GJpKxfcdkXtZvC62fPLXU"

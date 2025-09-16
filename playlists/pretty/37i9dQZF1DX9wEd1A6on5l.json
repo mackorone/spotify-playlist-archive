@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 101376,
+  "num_followers": 101472,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
+        "name": "WHY LOVE",
+        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "WHY LOVE",
+      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
         "name": "TaTaTa (feat. Travis Scott)",
         "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 150651,
       "name": "TaTaTa (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
-        "name": "WHY LOVE",
-        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "WHY LOVE",
-      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "All The Love",
-        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 188127,
-      "name": "All The Love",
-      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
         "name": "Escaladizzy",
         "url": "https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 164745,
       "name": "Escaladizzy",
       "url": "https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
+        "name": "All The Love",
+        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "All The Love",
+      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "Loyal",
-        "url": "https://open.spotify.com/album/4gYliBmMW5PvtrRbOn5Ish"
-      },
-      "artists": [
-        {
-          "name": "Chella",
-          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
-        }
-      ],
-      "duration_ms": 160134,
-      "name": "Loyal",
-      "url": "https://open.spotify.com/track/01pAPjpO2BBDAWG4yGs6uA"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
         "name": "My Amigo",
         "url": "https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 160043,
       "name": "My Amigo",
       "url": "https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
+        "name": "Loyal",
+        "url": "https://open.spotify.com/album/4gYliBmMW5PvtrRbOn5Ish"
+      },
+      "artists": [
+        {
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+        }
+      ],
+      "duration_ms": 160134,
+      "name": "Loyal",
+      "url": "https://open.spotify.com/track/01pAPjpO2BBDAWG4yGs6uA"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -823,6 +823,30 @@
       "duration_ms": 124354,
       "name": "Girl on Fya",
       "url": "https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/7huXtUw0I2ftTQLFNMEYWL"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 182142,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/48fNM8TUHTZbndUYoWnEUy"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -871,26 +895,18 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "Bobo",
-        "url": "https://open.spotify.com/album/7huXtUw0I2ftTQLFNMEYWL"
+        "name": "Cartoon",
+        "url": "https://open.spotify.com/album/5KPfaqMCwyBBe783158gWe"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
         }
       ],
-      "duration_ms": 182142,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/48fNM8TUHTZbndUYoWnEUy"
+      "duration_ms": 163520,
+      "name": "Cartoon",
+      "url": "https://open.spotify.com/track/2oFL8pXqAbtfncsBauFmAI"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -923,22 +939,6 @@
       "duration_ms": 153026,
       "name": "Bend",
       "url": "https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
-        "name": "Cartoon",
-        "url": "https://open.spotify.com/album/5KPfaqMCwyBBe783158gWe"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 163520,
-      "name": "Cartoon",
-      "url": "https://open.spotify.com/track/2oFL8pXqAbtfncsBauFmAI"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "Go Crazy",
-        "url": "https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 134237,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
         "name": "Ukanigbe",
         "url": "https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 169299,
       "name": "Tumo Weto",
       "url": "https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
+        "name": "Go Crazy",
+        "url": "https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "Happy Day",
-        "url": "https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 165063,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
         "name": "UNLIMITED",
         "url": "https://open.spotify.com/album/6FvHEmAaSR9mgfQVC0XpZm"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 126951,
       "name": "UNLIMITED",
       "url": "https://open.spotify.com/track/5Qt3tb5U0VvYbiQXW8SID9"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
+        "name": "Happy Day",
+        "url": "https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 165063,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "HIGH STAR",
-        "url": "https://open.spotify.com/album/1UE4Fy6qYCLqbM4Lz1Kf95"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "HIGH STAR",
-      "url": "https://open.spotify.com/track/0lDF1W7GchI8tKq6GCfdUE"
-    },
-    {
-      "added_at": "2025-09-05 00:01:30",
-      "album": {
         "name": "FOR YOU",
         "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
       },
@@ -1455,22 +1439,18 @@
     {
       "added_at": "2025-09-05 00:01:30",
       "album": {
-        "name": "For Where?",
-        "url": "https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK"
+        "name": "HIGH STAR",
+        "url": "https://open.spotify.com/album/1UE4Fy6qYCLqbM4Lz1Kf95"
       },
       "artists": [
         {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        },
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
         }
       ],
-      "duration_ms": 113454,
-      "name": "For Where?",
-      "url": "https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX"
+      "duration_ms": 139636,
+      "name": "HIGH STAR",
+      "url": "https://open.spotify.com/track/0lDF1W7GchI8tKq6GCfdUE"
     },
     {
       "added_at": "2025-09-05 00:01:30",
@@ -1499,6 +1479,26 @@
       "duration_ms": 192028,
       "name": "Anytime (feat. Ayo Maff)",
       "url": "https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a"
+    },
+    {
+      "added_at": "2025-09-05 00:01:30",
+      "album": {
+        "name": "For Where?",
+        "url": "https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 113454,
+      "name": "For Where?",
+      "url": "https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX"
     },
     {
       "added_at": "2025-09-05 00:01:30",

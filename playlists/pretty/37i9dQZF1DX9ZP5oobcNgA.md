@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 
 > Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,223 likes - 61 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,261 likes - 61 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 | 60 | [Ode for St\. Cecilia's Day, HWV 76: Overture](https://open.spotify.com/track/0mloLmeqwsy2l54NuGVOks) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Dorothee Mields](https://open.spotify.com/artist/1gIjaA2XzQwFRHIvVuKwJW), [Mark Wilde](https://open.spotify.com/artist/4t6daUBglCyJx1nkfd9Ujg), [Alsfelder Vocal Ensemble](https://open.spotify.com/artist/2lrvc8UMdJ2BhGovPvtvUU), [Concerto Polacco](https://open.spotify.com/artist/0bkbqZQcQ6YuF9n5VqP2RS), [Wolfgang Helbich](https://open.spotify.com/artist/2SO4aqT8yXQjufs0DhVS61) | [Handel: Ode for St\. Cecilia's Day](https://open.spotify.com/album/5U0Py9YY5AwiH2BiH5nrI8) | 3:33 |
 | 61 | [Giulio Cesare / Act 2: "V'adoro, pupille"](https://open.spotify.com/track/35w4JniG0eqFchonJycQ39) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8), [Orchestra of the Age of Enlightenment](https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB), [Harry Bicket](https://open.spotify.com/artist/634i1ptyc5dA18xYg9hHL9) | [Renée Fleming \- Handel Arias](https://open.spotify.com/album/2Jn5XTpSMBwnzF4Wn3A3SY) | 4:52 |
 
-Snapshot ID: `AAAAAGPMdFX9bCvo1XlesUDjC6nrq5lJ`
+Snapshot ID: `AAAAAJ0CN7M6gEJBR01TATGEKrN7MYpR`

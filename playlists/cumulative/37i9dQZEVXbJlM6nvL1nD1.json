@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 225838,
       "name": "Bajo El Agua",
       "url": "https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g"
@@ -9772,7 +9772,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 199114,
       "name": "KLOuFRENS",
       "url": "https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm"
@@ -11956,7 +11956,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 257186,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
@@ -13950,7 +13950,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 192313,
       "name": "M\u00f3naco",
       "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
@@ -16588,7 +16588,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 255026,
       "name": "Por un Segundo",
       "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
@@ -18884,6 +18884,24 @@
       "duration_ms": 182186,
       "name": "Sensacion Del Bloque",
       "url": "https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi"
+    },
+    {
+      "album": {
+        "name": "Serie Platino: Los Hijos De Puerto Rico",
+        "url": "https://open.spotify.com/album/1kqmsB2ZAYzWjrugNyeS7C"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Puerto Rico",
+          "url": "https://open.spotify.com/artist/435wZNqPJfb0m9MtHQ1vat"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316866,
+      "name": "Separados",
+      "url": "https://open.spotify.com/track/1chkHVbHvQO2kQegAWUABB"
     },
     {
       "album": {

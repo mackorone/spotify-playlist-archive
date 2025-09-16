@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 854765,
+  "num_followers": 854869,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Troca de Cal\u00e7ada",
-        "url": "https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 203158,
-      "name": "Troca de Cal\u00e7ada",
-      "url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
         "url": "https://open.spotify.com/album/3GBBYTV5NTTn95v2z2ECyP"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 216818,
       "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
       "url": "https://open.spotify.com/track/5A4DlgM68SnFSKImnMeiUH"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Troca de Cal\u00e7ada",
+        "url": "https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 203158,
+      "name": "Troca de Cal\u00e7ada",
+      "url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -115,34 +115,18 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+        "name": "A Voz Do Meu Samba - Ao Vivo",
+        "url": "https://open.spotify.com/album/0rkcBQbAiUpO37EepHSJ0c"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
         }
       ],
-      "duration_ms": 192870,
-      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Todos Os Cantos, Vol. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 147748,
-      "name": "Supera - Ao Vivo",
-      "url": "https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz"
+      "duration_ms": 194090,
+      "name": "Eu Mere\u00e7o Ser Feliz - Ao Vivo",
+      "url": "https://open.spotify.com/track/1aqRJG36VbTp8E37W4cMGa"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -163,18 +147,50 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "A Voz Do Meu Samba - Ao Vivo",
-        "url": "https://open.spotify.com/album/0rkcBQbAiUpO37EepHSJ0c"
+        "name": "Todos Os Cantos, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5"
       },
       "artists": [
         {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 194090,
-      "name": "Eu Mere\u00e7o Ser Feliz - Ao Vivo",
-      "url": "https://open.spotify.com/track/1aqRJG36VbTp8E37W4cMGa"
+      "duration_ms": 147748,
+      "name": "Supera - Ao Vivo",
+      "url": "https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 192870,
+      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Atitude 67 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n"
+      },
+      "artists": [
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "duration_ms": 210386,
+      "name": "Cerveja De Garrafa (Fuma\u00e7a Que Eu Fa\u00e7o) - Ao Vivo Em S\u00e3o Paulo / 2017",
+      "url": "https://open.spotify.com/track/2PADJK4rhdklqFLQFa5oMX"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -199,18 +215,18 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Atitude 67 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n"
+        "name": "Ferida Curada",
+        "url": "https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu"
       },
       "artists": [
         {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 210386,
-      "name": "Cerveja De Garrafa (Fuma\u00e7a Que Eu Fa\u00e7o) - Ao Vivo Em S\u00e3o Paulo / 2017",
-      "url": "https://open.spotify.com/track/2PADJK4rhdklqFLQFa5oMX"
+      "duration_ms": 159164,
+      "name": "Ferida Curada",
+      "url": "https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -231,22 +247,6 @@
       "duration_ms": 196209,
       "name": "Presepada",
       "url": "https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Ferida Curada",
-        "url": "https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 159164,
-      "name": "Ferida Curada",
-      "url": "https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Por Mais Beijos Ao Vivo",
+        "url": "https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 169593,
+      "name": "Al\u00f4 Ambev (Segue Sua Vida) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5m5aY6S9ttfIG157xli2Rs"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
         "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
       },
@@ -319,18 +335,18 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Por Mais Beijos Ao Vivo",
-        "url": "https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT"
+        "name": "Tijol\u00e3o (ao Vivo)",
+        "url": "https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 169593,
-      "name": "Al\u00f4 Ambev (Segue Sua Vida) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5m5aY6S9ttfIG157xli2Rs"
+      "duration_ms": 175219,
+      "name": "Tijol\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -355,22 +371,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Tijol\u00e3o (ao Vivo)",
-        "url": "https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 175219,
-      "name": "Tijol\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Terra do Nunca (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y"
       },
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Atitude 67 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n"
+      },
+      "artists": [
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "Saideira - Ao Vivo",
+      "url": "https://open.spotify.com/track/2UmKWMYAqRlAYfDum7qryt"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
         "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
       },
@@ -407,18 +423,18 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Atitude 67 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n"
+        "name": "Cheirosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X"
       },
       "artists": [
         {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 178373,
-      "name": "Saideira - Ao Vivo",
-      "url": "https://open.spotify.com/track/2UmKWMYAqRlAYfDum7qryt"
+      "duration_ms": 181930,
+      "name": "Cheirosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -439,22 +455,6 @@
       "duration_ms": 206804,
       "name": "Amor Falsificado",
       "url": "https://open.spotify.com/track/6WnwnMSRkihOPbuC7TN3BR"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Cheirosa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 181930,
-      "name": "Cheirosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "\u00c9 Problema",
-        "url": "https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 184149,
-      "name": "\u00c9 Problema",
-      "url": "https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Baby Me Atende",
         "url": "https://open.spotify.com/album/1uDk1yrR8cucbTmpXR1G6V"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 225671,
       "name": "Baby Me Atende",
       "url": "https://open.spotify.com/track/5R9KPXQVeyqsHZoPLMgfNy"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "\u00c9 Problema",
+        "url": "https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 184149,
+      "name": "\u00c9 Problema",
+      "url": "https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Som No Talo",
+        "url": "https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 175046,
+      "name": "Tap\u00e3o Na Raba",
+      "url": "https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Acabei de Terminar (Ao Vivo)",
         "url": "https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 223489,
       "name": "Acabei de Terminar - Ao Vivo",
       "url": "https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Som No Talo",
-        "url": "https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 175046,
-      "name": "Tap\u00e3o Na Raba",
-      "url": "https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -787,26 +787,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Open House (Ao Vivo)",
-        "url": "https://open.spotify.com/album/69BEwRfwBeIpoene374tX2"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 177067,
-      "name": "Sogra - Ao Vivo",
-      "url": "https://open.spotify.com/track/4zsiMjB0794HztyqUkD3Zi"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Hit Contagiante",
         "url": "https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 137125,
       "name": "Hit Contagiante",
       "url": "https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Open House (Ao Vivo)",
+        "url": "https://open.spotify.com/album/69BEwRfwBeIpoene374tX2"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 177067,
+      "name": "Sogra - Ao Vivo",
+      "url": "https://open.spotify.com/track/4zsiMjB0794HztyqUkD3Zi"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Adorei",
+        "url": "https://open.spotify.com/album/2jNeKASJ5d7cZ2NNIVLqwb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 179452,
+      "name": "Adorei",
+      "url": "https://open.spotify.com/track/6rfNbeEGCh8M5AAj879g0r"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Nem V\u00e1",
         "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 159639,
       "name": "Nem V\u00e1",
       "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Adorei",
-        "url": "https://open.spotify.com/album/2jNeKASJ5d7cZ2NNIVLqwb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 179452,
-      "name": "Adorei",
-      "url": "https://open.spotify.com/track/6rfNbeEGCh8M5AAj879g0r"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 189005,
-      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Falando de Amor, Vol. 2",
         "url": "https://open.spotify.com/album/4AmYNtcUeuaLZfQo5uDTKh"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 179872,
       "name": "O Ex da Sua Vida",
       "url": "https://open.spotify.com/track/17Gh6E6eRfAAw7sCgmnkFc"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 189005,
+      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Buteco in Boston (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 158016,
-      "name": "Teste de Farm\u00e1cia - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ZwGhDJHceKPvg3UAb5OMQ"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Conquistas (Ao Vivo)",
         "url": "https://open.spotify.com/album/1GAEkzl2H1mXS5byOsrc5f"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 166837,
       "name": "Recairei - Ao Vivo",
       "url": "https://open.spotify.com/track/7KBzs7p4IqxQ3GS06TvOwG"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Buteco in Boston (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 158016,
+      "name": "Teste de Farm\u00e1cia - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ZwGhDJHceKPvg3UAb5OMQ"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "LUAN CITY (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 158074,
-      "name": "ME USA - Ao Vivo",
-      "url": "https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
         "url": "https://open.spotify.com/album/2Qx3M26c84kJ2q6UxHftfL"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 142187,
       "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
       "url": "https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "LUAN CITY (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 158074,
+      "name": "ME USA - Ao Vivo",
+      "url": "https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI"
     },
     {
       "added_at": "2024-07-09 12:43:17",

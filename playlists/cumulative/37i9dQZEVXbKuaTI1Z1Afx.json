@@ -1709,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "4 Raws",
+      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
+    },
+    {
+      "album": {
         "name": "MIGNONNE (Mastered by Bernie Grundman)",
         "url": "https://open.spotify.com/album/0Y4RPWAZZui6gUL1kwgND6"
       },
@@ -13362,7 +13380,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 164026,
       "name": "CEREMONY",
       "url": "https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF"
@@ -19886,6 +19904,24 @@
       "duration_ms": 199090,
       "name": "Don\u2019t Forget My Love",
       "url": "https://open.spotify.com/track/3LnETnq2xyUpKcGqAQLJy1"
+    },
+    {
+      "album": {
+        "name": "Supa vs Sligga",
+        "url": "https://open.spotify.com/album/3GdWSIpfD42ZQMiNVg6Eu7"
+      },
+      "artists": [
+        {
+          "name": "So Supa",
+          "url": "https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Don\u2019t hide",
+      "url": "https://open.spotify.com/track/6yJIO8264hq1hCbBLU0C0X"
     },
     {
       "album": {
@@ -35112,7 +35148,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 248957,
       "name": "i think about you all the time",
       "url": "https://open.spotify.com/track/0M5NH22uVXHSXjSi5SXTXM"
@@ -35346,7 +35382,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 232375,
       "name": "i wish i knew how to quit you",
       "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
@@ -49810,7 +49846,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 184494,
       "name": "Mr. Fantasy",
       "url": "https://open.spotify.com/track/4zT0nZK95FOuPWt4WC5vXe"
@@ -49828,7 +49864,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 184515,
       "name": "Mr. Fantasy",
       "url": "https://open.spotify.com/track/5zNGqDaS8DXmvbskkmGLAG"
@@ -58980,7 +59016,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 186084,
       "name": "Predador de Perereca",
       "url": "https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v"

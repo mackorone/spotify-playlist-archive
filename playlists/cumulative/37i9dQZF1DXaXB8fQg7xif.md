@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,261 songs - 2 day 19 hr 28 min
+1,262 songs - 2 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Castles In The Sky](https://open.spotify.com/track/4xZax8srPgsXV2mpMerqEk) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG) | [Castles In The Sky](https://open.spotify.com/album/3TolDOsMadcVP94ucEJEqU) | 3:43 | 2020-12-05 | 2021-12-09 |
 | [Catania](https://open.spotify.com/track/5t8ya2Qx7Xc6bG53piXMYY) | [Södermalm](https://open.spotify.com/artist/0oNBRfSsZBHcgFGcWaVr0R) | [Catania](https://open.spotify.com/album/3PO7P1e9CiJlzKBCqL9pg3) | 3:40 | 2020-07-01 | 2021-10-12 |
 | [Catch My Love](https://open.spotify.com/track/0C0LsZeUyAG50xJKEIpBgY) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [MOYA](https://open.spotify.com/artist/7EyM0gQyMeaeQzslOFZaCq) | [Catch My Love](https://open.spotify.com/album/3cRcAAVLPSyu1cEt95aDHs) | 2:28 | 2021-11-19 | 2022-07-29 |
-| [CAVE \(with Tove Lo\)](https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [CAVE \(with Tove Lo\)](https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY) | 3:00 | 2024-10-18 |  |
+| [CAVE \(with Tove Lo\)](https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [CAVE \(with Tove Lo\)](https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY) | 3:00 | 2024-10-18 | 2025-09-16 |
 | [Cha Cha Cha \- Alan Walker Remix](https://open.spotify.com/track/7wnrrEdwxQWZsDjW7rGZZc) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Cha Cha Cha \(Alan Walker Remix\)](https://open.spotify.com/album/130t4RQBSL7wRJC2JGTFNP) | 2:28 | 2023-06-09 | 2023-09-09 |
 | [Chameleon](https://open.spotify.com/track/6400BZ7REh8DshcZKU7Pfp) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Chameleon](https://open.spotify.com/album/6vdxUCoudeeMJ8dv0iXA2S) | 3:18 | 2020-05-22\* | 2020-09-20 |
 | [Chance](https://open.spotify.com/track/4oVp2A9Ud4hV27Kr5bByCQ) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp) | [Chance](https://open.spotify.com/album/0MFfVEtQD82fGQCpc4lvel) | 3:26 | 2020-12-12 | 2021-11-20 |
@@ -368,6 +368,7 @@
 | [Eyes On You](https://open.spotify.com/track/1evX3NUBE7QujnSmky2ox4) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Eyes On You](https://open.spotify.com/album/6UiYJyJVz6xIwlYOL6g4WI) | 3:22 | 2021-11-21 | 2022-07-29 |
 | [F.O.M.F\. \- Petty Penguin Remix](https://open.spotify.com/track/44qpw2NGXSLCbQsDc1UZKg) | [DJ Tazz Xx](https://open.spotify.com/artist/21mCpgs4IhPMGKOhotkra7), [Koolby Loach](https://open.spotify.com/artist/2zfv2f7qJNhGCVMPosuhj4), [Petty Penguin](https://open.spotify.com/artist/06Sz7X326yoBcrGtAEIiv0) | [F.O.M.F\. \(Petty Penguin Remix\)](https://open.spotify.com/album/48KNcThC969iwTkT4jp1DM) | 2:24 | 2021-02-28 | 2021-12-20 |
 | [Faith](https://open.spotify.com/track/2PJCyHkwbtkcdmtIlbjVRa) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [Faith](https://open.spotify.com/album/0IS69tn73wBzFxba7IEuMJ) | 3:26 | 2020-05-22\* | 2022-04-20 |
+| [Fancy $hit](https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Fancy $hit](https://open.spotify.com/album/2DFFAszheHpFsCnCUUyQgh) | 2:48 | 2025-09-12 |  |
 | [Feel It \- Club Edit](https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Feel It \(Club Edit\)](https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH) | 2:04 | 2023-07-28 | 2024-09-28 |
 | [Feel My Needs](https://open.spotify.com/track/7nionv2ijjqUlg9m5iWPTc) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [Feel My Needs](https://open.spotify.com/album/1DhXzsPrJjFpwOKRPV2Hpu) | 3:28 | 2020-05-22\* | 2021-10-13 |
 | [Feel The Beat](https://open.spotify.com/track/4NHdQ40uoM2YntzHiQj25b) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE), [Neon Steve](https://open.spotify.com/artist/1CNO980Lk9CaBWBnM1MZXi), [RUMPUS](https://open.spotify.com/artist/6UbKjDmDWrGKZdHNYxjveJ), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Feel The Beat \(with Rhiannon Roze\)](https://open.spotify.com/album/34bvROEwn5XvXEllUZ0HSV) | 3:08 | 2020-05-22\* | 2022-04-17 |

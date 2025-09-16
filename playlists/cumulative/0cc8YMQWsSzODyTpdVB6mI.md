@@ -4,7 +4,7 @@
 
 > Music around the world ✈️
 
-155 songs - 8 hr 56 min
+158 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Hurt](https://open.spotify.com/track/5PHPBSzGhbUaalip3bNojK) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [Hurt](https://open.spotify.com/album/1kWpiWVMxdD8pi0P2hkdw5) | 2:42 | 2023-05-30 |  |
 | [I Can Talk](https://open.spotify.com/track/4N90LxX3kWhJucPQ484Qy9) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 2:55 | 2023-05-30 |  |
 | [I Can Talk](https://open.spotify.com/track/0Krxo9CPCj98TR3QHqSb8N) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Kitsuné: I Can Talk \(Remixes\)](https://open.spotify.com/album/0DDPS6mumu79yYixnXOVZF) | 2:57 | 2021-11-05 | 2023-05-31 |
-| [I Don't](https://open.spotify.com/track/5yFtC081hlnMkXiZruPMmf) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [I Don't](https://open.spotify.com/album/51dAGL3zPrDnGfKj24Sqz2) | 3:10 | 2022-11-28 | 2023-05-31 |
+| [I Don't](https://open.spotify.com/track/5yFtC081hlnMkXiZruPMmf) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [I Don't](https://open.spotify.com/album/51dAGL3zPrDnGfKj24Sqz2) | 3:10 | 2022-11-28 |  |
 | [I Love London](https://open.spotify.com/track/7j6HqLDQMddPZmONOcVhkZ) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Kitsuné: I Love London \(Bonus Track Version\)](https://open.spotify.com/album/2J24W5mcPK5ovDehJA2fPr) | 2:50 | 2023-05-30 |  |
 | [I'll Give You Dedication](https://open.spotify.com/track/5V6zXDdVD7l87y5AxtvUoR) | [Lemonade Baby](https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs) | [I'll Give You Dedication](https://open.spotify.com/album/4vrGADeX4iagpCw2MnOORv) | 2:47 | 2022-10-14 | 2023-05-31 |
 | [Icy](https://open.spotify.com/track/1I7e4AyVqSBOoh6GHttqws) | [LN](https://open.spotify.com/artist/7G6Tv0i12NplnOB2nbwiAJ) | [Icy](https://open.spotify.com/album/4ZAkDbkETjOwhUAt6f0fV5) | 2:44 | 2022-09-05 | 2022-12-01 |
@@ -74,6 +74,7 @@
 | [IPANEMA \- slow](https://open.spotify.com/track/44z0xS4YJxrsHt3oTvS2ei) | [TALES\_FOR\_NIGHTCLUBS](https://open.spotify.com/artist/1bQcDCkr8KkJBbHtjqAXps) | [IPANEMA \(slow\)](https://open.spotify.com/album/6yTtOrQDLrPodakOvqssbn) | 3:16 | 2022-08-24 | 2022-11-22 |
 | [It's About Time](https://open.spotify.com/track/0plbSDugi1FZzzX0A5CmSB) | [Sky Adler](https://open.spotify.com/artist/7tBYbT4opzICINZB2JNCYX) | [It's About Time](https://open.spotify.com/album/4cOi1XyWHJ28c7GbqQF9wQ) | 4:03 | 2022-11-21 |  |
 | [It's Okay](https://open.spotify.com/track/2UzKyfZ8WsCywvxfBZI38E) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [It's Okay](https://open.spotify.com/album/7uQBMZS3C5wI0z2zRWQNQx) | 2:58 | 2023-05-30 | 2025-08-08 |
+| [Jackie B](https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Jackie B](https://open.spotify.com/album/6bl2DvR8JpxauHqG7PjOmg) | 3:37 | 2025-09-15 |  |
 | [Kutamba](https://open.spotify.com/track/59VcIlXBZyNLLezqfuD1DI) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Kutamba](https://open.spotify.com/album/0LGKkarWcOJnv6d4Lnh6Om) | 2:56 | 2022-09-26 | 2023-01-12 |
 | [L.Y.E](https://open.spotify.com/track/3A8FmCLtk3FuRhy7Bf56b7) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [L.Y.E](https://open.spotify.com/album/6XaBsdw5PkDbD6BmY53fIJ) | 3:22 | 2023-05-30 |  |
 | [Lady \- Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Modjo \(Remastered\)](https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI) | 5:07 | 2025-09-05 |  |
@@ -87,6 +88,7 @@
 | [Lluvia](https://open.spotify.com/track/5FzLZd5k2yQ0euepil3ndS) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Lluvia](https://open.spotify.com/album/3tsviyEAfWJxgzqyR6OYvf) | 4:19 | 2023-05-30 |  |
 | [Long Way Up \- Mixed](https://open.spotify.com/track/6tFqRbhUPbLbyIityAAA1l) | [Courage](https://open.spotify.com/artist/1kGMaFXRovFOZJqxbVdnHq) | [Café Kitsuné Mixed by Young Franco \(Day\)](https://open.spotify.com/album/5i1BngTCStALybm8vtOFyN) | 2:17 | 2023-05-30 |  |
 | [Mexican Holiday](https://open.spotify.com/track/6E8XDoU8B9MbYbcAQ2IUBl) | [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [Mexican Holiday](https://open.spotify.com/album/7LMpGPGgeAsK7aO4AgmEah) | 3:22 | 2021-11-05 | 2023-02-21 |
+| [Mexican Holiday \- Montmartre Remix](https://open.spotify.com/track/1AVHLM3QrxSM3CWAFYEl9Z) | [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Mexican Holiday \(Montmartre Remix\)](https://open.spotify.com/album/6MuibcZvAn7gCPWIjfg0Ap) | 2:48 | 2025-09-15 |  |
 | [Might Be on Fire](https://open.spotify.com/track/2CwWU5UFHrIHUuGyN7pf5E) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Might Be on Fire](https://open.spotify.com/album/4ZbbWUSrvTCjuHCgkDA0W7) | 3:07 | 2021-11-05 |  |
 | [MOONKISS](https://open.spotify.com/track/3jjaWxIRbxUkgcO5R3cxaL) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [MOONKISS](https://open.spotify.com/album/0ENK4WbQuDunSFcCYBNakg) | 2:28 | 2022-12-05 | 2023-05-31 |
 | [Moonlight](https://open.spotify.com/track/3xg2H9VTF8uW046sq1Grto) | [Karl Meyer](https://open.spotify.com/artist/2f9bz0POgpM78PM6Mbarjo) | [Moonlight](https://open.spotify.com/album/53QtBB62XZEkvGVoazcE4f) | 3:08 | 2022-11-25 | 2023-05-31 |
@@ -155,6 +157,7 @@
 | [Want It Bad](https://open.spotify.com/track/6r6WolFiUnf8leQpgM3kzc) | [Slater Manzo](https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ) | [Want It Bad](https://open.spotify.com/album/2BhX3mXTSlYednKnaQmJJZ) | 3:12 | 2022-05-20 | 2022-07-23 |
 | [We Are Shadows](https://open.spotify.com/track/6vpb43NMPkwvX4znUepjhD) | [PRESSYES](https://open.spotify.com/artist/35RtE46owXOQK7XjE1Sxop) | [We Are Shadows](https://open.spotify.com/album/6f9UikQyxUq3sYTc6TY2aX) | 3:39 | 2022-07-15 | 2022-10-08 |
 | [Weekend \- Jai Wolf Remix](https://open.spotify.com/track/6GXSZaHXyN3QJ7QeoMQSw3) | [Mocki](https://open.spotify.com/artist/5Xrk8HKFWj76Jonuerfupw), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kitsuné: Weekend](https://open.spotify.com/album/1tBXDuJ2OXb7Z2khIAbMlp) | 4:09 | 2021-11-05 |  |
+| [What the F\*\*k \- Funkagenda Remix](https://open.spotify.com/track/0Amj29ZQkp1Qtneje4TNdp) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Funkagenda](https://open.spotify.com/artist/2bElZdbJcj6B8WIP2fiKsG) | [What the F\*\*k \(Funkagenda, Kim Fai Maxie Devine and Veerus Remixes \- Fatboy Slim vs\. Funkagenda\)](https://open.spotify.com/album/7fWubd2FSj2Dkqz9FfkKCE) | 6:38 | 2025-09-15 |  |
 | [What You Say](https://open.spotify.com/track/1V0dAOscqHP7NDqisz5BxL) | [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3) | [What You Say](https://open.spotify.com/album/5s3IVczOcSEXVTsnNIbHvx) | 3:40 | 2025-06-03 |  |
 | [What You Say \- Yamagucci Remix](https://open.spotify.com/track/2i5UgE1uYmpeDdXdBSGKOn) | [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG) | [What You Say](https://open.spotify.com/album/2DV99rB1aRNM8GyV9EvWZF) | 5:04 | 2025-08-22 |  |
 | [When You Feel the Time Is Right](https://open.spotify.com/track/4JHElYfJ3qF519oMLAE9Co) | [Kimchii](https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3) | [When You Feel the Time Is Right](https://open.spotify.com/album/2Fj82JqIzSk23RRkCpw5x0) | 5:40 | 2023-05-30 |  |

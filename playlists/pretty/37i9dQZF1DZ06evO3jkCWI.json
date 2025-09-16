@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 189453,
+  "num_followers": 189480,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAAfEpr0MQXlQI58S8VVwJi/",
+  "snapshot_id": "aMYFgAAAAAAj33bQaXED8LPvqsEdge3z",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Tal De Que Me Olvides",
-        "url": "https://open.spotify.com/album/7ytPVFfcyxDrMraTGv9w8R"
+        "name": "Castigame",
+        "url": "https://open.spotify.com/album/2mzZX6tPn2HSgwPDwBWxlM"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 185360,
-      "name": "Ya No Te Amo",
-      "url": "https://open.spotify.com/track/7H4tgQ4ldZ1PmWL88b6nuI"
+      "duration_ms": 165000,
+      "name": "Que No Se Apague La Lumbre",
+      "url": "https://open.spotify.com/track/1FHVrQ4GmRxmWx7g1RzdJJ"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castigame",
-        "url": "https://open.spotify.com/album/2mzZX6tPn2HSgwPDwBWxlM"
+        "name": "Con Tal De Que Me Olvides",
+        "url": "https://open.spotify.com/album/7ytPVFfcyxDrMraTGv9w8R"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Que No Se Apague La Lumbre",
-      "url": "https://open.spotify.com/track/1FHVrQ4GmRxmWx7g1RzdJJ"
+      "duration_ms": 185360,
+      "name": "Ya No Te Amo",
+      "url": "https://open.spotify.com/track/7H4tgQ4ldZ1PmWL88b6nuI"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Laurita Garza",
-        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Rosalinda",
-      "url": "https://open.spotify.com/track/76JjJHMjVRSpI86NOzbWeZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bajo Mil Llaves",
         "url": "https://open.spotify.com/album/4lRqDjjNXMEoDpgynnWiKq"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 150533,
       "name": "Bajo Mil Llaves",
       "url": "https://open.spotify.com/track/4fSiPSoUlssxoUsafN5HLO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Laurita Garza",
+        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Rosalinda",
+      "url": "https://open.spotify.com/track/76JjJHMjVRSpI86NOzbWeZ"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Pegue",
-        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "El Subteniente Linares",
-      "url": "https://open.spotify.com/track/2BYl5gcl27mUpslIRy8MUX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni Dada La Quiero",
         "url": "https://open.spotify.com/album/1wJklr611fFhZoveD89y4F"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 186573,
       "name": "Ni Dada La Quiero",
       "url": "https://open.spotify.com/track/30OPXBFUQcldoejVcGvwDv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "El Subteniente Linares",
+      "url": "https://open.spotify.com/track/2BYl5gcl27mUpslIRy8MUX"
     },
     {
       "added_at": null,
@@ -575,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Que Tuvieras Tanta Suerte",
-        "url": "https://open.spotify.com/album/513ie7iLGv8o3ZS7T9BEMz"
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
       },
       "artists": [
-        {
-          "name": "Explosion Nortena",
-          "url": "https://open.spotify.com/artist/3iAoPIsx4h1blFVmNMSJG9"
-        },
         {
           "name": "Los Invasores De Nuevo Le\u00f3n",
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 182141,
-      "name": "Ni Que Tuvieras Tanta Suerte",
-      "url": "https://open.spotify.com/track/72jGlGdhSiCHhwAdRbDPXA"
+      "duration_ms": 197160,
+      "name": "Alfredo Galeana",
+      "url": "https://open.spotify.com/track/2NG18tx27J4dBTszPLJluP"
     },
     {
       "added_at": null,
@@ -663,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Pegue",
-        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+        "name": "Ni Que Tuvieras Tanta Suerte",
+        "url": "https://open.spotify.com/album/513ie7iLGv8o3ZS7T9BEMz"
       },
       "artists": [
+        {
+          "name": "Explosion Nortena",
+          "url": "https://open.spotify.com/artist/3iAoPIsx4h1blFVmNMSJG9"
+        },
         {
           "name": "Los Invasores De Nuevo Le\u00f3n",
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 197160,
-      "name": "Alfredo Galeana",
-      "url": "https://open.spotify.com/track/2NG18tx27J4dBTszPLJluP"
+      "duration_ms": 182141,
+      "name": "Ni Que Tuvieras Tanta Suerte",
+      "url": "https://open.spotify.com/track/72jGlGdhSiCHhwAdRbDPXA"
     },
     {
       "added_at": null,
@@ -711,38 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Volumen 1",
-        "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 184240,
-      "name": "El Preso De Nuevo Le\u00f3n",
-      "url": "https://open.spotify.com/track/3lu45Zgfj4pRDen29QsZGx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor A La Ligera",
-        "url": "https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 147373,
-      "name": "Que La Dejen Ir Al Baile",
-      "url": "https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Boleros De Oro",
         "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
       },
@@ -759,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Volumen 1",
+        "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 184240,
+      "name": "El Preso De Nuevo Le\u00f3n",
+      "url": "https://open.spotify.com/track/3lu45Zgfj4pRDen29QsZGx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta El Final",
         "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 170440,
       "name": "Puedes Irte",
       "url": "https://open.spotify.com/track/7DXfMfBmAYQMewI2I68y8P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor A La Ligera",
+        "url": "https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 147373,
+      "name": "Que La Dejen Ir Al Baile",
+      "url": "https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor A La Ligera",
-        "url": "https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm"
+        "name": "Otra Era",
+        "url": "https://open.spotify.com/album/4EzWUl91tOLsFNgKrs8oe0"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 144360,
-      "name": "Amor A La Ligera",
-      "url": "https://open.spotify.com/track/4jjLfOGnXPza7iXX8TebTn"
+      "duration_ms": 168304,
+      "name": "La Mejor de Mis Tragedias",
+      "url": "https://open.spotify.com/track/2VBLnpqcMppdvYeuDYXBth"
     }
   ],
   "unique_name": "This Is Los Invasores De Nuevo Le\u00f3n",

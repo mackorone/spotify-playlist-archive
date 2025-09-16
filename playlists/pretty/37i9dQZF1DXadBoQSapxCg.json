@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319110,
+  "num_followers": 319132,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,46 @@
     {
       "added_at": "2025-08-01 19:15:40",
       "album": {
+        "name": "Me Pede",
+        "url": "https://open.spotify.com/album/4ocTbAztiGLSzyZzFHHkq5"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "LKAHH",
+          "url": "https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw"
+        }
+      ],
+      "duration_ms": 156090,
+      "name": "Me Pede",
+      "url": "https://open.spotify.com/track/5XZeb44ubop1TqtpZy6tlc"
+    },
+    {
+      "added_at": "2025-08-01 19:15:40",
+      "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 205884,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ"
+    },
+    {
+      "added_at": "2025-08-01 19:15:40",
+      "album": {
         "name": "Cigana",
         "url": "https://open.spotify.com/album/5zujMhc1kwFLiZYBRlwz6m"
       },
@@ -103,46 +143,6 @@
       "duration_ms": 265753,
       "name": "Cigana",
       "url": "https://open.spotify.com/track/2GBwxkBpmhs9UoDxsBeP4a"
-    },
-    {
-      "added_at": "2025-08-01 19:15:40",
-      "album": {
-        "name": "Para\u00edso",
-        "url": "https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 205884,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ"
-    },
-    {
-      "added_at": "2025-08-01 19:15:40",
-      "album": {
-        "name": "Me Pede",
-        "url": "https://open.spotify.com/album/4ocTbAztiGLSzyZzFHHkq5"
-      },
-      "artists": [
-        {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "LKAHH",
-          "url": "https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw"
-        }
-      ],
-      "duration_ms": 156090,
-      "name": "Me Pede",
-      "url": "https://open.spotify.com/track/5XZeb44ubop1TqtpZy6tlc"
     },
     {
       "added_at": "2025-08-01 19:15:40",

@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 13154,
+  "num_followers": 13160,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAABKyp9T6fHJWGVzQbXb0fnd",
+  "snapshot_id": "aMYFgAAAAADGzDZ7+IjnKF3/6fQtSpcp",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
       "duration_ms": 185806,
       "name": "Violence (feat. Kweku Smoke)",
       "url": "https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JAMZ",
-        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "Country Side (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
     },
     {
       "added_at": null,
@@ -131,42 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otan",
-        "url": "https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 196951,
-      "name": "Otan",
-      "url": "https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Till We Die (feat. Ruger)",
-        "url": "https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 183289,
-      "name": "Till We Die (feat. Ruger)",
-      "url": "https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God Over Everything",
         "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
       },
@@ -183,6 +127,22 @@
       "duration_ms": 221603,
       "name": "No Kissing Baby",
       "url": "https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otan",
+        "url": "https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 196951,
+      "name": "Otan",
+      "url": "https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5"
     },
     {
       "added_at": null,
@@ -231,6 +191,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jamz",
+        "url": "https://open.spotify.com/album/3mm3G4m0vpZyJQHkbkjgjp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 220952,
+      "name": "Country Side",
+      "url": "https://open.spotify.com/track/567DMZPOOlODWvhW9ElmWI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NEXT DOOR (with Sarkodie)",
         "url": "https://open.spotify.com/album/0stN3a7ORRVvn3Xeyq47HI"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 156791,
       "name": "NEXT DOOR (with Sarkodie)",
       "url": "https://open.spotify.com/track/7ngTKqkPVMV5sVrIWcBnTC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Till We Die (feat. Ruger)",
+        "url": "https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 183289,
+      "name": "Till We Die (feat. Ruger)",
+      "url": "https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD"
     },
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JAILER (feat. Victony)",
-        "url": "https://open.spotify.com/album/076uOeB8PUTBtoN8Div8et"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 235294,
-      "name": "JAILER (feat. Victony)",
-      "url": "https://open.spotify.com/track/77ONkiqtYonB8lpKSIbc6F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highest",
         "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
       },
@@ -499,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jailer",
+        "url": "https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 230588,
+      "name": "Jailer",
+      "url": "https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chingam (feat. Bisa Kdei)",
         "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
       },
@@ -515,6 +515,26 @@
       "duration_ms": 214013,
       "name": "Chingam (feat. Bisa Kdei)",
       "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/00Z9ROeJxC7gmFMcNblg3U"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 225349,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/1CHhtwarGh5rS9TsY4voW7"
     },
     {
       "added_at": null,
@@ -559,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/00Z9ROeJxC7gmFMcNblg3U"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 225349,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/1CHhtwarGh5rS9TsY4voW7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
         "url": "https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ"
       },
@@ -599,6 +599,26 @@
       "duration_ms": 195555,
       "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
       "url": "https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homicide",
+        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "La M\u00eame Gang",
+          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
+        }
+      ],
+      "duration_ms": 183477,
+      "name": "Homicide",
+      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
     },
     {
       "added_at": null,
@@ -667,42 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homicide",
-        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "La M\u00eame Gang",
-          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
-        }
-      ],
-      "duration_ms": 183477,
-      "name": "Homicide",
-      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 261009,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
       },
@@ -723,28 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tonga",
-        "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
-      },
-      "artists": [
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Tonga",
-      "url": "https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sarkology",
-        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
       },
       "artists": [
         {
@@ -752,9 +716,9 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 166800,
-      "name": "Illuminati",
-      "url": "https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c"
+      "duration_ms": 261009,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
     },
     {
       "added_at": null,
@@ -779,42 +743,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
       },
       "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 185196,
-      "name": "Coachella (feat. Kwesi Arthur)",
-      "url": "https://open.spotify.com/track/2MRivmDDWPs4nfu4zJKNNf"
+      "duration_ms": 166800,
+      "name": "Illuminati",
+      "url": "https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c"
     },
     {
       "added_at": null,
       "album": {
-        "name": "This Is Not The Tape, Sorry 4 The Wait II",
-        "url": "https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8"
+        "name": "Tonga",
+        "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
       },
       "artists": [
         {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 152369,
-      "name": "Jehovah",
-      "url": "https://open.spotify.com/track/3MRQW0T4HCkgOYnrsLa6BV"
+      "duration_ms": 202346,
+      "name": "Tonga",
+      "url": "https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V"
     },
     {
       "added_at": null,
@@ -839,14 +799,10 @@
     {
       "added_at": null,
       "album": {
-        "name": "BANG BANG BANG",
-        "url": "https://open.spotify.com/album/1ygg3uOxAsUM2TMp9qwvty"
+        "name": "This Is Not The Tape, Sorry 4 The Wait II",
+        "url": "https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8"
       },
       "artists": [
-        {
-          "name": "Beeztrap KOTM",
-          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
-        },
         {
           "name": "Kwesi Arthur",
           "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
@@ -856,25 +812,9 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 216886,
-      "name": "BANG BANG BANG",
-      "url": "https://open.spotify.com/track/0YZeA79oKbI8EyaLRxqeL6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 207761,
-      "name": "Rollies and Cigars",
-      "url": "https://open.spotify.com/track/7iwDsctLsVlYXv2F8cNpWR"
+      "duration_ms": 152369,
+      "name": "Jehovah",
+      "url": "https://open.spotify.com/track/3MRQW0T4HCkgOYnrsLa6BV"
     },
     {
       "added_at": null,
@@ -895,6 +835,30 @@
       "duration_ms": 191719,
       "name": "Anadwo (feat. King Promise)",
       "url": "https://open.spotify.com/track/0jC6H13LqNH2kmjAbsgkMM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BANG BANG BANG",
+        "url": "https://open.spotify.com/album/1ygg3uOxAsUM2TMp9qwvty"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 216886,
+      "name": "BANG BANG BANG",
+      "url": "https://open.spotify.com/track/0YZeA79oKbI8EyaLRxqeL6"
     },
     {
       "added_at": null,
@@ -935,6 +899,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Coachella (feat. Kwesi Arthur)",
+      "url": "https://open.spotify.com/track/2MRivmDDWPs4nfu4zJKNNf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mary",
         "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
       },
@@ -951,26 +935,6 @@
       "duration_ms": 205578,
       "name": "Mewu (feat. Akwaboah)",
       "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Da Man",
-        "url": "https://open.spotify.com/album/5nJXQqAfjNSsNmzZAa9rQQ"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Who Da Man",
-      "url": "https://open.spotify.com/track/6XJVjxcULLokcDdFtNfEBF"
     },
     {
       "added_at": null,
@@ -995,30 +959,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/1BQhMEiv7bLPI7wLAdHsn9"
+        "name": "Refuse to Be Broke: Da Revolution 2",
+        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
       },
       "artists": [
         {
-          "name": "Jidenna",
-          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
-        },
-        {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 275440,
-      "name": "Bambi Too (feat. Maleek Berry, Quavo & Sarkodie)",
-      "url": "https://open.spotify.com/track/0jFGFUFKNuTTRE2j2gSI8Y"
+      "duration_ms": 240506,
+      "name": "Bayla Trap (feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/3c6ak2NO54ZOamcelzcDZB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Da Man",
+        "url": "https://open.spotify.com/album/5nJXQqAfjNSsNmzZAa9rQQ"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Who Da Man",
+      "url": "https://open.spotify.com/track/6XJVjxcULLokcDdFtNfEBF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 207761,
+      "name": "Rollies and Cigars",
+      "url": "https://open.spotify.com/track/7iwDsctLsVlYXv2F8cNpWR"
     }
   ],
   "unique_name": "This Is Sarkodie",

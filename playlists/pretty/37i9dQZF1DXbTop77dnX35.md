@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Qing Madi, Stonebwoy, Rybeena, Skales  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,839 likes - 59 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,885 likes - 59 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 8 | [Love Don Finish 4 Lagos](https://open.spotify.com/track/23ZN7p3iSAGpL9SxCnDvAg) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b), [Taymi B](https://open.spotify.com/artist/0rvz5DsPocdKEADnthCfFH) | [Love Don Finish 4 Lagos](https://open.spotify.com/album/60FwgC2TPiWjDd5N5GnCB5) | 2:41 |
 | 9 | [Zhusssssss](https://open.spotify.com/track/1TuqXPmAG2ifMrhr0ozPmX) | [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv), [SOLIS4EVR](https://open.spotify.com/artist/3ZbW5RPoVdTdsR7JmRtoms) | [Zhusssssss](https://open.spotify.com/album/066Vuat7zeM8akKFcD1Qvl) | 2:14 |
 | 10 | [Sandra Benede](https://open.spotify.com/track/4hH07w4IQIYNx5vfUJDJOS) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [Sandra Benede](https://open.spotify.com/album/6y0WgfH9RIaKWGL954JhDp) | 1:56 |
-| 11 | [Tulemon](https://open.spotify.com/track/5j3hvUko2sNhAaL0Bh9VRD) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Active Boy](https://open.spotify.com/artist/7duud2WQYOJbiSqaF0dncv) | [Tulemon](https://open.spotify.com/album/7HMNWZwTKRon4LCO3k7i8Z) | 2:45 |
+| 11 | [Tulemon](https://open.spotify.com/track/5j3hvUko2sNhAaL0Bh9VRD) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [ACTIVEBOY](https://open.spotify.com/artist/6uF8T3rDXoJ5YfFO53rk0x) | [Tulemon](https://open.spotify.com/album/7HMNWZwTKRon4LCO3k7i8Z) | 2:45 |
 | 12 | [Mrs Officer](https://open.spotify.com/track/2kBDgJUbzYOWFEMIRlmIer) | [svndaypack](https://open.spotify.com/artist/2MhOafEXdLSXZ9aV07o4lh), [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7) | [Mrs\. Officer](https://open.spotify.com/album/099qvavnu7dMOdxHQMgkLC) | 2:25 |
 | 13 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5) | 3:13 |
 | 14 | [Here All Night](https://open.spotify.com/track/1MnYnayoEmTfZTM7GoPJGM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Here All Night](https://open.spotify.com/album/0caOziV0fbBR8OuU9SDiSS) | 2:56 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 42 | [So Fine](https://open.spotify.com/track/16vOSBV5pxEjoAVOfkCFvw) | [Doonte](https://open.spotify.com/artist/0PT0HsHDs8O0FVrNmFzAOr) | [So Fine](https://open.spotify.com/album/6egrOObiDKNQ1m0RPKxOKV) | 2:28 |
 | 43 | [Rêve Encore](https://open.spotify.com/track/13oV1s8UMe4O1F4APntfOa) | [Marsi Essomba](https://open.spotify.com/artist/1JciHd1f9mxxVAqTNx7cj7) | [Rêve Encore](https://open.spotify.com/album/1uFmCX4WzItqPi7nBjxuOC) | 3:29 |
 | 44 | [WALAHI](https://open.spotify.com/track/1jlUHDkqiw032xnxLlTfs8) | [Farky Farkunle](https://open.spotify.com/artist/75cgADDzuvcv2TBGqs9j2L), [DB](https://open.spotify.com/artist/76GtSdcSXkIKUsv2sOU6OB) | [Broken Promises](https://open.spotify.com/album/4nXR6XR1RjoQo941dhVTOO) | 2:31 |
-| 45 | [On shoot ! \(feat\. Chily\)](https://open.spotify.com/track/6IZr7Z7lXaliYYx88d0GJL) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [AfroViibes](https://open.spotify.com/album/75zAuEBy3Xe7VaxV0WRwRa) | 1:56 |
+| 45 | [On shoot !](https://open.spotify.com/track/6IZr7Z7lXaliYYx88d0GJL) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [AfroViibes](https://open.spotify.com/album/75zAuEBy3Xe7VaxV0WRwRa) | 1:56 |
 | 46 | [Sanity](https://open.spotify.com/track/0o0O9rTg1dnYfq5Y5Sot4d) | [Riick](https://open.spotify.com/artist/7cPUJVHsPMNMHmZe5VnVw9) | [Sanity](https://open.spotify.com/album/7sLkOpN72d4c3YVOdbthLr) | 2:42 |
 | 47 | [Industry Militant \(feat\. Roqeeb\)](https://open.spotify.com/track/763mKTGxjhewnLI0DcLJvk) | [Jabby Jay](https://open.spotify.com/artist/4SmrGcMAHjcFw5fw1zlQBq), [Roqeeb](https://open.spotify.com/artist/5rDsxkjbFsZQKUT1UgIMiC) | [1995](https://open.spotify.com/album/0OoWKYXcv7TEpAONMrOOni) | 2:52 |
 | 48 | [Position](https://open.spotify.com/track/3l2ukCnklvqRZTfW4EJR7N) | [Twyze](https://open.spotify.com/artist/3xAioknexjb40dN7lx3Bm1) | [Position](https://open.spotify.com/album/6Uhz3tasLB91baxL8EcnZP) | 2:48 |

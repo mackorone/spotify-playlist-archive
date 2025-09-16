@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cg4h2PoN9y.md) - [plain]
 
 > All things Billie!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,581,591 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,581,964 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cg4h2PoN9y.md) - [plain]
 | 49 | [Six Feet Under](https://open.spotify.com/track/2VlLbhGLVJgdOW7kKdWWFc) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Six Feet Under](https://open.spotify.com/album/74TRp3O8BRdGxc0XO0UzoY) | 3:09 |
 | 50 | [come out and play](https://open.spotify.com/track/7wC5eZcFS1Q1BsQ35DU6H4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [come out and play](https://open.spotify.com/album/0ifM8RTX9HjtCJtY9452bW) | 3:30 |
 
-Snapshot ID: `AAAAAH0eKSt1vVxtuZmxlhkvzZmo3euN`
+Snapshot ID: `AAAAAAQCM+5dNAnlMPciVc+rmcma0gDZ`

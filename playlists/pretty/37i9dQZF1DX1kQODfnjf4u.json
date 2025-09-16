@@ -1,15 +1,31 @@
 {
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: G1nter",
-  "num_followers": 105740,
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover:Hard Rico",
+  "num_followers": 105746,
   "original_name": "Hot Hits \u010cesk\u00e1 republika",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJxoHBas5/6vRtrE2sfHB1hCG9Kf",
+  "snapshot_id": "AAAAAAeaqTRlwbaAjS2D7rfwbIbEnNS2",
   "tracks": [
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "HAYABUSA",
+        "url": "https://open.spotify.com/album/00s38ogQKB2FM7HhiTQTfz"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "duration_ms": 199111,
+      "name": "HAYABUSA",
+      "url": "https://open.spotify.com/track/4Es9Odl5pS4pNWLiHyZMyh"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "ROOKIE OF THE YEAR",
         "url": "https://open.spotify.com/album/3OI0wOoWksmZ5PJDsN5Q5S"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/47Iik7IcgjxsQ7QWciqtp5"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "ZA 5 DVAN\u00c1CT",
         "url": "https://open.spotify.com/album/62bSIKrYayQrRuHMLEQWlq"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/6lMJgk1JWA21IH2WzweKcF"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "Bieber Fever Tour Life",
         "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "NEVIEM",
         "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
@@ -85,23 +101,7 @@
       "url": "https://open.spotify.com/track/58Kx48jdexHfT7reFY1TVE"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "ROOKIE OF THE YEAR",
-        "url": "https://open.spotify.com/album/3OI0wOoWksmZ5PJDsN5Q5S"
-      },
-      "artists": [
-        {
-          "name": "G1nter",
-          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
-        }
-      ],
-      "duration_ms": 119999,
-      "name": "Dnd",
-      "url": "https://open.spotify.com/track/4K5yNYv7mSJd5rYdLHaua8"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "brat",
         "url": "https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/60s9qt0f9uweJvExCjHSyb"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "ZA 5 DVAN\u00c1CT",
         "url": "https://open.spotify.com/album/62bSIKrYayQrRuHMLEQWlq"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/1z4eoH6JomEbuBSigSoFls"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "Talk2me",
         "url": "https://open.spotify.com/album/62Z3vJCF0GS2kNZ4ZMKzDe"
@@ -161,7 +161,23 @@
       "url": "https://open.spotify.com/track/0CwxocC7t7mjqvswm7TuQp"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "ROOKIE OF THE YEAR",
+        "url": "https://open.spotify.com/album/3OI0wOoWksmZ5PJDsN5Q5S"
+      },
+      "artists": [
+        {
+          "name": "G1nter",
+          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
+        }
+      ],
+      "duration_ms": 119999,
+      "name": "Dnd",
+      "url": "https://open.spotify.com/track/4K5yNYv7mSJd5rYdLHaua8"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "KSN (PINTLICH REMIX)",
         "url": "https://open.spotify.com/album/3EBOGy4G5wEzJHfZa3stFJ"
@@ -197,7 +213,143 @@
       "url": "https://open.spotify.com/track/2K4y6LbyUOr03ktqAaMZmD"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "No Broke Boys",
+        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "Gambit",
+        "url": "https://open.spotify.com/album/6QuyJZ11hFvR1VnweDNhwM"
+      },
+      "artists": [
+        {
+          "name": "Lil Buca Near",
+          "url": "https://open.spotify.com/artist/52OGEbhmyukkdvJ6EDaLH1"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "Gambit",
+      "url": "https://open.spotify.com/track/2CK7yTPUmfxCl3eZjasHe1"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "Singles & Specials",
+        "url": "https://open.spotify.com/album/6o7S3ke26XfkAXw3holB5E"
+      },
+      "artists": [
+        {
+          "name": "Ewa Farna",
+          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Na ost\u0159\u00ed no\u017ee",
+      "url": "https://open.spotify.com/track/2QvaPJZpFrlFa660GxjmFs"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/1bKLXiByaeLjSj8AjfMO75"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "duration_ms": 156026,
+      "name": "PTSD",
+      "url": "https://open.spotify.com/track/3okMwMS8V4STgRha2KT4Kz"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "10 let",
+        "url": "https://open.spotify.com/album/33OhQBHCnpg3F1vsuWtqiz"
+      },
+      "artists": [
+        {
+          "name": "FattyPillow",
+          "url": "https://open.spotify.com/artist/53zJujQ0C8gp3zFRz78WoZ"
+        }
+      ],
+      "duration_ms": 265631,
+      "name": "10 let",
+      "url": "https://open.spotify.com/track/6myE4s91ZPko0Ad94B0zyZ"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "DIAMANTY",
+        "url": "https://open.spotify.com/album/27NzFcbF4gb5vhEIUrQRi5"
+      },
+      "artists": [
+        {
+          "name": "Adam Mi\u0161\u00edk",
+          "url": "https://open.spotify.com/artist/7jY6bjQW4nkuknuIoeRNeQ"
+        },
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        }
+      ],
+      "duration_ms": 185296,
+      "name": "DIAMANTY",
+      "url": "https://open.spotify.com/track/5jYWurYKYLlecd38zrrbAV"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "Dr\u017e P\u00ed\u010du",
+        "url": "https://open.spotify.com/album/0N5AZmr2aSekuskrUfN6mp"
+      },
+      "artists": [
+        {
+          "name": "G1nter",
+          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "Dr\u017e P\u00ed\u010du",
+      "url": "https://open.spotify.com/track/7KEGsz3uwzTYo0ZQBowvRB"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "back to friends",
         "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
@@ -213,7 +365,43 @@
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "HOMEMADE",
+        "url": "https://open.spotify.com/album/1zwCitjPyOowYEBkuhgEHc"
+      },
+      "artists": [
+        {
+          "name": "Slav\u00ed\u010dek",
+          "url": "https://open.spotify.com/artist/5GfK8A8u8ruvdFiDFS1X9l"
+        }
+      ],
+      "duration_ms": 197489,
+      "name": "A\u017e po u\u0161i",
+      "url": "https://open.spotify.com/track/4xWFJWVX31eO9I2p2eVdS8"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "KHAOSAN",
+        "url": "https://open.spotify.com/album/6MEheNIi6APYSpavv3ABAl"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        },
+        {
+          "name": "Sofian Medjmedj",
+          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
+        }
+      ],
+      "duration_ms": 172258,
+      "name": "Dlouh\u00e1 Noc",
+      "url": "https://open.spotify.com/track/012j2O6GP7Au0NZDDkgU2g"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "NEVIEM",
         "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
@@ -237,219 +425,7 @@
       "url": "https://open.spotify.com/track/0TavlW2wgiYIFucM8n5XEu"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "Gambit",
-        "url": "https://open.spotify.com/album/6QuyJZ11hFvR1VnweDNhwM"
-      },
-      "artists": [
-        {
-          "name": "Lil Buca Near",
-          "url": "https://open.spotify.com/artist/52OGEbhmyukkdvJ6EDaLH1"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "Gambit",
-      "url": "https://open.spotify.com/track/2CK7yTPUmfxCl3eZjasHe1"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "10 let",
-        "url": "https://open.spotify.com/album/33OhQBHCnpg3F1vsuWtqiz"
-      },
-      "artists": [
-        {
-          "name": "FattyPillow",
-          "url": "https://open.spotify.com/artist/53zJujQ0C8gp3zFRz78WoZ"
-        }
-      ],
-      "duration_ms": 265631,
-      "name": "10 let",
-      "url": "https://open.spotify.com/track/6myE4s91ZPko0Ad94B0zyZ"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "Space Blues Music",
-        "url": "https://open.spotify.com/album/7euuPM8DU5g5vWK4ojNU5P"
-      },
-      "artists": [
-        {
-          "name": "Hasan",
-          "url": "https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW"
-        },
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        },
-        {
-          "name": "Lil Buca Near",
-          "url": "https://open.spotify.com/artist/52OGEbhmyukkdvJ6EDaLH1"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "10 Minut",
-      "url": "https://open.spotify.com/track/4JJuP53drHC7Q2TafqNEgm"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "Singles & Specials",
-        "url": "https://open.spotify.com/album/6o7S3ke26XfkAXw3holB5E"
-      },
-      "artists": [
-        {
-          "name": "Ewa Farna",
-          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Na ost\u0159\u00ed no\u017ee",
-      "url": "https://open.spotify.com/track/2QvaPJZpFrlFa660GxjmFs"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/1bKLXiByaeLjSj8AjfMO75"
-      },
-      "artists": [
-        {
-          "name": "Ektor",
-          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
-        }
-      ],
-      "duration_ms": 156026,
-      "name": "PTSD",
-      "url": "https://open.spotify.com/track/3okMwMS8V4STgRha2KT4Kz"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "No Broke Boys",
-        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 163994,
-      "name": "No Broke Boys",
-      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "DIAMANTY",
-        "url": "https://open.spotify.com/album/27NzFcbF4gb5vhEIUrQRi5"
-      },
-      "artists": [
-        {
-          "name": "Adam Mi\u0161\u00edk",
-          "url": "https://open.spotify.com/artist/7jY6bjQW4nkuknuIoeRNeQ"
-        },
-        {
-          "name": "Ben Cristovao",
-          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
-        }
-      ],
-      "duration_ms": 185296,
-      "name": "DIAMANTY",
-      "url": "https://open.spotify.com/track/5jYWurYKYLlecd38zrrbAV"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "Dr\u017e P\u00ed\u010du",
-        "url": "https://open.spotify.com/album/0N5AZmr2aSekuskrUfN6mp"
-      },
-      "artists": [
-        {
-          "name": "G1nter",
-          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "Dr\u017e P\u00ed\u010du",
-      "url": "https://open.spotify.com/track/7KEGsz3uwzTYo0ZQBowvRB"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "HOMEMADE",
-        "url": "https://open.spotify.com/album/1zwCitjPyOowYEBkuhgEHc"
-      },
-      "artists": [
-        {
-          "name": "Slav\u00ed\u010dek",
-          "url": "https://open.spotify.com/artist/5GfK8A8u8ruvdFiDFS1X9l"
-        }
-      ],
-      "duration_ms": 197489,
-      "name": "A\u017e po u\u0161i",
-      "url": "https://open.spotify.com/track/4xWFJWVX31eO9I2p2eVdS8"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "KHAOSAN",
-        "url": "https://open.spotify.com/album/6MEheNIi6APYSpavv3ABAl"
-      },
-      "artists": [
-        {
-          "name": "Ben Cristovao",
-          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
-        },
-        {
-          "name": "Sofian Medjmedj",
-          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "Dlouh\u00e1 Noc",
-      "url": "https://open.spotify.com/track/012j2O6GP7Au0NZDDkgU2g"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "HANDICAP",
         "url": "https://open.spotify.com/album/2ceDa3FSBGQq8kNjGzJjOh"
@@ -469,27 +445,7 @@
       "url": "https://open.spotify.com/track/1gl6s2ND3ykl2u6quYARm3"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "Sez\u00f3na",
-        "url": "https://open.spotify.com/album/5BRT0G9pSQVC36GDerQjzk"
-      },
-      "artists": [
-        {
-          "name": "Robin Zoot",
-          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
-        },
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 190987,
-      "name": "Sez\u00f3na",
-      "url": "https://open.spotify.com/track/6xf7MCdEyF6idcpkrHzQgI"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "Val\u010d\u00edk",
         "url": "https://open.spotify.com/album/3jIcSO4DbgoBq0vM7aazzx"
@@ -505,47 +461,7 @@
       "url": "https://open.spotify.com/track/7eFpCO3ixXADJPdl5EvpRw"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "Nemohl \u0159\u00edct",
-        "url": "https://open.spotify.com/album/6Ge3LrbiVP9OmhxhrOgu5S"
-      },
-      "artists": [
-        {
-          "name": "juli koli",
-          "url": "https://open.spotify.com/artist/3F4MshW2XrEex8rNOrrU4w"
-        },
-        {
-          "name": "STEIN27",
-          "url": "https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Nemohl \u0159\u00edct",
-      "url": "https://open.spotify.com/track/1b2VxV0XkMzqOGPpmZxe8V"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "Ja, S\u00e1ra",
-        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
-      },
-      "artists": [
-        {
-          "name": "Sara Rikas",
-          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
-        },
-        {
-          "name": "Matej Turcer",
-          "url": "https://open.spotify.com/artist/1P1NFb4HKvz4xpSPlkgLlF"
-        }
-      ],
-      "duration_ms": 281346,
-      "name": "Cigarety",
-      "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "Bieber Fever Tour Life",
         "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
@@ -565,7 +481,67 @@
       "url": "https://open.spotify.com/track/4oLJGn19J4OWAPC7fV5b5E"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "Nemohl \u0159\u00edct",
+        "url": "https://open.spotify.com/album/6Ge3LrbiVP9OmhxhrOgu5S"
+      },
+      "artists": [
+        {
+          "name": "juli koli",
+          "url": "https://open.spotify.com/artist/3F4MshW2XrEex8rNOrrU4w"
+        },
+        {
+          "name": "STEIN27",
+          "url": "https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Nemohl \u0159\u00edct",
+      "url": "https://open.spotify.com/track/1b2VxV0XkMzqOGPpmZxe8V"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "Ja, S\u00e1ra",
+        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
+      },
+      "artists": [
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        },
+        {
+          "name": "Matej Turcer",
+          "url": "https://open.spotify.com/artist/1P1NFb4HKvz4xpSPlkgLlF"
+        }
+      ],
+      "duration_ms": 281346,
+      "name": "Cigarety",
+      "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "Sez\u00f3na",
+        "url": "https://open.spotify.com/album/5BRT0G9pSQVC36GDerQjzk"
+      },
+      "artists": [
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 190987,
+      "name": "Sez\u00f3na",
+      "url": "https://open.spotify.com/track/6xf7MCdEyF6idcpkrHzQgI"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
@@ -581,7 +557,207 @@
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "Just Keep Watching (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 142550,
+      "name": "Just Keep Watching (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "The Underdog",
+        "url": "https://open.spotify.com/album/3rOYAOvImczZjhKw2m6f6B"
+      },
+      "artists": [
+        {
+          "name": "Katannah",
+          "url": "https://open.spotify.com/artist/4FlpITxeMarYCggIrcOE6j"
+        },
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        }
+      ],
+      "duration_ms": 162118,
+      "name": "415 ft. Robin Zoot",
+      "url": "https://open.spotify.com/track/4OTbv2KXIhQzXRUERoQaVq"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "In\u00e9 Plemen\u00e1",
+        "url": "https://open.spotify.com/album/4Qbvqfwp9frD49exTkomCV"
+      },
+      "artists": [
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 188936,
+      "name": "In\u00e9 Plemen\u00e1",
+      "url": "https://open.spotify.com/track/0Bb5TRJzYDMOswry6GKDSr"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "FANCY",
+        "url": "https://open.spotify.com/album/4SCeI1CpSjYAwyyQ6nhr6Q"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        },
+        {
+          "name": "Sofian Medjmedj",
+          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/6RXu4x7xRO1CpJbHCjguET"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "Drive By",
+        "url": "https://open.spotify.com/album/5VO7ksbvagitZYZArtxl33"
+      },
+      "artists": [
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/2vMxLcwqHKxvVdBtKRpyUY"
+        },
+        {
+          "name": "Lboy Bsc",
+          "url": "https://open.spotify.com/artist/7HjHXYRxGom5mjP1lHKHW2"
+        }
+      ],
+      "duration_ms": 167141,
+      "name": "Silnej hlad",
+      "url": "https://open.spotify.com/track/6pLvqvjAQG9kXpKgGCFbgd"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "brat",
+        "url": "https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/6A7jNA1DlUaZPTg51DOyTC"
+        },
+        {
+          "name": "G1nter",
+          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "studen\u00e9 srdce",
+      "url": "https://open.spotify.com/track/6GwekXZF2LdRWQ8IebcoQn"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "M\u011b Nedostanou",
+        "url": "https://open.spotify.com/album/0o7Il9BCp3VZc9F0ug1C9v"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "M\u011b Nedostanou",
+      "url": "https://open.spotify.com/track/0OZ9KaHagV90vvlhNUYdh7"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "NEVIEM",
+        "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
+      },
+      "artists": [
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "SpecialBeatz",
+          "url": "https://open.spotify.com/artist/2uk6siR31HTp2t4V2cspwe"
+        }
+      ],
+      "duration_ms": 211040,
+      "name": "Nehaj tak",
+      "url": "https://open.spotify.com/track/5SdanljnIl81vy8nsLYea4"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
+      "album": {
+        "name": "Impostor syndrom",
+        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        },
+        {
+          "name": "Saul",
+          "url": "https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "C\u00edgo a k\u00e1va (feat. Saul)",
+      "url": "https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N"
+    },
+    {
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -613,191 +789,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "Just Keep Watching (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 142550,
-      "name": "Just Keep Watching (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "The Underdog",
-        "url": "https://open.spotify.com/album/3rOYAOvImczZjhKw2m6f6B"
-      },
-      "artists": [
-        {
-          "name": "Katannah",
-          "url": "https://open.spotify.com/artist/4FlpITxeMarYCggIrcOE6j"
-        },
-        {
-          "name": "Robin Zoot",
-          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
-        }
-      ],
-      "duration_ms": 162118,
-      "name": "415 ft. Robin Zoot",
-      "url": "https://open.spotify.com/track/4OTbv2KXIhQzXRUERoQaVq"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "FANCY",
-        "url": "https://open.spotify.com/album/4SCeI1CpSjYAwyyQ6nhr6Q"
-      },
-      "artists": [
-        {
-          "name": "Ben Cristovao",
-          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
-        },
-        {
-          "name": "Sofian Medjmedj",
-          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "FANCY",
-      "url": "https://open.spotify.com/track/6RXu4x7xRO1CpJbHCjguET"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "brat",
-        "url": "https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp"
-      },
-      "artists": [
-        {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
-        },
-        {
-          "name": "Luca Brassi10x",
-          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
-        },
-        {
-          "name": "Karlo",
-          "url": "https://open.spotify.com/artist/6A7jNA1DlUaZPTg51DOyTC"
-        },
-        {
-          "name": "G1nter",
-          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "studen\u00e9 srdce",
-      "url": "https://open.spotify.com/track/6GwekXZF2LdRWQ8IebcoQn"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "Drive By",
-        "url": "https://open.spotify.com/album/5VO7ksbvagitZYZArtxl33"
-      },
-      "artists": [
-        {
-          "name": "Dorian",
-          "url": "https://open.spotify.com/artist/2vMxLcwqHKxvVdBtKRpyUY"
-        },
-        {
-          "name": "Lboy Bsc",
-          "url": "https://open.spotify.com/artist/7HjHXYRxGom5mjP1lHKHW2"
-        }
-      ],
-      "duration_ms": 167141,
-      "name": "Silnej hlad",
-      "url": "https://open.spotify.com/track/6pLvqvjAQG9kXpKgGCFbgd"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "M\u011b Nedostanou",
-        "url": "https://open.spotify.com/album/0o7Il9BCp3VZc9F0ug1C9v"
-      },
-      "artists": [
-        {
-          "name": "Hard Rico",
-          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "M\u011b Nedostanou",
-      "url": "https://open.spotify.com/track/0OZ9KaHagV90vvlhNUYdh7"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "NEVIEM",
-        "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
-      },
-      "artists": [
-        {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
-        },
-        {
-          "name": "SpecialBeatz",
-          "url": "https://open.spotify.com/artist/2uk6siR31HTp2t4V2cspwe"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "Nehaj tak",
-      "url": "https://open.spotify.com/track/5SdanljnIl81vy8nsLYea4"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "In\u00e9 Plemen\u00e1",
-        "url": "https://open.spotify.com/album/4Qbvqfwp9frD49exTkomCV"
-      },
-      "artists": [
-        {
-          "name": "Sara Rikas",
-          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
-        },
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 188936,
-      "name": "In\u00e9 Plemen\u00e1",
-      "url": "https://open.spotify.com/track/0Bb5TRJzYDMOswry6GKDSr"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
-      "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        },
-        {
-          "name": "Saul",
-          "url": "https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "C\u00edgo a k\u00e1va (feat. Saul)",
-      "url": "https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N"
-    },
-    {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "Love Me Not / Love Is Blind",
         "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
@@ -813,7 +805,7 @@
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "Pro \u0161t\u011bst\u00ed",
         "url": "https://open.spotify.com/album/0PjQfJtve9FGWFyVwaGKL2"
@@ -829,7 +821,7 @@
       "url": "https://open.spotify.com/track/6KrZjI3fqzqctnmO0MjC4d"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -869,7 +861,7 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "Impostor syndrom",
         "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
@@ -885,7 +877,7 @@
       "url": "https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "Bieber Fever",
         "url": "https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB"
@@ -901,7 +893,7 @@
       "url": "https://open.spotify.com/track/5E1tL0zofGATKf1cthCxwf"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "VOJNA",
         "url": "https://open.spotify.com/album/0QPn6C5PKpVLqOJnyRiAxZ"
@@ -925,7 +917,7 @@
       "url": "https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "No Sleep Gang / Get Low",
         "url": "https://open.spotify.com/album/0X6MieF1nCWmAcU33hFHqz"
@@ -945,7 +937,7 @@
       "url": "https://open.spotify.com/track/4mVwqx2xCrkDP2vYgh38jG"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "Narcos",
         "url": "https://open.spotify.com/album/5RFUeH46MDwQ1PSIPJM6s5"
@@ -965,7 +957,7 @@
       "url": "https://open.spotify.com/track/1OWQtElgSSmAcIT6fZLJ6R"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "Painkillers",
         "url": "https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp"
@@ -989,7 +981,7 @@
       "url": "https://open.spotify.com/track/5MdR2U7mgeQjCedqj5kC2o"
     },
     {
-      "added_at": "2025-09-10 14:04:00",
+      "added_at": "2025-09-15 14:17:25",
       "album": {
         "name": "MONA LISA",
         "url": "https://open.spotify.com/album/0e60PL1Bp0RMNWAeqWJuqC"

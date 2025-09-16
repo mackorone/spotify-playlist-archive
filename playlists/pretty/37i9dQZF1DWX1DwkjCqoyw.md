@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 
 > The biggest crossover songs from the islands and the diaspora\. Cover: Mahalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,447 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,448 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 11 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 |
 | 12 | [Twinkle](https://open.spotify.com/track/4G08pUaQ5frf1o1WMT7D4L) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [VENT](https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0) | 3:16 |
 | 13 | [You're Perfect](https://open.spotify.com/track/4iSWQ5Eadn5tZvvG9XNzYN) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [You're Perfect](https://open.spotify.com/album/6vZbWkCUqbIbEZnPaoDBFF) | 3:16 |
-| 14 | [Been A Minute](https://open.spotify.com/track/492y99GG1u1giNjvFC3WiR) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Been A Minute](https://open.spotify.com/album/3thXFp5MbhUtv0C5eCJSHG) | 3:20 |
-| 15 | [Happy Birthday](https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Happy Birthday](https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg) | 3:04 |
+| 14 | [Happy Birthday](https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Happy Birthday](https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg) | 3:04 |
+| 15 | [Been A Minute](https://open.spotify.com/track/492y99GG1u1giNjvFC3WiR) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Been A Minute](https://open.spotify.com/album/3thXFp5MbhUtv0C5eCJSHG) | 3:20 |
 | 16 | [V6](https://open.spotify.com/track/7aBd8qMooFYZtQQwQJFAdX) | [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [V6](https://open.spotify.com/album/1VtkkjbqEL8STeBQmpy1Fp) | 2:42 |
 | 17 | [Call Me If](https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [VENT](https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0) | 4:00 |
 | 18 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 |
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 27 | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/track/4M8tmhoPrUN3W89SChMxba) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/album/0NRzHfHBffN44wOGby2gJP) | 3:15 |
 | 28 | [Moments](https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 3:03 |
 | 29 | [Mariposa](https://open.spotify.com/track/7yCyUU23UQA4gXkPYpCF8z) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Mariposa](https://open.spotify.com/album/296P0WTEXbp7n9NpVCsAqV) | 3:42 |
-| 30 | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [F.S.](https://open.spotify.com/artist/0KR0MgITEQAm0sLRrcuExN) | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu) | 3:01 |
-| 31 | [Talibhan](https://open.spotify.com/track/2fZIqtkyJAEvrrriiCGXNc) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Talibhan](https://open.spotify.com/album/2ii7mUCpSxXp3pWnjP6lPa) | 3:03 |
+| 30 | [Talibhan](https://open.spotify.com/track/2fZIqtkyJAEvrrriiCGXNc) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Talibhan](https://open.spotify.com/album/2ii7mUCpSxXp3pWnjP6lPa) | 3:03 |
+| 31 | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [F.S.](https://open.spotify.com/artist/0KR0MgITEQAm0sLRrcuExN) | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu) | 3:01 |
 | 32 | [Mad Out](https://open.spotify.com/track/0bTlhD1l36iHX1SUiNa3nL) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Mad Out](https://open.spotify.com/album/6nR7RCfNBtfEHNW7wRVP67) | 2:33 |
 | 33 | [History](https://open.spotify.com/track/1nCHgECzuu3szJeVJQRnNq) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [History](https://open.spotify.com/album/0blNw4EqUtkfsJ5VvzDgFO) | 3:05 |
 | 34 | [You're The One I Love \(with Rvssian\)](https://open.spotify.com/track/6x4Lxr3upD3MQsvxi6gePp) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [You're The One I Love \(with Rvssian\)](https://open.spotify.com/album/1tBb7Ipr1HeCNpWXa78aX9) | 2:10 |
-| 35 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 |
-| 36 | [Likkle Miss](https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Likkle Miss](https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk) | 2:14 |
+| 35 | [Likkle Miss](https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Likkle Miss](https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk) | 2:14 |
+| 36 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 |
 | 37 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 |
 | 38 | [Update](https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Update](https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe) | 3:24 |
 | 39 | [Stay So](https://open.spotify.com/track/5Qdbkemkdk8syZXJQVabSf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Reggae Gold 2018: 25th Anniversary](https://open.spotify.com/album/6NDBbiZSbAqqP6k6vaMFU8) | 3:40 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 47 | [BOUNCE](https://open.spotify.com/track/744IMVuf8wEVECCOLThDHJ) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7), [Dunw3ll](https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0) | [BOUNCE](https://open.spotify.com/album/1EIWqkCUf5ZR6FBaP0J8LV) | 2:33 |
 | 48 | [Pieces \(with Jahshii\)](https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Pieces](https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW) | 3:39 |
 | 49 | [Curious](https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Curious](https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4) | 2:41 |
-| 50 | [Tack Back](https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Tack Back](https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq) | 3:18 |
+| 50 | [Banga](https://open.spotify.com/track/0VQCtoStmIbr3IS5lvDRiG) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Man With No Door](https://open.spotify.com/album/1MS5QTc5isnW4DGXNVm1PZ) | 2:57 |
 
-Snapshot ID: `AAAAAK4/9+L3i95tnfLgHLaT0MSjyjS2`
+Snapshot ID: `AAAAAIBdK+wTc6aj+ENzjsYo3R3vpuHz`

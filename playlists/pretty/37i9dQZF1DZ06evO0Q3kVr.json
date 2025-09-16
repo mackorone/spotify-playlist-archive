@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Bostik. The essential tracks, all in one playlist.",
-  "num_followers": 6305,
+  "num_followers": 6308,
   "original_name": "This Is Banda Bostik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAByEIIG+5xXkZJw3IBz1WEJ",
+  "snapshot_id": "aMYFgAAAAABYeGTIh5PLdb4aBeiWmZxS",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 208786,
-      "name": "Angeles de la Ciudad",
-      "url": "https://open.spotify.com/track/4uZc9Vu1JQ5FAKCDu7OdXF"
+      "duration_ms": 290481,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/0yXNbmCKjFjDwyhOOw8Ghn"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 199738,
-      "name": "El Sexo Opuesto y Su Realidad",
-      "url": "https://open.spotify.com/track/33DP7d6lF7OZ1e9PFJm0mb"
+      "duration_ms": 207772,
+      "name": "\u00c1ngeles de la Ciudad",
+      "url": "https://open.spotify.com/track/6JkK65mfQxvlgtzRRi7i9L"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Del Barrio",
-        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 290481,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/0yXNbmCKjFjDwyhOOw8Ghn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
@@ -379,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 367850,
+      "name": "Jesus de Nazareth",
+      "url": "https://open.spotify.com/track/1b9zxrKhOxANckyLwNTxB7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Pie de Guerra",
         "url": "https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD"
       },
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 180744,
-      "name": "Me Gusta Ser Asi",
-      "url": "https://open.spotify.com/track/2Ez75VowsFAk1kTFslUskQ"
+      "duration_ms": 199738,
+      "name": "El Sexo Opuesto y Su Realidad",
+      "url": "https://open.spotify.com/track/33DP7d6lF7OZ1e9PFJm0mb"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
       "duration_ms": 241826,
       "name": "El Vigilante",
       "url": "https://open.spotify.com/track/4H4w7HSrmZO3cqBivf3TCe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Del Barrio",
-        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 367850,
-      "name": "Jesus de Nazareth",
-      "url": "https://open.spotify.com/track/1b9zxrKhOxANckyLwNTxB7"
     },
     {
       "added_at": null,
@@ -459,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En el Camino",
-        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "S.O.S. de Amor",
-      "url": "https://open.spotify.com/track/4BHg0cux6eWiKNtSckEh0q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Del Barrio",
         "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
       },
@@ -487,6 +455,22 @@
       "duration_ms": 346488,
       "name": "Juan Sin Miedo",
       "url": "https://open.spotify.com/track/7sccHyJmpqyYpYAk8HVTpQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En el Camino",
+        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "S.O.S. de Amor",
+      "url": "https://open.spotify.com/track/4BHg0cux6eWiKNtSckEh0q"
     },
     {
       "added_at": null,
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 393626,
-      "name": "Tocando Fondo",
-      "url": "https://open.spotify.com/track/1PTYtaCMIEJXvw3Y7gXXeW"
+      "duration_ms": 385560,
+      "name": "Hipotecados",
+      "url": "https://open.spotify.com/track/7q8GWqCr3sAEp7Tgx1GURo"
     },
     {
       "added_at": null,
@@ -612,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 385560,
-      "name": "Hipotecados",
-      "url": "https://open.spotify.com/track/7q8GWqCr3sAEp7Tgx1GURo"
+      "duration_ms": 393626,
+      "name": "Tocando Fondo",
+      "url": "https://open.spotify.com/track/1PTYtaCMIEJXvw3Y7gXXeW"
     },
     {
       "added_at": null,
@@ -683,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Aniversario, Vol. 2 (Rock de la Banda para la Banda)",
-        "url": "https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
       "artists": [
         {
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 318893,
-      "name": "Tlaltelolco 68",
-      "url": "https://open.spotify.com/track/75MJBxhJ5nLXTBllGI5dwP"
+      "duration_ms": 381026,
+      "name": "Ladr\u00f3n del Barrio",
+      "url": "https://open.spotify.com/track/6rqBDztqwUSqcFueev5vTc"
     },
     {
       "added_at": null,
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 426160,
-      "name": "Exeso de Droga",
-      "url": "https://open.spotify.com/track/1JVc0G7dDEXJskkEcOD2Oa"
+      "duration_ms": 318893,
+      "name": "Tlaltelolco 68",
+      "url": "https://open.spotify.com/track/75MJBxhJ5nLXTBllGI5dwP"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
       "duration_ms": 191750,
       "name": "Maribel",
       "url": "https://open.spotify.com/track/24R36ZDhCWbXsucZwm4LBc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Aniversario, Vol. 2 (Rock de la Banda para la Banda)",
+        "url": "https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 426160,
+      "name": "Exeso de Droga",
+      "url": "https://open.spotify.com/track/1JVc0G7dDEXJskkEcOD2Oa"
     },
     {
       "added_at": null,

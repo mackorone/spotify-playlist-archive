@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Sublime\n",
-  "num_followers": 63039,
+  "num_followers": 63053,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Y Que",
-      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "Hang-Ups",
         "url": "https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 221640,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Y Que",
+      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 217160,
       "name": "Tr\u00e9bol",
       "url": "https://open.spotify.com/track/5vQ92SVZwXpnIul2ORjTiE"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -763,38 +763,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 302813,
-      "name": "Delfino",
-      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
-        "name": "Salon Victoria",
-        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
-      },
-      "artists": [
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 189480,
-      "name": "Maldita Soledad",
-      "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/7KjCryDYEfzwFJNaL93Eb0"
       },
@@ -815,6 +783,38 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
+        "name": "Salon Victoria",
+        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
+      },
+      "artists": [
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        }
+      ],
+      "duration_ms": 189480,
+      "name": "Maldita Soledad",
+      "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 302813,
+      "name": "Delfino",
+      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
         "name": "Mind Your Business",
         "url": "https://open.spotify.com/album/04KN9nSLB7bQoHHjGfWTwH"
       },
@@ -827,38 +827,6 @@
       "duration_ms": 141344,
       "name": "Mind Your Business",
       "url": "https://open.spotify.com/track/4RqtE3UJO7i605pg97IM3t"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
-        "name": "En la Kalle",
-        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Skalari Rude Klub (SRK)",
-      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
-        "name": "All The Moon Stompers",
-        "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "I Wanna Riot",
-      "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -879,6 +847,22 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
+        "name": "All The Moon Stompers",
+        "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "I Wanna Riot",
+      "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
         "name": "Nice One",
         "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 152173,
       "name": "Call Your Bluff",
       "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "En la Kalle",
+        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Skalari Rude Klub (SRK)",
+      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -947,38 +947,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Magam sem tudom",
-        "url": "https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r"
-      },
-      "artists": [
-        {
-          "name": "Bohemian Betyars",
-          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
-        }
-      ],
-      "duration_ms": 190335,
-      "name": "Magam sem tudom",
-      "url": "https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
-        "name": "Radio Ghetto",
-        "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Despideme",
-      "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
       },
@@ -999,6 +967,22 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
+        "name": "Radio Ghetto",
+        "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Despideme",
+      "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
         "name": "Bersinar",
         "url": "https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 225047,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "Magam sem tudom",
+        "url": "https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r"
+      },
+      "artists": [
+        {
+          "name": "Bohemian Betyars",
+          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
+        }
+      ],
+      "duration_ms": 190335,
+      "name": "Magam sem tudom",
+      "url": "https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Balkan Boys",
-        "url": "https://open.spotify.com/album/23UxzhoU54vxIAqEFdsxI0"
-      },
-      "artists": [
-        {
-          "name": "Dubioza kolektiv",
-          "url": "https://open.spotify.com/artist/02IFYoziC7CpQRK8fbehUY"
-        }
-      ],
-      "duration_ms": 124580,
-      "name": "Balkan Boys",
-      "url": "https://open.spotify.com/track/1Q20822BTCqDzM0I3OPuGF"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "Contra-Revolucion Avenue",
         "url": "https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 182400,
       "name": "Spanish Bombs",
       "url": "https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "Balkan Boys",
+        "url": "https://open.spotify.com/album/23UxzhoU54vxIAqEFdsxI0"
+      },
+      "artists": [
+        {
+          "name": "Dubioza kolektiv",
+          "url": "https://open.spotify.com/artist/02IFYoziC7CpQRK8fbehUY"
+        }
+      ],
+      "duration_ms": 124580,
+      "name": "Balkan Boys",
+      "url": "https://open.spotify.com/track/1Q20822BTCqDzM0I3OPuGF"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Gr\u00fc\u00dfe ins Neandertal",
-        "url": "https://open.spotify.com/album/4BTJeSbI5IgKeXU0B6Auup"
-      },
-      "artists": [
-        {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
-        }
-      ],
-      "duration_ms": 106724,
-      "name": "Gr\u00fc\u00dfe ins Neandertal",
-      "url": "https://open.spotify.com/track/0ezLFIbttTjHHlhP7D1uOx"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "Rude Station",
         "url": "https://open.spotify.com/album/5Il8lM2h0OKIKGwrbFlceQ"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 192106,
       "name": "Contigo Estar\u00e9 Bien",
       "url": "https://open.spotify.com/track/7jxoIjsqigNBPTQ9QY1Jin"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "Gr\u00fc\u00dfe ins Neandertal",
+        "url": "https://open.spotify.com/album/4BTJeSbI5IgKeXU0B6Auup"
+      },
+      "artists": [
+        {
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+        }
+      ],
+      "duration_ms": 106724,
+      "name": "Gr\u00fc\u00dfe ins Neandertal",
+      "url": "https://open.spotify.com/track/0ezLFIbttTjHHlhP7D1uOx"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1179,22 +1179,6 @@
       "duration_ms": 151191,
       "name": "Leven Het Groots",
       "url": "https://open.spotify.com/track/3WaWlhDgXD8ljeO3dqQd3q"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/048fR8LNv0By4skCQYeDyG"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5YY4YVwf4pOfqARgCRVviB"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/048fR8LNv0By4skCQYeDyG"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5YY4YVwf4pOfqARgCRVviB"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
         "name": "Wir kommen in Frieden",
         "url": "https://open.spotify.com/album/0lzS8AmVEYtiQ2kQDjwVjq"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 234061,
       "name": "Wir kommen in Frieden",
       "url": "https://open.spotify.com/track/0V17DNUknI1TDWwQ4W0UN6"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Lo Que T\u00fa Me Das - Gracias",
-      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Lo Que T\u00fa Me Das - Gracias",
+      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -1359,22 +1359,6 @@
       "duration_ms": 261321,
       "name": "Tania",
       "url": "https://open.spotify.com/track/3HOTLjTf8JBpzTCcwHvhv9"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
-        "name": "Brass Emo, Vol. 2",
-        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Ocean Avenue",
-      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1423,6 +1407,22 @@
       "duration_ms": 179446,
       "name": "Endlich auf Reise",
       "url": "https://open.spotify.com/track/6MiKb3SOL9Ieht1bDJAEK9"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "Brass Emo, Vol. 2",
+        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba [feat.TAKUMA (10-FEET)]",
-        "url": "https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 303466,
-      "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba - feat.TAKUMA (10-FEET)",
-      "url": "https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "Si Oh !",
         "url": "https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 151013,
       "name": "Guapa",
       "url": "https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba [feat.TAKUMA (10-FEET)]",
+        "url": "https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 303466,
+      "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba - feat.TAKUMA (10-FEET)",
+      "url": "https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq"
     },
     {
       "added_at": "2025-07-18 06:00:06",

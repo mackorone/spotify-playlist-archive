@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Aquí viven las acústicas\. Cover: Valentina Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,854,505 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,854,171 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 34 | [La chispa adecuada \- Live](https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 5:24 |
 | 35 | [Nada Valgo Sin Tu Amor \- MTV Unplugged](https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Tr3s Presents Juanes MTV Unplugged](https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH) | 3:44 |
 | 36 | [Maquillaje \(Acoustic\)](https://open.spotify.com/track/7qDIPO5RwLqLv3kVqhgeLH) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Acoustic Sessions \#1](https://open.spotify.com/album/3bMXpSzCe91KawJRt1kiCR) | 3:04 |
-| 37 | [Tusa](https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [Tusa](https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc) | 2:33 |
-| 38 | [Si Tu No Bailas Conmigo](https://open.spotify.com/track/1Cbw6WMknPdct4PeOuUzJH) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 2:42 |
+| 37 | [Si Tu No Bailas Conmigo](https://open.spotify.com/track/1Cbw6WMknPdct4PeOuUzJH) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 2:42 |
+| 38 | [Tusa](https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [Tusa](https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc) | 2:33 |
 | 39 | [El Embrujo](https://open.spotify.com/track/6GM7WCa0accugI9b2JTeix) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo), [Josemi Carmona](https://open.spotify.com/artist/5sqVBfJ96nXdHOG7jiWvKh) | [El Embrujo](https://open.spotify.com/album/0LcKYsPViudGlqmWEoIvH7) | 3:58 |
 | 40 | [Amapolas \- Acústico](https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 3:05 |
 | 41 | [EL LOBBY](https://open.spotify.com/track/63ECpf4a5crKp0R12BhMXQ) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 3:28 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 93 | [Desorden](https://open.spotify.com/track/3vEK8aeuI9hC8yLbqm0L1n) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Desorden](https://open.spotify.com/album/1HZq5pIum2fq1cU6CeiCYs) | 3:26 |
 | 94 | [BIG BANG](https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [BIG BANG](https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS) | 3:03 |
 | 95 | [Destino \- Acústico](https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk) | [Jxta Martin](https://open.spotify.com/artist/689Xz3YbAUBmCsDYUxLu7P) | [En Acústico](https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk) | 3:27 |
-| 96 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |
-| 97 | [Siempre Cerca \- Acústico](https://open.spotify.com/track/2cp3Ez21EpWKsp541ws5mK) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Siempre Cerca \(Acústico\)](https://open.spotify.com/album/3NEYdetK2Nhf6FIbCnIlca) | 3:09 |
-| 98 | [Cama de Papel](https://open.spotify.com/track/1k4EMd4OzpawfGTFvxkRg7) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [Khotton](https://open.spotify.com/artist/3nJV4WKGZ6rh9LqpdwCOnS) | [SOMOS JAVYPABLO](https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq) | 3:16 |
+| 96 | [Siempre Cerca \- Acústico](https://open.spotify.com/track/2cp3Ez21EpWKsp541ws5mK) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Siempre Cerca \(Acústico\)](https://open.spotify.com/album/3NEYdetK2Nhf6FIbCnIlca) | 3:09 |
+| 97 | [Cama de Papel](https://open.spotify.com/track/1k4EMd4OzpawfGTFvxkRg7) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [Khotton](https://open.spotify.com/artist/3nJV4WKGZ6rh9LqpdwCOnS) | [SOMOS JAVYPABLO](https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq) | 3:16 |
+| 98 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |
 | 99 | [Underdog \- Acoustic Version](https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Underdog \(Acoustic Version\)](https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP) | 3:30 |
 | 100 | [Ojos Chiquitos](https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ) | [Ojos Chiquitos](https://open.spotify.com/album/20ji0T35I0L4g3OIrEsUOn) | 3:06 |
 

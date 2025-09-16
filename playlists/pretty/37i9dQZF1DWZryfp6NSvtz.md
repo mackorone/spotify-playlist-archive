@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Maruja
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,419 likes - 127 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,462 likes - 127 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

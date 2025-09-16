@@ -4523,6 +4523,24 @@
     },
     {
       "album": {
+        "name": "Windchimes",
+        "url": "https://open.spotify.com/album/5M14n23MeqGH1CNon4bxsm"
+      },
+      "artists": [
+        {
+          "name": "Allowe",
+          "url": "https://open.spotify.com/artist/5Ny0uNpaaAVZb4ciJUuwH0"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171545,
+      "name": "Windchimes",
+      "url": "https://open.spotify.com/track/6Fa8vurFZIVr1brilnYS5M"
+    },
+    {
+      "album": {
         "name": "Winding Path",
         "url": "https://open.spotify.com/album/24V8iGqBrqvaJO4MFUjlgm"
       },
@@ -4588,7 +4606,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 200000,
       "name": "Woodlike Experience",
       "url": "https://open.spotify.com/track/1pa2v9W2sWzOgGfVVD9LG7"

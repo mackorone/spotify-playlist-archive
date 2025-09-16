@@ -25983,6 +25983,24 @@
     },
     {
       "album": {
+        "name": "SVAG",
+        "url": "https://open.spotify.com/album/4qbumWkGdvo6HlNReuongj"
+      },
+      "artists": [
+        {
+          "name": "Kenneth Svensson",
+          "url": "https://open.spotify.com/artist/4ChUBIVdqsR82ZDAjdUvy6"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122533,
+      "name": "SVAG",
+      "url": "https://open.spotify.com/track/7pgA4UVutmW2hktzYZXNuM"
+    },
+    {
+      "album": {
         "name": "Svansen",
         "url": "https://open.spotify.com/album/6xdroRsbP7x8VSY0gQJiOA"
       },

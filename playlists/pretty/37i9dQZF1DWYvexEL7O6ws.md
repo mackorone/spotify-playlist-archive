@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 
 > The label's essential tracks by PARTYNEXTDOOR, Drake, Smiley, Naomi Sharon and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,427 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,418 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 | 99 | [LOYAL \(feat\. Drake and Bad Bunny\) \- Remix](https://open.spotify.com/track/6WGTfHSQtUcEx5vgpxTLCs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 4:41 |
 | 100 | [Ela É do Tipo \(feat\. Drake\) \[Remix\]](https://open.spotify.com/track/5Wcvle7c2jTMh5FFimP6Dw) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Ela É do Tipo \(feat\. Drake\) \[Remix\]](https://open.spotify.com/album/7ybV3NCogLGAhBx75pB3ih) | 3:32 |
 
-Snapshot ID: `AAAAANoF/EX4sZoxSryKueZsMDOUSYVE`
+Snapshot ID: `AAAAAFX4myxKhUBQaKO3v1EcWsFNEO1z`

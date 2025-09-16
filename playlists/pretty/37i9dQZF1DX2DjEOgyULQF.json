@@ -1,6 +1,6 @@
 {
   "description": "Ambient with the soothing sounds of water, rain and birds. ",
-  "num_followers": 266310,
+  "num_followers": 266728,
   "original_name": "Nature Relaxation",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2025-09-10 13:12:29",
       "album": {
+        "name": "Fields Above",
+        "url": "https://open.spotify.com/album/5W62C0F87hdnKM7GWIfuth"
+      },
+      "artists": [
+        {
+          "name": "Sinnesro",
+          "url": "https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc"
+        }
+      ],
+      "duration_ms": 153281,
+      "name": "Fields Above",
+      "url": "https://open.spotify.com/track/1OTu5THgajjpDIgtdgGbyn"
+    },
+    {
+      "added_at": "2025-09-10 13:12:29",
+      "album": {
         "name": "Jangal",
         "url": "https://open.spotify.com/album/6DbllMEJuZiMW3IyflkbFx"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 160055,
       "name": "Eden",
       "url": "https://open.spotify.com/track/0UMFi650xZxD3qj0OxsXKd"
-    },
-    {
-      "added_at": "2025-09-10 13:12:29",
-      "album": {
-        "name": "Fields Above",
-        "url": "https://open.spotify.com/album/5W62C0F87hdnKM7GWIfuth"
-      },
-      "artists": [
-        {
-          "name": "Sinnesro",
-          "url": "https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc"
-        }
-      ],
-      "duration_ms": 153281,
-      "name": "Fields Above",
-      "url": "https://open.spotify.com/track/1OTu5THgajjpDIgtdgGbyn"
     },
     {
       "added_at": "2025-09-10 13:12:29",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-09-10 13:12:29",
       "album": {
+        "name": "Peaceful Oasis",
+        "url": "https://open.spotify.com/album/6iM47rcVv5oeECBmoqgjDP"
+      },
+      "artists": [
+        {
+          "name": "Harlow Moss",
+          "url": "https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Peaceful Oasis",
+      "url": "https://open.spotify.com/track/31DnMj7hs5zUQcT82WSfil"
+    },
+    {
+      "added_at": "2025-09-10 13:12:29",
+      "album": {
         "name": "Golden Meadow",
         "url": "https://open.spotify.com/album/7csw7q2jmFiLOJdEpHQgyw"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 160000,
       "name": "Morning Flourish",
       "url": "https://open.spotify.com/track/682ajrmPSRg9h9iAnT1Y3X"
-    },
-    {
-      "added_at": "2025-09-10 13:12:29",
-      "album": {
-        "name": "Peaceful Oasis",
-        "url": "https://open.spotify.com/album/6iM47rcVv5oeECBmoqgjDP"
-      },
-      "artists": [
-        {
-          "name": "Harlow Moss",
-          "url": "https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Peaceful Oasis",
-      "url": "https://open.spotify.com/track/31DnMj7hs5zUQcT82WSfil"
     },
     {
       "added_at": "2025-09-10 13:12:29",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-09-10 13:12:29",
       "album": {
-        "name": "Fj\u00e4lldr\u00f6mmar",
-        "url": "https://open.spotify.com/album/1vdbvO1wkYJghGNq7WPxJA"
-      },
-      "artists": [
-        {
-          "name": "Center of Attention",
-          "url": "https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs"
-        }
-      ],
-      "duration_ms": 155874,
-      "name": "Fj\u00e4lldr\u00f6mmar",
-      "url": "https://open.spotify.com/track/6FFiYLvQAGVIwqsmVIZEgr"
-    },
-    {
-      "added_at": "2025-09-10 13:12:29",
-      "album": {
         "name": "Ebb",
         "url": "https://open.spotify.com/album/3gwbC6C3G15nY0ktcx09fL"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 136483,
       "name": "Ebb",
       "url": "https://open.spotify.com/track/6DzXikYMPvw1T9rqasupiQ"
+    },
+    {
+      "added_at": "2025-09-10 13:12:29",
+      "album": {
+        "name": "Fj\u00e4lldr\u00f6mmar",
+        "url": "https://open.spotify.com/album/1vdbvO1wkYJghGNq7WPxJA"
+      },
+      "artists": [
+        {
+          "name": "Center of Attention",
+          "url": "https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs"
+        }
+      ],
+      "duration_ms": 155874,
+      "name": "Fj\u00e4lldr\u00f6mmar",
+      "url": "https://open.spotify.com/track/6FFiYLvQAGVIwqsmVIZEgr"
     },
     {
       "added_at": "2025-09-10 13:12:29",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-09-10 13:12:29",
       "album": {
-        "name": "Natura Deambulatio",
-        "url": "https://open.spotify.com/album/2bptLMr6eyfYPvQjQJqyn2"
-      },
-      "artists": [
-        {
-          "name": "Floating Portal",
-          "url": "https://open.spotify.com/artist/1gxkloW3LpZ1pcP7iqdN5X"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Natura Deambulatio",
-      "url": "https://open.spotify.com/track/2gaji8CCmGrYVh2Ccy69wy"
-    },
-    {
-      "added_at": "2025-09-10 13:12:29",
-      "album": {
         "name": "Light Flow",
         "url": "https://open.spotify.com/album/6CIiQ9Ti0tI2yAgjGpJmdE"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2025-09-10 13:12:29",
       "album": {
-        "name": "Slumber",
-        "url": "https://open.spotify.com/album/6HwXGFUGqfDeaisYykNZGw"
+        "name": "Natura Deambulatio",
+        "url": "https://open.spotify.com/album/2bptLMr6eyfYPvQjQJqyn2"
       },
       "artists": [
         {
-          "name": "Nebuu",
-          "url": "https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP"
+          "name": "Floating Portal",
+          "url": "https://open.spotify.com/artist/1gxkloW3LpZ1pcP7iqdN5X"
         }
       ],
-      "duration_ms": 137666,
-      "name": "Slumber",
-      "url": "https://open.spotify.com/track/4zE3EZNDuoLabKLlvWcuBw"
+      "duration_ms": 210000,
+      "name": "Natura Deambulatio",
+      "url": "https://open.spotify.com/track/2gaji8CCmGrYVh2Ccy69wy"
     },
     {
       "added_at": "2025-09-10 13:12:29",
@@ -1111,6 +1095,22 @@
       "duration_ms": 172020,
       "name": "Woodland",
       "url": "https://open.spotify.com/track/7MG0wElZyCdYZg4qpBmcYS"
+    },
+    {
+      "added_at": "2025-09-10 13:12:29",
+      "album": {
+        "name": "Slumber",
+        "url": "https://open.spotify.com/album/6HwXGFUGqfDeaisYykNZGw"
+      },
+      "artists": [
+        {
+          "name": "Nebuu",
+          "url": "https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP"
+        }
+      ],
+      "duration_ms": 137666,
+      "name": "Slumber",
+      "url": "https://open.spotify.com/track/4zE3EZNDuoLabKLlvWcuBw"
     },
     {
       "added_at": "2025-09-10 13:12:29",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-09-10 13:12:29",
       "album": {
-        "name": "Elsewhere",
-        "url": "https://open.spotify.com/album/731Aao1LRdcSKTKI6y65jb"
-      },
-      "artists": [
-        {
-          "name": "Tomorrow and Now",
-          "url": "https://open.spotify.com/artist/482UOUYdqsKTTUmnENSKJQ"
-        }
-      ],
-      "duration_ms": 186982,
-      "name": "Elsewhere",
-      "url": "https://open.spotify.com/track/5cnTweMt0wMIwQ1QrrMn3n"
-    },
-    {
-      "added_at": "2025-09-10 13:12:29",
-      "album": {
         "name": "Grounded",
         "url": "https://open.spotify.com/album/73OcD8zbuUAOvWShwFij1r"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 163388,
       "name": "Grounded",
       "url": "https://open.spotify.com/track/4OLwU8YwGCYUAureSrInHQ"
+    },
+    {
+      "added_at": "2025-09-10 13:12:29",
+      "album": {
+        "name": "Elsewhere",
+        "url": "https://open.spotify.com/album/731Aao1LRdcSKTKI6y65jb"
+      },
+      "artists": [
+        {
+          "name": "Tomorrow and Now",
+          "url": "https://open.spotify.com/artist/482UOUYdqsKTTUmnENSKJQ"
+        }
+      ],
+      "duration_ms": 186982,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/5cnTweMt0wMIwQ1QrrMn3n"
     },
     {
       "added_at": "2025-09-10 13:12:29",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-09-10 13:12:29",
       "album": {
-        "name": "serulian",
-        "url": "https://open.spotify.com/album/0Hm83SrKUEQr2aQejt4I1p"
-      },
-      "artists": [
-        {
-          "name": "Fred Russ",
-          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
-        }
-      ],
-      "duration_ms": 127333,
-      "name": "serulian",
-      "url": "https://open.spotify.com/track/0k2ed287Ge88nyPcmuWOF2"
-    },
-    {
-      "added_at": "2025-09-10 13:12:29",
-      "album": {
         "name": "Amedeo Nuevo",
         "url": "https://open.spotify.com/album/06QE0b2GfD6TDMWpAVVPre"
       },
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2025-09-10 13:12:29",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/27IHCp4m0XW8XoRJsk4bYl"
+        "name": "serulian",
+        "url": "https://open.spotify.com/album/0Hm83SrKUEQr2aQejt4I1p"
       },
       "artists": [
         {
-          "name": "D'Verti",
-          "url": "https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu"
+          "name": "Fred Russ",
+          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
         }
       ],
-      "duration_ms": 130854,
-      "name": "Handwritten",
-      "url": "https://open.spotify.com/track/5E3Ix0osEIpZIf8c9wDUZ7"
+      "duration_ms": 127333,
+      "name": "serulian",
+      "url": "https://open.spotify.com/track/0k2ed287Ge88nyPcmuWOF2"
     },
     {
       "added_at": "2025-09-10 13:12:29",
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2025-09-10 13:12:29",
       "album": {
-        "name": "The Enchanted Forest",
-        "url": "https://open.spotify.com/album/4TSyvNaMQSh2DDn1kaSMcU"
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/27IHCp4m0XW8XoRJsk4bYl"
       },
       "artists": [
         {
-          "name": "Light Channel",
-          "url": "https://open.spotify.com/artist/1QsSs3Pr4rV3E5ypP9Arda"
+          "name": "D'Verti",
+          "url": "https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu"
         }
       ],
-      "duration_ms": 192000,
-      "name": "The Enchanted Forest",
-      "url": "https://open.spotify.com/track/20AEQnFt9dyIwCa8Cpqhkv"
+      "duration_ms": 130854,
+      "name": "Handwritten",
+      "url": "https://open.spotify.com/track/5E3Ix0osEIpZIf8c9wDUZ7"
     },
     {
       "added_at": "2025-09-10 13:12:29",
@@ -1479,6 +1463,22 @@
       "duration_ms": 153250,
       "name": "Meditation birds",
       "url": "https://open.spotify.com/track/3JceqUgXQPaX6RYakFUy4X"
+    },
+    {
+      "added_at": "2025-09-10 13:12:29",
+      "album": {
+        "name": "The Enchanted Forest",
+        "url": "https://open.spotify.com/album/4TSyvNaMQSh2DDn1kaSMcU"
+      },
+      "artists": [
+        {
+          "name": "Light Channel",
+          "url": "https://open.spotify.com/artist/1QsSs3Pr4rV3E5ypP9Arda"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "The Enchanted Forest",
+      "url": "https://open.spotify.com/track/20AEQnFt9dyIwCa8Cpqhkv"
     },
     {
       "added_at": "2025-09-10 13:12:29",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-09-10 13:12:29",
       "album": {
-        "name": "Seeker",
-        "url": "https://open.spotify.com/album/1rqGqD4r5VYrX2VWacttTp"
-      },
-      "artists": [
-        {
-          "name": "Wanyes",
-          "url": "https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC"
-        }
-      ],
-      "duration_ms": 152058,
-      "name": "Seeker",
-      "url": "https://open.spotify.com/track/5j6bLwlE7uTCbjtQedZrle"
-    },
-    {
-      "added_at": "2025-09-10 13:12:29",
-      "album": {
         "name": "Liora",
         "url": "https://open.spotify.com/album/1pxslN8y8JWJ9TmbPUU0SR"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 267600,
       "name": "Liora",
       "url": "https://open.spotify.com/track/5zJtd9HHO0K1s0itagJpJA"
+    },
+    {
+      "added_at": "2025-09-10 13:12:29",
+      "album": {
+        "name": "Seeker",
+        "url": "https://open.spotify.com/album/1rqGqD4r5VYrX2VWacttTp"
+      },
+      "artists": [
+        {
+          "name": "Wanyes",
+          "url": "https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC"
+        }
+      ],
+      "duration_ms": 152058,
+      "name": "Seeker",
+      "url": "https://open.spotify.com/track/5j6bLwlE7uTCbjtQedZrle"
     },
     {
       "added_at": "2025-09-10 13:12:29",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-09-10 13:12:29",
       "album": {
-        "name": "Astrae In The Park",
-        "url": "https://open.spotify.com/album/3w9t9fAwgFr66ABS6a1CNy"
-      },
-      "artists": [
-        {
-          "name": "Dyfi Francis",
-          "url": "https://open.spotify.com/artist/1JKh71Pj7aGLigPUqmoeqj"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Astrae In The Park",
-      "url": "https://open.spotify.com/track/6UcVJh1WM53K8znHAdvbzU"
-    },
-    {
-      "added_at": "2025-09-10 13:12:29",
-      "album": {
         "name": "Neon Feathers",
         "url": "https://open.spotify.com/album/0OzS7lpvnM5Oi2Za4NBnpW"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 126825,
       "name": "Neon Feathers",
       "url": "https://open.spotify.com/track/1DBPSOM91XvvQf9uEYUfmJ"
+    },
+    {
+      "added_at": "2025-09-10 13:12:29",
+      "album": {
+        "name": "Astrae In The Park",
+        "url": "https://open.spotify.com/album/3w9t9fAwgFr66ABS6a1CNy"
+      },
+      "artists": [
+        {
+          "name": "Dyfi Francis",
+          "url": "https://open.spotify.com/artist/1JKh71Pj7aGLigPUqmoeqj"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Astrae In The Park",
+      "url": "https://open.spotify.com/track/6UcVJh1WM53K8znHAdvbzU"
     },
     {
       "added_at": "2025-09-10 13:12:29",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2025-09-10 13:12:29",
       "album": {
+        "name": "Exploring Textures",
+        "url": "https://open.spotify.com/album/6uZUjhCErSJ1mlT7OSbbrv"
+      },
+      "artists": [
+        {
+          "name": "Gateway IV",
+          "url": "https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "Exploring Textures",
+      "url": "https://open.spotify.com/track/27KqGoyfodOPmOGt7Aw9Z6"
+    },
+    {
+      "added_at": "2025-09-10 13:12:29",
+      "album": {
         "name": "Gentle River Flow",
         "url": "https://open.spotify.com/album/4rjsv5OQA5vxTTI3DDU90r"
       },
@@ -1867,18 +1883,18 @@
     {
       "added_at": "2025-09-10 13:12:29",
       "album": {
-        "name": "Exploring Textures",
-        "url": "https://open.spotify.com/album/6uZUjhCErSJ1mlT7OSbbrv"
+        "name": "Flow of Silence",
+        "url": "https://open.spotify.com/album/3yEsmW9wEHlnr0MVywqkPj"
       },
       "artists": [
         {
-          "name": "Gateway IV",
-          "url": "https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45"
+          "name": "Lake Nebula",
+          "url": "https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU"
         }
       ],
-      "duration_ms": 177818,
-      "name": "Exploring Textures",
-      "url": "https://open.spotify.com/track/27KqGoyfodOPmOGt7Aw9Z6"
+      "duration_ms": 170400,
+      "name": "Flow of Silence",
+      "url": "https://open.spotify.com/track/63GiDJoqHGpoqKb9PNMLGG"
     },
     {
       "added_at": "2025-09-10 13:12:29",
@@ -1895,22 +1911,6 @@
       "duration_ms": 168000,
       "name": "Universal Flow",
       "url": "https://open.spotify.com/track/2EnUrCq7Dqvxvx1k3TxVaT"
-    },
-    {
-      "added_at": "2025-09-10 13:12:29",
-      "album": {
-        "name": "Flow of Silence",
-        "url": "https://open.spotify.com/album/3yEsmW9wEHlnr0MVywqkPj"
-      },
-      "artists": [
-        {
-          "name": "Lake Nebula",
-          "url": "https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Flow of Silence",
-      "url": "https://open.spotify.com/track/63GiDJoqHGpoqKb9PNMLGG"
     },
     {
       "added_at": "2025-09-10 13:12:29",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2025-09-10 13:12:29",
       "album": {
-        "name": "Infinite Potential",
-        "url": "https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9"
-      },
-      "artists": [
-        {
-          "name": "unvrsl frqncy",
-          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Infinite Potential",
-      "url": "https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv"
-    },
-    {
-      "added_at": "2025-09-10 13:12:29",
-      "album": {
         "name": "Essence",
         "url": "https://open.spotify.com/album/6Y5IvTe3fK2LufN9cssA5D"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 158294,
       "name": "Eutony",
       "url": "https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt"
+    },
+    {
+      "added_at": "2025-09-10 13:12:29",
+      "album": {
+        "name": "Infinite Potential",
+        "url": "https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9"
+      },
+      "artists": [
+        {
+          "name": "unvrsl frqncy",
+          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Infinite Potential",
+      "url": "https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv"
     },
     {
       "added_at": "2025-09-10 13:12:29",

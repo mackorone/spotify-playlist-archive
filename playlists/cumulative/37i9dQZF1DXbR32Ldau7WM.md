@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: kurayamisaka
 
-1,377 songs - 3 day 18 hr 25 min
+1,378 songs - 3 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [influencer](https://open.spotify.com/track/5notliDFZDp6H5m95UmQve) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/3X1Y5nukifVvhjmyAcsZ6o) | 3:23 | 2022-09-20 | 2022-09-22 |
 | [INSOMNIAC](https://open.spotify.com/track/2EzDDlGlwTPNPQPojXvKty) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [INSOMNIAC](https://open.spotify.com/album/2e59EpMeBgRjNL4dcAXzB3) | 3:58 | 2023-11-14 | 2023-12-09 |
 | [invader](https://open.spotify.com/track/5BDRb5DIChQXBLlZOH6O4L) | [MUCC](https://open.spotify.com/artist/2OfxY8WbbZZu7GiRJLb0P5) | [invader](https://open.spotify.com/album/0QC4l7nVzdOKsucnXFJkhU) | 4:05 | 2024-12-03 | 2024-12-18 |
+| [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 | 2025-09-15 |  |
 | [Is It Too Late?](https://open.spotify.com/track/2hIkxugVJfPd8FjXzLpOrt) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [Is It Too Late?](https://open.spotify.com/album/2HbIJbRXMAsMLvKaESkrli) | 3:50 | 2022-05-12 | 2022-10-19 |
 | [Isolation](https://open.spotify.com/track/4opKgwYm8qZlyQpYEnkJBU) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [GUITARHYTHM VII](https://open.spotify.com/album/5K6odZrL1WNV3KGTkQuEAS) | 5:24 | 2023-09-12 | 2023-09-27 |
 | [ISOLATION](https://open.spotify.com/track/0dr8G20Tls20sjfHdX10x0) | [SKYE](https://open.spotify.com/artist/49sJZCQvc3KN6s9VCMnbUa) | [ISOLATION / Dear M](https://open.spotify.com/album/4vpCa6WiJAStwqwI93kXgF) | 3:08 | 2022-05-17 | 2022-05-19 |
@@ -1138,7 +1139,7 @@
 | [君と僕のメロディ](https://open.spotify.com/track/1spkMgFPcWxnUzrILP5FWC) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [THE SPELLBOUND](https://open.spotify.com/album/3XyMTPPidPjGUoINx4Yenc) | 6:04 | 2022-05-12 | 2022-06-05 |
 | [君と羊と青](https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 2:42 | 2024-04-23 |  |
 | [命題](https://open.spotify.com/track/4AOdoMJXt8cddiH1SzXlA0) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [命題](https://open.spotify.com/album/5bQIFv4iRJ6ZOEAFofNOjP) | 4:50 | 2025-07-22 |  |
-| [四季回生](https://open.spotify.com/track/33RoMsSYspTo6ybIRrHBtD) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [四季回生](https://open.spotify.com/album/4voeIX26mHuytm5jUAAhQl) | 2:26 | 2025-08-01 |  |
+| [四季回生](https://open.spotify.com/track/33RoMsSYspTo6ybIRrHBtD) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [四季回生](https://open.spotify.com/album/4voeIX26mHuytm5jUAAhQl) | 2:26 | 2025-08-01 | 2025-09-16 |
 | [在東京少年](https://open.spotify.com/track/605J8O8EnF8FThxJ8Ma0G7) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [式日散花](https://open.spotify.com/album/7j7qbYpUeyXm543KD9lIC5) | 3:38 | 2023-09-12 | 2023-09-27 |
 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 | 2023-07-25 |  |
 | [坂道を上って](https://open.spotify.com/track/3XilAwFIiV2u3lA58K3xSS) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 3:54 | 2022-06-14 | 2022-06-22 |

@@ -4,7 +4,7 @@
 
 > This is Kinderen voor Kinderen\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 25 min
+51 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Op Een Onbewoond Eiland](https://open.spotify.com/track/2TWLN4BJqA7jmWvIfrsIM1) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [2 \- Kinderen voor Kinderen](https://open.spotify.com/album/364XB8dlY6Jnh19rhOljgH) | 3:03 | 2025-08-19 |  |
 | [P.H.O.N.E\. \- NXT](https://open.spotify.com/track/4gLGJYN0XtBl2Bu7t58MoO) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [P.H.O.N.E\. \(NXT\)](https://open.spotify.com/album/547QuBDvUvzz1DCUW6MXHJ) | 2:20 | 2025-08-19 |  |
 | [Pasapas](https://open.spotify.com/track/7G7xDVo2PIUOJVipYbe3bV) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [40 \- Reis mee!](https://open.spotify.com/album/3s1UkvqVNjeDkoH3VGMqmW) | 2:53 | 2025-08-19 |  |
-| [Powercheck](https://open.spotify.com/track/4KhX5qA3qhKyRT2gaxjnw9) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [40 \- Reis mee!](https://open.spotify.com/album/3s1UkvqVNjeDkoH3VGMqmW) | 3:12 | 2025-08-19 |  |
+| [Powercheck](https://open.spotify.com/track/4KhX5qA3qhKyRT2gaxjnw9) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [40 \- Reis mee!](https://open.spotify.com/album/3s1UkvqVNjeDkoH3VGMqmW) | 3:12 | 2025-08-19 | 2025-09-16 |
 | [Pyjamadag](https://open.spotify.com/track/5qEV3BU1n5DAc9PmHk3liS) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [38 \- Gruwelijk eng](https://open.spotify.com/album/2PxkC5dg2AQGYSrC6shWXO) | 2:49 | 2025-08-19 |  |
 | [Reis mee!](https://open.spotify.com/track/2vINFq5NlL2zC247YSWXwt) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [40 \- Reis mee!](https://open.spotify.com/album/3s1UkvqVNjeDkoH3VGMqmW) | 2:53 | 2025-08-19 |  |
 | [Samen alleen \- NXT](https://open.spotify.com/track/3hW3iRrYjo63Tj2faTc4rY) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Samen Alleen \(NXT\)](https://open.spotify.com/album/2iKOMx5q7TDQluXyceh3bF) | 2:50 | 2025-08-19 |  |
@@ -49,6 +49,7 @@
 | [Superkracht \- NXT](https://open.spotify.com/track/7GQdgmX4UezlLisuY82Lcl) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Superkracht \(NXT\)](https://open.spotify.com/album/5okXjfwZKRpR8YcXiMqVdk) | 2:53 | 2025-08-19 |  |
 | [Twee minuten stilte](https://open.spotify.com/track/7etqkP8tZod4ffgxA0Jv6k) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Twee minuten stilte](https://open.spotify.com/album/5x7NYtsI4DAzYyLPiWMXS1) | 3:13 | 2025-08-19 |  |
 | [Vakantie in de tuin](https://open.spotify.com/track/2auDClMxhLFb9A5zv6wuVt) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Vakantie in de tuin](https://open.spotify.com/album/4rRVf4VkJ0q1pW9rRXPxtN) | 2:54 | 2025-08-19 |  |
+| [Vol avontuur](https://open.spotify.com/track/38ZJJMPnIX7gHzNJGueGMJ) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Vol avontuur](https://open.spotify.com/album/1txxR6AhJym8skXydiLFci) | 2:30 | 2025-09-16 |  |
 | [Voor Altijd Jong!](https://open.spotify.com/track/5CUyjQKT6G2yexTrboINLe) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [37 \- Voor altijd jong!](https://open.spotify.com/album/3hE8s3hbQbD6eY9LQQyBMK) | 2:50 | 2025-08-19 |  |
 | [Vreemde dingen](https://open.spotify.com/track/54zHNZbgxJeO30k6ppFoFl) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [45 \- Lekker eigenwijs](https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr) | 2:47 | 2025-08-19 |  |
 | [Vrienden met de monsters](https://open.spotify.com/track/7fTn6zBh9gJHTcltdXff3j) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [43 \- Gi\-ga\-groen](https://open.spotify.com/album/64NvoYlzgfUwUpzMiteFBA) | 2:35 | 2025-08-19 |  |

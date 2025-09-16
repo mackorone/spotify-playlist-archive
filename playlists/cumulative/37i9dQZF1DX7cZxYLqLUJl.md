@@ -4,7 +4,7 @@
 
 > Wake up at your own pace with gentle piano music.
 
-167 songs - 7 hr 16 min
+169 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Fragments](https://open.spotify.com/track/70JLpMenajRsMtCXaQ1jzu) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Fragments](https://open.spotify.com/album/1Txz3W66EqLF7DPLFGoL3K) | 2:42 | 2021-04-21 | 2024-12-04 |
 | [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 | 2023-04-05 |  |
 | [Glow](https://open.spotify.com/track/7ooM6rULm5upVZNOKwux3B) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 4:14 | 2021-04-21 | 2024-11-19 |
+| [Glow](https://open.spotify.com/track/2yp78bNsOr21Ayub9vawgP) | [Harmonic Reverie](https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi) | [Glow](https://open.spotify.com/album/5sxjKWPxo4F5lVHKE5p1IS) | 2:43 | 2025-09-15 |  |
 | [Hana Veil](https://open.spotify.com/track/4I3v3k70waiARoHw7Z1ATA) | [Anton Vega](https://open.spotify.com/artist/7H15xwuYNLQKF74GgsYfw7) | [Hana Veil](https://open.spotify.com/album/4oY8pMzsWyfqKcxxH6xk8D) | 2:24 | 2025-06-04 |  |
 | [Here](https://open.spotify.com/track/3rLYj3hgyEw9BhGgcJER8O) | [Leonardo Cupelli](https://open.spotify.com/artist/4aTJ4F6R23RQkM2ZJKU3vD) | [Here](https://open.spotify.com/album/6TzBL8Jxr3OjvgBRmOWdce) | 2:26 | 2021-04-21 | 2024-09-25 |
 | [Hiding](https://open.spotify.com/track/3a5rAo9zeU1lntg1cMdnBd) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Hiding](https://open.spotify.com/album/5v2z0CgPRZgztMiJrX2wTo) | 2:29 | 2025-04-15 |  |
@@ -175,5 +176,6 @@
 | [Wunder](https://open.spotify.com/track/119a8rsOkvUFXPwpVCQUPW) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Wunder](https://open.spotify.com/album/0inF6HuUMAG0pdakByW83E) | 2:56 | 2021-04-21 | 2024-11-19 |
 | [Young Love](https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Glacier](https://open.spotify.com/album/0D5gc8mGZMBzB5ioXy6fdK) | 2:23 | 2021-04-21 | 2025-03-12 |
 | [Étoile](https://open.spotify.com/track/1nDv71bmip8uUPCfCZuRll) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Étoile](https://open.spotify.com/album/5ljetXvSUVU4qNAfRIi1dO) | 2:28 | 2024-09-02 |  |
+| [Éveil](https://open.spotify.com/track/2brRgCl1LHEDuwMjFxp8s5) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Éveil](https://open.spotify.com/album/3A3g8Hg3Y2y42uG7BmDoft) | 2:54 | 2025-09-15 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

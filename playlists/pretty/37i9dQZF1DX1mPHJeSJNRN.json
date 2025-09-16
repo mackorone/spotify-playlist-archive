@@ -799,6 +799,22 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
+        "name": "Let's Face the Music",
+        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
+      },
+      "artists": [
+        {
+          "name": "Reinhardt Winkler",
+          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
+        }
+      ],
+      "duration_ms": 257148,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
         "name": "Den milde dag er lys og lang",
         "url": "https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC"
       },
@@ -819,46 +835,6 @@
       "duration_ms": 146146,
       "name": "Den milde dag er lys og lang",
       "url": "https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
-        "name": "Let's Face the Music",
-        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
-      },
-      "artists": [
-        {
-          "name": "Reinhardt Winkler",
-          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
-        }
-      ],
-      "duration_ms": 257148,
-      "name": "Beatrice",
-      "url": "https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
-        "name": "Cad\u00eancia Verde e Amarela",
-        "url": "https://open.spotify.com/album/48RChE59aR0lOOOWlFc4Av"
-      },
-      "artists": [
-        {
-          "name": "Morten Ankarfeldt",
-          "url": "https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU"
-        },
-        {
-          "name": "Edu Neves",
-          "url": "https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY"
-        },
-        {
-          "name": "Caio Marcio Santos",
-          "url": "https://open.spotify.com/artist/0O5ydY5JgI10hLIOEz6184"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "Cad\u00eancia",
-      "url": "https://open.spotify.com/track/7GJOLBA86KpT1BnCD1yXIs"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -911,18 +887,26 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "That Bad Eartha",
-        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
+        "name": "Cad\u00eancia Verde e Amarela",
+        "url": "https://open.spotify.com/album/48RChE59aR0lOOOWlFc4Av"
       },
       "artists": [
         {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+          "name": "Morten Ankarfeldt",
+          "url": "https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU"
+        },
+        {
+          "name": "Edu Neves",
+          "url": "https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY"
+        },
+        {
+          "name": "Caio Marcio Santos",
+          "url": "https://open.spotify.com/artist/0O5ydY5JgI10hLIOEz6184"
         }
       ],
-      "duration_ms": 174573,
-      "name": "Avril au Portugal",
-      "url": "https://open.spotify.com/track/11ephJHUUPlf7KrQiM05ic"
+      "duration_ms": 237013,
+      "name": "Cad\u00eancia",
+      "url": "https://open.spotify.com/track/7GJOLBA86KpT1BnCD1yXIs"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -943,6 +927,22 @@
       "duration_ms": 283826,
       "name": "Pennies from Heaven",
       "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "That Bad Eartha",
+        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 174573,
+      "name": "Avril au Portugal",
+      "url": "https://open.spotify.com/track/11ephJHUUPlf7KrQiM05ic"
     },
     {
       "added_at": "2025-03-13 14:14:40",

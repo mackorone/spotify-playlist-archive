@@ -2996,6 +2996,32 @@
     {
       "album": {
         "name": "SOMEBODY LOVES ME PT. 2",
+        "url": "https://open.spotify.com/album/039HqIGiK3GLheUbqtyu8H"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181276,
+      "name": "SOMEBODY LOVES ME PT. 2",
+      "url": "https://open.spotify.com/track/2aTf0R0TQCJJKcb0ipszD2"
+    },
+    {
+      "album": {
+        "name": "SOMEBODY LOVES ME PT. 2",
         "url": "https://open.spotify.com/album/6xizpwyMt2WmBawEEwh03y"
       },
       "artists": [
@@ -3014,7 +3040,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 181276,
       "name": "SOMEBODY LOVES ME PT. 2",
       "url": "https://open.spotify.com/track/47czTWYsHN8TXMR0TfYtUR"
@@ -3884,6 +3910,28 @@
       "duration_ms": 208026,
       "name": "Where Ya At (feat. Drake)",
       "url": "https://open.spotify.com/track/5nN8BwAQDJDguq7Dpd3JQQ"
+    },
+    {
+      "album": {
+        "name": "Which One",
+        "url": "https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169134,
+      "name": "Which One (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
     },
     {
       "album": {

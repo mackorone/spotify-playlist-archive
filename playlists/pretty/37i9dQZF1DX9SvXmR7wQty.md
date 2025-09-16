@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Émile Bilodeau
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,113 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,119 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 16 | [Phénoménal](https://open.spotify.com/track/78Y0EwVQ9kdQFTIOzr7lUd) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [D&P à vie](https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF) | 3:24 |
 | 17 | [KIA RIO](https://open.spotify.com/track/6BXhCFvAKAp8N7ZhWoBfDv) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [KIA RIO](https://open.spotify.com/album/79NtucSknC4MTsKrpew1Al) | 3:05 |
 | 18 | [Lumière](https://open.spotify.com/track/7gftmvH7kAgf7ZM71Fyj3g) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Cycle délicat](https://open.spotify.com/album/4hqEE1IiUlsdMHN5bNjclK) | 2:49 |
-| 19 | [Congolaise](https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Congolaise](https://open.spotify.com/album/55Dt41YpOW2lzPUpSl4lFk) | 2:54 |
+| 19 | [Connectés](https://open.spotify.com/track/3ToDaiD5To8CkHN75sn9GQ) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Dégât](https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4) | 2:38 |
 | 20 | [Champagne rubis](https://open.spotify.com/track/4lTNJ3Zd7ehGiJahvam4Wj) | [Gabriel Desjardins](https://open.spotify.com/artist/6qnTBolPgwqC1ylnpQMnjK), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Champagne rubis / Pitstop](https://open.spotify.com/album/200qsTRZQHWpt8JaR2ckqf) | 2:47 |
-| 21 | [Connectés](https://open.spotify.com/track/3ToDaiD5To8CkHN75sn9GQ) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Dégât](https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4) | 2:38 |
+| 21 | [Congolaise](https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Congolaise](https://open.spotify.com/album/55Dt41YpOW2lzPUpSl4lFk) | 2:54 |
 | 22 | [Et à la fin](https://open.spotify.com/track/7cwjW2lrNxawdH0J1zHU5c) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Et à la fin](https://open.spotify.com/album/0fWRTFpznGYMGjymP7cMbU) | 3:41 |
 | 23 | [Crime ensoleillé](https://open.spotify.com/track/5Pbfz4snuJNXoyK0Iu5Atc) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [R.A.T](https://open.spotify.com/album/2UJVbFBTuYHtwHk9FvkgGU) | 3:50 |
 | 24 | [La game \(Buddés\)](https://open.spotify.com/track/7hgYJ8BzyCuAn53GyLBGi3) | [Lendemain de veille](https://open.spotify.com/artist/1YXlZ3SpoxIziajB17MhoN) | [La Game \(Buddés\)](https://open.spotify.com/album/3up6kpaf8toi1hNBOFpquX) | 2:21 |

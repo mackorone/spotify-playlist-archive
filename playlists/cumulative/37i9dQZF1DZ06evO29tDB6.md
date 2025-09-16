@@ -4,7 +4,7 @@
 
 > This is El Tri\. The essential tracks, all in one playlist.
 
-88 songs - 5 hr 51 min
+89 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Que Seas Feliz](https://open.spotify.com/track/60jfPqdOd8LbdPIB3zPY6A) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Yo Quiero Ser Tu Celular](https://open.spotify.com/album/0Vm2FAdqnp2ruW2uRuStQ3) | 3:39 | 2024-05-25 | 2024-06-15 |
 | [Que viva el rocanrol \- En vivo](https://open.spotify.com/track/21vlXzWrTG8PaMcBgPIIiZ) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 3:14 | 2023-01-14 |  |
 | [Sam El Bigotón](https://open.spotify.com/track/1cPaytgR4EP7GrUQ8RIEn6) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh) | [Sam El Bigotón](https://open.spotify.com/album/034wKcuMzgFDMuu1pCjOeC) | 2:55 | 2023-10-10 | 2024-01-22 |
-| [San Juanico](https://open.spotify.com/track/3JDchA8PKRWp0jhnsInURK) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:06 | 2023-01-14 |  |
+| [San Juanico](https://open.spotify.com/track/3JDchA8PKRWp0jhnsInURK) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:06 | 2023-01-14 | 2025-09-16 |
+| [San Juanico](https://open.spotify.com/track/5yfAPz7Qac8QzSLRw4iIdL) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 5:25 | 2025-09-16 |  |
 | [Santa Martha](https://open.spotify.com/track/38w1ZH0Zoj5Ap1TDluxhLG) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 2](https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV) | 3:52 | 2023-01-14 | 2023-11-11 |
 | [Sara](https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Otra tocada más](https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z) | 3:44 | 2023-01-14 |  |
 | [Se Va el Amor](https://open.spotify.com/track/6gOfmXusYcshTwe1YaxdG0) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Se Va el Amor](https://open.spotify.com/album/39b4OTzmUcmjX0E6UeXWqf) | 3:44 | 2024-11-15 |  |

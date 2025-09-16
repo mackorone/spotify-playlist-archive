@@ -6875,6 +6875,24 @@
     },
     {
       "album": {
+        "name": "Making Love to Morgan Wallen",
+        "url": "https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249048,
+      "name": "Making Love to Morgan Wallen",
+      "url": "https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z"
+    },
+    {
+      "album": {
         "name": "Man Made of Meat",
         "url": "https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo"
       },
@@ -10758,7 +10776,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 170000,
       "name": "The Fatalist",
       "url": "https://open.spotify.com/track/3FrT1TD82QxLtRIn5IinK4"

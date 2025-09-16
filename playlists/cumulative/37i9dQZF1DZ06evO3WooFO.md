@@ -4,7 +4,7 @@
 
 > This is blink\-182\. The essential tracks, all in one playlist.
 
-106 songs - 5 hr 24 min
+107 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,8 +76,9 @@
 | [MORE THAN YOU KNOW](https://open.spotify.com/track/6apKpbDebOi4RXhmcgOCNz) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:37 | 2023-09-25 | 2023-11-11 |
 | [MORE THAN YOU KNOW](https://open.spotify.com/track/6is198totXPWEoY2ulZ4A5) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA) | 3:37 | 2024-06-26 | 2024-09-14 |
 | [Mutt](https://open.spotify.com/track/3Q0yxw9mdycjnuORDvY5E6) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 3:23 | 2022-02-08 | 2024-06-12 |
+| [Natives](https://open.spotify.com/track/1GyBZWdHDFvTz1UxzxeNC0) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 3:55 | 2025-09-16 |  |
 | [NO FUN](https://open.spotify.com/track/5haGD3r11V8w01jstbF7UU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ALL IN MY HEAD / NO FUN](https://open.spotify.com/album/3bL8GdAgDbtbd6U9iIjS7T) | 3:02 | 2024-08-25 | 2024-09-29 |
-| [NO FUN](https://open.spotify.com/track/67kPRgz01FoxhrHPU9HXrY) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 3:02 | 2024-09-29 |  |
+| [NO FUN](https://open.spotify.com/track/67kPRgz01FoxhrHPU9HXrY) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 3:02 | 2024-09-29 | 2025-09-16 |
 | [No Future](https://open.spotify.com/track/5Uwm4pdpaaW3yari6ymMTT) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:45 | 2022-01-11 | 2022-12-29 |
 | [Not Now](https://open.spotify.com/track/28yCMEplHbodvR19Aipah8) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits](https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ) | 4:23 | 2022-01-11 |  |
 | [Obvious](https://open.spotify.com/track/1KcmugpUozu6Llj3p5Qboa) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:43 | 2022-01-11 |  |

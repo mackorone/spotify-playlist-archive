@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 11669,
+  "num_followers": 11677,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAA8S/gdab+aTuOJFPXOvL4q",
+  "snapshot_id": "aMYFgAAAAAAna5NkOAydn+J5q6lJzLZb",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 209502,
+      "name": "Something Nice",
+      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MA GIRL",
         "url": "https://open.spotify.com/album/6xWy3uu4pnbYBhYbkA1S8h"
       },
@@ -703,22 +723,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
+        "name": "Make Am (feat. Ebonyi State Band)",
+        "url": "https://open.spotify.com/album/0ansMS1zm0JoxSpDVOGCHS"
       },
       "artists": [
         {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         },
+        {
+          "name": "Ebonyi State Band",
+          "url": "https://open.spotify.com/artist/6JQldf5pWbOLK5TsOjjRur"
+        }
+      ],
+      "duration_ms": 232893,
+      "name": "Make Am (feat. Ebonyi State Band)",
+      "url": "https://open.spotify.com/track/0URKYeAgtNb9WPf8OCGo7O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 209502,
-      "name": "Something Nice",
-      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
+      "duration_ms": 191945,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3"
     },
     {
       "added_at": null,
@@ -743,42 +779,6 @@
       "duration_ms": 217710,
       "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
       "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 191945,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Make Am (feat. Ebonyi State Band)",
-        "url": "https://open.spotify.com/album/0ansMS1zm0JoxSpDVOGCHS"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Ebonyi State Band",
-          "url": "https://open.spotify.com/artist/6JQldf5pWbOLK5TsOjjRur"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "Make Am (feat. Ebonyi State Band)",
-      "url": "https://open.spotify.com/track/0URKYeAgtNb9WPf8OCGo7O"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHOPLIFE (feat. Patoranking)",
-        "url": "https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 213870,
-      "name": "CHOPLIFE (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three",
         "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 205450,
       "name": "Mon B\u00e9b\u00e9 (feat. Flavour)",
       "url": "https://open.spotify.com/track/5z68NJKC2MnCydcfIjAqCY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHOPLIFE (feat. Patoranking)",
+        "url": "https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 213870,
+      "name": "CHOPLIFE (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
     },
     {
       "added_at": null,
@@ -1011,26 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONLY ONE KING",
-        "url": "https://open.spotify.com/album/0u649Gff5qgywplGmwA74P"
-      },
-      "artists": [
-        {
-          "name": "Alikiba",
-          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 205137,
-      "name": "Bwana Mdogo (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/7MsF2wr8ZVkZoT6Xi5BQ14"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seyi or Shay",
         "url": "https://open.spotify.com/album/0TRPmOkkAXYNxfIsvBLkIm"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 228884,
       "name": "Murda",
       "url": "https://open.spotify.com/track/3z2SygkbAZOTrj5FK1MdbP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ONLY ONE KING",
+        "url": "https://open.spotify.com/album/0u649Gff5qgywplGmwA74P"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 205137,
+      "name": "Bwana Mdogo (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/7MsF2wr8ZVkZoT6Xi5BQ14"
     },
     {
       "added_at": null,

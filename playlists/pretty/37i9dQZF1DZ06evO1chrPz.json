@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 205648,
+  "num_followers": 205675,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAAVVh/o6/j5PeNUrnq7SGcu",
+  "snapshot_id": "aMYFgAAAAACEDICqK7eusm2yyQ2py5Ja",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moments: Wait (Live)",
+        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        }
+      ],
+      "duration_ms": 312254,
+      "name": "The Blood (Live)",
+      "url": "https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stand In Your Love (Radio Version)",
         "url": "https://open.spotify.com/album/2Hj6wZap379k7FpV2totRj"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 415079,
       "name": "Jesus We Love You",
       "url": "https://open.spotify.com/track/1OMwaR5rsyfT2wB48Dm5aK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moments: Wait (Live)",
-        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
-        }
-      ],
-      "duration_ms": 312254,
-      "name": "The Blood (Live)",
-      "url": "https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt"
     },
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Lifted High",
-        "url": "https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 452520,
-      "name": "God I Look to You",
-      "url": "https://open.spotify.com/track/4WfjgumRvSWeQNpHZZAI2u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Victory (Live)",
         "url": "https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 304813,
       "name": "Living Hope (Live)",
       "url": "https://open.spotify.com/track/54vnh4BHgSlzMkNnWhK2Sd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Lifted High",
+        "url": "https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 452520,
+      "name": "God I Look to You",
+      "url": "https://open.spotify.com/track/4WfjgumRvSWeQNpHZZAI2u"
     },
     {
       "added_at": null,
@@ -439,6 +439,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Will Not Be Shaken",
+        "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 298681,
+      "name": "In Over My Head (Crash Over Me) [Live]",
+      "url": "https://open.spotify.com/track/13myOXIfOSldZ7GVz7LqQl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Church",
         "url": "https://open.spotify.com/album/2b0Xkrw10KJ9B670g13SUX"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 301650,
       "name": "The Church",
       "url": "https://open.spotify.com/track/6QqFXtYklJRgk1UGGFpugh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Will Not Be Shaken",
-        "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 298681,
-      "name": "In Over My Head (Crash Over Me) [Live]",
-      "url": "https://open.spotify.com/track/13myOXIfOSldZ7GVz7LqQl"
     },
     {
       "added_at": null,
@@ -531,6 +531,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Will Not Be Shaken",
+        "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "kalley",
+          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
+        }
+      ],
+      "duration_ms": 322326,
+      "name": "Ever Be",
+      "url": "https://open.spotify.com/track/1qmvkIBa44LfKKLAoHbKI3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Holy Hands (Live)",
         "url": "https://open.spotify.com/album/0TlNPCiRxU36TmSo9ovB6P"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 434745,
       "name": "Holy Hands - Live",
       "url": "https://open.spotify.com/track/1CRnlPeWgRyep3kfulcaVp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Will Not Be Shaken",
-        "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "kalley",
-          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
-        }
-      ],
-      "duration_ms": 322326,
-      "name": "Ever Be",
-      "url": "https://open.spotify.com/track/1qmvkIBa44LfKKLAoHbKI3"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For the Sake of the World",
-        "url": "https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 408826,
-      "name": "Our Father",
-      "url": "https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
@@ -707,26 +687,6 @@
       "duration_ms": 374554,
       "name": "Dancing on the Waves",
       "url": "https://open.spotify.com/track/7D2dX1omKWoLatKZyYMhCV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Up Here",
-        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
-        }
-      ],
-      "duration_ms": 318115,
-      "name": "Beauty",
-      "url": "https://open.spotify.com/track/59vLGHrpzwcwyPbQBG0KZy"
     },
     {
       "added_at": null,
@@ -751,6 +711,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        }
+      ],
+      "duration_ms": 318115,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/59vLGHrpzwcwyPbQBG0KZy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For the Sake of the World",
+        "url": "https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 408826,
+      "name": "Our Father",
+      "url": "https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Want Jesus (Live)",
         "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
       },
@@ -767,26 +767,6 @@
       "duration_ms": 373371,
       "name": "He Has Done Great Things - Live",
       "url": "https://open.spotify.com/track/44xhaEDPSwHTo7YXL6yZsc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 301090,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni"
     },
     {
       "added_at": null,
@@ -811,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Make Me Brave (Live)",
-        "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
       "artists": [
         {
@@ -820,13 +800,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 366160,
-      "name": "You Make Me Brave (Live)",
-      "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
+      "duration_ms": 301090,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni"
     },
     {
       "added_at": null,
@@ -851,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
       },
       "artists": [
         {
@@ -860,13 +840,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
         }
       ],
-      "duration_ms": 339041,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/3UwwW9Ymz3xob5SxHx4uLO"
+      "duration_ms": 366160,
+      "name": "You Make Me Brave (Live)",
+      "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
     },
     {
       "added_at": null,
@@ -891,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elohim (Live)",
-        "url": "https://open.spotify.com/album/2tZSh33eyL3zDIbC73nVdJ"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
       "artists": [
         {
@@ -900,13 +880,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Aubree Archibeck",
-          "url": "https://open.spotify.com/artist/604TmIQowwYB89ZXdgnc8t"
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
         }
       ],
-      "duration_ms": 447670,
-      "name": "Elohim - Live From Church",
-      "url": "https://open.spotify.com/track/7crAY5NVt4JB7oDEy7rEI6"
+      "duration_ms": 339041,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/3UwwW9Ymz3xob5SxHx4uLO"
     },
     {
       "added_at": null,
@@ -931,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Touch of Heaven / Alabaster Heart (Live)",
-        "url": "https://open.spotify.com/album/1ugdTIc8PRDPPUBtv7ECzd"
+        "name": "Elohim (Live)",
+        "url": "https://open.spotify.com/album/2tZSh33eyL3zDIbC73nVdJ"
       },
       "artists": [
         {
@@ -940,13 +920,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+          "name": "Aubree Archibeck",
+          "url": "https://open.spotify.com/artist/604TmIQowwYB89ZXdgnc8t"
         }
       ],
-      "duration_ms": 630228,
-      "name": "Touch of Heaven / Alabaster Heart (Live)",
-      "url": "https://open.spotify.com/track/5YlH7CeaNAoRKsaSzTXojM"
+      "duration_ms": 447670,
+      "name": "Elohim - Live From Church",
+      "url": "https://open.spotify.com/track/7crAY5NVt4JB7oDEy7rEI6"
     },
     {
       "added_at": null,
@@ -971,6 +951,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Touch of Heaven / Alabaster Heart (Live)",
+        "url": "https://open.spotify.com/album/1ugdTIc8PRDPPUBtv7ECzd"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        }
+      ],
+      "duration_ms": 630228,
+      "name": "Touch of Heaven / Alabaster Heart (Live)",
+      "url": "https://open.spotify.com/track/5YlH7CeaNAoRKsaSzTXojM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys"
       },
@@ -987,6 +987,26 @@
       "duration_ms": 293377,
       "name": "Tend",
       "url": "https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Must Respond (Live)",
+        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        }
+      ],
+      "duration_ms": 437655,
+      "name": "Even Though I Walk - Live",
+      "url": "https://open.spotify.com/track/4zAIwci5B82d59OhGOkJRl"
     },
     {
       "added_at": null,
@@ -1011,26 +1031,6 @@
       "duration_ms": 479771,
       "name": "Son Of Suffering (Live)",
       "url": "https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Must Respond (Live)",
-        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
-        }
-      ],
-      "duration_ms": 437655,
-      "name": "Even Though I Walk - Live",
-      "url": "https://open.spotify.com/track/4zAIwci5B82d59OhGOkJRl"
     },
     {
       "added_at": null,

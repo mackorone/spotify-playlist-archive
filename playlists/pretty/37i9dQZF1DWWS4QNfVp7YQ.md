@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,356 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,395 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 28 | [Toa Pa' Mi](https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK) | [NEAS DON'T CRY](https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD) | 3:02 |
 | 29 | [Mi Cumbia! \(feat\. Alan Rosales\)](https://open.spotify.com/track/52hcPddnEyaFkVv0w8iz8e) | [El Dusty](https://open.spotify.com/artist/746tySZWCr6nqgEjmQyKyB) | [Locos Only](https://open.spotify.com/album/4X7fhsjH4xxh8s8mYWlSLS) | 2:51 |
 | 30 | [Menea la Cadera](https://open.spotify.com/track/5lIiJYBLyrSybHA9rb5q8q) | [Cumbia Latin Band](https://open.spotify.com/artist/3cP35T1YmIDyrwfHrIVbeh) | [Cumbia Tribal](https://open.spotify.com/album/1RcKsmXVkFk6GV6a7ViVyK) | 2:43 |
-| 31 | [Ritmo Suelto](https://open.spotify.com/track/6ykJqXUYnMKFQyN10mRYWT) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:16 |
+| 31 | [Fuego](https://open.spotify.com/track/09E7BhLRJzvbZu764omlgl) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [DJ Mouse](https://open.spotify.com/artist/1Drh9VlADqYyM1RXvTVvsk) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:05 |
 | 32 | [Costars](https://open.spotify.com/track/5UYVlRMSVmel4NohDcLK0o) | [DJ TETRIS](https://open.spotify.com/artist/6LgjuGF7FuYQ0Ycx9a4oqA) | [Que Suene Mexico, Vol\. 3](https://open.spotify.com/album/1fL1fq4l7HoOBgnsTGxxz3) | 3:15 |
 | 33 | [Alócate](https://open.spotify.com/track/36LVVNCJi2hGczf4HvnVFR) | [Kanimals](https://open.spotify.com/artist/3hx0wwEpx37nuc9BGXboPp) | [Alócate](https://open.spotify.com/album/2c3uRuQPG3ZvDB02Td3yVk) | 3:21 |
 | 34 | [Brindemos Por Ellas](https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Baby Joss](https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn) | [Brindemos Por Ellas](https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs) | 3:28 |
 | 35 | [La Guarachita](https://open.spotify.com/track/2r7YwMHKoc3vYcspMqZSii) | [Clap Freckles](https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD) | [La Guarachita](https://open.spotify.com/album/2C2H8OBZcdDZGOMxpg6jXG) | 2:59 |
-| 36 | [Fuego](https://open.spotify.com/track/09E7BhLRJzvbZu764omlgl) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [DJ Mouse](https://open.spotify.com/artist/1Drh9VlADqYyM1RXvTVvsk) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:05 |
+| 36 | [Ritmo Suelto](https://open.spotify.com/track/6ykJqXUYnMKFQyN10mRYWT) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:16 |
 | 37 | [Dawn](https://open.spotify.com/track/5EqNeBnR3YtuFJwv4YKoWE) | [HAMAL](https://open.spotify.com/artist/3f36c30ZfChG7KA6MaBEI1) | [Dawn](https://open.spotify.com/album/0kXHJmCTIQlLzD74YUVbd6) | 3:29 |
 | 38 | [Olokun](https://open.spotify.com/track/51fZwbPSydMuRctf4iJ2h6) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [Olokun](https://open.spotify.com/album/2t7uNEbjwLwE6Nf74elCXf) | 3:31 |
 | 39 | [La Niña \(Alan Rosales & Manu Morales Tribal Remix\)](https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L) | [Meketrefe](https://open.spotify.com/artist/3QCqMFfVYxY5RDp5UCT874), [Priscila](https://open.spotify.com/artist/4Py7WrbyPY21zp4Q8dQDdj) | [La Niña \(Remixes\)](https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN) | 4:24 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 45 | [Trippyal](https://open.spotify.com/track/68r7Jv0bRXStZVCFII2os3) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [Trippyal](https://open.spotify.com/album/0iZ8wdFNWdKEmgfy1aHmQY) | 2:50 |
 | 46 | [La Bala](https://open.spotify.com/track/6U7Nvpt2KXYvTBzlRU2BHI) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:10 |
 | 47 | [Teneloa Kuikayotl](https://open.spotify.com/track/2mfIS4UaVhXS0wbWWyIBW7) | [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1), [Klpuyi](https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk) | [Teneloa Kuikayotl](https://open.spotify.com/album/5pEcECmzDCO3lzDuZ7VI1W) | 2:54 |
-| 48 | [The Virus \- Alan Rosales Remix](https://open.spotify.com/track/5rl4Gu9AmRwqdXTaSbqeUZ) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm), [Chippewa Travellers](https://open.spotify.com/artist/4AaS8zEHLC20ExfrnuSMmV), [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs) | [The Virus \(Alan Rosales Remix\)](https://open.spotify.com/album/6O7PasfSomfuahcbJ20IXA) | 4:31 |
-| 49 | [Aborigen](https://open.spotify.com/track/0srCM4dc9VUGoBgImfidCs) | [Klpuyi](https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk) | [Aborigen](https://open.spotify.com/album/4CJTY5eoKpGU5n8dOBtyTy) | 2:32 |
+| 48 | [Aborigen](https://open.spotify.com/track/0srCM4dc9VUGoBgImfidCs) | [Klpuyi](https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk) | [Aborigen](https://open.spotify.com/album/4CJTY5eoKpGU5n8dOBtyTy) | 2:32 |
+| 49 | [The Virus \- Alan Rosales Remix](https://open.spotify.com/track/5rl4Gu9AmRwqdXTaSbqeUZ) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm), [Chippewa Travellers](https://open.spotify.com/artist/4AaS8zEHLC20ExfrnuSMmV), [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs) | [The Virus \(Alan Rosales Remix\)](https://open.spotify.com/album/6O7PasfSomfuahcbJ20IXA) | 4:31 |
 | 50 | [Rey de Reyes](https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Club Negro](https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ) | 3:32 |
 
 Snapshot ID: `AAAAALtFeFvwHQkxqj3q7puF3PrlH/Nd`

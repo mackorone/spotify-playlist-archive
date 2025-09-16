@@ -16891,6 +16891,24 @@
     },
     {
       "album": {
+        "name": "Making Love to Morgan Wallen",
+        "url": "https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249048,
+      "name": "Making Love to Morgan Wallen",
+      "url": "https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z"
+    },
+    {
+      "album": {
         "name": "Man Down",
         "url": "https://open.spotify.com/album/2hPc8LFCi2HzeW1BdSw8TH"
       },
@@ -27164,7 +27182,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 285240,
       "name": "The Scythe",
       "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"

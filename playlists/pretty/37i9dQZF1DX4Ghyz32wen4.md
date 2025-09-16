@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Arcángel y Yan Block en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,419 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,389 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [En Tus Sueños](https://open.spotify.com/track/6QtWffbCbMMfJj7PacS5ri) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [En Tus Sueños](https://open.spotify.com/album/5EyekKqaKg0wRgFOG8MSeW) | 3:08 |
-| 2 | [Quizas Mañana](https://open.spotify.com/track/0crP3v17JrpVymbFiHTsdN) | [Lil Yuppi](https://open.spotify.com/artist/5p1u87P75yZtf02j7yWWPj), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Astronautiko](https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw) | [Quizas Mañana](https://open.spotify.com/album/6Wx3bangIG31JCxMH6pVZw) | 3:00 |
+| 2 | [QUIZÁS MAÑANA](https://open.spotify.com/track/0crP3v17JrpVymbFiHTsdN) | [Lil Yuppi](https://open.spotify.com/artist/5p1u87P75yZtf02j7yWWPj), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Astronautiko](https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw) | [QUIZÁS MAÑANA](https://open.spotify.com/album/6Wx3bangIG31JCxMH6pVZw) | 3:00 |
 | 3 | [distinto](https://open.spotify.com/track/7gvOxZLlPi5tnbNyzY63aA) | [MI$HA](https://open.spotify.com/artist/7jojyXUh1Yl4Sw2Y5KfGYQ), [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [distinto](https://open.spotify.com/album/1P7WKJumPUK5NbwdAFj7mN) | 2:40 |
 | 4 | [De Papel](https://open.spotify.com/track/59YLoLaKOBMSU8k5pwEkXu) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [De Papel](https://open.spotify.com/album/6mFr2TVgix0ilEZGvwgjEQ) | 2:46 |
 | 5 | [PRENDO PA' FUMAR](https://open.spotify.com/track/6FH5L2afYhFk7wduzDPGXn) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [PRENDO PA' FUMAR](https://open.spotify.com/album/0PQPMIXw8CVA7VnXDXPXeS) | 4:29 |

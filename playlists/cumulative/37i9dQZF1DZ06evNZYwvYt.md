@@ -4,7 +4,7 @@
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-131 songs - 9 hr 18 min
+133 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Carne \- En Vivo](https://open.spotify.com/track/2cMFgQRxbqhM4nnFIwfTEL) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En vivo\)](https://open.spotify.com/album/4P1YYSAq0YipbyL7LpfbWs) | 5:59 | 2025-04-16 | 2025-05-13 |
 | [Carne \- En Vivo](https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En vivo\)](https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p) | 5:59 | 2022-09-16 | 2025-04-16 |
 | [Delicada violencia](https://open.spotify.com/track/0WqFZiJlm264gE6zgJIyQQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:55 | 2022-09-16 | 2025-04-16 |
-| [Delicada violencia](https://open.spotify.com/track/1lNlYktmgUnE2jyd1YpamI) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl) | 3:55 | 2025-04-16 |  |
+| [Delicada violencia](https://open.spotify.com/track/1lNlYktmgUnE2jyd1YpamI) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl) | 3:55 | 2025-04-16 | 2025-09-16 |
+| [Delicada Violencia](https://open.spotify.com/track/7D0wYJazZXiHzCza7yMhqR) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg) | 3:55 | 2025-09-16 |  |
 | [Domesticame](https://open.spotify.com/track/44ACTU8c8wCeifEbhqC2Ke) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3dQZ49XGlRucPFOwbjpykT) | 4:09 | 2025-04-14 | 2025-05-13 |
 | [Domesticame](https://open.spotify.com/track/6eF5HI1s4DU3Z5b5urrVRk) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:09 | 2022-09-16 | 2025-04-14 |
 | [Domestícame](https://open.spotify.com/track/5HRmvSYMTo30HM9LJb8sTD) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk) | 4:09 | 2025-05-13 |  |
@@ -125,7 +126,8 @@
 | [Te Mueres](https://open.spotify.com/track/7JH0xroK9IZUWIhb0Fvwom) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/2s3Hf9yc8KrnPumHQkszTg) | 5:15 | 2025-04-13 | 2025-05-07 |
 | [Te Mueres](https://open.spotify.com/track/595j1iKJMeLn3pKXyfzYQ1) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93) | 5:17 | 2025-05-07 |  |
 | [Tu fortaleza](https://open.spotify.com/track/13LkDt8sE3yOAvmKHYwDdr) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 3:49 | 2022-10-04 | 2022-10-09 |
-| [Tu recuerdo](https://open.spotify.com/track/3jGucwAKbRfg0zUVHsoEKb) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl) | 4:24 | 2025-04-13 |  |
+| [Tu Recuerdo](https://open.spotify.com/track/0hMdSQgpaglrxJxBak7jQ9) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg) | 4:24 | 2025-09-16 |  |
+| [Tu recuerdo](https://open.spotify.com/track/3jGucwAKbRfg0zUVHsoEKb) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl) | 4:24 | 2025-04-13 | 2025-09-16 |
 | [Tu recuerdo](https://open.spotify.com/track/5JrG0DZMWeb9BLuSTihPd2) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 4:24 | 2022-09-16 | 2025-04-13 |
 | [Té](https://open.spotify.com/track/2fCFggomlQ7weCcg4UyTSq) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 4:12 | 2025-04-29 |  |
 | [Verdad](https://open.spotify.com/track/07jQohp4cfhXkaKHAErPh4) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93) | 4:46 | 2025-05-07 |  |

@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-315 songs - 22 hr 55 min
+316 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [August Diaries](https://open.spotify.com/track/6K6etxmlu4Y7J3dR77MK3N) | [DHARIA](https://open.spotify.com/artist/1psakk7GVUl85AnTEvwtk2) | [August Diaries](https://open.spotify.com/album/2qEWSsJCgemvb6SQAjqzXH) | 3:43 | 2020-12-13 | 2021-05-28 |
 | [Avenoir](https://open.spotify.com/track/2oyKAGwDehS7YW9pstIlsF) | [Ossova](https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ), [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444) | [Avenoir](https://open.spotify.com/album/3FEhNJuerRSKAzmJba7tYm) | 1:52 | 2024-11-22 | 2025-03-04 |
 | [Babel](https://open.spotify.com/track/0ZnwzjB40zdTZrEwPvaRqG) | [Otnicka](https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt) | [Babel](https://open.spotify.com/album/2QHtq53qPyOo0fawuJcMns) | 3:18 | 2020-12-21 | 2022-10-09 |
+| [Back to Blue](https://open.spotify.com/track/2AFXIwrUX3226xeydJ5fg0) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Valentino Indy](https://open.spotify.com/artist/5zMBjWdfMwhZp28FMj5G9n), [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Back to Blue](https://open.spotify.com/album/30SupnOykTnR6sinOFP8vm) | 2:12 | 2025-09-15 |  |
 | [Bahja](https://open.spotify.com/track/4LZP8fuic1mSQpLGruxxcr) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [Bahja](https://open.spotify.com/album/5YfzAebZkmbl3DOrUjshDd) | 4:17 | 2022-03-13 | 2023-03-18 |
 | [Bangladesh](https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf) | [Esotique](https://open.spotify.com/artist/5s8gdykqfA3923GVtrtSUF), [Sandra N.](https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L) | [Bangladesh](https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl) | 2:27 | 2023-03-03 |  |
 | [Bayati Shiraz \(feat\. Kenan Bayramli\)](https://open.spotify.com/track/4T5fdxoMBLOdUBb8CtRuNW) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Kənan Bayramlı](https://open.spotify.com/artist/2wW91AYNfhXggQoKJF6am9) | [Bayati Shiraz \(feat\. Kenan Bayramli\)](https://open.spotify.com/album/6huLdD5ZW7dOcrtlTRm1sf) | 3:34 | 2023-10-05 |  |
@@ -82,7 +83,7 @@
 | [Deep Anatolia](https://open.spotify.com/track/0IgJI3Jpkd1cRFuJkedbCK) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444), [Ossova](https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ) | [Deep Anatolia](https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW) | 2:48 | 2022-06-27 | 2024-04-19 |
 | [Deep Anatolia](https://open.spotify.com/track/2s61JUSrJVjtkZKxFSBsdH) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444), [Ossova](https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ) | [Deep Anatolia](https://open.spotify.com/album/23NVYYNs4HxDHfc0zKm4tX) | 2:48 | 2021-06-01 | 2022-08-12 |
 | [Delichones](https://open.spotify.com/track/6qiwOC5TeKXK4pDonIZxgR) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK) | [Delichones](https://open.spotify.com/album/7JDEXzgMecy0ut0xXIIcks) | 6:45 | 2020-10-18\* | 2023-01-13 |
-| [Delina](https://open.spotify.com/track/7eJCU0qd9dvFVneR46G1os) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Bali](https://open.spotify.com/album/0MPF0EVygO60VuV99r3p68) | 5:44 | 2021-06-22 |  |
+| [Delina](https://open.spotify.com/track/7eJCU0qd9dvFVneR46G1os) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Bali](https://open.spotify.com/album/0MPF0EVygO60VuV99r3p68) | 5:44 | 2021-06-22 | 2025-09-16 |
 | [Descalzo](https://open.spotify.com/track/2jcW2YUOaih8Gywf4hgL4b) | [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo), [ARKADYAN](https://open.spotify.com/artist/2ELBfW9Bn2xBAIvWeXeCgI) | [Descalzo](https://open.spotify.com/album/0i1fEBRGPphcPQTCzD3EHb) | 7:27 | 2022-12-05 |  |
 | [Desert Rose](https://open.spotify.com/track/3g1bjrdnhYss63z1V6NRYX) | [Dim Angelo](https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2), [Nikko Sunset](https://open.spotify.com/artist/1JIYn2nzWdIwsys5ZjzUM6), [Maria Zhitnikova](https://open.spotify.com/artist/5LOLOnagiu58TcRs3YEguF) | [Desert Rose](https://open.spotify.com/album/6GqDLlWydXny5lk8E7OpOP) | 2:37 | 2021-10-23 |  |
 | [Desert Rose / aomri](https://open.spotify.com/track/6vTddNBj1hNzLgmw1FewZd) | [Hijazi](https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL) | [Desert Rose / aomri](https://open.spotify.com/album/3T7an9MCrjnU5DdpWdOEtV) | 4:38 | 2022-01-21 | 2022-07-29 |

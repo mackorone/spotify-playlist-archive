@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف:  تووليت
 
-397 songs - 23 hr 7 min
+398 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Dawly](https://open.spotify.com/track/74utdoJDUGLIMlrSS6jHlU) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z) | [Dawly](https://open.spotify.com/album/0Zksp8Cnz9HnEuLvGDmzGy) | 3:16 | 2022-09-26 | 2022-10-25 |
 | [Di Halawa](https://open.spotify.com/track/3BW4RcvJUYGtnPOzppeVW9) | [Ahmed Bahaa](https://open.spotify.com/artist/0YYLDpbsExW7PI14mRJPfx), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Di Halawa](https://open.spotify.com/album/7hy7jpcDzPXmIde1fICTvT) | 3:16 | 2022-10-10 | 2023-05-06 |
 | [Diva](https://open.spotify.com/track/45IUYdyKVvCpS7qKykpUpL) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Caravan](https://open.spotify.com/album/21gO4m2HfPPZgWiGYPlB69) | 2:52 | 2023-07-05 | 2024-09-10 |
+| [DO YOU LOVE ME? / سنيورة](https://open.spotify.com/track/4gR1Lpk0478t0M6wrft3y5) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Fares Sokar](https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw) | [Love Letters / رسائل حب \(Deluxe\)](https://open.spotify.com/album/1L0410frQGcY66rOhygU6Z) | 2:38 | 2025-09-15 |  |
 | [Dom Dom](https://open.spotify.com/track/09qJciYwmS2hlWlpjaIKZm) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Dom Dom](https://open.spotify.com/album/0b5kI7IIsYfVsAXawB2dak) | 3:02 | 2022-07-25 | 2023-04-01 |
 | [e& Egypt \- اكتر واكتر \- شيرين عبدالوهاب](https://open.spotify.com/track/65NbzRrl0uqc9B4a14gqqd) | [e& Egypt](https://open.spotify.com/artist/1WSXhu4UrkuG4NP3jB13YP) | [e& Egypt \- اكتر واكتر \- شيرين عبدالوهاب](https://open.spotify.com/album/6TcrDv7jjjQ1YuLV5WFwLg) | 3:13 | 2025-03-19 |  |
 | [Ebtadena](https://open.spotify.com/track/54MaPJYSZOG3SZ36dzjFC9) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 3:54 | 2025-07-03 | 2025-08-02 |
@@ -300,7 +301,7 @@
 | [تاني](https://open.spotify.com/track/3rV9uAALyaUifbNZQPpGen) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [بيستهبل "الوش الاول"](https://open.spotify.com/album/6R6Mt6nS9EOMUwbxi5FADY) | 2:38 | 2025-08-07 |  |
 | [توأمي](https://open.spotify.com/track/1JOrFJ6Oju9oh33HJeT1Is) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [توأمي](https://open.spotify.com/album/0oYPkB5l1SjJUJVFwsWDNu) | 3:34 | 2025-05-13 | 2025-08-23 |
 | [تيجي زي ما تيجي \(من فيلم ولاد رزق 3\)](https://open.spotify.com/track/2GbSrRs5VUoKTbnEiqoa4v) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [تيجي زي ما تيجي \(من فيلم ولاد رزق 3\)](https://open.spotify.com/album/2om5xx9EYHCw8NPFIP9tnD) | 3:55 | 2024-06-21 | 2024-09-10 |
-| [تيجي نتصور](https://open.spotify.com/track/1nyylMku4Hlheim1suER3t) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انا بحبك انت](https://open.spotify.com/album/7Gif2pehfqWP5OkBEPElPa) | 2:46 | 2025-07-18 |  |
+| [تيجي نتصور](https://open.spotify.com/track/1nyylMku4Hlheim1suER3t) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انا بحبك انت](https://open.spotify.com/album/7Gif2pehfqWP5OkBEPElPa) | 2:46 | 2025-07-18 | 2025-09-16 |
 | [تيجي نسيب](https://open.spotify.com/track/0hZaYE3a53y2VbZq85MceM) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [تيجي نسيب](https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15) | 3:45 | 2024-09-09 |  |
 | [جامدين جامدين](https://open.spotify.com/track/6p8MwOiWSDv6bhgfSjCppL) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [جامدين جامدين](https://open.spotify.com/album/2zR5PYwezfeSwhaSs7dUBp) | 2:36 | 2024-07-08 | 2025-01-22 |
 | [جاية جاية](https://open.spotify.com/track/4pphE4xWp08tPAkBW8p1ni) | [Pepsi Egypt](https://open.spotify.com/artist/7rvQhlTMhXIqxMTFAaxhKN), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [جاية جاية](https://open.spotify.com/album/6Eqy1TyVZVghna1QLvh30K) | 1:25 | 2023-05-29 | 2023-06-16 |

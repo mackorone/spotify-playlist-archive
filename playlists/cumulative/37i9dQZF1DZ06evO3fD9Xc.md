@@ -4,7 +4,7 @@
 
 > This is Carolina Ross\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 46 min
+88 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Me Vas a Extrañar](https://open.spotify.com/track/1SAZFG8t1qjlzNZYdXswqw) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 2:59 | 2023-03-10 |  |
 | [Menos Mal Que Me Querías](https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Menos Mal Que Me Querías](https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW) | 2:37 | 2024-03-02 |  |
 | [Mentiras](https://open.spotify.com/track/7qnImhMiu7IBw233XIl3Aa) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mudanzas](https://open.spotify.com/album/5rvG8IAlVaJRtUHLzaGtyv) | 3:43 | 2025-03-14 | 2025-08-10 |
-| [Mentirme](https://open.spotify.com/track/0EdF6zXLaN1RePAQouS6sT) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mentirme](https://open.spotify.com/album/7iDQeCKHlXuSlCR46lzriR) | 3:08 | 2025-02-07 |  |
+| [Mentirme](https://open.spotify.com/track/0EdF6zXLaN1RePAQouS6sT) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mentirme](https://open.spotify.com/album/7iDQeCKHlXuSlCR46lzriR) | 3:08 | 2025-02-07 | 2025-09-16 |
 | [Mentirme](https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mentirme](https://open.spotify.com/album/5SFNFxzjXy4C2RB5WHKT3Y) | 3:08 | 2023-11-10 | 2024-06-11 |
 | [Merecemos Perdonarnos \(En Vivo\)](https://open.spotify.com/track/0Xlne6EwDCM8qpBnIfvwUm) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Merecemos Perdonarnos \(En Vivo\)](https://open.spotify.com/album/4vUxy6TypvUYyRcVUfPjhS) | 3:15 | 2024-06-09 |  |
 | [Mi Mayor Anhelo](https://open.spotify.com/track/5GF4Jwl28VSwPZrweQEXst) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 3:11 | 2023-03-10 |  |
@@ -75,6 +75,7 @@
 | [Que Bonito Es Querer](https://open.spotify.com/track/1EsSPmiioHQVbdwyrnJGwC) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Que Bonito Es Querer](https://open.spotify.com/album/6mUpfaWK4lckq6UTypkreO) | 3:17 | 2023-03-10 |  |
 | [Qué Bueno Que Fuiste Tú](https://open.spotify.com/track/2QnN3woxO9KqDd1DAW0zUF) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Qué Bueno Que Fuiste Tú](https://open.spotify.com/album/24IaXitockhdYJSE4flwTG) | 2:59 | 2023-03-10 | 2024-04-30 |
 | [Qué Bueno Que Fuiste Tú](https://open.spotify.com/track/61pfP2D4QNELNEsxh0aCn7) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Nunca Me Sueltes](https://open.spotify.com/album/7JfwGcd9SQy4wxXK5aQTFc) | 3:00 | 2024-04-30 |  |
+| [Sed de Acción \- Re\-versión](https://open.spotify.com/track/4c7GjdSskBPh6drENlszMY) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Sed de Acción Con Carolina Ross \(Re\-versión\)](https://open.spotify.com/album/6LBOwIpVw50EltrrnZqRAN) | 3:33 | 2025-09-16 |  |
 | [Seremos](https://open.spotify.com/track/5AT5SkDR5LZEkNKCxJ4FAX) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 3:16 | 2023-03-10 |  |
 | [Sería un Error](https://open.spotify.com/track/2zITVc64nUa5mhtdA7SLUu) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 3:06 | 2023-03-11 | 2024-07-23 |
 | [Si Me Tenías](https://open.spotify.com/track/5KQqFvTyDGh7eumS8WpbD5) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 4:00 | 2023-03-10 | 2024-10-07 |

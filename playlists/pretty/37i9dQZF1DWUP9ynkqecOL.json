@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 25098,
+  "num_followers": 25103,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
+        "name": "Tonolec",
+        "url": "https://open.spotify.com/album/0uR0X0oiILxnxDauNaqKzc"
+      },
+      "artists": [
+        {
+          "name": "Tonolec",
+          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
+        }
+      ],
+      "duration_ms": 264546,
+      "name": "Antiguos Due\u00f1os de las Flechas",
+      "url": "https://open.spotify.com/track/0z3RxsjWuo7lXrbLxE9Vmp"
+    },
+    {
+      "added_at": "2025-08-21 19:45:20",
+      "album": {
         "name": "Las Flores Elegantes",
         "url": "https://open.spotify.com/album/4DJJKY23XpfLPgCsqWuviz"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 230802,
       "name": "Las Flores Elegantes",
       "url": "https://open.spotify.com/track/58Bo57oyqbICuwjSe0e5sr"
-    },
-    {
-      "added_at": "2025-08-21 19:45:20",
-      "album": {
-        "name": "Tonolec",
-        "url": "https://open.spotify.com/album/0uR0X0oiILxnxDauNaqKzc"
-      },
-      "artists": [
-        {
-          "name": "Tonolec",
-          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
-        }
-      ],
-      "duration_ms": 264546,
-      "name": "Antiguos Due\u00f1os de las Flechas",
-      "url": "https://open.spotify.com/track/0z3RxsjWuo7lXrbLxE9Vmp"
     },
     {
       "added_at": "2025-08-21 19:45:20",
@@ -855,26 +855,6 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
-        "name": "El Despertar Del Anfibio (Instrumental)",
-        "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
-      },
-      "artists": [
-        {
-          "name": "Trickst4",
-          "url": "https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY"
-        },
-        {
-          "name": "Tom\u00e1s Pinkus",
-          "url": "https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr"
-        }
-      ],
-      "duration_ms": 383686,
-      "name": "El Despertar Del Anfibio - Instrumental",
-      "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
-    },
-    {
-      "added_at": "2025-08-21 19:45:20",
-      "album": {
         "name": "Camino a la Templanza",
         "url": "https://open.spotify.com/album/6sFos3tp45tLjHLHtgsOww"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 263424,
       "name": "Uni\u00f3n de los Amantes",
       "url": "https://open.spotify.com/track/2woooyH6Zq3XFRVSWEZMW6"
+    },
+    {
+      "added_at": "2025-08-21 19:45:20",
+      "album": {
+        "name": "El Despertar Del Anfibio (Instrumental)",
+        "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
+      },
+      "artists": [
+        {
+          "name": "Trickst4",
+          "url": "https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY"
+        },
+        {
+          "name": "Tom\u00e1s Pinkus",
+          "url": "https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr"
+        }
+      ],
+      "duration_ms": 383686,
+      "name": "El Despertar Del Anfibio - Instrumental",
+      "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
     },
     {
       "added_at": "2025-08-21 19:45:20",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
-        "name": "Magnetismo",
-        "url": "https://open.spotify.com/album/3gCfM35GYz3JC4nLcr9RyU"
-      },
-      "artists": [
-        {
-          "name": "La Yegros",
-          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
-        }
-      ],
-      "duration_ms": 241538,
-      "name": "Carnabailito",
-      "url": "https://open.spotify.com/track/2cVzbNbNXg0NlWyqefuYix"
-    },
-    {
-      "added_at": "2025-08-21 19:45:20",
-      "album": {
         "name": "CARNABAILITO",
         "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 325933,
       "name": "Carnabailito",
       "url": "https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK"
+    },
+    {
+      "added_at": "2025-08-21 19:45:20",
+      "album": {
+        "name": "Magnetismo",
+        "url": "https://open.spotify.com/album/3gCfM35GYz3JC4nLcr9RyU"
+      },
+      "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        }
+      ],
+      "duration_ms": 241538,
+      "name": "Carnabailito",
+      "url": "https://open.spotify.com/track/2cVzbNbNXg0NlWyqefuYix"
     },
     {
       "added_at": "2025-08-21 19:45:20",
@@ -1519,26 +1519,18 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
-        "name": "10 A\u00f1os",
-        "url": "https://open.spotify.com/album/6mrRqGRAlSKITzEOqldUeT"
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/02fcZ97Z4wjbM0143uMLUI"
       },
       "artists": [
         {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
-        },
-        {
-          "name": "San Ignacio",
-          "url": "https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr"
-        },
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+          "name": "Paloma del Cerro",
+          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
         }
       ],
-      "duration_ms": 248746,
-      "name": "La L\u00ednea del R\u00edo - San Ignacio & Pol Nada Remix",
-      "url": "https://open.spotify.com/track/4QjDr4c2f7RMdK0h0DI091"
+      "duration_ms": 287626,
+      "name": "Reci\u00e9n He Llegado Vidita (Recopilaci\u00f3n Leda Valladares)",
+      "url": "https://open.spotify.com/track/0wy9RdnvIvuH63aygXv0dm"
     }
   ],
   "unique_name": "Electro Folklore",

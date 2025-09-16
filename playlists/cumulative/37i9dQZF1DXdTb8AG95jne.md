@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: The Poles\(더 폴스\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: YDBB\(유다빈밴드\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,087 songs - 2 day 17 hr 57 min
+1,090 songs - 2 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [c a c t u s s m u g g l e r](https://open.spotify.com/track/0kAVuSxArLGBy450zdfYPv) | [quinn\_](https://open.spotify.com/artist/6Q7cg6qByDmYzJ6Xs4oTXC) | [0\-OXYGEN](https://open.spotify.com/album/5lehCVJHqa65UdRdXrmu3h) | 5:25 | 2024-04-30 | 2024-05-10 |
 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 | 2021-12-21 | 2024-05-01 |
 | [Cactus, Cactus](https://open.spotify.com/track/1rY2ceqiDFkB9NbV4efQOj) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Cactus, Cactus](https://open.spotify.com/album/3hfUaz21ZhJQ7Fa9amwMhZ) | 2:25 | 2023-04-04 | 2023-04-19 |
-| [California Love](https://open.spotify.com/track/1PV20gAvXYeamxejFDeEMT) | [Seong Young Joo](https://open.spotify.com/artist/1rwgkN9FIOpXgzSOYAE0Nt) | [California Love](https://open.spotify.com/album/3F5dqSATE4SfH42IWjpeCV) | 2:37 | 2025-08-12 |  |
+| [California Love](https://open.spotify.com/track/1PV20gAvXYeamxejFDeEMT) | [Seong Young Joo](https://open.spotify.com/artist/1rwgkN9FIOpXgzSOYAE0Nt) | [California Love](https://open.spotify.com/album/3F5dqSATE4SfH42IWjpeCV) | 2:37 | 2025-08-12 | 2025-09-16 |
 | [Calling You](https://open.spotify.com/track/43HFmGfFKx9hCXBEighJXG) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Calling You](https://open.spotify.com/album/7qo64skK7IHyXpgYTdQRPW) | 6:03 | 2025-03-28 | 2025-04-29 |
 | [Can I Be Me?](https://open.spotify.com/track/7J8Gyy5wUFBDbpD7vqpJKy) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Can I Be Me?](https://open.spotify.com/album/7wnXIsAJu06lWAWRrTziIq) | 3:08 | 2025-07-07 | 2025-08-22 |
 | [Candy Pink](https://open.spotify.com/track/0fhDu7tCzkKEsWvwAZYHLH) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Pulp](https://open.spotify.com/album/3jGK6MR6SNkw4j78MFQ1I2) | 2:53 | 2023-05-24 | 2023-06-02 |
@@ -213,6 +213,7 @@
 | [Dimension Theory](https://open.spotify.com/track/6o9Y9PAXJL2GCjukXtUuBz) | [Whys Young](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [Dimension Theory](https://open.spotify.com/album/4SOxENfRVQRs3E9DBMejik) | 2:35 | 2025-07-28 | 2025-08-30 |
 | [Dissolve](https://open.spotify.com/track/1NpAxxKo9dwf9bwrDrobDb) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Dissolve](https://open.spotify.com/album/4gzT4CjcewVkpELipuuoRB) | 3:55 | 2025-03-04 | 2025-04-11 |
 | [Dive into love](https://open.spotify.com/track/6apTn1k3YjfjkoMUTS1av2) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Dive into love](https://open.spotify.com/album/1wrWUQmvi9dqyxPPQHTg6H) | 3:22 | 2021-12-21 | 2022-04-30 |
+| [Dizzy](https://open.spotify.com/track/6QOpfGN5A1DJetRjHZ5dwr) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [CODA](https://open.spotify.com/album/5yyA9mUXeHO21XthokskOp) | 4:19 | 2025-09-16 |  |
 | [Do You Believe in Love?](https://open.spotify.com/track/6aOFf7lR1t5OHM6kN6keme) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Do You Believe in Love?](https://open.spotify.com/album/2PjLdyzhTz97ubbZYnfnht) | 3:29 | 2024-05-22 | 2024-06-19 |
 | [Do You Think Of Me?](https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me? \(4.4\)](https://open.spotify.com/album/3w43kNVamjK9eqQ2BJdB7V) | 3:16 | 2022-08-04 | 2024-01-31 |
 | [Do You Think Of Me?](https://open.spotify.com/track/67kcXvYNr1WUXx00bjt1HL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me?](https://open.spotify.com/album/7pOrzU2NCcOT1QxvBX70Fe) | 3:16 | 2025-04-11 | 2025-06-07 |
@@ -271,6 +272,7 @@
 | [Everything Bagel](https://open.spotify.com/track/5MKVBVQrjVRONziiVVA3Z3) | [Chawool](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Everything Bagel](https://open.spotify.com/album/2Kp8ezqdUoEN3kYE7iecCB) | 3:09 | 2024-11-06 | 2024-12-20 |
 | [Everything To](https://open.spotify.com/track/34yB5TeQv4uNw2tdTtPQLW) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Everything To](https://open.spotify.com/album/0KoqY8z0QLw4hwVvgEGdvn) | 4:13 | 2022-03-31 | 2022-04-08 |
 | [Everything's okay](https://open.spotify.com/track/0pASV8oPppxN9gRkxnf6qK) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [Everything's okay](https://open.spotify.com/album/5Bg8xKlw7sVy6hCLiK5S9O) | 4:15 | 2025-08-08 |  |
+| [EX \(Feat\. Zenn\)](https://open.spotify.com/track/3TD3K5nHSV3BIJJfwZO9KY) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Zenn](https://open.spotify.com/artist/7IxJ9FKazddUw1iGwDSPgz) | [EX](https://open.spotify.com/album/0PijWVJt8D3zN4FRvZX7mJ) | 3:14 | 2025-09-16 |  |
 | [exchange \- student](https://open.spotify.com/track/7w90M3IH9VZSalGnoljU0N) | [kimseungjoo](https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN) | [exchange \- student](https://open.spotify.com/album/288jSWKVSfWiN9eeaVQtXt) | 3:09 | 2025-07-04 | 2025-08-12 |
 | [Excuses](https://open.spotify.com/track/5vXtXSNxkkx3VQRfJiRYI9) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [yours, sincerely](https://open.spotify.com/album/5V0JQK17TUGPbtYiAdWlcA) | 3:51 | 2022-03-31 | 2022-04-10 |
 | [Expression](https://open.spotify.com/track/3TvohDfitHnEuXSJuJyIzr) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Expression](https://open.spotify.com/album/5LTSYg2669brAmWN7bjWG2) | 3:21 | 2021-12-21 | 2022-04-12 |
@@ -347,7 +349,7 @@
 | [Go with the flow](https://open.spotify.com/track/5jUdSZQOgU1olKinXBb8eC) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:32 | 2022-03-09 | 2022-07-19 |
 | [God of Mud](https://open.spotify.com/track/5atGm2Ek2QCsfasyebyOfD) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [God of Mud](https://open.spotify.com/album/3xXfOKW5ZALtrTSdUIzoJ7) | 4:03 | 2025-02-06 | 2025-03-29 |
 | [Golden Time !](https://open.spotify.com/track/68cZDWKZ2tShwZDcZxE6sF) | [ahreum](https://open.spotify.com/artist/59ARBW6DM7f37HN93uOjQy) | [Golden Time !](https://open.spotify.com/album/6k102m55xMi1OheH96tfRY) | 2:53 | 2024-04-30 | 2024-05-10 |
-| [GONE](https://open.spotify.com/track/1txuHFV1QW1LObbNVmhafD) | [Soo Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [GONE](https://open.spotify.com/album/5O7WABbH4NYJhOrfahuNap) | 3:38 | 2025-08-07 |  |
+| [GONE](https://open.spotify.com/track/1txuHFV1QW1LObbNVmhafD) | [Soo Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [GONE](https://open.spotify.com/album/5O7WABbH4NYJhOrfahuNap) | 3:38 | 2025-08-07 | 2025-09-16 |
 | [Gonna Die](https://open.spotify.com/track/3LTk2U4sgSXS87douZ8ENT) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Gonna Die](https://open.spotify.com/album/5nLQcMLitti1JYX805cCoO) | 3:24 | 2025-03-04 | 2025-04-11 |
 | [Good bye blue days](https://open.spotify.com/track/0FseBo4lh1WeuvvIKAwsMR) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Good bye blue days](https://open.spotify.com/album/6fujCf3YvZsPCsXIKRMbUe) | 4:11 | 2021-12-12 | 2022-07-28 |
 | [Good Times](https://open.spotify.com/track/5DXHofLQmL5USn6kjRhtnC) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [X\-Dreams](https://open.spotify.com/album/3yEhqq1L8LShxaJgje45rY) | 3:24 | 2025-04-25 | 2025-05-20 |
@@ -832,6 +834,7 @@
 | [Someone Like You](https://open.spotify.com/track/1rLepxqnfZrw7qSTe9b311) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Someone Like You](https://open.spotify.com/album/0qvJ0nfIEdUnlJ6bJPwN0M) | 3:20 | 2022-03-31 | 2022-05-14 |
 | [Someone 누군가에게](https://open.spotify.com/track/5fDAZCEKQztxEEmmqCZI76) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Romance 로맨스](https://open.spotify.com/album/2LH6ABi0a86HRVhZHHEx6n) | 3:40 | 2021-12-12 | 2022-07-29 |
 | [something](https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [something](https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s) | 3:38 | 2024-04-30 | 2024-05-10 |
+| [Sometimes \(feat\. TAEKWOO\)](https://open.spotify.com/track/4mqemrVqzIwbCmg47N8rsR) | [Mozy](https://open.spotify.com/artist/4p4s0bzDRKqiaCuwM06GJK), [TAEKWOO](https://open.spotify.com/artist/5Zu4Ot9NEWCHZ8IP7poTDw) | [Sometimes](https://open.spotify.com/album/1jpX3nRiJHjx3jIwPY7iuK) | 3:16 | 2025-09-16 |  |
 | [Sometimes When I Think Of You](https://open.spotify.com/track/3Ju3mN65kJ5bacdsZWhiEh) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Sometimes When I Think Of You](https://open.spotify.com/album/1vCjVVq78cWT080hPJD5yZ) | 4:22 | 2022-03-31 | 2022-04-04 |
 | [Sonorama 소노라마](https://open.spotify.com/track/2KiFvXAbBo4oEK50jmM1eG) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [New Edition 17](https://open.spotify.com/album/2SgtaKI0i6ZhLAbyXeSr8i) | 3:25 | 2022-02-18 | 2022-05-23 |
 | [soony rework \- 1 <In Front of the Iron Fence 철망 앞에서>](https://open.spotify.com/track/0Tso5swgphko9UerLX0VGW) | [장필순 Pil Soon Jang](https://open.spotify.com/artist/4IDTPedYQiZkdIWb3Bm2i2) | [soony rework \- 1 <In Front of the Iron Fence 철망 앞에서>](https://open.spotify.com/album/6I6HPXo2RsaEp0AKrTs8rb) | 5:59 | 2022-04-12 | 2022-04-17 |
@@ -877,7 +880,7 @@
 | [summer vacation](https://open.spotify.com/track/2ZWeUrqm5Qhc7rR8YRnxOZ) | [Ju Yoon Ha](https://open.spotify.com/artist/2G6zefY3cizYXTcpWNtNMP) | [summer vacation](https://open.spotify.com/album/7dFvSsggIwQ8YZdOqBUEfJ) | 3:43 | 2025-07-25 | 2025-08-22 |
 | [summer youth](https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [summer youth](https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB) | 3:37 | 2025-06-24 | 2025-08-08 |
 | [Sunset Memories \(Feat\. Kayla\)](https://open.spotify.com/track/0FBPTDfNG4uQX6Ysx8ZKEX) | [ZASMIIN](https://open.spotify.com/artist/0RjRLXt3YDQS3VWpqO7wB3), [Kayla](https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi) | [Sunset Memories \(Feat\. Kayla\)](https://open.spotify.com/album/3BFSGN4NiChDGcZ7hEj5RS) | 3:44 | 2022-05-02 | 2022-05-26 |
-| [Sunshine comedy club](https://open.spotify.com/track/1gIwGFcUuiTGO1PpFK5CYB) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Summer Vacation Edition](https://open.spotify.com/album/0uewCcf3M3m0TtKFpp1rl3) | 3:17 | 2025-07-31 |  |
+| [Sunshine comedy club](https://open.spotify.com/track/1gIwGFcUuiTGO1PpFK5CYB) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Summer Vacation Edition](https://open.spotify.com/album/0uewCcf3M3m0TtKFpp1rl3) | 3:17 | 2025-07-31 | 2025-09-16 |
 | [SUNspot](https://open.spotify.com/track/5k67kGeFPOr0VL23qRs4MO) | [Im DAI](https://open.spotify.com/artist/09wVtuZNFaYTjO4bDX8fKE) | [SUNspot](https://open.spotify.com/album/03xOGiHfyAGuem3wwaZx9h) | 3:02 | 2024-04-30 | 2024-05-10 |
 | [Supernova](https://open.spotify.com/track/5tR3DtTssLjT2pXuqeXopL) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [The Beginning](https://open.spotify.com/album/7vy3zY5P2Rht3IndB78A3H) | 3:58 | 2021-12-21 | 2022-07-01 |
 | [Supernova](https://open.spotify.com/track/6eqqVvqRJS5T3WCYMsj946) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Supernova](https://open.spotify.com/album/4o72fxboi0RopWUmOTRxoe) | 4:19 | 2024-07-31 | 2024-10-16 |

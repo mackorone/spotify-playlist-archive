@@ -4,7 +4,7 @@
 
 > Oualid on the cover of Habibi Gang Gang
 
-173 songs - 8 hr 11 min
+174 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Harami](https://open.spotify.com/track/6y7TE1grW4UhMzpsHF5wCp) | [Norel](https://open.spotify.com/artist/5GDRJ2wLCUGI1ryefQ3f3t) | [Harami](https://open.spotify.com/album/0EW4O5QQF1bsd7hN4Pc6SJ) | 2:24 | 2024-05-31 | 2025-06-12 |
 | [Hola Ouais](https://open.spotify.com/track/0b6cHDV3hSR7jnvaIFaLYy) | [Yanso](https://open.spotify.com/artist/1mAdVbvz1w6v9I5iGxRtnE), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Hola Ouais](https://open.spotify.com/album/2By8KOZPdmAHfyORJe4UYZ) | 3:10 | 2024-04-18 | 2024-05-11 |
 | [Houbi](https://open.spotify.com/track/3lRn3pUtJS1SsQ0TA3a8pn) | [DJ Charaf](https://open.spotify.com/artist/56FNyVFGpzmhvRT5nzemv9), [Laila Chakir](https://open.spotify.com/artist/533kor4NnjAOyvqUn2HgIO), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [IliassOpDeBeat](https://open.spotify.com/artist/7jlzu3WivGk7tszA2QUSxw) | [Houbi](https://open.spotify.com/album/7fXKucvRaX2LWmKgW3NnDC) | 2:20 | 2025-06-26 |  |
+| [Immer](https://open.spotify.com/track/7uIhcRg6ia0S9z1UzCl0Qc) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Immer](https://open.spotify.com/album/33Yvnfe9qp3GRN7pMdUnk9) | 2:39 | 2025-09-15 |  |
 | [Je M'en Fous](https://open.spotify.com/track/0D5ZNFuO7cN9xvhYQKdj9t) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [Je M'en Fous](https://open.spotify.com/album/06ZRa1jHSnD74FYyQXADbd) | 2:57 | 2024-02-29 | 2025-02-14 |
 | [Jelaba](https://open.spotify.com/track/2R3LdO45fHZvI0emsSyu8j) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Jelaba](https://open.spotify.com/album/7iQGFJd51Xe1UA1dseLtmM) | 3:06 | 2024-04-18 | 2025-01-21 |
 | [Jibouli](https://open.spotify.com/track/1NpScfzlTiJH6dIEa58CWf) | [ASHI](https://open.spotify.com/artist/0UGCSjBTzOrOIl5Yng2wHr) | [Jibouli](https://open.spotify.com/album/2g6kMMrzb3tLAbxGfgMnkF) | 2:12 | 2025-06-20 |  |
@@ -150,7 +151,7 @@
 | [Sokkar](https://open.spotify.com/track/22MZ14wFJ0DQUAaRy50uEW) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Sokkar](https://open.spotify.com/album/6LufOTjtT03JshmT4eT7np) | 3:08 | 2024-02-29 | 2025-05-09 |
 | [Solo \(feat\. Tayc\)](https://open.spotify.com/track/1TE1TZ7qOLVAcbKh15sxOi) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Solo \(feat\. Tayc\)](https://open.spotify.com/album/4KUc3hsO1GIJ6y8idURzhj) | 2:59 | 2024-02-29 | 2025-05-09 |
 | [Son Style](https://open.spotify.com/track/4UY9CCwEvBplRAM2p6gSGk) | [GIHED](https://open.spotify.com/artist/68hskyqiGo9g5pTObISiBj) | [Son Style](https://open.spotify.com/album/7sctJwnx2aH1WiiWqid10U) | 2:11 | 2024-02-29 | 2024-09-27 |
-| [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 | 2024-05-16 |  |
+| [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 | 2024-05-16 | 2025-09-16 |
 | [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 | 2024-02-29 | 2024-07-02 |
 | [Te Amo](https://open.spotify.com/track/65UBxTsWeYjQcO2jSufHv7) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y) | [Te Amo](https://open.spotify.com/album/2j41U4W1dn1Nw491wgw66i) | 2:23 | 2025-04-10 |  |
 | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85) | 2:41 | 2024-02-29 | 2025-05-09 |

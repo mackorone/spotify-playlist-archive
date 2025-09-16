@@ -4,7 +4,7 @@
 
 > Jadi lebih produktif ditemani musik terkini
 
-379 songs - 22 hr 44 min
+380 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Adore U](https://open.spotify.com/track/5qQHPdQaiLkIrRjMBFTbuz) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Adore U](https://open.spotify.com/album/6TuqYkU9a9UNy7YxwATWDg) | 2:44 | 2024-06-26 | 2024-11-14 |
 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 | 2023-12-06 |  |
 | [Akhir Tak Bahagia](https://open.spotify.com/track/0BYoWATcndOBcsCfKdTKRx) | [Misellia](https://open.spotify.com/artist/5IjwAAk3njAeiFY1InInsn) | [Akhir Tak Bahagia](https://open.spotify.com/album/7zv0LcKjGlAUiTXQJzqhSY) | 3:05 | 2024-03-21 | 2024-04-24 |
+| [Aku Ingin](https://open.spotify.com/track/4lmgkmp7kOMg0ilXMyJheF) | [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [Aku Ingin](https://open.spotify.com/album/5M7gzKtJsGKEhhV7Isa0ES) | 4:21 | 2025-09-15 |  |
 | [Aku Jatuh](https://open.spotify.com/track/6xTK5v8US3IbMsaEBweojq) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Aku Jatuh](https://open.spotify.com/album/0HUhN9oZ8w3QPKHww0VKb5) | 3:06 | 2025-07-23 | 2025-07-28 |
 | [Aku Tempatmu Pulang](https://open.spotify.com/track/2THSRFEIrQHhW6zgMb4aJI) | [Armand Maulana](https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb) | [Sarwa Renjana](https://open.spotify.com/album/54bIfja1dUvfnOPUCmY5CC) | 3:10 | 2025-03-03 | 2025-04-11 |
 | [All I Want](https://open.spotify.com/track/16jaBSbWIiHNR6fOBX9Mij) | [Trifect](https://open.spotify.com/artist/0TIGDhG2md2oyRrYK2bSPQ), [Redza](https://open.spotify.com/artist/7rI4hvk9fjo1LAOXX1XvLG) | [All I Want](https://open.spotify.com/album/3WL91lURslAj9nT9qFMjP8) | 3:17 | 2023-06-18 | 2023-10-12 |

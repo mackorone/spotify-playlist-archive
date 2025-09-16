@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 
 > Congratulations to all the winners and nominees of the 40th <a href="https://www.thestellarawards.com/index.html">Stellar Awards!</a> Cover & Host: <a href="spotify:artist:3qfrrrSO7utFdJkM2tvMRb">CeCe Winans</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,319 likes - 80 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,325 likes - 80 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

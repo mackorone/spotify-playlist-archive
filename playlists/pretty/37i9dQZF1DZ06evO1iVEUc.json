@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25536,
+  "num_followers": 25535,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAADtRqT+rbvH/mO4DWxIWaGU",
+  "snapshot_id": "aMYFgAAAAAD/145w1pNF4rsIwOxZOUS4",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 321300,
-      "name": "Bone 2 Pic (Wit U)",
-      "url": "https://open.spotify.com/track/5CBiUwCW1j6v5ITZYK9khy"
+      "duration_ms": 152007,
+      "name": "Trouble Man",
+      "url": "https://open.spotify.com/track/1DVPQbeV6bU8sQDCouSCmt"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 152007,
-      "name": "Trouble Man",
-      "url": "https://open.spotify.com/track/1DVPQbeV6bU8sQDCouSCmt"
+      "duration_ms": 321300,
+      "name": "Bone 2 Pic (Wit U)",
+      "url": "https://open.spotify.com/track/5CBiUwCW1j6v5ITZYK9khy"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 227293,
+      "name": "High",
+      "url": "https://open.spotify.com/track/7nwy7u1NxzbUEOmpzo6KWT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "London Ko",
         "url": "https://open.spotify.com/album/3FnZTIThL7sm42d5t7pZ1C"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 227293,
-      "name": "High",
-      "url": "https://open.spotify.com/track/7nwy7u1NxzbUEOmpzo6KWT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Art of Love & War",
         "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
       },
@@ -483,6 +483,30 @@
       "duration_ms": 290093,
       "name": "Baby",
       "url": "https://open.spotify.com/track/6pdcpkWpFFy41HqvUiMofI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retroflection Remixed",
+        "url": "https://open.spotify.com/album/6W5TD4Bt2OcjDDFlFNx2wq"
+      },
+      "artists": [
+        {
+          "name": "Reel People",
+          "url": "https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X"
+        },
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Art of Tones",
+          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
+        }
+      ],
+      "duration_ms": 327796,
+      "name": "Don't Stop The Music - Art Of Tones Modern Disco Mix",
+      "url": "https://open.spotify.com/track/5Palg39d9eAEgi43NHKSKz"
     },
     {
       "added_at": null,
@@ -515,42 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retroflection Remixed",
-        "url": "https://open.spotify.com/album/6W5TD4Bt2OcjDDFlFNx2wq"
-      },
-      "artists": [
-        {
-          "name": "Reel People",
-          "url": "https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X"
-        },
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Art of Tones",
-          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
-        }
-      ],
-      "duration_ms": 327796,
-      "name": "Don't Stop The Music - Art Of Tones Modern Disco Mix",
-      "url": "https://open.spotify.com/track/5Palg39d9eAEgi43NHKSKz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/6KhoIz4SDYW5zEnl0O9bRB"
       },
       "artists": [
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
         }
       ],
-      "duration_ms": 245173,
-      "name": "In the Air Tonight",
-      "url": "https://open.spotify.com/track/1nzVdpMp7SzrAzCKQdYelk"
+      "duration_ms": 238220,
+      "name": "Gonna Have to Be You",
+      "url": "https://open.spotify.com/track/0yKtPIRrUjoATLNNXmJcbq"
     },
     {
       "added_at": null,
@@ -575,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/6KhoIz4SDYW5zEnl0O9bRB"
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
       },
       "artists": [
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
         }
       ],
-      "duration_ms": 238220,
-      "name": "Gonna Have to Be You",
-      "url": "https://open.spotify.com/track/0yKtPIRrUjoATLNNXmJcbq"
+      "duration_ms": 245173,
+      "name": "In the Air Tonight",
+      "url": "https://open.spotify.com/track/1nzVdpMp7SzrAzCKQdYelk"
     },
     {
       "added_at": null,
@@ -607,38 +607,6 @@
       "duration_ms": 322360,
       "name": "Since I Lost My Baby",
       "url": "https://open.spotify.com/track/60sfBPovUoGakpff86kf9F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do What U Gotta Do",
-        "url": "https://open.spotify.com/album/72zbFzJ4FMbeIsm1bvsn0H"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 204080,
-      "name": "Do What U Gotta Do",
-      "url": "https://open.spotify.com/track/6wo7R2MQZ0uZdKNozW6U97"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unexpected",
-        "url": "https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 206786,
-      "name": "I Ain\u2019t Hearin\u2019 U",
-      "url": "https://open.spotify.com/track/2QAcA00lpN2u4n15tcKm3R"
     },
     {
       "added_at": null,
@@ -675,6 +643,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unexpected",
+        "url": "https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 206786,
+      "name": "I Ain\u2019t Hearin\u2019 U",
+      "url": "https://open.spotify.com/track/2QAcA00lpN2u4n15tcKm3R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do What U Gotta Do",
+        "url": "https://open.spotify.com/album/72zbFzJ4FMbeIsm1bvsn0H"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 204080,
+      "name": "Do What U Gotta Do",
+      "url": "https://open.spotify.com/track/6wo7R2MQZ0uZdKNozW6U97"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Human Stone (feat. Angie Stone)",
         "url": "https://open.spotify.com/album/5JDtdJsp89vm1wldP6Qwro"
       },
@@ -691,22 +691,6 @@
       "duration_ms": 207656,
       "name": "The Human Stone (feat. Angie Stone)",
       "url": "https://open.spotify.com/track/2zhgYDsj5s9ucveGRlEr9F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "You Don't Love Me",
-      "url": "https://open.spotify.com/track/6LgeYzc85nIiOg9ZcaRjRu"
     },
     {
       "added_at": null,
@@ -731,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art of Love & War",
-        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 271493,
-      "name": "Sit Down",
-      "url": "https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
@@ -763,6 +731,38 @@
       "duration_ms": 243641,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Art of Love & War",
+        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Take Everything In",
+      "url": "https://open.spotify.com/track/0S9J927viE05YinAFLoUUi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "You Don't Love Me",
+      "url": "https://open.spotify.com/track/6LgeYzc85nIiOg9ZcaRjRu"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 176426,
-      "name": "Red, Red Wine",
-      "url": "https://open.spotify.com/track/6F6b3hTQchWivuPewh4B1t"
+      "duration_ms": 209345,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/5RMf9Fc1U4x7kHgx5Swb7H"
     },
     {
       "added_at": null,
@@ -812,15 +812,15 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Take Everything In",
-      "url": "https://open.spotify.com/track/0S9J927viE05YinAFLoUUi"
+      "duration_ms": 271493,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 209345,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/5RMf9Fc1U4x7kHgx5Swb7H"
+      "duration_ms": 176426,
+      "name": "Red, Red Wine",
+      "url": "https://open.spotify.com/track/6F6b3hTQchWivuPewh4B1t"
     },
     {
       "added_at": null,

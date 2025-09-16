@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:31xNxPD0tnYKr7Krg8dyPB">BunnaB</a>
 
-2,508 songs - 4 day 15 hr 16 min
+2,509 songs - 4 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1630,6 +1630,7 @@
 | [Or What](https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Or What](https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2) | 3:19 | 2024-09-06 | 2025-02-01 |
 | [Out Miami \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/0IPRMIHmFYBvjZRFb9XqpE) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Melody Of A Memory](https://open.spotify.com/album/5HHk3WZje18OMnqE6VzVKB) | 2:30 | 2025-02-21 | 2025-03-29 |
 | [OUT MY MIND](https://open.spotify.com/track/3GgHZOiFytNy85zscdJAdp) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [OUT MY MIND](https://open.spotify.com/album/0b5H7zalN2LcXLxxWXZDcE) | 3:00 | 2024-06-28 | 2024-07-13 |
+| [out my way](https://open.spotify.com/track/2IpKA7eqYva8autNNVzXGz) | [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [MARCO PLUS vs\. tha Underworld](https://open.spotify.com/album/6CRsycLmp5msVvtPxPKqHH) | 2:24 | 2025-09-14 |  |
 | [Out of State](https://open.spotify.com/track/5xsr3QA0kvK4VFADzbUhUt) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Out of State](https://open.spotify.com/album/0Cy2QYq6hBh1Y5R21xmlpm) | 1:46 | 2023-02-24 | 2023-03-11 |
 | [Out of Time](https://open.spotify.com/track/27feJmQBpvsnW4tC4M7pw4) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB) | [Out of Time](https://open.spotify.com/album/72SRRaSf8OEru4ewgAK0UM) | 1:57 | 2023-01-06 | 2023-03-25 |
 | [Out On Bond](https://open.spotify.com/track/07iXzCjxJdfHTUenA34iXt) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Out On Bond](https://open.spotify.com/album/1rM3JOw6PilCUL4GXU0WCi) | 1:20 | 2023-02-24 | 2023-04-29 |
@@ -2128,7 +2129,7 @@
 | [Tag Me In](https://open.spotify.com/track/5QQ1zEhxJ4k2zdkcHV2hoT) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Tag Me In](https://open.spotify.com/album/6Xxmm6M26fdlewgIBxRWVd) | 2:53 | 2023-12-08 | 2024-02-17 |
 | [Take Her Down](https://open.spotify.com/track/6VKn4n4FoI0Ktx7M6eIh99) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Take Her Down](https://open.spotify.com/album/2W0MQtufPFPzM3m4GuRyzz) | 3:15 | 2025-05-09 |  |
 | [Take my time Geeski SH Feb 23](https://open.spotify.com/track/5HX3m4LUWtDjFBtTLd8PHo) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Take my time Geeski SH Feb 23](https://open.spotify.com/album/0cH8XPlr5xRwUWABrGEye6) | 2:54 | 2025-06-06 | 2025-06-14 |
-| [Take U A Army](https://open.spotify.com/track/3Oax2vllbpCAzWKuuOES4t) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Take U A Army](https://open.spotify.com/album/6ioKfZ1ppOiIWUuKL7IwCt) | 2:59 | 2025-08-29 |  |
+| [Take U A Army](https://open.spotify.com/track/3Oax2vllbpCAzWKuuOES4t) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Take U A Army](https://open.spotify.com/album/6ioKfZ1ppOiIWUuKL7IwCt) | 2:59 | 2025-08-29 | 2025-09-16 |
 | [Taken For Granted](https://open.spotify.com/track/3CsdKcnQRUtuPO7hHjzJ1P) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Taken For Granted](https://open.spotify.com/album/1v9tdLs34CUDSItvFilRMD) | 2:50 | 2021-10-29 | 2022-01-22 |
 | [Talk](https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Talk](https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e) | 2:54 | 2022-09-02 | 2022-09-10 |
 | [Talk My Shit](https://open.spotify.com/track/6O3WfmAQIgnLBGVzZJVS40) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr Beat The Road](https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb) | 1:44 | 2024-03-15 | 2024-05-11 |

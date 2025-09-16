@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-870 songs - 1 day 13 hr 22 min
+873 songs - 1 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [Lonely Lights](https://open.spotify.com/track/06W2idQQI9nToYkue7MSVw) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Lonely Lights](https://open.spotify.com/album/7zERRdz6JnH1qndyc2KExU) | 2:35 | 2025-08-19 |  |
 | [Lost at Sea](https://open.spotify.com/track/0OQWq6Sgbn0L59KfhVYxBT) | [Alcon Blue](https://open.spotify.com/artist/4BathNj58pS2EbPPlASeYX) | [Lost at Sea](https://open.spotify.com/album/2q8kS6jiETavV5psaO4DAP) | 2:40 | 2023-01-09 | 2024-01-03 |
 | [Lost in a Dream](https://open.spotify.com/track/3n4WSQV9xopZy4wamL2tKL) | [Sophie Ronstadt](https://open.spotify.com/artist/3vXkoxi4Fo3dhKEy1Wxa8V) | [Lost in a Dream](https://open.spotify.com/album/5ZIgYon1ibEQwYlTyQyKTz) | 2:21 | 2021-12-13 | 2022-09-13 |
+| [Love of My Life](https://open.spotify.com/track/1k43yZUlrZlWLlLSE9HSFC) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Love of My Life](https://open.spotify.com/album/10mjFWOlFE2Vr0ZrgPNXYZ) | 2:19 | 2025-09-15 |  |
 | [Love Theme](https://open.spotify.com/track/0lSZUzGi4EBc1Q0HqynTqO) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Love Theme](https://open.spotify.com/album/5trgrL7pUh0OyxMRsxztyk) | 2:59 | 2022-02-02 | 2023-11-21 |
 | [Luce](https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Luce](https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H) | 2:10 | 2023-11-13 | 2025-05-22 |
 | [Lullaby](https://open.spotify.com/track/3U987lHXBgataMkhfi7YAL) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [Lullaby](https://open.spotify.com/album/7f54qfOoAtHzyz9cdmwILX) | 2:23 | 2023-05-03 |  |
@@ -536,6 +537,7 @@
 | [On Your Side](https://open.spotify.com/track/12Ha6FmHZqlgVgIJU2kn3o) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [On Your Side](https://open.spotify.com/album/6sJJQ0VIYMW3lQLv6zdhPV) | 3:26 | 2021-12-13 | 2022-02-16 |
 | [Once More](https://open.spotify.com/track/6fE1QsCn1UPxiXgOPvqKo0) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Once More](https://open.spotify.com/album/4nXhrvBpJYkIpiBZ9m43R6) | 2:23 | 2021-12-13 | 2022-10-14 |
 | [Onward](https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Onward](https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i) | 2:14 | 2023-05-19 |  |
+| [Opal Amethyst](https://open.spotify.com/track/1kBRlIK8Jw38fPxNMS6yCi) | [Medhi Tate](https://open.spotify.com/artist/5EOHMF3L8Jtte0cid9DWS4) | [Opal Amethyst](https://open.spotify.com/album/1K3ijf5cawLX16Klr2BKC1) | 2:09 | 2025-09-15 |  |
 | [Open Sail](https://open.spotify.com/track/5fOv8ynuVRniCFLQ48grdI) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Open Sail](https://open.spotify.com/album/56DDWl85qAeO3r0FhsrYtq) | 2:08 | 2022-10-13 | 2024-02-13 |
 | [Orchard Moon](https://open.spotify.com/track/2bqCu2dRdptpsJ8mKeQf79) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Orchard Moon](https://open.spotify.com/album/3XMVYJnqmGDYrDAqZ6903y) | 2:57 | 2024-12-03 | 2025-05-22 |
 | [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 | 2022-03-17 | 2024-04-04 |
@@ -631,7 +633,7 @@
 | [Sad Moments](https://open.spotify.com/track/4ZgngkORCnHjiXHmZbIFJT) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Sad Moments](https://open.spotify.com/album/4yueXDq97H7jHHnYYYc1JJ) | 2:34 | 2025-01-06 |  |
 | [Sagesse en Amour](https://open.spotify.com/track/7MJcTb10o1gms7Gr641tj7) | [Steve Mokwebe](https://open.spotify.com/artist/4oJhB4wMqwZWue2kcpCmCz) | [Sagesse en Amour](https://open.spotify.com/album/3jlN7BgH820pjPsJw9M8C5) | 2:21 | 2023-04-24 |  |
 | [sahdana](https://open.spotify.com/track/7rTV5NBxyhcHbFdzbyLiJf) | [ildio](https://open.spotify.com/artist/0M7lk3XgbBRdb5EzeRlGIq) | [sahdana](https://open.spotify.com/album/7pn4A1Cyta0u8c3K55JBHr) | 2:55 | 2021-12-13 | 2022-10-25 |
-| [Sanctuary](https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Sanctuary](https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU) | 2:31 | 2023-06-14 |  |
+| [Sanctuary](https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Sanctuary](https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU) | 2:31 | 2023-06-14 | 2025-09-16 |
 | [Sands Of Time](https://open.spotify.com/track/3j3puYxZ3zB9PQ7acE9mal) | [Daniel Ketchum](https://open.spotify.com/artist/6TwhBnzSvGRJBC9obv73uz) | [Sands Of Time](https://open.spotify.com/album/08ikUeZQ3YVWJ0p121ecE0) | 2:20 | 2021-12-13 | 2022-10-25 |
 | [Sanpo](https://open.spotify.com/track/07lePWIMzKuTsvkTtTVQhW) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Sanpo](https://open.spotify.com/album/1BdZhzd2iQTim5CxFLyccf) | 2:36 | 2021-12-13 | 2022-10-05 |
 | [Sans Toi](https://open.spotify.com/track/04uVxAxx6QvPQzfuLv5A6P) | [Loane Tellier](https://open.spotify.com/artist/6xKXSveUUJyAIZAOCnnSvS) | [Sans Toi](https://open.spotify.com/album/0avKp2QPHyrlKayO32H0Qa) | 2:07 | 2021-12-13 | 2023-04-25 |
@@ -876,6 +878,7 @@
 | [Zašto](https://open.spotify.com/track/7eiM2QUgzptSwtOAno0kVW) | [Suzana Tomić](https://open.spotify.com/artist/5MhlqMxEF4q8fUcxDLnPZL) | [Zašto](https://open.spotify.com/album/6ruV80tj4ul5kL8hbjYZI0) | 2:19 | 2022-10-13 | 2024-04-04 |
 | [Zu Hause](https://open.spotify.com/track/3KuHx15ro3TkRZTi5g261x) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Zu Hause](https://open.spotify.com/album/4zZaVpP8e7Gl9d4YvyAjrH) | 2:07 | 2022-12-21 | 2024-11-26 |
 | [Étoile](https://open.spotify.com/track/1nDv71bmip8uUPCfCZuRll) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Étoile](https://open.spotify.com/album/5ljetXvSUVU4qNAfRIi1dO) | 2:28 | 2024-09-02 |  |
+| [Éveil](https://open.spotify.com/track/2brRgCl1LHEDuwMjFxp8s5) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Éveil](https://open.spotify.com/album/3A3g8Hg3Y2y42uG7BmDoft) | 2:54 | 2025-09-15 |  |
 | [Ótta](https://open.spotify.com/track/1HIsNXsMp337FECrM521V0) | [Stefán Hafsteinsson](https://open.spotify.com/artist/57eZ1e0kwxtZYfYUs6GcF8) | [Ótta](https://open.spotify.com/album/1FduT1J6puUxizGclSvYDA) | 2:47 | 2022-07-28 | 2022-10-25 |
 | [Ótta](https://open.spotify.com/track/6FGOagWREYZY08x4dZ8b8m) | [Stefán Hafsteinsson](https://open.spotify.com/artist/57eZ1e0kwxtZYfYUs6GcF8) | [Ótta](https://open.spotify.com/album/4GgvUJmnCyC1w71Oxe8SQh) | 2:47 | 2021-12-13 | 2022-07-29 |
 

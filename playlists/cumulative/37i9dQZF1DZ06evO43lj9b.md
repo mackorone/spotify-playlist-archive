@@ -4,7 +4,7 @@
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-65 songs - 5 hr 1 min
+66 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Aragon \- From The "Coffy" Soundtrack](https://open.spotify.com/track/6pxqP6XNBLbKVozvtgTH08) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:55 | 2025-03-11 |  |
 | [Bands Jukes](https://open.spotify.com/track/1VoHbA54cMaIBxCqNoO2HT) | [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Good Vibes / Bad Vibes](https://open.spotify.com/album/0c9e9wpCtoUd4laxFFSlby) | 1:45 | 2025-03-11 | 2025-04-28 |
 | [Bounce Keepers](https://open.spotify.com/track/3NXniwMLRqDltNT065vM3W) | [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Good Vibes / Bad Vibes](https://open.spotify.com/album/0c9e9wpCtoUd4laxFFSlby) | 1:34 | 2025-03-11 | 2025-03-13 |
-| [Brand New Feeling \- Yoruba Soul Mix Part 2 Edit](https://open.spotify.com/track/7hEOBK13E4307YEaQFyWRQ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy), [Sylvia Cox](https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl) | [Brand New Feeling \(Yoruba Soul Mix Part 2 Edit\)](https://open.spotify.com/album/3Avh7w1evREcin2NEj75JG) | 6:29 | 2025-08-03 |  |
+| [Brand New Feeling \- Yoruba Soul Mix Part 1](https://open.spotify.com/track/5udRnyoTYZRr44pXCOCo7p) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy), [Sylvia Cox](https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl) | [Brand New Feeling \- Yoruba Soul Remixes](https://open.spotify.com/album/470ou8bSscstQ53wB8gVYE) | 7:27 | 2025-09-16 |  |
+| [Brand New Feeling \- Yoruba Soul Mix Part 2 Edit](https://open.spotify.com/track/7hEOBK13E4307YEaQFyWRQ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy), [Sylvia Cox](https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl) | [Brand New Feeling \(Yoruba Soul Mix Part 2 Edit\)](https://open.spotify.com/album/3Avh7w1evREcin2NEj75JG) | 6:29 | 2025-08-03 | 2025-09-16 |
 | [Brawling Broads \- From The "Coffy" Soundtrack](https://open.spotify.com/track/2ZoZzG6PESuJ9taOuLevxk) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:46 | 2025-03-11 |  |
 | [Can't You See Me](https://open.spotify.com/track/5WvuwQ9U5qh0enH4NxnkYr) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 6:58 | 2025-03-11 |  |
 | [Cleva](https://open.spotify.com/track/1GoTvQP3JEeA8oh5I9b2xc) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:45 | 2025-03-11 |  |

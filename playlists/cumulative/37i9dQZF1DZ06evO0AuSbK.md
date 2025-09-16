@@ -4,7 +4,7 @@
 
 > This is Limp Bizkit\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 23 min
+52 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Leech \- Demo Version](https://open.spotify.com/track/14bsZ0VIilE9EnF4FxoL6p) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 2:11 | 2024-07-02 |  |
 | [Livin' It Up](https://open.spotify.com/track/0QepvU0N2fC2B5uIPafO1q) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 4:24 | 2022-09-08 |  |
 | [Lonely World](https://open.spotify.com/track/77AbmFudFBhF5a4Vcmwqtu) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 4:33 | 2022-09-08 |  |
+| [Making Love to Morgan Wallen](https://open.spotify.com/track/3Ks8ihjDWX6D1abq9xgPqF) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Making Love to Morgan Wallen](https://open.spotify.com/album/4ME4cmhrGAWiewVOTMnmi2) | 4:09 | 2025-09-16 |  |
 | [My Generation](https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 3:41 | 2022-09-08 |  |
 | [N 2 Gether Now](https://open.spotify.com/track/5SEBSAio1N77Vbrj1cAEGb) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 4:49 | 2022-09-08 |  |
 | [Nobody Like You](https://open.spotify.com/track/5VNMlLgQdpo2ksrYzD9ANy) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 4:20 | 2022-09-08 |  |

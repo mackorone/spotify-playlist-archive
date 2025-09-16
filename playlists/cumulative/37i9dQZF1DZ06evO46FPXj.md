@@ -4,7 +4,7 @@
 
 > This is Autechre\. The essential tracks, all in one playlist.
 
-235 songs - 1 day 2 hr 51 min
+236 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Bine](https://open.spotify.com/track/6CXznHDAUgjHE4t8XCriDJ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/6FPt8HEGHoBGbX0dQnXDPh) | 4:41 | 2022-05-29 | 2022-10-11 |
 | [BIPP \- Autechre Mx](https://open.spotify.com/track/4tBdLWvYYr5IjJpvwiZr85) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [BIPP \(Autechre Mx\)](https://open.spotify.com/album/6gbZRfEsgrddPqFXXf0rqk) | 3:33 | 2022-09-10 |  |
 | [bladelores](https://open.spotify.com/track/0z5NOndJF0DHq6GizOZjUT) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/0vczEfoTXdjFAERCLMrc0Z) | 12:19 | 2022-06-02 | 2022-12-13 |
-| [bladelores](https://open.spotify.com/track/31vEhUEiOYgGoDW95wyPpi) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs) | 12:19 | 2024-02-02 |  |
+| [bladelores](https://open.spotify.com/track/31vEhUEiOYgGoDW95wyPpi) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs) | 12:19 | 2024-02-02 | 2025-09-16 |
 | [Bronchus 2](https://open.spotify.com/track/24cJjVk2EPpsiTt8JH1cSJ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/4KROnLN6Didp0F97RXaW7a) | 3:33 | 2022-06-13 | 2022-09-06 |
 | [Bronchus 2](https://open.spotify.com/track/6vEQb99X3hWD1nENGR6IoR) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/3uQcFgoUvMlfYKy7GUPRXf) | 3:33 | 2023-05-12 | 2025-08-31 |
 | [Bronchusevenmx](https://open.spotify.com/track/3MPgdnHKfPfRnyjaMit4kZ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Garbage](https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ) | 9:44 | 2023-02-15 |  |
@@ -162,6 +162,7 @@
 | [Pen Expers](https://open.spotify.com/track/6DFoBjJDvYC28COaoxZYda) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/6FPt8HEGHoBGbX0dQnXDPh) | 7:08 | 2022-05-29 | 2023-02-12 |
 | [Perlence](https://open.spotify.com/track/1bCt6LlhQxsp3AELYarNvJ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/3ZXEJLSFbQ13rhevpc7L0Y) | 3:25 | 2022-07-21 | 2022-09-29 |
 | [Perlence](https://open.spotify.com/track/1bZDsJOkaTWbiRSyApCByK) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK) | 3:25 | 2023-12-13 |  |
+| [Phylopn](https://open.spotify.com/track/3Yx4Tv6ery7PyOvo3e2noc) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice \(Versions\)](https://open.spotify.com/album/3EhXQYoLSUFXkDDSxrLHx1) | 2:40 | 2025-09-16 |  |
 | [Piezo](https://open.spotify.com/track/3CfCnydtVUfmXgogGIDzGc) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 8:00 | 2022-05-29 | 2022-10-13 |
 | [PIOBmx](https://open.spotify.com/track/6u3LT0WFk9Fq0WrnvUirWf) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Garbage](https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ) | 7:37 | 2023-11-10 | 2025-09-10 |
 | [PIOBmx](https://open.spotify.com/track/3coNfMLhjfCggjfb5velIx) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Garbage](https://open.spotify.com/album/31nThm3LyQVvrndqxhvjWl) | 7:37 | 2022-05-29 | 2022-09-21 |

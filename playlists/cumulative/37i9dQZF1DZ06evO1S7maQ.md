@@ -4,7 +4,7 @@
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-141 songs - 10 hr 5 min
+142 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Adelita](https://open.spotify.com/track/5LCRHTTI17T53OcGEamGwJ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Adelita](https://open.spotify.com/album/6q5Rn9TfFBYqvknRmyNlHQ) | 4:37 | 2025-06-01 | 2025-07-22 |
 | [Any Other Way](https://open.spotify.com/track/2LRkPUjFJd4YNHZqAPxahC) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 2:54 | 2022-11-13 | 2022-11-27 |
 | [Atlantic City](https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 3:56 | 2022-01-11 |  |
+| [Atlantic City \(Live in Jersey\) \[feat\. Bruce Springsteen and Kings of Leon\]](https://open.spotify.com/track/0tAf99mtQfyK9yeimT4yH2) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Atlantic City \(Live in Jersey\) \[feat\. Bruce Springsteen and Kings of Leon\]](https://open.spotify.com/album/7sZ70n45HG0bZ44E7ApqXq) | 4:28 | 2025-09-16 |  |
 | [Backstreets](https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 6:30 | 2022-01-11 |  |
 | [Badlands](https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:02 | 2022-01-11 |  |
 | [Because the Night](https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Promise](https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9) | 3:25 | 2022-05-30 |  |
@@ -77,16 +78,16 @@
 | [Little Girl Like You](https://open.spotify.com/track/28EWvSxtUKaTOzXjrc9Jwc) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks II: The Lost Albums](https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37) | 1:22 | 2025-07-01 | 2025-09-09 |
 | [Lonely Night In The Park](https://open.spotify.com/track/4XHstWlKuxTfhs5DRTASi6) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Lonely Night In The Park](https://open.spotify.com/album/0UW5iJTjUbGL3S5fK8aWCP) | 4:37 | 2025-08-24 |  |
 | [Lonesome Day](https://open.spotify.com/track/0R9q3imnid244T1ty47MGs) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:05 | 2024-04-05 |  |
-| [Long Walk Home](https://open.spotify.com/track/41RlTAAmlNhuhPx8rPZlDS) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Magic](https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z) | 4:34 | 2025-06-06 |  |
+| [Long Walk Home](https://open.spotify.com/track/41RlTAAmlNhuhPx8rPZlDS) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Magic](https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z) | 4:34 | 2025-06-06 | 2025-09-16 |
 | [Long Walk Home \- Live in Manchester, May 14, 2025](https://open.spotify.com/track/6DplepOEJuoBLHLhzWLhAe) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Land Of Hope & Dreams](https://open.spotify.com/album/1wWm7MPHSIpBX7Wiw8LAAq) | 6:33 | 2025-05-29 | 2025-06-06 |
 | [Lost in the Flood \- Live at C.W\. Post Dome Auditorium, Greenvale, NY \- December 12, 1975](https://open.spotify.com/track/33ODNuSzPh9ratGzau67Nx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Live Series: Songs Of Location](https://open.spotify.com/album/3f9gSNrcSQxcEjWDSbOxAK) | 6:34 | 2022-05-16 | 2022-05-27 |
-| [Mansion on the Hill](https://open.spotify.com/track/4eQQGTTbcKl5abbaIM0OxW) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 4:04 | 2025-09-12 | 2025-09-13 |
+| [Mansion on the Hill](https://open.spotify.com/track/4eQQGTTbcKl5abbaIM0OxW) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 4:04 | 2025-09-12 |  |
 | [Mary's Place](https://open.spotify.com/track/0g0MBBxtDRy8Igs0AzSZR4) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 5:58 | 2023-07-13 | 2023-07-29 |
 | [Maybe I Don't Know You](https://open.spotify.com/track/4z86SxkZA9unRSm7k2EoaJ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks II: The Lost Albums](https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37) | 3:56 | 2025-08-12 | 2025-08-16 |
 | [My City of Ruins \- Live in Manchester, May 14, 2025](https://open.spotify.com/track/5suxhWHmTHj73KFTTa72N5) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Land Of Hope & Dreams](https://open.spotify.com/album/1wWm7MPHSIpBX7Wiw8LAAq) | 6:50 | 2025-05-29 | 2025-06-08 |
 | [My Hometown](https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:39 | 2022-01-11 |  |
 | [Nebraska](https://open.spotify.com/track/7GDIQqD5pdHCda5rpZ98Ie) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 4:29 | 2022-01-11 |  |
-| [Night](https://open.spotify.com/track/305AMS2fhp16LoYxKiYsXF) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 3:00 | 2024-05-21 |  |
+| [Night](https://open.spotify.com/track/305AMS2fhp16LoYxKiYsXF) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 3:00 | 2024-05-21 | 2025-09-16 |
 | [Nightshift](https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 4:56 | 2022-11-26 |  |
 | [Nightshift](https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nightshift](https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc) | 4:56 | 2022-10-16 | 2022-11-27 |
 | [No Surrender](https://open.spotify.com/track/2zMlWt4aYreVczVERFK94w) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:00 | 2023-05-08 | 2024-10-20 |

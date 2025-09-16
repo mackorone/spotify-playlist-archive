@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: Justin Bieber
 
-1,082 songs - 2 day 4 hr 38 min
+1,084 songs - 2 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Business \(feat\. Naza\)](https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Business \(feat\. Naza\)](https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF) | 2:50 | 2023-06-08 | 2023-06-23 |
 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 | 2025-02-13 | 2025-04-29 |
 | [Butta My Bread](https://open.spotify.com/track/3aJF7HsFOwuUAFOaRMQCxR) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Butta My Bread](https://open.spotify.com/album/3WlxlO16ydHEisWjriRpHk) | 2:28 | 2023-10-05 | 2023-11-14 |
+| [Buut Vrij](https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Buut Vrij](https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu) | 2:38 | 2025-09-15 |  |
 | [C'est La Vie](https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [C'est La Vie](https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0) | 2:40 | 2025-02-27 | 2025-03-07 |
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-02-27 | 2025-04-17 |
 | [Camera](https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl) | 3:35 | 2025-09-11 |  |
@@ -417,6 +418,7 @@
 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 | 2024-06-20 | 2024-08-30 |
 | [Heaven](https://open.spotify.com/track/7hFiSpPEyu7lFHxy4nJOmo) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory \(With Choir And Strings\)](https://open.spotify.com/album/5GuOPJC3u1bOduMaiYg534) | 3:52 | 2023-08-07 | 2023-10-07 |
 | [Heel De Nacht Alleen](https://open.spotify.com/track/0CVFLeX7D7K204cXJ6nxCH) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Heel De Nacht Alleen](https://open.spotify.com/album/2ZxrbBzloUG3mFQU5M0x0E) | 2:34 | 2024-11-07 | 2025-01-07 |
+| [Helaas](https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Helaas](https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx) | 2:42 | 2025-09-15 |  |
 | [Helen](https://open.spotify.com/track/0MsLcStKOzqMxpE5b7NO8K) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:22 | 2023-02-23 | 2023-03-21 |
 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 | 2024-11-21 | 2025-02-21 |
 | [Her Eyes](https://open.spotify.com/track/2140Txb63i5WGqFZX52gag) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/7L9r0s6fR9PNZg6KC6cSfx) | 3:35 | 2024-11-14 | 2025-02-07 |

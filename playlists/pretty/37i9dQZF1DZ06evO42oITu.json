@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 371185,
+  "num_followers": 371222,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAACYFD+LYjcgGPH3tEVMySCw",
+  "snapshot_id": "aMYFgAAAAAComSRgI5nFbEZaXnoOMXQx",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riding With The King",
-        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
         },
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 280453,
-      "name": "Ten Long Years",
-      "url": "https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA"
+      "duration_ms": 153480,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
     },
     {
       "added_at": null,
@@ -363,22 +363,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Your Love",
-        "url": "https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp"
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
       "artists": [
         {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 280453,
+      "name": "Ten Long Years",
+      "url": "https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 153480,
-      "name": "For Your Love",
-      "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
+      "duration_ms": 471546,
+      "name": "Old Love - Acoustic Live",
+      "url": "https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3"
     },
     {
       "added_at": null,
@@ -399,22 +415,6 @@
       "duration_ms": 397200,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/1bursm5ZnNHQS55a23h7kR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 471546,
-      "name": "Old Love - Acoustic Live",
-      "url": "https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3"
     },
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Road to Escondido",
-        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
-        }
-      ],
-      "duration_ms": 249440,
-      "name": "Heads in Georgia",
-      "url": "https://open.spotify.com/track/4PC1KhzSfxchqRjBlAN7We"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Journeyman",
         "url": "https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B"
       },
@@ -511,22 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patient Number 9",
-        "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        },
-        {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
         }
       ],
-      "duration_ms": 280206,
-      "name": "One of Those Days (feat. Eric Clapton)",
-      "url": "https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5"
+      "duration_ms": 249440,
+      "name": "Heads in Georgia",
+      "url": "https://open.spotify.com/track/4PC1KhzSfxchqRjBlAN7We"
     },
     {
       "added_at": null,
@@ -563,22 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riding With The King",
-        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+        "name": "Patient Number 9",
+        "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         },
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 219960,
-      "name": "Key to the Highway",
-      "url": "https://open.spotify.com/track/1a0CDu5jpwW2arT34HbwUP"
+      "duration_ms": 280206,
+      "name": "One of Those Days (feat. Eric Clapton)",
+      "url": "https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5"
     },
     {
       "added_at": null,
@@ -615,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "Key to the Highway",
+      "url": "https://open.spotify.com/track/1a0CDu5jpwW2arT34HbwUP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eric Clapton",
         "url": "https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 301266,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Money and Cigarettes (2007 Remaster)",
-        "url": "https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "I've Got a Rock 'n' Roll Heart",
-      "url": "https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 332773,
       "name": "Danger",
       "url": "https://open.spotify.com/track/1tvT5VBrLMxMM2LvzBRA91"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Money and Cigarettes (2007 Remaster)",
+        "url": "https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "I've Got a Rock 'n' Roll Heart",
+      "url": "https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG"
     },
     {
       "added_at": null,

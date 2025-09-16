@@ -4,7 +4,7 @@
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-128 songs - 12 hr 23 min
+129 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Gloria en Lo Alto](https://open.spotify.com/track/7x6tBBMlzv6OkHfYTYu3FO) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta al Jardin](https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ) | 5:00 | 2024-05-17 |  |
 | [Hasta poder ver](https://open.spotify.com/track/3MH2bwGyeqHBAefP8UDj6x) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta poder ver](https://open.spotify.com/album/5g5Vcw8n4yjZHNhFIruR9J) | 5:09 | 2022-09-14 | 2024-05-14 |
 | [Hasta Poder Ver](https://open.spotify.com/track/5PPcHsB4euq3Eg90F4Dngs) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/7wc3QJ8twMqY8mlDb0MupP) | 5:09 | 2024-05-14 |  |
-| [Hermoso](https://open.spotify.com/track/3B1OuiH9xGmZAcbPLphSJb) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:30 | 2024-08-31 |  |
+| [Hermoso](https://open.spotify.com/track/3B1OuiH9xGmZAcbPLphSJb) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:30 | 2024-08-31 | 2025-09-16 |
 | [Incomparable Dios](https://open.spotify.com/track/5RtBlXN184A8ipdyDzpLU4) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 5:48 | 2022-09-14 |  |
 | [Incontrolable Amor](https://open.spotify.com/track/3RmjJnvvUxSFor3G5x5yca) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 5:39 | 2022-09-14 | 2024-05-07 |
 | [Incontrolable Amor](https://open.spotify.com/track/6gC1f3S8JdxFHcOTlz1sLC) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Emanuel](https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef) | 5:39 | 2024-05-07 |  |
@@ -87,6 +87,7 @@
 | [No Hay Lugar Mas Alto \(feat\. Christine D Clario\)](https://open.spotify.com/track/2gssWCnDOyxRxNfIw1eYLH) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Tu Habitación](https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd) | 5:57 | 2024-10-16 | 2024-10-17 |
 | [No Hay Lugar Más Alto \(En Vivo\) \[feat\. Christine D'clario\]](https://open.spotify.com/track/0yzKJqFTXsbzWjUHaiOxD9) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 8:08 | 2022-09-14 |  |
 | [No Me Fallarás \(Aún Así\)](https://open.spotify.com/track/09t4NyhBbbt8sFixr8RqVW) | [Fellowship Creative](https://open.spotify.com/artist/1HFukfooHlG0Z5nvBCpLNL), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [No Me Fallarás \(Aún Así\)](https://open.spotify.com/album/2TgO0hQbveZ4r4hMAhbwBH) | 5:43 | 2022-10-12 | 2023-08-03 |
+| [No One Like The Lord/Nadie Como El Señor \- Live](https://open.spotify.com/track/4fzC4XMxdP5prBebf3mjSR) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [No One Like The Lord/Nadie Como El Señor \(Live\)](https://open.spotify.com/album/6YdYTtyFK5MlfzPv849u5Z) | 7:48 | 2025-09-16 |  |
 | [Padre Nuestro](https://open.spotify.com/track/39UXGTZChGwZvM9Z3Df4dU) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo Tu...Lo Unico Que Quiero](https://open.spotify.com/album/1bohZwfenuWFIuFrUETFuq) | 4:55 | 2022-09-14 | 2023-08-31 |
 | [Para Mí Es Solo Cristo](https://open.spotify.com/track/6yjtH5IX8ytbJ7arBWxwlm) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 7:47 | 2024-09-09 |  |
 | [Por Amor](https://open.spotify.com/track/4y4yAraDdzVc1Wdk37xlsR) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 5:37 | 2022-09-16 | 2024-04-29 |

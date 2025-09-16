@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nHAECHAN(\ud574\ucc2c))",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nYUNGIN, GRAY, DeVita)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -13060,7 +13060,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 170800,
       "name": "Scaredy Cat",
       "url": "https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B"
@@ -13594,6 +13594,32 @@
       "duration_ms": 178500,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/45vAXcFwBye4C8ct9vwWqJ"
+    },
+    {
+      "album": {
+        "name": "SLIDIN\u2019",
+        "url": "https://open.spotify.com/album/1M9noTaRDmFsm9juq86FDA"
+      },
+      "artists": [
+        {
+          "name": "YUNGIN",
+          "url": "https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231272,
+      "name": "SLIDIN\u2019",
+      "url": "https://open.spotify.com/track/0k9YOhsIcZGaXzwEVAL0EM"
     },
     {
       "album": {

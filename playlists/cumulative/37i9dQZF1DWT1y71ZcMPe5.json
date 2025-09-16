@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "The hottest songs you need to listen to right now. Cover: Justin Bieber",
+  "description": "The hottest songs you need to listen to right now. Cover: Ed Sheeran",
   "name": "It's a Hit!",
   "tracks": [
     {
@@ -2243,6 +2243,24 @@
     },
     {
       "album": {
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/3b6EgeeuKDdfwG8xC5cFHC"
+      },
+      "artists": [
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156373,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/16MTQq5iwPVy76gbgcAS6i"
+    },
+    {
+      "album": {
         "name": "Broken Melodies",
         "url": "https://open.spotify.com/album/54rCRVcg8v1yA9MFCYol8W"
       },
@@ -2393,6 +2411,24 @@
     },
     {
       "album": {
+        "name": "Bye, Summer",
+        "url": "https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Bye, Summer",
+      "url": "https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I"
+    },
+    {
+      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/08Dvx4JDDAICQr0Vzeu0ve"
       },
@@ -2452,6 +2488,24 @@
       "duration_ms": 189453,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/3zytAI32kYi10jOpO3Knuz"
+    },
+    {
+      "album": {
+        "name": "Play (Extended Edition)",
+        "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215511,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
     },
     {
       "album": {
@@ -2592,7 +2646,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 164026,
       "name": "CEREMONY",
       "url": "https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF"
@@ -3136,6 +3190,28 @@
       "duration_ms": 186359,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
+    },
+    {
+      "album": {
+        "name": "Cry about it! (feat. Ravyn Lenae)",
+        "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171507,
+      "name": "Cry about it! (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
     },
     {
       "album": {
@@ -6321,6 +6397,24 @@
     },
     {
       "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/23UkQx8aKE4IERCFuxpYL0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242969,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0em3aeTRdv6AEBdUKkNW8j"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
       },
@@ -6408,7 +6502,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 138857,
       "name": "Helium",
       "url": "https://open.spotify.com/track/6boSF01JluHcotXBvUcnEz"
@@ -6452,6 +6546,24 @@
       "duration_ms": 311269,
       "name": "Henry, come on",
       "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
+    },
+    {
+      "album": {
+        "name": "Here All Night",
+        "url": "https://open.spotify.com/album/0caOziV0fbBR8OuU9SDiSS"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176832,
+      "name": "Here All Night",
+      "url": "https://open.spotify.com/track/1MnYnayoEmTfZTM7GoPJGM"
     },
     {
       "album": {
@@ -7236,7 +7348,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 203773,
       "name": "i don\u2019t know you",
       "url": "https://open.spotify.com/track/2IAmKxh24ZiPTDI4kL8yrl"
@@ -7816,7 +7928,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 145128,
       "name": "in plain sight",
       "url": "https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV"
@@ -9532,7 +9644,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 174911,
       "name": "Love Is Like (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ"
@@ -13256,7 +13368,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 170181,
       "name": "seasons",
       "url": "https://open.spotify.com/track/6VBM8Yzy0MWs2x3dH6rxsv"
@@ -13690,6 +13802,24 @@
       "duration_ms": 228376,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X"
+    },
+    {
+      "album": {
+        "name": "Slicked Back Hair",
+        "url": "https://open.spotify.com/album/7gxQnRYlUl5UkH1KMuxZRJ"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162773,
+      "name": "Slicked Back Hair",
+      "url": "https://open.spotify.com/track/0ZhStYZNAZZk52Udk4sREx"
     },
     {
       "album": {
@@ -16616,7 +16746,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 245664,
       "name": "Vodka Cranberry",
       "url": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl"

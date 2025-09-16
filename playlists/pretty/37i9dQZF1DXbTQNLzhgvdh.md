@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 
 > bolsa birkin me pegué un tiro pa comprarla, tu vales eso y más ❤️‍🔥💐✨💸
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,896 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,940 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

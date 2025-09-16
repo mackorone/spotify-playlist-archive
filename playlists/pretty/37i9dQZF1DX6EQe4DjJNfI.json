@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Melly",
-  "num_followers": 182209,
+  "num_followers": 182293,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
+        "name": "Sonhei com Voc\u00ea",
+        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 261144,
+      "name": "Sonhei com Voc\u00ea",
+      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
+    },
+    {
+      "added_at": "2025-08-25 19:42:35",
+      "album": {
         "name": "Te Amar",
         "url": "https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26"
       },
@@ -575,42 +591,6 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
-        "name": "Sonhei com Voc\u00ea",
-        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 261144,
-      "name": "Sonhei com Voc\u00ea",
-      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
-    },
-    {
-      "added_at": "2025-08-25 19:42:35",
-      "album": {
-        "name": "Amar D\u00f3i",
-        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
-      },
-      "artists": [
-        {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        }
-      ],
-      "duration_ms": 168063,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
-    },
-    {
-      "added_at": "2025-08-25 19:42:35",
-      "album": {
         "name": "Cansei De Chorar Seu Nome",
         "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 224938,
       "name": "Cansei De Chorar Seu Nome",
       "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
+    },
+    {
+      "added_at": "2025-08-25 19:42:35",
+      "album": {
+        "name": "Amar D\u00f3i",
+        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        }
+      ],
+      "duration_ms": 168063,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
     },
     {
       "added_at": "2025-08-25 19:42:35",
@@ -759,22 +759,26 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
-        "name": "N\u00e3o Vou Negar",
-        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
+        "name": "Liga\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
       },
       "artists": [
         {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+          "name": "Meraki",
+          "url": "https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs"
         },
         {
-          "name": "papi",
-          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
+          "name": "BlakkLan\u00e7a",
+          "url": "https://open.spotify.com/artist/1NgGByizxiFLxa0jtHiXQo"
+        },
+        {
+          "name": "BlakkStar",
+          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
         }
       ],
-      "duration_ms": 163937,
-      "name": "N\u00e3o Vou Negar",
-      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
+      "duration_ms": 209389,
+      "name": "Liga\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
     },
     {
       "added_at": "2025-08-25 19:42:35",
@@ -799,26 +803,22 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
-        "name": "Liga\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
+        "name": "N\u00e3o Vou Negar",
+        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
       },
       "artists": [
         {
-          "name": "Meraki",
-          "url": "https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs"
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
         },
         {
-          "name": "BlakkLan\u00e7a",
-          "url": "https://open.spotify.com/artist/1NgGByizxiFLxa0jtHiXQo"
-        },
-        {
-          "name": "BlakkStar",
-          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
+          "name": "papi",
+          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
         }
       ],
-      "duration_ms": 209389,
-      "name": "Liga\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
+      "duration_ms": 163937,
+      "name": "N\u00e3o Vou Negar",
+      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
     },
     {
       "added_at": "2025-08-25 19:42:35",

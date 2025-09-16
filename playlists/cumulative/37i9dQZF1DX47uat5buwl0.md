@@ -4,7 +4,7 @@
 
 > 🔥🎉
 
-96 songs - 4 hr 10 min
+97 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 | 2025-07-17 |  |
 | [Dile](https://open.spotify.com/track/540cGIHNKg91y24aWqmPkW) | [Jody Bernal](https://open.spotify.com/artist/7oKJmnPaABXLPkw3gT7rIa), [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd) | [Dile](https://open.spotify.com/album/5hljDLYEPTDkgtK0e9MzGV) | 2:37 | 2025-07-17 |  |
 | [Diva](https://open.spotify.com/track/1rYH9P9TTlTXybJCtLGHJz) | [JIM & JAAF](https://open.spotify.com/artist/45jRKxB5cVjHKJrxAN3tQE) | [Diva](https://open.spotify.com/album/7jmbYMTS57ymh42Y8jWNPs) | 2:36 | 2025-07-17 | 2025-08-05 |
+| [Donkerblauwe Deuntjes](https://open.spotify.com/track/6dXVnLOCoKZHjDhYm5Ayrx) | [Lustrum Triton](https://open.spotify.com/artist/4YJ3fLFKp9nTmz2rCt9Fq9), [MOMENTUM](https://open.spotify.com/artist/4hXjXth6uVMW3wugrbmFlM), [Laurence Koch](https://open.spotify.com/artist/07DcKIZlMlQhecgr0VG8Q8), [Marit van der Ploeg](https://open.spotify.com/artist/6mbOnW3YCIgiMB7U5p7I73) | [Donkerblauwe Deuntjes](https://open.spotify.com/album/73eYiVbNZ51AyTSHnoKYqD) | 2:21 | 2025-09-15 |  |
 | [Dopamine](https://open.spotify.com/track/7LtXEqKBYfgRgUaxuPlZRq) | [Freddy Moreira](https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Trafassi](https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O) | [Dopamine](https://open.spotify.com/album/7FDxW4VGBaB2csF8gzEItE) | 2:44 | 2025-07-17 |  |
 | [Eatin' Good](https://open.spotify.com/track/1NIxmZsepizxk5Nv7oxVhP) | [Woodcamp](https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3) | [Eatin' Good](https://open.spotify.com/album/2IsPyuqc8MBTSygIdYibZE) | 3:41 | 2025-07-17 |  |
 | [Echo van de Nacht](https://open.spotify.com/track/6PQNVtaWphnTqYmWY9TbWU) | [TIJE](https://open.spotify.com/artist/55gYZdYxonabF6ptsbSm7C), [Amelie](https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu), [KlikKlak](https://open.spotify.com/artist/000TJhsWOqbyNbTqCU26cW) | [Echo van de Nacht](https://open.spotify.com/album/6ri5kmnWT8i5WzbxZpdUus) | 2:22 | 2025-07-17 |  |
@@ -52,7 +53,7 @@
 | [Hotel](https://open.spotify.com/track/3pN1lUACckD0PTkFzpxEpu) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Hotel](https://open.spotify.com/album/1itgz2wQPxbMnMhdsdWVnj) | 2:49 | 2025-07-17 | 2025-08-26 |
 | [I Surrender \(feat\. Lange Frans\) \- Remix](https://open.spotify.com/track/5v9RI8UmSTgDSsZ8cKENc5) | [Joshua Robbie](https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [I Surrender \(feat\. Lange Frans\) \[Remix\]](https://open.spotify.com/album/4twXHt2RLp0hMHTmwNQ8JD) | 3:33 | 2025-07-17 |  |
 | [Iconisch](https://open.spotify.com/track/3cRns9obH2lGJ4fpInVxut) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Iconisch](https://open.spotify.com/album/1gfcL8Tie2oJUhC0Y0ELCW) | 2:21 | 2025-07-17 |  |
-| [Ik Haat Hem Voor Jou](https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Haat Hem Voor Jou](https://open.spotify.com/album/3lkn7csEi16CayvYDrRRDz) | 2:34 | 2025-07-17 |  |
+| [Ik Haat Hem Voor Jou](https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Haat Hem Voor Jou](https://open.spotify.com/album/3lkn7csEi16CayvYDrRRDz) | 2:34 | 2025-07-17 | 2025-09-16 |
 | [Kaolo Beat](https://open.spotify.com/track/2dr8yrTUpZw0EzS05mOlGU) | [Freddy Moreira](https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Kaolo Beat](https://open.spotify.com/album/3i7Efs4zQJi66ihoNhQHGX) | 1:46 | 2025-08-28 |  |
 | [Kaolo Beat \- Ruthless & The Darkraver Remix](https://open.spotify.com/track/0UdqFFxBcDih7f75sLnj5n) | [Freddy Moreira](https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Ruthless](https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Kaolo Beat \(Ruthless & The Darkraver Remix\)](https://open.spotify.com/album/6kmMj4iWhG6CiGY5QKDJtK) | 1:39 | 2025-07-17 | 2025-08-29 |
 | [Keeping Your Head Up](https://open.spotify.com/track/6xwNMLT4ekMXv4lXZFI63Q) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [Keeping Your Head Up](https://open.spotify.com/album/3DzsmSqBlAaZgIfstzQXA0) | 2:57 | 2025-07-17 |  |

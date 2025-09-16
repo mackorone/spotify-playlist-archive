@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,984,504 likes - 80 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,984,747 likes - 80 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 56 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
 | 57 | [Der Kommissar \- 7" Version](https://open.spotify.com/track/2wjCYgpCMywSDkds2c8Rq6) | [After The Fire](https://open.spotify.com/artist/194g4SFwSSzyPtgkH7v3Cx) | [Der Kommissar](https://open.spotify.com/album/5NwOlJYtCc5iK8WKba5rHu) | 4:08 |
 | 58 | [Crash](https://open.spotify.com/track/7COcoiWy4fuz0nH2v8BkRD) | [The Primitives](https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA) | [Best Of](https://open.spotify.com/album/17BSRPsfwXoQwwGoRVHPBw) | 2:32 |
-| 59 | [All Cried Out](https://open.spotify.com/track/74BiRtgDe2YPETdTCcsXoG) | [Alison Moyet](https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4) | [Singles](https://open.spotify.com/album/42EwWcKbmvteTymCFdUpt5) | 3:41 |
-| 60 | [When Love Breaks Down \- 2007 Remastered Version](https://open.spotify.com/track/7bRcgBFPDgWhVuopP5x6MW) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf), [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [Steve McQueen](https://open.spotify.com/album/07CZepJZT17AllXPFRvogL) | 4:05 |
+| 59 | [When Love Breaks Down \- 2007 Remastered Version](https://open.spotify.com/track/7bRcgBFPDgWhVuopP5x6MW) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf), [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [Steve McQueen](https://open.spotify.com/album/07CZepJZT17AllXPFRvogL) | 4:05 |
+| 60 | [All Cried Out](https://open.spotify.com/track/74BiRtgDe2YPETdTCcsXoG) | [Alison Moyet](https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4) | [Singles](https://open.spotify.com/album/42EwWcKbmvteTymCFdUpt5) | 3:41 |
 | 61 | [Don't Go \- 2008 Remaster](https://open.spotify.com/track/2pNrFj3AYoCU1uQTvJmtw3) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Essential: Eighties](https://open.spotify.com/album/0YPugIAB3jrt4uPAm0FKMl) | 2:56 |
 | 62 | [Uncertain Smile](https://open.spotify.com/track/31alFPGPYXPTGLQfmkp8fh) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Soul Mining](https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A) | 6:51 |
 | 63 | [Love Plus One](https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd) | [Haircut 100](https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7) | [Pelican West Plus](https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND) | 3:32 |

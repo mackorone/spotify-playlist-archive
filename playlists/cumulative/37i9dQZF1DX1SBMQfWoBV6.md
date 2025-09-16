@@ -4,7 +4,7 @@
 
 > Light electronic movements for study, focus and flow.
 
-121 songs - 8 hr 21 min
+122 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Where Water Meets the Rocks](https://open.spotify.com/track/0rMs9p8b6HElUjBACisyI5) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [Where Water Meets the Rocks](https://open.spotify.com/album/4RITLFjrrqRuNOkqPkI1zV) | 3:43 | 2025-01-10 |  |
 | [White Fragment](https://open.spotify.com/track/2wnKNjSi5RMSIUgNMV46W7) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Royal Blue](https://open.spotify.com/album/6pmKXb63Osnj2DnCy0lb2z) | 4:11 | 2023-01-31 | 2023-11-25 |
 | [Willing Suspension of Disbelief](https://open.spotify.com/track/07JOkxdkKHffHm1YLbUhFg) | [Selffish](https://open.spotify.com/artist/0YIcdQQ4Mmhl4l40ubHABn) | [He She Them Us](https://open.spotify.com/album/4oyS54Dgj9V4RfwaWQO5t5) | 8:07 | 2023-01-31 |  |
+| [Your Call is Important](https://open.spotify.com/track/3DJ0BDBbinvRqXS8LPfJhH) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Your Call is Important](https://open.spotify.com/album/44LJYmdiRfhqNGSUI20jpL) | 5:27 | 2025-09-15 |  |
 | [日本の空気 \- Air of Japan](https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [音は光る \(The Sound Is Shining\)](https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T) | 3:58 | 2023-01-31 |  |
 
 \*This playlist was first scraped on 2023-02-08. Prior content cannot be recovered.

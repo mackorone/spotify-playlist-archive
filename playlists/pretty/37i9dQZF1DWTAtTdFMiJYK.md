@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Arijit Anand
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,992 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,993 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 19 | [Kya Kahein](https://open.spotify.com/track/1v6g0O3B9MmLPW8jNKPSQg) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Kya Kahein](https://open.spotify.com/album/1uMj48Dc1VRH70MzQWqZIk) | 3:07 |
 | 20 | [TERA PATA](https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [TERA PATA](https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z) | 2:46 |
 | 21 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 |
-| 22 | [Baawra](https://open.spotify.com/track/2Repz4eP8qEqOVz8CltLZ0) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw) | [Baawra](https://open.spotify.com/album/58CpJdSRp7B0Hg96V45ch1) | 4:28 |
+| 22 | [Baawra](https://open.spotify.com/track/2Repz4eP8qEqOVz8CltLZ0) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Akash Rajput](https://open.spotify.com/artist/3PedLNTFVPKy2wUQbiq0gk) | [Baawra](https://open.spotify.com/album/58CpJdSRp7B0Hg96V45ch1) | 4:28 |
 | 23 | [Ehsaas](https://open.spotify.com/track/5PetOhEX9N0oyBB0Keqobv) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Duha Shah](https://open.spotify.com/artist/3l1qBa4ZTuNfYOap9WGbDQ), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB), [Hyder Dar](https://open.spotify.com/artist/7Khu2sHjq6VFAfiRLql5tt) | [Ehsaas](https://open.spotify.com/album/12ShvJkszHFeRxDuZz2OYk) | 3:53 |
 | 24 | [Shaam Se](https://open.spotify.com/track/74nIqX0QoICGwolrFuWKrv) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR) | [Shaam Se](https://open.spotify.com/album/1cCw1JPunWjj8wsOrkGB7G) | 2:50 |
 | 25 | [Nadi](https://open.spotify.com/track/2sIRICa5N0L4UUvf2RHlmQ) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Nadi](https://open.spotify.com/album/1jPFzDb2ednXUtyZEUla0H) | 3:26 |

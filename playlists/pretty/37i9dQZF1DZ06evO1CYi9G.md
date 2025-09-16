@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CYi9G.md) - [plain]
 
 > This is Mudvayne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,416 likes - 42 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,425 likes - 42 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,26 +18,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CYi9G.md) - [plain]
 | 8 | [Do What You Do](https://open.spotify.com/track/4Icu8prpEka7ufeeyVlj7a) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 3:36 |
 | 9 | [Fall Into Sleep](https://open.spotify.com/track/0UvuqCD6ktYwIW97Pn4p2o) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:51 |
 | 10 | [World So Cold](https://open.spotify.com/track/0I5Fgl7pT26M1qSIixlzR2) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 5:36 |
-| 11 | [Nothing To Gein](https://open.spotify.com/track/099F8DBwudywg5KK6WVFox) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 5:28 |
+| 11 | [Sticks and Stones](https://open.spotify.com/track/7vEtEZXHMAk8oZksZ6xftE) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Sticks And Stones](https://open.spotify.com/album/2dHPDll7CHkR15u1shRGBU) | 3:53 |
 | 12 | [Scarlet Letters](https://open.spotify.com/track/04EJruMxHBrSoOfZg0p5o9) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 3:55 |
 | 13 | [Determined](https://open.spotify.com/track/0GBiT1wHV68bU0Cv8ZU2HZ) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 2:39 |
-| 14 | [King Of Pain](https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 4:36 |
-| 15 | [Internal Primates Forever](https://open.spotify.com/track/1mhwzvD3iVSR1SUOemLAHc) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 4:25 |
-| 16 | [Sticks and Stones](https://open.spotify.com/track/7vEtEZXHMAk8oZksZ6xftE) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Sticks And Stones](https://open.spotify.com/album/2dHPDll7CHkR15u1shRGBU) | 3:53 |
-| 17 | [Silenced](https://open.spotify.com/track/7zBp5vs6V2bXiNt5FulPf5) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 3:01 |
-| 18 | [Dull Boy](https://open.spotify.com/track/0rIPU2d3P2AbRDLj5spMMj) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 4:13 |
-| 19 | [\-1](https://open.spotify.com/track/2v4OZx6CBj631eoyayjYn1) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 3:58 |
-| 20 | [All Talk](https://open.spotify.com/track/2N0yIGs5DbmqAFRfVzgWGF) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Mudvayne](https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS) | 2:52 |
-| 21 | [Mercy, Severity](https://open.spotify.com/track/1qVgFDjk2NLBAApNvHfJ9i) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 4:54 |
-| 22 | [A Cinderella Story](https://open.spotify.com/track/3k8IsJILZMzwPCgiRALs3Q) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 4:39 |
-| 23 | [Under My Skin](https://open.spotify.com/track/6jryVg8V79kUVqFNUP9njw) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 3:47 |
-| 24 | [Pushing Through](https://open.spotify.com/track/4hvq2Q3Ykt1pEsk13E25Se) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:28 |
-| 25 | [\(Per\)Version of a Truth](https://open.spotify.com/track/5brLoRraVT4Z9ZqqjRwhbL) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 4:41 |
-| 26 | [Have It Your Way](https://open.spotify.com/track/1Vsjo3i3pnWhN9DU3TlEDp) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 3:45 |
+| 14 | [Nothing To Gein](https://open.spotify.com/track/099F8DBwudywg5KK6WVFox) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 5:28 |
+| 15 | [King Of Pain](https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 4:36 |
+| 16 | [Silenced](https://open.spotify.com/track/7zBp5vs6V2bXiNt5FulPf5) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 3:01 |
+| 17 | [Dull Boy](https://open.spotify.com/track/0rIPU2d3P2AbRDLj5spMMj) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 4:13 |
+| 18 | [Internal Primates Forever](https://open.spotify.com/track/1mhwzvD3iVSR1SUOemLAHc) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 4:25 |
+| 19 | [All Talk](https://open.spotify.com/track/2N0yIGs5DbmqAFRfVzgWGF) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Mudvayne](https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS) | 2:52 |
+| 20 | [Mercy, Severity](https://open.spotify.com/track/1qVgFDjk2NLBAApNvHfJ9i) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 4:54 |
+| 21 | [A Cinderella Story](https://open.spotify.com/track/3k8IsJILZMzwPCgiRALs3Q) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 4:39 |
+| 22 | [\-1](https://open.spotify.com/track/2v4OZx6CBj631eoyayjYn1) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 3:58 |
+| 23 | [Pushing Through](https://open.spotify.com/track/4hvq2Q3Ykt1pEsk13E25Se) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:28 |
+| 24 | [\(Per\)Version of a Truth](https://open.spotify.com/track/5brLoRraVT4Z9ZqqjRwhbL) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 4:41 |
+| 25 | [Have It Your Way](https://open.spotify.com/track/1Vsjo3i3pnWhN9DU3TlEDp) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 3:45 |
+| 26 | [Under My Skin](https://open.spotify.com/track/6jryVg8V79kUVqFNUP9njw) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 3:47 |
 | 27 | [Closer](https://open.spotify.com/track/1Hp7LP0VU8FN5fMjlvgbyf) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Mudvayne](https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS) | 3:21 |
-| 28 | [IMN](https://open.spotify.com/track/5g924DBWMk3Crw134IO0Sj) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 5:51 |
-| 29 | [Trapped In the Wake of a Dream](https://open.spotify.com/track/0vO8Q8lAmmoQU8lx0ugE39) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 4:41 |
-| 30 | [Fish Out Of Water](https://open.spotify.com/track/05l9Tn84hsMBO95rBnyMj7) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 3:30 |
+| 28 | [Trapped In the Wake of a Dream](https://open.spotify.com/track/0vO8Q8lAmmoQU8lx0ugE39) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 4:41 |
+| 29 | [Fish Out Of Water](https://open.spotify.com/track/05l9Tn84hsMBO95rBnyMj7) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 3:30 |
+| 30 | [IMN](https://open.spotify.com/track/5g924DBWMk3Crw134IO0Sj) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 5:51 |
 | 31 | [Beautiful And Strange](https://open.spotify.com/track/2fsL0tTdpSQnktNRUwRTiK) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Mudvayne](https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS) | 5:03 |
 | 32 | [Cultivate](https://open.spotify.com/track/2UZ9GX5u2B8zGJkbhTGe7d) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 4:17 |
 | 33 | [On The Move \- Demo](https://open.spotify.com/track/1IdIsjIw9rCpuLB7vkb7rX) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 3:55 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CYi9G.md) - [plain]
 | 41 | [Central Disposal](https://open.spotify.com/track/2NUeBUhxW4dmreJbHce5Ws) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 3:16 |
 | 42 | [Poop Loser](https://open.spotify.com/track/0HHbwcOTYogbpzi38WrM5K) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 1:22 |
 
-Snapshot ID: `aMIRAAAAAABAdEdMm6YOMFTDJnsYwZAL`
+Snapshot ID: `aMYFgAAAAADk3LbYr3hLdw68oYnn/kox`

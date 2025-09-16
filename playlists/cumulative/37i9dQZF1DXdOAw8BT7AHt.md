@@ -4,7 +4,7 @@
 
 > The best in every corner of modern punk rock\. Cover: Maruja
 
-547 songs - 1 day 3 hr 27 min
+548 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [little pieces](https://open.spotify.com/track/6edMmG3Ru1pfHSheSYVuha) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [the loneliest place i've ever been](https://open.spotify.com/album/48BSCKNHfBxveLMd2KtSSO) | 4:02 | 2025-09-04 |  |
 | [Lonely Island](https://open.spotify.com/track/0l0hy8NAZPk5qCzS2UTgu6) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Disposable Life](https://open.spotify.com/album/5gqYeI142C7UdF0eD8ZRLi) | 3:17 | 2022-12-02 | 2023-01-19 |
 | [Long Line](https://open.spotify.com/track/2hj5Qm88WoLdKPut2KGoRD) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Long Line](https://open.spotify.com/album/2rG5spc0tbdMY3pwVB7vkd) | 3:32 | 2025-07-04 | 2025-07-29 |
-| [Look Down On Us](https://open.spotify.com/track/7yIyR2o9DGWKhVrTe37FLs) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Look Down On Us](https://open.spotify.com/album/3CxAKlsE2UUbX1O80xwAqY) | 9:58 | 2025-05-08 |  |
+| [Look Down On Us](https://open.spotify.com/track/7yIyR2o9DGWKhVrTe37FLs) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Look Down On Us](https://open.spotify.com/album/3CxAKlsE2UUbX1O80xwAqY) | 9:58 | 2025-05-08 | 2025-09-16 |
 | [LOOK OUT FOR ME](https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 6:43 | 2025-07-31 |  |
 | [Lose Your Way & Find Yourself](https://open.spotify.com/track/1YQ8XXekRidvp3AqQ8ihmM) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Lose Your Way & Find Yourself](https://open.spotify.com/album/2uK8FWZRtauDSnYvWWmD3A) | 3:13 | 2025-09-11 |  |
 | [LOSER](https://open.spotify.com/track/6HOsksISHjFGsjk0vzK0S6) | [LOWLIVES](https://open.spotify.com/artist/7Hg9yStqSEaKmwPxFlWeE2) | [LOSER](https://open.spotify.com/album/6stziyO40ovFZGQN71pB67) | 3:22 | 2024-05-31 | 2024-10-11 |
@@ -330,6 +330,7 @@
 | [me vs me vs all of y'all](https://open.spotify.com/track/0t7VlVRdaVBqH1p1UIPcrV) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [me vs me vs all of y'all](https://open.spotify.com/album/5wJmMACyVn4r4Eb3AXqM1u) | 2:59 | 2023-01-20 | 2023-04-15 |
 | [Menace](https://open.spotify.com/track/5wkska9Au4AdhnZjEf3nOR) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Menace/Burn Forever](https://open.spotify.com/album/5gBse4SykL0eYCMdqTDCGt) | 3:25 | 2024-05-31 | 2024-06-15 |
 | [Mental Mentality](https://open.spotify.com/track/0xyRfPRx5mQ0O3HqVHSUsF) | [Pig Pen](https://open.spotify.com/artist/5gz02MKm1uxQLcjE5Cs9Hr) | [Mental Mentality](https://open.spotify.com/album/5qzTshf9d9Jk0odSQMN1or) | 2:27 | 2025-05-08 |  |
+| [Mike Nolan’s Long Weekend ft\. Dom Fox](https://open.spotify.com/track/2lTwwQcnBQlh0d4Ipshbkl) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc), [Bad Luck.](https://open.spotify.com/artist/4Hjb6XIYNt5Qkokl30luY9) | [Mike Nolan’s Long Weekend ft\. Dom Fox](https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ) | 3:34 | 2025-09-11 |  |
 | [Mirage](https://open.spotify.com/track/486JaB4ZK017faPW9kNpje) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Mirage](https://open.spotify.com/album/42D3FszT9XdwpK9zICUBsa) | 2:52 | 2024-07-05 | 2025-07-20 |
 | [Mirror Muscles](https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Mirror Muscles](https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG) | 2:43 | 2024-03-15 | 2025-09-05 |
 | [Miss Me With That](https://open.spotify.com/track/0wN85vFtomNzPmcEkM9aB0) | [Deez Nuts](https://open.spotify.com/artist/2w0Dmj9GV9ZrokNRcnRwav) | [Miss Me With That](https://open.spotify.com/album/7k4oB7zleQaaHPH30UohlZ) | 3:09 | 2025-07-19 | 2025-08-01 |

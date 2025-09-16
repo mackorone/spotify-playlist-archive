@@ -2,9 +2,9 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: Beton.Hofi
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: Dzsúdló
 
-139 songs - 6 hr 54 min
+140 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [PROSECCO](https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:10 | 2024-08-27 |  |
 | [Rajosan 3](https://open.spotify.com/track/4HCxfqE1kajYIor6uYHrVP) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Essemm](https://open.spotify.com/artist/3Ys4jFPuyeMWAdBpZWWkhu), [Beat](https://open.spotify.com/artist/2JDv04js6dtvkylyVbDLAD) | [III](https://open.spotify.com/album/0dijkBrCY5rDMXy5JrJij8) | 2:56 | 2025-05-05 |  |
 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-03-17 | 2025-04-01 |
+| [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b) | 2:54 | 2025-09-15 |  |
 | [ROCKSTAR](https://open.spotify.com/track/6W7AQZlX9nvw0r74LSxcop) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [ROCKSTAR](https://open.spotify.com/album/30ibOhh9gc3XJ6I0KHbcYb) | 3:30 | 2025-03-24 |  |
 | [RÓLAD SZÓL](https://open.spotify.com/track/5doAzQzWfbAWMvh2eXxvdf) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [RÓLAD SZÓL](https://open.spotify.com/album/6cadt4eRkdA10HpjTJbcG3) | 2:39 | 2024-07-01 | 2024-08-28 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-10-07 | 2025-05-09 |
@@ -146,6 +147,6 @@
 | [Your Idol](https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:11 | 2025-08-11 |  |
 | [ZHA MAJ DUR](https://open.spotify.com/track/1pveRbNO9ChgyuY37trkLw) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Farkas Pisti](https://open.spotify.com/artist/3S80BK8zfo0nGXKOgG4vo3) | [ZHA MAJ DUR](https://open.spotify.com/album/0QWmGuYzWAkZuvZPzZ8bV3) | 3:39 | 2025-02-17 |  |
 | [Ördög Nórika](https://open.spotify.com/track/0NECD9bmlKlhxuZHQ5sq7J) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [Ördög Nórika](https://open.spotify.com/album/1JaFdpKwzHa9KdPdqQ98Yw) | 2:03 | 2024-07-01 | 2024-12-17 |
-| [Úgy Hiszem](https://open.spotify.com/track/2zIijzos3rNY6DkvX2ZYDX) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 3:19 | 2024-07-01 |  |
+| [Úgy Hiszem](https://open.spotify.com/track/2zIijzos3rNY6DkvX2ZYDX) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 3:19 | 2024-07-01 | 2025-09-16 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

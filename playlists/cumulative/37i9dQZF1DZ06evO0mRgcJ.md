@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-91 songs - 4 hr 55 min
+92 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Hay Les Voy De Nuevo](https://open.spotify.com/track/72oyJ4ZmOWPuqyXw2d6I6m) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Juniors de California](https://open.spotify.com/artist/3Eqt4YgWB1MBq9E692lhk1) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:14 | 2024-01-29 |  |
 | [HUMILDE Y RANCHERO](https://open.spotify.com/track/1AfJbVYMxJpwy8VKmtViS5) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 4:09 | 2024-04-27 | 2024-08-22 |
 | [Humilde y Sencillo \(En Vivo\)](https://open.spotify.com/track/5w7W726cvmYEG4WUnNzjfT) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground Desde Culiacan Sin \(En Vivo\)](https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp) | 1:49 | 2024-01-29 | 2025-01-05 |
-| [I Fkd Up](https://open.spotify.com/track/6TXP4ip9tUGwCVOtRE72Kr) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [I Fkd Up](https://open.spotify.com/album/0ZS4uM0siedzjRVJ96TlEw) | 2:45 | 2025-06-07 |  |
+| [I Fkd Up](https://open.spotify.com/track/6TXP4ip9tUGwCVOtRE72Kr) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [I Fkd Up](https://open.spotify.com/album/0ZS4uM0siedzjRVJ96TlEw) | 2:45 | 2025-06-07 | 2025-09-16 |
 | [Indio Enamorado](https://open.spotify.com/track/1GqnzEv3hQyd9ridxoQG3g) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 3:25 | 2025-05-26 | 2025-07-22 |
 | [Johnny Boy \(feat\. Los Nuevos Ilegales & La Decima Banda\)](https://open.spotify.com/track/4APetySIwtHz0sUdBcwsNw) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [Johnny Boy \(feat\. Los Nuevos Ilegales & La Decima Banda\)](https://open.spotify.com/album/7MgODVOyJPFXuThp6bivKL) | 2:37 | 2024-01-29 |  |
 | [Joven Delincuente](https://open.spotify.com/track/5esyzttlthLkvEhaJsPtUd) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Joven Delincuente](https://open.spotify.com/album/6LJQHthrT6kncN1zN9atvE) | 3:56 | 2024-01-29 | 2024-06-18 |
@@ -93,6 +93,7 @@
 | [Solo Un Día](https://open.spotify.com/track/2LtTWSMZHFujtwwgkz3NAl) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Solo Un Día](https://open.spotify.com/album/03f4DPOqYJ4655QNyFUI5u) | 2:56 | 2025-05-07 | 2025-07-10 |
 | [Soy Chapito Soy Amigo \(En Vivo\)](https://open.spotify.com/track/0Y0lKXho3LtYi6vcEG4Esf) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 2](https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY) | 2:22 | 2024-01-29 | 2024-04-10 |
 | [Soy El Ace Para Ganar \(Live\)](https://open.spotify.com/track/3SF3muQ7uwi4cFrFjycJ4D) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Soy El Ace Para Ganar](https://open.spotify.com/album/1BIbkKD9bKqICzdneFagLD) | 4:17 | 2025-05-30 |  |
+| [Taking Over La Ciudad](https://open.spotify.com/track/5I3qTu8ug0qP5BzOey5An6) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Taking Over La Ciudad](https://open.spotify.com/album/3HxHOSPPzMhJnnDr5BS3Cx) | 3:45 | 2025-09-16 |  |
 | [The Cookie Plug \(En Vivo\)](https://open.spotify.com/track/6p3AgriQhiZSGLeOI1JASQ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [The Cookie Plug \(En Vivo\)](https://open.spotify.com/album/1b3k7w3Ixl7sq0DQVYJBMQ) | 3:57 | 2024-01-29 |  |
 | [Turbo Cheyenne \(En Vivo\)](https://open.spotify.com/track/19TJxFBjhKXgE6d2hY9pvG) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Corridos Underground 2](https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY) | 2:36 | 2024-10-16 |  |
 | [Ultimamente Tapando Bocas](https://open.spotify.com/track/6CwgGDlKi58MrCf8nsc8vm) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Ultimamente Tapando Bocas](https://open.spotify.com/album/6vOmMRvQqATYGFPCcygZDP) | 4:00 | 2024-01-29 | 2025-01-11 |

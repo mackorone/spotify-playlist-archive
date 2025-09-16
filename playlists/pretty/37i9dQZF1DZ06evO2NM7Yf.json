@@ -1,12 +1,12 @@
 {
   "description": "This is Meg Smith. The essential tracks, all in one playlist.",
-  "num_followers": 414,
+  "num_followers": 415,
   "original_name": "This Is Meg Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAD2or7RKI1n7XXRlrGh3FHh",
+  "snapshot_id": "aMYFgAAAAAC2da6L74hdQSnAVvLPmoE4",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "...but i'd miss you too much!",
+        "url": "https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 178301,
+      "name": "...but i'd miss you too much!",
+      "url": "https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gospel According to Meg Smith",
+        "url": "https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 178743,
+      "name": "blasphemy!",
+      "url": "https://open.spotify.com/track/2v52pN6TZkYsmbafLvOYLk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Make Bad Things Not Suck <3",
         "url": "https://open.spotify.com/album/3Fu52oawbUjlB6z3MzH6t3"
       },
@@ -139,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gospel According to Meg Smith",
-        "url": "https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 181749,
-      "name": "emotional affair",
-      "url": "https://open.spotify.com/track/4C0JASInf8x6Z9MNAmsQb7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "emotional punching bag",
         "url": "https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 176030,
       "name": "Emotional Punching Bag",
       "url": "https://open.spotify.com/track/7yPgfPvs6aZ5EJ1ofwfpwL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...but i'd miss you too much!",
-        "url": "https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 178301,
-      "name": "...but i'd miss you too much!",
-      "url": "https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 178743,
-      "name": "blasphemy!",
-      "url": "https://open.spotify.com/track/2v52pN6TZkYsmbafLvOYLk"
+      "duration_ms": 181749,
+      "name": "emotional affair",
+      "url": "https://open.spotify.com/track/4C0JASInf8x6Z9MNAmsQb7"
     },
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cross My Heart I Hope U Die",
-        "url": "https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx"
+        "name": "Cautiously Optimistic",
+        "url": "https://open.spotify.com/album/1YZQRY1Xu5FJZ6kaxaZXsD"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 165250,
-      "name": "Why Do I Keep Playing It",
-      "url": "https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem"
+      "duration_ms": 145674,
+      "name": "Cautiously Optimistic",
+      "url": "https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2"
     },
     {
       "added_at": null,
@@ -295,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cautiously Optimistic",
-        "url": "https://open.spotify.com/album/1YZQRY1Xu5FJZ6kaxaZXsD"
+        "name": "Cross My Heart I Hope U Die",
+        "url": "https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 145674,
-      "name": "Cautiously Optimistic",
-      "url": "https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2"
+      "duration_ms": 165250,
+      "name": "Why Do I Keep Playing It",
+      "url": "https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 164933,
-      "name": "American in Paris",
-      "url": "https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj"
+      "duration_ms": 182500,
+      "name": "Because of Me",
+      "url": "https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Because of Me",
-      "url": "https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu"
+      "duration_ms": 164933,
+      "name": "American in Paris",
+      "url": "https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EG7kZ.md) - [plain]
 
 > This is Bluey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,512 likes - 24 songs - 57 min 37 sec
+[Spotify](https://open.spotify.com/user/spotify) - 49,535 likes - 24 songs - 57 min 37 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EG7kZ.md) - [plain]
 | 8 | [Escape](https://open.spotify.com/track/5cyxngiUUlUUtCx4qWsPFz) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 2:42 |
 | 9 | [Creek is Beautiful!](https://open.spotify.com/track/3IX0GkNlQyjPi3GLtjhMdt) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Helena Czajka](https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO) | [Bluey the Album \(Music from the Original TV Series\)](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 3:09 |
 | 10 | [Rainbow](https://open.spotify.com/track/5M80oeQX9BRz2tryvy5S9r) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Dance Mode!](https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z) | 4:06 |
-| 11 | [Onesies](https://open.spotify.com/track/3DSHjBGuO3jEjbmI87TFKv) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Onesies](https://open.spotify.com/album/5rRBAxyqUZcnBR9RW9NBS3) | 3:24 |
+| 11 | [Rug Island \- Full Version](https://open.spotify.com/track/5NuyJAjEhItkHFJ2l5pkWX) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island \(Full Version\)](https://open.spotify.com/album/7gPsHxkyML0jgQ3JMgYxTc) | 4:04 |
 | 12 | [Turtleboy](https://open.spotify.com/track/4Zja6rFLdE4Bq3fwXMZ1OW) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 2:47 |
 | 13 | [Camping](https://open.spotify.com/track/4w5LdmsuCKio1HnWIycAub) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Bluey the Album \(Music from the Original TV Series\)](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 2:25 |
 | 14 | [It Was Yesterday](https://open.spotify.com/track/1vMrZkX9ZnsqYlAFjBmwfd) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Dance Mode!](https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z) | 1:05 |
-| 15 | [Rug Island \- Full Version](https://open.spotify.com/track/5NuyJAjEhItkHFJ2l5pkWX) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island \(Full Version\)](https://open.spotify.com/album/7gPsHxkyML0jgQ3JMgYxTc) | 4:04 |
+| 15 | [Onesies](https://open.spotify.com/track/3DSHjBGuO3jEjbmI87TFKv) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Onesies](https://open.spotify.com/album/5rRBAxyqUZcnBR9RW9NBS3) | 3:24 |
 | 16 | [Muffin Drive](https://open.spotify.com/track/4mzi4GUFtCoLLmNUd9jTzh) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 1:10 |
 | 17 | [The Creek \(Intro\)](https://open.spotify.com/track/6n5B43oRmZnwTpVfdJiVz4) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [David Barber](https://open.spotify.com/artist/5EusgoKVPcgs6V9bDKajV4) | [Bluey the Album \(Music from the Original TV Series\)](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 0:48 |
 | 18 | [Chattermax](https://open.spotify.com/track/2fjzQBE5mdrkmjYI3WkAWK) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV), [Steve Peach](https://open.spotify.com/artist/66pztm8M3eSLgxel3BVsY5) | [Dance Mode!](https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z) | 1:21 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EG7kZ.md) - [plain]
 | 23 | [Le générique de Bluey \(French Version\)](https://open.spotify.com/track/3P3vNQ95AdWgnr5YGmYdhk) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu) | [Le générique de Bluey \(French Version\)](https://open.spotify.com/album/2skjS457RIBNEkIaaL7yQi) | 1:04 |
 | 24 | [Bin Night](https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 3:13 |
 
-Snapshot ID: `aMIRAAAAAAAE5e6ly/8Kw0dP4iHIu7z2`
+Snapshot ID: `aMYFgAAAAAA2UK0ZA+82Dq7glUXxYQll`

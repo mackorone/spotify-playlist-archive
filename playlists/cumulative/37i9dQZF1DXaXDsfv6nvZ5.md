@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: Elmiene
 
-825 songs - 2 day 1 hr 20 min
+826 songs - 2 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [Habits \- Radio Edit](https://open.spotify.com/track/4IPMVoDEzVAwwrNPqM0qmq) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Habits](https://open.spotify.com/album/6EiqbvEYWkkB7xmYwGQ3u6) | 3:31 | 2024-03-08 | 2024-05-17 |
 | [Half Time](https://open.spotify.com/track/4d0dY3ZeMdoYrD5YmdFvWZ) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 3:50 | 2022-03-11 | 2023-04-01 |
 | [Hands](https://open.spotify.com/track/6VMccRKaAXbFyUgVFwzuKu) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Hands](https://open.spotify.com/album/1A1JfvF0eBrUhq7nBbSg8R) | 2:52 | 2025-02-28 |  |
-| [Happiness](https://open.spotify.com/track/6FBFKoNIBfCRSLTQ5s27gD) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Night Shift](https://open.spotify.com/album/3d8fkpMXT6FywKJonYF6An) | 3:32 | 2025-05-23 |  |
+| [Happiness](https://open.spotify.com/track/6FBFKoNIBfCRSLTQ5s27gD) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Night Shift](https://open.spotify.com/album/3d8fkpMXT6FywKJonYF6An) | 3:32 | 2025-05-23 | 2025-09-16 |
 | [Hard Part \(feat\. Lucky Daye\)](https://open.spotify.com/track/6ykfyiNkupYNQqcgym28Ak) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 2:38 | 2025-08-22 |  |
 | [Have You Ever Been \(To Electric Ladyland\)](https://open.spotify.com/track/7mgWCXPKOWgOexqeYLGjeu) | [Nai Palm](https://open.spotify.com/artist/5X0dCi2aVnYEV27S8wgQdF) | [Needle Paw](https://open.spotify.com/album/4b6uW0x09FkRSqadcioB1u) | 4:19 | 2022-10-03 | 2023-10-07 |
 | [He Will Follow You With His Eyes](https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 3:45 | 2023-09-16 | 2025-03-01 |
@@ -361,6 +361,7 @@
 | [Introspection](https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection](https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF) | 2:48 | 2022-03-11 | 2023-04-01 |
 | [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 | 2022-03-11 | 2022-11-17 |
 | [It Runs Through Me](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 | 2022-03-11 | 2023-04-01 |
+| [ITS SO BEAUTIFUL](https://open.spotify.com/track/4EAjvZALXlPz59hy314e5m) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [IT'S SO BEAUTIFUL](https://open.spotify.com/album/6zU3fCxDWkiWfV4JUM6iPY) | 3:31 | 2025-09-12 |  |
 | [J'adore](https://open.spotify.com/track/2WMuRiY7bRE6jHErx5vT6L) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [J'adore](https://open.spotify.com/album/3FlEgJw00sq1LuZjWgAJYu) | 3:26 | 2024-08-16 | 2024-10-26 |
 | [JAI'S SONG \(FALLING\)](https://open.spotify.com/track/1iHTOugH78NYT5RUNGG0wn) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL: SIDE A](https://open.spotify.com/album/7lDhFYEScJqHq9UUEoxoct) | 3:10 | 2024-03-22 | 2025-04-19 |
 | [JOURNEY](https://open.spotify.com/track/3wPlPqFjJsqWayNqXkXyrU) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [S'ABLE SOUNDS](https://open.spotify.com/artist/6U7WxgiiEN0thKCXwAFah7) | [JOURNEY](https://open.spotify.com/album/5y7AKaA4ZqVUT10mnKi4CC) | 2:42 | 2025-05-23 |  |

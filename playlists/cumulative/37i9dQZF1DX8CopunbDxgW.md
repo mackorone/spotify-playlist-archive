@@ -4,7 +4,7 @@
 
 > Mindchatter with another hypnotic groover 🧠💙 it's all the best indie dance tracks of the moment
 
-2,009 songs - 5 day 2 hr 22 min
+2,010 songs - 5 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1125,7 +1125,7 @@
 | [Luv Like](https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Luv Like](https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3) | 3:06 | 2022-02-11 | 2023-07-29 |
 | [luv stuck](https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [luv stuck](https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5) | 2:40 | 2024-06-21 | 2024-08-24 |
 | [Løveskatt](https://open.spotify.com/track/00nk5f2eHeKQpmXCJY1Hll) | [Ora the Molecule](https://open.spotify.com/artist/6RQoLyY1nkArRcNc3sE86m) | [Løveskatt](https://open.spotify.com/album/4brikg7YkZMYyXuIIQptE1) | 4:47 | 2024-12-23 | 2025-05-17 |
-| [Ma Sei Fuori](https://open.spotify.com/track/0VAkPZUjFxBMhIXHNE9Fai) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Ma Sei Fuori](https://open.spotify.com/album/7k5omlUhD5OYKL4au8Tbkn) | 2:59 | 2025-08-01 |  |
+| [Ma Sei Fuori](https://open.spotify.com/track/0VAkPZUjFxBMhIXHNE9Fai) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Ma Sei Fuori](https://open.spotify.com/album/7k5omlUhD5OYKL4au8Tbkn) | 2:59 | 2025-08-01 | 2025-09-16 |
 | [MACHINE](https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MACHINE](https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA) | 3:17 | 2021-09-03 | 2023-01-06 |
 | [Mackin'](https://open.spotify.com/track/7LWz1ZzKJSo6mgFxBLljb9) | [Futers](https://open.spotify.com/artist/4JU7JW69o7YSHnurml4XGF) | [U Get Me](https://open.spotify.com/album/5oHZ519kQ1YHqBTaExjgEa) | 6:47 | 2022-01-28 | 2022-02-12 |
 | [MADLY](https://open.spotify.com/track/7Eg6WudP6Qp7JzqldA2ZTH) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [JUNGLE](https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo) | 4:09 | 2023-03-10 | 2023-12-16 |
@@ -1262,6 +1262,7 @@
 | [Nobody Scared](https://open.spotify.com/track/1xAHR5oihy1WyPtpAfGZ0p) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Baby Face](https://open.spotify.com/album/29wrXSOIZTYNoOTzKW67B1) | 3:39 | 2021-06-25 | 2022-10-13 |
 | [Nobody Scared](https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Baby Face](https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe) | 3:39 | 2022-09-09 | 2023-04-01 |
 | [Noise](https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Noise](https://open.spotify.com/album/1nxDKrCB3QOB3nKPQQMofF) | 4:42 | 2023-03-31 | 2023-05-08 |
+| [Non Binary Phantasy](https://open.spotify.com/track/7lHfOlTTK3ACgAUDye2JiE) | [Ruede Hagelstein](https://open.spotify.com/artist/49VV6EX7Tz4JNKeimVEoxQ) | [Non Binary Phantasy](https://open.spotify.com/album/6dLWrMJoGQmbRKG0iwiJhE) | 4:58 | 2025-09-15 |  |
 | [NoNewNews!!! \- Ben Hixon Remix](https://open.spotify.com/track/6aquBTxK51IypBHnGoJDTJ) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Ben Hixon](https://open.spotify.com/artist/3vT3Rpg0Mhu1iayVKeKjwP) | [GITHPREMIXEDITION](https://open.spotify.com/album/0pEbmdBXGb0acfUfxGEy9q) | 2:25 | 2023-09-01 | 2023-09-16 |
 | [Noranda](https://open.spotify.com/track/7EBBvZXNKjDYnXJPcc5qJk) | [TUKAN](https://open.spotify.com/artist/3Sb4jk6AELF08kyBaLrRii) | [Noranda](https://open.spotify.com/album/6c9iq8riKu8O3HX8UJWDhh) | 4:56 | 2023-12-01 | 2024-01-13 |
 | [north star](https://open.spotify.com/track/4RjJWMbeijZfnLlkpHVqQX) | [glittr](https://open.spotify.com/artist/2a5e4bQS4bNov080O3zTFJ), [sunbreather](https://open.spotify.com/artist/7G1VXGABzXWI1DEZ8iDImS) | [north star](https://open.spotify.com/album/09rlM00CJL0s1Er5PJifP8) | 3:41 | 2025-06-13 | 2025-07-19 |

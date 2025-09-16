@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW!. Cover: Andmesh",
-  "num_followers": 26506,
+  "num_followers": 26510,
   "original_name": "OTW",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,26 @@
     {
       "added_at": "2025-09-12 14:54:25",
       "album": {
+        "name": "Puting Beliung",
+        "url": "https://open.spotify.com/album/45uKX8IYbs9w5jbDNrRp4K"
+      },
+      "artists": [
+        {
+          "name": "Tenxi",
+          "url": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
+        },
+        {
+          "name": "Jemsii",
+          "url": "https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs"
+        }
+      ],
+      "duration_ms": 246153,
+      "name": "Bintang 5",
+      "url": "https://open.spotify.com/track/0HoWTALX2BktSIrSmflWSP"
+    },
+    {
+      "added_at": "2025-09-12 14:54:25",
+      "album": {
         "name": "Sebatas Mimpi",
         "url": "https://open.spotify.com/album/7i0hFkyqprLGxZu5uVGEnY"
       },
@@ -883,38 +903,22 @@
     {
       "added_at": "2025-09-12 14:54:25",
       "album": {
-        "name": "Puting Beliung",
-        "url": "https://open.spotify.com/album/45uKX8IYbs9w5jbDNrRp4K"
+        "name": "Percuma",
+        "url": "https://open.spotify.com/album/1enR50jqoFl1yz75axX2sF"
       },
       "artists": [
         {
-          "name": "Tenxi",
-          "url": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
+          "name": "Anggis Devaki",
+          "url": "https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf"
         },
         {
-          "name": "Jemsii",
-          "url": "https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs"
+          "name": "Betrand Putra Onsu",
+          "url": "https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c"
         }
       ],
-      "duration_ms": 246153,
-      "name": "Bintang 5",
-      "url": "https://open.spotify.com/track/0HoWTALX2BktSIrSmflWSP"
-    },
-    {
-      "added_at": "2025-09-12 14:54:25",
-      "album": {
-        "name": "Jalan Terbaik",
-        "url": "https://open.spotify.com/album/2WrbuH0yPWAAc2oQ59J9Et"
-      },
-      "artists": [
-        {
-          "name": "Kaleb J",
-          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
-        }
-      ],
-      "duration_ms": 290707,
-      "name": "Jalan Terbaik",
-      "url": "https://open.spotify.com/track/2tvAYDXVbOyIQvKTlrqeKX"
+      "duration_ms": 247265,
+      "name": "Percuma",
+      "url": "https://open.spotify.com/track/06WUx317ZgnzlEfiWPvcFm"
     }
   ],
   "unique_name": "OTW",

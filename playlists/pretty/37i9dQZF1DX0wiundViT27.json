@@ -1,6 +1,6 @@
 {
   "description": "a dose of high-energy alternative songs for your workout.",
-  "num_followers": 611391,
+  "num_followers": 611392,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
+        "name": "LOOM",
+        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 200026,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/7xDd7gl6AGgpiOz5trz4dM"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 170133,
       "name": "maybe (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
-        "name": "LOOM",
-        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 200026,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/7xDd7gl6AGgpiOz5trz4dM"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "HOW 2 GET AWAY WITH MURDER",
-        "url": "https://open.spotify.com/album/3BTXpSYeLv97CKmcVId9TI"
-      },
-      "artists": [
-        {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
-        }
-      ],
-      "duration_ms": 178217,
-      "name": "HOW 2 GET AWAY WITH MURDER",
-      "url": "https://open.spotify.com/track/2VoU7RnUBTp3mxFJBhUIPX"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
         "name": "HONEY (ARE U COMING?)",
         "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 167276,
       "name": "HONEY (ARE U COMING?)",
       "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
+        "name": "HOW 2 GET AWAY WITH MURDER",
+        "url": "https://open.spotify.com/album/3BTXpSYeLv97CKmcVId9TI"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "duration_ms": 178217,
+      "name": "HOW 2 GET AWAY WITH MURDER",
+      "url": "https://open.spotify.com/track/2VoU7RnUBTp3mxFJBhUIPX"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "Burning Down the House",
-        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "Burning Down the House",
-      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 159800,
       "name": "We Don't Wanna Talk",
       "url": "https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
+        "name": "Burning Down the House",
+        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "Overcome",
-        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
         "name": "Back Door",
         "url": "https://open.spotify.com/album/5guxsMehonEQNO93lZW8eJ"
       },
@@ -975,6 +975,22 @@
       "duration_ms": 248616,
       "name": "Back Door",
       "url": "https://open.spotify.com/track/1DnLZZYOAtGzjYNKcUu1ap"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
+        "name": "Life's Coming in Slow (from GRAN TURISMO 7)",
+        "url": "https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Life's Coming in Slow - from GRAN TURISMO 7",
+      "url": "https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -1111,22 +1127,6 @@
       "duration_ms": 191390,
       "name": "Shadow in the Sun",
       "url": "https://open.spotify.com/track/588EtZ99qVxlMWiqRnc41x"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
-        "name": "Life's Coming in Slow (from GRAN TURISMO 7)",
-        "url": "https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Life's Coming in Slow - from GRAN TURISMO 7",
-      "url": "https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
+        "name": "Sex Party",
+        "url": "https://open.spotify.com/album/4NgAfTr86rkILEFBkhHZky"
+      },
+      "artists": [
+        {
+          "name": "Ferdinand fka Left Boy",
+          "url": "https://open.spotify.com/artist/2gIGkRqCo4NK2PUCI8u4aQ"
+        }
+      ],
+      "duration_ms": 167225,
+      "name": "Sex Party",
+      "url": "https://open.spotify.com/track/0kP4jYOuH9le6avYm2JnvZ"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
         "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
         "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 207280,
       "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
       "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
-        "name": "Sex Party",
-        "url": "https://open.spotify.com/album/4NgAfTr86rkILEFBkhHZky"
-      },
-      "artists": [
-        {
-          "name": "Ferdinand fka Left Boy",
-          "url": "https://open.spotify.com/artist/2gIGkRqCo4NK2PUCI8u4aQ"
-        }
-      ],
-      "duration_ms": 167225,
-      "name": "Sex Party",
-      "url": "https://open.spotify.com/track/0kP4jYOuH9le6avYm2JnvZ"
     },
     {
       "added_at": "2025-03-14 19:47:40",

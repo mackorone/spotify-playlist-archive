@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Kali Uchis & Ravyn Lenae.
 
-919 songs - 2 day 1 hr 30 min
+920 songs - 2 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Achachairú](https://open.spotify.com/track/7j6oBmJVXbdyUHAxXxkMLk) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Achachairú](https://open.spotify.com/album/0X81AVaN0AdhMwCZ9nryhk) | 2:20 | 2024-05-17 | 2025-01-18 |
 | [Aclárate](https://open.spotify.com/track/2LewcRYN0lmAPcqzhPiDnx) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Aclárate](https://open.spotify.com/album/57A8urKomczwMQNjCIIFQC) | 3:02 | 2021-12-02 | 2022-01-25 |
 | [Acércate](https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Acércate](https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl) | 2:47 | 2023-01-10 | 2023-02-17 |
+| [Adios Adios](https://open.spotify.com/track/2EVD6x7gKKlLv96wxy5RY0) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin' \(Deluxe\)](https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p) | 3:02 | 2025-09-12 |  |
 | [Adolescente](https://open.spotify.com/track/1dDacT8TuPd9vQ8Q3866sC) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 5:00 | 2023-07-21 | 2023-09-30 |
 | [Agua](https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:20 | 2021-12-02 | 2022-01-25 |
 | [Aguacero](https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:30 | 2022-05-06 | 2023-02-17 |
@@ -212,7 +213,7 @@
 | [de mi pa ti](https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [de mi pa ti](https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l) | 3:26 | 2023-10-13 | 2024-02-24 |
 | [De Más](https://open.spotify.com/track/4p19BdGQ1jlQiGSPutGe6J) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [De Más](https://open.spotify.com/album/5D40rsTMMrvxltrAHoil80) | 3:26 | 2021-12-02 | 2022-01-25 |
 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 | 2021-12-02 | 2022-01-25 |
-| [DE NOTA EN NOTA](https://open.spotify.com/track/6zrY9YRsHZLtL4C1VSTnFt) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [DE NOTA EN NOTA](https://open.spotify.com/album/72aeyywHPQEBxaoWhrTnw5) | 3:32 | 2025-01-17 |  |
+| [DE NOTA EN NOTA](https://open.spotify.com/track/6zrY9YRsHZLtL4C1VSTnFt) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [DE NOTA EN NOTA](https://open.spotify.com/album/72aeyywHPQEBxaoWhrTnw5) | 3:32 | 2025-01-17 | 2025-09-16 |
 | [De Otra Vida](https://open.spotify.com/track/1ToksVaQi3XOqwlmfn5mLH) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [Cuando No Quede Nadie](https://open.spotify.com/album/0iDz5ao0k2wowPRbaMC2Jt) | 3:02 | 2023-12-29 | 2024-01-14 |
 | [DE REVERSA](https://open.spotify.com/track/0q6JxbQUTLb1MVE3ucpDFW) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [DE REVERSA](https://open.spotify.com/album/37gbLafAooDbpx7AqX9O2B) | 3:04 | 2023-02-17 | 2023-06-24 |
 | [DE REVERSA](https://open.spotify.com/track/6w8cIvWOmJYE0RPXs6iySp) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [DE REVERSA](https://open.spotify.com/album/1Dcw9KQLD2KqrDENrUtjbR) | 3:04 | 2023-07-07 | 2023-07-22 |

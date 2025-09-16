@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 
 > Love whoever you want to love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,576 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,592 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 | 39 | [Started Out](https://open.spotify.com/track/7l5Z2grGc47Hs84Zm7XobV) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills](https://open.spotify.com/album/26FuPLPN5Vyznv9yFxKOTM) | 3:41 |
 | 40 | [Let Us Die](https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:53 |
 | 41 | [Volcanic Love](https://open.spotify.com/track/5YY6Z7YnjGOPxYy8ooZmLC) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [When My Heart Felt Volcanic](https://open.spotify.com/album/2lsQE89fPFInz2J62K6waw) | 3:25 |
-| 42 | [Anything](https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Anything](https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6) | 2:23 |
-| 43 | [Cherry Bomb](https://open.spotify.com/track/1yyRet7pgLwTGGxGkbbaaa) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Cherry Bomb](https://open.spotify.com/album/09I3k7LK3Hgg9FaXKFXCOR) | 3:48 |
+| 42 | [Cherry Bomb](https://open.spotify.com/track/1yyRet7pgLwTGGxGkbbaaa) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Cherry Bomb](https://open.spotify.com/album/09I3k7LK3Hgg9FaXKFXCOR) | 3:48 |
+| 43 | [Anything](https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Anything](https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6) | 2:23 |
 | 44 | [SOMETHING ABOUT HIM](https://open.spotify.com/track/2S11ZvEfuFSqInfxWxkx36) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [iridescence](https://open.spotify.com/album/3Mj4A4nNJzIdxOyS4yzOhj) | 1:33 |
 | 45 | [megan fox](https://open.spotify.com/track/1S59E0qKUoPdVneBH4nelg) | [kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI) | [claire \(deluxe\)](https://open.spotify.com/album/1Z6bytsj2M6HXeVqhruReA) | 2:29 |
 | 46 | [Like You Like That](https://open.spotify.com/track/4K9yoBHLnOLcTe7AWewiLM) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Growing Pains](https://open.spotify.com/album/2jsTbvNFkE9EuNFLnStchm) | 3:22 |

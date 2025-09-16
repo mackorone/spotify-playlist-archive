@@ -4,7 +4,7 @@
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 52 min
+56 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Holy Water \(feat\. Victony & Musa Keys\)](https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:47 | 2025-07-19 |  |
 | [Hypnotize](https://open.spotify.com/track/7LNQltPtE6ChZrHdbYn6BJ) | [S high](https://open.spotify.com/artist/1C0amI9hInKEqXOrJsc6lp), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Hypnotize](https://open.spotify.com/album/5yEFZR4xk6tSmCUz7TU5dl) | 3:26 | 2025-07-19 |  |
 | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/7vCTeLGRwAkLqZr1fphHg1) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/6ceb9dx3TsqZBcBrt3es8n) | 3:46 | 2025-07-19 |  |
-| [JAILER \(feat\. Victony\)](https://open.spotify.com/track/77ONkiqtYonB8lpKSIbc6F) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [JAILER \(feat\. Victony\)](https://open.spotify.com/album/076uOeB8PUTBtoN8Div8et) | 3:55 | 2025-07-19 |  |
+| [Jailer](https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Jailer](https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin) | 3:50 | 2025-09-16 |  |
+| [JAILER \(feat\. Victony\)](https://open.spotify.com/track/77ONkiqtYonB8lpKSIbc6F) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [JAILER \(feat\. Victony\)](https://open.spotify.com/album/076uOeB8PUTBtoN8Div8et) | 3:55 | 2025-07-19 | 2025-09-16 |
 | [Jolene](https://open.spotify.com/track/6OeHAhsVn22nStOm1XRHLQ) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 2:55 | 2025-07-19 |  |
 | [Kolomental](https://open.spotify.com/track/3NBmsIVTPNuqsBP8VtwMPd) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 3:17 | 2025-07-19 |  |
 | [Like Dat](https://open.spotify.com/track/3zhxppezoI2NUf2iecI44f) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Nataraja](https://open.spotify.com/album/0wBT3opCuWp1j8dJcmjn9L) | 3:07 | 2025-07-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,068 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,947 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 58 | [DJ Turn It Up](https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [DJ Turn It Up](https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn) | 2:57 |
 | 59 | [SMOKE THE PAIN AWAY](https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [SMOKE THE PAIN AWAY](https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP) | 2:42 |
 | 60 | [Push The Tempo](https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Push The Tempo](https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN) | 2:41 |
-| 61 | [Here In Your Arms](https://open.spotify.com/track/177kCDBuL5HQwdi6peCaUx) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Here In Your Arms](https://open.spotify.com/album/7gpwvr3MB0ZMVEQsF2vR13) | 2:32 |
-| 62 | [Take U](https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Take U](https://open.spotify.com/album/1BsEalQCwpuAbqQloCDY9u) | 2:42 |
+| 61 | [Take U](https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Take U](https://open.spotify.com/album/1BsEalQCwpuAbqQloCDY9u) | 2:42 |
+| 62 | [Here In Your Arms](https://open.spotify.com/track/177kCDBuL5HQwdi6peCaUx) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Here In Your Arms](https://open.spotify.com/album/7gpwvr3MB0ZMVEQsF2vR13) | 2:32 |
 | 63 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 |
 | 64 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 |
 | 65 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R) | 2:44 |

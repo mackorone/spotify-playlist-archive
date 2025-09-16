@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 202231,
+  "num_followers": 202240,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAABABnjs26h/pS4AYjQofM/A",
+  "snapshot_id": "aMYFgAAAAADQaAJ5Kwc3/cAoafuyIGYh",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 190534,
+      "name": "Hello (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 219453,
       "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 190534,
-      "name": "Hello (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi"
     },
     {
       "added_at": null,
@@ -447,6 +447,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "B4 The Storm (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Skeezers",
+      "url": "https://open.spotify.com/track/2A4vCndSkZ3jd5nfh3a8gc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Artist",
+        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 214857,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/1sXJ0TZDdYBIV4mlzQFi4j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/5zahdWRtrECJVVxvOOKLfe"
       },
@@ -475,62 +531,6 @@
       "duration_ms": 163200,
       "name": "Naked (feat. A Boogie wit da Hoodie)",
       "url": "https://open.spotify.com/track/3eLxZnelhb4GtTdbqeW78b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Skeezers",
-      "url": "https://open.spotify.com/track/2A4vCndSkZ3jd5nfh3a8gc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B4 The Storm (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Artist",
-        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 214857,
-      "name": "Fall in Love",
-      "url": "https://open.spotify.com/track/1sXJ0TZDdYBIV4mlzQFi4j"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LP1",
-        "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
-      },
-      "artists": [
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 165710,
-      "name": "Stack It Up (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/426utyJ4B1l4vi5i5ULU5k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bigger Artist",
         "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
       },
@@ -959,6 +939,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "LP1",
+        "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
+      },
+      "artists": [
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 165710,
+      "name": "Stack It Up (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/426utyJ4B1l4vi5i5ULU5k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bigger Artist",
+        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "No Promises",
+      "url": "https://open.spotify.com/track/2BJpuAoDeQ1QuPvnryfAWK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drowning (Sped Up Version)",
         "url": "https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI"
       },
@@ -1003,38 +1019,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bigger Artist",
-        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
+        "name": "Meet The Woo 2",
+        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
       },
       "artists": [
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "No Promises",
-      "url": "https://open.spotify.com/track/2BJpuAoDeQ1QuPvnryfAWK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Damaged Thoughts",
-        "url": "https://open.spotify.com/album/7JjE67id5LPD0w15snOyqu"
-      },
-      "artists": [
-        {
-          "name": "Bay Swag",
-          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 191918,
-      "name": "Idk Why",
-      "url": "https://open.spotify.com/track/76tdSQZfSqhogGshiOgKUq"
+      "duration_ms": 161120,
+      "name": "Foreigner (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/7AdTyfK7fnvUYbUCGpWqUf"
     }
   ],
   "unique_name": "This Is A Boogie Wit da Hoodie",

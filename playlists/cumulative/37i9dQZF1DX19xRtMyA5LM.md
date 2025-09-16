@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: Qlas
 
-128 songs - 5 hr 46 min
+129 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Fine Sh\*t](https://open.spotify.com/track/4qqrA3hWrSdeHcxoPkF2bM) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [Fine Sh\*t](https://open.spotify.com/album/5WMy7wGdcs1fAFshjJg5MJ) | 2:13 | 2025-09-04 |  |
 | [Flik Flak](https://open.spotify.com/track/3LwbxHCh5XBKxsD9lx4CSe) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Flik Flak](https://open.spotify.com/album/6WkEgMEOJC9Ag2gBLy1lkF) | 3:27 | 2025-07-17 | 2025-09-12 |
 | [Friss](https://open.spotify.com/track/26y8MJMucjn9jzCE7mHSKK) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Friss](https://open.spotify.com/album/3MENOTYTL5jvwQcEuqW3ag) | 2:23 | 2025-07-17 | 2025-08-08 |
-| [GaGR \(feat\. DJEZJA, CANEY030\)](https://open.spotify.com/track/0rzZZR9pHlMHMHOntKX15Y) | [SOTT](https://open.spotify.com/artist/4iusgX5y3xsAn824nywHVI), [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2) | [GaGR \(feat\. DJEZJA, CANEY030\)](https://open.spotify.com/album/3pqIkUKtTnZn4bY4jalGN2) | 2:15 | 2025-08-28 |  |
+| [GaGR \(feat\. DJEZJA, CANEY030\)](https://open.spotify.com/track/0rzZZR9pHlMHMHOntKX15Y) | [SOTT](https://open.spotify.com/artist/4iusgX5y3xsAn824nywHVI), [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2) | [GaGR \(feat\. DJEZJA, CANEY030\)](https://open.spotify.com/album/3pqIkUKtTnZn4bY4jalGN2) | 2:15 | 2025-08-28 | 2025-09-16 |
 | [Gang](https://open.spotify.com/track/70AY6FZAJVYQdrZTIuo1zI) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:00 | 2025-08-07 | 2025-09-05 |
 | [Gebroken Harten](https://open.spotify.com/track/19Ua7zLOl1mSvYMgSYLGrd) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj) | [Gebroken Harten](https://open.spotify.com/album/67n04L5Nqzr1AyjBa5CE1z) | 2:31 | 2025-09-05 |  |
 | [Gedragscode](https://open.spotify.com/track/4GQQmYZCovPDy2wUoFSBDh) | [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ), [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS), [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet), [Oomto](https://open.spotify.com/artist/10Tmpcwo1bS6hnYOBI1Gip) | [Gedragscode](https://open.spotify.com/album/57V0X8vFiIQwe37Pxa9F9x) | 3:13 | 2025-07-17 | 2025-08-05 |
@@ -129,6 +129,7 @@
 | [Weinig Liefde](https://open.spotify.com/track/3t990TZlINj5GWoqxK3wBc) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Weinig Liefde](https://open.spotify.com/album/6RPr65uVZIIxuiB4powm3i) | 3:26 | 2025-07-17 |  |
 | [Wesh Cousin](https://open.spotify.com/track/0C93qD7BxWiCoBWNJ3Ej5s) | [Zarfani](https://open.spotify.com/artist/3jU0uVi2Njx9HZ59lSk3H1), [Lef](https://open.spotify.com/artist/1MUxYVrXFiMh1wmP74mfu7) | [Wesh Cousin](https://open.spotify.com/album/4tnokmedox83g5ZqRmECDw) | 2:33 | 2025-09-04 |  |
 | [What A Life](https://open.spotify.com/track/4ZeKp5ZPpx0J5Oe6NREaeP) | [Rotjoch](https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw), [MocroManiac](https://open.spotify.com/artist/1n34ZpZX4OCwbuyo9mnfU8), [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5) | [What A Life](https://open.spotify.com/album/7jzkyBOR0axRAJoahiwLQg) | 3:09 | 2025-07-17 | 2025-07-25 |
+| [WHAT THE HELLY](https://open.spotify.com/track/3PrlxQtFCyAlKFC0uZwSXf) | [CC](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT), [YG24](https://open.spotify.com/artist/3A16zm3oPSNnetOrwp0TU6) | [WHAT THE HELLY](https://open.spotify.com/album/5ESn5GFLsSdYanFcoBxwQl) | 2:10 | 2025-09-15 |  |
 | [whine some more](https://open.spotify.com/track/0PNovR6kt2FpY8DEjW7gdQ) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [whine some more](https://open.spotify.com/album/0GcRGaEFCrjoPFrxf23Nnb) | 2:02 | 2025-09-11 |  |
 | [WJW](https://open.spotify.com/track/0yMtvWzuT86bMNO8CepMPm) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [WJW](https://open.spotify.com/album/4VRedjrKCj8evHQqOmLowm) | 2:26 | 2025-08-21 |  |
 | [Wolken](https://open.spotify.com/track/3PSIMMmMWMHrQUzY46hVC4) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Wolken](https://open.spotify.com/album/436JddM1AQ7Owp2IIAxiFv) | 2:31 | 2025-07-17 | 2025-09-05 |

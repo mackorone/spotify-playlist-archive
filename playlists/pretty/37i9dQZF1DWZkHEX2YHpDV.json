@@ -1,6 +1,6 @@
 {
   "description": "pop punk, alt, emo, post-hardcore & more. Cover: Yellowcard",
-  "num_followers": 453711,
+  "num_followers": 453605,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,26 @@
     {
       "added_at": "2025-08-22 04:00:13",
       "album": {
+        "name": "Hate This Song",
+        "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "Hate This Song",
+      "url": "https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c"
+    },
+    {
+      "added_at": "2025-08-22 04:00:13",
+      "album": {
         "name": "Warmer Weather",
         "url": "https://open.spotify.com/album/5hASWchtGCsYdHkKCuMy2x"
       },
@@ -533,42 +553,6 @@
       "url": "https://open.spotify.com/track/6I9nwHabyomUdktg1UdRB6"
     },
     {
-      "added_at": "2025-09-12 16:35:19",
-      "album": {
-        "name": "Dilworth",
-        "url": "https://open.spotify.com/album/1Er4uNqGhZR2G2vbEsnH4I"
-      },
-      "artists": [
-        {
-          "name": "Jutes",
-          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
-        }
-      ],
-      "duration_ms": 203928,
-      "name": "Kill or be Killed",
-      "url": "https://open.spotify.com/track/4ZAgj2AeE5hs7qgpiSdMTT"
-    },
-    {
-      "added_at": "2025-08-22 04:00:13",
-      "album": {
-        "name": "Hate This Song",
-        "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "Hate This Song",
-      "url": "https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c"
-    },
-    {
       "added_at": "2025-08-22 04:00:13",
       "album": {
         "name": "Funeral Soundtrack #4",
@@ -595,6 +579,22 @@
     {
       "added_at": "2025-09-12 16:35:19",
       "album": {
+        "name": "Dilworth",
+        "url": "https://open.spotify.com/album/1Er4uNqGhZR2G2vbEsnH4I"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "duration_ms": 203928,
+      "name": "Kill or be Killed",
+      "url": "https://open.spotify.com/track/4ZAgj2AeE5hs7qgpiSdMTT"
+    },
+    {
+      "added_at": "2025-09-12 16:35:19",
+      "album": {
         "name": "Do It Again",
         "url": "https://open.spotify.com/album/49NpPolZdtpdgjddYkN7pe"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 148567,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/0ZrA247YJ9XkdNK5L6533W"
-    },
-    {
-      "added_at": "2025-08-22 04:00:13",
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI"
     },
     {
       "added_at": "2025-08-22 04:00:13",
@@ -655,6 +639,22 @@
       "duration_ms": 164546,
       "name": "Shhhh! Golf is On",
       "url": "https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch"
+    },
+    {
+      "added_at": "2025-08-22 04:00:13",
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI"
     },
     {
       "added_at": "2025-09-12 16:35:19",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-08-22 04:00:13",
       "album": {
-        "name": "I Think They Know",
-        "url": "https://open.spotify.com/album/2ErSV0aa5yt4ZiZp2Z0Uk1"
-      },
-      "artists": [
-        {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
-        }
-      ],
-      "duration_ms": 186924,
-      "name": "I Think They Know",
-      "url": "https://open.spotify.com/track/3o9p59E4kpxpmYdGWYujZS"
-    },
-    {
-      "added_at": "2025-08-22 04:00:13",
-      "album": {
         "name": "Island in the Sun",
         "url": "https://open.spotify.com/album/1aibaDj3PSbf7CdGJDMK7y"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 149606,
       "name": "Island in the Sun (feat. Cory Castro of Free Throw)",
       "url": "https://open.spotify.com/track/7LDwaLHxFXW0kVyHKMJAaE"
+    },
+    {
+      "added_at": "2025-08-22 04:00:13",
+      "album": {
+        "name": "I Think They Know",
+        "url": "https://open.spotify.com/album/2ErSV0aa5yt4ZiZp2Z0Uk1"
+      },
+      "artists": [
+        {
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+        }
+      ],
+      "duration_ms": 186924,
+      "name": "I Think They Know",
+      "url": "https://open.spotify.com/track/3o9p59E4kpxpmYdGWYujZS"
     },
     {
       "added_at": "2025-08-22 04:00:13",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-08-22 04:00:13",
       "album": {
-        "name": "Hotel Bleu",
-        "url": "https://open.spotify.com/album/3blidU7QbdagNPs3Wqw9cI"
-      },
-      "artists": [
-        {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
-        }
-      ],
-      "duration_ms": 182117,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/19bqVQCJzBLiAb0ljuAVMC"
-    },
-    {
-      "added_at": "2025-08-22 04:00:13",
-      "album": {
         "name": "DEADBEAT!",
         "url": "https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2025-08-22 04:00:13",
       "album": {
-        "name": "FEVER",
-        "url": "https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F"
+        "name": "Hotel Bleu",
+        "url": "https://open.spotify.com/album/3blidU7QbdagNPs3Wqw9cI"
       },
       "artists": [
         {
-          "name": "BEAUTY SCHOOL DROPOUT",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
         }
       ],
-      "duration_ms": 219000,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/6vgtAqnANqEZ8tUWGDSyjt"
+      "duration_ms": 182117,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/19bqVQCJzBLiAb0ljuAVMC"
     },
     {
       "added_at": "2025-08-22 04:00:13",
@@ -947,6 +931,22 @@
       "duration_ms": 195161,
       "name": "NOSE BLEED",
       "url": "https://open.spotify.com/track/5G46r5BatD8I1MRqeSPD8W"
+    },
+    {
+      "added_at": "2025-08-22 04:00:13",
+      "album": {
+        "name": "FEVER",
+        "url": "https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F"
+      },
+      "artists": [
+        {
+          "name": "BEAUTY SCHOOL DROPOUT",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/6vgtAqnANqEZ8tUWGDSyjt"
     },
     {
       "added_at": "2025-08-22 04:00:13",
@@ -1077,20 +1077,24 @@
       "url": "https://open.spotify.com/track/1nBN5F1NbH5cq8wtTBcZ56"
     },
     {
-      "added_at": "2025-08-22 04:00:13",
+      "added_at": "2025-09-12 16:35:19",
       "album": {
-        "name": "Stop Talking",
-        "url": "https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR"
+        "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
+        "url": "https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ"
       },
       "artists": [
         {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        },
+        {
+          "name": "Bad Luck.",
+          "url": "https://open.spotify.com/artist/4Hjb6XIYNt5Qkokl30luY9"
         }
       ],
-      "duration_ms": 200883,
-      "name": "Stop Talking",
-      "url": "https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H"
+      "duration_ms": 214800,
+      "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
+      "url": "https://open.spotify.com/track/2lTwwQcnBQlh0d4Ipshbkl"
     },
     {
       "added_at": "2025-08-22 04:00:13",
@@ -1115,6 +1119,22 @@
     {
       "added_at": "2025-08-22 04:00:13",
       "album": {
+        "name": "Stop Talking",
+        "url": "https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 200883,
+      "name": "Stop Talking",
+      "url": "https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H"
+    },
+    {
+      "added_at": "2025-08-22 04:00:13",
+      "album": {
         "name": "State Champs",
         "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
       },
@@ -1135,42 +1155,6 @@
     {
       "added_at": "2025-09-12 16:35:19",
       "album": {
-        "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
-        "url": "https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ"
-      },
-      "artists": [
-        {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        },
-        {
-          "name": "Bad Luck.",
-          "url": "https://open.spotify.com/artist/4Hjb6XIYNt5Qkokl30luY9"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
-      "url": "https://open.spotify.com/track/2lTwwQcnBQlh0d4Ipshbkl"
-    },
-    {
-      "added_at": "2025-08-22 04:00:13",
-      "album": {
-        "name": "dyed (2008 - 2023)",
-        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 180959,
-      "name": "don't light the match (dyed black 2010)",
-      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
-    },
-    {
-      "added_at": "2025-09-12 16:35:19",
-      "album": {
         "name": "Get Your Ass To Mars",
         "url": "https://open.spotify.com/album/41kUIzh1ng3MqRIH83oxyC"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2025-08-22 04:00:13",
       "album": {
-        "name": "Cult Classic",
-        "url": "https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG"
+        "name": "dyed (2008 - 2023)",
+        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
       },
       "artists": [
         {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
         }
       ],
-      "duration_ms": 222317,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII"
+      "duration_ms": 180959,
+      "name": "don't light the match (dyed black 2010)",
+      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
     },
     {
       "added_at": "2025-08-22 04:00:13",
@@ -1219,22 +1203,18 @@
     {
       "added_at": "2025-08-22 04:00:13",
       "album": {
-        "name": "High Stakes",
-        "url": "https://open.spotify.com/album/4TUmco5xx8GSJ0Rwm39oQ2"
+        "name": "Dark Magic",
+        "url": "https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev"
       },
       "artists": [
         {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
-        },
-        {
-          "name": "Matty Mullins",
-          "url": "https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot"
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
         }
       ],
-      "duration_ms": 205159,
-      "name": "High Stakes",
-      "url": "https://open.spotify.com/track/2J2iIecwVAjZPzlJubdAgD"
+      "duration_ms": 144000,
+      "name": "Pity Party",
+      "url": "https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx"
     },
     {
       "added_at": "2025-08-22 04:00:13",
@@ -1251,6 +1231,26 @@
       "duration_ms": 172604,
       "name": "WHAT THE HELL",
       "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
+    },
+    {
+      "added_at": "2025-08-22 04:00:13",
+      "album": {
+        "name": "High Stakes",
+        "url": "https://open.spotify.com/album/4TUmco5xx8GSJ0Rwm39oQ2"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        },
+        {
+          "name": "Matty Mullins",
+          "url": "https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot"
+        }
+      ],
+      "duration_ms": 205159,
+      "name": "High Stakes",
+      "url": "https://open.spotify.com/track/2J2iIecwVAjZPzlJubdAgD"
     },
     {
       "added_at": "2025-08-22 04:00:13",
@@ -1347,8 +1347,8 @@
     {
       "added_at": "2025-08-22 04:00:13",
       "album": {
-        "name": "Dark Magic",
-        "url": "https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev"
+        "name": "Cult Classic",
+        "url": "https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG"
       },
       "artists": [
         {
@@ -1356,25 +1356,9 @@
           "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Pity Party",
-      "url": "https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx"
-    },
-    {
-      "added_at": "2025-08-22 04:00:13",
-      "album": {
-        "name": "saturate",
-        "url": "https://open.spotify.com/album/3LiCWQLym789U7V1Rdz5eE"
-      },
-      "artists": [
-        {
-          "name": "sace6",
-          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
-        }
-      ],
-      "duration_ms": 194896,
-      "name": "saturate",
-      "url": "https://open.spotify.com/track/4MghRJacieQHH2nUO5eZb9"
+      "duration_ms": 222317,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII"
     },
     {
       "added_at": "2025-08-22 04:00:13",
@@ -1391,6 +1375,22 @@
       "duration_ms": 268397,
       "name": "DOUBT",
       "url": "https://open.spotify.com/track/24KYmcYFdSIzKJbKYpyOPO"
+    },
+    {
+      "added_at": "2025-08-22 04:00:13",
+      "album": {
+        "name": "saturate",
+        "url": "https://open.spotify.com/album/3LiCWQLym789U7V1Rdz5eE"
+      },
+      "artists": [
+        {
+          "name": "sace6",
+          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+        }
+      ],
+      "duration_ms": 194896,
+      "name": "saturate",
+      "url": "https://open.spotify.com/track/4MghRJacieQHH2nUO5eZb9"
     },
     {
       "added_at": "2025-08-22 04:00:13",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2025-08-22 04:00:13",
       "album": {
-        "name": "only overnight",
-        "url": "https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R"
+        "name": "My Life In Subtitles",
+        "url": "https://open.spotify.com/album/7sWgC3VwEkJ1NDghlHxGNc"
       },
       "artists": [
         {
-          "name": "sace6",
-          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+          "name": "Carpool",
+          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
         }
       ],
-      "duration_ms": 182454,
-      "name": "only overnight",
-      "url": "https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M"
+      "duration_ms": 172893,
+      "name": "Can We Just Get High?",
+      "url": "https://open.spotify.com/track/2TOgSScrpcnSZeihmZRn93"
     },
     {
       "added_at": "2025-08-22 04:00:13",
@@ -1717,36 +1717,40 @@
       "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
     },
     {
-      "added_at": "2025-08-22 04:00:13",
+      "added_at": "2025-09-12 16:35:19",
       "album": {
-        "name": "My Life In Subtitles",
-        "url": "https://open.spotify.com/album/7sWgC3VwEkJ1NDghlHxGNc"
+        "name": "Phantoms/Twenty",
+        "url": "https://open.spotify.com/album/3kI3OWrB6LKdH7HwVI8X6o"
       },
       "artists": [
         {
-          "name": "Carpool",
-          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
+          "name": "Acceptance",
+          "url": "https://open.spotify.com/artist/4zCbNayYzorqdzd9mPrghW"
+        },
+        {
+          "name": "Alex Gaskarth",
+          "url": "https://open.spotify.com/artist/5X0hXpGcJDZiGTpnGPWEm5"
         }
       ],
-      "duration_ms": 172893,
-      "name": "Can We Just Get High?",
-      "url": "https://open.spotify.com/track/2TOgSScrpcnSZeihmZRn93"
+      "duration_ms": 271112,
+      "name": "Different (feat. Alex Gaskarth)",
+      "url": "https://open.spotify.com/track/7DW93g5FY4SAPCq7jUsgWF"
     },
     {
       "added_at": "2025-08-22 04:00:13",
       "album": {
-        "name": "Past // Present // Future",
-        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+        "name": "only overnight",
+        "url": "https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R"
       },
       "artists": [
         {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+          "name": "sace6",
+          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
         }
       ],
-      "duration_ms": 165317,
-      "name": "T.M.I",
-      "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
+      "duration_ms": 182454,
+      "name": "only overnight",
+      "url": "https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M"
     }
   ],
   "unique_name": "The Scene",

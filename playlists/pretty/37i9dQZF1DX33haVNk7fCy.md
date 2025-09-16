@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,352 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,507 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 13 | [Toot Gaya](https://open.spotify.com/track/28vq8tUVGxs6Xk8F1VceDa) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Broken](https://open.spotify.com/album/4j3Q0oWVdnU3pw0Y8G8h06) | 3:21 |
 | 14 | [Dost Banke](https://open.spotify.com/track/2k0D2OXWXwuwBPXLQQYmZx) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Dost Banke](https://open.spotify.com/album/4Ira2DDLEUgXmL6t4UA95V) | 4:49 |
 | 15 | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/track/5QVHNa0ppJUOoqSd36ovQS) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/album/3Ptq3ARmJ8iTLBb7M7Bho0) | 3:46 |
-| 16 | [Mujhe Peene Do](https://open.spotify.com/track/3FbZoPzEaUBOD84l1FwFEH) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mujhe Peene Do](https://open.spotify.com/album/5XurzQE6FZrn7fQPrX4Vcc) | 3:16 |
-| 17 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
+| 16 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
+| 17 | [Mujhe Peene Do](https://open.spotify.com/track/3FbZoPzEaUBOD84l1FwFEH) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mujhe Peene Do](https://open.spotify.com/album/5XurzQE6FZrn7fQPrX4Vcc) | 3:16 |
 | 18 | [Aaj Bhi 2](https://open.spotify.com/track/5Swyv8euhHEJu57t5qbGUs) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Aaj Bhi 2](https://open.spotify.com/album/5OYZCRHN3Dqe29yzFKr630) | 4:19 |
 | 19 | [Paon Ki Jutti](https://open.spotify.com/track/0TrsGqtFXMWCrF9pPMICY9) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Paon Ki Jutti](https://open.spotify.com/album/0kvLQHTVY3ocSh0K64f7I3) | 3:28 |
 | 20 | [Titliaan](https://open.spotify.com/track/1980E4Grgu5xAhNbFZ1mb1) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Sargun Mehta](https://open.spotify.com/artist/5rOZMdrXGCOXnmmCICga2Z) | [Titliaan](https://open.spotify.com/album/1Wh4r7BE6zZogUSTcMtiku) | 3:15 |

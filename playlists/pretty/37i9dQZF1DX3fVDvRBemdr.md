@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en volks\. Cover: Raymon Hermans
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,991 likes - 87 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,984 likes - 87 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Systeem](https://open.spotify.com/track/3BaF1c9siBSnFa2jArT5i1) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Systeem](https://open.spotify.com/album/6Jgk1FNTyR9GW3mrcL3Hzh) | 3:02 |
-| 2 | [Alles Wat Ik Nodig Heb](https://open.spotify.com/track/4ayTpt382VT36TN2yxgI3B) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Alles Wat Ik Nodig Heb](https://open.spotify.com/album/53rNQnM2S0HETUAkYSkD9W) | 2:22 |
-| 3 | [Kroegtijger](https://open.spotify.com/track/6NW25Pw9bMewv2pdcp1BvX) | [Joey Nicolay](https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG) | [Kroegtijger](https://open.spotify.com/album/6pTwUkBdUwhDlopJ1oisoi) | 2:49 |
-| 4 | [De Tent Moet Op Z'n Kop](https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p) | [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [De Tent Moet Op Z'n Kop](https://open.spotify.com/album/4NBqEWNdp6HwnNymhFSYZJ) | 2:37 |
-| 5 | [Goede Slechte Tijden](https://open.spotify.com/track/5yfulbZVOrtOPI4SW9ZSV7) | [Joeri Plaizier](https://open.spotify.com/artist/5qp7iwZO2wQ3WzHZjvb9w1) | [Goede Slechte Tijden](https://open.spotify.com/album/4UOzDZACPl3BTnUVZh25J1) | 2:28 |
-| 6 | [Lang Leve De Liefde](https://open.spotify.com/track/5wyTD9sYdm8c2UDGtqF2LJ) | [Menno Aben](https://open.spotify.com/artist/2Jc9IdaUSgqGtF202EB1zL) | [Lang Leve De Liefde](https://open.spotify.com/album/10JieUGwi4xX0Je8SeWldV) | 2:28 |
+| 2 | [Lang Leve De Liefde](https://open.spotify.com/track/5wyTD9sYdm8c2UDGtqF2LJ) | [Menno Aben](https://open.spotify.com/artist/2Jc9IdaUSgqGtF202EB1zL) | [Lang Leve De Liefde](https://open.spotify.com/album/10JieUGwi4xX0Je8SeWldV) | 2:28 |
+| 3 | [Alles Wat Ik Nodig Heb](https://open.spotify.com/track/4ayTpt382VT36TN2yxgI3B) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Alles Wat Ik Nodig Heb](https://open.spotify.com/album/53rNQnM2S0HETUAkYSkD9W) | 2:22 |
+| 4 | [Kroegtijger](https://open.spotify.com/track/6NW25Pw9bMewv2pdcp1BvX) | [Joey Nicolay](https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG) | [Kroegtijger](https://open.spotify.com/album/6pTwUkBdUwhDlopJ1oisoi) | 2:49 |
+| 5 | [De Tent Moet Op Z'n Kop](https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p) | [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [De Tent Moet Op Z'n Kop](https://open.spotify.com/album/4NBqEWNdp6HwnNymhFSYZJ) | 2:37 |
+| 6 | [Goede Slechte Tijden](https://open.spotify.com/track/5yfulbZVOrtOPI4SW9ZSV7) | [Joeri Plaizier](https://open.spotify.com/artist/5qp7iwZO2wQ3WzHZjvb9w1) | [Goede Slechte Tijden](https://open.spotify.com/album/4UOzDZACPl3BTnUVZh25J1) | 2:28 |
 | 7 | [Avond 2.0](https://open.spotify.com/track/0UPpBlT845lAeL3shnNL0o) | [Martijn Stam](https://open.spotify.com/artist/08us5J8eRdUoGifsSIOMa1) | [Avond 2.0](https://open.spotify.com/album/0BVSguaWW08ymbT39URufK) | 3:27 |
 | 8 | [Ik Bel Je Zomaar Even Op](https://open.spotify.com/track/7KMdT2qjJaJH7P27jb5Kcc) | [Jesse Prins](https://open.spotify.com/artist/7cTPmBuInxNTQsNGlDIyrm) | [Ik Bel Je Zomaar Even Op](https://open.spotify.com/album/7iHFa8QIyIDTGuP7Xaw6VM) | 2:44 |
 | 9 | [Zo Ben Ik Altijd Geweest](https://open.spotify.com/track/3MzpJI7PJAm1EBFsSSajVR) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Zo Ben Ik Altijd Geweest](https://open.spotify.com/album/3yQR2m6SsxZs79uSnBJDCF) | 3:12 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 86 | [Magische Momenten](https://open.spotify.com/track/22fVfPyb3OGeguYISFvWmw) | [Henk Bernard](https://open.spotify.com/artist/6DEJqlSyKBB7mYf2v59dVO) | [Magische Momenten](https://open.spotify.com/album/3N0QGGvrFJ1hExEqkf5m14) | 3:13 |
 | 87 | [Taal Van De Liefde](https://open.spotify.com/track/1faubzmwlpvAyZU5MulK7C) | [Youri Sprenkels](https://open.spotify.com/artist/5ugNyYv2m6GxoPgOGwvmzR) | [Taal Van De Liefde](https://open.spotify.com/album/2MkX7Sn05uc60u99Hcmelx) | 2:31 |
 
-Snapshot ID: `AAAAAOYHqUr1PZtiNKnaSwHEVKf/lsW+`
+Snapshot ID: `AAAAAPh6uEqxAF8hUHbIeNedxXDaL34D`

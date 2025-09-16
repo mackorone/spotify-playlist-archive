@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 78944,
+  "num_followers": 78955,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAADN9ffFTak+VF7WmzwZyYRX",
+  "snapshot_id": "aMYFgAAAAAC44zWYWTwQsweB5Kb8SWML",
   "tracks": [
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 32439,
-      "name": "Tear Down the Walls",
-      "url": "https://open.spotify.com/track/16KqJSk6x8JWtcRrUQUiWT"
+      "duration_ms": 215800,
+      "name": "End of the Line",
+      "url": "https://open.spotify.com/track/3cOcIZjwVIJeVqKVUA5WaG"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covered In Blood",
-        "url": "https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 285213,
-      "name": "Shout - cover version",
-      "url": "https://open.spotify.com/track/4iXZ643ujlB8soiF34XTZG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rise of the Tyrant",
         "url": "https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl"
       },
@@ -747,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthems of Rebellion",
-        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
+        "name": "Covered In Blood",
+        "url": "https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 215800,
-      "name": "End of the Line",
-      "url": "https://open.spotify.com/track/3cOcIZjwVIJeVqKVUA5WaG"
+      "duration_ms": 285213,
+      "name": "Shout - cover version",
+      "url": "https://open.spotify.com/track/4iXZ643ujlB8soiF34XTZG"
     },
     {
       "added_at": null,

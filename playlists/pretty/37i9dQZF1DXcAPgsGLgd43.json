@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 97625,
+  "num_followers": 97702,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,26 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "Olvidarte (feat. Emilia)",
-        "url": "https://open.spotify.com/album/6uanfipX4dnLaQ0PIvaj5K"
+        "name": "una noche con hugel",
+        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
       },
       "artists": [
         {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Olvidarte (feat. Emilia)",
-      "url": "https://open.spotify.com/track/7yif9yIhSCxhcPExFOktCp"
+      "duration_ms": 191475,
+      "name": "una noche con hugel",
+      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -867,26 +871,22 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "una noche con hugel",
-        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
+        "name": "Olvidarte (feat. Emilia)",
+        "url": "https://open.spotify.com/album/6uanfipX4dnLaQ0PIvaj5K"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
         },
         {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 191475,
-      "name": "una noche con hugel",
-      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
+      "duration_ms": 157500,
+      "name": "Olvidarte (feat. Emilia)",
+      "url": "https://open.spotify.com/track/7yif9yIhSCxhcPExFOktCp"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "Matadora (Radio Edit)",
-        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
-      },
-      "artists": [
-        {
-          "name": "Maahez",
-          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
-        },
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Matadora - Radio Edit",
-      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
-    },
-    {
-      "added_at": "2025-09-12 04:00:10",
-      "album": {
         "name": "La Buena Vida (feat. Tayson Kryss)",
         "url": "https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 137963,
       "name": "La Buena Vida (feat. Tayson Kryss)",
       "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
+    },
+    {
+      "added_at": "2025-09-12 04:00:10",
+      "album": {
+        "name": "Matadora (Radio Edit)",
+        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
+      },
+      "artists": [
+        {
+          "name": "Maahez",
+          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Matadora - Radio Edit",
+      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "Musica",
-        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Musica",
-      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
-    },
-    {
-      "added_at": "2025-09-12 04:00:10",
-      "album": {
         "name": "Dame De Eso",
         "url": "https://open.spotify.com/album/4WvuIoyZFw4jLWCUNcQXEy"
       },
@@ -1843,18 +1827,18 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "Toma Que Toma",
-        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
+        "name": "Musica",
+        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
       },
       "artists": [
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         }
       ],
-      "duration_ms": 227076,
-      "name": "Toma Que Toma",
-      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
+      "duration_ms": 177142,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -1871,6 +1855,22 @@
       "duration_ms": 142258,
       "name": "Marrakesh",
       "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
+    },
+    {
+      "added_at": "2025-09-12 04:00:10",
+      "album": {
+        "name": "Toma Que Toma",
+        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 227076,
+      "name": "Toma Que Toma",
+      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -1971,26 +1971,18 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "El Baile",
-        "url": "https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM"
+        "name": "Prendemos",
+        "url": "https://open.spotify.com/album/6q8kuIR3wtqvmU8R2nbtDP"
       },
       "artists": [
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Novak",
-          "url": "https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy"
-        },
-        {
-          "name": "Fonsa",
-          "url": "https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU"
+          "name": "Boris Way",
+          "url": "https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis"
         }
       ],
-      "duration_ms": 174880,
-      "name": "El Baile",
-      "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
+      "duration_ms": 138750,
+      "name": "Prendemos",
+      "url": "https://open.spotify.com/track/3VjDXDQHo85S8h6hfniLmb"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -2011,18 +2003,26 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "Prendemos",
-        "url": "https://open.spotify.com/album/6q8kuIR3wtqvmU8R2nbtDP"
+        "name": "El Baile",
+        "url": "https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM"
       },
       "artists": [
         {
-          "name": "Boris Way",
-          "url": "https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis"
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Novak",
+          "url": "https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy"
+        },
+        {
+          "name": "Fonsa",
+          "url": "https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU"
         }
       ],
-      "duration_ms": 138750,
-      "name": "Prendemos",
-      "url": "https://open.spotify.com/track/3VjDXDQHo85S8h6hfniLmb"
+      "duration_ms": 174880,
+      "name": "El Baile",
+      "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
     }
   ],
   "unique_name": "Latin House",

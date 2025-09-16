@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 196513,
+  "num_followers": 196539,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAAPis9HQyXHtIsDDBxy/L6u",
+  "snapshot_id": "aMYFgAAAAAAFpBTG7K3QrG/FmE3OuUUz",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pacific Daydream",
-        "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 195893,
-      "name": "Feels Like Summer",
-      "url": "https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 224353,
       "name": "Island in the Sun - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pacific Daydream",
+        "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 195893,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Little Bit of Love",
-        "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
+        "name": "Pinkerton - Deluxe Edition",
+        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 164359,
-      "name": "A Little Bit of Love",
-      "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
+      "duration_ms": 118653,
+      "name": "You Gave Your Love To Me Softly",
+      "url": "https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
       "duration_ms": 244800,
       "name": "Everybody Wants to Rule the World",
       "url": "https://open.spotify.com/track/3gEoKDn0uhb9qqLwC16tly"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pinkerton - Deluxe Edition",
-        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 118653,
-      "name": "You Gave Your Love To Me Softly",
-      "url": "https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e"
     },
     {
       "added_at": null,
@@ -515,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pinkerton - Deluxe Edition",
+        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 326293,
+      "name": "Tragic Girl",
+      "url": "https://open.spotify.com/track/2J4Q2WIx3572uZuTTNkCby"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Weezer (Teal Album)",
         "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Little Bit of Love",
+        "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 164359,
+      "name": "A Little Bit of Love",
+      "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Raditude (Deluxe)",
         "url": "https://open.spotify.com/album/6J2BJd3FQDDlh2ZjL6QIpF"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 208773,
       "name": "(If You're Wondering If I Want You To) I Want You To",
       "url": "https://open.spotify.com/track/09aDV0TC2RfWFU5IwZfIdG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pinkerton - Deluxe Edition",
-        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 326293,
-      "name": "Tragic Girl",
-      "url": "https://open.spotify.com/track/2J4Q2WIx3572uZuTTNkCby"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 172266,
-      "name": "Keep Fishin'",
-      "url": "https://open.spotify.com/track/1ljTFrbwY1ojpfd6bAmPTZ"
+      "duration_ms": 158592,
+      "name": "Burndt Jamb",
+      "url": "https://open.spotify.com/track/1ytYTPuKbW0NIXb2kgmSVq"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 158592,
-      "name": "Burndt Jamb",
-      "url": "https://open.spotify.com/track/1ytYTPuKbW0NIXb2kgmSVq"
+      "duration_ms": 172266,
+      "name": "Keep Fishin'",
+      "url": "https://open.spotify.com/track/1ljTFrbwY1ojpfd6bAmPTZ"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer (Teal Album)",
-        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
+        "name": "Pacific Daydream",
+        "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 214760,
-      "name": "Sweet Dreams (Are Made of This)",
-      "url": "https://open.spotify.com/track/0fjMXEy7uQIMtGlhHfzqXh"
+      "duration_ms": 177280,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/6ILpnOUHollfHp4xWH7nqV"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pacific Daydream",
-        "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 177280,
-      "name": "Happy Hour",
-      "url": "https://open.spotify.com/track/6ILpnOUHollfHp4xWH7nqV"
+      "duration_ms": 214760,
+      "name": "Sweet Dreams (Are Made of This)",
+      "url": "https://open.spotify.com/track/0fjMXEy7uQIMtGlhHfzqXh"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Will Be Alright In The End",
-        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
+        "name": "Hurley (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1FXneUyo0D1lnMZ0Nv3sw8"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 185160,
-      "name": "Back To The Shack",
-      "url": "https://open.spotify.com/track/42YgaJLCehufTbH2orwBHM"
+      "duration_ms": 194306,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4nyW57HDLKNziNAwl15jKz"
     }
   ],
   "unique_name": "This Is Weezer",

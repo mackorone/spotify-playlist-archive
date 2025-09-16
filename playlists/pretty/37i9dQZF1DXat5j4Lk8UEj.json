@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 484236,
+  "num_followers": 484181,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Galacticana",
-        "url": "https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg"
-      },
-      "artists": [
-        {
-          "name": "Strand of Oaks",
-          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
-        }
-      ],
-      "duration_ms": 240733,
-      "name": "Galacticana",
-      "url": "https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "My Morning Jacket",
         "url": "https://open.spotify.com/album/22cyxRwzn0PuQifvqZVIYl"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 222093,
       "name": "Love Love Love",
       "url": "https://open.spotify.com/track/4d2IWdIT5Xw8crEWGKWUU6"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Galacticana",
+        "url": "https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg"
+      },
+      "artists": [
+        {
+          "name": "Strand of Oaks",
+          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
+        }
+      ],
+      "duration_ms": 240733,
+      "name": "Galacticana",
+      "url": "https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "The Records Were Ours",
+        "url": "https://open.spotify.com/album/4BXUB780HfPgYfi9lerlR9"
+      },
+      "artists": [
+        {
+          "name": "Pierce Brothers",
+          "url": "https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB"
+        }
+      ],
+      "duration_ms": 185862,
+      "name": "The Records Were Ours",
+      "url": "https://open.spotify.com/track/4UdsKKXEUAFqufpanvpdsW"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "Love At Your Convenience",
         "url": "https://open.spotify.com/album/60a4GdYNRT135ejymVVsCt"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 257117,
       "name": "Hands On The Wheel (Feat. Particle Kid) (Recorded at Luck Reunion) - Spotify Singles",
       "url": "https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "The Records Were Ours",
-        "url": "https://open.spotify.com/album/4BXUB780HfPgYfi9lerlR9"
-      },
-      "artists": [
-        {
-          "name": "Pierce Brothers",
-          "url": "https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB"
-        }
-      ],
-      "duration_ms": 185862,
-      "name": "The Records Were Ours",
-      "url": "https://open.spotify.com/track/4UdsKKXEUAFqufpanvpdsW"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Pain Shifter",
         "url": "https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 224000,
       "name": "Pain Shifter",
       "url": "https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM"
+      },
+      "artists": [
+        {
+          "name": "Willy Mason",
+          "url": "https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Outwit the Devil",
+      "url": "https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "Home Truths",
         "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 200133,
       "name": "Suffering",
       "url": "https://open.spotify.com/track/5rWxb6qPOhz2qpYDLL7D0H"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM"
-      },
-      "artists": [
-        {
-          "name": "Willy Mason",
-          "url": "https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Outwit the Devil",
-      "url": "https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c"
     },
     {
       "added_at": "2025-02-07 05:00:32",

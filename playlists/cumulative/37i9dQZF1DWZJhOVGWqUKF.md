@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Smash Into Pieces
 
-653 songs - 1 day 13 hr 9 min
+654 songs - 1 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Make Me A Martyr](https://open.spotify.com/track/6x8YTiGS4Sa5kbkYK0osG8) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Make Me A Martyr](https://open.spotify.com/album/4EJd4T4OTp8P0YPjW2h569) | 3:55 | 2025-05-08 |  |
 | [Make Me Feel Alright](https://open.spotify.com/track/5MutMUzBiao3LC3JYJQTmR) | [Lost in Hollywood](https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP), [SETYØURSAILS](https://open.spotify.com/artist/01AynfThIqLCNevTuPSoYk), [Jules Mitch](https://open.spotify.com/artist/4HY3x6qkNiRgsiBcpfrDrU) | [Make Me Feel Alright](https://open.spotify.com/album/4ngSbRrhcWDXpD9ou6KAvM) | 3:23 | 2024-11-07 | 2024-11-15 |
 | [Make Sure It Hurts](https://open.spotify.com/track/2D8zMxyIC6Mv3a7LoLcIHZ) | [ACCVSED](https://open.spotify.com/artist/4GeOwEvBs2fJYEIjWrxvZS) | [Make Sure It Hurts](https://open.spotify.com/album/5kcoWzL2Sy1X8ZneUCFARy) | 4:14 | 2025-07-03 | 2025-07-11 |
+| [Making Love to Morgan Wallen](https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Making Love to Morgan Wallen](https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM) | 4:09 | 2025-09-15 |  |
 | [Man Made of Meat](https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Man Made of Meat](https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo) | 3:09 | 2025-01-23 | 2025-02-28 |
 | [Man On A Mission](https://open.spotify.com/track/6fJld32axCH9Aw7XlVLoGG) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Man On A Mission](https://open.spotify.com/album/3gXvlO1pTEgCQlQ3O3oOPJ) | 3:31 | 2025-06-19 | 2025-09-13 |
 | [Man or Machine](https://open.spotify.com/track/67qbDFm5D85FW1SdQdR3zJ) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Man or Machine](https://open.spotify.com/album/47PTlWJZ63K44apcONGkjo) | 2:54 | 2025-02-20 | 2025-05-12 |
@@ -577,7 +578,7 @@
 | [The End](https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:43 | 2024-06-27 | 2024-07-05 |
 | [The End](https://open.spotify.com/track/0ipPF9Uj1fJIc0TFCmP5Dk) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Benjamin Joseph](https://open.spotify.com/artist/00IBJsix9OYvxpmk8k0p86) | [ATMOSPHERICS](https://open.spotify.com/album/19KjIoRQgwRg3QdfbSLsiu) | 3:46 | 2025-02-13 | 2025-03-07 |
 | [The End](https://open.spotify.com/track/6O07S5jyxG1e2hri4pcIjY) | [Mammoth](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [The End](https://open.spotify.com/album/6pktSS5acVnqbT5VNnRagN) | 3:33 | 2025-05-22 | 2025-08-09 |
-| [The Fatalist](https://open.spotify.com/track/3FrT1TD82QxLtRIn5IinK4) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Pink Moon](https://open.spotify.com/album/7H14q1uaSsDDgSV0rn3W5c) | 2:50 | 2025-09-11 |  |
+| [The Fatalist](https://open.spotify.com/track/3FrT1TD82QxLtRIn5IinK4) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Pink Moon](https://open.spotify.com/album/7H14q1uaSsDDgSV0rn3W5c) | 2:50 | 2025-09-11 | 2025-09-16 |
 | [The Fire](https://open.spotify.com/track/0bQPdpUn0T5bZyMDUiqvDq) | [Lost in Hollywood](https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP) | [The Fire](https://open.spotify.com/album/0YPDBkdEXbnwlqNRyAugqD) | 3:40 | 2025-05-30 | 2025-06-06 |
 | [the garden](https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [the garden](https://open.spotify.com/album/4iHuwtCHVOlMC4u09kbIYg) | 3:23 | 2024-10-17 | 2025-03-14 |
 | [The Great Unknown](https://open.spotify.com/track/76Pd81B06OSC8AuuDWxsEQ) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Great Unknown](https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP) | 3:01 | 2025-07-10 |  |

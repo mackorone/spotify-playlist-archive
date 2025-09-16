@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Gabriel EMC
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,648 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,661 likes - 100 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 9 | [XLQF](https://open.spotify.com/track/527KNSwY7GFLgNazfV6lyG) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj) | [XLQF](https://open.spotify.com/album/47MF1tLmDPdcTBABZ8R8Vt) | 2:39 |
 | 10 | [Ten Cuidado](https://open.spotify.com/track/4MDR2Kr8bwuuZpGB4kmGoj) | [Dj Chiqui Dubs](https://open.spotify.com/artist/26C0KVcIbuJQdOP2r9MYin), [Jeison Vega 507](https://open.spotify.com/artist/21OOqju9klBJPghcTpsLKf) | [Ten Cuidado](https://open.spotify.com/album/7MSXUjvDATqMGIHNm5wtUT) | 3:05 |
 | 11 | [CARTAGENA](https://open.spotify.com/track/5PfhsUM1oFLszzFO449aC7) | [CSHALOM](https://open.spotify.com/artist/5SnxvQmYVN1duOHPQpequL), [ANMILY](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT), [Zoprano](https://open.spotify.com/artist/2mdcXhVmknCqnJU4M5ofyl) | [CARTAGENA](https://open.spotify.com/album/1LKiiYDppMPV3xQCn9W65N) | 2:44 |
-| 12 | [El Verbo](https://open.spotify.com/track/3nCGMi3Qm0EGMI386ai9GR) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [Daffy El Audio](https://open.spotify.com/artist/7cb0BxBtbvOtgWH3tS6MRJ) | [El Verbo](https://open.spotify.com/album/7bc1EWe4XQQSvS7pfsvYJc) | 3:55 |
+| 12 | [El Verbo](https://open.spotify.com/track/3nCGMi3Qm0EGMI386ai9GR) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [El Verbo](https://open.spotify.com/album/7bc1EWe4XQQSvS7pfsvYJc) | 2:53 |
 | 13 | [Canva](https://open.spotify.com/track/4rnO5SvmbuBlWsnJVPbL7O) | [Wolandia](https://open.spotify.com/artist/46eL7q4TISdKjN2px64rhu), [Temperamento](https://open.spotify.com/artist/4Dl7Unc1cpMBTMi3B71dij), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM) | [L.E.Y.E.N.D.A.S\. 2](https://open.spotify.com/album/6OSL3LRGJXqA7YWrGKdLmh) | 3:57 |
 | 14 | [No Es Lo Que Tienes \(Sino Lo Que Eres\)](https://open.spotify.com/track/2PTyOX0NxtFDBdCAhg7lhG) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG) | [No Es Lo Que Tienes \(Sino Lo Que Eres\)](https://open.spotify.com/album/2jlbGelTNROvIusxCe0NF7) | 3:37 |
 | 15 | [Nada Más](https://open.spotify.com/track/372IuMYQkyvcbyzjIdfofE) | [Iliana Beilis](https://open.spotify.com/artist/0M7sT6Nx1RcqaethibxHYs), [Pedro Morales](https://open.spotify.com/artist/1w8DsbCxxVTd2ostVSHtIR) | [Nada Más](https://open.spotify.com/album/5taXILRpDy1JaL7O7JAzAK) | 3:27 |

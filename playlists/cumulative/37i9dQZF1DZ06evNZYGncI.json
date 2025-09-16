@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Slipknot (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/24uSmiCdGfRf5MReMeWvmO"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139093,
+      "name": "Interloper - Demo",
+      "url": "https://open.spotify.com/track/1ALi012D8adZSDeX2nQ9ZE"
+    },
+    {
+      "album": {
         "name": ".5: The Gray Chapter (Special Edition)",
         "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
       },

@@ -2,9 +2,9 @@
 
 ### [afro&b ](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> Intersection of R&B and afrobeats\. Cover: Tay Iwar
+> Intersection of R&B and afrobeats\. Cover: Maya Amolo
 
-476 songs - 1 day 1 hr 3 min
+477 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Hivyo](https://open.spotify.com/track/7I0gVer3b94T9aoRSRqGEw) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Hivyo](https://open.spotify.com/album/0DDhl9xlbotJWZ7yihik6B) | 3:18 | 2023-03-24 | 2023-03-31 |
 | [Hold Me Tight](https://open.spotify.com/track/3nledyW6TPc8hfXeDi8LNK) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Hold Me Tight](https://open.spotify.com/album/0B3sKMBkPgz7g8yXZZxMDz) | 3:19 | 2024-04-26 | 2024-08-16 |
 | [Hold You Down](https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Hold You Down](https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0) | 2:38 | 2024-04-19 | 2025-07-11 |
+| [Hollon](https://open.spotify.com/track/7n2nsap8jzTrmMejzm3eyx) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [The Sweetest Time](https://open.spotify.com/album/0kHP5lmMGgaPNS4tI8mwxX) | 2:29 | 2025-09-15 |  |
 | [Home](https://open.spotify.com/track/7l0EYGVhGZcuLyphccTcp0) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Home](https://open.spotify.com/album/7qZiuy7KLt5j5BXrs76wo3) | 2:17 | 2022-10-28 | 2022-12-10 |
 | [Honest](https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f) | [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B) | [+243](https://open.spotify.com/album/6HtnERLFPPLFNQGy3RoZGK) | 3:14 | 2024-01-26 | 2025-01-10 |
 | [Honest](https://open.spotify.com/track/2vnNYl3UDY9Grubs0VAK5m) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:02 | 2023-02-16 | 2024-04-19 |
@@ -480,7 +481,7 @@
 | [You're Stuck \(feat\. Summer Walker\)](https://open.spotify.com/track/4kCfyoPOYHqev60dmNPXzF) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 4:04 | 2024-11-15 |  |
 | [You4Me](https://open.spotify.com/track/6HGL76EoYOTR2ETqucHxPA) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [You4Me](https://open.spotify.com/album/0mpmJp3sKifYKvOPiAcjtL) | 2:37 | 2025-04-25 |  |
 | [Your Dream](https://open.spotify.com/track/5adGSGSECey89gMxhbm1tZ) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [NGABO](https://open.spotify.com/artist/73wyT5lSevGrU1bQhuDYdZ) | [Your Dream](https://open.spotify.com/album/0Gpl5YL9YKbvGbDe3xuGks) | 3:38 | 2022-04-21 | 2022-09-02 |
-| [Your Loss](https://open.spotify.com/track/0ohCXfOYVw5om6ZK26LGXd) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Son of Chike](https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W) | 2:47 | 2024-07-19 |  |
+| [Your Loss](https://open.spotify.com/track/0ohCXfOYVw5om6ZK26LGXd) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Son of Chike](https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W) | 2:47 | 2024-07-19 | 2025-09-16 |
 | [Your Matter](https://open.spotify.com/track/14c9HXha95gFZVJiEgRIZ0) | [Tomi Owó](https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Your Matter](https://open.spotify.com/album/0iqTeEgr6priRCUW7kmKhj) | 3:11 | 2024-05-16 | 2025-08-30 |
 | [Zero](https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Zero](https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc) | 2:56 | 2024-02-09 | 2025-02-14 |
 | [Ọ̀rọ̀ Àṣẹ](https://open.spotify.com/track/648h77piOsFhlzniWDHqBo) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Ọ̀rọ̀ Àṣẹ](https://open.spotify.com/album/2OPQRNJ1Mcon7wWKMlNVab) | 4:03 | 2024-06-21 |  |

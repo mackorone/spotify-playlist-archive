@@ -1,13 +1,33 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 631224,
+  "num_followers": 631262,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAABy99mWENJw0+OAlY/n+hh+",
+  "snapshot_id": "aMYFgAAAAABn+qPn9+92asFGJVH3PH6Q",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Wanna Dance With Somebody (Who Loves Me)",
+        "url": "https://open.spotify.com/album/0QqUqMaNbFvY7iIihnDJZ4"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 218006,
+      "name": "I Wanna Dance With Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/4uAnA8nZAgl1bASMQTqnJI"
+    },
     {
       "added_at": null,
       "album": {
@@ -331,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wish You Love: More From The Bodyguard",
-        "url": "https://open.spotify.com/album/3qEUTNGTeDXwYwSl3v2hNV"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "I Will Always Love You - Film Version",
-      "url": "https://open.spotify.com/track/6XQz4HwNIQZ652JFa7putY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Look To You",
         "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
       },
@@ -359,6 +363,22 @@
       "duration_ms": 265613,
       "name": "I Look to You",
       "url": "https://open.spotify.com/track/1rAESNsSXvXpJh9hCjgHVX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Wish You Love: More From The Bodyguard",
+        "url": "https://open.spotify.com/album/3qEUTNGTeDXwYwSl3v2hNV"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 274693,
+      "name": "I Will Always Love You - Film Version",
+      "url": "https://open.spotify.com/track/6XQz4HwNIQZ652JFa7putY"
     },
     {
       "added_at": null,
@@ -499,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm Your Baby Tonight",
+        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 342666,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/6LuRPg5tHDwcyXvEvrtVxP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -515,22 +551,6 @@
       "duration_ms": 362758,
       "name": "Hold Me (with Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/00W1p1EeD140DHSrVjhhlR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Your Baby Tonight",
-        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 342666,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/6LuRPg5tHDwcyXvEvrtVxP"
     },
     {
       "added_at": null,
@@ -671,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+        "name": "Whitney The Greatest Hits",
+        "url": "https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP"
       },
       "artists": [
         {
@@ -680,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 256200,
-      "name": "You're Still My Man",
-      "url": "https://open.spotify.com/track/2csRQWI7A2FjLYBQBiAIoi"
+      "duration_ms": 281066,
+      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/5s2RMsTabBqpOSZb86vPJt"
     },
     {
       "added_at": null,
@@ -719,6 +739,22 @@
       "duration_ms": 260293,
       "name": "You'll Never Stand Alone",
       "url": "https://open.spotify.com/track/3KFbjIFQxMbOKdZ4S3lv4S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 256200,
+      "name": "You're Still My Man",
+      "url": "https://open.spotify.com/track/2csRQWI7A2FjLYBQBiAIoi"
     },
     {
       "added_at": null,
@@ -779,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Dream Duets",
+        "url": "https://open.spotify.com/album/3Fay2wEWeAFkBIJgDWlUCQ"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 234480,
+      "name": "I Believe In You And Me",
+      "url": "https://open.spotify.com/track/6WG0YDkzvgJyHDwulZPCTv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm Your Baby Tonight",
         "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
       },
@@ -802,63 +858,15 @@
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 281066,
-      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
-      "url": "https://open.spotify.com/track/5s2RMsTabBqpOSZb86vPJt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Dream Duets",
-        "url": "https://open.spotify.com/album/3Fay2wEWeAFkBIJgDWlUCQ"
-      },
-      "artists": [
-        {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
         },
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Jermaine Jackson",
+          "url": "https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P"
         }
       ],
-      "duration_ms": 234480,
-      "name": "I Believe In You And Me",
-      "url": "https://open.spotify.com/track/6WG0YDkzvgJyHDwulZPCTv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Whitney",
-        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 221866,
-      "name": "You Light Up My Life",
-      "url": "https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 312506,
-      "name": "Jesus Loves Me",
-      "url": "https://open.spotify.com/track/77ld03vIqCjakQkIQBPTVA"
+      "duration_ms": 260000,
+      "name": "If You Say My Eyes Are Beautiful (with Jermaine Jackson)",
+      "url": "https://open.spotify.com/track/0xUUGElClB0LXZgdmavavN"
     }
   ],
   "unique_name": "This Is Whitney Houston",

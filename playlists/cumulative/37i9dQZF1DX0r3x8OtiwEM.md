@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-734 songs - 2 day 21 hr 59 min
+735 songs - 2 day 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,7 @@
 | [Let It Go](https://open.spotify.com/track/276FkJLreObBSwXh1PXgFc) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Ren Ocean](https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0) | [Let It Go](https://open.spotify.com/album/08O8FVFHNF4yPLkAWo1xOj) | 2:58 | 2025-01-10 | 2025-05-25 |
 | [Let Me Come To Life](https://open.spotify.com/track/7gKFpRLqRsIu0s5Y7lbguY) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Let Me Come To Life](https://open.spotify.com/album/2Dvosx9vaLx885IGM9ncfY) | 5:35 | 2025-01-31 |  |
 | [Lieblingsmensch \- Edit](https://open.spotify.com/track/6CXFxsx3VCNLwRdOn9cXKp) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Lieblingsmensch \(Edit\)](https://open.spotify.com/album/0a7nVpT905t2mcpvMVuxuL) | 3:40 | 2020-01-14 | 2020-07-18 |
-| [Light up my dark](https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Light up my dark](https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA) | 3:28 | 2024-07-26 |  |
+| [Light up my dark](https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Light up my dark](https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA) | 3:28 | 2024-07-26 | 2025-09-16 |
 | [Like A Dream](https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Like A Dream](https://open.spotify.com/album/2g6OYPEIP9D20JF6MRxElp) | 4:13 | 2024-08-30 |  |
 | [Lilith](https://open.spotify.com/track/6yx9zRTFM0zvz9l1YBjnNj) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Lilith](https://open.spotify.com/album/4RDyC7MPQMpyHEVm584kQD) | 8:37 | 2019-09-27 | 2021-06-04 |
 | [Linked](https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Linked](https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR) | 6:09 | 2019-08-06\* | 2021-05-27 |
@@ -476,6 +476,7 @@
 | [Paradise \(Feat\. Jem Cooke\)](https://open.spotify.com/track/6IB7ACtFpfxFbUR06pA7Xc) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Life Through A Different Lens](https://open.spotify.com/album/4qkVLM1dHnydhcWUOg6U4A) | 3:36 | 2025-05-30 | 2025-07-13 |
 | [Participants](https://open.spotify.com/track/2nNO3STc1GprRP3GaAxmJA) | [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX) | [Participants](https://open.spotify.com/album/1hscOD8se5XWimHdIxPBos) | 6:20 | 2021-01-18 | 2022-07-22 |
 | [Patience](https://open.spotify.com/track/07TQqNkdjKRu4KpqaOspxw) | [Seth Schwarz](https://open.spotify.com/artist/0zUt9PboFsELRcvO7UWarr), [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Patience](https://open.spotify.com/album/1qXxGff2mX9iA6uatLEbno) | 8:04 | 2020-01-04 | 2022-04-18 |
+| [Perfect World](https://open.spotify.com/track/6Vex03Ez7kQXPAFkNK9f3X) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Perfect World](https://open.spotify.com/album/58vg9RxplJ2qOxI5FKEnOn) | 4:01 | 2025-09-12 |  |
 | [Personal](https://open.spotify.com/track/6jvsWLgTbl5ljgAu3YJDZB) | [Dennis Ihm](https://open.spotify.com/artist/7HeP0FF26f7xkeo3i8ST0O) | [Obsession](https://open.spotify.com/album/3Je3ooYy7vlmwbKceR4ghD) | 5:58 | 2019-12-04 | 2020-02-01 |
 | [Petroleum \- Fabio Vanore Remix](https://open.spotify.com/track/1tdQXdkWEp1OreYbLqciFi) | [Kris Davis](https://open.spotify.com/artist/2AFYG90qx36vqWXgGxhFWY), [Fabio Vanore](https://open.spotify.com/artist/19WfpuODWsvrlHGvZYkigs) | [Petroleum \(Fabio Vanore Remix\)](https://open.spotify.com/album/0RzfoJA1VVeYENvFuXLsUq) | 9:04 | 2023-01-13 | 2023-09-16 |
 | [Phaeton](https://open.spotify.com/track/3YBjtUm8Q6cqd5kaKRGEJN) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Phaeton / Silhouettes](https://open.spotify.com/album/4jiIwobxyTYe4oGjheDxQj) | 6:54 | 2019-08-06\* | 2019-12-06 |

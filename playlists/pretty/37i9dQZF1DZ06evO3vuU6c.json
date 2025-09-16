@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1432247,
+  "num_followers": 1432257,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAADlK/XNUar8GOswbAJPffzp",
+  "snapshot_id": "aMYFgAAAAAAGM+XkYI5bGQ7XpKdtPS8M",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 252320,
-      "name": "Helium",
-      "url": "https://open.spotify.com/track/4S6fv0puLCsfYjyBTPDb9k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 213706,
       "name": "Genius (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/4xigPf2sigSPmuFH3qCelB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 252320,
+      "name": "Helium",
+      "url": "https://open.spotify.com/track/4S6fv0puLCsfYjyBTPDb9k"
     },
     {
       "added_at": null,
@@ -259,18 +259,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gimme Love",
-        "url": "https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z"
+        "name": "Hass Hass",
+        "url": "https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC"
       },
       "artists": [
         {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Greg Kurstin",
+          "url": "https://open.spotify.com/artist/1DRxgeCPD8uIgKMtFb3Egz"
         }
       ],
-      "duration_ms": 177921,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
+      "duration_ms": 153016,
+      "name": "Hass Hass",
+      "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
     },
     {
       "added_at": null,
@@ -303,26 +311,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hass Hass",
-        "url": "https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC"
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z"
       },
       "artists": [
         {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Greg Kurstin",
-          "url": "https://open.spotify.com/artist/1DRxgeCPD8uIgKMtFb3Egz"
         }
       ],
-      "duration_ms": 153016,
-      "name": "Hass Hass",
-      "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
+      "duration_ms": 177921,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
     },
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 250133,
+      "name": "Elastic Heart - Piano Version",
+      "url": "https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 217906,
       "name": "Move Your Body - Alan Walker Remix",
       "url": "https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1000 Forms Of Fear (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 250133,
-      "name": "Elastic Heart - Piano Version",
-      "url": "https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B"
     },
     {
       "added_at": null,
@@ -535,30 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's Life (feat. Mac Miller & Sia)",
-        "url": "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE"
-      },
-      "artists": [
-        {
-          "name": "88-Keys",
-          "url": "https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 202390,
-      "name": "That's Life (feat. Mac Miller & Sia)",
-      "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/291IqGpnrkekWf8hn0xB3x"
       },
@@ -579,6 +555,30 @@
       "duration_ms": 337800,
       "name": "Destiny - Extended Mix",
       "url": "https://open.spotify.com/track/4ECvY5smtvyK1HkipYICAI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That's Life (feat. Mac Miller & Sia)",
+        "url": "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE"
+      },
+      "artists": [
+        {
+          "name": "88-Keys",
+          "url": "https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 202390,
+      "name": "That's Life (feat. Mac Miller & Sia)",
+      "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance Alone",
-        "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 172246,
-      "name": "Dance Alone",
-      "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "San Andreas (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2dI9CqM7hsrg2g8HbrnAES"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 210613,
       "name": "Big Girls Cry",
       "url": "https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance Alone",
+        "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 172246,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
     },
     {
       "added_at": null,
@@ -763,30 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Again",
-        "url": "https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Bang My Head (feat. Sia & Fetty Wap)",
-      "url": "https://open.spotify.com/track/53Y0kdCa1CZ9gRqEuknfwy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1000 Forms Of Fear",
         "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
       },
@@ -819,26 +795,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "STREET X STREET (LAFC)",
-        "url": "https://open.spotify.com/album/0JRb0dJsfPJtDJ5MIIpGZF"
+        "name": "Listen Again",
+        "url": "https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU"
       },
       "artists": [
         {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        },
-        {
-          "name": "DJ Flict",
-          "url": "https://open.spotify.com/artist/5kGccnf4y59UqCEMOPzAXX"
         }
       ],
-      "duration_ms": 173142,
-      "name": "STREET X STREET",
-      "url": "https://open.spotify.com/track/0TTeiR2MFoLQvcI8kdGx65"
+      "duration_ms": 193333,
+      "name": "Bang My Head (feat. Sia & Fetty Wap)",
+      "url": "https://open.spotify.com/track/53Y0kdCa1CZ9gRqEuknfwy"
     },
     {
       "added_at": null,
@@ -859,6 +835,30 @@
       "duration_ms": 177800,
       "name": "Floating Through Space",
       "url": "https://open.spotify.com/track/2AceGjiX9isUbXmMZa0Dl1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STREET X STREET (LAFC)",
+        "url": "https://open.spotify.com/album/0JRb0dJsfPJtDJ5MIIpGZF"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        },
+        {
+          "name": "DJ Flict",
+          "url": "https://open.spotify.com/artist/5kGccnf4y59UqCEMOPzAXX"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "STREET X STREET",
+      "url": "https://open.spotify.com/track/0TTeiR2MFoLQvcI8kdGx65"
     },
     {
       "added_at": null,

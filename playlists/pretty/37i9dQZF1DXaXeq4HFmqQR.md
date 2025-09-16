@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Seamoon en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,819 likes - 35 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,818 likes - 35 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 27 | [POPPER!](https://open.spotify.com/track/41P9Z83VHtkpVYfpmDlkAA) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 1:50 |
 | 28 | [acaramelada](https://open.spotify.com/track/1vWPNJvyXX2H4tazdPH9C0) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [acaramelada](https://open.spotify.com/album/6FdqOoAN0NF58EjVnclJc9) | 2:34 |
 | 29 | [Volar](https://open.spotify.com/track/6TTrUdM6iRVzeruzdfC9yZ) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Ober](https://open.spotify.com/artist/1FBafj16EUL4L7I4SmCKUC), [BABYBOOM](https://open.spotify.com/artist/0kpa0ItmkgbH1HlSmyAosL) | [Volar](https://open.spotify.com/album/6Nehd9XhkZFYsIJwuOUWEH) | 3:29 |
-| 30 | [POSEÍDA](https://open.spotify.com/track/4DTKzlDiEUIp2RdxJzP1kn) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [POSEÍDA](https://open.spotify.com/album/7DlNqWmZwZEJf4iFYLv5rB) | 3:52 |
-| 31 | [ESTAMINA](https://open.spotify.com/track/72hfagNY0Vdya31dliW3LE) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [ESTAMINA](https://open.spotify.com/album/7BVZytJvPtxkIoZ8P6f89x) | 2:43 |
+| 30 | [ESTAMINA](https://open.spotify.com/track/72hfagNY0Vdya31dliW3LE) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [ESTAMINA](https://open.spotify.com/album/7BVZytJvPtxkIoZ8P6f89x) | 2:43 |
+| 31 | [POSEÍDA](https://open.spotify.com/track/4DTKzlDiEUIp2RdxJzP1kn) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [POSEÍDA](https://open.spotify.com/album/7DlNqWmZwZEJf4iFYLv5rB) | 3:52 |
 | 32 | [FICA PAPI](https://open.spotify.com/track/6qFJRXEdL4DYDhle6D2hsq) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [FICA PAPI](https://open.spotify.com/album/1fiww3hEVjJUeU2tL43sFO) | 2:25 |
 | 33 | [inmortal](https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [inmortal](https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu) | 2:35 |
 | 34 | [Triste y Linda](https://open.spotify.com/track/2NPJMuB6vJV7aqinVvjO42) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Kuina](https://open.spotify.com/artist/1DMi0WHTanCsxrukwSC0R1) | [Triste, Linda y Bellaka: El Álbum](https://open.spotify.com/album/6HlyIfhKuYTdTN79aYvpXQ) | 2:44 |
-| 35 | [CIERRO LOS OJOS](https://open.spotify.com/track/3eTm0jYwUO0tFAPDoWxKU3) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANNA Vol2\. EL OJO DE MI FRENTE](https://open.spotify.com/album/1bwYAzwTb5drWveYL6eXyU) | 4:18 |
+| 35 | [Quizás](https://open.spotify.com/track/79ZxTFIe1mM6qKLL2uBEmc) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Quizás](https://open.spotify.com/album/7vjHz9VqvjJJGUHgO5DGpu) | 4:08 |
 
 Snapshot ID: `AAAAANDJztCE/EmfREyo6kEFEqn5Hp9I`

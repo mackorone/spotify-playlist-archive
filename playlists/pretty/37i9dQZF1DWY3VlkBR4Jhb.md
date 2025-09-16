@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3VlkBR4Jhb.md) - [plain]
 
 > The essential works of Franz Schubert.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,030 likes - 71 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,063 likes - 71 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3VlkBR4Jhb.md) - [plain]
 | 70 | [Octet in F Major, D\. 803: IV\. Andante with variations](https://open.spotify.com/track/3qr6Q9ud3XL43pFruOihRg) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Budapest Schubert Ensemble](https://open.spotify.com/artist/4Cb7qgMpJk0zG7onRBPG23) | [Schubert: Octets, D\. 803 and D\. 72](https://open.spotify.com/album/5Ye65cIA6JiMumNbX3TLZw) | 11:46 |
 | 71 | [String Quartet No\. 13 in A Minor, Op\. 29 No\. 1, D\. 804: I\. Allegro ma non troppo](https://open.spotify.com/track/3Kl3KMDm4W0lbm4XJYy6Zy) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Quatuor Mosaïques](https://open.spotify.com/artist/36FfcyHQ19PvmvFnq8q7Ab) | [Schubert: String Quartets Nos\. 10 & 13](https://open.spotify.com/album/6Si7hQNydUkWUrXrIPhoCi) | 14:58 |
 
-Snapshot ID: `AAAAAGG8H5cJTqHzkgGZaTyn2d2YoSC9`
+Snapshot ID: `AAAAABg2lbFAb+41zuYWODXUOzh2+rHZ`

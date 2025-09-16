@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 
 > Los éxitos del Dembow\. Portada: Lomiiel
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,986 likes - 50 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,227 likes - 50 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

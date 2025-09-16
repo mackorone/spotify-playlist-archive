@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,280 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,319 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 34 | [Ambarsare De Papad](https://open.spotify.com/track/49bXk2lnRjY3C0myxuLXax) | [Dolly Guleria](https://open.spotify.com/artist/28nSGXatO17yTeB0JYoCmQ) | [Nikka Jeha](https://open.spotify.com/album/19ItxZADz3IyG1J177PgqO) | 5:14 |
 | 35 | [Mirza Saiba](https://open.spotify.com/track/6gveVm22PaA21mFIYZNaJb) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Modern Punjab](https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R) | 4:45 |
 | 36 | [Lok Boliyan](https://open.spotify.com/track/3GPib79uCC9JiaBRGSiaU4) | [Pal Singh Samaon](https://open.spotify.com/artist/2Pgn0xL8DGJifVaYpNS5hu), [Harinder Hundal](https://open.spotify.com/artist/2uOb2bGHA6O4ERId5WWAGm) | [Lok Boliyan](https://open.spotify.com/album/1Msqy9vME2sjOzJVvkfWAR) | 9:26 |
-| 37 | [Laung Gawacha](https://open.spotify.com/track/3li9nyEtElQe78EScNYAN2) | [Japleen Kaur](https://open.spotify.com/artist/010fm02ajeSECswkJeEGMK), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Laung Gawacha](https://open.spotify.com/album/6eciLqlcTTkfXU6p9gB8wa) | 3:00 |
-| 38 | [Baajre Da Sitta](https://open.spotify.com/track/6iU9onGsKnw73AO53t9QL2) | [Supriya Soni](https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22), [Vanshika Joshi](https://open.spotify.com/artist/5rK16uUuwINIIbpIkQCDoE) | [Mitti \- Folk Vibes Of Punjab](https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj) | 1:57 |
+| 37 | [Baajre Da Sitta](https://open.spotify.com/track/6iU9onGsKnw73AO53t9QL2) | [Supriya Soni](https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22), [Vanshika Joshi](https://open.spotify.com/artist/5rK16uUuwINIIbpIkQCDoE) | [Mitti \- Folk Vibes Of Punjab](https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj) | 1:57 |
+| 38 | [Laung Gawacha](https://open.spotify.com/track/3li9nyEtElQe78EScNYAN2) | [Japleen Kaur](https://open.spotify.com/artist/010fm02ajeSECswkJeEGMK), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Laung Gawacha](https://open.spotify.com/album/6eciLqlcTTkfXU6p9gB8wa) | 3:00 |
 | 39 | [Challa](https://open.spotify.com/track/6kXvZYkGp4dpYOuKfvIEF7) | [Yasir Hussain](https://open.spotify.com/artist/2DtPjAGsvP7LPIMtj0Co1k), [Prabh Grewal](https://open.spotify.com/artist/0gumUSJckNLBtBELSDsWwn) | [Challa](https://open.spotify.com/album/3sENj2hG8yOGtkLHe82MBA) | 3:09 |
 | 40 | [Kut Kut Bajra](https://open.spotify.com/track/6ThkyuzMcUjfcw5YiTSLQt) | [Radhika Chopra](https://open.spotify.com/artist/6jL2jHx6iow2cecHrKmPQD) | [The Great Big Punjabi Wedding](https://open.spotify.com/album/2fJWqWcdO7pL0yQF9rIrg1) | 5:29 |
 | 41 | [Jutti Kasuri](https://open.spotify.com/track/6MgpNbDOfA93e1YusNgGnl) | [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Jutti Kasuri](https://open.spotify.com/album/4RTIs4jzPWT8vA4ZEtHowD) | 3:16 |

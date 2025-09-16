@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 
 > Reggaeton pero al sabor de Cristo! Foto: Madiel Lara
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,522 likes - 74 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,556 likes - 74 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 | 46 | [Won't Let Me Down](https://open.spotify.com/track/6hdr5CZYViKUszTACW3pZB) | [DeAngelo](https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE), [Eliel B](https://open.spotify.com/artist/4PzhRJwZpGGxbmIiKpBvBm) | [Won’t Let Me Down](https://open.spotify.com/album/1Ai7aNekY1U0O4BgIQlq31) | 2:46 |
 | 47 | [TE QUIERO A MI LAU <3](https://open.spotify.com/track/633xpklRiB5wdid6tmzBdQ) | [Pauneto](https://open.spotify.com/artist/1cs6ODU6Bu1cxX7nqsBC7W) | [TE QUIERO A MI LAU <3](https://open.spotify.com/album/77AGAXhsDQPkj37PypBlne) | 3:24 |
 | 48 | [Demasiado Amor](https://open.spotify.com/track/4r3FQt7P5A4NL40wUJF25Z) | [Andy Alemany](https://open.spotify.com/artist/40dnXSgTz12SdzNYNGTb8Q), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7), [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv) | [Demasiado Amor](https://open.spotify.com/album/5NES5Et2zjK1Yk6tEXDfyW) | 3:21 |
-| 49 | [Tu Eres Mi Todo](https://open.spotify.com/track/6I209lcw5sv4mHWVF6LpSp) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Alegra Garcia](https://open.spotify.com/artist/3FPODey2RtrKQ3nhtweA4m) | [Tu Eres Mi Todo](https://open.spotify.com/album/5B7ejkLHIwIxdOjwNVF7Bn) | 2:39 |
+| 49 | [Tu Eres Mi Todo](https://open.spotify.com/track/6I209lcw5sv4mHWVF6LpSp) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Alegra](https://open.spotify.com/artist/1C3L6i6BDPA8HxkzfVPqJs) | [Tu Eres Mi Todo](https://open.spotify.com/album/5B7ejkLHIwIxdOjwNVF7Bn) | 2:39 |
 | 50 | [Le Llego](https://open.spotify.com/track/0XQ4WOBvSjoqh1pWjBvLE3) | [Lenny Mora](https://open.spotify.com/artist/4vLYHxBZf0EcNaV8TRVb9i), [Yeniell](https://open.spotify.com/artist/0NfUDepBHPTyQBKWBmop91) | [Le Llego](https://open.spotify.com/album/17eUK5Q2KvADDnlvOtYePz) | 3:05 |
 | 51 | [FRÍO](https://open.spotify.com/track/4BX9IxeVjQWE4UXZC8nY2d) | [Rudy Torres](https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD), [Obedoyoque](https://open.spotify.com/artist/0ZV3RlJLxlSiCjiWO2WFXS), [Royalty Kings](https://open.spotify.com/artist/4u257YkHzvod1NBiycnYsX) | [FRÍO](https://open.spotify.com/album/3DqmjGJtw0UUpyPe6ndgg0) | 4:05 |
 | 52 | [Dios Nunca Falla](https://open.spotify.com/track/3mBlNX9LKkJU8BM9B3k23Y) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Values](https://open.spotify.com/album/6IXTSDUaSGqqqA8eCzaQ4H) | 3:10 |

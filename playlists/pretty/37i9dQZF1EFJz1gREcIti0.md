@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3LRQHA0f13JHI5UZH2JLsz">Spencer Stewart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 688 likes - 138 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 692 likes - 138 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 44 | [Endlessly](https://open.spotify.com/track/02YPsZehXDNohgCbH6t5Lm) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 5:00 |
 | 45 | [Trust](https://open.spotify.com/track/4nCWC5PmiFDU3MeZUXWo1T) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Trust](https://open.spotify.com/album/2Cm9Fr0UWeJJNi0koNjAwA) | 2:35 |
 | 46 | [for the people in the back](https://open.spotify.com/track/72gooyj5bJQNROC5Ptmjn7) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 2:34 |
-| 47 | [Right There](https://open.spotify.com/track/6ACABT7da0gny402DMm9vs) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 2:42 |
-| 48 | [Offa Me \(feat\. Victoria Monét\)](https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:09 |
+| 47 | [Offa Me \(feat\. Victoria Monét\)](https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:09 |
+| 48 | [Right There](https://open.spotify.com/track/6ACABT7da0gny402DMm9vs) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 2:42 |
 | 49 | [Change My Mind](https://open.spotify.com/track/1ClklkdqMsWNvC0YdjNb1X) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 2:54 |
 | 50 | [My Whole Life](https://open.spotify.com/track/3gOaaWn0rrAiG1dUWAuNod) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 2:42 |
 | 51 | [Mandy](https://open.spotify.com/track/13cdHbMDnKqwKXMt37gyB2) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 3:05 |
@@ -75,17 +75,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 65 | [Maze](https://open.spotify.com/track/7AwVn68ejkolhndL6F4d8q) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 4:29 |
 | 66 | [Carousel](https://open.spotify.com/track/5FkxMMCUmSu0C00FXAuPPO) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 3:19 |
 | 67 | [Superpower](https://open.spotify.com/track/3QedekdJeA6uSnW7jw01hT) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Superpower](https://open.spotify.com/album/4LeYVAbELnVgLj43dDNIhn) | 3:08 |
-| 68 | [Josslyn \- Demo](https://open.spotify.com/track/02CR9rag6hSFz795H2BJIo) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Josslyn](https://open.spotify.com/album/4H3mlT00kr4bJrY80GOFnx) | 2:49 |
-| 69 | [Sabotage](https://open.spotify.com/track/0Q1yD22zCaVWxKV6w8wp45) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 3:34 |
+| 68 | [Sabotage](https://open.spotify.com/track/0Q1yD22zCaVWxKV6w8wp45) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 3:34 |
+| 69 | [Josslyn \- Demo](https://open.spotify.com/track/02CR9rag6hSFz795H2BJIo) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Josslyn](https://open.spotify.com/album/4H3mlT00kr4bJrY80GOFnx) | 2:49 |
 | 70 | [better the first time](https://open.spotify.com/track/7bGrUqtsMPi9FF59gYaSXS) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 3:09 |
 | 71 | [Nobody Has To Know](https://open.spotify.com/track/2fQE3IKIgFAuUsuD4rWvjq) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Nobody Has To Know](https://open.spotify.com/album/3AA40BRLEzpLVnDEIJgfgv) | 3:06 |
 | 72 | [Watch Out for the Narcs](https://open.spotify.com/track/2mPzb3nt5M9dnQFRmNn7To) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Top Shotta](https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf) | 3:36 |
 | 73 | [who hurt you](https://open.spotify.com/track/6sBAlJ2mhfHHxf8XLURHSO) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:28 |
 | 74 | [die for my bitch](https://open.spotify.com/track/4JcibCP49g3evpDtS4Ij6x) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:53 |
-| 75 | [From Scratch](https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:25 |
-| 76 | [life is funny](https://open.spotify.com/track/1gvnmAf6mXyT8dsZmv5y70) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:26 |
-| 77 | [Love Is Blind](https://open.spotify.com/track/7pzL8kHWBXYoGITYwmrzj5) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:51 |
-| 78 | [Clean Air](https://open.spotify.com/track/5uKnUmI97PCAT5GvX7vkWZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:35 |
+| 75 | [Clean Air](https://open.spotify.com/track/5uKnUmI97PCAT5GvX7vkWZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:35 |
+| 76 | [From Scratch](https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:25 |
+| 77 | [life is funny](https://open.spotify.com/track/1gvnmAf6mXyT8dsZmv5y70) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:26 |
+| 78 | [Love Is Blind](https://open.spotify.com/track/7pzL8kHWBXYoGITYwmrzj5) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:51 |
 | 79 | [How Many](https://open.spotify.com/track/38PSvXgt7mDZSwFvLBVG2L) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [1176](https://open.spotify.com/album/44pAASGfmvetkQfzHCLRae) | 3:25 |
 | 80 | [Say You Know](https://open.spotify.com/track/6cpzF2jybgwBGH1lQqDopD) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 3:51 |
 | 81 | [doyouseeit](https://open.spotify.com/track/2IJgmcPWwfUxQVLBnquwPU) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 2:29 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 137 | [Gentlewoman](https://open.spotify.com/track/30Npm4RFzP3zVRs2LKIyk5) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:35 |
 | 138 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
 
-Snapshot ID: `Ab8PHAAAAADDSwwYvqitC1WjQfrRZOkO`
+Snapshot ID: `Ab8UlAAAAAAu44VywdKeLQiljdNicSWQ`

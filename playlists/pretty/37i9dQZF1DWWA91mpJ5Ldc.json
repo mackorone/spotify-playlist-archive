@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 136077,
+  "num_followers": 136112,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,26 @@
     {
       "added_at": "2025-09-01 18:37:01",
       "album": {
+        "name": "Xuxu",
+        "url": "https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O"
+      },
+      "artists": [
+        {
+          "name": "Filhos De Jorge",
+          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 172523,
+      "name": "Xuxu",
+      "url": "https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv"
+    },
+    {
+      "added_at": "2025-09-01 18:37:01",
+      "album": {
         "name": "T\u00c1 FELIZ?!",
         "url": "https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 191093,
       "name": "SAMBA DE CRIA",
       "url": "https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ"
-    },
-    {
-      "added_at": "2025-09-01 18:37:01",
-      "album": {
-        "name": "Xuxu",
-        "url": "https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O"
-      },
-      "artists": [
-        {
-          "name": "Filhos De Jorge",
-          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 172523,
-      "name": "Xuxu",
-      "url": "https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv"
     },
     {
       "added_at": "2025-09-01 18:37:01",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-09-01 18:37:01",
       "album": {
-        "name": "Curyman",
-        "url": "https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8"
-      },
-      "artists": [
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Pra Vida",
-      "url": "https://open.spotify.com/track/7z9ygQkhE50EGYMuZfbEFq"
-    },
-    {
-      "added_at": "2025-09-01 18:37:01",
-      "album": {
         "name": "Bota Pra Tocar Tim Maia",
         "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 222577,
       "name": "Bota Pra Tocar Tim Maia",
       "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+    },
+    {
+      "added_at": "2025-09-01 18:37:01",
+      "album": {
+        "name": "Curyman",
+        "url": "https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "Pra Vida",
+      "url": "https://open.spotify.com/track/7z9ygQkhE50EGYMuZfbEFq"
     },
     {
       "added_at": "2025-09-01 18:37:01",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-09-01 18:37:01",
       "album": {
+        "name": "Viver (Mais leve que o ar)",
+        "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 259453,
+      "name": "Gold Coast",
+      "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
+    },
+    {
+      "added_at": "2025-09-01 18:37:01",
+      "album": {
         "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
         "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
       },
@@ -699,6 +715,22 @@
       "duration_ms": 176920,
       "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
       "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
+    },
+    {
+      "added_at": "2025-09-01 18:37:01",
+      "album": {
+        "name": "Vem Doce",
+        "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "duration_ms": 226720,
+      "name": "Vem Doce",
+      "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
     },
     {
       "added_at": "2025-09-01 18:37:01",
@@ -719,38 +751,6 @@
       "duration_ms": 200000,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg"
-    },
-    {
-      "added_at": "2025-09-01 18:37:01",
-      "album": {
-        "name": "Viver (Mais leve que o ar)",
-        "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 259453,
-      "name": "Gold Coast",
-      "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
-    },
-    {
-      "added_at": "2025-09-01 18:37:01",
-      "album": {
-        "name": "Vem Doce",
-        "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 226720,
-      "name": "Vem Doce",
-      "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
     },
     {
       "added_at": "2025-09-01 18:37:01",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-09-01 18:37:01",
       "album": {
-        "name": "Abrigo",
-        "url": "https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs"
-      },
-      "artists": [
-        {
-          "name": "Fi Barreto",
-          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
-        }
-      ],
-      "duration_ms": 166692,
-      "name": "Abrigo",
-      "url": "https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb"
-    },
-    {
-      "added_at": "2025-09-01 18:37:01",
-      "album": {
         "name": "Condom Black",
         "url": "https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 342160,
       "name": "Dias de Janeiro",
       "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
+    },
+    {
+      "added_at": "2025-09-01 18:37:01",
+      "album": {
+        "name": "Abrigo",
+        "url": "https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs"
+      },
+      "artists": [
+        {
+          "name": "Fi Barreto",
+          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+        }
+      ],
+      "duration_ms": 166692,
+      "name": "Abrigo",
+      "url": "https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb"
     },
     {
       "added_at": "2025-09-01 18:37:01",

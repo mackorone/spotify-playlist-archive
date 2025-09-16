@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,653 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,655 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 35 | [Outta Love](https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [TEN TONNE SKELETON](https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA) | [Outta Love](https://open.spotify.com/album/59FlDwNsfaskGibimitsIm) | 2:44 |
 | 36 | [Everybody Cries](https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8) | [Cleez](https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8), [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj) | [Everybody Cries](https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu) | 2:50 |
 | 37 | [I'm Okay](https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [I'm Okay](https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En) | 2:31 |
-| 38 | [One In A Million](https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH) | [One In A Million](https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f) | 2:08 |
-| 39 | [Speed of Light](https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC) | [Drive With Beats](https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa), [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg) | [Speed of Light](https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj) | 2:56 |
+| 38 | [Speed of Light](https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC) | [Drive With Beats](https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa), [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg) | [Speed of Light](https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj) | 2:56 |
+| 39 | [One In A Million](https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH) | [One In A Million](https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f) | 2:08 |
 | 40 | [Baby Steps](https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [Baby Steps](https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB) | 2:23 |
 | 41 | [I Don't Wanna Go](https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [I Don't Wanna Go](https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf) | 3:06 |
 | 42 | [She Wolf \(Falling to Pieces\)](https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML) | [YES YES](https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus) | [She Wolf \(Falling to Pieces\)](https://open.spotify.com/album/7A37H04INETElZeLJioWDD) | 2:51 |

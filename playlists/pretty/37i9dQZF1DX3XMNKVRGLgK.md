@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/nigelsylvester/">Nigel Sylvester</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,186 likes - 30 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,187 likes - 30 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 | 25 | [Who Gon Stop Me](https://open.spotify.com/track/3R1k8P1MrDdLSRhlTaaWAS) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 4:16 |
 | 26 | [Love Yourz](https://open.spotify.com/track/4gkl7QbQvBd3TM9PhlWFkI) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/7viNUmZZ8ztn2UB4XB3jIL) | 3:31 |
 | 27 | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/track/7E2C5rBLpCKwQlhJPVFBRS) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/album/7MQJy9di8JoLJOkG5mZAry) | 3:46 |
-| 28 | [The Roc \(Just Fire\)](https://open.spotify.com/track/0SYGpsMlXdLve9bMNFLnAf) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Memphis Bleek](https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [Come Home With Me](https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy) | 4:24 |
-| 29 | [Otherside of America](https://open.spotify.com/track/3JBvJ9PwrYA1oeUzI3FMRI) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Otherside Of America](https://open.spotify.com/album/3ymsrdlosSeo8xbXlGNMoE) | 3:38 |
+| 28 | [Otherside of America](https://open.spotify.com/track/3JBvJ9PwrYA1oeUzI3FMRI) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Otherside Of America](https://open.spotify.com/album/3ymsrdlosSeo8xbXlGNMoE) | 3:38 |
+| 29 | [The Roc \(Just Fire\)](https://open.spotify.com/track/0SYGpsMlXdLve9bMNFLnAf) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Memphis Bleek](https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [Come Home With Me](https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy) | 4:24 |
 | 30 | [queens shit.](https://open.spotify.com/track/5fKB3QygGZfzgyapUCTpV9) | [Remy Banks](https://open.spotify.com/artist/37dMe6EquztHIXOFF44iKZ) | [champ hoody music\. ep.1](https://open.spotify.com/album/16wn93pdT8x632qceupGXI) | 1:22 |
 
 Snapshot ID: `AAAAAN0hchNnhsekzyw8utOPIByUSSVH`

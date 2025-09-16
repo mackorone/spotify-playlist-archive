@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with Hex Cougar
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,377 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,374 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 65 | [HACKING THE GATE](https://open.spotify.com/track/3PwruJbrJXpeDCLJ2hiid9) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME](https://open.spotify.com/album/4H2abOEiBXEQpNibmwu4Li) | 2:53 |
 | 66 | [KGM \(irl\)\*](https://open.spotify.com/track/6RR2CymUsUTc0cQfaQ3RH7) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [KGM \(irl\)\*](https://open.spotify.com/album/69HD49w55iopcQVFsjSrBX) | 2:38 |
 | 67 | [YA BODY](https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [YA BODY](https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU) | 3:03 |
-| 68 | [LOSE YOURSELF](https://open.spotify.com/track/5vFQLe2rxYj0N3fOXIxErQ) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [LOSE YOURSELF](https://open.spotify.com/album/16F8h09SzhLCFLC1rBWOJt) | 2:32 |
-| 69 | [Light Up](https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Light Up](https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC) | 3:10 |
+| 68 | [Light Up](https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Light Up](https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC) | 3:10 |
+| 69 | [LOSE YOURSELF](https://open.spotify.com/track/5vFQLe2rxYj0N3fOXIxErQ) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [LOSE YOURSELF](https://open.spotify.com/album/16F8h09SzhLCFLC1rBWOJt) | 2:32 |
 | 70 | [DOPAMINE++](https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [DOPAMINE++](https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF) | 3:22 |
 | 71 | [party! \(dance alone\)](https://open.spotify.com/track/5Gyk61VF5P3eIJ1dZwI7nh) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 2:40 |
 | 72 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 89 | [Keep It Moving](https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Keep It Moving](https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag) | 2:40 |
 | 90 | [Fired Up](https://open.spotify.com/track/69Wvx3nyfr7ggd2C3pCx1m) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Fired Up](https://open.spotify.com/album/7cZSWuOdlkrIdrEfsWgoQe) | 3:08 |
 | 91 | [GO BACK \(We Can't\)](https://open.spotify.com/track/7vSTWert1uL4NeG3EvBOYY) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [GO BACK \(We Can't\)](https://open.spotify.com/album/1Vomcw2K16iHH2KkkojTrZ) | 3:46 |
-| 92 | [THROW YA HANDZ UP](https://open.spotify.com/track/6VRVCE4ITO0rneyfC5CIEA) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [THROW YA HANDZ UP](https://open.spotify.com/album/3et5xwM5e2Mjm6qTHXuk2h) | 3:04 |
-| 93 | [Move Ya Body](https://open.spotify.com/track/60q8mNyzHfyzWZ77Wg904D) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Proxima Nova](https://open.spotify.com/album/1USScuJT7Fbq5vyXyn5yx4) | 4:04 |
+| 92 | [Move Ya Body](https://open.spotify.com/track/60q8mNyzHfyzWZ77Wg904D) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Proxima Nova](https://open.spotify.com/album/1USScuJT7Fbq5vyXyn5yx4) | 4:04 |
+| 93 | [THROW YA HANDZ UP](https://open.spotify.com/track/6VRVCE4ITO0rneyfC5CIEA) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [THROW YA HANDZ UP](https://open.spotify.com/album/3et5xwM5e2Mjm6qTHXuk2h) | 3:04 |
 | 94 | [MERCY](https://open.spotify.com/track/2QoDGwJUabNMyJnxGJIy8w) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu), [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [SEEING DOUBLE EP](https://open.spotify.com/album/3lxZ6nSst67I8FZsqPoF43) | 3:57 |
 | 95 | [Anxious](https://open.spotify.com/track/0aIZGMXxGwKfkIOwiTzY82) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Anxious](https://open.spotify.com/album/2fvpGsmXuNd24IC3gEABHU) | 2:22 |
 | 96 | [In The Cut](https://open.spotify.com/track/4VaQSqvF2vX7vqv8f8HLRO) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [In The Cut](https://open.spotify.com/album/6UvvBB9erje8tde7ssRJjM) | 2:47 |
 | 97 | [Style](https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Style](https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf) | 2:03 |
 | 98 | [Hitz](https://open.spotify.com/track/7mCDRMWEok4y7NHgKSfD2K) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Hitz](https://open.spotify.com/album/4HxksCl9JvGn7Ni77clzS8) | 2:48 |
-| 99 | [Break My Soul](https://open.spotify.com/track/6HOkf3WIbI0DbCzngerQ2l) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx), [Teneki](https://open.spotify.com/artist/2HKXQdbsT8X5uFLsAVtMG4) | [Break My Soul](https://open.spotify.com/album/3MJTxxjNgii7GOdtfZKzkf) | 2:44 |
-| 100 | [LOYAL](https://open.spotify.com/track/0XTC88XX9rerDucl82skTW) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [LOYAL](https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI) | 4:15 |
+| 99 | [LOYAL](https://open.spotify.com/track/0XTC88XX9rerDucl82skTW) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [LOYAL](https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI) | 4:15 |
+| 100 | [Break My Soul](https://open.spotify.com/track/6HOkf3WIbI0DbCzngerQ2l) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx), [Teneki](https://open.spotify.com/artist/2HKXQdbsT8X5uFLsAVtMG4) | [Break My Soul](https://open.spotify.com/album/3MJTxxjNgii7GOdtfZKzkf) | 2:44 |
 
 Snapshot ID: `AAAAADoY+XUC4cyxqMy1acDDOiQCejMS`

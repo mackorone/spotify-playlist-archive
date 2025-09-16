@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 96859,
+  "num_followers": 96878,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAAiwjxprLnm3bLC7GDOyRyK",
+  "snapshot_id": "aMYFgAAAAAAg0a4i2NMhglPmoq6/2pas",
   "tracks": [
     {
       "added_at": null,
@@ -163,6 +163,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 193758,
+      "name": "High",
+      "url": "https://open.spotify.com/track/4G11wDzAKuCFqApL4g3ixC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Know Your Worth (feat. Davido & Tems)",
         "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
       },
@@ -187,26 +207,6 @@
       "duration_ms": 191067,
       "name": "Know Your Worth (feat. Davido & Tems)",
       "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 193758,
-      "name": "High",
-      "url": "https://open.spotify.com/track/4G11wDzAKuCFqApL4g3ixC"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "Holy Ground (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If",
         "url": "https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx"
       },
@@ -619,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 199173,
-      "name": "Blow My Mind",
-      "url": "https://open.spotify.com/track/3MYG7lZANqw54i2Du7Y0WN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Bad Songz",
         "url": "https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS"
       },
@@ -655,6 +615,26 @@
       "duration_ms": 208427,
       "name": "One Ticket",
       "url": "https://open.spotify.com/track/1kyRR8Izv3WCgXFHbC7WF1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 199173,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/3MYG7lZANqw54i2Du7Y0WN"
     },
     {
       "added_at": null,
@@ -748,33 +728,13 @@
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 171724,
-      "name": "The Best (feat. Mayorkun)",
-      "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 199850,
-      "name": "Eva Longoria",
-      "url": "https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG"
+      "duration_ms": 162285,
+      "name": "Holy Ground (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
     },
     {
       "added_at": null,
@@ -803,38 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still The Mayor",
-        "url": "https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR"
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
       },
       "artists": [
         {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 194754,
-      "name": "Blessings On Blessings (B.O.B) (feat. Davido)",
-      "url": "https://open.spotify.com/track/0mjYhFrdVxmcKGW96pW5zS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 202222,
-      "name": "FEM",
-      "url": "https://open.spotify.com/track/2PxLuV3mcHbxB8K7Zci1GQ"
+      "duration_ms": 199850,
+      "name": "Eva Longoria",
+      "url": "https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG"
     },
     {
       "added_at": null,
@@ -859,6 +803,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 171724,
+      "name": "The Best (feat. Mayorkun)",
+      "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still The Mayor",
+        "url": "https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Blessings On Blessings (B.O.B) (feat. Davido)",
+      "url": "https://open.spotify.com/track/0mjYhFrdVxmcKGW96pW5zS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ada",
         "url": "https://open.spotify.com/album/0jjnnEjMF5hoydjQeT8jky"
       },
@@ -875,6 +859,38 @@
       "duration_ms": 183335,
       "name": "Ada",
       "url": "https://open.spotify.com/track/3WMpfOFiAvYnLeqhCT67EN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 249320,
+      "name": "Assurance",
+      "url": "https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 202222,
+      "name": "FEM",
+      "url": "https://open.spotify.com/track/2PxLuV3mcHbxB8K7Zci1GQ"
     },
     {
       "added_at": null,
@@ -899,6 +915,26 @@
       "duration_ms": 170666,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maserati (Remix)",
+        "url": "https://open.spotify.com/album/2rUhpReSQ0taUFdT9kEt50"
+      },
+      "artists": [
+        {
+          "name": "Olakira",
+          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 208420,
+      "name": "Maserati (Remix)",
+      "url": "https://open.spotify.com/track/7glMaSseNC233Ntl6NhGC5"
     },
     {
       "added_at": null,
@@ -931,42 +967,6 @@
       "duration_ms": 263683,
       "name": "Yebo",
       "url": "https://open.spotify.com/track/3GLF4uV3uS1ImSEPyhLZLp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maserati (Remix)",
-        "url": "https://open.spotify.com/album/2rUhpReSQ0taUFdT9kEt50"
-      },
-      "artists": [
-        {
-          "name": "Olakira",
-          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 208420,
-      "name": "Maserati (Remix)",
-      "url": "https://open.spotify.com/track/7glMaSseNC233Ntl6NhGC5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 249320,
-      "name": "Assurance",
-      "url": "https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh"
     },
     {
       "added_at": null,

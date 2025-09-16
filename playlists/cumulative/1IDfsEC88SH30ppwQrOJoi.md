@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-422 songs - 21 hr 46 min
+423 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Saudade](https://open.spotify.com/track/4kLACPjEM0LONaeV4EPukM) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Saudade](https://open.spotify.com/album/6HcNjElqykWI4IYQk7OEE1) | 4:07 | 2023-10-13 | 2024-03-14 |
 | [Save Me](https://open.spotify.com/track/7MD0m1CkFZqFZnPBXIBxPe) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Save Me](https://open.spotify.com/album/0d4DHBW1784ap3EhId52ii) | 2:52 | 2023-10-30 | 2024-03-14 |
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2024-04-26 | 2024-08-03 |
+| [Say Yeah](https://open.spotify.com/track/5ndgdr9wwdx6AGA9aykwnX) | [Tiger Stripes](https://open.spotify.com/artist/5L56gAwU2WofuHHOpLC0BU) | [Say Yeah](https://open.spotify.com/album/1Xn9FLx60GFcSHoaMaQFXk) | 3:17 | 2025-09-15 |  |
 | [Scars](https://open.spotify.com/track/3QaQwIhjTKe1vWZlk0fjtw) | [Stadtmos](https://open.spotify.com/artist/1shg38hoNaL56c6eZXIYCb), [Sky Garden](https://open.spotify.com/artist/2HU8Xi4rVgijIwIALsVbNo) | [Scars](https://open.spotify.com/album/5v9btuYXMyOS8eGrmGvTN4) | 3:32 | 2023-08-22 | 2024-03-14 |
 | [Se Pone Loca](https://open.spotify.com/track/0UyJooJf2H3WsrS9hNJ1Ue) | [Nausica](https://open.spotify.com/artist/7HXV8ycB1JbrppM8SUI5N9) | [Se Pone Loca](https://open.spotify.com/album/70KHuQWKfG8x2RvCT90WxB) | 3:08 | 2023-08-28 | 2024-03-14 |
 | [Sell Your Soul](https://open.spotify.com/track/57UOGQIxDfQLaYoNm3JSzg) | [Sam Red](https://open.spotify.com/artist/7HjYkiUnk6BYqB3UZrzVRg) | [Sell Your Soul](https://open.spotify.com/album/0eLmMMjrNq1Boup6Lr6alT) | 3:42 | 2024-08-16 |  |

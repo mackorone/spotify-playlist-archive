@@ -1,12 +1,12 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 371359,
+  "num_followers": 371377,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHwDQYSDaswnRCnZ0AIk2qA7rCG/",
+  "snapshot_id": "AAAAABjqf0RxFQe5PzfIqhiP/8fTQFFo",
   "tracks": [
     {
       "added_at": "2025-08-28 23:00:33",
@@ -799,18 +799,26 @@
     {
       "added_at": "2025-08-28 23:00:33",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/7JleoVOaThYKwBnA8rm9Y3"
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
       "artists": [
         {
-          "name": "Malachiii",
-          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 178419,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/0WBooGsMy4knzz3BXDhhUU"
+      "duration_ms": 284573,
+      "name": "Impact (feat. Robyn & Channel Tres)",
+      "url": "https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi"
     },
     {
       "added_at": "2025-08-28 23:00:33",
@@ -835,26 +843,18 @@
     {
       "added_at": "2025-08-28 23:00:33",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/7JleoVOaThYKwBnA8rm9Y3"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
         }
       ],
-      "duration_ms": 284573,
-      "name": "Impact (feat. Robyn & Channel Tres)",
-      "url": "https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi"
+      "duration_ms": 178419,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/0WBooGsMy4knzz3BXDhhUU"
     },
     {
       "added_at": "2025-08-28 23:00:33",

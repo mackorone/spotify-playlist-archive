@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,287 likes - 261 songs - 14 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,288 likes - 261 songs - 14 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 82 | [okay](https://open.spotify.com/track/1a0Mg4XPdt4EKsUz5beRZY) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [okay](https://open.spotify.com/album/5jfU7VYOq1M8SllX6emQHN) | 2:49 |
 | 83 | [Take Care of You](https://open.spotify.com/track/3vVmS5zA3PDcdTmCb9iJEU) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say And More](https://open.spotify.com/album/3Le2W5qttl13XfXLvKIfw5) | 3:14 |
 | 84 | [Whatever You Want](https://open.spotify.com/track/4NbffevAm9frDOlBMDp0hl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:02 |
-| 85 | [Dope](https://open.spotify.com/track/55DuTmvSGwNQR4cBgqYuYL) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Hotel California \(Deluxe\)](https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7) | 3:43 |
-| 86 | [decode](https://open.spotify.com/track/17wMOhLqVB3DRCmTaLjwVM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:08 |
+| 85 | [decode](https://open.spotify.com/track/17wMOhLqVB3DRCmTaLjwVM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:08 |
+| 86 | [Dope](https://open.spotify.com/track/55DuTmvSGwNQR4cBgqYuYL) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Hotel California \(Deluxe\)](https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7) | 3:43 |
 | 87 | [Coming Home](https://open.spotify.com/track/4pWb8UZ6IPVJA3CPjCNgzq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:33 |
 | 88 | [All Your Exes](https://open.spotify.com/track/0sm5R6MjXORjLcs1bulN6n) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:29 |
 | 89 | [Cool Anymore](https://open.spotify.com/track/4H1ScKTo6abUt8yTXDewct) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cool Anymore](https://open.spotify.com/album/4QPR4yoDxGzpSCZaK3lnFL) | 3:20 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 121 | [When a Woman](https://open.spotify.com/track/6MFVCPU3QN3YqMjJz4mtFe) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:18 |
 | 122 | [Give It To You \(from Songland\)](https://open.spotify.com/track/0U2HEoCazR0hZlNavNeWov) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Give It To You \(from Songland\)](https://open.spotify.com/album/6cEaN8pCbLYUGTqop8L7e0) | 2:15 |
 | 123 | [My Attic](https://open.spotify.com/track/6BoGECI8eEAII2fjOV88He) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Hurts 2B Human](https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL) | 3:02 |
-| 124 | [Waitin for You](https://open.spotify.com/track/586Q1Orh7e4bbrRh9lfJgY) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Sirah](https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:12 |
-| 125 | [Change Your Mind \(No Seas Cortes\)](https://open.spotify.com/track/51zZkW3FSCS9N5MjWOyJJU) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 2:59 |
+| 124 | [Change Your Mind \(No Seas Cortes\)](https://open.spotify.com/track/51zZkW3FSCS9N5MjWOyJJU) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 2:59 |
+| 125 | [Waitin for You](https://open.spotify.com/track/586Q1Orh7e4bbrRh9lfJgY) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Sirah](https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:12 |
 | 126 | [Don't Wanna Think](https://open.spotify.com/track/0ufEVwujjfht29nMSWWefR) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 2:59 |
 | 127 | [Anything For Love](https://open.spotify.com/track/1yg0jZwJIsmG7a2TqPIv7z) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 2:21 |
 | 128 | [Fingers Crossed](https://open.spotify.com/track/11hrCkrVXAAtQUXyDN0U04) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [That Was Then](https://open.spotify.com/album/1PvzTML4ilaofapFKEweuO) | 2:35 |
@@ -270,4 +270,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 260 | [Soul](https://open.spotify.com/track/1UmAfq4IIWeCIwNgXr47M0) | [Trey Michaels](https://open.spotify.com/artist/6z64Nyr3o6Yqb0U34kz7Tj) | [Soul](https://open.spotify.com/album/5mOSnguVg9gTIOiel0d6jO) | 2:50 |
 | 261 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `Ab8PCAAAAABwx3CRp/K82YNF6j0CG+8G`
+Snapshot ID: `Ab8UvAAAAAC4g4c7sLDddHcE1aMAy2JM`

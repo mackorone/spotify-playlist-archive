@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 176961,
+  "num_followers": 176973,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
+        "name": "La loi du papillon",
+        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "D\u00e9pass\u00e9",
+      "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
+    },
+    {
+      "added_at": "2025-08-19 14:34:26",
+      "album": {
         "name": "Best of Bandolero (Le meilleur des ann\u00e9es 80)",
         "url": "https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 221149,
       "name": "La goffa Lolita",
       "url": "https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN"
-    },
-    {
-      "added_at": "2025-08-19 14:34:26",
-      "album": {
-        "name": "La loi du papillon",
-        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
-      },
-      "artists": [
-        {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "D\u00e9pass\u00e9",
-      "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
     },
     {
       "added_at": "2025-08-19 14:34:26",
@@ -979,18 +979,18 @@
     {
       "added_at": "2025-08-19 14:34:26",
       "album": {
-        "name": "Repenti",
-        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
+        "name": "Meilleurs souvenirs - Best Of",
+        "url": "https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg"
       },
       "artists": [
         {
-          "name": "Renan Luce",
-          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
+          "name": "Les Innocents",
+          "url": "https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP"
         }
       ],
-      "duration_ms": 215813,
-      "name": "Les voisines",
-      "url": "https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1"
+      "duration_ms": 249666,
+      "name": "L'autre finist\u00e8re",
+      "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
     }
   ],
   "unique_name": "Bleu Blanc Route",

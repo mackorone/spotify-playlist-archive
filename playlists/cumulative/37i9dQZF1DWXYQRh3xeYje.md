@@ -2,7 +2,7 @@
 
 ### [This Is Vaundy](https://open.spotify.com/playlist/37i9dQZF1DWXYQRh3xeYje)
 
-> Early Noise 2020選出アーティストVaundyの楽曲を1つのプレイリストで。All the essentials from Early Noise \(RADAR\) 2020 artist, Vaundy.
+> Vaundyの楽曲を1つのプレイリストで。All the essentials from Vaundy.
 
 83 songs - 7 hr 11 min
 

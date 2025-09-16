@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 184155,
+  "num_followers": 184205,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAACvbHfdAlB/X7s5lBHEmiq0",
+  "snapshot_id": "aMYFgAAAAACA3fW+fSRtF7hEo6ZPm00M",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 203973,
-      "name": "Nenita",
-      "url": "https://open.spotify.com/track/6Bwu10ojlaFg7BGfHxvTWO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Otra Mitad",
         "url": "https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 195970,
       "name": "Mi Otra Mitad",
       "url": "https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 203973,
+      "name": "Nenita",
+      "url": "https://open.spotify.com/track/6Bwu10ojlaFg7BGfHxvTWO"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuerpo y Alma",
-        "url": "https://open.spotify.com/album/3Y5VB4scWDZAqa0CxD3uP9"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Luengo",
-          "url": "https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF"
-        },
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "Cadillac (feat. Manuel Medrano)",
-      "url": "https://open.spotify.com/track/7oAdQEMMDrPusH5vhoL2fI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amen (Spanglish Version)",
         "url": "https://open.spotify.com/album/4UP8EcEBwj8LikFk6Qx9CD"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 196619,
       "name": "Amen - Spanglish Version",
       "url": "https://open.spotify.com/track/19sOMZm85JDQCVJa8S742F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuerpo y Alma",
+        "url": "https://open.spotify.com/album/3Y5VB4scWDZAqa0CxD3uP9"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Luengo",
+          "url": "https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "Cadillac (feat. Manuel Medrano)",
+      "url": "https://open.spotify.com/track/7oAdQEMMDrPusH5vhoL2fI"
     },
     {
       "added_at": null,

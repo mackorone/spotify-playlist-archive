@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 176455,
+  "num_followers": 176467,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAACEHzuiMlM6XHPGg7+o07rj",
+  "snapshot_id": "aMYFgAAAAAD+umKnb+VAAEsZHBim/eY2",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oh No!",
+        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 193166,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Panic: It's Longer Now!",
         "url": "https://open.spotify.com/album/7b3JowMC8FK0nToMlD4H1d"
       },
@@ -99,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh No!",
-        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
       },
       "artists": [
         {
@@ -108,9 +124,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 193166,
-      "name": "Oh No!",
-      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
+      "duration_ms": 171706,
+      "name": "Break Your Little Heart",
+      "url": "https://open.spotify.com/track/3d3rJ0qtOU5aNX324mNWfo"
     },
     {
       "added_at": null,
@@ -127,22 +143,6 @@
       "duration_ms": 256733,
       "name": "Remembering Sunday",
       "url": "https://open.spotify.com/track/2qxXypNXOJZ5qUFdpzJ56n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 171706,
-      "name": "Break Your Little Heart",
-      "url": "https://open.spotify.com/track/3d3rJ0qtOU5aNX324mNWfo"
     },
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Damned If I Do Ya (Damned If I Don't)",
+      "url": "https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fake As Hell (with Avril Lavigne)",
         "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 179166,
       "name": "Fake As Hell (with Avril Lavigne)",
       "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Damned If I Do Ya (Damned If I Don't)",
-      "url": "https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Wrong, It's Right",
-        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "Six Feet Under The Stars",
-      "url": "https://open.spotify.com/track/3MfRql0HwuxEZzGpoIC832"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing Personal (Deluxe Version)",
         "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 224200,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Wrong, It's Right",
+        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "Six Feet Under The Stars",
+      "url": "https://open.spotify.com/track/3MfRql0HwuxEZzGpoIC832"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me I'm Alive",
-        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "The Sound of Letting Go",
-      "url": "https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing Personal (Deluxe Version)",
         "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 227466,
       "name": "Lost In Stereo",
       "url": "https://open.spotify.com/track/2WO1QXoR1o0R1rYKAxF7Ya"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "The Sound of Letting Go",
+      "url": "https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH"
     },
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me I'm Alive",
-        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 184054,
-      "name": "New Religion (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/5Vwaft3Bs1oqSPZrviuXnD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ILLENIUM",
         "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 187317,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 184054,
+      "name": "New Religion (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/5Vwaft3Bs1oqSPZrviuXnD"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "So Wrong, It's Right",
+        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "Poppin' Champagne",
+      "url": "https://open.spotify.com/track/3aCRrvADMjFjZq1x8dWD0t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wake Up, Sunshine",
         "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 193948,
       "name": "Favorite Place (feat. The Band CAMINO)",
       "url": "https://open.spotify.com/track/2uVNn2pFpDlx1XrFcEfary"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So Wrong, It's Right",
-        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "Poppin' Champagne",
-      "url": "https://open.spotify.com/track/3aCRrvADMjFjZq1x8dWD0t"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Up, Sunshine",
-        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 223994,
-      "name": "Some Kind of Disaster",
-      "url": "https://open.spotify.com/track/02lU0Hj680zVexT4GqJJZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Future Hearts",
         "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 206839,
       "name": "Old Scars / Future Hearts",
       "url": "https://open.spotify.com/track/5LU2hFmV7fQPmESUrMdf7n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 223994,
+      "name": "Some Kind of Disaster",
+      "url": "https://open.spotify.com/track/02lU0Hj680zVexT4GqJJZ4"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Put Up Or Shut Up",
-        "url": "https://open.spotify.com/album/47boQgN4dboq2f0IcvI4Bt"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 218293,
-      "name": "Jasey Rae",
-      "url": "https://open.spotify.com/track/1oTtOTbcP8waTv4wPsCqSm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Once In A Lifetime",
         "url": "https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 189542,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Put Up Or Shut Up",
+        "url": "https://open.spotify.com/album/47boQgN4dboq2f0IcvI4Bt"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 218293,
+      "name": "Jasey Rae",
+      "url": "https://open.spotify.com/track/1oTtOTbcP8waTv4wPsCqSm"
     },
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Wrong, It's Right",
-        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/2otrDlo0zpTrCqoSuorzWd"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 181720,
-      "name": "The Beach",
-      "url": "https://open.spotify.com/track/3xOE5ciDmfQ0VY3WahE0eJ"
+      "duration_ms": 204250,
+      "name": "Say Something - Live From Spotify UK",
+      "url": "https://open.spotify.com/track/3JHuDEDfKiFDvRaIlyBM5h"
     }
   ],
   "unique_name": "This Is All Time Low",

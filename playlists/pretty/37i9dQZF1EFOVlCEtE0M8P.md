@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406 likes - 266 songs - 15 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405 likes - 266 songs - 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 108 | [Balsam Fir](https://open.spotify.com/track/231kALAtIK7ztIR1nDibsM) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:54 |
 | 109 | [12065](https://open.spotify.com/track/0wwA0ZXgJTcuIWZrBP6G96) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 3:06 |
 | 110 | [Feel For You](https://open.spotify.com/track/2d9459rCOb4K0xypqo3qK8) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Lost Girls](https://open.spotify.com/album/21pLZkjJiP0zaFve7FJ8wq) | 3:39 |
-| 111 | [Wouldn't Be Love](https://open.spotify.com/track/6x7Q6sYuLRRlF3hkoGBQUO) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68) | [No Escape Out Of Time](https://open.spotify.com/album/5xDzV2IFfcVOFK3n4EksKs) | 3:45 |
-| 112 | [Hi, Everyone Leave Please](https://open.spotify.com/track/3biCjgjyi7vPA2ZvfB1Ds1) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 2:55 |
+| 111 | [Hi, Everyone Leave Please](https://open.spotify.com/track/3biCjgjyi7vPA2ZvfB1Ds1) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 2:55 |
+| 112 | [Wouldn't Be Love](https://open.spotify.com/track/6x7Q6sYuLRRlF3hkoGBQUO) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68) | [No Escape Out Of Time](https://open.spotify.com/album/5xDzV2IFfcVOFK3n4EksKs) | 3:45 |
 | 113 | [Exploding](https://open.spotify.com/track/48P6rlUfiTmc49z3G8Ow6Z) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light, Dark, Light Again](https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg) | 4:01 |
 | 114 | [Bomba](https://open.spotify.com/track/1foglYjabYgq2PnG1IlMsz) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Back 2 Life](https://open.spotify.com/album/1fOIkbQO1zU1rO3GLIGJBH) | 3:39 |
 | 115 | [5000 Miles](https://open.spotify.com/track/23DIKne9C2VXKhMQTFd4VW) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 3:31 |
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 126 | [Maybe In Another Life](https://open.spotify.com/track/69meckPoEWAVOUXjkp5ShS) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/3xqwpX5JdCFwVTsGRBu3sB) | 4:07 |
 | 127 | [Tongue Tied](https://open.spotify.com/track/0PpYaJXaLa7CWeOWuz06bZ) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [tongue tied \(at the dmv\)](https://open.spotify.com/album/2OvUzoi1blGPg0aAD1DWZY) | 3:31 |
 | 128 | [Dance To The Music](https://open.spotify.com/track/2945XgGPQwoDP2ZM69af4h) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:31 |
-| 129 | [Desert Man](https://open.spotify.com/track/5dDUOouAExTM498k5nyP9O) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Lost Girls](https://open.spotify.com/album/21pLZkjJiP0zaFve7FJ8wq) | 3:26 |
-| 130 | [Crossed The Line](https://open.spotify.com/track/10SMOXYK3PsNXxozFMeGNT) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Surrender](https://open.spotify.com/album/0UkeBEb0zPrQbuMCCGSxn2) | 3:15 |
+| 129 | [Crossed The Line](https://open.spotify.com/track/10SMOXYK3PsNXxozFMeGNT) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Surrender](https://open.spotify.com/album/0UkeBEb0zPrQbuMCCGSxn2) | 3:15 |
+| 130 | [Desert Man](https://open.spotify.com/track/5dDUOouAExTM498k5nyP9O) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Lost Girls](https://open.spotify.com/album/21pLZkjJiP0zaFve7FJ8wq) | 3:26 |
 | 131 | [Lie Out Loud](https://open.spotify.com/track/4r3OHHoR6JoSFaHjZCAq6N) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 3:02 |
 | 132 | [home](https://open.spotify.com/track/6M4m465yvuv1js4qpxyRWd) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:39 |
 | 133 | [Slugger](https://open.spotify.com/track/4rrXiaY0xav3DstODYfNl5) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:00 |
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 137 | [Slide](https://open.spotify.com/track/7HJ86cmPozGoxEFjntcMzp) | [LPX](https://open.spotify.com/artist/7xmK7SfecrmjqsiIoSa1uf) | [Slide](https://open.spotify.com/album/4JXMgekPtqjDcnrlERWiGS) | 4:13 |
 | 138 | [Comedown](https://open.spotify.com/track/0QG1WcZLIR6SI6HcENvq62) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water](https://open.spotify.com/album/2T17eNpNaZjeuDFcW3Mgfs) | 2:38 |
 | 139 | [The End](https://open.spotify.com/track/2b9knIEU8i2rFHNUC6QWMp) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [The Throes Of Winter](https://open.spotify.com/album/4fGt5oUlTWgA2Yn3HrOoD2) | 4:52 |
-| 140 | [Flowers for Anna](https://open.spotify.com/track/47U7lFNFG9T3zH7eWaUUry) | [Ames](https://open.spotify.com/artist/4oDmrxjcmdVRXErxCTDFZA) | [Flowers for Anna](https://open.spotify.com/album/6byTecwER6LeUzKXGldAhH) | 3:30 |
-| 141 | [Party](https://open.spotify.com/track/0DPuqZxCcL7XYSkJqR0KJc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:33 |
+| 140 | [Party](https://open.spotify.com/track/0DPuqZxCcL7XYSkJqR0KJc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:33 |
+| 141 | [Flowers for Anna](https://open.spotify.com/track/47U7lFNFG9T3zH7eWaUUry) | [Ames](https://open.spotify.com/artist/4oDmrxjcmdVRXErxCTDFZA) | [Flowers for Anna](https://open.spotify.com/album/6byTecwER6LeUzKXGldAhH) | 3:30 |
 | 142 | [Dance](https://open.spotify.com/track/1odkZf5VDfsINEIRQ2GYW8) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Friends In The Corner EP](https://open.spotify.com/album/4HgR3HFuMXAEXF8gT2xa6B) | 3:20 |
 | 143 | [Staring At The Ceiling](https://open.spotify.com/track/2w2iCUjTKbuGJ5OtCSqOS6) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Perfect Picture](https://open.spotify.com/album/1ChwZuPoRvA8Z5uprRsO2P) | 3:43 |
 | 144 | [D i s t a n c e](https://open.spotify.com/track/0mzNuvoGJQuZ2Dk21Ru7lF) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:22 |
@@ -176,8 +176,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 166 | [Mother Nature](https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 2:59 |
 | 167 | [Do You Want Me To](https://open.spotify.com/track/6ygZkBHLbm0MkgDSgFED2i) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:07 |
 | 168 | [GIRLS](https://open.spotify.com/track/1sn7q04dXzhpGfltvgqy56) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [GIRLS](https://open.spotify.com/album/6Q6SdHFruQVMkyXjAaP8BU) | 3:24 |
-| 169 | [obsession](https://open.spotify.com/track/0wRnT8ip6JycEahq7WXXf1) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [forevher \(Deluxe Edition\)](https://open.spotify.com/album/53FOCXSdGQzkFRLpgd2DUT) | 3:31 |
-| 170 | [The Arsonist](https://open.spotify.com/track/3703vDXRh6wxyhpyu09pxl) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:27 |
+| 169 | [The Arsonist](https://open.spotify.com/track/3703vDXRh6wxyhpyu09pxl) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:27 |
+| 170 | [obsession](https://open.spotify.com/track/0wRnT8ip6JycEahq7WXXf1) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [forevher \(Deluxe Edition\)](https://open.spotify.com/album/53FOCXSdGQzkFRLpgd2DUT) | 3:31 |
 | 171 | [Not in Love](https://open.spotify.com/track/62wfiBkeh02qOZN3i7qbEU) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Not in Love](https://open.spotify.com/album/1SDjOoB4FfCLznhzB4GeI6) | 3:17 |
 | 172 | [Good Girl / Gone Girl](https://open.spotify.com/track/7InSFBG0IUJRhjT7K8uSRq) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:19 |
 | 173 | [Always](https://open.spotify.com/track/00f9bVD0cVpRK0V9DnCVoF) | [Matt Wills](https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT) | [Cigarettes & City Lights](https://open.spotify.com/album/7a5sQmXXnUANreLelj7OFe) | 3:49 |
@@ -275,4 +275,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 265 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 | 266 | [You Don't Care](https://open.spotify.com/track/1mBTncvALjv971xEw6fBFK) | [Steven Wood](https://open.spotify.com/artist/4GU9C2rc9E6v3v2TpLzyfS), [Brandon Harms](https://open.spotify.com/artist/3yGwH9xSAbRwwvmIp09ZSW) | [You Don't Care](https://open.spotify.com/album/3K36b4gNevnCaCqmNntHMt) | 4:08 |
 
-Snapshot ID: `Ab8PEgAAAAB98F5+IlVZMnTQ22btcJME`
+Snapshot ID: `Ab8UlAAAAACAc6zii/BD6DGkjTqjTZys`

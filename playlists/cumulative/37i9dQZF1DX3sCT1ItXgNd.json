@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Juan Mag\u00e1n, Abraham Mateo",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Manuel Turizo",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -768,7 +768,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 219640,
       "name": "Amarillo",
       "url": "https://open.spotify.com/track/5Qn56ssVeZJfNwDCme7Eo0"
@@ -2931,6 +2931,24 @@
     },
     {
       "album": {
+        "name": "CUANDO DORM\u00cdAS",
+        "url": "https://open.spotify.com/album/1MnpfIPUxczjHVKUuAN202"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205412,
+      "name": "CUANDO DORM\u00cdAS",
+      "url": "https://open.spotify.com/track/5tdYlOGweHW6IGZi1Tfc5N"
+    },
+    {
+      "album": {
         "name": "CUARTO AZUL",
         "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
       },
@@ -4757,6 +4775,24 @@
     },
     {
       "album": {
+        "name": "ENAMORARSE PARA QUE",
+        "url": "https://open.spotify.com/album/32Prq4dvBeioGhPUARQieZ"
+      },
+      "artists": [
+        {
+          "name": "VIUS",
+          "url": "https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184239,
+      "name": "ENAMORARSE PARA QUE",
+      "url": "https://open.spotify.com/track/0spCHuxIvFFVQTr2aZnTwk"
+    },
+    {
+      "album": {
         "name": "Energ\u00eda Bacana",
         "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
       },
@@ -5070,6 +5106,28 @@
       "duration_ms": 166552,
       "name": "Espinita Clav\u00e1",
       "url": "https://open.spotify.com/track/5nBPZbNLIJJqiDO1POCDGR"
+    },
+    {
+      "album": {
+        "name": "ESTA ES TU CASA NENA",
+        "url": "https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209616,
+      "name": "ESTA ES TU CASA NENA",
+      "url": "https://open.spotify.com/track/1be5haaiIQXBp7nQFhhpge"
     },
     {
       "album": {
@@ -6580,7 +6638,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 165120,
       "name": "la culpa (track 11)",
       "url": "https://open.spotify.com/track/70LTdbe3zYvsY5c1Gw9Gxv"
@@ -6652,7 +6710,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 153442,
       "name": "LA INNOMBRABLE",
       "url": "https://open.spotify.com/track/09JbAO5vwgChXJPQiISWIJ"
@@ -7502,6 +7560,24 @@
       "duration_ms": 180477,
       "name": "LO QUE ME CAUSA",
       "url": "https://open.spotify.com/track/3r5mTZiiECjgezzeI9bqgq"
+    },
+    {
+      "album": {
+        "name": "Lo que nunca fue",
+        "url": "https://open.spotify.com/album/1hPurFan6dyxixyl4ntE3h"
+      },
+      "artists": [
+        {
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160925,
+      "name": "Lo que nunca fue",
+      "url": "https://open.spotify.com/track/2QACvOCPzkQ9SWNOy16Sgn"
     },
     {
       "album": {
@@ -8426,6 +8502,24 @@
       "duration_ms": 187160,
       "name": "me va a doler",
       "url": "https://open.spotify.com/track/0R01AGV2d57DXUN1HtcCXa"
+    },
+    {
+      "album": {
+        "name": "Me voy contigo",
+        "url": "https://open.spotify.com/album/0CtR6XwC9p5sCm0i5punuO"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/4t75tim4RSC1FXQJcHXS4x"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196834,
+      "name": "Me voy contigo",
+      "url": "https://open.spotify.com/track/3JunNaYZBexSrHmlPapx5v"
     },
     {
       "album": {
@@ -10666,7 +10760,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 218120,
       "name": "perfectas",
       "url": "https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv"
@@ -10954,7 +11048,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 128136,
       "name": "POBRE DIABLA - Spotify Singles",
       "url": "https://open.spotify.com/track/2bpaNIytZDt6slUUYZM9Pk"
@@ -11473,6 +11567,24 @@
     },
     {
       "album": {
+        "name": "p\u00eddeme perd\u00f3n",
+        "url": "https://open.spotify.com/album/319VpRhiAcqqV0oaln13Q2"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139063,
+      "name": "p\u00eddeme perd\u00f3n",
+      "url": "https://open.spotify.com/track/5ME1KURM5ULnd2P32qUemB"
+    },
+    {
+      "album": {
         "name": "QUE CHIMBA DE VIDA",
         "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
       },
@@ -11702,7 +11814,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 162099,
       "name": "QUIERO OLVIDARTE - Respuesta #1",
       "url": "https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT"
@@ -12732,7 +12844,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 184547,
       "name": "si te pillara",
       "url": "https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd"
@@ -13026,7 +13138,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 144000,
       "name": "Solcito",
       "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"
@@ -13390,6 +13502,24 @@
       "duration_ms": 209265,
       "name": "S\u00e9 lo Que Hicisteis",
       "url": "https://open.spotify.com/track/7HZBJjlhBVSjHMm5YMMcNd"
+    },
+    {
+      "album": {
+        "name": "S\u00c9PTIMO SENTIDO",
+        "url": "https://open.spotify.com/album/1DWJoDN8uLJ2wkKAKn99EC"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157539,
+      "name": "S\u00c9PTIMO SENTIDO",
+      "url": "https://open.spotify.com/track/2C0pKSrGBCP4CZHzzAYDIk"
     },
     {
       "album": {
@@ -15404,6 +15534,24 @@
       "duration_ms": 174546,
       "name": "\u00bfC\u00f3mo Pas\u00f3?",
       "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
+    },
+    {
+      "album": {
+        "name": "\u00bfC\u00f3mo va a saber de amor?",
+        "url": "https://open.spotify.com/album/4MhewFihXLNDa66e6GEuFb"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122280,
+      "name": "\u00bfC\u00f3mo va a saber de amor?",
+      "url": "https://open.spotify.com/track/1eOdBnn09eInbDwrbJAcTj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-80 songs - 3 hr 49 min
+81 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Ansiedad](https://open.spotify.com/track/6uCZqv78d015paeHFUOUlI) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ansiedad](https://open.spotify.com/album/3hlzeDhRlrd9ICvrokcUTb) | 2:57 | 2024-10-21 |  |
 | [Aqui En Mi Corazon Tu Mandas](https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 2:12 | 2024-02-03 |  |
 | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS) | 3:28 | 2024-01-29 |  |
-| [Bien Belicones \(En vivo\)](https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Bien Belicones \(En vivo\)](https://open.spotify.com/album/0lroHqTkfmsxY3OYhRWZda) | 2:30 | 2024-01-29 |  |
+| [Bien Belicones \(En vivo\)](https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Bien Belicones \(En vivo\)](https://open.spotify.com/album/0lroHqTkfmsxY3OYhRWZda) | 2:30 | 2024-01-29 | 2025-09-16 |
 | [Celos Del Viento \(En vivo\)](https://open.spotify.com/track/0tg8RppkhrRC972fm380kd) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:47 | 2024-01-29 |  |
 | [Cero Miedo \- En Vivo](https://open.spotify.com/track/23jz02NgQzkfqBaJwrZDd3) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [KC Music](https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0) | [Cero Miedo \(En Vivo\)](https://open.spotify.com/album/5qYRsBHT1yUWe1ePiz906J) | 2:57 | 2024-01-29 | 2024-01-31 |
 | [Chaparrita Batallosa](https://open.spotify.com/track/1kILvuXDaiV2Li1a8fid9u) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Birria](https://open.spotify.com/album/4U50pciWwb1rE8RzjIKuDM) | 2:15 | 2024-08-06 | 2025-04-09 |
@@ -78,6 +78,7 @@
 | [Rosas](https://open.spotify.com/track/3uFzo9GFVS3Yw4KIVdsYHN) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rosas](https://open.spotify.com/album/6sDgZzqJBy8r5TWPPVjL1E) | 4:33 | 2024-01-29 | 2024-09-01 |
 | [Serafin Zambada](https://open.spotify.com/track/6xelfxDNolbBvTbpHMtNrs) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin Zambada](https://open.spotify.com/album/4F2fbkwSDTWxX9s2ThmRCt) | 2:08 | 2025-06-01 |  |
 | [Serafín Zambada](https://open.spotify.com/track/5ZVyu4Ic8XQOomHPaYSaLN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin Zambada](https://open.spotify.com/album/4wIqGZ9el8QllwpREn1IPA) | 2:08 | 2024-01-29 | 2025-06-01 |
+| [Solo Por Bonita](https://open.spotify.com/track/2AVepiHwOMlNl1DnIttQYI) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Solo Por Bonita](https://open.spotify.com/album/7AYn3L69giDtaSue0qMEgI) | 2:12 | 2025-09-16 |  |
 | [Somos Gente Del Sombrero \- En Vivo](https://open.spotify.com/track/5cJUpAtZBY253aPOo0QmId) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Somos Gente Del Sombrero \(En Vivo\)](https://open.spotify.com/album/2qaSacTJoTXZHZShAIRkZK) | 3:23 | 2024-01-29 | 2024-08-06 |
 | [Son Cosas De La Peda](https://open.spotify.com/track/7r4zmKeD4bTlj9Sg1KjWSz) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Son Cosas De La Peda](https://open.spotify.com/album/1JIFXZFu0d8ZPUiyq531zE) | 2:35 | 2024-01-29 | 2024-07-27 |
 | [Son Cosas De La Peda](https://open.spotify.com/track/4jj418EQiugASJj07JuiMs) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Son Cosas De La Peda](https://open.spotify.com/album/27dr3cYlhnh0gCCXdctJXZ) | 2:21 | 2024-05-19 | 2024-07-23 |

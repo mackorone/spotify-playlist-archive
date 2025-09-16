@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Diego & Victor Hugo com NATTAN, Ivete Sangalo, Clayton & Romário e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,159,555 likes - 59 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,159,564 likes - 59 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 38 | [Ai Onti Eu Bebi \- Ao Vivo](https://open.spotify.com/track/443gJHPdgcnrTtoxAWgLtF) | [Bruno Cesar e Rodrigo](https://open.spotify.com/artist/1LKDfxZdebmgWG4qSR7hO9) | [Sofredores Entenderão, EP.1 \(Ao Vivo\)](https://open.spotify.com/album/1acW97ZMuawXRvwOGP92QM) | 2:25 |
 | 39 | [Modo Foco \(Studio Rec \#4\)](https://open.spotify.com/track/1HtbqR0nEMB2tHvGweP8Nl) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Zekk.](https://open.spotify.com/artist/1AmSDP1BlvqduXSxAJc06J) | [Modo Foco \(Studio Rec \#4\)](https://open.spotify.com/album/7EeTxr7ArueH6YrQsbG9xw) | 2:59 |
 | 40 | [Cansei De Ser Ficante \- Ao Vivo](https://open.spotify.com/track/1o8aZ0godsHs63rPWOPN2n) | [Rauana Monteiro](https://open.spotify.com/artist/1UBax7LrZwHNUZF6VfmcX9) | [Cansei De Ser Ficante \(Ao Vivo\)](https://open.spotify.com/album/3QwzLcehob5qDvyY8lziUt) | 2:53 |
-| 41 | [Eles Não Querem](https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Eles Não Querem](https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215) | 3:46 |
+| 41 | [Eles Não Querem](https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [Eles Não Querem](https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215) | 3:46 |
 | 42 | [September](https://open.spotify.com/track/0atuGBPKrSp6UhdOBTGdHF) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [September](https://open.spotify.com/album/3futEFBOvLZC0QXEzCytwX) | 3:08 |
 | 43 | [Chip](https://open.spotify.com/track/2cwDXB2Ymi1TlYXGPWfexD) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Chip](https://open.spotify.com/album/4aJo2wMZkMeqRNfS9dKXAz) | 2:55 |
 | 44 | [A Gente Junto](https://open.spotify.com/track/7ykNoVFYm1CSVvzvr18cJO) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [A Gente Junto](https://open.spotify.com/album/1MRLrtkn5YezMkZCHjrx4a) | 2:29 |

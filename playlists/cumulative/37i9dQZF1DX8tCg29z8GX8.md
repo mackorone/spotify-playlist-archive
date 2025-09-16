@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-683 songs - 1 day 11 hr 28 min
+684 songs - 1 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Backa](https://open.spotify.com/track/6pkhDkCjYyVOZBUvXq6twL) | [DJ Mic Smith](https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i), [Supa Gaeta](https://open.spotify.com/artist/7icmABGIHlSbuTXU206Obz), [Haywaya](https://open.spotify.com/artist/3Tp0IaBE3AwuwhxVVLE49b), [Hope Ramafalo](https://open.spotify.com/artist/4yvEcXzA7owk4FbWCmDvE6) | [Backa](https://open.spotify.com/album/53urZs32khtmN8wdlaakSd) | 4:53 | 2023-11-24 | 2023-12-02 |
 | [Bad Boy](https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Bad Boy](https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP) | 3:12 | 2023-09-27 | 2023-09-29 |
 | [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/album/4vrb4l5CjEYXkCTsZkP2go) | 2:49 | 2022-11-25 | 2023-06-19 |
-| [Bad Feeling](https://open.spotify.com/track/1toPx3Ekrax1CIGIBJIgLf) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Bad Friends](https://open.spotify.com/album/7CPDg8cp3nKsAWNdZniYme) | 2:41 | 2024-04-03 |  |
+| [Bad Feeling](https://open.spotify.com/track/1toPx3Ekrax1CIGIBJIgLf) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Bad Friends](https://open.spotify.com/album/7CPDg8cp3nKsAWNdZniYme) | 2:41 | 2024-04-03 | 2025-09-16 |
 | [Bad Girl \(feat\. Wande Coal & Victony\)](https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bad Girl \(feat\. Wande Coal & Victony\)](https://open.spotify.com/album/0dqjwh8PHITjQOyJX5zTJq) | 3:24 | 2022-07-28 | 2023-02-24 |
 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 | 2022-09-19 | 2023-02-24 |
 | [Balance It](https://open.spotify.com/track/5lSAVaWdDWebYm6np4QAIk) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Balance It](https://open.spotify.com/album/76gTwaKCqPjsjwmJMuxjA1) | 3:07 | 2022-06-09 | 2022-08-21 |
@@ -622,6 +622,7 @@
 | [Touch Your Soul \(feat\. Merlyn Wood\)](https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y) | [Touch Your Soul / Love & Rage](https://open.spotify.com/album/7dDuLnLlmPVTMHx0Quxefj) | 3:09 | 2023-03-30 | 2023-04-24 |
 | [Toxic](https://open.spotify.com/track/3sIksJyo81gKpR5GyT1c8m) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Son Of Jacob](https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC) | 4:01 | 2022-06-09 | 2022-08-30 |
 | [Toxic Relationship](https://open.spotify.com/track/4jcTly5eRO1DfGlQ4v9IJY) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3) | [Toxic Relationship](https://open.spotify.com/album/0qtTsSO5vZej8tfvc3pn9v) | 2:46 | 2024-03-01 | 2024-03-15 |
+| [Tracking You](https://open.spotify.com/track/03l6Kj3GCCp0kxnzJXrUVw) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Tracking You](https://open.spotify.com/album/796ArCT8MVsMRDZ0qGHnu6) | 3:03 | 2025-09-05 |  |
 | [Trap](https://open.spotify.com/track/6Lss25OMzPLTx8czIC8Wr4) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Trap](https://open.spotify.com/album/46zsXuCelHvSbq1wtawF59) | 2:58 | 2024-03-08 | 2024-03-15 |
 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 | 2024-05-24 | 2024-09-07 |
 | [Troubling](https://open.spotify.com/track/12GMfvgTb0bNDecXaJC6Sm) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6XD1SKGw1xN4Ck75HNKaWd) | 2:31 | 2023-06-02 | 2023-06-10 |

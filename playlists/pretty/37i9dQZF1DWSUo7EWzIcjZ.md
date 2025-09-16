@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,087 likes - 150 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,078 likes - 150 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,12 +116,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 106 | [Ta' Pillao](https://open.spotify.com/track/5ES8lZiYDoVmEbnEz93ak9) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Los Años Dorados](https://open.spotify.com/album/2jCQgKg1Ugv4CdWKJMSma4) | 4:35 |
 | 107 | [Volvio Juanita](https://open.spotify.com/track/16aBbOfpk7SOVSCSagWRkZ) | [Milly y Los Vecinos](https://open.spotify.com/artist/6chSSyOL6ixhpW90buRBhu) | [Esta Noche!](https://open.spotify.com/album/4mk7v0ZkHoY6JnpWsXjTIJ) | 4:37 |
 | 108 | [Otra Como Tu](https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De Toño Rosario](https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp) | 4:32 |
-| 109 | [Alza Tu Copa](https://open.spotify.com/track/1ut8r7VkR4KxauGzNHOLd5) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM) | 3:40 |
+| 109 | [Amor, Amor](https://open.spotify.com/track/31Tuftk7aZpz0SqrO4TukY) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM) | 4:22 |
 | 110 | [Entre Tu Y Yo](https://open.spotify.com/track/2mInd0Utcfprbtb1k2U3ez) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues Volume 2](https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW) | 4:34 |
 | 111 | [Noche Eterna](https://open.spotify.com/track/0Qyeb26NIFE2fHrX1uNewL) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [Ring...Ring](https://open.spotify.com/album/3H00vhCcHbxZBk2QzGagQP) | 4:36 |
 | 112 | [Medley "Rescate Tipico" No.1: Pajaro Perlu / Fiesta Y Serrucho / El Diente De Oro / Abusadora](https://open.spotify.com/track/3Nq4SfYlza7lTKqP5wPHl2) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Raices](https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz) | 5:11 |
 | 113 | [Otra Vez](https://open.spotify.com/track/2qZq7rvnpSjkqNixLsF0SC) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Atado a Ti](https://open.spotify.com/album/6EyPW31osPnN1mp6knlMFm) | 4:58 |
-| 114 | [Amor, Amor](https://open.spotify.com/track/31Tuftk7aZpz0SqrO4TukY) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM) | 4:22 |
+| 114 | [Alza Tu Copa](https://open.spotify.com/track/1ut8r7VkR4KxauGzNHOLd5) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM) | 3:40 |
 | 115 | [Los Caminos De La Vida](https://open.spotify.com/track/0sapw9idh1PKHHShgx2EjF) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Me Equivoque](https://open.spotify.com/album/4zXyOR4Y3Bas2anvleiOGZ) | 5:00 |
 | 116 | [Hecha Para Mi](https://open.spotify.com/track/1DbtNvGpWDRf2tD68leVQy) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:25 |
 | 117 | [Nadie Me Brinda Na'](https://open.spotify.com/track/6ZRcNiFhbuSisisClh4Axr) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 3:55 |

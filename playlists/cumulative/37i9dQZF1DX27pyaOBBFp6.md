@@ -4,11 +4,12 @@
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-90 songs - 4 hr 32 min
+91 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Als Ik De Golven Aan Het Strand Zie](https://open.spotify.com/track/3ibPCrxXzTLteOba65KtVP) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Het Beste van Ria Valk](https://open.spotify.com/album/3guN60m0HfC3P3HLJB6aSM) | 2:11 | 2024-07-19 |  |
+| [Anja\- De laatste dans](https://open.spotify.com/track/3ZKJvMeGf3nyvXYUbRZyLm) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [16 Vlaamse Hits](https://open.spotify.com/album/0joha6r0Q7FUybe1YodKsc) | 3:02 | 2024-07-19 |  |
 | [Arrivederci Ans](https://open.spotify.com/track/7xu8NzGEawIl7MztxduoGv) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 3:11 | 2024-07-19 |  |
 | [Batje Vier](https://open.spotify.com/track/6wHgik0QnlKy02Nw4Xt4YP) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [Hollands Glorie](https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8) | 2:46 | 2024-07-19 |  |
 | [Beestjes](https://open.spotify.com/track/5bNlDs2IvevjBJ3MH0FluN) | [Ronnie](https://open.spotify.com/artist/4T7ASdOjsGw9IwfeBt7ZjO), [De Ronnies](https://open.spotify.com/artist/4RSK0PChFYVDOyk9yHrhjC) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:48 | 2024-07-19 |  |
@@ -84,7 +85,7 @@
 | [Tearoom\-Tango](https://open.spotify.com/track/3vJRgNNPQlhFzD4PWhIY45) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:15 | 2024-07-19 |  |
 | [Teddybeer](https://open.spotify.com/track/7Abqdhr2qG6SdczwtyEXMY) | [Reggy Van Der Burgt](https://open.spotify.com/artist/0tc045Mrv3v0OFBSaMEY42) | [Teddybeer](https://open.spotify.com/album/4c6viEUmnbWPVgetFhChEM) | 2:22 | 2024-07-19 |  |
 | [Testament](https://open.spotify.com/track/0iqLx1WpZdKT3E2oqLLO3f) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Voor De Overlevenden](https://open.spotify.com/album/1YMJs20ztVXARUtRGkRb0y) | 3:15 | 2024-07-19 |  |
-| [Vaarwel Ik Zal Geen Traan Meer Om Je Laten](https://open.spotify.com/track/5B3Ks1FRxvLRFcFEnV79BD) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [60 Hits](https://open.spotify.com/album/18JsD3oxq36xy7uEIzya6B) | 3:32 | 2024-07-19 |  |
+| [Vaarwel Ik Zal Geen Traan Meer Om Je Laten](https://open.spotify.com/track/5B3Ks1FRxvLRFcFEnV79BD) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [60 Hits](https://open.spotify.com/album/18JsD3oxq36xy7uEIzya6B) | 3:32 | 2024-07-19 | 2025-09-16 |
 | [Vader Is De Dader \- Bonus Track](https://open.spotify.com/track/1Mqd5anFyBvNSxbNAgR4d6) | [Egbert Douwe](https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2) | [Kom Uit De Bedstee Mijn Liefste \(Bonus Track\)](https://open.spotify.com/album/5R5atJoMJqLCowLQgyP7xo) | 3:47 | 2024-07-19 |  |
 | [Vanavond Om Kwart Over Zes Ben Ik Vrij](https://open.spotify.com/track/61D60xl8OUaRRmsQoexzAR) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 3:29 | 2024-07-19 |  |
 | [Verboden Vruchten](https://open.spotify.com/track/4EAzFow27dcGBbLyuEMa1e) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 2:47 | 2024-07-19 |  |

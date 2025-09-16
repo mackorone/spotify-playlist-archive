@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69443,
+  "num_followers": 69447,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAADLR2/oUMmvvIwczSx9//Cl",
+  "snapshot_id": "aMYFgAAAAAA+ovepx/JPUBWzkmasalf8",
   "tracks": [
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuevo",
-        "url": "https://open.spotify.com/album/41n0TpObqsR4TbOmBdkrLX"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 139350,
-      "name": "Nuevo",
-      "url": "https://open.spotify.com/track/5OAUEIwUw1TsoeCkoI1hbo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Favor (with Nicky Jam & Sech, feat. Farruko, Zion & Lunay)",
         "url": "https://open.spotify.com/album/28561uZztshyZSVG6ElL62"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 233112,
       "name": "El Favor (with Nicky Jam & Sech, feat. Farruko, Zion & Lunay)",
       "url": "https://open.spotify.com/track/684EjRHwNsZQ9hCQxL4NYL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuevo",
+        "url": "https://open.spotify.com/album/41n0TpObqsR4TbOmBdkrLX"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 139350,
+      "name": "Nuevo",
+      "url": "https://open.spotify.com/track/5OAUEIwUw1TsoeCkoI1hbo"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epapale",
-        "url": "https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 120115,
-      "name": "Epapale",
-      "url": "https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prendemos",
         "url": "https://open.spotify.com/album/1X0vimVNeLVhLzIkLUxyWf"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 217733,
       "name": "Prendemos",
       "url": "https://open.spotify.com/track/3YLbntjcsRoButdoVta3rq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Epapale",
+        "url": "https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 120115,
+      "name": "Epapale",
+      "url": "https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2"
     },
     {
       "added_at": null,
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 229955,
-      "name": "Mi Favorita",
-      "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMIGA CON BENEFICIOS",
         "url": "https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 193411,
       "name": "AMIGA CON BENEFICIOS",
       "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 229955,
+      "name": "Mi Favorita",
+      "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
     },
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 190951,
-      "name": "Amigos Na' Mas",
-      "url": "https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Toque Mi Naik",
         "url": "https://open.spotify.com/album/2hdIFvSU7heSbsco9Mssbu"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 143925,
       "name": "No Toque Mi Naik",
       "url": "https://open.spotify.com/track/0TBbNYzmtCfN5cpZSCVNIz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 190951,
+      "name": "Amigos Na' Mas",
+      "url": "https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5"
     },
     {
       "added_at": null,
@@ -1011,22 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Ropa",
-        "url": "https://open.spotify.com/album/0f18VhfbW22pyrX6l4MIjX"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 155390,
-      "name": "Sin Ropa",
-      "url": "https://open.spotify.com/track/09HSL5vRZgxXmoSrDVKMDB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mojadero",
         "url": "https://open.spotify.com/album/2n9ld2fC8zstqwJmMG2z0s"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 235897,
       "name": "Mojadero",
       "url": "https://open.spotify.com/track/5uNOpdHMpFV9RxZ0qgNGcD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Ropa",
+        "url": "https://open.spotify.com/album/0f18VhfbW22pyrX6l4MIjX"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 155390,
+      "name": "Sin Ropa",
+      "url": "https://open.spotify.com/track/09HSL5vRZgxXmoSrDVKMDB"
     },
     {
       "added_at": null,
@@ -1151,6 +1151,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "9x19, Vol. 1",
+        "url": "https://open.spotify.com/album/1BGtcYwVf8XMeh2J9o4WX1"
+      },
+      "artists": [
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 222383,
+      "name": "BAILEN",
+      "url": "https://open.spotify.com/track/2dpyrOAUC27gn8284YdSJb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quien Contra Mi 2",
         "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 160000,
       "name": "Si Te Vas Conmigo",
       "url": "https://open.spotify.com/track/3KxiuTv3b3HqmmqsKrGNVI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "9x19, Vol. 1",
-        "url": "https://open.spotify.com/album/1BGtcYwVf8XMeh2J9o4WX1"
-      },
-      "artists": [
-        {
-          "name": "Pressure 9X19",
-          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 222383,
-      "name": "BAILEN",
-      "url": "https://open.spotify.com/track/2dpyrOAUC27gn8284YdSJb"
     },
     {
       "added_at": null,

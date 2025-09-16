@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 
 > 
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 228,054 likes - 496 songs - 1 day 1 hr 44 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 228,034 likes - 496 songs - 1 day 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -505,4 +505,4 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 | 495 | [Calvin Cambridge](https://open.spotify.com/track/4HK9Ive4wK7426QXxQZS6L) | [SOB X RBE](https://open.spotify.com/artist/2TImI3DW7o5MdRXJs4D37h) | [SOB X RBE](https://open.spotify.com/album/6ztEEOoAi6xyYhiiDn3gxc) | 2:28 |
 | 496 | [same squad](https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:31 |
 
-Snapshot ID: `AAALF16veYVqdvSzDQyN1nl6uDb4c6j5`
+Snapshot ID: `AAALGfIOjgbRZp3p7SHMt2NbAFuhF3mg`

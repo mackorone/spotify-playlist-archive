@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Un Toque M\u00e1gico",
+        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179095,
+      "name": "Regresa",
+      "url": "https://open.spotify.com/track/1HQjuuFpfNizvkXaU2kSS0"
+    },
+    {
+      "album": {
         "name": "Forajido (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1BnFqEcCY568k6wDfWbPYR"
       },
@@ -1434,7 +1452,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 320733,
       "name": "Teor\u00eda de Caos",
       "url": "https://open.spotify.com/track/7HQCXa85x99iHBezrwowDY"

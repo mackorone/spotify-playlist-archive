@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "Por Tu Maldito Amor",
+        "url": "https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        },
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206840,
+      "name": "Aunque Mal Paguen Ellas (with Roberto Carlos)",
+      "url": "https://open.spotify.com/track/16tSlxrIF7hDvU1VXkpL6U"
+    },
+    {
+      "album": {
         "name": "Entre El Amor Y Yo",
         "url": "https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU"
       },
@@ -182,7 +204,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 140106,
       "name": "De un Rancho a Otro",
       "url": "https://open.spotify.com/track/2ffhBUWXoCpRFSzXkPbGEC"

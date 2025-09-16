@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,856 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,858 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 43 | [Amazing Travel DNA](https://open.spotify.com/track/6b5SwxLObqfrx9ewIU3UWU) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [Amazing Travel DNA](https://open.spotify.com/album/42GXO2RpG8GXDZaWPXGBJ2) | 4:15 |
 | 44 | [Braveheart Coaster](https://open.spotify.com/track/3XkAIofk0JgOXrt41CV5U6) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [Braveheart Coaster](https://open.spotify.com/album/0BMc0DzfTRnv0NqGJRUWhn) | 4:26 |
 | 45 | [Never giving up!](https://open.spotify.com/track/3wowUlcFYoM9CvSG0U7U92) | [高海千歌 \(CV.伊波杏樹\) from Aqours](https://open.spotify.com/artist/1nooN5DIt9Zps8shc8Sbno) | [LoveLive! Sunshine!! Takami Chika First Solo Concert Album 〜One More Sunshine Story〜](https://open.spotify.com/album/634zNexQcxLqmJ9e884bdp) | 3:54 |
-| 46 | [わーいわいわい わいわいわい！ \- わいわいわい](https://open.spotify.com/track/23Fqi9wj9HeaQAzPIypZdR) | [You Watanabe \(CV: Shuka Saito\)](https://open.spotify.com/artist/4Xu7KIJcGf3HjxUFiObdcL), [Yoshiko Tsushima \(CV: Aika Kobayashi\)](https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY), [Ruby Kurosawa \(CV: Ai Furihata\)](https://open.spotify.com/artist/6xjmmhxHFSi5eDJCuTna0B) | [わーいわいわい わいわいわい！](https://open.spotify.com/album/2OHTwcMbvQRnUkWeZSbDe4) | 3:13 |
-| 47 | [キモチもユメも一緒だね!](https://open.spotify.com/track/0NOjMAor1xOsHaXu7dtwYS) | [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an), [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [デュオトリオコレクション \(VOL.2 〜WINTER VACATION〜\)](https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ) | 4:43 |
+| 46 | [キモチもユメも一緒だね!](https://open.spotify.com/track/0NOjMAor1xOsHaXu7dtwYS) | [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an), [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [デュオトリオコレクション \(VOL.2 〜WINTER VACATION〜\)](https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ) | 4:43 |
+| 47 | [わーいわいわい わいわいわい！ \- わいわいわい](https://open.spotify.com/track/23Fqi9wj9HeaQAzPIypZdR) | [You Watanabe \(CV: Shuka Saito\)](https://open.spotify.com/artist/4Xu7KIJcGf3HjxUFiObdcL), [Yoshiko Tsushima \(CV: Aika Kobayashi\)](https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY), [Ruby Kurosawa \(CV: Ai Furihata\)](https://open.spotify.com/artist/6xjmmhxHFSi5eDJCuTna0B) | [わーいわいわい わいわいわい！](https://open.spotify.com/album/2OHTwcMbvQRnUkWeZSbDe4) | 3:13 |
 | 48 | [空中恋愛論](https://open.spotify.com/track/7HQAR5V6SQC8SGfimUpFYD) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [Amazing Travel DNA](https://open.spotify.com/album/42GXO2RpG8GXDZaWPXGBJ2) | 3:42 |
 | 49 | [海岸通りで待ってるよ](https://open.spotify.com/track/5OLMQiEGFoBQ560FUwJm3O) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [近未来ハッピーエンド](https://open.spotify.com/album/55Mz7WkM8ILMs57h5jAemf) | 4:19 |
 | 50 | [Shiny Racers](https://open.spotify.com/track/4oTMK1IRb2AbMoA2HhB1Du) | [小原鞠莉 \(CV.鈴木愛奈\) from Aqours](https://open.spotify.com/artist/5SLHumqNgWjbkFS95wlRGr) | [LoveLive! Sunshine!! Ohara Mari First Solo Concert Album ～New winding road～](https://open.spotify.com/album/07dOooBV026YI3SftNDkoM) | 3:37 |

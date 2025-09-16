@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: BIG Naughty\(서동현\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,032 songs - 2 day 15 hr 8 min
+1,034 songs - 2 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Discord](https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 2:47 | 2023-10-18 | 2025-06-05 |
 | [DIVE](https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [DIVE](https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH) | 3:19 | 2022-04-12 | 2023-08-24 |
 | [Dive](https://open.spotify.com/track/7yNK1wbcoFYckChKRRWuny) | [TOMMIER](https://open.spotify.com/artist/5Ew54mXT7GnPjS29Z4RVpg) | [Dive](https://open.spotify.com/album/3m0EapQi3Q4YAVaW1RIOeD) | 3:41 | 2022-04-21 | 2022-05-31 |
+| [Dizzy](https://open.spotify.com/track/6QOpfGN5A1DJetRjHZ5dwr) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [CODA](https://open.spotify.com/album/5yyA9mUXeHO21XthokskOp) | 4:19 | 2025-09-16 |  |
 | [Do](https://open.spotify.com/track/6tStqbjbMdMRzRWWNvlnqI) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Do / Do or Don't](https://open.spotify.com/album/3se0GBdgs53DJXR7CJb9l6) | 3:41 | 2023-04-05 | 2023-04-15 |
 | [Do You Need A Rockstar](https://open.spotify.com/track/0L9R16R8rPZbn0OiApMi69) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [Do You Need A Rockstar](https://open.spotify.com/album/4TMfhEcfhMRsFd3jHNlOIJ) | 3:13 | 2022-04-21 | 2022-04-24 |
 | [Do\-re\-mi\-fa](https://open.spotify.com/track/0QfAVkbO0cxDe6ibSnQW4c) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [Present](https://open.spotify.com/album/0eia9DMR5uq7qYcmhxxFzq) | 3:07 | 2024-01-05 | 2024-05-10 |
@@ -678,7 +679,7 @@
 | [pueblo](https://open.spotify.com/track/0SMkcLW4e0agOx7JSEpKkA) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [pueblo](https://open.spotify.com/album/7HlvfsA1BQNIjOx6PHUJrR) | 3:48 | 2023-04-05 | 2023-11-04 |
 | [pueblo](https://open.spotify.com/track/1U3LiGbnLaImLILPwefIRN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [pueblo](https://open.spotify.com/album/2l2tymGSreBsAXvHywpTU1) | 3:48 | 2023-11-15 | 2024-03-22 |
 | [pueblo](https://open.spotify.com/track/2DxmlA2heg85pwLrdLp7Zy) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [pueblo](https://open.spotify.com/album/3K2thE83a9qRwgBsW0NEqV) | 3:48 | 2022-04-21 | 2022-07-29 |
-| [Pump Up The Volume!](https://open.spotify.com/track/34DtDWmIUacoop6Md298vE) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Pump Up The Volume!](https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm) | 2:59 | 2024-08-22 |  |
+| [Pump Up The Volume!](https://open.spotify.com/track/34DtDWmIUacoop6Md298vE) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Pump Up The Volume!](https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm) | 2:59 | 2024-08-22 | 2025-09-16 |
 | [PunKanon](https://open.spotify.com/track/6SETwOgYmyKKjzz8uNT7SC) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PunKanon](https://open.spotify.com/album/6jEUsHZYpOkF8SBC1mHBYd) | 4:43 | 2025-08-14 | 2025-09-04 |
 | [Q](https://open.spotify.com/track/4R7w9EfMu20WHq1ZZ1kSlB) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [3/4](https://open.spotify.com/album/6ObXqxOsLFfzQ5mLCeOEM0) | 3:30 | 2022-04-22 | 2022-07-22 |
 | [QUEEN](https://open.spotify.com/track/5qA0Ks0QbF95BLz5QegTQR) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [QUEEN](https://open.spotify.com/album/5WUYatYzBqFfWBdTlaCvYs) | 3:38 | 2023-09-27 | 2024-01-09 |
@@ -896,7 +897,7 @@
 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 | 2022-07-22 |  |
 | [TOMBOY](https://open.spotify.com/track/6DywghQdi3HQwC8eZkEkfa) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/0P77m9Pm6OWT3gNogzFGJr) | 4:01 | 2022-04-22 | 2022-07-29 |
 | [Tomorrow, Today](https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10) | [JJ Project](https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW) | [Verse 2](https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN) | 3:55 | 2022-04-21 | 2023-08-07 |
-| [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 | 2022-04-22 |  |
+| [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 | 2022-04-22 | 2025-09-16 |
 | [Transfigure \(Feat\. Kim Doyeong\)](https://open.spotify.com/track/3Id3wHPoxdiS4BmrYQfe34) | [DEVSISTERS](https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX), [Kim Doyeong](https://open.spotify.com/artist/6oyiogQiavwFCvd3YG6BSS) | [Cookie Run: Kingdom OST Summer Soda Rock Festa](https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG) | 3:31 | 2023-07-12 | 2023-07-29 |
 | [Tremolo](https://open.spotify.com/track/1TndoyXL6C0Mio69RAQLhR) | [TransFixion](https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3) | [Tremolo](https://open.spotify.com/album/7g0jhiGnJvAMBQ6vRQFAPp) | 4:54 | 2022-07-22 | 2022-07-24 |
 | [TROUBLE MAKER](https://open.spotify.com/track/05p6Ez6LMSZm6Quhb0QhLj) | [901DCOLA](https://open.spotify.com/artist/0OvaIuuU6DY7SRh0Gq9MUv) | [TROUBLE MAKER](https://open.spotify.com/album/53gExAk44UuhdZLKIc3q7l) | 3:30 | 2022-05-11 | 2022-07-02 |
@@ -1030,6 +1031,7 @@
 | [사랑은 먼지 같아도](https://open.spotify.com/track/2wkREQBFKKJwTBQSDLX6cE) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [그냥](https://open.spotify.com/album/1flU2TXdMjvTwsGnJxKcHN) | 3:20 | 2023-04-26 | 2023-05-13 |
 | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/track/5oKr4zxLZxe4rNj2SrzWYR) | [Jisokury](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/album/7lGC2tpIRttYuRWGazMQP2) | 4:15 | 2022-10-02 | 2022-10-19 |
 | [세션맨](https://open.spotify.com/track/17Zyp5evNDU8i3A21bX7ii) | [AMHO](https://open.spotify.com/artist/5HletaYAQGurTXlY0WfFHs) | [SESSION MAN](https://open.spotify.com/album/4uVMcFU1GiebB352eAsI6p) | 3:42 | 2023-01-26 | 2023-02-15 |
+| [숨바꼭질 \(Hide and Seek\)](https://open.spotify.com/track/50KEW5h9sVUOVOvOB9ZABe) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [숨바꼭질 \(Hide and Seek\)](https://open.spotify.com/album/0zWJsGW7LN6rg1PwsEHPWc) | 3:24 | 2025-09-16 |  |
 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 | 2022-07-22 | 2023-04-06 |
 | [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 | 2024-05-09 | 2024-11-07 |
 | [아름다웠던 너에게 \(Feat\. 추서준\)](https://open.spotify.com/track/14RITV3hrIexqMrp1jVMpF) | [Biyun](https://open.spotify.com/artist/4KOCZCiuT66e6lEpYEkNBk), [Chu Seo Jun](https://open.spotify.com/artist/1rVGJZbfXkVcGv0qpOprl2) | [아름다웠던 너에게 \(Feat\. 추서준\)](https://open.spotify.com/album/42NNKD5OS2Dm6OM0FDKAjZ) | 3:17 | 2024-04-09 | 2024-05-10 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 22962,
+  "num_followers": 22963,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAACtb8ThN2W6eDWHvRubg4Ie",
+  "snapshot_id": "aMYFgAAAAABAW8vVRobsAtzAsA9G+0TW",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crimson",
-        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 251986,
-      "name": "Time to Waste",
-      "url": "https://open.spotify.com/track/6q0058HsQQ7Ch3SrvcatAD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maybe I'll Catch Fire",
         "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 281040,
       "name": "Radio",
       "url": "https://open.spotify.com/track/0YJvSDPuh3MmmpHkvMFJc5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 251986,
+      "name": "Time to Waste",
+      "url": "https://open.spotify.com/track/6q0058HsQQ7Ch3SrvcatAD"
     },
     {
       "added_at": null,
@@ -459,38 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Mourning",
-        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 136160,
-      "name": "Fatally Yours",
-      "url": "https://open.spotify.com/track/1paIlsdJpkQgPmQ8f6U8RA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blood, Hair, And Eyeballs",
-        "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 203533,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/4447WSwIe8Q9LNKIh7kZDQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Agony & Irony (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
       },
@@ -511,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crimson",
-        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
+        "name": "Blood, Hair, And Eyeballs",
+        "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
       },
       "artists": [
         {
@@ -520,9 +488,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 124560,
-      "name": "The Poison",
-      "url": "https://open.spotify.com/track/2uO0Rd59JF7D1pWBUwEWKg"
+      "duration_ms": 203533,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/4447WSwIe8Q9LNKIh7kZDQ"
     },
     {
       "added_at": null,
@@ -543,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood, Hair, And Eyeballs",
-        "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 238973,
-      "name": "Shake With Me",
-      "url": "https://open.spotify.com/track/4rRFTcNXhp2y2thpIoItHR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Addiction (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4otoRgtApYRPsuxrW3Xaxj"
       },
@@ -575,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Alkaline Trio",
-        "url": "https://open.spotify.com/album/0H1aJgfXxsVNzfpAlKGhtH"
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
       },
       "artists": [
         {
@@ -584,9 +536,25 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 134880,
-      "name": "My Friend Peter",
-      "url": "https://open.spotify.com/track/7s5Q2uZ3NcolrQnyCZx0zX"
+      "duration_ms": 124560,
+      "name": "The Poison",
+      "url": "https://open.spotify.com/track/2uO0Rd59JF7D1pWBUwEWKg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood, Hair, And Eyeballs",
+        "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 238973,
+      "name": "Shake With Me",
+      "url": "https://open.spotify.com/track/4rRFTcNXhp2y2thpIoItHR"
     },
     {
       "added_at": null,
@@ -600,9 +568,25 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 198893,
-      "name": "Every Thug Needs a Lady",
-      "url": "https://open.spotify.com/track/15TRw56sh5Trmt4nhM2zyn"
+      "duration_ms": 136160,
+      "name": "Fatally Yours",
+      "url": "https://open.spotify.com/track/1paIlsdJpkQgPmQ8f6U8RA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Alkaline Trio",
+        "url": "https://open.spotify.com/album/0H1aJgfXxsVNzfpAlKGhtH"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 134880,
+      "name": "My Friend Peter",
+      "url": "https://open.spotify.com/track/7s5Q2uZ3NcolrQnyCZx0zX"
     },
     {
       "added_at": null,
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is This Thing Cursed?",
-        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
       },
       "artists": [
         {
@@ -648,9 +632,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 200240,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/4xQa40wrBDGrIyt3GpHlU1"
+      "duration_ms": 198893,
+      "name": "Every Thug Needs a Lady",
+      "url": "https://open.spotify.com/track/15TRw56sh5Trmt4nhM2zyn"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
       "duration_ms": 289706,
       "name": "Fuck You Aurora",
       "url": "https://open.spotify.com/track/2VDhNJigUBtbkxToyLPu2I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/4xQa40wrBDGrIyt3GpHlU1"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is This Thing Cursed?",
-        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 163506,
-      "name": "Is This Thing Cursed?",
-      "url": "https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maybe I'll Catch Fire",
         "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 187480,
       "name": "Maybe I'll Catch Fire",
       "url": "https://open.spotify.com/track/1SAu5cfWXQPqd3CppSkhWA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Is This Thing Cursed?",
+      "url": "https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk"
     },
     {
       "added_at": null,

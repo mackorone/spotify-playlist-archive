@@ -4,7 +4,7 @@
 
 > 
 
-446 songs - 1 day 5 hr 41 min
+448 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Chaos Space Marine](https://open.spotify.com/track/6kNYZ2Hf2QCpQhIuPxffkp) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Chaos Space Marine](https://open.spotify.com/album/2huSLowZzNhStzbu9C1Eko) | 3:36 | 2021-10-12 | 2022-06-22 |
 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 | 2024-02-02 | 2024-04-27 |
 | [Childhood](https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:51 | 2025-07-14 |  |
+| [Children of the Baked Potato](https://open.spotify.com/track/0sCjYTtc6PW1vkKJcKO00b) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 4:06 | 2025-09-15 |  |
 | [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 | 2024-02-02 | 2024-06-08 |
 | [CHROMA 002 L.A.V.A](https://open.spotify.com/track/53U1tJGUPNaTUfOqoAsbVx) | [B.D.B](https://open.spotify.com/artist/6sXF3naVGIqO5axr7EVgPi), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Benjamin Damage](https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT) | [CHROMA 002](https://open.spotify.com/album/1iWBYSVDon9oIE7Tn4M0mw) | 4:09 | 2024-03-14 | 2024-06-19 |
 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 | 2024-05-03 | 2024-07-25 |
@@ -219,6 +220,7 @@
 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 | 2022-02-10 | 2022-07-15 |
 | [I Saw](https://open.spotify.com/track/2KyawAGl39jfqeZOrVJanN) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [I Saw](https://open.spotify.com/album/5dYFkoGHXg0xjjtXEqZkwV) | 3:27 | 2022-10-20 | 2023-05-04 |
 | [I Smile for E](https://open.spotify.com/track/2Wcv0p4gniHJ1rJvUae3B9) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [I Smile for E](https://open.spotify.com/album/5LhyZEaz7iQYniUzgkMSsk) | 3:08 | 2023-02-23 | 2023-07-07 |
+| [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 | 2025-09-15 |  |
 | [I'd Rather Not Think About It](https://open.spotify.com/track/2h0vIjcPUidp6xJjx7O0dl) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Felix](https://open.spotify.com/artist/5wjBidqp8mV29FhdOVeXP8) | [Anywhere, But Here With You](https://open.spotify.com/album/3GQuAjzfQV1eOL0ukXf33v) | 4:23 | 2024-11-29 |  |
 | [If We Only Knew \(From the Documentary Film "Blue Carbon”\)](https://open.spotify.com/track/56DNY0mhdCjbZihfRRPUEi) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [If We Only Knew \(From the Documentary Film "Blue Carbon”\)](https://open.spotify.com/album/0RKMHWmW6g5JZWZnvW2a4f) | 3:50 | 2024-06-20 | 2024-09-14 |
 | [ILIKEU](https://open.spotify.com/track/5bp8cOT9xug35hnhZgW9d7) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [ILIKEU](https://open.spotify.com/album/3Cm2wePohVXeqf3OLEZULA) | 2:41 | 2024-03-28 | 2024-06-26 |

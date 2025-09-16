@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 60892,
+  "num_followers": 60888,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2025-09-14 16:00:04",
       "album": {
-        "name": "say something",
-        "url": "https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 144544,
-      "name": "say something",
-      "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
-    },
-    {
-      "added_at": "2025-09-14 16:00:04",
-      "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 164682,
       "name": "BABY SAID",
       "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
+    },
+    {
+      "added_at": "2025-09-14 16:00:04",
+      "album": {
+        "name": "say something",
+        "url": "https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 144544,
+      "name": "say something",
+      "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
     },
     {
       "added_at": "2025-09-14 16:00:04",
@@ -275,6 +275,22 @@
     {
       "added_at": "2025-09-14 16:00:04",
       "album": {
+        "name": "From Zero (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 208739,
+      "name": "Let You Fade",
+      "url": "https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc"
+    },
+    {
+      "added_at": "2025-09-14 16:00:04",
+      "album": {
         "name": "GOSSIP (feat. Tom Morello)",
         "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
       },
@@ -327,22 +343,6 @@
     {
       "added_at": "2025-09-14 16:00:04",
       "album": {
-        "name": "From Zero (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 208739,
-      "name": "Let You Fade",
-      "url": "https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc"
-    },
-    {
-      "added_at": "2025-09-14 16:00:04",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA"
       },
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-09-14 16:00:04",
       "album": {
-        "name": "fleabag",
-        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 176988,
-      "name": "fleabag",
-      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
-    },
-    {
-      "added_at": "2025-09-14 16:00:04",
-      "album": {
         "name": "Born Without a Heart",
         "url": "https://open.spotify.com/album/5EOIYFpu56h7AgQxCRcyZG"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 198896,
       "name": "Born Without a Heart",
       "url": "https://open.spotify.com/track/6i5jBmnB22alUpJ7hpznuj"
+    },
+    {
+      "added_at": "2025-09-14 16:00:04",
+      "album": {
+        "name": "fleabag",
+        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 176988,
+      "name": "fleabag",
+      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
     },
     {
       "added_at": "2025-09-14 16:00:04",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-09-14 16:00:04",
       "album": {
-        "name": "Fools Gold",
-        "url": "https://open.spotify.com/album/2jYLzXEZ5ki5itbFQhADAV"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 192700,
-      "name": "Orbit",
-      "url": "https://open.spotify.com/track/6LBMBIzdGj4RKhJeTcTBjr"
-    },
-    {
-      "added_at": "2025-09-14 16:00:04",
-      "album": {
         "name": "MAMMAMIA",
         "url": "https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme"
       },
@@ -467,18 +451,18 @@
     {
       "added_at": "2025-09-14 16:00:04",
       "album": {
-        "name": "RUNAWAY",
-        "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
+        "name": "Fools Gold",
+        "url": "https://open.spotify.com/album/2jYLzXEZ5ki5itbFQhADAV"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
         }
       ],
-      "duration_ms": 143264,
-      "name": "RUNAWAY",
-      "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
+      "duration_ms": 192700,
+      "name": "Orbit",
+      "url": "https://open.spotify.com/track/6LBMBIzdGj4RKhJeTcTBjr"
     },
     {
       "added_at": "2025-09-14 16:00:04",
@@ -515,6 +499,22 @@
     {
       "added_at": "2025-09-14 16:00:04",
       "album": {
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 143264,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
+    },
+    {
+      "added_at": "2025-09-14 16:00:04",
+      "album": {
         "name": "Blame It On You",
         "url": "https://open.spotify.com/album/0AugyhUKbkwvVwSYoQba4b"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 200645,
       "name": "Let's Love",
       "url": "https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS"
+    },
+    {
+      "added_at": "2025-09-14 16:00:04",
+      "album": {
+        "name": "HONEY (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 167276,
+      "name": "HONEY (ARE U COMING?)",
+      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
     },
     {
       "added_at": "2025-09-14 16:00:04",
@@ -599,34 +615,18 @@
     {
       "added_at": "2025-09-14 16:00:04",
       "album": {
-        "name": "HONEY (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+        "name": "Saviors",
+        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 167276,
-      "name": "HONEY (ARE U COMING?)",
-      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
-    },
-    {
-      "added_at": "2025-09-14 16:00:04",
-      "album": {
-        "name": "White Horses",
-        "url": "https://open.spotify.com/album/6tEb8Sfv84ZzelGTWS7Ni0"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 269826,
-      "name": "White Horses",
-      "url": "https://open.spotify.com/track/28lKZhxCDxqJEPyK8G4y91"
+      "duration_ms": 224310,
+      "name": "Bobby Sox",
+      "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
     },
     {
       "added_at": "2025-09-14 16:00:04",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-09-14 16:00:04",
       "album": {
-        "name": "Saviors",
-        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 224310,
-      "name": "Bobby Sox",
-      "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
-    },
-    {
-      "added_at": "2025-09-14 16:00:04",
-      "album": {
         "name": "Little Bit of Love",
         "url": "https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 226268,
       "name": "Little Bit of Love",
       "url": "https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1"
+    },
+    {
+      "added_at": "2025-09-14 16:00:04",
+      "album": {
+        "name": "White Horses",
+        "url": "https://open.spotify.com/album/6tEb8Sfv84ZzelGTWS7Ni0"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 269826,
+      "name": "White Horses",
+      "url": "https://open.spotify.com/track/28lKZhxCDxqJEPyK8G4y91"
     },
     {
       "added_at": "2025-09-14 16:00:04",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-09-14 16:00:04",
       "album": {
-        "name": "Can I Call You in the Morning?",
-        "url": "https://open.spotify.com/album/0gXpSB96t4TichIngTEPeU"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 172402,
-      "name": "Can I Call You in the Morning?",
-      "url": "https://open.spotify.com/track/6xNDstLohLwOsLk78cygMr"
-    },
-    {
-      "added_at": "2025-09-14 16:00:04",
-      "album": {
         "name": "Wake Up & It's Over",
         "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2025-09-14 16:00:04",
       "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2025-09-14 16:00:04",
+      "album": {
         "name": "Remind Me",
         "url": "https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt"
       },
@@ -1095,6 +1095,22 @@
       "duration_ms": 211167,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8"
+    },
+    {
+      "added_at": "2025-09-14 16:00:04",
+      "album": {
+        "name": "Can I Call You in the Morning?",
+        "url": "https://open.spotify.com/album/0gXpSB96t4TichIngTEPeU"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 172402,
+      "name": "Can I Call You in the Morning?",
+      "url": "https://open.spotify.com/track/6xNDstLohLwOsLk78cygMr"
     },
     {
       "added_at": "2025-09-14 16:00:04",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2025-09-14 16:00:04",
       "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
-    },
-    {
-      "added_at": "2025-09-14 16:00:04",
-      "album": {
         "name": "How Do You Love Somebody",
         "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 180065,
       "name": "How Do You Love Somebody",
       "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
-    },
-    {
-      "added_at": "2025-09-14 16:00:04",
-      "album": {
-        "name": "Good Side",
-        "url": "https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 164286,
-      "name": "Good Side",
-      "url": "https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv"
     },
     {
       "added_at": "2025-09-14 16:00:04",
@@ -1183,6 +1167,22 @@
       "duration_ms": 205792,
       "name": "Bones (feat. OneRepublic)",
       "url": "https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv"
+    },
+    {
+      "added_at": "2025-09-14 16:00:04",
+      "album": {
+        "name": "Good Side",
+        "url": "https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 164286,
+      "name": "Good Side",
+      "url": "https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv"
     },
     {
       "added_at": "2025-09-14 16:00:04",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2025-09-14 16:00:04",
       "album": {
-        "name": "can we start over?",
-        "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
+        "name": "Irrelevant",
+        "url": "https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J"
       },
       "artists": [
         {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 187596,
-      "name": "spite",
-      "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
+      "duration_ms": 232384,
+      "name": "Irrelevant",
+      "url": "https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH"
     }
   ],
   "unique_name": "\u5fc3\u60c5\u5927\u632f",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : איה זהבי פייגלין
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,575 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,576 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 4 | [African Coast](https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Trinidad James](https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7) | [African Coast](https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na) | 3:02 |
 | 5 | [Not My Problem](https://open.spotify.com/track/4qw40VAmTc9SIwmpMwG32u) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Not My Problem](https://open.spotify.com/album/1mI51SzUpxpuyhH3c8NFWD) | 2:55 |
 | 6 | [Unfurling Dream](https://open.spotify.com/track/6NyGMNJTXnn3keVdHQZeZ2) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Unfurling Dream](https://open.spotify.com/album/4jPc7jqjSca8rkAgYRuXII) | 5:48 |
-| 7 | [Midnight Blue](https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T) | [Omer Netzer](https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d) | [Midnight Blue](https://open.spotify.com/album/6d9kdw3DKd8821NezRmK6Q) | 3:49 |
+| 7 | [דמיון חופשי](https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 3:21 |
 | 8 | [אליפלט 2.0](https://open.spotify.com/track/6gCFROAeubD5aIa8iatVjB) | [Aya Korem](https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25) | [אליפלט 2.0](https://open.spotify.com/album/7JcKgKzBwslDAqqtt6Vla6) | 5:18 |
 | 9 | [360](https://open.spotify.com/track/4CFNVoLBv6DNQO0IOox6u7) | [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd) | [360](https://open.spotify.com/album/4Spchm6vre9ivSTtnS4eZB) | 3:04 |
 | 10 | [אשכרה מה שקרה](https://open.spotify.com/track/1S8hoTrnprqQLWKKk7FXs1) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [מקהלת זולת](https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd), [פז דמארי](https://open.spotify.com/artist/2sbI28qb7PyxnqWi48pNx7) | [אשכרה מה שקרה](https://open.spotify.com/album/39R8S78JAEpO2GZ4Foduv9) | 5:08 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 25 | [נראה לי גדול עליי](https://open.spotify.com/track/0V9HDVYyQKRBQ8mHKXRiJ8) | [עמר גשן](https://open.spotify.com/artist/0oLMEeiq8Fyv2QI35LtsKX) | [מזכרת לילדים](https://open.spotify.com/album/4I6ZdbM6E5B8OfyvWKVSag) | 3:06 |
 | 26 | [עד שיבוא](https://open.spotify.com/track/7dlt9IeIDoNAJyp59oiBOa) | [ניצן אלון](https://open.spotify.com/artist/0GHCd1IWetBFg2HuAelOSy) | [בדיוק במקום הנכון](https://open.spotify.com/album/4cM5aMPXVPl3R8PB00kBEx) | 3:26 |
 | 27 | [WATCH THE NEWS](https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [WATCH THE NEWS](https://open.spotify.com/album/5OM5AobrcNnYzh3mNdcprJ) | 2:46 |
-| 28 | [דמיון חופשי](https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 3:21 |
+| 28 | [Midnight Blue](https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T) | [Omer Netzer](https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d) | [Midnight Blue](https://open.spotify.com/album/6d9kdw3DKd8821NezRmK6Q) | 3:49 |
 | 29 | [Better Days](https://open.spotify.com/track/7rVZ3metyjOfUAAecxlVVI) | [Ester Rada](https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g) | [Better Days](https://open.spotify.com/album/2kP2nJGaB2PXiAd5g2Yf8N) | 3:59 |
 | 30 | [כמה יופי יש](https://open.spotify.com/track/6vYwxSKsDKE6GZQugBxmDG) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [כמה יופי יש](https://open.spotify.com/album/0VkPzoyQx30S58HkI7Mi8l) | 3:54 |
 | 31 | [בוקר טוב יא בני זונות](https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Shredhead](https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm) | [כאב ודמעות 2](https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA) | 3:37 |

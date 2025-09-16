@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 30608,
+  "num_followers": 30658,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,26 @@
     {
       "added_at": "2025-08-28 07:59:31",
       "album": {
+        "name": "Ghazal",
+        "url": "https://open.spotify.com/album/7KH85irsR6yzG4GUDEeoaR"
+      },
+      "artists": [
+        {
+          "name": "Ammri",
+          "url": "https://open.spotify.com/artist/5MPjfZvwPc5tjpNNPYDxQr"
+        },
+        {
+          "name": "Jang Dhillon",
+          "url": "https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq"
+        }
+      ],
+      "duration_ms": 199511,
+      "name": "Ghazal",
+      "url": "https://open.spotify.com/track/3eRa8kceGoVTtF8e2PYvCi"
+    },
+    {
+      "added_at": "2025-08-28 07:59:31",
+      "album": {
         "name": "Tu Mane Ya Na Mane",
         "url": "https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI"
       },
@@ -275,6 +295,26 @@
       "duration_ms": 868387,
       "name": "Tu Mane Ya Na Mane - Edit Version",
       "url": "https://open.spotify.com/track/1RjvAAfONgaKgseqqRXZ3B"
+    },
+    {
+      "added_at": "2025-08-28 07:59:31",
+      "album": {
+        "name": "Seasons of Sartaaj",
+        "url": "https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        },
+        {
+          "name": "Nargis Fakhri",
+          "url": "https://open.spotify.com/artist/1tSV6wUtJWPNuEp4aSMzhS"
+        }
+      ],
+      "duration_ms": 310658,
+      "name": "Tere Vaastey",
+      "url": "https://open.spotify.com/track/6CPStPrCzQaNxRHP9gid67"
     },
     {
       "added_at": "2025-08-28 07:59:31",
@@ -307,46 +347,6 @@
     {
       "added_at": "2025-08-28 07:59:31",
       "album": {
-        "name": "Seasons of Sartaaj",
-        "url": "https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6"
-      },
-      "artists": [
-        {
-          "name": "Satinder Sartaaj",
-          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
-        },
-        {
-          "name": "Nargis Fakhri",
-          "url": "https://open.spotify.com/artist/1tSV6wUtJWPNuEp4aSMzhS"
-        }
-      ],
-      "duration_ms": 310658,
-      "name": "Tere Vaastey",
-      "url": "https://open.spotify.com/track/6CPStPrCzQaNxRHP9gid67"
-    },
-    {
-      "added_at": "2025-08-28 07:59:31",
-      "album": {
-        "name": "Ghazal",
-        "url": "https://open.spotify.com/album/7KH85irsR6yzG4GUDEeoaR"
-      },
-      "artists": [
-        {
-          "name": "Ammri",
-          "url": "https://open.spotify.com/artist/5MPjfZvwPc5tjpNNPYDxQr"
-        },
-        {
-          "name": "Jang Dhillon",
-          "url": "https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq"
-        }
-      ],
-      "duration_ms": 199511,
-      "name": "Ghazal",
-      "url": "https://open.spotify.com/track/3eRa8kceGoVTtF8e2PYvCi"
-    },
-    {
-      "added_at": "2025-08-28 07:59:31",
-      "album": {
         "name": "Greatest Hits Of Manmohan Waris",
         "url": "https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9"
       },
@@ -359,6 +359,22 @@
       "duration_ms": 417213,
       "name": "Kalli Beh Ke Sochni",
       "url": "https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64"
+    },
+    {
+      "added_at": "2025-08-28 07:59:31",
+      "album": {
+        "name": "Pyar Hoyi Janda Ae (From \"Arjan\")",
+        "url": "https://open.spotify.com/album/3naa4ohg6r82kiizdnUMBT"
+      },
+      "artists": [
+        {
+          "name": "Nooran Sisters",
+          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
+        }
+      ],
+      "duration_ms": 283636,
+      "name": "Pyar Hoyi Janda Ae - From \"Arjan\"",
+      "url": "https://open.spotify.com/track/0PrYEWfbDw2tQXb5q68M2j"
     },
     {
       "added_at": "2025-08-28 07:59:31",
@@ -379,22 +395,6 @@
       "duration_ms": 543346,
       "name": "Waris Shah Nu",
       "url": "https://open.spotify.com/track/4tfk5JMKtuPZ9omn8SxxsG"
-    },
-    {
-      "added_at": "2025-08-28 07:59:31",
-      "album": {
-        "name": "Pyar Hoyi Janda Ae (From \"Arjan\")",
-        "url": "https://open.spotify.com/album/3naa4ohg6r82kiizdnUMBT"
-      },
-      "artists": [
-        {
-          "name": "Nooran Sisters",
-          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
-        }
-      ],
-      "duration_ms": 283636,
-      "name": "Pyar Hoyi Janda Ae - From \"Arjan\"",
-      "url": "https://open.spotify.com/track/0PrYEWfbDw2tQXb5q68M2j"
     },
     {
       "added_at": "2025-08-28 07:59:31",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-08-28 07:59:31",
       "album": {
-        "name": "Ichhabal Modern Punjabi Poerty",
-        "url": "https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp"
-      },
-      "artists": [
-        {
-          "name": "Jagjit Singh",
-          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
-        }
-      ],
-      "duration_ms": 229013,
-      "name": "Ghamaan Di Raat Lammi Ae",
-      "url": "https://open.spotify.com/track/6KhkY86gENhVTXcVfGUxEJ"
-    },
-    {
-      "added_at": "2025-08-28 07:59:31",
-      "album": {
         "name": "DUMA DUM MAST QALANDER (Rebooted & Revved Up)",
         "url": "https://open.spotify.com/album/0ryfzVTE1efrUdiRmnR5eI"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 249545,
       "name": "DUMA DUM MAST QALANDER - Rebooted & Revved Up",
       "url": "https://open.spotify.com/track/6uVX6rVtBCNk648wmMtWOU"
+    },
+    {
+      "added_at": "2025-08-28 07:59:31",
+      "album": {
+        "name": "Ichhabal Modern Punjabi Poerty",
+        "url": "https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        }
+      ],
+      "duration_ms": 229013,
+      "name": "Ghamaan Di Raat Lammi Ae",
+      "url": "https://open.spotify.com/track/6KhkY86gENhVTXcVfGUxEJ"
     },
     {
       "added_at": "2025-08-28 07:59:31",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-2,781 songs - 6 day 5 hr 39 min
+2,782 songs - 6 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,7 +643,7 @@
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-19 | 2025-01-06 |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-05 | 2025-04-07 |
 | [endale](https://open.spotify.com/track/34UarUABGNQ2RPL5zZBEjY) | [An\-Marlen](https://open.spotify.com/artist/4Ej2jIiPJF0VL1F92mwmOx) | [endale](https://open.spotify.com/album/1QerTlrDGcXstMvXieBmj7) | 3:05 | 2023-09-22 | 2023-11-07 |
-| [endale](https://open.spotify.com/track/0CN7ejrQqkAck99BvIW4QN) | [An\-Marlen](https://open.spotify.com/artist/4Ej2jIiPJF0VL1F92mwmOx), [boipepperoni](https://open.spotify.com/artist/0MjPNmazpZOmBH1nOMaeQY) | [Iseendale \(Deluxe\)](https://open.spotify.com/album/5mqacVC7EItAEzqIe9lJ9z) | 3:05 | 2025-05-29 |  |
+| [endale](https://open.spotify.com/track/0CN7ejrQqkAck99BvIW4QN) | [An\-Marlen](https://open.spotify.com/artist/4Ej2jIiPJF0VL1F92mwmOx), [boipepperoni](https://open.spotify.com/artist/0MjPNmazpZOmBH1nOMaeQY) | [Iseendale \(Deluxe\)](https://open.spotify.com/album/5mqacVC7EItAEzqIe9lJ9z) | 3:05 | 2025-05-29 | 2025-09-16 |
 | [Endine](https://open.spotify.com/track/0XFa6jczIRucbIynBVC6sJ) | [Reket](https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN), [An\-Marlen](https://open.spotify.com/artist/4Ej2jIiPJF0VL1F92mwmOx) | [Palun Puhka](https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D) | 2:33 | 2022-05-07 | 2022-05-15 |
 | [Endless Fashion \(feat\. Nicki Minaj\)](https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:36 | 2023-07-01 | 2023-07-04 |
 | [Endless Suvi](https://open.spotify.com/track/6t80omZop9jzqAvF4HvEh2) | [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [Endless Suvi](https://open.spotify.com/album/2bk1fZTqZPE2X3sWkunYK2) | 2:31 | 2025-05-03 | 2025-05-09 |
@@ -2391,6 +2391,7 @@
 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 | 2025-02-08 | 2025-07-29 |
 | [tiit marvel](https://open.spotify.com/track/5vpRJ11UdT4IXlSUHIqUxg) | [säm](https://open.spotify.com/artist/6kvEy25jX5e1RtdFn1Eo3X) | [Südamelt ära \(Deluxe\)](https://open.spotify.com/album/11hSAbGw2n31AZ0p5YYzGj) | 2:00 | 2025-02-27 | 2025-09-10 |
 | [TiK ToK](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:19 | 2025-01-01 | 2025-01-03 |
+| [TIKUPOISS](https://open.spotify.com/track/2GHaN7ypKaapDNlfdOSQHd) | [jooseppro](https://open.spotify.com/artist/7gOV81gizKQeukzb4ZOlaz), [Lennu](https://open.spotify.com/artist/76zdHqlv9pOHer64YL3Xxk) | [TIKUPOISS](https://open.spotify.com/album/2Nb0WCFqaFPMC14OmZrglt) | 2:11 | 2025-09-15 |  |
 | [TIL FURTHER NOTICE \(feat\. James Blake & 21 Savage\)](https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:14 | 2023-07-29 | 2023-08-04 |
 | [Timber](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:24 | 2025-01-01 | 2025-01-03 |
 | [TIME MOVING SLOW](https://open.spotify.com/track/6UrsyvM8b3RMperY8vybgK) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 2:39 | 2024-08-04 | 2024-08-06 |

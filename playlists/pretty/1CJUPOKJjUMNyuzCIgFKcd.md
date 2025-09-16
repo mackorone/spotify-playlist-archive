@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,105 likes - 64 songs - 2 hr 58 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,099 likes - 72 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,5 +72,13 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 | 62 | [SINS \(with Sueco & WesGhost\)](https://open.spotify.com/track/2YUrjNtdRSDVR35IBiyLlq) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [SINS \(with Sueco & WesGhost\)](https://open.spotify.com/album/5r5oU1Zx0paGlnx0PfryqZ) | 3:52 |
 | 63 | [Do Sum With It \- Acoustic](https://open.spotify.com/track/1piFQcpwMnUUEGODTtNm57) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Shordie Hendrix \(Acoustic Sessions\)](https://open.spotify.com/album/7uiK2YlEF9NPhd2Cm9BvyO) | 3:42 |
 | 64 | [Diamond Stitching](https://open.spotify.com/track/1cVDuG58Cj3RGe8ySKwY6i) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Diamond Stitching](https://open.spotify.com/album/1SLHvtzblS30JZW9anryTE) | 2:29 |
+| 65 | [Come Back](https://open.spotify.com/track/5Sz3KSjjDw6BaBYfMzv4my) | [Yatta Bandz](https://open.spotify.com/artist/3n8GvDXY1OgG57akv31SHK) | [Come Back](https://open.spotify.com/album/5LSl72fGXMhsQgKr3G7iql) | 2:52 |
+| 66 | [RIFLE](https://open.spotify.com/track/3QZSYMCI1CWUNtNFlMxaqF) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm) | [RIFLE](https://open.spotify.com/album/05bhReG3C3daxfO4n3iHuD) | 2:15 |
+| 67 | [Still Feels The Same](https://open.spotify.com/track/3S1OoEefEIr19VaP9glJS9) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Still Feels The Same](https://open.spotify.com/album/3osSwN8ncik0vVB5TJ7rOB) | 3:01 |
+| 68 | [Thinking Out Loud](https://open.spotify.com/track/2xNwdv5MIQhNczrj7emsvi) | [Lil Pete](https://open.spotify.com/artist/5ULJ18n8PZ9rJv5kYsZByV) | [Thinking Out Loud](https://open.spotify.com/album/6VkUMEz3FJ0rHnN9TV6gns) | 2:17 |
+| 69 | [Get Money & Mind My Business](https://open.spotify.com/track/3FrcCG7jaslZRSbx9x0EwD) | [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii) | [Get Money & Mind My Business](https://open.spotify.com/album/2Z0OEAT6abZi1QoLEYfGPh) | 2:50 |
+| 70 | [intro](https://open.spotify.com/track/3sCg8bSC5goy3EtFddOeDr) | [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [Nutso Thugn](https://open.spotify.com/artist/78rTbFck3iQAeWR2O06JJh) | [intro](https://open.spotify.com/album/23JuPo0WXHKwWnu5L5FOVT) | 2:34 |
+| 71 | [Runnin' Out](https://open.spotify.com/track/1ZHFRdoknRywefniSsZTWN) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Runnin' Out](https://open.spotify.com/album/41ocYSorg2ccPLzCVDwSwu) | 2:27 |
+| 72 | [Rose](https://open.spotify.com/track/5tSWQPbUQUgc5wG6oEewwQ) | [Siete7x](https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Rose](https://open.spotify.com/album/2aSZxunbzSgHottSApgzUO) | 3:04 |
 
-Snapshot ID: `AAAmyvmMfeD5UxCGPlTxKUKhRsRxvBup`
+Snapshot ID: `AAAm0s9k6+EwbIMXVH+Nt0ygq5BDBUL0`

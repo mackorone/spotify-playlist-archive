@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 17197,
+  "num_followers": 17200,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-08-12 05:33:53",
       "album": {
+        "name": "Without Anyone Knowing",
+        "url": "https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A"
+      },
+      "artists": [
+        {
+          "name": "Jeon Jin Hee",
+          "url": "https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "A Trivial Story",
+      "url": "https://open.spotify.com/track/057qC3IXkjXt12NAkhkCpf"
+    },
+    {
+      "added_at": "2025-08-12 05:33:53",
+      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 191191,
       "name": "Distance (Feat. I.M of MONSTA X)",
       "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
-    },
-    {
-      "added_at": "2025-08-12 05:33:53",
-      "album": {
-        "name": "Without Anyone Knowing",
-        "url": "https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A"
-      },
-      "artists": [
-        {
-          "name": "Jeon Jin Hee",
-          "url": "https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "A Trivial Story",
-      "url": "https://open.spotify.com/track/057qC3IXkjXt12NAkhkCpf"
     },
     {
       "added_at": "2025-08-12 05:33:53",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-08-12 05:33:53",
       "album": {
-        "name": "6equence",
-        "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "ddu ddu ddu",
-      "url": "https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN"
-    },
-    {
-      "added_at": "2025-08-12 05:33:53",
-      "album": {
         "name": "Alive with you",
         "url": "https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 203500,
       "name": "Alive with you (feat. SFC.JGR)",
       "url": "https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4"
+    },
+    {
+      "added_at": "2025-08-12 05:33:53",
+      "album": {
+        "name": "6equence",
+        "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "ddu ddu ddu",
+      "url": "https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN"
     },
     {
       "added_at": "2025-08-12 05:33:53",

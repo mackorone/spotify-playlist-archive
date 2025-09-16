@@ -4,7 +4,7 @@
 
 > Найпопулярніші пісні сьогодення\. Обкладинка: MONATIK & DOROFEEVA
 
-145 songs - 7 hr 10 min
+147 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-28 | 2024-12-13 |
 | [DVD](https://open.spotify.com/track/5DOUS7y3JEvH5w7ZPlZU6m) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [DVD](https://open.spotify.com/album/5o5bCyWIsXJoKZSUiucJi6) | 2:46 | 2024-12-19 | 2025-04-15 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-06-27 | 2024-08-06 |
-| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-27 |  |
+| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-27 | 2025-09-16 |
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-06-27 | 2024-07-12 |
 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 | 2025-03-20 | 2025-04-25 |
 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-06-27 | 2024-07-16 |
@@ -71,7 +71,7 @@
 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 | 2025-01-30 |  |
 | [Афини](https://open.spotify.com/track/0wcmkRMI8LXdwo33vu8onJ) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Афини](https://open.spotify.com/album/51n7THK4a91U6S6QJDpqFs) | 3:22 | 2025-08-11 |  |
 | [Бар за баром](https://open.spotify.com/track/2EJZw3QSNQS1LSIQMTd2TQ) | [Анна Трінчер](https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E) | [Бар за баром](https://open.spotify.com/album/1Q6PmLZZ13aQQ4jWr9sELF) | 2:17 | 2024-06-27 | 2024-07-12 |
-| [Барабан](https://open.spotify.com/track/0sv5dBy1hGWXCVR1fI9Vbd) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Барабан](https://open.spotify.com/album/1iemYoEiON96kgPkMXuLqF) | 3:10 | 2024-06-27 |  |
+| [Барабан](https://open.spotify.com/track/0sv5dBy1hGWXCVR1fI9Vbd) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Барабан](https://open.spotify.com/album/1iemYoEiON96kgPkMXuLqF) | 3:10 | 2024-06-27 | 2025-09-16 |
 | [Буревіями](https://open.spotify.com/track/0LydTnU3RQKbgMCKFWQ5nS) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz), [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Буревіями](https://open.spotify.com/album/7xOUWVVIMccfuLyUskG9eX) | 3:47 | 2024-06-27 | 2024-08-09 |
 | [ВИМОЛИВ](https://open.spotify.com/track/50TDvOruXEGPPgyfn0jWck) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q), [Evgeny Khmara](https://open.spotify.com/artist/1zJK2aIQTlvLYcq7qrtUc3) | [ВИМОЛИВ](https://open.spotify.com/album/6eKUX8WOlayrj5zTWuZmRc) | 3:32 | 2025-03-13 | 2025-07-11 |
 | [Врубай](https://open.spotify.com/track/41hRWgoaw67f4VGMbNSfoZ) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Врубай](https://open.spotify.com/album/2mVqd1fBBrN4aFQ083mB9X) | 2:30 | 2024-11-04 |  |
@@ -88,6 +88,7 @@
 | [Додому](https://open.spotify.com/track/6gtK39SLszESqJFu2SkId3) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [8 марабу](https://open.spotify.com/album/2Q0kX7go1YkwNVix8e1Chw) | 2:49 | 2024-06-27 | 2025-02-07 |
 | [Долоні](https://open.spotify.com/track/28nCv762IfyLVB2OGGQcMb) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Долоні](https://open.spotify.com/album/3NmrYQxt3SIQg22hmZvxOq) | 2:44 | 2024-06-27 | 2024-11-05 |
 | [Ендорфін](https://open.spotify.com/track/70UqjNucXs25xQMojfHZKO) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Ендорфін](https://open.spotify.com/album/1pmVMeRAhWNmPTRYDy7X1d) | 2:32 | 2024-10-03 | 2025-03-21 |
+| [Жовті квіти](https://open.spotify.com/track/2r6cHg9JyC40mZge3JsSMP) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0) | [Інтимна лірика](https://open.spotify.com/album/1vLEmVLP1GiDm4m0uQXWfG) | 2:59 | 2025-09-15 |  |
 | [З якого ти поверху неба?](https://open.spotify.com/track/7JZs5hNCz4be2sJxaLIy5l) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [YARMAK](https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4) | [АРХЕТИПИ](https://open.spotify.com/album/5Kru1f3VVwSz8LRI9ubVjj) | 3:16 | 2025-05-13 |  |
 | [ЗА ТЕРИКОНАМИ](https://open.spotify.com/track/4IXr5Feku5VAryvp1QFEpB) | [Мюслі UA](https://open.spotify.com/artist/2QlTrbyPWbGWNmeDCp7QNR), [MISHA SCORPION](https://open.spotify.com/artist/7qUUu0SIH6JhGNSM1QwJsE) | [ЗА ТЕРИКОНАМИ](https://open.spotify.com/album/6jyifzmU6bzMY15qfCRyUj) | 2:50 | 2024-06-27 | 2025-02-14 |
 | [Забий](https://open.spotify.com/track/23cpg22rXsND2u3ElYxQdj) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Забий](https://open.spotify.com/album/4diYnGIkyPOK6icZwTt6rM) | 3:14 | 2024-06-27 | 2025-09-05 |
@@ -118,6 +119,7 @@
 | [Олєг](https://open.spotify.com/track/40y6wpbyTXB2DGzaBrLC7f) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Олєг](https://open.spotify.com/album/6lOzQGmj0BlD3fz5YDY3o2) | 2:57 | 2025-06-26 |  |
 | [Особистий рай](https://open.spotify.com/track/75LJxqoSy5MSM2xCFzQp8F) | [Геля Зозуля](https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Особистий рай](https://open.spotify.com/album/1O8gbNfK8cIQ0DT0RK9KzY) | 3:05 | 2024-11-04 |  |
 | [Падав туман](https://open.spotify.com/track/4iDo6Oc2MYmMLW7nSizVlR) | [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg) | [Падав туман](https://open.spotify.com/album/6ClQIVMyqrTqPSnHypvd9Y) | 3:08 | 2025-07-07 | 2025-07-15 |
+| [Питань нема](https://open.spotify.com/track/7bXv03fXWRWpXUajb9F0WY) | [Victoria Niro](https://open.spotify.com/artist/0Fnwu2Efik3XglLCqUXJVo) | [Питань нема](https://open.spotify.com/album/7bMLZ9QarJof8TuEUEHBx7) | 2:47 | 2025-09-15 |  |
 | [Повільно](https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Повільно](https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv) | 2:46 | 2024-06-27 | 2025-01-31 |
 | [Погляд](https://open.spotify.com/track/66Xj2OpnDALdW0G509b9yY) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [SOBOL'](https://open.spotify.com/artist/2tzrAdVhSe0qIQBpedBCHh) | [Погляд](https://open.spotify.com/album/2U3ecGQPqMwXz4vSOps8Td) | 2:56 | 2024-06-27 | 2024-12-13 |
 | [ПОДОЛЯНОЧКА \(GET UP\)](https://open.spotify.com/track/0OO0cxW5gSaL1EggeW1Bj0) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [ПОДОЛЯНОЧКА \(GET UP\)](https://open.spotify.com/album/0ZAHrT36fotzrEuhClUXhG) | 2:58 | 2024-06-27 | 2024-07-27 |

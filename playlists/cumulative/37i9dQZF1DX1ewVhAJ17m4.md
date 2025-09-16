@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: State Champs
 
-531 songs - 1 day 2 hr 34 min
+532 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [COME AROUND AND FIND OUT](https://open.spotify.com/track/2KhZArbDcVl0LdzK1gH0v2) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [COME AROUND AND FIND OUT](https://open.spotify.com/album/58U8cQSUQuSs1KNYuPoNRv) | 3:07 | 2023-06-20 | 2023-10-20 |
 | [Common Sense](https://open.spotify.com/track/6I9nwHabyomUdktg1UdRB6) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Common Sense](https://open.spotify.com/album/5F8QDHfvbt0AeI1CcYcim6) | 3:11 | 2025-09-12 |  |
 | [Cool Blue](https://open.spotify.com/track/5HdP3y9pZjo98y9u0aeACn) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Cool Blue](https://open.spotify.com/album/1kNFDFmN6qNGtuzT2I06xZ) | 3:09 | 2023-01-13 | 2023-02-06 |
+| [cross my heart](https://open.spotify.com/track/5ayZLwBFGNfQpI2ZsMnnKs) | [saturdays at your place](https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR) | [these things happen](https://open.spotify.com/album/3xiYqnYgX8053Tg4KR6h4P) | 1:30 | 2025-09-12 |  |
 | [Crushing Me](https://open.spotify.com/track/5h8EGfF4j1az4GNCAgQBkF) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Before I Die](https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1) | 2:29 | 2024-08-14 | 2024-10-04 |
 | [Crybaby \(On the Phone\)](https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Crybaby \(On the Phone\)](https://open.spotify.com/album/70R0bzjqP8a4yKUjg4ISdn) | 2:23 | 2021-12-20 | 2022-06-15 |
 | [Cursive](https://open.spotify.com/track/2qMJb05RCtQAO3OdoqxEMH) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Happy Never After](https://open.spotify.com/album/2SmBv7YTCsWRzlMcsp18he) | 2:55 | 2022-10-06 | 2022-12-22 |
@@ -340,7 +341,7 @@
 | [One Zero Zero](https://open.spotify.com/track/2NgTc6FOEMUyUvF07cVL7A) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [One Zero Zero](https://open.spotify.com/album/3Axov8lonkei7AEE7Ww0rv) | 2:46 | 2025-05-15 | 2025-06-21 |
 | [Outta My Head](https://open.spotify.com/track/0Z2utuwUnQS9iiOwpStusu) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Outta My Head](https://open.spotify.com/album/36rJDHz5gcbCOEI123Yo9E) | 2:56 | 2021-12-20 | 2022-07-29 |
 | [Outta My Head](https://open.spotify.com/track/28RPEcjNNGKRdbTygQ7WoH) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Kings of the New Age](https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9) | 2:56 | 2022-07-18 | 2023-04-01 |
-| [oxygen.](https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8) | [OUT IN FRONT](https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx) | [oxygen.](https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9) | 2:48 | 2025-07-17 |  |
+| [oxygen.](https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8) | [OUT IN FRONT](https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx) | [oxygen.](https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9) | 2:48 | 2025-07-17 | 2025-09-16 |
 | [Pacific Ocean](https://open.spotify.com/track/5ClDT1S61melj4Jq0rlQ5N) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Pacific Ocean](https://open.spotify.com/album/4mmTewRsbrBcDUrMI8tHO0) | 3:16 | 2024-06-14 | 2024-08-15 |
 | [Panic](https://open.spotify.com/track/0qwoBdMnysN7dDT6tK3fcE) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give \(B\-Sides\)](https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8) | 3:08 | 2021-12-22 | 2022-09-16 |
 | [Paper](https://open.spotify.com/track/0BR4eVpihSK7xCLuAXjI4Q) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Paper](https://open.spotify.com/album/07VfTAOGM8BUm47LGYGmJM) | 3:01 | 2021-12-20 | 2022-07-19 |
@@ -390,11 +391,11 @@
 | [Say Yes](https://open.spotify.com/track/0w8aZyDeFw67itdrjqy6O3) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9), [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Say Yes](https://open.spotify.com/album/41rZSLcBmbZS9FsvEDcNYI) | 2:38 | 2021-12-20 | 2022-09-10 |
 | [Scream](https://open.spotify.com/track/7LQQ207LAlwd7AuL8cmgjN) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [Scream](https://open.spotify.com/album/4h3kh61nAsdHKkCGPUtq17) | 2:52 | 2021-12-20 | 2022-04-05 |
 | [Second Chances](https://open.spotify.com/track/2oGyfekTurVuAerH3HDx5f) | [Rxmance](https://open.spotify.com/artist/3HbCm60icNbP67i0vLCB62) | [Second Chances](https://open.spotify.com/album/5ufFZ6CRoArwJ87eeezDhw) | 2:51 | 2021-12-20 | 2022-04-05 |
-| [Second Thoughts](https://open.spotify.com/track/6UR9TruATotQiBMQtU4ZCH) | [Løvesick](https://open.spotify.com/artist/4tpVKOHMbYOFLuNEQ54hVl) | [Second Thoughts](https://open.spotify.com/album/18T5RgOkboFwvVVNBCRF3u) | 2:41 | 2025-02-21 | 2025-09-13 |
+| [Second Thoughts](https://open.spotify.com/track/6UR9TruATotQiBMQtU4ZCH) | [Løvesick](https://open.spotify.com/artist/4tpVKOHMbYOFLuNEQ54hVl) | [Second Thoughts](https://open.spotify.com/album/18T5RgOkboFwvVVNBCRF3u) | 2:41 | 2025-02-21 |  |
 | [See You All in Hell](https://open.spotify.com/track/2KfXD9pHBUpKpFe8wHO9Y2) | [brake](https://open.spotify.com/artist/7abxh8jKgffWgxI12BESvb) | [See U All in Hell](https://open.spotify.com/album/3laSoUVDJdNAVU4UfXafCp) | 2:29 | 2021-12-20 | 2022-01-15 |
 | [Seeing Red \(with Dusty Locane & Rah Swish\)](https://open.spotify.com/track/7eokpLlr9FBg6PdqzA2hLh) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Seeing Red](https://open.spotify.com/album/5niGkfpw5sNpXPQnicsAKO) | 2:41 | 2022-10-13 | 2023-09-15 |
 | [SELF\-SABOTAGE](https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE](https://open.spotify.com/album/1a37BS9lp7tkEbhGtoj0qf) | 2:37 | 2022-07-18 | 2022-10-14 |
-| [Sense of Humor](https://open.spotify.com/track/6KSGtuMoKHqpRzQZuBs2Xm) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Sense of Humor](https://open.spotify.com/album/14IgZFyV44p90w5X5niqt4) | 3:15 | 2025-06-23 |  |
+| [Sense of Humor](https://open.spotify.com/track/6KSGtuMoKHqpRzQZuBs2Xm) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Sense of Humor](https://open.spotify.com/album/14IgZFyV44p90w5X5niqt4) | 3:15 | 2025-06-23 | 2025-09-16 |
 | [serotonin](https://open.spotify.com/track/3uSIJGEiXmRYaSURiDbp2P) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/2VqHsEkb4nuOhtEdqUvYQa) | 3:03 | 2022-06-14 | 2022-12-05 |
 | [serotonin](https://open.spotify.com/track/7j1nFsNOimv0aj6CcLIsTj) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/3VuJ9cyJWBvjQ8TxbJGrge) | 3:03 | 2023-02-10 | 2023-07-07 |
 | [Shaking Your Mind](https://open.spotify.com/track/7kTg2JxsgHLWjavcl1dPEf) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Shaking Your Mind](https://open.spotify.com/album/3WKrQ041ZovsJcb8K4rpD9) | 2:26 | 2022-03-14 | 2023-04-22 |

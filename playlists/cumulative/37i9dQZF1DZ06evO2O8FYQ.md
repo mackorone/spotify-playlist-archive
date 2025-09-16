@@ -4,10 +4,11 @@
 
 > This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
 
-74 songs - 4 hr 5 min
+75 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ['Bout To Lose It](https://open.spotify.com/track/2ryag1UOk4qCqzs2bxN7Sm) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 3:41 | 2025-09-16 |  |
 | ['Bout To Lose It](https://open.spotify.com/track/3ojjRvP2OTPp8PM4zNYQto) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | ['Bout To Lose It](https://open.spotify.com/album/7I94vpfWpgoqTGU7V20GY5) | 3:41 | 2025-03-15 | 2025-08-31 |
 | [11:11](https://open.spotify.com/track/2Uz3IrR8c3ay9mnk3IPk4B) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 4:04 | 2022-09-16 | 2022-11-18 |
 | [11:11](https://open.spotify.com/track/3HtazJXet39mz8SqZwm5NP) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 4:04 | 2022-11-17 |  |
@@ -78,7 +79,7 @@
 | [Sunflower](https://open.spotify.com/track/4OXABTM6RzUskXSohHSWTN) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 3:59 | 2025-08-24 | 2025-09-10 |
 | [Thrash Metal Cassette](https://open.spotify.com/track/0RhYWcRxUljBv363WhAbtu) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:39 | 2022-09-16 |  |
 | [Traynor](https://open.spotify.com/track/2z8DJ7BUVx7byP7bhclh5b) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 3:01 | 2025-04-01 | 2025-04-03 |
-| [Unfamiliar](https://open.spotify.com/track/5IVCIj0GOutGS1VJxsfrMh) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 3:33 | 2025-08-24 |  |
+| [Unfamiliar](https://open.spotify.com/track/5IVCIj0GOutGS1VJxsfrMh) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 3:33 | 2025-08-24 | 2025-09-16 |
 | [White T\-Shirt and Jeans](https://open.spotify.com/track/2B66zZymYWxQqP8QQxQUAy) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 3:14 | 2022-09-16 | 2022-11-19 |
 | [White T\-Shirt and Jeans](https://open.spotify.com/track/6DqehBSiRdtI3qvEeAcUk3) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 3:14 | 2022-11-18 | 2023-08-05 |
 | [Willow Tree](https://open.spotify.com/track/6wA2hdPFoJYrtsBk6pjH5u) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 3:09 | 2022-09-21 | 2022-09-23 |

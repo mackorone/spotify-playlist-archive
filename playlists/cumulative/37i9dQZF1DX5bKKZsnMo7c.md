@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Conan Gray
 
-506 songs - 1 day 3 hr 27 min
+508 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [FEMININE RAGE](https://open.spotify.com/track/08iDzwXKP72XYGnjXLSwW2) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [DEAR READER](https://open.spotify.com/album/1JsRmuktjMsrdolUuZ5UMp) | 2:27 | 2024-04-26 | 2025-08-30 |
 | [feral canadian scaredy cat](https://open.spotify.com/track/1ew1R0vY1hqwYQQTHXCiQX) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [feral canadian scaredy cat](https://open.spotify.com/album/5sMayuz5wi235vdum4wpj1) | 3:04 | 2023-01-20 | 2024-01-05 |
 | [Fictional Men](https://open.spotify.com/track/71TpZr9DjZqTMNMMSBYh8d) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [Fictional Men](https://open.spotify.com/album/25JqctJNXlVTfu1ciNY0gK) | 2:16 | 2023-04-28 | 2024-02-20 |
-| [Fine](https://open.spotify.com/track/3CxpaC5Aw4jgRFlgeQH6BA) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Dinosaurchestra](https://open.spotify.com/album/2EwyuOi59sFClC87JBLe2r) | 4:39 | 2025-01-10 |  |
+| [Fine](https://open.spotify.com/track/3CxpaC5Aw4jgRFlgeQH6BA) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Dinosaurchestra](https://open.spotify.com/album/2EwyuOi59sFClC87JBLe2r) | 4:39 | 2025-01-10 | 2025-09-16 |
 | [First Love / Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 | 2022-05-17 | 2022-12-10 |
 | [Flight of the Crows](https://open.spotify.com/track/0gW6KLC4W6vChWUHucb69N) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/6LLqwrFRS3rgwKVCRBYGYy) | 2:38 | 2022-05-17 | 2022-06-02 |
 | [Flower](https://open.spotify.com/track/665GayQvSikGzkwQl32TVy) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Flower](https://open.spotify.com/album/121svdnIrfyYHaJoc62KB2) | 3:10 | 2023-08-22 | 2024-01-27 |
@@ -275,6 +275,7 @@
 | [Like or Like Like](https://open.spotify.com/track/1OrD9RkuBnoNrrURFap9wi) | [Miniature Tigers](https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK) | [Tell It to the Volcano](https://open.spotify.com/album/7JNBcWEv23JuyxNmDjR8ov) | 2:38 | 2022-10-21 | 2023-01-07 |
 | [Like or Like Like](https://open.spotify.com/track/2laAFvo3q3GIcXX7Ql8OeD) | [Miniature Tigers](https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK) | [Tell It to the Volcano](https://open.spotify.com/album/6LVXJslQ2aT7xyIBnDsXXj) | 2:38 | 2022-09-20 | 2022-12-04 |
 | [Lipstick](https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lipstick](https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk) | 3:36 | 2025-05-09 | 2025-07-12 |
+| [Little Caesar](https://open.spotify.com/track/1DVRDDz3uoN09hhrIZSiLo) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Little Caesar](https://open.spotify.com/album/2jUoyp6QSpo5xWrEqNORfb) | 2:54 | 2025-09-15 |  |
 | [Little Fortune](https://open.spotify.com/track/6j13TVDdDcgXV9bae3oMYH) | [Katie Lynne Sharbaugh](https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu) | [Act II](https://open.spotify.com/album/5AH01Vqh1hsvYjgBb9PYa9) | 2:30 | 2024-07-22 | 2024-09-07 |
 | [LOCK ME OUT](https://open.spotify.com/track/6n0qQ8JIB2nWs8fOMcDFcW) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [LOCK ME OUT](https://open.spotify.com/album/1aV0qY4sy2PODMe1pUYRS0) | 2:54 | 2025-08-18 |  |
 | [Long Gone](https://open.spotify.com/track/5HcPpRhTGsj9VEIYd3r8a0) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Long Gone](https://open.spotify.com/album/1bAD7LRQyKFCaaBxjLkWte) | 3:36 | 2023-07-21 | 2024-02-15 |
@@ -360,6 +361,7 @@
 | [Prom Queen](https://open.spotify.com/track/2WEAKylXBPr9PJNANBSTDG) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Prom Queen](https://open.spotify.com/album/6sEMWS70V7jsFnEP76XDmc) | 3:46 | 2024-10-04 | 2025-09-13 |
 | [Proud](https://open.spotify.com/track/14bkozr2M41OUMW7pGXQbF) | [Kevin Walkman](https://open.spotify.com/artist/0Q1Xt8JEFDwfiuNBIM60E4) | [Proud](https://open.spotify.com/album/3eUxBO0HdQrauuHaitTlsv) | 3:19 | 2023-04-12 | 2023-04-18 |
 | [Psycho](https://open.spotify.com/track/3yTI3OvnXDJsTusEqkVaNt) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Psycho](https://open.spotify.com/album/6bqus3Y14ybl1sI3B49EOb) | 3:32 | 2025-03-28 | 2025-08-23 |
+| [Puppet](https://open.spotify.com/track/5EphWkRuqee9EE3Ubm1XCy) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Puppet](https://open.spotify.com/album/1WnVA6pu7yWWKDysSpzGW8) | 2:14 | 2025-09-15 |  |
 | [putting a spin on somebody that i used to know](https://open.spotify.com/track/7oG6YAqkuBHBZ0qgtDhOAm) | [Egg](https://open.spotify.com/artist/6zQlhM6cyJRrzuqAbB8PlB) | [putting a spin on somebody that i used to know](https://open.spotify.com/album/0CCl0omkYtDTAYZ5dhy4W0) | 4:16 | 2022-05-17 | 2022-12-10 |
 | [Queen of Ears](https://open.spotify.com/track/2y20szyvKlsK3jnL3LwPK9) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Queen of Ears](https://open.spotify.com/album/5pPAwx1AV9H3aWepcY7DhA) | 3:06 | 2022-11-18 | 2022-11-30 |
 | [Rain](https://open.spotify.com/track/4HXX2HJnSoY8oIU3PG5aba) | [Baby Fisher](https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA) | [Rain](https://open.spotify.com/album/2NtDCptgC5zLfJjj7dgXAf) | 3:09 | 2023-05-12 | 2023-09-02 |
@@ -403,7 +405,7 @@
 | [Snow Angel](https://open.spotify.com/track/6skUuqrKMQIjjo75hWGAvQ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:35 | 2023-09-01 | 2023-09-23 |
 | [So I Danced](https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So I Danced](https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW) | 2:53 | 2023-09-22 | 2024-01-05 |
 | [Soft Boy](https://open.spotify.com/track/1GqlrKuFFZwOKhULYTTeag) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Soft Boy](https://open.spotify.com/album/7nTQSfMt2TSeUR0xOxjBG4) | 2:17 | 2022-10-06 | 2024-01-27 |
-| [Someone Gets Hurt](https://open.spotify.com/track/1zyrjK69LRZCvEmUtJUbsT) | [Taylor Louderman](https://open.spotify.com/artist/1f0vGTFXE64SLuypBV8zB0), [Kyle Selig](https://open.spotify.com/artist/0qiFtC52T37zXjHl0DDMAr), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 3:07 | 2025-07-08 |  |
+| [Someone Gets Hurt](https://open.spotify.com/track/1zyrjK69LRZCvEmUtJUbsT) | [Taylor Louderman](https://open.spotify.com/artist/1f0vGTFXE64SLuypBV8zB0), [Kyle Selig](https://open.spotify.com/artist/0qiFtC52T37zXjHl0DDMAr), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 3:07 | 2025-07-08 | 2025-09-16 |
 | [Someone On The Internet](https://open.spotify.com/track/4uW3eW3YVRqddbMrZf4caM) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Someone On The Internet](https://open.spotify.com/album/7iy5XSdRsFVU2X25eEAhPX) | 3:02 | 2023-02-02 | 2023-02-17 |
 | [Something's Wrong](https://open.spotify.com/track/7Hbqd3hh4qoKAfZNgGpLg6) | [Earth to Eve](https://open.spotify.com/artist/5VjqGrGYRn6vdmCxlLNsea) | [Something's Wrong](https://open.spotify.com/album/0hpgWa4eaWkKSueDk8FDYM) | 3:09 | 2025-02-17 |  |
 | [SPIRALLING](https://open.spotify.com/track/4HNn8txPba0KsEND4YWhhG) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [SPIRALLING](https://open.spotify.com/album/0MVSaoHNpjIZPx8ZBjduAt) | 3:25 | 2025-07-18 |  |

@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: CHAEYOUNG
 
-1,570 songs - 3 day 11 hr 20 min
+1,571 songs - 3 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1330,6 +1330,7 @@
 | [There](https://open.spotify.com/track/6gHeWGamtOYHBd1LBZ7Fv6) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [There](https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk) | 3:35 | 2023-02-14 | 2023-07-26 |
 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 | 2025-07-11 |  |
 | [THIS IS ME:I](https://open.spotify.com/track/0HitU68kvJIg3ykgYwsKzQ) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [THIS IS ME:I](https://open.spotify.com/album/1EJTdy5dolIq6V6pk4CWmL) | 2:59 | 2025-07-28 | 2025-09-01 |
+| [THRILLER](https://open.spotify.com/track/6FVwbv7XgC7xR2FT5ISS4B) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [THRILLER](https://open.spotify.com/album/3WDzrUo4IO2A3ScJh6LWTW) | 2:52 | 2025-09-15 |  |
 | [Tick Tick Boom](https://open.spotify.com/track/19WBBlTBTcgNGYBbY6HZB6) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Day&Night](https://open.spotify.com/album/6tsh5bEFhDVuWVaNCGVhjc) | 2:59 | 2022-10-25 | 2023-02-09 |
 | [Tiger](https://open.spotify.com/track/20VZXnRzvcS0qVMOThjjmM) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/42rJ9A3HW7S2hWnkMNZIwk) | 3:10 | 2025-04-22 | 2025-05-20 |
 | [TIKI TAKA](https://open.spotify.com/track/6sPPNhpEwwWte3OJslsr0f) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [Re:T\-ARA](https://open.spotify.com/album/1GTkiHxMFTVC9K9Zf2aoxU) | 3:16 | 2021-12-23 | 2022-01-26 |
@@ -1347,7 +1348,7 @@
 | [TOMBOY \(R3HAB Remix\)](https://open.spotify.com/track/4y2SshixeFlqPprLmoZtJe) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [TOMBOY \(R3HAB Remix\)](https://open.spotify.com/album/16UgZxoo4YMJIJItRxi7qb) | 2:09 | 2022-05-19 | 2022-08-10 |
 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 | 2025-02-25 | 2025-03-07 |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-19 | 2023-12-06 |
-| [TOP IT ALL](https://open.spotify.com/track/3NgUFQiasVnIDoZsRfsCuK) | [ELSEE](https://open.spotify.com/artist/3kQo2hxY8DMmIQro6Beqlp) | [TOP IT ALL](https://open.spotify.com/album/21gho4vpEe5FHsjtv8ScMl) | 3:09 | 2025-04-22 |  |
+| [TOP IT ALL](https://open.spotify.com/track/3NgUFQiasVnIDoZsRfsCuK) | [ELSEE](https://open.spotify.com/artist/3kQo2hxY8DMmIQro6Beqlp) | [TOP IT ALL](https://open.spotify.com/album/21gho4vpEe5FHsjtv8ScMl) | 3:09 | 2025-04-22 | 2025-09-16 |
 | [Topping](https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Topping](https://open.spotify.com/album/41tisXYtO2LPc1kGG0kEKn) | 2:46 | 2025-08-10 | 2025-09-01 |
 | [TORNADO](https://open.spotify.com/track/6X0HaPlb8AscV8YU7beQzT) | [MYERA](https://open.spotify.com/artist/79hOP6wbBdYMeF0e8S8a2i) | [TORNADO / No Drip](https://open.spotify.com/album/5N4ANp1ZcyZoHSQcLpdWKn) | 3:13 | 2025-05-05 | 2025-07-16 |
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-07-25 | 2025-04-07 |

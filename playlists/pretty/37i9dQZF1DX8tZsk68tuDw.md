@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Chris Stussy & Locklead
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,871,725 likes - 85 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,871,129 likes - 85 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Forever](https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/5AOBx6uu2fTnhsu5keahyR) | [Forever](https://open.spotify.com/album/5bZB1yQFWT2YAR36eEuSct) | 2:51 |
+| 1 | [Forever](https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/42CbYw1Y9fAdCr6UND2P5f) | [Forever](https://open.spotify.com/album/5bZB1yQFWT2YAR36eEuSct) | 2:51 |
 | 2 | [Pumpin Jumpin](https://open.spotify.com/track/1VhNZmtGQPnJlzZStAYn5j) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Pumpin Jumpin](https://open.spotify.com/album/0WyIwrLoLBoS30ES2bgnXF) | 3:41 |
 | 3 | [Hypnotic](https://open.spotify.com/track/1ulorUgFxDQdshBrtzgYRK) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Hypnotic](https://open.spotify.com/album/4pYBgkBcpcqhEOfrLCBKWc) | 2:58 |
 | 4 | [Sakura](https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Sakura](https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5) | 6:24 |

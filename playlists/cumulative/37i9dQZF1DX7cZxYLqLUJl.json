@@ -1053,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/5sxjKWPxo4F5lVHKE5p1IS"
+      },
+      "artists": [
+        {
+          "name": "Harmonic Reverie",
+          "url": "https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163566,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/2yp78bNsOr21Ayub9vawgP"
+    },
+    {
+      "album": {
         "name": "Hana Veil",
         "url": "https://open.spotify.com/album/4oY8pMzsWyfqKcxxH6xk8D"
       },
@@ -3012,6 +3030,24 @@
       "duration_ms": 148458,
       "name": "\u00c9toile",
       "url": "https://open.spotify.com/track/1nDv71bmip8uUPCfCZuRll"
+    },
+    {
+      "album": {
+        "name": "\u00c9veil",
+        "url": "https://open.spotify.com/album/3A3g8Hg3Y2y42uG7BmDoft"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "\u00c9veil",
+      "url": "https://open.spotify.com/track/2brRgCl1LHEDuwMjFxp8s5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7cZxYLqLUJl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Last few weeks of 25' IBZ szn </3
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,511 likes - 327 songs - 21 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,597 likes - 327 songs - 21 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

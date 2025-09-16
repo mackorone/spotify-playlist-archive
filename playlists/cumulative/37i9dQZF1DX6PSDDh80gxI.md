@@ -4,7 +4,7 @@
 
 > Tommaso Paradiso è tornato con un pezzo 100% Paradiso\-coded e ovviamente è in cover di Indie Italia 🌊
 
-357 songs - 18 hr 58 min
+358 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Noi no](https://open.spotify.com/track/0ryO2qGJlJU1CYCqIWuTw7) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Noi no](https://open.spotify.com/album/7i6hD1DqhbmoXVCAcqV8je) | 3:16 | 2025-01-02 |  |
 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 | 2024-06-27 | 2025-04-11 |
 | [Non mi scorderò mai](https://open.spotify.com/track/1DYiPoPpdw05UhF1XCKg7s) | [Peter White](https://open.spotify.com/artist/3YygU1SuVx6bJVRrlE0WUL) | [Non mi scorderò mai](https://open.spotify.com/album/1yxkuzMamnrOFqDzYaF6ft) | 2:19 | 2024-10-24 | 2025-01-10 |
+| [Non è mica te](https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione](https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP) | 3:07 | 2025-09-15 |  |
 | [NOSTALGIA & KARAOKE](https://open.spotify.com/track/7reLvPq3D67vtIgVQnQQLV) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [NOSTALGIA & KARAOKE](https://open.spotify.com/album/21J2V4JI35KVtUTVLCoWb2) | 3:36 | 2025-04-10 | 2025-05-02 |
 | [notte vodka](https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [notte vodka](https://open.spotify.com/album/13jKhdRkvOzf7yzfRkuReL) | 2:25 | 2024-06-27 | 2024-08-23 |
 | [Nottetempo \(feat\. Giorgio Poi\)](https://open.spotify.com/track/2ALrq527Q49iISVve4PEkn) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW) | [Futuri Possibili](https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD) | 2:55 | 2025-03-27 |  |

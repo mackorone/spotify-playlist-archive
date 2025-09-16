@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: LNY TNZ & Lady Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,596 likes - 93 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,676 likes - 93 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

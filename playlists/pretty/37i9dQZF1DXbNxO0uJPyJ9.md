@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,311 likes - 80 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,455 likes - 80 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Club Tropicana](https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Fantastic](https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR) | 4:25 |
 | 2 | [Somebody's Watching Me](https://open.spotify.com/track/2gGdO0zLa9W8ce1Ig0BzFK) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 4:53 |
-| 3 | [True](https://open.spotify.com/track/4q2lRiodoQnyFO65watkse) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [The Twelve Inch Mixes](https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm) | 6:05 |
-| 4 | [Red Red Wine](https://open.spotify.com/track/1tOE1dIyIjsfLJWiQ4ZRJW) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love](https://open.spotify.com/album/5kxx0oDspXVyGCOjdDjSFi) | 5:20 |
+| 3 | [Red Red Wine](https://open.spotify.com/track/1tOE1dIyIjsfLJWiQ4ZRJW) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love](https://open.spotify.com/album/5kxx0oDspXVyGCOjdDjSFi) | 5:20 |
+| 4 | [True](https://open.spotify.com/track/4q2lRiodoQnyFO65watkse) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [The Twelve Inch Mixes](https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm) | 6:05 |
 | 5 | [1999](https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67) | 6:19 |
 | 6 | [Buffalo Stance](https://open.spotify.com/track/3XWgwgbWDI56mf1Wl3cLzb) | [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [Raw Like Sushi](https://open.spotify.com/album/2AyJzvREOnlnYhaBzF1Kxp) | 5:42 |
 | 7 | [Japanese Boy](https://open.spotify.com/track/4VmmNHz5nigftA0B3GR0M5) | [Aneka](https://open.spotify.com/artist/2IGQyVitQXADoOSROGLNJy) | [Aneka](https://open.spotify.com/album/6lEiLRQ83Fqmk9QstZIOW0) | 3:57 |
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 38 | [Like a Virgin \- Extended Dance Remix](https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 6:09 |
 | 39 | [True Faith \- Shep Pettibone 12" Remix](https://open.spotify.com/track/6gIg6yHRojDG9Px3eSIZ3P) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3), [Shep Pettibone](https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv) | [Brotherhood \(Collector's Edition\)](https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu) | 9:03 |
 | 40 | [The Great Commandment](https://open.spotify.com/track/6As51KsSXmA7SUmM32t8UZ) | [Camouflage](https://open.spotify.com/artist/2YTbBGa3Tf2rRPhiJxWoUN) | [Westside 25th Anniversary](https://open.spotify.com/album/5vLIUQ71BxikOdHqpBcpG2) | 5:28 |
-| 41 | [\(I Wanna Give You\) Devotion \- Original Club Mix](https://open.spotify.com/track/0ozOXnBES94H3uZsImPq2A) | [Nomad](https://open.spotify.com/artist/4nP1Vg2YuLE0Nbr7uK08SM) | [\(I Wanna Give You\) Devotion](https://open.spotify.com/album/7ny2JlCXQzZHl4P4bnxDlC) | 6:49 |
-| 42 | [Shattered Dreams \- 12'' Extended Mix](https://open.spotify.com/track/0bzN1ky1onoeDSbayxt0Gi) | [Johnny Hates Jazz](https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf) | [The Very Best Of Johnny Hates Jazz](https://open.spotify.com/album/0NDIvDmFe9H6DOBKwsOmgB) | 5:12 |
+| 41 | [Shattered Dreams \- 12'' Extended Mix](https://open.spotify.com/track/0bzN1ky1onoeDSbayxt0Gi) | [Johnny Hates Jazz](https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf) | [The Very Best Of Johnny Hates Jazz](https://open.spotify.com/album/0NDIvDmFe9H6DOBKwsOmgB) | 5:12 |
+| 42 | [In Private \- 12" Version](https://open.spotify.com/track/0hxJDpEZzyasDeZGMbbhde) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Reputation & Rarities](https://open.spotify.com/album/3FUL7hI1fTm5LXwBpV4T81) | 7:11 |
 | 43 | [Vogue \- 12" Version](https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Vogue](https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX) | 8:21 |
-| 44 | [Theme from S'Express \- 12" Version](https://open.spotify.com/track/6ccIWKEpKvp7YYWLbD3ckK) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 5:59 |
+| 44 | [\(I Wanna Give You\) Devotion \- Original Club Mix](https://open.spotify.com/track/0ozOXnBES94H3uZsImPq2A) | [Nomad](https://open.spotify.com/artist/4nP1Vg2YuLE0Nbr7uK08SM) | [\(I Wanna Give You\) Devotion](https://open.spotify.com/album/7ny2JlCXQzZHl4P4bnxDlC) | 6:49 |
 | 45 | [Blue Monday \('88\) \- 12" Version](https://open.spotify.com/track/2atyvzH4QfX2sGvh380UrG) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Best Remixes](https://open.spotify.com/album/2OCcLfOyYhjOiWLBW0dIE2) | 7:07 |
-| 46 | [In Private \- 12" Version](https://open.spotify.com/track/0hxJDpEZzyasDeZGMbbhde) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Reputation & Rarities](https://open.spotify.com/album/3FUL7hI1fTm5LXwBpV4T81) | 7:11 |
+| 46 | [Theme from S'Express \- 12" Version](https://open.spotify.com/track/6ccIWKEpKvp7YYWLbD3ckK) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 5:59 |
 | 47 | [Thought You Were On My Side \- Extended Remix/European](https://open.spotify.com/track/2Ke6mshSdHeJ0AedHF0jmm) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [Open Book \- The Best Of...](https://open.spotify.com/album/1A95sUd7nLfGX5tI1RuwRN) | 5:22 |
 | 48 | [West End Girls \- Disco Mix](https://open.spotify.com/track/56JlUxlgZS1ZFgjopdgdBt) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Disco](https://open.spotify.com/album/69uM5D9lGcA0ODQ8yTXfaj) | 9:03 |
 | 49 | [Sunshine Reggae \- 12" Version](https://open.spotify.com/track/5t1IKim2yq7cZ3H4FPYly7) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 6:37 |

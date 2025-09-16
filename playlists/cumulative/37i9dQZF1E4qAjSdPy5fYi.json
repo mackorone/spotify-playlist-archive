@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With STYXVII, Joshua Lanuarii, sixwing and more",
+  "description": "With STYXVII, Joshua Lanuarii, UrvTek and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -760,7 +760,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 126829,
       "name": "BORIS JOHNSON DEATH INCANTATION",
       "url": "https://open.spotify.com/track/1z8vrhnn3OxVDwUB3H4978"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 201456,
       "name": "DEATHRAVE",
       "url": "https://open.spotify.com/track/6AcE5etPybYmRF656WUsae"
@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 207927,
       "name": "Dusk Till Dawn",
       "url": "https://open.spotify.com/track/1GgKmA6pw9vaPCYBVlTrZN"
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 152423,
       "name": "Ena MIX (Allergic to People MIX)",
       "url": "https://open.spotify.com/track/34jDexIVNRb3E12CMkQwlZ"
@@ -1962,7 +1962,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 140020,
       "name": "i talk to the stars",
       "url": "https://open.spotify.com/track/1l3ZxNNw5rtuYa4mI3laJ0"
@@ -2486,7 +2486,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 173947,
       "name": "lemonade",
       "url": "https://open.spotify.com/track/7uWPcxNE6mdtDzKR9hinlN"
@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 169662,
       "name": "losercore",
       "url": "https://open.spotify.com/track/4iVCldDNBMNKF9qwgVVh7n"
@@ -2895,6 +2895,24 @@
     },
     {
       "album": {
+        "name": "Songs I Probably Won't Get Sued For",
+        "url": "https://open.spotify.com/album/6wvuLBJKItBHZwrC41hjOv"
+      },
+      "artists": [
+        {
+          "name": "4lung",
+          "url": "https://open.spotify.com/artist/0OJS9aMfVg5cd30ZXyHU9L"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144003,
+      "name": "My Puppy Song",
+      "url": "https://open.spotify.com/track/58vztARV09BWQbsOX2PTsg"
+    },
+    {
+      "album": {
         "name": "my skin is dry",
         "url": "https://open.spotify.com/album/7J0uQhcb9b9lzEk7aOdLzv"
       },
@@ -2924,7 +2942,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 182000,
       "name": "my teeth will free you",
       "url": "https://open.spotify.com/track/0c7ZCKYxiFa9sedoVxV195"
@@ -3538,7 +3556,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 108500,
       "name": "Remember when i was 14 that was so CRiNGE lol",
       "url": "https://open.spotify.com/track/7JGpMaiyc5cksPJwHpUYWr"
@@ -3614,7 +3632,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 229288,
       "name": "SAVE ME!!",
       "url": "https://open.spotify.com/track/3fLkQuvM6hKIoKUPS8UZfe"
@@ -3686,7 +3704,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 105000,
       "name": "Sleep Paralysis",
       "url": "https://open.spotify.com/track/1MniCshySWjTHcKkUo863V"
@@ -3932,6 +3950,24 @@
       "duration_ms": 115240,
       "name": "symbiotic intwinement",
       "url": "https://open.spotify.com/track/6czLfOigwGkPxkby5uSIjU"
+    },
+    {
+      "album": {
+        "name": "SUGAR RUSH",
+        "url": "https://open.spotify.com/album/4Q0sIWLCneRbxFCWPdHwtv"
+      },
+      "artists": [
+        {
+          "name": "Gynx",
+          "url": "https://open.spotify.com/artist/41vwOItZ3tvhGwj3zUaYjl"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129363,
+      "name": "SYNONYM FOR POISON",
+      "url": "https://open.spotify.com/track/6RkjRS8KxVFplXRdhdSy2V"
     },
     {
       "album": {
@@ -4334,7 +4370,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 93275,
       "name": "WEBKINZLID NYA NYA DANCE",
       "url": "https://open.spotify.com/track/50nI2pLf41U0IKg4ZDCoEN"
@@ -4392,7 +4428,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 175076,
       "name": "World of Everything",
       "url": "https://open.spotify.com/track/508bs1KXyXWkqmC72Avg3r"
@@ -4486,7 +4522,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 108000,
       "name": "\u4eba\u6c17\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b5\u30fc\u2606",
       "url": "https://open.spotify.com/track/74CW2hBcUI7sOvUgY3Owrk"

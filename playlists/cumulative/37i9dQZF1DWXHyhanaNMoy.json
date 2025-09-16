@@ -1691,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "AURA (1000+)",
+        "url": "https://open.spotify.com/album/3LdZSJC13PJk5j78Yz6VmK"
+      },
+      "artists": [
+        {
+          "name": "BVAM",
+          "url": "https://open.spotify.com/artist/6yqcAC4P0mOLAUvww9bOg8"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150593,
+      "name": "AURA (1000+)",
+      "url": "https://open.spotify.com/track/4hPBfytslW7KPfJsJa9ymp"
+    },
+    {
+      "album": {
         "name": "Autumn",
         "url": "https://open.spotify.com/album/27txhnT0TfhJ7a5p0ql8CN"
       },
@@ -21776,7 +21794,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 130408,
       "name": "OE NA NA",
       "url": "https://open.spotify.com/track/7m2Udw9TeVbRiZv0rxshas"

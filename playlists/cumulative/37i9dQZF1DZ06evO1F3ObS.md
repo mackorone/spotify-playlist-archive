@@ -4,7 +4,7 @@
 
 > This is ReoNa\. The essential tracks, all in one playlist.
 
-114 songs - 8 hr 34 min
+115 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [GG](https://open.spotify.com/track/6FTHtzIv5KmyLFkKyNe0jq) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [GG](https://open.spotify.com/album/5lCc7uhAlFqamdV552r6HJ) | 3:16 | 2024-10-07 |  |
 | [Girls Don't Cry](https://open.spotify.com/track/0zTK07FEVTVvmF0PF3Bp9k) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Girls Don't Cry](https://open.spotify.com/album/7mJx4L9dG3j0JmkX6TqwSv) | 3:27 | 2024-10-28 | 2025-02-16 |
 | [Girls Don't Cry](https://open.spotify.com/track/3A6XjtqGw7A6PY9dLepDH2) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ELZA2](https://open.spotify.com/album/77kWDy49o3hwlERoAyHFPG) | 3:31 | 2025-02-16 |  |
+| [HEART](https://open.spotify.com/track/7Dsjb5W7ffV0Kc4fohXzRV) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HEART](https://open.spotify.com/album/5xdFcnfl7eG8uGWqxnCN6L) | 5:06 | 2025-09-16 |  |
 | [heartbeat\-axelator](https://open.spotify.com/track/5JLBKCO7dHAhpkZTem0yZz) | [相羽あいな\(Roselia 湊友希那役\)](https://open.spotify.com/artist/4Iaxh5EoK1QkPdR17tGDY7), [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi), [雨宮天](https://open.spotify.com/artist/4KZzy4InZnRABJUN5Jtq7V), [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [梶原岳人\(Paradox Live 朱雀野アレン役\)](https://open.spotify.com/artist/6ngKeeVr3JDuJiO5QBMBen), [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF), [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te), [三森すずこ](https://open.spotify.com/artist/29pz21zpLIOXyhABfDZjg2), [勇\-YOU\-\(SCREEN mode\)](https://open.spotify.com/artist/6sy95HiaIUp1nN8UIYuaqQ), [YOU\-TA\(MADKID\)](https://open.spotify.com/artist/6ogDkCIzvPi7KL0rR91zy2), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [heartbeat\-axelator](https://open.spotify.com/album/0ud7dpZJPQoyZNHl2HBH2M) | 3:52 | 2023-08-25 | 2023-09-26 |
 | [HUMAN](https://open.spotify.com/track/19uKle8nv3zNh5bToLT4ij) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 5:22 | 2025-01-15 |  |
 | [HUMAN](https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ) | 5:22 | 2023-02-20 | 2025-01-15 |
@@ -119,7 +120,7 @@
 | [虹の彼方に](https://open.spotify.com/track/73EQPKdoo72AxZXJ7Xhiq1) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [forget\-me\-not](https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2) | 4:53 | 2022-06-09 |  |
 | [雨に唄えば](https://open.spotify.com/track/41IzyYGkQdmAlGhpww2zLB) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL) | 4:29 | 2022-06-09 |  |
 | [革命](https://open.spotify.com/track/3vrRp3jqWHh1viOqo7AfBz) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ELZA2](https://open.spotify.com/album/77kWDy49o3hwlERoAyHFPG) | 3:56 | 2024-12-28 |  |
-| [黄金の輝き](https://open.spotify.com/track/6SBRo4xg4Uf0xVVlXztV4m) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [黄金の輝き](https://open.spotify.com/album/66G2FkqUWfqHF8FfPzinzb) | 4:59 | 2025-09-09 |  |
+| [黄金の輝き](https://open.spotify.com/track/6SBRo4xg4Uf0xVVlXztV4m) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [黄金の輝き](https://open.spotify.com/album/66G2FkqUWfqHF8FfPzinzb) | 4:59 | 2025-09-09 | 2025-09-16 |
 | [黄金の輝き](https://open.spotify.com/track/6zTUmYzeOn7wd6bfLLjfQV) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [黄金の輝き](https://open.spotify.com/album/0W8cGloQ7NeIybHialOSvh) | 4:59 | 2022-06-09 | 2024-01-10 |
 | [３３４１よ](https://open.spotify.com/track/7KhLGWfohMhIQlEliIqpDC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [３３４１よ](https://open.spotify.com/album/4Mtg1G2ROHSVk41xmNsQFM) | 3:35 | 2024-02-13 |  |
 

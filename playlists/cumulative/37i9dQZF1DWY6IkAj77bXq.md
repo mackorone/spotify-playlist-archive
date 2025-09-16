@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-276 songs - 13 hr 36 min
+277 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Frid](https://open.spotify.com/track/6CgkDd7PJVghkT2gDA3EJ5) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Frid](https://open.spotify.com/album/0bgm25oNFNBYOznSIykkvB) | 2:19 | 2025-03-19 |  |
 | [Gentle Dreams](https://open.spotify.com/track/3Y8h3LXQ1jR3jsdbdR7nmt) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [​Gentle Dreams](https://open.spotify.com/album/6JR2chegFWuuoU7KqOU1BG) | 3:15 | 2022-07-19 | 2025-03-25 |
 | [Gentle Nightfall](https://open.spotify.com/track/7LitEEkRqT4kkwgMlmzeik) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Gentle Nightfall](https://open.spotify.com/album/6ePyVnMKgYbqkFoZMwgpuB) | 2:58 | 2024-02-16 | 2025-05-15 |
-| [Glasslike](https://open.spotify.com/track/5as5bE8AUagyTwRxmMceVF) | [Jaumey](https://open.spotify.com/artist/5rKn2xAv2XuWjf5EdlTc20) | [Glasslike](https://open.spotify.com/album/184KNeTWudGRr8psDgZg7B) | 2:19 | 2022-07-19 |  |
+| [Glasslike](https://open.spotify.com/track/5as5bE8AUagyTwRxmMceVF) | [Jaumey](https://open.spotify.com/artist/5rKn2xAv2XuWjf5EdlTc20) | [Glasslike](https://open.spotify.com/album/184KNeTWudGRr8psDgZg7B) | 2:19 | 2022-07-19 | 2025-09-16 |
 | [Glisten](https://open.spotify.com/track/6GJkLAfKRwPnpqQe1iAsAx) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [Glisten](https://open.spotify.com/album/4AJ5QDlhs1QwQQ0wcFnE2n) | 3:03 | 2025-05-14 |  |
 | [Golden Age](https://open.spotify.com/track/6zVBj0zU6IrGp81gMiHGhA) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [Golden Age](https://open.spotify.com/album/1gWhdIMJ1bGoLTbj0hBQri) | 3:03 | 2024-05-10 |  |
 | [Grains of the Golden Sand](https://open.spotify.com/track/0FKabfqMVicNNykyhpjniV) | [Eternal Light](https://open.spotify.com/artist/45Wnto3MekB5K0mL5aBiYv) | [Grains of the Golden Sand](https://open.spotify.com/album/7DP6yEBXCyuih8gc5j4G7p) | 2:31 | 2024-06-10 |  |
@@ -243,6 +243,7 @@
 | [Solitude Symphony](https://open.spotify.com/track/2g39Z2r9doV4mEGwtBZcKl) | [Peter Wiehl](https://open.spotify.com/artist/4o24XKesoVS2rDD20Uo8pi) | [Solitude Symphony](https://open.spotify.com/album/61bPZCBK58fHvRb9qWNsKV) | 2:38 | 2024-06-10 |  |
 | [Solstice Waves](https://open.spotify.com/track/6SFSWBUYfepFU3iNlXLPeu) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Solstice Waves](https://open.spotify.com/album/05AOfjLp2pq7emPXZGbRXk) | 2:48 | 2024-07-19 |  |
 | [Somnolent](https://open.spotify.com/track/0NQmxDWx3thsepS1TcO8bR) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Somnolent](https://open.spotify.com/album/0g7Ole1o31s5RhWYCIZqoy) | 3:56 | 2022-07-19 | 2025-07-25 |
+| [Somnum](https://open.spotify.com/track/0QpXIbRh2TsDxjQcdBX4of) | [Lavona](https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9) | [Somnum](https://open.spotify.com/album/08aZ6GMYcj7QPJAFFzJGHP) | 2:15 | 2025-07-24 |  |
 | [Soothe](https://open.spotify.com/track/0gfqezlNyYiXgr2FOlEWuA) | [Ever So Calm](https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd) | [Soothe](https://open.spotify.com/album/74vs037IHVc421BMmB5yqo) | 2:51 | 2022-07-19 | 2024-04-19 |
 | [Soothe](https://open.spotify.com/track/5HUkAj1VUDNKtkt6uM45xR) | [Ever So Calm](https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd) | [Soothe](https://open.spotify.com/album/4n3NUoFluygkss3dDjfEea) | 2:51 | 2022-07-19 | 2022-07-29 |
 | [Sphere](https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Sphere](https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn) | 2:59 | 2022-07-19 | 2025-03-13 |

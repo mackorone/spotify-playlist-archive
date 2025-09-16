@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 
 > This is Simon & Garfunkel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,182 likes - 45 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,203 likes - 45 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 | 20 | [My Little Town](https://open.spotify.com/track/3obrfotpr4kLCKiOu2GZ4Q) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:51 |
 | 21 | [Wake up Little Susie \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/3i10Co0CjEzd1UpamggnlT) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 2:18 |
 | 22 | [Baby Driver](https://open.spotify.com/track/5Bh8l8evdBSIoaK6EP1bWI) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 3:15 |
-| 23 | [Flowers Never Bend with the Rainfall](https://open.spotify.com/track/0qSITuCPLxjoDtESBy70WO) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:11 |
-| 24 | [Bookends Theme \- Reprise](https://open.spotify.com/track/0Q3GpBYKy5Mx97TNBJVibl) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 1:20 |
+| 23 | [Bookends Theme \- Reprise](https://open.spotify.com/track/0Q3GpBYKy5Mx97TNBJVibl) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 1:20 |
+| 24 | [Flowers Never Bend with the Rainfall](https://open.spotify.com/track/0qSITuCPLxjoDtESBy70WO) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:11 |
 | 25 | [Slip Slidin' Away \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/3sfwzml4pqeGyeK1aTEmAF) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 4:42 |
 | 26 | [Leaves That Are Green](https://open.spotify.com/track/1DrirX7vAJMDAoz37ZbSeA) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:21 |
 | 27 | [Blues Run the Game \- Studio Outtake \- 1965](https://open.spotify.com/track/6tMRhn8hTFJm2A87tmjJPr) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends](https://open.spotify.com/album/3m1Gr5BQXhKZKf2yV7h2nl) | 2:51 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 | 44 | [Old Friends / Bookends Theme \- Live in Toledo, OH \- November 1969](https://open.spotify.com/track/5dKUMWNp0Y18VHkGGJCJR9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Live 1969](https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl) | 3:22 |
 | 45 | [Tom and Jerry Story \- Live at Madison Square Garden, New York, NY \- December 2003](https://open.spotify.com/track/17cNaiZu4NMvDlqVBL6HIS) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends Live On Stage](https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5) | 2:14 |
 
-Snapshot ID: `aMIRAAAAAABbXeAyPwIS25ZMcFKMczUZ`
+Snapshot ID: `aMYFgAAAAAB6HuTi04DFbwa3T11LZlv4`

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Toro. The essential tracks, all in one playlist.",
-  "num_followers": 6311,
+  "num_followers": 6314,
   "original_name": "This Is Banda Toro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAAW/Nlrn9XUWe1K87ZQ6gEq",
+  "snapshot_id": "aMYFgAAAAABnYoz0PHOGk8T/dILhJ7I0",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 147013,
-      "name": "El Toro Zacatecano",
-      "url": "https://open.spotify.com/track/59XFCPqQNINxQgpbEXPo5R"
+      "duration_ms": 200293,
+      "name": "Bailala Baila",
+      "url": "https://open.spotify.com/track/53P8te3Pf3MJjqCCKFT9Te"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 200293,
-      "name": "Bailala Baila",
-      "url": "https://open.spotify.com/track/53P8te3Pf3MJjqCCKFT9Te"
+      "duration_ms": 147013,
+      "name": "El Toro Zacatecano",
+      "url": "https://open.spotify.com/track/59XFCPqQNINxQgpbEXPo5R"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Primeras Canciones",
-        "url": "https://open.spotify.com/album/1O25aIOV3EXt2faP4ilwvs"
+        "name": "Polvo y Nada",
+        "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 121400,
-      "name": "Libro Abierto - Con Mariachi",
-      "url": "https://open.spotify.com/track/0ITWZNW8i7RtOj5Wg7LMwP"
+      "duration_ms": 170973,
+      "name": "Dame un Beso y Dime Adios",
+      "url": "https://open.spotify.com/track/2110VkSKDKTlr6jdV1GVR2"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
-        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+        "name": "Mis Primeras Canciones",
+        "url": "https://open.spotify.com/album/1O25aIOV3EXt2faP4ilwvs"
       },
       "artists": [
         {
@@ -372,57 +372,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 215093,
-      "name": "La Muerta",
-      "url": "https://open.spotify.com/track/1kH7t2zepTvq9zvOleNzlB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Funky Town Recordando los Exitos, Vol. 6",
-        "url": "https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Mi Destino Fue Quererte",
-      "url": "https://open.spotify.com/track/0o2cI28cAMXArePpVNg0te"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ando Que Me Lleva \"Recordando los Exitos,\" Vol. 4",
-        "url": "https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Ando Que Me Lleva",
-      "url": "https://open.spotify.com/track/5mZguGqaMDXVUN27KuctSS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Polvo y Nada",
-        "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 170973,
-      "name": "Dame un Beso y Dime Adios",
-      "url": "https://open.spotify.com/track/2110VkSKDKTlr6jdV1GVR2"
+      "duration_ms": 121400,
+      "name": "Libro Abierto - Con Mariachi",
+      "url": "https://open.spotify.com/track/0ITWZNW8i7RtOj5Wg7LMwP"
     },
     {
       "added_at": null,
@@ -443,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Funky Town Recordando los Exitos, Vol. 6",
+        "url": "https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Mi Destino Fue Quererte",
+      "url": "https://open.spotify.com/track/0o2cI28cAMXArePpVNg0te"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tamborazos Zacatecanos , Vol. 1",
         "url": "https://open.spotify.com/album/307mS3CHQ0B8qfaagb63aX"
       },
@@ -459,6 +427,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ando Que Me Lleva \"Recordando los Exitos,\" Vol. 4",
+        "url": "https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Ando Que Me Lleva",
+      "url": "https://open.spotify.com/track/5mZguGqaMDXVUN27KuctSS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "La Muerta",
+      "url": "https://open.spotify.com/track/1kH7t2zepTvq9zvOleNzlB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Caballo Blanco, Vol. 4",
+        "url": "https://open.spotify.com/album/0K0vOfa88awSPeNiAwFVX3"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Tamborazo Zacatecano Del ca\u00f1on De Juchipila",
+          "url": "https://open.spotify.com/artist/5yTedii3ng1yrSuJdrUhkX"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "El Ultimo Trago",
+      "url": "https://open.spotify.com/track/31cbZOX36lehPg9y75O1hc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Al Estilo Tierra Caliente",
         "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
       },
@@ -471,22 +491,6 @@
       "duration_ms": 186346,
       "name": "Con el Sabor Amargo - Estilo Tierra Caliente",
       "url": "https://open.spotify.com/track/4HpWofvK0r3meE1KwDSjaS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Mucho Ritmo",
-        "url": "https://open.spotify.com/album/3PdjnkfBMShSNnDqi23Xjp"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 184413,
-      "name": "Ritmo Que Jala",
-      "url": "https://open.spotify.com/track/6pSAatB6pkbqVqvfLkuQ8d"
     },
     {
       "added_at": null,
@@ -527,28 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Caballo Blanco, Vol. 4",
-        "url": "https://open.spotify.com/album/0K0vOfa88awSPeNiAwFVX3"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        },
-        {
-          "name": "Tamborazo Zacatecano Del ca\u00f1on De Juchipila",
-          "url": "https://open.spotify.com/artist/5yTedii3ng1yrSuJdrUhkX"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "El Ultimo Trago",
-      "url": "https://open.spotify.com/track/31cbZOX36lehPg9y75O1hc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vamos a la Playa, Recordando los Exitos",
-        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
+        "name": "Con Mucho Ritmo",
+        "url": "https://open.spotify.com/album/3PdjnkfBMShSNnDqi23Xjp"
       },
       "artists": [
         {
@@ -556,9 +540,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 140080,
-      "name": "Gema",
-      "url": "https://open.spotify.com/track/2IOFMWRvVDiOrSqyHQdzRv"
+      "duration_ms": 184413,
+      "name": "Ritmo Que Jala",
+      "url": "https://open.spotify.com/track/6pSAatB6pkbqVqvfLkuQ8d"
     },
     {
       "added_at": null,
@@ -575,6 +559,22 @@
       "duration_ms": 151720,
       "name": "Ya Llego la Banda Toro",
       "url": "https://open.spotify.com/track/12xoofQV0GsQGBRo8dgr9f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vamos a la Playa, Recordando los Exitos",
+        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 140080,
+      "name": "Gema",
+      "url": "https://open.spotify.com/track/2IOFMWRvVDiOrSqyHQdzRv"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vamos a la Playa, Recordando los Exitos",
-        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
+        "name": "El Ecuaro",
+        "url": "https://open.spotify.com/album/2uRdvRRlHrwIzGuBCVf2aT"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 148093,
-      "name": "Te Sigo Amando",
-      "url": "https://open.spotify.com/track/3hjU0dV58noafui2zYVnts"
+      "duration_ms": 171466,
+      "name": "La Vida Alegre",
+      "url": "https://open.spotify.com/track/5zT0IoSZ32APqIAUmTO1kk"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ecuaro",
-        "url": "https://open.spotify.com/album/2uRdvRRlHrwIzGuBCVf2aT"
+        "name": "Vamos a la Playa, Recordando los Exitos",
+        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 171466,
-      "name": "La Vida Alegre",
-      "url": "https://open.spotify.com/track/5zT0IoSZ32APqIAUmTO1kk"
+      "duration_ms": 148093,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/3hjU0dV58noafui2zYVnts"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Estilo Tierra Caliente",
-        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Carta Perdida - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/5phrg6rNHnHRBDSK22718k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cantando a Mexico",
         "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 146520,
       "name": "El Pescuezo del Pollo",
       "url": "https://open.spotify.com/track/5JjQCDBEc9XHfTrjR1rAOO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Estilo Tierra Caliente",
+        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Carta Perdida - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/5phrg6rNHnHRBDSK22718k"
     },
     {
       "added_at": null,

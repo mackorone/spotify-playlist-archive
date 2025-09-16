@@ -1,12 +1,12 @@
 {
   "description": "for the baddies.",
-  "num_followers": 359080,
+  "num_followers": 359250,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKh/iMPkOPuEpWvkq6lwTkW/foVT",
+  "snapshot_id": "AAAAAGTpiHx+ZCK/o5P8COJ6xpR65IuC",
   "tracks": [
     {
       "added_at": "2025-08-29 04:00:27",
@@ -383,18 +383,22 @@
     {
       "added_at": "2025-08-29 04:00:27",
       "album": {
-        "name": "Make Yourself",
-        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
+        "name": "Corpus I",
+        "url": "https://open.spotify.com/album/3sR99ifBBjElpRmIGkstcm"
       },
       "artists": [
         {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        },
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
         }
       ],
-      "duration_ms": 223746,
-      "name": "Pardon Me",
-      "url": "https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"
+      "duration_ms": 240044,
+      "name": "Spit",
+      "url": "https://open.spotify.com/track/6XydPDin3lvWsT1tJI4QdL"
     },
     {
       "added_at": "2025-08-29 04:00:27",
@@ -431,22 +435,18 @@
     {
       "added_at": "2025-08-29 04:00:27",
       "album": {
-        "name": "Corpus I",
-        "url": "https://open.spotify.com/album/3sR99ifBBjElpRmIGkstcm"
+        "name": "Make Yourself",
+        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
       },
       "artists": [
         {
-          "name": "Show Me the Body",
-          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
-        },
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
         }
       ],
-      "duration_ms": 240044,
-      "name": "Spit",
-      "url": "https://open.spotify.com/track/6XydPDin3lvWsT1tJI4QdL"
+      "duration_ms": 223746,
+      "name": "Pardon Me",
+      "url": "https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"
     },
     {
       "added_at": "2025-08-29 04:00:27",

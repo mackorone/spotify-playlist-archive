@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-267 songs - 16 hr 23 min
+268 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Baby I Love You](https://open.spotify.com/track/1npZLnadIut8UfjsqYSOBh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Baby I Love You](https://open.spotify.com/album/0jeQl3GruPQyRKe0h4wU8a) | 3:24 | 2022-01-11 | 2022-03-31 |
 | [Bad Blood](https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:55 | 2022-01-11 |  |
 | [Banging on My Head](https://open.spotify.com/track/1bZyxl5uE0yEsq33JXPm4B) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Devolver](https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h) | 1:51 | 2022-11-06 | 2022-11-21 |
+| [Bartering Lines](https://open.spotify.com/track/1iGghDOmeNAZ7r3CwOaBQb) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker \(25th Anniversary Edition\)](https://open.spotify.com/album/5qD8CvtAwVaQR5bhADos2U) | 3:23 | 2025-09-16 |  |
 | [Bartering Lines](https://open.spotify.com/track/0bkV9Clv4lnhpVRKST2Iwp) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:59 | 2022-01-15 | 2022-09-25 |
 | [Be Wrong](https://open.spotify.com/track/63et5T8L2cyXHDQ9Gk21j6) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:02 | 2024-01-04 | 2024-08-16 |
 | [Big Colors](https://open.spotify.com/track/01E0hLWxNOd3EC87piQP3j) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/52I0BOmsfSkktBS11ANyE4) | 3:07 | 2022-12-31 | 2024-01-02 |
@@ -98,7 +99,7 @@
 | [Fuck the Rain](https://open.spotify.com/track/1aaytdHwlq3UvtJVyw3wRH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/52I0BOmsfSkktBS11ANyE4) | 3:33 | 2022-12-15 | 2024-01-09 |
 | [Fuck The Rain](https://open.spotify.com/track/4VNYmt11KbdIdB2BA5ZtgG) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/5yILy87UTpbkBd5Ax2w6EQ) | 3:33 | 2022-12-08 | 2022-12-13 |
 | [Fuck The Rain](https://open.spotify.com/track/6QZteBMevNynnZFzCxoG0I) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 3:33 | 2022-01-11 | 2022-12-02 |
-| [Gimme Something Good](https://open.spotify.com/track/08aCW0RGOaR53En8g7e3HJ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:54 | 2022-01-11 |  |
+| [Gimme Something Good](https://open.spotify.com/track/08aCW0RGOaR53En8g7e3HJ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:54 | 2022-01-11 | 2025-09-16 |
 | [Gimme Something Good](https://open.spotify.com/track/4bhspHrFFCtl1wSt74KcxL) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/69K1Pef7hoy91Q81F6WPey) | 3:54 | 2024-09-23 | 2025-05-07 |
 | [Hall of Shame](https://open.spotify.com/track/1BdDHMSD1LtJ9fGCMee0D8) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 3:33 | 2022-08-20 | 2022-11-01 |
 | [Hall of Shame](https://open.spotify.com/track/3jwnNTEjlyg6z1ctcxYWsV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI) | 3:33 | 2022-10-31 | 2022-12-16 |

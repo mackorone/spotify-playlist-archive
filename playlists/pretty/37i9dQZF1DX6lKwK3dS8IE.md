@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: AJJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,455 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,455 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 47 | [I Love You Like An Alcoholic](https://open.spotify.com/track/7u63zva845rv8tRFi9FG8a) | [The Taxpayers](https://open.spotify.com/artist/1QNEVFk8MjculKl5977kfy) | ["God, Forgive These Bastards" Songs From The Forgotten Life of Henry Turner](https://open.spotify.com/album/2H4MixFpi9BQdQqtozfovm) | 3:35 |
 | 48 | [Cult Boyfriend](https://open.spotify.com/track/4yYkAGcxY6H0NtNaRTzmpH) | [Jeffrey Lewis](https://open.spotify.com/artist/2Icsf5D1lAs2EFx6kggg5D) | [A Turn in the Dream\-Songs](https://open.spotify.com/album/7HqSmbT8eQWB9Ta65a7sAi) | 2:36 |
 | 49 | [Brave as a Noun](https://open.spotify.com/track/6bfPo8Ge3VoD4dEGSDs0R9) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [People Who Can Eat People Are the Luckiest People in the World](https://open.spotify.com/album/2jRdTNGZzb3drtFRYaUpFE) | 1:14 |
-| 50 | [The Voice In My Head](https://open.spotify.com/track/2pLBgqBQxTqrUN1jCn8M8B) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [The Voice In My Head](https://open.spotify.com/album/4M3uXTjbtdPBBiMGtNGCa1) | 1:58 |
+| 50 | [Gotta Get To Peekskill \(feat\. Violent Femmes\)](https://open.spotify.com/track/17hb9Umsj8gB9dsRnyRX9J) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Gotta Get To Peekskill \(feat\. Violent Femmes\)](https://open.spotify.com/album/3LKeCdJ9O8Y9aW6UADSE26) | 2:46 |
 
 Snapshot ID: `AAAAANmc7Y/8iDdU+ER9tiPS6VtJmzRT`

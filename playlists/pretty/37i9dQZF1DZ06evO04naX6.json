@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 173223,
+  "num_followers": 173230,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAADW18xoSiQMNdd9PTIS3C8k",
+  "snapshot_id": "aMYFgAAAAACTZNm3Fq9IjG2/GP2b02aW",
   "tracks": [
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HABLAME CLARO",
-        "url": "https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI"
+        "name": "#Update",
+        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
       },
       "artists": [
         {
@@ -428,13 +428,13 @@
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         }
       ],
-      "duration_ms": 154969,
-      "name": "HABLAME CLARO",
-      "url": "https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY"
+      "duration_ms": 210773,
+      "name": "Como Antes (feat. Wisin)",
+      "url": "https://open.spotify.com/track/5YzA563GXTuwQaRq24z1k5"
     },
     {
       "added_at": null,
@@ -455,26 +455,6 @@
       "duration_ms": 199026,
       "name": "Moviendo Caderas (feat. Daddy Yankee)",
       "url": "https://open.spotify.com/track/0bdL8X3MrX51dRz231BFtv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "#Update",
-        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Como Antes (feat. Wisin)",
-      "url": "https://open.spotify.com/track/5YzA563GXTuwQaRq24z1k5"
     },
     {
       "added_at": null,
@@ -503,6 +483,26 @@
       "duration_ms": 315440,
       "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
       "url": "https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HABLAME CLARO",
+        "url": "https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 154969,
+      "name": "HABLAME CLARO",
+      "url": "https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 194941,
-      "name": "Sigo Enamorau'",
-      "url": "https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
       },
@@ -711,6 +691,46 @@
       "duration_ms": 166929,
       "name": "UNA M\u00c1S",
       "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 194941,
+      "name": "Sigo Enamorau'",
+      "url": "https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quien Contra Mi",
+        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "La Calle Me Lo Pidio",
+      "url": "https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy"
     },
     {
       "added_at": null,
@@ -763,26 +783,6 @@
       "duration_ms": 373960,
       "name": "Ginza - Remix",
       "url": "https://open.spotify.com/track/1tJw60G9KHl7fYVdQ2JDgo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quien Contra Mi",
-        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "La Calle Me Lo Pidio",
-      "url": "https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy"
     },
     {
       "added_at": null,
@@ -847,6 +847,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Le Clique: Vida Rockstar (X)",
+        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/61SktdmRAfMcOEv4eQBqwf"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Porsche Carrera",
+      "url": "https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desperte Sin Ti (Remix)",
+        "url": "https://open.spotify.com/album/4Txl9NHs8rXqtG0sAosf6v"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 319586,
+      "name": "Desperte Sin Ti - Remix",
+      "url": "https://open.spotify.com/track/1CWi7KBl7TUIYgIH52KO6f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEXO ES LA MODA",
+        "url": "https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 165901,
+      "name": "SEXO ES LA MODA",
+      "url": "https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) [Remix]",
         "url": "https://open.spotify.com/album/7mau5c15cnVkwcp79cV5LK"
       },
@@ -887,74 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Clique: Vida Rockstar (X)",
-        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Haze",
-          "url": "https://open.spotify.com/artist/61SktdmRAfMcOEv4eQBqwf"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Porsche Carrera",
-      "url": "https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SEXO ES LA MODA",
-        "url": "https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 165901,
-      "name": "SEXO ES LA MODA",
-      "url": "https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desperte Sin Ti (Remix)",
-        "url": "https://open.spotify.com/album/4Txl9NHs8rXqtG0sAosf6v"
-      },
-      "artists": [
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 319586,
-      "name": "Desperte Sin Ti - Remix",
-      "url": "https://open.spotify.com/track/1CWi7KBl7TUIYgIH52KO6f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -979,54 +979,6 @@
       "duration_ms": 216293,
       "name": "Unica - Remix",
       "url": "https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sr. Santos II Sue\u00f1os de Grandeza",
-        "url": "https://open.spotify.com/album/0MgU9DihKxDmLXxlbTtxu9"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 293156,
-      "name": "Wells Fargo",
-      "url": "https://open.spotify.com/track/2tXx1UWEjtZNOak94m7R8g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Underdog - El Subestimado",
-        "url": "https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 184480,
-      "name": "Cuando Baila Reggaeton",
-      "url": "https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG"
     },
     {
       "added_at": null,
@@ -1063,6 +1015,54 @@
       "duration_ms": 322906,
       "name": "Bonita - Remix",
       "url": "https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Underdog - El Subestimado",
+        "url": "https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 184480,
+      "name": "Cuando Baila Reggaeton",
+      "url": "https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sr. Santos II Sue\u00f1os de Grandeza",
+        "url": "https://open.spotify.com/album/0MgU9DihKxDmLXxlbTtxu9"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 293156,
+      "name": "Wells Fargo",
+      "url": "https://open.spotify.com/track/2tXx1UWEjtZNOak94m7R8g"
     },
     {
       "added_at": null,
@@ -1143,6 +1143,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "De Negro",
+      "url": "https://open.spotify.com/track/4vAAGNZAjmCUc51qjhFZdM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OCEAN",
         "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
       },
@@ -1159,34 +1179,6 @@
       "duration_ms": 222693,
       "name": "La Ocasi\u00f3n Perfecta",
       "url": "https://open.spotify.com/track/0Y0QTT6W7zRVKv9hWdYkCg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LA MAYBACH",
-        "url": "https://open.spotify.com/album/1jz29Rm1NMO3xpeMotUgff"
-      },
-      "artists": [
-        {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 240778,
-      "name": "LA MAYBACH",
-      "url": "https://open.spotify.com/track/0kJAsLcG0lPlYTwGbCwcvt"
     }
   ],
   "unique_name": "This Is Yandel",

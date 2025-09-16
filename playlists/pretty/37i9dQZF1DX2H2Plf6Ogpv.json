@@ -1,6 +1,6 @@
 {
   "description": "Unearth the year's most exciting rock and alternative hidden gems. Cover: Chloe Slater",
-  "num_followers": 32331,
+  "num_followers": 32354,
   "original_name": "2024 Rock songs you may have missed",
   "owner": {
     "name": "Spotify",
@@ -615,18 +615,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Break the Tension",
-        "url": "https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo"
+        "name": "Poetry",
+        "url": "https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR"
       },
       "artists": [
         {
-          "name": "Maruja",
-          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
         }
       ],
-      "duration_ms": 225186,
-      "name": "Break the Tension",
-      "url": "https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi"
+      "duration_ms": 177080,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/1GSTBJv8vb5zgiKtERUrf8"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Poetry",
-        "url": "https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR"
+        "name": "Break the Tension",
+        "url": "https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo"
       },
       "artists": [
         {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
         }
       ],
-      "duration_ms": 177080,
-      "name": "Mood Ring",
-      "url": "https://open.spotify.com/track/1GSTBJv8vb5zgiKtERUrf8"
+      "duration_ms": 225186,
+      "name": "Break the Tension",
+      "url": "https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "I Love You Too",
-        "url": "https://open.spotify.com/album/2A4bSdjuUF7qQ8hjtqQ8YF"
-      },
-      "artists": [
-        {
-          "name": "Teen Jesus and the Jean Teasers",
-          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
-        },
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 195303,
-      "name": "Dull (feat. Softcult)",
-      "url": "https://open.spotify.com/track/62zUR9KtxLb9h0ytBPjZWG"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "New High",
         "url": "https://open.spotify.com/album/2YCEnnEB1dUwaLBvhfkK75"
       },
@@ -1219,18 +1199,38 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Emita Ox",
-        "url": "https://open.spotify.com/album/13eIbvtsIMuTfvN7v3nK4X"
+        "name": "Name Your Sorrow",
+        "url": "https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF"
       },
       "artists": [
         {
-          "name": "Hello Mary",
-          "url": "https://open.spotify.com/artist/6kgB8Ix1GHS4t8OWmsMDGn"
+          "name": "Pillow Queens",
+          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
         }
       ],
-      "duration_ms": 176693,
-      "name": "0%",
-      "url": "https://open.spotify.com/track/5On63WZYDvgFsRA5jPTEo9"
+      "duration_ms": 230984,
+      "name": "Heavy Pour",
+      "url": "https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "I Love You Too",
+        "url": "https://open.spotify.com/album/2A4bSdjuUF7qQ8hjtqQ8YF"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        },
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 195303,
+      "name": "Dull (feat. Softcult)",
+      "url": "https://open.spotify.com/track/62zUR9KtxLb9h0ytBPjZWG"
     }
   ],
   "unique_name": "2024 Rock songs you may have missed",

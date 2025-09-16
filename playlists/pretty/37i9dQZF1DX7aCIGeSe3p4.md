@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aCIGeSe3p4.md) - [plain]
 
 > ojitos mentirosos, no me mires 🤡🥺❤️‍🩹 Cosechando los éxitos del internet 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,628 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,768 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

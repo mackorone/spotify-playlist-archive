@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Ed Sheeran on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,919 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,943 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 48 | [My Meridian](https://open.spotify.com/track/4nT7dyS3xtuAdLpjn3pzv0) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [My Meridian](https://open.spotify.com/album/1SXOeqqZ571IVsZfp73PiH) | 2:25 |
 | 49 | [Art Museum \(2am\)](https://open.spotify.com/track/10u8ssp3b4XOqB9s4nczkd) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Art Museum \(2am\)](https://open.spotify.com/album/1w6aoFfe36P5hJ5KTuPcD0) | 2:10 |
 | 50 | [Tied To You \(feat\. Medium Build\)](https://open.spotify.com/track/0YrUVLFiFi0udpYkLjgzSt) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Tied To You \(feat\. Medium Build\)](https://open.spotify.com/album/6HKGQOW4nrFhGbu9yIC2jk) | 3:40 |
-| 51 | [Forever](https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/5AOBx6uu2fTnhsu5keahyR) | [Forever](https://open.spotify.com/album/5bZB1yQFWT2YAR36eEuSct) | 2:51 |
+| 51 | [Forever](https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/42CbYw1Y9fAdCr6UND2P5f) | [Forever](https://open.spotify.com/album/5bZB1yQFWT2YAR36eEuSct) | 2:51 |
 | 52 | [Last Shot](https://open.spotify.com/track/5ppdmIeHPG2qLHm0SsmqfB) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [templuv](https://open.spotify.com/artist/7c4qQ1lik128TAf5e1ELbS), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Last Shot](https://open.spotify.com/album/6YbUryprhSzMIHWxUdxUPL) | 3:04 |
 | 53 | [Atlanna](https://open.spotify.com/track/1SVKs6dROzje7BU1FTLAXn) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Magic City](https://open.spotify.com/album/1lOpFH3H5zuMpuXRGPCEGW) | 4:05 |
 | 54 | [Backyard \(with JID\)](https://open.spotify.com/track/0lXryFB1cmrLYTfZ7vH91y) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Backyard \(with JID\)](https://open.spotify.com/album/5BTYzBFEHJuToi9lVeDdCw) | 3:23 |

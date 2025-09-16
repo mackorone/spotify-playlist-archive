@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 182908,
+  "num_followers": 182973,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -527,26 +527,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Riders on the Storm",
-        "url": "https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9"
-      },
-      "artists": [
-        {
-          "name": "Jazzystics",
-          "url": "https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG"
-        },
-        {
-          "name": "Apollinare Rossi",
-          "url": "https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU"
-        }
-      ],
-      "duration_ms": 226389,
-      "name": "Riders on the Storm",
-      "url": "https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Make Someone Happy",
         "url": "https://open.spotify.com/album/1jjxzX4wNzRiTETj76qlrz"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 282702,
       "name": "Make Someone Happy",
       "url": "https://open.spotify.com/track/1NwlQ1rL7MkuJppWF7lnHb"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Riders on the Storm",
+        "url": "https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9"
+      },
+      "artists": [
+        {
+          "name": "Jazzystics",
+          "url": "https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG"
+        },
+        {
+          "name": "Apollinare Rossi",
+          "url": "https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU"
+        }
+      ],
+      "duration_ms": 226389,
+      "name": "Riders on the Storm",
+      "url": "https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
-      },
-      "artists": [
-        {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
-        }
-      ],
-      "duration_ms": 284213,
-      "name": "Things Are Looking up Again",
-      "url": "https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "twenty-first",
         "url": "https://open.spotify.com/album/5uI9gOvyW2km0W5M4Djy2T"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 216000,
       "name": "twenty-first",
       "url": "https://open.spotify.com/track/1pG8XTfw1b4YGHVQM0UORh"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
+      },
+      "artists": [
+        {
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+        }
+      ],
+      "duration_ms": 284213,
+      "name": "Things Are Looking up Again",
+      "url": "https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "A Voice",
+        "url": "https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 265760,
+      "name": "A Voice",
+      "url": "https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "Song Like Ours",
         "url": "https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 298549,
       "name": "Song Like Ours",
       "url": "https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "A Voice",
-        "url": "https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 265760,
-      "name": "A Voice",
-      "url": "https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1051,22 +1051,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Collusion",
-        "url": "https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD"
+        "name": "Featuring EP",
+        "url": "https://open.spotify.com/album/6HIiwDEN449szjTsa2SwDC"
       },
       "artists": [
         {
-          "name": "Apollinare Rossi",
-          "url": "https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU"
+          "name": "Meryl Rudy",
+          "url": "https://open.spotify.com/artist/5D0fFHHBDqY6PuxnZgbcMc"
         },
         {
-          "name": "Jules Renauld",
-          "url": "https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM"
+          "name": "Sophie Wellington",
+          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
         }
       ],
-      "duration_ms": 267302,
-      "name": "Let's Go to Bed",
-      "url": "https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN"
+      "duration_ms": 176543,
+      "name": "I'd Run to the Moon",
+      "url": "https://open.spotify.com/track/1y4g7ZmRG18Yxckjf4fXfP"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1087,22 +1087,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Featuring EP",
-        "url": "https://open.spotify.com/album/6HIiwDEN449szjTsa2SwDC"
+        "name": "Collusion",
+        "url": "https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD"
       },
       "artists": [
         {
-          "name": "Meryl Rudy",
-          "url": "https://open.spotify.com/artist/5D0fFHHBDqY6PuxnZgbcMc"
+          "name": "Apollinare Rossi",
+          "url": "https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU"
         },
         {
-          "name": "Sophie Wellington",
-          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
+          "name": "Jules Renauld",
+          "url": "https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM"
         }
       ],
-      "duration_ms": 176543,
-      "name": "I'd Run to the Moon",
-      "url": "https://open.spotify.com/track/1y4g7ZmRG18Yxckjf4fXfP"
+      "duration_ms": 267302,
+      "name": "Let's Go to Bed",
+      "url": "https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "\u00e0 Fleur de Peau",
-        "url": "https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW"
-      },
-      "artists": [
-        {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
-        }
-      ],
-      "duration_ms": 258900,
-      "name": "Inside and Out",
-      "url": "https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Baby, It's Cold Outside",
         "url": "https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 188273,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "\u00e0 Fleur de Peau",
+        "url": "https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        }
+      ],
+      "duration_ms": 258900,
+      "name": "Inside and Out",
+      "url": "https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "At the End of the Day",
+        "url": "https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O"
+      },
+      "artists": [
+        {
+          "name": "Caleb Dinger",
+          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "At the End of the Day",
+      "url": "https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "Softer Than You Know",
         "url": "https://open.spotify.com/album/7gIixEPeXj189Kzw4PHCXu"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 208013,
       "name": "Softer Than You Know",
       "url": "https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "At the End of the Day",
-        "url": "https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O"
-      },
-      "artists": [
-        {
-          "name": "Caleb Dinger",
-          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "At the End of the Day",
-      "url": "https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Wherever You're Going",
-        "url": "https://open.spotify.com/album/0F0fb6ytX3wGsmCNKkBOeb"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 247800,
-      "name": "Wherever You're Going",
-      "url": "https://open.spotify.com/track/2U2CqVG9M78eJM9kLDz1oO"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Taller",
         "url": "https://open.spotify.com/album/5SRbo9fLmQzZqInna05WyM"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 188413,
       "name": "You Can't Hide Away From Love",
       "url": "https://open.spotify.com/track/73gYqDCBbnFjp3CWkpuwTK"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Wherever You're Going",
+        "url": "https://open.spotify.com/album/0F0fb6ytX3wGsmCNKkBOeb"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 247800,
+      "name": "Wherever You're Going",
+      "url": "https://open.spotify.com/track/2U2CqVG9M78eJM9kLDz1oO"
     },
     {
       "added_at": "2025-05-18 18:29:44",

@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 139112,
+  "num_followers": 139122,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAAUz/CX541+4l3EUGWABXeB",
+  "snapshot_id": "aMYFgAAAAADtZxPK02mJYyabWbGuNboU",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children of the Grave",
-        "url": "https://open.spotify.com/album/2josSbpUs4UMzSoCVcXRau"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 287780,
-      "name": "Children of the Grave",
-      "url": "https://open.spotify.com/track/5pdb4UFAWnuiepRAyAUvsd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lamb of God",
         "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
       },
@@ -75,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Children of the Grave",
+        "url": "https://open.spotify.com/album/2josSbpUs4UMzSoCVcXRau"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 287780,
+      "name": "Children of the Grave",
+      "url": "https://open.spotify.com/track/5pdb4UFAWnuiepRAyAUvsd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ashes of the Wake (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca"
       },
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 286028,
-      "name": "Omert\u00e1",
-      "url": "https://open.spotify.com/track/2Sy5OyM3D8TL797lj8VmQx"
+      "duration_ms": 219815,
+      "name": "Now You've Got Something to Die For",
+      "url": "https://open.spotify.com/track/53CYNxzR49G438rPaKFOIp"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 219815,
-      "name": "Now You've Got Something to Die For",
-      "url": "https://open.spotify.com/track/53CYNxzR49G438rPaKFOIp"
+      "duration_ms": 286028,
+      "name": "Omert\u00e1",
+      "url": "https://open.spotify.com/track/2Sy5OyM3D8TL797lj8VmQx"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New American Gospel",
-        "url": "https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 292293,
-      "name": "Black Label",
-      "url": "https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISCO4 :: PART II",
         "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 326771,
       "name": "COLD BLOOD",
       "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New American Gospel",
+        "url": "https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 292293,
+      "name": "Black Label",
+      "url": "https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk"
     },
     {
       "added_at": null,

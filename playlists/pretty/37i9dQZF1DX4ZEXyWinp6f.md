@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,406 likes - 75 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,463 likes - 75 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 65 | [Illusion Of Time](https://open.spotify.com/track/3dQiW5N2mVmYSmpI2suOIA) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/0337WPtUhYFk11ykBc1j6Z) | 4:22 |
 | 66 | [Beyond the Clouds](https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Eddie Warner](https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Space Oddities: Studio Ganaro \(1972\-1982\)](https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU) | 2:03 |
 | 67 | [12121](https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Biologica, Volume One \(Water\)](https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq) | 2:36 |
-| 68 | [I'm Not Much, But I'm All I Have](https://open.spotify.com/track/2eX2M9ULuxWkDOZAioj683) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Even Temper](https://open.spotify.com/album/2SWQjbVkJg05fPrznE7Lxx) | 3:58 |
-| 69 | [Under the Midnight Sun](https://open.spotify.com/track/1f6eXoO4z7MBCkhdGyMDH9) | [Jeremiah Chiu](https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa), [Marta Sofia Honer](https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv) | [Recordings from the Åland Islands](https://open.spotify.com/album/7uJLi3TtRhHKD7LtlRoEem) | 3:42 |
+| 68 | [Under the Midnight Sun](https://open.spotify.com/track/1f6eXoO4z7MBCkhdGyMDH9) | [Jeremiah Chiu](https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa), [Marta Sofia Honer](https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv) | [Recordings from the Åland Islands](https://open.spotify.com/album/7uJLi3TtRhHKD7LtlRoEem) | 3:42 |
+| 69 | [I'm Not Much, But I'm All I Have](https://open.spotify.com/track/2eX2M9ULuxWkDOZAioj683) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Even Temper](https://open.spotify.com/album/2SWQjbVkJg05fPrznE7Lxx) | 3:58 |
 | 70 | [Landing On 51](https://open.spotify.com/track/7CI5MHtF2gY6gYml0jqrXe) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [The Electronic Magic of Tangerine Dream \- the Anthology](https://open.spotify.com/album/7JKzFpsGCnTDYJCzZDxA6o) | 7:57 |
 | 71 | [Station 5](https://open.spotify.com/track/04leIf90smZtRC2aV0lvRa) | [Field Works](https://open.spotify.com/artist/2AMZYRU9gyPG7OEfSYA8Dr), [Hanna Benn](https://open.spotify.com/artist/3f311Nvt0uimtZzFtleUiA), [Janie Cowan](https://open.spotify.com/artist/0Gof2YXoYi1mFZgSrHfMKS), [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT), [Stuart Hyatt](https://open.spotify.com/artist/3bm83rD8JWMvdkSj87RJ1l), [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D), [Pick a Piper](https://open.spotify.com/artist/6so2HBfVIUPwfjZPtXM1DB) | [Station 5](https://open.spotify.com/album/2MfxtpZ0z6hsSx6LvxkquB) | 3:02 |
 | 72 | [Novu Hisy](https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Novu Hisy](https://open.spotify.com/album/3fqVodXZqyhTxg3IFIFlnL) | 3:43 |

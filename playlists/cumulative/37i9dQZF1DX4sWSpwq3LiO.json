@@ -2275,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "Another You",
+        "url": "https://open.spotify.com/album/2M8u3SmPYLE9aqTKC0WI6u"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Nucci",
+          "url": "https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Another You",
+      "url": "https://open.spotify.com/track/0EtAKEkG6bbdMUNGD6ZaJR"
+    },
+    {
+      "album": {
         "name": "Answer With Light",
         "url": "https://open.spotify.com/album/73ONbpwmVtKFKWFPkPq2dE"
       },
@@ -18355,6 +18373,24 @@
     },
     {
       "album": {
+        "name": "Night Beneath Us",
+        "url": "https://open.spotify.com/album/4ITDAWAyqep2uc3yqmy7ZY"
+      },
+      "artists": [
+        {
+          "name": "Sorellien",
+          "url": "https://open.spotify.com/artist/6tskJzai4ETnMp76lomMzr"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159201,
+      "name": "Night Beneath Us",
+      "url": "https://open.spotify.com/track/5rtLxR4M0ZGoTe6vQOjlrU"
+    },
+    {
+      "album": {
         "name": "Night Hymn",
         "url": "https://open.spotify.com/album/4yuteEOLn8qJAMBujcwGbY"
       },
@@ -23330,7 +23366,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 151750,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa"
@@ -25142,7 +25178,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 155384,
       "name": "soleil",
       "url": "https://open.spotify.com/track/5xFeWI8GG7ylFRh0Pi6sli"
@@ -30199,6 +30235,24 @@
     },
     {
       "album": {
+        "name": "valse de la fille",
+        "url": "https://open.spotify.com/album/7joqEdM1MFBHHja8R2sV6Q"
+      },
+      "artists": [
+        {
+          "name": "Adrien Anvi\u00e9r",
+          "url": "https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154358,
+      "name": "valse de la fille",
+      "url": "https://open.spotify.com/track/7fxJDIIC14LZjmbtRr4lsM"
+    },
+    {
+      "album": {
         "name": "Valse Delle Vigne",
         "url": "https://open.spotify.com/album/3PaiRAL4CrC40EttDtar63"
       },
@@ -32660,6 +32714,24 @@
       "duration_ms": 117000,
       "name": "\u00c6rlighet",
       "url": "https://open.spotify.com/track/7h79rwHdJhHy4srfV43xVB"
+    },
+    {
+      "album": {
+        "name": "\u00c9veil",
+        "url": "https://open.spotify.com/album/3A3g8Hg3Y2y42uG7BmDoft"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "\u00c9veil",
+      "url": "https://open.spotify.com/track/2brRgCl1LHEDuwMjFxp8s5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO"

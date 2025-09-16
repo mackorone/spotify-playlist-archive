@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 119671,
+  "num_followers": 119713,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAABsAXGi/6KWbeoWKzT38n71",
+  "snapshot_id": "aMYFgAAAAADVnXptdqe0BTINo2CnUBcr",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loveworm",
+        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 178918,
+      "name": "Apple Cider",
+      "url": "https://open.spotify.com/track/5xA5MggKc3aQxuOzNzPUWB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Night To Remember",
         "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 233388,
       "name": "A Night To Remember",
       "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loveworm",
-        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 178918,
-      "name": "Apple Cider",
-      "url": "https://open.spotify.com/track/5xA5MggKc3aQxuOzNzPUWB"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 184600,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/0lFB606QmOZ6Lbd6ODhJ0P"
+      "duration_ms": 203760,
+      "name": "Ever Seen",
+      "url": "https://open.spotify.com/track/505HhtdgN8lynQcJQCcIiD"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 203760,
-      "name": "Ever Seen",
-      "url": "https://open.spotify.com/track/505HhtdgN8lynQcJQCcIiD"
+      "duration_ms": 184600,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/0lFB606QmOZ6Lbd6ODhJ0P"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 247584,
+      "name": "Art Class",
+      "url": "https://open.spotify.com/track/5R4u3LgAC2BNkxo0bKQmS5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "fall in love with a girl (feat. Beabadoobee)",
         "url": "https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 190853,
       "name": "fall in love with a girl (feat. Beabadoobee)",
       "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Patched Up",
-        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 247584,
-      "name": "Art Class",
-      "url": "https://open.spotify.com/track/5R4u3LgAC2BNkxo0bKQmS5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,494 likes - 125 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,589 likes - 125 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 42 | [Just One Break \(with Mon Rovîa\)](https://open.spotify.com/track/0freWEWPeC9gFw0hTUOh53) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC), [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Just One Break \(with Mon Rovîa\)](https://open.spotify.com/album/2gJk7RfpGhCKYYMa5JGFOQ) | 2:49 |
 | 43 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 |
 | 44 | [Cairo, IL](https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 2:59 |
-| 45 | [Just Like That](https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:05 |
-| 46 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK) | 2:54 |
+| 45 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK) | 2:54 |
+| 46 | [Just Like That](https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:05 |
 | 47 | [sunflower ‘24](https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [postcard season](https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q) | 2:52 |
 | 48 | [Years On](https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Years On](https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8) | 4:02 |
 | 49 | [Never Be Ourselves](https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Twenty\-Twenty](https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO) | 3:40 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 66 | [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 |
 | 67 | [Humble & Kind](https://open.spotify.com/track/4ZBFIzNwC3QUn0pdqIy1JN) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Bird & the Rifle](https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk) | 4:03 |
 | 68 | [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 3:59 |
-| 69 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
-| 70 | [Never Meant](https://open.spotify.com/track/59MRYnrFHsMMYlAIOnWOij) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Never Meant](https://open.spotify.com/album/1vEVu7cCHpvCWeOdzaje94) | 3:19 |
+| 69 | [Never Meant](https://open.spotify.com/track/59MRYnrFHsMMYlAIOnWOij) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Never Meant](https://open.spotify.com/album/1vEVu7cCHpvCWeOdzaje94) | 3:19 |
+| 70 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
 | 71 | [Buffalo Replaced \- Spotify Singles](https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 2:33 |
 | 72 | [The Meetings of the Waters](https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA) | 5:00 |
 | 73 | [Wolf In Sheep’s Clothes](https://open.spotify.com/track/7oUiQH66dtqxiUuRgrRrz6) | [Ken Pomeroy](https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF) | [Cruel Joke](https://open.spotify.com/album/6bsixeIRweFGPSo3RHqpQH) | 3:25 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 88 | [How \(ft\. Brandi Carlile\)](https://open.spotify.com/track/4da4p7RgqK9AjtVh4sEEHc) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [\(self\-titled\)](https://open.spotify.com/album/19g08PLwSFleJyXjAIugDI) | 3:44 |
 | 89 | [Same Old Eyes](https://open.spotify.com/track/0x2xErt1R95NpZPNjccGnu) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Twenty\-Twenty](https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO) | 4:01 |
 | 90 | [Mending Song](https://open.spotify.com/track/0YxQPmvo2NupJHW8QHEDNL) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Mending Song](https://open.spotify.com/album/0cETfActVxeesqjmLW1Wwn) | 3:49 |
-| 91 | [Sorrow](https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Sorrow](https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp) | 3:55 |
-| 92 | [Radio Silence](https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Radio Silence](https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe) | 3:42 |
+| 91 | [Radio Silence](https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Radio Silence](https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe) | 3:42 |
+| 92 | [Sorrow](https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Sorrow](https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp) | 3:55 |
 | 93 | [No Place Like You](https://open.spotify.com/track/2ZcVl0rG4CFi7KHNeUxvFa) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 2:55 |
 | 94 | [Silicone Heart](https://open.spotify.com/track/18YdjxKgfyjcaIKRrfpndh) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Silicone Heart](https://open.spotify.com/album/2NbquPo8J4VCEqkrDyV9KR) | 3:13 |
 | 95 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 |
@@ -120,9 +120,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 110 | [No Fooling Me](https://open.spotify.com/track/0GEdMvgn1eLGBQeoDeSyPs) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [Restless Minds](https://open.spotify.com/album/5wIJ5KSFs23rMjn3JDoTR7) | 2:46 |
 | 111 | [A Month Or Two](https://open.spotify.com/track/5jZ58MSH3B5fEciHveMDx4) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [How Did It Seem To You?](https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA) | 3:11 |
 | 112 | [Sunwarmed](https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Sunwarmed](https://open.spotify.com/album/59VwIN9sQruODzORauynKX) | 2:58 |
-| 113 | [Stones & Waves](https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y) | [Elias Hix](https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV) | [Stones & Waves](https://open.spotify.com/album/6GXgoZCLZA8FVakysuTHkZ) | 3:10 |
-| 114 | [This Time Around](https://open.spotify.com/track/76LZ3g7Kc8o9g2qh8fYPvv) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [This Time Around](https://open.spotify.com/album/4JBjcczbRn6gAqiieTOX4R) | 3:51 |
-| 115 | [Fallout](https://open.spotify.com/track/359hAVmBw0503I81ATOcaJ) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [Fallout](https://open.spotify.com/album/1moTvG9SmxZ59rYEpitQ64) | 3:51 |
+| 113 | [Fallout](https://open.spotify.com/track/359hAVmBw0503I81ATOcaJ) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [Fallout](https://open.spotify.com/album/1moTvG9SmxZ59rYEpitQ64) | 3:51 |
+| 114 | [Stones & Waves](https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y) | [Elias Hix](https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV) | [Stones & Waves](https://open.spotify.com/album/6GXgoZCLZA8FVakysuTHkZ) | 3:10 |
+| 115 | [This Time Around](https://open.spotify.com/track/76LZ3g7Kc8o9g2qh8fYPvv) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [This Time Around](https://open.spotify.com/album/4JBjcczbRn6gAqiieTOX4R) | 3:51 |
 | 116 | [Wildflowers In The Sky](https://open.spotify.com/track/4tyFfJLi2tstBiMc1KiduB) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Wildflowers In The Sky](https://open.spotify.com/album/2fpUu11yj5MzI7UEpM40Mm) | 2:42 |
 | 117 | [Reliance](https://open.spotify.com/track/2rNlmDqduDNkj8W9D1O7KM) | [Amy Jay](https://open.spotify.com/artist/7ztk56WZhRA5oIiMaNYuh3) | [Reliance](https://open.spotify.com/album/2tTLL49vo53UoDXLcDjPgS) | 3:39 |
 | 118 | [I Only See the Moon](https://open.spotify.com/track/37Fhfv4v0beY9Q57Hfg5Dp) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [I Only See the Moon](https://open.spotify.com/album/7tXYHXjFDzAtPIZoIoX2W6) | 2:57 |

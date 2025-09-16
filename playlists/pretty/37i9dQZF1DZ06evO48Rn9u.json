@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 150457,
+  "num_followers": 150466,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAACxnX1wFTJ2wnWWSAgq8nO5",
+  "snapshot_id": "aMYFgAAAAAD7D3qBk9o8CBMFl8zyKgoM",
   "tracks": [
     {
       "added_at": null,
@@ -299,26 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Hate Music Box",
-        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 173610,
-      "name": "Overtime (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/661XFV3LB1wpEFSmumnXUM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
         "url": "https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 213571,
       "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
       "url": "https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Hate Music Box",
+        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 173610,
+      "name": "Overtime (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/661XFV3LB1wpEFSmumnXUM"
     },
     {
       "added_at": null,
@@ -391,22 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "She's Like Texas",
-        "url": "https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au"
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },
       "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        },
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 205506,
-      "name": "Oh, Tonight (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/35DciiuaU8Lut9EkrlP4wR"
+      "duration_ms": 180800,
+      "name": "justified",
+      "url": "https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W"
     },
     {
       "added_at": null,
@@ -443,18 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+        "name": "She's Like Texas",
+        "url": "https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au"
       },
       "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        },
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 180800,
-      "name": "justified",
-      "url": "https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W"
+      "duration_ms": 205506,
+      "name": "Oh, Tonight (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/35DciiuaU8Lut9EkrlP4wR"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Trailer Different Park",
-        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 230733,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/7Cmd1xEuyrUYtiLbbeBfgJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pageant Material",
         "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
       },
@@ -647,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
       },
       "artists": [
         {
@@ -656,25 +640,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 167120,
-      "name": "simple times",
-      "url": "https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC"
+      "duration_ms": 230733,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/7Cmd1xEuyrUYtiLbbeBfgJ"
     },
     {
       "added_at": null,
@@ -699,6 +667,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 167120,
+      "name": "simple times",
+      "url": "https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pageant Material",
         "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
       },
@@ -711,6 +711,38 @@
       "duration_ms": 214986,
       "name": "Dime Store Cowgirl",
       "url": "https://open.spotify.com/track/43xanDcfSBWuURZCWbItzf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deeper Well: Deeper into the Well",
+        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "cherry blossom",
+      "url": "https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5"
     },
     {
       "added_at": null,
@@ -735,38 +767,6 @@
       "duration_ms": 232298,
       "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
       "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "cherry blossom",
-      "url": "https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deeper Well: Deeper into the Well",
-        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Arm's Length",
-      "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
     },
     {
       "added_at": null,

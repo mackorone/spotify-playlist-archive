@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 105704,
+  "num_followers": 105731,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "Femmes, indiscr\u00e9tion, blasph\u00e8me",
+        "url": "https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f"
+      },
+      "artists": [
+        {
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+        }
+      ],
+      "duration_ms": 263066,
+      "name": "Femmes... Je vous aime",
+      "url": "https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "\u00c0 TOUS LES B\u00c2TARDS",
         "url": "https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY"
       },
@@ -547,22 +563,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Femmes, indiscr\u00e9tion, blasph\u00e8me",
-        "url": "https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f"
-      },
-      "artists": [
-        {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
-        }
-      ],
-      "duration_ms": 263066,
-      "name": "Femmes... Je vous aime",
-      "url": "https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Tarentelle",
         "url": "https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 258826,
       "name": "Prendre un enfant",
       "url": "https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Bleu Blanc Vert",
+        "url": "https://open.spotify.com/album/71TJjFA83jtKIrV6n37FCE"
+      },
+      "artists": [
+        {
+          "name": "Jean-Louis Aubert",
+          "url": "https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Voil\u00e0 c'est fini",
+      "url": "https://open.spotify.com/track/3KCLtcuYgPLLRJmQNXTvWR"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -595,22 +611,6 @@
       "duration_ms": 238746,
       "name": "Je ne veux qu'elle",
       "url": "https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "Bleu Blanc Vert",
-        "url": "https://open.spotify.com/album/71TJjFA83jtKIrV6n37FCE"
-      },
-      "artists": [
-        {
-          "name": "Jean-Louis Aubert",
-          "url": "https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Voil\u00e0 c'est fini",
-      "url": "https://open.spotify.com/track/3KCLtcuYgPLLRJmQNXTvWR"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Jours Heureux",
-        "url": "https://open.spotify.com/album/7jUVoBb0xFVgnqoBOVuvxX"
-      },
-      "artists": [
-        {
-          "name": "Volo",
-          "url": "https://open.spotify.com/artist/11T4vCBbGWjL5boJmWeiw9"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "T'es Belle",
-      "url": "https://open.spotify.com/track/3SnAZtodqwylc35c3tP0wZ"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Des ombres et des lumi\u00e8res - Live \u00e0 l'Olympia / 2016",
         "url": "https://open.spotify.com/album/29AWK7mk7bfJ6QR2CX1fUX"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 174400,
       "name": "Ton visage - Acoustic",
       "url": "https://open.spotify.com/track/5DAG0y0LtmvZCcc2uHNwUR"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Jours Heureux",
+        "url": "https://open.spotify.com/album/7jUVoBb0xFVgnqoBOVuvxX"
+      },
+      "artists": [
+        {
+          "name": "Volo",
+          "url": "https://open.spotify.com/artist/11T4vCBbGWjL5boJmWeiw9"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "T'es Belle",
+      "url": "https://open.spotify.com/track/3SnAZtodqwylc35c3tP0wZ"
     },
     {
       "added_at": "2024-10-03 14:22:43",

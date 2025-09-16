@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 365975,
+  "num_followers": 366013,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAAMPOsqwTTcc5ySYDBQZA5t",
+  "snapshot_id": "aMYFgAAAAACszHsrblSxtk+cOBRekYAz",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "JACKPOT",
+      "url": "https://open.spotify.com/track/1oabrI9tWO5eqs3ST6EmZK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bate",
         "url": "https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr"
       },
@@ -167,26 +187,6 @@
       "duration_ms": 138143,
       "name": "Bate",
       "url": "https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 193360,
-      "name": "JACKPOT",
-      "url": "https://open.spotify.com/track/1oabrI9tWO5eqs3ST6EmZK"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tokome",
-        "url": "https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 157450,
-      "name": "Tokome",
-      "url": "https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "K23",
         "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 162981,
       "name": "A\u00f1o Sab\u00e1tico",
       "url": "https://open.spotify.com/track/1W3TtHJz099SGGq67IOVFL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tokome",
+        "url": "https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 157450,
+      "name": "Tokome",
+      "url": "https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/6qKPrh8dQ6jVqR3TiyMM8J"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 166418,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/1jBxLoNgHtZnY3ykT9MDyl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "K23",
         "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 123970,
       "name": "Good Boy",
       "url": "https://open.spotify.com/track/3hfb0K2rRK0HDhjNbi95Xj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/6qKPrh8dQ6jVqR3TiyMM8J"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 166418,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/1jBxLoNgHtZnY3ykT9MDyl"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lovelove U",
-        "url": "https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 175479,
-      "name": "Lovelove U",
-      "url": "https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "K23",
         "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 157606,
       "name": "Botellita",
       "url": "https://open.spotify.com/track/0HXnUYLIIzaeO2ACjuw43s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lovelove U",
+        "url": "https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 175479,
+      "name": "Lovelove U",
+      "url": "https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mentiroso",
-        "url": "https://open.spotify.com/album/0NAINCWZldqYy5iY2CL4jq"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 147766,
-      "name": "Mentiroso",
-      "url": "https://open.spotify.com/track/5iXCrcLT5iirF2UTmaa284"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "K23",
         "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 136505,
       "name": "Flores",
       "url": "https://open.spotify.com/track/6aNgqSTPML2B5XsohIiL7D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mentiroso",
+        "url": "https://open.spotify.com/album/0NAINCWZldqYy5iY2CL4jq"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 147766,
+      "name": "Mentiroso",
+      "url": "https://open.spotify.com/track/5iXCrcLT5iirF2UTmaa284"
     },
     {
       "added_at": null,

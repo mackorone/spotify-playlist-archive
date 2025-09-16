@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95939,
+  "num_followers": 95941,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAACc7bp1r92tXkGC7hEkfaDH",
+  "snapshot_id": "aMYFgAAAAADWCOEIcZ6k2VMEqfw/QLoz",
   "tracks": [
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fall Back",
-        "url": "https://open.spotify.com/album/72VSncJHPkOlhsNSoSD4Md"
-      },
-      "artists": [
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Fall Back (feat. NAV)",
-      "url": "https://open.spotify.com/track/2L6KDf6tt2bZpIrSvG2qlz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NAV",
         "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
       },
@@ -459,30 +439,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
+        "name": "Drip Season 3 (Deluxe)",
+        "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
       },
       "artists": [
         {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         },
         {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 265373,
-      "name": "Minute",
-      "url": "https://open.spotify.com/track/3JWh19WsndEFg0UFRFeTiU"
+      "duration_ms": 219816,
+      "name": "Car Sick (feat. NAV & Metro Boomin)",
+      "url": "https://open.spotify.com/track/4xisLMFhYADhKnkOCCV4Am"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fall Back",
+        "url": "https://open.spotify.com/album/72VSncJHPkOlhsNSoSD4Md"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Fall Back (feat. NAV)",
+      "url": "https://open.spotify.com/track/2L6KDf6tt2bZpIrSvG2qlz"
     },
     {
       "added_at": null,
@@ -523,30 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drip Season 3 (Deluxe)",
-        "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 219816,
-      "name": "Car Sick (feat. NAV & Metro Boomin)",
-      "url": "https://open.spotify.com/track/4xisLMFhYADhKnkOCCV4Am"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Timing",
         "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
       },
@@ -558,11 +530,19 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 169786,
-      "name": "Hit",
-      "url": "https://open.spotify.com/track/0gHcxtyWQT0HrlGxaxP1KT"
+      "duration_ms": 265373,
+      "name": "Minute",
+      "url": "https://open.spotify.com/track/3JWh19WsndEFg0UFRFeTiU"
     },
     {
       "added_at": null,
@@ -623,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "6AM Thoughts",
-        "url": "https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx"
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
       },
       "artists": [
         {
@@ -632,17 +612,13 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Bay Swag",
-          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
-        },
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 200933,
-      "name": "6AM Thoughts (with Cash Cobain & Bay Swag)",
-      "url": "https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20"
+      "duration_ms": 169786,
+      "name": "Hit",
+      "url": "https://open.spotify.com/track/0gHcxtyWQT0HrlGxaxP1KT"
     },
     {
       "added_at": null,
@@ -663,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
+        "name": "6AM Thoughts",
+        "url": "https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx"
       },
       "artists": [
         {
@@ -672,33 +648,17 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 228106,
-      "name": "Held Me Down",
-      "url": "https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
         },
         {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
         }
       ],
-      "duration_ms": 204137,
-      "name": "ABOUT YOU (with NAV)",
-      "url": "https://open.spotify.com/track/098a0ODkRj8IUbEGVZMsyN"
+      "duration_ms": 200933,
+      "name": "6AM Thoughts (with Cash Cobain & Bay Swag)",
+      "url": "https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20"
     },
     {
       "added_at": null,
@@ -727,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 228106,
+      "name": "Held Me Down",
+      "url": "https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Habits (Deluxe)",
         "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 217775,
       "name": "Price On My Head (feat. The Weeknd)",
       "url": "https://open.spotify.com/track/4hqOmrCCJKyiuwDexd8c2t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Love You Tecca 2",
+        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "ABOUT YOU (with NAV)",
+      "url": "https://open.spotify.com/track/098a0ODkRj8IUbEGVZMsyN"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Habits (Deluxe)",
+        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 204363,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WUNNA (Deluxe)",
         "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Habits (Deluxe)",
-        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 204363,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NAV",
         "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
       },
@@ -827,6 +827,22 @@
       "duration_ms": 215293,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emergency Tsunami",
+        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 155086,
+      "name": "Vetement Socks",
+      "url": "https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs"
     },
     {
       "added_at": null,
@@ -863,22 +879,6 @@
       "duration_ms": 138413,
       "name": "LIFT SERVICE",
       "url": "https://open.spotify.com/track/0LMKihVCUC6ZipHLX1HIb1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emergency Tsunami",
-        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 155086,
-      "name": "Vetement Socks",
-      "url": "https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs"
     },
     {
       "added_at": null,

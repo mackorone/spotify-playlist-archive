@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 112910,
+  "num_followers": 112939,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAADgXQ1nF4IiOWs8Ot35Vbpt",
+  "snapshot_id": "aMYFgAAAAACd+tGIQvbUNfyX13n6qK+H",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Exitos Con El Shaka",
-        "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "Dos Botellas De Mezcal",
-      "url": "https://open.spotify.com/track/02KpEs5nhST1mtxBfDnZIW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Jefe De Las Plazas",
         "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 162626,
       "name": "Me Gusta Tener de a Dos",
       "url": "https://open.spotify.com/track/3cT2AiNvR5CtkBCXqhbB5A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s Exitos Con El Shaka",
+        "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "Dos Botellas De Mezcal",
+      "url": "https://open.spotify.com/track/02KpEs5nhST1mtxBfDnZIW"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Millonario De Amor",
-        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 242613,
-      "name": "Quince Minutos De Ti",
-      "url": "https://open.spotify.com/track/2fczBn1fEYW5vJASRovoln"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serie Top Ten",
         "url": "https://open.spotify.com/album/74dGCcyijMhAuNLja18GUZ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 173532,
       "name": "El Licenciado",
       "url": "https://open.spotify.com/track/6PEkLz630jJBn80ddIhi5o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde el Cielo",
+        "url": "https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Las Parcelas de Mendoza",
+      "url": "https://open.spotify.com/track/3HR093fTutGwn5EUWne3ZR"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Jefe De Las Plazas",
-        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
       },
       "artists": [
         {
@@ -712,25 +712,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 194146,
-      "name": "El Santo De La Palma",
-      "url": "https://open.spotify.com/track/3W9AG3MZIN1EwBijFfpt91"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde el Cielo",
-        "url": "https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 164106,
-      "name": "Las Parcelas de Mendoza",
-      "url": "https://open.spotify.com/track/3HR093fTutGwn5EUWne3ZR"
+      "duration_ms": 242613,
+      "name": "Quince Minutos De Ti",
+      "url": "https://open.spotify.com/track/2fczBn1fEYW5vJASRovoln"
     },
     {
       "added_at": null,
@@ -776,9 +760,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 198960,
-      "name": "M.P. Natural",
-      "url": "https://open.spotify.com/track/1LVPTmZhf9PNn2kHNFIImD"
+      "duration_ms": 194146,
+      "name": "El Santo De La Palma",
+      "url": "https://open.spotify.com/track/3W9AG3MZIN1EwBijFfpt91"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 218120,
       "name": "Arcoiris",
       "url": "https://open.spotify.com/track/2turqKp8C1j8kSg6EKU6x5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sus Primeros Exitos Con Los Hermanos",
+        "url": "https://open.spotify.com/album/2NmDamXzG1rTrvTCWmRX3G"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Mendigo De Amor",
+      "url": "https://open.spotify.com/track/1qaZ0SSplJDtkMONFp6MV5"
     },
     {
       "added_at": null,

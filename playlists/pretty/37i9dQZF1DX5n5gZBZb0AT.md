@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,403 likes - 40 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,659 likes - 40 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 16 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
 | 17 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
 | 18 | [MOTINHA 2.0 \(Mete Marcha\)](https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [MOTINHA 2.0 \(Mete Marcha\)](https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F) | 1:58 |
-| 19 | [BRODYAGA FUNK](https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [BRODYAGA FUNK](https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0) | 2:14 |
-| 20 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
+| 19 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
+| 20 | [BRODYAGA FUNK](https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [BRODYAGA FUNK](https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0) | 2:14 |
 | 21 | [MATUSHKA ULTRAFUNK](https://open.spotify.com/track/12CXx3gXBn9QjGSNYzEh05) | [satirin](https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO) | [MATUSHKA ULTRAFUNK](https://open.spotify.com/album/1SYGCQXfhjL8KnMXQ6ImsK) | 2:24 |
 | 22 | [Montagem Lunar Diamante \- Slowed](https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr) | [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee), [WXCHSXN](https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O), [MC SILLVEER](https://open.spotify.com/artist/6wAILWxcHaJocdPbGLPW3o) | [Montagem Lunar Diamante](https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN) | 3:05 |
 | 23 | [MASHA ULTRAFUNK](https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW) | [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD), [TXVSTERPLAYA](https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5) | [MASHA ULTRAFUNK](https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC) | 1:33 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 30 | [COM MEDO!](https://open.spotify.com/track/7wrjh1jGLkV99AhcgnGRjE) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX) | [COM MEDO!](https://open.spotify.com/album/6JekYwYFalK1oXttdZ9kGk) | 1:09 |
 | 31 | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF) | [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5), [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz) | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG) | 1:58 |
 | 32 | [THIS FEELING](https://open.spotify.com/track/7oncLeIzUPgJf4a6jm1c3e) | [DJ Anemia](https://open.spotify.com/artist/6vvNcm1On2wFwZNXB63a7B), [crier](https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl), [sixnite](https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk) | [THIS FEELING](https://open.spotify.com/album/4QbF9gd2zeyd3Vxg29NbWS) | 2:02 |
-| 33 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 |
-| 34 | [REAL MOONSHINE FUNK \- Super Slowed](https://open.spotify.com/track/05ApNGJtAmmfL9lStfo8kO) | [DJ ROBE](https://open.spotify.com/artist/3eHYmpvQFLj7Q3g3LYP3OP), [TRXSHBXY](https://open.spotify.com/artist/1lpPb0grX95giST5LLNOuJ) | [REAL MOONSHINE FUNK](https://open.spotify.com/album/23VKm1LeYl3mkHfws8OP7D) | 1:34 |
+| 33 | [REAL MOONSHINE FUNK \- Super Slowed](https://open.spotify.com/track/05ApNGJtAmmfL9lStfo8kO) | [DJ ROBE](https://open.spotify.com/artist/3eHYmpvQFLj7Q3g3LYP3OP), [TRXSHBXY](https://open.spotify.com/artist/1lpPb0grX95giST5LLNOuJ) | [REAL MOONSHINE FUNK](https://open.spotify.com/album/23VKm1LeYl3mkHfws8OP7D) | 1:34 |
+| 34 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 |
 | 35 | [NEON BLADE](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm) | 4:25 |
 | 36 | [BOUNCE FUNK \- Slowed](https://open.spotify.com/track/0cJwt3tpaMOXPAXkaHAp7k) | [SAPFIR](https://open.spotify.com/artist/0pSdNszQKrzI6m9okVVSL5) | [BOUNCE FUNK \(Slowed\)](https://open.spotify.com/album/572YC1K4uc7PjFqb6xaICD) | 1:37 |
 | 37 | [HUMBLE\. \- SKRILLEX REMIX](https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [HUMBLE\. \(SKRILLEX REMIX\)](https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V) | 2:36 |

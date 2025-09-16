@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Sabaton
 
-1,130 songs - 3 day 10 hr 23 min
+1,131 songs - 3 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,7 +494,7 @@
 | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V) | 3:33 | 2024-11-04 | 2025-01-11 |
 | [In the Name of the Father](https://open.spotify.com/track/3xQSG1eYo06kXI3JkPKllf) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [In the Name of the Father](https://open.spotify.com/album/7ln0zD3JhrEECP9um8u1ui) | 3:47 | 2025-05-16 |  |
 | [In Waves](https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:02 | 2022-03-22 | 2024-04-19 |
-| [In Waves](https://open.spotify.com/track/4B5hrpQjHTLfGMcTgpatUs) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves](https://open.spotify.com/album/5NDxdsUG2cpD3jJRqHbgic) | 5:02 | 2024-04-05 |  |
+| [In Waves](https://open.spotify.com/track/4B5hrpQjHTLfGMcTgpatUs) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves](https://open.spotify.com/album/5NDxdsUG2cpD3jJRqHbgic) | 5:02 | 2024-04-05 | 2025-09-16 |
 | [Inertia](https://open.spotify.com/track/7ojDrvflVkMCy5UErZxi8s) | [Scar Of The Sun](https://open.spotify.com/artist/771ZPlgDeS8Q3y35hm1wAk) | [Inertia](https://open.spotify.com/album/0DnGqEqHsg66rpYia3hrmQ) | 3:50 | 2022-01-07 | 2022-07-15 |
 | [Infanticide A.I.](https://open.spotify.com/track/59gHi5YTMV2DMf6FOQ7lLh) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Infanticide A.I.](https://open.spotify.com/album/4HxvJvHmd0KWqTXvWgudMe) | 3:27 | 2025-08-22 |  |
 | [Insatiable](https://open.spotify.com/track/1ttxIAucUPrVzeEILspoe0) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Insatiable](https://open.spotify.com/album/7f0BnKdZMy902smde28brF) | 2:59 | 2023-10-06 | 2023-10-30 |
@@ -660,6 +660,7 @@
 | [Not the End of the Road](https://open.spotify.com/track/3h4udOQrLfWBBzB2TxFBaJ) | [Kissin' Dynamite](https://open.spotify.com/artist/2wSP2cFfkqg4LKu1pmkTWx) | [Not the End of the Road](https://open.spotify.com/album/144eh6LJbWRmUKvINbT6qg) | 3:59 | 2021-12-17 | 2022-07-09 |
 | [Not Yet Broken \- Bonus Track](https://open.spotify.com/track/42ntmP97HRvZ9UsF8eAnK1) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [March Of The Unheard \(Bonus Edition\)](https://open.spotify.com/album/7l4D7A6nJjfTtLPuNZLGBN) | 3:14 | 2025-05-02 |  |
 | [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/2V8KvnD5LVeeDChMWEkSzC) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 3:44 | 2022-08-19 | 2024-11-23 |
+| [Nothing from This World \- Radio Edit](https://open.spotify.com/track/1PBIVkS3Jp6wtdTLiop2m0) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [Nothing from This World \(Radio Edit\)](https://open.spotify.com/album/2JRcUb8SkJnXPjsuoX0oXw) | 4:13 | 2025-09-15 |  |
 | [NOTHING TO SOME \[Feat\. Corey Taylor\]](https://open.spotify.com/track/4CQH8JIwp62Qy5EMnfNK1c) | [FLAT BLACK](https://open.spotify.com/artist/7dZynKGWc8X8jsdH0WLuzo), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [NOTHING TO SOME \[Feat\. Corey Taylor\]](https://open.spotify.com/album/6ApUUibTW1Vwd3FMmsisWI) | 3:25 | 2024-03-22 | 2025-04-27 |
 | [Now the Screaming Starts](https://open.spotify.com/track/4TW7ReI5Jzvm3TQ59DWA7v) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Now the Screaming Starts](https://open.spotify.com/album/4afU6LdO2FFF1ANLoGBrC8) | 4:03 | 2021-12-17 | 2022-07-29 |
 | [Now You Belong With the Dead](https://open.spotify.com/track/7h1we7IIO9uRgdfZr87hUv) | [Dry Kill Logic](https://open.spotify.com/artist/01JN808vH1vhH7O7IsyRgX) | [Now You Belong With the Dead](https://open.spotify.com/album/7Lch8F6pGTAUGkXGW8Utfh) | 5:43 | 2025-05-02 | 2025-07-01 |

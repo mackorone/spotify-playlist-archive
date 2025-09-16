@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJhOVGWqUKF.md) - [plain]
 
 > Sechs Saiten für ein Halleluja\. Cover: Smash Into Pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,397 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,362 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Devil in my Head](https://open.spotify.com/track/04yrU3ucUOpWIzY7AG9CCj) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Devil in my Head](https://open.spotify.com/album/00Ql3MLPTUfQetuJ7SVo22) | 3:21 |
 | 2 | [CHASING THE HIGH](https://open.spotify.com/track/5kEZlaEqkMNAScxNKJo56f) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [CHASING THE HIGH](https://open.spotify.com/album/1EoK1AkuL7X4LeNNBLTXfh) | 3:19 |
 | 3 | [City Walls](https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 5:22 |
-| 4 | [The Fatalist](https://open.spotify.com/track/3FrT1TD82QxLtRIn5IinK4) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Pink Moon](https://open.spotify.com/album/7H14q1uaSsDDgSV0rn3W5c) | 2:50 |
+| 4 | [Making Love to Morgan Wallen](https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Making Love to Morgan Wallen](https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM) | 4:09 |
 | 5 | [Silence](https://open.spotify.com/track/7tv8zTisovOo3Xb9KAVOpa) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Silence](https://open.spotify.com/album/5GjHVUyDk6m5UBq8xh0iTk) | 3:11 |
 | 6 | [Weirdo \(feat\. Lee Jennings of The Funeral Portrait\)](https://open.spotify.com/track/4uoC9GLUXkmZntLQLrZeQc) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl), [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Weirdo](https://open.spotify.com/album/7tiO2Gwyk5yQfs8lYEr4j1) | 2:57 |
 | 7 | [End of You](https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [End of You](https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJhOVGWqUKF.md) - [plain]
 | 99 | [THE BOTTOM](https://open.spotify.com/track/49Syz20A5meY1lBkkaoKN4) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [THE BOTTOM](https://open.spotify.com/album/46AUWrJnzx6ZFw3Bbjz8OZ) | 3:52 |
 | 100 | [Hunting Season](https://open.spotify.com/track/0tKMZFO30VbRFulQzIWxjX) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Hunting Season](https://open.spotify.com/album/2x425wKGZzQLlrbVNkvNyr) | 2:55 |
 
-Snapshot ID: `AAAAAJ/2qFt/eghCD0HRZ9kcXV63+O9Z`
+Snapshot ID: `AAAAAODD82WkIY8z3rT5m5/l1kJiHmCT`

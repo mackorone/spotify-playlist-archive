@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 莉莉周她說 \(Lily Chou\-Chou Lied\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,639 likes - 141 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,638 likes - 141 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

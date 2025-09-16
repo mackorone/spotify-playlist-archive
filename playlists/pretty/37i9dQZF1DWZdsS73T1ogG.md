@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Dei V
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,793 likes - 180 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,719 likes - 180 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 179 | [Cherry](https://open.spotify.com/track/1iHQiHEaiX9w28cnCRgdaN) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Cherry](https://open.spotify.com/album/1iMHIGmOVKelVm1xZf2QT7) | 1:57 |
 | 180 | [Que estas haciendo ?](https://open.spotify.com/track/1FdYgUZpMO2QfFcB1RhURy) | [Piku](https://open.spotify.com/artist/1f8zx2kFDxy1K8yr0aLKQz) | [Que estas haciendo ?](https://open.spotify.com/album/1lCahxumZI6cGVn3QYvMda) | 2:00 |
 
-Snapshot ID: `AAAAAPJKeiqn830KdGdm+kmsjex0O4Ys`
+Snapshot ID: `AAAAAHmeWcQ/6cnx7+oMUflZX3BTjkKH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > Find hope in Him in every note of these songs full of faith!
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,193 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,229 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 38 | [high water](https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [high water](https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J) | 2:48 |
 | 39 | [Rescue](https://open.spotify.com/track/4ANZqWyzB9fIW2XtthkVQV) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Rescue](https://open.spotify.com/album/49sgj5TsAza6TkXow8DQWa) | 3:41 |
 | 40 | [Christ Our King \- Live From Camp](https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Live From Camp](https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1) | 6:05 |
-| 41 | [Be There For You](https://open.spotify.com/track/7AWkRQoTPaqUrZpRvCH748) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:48 |
-| 42 | [High Hopes](https://open.spotify.com/track/1LvPXi9WbYBub6v0Q94ItD) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri) | [High Hopes](https://open.spotify.com/album/1JlsrX9MGKgi8WZNrfi5TI) | 3:22 |
+| 41 | [High Hopes](https://open.spotify.com/track/1LvPXi9WbYBub6v0Q94ItD) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri) | [High Hopes](https://open.spotify.com/album/1JlsrX9MGKgi8WZNrfi5TI) | 3:22 |
+| 42 | [Be There For You](https://open.spotify.com/track/7AWkRQoTPaqUrZpRvCH748) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:48 |
 | 43 | [Broken & Restored](https://open.spotify.com/track/2k7YZwfEWUEzDnpp0tD9qT) | [People of The Earth](https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5) | [Broken & Restored](https://open.spotify.com/album/0VTANFGgpI7TbTUs4iQtHu) | 4:47 |
 | 44 | [Gold \- Live](https://open.spotify.com/track/6Uq3aMPuxk07NAie8SrS8G) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Church Volume One \(Live\)](https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj) | 8:19 |
 | 45 | [Where You Are](https://open.spotify.com/track/4IjgGxTQDs9Bf31TGtdxOv) | [Mitch Langley](https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR), [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [Where You Are](https://open.spotify.com/album/3aOI1EJVtokwfq2tob9xkQ) | 2:27 |

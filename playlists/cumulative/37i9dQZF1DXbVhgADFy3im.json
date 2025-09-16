@@ -712,7 +712,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-14",
+      "date_removed": null,
       "duration_ms": 228982,
       "name": "Ilahi",
       "url": "https://open.spotify.com/track/5cgKosPPj5Cs9a2JQufUc1"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 265817,
       "name": "Jhol",
       "url": "https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m"
@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 299055,
       "name": "Minnalvala",
       "url": "https://open.spotify.com/track/7f88cYg6oaAaSJMfF2GANl"
@@ -2252,6 +2252,36 @@
       "duration_ms": 230086,
       "name": "Tumhare Hi Rahenge Hum (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/5Ggb9pKiKcr5vNV9v1e1vs"
+    },
+    {
+      "album": {
+        "name": "Vaa Vaa Pakkam Vaa (Remix)",
+        "url": "https://open.spotify.com/album/01wj5nbWS3dZ6PM6Xqij4Z"
+      },
+      "artists": [
+        {
+          "name": "DJ Gowtham",
+          "url": "https://open.spotify.com/artist/6mBAbgNcyzJlVjFdzyoAul"
+        },
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Vani Jairam",
+          "url": "https://open.spotify.com/artist/17Jj3Xia6crs4OatDEpuMR"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84363,
+      "name": "Vaa Vaa Pakkam Vaa - Remix",
+      "url": "https://open.spotify.com/track/2C5aF4dKohAcZwoDPWj87K"
     },
     {
       "album": {

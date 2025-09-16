@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,291 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,370 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 25 | [Whiskey and Gin](https://open.spotify.com/track/5Z86P3a0reCE58nhDZDCgk) | [The Killigans](https://open.spotify.com/artist/6EnFVB7au1aUyNvdhIzXPB) | [Honor](https://open.spotify.com/album/5q7liZNAS6nQ2gST7wGMmJ) | 2:46 |
 | 26 | [The Foreman O'rourke](https://open.spotify.com/track/5His2KyaJt6tuKCdeXCtcn) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Saints Preserve Us](https://open.spotify.com/album/0WcoMbjC7kzJJpqP488gTc) | 4:31 |
 | 27 | [Tobacco Island](https://open.spotify.com/track/7cv7U6KO9uSCCw5JE7GEMS) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Within a Mile of Home](https://open.spotify.com/album/0qVJEliXJswOdaabP9hGmJ) | 5:17 |
-| 28 | [Drink Some More](https://open.spotify.com/track/71MLYxrDVR7PjGmOPqghp9) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:19 |
+| 28 | [Freedom](https://open.spotify.com/track/20ZPFGWFDdCehIlCRBSene) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Rats On Board](https://open.spotify.com/album/6UrU8iv81fRiywK0IlVsQw) | 3:44 |
 | 29 | [One Fine Day](https://open.spotify.com/track/254MGsp9Sj8JX1KMJHKJLN) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [Heyday \(Deluxe Edition\)](https://open.spotify.com/album/1c6jduJZwn1XQMY5IHPigL) | 3:35 |
-| 30 | [Freedom](https://open.spotify.com/track/20ZPFGWFDdCehIlCRBSene) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Rats On Board](https://open.spotify.com/album/6UrU8iv81fRiywK0IlVsQw) | 3:44 |
+| 30 | [Drink Some More](https://open.spotify.com/track/71MLYxrDVR7PjGmOPqghp9) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:19 |
 | 31 | [Uncle Tommy](https://open.spotify.com/track/5UqIk0AUqq3AMrdk2cYiCJ) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Gangs of New Holland](https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm) | 2:34 |
 | 32 | [Orange and the Green](https://open.spotify.com/track/3Czlbc2EbEiaIjSrWY5zKA) | [The Kreellers](https://open.spotify.com/artist/39ljFcdvjH7BB9OsVJwnBn) | [Sixth and Porter](https://open.spotify.com/album/7tn0ug4ECBWSrNSBxGVVo8) | 2:53 |
 | 33 | [Danny Boy](https://open.spotify.com/track/57y4irrYnvb4ctHiP45ncX) | [Happy Ol'McWeasel](https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p) | [No Offence](https://open.spotify.com/album/1J6eEhYrbJeH4zqQ3AsJBD) | 3:46 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 36 | [Drunk Again](https://open.spotify.com/track/1TJG4k1Lilg05p9fix52wM) | [Scrum](https://open.spotify.com/artist/0sGdJHX64lQqPYY0is2MjX) | [Pro Libertate](https://open.spotify.com/album/0hCfbrOxRCg1RHDXtvOnOu) | 3:53 |
 | 37 | [Country Roads](https://open.spotify.com/track/7qA7nOX5DuM1Eob1EBwCvA) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 4:19 |
 | 38 | [Arsehole](https://open.spotify.com/track/2201cH5trK1nfpLgY0FfFG) | [The Gobshites](https://open.spotify.com/artist/0JwbhBhNG5Sdm3Gbm0y3hF) | [When the Shite Hits the Fans](https://open.spotify.com/album/2Cw2JK22aGlznfDEdibeBK) | 2:40 |
-| 39 | [Waxies Dargle](https://open.spotify.com/track/1lrnJ87mFAVF6jkUJu4YKA) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [Real World](https://open.spotify.com/album/2K0fjyPXmaZV7i51AAmbB7) | 1:58 |
+| 39 | [The Streets of London](https://open.spotify.com/track/3EkzGqK2uJrgiZDLXBMWUo) | [Liam Clancy](https://open.spotify.com/artist/1XjkajTCuInbWYxcxPvFtP) | [The Parting Glass \(The Very Best of Liam Clancy\)](https://open.spotify.com/album/5LL2dL3dChEHrcGLBYnqtn) | 4:01 |
 | 40 | [Bottoms Up](https://open.spotify.com/track/0PVMlDrq7OTZPUyve5Of0D) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [Devil's Dozen](https://open.spotify.com/album/0HAn7KPVICSQy36HHeqWVo) | 3:01 |
-| 41 | [The Streets of London](https://open.spotify.com/track/3EkzGqK2uJrgiZDLXBMWUo) | [Liam Clancy](https://open.spotify.com/artist/1XjkajTCuInbWYxcxPvFtP) | [The Parting Glass \(The Very Best of Liam Clancy\)](https://open.spotify.com/album/5LL2dL3dChEHrcGLBYnqtn) | 4:01 |
+| 41 | [Waxies Dargle](https://open.spotify.com/track/1lrnJ87mFAVF6jkUJu4YKA) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [Real World](https://open.spotify.com/album/2K0fjyPXmaZV7i51AAmbB7) | 1:58 |
 | 42 | [Sobriety](https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj) | [Jolly Jackers](https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy) | [Sobriety](https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs) | 2:31 |
 | 43 | [On Your Own](https://open.spotify.com/track/1L3qWMIBl3YFkjGtrHkQsY) | [Happy Ol'McWeasel](https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p) | [Heard Ya Say!](https://open.spotify.com/album/29QEOosmeg8xZM2VzEgU1x) | 3:49 |
 | 44 | [Banks of the Roses](https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 3:15 |

@@ -4,7 +4,7 @@
 
 > Timeless & classic Arabic songs\. Cover: Warda
 
-111 songs - 16 hr 57 min
+113 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Alloulou al\-Mamdood / Loulou Bi Loulou](https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 11:06 | 2024-08-06 |  |
 | [Amm Yess'alouni Aleyk](https://open.spotify.com/track/1IzvSfblwi7EJuIjQbGXvL) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [Khodni Habibi](https://open.spotify.com/album/1uZKkPLUIu7hIQcQqp8Ihp) | 5:57 | 2020-10-13 |  |
 | [Amm Yess'alouni Aleyk](https://open.spotify.com/track/2lmOPj1YTK7WfHG8kzrGAP) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [Khedni Habibi](https://open.spotify.com/album/4eaHnQq1UQy7lPXBQMhv4p) | 5:57 | 2020-10-13 | 2024-04-19 |
+| [Ana Alby Daleely](https://open.spotify.com/track/3bwlnMq8hwTgIRI7abv2At) | [Laila Mourad](https://open.spotify.com/artist/56OChX6qMfZmYVGB4NMCHc) | [Agmal Aghany Laila Mourad](https://open.spotify.com/album/3lRQi4vBYzvNtxoRJ5qXOw) | 5:32 | 2025-09-15 |  |
 | [Ana Baashaak](https://open.spotify.com/track/4meyL6OvN5WhJ9JNEsZSeN) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [Ana Baashaak](https://open.spotify.com/album/3TBiRcV5BVsFTaqot77WpG) | 37:02 | 2020-10-13 |  |
 | [Ana Bashaa El Bahr](https://open.spotify.com/track/55HS624LYOCR3QwOUxWbMJ) | [Najat Al Saghira](https://open.spotify.com/artist/00Kj91nF1l4o35fAtfDAjW) | [Eyoun El Alb](https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0) | 5:29 | 2020-10-13 |  |
 | [Ana Moush Kafer \- 2008 Remastered](https://open.spotify.com/track/6BE0jeBho94oFSeF3a3nmP) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Ana Moush Kafer](https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N) | 5:03 | 2020-10-13 |  |
@@ -103,15 +104,16 @@
 | [Ya Habaiby Ya Ghaiben](https://open.spotify.com/track/1P1PnCp10v113ANU6WUfHa) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [Aghany Film Nagham Fi Hayati](https://open.spotify.com/album/70T1XrQgfwXVspcJl8Rwr9) | 8:25 | 2020-10-13 |  |
 | [Ya Habebty Ya Masr](https://open.spotify.com/track/66Ol2298fi5ca4KWcCVsOD) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Sahra Maa Shadya](https://open.spotify.com/album/1CeCerIXXHVOkRFIKGOynN) | 5:45 | 2020-10-13 | 2024-04-19 |
 | [Ya habibi taala \(Mon amour, viens vite\)](https://open.spotify.com/track/0tOQdr6q6NZFHrywSQSVJP) | [Asmahan](https://open.spotify.com/artist/2vFXOKUQ2uhI9D8vKozoK6) | [Le cœur a ses raisons \(The Voices of Maghreb 1935\-1944\)](https://open.spotify.com/album/3M7Ns6HMsPgSh71r9S6NJj) | 5:33 | 2020-10-13 | 2024-03-12 |
-| [Ya Habibti Ya Masr](https://open.spotify.com/track/5Qwrje2t7Nzl1XYbLyGdeE) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Ah Ya Lamouny](https://open.spotify.com/album/6z6bmdmPwaKnwPvDnAb7gX) | 5:48 | 2020-10-13 |  |
+| [Ya Habibti Ya Masr](https://open.spotify.com/track/5Qwrje2t7Nzl1XYbLyGdeE) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Ah Ya Lamouny](https://open.spotify.com/album/6z6bmdmPwaKnwPvDnAb7gX) | 5:48 | 2020-10-13 | 2025-09-16 |
 | [Ya Marek Al Tawahine](https://open.spotify.com/track/3oQrFEnC6rVqs9dhmwCJVw) | [Nasri Shamseddine](https://open.spotify.com/artist/1WST6nXZrdhBeSPO2yGYQT) | [Best Of Nasri Shamseddine 1](https://open.spotify.com/album/7czqfjO0jjfK7yY1TImbEe) | 2:45 | 2025-02-25 |  |
 | [Ya Mersal El Marasil](https://open.spotify.com/track/6uWynf5XF8QU8e9Kt5GbWp) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Chante Philemon Wehbe Volume 1](https://open.spotify.com/album/6D8vPAEk4mcLfCuc9P7v3m) | 3:46 | 2025-02-25 |  |
+| [Ya Mesafer Wahdak](https://open.spotify.com/track/5iZMoYx762iNo2aczQhVze) | [Mohammed Abdel Wahab](https://open.spotify.com/artist/6EOZim46RHGGWpKqsD6OOG) | [Aghany Film Mamnoa El Hob Pt.1](https://open.spotify.com/album/2yPvwAEw0qkp0NF0HqRxRp) | 7:28 | 2025-09-15 |  |
 | [Ya Miyet Halla](https://open.spotify.com/track/3gJrHg4YpvfsaNkIlW1YMM) | [Salwa El Katrib](https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX) | [Best of Salwa El Katrib, Vol\. 1](https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ) | 3:07 | 2025-02-25 |  |
 | [Ya Saken Albi](https://open.spotify.com/track/50x4cUPlmajTIHp0LRHqqj) | [Azar Habib](https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX) | [The Best of Azar Habib](https://open.spotify.com/album/75K9b6RIaQDITEOuVvZULV) | 7:31 | 2025-02-25 |  |
 | [Ya Samra Ya Tamr Hindi](https://open.spotify.com/track/4WwOrlzRUa0ENdJd3CetJx) | [Issam Raggi](https://open.spotify.com/artist/0fmsWX4FzxBaUgznwZm4fD) | [Issam Raggi](https://open.spotify.com/album/4L41rtbbP7WVUTnQIqJeeq) | 5:25 | 2025-02-25 |  |
 | [Ya Sarek Makatibi](https://open.spotify.com/track/4VOLru5DYEpm5jUTsT7OwN) | [Pascale Sakr](https://open.spotify.com/artist/3C0eerDETbEk4rjuAjss0B) | [Pascale Sakr Sings Elias Rahbani](https://open.spotify.com/album/1Wv3Yu06c6UV2B3ZYzd3Ab) | 6:32 | 2020-10-13 |  |
 | [Ya Tera Tiri](https://open.spotify.com/track/2jhP3W3ihZZ5VqBtYWtAoJ) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 2:40 | 2024-08-06 |  |
-| [Ya Zarifa El Toul](https://open.spotify.com/track/00jI5pk3XkSjYdFyOnRLYe) | [Nasri Shamseddine](https://open.spotify.com/artist/1WST6nXZrdhBeSPO2yGYQT) | [Best Of Nasri Shamsedine](https://open.spotify.com/album/7KQav4kCbFKdschirLT49w) | 3:25 | 2025-02-25 |  |
+| [Ya Zarifa El Toul](https://open.spotify.com/track/00jI5pk3XkSjYdFyOnRLYe) | [Nasri Shamseddine](https://open.spotify.com/artist/1WST6nXZrdhBeSPO2yGYQT) | [Best Of Nasri Shamsedine](https://open.spotify.com/album/7KQav4kCbFKdschirLT49w) | 3:25 | 2025-02-25 | 2025-09-16 |
 | [Yamme Ma Baaref](https://open.spotify.com/track/1TwtEM3Pazor5Jp41MWLLM) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV), [Nasri Shamseddine](https://open.spotify.com/artist/1WST6nXZrdhBeSPO2yGYQT), [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [Oriental Evening](https://open.spotify.com/album/1h4i7x3JQWdRcmAHrpZTyD) | 5:04 | 2025-02-25 |  |
 | [Yana Yana](https://open.spotify.com/track/5hUQKHs3lnt0dU5UO5ozZV) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Sabah](https://open.spotify.com/album/5ewdGO8RViJxkGMVGx4KdP) | 5:05 | 2020-10-13 |  |
 | [Yess'idli Sabahou](https://open.spotify.com/track/6RI8xt9epvjxKNYhi2G9wX) | [Mohamed Jamal](https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug) | [Best of Mohamed Jamal, Vol\. 1](https://open.spotify.com/album/2lRFOdkICZbdSiFgMaGD6a) | 4:25 | 2025-02-25 |  |

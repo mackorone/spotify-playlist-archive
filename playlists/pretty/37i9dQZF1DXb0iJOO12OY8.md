@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🤝
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,406 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,382 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 29 | [Hvitt Gull \(Kilroy\)](https://open.spotify.com/track/5Qy0doMqmgxa2D1pGZr0Io) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Hvitt Gull \(Kilroy\)](https://open.spotify.com/album/0hU5JEbaEsODriACbBtUsM) | 2:16 |
 | 30 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
 | 31 | [Sees Igjen](https://open.spotify.com/track/2QyL2WhZmOfpVSxy2BaI8U) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW) | [Sees Igjen](https://open.spotify.com/album/2ZbDIWIGCKtpK26NRTUw6s) | 2:43 |
-| 32 | [St\. Tropez](https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [St\. Tropez](https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe) | 2:22 |
-| 33 | [Få det på](https://open.spotify.com/track/7b2BJHw0HsBBHdojXWe4fA) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Få det på](https://open.spotify.com/album/3Uo9CGyJAC7gjPRRY0zJGN) | 3:19 |
+| 32 | [Få det på](https://open.spotify.com/track/7b2BJHw0HsBBHdojXWe4fA) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Få det på](https://open.spotify.com/album/3Uo9CGyJAC7gjPRRY0zJGN) | 3:19 |
+| 33 | [St\. Tropez](https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [St\. Tropez](https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe) | 2:22 |
 | 34 | [Fredagsbarn](https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Fredagsbarn](https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr) | 3:10 |
 | 35 | [Djevelens Salong](https://open.spotify.com/track/5D6svoWxjXsiSDc5iBfeNT) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi), [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [Djevelens Salong](https://open.spotify.com/album/37LVW3GvXut6cdPr89QHRn) | 2:41 |
 | 36 | [Positiv](https://open.spotify.com/track/2c0f6RoKEFac8rsQ42WNIl) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Positiv](https://open.spotify.com/album/19ZPN1zBZRJrDXkoCkHbvK) | 3:13 |

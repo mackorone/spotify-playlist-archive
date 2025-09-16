@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance music by independent artists and labels, featuring Noah Baine\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,211 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,275 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 33 | [Carillon](https://open.spotify.com/track/7eAlW7l0MP9SsTnXOHMSOj) | [Mauro Venti](https://open.spotify.com/artist/1EYRcS75munXqQbWsZ0HVd) | [Carillon](https://open.spotify.com/album/6sRgQDsvF2PjAAuPmgtBgn) | 2:45 |
 | 34 | [Shoyu](https://open.spotify.com/track/02PA8QcX61VwvnaNJaTq2v) | [AMPRS&ND](https://open.spotify.com/artist/7Av5m3tbfqa4yzpvPPBNCK) | [Shoyu](https://open.spotify.com/album/3WvyjGpA4VEcuVyNxIcjZc) | 3:05 |
 | 35 | [forget](https://open.spotify.com/track/0Rn9pkfhWmwtgvCvI3HChj) | [Torzi](https://open.spotify.com/artist/2rsu13VNGzmC5llLQrpp0c) | [forget](https://open.spotify.com/album/20Z93Bm69nZvJMy5rxcLym) | 2:40 |
-| 36 | [Easy Love \(feat\. AYLA\)](https://open.spotify.com/track/15towfV7OvKpcuBQyNv2Cc) | [John Alto](https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj), [Ayla](https://open.spotify.com/artist/2bhXhHd607n9Ax6GhaNbPD) | [Easy Love \(feat\. AYLA\)](https://open.spotify.com/album/4t9sqhb5mV78VxHlRaubzN) | 3:07 |
+| 36 | [Easy Love \(with AYLA & Embee\)](https://open.spotify.com/track/15towfV7OvKpcuBQyNv2Cc) | [John Alto](https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj), [Ayla](https://open.spotify.com/artist/2bhXhHd607n9Ax6GhaNbPD), [Embee](https://open.spotify.com/artist/2Wqm0Ny4QfBTGGW2bTwDJi) | [Easy Love \(with AYLA & Embee\)](https://open.spotify.com/album/4t9sqhb5mV78VxHlRaubzN) | 3:07 |
 | 37 | [Talkin 2 Ya](https://open.spotify.com/track/32ftOColLc6HKx6tl6JdO2) | [Kash Karma](https://open.spotify.com/artist/4bsvxuEpkDpDJMlc97VMf1) | [3Sixteen Summer Sampler](https://open.spotify.com/album/5ihynt6EZLfkzfEMOQT1Lh) | 3:37 |
 | 38 | [With You](https://open.spotify.com/track/3usBwqcvPcgpK7XWsRqRff) | [No Relation](https://open.spotify.com/artist/4f7pPE64wmPVoqmkeReJpy) | [With You](https://open.spotify.com/album/7KsfBoMrH5YcExerGy8i31) | 4:44 |
 | 39 | [Undisputed](https://open.spotify.com/track/4x7Ag6XIgFCPTe9tbXniVr) | [JOHN CARL](https://open.spotify.com/artist/78qVjPcSZNJJ5tS7WgJqq8) | [Undisputed](https://open.spotify.com/album/3SHxC5NYU7VTVLhpsMBvdS) | 3:21 |

@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 356654,
+  "num_followers": 356689,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,38 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
+        "name": "How Did You Love",
+        "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 185955,
+      "name": "How Did You Love - Acoustic",
+      "url": "https://open.spotify.com/track/4bUbgl5yiMEfGFy8CQNnXB"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 253120,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
         "name": "Broken Machine (Deluxe)",
         "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
       },
@@ -367,38 +399,6 @@
       "duration_ms": 174991,
       "name": "maybe (feat. Bring Me The Horizon) - acoustic version",
       "url": "https://open.spotify.com/track/42zvj6KEuxB5ZSa5ea0Lyh"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
-        "name": "How Did You Love",
-        "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 185955,
-      "name": "How Did You Love - Acoustic",
-      "url": "https://open.spotify.com/track/4bUbgl5yiMEfGFy8CQNnXB"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 253120,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Deep End (Stripped)",
-        "url": "https://open.spotify.com/album/5EZxyWXfsI6eJWuCvGNynA"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 210929,
-      "name": "Deep End - Stripped",
-      "url": "https://open.spotify.com/track/0S5h1Dk10b2UK2ssQE4AsO"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Scumbag (Acoustic)",
         "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 209420,
       "name": "Scumbag - Acoustic",
       "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Deep End (Stripped)",
+        "url": "https://open.spotify.com/album/5EZxyWXfsI6eJWuCvGNynA"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 210929,
+      "name": "Deep End - Stripped",
+      "url": "https://open.spotify.com/track/0S5h1Dk10b2UK2ssQE4AsO"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/33oxbqzo7poSO2IbSMqrPS"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 225099,
-      "name": "Waking up (Acoustic)",
-      "url": "https://open.spotify.com/track/4Zv8db41aWJTqOMkyid0uC"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Look At Us Now (Honeycomb) [Acoustic Demo]",
         "url": "https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 231653,
       "name": "Look At Us Now (Honeycomb) - Acoustic Demo",
       "url": "https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/33oxbqzo7poSO2IbSMqrPS"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 225099,
+      "name": "Waking up (Acoustic)",
+      "url": "https://open.spotify.com/track/4Zv8db41aWJTqOMkyid0uC"
     },
     {
       "added_at": "2024-07-05 19:40:49",

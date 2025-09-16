@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Ada Ehi
 
-605 songs - 2 day 7 hr 37 min
+606 songs - 2 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [Intentional](https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 5:09 | 2023-12-05 | 2023-12-11 |
 | [International](https://open.spotify.com/track/2soBXygYhWgiUyPFBzIFSJ) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [International](https://open.spotify.com/album/2NtVwsO0QbRdEkAlDhOOrd) | 3:21 | 2025-06-13 | 2025-06-20 |
 | [Involved](https://open.spotify.com/track/5pb5B5hA3h3EF0s7cW1ykL) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7), [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [Involved](https://open.spotify.com/album/5jF4u2Au0Tbqifnr2qtzfH) | 3:40 | 2024-09-20 | 2025-01-15 |
-| [Isi Gini](https://open.spotify.com/track/6OJooIGQRv2xjNr2AEvckI) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Isi Gini](https://open.spotify.com/album/4odNgQQKOPmNSQbs1k2bYj) | 4:29 | 2024-08-30 |  |
+| [Isi Gini](https://open.spotify.com/track/6OJooIGQRv2xjNr2AEvckI) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Isi Gini](https://open.spotify.com/album/4odNgQQKOPmNSQbs1k2bYj) | 4:29 | 2024-08-30 | 2025-09-16 |
 | [Iwo lawa o ma bo](https://open.spotify.com/track/3rXJD0RA6PLFENF7t2Zqln) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU), [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [The Spirit of Light](https://open.spotify.com/album/1grxa0bu0S0u98pDXNnFSg) | 6:48 | 2023-12-05 | 2023-12-11 |
 | [Jehovah Ebenezer](https://open.spotify.com/track/3dmy0rwVI6ipn6KgznuQuS) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Songs from the Place of Prayer](https://open.spotify.com/album/2u8rAcqeoemQsK3E66P1JC) | 6:00 | 2023-12-05 | 2023-12-11 |
 | [Jesu \- Live](https://open.spotify.com/track/4RyKKCSQOyuiiIY2t5dEgN) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Grace Lubega](https://open.spotify.com/artist/6oYqFf1tyxGze6VeiU5Iu5) | [Generation Intimacy \(Live\)](https://open.spotify.com/album/3yS1fOC8YNbzfoB7WVSeOQ) | 13:37 | 2025-07-25 |  |
@@ -465,6 +465,7 @@
 | [S.E.L.F](https://open.spotify.com/track/5ebiW0NaOwjhQTqegf4liq) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [S.E.L.F](https://open.spotify.com/album/6Nr3TfDODs4l81R8RKWa9B) | 1:37 | 2024-07-19 | 2024-08-09 |
 | [Selense](https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Selense](https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO) | 3:45 | 2023-05-26 | 2024-02-18 |
 | [Selense](https://open.spotify.com/track/4vU2BSASlEcX6pBP5RVIjJ) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [THE AFRO GOSPEL](https://open.spotify.com/album/6rfsFUaUDBpajCxRjUZSry) | 3:45 | 2023-08-25 | 2023-09-09 |
+| [Shake The Ground](https://open.spotify.com/track/3Gfi0d2EJT1S6f3U72eQuL) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [THE GROUND WE'RE ON](https://open.spotify.com/album/0StZqTmijDIlMMbS0Vq8gH) | 5:58 | 2025-08-15 |  |
 | [Shammah](https://open.spotify.com/track/1hW8cVgHXcKo9BqSm8mcHM) | [Princewill Agbazue](https://open.spotify.com/artist/2dpzpGDabUYHCOhggruWZL) | [Shammah](https://open.spotify.com/album/3Wi8dsqFQoDzkGyB1qxlsG) | 2:25 | 2025-04-25 | 2025-07-04 |
 | [Shekinah](https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Shekinah](https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj) | 7:00 | 2024-10-25 | 2025-08-20 |
 | [Shekinah](https://open.spotify.com/track/0I1tx3WCPqTnIrkrz6pYJM) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Spirituals](https://open.spotify.com/album/2jZxPVHjJY01qg0j9WOvCN) | 7:00 | 2024-12-31 | 2025-01-07 |

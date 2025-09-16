@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Agmal Aghany Laila Mourad",
+        "url": "https://open.spotify.com/album/3lRQi4vBYzvNtxoRJ5qXOw"
+      },
+      "artists": [
+        {
+          "name": "Laila Mourad",
+          "url": "https://open.spotify.com/artist/56OChX6qMfZmYVGB4NMCHc"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332291,
+      "name": "Ana Alby Daleely",
+      "url": "https://open.spotify.com/track/3bwlnMq8hwTgIRI7abv2At"
+    },
+    {
+      "album": {
         "name": "Ana Baashaak",
         "url": "https://open.spotify.com/album/3TBiRcV5BVsFTaqot77WpG"
       },
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 348640,
       "name": "Ya Habibti Ya Masr",
       "url": "https://open.spotify.com/track/5Qwrje2t7Nzl1XYbLyGdeE"
@@ -1806,6 +1824,24 @@
       "duration_ms": 226821,
       "name": "Ya Mersal El Marasil",
       "url": "https://open.spotify.com/track/6uWynf5XF8QU8e9Kt5GbWp"
+    },
+    {
+      "album": {
+        "name": "Aghany Film Mamnoa El Hob Pt.1",
+        "url": "https://open.spotify.com/album/2yPvwAEw0qkp0NF0HqRxRp"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Abdel Wahab",
+          "url": "https://open.spotify.com/artist/6EOZim46RHGGWpKqsD6OOG"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448962,
+      "name": "Ya Mesafer Wahdak",
+      "url": "https://open.spotify.com/track/5iZMoYx762iNo2aczQhVze"
     },
     {
       "album": {
@@ -1910,7 +1946,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 205740,
       "name": "Ya Zarifa El Toul",
       "url": "https://open.spotify.com/track/00jI5pk3XkSjYdFyOnRLYe"

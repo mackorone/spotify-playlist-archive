@@ -2,14 +2,14 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: G1nter
+> 50 nejžhavějších hitů v České republice\. Cover:Hard Rico
 
-155 songs - 7 hr 37 min
+156 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 let](https://open.spotify.com/track/6myE4s91ZPko0Ad94B0zyZ) | [FattyPillow](https://open.spotify.com/artist/53zJujQ0C8gp3zFRz78WoZ) | [10 let](https://open.spotify.com/album/33OhQBHCnpg3F1vsuWtqiz) | 4:25 | 2025-08-19 |  |
-| [10 Minut](https://open.spotify.com/track/4JJuP53drHC7Q2TafqNEgm) | [Hasan](https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Lil Buca Near](https://open.spotify.com/artist/52OGEbhmyukkdvJ6EDaLH1) | [Space Blues Music](https://open.spotify.com/album/7euuPM8DU5g5vWK4ojNU5P) | 3:02 | 2025-08-25 |  |
+| [10 Minut](https://open.spotify.com/track/4JJuP53drHC7Q2TafqNEgm) | [Hasan](https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Lil Buca Near](https://open.spotify.com/artist/52OGEbhmyukkdvJ6EDaLH1) | [Space Blues Music](https://open.spotify.com/album/7euuPM8DU5g5vWK4ojNU5P) | 3:02 | 2025-08-25 | 2025-09-16 |
 | [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 | 2025-08-25 |  |
 | [415 ft\. Robin Zoot](https://open.spotify.com/track/4OTbv2KXIhQzXRUERoQaVq) | [Katannah](https://open.spotify.com/artist/4FlpITxeMarYCggIrcOE6j), [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [The Underdog](https://open.spotify.com/album/3rOYAOvImczZjhKw2m6f6B) | 2:42 | 2025-04-07 |  |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-10 | 2025-06-10 |
@@ -66,6 +66,7 @@
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-06 | 2024-10-01 |
 | [Habibi](https://open.spotify.com/track/5FXDsBtTJRSMmmWhFxhAI0) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Habibi](https://open.spotify.com/album/7EdhZU5wyU8jwdZmcyQvAZ) | 2:26 | 2024-07-01 | 2025-09-02 |
 | [HANDICAP](https://open.spotify.com/track/1gl6s2ND3ykl2u6quYARm3) | [Mladej Fritzl](https://open.spotify.com/artist/1VTqOR9jN9As88axkbss7b), [OG PAV](https://open.spotify.com/artist/7rpf5aAR3VUrNAFqVNLkJ1) | [HANDICAP](https://open.spotify.com/album/2ceDa3FSBGQq8kNjGzJjOh) | 2:40 | 2025-09-10 |  |
+| [HAYABUSA](https://open.spotify.com/track/4Es9Odl5pS4pNWLiHyZMyh) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [HAYABUSA](https://open.spotify.com/album/00s38ogQKB2FM7HhiTQTfz) | 3:19 | 2025-09-15 |  |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-30 | 2024-10-22 |
 | [Homerun](https://open.spotify.com/track/59Pro01fS9Ucy2HseMArGa) | [THE MAG](https://open.spotify.com/artist/6vfjRdM3Km8PXyuCpIapD9), [G1nter](https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa) | [Homerun](https://open.spotify.com/album/3aOx0BcJHnzo0STXDmhDdQ) | 1:44 | 2025-06-23 | 2025-08-26 |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-07-01 | 2024-10-01 |

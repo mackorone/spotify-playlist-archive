@@ -1,12 +1,12 @@
 {
   "description": "This is Nicholas Craven. The essential tracks, all in one playlist.",
-  "num_followers": 654,
+  "num_followers": 655,
   "original_name": "This Is Nicholas Craven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAABrLCy4My0RZvGNIE/wUgzi",
+  "snapshot_id": "aMYFgAAAAADhSZtk2BcNMSBGxewzTzh9",
   "tracks": [
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deleted Scenes 2",
-        "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
+        "name": "Unreal",
+        "url": "https://open.spotify.com/album/6UEImviFrAqrlOJTznObgc"
       },
       "artists": [
         {
@@ -270,11 +270,15 @@
         {
           "name": "Ransom",
           "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
         }
       ],
-      "duration_ms": 143627,
-      "name": "American Made",
-      "url": "https://open.spotify.com/track/0InAsDsfTZ12eovy8l1itp"
+      "duration_ms": 128291,
+      "name": "Unreal",
+      "url": "https://open.spotify.com/track/3CeVm8Lr9sb9o4FhJGlyMl"
     },
     {
       "added_at": null,
@@ -343,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unreal",
-        "url": "https://open.spotify.com/album/6UEImviFrAqrlOJTznObgc"
+        "name": "Deleted Scenes 2",
+        "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
       },
       "artists": [
         {
@@ -354,15 +358,11 @@
         {
           "name": "Ransom",
           "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
         }
       ],
-      "duration_ms": 128291,
-      "name": "Unreal",
-      "url": "https://open.spotify.com/track/3CeVm8Lr9sb9o4FhJGlyMl"
+      "duration_ms": 143627,
+      "name": "American Made",
+      "url": "https://open.spotify.com/track/0InAsDsfTZ12eovy8l1itp"
     },
     {
       "added_at": null,
@@ -827,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dump Gawd: Shot Clock King",
+        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 146807,
+      "name": "Wit out a Question",
+      "url": "https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "POTLUCK",
         "url": "https://open.spotify.com/album/1WwIvrNfaFQdAu82XAs7Fh"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 157290,
       "name": "Beat The Charge",
       "url": "https://open.spotify.com/track/51nexOgdmWUAbfIY6rdQDI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dump Gawd: Shot Clock King",
-        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 134269,
-      "name": "Look What You Done",
-      "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
     },
     {
       "added_at": null,
@@ -911,6 +911,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dump Gawd: Shot Clock King",
+        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 134269,
+      "name": "Look What You Done",
+      "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deleted Scenes",
         "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 69608,
       "name": "Midsommar",
       "url": "https://open.spotify.com/track/6n4hU8yiTKd9vdusec8auo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dump Gawd: Shot Clock King",
-        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 146807,
-      "name": "Wit out a Question",
-      "url": "https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg"
     },
     {
       "added_at": null,

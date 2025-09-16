@@ -4,7 +4,7 @@
 
 > 45 grados y un chingo de cerveza..\. ¡Así suena el noreste!
 
-275 songs - 16 hr 31 min
+276 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Carmesí](https://open.spotify.com/track/5XLyfpeRUt19MCsHP2faVJ) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Carmesí](https://open.spotify.com/album/5EGFJjVrdiNkxoEivdFMXn) | 2:56 | 2024-07-15 | 2025-06-18 |
 | [Casas de Madera](https://open.spotify.com/track/6aBQBHd6G9tX287t88CcL0) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Gran Colección del 60 Aniversario CBS \- Ramón Ayala y Sus Bravos del Norte](https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN) | 4:23 | 2023-11-08 |  |
 | [Casas De Madera](https://open.spotify.com/track/2iKtCnQnLVuYyrqhhz15Uz) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Casas De Madera \(Remasterizado\)](https://open.spotify.com/album/6axSGbcNWfp6TJUJNZuOEo) | 4:24 | 2023-06-16 | 2024-04-19 |
-| [Casi Siempre Estoy Pensando En Ti](https://open.spotify.com/track/313aLoAv5EAuPDxXqpFTIe) | [Sonido Mazter](https://open.spotify.com/artist/2Je9VeZnmnpDrCIwWu3wuM) | [Falsa Traición](https://open.spotify.com/album/0hgNADfjKFvsM3SwgKRqnR) | 2:30 | 2025-06-17 |  |
+| [Casi Siempre Estoy Pensando En Ti](https://open.spotify.com/track/313aLoAv5EAuPDxXqpFTIe) | [Sonido Mazter](https://open.spotify.com/artist/2Je9VeZnmnpDrCIwWu3wuM) | [Falsa Traición](https://open.spotify.com/album/0hgNADfjKFvsM3SwgKRqnR) | 2:30 | 2025-06-17 | 2025-09-16 |
 | [Celoso](https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD) | [Grupo Toppaz De Reynaldo Flores](https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY) | [Celoso](https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV) | 2:48 | 2025-06-17 |  |
 | [Celoso](https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN) | [Secretto](https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD) | [Celoso](https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR) | 3:21 | 2023-06-16 | 2024-04-19 |
 | [Cha Cu Cha](https://open.spotify.com/track/1QHSwIjIIfqMuu0DLQFVFr) | [Los Garcia Bros.](https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD) | [Abrazame](https://open.spotify.com/album/0HcDnNUTvLQEB07M9coTkz) | 3:09 | 2023-06-16 | 2025-06-18 |
@@ -219,6 +219,7 @@
 | [Quiero Volar](https://open.spotify.com/track/5eHBwnbKua85GTAOaSaMqn) | [Jorge Meza](https://open.spotify.com/artist/6tZZ41M87iMusAZqcEDqSt), [y Su Tropicolombia](https://open.spotify.com/artist/1j6CwJDQ5JAwZJsYuIS0Yc) | [Quiero Volar](https://open.spotify.com/album/4xe7zD2yjkpRElKHwT9eYW) | 4:46 | 2023-11-08 | 2024-04-19 |
 | [Quiero Volar](https://open.spotify.com/track/4KjYJXjnkHfEtJtSNUX2CO) | [Jorge Meza Y Su Tropi Colombia](https://open.spotify.com/artist/745IcJOBUvnbNsDKAMyUVa) | [25 Exitos De Oro](https://open.spotify.com/album/4Jdm5lcAdUPVswN57HShNy) | 4:46 | 2023-06-16 | 2024-07-16 |
 | [Quiero Volar](https://open.spotify.com/track/4WU4Bliu90KAVOXymgmraL) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jr\. Santiago](https://open.spotify.com/artist/4VN2AdbQ4MoBdtix3JbA21), [Julián Rojas](https://open.spotify.com/artist/3TXxyYKiTBCD2kpenWIUCu) | [La Combinacion Vallenata Elite Vol\. 5](https://open.spotify.com/album/7dzVsV1IrlFyrEcYr2KIR6) | 4:57 | 2023-06-16 | 2024-07-03 |
+| [Quisiera](https://open.spotify.com/track/61dUrdx6PLjQX3Ve6gnpD0) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [En Manos Del Tiempo](https://open.spotify.com/album/0XPM5J7QGgCUpmvRxrrL3c) | 2:56 | 2025-06-17 |  |
 | [Quisiera Ser Una Lágrima](https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 2:58 | 2023-06-16 |  |
 | [Quizás](https://open.spotify.com/track/5NWwksSbX0VUFO8AhQwZKG) | [Javier Lopez](https://open.spotify.com/artist/4y3dI4VrvBA830auuPgiiI) | [Quizás](https://open.spotify.com/album/6kuKiRH3LIEs2QIylPiyGS) | 4:31 | 2023-11-08 | 2024-07-03 |
 | [Qué Bello](https://open.spotify.com/track/2vw9TcQLOkCjCcSX3rKyJb) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Cumbias Para Bailar](https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne) | 4:15 | 2025-06-17 |  |

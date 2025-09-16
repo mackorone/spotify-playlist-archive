@@ -4,7 +4,7 @@
 
 > This is Aphex Twin\. The essential tracks, all in one playlist.
 
-161 songs - 12 hr 35 min
+162 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [CHEETA2 ms800](https://open.spotify.com/track/0dosJWZB74Oqw4PrWDxgNd) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Cheetah EP](https://open.spotify.com/album/1pC7hHcaOmrDotqv1ZnuT8) | 0:37 | 2022-10-12 | 2023-02-16 |
 | [CHEETA2 ms800](https://open.spotify.com/track/34GfMyz21IF3sWkjW1CsHn) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Cheetah EP](https://open.spotify.com/album/6u6ES0Y3XthiMi8IGIrevq) | 0:37 | 2023-02-15 | 2024-07-25 |
 | [CIRCLONT6A \[141.98\]\[syrobonkus mix\]](https://open.spotify.com/track/0Zn4jYnGokSATIvpNLJAGd) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 6:00 | 2022-07-29 | 2022-10-09 |
+| [CIRKLON 1](https://open.spotify.com/track/35W2s8vGKSA6T79AjdPaAn) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Cheetah EP](https://open.spotify.com/album/6u6ES0Y3XthiMi8IGIrevq) | 7:17 | 2025-09-16 |  |
 | [Cock/ver10](https://open.spotify.com/track/1ppw4aUaKKiY43tRMJD05h) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 5:18 | 2022-05-29 | 2022-10-13 |
 | [Come On You Slags](https://open.spotify.com/track/1e3b0rN8vtP5q6ZCoLy5Ym) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 5:44 | 2022-05-29 | 2022-09-21 |
 | [Come To Daddy \- Pappy Mix](https://open.spotify.com/track/53T0V3jTJDs3kIqwvlgspI) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp) | 4:22 | 2022-05-29 | 2023-02-13 |

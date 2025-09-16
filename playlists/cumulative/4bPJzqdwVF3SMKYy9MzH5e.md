@@ -4,7 +4,7 @@
 
 > 
 
-2,259 songs - 5 day 1 hr 19 min
+2,262 songs - 5 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [3ISBÄR](https://open.spotify.com/track/3d9JNjZC5rIWLcd0knqvla) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [3ISBÄR](https://open.spotify.com/album/6K02nZ7YNOePwWQIBkFdhk) | 4:36 | 2024-10-30 |  |
 | [4 bit 9d api+e+6 \[126.26\]](https://open.spotify.com/track/3NK7KFnTh3rKCgUvsKIDfi) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 4:28 | 2022-02-18 |  |
 | [4 Morant](https://open.spotify.com/track/57jFUz9DgJDQXL8LbPWjR3) | [Grindol](https://open.spotify.com/artist/6YgR7mphFTyEB0mZDewlxG) | [4 Morant](https://open.spotify.com/album/1DT3lkFPzSy2slR11GBuiA) | 2:52 | 2022-11-11 |  |
+| [4c1d](https://open.spotify.com/track/3TsjTZLJbnVzLY9HEq0JlS) | [drenchrome](https://open.spotify.com/artist/4CZGDoISuyPBiQ2s6dwwYM) | [4c1d](https://open.spotify.com/album/1AH5zxDjbUYmMI3YOOLa5I) | 1:00 | 2025-09-15 |  |
 | [4eva](https://open.spotify.com/track/6c0Vmwoz6Dgn0sZP3ZMO07) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [Club Shy \(extended\)](https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g) | 2:20 | 2024-10-30 |  |
 | [4EVER](https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9) | 2:39 | 2021-08-05 |  |
 | [4K](https://open.spotify.com/track/1BIXs6CdkPRLytuqoXs6XN) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [4K](https://open.spotify.com/album/4C4pswO5xUzT3S2pN94LNk) | 3:21 | 2024-10-30 |  |
@@ -1597,6 +1598,7 @@
 | [R4v3 B0y](https://open.spotify.com/track/1hle6BL2dCurJdd5Xoywlb) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [R4v3 B0y](https://open.spotify.com/album/7eUjgoQDrXMcXj5EIfKVHs) | 2:59 | 2024-06-06 |  |
 | [Rabbit Hole](https://open.spotify.com/track/55gz8MakFlHbhOAne0Aeai) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Rabbit Hole](https://open.spotify.com/album/4dXr0FZ6F92JKXwAzxLQps) | 3:48 | 2021-08-05 |  |
 | [RACECAR \(feat\. Clairo, Coco & Clair Clair\)](https://open.spotify.com/track/0E4oz7ZPWoALwDHeI0eLXZ) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [RACECAR \(feat\. Clairo, Coco & Clair Clair\)](https://open.spotify.com/album/5IdqV4LVc0zKqgR8s6PHG9) | 2:50 | 2022-02-04 |  |
+| [Raid Boss](https://open.spotify.com/track/1QWe23QoFAIWI7iDZhGM0A) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [ACID REFLUX](https://open.spotify.com/album/4u7dPlaVhMP137ISVgroAd) | 4:11 | 2025-09-15 |  |
 | [Rakata](https://open.spotify.com/track/0hp5IJ83YpnglsrvGfIhIN) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KICK ii](https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy) | 2:31 | 2021-12-30 |  |
 | [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:11 | 2021-08-05 |  |
 | [Rats!Rats!Rats!](https://open.spotify.com/track/2nJ4y4XFQx34TFO02aotaP) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4o1KnoVpzXZceJxyjELEQB) | 4:00 | 2022-04-03 |  |
@@ -2187,6 +2189,7 @@
 | [Where You Are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 | 2022-04-26 |  |
 | [where's my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where's my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 | 2025-09-07 |  |
 | [Where's My Juul?? \(feat\. Lil Mariko\)](https://open.spotify.com/track/0rS5bl8WHAiDuiorCulzuV) | [Full Tac](https://open.spotify.com/artist/5ZXkHp732tYHIzqctoZP0E), [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx) | [Where's My Juul?? \(feat\. Lil Mariko\)](https://open.spotify.com/album/4W006fnEU4MeJIzaWUanLB) | 1:45 | 2021-08-05 |  |
+| [Whip Smack](https://open.spotify.com/track/2GiIxdpHNTJ4mirXfDOpma) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [Whip Smack](https://open.spotify.com/album/6Tmt9DPTZJojU0ILaikzkK) | 2:36 | 2025-09-15 |  |
 | [White Flag](https://open.spotify.com/track/08IFMDAxF7Se7X8RNyoQWF) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:01 | 2021-08-05 |  |
 | [White Mustang](https://open.spotify.com/track/6eygbzyL6hY8jFQTARDuo9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 2:44 | 2021-08-05 |  |
 | [White Rabbit](https://open.spotify.com/track/4vpeKl0vMGdAXpZiQB2Dtd) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 2:30 | 2022-10-15 |  |

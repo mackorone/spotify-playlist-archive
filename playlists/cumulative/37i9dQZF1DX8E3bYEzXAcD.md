@@ -4,7 +4,7 @@
 
 > Rustig aan, ff ademen jij.
 
-42 songs - 1 hr 53 min
+43 songs - 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [4 Vingers](https://open.spotify.com/track/6oUk08VpowMAGNpDjbbWpa) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [4 Vingers](https://open.spotify.com/album/79Wf5T5dpeG2sSfdt843lS) | 2:27 | 2025-06-27 |  |
 | [AaAAaa](https://open.spotify.com/track/03ylxisG0KM0VlvyGLSSxu) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Narcopop](https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98) | 2:26 | 2025-06-27 |  |
 | [Accepteren](https://open.spotify.com/track/6X2PJ1oPEf4GUcmyBuPOwm) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk) | [Levensles](https://open.spotify.com/album/4sBPiyibzraYzKn7MwPm2p) | 3:20 | 2025-06-27 |  |
-| [All Ice](https://open.spotify.com/track/3UgOeRwPmEoiwg2ejvUxQp) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Most Hated](https://open.spotify.com/album/0A9Tl2UXFxbCwMMcFoNN8g) | 2:39 | 2025-06-27 |  |
+| [All Ice](https://open.spotify.com/track/3UgOeRwPmEoiwg2ejvUxQp) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Most Hated](https://open.spotify.com/album/0A9Tl2UXFxbCwMMcFoNN8g) | 2:39 | 2025-06-27 | 2025-09-16 |
 | [Cullinan](https://open.spotify.com/track/62PDXg9UDd0q4N6hCl0fI7) | [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6) | [Cullinan](https://open.spotify.com/album/04MPrXHuTkaGeSVmtWp9j7) | 3:03 | 2025-06-27 |  |
 | [Dakje Open](https://open.spotify.com/track/1qsMR2r9IiJ7Ow6ewNbFaI) | [Cité](https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp) | [Dakje Open](https://open.spotify.com/album/2WvRupQncVmgisPHHDdjYF) | 2:14 | 2025-06-27 |  |
 | [Doe Rustig](https://open.spotify.com/track/7moKARHYaqaAddizkT0d9n) | [Ella](https://open.spotify.com/artist/2LQwOII1L3oQrjWHaNgeWd) | [Doe Rustig](https://open.spotify.com/album/0vrU4iKKqxmJigZLzGwgD0) | 2:07 | 2025-06-27 |  |
@@ -47,6 +47,7 @@
 | [SUPREME](https://open.spotify.com/track/5quw3QXbs7SPmC1bUkHzp7) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [SUPREME](https://open.spotify.com/album/1h4e2OXH9T9Hb2cHLvC4E7) | 2:12 | 2025-08-28 |  |
 | [Terug Naar Toen \(feat\. Lijpe\)](https://open.spotify.com/track/78MjdEavkSKQCungaxkd7V) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [93](https://open.spotify.com/album/5tEjoImmdtJeQVYQx9Ogy4) | 3:20 | 2025-06-27 |  |
 | [U23 \- Freestyle](https://open.spotify.com/track/61saPoK8jz62MCcnWcRkmr) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [U23 \- Freestyle](https://open.spotify.com/album/5KKRZt3Yi7PmctbZNqRjfb) | 2:16 | 2025-06-27 |  |
+| [WHAT THE HELLY](https://open.spotify.com/track/3PrlxQtFCyAlKFC0uZwSXf) | [CC](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT), [YG24](https://open.spotify.com/artist/3A16zm3oPSNnetOrwp0TU6) | [WHAT THE HELLY](https://open.spotify.com/album/5ESn5GFLsSdYanFcoBxwQl) | 2:10 | 2025-09-15 |  |
 | [Winstmarge](https://open.spotify.com/track/4S5DteUzRbxYwbn78OLLLW) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Winstmarge](https://open.spotify.com/album/3GWsFQce7dHjU3EpGZmlHK) | 2:24 | 2025-06-27 |  |
 | [Yolo](https://open.spotify.com/track/3nwPqKLNPaPmEu3KLEdzpH) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Most Hated](https://open.spotify.com/album/0A9Tl2UXFxbCwMMcFoNN8g) | 3:24 | 2025-06-27 |  |
 | [ZIDANE](https://open.spotify.com/track/4o943cZWj08kb6qSc4UpCt) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [ZIDANE](https://open.spotify.com/album/6EOa9BfPjQ3plNa3lkdYIx) | 2:48 | 2025-06-27 | 2025-09-11 |

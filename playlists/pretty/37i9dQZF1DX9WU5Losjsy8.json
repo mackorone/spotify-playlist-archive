@@ -1,6 +1,6 @@
 {
   "description": "Megapark bis Bierk\u00f6nig - Malle ist nur einmal im Jahr!",
-  "num_followers": 476062,
+  "num_followers": 476096,
   "original_name": "Malle Party 2025",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,26 @@
     {
       "added_at": "2025-08-08 07:02:50",
       "album": {
+        "name": "Rakete (Party Edit)",
+        "url": "https://open.spotify.com/album/2YP8W81DKC5crHKWHaLKM3"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4tropolis",
+          "url": "https://open.spotify.com/artist/7iYhDa5Ucrs8Ucsi0Vv1uG"
+        },
+        {
+          "name": "Dj Aaron",
+          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
+        }
+      ],
+      "duration_ms": 188187,
+      "name": "Rakete - Party Edit",
+      "url": "https://open.spotify.com/track/1bPPGrKv9D6z4RSwYm76QY"
+    },
+    {
+      "added_at": "2025-08-08 07:02:50",
+      "album": {
         "name": "OHNE DICH",
         "url": "https://open.spotify.com/album/4ojhahjUoeEdcbCaFVygXE"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 181000,
       "name": "OHNE DICH",
       "url": "https://open.spotify.com/track/2zB3m7cucvTZQ7IwUtdnxM"
-    },
-    {
-      "added_at": "2025-08-08 07:02:50",
-      "album": {
-        "name": "Rakete (Party Edit)",
-        "url": "https://open.spotify.com/album/2YP8W81DKC5crHKWHaLKM3"
-      },
-      "artists": [
-        {
-          "name": "M\u00e4tropolis",
-          "url": "https://open.spotify.com/artist/7iYhDa5Ucrs8Ucsi0Vv1uG"
-        },
-        {
-          "name": "Dj Aaron",
-          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
-        }
-      ],
-      "duration_ms": 188187,
-      "name": "Rakete - Party Edit",
-      "url": "https://open.spotify.com/track/1bPPGrKv9D6z4RSwYm76QY"
     },
     {
       "added_at": "2025-08-08 07:02:50",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-08-08 07:02:50",
       "album": {
-        "name": "Helene Fischer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
-      },
-      "artists": [
-        {
-          "name": "Helene Fischer",
-          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "Herzbeben",
-      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
-    },
-    {
-      "added_at": "2025-08-08 07:02:50",
-      "album": {
         "name": "Mountain Man",
         "url": "https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 180252,
       "name": "Hulapalu",
       "url": "https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK"
+    },
+    {
+      "added_at": "2025-08-08 07:02:50",
+      "album": {
+        "name": "Helene Fischer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Herzbeben",
+      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
     },
     {
       "added_at": "2025-08-08 07:02:50",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-08-08 07:02:50",
       "album": {
-        "name": "Inselfieber",
-        "url": "https://open.spotify.com/album/1tPPkh2N7XXw9NwOKJaNNL"
-      },
-      "artists": [
-        {
-          "name": "Peter Wackel",
-          "url": "https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb"
-        }
-      ],
-      "duration_ms": 153956,
-      "name": "Inselfieber",
-      "url": "https://open.spotify.com/track/4aqVi3KlBMbmbbD07MHNFS"
-    },
-    {
-      "added_at": "2025-08-08 07:02:50",
-      "album": {
         "name": "Zeig mir den Platz an der Sonne",
         "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
       },
@@ -655,6 +639,22 @@
     {
       "added_at": "2025-08-08 07:02:50",
       "album": {
+        "name": "Inselfieber",
+        "url": "https://open.spotify.com/album/1tPPkh2N7XXw9NwOKJaNNL"
+      },
+      "artists": [
+        {
+          "name": "Peter Wackel",
+          "url": "https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb"
+        }
+      ],
+      "duration_ms": 153956,
+      "name": "Inselfieber",
+      "url": "https://open.spotify.com/track/4aqVi3KlBMbmbbD07MHNFS"
+    },
+    {
+      "added_at": "2025-08-08 07:02:50",
+      "album": {
         "name": "D\u00e9j\u00e0 Vu - Das Beste Von Matthias Reim",
         "url": "https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f"
       },
@@ -667,46 +667,6 @@
       "duration_ms": 217680,
       "name": "Verdammt Ich lieb' dich",
       "url": "https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj"
-    },
-    {
-      "added_at": "2025-08-08 07:02:50",
-      "album": {
-        "name": "Chaos im Kopf",
-        "url": "https://open.spotify.com/album/0FIzghsHDMcpasJlE9VRdJ"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        },
-        {
-          "name": "le Shuuk",
-          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Chaos im Kopf",
-      "url": "https://open.spotify.com/track/1rrYKXHFlGuA9jBNoxok6C"
-    },
-    {
-      "added_at": "2025-08-08 07:02:50",
-      "album": {
-        "name": "Wir eskalieren",
-        "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 216286,
-      "name": "Wir eskalieren",
-      "url": "https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm"
     },
     {
       "added_at": "2025-08-08 07:02:50",
@@ -731,6 +691,46 @@
     {
       "added_at": "2025-08-08 07:02:50",
       "album": {
+        "name": "Wir eskalieren",
+        "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 216286,
+      "name": "Wir eskalieren",
+      "url": "https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm"
+    },
+    {
+      "added_at": "2025-08-08 07:02:50",
+      "album": {
+        "name": "Chaos im Kopf",
+        "url": "https://open.spotify.com/album/0FIzghsHDMcpasJlE9VRdJ"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        },
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Chaos im Kopf",
+      "url": "https://open.spotify.com/track/1rrYKXHFlGuA9jBNoxok6C"
+    },
+    {
+      "added_at": "2025-08-08 07:02:50",
+      "album": {
         "name": "Atzen Musik Vol.1, 2 & 3",
         "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 204946,
       "name": "Disco Pogo",
       "url": "https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu"
-    },
-    {
-      "added_at": "2025-08-08 07:02:50",
-      "album": {
-        "name": "Gartenh\u00fctte",
-        "url": "https://open.spotify.com/album/3WA4M3aLKt1MOeW7f3b6dr"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 163260,
-      "name": "Gartenh\u00fctte",
-      "url": "https://open.spotify.com/track/4c5CmXIlx8ur2SVBEyghOs"
     },
     {
       "added_at": "2025-08-08 07:02:50",
@@ -779,6 +763,22 @@
       "duration_ms": 179061,
       "name": "Hast Du Saufen mal probiert? (1000 und 1 Nacht)",
       "url": "https://open.spotify.com/track/5fCBl1cfgQZaOdRCzKjcqT"
+    },
+    {
+      "added_at": "2025-08-08 07:02:50",
+      "album": {
+        "name": "Gartenh\u00fctte",
+        "url": "https://open.spotify.com/album/3WA4M3aLKt1MOeW7f3b6dr"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 163260,
+      "name": "Gartenh\u00fctte",
+      "url": "https://open.spotify.com/track/4c5CmXIlx8ur2SVBEyghOs"
     },
     {
       "added_at": "2025-08-08 07:02:50",
@@ -915,18 +915,22 @@
     {
       "added_at": "2025-08-08 07:02:50",
       "album": {
-        "name": "Eine Woche wach",
-        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
+        "name": "Layla",
+        "url": "https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4"
       },
       "artists": [
         {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        },
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
         }
       ],
-      "duration_ms": 235899,
-      "name": "Eine Woche wach",
-      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
+      "duration_ms": 185437,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK"
     },
     {
       "added_at": "2025-08-08 07:02:50",
@@ -947,22 +951,18 @@
     {
       "added_at": "2025-08-08 07:02:50",
       "album": {
-        "name": "Layla",
-        "url": "https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4"
+        "name": "Eine Woche wach",
+        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
       },
       "artists": [
         {
-          "name": "DJ Robin",
-          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
-        },
-        {
-          "name": "Sch\u00fcrze",
-          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
         }
       ],
-      "duration_ms": 185437,
-      "name": "Layla",
-      "url": "https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK"
+      "duration_ms": 235899,
+      "name": "Eine Woche wach",
+      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
     },
     {
       "added_at": "2025-08-08 07:02:50",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2025-08-08 07:02:50",
       "album": {
+        "name": "Hurra die Gams",
+        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
+      },
+      "artists": [
+        {
+          "name": "Matty Valentino",
+          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Hurra die Gams",
+      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
+    },
+    {
+      "added_at": "2025-08-08 07:02:50",
+      "album": {
         "name": "Ufo",
         "url": "https://open.spotify.com/album/6I1IhIuPR8D4OwXu8jbtbS"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 198524,
       "name": "Ufo",
       "url": "https://open.spotify.com/track/1fcr2p1DgZdkSOn7iQzhZK"
-    },
-    {
-      "added_at": "2025-08-08 07:02:50",
-      "album": {
-        "name": "Hurra die Gams",
-        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
-      },
-      "artists": [
-        {
-          "name": "Matty Valentino",
-          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Hurra die Gams",
-      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
     },
     {
       "added_at": "2025-08-08 07:02:50",

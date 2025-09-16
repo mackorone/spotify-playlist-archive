@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 6143,
+  "num_followers": 6152,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAB10QQOQf1GTCHQPYyi8Cu4",
+  "snapshot_id": "aMYFgAAAAAC96mkir+sni8tLC+09u4CE",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Help Is On The Way",
+        "url": "https://open.spotify.com/album/7nHPB32iLkDSs1AynldxtT"
+      },
+      "artists": [
+        {
+          "name": "Kellylivinglarge",
+          "url": "https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Priddy Prince",
+          "url": "https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh"
+        },
+        {
+          "name": "Brainyboi",
+          "url": "https://open.spotify.com/artist/2J82OYSkjUpIGcdzshmAl2"
+        }
+      ],
+      "duration_ms": 176183,
+      "name": "Living Life",
+      "url": "https://open.spotify.com/track/22vwTjakdrSsColpKdcDQa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Till Thy Kingdom Come",
         "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
       },
@@ -299,34 +327,6 @@
       "duration_ms": 172035,
       "name": "Gimme Your Love",
       "url": "https://open.spotify.com/track/7EzWkg2eZjwXwHEEhVcnxJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Help Is On The Way",
-        "url": "https://open.spotify.com/album/7nHPB32iLkDSs1AynldxtT"
-      },
-      "artists": [
-        {
-          "name": "Kellylivinglarge",
-          "url": "https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Priddy Prince",
-          "url": "https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh"
-        },
-        {
-          "name": "Brainyboi",
-          "url": "https://open.spotify.com/artist/2J82OYSkjUpIGcdzshmAl2"
-        }
-      ],
-      "duration_ms": 176183,
-      "name": "Living Life",
-      "url": "https://open.spotify.com/track/22vwTjakdrSsColpKdcDQa"
     },
     {
       "added_at": null,
@@ -787,6 +787,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Elon Musk (Remix)",
+        "url": "https://open.spotify.com/album/5payO4dC3cuMZryiZ5pFdd"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 204107,
+      "name": "Elon Musk (Remix)",
+      "url": "https://open.spotify.com/track/2AARxK7bhm2PNL08d0FHto"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gen-Z Arewazobia (feat. Jeriq & Zlatan)",
         "url": "https://open.spotify.com/album/7MFEWR37o9soZbhWwBWQvY"
       },
@@ -811,30 +835,6 @@
       "duration_ms": 157935,
       "name": "Gen-Z Arewazobia (feat. Jeriq & Zlatan)",
       "url": "https://open.spotify.com/track/0FXuDfxekkdEzGMMaCPAvr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elon Musk (Remix)",
-        "url": "https://open.spotify.com/album/5payO4dC3cuMZryiZ5pFdd"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 204107,
-      "name": "Elon Musk (Remix)",
-      "url": "https://open.spotify.com/track/2AARxK7bhm2PNL08d0FHto"
     },
     {
       "added_at": null,
@@ -899,42 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Original Vibe Machine",
-        "url": "https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 165656,
-      "name": "No Sleeping",
-      "url": "https://open.spotify.com/track/1JDxpKlpGehMGOtclizdVT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jordan",
-        "url": "https://open.spotify.com/album/3O0giSD7PgRGCWJEkEYa5o"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 145960,
-      "name": "Jordan",
-      "url": "https://open.spotify.com/track/2Fn9hIUPRQDVFUvaMmAHnw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatness 2.0",
         "url": "https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT"
       },
@@ -955,6 +919,26 @@
       "duration_ms": 200973,
       "name": "Only Fan",
       "url": "https://open.spotify.com/track/69yAyXc2pJCvgdAaCLUYqY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Original Vibe Machine",
+        "url": "https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 165656,
+      "name": "No Sleeping",
+      "url": "https://open.spotify.com/track/1JDxpKlpGehMGOtclizdVT"
     },
     {
       "added_at": null,
@@ -1003,22 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagos Anthem",
-        "url": "https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 209747,
-      "name": "Lagos Anthem",
-      "url": "https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BOMBING",
         "url": "https://open.spotify.com/album/3yOGsHXvqEFsSDtexJaB4g"
       },
@@ -1063,6 +1031,42 @@
       "duration_ms": 144993,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/7ddbe1q1JdBYe4OHZRvrPz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sick Six",
+        "url": "https://open.spotify.com/album/4UinowfqwB20ITGJdS3BaD"
+      },
+      "artists": [
+        {
+          "name": "DaBlixx Osha",
+          "url": "https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 128429,
+      "name": "Say No to Big Fall",
+      "url": "https://open.spotify.com/track/2mk0VTrxiZJXhLPB2yo4mk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lagos Anthem",
+        "url": "https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 209747,
+      "name": "Lagos Anthem",
+      "url": "https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM"
     }
   ],
   "unique_name": "This Is Zlatan",

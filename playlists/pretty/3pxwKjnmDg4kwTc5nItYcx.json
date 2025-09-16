@@ -6,8 +6,24 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAHjxxTwpgwOKN2jAjtWHMgfJlQ8ei/",
+  "snapshot_id": "AAAHkIBmxOaEgw3UjZAYTE9ST6DEJZFm",
   "tracks": [
+    {
+      "added_at": "2025-09-15 05:43:50",
+      "album": {
+        "name": "Play (Extended Edition)",
+        "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 215511,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
+    },
     {
       "added_at": "2025-09-11 05:02:03",
       "album": {

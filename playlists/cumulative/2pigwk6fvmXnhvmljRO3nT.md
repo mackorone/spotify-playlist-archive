@@ -4,7 +4,7 @@
 
 > 
 
-7,722 songs - 19 day 22 hr 49 min
+7,723 songs - 19 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6816,6 +6816,7 @@
 | [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 | 2025-01-03 |  |
 | [Ziplock](https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Ziplock / Rich Don't Stop](https://open.spotify.com/album/6b8FK7hZBmoR4GaaeFIqCk) | 3:18 | 2025-01-15 |  |
 | [Zipper Bagz](https://open.spotify.com/track/20UFm0JkFTmqpoRjgDYHnk) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:14 | 2025-01-03 |  |
+| [Zodiac Killer](https://open.spotify.com/track/5YNpZZLw3sXVq9VYT9XqCw) | [Khalil?](https://open.spotify.com/artist/0TzMK687XQf4EwLFYvpDLz) | [Zodiac Killer](https://open.spotify.com/album/4f3WQMLPtPvf7zIigKa2q2) | 2:04 | 2025-09-15 |  |
 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 | 2024-12-14 |  |
 | [Zoom](https://open.spotify.com/track/2IG6Te7JyvrtqhFeOF7le4) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 4:38 | 2025-01-03 |  |
 | [Zoom!](https://open.spotify.com/track/1Vv93qCC50ckZdeXh7Etln) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Zoom!](https://open.spotify.com/album/10WMv6j9OpkTHVafzM3JSx) | 2:07 | 2024-12-05 |  |

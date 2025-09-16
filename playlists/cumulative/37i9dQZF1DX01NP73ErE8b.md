@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat  🔁  Salmo in cover
 
-371 songs - 18 hr 54 min
+372 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Non Lo So \(feat\. chiello\)](https://open.spotify.com/track/5mOazYGaNJnv1zxMyNH6Rc) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:54 | 2025-02-03 | 2025-04-11 |
 | [Non sono io](https://open.spotify.com/track/7sYfMtqd7jxWzRSTrMCA2n) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Non sono io](https://open.spotify.com/album/5236ysAzQAdy67A3fM6etk) | 2:52 | 2025-05-01 | 2025-08-15 |
 | [Non x Soldi](https://open.spotify.com/track/12XKCbxfnM7jS0xNSgDJNz) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [NON X SOLDI](https://open.spotify.com/album/0lPLNy8qyFEA02EvH4Uodg) | 2:39 | 2025-05-01 | 2025-05-16 |
+| [Non è mica te](https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione](https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP) | 3:07 | 2025-09-15 |  |
 | [Non è vero che sto bene](https://open.spotify.com/track/3Sr7d5L9UGjRMzgkYSEYG8) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Non è vero che sto bene](https://open.spotify.com/album/3aMmvKIfghs4i3i0uFVzYk) | 3:40 | 2024-12-19 | 2025-01-10 |
 | [Nonostante Tutto \(feat\. Elisa\)](https://open.spotify.com/track/4Q7d5kMY5ctGgHp8diJ9Rw) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Nonostante Tutto \(feat\. Elisa\)](https://open.spotify.com/album/5zV0OvnUYxNBAG5YmSozFf) | 4:27 | 2025-04-10 |  |
 | [Nostalgia \(feat\. Neffa\)](https://open.spotify.com/track/1rOvPh1Ys3n8gQzor8MVrg) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Nostalgia](https://open.spotify.com/album/6awhjqs3acQA1WAYrsAPs6) | 3:04 | 2025-02-27 | 2025-03-19 |

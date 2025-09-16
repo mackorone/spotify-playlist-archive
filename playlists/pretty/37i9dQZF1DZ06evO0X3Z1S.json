@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 87679,
+  "num_followers": 87678,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAB1CjiQgHJhNGlgmSz3322j",
+  "snapshot_id": "aMYFgAAAAAA/gLuKEeSph5QS/E9VYzHF",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,34 @@
       "duration_ms": 192420,
       "name": "Edge of Desire - Jazz-N-Groove Club Mix",
       "url": "https://open.spotify.com/track/20LyxLxcXYjfumul42P9CO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Edge of Desire (Grigor\u00e9 & Serve Cold Remix)",
+        "url": "https://open.spotify.com/album/09NJ8iQprTvVowGftbvB4Y"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        },
+        {
+          "name": "Serve Cold",
+          "url": "https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "Edge of Desire - Grigor\u00e9 & Serve Cold Remix",
+      "url": "https://open.spotify.com/track/017ohFP2y5aWzslcRPK6a7"
     },
     {
       "added_at": null,
@@ -163,6 +191,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfect Melody",
+        "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+        }
+      ],
+      "duration_ms": 159850,
+      "name": "Perfect Melody",
+      "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The London Sessions",
         "url": "https://open.spotify.com/album/1BsVW2iNL53ZJY573fjHKK"
       },
@@ -183,26 +231,6 @@
       "duration_ms": 198995,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/0FEk8LwY8h4rAR63ggfhV0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Melody",
-        "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
-        }
-      ],
-      "duration_ms": 159850,
-      "name": "Perfect Melody",
-      "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
     },
     {
       "added_at": null,
@@ -491,30 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Ride Away (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/05IR0uSEjd7nu4ZgQnIMiA"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 183414,
-      "name": "Let's Ride Away - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/2oN9Y8nY83OJ6euCOxiVNb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u"
       },
@@ -551,6 +555,30 @@
       "duration_ms": 179512,
       "name": "My Head & My Heart - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let's Ride Away (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/05IR0uSEjd7nu4ZgQnIMiA"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 183414,
+      "name": "Let's Ride Away - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/2oN9Y8nY83OJ6euCOxiVNb"
     },
     {
       "added_at": null,
@@ -615,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Always Be There",
+        "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
+        }
+      ],
+      "duration_ms": 198407,
+      "name": "Always Be There",
+      "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sad Boy (feat. Ava Max & Kylie Cantrall)",
         "url": "https://open.spotify.com/album/5KcaU97tf7FqJ1s9cKVPpZ"
       },
@@ -639,26 +687,6 @@
       "duration_ms": 141204,
       "name": "Sad Boy (feat. Ava Max & Kylie Cantrall)",
       "url": "https://open.spotify.com/track/1qRgEKIeSrMcS62Ji4g8VT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Always Be There",
-        "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Louisa Johnson",
-          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
-        }
-      ],
-      "duration_ms": 198407,
-      "name": "Always Be There",
-      "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
     },
     {
       "added_at": null,
@@ -943,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aceita (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/6QXjrHkPxuk3N8ZINvq3le"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Aceita - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/5neNUN5qPB1hkJzhT823rO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
       },
@@ -979,6 +987,26 @@
       "duration_ms": 185453,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aceita (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/6QXjrHkPxuk3N8ZINvq3le"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Aceita - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/5neNUN5qPB1hkJzhT823rO"
     },
     {
       "added_at": null,
@@ -1047,22 +1075,6 @@
       "duration_ms": 172728,
       "name": "Billboard",
       "url": "https://open.spotify.com/track/2juIjirI5mIXuActwbOTaX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siento",
-        "url": "https://open.spotify.com/album/4kKvFPFsPnBgSvTxG1ybPq"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 217080,
-      "name": "Siento",
-      "url": "https://open.spotify.com/track/2Ys5BmzK3AZWNCrKihq50z"
     }
   ],
   "unique_name": "This Is Jonas Blue",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Joviale
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335,250 likes - 180 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335,229 likes - 180 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

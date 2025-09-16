@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring rachel chinouriri ☎️
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,476 likes - 120 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,750 likes - 120 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 |
 | 2 | [boys come and go](https://open.spotify.com/track/3jCAq8mb4xdmBvONTsZszV) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [boys come and go / chameleon](https://open.spotify.com/album/6TAe3IvGBxizax2j8DVDRM) | 3:46 |
 | 3 | [crushing](https://open.spotify.com/track/2pQoErkcTbLdQLnUtMYvuZ) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:27 |
-| 4 | [The Dress \(Dijon Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Olivia Dean \- Spotify Live Room](https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX) | 3:03 |
-| 5 | [Eighteen](https://open.spotify.com/track/5JX6IPg5g8Pbswf3qRL9FV) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Eighteen](https://open.spotify.com/album/2AuY362OQopMa5eRQnIvDA) | 2:14 |
-| 6 | [Always Almost Losing You](https://open.spotify.com/track/0MyZNBpfBQ6tMIT5o8DviW) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Always Almost Losing You](https://open.spotify.com/album/3QK8NXU2hlevgUC5Qyv76n) | 2:55 |
-| 7 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 |
-| 8 | [I Love It](https://open.spotify.com/track/7gqcQg5BexFAhj848x2Nni) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi), [shortstraw.](https://open.spotify.com/artist/3qlFWAsq8StLpupHiBDVND) | [Baby Teeth](https://open.spotify.com/album/3TBvK353HDQDDNfScJ8QaD) | 3:14 |
-| 9 | [changed it all](https://open.spotify.com/track/2BvqkFHPPQ3s1lUD9Y8Lyj) | [benjamin marshall](https://open.spotify.com/artist/43uKxuazcxU13X6jFrlFlQ) | [changed it all](https://open.spotify.com/album/45zOk2s5PyA8V10vCSoleJ) | 5:19 |
+| 4 | [Break the Girl](https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI) | 3:31 |
+| 5 | [The Dress \(Dijon Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Olivia Dean \- Spotify Live Room](https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX) | 3:03 |
+| 6 | [Eighteen](https://open.spotify.com/track/5JX6IPg5g8Pbswf3qRL9FV) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Eighteen](https://open.spotify.com/album/2AuY362OQopMa5eRQnIvDA) | 2:14 |
+| 7 | [I Love It](https://open.spotify.com/track/7gqcQg5BexFAhj848x2Nni) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi), [shortstraw.](https://open.spotify.com/artist/3qlFWAsq8StLpupHiBDVND) | [Baby Teeth](https://open.spotify.com/album/3TBvK353HDQDDNfScJ8QaD) | 3:14 |
+| 8 | [Always Almost Losing You](https://open.spotify.com/track/0MyZNBpfBQ6tMIT5o8DviW) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Always Almost Losing You](https://open.spotify.com/album/3QK8NXU2hlevgUC5Qyv76n) | 2:55 |
+| 9 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 |
 | 10 | [Rainbow Gal](https://open.spotify.com/track/7FZxZL2arm9wNi5G8owCgo) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Rainbow Gal](https://open.spotify.com/album/32MEZOAewxpH43adsG0yGS) | 2:22 |
-| 11 | [Friend Of Mine](https://open.spotify.com/track/3a1lLFOwCFU3XjIH0iwFrD) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Friend Of Mine](https://open.spotify.com/album/7h0ZdjeQOxEDYYc0Mr5YhE) | 2:50 |
-| 12 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 |
-| 13 | [Handsome](https://open.spotify.com/track/2GIddrm2ihwIyNIXTbGL3B) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Handsome](https://open.spotify.com/album/75L3Tq36JRPGF4z86UhVUw) | 3:45 |
-| 14 | [Lover Girl](https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg) | 2:44 |
-| 15 | [American Dream](https://open.spotify.com/track/1NryN6SoRm8J8TBqzfIGST) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Don’t Cry Because It’s Over](https://open.spotify.com/album/08Fg1X85feUIInMbyaxIXI) | 2:39 |
-| 16 | [Break the Girl](https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI) | 3:31 |
+| 11 | [changed it all](https://open.spotify.com/track/2BvqkFHPPQ3s1lUD9Y8Lyj) | [benjamin marshall](https://open.spotify.com/artist/43uKxuazcxU13X6jFrlFlQ) | [changed it all](https://open.spotify.com/album/45zOk2s5PyA8V10vCSoleJ) | 5:19 |
+| 12 | [Friend Of Mine](https://open.spotify.com/track/3a1lLFOwCFU3XjIH0iwFrD) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Friend Of Mine](https://open.spotify.com/album/7h0ZdjeQOxEDYYc0Mr5YhE) | 2:50 |
+| 13 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 |
+| 14 | [Handsome](https://open.spotify.com/track/2GIddrm2ihwIyNIXTbGL3B) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Handsome](https://open.spotify.com/album/75L3Tq36JRPGF4z86UhVUw) | 3:45 |
+| 15 | [Lover Girl](https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg) | 2:44 |
+| 16 | [American Dream](https://open.spotify.com/track/1NryN6SoRm8J8TBqzfIGST) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Don’t Cry Because It’s Over](https://open.spotify.com/album/08Fg1X85feUIInMbyaxIXI) | 2:39 |
 | 17 | [legs](https://open.spotify.com/track/41j4n25X0gRSJi04wD6Avp) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [legs](https://open.spotify.com/album/77LhNmOedKEN7rDEvdVKNc) | 3:09 |
 | 18 | [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 |
 | 19 | [test my love](https://open.spotify.com/track/48EIXgkf4pDzZ6iuSnWQeV) | [Tommy Saint](https://open.spotify.com/artist/319gCjNoBJc8AaIPkWhCKH) | [test my love / who knows?](https://open.spotify.com/album/2q1JHhM2nvZnMUm3lbStDv) | 1:42 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 119 | [Skeletons](https://open.spotify.com/track/4BqgUcV7mhUwLbO18JQrqW) | [3lijah](https://open.spotify.com/artist/0kDEuNVNp2RC9VUThcATI1) | [Skeletons](https://open.spotify.com/album/3H2EzKT4dEZmfNcRKnVAV1) | 2:41 |
 | 120 | [Baby Chop](https://open.spotify.com/track/7uE1ItStahZOmoJTGBfR9w) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb), [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Baby Chop](https://open.spotify.com/album/2T5gFlPWWhKIgLjAORrIwh) | 3:33 |
 
-Snapshot ID: `AAAAAMi9cskwHBxadOR+O4I+mMfrXxk6`
+Snapshot ID: `AAAAAE5gpBlWSkI05qeuFdhjQaIgx6Cq`

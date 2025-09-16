@@ -1,6 +1,6 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 80706,
+  "num_followers": 80740,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 283266,
-      "name": "Eye 2 Eye",
-      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "In the Moment",
         "url": "https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 251960,
       "name": "In the Moment",
       "url": "https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 283266,
+      "name": "Eye 2 Eye",
+      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
     },
     {
       "added_at": "2020-08-19 19:15:51",

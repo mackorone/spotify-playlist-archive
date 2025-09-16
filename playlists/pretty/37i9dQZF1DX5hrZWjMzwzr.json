@@ -1,6 +1,6 @@
 {
   "description": "Popkillery rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i wszystkich nominowanych utwor\u00f3w w kategorii singiel roku.",
-  "num_followers": 10783,
+  "num_followers": 10782,
   "original_name": "Popkillery 2025: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,26 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
+        "name": "INTRODESTRUKCJA",
+        "url": "https://open.spotify.com/album/2Ww21uhTbsK2Z3b6yb9GRA"
+      },
+      "artists": [
+        {
+          "name": "Macias",
+          "url": "https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho"
+        },
+        {
+          "name": "White Widow",
+          "url": "https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "INTRODESTRUKCJA",
+      "url": "https://open.spotify.com/track/1T4n3A9KWa2Gno5tJlMqwf"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
         "name": "INDICA",
         "url": "https://open.spotify.com/album/0EBbd5arpiQ8oGtL59JTHh"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 210666,
       "name": "INDICA",
       "url": "https://open.spotify.com/track/7hUFPuqd0dCGypZMbZWdPS"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
-        "name": "INTRODESTRUKCJA",
-        "url": "https://open.spotify.com/album/2Ww21uhTbsK2Z3b6yb9GRA"
-      },
-      "artists": [
-        {
-          "name": "Macias",
-          "url": "https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho"
-        },
-        {
-          "name": "White Widow",
-          "url": "https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "INTRODESTRUKCJA",
-      "url": "https://open.spotify.com/track/1T4n3A9KWa2Gno5tJlMqwf"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -859,30 +859,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "Jab\u0142onie",
-        "url": "https://open.spotify.com/album/5OttKKlgmFMDUbTLIERFrL"
-      },
-      "artists": [
-        {
-          "name": "Donatan",
-          "url": "https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV"
-        },
-        {
-          "name": "Cleo",
-          "url": "https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR"
-        },
-        {
-          "name": "Hinol Polska Wersja",
-          "url": "https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg"
-        }
-      ],
-      "duration_ms": 192162,
-      "name": "Jab\u0142onie",
-      "url": "https://open.spotify.com/track/6Og6qvFUolWrZy2jRjYHI2"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "Ty Wiesz",
         "url": "https://open.spotify.com/album/3WMrFBSnIzZOucQTEy0uBU"
       },
@@ -907,6 +883,30 @@
       "duration_ms": 169903,
       "name": "Ty Wiesz",
       "url": "https://open.spotify.com/track/0QfTXFJdnx42T8DeTWWwN6"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "Jab\u0142onie",
+        "url": "https://open.spotify.com/album/5OttKKlgmFMDUbTLIERFrL"
+      },
+      "artists": [
+        {
+          "name": "Donatan",
+          "url": "https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV"
+        },
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR"
+        },
+        {
+          "name": "Hinol Polska Wersja",
+          "url": "https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg"
+        }
+      ],
+      "duration_ms": 192162,
+      "name": "Jab\u0142onie",
+      "url": "https://open.spotify.com/track/6Og6qvFUolWrZy2jRjYHI2"
     },
     {
       "added_at": "2025-04-24 21:35:46",

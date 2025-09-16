@@ -1795,6 +1795,40 @@
     },
     {
       "album": {
+        "name": "HiROQUEST 3: Paragon",
+        "url": "https://open.spotify.com/album/5ToNEVm57lfjhzG4vgyFQx"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "XANDRA",
+          "url": "https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149237,
+      "name": "I'm Going Out",
+      "url": "https://open.spotify.com/track/2nVimx5yTpm84haRk57R98"
+    },
+    {
+      "album": {
         "name": "I'm Going Out",
         "url": "https://open.spotify.com/album/6seHMtLxNCftuY6ZWbVkVM"
       },
@@ -1890,7 +1924,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 149237,
       "name": "I'm Going Out",
       "url": "https://open.spotify.com/track/7AZJcrLSiClbDgFBoUCELN"

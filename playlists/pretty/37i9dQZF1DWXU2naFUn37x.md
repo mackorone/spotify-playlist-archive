@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Sick Luke in cover della playlist con il top dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,962 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,970 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [KILLA KILLA \(feat\. Guè, Faneto & Melons\)](https://open.spotify.com/track/38BP0SrMvhIHggZxOCxw9S) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4), [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe) | [KILLA KILLA \(feat\. Guè, Faneto & Melons\)](https://open.spotify.com/album/65yE4D2rf9wOyVe711wSLo) | 3:05 |
 | 50 | [giovani e svegli \#147 \(feat\. LILCR\)](https://open.spotify.com/track/33KFWLWKqxLzWVIyFzoAG7) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN), [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [RANDAGI 24.7](https://open.spotify.com/album/2L6rd8mVWDkv4ybxrXRD2c) | 2:32 |
 
-Snapshot ID: `AAAAACaJJwRtWnioQ2BW3TuD3xYKdK7k`
+Snapshot ID: `AAAAAO0ENwFT6AeioY9XQTzouolBCR5n`

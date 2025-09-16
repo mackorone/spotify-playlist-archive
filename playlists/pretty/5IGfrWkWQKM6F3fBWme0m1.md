@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 
 > inspirations &amp; favorites
 
-[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,495 likes - 777 songs - 2 day 13 hr 16 min
+[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,493 likes - 777 songs - 2 day 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 | 106 | [love him](https://open.spotify.com/track/4cDn73Qv5V3aRcPXIZOAwo) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/1qSGvtNStL6ELifn51W1va) | 3:13 |
 | 107 | [Calling Out](https://open.spotify.com/track/2dpE7B7usqDVM9By5hnHJW) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Calling Out](https://open.spotify.com/album/3xjBSN9UBdB5E1x7CBXUbg) | 4:41 |
 | 108 | [Freshwater Aquarium System](https://open.spotify.com/track/4l6Nc1NCwXwA41sa6gGX6f) | [Text Chunk](https://open.spotify.com/artist/1rK3Yx8fDn4uaECVlehOqf), [Windowseeker](https://open.spotify.com/artist/6yVZrQ8vipduXl3G7TR9hU) | [Freshwater Aquarium System](https://open.spotify.com/album/7yIk23aN1nPHg4SD92fCI9) | 6:33 |
-| 109 | [Stone Cold](https://open.spotify.com/track/3q9GxRuCLbzUbIQcQYFXAo) | [Groove Chronicles \(Noodles\)](https://open.spotify.com/artist/52ra5pt8grwDXQaE2AO5on) | [Dark swing uk garage compilation](https://open.spotify.com/album/6ZT3GiW2oduwS7eOlnuEv0) | 5:37 |
+| 109 | [Stone Cold](https://open.spotify.com/track/3q9GxRuCLbzUbIQcQYFXAo) | [groove chronicles](https://open.spotify.com/artist/52ra5pt8grwDXQaE2AO5on) | [Dark swing uk garage compilation](https://open.spotify.com/album/6ZT3GiW2oduwS7eOlnuEv0) | 5:37 |
 | 110 | [All Mine](https://open.spotify.com/track/39JgaLMI4kJL2dJE7Dacap) | [Lily Juniper](https://open.spotify.com/artist/45kZYjtuhpFuzQC7l2odVP) | [All Mine](https://open.spotify.com/album/3zdwBoGeedCzXRT2GUnzrH) | 3:47 |
 | 111 | [going through](https://open.spotify.com/track/0lYDnIodF0hQOeAvHwxH6M) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [music for stealing to](https://open.spotify.com/album/5uYtMIrMlJaJSeeRExvaQK) | 5:47 |
 | 112 | [Missed Call](https://open.spotify.com/track/2CsJF93DaHd8mYwYX3JtLL) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:51 |

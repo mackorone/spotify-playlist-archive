@@ -1,6 +1,6 @@
 {
   "description": "The best metal songs of the 90s. Cover: Metallica",
-  "num_followers": 1323626,
+  "num_followers": 1324051,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Around the Fur",
-        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 299866,
-      "name": "Be Quiet and Drive (Far Away)",
-      "url": "https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
         "name": "Hellbilly Deluxe",
         "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 258266,
       "name": "Blind",
       "url": "https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 299866,
+      "name": "Be Quiet and Drive (Far Away)",
+      "url": "https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 270920,
+      "name": "Falling Away from Me",
+      "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
         "name": "Reload",
         "url": "https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 438120,
       "name": "Fear of the Dark - 2015 Remaster",
       "url": "https://open.spotify.com/track/6p8eFfPw3nQkf37aT3AkmK"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
-        "name": "Issues",
-        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 270920,
-      "name": "Falling Away from Me",
-      "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 234226,
-      "name": "Du hast",
-      "url": "https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
         "name": "Metallica (Remastered)",
         "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 324600,
       "name": "Sad But True (Remastered)",
       "url": "https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 234226,
+      "name": "Du hast",
+      "url": "https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
       },
       "artists": [
         {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 246733,
-      "name": "Symphony Of Destruction",
-      "url": "https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ"
+      "duration_ms": 264800,
+      "name": "I'm Broken",
+      "url": "https://open.spotify.com/track/2M5WTwqnkyz7bW6P1CiD6q"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Far Beyond Driven",
-        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "I'm Broken",
-      "url": "https://open.spotify.com/track/2M5WTwqnkyz7bW6P1CiD6q"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
         "name": "Life Is Peachy",
         "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 153600,
       "name": "A.D.I.D.A.S.",
       "url": "https://open.spotify.com/track/0xgsyoVvRFSYvV5cdtYhX1"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "Symphony Of Destruction",
+      "url": "https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Slipknot (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "Spit It Out",
-      "url": "https://open.spotify.com/track/2W2eaLVKv9NObcLXlYRZZo"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
         "name": "Three Dollar Bill, Y'all $",
         "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 308093,
       "name": "Counterfeit",
       "url": "https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "Spit It Out",
+      "url": "https://open.spotify.com/track/2W2eaLVKv9NObcLXlYRZZo"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Demanufacture (Special Edition)",
-        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 237360,
-      "name": "Replica",
-      "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
         "name": "Chaos A.D.",
         "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Cleansing",
-        "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
+        "name": "Demanufacture (Special Edition)",
+        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
       },
       "artists": [
         {
-          "name": "Prong",
-          "url": "https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B"
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
         }
       ],
-      "duration_ms": 251533,
-      "name": "Snap Your Fingers, Snap Your Neck",
-      "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
+      "duration_ms": 237360,
+      "name": "Replica",
+      "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -991,6 +975,22 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
+        "name": "Cleansing",
+        "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
+      },
+      "artists": [
+        {
+          "name": "Prong",
+          "url": "https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "Snap Your Fingers, Snap Your Neck",
+      "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
         "name": "Lights...Camera...Revolution",
         "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 348093,
       "name": "You Can't Bring Me Down",
       "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
-        "name": "Blues for the Red Sun",
-        "url": "https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f"
-      },
-      "artists": [
-        {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
-        }
-      ],
-      "duration_ms": 217906,
-      "name": "Green Machine",
-      "url": "https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "March Or Die",
-        "url": "https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex"
+        "name": "Blues for the Red Sun",
+        "url": "https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f"
       },
       "artists": [
         {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
         }
       ],
-      "duration_ms": 275160,
-      "name": "Hellraiser",
-      "url": "https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI"
+      "duration_ms": 217906,
+      "name": "Green Machine",
+      "url": "https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -1067,6 +1051,22 @@
       "duration_ms": 291733,
       "name": "War Ensemble",
       "url": "https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
+        "name": "March Or Die",
+        "url": "https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 275160,
+      "name": "Hellraiser",
+      "url": "https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -1167,38 +1167,6 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Nola",
-        "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
-      },
-      "artists": [
-        {
-          "name": "DOWN",
-          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
-        }
-      ],
-      "duration_ms": 282506,
-      "name": "Stone the Crow",
-      "url": "https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/7kLqk3fireCdZxAZmCud3k"
-      },
-      "artists": [
-        {
-          "name": "Corrosion of Conformity",
-          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
-        }
-      ],
-      "duration_ms": 205506,
-      "name": "Vote with a Bullet",
-      "url": "https://open.spotify.com/track/5Z7U8TRHAlX2uL2lVYv5Wa"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
         "name": "KE*A*H** (Psalm 69)",
         "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
       },
@@ -1215,6 +1183,22 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
+        "name": "Nola",
+        "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
+      },
+      "artists": [
+        {
+          "name": "DOWN",
+          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
+        }
+      ],
+      "duration_ms": 282506,
+      "name": "Stone the Crow",
+      "url": "https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
         "name": "Bloody Kisses",
         "url": "https://open.spotify.com/album/127mCJhPsHAB33rOYybK04"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 675653,
       "name": "Black No. 1 (Little Miss Scare -All)",
       "url": "https://open.spotify.com/track/6HtFpG2WX3TfB8oLLua3XJ"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/7kLqk3fireCdZxAZmCud3k"
+      },
+      "artists": [
+        {
+          "name": "Corrosion of Conformity",
+          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
+        }
+      ],
+      "duration_ms": 205506,
+      "name": "Vote with a Bullet",
+      "url": "https://open.spotify.com/track/5Z7U8TRHAlX2uL2lVYv5Wa"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
+        "name": "Album of the Year",
+        "url": "https://open.spotify.com/album/15eiCGvldXlDbIz9ZQLmw6"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/0FxRbTtlo8AutEbifokqGf"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
         "name": "Demanufacture (Special Edition)",
         "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 242733,
       "name": "Say Just Words",
       "url": "https://open.spotify.com/track/1yrquRdZk965GKv2kDHGpL"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
-        "name": "Album of the Year",
-        "url": "https://open.spotify.com/album/15eiCGvldXlDbIz9ZQLmw6"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Ashes to Ashes",
-      "url": "https://open.spotify.com/track/0FxRbTtlo8AutEbifokqGf"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "King for a Day, Fool for a Lifetime (2016 Remaster; Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6KHnSZsn0E2OzcVChd8UUW"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "The Gentle Art of Making Enemies - 2016 Remaster",
-      "url": "https://open.spotify.com/track/66uYWEw9gJxkPw6STqNcKl"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
         "name": "Obsolete",
         "url": "https://open.spotify.com/album/2T2G5q8KHo5wAAitrRzJN0"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 276506,
       "name": "Descent",
       "url": "https://open.spotify.com/track/32IeMAhxo8nhUTVdFGwh0x"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
+        "name": "King for a Day, Fool for a Lifetime (2016 Remaster; Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6KHnSZsn0E2OzcVChd8UUW"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "The Gentle Art of Making Enemies - 2016 Remaster",
+      "url": "https://open.spotify.com/track/66uYWEw9gJxkPw6STqNcKl"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Coal Chamber",
-        "url": "https://open.spotify.com/album/1f67cRBr8LloCk9sEdUINv"
-      },
-      "artists": [
-        {
-          "name": "Coal Chamber",
-          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
-        }
-      ],
-      "duration_ms": 254693,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/34SVUs66rBnOqsCJl45Ek8"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
         "name": "Persistence Of Time",
         "url": "https://open.spotify.com/album/5dTWuMi1JUNNAgqdOfBsuQ"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 164266,
       "name": "Got The Time",
       "url": "https://open.spotify.com/track/1bcioXEBfobgGko8dsexRr"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
+        "name": "Coal Chamber",
+        "url": "https://open.spotify.com/album/1f67cRBr8LloCk9sEdUINv"
+      },
+      "artists": [
+        {
+          "name": "Coal Chamber",
+          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
+        }
+      ],
+      "duration_ms": 254693,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/34SVUs66rBnOqsCJl45Ek8"
     },
     {
       "added_at": "2024-06-10 14:17:16",

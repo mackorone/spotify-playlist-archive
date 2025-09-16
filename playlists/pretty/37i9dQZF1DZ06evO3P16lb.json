@@ -1,12 +1,12 @@
 {
   "description": "This is Lupita Infante. The essential tracks, all in one playlist.",
-  "num_followers": 629,
+  "num_followers": 631,
   "original_name": "This Is Lupita Infante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAABiOmoLd1nNUij1Pw5gsA0s",
+  "snapshot_id": "aMYFgAAAAADIM7ONcPgoZUIhKN7F7kRL",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tengo Mal Gusto",
-        "url": "https://open.spotify.com/album/3yug8VemCVhdreUliqZLdK"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 147745,
-      "name": "Tengo Mal Gusto",
-      "url": "https://open.spotify.com/track/0KSDEL5lOswphHavdBTczY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful City",
         "url": "https://open.spotify.com/album/3Fb5AZkT4XuFHctZ07Kvor"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 259150,
       "name": "Beautiful City",
       "url": "https://open.spotify.com/track/1pGyDZVBQCBKCC8JfO92iR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tengo Mal Gusto",
+        "url": "https://open.spotify.com/album/3yug8VemCVhdreUliqZLdK"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 147745,
+      "name": "Tengo Mal Gusto",
+      "url": "https://open.spotify.com/track/0KSDEL5lOswphHavdBTczY"
     },
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Como en las Pel\u00edculas de Antes",
+        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 174033,
+      "name": "Ya No Vuelvas",
+      "url": "https://open.spotify.com/track/5lqrDIEQy8YORSY8MoW37I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cumbiecitas Elegantes",
         "url": "https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 167629,
       "name": "Cumbiecitas Elegantes",
       "url": "https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Como en las Pel\u00edculas de Antes",
-        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 174033,
-      "name": "Ya No Vuelvas",
-      "url": "https://open.spotify.com/track/5lqrDIEQy8YORSY8MoW37I"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Como en las Pel\u00edculas de Antes",
-        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 144033,
-      "name": "Hazme Tuya",
-      "url": "https://open.spotify.com/track/6fW2PaMU92GdkblBzeZ5E4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All About Love",
         "url": "https://open.spotify.com/album/4T1RD1g6dtAbw44aob1iPM"
       },
@@ -303,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Como en las Pel\u00edculas de Antes",
+        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 144033,
+      "name": "Hazme Tuya",
+      "url": "https://open.spotify.com/track/6fW2PaMU92GdkblBzeZ5E4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Serenata",
         "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
       },
@@ -315,22 +315,6 @@
       "duration_ms": 214088,
       "name": "Sabor a Mi",
       "url": "https://open.spotify.com/track/7fJnVdI1eJL3gyclZSFERl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Corona Es M\u00eda",
-        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 144765,
-      "name": "La Corona Es M\u00eda",
-      "url": "https://open.spotify.com/track/6bCdnaCEvVsezasjOBaiNW"
     },
     {
       "added_at": null,
@@ -351,6 +335,26 @@
       "duration_ms": 194182,
       "name": "Se Me Va la Voz",
       "url": "https://open.spotify.com/track/2Ms5UbZ2jkT9m2hDWDJdgt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Corona Es M\u00eda",
+        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        },
+        {
+          "name": "Alejandro Ascencio",
+          "url": "https://open.spotify.com/artist/1LJTfklgWcEu2KvCBZJEgf"
+        }
+      ],
+      "duration_ms": 213448,
+      "name": "Cuando Me Quieras",
+      "url": "https://open.spotify.com/track/6NlJn11gSq75pfd74F4nYz"
     },
     {
       "added_at": null,
@@ -387,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Corona Es M\u00eda",
-        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        },
-        {
-          "name": "Alejandro Ascencio",
-          "url": "https://open.spotify.com/artist/1LJTfklgWcEu2KvCBZJEgf"
-        }
-      ],
-      "duration_ms": 213448,
-      "name": "Cuando Me Quieras",
-      "url": "https://open.spotify.com/track/6NlJn11gSq75pfd74F4nYz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Herederos",
         "url": "https://open.spotify.com/album/0hABgz6rVsCKDjGW9TtLtY"
       },
@@ -427,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Corona Es M\u00eda",
+        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 144765,
+      "name": "La Corona Es M\u00eda",
+      "url": "https://open.spotify.com/track/6bCdnaCEvVsezasjOBaiNW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luna de Octubre",
         "url": "https://open.spotify.com/album/6IhmFfKfKtrcoGhqIEVGW8"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 194932,
       "name": "Luna de Octubre",
       "url": "https://open.spotify.com/track/5MXS3tVsNlONTl56cIW3rv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 207625,
+      "name": "Por Tu Amor",
+      "url": "https://open.spotify.com/track/5EUSHPZCMD9Cvr56cUGepa"
     },
     {
       "added_at": null,
@@ -475,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 207625,
-      "name": "Por Tu Amor",
-      "url": "https://open.spotify.com/track/5EUSHPZCMD9Cvr56cUGepa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Podemos (No Volver a la Ciudad)",
         "url": "https://open.spotify.com/album/4YzAnJ4kj0GDILoM1g8lhO"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 187765,
       "name": "Podemos (No Volver a la Ciudad)",
       "url": "https://open.spotify.com/track/12jIkwudYzvOEjd4ImdORM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 160589,
+      "name": "Yo He Nacido Mexicana",
+      "url": "https://open.spotify.com/track/1yejtctJKLV7weRjDLtwYx"
     },
     {
       "added_at": null,
@@ -539,78 +555,6 @@
       "duration_ms": 154821,
       "name": "Te Digo No",
       "url": "https://open.spotify.com/track/2CxjPf7R1TmKt8ADaIu3ff"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 160589,
-      "name": "Yo He Nacido Mexicana",
-      "url": "https://open.spotify.com/track/1yejtctJKLV7weRjDLtwYx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flor Sin Reto\u00f1o",
-        "url": "https://open.spotify.com/album/1IBxPCtaWBMojqn7XkIiSy"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        },
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 196939,
-      "name": "Flor Sin Reto\u00f1o",
-      "url": "https://open.spotify.com/track/2KDYFxmIMYR7qUO2IkG9jx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Como en las Pel\u00edculas de Antes",
-        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 188104,
-      "name": "C\u00f3mo Olvidarte",
-      "url": "https://open.spotify.com/track/5TcLdIf7BgSRvidCtrs4Vw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Corona Es M\u00eda",
-        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        },
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 212803,
-      "name": "Al\u00e9rgica",
-      "url": "https://open.spotify.com/track/1cedYyc32Bpp6VFHAnoFGp"
     },
     {
       "added_at": null,
@@ -663,6 +607,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Como en las Pel\u00edculas de Antes",
+        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 188104,
+      "name": "C\u00f3mo Olvidarte",
+      "url": "https://open.spotify.com/track/5TcLdIf7BgSRvidCtrs4Vw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Corona Es M\u00eda",
+        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        },
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 212803,
+      "name": "Al\u00e9rgica",
+      "url": "https://open.spotify.com/track/1cedYyc32Bpp6VFHAnoFGp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Puras de Mi Abuelo, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk"
       },
@@ -675,6 +655,42 @@
       "duration_ms": 194705,
       "name": "Cien A\u00f1os - En Vivo",
       "url": "https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flor Sin Reto\u00f1o",
+        "url": "https://open.spotify.com/album/1IBxPCtaWBMojqn7XkIiSy"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        },
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 196939,
+      "name": "Flor Sin Reto\u00f1o",
+      "url": "https://open.spotify.com/track/2KDYFxmIMYR7qUO2IkG9jx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mundo (En Vivo)",
+        "url": "https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 212983,
+      "name": "El Mundo - En Vivo",
+      "url": "https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc"
     },
     {
       "added_at": null,
@@ -723,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mundo (En Vivo)",
-        "url": "https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 212983,
-      "name": "El Mundo - En Vivo",
-      "url": "https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cucurrucuc\u00fa Paloma",
         "url": "https://open.spotify.com/album/3yIXEqENgPgtJnJC7oYIci"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan",
-        "url": "https://open.spotify.com/album/5CIPyfvFZ9kFPh6WFNWrcS"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 431032,
-      "name": "El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan",
-      "url": "https://open.spotify.com/track/3srgVBgOp0l96HMSzhkObm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano y Mujer II",
         "url": "https://open.spotify.com/album/0PlPEqIeW4t3oTa0biWs0C"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 259624,
       "name": "Without You",
       "url": "https://open.spotify.com/track/2E5FC6gMayGYlilOQ53ZSi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan",
+        "url": "https://open.spotify.com/album/5CIPyfvFZ9kFPh6WFNWrcS"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 431032,
+      "name": "El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan",
+      "url": "https://open.spotify.com/track/3srgVBgOp0l96HMSzhkObm"
     },
     {
       "added_at": null,

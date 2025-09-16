@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Eli Preiss
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,587 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,589 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 19 | [Räuber](https://open.spotify.com/track/7FlD4gnVO1DVl4QDwjwW71) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Räuber](https://open.spotify.com/album/5rKwLPSnTXWRh5vimce5NW) | 2:20 |
 | 20 | [MÄNNER LOL](https://open.spotify.com/track/1vx6xAbuY0Z48JPxL3RXD8) | [YAENNIVER](https://open.spotify.com/artist/62yGrNS5EcrAnBVlDtlBEw) | [MÄNNER LOL](https://open.spotify.com/album/6LDv1ipNw03bAsGBLMcyqA) | 3:07 |
 | 21 | [Tanzen](https://open.spotify.com/track/1jp14TUFD8mIIcSZDuFyV4) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Tanzen](https://open.spotify.com/album/1MGQXlrIoxlcUZlO93hdVB) | 2:25 |
-| 22 | [rewe](https://open.spotify.com/track/0pJAqvwEz4d2yPdqpdqkAl) | [cami](https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt) | [rewe](https://open.spotify.com/album/08BXhW2eMp3dE9nGYzEWuv) | 1:47 |
-| 23 | [Durch die Nacht](https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Durch die Nacht](https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97) | 2:53 |
+| 22 | [Durch die Nacht](https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Durch die Nacht](https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97) | 2:53 |
+| 23 | [rewe](https://open.spotify.com/track/0pJAqvwEz4d2yPdqpdqkAl) | [cami](https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt) | [rewe](https://open.spotify.com/album/08BXhW2eMp3dE9nGYzEWuv) | 1:47 |
 | 24 | [rote ampeln](https://open.spotify.com/track/22HjXqGnKDZwsevlnsruJt) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [rote ampeln](https://open.spotify.com/album/44NjT6CFxO77HmbKZrs7VS) | 2:17 |
 | 25 | [LVL UP](https://open.spotify.com/track/4kxdyFBmxr4ue3Ip2n2vjH) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID), [Tschickgott](https://open.spotify.com/artist/6sqqInzatrr51ZdgQ4xVvF) | [LVL UP](https://open.spotify.com/album/6t7eGVJzT9C6NMix8p7L9y) | 2:23 |
 | 26 | [Seltsame Welt](https://open.spotify.com/track/6pKeiH8i03FKfwTPfPi2F6) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh), [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Seltsame Welt](https://open.spotify.com/album/0KqRCqU3oh9vL6nBrxPIWU) | 2:42 |

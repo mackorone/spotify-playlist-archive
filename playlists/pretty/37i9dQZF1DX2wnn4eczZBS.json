@@ -303,22 +303,6 @@
     {
       "added_at": "2025-09-04 22:00:30",
       "album": {
-        "name": "Huis van Zwart en Rood / Cederhout",
-        "url": "https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe"
-      },
-      "artists": [
-        {
-          "name": "De Nachtwacht",
-          "url": "https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp"
-        }
-      ],
-      "duration_ms": 136874,
-      "name": "Huis van Zwart en Rood",
-      "url": "https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
         "name": "Unity",
         "url": "https://open.spotify.com/album/1FHy6omwRDs59igwSLZdvk"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 165661,
       "name": "Discozwemmen",
       "url": "https://open.spotify.com/track/0VlQjCCBWiU6IbGDfKcF7u"
+    },
+    {
+      "added_at": "2025-09-04 22:00:30",
+      "album": {
+        "name": "Huis van Zwart en Rood / Cederhout",
+        "url": "https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe"
+      },
+      "artists": [
+        {
+          "name": "De Nachtwacht",
+          "url": "https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp"
+        }
+      ],
+      "duration_ms": 136874,
+      "name": "Huis van Zwart en Rood",
+      "url": "https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs"
     },
     {
       "added_at": "2025-09-04 22:00:30",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-09-04 22:00:30",
       "album": {
-        "name": "2 HIGH 2 SOCIETY",
-        "url": "https://open.spotify.com/album/4F9UoGdfxO0yy3nXFv5hbE"
-      },
-      "artists": [
-        {
-          "name": "Gotu Jim",
-          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "Spookstad",
-      "url": "https://open.spotify.com/track/1hBT3YVAygNFTSP3ntqzp4"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
         "name": "Dansen met de dood",
         "url": "https://open.spotify.com/album/3iKTDcSlzjaUlLfYENtrW7"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 204770,
       "name": "Dansen met de dood",
       "url": "https://open.spotify.com/track/4l9mEd8BcksX3maLREZaX5"
+    },
+    {
+      "added_at": "2025-09-04 22:00:30",
+      "album": {
+        "name": "2 HIGH 2 SOCIETY",
+        "url": "https://open.spotify.com/album/4F9UoGdfxO0yy3nXFv5hbE"
+      },
+      "artists": [
+        {
+          "name": "Gotu Jim",
+          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
+        }
+      ],
+      "duration_ms": 199466,
+      "name": "Spookstad",
+      "url": "https://open.spotify.com/track/1hBT3YVAygNFTSP3ntqzp4"
     },
     {
       "added_at": "2025-09-04 22:00:30",
@@ -491,6 +491,26 @@
     {
       "added_at": "2025-09-04 22:00:30",
       "album": {
+        "name": "Liefdesliedjes",
+        "url": "https://open.spotify.com/album/2QtZT3JR3tOkPhdLtm3Juz"
+      },
+      "artists": [
+        {
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+        },
+        {
+          "name": "Ploegendienst",
+          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
+        }
+      ],
+      "duration_ms": 133181,
+      "name": "Liefdesliedjes",
+      "url": "https://open.spotify.com/track/4PzyPRTRkMB6JsDlVGjuNu"
+    },
+    {
+      "added_at": "2025-09-04 22:00:30",
+      "album": {
         "name": "Joanne",
         "url": "https://open.spotify.com/album/2Y0fsb4qtnSII8s9Y9RPZr"
       },
@@ -523,6 +543,22 @@
     {
       "added_at": "2025-09-04 22:00:30",
       "album": {
+        "name": "Kubus In Een Ballenbak",
+        "url": "https://open.spotify.com/album/2MRU9IpUwOsXN3n1dfXhFd"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "duration_ms": 145361,
+      "name": "Kubus In Een Ballenbak",
+      "url": "https://open.spotify.com/track/6gVbNT8Tqy1OzcnmDJYdcP"
+    },
+    {
+      "added_at": "2025-09-04 22:00:30",
+      "album": {
         "name": "Neem Het Dan Terug",
         "url": "https://open.spotify.com/album/2IDr4joV1YC6rivjvCACtg"
       },
@@ -539,38 +575,18 @@
     {
       "added_at": "2025-09-04 22:00:30",
       "album": {
-        "name": "Liefdesliedjes",
-        "url": "https://open.spotify.com/album/2QtZT3JR3tOkPhdLtm3Juz"
+        "name": "Vlinder",
+        "url": "https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f"
       },
       "artists": [
         {
           "name": "Sophie Straat",
           "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
-        },
-        {
-          "name": "Ploegendienst",
-          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
         }
       ],
-      "duration_ms": 133181,
-      "name": "Liefdesliedjes",
-      "url": "https://open.spotify.com/track/4PzyPRTRkMB6JsDlVGjuNu"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Kubus In Een Ballenbak",
-        "url": "https://open.spotify.com/album/2MRU9IpUwOsXN3n1dfXhFd"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        }
-      ],
-      "duration_ms": 145361,
-      "name": "Kubus In Een Ballenbak",
-      "url": "https://open.spotify.com/track/6gVbNT8Tqy1OzcnmDJYdcP"
+      "duration_ms": 169604,
+      "name": "Vlinder",
+      "url": "https://open.spotify.com/track/1ylgbB1PBVQPtE9TQvRNH8"
     },
     {
       "added_at": "2025-09-04 22:00:30",
@@ -623,22 +639,6 @@
     {
       "added_at": "2025-09-04 22:00:30",
       "album": {
-        "name": "Partijtje (Deluxe)",
-        "url": "https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0"
-      },
-      "artists": [
-        {
-          "name": "Prins S. en De Geit",
-          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
-        }
-      ],
-      "duration_ms": 185547,
-      "name": "Disco Dip",
-      "url": "https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
         "name": "narcose",
         "url": "https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 173816,
       "name": "narcose",
       "url": "https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
-        "name": "Krijt",
-        "url": "https://open.spotify.com/album/14XuQas4lx3fztkq8H5GjE"
-      },
-      "artists": [
-        {
-          "name": "ANNE",
-          "url": "https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS"
-        }
-      ],
-      "duration_ms": 148534,
-      "name": "Krijt",
-      "url": "https://open.spotify.com/track/43EQUVQgXKeEQ3jivFdE6c"
     },
     {
       "added_at": "2025-09-04 22:00:30",
@@ -687,34 +671,34 @@
     {
       "added_at": "2025-09-04 22:00:30",
       "album": {
-        "name": "LEKKER MET DE MEIDEN v2.025",
-        "url": "https://open.spotify.com/album/3AQSe8C18CAPmlY1gCVFeV"
+        "name": "Partijtje (Deluxe)",
+        "url": "https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0"
       },
       "artists": [
         {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+          "name": "Prins S. en De Geit",
+          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
         }
       ],
-      "duration_ms": 251642,
-      "name": "LEKKER MET DE MEIDEN v2.025",
-      "url": "https://open.spotify.com/track/65vKBzAGrgUEaKNaWvl3qY"
+      "duration_ms": 185547,
+      "name": "Disco Dip",
+      "url": "https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr"
     },
     {
       "added_at": "2025-09-04 22:00:30",
       "album": {
-        "name": "Vlinder",
-        "url": "https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f"
+        "name": "Krijt",
+        "url": "https://open.spotify.com/album/14XuQas4lx3fztkq8H5GjE"
       },
       "artists": [
         {
-          "name": "Sophie Straat",
-          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+          "name": "ANNE",
+          "url": "https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS"
         }
       ],
-      "duration_ms": 169604,
-      "name": "Vlinder",
-      "url": "https://open.spotify.com/track/1ylgbB1PBVQPtE9TQvRNH8"
+      "duration_ms": 148534,
+      "name": "Krijt",
+      "url": "https://open.spotify.com/track/43EQUVQgXKeEQ3jivFdE6c"
     },
     {
       "added_at": "2025-09-04 22:00:30",
@@ -763,6 +747,22 @@
       "duration_ms": 120833,
       "name": "Waarom Ik Zo Ben",
       "url": "https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR"
+    },
+    {
+      "added_at": "2025-09-04 22:00:30",
+      "album": {
+        "name": "LEKKER MET DE MEIDEN v2.025",
+        "url": "https://open.spotify.com/album/3AQSe8C18CAPmlY1gCVFeV"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "duration_ms": 251642,
+      "name": "LEKKER MET DE MEIDEN v2.025",
+      "url": "https://open.spotify.com/track/65vKBzAGrgUEaKNaWvl3qY"
     },
     {
       "added_at": "2025-09-04 22:00:30",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-09-04 22:00:30",
       "album": {
-        "name": "Diep In De Nacht (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1Alx3D8sFOF2APdvn2XMHu"
-      },
-      "artists": [
-        {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
-        }
-      ],
-      "duration_ms": 114390,
-      "name": "Wauw",
-      "url": "https://open.spotify.com/track/2Pqh5BrKly0mN6uvavP6Xm"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
         "name": "Wildernis",
         "url": "https://open.spotify.com/album/0XcPUzHYP68CtnXoxBm1YJ"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 211186,
       "name": "Wildernis",
       "url": "https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ"
+    },
+    {
+      "added_at": "2025-09-04 22:00:30",
+      "album": {
+        "name": "Grenzeloos",
+        "url": "https://open.spotify.com/album/0Korq4Ux4pnB7HCahJ0gLj"
+      },
+      "artists": [
+        {
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "Grenzeloos",
+      "url": "https://open.spotify.com/track/1COc1Pkj7vlD4O0juYoyfV"
     }
   ],
   "unique_name": "indie.nl",

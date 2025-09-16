@@ -1,28 +1,32 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 4024,
+  "num_followers": 4025,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAD8YbkAWaQCCCziZVpXKAYK",
+  "snapshot_id": "aMYFgAAAAAChuEaOKODP0YR+L6W2kqZ6",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "My Full Name",
-        "url": "https://open.spotify.com/album/6eyXLuSwlVNIOG8JxPVEpH"
+        "name": "Wake",
+        "url": "https://open.spotify.com/album/7f9YkOw54CSn7GcMvUk89m"
       },
       "artists": [
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        },
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
         }
       ],
-      "duration_ms": 199520,
-      "name": "My Full Name",
-      "url": "https://open.spotify.com/track/3E0J3bhXAc5J7UCplVLcyS"
+      "duration_ms": 256613,
+      "name": "Wake (feat. Fleet Foxes)",
+      "url": "https://open.spotify.com/track/3BET187FKsBSEEwU5qtDXU"
     },
     {
       "added_at": null,
@@ -59,6 +63,22 @@
       "duration_ms": 176320,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Full Name",
+        "url": "https://open.spotify.com/album/6eyXLuSwlVNIOG8JxPVEpH"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "My Full Name",
+      "url": "https://open.spotify.com/track/3E0J3bhXAc5J7UCplVLcyS"
     },
     {
       "added_at": null,
@@ -268,9 +288,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 213328,
-      "name": "Hospital",
-      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
+      "duration_ms": 273235,
+      "name": "Life According To Raechel",
+      "url": "https://open.spotify.com/track/35sEqwW23uB0PqZATuQVjW"
     },
     {
       "added_at": null,
@@ -340,9 +360,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 273235,
-      "name": "Life According To Raechel",
-      "url": "https://open.spotify.com/track/35sEqwW23uB0PqZATuQVjW"
+      "duration_ms": 213328,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
     },
     {
       "added_at": null,
@@ -403,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "...but i'd rather be with you, too",
         "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
       },
@@ -419,26 +455,6 @@
       "duration_ms": 197790,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Neighbor Song (ft. Madison Cunningham)",
-        "url": "https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 220230,
-      "name": "Neighbor Song [Feat. Madison Cunningham]",
-      "url": "https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS"
     },
     {
       "added_at": null,
@@ -463,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Neighbor Song (ft. Madison Cunningham)",
+        "url": "https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 220230,
+      "name": "Neighbor Song [Feat. Madison Cunningham]",
+      "url": "https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revealer",
         "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
@@ -472,29 +508,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 228800,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "First Class to Nowhere",
-        "url": "https://open.spotify.com/album/5KORmq9soICEzIjR7IME7c"
-      },
-      "artists": [
-        {
-          "name": "The Technicolors",
-          "url": "https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "First Class to Nowhere",
-      "url": "https://open.spotify.com/track/6I4U6o4pGEMVCZosWFU6GY"
+      "duration_ms": 306783,
+      "name": "All I\u2019ve Ever Known",
+      "url": "https://open.spotify.com/track/3asrVoL2yOlr6LSAamJ94L"
     },
     {
       "added_at": null,
@@ -539,18 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+        "name": "First Class to Nowhere",
+        "url": "https://open.spotify.com/album/5KORmq9soICEzIjR7IME7c"
       },
       "artists": [
+        {
+          "name": "The Technicolors",
+          "url": "https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 306783,
-      "name": "All I\u2019ve Ever Known",
-      "url": "https://open.spotify.com/track/3asrVoL2yOlr6LSAamJ94L"
+      "duration_ms": 244760,
+      "name": "First Class to Nowhere",
+      "url": "https://open.spotify.com/track/6I4U6o4pGEMVCZosWFU6GY"
     },
     {
       "added_at": null,
@@ -659,18 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
+        "name": "Perfect Dark (Live at RAK)",
+        "url": "https://open.spotify.com/album/303nhwxDFiKoAufpp65WKc"
       },
       "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 215200,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
+      "duration_ms": 214467,
+      "name": "Perfect Dark - Live at RAK",
+      "url": "https://open.spotify.com/track/3TqhwOVi57cSV2K0Pr6O1m"
     },
     {
       "added_at": null,
@@ -707,22 +731,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Dark (Live at RAK)",
-        "url": "https://open.spotify.com/album/303nhwxDFiKoAufpp65WKc"
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
       },
       "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 214467,
-      "name": "Perfect Dark - Live at RAK",
-      "url": "https://open.spotify.com/track/3TqhwOVi57cSV2K0Pr6O1m"
+      "duration_ms": 215200,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
     },
     {
       "added_at": null,
@@ -747,22 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live To Tape: Volume II",
-        "url": "https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU"
+        "name": "The Golden Heart Protector",
+        "url": "https://open.spotify.com/album/0jxAojVGsPyWPz9F1JjjAn"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "Margaret Glaspy",
+          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
         },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 202319,
-      "name": "Be My Witness (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/4uPV46l0LEqx6VivcqHCIc"
+      "duration_ms": 220622,
+      "name": "The Book Of Love (with Madison Cunningham)",
+      "url": "https://open.spotify.com/track/5d5SB3s3ksk34OIDb4EoaW"
     },
     {
       "added_at": null,
@@ -799,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/2ilclX1VSOuOhcPBWI4rkK"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 268053,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0MeWGR4nVsu9x67kPTxC0R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Folkocracy",
         "url": "https://open.spotify.com/album/4FYVErCjwVvkO3XpDFtOQ2"
       },
@@ -819,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "For The Sake Of The Rhyme",
+        "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 241973,
+      "name": "Beauty Into Clich\u00e9s",
+      "url": "https://open.spotify.com/track/0kUnazSkIJAOJl3GiWEC94"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
       },
@@ -831,6 +883,22 @@
       "duration_ms": 289461,
       "name": "Army Of Me - Spotify Single",
       "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love, Lose, Remember",
+        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "I Close My Eyes",
+      "url": "https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty"
     },
     {
       "added_at": null,
@@ -855,70 +923,6 @@
       "duration_ms": 435480,
       "name": "The Song Forlorn",
       "url": "https://open.spotify.com/track/6tv9CT6ii9F02TH9H3VKqp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For The Sake Of The Rhyme",
-        "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 241973,
-      "name": "Beauty Into Clich\u00e9s",
-      "url": "https://open.spotify.com/track/0kUnazSkIJAOJl3GiWEC94"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/2ilclX1VSOuOhcPBWI4rkK"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 268053,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0MeWGR4nVsu9x67kPTxC0R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love, Lose, Remember",
-        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "I Close My Eyes",
-      "url": "https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wednesday (Extended Edition)",
-        "url": "https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 336222,
-      "name": "Lover, You Should\u2019ve Come Over",
-      "url": "https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca"
     }
   ],
   "unique_name": "This Is Madison Cunningham",

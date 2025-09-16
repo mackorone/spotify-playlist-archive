@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,069 songs - 2 day 11 hr 52 min
+1,071 songs - 2 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Bones](https://open.spotify.com/track/1OfVQ5LYzgpTahnGlLoZti) | [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH), [Ellika](https://open.spotify.com/artist/1GStVlUvAf7VkKbQ616ht0) | [Bones](https://open.spotify.com/album/10xKXdt2akO3PWSAaaQ9mb) | 4:26 | 2024-01-22 | 2024-04-11 |
 | [bones](https://open.spotify.com/track/0zfVNW3Uh0tNgZY2YEKhYB) | [oncor](https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [bones](https://open.spotify.com/album/035rVrXDB5G9Lv2isRtqeT) | 2:32 | 2025-08-12 |  |
 | [BOOMBA](https://open.spotify.com/track/5LHRP4KmkSMCqrGbLUGaTo) | [Psy Trance Mafia](https://open.spotify.com/artist/6AJiVMljdDi2Z1GF43m60q), [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p) | [Breathe Underwater](https://open.spotify.com/album/3w08iS8VSt0YarhcDW0lNq) | 6:33 | 2024-12-06 | 2025-03-19 |
+| [BOUNCE](https://open.spotify.com/track/1lkkzUXh0SNetgRf7YHu42) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [Woodwinds](https://open.spotify.com/album/5fwI8h7ryeNmmi1xs0qSyZ) | 3:29 | 2025-09-15 |  |
 | [BOUNCE](https://open.spotify.com/track/0x4k0Zc1XDU3bJj5zuxRUi) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [BOUNCE](https://open.spotify.com/album/60HooEaxdydmVDo1QALKX9) | 1:44 | 2024-01-10 | 2024-04-03 |
 | [Brain Busta](https://open.spotify.com/track/4Oi1APaShpeAtvue5f3VAK) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Brain Busta](https://open.spotify.com/album/3wSDZ6NTXZXwnf7PToXHP1) | 2:48 | 2024-12-04 | 2025-03-13 |
 | [Brain On Drugs](https://open.spotify.com/track/2VivO71UvJ6hrMEIJqQZ4Y) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Brain On Drugs](https://open.spotify.com/album/6sJSCStldFAJWG0EHtLxYz) | 3:34 | 2024-08-19 | 2024-11-09 |
@@ -451,6 +452,7 @@
 | [Hopeless](https://open.spotify.com/track/2GROAqNCXHvn1Su3cDTAOI) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Hopeless](https://open.spotify.com/album/4cUL3xUF0WnEM1L2KDLTPb) | 3:43 | 2024-05-29 | 2024-08-21 |
 | [Horizon](https://open.spotify.com/track/6C2RhafaJZZ8kKN9ExyLlp) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V), [Katrine Stenbekk](https://open.spotify.com/artist/6Nxgeg0RW2lIaU35QlmJpo) | [Horizon](https://open.spotify.com/album/2ogg97CuneZYdfjrDLqx8S) | 4:15 | 2022-02-11 | 2022-04-22 |
 | [HOT SHOT](https://open.spotify.com/track/3W4Kg9woGNvTG0TpR9gJs2) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [HOT SHOT](https://open.spotify.com/album/3RK2td9YkPkFCiFvKHmXwQ) | 3:47 | 2024-05-17 | 2024-08-14 |
+| [how to feel alive](https://open.spotify.com/track/5FzcVssNKfmCF7WvJFUx2U) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [how to feel alive](https://open.spotify.com/album/64CuCT2IKWYddwO9KkZDlK) | 2:37 | 2025-09-15 |  |
 | [Hyperfocus](https://open.spotify.com/track/4LvnF1Iw4HcQ2rCm07mYjc) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Hyperfocus](https://open.spotify.com/album/5I5UOahbD9vGY8CqM2sGZc) | 3:13 | 2025-08-28 |  |
 | [Hyperstrike](https://open.spotify.com/track/0UKAhAIlMCi61n7Q8Q0hmR) | [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG), [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei) | [Hyperstrike](https://open.spotify.com/album/4OQXloIuW9Z0PTpPqIfF2d) | 3:19 | 2025-04-14 | 2025-07-09 |
 | [Hypnosis](https://open.spotify.com/track/2Gcufl4PVGv384tmFpi6QS) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Hypnosis](https://open.spotify.com/album/0i4UodNeG7dNTr0QfjoDPE) | 3:18 | 2024-02-14 | 2024-05-07 |

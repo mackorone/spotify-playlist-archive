@@ -1325,6 +1325,24 @@
     },
     {
       "album": {
+        "name": "Pain to Power",
+        "url": "https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222720,
+      "name": "Bloodsport",
+      "url": "https://open.spotify.com/track/66wM8T14qRselu34qFBhC2"
+    },
+    {
+      "album": {
         "name": "BLOODSUCKERS",
         "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
       },
@@ -7396,7 +7414,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 295775,
       "name": "Novocaine",
       "url": "https://open.spotify.com/track/7ylI3Csj3EG4HPVf11L2jz"

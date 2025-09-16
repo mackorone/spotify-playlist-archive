@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie you should know\. Cover: Jesse Baez
 
-1,001 songs - 2 day 6 hr 56 min
+1,002 songs - 2 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Dicen](https://open.spotify.com/track/63k804w99BgYRXSjDfOzGl) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Dicen](https://open.spotify.com/album/4UV2K61AHd7G9trxn3MBbP) | 3:45 | 2023-03-31 | 2023-04-29 |
 | [Diferente](https://open.spotify.com/track/1vK7Gxe6CjN9Tai74qeoIF) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Se Siente Diferente](https://open.spotify.com/album/06A2wi6Je4oNabYpaw5h1y) | 2:22 | 2021-11-18 | 2022-09-03 |
 | [DIME QUE HAGO AQUÍ](https://open.spotify.com/track/477qdS5XJ6rtpDTbSin19v) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [EMILIANO](https://open.spotify.com/album/3uFvFpPz0Mr1TcW8fJSOim) | 2:59 | 2024-06-28 | 2024-08-24 |
+| [Dimelo](https://open.spotify.com/track/5vnxtlCUzyWVNvY6byiBwe) | [LINDO](https://open.spotify.com/artist/1h4ZAi8i44b0bSsMXXq6SL) | [Dimelo](https://open.spotify.com/album/6R7Zo832siISXLasEp9w3W) | 2:31 | 2025-09-15 |  |
 | [DIOS](https://open.spotify.com/track/0S9lhabZo4B1re5RUYuHip) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [DIOS](https://open.spotify.com/album/2l6abpB0yohJnsGni3l2Cv) | 4:24 | 2025-05-02 | 2025-06-28 |
 | [Discomanía](https://open.spotify.com/track/3UXcPbwfPgYQjr7tH72p0Q) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Discomanía](https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K) | 3:08 | 2023-07-21 | 2024-04-13 |
 | [do re mi](https://open.spotify.com/track/0V90Q0ubClSBrxpAmxEytl) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [do re mi](https://open.spotify.com/album/4xBH1ldoCiXeiYwKf7rwRe) | 1:17 | 2022-04-01 | 2022-04-21 |
@@ -751,7 +752,7 @@
 | [Quiero](https://open.spotify.com/track/7nY2uuncCpw22ALvb21ZaN) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd), [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Quiero](https://open.spotify.com/album/6XGjvNs0x94hx84l0fx3X6) | 3:01 | 2025-05-30 | 2025-06-28 |
 | [Quiero Decirle](https://open.spotify.com/track/1CFA6iYZVHZpOL7MItMho6) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U), [Pønce](https://open.spotify.com/artist/0jlj70oquwYB21vxF107KT) | [Quiero Decirle](https://open.spotify.com/album/2TeBHe0LyT6dyZhsOBaVIB) | 4:34 | 2023-03-10 | 2023-03-18 |
 | [Quisiera](https://open.spotify.com/track/58s4Lbsh8MBAFoJ7Aeaex8) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [Quisiera](https://open.spotify.com/album/3HJ3fRk2KTki8HvqsoLWm6) | 3:44 | 2023-04-14 | 2024-01-27 |
-| [Quisiera Saber](https://open.spotify.com/track/0j8lNUjVM5tMCofwig8zHm) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Quisiera Saber](https://open.spotify.com/album/4Fjt3hR9wLnAofCJ391vQE) | 2:44 | 2025-05-30 |  |
+| [Quisiera Saber](https://open.spotify.com/track/0j8lNUjVM5tMCofwig8zHm) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Quisiera Saber](https://open.spotify.com/album/4Fjt3hR9wLnAofCJ391vQE) | 2:44 | 2025-05-30 | 2025-09-16 |
 | [Quizá Baby](https://open.spotify.com/track/70KjzniDqhCpmeI8psT5ui) | [CES](https://open.spotify.com/artist/6MmkcMB76RqX4B4mdhkTQE) | [Quizá Baby](https://open.spotify.com/album/5u4utx33DWX8QLWOfDpsCw) | 3:37 | 2024-08-02 | 2024-10-26 |
 | [Quiéreme O Ándate](https://open.spotify.com/track/6fjujdixgZgzrjKDDHETbY) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Quiéreme O Ándate](https://open.spotify.com/album/4wlka6GEj5ZpmS4wkE5pO2) | 2:56 | 2024-10-04 | 2024-11-23 |
 | [Qué más da \(feat\. Charlie Rodd\)](https://open.spotify.com/track/48ynQ6ebXb7KC6TuQmVfdb) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Qué más da \(feat\. Charlie Rodd\)](https://open.spotify.com/album/4J9rqXc6sk1UmjOPFvhuL9) | 3:05 | 2022-11-24 | 2023-06-06 |

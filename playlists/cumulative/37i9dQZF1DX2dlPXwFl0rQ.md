@@ -4,7 +4,7 @@
 
 > Estas son las indomables de la Música Mexicana\. Vivir Quintana & Majo Aguilar en portada 🔥
 
-480 songs - 1 day 1 hr 36 min
+481 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Afortunada](https://open.spotify.com/track/0lm7k3vmIJ3Cteo6lyPv9f) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Afortunada](https://open.spotify.com/album/5kC1XgP6HSTEXLux9mQCB9) | 2:44 | 2024-09-20 | 2025-02-28 |
 | [Aguanta Corazón](https://open.spotify.com/track/2NG5ayxtYhDfwnkkVN1Idw) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Aguanta Corazón](https://open.spotify.com/album/4cslzaiSqKBdavHlQkSe10) | 2:46 | 2024-09-20 |  |
 | [Ahora Que Te Vas](https://open.spotify.com/track/72Bk8T5DRTHa9nkcUBHkQL) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Ahora Que Te Vas](https://open.spotify.com/album/6Dmyw5ljilipCMu1rHo5Ua) | 2:22 | 2022-04-29 | 2023-02-25 |
+| [Ahora Te Llamas Ex](https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF) | [Estibaliz Badiola](https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ahora Te Llamas Ex](https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO) | 2:29 | 2025-09-15 |  |
 | [Ahora Va la Mía](https://open.spotify.com/track/2xh293AVBgVSt5nw13L2HN) | [Alejandra Orozco](https://open.spotify.com/artist/4xG7HHi0auDk7vPhOqGPR3) | [Ahora Va la Mía](https://open.spotify.com/album/659ZgUGvjwyo9Yt4KOiyFm) | 3:06 | 2021-12-17 | 2022-04-29 |
 | [Ahora Va La Mía](https://open.spotify.com/track/0CEublugofmBX9a2RKoxjq) | [Marisol Terrazas](https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok) | [Ahora Va La Mía](https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID) | 2:44 | 2022-12-09 | 2023-08-05 |
 | [Ahí Donde Me Ven](https://open.spotify.com/track/4kdmt0MDdze6TZvyU0Fmqg) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Ahí Donde Me Ven](https://open.spotify.com/album/6M9GNcF5jLv8CNmDlFrGid) | 4:04 | 2021-12-17 | 2023-06-17 |
@@ -288,7 +289,7 @@
 | [Más Que Un Rolex](https://open.spotify.com/track/6MMncjTGNQewjmTPEHATtO) | [Brianda](https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf) | [Más Que Un Rolex](https://open.spotify.com/album/15Zw9lOyNpsVMAuujnLKRh) | 3:29 | 2024-10-04 | 2024-12-13 |
 | [NACÍ PA CORONAR](https://open.spotify.com/track/04KdeYUniYsBPDibppKl3Q) | [Sofi Piñan](https://open.spotify.com/artist/1EsfYkUgGUHynHwA6j4dMH) | [NACÍ PA CORONAR](https://open.spotify.com/album/4nxAttMtUUuAcdmipG544Q) | 3:04 | 2024-10-04 | 2025-07-11 |
 | [Nadie Me Verá Llorar](https://open.spotify.com/track/0iQBxjQzHmyHEt4nBfGmsQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Nadie Me Verá Llorar](https://open.spotify.com/album/62cOOnQ3t3QDqKg12E7L8C) | 3:06 | 2022-04-29 | 2023-02-25 |
-| [NADIE TE NECESITA](https://open.spotify.com/track/2MQd8ifA2TMa0YoRJSKQo9) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK), [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [NADIE TE NECESITA](https://open.spotify.com/album/6o9qf3JCGBTibrBlmDDgyx) | 2:57 | 2024-09-20 |  |
+| [NADIE TE NECESITA](https://open.spotify.com/track/2MQd8ifA2TMa0YoRJSKQo9) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK), [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [NADIE TE NECESITA](https://open.spotify.com/album/6o9qf3JCGBTibrBlmDDgyx) | 2:57 | 2024-09-20 | 2025-09-16 |
 | [Ni Diabla Ni Santa](https://open.spotify.com/track/1NncWv7T19isafndpzddUd) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Ni Diabla Ni Santa](https://open.spotify.com/album/43RfcDptMd2B5QoC5uhHIr) | 2:48 | 2022-09-23 | 2023-05-06 |
 | [Ni Dios Lo Quiera](https://open.spotify.com/track/2YSFeITUSjryNJA9ERQMMP) | [Luz Maria](https://open.spotify.com/artist/4rLKybqVCIbuTaYVRbdaex) | [Ni Dios Lo Quiera](https://open.spotify.com/album/5dR2k3sOy7X9OQ56o3EluT) | 3:03 | 2021-12-17 | 2022-03-16 |
 | [Ni Pedo](https://open.spotify.com/track/3WLdR3ObZtUiFwZgr8n7pE) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Ni Pedo](https://open.spotify.com/album/1V9Cd1r9p6u1oDGuHriLsF) | 2:22 | 2024-10-25 |  |

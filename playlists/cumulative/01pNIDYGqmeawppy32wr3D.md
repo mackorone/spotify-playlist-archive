@@ -4,7 +4,7 @@
 
 > Best hip hop throwbacks from the 2000 – 2010s with hits from Missy Elliott, T.I., Dr\. Dre, and more! Over 8 hours to take you into the night.
 
-222 songs - 15 hr 7 min
+223 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Lean Back \(feat\. Lil Jon, Eminem, Mase & Remy Martin\) \- Remix](https://open.spotify.com/track/2uiEqPjMmIJXOKplzsEASP) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [All Or Nothing](https://open.spotify.com/album/1daamdMx4wmSEC3mfiCN37) | 4:50 | 2022-10-27 |  |
 | [Lemonade](https://open.spotify.com/track/6rUcS9i07F6okIe8wujs5J) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The State vs\. Radric Davis \(Deluxe\)](https://open.spotify.com/album/0VeraxKSlJGusnOHYGOtWq) | 4:06 | 2022-07-09 |  |
 | [Let Me Blow Ya Mind](https://open.spotify.com/track/5DCA1FOUDBURlRTNg4ganf) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Scorpion](https://open.spotify.com/album/5z1Su2S6WXspjhLNBkAScm) | 3:49 | 2022-01-10 |  |
+| [Let Me Hold You \(feat\. Omarion\)](https://open.spotify.com/track/1oNToERLIN71YCPLbRIQGQ) | [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [Wanted](https://open.spotify.com/album/65G0BpV00GmLi5WUCeWdvT) | 4:08 | 2025-09-15 |  |
 | [Let's Go \(feat\. Twista & Lil' Jon\)](https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Thug Matrimony: Married to the Streets](https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT) | 3:42 | 2022-07-09 |  |
 | [Lighters Up](https://open.spotify.com/track/4eihdGG3Tga3oFq4yqCDeL) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Lighters Up](https://open.spotify.com/album/6gKNrsYOpavwtwRsJrQ59f) | 4:22 | 2022-01-10 | 2022-07-10 |
 | [Live Your Life](https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 5:38 | 2022-07-09 | 2022-11-11 |

@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Lady Gaga
 
-1,101 songs - 2 day 8 hr 1 min
+1,104 songs - 2 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-02-20 | 2025-05-02 |
 | [Call on Me](https://open.spotify.com/track/6NAeCHRuzqURCsUpYTQbjK) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Call on Me](https://open.spotify.com/album/32cDkCyVQFR8M4QtatNhGU) | 2:50 | 2023-04-06 | 2023-07-22 |
 | [Calls Your Name](https://open.spotify.com/track/147gsdOYtOg3SiJvTKyZ2i) | [Gustaph](https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7) | [Calls Your Name](https://open.spotify.com/album/770ksQMUlSIhzHQS0W2Nxs) | 2:40 | 2024-10-10 | 2025-01-07 |
+| [Camera](https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl) | 3:35 | 2025-09-15 |  |
 | [can i see you tonight?](https://open.spotify.com/track/1u7Z47bCx2id2bh8rKEcZg) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [can i see you tonight?](https://open.spotify.com/album/3oW5O2gtfj1BkdB6EiW5ew) | 1:57 | 2024-03-28 | 2024-06-21 |
 | [Can't Get Enough](https://open.spotify.com/track/3A0XNK2dqNFIjG4yBt9Zzd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Can't Get Enough](https://open.spotify.com/album/3w8ZxUWRMNv5uERVK3fLq1) | 3:06 | 2024-01-12 | 2024-03-19 |
 | [Can't Take You Home](https://open.spotify.com/track/2ghd71Bobpq07hQ7PU9AB4) | [Denzel Chain](https://open.spotify.com/artist/1OcgVkMH2tgrwIjhrsCqT0) | [Can't Take You Home](https://open.spotify.com/album/7ircwf7LABt7ds3vhYbgO4) | 3:01 | 2025-07-17 |  |
@@ -329,6 +330,7 @@
 | [Find Myself Again](https://open.spotify.com/track/6P7sm0qA1xnIyBpwtaBdW8) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Find Myself Again](https://open.spotify.com/album/1HjbOhv4Pe15uAS3B2AMwL) | 3:57 | 2023-11-30 | 2024-03-09 |
 | [First And Last](https://open.spotify.com/track/031LyFUhBoUHMZfCIZNQns) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [First And Last](https://open.spotify.com/album/6FPWvl23Upnc7vj5Sh0J2N) | 2:58 | 2025-08-28 |  |
 | [Fix Myself](https://open.spotify.com/track/7jo2PagbFYgcFe85hrCC1K) | [Maryn Charlie](https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL) | [Fix Myself](https://open.spotify.com/album/4hnTMI84TlOjrzads18PbC) | 3:17 | 2024-06-24 | 2024-09-13 |
+| [Flatline](https://open.spotify.com/track/4PIrbZdWo7ETTWZQNEbCUz) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Flatline](https://open.spotify.com/album/5UaiSKEsyY4vjBBR9ZIodw) | 2:45 | 2025-09-15 |  |
 | [FLIGHT RISK](https://open.spotify.com/track/5gQO8Ik1hBmcDMMMjvmRtL) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [FLIGHT RISK](https://open.spotify.com/album/5p1LIZxLu9O2AMzPKAR8kX) | 2:43 | 2024-02-01 | 2024-03-22 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-02-24 | 2023-04-15 |
 | [Fly Like Me](https://open.spotify.com/track/2EMqaQVVspxlhTeE0X1boZ) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [New Gold](https://open.spotify.com/album/01QIywmbTG54Dcz3fidcUK) | 3:02 | 2024-04-12 | 2024-04-19 |
@@ -940,6 +942,7 @@
 | [Takedown](https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:02 | 2025-07-10 | 2025-08-29 |
 | [Taking My Love Back](https://open.spotify.com/track/4kCKaipCawfr34DfyrBVgu) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Taking My Love Back](https://open.spotify.com/album/66xNNEPz96RqJIKlw6728p) | 2:21 | 2024-07-04 | 2024-09-20 |
 | [Talk](https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 2:12 | 2025-05-01 | 2025-05-09 |
+| [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5) | 3:13 | 2025-09-15 |  |
 | [Talk To You Later](https://open.spotify.com/track/21oI1ZMVYeXW2MFhgSjhoK) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Talk To You Later](https://open.spotify.com/album/6FxcMkrFUyQIA5IVwUg6CG) | 2:56 | 2025-07-10 | 2025-09-12 |
 | [Talk Too Much](https://open.spotify.com/track/1ekAgx1qOdnVoSlmkHghKq) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:16 | 2023-09-04 | 2023-10-06 |
 | [Talk Too Much](https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Talk Too Much](https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw) | 3:16 | 2023-07-13 | 2023-09-05 |

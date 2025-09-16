@@ -1,33 +1,13 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 517245,
+  "num_followers": 517550,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAABY/EIvbR2Z6/WLZyFpBpnh",
+  "snapshot_id": "aMYFgAAAAAAMbkVRuMvDNpyu6F8pxU51",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apodo",
-        "url": "https://open.spotify.com/album/1lb7uVplwl2K6b7GnAB0jr"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 173954,
-      "name": "Apodo",
-      "url": "https://open.spotify.com/track/5OQyCrbytLw7anYRZXlEhc"
-    },
     {
       "added_at": null,
       "album": {
@@ -639,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apodo",
+        "url": "https://open.spotify.com/album/1lb7uVplwl2K6b7GnAB0jr"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 173954,
+      "name": "Apodo",
+      "url": "https://open.spotify.com/track/5OQyCrbytLw7anYRZXlEhc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "201",
         "url": "https://open.spotify.com/album/3w4tn0BuFHNjiqGMevGaz9"
       },
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Buena Eras T\u00fa",
-        "url": "https://open.spotify.com/album/7BnYrQCH2FxDF3aiuhQioX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 202992,
-      "name": "La Buena Eras T\u00fa",
-      "url": "https://open.spotify.com/track/2R8ddYbnIJqH1T6Pi2zU7s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Yo Fuera Ladr\u00f3n",
         "url": "https://open.spotify.com/album/0uzre43qEP2l9n0QkxF2OV"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 149538,
       "name": "NO S\u00c9 QU\u00c9 PAS\u00d3",
       "url": "https://open.spotify.com/track/1IFjnYZxC9JlXekzoCzGkK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Buena Eras T\u00fa",
+        "url": "https://open.spotify.com/album/7BnYrQCH2FxDF3aiuhQioX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 202992,
+      "name": "La Buena Eras T\u00fa",
+      "url": "https://open.spotify.com/track/2R8ddYbnIJqH1T6Pi2zU7s"
     },
     {
       "added_at": null,

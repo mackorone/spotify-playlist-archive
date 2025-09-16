@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,182 likes - 75 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,190 likes - 75 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 29 | [Raghuvamsa Sudha \(Raga: Kathanakuthuhalam; Tala: Adi\)](https://open.spotify.com/track/67bcbaq2XTq9b5vENbqCzl) | [Chitti Babu](https://open.spotify.com/artist/6sN7sUcwhJszUfcDdoJ71Z) | [Raghuvamsa Sudha Vol.1](https://open.spotify.com/album/0Uj4B92OarYR2m4CSetQn7) | 9:11 |
 | 30 | [Vathapi Ganapathim Bhajeham](https://open.spotify.com/track/4w6p6n3uIVfRa6QGznDNQw) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Mood Music \- Cool Carnatic Instrumentals](https://open.spotify.com/album/628oH97rIWa4Zgvuft7aGD) | 6:49 |
 | 31 | [Nagavulu Nijamani \- Instrumental](https://open.spotify.com/track/5zmKyzppUB4Lv2DIzLV9j4) | [Ramachandra Murthy](https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736) | [Soul of South India 2 \- Instrumentals of the Greatest Traditional Melodies](https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy) | 5:24 |
-| 32 | [Kaakkai Siraginile](https://open.spotify.com/track/4jFoGeTsKpEveRmTyhzTTn) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Bharatiyaar Songs \- Veena](https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO) | 3:53 |
-| 33 | [Saadhinchane \- Aarabhi](https://open.spotify.com/track/3agk4o0xCN0MH2yRmpKHsq) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [Pancharatna Kritis \- A Flute Duet](https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ) | 8:47 |
+| 32 | [Saadhinchane \- Aarabhi](https://open.spotify.com/track/3agk4o0xCN0MH2yRmpKHsq) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [Pancharatna Kritis \- A Flute Duet](https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ) | 8:47 |
+| 33 | [Kaakkai Siraginile](https://open.spotify.com/track/4jFoGeTsKpEveRmTyhzTTn) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Bharatiyaar Songs \- Veena](https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO) | 3:53 |
 | 34 | [White](https://open.spotify.com/track/5SpQIOjCgqakMjIWprztHR) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv), [Aman Mahajan](https://open.spotify.com/artist/0oRU7hxSjztwxwvPzqL7B9), [Sunaad Anoor](https://open.spotify.com/artist/44VNDWBX8w7e9WKR767AeC) | [Only Love is Real](https://open.spotify.com/album/0etdWDLdBdvEIUnFl8baMC) | 7:28 |
 | 35 | [Kurai Onrum Illai \- Ragamalika \- Adi \(Live\)](https://open.spotify.com/track/1OmHmuOvobYHUPrxXcR9HY) | [Kadri Gopalnath](https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7), [Haridwaramangalam A.K\. Palanivel](https://open.spotify.com/artist/4Qnu91jtz2scVRROdqafK7) | [Chinnajiru Kiliye \(Live\)](https://open.spotify.com/album/7APbQUf3zF9aXR4wVFXcia) | 4:15 |
 | 36 | [Thatwamaria \- Reeti Gowla \- Adi](https://open.spotify.com/track/1PJmg2Y59CRBhT6wzrAdzl) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC) | [Compositions Of Papanasam Sivam](https://open.spotify.com/album/47yh0cq6rw9pFurWQPjIG5) | 7:37 |

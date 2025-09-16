@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,510 likes - 85 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,550 likes - 85 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 35 | [amores vêm e vão](https://open.spotify.com/track/6EJT6JMDqVAlxBkCsMhBFi) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [amores vêm e vão](https://open.spotify.com/album/2XF4xVFMqUIkz0bAtmrhBf) | 3:56 |
 | 36 | [Mais Raro](https://open.spotify.com/track/7xHRnZUMxAVzYLuOx1iKqU) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Mais Raro](https://open.spotify.com/album/6oG9RhsfDXqYdE5Ise33JF) | 3:00 |
 | 37 | [Que Sorte](https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Gente](https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z) | 3:16 |
-| 38 | [cheia de vontade](https://open.spotify.com/track/4mJ3pcf1OjSiF0ugzIJNKz) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [cheia de vontade](https://open.spotify.com/album/45ALQndFdgxFNUTtJ6GWNv) | 2:26 |
+| 38 | [Vamos Fugir](https://open.spotify.com/track/79zYUn0eJrYl9nJWAtzp3E) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Vamos Fugir](https://open.spotify.com/album/1XMCafTPAmjhYI7F8nuCvv) | 4:01 |
 | 39 | [Somos Instantes \- Acústico](https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Somos Instantes \(Acústico\)](https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd) | 3:44 |
-| 40 | [Vamos Fugir](https://open.spotify.com/track/79zYUn0eJrYl9nJWAtzp3E) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Vamos Fugir](https://open.spotify.com/album/1XMCafTPAmjhYI7F8nuCvv) | 4:01 |
+| 40 | [cheia de vontade](https://open.spotify.com/track/4mJ3pcf1OjSiF0ugzIJNKz) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [cheia de vontade](https://open.spotify.com/album/45ALQndFdgxFNUTtJ6GWNv) | 2:26 |
 | 41 | [Nós Dois Aqui](https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Nós Dois Aqui](https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q) | 4:01 |
 | 42 | [Vai sacudir, vai abalar](https://open.spotify.com/track/0NCo0U5CIPaclauxTLWZkG) | [Versão brasileira](https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E), [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Renato Frei](https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV) | [Vai sacudir, vai abalar](https://open.spotify.com/album/25C430Kr2rS1YAkmTUqdTN) | 2:20 |
 | 43 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM) | 4:31 |

@@ -2,9 +2,9 @@
 
 ### [WOR K  OUT](https://open.spotify.com/playlist/37i9dQZF1DX3ZeFHRhhi7Y)
 
-> Workout to K\-Pop? Count me in! \(Cover: IVE\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
+> Workout to K\-Pop? Count me in! \(Cover: aespa\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-604 songs - 1 day 8 hr 14 min
+607 songs - 1 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Blue Hour](https://open.spotify.com/track/0JQHGu03YJikcND4SENdiW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/4usjdWBMHtZyhdqcbTrLB2) | 3:29 | 2021-12-20 | 2022-07-29 |
 | [Blue Hour](https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:29 | 2022-07-19 | 2024-04-19 |
 | [BOBBIN](https://open.spotify.com/track/14JS85dA20uiGU5XGAWtif) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [BOBBIN](https://open.spotify.com/album/3NqyPRfB9A7ZlU12gkY3fc) | 3:08 | 2022-03-08 | 2022-07-19 |
+| [body](https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [gonna love me, right?](https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb) | 2:48 | 2025-09-15 |  |
 | [BODY](https://open.spotify.com/track/0u18ibQ2zk470oLSP3D5WR) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2JtBV7vukBxQc3GoX6VOWk) | 2:03 | 2024-11-21 | 2025-07-20 |
 | [BOM BI DI BOM](https://open.spotify.com/track/5EnOA6tQsyPY7PCdS4A7O1) | [LUNARSOLAR](https://open.spotify.com/artist/64XtE3KrOhSYaS3dX04kI1) | [SOLAR : rise](https://open.spotify.com/album/45gnAAEGm2lmq8DPhoZfum) | 3:15 | 2022-01-05 | 2022-07-01 |
 | [Boom Boom Bass](https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 2:32 | 2024-07-25 | 2024-11-27 |
@@ -146,6 +147,7 @@
 | [Dramatic](https://open.spotify.com/track/4fAUUc8y2ZQcwKLGHidZsa) | [BVNDIT](https://open.spotify.com/artist/5dEBuZjTtE68uDgCs23Kuv) | [Dramatic](https://open.spotify.com/album/1NqeOZ3BmAoHN3Ml15gPYT) | 3:25 | 2022-03-22 | 2022-04-15 |
 | [Dream \(feat\. IndEgo Aid\)](https://open.spotify.com/track/7c2QRRGd0J20G57dMjzKW5) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [IndEgo Aid](https://open.spotify.com/artist/5qGemt8SgMneJacS62LXRA) | [Dream Carousel](https://open.spotify.com/album/5muUC6jA14752TNSBMOtoY) | 3:12 | 2022-03-08 | 2022-04-15 |
 | [Dreams Come True](https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dreams Come True \- SM STATION](https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful) | 3:24 | 2021-12-20 | 2022-07-29 |
+| [Drift](https://open.spotify.com/track/70Jzsx8m0ClyLfzaEDxIIL) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 2:57 | 2025-09-15 |  |
 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 | 2024-11-21 |  |
 | [Drive](https://open.spotify.com/track/0nsIi8do34jaxhKI8C6QLP) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY](https://open.spotify.com/album/3Z3fQ47AXd0WfDPiDvMecl) | 3:21 | 2022-05-01 | 2022-07-29 |
 | [DROP TOP](https://open.spotify.com/track/63gioPx2WipyXiigLMf1nB) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/4n3pIffNB5CVVBmfhATTo8) | 3:15 | 2025-06-13 |  |
@@ -355,7 +357,7 @@
 | [New](https://open.spotify.com/track/1vu104daKjc0v1Acfopza2) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [New](https://open.spotify.com/album/7w8HoXrinhQcgDRxBEaiRZ) | 3:02 | 2022-03-22 | 2022-04-12 |
 | [NEW HERO](https://open.spotify.com/track/6OTsinrSCfxmwcr5wLy2as) | [Choi suhwan](https://open.spotify.com/artist/5if8p7T2O2QHhIKZiwSWvD), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ) | [NEW HERO](https://open.spotify.com/album/602H8kYZQMFOEVGGdjH82r) | 3:22 | 2022-03-22 | 2022-04-16 |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-16 |  |
-| [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-12-20 |  |
+| [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-12-20 | 2025-09-16 |
 | [No Mercy](https://open.spotify.com/track/2Nn3Vqa9Rvuo2fUmgiuVkO) | [Bambi](https://open.spotify.com/artist/0Xb7fP5TfMhGEuRucG7etD) | [No Mercy](https://open.spotify.com/album/6Mleuu7KDx4xKSW4RKQmzr) | 3:38 | 2022-03-22 | 2022-04-15 |
 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix \(Stray Kids\)](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 | 2022-06-30 | 2024-07-10 |
 | [NO THANKS](https://open.spotify.com/track/5jzMrbCnHeBjw6ARXJEgsD) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [iCE](https://open.spotify.com/album/6Bmm0yb59VBvI7ozMOQZoB) | 3:01 | 2022-07-19 | 2022-08-13 |
@@ -427,6 +429,7 @@
 | [Red Light, Green Light](https://open.spotify.com/track/4xgBVNYwDQNhtpeyxQWP8s) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [Red Light, Green Light](https://open.spotify.com/album/7AOjftp6myCoxMR7pnoGLB) | 3:23 | 2022-03-22 | 2022-04-16 |
 | [RED SUN \(With LOTTE DEPARTMENT STORE\)](https://open.spotify.com/track/3HIAlVUMAsg2WzSvxETFbi) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [RED SUN \(With LOTTE DEPARTMENT STORE\)](https://open.spotify.com/album/5NdzPZhyIA3JaEpSqq9JM3) | 3:23 | 2021-12-20 | 2022-07-24 |
 | [Replay](https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [AURA](https://open.spotify.com/album/3lWLkdPRedaFQGuC4qQpKm) | 3:27 | 2022-08-18 | 2022-10-08 |
+| [Rich Man](https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:17 | 2025-09-15 |  |
 | [Ridin'](https://open.spotify.com/track/0EMD15EVNwDlgGH2CH6ZEL) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Reload](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) | 3:21 | 2021-12-20 | 2022-04-30 |
 | [Ring Ring](https://open.spotify.com/track/1LmAeYKwK2BA2FFUMyTXD2) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [Ring Ring](https://open.spotify.com/album/1IFwB37JXLhIh53bSBBMbI) | 3:02 | 2022-01-03 | 2022-04-16 |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-20 |  |
@@ -442,7 +445,7 @@
 | [Rush \(feat\. OLNL, Khundi Panda\)](https://open.spotify.com/track/6i2LVrx7eE2gSrvf4LOCEn) | [Lym en](https://open.spotify.com/artist/3iezENWrsyQSutsDx3dXD5), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [Lost Piece, Vol\. 2](https://open.spotify.com/album/7I75sf0ivMiuLM66B7BjTP) | 3:40 | 2022-03-03 | 2022-04-14 |
 | [S\-Class](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:15 | 2023-07-20 | 2024-04-19 |
 | [SAINT](https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [SAINT](https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc) | 2:59 | 2024-06-07 | 2024-08-06 |
-| [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2021-12-20 |  |
+| [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2021-12-20 | 2025-09-16 |
 | [Say My Name](https://open.spotify.com/track/2UP7KnRSvc4taXbjOoSX0f) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.2: Zero To One](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) | 3:42 | 2022-03-22 | 2022-08-13 |
 | [Say yes](https://open.spotify.com/track/1ZDn3ijYR2PYtGmcYOkOrN) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [24 PART 1](https://open.spotify.com/album/1Esd033f2MatbhMIGDWCRo) | 2:59 | 2022-03-22 | 2022-04-12 |
 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 | 2021-12-20 | 2024-06-15 |
@@ -530,7 +533,7 @@
 | [The Only \(feat\. IRENE of Red Velvet\)](https://open.spotify.com/track/63BGyvr6NuhA0q5NimghaG) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [The Only \(feat\. IRENE of Red Velvet\)](https://open.spotify.com/album/4uXskh6wXrlNDZ4UrSF8Lh) | 3:06 | 2022-01-05 | 2022-04-15 |
 | [The Real \- Heung Version](https://open.spotify.com/track/36pZ33EaTBFSl4n0asZYNU) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:30 | 2021-12-20 | 2022-04-16 |
 | [Thinking Of \(feat\. OVAN & SUMIN\)](https://open.spotify.com/track/1kznDMHz1kpzk7sMYIkrQ5) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Take](https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO) | 3:50 | 2022-03-22 | 2022-04-15 |
-| [THIS IS FOR](https://open.spotify.com/track/3fwjo4HYqaQcvdJP3d4twX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/751yK5uyUr7PGOgNAVkobh) | 2:11 | 2025-07-11 |  |
+| [THIS IS FOR](https://open.spotify.com/track/3fwjo4HYqaQcvdJP3d4twX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/751yK5uyUr7PGOgNAVkobh) | 2:11 | 2025-07-11 | 2025-09-16 |
 | [This Life](https://open.spotify.com/track/4m5I2NZgDAQYF5qnH5iU6c) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [FACE \- The 1st Album](https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG) | 3:40 | 2022-01-18 | 2022-07-21 |
 | [THRILL RIDE](https://open.spotify.com/track/3wEYYVD6uC3A3LhVhqARZv) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 6TH MINI ALBUM \[THRILL\-ING\]](https://open.spotify.com/album/0lh0pZ8GjZGrAhzIG4Jn0E) | 3:16 | 2021-12-20 | 2022-07-18 |
 | [THUNDER](https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:44 | 2025-06-02 |  |

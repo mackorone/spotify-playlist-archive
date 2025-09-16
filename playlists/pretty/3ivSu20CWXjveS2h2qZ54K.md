@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,855 likes - 85 songs - 4 hr 45 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,854 likes - 85 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 79 | [JUICY](https://open.spotify.com/track/3SYa9xlmRsRB772x9y5GUz) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [JUICY](https://open.spotify.com/album/20F80R47bc7O1rlCHXPiiP) | 3:12 |
 | 80 | [808 HYMN](https://open.spotify.com/track/3UaOcDgXZVFMopdWX8hukn) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [808 HYMN](https://open.spotify.com/album/6Br8z93mJODxZskiJ3GHZD) | 4:13 |
 | 81 | [Sweet Tea](https://open.spotify.com/track/3fDNDxcos3RuOHpkm1Qc4N) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Sweet Tea](https://open.spotify.com/album/53IZCUuAD64yVuiqXToPO1) | 3:28 |
-| 82 | [Forever](https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/5AOBx6uu2fTnhsu5keahyR) | [Forever](https://open.spotify.com/album/5bZB1yQFWT2YAR36eEuSct) | 2:51 |
+| 82 | [Forever](https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/42CbYw1Y9fAdCr6UND2P5f) | [Forever](https://open.spotify.com/album/5bZB1yQFWT2YAR36eEuSct) | 2:51 |
 | 83 | [Compasión por mí](https://open.spotify.com/track/6Kd0hxaSE1k0bQM61DTwvU) | [Sarria](https://open.spotify.com/artist/6vLjZKs3kZtOdbWFF4Kz68) | [Compasión por mí](https://open.spotify.com/album/3v70KIlnvLhB1SfKVOQQWz) | 2:53 |
 | 84 | [HAY NIVELES](https://open.spotify.com/track/5jM0anFSsofbe6Cy7ubtRS) | [The Warrior](https://open.spotify.com/artist/3nIIe22PTeBCFqaarBcLay) | [HAY NIVELES](https://open.spotify.com/album/6XbCjgTYWEO1NS15WpgN2h) | 3:22 |
 | 85 | [Avivando el fuego](https://open.spotify.com/track/0rhGARLb1CkpXUk9YA4XfQ) | [Neon Vampire](https://open.spotify.com/artist/79VAFDUOE03nJjFnRKhgza) | [Avivando el fuego](https://open.spotify.com/album/2OetK51rk55sS2HxXfINMX) | 4:44 |

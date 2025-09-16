@@ -1,12 +1,12 @@
 {
   "description": "una lloradita y a seguirle \ud83e\udd72",
-  "num_followers": 150378,
+  "num_followers": 150440,
   "original_name": "pa llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE+IFEpA/b8khyVszU7uC5BpuEEM",
+  "snapshot_id": "AAAAAC5R2QS2tFAGjZUPtti3VheNCibY",
   "tracks": [
     {
       "added_at": "2025-08-29 06:00:10",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 154374,
+      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
+      "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
+    },
+    {
+      "added_at": "2025-08-29 06:00:10",
+      "album": {
         "name": "Por Esos Ojos",
         "url": "https://open.spotify.com/album/3ZaYiXwSEqq5iZ6xt8RAwp"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 221226,
       "name": "Desvelado",
       "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
-    },
-    {
-      "added_at": "2025-08-29 06:00:10",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 154374,
-      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
-      "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
     },
     {
       "added_at": "2025-08-29 06:00:10",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
-        "name": "O Me Voy O Te Vas",
-        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
-    },
-    {
-      "added_at": "2025-08-29 06:00:10",
-      "album": {
         "name": "Hasta el Fin Del Mundo",
         "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+        "name": "O Me Voy O Te Vas",
+        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 217768,
-      "name": "HACIENDO QUE ME AMAS",
-      "url": "https://open.spotify.com/track/26QApq0cuO9brJigr0C0W4"
+      "duration_ms": 242133,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
     },
     {
       "added_at": "2025-08-29 06:00:10",
@@ -651,6 +635,22 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 217768,
+      "name": "HACIENDO QUE ME AMAS",
+      "url": "https://open.spotify.com/track/26QApq0cuO9brJigr0C0W4"
+    },
+    {
+      "added_at": "2025-08-29 06:00:10",
+      "album": {
         "name": "Palabra De To's (Seca)",
         "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 189512,
       "name": "Si T\u00fa Me Vieras",
       "url": "https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I"
+    },
+    {
+      "added_at": "2025-08-29 06:00:10",
+      "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 179094,
+      "name": "V\u00e1monos a Marte",
+      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
     },
     {
       "added_at": "2025-08-29 06:00:10",
@@ -711,6 +727,22 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
+        "name": "Amorfoda",
+        "url": "https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 153887,
+      "name": "Amorfoda",
+      "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
+    },
+    {
+      "added_at": "2025-08-29 06:00:10",
+      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -727,22 +759,6 @@
       "duration_ms": 232205,
       "name": "RELOJ",
       "url": "https://open.spotify.com/track/2DXK0YNGSqnaIEX5iaSIoK"
-    },
-    {
-      "added_at": "2025-08-29 06:00:10",
-      "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 179094,
-      "name": "V\u00e1monos a Marte",
-      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
     },
     {
       "added_at": "2025-08-29 06:00:10",
@@ -803,22 +819,6 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
-        "name": "Amorfoda",
-        "url": "https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 153887,
-      "name": "Amorfoda",
-      "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
-    },
-    {
-      "added_at": "2025-08-29 06:00:10",
-      "album": {
         "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
         "url": "https://open.spotify.com/album/04tuXr19nHC8iXMBnoh74M"
       },
@@ -831,26 +831,6 @@
       "duration_ms": 166185,
       "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
       "url": "https://open.spotify.com/track/3IQulMlnptSOhfblnvFuvN"
-    },
-    {
-      "added_at": "2025-08-29 06:00:10",
-      "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Jesse",
-          "url": "https://open.spotify.com/artist/7JmLfOmqdX5WvJ0NmHP4mV"
-        }
-      ],
-      "duration_ms": 215112,
-      "name": "Ecos De Amor",
-      "url": "https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F"
     },
     {
       "added_at": "2025-08-29 06:00:10",
@@ -875,26 +855,22 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
-        "name": "El Madrile\u00f1o",
-        "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
       "artists": [
         {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         },
         {
-          "name": "Ni\u00f1o de Elche",
-          "url": "https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP"
-        },
-        {
-          "name": "La H\u00fangara",
-          "url": "https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU"
+          "name": "Jesse",
+          "url": "https://open.spotify.com/artist/7JmLfOmqdX5WvJ0NmHP4mV"
         }
       ],
-      "duration_ms": 198493,
-      "name": "T\u00fa Me Dejaste De Querer",
-      "url": "https://open.spotify.com/track/5ddFjrPG8NgQQ6xlOQIVd2"
+      "duration_ms": 215112,
+      "name": "Ecos De Amor",
+      "url": "https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F"
     },
     {
       "added_at": "2025-08-29 06:00:10",
@@ -915,6 +891,30 @@
       "duration_ms": 230795,
       "name": "Porque Te Vas",
       "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
+    },
+    {
+      "added_at": "2025-08-29 06:00:10",
+      "album": {
+        "name": "El Madrile\u00f1o",
+        "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "Ni\u00f1o de Elche",
+          "url": "https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP"
+        },
+        {
+          "name": "La H\u00fangara",
+          "url": "https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "T\u00fa Me Dejaste De Querer",
+      "url": "https://open.spotify.com/track/5ddFjrPG8NgQQ6xlOQIVd2"
     },
     {
       "added_at": "2025-08-29 06:00:10",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 279213,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
-    },
-    {
-      "added_at": "2025-08-29 06:00:10",
-      "album": {
         "name": "Par\u00eds",
         "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 237026,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
+    },
+    {
+      "added_at": "2025-08-29 06:00:10",
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
     },
     {
       "added_at": "2025-08-29 06:00:10",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
-        "name": "Que Pedo",
-        "url": "https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Eddy",
-          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
-        }
-      ],
-      "duration_ms": 194062,
-      "name": "Que Pedo",
-      "url": "https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B"
-    },
-    {
-      "added_at": "2025-08-29 06:00:10",
-      "album": {
         "name": "La Vida Sin Ti",
         "url": "https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 144984,
       "name": "X Perro",
       "url": "https://open.spotify.com/track/31YMy2oiue0habrdFfAHTC"
+    },
+    {
+      "added_at": "2025-08-29 06:00:10",
+      "album": {
+        "name": "Que Pedo",
+        "url": "https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        }
+      ],
+      "duration_ms": 194062,
+      "name": "Que Pedo",
+      "url": "https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B"
     },
     {
       "added_at": "2025-08-29 06:00:10",

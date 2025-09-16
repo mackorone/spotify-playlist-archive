@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Kali Uchis, Ravyn Lenae
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,858 likes - 117 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,856 likes - 117 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

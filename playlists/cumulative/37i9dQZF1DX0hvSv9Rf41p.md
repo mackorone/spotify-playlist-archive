@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Ray Volpe
 
-1,485 songs - 3 day 9 hr 48 min
+1,486 songs - 3 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -669,6 +669,7 @@
 | [Hypnotic](https://open.spotify.com/track/2GVscOY1PbZknTX0lNuxni) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Onzeker Kraft Vol.1](https://open.spotify.com/album/5YjyH1QQ20buSHnLJ3xm65) | 3:43 | 2023-03-24 | 2023-09-16 |
 | [I Am Here](https://open.spotify.com/track/25JwRq7ahtwS2seUFnGZDv) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27), [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [Colleen D'agostino](https://open.spotify.com/artist/1QURUQjhi5b4mntALhEhoQ) | [I Am Here](https://open.spotify.com/album/0mYjkKoHW3RrIjq5QNo6Ew) | 3:40 | 2024-05-10 | 2024-07-13 |
 | [I Believe \- Nemesy Remix](https://open.spotify.com/track/0rSuUyfsBHm9x93QjK6dvI) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Asha](https://open.spotify.com/artist/2EHKTScPT87Z0dHvTevc8D), [Nemesy](https://open.spotify.com/artist/6Ha6XgaRrFiCKXLtRi2iwk) | [I Believe \(Nemesy Remix\)](https://open.spotify.com/album/3uDwwQ3uieTjtJgpypL3Yn) | 2:58 | 2023-06-02 | 2023-08-19 |
+| [I Can't Stop \- Flux's Version](https://open.spotify.com/track/5ePaWNlFfr77EoOshAWdim) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [I Can't Stop \(Flux's Version\)](https://open.spotify.com/album/4hriKh0WnOPlChbBXt0Crm) | 5:03 | 2025-09-15 |  |
 | [I Found You](https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [I Found You](https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW) | 2:56 | 2023-05-12 | 2024-07-13 |
 | [i hate edm](https://open.spotify.com/track/4kxvbzdrOnxh5xadCD429G) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [i hate edm](https://open.spotify.com/album/1S2aKEi6MWfp5FmXaS6s9a) | 1:47 | 2024-04-05 | 2025-02-01 |
 | [I Like It When You Move](https://open.spotify.com/track/3LSzSHeK2RdMiznjXVTqJ2) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf) | [I Like It When You Move](https://open.spotify.com/album/5aYHM8eo8umIePZGEDE3d3) | 3:02 | 2023-09-08 | 2023-10-28 |
@@ -1227,7 +1228,7 @@
 | [Sploinky Dub](https://open.spotify.com/track/0b8WrzU0hzr5WH2uEpMlcL) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Grech](https://open.spotify.com/artist/6z1We817VZisHPTNCJi2cd) | [Sploinky Dub](https://open.spotify.com/album/2iAmSibpvHukTA7VHWsQbP) | 2:51 | 2024-06-14 | 2025-01-04 |
 | [STAR CANNON](https://open.spotify.com/track/2KZ3vJPCmKh9Him926mDsH) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [HALF BLOOD](https://open.spotify.com/album/0KvaKQ6sOPmlZTOvsGjoQA) | 3:28 | 2025-07-11 |  |
 | [Starfire](https://open.spotify.com/track/5x2FToE9OYtZt1McsqhiFY) | [JAWNS](https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib) | [Starfire](https://open.spotify.com/album/68her7Ju4UvZFtMXTsTIEj) | 3:48 | 2023-08-18 | 2023-10-06 |
-| [STARLIGHT](https://open.spotify.com/track/1pq0fjYwWtYhWrTNjkVCs7) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [STARLIGHT](https://open.spotify.com/album/5U6PxNsoaS3WTKYcUl0XJq) | 3:12 | 2025-08-08 |  |
+| [STARLIGHT](https://open.spotify.com/track/1pq0fjYwWtYhWrTNjkVCs7) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [STARLIGHT](https://open.spotify.com/album/5U6PxNsoaS3WTKYcUl0XJq) | 3:12 | 2025-08-08 | 2025-09-16 |
 | [Starry Eyed](https://open.spotify.com/track/659s4NliEPs3yKGcLSUhe6) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD), [NOMIS.K](https://open.spotify.com/artist/36hPgyntcoyEcgYDkaKrBc) | [Starry Eyed](https://open.spotify.com/album/3pQW33lGx00JTZ9tB9USbw) | 3:03 | 2025-03-21 | 2025-05-03 |
 | [Stars](https://open.spotify.com/track/6dHCJ5bhTbXx32URGkBFri) | [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy) | [Stars](https://open.spotify.com/album/2XWNQ5Yu7DB0e2AJBlzR76) | 2:39 | 2025-05-23 | 2025-06-21 |
 | [STARsound \(pt2\)](https://open.spotify.com/track/5dsOyRsaC8y7tQ9IXtuXca) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [KGM\(irl\)\*](https://open.spotify.com/album/69HD49w55iopcQVFsjSrBX) | 2:40 | 2024-10-18 | 2025-01-25 |

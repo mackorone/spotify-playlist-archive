@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Drake, Ed Sheeran, Rezz, Twenty One Pilots, Silverstein and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,281 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,293 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 22 | [GuabanSexxx](https://open.spotify.com/track/7pEwEHqjqx3kmXjXCOihff) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [GuabanSexxx](https://open.spotify.com/album/0kKZV7SgHvDgvpV4iLNBjq) | 2:41 |
 | 23 | [After You \(feat\. FAANGS\)](https://open.spotify.com/track/4cGvzO9ejXEVQl2FQI7Hmu) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Olivier Giacomotto](https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [After You \(feat\. FAANGS\)](https://open.spotify.com/album/2RabLUJKd1jpDS9NbojepU) | 3:06 |
 | 24 | [Forever](https://open.spotify.com/track/2v45e15OQW3oDQahWh6k4v) | [Verses GT](https://open.spotify.com/artist/4iJE0jzx9tLd3JE9TGhcpC), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Forever](https://open.spotify.com/album/5oDGnSjHiW7VE4Bn4qBNzW) | 3:28 |
-| 25 | [Forever](https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/5AOBx6uu2fTnhsu5keahyR) | [Forever](https://open.spotify.com/album/5bZB1yQFWT2YAR36eEuSct) | 2:51 |
+| 25 | [Forever](https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/42CbYw1Y9fAdCr6UND2P5f) | [Forever](https://open.spotify.com/album/5bZB1yQFWT2YAR36eEuSct) | 2:51 |
 | 26 | [Mr\. Mountebank](https://open.spotify.com/track/5tN8OqwUxsVKUCE1cea23k) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux Deluxe](https://open.spotify.com/album/3oaSSUc7HkXIpTb4NGLKDt) | 5:11 |
 | 27 | [Beaming](https://open.spotify.com/track/2esWCaLHr60GmPyHt1Eaet) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Beaming](https://open.spotify.com/album/1q8mdcd3fNv5fBmiEme4l1) | 2:49 |
 | 28 | [Don't Leave Too Soon](https://open.spotify.com/track/7HrXqBIvMg99q49IC0mLHl) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Don't Leave Too Soon \(From the Netflix Film 'Steve'\)](https://open.spotify.com/album/4VVroj6CaFvnbQ5fvTEmQj) | 3:38 |

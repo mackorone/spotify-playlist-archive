@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 59897,
+  "num_followers": 59912,
   "original_name": "Nederlandse Zomerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-08-13 08:02:17",
       "album": {
+        "name": "Verleden Tijd",
+        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 167244,
+      "name": "Verleden Tijd",
+      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
+    },
+    {
+      "added_at": "2025-08-13 08:02:17",
+      "album": {
         "name": "Gooi 'm Dicht",
         "url": "https://open.spotify.com/album/1n3tJ1eFmoEtmV2fSRwLsN"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 152226,
       "name": "Gooi 'm Dicht",
       "url": "https://open.spotify.com/track/3OVqGh1AJlrjLThO3S6LAn"
-    },
-    {
-      "added_at": "2025-08-13 08:02:17",
-      "album": {
-        "name": "Verleden Tijd",
-        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 167244,
-      "name": "Verleden Tijd",
-      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
     },
     {
       "added_at": "2025-08-13 08:02:17",

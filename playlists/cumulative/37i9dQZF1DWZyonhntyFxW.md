@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف: ويجز
+> إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف: مروان موسى
 
-429 songs - 20 hr 59 min
+430 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [AMOT ANA](https://open.spotify.com/track/5Q7wSLrCf2z6isQqDuuqeY) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الجلسة الاولى: إنكار](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 3:45 | 2024-08-05 | 2024-08-16 |
 | [AMTAR](https://open.spotify.com/track/5AGeNYpstVBpFn8IW2KqS7) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [El Sahaba Bonus](https://open.spotify.com/album/1J3NZMlu9mW7W1Pjvo0jrC) | 2:48 | 2022-10-10 | 2023-03-23 |
 | [ANA DEAL](https://open.spotify.com/track/1QcOE9wJeillm0WK0oujtD) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [ANA DEAL](https://open.spotify.com/album/2WMRjvOdsTaYJbOf6tQ0tL) | 3:15 | 2022-09-13 | 2023-06-16 |
+| [ANA ESMY ZIAD ZAZA](https://open.spotify.com/track/4llSXlOfqesFjhnLazIpxd) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf) | [ANA ESMY ZIAD ZAZA](https://open.spotify.com/album/7bv20zT7obBMQ6Fq3reFIV) | 2:13 | 2025-09-15 |  |
 | [Ana w Zmely](https://open.spotify.com/track/6o187GRw3avGumhmhiMgM8) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Ana w Zmely](https://open.spotify.com/album/0X0i3G96Ajte0wpha1I4Hj) | 2:58 | 2023-01-16 | 2023-08-18 |
 | [Ana Wingii](https://open.spotify.com/track/776sud6Dt8OnUuRcQnmKe8) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [Mangesto](https://open.spotify.com/album/3t3dNFtSlwC5UBg9fRgKi5) | 1:58 | 2023-08-24 | 2023-10-01 |
 | [ANSAHA!](https://open.spotify.com/track/2prwfEVbn7maXugq9Se9YB) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [Kingoo](https://open.spotify.com/artist/0kzkjhdSYMW3o4bm5DBbuT) | [ZHYMR](https://open.spotify.com/album/3udsEUYWbITZNWdJwCcnV2) | 2:22 | 2024-09-04 | 2025-05-08 |
@@ -171,7 +172,7 @@
 | [Haram](https://open.spotify.com/track/7qFJ6AZ2sxHP2YTzaI71mh) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abo EL Anwar](https://open.spotify.com/artist/2SGKZx9TN8xmObKgFyjK4t), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Mextape](https://open.spotify.com/album/52X9QBMjLUbdIOLzOyvTKC) | 3:05 | 2022-06-20 | 2022-10-21 |
 | [HARAZEEK](https://open.spotify.com/track/4KkZaDtLIuCiCUH6Zwy0rx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Amr Saad](https://open.spotify.com/artist/1hrucExvTdqEfvm2NSjMzv) | [HARAZEEK](https://open.spotify.com/album/0CGER7nFUzj3GFGKK3UJD0) | 2:38 | 2022-05-10 | 2022-12-27 |
 | [Hashesh](https://open.spotify.com/track/3fLlbxAckoknuMDb91V1Ub) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK) | [Hashesh](https://open.spotify.com/album/5YTfEONRM3UgbeJoMCtmYL) | 2:05 | 2024-03-11 | 2024-05-02 |
-| [HERO](https://open.spotify.com/track/5iCZDlejNhUKyIQMMwml5l) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [KHOD](https://open.spotify.com/album/4thKK66tWjxDmOTLJSfvmY) | 2:29 | 2024-09-04 |  |
+| [HERO](https://open.spotify.com/track/5iCZDlejNhUKyIQMMwml5l) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [KHOD](https://open.spotify.com/album/4thKK66tWjxDmOTLJSfvmY) | 2:29 | 2024-09-04 | 2025-09-16 |
 | [HOSS](https://open.spotify.com/track/5JXzcZBkizj6fFjPHpeV1N) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:00 | 2023-05-11 | 2023-08-17 |
 | [Howa Enta Ahbal?](https://open.spotify.com/track/4B1qzWpCaah3EQPYS8ZuJF) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [7abba Fo2 // 7abba Ta7t](https://open.spotify.com/album/1o6axxoJca4D2hO5l288gi) | 2:29 | 2024-01-25 | 2024-04-24 |
 | [Howa Keda](https://open.spotify.com/track/3Ge5cR5bN86RjCd6uiwXSB) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Xander Ghost](https://open.spotify.com/artist/0YnJWGYVKBAi4eKFyoMpVC) | [Howa Keda](https://open.spotify.com/album/36u9BvrPsC0jvbAnyFJO8c) | 2:15 | 2024-04-29 | 2024-05-02 |

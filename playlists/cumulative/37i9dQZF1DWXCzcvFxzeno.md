@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Marie Vaunt
 
-303 songs - 21 hr 31 min
+304 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Alte Keks](https://open.spotify.com/track/58RBR8PTEQBHyUaiAz5fGH) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Mo\-Do](https://open.spotify.com/artist/3Y42QTbwNJeqEVmrMknG0f) | [Alte Keks](https://open.spotify.com/album/6YrSgCGaLLFG5yyJIVwr4C) | 2:58 | 2025-06-20 |  |
 | [Ang3l Attack!](https://open.spotify.com/track/2MBp3Z0SgeQL2lCsc0WORT) | [Dana Vicci](https://open.spotify.com/artist/06xgwbbr9uaPpoGsCf9NC4) | [Ang3l Attack!](https://open.spotify.com/album/1NXABba2AxQ2oMdxkB922r) | 3:36 | 2025-08-22 |  |
 | [ASBAK ANTHEM](https://open.spotify.com/track/6gXag9ON69aYPQW6YHGFfV) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [ASBAK ANTHEM](https://open.spotify.com/album/4bTmkkIfnIm7MzEv5zAIGU) | 2:39 | 2025-07-22 | 2025-08-23 |
+| [Ashes \- VIP](https://open.spotify.com/track/6MkV6oCH7NTBBoGW0BBLiV) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Ashes \(VIP\)](https://open.spotify.com/album/4Rif9KlWwiZJEoMIaLgI29) | 2:34 | 2025-09-05 |  |
 | [Atmosphere](https://open.spotify.com/track/0K6j9TthnI8F4uvt4ecI1d) | [Zeltak](https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd), [HOEHENANGST](https://open.spotify.com/artist/5Th92yptJHxyXDEgc5qtQl) | [Atmosphere](https://open.spotify.com/album/2KO4aVMoXCnZyCGlJDzXLv) | 4:57 | 2024-09-06 | 2025-08-13 |
 | [Aural Exciter \- Original Mix](https://open.spotify.com/track/5jk06siNYQ9lK5ba3qAC7B) | [Glenn Wilson](https://open.spotify.com/artist/1k0bnsqmUolxbTWG00U8Zb), [Mike Humphries](https://open.spotify.com/artist/1N1e7TFA0jcGad0NlnlMP1) | [Aural Exciter \- The Remixes](https://open.spotify.com/album/6RopaDNX28CL1wdag8gzmk) | 5:20 | 2024-08-13 | 2024-09-16 |
 | [B2B](https://open.spotify.com/track/0oKPYa7P06v56FiA6y2lUZ) | [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [B2B](https://open.spotify.com/album/5ljknZ8FjnJVINAp2Ap3Qn) | 3:15 | 2025-08-22 |  |
@@ -190,7 +191,7 @@
 | [Meet Me In São Paulo \(Grelinho De Diamante\)](https://open.spotify.com/track/2uWlcCQw3nbQosOPkiLHQt) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [MC Tchelinho](https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv), [Mc Baby Perigosa](https://open.spotify.com/artist/4cozwOHA4R5HtklxTTV4o6) | [Meet Me In São Paulo \(Grelinho De Diamante\) \(feat\. Heavy Baile, Baby Perigosa & MC Tchelinho\)](https://open.spotify.com/album/6d0oiamRHpnu65xFI2jNax) | 5:09 | 2024-06-18 | 2025-04-25 |
 | [MIRAGE](https://open.spotify.com/track/3McrQoWYs6qGmuWEAVnRSJ) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [MIRAGE](https://open.spotify.com/album/6Q4F5AMGnzaZz4vQblwwHb) | 2:45 | 2024-06-25 |  |
 | [MOVE](https://open.spotify.com/track/4BIygQShBWiPBdGAXt5TBp) | [Conrad Taylor](https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw) | [MOVE](https://open.spotify.com/album/6IqKIMMASEDxZuMkPQyQkg) | 2:42 | 2025-07-25 |  |
-| [Move](https://open.spotify.com/track/3uROl5uWrMQiBpynHm7thI) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Move](https://open.spotify.com/album/08HbEH8XyvflTaewgDR2cu) | 3:46 | 2025-02-20 |  |
+| [Move](https://open.spotify.com/track/3uROl5uWrMQiBpynHm7thI) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Move](https://open.spotify.com/album/08HbEH8XyvflTaewgDR2cu) | 3:46 | 2025-02-20 | 2025-09-16 |
 | [Move It](https://open.spotify.com/track/3gnH53dSgNvqUvxrgDpYPo) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9), [Karashnikov](https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Move It](https://open.spotify.com/album/78miFh4oqxMuPxltAC9i5T) | 4:33 | 2024-04-09 | 2025-01-13 |
 | [MUJER](https://open.spotify.com/track/3tCyfFH3PpwDGtXzoGqjJR) | [Vlinder Vos](https://open.spotify.com/artist/0dTdgnb11wkxjzXv9JdXdi) | [MUJER](https://open.spotify.com/album/4bBFwCZ0I4VLSLqgYgsAjL) | 3:01 | 2024-04-09 | 2024-08-06 |
 | [Murdock](https://open.spotify.com/track/7nN21YXSaGR5mygpLIk76a) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9), [AXL](https://open.spotify.com/artist/3HvGktIqgqALPusQhtRtno), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Murdock](https://open.spotify.com/album/399a0712lFkePRqeJUANNY) | 5:15 | 2024-04-09 | 2024-05-23 |

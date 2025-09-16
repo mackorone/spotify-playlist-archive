@@ -1232,10 +1232,28 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 246506,
       "name": "San Juanico",
       "url": "https://open.spotify.com/track/3JDchA8PKRWp0jhnsInURK"
+    },
+    {
+      "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325706,
+      "name": "San Juanico",
+      "url": "https://open.spotify.com/track/5yfAPz7Qac8QzSLRw4iIdL"
     },
     {
       "album": {

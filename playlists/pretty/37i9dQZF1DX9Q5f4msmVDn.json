@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 23759,
+  "num_followers": 23763,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Soundgasm",
+        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 204755,
+      "name": "Soundgasm",
+      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Free Dem Boyz",
         "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 415133,
       "name": "Never Would Have Made It",
       "url": "https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Soundgasm",
-        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 204755,
-      "name": "Soundgasm",
-      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -447,26 +447,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "CALL ME IF YOU GET LOST",
-        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "DAISY WORLD",
-          "url": "https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT"
-        }
-      ],
-      "duration_ms": 203588,
-      "name": "RISE! (feat. DAISY WORLD)",
-      "url": "https://open.spotify.com/track/4Hta7Oy5W9HD0UgT1P8PPV"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Evolution Of Gospel",
         "url": "https://open.spotify.com/album/3Nadyd2d91SwdnSNPEWLTp"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 179226,
       "name": "Sleepless Nights (feat. Phoelix)",
       "url": "https://open.spotify.com/track/6h7jn2jE2EqJadOkDXsDJh"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "DAISY WORLD",
+          "url": "https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT"
+        }
+      ],
+      "duration_ms": 203588,
+      "name": "RISE! (feat. DAISY WORLD)",
+      "url": "https://open.spotify.com/track/4Hta7Oy5W9HD0UgT1P8PPV"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 135862,
-      "name": "Pump Up The Jam",
-      "url": "https://open.spotify.com/track/2aUQpQBZF5KjfGHffx2oFo"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "What It Feels Like",
         "url": "https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 275162,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 135862,
+      "name": "Pump Up The Jam",
+      "url": "https://open.spotify.com/track/2aUQpQBZF5KjfGHffx2oFo"
     },
     {
       "added_at": "2022-10-01 16:00:00",

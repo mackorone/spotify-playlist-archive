@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Irina Barros
 
-573 songs - 1 day 9 hr 3 min
+574 songs - 1 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Bu Ka Speraba](https://open.spotify.com/track/7eVclayVLOT5NOyDYLZNhJ) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Bu Ka Speraba](https://open.spotify.com/album/4upXh4NnYwvnsVby7e1WwY) | 3:15 | 2023-05-18 | 2025-03-28 |
 | [Bu Panco](https://open.spotify.com/track/6Yxwi70FH2DatDVdfa1oDT) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE) | [Bu Panco](https://open.spotify.com/album/5S080CzxSqLIIdVrFJHjJO) | 3:55 | 2021-12-10 | 2022-07-22 |
 | [Buena Vista](https://open.spotify.com/track/2zdt7imZNmvv1kSTpRdVIA) | [Luka Oramas](https://open.spotify.com/artist/3B9vtJM32oVlx0O2nNModG), [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Buena Vista](https://open.spotify.com/album/7gfnmS1ZSdLbqHHh1lAJQg) | 2:22 | 2025-06-05 | 2025-07-07 |
-| [Buquê](https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Buquê](https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX) | 3:31 | 2024-06-20 |  |
+| [Buquê](https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Buquê](https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX) | 3:31 | 2024-06-20 | 2025-09-16 |
 | [Bypass](https://open.spotify.com/track/2mQ3Z8eMnQ1JMuAvwlEG3S) | [Deusânia Celma](https://open.spotify.com/artist/0830PftfyzdiCm5RdM9U11) | [Bypass](https://open.spotify.com/album/56AgOmRUllPIKtXR56YeLv) | 3:26 | 2022-07-07 | 2022-07-15 |
 | [Cabo Verde](https://open.spotify.com/track/4ZaJIFetJil7VcxS6v4acb) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Museu](https://open.spotify.com/album/1aMmsWFPsp3xmSoOS6a1LH) | 3:04 | 2023-12-01 | 2024-04-26 |
 | [Cada Detalhe Teu](https://open.spotify.com/track/6p7j5VQkywOk8aPKw2CGpU) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Cada Detalhe Teu](https://open.spotify.com/album/02y9Q2mTw9lGr3C3A3IO79) | 3:26 | 2022-07-22 | 2022-10-21 |
@@ -365,6 +365,7 @@
 | [Não vai lá](https://open.spotify.com/track/3soU1YzHXcd4nsIjpJmMgK) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Não vai lá](https://open.spotify.com/album/7MkzilGO9QcuASMQuDW0a9) | 3:07 | 2022-08-12 | 2022-12-01 |
 | [Não vai lá](https://open.spotify.com/track/1l52eiHWhwnSLfdyqBRAeY) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Sincera](https://open.spotify.com/album/6azn6TqoR8Uin80ljkqddo) | 3:07 | 2022-12-09 | 2024-04-19 |
 | [Nós \(Bad Boy\)](https://open.spotify.com/track/6gDp0TyaNxFn8w8R1ODt16) | [Janepada](https://open.spotify.com/artist/2BhWAGxvwDLoat5ikbqiUG), [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd) | [Nós \(Bad Boy\)](https://open.spotify.com/album/1R0y8ApV76eN2i5rXPcVLR) | 2:50 | 2025-06-16 | 2025-06-27 |
+| [O Aviãozinho Caiu \(Aviator\)](https://open.spotify.com/track/0mIyyJXFkpx7HIziNmNCJ3) | [Mr\. KIZOMBA](https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7), [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Mark Diaz](https://open.spotify.com/artist/49IR3RCQ4ihqBooEeK3ABq) | [O Aviãozinho Caiu \(Aviator\)](https://open.spotify.com/album/57e8qj0V29WAZZlrw4WqQy) | 3:27 | 2025-09-11 |  |
 | [O Jeito Dela \- Original Mix](https://open.spotify.com/track/5sWHddw9qAaa5nlfNzYeCn) | [Gasso Franco](https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i) | [O Jeito Dela](https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g) | 4:45 | 2024-03-08 |  |
 | [O Jeito Dela \- Radio Edit](https://open.spotify.com/track/1IPfgonCiEuHRIsDddkBWq) | [Gasso](https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i) | [O Jeito Dela](https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g) | 3:36 | 2024-04-25 | 2025-06-27 |
 | [O Lamento](https://open.spotify.com/track/0dpqMHwFssBIFfpkUu6Fvi) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [O Lamento](https://open.spotify.com/album/46dkBV8nfGFL1YB2hzq7h1) | 4:00 | 2024-05-23 |  |

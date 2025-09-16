@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,805 songs - 3 day 8 hr 7 min
+1,809 songs - 3 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Ann's Lullaby](https://open.spotify.com/track/4w1DqdY27a1nfrXPBNsixT) | [Manuel Zito](https://open.spotify.com/artist/1D1r09YGuPm6Q5L8KeQcd2) | [Ann's Lullaby](https://open.spotify.com/album/5YQt0lCeryPlyl6ffqcaFQ) | 3:14 | 2020-01-08 | 2020-03-31 |
 | [Anona](https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [The Lost](https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT) | 3:27 | 2019-07-25 | 2020-03-04 |
 | [Another Life](https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Another Life](https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD) | 2:19 | 2022-01-26 | 2023-11-14 |
+| [Another You](https://open.spotify.com/track/0EtAKEkG6bbdMUNGD6ZaJR) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Another You](https://open.spotify.com/album/2M8u3SmPYLE9aqTKC0WI6u) | 2:46 | 2025-09-15 |  |
 | [Answer With Light](https://open.spotify.com/track/51bCmUlVILY4qBFkm2t0Km) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Answer With Light](https://open.spotify.com/album/73ONbpwmVtKFKWFPkPq2dE) | 2:21 | 2022-04-28 | 2023-11-14 |
 | [Anthem](https://open.spotify.com/track/2pQyIi1mMMRPDjFPkgtfSn) | [Dmitry Evgrafov](https://open.spotify.com/artist/5gO6Qun6lW2PILwqcvEug8) | [Pereehali](https://open.spotify.com/album/6PV6VSijaovsQ3eSVaIYsp) | 3:03 | 2019-05-26\* | 2020-03-04 |
 | [Anwyll](https://open.spotify.com/track/3b2dTXXFKvij1wUU5JQJqb) | [Doris Casella](https://open.spotify.com/artist/7B0BAZDsfvl8duBfVjlSyJ) | [Anwyll](https://open.spotify.com/album/5tNbFT3QknGiXWZA528HpI) | 2:28 | 2019-10-30 | 2020-05-12 |
@@ -1023,6 +1024,7 @@
 | [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 | 2021-05-22 | 2022-05-13 |
 | [Nibiru](https://open.spotify.com/track/2H5saY4C7YqZiuKED6sAvA) | [Ulrich Volker](https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY) | [Nibiru](https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7) | 2:39 | 2020-08-04 | 2021-02-17 |
 | [Night](https://open.spotify.com/track/6gP1lRXjWOCwkwOiuhITvm) | [Coeur](https://open.spotify.com/artist/6YhMR3gGjIbtHlskODqCUd) | [Night](https://open.spotify.com/album/16kvMhddZV5tUTCrVcOdRX) | 2:28 | 2023-04-11 | 2024-12-04 |
+| [Night Beneath Us](https://open.spotify.com/track/5rtLxR4M0ZGoTe6vQOjlrU) | [Sorellien](https://open.spotify.com/artist/6tskJzai4ETnMp76lomMzr) | [Night Beneath Us](https://open.spotify.com/album/4ITDAWAyqep2uc3yqmy7ZY) | 2:39 | 2025-09-15 |  |
 | [Night Hymn](https://open.spotify.com/track/6y9vppkSyxb7m57BKxtaqb) | [Anne Straub](https://open.spotify.com/artist/2Uqeqg9rCtk2ad9BPWpent) | [Night Hymn](https://open.spotify.com/album/4yuteEOLn8qJAMBujcwGbY) | 2:15 | 2021-09-24 | 2022-02-03 |
 | [Night Light](https://open.spotify.com/track/7LLLc3Gxg6zRm9lKtmuCGR) | [Jonathan Beaujean](https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei) | [Night Light](https://open.spotify.com/album/6NOESzKosiokfmEwXfZOnX) | 2:09 | 2021-08-05 | 2022-05-21 |
 | [Night Sky](https://open.spotify.com/track/0DXsxu0TJ8TtrOklnsL6nj) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [Night Sky](https://open.spotify.com/album/5E6ZKI7FXtjRdLZJ5S3bS5) | 2:26 | 2022-08-08 | 2023-09-23 |
@@ -1297,7 +1299,7 @@
 | [Salvatore](https://open.spotify.com/track/6t49FHYi8W01F35FMrdgbk) | [Henrietta Kuipers](https://open.spotify.com/artist/5ULLDXAaGnGYylLzZxaXog) | [Salvatore](https://open.spotify.com/album/2zqvrczDnP8HS7vCdFXiM7) | 2:16 | 2019-06-13 | 2020-09-28 |
 | [Samarcande](https://open.spotify.com/track/0kBBID6PJWjdh0Feew3rtW) | [Limestone Quarry](https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC) | [Samarcande](https://open.spotify.com/album/1Jas47aIjJ4dJGnFtqnstU) | 3:22 | 2020-04-28 | 2021-03-31 |
 | [San Siro](https://open.spotify.com/track/2XXnGBKuvfcpfVvRgBEdvP) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [San Remo](https://open.spotify.com/album/7n4ZFIcNUM7GjyLd9FWNnA) | 2:50 | 2022-05-04 | 2024-01-03 |
-| [Sanctuary](https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Sanctuary](https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU) | 2:31 | 2023-06-13 |  |
+| [Sanctuary](https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Sanctuary](https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU) | 2:31 | 2023-06-13 | 2025-09-16 |
 | [Sanctuary](https://open.spotify.com/track/5oKiEfM3YuGCOXrFKcZpbM) | [Wave Of Pollen](https://open.spotify.com/artist/7gPa5ROTtEKCRAaOsM6thZ) | [Sanctuary](https://open.spotify.com/album/2Ogoe8psCeVJQe7trdF7Bf) | 2:34 | 2021-05-12 | 2022-07-16 |
 | [Sand](https://open.spotify.com/track/78qaTDD6WW9NnnaFJfP6wa) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Sand](https://open.spotify.com/album/4FxlL6SpqPQDTlBd867kuj) | 2:23 | 2022-07-28 | 2024-01-03 |
 | [Sand Between Our Fingers](https://open.spotify.com/track/55S0Xumnc0oNtM3fzh2Oex) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Sand Between Our Fingers](https://open.spotify.com/album/6YF5cIpHznEz9HTrLAOLwf) | 2:48 | 2020-06-02 | 2020-11-10 |
@@ -1397,7 +1399,7 @@
 | [Solace](https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Solace](https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB) | 2:31 | 2022-12-20 | 2024-02-13 |
 | [Solace](https://open.spotify.com/track/0y4oznUeCBGiTZou3hmimL) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Solace](https://open.spotify.com/album/1PKrrLeulHP3htvBJH5WDF) | 2:09 | 2024-04-15 |  |
 | [Solace](https://open.spotify.com/track/1Hrfg2JAPdT8eciUv9M0bO) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Solace](https://open.spotify.com/album/13VXiCh6oF3sb2N3jPlfHP) | 2:42 | 2019-05-26\* | 2020-11-17 |
-| [soleil](https://open.spotify.com/track/5xFeWI8GG7ylFRh0Pi6sli) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [soleil](https://open.spotify.com/album/0twR0FMwm4qI6WiwOztwTV) | 2:35 | 2025-08-04 |  |
+| [soleil](https://open.spotify.com/track/5xFeWI8GG7ylFRh0Pi6sli) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [soleil](https://open.spotify.com/album/0twR0FMwm4qI6WiwOztwTV) | 2:35 | 2025-08-04 | 2025-09-16 |
 | [Soleil du Soir](https://open.spotify.com/track/3YY1rqHLRgCul3gcBo3NKT) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB) | [Chansons en été](https://open.spotify.com/album/4zdIq71lQrBmpEwlC9je7i) | 3:56 | 2019-08-02 | 2019-10-16 |
 | [Solfeggio](https://open.spotify.com/track/0iZ9VfP5adrL4UdIa5D2Cs) | [Finja Seiden](https://open.spotify.com/artist/4HgoiVnZ4T75NSjXygiOyH) | [Solfeggio](https://open.spotify.com/album/6potW1KKhU50Il0kKXrdzo) | 2:54 | 2022-02-09 | 2022-07-29 |
 | [Solitaire](https://open.spotify.com/track/7jYOivheBtZYcsnJhQOMXT) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Solitaire](https://open.spotify.com/album/0pJKEJHiWZfkESbo8slz54) | 1:54 | 2019-09-12 | 2020-09-30 |
@@ -1677,6 +1679,7 @@
 | [Vals De Rodrigues](https://open.spotify.com/track/3I3WY0C7AQMe6Z6hMUQqd5) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Vals De Rodrigues](https://open.spotify.com/album/3q10Tg3kwZZmQYCLaCZos7) | 2:41 | 2019-09-12 | 2021-03-31 |
 | [Valse](https://open.spotify.com/track/0HUbTiZUqqQWmA4GKwJWOv) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Valse](https://open.spotify.com/album/5UDwQgqXvDZCVdDz1NqwUK) | 2:11 | 2022-10-13 | 2024-05-23 |
 | [Valse](https://open.spotify.com/track/6Byh2m5om63yZL35VrP0CF) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Valse](https://open.spotify.com/album/1XlVm3hPaCrOtjUIxSU8j7) | 2:22 | 2022-10-03 | 2023-09-23 |
+| [valse de la fille](https://open.spotify.com/track/7fxJDIIC14LZjmbtRr4lsM) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [valse de la fille](https://open.spotify.com/album/7joqEdM1MFBHHja8R2sV6Q) | 2:34 | 2025-09-15 |  |
 | [Valse Delle Vigne](https://open.spotify.com/track/3JSPIgK4QMCTSEXZCMRuPj) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Valse Delle Vigne](https://open.spotify.com/album/3PaiRAL4CrC40EttDtar63) | 2:31 | 2024-02-27 | 2025-02-26 |
 | [Valse Glacée](https://open.spotify.com/track/6nFq454HmDgKLSit00vniw) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Valse Glacée](https://open.spotify.com/album/6efs2LoTvfJFf3nMTM3l9W) | 3:00 | 2019-07-11 | 2020-06-09 |
 | [Valse Mistral](https://open.spotify.com/track/6fnYjOnJIiCctDggEhTMti) | [Lotus Laverne](https://open.spotify.com/artist/59aZyEO8IQYZfEpsOV8vkj) | [Valse Mistral](https://open.spotify.com/album/1Uq5YepxqDsJck7PQDbZid) | 2:52 | 2021-09-24 | 2022-02-03 |
@@ -1813,5 +1816,6 @@
 | [À une passante](https://open.spotify.com/track/2P4WwPwqJp7JPwDic4ambo) | [Libor Kolman](https://open.spotify.com/artist/5GWhfNzngahL2GIFq3NwHT) | [À une passante](https://open.spotify.com/album/1yGCx1iuOmbBC3C4piEJCU) | 1:44 | 2019-08-30 | 2020-01-08 |
 | [æfre](https://open.spotify.com/track/2irbT1BSYaIEF44PlyKaoM) | [praam](https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP) | [æfre](https://open.spotify.com/album/4qvfeDEPDNmJFIJdOjGoaW) | 3:06 | 2020-08-25 | 2021-02-09 |
 | [Ærlighet](https://open.spotify.com/track/7h79rwHdJhHy4srfV43xVB) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Ærlighet](https://open.spotify.com/album/5d1MTzFWXVmeWpXY71Sfct) | 1:57 | 2020-01-14 | 2021-10-01 |
+| [Éveil](https://open.spotify.com/track/2brRgCl1LHEDuwMjFxp8s5) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Éveil](https://open.spotify.com/album/3A3g8Hg3Y2y42uG7BmDoft) | 2:54 | 2025-09-15 |  |
 
 \*This playlist was first scraped on 2019-05-26. Prior content cannot be recovered.

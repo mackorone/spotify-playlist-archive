@@ -4,7 +4,7 @@
 
 > All your girl crushes\(걸크러쉬\) in one place\. \(Cover: WENDY\)
 
-578 songs - 1 day 6 hr 2 min
+580 songs - 1 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [BOSS](https://open.spotify.com/track/03UHveMYHRWVx6gmgXnPsx) | [KIARA](https://open.spotify.com/artist/4zgwEbAQXg18E1rgx4jeOb) | [BOSS](https://open.spotify.com/album/5MXIdlIMjHvSZP5Puj9CMA) | 3:01 | 2021-02-26 | 2022-04-21 |
 | [Breaking the rules](https://open.spotify.com/track/1u0RhUf3sCx5mir8uQVCgB) | [Ferry Blue](https://open.spotify.com/artist/5hoabnM5gbywbrTEKiHilf) | [Breaking the rules](https://open.spotify.com/album/6YpNxm9tIA0eRVrXGb2REG) | 3:23 | 2023-12-04 | 2024-01-09 |
 | [BTG](https://open.spotify.com/track/0YJVQS3v3ocOMPzVy9yuXE) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [UNCUT GEM](https://open.spotify.com/album/08goLajOh9geJzsBalNa2n) | 3:10 | 2025-03-24 | 2025-05-15 |
-| [BUBBLE GUM](https://open.spotify.com/track/3mwiQvgLdLUL6RJQvN34T5) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [BUBBLE GUM](https://open.spotify.com/album/5GFPQTrEu0ye4iRLwzFpy3) | 2:37 | 2025-08-19 |  |
+| [BUBBLE GUM](https://open.spotify.com/track/3mwiQvgLdLUL6RJQvN34T5) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [BUBBLE GUM](https://open.spotify.com/album/5GFPQTrEu0ye4iRLwzFpy3) | 2:37 | 2025-08-19 | 2025-09-16 |
 | [bugAboo](https://open.spotify.com/track/2gXkUjX4hiBb1TYyrIx0Ny) | [bugAboo](https://open.spotify.com/artist/0qgxiUt2HZ0GoYRYF01aH5) | [bugAboo](https://open.spotify.com/album/4eXw2D722tMVage8wwtsOR) | 3:50 | 2021-10-27 | 2022-04-20 |
 | [BURN](https://open.spotify.com/track/194uztQZdWMZutepG4ZkeB) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<BURN>](https://open.spotify.com/album/4benP09DGGgfu79UY9zvaU) | 3:19 | 2025-04-07 | 2025-05-15 |
 | [But I](https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [COLOURS](https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm) | 2:40 | 2024-04-30 | 2024-05-14 |
@@ -207,6 +207,7 @@
 | [Gleam](https://open.spotify.com/track/4dOrfL6qgxnjCMSmkekFhB) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Gleam](https://open.spotify.com/album/1HWezHtB1jFWZ96uy4cRq9) | 3:04 | 2020-10-20 | 2022-07-01 |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-05-08 |  |
 | [Go or Stop?](https://open.spotify.com/track/5ZQt1BxZ25CYGgxC7g3XFt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Go or Stop?](https://open.spotify.com/album/1oMfb1X1wk1cyc60tNrqaA) | 2:38 | 2021-10-13 | 2022-04-21 |
+| [GOD](https://open.spotify.com/track/6Ev2eykd1Iv7ihZp1bnNSQ) | [NANA](https://open.spotify.com/artist/0y7Ayco2wqh26ps6bYsor8) | [The 1st Album 'Seventh Heaven 16'](https://open.spotify.com/album/0bBfyeBxlj5xaNyqtUkWnO) | 2:17 | 2025-09-15 |  |
 | [gogobebe](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [White Wind](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) | 3:15 | 2020-10-20 | 2022-04-20 |
 | [GOLD](https://open.spotify.com/track/1dqN2j0jL4qB72CNgCdQ09) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:07 | 2024-10-15 | 2025-01-13 |
 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-07-04 |  |
@@ -308,7 +309,7 @@
 | [LION](https://open.spotify.com/track/4TArUx34wOehwpnbXlKBQY) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Queendom < FINAL Comeback >](https://open.spotify.com/album/1x2QsojG3m0e0jkLzP1rGr) | 3:30 | 2021-01-15 | 2022-07-28 |
 | [LIONS](https://open.spotify.com/track/1CDPPiQdieIinIveLZZRzk) | [TeenageGirls](https://open.spotify.com/artist/5IgVwSI9aWD9k0tDWDNJbS) | [Teenage Girl FINAL](https://open.spotify.com/album/25932bTp1w4ggpaOUaogP7) | 3:38 | 2022-03-29 | 2022-04-16 |
 | [Lip & Hip](https://open.spotify.com/track/5C2d3tz8WACjmw7T6TthQ2) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Lip & Hip](https://open.spotify.com/album/01Dv8rPO2AvHogy6uDkb1t) | 3:29 | 2021-03-15 | 2021-03-16 |
-| [Lips Hips Kiss](https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 3:09 | 2025-06-10 |  |
+| [Lips Hips Kiss](https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 3:09 | 2025-06-10 | 2025-09-16 |
 | [Live, Love, Laugh](https://open.spotify.com/track/5PtLa8S310oSz6HdxDTc5T) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS ROAD](https://open.spotify.com/album/0drBJNDdHv4qK7XfPtBqee) | 3:30 | 2025-05-08 | 2025-06-18 |
 | [LOCO](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:11 | 2022-07-25 | 2024-01-17 |
 | [LOCO](https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-09-25 | 2022-07-29 |
@@ -494,6 +495,7 @@
 | [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 | 2023-08-25 | 2024-03-03 |
 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 | 2025-07-11 | 2025-08-15 |
 | [This love \(feat\. Paul Blanco\)](https://open.spotify.com/track/7vgvV8dD2L0l7pMSOBPD26) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [This love \(feat\. Paul Blanco\)](https://open.spotify.com/album/2XYKNORkUW6lPluYIZodpf) | 2:54 | 2023-07-19 | 2023-07-26 |
+| [THRILLER](https://open.spotify.com/track/6FVwbv7XgC7xR2FT5ISS4B) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [THRILLER](https://open.spotify.com/album/3WDzrUo4IO2A3ScJh6LWTW) | 2:52 | 2025-09-15 |  |
 | [Thumbs Up](https://open.spotify.com/track/1TDvkATTyjLCh8Teuqa7Dc) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Thumbs Up](https://open.spotify.com/album/3PG4dq1ZweU7obfiKRQCtw) | 3:18 | 2021-02-26 | 2021-03-18 |
 | [Tick Tick Boom](https://open.spotify.com/track/19WBBlTBTcgNGYBbY6HZB6) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Day&Night](https://open.spotify.com/album/6tsh5bEFhDVuWVaNCGVhjc) | 2:59 | 2022-10-26 | 2022-11-21 |
 | [Tie a Cherry](https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [ALPHA](https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg) | 3:10 | 2021-10-27 | 2022-06-01 |

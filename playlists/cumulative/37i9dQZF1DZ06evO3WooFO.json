@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "Neighborhoods (Deluxe)",
+        "url": "https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235146,
+      "name": "Natives",
+      "url": "https://open.spotify.com/track/1GyBZWdHDFvTz1UxzxeNC0"
+    },
+    {
+      "album": {
         "name": "ALL IN MY HEAD / NO FUN",
         "url": "https://open.spotify.com/album/3bL8GdAgDbtbd6U9iIjS7T"
       },
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 182676,
       "name": "NO FUN",
       "url": "https://open.spotify.com/track/67kPRgz01FoxhrHPU9HXrY"

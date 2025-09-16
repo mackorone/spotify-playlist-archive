@@ -4,7 +4,7 @@
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-94 songs - 7 hr 45 min
+95 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Don't Stop… \- Demo](https://open.spotify.com/track/6lwWNrZ5nufGhTu5JQg0Hv) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Stop… \(Demo\)](https://open.spotify.com/album/40aKKEG4XwBNjVSW5zSA6h) | 4:56 | 2022-01-11 | 2024-06-07 |
 | [Fade Away](https://open.spotify.com/track/4HkmU5gk8NbidAAYLfc44k) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4) | 4:13 | 2025-07-20 |  |
 | [Fade In\-Out \- Remastered](https://open.spotify.com/track/0c96CIl2IQFsVl0AzbUbHe) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 6:51 | 2022-10-04 | 2022-10-06 |
-| [Falling Down](https://open.spotify.com/track/7Do5xcVXgjNEbXzYUSrPvg) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:20 | 2022-01-11 | 2025-07-08 |
+| [Falling Down](https://open.spotify.com/track/7Do5xcVXgjNEbXzYUSrPvg) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:20 | 2022-01-11 |  |
 | [Force Of Nature](https://open.spotify.com/track/3ujwIruj897uySuJuwoPQN) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 4:51 | 2022-10-20 | 2025-07-05 |
 | [Fuckin' in the Bushes](https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 3:18 | 2022-01-11 |  |
 | [Gas Panic!](https://open.spotify.com/track/2klLrvEu0OroEWsJWeafWp) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 6:08 | 2022-01-11 |  |
@@ -64,7 +64,7 @@
 | [Merry Xmas Everybody](https://open.spotify.com/track/27N1KikJjyMPpcLZ3Fz0mN) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [1 Love](https://open.spotify.com/album/6jf84Ka45iQmAdaVCnRS9u) | 4:20 | 2022-01-11 | 2022-05-13 |
 | [Morning Glory \- Remastered](https://open.spotify.com/track/1H0K1GVwLteCZrPquy7qkM) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 5:03 | 2022-01-17 | 2025-07-17 |
 | [My Big Mouth \(Live at Knebworth, 10 August '96\)](https://open.spotify.com/track/7rkqDEXEdL0zg9B7IDakLF) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 5:10 | 2022-01-11 |  |
-| [Rock 'n' Roll Star \- Remastered](https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 5:22 | 2022-01-11 |  |
+| [Rock 'n' Roll Star \- Remastered](https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 5:22 | 2022-01-11 | 2025-09-16 |
 | [Rockin' Chair](https://open.spotify.com/track/0cinxoejsLL50k5BN8AQlK) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4) | 4:35 | 2025-06-23 |  |
 | [Roll It Over](https://open.spotify.com/track/1tX2Wfp0KtbHQbFLIPwiW0) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 6:31 | 2022-06-12 | 2025-04-19 |
 | [Roll With It](https://open.spotify.com/track/1Xip3AM9yC2aeUIuhKftP5) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 3:59 | 2022-10-12 | 2023-03-13 |
@@ -98,6 +98,7 @@
 | [Up In The Sky \- Remastered](https://open.spotify.com/track/10fOKTNaGzajbX5SdS00Ut) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:28 | 2022-01-21 | 2024-07-05 |
 | [Waiting For The Rapture](https://open.spotify.com/track/1lwJ1fYnkOhLc2xTO2klQ2) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 3:02 | 2023-04-28 | 2024-06-17 |
 | [Whatever \- Remastered](https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 6:22 | 2022-01-11 | 2024-07-05 |
+| [Whatever \- Remastered](https://open.spotify.com/track/7rpUsVjQyitDQ27NRybgZl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Remastered\)](https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy) | 6:22 | 2025-09-16 |  |
 | [Where Did It All Go Wrong?](https://open.spotify.com/track/6NxShcnsYGE7H0GUM1fMdC) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 4:26 | 2022-01-17 |  |
 | [Who Feels Love?](https://open.spotify.com/track/7b39sBdskwLKVwNpC37gRo) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 5:44 | 2022-11-01 | 2025-07-01 |
 | [Wonderwall \- Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:18 | 2022-01-11 |  |

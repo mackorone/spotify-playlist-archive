@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 124562,
+  "num_followers": 124581,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Kaimonomacaco",
+        "url": "https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1"
+      },
+      "artists": [
+        {
+          "name": "Revolber",
+          "url": "https://open.spotify.com/artist/2s7biaf5EUXCa08iWBL3Kn"
+        }
+      ],
+      "duration_ms": 267480,
+      "name": "El Solo",
+      "url": "https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "T\u00e1cito",
         "url": "https://open.spotify.com/album/4AmKPsiZ7EfXD753LkqFj3"
       },
@@ -535,18 +551,18 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Kaimonomacaco",
-        "url": "https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1"
+        "name": "Aguije",
+        "url": "https://open.spotify.com/album/6S3Z8Z3WcCRegp66EA5gMh"
       },
       "artists": [
         {
-          "name": "Revolber",
-          "url": "https://open.spotify.com/artist/2s7biaf5EUXCa08iWBL3Kn"
+          "name": "Tierra Adentro",
+          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
         }
       ],
-      "duration_ms": 267480,
-      "name": "El Solo",
-      "url": "https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6"
+      "duration_ms": 191331,
+      "name": "Aguije",
+      "url": "https://open.spotify.com/track/5jMW9bjIpyziEv5mu5Next"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -579,22 +595,6 @@
       "duration_ms": 279614,
       "name": "Vallenatos para el Cora: Obsesion Mi Estrella Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/62bl9t4TYgy7aFeyADxUpT"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Aguije",
-        "url": "https://open.spotify.com/album/6S3Z8Z3WcCRegp66EA5gMh"
-      },
-      "artists": [
-        {
-          "name": "Tierra Adentro",
-          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
-        }
-      ],
-      "duration_ms": 191331,
-      "name": "Aguije",
-      "url": "https://open.spotify.com/track/5jMW9bjIpyziEv5mu5Next"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -639,6 +639,34 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Soy Latino",
+        "url": "https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e"
+      },
+      "artists": [
+        {
+          "name": "Tierra Adentro",
+          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Cruz",
+          "url": "https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp"
+        }
+      ],
+      "duration_ms": 189658,
+      "name": "Soy Latino",
+      "url": "https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "El Equilibrio",
         "url": "https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ"
       },
@@ -667,34 +695,6 @@
       "duration_ms": 215067,
       "name": "Es Mi Culpa",
       "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Soy Latino",
-        "url": "https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e"
-      },
-      "artists": [
-        {
-          "name": "Tierra Adentro",
-          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
-        },
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Cruz",
-          "url": "https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp"
-        }
-      ],
-      "duration_ms": 189658,
-      "name": "Soy Latino",
-      "url": "https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI"
     },
     {
       "added_at": "2025-03-14 20:46:39",

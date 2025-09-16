@@ -4,7 +4,7 @@
 
 > Net die beste Afrikaanse musiek! Omslag: Dassie
 
-327 songs - 18 hr 3 min
+328 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Afrika Son](https://open.spotify.com/track/6AmJU5Rtf7vXcubCYJitGa) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Afrika Son](https://open.spotify.com/album/2AeonSEurMMMp7nfCKoRg2) | 2:50 | 2022-09-01 | 2022-10-21 |
 | [Afrikaans Het Nie Brieke Nie](https://open.spotify.com/track/2OV3FnLOxmwYYbPXlpPH9e) | [Andriette](https://open.spotify.com/artist/7bnm6q08SwpVAs76TGUj1P) | [Afrikaans Het Nie Brieke Nie](https://open.spotify.com/album/6Wz1V6SZhi3weZ217coDjn) | 4:05 | 2025-05-29 | 2025-06-01 |
 | [Afrikaans is Alles](https://open.spotify.com/track/3eeGal6kEMlUaPnxY7bTtJ) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Afrikaans is Alles](https://open.spotify.com/album/6L81naBshdxYFpIBllKhGj) | 3:53 | 2023-03-09 | 2023-04-28 |
+| [Alice](https://open.spotify.com/track/6Ko5US40P263KBvES0HAdJ) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Genesis](https://open.spotify.com/album/6hRfwgVwKK815NQzfTzt2m) | 3:36 | 2025-09-11 |  |
 | [Als Is Okay](https://open.spotify.com/track/4qgi2zxMxeVoBJ2QT7abuE) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Als Is Okay](https://open.spotify.com/album/1V7vyyFiCCPYav5PHinkNb) | 3:01 | 2023-11-16 | 2024-07-05 |
 | [As die Plaas Byt](https://open.spotify.com/track/3ygtwhrpxC9K6vvzTXVfNK) | [Marissa](https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6) | [As die Plaas Byt](https://open.spotify.com/album/4PGN89EQTVefM2Gfrq1q9z) | 3:33 | 2022-10-20 | 2023-09-22 |
 | [As Ek Dalk \(feat\. Eloff\)](https://open.spotify.com/track/0avIG6N4JT2tHb8GyVHz1w) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp), [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [As Ek Dalk \(feat\. Eloff\)](https://open.spotify.com/album/3MkLaVX6W7iwRdRz5q5GWs) | 3:09 | 2024-11-21 |  |
@@ -52,7 +53,7 @@
 | [Brannewynlippe](https://open.spotify.com/track/1gdBisAst3pplEuOS4xUhP) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Brannewynlippe](https://open.spotify.com/album/68c0WhoFBICaOlNDVh3pvk) | 3:06 | 2021-10-14 | 2023-01-21 |
 | [Bring Dit](https://open.spotify.com/track/0CFG2doHcEGyIIlK7Qq0Oz) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Bring Dit](https://open.spotify.com/album/2iRdazzYsOBztAR5V2aiku) | 2:52 | 2021-09-09 | 2023-02-03 |
 | [Bring Dit](https://open.spotify.com/track/7F0TVSAgDWcn7d2t6sfgiJ) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Groot Afrikaans Treffers](https://open.spotify.com/album/7tIHjz5g4qfELNLTxO0xm8) | 2:52 | 2023-03-09 | 2024-02-02 |
-| [Buffel Van Buffelsfontein](https://open.spotify.com/track/5GJpKxfcdkXtZvC62fPLXU) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Buffel Van Buffelsfontein](https://open.spotify.com/album/1ymtneTgrVB8wGgrit6N3Z) | 2:56 | 2023-11-30 |  |
+| [Buffel Van Buffelsfontein](https://open.spotify.com/track/5GJpKxfcdkXtZvC62fPLXU) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Buffel Van Buffelsfontein](https://open.spotify.com/album/1ymtneTgrVB8wGgrit6N3Z) | 2:56 | 2023-11-30 | 2025-09-16 |
 | [By Die Dam](https://open.spotify.com/track/5e7VN92fFQVhndeT1rXGGB) | [Marno van der Merwe](https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR) | [By Die Dam](https://open.spotify.com/album/4vlClvEqxXba4pYE8E2tSZ) | 3:08 | 2024-10-24 |  |
 | [Carina](https://open.spotify.com/track/6g8kgX8WWiExbvUJqGpz1X) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Carina](https://open.spotify.com/album/6ptuyFJvXUQAtZV8GTf3qS) | 3:16 | 2024-08-29 |  |
 | [Chocolate Sigarette](https://open.spotify.com/track/0185cQUYmXRbiVDJiGAXHU) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Chocolate Sigarette](https://open.spotify.com/album/3mC8IJz4TXi2iEMMYNytOU) | 3:18 | 2023-05-18 | 2023-06-16 |

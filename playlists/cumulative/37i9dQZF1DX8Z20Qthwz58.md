@@ -4,7 +4,7 @@
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-129 songs - 7 hr 14 min
+131 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Miss Understood](https://open.spotify.com/track/7hu1jbKiv9hHkjeeZ1L1TB) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:20 | 2023-02-08 |  |
 | [Mood](https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:02 | 2023-02-08 |  |
 | [Moon, 12:04am](https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:43 | 2023-02-08 |  |
-| [MOONLIGHT SUNRISE](https://open.spotify.com/track/2foowdvesE4yiiuxH25D6q) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/50TaFniZBXGztHHvNEHeFR) | 3:00 | 2024-04-19 |  |
+| [MOONLIGHT SUNRISE](https://open.spotify.com/track/2foowdvesE4yiiuxH25D6q) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/50TaFniZBXGztHHvNEHeFR) | 3:00 | 2024-04-19 | 2025-09-16 |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5IN9W6eUfk3014My9awagX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:00 | 2023-03-01 | 2024-04-19 |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-02-08 | 2023-03-13 |
 | [movie](https://open.spotify.com/track/0gNQjJJgXvAG9ZgNaQdNCN) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [movie](https://open.spotify.com/album/36OnG0nTb9bw3QBQuylYPn) | 3:49 | 2024-08-05 |  |
@@ -107,11 +107,13 @@
 | [Shutdown \(Feat\. Seori\)](https://open.spotify.com/track/3mjSO8tQD78ht78SlFMKd1) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:21 | 2023-02-08 |  |
 | [silhouette](https://open.spotify.com/track/6juIZLmOCW4ONUglzEDq00) | [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4) | [silhouette](https://open.spotify.com/album/47VsM0eiGNH1g9yUQ545Tr) | 2:17 | 2024-10-08 |  |
 | [Sleep](https://open.spotify.com/track/45vAXcFwBye4C8ct9vwWqJ) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 2:58 | 2023-02-14 |  |
+| [SLIDIN’](https://open.spotify.com/track/0k9YOhsIcZGaXzwEVAL0EM) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [SLIDIN’](https://open.spotify.com/album/1M9noTaRDmFsm9juq86FDA) | 3:51 | 2025-09-15 |  |
 | [So I\`m \(build\-up\)](https://open.spotify.com/track/5ZV3FzMKyMLPo5yfHcVd94) | [Meludima](https://open.spotify.com/artist/5KuqJ1wfy3MTV4c2B0jJ3B), [HB](https://open.spotify.com/artist/4dZSeSzF2tUTtEluKXl1gP) | [So I\`m \(build\-up\)](https://open.spotify.com/album/0GIyg7jc4BAzIz50meah5e) | 2:30 | 2024-09-04 |  |
 | [Sover \(feat\. EFFY\)](https://open.spotify.com/track/0wKiDGK0fkx6dSDCpa0zl9) | [VIN](https://open.spotify.com/artist/1mmjD0oS7NfQKd5NaIzkj4), [EFFY](https://open.spotify.com/artist/5Hq1SKAbACg8QBPQalqUGD) | [Sover](https://open.spotify.com/album/3KNFq8vyJ8soYkdRh0xlfS) | 2:42 | 2024-08-10 |  |
 | [starstarstar](https://open.spotify.com/track/2rkLmJD9UfISCouYBukvCP) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:38 | 2023-02-08 | 2024-04-19 |
 | [starstarstar](https://open.spotify.com/track/503KMAmGqO2iOkyao4S1bx) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/3sa814wrHO77FkSycZwhNf) | 3:38 | 2024-08-05 |  |
 | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z) | [Choco And Vanilla](https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1) | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13) | 2:56 | 2023-07-07 |  |
+| [Teal Dreams](https://open.spotify.com/track/6mMXWQDmEvFDUhaXXvMfCC) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Teal Dreams](https://open.spotify.com/album/2l6CZ13JhTOOljZEPBUdY2) | 3:14 | 2025-09-15 |  |
 | [This Night \(feat\. Blue.D, Jhnovr\)](https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [THIS NIGHT](https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi) | 3:35 | 2023-02-08 |  |
 | [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 | 2023-02-14 | 2024-08-11 |
 | [Traveler](https://open.spotify.com/track/534RlWkfq6IGSFslE9kmXh) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/3IP8bM4YvYaGRfORvHesFJ) | 2:14 | 2024-08-05 |  |

@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-989 songs - 2 day 2 hr 34 min
+991 songs - 2 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Feel Alive](https://open.spotify.com/track/1Cea0zW0JXxT7C7riIje1w) | [Glowerz](https://open.spotify.com/artist/2cJXCtYyGvefgyCILicQ7N) | [Feel Alive](https://open.spotify.com/album/5bCH6lejb3Jgk7RU6f7mIx) | 2:51 | 2024-03-22 | 2024-04-13 |
 | [Feel Good](https://open.spotify.com/track/0f55shlytyTjhwNHxWOFPv) | [Sesco](https://open.spotify.com/artist/0pP0ClsQK7FgtbwuUcVrQV) | [Feel Good](https://open.spotify.com/album/5umybiMI6zk6Twnluw4Ewf) | 2:43 | 2023-12-08 | 2025-01-09 |
 | [Feel It](https://open.spotify.com/track/0xyFa4kQ7BMVxP6XK7gM3V) | [Per Nord](https://open.spotify.com/artist/0hGdupg5pIQ8GRSLwBuqQx), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj) | [Feel It](https://open.spotify.com/album/7AKOzUkUJK9oQ8DpcgJMC6) | 3:00 | 2024-12-05 |  |
+| [Feel So](https://open.spotify.com/track/0GJhjMF7jlV2Oepwed85SO) | [Myles O'Neal](https://open.spotify.com/artist/4iRVsCKjwFnKxB5dAZrPUv) | [Feel So](https://open.spotify.com/album/75S1gpFwiCnwQ3UvHl2aVK) | 2:58 | 2025-09-15 |  |
 | [Feel So Good](https://open.spotify.com/track/3A5ChH4cZ0TKcN9dNT9ua0) | [Alure](https://open.spotify.com/artist/2at01aWUeF5RX0bm7M7LjP) | [Feel So Good](https://open.spotify.com/album/3MFDDyUqEuMne5UpkHZcCC) | 2:58 | 2025-06-26 |  |
 | [Feel The Need](https://open.spotify.com/track/2wa4S5WSyATZVQUN7fL4L0) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Feel The Need](https://open.spotify.com/album/3eBcoTjDLcgkVo6xBFn3Wj) | 3:35 | 2023-11-10 | 2024-09-26 |
 | [Feel Your Touch](https://open.spotify.com/track/4aC4m2wM7wd1uwY8XtrXq2) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg) | [Feel Your Touch](https://open.spotify.com/album/4Wmge8kAedu9UW80MC1TwL) | 3:58 | 2024-03-08 | 2024-04-26 |
@@ -560,6 +561,7 @@
 | [Mescaline \- Radio Edit](https://open.spotify.com/track/6yBQ6kPgPcxn0GNyi9I1QU) | [BLACK/WHITE](https://open.spotify.com/artist/1Hrkfoh0Vs5Fc6DeJM1CT0) | [Mescaline \(Radio Edit\)](https://open.spotify.com/album/5rEutXujkkYSQ8erjgMrBH) | 2:57 | 2023-02-12 | 2023-03-25 |
 | [Mesmerize](https://open.spotify.com/track/02hqI4JJPBb9mLDIwGIDSN) | [Yves Larock](https://open.spotify.com/artist/2P1h10tRBVlC2lVUqhl6wm), [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P) | [Mesmerize](https://open.spotify.com/album/4TO0LQXI0yjMNmFsPKGeXr) | 2:42 | 2024-01-26 | 2025-01-09 |
 | [Mi Gente](https://open.spotify.com/track/5nYWOu3zriPJJvHh9j2hpS) | [LV](https://open.spotify.com/artist/3aCyI9bM14mcQajmM5641q) | [Mi Gente](https://open.spotify.com/album/3OeHdvzXW7J61LgSFHpo7d) | 2:30 | 2024-06-11 | 2024-10-11 |
+| [Mi Vida](https://open.spotify.com/track/7GNcodiCQICWsRT99AZ3ib) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [Mi Vida EP](https://open.spotify.com/album/0qVltBVJYcyhhhdKhQapPI) | 2:32 | 2025-09-15 |  |
 | [Midnight Trip](https://open.spotify.com/track/0kcM5HzMLTc3K15an6nZcJ) | [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [Midnight Trip](https://open.spotify.com/album/6HNCtwAe16YWpp2i5HKbk6) | 3:14 | 2024-10-10 | 2025-01-09 |
 | [Milkshake](https://open.spotify.com/track/5Yca8jvaCBFzmrRbMfCQ2R) | [crane the brain](https://open.spotify.com/artist/0Fk9eLW8B0Q2NtPIESOEwf) | [Milkshake](https://open.spotify.com/album/71tc9qiePDKTiim5XgHwwS) | 2:13 | 2023-08-18 | 2023-09-26 |
 | [Milky Way](https://open.spotify.com/track/5cPrR8zvZOkyQuLUEstFIT) | [AxMod](https://open.spotify.com/artist/3UlxLrm4Nt8Ga2eLv4RoN2) | [Milky Way](https://open.spotify.com/album/2dDIengYdRKvfOPdniP4ES) | 6:11 | 2024-12-05 | 2025-05-09 |

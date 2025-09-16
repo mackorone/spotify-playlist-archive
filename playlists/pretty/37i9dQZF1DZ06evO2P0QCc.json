@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 120097,
+  "num_followers": 120106,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAACJFcivDf2uZFrHyXyf8shA",
+  "snapshot_id": "aMYFgAAAAAAsWBUzof8yXgYuVpq4ZGdG",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pero Qu\u00e9 Necesidad",
         "url": "https://open.spotify.com/album/2vaIJEvfeaTJpEemwKFcpC"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 188394,
       "name": "Pero Qu\u00e9 Necesidad",
       "url": "https://open.spotify.com/track/2DfpEIi9o9a8IixpU0JDou"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 192626,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb"
     },
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspecci\u00f3n Retroac\u00fastica",
-        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 255373,
-      "name": "Por \u00daltima Vez",
-      "url": "https://open.spotify.com/track/1xTnxlhuya4HVoF7vjqZPu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ska a La Carta",
         "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 246100,
       "name": "Osito Dormil\u00f3n (feat. Tony Hernandez El Gran Silencio)",
       "url": "https://open.spotify.com/track/0AisSsUIcNNDPBFUuShQxr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inspecci\u00f3n Retroac\u00fastica",
+        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 255373,
+      "name": "Por \u00daltima Vez",
+      "url": "https://open.spotify.com/track/1xTnxlhuya4HVoF7vjqZPu"
     },
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deja Ya De Mentir (Sonando Desde El Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/7i1vAGc0dDsVWxMZAEZiEa"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Dr. Shenka",
-          "url": "https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "Deja Ya De Mentir - Sonando Desde El Auditorio Nacional",
-      "url": "https://open.spotify.com/track/5mOsvFJvqMUohlPperHALl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ska a La Carta",
         "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 236346,
       "name": "Inspiracional",
       "url": "https://open.spotify.com/track/6rpuI5wb7070I1ZpMvRpzh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deja Ya De Mentir (Sonando Desde El Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/7i1vAGc0dDsVWxMZAEZiEa"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Dr. Shenka",
+          "url": "https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "Deja Ya De Mentir - Sonando Desde El Auditorio Nacional",
+      "url": "https://open.spotify.com/track/5mOsvFJvqMUohlPperHALl"
     },
     {
       "added_at": null,

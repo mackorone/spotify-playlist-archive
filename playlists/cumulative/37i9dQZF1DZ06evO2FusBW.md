@@ -4,7 +4,7 @@
 
 > This is RIOPY\. The essential tracks, all in one playlist.
 
-62 songs - 4 hr 19 min
+63 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Meditation](https://open.spotify.com/track/19d0cpyRZYw0R00y4Am99v) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation](https://open.spotify.com/album/3WLbC4BcUUxjLP9mY2s504) | 4:55 | 2025-01-03 |  |
 | [Meditation 111](https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 111](https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC) | 2:22 | 2025-01-03 |  |
 | [Meditation 22](https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Le Rêve d'une note](https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY) | 22:34 | 2025-01-03 |  |
-| [Meditation 3](https://open.spotify.com/track/6NRqEnKVvUTMzZRypnptR5) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 3](https://open.spotify.com/album/5q24MVIvqxjaGxm6FCUgeo) | 3:50 | 2025-01-03 |  |
+| [Meditation 3](https://open.spotify.com/track/2eVjNpkhzfAw7Ck8xAonbs) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 333](https://open.spotify.com/album/7ENZjm1c4ow0aPyAUSlibf) | 3:50 | 2025-09-16 |  |
+| [Meditation 3](https://open.spotify.com/track/6NRqEnKVvUTMzZRypnptR5) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 3](https://open.spotify.com/album/5q24MVIvqxjaGxm6FCUgeo) | 3:50 | 2025-01-03 | 2025-09-16 |
 | [Memory of Water](https://open.spotify.com/track/6VUXskL75b1kqK3hIHegWW) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 2:17 | 2025-01-03 |  |
 | [My Way of Light](https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [My Way of Light](https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF) | 3:16 | 2025-01-05 |  |
 | [NATURE VIBRATION](https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 432](https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC) | 4:38 | 2025-01-03 |  |

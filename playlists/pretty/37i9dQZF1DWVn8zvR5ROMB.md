@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Warren Zeiders, Jason Aldean, Josh Ross and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,320 likes - 63 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,442 likes - 63 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

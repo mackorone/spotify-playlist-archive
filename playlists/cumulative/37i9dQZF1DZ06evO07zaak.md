@@ -4,7 +4,7 @@
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-66 songs - 6 hr 10 min
+67 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Comfortably Numb](https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 6:22 | 2022-09-17 |  |
 | [Coming Back to Life](https://open.spotify.com/track/1bQ4zbP8Fo0qAePTSOfYji) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 6:19 | 2022-09-17 |  |
 | [Dogs](https://open.spotify.com/track/2jvuMDqBK04WvCYYz5qjvG) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 17:05 | 2022-09-17 |  |
-| [Echoes](https://open.spotify.com/track/7kriFJLY2KOhw5en9iI2jb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 23:32 | 2022-09-17 | 2022-12-24 |
+| [Echoes](https://open.spotify.com/track/7kriFJLY2KOhw5en9iI2jb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 23:32 | 2022-09-17 |  |
 | [Echoes \- Part 1 \- Edit \- Live at Pompeii \- MCMLXXII \- 2025 Mix](https://open.spotify.com/track/4cneE6tz6nHEcX2ChM8ISO) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Echoes \- Part 1 \- Edit \(Live at Pompeii \- MCMLXXII \- 2025 Mix\)](https://open.spotify.com/album/6RhYZ6GtyfKczfaGs8QAUj) | 5:50 | 2025-02-28 | 2025-03-28 |
 | [Fearless](https://open.spotify.com/track/7AalBKBoLDR4UmRYRJpdbj) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 6:07 | 2022-09-17 |  |
 | [Goodbye Blue Sky](https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 2:47 | 2024-04-28 | 2025-03-11 |
@@ -65,6 +65,7 @@
 | [The Fletcher Memorial Home](https://open.spotify.com/track/0L0HAZg6FGrBAS6QE7B1eI) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:09 | 2025-02-23 |  |
 | [The Great Gig in the Sky](https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 4:43 | 2022-09-17 |  |
 | [The Happiest Days of Our Lives](https://open.spotify.com/track/2O3l4X1yTua8oMMCtazkyo) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 1:50 | 2023-10-01 | 2024-10-01 |
+| [The Machine Song \- Demo \#2, Revisited](https://open.spotify.com/track/2VshWryIlWedkCLdOWcMim) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Machine Song \(Demo \#2, Revisited\)](https://open.spotify.com/album/61uCwr4g5nbYHdPsurI9yW) | 5:31 | 2025-09-16 |  |
 | [Time](https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 6:53 | 2022-09-17 |  |
 | [Two Suns in the Sunset](https://open.spotify.com/track/3KvKMHMlRj30a7IjHXQVzu) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 5:15 | 2025-09-12 |  |
 | [Us and Them](https://open.spotify.com/track/1TKTiKp3zbNgrBH2IwSwIx) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 7:49 | 2022-09-17 |  |

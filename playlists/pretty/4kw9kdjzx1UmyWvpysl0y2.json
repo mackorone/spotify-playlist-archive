@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124977,
+  "num_followers": 124981,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUkjmWv2dnGyuAQF8VjGKFFFGIV+YZ",
+  "snapshot_id": "AAAUlJt2te4vqsfkISDigQ1pkUVkqUa8",
   "tracks": [
+    {
+      "added_at": "2025-09-15 14:08:17",
+      "album": {
+        "name": "Woodwinds",
+        "url": "https://open.spotify.com/album/5fwI8h7ryeNmmi1xs0qSyZ"
+      },
+      "artists": [
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "BOUNCE",
+      "url": "https://open.spotify.com/track/1lkkzUXh0SNetgRf7YHu42"
+    },
+    {
+      "added_at": "2025-09-15 14:07:54",
+      "album": {
+        "name": "how to feel alive",
+        "url": "https://open.spotify.com/album/64CuCT2IKWYddwO9KkZDlK"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "how to feel alive",
+      "url": "https://open.spotify.com/track/5FzcVssNKfmCF7WvJFUx2U"
+    },
     {
       "added_at": "2025-09-11 14:41:37",
       "album": {

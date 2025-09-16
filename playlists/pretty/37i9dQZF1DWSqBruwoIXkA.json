@@ -1,6 +1,6 @@
 {
   "description": "heartbreak feels good in a place like sad hour, with Alec Benjamin",
-  "num_followers": 2411882,
+  "num_followers": 2411756,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "traitor",
+      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -379,18 +395,18 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 229226,
-      "name": "traitor",
-      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -411,22 +427,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 326490,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
       },
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
         "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1113,6 +1113,22 @@
       "url": "https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS"
     },
     {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Narrated For You",
+        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 218893,
+      "name": "Water Fountain",
+      "url": "https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To"
+    },
+    {
       "added_at": "2025-07-25 04:10:49",
       "album": {
         "name": "You'll Be Alright, Kid",
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Narrated For You",
-        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
+        "name": "Moral of the Story",
+        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
       },
       "artists": [
         {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 218893,
-      "name": "Water Fountain",
-      "url": "https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To"
+      "duration_ms": 201083,
+      "name": "Moral of the Story",
+      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
     },
     {
       "added_at": "2025-07-30 06:17:37",
@@ -1159,22 +1175,6 @@
       "duration_ms": 241291,
       "name": "The Man That Came Back",
       "url": "https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Moral of the Story",
-        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 201083,
-      "name": "Moral of the Story",
-      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1225,22 +1225,6 @@
       "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
     },
     {
-      "added_at": "2025-08-15 04:00:29",
-      "album": {
-        "name": "Wishbone",
-        "url": "https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 212445,
-      "name": "Connell",
-      "url": "https://open.spotify.com/track/4hjsXIvXtLE4KCtIEZmuX7"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Reckless",
@@ -1255,6 +1239,22 @@
       "duration_ms": 203384,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
+    },
+    {
+      "added_at": "2025-08-15 04:00:29",
+      "album": {
+        "name": "Wishbone",
+        "url": "https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 212445,
+      "name": "Connell",
+      "url": "https://open.spotify.com/track/4hjsXIvXtLE4KCtIEZmuX7"
     },
     {
       "added_at": "2025-04-11 04:08:48",
@@ -1577,22 +1577,6 @@
       "url": "https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "I GUESS I'M IN LOVE",
-        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "I GUESS I'M IN LOVE",
-      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
-    },
-    {
       "added_at": "2025-07-25 04:10:49",
       "album": {
         "name": "You Stole The Show",
@@ -1607,6 +1591,22 @@
       "duration_ms": 207190,
       "name": "You Stole The Show",
       "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "I GUESS I'M IN LOVE",
+        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "I GUESS I'M IN LOVE",
+      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1681,6 +1681,22 @@
       "url": "https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7"
     },
     {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Peter Pan Was Right",
+        "url": "https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 192497,
+      "name": "Peter Pan Was Right",
+      "url": "https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A"
+    },
+    {
       "added_at": "2025-07-25 04:10:49",
       "album": {
         "name": "Learn To Love (with Dean Lewis)",
@@ -1699,22 +1715,6 @@
       "duration_ms": 213456,
       "name": "Learn To Love (with Dean Lewis)",
       "url": "https://open.spotify.com/track/5qQYndZ8HuHCbN0PZf4l3o"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Peter Pan Was Right",
-        "url": "https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 192497,
-      "name": "Peter Pan Was Right",
-      "url": "https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A"
     },
     {
       "added_at": "2025-07-11 04:00:20",
@@ -1829,22 +1829,6 @@
       "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "NEVER ENOUGH (Bonus Version)",
-        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 225312,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH"
-    },
-    {
       "added_at": "2025-09-05 04:00:27",
       "album": {
         "name": "Dying",
@@ -1859,6 +1843,22 @@
       "duration_ms": 183266,
       "name": "Dying",
       "url": "https://open.spotify.com/track/5y48DeMoYP3UUrye3yNUKH"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "NEVER ENOUGH (Bonus Version)",
+        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 225312,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH"
     },
     {
       "added_at": "2025-01-31 05:00:34",
@@ -2353,22 +2353,6 @@
       "url": "https://open.spotify.com/track/5MRPUeJGuyCwmwWzYgYI1t"
     },
     {
-      "added_at": "2025-08-15 04:00:29",
-      "album": {
-        "name": "Ramona",
-        "url": "https://open.spotify.com/album/2HCGmvj96bD2W37182wvlR"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Sterling",
-          "url": "https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9"
-        }
-      ],
-      "duration_ms": 192592,
-      "name": "Rot",
-      "url": "https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ"
-    },
-    {
       "added_at": "2025-04-11 04:08:48",
       "album": {
         "name": "When You Think Of Me",
@@ -2383,6 +2367,22 @@
       "duration_ms": 231191,
       "name": "When You Think Of Me",
       "url": "https://open.spotify.com/track/3mdK2eB8wNS5bmqZvHUuT0"
+    },
+    {
+      "added_at": "2025-08-15 04:00:29",
+      "album": {
+        "name": "Ramona",
+        "url": "https://open.spotify.com/album/2HCGmvj96bD2W37182wvlR"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Sterling",
+          "url": "https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9"
+        }
+      ],
+      "duration_ms": 192592,
+      "name": "Rot",
+      "url": "https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ"
     },
     {
       "added_at": "2025-05-30 04:00:38",

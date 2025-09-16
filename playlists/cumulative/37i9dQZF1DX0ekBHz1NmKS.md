@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,989 songs - 4 day 7 hr 3 min
+1,990 songs - 4 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,7 +666,7 @@
 | [gravity \- alternative version](https://open.spotify.com/track/6zq4g1UiKjge8SbJ6IrgEg) | [sad dad](https://open.spotify.com/artist/0W2hFxt7ifMmoTVXedX5qU), [leoblu](https://open.spotify.com/artist/1gJctVXTu7xYbZbs7gvcar) | [gravity \(alternative version\)](https://open.spotify.com/album/0w1Senxcwve0CXQHSHrd2n) | 3:12 | 2024-01-25 | 2024-01-28 |
 | [Ground Zero](https://open.spotify.com/track/45gZh2WFXYkxUNKnu5sIFz) | [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq) | [Ground Zero](https://open.spotify.com/album/5Ty7WNx9pKidF4yQj3rOSZ) | 3:46 | 2024-05-02 | 2024-06-01 |
 | [Growing Pains](https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Growing Pains](https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk) | 3:08 | 2025-01-16 | 2025-05-11 |
-| [Gräset på andra sidan \(feat\. Newkid & ORKID\)](https://open.spotify.com/track/3rA5UCOnHSnwWwPYSz9e7r) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6), [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Gräset på andra sidan \(feat\. Newkid & ORKID\)](https://open.spotify.com/album/4F8dhrVlBLcrXGyYTygyX1) | 2:09 | 2025-05-01 |  |
+| [Gräset på andra sidan \(feat\. Newkid & ORKID\)](https://open.spotify.com/track/3rA5UCOnHSnwWwPYSz9e7r) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6), [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Gräset på andra sidan \(feat\. Newkid & ORKID\)](https://open.spotify.com/album/4F8dhrVlBLcrXGyYTygyX1) | 2:09 | 2025-05-01 | 2025-09-16 |
 | [Grät](https://open.spotify.com/track/2nlqyj01smLQFngHVuxFJN) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Grät](https://open.spotify.com/album/2QpFnswrI1v7H8u3Eup2Fu) | 4:18 | 2024-01-11 | 2024-03-15 |
 | [Gråt inte mer](https://open.spotify.com/track/021Ja91kIji3tI8qguxer6) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Så mycket bättre 2021 \- Tolkningarna](https://open.spotify.com/album/1hdMYrIDrIMxgowte5V9w4) | 3:28 | 2022-07-28 | 2022-09-16 |
 | [Gråt inte mer](https://open.spotify.com/track/3Cum5PAE6Nw52V43aRbLve) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Gråt inte mer](https://open.spotify.com/album/7aNTcA7BfHWL8tYzS9BSxV) | 3:28 | 2021-12-16 | 2022-07-29 |
@@ -1615,6 +1615,7 @@
 | [Stupid Little Party Girl](https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Stupid Little Party Girl](https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw) | 2:59 | 2023-10-05 | 2023-12-21 |
 | [Stålar på Dovas](https://open.spotify.com/track/5Lex8jg34MtSI3k35Izbps) | [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Stålar på Dovas](https://open.spotify.com/album/1AZYQ8w2xAqetCpRB9Yj4j) | 2:35 | 2024-08-15 | 2024-09-20 |
 | [Stökigt Hjärta](https://open.spotify.com/track/20zZK5S3jiQ5OjRlIVxcS9) | [MIA](https://open.spotify.com/artist/364nwDA1paIChosKjuNMV3) | [Maria](https://open.spotify.com/album/1CyBd1aY5oBzJLe8w9AijU) | 3:54 | 2021-12-16 | 2022-04-02 |
+| [Störd](https://open.spotify.com/track/2IgrHNArmP0qRKbQ5UVeVB) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Störd](https://open.spotify.com/album/4A7EjZFyWeH1fobQTj1UmV) | 2:53 | 2025-09-15 |  |
 | [Större](https://open.spotify.com/track/00FlGPGBmC8kjtzBE0Yb1M) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Större](https://open.spotify.com/album/1t9Y1lXxIG52p0x0oPeKcb) | 3:03 | 2022-09-15 | 2022-10-14 |
 | [Sublime](https://open.spotify.com/track/081YcZ9VdJoC7hT4oXFzgs) | [Shenie Fogo](https://open.spotify.com/artist/6QUHPMpP30k5IbRj4VPqmy) | [Sublime](https://open.spotify.com/album/5oNwhaydrUrX8bUcuY5TGY) | 4:01 | 2024-05-23 | 2024-06-21 |
 | [Sucker for You](https://open.spotify.com/track/15AhbX3z27BVNYMdW0VCnm) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Sucker for You](https://open.spotify.com/album/4G8vvpRiV5k99TGg5gD4Pz) | 3:20 | 2021-12-16 | 2022-03-08 |

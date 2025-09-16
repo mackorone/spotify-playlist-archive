@@ -2315,6 +2315,28 @@
     },
     {
       "album": {
+        "name": "Wanted",
+        "url": "https://open.spotify.com/album/65G0BpV00GmLi5WUCeWdvT"
+      },
+      "artists": [
+        {
+          "name": "Bow Wow",
+          "url": "https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA"
+        },
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248493,
+      "name": "Let Me Hold You (feat. Omarion)",
+      "url": "https://open.spotify.com/track/1oNToERLIN71YCPLbRIQGQ"
+    },
+    {
+      "album": {
         "name": "Thug Matrimony: Married to the Streets",
         "url": "https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT"
       },

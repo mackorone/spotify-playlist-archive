@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: The Poles(\ub354 \ud3f4\uc2a4)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: YDBB(\uc720\ub2e4\ube48\ubc34\ub4dc)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -2356,7 +2356,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 157168,
       "name": "California Love",
       "url": "https://open.spotify.com/track/1PV20gAvXYeamxejFDeEMT"
@@ -3831,6 +3831,24 @@
     },
     {
       "album": {
+        "name": "CODA",
+        "url": "https://open.spotify.com/album/5yyA9mUXeHO21XthokskOp"
+      },
+      "artists": [
+        {
+          "name": "YdBB",
+          "url": "https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259453,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/6QOpfGN5A1DJetRjHZ5dwr"
+    },
+    {
+      "album": {
         "name": "Do You Believe in Love?",
         "url": "https://open.spotify.com/album/2PjLdyzhTz97ubbZYnfnht"
       },
@@ -4920,6 +4938,28 @@
       "duration_ms": 255488,
       "name": "Everything's okay",
       "url": "https://open.spotify.com/track/0pASV8oPppxN9gRkxnf6qK"
+    },
+    {
+      "album": {
+        "name": "EX",
+        "url": "https://open.spotify.com/album/0PijWVJt8D3zN4FRvZX7mJ"
+      },
+      "artists": [
+        {
+          "name": "SUDI",
+          "url": "https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF"
+        },
+        {
+          "name": "Zenn",
+          "url": "https://open.spotify.com/artist/7IxJ9FKazddUw1iGwDSPgz"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194999,
+      "name": "EX (Feat. Zenn)",
+      "url": "https://open.spotify.com/track/3TD3K5nHSV3BIJJfwZO9KY"
     },
     {
       "album": {
@@ -6382,7 +6422,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 218000,
       "name": "GONE",
       "url": "https://open.spotify.com/track/1txuHFV1QW1LObbNVmhafD"
@@ -15481,6 +15521,28 @@
     },
     {
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1jpX3nRiJHjx3jIwPY7iuK"
+      },
+      "artists": [
+        {
+          "name": "Mozy",
+          "url": "https://open.spotify.com/artist/4p4s0bzDRKqiaCuwM06GJK"
+        },
+        {
+          "name": "TAEKWOO",
+          "url": "https://open.spotify.com/artist/5Zu4Ot9NEWCHZ8IP7poTDw"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Sometimes (feat. TAEKWOO)",
+      "url": "https://open.spotify.com/track/4mqemrVqzIwbCmg47N8rsR"
+    },
+    {
+      "album": {
         "name": "Sometimes When I Think Of You",
         "url": "https://open.spotify.com/album/1vCjVVq78cWT080hPJD5yZ"
       },
@@ -16338,7 +16400,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 197000,
       "name": "Sunshine comedy club",
       "url": "https://open.spotify.com/track/1gIwGFcUuiTGO1PpFK5CYB"

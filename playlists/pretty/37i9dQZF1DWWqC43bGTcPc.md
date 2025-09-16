@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 ### [最Hit華語榜](https://open.spotify.com/playlist/37i9dQZF1DWWqC43bGTcPc)
 
-> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 張語噥 \(Sammy Chang\) x 宏兒 \(Kuan Hong\)
+> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 盧廣仲 \(Crowd Lu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,471 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,511 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [只想和你看海](https://open.spotify.com/track/2nPv2QOdzssVuE4BWxq3KD) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb) | [只想和你看海](https://open.spotify.com/album/1yFAMKACHaHZO67Q1wVRHY) | 3:09 |
 | 50 | [一半一半 \(feat\. 魏如萱\)](https://open.spotify.com/track/7gdxeCc1cIwftvAKxdd8b0) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [做一個惜情軟心的人](https://open.spotify.com/album/4d5MX8L3yJLOklE9ZRD6zW) | 4:32 |
 
-Snapshot ID: `AAAAAFLq8K7tK88Ad/G7zSN3jQNILG5l`
+Snapshot ID: `AAAAAL92imQQzrbuPgEjfoO/MPuRkbyQ`

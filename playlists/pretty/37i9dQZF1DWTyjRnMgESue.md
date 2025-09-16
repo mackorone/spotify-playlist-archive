@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Billie Marten
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,587 likes - 113 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,608 likes - 113 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

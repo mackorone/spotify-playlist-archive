@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Dominican Republic.",
-  "num_followers": 157033,
+  "num_followers": 157042,
   "original_name": "Top 50 - Dominican Republic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MFox+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MFuBIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "BORONDO",
         "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
@@ -25,7 +25,39 @@
       "url": "https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "Huracan",
+        "url": "https://open.spotify.com/album/5zuK2CbO7wj6cbUywL33Iv"
+      },
+      "artists": [
+        {
+          "name": "Yk It\u2019s Junaa",
+          "url": "https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Envenenau",
+      "url": "https://open.spotify.com/track/4Ailfne6VKzKbVTunFs9Ih"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "Pasao De Famarcia",
+        "url": "https://open.spotify.com/album/1Yf5V5fgbsOjFzh5r6elfR"
+      },
+      "artists": [
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Pasao De Famarcia",
+      "url": "https://open.spotify.com/track/2wRSyhkTCLDXXAalScPkwH"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
@@ -49,55 +81,7 @@
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "Huracan",
-        "url": "https://open.spotify.com/album/5zuK2CbO7wj6cbUywL33Iv"
-      },
-      "artists": [
-        {
-          "name": "Yk It\u2019s Junaa",
-          "url": "https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Envenenau",
-      "url": "https://open.spotify.com/track/4Ailfne6VKzKbVTunFs9Ih"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "BORONDO",
-        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 158036,
-      "name": "no tiene sentido",
-      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "Pasao De Famarcia",
-        "url": "https://open.spotify.com/album/1Yf5V5fgbsOjFzh5r6elfR"
-      },
-      "artists": [
-        {
-          "name": "Lil Naay",
-          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Pasao De Famarcia",
-      "url": "https://open.spotify.com/track/2wRSyhkTCLDXXAalScPkwH"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "BORONDO",
         "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
@@ -113,7 +97,23 @@
       "url": "https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "BORONDO",
+        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 158036,
+      "name": "no tiene sentido",
+      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "BORONDO",
         "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/4zhk2RS2EZODmBW6il55Qj"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "DIGITAL15",
         "url": "https://open.spotify.com/album/3VSKr1IIgKqteToundEf0e"
@@ -149,7 +149,23 @@
       "url": "https://open.spotify.com/track/4fwKpMyCBWCaj0W45a3emW"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "NO A LA DELINCUENCIA",
+        "url": "https://open.spotify.com/album/5iSajsi3eaEZzQou6VVclw"
+      },
+      "artists": [
+        {
+          "name": "Jezzy",
+          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+        }
+      ],
+      "duration_ms": 126105,
+      "name": "SINSENTI",
+      "url": "https://open.spotify.com/track/6YGb9NqR0wp9nFj9n5h3W8"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -165,7 +181,7 @@
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -189,23 +205,7 @@
       "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "NO A LA DELINCUENCIA",
-        "url": "https://open.spotify.com/album/5iSajsi3eaEZzQou6VVclw"
-      },
-      "artists": [
-        {
-          "name": "Jezzy",
-          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
-        }
-      ],
-      "duration_ms": 126105,
-      "name": "SINSENTI",
-      "url": "https://open.spotify.com/track/6YGb9NqR0wp9nFj9n5h3W8"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
@@ -221,7 +221,23 @@
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "MamaZota",
+        "url": "https://open.spotify.com/album/2V5nC3TltRCZQ774WHSBq3"
+      },
+      "artists": [
+        {
+          "name": "Arlene MC",
+          "url": "https://open.spotify.com/artist/0NKPXJIczNSqh5iILn8LET"
+        }
+      ],
+      "duration_ms": 122125,
+      "name": "MamaZota",
+      "url": "https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "YO y T\u00da",
         "url": "https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM"
@@ -245,7 +261,23 @@
       "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "Lean",
+        "url": "https://open.spotify.com/album/46sNKIHcKawOCdqgbvMIFT"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "duration_ms": 143870,
+      "name": "Lean",
+      "url": "https://open.spotify.com/track/1IhDSbT5Ey2iryw3OuARik"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "BORONDO",
         "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
@@ -261,23 +293,23 @@
       "url": "https://open.spotify.com/track/3fmw8iIyQDS2L7nE6Wd0xG"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
       "album": {
-        "name": "MamaZota",
-        "url": "https://open.spotify.com/album/2V5nC3TltRCZQ774WHSBq3"
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
       "artists": [
         {
-          "name": "Arlene MC",
-          "url": "https://open.spotify.com/artist/0NKPXJIczNSqh5iILn8LET"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 122125,
-      "name": "MamaZota",
-      "url": "https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb"
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "Duelo",
         "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
@@ -297,123 +329,7 @@
       "url": "https://open.spotify.com/track/0Qe2g06yzLBuuSvVmFiweP"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "Lean",
-        "url": "https://open.spotify.com/album/46sNKIHcKawOCdqgbvMIFT"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 143870,
-      "name": "Lean",
-      "url": "https://open.spotify.com/track/1IhDSbT5Ey2iryw3OuARik"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 199114,
-      "name": "KLOuFRENS",
-      "url": "https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "BORONDO",
-        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 176481,
-      "name": "qu\u00e9date",
-      "url": "https://open.spotify.com/track/6VfL3MEuYeJbDlD8m011HR"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "Voltio",
-        "url": "https://open.spotify.com/album/06rL72qm2Gn5YALkQI5v03"
-      },
-      "artists": [
-        {
-          "name": "Yaisel LM",
-          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 114534,
-      "name": "Voltio",
-      "url": "https://open.spotify.com/track/3wVmOUwQAQLV4pWV6HrJKe"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 204768,
-      "name": "EoO",
-      "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 183685,
-      "name": "NUEVAYoL",
-      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "Que Rica",
         "url": "https://open.spotify.com/album/7asfVYRPtTeyHzdBTVw133"
@@ -437,7 +353,107 @@
       "url": "https://open.spotify.com/track/6lq4TRhilKo0nka9BcfyB1"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 204768,
+      "name": "EoO",
+      "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/6WYIocfhyOkwJsIBLuwkoz"
+      },
+      "artists": [
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        }
+      ],
+      "duration_ms": 132371,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/03CL9rKPlc8OHevgg6zGCr"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "BORONDO",
+        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 176481,
+      "name": "qu\u00e9date",
+      "url": "https://open.spotify.com/track/6VfL3MEuYeJbDlD8m011HR"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "Voltio",
+        "url": "https://open.spotify.com/album/06rL72qm2Gn5YALkQI5v03"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 114534,
+      "name": "Voltio",
+      "url": "https://open.spotify.com/track/3wVmOUwQAQLV4pWV6HrJKe"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 199114,
+      "name": "KLOuFRENS",
+      "url": "https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
@@ -457,75 +473,7 @@
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/6WYIocfhyOkwJsIBLuwkoz"
-      },
-      "artists": [
-        {
-          "name": "Lil Naay",
-          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
-        }
-      ],
-      "duration_ms": 132371,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/03CL9rKPlc8OHevgg6zGCr"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "MAMI",
-        "url": "https://open.spotify.com/album/7cpi0lRUxF7YSScFlSQuko"
-      },
-      "artists": [
-        {
-          "name": "Lil Naay",
-          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
-        }
-      ],
-      "duration_ms": 105091,
-      "name": "MAMI",
-      "url": "https://open.spotify.com/track/2WNPfZJA4tUJw4FF47YTl4"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Kh\u00e9?",
-      "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 156364,
-      "name": "VOY A LLeVARTE PA PR",
-      "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "Rulay y Pico",
         "url": "https://open.spotify.com/album/45OhNC88b4cu2bbGWAHc4b"
@@ -545,7 +493,79 @@
       "url": "https://open.spotify.com/track/22hHcBsrTT43c3rZUBKFZF"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/7cpi0lRUxF7YSScFlSQuko"
+      },
+      "artists": [
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        }
+      ],
+      "duration_ms": 105091,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/2WNPfZJA4tUJw4FF47YTl4"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/6TCL50P86nu90beJunHMdV"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "OG DETRUYELO",
+          "url": "https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/3D9d0PEHfC9PqQAwKKljDv"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 156364,
+      "name": "VOY A LLeVARTE PA PR",
+      "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Kh\u00e9?",
+      "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "QLOO*",
         "url": "https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L"
@@ -565,7 +585,43 @@
       "url": "https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "capaz (merengueton)",
+      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "FANTAS\u00cdA",
+        "url": "https://open.spotify.com/album/0qotDgu0CuYiWrg2JvaTSs"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "duration_ms": 186212,
+      "name": "FANTAS\u00cdA",
+      "url": "https://open.spotify.com/track/5hWpXZOs7vpz0JD3CIylsb"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
         "url": "https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9"
@@ -601,27 +657,39 @@
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
       "album": {
-        "name": "LA CIUDAD",
-        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+        "name": "Huracan",
+        "url": "https://open.spotify.com/album/5zuK2CbO7wj6cbUywL33Iv"
       },
       "artists": [
         {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+          "name": "Yk It\u2019s Junaa",
+          "url": "https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE"
         }
       ],
-      "duration_ms": 173858,
-      "name": "capaz (merengueton)",
-      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
+      "duration_ms": 160000,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/1X2Rjsw7DlU1MqqqzI86uN"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "Complica",
+        "url": "https://open.spotify.com/album/3HpU9s9Nd5Lr5UTuSsDgHJ"
+      },
+      "artists": [
+        {
+          "name": "Luis Brown",
+          "url": "https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L"
+        }
+      ],
+      "duration_ms": 168036,
+      "name": "Complica",
+      "url": "https://open.spotify.com/track/1Q9SCRgQgWwokmb6ZZbyhx"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "LO MISMO DE SIEMPRE",
         "url": "https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6"
@@ -637,63 +705,7 @@
       "url": "https://open.spotify.com/track/2BvPMS2XWfnCpHHvWeOyeC"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "FANTAS\u00cdA",
-        "url": "https://open.spotify.com/album/0qotDgu0CuYiWrg2JvaTSs"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        }
-      ],
-      "duration_ms": 186212,
-      "name": "FANTAS\u00cdA",
-      "url": "https://open.spotify.com/track/5hWpXZOs7vpz0JD3CIylsb"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "Suave",
-        "url": "https://open.spotify.com/album/6TCL50P86nu90beJunHMdV"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        },
-        {
-          "name": "OG DETRUYELO",
-          "url": "https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/3D9d0PEHfC9PqQAwKKljDv"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "Tropicoqueta",
-        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 210047,
-      "name": "Verano Rosa",
-      "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "Pa Tripea",
         "url": "https://open.spotify.com/album/4fiGhiTmulEqM9vuw3VrZL"
@@ -713,23 +725,7 @@
       "url": "https://open.spotify.com/track/2NKe3jG4Tsdarixp87OnCE"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "POR SI ALGUIEN NOS ESCUCHA",
-        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 172426,
-      "name": "UWAIE",
-      "url": "https://open.spotify.com/track/0fMjldiEpgjbWQ4bBQwVzH"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "Diles",
         "url": "https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex"
@@ -769,39 +765,23 @@
       "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
       "album": {
-        "name": "Huracan",
-        "url": "https://open.spotify.com/album/5zuK2CbO7wj6cbUywL33Iv"
+        "name": "K.O.B. Live",
+        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
       },
       "artists": [
         {
-          "name": "Yk It\u2019s Junaa",
-          "url": "https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE"
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Reminiscing",
-      "url": "https://open.spotify.com/track/1X2Rjsw7DlU1MqqqzI86uN"
+      "duration_ms": 257186,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "BORONDO",
-        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 165178,
-      "name": "frente al mar",
-      "url": "https://open.spotify.com/track/1i1n7hUzCDkXGFqIJSSzom"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "Huracan",
         "url": "https://open.spotify.com/album/5zuK2CbO7wj6cbUywL33Iv"
@@ -817,55 +797,59 @@
       "url": "https://open.spotify.com/track/5VbC8dy8EiTBKAbsytNmjZ"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
       "album": {
-        "name": "Original",
-        "url": "https://open.spotify.com/album/51GmTwLbwHjYOl7lZ4TPNy"
+        "name": "POR SI ALGUIEN NOS ESCUCHA",
+        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
       },
       "artists": [
         {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 153865,
-      "name": "Original",
-      "url": "https://open.spotify.com/track/3JoMoxIKgixLqiP4xsQdRj"
+      "duration_ms": 172426,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/0fMjldiEpgjbWQ4bBQwVzH"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
       "album": {
-        "name": "DIOS LO QUIZO AS\u00cd",
-        "url": "https://open.spotify.com/album/6YBJv6hSsmWvwsp7vqJ349"
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
       },
       "artists": [
         {
-          "name": "Lil Naay",
-          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 172233,
-      "name": "DIOS LO QUIZO AS\u00cd",
-      "url": "https://open.spotify.com/track/0eYxHp5xLmvIgvVWs32BwG"
+      "duration_ms": 210047,
+      "name": "Verano Rosa",
+      "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
       "album": {
-        "name": "The Last",
-        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+        "name": "BORONDO",
+        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
       },
       "artists": [
         {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 255026,
-      "name": "Por un Segundo",
-      "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
+      "duration_ms": 165178,
+      "name": "frente al mar",
+      "url": "https://open.spotify.com/track/1i1n7hUzCDkXGFqIJSSzom"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "Hablamos Depues",
         "url": "https://open.spotify.com/album/5LY1clBYUi4kT2eoyQTSgi"
@@ -881,7 +865,39 @@
       "url": "https://open.spotify.com/track/6Zz5ksmtmU2zV6cppStbq7"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "BMW",
+        "url": "https://open.spotify.com/album/5UfMKC5dJ4AIAR6WPkAngY"
+      },
+      "artists": [
+        {
+          "name": "Luis Brown",
+          "url": "https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L"
+        }
+      ],
+      "duration_ms": 107339,
+      "name": "BMW",
+      "url": "https://open.spotify.com/track/0anUN5hO584TVu17CDRmLW"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
+      "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/51GmTwLbwHjYOl7lZ4TPNy"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "duration_ms": 153865,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/3JoMoxIKgixLqiP4xsQdRj"
+    },
+    {
+      "added_at": "2025-09-15 13:20:34",
       "album": {
         "name": "Private Suite (Vol. 2)",
         "url": "https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9"
@@ -897,40 +913,20 @@
       "url": "https://open.spotify.com/track/4Hkp1TiYqGYhknFwtUsbqd"
     },
     {
-      "added_at": "2025-09-14 13:28:19",
+      "added_at": "2025-09-15 13:20:34",
       "album": {
-        "name": "Huracan",
-        "url": "https://open.spotify.com/album/5zuK2CbO7wj6cbUywL33Iv"
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
       "artists": [
         {
-          "name": "Yk It\u2019s Junaa",
-          "url": "https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE"
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 159000,
-      "name": "WoW",
-      "url": "https://open.spotify.com/track/3rVWbycXAjD55V0rYmBxAm"
-    },
-    {
-      "added_at": "2025-09-14 13:28:19",
-      "album": {
-        "name": "Killin' It Girl (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
-      },
-      "artists": [
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 148714,
-      "name": "Killin' It Girl (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
+      "duration_ms": 255026,
+      "name": "Por un Segundo",
+      "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
     }
   ],
   "unique_name": "Top 50 - Dominican Republic",

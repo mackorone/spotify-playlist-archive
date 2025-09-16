@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: Ursaru",
+  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: Babasha",
   "name": "Hot Hits Rom\u00e2nia",
   "tracks": [
     {
@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 170400,
       "name": "Am un secret",
       "url": "https://open.spotify.com/track/2jE6IfnXw4P4lfgixOADk6"
@@ -983,6 +983,24 @@
     },
     {
       "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/4rlSgsZ94V5jyQMEOY22qa"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Cometa",
+      "url": "https://open.spotify.com/track/0jlExIEvYdRx5pN8b65gSc"
+    },
+    {
+      "album": {
         "name": "Complicat",
         "url": "https://open.spotify.com/album/3a4PL5Tv3AwIklaZyudU5B"
       },
@@ -1286,7 +1304,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 143315,
       "name": "De ce te ui\u021bi a\u0219a?",
       "url": "https://open.spotify.com/track/79rksdIBECEMhSlpSB1NYE"
@@ -1945,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "Hai tu Maria",
+        "url": "https://open.spotify.com/album/2xwCwqdWTPKWeYQFOi9W1k"
+      },
+      "artists": [
+        {
+          "name": "Ursaru",
+          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139008,
+      "name": "Hai tu Maria",
+      "url": "https://open.spotify.com/track/3a2J3oIGUhNTGIJ81xFDG7"
+    },
+    {
+      "album": {
         "name": "HONEY",
         "url": "https://open.spotify.com/album/5gu7kZwSWpk7IgcnMcit1b"
       },
@@ -1960,6 +1996,24 @@
       "duration_ms": 111307,
       "name": "HONEY",
       "url": "https://open.spotify.com/track/0Pm9kcvU60oxwVndjcnQ1f"
+    },
+    {
+      "album": {
+        "name": "Hora fetelor",
+        "url": "https://open.spotify.com/album/580phVNDwAGjBZvhc19gwO"
+      },
+      "artists": [
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144115,
+      "name": "Hora fetelor",
+      "url": "https://open.spotify.com/track/4axfTALAQ2kM35X35fCnc7"
     },
     {
       "album": {
@@ -2158,7 +2212,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"

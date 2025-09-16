@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 35255,
+  "num_followers": 35258,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAAZ9mQz8AjQPfAAoyCue4nZ",
+  "snapshot_id": "aMYFgAAAAABtWCpD5Af+Lhjj/p2faTQq",
   "tracks": [
     {
       "added_at": null,
@@ -27,8 +27,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame On You",
-        "url": "https://open.spotify.com/album/06SBGJoEvUHa2V3AnCWxEO"
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Blame On You",
-      "url": "https://open.spotify.com/track/5GtX45E7JO3hrC1Ihq5A2T"
+      "duration_ms": 138400,
+      "name": "blame's on me",
+      "url": "https://open.spotify.com/track/6L1kMQmgnMDtjlPKie9MQh"
     },
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "blame's on me",
-        "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
+        "name": "Blame On You",
+        "url": "https://open.spotify.com/album/06SBGJoEvUHa2V3AnCWxEO"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 138374,
-      "name": "blame's on me",
-      "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
+      "duration_ms": 146000,
+      "name": "Blame On You",
+      "url": "https://open.spotify.com/track/5GtX45E7JO3hrC1Ihq5A2T"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 150866,
-      "name": "how dare you",
-      "url": "https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backwards",
         "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 172500,
       "name": "Backwards",
       "url": "https://open.spotify.com/track/0DsIoA5io9H9ViOl2YNLcR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 150866,
+      "name": "how dare you",
+      "url": "https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "broken by you",
-      "url": "https://open.spotify.com/track/1rbaFEbVhbv1jCc2Dg63Qq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backwards",
         "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 232340,
       "name": "Best Damn Thing",
       "url": "https://open.spotify.com/track/6i71yrjuQ9f1zUSVfEChem"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "broken by you",
+      "url": "https://open.spotify.com/track/1rbaFEbVhbv1jCc2Dg63Qq"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "easier said than done",
-      "url": "https://open.spotify.com/track/69AC7cGZsxkhjmY0spltqi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "back to you",
         "url": "https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 169921,
       "name": "back to you",
       "url": "https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "easier said than done",
+      "url": "https://open.spotify.com/track/69AC7cGZsxkhjmY0spltqi"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 186800,
-      "name": "said so",
-      "url": "https://open.spotify.com/track/20NwaHJSTOimYki0KmlMSo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backwards",
         "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 212746,
       "name": "Shy",
       "url": "https://open.spotify.com/track/1tT0zPG5V9Qt5VjDlAmlez"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 186800,
+      "name": "said so",
+      "url": "https://open.spotify.com/track/20NwaHJSTOimYki0KmlMSo"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
       "duration_ms": 167586,
       "name": "october",
       "url": "https://open.spotify.com/track/65MVDci6jCmNj55alfHx3E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 160400,
-      "name": "reflection",
-      "url": "https://open.spotify.com/track/1jYPnvtdMWvCOTJtQVPZZn"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Aftermath",
+      "url": "https://open.spotify.com/track/1JsXnvR7rYhrwMCsOtScOX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Backwards",
         "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
       },
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aftermath",
-        "url": "https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3"
+        "name": "Let Me Hate You",
+        "url": "https://open.spotify.com/album/541ALHb5R7lQuceoBLiKFk"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Aftermath",
-      "url": "https://open.spotify.com/track/1JsXnvR7rYhrwMCsOtScOX"
+      "duration_ms": 196800,
+      "name": "Let Me Hate You",
+      "url": "https://open.spotify.com/track/0T5IGPG06a7eiEA0AhTzZ6"
     },
     {
       "added_at": null,
@@ -675,38 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Hate You",
-        "url": "https://open.spotify.com/album/541ALHb5R7lQuceoBLiKFk"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Let Me Hate You",
-      "url": "https://open.spotify.com/track/0T5IGPG06a7eiEA0AhTzZ6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Backwards",
-        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 169263,
-      "name": "Shady",
-      "url": "https://open.spotify.com/track/40K1au4bnFyZQaJfEFuRa8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different People",
         "url": "https://open.spotify.com/album/5NdXSw01Lt8ha2QaaEQPZE"
       },
@@ -727,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Backwards",
+        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 169263,
+      "name": "Shady",
+      "url": "https://open.spotify.com/track/40K1au4bnFyZQaJfEFuRa8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aftermath",
         "url": "https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3"
       },
@@ -739,6 +723,26 @@
       "duration_ms": 148965,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/1XW1OfAH3VdT1FUSV9mOXd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STOP & GO",
+        "url": "https://open.spotify.com/album/6ON9VqtDtGwLn835DsGo1x"
+      },
+      "artists": [
+        {
+          "name": "MIME",
+          "url": "https://open.spotify.com/artist/6DjZKTY9U7SpufUeVkoJMX"
+        },
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 171130,
+      "name": "STOP & GO",
+      "url": "https://open.spotify.com/track/2kpPludPmHagO06IiRChtM"
     },
     {
       "added_at": null,
@@ -775,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "STOP & GO",
-        "url": "https://open.spotify.com/album/6ON9VqtDtGwLn835DsGo1x"
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3"
       },
       "artists": [
-        {
-          "name": "MIME",
-          "url": "https://open.spotify.com/artist/6DjZKTY9U7SpufUeVkoJMX"
-        },
         {
           "name": "Alexander Stewart",
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 171130,
-      "name": "STOP & GO",
-      "url": "https://open.spotify.com/track/2kpPludPmHagO06IiRChtM"
+      "duration_ms": 168000,
+      "name": "Be Sad",
+      "url": "https://open.spotify.com/track/6oEBTsbBsc5Z0ufXsrierq"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
       "duration_ms": 252018,
       "name": "You (feat. Alexander Stewart)",
       "url": "https://open.spotify.com/track/6zUnVnCCm02H7NP2R6It54"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aftermath",
-        "url": "https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Be Sad",
-      "url": "https://open.spotify.com/track/6oEBTsbBsc5Z0ufXsrierq"
     }
   ],
   "unique_name": "This Is Alexander Stewart",

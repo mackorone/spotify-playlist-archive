@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto:  Alice Wonder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,062 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,064 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 43 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |
 | 44 | [LOKADEMÁS](https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LOKADEMÁS](https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB) | 3:13 |
 | 45 | [qué bonito fue](https://open.spotify.com/track/2oRxGbzC6kMcgBXZoE5kkW) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [qué bonito fue](https://open.spotify.com/album/5ncvO397C5EBA0BJfzRfjA) | 2:38 |
-| 46 | [Decírtelo](https://open.spotify.com/track/7dBlz3dfeVZPmvbPm419N6) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [Decírtelo](https://open.spotify.com/album/2vS5dK5yyr0YAwS6wokCQZ) | 2:36 |
-| 47 | [MADRE](https://open.spotify.com/track/4j2e7idC7I4WOsHkp365aO) | [DeTeresa](https://open.spotify.com/artist/31zeUTZRXGIPUzzszUm4FK) | [MADRE](https://open.spotify.com/album/2sxtDcyhOrPUaImvlyXIYy) | 2:06 |
+| 46 | [MADRE](https://open.spotify.com/track/4j2e7idC7I4WOsHkp365aO) | [DeTeresa](https://open.spotify.com/artist/31zeUTZRXGIPUzzszUm4FK) | [MADRE](https://open.spotify.com/album/2sxtDcyhOrPUaImvlyXIYy) | 2:06 |
+| 47 | [Decírtelo](https://open.spotify.com/track/7dBlz3dfeVZPmvbPm419N6) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [Decírtelo](https://open.spotify.com/album/2vS5dK5yyr0YAwS6wokCQZ) | 2:36 |
 | 48 | [La Más Guapa \(feat\. Las Cheerlerdas\)](https://open.spotify.com/track/4ZZDNasBm2sflO2B8VKghu) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [La Más Guapa \(feat\. Las Cheerlerdas\)](https://open.spotify.com/album/6rX2f562RPxYYIC4nXYmvi) | 4:34 |
 | 49 | [Full Lace y el Tuck](https://open.spotify.com/track/4zfg7OC2mJDe6OXyKqjWtd) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Full Lace y el Tuck](https://open.spotify.com/album/22CPf2eEYMEPz2zm1BRVbw) | 2:53 |
 | 50 | [LLÁMAME](https://open.spotify.com/track/1kCtV6thYSIvBLxsyrqsWw) | [J Kbello](https://open.spotify.com/artist/6rCKs7YmtBhtKc2fAdblZA), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [LLÁMAME](https://open.spotify.com/album/2dZblO1hvoesr6hZ6229bo) | 2:18 |

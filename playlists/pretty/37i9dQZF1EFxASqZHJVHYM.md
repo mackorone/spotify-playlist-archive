@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,404 likes - 118 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,403 likes - 118 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 117 | [Ungrateful](https://open.spotify.com/track/4Jq0KjjNeVdnrgQBhfUzNW) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:37 |
 | 118 | [Know Better](https://open.spotify.com/track/17E27S9wzfX2PlGZdq5SiE) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:50 |
 
-Snapshot ID: `Ab8PCAAAAABQRMvkum9fObVcGk2ZQYFF`
+Snapshot ID: `Ab8UlAAAAAAbAvwqq9Sxg+CZ9B+h+qDb`

@@ -1,12 +1,12 @@
 {
   "description": "This is Sly & The Family Stone. The essential tracks, all in one playlist.",
-  "num_followers": 29608,
+  "num_followers": 29612,
   "original_name": "This Is Sly & The Family Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAA3r8QKgPe0XOJ/MMlycS2Z",
+  "snapshot_id": "aMYFgAAAAAA27PQhdxmUeackHLEbtp4S",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "There's a Riot Goin' On",
-        "url": "https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Family Affair - Single Version",
-      "url": "https://open.spotify.com/track/4f3u4Oy0JqJRIhMmTqRcxj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 291320,
       "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
       "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There's a Riot Goin' On",
+        "url": "https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Family Affair - Single Version",
+      "url": "https://open.spotify.com/track/4f3u4Oy0JqJRIhMmTqRcxj"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 322200,
-      "name": "Que Sera, Sera (Whatever Will Be, Will Be)",
-      "url": "https://open.spotify.com/track/52Xfwd81ZsBMDTW2S2X3zz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 157040,
       "name": "Hot Fun in the Summertime - Mono Single Master",
       "url": "https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 322200,
+      "name": "Que Sera, Sera (Whatever Will Be, Will Be)",
+      "url": "https://open.spotify.com/track/52Xfwd81ZsBMDTW2S2X3zz"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 347493,
-      "name": "In Time",
-      "url": "https://open.spotify.com/track/21SHzZ1qsXzJ5Socuuyo8w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 184160,
       "name": "Everybody Is a Star - Mono Single Master",
       "url": "https://open.spotify.com/track/4NXNW4eqf9JXLhWFRjwFh9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 347493,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/21SHzZ1qsXzJ5Socuuyo8w"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Whole New Thing",
-        "url": "https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy"
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 198933,
-      "name": "I Cannot Make It",
-      "url": "https://open.spotify.com/track/12guwaqWe3xZUPdnfSw0n4"
+      "duration_ms": 200333,
+      "name": "Somebody's Watching You",
+      "url": "https://open.spotify.com/track/5DCAUoDMRiBiezamBZX4yt"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand",
-        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 200333,
-      "name": "Somebody's Watching You",
-      "url": "https://open.spotify.com/track/5DCAUoDMRiBiezamBZX4yt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Small Talk",
         "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 197173,
       "name": "Time For Livin'",
       "url": "https://open.spotify.com/track/1oQjAXbu9xARHLpKH73N1p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Whole New Thing",
+        "url": "https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "I Cannot Make It",
+      "url": "https://open.spotify.com/track/12guwaqWe3xZUPdnfSw0n4"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Gotta Go Now (Up On The Floor) / Funky Broadway",
-        "url": "https://open.spotify.com/album/3o5qY8Oz7zJxKeb8bZKmtC"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 168016,
-      "name": "I Gotta Go Now (Up On The Floor) / Funky Broadway",
-      "url": "https://open.spotify.com/track/3gXwZLVJ8YMcOWlWVtTVhA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Small Talk",
         "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Gotta Go Now (Up On The Floor) / Funky Broadway",
+        "url": "https://open.spotify.com/album/3o5qY8Oz7zJxKeb8bZKmtC"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 168016,
+      "name": "I Gotta Go Now (Up On The Floor) / Funky Broadway",
+      "url": "https://open.spotify.com/track/3gXwZLVJ8YMcOWlWVtTVhA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dance To The Music",
         "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 188293,
       "name": "Color Me True",
       "url": "https://open.spotify.com/track/7e3gIQQIuGnVUUcGUOJNgM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 163266,
-      "name": "Love City",
-      "url": "https://open.spotify.com/track/0RfvI47szEhLTEnD7WTIco"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 163266,
+      "name": "Love City",
+      "url": "https://open.spotify.com/track/0RfvI47szEhLTEnD7WTIco"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The First Family: Live At Winchester Cathedral 1967",
         "url": "https://open.spotify.com/album/2RKFmKwO5tdaXkIcsqXfd7"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 267546,
       "name": "Skate Now - Live At Winchester Cathedral 1967",
       "url": "https://open.spotify.com/track/5kVhCcyzMDfDK186S4ZUAM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back On The Right Track",
-        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 163360,
-      "name": "If It's Not Addin' Up",
-      "url": "https://open.spotify.com/track/2NB532dM3UPhcNibc0qW3Y"
     },
     {
       "added_at": null,
@@ -731,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back On The Right Track",
+        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "If It's Not Addin' Up",
+      "url": "https://open.spotify.com/track/2NB532dM3UPhcNibc0qW3Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dance To The Music",
         "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sly & The Family Stone: The Woodstock Experience",
-        "url": "https://open.spotify.com/album/39wxaeY2oFX5TcQcOqLkSV"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 470666,
-      "name": "Medley: Higher/Music Lover - Live at The Woodstock Music & Art Fair, August 17, 1969",
-      "url": "https://open.spotify.com/track/59O8UshhepLHj0d8eSJdKU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Whole New Thing",
         "url": "https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 115733,
       "name": "Turn Me Loose",
       "url": "https://open.spotify.com/track/5min27LLty1G9R270gS0p4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sly & The Family Stone: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/39wxaeY2oFX5TcQcOqLkSV"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 470666,
+      "name": "Medley: Higher/Music Lover - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/59O8UshhepLHj0d8eSJdKU"
     },
     {
       "added_at": null,

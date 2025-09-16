@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Benjamin Amaru
 
-402 songs - 20 hr 44 min
+403 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [It's Been a While](https://open.spotify.com/track/4B0pvMBFlE8pADYmkqa8n4) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [It's Been a While](https://open.spotify.com/album/7sUcHP5i1itbml8BXsEOji) | 4:01 | 2025-05-01 | 2025-05-09 |
 | [It's Fine](https://open.spotify.com/track/37aMREVDR0UxvOMjWJoIAY) | [Junes](https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv) | [It's Fine](https://open.spotify.com/album/1p20UtXFNNv5DQDTsp1D4R) | 4:00 | 2025-03-28 |  |
 | [I’m Getting Tired of Me](https://open.spotify.com/track/5uVnCPwUSw1ITK92eq0cSY) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I'm Getting Tired of Me](https://open.spotify.com/album/3fkjAF6mRMGlFxyisnRH3c) | 3:36 | 2025-04-17 |  |
-| [Julia](https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3) | [Andryy](https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP) | [Julia](https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk) | 3:14 | 2024-06-27 |  |
+| [Julia](https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3) | [Andryy](https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP) | [Julia](https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk) | 3:14 | 2024-06-27 | 2025-09-16 |
 | [Julia?](https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Julia?](https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi) | 3:44 | 2024-10-03 |  |
 | [July](https://open.spotify.com/track/72t4HDVKoSLTQASn6fvBNc) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY) | [July](https://open.spotify.com/album/6PQ63KygnHQXXyU3EIJvHf) | 2:17 | 2025-04-17 | 2025-04-25 |
 | [Jungle](https://open.spotify.com/track/3KTLTFYcnyag93nBA8qblK) | [VVSPANTHER](https://open.spotify.com/artist/4RAioOMlywQJPEgkfVNuBx) | [JUNGLE](https://open.spotify.com/album/3R9qLWs4r4zW5FlSRrKA0s) | 2:47 | 2025-04-24 | 2025-05-02 |
@@ -252,6 +252,7 @@
 | [more light](https://open.spotify.com/track/6qp9ZDjiBv1sAO15FDNRpB) | [Nativ](https://open.spotify.com/artist/7ufLkxlHrq3NRaS1fCHOgq), [88eastBoae](https://open.spotify.com/artist/0a8zYN9NHy5KrJUQdqMrFI) | [more light](https://open.spotify.com/album/6EgoKoNllJjZYMlfxc632C) | 2:46 | 2025-04-24 | 2025-05-02 |
 | [MOVIE](https://open.spotify.com/track/0r8UouuzeMayDncGRbkEzw) | [James Gruntz](https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy) | [MOVIE](https://open.spotify.com/album/0KdfnlW2K5kkELz1nVgAsX) | 3:41 | 2024-09-27 | 2024-11-16 |
 | [My Guitar is too Loud](https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [My Guitar is too Loud](https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy) | 3:22 | 2025-04-17 | 2025-04-25 |
+| [My Life](https://open.spotify.com/track/3in7NzbLsVP1HZqYcE58uM) | [Boy Amor](https://open.spotify.com/artist/3AupJfKW4DItB2fo9zRQ9E) | [My Life](https://open.spotify.com/album/4hqosLwz9aarWxNFH0FyVV) | 3:39 | 2025-09-12 |  |
 | [my religion](https://open.spotify.com/track/35NEKJnyj2waAPPSyCpgKC) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [my religion](https://open.spotify.com/album/2toUGxyi3JsWxsa2WzCzv1) | 2:18 | 2024-11-22 | 2024-12-21 |
 | [Mänti](https://open.spotify.com/track/2OoGjhuS6kwMiSUCIhbBoS) | [Pluto32](https://open.spotify.com/artist/7Jy9LT0pVmLsASefxS8v8O), [Kimbo1312](https://open.spotify.com/artist/4jHprep8zkOsnGraQm8jJ6) | [Mänti](https://open.spotify.com/album/5GbJcfwrk1HpELRcE6TlpQ) | 2:47 | 2025-04-24 | 2025-05-02 |
 | [Nenn Es Liebe](https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ich Kann's Nicht Glauben](https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy) | 3:22 | 2024-10-18 | 2024-12-11 |

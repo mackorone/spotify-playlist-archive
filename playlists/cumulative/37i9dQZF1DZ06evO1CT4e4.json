@@ -537,6 +537,28 @@
     },
     {
       "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 706693,
+      "name": "Fratres (Transc. Osokins for Piano)",
+      "url": "https://open.spotify.com/track/5K3Is3Xgg3jToIvbqBZiTL"
+    },
+    {
+      "album": {
         "name": "Arvo P\u00e4rt: Fratres",
         "url": "https://open.spotify.com/album/7IIbRzKOYUk5saQx3w0Jb7"
       },
@@ -960,7 +982,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 161026,
       "name": "Morning Star",
       "url": "https://open.spotify.com/track/0YsOmHmPAUsTyDQP3uPzdL"
@@ -1078,7 +1100,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 332839,
       "name": "Silouans Song",
       "url": "https://open.spotify.com/track/4q1ZdfNAC0gOAQSOj65ux0"
@@ -1476,6 +1498,28 @@
       "duration_ms": 152546,
       "name": "Veni creator",
       "url": "https://open.spotify.com/track/7vU6uArKT6ONVogJQ6tl2n"
+    },
+    {
+      "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128866,
+      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 4, Tanz der Entenk\u00fcken",
+      "url": "https://open.spotify.com/track/3hMBeAS7ahfF0t1iPMtmii"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1CT4e4"

@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 4341,
+  "num_followers": 4346,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAAS/BnHa7Obt8ZTjKc6satl",
+  "snapshot_id": "aMYFgAAAAABJ+O1mEh4vWO7PdRzd5gcX",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reca\u00edda",
+        "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "duration_ms": 188976,
+      "name": "Reca\u00edda",
+      "url": "https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Dj Gm 3.0",
         "url": "https://open.spotify.com/album/41SaVrBv4KhINcfAyC8ePE"
       },
@@ -355,30 +379,6 @@
       "duration_ms": 390315,
       "name": "Set Dj Gm 3.0",
       "url": "https://open.spotify.com/track/5z9RaVCvG9NkxCLbyHKaf2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reca\u00edda",
-        "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        }
-      ],
-      "duration_ms": 188976,
-      "name": "Reca\u00edda",
-      "url": "https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0"
     },
     {
       "added_at": null,
@@ -587,22 +587,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "V\u00caNUS\u2260netuno",
-        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
+        "name": "N\u00e3o Quero Love",
+        "url": "https://open.spotify.com/album/6D60Qfyg5eWCw9tYkbGGJE"
       },
       "artists": [
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+          "name": "Mc Henny",
+          "url": "https://open.spotify.com/artist/3lT6gKD7eGb3dZRutZ3Jol"
         },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Nath Fischer",
+          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
         }
       ],
-      "duration_ms": 183380,
-      "name": "APOCAL\u00cdPTIKA",
-      "url": "https://open.spotify.com/track/4pdHinWMilOcFb65irdH8w"
+      "duration_ms": 155833,
+      "name": "N\u00e3o Quero Love",
+      "url": "https://open.spotify.com/track/3N2fMQBI2AP3C7hhVYFi4B"
     },
     {
       "added_at": null,
@@ -639,26 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Quero Love",
-        "url": "https://open.spotify.com/album/6D60Qfyg5eWCw9tYkbGGJE"
+        "name": "V\u00caNUS\u2260netuno",
+        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
       },
       "artists": [
         {
-          "name": "Mc Henny",
-          "url": "https://open.spotify.com/artist/3lT6gKD7eGb3dZRutZ3Jol"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Nath Fischer",
-          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
         }
       ],
-      "duration_ms": 155833,
-      "name": "N\u00e3o Quero Love",
-      "url": "https://open.spotify.com/track/3N2fMQBI2AP3C7hhVYFi4B"
+      "duration_ms": 183380,
+      "name": "APOCAL\u00cdPTIKA",
+      "url": "https://open.spotify.com/track/4pdHinWMilOcFb65irdH8w"
     },
     {
       "added_at": null,
@@ -843,26 +843,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nike Novo",
-        "url": "https://open.spotify.com/album/7vdftrf3dgyLrWO5LNXrOm"
+        "name": "Poc Poc",
+        "url": "https://open.spotify.com/album/2xaNuhVlP39plZFv7kRjrc"
       },
       "artists": [
         {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
         }
       ],
-      "duration_ms": 184256,
-      "name": "Nike Novo",
-      "url": "https://open.spotify.com/track/6dvmKKxL0An5ynDVAAkAZy"
+      "duration_ms": 212375,
+      "name": "Poc Poc",
+      "url": "https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v"
     },
     {
       "added_at": null,
@@ -891,6 +883,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nike Novo",
+        "url": "https://open.spotify.com/album/7vdftrf3dgyLrWO5LNXrOm"
+      },
+      "artists": [
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "duration_ms": 184256,
+      "name": "Nike Novo",
+      "url": "https://open.spotify.com/track/6dvmKKxL0An5ynDVAAkAZy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desfecho",
         "url": "https://open.spotify.com/album/6V2bSKag8gME9P1cT2f021"
       },
@@ -915,42 +931,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poc Poc",
-        "url": "https://open.spotify.com/album/2xaNuhVlP39plZFv7kRjrc"
+        "name": "Momento (feat. Luccas Carlos)",
+        "url": "https://open.spotify.com/album/7w1FWmH0xbFko0el1LP7tr"
       },
       "artists": [
         {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 212375,
-      "name": "Poc Poc",
-      "url": "https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bailean",
-        "url": "https://open.spotify.com/album/6ZnZ9rmxOVPXHmdvMs5gyS"
-      },
-      "artists": [
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         },
         {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
-          "name": "Nath Fischer",
-          "url": "https://open.spotify.com/artist/76cadDGwcJerxd4gl7NaHp"
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
         }
       ],
-      "duration_ms": 218181,
-      "name": "Bailean",
-      "url": "https://open.spotify.com/track/217FtqeGHQOp6ki2qyNmmR"
+      "duration_ms": 202218,
+      "name": "Momento (feat. Luccas Carlos)",
+      "url": "https://open.spotify.com/track/2ia5PzDqdzgJ6EGLItWzCL"
     },
     {
       "added_at": null,
@@ -987,30 +991,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Momento (feat. Luccas Carlos)",
-        "url": "https://open.spotify.com/album/7w1FWmH0xbFko0el1LP7tr"
+        "name": "Bailean",
+        "url": "https://open.spotify.com/album/6ZnZ9rmxOVPXHmdvMs5gyS"
       },
       "artists": [
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         },
         {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
         },
         {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+          "name": "Nath Fischer",
+          "url": "https://open.spotify.com/artist/76cadDGwcJerxd4gl7NaHp"
         }
       ],
-      "duration_ms": 202218,
-      "name": "Momento (feat. Luccas Carlos)",
-      "url": "https://open.spotify.com/track/2ia5PzDqdzgJ6EGLItWzCL"
+      "duration_ms": 218181,
+      "name": "Bailean",
+      "url": "https://open.spotify.com/track/217FtqeGHQOp6ki2qyNmmR"
     },
     {
       "added_at": null,
@@ -1251,6 +1251,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No meu Flat",
+        "url": "https://open.spotify.com/album/2lc9wdanTUu4UVvkaFacFt"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6M4I5fzROAwy9WcsnvLVxa"
+        }
+      ],
+      "duration_ms": 242285,
+      "name": "No meu Flat",
+      "url": "https://open.spotify.com/track/0bwPnwCSM3txTCxdmMQ3ay"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Firma \u00e9 Forte",
         "url": "https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk"
       },
@@ -1287,46 +1307,6 @@
       "duration_ms": 196402,
       "name": "Decolar",
       "url": "https://open.spotify.com/track/1niFof33T1bYI9lU26mIg9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No meu Flat",
-        "url": "https://open.spotify.com/album/2lc9wdanTUu4UVvkaFacFt"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6M4I5fzROAwy9WcsnvLVxa"
-        }
-      ],
-      "duration_ms": 242285,
-      "name": "No meu Flat",
-      "url": "https://open.spotify.com/track/0bwPnwCSM3txTCxdmMQ3ay"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Que Vai Ser de Mim",
-        "url": "https://open.spotify.com/album/3lJs7qtSqbET4XrQW2FUkk"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "O Que Vai Ser de Mim",
-      "url": "https://open.spotify.com/track/4ED0k4V55pOO64ShvYnvKc"
     },
     {
       "added_at": null,
@@ -1375,6 +1355,26 @@
       "duration_ms": 354545,
       "name": "SET DJ BR DA TIJUCA 5",
       "url": "https://open.spotify.com/track/4bwlglmM45i6wO0hWKQ9N4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Que Vai Ser de Mim",
+        "url": "https://open.spotify.com/album/3lJs7qtSqbET4XrQW2FUkk"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "O Que Vai Ser de Mim",
+      "url": "https://open.spotify.com/track/4ED0k4V55pOO64ShvYnvKc"
     },
     {
       "added_at": null,

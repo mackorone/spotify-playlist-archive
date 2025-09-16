@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 
 > Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: Pollyfromthedirt
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,768 likes - 79 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,776 likes - 79 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

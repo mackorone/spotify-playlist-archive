@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,023 songs - 3 day 14 hr 43 min
+2,025 songs - 3 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [00:42](https://open.spotify.com/track/2UAPfh7Iwcz2a8P5qmXxpn) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [00:42](https://open.spotify.com/album/1FYKCczUjRwsavPxIYST4c) | 2:00 | 2025-05-22 |  |
 | [02:35](https://open.spotify.com/track/61R3XrUG9JwNHDLqI1jeAq) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [02:35](https://open.spotify.com/album/2YyFbz3puwEY0RvHlFYRhP) | 2:03 | 2025-06-19 |  |
 | [03:30](https://open.spotify.com/track/0JDnYc55QAbgBH9FMDvksn) | [Solo](https://open.spotify.com/artist/3U2nefv8SP86Y3fI47xfxh) | [03:30](https://open.spotify.com/album/5r7vOF3pjDZrz29Ek0V4zn) | 2:00 | 2023-05-24 | 2023-08-04 |
+| [040 m.m.](https://open.spotify.com/track/4uindcfQhUcyEQu5W6dmne) | [YiGZAW](https://open.spotify.com/artist/5p2eWJvC1IIdUXmAuaiWsP) | [040 m.m.](https://open.spotify.com/album/0SIiFbuxCJxKCfgSVHFJyc) | 3:15 | 2025-09-15 |  |
 | [08 ZOO](https://open.spotify.com/track/59cIFyq3hJRRbEX4yl7QVt) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [08 ZOO](https://open.spotify.com/album/2IOQXMQV5gN3xxpMcMXLNM) | 2:04 | 2021-12-16 | 2022-01-28 |
 | [1,2 & Mer](https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl) | [1,2 & Mer](https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF) | 2:37 | 2023-09-19 | 2024-01-12 |
 | [1\-2 STEP](https://open.spotify.com/track/0rogcWicjVz9sL1CJMm8tR) | [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI), [Jamkid](https://open.spotify.com/artist/1AXqKV1nhx3eMcHzD5pNVx) | [MEDAN VI FALLER](https://open.spotify.com/album/285NfeomqN2o31wYPnbI6I) | 2:40 | 2022-11-04 | 2022-12-02 |
@@ -704,6 +705,7 @@
 | [Genvägar](https://open.spotify.com/track/1xbJIGEE5UpKBHRt3DsKVH) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Genvägar](https://open.spotify.com/album/1wLejgtnjD8n95osYitup4) | 2:24 | 2024-05-16 | 2024-09-24 |
 | [Georgia](https://open.spotify.com/track/3MH6phj8eg7ofHeutNjAom) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Georgia](https://open.spotify.com/album/4bU83gSkplvSgivTYK0Yzu) | 2:28 | 2025-02-06 | 2025-05-30 |
 | [Get Back](https://open.spotify.com/track/0FE6N5ER3DJdoyo220Uwfx) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Get Back](https://open.spotify.com/album/479TzllFw49dJKnXcx0DtB) | 2:11 | 2024-05-09 | 2024-08-09 |
+| [GET IT](https://open.spotify.com/track/4sWn1B6dgtvoNEFQxkwma7) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [GET IT](https://open.spotify.com/album/6Qtv6pUXCkQVuDmqyWOE5L) | 2:30 | 2025-09-15 |  |
 | [Get Jiggy](https://open.spotify.com/track/6ydBZr2Iv7UzPG4bogi9i1) | [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d) | [Get Jiggy](https://open.spotify.com/album/1Br0ieQseDhJOo2SQZeDbB) | 2:14 | 2023-12-28 | 2024-02-16 |
 | [GET THE POINT](https://open.spotify.com/track/3CgP1CxtvZgIYomCNuP5jG) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [GET THE POINT](https://open.spotify.com/album/648H90bGSGPjRsxshE3AOx) | 2:58 | 2022-05-12 | 2022-08-12 |
 | [Getsnack \(feat\. Imenella\)](https://open.spotify.com/track/2IYrfyfRvvJwFGo1AQW5TO) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h) | [Getsnack \(feat\. Imenella\)](https://open.spotify.com/album/2k2kLJHgTpSVlLdXsGJ7FP) | 2:17 | 2025-04-10 | 2025-06-20 |

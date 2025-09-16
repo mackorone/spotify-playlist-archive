@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Shimza & Kasango
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,867 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,869 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 74 | [Risk It All \(feat\. Maverick Sabre\)](https://open.spotify.com/track/21zPoJIGxEwNUfMRsdFTJp) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Risk It All \(feat\. Maverick Sabre\)](https://open.spotify.com/album/1CjMIMDADSu9lKwYtHfCrc) | 3:31 |
 | 75 | [Sink In](https://open.spotify.com/track/3jFHtovu88ZrWf0nmK90ab) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 2:16 |
 
-Snapshot ID: `AAAAAKuq4sybhfIvQshif6jmZB0v1IfN`
+Snapshot ID: `AAAAAOXmOKXniTrsmR2ZjZ8PZg1JTSwM`

@@ -4,7 +4,7 @@
 
 > Suomen suurin ja paras rock\-soittolista\. 🦇
 
-292 songs - 18 hr 53 min
+293 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Neon Noir](https://open.spotify.com/track/4jW6TlrmCQUGnNcbEdr8Ui) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Neon Noir](https://open.spotify.com/album/1F9QDVhcJCUz0BHcjdmqvX) | 4:56 | 2024-09-11 | 2024-12-13 |
 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 | 2024-09-11 | 2025-01-17 |
 | [No Loss, No Love](https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [No Loss, No Love](https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K) | 2:56 | 2025-02-06 | 2025-02-28 |
+| [Nothing from This World \- Radio Edit](https://open.spotify.com/track/1PBIVkS3Jp6wtdTLiop2m0) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [Nothing from This World \(Radio Edit\)](https://open.spotify.com/album/2JRcUb8SkJnXPjsuoX0oXw) | 4:13 | 2025-09-15 |  |
 | [Number One](https://open.spotify.com/track/5sy6m7FTbkG3A10tiQHkqD) | [Brother Firetribe](https://open.spotify.com/artist/0FP1GVYq6WKexCiBkPftha) | [Number One](https://open.spotify.com/album/3jgn8ryANXoghlqqjmKhHS) | 3:53 | 2025-04-24 |  |
 | [Ok, But This Is The Last Time](https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 3:23 | 2024-10-10 | 2024-10-25 |
 | [One Foot In The Grave \(feat\. Aaron Pauley of Of Mice & Men\)](https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [Aaron Pauley](https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5) | [One Foot In The Grave \(feat\. Aaron Pauley of Of Mice & Men\)](https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7) | 3:28 | 2024-09-11 | 2025-04-25 |

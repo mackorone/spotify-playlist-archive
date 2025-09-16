@@ -3597,6 +3597,24 @@
     },
     {
       "album": {
+        "name": "Buut Vrij",
+        "url": "https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu"
+      },
+      "artists": [
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158961,
+      "name": "Buut Vrij",
+      "url": "https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i"
+    },
+    {
+      "album": {
         "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0"
       },
@@ -8604,6 +8622,32 @@
       "duration_ms": 154815,
       "name": "Heel De Nacht Alleen",
       "url": "https://open.spotify.com/track/0CVFLeX7D7K204cXJ6nxCH"
+    },
+    {
+      "album": {
+        "name": "Helaas",
+        "url": "https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx"
+      },
+      "artists": [
+        {
+          "name": "Langa",
+          "url": "https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        },
+        {
+          "name": "Rijck",
+          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Helaas",
+      "url": "https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5"
     },
     {
       "album": {

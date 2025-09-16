@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: <br/>HAECHAN\(해찬\)\)
+> Trendy & Chill Korean R&B music\. \(Cover: <br/>YUNGIN, GRAY, DeVita\)
 
-858 songs - 1 day 21 hr 24 min
+859 songs - 1 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -648,7 +648,7 @@
 | [Salang Salang](https://open.spotify.com/track/1DEJaWgi8ZKdStRO0iUX6e) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:02 | 2022-04-22 | 2022-07-21 |
 | [Sandfunk \(feat\. ELO\)](https://open.spotify.com/track/0vM0bCUmKNGAGTmie7yv13) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [COLOUR](https://open.spotify.com/album/5NuA284oIw8Badg4oHaIOe) | 3:13 | 2022-11-23 | 2022-12-10 |
 | [Scared of Love](https://open.spotify.com/track/1fCdHI0EBnGabru914ap2f) | [Min Jiwoon](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [Pink, then grey](https://open.spotify.com/album/7m7Z7Qi4enLFgn1s8vgYgh) | 2:37 | 2025-08-22 | 2025-09-09 |
-| [Scaredy Cat](https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 2:50 | 2022-04-19 |  |
+| [Scaredy Cat](https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 2:50 | 2022-04-19 | 2025-09-16 |
 | [Scent](https://open.spotify.com/track/1neROuQxafANebAEXLRFWf) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Scent](https://open.spotify.com/album/3xgGdTJNMCDOb2KpqL5ul0) | 2:08 | 2023-01-18 | 2023-02-15 |
 | [Scott and Zelda](https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 3:13 | 2025-05-14 |  |
 | [Searched your name on instagram](https://open.spotify.com/track/0N9QkwJeveGUGpWvUORlzy) | [Lokid](https://open.spotify.com/artist/4qrNQeAY9fmYHiQUXu7k9g) | [Searched your name on instagram](https://open.spotify.com/album/21gf9IgPsdFViKGVZv5GwF) | 2:52 | 2023-01-23 | 2023-02-11 |
@@ -676,6 +676,7 @@
 | [Sip Ona Lil Sum' \(Feat\. NINGNING of aespa\)](https://open.spotify.com/track/1H5rqmKEhkc0ICxvRlSBhn) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [THE ONE YOU WANTED](https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv) | 3:34 | 2024-10-09 | 2024-11-07 |
 | [SKIT \(feat\. LeeHi & Loco\)](https://open.spotify.com/track/5u12zwirDCObrXmyqLWKV0) | [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [WEATHER REPORT](https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm) | 2:31 | 2022-10-28 | 2022-11-10 |
 | [Sleep](https://open.spotify.com/track/45vAXcFwBye4C8ct9vwWqJ) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 2:58 | 2023-02-10 | 2023-02-22 |
+| [SLIDIN’](https://open.spotify.com/track/0k9YOhsIcZGaXzwEVAL0EM) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [SLIDIN’](https://open.spotify.com/album/1M9noTaRDmFsm9juq86FDA) | 3:51 | 2025-09-15 |  |
 | [Slow Dance](https://open.spotify.com/track/3ASYo6ur6gT6d6sqosWub9) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Slow Dance](https://open.spotify.com/album/0Ck8vZyl61aCKh8QymZo0E) | 3:03 | 2022-05-11 | 2022-07-09 |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-08 |  |
 | [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 | 2023-09-13 | 2024-07-10 |

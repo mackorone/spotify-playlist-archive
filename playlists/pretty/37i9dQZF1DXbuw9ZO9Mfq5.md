@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 
 > The official playlist for the 56th <a href="https://doveawards.com/">Dove Awards.</a> Watch the show on Fri., Oct\. 10th at 7:30 & 10 pm ET on <a href="https://www.tbn.org/2025doveawards">TBN</a> & the TBN+ app\.  Cover \(Host\): <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,571 likes - 135 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,570 likes - 135 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 | 39 | [Deserve To Win](https://open.spotify.com/track/3KNgmOeJ5uV9dVCSAaikzC) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Deserve to Win](https://open.spotify.com/album/34WTRFgfj6JicZpi5d2RUb) | 4:22 |
 | 40 | [Holy Hands](https://open.spotify.com/track/0fBm16QCdtqEvrcT3b9H7E) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Holy Hands](https://open.spotify.com/album/6BIfrz3Im2b1U1DgDPfI1x) | 3:24 |
 | 41 | [In The Room \(feat\. Annatoria\) \- Afro Beat Version](https://open.spotify.com/track/1AdcEWQE8vSDYqOPHZsOSh) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [The Maverick Way Reimagined](https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0) | 3:59 |
-| 42 | [Church Medley \- Live](https://open.spotify.com/track/6vYSHfk0Ov9fZmAn8M9P2l) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Church Medley \(Live\)](https://open.spotify.com/album/54L4Vr1hsPtF91lc785XzS) | 6:12 |
+| 42 | [Church Medley \(feat\. Tallie Rodgers\) \- Live](https://open.spotify.com/track/6vYSHfk0Ov9fZmAn8M9P2l) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [Tallie Rodgers](https://open.spotify.com/artist/1ssKXK14z2hlhg7mRUGsBg) | [Church Medley \(feat\. Tallie Rodgers\) \[Live\]](https://open.spotify.com/album/54L4Vr1hsPtF91lc785XzS) | 6:12 |
 | 43 | [He's A Wonder](https://open.spotify.com/track/1u5NtpCVCb6kDl34g45Fyc) | [Chicago Mass Choir](https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla) | [He's A Wonder](https://open.spotify.com/album/5XKf4ID9KagV46Kq77vgVV) | 3:51 |
 | 44 | [When I Think \- Radio Edit / Live](https://open.spotify.com/track/4AoH3vZnIqEFVzNe5PPOS0) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [When I Think \(Radio Edit / Live\)](https://open.spotify.com/album/4bWTwHmi9rwMhNxXdZYp9Q) | 3:55 |
 | 45 | [Work It Out For Me \- Live Radio Edit](https://open.spotify.com/track/6l4wCVsYLumb6Q7krt951g) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Work It Out For Me \(Live Radio Edit\)](https://open.spotify.com/album/6Vla4b1VTVJdGJegThCul8) | 3:49 |

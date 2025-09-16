@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 569581,
+  "num_followers": 569701,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-09-12 06:00:14",
       "album": {
+        "name": "Life 2",
+        "url": "https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 203157,
+      "name": "Life 2",
+      "url": "https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da"
+    },
+    {
+      "added_at": "2025-09-12 06:00:14",
+      "album": {
         "name": "Hallucinating Love",
         "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 210994,
       "name": "Peace Talk",
       "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
-    },
-    {
-      "added_at": "2025-09-12 06:00:14",
-      "album": {
-        "name": "Life 2",
-        "url": "https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 203157,
-      "name": "Life 2",
-      "url": "https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da"
     },
     {
       "added_at": "2025-09-12 06:00:14",
@@ -679,6 +679,26 @@
     {
       "added_at": "2025-09-12 06:00:14",
       "album": {
+        "name": "Time to Melt",
+        "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        },
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Dream Free",
+      "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
+    },
+    {
+      "added_at": "2025-09-12 06:00:14",
+      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/11FqXtXViQ1XZ5s2NaFEOJ"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 341345,
       "name": "For My Ladies",
       "url": "https://open.spotify.com/track/1GOiGHZpvVIwIXqmXVwvCy"
-    },
-    {
-      "added_at": "2025-09-12 06:00:14",
-      "album": {
-        "name": "Time to Melt",
-        "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        },
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "Dream Free",
-      "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
     },
     {
       "added_at": "2025-09-12 06:00:14",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-09-12 06:00:14",
       "album": {
-        "name": "Ausente",
-        "url": "https://open.spotify.com/album/3JtrimyGOgrXVjvggjZYdy"
-      },
-      "artists": [
-        {
-          "name": "Fer Casillas",
-          "url": "https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R"
-        }
-      ],
-      "duration_ms": 180076,
-      "name": "Hasta Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4bgMPTSl5dU7rgOlG56NV1"
-    },
-    {
-      "added_at": "2025-09-12 06:00:14",
-      "album": {
         "name": "20 Years Dope Noir - Oranje Album",
         "url": "https://open.spotify.com/album/0sZdCLGEGLayVCJaNgMnW6"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 185250,
       "name": "The Moon Above",
       "url": "https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF"
+    },
+    {
+      "added_at": "2025-09-12 06:00:14",
+      "album": {
+        "name": "Ausente",
+        "url": "https://open.spotify.com/album/3JtrimyGOgrXVjvggjZYdy"
+      },
+      "artists": [
+        {
+          "name": "Fer Casillas",
+          "url": "https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R"
+        }
+      ],
+      "duration_ms": 180076,
+      "name": "Hasta Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4bgMPTSl5dU7rgOlG56NV1"
     },
     {
       "added_at": "2025-09-12 06:00:14",
@@ -1695,6 +1695,26 @@
     {
       "added_at": "2025-09-12 06:00:14",
       "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/41TUfXgTwmFIqL0aFgpefc"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Denitia",
+          "url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
+        }
+      ],
+      "duration_ms": 228786,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK"
+    },
+    {
+      "added_at": "2025-09-12 06:00:14",
+      "album": {
         "name": "pop songs 2020",
         "url": "https://open.spotify.com/album/3aq7whJpYQjC5m2GGENivF"
       },
@@ -1715,26 +1735,6 @@
       "duration_ms": 207535,
       "name": "Black Light",
       "url": "https://open.spotify.com/track/0HIoqptSi0bei1EkpZ9FNT"
-    },
-    {
-      "added_at": "2025-09-12 06:00:14",
-      "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/41TUfXgTwmFIqL0aFgpefc"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Denitia",
-          "url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
-        }
-      ],
-      "duration_ms": 228786,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK"
     }
   ],
   "unique_name": "Soft Office",

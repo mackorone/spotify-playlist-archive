@@ -3939,6 +3939,28 @@
     },
     {
       "album": {
+        "name": "Celosa",
+        "url": "https://open.spotify.com/album/4U98hPFmBA89MrkxPgaa23"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202457,
+      "name": "Celosa",
+      "url": "https://open.spotify.com/track/4aEyI7nU1uCm4G0YpR7NvQ"
+    },
+    {
+      "album": {
         "name": "CEO",
         "url": "https://open.spotify.com/album/4Gd49c3h5KaOfCJ5pitwND"
       },
@@ -9736,7 +9758,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 209686,
       "name": "INFINITOS COMO EL MAR",
       "url": "https://open.spotify.com/track/2asUhQ9DDNtVinkQ095Rhm"
@@ -18586,7 +18608,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 231999,
       "name": "RAMEN PARA DOS",
       "url": "https://open.spotify.com/track/0vcuJjViqrFCCWUrjrZW1X"
@@ -22916,7 +22938,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 247453,
       "name": "Un Osito de Peluche de Taiw\u00e1n",
       "url": "https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn"

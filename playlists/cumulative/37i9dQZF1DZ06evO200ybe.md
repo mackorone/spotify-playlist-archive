@@ -4,7 +4,7 @@
 
 > This is Chet Baker\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 47 min
+54 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,10 +25,11 @@
 | [For Miles And Miles](https://open.spotify.com/track/3xHZQmEwgrLTQv2b6vTYPC) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Picture Of Heath](https://open.spotify.com/album/7gGl026dNLosYhDnHcCIgO) | 6:25 | 2025-07-20 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/2WRLJSbs3O6VuU4yTHMapa) | [Wolfgang Lackerschmid](https://open.spotify.com/artist/3DK2TT2zcwr9AbWTfOHwxS), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Larry Coryell](https://open.spotify.com/artist/25s8YpOLWqI2SgTlvapJyQ), [Buster Williams](https://open.spotify.com/artist/0pSoLnWrkv4lvm0CBl526G), [Tony Williams](https://open.spotify.com/artist/0rsOFTSrfAFwunJfGjgB9U) | [Quintet Sessions 1979](https://open.spotify.com/album/2589rTLkK1dIoC72z5cS1t) | 4:15 | 2025-07-20 |  |
 | [How High The Moon](https://open.spotify.com/track/1qagJUT7uzS8eAkDJmO8QG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Keepnews Collection\)](https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ) | 3:38 | 2025-07-20 |  |
+| [I Can Dream, Can't I?](https://open.spotify.com/track/4I0uep63ekT52EReAGKyz2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [I Can Dream, Can't I?](https://open.spotify.com/album/1Om5FVKUu8ymu92UHCMSpt) | 5:05 | 2025-09-16 |  |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:21 | 2025-07-20 |  |
 | [I Get Along Without You Very Well \(Except Sometimes\) \- Vocal Version](https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:59 | 2025-07-20 |  |
 | [I Wish You Love](https://open.spotify.com/track/1gF8EnsbcFBaYsNig7LhtN) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 3:12 | 2025-07-20 |  |
-| [I'll Be Around](https://open.spotify.com/track/5TEbPy96mbPIH31c3XMWBK) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [I'll Be Around](https://open.spotify.com/album/19FgcQw8fRGL25HZsKYmZP) | 3:40 | 2025-07-20 |  |
+| [I'll Be Around](https://open.spotify.com/track/5TEbPy96mbPIH31c3XMWBK) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [I'll Be Around](https://open.spotify.com/album/19FgcQw8fRGL25HZsKYmZP) | 3:40 | 2025-07-20 | 2025-09-16 |
 | [I'm Glad There Is You \- Remaster/2004](https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sextet](https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u) | 3:14 | 2025-07-20 |  |
 | [I'm Old Fashioned](https://open.spotify.com/track/2DZdof9VHreWvnCBAuhNr2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 5:03 | 2025-07-20 |  |
 | [I've Grown Accustomed To Her Face](https://open.spotify.com/track/4mDUnJXdRS9XuZSmCp9EFB) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 4:12 | 2025-07-20 |  |

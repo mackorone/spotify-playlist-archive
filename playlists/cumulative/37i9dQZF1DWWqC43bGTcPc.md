@@ -2,7 +2,7 @@
 
 ### [最Hit華語榜](https://open.spotify.com/playlist/37i9dQZF1DWWqC43bGTcPc)
 
-> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 張語噥 \(Sammy Chang\) x 宏兒 \(Kuan Hong\)
+> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 盧廣仲 \(Crowd Lu\)
 
 856 songs - 2 day 5 hr 29 min
 

@@ -4,7 +4,7 @@
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 15 min
+73 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Differences](https://open.spotify.com/track/19hXBFseJdqMKlNwFwZ8AC) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Goin In](https://open.spotify.com/album/5RhyJl0ok0NDKiHjDVg9Z9) | 3:57 | 2025-03-23 |  |
 | [Differences](https://open.spotify.com/track/7sqH8Bncc1UFyhgPwVPnIb) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Goin In \- Reloaded](https://open.spotify.com/album/7HXAggzDfYkYdZoc7sUjcd) | 3:57 | 2024-09-07 | 2025-03-23 |
 | [Even Score](https://open.spotify.com/track/3mmnnExzhdnzfMXwoydHfY) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 3:17 | 2024-10-11 | 2025-01-30 |
-| [Exactly How It Was](https://open.spotify.com/track/2DKpn2F7S62Yr5rY89H0M6) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Wish Me Well](https://open.spotify.com/album/3ttXfU9PV0Wkwc231ZM7cZ) | 3:16 | 2025-05-17 |  |
+| [Exactly How It Was](https://open.spotify.com/track/2DKpn2F7S62Yr5rY89H0M6) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Wish Me Well](https://open.spotify.com/album/3ttXfU9PV0Wkwc231ZM7cZ) | 3:16 | 2025-05-17 | 2025-09-16 |
 | [Feel It](https://open.spotify.com/track/77geRNo8p4BaEtYPpkeFSD) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [19](https://open.spotify.com/album/7D9fLDGU0A95Y0rIakBJA4) | 4:19 | 2024-09-07 |  |
 | [Flava](https://open.spotify.com/track/1DjbjIdKPNUVRCpyIREMeT) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M) | 5:50 | 2024-09-07 |  |
 | [Flex \(Ooh, Ooh, Ooh\)](https://open.spotify.com/track/4T0ScSPdQKmGvruK7pavNP) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Flex \(Ooh, Ooh, Ooh\) \- Single](https://open.spotify.com/album/4DGTGynJ1c17ElQpAbDAqV) | 2:56 | 2024-09-07 |  |
@@ -72,6 +72,7 @@
 | [The Wire \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/5HyHnZ6aSdORxyY24BWkdo) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [More Than Music, Pt\. 2](https://open.spotify.com/album/1AFfH43xNSiszkqzN3z9xO) | 2:59 | 2024-09-07 | 2024-09-11 |
 | [Theraflu](https://open.spotify.com/track/1lomnsuGYQFgOEip8eBNxd) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 3:06 | 2025-02-15 | 2025-03-02 |
 | [They Don't Know](https://open.spotify.com/track/7vvmO2zdUpDfgGLJunyG7v) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Promise I Will Never Stop Going In \(Deluxe Edition\)](https://open.spotify.com/album/2swWrUelezIoSdBWStNisb) | 2:57 | 2024-09-07 |  |
+| [This or That](https://open.spotify.com/track/1LUjANKJvZMnrITUExaKb8) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Magic City](https://open.spotify.com/album/1lOpFH3H5zuMpuXRGPCEGW) | 2:28 | 2025-09-16 |  |
 | [To Be Worried](https://open.spotify.com/track/71fuwhvrbiuxfpBspkR93A) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [To Be Worried](https://open.spotify.com/album/7dBWtsYsTuctAU51lKiSWf) | 3:02 | 2024-09-07 |  |
 | [Type of Way](https://open.spotify.com/track/6nu35hLc8zsA9bwBpcuf5L) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Goin In \- Reloaded](https://open.spotify.com/album/7HXAggzDfYkYdZoc7sUjcd) | 4:21 | 2024-09-07 |  |
 | [Unlimited Budget](https://open.spotify.com/track/2HJMz5sKM456DXFNSk8Wz3) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 2:21 | 2024-10-07 | 2025-02-05 |

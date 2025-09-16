@@ -1617,6 +1617,24 @@
     },
     {
       "album": {
+        "name": "these things happen",
+        "url": "https://open.spotify.com/album/3xiYqnYgX8053Tg4KR6h4P"
+      },
+      "artists": [
+        {
+          "name": "saturdays at your place",
+          "url": "https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90860,
+      "name": "cross my heart",
+      "url": "https://open.spotify.com/track/5ayZLwBFGNfQpI2ZsMnnKs"
+    },
+    {
+      "album": {
         "name": "Before I Die",
         "url": "https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1"
       },
@@ -6320,7 +6338,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 168472,
       "name": "oxygen.",
       "url": "https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8"
@@ -7268,7 +7286,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 161019,
       "name": "Second Thoughts",
       "url": "https://open.spotify.com/track/6UR9TruATotQiBMQtU4ZCH"
@@ -7348,7 +7366,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 195865,
       "name": "Sense of Humor",
       "url": "https://open.spotify.com/track/6KSGtuMoKHqpRzQZuBs2Xm"

@@ -4,7 +4,7 @@
 
 > This is Led Zeppelin\. The essential tracks, all in one playlist.
 
-64 songs - 5 hr 33 min
+65 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Bring It on Home \- Remaster](https://open.spotify.com/track/1rxD34LAtkafrMUHqHIV76) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(Remaster\)](https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y) | 4:19 | 2022-09-17 |  |
 | [Bron\-Y\-Aur Stomp \- Remaster](https://open.spotify.com/track/1dK6cNOMYjEP3QGYOfwP6t) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 4:17 | 2022-09-17 |  |
 | [Bron\-Yr\-Aur \- Remaster](https://open.spotify.com/track/5rgWj8h7lzbSmwpp0wFkXD) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 2:06 | 2022-11-21 | 2025-01-11 |
-| [Celebration Day \- Remaster](https://open.spotify.com/track/78MXICbE7bD4cuPKFh1EFO) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 3:30 | 2025-02-16 | 2025-06-13 |
+| [Celebration Day \- Remaster](https://open.spotify.com/track/78MXICbE7bD4cuPKFh1EFO) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 3:30 | 2025-02-16 |  |
 | [Communication Breakdown \- 1990 Remaster](https://open.spotify.com/track/0yVs7eSL8mPnIu2CGKHpUQ) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 2:27 | 2022-09-17 |  |
 | [Custard Pie \- Remaster](https://open.spotify.com/track/5HlLgmHL8qafp46jMtlxZJ) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 4:15 | 2023-05-01 | 2025-08-23 |
 | [D'yer Mak'er \- Remaster](https://open.spotify.com/track/4ItljeeAXtHsnsnnQojaO2) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Deluxe Edition\)](https://open.spotify.com/album/7gS8ozSkvPW3VBPLnXOZ7S) | 4:22 | 2022-09-17 |  |
@@ -46,12 +46,13 @@
 | [Moby Dick \- Intro / Outro Rough Mix](https://open.spotify.com/track/4lZjT7PLaWPIcm2InIDU2k) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(Deluxe Edition\)](https://open.spotify.com/album/58N1RPC3B4mRkjBaug4u3X) | 1:38 | 2022-09-20 | 2023-12-14 |
 | [No Quarter \- Remaster](https://open.spotify.com/track/0GRBFjza23Im7Xb16c9AaK) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 7:02 | 2022-09-17 |  |
 | [Nobody's Fault but Mine \- Remaster](https://open.spotify.com/track/6unmtLYQ2LQ1Cg4IdAiU9g) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Presence \(Remaster\)](https://open.spotify.com/album/3uhD8hNpb0m3iIZ18RHH5u) | 6:28 | 2022-09-17 |  |
-| [Out on the Tiles \- Remaster](https://open.spotify.com/track/6fxcpQMUoX0ofnbIHVnVWN) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 4:07 | 2022-09-17 |  |
+| [Out on the Tiles \- Remaster](https://open.spotify.com/track/6fxcpQMUoX0ofnbIHVnVWN) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 4:07 | 2022-09-17 | 2025-09-16 |
 | [Over the Hills and Far Away \- Remaster](https://open.spotify.com/track/2eDdFHgqNJltzlvlZFVDWd) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 4:50 | 2022-09-17 |  |
 | [Ramble On \- 1990 Remaster](https://open.spotify.com/track/3MODES4TNtygekLl146Dxd) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:23 | 2022-09-17 |  |
 | [Rock and Roll \- Remaster](https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 3:40 | 2022-09-17 |  |
+| [Sick Again \- Live from Knebworth, 1979](https://open.spotify.com/track/080JlMVOUKG7GndsKZUEiq) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Live EP](https://open.spotify.com/album/6PqoCDu8nTLw3p49WAIfY8) | 5:17 | 2025-09-16 |  |
 | [Since I've Been Loving You \- Remaster](https://open.spotify.com/track/1SDiiE3v2z89VxC3aVRKHQ) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 7:24 | 2022-09-17 |  |
-| [Stairway to Heaven \- \(Live at MSG 1973\) \[Remaster\]](https://open.spotify.com/track/3sxIm3lTgdvXJdNHNn64BS) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [The Song Remains the Same \(Remaster\)](https://open.spotify.com/album/0ui4S0TZghkf1d1Wz0oWpk) | 10:53 | 2023-03-30 |  |
+| [Stairway to Heaven \- \(Live at MSG 1973\) \[Remaster\]](https://open.spotify.com/track/3sxIm3lTgdvXJdNHNn64BS) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [The Song Remains the Same \(Remaster\)](https://open.spotify.com/album/0ui4S0TZghkf1d1Wz0oWpk) | 10:53 | 2023-03-30 | 2025-09-16 |
 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 | 2022-09-17 |  |
 | [Tangerine \- Remaster](https://open.spotify.com/track/4ywWJqYKOwaVVh9xXARWUS) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 3:11 | 2022-09-17 |  |
 | [Ten Years Gone \- Remaster](https://open.spotify.com/track/6M5m8gfTj3rhYEPDzLmdL4) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 6:34 | 2022-09-17 |  |

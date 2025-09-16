@@ -415,6 +415,36 @@
     },
     {
       "album": {
+        "name": "Edge of Desire (Grigor\u00e9 & Serve Cold Remix)",
+        "url": "https://open.spotify.com/album/09NJ8iQprTvVowGftbvB4Y"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        },
+        {
+          "name": "Serve Cold",
+          "url": "https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204878,
+      "name": "Edge of Desire - Grigor\u00e9 & Serve Cold Remix",
+      "url": "https://open.spotify.com/track/017ohFP2y5aWzslcRPK6a7"
+    },
+    {
+      "album": {
         "name": "Edge of Desire (Jazz-N-Groove Club Mix)",
         "url": "https://open.spotify.com/album/0eARVqhXGqrSUHdHIspeGx"
       },
@@ -1488,7 +1518,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 217080,
       "name": "Siento",
       "url": "https://open.spotify.com/track/2Ys5BmzK3AZWNCrKihq50z"

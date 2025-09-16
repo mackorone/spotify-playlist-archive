@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "LOUD",
+        "url": "https://open.spotify.com/album/6OB6xOp1sWazXMMa2z53CZ"
+      },
+      "artists": [
+        {
+          "name": "LOUD",
+          "url": "https://open.spotify.com/show/6OB6xOp1sWazXMMa2z53CZ"
+        }
+      ],
+      "date_added": "2021-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2168568,
+      "name": "1. The Zone ",
+      "url": "https://open.spotify.com/episode/7cY7LtS3tT71hcHLEXskfI"
+    },
+    {
+      "album": {
         "name": "Anything For Selena",
         "url": "https://open.spotify.com/album/1aCcf9CN3cunTBdkIzYTvo"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: CORTIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,862 likes - 55 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,860 likes - 55 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 54 | [two](https://open.spotify.com/track/18ENCZw5lQc10UwwFiH1QK) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [two](https://open.spotify.com/album/1ooRAUPQgUixYyS8yHLirr) | 2:15 |
 | 55 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 |
 
-Snapshot ID: `AAAAAKh7bXgrLukia+gvU6PHfaq39Hpr`
+Snapshot ID: `AAAAAEDOKLRTNG2hAopgrRNOoEAEEvpa`

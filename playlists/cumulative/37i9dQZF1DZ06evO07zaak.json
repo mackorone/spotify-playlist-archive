@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 1412451,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/7kriFJLY2KOhw5en9iI2jb"
@@ -1032,6 +1032,24 @@
       "duration_ms": 110826,
       "name": "The Happiest Days of Our Lives",
       "url": "https://open.spotify.com/track/2O3l4X1yTua8oMMCtazkyo"
+    },
+    {
+      "album": {
+        "name": "The Machine Song (Demo #2, Revisited)",
+        "url": "https://open.spotify.com/album/61uCwr4g5nbYHdPsurI9yW"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331813,
+      "name": "The Machine Song - Demo #2, Revisited",
+      "url": "https://open.spotify.com/track/2VshWryIlWedkCLdOWcMim"
     },
     {
       "album": {

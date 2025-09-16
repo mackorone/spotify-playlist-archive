@@ -4,7 +4,7 @@
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: ששון איפרם שאולוב
 
-168 songs - 8 hr 54 min
+169 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-02-03 | 2025-03-11 |
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-02-10 | 2025-03-25 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-19 |  |
-| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-20 |  |
+| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-20 | 2025-09-16 |
 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 | 2024-10-14 | 2025-01-08 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-07-01 | 2024-08-06 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-01 | 2025-04-15 |
@@ -128,6 +128,7 @@
 | [מטורפת](https://open.spotify.com/track/7LA51LhQTW9tulMfS3IhiL) | [רואי אדם](https://open.spotify.com/artist/0UaHRQkfX3cJ90fsXYvjjG), [Zion Baruch](https://open.spotify.com/artist/5ajLY8qOxx0yfDePboRvkO) | [מטורפת](https://open.spotify.com/album/3mHNwhencSZonMCMjlKcWv) | 2:22 | 2025-04-07 |  |
 | [מיליון לילות](https://open.spotify.com/track/5skSuo1jY3G5FGbWdaKD4w) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4), [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [מיליון לילות](https://open.spotify.com/album/0lC41fDmnuJriCGbZVtBaV) | 3:14 | 2025-07-07 | 2025-08-26 |
 | [מכשפה](https://open.spotify.com/track/2WDgnb44mEO7gWUtECuNLJ) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE), [Adi Bity](https://open.spotify.com/artist/6wmkSxRAKlQl86DzjXRUMh) | [להרים](https://open.spotify.com/album/5d2zNtTFTHLMOmSZw3SFCC) | 2:18 | 2024-07-01 | 2025-01-21 |
+| [מלך אחד לעולם](https://open.spotify.com/track/3EIpvMJo4sqVVqDQx9H4Zj) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [מלך אחד לעולם](https://open.spotify.com/album/1V9zayUbMb8n3XQvR81efN) | 3:01 | 2025-09-15 |  |
 | [מלכת הדור](https://open.spotify.com/track/3U1voPJN8NBSR96Ry0WJiF) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 3:03 | 2025-06-16 |  |
 | [מלכת הקרח](https://open.spotify.com/track/7jIQI2hhTqgBB7xga5jTWA) | [נתנאל דהאן](https://open.spotify.com/artist/6ES4mvTqKEqvAORGsS4wsn) | [מלכת הקרח](https://open.spotify.com/album/1VsMiIJPGALAj3lqbH8J6M) | 2:35 | 2025-08-19 |  |
 | [מנגן ושר](https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [THE LAST EPISODE](https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY) | 3:21 | 2024-07-01 | 2025-02-11 |

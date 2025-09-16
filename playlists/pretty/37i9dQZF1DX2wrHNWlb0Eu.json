@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49!",
-  "num_followers": 121765,
+  "num_followers": 121766,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
-        "url": "https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 259285,
-      "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "\u0e23\u0e49\u0e2d\u0e07\u0e19\u0e33",
         "url": "https://open.spotify.com/album/0zDHoE9lv0a9BNP9F2YtRf"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 225200,
       "name": "\u0e04\u0e37\u0e19\u0e17\u0e35\u0e48\u0e14\u0e32\u0e27\u0e40\u0e15\u0e47\u0e21\u0e1f\u0e49\u0e32",
       "url": "https://open.spotify.com/track/5JoSLllHkOdE56kpHU4fi6"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "duration_ms": 259285,
+      "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -571,18 +571,18 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
-        "url": "https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm"
+        "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
+        "url": "https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I"
       },
       "artists": [
         {
-          "name": "PURPEECH",
-          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+          "name": "Patrickananda",
+          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
         }
       ],
-      "duration_ms": 259721,
-      "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
-      "url": "https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU"
+      "duration_ms": 182666,
+      "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
+      "url": "https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
-        "url": "https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I"
-      },
-      "artists": [
-        {
-          "name": "Patrickananda",
-          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
-      "url": "https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "Club",
         "url": "https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 266893,
       "name": "\u0e04\u0e39\u0e48\u0e01\u0e31\u0e19 (Soulmate)",
       "url": "https://open.spotify.com/track/2SewBThepvNfjZ6fyBhGYT"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
+        "url": "https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm"
+      },
+      "artists": [
+        {
+          "name": "PURPEECH",
+          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+        }
+      ],
+      "duration_ms": 259721,
+      "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
+      "url": "https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
-        "url": "https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
-      "url": "https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e19\u0e32\u0e19 \u0e46",
         "url": "https://open.spotify.com/album/27vnza2tIBJ7eOtPXhLmBV"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 243346,
       "name": "\u0e40\u0e1a\u0e32\u0e40\u0e1a\u0e32 (Tender)",
       "url": "https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
+        "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
+        "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
+      },
+      "artists": [
+        {
+          "name": "Ae Jirakorn",
+          "url": "https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1"
+        }
+      ],
+      "duration_ms": 246904,
+      "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
         "name": "All You Need is Love 3",
         "url": "https://open.spotify.com/album/5mv8MrHfjarF9xeT1DHSpD"
       },
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
-        "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
-      },
-      "artists": [
-        {
-          "name": "Ae Jirakorn",
-          "url": "https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1"
-        }
-      ],
-      "duration_ms": 246904,
-      "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
-      "url": "https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "\u0e1c\u0e39\u0e49\u0e40\u0e14\u0e35\u0e22\u0e27",
         "url": "https://open.spotify.com/album/2TiiQ167oW1svJVLppgOsv"
       },
@@ -1571,22 +1571,6 @@
       "duration_ms": 205875,
       "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e40\u0e02\u0e49\u0e32\u0e21\u0e32 (Worth The Wait)",
       "url": "https://open.spotify.com/track/6a5f2v5IlyeEXQRn65MFdS"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
-        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 - Single",
-        "url": "https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 246434,
-      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 OST.\u0e1a\u0e38\u0e1e\u0e40\u0e1e\u0e2a\u0e31\u0e19\u0e19\u0e34\u0e27\u0e32\u0e2a 2",
-      "url": "https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -1607,22 +1591,18 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "Urban Lullaby",
-        "url": "https://open.spotify.com/album/5DerPlnethQIosWrjBRR6p"
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 - Single",
+        "url": "https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU"
       },
       "artists": [
         {
-          "name": "Lula",
-          "url": "https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB"
-        },
-        {
-          "name": "Tar Paradox",
-          "url": "https://open.spotify.com/artist/2f5oej9D24zxBJ0cyDSNgJ"
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
         }
       ],
-      "duration_ms": 227186,
-      "name": "\u0e17\u0e30\u0e40\u0e25\u0e2a\u0e35\u0e14\u0e33",
-      "url": "https://open.spotify.com/track/3JZQmfiIzj1G8jLi6GnL2Y"
+      "duration_ms": 246434,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 OST.\u0e1a\u0e38\u0e1e\u0e40\u0e1e\u0e2a\u0e31\u0e19\u0e19\u0e34\u0e27\u0e32\u0e2a 2",
+      "url": "https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -1639,6 +1619,26 @@
       "duration_ms": 243946,
       "name": "\u0e04\u0e19\u0e43\u0e19\u0e1d\u0e31\u0e19 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e1d\u0e31\u0e19\u0e40\u0e1f\u0e37\u0e48\u0e2d\u0e07)",
       "url": "https://open.spotify.com/track/5wAiiV03L8YP5HnH0ePMON"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "Urban Lullaby",
+        "url": "https://open.spotify.com/album/5DerPlnethQIosWrjBRR6p"
+      },
+      "artists": [
+        {
+          "name": "Lula",
+          "url": "https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB"
+        },
+        {
+          "name": "Tar Paradox",
+          "url": "https://open.spotify.com/artist/2f5oej9D24zxBJ0cyDSNgJ"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "\u0e17\u0e30\u0e40\u0e25\u0e2a\u0e35\u0e14\u0e33",
+      "url": "https://open.spotify.com/track/3JZQmfiIzj1G8jLi6GnL2Y"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e40\u0e23\u0e32 - Single",
-        "url": "https://open.spotify.com/album/1DdTVigUvEMwqK6r710cZ8"
+        "name": "\u0e2b\u0e27\u0e07 (You're Mine)",
+        "url": "https://open.spotify.com/album/4oWwhDTfbza1oR6DXlkFSH"
       },
       "artists": [
         {
-          "name": "Cocktail",
-          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+          "name": "Earth Patravee",
+          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
         }
       ],
-      "duration_ms": 306103,
-      "name": "\u0e40\u0e23\u0e32",
-      "url": "https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP"
+      "duration_ms": 216162,
+      "name": "\u0e2b\u0e27\u0e07 (You're Mine)",
+      "url": "https://open.spotify.com/track/5t2958ghc1UIUovv1pqMl3"
     }
   ],
   "unique_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",

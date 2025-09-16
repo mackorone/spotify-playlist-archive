@@ -2908,7 +2908,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 279910,
       "name": "Fine",
       "url": "https://open.spotify.com/track/3CxpaC5Aw4jgRFlgeQH6BA"
@@ -4975,6 +4975,24 @@
     },
     {
       "album": {
+        "name": "Little Caesar",
+        "url": "https://open.spotify.com/album/2jUoyp6QSpo5xWrEqNORfb"
+      },
+      "artists": [
+        {
+          "name": "Seb Lowe",
+          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174256,
+      "name": "Little Caesar",
+      "url": "https://open.spotify.com/track/1DVRDDz3uoN09hhrIZSiLo"
+    },
+    {
+      "album": {
         "name": "Act II",
         "url": "https://open.spotify.com/album/5AH01Vqh1hsvYjgBb9PYa9"
       },
@@ -6561,6 +6579,24 @@
     },
     {
       "album": {
+        "name": "Puppet",
+        "url": "https://open.spotify.com/album/1WnVA6pu7yWWKDysSpzGW8"
+      },
+      "artists": [
+        {
+          "name": "John Michael Howell",
+          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134347,
+      "name": "Puppet",
+      "url": "https://open.spotify.com/track/5EphWkRuqee9EE3Ubm1XCy"
+    },
+    {
+      "album": {
         "name": "putting a spin on somebody that i used to know",
         "url": "https://open.spotify.com/album/0CCl0omkYtDTAYZ5dhy4W0"
       },
@@ -7402,7 +7438,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 187106,
       "name": "Someone Gets Hurt",
       "url": "https://open.spotify.com/track/1zyrjK69LRZCvEmUtJUbsT"

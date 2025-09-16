@@ -4,7 +4,7 @@
 
 > Nieuwe muziek: KI/KI, Son Mieux, Ed Sheeran en meer
 
-12,621 songs - 27 day 11 hr 11 min
+12,622 songs - 27 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4631,6 +4631,7 @@
 | [Heimwee](https://open.spotify.com/track/7nlSEoR38crQwKwTKts6N3) | [Fokke Simons](https://open.spotify.com/artist/6bdx9tCkHEg9ff61hu7xkI) | [Heimwee](https://open.spotify.com/album/1Ncr3gOTjx1mqPmvcxuCg6) | 2:36 | 2023-09-14 | 2023-09-22 |
 | [Heimwee](https://open.spotify.com/track/3e4tQ9QyAx5LbeXI6Fi24q) | [L CIANO](https://open.spotify.com/artist/3KDvUuEB5x3C5ER17sK0rd) | [Heimwee](https://open.spotify.com/album/07Ndtj0kll88VGabH13idl) | 2:24 | 2023-10-20 | 2023-10-27 |
 | [Heist](https://open.spotify.com/track/2Z66RYRDgpptWZiMoE7L7Q) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Lost Files](https://open.spotify.com/album/01qB0DsD06IlN8dm8x8eLQ) | 3:34 | 2023-11-16 | 2023-11-25 |
+| [Helaas](https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Helaas](https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx) | 2:42 | 2025-09-15 |  |
 | [Held op Sokken](https://open.spotify.com/track/0D5RTeDw2k6uPJyhVi7PIN) | [MITS Mitchell](https://open.spotify.com/artist/7I3OymbsF2iClalnkUwPYi) | [Held op Sokken](https://open.spotify.com/album/0CrLbvUEqS9fVmToE1uGFf) | 3:26 | 2023-10-26 | 2023-11-03 |
 | [Helemaal Lijp](https://open.spotify.com/track/0VNAth0hBrDD4NX8vCCR3Z) | [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm), [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli) | [Helemaal Lijp](https://open.spotify.com/album/3odKISArvCYnzDiAIM7jPp) | 2:48 | 2024-04-19 | 2024-04-26 |
 | [Helemaal Naar De Klote \(feat\. Jayh, Sjaak & Reverse\) \- LA$$A Remix](https://open.spotify.com/track/0XgKJ8I7qlGBMBCAYjzUb7) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Reverse](https://open.spotify.com/artist/4B4ON3QQ4AoObbF1jGOzJK) | [Helemaal Naar De Klote \(feat\. Jayh, Sjaak & Reverse\) \[LA$$A Remix\]](https://open.spotify.com/album/7GcYEFyUEQCGTraXQJg4Ag) | 2:08 | 2025-04-17 | 2025-04-25 |

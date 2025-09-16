@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: Elmiene",
-  "num_followers": 785335,
+  "num_followers": 785347,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -1273,38 +1273,6 @@
       "url": "https://open.spotify.com/track/2jNtUfgoadBSo5pPfbdtxX"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "That's You",
-        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 319454,
-      "name": "That's You",
-      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
-    },
-    {
-      "added_at": "2025-05-23 04:34:50",
-      "album": {
-        "name": "Magic !",
-        "url": "https://open.spotify.com/album/4FEms9JIMreEr7Yorl6rgZ"
-      },
-      "artists": [
-        {
-          "name": "Felix Ames",
-          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Magic !",
-      "url": "https://open.spotify.com/track/1SjD13SA4gJyyikO61Ny8e"
-    },
-    {
       "added_at": "2025-08-22 04:00:21",
       "album": {
         "name": "I'll Never Say No",
@@ -1323,6 +1291,38 @@
       "duration_ms": 159581,
       "name": "I'll Never Say No",
       "url": "https://open.spotify.com/track/0W91VhI3jdzWeOy5rRlLA6"
+    },
+    {
+      "added_at": "2025-05-23 04:34:50",
+      "album": {
+        "name": "Magic !",
+        "url": "https://open.spotify.com/album/4FEms9JIMreEr7Yorl6rgZ"
+      },
+      "artists": [
+        {
+          "name": "Felix Ames",
+          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Magic !",
+      "url": "https://open.spotify.com/track/1SjD13SA4gJyyikO61Ny8e"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "That's You",
+        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 319454,
+      "name": "That's You",
+      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
     },
     {
       "added_at": "2025-04-04 04:28:33",
@@ -1393,26 +1393,6 @@
       "url": "https://open.spotify.com/track/7v98cyeI1bIR2kCoRuoaWG"
     },
     {
-      "added_at": "2024-02-16 05:22:30",
-      "album": {
-        "name": "Let Me Feel Your Charm - Spotify Singles",
-        "url": "https://open.spotify.com/album/3LOouZQ6CUoH29m6MnY8qV"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        },
-        {
-          "name": "Jensine Benitez",
-          "url": "https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX"
-        }
-      ],
-      "duration_ms": 162029,
-      "name": "Let Me Feel Your Charm - Spotify Singles",
-      "url": "https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Good Morning (feat. Susan Carol)",
@@ -1471,6 +1451,26 @@
       "duration_ms": 195600,
       "name": "In Limbo",
       "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
+    },
+    {
+      "added_at": "2024-02-16 05:22:30",
+      "album": {
+        "name": "Let Me Feel Your Charm - Spotify Singles",
+        "url": "https://open.spotify.com/album/3LOouZQ6CUoH29m6MnY8qV"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        },
+        {
+          "name": "Jensine Benitez",
+          "url": "https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX"
+        }
+      ],
+      "duration_ms": 162029,
+      "name": "Let Me Feel Your Charm - Spotify Singles",
+      "url": "https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq"
     },
     {
       "added_at": "2025-06-27 04:00:47",
@@ -1737,6 +1737,22 @@
       "url": "https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ"
     },
     {
+      "added_at": "2024-10-25 07:15:59",
+      "album": {
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/0zwexK02AqJJnv1KE3Jj2S"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 223522,
+      "name": "Sweet Little Rainbows",
+      "url": "https://open.spotify.com/track/0eFp7ULoYiRgaYZH0xq79i"
+    },
+    {
       "added_at": "2025-06-27 04:00:47",
       "album": {
         "name": "Catching Feelings",
@@ -1757,20 +1773,20 @@
       "url": "https://open.spotify.com/track/2YQnESqC6ASwaJyUx6U4d7"
     },
     {
-      "added_at": "2024-10-25 07:15:59",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Mystery",
-        "url": "https://open.spotify.com/album/0zwexK02AqJJnv1KE3Jj2S"
+        "name": "That's What I Love",
+        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
       },
       "artists": [
         {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 223522,
-      "name": "Sweet Little Rainbows",
-      "url": "https://open.spotify.com/track/0eFp7ULoYiRgaYZH0xq79i"
+      "duration_ms": 226440,
+      "name": "That's What I Love",
+      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
     },
     {
       "added_at": "2024-11-15 07:05:31",
@@ -1791,22 +1807,6 @@
       "duration_ms": 165976,
       "name": "3rd Shift - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6BpOyJQKGXPS8tDrNYm7jP"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "That's What I Love",
-        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "That's What I Love",
-      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2185,22 +2185,6 @@
       "url": "https://open.spotify.com/track/4tfmvLFrKxbi2JInTOKueu"
     },
     {
-      "added_at": "2025-01-17 07:25:43",
-      "album": {
-        "name": "Violet",
-        "url": "https://open.spotify.com/album/0q4ElxLsNfykdm4nNwVEl6"
-      },
-      "artists": [
-        {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
-        }
-      ],
-      "duration_ms": 227973,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/07GWBE0uO09Yq4JJosrurR"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Waterfall (I Adore You)",
@@ -2233,20 +2217,20 @@
       "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
     },
     {
-      "added_at": "2025-08-08 06:07:52",
+      "added_at": "2025-01-17 07:25:43",
       "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/1AiVydBPEu6DBHmOKXrRKK"
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/0q4ElxLsNfykdm4nNwVEl6"
       },
       "artists": [
         {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
         }
       ],
-      "duration_ms": 124407,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/5VG10DAXruz3BpPCBSjr2y"
+      "duration_ms": 227973,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/07GWBE0uO09Yq4JJosrurR"
     },
     {
       "added_at": "2024-05-31 07:10:31",
@@ -2279,6 +2263,22 @@
       "duration_ms": 200000,
       "name": "2 Much",
       "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
+    },
+    {
+      "added_at": "2025-08-08 06:07:52",
+      "album": {
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/1AiVydBPEu6DBHmOKXrRKK"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 124407,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/5VG10DAXruz3BpPCBSjr2y"
     },
     {
       "added_at": "2025-04-25 07:19:25",
@@ -2381,22 +2381,6 @@
       "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
     },
     {
-      "added_at": "2025-08-01 07:06:10",
-      "album": {
-        "name": "Luxury Lust",
-        "url": "https://open.spotify.com/album/4BixnUqA20DOiRQCZv787z"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        }
-      ],
-      "duration_ms": 186336,
-      "name": "Luxury Lust",
-      "url": "https://open.spotify.com/track/5kCZR0KIMyuhxC3niRFGEg"
-    },
-    {
       "added_at": "2024-08-23 06:02:29",
       "album": {
         "name": "Can\u2019t Explain This Love",
@@ -2411,6 +2395,38 @@
       "duration_ms": 181399,
       "name": "Can\u2019t Explain This Love",
       "url": "https://open.spotify.com/track/6VhWAlezdLAky4AlWsXVx4"
+    },
+    {
+      "added_at": "2024-10-18 16:11:48",
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        }
+      ],
+      "duration_ms": 178891,
+      "name": "If The Love Goes",
+      "url": "https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW"
+    },
+    {
+      "added_at": "2025-08-01 07:06:10",
+      "album": {
+        "name": "Luxury Lust",
+        "url": "https://open.spotify.com/album/4BixnUqA20DOiRQCZv787z"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "duration_ms": 186336,
+      "name": "Luxury Lust",
+      "url": "https://open.spotify.com/track/5kCZR0KIMyuhxC3niRFGEg"
     },
     {
       "added_at": "2024-05-10 05:54:01",
@@ -2449,38 +2465,6 @@
       "url": "https://open.spotify.com/track/1vZjhrIgcBUD0HlSxaUbRb"
     },
     {
-      "added_at": "2024-10-18 16:11:48",
-      "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z"
-      },
-      "artists": [
-        {
-          "name": "Jamilah Barry",
-          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
-        }
-      ],
-      "duration_ms": 178891,
-      "name": "If The Love Goes",
-      "url": "https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW"
-    },
-    {
-      "added_at": "2024-03-01 06:13:32",
-      "album": {
-        "name": "Need Nothing",
-        "url": "https://open.spotify.com/album/3jE6ilwvImynefzlleCPAz"
-      },
-      "artists": [
-        {
-          "name": "Katie Tupper",
-          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
-        }
-      ],
-      "duration_ms": 147825,
-      "name": "Need Nothing",
-      "url": "https://open.spotify.com/track/42f3EU5xToR3O4VlIRGfC9"
-    },
-    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
@@ -2503,6 +2487,22 @@
       "duration_ms": 299366,
       "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
       "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
+    },
+    {
+      "added_at": "2024-03-01 06:13:32",
+      "album": {
+        "name": "Need Nothing",
+        "url": "https://open.spotify.com/album/3jE6ilwvImynefzlleCPAz"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 147825,
+      "name": "Need Nothing",
+      "url": "https://open.spotify.com/track/42f3EU5xToR3O4VlIRGfC9"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -2537,22 +2537,6 @@
       "url": "https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw"
     },
     {
-      "added_at": "2025-07-11 06:58:22",
-      "album": {
-        "name": "4ever",
-        "url": "https://open.spotify.com/album/3C1Y3uwhoEzvOp6DcYTfVw"
-      },
-      "artists": [
-        {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "4ever",
-      "url": "https://open.spotify.com/track/0BAy7sih25RWwMCTtBClyV"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Think For Yourself",
@@ -2569,6 +2553,22 @@
       "url": "https://open.spotify.com/track/32OTyJicSxEIEB72PXDqxr"
     },
     {
+      "added_at": "2025-07-11 06:58:22",
+      "album": {
+        "name": "4ever",
+        "url": "https://open.spotify.com/album/3C1Y3uwhoEzvOp6DcYTfVw"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "4ever",
+      "url": "https://open.spotify.com/track/0BAy7sih25RWwMCTtBClyV"
+    },
+    {
       "added_at": "2025-09-05 04:53:23",
       "album": {
         "name": "Still Blessed",
@@ -2583,6 +2583,22 @@
       "duration_ms": 217480,
       "name": "Still Blessed",
       "url": "https://open.spotify.com/track/20qPYWhpCFufU2aTPK9ZSu"
+    },
+    {
+      "added_at": "2025-09-12 20:59:08",
+      "album": {
+        "name": "IT'S SO BEAUTIFUL",
+        "url": "https://open.spotify.com/album/6zU3fCxDWkiWfV4JUM6iPY"
+      },
+      "artists": [
+        {
+          "name": "FACESOUL",
+          "url": "https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC"
+        }
+      ],
+      "duration_ms": 211970,
+      "name": "ITS SO BEAUTIFUL",
+      "url": "https://open.spotify.com/track/4EAjvZALXlPz59hy314e5m"
     },
     {
       "added_at": "2025-04-18 05:17:41",
@@ -2643,22 +2659,6 @@
       "duration_ms": 217632,
       "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
       "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
-    },
-    {
-      "added_at": "2025-05-23 04:34:50",
-      "album": {
-        "name": "Night Shift",
-        "url": "https://open.spotify.com/album/3d8fkpMXT6FywKJonYF6An"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Berchie",
-          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/6FBFKoNIBfCRSLTQ5s27gD"
     }
   ],
   "unique_name": "Soul Coffee",

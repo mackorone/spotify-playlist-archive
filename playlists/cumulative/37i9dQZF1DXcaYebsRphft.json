@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6765\u65e5\u516c\u6f14\u300e2025 ILLIT GLITTER DAY IN JAPAN\u300f \u306e\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u3092\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\u3068\u3068\u3082\u306b\u516c\u958b\uff01",
-  "name": "On Tour Japan: ILLIT",
+  "description": "\u6765\u65e5\u516c\u6f14\u300e2025 RIIZE CONCERT TOUR [RIIZING LOUD] IN JAPAN\u300f \u306e\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u3092\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\u3068\u3068\u3082\u306b\u516c\u958b\uff01",
+  "name": "On Tour Japan: RIIZE",
   "tracks": [
     {
       "album": {
@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "RIIZING - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6geUnxPpwHmR3lVQuysx5M"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160205,
+      "name": "9 Days",
+      "url": "https://open.spotify.com/track/2niYyveSekoEPGBAM7Thrf"
+    },
+    {
+      "album": {
         "name": "WHY..",
         "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
       },
@@ -142,7 +160,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 201986,
       "name": "Almond Chocolate",
       "url": "https://open.spotify.com/track/4B1LZlTN7fZTmtg9yFWkI7"
@@ -236,6 +254,24 @@
       "duration_ms": 201320,
       "name": "Another Dream (Kep1er Version)",
       "url": "https://open.spotify.com/track/4YAZcAxgoqHyMvrZoPq11F"
+    },
+    {
+      "album": {
+        "name": "ODYSSEY - The 1st Album",
+        "url": "https://open.spotify.com/album/5LGr4toULbiDoFoSTo0wCw"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227206,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/39cCcB8SwwudStq1uNLyUl"
     },
     {
       "album": {
@@ -419,6 +455,24 @@
     },
     {
       "album": {
+        "name": "ODYSSEY - The 1st Album",
+        "url": "https://open.spotify.com/album/5LGr4toULbiDoFoSTo0wCw"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192835,
+      "name": "Bag Bad Back",
+      "url": "https://open.spotify.com/track/1AcL3gJU51lgOotfF1Bx4d"
+    },
+    {
+      "album": {
         "name": "Armageddon - The 1st Album",
         "url": "https://open.spotify.com/album/3vk3MR4IL2EMC4ksN5pCo4"
       },
@@ -474,6 +528,24 @@
       "duration_ms": 226938,
       "name": "BATTER UP [Remix]",
       "url": "https://open.spotify.com/track/5HOqEc8PVJCe2N865YHMn3"
+    },
+    {
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199273,
+      "name": "Be My Next",
+      "url": "https://open.spotify.com/track/4qbd4V3cSPzXX1jXOnxJLS"
     },
     {
       "album": {
@@ -614,7 +686,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 188641,
       "name": "Billyeoon Goyangi (Do the Dance)",
       "url": "https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE"
@@ -802,6 +874,24 @@
       "duration_ms": 175733,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/2iR76I8Q4WovfgvaJb9JEg"
+    },
+    {
+      "album": {
+        "name": "RIIZING - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6geUnxPpwHmR3lVQuysx5M"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152889,
+      "name": "Boom Boom Bass",
+      "url": "https://open.spotify.com/track/7tsX0vfh16qjWpGaWSGfPu"
     },
     {
       "album": {
@@ -1234,6 +1324,24 @@
       "duration_ms": 169073,
       "name": "CLIK CLAK",
       "url": "https://open.spotify.com/track/4hCKVecuybp8IrwRfN8fr1"
+    },
+    {
+      "album": {
+        "name": "RIIZING : Epilogue - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/12H3XVm97o4FhhWhtRnBWY"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219551,
+      "name": "Combo",
+      "url": "https://open.spotify.com/track/0W0STGeR1lBHBbDgdB0uie"
     },
     {
       "album": {
@@ -1993,6 +2101,24 @@
     },
     {
       "album": {
+        "name": "ODYSSEY - The 1st Album",
+        "url": "https://open.spotify.com/album/5LGr4toULbiDoFoSTo0wCw"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200547,
+      "name": "Ember to Solar",
+      "url": "https://open.spotify.com/track/2O63e8oCEEKj4Ji3T5ggpC"
+    },
+    {
+      "album": {
         "name": "BOYS PLANET - ARTIST BATTLE",
         "url": "https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC"
       },
@@ -2281,6 +2407,24 @@
     },
     {
       "album": {
+        "name": "ODYSSEY - The 1st Album",
+        "url": "https://open.spotify.com/album/5LGr4toULbiDoFoSTo0wCw"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178175,
+      "name": "Fly Up",
+      "url": "https://open.spotify.com/track/0S24FhekyRbihACHFwgPjs"
+    },
+    {
+      "album": {
         "name": "DRIP",
         "url": "https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc"
       },
@@ -2368,6 +2512,24 @@
       "duration_ms": 180226,
       "name": "Future Perfect (Pass the MIC) - Japanese Ver.",
       "url": "https://open.spotify.com/track/3lwif0ky1b6llUB5p4uulL"
+    },
+    {
+      "album": {
+        "name": "Get A Guitar",
+        "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160044,
+      "name": "Get A Guitar",
+      "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
     },
     {
       "album": {
@@ -2771,6 +2933,24 @@
     },
     {
       "album": {
+        "name": "RIIZING - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6geUnxPpwHmR3lVQuysx5M"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194090,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/11G9JXyVE6yuCpz1ZjeI4w"
+    },
+    {
+      "album": {
         "name": "HOT",
         "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
       },
@@ -2861,6 +3041,24 @@
     },
     {
       "album": {
+        "name": "Hug",
+        "url": "https://open.spotify.com/album/7lov2nZxGiyLarQgDSnCv2"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234040,
+      "name": "Hug",
+      "url": "https://open.spotify.com/track/1Yy0eOzubrYK75bXH3rFbF"
+    },
+    {
+      "album": {
         "name": "NJWMX",
         "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
       },
@@ -2944,7 +3142,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 127684,
       "name": "I'll Like You",
       "url": "https://open.spotify.com/track/2v7aUMUc1kerJyaRmIx9zd"
@@ -2966,6 +3164,24 @@
       "duration_ms": 140466,
       "name": "Identity",
       "url": "https://open.spotify.com/track/0wu7L2JkRqx2nFCSiYqcKy"
+    },
+    {
+      "album": {
+        "name": "RIIZING - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6geUnxPpwHmR3lVQuysx5M"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182439,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/1QWuXCbaxn3VRyFB7s3D4M"
     },
     {
       "album": {
@@ -3002,6 +3218,24 @@
       "duration_ms": 180988,
       "name": "In Bloom - Japanese ver.",
       "url": "https://open.spotify.com/track/32A0F3zsYBiKAUPRtcNWE2"
+    },
+    {
+      "album": {
+        "name": "ODYSSEY - The 1st Album",
+        "url": "https://open.spotify.com/album/5LGr4toULbiDoFoSTo0wCw"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159553,
+      "name": "Inside My Love",
+      "url": "https://open.spotify.com/track/4CYodtfvQBBuUVnYXDl8qo"
     },
     {
       "album": {
@@ -3124,7 +3358,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 163243,
       "name": "jellyous",
       "url": "https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX"
@@ -3466,7 +3700,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 149395,
       "name": "little monster",
       "url": "https://open.spotify.com/track/5MaPzLp2vwSqu8YyUZ4zR7"
@@ -3506,6 +3740,24 @@
       "duration_ms": 195786,
       "name": "Long Chat (#\u2665)",
       "url": "https://open.spotify.com/track/5coWJfC6ok41jkxeKlFH9S"
+    },
+    {
+      "album": {
+        "name": "Love 119 (Japanese Ver.)",
+        "url": "https://open.spotify.com/album/7Dz4TDsCZovsAoIDRqbuSS"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173489,
+      "name": "Love 119 - Japanese Ver.",
+      "url": "https://open.spotify.com/track/5dlLmuARBEgcqMSzsUqxCA"
     },
     {
       "album": {
@@ -3617,6 +3869,24 @@
     },
     {
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167219,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf"
+    },
+    {
+      "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
@@ -3628,7 +3898,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 140021,
       "name": "Lucky Girl Syndrome",
       "url": "https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275"
@@ -3664,7 +3934,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 160688,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
@@ -3740,6 +4010,24 @@
       "duration_ms": 187853,
       "name": "Melody",
       "url": "https://open.spotify.com/track/359PtQmNRwnI5tUhbpI6kz"
+    },
+    {
+      "album": {
+        "name": "Get A Guitar",
+        "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178013,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/542DRppCDMWVWmjRgROlGM"
     },
     {
       "album": {
@@ -3826,7 +4114,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 112750,
       "name": "Message from ILLIT",
       "url": "https://open.spotify.com/track/1QVkwp37X0TBATRnlFvcDb"
@@ -3884,6 +4172,78 @@
       "duration_ms": 44461,
       "name": "Message from NCT WISH",
       "url": "https://open.spotify.com/track/1iqr3vlcZQyxJvJf5sm6gN"
+    },
+    {
+      "album": {
+        "name": "Message from RIIZE",
+        "url": "https://open.spotify.com/album/1idfg52BdWomsAh4aXfv5j"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 22572,
+      "name": "Message from RIIZE",
+      "url": "https://open.spotify.com/track/3yNQhOky252MiMyh0vzrhS"
+    },
+    {
+      "album": {
+        "name": "Message from RIIZE",
+        "url": "https://open.spotify.com/album/1idfg52BdWomsAh4aXfv5j"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 22812,
+      "name": "Message from RIIZE",
+      "url": "https://open.spotify.com/track/25pZalJ1NA0OjBgnf2lTub"
+    },
+    {
+      "album": {
+        "name": "Message from RIIZE",
+        "url": "https://open.spotify.com/album/1idfg52BdWomsAh4aXfv5j"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39040,
+      "name": "Message from RIIZE",
+      "url": "https://open.spotify.com/track/27BZZs0hmAgxK80vjIXoeY"
+    },
+    {
+      "album": {
+        "name": "ODYSSEY - The 1st Album",
+        "url": "https://open.spotify.com/album/5LGr4toULbiDoFoSTo0wCw"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202848,
+      "name": "Midnight Mirage",
+      "url": "https://open.spotify.com/track/6nmYJGBZxQbit7nlog3WI0"
     },
     {
       "album": {
@@ -4060,7 +4420,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 107463,
       "name": "My World",
       "url": "https://open.spotify.com/track/2Xiaplc23BureS4EDeE8xa"
@@ -4319,6 +4679,24 @@
     },
     {
       "album": {
+        "name": "ODYSSEY - The 1st Album",
+        "url": "https://open.spotify.com/album/5LGr4toULbiDoFoSTo0wCw"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152267,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/3wZHktgqSxoMlvX2dvDajs"
+    },
+    {
+      "album": {
         "name": "NewJeans 'OMG'",
         "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
       },
@@ -4409,6 +4787,24 @@
     },
     {
       "album": {
+        "name": "RIIZING - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6geUnxPpwHmR3lVQuysx5M"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212062,
+      "name": "One Kiss",
+      "url": "https://open.spotify.com/track/6nC7oaf1K3GzTuEC2XHauS"
+    },
+    {
+      "album": {
         "name": "Only One Story",
         "url": "https://open.spotify.com/album/2f9xJ413POOMFAgtVyvpFp"
       },
@@ -4438,7 +4834,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 161491,
       "name": "oops!",
       "url": "https://open.spotify.com/track/1tO6hb9Ym7aTV8hJ31tLjr"
@@ -4550,6 +4946,24 @@
       "duration_ms": 155918,
       "name": "Paranormal",
       "url": "https://open.spotify.com/track/1tLq6MZA5Lqpms4AZ4CcrG"
+    },
+    {
+      "album": {
+        "name": "ODYSSEY - The 1st Album",
+        "url": "https://open.spotify.com/album/5LGr4toULbiDoFoSTo0wCw"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39696,
+      "name": "Passage",
+      "url": "https://open.spotify.com/track/5uW0KnvuqjNbd6F57p6I19"
     },
     {
       "album": {
@@ -4895,6 +5309,24 @@
     },
     {
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243498,
+      "name": "Same Key",
+      "url": "https://open.spotify.com/track/7tFO9G4t5Yhv9E5VT86l6g"
+    },
+    {
+      "album": {
         "name": "Glitch Mode - The 2nd Album",
         "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
       },
@@ -5111,6 +5543,24 @@
     },
     {
       "album": {
+        "name": "ODYSSEY - The 1st Album",
+        "url": "https://open.spotify.com/album/5LGr4toULbiDoFoSTo0wCw"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189544,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5pyqAZSjzZiAZfdfQaMtGj"
+    },
+    {
+      "album": {
         "name": "Fe3O4: STICK OUT",
         "url": "https://open.spotify.com/album/0RRWmhro004YXI7Yak0EpW"
       },
@@ -5130,6 +5580,24 @@
       "duration_ms": 159320,
       "name": "SICKUHH (Feat. Kid Milli)",
       "url": "https://open.spotify.com/track/2RmiB0RJPAfpXrLrmNzaAm"
+    },
+    {
+      "album": {
+        "name": "RIIZING - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6geUnxPpwHmR3lVQuysx5M"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147961,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/3nv1SYIeVbRP3F6RrKKonX"
     },
     {
       "album": {
@@ -5691,6 +6159,24 @@
     },
     {
       "album": {
+        "name": "RIIZING - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6geUnxPpwHmR3lVQuysx5M"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190941,
+      "name": "Talk Saxy",
+      "url": "https://open.spotify.com/track/7i39iNyR6yNhhCgwj2nnxg"
+    },
+    {
+      "album": {
         "name": "DIMENSION : DILEMMA",
         "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
       },
@@ -5817,6 +6303,24 @@
     },
     {
       "album": {
+        "name": "ODYSSEY - The 1st Album",
+        "url": "https://open.spotify.com/album/5LGr4toULbiDoFoSTo0wCw"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222994,
+      "name": "The End of the Day",
+      "url": "https://open.spotify.com/track/5sSwx1stcozjeZPdUJkGh4"
+    },
+    {
+      "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
       },
@@ -5846,7 +6350,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 129468,
       "name": "Tick-Tack",
       "url": "https://open.spotify.com/track/0znsc67nMhP4X9hjhvoyeP"
@@ -6434,7 +6938,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 188120,
       "name": "\u6642\u3088\u6b62\u307e\u308c",
       "url": "https://open.spotify.com/track/7LFuSAGcZKLP2EVO4iSzkz"

@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 74906,
+  "num_followers": 74910,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAAm6ygo3O61DPAYOwP/S/kj",
+  "snapshot_id": "aMYFgAAAAAAIT4mI/p1laO0Sou1dbjJ4",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kiss the Sky (from The Wild Robot)",
+        "url": "https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 215716,
+      "name": "Kiss the Sky (from The Wild Robot)",
+      "url": "https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chasing After You (with Maren Morris)",
         "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 207973,
       "name": "Chasing After You (with Maren Morris)",
       "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kiss the Sky (from The Wild Robot)",
-        "url": "https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 215716,
-      "name": "Kiss the Sky (from The Wild Robot)",
-      "url": "https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 185222,
+      "name": "Even When I\u2019m Not",
+      "url": "https://open.spotify.com/track/1gqYJaAtQsEX2V6blf3Vba"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Some Things I'll Never Know (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/1iUKdH9SrtKcSaCbIVcrNj"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 242317,
       "name": "Some Things I'll Never Know (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/3oSGigVd5RezNkTV9PRGmL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 185222,
-      "name": "Even When I\u2019m Not",
-      "url": "https://open.spotify.com/track/1gqYJaAtQsEX2V6blf3Vba"
     },
     {
       "added_at": null,
@@ -575,22 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scissors",
-        "url": "https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL"
+        "name": "Black",
+        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
       },
       "artists": [
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         },
         {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 145622,
-      "name": "Scissors",
-      "url": "https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i"
+      "duration_ms": 210600,
+      "name": "I'll Be The Moon",
+      "url": "https://open.spotify.com/track/0kIlh2nOwIxx4SgoDrRWDG"
     },
     {
       "added_at": null,
@@ -611,22 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black",
-        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
+        "name": "Scissors",
+        "url": "https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         },
         {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 210600,
-      "name": "I'll Be The Moon",
-      "url": "https://open.spotify.com/track/0kIlh2nOwIxx4SgoDrRWDG"
+      "duration_ms": 145622,
+      "name": "Scissors",
+      "url": "https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i"
     },
     {
       "added_at": null,
@@ -651,18 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+        "name": "Line By Line (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
       },
       "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
         {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 186560,
-      "name": "Bummin' Cigarettes",
-      "url": "https://open.spotify.com/track/1C9Pf4MPHdv0FtEGkHz8F4"
+      "duration_ms": 208186,
+      "name": "Line By Line (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
     },
     {
       "added_at": null,
@@ -683,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Line By Line (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
       "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        },
         {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 208186,
-      "name": "Line By Line (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
+      "duration_ms": 186560,
+      "name": "Bummin' Cigarettes",
+      "url": "https://open.spotify.com/track/1C9Pf4MPHdv0FtEGkHz8F4"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome To The End",
-        "url": "https://open.spotify.com/album/45vKJFTv0dlITdxk1aN4q7"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 135126,
-      "name": "Welcome To The End",
-      "url": "https://open.spotify.com/track/1ww6Ta6idUZH2sYgsZkYeA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highway Queen (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welcome To The End",
+        "url": "https://open.spotify.com/album/45vKJFTv0dlITdxk1aN4q7"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 135126,
+      "name": "Welcome To The End",
+      "url": "https://open.spotify.com/track/1ww6Ta6idUZH2sYgsZkYeA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Bridge",
         "url": "https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 205531,
       "name": "The Tree",
       "url": "https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
     },
     {
       "added_at": null,
@@ -931,6 +915,22 @@
       "duration_ms": 345026,
       "name": "Old Soul",
       "url": "https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
     },
     {
       "added_at": null,

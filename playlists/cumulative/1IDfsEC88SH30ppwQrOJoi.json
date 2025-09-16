@@ -6753,6 +6753,24 @@
     },
     {
       "album": {
+        "name": "Say Yeah",
+        "url": "https://open.spotify.com/album/1Xn9FLx60GFcSHoaMaQFXk"
+      },
+      "artists": [
+        {
+          "name": "Tiger Stripes",
+          "url": "https://open.spotify.com/artist/5L56gAwU2WofuHHOpLC0BU"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197952,
+      "name": "Say Yeah",
+      "url": "https://open.spotify.com/track/5ndgdr9wwdx6AGA9aykwnX"
+    },
+    {
+      "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/5v9btuYXMyOS8eGrmGvTN4"
       },

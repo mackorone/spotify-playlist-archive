@@ -1,12 +1,12 @@
 {
   "description": "This is John Williams. The essential tracks, all in one playlist.",
-  "num_followers": 226558,
+  "num_followers": 226578,
   "original_name": "This Is John Williams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAAhTN3Nvwm1hnqoqjK+x8/d",
+  "snapshot_id": "aMYFgAAAAADcMRU4LgaxcwMykDsisdkV",
   "tracks": [
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 97226,
-      "name": "Double Trouble",
-      "url": "https://open.spotify.com/track/1woL1W9wp2tKz9cFyc4NUm"
+      "duration_ms": 72680,
+      "name": "The Patronus Light",
+      "url": "https://open.spotify.com/track/59xohjlL8uhdil8UEMIN76"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 72680,
-      "name": "The Patronus Light",
-      "url": "https://open.spotify.com/track/59xohjlL8uhdil8UEMIN76"
+      "duration_ms": 97226,
+      "name": "Double Trouble",
+      "url": "https://open.spotify.com/track/1woL1W9wp2tKz9cFyc4NUm"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
       "duration_ms": 264293,
       "name": "Theme from Superman - Concert Version",
       "url": "https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jurassic Park",
-        "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 532706,
-      "name": "Journey To The Island",
-      "url": "https://open.spotify.com/track/0QCvok3TPhk7JhQF0gYmBw"
     }
   ],
   "unique_name": "This Is John Williams",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,534 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,543 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 13 | [After the rain](https://open.spotify.com/track/0iHSBbDOd5JnwLu1o0y1u4) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Law and The City, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/5jw9rhuN8Obf3JXzDvtYER) | 3:27 |
 | 14 | [All My Love \- Korean Ver.](https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 |
 | 15 | [Days of Youth](https://open.spotify.com/track/5t1pYN3ZcIOKMXdhDRRacd) | [Seo Ja Yeong](https://open.spotify.com/artist/21MtEORMs0VrLY1Gy4JXIN) | [My Girlfriend is the Man \(Original Soundtrack\) Part.3](https://open.spotify.com/album/6BkbFcvAIq9yNeZHBmhN27) | 2:50 |
-| 16 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
-| 17 | [Shower](https://open.spotify.com/track/1AOTFHFtluLFWL5WreWLZd) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Dancing With You](https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R) | 2:30 |
+| 16 | [Shower](https://open.spotify.com/track/1AOTFHFtluLFWL5WreWLZd) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Dancing With You](https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R) | 2:30 |
+| 17 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
 | 18 | [Moving](https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Moving](https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH) | 3:22 |
 | 19 | [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 |
 | 20 | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd) | 3:40 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 33 | [Seesaw](https://open.spotify.com/track/2QmCEHRbRyl1OjqBC0lmoS) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [Seesaw](https://open.spotify.com/album/0sqUVkNYhIvfiC37x1MxHl) | 2:53 |
 | 34 | [Just You](https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [Record of Youth \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt) | 3:45 |
 | 35 | [Echo \(feat\. JUKJAE\)](https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v), [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Echo \(feat .JUKJAE\)](https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj) | 3:12 |
-| 36 | [Green \(feat\. Sonny Zero\) \- Korean Version](https://open.spotify.com/track/2mg7e1agZxXUaFHfkejgul) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Green \(Korean Version\)](https://open.spotify.com/album/6pHyGhqsTeSu7EXQB32bAw) | 2:53 |
-| 37 | [beautiful inside](https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/2X9zquczSyputp24lpjLkr) | 3:39 |
+| 36 | [beautiful inside](https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/2X9zquczSyputp24lpjLkr) | 3:39 |
+| 37 | [Green \(feat\. Sonny Zero\) \- Korean Version](https://open.spotify.com/track/2mg7e1agZxXUaFHfkejgul) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Green \(Korean Version\)](https://open.spotify.com/album/6pHyGhqsTeSu7EXQB32bAw) | 2:53 |
 | 38 | [light](https://open.spotify.com/track/6BVnNfkItU3rnXaYML5NH7) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [雨後 uuhu](https://open.spotify.com/album/5mohpEYo4oPggmwLVKxDuo) | 3:41 |
 | 39 | [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 |
 | 40 | [Dear My Childhood](https://open.spotify.com/track/6Vy7FsMTd1jc4Xk8o2GBps) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Dreamest](https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV) | 4:16 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 46 | [4Life](https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z) | [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [4Life](https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac) | 2:51 |
 | 47 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 |
 | 48 | [summerless](https://open.spotify.com/track/5mK4gz7F6zRv0cJP4HlWRl) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [summerless](https://open.spotify.com/album/15UTXE6WIeQZsKt1qJALsL) | 3:06 |
-| 49 | [내 봄](https://open.spotify.com/track/6rOGxxJXoN2DZoIuV2ezhw) | [이초연](https://open.spotify.com/artist/2f5mws01llDCNyprTimrpq) | [내 봄](https://open.spotify.com/album/4ifK2Je7F4jSqOzlNaLdln) | 3:41 |
-| 50 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 |
+| 49 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 |
+| 50 | [내 봄](https://open.spotify.com/track/6rOGxxJXoN2DZoIuV2ezhw) | [이초연](https://open.spotify.com/artist/2f5mws01llDCNyprTimrpq) | [내 봄](https://open.spotify.com/album/4ifK2Je7F4jSqOzlNaLdln) | 3:41 |
 
 Snapshot ID: `AAAAAFWivO6dFET0Pz0guaN7VrYcaIdP`

@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 321432,
+  "num_followers": 321450,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAA4HEc2pSINFB9kgcjRq+Ev",
+  "snapshot_id": "aMYFgAAAAACN6htWrJqzGIrd4VJDKHLS",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 201028,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nobody But You",
         "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 213214,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 201028,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Right Back",
-        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 214047,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/099qKQ9zvTWcMDsNsasKpI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peng Black Girls Remix - A COLORS SHOW",
         "url": "https://open.spotify.com/album/472cjeBcWY3uAAJtxnpM4z"
       },
@@ -427,6 +411,42 @@
       "duration_ms": 204174,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 214047,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/099qKQ9zvTWcMDsNsasKpI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Myself (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "Myself (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj"
     },
     {
       "added_at": null,
@@ -467,22 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Myself (feat. Jorja Smith)",
-        "url": "https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL"
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
       "artists": [
         {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
         }
       ],
-      "duration_ms": 178586,
-      "name": "Myself (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj"
+      "duration_ms": 192800,
+      "name": "Greatest Gift (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex"
     },
     {
       "added_at": null,
@@ -503,26 +523,6 @@
       "duration_ms": 195073,
       "name": "Gum Body (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Greatest Gift (feat. Lila Ik\u00e9)",
-      "url": "https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex"
     },
     {
       "added_at": null,
@@ -771,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beautiful And Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 214266,
+      "name": "Nice Body (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/7IWJTrZvS11K1ziaS3JvYT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wifey Riddim",
         "url": "https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c"
       },
@@ -799,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful And Brutal Yard",
-        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 214266,
-      "name": "Nice Body (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/7IWJTrZvS11K1ziaS3JvYT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "falling or flying",
         "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 213933,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/0pvp14nDtb1DnEgRrmcBpY"
+      "duration_ms": 224098,
+      "name": "Backwards",
+      "url": "https://open.spotify.com/track/7uRIdAhzWjQPSIgkZaMn73"
     },
     {
       "added_at": null,
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 224098,
-      "name": "Backwards",
-      "url": "https://open.spotify.com/track/7uRIdAhzWjQPSIgkZaMn73"
+      "duration_ms": 213933,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/0pvp14nDtb1DnEgRrmcBpY"
     },
     {
       "added_at": null,

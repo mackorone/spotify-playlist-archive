@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 243785,
+  "num_followers": 243788,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Actual Life (April 14 - December 17 2020)",
-        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 196071,
-      "name": "Kyle (i found you)",
-      "url": "https://open.spotify.com/track/6Ao5d7TMQ92h87jQqSHGyw"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Other Side",
         "url": "https://open.spotify.com/album/1x58rOMA6gcxJdrgzbGVTo"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 206884,
       "name": "Other Side",
       "url": "https://open.spotify.com/track/74qKLdiiTnXNqh2Co21RlJ"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Actual Life (April 14 - December 17 2020)",
+        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 196071,
+      "name": "Kyle (i found you)",
+      "url": "https://open.spotify.com/track/6Ao5d7TMQ92h87jQqSHGyw"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -575,42 +575,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Alone Together",
-        "url": "https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE"
-      },
-      "artists": [
-        {
-          "name": "Astrality",
-          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
-        },
-        {
-          "name": "Georgia Blackwell",
-          "url": "https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/0REyCTre7WLmJnVmBDMqgN"
-      },
-      "artists": [
-        {
-          "name": "NOTSOBAD",
-          "url": "https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ"
-        }
-      ],
-      "duration_ms": 201023,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/2N1teUVGfP3vWKKGq0ZxvH"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "The Last Goodbye Remixes N\u00b0.2",
         "url": "https://open.spotify.com/album/6DKA6hXo5KPvSBGLUL1kky"
       },
@@ -635,6 +599,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/0REyCTre7WLmJnVmBDMqgN"
+      },
+      "artists": [
+        {
+          "name": "NOTSOBAD",
+          "url": "https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ"
+        }
+      ],
+      "duration_ms": 201023,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/2N1teUVGfP3vWKKGq0ZxvH"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/4B1YBavH7Qp0X6mAS3L9xO"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 192122,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        },
+        {
+          "name": "Georgia Blackwell",
+          "url": "https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -719,6 +719,26 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "Talk It Over",
+        "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 209178,
+      "name": "Talk It Over",
+      "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/21sXD23Pxw2SHuzf0ApnDI"
       },
@@ -739,22 +759,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Talk It Over",
-        "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
+        "name": "Body on Fire",
+        "url": "https://open.spotify.com/album/4sK64oC4oTFy2tCA18ktl9"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
         },
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "NO\u00cbP",
+          "url": "https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp"
         }
       ],
-      "duration_ms": 209178,
-      "name": "Talk It Over",
-      "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
+      "duration_ms": 159310,
+      "name": "Body on Fire",
+      "url": "https://open.spotify.com/track/44ufS0CWp8uO4ILi3vpinQ"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -779,26 +799,6 @@
       "duration_ms": 168398,
       "name": "With You",
       "url": "https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "Body on Fire",
-        "url": "https://open.spotify.com/album/4sK64oC4oTFy2tCA18ktl9"
-      },
-      "artists": [
-        {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
-        },
-        {
-          "name": "NO\u00cbP",
-          "url": "https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Body on Fire",
-      "url": "https://open.spotify.com/track/44ufS0CWp8uO4ILi3vpinQ"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -971,6 +971,26 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "New Fires",
+        "url": "https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        }
+      ],
+      "duration_ms": 251591,
+      "name": "New Fires",
+      "url": "https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "Laika.",
         "url": "https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP"
       },
@@ -987,22 +1007,6 @@
       "duration_ms": 180458,
       "name": "Laika.",
       "url": "https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 198451,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
     }
   ],
   "unique_name": "melancholia",

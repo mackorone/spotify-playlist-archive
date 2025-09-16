@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Larissa Santos",
-  "num_followers": 130795,
+  "num_followers": 130804,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2025-07-19 03:19:18",
       "album": {
+        "name": "Ter Paz",
+        "url": "https://open.spotify.com/album/6rO8TZsIW5667kvsUQkpQW"
+      },
+      "artists": [
+        {
+          "name": "Geovanne Oliveira",
+          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
+        }
+      ],
+      "duration_ms": 285660,
+      "name": "Ter Paz",
+      "url": "https://open.spotify.com/track/2NZPRJTWKpzcZQ2sMIRNty"
+    },
+    {
+      "added_at": "2025-07-19 03:19:18",
+      "album": {
         "name": "Sou Humano (Ao Vivo)",
         "url": "https://open.spotify.com/album/6vyzpWzy6GIqY7xHPiagqJ"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 273013,
       "name": "Sou Humano (Ao Vivo)",
       "url": "https://open.spotify.com/track/5t402XIfTxPDIVQ8kC2iWg"
-    },
-    {
-      "added_at": "2025-07-19 03:19:18",
-      "album": {
-        "name": "Ter Paz",
-        "url": "https://open.spotify.com/album/6rO8TZsIW5667kvsUQkpQW"
-      },
-      "artists": [
-        {
-          "name": "Geovanne Oliveira",
-          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
-        }
-      ],
-      "duration_ms": 285660,
-      "name": "Ter Paz",
-      "url": "https://open.spotify.com/track/2NZPRJTWKpzcZQ2sMIRNty"
     },
     {
       "added_at": "2025-07-19 03:19:18",
@@ -419,22 +419,18 @@
     {
       "added_at": "2025-07-19 03:19:18",
       "album": {
-        "name": "Vai Adorando (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2"
+        "name": "Deus Te Chama",
+        "url": "https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e"
       },
       "artists": [
         {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        },
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+          "name": "Samuel Miranda",
+          "url": "https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS"
         }
       ],
-      "duration_ms": 330409,
-      "name": "Vai Adorando (Ao Vivo)",
-      "url": "https://open.spotify.com/track/73mYxEGk6SojNZzFZORJdH"
+      "duration_ms": 263918,
+      "name": "Deus Te Chama",
+      "url": "https://open.spotify.com/track/2gvXxniAjF1Fe79bhBadRJ"
     },
     {
       "added_at": "2025-07-19 03:19:18",
@@ -459,18 +455,22 @@
     {
       "added_at": "2025-07-19 03:19:18",
       "album": {
-        "name": "Deus Te Chama",
-        "url": "https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e"
+        "name": "Vai Adorando (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2"
       },
       "artists": [
         {
-          "name": "Samuel Miranda",
-          "url": "https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS"
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        },
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
         }
       ],
-      "duration_ms": 263918,
-      "name": "Deus Te Chama",
-      "url": "https://open.spotify.com/track/2gvXxniAjF1Fe79bhBadRJ"
+      "duration_ms": 330409,
+      "name": "Vai Adorando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/73mYxEGk6SojNZzFZORJdH"
     },
     {
       "added_at": "2025-07-19 03:19:18",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-07-19 03:19:18",
       "album": {
+        "name": "Sua Vida Em Mim",
+        "url": "https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p"
+      },
+      "artists": [
+        {
+          "name": "Thais Castro",
+          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Sua Vida Em Mim",
+      "url": "https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS"
+    },
+    {
+      "added_at": "2025-07-19 03:19:18",
+      "album": {
         "name": "Vida Boa",
         "url": "https://open.spotify.com/album/5jNET3UCFFAuwFmDoi4U3F"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 305000,
       "name": "Descansa em Mim",
       "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
-    },
-    {
-      "added_at": "2025-07-19 03:19:18",
-      "album": {
-        "name": "Sua Vida Em Mim",
-        "url": "https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p"
-      },
-      "artists": [
-        {
-          "name": "Thais Castro",
-          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Sua Vida Em Mim",
-      "url": "https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS"
     },
     {
       "added_at": "2025-07-19 03:19:18",

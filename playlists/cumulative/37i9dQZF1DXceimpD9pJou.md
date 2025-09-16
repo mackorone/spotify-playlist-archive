@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Gabriel EMC
 
-3,249 songs - 10 day 0 hr 59 min
+3,249 songs - 10 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -908,7 +908,7 @@
 | [El Tiempo](https://open.spotify.com/track/3ipfCiqkiVAbbFiBvk5A0X) | [HeartBeat Music](https://open.spotify.com/artist/1r9xLwoX9cNdZQL1Weekrd), [Samuel Adorno](https://open.spotify.com/artist/18uNULJ5iZf4hIcGq5WvbZ) | [El Tiempo](https://open.spotify.com/album/0ihqqcN7ZEG9WYVuyWalY4) | 3:06 | 2025-04-11 | 2025-05-17 |
 | [El Trono \- Remix](https://open.spotify.com/track/48q50zTEn7PpoWaPiShI6r) | [Jairon High](https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M), [Artury Pepper](https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57) | [El Trono \(Remix\)](https://open.spotify.com/album/5LedKMTi3A7OdleYvGksnM) | 2:33 | 2023-12-08 | 2024-02-03 |
 | [El Velo Está Roto](https://open.spotify.com/track/2kt0UV89ZWFI36AQBo25wf) | [Marco López](https://open.spotify.com/artist/61BYqEd2g505e6OWOUaxqy), [Kairy Marquez](https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8) | [El Velo Está Roto](https://open.spotify.com/album/5V9yFoOl0GqNXwWsLhgrU3) | 3:24 | 2025-04-18 | 2025-05-17 |
-| [El Verbo](https://open.spotify.com/track/3nCGMi3Qm0EGMI386ai9GR) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [Daffy El Audio](https://open.spotify.com/artist/7cb0BxBtbvOtgWH3tS6MRJ) | [El Verbo](https://open.spotify.com/album/7bc1EWe4XQQSvS7pfsvYJc) | 3:55 | 2025-09-12 |  |
+| [El Verbo](https://open.spotify.com/track/3nCGMi3Qm0EGMI386ai9GR) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [El Verbo](https://open.spotify.com/album/7bc1EWe4XQQSvS7pfsvYJc) | 2:53 | 2025-09-12 |  |
 | [El Viaje \- Radio Edit](https://open.spotify.com/track/71JP0pSEloU2ll7KKX3M0O) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt), [Sebas Guillem](https://open.spotify.com/artist/2Cq21pgOVjJOkTKtnYBpL4) | [El Viaje \(Radio Edit\)](https://open.spotify.com/album/0oJzCneca6ouUIVfJFkYhZ) | 4:26 | 2024-02-16 | 2024-03-16 |
 | [El Viajero del Tiempo 2](https://open.spotify.com/track/1qD2ZHqO3J8VhpZnPWABvu) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs) | [El Viajero del Tiempo 2](https://open.spotify.com/album/49s5ltmZJb0dSsJzAHRSvr) | 6:41 | 2024-05-31 | 2024-06-29 |
 | [El Volvera \(feat\. Lenny Salcedo\)](https://open.spotify.com/track/5OArbLhu55LL5yvBUX4F8Z) | [Sarah Capeles](https://open.spotify.com/artist/4mVbIGHmeO5AcP5TrLk2V2), [Lenny Salcedo](https://open.spotify.com/artist/3SAz8B6xf4eS1TuWnBppf8) | [El Volvera \(feat\. Lenny Salcedo\)](https://open.spotify.com/album/1TKuwXP1vJY4Yrtla2wYC5) | 3:20 | 2023-08-04 | 2023-09-16 |

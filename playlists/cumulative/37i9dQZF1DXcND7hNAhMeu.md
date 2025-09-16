@@ -4,7 +4,7 @@
 
 > Geleceğin seslerini dinle! Kapak: Baran Mengüç x Selin
 
-98 songs - 4 hr 41 min
+99 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Allı Turnam](https://open.spotify.com/track/3b1O9F4zjQZCTP5WSTUDQi) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Allı Turnam](https://open.spotify.com/album/5LXJSwRHsMcsq47ZcFIW5i) | 2:28 | 2025-07-31 | 2025-08-30 |
 | [Alıştım Üzülmeye](https://open.spotify.com/track/2xFiJX7xL04l2HmwtQVsdm) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Alıştım Üzülmeye](https://open.spotify.com/album/56RC7UMpMzp4EwKCPZ4xaw) | 3:10 | 2024-06-20 |  |
 | [Ara Sıcak](https://open.spotify.com/track/7tdqNYEPYjv2oSL3EKB8Vu) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Ara Sıcak](https://open.spotify.com/album/3ymtkW72HtG3DoRJm4rD1c) | 3:36 | 2024-10-23 |  |
-| [Asla](https://open.spotify.com/track/5XYlWf5dmrt6xZXBlZx9MG) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD), [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Asla](https://open.spotify.com/album/2D7jkjA2Xb2giBgBLgmZVl) | 2:48 | 2024-12-19 |  |
+| [Asla](https://open.spotify.com/track/5XYlWf5dmrt6xZXBlZx9MG) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD), [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Asla](https://open.spotify.com/album/2D7jkjA2Xb2giBgBLgmZVl) | 2:48 | 2024-12-19 | 2025-09-16 |
 | [Aslında](https://open.spotify.com/track/7qFBqAPjhQ4vL53UuRcwT0) | [Kaan Malkoç](https://open.spotify.com/artist/7aDwkYjLH6yvueCOmZNYtZ) | [Aslında](https://open.spotify.com/album/2SxYsV38sVmGP4dpmiwK3M) | 2:32 | 2024-10-23 | 2025-01-10 |
 | [Astigmat](https://open.spotify.com/track/5gf4J44vNmaqOEupZS9KXJ) | [kerem.](https://open.spotify.com/artist/3Y7BOP46zC3Tbze2TW8CQr), [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Astigmat](https://open.spotify.com/album/2pon3ie4lL3wU78c0BMuWZ) | 2:38 | 2025-04-17 | 2025-06-17 |
 | [aşk olsun](https://open.spotify.com/track/0O8Nm0uLDyoYlvbOpBRsFQ) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [aşk olsun](https://open.spotify.com/album/5xxM5sPHkm9J4mKRysNVkk) | 3:00 | 2024-11-28 | 2025-04-11 |
@@ -61,6 +61,7 @@
 | [La Cite](https://open.spotify.com/track/0aohRY8ekBIqFEyUGrAazv) | [Pois](https://open.spotify.com/artist/4L8MaBqZeGyW9ZP7QaH6r8) | [La Cite](https://open.spotify.com/album/1YjyzW7gh8Tt4GjMtmPprY) | 2:19 | 2024-06-20 | 2024-10-24 |
 | [lades](https://open.spotify.com/track/1lTeBIg6ZocUySIVp86AEp) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [AVARE.](https://open.spotify.com/album/3vE5SXoQrHlJdejlYLgSlk) | 2:31 | 2025-05-02 | 2025-08-01 |
 | [Leyla](https://open.spotify.com/track/5T5pdiWGRinb5OSNsXtAjg) | [Ragıb Narin](https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg) | [Leyla](https://open.spotify.com/album/4Bq01KF82VjwvIu0vgoT9w) | 2:46 | 2024-06-20 | 2024-10-24 |
+| [Leyla](https://open.spotify.com/track/7io2J4KxxJGudWkyJIb2LI) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Leyla](https://open.spotify.com/album/3RgXsvxPagJnfAbnccbMb2) | 3:24 | 2025-09-15 |  |
 | [MELEK MİYİM](https://open.spotify.com/track/0HSj4XkXceHcSiwKcWxc1V) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [MELEK MİYİM](https://open.spotify.com/album/6UCpFr6aaLjtHSX3GpKCKb) | 2:31 | 2024-06-20 |  |
 | [N'aptım Ben Sana?](https://open.spotify.com/track/3yMa3jz5ivK0QrUUlT4Npx) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [N'aptım Ben Sana?](https://open.spotify.com/album/7FTnDptilAIZCpQ2Z6Yqj7) | 2:33 | 2024-06-20 |  |
 | [N'olur Gelsen](https://open.spotify.com/track/7gh5AmydKfR9wfTQOyRZrP) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [N'olur Gelsen](https://open.spotify.com/album/1LRfz2siYTDHkYfZNkGDEr) | 2:48 | 2024-10-23 |  |

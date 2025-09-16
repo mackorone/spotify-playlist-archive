@@ -2,9 +2,9 @@
 
 ### [K\-Pop Dance Party](https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj)
 
-> Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: ZEROBASEONE\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
+> Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: BADVILLAIN\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-806 songs - 1 day 19 hr 5 min
+807 songs - 1 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [D\-D\-DANCE](https://open.spotify.com/track/3U764c5XbUqjr408oTrjfy) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [D\-D\-DANCE](https://open.spotify.com/album/1owCxA0CX66z6abjiZ3m6g) | 3:25 | 2022-01-03 | 2022-04-20 |
 | [Daisy](https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [WE:TH](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) | 3:09 | 2022-01-13 | 2022-06-05 |
 | [DAMAGE](https://open.spotify.com/track/4bgCCjt858ABkATF5DUgfz) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [JUST BURN](https://open.spotify.com/album/1LZ8Ox2ip5t4tFNZwsMtvC) | 3:04 | 2022-01-25 | 2022-04-20 |
-| [DAMDADI \(feat\. SOYEON of i\-dle\)](https://open.spotify.com/track/07ZnlXOp6nKEKtXOMJxgPp) | [R.Tee](https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN), [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [DAMDADI](https://open.spotify.com/album/3qdFRG1zkTaht99iEXpWD3) | 2:22 | 2025-08-12 |  |
+| [DAMDADI \(feat\. SOYEON of i\-dle\)](https://open.spotify.com/track/07ZnlXOp6nKEKtXOMJxgPp) | [R.Tee](https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN), [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [DAMDADI](https://open.spotify.com/album/3qdFRG1zkTaht99iEXpWD3) | 2:22 | 2025-08-12 | 2025-09-16 |
 | [Dance](https://open.spotify.com/track/0hOv3jFh7p6NuVCDXpqgMd) | [O.I](https://open.spotify.com/artist/0mjoTu74EZjsbSVwrKvimc) | [Dance](https://open.spotify.com/album/6ac1vhzcDj1k5BKgXBH0k0) | 3:24 | 2022-03-29 | 2022-04-19 |
 | [Dance The Night Away](https://open.spotify.com/track/5ilOXZ0vqTX69rjRubPivH) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/7Km2KH6vfW9WzG7OeXFZHo) | 3:00 | 2022-01-03 | 2022-07-02 |
 | [DANCING ALONE](https://open.spotify.com/track/6vN4qMlor4D2U7a7BzSQI5) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [DANCING ALONE](https://open.spotify.com/album/1Ql33tND0vujOBXqvVtzau) | 3:18 | 2025-08-12 | 2025-08-26 |
@@ -715,6 +715,7 @@
 | [Think About Me](https://open.spotify.com/track/32Le9Id5nHZRYBoOADDbVu) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Think About Me \- SM STATION](https://open.spotify.com/album/6QtFTapfqH40al5lsCJzMr) | 2:50 | 2022-04-05 | 2022-04-18 |
 | [THIS IS FOR](https://open.spotify.com/track/3fwjo4HYqaQcvdJP3d4twX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/751yK5uyUr7PGOgNAVkobh) | 2:11 | 2025-07-19 | 2025-08-19 |
 | [THRILL RIDE](https://open.spotify.com/track/3wEYYVD6uC3A3LhVhqARZv) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 6TH MINI ALBUM \[THRILL\-ING\]](https://open.spotify.com/album/0lh0pZ8GjZGrAhzIG4Jn0E) | 3:16 | 2022-01-03 | 2022-07-11 |
+| [THRILLER](https://open.spotify.com/track/6FVwbv7XgC7xR2FT5ISS4B) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [THRILLER](https://open.spotify.com/album/3WDzrUo4IO2A3ScJh6LWTW) | 2:52 | 2025-09-15 |  |
 | [THUNDER](https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:44 | 2025-06-13 |  |
 | [Thunderous](https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:03 | 2022-07-28 | 2023-10-07 |
 | [Thunderous](https://open.spotify.com/track/3XHJUG5I2zYqOEmEZUX68n) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:03 | 2021-12-21 | 2022-07-07 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 3227,
+  "num_followers": 3225,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAADv3joU8/K/jeZKOvxeMtfM",
+  "snapshot_id": "aMYFgAAAAAAe+pTzt4BakwSwPUMZ2BN4",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Graham Phillips",
+          "url": "https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj"
+        }
+      ],
+      "duration_ms": 176477,
+      "name": "If Only - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/1WM0k6YUk7GwnxXjnDMNnC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Glorious (Rise Cast Version)",
         "url": "https://open.spotify.com/album/0pegn0FfZZRbQKSHGaPbcb"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 147952,
       "name": "Glorious - Rise Cast Version",
       "url": "https://open.spotify.com/track/0hasaAKHUsmlAVbeo6jBUt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Little Mermaid Live!",
-        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Graham Phillips",
-          "url": "https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj"
-        }
-      ],
-      "duration_ms": 176477,
-      "name": "If Only - From \"The Little Mermaid Live!\"",
-      "url": "https://open.spotify.com/track/1WM0k6YUk7GwnxXjnDMNnC"
     },
     {
       "added_at": null,

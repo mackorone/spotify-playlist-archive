@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-30",
-  "description": "Every song that's Trending NOW from Malayalam! \nCover: Thalavara",
+  "description": "Every song that's Trending NOW from Malayalam! \nCover: Lokah",
   "name": "Trending Now Malayalam",
   "tracks": [
     {
@@ -334,7 +334,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 137764,
       "name": "Derniere Dance Funk - Deluxe Version",
       "url": "https://open.spotify.com/track/14BhJkCNiaPAlsUdVXGjdN"
@@ -911,6 +911,32 @@
     },
     {
       "album": {
+        "name": "Kiliye Kiliye - Afrobeat Mix",
+        "url": "https://open.spotify.com/album/2UK3vLqzakehLFgmtCwslk"
+      },
+      "artists": [
+        {
+          "name": "The Independeners",
+          "url": "https://open.spotify.com/artist/1ZaBov637MCZiuYMhEBGUY"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        },
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90625,
+      "name": "Kiliye Kiliye - Afrobeat Mix",
+      "url": "https://open.spotify.com/track/6Or4iU4UNhDftBYfRXh7xr"
+    },
+    {
+      "album": {
         "name": "S. Janaki Revival Hits",
         "url": "https://open.spotify.com/album/05gs0CijH51Wct3SW5Ff4D"
       },
@@ -926,7 +952,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 278500,
       "name": "Kiliye Kiliye Revival Film - Aa Raathri",
       "url": "https://open.spotify.com/track/4u994ntWCLCAaVEa2AXYI0"
@@ -2170,6 +2196,36 @@
       "duration_ms": 183737,
       "name": "Thallumaala Paattu",
       "url": "https://open.spotify.com/track/1JGdOSXhyXpAu7xUpoygxW"
+    },
+    {
+      "album": {
+        "name": "Thani Lokah Murakkaari (From \"Lokah - Chapter 1: Chandra\")",
+        "url": "https://open.spotify.com/album/3MqNFtmEnrwzmen3K91TsI"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Jyoti Nooran",
+          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+        },
+        {
+          "name": "Reble",
+          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
+        },
+        {
+          "name": "Mu.Ri",
+          "url": "https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231478,
+      "name": "Thani Lokah Murakkaari (From \"Lokah - Chapter 1: Chandra\")",
+      "url": "https://open.spotify.com/track/7gX2JJVKndYEVApM5GRtqZ"
     },
     {
       "album": {

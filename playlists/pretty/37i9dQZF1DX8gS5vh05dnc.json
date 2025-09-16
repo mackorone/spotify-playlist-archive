@@ -1,6 +1,6 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 130071,
+  "num_followers": 130066,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2025-09-14 16:00:05",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
-    },
-    {
-      "added_at": "2025-09-14 16:00:05",
-      "album": {
         "name": "1000 Forms Of Fear",
         "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
       },
@@ -243,6 +227,22 @@
     {
       "added_at": "2025-09-14 16:00:05",
       "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "added_at": "2025-09-14 16:00:05",
+      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
       },
@@ -255,22 +255,6 @@
       "duration_ms": 173710,
       "name": "34+35",
       "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
-    },
-    {
-      "added_at": "2025-09-14 16:00:05",
-      "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2025-09-14 16:00:05",
@@ -343,6 +327,22 @@
     {
       "added_at": "2025-09-14 16:00:05",
       "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
+    },
+    {
+      "added_at": "2025-09-14 16:00:05",
+      "album": {
         "name": "Priceless (feat. LISA)",
         "url": "https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ"
       },
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-09-14 16:00:05",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
-    },
-    {
-      "added_at": "2025-09-14 16:00:05",
-      "album": {
         "name": "Don't Start Now",
         "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2025-09-14 16:00:05",
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2025-09-14 16:00:05",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-09-14 16:00:05",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 197469,
-      "name": "Count on Me",
-      "url": "https://open.spotify.com/track/3B5UbSndRz907IZhhmUfLi"
-    },
-    {
-      "added_at": "2025-09-14 16:00:05",
-      "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 155563,
       "name": "Genius",
       "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
+    },
+    {
+      "added_at": "2025-09-14 16:00:05",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 197469,
+      "name": "Count on Me",
+      "url": "https://open.spotify.com/track/3B5UbSndRz907IZhhmUfLi"
     },
     {
       "added_at": "2025-09-14 16:00:05",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-09-14 16:00:05",
       "album": {
-        "name": "2002",
-        "url": "https://open.spotify.com/album/6oSxSPOg7Kuitjt2zwP7sU"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j"
-    },
-    {
-      "added_at": "2025-09-14 16:00:05",
-      "album": {
         "name": "Bad Decisions (with BTS & Snoop Dogg)",
         "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 225789,
       "name": "Never Gonna Not Dance Again",
       "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+    },
+    {
+      "added_at": "2025-09-14 16:00:05",
+      "album": {
+        "name": "2002",
+        "url": "https://open.spotify.com/album/6oSxSPOg7Kuitjt2zwP7sU"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j"
     },
     {
       "added_at": "2025-09-14 16:00:05",
@@ -831,6 +831,42 @@
     {
       "added_at": "2025-09-14 16:00:05",
       "album": {
+        "name": "Free Spirit",
+        "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "Outta My Head (with John Mayer)",
+      "url": "https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP"
+    },
+    {
+      "added_at": "2025-09-14 16:00:05",
+      "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
+    },
+    {
+      "added_at": "2025-09-14 16:00:05",
+      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
       },
@@ -879,42 +915,6 @@
       "duration_ms": 181650,
       "name": "Love On",
       "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
-    },
-    {
-      "added_at": "2025-09-14 16:00:05",
-      "album": {
-        "name": "Free Spirit",
-        "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "Outta My Head (with John Mayer)",
-      "url": "https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP"
-    },
-    {
-      "added_at": "2025-09-14 16:00:05",
-      "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
     },
     {
       "added_at": "2025-09-14 16:00:05",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-09-14 16:00:05",
       "album": {
+        "name": "Waffle House",
+        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 145440,
+      "name": "Waffle House",
+      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
+    },
+    {
+      "added_at": "2025-09-14 16:00:05",
+      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5"
       },
@@ -987,38 +1003,6 @@
     {
       "added_at": "2025-09-14 16:00:05",
       "album": {
-        "name": "The Blessed Unrest",
-        "url": "https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 218573,
-      "name": "I Choose You",
-      "url": "https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl"
-    },
-    {
-      "added_at": "2025-09-14 16:00:05",
-      "album": {
-        "name": "Anything You Want",
-        "url": "https://open.spotify.com/album/0heGEO3au4OmkR8Oor96qu"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 123556,
-      "name": "Anything You Want",
-      "url": "https://open.spotify.com/track/78LMazmfqncADjyJVae8dN"
-    },
-    {
-      "added_at": "2025-09-14 16:00:05",
-      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 182895,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4"
+    },
+    {
+      "added_at": "2025-09-14 16:00:05",
+      "album": {
+        "name": "The Blessed Unrest",
+        "url": "https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 218573,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl"
     },
     {
       "added_at": "2025-09-14 16:00:05",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-09-14 16:00:05",
       "album": {
+        "name": "Anything You Want",
+        "url": "https://open.spotify.com/album/0heGEO3au4OmkR8Oor96qu"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 123556,
+      "name": "Anything You Want",
+      "url": "https://open.spotify.com/track/78LMazmfqncADjyJVae8dN"
+    },
+    {
+      "added_at": "2025-09-14 16:00:05",
+      "album": {
         "name": "Summer Feelings (feat. Charlie Puth)",
         "url": "https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 160289,
       "name": "Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album",
       "url": "https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5"
-    },
-    {
-      "added_at": "2025-09-14 16:00:05",
-      "album": {
-        "name": "Waffle House",
-        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 145440,
-      "name": "Waffle House",
-      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
     },
     {
       "added_at": "2025-09-14 16:00:05",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2025-09-14 16:00:05",
       "album": {
+        "name": "Frankenstein",
+        "url": "https://open.spotify.com/album/740ehwZADpfoezUB54h6zE"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 202248,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB"
+    },
+    {
+      "added_at": "2025-09-14 16:00:05",
+      "album": {
         "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
         "url": "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 229282,
       "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
       "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
-    },
-    {
-      "added_at": "2025-09-14 16:00:05",
-      "album": {
-        "name": "Frankenstein",
-        "url": "https://open.spotify.com/album/740ehwZADpfoezUB54h6zE"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 202248,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB"
     },
     {
       "added_at": "2025-09-14 16:00:05",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-09-14 16:00:05",
       "album": {
-        "name": "All 4 Nothing (I'm So In Love)",
-        "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 183014,
-      "name": "All 4 Nothing (I'm So In Love)",
-      "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
-    },
-    {
-      "added_at": "2025-09-14 16:00:05",
-      "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/2ccNieek7n45JFBQjyVPMu"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 190371,
       "name": "Bad",
       "url": "https://open.spotify.com/track/6L2TOTO0JjlVuKBnIuWcVY"
+    },
+    {
+      "added_at": "2025-09-14 16:00:05",
+      "album": {
+        "name": "All 4 Nothing (I'm So In Love)",
+        "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 183014,
+      "name": "All 4 Nothing (I'm So In Love)",
+      "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
     }
   ],
   "unique_name": "\u6d88\u9664\u58d3\u529b",

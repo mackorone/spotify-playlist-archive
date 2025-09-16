@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,396 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,398 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 20 | [Your River In Me](https://open.spotify.com/track/5HXsVPuYRetTawWcU4hB9K) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2UV7qUU9tgPwbf2PUHYPiC) | 4:48 |
 | 21 | [One Confess](https://open.spotify.com/track/5vzGjOGXJQcefc3JqopL2X) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [One Confess \(Original Soundtrack from Hear Me: Our Summer\)](https://open.spotify.com/album/4lspmWfRe38Gyt12UoBQ0Q) | 2:48 |
 | 22 | [Lilac](https://open.spotify.com/track/7sUdQYehUxm6Wr8fE1UuFl) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Flowering](https://open.spotify.com/album/54hii26kTxdUy7SY9OfWrW) | 3:28 |
-| 23 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
-| 24 | [Small Talk About Everything](https://open.spotify.com/track/68lrtGou1rovK9aYHlr660) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Small Talk About Everything](https://open.spotify.com/album/1W48cB0P1XA9uWAgS8pokX) | 4:10 |
+| 23 | [Small Talk About Everything](https://open.spotify.com/track/68lrtGou1rovK9aYHlr660) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Small Talk About Everything](https://open.spotify.com/album/1W48cB0P1XA9uWAgS8pokX) | 4:10 |
+| 24 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
 | 25 | [입맞춤](https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:17 |
 | 26 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 |
 | 27 | [The Little](https://open.spotify.com/track/464Ymo9CA1fD7lzgUnoijt) | [Yeon seo](https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl) | [The Little](https://open.spotify.com/album/2Eg215da9ZVMDyMXIBAjaM) | 3:04 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 38 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 |
 | 39 | [They say, that is the love](https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:44 |
 | 40 | [To eunbi](https://open.spotify.com/track/0MEpiC2Qa5IN1IpNkifI2x) | [n@di](https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI) | [A Form Of Love](https://open.spotify.com/album/4AQrjSk8NraBpI0lWkmzV8) | 2:47 |
-| 41 | [dear my loves](https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [To.](https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6) | 3:15 |
-| 42 | [It Won't Be Anything Anyway \(with deulrejang\)](https://open.spotify.com/track/1A5xMM3UvEL1pldYBhfN2J) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg), [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 5:14 |
+| 41 | [It Won't Be Anything Anyway \(with deulrejang\)](https://open.spotify.com/track/1A5xMM3UvEL1pldYBhfN2J) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg), [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 5:14 |
+| 42 | [dear my loves](https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [To.](https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6) | 3:15 |
 | 43 | [그 밤](https://open.spotify.com/track/30Ruc6AbbIZ1MN4tSUjKGd) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:34 |
 | 44 | [Letter](https://open.spotify.com/track/6IFltGdAUMosyFl0ZieEF7) | [615](https://open.spotify.com/artist/1R2KUW45CEHkpv8fAgPADp) | [1](https://open.spotify.com/album/6HhqELdvnGGbBQVYoTj239) | 3:28 |
 | 45 | [Prayers of a Hedgehog](https://open.spotify.com/track/2mUleIbjQ4nuVn9Cro8J0C) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Adventure](https://open.spotify.com/album/4i6gtCu9JPnMSRGPmOLpF2) | 3:24 |

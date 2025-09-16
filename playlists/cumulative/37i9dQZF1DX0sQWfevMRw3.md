@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,449 songs - 2 day 12 hr 5 min
+1,450 songs - 2 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1233,6 +1233,7 @@
 | [SUPIT BORT DITT NAMN](https://open.spotify.com/track/2fk4VRwQkbasWYm2sqXDMH) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [SUPIT BORT DITT NAMN](https://open.spotify.com/album/2ThiLpOFQKQOOtFKK5NpRS) | 2:12 | 2024-03-28 | 2024-04-19 |
 | [Survivors](https://open.spotify.com/track/2HvGzbTKJTP8WuKU1EClIw) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Survivors](https://open.spotify.com/album/558HXvtCoHCsxRpPoAIb5H) | 2:44 | 2021-12-16 | 2022-08-26 |
 | [Svag](https://open.spotify.com/track/6m9boQX0lTSx9yELAEtr10) | [DRESSD](https://open.spotify.com/artist/4sNWSMiz1cfqtIR5rSc7UL), [Blondini](https://open.spotify.com/artist/0l5Z38yckkLZE55rEUZtVK) | [Svag](https://open.spotify.com/album/0F3HBn96hzcWPUbHjoK6bd) | 2:35 | 2023-06-29 | 2023-09-29 |
+| [SVAG](https://open.spotify.com/track/7pgA4UVutmW2hktzYZXNuM) | [Kenneth Svensson](https://open.spotify.com/artist/4ChUBIVdqsR82ZDAjdUvy6) | [SVAG](https://open.spotify.com/album/4qbumWkGdvo6HlNReuongj) | 2:02 | 2025-09-15 |  |
 | [Svansen](https://open.spotify.com/track/6QjV1SS98rca3Ekkrg6fsT) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [Svansen](https://open.spotify.com/album/6xdroRsbP7x8VSY0gQJiOA) | 2:53 | 2023-04-06 | 2023-06-30 |
 | [SVENSKA MODELLEN](https://open.spotify.com/track/6UBPIa6mQRtEPAwAUOzPwK) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [Akin Jensen](https://open.spotify.com/artist/07wIp9CHYFGgNTlm0XmdvX), [demz](https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj) | [SVENSKA MODELLEN](https://open.spotify.com/album/3p8W2Ai8PWudT43PlZwjAr) | 2:00 | 2024-11-07 | 2025-04-25 |
 | [Svensson Style](https://open.spotify.com/track/6u68dQ1oJYFCX4KOUkrZt0) | [Sean Banan](https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q) | [Svensson Style](https://open.spotify.com/album/4NVtqn3qcDplxVC7DTEvUM) | 3:40 | 2022-04-01 | 2022-07-29 |

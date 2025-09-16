@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jG0L1fT9fh.md) - [plain]
 
 > Enjoy music from "KENGAN ASHURA"!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,998 likes - 44 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,002 likes - 44 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

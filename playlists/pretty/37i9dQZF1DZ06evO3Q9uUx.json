@@ -1,13 +1,33 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15665,
+  "num_followers": 15667,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAB3oZI+BT4GAp9aYocbaDkO",
+  "snapshot_id": "aMYFgAAAAACwxxaicSqdIMnIp6yR4BhK",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "DADE (feat. Key Glock)",
+        "url": "https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 104415,
+      "name": "DADE (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj"
+    },
     {
       "added_at": null,
       "album": {
@@ -387,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rumors",
-        "url": "https://open.spotify.com/album/4Bam5z6xEu8eylzs4oXokN"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 135176,
-      "name": "Rumors",
-      "url": "https://open.spotify.com/track/3l86qllTNoeEpELSuL6IWv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect (Remix) (feat. Doja Cat & BIA)",
         "url": "https://open.spotify.com/album/2S5f607kus6aZo5UcA3gPS"
       },
@@ -459,18 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONE THING",
-        "url": "https://open.spotify.com/album/4SpGTji6llKZtSiJ5aN90V"
+        "name": "Rumors",
+        "url": "https://open.spotify.com/album/4Bam5z6xEu8eylzs4oXokN"
       },
       "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 217533,
-      "name": "ONE THING",
-      "url": "https://open.spotify.com/track/3EpMgxSOLZKW6mCCfERXcb"
+      "duration_ms": 135176,
+      "name": "Rumors",
+      "url": "https://open.spotify.com/track/3l86qllTNoeEpELSuL6IWv"
     },
     {
       "added_at": null,
@@ -491,6 +495,22 @@
       "duration_ms": 132537,
       "name": "It's You (feat. BIA)",
       "url": "https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ONE THING",
+        "url": "https://open.spotify.com/album/4SpGTji6llKZtSiJ5aN90V"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "ONE THING",
+      "url": "https://open.spotify.com/track/3EpMgxSOLZKW6mCCfERXcb"
     },
     {
       "added_at": null,
@@ -559,6 +579,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "FAST X (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "duration_ms": 43200,
+      "name": "Furious",
+      "url": "https://open.spotify.com/track/272slxHVqV2k38mxVP2hat"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Super Freaky Girl (Queen Mix)",
         "url": "https://open.spotify.com/album/0kTHpgQCab29IVUdUIVtI6"
       },
@@ -591,26 +631,6 @@
       "duration_ms": 234899,
       "name": "Super Freaky Girl (with JT & BIA feat. Katie Got Bandz, Akbar V & Maliibu Mitch) - Queen Mix",
       "url": "https://open.spotify.com/track/4dFKEyGrwmIimMqwYleFOR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FAST X (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        }
-      ],
-      "duration_ms": 43200,
-      "name": "Furious",
-      "url": "https://open.spotify.com/track/272slxHVqV2k38mxVP2hat"
     },
     {
       "added_at": null,
@@ -708,9 +728,29 @@
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 162779,
-      "name": "SKATE",
-      "url": "https://open.spotify.com/track/5eeNzRV0twsDptfHslE7XR"
+      "duration_ms": 149497,
+      "name": "COVER GIRL",
+      "url": "https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JAMES.",
+        "url": "https://open.spotify.com/album/3iJKtRqFUIbu7s2jjwvoQR"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 169925,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/3568VPmvBoVC3Jb67JtWat"
     },
     {
       "added_at": null,
@@ -731,6 +771,38 @@
       "duration_ms": 161177,
       "name": "PISSED OFF",
       "url": "https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 151431,
+      "name": "FALLBACK",
+      "url": "https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 162779,
+      "name": "SKATE",
+      "url": "https://open.spotify.com/track/5eeNzRV0twsDptfHslE7XR"
     },
     {
       "added_at": null,
@@ -767,6 +839,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'M THAT BITCH",
+        "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 152043,
+      "name": "I'M THAT BITCH",
+      "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 172974,
+      "name": "MILLIONS",
+      "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "SAME HANDS (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
         "url": "https://open.spotify.com/album/1bFphUB9uHCPapPwdAxCWI"
       },
@@ -799,58 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 149497,
-      "name": "COVER GIRL",
-      "url": "https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'M THAT BITCH",
-        "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 152043,
-      "name": "I'M THAT BITCH",
-      "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REALLY HER",
-        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 151431,
-      "name": "FALLBACK",
-      "url": "https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The End of an Era",
         "url": "https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD"
       },
@@ -867,26 +943,6 @@
       "duration_ms": 170899,
       "name": "Is That Right",
       "url": "https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "SAME HANDS (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq"
     },
     {
       "added_at": null,
@@ -915,22 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REALLY HER",
-        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 172974,
-      "name": "MILLIONS",
-      "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "nights and weekends",
         "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
       },
@@ -947,6 +987,22 @@
       "duration_ms": 137003,
       "name": "back it up",
       "url": "https://open.spotify.com/track/3I23NiySJ2e5j7T1s3Q6XL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 156519,
+      "name": "PLATE",
+      "url": "https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB"
     },
     {
       "added_at": null,
@@ -995,22 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 156519,
-      "name": "PLATE",
-      "url": "https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "808",
         "url": "https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI"
       },
@@ -1051,58 +1091,6 @@
       "duration_ms": 161555,
       "name": "CHATTY",
       "url": "https://open.spotify.com/track/6u2LaYlmDbDLsEtCFMHcIO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
-        "url": "https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt"
-      },
-      "artists": [
-        {
-          "name": "Lil Blessin",
-          "url": "https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 228251,
-      "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
-      "url": "https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solitude (with BIA & Lucky Daye)",
-        "url": "https://open.spotify.com/album/5R0IoGOOlP8dbynqmABnYA"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 174476,
-      "name": "Solitude (with BIA & Lucky Daye)",
-      "url": "https://open.spotify.com/track/2cjhbrRCiUwRWL2PDPpDAu"
     }
   ],
   "unique_name": "This Is BIA",

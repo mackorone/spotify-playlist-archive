@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 308341,
+  "num_followers": 308445,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAAmcJ/ykmCR/MMhDvCRP+L6",
+  "snapshot_id": "aMYFgAAAAAALMC4FHs9IgT68lLHRTeru",
   "tracks": [
     {
       "added_at": null,
@@ -71,22 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is a Cloud",
-        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 398333,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trust In God / More Than Able",
         "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 442264,
       "name": "Trust In God (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 398333,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Har\u00e1s Otra Vez",
-        "url": "https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 499213,
-      "name": "Como en el Cielo (Here as in Heaven)",
-      "url": "https://open.spotify.com/track/7gR2K9p8v5BB0uGLCcVimW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Graves Into Gardens (Live)",
         "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 291330,
       "name": "My Testimony (Live)",
       "url": "https://open.spotify.com/track/3v8BMCftaY6CMe06VBSe0c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Har\u00e1s Otra Vez",
+        "url": "https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 499213,
+      "name": "Como en el Cielo (Here as in Heaven)",
+      "url": "https://open.spotify.com/track/7gR2K9p8v5BB0uGLCcVimW"
     },
     {
       "added_at": null,
@@ -507,30 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tumbas A Jardines",
-        "url": "https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Elevation Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 353507,
-      "name": "Tumbas A Jardines (Graves Into Gardens) (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/0LetLotK5ziqrdD7WWpGN1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So So Good (Live)",
         "url": "https://open.spotify.com/album/4dZx4AIFmNQo4KCUyhY3ru"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 288766,
       "name": "So So Good - Live",
       "url": "https://open.spotify.com/track/3uNx9NvRHm60mDwOBFCkqg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tumbas A Jardines",
+        "url": "https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Elevation Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 353507,
+      "name": "Tumbas A Jardines (Graves Into Gardens) (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/0LetLotK5ziqrdD7WWpGN1"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tumbas A Jardines",
-        "url": "https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Elevation Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
-        }
-      ],
-      "duration_ms": 419491,
-      "name": "La Bendici\u00f3n (The Blessing)",
-      "url": "https://open.spotify.com/track/5KNP7zONOFZqOL3ixeWMOQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LION",
         "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 499155,
       "name": "Forever YHWH (feat. Tiffany Hudson)",
       "url": "https://open.spotify.com/track/6lWVaAM35H2Bu26XT6cVKm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tumbas A Jardines",
+        "url": "https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Elevation Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
+        }
+      ],
+      "duration_ms": 419491,
+      "name": "La Bendici\u00f3n (The Blessing)",
+      "url": "https://open.spotify.com/track/5KNP7zONOFZqOL3ixeWMOQ"
     },
     {
       "added_at": null,

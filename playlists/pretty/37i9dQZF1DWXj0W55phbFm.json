@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 75138,
+  "num_followers": 75208,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -935,26 +935,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Oscar Peterson Trio Plus One",
-        "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        },
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 208240,
-      "name": "Squeaky's Blues",
-      "url": "https://open.spotify.com/track/5p80CvVYuscVV6ErkZhjpx"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "On The Dance Floor",
         "url": "https://open.spotify.com/album/6mAJVe56utc3J2yd0rTd9B"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 209666,
       "name": "Smile - Live",
       "url": "https://open.spotify.com/track/1Wj6woJQqEheCjZUWLBQU0"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Oscar Peterson Trio Plus One",
+        "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 208240,
+      "name": "Squeaky's Blues",
+      "url": "https://open.spotify.com/track/5p80CvVYuscVV6ErkZhjpx"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Into the Blue",
-        "url": "https://open.spotify.com/album/3sKFT6DFw4kMA5DxvhmRjL"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
-        }
-      ],
-      "duration_ms": 448386,
-      "name": "Let It Ride",
-      "url": "https://open.spotify.com/track/1iBzsbnJTL3RoWrv3zAXkE"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "I Am a Man (with Bill Frisell, Brian Blade, Jason Moran & Thomas Morgan)",
         "url": "https://open.spotify.com/album/7foEq7VyoOsDoFMVaBQz80"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
+        "name": "Into the Blue",
+        "url": "https://open.spotify.com/album/3sKFT6DFw4kMA5DxvhmRjL"
       },
       "artists": [
         {
-          "name": "Jon Faddis",
-          "url": "https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX"
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
         }
       ],
-      "duration_ms": 285800,
-      "name": "Instigator",
-      "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
+      "duration_ms": 448386,
+      "name": "Let It Ride",
+      "url": "https://open.spotify.com/track/1iBzsbnJTL3RoWrv3zAXkE"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1195,6 +1179,22 @@
       "duration_ms": 479266,
       "name": "Jacob's Ladder",
       "url": "https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
+      },
+      "artists": [
+        {
+          "name": "Jon Faddis",
+          "url": "https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX"
+        }
+      ],
+      "duration_ms": 285800,
+      "name": "Instigator",
+      "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
     },
     {
       "added_at": "2025-09-10 12:53:12",

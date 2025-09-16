@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Asha Bhat, Patrick Abraham",
-  "num_followers": 25383,
+  "num_followers": 25385,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHQXqYkbz4ASxscKzstlivDUQl0D",
+  "snapshot_id": "AAAAABuh7x9spzDnRjoESog4eTztYci9",
   "tracks": [
     {
       "added_at": "2025-07-14 10:28:53",
@@ -49,6 +49,22 @@
       "url": "https://open.spotify.com/track/1tVjzpkVKIJiT5NXD1dAZZ"
     },
     {
+      "added_at": "2025-09-15 06:41:01",
+      "album": {
+        "name": "Desi Naari",
+        "url": "https://open.spotify.com/album/5GKXlpKoXac3knHKajzLOQ"
+      },
+      "artists": [
+        {
+          "name": "Pratham Kathare",
+          "url": "https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw"
+        }
+      ],
+      "duration_ms": 155029,
+      "name": "Desi Naari",
+      "url": "https://open.spotify.com/track/4L6RuaCgSOnd5SyLTOpQKF"
+    },
+    {
       "added_at": "2025-06-24 04:48:26",
       "album": {
         "name": "Gaanji",
@@ -63,6 +79,70 @@
       "duration_ms": 147692,
       "name": "Gaanji",
       "url": "https://open.spotify.com/track/0nTl1C6WCW2yv5P2G8eK87"
+    },
+    {
+      "added_at": "2025-09-15 06:42:11",
+      "album": {
+        "name": "Ond Dina",
+        "url": "https://open.spotify.com/album/2En6iZgolhowKR7U7KuwR7"
+      },
+      "artists": [
+        {
+          "name": "Mohith Gowda",
+          "url": "https://open.spotify.com/artist/2DAJsSSNE1YOAW5GB42RuJ"
+        },
+        {
+          "name": "Nithin Kumar",
+          "url": "https://open.spotify.com/artist/07DcBxw1rbEnGlJjMEsC4P"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Ond Dina",
+      "url": "https://open.spotify.com/track/6N1Va8bl7Dpt0Y23GOR0z3"
+    },
+    {
+      "added_at": "2025-09-15 06:41:40",
+      "album": {
+        "name": "Jeevada Gelathiye (Love Anthem) (From \"Timepass\")",
+        "url": "https://open.spotify.com/album/1ddwmXrfkveclkz7H0BrgH"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/0A80SzfrEzNZrCQRNUM14W"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        },
+        {
+          "name": "Vaishnavi Sathyanarayan",
+          "url": "https://open.spotify.com/artist/1BB4p3IK2PMgMTC95g6SId"
+        }
+      ],
+      "duration_ms": 191301,
+      "name": "Jeevada Gelathiye (Love Anthem) (From \"Timepass\")",
+      "url": "https://open.spotify.com/track/5AT4QCATMnz2lNkbEbDQqB"
+    },
+    {
+      "added_at": "2025-09-15 06:42:48",
+      "album": {
+        "name": "Ee Gungalli",
+        "url": "https://open.spotify.com/album/7GNN2ddgGwGIe1KU5D0CwD"
+      },
+      "artists": [
+        {
+          "name": "Dr Nithin S",
+          "url": "https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD"
+        },
+        {
+          "name": "Nishan S",
+          "url": "https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G"
+        }
+      ],
+      "duration_ms": 176120,
+      "name": "Ee Gungalli",
+      "url": "https://open.spotify.com/track/20FyYI3BKbdMQiWnUceUdF"
     },
     {
       "added_at": "2025-09-01 07:51:02",
@@ -1245,22 +1325,6 @@
       "url": "https://open.spotify.com/track/4uxzKIzkC0kOlqBxbHs3xK"
     },
     {
-      "added_at": "2025-03-11 08:41:19",
-      "album": {
-        "name": "RCB RCB",
-        "url": "https://open.spotify.com/album/2P4DnO2OcHuE9MpzjxeIM1"
-      },
-      "artists": [
-        {
-          "name": "Athmik Rai",
-          "url": "https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev"
-        }
-      ],
-      "duration_ms": 66000,
-      "name": "RCB RCB",
-      "url": "https://open.spotify.com/track/60s8L1vzKBM4IwbzS4gvPL"
-    },
-    {
       "added_at": "2025-03-25 08:18:43",
       "album": {
         "name": "Bengaluru Love Story",
@@ -1293,54 +1357,6 @@
       "url": "https://open.spotify.com/track/7vvVvF2haaaBRikZEQh57P"
     },
     {
-      "added_at": "2025-03-18 08:53:45",
-      "album": {
-        "name": "Hubballiyava",
-        "url": "https://open.spotify.com/album/3gIa9Xe8YgtK3FzgXGfzn6"
-      },
-      "artists": [
-        {
-          "name": "Chirayu",
-          "url": "https://open.spotify.com/artist/6ATwCoaGJH1ah0xWbhpaBZ"
-        },
-        {
-          "name": "Harshith Shetty",
-          "url": "https://open.spotify.com/artist/11JDJZpkeGxs4H5psWgRfN"
-        },
-        {
-          "name": "dixit",
-          "url": "https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy"
-        },
-        {
-          "name": "Shama Pranamya",
-          "url": "https://open.spotify.com/artist/1U7EVZnaG4yPUSj2y8fbNt"
-        },
-        {
-          "name": "Jack Michael",
-          "url": "https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF"
-        }
-      ],
-      "duration_ms": 201142,
-      "name": "Hubballiyava",
-      "url": "https://open.spotify.com/track/6l5RMiYDEF9Y03o8v71ycu"
-    },
-    {
-      "added_at": "2025-03-19 07:33:49",
-      "album": {
-        "name": "Preethisuve",
-        "url": "https://open.spotify.com/album/5hVQiP0i2xbZi37QLeTEem"
-      },
-      "artists": [
-        {
-          "name": "Jaskarn Singh",
-          "url": "https://open.spotify.com/artist/5cML4rvN4WdUUGgJhtkFPq"
-        }
-      ],
-      "duration_ms": 242128,
-      "name": "Preethisuve",
-      "url": "https://open.spotify.com/track/5tqRDj8RbVRtLGOCyGi1rS"
-    },
-    {
       "added_at": "2025-03-17 09:28:52",
       "album": {
         "name": "Nannobba Driver Ni Nanna Lover",
@@ -1355,22 +1371,6 @@
       "duration_ms": 276057,
       "name": "Nannobba Driver Ni Nanna Lover",
       "url": "https://open.spotify.com/track/0ExGMAndtP2aY9XLhzHCQe"
-    },
-    {
-      "added_at": "2025-03-17 09:29:56",
-      "album": {
-        "name": "Bidudilla Geleya Ninna",
-        "url": "https://open.spotify.com/album/4u2t4U6hQeLQ88jRbrzDJl"
-      },
-      "artists": [
-        {
-          "name": "Trupti Uk Singer",
-          "url": "https://open.spotify.com/artist/2SGoL6BKOPX2XUfaxj6Dt4"
-        }
-      ],
-      "duration_ms": 336697,
-      "name": "Bidudilla Geleya Ninna",
-      "url": "https://open.spotify.com/track/7igz8Qb3zV93km5ZjLIDKD"
     },
     {
       "added_at": "2025-03-03 09:33:29",

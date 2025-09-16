@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Women at Full Volume\. Cover: Stephy Tang
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,064,971 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,064,727 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 35 | [Fatata](https://open.spotify.com/track/7EHtqFzAw7QVk9SBwYbRah) | [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Fatata](https://open.spotify.com/album/3pBMLWsNfFApr2pvoCbQJS) | 3:09 |
 | 36 | [BURN WITH YOU](https://open.spotify.com/track/6zCTWOe7N8vCbKB9ZA6KsM) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [BURN WITH YOU](https://open.spotify.com/album/6K2xkAntfy0HWXUG1ONpoY) | 2:54 |
 | 37 | [Illeg\*lis party](https://open.spotify.com/track/45D2eYiMaCKXGBIaDdepqV) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ILLEG\*LIS PARTYK](https://open.spotify.com/album/6uyJvmYnCoZ64sGKTAxD8B) | 2:38 |
-| 38 | [Come Get Dis](https://open.spotify.com/track/4iF65xGx3R3WJLAwr2HGrQ) | [Girls Don't Sync](https://open.spotify.com/artist/4SluGaQhJuMDsRRMf1PWKT) | [Come Get Dis](https://open.spotify.com/album/3HZwaISTcIUB8WFaRVZSfG) | 2:25 |
-| 39 | [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 |
+| 38 | [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 |
+| 39 | [Come Get Dis](https://open.spotify.com/track/4iF65xGx3R3WJLAwr2HGrQ) | [Girls Don't Sync](https://open.spotify.com/artist/4SluGaQhJuMDsRRMf1PWKT) | [Come Get Dis](https://open.spotify.com/album/3HZwaISTcIUB8WFaRVZSfG) | 2:25 |
 | 40 | [Járatlan](https://open.spotify.com/track/7gt3yKDsnuyD3klF0uOEXW) | [laurie.](https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [Járatlan](https://open.spotify.com/album/6ND8Ft1X16BRRQxGLpTtKY) | 3:16 |
 | 41 | [Pano Kato](https://open.spotify.com/track/0LeidYUXKWE1kKVp84EPXY) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Pano Kato](https://open.spotify.com/album/1TZi3G83QczW33yFdsSpJU) | 2:42 |
 | 42 | [The Flood](https://open.spotify.com/track/441D0QiPNeIe3OMeANF0Ll) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart? \(Deluxe\)](https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM) | 4:29 |
 | 43 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 |
-| 44 | [Deja Vu \- Facem Cum Vrei Tu](https://open.spotify.com/track/3jM74umuS30nF49vLRxiMV) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Deja Vu \(Facem Cum Vrei Tu\)](https://open.spotify.com/album/1ZFkRzfhA9ORsQAl60CVDB) | 2:47 |
-| 45 | [Multe veri](https://open.spotify.com/track/7gbRTMVWLOUrjvCwIcnliC) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Multe veri](https://open.spotify.com/album/0oYF0OXQAZLNYgmnATARR4) | 2:32 |
+| 44 | [Multe veri](https://open.spotify.com/track/7gbRTMVWLOUrjvCwIcnliC) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Multe veri](https://open.spotify.com/album/0oYF0OXQAZLNYgmnATARR4) | 2:32 |
+| 45 | [Deja Vu \- Facem Cum Vrei Tu](https://open.spotify.com/track/3jM74umuS30nF49vLRxiMV) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Deja Vu \(Facem Cum Vrei Tu\)](https://open.spotify.com/album/1ZFkRzfhA9ORsQAl60CVDB) | 2:47 |
 | 46 | [Pyar Ni Sarya](https://open.spotify.com/track/5JaGHHCV76DAgyLfo75GNy) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Pyar Ni Sarya](https://open.spotify.com/album/4IhUHMHvSoKOKnaleWpCAm) | 3:19 |
 | 47 | [Trao Về Anh](https://open.spotify.com/track/33hsLCLlUSzqdzIcc0WR5S) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Trao Về Anh](https://open.spotify.com/album/0iAmSHAb4YiO1muzyxP96Q) | 3:16 |
 | 48 | [Баштани](https://open.spotify.com/track/1ultuLDrrteVddIQe1GnwY) | [Maryna Krut](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z), [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe) | [Баштани](https://open.spotify.com/album/4GNX4WqQs3G7P7ZDexopow) | 3:10 |

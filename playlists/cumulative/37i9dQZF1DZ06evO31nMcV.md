@@ -4,7 +4,7 @@
 
 > This is Alexis Ffrench\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 4 min
+85 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Across the Ocean](https://open.spotify.com/track/3r053u3iVE5eLqiREndy4d) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Across the Ocean](https://open.spotify.com/album/1IQkVahRCbvFMsYoNWEXie) | 3:21 | 2025-08-10 | 2025-09-09 |
 | [Across the Ocean](https://open.spotify.com/track/4iw9MPEmiVIxfnySIB0Ua6) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Grace](https://open.spotify.com/album/5FZSyaYxEBdFETvg5i9BAH) | 3:21 | 2025-09-09 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/4sU45HF4D5m8Sal64CxTFo) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 0:54 | 2024-10-07 | 2024-10-13 |
-| [Awakening](https://open.spotify.com/track/6otr6vDkjx0vlEEJzbmjsa) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 2:09 | 2024-10-02 |  |
+| [Awakening](https://open.spotify.com/track/6otr6vDkjx0vlEEJzbmjsa) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 2:09 | 2024-10-02 | 2025-09-16 |
 | [Bluebird](https://open.spotify.com/track/1dWxSS2a93X4XVfs1mSYkB) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 3:24 | 2024-10-02 |  |
 | [Calmer Shores](https://open.spotify.com/track/2zI2ZijxaGuYvSXQk9RMN0) | [The Gagliano Strings](https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Stolen Lullabies](https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY) | 1:44 | 2024-10-02 | 2025-02-05 |
 | [Canyons](https://open.spotify.com/track/0g5CquaRz1JQZCBEesB8cw) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:52 | 2024-10-02 | 2025-04-19 |
@@ -50,6 +50,7 @@
 | [Killing Me Softly With His Song](https://open.spotify.com/track/1RaD3ilt4NTRHwJGvMy2L0) | [Norman Gimbel](https://open.spotify.com/artist/5Ixk3FBu30Vqyk61bjGuuM), [Charles Fox](https://open.spotify.com/artist/3XA4LLL4CW8h4VWRY1EVbB), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 1:03 | 2024-10-16 |  |
 | [Labyrinth](https://open.spotify.com/track/4w8N32GjuYFBUZh2Z7CQBK) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 3:58 | 2024-12-26 | 2025-08-24 |
 | [Last Song](https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Secret Piano](https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA) | 1:55 | 2024-10-02 |  |
+| [Last Trip Around the Sun](https://open.spotify.com/track/2X2bsPfqB3ih1iS8KSqU1c) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Last Trip Around the Sun](https://open.spotify.com/album/0VbwQNe0djQ6n5I1cKtPX8) | 2:46 | 2025-09-16 |  |
 | [Midnight Reverie](https://open.spotify.com/track/0dVL9nYiBF9ioCpq2oWR67) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1 \- The Solo Piano Collection](https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F) | 1:16 | 2025-04-16 |  |
 | [Midnight Reverie](https://open.spotify.com/track/7jJXXxrBFWJx7X5wEXPYsC) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Reverie \(Solo Piano Version\) & Midnight Reverie](https://open.spotify.com/album/1pmlr7X61B3YItvw6bTVEC) | 1:16 | 2025-02-23 | 2025-04-16 |
 | [Miracles](https://open.spotify.com/track/1YeIOEwRR1F7fYy4rqBYPs) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Memories](https://open.spotify.com/album/4vmESFAVyHzzBSzA6CjQMj) | 3:23 | 2024-10-02 |  |

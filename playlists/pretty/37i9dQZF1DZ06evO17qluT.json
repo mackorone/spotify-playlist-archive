@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 88394,
+  "num_followers": 88485,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAABenlDStEKC+5619kLmjLJL",
+  "snapshot_id": "aMYFgAAAAADFpbVew37l7FDYFZDZHtOo",
   "tracks": [
     {
       "added_at": null,
@@ -352,21 +352,13 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "FYE",
-          "url": "https://open.spotify.com/artist/6YT21JiusfFSCdZoBSb9Jp"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
         }
       ],
-      "duration_ms": 265311,
-      "name": "Te Devo Nada",
-      "url": "https://open.spotify.com/track/3XOjmBsIytUuXfqP73E1qK"
+      "duration_ms": 153898,
+      "name": "Am\u00e9m, Am\u00e9m",
+      "url": "https://open.spotify.com/track/6j5CVn4EjYJxbmPollJxQA"
     },
     {
       "added_at": null,
@@ -480,13 +472,21 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Paulo DK",
-          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
+          "name": "FYE",
+          "url": "https://open.spotify.com/artist/6YT21JiusfFSCdZoBSb9Jp"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
         }
       ],
-      "duration_ms": 153898,
-      "name": "Am\u00e9m, Am\u00e9m",
-      "url": "https://open.spotify.com/track/6j5CVn4EjYJxbmPollJxQA"
+      "duration_ms": 265311,
+      "name": "Te Devo Nada",
+      "url": "https://open.spotify.com/track/3XOjmBsIytUuXfqP73E1qK"
     },
     {
       "added_at": null,

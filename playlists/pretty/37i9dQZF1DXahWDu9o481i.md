@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,646 likes - 55 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,689 likes - 56 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 11 | [Pray Hard \(feat\. Luke Combs\)](https://open.spotify.com/track/6p6iLtRA7a93kXhkomJUPo) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 2:06 |
 | 12 | [Nice Shoes](https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Nice Shoes](https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl) | 3:15 |
 | 13 | [Connell](https://open.spotify.com/track/4hjsXIvXtLE4KCtIEZmuX7) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone](https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN) | 3:32 |
-| 14 | [Dust Bowl](https://open.spotify.com/track/7aamc4vRYmHLYI2aKTDjdJ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 6:26 |
-| 15 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 |
+| 14 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 |
+| 15 | [Dust Bowl](https://open.spotify.com/track/7aamc4vRYmHLYI2aKTDjdJ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 6:26 |
 | 16 | [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 |
 | 17 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 |
 | 18 | [Fragile](https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Fragile](https://open.spotify.com/album/7teyHwrVJgZjPgdIx5oHtE) | 3:22 |
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 34 | [PIKI](https://open.spotify.com/track/55ZZAOtvWkHrEFX10Zg0lP) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [PIKI](https://open.spotify.com/album/0Evi337rRbs0degCcRoTqQ) | 4:19 |
 | 35 | [SPACE INVADER](https://open.spotify.com/track/3fPW4EhpRR6BwLRPDThNeg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [SPACE INVADER](https://open.spotify.com/album/3eS4QBdis6TOHCqsoiYedL) | 4:34 |
 | 36 | [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:51 |
-| 37 | [SEE RIGHT THROUGH ME \(feat\. Kehlani\)](https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 4:16 |
-| 38 | [wASH U AWAY](https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 3:13 |
+| 37 | [wASH U AWAY](https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 3:13 |
+| 38 | [SEE RIGHT THROUGH ME \(feat\. Kehlani\)](https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 4:16 |
 | 39 | [START UP A RUMOUR](https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [START UP A RUMOUR](https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt) | 3:20 |
-| 40 | [Blushing](https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Blushing](https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus) | 4:07 |
-| 41 | [Deja Vu](https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [AFROROCKSTAR](https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG) | 2:56 |
+| 40 | [Deja Vu](https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [AFROROCKSTAR](https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG) | 2:56 |
+| 41 | [Blushing](https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Blushing](https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus) | 4:07 |
 | 42 | [Hey You](https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Hey You](https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2) | 3:31 |
 | 43 | [heartbeat](https://open.spotify.com/track/7LmCQaJpg5o76eF27GbGIe) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX) | 3:03 |
 | 44 | [But, I loved](https://open.spotify.com/track/2yopReiRBsaWcuCW4Ge5QZ) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [But, I loved](https://open.spotify.com/album/3TL74molXWcYuTcR2XOl1m) | 3:37 |
@@ -63,5 +63,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 53 | [400](https://open.spotify.com/track/5shWaE48zh8ZnXzJMMIkuu) | [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [Outlaw Mel](https://open.spotify.com/artist/6M8onNkzufIR7YlRAd8mmx) | [RHODA](https://open.spotify.com/album/28DffLzCo1BT9EVcJGDH7O) | 4:50 |
 | 54 | [Make It Right \- Acoustic](https://open.spotify.com/track/7i9u3HorlfNKlLNrgG0k7J) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/79dXpc0J7PolTmt2xaLIoq) | 3:18 |
 | 55 | [Pour for the Hour](https://open.spotify.com/track/4IM8Agsa5fDz7b2NqkQUkB) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [Caity Gyorgy with Strings](https://open.spotify.com/album/6PKpGrf9KnW8VlfTvFrg6A) | 2:57 |
+| 56 | [JUKE JOINT](https://open.spotify.com/track/08aUQKAxUArSG5lINFiRg9) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Jermaine Holmes](https://open.spotify.com/artist/0lUnNiG3pNrR90jbnBuLhT), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [JUKE JOINT](https://open.spotify.com/album/5n5XO4IkqQNK19PK4lnRRt) | 3:19 |
 
 Snapshot ID: `AAAAAFDgmYBePTo6+7v0DNkqFxlbFqsb`

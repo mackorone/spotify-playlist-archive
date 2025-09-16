@@ -1,6 +1,6 @@
 {
   "description": "Get the party going with these classics from across the decades.",
-  "num_followers": 908926,
+  "num_followers": 908997,
   "original_name": "Ultimate Party Classics",
   "owner": {
     "name": "Spotify",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "The Best of The Kingsmen",
-        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
-      },
-      "artists": [
-        {
-          "name": "The Kingsmen",
-          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
-        }
-      ],
-      "duration_ms": 165381,
-      "name": "Louie Louie",
-      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "Les Plus Grands Success De Chic - Chic's Greatest Hits",
         "url": "https://open.spotify.com/album/0VpPfXytCLshrjZFHKQHyc"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 215693,
       "name": "Le Freak - Edit",
       "url": "https://open.spotify.com/track/6Lphpr9Z6H282Sguw0dUWa"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "The Best of The Kingsmen",
+        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
+      },
+      "artists": [
+        {
+          "name": "The Kingsmen",
+          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
+        }
+      ],
+      "duration_ms": 165381,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
     }
   ],
   "unique_name": "Ultimate Party Classics",

@@ -5323,6 +5323,24 @@
     },
     {
       "album": {
+        "name": "Di Matamu",
+        "url": "https://open.spotify.com/album/521xA0pwxGzGgoSNAp0vZc"
+      },
+      "artists": [
+        {
+          "name": "Sufian Suhaimi",
+          "url": "https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247169,
+      "name": "Di Matamu",
+      "url": "https://open.spotify.com/track/5jAqkM00R41cm1Y2T0mGzb"
+    },
+    {
+      "album": {
         "name": "Siri Bintang Pujaan",
         "url": "https://open.spotify.com/album/3eYxXSU0FIRJvHlndU5OVx"
       },
@@ -7896,6 +7914,24 @@
       "duration_ms": 201707,
       "name": "Go Big or Go Home",
       "url": "https://open.spotify.com/track/6IqKFke4ZhKbGYULllEezY"
+    },
+    {
+      "album": {
+        "name": "COLOR OUTSIDE THE LINES",
+        "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc"
     },
     {
       "album": {
@@ -16624,7 +16660,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 287071,
       "name": "Rahsia Tuhan",
       "url": "https://open.spotify.com/track/0FYnBVsruGEFIBRI3a4Vmz"
@@ -16920,7 +16956,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 265406,
       "name": "Reminisensi",
       "url": "https://open.spotify.com/track/0TRKtVvsVmOkXCvnq5AgNE"

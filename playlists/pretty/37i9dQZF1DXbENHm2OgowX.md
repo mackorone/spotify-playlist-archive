@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,628 likes - 69 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,955 likes - 69 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 40 | [Full Moon](https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1) | [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX), [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Full Moon](https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN) | 4:22 |
 | 41 | [its never enough](https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l) | [les](https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi) | [its never enough](https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE) | 1:38 |
 | 42 | [a mother's daughter](https://open.spotify.com/track/5J0vNzIHn2ruZ8wPEAfdPN) | [Mieke](https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4) | [a mother's daughter](https://open.spotify.com/album/4fpCCi45NumQGmKMBSIWsS) | 2:48 |
-| 43 | [Under The Bed](https://open.spotify.com/track/3dUqKqvdBv7TUm0jnAoYRV) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Under The Bed](https://open.spotify.com/album/7pbDEcOijM3A5aMX79aMMp) | 9:54 |
-| 44 | [Ataraxia](https://open.spotify.com/track/0HICmyLJANMaAjSMSqEZUj) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [You Are Here / Ataraxia](https://open.spotify.com/album/5jvrvQ02mWbzd5rEshxbFQ) | 3:19 |
+| 43 | [Ataraxia](https://open.spotify.com/track/0HICmyLJANMaAjSMSqEZUj) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [You Are Here / Ataraxia](https://open.spotify.com/album/5jvrvQ02mWbzd5rEshxbFQ) | 3:19 |
+| 44 | [Under The Bed](https://open.spotify.com/track/3dUqKqvdBv7TUm0jnAoYRV) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Under The Bed](https://open.spotify.com/album/7pbDEcOijM3A5aMX79aMMp) | 9:54 |
 | 45 | [Asleep On The Wing \- Pt\. 4](https://open.spotify.com/track/2wXwA6gCdTimBspq5iK8yn) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Freya Goldmark](https://open.spotify.com/artist/3JlsLQ4654rWTZKRqoWhr1) | [Asleep On The Wing](https://open.spotify.com/album/56JFpqspbL1N6aBQBXwk0k) | 3:40 |
 | 46 | [A Place To Sleep](https://open.spotify.com/track/3IRjaJfl3lNubGbRGXL7et) | [air hunger](https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0) | [A Place To Sleep](https://open.spotify.com/album/7wfuhwQqnIm5ojXsAxfV48) | 6:38 |
 | 47 | [The Dead Flag Blues](https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [F♯ A♯ ∞](https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5) | 16:27 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 51 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
 | 52 | [fly high](https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp) | [ambit.](https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB) | [fly high](https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3) | 1:47 |
 | 53 | [haunted, but it's ambient](https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [haunted, but it's ambient](https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl) | 2:16 |
-| 54 | [cry \- Slowed](https://open.spotify.com/track/3mMI0ZM6VM2qmWb75kbgzY) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Kol](https://open.spotify.com/artist/0U6V8CeBBv9tQPBLBCircp) | [cry](https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I) | 2:26 |
-| 55 | [4AM ambient version](https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0) | [Late Era](https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN) | [4AM ambient version](https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn) | 1:52 |
+| 54 | [4AM ambient version](https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0) | [Late Era](https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN) | [4AM ambient version](https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn) | 1:52 |
+| 55 | [cry \- Slowed](https://open.spotify.com/track/3mMI0ZM6VM2qmWb75kbgzY) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Kol](https://open.spotify.com/artist/0U6V8CeBBv9tQPBLBCircp) | [cry](https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I) | 2:26 |
 | 56 | [Matèl](https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [Matèl \(original motion picture soundtrack\)](https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT) | 3:24 |
 | 57 | [Dance of Seasons](https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Dance of Seasons](https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr) | 7:02 |
 | 58 | [Bardo Landscape](https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e) | [Alicia Enstrom](https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa) | [Bardo Landscape](https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f) | 3:23 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 64 | [Maple Seed](https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5) | [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Eidetic](https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI) | 2:21 |
 | 65 | [The Promise of Snakes](https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D) | [The Angelic Process](https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W) | [Weighing Souls With Sand](https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl) | 9:32 |
 | 66 | [Spectral](https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 8:09 |
-| 67 | [where is life?](https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [where is life?](https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP) | 2:07 |
-| 68 | [skies](https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH), [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [skies](https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw) | 2:09 |
+| 67 | [skies](https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH), [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [skies](https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw) | 2:09 |
+| 68 | [where is life?](https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [where is life?](https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP) | 2:07 |
 | 69 | [And They Will Fall](https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG) | [Nik Sudan](https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD) | [And They Will Fall](https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk) | 4:01 |
 
 Snapshot ID: `AAAAANADEUwIsiaOXfMm9BESpEdv6F/P`

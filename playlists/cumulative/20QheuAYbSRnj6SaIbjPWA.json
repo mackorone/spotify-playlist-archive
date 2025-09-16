@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Failure",
+        "url": "https://open.spotify.com/album/3Fb7UeC7wyXOsoSjAwQdMV"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280600,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/60NdsqyuYa6QSeEJEbHKfP"
+    },
+    {
+      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },

@@ -4,7 +4,7 @@
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-101 songs - 5 hr 44 min
+102 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Dead Body](https://open.spotify.com/track/0QWDfiuaV7W20y86RGtREF) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 3:52 | 2022-10-29 | 2022-12-14 |
 | [Deranged](https://open.spotify.com/track/5YGWNm8j6U2C3xrfj9qgS0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Blank Canvas](https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu) | 3:07 | 2022-10-28 | 2022-12-14 |
 | [Domodachi \(feat\. Little Simz\)](https://open.spotify.com/track/4MQBnk52HKbl59BX497xhM) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:04 | 2024-05-26 |  |
+| [Don't Leave Too Soon](https://open.spotify.com/track/7HrXqBIvMg99q49IC0mLHl) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Don't Leave Too Soon \(From the Netflix Film 'Steve'\)](https://open.spotify.com/album/4VVroj6CaFvnbQ5fvTEmQj) | 3:38 | 2025-09-16 |  |
 | [Enough](https://open.spotify.com/track/1HmK8lrO7XCaMEn0CWbDWB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 3:02 | 2025-06-08 | 2025-06-30 |
 | [Far Away](https://open.spotify.com/track/7p6ru2D2smv8ga7f06JkTo) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 3:07 | 2024-02-10 |  |
 | [Fever](https://open.spotify.com/track/0ADr2jDuHvK77uIJWTKTvs) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 1:27 | 2024-02-10 |  |

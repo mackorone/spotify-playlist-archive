@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Featuring, Babyface Ray, Ski Mask The Slump God, XXXTENTACION &amp; Rio Da Yung Og.
 
-181 songs - 8 hr 3 min
+184 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [AR \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4PlgNSQcOWM2wjb11eREvB) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Legend](https://open.spotify.com/album/1ZTCGhCvCLoDdU1ndwX7Kp) | 3:16 | 2024-06-01 |  |
 | [back it up](https://open.spotify.com/track/11H4HMp6cbBmq1jX2XIRFU) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [back it up](https://open.spotify.com/album/79NlxG2zasYDYcIBFVA7rq) | 2:12 | 2023-12-01 | 2025-03-05 |
 | [bad](https://open.spotify.com/track/3hGZtt2x9bI55HgxdSrCam) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [bad](https://open.spotify.com/album/10PpQ78gSUR9qTJZacpqmF) | 2:25 | 2025-02-24 |  |
+| [BADA BING](https://open.spotify.com/track/5W3pJgN9xbIRMO1SPCOHkC) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Kreature Muzik](https://open.spotify.com/album/3KPnccCnCb3algnpQHTyYC) | 3:04 | 2025-09-15 |  |
 | [Ballin](https://open.spotify.com/track/4QQD6R9X6YQiOyTjM8s2LG) | [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i), [Lil Pete](https://open.spotify.com/artist/5ULJ18n8PZ9rJv5kYsZByV) | [Ballin](https://open.spotify.com/album/54cGEE6imDqUBIE2q6DE7d) | 2:18 | 2025-03-04 |  |
 | [BBL \(feat\. Rob49\)](https://open.spotify.com/track/6RKaL2SJRb7OPDhApNa2Bc) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [BBL \(feat\. Rob49\)](https://open.spotify.com/album/6WF6Fl2wDrxWIe9AGkMBbW) | 2:26 | 2024-12-09 |  |
 | [BBY GOAT](https://open.spotify.com/track/4KcEwOdMjfKDsroYVy6mnp) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [GEMINI!](https://open.spotify.com/album/1oocvwkq7m9gmJma0SceUi) | 4:10 | 2024-06-14 | 2025-02-01 |
@@ -111,6 +112,7 @@
 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 | 2023-06-23 | 2024-01-20 |
 | [Let's Go](https://open.spotify.com/track/76TJAFvcsT53qPU0bAR4an) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Let's Go](https://open.spotify.com/album/4D0xJxkAhrO1mFJBDR0UQO) | 2:20 | 2024-01-19 | 2024-04-25 |
 | [Let's Go \- Remix](https://open.spotify.com/track/55i5Hdv7VkcQtXCn1zyvKg) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Let's Go \(Remix\)](https://open.spotify.com/album/1Ecv7ghGqYhfdQzYZnOgG2) | 2:19 | 2024-04-24 |  |
+| [Let's Talk About It](https://open.spotify.com/track/3CqKtcxQ9JsXkJFvifxV5B) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Let's Talk About It](https://open.spotify.com/album/71VHehXnjoRuQ4jqxhtkL7) | 3:37 | 2025-09-15 |  |
 | [Life Is Beautiful](https://open.spotify.com/track/6hh74g3EXXM8dF1Boamcyn) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:06 | 2025-07-24 |  |
 | [Light It Up](https://open.spotify.com/track/4WqqEI17dnY2UhKrckXyfc) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Light It Up](https://open.spotify.com/album/4l8OSFStfoqtKozWoaOmpO) | 2:15 | 2025-07-11 | 2025-07-16 |
 | [MADE BY RICH GOD](https://open.spotify.com/track/24Qa5EPrnrbvHoiEfbzf02) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [MADE BY RICH GOD](https://open.spotify.com/album/5S9y8ypcsF1gncyr6fQ1mJ) | 1:54 | 2024-06-01 | 2025-02-01 |
@@ -120,6 +122,7 @@
 | [Money](https://open.spotify.com/track/44AJ0XazpwYbC3NsFmio43) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Money](https://open.spotify.com/album/3xhqZBrWW0aScPnvwEOLdq) | 2:11 | 2023-09-08 | 2025-02-01 |
 | [Netflix & Chill](https://open.spotify.com/track/6XRgm5ugonEcPhwKqCTiQa) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Netflix & Chill](https://open.spotify.com/album/2RqOufNzPUbK79GrGdUrnm) | 3:46 | 2025-07-15 | 2025-08-19 |
 | [No Amiris](https://open.spotify.com/track/3rHmxbNUs7TRTu1Bc2a1BC) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [No Amiris](https://open.spotify.com/album/3FFSDtqSY0PzK0f5aHBTFi) | 2:26 | 2023-08-28 | 2025-02-01 |
+| [Nobody But Us](https://open.spotify.com/track/0FHb0FsvH71rigM3vuaOLs) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Nobody But Us](https://open.spotify.com/album/0o9R9YUhYDJgnGOHaWfwO9) | 3:14 | 2025-09-15 |  |
 | [NOT THE SAME \- from the Short Film "Red Clay"](https://open.spotify.com/track/5YELnX75GMz61JEwW0uhTr) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [NOT THE SAME \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/0fhRq9JoZ8HCkQpgibTVio) | 4:31 | 2025-07-07 | 2025-07-31 |
 | [OFF\-RAP](https://open.spotify.com/track/5ZVEybUCvawEzpYz8ovuQw) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [RIO FREE](https://open.spotify.com/album/6tXw2H5kdm0H681vd8M2uV) | 2:46 | 2025-01-10 | 2025-03-05 |
 | [On The Low](https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [On The Low](https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S) | 2:30 | 2025-08-04 |  |

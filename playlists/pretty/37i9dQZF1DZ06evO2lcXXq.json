@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 367159,
+  "num_followers": 367176,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAA4PYjI7GFlueBHNDoAkWqa",
+  "snapshot_id": "aMYFgAAAAAA6u+MoNCJbbjlPXFHl+p64",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Light of the World",
-        "url": "https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 259720,
-      "name": "Light of the World",
-      "url": "https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back To God",
         "url": "https://open.spotify.com/album/3bv8C2TkfaU1hhqu7E1OUl"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 243013,
       "name": "Back To God",
       "url": "https://open.spotify.com/track/17na7DhhBLsajSS7Vb38Fe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Light of the World",
+        "url": "https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 259720,
+      "name": "Light of the World",
+      "url": "https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18"
     },
     {
       "added_at": null,

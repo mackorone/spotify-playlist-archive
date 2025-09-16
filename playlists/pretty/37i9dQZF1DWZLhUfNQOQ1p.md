@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un drink in mano 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,046 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,032 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 47 | [Instant Need](https://open.spotify.com/track/6obKvh06VvBZP98oqU6YR7) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Time for a Change](https://open.spotify.com/album/5NPQ3KFdwLrZKuOebTAIzb) | 4:30 |
 | 48 | [Cheer Up, My Brother](https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 5:05 |
 | 49 | [Feel Good](https://open.spotify.com/track/2UkX27EXS59qpKUXrMTZlK) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC) | 4:00 |
-| 50 | [Praja Magia](https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS) | 3:20 |
-| 51 | [Eple](https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Melody A.M.](https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0) | 3:38 |
+| 50 | [Eple](https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Melody A.M.](https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0) | 3:38 |
+| 51 | [Praja Magia](https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS) | 3:20 |
 | 52 | [Il Sogno \- House Mix](https://open.spotify.com/track/4dR5z9BXbCWYeicagTa93o) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatronic](https://open.spotify.com/album/0y0WuBWXMPAFcdfl3ohav7) | 2:41 |
 | 53 | [Várias Queixas \- Radio Edit](https://open.spotify.com/track/7wjaRyfALrdFBJnuJeACy2) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Várias Queixas \(Radio Edit\)](https://open.spotify.com/album/32STej6H2qql7VD4uwt8Vz) | 2:35 |
 | 54 | [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh) | 4:45 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 74 | [Nothing Better Than Music](https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Nothing Better Than Music](https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3) | 2:35 |
 | 75 | [Coroa](https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum) | [Coroa](https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a) | 2:16 |
 | 76 | [Maitri](https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Maitri](https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX) | 2:57 |
-| 77 | [Buschtaxi](https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Buschtaxi](https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih) | 8:36 |
-| 78 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 |
-| 79 | [Since I Left You](https://open.spotify.com/track/2DgFCys3XMrWZDngu1CrRy) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Since I Left You](https://open.spotify.com/album/0CvU96jYCiNP4c9u8dWHoI) | 4:22 |
+| 77 | [Since I Left You](https://open.spotify.com/track/2DgFCys3XMrWZDngu1CrRy) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Since I Left You](https://open.spotify.com/album/0CvU96jYCiNP4c9u8dWHoI) | 4:22 |
+| 78 | [Buschtaxi](https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Buschtaxi](https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih) | 8:36 |
+| 79 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 |
 | 80 | [So Nice To Be In Love](https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [So Nice To Be In Love](https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW) | 2:34 |
 | 81 | [Pollen](https://open.spotify.com/track/0uqlh0c9vOJMyUNC9LHPSC) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Pollen](https://open.spotify.com/album/1YMTFJDxykCBo0dTMELAHv) | 2:00 |
 | 82 | [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 |

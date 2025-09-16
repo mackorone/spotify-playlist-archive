@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > where future beats meet timeless soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,359 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,377 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 37 | [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 |
 | 38 | [So Nice To Be In Love](https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [So Nice To Be In Love](https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW) | 2:34 |
 | 39 | [Been A Minute...](https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Been A Minute...](https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub) | 3:09 |
-| 40 | [Yours](https://open.spotify.com/track/0WBooGsMy4knzz3BXDhhUU) | [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Yours](https://open.spotify.com/album/7JleoVOaThYKwBnA8rm9Y3) | 2:58 |
+| 40 | [Impact \(feat\. Robyn & Channel Tres\)](https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:44 |
 | 41 | [Still \(feat\. Charlotte Day Wilson\)](https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:14 |
-| 42 | [Impact \(feat\. Robyn & Channel Tres\)](https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:44 |
+| 42 | [Yours](https://open.spotify.com/track/0WBooGsMy4knzz3BXDhhUU) | [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Yours](https://open.spotify.com/album/7JleoVOaThYKwBnA8rm9Y3) | 2:58 |
 | 43 | [Promises](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 |
 | 44 | [Unconditional feat\. Rationale \- Girls of the Internet Remix](https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Unconditional feat\. Rationale \(Girls of the Internet Remix\)](https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF) | 3:50 |
 | 45 | [Skin to Skin](https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH), [Kaisha](https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe) | [Skin to Skin](https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS) | 3:45 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [ILLUSIONS Pt\. II](https://open.spotify.com/track/6ro3scqAcujWPUd13k590j) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [ILLUSIONS Pt\. II](https://open.spotify.com/album/2oRN202MZsHOTJacPOYeZv) | 3:03 |
 | 70 | [I Do](https://open.spotify.com/track/15aMiMUQgoy2a43ov9Cqnp) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [I Do](https://open.spotify.com/album/2okzARk2QDGDKlFoQOjEJA) | 2:10 |
 
-Snapshot ID: `AAAAAHwDQYSDaswnRCnZ0AIk2qA7rCG/`
+Snapshot ID: `AAAAABjqf0RxFQe5PzfIqhiP/8fTQFFo`

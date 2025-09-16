@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Dante Bowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,675 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,722 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 61 | [Mighty Good](https://open.spotify.com/track/4nIJcdjVVQNJC5loKZsvfJ) | [Cru Alxndr](https://open.spotify.com/artist/1nExCVqTaxTCoGW4aJ4ZI2), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [ANTHNY](https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5) | [Mighty Good](https://open.spotify.com/album/4LfzhIBpiVFXVJqPYgQox0) | 3:39 |
 | 62 | [Just Wait](https://open.spotify.com/track/2qOa65FUnswmASEOUYH5Md) | [Frankie Taylor](https://open.spotify.com/artist/6ZCnFIxKGRkycYEnh87ZfL), [Xavier Campbell](https://open.spotify.com/artist/2vkjExCubHTppeNUT9re9m) | [Just Wait](https://open.spotify.com/album/7xL4QnvTljOVNaXW2z2p5Q) | 7:30 |
 | 63 | [When I Think \- Radio Edit / Live](https://open.spotify.com/track/4AoH3vZnIqEFVzNe5PPOS0) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [When I Think \(Radio Edit / Live\)](https://open.spotify.com/album/4bWTwHmi9rwMhNxXdZYp9Q) | 3:55 |
-| 64 | [Church Medley \(Live\) \- Radio Edit](https://open.spotify.com/track/2JWTExefYFxgHpfZUKsYEF) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Church Medley \(Live\)](https://open.spotify.com/album/54L4Vr1hsPtF91lc785XzS) | 3:37 |
+| 64 | [Church Medley \(feat\. Tallie Rodgers\) \[Live\] \- Radio Edit](https://open.spotify.com/track/2JWTExefYFxgHpfZUKsYEF) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [Tallie Rodgers](https://open.spotify.com/artist/1ssKXK14z2hlhg7mRUGsBg) | [Church Medley \(feat\. Tallie Rodgers\) \[Live\]](https://open.spotify.com/album/54L4Vr1hsPtF91lc785XzS) | 3:37 |
 | 65 | [Praise In The Choir Stand](https://open.spotify.com/track/5vB2yHQb9EjlCxp3l4dHPe) | [Brent Jones](https://open.spotify.com/artist/2b9paaAwb2Xd3iR1LSnCDN) | [Praise In The Choir Stand](https://open.spotify.com/album/2T9POeuaMqR8WIvhquPasa) | 3:58 |
 | 66 | [Run On](https://open.spotify.com/track/3CR90fLq3ntjMa851TbbLz) | [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [Love Is The Only Key](https://open.spotify.com/album/01WIXAl5rM4crlxNduptr8) | 3:26 |
 | 67 | [Church Doors](https://open.spotify.com/track/3upatkQjhcIYrHfgfYdGIr) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Church Doors](https://open.spotify.com/album/6F8YVUwY5RASpzkAryBVns) | 2:47 |

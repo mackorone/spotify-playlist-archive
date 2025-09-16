@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Caskets
 
-1,336 songs - 3 day 9 hr 42 min
+1,337 songs - 3 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Break The Habit](https://open.spotify.com/track/5jl8iC4QC8GFFUR0Uae1tN) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [I Run With Wolves](https://open.spotify.com/album/68FghP1QWbbmmmVcIKYKNM) | 3:01 | 2022-05-06 | 2022-08-20 |
 | [Break The Rules](https://open.spotify.com/track/1EvMSw0fUb3mlcIBqwQvLI) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Break The Rules](https://open.spotify.com/album/2pnNHGrnVLgTHgr46uv0fB) | 3:21 | 2024-05-10 | 2024-08-13 |
 | [Break The Silence](https://open.spotify.com/track/6abtzJMSDIosKqVe8KUToF) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN) | [Break The Silence](https://open.spotify.com/album/2YefdDltPsBbG4eHT0jVnv) | 3:27 | 2022-02-11 | 2022-07-23 |
+| [Break Through the Surface](https://open.spotify.com/track/6dGR23JyiwXLGL2JMQLxZH) | [Dal Av](https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri), [Renesans](https://open.spotify.com/artist/7KCdElfDqnvhKYAWOyPGSr) | [Break Through the Surface](https://open.spotify.com/album/1MB3h7FxSqORVK421hB5pL) | 2:35 | 2025-09-12 |  |
 | [Breaking Down](https://open.spotify.com/track/67nn2MMxKZkdwOM7G2GFwW) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Breaking Down](https://open.spotify.com/album/6gAjcWzMx6L3LbnnQKTxLR) | 3:37 | 2022-01-21 | 2022-04-29 |
 | [Breaking Point](https://open.spotify.com/track/4Us3BHNRNRVlJFtDd1e5xA) | [Lockjaw](https://open.spotify.com/artist/1CFA76fcB5Ieqc0vUWWab4) | [Breaking Point](https://open.spotify.com/album/0W8BIHCskTZcmkrvVEgjfK) | 3:35 | 2022-05-13 | 2022-08-20 |
 | [Breaking Teeth](https://open.spotify.com/track/3HWyHrobRg5FYzGS0oP5FV) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Breaking Teeth](https://open.spotify.com/album/2KONHMjnO0RbxX997M2eEg) | 2:33 | 2023-09-29 | 2023-10-28 |
@@ -414,7 +415,7 @@
 | [Empty, Like Me.](https://open.spotify.com/track/1oaRm4ubgYTSlDNM0xGbgR) | [Grieve](https://open.spotify.com/artist/6DAXLVtNvEBAy0ncBuaQGv), [Joshua Roberts](https://open.spotify.com/artist/5KrUtVY5gE9p9U52TT42rR) | [Empty, Like Me.](https://open.spotify.com/album/0wKIiZrKsOPxqhRxvlWcQ0) | 4:24 | 2023-02-17 | 2023-05-27 |
 | [End Of Existence](https://open.spotify.com/track/07L1zD6CCZTaYKnbJn7O2q) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [End Of Existence](https://open.spotify.com/album/5NyRa9KtYkqAHxdy9j5l7L) | 4:00 | 2022-07-13 | 2022-07-23 |
 | [Ending Scene](https://open.spotify.com/track/2luOKihLKUYMHF4IUB4Ash) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Ending Scene](https://open.spotify.com/album/7JQXb7Ik9o29agL6SgKIWr) | 2:45 | 2025-04-25 | 2025-07-03 |
-| [Endless Hollow](https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Endless Hollow](https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp) | 3:50 | 2024-02-09 |  |
+| [Endless Hollow](https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Endless Hollow](https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp) | 3:50 | 2024-02-09 | 2025-09-16 |
 | [Enemy](https://open.spotify.com/track/2sjE0P1Qtnhx8cIMyTynic) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Enemy](https://open.spotify.com/album/7hv2IVfILbMAbhMAr3fK9v) | 4:08 | 2022-07-13 | 2022-07-23 |
 | [Enough](https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0), [Will King](https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM) | [Enough](https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk) | 2:49 | 2022-07-08 | 2022-10-12 |
 | [Ephemera](https://open.spotify.com/track/66KrJv7ojHwRqEmLYvVz3M) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [Ephemera](https://open.spotify.com/album/2riawsNAqL40MjgRobtXP8) | 3:09 | 2024-11-22 | 2024-12-19 |

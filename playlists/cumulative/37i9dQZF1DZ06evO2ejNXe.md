@@ -4,7 +4,7 @@
 
 > This is Banda Zarape\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 7 min
+73 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Hombre Muerto](https://open.spotify.com/track/742APDKD9jvXTZ4otjooQG) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Coleccion Suprema Plus\- Banda Zarape](https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal) | 3:42 | 2022-06-01 |  |
 | [La Bomba Caliente](https://open.spotify.com/track/0dycKlw9ncvadhn0RuEizp) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:07 | 2024-05-18 |  |
 | [La Chica Se Mueve Bien](https://open.spotify.com/track/73g8SmEP2ACdxwzdJVLYwA) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 3:08 | 2022-06-01 | 2022-10-13 |
-| [La Crisis](https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:00 | 2022-06-01 |  |
+| [La Crisis](https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:00 | 2022-06-01 | 2025-09-16 |
 | [La Gloria](https://open.spotify.com/track/1kYPGM806I2hx95bQw11GF) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:27 | 2022-07-14 |  |
 | [La Gloria](https://open.spotify.com/track/0xxWVVr3D85JT28d8YZ9gd) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Coleccion Suprema Plus\- Banda Zarape](https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal) | 3:27 | 2022-06-01 | 2024-01-16 |
 | [LA GORDA](https://open.spotify.com/track/0G9moVihw52g3agFXan7Mu) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [LA GORDA](https://open.spotify.com/album/26sbSnTr3SZ9gU2auO78Ha) | 3:26 | 2025-09-09 |  |
@@ -70,6 +70,7 @@
 | [Que Esto Que Lo Otro](https://open.spotify.com/track/5NwNMxpq58Sg2aKCCHJy0o) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 3:32 | 2022-06-01 |  |
 | [Rico Ritmo](https://open.spotify.com/track/1jHMIjqGdJrWH3FrpevfUR) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 3:45 | 2022-06-01 |  |
 | [Ritmo Caliente](https://open.spotify.com/track/0JMPuoi9vvGyWrPm9f8j3V) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 2:43 | 2022-06-01 |  |
+| [SE BAILA ASÍ](https://open.spotify.com/track/4RXFQefdpwxYX26z95SjFm) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [SE BAILA ASÍ](https://open.spotify.com/album/1p14Am9g2XTlsaAJzCUP5z) | 3:20 | 2025-09-16 |  |
 | [Sombrero, Zarape Y Guitarra](https://open.spotify.com/track/0edkBaaZC5FYtLiPP0Oh4X) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 3:06 | 2022-06-01 |  |
 | [Subete A Mi Moto](https://open.spotify.com/track/7nkvn87viPCecOuKkWI23d) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 2:52 | 2023-11-10 |  |
 | [Traigo Perdida La Fe](https://open.spotify.com/track/5TsdOfR6VDCLZojKa7GFvH) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 2:58 | 2022-06-02 | 2022-08-07 |

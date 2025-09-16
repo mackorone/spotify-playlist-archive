@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Skales
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,673 likes - 49 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,766 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 45 | [BADMAN](https://open.spotify.com/track/5oE6syeoM6d6PKxrFihfGu) | [MILES MD](https://open.spotify.com/artist/7hc080bB5mFOJAGusQ0cBc), [Liim’s](https://open.spotify.com/artist/2XpsF0ZQfBV08auUoRnNJE) | [BADMAN](https://open.spotify.com/album/4ZcZKWCZZfYKkp17LyIa5z) | 2:49 |
 | 46 | [Gyal Over There \(feat\. Konshens\)](https://open.spotify.com/track/1xPu1puL75DBJpPoPBEd3y) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Gyal Over There \(feat\. Konshens\)](https://open.spotify.com/album/3yVjMMiFyBPW7ObzYrdEEW) | 3:01 |
 | 47 | [On The Low](https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [On The Low](https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S) | 2:30 |
-| 48 | [Terrou\-Bi](https://open.spotify.com/track/5WIxPUyr1aXo0vaMzJuYDQ) | [Barack Adama](https://open.spotify.com/artist/5nzb4lFHogGWcsd9njLT0M), [Iss 814](https://open.spotify.com/artist/5jjWuqXWea7SmWxUpEWC22) | [Terrou\-Bi](https://open.spotify.com/album/4gBWh8qRUimFfuZfuMHtVE) | 2:22 |
-| 49 | [HEAT](https://open.spotify.com/track/2thpkCc0YtkCVn88jou50k) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [HEAT](https://open.spotify.com/album/10AAcdwwkQWzJMPTBhrEb2) | 2:20 |
+| 48 | [HEAT](https://open.spotify.com/track/2thpkCc0YtkCVn88jou50k) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [HEAT](https://open.spotify.com/album/10AAcdwwkQWzJMPTBhrEb2) | 2:20 |
 
-Snapshot ID: `AAAAAFfM2Tf58R63/tC//h8IupF9bYA+`
+Snapshot ID: `AAAAABlBSwRrKiV0RiH0wIbVCQP37Q/L`

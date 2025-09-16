@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,115 songs - 2 day 8 hr 49 min
+1,117 songs - 2 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,6 +688,7 @@
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-06-27 | 2024-07-05 |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-07 | 2025-01-17 |
 | [Nikotin](https://open.spotify.com/track/0qVKU22hpc7ZOywN52xBN9) | [NOVELLEN](https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r) | [Nikotin](https://open.spotify.com/album/7yOidN6Z2RZzZIhLPZrY2T) | 3:14 | 2024-12-12 | 2025-02-07 |
+| [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2025-09-15 |  |
 | [No Broke Boys](https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quantum Baby](https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ) | 2:12 | 2024-08-15 | 2024-09-13 |
 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 | 2024-09-13 | 2024-10-11 |
 | [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 | 2024-08-15 | 2024-09-13 |
@@ -906,6 +907,7 @@
 | [Stuck Cat](https://open.spotify.com/track/17FtZbDIv4cwjULKgPIMyr) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Stuck Cat](https://open.spotify.com/album/0S5MNLgZE7impVo3pcvHEV) | 3:16 | 2025-03-13 | 2025-04-18 |
 | [Stuck On Us](https://open.spotify.com/track/3jbz8nNa7dM3flDi2thhX1) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Stuck On Us](https://open.spotify.com/album/2pbCyrVoOx9JosWEd0sRcD) | 2:55 | 2025-07-28 |  |
 | [Stupid Dumb](https://open.spotify.com/track/6RFvRQfwSV5kvF9NodnZnb) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Stupid Dumb](https://open.spotify.com/album/0fJZgO2wJlvVXalnpdoc9i) | 2:44 | 2024-10-10 | 2024-11-23 |
+| [Störd](https://open.spotify.com/track/2IgrHNArmP0qRKbQ5UVeVB) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Störd](https://open.spotify.com/album/4A7EjZFyWeH1fobQTj1UmV) | 2:53 | 2025-09-15 |  |
 | [Suburbs](https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Suburbs](https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9) | 3:04 | 2025-07-10 | 2025-09-05 |
 | [Suddiga tankar](https://open.spotify.com/track/4WUgzuDPuG37Fcm8sx0hdU) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Suddiga tankar](https://open.spotify.com/album/51iXYtZyNGHWc9HXx9vZjR) | 3:28 | 2025-05-22 | 2025-07-11 |
 | [Sue me](https://open.spotify.com/track/6ah4mee54hPyycKICthl5B) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Sue me](https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq) | 2:50 | 2025-06-23 | 2025-08-15 |

@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: Kimmy gone\)
 
-258 songs - 14 hr 42 min
+259 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Dive in Love \(Miami Nights 1984 Remix\)](https://open.spotify.com/track/26xz5aqtwl9CMBcN5gHToU) | [Taeha](https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw), [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20) | [City Lights \(The Mini Album\)](https://open.spotify.com/album/3fCyde4soVFdmuQTMFTKkL) | 4:25 | 2024-08-05 | 2024-08-11 |
 | [Do It Like That \(Alan Walker Remix\)](https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Do It Like That \(Alan Walker Remix\)](https://open.spotify.com/album/5KSss6H6yvZIpYG2MNpVR7) | 2:19 | 2024-06-28 |  |
 | [Don't Call Me \- ESAI Remix](https://open.spotify.com/track/0IOwemmG89kd7zavZz6bvS) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR), [ESAI](https://open.spotify.com/artist/1mv8s2gObjHHdnlSGVW1pE) | [iScreaM Vol.7 : Don't Call Me Remixes](https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik) | 3:01 | 2024-04-05 | 2024-06-29 |
-| [Don't Call Me \- Fox Stevenson Remix](https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR), [Fox Stevenso](https://open.spotify.com/artist/3msitL77yg0GifOf5jvd23), [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [iScreaM Vol.7 : Don't Call Me Remixes](https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik) | 3:23 | 2024-04-05 |  |
+| [Don't Call Me \- Fox Stevenson Remix](https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR), [Fox Stevenso](https://open.spotify.com/artist/3msitL77yg0GifOf5jvd23), [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [iScreaM Vol.7 : Don't Call Me Remixes](https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik) | 3:23 | 2024-04-05 | 2025-09-16 |
 | [Down Low](https://open.spotify.com/track/7uHs6HMb42GyRZ5WVsY6Ra) | [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id), [Oing](https://open.spotify.com/artist/2u5jpW3Xbb26uME8g5ixiB) | [Down Low](https://open.spotify.com/album/2vrXkjvERniroEr8z178xX) | 2:16 | 2024-04-05 | 2024-06-29 |
 | [DOWNFALL](https://open.spotify.com/track/3B6FXHASndfG4AymIFJVIV) | [Choi jin soul](https://open.spotify.com/artist/52m9oodSHzgqZPhKucw0al) | [DOWNFALL](https://open.spotify.com/album/76u6XROCDq6ruK7x5Z4DRt) | 2:47 | 2024-07-16 | 2024-08-11 |
 | [DRIFT](https://open.spotify.com/track/0e5xZ1b1Ol2sSSvDvihh9U) | [DPR CREAM](https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw), [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ) | [NO DRUGS](https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M) | 2:26 | 2025-05-13 |  |
@@ -143,6 +143,7 @@
 | [Like Crazy \(Deep House Remix\)](https://open.spotify.com/track/6D90VTeGEWYX5AkAtjHZh1) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Like Crazy \(Remixes\)](https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2) | 3:00 | 2024-06-28 |  |
 | [like JENNIE \(Peggy Gou Remix\)](https://open.spotify.com/track/3Tt5ueVmqidjOOQvdEJ9Fy) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [like JENNIE \(Peggy Gou Remix\)](https://open.spotify.com/album/4AqYxQUuZk29apyPYt9aA8) | 3:28 | 2025-07-22 |  |
 | [LIMBO](https://open.spotify.com/track/6vwd7vtUupbyZGQIn1AsWU) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [SAINT](https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc) | 2:53 | 2024-06-07 |  |
+| [LIPSTICK'S GONE](https://open.spotify.com/track/4b3gDRpiFMdHkm84AADIv3) | [Kimmy gone](https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB) | [BLUSH](https://open.spotify.com/album/7sglyvDA3F3q0YBmgAz1Jg) | 2:01 | 2025-09-16 |  |
 | [LOOP \(feat\. Lil Cherry\)](https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [LOOP](https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto) | 2:43 | 2024-06-05 |  |
 | [Los Angeles \- Moksi Remix](https://open.spotify.com/track/2LNCxTdURQRawa2Pc6MvZT) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq), [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011) | [iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes](https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb) | 2:59 | 2024-04-05 |  |
 | [Lose You](https://open.spotify.com/track/4zIdRT2HNsDmqPLGblw84B) | [Sielo](https://open.spotify.com/artist/7rBQBBTn511KRvBeWSOJbP) | [Lose You](https://open.spotify.com/album/7JA5UFGSEQVPlU9yXnZwWw) | 2:37 | 2024-04-05 | 2024-09-25 |

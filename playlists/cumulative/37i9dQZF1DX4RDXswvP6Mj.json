@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: ZEROBASEONE) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
+  "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: BADVILLAIN) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
   "name": "K-Pop Dance Party",
   "tracks": [
     {
@@ -3266,7 +3266,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 142057,
       "name": "DAMDADI (feat. SOYEON of i-dle)",
       "url": "https://open.spotify.com/track/07ZnlXOp6nKEKtXOMJxgPp"
@@ -13336,6 +13336,24 @@
       "duration_ms": 196333,
       "name": "THRILL RIDE",
       "url": "https://open.spotify.com/track/3wEYYVD6uC3A3LhVhqARZv"
+    },
+    {
+      "album": {
+        "name": "THRILLER",
+        "url": "https://open.spotify.com/album/3WDzrUo4IO2A3ScJh6LWTW"
+      },
+      "artists": [
+        {
+          "name": "BADVILLAIN",
+          "url": "https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "THRILLER",
+      "url": "https://open.spotify.com/track/6FVwbv7XgC7xR2FT5ISS4B"
     },
     {
       "album": {

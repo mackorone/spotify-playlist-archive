@@ -4,7 +4,7 @@
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 11 min
+49 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Popori](https://open.spotify.com/track/4LN4wqCdEA9eiwMcsTTObG) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:15 | 2025-07-12 |  |
 | [Porsche](https://open.spotify.com/track/76yOApxXGEj0l8ZMFUyDCG) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Porsche](https://open.spotify.com/album/26Iox8LEmlYhHDKPkHPmR5) | 2:52 | 2025-09-10 |  |
 | [S.O.T.P \( Sauce of the Party \)](https://open.spotify.com/track/1FCIG90E4Oz19ogY2sXBxp) | [G.O.E](https://open.spotify.com/artist/4MVPDEBLiF4b01hDW6Qzo9), [Temadey](https://open.spotify.com/artist/655vDDQSEnUaFqWzWqBaEv), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [S.O.T.P \( Sauce of the Party \)](https://open.spotify.com/album/5Je5R1uBy6QFNgPonxEi0M) | 2:50 | 2025-07-12 |  |
-| [Sometimes \(Remix\)](https://open.spotify.com/track/64thQkxq02AWlxuvckmjPx) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Sometimes \(Remix\)](https://open.spotify.com/album/2AV0nSpxXb0d4pSIkgVm8c) | 3:08 | 2025-07-12 |  |
+| [Sometimes](https://open.spotify.com/track/172TikKKeEeGLMiHPdKR1J) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Sometimes](https://open.spotify.com/album/1XsKZfYDE58uwXMoQJNtip) | 3:04 | 2025-09-16 |  |
+| [Sometimes \(Remix\)](https://open.spotify.com/track/64thQkxq02AWlxuvckmjPx) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Sometimes \(Remix\)](https://open.spotify.com/album/2AV0nSpxXb0d4pSIkgVm8c) | 3:08 | 2025-07-12 | 2025-09-16 |
 | [Soul \(feat\. T.I BLAZE\)](https://open.spotify.com/track/2rTwsc2SNBUWAUabnlIwsQ) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Soul \(feat\. T.I BLAZE\)](https://open.spotify.com/album/4XZ3ZB1G7Oo9KTqLgK5whG) | 2:24 | 2025-07-12 |  |
 | [The Way \(Remix\)](https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Okanlawon, Vol\. 2 \(Deluxe\)](https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t) | 3:32 | 2025-07-12 |  |
 | [TOMIWA](https://open.spotify.com/track/49sAm7LT7WLHCEeydE3Rkf) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [TOMIWA](https://open.spotify.com/album/0chRtYY5hF57ABdB2PTMEx) | 3:04 | 2025-07-12 |  |

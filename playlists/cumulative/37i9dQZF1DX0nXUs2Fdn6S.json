@@ -1851,6 +1851,24 @@
     },
     {
       "album": {
+        "name": "Yah Marwa",
+        "url": "https://open.spotify.com/album/0wMwj676aqrT7HYYijUygW"
+      },
+      "artists": [
+        {
+          "name": "ANASTRRIX",
+          "url": "https://open.spotify.com/artist/0NY2HVR8BHWUQze2savfsN"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444590,
+      "name": "Yah Marwa",
+      "url": "https://open.spotify.com/track/6mjWvcaZPP4Id3NUFkpCJp"
+    },
+    {
+      "album": {
         "name": "YKWIL",
         "url": "https://open.spotify.com/album/4QCFg8cFMdXIHUEJREJtHd"
       },

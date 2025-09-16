@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAABejeEr1nfC1JYltpURjbka",
+  "snapshot_id": "aMYFgAAAAAATYC6RhFJCD4fw3xvx1iEQ",
   "tracks": [
     {
       "added_at": null,
@@ -114,15 +114,11 @@
         {
           "name": "Touch\u00e9 Amor\u00e9",
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        },
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
         }
       ],
-      "duration_ms": 302514,
-      "name": "Limelight",
-      "url": "https://open.spotify.com/track/1VWs302APzvQSw94xr7SSN"
+      "duration_ms": 170001,
+      "name": "Come Heroine",
+      "url": "https://open.spotify.com/track/3z5IRvQG3paO0p5Ewyqa97"
     },
     {
       "added_at": null,
@@ -182,17 +178,21 @@
         {
           "name": "Touch\u00e9 Amor\u00e9",
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        },
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
         }
       ],
-      "duration_ms": 170001,
-      "name": "Come Heroine",
-      "url": "https://open.spotify.com/track/3z5IRvQG3paO0p5Ewyqa97"
+      "duration_ms": 302514,
+      "name": "Limelight",
+      "url": "https://open.spotify.com/track/1VWs302APzvQSw94xr7SSN"
     },
     {
       "added_at": null,
       "album": {
-        "name": "...To the Beat of a Dead Horse",
-        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 152985,
-      "name": "Honest Sleep",
-      "url": "https://open.spotify.com/track/6q3tRF4KypWtXUVdM5N5FN"
+      "duration_ms": 66226,
+      "name": "Uppers / Downers",
+      "url": "https://open.spotify.com/track/047jxhoDnbSg8mviStkR0Z"
     },
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parting the Sea Between Brightness and Me",
-        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 66226,
-      "name": "Uppers / Downers",
-      "url": "https://open.spotify.com/track/047jxhoDnbSg8mviStkR0Z"
+      "duration_ms": 152985,
+      "name": "Honest Sleep",
+      "url": "https://open.spotify.com/track/6q3tRF4KypWtXUVdM5N5FN"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live On BBC Radio 1: Vol 4",
-        "url": "https://open.spotify.com/album/0RS4Bwd7DbaV9MZIuv1TYZ"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 183180,
-      "name": "Savoring - BBC Live Version",
-      "url": "https://open.spotify.com/track/3IUnbH0HPS7BqBkDPBfuDm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lament",
         "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 200871,
       "name": "Lament",
       "url": "https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live On BBC Radio 1: Vol 4",
+        "url": "https://open.spotify.com/album/0RS4Bwd7DbaV9MZIuv1TYZ"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 183180,
+      "name": "Savoring - BBC Live Version",
+      "url": "https://open.spotify.com/track/3IUnbH0HPS7BqBkDPBfuDm"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deflector",
-        "url": "https://open.spotify.com/album/093ZXKn597MVIth3gvqcKh"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Green",
-      "url": "https://open.spotify.com/track/7Elxs3hCKEiHfOv7rb6F70"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Apollo Programme Was A Hoax",
         "url": "https://open.spotify.com/album/2VfpzHUHKc4Ni26qeaD70D"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 191400,
       "name": "The Apollo Programme Was A Hoax",
       "url": "https://open.spotify.com/track/0sXsOeBuEEPQPmJpPQhISe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deflector",
+        "url": "https://open.spotify.com/album/093ZXKn597MVIth3gvqcKh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/7Elxs3hCKEiHfOv7rb6F70"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covers Vol. 1",
-        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 210154,
-      "name": "Hard to Explain",
-      "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is Survived By",
         "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 137520,
       "name": "Just Exist",
       "url": "https://open.spotify.com/track/0zjQzW0OR8yYZu7QMr6FxB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Covers Vol. 1",
+        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 210154,
+      "name": "Hard to Explain",
+      "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parting the Sea Between Brightness and Me",
-        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 140986,
-      "name": "Face Ghost",
-      "url": "https://open.spotify.com/track/6W6I5rGZstGt35nJvRpWK2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is Survived By",
         "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 103520,
       "name": "I'll Deserve Just That",
       "url": "https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 140986,
+      "name": "Face Ghost",
+      "url": "https://open.spotify.com/track/6W6I5rGZstGt35nJvRpWK2"
     },
     {
       "added_at": null,

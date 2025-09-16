@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Katy Nichole
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,726 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,790 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

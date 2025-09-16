@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 138054,
+  "num_followers": 138080,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAABDiArbcveWZdREKyuXQ7iY",
+  "snapshot_id": "aMYFgAAAAAD7IK2xA6LdWqo4AmBbtZUK",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Va Pa Largo 2",
+        "url": "https://open.spotify.com/album/2hUFEj13uquBzCLjj7zlAB"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hacendado",
+          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "NO VAN A PODER",
+      "url": "https://open.spotify.com/track/2sera6DORQyNvftXa0UhDL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Que Hablen",
         "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
       },
@@ -395,22 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Va Pa Largo 2",
-        "url": "https://open.spotify.com/album/2hUFEj13uquBzCLjj7zlAB"
+        "name": "Los Ultimos Son Los Primeros",
+        "url": "https://open.spotify.com/album/3drj9hFTaeneCFvq7yJKb4"
       },
       "artists": [
         {
-          "name": "Grupo Hacendado",
-          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
         },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 193853,
-      "name": "NO VAN A PODER",
-      "url": "https://open.spotify.com/track/2sera6DORQyNvftXa0UhDL"
+      "duration_ms": 153384,
+      "name": "No Me Preocupo Tanto",
+      "url": "https://open.spotify.com/track/6ZCL1JXiW9kVGdz56lHWoB"
     },
     {
       "added_at": null,
@@ -451,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Ultimos Son Los Primeros",
-        "url": "https://open.spotify.com/album/3drj9hFTaeneCFvq7yJKb4"
-      },
-      "artists": [
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 153384,
-      "name": "No Me Preocupo Tanto",
-      "url": "https://open.spotify.com/track/6ZCL1JXiW9kVGdz56lHWoB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa Las Vibras",
         "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
       },
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry For The Wait 2",
+        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 198461,
+      "name": "Sin Tu Amor",
+      "url": "https://open.spotify.com/track/4YdJ3WFfs6R3MhbkLqVSj2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Los Que Conocen El Rollo",
         "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
       },
@@ -523,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
+        "name": "Pa Que Se Motiven",
+        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
       "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 198461,
-      "name": "Sin Tu Amor",
-      "url": "https://open.spotify.com/track/4YdJ3WFfs6R3MhbkLqVSj2"
+      "duration_ms": 145375,
+      "name": "Seguimos Dando Lata",
+      "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
     },
     {
       "added_at": null,
@@ -563,22 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Se Motiven",
-        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
+        "name": "Se Va Pa' Largo",
+        "url": "https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+          "name": "Grupo Hacendado",
+          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
         },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 145375,
-      "name": "Seguimos Dando Lata",
-      "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
+      "duration_ms": 164925,
+      "name": "Cupcake Factory",
+      "url": "https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U"
     },
     {
       "added_at": null,
@@ -611,26 +631,6 @@
       "duration_ms": 132527,
       "name": "Intro",
       "url": "https://open.spotify.com/track/1mFjOuLYXLEe2Pe27mlWBC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Va Pa' Largo",
-        "url": "https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Hacendado",
-          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 164925,
-      "name": "Cupcake Factory",
-      "url": "https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U"
     },
     {
       "added_at": null,
@@ -723,42 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' las Vibras 2",
-        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 152433,
-      "name": "Buena Vida Mala Fama",
-      "url": "https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 268527,
-      "name": "Fabi",
-      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo, Billetes y Damas (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/54UMtaPgBFFOUwqr0QKBTG"
       },
@@ -779,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry For The Wait 2",
+        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 268527,
+      "name": "Fabi",
+      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sorry For The Wait",
         "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 223606,
       "name": "Its Over",
       "url": "https://open.spotify.com/track/36H3mjns9xZJAYOwj5qsM9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' las Vibras 2",
+        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 152433,
+      "name": "Buena Vida Mala Fama",
+      "url": "https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' las Vibras 2",
-        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+        "name": "Sorry For The Wait 2",
+        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 266346,
-      "name": "Siempre Activo",
-      "url": "https://open.spotify.com/track/0K4SyhuWJ915Og82kI8DRz"
+      "duration_ms": 220752,
+      "name": "Crimes",
+      "url": "https://open.spotify.com/track/73FEbxI3YxlVzN1rkkbcxe"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
+        "name": "Pa' las Vibras 2",
+        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 220752,
-      "name": "Crimes",
-      "url": "https://open.spotify.com/track/73FEbxI3YxlVzN1rkkbcxe"
+      "duration_ms": 266346,
+      "name": "Siempre Activo",
+      "url": "https://open.spotify.com/track/0K4SyhuWJ915Og82kI8DRz"
     },
     {
       "added_at": null,

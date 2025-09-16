@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Sexmane, Ed Sheeran, Karim B ja Minttu – mukana myös uunituoreet Vain elämää \-biisit! 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,106 likes - 109 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,105 likes - 109 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

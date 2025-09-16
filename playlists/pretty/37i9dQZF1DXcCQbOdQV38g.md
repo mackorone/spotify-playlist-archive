@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 
 > Het zomergevoel met Nederlandstalig ☀️🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,897 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,912 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 | 29 | [Lichaamstaal](https://open.spotify.com/track/6PkKA3PKeVgUVMPhsM8t1n) | [Team Rush Hour](https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP), [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr), [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2) | [Lichaamstaal](https://open.spotify.com/album/00Y2JC7UyHuylPEfJ6mV62) | 2:28 |
 | 30 | [Waar Ga Je Heen](https://open.spotify.com/track/5G6hrPIse64sqdsqVxBK78) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Waar Ga Je Heen](https://open.spotify.com/album/5vo4P3v3h4ve0vsyzv5tjl) | 2:59 |
 | 31 | [Más Más Más](https://open.spotify.com/track/28hEtjNvlDhtb38fgXsLRa) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Más Más Más](https://open.spotify.com/album/01hHnT4Hmzju6oF6Cyq9XM) | 2:34 |
-| 32 | [Gooi 'm Dicht](https://open.spotify.com/track/3OVqGh1AJlrjLThO3S6LAn) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Gooi 'm Dicht](https://open.spotify.com/album/1n3tJ1eFmoEtmV2fSRwLsN) | 2:32 |
-| 33 | [Verleden Tijd](https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Verleden Tijd](https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa) | 2:47 |
+| 32 | [Verleden Tijd](https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Verleden Tijd](https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa) | 2:47 |
+| 33 | [Gooi 'm Dicht](https://open.spotify.com/track/3OVqGh1AJlrjLThO3S6LAn) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Gooi 'm Dicht](https://open.spotify.com/album/1n3tJ1eFmoEtmV2fSRwLsN) | 2:32 |
 | 34 | [Aan het strand van Porto Rico](https://open.spotify.com/track/47qKUg1zUm6UdHvR8JIz7W) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Aan het strand van Porto Rico](https://open.spotify.com/album/22xxynlCMZmu9fe48Q4GQr) | 3:15 |
 | 35 | [Zomernacht In Griekenland](https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Zomernacht In Griekenland](https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD) | 2:47 |
 | 36 | [Zolang Je Bij Me Bent](https://open.spotify.com/track/7aAWfzW0L6448bUNxNVYIo) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Zolang Je Bij Me Bent](https://open.spotify.com/album/5XtfG950glREhIpc0pWQzA) | 2:51 |

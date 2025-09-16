@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > Takeover: Candelabrum Metal Fest 2025
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,495 likes - 120 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,484 likes - 120 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 | 119 | [The Fire That Still Burns in Me \- Remastered](https://open.spotify.com/track/2zvqI2T2K16CrSkn0OIgeJ) | [Pyogenesis](https://open.spotify.com/artist/6bGNUCfRbd1JkMqRsYTURk) | [Ignis Creatio \- The Creation of Fire \(20th Anniversary Edition\)](https://open.spotify.com/album/2uImb3NmkLzjrj7CFOTRfK) | 4:29 |
 | 120 | [In The Twilight Of Fear](https://open.spotify.com/track/18S7ZJZtKzEzLC3fdMLd7A) | [A Canorous Quintet](https://open.spotify.com/artist/2Ckpbo5shtUafg3Sqd5Odf) | [Silence Of The World Beyond](https://open.spotify.com/album/4gPOBx8lYCM7iF65v1nHFJ) | 5:39 |
 
-Snapshot ID: `AAAAAJD3UnUeF54Nzx8BbuD3CYeGBq3E`
+Snapshot ID: `AAAAADJou9qXhk0hwf8TmysMPezg6hEv`

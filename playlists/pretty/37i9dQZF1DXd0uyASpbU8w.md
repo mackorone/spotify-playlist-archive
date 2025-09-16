@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Nasty C, Ed Sheeran, Lowfeye & La Cabra and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,562 likes - 57 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,619 likes - 57 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

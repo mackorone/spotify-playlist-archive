@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 164048,
+  "num_followers": 164067,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-05-23 03:01:25",
       "album": {
-        "name": "Ney Matogrosso Interpreta Cartola",
-        "url": "https://open.spotify.com/album/6usPCKnm2wd01RvUrgEh5Z"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "O Sol Nascer\u00e1 (A Sorrir)",
-      "url": "https://open.spotify.com/track/6YqzOIMvKn5ItGDIyVDM6J"
-    },
-    {
-      "added_at": "2025-05-23 03:01:25",
-      "album": {
         "name": "Escumalha",
         "url": "https://open.spotify.com/album/3uCW5dht5i4pFiaYPSV8Zq"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 311053,
       "name": "Tempo Velho",
       "url": "https://open.spotify.com/track/0Roj7QJeVqNO5ArpKGw5fR"
+    },
+    {
+      "added_at": "2025-05-23 03:01:25",
+      "album": {
+        "name": "Ney Matogrosso Interpreta Cartola",
+        "url": "https://open.spotify.com/album/6usPCKnm2wd01RvUrgEh5Z"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "O Sol Nascer\u00e1 (A Sorrir)",
+      "url": "https://open.spotify.com/track/6YqzOIMvKn5ItGDIyVDM6J"
     },
     {
       "added_at": "2025-05-23 03:01:25",
@@ -663,26 +663,6 @@
     {
       "added_at": "2025-05-23 03:01:25",
       "album": {
-        "name": "Faz Parte Do Meu Show",
-        "url": "https://open.spotify.com/album/2fxjbevDgbE6a4QIg4slI3"
-      },
-      "artists": [
-        {
-          "name": "Gina Garcia",
-          "url": "https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 161675,
-      "name": "Faz Parte Do Meu Show",
-      "url": "https://open.spotify.com/track/4cCwzNl97fBtpTCISj49AA"
-    },
-    {
-      "added_at": "2025-05-23 03:01:25",
-      "album": {
         "name": "Minha Cara",
         "url": "https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe"
       },
@@ -695,6 +675,22 @@
       "duration_ms": 237306,
       "name": "Entretanto",
       "url": "https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR"
+    },
+    {
+      "added_at": "2025-05-23 03:01:25",
+      "album": {
+        "name": "O Pai Da Alegria",
+        "url": "https://open.spotify.com/album/4yTMLxojFOA6BYEsQzvx1T"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 252173,
+      "name": "Feitio De Ora\u00e7\u00e3o/Para Me Livrar Do Mal/Estrela Da Manh\u00e3",
+      "url": "https://open.spotify.com/track/4kdm6VxhYYSrqWQnQHK3mb"
     },
     {
       "added_at": "2025-05-23 03:01:25",
@@ -715,18 +711,22 @@
     {
       "added_at": "2025-05-23 03:01:25",
       "album": {
-        "name": "O Pai Da Alegria",
-        "url": "https://open.spotify.com/album/4yTMLxojFOA6BYEsQzvx1T"
+        "name": "Faz Parte Do Meu Show",
+        "url": "https://open.spotify.com/album/2fxjbevDgbE6a4QIg4slI3"
       },
       "artists": [
         {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+          "name": "Gina Garcia",
+          "url": "https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
         }
       ],
-      "duration_ms": 252173,
-      "name": "Feitio De Ora\u00e7\u00e3o/Para Me Livrar Do Mal/Estrela Da Manh\u00e3",
-      "url": "https://open.spotify.com/track/4kdm6VxhYYSrqWQnQHK3mb"
+      "duration_ms": 161675,
+      "name": "Faz Parte Do Meu Show",
+      "url": "https://open.spotify.com/track/4cCwzNl97fBtpTCISj49AA"
     },
     {
       "added_at": "2025-05-23 03:01:25",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-05-23 03:01:25",
       "album": {
-        "name": "\u00c1gua de Chuva no Mar (Do filme \"Um Casal Insepar\u00e1vel\")",
-        "url": "https://open.spotify.com/album/2Mz2TXMsFDEqrccgPKVUQo"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "\u00c1gua de Chuva no Mar - Do filme \"Um Casal Insepar\u00e1vel\"",
-      "url": "https://open.spotify.com/track/1PmJKK9Jclc230tru8UOHb"
-    },
-    {
-      "added_at": "2025-05-23 03:01:25",
-      "album": {
         "name": "Sambabook Dona Ivone Lara",
         "url": "https://open.spotify.com/album/69qErPKLHHugsWzOXRB0Ls"
       },
@@ -1395,6 +1379,38 @@
     {
       "added_at": "2025-05-23 03:01:25",
       "album": {
+        "name": "Espiral de Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/6IczDBDR1kf2VyLjipgCPT"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "L\u00e1 Vem Voc\u00ea",
+      "url": "https://open.spotify.com/track/7n0OAb9pyMzUKCp7LpONFT"
+    },
+    {
+      "added_at": "2025-05-23 03:01:25",
+      "album": {
+        "name": "\u00c1gua de Chuva no Mar (Do filme \"Um Casal Insepar\u00e1vel\")",
+        "url": "https://open.spotify.com/album/2Mz2TXMsFDEqrccgPKVUQo"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 248746,
+      "name": "\u00c1gua de Chuva no Mar - Do filme \"Um Casal Insepar\u00e1vel\"",
+      "url": "https://open.spotify.com/track/1PmJKK9Jclc230tru8UOHb"
+    },
+    {
+      "added_at": "2025-05-23 03:01:25",
+      "album": {
         "name": "Memorias Cronicas E Declaracoes De Amor \"Textos, Provas E Desmentidos\"",
         "url": "https://open.spotify.com/album/2tWENeaWpm2HTS357wM5pn"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 234293,
       "name": "Para Ver As Meninas - Remaster 2004",
       "url": "https://open.spotify.com/track/5jdwjKcitMUlIxlcGci6Pv"
-    },
-    {
-      "added_at": "2025-05-23 03:01:25",
-      "album": {
-        "name": "Espiral de Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/6IczDBDR1kf2VyLjipgCPT"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "L\u00e1 Vem Voc\u00ea",
-      "url": "https://open.spotify.com/track/7n0OAb9pyMzUKCp7LpONFT"
     },
     {
       "added_at": "2025-05-23 03:01:25",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-05-23 03:01:25",
       "album": {
-        "name": "Marisa Monte MM",
-        "url": "https://open.spotify.com/album/7J2lXq7A5sn7OnEYiRCOM5"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Lenda Das Sereias, Rainha Do Mar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1XJIZ5RdL0ASYYU019t4Ja"
-    },
-    {
-      "added_at": "2025-05-23 03:01:25",
-      "album": {
         "name": "Meus Momentos",
         "url": "https://open.spotify.com/album/6R7EH0XPcmPU35AJnC0JY5"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 222306,
       "name": "E Vamos \u00c0 Luta",
       "url": "https://open.spotify.com/track/7hGoqPKq59CSDS15vubgvJ"
+    },
+    {
+      "added_at": "2025-05-23 03:01:25",
+      "album": {
+        "name": "Marisa Monte MM",
+        "url": "https://open.spotify.com/album/7J2lXq7A5sn7OnEYiRCOM5"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Lenda Das Sereias, Rainha Do Mar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1XJIZ5RdL0ASYYU019t4Ja"
     },
     {
       "added_at": "2025-05-23 03:01:25",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2025-05-23 03:01:25",
       "album": {
-        "name": "Paira no Ar",
-        "url": "https://open.spotify.com/album/75FH1Z71DcaAy2zVAAnuUT"
-      },
-      "artists": [
-        {
-          "name": "\u010cao Laru",
-          "url": "https://open.spotify.com/artist/6ReShUbIFjrJiFy16Ig5aX"
-        },
-        {
-          "name": "P\u00e1ssaro Vivo",
-          "url": "https://open.spotify.com/artist/4c0nlnm0qUWcNleGhvCEr8"
-        }
-      ],
-      "duration_ms": 193682,
-      "name": "Paira no Ar",
-      "url": "https://open.spotify.com/track/1qAZ5RiDgma9Z9uOQliVEK"
-    },
-    {
-      "added_at": "2025-05-23 03:01:25",
-      "album": {
         "name": "Atraco",
         "url": "https://open.spotify.com/album/3WbHlIlEtgwCxIlCOwxOZm"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 205663,
       "name": "Atraco",
       "url": "https://open.spotify.com/track/4P8u2XnaM64X8yKYAd5np4"
+    },
+    {
+      "added_at": "2025-05-23 03:01:25",
+      "album": {
+        "name": "Paira no Ar",
+        "url": "https://open.spotify.com/album/75FH1Z71DcaAy2zVAAnuUT"
+      },
+      "artists": [
+        {
+          "name": "\u010cao Laru",
+          "url": "https://open.spotify.com/artist/6ReShUbIFjrJiFy16Ig5aX"
+        },
+        {
+          "name": "P\u00e1ssaro Vivo",
+          "url": "https://open.spotify.com/artist/4c0nlnm0qUWcNleGhvCEr8"
+        }
+      ],
+      "duration_ms": 193682,
+      "name": "Paira no Ar",
+      "url": "https://open.spotify.com/track/1qAZ5RiDgma9Z9uOQliVEK"
     },
     {
       "added_at": "2025-05-23 03:01:25",

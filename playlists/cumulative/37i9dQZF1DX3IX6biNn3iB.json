@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-14",
-  "description": "Voices that are elevating nuestra cultura. ERRE en portada. ",
+  "description": "Voices that are elevating nuestra cultura. Cuco en portada. ",
   "name": "Our Voice",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 162310,
       "name": "broken heart",
       "url": "https://open.spotify.com/track/5akkEq8y9Zp7vXj9AJg9WJ"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 199368,
       "name": "Coraz\u00f3n Tatuado",
       "url": "https://open.spotify.com/track/0GuqlRQXjabf174DAMRfSl"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 202610,
       "name": "Luces",
       "url": "https://open.spotify.com/track/7sNJboWlN4I88AFP8b68Zb"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 208529,
       "name": "No Volver\u00e9",
       "url": "https://open.spotify.com/track/5fbdwmA3mVyuu8lMM7FlEu"
@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Ridin' (Deluxe)",
+        "url": "https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189721,
+      "name": "Para Ti",
+      "url": "https://open.spotify.com/track/3pI4sJdZP7tus0pltevj3W"
+    },
+    {
+      "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
       },
@@ -722,6 +740,24 @@
       "duration_ms": 155026,
       "name": "Pienso En Ti",
       "url": "https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89"
+    },
+    {
+      "album": {
+        "name": "Ponte Las Pilas",
+        "url": "https://open.spotify.com/album/6aCTwpnI4u4tGOE15vjMGg"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172421,
+      "name": "Ponte Las Pilas",
+      "url": "https://open.spotify.com/track/7KppB1az9E6tGBsHqGeJXN"
     },
     {
       "album": {
@@ -881,6 +917,46 @@
     },
     {
       "album": {
+        "name": "Somos Peligro",
+        "url": "https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179569,
+      "name": "Somos Peligro",
+      "url": "https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG"
+    },
+    {
+      "album": {
+        "name": "still love you (todav\u00eda)",
+        "url": "https://open.spotify.com/album/2dVlLLQXCJNRqkA3wYhF5Y"
+      },
+      "artists": [
+        {
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152233,
+      "name": "still love you (todav\u00eda)",
+      "url": "https://open.spotify.com/track/0gmKvcuqpmLqEXFE3bRxtc"
+    },
+    {
+      "album": {
         "name": "Tanto Arriba Como Abajo",
         "url": "https://open.spotify.com/album/59xL5wvprBCyIgj0b0j1nS"
       },
@@ -892,7 +968,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 221550,
       "name": "Tanto Arriba Como Abajo",
       "url": "https://open.spotify.com/track/518ruJoGWraifuVpTBKr5a"
@@ -1048,6 +1124,24 @@
       "duration_ms": 239000,
       "name": "YNMA",
       "url": "https://open.spotify.com/track/56TtgvmfpGa5kkwVuyUX0D"
+    },
+    {
+      "album": {
+        "name": "You Don't Know",
+        "url": "https://open.spotify.com/album/0TpfLWVtubEx07Kg0Lu4PA"
+      },
+      "artists": [
+        {
+          "name": "Nico Play",
+          "url": "https://open.spotify.com/artist/26l7d6CNDqVJKOepWtK3Bl"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176212,
+      "name": "You Don't Know",
+      "url": "https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr"
     },
     {
       "album": {

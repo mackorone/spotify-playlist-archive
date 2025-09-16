@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 103452,
+  "num_followers": 103457,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAACovmf4ECKkleFsFmXwpaTX",
+  "snapshot_id": "aMYFgAAAAADsB0YP5MO5FH+wi0B7EBY/",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In It With You",
-        "url": "https://open.spotify.com/album/5jVN3zaYCJrtZFHtZTwESO"
+        "name": "99.9%",
+        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
       "artists": [
         {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         },
         {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 192202,
-      "name": "In It With You",
-      "url": "https://open.spotify.com/track/1JdTvT34HhshLjmdSVkAIZ"
+      "duration_ms": 228146,
+      "name": "GOT IT GOOD",
+      "url": "https://open.spotify.com/track/7pttGrC2YJYQ997ZryXGCG"
     },
     {
       "added_at": null,
@@ -235,22 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "99.9%",
-        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
+        "name": "In It With You",
+        "url": "https://open.spotify.com/album/5jVN3zaYCJrtZFHtZTwESO"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
         }
       ],
-      "duration_ms": 228146,
-      "name": "GOT IT GOOD",
-      "url": "https://open.spotify.com/track/7pttGrC2YJYQ997ZryXGCG"
+      "duration_ms": 192202,
+      "name": "In It With You",
+      "url": "https://open.spotify.com/track/1JdTvT34HhshLjmdSVkAIZ"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 207543,
-      "name": "Perfect Love",
-      "url": "https://open.spotify.com/track/2bFeml4Q8bOqXuy6Lybz7L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born to Do It",
         "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 184354,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/5VXdYLJ62WPtRfb597kRP1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "22 (Deluxe)",
         "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
       },
@@ -507,22 +507,6 @@
       "duration_ms": 205478,
       "name": "Who You Are",
       "url": "https://open.spotify.com/track/6seNHtKOxaLh7tzlRCkHki"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 184354,
-      "name": "Dominoes",
-      "url": "https://open.spotify.com/track/5VXdYLJ62WPtRfb597kRP1"
     },
     {
       "added_at": null,
@@ -563,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 207543,
+      "name": "Perfect Love",
+      "url": "https://open.spotify.com/track/2bFeml4Q8bOqXuy6Lybz7L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Greatest Showman: Reimagined",
         "url": "https://open.spotify.com/album/4dPosP4Io4sDCmeiCxVHW0"
       },
@@ -575,6 +575,42 @@
       "duration_ms": 227226,
       "name": "Come Alive - Bonus Track",
       "url": "https://open.spotify.com/track/606YPVeUuvXnxJ19SVI0rg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Following My Intuition (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Big Narstie",
+          "url": "https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "When the Bassline Drops",
+      "url": "https://open.spotify.com/track/1fGjIL2Ike4ypLQEQvQUc9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slicker than Your Average",
+        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 233640,
+      "name": "Hidden Agenda",
+      "url": "https://open.spotify.com/track/5MRruRrB235AeY0DISngdw"
     },
     {
       "added_at": null,
@@ -615,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slicker than Your Average",
-        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 233640,
-      "name": "Hidden Agenda",
-      "url": "https://open.spotify.com/track/5MRruRrB235AeY0DISngdw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Following My Intuition (Expanded Edition)",
         "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
       },
@@ -640,29 +660,13 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         },
         {
-          "name": "Big Narstie",
-          "url": "https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         }
       ],
-      "duration_ms": 185200,
-      "name": "When the Bassline Drops",
-      "url": "https://open.spotify.com/track/1fGjIL2Ike4ypLQEQvQUc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 227131,
-      "name": "Mr Right",
-      "url": "https://open.spotify.com/track/4qRV3QCxMBMHiObL85agcm"
+      "duration_ms": 158493,
+      "name": "Ain't Giving Up",
+      "url": "https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f"
     },
     {
       "added_at": null,
@@ -687,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 227131,
+      "name": "Mr Right",
+      "url": "https://open.spotify.com/track/4qRV3QCxMBMHiObL85agcm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Story Goes...",
         "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
       },
@@ -699,42 +719,6 @@
       "duration_ms": 235933,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/5ln1Tttut50qIL1KJkl3YC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Following My Intuition (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Ain't Giving Up",
-      "url": "https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 182315,
-      "name": "Last Chance With You",
-      "url": "https://open.spotify.com/track/7pcOpIuZdi1A8z0GOXzrkF"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
       "duration_ms": 228600,
       "name": "2 Steps Back",
       "url": "https://open.spotify.com/track/4nvhutyXHvt96jqwHwIgR7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 182315,
+      "name": "Last Chance With You",
+      "url": "https://open.spotify.com/track/7pcOpIuZdi1A8z0GOXzrkF"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trust Me",
-        "url": "https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 235733,
-      "name": "Officially Yours",
-      "url": "https://open.spotify.com/track/4sofx1s0nDS4LG1Tx3uxpG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Story Goes...",
         "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 259640,
       "name": "Hypnotic",
       "url": "https://open.spotify.com/track/74tHCnEw90OJQl1LpAddm8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trust Me",
+        "url": "https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 235733,
+      "name": "Officially Yours",
+      "url": "https://open.spotify.com/track/4sofx1s0nDS4LG1Tx3uxpG"
     },
     {
       "added_at": null,

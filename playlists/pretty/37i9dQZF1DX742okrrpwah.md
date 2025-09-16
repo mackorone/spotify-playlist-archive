@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > SANTA, Ed Sheeran et Feu! Chatterton au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,541 likes - 99 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,531 likes - 99 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 12 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5) | 3:13 |
 | 13 | [Populaire](https://open.spotify.com/track/77t6M21eaWB204PgnD1byj) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Populaire](https://open.spotify.com/album/5Va77etcxm2inKxBICFWiL) | 3:24 |
 | 14 | [Wagyu du Jap'](https://open.spotify.com/track/0f23kGg4dotmFXMxBRnTpF) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Wagyu du Jap'](https://open.spotify.com/album/71iiMtckKbHxVjTKMTVFvV) | 1:45 |
-| 15 | [On shoot ! \(feat\. Chily\)](https://open.spotify.com/track/6IZr7Z7lXaliYYx88d0GJL) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [AfroViibes](https://open.spotify.com/album/75zAuEBy3Xe7VaxV0WRwRa) | 1:56 |
+| 15 | [On shoot !](https://open.spotify.com/track/6IZr7Z7lXaliYYx88d0GJL) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [AfroViibes](https://open.spotify.com/album/75zAuEBy3Xe7VaxV0WRwRa) | 1:56 |
 | 16 | [Game Started](https://open.spotify.com/track/5bdPIvk8EyOs8gL6gDPMMd) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [Game Started](https://open.spotify.com/album/3NSwT8JqAuVmLlieceSSBI) | 2:28 |
 | 17 | [Let You Know](https://open.spotify.com/track/609FRLY8f3c7CXqsloE09P) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Sonia Ammar](https://open.spotify.com/artist/73Xyd80Zdq5fZc0xyjkQtB) | [Let You Know](https://open.spotify.com/album/6V7GNffcfF3oOumBPNNqmv) | 3:39 |
 | 18 | [LA FAUTE À QUI!](https://open.spotify.com/track/4HcYYdx6dZSKkO0odLovJR) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [LA FAUTE À QUI!](https://open.spotify.com/album/4j3fW30IbogXwFR07Pfu1K) | 2:22 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 35 | [Galaxie](https://open.spotify.com/track/0UqdhHyfni6tRxWqViuQII) | [Cheu\-B](https://open.spotify.com/artist/2bbQRkTmEgKA1INGHeH7oT), [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ) | [Galaxie](https://open.spotify.com/album/3LVztENp7Sd9bHZLDKuhHl) | 2:27 |
 | 36 | [Flying Blue](https://open.spotify.com/track/7JGEUwyfP2oH2nbMllxeo8) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Flying Blue](https://open.spotify.com/album/2n2zlLuUnCKLgjQLPLEsMS) | 2:40 |
 | 37 | [Mususu](https://open.spotify.com/track/2Uzw0LCK1D4epiBWHNOva9) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [Mususu](https://open.spotify.com/album/6h3RnIZIKupVCcMIck5jb9) | 2:17 |
-| 38 | [Forever](https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/5AOBx6uu2fTnhsu5keahyR) | [Forever](https://open.spotify.com/album/5bZB1yQFWT2YAR36eEuSct) | 2:51 |
+| 38 | [Forever](https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/42CbYw1Y9fAdCr6UND2P5f) | [Forever](https://open.spotify.com/album/5bZB1yQFWT2YAR36eEuSct) | 2:51 |
 | 39 | [Upon Your Skin](https://open.spotify.com/track/6Igb5HZLFlC0Wla2Qgsivy) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Noah Kulaga](https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj) | [Upon Your Skin](https://open.spotify.com/album/0E595Q3GmfhXrwPVKCtWIy) | 4:47 |
 | 40 | [Weirdo \(feat\. Lee Jennings of The Funeral Portrait\)](https://open.spotify.com/track/4uoC9GLUXkmZntLQLrZeQc) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl), [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Weirdo](https://open.spotify.com/album/7tiO2Gwyk5yQfs8lYEr4j1) | 2:57 |
 | 41 | [Higher Than Before](https://open.spotify.com/track/7irwdKYcZ0OsiAUgP0WStP) | [Peter Dallas](https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh), [éol](https://open.spotify.com/artist/3Qsh8vZLpSAHADVBkGD70N) | [Adult](https://open.spotify.com/album/3Ny9XMvVVgNr9fDn8kS2ln) | 2:35 |

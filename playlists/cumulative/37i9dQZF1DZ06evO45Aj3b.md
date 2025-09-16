@@ -4,7 +4,7 @@
 
 > This is Dominic Fike\. The essential tracks, all in one playlist.
 
-59 songs - 2 hr 20 min
+60 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [1.23.23](https://open.spotify.com/track/4w1esviQOM4f8uZ6RuAjyY) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 2:01 | 2024-05-05 |  |
 | [10x Stronger](https://open.spotify.com/track/3xLU29XDzxUllbDjLumKf7) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 1:15 | 2023-12-18 | 2025-01-16 |
 | [3 Nights](https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 2:57 | 2023-12-19 |  |
-| [Aftermath \- Edit](https://open.spotify.com/track/0gpPi4vOxqC3yFQFPzf9ef) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Here are the first 3 songs from my mixtape, Rocket](https://open.spotify.com/album/32NRfr2m329D9kAL1GTMX4) | 1:42 | 2025-08-17 |  |
+| [Aftermath \- Edit](https://open.spotify.com/track/0gpPi4vOxqC3yFQFPzf9ef) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Here are the first 3 songs from my mixtape, Rocket](https://open.spotify.com/album/32NRfr2m329D9kAL1GTMX4) | 1:42 | 2025-08-17 | 2025-09-16 |
+| [Aftermath \- Edit](https://open.spotify.com/track/7b3StKb6can7Y037c9HN4z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 1:42 | 2025-09-16 |  |
 | [All Hands on Deck](https://open.spotify.com/track/2V1d53nRhAzKos82tt8kJs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Here are the first 3 songs from my mixtape, Rocket](https://open.spotify.com/album/32NRfr2m329D9kAL1GTMX4) | 2:26 | 2025-08-17 | 2025-08-28 |
 | [Ant Pile](https://open.spotify.com/track/6OrCWnvAja4n5IYdzchJlH) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:06 | 2023-12-18 | 2024-08-10 |
 | [Açaí Bowl](https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Açaí Bowl](https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D) | 2:57 | 2023-12-18 |  |
@@ -62,7 +63,7 @@
 | [THICKRICK](https://open.spotify.com/track/4mY6K0hRQlpOs3hyTNOcKe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 2:44 | 2024-05-07 |  |
 | [Think Fast \(feat\. Weezer\)](https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 3:42 | 2023-12-18 |  |
 | [to say to say](https://open.spotify.com/track/5wyBvbIXWlYYz0qQ3KveeU) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:20 | 2024-05-05 | 2024-05-07 |
-| [Upset & Aggressive](https://open.spotify.com/track/2IaME6ZbdnNc2CvDeRFhhj) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 2:31 | 2025-08-24 |  |
+| [Upset & Aggressive](https://open.spotify.com/track/2IaME6ZbdnNc2CvDeRFhhj) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 2:31 | 2025-08-24 | 2025-09-16 |
 | [Vampire](https://open.spotify.com/track/0SRPuTnr5QOKRoIxMvvlgK) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 3:06 | 2023-12-18 |  |
 | [Westcoast Collective](https://open.spotify.com/track/7rNun2AyLu4u4rQpRt0iS9) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:47 | 2023-12-18 |  |
 | [Why](https://open.spotify.com/track/1xLs8Mu1QEVbGCpyHQ2r2U) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:19 | 2023-12-18 |  |

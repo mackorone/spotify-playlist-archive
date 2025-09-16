@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EyWjGitssT.md) - [plain]
 
 > Coming down from your altitude high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,887 likes - 51 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,911 likes - 51 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

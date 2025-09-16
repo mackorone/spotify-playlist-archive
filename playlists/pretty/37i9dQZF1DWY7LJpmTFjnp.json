@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Los Amigos Invisibles en portada. ",
-  "num_followers": 990052,
+  "num_followers": 989931,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -1327,6 +1327,38 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
+        "name": "No Olvidamos",
+        "url": "https://open.spotify.com/album/26kvfgqmq2SoSBw1Kh1x76"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 274991,
+      "name": "No Olvidamos",
+      "url": "https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
+        "name": "D.D. Y Ponle Play",
+        "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "duration_ms": 174880,
+      "name": "Cada Vez Que Me Voy",
+      "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
         "name": "Parison",
         "url": "https://open.spotify.com/album/3GJi4Wwqd9ieXuTeuSfnKm"
       },
@@ -1355,38 +1387,6 @@
       "duration_ms": 291074,
       "name": "Parison",
       "url": "https://open.spotify.com/track/3JaKelhIeMYrDoyglzqzLl"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
-        "name": "D.D. Y Ponle Play",
-        "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
-      },
-      "artists": [
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
-        }
-      ],
-      "duration_ms": 174880,
-      "name": "Cada Vez Que Me Voy",
-      "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
-        "name": "No Olvidamos",
-        "url": "https://open.spotify.com/album/26kvfgqmq2SoSBw1Kh1x76"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 274991,
-      "name": "No Olvidamos",
-      "url": "https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
-        "name": "Vivir As\u00ed Es Morir de Amor",
-        "url": "https://open.spotify.com/album/0oFLZcoAUZe4FKvi9XjN1g"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "Vivir As\u00ed Es Morir de Amor",
-      "url": "https://open.spotify.com/track/71h8iMqAN3aETovkKf1IV0"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
         "name": "Volovan",
         "url": "https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 220795,
       "name": "La Izquierda de la Noche",
       "url": "https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
+        "name": "Vivir As\u00ed Es Morir de Amor",
+        "url": "https://open.spotify.com/album/0oFLZcoAUZe4FKvi9XjN1g"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "Vivir As\u00ed Es Morir de Amor",
+      "url": "https://open.spotify.com/track/71h8iMqAN3aETovkKf1IV0"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -1571,22 +1571,26 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
-        "name": "No Puede Parar De So\u00f1ar",
-        "url": "https://open.spotify.com/album/5BmtSXjM8FVLNGVWGz63z8"
+        "name": "Oro",
+        "url": "https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi"
       },
       "artists": [
         {
-          "name": "Nunca Jamas",
-          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         },
         {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 197801,
-      "name": "No Puede Parar De So\u00f1ar",
-      "url": "https://open.spotify.com/track/7ujRdKjA7G7QvFkq0YV0dO"
+      "duration_ms": 210986,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -1611,26 +1615,22 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
-        "name": "Oro",
-        "url": "https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi"
+        "name": "No Puede Parar De So\u00f1ar",
+        "url": "https://open.spotify.com/album/5BmtSXjM8FVLNGVWGz63z8"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
         },
         {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
         }
       ],
-      "duration_ms": 210986,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn"
+      "duration_ms": 197801,
+      "name": "No Puede Parar De So\u00f1ar",
+      "url": "https://open.spotify.com/track/7ujRdKjA7G7QvFkq0YV0dO"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
-        "name": "Gringo Hunter (De la Serie de Netflix \"Gringo Hunters\")",
-        "url": "https://open.spotify.com/album/4RD6jo0ORjqVeRH5e0aBrW"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "Gringo Hunter - De la Serie de Netflix \"Gringo Hunters\"",
-      "url": "https://open.spotify.com/track/5UADTFVdvIpNPnNyST7fdZ"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
         "name": "Botas Negras",
         "url": "https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 343826,
       "name": "Botas Negras",
       "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
+        "name": "Gringo Hunter (De la Serie de Netflix \"Gringo Hunters\")",
+        "url": "https://open.spotify.com/album/4RD6jo0ORjqVeRH5e0aBrW"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Gringo Hunter - De la Serie de Netflix \"Gringo Hunters\"",
+      "url": "https://open.spotify.com/track/5UADTFVdvIpNPnNyST7fdZ"
     }
   ],
   "unique_name": "La + Chingona",

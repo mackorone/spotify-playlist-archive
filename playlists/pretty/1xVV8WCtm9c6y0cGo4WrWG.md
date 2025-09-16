@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > The newest and best Hip\-Hop tracks, updated weekly! Cover: Drake
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 23,153 likes - 80 songs - 3 hr 57 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 23,150 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 | 79 | [Imma Shoot](https://open.spotify.com/track/7AsZ1KI3AHWjP1liPpOykV) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Imma Shoot](https://open.spotify.com/album/1XAvyrDwCMoctHaogYEQDP) | 3:26 |
 | 80 | [Runnin](https://open.spotify.com/track/19g5N41kZEdlfTmNSif6D9) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Recess](https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ) | 3:07 |
 
-Snapshot ID: `AAAjrZCmyI28HqtaaggZha6/w0jUL6ph`
+Snapshot ID: `AAAjr8/E525nKvqUePT2IsL/iMuXD8ho`

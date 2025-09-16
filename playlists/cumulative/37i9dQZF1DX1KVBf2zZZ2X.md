@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-255 songs - 11 hr 58 min
+256 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,9 +259,10 @@
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-03-03 | 2024-03-02 |
 | [Where We Started](https://open.spotify.com/track/1TEL8dpvn0xYNqIX5Bt4Uu) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Where We Started](https://open.spotify.com/album/4rqV31pFcmu1kaOUJBVi0b) | 3:37 | 2025-06-11 | 2025-06-20 |
 | [Willow](https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp) | [Moonweaver](https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU) | [Willow](https://open.spotify.com/album/3fuCKYpyum8p0gliwfJhkC) | 2:38 | 2024-03-01 |  |
+| [Windchimes](https://open.spotify.com/track/6Fa8vurFZIVr1brilnYS5M) | [Allowe](https://open.spotify.com/artist/5Ny0uNpaaAVZb4ciJUuwH0) | [Windchimes](https://open.spotify.com/album/5M14n23MeqGH1CNon4bxsm) | 2:51 | 2025-09-04 |  |
 | [Winding Path](https://open.spotify.com/track/6QE5nRsDAFSfKC6rWUzhhE) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Winding Path](https://open.spotify.com/album/24V8iGqBrqvaJO4MFUjlgm) | 3:02 | 2024-11-22 | 2025-06-12 |
 | [Winter Lake](https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Winter Lake](https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb) | 4:25 | 2023-03-03 | 2025-05-24 |
 | [Wisdom in Waves](https://open.spotify.com/track/3aF0SU1fNaUvAlOPf74CFE) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Wisdom in Waves](https://open.spotify.com/album/2rIKn2IBM0Qy6zgkiDm6V5) | 2:40 | 2024-08-23 | 2025-01-04 |
-| [Woodlike Experience](https://open.spotify.com/track/1pa2v9W2sWzOgGfVVD9LG7) | [Soundtopia](https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4) | [Woodlike Experience](https://open.spotify.com/album/1TQ1W4juycXVu8SI1Tu8JU) | 3:20 | 2025-06-11 |  |
+| [Woodlike Experience](https://open.spotify.com/track/1pa2v9W2sWzOgGfVVD9LG7) | [Soundtopia](https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4) | [Woodlike Experience](https://open.spotify.com/album/1TQ1W4juycXVu8SI1Tu8JU) | 3:20 | 2025-06-11 | 2025-09-16 |
 
 \*This playlist was first scraped on 2023-04-03. Prior content cannot be recovered.

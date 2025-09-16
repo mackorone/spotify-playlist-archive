@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,035 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,045 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 53 | [Blommenkinders](https://open.spotify.com/track/5VNpi0AGdtQzwUke46rKRA) | [Armand](https://open.spotify.com/artist/2TjgWhGv4T3pGRalEQmiwV) | [Het Beste van Armand](https://open.spotify.com/album/3v789DbvAeqXKPoSwOC4q6) | 3:32 |
 | 54 | [Spel Kaarten](https://open.spotify.com/track/68A1ozNluwp0GuDzSiYnDT) | [Gerard De Vries](https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP) | [Heerlijk Hollands \- Het Allerbeste van Gerard de Vries & Henk Wijngaard](https://open.spotify.com/album/2X9Y0QCl5xrDvqrsaVWj0l) | 4:23 |
 | 55 | [Swiebertje](https://open.spotify.com/track/6ffETXUkqnGug5hev2G765) | [Joop Doderer](https://open.spotify.com/artist/0mhSQKh1eYKzS0c92nyAYW), [De Damrakkertjes](https://open.spotify.com/artist/46LhiP5SPeewnIAcb4pTkg) | [Televisie\-Vriendjes](https://open.spotify.com/album/69LtdnsqRSOnHM8ZQdzfnV) | 2:39 |
-| 56 | [Wat Een Geluk](https://open.spotify.com/track/2rLSLk5ke1KlZJUAyvl5fb) | [Rudi Carrell](https://open.spotify.com/artist/52OEAGQwJplUGohcbmtAG5) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:30 |
-| 57 | [De Ploem\-Ploem Jenka](https://open.spotify.com/track/4fZnBFGXhusQwxSGRyl1GY) | [Trea Dobbs](https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 2:01 |
+| 56 | [De Ploem\-Ploem Jenka](https://open.spotify.com/track/4fZnBFGXhusQwxSGRyl1GY) | [Trea Dobbs](https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 2:01 |
+| 57 | [Wat Een Geluk](https://open.spotify.com/track/2rLSLk5ke1KlZJUAyvl5fb) | [Rudi Carrell](https://open.spotify.com/artist/52OEAGQwJplUGohcbmtAG5) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:30 |
 | 58 | [De Winter Was Lang](https://open.spotify.com/track/1TY5YJ3gWVF1iBLcXRKwM1) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 2:17 |
 | 59 | [Giddy Up Go](https://open.spotify.com/track/3Nw18q2ryka6Cjs6h5eSov) | [Gerard De Vries](https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP) | [Heerlijk Hollands \- Het Allerbeste van Gerard de Vries & Henk Wijngaard](https://open.spotify.com/album/2X9Y0QCl5xrDvqrsaVWj0l) | 3:59 |
 | 60 | [Frater Venantius \- Live](https://open.spotify.com/track/7nnjpu2Cbh9DUdSSp8hFJA) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Een Avond Met Wim Sonneveld](https://open.spotify.com/album/3Loxvfv6tOPhOoQBmLBrDI) | 8:19 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 62 | [Kangaroe Eiland](https://open.spotify.com/track/0iVB5A9tWOYWP403yqgcXR) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [De Regenboog Serie: Cocktail Trio](https://open.spotify.com/album/6O0otUrHvn27olinmbP8bu) | 2:26 |
 | 63 | [Mijn Dagboek](https://open.spotify.com/track/1ivPaxFyaHT8rlphPx5vO8) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 3:00 |
 | 64 | [Iedere Avond](https://open.spotify.com/track/27K4ItIdSmWm9VKiteM5m2) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 2:36 |
-| 65 | [Glaasje Op ..\. Laat Je Rijden](https://open.spotify.com/track/05yFbot05gXlbBErzpdLzk) | [Sjakie Schram](https://open.spotify.com/artist/2KnzTjr0eagWmhB5JHZD8i) | [De Beste Amsterdamse Hits Ooit](https://open.spotify.com/album/480v7dRWwISKjCTiBmnGGk) | 2:29 |
-| 66 | [Jij Bent Voor Mij Alleen](https://open.spotify.com/track/2eNAWjONbl5l4Ju1Yywvmu) | [De Heikrekels](https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR) | [Het Beste van De Heikrekels \- Instrumentaal](https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG) | 2:51 |
+| 65 | [Jij Bent Voor Mij Alleen](https://open.spotify.com/track/2eNAWjONbl5l4Ju1Yywvmu) | [De Heikrekels](https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR) | [Het Beste van De Heikrekels \- Instrumentaal](https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG) | 2:51 |
+| 66 | [Glaasje Op ..\. Laat Je Rijden](https://open.spotify.com/track/05yFbot05gXlbBErzpdLzk) | [Sjakie Schram](https://open.spotify.com/artist/2KnzTjr0eagWmhB5JHZD8i) | [De Beste Amsterdamse Hits Ooit](https://open.spotify.com/album/480v7dRWwISKjCTiBmnGGk) | 2:29 |
 | 67 | [Ik Heb Me Weer Vergist](https://open.spotify.com/track/0Uyl6ZCHXgiBW1EfEPjZjt) | [Bob Smit & the Duke City Sextet](https://open.spotify.com/artist/4yFGeDevG1iIHEryWKl7iL) | [The Story of Indo Rock, Vol\. 5](https://open.spotify.com/album/7aRjoPQ3OjMqUQS10W8B1t) | 3:02 |
 | 68 | [Vanavond Om Kwart Over Zes Ben Ik Vrij](https://open.spotify.com/track/61D60xl8OUaRRmsQoexzAR) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 3:29 |
 | 69 | [Geweldig](https://open.spotify.com/track/6Xjg93yoJu0h64r8SKRtld) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 1:57 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 85 | [Mona Lisa](https://open.spotify.com/track/47YsvianwaXFBWYz0J8OQo) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Hollandse Sterren](https://open.spotify.com/album/4zUjc5MAG9tJUNAIEhDLhs) | 2:39 |
 | 86 | [Een Pikketanussie](https://open.spotify.com/track/7tSM6TsdJHWbjpm6dQtHdt) | [Johnny Jordaan](https://open.spotify.com/artist/0tlvzmFmhfItI4bdwby03e) | [Hollandse Sterren Collectie](https://open.spotify.com/album/5zPZnVIgLNyJqfSV7fCyr0) | 2:14 |
 | 87 | [Mexico](https://open.spotify.com/track/00LS9wY7MHuurmWfefavb9) | [Zangeres Zonder Naam](https://open.spotify.com/artist/6m9EYPGGPleNS457wrg9p9) | [Alle 40 Goed](https://open.spotify.com/album/7E0mYawKN4S3u4gK0mwq88) | 3:36 |
-| 88 | [Suzanne \- Original Version](https://open.spotify.com/track/1q6BHWlhkW6suda3M1s8G2) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Herman Van Veen I & II](https://open.spotify.com/album/0YSFiNXQAS9JDztNj5Lyfl) | 3:49 |
-| 89 | [Ritme Van De Regen](https://open.spotify.com/track/2cFbNx5telDan1xACG9Ts8) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 2:28 |
-| 90 | [Vaarwel Ik Zal Geen Traan Meer Om Je Laten](https://open.spotify.com/track/5B3Ks1FRxvLRFcFEnV79BD) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [60 Hits](https://open.spotify.com/album/18JsD3oxq36xy7uEIzya6B) | 3:32 |
+| 88 | [Anja\- De laatste dans](https://open.spotify.com/track/3ZKJvMeGf3nyvXYUbRZyLm) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [16 Vlaamse Hits](https://open.spotify.com/album/0joha6r0Q7FUybe1YodKsc) | 3:02 |
+| 89 | [Suzanne \- Original Version](https://open.spotify.com/track/1q6BHWlhkW6suda3M1s8G2) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Herman Van Veen I & II](https://open.spotify.com/album/0YSFiNXQAS9JDztNj5Lyfl) | 3:49 |
+| 90 | [Ritme Van De Regen](https://open.spotify.com/track/2cFbNx5telDan1xACG9Ts8) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 2:28 |
 
 Snapshot ID: `AAAAAAhEqxsYNEfsW/IFz3kTHLfVczfJ`

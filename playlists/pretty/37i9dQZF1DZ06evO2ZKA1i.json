@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 299050,
+  "num_followers": 299060,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAABcAZ656kMHLQdlu0W1vySu",
+  "snapshot_id": "aMYFgAAAAADqDAMNv2dh+wSngxqU02Vt",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clearly Quite Absurd (20th Anniversary Remix)",
-        "url": "https://open.spotify.com/album/2HRy0wUf6WzybWC8rPIBuZ"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 324589,
-      "name": "Clearly Quite Absurd - 20th Anniversary Remix",
-      "url": "https://open.spotify.com/track/6FSwV4KcUqDbI4ezdtJi7i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Strangers",
         "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
       },
@@ -535,22 +519,6 @@
       "duration_ms": 240026,
       "name": "Nobody's Home",
       "url": "https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burn (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 280466,
-      "name": "Might Just Take Your Life - Remastered 2004",
-      "url": "https://open.spotify.com/track/2CCabtrP0Y8JNYuV0mo8w8"
     },
     {
       "added_at": null,
@@ -571,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Things I Never Said",
-        "url": "https://open.spotify.com/album/2NQGMl5fRl0EBcRBOK10XI"
+        "name": "Burn (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
       "artists": [
         {
@@ -580,9 +548,25 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 287479,
-      "name": "Things I Never Said - 20th Anniversary Remix",
-      "url": "https://open.spotify.com/track/3kcZN8cbpnF4MY5FL7qka3"
+      "duration_ms": 280466,
+      "name": "Might Just Take Your Life - Remastered 2004",
+      "url": "https://open.spotify.com/track/2CCabtrP0Y8JNYuV0mo8w8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clearly Quite Absurd (20th Anniversary Remix)",
+        "url": "https://open.spotify.com/album/2HRy0wUf6WzybWC8rPIBuZ"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 324589,
+      "name": "Clearly Quite Absurd - 20th Anniversary Remix",
+      "url": "https://open.spotify.com/track/6FSwV4KcUqDbI4ezdtJi7i"
     },
     {
       "added_at": null,
@@ -603,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 260466,
-      "name": "Lay Down, Stay Down - Remastered 2004",
-      "url": "https://open.spotify.com/track/1oFprMb1Z5ngadqfFeWgjZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Strangers",
         "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
       },
@@ -635,6 +603,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burn (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 260466,
+      "name": "Lay Down, Stay Down - Remastered 2004",
+      "url": "https://open.spotify.com/track/1oFprMb1Z5ngadqfFeWgjZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Things I Never Said",
+        "url": "https://open.spotify.com/album/2NQGMl5fRl0EBcRBOK10XI"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 287479,
+      "name": "Things I Never Said - 20th Anniversary Remix",
+      "url": "https://open.spotify.com/track/3kcZN8cbpnF4MY5FL7qka3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rapture of the Deep (20th Anniversary Remix)",
         "url": "https://open.spotify.com/album/5TasmBOdZjpsaD7MYW2MOO"
       },
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 273610,
-      "name": "Wrong Man - 20th Anniversary Remix",
-      "url": "https://open.spotify.com/track/7o5SdJ3mrMC0Vgstv1rHM3"
+      "duration_ms": 236682,
+      "name": "Girls Like That - 20th Anniversary Remix",
+      "url": "https://open.spotify.com/track/5hppjSURxXHlxVYwm6jfDB"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 242977,
-      "name": "Back to Back - 20th Anniversary Remix",
-      "url": "https://open.spotify.com/track/0nrFV7y5YADxjTgyzvWmkI"
+      "duration_ms": 273610,
+      "name": "Wrong Man - 20th Anniversary Remix",
+      "url": "https://open.spotify.com/track/7o5SdJ3mrMC0Vgstv1rHM3"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 236682,
-      "name": "Girls Like That - 20th Anniversary Remix",
-      "url": "https://open.spotify.com/track/5hppjSURxXHlxVYwm6jfDB"
+      "duration_ms": 242977,
+      "name": "Back to Back - 20th Anniversary Remix",
+      "url": "https://open.spotify.com/track/0nrFV7y5YADxjTgyzvWmkI"
     },
     {
       "added_at": null,

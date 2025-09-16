@@ -2,7 +2,7 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Si está pegao, está aquí\. Feat\. Rvfv
+> Si está pegao, está aquí\. Feat\. Lucho RK
 
 840 songs - 1 day 22 hr 22 min
 

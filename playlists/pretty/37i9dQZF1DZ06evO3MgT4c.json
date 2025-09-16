@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMIRAAAAAAD+xWbUwiyjAgwjc1wJV6kL",
+  "snapshot_id": "aMYFgAAAAACg1mlnsOMq9Yqj0Tt3GzLE",
   "tracks": [
     {
       "added_at": null,
@@ -571,26 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAYS BEFORE RODEO",
-        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
+        "name": "Taco Tuesday",
+        "url": "https://open.spotify.com/album/42SNLQYdeiybSNLIxVA2yn"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Peewee Longway",
-          "url": "https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6"
         }
       ],
-      "duration_ms": 274207,
-      "name": "Sloppy Toppy (feat. Migos & Peewee Longway)",
-      "url": "https://open.spotify.com/track/1OLABkcTvWfXE2xs5Yb2Ex"
+      "duration_ms": 96563,
+      "name": "Taco Tuesday",
+      "url": "https://open.spotify.com/track/2b1yiFEFZYuvlBnClvNJHP"
     },
     {
       "added_at": null,
@@ -615,18 +607,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taco Tuesday",
-        "url": "https://open.spotify.com/album/42SNLQYdeiybSNLIxVA2yn"
+        "name": "DAYS BEFORE RODEO",
+        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
       },
       "artists": [
         {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Peewee Longway",
+          "url": "https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6"
         }
       ],
-      "duration_ms": 96563,
-      "name": "Taco Tuesday",
-      "url": "https://open.spotify.com/track/2b1yiFEFZYuvlBnClvNJHP"
+      "duration_ms": 274207,
+      "name": "Sloppy Toppy (feat. Migos & Peewee Longway)",
+      "url": "https://open.spotify.com/track/1OLABkcTvWfXE2xs5Yb2Ex"
     },
     {
       "added_at": null,

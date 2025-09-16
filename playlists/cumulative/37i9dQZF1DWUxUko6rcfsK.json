@@ -1029,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Heavy Skies",
+        "url": "https://open.spotify.com/album/3xjysPSOysvvD5yHEWUiKY"
+      },
+      "artists": [
+        {
+          "name": "Mercy John",
+          "url": "https://open.spotify.com/artist/1zJU6SWc4fzECllRZbixhJ"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226329,
+      "name": "Heavy Skies",
+      "url": "https://open.spotify.com/track/2s4rj8K66iq16zQ6VK8O27"
+    },
+    {
+      "album": {
         "name": "Hedonism",
         "url": "https://open.spotify.com/album/4YEOVs05mZl1CC8GYwV2os"
       },
@@ -1372,7 +1390,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 217776,
       "name": "If You Would Prove Me Wrong Now",
       "url": "https://open.spotify.com/track/1Z1Z33mYJe4z2XT9FFYB76"
@@ -2036,6 +2054,24 @@
       "duration_ms": 192278,
       "name": "Queen of my Castle",
       "url": "https://open.spotify.com/track/5xvL8aAtHOj0R7Fpz4eAVS"
+    },
+    {
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/3u0XBQJaKbbE4GcAAFuXrj"
+      },
+      "artists": [
+        {
+          "name": "Bastian Steven",
+          "url": "https://open.spotify.com/artist/1WjUPqHiUz3DrX0l1PLsC5"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218026,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/7gq3qbUWbmSTIlGND1CXAJ"
     },
     {
       "album": {
@@ -2966,7 +3002,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 279146,
       "name": "Wonderful World",
       "url": "https://open.spotify.com/track/5ZlXMsa5agAYYy1iUMK2Z5"

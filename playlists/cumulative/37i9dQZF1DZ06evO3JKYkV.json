@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Cheetah EP",
+        "url": "https://open.spotify.com/album/6u6ES0Y3XthiMi8IGIrevq"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437440,
+      "name": "CIRKLON 1",
+      "url": "https://open.spotify.com/track/35W2s8vGKSA6T79AjdPaAn"
+    },
+    {
+      "album": {
         "name": "Drukqs",
         "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
       },

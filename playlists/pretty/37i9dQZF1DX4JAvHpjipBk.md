@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Ed Sheeran, Drake, Kali Uchis & Ravyn Lenae, Demi Lovato, Slayyyter and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,437,810 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,437,247 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 48 | [My Meridian](https://open.spotify.com/track/4nT7dyS3xtuAdLpjn3pzv0) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [My Meridian](https://open.spotify.com/album/1SXOeqqZ571IVsZfp73PiH) | 2:25 |
 | 49 | [Art Museum \(2am\)](https://open.spotify.com/track/10u8ssp3b4XOqB9s4nczkd) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Art Museum \(2am\)](https://open.spotify.com/album/1w6aoFfe36P5hJ5KTuPcD0) | 2:10 |
 | 50 | [Tied To You \(feat\. Medium Build\)](https://open.spotify.com/track/0YrUVLFiFi0udpYkLjgzSt) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Tied To You \(feat\. Medium Build\)](https://open.spotify.com/album/6HKGQOW4nrFhGbu9yIC2jk) | 3:40 |
-| 51 | [Forever](https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/5AOBx6uu2fTnhsu5keahyR) | [Forever](https://open.spotify.com/album/5bZB1yQFWT2YAR36eEuSct) | 2:51 |
+| 51 | [Forever](https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Alna](https://open.spotify.com/artist/42CbYw1Y9fAdCr6UND2P5f) | [Forever](https://open.spotify.com/album/5bZB1yQFWT2YAR36eEuSct) | 2:51 |
 | 52 | [Last Shot](https://open.spotify.com/track/5ppdmIeHPG2qLHm0SsmqfB) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [templuv](https://open.spotify.com/artist/7c4qQ1lik128TAf5e1ELbS), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Last Shot](https://open.spotify.com/album/6YbUryprhSzMIHWxUdxUPL) | 3:04 |
 | 53 | [Atlanna](https://open.spotify.com/track/1SVKs6dROzje7BU1FTLAXn) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Magic City](https://open.spotify.com/album/1lOpFH3H5zuMpuXRGPCEGW) | 4:05 |
 | 54 | [Backyard \(with JID\)](https://open.spotify.com/track/0lXryFB1cmrLYTfZ7vH91y) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Backyard \(with JID\)](https://open.spotify.com/album/5BTYzBFEHJuToi9lVeDdCw) | 3:23 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 64 | [What You Need](https://open.spotify.com/track/2UvWkmIR6mUaOx7gkWWuCT) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Soft Glas](https://open.spotify.com/artist/64YO6kjOrspjCGA2GQwsT0) | [What You Need](https://open.spotify.com/album/5JbGpDzw1QQpWEWfJIh8ux) | 3:50 |
 | 65 | [ORDINARY LOSS](https://open.spotify.com/track/4qUrMbUVDxaMZy2zPB6mD7) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [ORDINARY LOSS](https://open.spotify.com/album/1YFzAHHi7bCILUDIuJFpF6) | 3:53 |
 | 66 | [DoorDash \(OMG\)](https://open.spotify.com/track/232iuFiP4VgYBfnpFdj10t) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [I NEVER GAVE AF](https://open.spotify.com/album/5U0od07DPyVqElA9cbO364) | 3:50 |
-| 67 | [MY TYPE](https://open.spotify.com/track/3G16TkmTpBp8FyDkgev4Dc) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [MY TYPE / YEA YEA YEA](https://open.spotify.com/album/0uoCtl0pFXqwWD9QwTVVjU) | 3:08 |
+| 67 | [COME AND FIND YOU](https://open.spotify.com/track/3WXxMEvZkI1ubGnkSUtvIX) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [COME AND FIND YOU](https://open.spotify.com/album/5Ife5BN3BMuI7Ycr8ytPJV) | 3:50 |
 | 68 | [Me Gusta](https://open.spotify.com/track/2SVvycM3A5XdT6leTr30mv) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Me Gusta](https://open.spotify.com/album/4QziocRlxq0VgHwO2X9vsP) | 3:10 |
 | 69 | [Haciendo Memoria](https://open.spotify.com/track/1trlpTsQJoBoKQeHGDF72a) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Haciendo Memoria](https://open.spotify.com/album/34nVEyCXj7H5vRoqLf34Ar) | 3:07 |
 | 70 | [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [MAN ABOVE](https://open.spotify.com/track/6j3WTzuSCJIIsgw8giRSmv) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [MAN ABOVE](https://open.spotify.com/album/2cJP4CkasNZFijvuoTLIAo) | 3:08 |
 | 100 | [No Lies Detected \[Blind\]](https://open.spotify.com/track/258ZiFVggPg9p9XZ3fAD8Q) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Create, Destroy, Rebuild, Repeat](https://open.spotify.com/album/1FD51KOJseTIfFneCe2HIL) | 2:49 |
 
-Snapshot ID: `AAAAALzW/CH4oRt2QKZDowsKyjz6A+fr`
+Snapshot ID: `AAAAAKxw+IMHqf4cRQwgNK46AphM7Tbv`

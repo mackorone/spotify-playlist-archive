@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,816 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,915 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 21 | [Lucky](https://open.spotify.com/track/2JW5AjQUZg69oqM8bt6SJA) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Ryan Sandhu](https://open.spotify.com/artist/4DZwIJffAv7FZMKYxnoP1H), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [Lucky](https://open.spotify.com/album/3Z7v66nO09B9NMl3qaAhgN) | 2:56 |
 | 22 | [Tareefan](https://open.spotify.com/track/4hYKmQvLi2yaFAd7Kx07Vp) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw), [Arjan Virk](https://open.spotify.com/artist/3W4K6YoTzt7G6jc2rtNIbY), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Tareefan](https://open.spotify.com/album/36Bplz54txKmm4xAJoUGcg) | 3:12 |
 | 23 | [Nasha \(Equals Sessions\)](https://open.spotify.com/track/1rDjwexewf4hrdZT7SRNsH) | [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [Amar Jalal](https://open.spotify.com/artist/2zZ39d8KJqwu7TkF4dEh03) | [Nasha \(Equals Sessions\) \- Single](https://open.spotify.com/album/0DCY52sgebqixheOPwwasZ) | 4:47 |
-| 24 | [FIRST LOVE](https://open.spotify.com/track/0i4m3NaYFt8MCLid2PRgRx) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW) | [MOODBOARD](https://open.spotify.com/album/0dEWzhpR6tABssev2QxWDT) | 2:46 |
+| 24 | [FIRST LOVE](https://open.spotify.com/track/0i4m3NaYFt8MCLid2PRgRx) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd) | [MOODBOARD](https://open.spotify.com/album/0dEWzhpR6tABssev2QxWDT) | 2:46 |
 | 25 | [HER](https://open.spotify.com/track/6VfqPjhHLKqX9SKLCHJKRq) | [Nishawn Bhullar](https://open.spotify.com/artist/0PSwUlsuLrXzPlWIMW8wFZ), [Gur Aulakh](https://open.spotify.com/artist/4VmyHpdcbMcIM7DwuiTA5R) | [HER](https://open.spotify.com/album/6Az0l9Okolc0A1cD86sry4) | 3:08 |
 | 26 | [Sunakhiye](https://open.spotify.com/track/2bijf3ImHViOhMmJQa8WM1) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [Nvjot](https://open.spotify.com/artist/0BMNh8oG3eRoHJe1XSsghj) | [From The Streets](https://open.spotify.com/album/5tQkmGEKfc0rvGnKzqj8XE) | 3:04 |
 | 27 | [Noormahal](https://open.spotify.com/track/6LAitVJIwyCy4bJGN9TIhn) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [J\-Statik](https://open.spotify.com/artist/3qBOp2bo17mSbJS5Q3KxE2) | [Takeover](https://open.spotify.com/album/7AsfVZwqnFNaHll4Tnbhof) | 2:40 |

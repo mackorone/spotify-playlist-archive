@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,151 songs - 5 day 13 hr 17 min
+2,152 songs - 5 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [Invincible \- from Kaiju No\. 8](https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Invincible \(from Kaiju No\. 8\)](https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p) | 2:35 | 2025-04-17 | 2025-07-11 |
 | [Invincible Love](https://open.spotify.com/track/0AGbLFnswjmsuNCl8Uqb3m) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Invincible Love](https://open.spotify.com/album/2MdBFOCJlHfVVdERAGFY4W) | 3:54 | 2023-01-17 | 2023-03-15 |
 | [Invisible Wings](https://open.spotify.com/track/66S1A6ve3RwtldpheI2GGt) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite Resonance 2](https://open.spotify.com/album/7JOsrDjoqyUxg47pHxvxc1) | 5:36 | 2023-11-07 | 2024-01-10 |
+| [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 | 2025-09-15 |  |
 | [Irony \- From CrosSing](https://open.spotify.com/track/61zeExliFdY7LIiAYAFKW7) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [Irony \- From CrosSing](https://open.spotify.com/album/1RkwCpcgPJkwaXFIeGRxt4) | 4:19 | 2022-10-25 | 2022-11-23 |
 | [irony \- from CrosSing](https://open.spotify.com/track/20luTPJsOleiRaFlAOogRE) | [竹達彩奈](https://open.spotify.com/artist/4R1zxy2LxEjEgKpMre81HN) | [irony \- from CrosSing](https://open.spotify.com/album/7o1ijK5UmH6NhdgClRsDOj) | 4:19 | 2022-10-25 | 2022-10-27 |
 | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy) | 3:24 | 2023-01-15 | 2023-05-10 |
@@ -1204,7 +1205,7 @@
 | [Worlders \- BLUE BACK Ver.](https://open.spotify.com/track/6FWI2fFMAInmaIYeUgMhKd) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [Worlders \(BLUE BACK Ver.\)](https://open.spotify.com/album/3mPZHMjnNVFhN26I9AKnul) | 4:45 | 2025-01-28 | 2025-02-12 |
 | [Wrong World](https://open.spotify.com/track/3oydLYmU23bex9OQDwjxCz) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Wrong World](https://open.spotify.com/album/3QdDjNx9PAJ9LPSgtfUTNX) | 3:04 | 2024-04-10 | 2024-04-19 |
 | [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-03-31 | 2023-07-14 |
-| [X\_AXIS](https://open.spotify.com/track/5RTnzxXdlqzSySbdtxP6lF) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [X\_AXIS](https://open.spotify.com/album/4BIRrr3mvcNUpTCzVGkAwW) | 3:01 | 2025-07-04 |  |
+| [X\_AXIS](https://open.spotify.com/track/5RTnzxXdlqzSySbdtxP6lF) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [X\_AXIS](https://open.spotify.com/album/4BIRrr3mvcNUpTCzVGkAwW) | 3:01 | 2025-07-04 | 2025-09-16 |
 | [Year N](https://open.spotify.com/track/4UMwc117Ipj55O0Y8Kfq4N) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Year N](https://open.spotify.com/album/0nxngxhjoywkXZtjyT6mia) | 3:24 | 2025-01-07 | 2025-04-06 |
 | [YESとNOの間に](https://open.spotify.com/track/39RrY70qJFGRvOK51z5Mbw) | [22/7](https://open.spotify.com/artist/7tn9UjhRgGnDjOWOXuzIgZ) | [YESとNOの間に](https://open.spotify.com/album/3QIha5QmzCBlUuGS87bdHr) | 4:10 | 2024-07-23 | 2024-08-04 |
 | [YOAKE](https://open.spotify.com/track/4hY8ZPLCvMlLmfPBs2GqZ2) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO) | [YOAKE](https://open.spotify.com/album/1uVGevK443JtR9gbiFUnPu) | 3:39 | 2025-01-21 | 2025-02-16 |

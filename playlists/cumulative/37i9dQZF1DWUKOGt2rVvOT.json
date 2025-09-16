@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5feb\u4e00\u5e74\u4e86\uff1f\u5feb\u5169\u5e74\u4e86\uff1f\u771f\u7684\u5047\u7684\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u5c0f\u7537\u5b69\u6a02\u5718 (Men Envy Children)",
+  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5feb\u4e00\u5e74\u4e86\uff1f\u5feb\u5169\u5e74\u4e86\uff1f\u771f\u7684\u5047\u7684\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u7f8e\u79c0\u96c6\u5718 (Amazing Show) x \u76e7\u5ee3\u4ef2 (Crowd Lu)",
   "name": "\u9ad8\u4eba\u6c23\u91d1\u66f2",
   "tracks": [
     {
@@ -282,6 +282,24 @@
       "duration_ms": 313281,
       "name": "Love Me True",
       "url": "https://open.spotify.com/track/6vuxvUXRXUvsMDDx9bGphD"
+    },
+    {
+      "album": {
+        "name": "Made For You",
+        "url": "https://open.spotify.com/album/1s5Prxw2pVBcOr6mQFPk9N"
+      },
+      "artists": [
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148320,
+      "name": "Made For You",
+      "url": "https://open.spotify.com/track/3DpNBEjZr5MJ7Yqihdxeeu"
     },
     {
       "album": {
@@ -760,7 +778,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 227269,
       "name": "\u4e0d\u559c\u6b61\u6c92\u6709\u4f60\u7684\u5730\u65b9",
       "url": "https://open.spotify.com/track/1R0OkkgvpoIqA0XdU0YSp4"
@@ -1382,7 +1400,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 171812,
       "name": "\u5077\u5077\u60f3\u5ff5\u4f60 (feat. \u65b9\u6668)",
       "url": "https://open.spotify.com/track/7xVj07lWHM86OIlTXkEq7R"
@@ -2049,6 +2067,24 @@
     },
     {
       "album": {
+        "name": "\u5922\u60f3\u5bb6 The Dreamer",
+        "url": "https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD"
+      },
+      "artists": [
+        {
+          "name": "Khalil Fong",
+          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236343,
+      "name": "\u56de\u7559",
+      "url": "https://open.spotify.com/track/5iFT7yzuvfK8WOqiN22QqX"
+    },
+    {
+      "album": {
         "name": "\u56e0\u4e3a\u7231\u4f60",
         "url": "https://open.spotify.com/album/2XBHzrq5TrXXm02CkxqN9B"
       },
@@ -2462,7 +2498,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 182150,
       "name": "\u5982\u679c\u6708\u4eae\u6703\u8aaa\u8a71",
       "url": "https://open.spotify.com/track/6i6Lrq6Lkfsjw4WCLOr6zp"
@@ -2628,7 +2664,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 266020,
       "name": "\u5bc2\u5bde\u800c\u5df2",
       "url": "https://open.spotify.com/track/3vUk021iSWo8UQajmjBLL7"
@@ -2704,7 +2740,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 214200,
       "name": "\u5c0f\u4e8b\u60c5",
       "url": "https://open.spotify.com/track/1Kd79qr2oohuMJYt0Zdbit"
@@ -3018,7 +3054,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 233406,
       "name": "\u60f3\u548c\u4f60\u770b\u4e94\u6708\u7684\u665a\u971e",
       "url": "https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ"
@@ -3076,7 +3112,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 224400,
       "name": "\u611b\u6211\u7684\u6642\u5019",
       "url": "https://open.spotify.com/track/6us212S3fCRIQwOwNExqLH"
@@ -3347,6 +3383,24 @@
     },
     {
       "album": {
+        "name": "Almost \u5e7e\u4e4e\u662f\u611b\u60c5",
+        "url": "https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "\u6211\u5011\u6c92\u958b\u59cb",
+      "url": "https://open.spotify.com/track/19846dky3tJhNnP8AbkKPi"
+    },
+    {
+      "album": {
         "name": "\u95dc\u6389 / \u6253\u958b",
         "url": "https://open.spotify.com/album/4lNhQsVRJOBvSgBpdb6sXN"
       },
@@ -3455,6 +3509,24 @@
     },
     {
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/3rVyVUQuk526UoFKz6IQLQ"
+      },
+      "artists": [
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225410,
+      "name": "\u6211\u5feb\u6a02\u55ce",
+      "url": "https://open.spotify.com/track/12zrIANyA5BifuUPTJt5Xi"
+    },
+    {
+      "album": {
         "name": "\u6211\u60f3\u8981\u64c1\u6709\u4f60 (Netflix\u5f71\u96c6\u300a\u5f71\u540e\u300b\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/5GIQZuQ2trxmbwPk0I1I1O"
       },
@@ -3470,6 +3542,24 @@
       "duration_ms": 222244,
       "name": "\u6211\u60f3\u8981\u64c1\u6709\u4f60 - Netflix\u5f71\u96c6\u300a\u5f71\u540e\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/3Xkh1A1o9ecexZDpspT9Va"
+    },
+    {
+      "album": {
+        "name": "\u5728\u6975\u5ea6\u611b\u4f60\u7684\u65e5\u5b50\u88e1",
+        "url": "https://open.spotify.com/album/1O4zPDiUzt2SkDCWueiiBt"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259053,
+      "name": "\u6211\u628a\u6211\u7559\u5728\u90a3\u4e86",
+      "url": "https://open.spotify.com/track/6kLiqWBeX8YFgwO5yYFC7j"
     },
     {
       "album": {
@@ -3520,7 +3610,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 219503,
       "name": "\u6211\u6d3b\u8457",
       "url": "https://open.spotify.com/track/6HZPD9zSpnO3Rb5Q7copeU"
@@ -3564,6 +3654,28 @@
       "duration_ms": 290022,
       "name": "\u6211\u9019\u500b\u4eba - \u300a\u6211\u6c92\u6709\u8ac7\u7684\u90a3\u5834\u6200\u611b\u300b\u96fb\u5f71\u5ba3\u50b3\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/6jUOZRbaQc9nX8grCUTq24"
+    },
+    {
+      "album": {
+        "name": "Amazing Show\u540c\u540d\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau"
+      },
+      "artists": [
+        {
+          "name": "Amazing Show",
+          "url": "https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI"
+        },
+        {
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200346,
+      "name": "\u624b\u6a5f\u9322\u5305\u9470\u5319\u83f8 feat.Crowd Lu",
+      "url": "https://open.spotify.com/track/67aEhtXw9vYZKgyVLhkblq"
     },
     {
       "album": {
@@ -3680,6 +3792,24 @@
       "duration_ms": 305185,
       "name": "\u661f\u706b - \u96fb\u5f71\u300a\u9b25\u9b5a\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/2VPrIHC24UWTgvXHOT4a6T"
+    },
+    {
+      "album": {
+        "name": "Creeper",
+        "url": "https://open.spotify.com/album/7DHPc682uIrrdTkLOer00Y"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/2CP7We7wDMW76lotAw85aR"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298387,
+      "name": "\u661f\u7403",
+      "url": "https://open.spotify.com/track/5YwxmUSyfzBS1PiTBhH5dI"
     },
     {
       "album": {
@@ -3914,6 +4044,24 @@
       "duration_ms": 229523,
       "name": "\u6709\u4e9b",
       "url": "https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2"
+    },
+    {
+      "album": {
+        "name": "\u96b1\u5f62\u8272",
+        "url": "https://open.spotify.com/album/0Wmt2A4It1EweF3mryz3ke"
+      },
+      "artists": [
+        {
+          "name": "Terence Lam",
+          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180236,
+      "name": "\u6709\u8272\u773c\u93e1",
+      "url": "https://open.spotify.com/track/7c9rqhcZcV5qVzliMjnmTU"
     },
     {
       "album": {
@@ -5229,6 +5377,32 @@
     },
     {
       "album": {
+        "name": "\u9019\u6a23\u5f88\u597d (\u300a\u82f1\u96c4\u806f\u76df:\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u7b2c\u4e8c\u5b63\u539f\u8072)",
+        "url": "https://open.spotify.com/album/0ZyyIg7t8XtqxuBg48PbkQ"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264680,
+      "name": "\u9019\u6a23\u5f88\u597d - \u300a\u82f1\u96c4\u806f\u76df:\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u7b2c\u4e8c\u5b63\u539f\u8072",
+      "url": "https://open.spotify.com/track/0Cdq7p8QbX9EE4eNCtzGsk"
+    },
+    {
+      "album": {
         "name": "\u9023\u8f38\u5165\u6cd5\u90fd\u8a18\u5f97\u4f60 (\u300aHIStory5-\u9047\u898b\u672a\u4f86\u7684\u4f60\u300bLINE TV\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/16J1o95ybTeJSgMGHN4PTz"
       },
@@ -5580,7 +5754,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-16",
       "duration_ms": 212608,
       "name": "\u96d9\u91cd\u4eba\u683c",
       "url": "https://open.spotify.com/track/6bkxoNG2cg4hjtrniCGVwB"

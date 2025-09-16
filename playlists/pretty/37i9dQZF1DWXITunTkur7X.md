@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 
 > Beste Nederlandstaligs songs uit de 10's! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,643 likes - 67 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,651 likes - 67 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 28 | [Mooi](https://open.spotify.com/track/7DBafN97VFAJjm3sMev3KG) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [Evenwicht](https://open.spotify.com/album/1Ukxz1dgbTrDvzkIMDmQ39) | 5:15 |
 | 29 | [Zou Zo Graag](https://open.spotify.com/track/1xnbXJyeHLYvpn5UVJ6h9T) | [Jurk!](https://open.spotify.com/artist/3aTMQXvGDGHPcQFtH2PM28) | [Avondjurk](https://open.spotify.com/album/3gMtg5BXcOuYpR1HKbWXoO) | 3:32 |
 | 30 | [Los Van De Grond](https://open.spotify.com/track/27kHxYIpKSNwFJMPoEYBjW) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua), [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Grote Liefde \(Incl\. Niemand Anders\)](https://open.spotify.com/album/1bhTybvSsTJcHFiadWZr81) | 3:51 |
-| 31 | [Blauwe Dag](https://open.spotify.com/track/6bQDOThuAyOYVFomm36lR4) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Blauwe Dag](https://open.spotify.com/album/4eNf6WntLR94hrsKlm0Zlw) | 3:02 |
-| 32 | [Afscheid](https://open.spotify.com/track/0XzxGUfBEkMP0NdUCRhTR9) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Het Beste Van Glennis Grace](https://open.spotify.com/album/6gvv5CK5WVdSu6K9TQQSOq) | 4:38 |
+| 31 | [Afscheid](https://open.spotify.com/track/0XzxGUfBEkMP0NdUCRhTR9) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Het Beste Van Glennis Grace](https://open.spotify.com/album/6gvv5CK5WVdSu6K9TQQSOq) | 4:38 |
+| 32 | [Blauwe Dag](https://open.spotify.com/track/6bQDOThuAyOYVFomm36lR4) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Blauwe Dag](https://open.spotify.com/album/4eNf6WntLR94hrsKlm0Zlw) | 3:02 |
 | 33 | [Ik Zou Het Zo Weer Overdoen](https://open.spotify.com/track/7fRx3YuGwcXoYga8uyO6HI) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Duizend Spiegels](https://open.spotify.com/album/29MG7geSPIrr42IeLmKCNr) | 4:08 |
 | 34 | [Lil Craney](https://open.spotify.com/track/6mhojtIauujcoXxlGsihh1) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Lil Craney](https://open.spotify.com/album/32gEJF3F0kjSxLL3q41UOh) | 2:49 |
 | 35 | [De Zon Op](https://open.spotify.com/track/7CYnkJKpShrhw4foM71XcC) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [De Zon Op](https://open.spotify.com/album/6eVSAtcFUBA0vvfwVBVhiJ) | 3:28 |

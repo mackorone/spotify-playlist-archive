@@ -4,7 +4,7 @@
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-114 songs - 5 hr 9 min
+115 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Hold Me Down \(42 Dugg, Coi Leray\)](https://open.spotify.com/track/3RXjFdXvbIIydnkrCKIjcA) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Hold Me Down](https://open.spotify.com/album/3ZnMKPhpgpTwXRSrXZ4XEm) | 2:50 | 2022-10-28 |  |
 | [Huddy](https://open.spotify.com/track/5AJfj6wlGtaWlhd71RAxTG) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [EC2](https://open.spotify.com/album/7x4F4nXWjtsM1mCKY8ljJb) | 4:24 | 2022-10-28 | 2023-04-09 |
 | [I Hate Your Friends](https://open.spotify.com/track/5bLh6IjGi8gggcsAdo5iqi) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [What Happened To Forever?](https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52) | 1:54 | 2025-02-15 | 2025-05-19 |
-| [I Like \(feat\. Karlae & Coi Leray\)](https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Karlae](https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:09 | 2022-10-28 |  |
+| [I Like \(feat\. Karlae & Coi Leray\)](https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Karlae](https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:09 | 2022-10-28 | 2025-09-16 |
 | [I Like It \(feat\. Kiana Lede & Sevyn Streeter\)](https://open.spotify.com/track/6C1yG7dmGZQcIxtHADDLeS) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Now or Never](https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G) | 3:30 | 2022-10-28 | 2024-05-26 |
 | [Impatient \(feat\. Coi Leray\)](https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Die 4 Respect](https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG) | 4:05 | 2022-10-28 |  |
 | [Involved](https://open.spotify.com/track/4Zj2W1HdImJ9mN779m9jHt) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Involved](https://open.spotify.com/album/2UL9j77BeQLGS9IMoh5SUv) | 3:00 | 2022-10-28 | 2024-11-09 |
@@ -90,6 +90,7 @@
 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 | 2022-10-28 | 2025-06-07 |
 | [Paranoid \(with Polo G\)](https://open.spotify.com/track/5nY13Y42kWZ2o39R9zM3mF) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:27 | 2022-10-28 | 2024-06-03 |
 | [Phuck It](https://open.spotify.com/track/67JdujEjlWXxTO1aujitaV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 1:58 | 2023-06-25 |  |
+| [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC) | 2:44 | 2025-09-16 |  |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2022-12-01 |  |
 | [Poster Girl](https://open.spotify.com/track/5EUIAKpcGL0CS9O0Tx3sl4) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Lemon Cars](https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm) | 2:57 | 2024-06-01 | 2024-08-13 |
 | [Pretty Girls Walk \(with Coi Leray\) \- Remix](https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Pretty Girls Walk \(Remix\)](https://open.spotify.com/album/3jmmKIPtYmaC8XsDmVIO1W) | 2:20 | 2024-08-03 |  |
