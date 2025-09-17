@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124981,
+  "num_followers": 124975,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUlJt2te4vqsfkISDigQ1pkUVkqUa8",
+  "snapshot_id": "AAAUlaD/vh/MVqM6ulkvPe1rDVpIjdtW",
   "tracks": [
+    {
+      "added_at": "2025-09-16 13:14:28",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/7FZCcXAeHZR34WCt1w2aBm"
+      },
+      "artists": [
+        {
+          "name": "ORACLE",
+          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/59Iv8sTgb7XjG1sydJTwdk"
+    },
     {
       "added_at": "2025-09-15 14:08:17",
       "album": {

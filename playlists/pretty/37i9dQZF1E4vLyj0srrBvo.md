@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With Pastel Ghost, Sky Ferreira, Labyrinth Ear and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,595 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,597 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Playgirl](https://open.spotify.com/track/2i1RPs2CVW6Iw92PuWcQgF) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [604](https://open.spotify.com/album/0Rg5gPR4pbwQrnfmTO9yxK) | 3:49 |
 | 50 | [Lithium](https://open.spotify.com/track/3ofiQMPt5OZZTzzsCewZBU) | [Labyrinth Ear](https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd) | [Oak](https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr) | 3:27 |
 
-Snapshot ID: `aMiymwAAAACPYv017DEVvbilEi0rV53C`
+Snapshot ID: `AAAAAM9DXZOCm8GeGm9VDU7e7LgUb7zi`

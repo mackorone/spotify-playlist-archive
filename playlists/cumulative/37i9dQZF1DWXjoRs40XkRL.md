@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-392 songs - 1 day 12 hr 21 min
+393 songs - 1 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Balma Roothe](https://open.spotify.com/track/5iwv6Hnc8qK2MMWAEPaxSy) | [Bhavya Pandit](https://open.spotify.com/artist/1hYkTNl6h28hwB6IZJ3nfB), [Avijeet Satapathy](https://open.spotify.com/artist/1Odsf0ejphk7o2GEViymZv) | [Balma Roothe](https://open.spotify.com/album/3H2bShG6rGWRWpB4zCB3i8) | 2:46 | 2025-02-12 | 2025-05-08 |
 | [Bandh Aankhein](https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP) | [Muhafiz](https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Siddharth Chopra](https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx) | [Bandh Aankhein](https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG) | 3:24 | 2024-10-04 |  |
 | [Baras](https://open.spotify.com/track/2eJeQraCbVdmkFsLqPkBHP) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Elements](https://open.spotify.com/album/4PDXWMxlqPHO4Ox9KCvoJ8) | 4:58 | 2022-05-17 | 2023-03-23 |
+| [Barasana Laagi Re](https://open.spotify.com/track/6yzBtilObFjJtCgI2Z5tOF) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Barasana Laagi Re](https://open.spotify.com/album/6nscidkhxexKhPhwNALlAp) | 3:19 | 2025-09-12 |  |
 | [Bargat Ke Pedo Pe Shakhe Purani](https://open.spotify.com/track/1gFDuN2HElEtr030D5yDRs) | [Piyush Mishra](https://open.spotify.com/artist/0kttITJItx4bssbq6EcXCS) | [Jalpari \- The Desert Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ygwH3yJqtGFDozsANxJoF) | 6:40 | 2023-02-01 | 2024-01-02 |
 | [Bargat Ke Pedo Pe Shakhe Purani](https://open.spotify.com/track/7HEzYAe4T1fMU50PWxIjms) | [Piyush Mishra](https://open.spotify.com/artist/0kttITJItx4bssbq6EcXCS) | [Jalpari \- The Desert Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79vebYWRKA2lr194JCz7Yf) | 6:40 | 2023-12-15 | 2024-02-17 |
 | [Barkha](https://open.spotify.com/track/1bkU3lIlioHhMGQoeZASbv) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Barkha](https://open.spotify.com/album/0t8oQvb7XfGFYWX0Biu8eP) | 4:21 | 2023-07-24 | 2024-04-19 |
@@ -287,7 +288,7 @@
 | [Pukaare Mujhe](https://open.spotify.com/track/1SRx9uM1ixCPVJqt2xDXqB) | [Orgho](https://open.spotify.com/artist/1WZYo8rlmMYUTz5TbRe4PQ), [Saurav Jyoti Nath](https://open.spotify.com/artist/1batjlGIIBAtWow0WwTRBL) | [Pukaare Mujhe](https://open.spotify.com/album/5TiV1apDwa8GgoeVJX4RO6) | 4:30 | 2025-04-25 | 2025-07-07 |
 | [Purvayi](https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Purvayi](https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp) | 5:10 | 2022-05-17 | 2023-10-10 |
 | [Purvi](https://open.spotify.com/track/4o67UGDLbGPDPjD4ABcJSy) | [Naad](https://open.spotify.com/artist/0vk6S4KUi6MkvCr9npFoud) | [Purvi](https://open.spotify.com/album/4pxhyzACOXcpagXUOcU26V) | 4:24 | 2023-03-10 | 2023-05-24 |
-| [Raag Mishra Shirvranjani Taal Deepchandi](https://open.spotify.com/track/21CxzCrRgjPe5nFFe3ks9j) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Jugalbandi 2](https://open.spotify.com/album/4RlDoF53xUIiKYC0TEgbxz) | 21:49 | 2025-01-06 |  |
+| [Raag Mishra Shirvranjani Taal Deepchandi](https://open.spotify.com/track/21CxzCrRgjPe5nFFe3ks9j) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Jugalbandi 2](https://open.spotify.com/album/4RlDoF53xUIiKYC0TEgbxz) | 21:49 | 2025-01-06 | 2025-09-17 |
 | [Raah Piya](https://open.spotify.com/track/0ixfdWFlkqjbgTRsCLm7cQ) | [Pakshee](https://open.spotify.com/artist/6UP5gZf6GHQRegEkCDQMvh) | [Pakshee](https://open.spotify.com/album/3si2hUnaDjTT9MslMfZEjB) | 7:04 | 2022-05-17 | 2023-05-24 |
 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 | 2022-05-17 | 2023-05-24 |
 | [Raanjhanaa](https://open.spotify.com/track/2EM5e2WiPfjKS3BK0JrzIH) | [Rudra Majumder](https://open.spotify.com/artist/6JblbbuaCCT2CHWDlbtDXM), [Biyas Sarkar](https://open.spotify.com/artist/2WCEJe0EyzzXUmsqejOcGt) | [Raanjhanaa](https://open.spotify.com/album/3FJWP2lkzVIX5jbsabqOuX) | 2:50 | 2022-12-19 | 2023-04-22 |

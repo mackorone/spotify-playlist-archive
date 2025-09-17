@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 82257,
+  "num_followers": 82285,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMYFgAAAAACj9lbzvDt/jGD8Uoi1AJ/a",
+  "snapshot_id": "aMdXAAAAAABm1Pid7y5SAnisLEayF2vm",
   "tracks": [
     {
       "added_at": null,
@@ -799,30 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIXTAPE: Vol. 1",
-        "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
+        "name": "Gin & Juice (HARDY\u2019s Version)",
+        "url": "https://open.spotify.com/album/780NNJ4wBv7iacbC51cEq9"
       },
       "artists": [
         {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        },
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
         }
       ],
-      "duration_ms": 185813,
-      "name": "Boy From The South (HARDY feat. Cole Swindell, Dustin Lynch)",
-      "url": "https://open.spotify.com/track/2ILsP5u4fRCAb9oIyxJ1Wl"
+      "duration_ms": 240452,
+      "name": "Gin & Juice - HARDY\u2019s Version",
+      "url": "https://open.spotify.com/track/3RSKGpek3rN4jaj0yuhBRx"
     },
     {
       "added_at": null,
@@ -859,18 +847,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gin & Juice (HARDY\u2019s Version)",
-        "url": "https://open.spotify.com/album/780NNJ4wBv7iacbC51cEq9"
+        "name": "HIXTAPE: Vol. 1",
+        "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
       },
       "artists": [
         {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        },
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
         }
       ],
-      "duration_ms": 240452,
-      "name": "Gin & Juice - HARDY\u2019s Version",
-      "url": "https://open.spotify.com/track/3RSKGpek3rN4jaj0yuhBRx"
+      "duration_ms": 185813,
+      "name": "Boy From The South (HARDY feat. Cole Swindell, Dustin Lynch)",
+      "url": "https://open.spotify.com/track/2ILsP5u4fRCAb9oIyxJ1Wl"
     },
     {
       "added_at": null,

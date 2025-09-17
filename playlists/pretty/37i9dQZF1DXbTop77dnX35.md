@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Qing Madi, Stonebwoy, Rybeena, Skales  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,885 likes - 59 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,943 likes - 59 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 12 | [Mrs Officer](https://open.spotify.com/track/2kBDgJUbzYOWFEMIRlmIer) | [svndaypack](https://open.spotify.com/artist/2MhOafEXdLSXZ9aV07o4lh), [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7) | [Mrs\. Officer](https://open.spotify.com/album/099qvavnu7dMOdxHQMgkLC) | 2:25 |
 | 13 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5) | 3:13 |
 | 14 | [Here All Night](https://open.spotify.com/track/1MnYnayoEmTfZTM7GoPJGM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Here All Night](https://open.spotify.com/album/0caOziV0fbBR8OuU9SDiSS) | 2:56 |
-| 15 | [FOREIGN](https://open.spotify.com/track/1d2favwe5sHJVLGf1YcP0Q) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y), [G\-WEST](https://open.spotify.com/artist/1d5yXMug87O6NFuURx9RJ7) | [SMOKESHOWB](https://open.spotify.com/album/0LS6VTZ9OcpNK9zxs3R5Yr) | 3:30 |
+| 15 | [FOREIGN](https://open.spotify.com/track/1d2favwe5sHJVLGf1YcP0Q) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y), [G\-West](https://open.spotify.com/artist/39utnMndFEvTgT6ldinEaJ) | [SMOKESHOWB](https://open.spotify.com/album/0LS6VTZ9OcpNK9zxs3R5Yr) | 3:30 |
 | 16 | [Not Nice](https://open.spotify.com/track/4cSF1vLRkE6gm58yyYuH8v) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV), [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Not Nice](https://open.spotify.com/album/0imm5cda4i6S4ZEbibg4JX) | 2:41 |
 | 17 | [watch you](https://open.spotify.com/track/4W5ml2Sw3cad9rZy0DufqS) | [Beezyx](https://open.spotify.com/artist/0r6sAkbsRJkBbmxYlh4cso), [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [Musta4a](https://open.spotify.com/artist/4if5dwAkHl7FZNCJTIB5e9), [Brum3h](https://open.spotify.com/artist/5kseDibp36pgGjEoOFsRFk) | [vvsxszn](https://open.spotify.com/album/4OEtkTMpb9RcITRVvQKuEn) | 2:42 |
 | 18 | [GIRL'S PLENTY](https://open.spotify.com/track/6kuotow5gQj2b6ZhZLeiNC) | [Fitzy West](https://open.spotify.com/artist/77nPExxF79dZnp7LDXsZEr) | [GIRL'S PLENTY](https://open.spotify.com/album/5RqOfd7hLVz0WT9wh88BtE) | 2:06 |

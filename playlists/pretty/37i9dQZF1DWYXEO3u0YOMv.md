@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 ### [This Is MAPPA](https://open.spotify.com/playlist/37i9dQZF1DWYXEO3u0YOMv)
 
-> 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
+> <a href="http://www.mappa.co.jp/">MAPPA</a>が紡いできたアニメーションの世界を音楽で辿るプレイリスト。心に残る名曲たちを集めました。<br/>A playlist that traces the animated worlds created by <a href="http://www.mappa.co.jp/">MAPPA</a> through music, featuring a collection of memorable songs that remain in the heart\. © 2025 MAPPA／チェンソーマンプロジェクト ©藤本タツキ／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,166 likes - 130 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,169 likes - 130 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 129 | [坂道のメロディ](https://open.spotify.com/track/65XW0J9tP56gJrPLdXgJpv) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [すてきな15才](https://open.spotify.com/album/2600J4K01OUJMqyn4S87ca) | 4:44 |
 | 130 | [ばかじゃないのに](https://open.spotify.com/track/2UkcZV07LP39NQg9tGBvnh) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ばかじゃないのに](https://open.spotify.com/album/6XY8TrEZf0R3xnm6kouGzT) | 4:16 |
 
-Snapshot ID: `AAAAAABqUN7AM4qGSu0jrSyGY4ua/aMD`
+Snapshot ID: `AAAAALTpbMxL93x/sM+JHyEnNZtOE6lH`

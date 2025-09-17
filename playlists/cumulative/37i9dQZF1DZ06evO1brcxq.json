@@ -599,6 +599,28 @@
     },
     {
       "album": {
+        "name": "Everything is romantic featuring caroline polachek",
+        "url": "https://open.spotify.com/album/0ZdvmKuGdMusb7B0qqVEio"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203945,
+      "name": "Everything is romantic featuring caroline polachek",
+      "url": "https://open.spotify.com/track/4cCnCDJZDLGDIdnxRfOUBn"
+    },
+    {
+      "album": {
         "name": "The New Classic (Deluxe Version)",
         "url": "https://open.spotify.com/album/3WUe1HRgE7qoUQ3oejofGf"
       },

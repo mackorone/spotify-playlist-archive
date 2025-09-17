@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Ryan Ofei & Shoreline City Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 943,746 likes - 75 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 943,813 likes - 75 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 3 | [Good Day \- Live](https://open.spotify.com/track/3pajbvCouuW4s6Lt3Ij165) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Weight Of Heaven \(Live\)](https://open.spotify.com/album/0q9rvf3AbwZ5iMhC04Zw7Z) | 3:47 |
 | 4 | [Higher Than I](https://open.spotify.com/track/5aFJW3p1SvYfvVRT7HBKp8) | [Sons Of Sunday](https://open.spotify.com/artist/4xdrIk3HcWXiRifZnnpG5O) | [Sons Of Sunday](https://open.spotify.com/album/0uGwOI1g9VLHVZtaGh2X9w) | 4:18 |
 | 5 | [Alabaster Jar \- Live](https://open.spotify.com/track/6CKLTrkkWN5Qd4zYS9vjZ7) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Build An Altar \(Live\)](https://open.spotify.com/album/0vX9hjLUGsl2ujFycJTYyn) | 4:38 |
-| 6 | [I Want Jesus \- Live](https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y) | [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [I Want Jesus \(Live\)](https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0) | 6:09 |
+| 6 | [I Want Jesus \- Live](https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [I Want Jesus \(Live\)](https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0) | 6:09 |
 | 7 | [Greatly To Be Praised \- Live](https://open.spotify.com/track/4nxbshOlmnBPG94wjMHsaU) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Greatly To Be Praised \(Live\)](https://open.spotify.com/album/2OSFDqMbtiqHrSVXbWbQHM) | 8:58 |
 | 8 | [The Perfect Love of Jesus \- Live](https://open.spotify.com/track/5R7MwLBKlUPzRptEuQFY1I) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [The Perfect Love of Jesus \(Live\)](https://open.spotify.com/album/0t6mPMKBtiYM0BRfYW0TIM) | 7:53 |
 | 9 | [Consider Him \- Live](https://open.spotify.com/track/0yqqeDcVDTvVHi1Vp0pz2G) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [1350 \(Live\)](https://open.spotify.com/album/1GTvVA3HOCDDEnW27RV52Z) | 5:32 |

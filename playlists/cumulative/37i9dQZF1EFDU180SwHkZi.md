@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-134 songs - 6 hr 20 min
+135 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Tu Jaana Na Piya](https://open.spotify.com/track/4u0D2jZ20wQaEMHBSqsDnZ) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 3:46 | 2025-07-03 |  |
 | [Us](https://open.spotify.com/track/0FY8cOuPMXEjys4gyapW1Q) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Us](https://open.spotify.com/album/0WvjvqCSR2kLQPRm7q6lDw) | 2:17 | 2025-07-03 |  |
 | [Villain](https://open.spotify.com/track/5rkii4XoHYuaKY5zadbnOg) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Love Language](https://open.spotify.com/album/20Ar139mlrKYQWhCJS55iO) | 2:54 | 2025-08-03 |  |
+| [Wax On Wax Off](https://open.spotify.com/track/6OOVIYZMAaSGan0VblqAaq) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Wax On Wax Off](https://open.spotify.com/album/7KDGCPHPJBulOmsSAOXVHj) | 2:51 | 2025-09-16 |  |
 | [Way You Move](https://open.spotify.com/track/2D63BaGWZtBjUBOYVSrl5K) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Way You Move](https://open.spotify.com/album/1rxymbQM3Vvv2rH27kpzBp) | 2:58 | 2025-07-26 |  |
 | [We Are The Ones \(feat\. Gucci Mane\)](https://open.spotify.com/track/47AEUwR1rppGeruasDVgBC) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 2:47 | 2025-07-03 |  |
 | [What In The World \(feat\. NATURE\)](https://open.spotify.com/track/6SQTv4pqlFzbofosQGAX69) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [What In The World \(feat\. NATURE\)](https://open.spotify.com/album/4TS8s49jue6a2xcmGk9ejN) | 3:18 | 2025-07-03 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMYFgAAAAAAc50sJB2NX3zRZzZNmPbql",
+  "snapshot_id": "aMdXAAAAAADRwxuhlju3u5XYiEcflCi9",
   "tracks": [
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Built This City",
-        "url": "https://open.spotify.com/album/25XwdliNAo6VrO7J2U2GxJ"
+        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 235810,
-      "name": "We Built This City",
-      "url": "https://open.spotify.com/track/6uGax7tGLYcmZ0Nk12eO9a"
+      "duration_ms": 262190,
+      "name": "Crisis in the Slow Lane",
+      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
+        "name": "We Built This City",
+        "url": "https://open.spotify.com/album/25XwdliNAo6VrO7J2U2GxJ"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 262190,
-      "name": "Crisis in the Slow Lane",
-      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
+      "duration_ms": 235810,
+      "name": "We Built This City",
+      "url": "https://open.spotify.com/track/6uGax7tGLYcmZ0Nk12eO9a"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wildheart Dreaming",
+        "url": "https://open.spotify.com/album/66OUu51LrvQjuywPP78Itc"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 192638,
+      "name": "Fight or Run",
+      "url": "https://open.spotify.com/track/1bkRlqgIqGHsthK66ot39Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Complicated (feat. Heights)",
         "url": "https://open.spotify.com/album/3b5UdO9XkyHFQLFlNaWs01"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 212399,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/7w7WlXyXPuo0AuuWMSGw98"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wildheart Dreaming",
-        "url": "https://open.spotify.com/album/66OUu51LrvQjuywPP78Itc"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 192638,
-      "name": "Fight or Run",
-      "url": "https://open.spotify.com/track/1bkRlqgIqGHsthK66ot39Q"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live Like This",
+        "url": "https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 230897,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/3r5giCeK7AtSByLMbmQgl0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shaking In The Water",
         "url": "https://open.spotify.com/album/4qAwGPiGVQvbgccrF34jih"
       },
@@ -563,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Like This",
-        "url": "https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd"
+        "name": "So No One Told You Life Was Gonna Be This Way",
+        "url": "https://open.spotify.com/album/7Dubvhg0cRoqLSb3TVKfHg"
       },
       "artists": [
         {
@@ -572,9 +588,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 230897,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/3r5giCeK7AtSByLMbmQgl0"
+      "duration_ms": 171324,
+      "name": "Inbetween Days",
+      "url": "https://open.spotify.com/track/1nnXpxZyF7ule644vVi1RZ"
     },
     {
       "added_at": null,
@@ -620,9 +636,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 167813,
-      "name": "Let's Run",
-      "url": "https://open.spotify.com/track/2Wwm67ZMDDj9gY2jPcwFLO"
+      "duration_ms": 212746,
+      "name": "Tear Me Down",
+      "url": "https://open.spotify.com/track/4RZv3EVH2lebzYec3mSi2Z"
     }
   ],
   "unique_name": "This Is The XCERTS",

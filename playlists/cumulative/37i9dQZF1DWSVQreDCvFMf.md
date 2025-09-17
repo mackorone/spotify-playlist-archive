@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Janine Berdin
 
-529 songs - 1 day 9 hr 1 min
+531 songs - 1 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Like That](https://open.spotify.com/track/6nVpxxlFvLi3KdG6ZBYokr) | [MI MI](https://open.spotify.com/artist/33zZ2KDzkPeAYMjFtRwo9x) | [Like That](https://open.spotify.com/album/2KYYH04yKSw3Ic0hxAEVz6) | 3:18 | 2024-08-09 | 2024-11-09 |
 | [Lila](https://open.spotify.com/track/14Edofhd6KHcuO51WitSLV) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Lila](https://open.spotify.com/album/4QuF85jFBoM63F56LIYZCT) | 3:48 | 2024-07-02 | 2024-11-09 |
 | [Limang Taon](https://open.spotify.com/track/7d4sWEXBTj6qShMbMWpEd3) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Limang Taon](https://open.spotify.com/album/2EwDlMDhz7mRqS9lMWbGdL) | 5:14 | 2024-07-02 | 2024-08-03 |
+| [Lipstick Na Itim](https://open.spotify.com/track/0fNMtfwQ2hDZOaUstHZZV2) | [Kyle Echarri](https://open.spotify.com/artist/53qa1XIZ6pZuhrGDetCGew) | [100 Awit Para Kay Stella](https://open.spotify.com/album/3BtKv95JGLOurWoPAHHX26) | 3:02 | 2025-09-16 |  |
 | [Little Paradise](https://open.spotify.com/track/34l48eopIEbS9l475GAFDy) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Little Paradise](https://open.spotify.com/album/3Dnwf0bINwnc20LQ033gfI) | 3:18 | 2024-07-02 | 2024-07-19 |
 | [Live Your Life \(2025\)](https://open.spotify.com/track/6ozec3Smt66vQKmDso6DVn) | [Mayonnaise](https://open.spotify.com/artist/7lIVjtsgz0y1oRQFBAVNzq) | [B\-sides & Rarities, Vol\. II](https://open.spotify.com/album/4nLhhipkDMXbUQrjRGJtpB) | 4:27 | 2025-04-07 | 2025-06-21 |
 | [Liwanag](https://open.spotify.com/track/5hZhsesizIAUphzK8WKuCz) | [Magiliw Street](https://open.spotify.com/artist/5J8oDvMc65JFCewBYS60nA) | [Liwanag](https://open.spotify.com/album/4JauNyP783qRaX2QUTQudf) | 4:13 | 2025-09-15 |  |
@@ -411,6 +412,7 @@
 | [Ready](https://open.spotify.com/track/4JZocgyzKHdRF0iSOcodJn) | [apl.de.ap](https://open.spotify.com/artist/6LB6kuJjrGvRzAkH6ddeWt), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Ready](https://open.spotify.com/album/1YoZaseeQUSZ16qgD8qAet) | 3:58 | 2024-07-02 | 2024-08-10 |
 | [REWIND](https://open.spotify.com/track/4aVDbrpPQJCryGtkLKRtdp) | [JAN AMIEL](https://open.spotify.com/artist/0W5eiMjOH4HsYTIHT2gwgD) | [REWIND](https://open.spotify.com/album/2kkbi0jmkxzgRSDfKCSInc) | 4:13 | 2025-06-27 |  |
 | [REYNA](https://open.spotify.com/track/5cLkr7ZJY7XAUQ8NnqfYHD) | [MICHELLE DEE](https://open.spotify.com/artist/3HEcnzhoFTcZVfvTksxNjx) | [REYNA](https://open.spotify.com/album/3Ruh2OcVZA4qFHfKJdocmc) | 2:27 | 2025-04-10 | 2025-06-21 |
+| [Reyna Ng Quezon City](https://open.spotify.com/track/6x5iYjQE42FToFSUmcOvdw) | [Juana](https://open.spotify.com/artist/51v81eaY4bPSzGTYjG9SlS) | [Misbehavior](https://open.spotify.com/album/2nWGeo91pWDhwzS3BKgDUS) | 2:43 | 2025-09-16 |  |
 | [RIDE](https://open.spotify.com/track/2Ne8TpsDAs3dHrNpPqkd2v) | [rienne](https://open.spotify.com/artist/4TvZ190CDevLDBByQ5pXTP), [DAZE](https://open.spotify.com/artist/0jts7PajizS8WEOylLO1b6) | [RIDE](https://open.spotify.com/album/2mTviQ1feV7WAuA8LoND7A) | 2:41 | 2025-08-08 |  |
 | [Right Lover, Wrong Time \(feat\. Arthur Miguel\)](https://open.spotify.com/track/2NC87lvkLludWJpaiIv2XS) | [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER), [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Right Lover, Wrong Time \(feat\. Arthur Miguel\)](https://open.spotify.com/album/1sCj6QMPqkKGKcThjOB1D6) | 3:35 | 2024-10-03 | 2024-12-26 |
 | [rock baby](https://open.spotify.com/track/66G38suT092YEchEcT1vqK) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW), [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [rock baby](https://open.spotify.com/album/00jY4qjIM5wK2bHRfMCJ2n) | 4:06 | 2025-09-15 |  |

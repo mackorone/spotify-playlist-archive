@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Creator do mês: <a href="spotify:show:1w7QLlSXZcUrvF6djRawtg">Aquele podcast da Beta</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,807 likes - 9 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,806 likes - 9 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

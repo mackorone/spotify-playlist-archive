@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Langa ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,683 likes - 70 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,712 likes - 70 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 24 | [GANGSTA](https://open.spotify.com/track/0xbK2OxyqU9dx2UJYz4HpN) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA) | [GANGSTA](https://open.spotify.com/album/40yllSwcv1D4J5jspTMHiW) | 2:12 |
 | 25 | [DUBLIN](https://open.spotify.com/track/2gfkw8TTvfPJYnnOViGBsG) | [Kevcody](https://open.spotify.com/artist/3heGIV1KV0B4c4MW7H2mey) | [DUBLIN](https://open.spotify.com/album/3eFAoDLj94V7XKporHc1ZK) | 3:10 |
 | 26 | [CHAMPION FLOW](https://open.spotify.com/track/5dsUFwWl5U8336RqCX0YRX) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [bLoOdLine](https://open.spotify.com/album/5yXbtQeFi51B9YKn1X5SR6) | 2:40 |
-| 27 | [Science](https://open.spotify.com/track/5wkeyRDjAjca9gD68ZtZrb) | [Demmaa & Javé](https://open.spotify.com/artist/44j3SrDZgV0BhbXNaDjHj6), [Demmaa](https://open.spotify.com/artist/0QNUFOACb7okLgyHnghUBW), [Javé](https://open.spotify.com/artist/0l0L4jCaPSwe99OwHtzQeT) | [Science](https://open.spotify.com/album/38siWgtK2AzqgadjRXRory) | 2:32 |
+| 27 | [Science](https://open.spotify.com/track/5wkeyRDjAjca9gD68ZtZrb) | [Demmaa & Javé](https://open.spotify.com/artist/44j3SrDZgV0BhbXNaDjHj6), [Demmaa](https://open.spotify.com/artist/0QNUFOACb7okLgyHnghUBW), [Javé](https://open.spotify.com/artist/0l0L4jCaPSwe99OwHtzQeT) | [Science](https://open.spotify.com/album/38siWgtK2AzqgadjRXRory) | 2:27 |
 | 28 | [Charger](https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [Franchement !](https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD) | 2:35 |
 | 29 | [Feelings](https://open.spotify.com/track/6hP4pay5JJA2KfJStyaNyX) | [PLUGOXHUSH](https://open.spotify.com/artist/1NVqy2JmTHXzS0deflJpS2), [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Feelings](https://open.spotify.com/album/1mADSH4sUK2b3ScrEAWLOo) | 2:26 |
 | 30 | [Blaze Up](https://open.spotify.com/track/05CD2lFFr7xNxMz0cQFwjI) | [Limitlezz](https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Blaze Up](https://open.spotify.com/album/6tsulHSrNBwzOhMQAypiUL) | 2:38 |

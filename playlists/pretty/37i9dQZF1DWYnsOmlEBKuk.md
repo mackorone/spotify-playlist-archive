@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnsOmlEBKuk.md) - [plain]
 
 > Ruido blanco para ayudar a los bebés a dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,942 likes - 200 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,050 likes - 200 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnsOmlEBKuk.md) - [plain]
 | 125 | [Wind Low Frequencies Part 2](https://open.spotify.com/track/7xLU1kiMAeExhb6fQydrda) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Wind Low Frequencies](https://open.spotify.com/album/4dSN48MlxGQ355tfhCPFjq) | 2:25 |
 | 126 | [Relaxing In The Noise](https://open.spotify.com/track/0TtxJQ3O4Mz8rg5Eme4Tgt) | [Historic Site](https://open.spotify.com/artist/2b6lrSLIjDIaFN8hd7py6a) | [Noise Zone](https://open.spotify.com/album/2TGWB7qK1w8z8kCbCky0bj) | 2:31 |
 | 127 | [Low Earth Orbit](https://open.spotify.com/track/6iFY0bfr83RB6oq8V6MkSG) | [State of Waves](https://open.spotify.com/artist/1qC3nE1aPdL2nJ41op52RY) | [Deep Space Voyage](https://open.spotify.com/album/2YnXZ0YYxrhJ5bFfwYlNhN) | 2:30 |
-| 128 | [Deep Blue Noise](https://open.spotify.com/track/1St21ut6MLUzjMC8mlo4aK) | [Relaxing Noises](https://open.spotify.com/artist/3uMJsDLenRrP1soBlu3YKq) | [Under The Ocean](https://open.spotify.com/album/7A5dn3ZlAKpqcG33Nio3Hq) | 2:13 |
-| 129 | [Noises At Night](https://open.spotify.com/track/1V7yECM1CBuWSMJqqj9RPG) | [Sleep Sound Factory](https://open.spotify.com/artist/0TNR9PuUgbrCPci3tolmNT) | [Noises At Night](https://open.spotify.com/album/5mGK1d7pOHtMaVlY2o6ngO) | 2:11 |
+| 128 | [Noises At Night](https://open.spotify.com/track/1V7yECM1CBuWSMJqqj9RPG) | [Sleep Sound Factory](https://open.spotify.com/artist/0TNR9PuUgbrCPci3tolmNT) | [Noises At Night](https://open.spotify.com/album/5mGK1d7pOHtMaVlY2o6ngO) | 2:11 |
+| 129 | [Deep Blue Noise](https://open.spotify.com/track/1St21ut6MLUzjMC8mlo4aK) | [Relaxing Noises](https://open.spotify.com/artist/3uMJsDLenRrP1soBlu3YKq) | [Under The Ocean](https://open.spotify.com/album/7A5dn3ZlAKpqcG33Nio3Hq) | 2:13 |
 | 130 | [White Noise Cave](https://open.spotify.com/track/1i3G5HbGIHa7UHccW5kbpp) | [The Clear Mind](https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs) | [White Noise Cave](https://open.spotify.com/album/248nKykgiNq8NA0bxsgKAM) | 4:50 |
 | 131 | [Dozy White Noise](https://open.spotify.com/track/3Z0PCugUi5AKwPBJuMacQH) | [Dozy FX](https://open.spotify.com/artist/3LErbZP1QobnVRGGCDaRdK) | [Dozy Noise](https://open.spotify.com/album/1Ao4sYFISxtmZaA7jedaJW) | 2:09 |
 | 132 | [White Noise in Arena](https://open.spotify.com/track/795R8VmFJ4rjLRmtiiOSBj) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [Sleep Noise](https://open.spotify.com/album/4vAdUTer5fygtGo2VeDt7q) | 2:42 |
@@ -167,7 +167,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnsOmlEBKuk.md) - [plain]
 | 157 | [Aeroplane Deep White Noise](https://open.spotify.com/track/08wEhIRItJ46wJU0lsELya) | [Hybrid Treasure](https://open.spotify.com/artist/5A8KqUhcyeE6FIGkTADd2J) | [Aeroplane Deep White Noise](https://open.spotify.com/album/4suN8JpqLQuK476GSOyRDW) | 3:00 |
 | 158 | [Moonlight Noise](https://open.spotify.com/track/7jZdGsVnSi6no8YfnFakM6) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Peaceful Sleep Noise](https://open.spotify.com/album/7DbUNZ2Wqd3wDChMQCdsxW) | 3:36 |
 | 159 | [The best Sleep Noise](https://open.spotify.com/track/6cNCm1mNVc81UwLQc3Ze03) | [Wavelab](https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21) | [The best Sleep Noise](https://open.spotify.com/album/2YX5LALBMTwcmbT0U0tU4I) | 4:34 |
-| 160 | [White Noise in the Clouds](https://open.spotify.com/track/2cYODNM8lq8PcP1L0eQIM6) | [Zen Maestro](https://open.spotify.com/artist/3JyVeZAzOZdJ2dyl5Qd1Wv) | [Relaxed State of Mind](https://open.spotify.com/album/4xYs7vQmlu7qFDVvy9BCcJ) | 3:54 |
+| 160 | [White Noise in the Clouds](https://open.spotify.com/track/2cYODNM8lq8PcP1L0eQIM6) | [Zaestro](https://open.spotify.com/artist/6NRx8nUKXG8pYiL7AA4r0W) | [Relaxed State of Mind](https://open.spotify.com/album/4xYs7vQmlu7qFDVvy9BCcJ) | 3:54 |
 | 161 | [Noise by the Ocean](https://open.spotify.com/track/5wQKahjsqUz3FiKQ0qZxUP) | [The Noise Nannies](https://open.spotify.com/artist/48aOQA9ncCbyJEekpVMT1l) | [Good Night](https://open.spotify.com/album/6a4HHyJwk1irUwo4X8Uxx4) | 4:08 |
 | 162 | [Soft Noise](https://open.spotify.com/track/4fsfEiFvQfE29jOV2PSCJW) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Baby Bedtime Noise](https://open.spotify.com/album/5LEScikAzc9W54vqrtENDq) | 2:30 |
 | 163 | [Peaceful Slumber](https://open.spotify.com/track/1vhZ83QMHBttbuFUypeBYz) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [White Dreams](https://open.spotify.com/album/00kO8yXfqyXquFeMOHJvrL) | 2:09 |
@@ -205,8 +205,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnsOmlEBKuk.md) - [plain]
 | 195 | [I wake up thinking of white noise](https://open.spotify.com/track/6BeJMyufPqWLz04ossH72k) | [Linus Xio](https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL) | [Dreaming of White Noise](https://open.spotify.com/album/3pjYASrLLUF6d7EP8juSiF) | 2:53 |
 | 196 | [Life On The Sky](https://open.spotify.com/track/2wsosTZ3Rrl68esEF1uGTy) | [Skiez](https://open.spotify.com/artist/76TpbhaDR5e489v77KxN3H) | [Fountains From Wonderland](https://open.spotify.com/album/4j3s6FImdTmh7gcDKnmBO2) | 2:21 |
 | 197 | [White Noise Ritual](https://open.spotify.com/track/7kjHQQbGPVDBX68NZbb5xT) | [Atmospheric Rivers](https://open.spotify.com/artist/3szZThecJLcLc88TcXALuU) | [White Noise Ritual](https://open.spotify.com/album/00e7fEwpLV4vaa5N2Be7W8) | 2:47 |
-| 198 | [Marina Spectrum](https://open.spotify.com/track/0c2MpWGREvtCbThpvgUCuU) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Marina Spectrum](https://open.spotify.com/album/3lJgm6LPUnZ3gTrKqC3CB8) | 2:44 |
-| 199 | [Buzzing](https://open.spotify.com/track/1vQKwIcjUZPbpFu6nExDZT) | [Pentadecimal](https://open.spotify.com/artist/6N70t9WnJfxcRSzxMmFF1R) | [Buzzing](https://open.spotify.com/album/4fD8l4PgXb6xQ2dqZKskMR) | 2:51 |
+| 198 | [Buzzing](https://open.spotify.com/track/1vQKwIcjUZPbpFu6nExDZT) | [Pentadecimal](https://open.spotify.com/artist/6N70t9WnJfxcRSzxMmFF1R) | [Buzzing](https://open.spotify.com/album/4fD8l4PgXb6xQ2dqZKskMR) | 2:51 |
+| 199 | [Marina Spectrum](https://open.spotify.com/track/0c2MpWGREvtCbThpvgUCuU) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Marina Spectrum](https://open.spotify.com/album/3lJgm6LPUnZ3gTrKqC3CB8) | 2:44 |
 | 200 | [White Noise and the Silence](https://open.spotify.com/track/36OsPd6vGzZ8T9luD52mU9) | [Noise Project](https://open.spotify.com/artist/7K3z2X4heN5Ce5SGX71Tk0) | [White Noise in the Emptiness](https://open.spotify.com/album/24kpWLfMSQzy3uI35Ntwql) | 2:25 |
 
 Snapshot ID: `AAAAACLHvQox34grsMjxntubYh/jA/HG`

@@ -4,7 +4,7 @@
 
 > Jadi lebih produktif ditemani musik terkini
 
-380 songs - 22 hr 48 min
+381 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Asa Asmara](https://open.spotify.com/track/5WhXF5UP1oJxuG9X4CsbxP) | [Baila](https://open.spotify.com/artist/4RMuTrQQ4FiEb2e5jxvvhp) | [Asa Asmara](https://open.spotify.com/album/1PknYCJJPjdLZwhtA2SK4Z) | 3:43 | 2024-11-04 | 2025-08-05 |
 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 | 2025-06-02 | 2025-08-23 |
 | [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 | 2023-03-22 | 2024-07-25 |
+| [Awaken](https://open.spotify.com/track/1ZUhjTuX9nbHLcFpiVQlwK) | [Abirama](https://open.spotify.com/artist/3HG4TWFZT4xWNiQgIPhZBq) | [Awaken](https://open.spotify.com/album/69UQdIw1QyoN5u04lnGCzh) | 4:10 | 2025-09-16 |  |
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-05-09 | 2025-07-01 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-08-22 |  |
 | [bad](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:23 | 2023-10-11 |  |
@@ -202,7 +203,7 @@
 | [MAPA \(Indonesian Ver.\)](https://open.spotify.com/track/23FJNFAeNLzAuFORNvyBFf) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [MAPA \(Indonesian Ver.\)](https://open.spotify.com/album/0jVk4hqUcFogF1NcK3ZQ0a) | 4:30 | 2025-07-07 | 2025-08-05 |
 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 | 2024-11-04 | 2025-02-12 |
 | [Masa Depan](https://open.spotify.com/track/6ZWRvS1VpmqA2ap3bMI4dY) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Masa Depan](https://open.spotify.com/album/649hYz14PcCd78FLTC84mb) | 3:47 | 2023-03-22 | 2024-07-25 |
-| [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 | 2024-04-23 |  |
+| [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 | 2024-04-23 | 2025-09-17 |
 | [Masih Takut Mencinta](https://open.spotify.com/track/4E6iWEsfOAkrT4OpluseK1) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [TEATER NESTAPA](https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf) | 3:28 | 2025-07-17 |  |
 | [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 | 2024-09-12 |  |
 | [Mata Air](https://open.spotify.com/track/3kj14iUwv0rvTweOr9P2ut) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12), [Natasha Udu](https://open.spotify.com/artist/5788KAWYDqWlejC63W92S7), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 3:46 | 2023-03-22 | 2024-01-18 |
@@ -271,7 +272,7 @@
 | [Ruby Biru](https://open.spotify.com/track/73OEQVN2lPpL3hVoJYDINu) | [YoRI](https://open.spotify.com/artist/7KWwccszhCF3f6pYeVWMTD) | [Ruby Biru](https://open.spotify.com/album/5pgLGJSi8PYygqTFQ6XjzF) | 3:53 | 2025-01-20 | 2025-06-03 |
 | [Rumah Ke Rumah](https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 4:37 | 2025-08-22 |  |
 | [Run Back To You](https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Run Back To You](https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza) | 3:08 | 2024-03-06 | 2024-11-05 |
-| [Rusuk](https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk](https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt) | 4:15 | 2024-02-01 |  |
+| [Rusuk](https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk](https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt) | 4:15 | 2024-02-01 | 2025-09-17 |
 | [Sailor Song](https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:31 | 2025-08-22 |  |
 | [Salla Alayka Rahman](https://open.spotify.com/track/0uAndoynoIcGYlSqEm35ZQ) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Salla Alayka Rahman](https://open.spotify.com/album/5lWu2EumPpXIBaSDCTEAeh) | 3:48 | 2024-03-21 | 2024-04-19 |
 | [Salla Alayka Rahman](https://open.spotify.com/track/2JVRBAOAXAcNM21EyziBLj) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Salla Alayka Rahman](https://open.spotify.com/album/5dR7qtDmtEfrQhKe3yPEK5) | 3:48 | 2024-04-18 | 2024-04-24 |

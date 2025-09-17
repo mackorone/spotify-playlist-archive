@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: ROUSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,272 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,277 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 2 | [Wake Up](https://open.spotify.com/track/3t0M8p4j9eWsXZ7Iueia9C) | [Flowers Pillar](https://open.spotify.com/artist/6wlHidGxh3Dx0lRtu7vHtM) | [Wake Up](https://open.spotify.com/album/6V99yT7iaz8KK5LRKjbVFV) | 4:31 |
 | 3 | [หลุม](https://open.spotify.com/track/6SZB6PN3AzUy4gjg6cwhyj) | [ROUSE](https://open.spotify.com/artist/42wCcg6q3NRhi0vQQ7JvNB) | [หลุม](https://open.spotify.com/album/4PQy5sDgIlkwxtwmojS1XD) | 4:39 |
 | 4 | [ไม่ใช่ที่ของเธอ \(Honestly\)](https://open.spotify.com/track/3Dj4PqpmYe63c5Ky6w9bGA) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [ไม่ใช่ที่ของเธอ \(Honestly\)](https://open.spotify.com/album/4IQpstnBasEeHwKOS1MuiV) | 4:23 |
-| 5 | [ไม่ใช่เธอ \(not you\)](https://open.spotify.com/track/2nCxgWqc37RCo5cb9XsCHz) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [ไม่ใช่เธอ \(not you\)](https://open.spotify.com/album/6M71hcGd6ZEnW9yOfohxQO) | 4:18 |
+| 5 | [ไม่ใช่เธอ](https://open.spotify.com/track/2nCxgWqc37RCo5cb9XsCHz) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [ไม่ใช่เธอ](https://open.spotify.com/album/6M71hcGd6ZEnW9yOfohxQO) | 4:18 |
 | 6 | [Neon](https://open.spotify.com/track/6mxcmQmJanVsmySIlAA4nG) | [JOYE](https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C) | [Neon](https://open.spotify.com/album/79tXYEdO6Be0QmvLAMnb9v) | 4:00 |
 | 7 | [พูดเลยว่ารัก \(YOUR FUTURE IS CALLING\)](https://open.spotify.com/track/1iZ6ojuQxgHgFX3KCKXV58) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [พูดเลยว่ารัก \(YOUR FUTURE IS CALLING\)](https://open.spotify.com/album/3qOGG6ysERzEpXFtMAkE4s) | 3:59 |
 | 8 | [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/track/4dgvGtPwlchPHgLQ7el2P9) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/album/4gf7kuptrv0VvYa6qNyyD5) | 3:26 |

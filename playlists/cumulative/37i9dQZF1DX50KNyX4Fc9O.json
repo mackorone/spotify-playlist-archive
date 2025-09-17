@@ -25413,6 +25413,24 @@
     },
     {
       "album": {
+        "name": "Obvious",
+        "url": "https://open.spotify.com/album/5qf4bahAEBYQ1DC5yNSSBi"
+      },
+      "artists": [
+        {
+          "name": "Soli",
+          "url": "https://open.spotify.com/artist/6yYm7Asdzf0sxI68kAJB0s"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145893,
+      "name": "Obvious",
+      "url": "https://open.spotify.com/track/4MDbNtvNn6nlmadLmdLb97"
+    },
+    {
+      "album": {
         "name": "Ocean Demon",
         "url": "https://open.spotify.com/album/2BL7t5XIN8JmWWJajgqgY0"
       },

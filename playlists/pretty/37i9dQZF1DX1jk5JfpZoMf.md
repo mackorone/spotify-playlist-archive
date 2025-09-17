@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jk5JfpZoMf.md) - [plain]
 
 > Nada melhor que aquela barulho de chuva para dormir ou relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,612 likes - 275 songs - 13 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,627 likes - 275 songs - 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -257,7 +257,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jk5JfpZoMf.md) - [plain]
 | 247 | [Falling Rain](https://open.spotify.com/track/4iTua1XyulvzNnL1gaWZkm) | [Sleep Factory](https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8) | [Sleep Factory](https://open.spotify.com/album/61YGqGtazxLbn33N7qEgZy) | 4:01 |
 | 248 | [Relax, It’s Raining](https://open.spotify.com/track/2xIrVdhiBGroHmUCsskMPG) | [Sleep, Study, Focus](https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J) | [Natural Rain](https://open.spotify.com/album/4OcEKcgz6h3tbx5nLDPfdh) | 2:30 |
 | 249 | [Downpour Sounds & Heavy Clouds](https://open.spotify.com/track/4QAczT9AoSGadEcrp38LZe) | [Moon Spell FX](https://open.spotify.com/artist/2RPUdbStv0xD4iltkR3ba0) | [Downpour Sounds & Heavy Clouds](https://open.spotify.com/album/2UCaSGdytLgpIsZie6Jx9x) | 2:34 |
-| 250 | [Tropic Rain](https://open.spotify.com/track/5gIOLEi9WsMudy3tfGfJNH) | [I See Rainbows](https://open.spotify.com/artist/3gsxqVDwafHaGerSAf235l) | [It's Raining Everywhere](https://open.spotify.com/album/4EZAPSadNgbhz6akdhN5vA) | 2:38 |
+| 250 | [Tropic Rain](https://open.spotify.com/track/5gIOLEi9WsMudy3tfGfJNH) | [Sea Bow](https://open.spotify.com/artist/5BuaJPqFbFn7g4sLocFcyo) | [It's Raining Everywhere](https://open.spotify.com/album/4EZAPSadNgbhz6akdhN5vA) | 2:38 |
 | 251 | [Midwinter Downtown Rain](https://open.spotify.com/track/2NvExQuwBYkqRy0S5X9rIs) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Cold Winter Rain](https://open.spotify.com/album/3DGDmHLXeYWdaSlZSMnjWN) | 5:42 |
 | 252 | [Total Rainlax](https://open.spotify.com/track/6V6H6D9oyYKDULYGlRvG2Z) | [Let It Rain](https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG) | [Total Relax Rain Sounds](https://open.spotify.com/album/2gk3zCG7C6FmrRDXHuiSG1) | 2:26 |
 | 253 | [Raining In The City At Night](https://open.spotify.com/track/0lMUyII33ZjGhNyuiSJQR5) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Rain For Sleep](https://open.spotify.com/album/5ALoceFx2jK3zQ2Wj4WJ3B) | 2:53 |

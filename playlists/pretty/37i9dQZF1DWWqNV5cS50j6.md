@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Sam Austins
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,497 likes - 106 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,438 likes - 106 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 33 | [Society](https://open.spotify.com/track/0GjDfRE6GZL74N80Y9pGCu) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [uhhh 3](https://open.spotify.com/album/45tyY8OMbwqoRThUfrRIui) | 3:17 |
 | 34 | [Gore](https://open.spotify.com/track/06BR8msPSDY6juODU1FdhE) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [Nervous](https://open.spotify.com/album/6SIoMgDhe2f6UHnHzFtpxv) | 2:02 |
 | 35 | [12 Feet Deep \(feat\. Gallant\)](https://open.spotify.com/track/2Q1DukoAb4McJagqq4wqli) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [12 Feet Deep \(feat\. Gallant\)](https://open.spotify.com/album/1i58jCDuPDCgQFOn1okWdY) | 2:39 |
-| 36 | [Jinx!](https://open.spotify.com/track/3w1ucTrSOwo6XHmYUbTCyo) | [Joon Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Jinx!](https://open.spotify.com/album/23HHmvbli9srSq2QodAGLl) | 4:06 |
+| 36 | [Jinx!](https://open.spotify.com/track/3w1ucTrSOwo6XHmYUbTCyo) | [Ms\* Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Jinx!](https://open.spotify.com/album/23HHmvbli9srSq2QodAGLl) | 4:06 |
 | 37 | [quiet pain](https://open.spotify.com/track/5jhucekXJa0ayu6qDSBIHu) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [songs with the volume on](https://open.spotify.com/album/4Motz5VFJvMYCjP3DHazow) | 2:14 |
 | 38 | [Emotions](https://open.spotify.com/track/1Ug4hSnPl5TaUvshUMOIu0) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Emotions](https://open.spotify.com/album/2RniGd4rfm2HFYwajJKNpE) | 3:27 |
 | 39 | [True](https://open.spotify.com/track/2oEytO1vmheSKGuXNx9TYI) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [True](https://open.spotify.com/album/4BuPoOfriUi0QHgCOgUXBf) | 3:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 
 > Plug your brain into a modular synthesizer analog loop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,594 likes - 144 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,610 likes - 144 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 | 54 | [Prelude to the Afternoon of a Faun](https://open.spotify.com/track/49PTfrUJSYFFBIdaEXcwyJ) | [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [Snowflakes Are Dancing](https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E) | 10:13 |
 | 55 | [Pizzicato Samba](https://open.spotify.com/track/0hgCu26O2p3ndloW2aXHsS) | [Dana Countryman](https://open.spotify.com/artist/2TPk0Xw81wqOb8wHTSXkHO), [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx) | [The Happy Electropop Music Machine](https://open.spotify.com/album/5UbK119FGtKi2n2KNyatfl) | 2:41 |
 | 56 | [Lanquidity](https://open.spotify.com/track/2MCWogZJ7AcXkRwRN0xV73) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [Switched On Ra](https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn) | 6:29 |
-| 57 | [A Passage Of Life](https://open.spotify.com/track/6OG2clL6ASDaddoBySTkvX) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Celestial Scenery: Breezing Universe, Volume 6](https://open.spotify.com/album/01VXCpKgHrgOVO3Ld7k2u5) | 8:02 |
-| 58 | [Unavailable Memory](https://open.spotify.com/track/2TYPY7sEP9cBAcqScBiNEQ) | [Meat Beat Manifesto](https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:54 |
+| 57 | [Unavailable Memory](https://open.spotify.com/track/2TYPY7sEP9cBAcqScBiNEQ) | [Meat Beat Manifesto](https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:54 |
+| 58 | [A Passage Of Life](https://open.spotify.com/track/6OG2clL6ASDaddoBySTkvX) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Celestial Scenery: Breezing Universe, Volume 6](https://open.spotify.com/album/01VXCpKgHrgOVO3Ld7k2u5) | 8:02 |
 | 59 | [Mariposas Acuáticas](https://open.spotify.com/track/5us33NoYbYZQrZ9Bi333D8) | [Oksana Linde](https://open.spotify.com/artist/1uw253RRnz7eeOGwv4upOx) | [Aquatic and Other Worlds](https://open.spotify.com/album/3VZxOjrE2DkwanOwFVUggt) | 1:44 |
 | 60 | [Yakety Moog](https://open.spotify.com/track/0EYe4qWRTMB0m1ybGMHz2x) | [Gil Trythall](https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3) | [Country Moog / Nashville Gold](https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6) | 2:30 |
 | 61 | [March Of The Martians](https://open.spotify.com/track/4rF8nv1j7zum3p0R5ExkkT) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:04 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 | 78 | [Heavy Lace](https://open.spotify.com/track/1xVXAqPWaT010F2TMj5Eds) | [Roger Webb](https://open.spotify.com/artist/6ZfH4kBv9tPVIfklLH36jO), [De Wolfe Music](https://open.spotify.com/artist/2CIYXJTMc2WH7XVlqZ5IrC) | [Moonshade](https://open.spotify.com/album/3t1cJhFgS5M3rD2ivYnqLd) | 1:31 |
 | 79 | [Short Circuit](https://open.spotify.com/track/1unfiTb6jOGxHBuiiWsMuD) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:13 |
 | 80 | [1958 Revisited](https://open.spotify.com/track/3o7FnCvqTVmw5FUKMalYIa) | [Fred Weinberg](https://open.spotify.com/artist/4Z47dBr1kJfehebcuhmnZZ) | [The Weinberg Method of Nonsynthetic Electronic Rock](https://open.spotify.com/album/1hQGY2ktzYCU4aK66nrj8Y) | 2:08 |
-| 81 | [Gefahrenzone I](https://open.spotify.com/track/7ec3pOpU47mSCfGqwPmE8H) | [Gerhard Trede](https://open.spotify.com/artist/3wTIZkM67FbgrIjhxGjgpu) | [Unbekannte Welt = Unknown World](https://open.spotify.com/album/6tLAb4i19HlGyoluVcjkb6) | 3:39 |
-| 82 | [I Am A Spaceman](https://open.spotify.com/track/1Gcn7jvVUIUHN0kGaITg0P) | [Charlie Clouser](https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:36 |
+| 81 | [I Am A Spaceman](https://open.spotify.com/track/1Gcn7jvVUIUHN0kGaITg0P) | [Charlie Clouser](https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:36 |
+| 82 | [Gefahrenzone I](https://open.spotify.com/track/7ec3pOpU47mSCfGqwPmE8H) | [Gerhard Trede](https://open.spotify.com/artist/3wTIZkM67FbgrIjhxGjgpu) | [Unbekannte Welt = Unknown World](https://open.spotify.com/album/6tLAb4i19HlGyoluVcjkb6) | 3:39 |
 | 83 | [Variation One](https://open.spotify.com/track/4BX7rJQCXmlbQ0Qn1XOHKR) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:01 |
 | 84 | [In A Latin Moog](https://open.spotify.com/track/13pkVqWQvHhKs6vR0aCJPn) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:28 |
 | 85 | [Abominatron](https://open.spotify.com/track/22iSVlOmXxj6AIxGh8JnyO) | [33](https://open.spotify.com/artist/31wSPoOA8XFN34WWaRTann) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 2:53 |

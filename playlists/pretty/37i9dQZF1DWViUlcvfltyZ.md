@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Brucherò nei pascoli e Lamante in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,993 likes - 90 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,977 likes - 90 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [buco nero](https://open.spotify.com/track/4UxnRl0oN6htx2593DpJpb) | [i cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP) | [post mortem](https://open.spotify.com/album/0l8cw32SMyAlYyCheOoL9p) | 3:44 |
-| 2 | [Pista nera](https://open.spotify.com/track/4DZ2RDJhKKRjFmJiI3ddka) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Pista Nera](https://open.spotify.com/album/7dgA2BZvQiG6n4Y4L0upP3) | 3:27 |
-| 3 | [Tua da far paura \(feat\. Lamante\)](https://open.spotify.com/track/7yfxKv9zbcJmtHtGwUqtG2) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg), [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Tua da far paura \(feat\. Lamante\)](https://open.spotify.com/album/2aaP1JTvRE7WMdV703lN3l) | 2:23 |
+| 1 | [Tua da far paura \(feat\. Lamante\)](https://open.spotify.com/track/7yfxKv9zbcJmtHtGwUqtG2) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg), [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Tua da far paura \(feat\. Lamante\)](https://open.spotify.com/album/2aaP1JTvRE7WMdV703lN3l) | 2:23 |
+| 2 | [buco nero](https://open.spotify.com/track/4UxnRl0oN6htx2593DpJpb) | [i cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP) | [post mortem](https://open.spotify.com/album/0l8cw32SMyAlYyCheOoL9p) | 3:44 |
+| 3 | [Pista nera](https://open.spotify.com/track/4DZ2RDJhKKRjFmJiI3ddka) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Pista Nera](https://open.spotify.com/album/7dgA2BZvQiG6n4Y4L0upP3) | 3:27 |
 | 4 | [Un milione di anni](https://open.spotify.com/track/3PP5bAeGdXQIdFUbXv0n56) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84) | [Un milione di anni](https://open.spotify.com/album/0nqRSalfTZgRjJVKTYy7kr) | 4:18 |
 | 5 | [Gestire La Rabbia](https://open.spotify.com/track/6YD1QI9vBV6eWrX9lsEa4D) | [Grandi Raga](https://open.spotify.com/artist/5loTEXentPIJLRmZ06bzQr) | [Gestire La Rabbia](https://open.spotify.com/album/0fyey4mEyy7PgYntWdLhUT) | 3:45 |
 | 6 | [Cinnamon \(feat\. Albert Hammond Jr\)](https://open.spotify.com/track/33hGdIpY6BOFxban1Q9SCN) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5) | 2:24 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 89 | [Wanted \(feat\. Jack Out\)](https://open.spotify.com/track/2kVfYxsuetRjVJOJrxfuBy) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW), [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI) | [Wanted](https://open.spotify.com/album/6KrUTfeVD3qlx6zATgS1PX) | 2:55 |
 | 90 | [At Races](https://open.spotify.com/track/2F9RANfKhByYWOhUiY7Fh0) | [Messa](https://open.spotify.com/artist/6vFinMN4E9leUfcEyIIO0D) | [At Races](https://open.spotify.com/album/1YXeMcK6jeDBQ41M3DpSZ3) | 5:59 |
 
-Snapshot ID: `AAAAALoDxpbOQLWSGxMIDQxhxuKhimt6`
+Snapshot ID: `AAAAAIz22X/HuH0m0d4BudO6BYgoWD6L`

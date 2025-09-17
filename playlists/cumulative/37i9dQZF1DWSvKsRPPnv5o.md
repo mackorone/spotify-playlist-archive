@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: 310babii
 
-1,376 songs - 2 day 15 hr 58 min
+1,377 songs - 2 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Can You Please \(feat\. GloRilla\)](https://open.spotify.com/track/1T86xlq1vFvWWUq1Wl2EiH) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Can You Please](https://open.spotify.com/album/0AuybXvfoqzt1NPpCKiiuI) | 2:34 | 2025-03-07 | 2025-04-05 |
 | [Can't](https://open.spotify.com/track/4Mzw6hzfp3KPfnrdkmENUk) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Been Here, Still Here](https://open.spotify.com/album/4P30gJB6PjN1JFwL6X5OMj) | 1:37 | 2023-02-10 | 2023-07-22 |
 | [Can't Check Me](https://open.spotify.com/track/1dQUvq9imJAclPlg3aTsnB) | [Younginsosleaze](https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o), [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt) | [Can't Check Me](https://open.spotify.com/album/2RlicTBcSj1RokkP1HKJ8e) | 2:18 | 2025-07-11 | 2025-08-23 |
+| [CAN'T DENY IT](https://open.spotify.com/track/7AMejrHwxXtepII3zfej7x) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU) | [SAM'S CLUB](https://open.spotify.com/album/50OBECtPBbwI9OGlg7vCHh) | 2:38 | 2025-09-15 |  |
 | [Can't FW Nobody](https://open.spotify.com/track/7cjoepQa78hozbPR74IDQc) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Can't FW Nobody](https://open.spotify.com/album/2y7jRmcPfAfRWZzn2LRBYO) | 2:20 | 2025-07-18 | 2025-08-30 |
 | [Can't Get Right](https://open.spotify.com/track/7prcfanTLk3DCeER51hqd3) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [Can't Get Right](https://open.spotify.com/album/0FdhSn9vahw0oyHSqsYDwE) | 2:17 | 2025-01-24 | 2025-03-01 |
 | [Can't Let It Go](https://open.spotify.com/track/1ZQG6lkEtxz8Y85HoHevsd) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e) | [Perfect Timing](https://open.spotify.com/album/0BqijlBuYCKh90YtUn823A) | 1:34 | 2025-04-25 | 2025-09-06 |
@@ -670,7 +671,7 @@
 | [Keep Calling](https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Keep Calling](https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs) | 2:36 | 2022-12-09 | 2023-07-08 |
 | [Keep Goin](https://open.spotify.com/track/5q2fIPZsejV2VdA3UeKSh2) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Gotdamnitdupri](https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs) | [BABYST5XNE GORILLAS](https://open.spotify.com/album/63ypakNyLDCYERVQz17caO) | 2:59 | 2022-03-11 | 2022-06-11 |
 | [Keep it Spoety](https://open.spotify.com/track/6MlPpglYdb7EpKJMlk5Vhu) | [Dody6](https://open.spotify.com/artist/4VHa48wXlsDA2vWfgIi7cX) | [Keep it Spoety](https://open.spotify.com/album/3ux0TlDtkXog4gOZmKZb66) | 2:22 | 2024-11-25 | 2025-03-01 |
-| [KEPT ON MY CLEATS](https://open.spotify.com/track/6mD0a1h5bpdBECecKgFQxp) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [SAM'S CLUB](https://open.spotify.com/album/1kxtf0Vn9w33GeL19vVHAE) | 2:18 | 2025-09-12 |  |
+| [KEPT ON MY CLEATS](https://open.spotify.com/track/6mD0a1h5bpdBECecKgFQxp) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [SAM'S CLUB](https://open.spotify.com/album/1kxtf0Vn9w33GeL19vVHAE) | 2:18 | 2025-09-12 | 2025-09-17 |
 | [Kevin](https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4PW8SFTfPr3qyvG2DAQGdC) | 3:10 | 2022-06-10 | 2022-07-23 |
 | [Kicc Doe](https://open.spotify.com/track/6zeMyd9it6wSuFMJX3J0ec) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [Kicc Doe](https://open.spotify.com/album/49yl5Gde87KgfK7fDmaBpf) | 1:50 | 2024-10-07 | 2024-11-09 |
 | [Kick Doe Freestyle](https://open.spotify.com/track/5kwE511DgVpfISjZwEXtEU) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy) | [Since Y'all Forgot](https://open.spotify.com/album/1L4pGtxe0WwRca5z09AFeH) | 2:44 | 2022-04-29 | 2022-06-18 |

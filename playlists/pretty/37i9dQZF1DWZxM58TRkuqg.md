@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Fabio Asher
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,763 likes - 106 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,788 likes - 106 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

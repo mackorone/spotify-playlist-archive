@@ -1,6 +1,6 @@
 {
   "description": "Canciones de rock dignas de festival para dedicarle a tu media naranja.",
-  "num_followers": 143513,
+  "num_followers": 143522,
   "original_name": "Amor Festivalero",
   "owner": {
     "name": "Spotify",
@@ -731,26 +731,6 @@
     {
       "added_at": "2025-09-05 06:00:12",
       "album": {
-        "name": "Zero",
-        "url": "https://open.spotify.com/album/36qFySoOy3b1rfHDqg5olY"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        },
-        {
-          "name": "Zaira Jabnell",
-          "url": "https://open.spotify.com/artist/603fftWMCkmq7E98J2WzD0"
-        }
-      ],
-      "duration_ms": 272386,
-      "name": "Zero (Feat. Zaira Jabnell)",
-      "url": "https://open.spotify.com/track/669OFp5ut5nydyepuuS0Eg"
-    },
-    {
-      "added_at": "2025-09-05 06:00:12",
-      "album": {
         "name": "Caney",
         "url": "https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 230186,
       "name": "Caney",
       "url": "https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF"
+    },
+    {
+      "added_at": "2025-09-05 06:00:12",
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/36qFySoOy3b1rfHDqg5olY"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        },
+        {
+          "name": "Zaira Jabnell",
+          "url": "https://open.spotify.com/artist/603fftWMCkmq7E98J2WzD0"
+        }
+      ],
+      "duration_ms": 272386,
+      "name": "Zero (Feat. Zaira Jabnell)",
+      "url": "https://open.spotify.com/track/669OFp5ut5nydyepuuS0Eg"
     },
     {
       "added_at": "2025-09-05 06:00:12",

@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Matt Corby
 
-2,168 songs - 4 day 15 hr 51 min
+2,169 songs - 4 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1370,6 +1370,7 @@
 | [Numbers In The Sky](https://open.spotify.com/track/1D7CDsNKONhcvZB05k7Hjp) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp), [Vince Harder](https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M) | [Dad's Son](https://open.spotify.com/album/7ts2LGHO4QDmsTG8b0QOzU) | 3:20 | 2023-10-19 | 2023-12-01 |
 | [obsessed](https://open.spotify.com/track/56CegTUDZpDr9zJnwBWfWo) | [Marianne Leigh](https://open.spotify.com/artist/1iFfYdsTHCQ7D0jUS5dE5n) | [fix me up](https://open.spotify.com/album/5FeY4xki9KBtlbzyiwaTRf) | 1:58 | 2024-11-21 | 2025-01-24 |
 | [OBVIOUS](https://open.spotify.com/track/42sqQTi2EqDPd6Iex66joE) | [Fordo](https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa) | [OBVIOUS](https://open.spotify.com/album/7xIca8DCJWtimWJLLJeD3W) | 3:10 | 2024-08-16 | 2024-09-13 |
+| [Obvious](https://open.spotify.com/track/4MDbNtvNn6nlmadLmdLb97) | [Soli](https://open.spotify.com/artist/6yYm7Asdzf0sxI68kAJB0s) | [Obvious](https://open.spotify.com/album/5qf4bahAEBYQ1DC5yNSSBi) | 2:25 | 2025-09-11 |  |
 | [Ocean Demon](https://open.spotify.com/track/2DuzhNJjW3N61Te2Zqd6Un) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Ocean Demon](https://open.spotify.com/album/2BL7t5XIN8JmWWJajgqgY0) | 4:20 | 2024-01-26 | 2024-02-23 |
 | [Ocean Demon](https://open.spotify.com/track/6qCPI0PZMSJgIptC1HzobL) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Ocean Demon](https://open.spotify.com/album/0afWv8C27pDRT8Ytp7AQSO) | 4:20 | 2024-01-18 | 2024-01-27 |
 | [Off By Heart](https://open.spotify.com/track/2SYPolHtiL3IdKPkTDKNIY) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Off By Heart](https://open.spotify.com/album/5JpDR4H0reeTZTS453Xbc1) | 3:03 | 2023-08-10 | 2023-09-29 |

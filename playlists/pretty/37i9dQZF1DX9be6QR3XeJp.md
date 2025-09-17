@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Dove Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,936 likes - 252 songs - 13 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,932 likes - 252 songs - 13 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "50% techno, 50% house \ud83e\udee8 Tech house operators, featuring HNTR",
-  "num_followers": 688476,
+  "num_followers": 688554,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHb6KiDBvJ15Jx6Xf1Ks05YP/4Ji",
+  "snapshot_id": "AAAAAEL4Hi6/d6tlcENRCtfRVgF3EBFz",
   "tracks": [
     {
       "added_at": "2025-09-12 04:00:18",
@@ -311,6 +311,22 @@
       "duration_ms": 201230,
       "name": "Undisputed",
       "url": "https://open.spotify.com/track/4x7Ag6XIgFCPTe9tbXniVr"
+    },
+    {
+      "added_at": "2025-09-12 04:00:18",
+      "album": {
+        "name": "Cry (Just A Little)",
+        "url": "https://open.spotify.com/album/3XnwQ88D5UqWNYXpRQw5ji"
+      },
+      "artists": [
+        {
+          "name": "HILLS",
+          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
+        }
+      ],
+      "duration_ms": 163269,
+      "name": "Cry (Just A Little)",
+      "url": "https://open.spotify.com/track/5aLTtkq9oHUCCVO96gyNQN"
     },
     {
       "added_at": "2025-08-11 18:42:16",
@@ -775,22 +791,6 @@
       "duration_ms": 202633,
       "name": "4x4",
       "url": "https://open.spotify.com/track/5U9ja4wixV4ba7PIWaRqeu"
-    },
-    {
-      "added_at": "2025-09-12 04:00:18",
-      "album": {
-        "name": "Cry (Just A Little)",
-        "url": "https://open.spotify.com/album/3XnwQ88D5UqWNYXpRQw5ji"
-      },
-      "artists": [
-        {
-          "name": "HILLS",
-          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
-        }
-      ],
-      "duration_ms": 163269,
-      "name": "Cry (Just A Little)",
-      "url": "https://open.spotify.com/track/5aLTtkq9oHUCCVO96gyNQN"
     },
     {
       "added_at": "2025-08-15 04:00:15",

@@ -19801,6 +19801,24 @@
     },
     {
       "album": {
+        "name": "old folk house",
+        "url": "https://open.spotify.com/album/6tYfikLqid5yVpreTD0j5X"
+      },
+      "artists": [
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "old folk house",
+      "url": "https://open.spotify.com/track/0EFZihyuzAKHCozChCS9c7"
+    },
+    {
+      "album": {
         "name": "Old Friends EP",
         "url": "https://open.spotify.com/album/2arcSC9YzTWGM1c9pHBWsR"
       },
@@ -32866,7 +32884,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 339893,
       "name": "\u68ee\u306e\u4f4f\u4eba",
       "url": "https://open.spotify.com/track/4hxnwRWpuL8J4S5oOtl9jT"

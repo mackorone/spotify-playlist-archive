@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 ### [+81 Connect: J\-Hip Hopの「今」と「その先」](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: IO
+> J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Daichi Yamamoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,721 likes - 85 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,726 likes - 85 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 84 | [Warumono \(feat\. Tsubaki\)](https://open.spotify.com/track/1G8LHosyiEx2RoM2IHtCrK) | [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1) | [Just Live For Today](https://open.spotify.com/album/3uFsqbRY4qqnhpi13kUphe) | 3:32 |
 | 85 | [彩り七味](https://open.spotify.com/track/2SJFaySoDwETW0WppUItce) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [HOME](https://open.spotify.com/album/0q8q5Qi4hpNBZnmH3wKcsC) | 3:47 |
 
-Snapshot ID: `AAAAACGV5nFiZEvOSouDGoV+362mxlUl`
+Snapshot ID: `AAAAACBfwFa1ihgVsAkD/1mIuWfch4Yf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Fall fast asleep with deep noise
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,677 likes - 300 songs - 16 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,802 likes - 300 songs - 16 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 78 | [Curing Brown Noise](https://open.spotify.com/track/7rKsBBSWIxNoNVpxl3esKU) | [The Brownian Sleepers](https://open.spotify.com/artist/0knYqGnaAzMnPYgvzubyNN) | [Curing Brown Noise](https://open.spotify.com/album/2UrNk9OcEo7z7FzHEYYerq) | 3:34 |
 | 79 | [Oceanic Brown Noise](https://open.spotify.com/track/2Dq2Gwo7S7lj7O8Zg3rIzL) | [Astromatic](https://open.spotify.com/artist/4ivxZDv4eSnS5Cvjp6Yl61) | [Oceanic Brown Noise](https://open.spotify.com/album/1tAhnhIvegmaprpZYt1gCT) | 2:39 |
 | 80 | [Brownstone Slow Down Noise](https://open.spotify.com/track/1ZP6wQViuBOdjwbWtRQGLb) | [Dinkotrons](https://open.spotify.com/artist/1IWnMTe9epcSbGmpBApk7B) | [Brownstone Vibe](https://open.spotify.com/album/4aOxkNx7lB35aay3TohIzG) | 2:52 |
-| 81 | [Chilled Pink Lullaby](https://open.spotify.com/track/0APmmogkV8VCzKdGB6d0Sh) | [Acoustic Activity](https://open.spotify.com/artist/3aSkejkyPbnMng0ako4TTb) | [Chilled Pink Sleep](https://open.spotify.com/album/6XcpRqHSr3sujIw1oOF02N) | 4:07 |
+| 81 | [Chilled Pink Lullaby](https://open.spotify.com/track/0APmmogkV8VCzKdGB6d0Sh) | [Avosola](https://open.spotify.com/artist/451HQRdyUYr2CEkK4A9wty) | [Chilled Pink Sleep](https://open.spotify.com/album/6XcpRqHSr3sujIw1oOF02N) | 4:07 |
 | 82 | [Pink Noise Satisfaction](https://open.spotify.com/track/3HRDr4iGCIH6IjYpduxVJl) | [Wavelab](https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21) | [Pink Noise Satisfaction](https://open.spotify.com/album/4ceYxcs6IXW4LnbrxeepSD) | 3:11 |
 | 83 | [Brown Noise Magic](https://open.spotify.com/track/5RQrltTM6S9EIiBYDIK9vh) | [Sky Travis](https://open.spotify.com/artist/5IkHDfUNRiqyATjgbDHuGy) | [Deep Brown Ocean](https://open.spotify.com/album/5ZCqluI3uyqcP5daizQfYu) | 3:00 |
 | 84 | [Brown Noise \- 500 Hz \- Cutoff](https://open.spotify.com/track/1a1FejtHrHiz2b3DY6mwCn) | [Sleepy Side](https://open.spotify.com/artist/3J9fxHJrpiYNhGihf9GLwC) | [Ambient Brown Noise](https://open.spotify.com/album/2eX4QLxSoYBh4ODULeluhE) | 2:17 |
@@ -187,7 +187,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 177 | [Flowing Pink Noise](https://open.spotify.com/track/1VtxGYNZcXdnZnO9p6Fxaj) | [Fredrik Koch](https://open.spotify.com/artist/7pfJtUmBYcPYTRjXGKeujY) | [Baby Sleep Noise Kit](https://open.spotify.com/album/3tMcFcLTvWGZHNUfcBvDFS) | 2:14 |
 | 178 | [Brown Noise 800 Hz Soft Q](https://open.spotify.com/track/4h7HE6Olqb70jb5UmpR2Pu) | [The Tone\-Gens](https://open.spotify.com/artist/3lda2alb3vN921wjgmWhsq) | [Soft Sleeping Sounds](https://open.spotify.com/album/3PNjd6znRvBAS6eSskjwLT) | 4:06 |
 | 179 | [Pink Noise Dreams](https://open.spotify.com/track/323XAHV4xNmDv1TRoRFYu0) | [Wavelab](https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21) | [Pink Noise Dreams](https://open.spotify.com/album/6fDhI1sXkAmdoclVF7LmFG) | 4:40 |
-| 180 | [Pink Noise for busy people](https://open.spotify.com/track/5xqjQ4qrpHpXZ8pGQR30xU) | [Acoustic Activity](https://open.spotify.com/artist/3aSkejkyPbnMng0ako4TTb) | [Pink Noise for busy People](https://open.spotify.com/album/7zEvGmTlky3rfHa6rPZPcD) | 3:44 |
+| 180 | [Pink Noise for busy people](https://open.spotify.com/track/5xqjQ4qrpHpXZ8pGQR30xU) | [Avosola](https://open.spotify.com/artist/451HQRdyUYr2CEkK4A9wty) | [Pink Noise for busy People](https://open.spotify.com/album/7zEvGmTlky3rfHa6rPZPcD) | 3:44 |
 | 181 | [Tranquil Brown Noise](https://open.spotify.com/track/7dQxSOe970eA588wdrRJwP) | [Holuka](https://open.spotify.com/artist/2vhp6YYXzpAZKMTJ7Gor9u) | [Tranquil Brown Noise](https://open.spotify.com/album/7xp0o274OOr733c3AqszDc) | 3:44 |
 | 182 | [Deep Sleep Pink Noise](https://open.spotify.com/track/2JjDYpnMXTRbzyV8LrNnfG) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Pink Noise for Relaxation](https://open.spotify.com/album/5d2CmV2WoEeD4rmVHpteLM) | 2:30 |
 | 183 | [Sleeping Pink Noise](https://open.spotify.com/track/6ISpESzu6etXUOE0ColFjE) | [Pinkfreq](https://open.spotify.com/artist/4rVtSVfR2xsfI3MkJkhMWT) | [Sleeping Pink Noise](https://open.spotify.com/album/7AhCbYSNUyhuiabC198GP5) | 3:34 |

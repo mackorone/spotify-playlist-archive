@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Annular",
+        "url": "https://open.spotify.com/album/5nucHI6RjBTMNZmfcD2lU5"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178880,
+      "name": "Annular",
+      "url": "https://open.spotify.com/track/52VDuzY8msM54rR7RNvN2I"
+    },
+    {
+      "album": {
         "name": "Approval",
         "url": "https://open.spotify.com/album/2TduV2Na9lQiW4HmjSbc5r"
       },
@@ -524,7 +542,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 158000,
       "name": "believed",
       "url": "https://open.spotify.com/track/6dEKvEjO2aKRW8sETTH7Pv"
@@ -672,6 +690,24 @@
       "duration_ms": 143380,
       "name": "By the water",
       "url": "https://open.spotify.com/track/2YoLc0qnDHNgjpuaF0nxOV"
+    },
+    {
+      "album": {
+        "name": "Cantare",
+        "url": "https://open.spotify.com/album/442BAigdqDKpsAZy7f2iVE"
+      },
+      "artists": [
+        {
+          "name": "Selenar Rex",
+          "url": "https://open.spotify.com/artist/0aCvzm1b2BQnlQIJmixAw3"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127925,
+      "name": "Cantare",
+      "url": "https://open.spotify.com/track/2klT0TpmyfRKCAhDRJofA5"
     },
     {
       "album": {
@@ -1868,7 +1904,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 143625,
       "name": "Grounded in Love",
       "url": "https://open.spotify.com/track/6r3yNcTDGZxBsvUi5hwpOf"
@@ -2088,7 +2124,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 186250,
       "name": "In Memories",
       "url": "https://open.spotify.com/track/1OvUOAr7h6Vj5aQnKOzOzc"
@@ -2178,7 +2214,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 146491,
       "name": "Infinite",
       "url": "https://open.spotify.com/track/6FPMx8iE0KmRFecOqkk3td"
@@ -2196,7 +2232,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 145657,
       "name": "Introvert",
       "url": "https://open.spotify.com/track/255aV1UNNwLHwkqBAfInaW"
@@ -2466,7 +2502,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 237250,
       "name": "Like A Whisper",
       "url": "https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ"
@@ -2488,6 +2524,24 @@
       "duration_ms": 139598,
       "name": "Little eyes",
       "url": "https://open.spotify.com/track/0ujCuPifSXi03mgGeqbsvC"
+    },
+    {
+      "album": {
+        "name": "Love of My Life",
+        "url": "https://open.spotify.com/album/10mjFWOlFE2Vr0ZrgPNXYZ"
+      },
+      "artists": [
+        {
+          "name": "Goratie",
+          "url": "https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139866,
+      "name": "Love of My Life",
+      "url": "https://open.spotify.com/track/1k43yZUlrZlWLlLSE9HSFC"
     },
     {
       "album": {
@@ -3006,7 +3060,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 191730,
       "name": "Notturno",
       "url": "https://open.spotify.com/track/1vwLrgMsd1sCPpXTzXxuBL"
@@ -3662,7 +3716,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 127820,
       "name": "Sans Toi",
       "url": "https://open.spotify.com/track/04uVxAxx6QvPQzfuLv5A6P"
@@ -3914,7 +3968,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 120177,
       "name": "Sleeping On Clouds",
       "url": "https://open.spotify.com/track/3hZOoFLCKOWk7UlHbqQbo0"
@@ -4418,7 +4472,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 165625,
       "name": "The Breeze and The Wildflower",
       "url": "https://open.spotify.com/track/6Plm2aAPOdsimkWZiL7VVd"
@@ -4724,7 +4778,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 141500,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/7hWj5ZNuvZfCSn24MFRzwx"

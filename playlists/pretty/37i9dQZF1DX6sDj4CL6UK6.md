@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists<br/>Cover: Tarang Joseph
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,472 likes - 45 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,477 likes - 45 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La La Land](https://open.spotify.com/track/4ntSlRcL76zb4dhiBycTUo) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Khud Ko Miloon](https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29) | 2:40 |
-| 2 | [Holdin' On \- City Sessions, Season 2 \- Side A](https://open.spotify.com/track/3YMSHuBdFQuoFCXYu4xYlz) | [Adi Rao](https://open.spotify.com/artist/67aHUUVIizUykU8Y4NFFp1) | [City Sessions \(Season 2 \- Side A\)](https://open.spotify.com/album/5PWT6nirwVvZ62TM1rsi7F) | 2:56 |
+| 2 | [Holdin' On \- City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/track/3YMSHuBdFQuoFCXYu4xYlz) | [Adi Rao](https://open.spotify.com/artist/67aHUUVIizUykU8Y4NFFp1) | [City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/album/5PWT6nirwVvZ62TM1rsi7F) | 2:56 |
 | 3 | [My Last Cigarette](https://open.spotify.com/track/1RAQBHitlcTb4MJVxoLQ2n) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [My Last Cigarette](https://open.spotify.com/album/0t1TJ4kb04P7rcIkVSzue0) | 4:37 |
 | 4 | [Could've Been](https://open.spotify.com/track/3htkrQoG9nyhf8foW2dzp0) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Dishaan](https://open.spotify.com/artist/7DQId5IjxE3bl0dABc9gvT) | [Could've Been](https://open.spotify.com/album/7BBHLb75DUrEFh9108117K) | 2:47 |
 | 5 | [Sucks To Be Human](https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks To Be Human](https://open.spotify.com/album/69EKPVK5owroH5jbQhlXv7) | 3:25 |

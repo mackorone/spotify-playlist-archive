@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUm4vT7WQxcD.md) - [plain]
 
 > Relax and let the hum of calming white noise box fans and air conditioner sounds lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,586 likes - 125 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,687 likes - 125 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

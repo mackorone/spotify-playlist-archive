@@ -1,12 +1,12 @@
 {
   "description": "This is Suzan & Freek. The essential tracks, all in one playlist.",
-  "num_followers": 94334,
+  "num_followers": 94347,
   "original_name": "This Is Suzan & Freek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMYFgAAAAABqBkRTC2ZvYBAe4Ym3pQwq",
+  "snapshot_id": "aMdXAAAAAACmVcmwdDfTK5a0smuxdUtv",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batterij",
-        "url": "https://open.spotify.com/album/3iUA629Sgwm5LKaBXfS3bw"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Batterij",
-      "url": "https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ken Je Dat Gevoel",
         "url": "https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 171750,
       "name": "Ken Je Dat Gevoel",
       "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batterij",
+        "url": "https://open.spotify.com/album/3iUA629Sgwm5LKaBXfS3bw"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Batterij",
+      "url": "https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 212920,
-      "name": "Onder De Sterren - uit Liefde Voor Muziek",
-      "url": "https://open.spotify.com/track/71BNUHxvGAGVQiMho8Q5hh"
+      "duration_ms": 232666,
+      "name": "Op Deze Dag - uit Liefde Voor Muziek",
+      "url": "https://open.spotify.com/track/2qfckSYDNIFrEWgONKHUpH"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 232666,
-      "name": "Op Deze Dag - uit Liefde Voor Muziek",
-      "url": "https://open.spotify.com/track/2qfckSYDNIFrEWgONKHUpH"
+      "duration_ms": 212920,
+      "name": "Onder De Sterren - uit Liefde Voor Muziek",
+      "url": "https://open.spotify.com/track/71BNUHxvGAGVQiMho8Q5hh"
     },
     {
       "added_at": null,

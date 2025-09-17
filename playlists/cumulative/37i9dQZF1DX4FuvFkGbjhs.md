@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Genesis Owusu
 
-678 songs - 1 day 15 hr 1 min
+680 songs - 1 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Borderline](https://open.spotify.com/track/0a0KflahMJP1r7ryTBdHF6) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Borderline](https://open.spotify.com/album/5TaDHs2jWD0vtpu34360yU) | 2:40 | 2024-08-15 | 2025-02-14 |
 | [Born, Die](https://open.spotify.com/track/6LVS9am9Jcfl8U2InwLIyg) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH), [J\. Caesar](https://open.spotify.com/artist/6ORvJlDfKQanl44XNrLvJK), [Fredwave](https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz) | [Born, Die](https://open.spotify.com/album/21NPtkiukEIdTbTW9FnzMe) | 3:00 | 2025-04-03 | 2025-05-09 |
 | [Boy Racer](https://open.spotify.com/track/4qnoNv96JSCMtKJq1Mrpfe) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Boy Racer](https://open.spotify.com/album/5TXEsw0Amvt0fdQgyyocQU) | 3:39 | 2024-12-06 | 2025-02-21 |
+| [Boyface](https://open.spotify.com/track/6cod1i5SSMl8JU2clDaXgZ) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Boyface](https://open.spotify.com/album/4qRwG0dauaqghab1ATynTw) | 3:16 | 2025-09-11 |  |
 | [Brave St Andrew](https://open.spotify.com/track/4QwsbaWwtNMN0yZqyvuzaw) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Brave St Andrew](https://open.spotify.com/album/4dwzfYlUUyD2MnGCNdfODd) | 3:49 | 2025-07-31 |  |
 | [Break My Own Heart](https://open.spotify.com/track/3nkMwpRcRrVtWiuTfPMK2P) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Break My Own Heart](https://open.spotify.com/album/0yXm3Hvv1s6D17Fg2jZiei) | 3:35 | 2024-09-01 | 2025-02-14 |
 | [Break The Tension](https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Break The Tension](https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo) | 3:45 | 2024-10-03 | 2025-02-14 |
@@ -650,6 +651,7 @@
 | [volc3](https://open.spotify.com/track/3hz9Udgceb1f7H3o9aeAES) | [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT), [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [volc3](https://open.spotify.com/album/1TbzEcB57aYrKfMAGA1iCE) | 3:43 | 2025-02-14 | 2025-05-23 |
 | [Waiting](https://open.spotify.com/track/6dOsGHd8ecm2m762lPEtyw) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Waiting](https://open.spotify.com/album/75vRfQsDngCZO35ztkiZPx) | 3:10 | 2024-10-10 | 2025-02-14 |
 | [Wake Up, Pass Out](https://open.spotify.com/track/0ISluANGR8RAokUJCzRygg) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Wake Up, Pass Out](https://open.spotify.com/album/0jTdu9HM5JSNEvpp5GfwTz) | 2:58 | 2024-08-08 | 2024-10-04 |
+| [Wallpaper](https://open.spotify.com/track/6LdIS1qUJYXBms7rAcKQ3z) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Wallpaper](https://open.spotify.com/album/6W63ELml5omoe4bNVKVsdI) | 2:59 | 2025-09-11 |  |
 | [wanted](https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [ceremonial contrafact \(empathogen deluxe\)](https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE) | 2:39 | 2024-09-27 | 2025-02-14 |
 | [War](https://open.spotify.com/track/4Q5lIWBrKd0LafLW2bFrBC) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [War](https://open.spotify.com/album/6faQlIwLHq32QAs52QqFdr) | 2:55 | 2024-10-24 | 2024-11-29 |
 | [Watchin' U](https://open.spotify.com/track/6fGSaSn3veQ0wNU8Q8cKhU) | [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [Watchin' U](https://open.spotify.com/album/2q5RS4MQHN27EUUnfw6a32) | 3:02 | 2025-05-23 | 2025-08-22 |

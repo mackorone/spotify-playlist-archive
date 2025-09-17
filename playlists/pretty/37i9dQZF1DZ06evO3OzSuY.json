@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24784,
+  "num_followers": 24783,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMYFgAAAAADwcRs2MqLTPn51od8aoAp8",
+  "snapshot_id": "aMdXAAAAAABAdEUk12JdOLFd64pNEbn8",
   "tracks": [
     {
       "added_at": null,
@@ -655,30 +655,6 @@
       "duration_ms": 268973,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Jam - Track Commentary",
-        "url": "https://open.spotify.com/album/2J9D3akwEAUR4kfYHQvtww"
-      },
-      "artists": [
-        {
-          "name": "Bobby Brackins",
-          "url": "https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 144090,
-      "name": "My Jam - Track Commentary",
-      "url": "https://open.spotify.com/track/6iYBqmCFPD5HzWq9Bfyiab"
     }
   ],
   "unique_name": "This Is Zendaya",

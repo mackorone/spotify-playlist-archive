@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui 🌻 Cover: Emili Kasa
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,151 likes - 87 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,153 likes - 87 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 25 | [Gomma Americana](https://open.spotify.com/track/6atsBUUO14VdT7XdUtUcKj) | [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1), [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb) | [Gomma Americana](https://open.spotify.com/album/5CuqrabMbyE2wmNx3bEcgA) | 2:32 |
 | 26 | [AIR \(feat\. Venerus & Ele A\)](https://open.spotify.com/track/0vty6zPguCSs4wiWpFYxO4) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 3:49 |
 | 27 | [sbalzi d'umore](https://open.spotify.com/track/62mrphhxReT05rlu68jdYL) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [sbalzi d'umore](https://open.spotify.com/album/6qEzXWQHBtiL3g3hcQQ2DB) | 2:54 |
-| 28 | [Monolocale](https://open.spotify.com/track/1HYbRaroL7XszW8fs0M9dx) | [MIVERGOGNO](https://open.spotify.com/artist/2ViO7phpBZJNKwhNqoWSau), [Daniele Gatto](https://open.spotify.com/artist/0sMOwM6e4qudvt9HuQlsR9) | [Monolocale](https://open.spotify.com/album/1GDeQKR4m888mtzDDRmHl1) | 4:19 |
+| 28 | [Monolocale](https://open.spotify.com/track/1HYbRaroL7XszW8fs0M9dx) | [MIVERGOGNO](https://open.spotify.com/artist/2ViO7phpBZJNKwhNqoWSau) | [Monolocale](https://open.spotify.com/album/1GDeQKR4m888mtzDDRmHl1) | 4:19 |
 | 29 | [Granello di speranza](https://open.spotify.com/track/5tOPbs9J7ekO5dvdEwiqgR) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Granello di speranza](https://open.spotify.com/album/3a4YsZwhsXHkUhS5caXRxp) | 3:40 |
 | 30 | [Non mi piacciono le divise](https://open.spotify.com/track/2uNwk35D0hXXos5l4GQ19O) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Non mi piacciono le divise](https://open.spotify.com/album/6MeNQkRkRgFxZuOnXLfjxD) | 2:04 |
 | 31 | [Ispira](https://open.spotify.com/track/5fiGmUW5YGk8SOV6XpH6Qs) | [Fuma!](https://open.spotify.com/artist/13XMOJ0yL9Ply7KVZPLs1N) | [Ispira](https://open.spotify.com/album/1EKHmTrkUgWsUML0e6zFoZ) | 3:40 |

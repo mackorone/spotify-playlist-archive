@@ -16514,7 +16514,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Flying Blue",
       "url": "https://open.spotify.com/track/7JGEUwyfP2oH2nbMllxeo8"
@@ -28104,7 +28104,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 169846,
       "name": "MANON B",
       "url": "https://open.spotify.com/track/6C0SXfD7rR46MpWK5VJSEw"
@@ -33688,7 +33688,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Paradise (with Bipolar Sunshine)",
       "url": "https://open.spotify.com/track/10WWosq6z75o3WGRjL4v2D"
@@ -34744,7 +34744,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 204973,
       "name": "Ph\u00e9nom\u00e9nal",
       "url": "https://open.spotify.com/track/78Y0EwVQ9kdQFTIOzr7lUd"
@@ -47244,10 +47244,28 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 164600,
       "name": "Whine",
       "url": "https://open.spotify.com/track/46vaBmVDzufp98VPJCwtAU"
+    },
+    {
+      "album": {
+        "name": "Whine",
+        "url": "https://open.spotify.com/album/1LOD3c3BnvrUnMajPUJ7Fe"
+      },
+      "artists": [
+        {
+          "name": "TKS 2G",
+          "url": "https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164600,
+      "name": "Whine",
+      "url": "https://open.spotify.com/track/5sTiliOzx02twYDJLdBQPS"
     },
     {
       "album": {

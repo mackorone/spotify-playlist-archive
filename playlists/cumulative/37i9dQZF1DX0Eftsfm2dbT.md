@@ -2,7 +2,7 @@
 
 ### [+81 Connect: J\-Hip Hopの「今」と「その先」](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: IO
+> J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Daichi Yamamoto
 
 1,930 songs - 4 day 1 hr 47 min
 

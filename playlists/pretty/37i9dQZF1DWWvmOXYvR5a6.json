@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: Coogie)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221410,
+  "num_followers": 221429,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-09-08 06:58:45",
       "album": {
-        "name": "SEOUL DRIFT",
-        "url": "https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "SEOUL DRIFT",
-      "url": "https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0"
-    },
-    {
-      "added_at": "2025-09-08 06:58:45",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 182346,
       "name": "Right Now (Feat. Crush)",
       "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
+    },
+    {
+      "added_at": "2025-09-08 06:58:45",
+      "album": {
+        "name": "SEOUL DRIFT",
+        "url": "https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "SEOUL DRIFT",
+      "url": "https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0"
     },
     {
       "added_at": "2025-09-08 06:58:45",
@@ -727,26 +727,6 @@
     {
       "added_at": "2025-09-08 06:58:45",
       "album": {
-        "name": "16 Fantasy",
-        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Jambino",
-          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "ADHD (feat. Jambino)",
-      "url": "https://open.spotify.com/track/4RswMuoJPErLTTdpYG5Qb0"
-    },
-    {
-      "added_at": "2025-09-08 06:58:45",
-      "album": {
         "name": "Show Me The Money 10 Episode 3",
         "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
       },
@@ -767,18 +747,22 @@
     {
       "added_at": "2025-09-08 06:58:45",
       "album": {
-        "name": "Flip",
-        "url": "https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8"
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
       },
       "artists": [
         {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Jambino",
+          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
         }
       ],
-      "duration_ms": 185893,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5"
+      "duration_ms": 193493,
+      "name": "ADHD (feat. Jambino)",
+      "url": "https://open.spotify.com/track/4RswMuoJPErLTTdpYG5Qb0"
     },
     {
       "added_at": "2025-09-08 06:58:45",
@@ -803,6 +787,22 @@
       "duration_ms": 276152,
       "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
       "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
+    },
+    {
+      "added_at": "2025-09-08 06:58:45",
+      "album": {
+        "name": "Flip",
+        "url": "https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 185893,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5"
     },
     {
       "added_at": "2025-09-08 06:58:45",
@@ -1475,22 +1475,26 @@
     {
       "added_at": "2025-09-08 06:58:45",
       "album": {
-        "name": "School Rapper4 Semi Final 2",
-        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
+        "name": "Beginning",
+        "url": "https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0"
       },
       "artists": [
         {
-          "name": "PARK HYEON JIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
         },
         {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
         }
       ],
-      "duration_ms": 213626,
-      "name": "PARADISE (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
+      "duration_ms": 181173,
+      "name": "Black Swan (Feat. Leellamarz, DON MALIK)",
+      "url": "https://open.spotify.com/track/0rG31ihx1Jurb7hzc6ixc0"
     },
     {
       "added_at": "2025-09-08 06:58:45",
@@ -1535,6 +1539,26 @@
     {
       "added_at": "2025-09-08 06:58:45",
       "album": {
+        "name": "School Rapper4 Semi Final 2",
+        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
+      },
+      "artists": [
+        {
+          "name": "PARK HYEON JIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "PARADISE (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
+    },
+    {
+      "added_at": "2025-09-08 06:58:45",
+      "album": {
         "name": "Ring Ring",
         "url": "https://open.spotify.com/album/16dV4I2SPOOR4X1oiSIkXS"
       },
@@ -1547,30 +1571,6 @@
       "duration_ms": 171973,
       "name": "Ring Ring",
       "url": "https://open.spotify.com/track/0lJvkAuv7HLOz13qdmbpNx"
-    },
-    {
-      "added_at": "2025-09-08 06:58:45",
-      "album": {
-        "name": "Beginning",
-        "url": "https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0"
-      },
-      "artists": [
-        {
-          "name": "Gist",
-          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 181173,
-      "name": "Black Swan (Feat. Leellamarz, DON MALIK)",
-      "url": "https://open.spotify.com/track/0rG31ihx1Jurb7hzc6ixc0"
     },
     {
       "added_at": "2025-09-08 06:58:45",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2025-09-08 06:58:45",
       "album": {
-        "name": "Show Must Go On",
-        "url": "https://open.spotify.com/album/7ltbcQigXrafN9CNgi3AdC"
-      },
-      "artists": [
-        {
-          "name": "Bryan Chase",
-          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Show Must Go On",
-      "url": "https://open.spotify.com/track/0pBbICsYvshPFa69K8TpsC"
-    },
-    {
-      "added_at": "2025-09-08 06:58:45",
-      "album": {
         "name": "Dingo X Ambition Musik",
         "url": "https://open.spotify.com/album/3naaXqEfJnwlSqyFshTwlF"
       },
@@ -1719,6 +1699,26 @@
     {
       "added_at": "2025-09-08 06:58:45",
       "album": {
+        "name": "Show Must Go On",
+        "url": "https://open.spotify.com/album/7ltbcQigXrafN9CNgi3AdC"
+      },
+      "artists": [
+        {
+          "name": "Bryan Chase",
+          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Show Must Go On",
+      "url": "https://open.spotify.com/track/0pBbICsYvshPFa69K8TpsC"
+    },
+    {
+      "added_at": "2025-09-08 06:58:45",
+      "album": {
         "name": "BLEND",
         "url": "https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR"
       },
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2025-09-08 06:58:45",
       "album": {
-        "name": "Hit Me Up (feat. MINGI of ATEEZ)",
-        "url": "https://open.spotify.com/album/7cUKFAqF0tiOU9Tu0RD460"
-      },
-      "artists": [
-        {
-          "name": "MIRANI",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        },
-        {
-          "name": "MINGI of ATEEZ",
-          "url": "https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO"
-        }
-      ],
-      "duration_ms": 138293,
-      "name": "Hit Me Up (feat. MINGI of ATEEZ)",
-      "url": "https://open.spotify.com/track/5ODRxiap0pEztir1hOEklY"
-    },
-    {
-      "added_at": "2025-09-08 06:58:45",
-      "album": {
         "name": "Drivin'",
         "url": "https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 162586,
       "name": "Drivin\u2019 (Feat. Layone, BIG Naughty)",
       "url": "https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT"
+    },
+    {
+      "added_at": "2025-09-08 06:58:45",
+      "album": {
+        "name": "Hit Me Up (feat. MINGI of ATEEZ)",
+        "url": "https://open.spotify.com/album/7cUKFAqF0tiOU9Tu0RD460"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        },
+        {
+          "name": "MINGI of ATEEZ",
+          "url": "https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO"
+        }
+      ],
+      "duration_ms": 138293,
+      "name": "Hit Me Up (feat. MINGI of ATEEZ)",
+      "url": "https://open.spotify.com/track/5ODRxiap0pEztir1hOEklY"
     },
     {
       "added_at": "2025-09-08 06:58:45",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2025-09-08 06:58:45",
       "album": {
-        "name": "Double C",
-        "url": "https://open.spotify.com/album/3WpxmeGPoUYDbttYTYj539"
-      },
-      "artists": [
-        {
-          "name": "Royal 44",
-          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
-        }
-      ],
-      "duration_ms": 142268,
-      "name": "Double C",
-      "url": "https://open.spotify.com/track/3QnzKLeBJmlsmuf4bYBbqO"
-    },
-    {
-      "added_at": "2025-09-08 06:58:45",
-      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA"
       },
@@ -1931,26 +1915,42 @@
     {
       "added_at": "2025-09-08 06:58:45",
       "album": {
-        "name": "LOVE MAZE",
-        "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
+        "name": "Double C",
+        "url": "https://open.spotify.com/album/3WpxmeGPoUYDbttYTYj539"
       },
       "artists": [
         {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
         }
       ],
-      "duration_ms": 227560,
-      "name": "NG (Feat. pH-1, Jay Park)",
-      "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
+      "duration_ms": 142268,
+      "name": "Double C",
+      "url": "https://open.spotify.com/track/3QnzKLeBJmlsmuf4bYBbqO"
+    },
+    {
+      "added_at": "2025-09-08 06:58:45",
+      "album": {
+        "name": "Curtain Call",
+        "url": "https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        }
+      ],
+      "duration_ms": 192391,
+      "name": "Spring (Feat. ASH ISLAND, Skinny Brown)",
+      "url": "https://open.spotify.com/track/7iIL3EoQtWR7jknTbzbWai"
     },
     {
       "added_at": "2025-09-08 06:58:45",
@@ -1971,22 +1971,26 @@
     {
       "added_at": "2025-09-08 06:58:45",
       "album": {
-        "name": "WHERE DOES SASQUATCH LIVE? Pt. 2",
-        "url": "https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr"
+        "name": "LOVE MAZE",
+        "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
       },
       "artists": [
         {
-          "name": "Zior Park",
-          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
         },
         {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 261120,
-      "name": "BYE BYE BYE (feat. Sion)",
-      "url": "https://open.spotify.com/track/0NlGSYMfgwTLbMzViHYPO6"
+      "duration_ms": 227560,
+      "name": "NG (Feat. pH-1, Jay Park)",
+      "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
     }
   ],
   "unique_name": "TrenChill K-Hip Hop",

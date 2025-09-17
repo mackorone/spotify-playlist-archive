@@ -4,7 +4,7 @@
 
 > The best in every corner of modern punk rock\. Cover: Maruja
 
-548 songs - 1 day 3 hr 31 min
+550 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [aftermath/afterthought](https://open.spotify.com/track/7HfE6JGX9PVJXE3zf6aZb3) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [aftermath/afterthought](https://open.spotify.com/album/4ZqVCoQf60h1VE2kM3uz2o) | 2:26 | 2024-06-27 | 2024-10-11 |
 | [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 | 2022-12-02 | 2023-05-20 |
 | [Alive](https://open.spotify.com/track/3GUQHwDdoziJz9wTcBC1TZ) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Alive](https://open.spotify.com/album/4GDScUQlslGqyxqFV4KlqF) | 3:17 | 2023-03-20 | 2023-06-09 |
-| [Alive & Well](https://open.spotify.com/track/2W5MV8gAzYhvcWV7lywxP1) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Alive & Well](https://open.spotify.com/album/1tsnyH9PnolLVWB8MgsAD7) | 3:32 | 2025-05-08 |  |
+| [Alive & Well](https://open.spotify.com/track/2W5MV8gAzYhvcWV7lywxP1) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Alive & Well](https://open.spotify.com/album/1tsnyH9PnolLVWB8MgsAD7) | 3:32 | 2025-05-08 | 2025-09-17 |
 | [All Comes Down to This](https://open.spotify.com/track/4gs4otFPRCU02x9MsSSNoN) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [All Comes Down to This](https://open.spotify.com/album/3gVokvQ6Kp8QwnpYrbzrb4) | 2:32 | 2024-03-15 | 2024-06-02 |
 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 | 2024-07-19 | 2025-01-18 |
 | [All My Fault](https://open.spotify.com/track/05wYa38uXNOCmriGcqCH3e) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [All My Fault](https://open.spotify.com/album/2NyJW1lrrOEqunfuCmJmmX) | 3:04 | 2024-11-15 | 2025-05-09 |
@@ -178,9 +178,10 @@
 | [Enmore](https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Enmore](https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw) | 2:42 | 2024-07-12 | 2025-07-25 |
 | [Environmental Catastrophe Film](https://open.spotify.com/track/2obTmxuKn1149c80PC5LDb) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [II](https://open.spotify.com/album/0c0rEkRnhINRrpxGc9cOEe) | 8:41 | 2025-07-04 |  |
 | [Erasure](https://open.spotify.com/track/5pfc8Q86sfgziVm8jSIdar) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 2:46 | 2023-09-22 | 2024-06-01 |
+| [Erasure](https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Erasure](https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud) | 3:09 | 2025-09-11 |  |
 | [Everything](https://open.spotify.com/track/08doI6a2PPJoeYCWMXdKSZ) | [IMMERSE](https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN) | [Everything](https://open.spotify.com/album/2hkRgU5Xm7CJy5HQQxh07k) | 3:29 | 2023-06-20 | 2023-08-24 |
 | [Everything and Nothing](https://open.spotify.com/track/7j0ERJhSb6kFFeAiDl1QBf) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Everything and Nothing](https://open.spotify.com/album/3hRhx7uDN7bnQSPB769JZ9) | 3:57 | 2024-06-14 | 2025-05-09 |
-| [Everything’s On Fire But I’m Fine](https://open.spotify.com/track/1QlspbCplGbHwofyNqyiBb) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Everything's On Fire But I'm Fine](https://open.spotify.com/album/0tAnxiTSZ0ZPSvJVN17MfN) | 2:34 | 2025-09-04 |  |
+| [Everything’s On Fire But I’m Fine](https://open.spotify.com/track/1QlspbCplGbHwofyNqyiBb) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Everything's On Fire But I'm Fine](https://open.spotify.com/album/0tAnxiTSZ0ZPSvJVN17MfN) | 2:34 | 2025-09-04 | 2025-09-17 |
 | [Facedown](https://open.spotify.com/track/2wc4XyfD9OAELrkwL3iCqO) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Facedown](https://open.spotify.com/album/5bkQz8PC9JMdToUrvFfQOI) | 2:31 | 2023-03-20 | 2023-04-26 |
 | [Facedown](https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:31 | 2023-03-20 | 2024-04-19 |
 | [Far Out, Bro \(Feat\. Daryl Taberski of Snapcase\)](https://open.spotify.com/track/0qhzDJvawg5ePgaTeNulWb) | [The Barbarians of California](https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO), [Snapcase](https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W) | [Far Out, Bro \(Feat\. Daryl Taberski of Snapcase\)](https://open.spotify.com/album/3DWnpS0PYuV1ELuWmH75pm) | 3:27 | 2024-06-14 | 2024-07-07 |
@@ -478,6 +479,7 @@
 | [TALK](https://open.spotify.com/track/34zukSow00sQeQqx5kKpNv) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [My Apologies To The Chef](https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0) | 2:42 | 2025-02-21 | 2025-07-05 |
 | [Talk Real](https://open.spotify.com/track/7LPbyMRdlafzBDgn1bfTND) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [Talk Real](https://open.spotify.com/album/7uhHXD3tSb0OyXwNrxxU9o) | 2:55 | 2025-02-07 | 2025-02-22 |
 | [Talking To Myself](https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 2:22 | 2022-12-02 | 2023-11-18 |
+| [Target Practice](https://open.spotify.com/track/1N3LYk2u9cSGnH1x5ODoqD) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [Tomorrow We Escape](https://open.spotify.com/album/1cSUzXXFmtNIFrCECjFe4R) | 2:11 | 2025-09-11 |  |
 | [Taste the Money](https://open.spotify.com/track/44x9fOlJM1CNDIBpOOEJIq) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Taste the Money](https://open.spotify.com/album/3bwDKAW6IgigIg1cfUBMQX) | 2:35 | 2022-12-02 | 2023-04-14 |
 | [Tastes Like Sarah](https://open.spotify.com/track/2lMALY8dtMsGl3vTrhISaz) | [PROJECTOR](https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9) | [Now When We Talk It's Violence](https://open.spotify.com/album/63T8vRb63TY4Bj1mAPlu9O) | 1:57 | 2024-05-31 | 2024-06-28 |
 | [Tear Me to Pieces](https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:56 | 2023-03-20 | 2024-06-01 |

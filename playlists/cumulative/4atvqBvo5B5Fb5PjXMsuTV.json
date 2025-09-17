@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 16 Sep 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 17 Sep 03:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -6348,7 +6348,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 309821,
       "name": "Armies of the Lord",
       "url": "https://open.spotify.com/track/66o7LYuOSu44lBft8MMsj4"
@@ -12010,7 +12010,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 168000,
       "name": "body",
       "url": "https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM"
@@ -37937,6 +37937,24 @@
     },
     {
       "album": {
+        "name": "guardian angel",
+        "url": "https://open.spotify.com/album/1LYlLw05uQeuAd8Bs63ENZ"
+      },
+      "artists": [
+        {
+          "name": "Skyr0",
+          "url": "https://open.spotify.com/artist/32jEBhDRBuS4l4achhHyVM"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241500,
+      "name": "guardian angel",
+      "url": "https://open.spotify.com/track/4SwPBzO8HQyoriNmEfgGfh"
+    },
+    {
+      "album": {
         "name": "GUESS",
         "url": "https://open.spotify.com/album/0q0G9omHqvzRGMjIsvHOGD"
       },
@@ -47514,7 +47532,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 234902,
       "name": "It Comes For You",
       "url": "https://open.spotify.com/track/1EPlAlZXGb1JO3s1DpH3rD"
@@ -74385,6 +74403,28 @@
     },
     {
       "album": {
+        "name": "Rich Man (English Version)",
+        "url": "https://open.spotify.com/album/7LVy2GtmquicG5pNZBDpse"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197578,
+      "name": "Rich Man (feat. Sevdaliza)",
+      "url": "https://open.spotify.com/track/6UW6Gvem9YVXTcf41eAIey"
+    },
+    {
+      "album": {
         "name": "RICOCHET",
         "url": "https://open.spotify.com/album/7z3Rimg2psQNvRxlqM2Fn3"
       },
@@ -75184,7 +75224,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 202000,
       "name": "RODEO",
       "url": "https://open.spotify.com/track/7jd4sz1jTKa6yHU0171kYY"
@@ -78164,6 +78204,28 @@
       "duration_ms": 153230,
       "name": "Sex Sells",
       "url": "https://open.spotify.com/track/3RfxKkaMLWzKC5fE7jHSGs"
+    },
+    {
+      "album": {
+        "name": "SexOnTheBeat (Alex Chapman Remix)",
+        "url": "https://open.spotify.com/album/1voBnl0x5gIld97FPBDMw5"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        },
+        {
+          "name": "Alex Chapman",
+          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167844,
+      "name": "SexOnTheBeat - Alex Chapman Remix",
+      "url": "https://open.spotify.com/track/3HwvEI0J5upDA9ULykyC0U"
     },
     {
       "album": {
@@ -92306,6 +92368,24 @@
       "duration_ms": 220190,
       "name": "Three Six Five",
       "url": "https://open.spotify.com/track/2nrY3Snk7Tqf2QOwzLAWQf"
+    },
+    {
+      "album": {
+        "name": "THRILLER",
+        "url": "https://open.spotify.com/album/3WDzrUo4IO2A3ScJh6LWTW"
+      },
+      "artists": [
+        {
+          "name": "BADVILLAIN",
+          "url": "https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "THRILLER",
+      "url": "https://open.spotify.com/track/6FVwbv7XgC7xR2FT5ISS4B"
     },
     {
       "album": {

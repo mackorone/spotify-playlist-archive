@@ -2,7 +2,7 @@
 
 ### [Hit Maghribi](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> From Morocco to the world\. Cover: Stormy
+> From Morocco to the world\. Cover: Draganov
 
 478 songs - 1 day 1 hr 29 min
 

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,014 songs - 1 day 16 hr 42 min
+2,016 songs - 1 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Aurora](https://open.spotify.com/track/5S0fH5Qyi4yxa4JXTbVCVC) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Aurora](https://open.spotify.com/album/7kEf7DoJHnwK9nQBKrRJlr) | 1:00 | 2023-06-21 |  |
 | [Aurora Arr\. For Cello](https://open.spotify.com/track/0HhPAEHrTScWAID2XJ5MLi) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Two Ambient Cello Preludes](https://open.spotify.com/album/0eIrD6HWVSGLHqnIHQ3y48) | 1:00 | 2023-06-27 |  |
 | [Aurora Arr\. For Violin](https://open.spotify.com/track/2s52fWDWhKTZgEaGXbNHiT) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Aurora Arr\. For Violin](https://open.spotify.com/album/1LCPIRZ1Slm9JG4iPXY5Kv) | 1:00 | 2023-06-24 |  |
+| [Autumn Evening](https://open.spotify.com/track/06cKPz5hjDzmAwOJGon53i) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Autumn Evening](https://open.spotify.com/album/2ewoWNBftenaL7RH1thLHu) | 1:00 | 2025-09-16 |  |
 | [Autumn Light](https://open.spotify.com/track/64G2sysZI1FpAvn5P5HzEa) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Autumn Light](https://open.spotify.com/album/2726iiffCUJnbWWvhpYDKQ) | 1:00 | 2025-06-19 |  |
 | [Autumn Love](https://open.spotify.com/track/4bGbnMQPvPnjBTvFNH3nON) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Autumn Love](https://open.spotify.com/album/77womLwqvHPEFIF6oC7Qaj) | 1:03 | 2024-02-09 | 2024-02-13 |
 | [Autumn Love \- Strings Version](https://open.spotify.com/track/1hum1mcNIILCOtIjVPlwIZ) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Autumn Love](https://open.spotify.com/album/1s01k3AI562WSpqca9cmfX) | 1:02 | 2024-02-09 | 2024-02-13 |
@@ -291,6 +292,7 @@
 | [Breathing Soft](https://open.spotify.com/track/2AXdJhlY2FwXch7VNTZhSX) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [March Melodies](https://open.spotify.com/album/4Y3sVkBaAO4UnND54Ta9R4) | 1:02 | 2022-08-25 | 2024-01-30 |
 | [Breathing Softly](https://open.spotify.com/track/1b1ybBdqhSZINz8ieWFZBg) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Modern Piano Lullabies](https://open.spotify.com/album/66iwgells6KAwWRuCmUS1M) | 1:03 | 2022-08-25 | 2024-01-30 |
 | [Brief Shadows](https://open.spotify.com/track/1dj0xydfQ9N73UVWLypRDk) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Distant Lands](https://open.spotify.com/album/0AoKBXSnhjaWSlg07h6RBC) | 1:02 | 2022-08-25 | 2024-01-30 |
+| [Bright Day](https://open.spotify.com/track/1gBgDFqJMhJ0vjkeUqgIFZ) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Bright Day](https://open.spotify.com/album/5RXR3JLozwBoIIlfuRg98M) | 1:00 | 2025-09-16 |  |
 | [Bright Days Ahead](https://open.spotify.com/track/1cP9izXEJhwRXb9twUkRhm) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Cello Reflections, Vol\. 2](https://open.spotify.com/album/48wfrUhD16y2U8Lz6HuKRC) | 2:02 | 2022-01-12 | 2024-01-30 |
 | [Bright Future](https://open.spotify.com/track/6pM9OOuaEWjl7fsG9RhSjg) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Acceptance](https://open.spotify.com/album/61QvkPs87o3DpYT2oanzqz) | 1:06 | 2022-01-12 |  |
 | [Bright Shadows](https://open.spotify.com/track/3TPDtZgR50La8ZzwihbjFl) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Innerscape](https://open.spotify.com/album/7Irucj3F7RZXtGA5ePsBig) | 1:12 | 2022-01-12 |  |

@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:  عمرو جابر
 
-1,571 songs - 3 day 15 hr 37 min
+1,573 songs - 3 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Ah Ya Alby \- Tweak Remix](https://open.spotify.com/track/1L96Fjr6LSoBzvrXXm4xa6) | [TWEAK](https://open.spotify.com/artist/44ULaMXIkxkAGmEyXyhefK), [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Ah Ya Alby](https://open.spotify.com/album/52IrOu3Aac8zKuPr1bYseE) | 2:50 | 2024-10-04 | 2024-11-23 |
 | [Ahed El Bet](https://open.spotify.com/track/4TPdVzexFSBq2NkqbiTOhn) | [Obaida](https://open.spotify.com/artist/5QrgmLuA1DMi0zMZIZea8p) | [Ahed El Bet](https://open.spotify.com/album/0OLvZizgfkxGA4E33EV3en) | 3:54 | 2024-02-29 | 2024-03-07 |
 | [Ahkelak](https://open.spotify.com/track/60gNtG4TeY7YQxbxx9mUwU) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Ahkelak](https://open.spotify.com/album/30DzaAannug4aragLVhSMA) | 3:16 | 2022-03-18 | 2022-07-15 |
-| [Ahla Haga](https://open.spotify.com/track/2pnzJImC6zOWkAwd21femq) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Ahla Haga](https://open.spotify.com/album/0G6zBY6JmnhwmyaEa0sKt7) | 3:43 | 2025-06-26 |  |
+| [Ahla Haga](https://open.spotify.com/track/2pnzJImC6zOWkAwd21femq) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Ahla Haga](https://open.spotify.com/album/0G6zBY6JmnhwmyaEa0sKt7) | 3:43 | 2025-06-26 | 2025-09-17 |
 | [Ahla Rasma](https://open.spotify.com/track/4TOTz0WysSu9eI40QT2vZp) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Ahla Rasma](https://open.spotify.com/album/5CziKAAQ10z1hfzr8VfnBO) | 3:36 | 2025-04-21 | 2025-06-10 |
 | [Ahla Wahda](https://open.spotify.com/track/6zUTQHFa3gsmWyRxZzYe4e) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Ahla Wahda](https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K) | 2:40 | 2021-12-23 | 2022-02-18 |
 | [Ahla Wahda](https://open.spotify.com/track/4QxpDKq6o3hyCbF3ExDDiG) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ahla Wahda](https://open.spotify.com/album/3rfUZPJyBYgVeZqA15mGhJ) | 3:05 | 2024-03-06 | 2024-06-07 |
@@ -744,6 +744,7 @@
 | [Narein](https://open.spotify.com/track/3D33hlROnv1lNCWIXIGsL2) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:04 | 2025-07-31 |  |
 | [Nas Kteer](https://open.spotify.com/track/6R4dDg756EIf1JuFnZfWau) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [Nas Kteer](https://open.spotify.com/album/5pRjsZPHslmKIUbVyazQIE) | 3:27 | 2023-08-30 | 2023-12-15 |
 | [Nasser](https://open.spotify.com/track/6JcdmDmB9EV7wFYxbwa8xa) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [Nasser](https://open.spotify.com/album/6f8XAV4PBmAmbP3OPwR7ST) | 2:52 | 2025-02-07 | 2025-05-09 |
+| [Nasy \- From The TV Series Ma Trah Lays Kama Ybdo](https://open.spotify.com/track/7wCCqw8CSbkHMkYIqcINXB) | [Tommy Gun](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [Nasy](https://open.spotify.com/album/5qz4xp51ET1gOZLYSYGEx7) | 2:49 | 2025-09-16 |  |
 | [Nasy Kol Haga](https://open.spotify.com/track/7canmDPx5S09PR8SDpUvUs) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Nasy Kol Haga](https://open.spotify.com/album/7diePMIVdOTDEDjT2jr2vC) | 3:05 | 2024-07-24 | 2024-09-20 |
 | [NDOOR](https://open.spotify.com/track/5VvyfodDsYCGVOh3bexgOZ) | [DAL!A](https://open.spotify.com/artist/08EnT3I7K1Z8P6knbWaDt7) | [NDOOR](https://open.spotify.com/album/1Cvl5RXMUg3bPCZjenPKT0) | 3:00 | 2025-05-01 | 2025-06-20 |
 | [Nefsi Afou2](https://open.spotify.com/track/1OQSmaqaomwMpLHGk0YnGo) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Ga7da](https://open.spotify.com/album/0ut6qfrsetpcWNtWcJWkK2) | 3:59 | 2022-11-10 | 2023-01-28 |
@@ -1246,7 +1247,7 @@
 | [راجع تاني](https://open.spotify.com/track/5e7Cti5SSEva3BQlpkZPyN) | [Ahmed Alaa](https://open.spotify.com/artist/2sbhLUkAWHoLHm7cdePSJt) | [راجع تاني](https://open.spotify.com/album/69KYXrSwaUKjHQcul5o6nQ) | 4:07 | 2025-04-17 | 2025-06-10 |
 | [راجع ليه](https://open.spotify.com/track/5r9agBhWC2KBPmrhRpOWpM) | [Zad](https://open.spotify.com/artist/2oiLaoEq9dJjrRhVuvAZMZ) | [راجع ليه](https://open.spotify.com/album/3n303fuWZDkIMzBqEgMAuI) | 4:07 | 2025-01-30 | 2025-04-25 |
 | [راحت أيامه](https://open.spotify.com/track/0F7zIQlo4DFp0VGI4E2ObA) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [سلطان المرشد ٢٠٢٥](https://open.spotify.com/album/61cWGLutmVrLGBaVAcuEw1) | 3:59 | 2025-04-17 | 2025-06-10 |
-| [راحت لياليه](https://open.spotify.com/track/4abgJ51SfLiz9e6f65YVGs) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [راحت لياليه](https://open.spotify.com/album/0bWgug0dtOBYeUn7dewjK0) | 4:44 | 2025-06-19 |  |
+| [راحت لياليه](https://open.spotify.com/track/4abgJ51SfLiz9e6f65YVGs) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [راحت لياليه](https://open.spotify.com/album/0bWgug0dtOBYeUn7dewjK0) | 4:44 | 2025-06-19 | 2025-09-17 |
 | [رايق اوي \- اورنچ و احمد سعد](https://open.spotify.com/track/6BlG5SOrK1H57svuWMKMba) | [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [رايق اوي \- اورنچ و احمد سعد](https://open.spotify.com/album/5m3TBcO1hB3MjV1l9xLu0p) | 1:51 | 2023-06-26 | 2023-07-28 |
 | [ربنا يديم اللي بينا](https://open.spotify.com/track/4mNrjSRltYpmyvtlk6dtVQ) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [حاسة بيأس](https://open.spotify.com/album/2aKyIE23O1FKCo4QJAJYLx) | 3:26 | 2025-06-19 | 2025-09-10 |
 | [رجوع ناهيناه](https://open.spotify.com/track/649djuWvB675nD9GVRV3FZ) | [Alhassan Adel](https://open.spotify.com/artist/1rSKg6fabB8hw5y1rcxYdk) | [رجوع ناهيناه](https://open.spotify.com/album/25cuEfXaDmdn2rN5R2ojqx) | 3:12 | 2025-02-07 | 2025-05-02 |
@@ -1284,6 +1285,7 @@
 | [سيد الناس \(تتر مسلسل سيد الناس\)](https://open.spotify.com/track/5oxvpXB7P9a5Rjnd6VLixu) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [سيد الناس \(تتر مسلسل سيد الناس\)](https://open.spotify.com/album/7BATwGP1wSNSHld20Aj0jQ) | 4:02 | 2025-02-20 | 2025-04-11 |
 | [سيرك الحياه](https://open.spotify.com/track/5OortLPZ3VTCDjL01kuya0) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [Serk El Haiah](https://open.spotify.com/album/4rHRrAb9uxWqHVHvHCSfO4) | 3:10 | 2021-12-23 | 2022-02-02 |
 | [سيما](https://open.spotify.com/track/6dQnVRj9QyVDfLsEjngU2B) | [Hana Yousry](https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt) | [سيما](https://open.spotify.com/album/0LGmiCEQRTV25dSPkP8ttT) | 2:52 | 2024-05-30 | 2024-07-17 |
+| [شايل الحمول](https://open.spotify.com/track/1HzhfAavEbS8CmPmym89Uh) | [احمد عامر](https://open.spotify.com/artist/2ls2fVqFDYpoLyWktYE0V6) | [شايل الحمول](https://open.spotify.com/album/6wCMyN4a9PLrt5zvUzwowB) | 3:57 | 2025-09-16 |  |
 | [شكر خاص](https://open.spotify.com/track/0lSVhIuoo0Qbtqr7xz1Ifs) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [شكر خاص](https://open.spotify.com/album/2QRaqOHlatJV6qrxvLYvav) | 3:34 | 2023-02-23 | 2023-05-04 |
 | [شوفت](https://open.spotify.com/track/11KqopQALDho8OLRARxdcS) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2), [Mirna Hesham](https://open.spotify.com/artist/2XuOGCueot1VkEcd5tQVYB) | [شوفت](https://open.spotify.com/album/21y3qgHakvFl9iRhxMFvu9) | 3:39 | 2023-01-06 | 2023-02-17 |
 | [شوفتو القهره](https://open.spotify.com/track/3GNKGcSMWPsWCIwZfK89y0) | [هاجر الخشاب](https://open.spotify.com/artist/16ssM9hexF9zJRe85y4Z4j) | [شوفتو القهره](https://open.spotify.com/album/02FGgv791a9Iien6GHptMq) | 3:07 | 2024-10-18 | 2024-12-06 |

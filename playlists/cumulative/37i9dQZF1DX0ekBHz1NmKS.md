@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,990 songs - 4 day 7 hr 6 min
+1,992 songs - 4 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -733,7 +733,7 @@
 | [Hercules](https://open.spotify.com/track/2EKj7HXp6JHXIVbMzmDUlK) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Hercules](https://open.spotify.com/album/128LJh1FIAAS0QcpRNvPWD) | 3:20 | 2024-04-19 | 2024-05-24 |
 | [Here Comes The Night](https://open.spotify.com/track/3iLQ42RCWUurSrIUn14ogf) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Here Comes The Night](https://open.spotify.com/album/4Ix7oLZKkbrqbsb12qTShP) | 3:32 | 2021-12-16 | 2022-05-13 |
 | [High On Life](https://open.spotify.com/track/5XQ9N8tQH3vKe7gbFvIVqo) | [Tennessee Tears](https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp) | [High On Life](https://open.spotify.com/album/0t7QlpZaFc7UaJwJYRvKhg) | 2:54 | 2025-09-04 | 2025-09-14 |
-| [High Time](https://open.spotify.com/track/2RAaI9h95On0Z1h4wq0Qbj) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [High Time](https://open.spotify.com/album/7A7g9DyaTInJ7cRuq53K9a) | 2:29 | 2025-07-05 |  |
+| [High Time](https://open.spotify.com/track/2RAaI9h95On0Z1h4wq0Qbj) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [High Time](https://open.spotify.com/album/7A7g9DyaTInJ7cRuq53K9a) | 2:29 | 2025-07-05 | 2025-09-17 |
 | [Higher](https://open.spotify.com/track/6voH1nEeqIS3S0ZOAtqRfi) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ), [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Higher](https://open.spotify.com/album/5gjw2rOMq6aWDCYBDgKzhy) | 3:51 | 2023-01-19 | 2023-02-12 |
 | [Higher Place](https://open.spotify.com/track/14xFUlSQiS45PpDZ21RP5i) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Higher Place](https://open.spotify.com/album/5HVfLqGAzSoHcIpmzNXZYe) | 2:22 | 2025-07-03 | 2025-07-30 |
 | [Higher Power](https://open.spotify.com/track/5X72zZ8sbbYXXEARdbZpgG) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Higher Power](https://open.spotify.com/album/7LXf4A7JFlFBoH8eppUo0H) | 3:00 | 2022-03-10 | 2022-09-16 |
@@ -945,7 +945,7 @@
 | [Kan nått fint få hända sen](https://open.spotify.com/track/0QLmMEaOJKgLy1D6ICVNzF) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Kan nått fint få hända sen](https://open.spotify.com/album/44SEVloUXwb3w9NWJPXrAN) | 3:06 | 2023-10-06 | 2024-01-26 |
 | [Kanske blir bäst](https://open.spotify.com/track/5vxayeeeiAijEdv4MGlJRT) | [STRøM](https://open.spotify.com/artist/0ZxQA85NuvdHxrcjGbkHKt), [JIEF](https://open.spotify.com/artist/0UOGtCsP2Y4nv8vO30cBfs) | [Kanske blir bäst](https://open.spotify.com/album/7oCY86ttQwUI6nzzTGOfHA) | 3:19 | 2024-03-14 | 2024-04-14 |
 | [Kanske borde dra](https://open.spotify.com/track/1346kMKphlGAWfvdDd0fk6) | [Solpolen](https://open.spotify.com/artist/6ac9VI7Y7cMncuAgzjJYaB) | [Kanske borde dra](https://open.spotify.com/album/4aCNpVLQ5Jk4I43Vp8ErC3) | 2:56 | 2024-02-08 | 2024-02-25 |
-| [kanske lika bra att vi lägger av när vi ligger bra](https://open.spotify.com/track/3VtnMvL2Tpq56AmitlTFYh) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [kanske lika bra att vi lägger av när vi ligger bra](https://open.spotify.com/album/3SNoO3phfgMtYdnWCzR7OF) | 3:05 | 2025-04-24 |  |
+| [kanske lika bra att vi lägger av när vi ligger bra](https://open.spotify.com/track/3VtnMvL2Tpq56AmitlTFYh) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [kanske lika bra att vi lägger av när vi ligger bra](https://open.spotify.com/album/3SNoO3phfgMtYdnWCzR7OF) | 3:05 | 2025-04-24 | 2025-09-17 |
 | [Kaprifol](https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Kaprifol](https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP) | 3:55 | 2025-01-09 |  |
 | [Karlavagnen](https://open.spotify.com/track/7rZ3Gqfwh5SuM5tvHK1eAq) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Karlavagnen](https://open.spotify.com/album/1sqRHRlSZ1rJQwTeGP5en5) | 3:10 | 2022-04-28 | 2023-10-06 |
 | [Katterna](https://open.spotify.com/track/1T0lqhFOdpEQntdarVGU24) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Vilken del av oss gick fel?](https://open.spotify.com/album/7MI6vd647X46blgIjyhhsa) | 2:58 | 2024-06-27 | 2024-10-06 |
@@ -1545,6 +1545,7 @@
 | [SOLEN VISAR MIG VÄGEN](https://open.spotify.com/track/2gd1LE7hK53p0UBuVKYFth) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [SOLEN VISAR MIG VÄGEN](https://open.spotify.com/album/1vDJFc2MXOVTR2p8egvgHW) | 3:36 | 2024-06-20 | 2024-08-23 |
 | [Solens alla änglar](https://open.spotify.com/track/0IefRffecTIzgApJOf6cms) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe) | [Solens alla änglar](https://open.spotify.com/album/2ckdEx33yCKlLwQjVrTnw4) | 4:17 | 2025-04-17 | 2025-06-10 |
 | [Solnedgångar](https://open.spotify.com/track/6Wl89b1QP2VujIZQvlbz9F) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Solnedgångar](https://open.spotify.com/album/3rAowKXyLvIx0NQqCzDtk8) | 4:02 | 2022-04-01 | 2022-07-28 |
+| [Solros](https://open.spotify.com/track/1VgZrgml86gvvb4HAgDJP5) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Solros](https://open.spotify.com/album/00ImPIP0ISklhkv9UvNwoT) | 2:41 | 2025-09-15 |  |
 | [Solsken](https://open.spotify.com/track/4lf0FPLbugnTdRJCUSNlIg) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Tjuvjakt](https://open.spotify.com/album/4xD2AdE5l9uqHoH1y2hrhY) | 3:05 | 2023-11-23 | 2024-03-08 |
 | [Som att du aldrig va min](https://open.spotify.com/track/4MIsR3JEkdsUoZ1kdGhzI6) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Som att du aldrig va min](https://open.spotify.com/album/7Mg09qhZIUPKnwmBWGKsmk) | 2:23 | 2024-05-09 | 2024-06-07 |
 | [Som du rör dig](https://open.spotify.com/track/2wzXMY7p5Y5eXh7pDznhKM) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY), [Naasty](https://open.spotify.com/artist/70TySYlQjHgABej9yaENJA) | [Som du rör dig](https://open.spotify.com/album/6leT3esDbYQrR47KUGgEM7) | 2:13 | 2024-06-27 | 2024-10-11 |
@@ -1990,6 +1991,7 @@
 | [Änglavakt](https://open.spotify.com/track/61inXZujdBrTs0WJiPjfjJ) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [Änglavakt](https://open.spotify.com/album/69Qc9CUMoBx3TbqvFdCkRO) | 3:03 | 2022-02-26 | 2022-07-29 |
 | [Ännu mer](https://open.spotify.com/track/7Df3phKqcBZKauErNZmGdU) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Ännu mer](https://open.spotify.com/album/2JwKCHjZQBVIAN30auXm6O) | 3:04 | 2022-11-04 | 2023-05-25 |
 | [Äntligen](https://open.spotify.com/track/0rDkGAmFy3mjGOg2E6AmZi) | [Maia Hirasawa](https://open.spotify.com/artist/2xtgYE7gox5t043BJWi7bd) | [Äntligen](https://open.spotify.com/album/4h2sdTMIPJwARCNCIGuvzL) | 4:02 | 2022-06-23 | 2022-07-09 |
+| [Är det upp till dig och mig](https://open.spotify.com/track/5D94n7MSUmTTPwO91roL9x) | [Jakob Hellman](https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG) | [Är det upp till dig och mig](https://open.spotify.com/album/36Y6LGKWC5qrVnEU2uX5Nd) | 4:25 | 2025-09-15 |  |
 | [Är detta vad dom kallar kärlek?](https://open.spotify.com/track/3ehU3uIL6dO1diYmmasPR6) | [Kim Karlsson](https://open.spotify.com/artist/7nwmNkTPe1qgRs7cAYiWFm) | [Är detta vad dom kallar kärlek?](https://open.spotify.com/album/2ejamjcBCGPj3JVPHokduh) | 2:54 | 2024-05-02 | 2024-06-01 |
 | [är du galen](https://open.spotify.com/track/2KzhjUBXBUuyWVyBg08f5N) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [är du galen](https://open.spotify.com/album/7yJoazERY15lwxUdZCBSaN) | 2:42 | 2024-02-08 | 2024-04-05 |
 | [ÄR DU INTE TRÖTT PÅ ATT VARA DU?](https://open.spotify.com/track/459dyx2K2WuQRWxT3g8lwg) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [ÄR DU INTE TRÖTT PÅ ATT VARA DU?](https://open.spotify.com/album/4D3HtYzfE4oQXrEODIQkmI) | 2:59 | 2022-05-05 | 2022-11-14 |

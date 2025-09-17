@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Poppy, Amy Lee, Courtney LaPlante
 
-624 songs - 1 day 13 hr 23 min
+625 songs - 1 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [I Hope You Choke](https://open.spotify.com/track/5tzQBDvosYbVemX5GLFkmB) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [I Hope You Choke](https://open.spotify.com/album/2cHzgepoOGSgCETJzyXPb6) | 3:27 | 2024-02-16 | 2024-03-23 |
 | [I Knew We'd Talk About It One Day](https://open.spotify.com/track/3AxjULNCddkepJGc3tUQM1) | [Humour](https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr) | [Learning Greek](https://open.spotify.com/album/1zn7M7NwtCtSKQGS3eLulj) | 3:27 | 2025-08-11 | 2025-09-12 |
 | [I Need More Than This](https://open.spotify.com/track/7FuMZziPlSqJciQkOJOUil) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [I Need More Than This](https://open.spotify.com/album/2KZEqZKfzeHMa4tHObisRp) | 4:24 | 2025-05-02 | 2025-09-12 |
+| [I Really Wanna](https://open.spotify.com/track/11x02p5bvdaVdiK1qY3uEC) | [Mammoth](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [I Really Wanna](https://open.spotify.com/album/1PrEsymyoO64SFZSe5g0lH) | 3:17 | 2025-09-11 |  |
 | [I Refuse \(feat\. Maria Brink of In This Moment\) \- 2025 VERSION](https://open.spotify.com/track/183LHdf7z7LG2eQf10popU) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [I Refuse \(feat\. Maria Brink of In This Moment\) \[2025 VERSION\]](https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI) | 3:41 | 2025-06-06 |  |
 | [I Steal What I Want](https://open.spotify.com/track/38nBmYPehTU8sYl19qHVJi) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED](https://open.spotify.com/album/4bTc11nxlikKJqEEY8rMqJ) | 2:06 | 2025-08-11 | 2025-09-12 |
 | [I Think You Should Leave](https://open.spotify.com/track/3hJlhv7rIPi1MMvDiO6ka9) | [Problem Patterns](https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP) | [I Think You Should Leave](https://open.spotify.com/album/3PzFW7lRfp0eqw3X3fpHKU) | 3:59 | 2024-08-09 | 2025-09-12 |
@@ -566,7 +567,7 @@
 | [To The Death](https://open.spotify.com/track/6yapE54zUo0JTT2o6hJOTp) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Big Ole Album Vol\. 1](https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg) | 2:57 | 2025-03-26 |  |
 | [TO THE FLOWERS](https://open.spotify.com/track/7vEkX5ctStkJ0k6OcYP5lf) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [TO THE FLOWERS](https://open.spotify.com/album/2bZdgsUdxpLHYIQHNCzsaB) | 5:05 | 2024-02-16 | 2025-09-12 |
 | [Today's My Day](https://open.spotify.com/track/4nAMZBsMJNxRT9SKs3bOOr) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Today's My Day](https://open.spotify.com/album/3sMegfJ3u6Uj9ZhYs01aNV) | 3:35 | 2024-02-16 | 2025-09-12 |
-| [TOMBSTONE](https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [TOMBSTONE](https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr) | 2:58 | 2024-05-23 |  |
+| [TOMBSTONE](https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [TOMBSTONE](https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr) | 2:58 | 2024-05-23 | 2025-09-17 |
 | [Too Close / Too Late](https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:41 | 2023-12-01 |  |
 | [Too Far Gone?](https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 4:33 | 2024-04-11 |  |
 | [Too Far Gone?](https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 4:33 | 2023-04-14 | 2024-04-19 |

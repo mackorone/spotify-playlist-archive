@@ -2646,7 +2646,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 173571,
       "name": "Aoleu ce da din ea",
       "url": "https://open.spotify.com/track/26t4HM9mtd05gdx77bPxyA"
@@ -11286,7 +11286,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 148500,
       "name": "Doar La Ea, Ba La Ea",
       "url": "https://open.spotify.com/track/4loUiQ8a84Lu4Ar8KQlPb9"
@@ -14402,7 +14402,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 250610,
       "name": "Foc,foc,foc",
       "url": "https://open.spotify.com/track/0VSgMvb9ll5pbilqt4gbgU"
@@ -16080,7 +16080,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -18898,7 +18898,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 151948,
       "name": "Iarta-ma Mamo",
       "url": "https://open.spotify.com/track/2i0DSjfHPgz3dQUcRbMhag"
@@ -20816,7 +20816,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 186923,
       "name": "KIM K",
       "url": "https://open.spotify.com/track/4WRdEbfgaTrVgpJ2M4u21p"
@@ -23352,7 +23352,7 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 209523,
       "name": "Ma Suni Noaptea",
       "url": "https://open.spotify.com/track/4CqHV6Z8OvMyQxV9iUqKFR"
@@ -28054,7 +28054,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 154287,
       "name": "Ola Creola",
       "url": "https://open.spotify.com/track/70e0WCyKKWe1z7dX5CV2e7"
@@ -28292,7 +28292,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -34056,6 +34056,24 @@
       "duration_ms": 179025,
       "name": "Se Misca Beat",
       "url": "https://open.spotify.com/track/0TiPsHnzFxNw4ivIWEg70e"
+    },
+    {
+      "album": {
+        "name": "Se misca se indoaie",
+        "url": "https://open.spotify.com/album/396gc5tJby7gbZx641JH48"
+      },
+      "artists": [
+        {
+          "name": "Mariano",
+          "url": "https://open.spotify.com/artist/6lrgzrRBuMJQZeHMLTBpCg"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198800,
+      "name": "Se misca se indoaie",
+      "url": "https://open.spotify.com/track/5Pm2HuPRRfxWQO9suHQ1y9"
     },
     {
       "album": {
@@ -42376,7 +42394,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 159350,
       "name": "Vorba Francezului - From \"Buzz House\" The Movie",
       "url": "https://open.spotify.com/track/1lb1SBZXMocgE9O93dfxRr"
@@ -43450,7 +43468,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"

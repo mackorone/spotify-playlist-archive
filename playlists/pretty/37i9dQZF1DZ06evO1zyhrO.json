@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 103457,
+  "num_followers": 103464,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMYFgAAAAADsB0YP5MO5FH+wi0B7EBY/",
+  "snapshot_id": "aMdXAAAAAAC2fW2ITrIHbji3u/haASYE",
   "tracks": [
     {
       "added_at": null,
@@ -554,11 +554,15 @@
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
         }
       ],
-      "duration_ms": 207543,
-      "name": "Perfect Love",
-      "url": "https://open.spotify.com/track/2bFeml4Q8bOqXuy6Lybz7L"
+      "duration_ms": 198340,
+      "name": "Leave The Light On",
+      "url": "https://open.spotify.com/track/4QKaDo33XTC0JumNtvBNXI"
     },
     {
       "added_at": null,
@@ -622,15 +626,11 @@
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Louisa Johnson",
-          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
         }
       ],
-      "duration_ms": 198340,
-      "name": "Leave The Light On",
-      "url": "https://open.spotify.com/track/4QKaDo33XTC0JumNtvBNXI"
+      "duration_ms": 207543,
+      "name": "Perfect Love",
+      "url": "https://open.spotify.com/track/2bFeml4Q8bOqXuy6Lybz7L"
     },
     {
       "added_at": null,

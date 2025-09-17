@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 
 > A cool breeze, a clear sky, and calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,428 likes - 206 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,444 likes - 206 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,25 +13,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 | 3 | [sérénade](https://open.spotify.com/track/4L2r0Em9lqGCDSbsxk4C1g) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [sérénade](https://open.spotify.com/album/5caaM4yQzP89GlNu2bDNQh) | 2:32 |
 | 4 | [soleil](https://open.spotify.com/track/5xFeWI8GG7ylFRh0Pi6sli) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [soleil](https://open.spotify.com/album/0twR0FMwm4qI6WiwOztwTV) | 2:35 |
 | 5 | [Particles](https://open.spotify.com/track/30eikMQkwP7jtD5SnYCBbB) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Particles](https://open.spotify.com/album/2hkdSb3Av1Z1JP67nKZpxX) | 2:39 |
-| 6 | [Presence](https://open.spotify.com/track/6E2Exlnv16ImuHjrzKeIKQ) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Presence](https://open.spotify.com/album/7Bxtw05NhQJ7Iz1jwG6B2a) | 2:25 |
-| 7 | [As Silence Falls](https://open.spotify.com/track/016jV0p2FhrHscjW9pq8eN) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [As Silence Falls](https://open.spotify.com/album/13CI80Wu8xoSXlG0a8vdHz) | 2:31 |
-| 8 | [Breeze](https://open.spotify.com/track/4bN96tqhMRF1WW6jeiLGPB) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Breeze](https://open.spotify.com/album/3Du1Oc0JUqb6lxFFEqGuT4) | 2:37 |
+| 6 | [Breeze](https://open.spotify.com/track/4bN96tqhMRF1WW6jeiLGPB) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Breeze](https://open.spotify.com/album/3Du1Oc0JUqb6lxFFEqGuT4) | 2:37 |
+| 7 | [Presence](https://open.spotify.com/track/6E2Exlnv16ImuHjrzKeIKQ) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Presence](https://open.spotify.com/album/7Bxtw05NhQJ7Iz1jwG6B2a) | 2:25 |
+| 8 | [As Silence Falls](https://open.spotify.com/track/016jV0p2FhrHscjW9pq8eN) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [As Silence Falls](https://open.spotify.com/album/13CI80Wu8xoSXlG0a8vdHz) | 2:31 |
 | 9 | [El Amanecer](https://open.spotify.com/track/3oPTemjjHIfNeHOcJOXNJT) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [El Amanecer](https://open.spotify.com/album/6aRSkv2lYrBQZ66KNckTOZ) | 2:14 |
-| 10 | [Lisser](https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Lisser](https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8) | 2:05 |
-| 11 | [Evanesce](https://open.spotify.com/track/4YQm2eS7XRNFtYQVTSur4X) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Evanesce](https://open.spotify.com/album/6ZeyIM51iwmdN2RPm1Fkvy) | 2:16 |
-| 12 | [Days from Before](https://open.spotify.com/track/5bEOU1GF4yjpSAh3KSPtQD) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Days from Before](https://open.spotify.com/album/1bRj0JsqIjH1qmJLDVyytH) | 2:07 |
-| 13 | [Summer Nights](https://open.spotify.com/track/45BcuKF5ILiWrIoa4owvTg) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Summer Nights](https://open.spotify.com/album/2iy4xz7MDiw6WTBIs3B91t) | 2:03 |
-| 14 | [If](https://open.spotify.com/track/3NBh0kuILgsP4Xy5OrBM4T) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [If](https://open.spotify.com/album/7j4ImaaunpB75Mkq29sITw) | 2:08 |
-| 15 | [Schatze](https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Schatze](https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4) | 2:35 |
+| 10 | [If](https://open.spotify.com/track/3NBh0kuILgsP4Xy5OrBM4T) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [If](https://open.spotify.com/album/7j4ImaaunpB75Mkq29sITw) | 2:08 |
+| 11 | [Lisser](https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Lisser](https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8) | 2:05 |
+| 12 | [Evanesce](https://open.spotify.com/track/4YQm2eS7XRNFtYQVTSur4X) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Evanesce](https://open.spotify.com/album/6ZeyIM51iwmdN2RPm1Fkvy) | 2:16 |
+| 13 | [Days from Before](https://open.spotify.com/track/5bEOU1GF4yjpSAh3KSPtQD) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Days from Before](https://open.spotify.com/album/1bRj0JsqIjH1qmJLDVyytH) | 2:07 |
+| 14 | [Schatze](https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Schatze](https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4) | 2:35 |
+| 15 | [Summer Nights](https://open.spotify.com/track/45BcuKF5ILiWrIoa4owvTg) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Summer Nights](https://open.spotify.com/album/2iy4xz7MDiw6WTBIs3B91t) | 2:03 |
 | 16 | [Voicing the Past](https://open.spotify.com/track/2g5UwHtPHeBNfAVaAC7m4r) | [Adrien Mann](https://open.spotify.com/artist/5riMQUJqMiLZg8AcxvjVIf) | [Voicing the Past](https://open.spotify.com/album/1RjoMyc35IAbjMLnYuUoy7) | 2:23 |
-| 17 | [Reflecting Light](https://open.spotify.com/track/23KyFDMg46ZMlAQl2lmdx2) | [Eiriaan Deryn](https://open.spotify.com/artist/3EyjJa5bAgJd741pdHTMki) | [Reflecting Light](https://open.spotify.com/album/5aHQYh5sVudB8lBM6zY740) | 2:27 |
-| 18 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 |
-| 19 | [If We Knew, We Would](https://open.spotify.com/track/4RLfOYC8qDeAkKbkII4pOy) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [If We Knew, We Would](https://open.spotify.com/album/35mWkmrwgBuwFUKkBIHOYG) | 3:04 |
-| 20 | [When It´s Love](https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM) | [Junie Oakes](https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS) | [When It´s Love](https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz) | 2:42 |
-| 21 | [Lonely Lights](https://open.spotify.com/track/06W2idQQI9nToYkue7MSVw) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Lonely Lights](https://open.spotify.com/album/7zERRdz6JnH1qndyc2KExU) | 2:35 |
-| 22 | [Quietude](https://open.spotify.com/track/6XjpcauNCCzSQwsLQFKZKz) | [Rudy Bloom](https://open.spotify.com/artist/6kw1TTFYSs8rMUKWOm7kTI) | [Quietude](https://open.spotify.com/album/45e7kkoM0O6zrVIjILhC2h) | 2:14 |
-| 23 | [Reason to Stop](https://open.spotify.com/track/3VwzDRmxEpp5O58v3tMeSh) | [Gregory Velvet](https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm) | [Reason to Stop](https://open.spotify.com/album/6BlzhI9X3enKQJuTWHGCaz) | 2:22 |
-| 24 | [Go South](https://open.spotify.com/track/6mqQyvWTWafG0ntnX7dj2N) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Go South](https://open.spotify.com/album/1RypPSrMTRaAXvO3u8BurB) | 2:20 |
+| 17 | [Go South](https://open.spotify.com/track/6mqQyvWTWafG0ntnX7dj2N) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Go South](https://open.spotify.com/album/1RypPSrMTRaAXvO3u8BurB) | 2:20 |
+| 18 | [When It´s Love](https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM) | [Junie Oakes](https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS) | [When It´s Love](https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz) | 2:42 |
+| 19 | [Reflecting Light](https://open.spotify.com/track/23KyFDMg46ZMlAQl2lmdx2) | [Eiriaan Deryn](https://open.spotify.com/artist/3EyjJa5bAgJd741pdHTMki) | [Reflecting Light](https://open.spotify.com/album/5aHQYh5sVudB8lBM6zY740) | 2:27 |
+| 20 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 |
+| 21 | [If We Knew, We Would](https://open.spotify.com/track/4RLfOYC8qDeAkKbkII4pOy) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [If We Knew, We Would](https://open.spotify.com/album/35mWkmrwgBuwFUKkBIHOYG) | 3:04 |
+| 22 | [Lonely Lights](https://open.spotify.com/track/06W2idQQI9nToYkue7MSVw) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Lonely Lights](https://open.spotify.com/album/7zERRdz6JnH1qndyc2KExU) | 2:35 |
+| 23 | [Quietude](https://open.spotify.com/track/6XjpcauNCCzSQwsLQFKZKz) | [Rudy Bloom](https://open.spotify.com/artist/6kw1TTFYSs8rMUKWOm7kTI) | [Quietude](https://open.spotify.com/album/45e7kkoM0O6zrVIjILhC2h) | 2:14 |
+| 24 | [Reason to Stop](https://open.spotify.com/track/3VwzDRmxEpp5O58v3tMeSh) | [Gregory Velvet](https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm) | [Reason to Stop](https://open.spotify.com/album/6BlzhI9X3enKQJuTWHGCaz) | 2:22 |
 | 25 | [Mirume](https://open.spotify.com/track/01O7m41vXkQiqPZWgtoDA5) | [Grazia Bellini](https://open.spotify.com/artist/03r4oR4wLUyjzpYtSf2RDS) | [Mirume](https://open.spotify.com/album/01QSQrULUly8nsz3RqB1xY) | 2:34 |
 | 26 | [Looking Back](https://open.spotify.com/track/0NonVzf5jmyLRKpSMKzURN) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Looking Back](https://open.spotify.com/album/2Noa0HFFFuk4Q8CUdsti1U) | 2:14 |
 | 27 | [Tender Sun](https://open.spotify.com/track/1tsMW9wt8tHdSm0B19FllT) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Tender Sun](https://open.spotify.com/album/6bYGLawfZ0AY1mOCdgCh6E) | 2:31 |
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 | 205 | [Ártabra](https://open.spotify.com/track/3AMGT6wBi8UYxmYK4dS1mP) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Ártabra](https://open.spotify.com/album/1d1jH5lYcRiaRZVCOCSNTe) | 3:22 |
 | 206 | [Augury](https://open.spotify.com/track/11Ipu3bo6eWoa9TiiOEJ0I) | [Anne Franco](https://open.spotify.com/artist/6IEySWUOgBlDS2HQfjCbSw) | [Augury](https://open.spotify.com/album/3bWQAA7YZqmobEapyM8Vgu) | 2:40 |
 
-Snapshot ID: `AAAAAIpDw5nDZbjgkodIeAwTAusiWNjA`
+Snapshot ID: `AAAAAA9TzMgPDhJl9TYtlG2dP8/fs4cG`

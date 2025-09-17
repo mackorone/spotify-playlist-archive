@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: 310babii
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,419 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,394 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 25 | [LIFE A TRIP](https://open.spotify.com/track/68UzDrcuwziWETJQhPLnSd) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i) | [LIFE A TRIP](https://open.spotify.com/album/1JsBDqbqQAiZYhtiweN1o1) | 2:42 |
 | 26 | [Underdog \(From F1® The Movie\)](https://open.spotify.com/track/7KVT3NYXWguwJ0zzup1q1S) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Underdog \(From F1® The Movie\)](https://open.spotify.com/album/5eZ1Y9l73CbY1Q5eu92LvK) | 2:22 |
 | 27 | [LA](https://open.spotify.com/track/2MKGbK10kT2hySS40U7gAD) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [LA](https://open.spotify.com/album/0be7Q2AKCFClTDm7BgIoaP) | 2:27 |
-| 28 | [All At Once](https://open.spotify.com/track/3hAE1QxYs0yevDRdxJ5DV3) | [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [All At Once](https://open.spotify.com/album/0zyqSIZcrzCxobxMY2qMzc) | 2:41 |
-| 29 | [KEPT ON MY CLEATS](https://open.spotify.com/track/6mD0a1h5bpdBECecKgFQxp) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [SAM'S CLUB](https://open.spotify.com/album/1kxtf0Vn9w33GeL19vVHAE) | 2:18 |
+| 28 | [CAN'T DENY IT](https://open.spotify.com/track/7AMejrHwxXtepII3zfej7x) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU) | [SAM'S CLUB](https://open.spotify.com/album/50OBECtPBbwI9OGlg7vCHh) | 2:38 |
+| 29 | [All At Once](https://open.spotify.com/track/3hAE1QxYs0yevDRdxJ5DV3) | [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [All At Once](https://open.spotify.com/album/0zyqSIZcrzCxobxMY2qMzc) | 2:41 |
 | 30 | [RED LIGHT GREEN LIGHT](https://open.spotify.com/track/13aKmELu9MI3b7IyApqF29) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw) | [JUCO](https://open.spotify.com/album/7DPpGKFT2NvSYoPuiGHnVm) | 1:34 |
 | 31 | [2P'z](https://open.spotify.com/track/58ndKIwwjOfufedfaGa6Sy) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [2P'z](https://open.spotify.com/album/5FEakeLZVHBkv2rClSQ0uN) | 2:51 |
 | 32 | [California](https://open.spotify.com/track/77qPAMB53RAlEhTQ8biDxo) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [California](https://open.spotify.com/album/2fqoje1lRyMCVRHep5CeX4) | 3:25 |

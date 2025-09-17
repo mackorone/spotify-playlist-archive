@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Kirk Franklin & The Family, Kurt Carr & The Kurt Carr Singers, Chicago Mass Choir and more
+> With Samoht, MAJOR., Chicago Mass Choir and more
 
 1,866 songs - 5 day 21 hr 28 min
 

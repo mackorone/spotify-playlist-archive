@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 
 > Add dramatic flair to your strategy game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,204 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,238 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Túndra](https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Túndra](https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi) | 2:23 |
 | 2 | [Secunda \(Transcr\. Trifonov for Piano\) \- From "The Elder Scrolls: Skyrim"](https://open.spotify.com/track/4xEbrGC6A3Bw7hCw3yuwJz) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Soule: Secunda \(Transcr\. Trifonov for Piano\) \[From "The Elder Scrolls: Skyrim"\]](https://open.spotify.com/album/4Ue8hjaZEDACgXgZTbp2x9) | 2:27 |
 | 3 | [Now We are Free](https://open.spotify.com/track/6OLgebma3uuh5KDG5ZXjF5) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [Score](https://open.spotify.com/album/0sR0wZubrE2h3h4WxviRCX) | 6:05 |
-| 4 | [Awash](https://open.spotify.com/track/3WgX6oDGy5TjPEPA028sls) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Fragmented](https://open.spotify.com/album/7E5MjoqX5LSadIzFnduoUc) | 3:23 |
-| 5 | [Filma Solo](https://open.spotify.com/track/0Zhq33AjWPz0vwdQwrCnrm) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq) | 3:15 |
+| 4 | [Filma Solo](https://open.spotify.com/track/0Zhq33AjWPz0vwdQwrCnrm) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq) | 3:15 |
+| 5 | [Awash](https://open.spotify.com/track/3WgX6oDGy5TjPEPA028sls) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Fragmented](https://open.spotify.com/album/7E5MjoqX5LSadIzFnduoUc) | 3:23 |
 | 6 | [Valiant](https://open.spotify.com/track/1yDH9vW8GboBkqNJujPiF6) | [Dream Cave](https://open.spotify.com/artist/6Ga6q3KSIGpJt2H1vbtTI0) | [Valiant](https://open.spotify.com/album/6PqElyGUMeroZmARx67gXj) | 2:17 |
 | 7 | [Aspire to Inspire](https://open.spotify.com/track/6BgVfl711Hx4Xjmg5o0HsP) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [To All the Glory](https://open.spotify.com/album/59IuJfXNv7h6Np4JVKUYWM) | 3:32 |
 | 8 | [Aléatoire](https://open.spotify.com/track/2eHtBGvfD7PD7SiTl52Vxr) | [Darker In Vine](https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg) | [Aléatoire](https://open.spotify.com/album/7KA3DTbG22n9hPSSV3YruJ) | 2:58 |
@@ -23,19 +23,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 13 | [Caught in the Waves](https://open.spotify.com/track/3aWysoJyL6qFWbadYRCkH8) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Everything Else Will Follow](https://open.spotify.com/album/7J8e3AjZc7mN82khAvAI6I) | 2:28 |
 | 14 | [Strength And Honor](https://open.spotify.com/track/7KfDsq11j40kz3Rzrud0EX) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Gladiator II \(Music From The Motion Picture\)](https://open.spotify.com/album/2kiVkf7UnXGqUFr6ZJ2U3m) | 3:21 |
 | 15 | [Lord Of The Isles](https://open.spotify.com/track/3zLNU3h0xqTmQylllUa1JS) | [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1) | [A History Of Scotland](https://open.spotify.com/album/0eUIFRjts9n258Sj83kpEY) | 2:07 |
-| 16 | [Partners in Crime](https://open.spotify.com/track/0MC5OUFlsS6wn3tuOYLF5I) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Partners in Crime](https://open.spotify.com/album/0ntMgYnq6D9hswNnEwy3PP) | 3:27 |
-| 17 | [Endeavour](https://open.spotify.com/track/6v3flfFyiewX4uhtefPYKP) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Endeavour](https://open.spotify.com/album/3MwtBdr2Ohdg6TCtHoZDAH) | 4:27 |
-| 18 | [I Thought I'd Never Forget](https://open.spotify.com/track/66TyP1oeJXmnCkNpyul9T1) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Momentum](https://open.spotify.com/album/1pP6DihqrGirs9YPUp6bHQ) | 2:20 |
-| 19 | [Dust Turns to Gold](https://open.spotify.com/track/0PAlIXkZ3DXJqAmx1BAXMX) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [The Final Cut](https://open.spotify.com/album/744UTU1JhhXLIqSAF4Q6kp) | 3:14 |
-| 20 | [The Sanctuary Within](https://open.spotify.com/track/5WsT8YFHlMz56vfcgJYGaU) | [Erasmus Talbot](https://open.spotify.com/artist/2P5kUKkNT67xnSyi3bBOoB) | [Light in the Attic](https://open.spotify.com/album/65jhpuyU0R9JPfnC8wcN4x) | 3:06 |
-| 21 | [Mouvement Déterminé](https://open.spotify.com/track/6ryCqg8031fqxpL7Tic6qZ) | [Erinrad Viker Sinfonietta](https://open.spotify.com/artist/577NHFNqD3EF7ePgJxpCzu) | [Mouvement Déterminé](https://open.spotify.com/album/70WIfeigUPwzlT0PUWSXAW) | 3:14 |
+| 16 | [Mouvement Déterminé](https://open.spotify.com/track/6ryCqg8031fqxpL7Tic6qZ) | [Erinrad Viker Sinfonietta](https://open.spotify.com/artist/577NHFNqD3EF7ePgJxpCzu) | [Mouvement Déterminé](https://open.spotify.com/album/70WIfeigUPwzlT0PUWSXAW) | 3:14 |
+| 17 | [Partners in Crime](https://open.spotify.com/track/0MC5OUFlsS6wn3tuOYLF5I) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Partners in Crime](https://open.spotify.com/album/0ntMgYnq6D9hswNnEwy3PP) | 3:27 |
+| 18 | [Endeavour](https://open.spotify.com/track/6v3flfFyiewX4uhtefPYKP) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Endeavour](https://open.spotify.com/album/3MwtBdr2Ohdg6TCtHoZDAH) | 4:27 |
+| 19 | [I Thought I'd Never Forget](https://open.spotify.com/track/66TyP1oeJXmnCkNpyul9T1) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Momentum](https://open.spotify.com/album/1pP6DihqrGirs9YPUp6bHQ) | 2:20 |
+| 20 | [Dust Turns to Gold](https://open.spotify.com/track/0PAlIXkZ3DXJqAmx1BAXMX) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [The Final Cut](https://open.spotify.com/album/744UTU1JhhXLIqSAF4Q6kp) | 3:14 |
+| 21 | [The Sanctuary Within](https://open.spotify.com/track/5WsT8YFHlMz56vfcgJYGaU) | [Erasmus Talbot](https://open.spotify.com/artist/2P5kUKkNT67xnSyi3bBOoB) | [Light in the Attic](https://open.spotify.com/album/65jhpuyU0R9JPfnC8wcN4x) | 3:06 |
 | 22 | [Petricor](https://open.spotify.com/track/33M9AgCbkCRyC97NjJgITh) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Amsterdam Sinfonietta](https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD) | [Elements \(Deluxe Edition\)](https://open.spotify.com/album/1lJ0A9ZCqs83Rrp1YIpZgT) | 6:34 |
 | 23 | [Human Revolution](https://open.spotify.com/track/2sXXleqZhdiplnq4qEK3Xq) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Human Revolution](https://open.spotify.com/album/6vsWQN5DoKQ6OydmtfBT0r) | 2:23 |
 | 24 | [Una Mañana De Cine](https://open.spotify.com/track/4MF2bWyLJ1s3SAXFJq71EM) | [Roberto Vetere](https://open.spotify.com/artist/5S2Js5ci1dHnRN86Dt6wmm) | [Evolution](https://open.spotify.com/album/2oPGweO8HecWmmIuAKDOXw) | 3:57 |
 | 25 | [Cloudsailing](https://open.spotify.com/track/7aHbZez2yeqJFJWalKL0WH) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Windflower](https://open.spotify.com/album/5pMpxNkROAIq7wygp4oHbl) | 3:19 |
 | 26 | [The Great Collapse](https://open.spotify.com/track/3zUnduoSzMzoP01BO69uJV) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [The Boy and the Heron \- Original Soundtrack](https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW) | 1:47 |
-| 27 | [Adventures of the Young Hero](https://open.spotify.com/track/7iirjTnooylfcBG6BmlqYi) | [Grant Newman](https://open.spotify.com/artist/6kmQi7lLCBpa5OORRJpU9s) | [Adventures of the Young Hero](https://open.spotify.com/album/3YufQhwnRqmpOLDXOjiKuH) | 2:59 |
-| 28 | [Desert Hideout](https://open.spotify.com/track/0UMo22CzNzglVuQypNq3E5) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Partners in Crime](https://open.spotify.com/album/0ntMgYnq6D9hswNnEwy3PP) | 3:29 |
+| 27 | [Desert Hideout](https://open.spotify.com/track/0UMo22CzNzglVuQypNq3E5) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Partners in Crime](https://open.spotify.com/album/0ntMgYnq6D9hswNnEwy3PP) | 3:29 |
+| 28 | [Adventures of the Young Hero](https://open.spotify.com/track/7iirjTnooylfcBG6BmlqYi) | [Grant Newman](https://open.spotify.com/artist/6kmQi7lLCBpa5OORRJpU9s) | [Adventures of the Young Hero](https://open.spotify.com/album/3YufQhwnRqmpOLDXOjiKuH) | 2:59 |
 | 29 | [Lost Empire](https://open.spotify.com/track/7FS3ODVO5LkK9eoI4G2kb8) | [David Celeste](https://open.spotify.com/artist/14elbOcXjl043MKBKQuGPS) | [Lost Empire](https://open.spotify.com/album/6s5cPCbFitanKRBHYNHjk9) | 3:43 |
 | 30 | [Faith Arise](https://open.spotify.com/track/7q9fSdPJO9MHZqYMaefXUm) | [Edgar Hopp](https://open.spotify.com/artist/5nn0v7ZNnO4cY7TEAjjfSx) | [In Abundance](https://open.spotify.com/album/6GIEUr2Nhe8E37amFtuAcv) | 3:08 |
 | 31 | [Crossing Paths](https://open.spotify.com/track/6gN8d0TrjwkcVgrZpFyp3c) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Crossing Paths](https://open.spotify.com/album/6tDR44G5XlTW1n5YxhX29c) | 3:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 74 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 |
 | 75 | [Crossroad at Dawn](https://open.spotify.com/track/0THdfQgMIwHSJ0zlowjpLP) | [Bill Brown](https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ) | [Lineage 2 \- Chaotic Chronicle](https://open.spotify.com/album/0BawDoh2xMnec8hK6XkQ2L) | 2:00 |
 
-Snapshot ID: `AAAAAJ4oxz4ngNccyQOcuqDDDAftU4/A`
+Snapshot ID: `AAAAAAoHfTdLBxsba1d6i8olGPDmZh0F`

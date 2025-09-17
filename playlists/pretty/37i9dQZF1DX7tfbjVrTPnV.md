@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,518 likes - 150 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,524 likes - 150 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 129 | [Custer](https://open.spotify.com/track/10BnuprYRPLfly2WVgFSGE) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh), [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Custer](https://open.spotify.com/album/4RTRHHgdFFlHrAWDCiwh3A) | 2:58 |
 | 130 | [California \(Cast Iron Soul\)](https://open.spotify.com/track/3y4QaYUb66fCWlP5f9EBNt) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Utah](https://open.spotify.com/album/3sFyLeLs38eyzBtBnJoHN7) | 5:29 |
 | 131 | [Angel Flying Too Close to the Ground \- Live at Budokan, Tokyo, Japan \- Feb\. 23, 1984](https://open.spotify.com/track/0nyJppAEiqe7LHRjhkQroH) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Angel Flying Too Close to the Ground \(Live at Budokan, Tokyo, Japan \- Feb\. 23, 1984\)](https://open.spotify.com/album/1O4zM6MElfZzvm3C3zIFvq) | 3:44 |
-| 132 | [End Of The End Of The World](https://open.spotify.com/track/2ka6UfbB6rRjnvpUv1VIjA) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Lonely, The Lonesome & The Gone](https://open.spotify.com/album/6GCiOsk7Wrlt2CRfcwW8MF) | 2:18 |
-| 133 | [The Midnight Special](https://open.spotify.com/track/21roVVtN1ed5QAMFlVxqrv) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [The Midnight Special](https://open.spotify.com/album/63LJ7HtG7tDibRiYUHvCQo) | 3:34 |
+| 132 | [The Midnight Special](https://open.spotify.com/track/21roVVtN1ed5QAMFlVxqrv) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [The Midnight Special](https://open.spotify.com/album/63LJ7HtG7tDibRiYUHvCQo) | 3:34 |
+| 133 | [End Of The End Of The World](https://open.spotify.com/track/2ka6UfbB6rRjnvpUv1VIjA) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Lonely, The Lonesome & The Gone](https://open.spotify.com/album/6GCiOsk7Wrlt2CRfcwW8MF) | 2:18 |
 | 134 | [Never Let a Day Go By](https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y) | 3:15 |
 | 135 | [Dusty Old Man](https://open.spotify.com/track/2Srh0DDIMbirFH3rRSzKLO) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Dusty Old Man](https://open.spotify.com/album/0n03AglCe68fjvdJeyj833) | 3:47 |
 | 136 | [Hold On](https://open.spotify.com/track/3IHMlWNnTqtVP32p46ZzJT) | [Martin Sexton](https://open.spotify.com/artist/16HLVuiCN8iGYhBca7lsqE) | [Hold On](https://open.spotify.com/album/1LEg5ypjv2gjCWXa7trzbb) | 3:41 |

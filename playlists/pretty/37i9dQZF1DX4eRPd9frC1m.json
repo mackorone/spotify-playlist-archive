@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2583622,
+  "num_followers": 2583565,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,38 @@
     {
       "added_at": "2025-09-05 04:00:25",
       "album": {
+        "name": "LIKE ME",
+        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 207964,
+      "name": "LIKE ME",
+      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
+    },
+    {
+      "added_at": "2025-09-05 04:00:25",
+      "album": {
+        "name": "California Dreamin'",
+        "url": "https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs"
+    },
+    {
+      "added_at": "2025-09-05 04:00:25",
+      "album": {
         "name": "Burial (feat. Pusha T, Moody Good, TrollPhace)",
         "url": "https://open.spotify.com/album/3rOzXYxXqBUcw3u131mrjE"
       },
@@ -807,22 +839,6 @@
     {
       "added_at": "2025-09-05 04:00:25",
       "album": {
-        "name": "California Dreamin'",
-        "url": "https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs"
-    },
-    {
-      "added_at": "2025-09-05 04:00:25",
-      "album": {
         "name": "Hunter (feat. Flowdan)",
         "url": "https://open.spotify.com/album/18o4PXxr70SwQ1VPAh98pq"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 220137,
       "name": "Hunter (feat. Flowdan)",
       "url": "https://open.spotify.com/track/48GP8MO8zVxnfr4ydZ99Wl"
-    },
-    {
-      "added_at": "2025-09-05 04:00:25",
-      "album": {
-        "name": "LIKE ME",
-        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 207964,
-      "name": "LIKE ME",
-      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
     },
     {
       "added_at": "2025-09-05 04:00:25",
@@ -883,26 +883,6 @@
     {
       "added_at": "2025-09-05 04:00:25",
       "album": {
-        "name": "Ground Shake",
-        "url": "https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Bandlez",
-          "url": "https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA"
-        }
-      ],
-      "duration_ms": 185379,
-      "name": "Ground Shake",
-      "url": "https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4"
-    },
-    {
-      "added_at": "2025-09-05 04:00:25",
-      "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/2nLElGgXaPTz8rkB0IwUQu"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 205241,
       "name": "Restless",
       "url": "https://open.spotify.com/track/2qcatm1Vvi5io4zmIQc2cp"
+    },
+    {
+      "added_at": "2025-09-05 04:00:25",
+      "album": {
+        "name": "Ground Shake",
+        "url": "https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Bandlez",
+          "url": "https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA"
+        }
+      ],
+      "duration_ms": 185379,
+      "name": "Ground Shake",
+      "url": "https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4"
     },
     {
       "added_at": "2025-09-05 04:00:25",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2025-09-05 04:00:25",
       "album": {
-        "name": "What U Got",
-        "url": "https://open.spotify.com/album/3pT7yoj0eMAguauZW5dOk2"
-      },
-      "artists": [
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        },
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "What U Got",
-      "url": "https://open.spotify.com/track/2zJEJNYyI45ekNQbJQ2oTf"
-    },
-    {
-      "added_at": "2025-09-05 04:00:25",
-      "album": {
         "name": "The R\u267e\ufe0fts",
         "url": "https://open.spotify.com/album/38CrfMbByq9Tf685Cm4sw7"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 169600,
       "name": "Lights On",
       "url": "https://open.spotify.com/track/38WJwT5IIZ3dCRadIaKmKM"
+    },
+    {
+      "added_at": "2025-09-05 04:00:25",
+      "album": {
+        "name": "What U Got",
+        "url": "https://open.spotify.com/album/3pT7yoj0eMAguauZW5dOk2"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "duration_ms": 168053,
+      "name": "What U Got",
+      "url": "https://open.spotify.com/track/2zJEJNYyI45ekNQbJQ2oTf"
     },
     {
       "added_at": "2025-09-05 04:00:25",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2025-09-05 04:00:25",
       "album": {
+        "name": "Sacrificial",
+        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Sacrificial",
+      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
+    },
+    {
+      "added_at": "2025-09-05 04:00:25",
+      "album": {
         "name": "Five Hours (CELO & MACHAKI Remix)",
         "url": "https://open.spotify.com/album/3RSQ2S5LcTWMtmXyJAO4Uq"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 129442,
       "name": "Five Hours - CELO & MACHAKI Remix",
       "url": "https://open.spotify.com/track/4GAxEDlUn8bGGLJdV0HLgS"
-    },
-    {
-      "added_at": "2025-09-05 04:00:25",
-      "album": {
-        "name": "Sacrificial",
-        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Sacrificial",
-      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
     },
     {
       "added_at": "2025-09-05 04:00:25",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2025-09-05 04:00:25",
       "album": {
-        "name": "Big Bang (with Crankdat)",
-        "url": "https://open.spotify.com/album/2DpZjtwH8GG964mwPfVHQ7"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 239350,
-      "name": "Big Bang (with Crankdat)",
-      "url": "https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv"
-    },
-    {
-      "added_at": "2025-09-05 04:00:25",
-      "album": {
         "name": "Reaper (feat. JID)",
         "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 164800,
       "name": "Reaper (feat. JID)",
       "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
+    },
+    {
+      "added_at": "2025-09-05 04:00:25",
+      "album": {
+        "name": "Big Bang (with Crankdat)",
+        "url": "https://open.spotify.com/album/2DpZjtwH8GG964mwPfVHQ7"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 239350,
+      "name": "Big Bang (with Crankdat)",
+      "url": "https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv"
     },
     {
       "added_at": "2025-09-05 04:00:25",

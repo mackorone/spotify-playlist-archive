@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Kawaii Indonesia
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,273 likes - 119 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,272 likes - 119 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 13 | [Empty Bed We Used to Share](https://open.spotify.com/track/1ElIlUCcpnNcfjRweFiwzd) | [Eazymusiq](https://open.spotify.com/artist/3CXLtIPziwag1KLvdrRtVR) | [Empty Bed We Used to Share](https://open.spotify.com/album/3HcwOa4ARS1Uas3hMqpMBI) | 4:25 |
 | 14 | [Thirty One](https://open.spotify.com/track/0bzgCX0CtPeeFwpGF2cW6j) | [L/](https://open.spotify.com/artist/5Lk9FPpvHgvcr7L216AK30) | [Bloodline](https://open.spotify.com/album/6hgh1yLfRafmZvOLifDad8) | 3:22 |
 | 15 | [Key in the River](https://open.spotify.com/track/3tZ4iy1cbCBiCcnTs7uREj) | [Cosmic Ceiling](https://open.spotify.com/artist/7en3OfWnyzvNgd9MUXtdy3) | [Key in the River](https://open.spotify.com/album/3L18WQ5DJi5TAsqZHBnUJe) | 4:05 |
-| 16 | [AUTOBAHN](https://open.spotify.com/track/6RPDXnRp2wjMU8zNARdMIV) | [Bintang Gemilau](https://open.spotify.com/artist/13bylBwokgQpNNKdgaOZhP), [Kenz](https://open.spotify.com/artist/0and9txR3hU9FMaCsYIDEM), [Chop Guapo](https://open.spotify.com/artist/1Hsy0Ce9ik70IPm3zhYFNT) | [AUTOBAHN](https://open.spotify.com/album/3gNDO6XlCXztcAd7wxVOAz) | 3:13 |
+| 16 | [AUTOBAHN](https://open.spotify.com/track/6RPDXnRp2wjMU8zNARdMIV) | [Bintang Gemilau](https://open.spotify.com/artist/13bylBwokgQpNNKdgaOZhP), [Kenz](https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk), [Chop Guapo](https://open.spotify.com/artist/1Hsy0Ce9ik70IPm3zhYFNT) | [AUTOBAHN](https://open.spotify.com/album/3gNDO6XlCXztcAd7wxVOAz) | 3:13 |
 | 17 | [Be With You](https://open.spotify.com/track/6keseVV3dZUoGntm3hioFC) | [ZF Ali](https://open.spotify.com/artist/5qP6o2cMiyv4tZuysZB0WA), [Enzee\*](https://open.spotify.com/artist/3jhRDFSFqlQfSYfy6E1ojh) | [Be With You](https://open.spotify.com/album/49rPUaFAonvb7q669EVeC8) | 3:03 |
 | 18 | [smth in the way](https://open.spotify.com/track/1L6QvSjhf3aE2yK8THNkkQ) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [smth in the way](https://open.spotify.com/album/1J3UYQudE2DUWk7omagt8z) | 4:10 |
 | 19 | [Paint](https://open.spotify.com/track/64X0jkriPbZFq6psHQZ0av) | [Patras](https://open.spotify.com/artist/3oq19Oviwg8G6VSQCINN6z) | [Paint](https://open.spotify.com/album/4tLhCY9PwFZAVs0aJafiW4) | 3:21 |

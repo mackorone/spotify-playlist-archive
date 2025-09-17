@@ -1,6 +1,6 @@
 {
   "description": "Celebra con saz\u00f3n. A holiday playlist with tropical flavor. ",
-  "num_followers": 39105,
+  "num_followers": 39104,
   "original_name": "Navidad Con Sabor",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
+        "name": "Lo Mejor De Gilberto En La Navidad",
+        "url": "https://open.spotify.com/album/4lc37RNbpnoKrhBY0EKOjB"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 271213,
+      "name": "Me Gustan las Navidades",
+      "url": "https://open.spotify.com/track/6QhNqzWx1iXZoKB8Ww2wEy"
+    },
+    {
+      "added_at": "2024-12-13 05:00:21",
+      "album": {
         "name": "Nuestra Musica",
         "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
-        "name": "Lo Mejor De Gilberto En La Navidad",
-        "url": "https://open.spotify.com/album/4lc37RNbpnoKrhBY0EKOjB"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 271213,
-      "name": "Me Gustan las Navidades",
-      "url": "https://open.spotify.com/track/6QhNqzWx1iXZoKB8Ww2wEy"
-    },
-    {
-      "added_at": "2024-12-13 05:00:21",
-      "album": {
         "name": "Me Quede Puyu",
         "url": "https://open.spotify.com/album/5LIWtFgFrFZNf0girb1SSx"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 275016,
       "name": "Me Quede Puyu",
       "url": "https://open.spotify.com/track/01W0fOluLxLPivIUbOtGWr"
+    },
+    {
+      "added_at": "2024-12-13 05:00:21",
+      "album": {
+        "name": "Navidad - Canta Gallo, Canta",
+        "url": "https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 318706,
+      "name": "Tiempos Navide\u00f1os",
+      "url": "https://open.spotify.com/track/1KHz4fqCfibSd5IRaEMCN6"
     },
     {
       "added_at": "2024-12-13 05:00:21",
@@ -527,22 +543,6 @@
       "duration_ms": 259433,
       "name": "No Hay",
       "url": "https://open.spotify.com/track/1EKaKgdN9gHpKG0QoWe1eZ"
-    },
-    {
-      "added_at": "2024-12-13 05:00:21",
-      "album": {
-        "name": "Navidad - Canta Gallo, Canta",
-        "url": "https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 318706,
-      "name": "Tiempos Navide\u00f1os",
-      "url": "https://open.spotify.com/track/1KHz4fqCfibSd5IRaEMCN6"
     },
     {
       "added_at": "2024-12-13 05:00:21",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
-        "name": "De Trulla Con el Combo",
-        "url": "https://open.spotify.com/album/0iC3T3qi5SRyxXfZ3cfSyq"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 269182,
-      "name": "De Trulla Con el Combo",
-      "url": "https://open.spotify.com/track/2LNbxYAPYuVZX2y9MivSw0"
-    },
-    {
-      "added_at": "2024-12-13 05:00:21",
-      "album": {
         "name": "Lleg\u00f3 Navidad",
         "url": "https://open.spotify.com/album/05kqsPlBNW5akr8pLOZvBD"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 285545,
       "name": "Lleg\u00f3 Navidad",
       "url": "https://open.spotify.com/track/3bW372vE2kZOX7eV8DgCMU"
+    },
+    {
+      "added_at": "2024-12-13 05:00:21",
+      "album": {
+        "name": "De Trulla Con el Combo",
+        "url": "https://open.spotify.com/album/0iC3T3qi5SRyxXfZ3cfSyq"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 269182,
+      "name": "De Trulla Con el Combo",
+      "url": "https://open.spotify.com/track/2LNbxYAPYuVZX2y9MivSw0"
     },
     {
       "added_at": "2024-12-13 05:00:21",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
-        "name": "20 Exitos Navide\u00f1os",
-        "url": "https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1"
-      },
-      "artists": [
-        {
-          "name": "Danny Rivera",
-          "url": "https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "La Parranda",
-      "url": "https://open.spotify.com/track/5Ptl9drhVZS14XStUwxvtf"
-    },
-    {
-      "added_at": "2024-12-13 05:00:21",
-      "album": {
         "name": "Navidad En Las Antillas",
         "url": "https://open.spotify.com/album/59gbexqT23ruDHkV1uy5qg"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 156680,
       "name": "Cascabel",
       "url": "https://open.spotify.com/track/1O2daHtwKYTOU2X7v92hZJ"
+    },
+    {
+      "added_at": "2024-12-13 05:00:21",
+      "album": {
+        "name": "20 Exitos Navide\u00f1os",
+        "url": "https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1"
+      },
+      "artists": [
+        {
+          "name": "Danny Rivera",
+          "url": "https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "La Parranda",
+      "url": "https://open.spotify.com/track/5Ptl9drhVZS14XStUwxvtf"
     },
     {
       "added_at": "2024-12-13 05:00:21",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
+        "name": "MI REGALO",
+        "url": "https://open.spotify.com/album/1bvC8ES0BRTxc00gxwfOZO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1thia",
+          "url": "https://open.spotify.com/artist/0McFsmqPN058Obu0yHoKX3"
+        },
+        {
+          "name": "ADRIAN",
+          "url": "https://open.spotify.com/artist/5zP9mHqWYk4J27YjLWymPO"
+        }
+      ],
+      "duration_ms": 133953,
+      "name": "MI REGALO",
+      "url": "https://open.spotify.com/track/6ADhPmQEjVr7vdwbfFBaV7"
+    },
+    {
+      "added_at": "2024-12-13 05:00:21",
+      "album": {
         "name": "Salsa Gorda... En Navidad",
         "url": "https://open.spotify.com/album/0cUdixbO0a8X22BfXiC9CF"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 208454,
       "name": "Faltan 5 pa\u2019 las 12",
       "url": "https://open.spotify.com/track/7kFu9DNXibWTUkgU5dSJVr"
-    },
-    {
-      "added_at": "2024-12-13 05:00:21",
-      "album": {
-        "name": "MI REGALO",
-        "url": "https://open.spotify.com/album/1bvC8ES0BRTxc00gxwfOZO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e1thia",
-          "url": "https://open.spotify.com/artist/0McFsmqPN058Obu0yHoKX3"
-        },
-        {
-          "name": "ADRIAN",
-          "url": "https://open.spotify.com/artist/5zP9mHqWYk4J27YjLWymPO"
-        }
-      ],
-      "duration_ms": 133953,
-      "name": "MI REGALO",
-      "url": "https://open.spotify.com/track/6ADhPmQEjVr7vdwbfFBaV7"
     },
     {
       "added_at": "2024-12-13 05:00:21",

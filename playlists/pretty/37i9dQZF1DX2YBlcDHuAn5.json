@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33433,
+  "num_followers": 33432,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-09-15 14:46:55",
       "album": {
+        "name": "Like It Always Was",
+        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 200113,
+      "name": "Like It Always Was",
+      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
+    },
+    {
+      "added_at": "2025-09-15 14:46:55",
+      "album": {
         "name": "Back on the Road",
         "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 184586,
       "name": "Can A Heart Take",
       "url": "https://open.spotify.com/track/755k9yt98SLiS13p5fNbAE"
-    },
-    {
-      "added_at": "2025-09-15 14:46:55",
-      "album": {
-        "name": "Like It Always Was",
-        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 200113,
-      "name": "Like It Always Was",
-      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
     },
     {
       "added_at": "2025-09-15 14:46:55",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-09-15 14:46:55",
       "album": {
+        "name": "Every Town",
+        "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 233262,
+      "name": "Every Town",
+      "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
+    },
+    {
+      "added_at": "2025-09-15 14:46:55",
+      "album": {
         "name": "Sugar in the Tank",
         "url": "https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 220212,
       "name": "Granite Mills",
       "url": "https://open.spotify.com/track/42IDWgfyuArjYaJ8uPlLrH"
-    },
-    {
-      "added_at": "2025-09-15 14:46:55",
-      "album": {
-        "name": "Every Town",
-        "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 233262,
-      "name": "Every Town",
-      "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
     },
     {
       "added_at": "2025-09-15 14:46:55",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-09-15 14:46:55",
       "album": {
-        "name": "Good To Be Here",
-        "url": "https://open.spotify.com/album/3A4MXh4o3DG3B2do5UghrP"
-      },
-      "artists": [
-        {
-          "name": "Phillip-Michael Scales",
-          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
-        }
-      ],
-      "duration_ms": 240468,
-      "name": "Something Bout You",
-      "url": "https://open.spotify.com/track/74H0ZAy5DdEYRVpM7uiAVv"
-    },
-    {
-      "added_at": "2025-09-15 14:46:55",
-      "album": {
         "name": "Happy, Pt. 2",
         "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 230715,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
+    },
+    {
+      "added_at": "2025-09-15 14:46:55",
+      "album": {
+        "name": "Good To Be Here",
+        "url": "https://open.spotify.com/album/3A4MXh4o3DG3B2do5UghrP"
+      },
+      "artists": [
+        {
+          "name": "Phillip-Michael Scales",
+          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
+        }
+      ],
+      "duration_ms": 240468,
+      "name": "Something Bout You",
+      "url": "https://open.spotify.com/track/74H0ZAy5DdEYRVpM7uiAVv"
     }
   ],
   "unique_name": "Country & Americana",

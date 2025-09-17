@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebieOeeSXw0.md) - [plain]
 
 > The amazing sounds of the tropics 🌴🥥🥭🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,585 likes - 335 songs - 1 day 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,593 likes - 335 songs - 1 day 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebieOeeSXw0.md) - [plain]
 | 141 | [Dankasa](https://open.spotify.com/track/7cVwDZu8MtNy8TQD3YcObf) | [Uppers International](https://open.spotify.com/artist/4k0XubqS0FnsTEWD098KrT) | [Afro\-Beat Airways: Ghana & Togo 1974\-1978 \(Analog Africa No\. 8\)](https://open.spotify.com/album/4ogePZ3mtDw3frtBFbkhGZ) | 3:34 |
 | 142 | [Voodoo](https://open.spotify.com/track/3eZO3wY1Rznlbc66eksNAU) | [Cyril Diaz and His Orchestra](https://open.spotify.com/artist/77p751SfcDc5hkECYWyzzF) | [Caribbean Carnival, Vol\. 2](https://open.spotify.com/album/3UJ0dh25sAd2rhpCS8K50Z) | 3:51 |
 | 143 | [Terreiro de Mãe Nazinha](https://open.spotify.com/track/2QNqTKJA6TeNZKQg4cUtlo) | [Aparecida](https://open.spotify.com/artist/38QIeu65Xm1SMg2BBuIfOc) | [O Samba de Aparecida](https://open.spotify.com/album/0wPzSxgvYY74t4upJGf6wm) | 4:14 |
-| 144 | [Minsato Le, Mi Dayihome](https://open.spotify.com/track/3kgPRmxgfdKrYwpxmrK02g) | [T\. P\. Orchestre Poly\-Rythmo](https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb) | [World Psychedelic Classics 3: Love's a Real Thing](https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6) | 3:19 |
-| 145 | [Soy de Azucar](https://open.spotify.com/track/2QJqfRkP2yFxZP2bsHVHZ2) | [Charanga Casino](https://open.spotify.com/artist/5fvFKE8X3OBmtoaCq2dlWE) | [Charanga Casino](https://open.spotify.com/album/4zLduC26DZIPDCaDsPzIwI) | 6:06 |
+| 144 | [Soy de Azucar](https://open.spotify.com/track/2QJqfRkP2yFxZP2bsHVHZ2) | [Charanga Casino](https://open.spotify.com/artist/5fvFKE8X3OBmtoaCq2dlWE) | [Charanga Casino](https://open.spotify.com/album/4zLduC26DZIPDCaDsPzIwI) | 6:06 |
+| 145 | [Minsato Le, Mi Dayihome](https://open.spotify.com/track/3kgPRmxgfdKrYwpxmrK02g) | [T\. P\. Orchestre Poly\-Rythmo](https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb) | [World Psychedelic Classics 3: Love's a Real Thing](https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6) | 3:19 |
 | 146 | [Heavy Heavy Heavy](https://open.spotify.com/track/1kUHYY59MuSw5brKiqSybe) | [Geraldo Pino](https://open.spotify.com/artist/6aUmoNP3dS6an1wvsfK7vg) | [Heavy Heavy Heavy](https://open.spotify.com/album/4G6YPF5Csh4vTigVwfcgQY) | 6:34 |
 | 147 | [De Los Trece Tres](https://open.spotify.com/track/1o0lEO74ZWsuuozIoPwtwJ) | [Luisito](https://open.spotify.com/artist/7lHQBGHQmR9IUQ03zVT44J), [Ramito](https://open.spotify.com/artist/4tiyu0r3ArpCssOu1rJtvN), [Moralito](https://open.spotify.com/artist/5VKB1oZU7V0rQCrjTWUEvT) | [De Los Trece Tres](https://open.spotify.com/album/4zaoezqzrwmck78fCl49Nf) | 4:45 |
 | 148 | [Mi Kple Dogbekpo](https://open.spotify.com/track/1WxNHTyt5xTljaIBdGimrX) | [Lokonon Andre](https://open.spotify.com/artist/4rsb1whBQQcCnE6UVCwSOL), [Les Volcans](https://open.spotify.com/artist/2r2kvqO8CHYcbqvaVXedHJ) | [African Scream Contest: Raw & Psychedelic Afro Sounds from Benin & Togo 70s \(Analog Africa No\. 3\)](https://open.spotify.com/album/5JQDjnlFculKTGq1f8YOBn) | 3:54 |

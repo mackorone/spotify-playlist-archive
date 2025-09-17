@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-481 songs - 21 hr 1 min
+485 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,11 +90,12 @@
 | [Canvas](https://open.spotify.com/track/6iZ4MWY41vHw9o26UxCmec) | [Laszlo Teofil](https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a) | [Canvas](https://open.spotify.com/album/7GpwHsdoI4GMzxUHy2DWhJ) | 2:18 | 2022-03-30 | 2025-01-22 |
 | [Ce Qui Est Fait, Est Fait](https://open.spotify.com/track/4ipUy1xohhoPajBFRQyPoT) | [Louis Guerrier](https://open.spotify.com/artist/5ZyNh4VzkyY6S95OOg9LEj) | [Ce Qui Est Fait, Est Fait](https://open.spotify.com/album/4ef3Dcy5kkBykytirIsNDQ) | 2:56 | 2023-01-09 | 2024-03-20 |
 | [Changing Tears](https://open.spotify.com/track/21cadrPsxFz88eAdxmOyZv) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Changing Tears](https://open.spotify.com/album/7AHE2QLdLpK5BQiI3wULeK) | 2:31 | 2023-11-14 |  |
-| [Chrysalis](https://open.spotify.com/track/6dzhIRxruUuzbiLF4gqZAz) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Chrysalis](https://open.spotify.com/album/4cohq3GCrl8vtb0yB8N0nR) | 2:31 | 2022-12-21 |  |
+| [Chrysalis](https://open.spotify.com/track/6dzhIRxruUuzbiLF4gqZAz) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Chrysalis](https://open.spotify.com/album/4cohq3GCrl8vtb0yB8N0nR) | 2:31 | 2022-12-21 | 2025-09-17 |
 | [Cinematique](https://open.spotify.com/track/7KHGqeUF5KpiD1rtpqds3z) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Cinematique](https://open.spotify.com/album/6FlXAjyMzdByLk8AbunigT) | 2:54 | 2022-01-19 | 2023-11-16 |
 | [Close To You](https://open.spotify.com/track/7zuK6SB9iQN17ZLOdCcCjd) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Close To You](https://open.spotify.com/album/18AxWYSX9I2yR5PagBl4r3) | 2:07 | 2021-12-14 | 2022-05-05 |
 | [Cold Winter](https://open.spotify.com/track/6Dv7Mp07ahxiF5WIngOqvE) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Cold Winter](https://open.spotify.com/album/5LtcjVMhd1GArPDzxngAd5) | 2:57 | 2025-01-07 | 2025-08-06 |
 | [Con Cupido](https://open.spotify.com/track/54eceUoCcFJUi1YV20rXfY) | [Walter Giulini](https://open.spotify.com/artist/59sSHs1swsdokd6UX7cvYO) | [Con Cupido](https://open.spotify.com/album/09LK6yRnnWz7pm6QIesK95) | 1:56 | 2023-02-28 | 2023-11-16 |
+| [consolation](https://open.spotify.com/track/4wjEcvWf8ynGLJDxFTG7sZ) | [Félix Frays](https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p) | [consolation](https://open.spotify.com/album/7LORbuNBK0aO9InBE8gFbY) | 2:37 | 2025-09-16 |  |
 | [Cos I doubt](https://open.spotify.com/track/4epcGvObMyr1L34QAkrFVH) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Cos I doubt](https://open.spotify.com/album/2G1z1EYEKOm06SSpEQBlA7) | 2:26 | 2022-09-13 |  |
 | [Counting the Days You’re Gone](https://open.spotify.com/track/69fSsSmk0EHoJjiUK12AKm) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Counting the Days You’re Gone](https://open.spotify.com/album/3dbXjKwnJZj5eLpXrx9PqX) | 3:24 | 2022-02-02 | 2025-04-10 |
 | [Countless](https://open.spotify.com/track/2D81ZsdcSyofVfZULWD2rI) | [Lynn Kay](https://open.spotify.com/artist/1y2zzoYNLRN6jCwiUzcKgE) | [Countless](https://open.spotify.com/album/2YFHlVbfyfXwHtLJnAX0o3) | 2:26 | 2023-10-10 | 2023-11-16 |
@@ -112,6 +113,7 @@
 | [Drink the Dew](https://open.spotify.com/track/3uUXUwWgQ0SdkAY6BAJE4d) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Drink the Dew](https://open.spotify.com/album/5U5M1cpNoamvoYevrQQIOK) | 2:18 | 2023-11-14 |  |
 | [Dunkel](https://open.spotify.com/track/4y5m6mGSXzVZArFSm4YnYK) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Dunkel](https://open.spotify.com/album/62Wg9F1bDreyAWx9gp1IXx) | 2:20 | 2021-12-14 | 2025-01-22 |
 | [Dès vu](https://open.spotify.com/track/4xrojcxCFJ26E8JUB5fDfE) | [Álvaro Da Silva](https://open.spotify.com/artist/1P53BMYk6Daoq2siT1H3jk) | [Dès vu](https://open.spotify.com/album/0r4jrdVyggFR6n8EA9s1fm) | 2:09 | 2022-06-06 |  |
+| [Echoes of Stillness](https://open.spotify.com/track/0wuz23JP4NHctKAWOSH2Wy) | [Miriam Juno](https://open.spotify.com/artist/1W4zQyEDpirI3RZbQbhUTw) | [Echoes of Stillness](https://open.spotify.com/album/6LxjRmCOyfw2fck6kKnWJV) | 2:27 | 2025-09-16 |  |
 | [Eftertanke](https://open.spotify.com/track/0yn3WfTE8MmH3IsYlpMPCs) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Eftertanke](https://open.spotify.com/album/425TkvWPxsTPyFKEdjtz1J) | 2:41 | 2022-03-17 | 2024-10-16 |
 | [El último vals](https://open.spotify.com/track/2rw220lcEpbi4RwyefjinW) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [El último vals](https://open.spotify.com/album/4b03MTEd0QTyJLIphDIKLk) | 3:52 | 2021-12-14 | 2022-05-21 |
 | [Elegia](https://open.spotify.com/track/0s0b3XQ1SOLfxbIjnpLA8o) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Elegia](https://open.spotify.com/album/3HWAXCYEqTZxTt3zZjW4dB) | 2:06 | 2024-11-26 |  |
@@ -304,6 +306,7 @@
 | [Perpendicular](https://open.spotify.com/track/0cd9j88kIE6LIpDwAAtKOO) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Perpendicular](https://open.spotify.com/album/3Jz2nhyhV7ftStCe9d2IFY) | 2:18 | 2023-01-19 |  |
 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 | 2021-12-14 | 2023-10-11 |
 | [Perth](https://open.spotify.com/track/7isZIXanXM8Yn89Q0Qz0ut) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Perth & Quiet Breath](https://open.spotify.com/album/5iQZ1X4bIuldcL2pU4WxM8) | 2:43 | 2022-09-13 | 2024-12-05 |
+| [Planity](https://open.spotify.com/track/0fWHmVCprYHID87ETym6Kk) | [Andrew Mays](https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I) | [Planity](https://open.spotify.com/album/5Jdh57PPMUQkm5TTUGpSuN) | 2:34 | 2025-09-16 |  |
 | [Poetic mellow](https://open.spotify.com/track/0evsZyYMlyqbw3mwSCmF2S) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Poetic mellow](https://open.spotify.com/album/3hj8B8di8w65e4NhWtdgcO) | 2:24 | 2025-04-16 |  |
 | [Porcelain Hands](https://open.spotify.com/track/7KX4G8l2FvaTom3K21Xw5E) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [Porcelain Hands](https://open.spotify.com/album/2r70QxdddM0IU6gy6zJHOC) | 2:14 | 2022-05-04 |  |
 | [Portrait of a shade](https://open.spotify.com/track/1oAET48hdT1Bg9BM0FLIkw) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Portrait of a shade](https://open.spotify.com/album/4KKhQ4EM56Fsle0NFsOqIu) | 2:55 | 2022-12-21 |  |
@@ -403,9 +406,10 @@
 | [The Quiet We Found](https://open.spotify.com/track/7dfeIc1U6aX4937k6JygdL) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [The Quiet We Found](https://open.spotify.com/album/7HXIdIszQKrybX8tR2MN3p) | 2:44 | 2025-07-08 |  |
 | [The Reason Why](https://open.spotify.com/track/76vpZBWYGm4BZLgoap5FIy) | [Scott Laudier](https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK) | [The Reason Why](https://open.spotify.com/album/6Mn1AgMY3Wdm6rzumdKURw) | 2:51 | 2024-03-04 |  |
 | [The Room Upstairs](https://open.spotify.com/track/2TOXQ1L2NjnKYAwrHbzDgZ) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [The Room Upstairs](https://open.spotify.com/album/2nroqN7kkTUrFfw8K55wP1) | 2:20 | 2021-12-14 | 2023-10-11 |
-| [The Still](https://open.spotify.com/track/17C3G5g7bBxxRAe6XVWxHA) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [The Still](https://open.spotify.com/album/06eRSftUdtz4u5Zx9s7Ywc) | 2:09 | 2024-04-03 |  |
+| [The Still](https://open.spotify.com/track/17C3G5g7bBxxRAe6XVWxHA) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [The Still](https://open.spotify.com/album/06eRSftUdtz4u5Zx9s7Ywc) | 2:09 | 2024-04-03 | 2025-09-17 |
 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-01-09 |  |
 | [The Watchtower](https://open.spotify.com/track/504NLPDUBRylbZUUQR97XX) | [Sigimund](https://open.spotify.com/artist/10Sk8d2pdmvQ7JMZcPQDOU) | [The Watchtower](https://open.spotify.com/album/0Pal5VkkxKbiGZZJHsgTHp) | 3:25 | 2021-12-14 | 2022-04-15 |
+| [Thin Flame](https://open.spotify.com/track/32QmcUPh0VflBi4ZgxYk4D) | [Hollou](https://open.spotify.com/artist/5AVCjUPGLAHTxEdYjkrjIM) | [Thin Flame](https://open.spotify.com/album/51qVpFiIKnq6MNRlRii4f1) | 2:27 | 2025-09-16 |  |
 | [Those Moments](https://open.spotify.com/track/6LBeWgaeVS1VpxEcFp7FJH) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Those Moments](https://open.spotify.com/album/4ml9X8eka1kIsbx8ytmv6g) | 2:05 | 2021-12-14 | 2024-09-04 |
 | [Through My Eyes](https://open.spotify.com/track/1qPf5T5XSCkBKDOCtLI6X9) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Through My Eyes](https://open.spotify.com/album/0B02Uvb9zJ0kw1fENyd0CN) | 2:53 | 2021-12-14 | 2023-08-08 |
 | [Tient qu'à un fil](https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Tient qu'à un fil](https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr) | 2:47 | 2021-12-14 | 2025-07-09 |

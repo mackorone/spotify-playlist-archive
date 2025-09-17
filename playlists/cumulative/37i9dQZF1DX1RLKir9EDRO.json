@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Ba\u011f\u0131ms\u0131z yerli sahneden ke\u015fifler! Kapak: F\u0131rat Uyulur  \u00c7izim: Isu Kim",
+  "description": "Ba\u011f\u0131ms\u0131z yerli sahneden ke\u015fifler! Kapak: s\u0131la argun \u00c7izim: Isu Kim",
   "name": "Fresh Finds T\u00fcrkiye",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 157310,
       "name": "Al Beni Yan\u0131na",
       "url": "https://open.spotify.com/track/5guVAGgAnV81MCRi01ChK3"
@@ -3974,7 +3974,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 214500,
       "name": "Bunun Ad\u0131 A\u015fk",
       "url": "https://open.spotify.com/track/0xTaRDcnPxUujOw5QiPhF7"
@@ -5767,6 +5767,24 @@
     },
     {
       "album": {
+        "name": "D\u00fc\u015ft\u00fcm \u0130\u00e7ine",
+        "url": "https://open.spotify.com/album/148HJN1ZKJnqvxhygiFDFr"
+      },
+      "artists": [
+        {
+          "name": "Anse",
+          "url": "https://open.spotify.com/artist/25ozjJTczMhBzbda9Fjvcb"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "D\u00fc\u015ft\u00fcm \u0130\u00e7ine",
+      "url": "https://open.spotify.com/track/3X0NKRQlD9xMZUOjDFLfDp"
+    },
+    {
+      "album": {
         "name": "d\u00fc\u015f\u00fcnme",
         "url": "https://open.spotify.com/album/3KTRQGzOrBNusLeDBC1IJn"
       },
@@ -7530,7 +7548,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 184419,
       "name": "G\u00fcne\u015f Yerinde G\u00fczel",
       "url": "https://open.spotify.com/track/6uTXl0duKVtr6yCLBWuUnz"
@@ -9730,6 +9748,24 @@
       "duration_ms": 234714,
       "name": "kalbi atsa yeter",
       "url": "https://open.spotify.com/track/2xrRSBmuiPFjF7e4CqG6Tp"
+    },
+    {
+      "album": {
+        "name": "Kalbim Yok Art\u0131k",
+        "url": "https://open.spotify.com/album/27HbpYpSB6jxV7faYa36sM"
+      },
+      "artists": [
+        {
+          "name": "Faruk \u00c7eliker",
+          "url": "https://open.spotify.com/artist/4WqUoA1EHo5wlkUGUbz2MR"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179294,
+      "name": "Kalbim Yok Art\u0131k",
+      "url": "https://open.spotify.com/track/6ftPAR11rqUelElS09B4dt"
     },
     {
       "album": {
@@ -18266,6 +18302,24 @@
       "duration_ms": 149889,
       "name": "Yaz Ak\u015fam\u0131",
       "url": "https://open.spotify.com/track/4IvvmcbfJQc5hiWJKQv1nk"
+    },
+    {
+      "album": {
+        "name": "Yaz Bitti",
+        "url": "https://open.spotify.com/album/7ezkHzv9lDOq3teW1SRONm"
+      },
+      "artists": [
+        {
+          "name": "ARKADA\u015e",
+          "url": "https://open.spotify.com/artist/2acae8AE80hjsa8PICuc2V"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Yaz Bitti",
+      "url": "https://open.spotify.com/track/0z6LsBCqzznrAZp7aigN9W"
     },
     {
       "album": {

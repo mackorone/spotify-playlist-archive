@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Ella Augusta & Ida Laurberg, Ed Sheeran, Mumle og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,911 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,913 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 80 | [Prettyboy](https://open.spotify.com/track/4VfUAnZvww92eqIOHCSuPT) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf), [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Prettyboy](https://open.spotify.com/album/0dXpThwRvtnZKJKRqyvVpP) | 3:01 |
 | 81 | [Get It Over](https://open.spotify.com/track/5sJUrTiOlAdoKO8V81spAv) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Get It Over](https://open.spotify.com/album/5o7I5gyXLPgw0uPP1zpvy8) | 3:16 |
 | 82 | [Storm Warning](https://open.spotify.com/track/2aRtruxjDkB4RU86kOeCf0) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Storm Warning](https://open.spotify.com/album/5LMuC9HoaEjkWX7UlTMgl4) | 2:22 |
-| 83 | [On the Way](https://open.spotify.com/track/6sYjJiyaE4thO62cLT8VWY) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [On the Way](https://open.spotify.com/album/3jjLfizSOLAfw4phk7n64W) | 3:59 |
+| 83 | [On The Way](https://open.spotify.com/track/6sYjJiyaE4thO62cLT8VWY) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [On The Way](https://open.spotify.com/album/3jjLfizSOLAfw4phk7n64W) | 3:59 |
 | 84 | [Vi Tog Verden Med Storm](https://open.spotify.com/track/1PaYe5BGwTlqavUiiE20VG) | [Juncker](https://open.spotify.com/artist/6UiybWUSi4hZ8AZcqMJVL1) | [Fremmed For Det Meste](https://open.spotify.com/album/6YnkCQPOAPokNwIjLfFIrE) | 3:04 |
 | 85 | [Good Girl](https://open.spotify.com/track/5aaOTRqPU5uViDREi1jeOK) | [CHILD + the banned](https://open.spotify.com/artist/37jg6o775fa2KRD9iEGcNH) | [Good Girl](https://open.spotify.com/album/0JrOP5ZyxDXnJN0ytv6ueM) | 2:32 |
 | 86 | [Devil in my Head](https://open.spotify.com/track/04yrU3ucUOpWIzY7AG9CCj) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Devil in my Head](https://open.spotify.com/album/00Ql3MLPTUfQetuJ7SVo22) | 3:21 |

@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 모트 \(Motte\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-607 songs - 1 day 11 hr 50 min
+609 songs - 1 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Going Home](https://open.spotify.com/track/2XgJawz0ICRWPMu6fLUM18) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [School 2017, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5TNyLDNbnUnxnoLTS8pouH) | 3:24 | 2022-03-31 | 2022-04-21 |
 | [Gone](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 3:27 | 2021-12-10 | 2024-09-03 |
 | [GONE BY THE MORNING](https://open.spotify.com/track/0KlY3QwVmVZnW4fcuqoccY) | [John OFA Rhee](https://open.spotify.com/artist/7iWynR4oOvJpSKOAR3zazP) | [bleeding in](https://open.spotify.com/album/5FnmNodRYZmvGdVvYUnapA) | 2:09 | 2021-12-10 | 2022-06-07 |
-| [Good Morning](https://open.spotify.com/track/3tQZVNZ8VJn9rO7sBvqZ50) | [Moong myang](https://open.spotify.com/artist/0wG6Zaj9hGxocaJ8v0osmZ) | [Brrrm](https://open.spotify.com/album/78YAT6fGxY8uRo7BFCUm3T) | 3:41 | 2025-08-20 |  |
+| [Good Morning](https://open.spotify.com/track/3tQZVNZ8VJn9rO7sBvqZ50) | [Moong myang](https://open.spotify.com/artist/0wG6Zaj9hGxocaJ8v0osmZ) | [Brrrm](https://open.spotify.com/album/78YAT6fGxY8uRo7BFCUm3T) | 3:41 | 2025-08-20 | 2025-09-17 |
 | [Good Night Song](https://open.spotify.com/track/7cjFci99s7GA53NSfNG59L) | [Lady Rocket](https://open.spotify.com/artist/2zVGdvvm1xcLGDQVLIiLUF), [Kim Mok In](https://open.spotify.com/artist/3IUX8SmaJD0APPRuGFmBZ1) | [Good Night Song](https://open.spotify.com/album/34RONRgxZDuUDBzdMsfxFb) | 2:04 | 2022-03-31 | 2022-04-06 |
 | [Good\-Bye](https://open.spotify.com/track/1kkZlKUU5DTvEMbS0daTLn) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 4:13 | 2022-03-31 | 2022-04-21 |
 | [Goodbye my blue \- Guitar ver.](https://open.spotify.com/track/6b7KxggNvupWQ0KR3OqiF4) | [Hong Jae Mok](https://open.spotify.com/artist/39kyg5uWqt115h7UWscgbM) | [Goodbye my blue \(Guitar ver.\)](https://open.spotify.com/album/3aglVF8E1ZzdXlz5xQl22q) | 4:16 | 2022-04-12 | 2022-04-14 |
@@ -210,6 +210,7 @@
 | [Hug me](https://open.spotify.com/track/089QvCGproM6tZgdaszIBO) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Tempted OST Part.1](https://open.spotify.com/album/3MxpfwmQ1V40w1EGUetqWo) | 3:39 | 2022-03-31 | 2022-04-11 |
 | [Hug me tight](https://open.spotify.com/track/2DM7WqaeAdXGjuXIFejZNK) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [Hug me tight](https://open.spotify.com/album/4SsSzJ8ApOuMh4OOTbP9Bi) | 3:00 | 2025-01-24 | 2025-02-04 |
 | [I can feel you](https://open.spotify.com/track/4ObaWDh9Kif34bIucjOnTR) | [Oneyears](https://open.spotify.com/artist/1KWw0DYl1RylWUmZUgTqkH) | [Taepung's Bride \(Original Soundtrack\), Pt.16](https://open.spotify.com/album/22JRozoTvxuojR9NsEkfmj) | 3:51 | 2023-01-11 | 2023-01-26 |
+| [I Got You \(Feat\. Byeol Eun\)](https://open.spotify.com/track/0ZypvFk5WJ37RiXIagutpr) | [Chun Da Sung](https://open.spotify.com/artist/6NJlPZw0Pl6s595swwoCZ2), [Byeol Eun](https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2) | [I Got You](https://open.spotify.com/album/2g5NMkPoHLsCOsJHjVQPnp) | 3:16 | 2025-09-16 |  |
 | [I Guess I Like You](https://open.spotify.com/track/7IP4kpJo2r5EGvKmQIpjtG) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Poong, the Joseon Psychiatrist OST Part.2](https://open.spotify.com/album/5lwGQdHIQZC8WwQ9eJllNz) | 3:29 | 2022-08-12 | 2022-08-19 |
 | [I guess it's like this](https://open.spotify.com/track/4qWNdhJCqHZUwis42ugD66) | [E Z Hyoung](https://open.spotify.com/artist/4vMoealzfru4Q1WOmi0aVs) | [I guess it's like this](https://open.spotify.com/album/3b5t5JOqloKBosUjcmfwbx) | 4:37 | 2022-02-10 | 2022-07-03 |
 | [I know](https://open.spotify.com/track/64EESXEXKE7Tn664PvTXR3) | [Ants](https://open.spotify.com/artist/0VyTbC31dnoiKg02B3PQaL) | [From\. Ants](https://open.spotify.com/album/0iRidimS5YNDgVCNYi44Ll) | 3:41 | 2022-03-31 | 2022-04-17 |
@@ -386,11 +387,12 @@
 | [RAINING](https://open.spotify.com/track/423tVeKOEyAnYZoUg6mAwG) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [RAINING](https://open.spotify.com/album/23E6A6rqAHwel3ug39DwQx) | 4:40 | 2024-05-30 | 2024-06-15 |
 | [Rainy Day Reverie](https://open.spotify.com/track/7hfrzdSIC2a5hV7J4RqiMa) | [SIWOO](https://open.spotify.com/artist/5y9D9PvN3LtLo7huOAKeRO) | [Rainy Day Reverie](https://open.spotify.com/album/46Btr5TOgiwPMD22DKtddU) | 3:49 | 2025-01-24 | 2025-02-19 |
 | [Rainy Street](https://open.spotify.com/track/2oA6RCfKss1JWAQlEI6t4L) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Rewind : Blossom Side A](https://open.spotify.com/album/4YZ9E6yT1aAJguVIi8KBN8) | 4:20 | 2022-01-13 | 2022-04-18 |
+| [RE: love you, too!](https://open.spotify.com/track/4AUaQEi0Clz2Gvw0WVVSOZ) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [RE: love you, too!](https://open.spotify.com/album/7LEztff3eAkB4dPQCZeJaB) | 3:18 | 2025-09-16 |  |
 | [Real Love \- Acoustic Version](https://open.spotify.com/track/3PnRVS7NR14WdvCTXLSFFB) | [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Real Love \(Acoustic Version\)](https://open.spotify.com/album/5qTqvyDsmConcKddcZna13) | 3:03 | 2022-03-31 | 2022-04-20 |
 | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas) | 3:37 | 2021-12-10 | 2022-08-13 |
 | [Reason Why We Have To Break Up](https://open.spotify.com/track/1IBAhKP77WU0xMrynp5Ymv) | [Only U](https://open.spotify.com/artist/4rFuiqSv9uhr8JcBSof72C) | [Reason Why We Have To Break Up](https://open.spotify.com/album/4nwxtVuw1mxCzZ3SGIGEcu) | 3:22 | 2022-01-13 | 2022-06-25 |
 | [Regrets 미안한 마음](https://open.spotify.com/track/59PiMiACfGn5yfLTPcFeYA) | [PAPERCUT PROJECT](https://open.spotify.com/artist/40MbmSwJQPPCvWV2Q6Cuqp) | [Regrets 미안한 마음](https://open.spotify.com/album/3XsBCKZMBVB5eJt98fBJ9x) | 4:03 | 2022-03-31 | 2022-04-13 |
-| [Remember Me](https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Our Blues, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE) | 3:44 | 2022-05-11 |  |
+| [Remember Me](https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Our Blues, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE) | 3:44 | 2022-05-11 | 2025-09-17 |
 | [Ring My Bell](https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Uncontrollably Fond OST Part.1](https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c) | 3:25 | 2022-03-31 |  |
 | [Rocking Chair](https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Rocking Chair](https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU) | 3:54 | 2022-08-25 | 2024-09-03 |
 | [Romeo & Juliet](https://open.spotify.com/track/2WkJb27TKlVaNTM4vulZDy) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [‘BLUISH’ Unplugged](https://open.spotify.com/album/2zZvTk4dSHV1qpLdtiILlr) | 2:52 | 2024-12-10 | 2025-01-02 |

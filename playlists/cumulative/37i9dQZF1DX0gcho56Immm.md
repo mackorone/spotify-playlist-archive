@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: snuggle
 
-171 songs - 9 hr 47 min
+173 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Affectionately](https://open.spotify.com/track/7CHwOqXYxWn7HGQl2OZq6H) | [Raisa K](https://open.spotify.com/artist/11H2kC5a9Jk0IJ0gPUrZl9) | [Affectionately](https://open.spotify.com/album/4ZFOgsFW6cf2w0MzG4D4Cz) | 1:57 | 2025-03-13 |  |
 | [Air](https://open.spotify.com/track/3jjBLJCxq4xD5n0h8dz4wC) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Air](https://open.spotify.com/album/54TRcRE5cExljtlDYn6pH1) | 2:40 | 2025-06-26 |  |
 | [All Seven Seasons](https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [How to Win At Solitaire](https://open.spotify.com/album/6hN3MhjvsymOTftrScwGR3) | 4:28 | 2025-09-05 |  |
+| [alone](https://open.spotify.com/track/4ELOtteyrWKxkUNTdMNQ09) | [NEW YORK](https://open.spotify.com/artist/6SLzOcVFLuSRuJ0DNOpz0Z) | [Push](https://open.spotify.com/album/5cg9xsPpJYfjPeQOyUCpf0) | 3:27 | 2025-09-16 |  |
 | [Amephrey and Ontario](https://open.spotify.com/track/34pLkzjOYuPTC7Seq0bona) | [Jura](https://open.spotify.com/artist/7o47tXCHgjbz4cGuYgg7AM), [abji\_hypersun](https://open.spotify.com/artist/5t15kyeJJYD6BnJ6s8J1Rt), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V), [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S), [Kristoffer Raasted](https://open.spotify.com/artist/4dlJoZ0e3YkcKz4tWGJXfP), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC), [Helene Norup Due](https://open.spotify.com/artist/0o1fgVWvRNSPuuurEKVRWb) | [Formality Jerne\-Site](https://open.spotify.com/album/3XxXPVRE1E8aJGuYYNaKxn) | 5:31 | 2025-03-31 |  |
 | [An Embroidery](https://open.spotify.com/track/7FG7r7bGcTqjapPULaJ2v6) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [World of Work](https://open.spotify.com/album/7r1cQPyAwQfhQIw9H9eGB5) | 4:09 | 2025-03-13 |  |
 | [Anymore](https://open.spotify.com/track/1F9eoTtJcbxIlCY0o0Imsp) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Anymore](https://open.spotify.com/album/2erxKF4TfbJnSZ9cSD44ef) | 3:57 | 2025-06-19 | 2025-07-19 |
@@ -142,6 +143,7 @@
 | [Sliver](https://open.spotify.com/track/5lf3g8dIqwCATObOI3sWMz) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Sliver](https://open.spotify.com/album/2ubi5gA5HBQnq4FbJYN1Hi) | 2:36 | 2025-08-18 |  |
 | [Sober Love](https://open.spotify.com/track/68sQfgn2MTUxMwo5iXOxWK) | [Yvonnes](https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p) | [Sober Love](https://open.spotify.com/album/34Y7XtOzScB4f6B7bXyPrF) | 2:30 | 2025-06-19 |  |
 | [Something in the way you move](https://open.spotify.com/track/6i4QWDj0FaZq0DNlzDOEBc) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Something in the way you move](https://open.spotify.com/album/4KiagNACvTlWB1tu0sONBK) | 4:59 | 2025-05-01 |  |
+| [Sometimes](https://open.spotify.com/track/297G6WwahvL2zaRj4BGZio) | [Jennifer Walton](https://open.spotify.com/artist/1tsCntTj7gHy67liJL1uhg) | [Sometimes](https://open.spotify.com/album/4odwwTmIfvxdm7ACw9767y) | 4:15 | 2025-09-16 |  |
 | [Spirals On My Tongue](https://open.spotify.com/track/7C73dQdKGFB59kUCL5C2jV) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Spirals On My Tongue](https://open.spotify.com/album/2rxo2AhEjvtu27B0Va0GfC) | 2:45 | 2025-04-17 |  |
 | [Spring](https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [Luster](https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP) | 3:34 | 2025-04-30 | 2025-05-02 |
 | [Star](https://open.spotify.com/track/1rB4MaZhxbxuaIqvbs9nLc) | [Good Sad Happy Bad](https://open.spotify.com/artist/3FPFQDA4cYbvO3O7O5rVWr) | [Shades](https://open.spotify.com/album/4AyXcaqnBjy2J5kHCRLzEA) | 2:32 | 2025-04-10 |  |

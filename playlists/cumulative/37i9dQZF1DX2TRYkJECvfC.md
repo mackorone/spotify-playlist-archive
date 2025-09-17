@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-642 songs - 2 day 5 hr 5 min
+643 songs - 2 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [FEEL](https://open.spotify.com/track/3xVmdUM5hgmLYzndh8FMz7) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [FEEL](https://open.spotify.com/album/0EaHTIUCFrPWr1AahAo86D) | 3:28 | 2024-04-12 | 2024-10-12 |
 | [Feel My Love](https://open.spotify.com/track/4ba2rqxxNcXQ5rfWZMo1Q1) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [SkyReacher](https://open.spotify.com/album/4fKaOHXcPHsqbL7UZYJKHK) | 6:44 | 2024-04-12 | 2025-03-09 |
 | [Feel This Way](https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv) | [MOTSA](https://open.spotify.com/artist/2fyuHXew1I5FJDAQdbCYXP), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Feel This Way](https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo) | 3:57 | 2025-03-07 |  |
-| [Feelings Of Love](https://open.spotify.com/track/3hVesPNlGrCXIO2E45aVnB) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Feelings Of Love](https://open.spotify.com/album/0NRDMZLCu5ReSNiolhzmZv) | 6:07 | 2025-09-05 |  |
+| [Feelings Of Love](https://open.spotify.com/track/3hVesPNlGrCXIO2E45aVnB) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Feelings Of Love](https://open.spotify.com/album/0NRDMZLCu5ReSNiolhzmZv) | 6:07 | 2025-09-05 | 2025-09-17 |
 | [Felt \(feat\. Henry Green\)](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [A Life](https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R) | 3:19 | 2024-04-26 |  |
 | [Fibonacci](https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Fibonacci](https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY) | 3:08 | 2021-12-08 | 2024-04-13 |
 | [Fields](https://open.spotify.com/track/5FZw8knmfy0feNKCXFEI1c) | [Sieren](https://open.spotify.com/artist/3Jzy4I2ATG22T6bZB24ToD) | [Emergence](https://open.spotify.com/album/0cw1jXcFM6cmW3oApTbx8g) | 4:28 | 2025-09-05 | 2025-09-10 |
@@ -585,6 +585,7 @@
 | [These Things Take Time \- AK Remix](https://open.spotify.com/track/1oir1oGiRYsPRYuMmw5Wap) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [These Things Take Time \(AK Remix\)](https://open.spotify.com/album/2uNQfjGaUKDqpgmeeHzO4N) | 3:01 | 2023-11-10 |  |
 | [These Things Will Come To Be](https://open.spotify.com/track/27cgqh0VRhVeM61ugTnorD) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:56 | 2021-12-08 |  |
 | [This Life](https://open.spotify.com/track/444vT3ohxrihxUqD8hEyLl) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Mawimbi](https://open.spotify.com/album/4yX07wB5aU4jIe90XCm7KE) | 2:55 | 2025-05-23 |  |
+| [Tidal Wave](https://open.spotify.com/track/2OanCtn4n2jC2SgHMMjn65) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Tidal Wave](https://open.spotify.com/album/1Uwaxg2tnNMQkP4gvE7HcI) | 3:47 | 2025-09-12 |  |
 | [Tidal Wave](https://open.spotify.com/track/2wZhZYuCFpoSElWEQq3Tt5) | [Stresshead](https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs) | [Tidal Wave](https://open.spotify.com/album/0zZz8NNJM9Uwmufm8suDSu) | 3:48 | 2025-09-05 |  |
 | [Tiyami](https://open.spotify.com/track/12tfRcDDjbZs8xrXrVpdjF) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0), [Laska](https://open.spotify.com/artist/4nxZFyKthDfXuL8o7K2TsW) | [Tiyami](https://open.spotify.com/album/5Mlu5D0ryziQnvnWLthf4d) | 6:01 | 2025-07-18 |  |
 | [To Feel Happy](https://open.spotify.com/track/2ykGnGyPhwMw8ALjrAGvI9) | [Ronnie Pacitti](https://open.spotify.com/artist/2iBVVqkMHQEUvUkSr7HHoh) | [To Feel Happy](https://open.spotify.com/album/1dfi8YaoRYgsIqGJpvX1Ma) | 3:11 | 2022-02-21 | 2022-03-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 
 > Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,173 likes - 54 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,188 likes - 54 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 | 53 | [3 Preludes for Piano Solo \- Arr\. Jascha Heifetz: 3\. Allegro ben ritmato e deciso](https://open.spotify.com/track/1JjUa1JNiRvdW1ak9BHeiP) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Gil Shaham](https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Gershwin \- Set: Bernstein/Ozawa/Previn/Levine \(2 CDs\)](https://open.spotify.com/album/5ae3bXTR1QMF4aHqhMtCXT) | 1:19 |
 | 54 | [Rosalie, Act II, How long has This been going on: How Long Has This Been Going On? \(Arr\. P\. Breiner for trumpet and piano\)](https://open.spotify.com/track/1xEKr9qYQXZen8de6kPvQ4) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Juraj Bartoš](https://open.spotify.com/artist/6SvTl33pmrXRQvYktp1AqT), [Peter Breiner](https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su) | [Gershwin for Trumpet](https://open.spotify.com/album/0pdegcimOFi10jS49gi458) | 6:06 |
 
-Snapshot ID: `AAAAAC0Tm+X9vX0Go5E6DKWU9Ox6YxYM`
+Snapshot ID: `AAAAAGG7egoxpgB0TIRL47MLno/4BK5e`

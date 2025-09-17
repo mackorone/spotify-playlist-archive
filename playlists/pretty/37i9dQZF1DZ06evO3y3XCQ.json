@@ -1,12 +1,12 @@
 {
   "description": "This is Thursday. The essential tracks, all in one playlist.",
-  "num_followers": 5080,
+  "num_followers": 5081,
   "original_name": "This Is Thursday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMYFgAAAAABqr34TCULsuiUmcsZ6k7OF",
+  "snapshot_id": "aMdXAAAAAADSMkM0XAzdw1sh78/5TGi/",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taking Inventory Of A Frozen Lake",
-        "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 257084,
-      "name": "Taking Inventory Of A Frozen Lake",
-      "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A City By The Light Divided",
         "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 240360,
       "name": "Running From The Rain",
       "url": "https://open.spotify.com/track/4CRaYUB98nYPtL5P9TxMnD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taking Inventory Of A Frozen Lake",
+        "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 257084,
+      "name": "Taking Inventory Of A Frozen Lake",
+      "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Bikes",
-        "url": "https://open.spotify.com/album/2GomwAQWCvL5KhnlkXQMwz"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 265570,
-      "name": "White Bikes",
-      "url": "https://open.spotify.com/track/2oLgt8U9rEkAtt1XqAs6Lf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A City By The Light Divided",
         "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 199346,
       "name": "Counting 5-4-3-2-1",
       "url": "https://open.spotify.com/track/33xbEG22XelcyasHEq6mfw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Bikes",
+        "url": "https://open.spotify.com/album/2GomwAQWCvL5KhnlkXQMwz"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 265570,
+      "name": "White Bikes",
+      "url": "https://open.spotify.com/track/2oLgt8U9rEkAtt1XqAs6Lf"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 254893,
-      "name": "Division St.",
-      "url": "https://open.spotify.com/track/3CzZpfMmfvB8ybUkqAYqvD"
+      "duration_ms": 183906,
+      "name": "Between Rupture And Rapture",
+      "url": "https://open.spotify.com/track/49ie1J8zRI73U2ve8dPuPq"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 183906,
-      "name": "Between Rupture And Rapture",
-      "url": "https://open.spotify.com/track/49ie1J8zRI73U2ve8dPuPq"
+      "duration_ms": 254893,
+      "name": "Division St.",
+      "url": "https://open.spotify.com/track/3CzZpfMmfvB8ybUkqAYqvD"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 293973,
-      "name": "Turnpike Divides",
-      "url": "https://open.spotify.com/track/1FgPKrJkqR16RSdDUMBUSA"
+      "duration_ms": 201240,
+      "name": "Fast to the End",
+      "url": "https://open.spotify.com/track/0Fx8OAcWVq1Gugw29Ek4jd"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 201240,
-      "name": "Fast to the End",
-      "url": "https://open.spotify.com/track/0Fx8OAcWVq1Gugw29Ek4jd"
+      "duration_ms": 293973,
+      "name": "Turnpike Divides",
+      "url": "https://open.spotify.com/track/1FgPKrJkqR16RSdDUMBUSA"
     },
     {
       "added_at": null,

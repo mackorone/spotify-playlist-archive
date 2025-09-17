@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Polska](https://open.spotify.com/playlist/37i9dQZF1DWTI0B69TStH2)
 
-> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:39BnGnKHfJNx4JXrSANdkf">MUD/O</a>
+> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:54S3G0C8oIzH1Va5WpIHS4">zofia justyńska</a>
 
 3,674 songs - 8 day 10 hr 58 min
 
@@ -3380,7 +3380,7 @@
 | [Wracam Się Do Siebie](https://open.spotify.com/track/7uH84PBkjrZLfu9krjz4ex) | [Aga Laura](https://open.spotify.com/artist/2z1vojxGYzfc1K07uoogbU) | [Wracam Się Do Siebie](https://open.spotify.com/album/2RweIUhrBBckJlU9mI32jx) | 6:42 | 2025-04-08 | 2025-05-14 |
 | [Wracam za chwilę](https://open.spotify.com/track/2mpAmjIj1RihMyzGVE5itf) | [Sławek Krzanowski](https://open.spotify.com/artist/2kCNiaN1wESs98T5wF6Rr8) | [Wracam za chwilę](https://open.spotify.com/album/17bfkcA1l1wSJPBg58IwJX) | 4:04 | 2024-01-30 | 2024-03-06 |
 | [Wracamy tam](https://open.spotify.com/track/6kycUBi84I0up3zSJqgQPa) | [Po prostu Damian](https://open.spotify.com/artist/44uQfIFXxVRFJRZMcvZN4i), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ) | [Wracamy tam](https://open.spotify.com/album/6dnXCHJBi3MUbGTzS5ESko) | 2:50 | 2025-03-18 | 2025-04-16 |
-| [WRAK](https://open.spotify.com/track/4wiDpGylQ5BCJD7EOUkih6) | [Twój, Dawid](https://open.spotify.com/artist/0t94HGOfXAG5BnHlRWlIqk), [Młody SMF](https://open.spotify.com/artist/4gY5AFKNSTiO3uXUKeF2oC), [Varhlak](https://open.spotify.com/artist/3LFVtSa6cvpOODIHRi2SWX), [chilli](https://open.spotify.com/artist/1CrHFIXk7brOKv0Cd7ZOA5) | [WRAK](https://open.spotify.com/album/4YRsYwF1rFB73sbqnyLWIq) | 4:15 | 2025-08-26 |  |
+| [WRAK](https://open.spotify.com/track/4wiDpGylQ5BCJD7EOUkih6) | [Młody SMF](https://open.spotify.com/artist/4gY5AFKNSTiO3uXUKeF2oC), [Varhlak](https://open.spotify.com/artist/3LFVtSa6cvpOODIHRi2SWX), [Twój, Dawid](https://open.spotify.com/artist/0t94HGOfXAG5BnHlRWlIqk), [chilli](https://open.spotify.com/artist/1CrHFIXk7brOKv0Cd7ZOA5) | [WRAK](https://open.spotify.com/album/4YRsYwF1rFB73sbqnyLWIq) | 4:15 | 2025-08-26 |  |
 | [wrogowie](https://open.spotify.com/track/5D6U01nI60WYFbLGFj1tld) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [wrogowie](https://open.spotify.com/album/1tZtVZ2zMmPxYr7YRzXFuH) | 3:26 | 2024-08-20 | 2024-09-04 |
 | [Wrzosy](https://open.spotify.com/track/2vqcKeANBFZDtcMzft8Ej4) | [SAMARA](https://open.spotify.com/artist/0H96zZshfKV7mq25xuyAWD) | [Wrzosy](https://open.spotify.com/album/3H69V7MdvPjjNPy8FdxPde) | 2:52 | 2024-08-20 | 2025-01-08 |
 | [WRÓCĘ DO SIEBIE](https://open.spotify.com/track/7ImabUmmnU1AwMd6pPG5Rx) | [GONO](https://open.spotify.com/artist/1ZFgCfuGcbKIYsXIDt6ivC) | [WRÓCĘ DO SIEBIE](https://open.spotify.com/album/4SBBbyRfpwrvyvBLrJVyOg) | 3:09 | 2025-04-23 | 2025-06-04 |

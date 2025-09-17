@@ -1,12 +1,12 @@
 {
   "description": "This is Laufey. The essential tracks, all in one playlist.",
-  "num_followers": 321385,
+  "num_followers": 321660,
   "original_name": "This Is Laufey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMYFgAAAAABs/adOq94DKed2elAbpdIF",
+  "snapshot_id": "aMdXAAAAAADcm1Y3ExkZ1Xfi3dHZyUrL",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Matter of Time (Standard Edition)",
+        "url": "https://open.spotify.com/album/6lauK4mNENDUMSoekDVDNG"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "Seems Like Old Times - Bonus Track",
+      "url": "https://open.spotify.com/track/5mAFfXu5wUJWicmzxjJRKo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Flew Away",
         "url": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 127853,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/1pyfaPU3aw8JorXRJQf6cs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Matter of Time (Standard Edition)",
-        "url": "https://open.spotify.com/album/6lauK4mNENDUMSoekDVDNG"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "Seems Like Old Times - Bonus Track",
-      "url": "https://open.spotify.com/track/5mAFfXu5wUJWicmzxjJRKo"
     },
     {
       "added_at": null,

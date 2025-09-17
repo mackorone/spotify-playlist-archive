@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,068 likes - 139 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,923 likes - 139 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

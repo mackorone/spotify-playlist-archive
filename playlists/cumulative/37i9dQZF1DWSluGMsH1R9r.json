@@ -3098,7 +3098,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 121545,
       "name": "Encore une Danse",
       "url": "https://open.spotify.com/track/5o7LUHW8BVTU0NQV8wMgbw"
@@ -3386,7 +3386,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 125374,
       "name": "Fairytale",
       "url": "https://open.spotify.com/track/6aYcNnHc0sFXkLci7WG0wl"
@@ -3476,7 +3476,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 139696,
       "name": "Fanciful",
       "url": "https://open.spotify.com/track/0I3Rxri1PbEnBZVol9NY1B"
@@ -4820,7 +4820,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 169630,
       "name": "Hope Remains",
       "url": "https://open.spotify.com/track/5MNa6Zx5BvwO1YeXxb0W04"
@@ -4896,6 +4896,24 @@
       "duration_ms": 144555,
       "name": "Howthian",
       "url": "https://open.spotify.com/track/7Ifj1BA2mFHr1FmCxV9p1M"
+    },
+    {
+      "album": {
+        "name": "Hudson",
+        "url": "https://open.spotify.com/album/7LYdaydEH7nuNW0jTx3VfW"
+      },
+      "artists": [
+        {
+          "name": "Lluvio",
+          "url": "https://open.spotify.com/artist/1kzkKhacDbiz7kbMewpWLV"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Hudson",
+      "url": "https://open.spotify.com/track/4X21nr52GfvHOUgN25yUC5"
     },
     {
       "album": {
@@ -5364,7 +5382,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 139742,
       "name": "Inmersion",
       "url": "https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9"
@@ -6642,7 +6660,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 158603,
       "name": "Long-Awaited Light",
       "url": "https://open.spotify.com/track/0MllxU17FqcO092gj9Gj9k"
@@ -6696,7 +6714,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 139924,
       "name": "Lost Frequencies",
       "url": "https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA"
@@ -7956,7 +7974,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 146096,
       "name": "New Spring",
       "url": "https://open.spotify.com/track/5WPwpkbt3BypWfLQ33gHIS"
@@ -8568,7 +8586,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 143832,
       "name": "Ordinary Thoughts",
       "url": "https://open.spotify.com/track/6J6q6ejP39h9FqE5d9EdBp"
@@ -9252,7 +9270,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 139977,
       "name": "Pure",
       "url": "https://open.spotify.com/track/4PGGCORyVKe2uZh9Dj3koa"
@@ -10825,6 +10843,24 @@
     },
     {
       "album": {
+        "name": "Som Pam",
+        "url": "https://open.spotify.com/album/03ES28hUW0veZhTCIsSyC0"
+      },
+      "artists": [
+        {
+          "name": "Malika North",
+          "url": "https://open.spotify.com/artist/33vhpKFGk0MKgcJgI2l5Xq"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Som Pam",
+      "url": "https://open.spotify.com/track/4u9WkXJwh7OTat9tMAT3Qf"
+    },
+    {
+      "album": {
         "name": "Ephemera",
         "url": "https://open.spotify.com/album/7r69JJ8k1o0wwjV16KczHZ"
       },
@@ -12190,7 +12226,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 135911,
       "name": "Tout a un sens",
       "url": "https://open.spotify.com/track/5VOhUrpLELS03TrEJsnL7X"
@@ -13796,6 +13832,24 @@
       "duration_ms": 151000,
       "name": "\u00c7a en vaut la peine",
       "url": "https://open.spotify.com/track/3ggkhQAdAMUQe7Bz6kmYzr"
+    },
+    {
+      "album": {
+        "name": "\u00c9veil",
+        "url": "https://open.spotify.com/album/3A3g8Hg3Y2y42uG7BmDoft"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "\u00c9veil",
+      "url": "https://open.spotify.com/track/2brRgCl1LHEDuwMjFxp8s5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSluGMsH1R9r"

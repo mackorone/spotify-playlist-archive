@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-354 songs - 20 hr 13 min
+358 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,8 @@
 | [Tokyo Teddy Bear](https://open.spotify.com/track/1OTkrip8I6EW5ap78axkyg) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr), [IKASAN](https://open.spotify.com/artist/4Qzhz2dk7HtbC69WJUtVjF) | [Bokukara No Saishuu Teiri](https://open.spotify.com/album/4sVkAuyfAayJ1DQU4oMgLY) | 3:12 | 2021-10-24 |  |
 | [Touch You](https://open.spotify.com/track/6qWEpnyU43Bcrx3vfbGuVm) | [遠野高志](https://open.spotify.com/artist/3dkW1L7GIhispeiHo9uzM8), [加島優](https://open.spotify.com/artist/3ynBix87InXjEn5L9LsAWB), [矢口恭介](https://open.spotify.com/artist/4CkENaPbZ3CSwB7kAbzTE1), [ジミー](https://open.spotify.com/artist/4ABfGQhx7kTXCFbxvlLtlO), [百合絢斗](https://open.spotify.com/artist/5nEXLz5Qwkcv8d91fP4Cjo), [田村唯](https://open.spotify.com/artist/4tF37PbmfGwti71JKUI1pz), [明美圭一](https://open.spotify.com/artist/6l15fzba4HWiYgbX7ji3NQ), [糸目幸士郎](https://open.spotify.com/artist/0t1H6voah4Js1hbu2EPUqx), [鹿谷樹](https://open.spotify.com/artist/7u0iN4XxPpkIk9KRcLQXDa) | [アニメ『ヤリチン☆ビッチ部』主題歌「Touch You」](https://open.spotify.com/album/2rQlPhe76mnmviBmjHdS89) | 3:26 | 2024-11-30 |  |
 | [Twilight](https://open.spotify.com/track/6d67Xv8ms2noA8wWFLiPDN) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:48 | 2024-08-15 |  |
+| [Umi no shizuku](https://open.spotify.com/track/0jjz9medFeIXgz1lVOccgZ) | [exist†trace](https://open.spotify.com/artist/2qrNC9noTTHFbNw5SQTh52) | [Ambivalent Symphony](https://open.spotify.com/album/1lPIKPAcpTidL1Xvo78rMI) | 4:51 | 2025-09-16 |  |
+| [Umitagari](https://open.spotify.com/track/413FikBJHxjwz8EWNi2hVK) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:45 | 2025-09-16 |  |
 | [undress me](https://open.spotify.com/track/1bwnXBfIQFIBgBtsBADycD) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [Flos Ex Machina](https://open.spotify.com/album/5M0osp4LCf6UcRYnUqwBt8) | 3:14 | 2023-10-16 |  |
 | [Verbatim](https://open.spotify.com/track/266Vb7ItE3o1q8HdJ9QOvn) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Touch Up](https://open.spotify.com/album/40DMb38Z4n5ylfz4n29qt0) | 2:48 | 2022-01-08 |  |
 | [Virtual Castle](https://open.spotify.com/track/50ws6mrrA0g35QGXnUFqHq) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [CASTLE](https://open.spotify.com/album/5nrbYNmaCFjlO2NcBfQc9o) | 3:36 | 2024-01-22 |  |
@@ -233,6 +235,7 @@
 | [お勉強しといてよ](https://open.spotify.com/track/3sgJTMHqDwxfsBIMqvkXKE) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ぐされ](https://open.spotify.com/album/47anQ0XC69gwTModnqWQsr) | 4:39 | 2023-10-25 |  |
 | [お洒落番長 \(feat\. Ado\)](https://open.spotify.com/track/4wdZoFvA5zpxVglDuESYJ3) | [Linmu](https://open.spotify.com/artist/7fDKKZH24LisRepejhv0iz), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [お洒落番長 \(feat\. Ado\)](https://open.spotify.com/album/5qBYkswUPw3za9eO2C2Sev) | 4:40 | 2024-12-03 |  |
 | [けーたいみしてよ](https://open.spotify.com/track/2lM1Qox6qq2bU7zKJyVt9p) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [けーたいみしてよ](https://open.spotify.com/album/4DHNe9ihe9Lnc9i5RkbgX7) | 2:12 | 2024-09-07 |  |
+| [これを依存と呼ぶなら](https://open.spotify.com/track/1Oe45Ze9SwanHB2vL7gY9H) | [MEJIBRAY](https://open.spotify.com/artist/6VeP6EHKYyGJrN60TlAPpo) | [Slivers.exe](https://open.spotify.com/album/3Nh4cuCIR5iHJyv07kCoRL) | 5:40 | 2025-09-16 |  |
 | [さみしいひと](https://open.spotify.com/track/7zzjQ4NWOgAjCdsFGdoFKh) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS) | [NEW ROMANCER](https://open.spotify.com/album/4oXJbsrzcBWP3Jf07jkOGO) | 3:02 | 2024-06-26 |  |
 | [ただ病名が欲しかった](https://open.spotify.com/track/6d3GDEnwhSC2zSpBhN9zaZ) | [kyiku](https://open.spotify.com/artist/5eE5UwQWBq47o0U1K63i6P) | [ただ病名が欲しかった](https://open.spotify.com/album/6eJH1nePY7LemgUbUXmjGY) | 3:14 | 2024-11-18 |  |
 | [たぶん](https://open.spotify.com/track/398dL22bDbKbAmiOnPaq7o) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:16 | 2023-01-03 |  |
@@ -268,6 +271,7 @@
 | [バグ \(feat\. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン\)](https://open.spotify.com/track/3Lu59KjuBy96vEaMBgGPud) | [25時、ナイトコードで。](https://open.spotify.com/artist/1VMXuPyhNldYomz8ojLKP7) | [ノマド/バグ](https://open.spotify.com/album/5mZsk1IhSXRG4N2I37CRty) | 2:51 | 2024-02-19 |  |
 | [パステルレイン](https://open.spotify.com/track/6LgbWb24tqwQYOz2LznkMD) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ガールズブルー・ハッピーサッド](https://open.spotify.com/album/4zJnne9ViG9kIR8o8AntfK) | 3:32 | 2023-06-19 |  |
 | [ヒステリックナイトガール](https://open.spotify.com/track/1poGez6IaTb1gtJxkXdlb8) | [PSYQUI](https://open.spotify.com/artist/3p8H8HTn04KXh2NRzhKScl), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [STYLEY!](https://open.spotify.com/album/7wO1gjRCpHhYPbEC7hthYk) | 5:06 | 2023-06-19 |  |
+| [ヒトガワリ](https://open.spotify.com/track/40KFocvzK7xc1jHzBDM8k4) | [きくおはな](https://open.spotify.com/artist/1GBV8C0PfGVH1G5QRqHt5k) | [第二幕](https://open.spotify.com/album/7et3nHvC6nflQu4QsJkJvs) | 4:26 | 2025-09-16 |  |
 | [ビビデバ](https://open.spotify.com/track/0Gp8MWnUzS5V2lvTr25c2A) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ビビデバ](https://open.spotify.com/album/3E0lLznAOWAiEWizIzWzJn) | 2:45 | 2024-11-21 |  |
 | [ファブリック・フラワー](https://open.spotify.com/track/3EzCdvLrgxYJkLXrwoPpml) | [Wolpis Carter](https://open.spotify.com/artist/5gBtcJIa6ZLJB1HUwfik4J) | [ファブリック・フラワー](https://open.spotify.com/album/3zVCnrLb0V85Xo5i7ZSgcN) | 2:40 | 2024-07-08 |  |
 | [フィクサー・イン・グレイ](https://open.spotify.com/track/3Y0hbUxtoYW9PbUAIWpJji) | [アザミ](https://open.spotify.com/artist/2PIhnekER7v12MJ0HYZQTu) | [ADVENTUNE 2](https://open.spotify.com/album/5jZZkkJyDWHMOQGl796We2) | 4:01 | 2025-05-27 |  |

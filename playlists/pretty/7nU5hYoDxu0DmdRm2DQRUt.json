@@ -6,8 +6,236 @@
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAOG2gUxzPdTMkIAphQgxLlHK0TgzKd",
+  "snapshot_id": "AAAOLzdZAR61DXBcNJLXR5iFm13eHIPx",
   "tracks": [
+    {
+      "added_at": "2025-09-16 14:16:15",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/0heBIoDokQicX1Rut9vBDz"
+      },
+      "artists": [
+        {
+          "name": "Hardt Antoine",
+          "url": "https://open.spotify.com/artist/3nJOVgthGYcDojzO7utIyA"
+        }
+      ],
+      "duration_ms": 224220,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/1iR7G1waLbAbrSJGqpat7p"
+    },
+    {
+      "added_at": "2025-09-16 14:00:01",
+      "album": {
+        "name": "New Arrivals EP",
+        "url": "https://open.spotify.com/album/0dxDShD0sekCUSAU5viAq8"
+      },
+      "artists": [
+        {
+          "name": "GusGus",
+          "url": "https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ"
+        },
+        {
+          "name": "Bngrboy",
+          "url": "https://open.spotify.com/artist/1CqFXEU6ZL6ka10bm5vLVU"
+        }
+      ],
+      "duration_ms": 422986,
+      "name": "New Arrivals",
+      "url": "https://open.spotify.com/track/6dC6UZBd2rqZ9hayvWIWhw"
+    },
+    {
+      "added_at": "2025-09-16 14:02:36",
+      "album": {
+        "name": "Windowlicker",
+        "url": "https://open.spotify.com/album/0kh72obGI1xpZf28m05ke7"
+      },
+      "artists": [
+        {
+          "name": "Raz & Afla",
+          "url": "https://open.spotify.com/artist/7uwNJmOY95AjAi9kPgfpyt"
+        }
+      ],
+      "duration_ms": 333750,
+      "name": "Windowlicker",
+      "url": "https://open.spotify.com/track/2BjdCEsfLfUPuUDOjvOdMm"
+    },
+    {
+      "added_at": "2025-09-16 14:12:20",
+      "album": {
+        "name": "Karl der K\u00e4fer",
+        "url": "https://open.spotify.com/album/0H9dOqnUqOSb7PHvo38rE1"
+      },
+      "artists": [
+        {
+          "name": "Die J\u00fcnger Emmaus & der Endziffer 0 Chor",
+          "url": "https://open.spotify.com/artist/6wBnWVGF8aDFmd5cnPhuP0"
+        }
+      ],
+      "duration_ms": 147002,
+      "name": "Karl der K\u00e4fer",
+      "url": "https://open.spotify.com/track/4RYsofjJQ9ddGURw4KCluW"
+    },
+    {
+      "added_at": "2025-09-16 14:13:00",
+      "album": {
+        "name": "Penguin",
+        "url": "https://open.spotify.com/album/7Ents6OUkpEhNFjyW0JmOW"
+      },
+      "artists": [
+        {
+          "name": "Sutter & Wangen",
+          "url": "https://open.spotify.com/artist/7qeIj2jFhKvqaytVYAMH6m"
+        }
+      ],
+      "duration_ms": 250224,
+      "name": "Penguin",
+      "url": "https://open.spotify.com/track/6pod4rlviigcEYlRAyAIFt"
+    },
+    {
+      "added_at": "2025-09-16 14:14:47",
+      "album": {
+        "name": "Same Materials",
+        "url": "https://open.spotify.com/album/17fSpxBEAlcaJsdDIPyWkv"
+      },
+      "artists": [
+        {
+          "name": "Arutani",
+          "url": "https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K"
+        }
+      ],
+      "duration_ms": 378320,
+      "name": "Same Materials",
+      "url": "https://open.spotify.com/track/3grck8L2H5utJNG8d3WRrW"
+    },
+    {
+      "added_at": "2025-09-16 14:15:16",
+      "album": {
+        "name": "Late Night Swim (Lee Curtiss Remix)",
+        "url": "https://open.spotify.com/album/5cbgnoRGsWae3fdD54QfmX"
+      },
+      "artists": [
+        {
+          "name": "Wareika",
+          "url": "https://open.spotify.com/artist/5QVs44HFX0u3AXqN1EoePc"
+        },
+        {
+          "name": "dOP",
+          "url": "https://open.spotify.com/artist/1HX7ovHKJG8M8cUoSvH6UB"
+        },
+        {
+          "name": "Lee Curtiss",
+          "url": "https://open.spotify.com/artist/5qCdmZXBkJc15PLLbFadVV"
+        }
+      ],
+      "duration_ms": 365750,
+      "name": "Late Night Swim - Lee Curtiss Remix",
+      "url": "https://open.spotify.com/track/5ohFv6omyXWolDkGLRt6g6"
+    },
+    {
+      "added_at": "2025-09-16 14:15:44",
+      "album": {
+        "name": "My Brutal Life - The Ambient Mixes",
+        "url": "https://open.spotify.com/album/4vdDbH22OMplxFeP4PRheY"
+      },
+      "artists": [
+        {
+          "name": "The Black Dog",
+          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
+        }
+      ],
+      "duration_ms": 279958,
+      "name": "Park Hill Forever - Ever Mix",
+      "url": "https://open.spotify.com/track/33kHBG9dNzC3FnAeYYnOdy"
+    },
+    {
+      "added_at": "2025-09-16 13:58:50",
+      "album": {
+        "name": "DJ-Kicks: Modeselektor",
+        "url": "https://open.spotify.com/album/4ApWMQXAEOaNpFWaKG2FtN"
+      },
+      "artists": [
+        {
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+        }
+      ],
+      "duration_ms": 261010,
+      "name": "MEGA MEGA MEGA (DJ-Kicks)",
+      "url": "https://open.spotify.com/track/5v8sHx4GIOgVD7IFJYVSvS"
+    },
+    {
+      "added_at": "2025-09-16 13:58:13",
+      "album": {
+        "name": "Man\u00eda",
+        "url": "https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy"
+      },
+      "artists": [
+        {
+          "name": "Pangaea",
+          "url": "https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE"
+        },
+        {
+          "name": "Jazz Alonso",
+          "url": "https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY"
+        }
+      ],
+      "duration_ms": 171112,
+      "name": "Man\u00eda",
+      "url": "https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg"
+    },
+    {
+      "added_at": "2025-09-16 14:00:32",
+      "album": {
+        "name": "Nur Um Liebe",
+        "url": "https://open.spotify.com/album/3XtV6gb9iHtosfqag1Lfdk"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "Dirk von Lowtzow",
+          "url": "https://open.spotify.com/artist/4iThdARg7lrGGuvBkWhVLm"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Nur um Liebe - Sanfte Version",
+      "url": "https://open.spotify.com/track/5EwAznGWUinw6wh2YbMgAS"
+    },
+    {
+      "added_at": "2025-09-16 14:01:22",
+      "album": {
+        "name": "Magnolia EP",
+        "url": "https://open.spotify.com/album/06BQFfQaGymZoZmfo0nRk4"
+      },
+      "artists": [
+        {
+          "name": "Damiano von Erckert",
+          "url": "https://open.spotify.com/artist/28Y1hMhuru402KjzFJDegi"
+        }
+      ],
+      "duration_ms": 357471,
+      "name": "Good To You",
+      "url": "https://open.spotify.com/track/0gBh7JyQ4QQDA4RdWiwb0r"
+    },
+    {
+      "added_at": "2025-09-16 14:01:38",
+      "album": {
+        "name": "Body Music",
+        "url": "https://open.spotify.com/album/01Nn2mY1Lz09D0XiieeKwf"
+      },
+      "artists": [
+        {
+          "name": "Ashtar Afterhours",
+          "url": "https://open.spotify.com/artist/6BpuYRnswVfunDciLR16nA"
+        }
+      ],
+      "duration_ms": 367062,
+      "name": "Body Music",
+      "url": "https://open.spotify.com/track/4Cmdy2dNVMteL3I8F3t16X"
+    },
     {
       "added_at": "2025-09-05 13:15:54",
       "album": {
@@ -101,7 +329,7 @@
         }
       ],
       "duration_ms": 174677,
-      "name": "The Pieces I've Found",
+      "name": "Pieces I've Found",
       "url": "https://open.spotify.com/track/18qSjdSh7L9ITHPkovknfs"
     },
     {
@@ -4159,266 +4387,6 @@
       "duration_ms": 329486,
       "name": "Vagus",
       "url": "https://open.spotify.com/track/5zWG7WQqS4pRVKY5BXyhWH"
-    },
-    {
-      "added_at": "2024-11-06 15:04:11",
-      "album": {
-        "name": "Kiss Me Again",
-        "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur",
-          "url": "https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu"
-        }
-      ],
-      "duration_ms": 785329,
-      "name": "Kiss Me Again",
-      "url": "https://open.spotify.com/track/4JrVFLx1oxjljnVPSljqAq"
-    },
-    {
-      "added_at": "2024-11-11 14:19:20",
-      "album": {
-        "name": "Part 9",
-        "url": "https://open.spotify.com/album/0fMmO5tamKGVpthiE5Fmxp"
-      },
-      "artists": [
-        {
-          "name": "Herbert",
-          "url": "https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn"
-        },
-        {
-          "name": "Momoko Gill",
-          "url": "https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF"
-        }
-      ],
-      "duration_ms": 453382,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/6uNHQ4dK0E9GNmPfQr7Lyt"
-    },
-    {
-      "added_at": "2024-11-11 14:19:40",
-      "album": {
-        "name": "Stay Here",
-        "url": "https://open.spotify.com/album/1CVqowMvToHt4p2wGRUoqg"
-      },
-      "artists": [
-        {
-          "name": "Fort Romeau",
-          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
-        },
-        {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
-        }
-      ],
-      "duration_ms": 351459,
-      "name": "Stay Here",
-      "url": "https://open.spotify.com/track/1y5R89Y60XQEaB3d4ZziqD"
-    },
-    {
-      "added_at": "2024-11-11 14:21:06",
-      "album": {
-        "name": "Boogie on the Mainline \u2013 a Collection of Rare Disco, Funk and Boogie from Germany 1980-1987",
-        "url": "https://open.spotify.com/album/2Z55x32gdXkOzEm5Z5hXfD"
-      },
-      "artists": [
-        {
-          "name": "Imagination",
-          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
-        }
-      ],
-      "duration_ms": 382057,
-      "name": "Strawberry Wine",
-      "url": "https://open.spotify.com/track/44eHTAkwe8novAbi3tNADM"
-    },
-    {
-      "added_at": "2024-11-11 14:21:31",
-      "album": {
-        "name": "Untitled Thoughts",
-        "url": "https://open.spotify.com/album/4M3cavyII6kn4dkoiZCVZY"
-      },
-      "artists": [
-        {
-          "name": "Lis Sarroca",
-          "url": "https://open.spotify.com/artist/3tH1hoSRmfQvsejUewBC5t"
-        }
-      ],
-      "duration_ms": 370747,
-      "name": "Atacote",
-      "url": "https://open.spotify.com/track/4wdr2xiaVxVe2q8lwenUim"
-    },
-    {
-      "added_at": "2024-11-11 14:21:56",
-      "album": {
-        "name": "Parallel Shift",
-        "url": "https://open.spotify.com/album/6zBA1eNLLUbB5AMeU0gVi1"
-      },
-      "artists": [
-        {
-          "name": "Cybotron",
-          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
-        }
-      ],
-      "duration_ms": 279007,
-      "name": "Parallel Shift",
-      "url": "https://open.spotify.com/track/2fcB7MXaQZ6ybAUiO46kHU"
-    },
-    {
-      "added_at": "2024-11-06 15:03:14",
-      "album": {
-        "name": "La grande accumulation",
-        "url": "https://open.spotify.com/album/5MSWT3UL8zksEbsPyOZ9zJ"
-      },
-      "artists": [
-        {
-          "name": "Anadol",
-          "url": "https://open.spotify.com/artist/7FIDz1yp4L6MZbHCdyLUfx"
-        },
-        {
-          "name": "Marie Klock",
-          "url": "https://open.spotify.com/artist/1dHVFjDxyoHcxS5M1he5CB"
-        }
-      ],
-      "duration_ms": 340186,
-      "name": "Sonate au jambon",
-      "url": "https://open.spotify.com/track/3ShwKeAVrwfrfQDU6EzGaa"
-    },
-    {
-      "added_at": "2024-11-06 15:02:28",
-      "album": {
-        "name": "Sleep Deprivation",
-        "url": "https://open.spotify.com/album/7gEi57iHreVRZ5BgHBiKRb"
-      },
-      "artists": [
-        {
-          "name": "The Black Dog",
-          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
-        }
-      ],
-      "duration_ms": 422000,
-      "name": "Sleep Deprivation 05: The Slow Cancellation Of The Future",
-      "url": "https://open.spotify.com/track/5mP0t2Bhr9T5jPZBMA4JpT"
-    },
-    {
-      "added_at": "2024-11-06 15:05:05",
-      "album": {
-        "name": "Premise",
-        "url": "https://open.spotify.com/album/4iXHmnaKCQOfTCbvo88FDq"
-      },
-      "artists": [
-        {
-          "name": "Felix Fleer",
-          "url": "https://open.spotify.com/artist/4DmLD0EhjRVayjuWPO3FXx"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Premise",
-      "url": "https://open.spotify.com/track/19DW5bCWRiX3GuErm0EOnx"
-    },
-    {
-      "added_at": "2024-11-06 15:01:22",
-      "album": {
-        "name": "Sustain & Release",
-        "url": "https://open.spotify.com/album/3EfJUEeUR130NNqelgEU3G"
-      },
-      "artists": [
-        {
-          "name": "iO",
-          "url": "https://open.spotify.com/artist/6QrxLOJoy5bonNOhC5M59m"
-        }
-      ],
-      "duration_ms": 354666,
-      "name": "Claire",
-      "url": "https://open.spotify.com/track/754j1xgJ9O34J9dH864qbE"
-    },
-    {
-      "added_at": "2024-11-06 15:00:41",
-      "album": {
-        "name": "Tokyo Love Affair",
-        "url": "https://open.spotify.com/album/32Zu6hIPbZJZyR8ToTNpUN"
-      },
-      "artists": [
-        {
-          "name": "Barbara Boeing",
-          "url": "https://open.spotify.com/artist/7uf1b4UI1VVKwwcQO0laWZ"
-        },
-        {
-          "name": "Sam Ruffillo",
-          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
-        }
-      ],
-      "duration_ms": 307719,
-      "name": "Tokyo Love Affair",
-      "url": "https://open.spotify.com/track/2vaJvmFZEvRyEKQEtoSSgH"
-    },
-    {
-      "added_at": "2024-11-06 14:59:49",
-      "album": {
-        "name": "Fuzz Gathering",
-        "url": "https://open.spotify.com/album/02oq5WyUAV7siVKvzg3uiL"
-      },
-      "artists": [
-        {
-          "name": "Ryan James Ford",
-          "url": "https://open.spotify.com/artist/74i1kmPHu9k0NW1ogD5fZA"
-        }
-      ],
-      "duration_ms": 238260,
-      "name": "Earshot",
-      "url": "https://open.spotify.com/track/21DsPXm4InHmeifXKqeXZ5"
-    },
-    {
-      "added_at": "2024-11-06 15:00:22",
-      "album": {
-        "name": "Kinesia",
-        "url": "https://open.spotify.com/album/717qkZW9A78xtt11FHM6e6"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        },
-        {
-          "name": "mach\u00ecna",
-          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
-        }
-      ],
-      "duration_ms": 212415,
-      "name": "Miso",
-      "url": "https://open.spotify.com/track/3mDRf1zjvoSOlIGjcIZdJ6"
-    },
-    {
-      "added_at": "2024-11-06 15:01:57",
-      "album": {
-        "name": "Maha",
-        "url": "https://open.spotify.com/album/21a2Dta9QJiwJw7pG9IBpZ"
-      },
-      "artists": [
-        {
-          "name": "Stenny",
-          "url": "https://open.spotify.com/artist/31Ldq0GNXx6ShgToypsNHq"
-        }
-      ],
-      "duration_ms": 317741,
-      "name": "Dirge",
-      "url": "https://open.spotify.com/track/6ygtcCNSucobCmE12GDHJa"
-    },
-    {
-      "added_at": "2024-11-06 15:02:52",
-      "album": {
-        "name": "Inner Labyrinth, Pt. 1",
-        "url": "https://open.spotify.com/album/0VKwkv9QzuwxWK035BSQGI"
-      },
-      "artists": [
-        {
-          "name": "Jancen",
-          "url": "https://open.spotify.com/artist/5DEG6jf4lvaICXAUhi6BKk"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "Quintessence",
-      "url": "https://open.spotify.com/track/24kgTHvNuRKRgr0XJUplhh"
     }
   ],
   "unique_name": "KOMPAKT: New Arrivals",

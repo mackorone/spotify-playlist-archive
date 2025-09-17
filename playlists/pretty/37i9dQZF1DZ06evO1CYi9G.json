@@ -1,12 +1,12 @@
 {
   "description": "This is Mudvayne. The essential tracks, all in one playlist.",
-  "num_followers": 62425,
+  "num_followers": 62433,
   "original_name": "This Is Mudvayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMYFgAAAAADk3LbYr3hLdw68oYnn/kox",
+  "snapshot_id": "aMdXAAAAAACh6X71rOgPPMUoQ4jPjjS/",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The End Of All Things To Come",
-        "url": "https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 336973,
-      "name": "World So Cold",
-      "url": "https://open.spotify.com/track/0I5Fgl7pT26M1qSIixlzR2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sticks And Stones",
         "url": "https://open.spotify.com/album/2dHPDll7CHkR15u1shRGBU"
       },
@@ -187,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The New Game",
-        "url": "https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK"
+        "name": "The End Of All Things To Come",
+        "url": "https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo"
       },
       "artists": [
         {
@@ -196,25 +180,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 235906,
-      "name": "Scarlet Letters",
-      "url": "https://open.spotify.com/track/04EJruMxHBrSoOfZg0p5o9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 159253,
-      "name": "Determined",
-      "url": "https://open.spotify.com/track/0GBiT1wHV68bU0Cv8ZU2HZ"
+      "duration_ms": 336973,
+      "name": "World So Cold",
+      "url": "https://open.spotify.com/track/0I5Fgl7pT26M1qSIixlzR2"
     },
     {
       "added_at": null,
@@ -235,6 +203,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 159253,
+      "name": "Determined",
+      "url": "https://open.spotify.com/track/0GBiT1wHV68bU0Cv8ZU2HZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The New Game",
+        "url": "https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Scarlet Letters",
+      "url": "https://open.spotify.com/track/04EJruMxHBrSoOfZg0p5o9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "By The People, For The People",
         "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
       },
@@ -247,6 +247,22 @@
       "duration_ms": 276306,
       "name": "King Of Pain",
       "url": "https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L.D. 50",
+        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 265373,
+      "name": "Internal Primates Forever",
+      "url": "https://open.spotify.com/track/1mhwzvD3iVSR1SUOemLAHc"
     },
     {
       "added_at": null,
@@ -283,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.D. 50",
-        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 265373,
-      "name": "Internal Primates Forever",
-      "url": "https://open.spotify.com/track/1mhwzvD3iVSR1SUOemLAHc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mudvayne",
         "url": "https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS"
       },
@@ -311,6 +311,22 @@
       "duration_ms": 172986,
       "name": "All Talk",
       "url": "https://open.spotify.com/track/2N0yIGs5DbmqAFRfVzgWGF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L.D. 50",
+        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "-1",
+      "url": "https://open.spotify.com/track/2v4OZx6CBj631eoyayjYn1"
     },
     {
       "added_at": null,
@@ -347,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.D. 50",
-        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "-1",
-      "url": "https://open.spotify.com/track/2v4OZx6CBj631eoyayjYn1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 208466,
       "name": "Pushing Through",
       "url": "https://open.spotify.com/track/4hvq2Q3Ykt1pEsk13E25Se"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L.D. 50",
+        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "Under My Skin",
+      "url": "https://open.spotify.com/track/6jryVg8V79kUVqFNUP9njw"
     },
     {
       "added_at": null,
@@ -411,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.D. 50",
-        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "Under My Skin",
-      "url": "https://open.spotify.com/track/6jryVg8V79kUVqFNUP9njw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mudvayne",
         "url": "https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 201200,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1Hp7LP0VU8FN5fMjlvgbyf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 351026,
+      "name": "IMN",
+      "url": "https://open.spotify.com/track/5g924DBWMk3Crw134IO0Sj"
     },
     {
       "added_at": null,
@@ -471,22 +487,6 @@
       "duration_ms": 210546,
       "name": "Fish Out Of Water",
       "url": "https://open.spotify.com/track/05l9Tn84hsMBO95rBnyMj7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 351026,
-      "name": "IMN",
-      "url": "https://open.spotify.com/track/5g924DBWMk3Crw134IO0Sj"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
       "duration_ms": 196866,
       "name": "Central Disposal",
       "url": "https://open.spotify.com/track/2NUeBUhxW4dmreJbHce5Ws"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Beginning Of All Things To End",
-        "url": "https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 82000,
-      "name": "Poop Loser",
-      "url": "https://open.spotify.com/track/0HHbwcOTYogbpzi38WrM5K"
     }
   ],
   "unique_name": "This Is Mudvayne",

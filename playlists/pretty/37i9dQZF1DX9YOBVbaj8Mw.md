@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,264 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,266 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 68 | [Jestem głodny](https://open.spotify.com/track/6qaBioF12imgy5o5uzfXMg) | [TSA](https://open.spotify.com/artist/1lf4FrrTMK1QsbXa4wrqZV) | [Live 2021](https://open.spotify.com/album/13kknTdU4y2kcRci2KApiN) | 3:56 |
 | 69 | [Tear](https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF) | [Tymek Papior](https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt) | [Rugs / Carpets](https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk) | 5:12 |
 | 70 | [Tatras](https://open.spotify.com/track/4wqezzclMc5BojbtQp0b8r) | [Piotr Wyleżoł](https://open.spotify.com/artist/6kFGf7LjZ4VWQoLDpV01Wx), [Andy Middleton](https://open.spotify.com/artist/3l4FSoJ0ryzsijXpfzRK0N), [Ferenc Nemeth](https://open.spotify.com/artist/4O5HLtQDOEZSd3bekZBIBB), [Michał Barański](https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A) | [I Love Music](https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj) | 7:23 |
-| 71 | [Welcome To The Forrest](https://open.spotify.com/track/2wlBxJQQAYfgHyJo4coG61) | [Lukasz Targosz](https://open.spotify.com/artist/1jVCUSiiEjd8RNkjLcLkQa) | [Diabeł \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2EqKEaj0aII5cEOT90J4V8) | 2:17 |
-| 72 | [Letila zozula czerez moju chatu](https://open.spotify.com/track/5kVJA3uPz9HJn2ZaQBosoT) | [Łukasz Ojdana](https://open.spotify.com/artist/24FTXRoseBamWaThnQ6H1F), [DREVO](https://open.spotify.com/artist/68ia1N3xOWMVUlGe7u4hFT), [Mariia Ojdana](https://open.spotify.com/artist/5SlqX2gNJBLGHpZn8dmJAT) | [Wędrujący Ptak](https://open.spotify.com/album/6rIbLAAY1oh8fniB0cStlA) | 2:37 |
+| 71 | [Letila zozula czerez moju chatu](https://open.spotify.com/track/5kVJA3uPz9HJn2ZaQBosoT) | [Łukasz Ojdana](https://open.spotify.com/artist/24FTXRoseBamWaThnQ6H1F), [DREVO](https://open.spotify.com/artist/68ia1N3xOWMVUlGe7u4hFT), [Mariia Ojdana](https://open.spotify.com/artist/5SlqX2gNJBLGHpZn8dmJAT) | [Wędrujący Ptak](https://open.spotify.com/album/6rIbLAAY1oh8fniB0cStlA) | 2:37 |
+| 72 | [Welcome To The Forrest](https://open.spotify.com/track/2wlBxJQQAYfgHyJo4coG61) | [Lukasz Targosz](https://open.spotify.com/artist/1jVCUSiiEjd8RNkjLcLkQa) | [Diabeł \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2EqKEaj0aII5cEOT90J4V8) | 2:17 |
 | 73 | [Boozing](https://open.spotify.com/track/2NZeUYUdcNljussjj0rkvZ) | [Henryk Miskiewicz](https://open.spotify.com/artist/76vMiiQed2ErHD9VMnl6Ie), [Chopin University Big Band](https://open.spotify.com/artist/1MYHzClHBMXiGszv6dVQeY), [Piotr Kostrzewa](https://open.spotify.com/artist/4Y6wgs2MdhYn22SQnsO4pB) | [Come back...](https://open.spotify.com/album/6admD4ZvV7VDYrJZ6jNE7v) | 6:03 |
 | 74 | [Bonzer](https://open.spotify.com/track/1914NxEjaK9z3xQgw228Rc) | [Tomasz Dąbrowski](https://open.spotify.com/artist/4cMrE5WUrsp0aWwGk7s2RC), [The Individual Beings](https://open.spotify.com/artist/7KrJJz5yz5HoJlK7j7M6Gz) | [Better](https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao) | 5:38 |
 | 75 | [Blue Hour](https://open.spotify.com/track/3cXAWUKMUREsKv9Gno7s06) | [Piotr Wyleżoł](https://open.spotify.com/artist/6kFGf7LjZ4VWQoLDpV01Wx), [Andy Middleton](https://open.spotify.com/artist/3l4FSoJ0ryzsijXpfzRK0N), [Ferenc Nemeth](https://open.spotify.com/artist/4O5HLtQDOEZSd3bekZBIBB), [Michał Barański](https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A) | [I Love Music](https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj) | 9:37 |

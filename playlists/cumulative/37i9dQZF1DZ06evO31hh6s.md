@@ -4,7 +4,7 @@
 
 > This is Young Noble\. The essential tracks, all in one playlist.
 
-85 songs - 5 hr 43 min
+86 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [IMMORTALIZED](https://open.spotify.com/track/5IKnQVhGUxRnviKa8pk37T) | [Mr\. ESQ](https://open.spotify.com/artist/3PFvR6hD2fa1pCuV4cHHpC), [details](https://open.spotify.com/artist/5QX6VHqB9TBFQL3t1nek8I), [Livant](https://open.spotify.com/artist/3ysWeSCcHO7Cw1jnOk6cun), [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [ISLAND ROYALTY VOL 2 V.I.KINGS](https://open.spotify.com/album/5Ubd4BITMTAylgM1QENEc7) | 5:01 | 2025-09-04 |  |
 | [Last Official Outlaw](https://open.spotify.com/track/5sztZWvmDxbDHaYiBR3NBZ) | [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [Outlaw University](https://open.spotify.com/album/5CIusXHEtiDOQfAuFYwwBA) | 3:10 | 2025-07-08 |  |
 | [Let It Rain](https://open.spotify.com/track/1TWhHnLrwWPts8mQMWseQ3) | [2nd Chance](https://open.spotify.com/artist/29lnEdxtgHW9mHnfR52a4N), [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS), [Dougie](https://open.spotify.com/artist/0ENrY7KVF6HNbXEi9Twn70) | [The Fathers Love](https://open.spotify.com/album/5FEEJ9q33KZJ17YLwLE6ud) | 4:17 | 2025-07-08 |  |
-| [Letter To DMX](https://open.spotify.com/track/3aP4lUvQGpzYhnZNoslgJ3) | [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [The Last Outlaw](https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2) | 2:54 | 2025-07-08 |  |
+| [Letter To DMX](https://open.spotify.com/track/3aP4lUvQGpzYhnZNoslgJ3) | [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [The Last Outlaw](https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2) | 2:54 | 2025-07-08 | 2025-09-17 |
 | [Lift Me Up](https://open.spotify.com/track/4oMBfmrfIywZSyhNWxzNLp) | [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS), [Deuce Deuce](https://open.spotify.com/artist/076I9mh0LL6igSU0alHNzF) | [Purpose](https://open.spotify.com/album/0LoLLKMlLm2nO0lcSVJWp8) | 2:55 | 2025-07-23 | 2025-07-26 |
 | [Lighters Up](https://open.spotify.com/track/3zHJLuOdJ9NtHuPCz9elpz) | [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR), [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [Thug Brothers 3](https://open.spotify.com/album/7AR4zvTtBpjKY1Xo32q59i) | 3:49 | 2025-07-08 |  |
 | [Lion's Den \(feat\. E.D.I\. Mean\)](https://open.spotify.com/track/7eVcZxtKmJSZqJ2D4evmOv) | [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS), [Deuce Deuce](https://open.spotify.com/artist/076I9mh0LL6igSU0alHNzF), [E.D.I\. Mean](https://open.spotify.com/artist/2PLfAUDdt1zaP2rPvJ0L1m) | [Watch the Signs](https://open.spotify.com/album/2s0i0w7Lnv63uxDMrOOMxd) | 3:33 | 2025-09-12 | 2025-09-16 |
@@ -86,6 +86,7 @@
 | [The Price](https://open.spotify.com/track/1DfoMRdzLHBDHQVOKG7gK4) | [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [Son of God](https://open.spotify.com/album/3urVMZt4Oej0afNgNRuJuD) | 3:00 | 2025-07-08 | 2025-09-06 |
 | [The Uppercut](https://open.spotify.com/track/1SgENhaSaWJ9OWci6zRAvD) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [E.D.I\. Mean](https://open.spotify.com/artist/2PLfAUDdt1zaP2rPvJ0L1m), [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:50 | 2025-07-08 |  |
 | [Thug Poetry](https://open.spotify.com/track/4NJIRGhw8hE9iRWRGjK3qi) | [Twarkka](https://open.spotify.com/artist/06hDuLXESGCefDU83rFtPf), [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [Thug Poetry](https://open.spotify.com/album/6RhNsTGddVWWHiEVzH0tco) | 2:42 | 2025-07-08 |  |
+| [Trauma](https://open.spotify.com/track/4IV4gSHLrVzTsMUaatmYZg) | [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS), [Deuce Deuce](https://open.spotify.com/artist/076I9mh0LL6igSU0alHNzF) | [Watch the Signs](https://open.spotify.com/album/2s0i0w7Lnv63uxDMrOOMxd) | 2:54 | 2025-09-17 |  |
 | [UMotherfuckerU](https://open.spotify.com/track/4kaNicV2wiezVeeyPL498c) | [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [The Last Outlaw](https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2) | 5:01 | 2025-08-08 | 2025-09-11 |
 | [Ungrateful \(feat\. Paris Roze & Tony Atlanta\)](https://open.spotify.com/track/1tMtQwxPmYVELaHheAo4GA) | [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS), [Paris Roze](https://open.spotify.com/artist/0huP96QICeCs0KjnxhF8Rq), [Tony Atlanta](https://open.spotify.com/artist/464oVisu16xuGYQjMHmh3Y) | [3rd Eye View](https://open.spotify.com/album/6hiTcXU77SCZCmuCaPTZRX) | 4:00 | 2025-07-08 |  |
 | [Unstoppable \(feat\. Big Tray Deee\)](https://open.spotify.com/track/1t071Y9hpKIHJ07476mv7E) | [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS), [Big Tray Deee](https://open.spotify.com/artist/0P8gFUTmPZPaLWNHfEBKwc) | [Outlaw University](https://open.spotify.com/album/5CIusXHEtiDOQfAuFYwwBA) | 3:30 | 2025-07-08 |  |

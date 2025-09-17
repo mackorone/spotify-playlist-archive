@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > Champion Sounds\. Winners' anthems\. Curated by Super Falcons' Michelle Alozie
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,736 likes - 52 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,747 likes - 52 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 5 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 |
 | 6 | [Euphoria](https://open.spotify.com/track/4JkGXXDD5q3uU6GstynHYx) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [The Big 6](https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX) | 3:17 |
 | 7 | [American Love](https://open.spotify.com/track/2pTdbTxhJeygDc3rOxNWFY) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema Compilation](https://open.spotify.com/album/0FWlT1szHKSCPkIkXAJFKL) | 2:20 |
-| 8 | [Fame \- A COLORS ENCORE](https://open.spotify.com/track/2QvH1FPHBBWRYA0K9X89le) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Fame \- A COLORS ENCORE](https://open.spotify.com/album/2ftWbyBuXI9qbHG5GkeUlL) | 1:51 |
+| 8 | [Fame \- A COLORS ENCORE](https://open.spotify.com/track/2QvH1FPHBBWRYA0K9X89le) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Fame \- A COLORS ENCORE](https://open.spotify.com/album/2ftWbyBuXI9qbHG5GkeUlL) | 1:51 |
 | 9 | [Uptown Disco](https://open.spotify.com/track/7vdGiPrjK0gJBoZE8UhDMJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 3:59 |
 | 10 | [hell and back](https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 2:41 |
 | 11 | [Louder \(feat\. Ayo Maff & Bella Shmurda\)](https://open.spotify.com/track/5nRbkLjmA6IoeJ8megl81f) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Louder \(feat\. Ayo Maff & Bella Shmurda\)](https://open.spotify.com/album/2nN525asSdy0tXZiqq0jBw) | 3:55 |

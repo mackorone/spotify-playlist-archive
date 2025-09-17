@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 12,590 likes - 22 songs - 1 hr 37 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 12,592 likes - 22 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 17 | [Bang Bien](https://open.spotify.com/track/4gxRIqjkYFwdzcV88KonkR) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Bang Bien](https://open.spotify.com/album/1bPRVeicOOrQtFg74jMusE) | 4:05 |
 | 18 | [Setting Yourself Up For Love](https://open.spotify.com/track/4HYxKmBlwMk1vZXDP94B1F) | [Ashes And Diamonds](https://open.spotify.com/artist/3VMe75pbM6LHGqeoZRuguK) | [Setting Yourself Up For Love](https://open.spotify.com/album/0ZXUpeOJbQ1Niwub8XAA8X) | 3:36 |
 | 19 | [Stone Shadow](https://open.spotify.com/track/2jmKF042bzcaEmcSUVrCv4) | [Glyders](https://open.spotify.com/artist/3vgdmH6Q6pCVsQbDanBHoV) | [Stone Shadow](https://open.spotify.com/album/24QSXS1BvjCmnilKCtuW9r) | 4:03 |
-| 20 | [Refresh](https://open.spotify.com/track/3vB73MV91lZgfHQ8DztNuC) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Refresh](https://open.spotify.com/album/1jJIpGlUoeQzMPWm95KOj4) | 2:35 |
+| 20 | [Refresh](https://open.spotify.com/track/3vB73MV91lZgfHQ8DztNuC) | [Sebastien Tellier](https://open.spotify.com/artist/0QBfQi4T3cDGYCY8sWNBxe) | [Refresh](https://open.spotify.com/album/1jJIpGlUoeQzMPWm95KOj4) | 2:35 |
 | 21 | [I want you](https://open.spotify.com/track/5FCGnOZ98vkxwsfr179eag) | [The Hidden Cameras](https://open.spotify.com/artist/6qJSWLT4bvL49hEyXxc3G9) | [BRONTO](https://open.spotify.com/album/0eNvJ2HnYCCTmzW0nA2yzb) | 4:21 |
 | 22 | [Layered Presence](https://open.spotify.com/track/2HFo8V3OEvf3OJVOLxVlrM) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [Layered Presence](https://open.spotify.com/album/0wWzqGccbUKwtPZuVo5Y6h) | 3:07 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Yng Lvcas bufando
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,383 likes - 83 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,446 likes - 83 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

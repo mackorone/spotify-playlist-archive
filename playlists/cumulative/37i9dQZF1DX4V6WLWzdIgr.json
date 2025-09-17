@@ -623,6 +623,24 @@
     },
     {
       "album": {
+        "name": "Gathel",
+        "url": "https://open.spotify.com/album/3lxkWOmAJK7JDNYPmV6zVs"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214291,
+      "name": "Gathel",
+      "url": "https://open.spotify.com/track/3hesT62JpYMsWJv46GrX8v"
+    },
+    {
+      "album": {
         "name": "Gede Roso",
         "url": "https://open.spotify.com/album/5CnwfcvfEAJyAImoXTPJtu"
       },
@@ -2016,7 +2034,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 253691,
       "name": "Sebatas Friendly",
       "url": "https://open.spotify.com/track/2pMwqwUIKr2Il7ut4PsVAR"
@@ -2406,7 +2424,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 346444,
       "name": "Wegah Pisah",
       "url": "https://open.spotify.com/track/3Wqr2RXL6msDIuJM1m0UNW"

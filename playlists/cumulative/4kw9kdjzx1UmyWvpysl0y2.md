@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,071 songs - 2 day 11 hr 58 min
+1,072 songs - 2 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -894,6 +894,7 @@
 | [Sun \- Angara Mix](https://open.spotify.com/track/6F4luCQcD7bwlHXX2XhPa5) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3), [Gregory Esayan](https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy) | [Sun \(The Remixes\)](https://open.spotify.com/album/3htJohEasfEYdfKZ3E7EIb) | 3:12 | 2024-12-17 | 2025-03-26 |
 | [Sunflowers](https://open.spotify.com/track/5R5oXUlnzXfQZUnbNZz2Dm) | [Seawayz](https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr) | [Sunflowers](https://open.spotify.com/album/5Fv4WJupGWoHOMEJZddOR4) | 3:32 | 2023-02-24 | 2023-05-18 |
 | [Sunlight](https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Sunlight](https://open.spotify.com/album/7qPdbWFcEIHUkVMdRdP6kJ) | 3:50 | 2022-02-23 | 2022-05-06 |
+| [Sunrise](https://open.spotify.com/track/59Iv8sTgb7XjG1sydJTwdk) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF) | [Sunrise](https://open.spotify.com/album/7FZCcXAeHZR34WCt1w2aBm) | 3:26 | 2025-09-16 |  |
 | [SURFACE](https://open.spotify.com/track/00byVYVEufxOA9qwRwKdBN) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b), [Adalaide Adams](https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC) | [SURFACE](https://open.spotify.com/album/4ujOWQN1rcL5cc3EPQ8wo7) | 2:12 | 2025-06-11 | 2025-09-06 |
 | [Surge](https://open.spotify.com/track/1rBcquk3vLXxSvDl0JSeTY) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [Surge](https://open.spotify.com/album/2BgT3BAKshSa5T98Q5rZds) | 3:40 | 2025-04-25 | 2025-07-22 |
 | [Surge \- No Mana Remix](https://open.spotify.com/track/6TrYEKAiC0y71cqplcn0Yy) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Surge \(No Mana Remix\)](https://open.spotify.com/album/6xgYencWHzm6ZKKzUtqPTR) | 3:30 | 2025-06-04 | 2025-08-28 |

@@ -3484,7 +3484,7 @@
       ],
       "date_added": "2021-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-24",
+      "date_removed": null,
       "duration_ms": 186400,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/2S13g8BhBuFzkGpwDw1ONM"
@@ -15039,6 +15039,32 @@
     },
     {
       "album": {
+        "name": "Fendi (Remix)",
+        "url": "https://open.spotify.com/album/1DCE2Wz0YDvGrOu6ICm2Ul"
+      },
+      "artists": [
+        {
+          "name": "Hellfield",
+          "url": "https://open.spotify.com/artist/0PN0H94fqF9G9FiJrw1R3Q"
+        },
+        {
+          "name": "Macias",
+          "url": "https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho"
+        },
+        {
+          "name": "CrackHouse",
+          "url": "https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141230,
+      "name": "Fendi - Remix",
+      "url": "https://open.spotify.com/track/5vyQGHpbfZkw1TtLn1v2qR"
+    },
+    {
+      "album": {
         "name": "FENOMENALNY STYL",
         "url": "https://open.spotify.com/album/5LbNWLb5mQWtbMFb9DUuPb"
       },
@@ -18826,7 +18852,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 176059,
       "name": "How It\u2019s Done",
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
@@ -22792,7 +22818,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-05",
+      "date_removed": null,
       "duration_ms": 192122,
       "name": "Kiedy umr\u0119 kochanie (H. Po\u015bwiatowska)",
       "url": "https://open.spotify.com/track/2PB5GjIi4EC3XYsanvpysO"
@@ -29342,7 +29368,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 179571,
       "name": "Multisport",
       "url": "https://open.spotify.com/track/1ZIscVoYHftgA5STle5cPo"
@@ -44624,7 +44650,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -52548,7 +52574,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 191537,
       "name": "Your Idol",
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
@@ -52730,7 +52756,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 170624,
       "name": "Z TY\u0141U G\u0141OWY",
       "url": "https://open.spotify.com/track/6zpsWkV2EMMjIJhGE6b62d"

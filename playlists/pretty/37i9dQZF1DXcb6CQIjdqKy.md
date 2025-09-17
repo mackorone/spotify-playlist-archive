@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,631,060 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,631,082 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 75 | [HOLYGHOST](https://open.spotify.com/track/6iz66XKAS4xVSDAHRa77Bj) | [Sons Of Sunday](https://open.spotify.com/artist/4xdrIk3HcWXiRifZnnpG5O) | [Sons Of Sunday](https://open.spotify.com/album/0uGwOI1g9VLHVZtaGh2X9w) | 4:38 |
 | 76 | [You & Me](https://open.spotify.com/track/2SKn74eH7TukmmWCIRrrPp) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [You & Me](https://open.spotify.com/album/3OGu7hRk9AmV0GvBDXIJZA) | 3:18 |
 | 77 | [Ebenezer](https://open.spotify.com/track/7AVUn7XDkSjcKLzoHze8kQ) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Ebenezer](https://open.spotify.com/album/37iJDRDQcjPE0SMGKtNp5y) | 5:16 |
-| 78 | [I Want Jesus \- Live](https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y) | [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [I Want Jesus \(Live\)](https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0) | 6:09 |
+| 78 | [I Want Jesus \- Live](https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [I Want Jesus \(Live\)](https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0) | 6:09 |
 | 79 | [Our God Reigns \(Over All The Earth\) \- Live](https://open.spotify.com/track/6AZ5rlcvoh3VHG7A6dgUuB) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Our God Reigns \(Over All The Earth\) \[Live\]](https://open.spotify.com/album/6mSgVWFisouBbLnSvvX9pl) | 9:23 |
 | 80 | [Dying To Be Different \- Live](https://open.spotify.com/track/05y8D3zdTeBjo8t0aVh4kx) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Dying To Be Different \(Live\)](https://open.spotify.com/album/3OyKUyNPeemPdyxAFhohgn) | 4:27 |
 | 81 | [Thank You Isn't Enough](https://open.spotify.com/track/71q7eCkLuNA2AJis2Zftgy) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq), [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK) | [Thank You Isn't Enough](https://open.spotify.com/album/2tL8YH2sbW8cTCUxz89Lsk) | 3:06 |

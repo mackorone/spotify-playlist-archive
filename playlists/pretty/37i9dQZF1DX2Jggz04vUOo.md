@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,285 likes - 93 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,326 likes - 93 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 20 | [Bilboquet \(Sirba\)](https://open.spotify.com/track/2OqHwg8IeV5xOzh4HBTaYC) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC) | 3:16 |
 | 21 | [Alabora \- Foxall Pale Blue Remix](https://open.spotify.com/track/32hpq6FjVS2QrE5Z0q8Ffa) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo), [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [Alabora](https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O) | 7:50 |
 | 22 | [Melancolía \- WALTHER & OliO Extended Remix](https://open.spotify.com/track/6DiEFgsIrF7nds0c3RdjQ9) | [Jacob Gurevitsch](https://open.spotify.com/artist/1h9GstBf9XSQT3jzZqt3vH), [Buika](https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy), [OliO](https://open.spotify.com/artist/2v6bV7Uez5MobbfVPaDwCN), [WALTHER](https://open.spotify.com/artist/4ubJTb2psOOKpUmglNcrFN) | [Melancolía](https://open.spotify.com/album/3t1nJysps2w1UHR5XaPPjT) | 8:54 |
-| 23 | [Yuxibu Kaya \- Kareem Raïhani Remix](https://open.spotify.com/track/6CmeOXispOceYvircqkskb) | [George Barker](https://open.spotify.com/artist/4MZHxAdbR5EL1kqaUymz0u), [Kareem Raihani](https://open.spotify.com/artist/0qyEyMZwiI3lt54j5RwB5h) | [Yuxibu Kaya \(Kareem Raïhani Remix\)](https://open.spotify.com/album/2kvH9QmpGe0YQZdTiTGtVQ) | 9:16 |
+| 23 | [Yuxibu Kaya \- Kareem Raïhani Remix](https://open.spotify.com/track/6CmeOXispOceYvircqkskb) | [George Barker](https://open.spotify.com/artist/7mwxF8i7CEXkFBkyNSAenj), [Kareem Raihani](https://open.spotify.com/artist/0qyEyMZwiI3lt54j5RwB5h) | [Yuxibu Kaya \(Kareem Raïhani Remix\)](https://open.spotify.com/album/2kvH9QmpGe0YQZdTiTGtVQ) | 9:16 |
 | 24 | [Una Tribu](https://open.spotify.com/track/1gEQaQMR0O0dnLlK1lHNdi) | [Janax Pacha](https://open.spotify.com/artist/3BHXRZv18jHRR8RDuSq9gK), [Alunawachuma](https://open.spotify.com/artist/2THY8EnAFycgA11dsISzlA), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Una Tribu](https://open.spotify.com/album/0UwfRMLsgiGAiFg2k6TtI1) | 7:28 |
 | 25 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 |
 | 26 | [Phoebe](https://open.spotify.com/track/7ot5hilvJL7f0XynSxgpzN) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Light, West](https://open.spotify.com/album/2942biAKKQFqcATNWMzsFT) | 4:37 |

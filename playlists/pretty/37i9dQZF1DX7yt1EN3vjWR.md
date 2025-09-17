@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 【全セットリストを再現】2025年5月24日\(土\), 25日\(日\)に幕張メッセで開催された国内最大規模のヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>のセットリストをプレイリストで再現。
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,549 likes - 253 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,557 likes - 253 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 60 | [Sagging My Jeans \(feat\. Lil Ash Zange & Tohji\)](https://open.spotify.com/track/7IdJ0etPnVFQg6teIH21kj) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Lil Ash ZANGE](https://open.spotify.com/artist/6CeSgCO0SRpwqhTOCPKvKM), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Sagging My Jeans \(feat\. Lil Ash Zange & Tohji\)](https://open.spotify.com/album/1JV4fJ5l4dqhbm1RPUkLBB) | 3:16 |
 | 61 | [TRAUMA \(feat\. ralph\)](https://open.spotify.com/track/6k9U6uJalcRSFO2NlCe3b2) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [DESTRUCTION](https://open.spotify.com/album/5cYF9urp3MTom5FRlPcZrK) | 2:54 |
 | 62 | [DOSHABURI \(feat\. JUMADIBA\)](https://open.spotify.com/track/48j84TDxK9AMxsS97EUFTV) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [DESTRUCTION](https://open.spotify.com/album/5cYF9urp3MTom5FRlPcZrK) | 2:41 |
-| 63 | [DOSHABURI \- PAS TASTA Remix](https://open.spotify.com/track/3viw0dgiavzIFmsQeFsm3r) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [DOSHABURI \(feat\. JUMADIBA\) \[PAS TASTA Remix\]](https://open.spotify.com/album/13FVOSJLA7OHIN3A0Hy8Lr) | 2:58 |
+| 63 | [DOSHABURI \(feat\. JUMADIBA\) \- PAS TASTA Remix](https://open.spotify.com/track/3viw0dgiavzIFmsQeFsm3r) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [DOSHABURI \(feat\. JUMADIBA\) \[PAS TASTA Remix\]](https://open.spotify.com/album/13FVOSJLA7OHIN3A0Hy8Lr) | 2:58 |
 | 64 | [Forever Young \(feat\. BIM & WILYWNKA\)](https://open.spotify.com/track/0FKPQKdNQWVYg6S3SGRF4p) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy) | [DESTRUCTION](https://open.spotify.com/album/5cYF9urp3MTom5FRlPcZrK) | 3:35 |
 | 65 | [Walk In Water](https://open.spotify.com/track/1oQdve0CyA5yCBEe43LspB) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [Walk In Water](https://open.spotify.com/album/6ETsBr7zYRKgi5IHbUzwCt) | 3:03 |
 | 66 | [Aquarius Heaven](https://open.spotify.com/track/3WgytQPDkNKgrfKeG3tlxa) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [Aquarius Heaven](https://open.spotify.com/album/5DaH75DKDxsPNBAai6LXLR) | 2:52 |

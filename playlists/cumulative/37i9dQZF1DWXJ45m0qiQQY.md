@@ -4,7 +4,7 @@
 
 > chilling beats for haunted vibes.
 
-84 songs - 2 hr 54 min
+86 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Haunted Castle](https://open.spotify.com/track/6o3LoQasybBg2wGldqJkui) | [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [Marvin Frey](https://open.spotify.com/artist/1ay8QiQk931SyvOAsGuqOM), [Odd Panda](https://open.spotify.com/artist/0Sd0BsazzL4j7U88C3v2iB) | [Haunted Castle](https://open.spotify.com/album/1FTN1wsJ8gAKLcy96j2Mdq) | 2:26 | 2024-10-18 |  |
 | [Haunted Chill](https://open.spotify.com/track/0g3RhDD20tOhvyPapaY4Pk) | [Howtodie](https://open.spotify.com/artist/4XVDSQtpwsFt4UdTIcBW11) | [A Lofi Chill Halloween](https://open.spotify.com/album/6qGsZqAsyOerkRALDUlE9U) | 1:25 | 2024-10-18 |  |
 | [Haunted House](https://open.spotify.com/track/7dnDEYl28xeepWeobKuBMr) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53), [Corey J\. Beats](https://open.spotify.com/artist/0CpOAY2TliyvzxykFggFVS) | [Haunted House](https://open.spotify.com/album/51yJCSSjOXhuxZmjR6tPTC) | 2:24 | 2024-10-18 |  |
+| [Haunted Neighborhood](https://open.spotify.com/track/0rpreVIOIMoChfLF14jE7B) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v) | [Haunted Neighborhood](https://open.spotify.com/album/1ukYu4sB2k7KWrb7MYbA0l) | 1:54 | 2025-09-16 |  |
 | [Haunted Party](https://open.spotify.com/track/2BcSlshrXASLBY9kPjDGRz) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Alto](https://open.spotify.com/artist/1qxsFKTu2u0qvv0fqNRv3r), [Spooky Cat](https://open.spotify.com/artist/0MWyqO32UljJi5J59mSzme) | [Halloween Vibes Vol.3](https://open.spotify.com/album/37PmVSez3koGTLr2ZmUgvJ) | 1:53 | 2024-10-18 | 2024-12-10 |
 | [Haunted Woods](https://open.spotify.com/track/6cYrM33j56dHQmj7P1f4RR) | [eva gomi tenshi](https://open.spotify.com/artist/7JBpVroVCsNZPJeuUMtLnI) | [Trick or Treat?](https://open.spotify.com/album/3XPbg1KbHdfJS6klfUgE6i) | 2:09 | 2024-10-18 |  |
 | [hello\-in.](https://open.spotify.com/track/52KoDdEtA2Tv4sComGsOm1) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [hello\-in.](https://open.spotify.com/album/3clqp0nUFxJ2tzatmuCbhh) | 2:19 | 2024-10-18 |  |
@@ -62,6 +63,7 @@
 | [Lonely Ghost](https://open.spotify.com/track/6k1V6tJEyaOuKc6S0KE1gn) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Nadav Cohen](https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S), [Spooky Cat](https://open.spotify.com/artist/0MWyqO32UljJi5J59mSzme) | [Halloween Vibes Vol.3](https://open.spotify.com/album/37PmVSez3koGTLr2ZmUgvJ) | 2:00 | 2024-10-18 |  |
 | [Lunar Howl](https://open.spotify.com/track/0hXCgN9wekef7yFJjJY1Zw) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Spooky Tunes \- Halloween 2024](https://open.spotify.com/album/6hMFYn2AX8mHJ8oXzOVMr6) | 1:37 | 2024-10-18 |  |
 | [Moonlight Mansion](https://open.spotify.com/track/2rPcYGcMXsEe8GqpUCKEm0) | [l'eupe](https://open.spotify.com/artist/67AA1XRZU4GSLZQe83BVk9) | [Pumpkin Season](https://open.spotify.com/album/7ikKaYmnTQvyeB6WABTam3) | 1:49 | 2024-10-18 |  |
+| [Moonlit Manor](https://open.spotify.com/track/762rCvQoXX3LMgVez1kvf5) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Moonlit Manor](https://open.spotify.com/album/4C31XMPi54vouEbN5PzrC6) | 2:01 | 2025-09-16 |  |
 | [Necropolis](https://open.spotify.com/track/3VenXudKEYaL6T1wf5wf8n) | [Odem Medo](https://open.spotify.com/artist/6LhkZAXeIA7HiigDvecUcI) | [Pumpkin Pandemonium!](https://open.spotify.com/album/1kbUdz4diMMlCOqEXg6cA1) | 2:14 | 2024-10-18 |  |
 | [nightmare & happy end](https://open.spotify.com/track/2Aby270p4a0aVnJVklpDmq) | [Jinja Citizen](https://open.spotify.com/artist/1ow3MmIPh8Rpo1x9v0MXf9), [Chilled Cat](https://open.spotify.com/artist/3itPIBjRCrJmrDgwCRYRHl), [Spooky Cat](https://open.spotify.com/artist/0MWyqO32UljJi5J59mSzme) | [Halloween Vibes Vol.1](https://open.spotify.com/album/1r0SImrof5Zpc3RoFwO5vu) | 2:52 | 2024-10-18 |  |
 | [no escape](https://open.spotify.com/track/0zDQhi2Zmp8fb1UANtDKzp) | [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ), [brrt](https://open.spotify.com/artist/1R7fJ5VCICKss7K0as6jkS) | [Night of the Living Drum Machines: Spooky Halloween Lofi](https://open.spotify.com/album/1GeDaKfOn7AYnxO73YaeTd) | 2:12 | 2024-10-18 |  |

@@ -2317,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "Autumn Evening",
+        "url": "https://open.spotify.com/album/2ewoWNBftenaL7RH1thLHu"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60306,
+      "name": "Autumn Evening",
+      "url": "https://open.spotify.com/track/06cKPz5hjDzmAwOJGon53i"
+    },
+    {
+      "album": {
         "name": "Autumn Light",
         "url": "https://open.spotify.com/album/2726iiffCUJnbWWvhpYDKQ"
       },
@@ -5108,6 +5126,24 @@
       "duration_ms": 62894,
       "name": "Brief Shadows",
       "url": "https://open.spotify.com/track/1dj0xydfQ9N73UVWLypRDk"
+    },
+    {
+      "album": {
+        "name": "Bright Day",
+        "url": "https://open.spotify.com/album/5RXR3JLozwBoIIlfuRg98M"
+      },
+      "artists": [
+        {
+          "name": "Harp Flow",
+          "url": "https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60204,
+      "name": "Bright Day",
+      "url": "https://open.spotify.com/track/1gBgDFqJMhJ0vjkeUqgIFZ"
     },
     {
       "album": {

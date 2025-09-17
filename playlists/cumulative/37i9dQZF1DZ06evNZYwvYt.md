@@ -4,7 +4,7 @@
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-133 songs - 9 hr 27 min
+135 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,9 @@
 | [Adios](https://open.spotify.com/track/6Zd7gXBKgMXPXW2ds3Krah) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 3:53 | 2025-05-07 |  |
 | [Ahora Me Toca a Mi](https://open.spotify.com/track/7IKsUBs0cOCWoWnnzpwHCX) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe) | 3:56 | 2025-04-16 |  |
 | [Ahora me toca a mi](https://open.spotify.com/track/7xMIUfFqhpXnXmG1Mv97xd) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 3:56 | 2022-09-16 | 2025-04-16 |
-| [Antídoto](https://open.spotify.com/track/0DT3NABxqWZ4xCHWQE6oej) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl) | 3:47 | 2025-04-16 |  |
+| [Antídoto](https://open.spotify.com/track/0DT3NABxqWZ4xCHWQE6oej) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl) | 3:47 | 2025-04-16 | 2025-09-17 |
 | [Antídoto](https://open.spotify.com/track/1exVXnvmE8IrjR3PEKlixx) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:47 | 2022-09-16 | 2025-04-16 |
+| [Antídoto](https://open.spotify.com/track/6UpFofjmS8vuKUq7POAote) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg) | 3:47 | 2025-09-17 |  |
 | [Asfixiar](https://open.spotify.com/track/6BELut3GHFznGKbftZC8qu) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 3:38 | 2025-05-07 |  |
 | [Axfixiar](https://open.spotify.com/track/0BH9WwsHL55n1TJFA3z3Rv) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 3:36 | 2023-12-20 | 2025-04-12 |
 | [Axfixiar](https://open.spotify.com/track/2z1p9XLZXpqIvM198gZNNc) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/5O1IwyjsRHOBf4GVsAtMp3) | 3:36 | 2025-04-12 | 2025-05-07 |
@@ -100,8 +101,9 @@
 | [Partido en dos](https://open.spotify.com/track/21Zlc2QEzEKkGy6U7TtuP5) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 4:20 | 2022-09-16 | 2025-04-13 |
 | [Partido en dos](https://open.spotify.com/track/2Am84biA6kpboEJuQV0wLi) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/5O1IwyjsRHOBf4GVsAtMp3) | 4:20 | 2025-04-13 | 2025-05-07 |
 | [Partido en Dos](https://open.spotify.com/track/6ENcwJdYx9fA3NG3MrYZrH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 4:22 | 2025-05-07 |  |
-| [Perdóname](https://open.spotify.com/track/1XJSn6O6dLED8RJYWscajo) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl) | 3:47 | 2025-04-15 |  |
+| [Perdóname](https://open.spotify.com/track/1XJSn6O6dLED8RJYWscajo) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl) | 3:47 | 2025-04-15 | 2025-09-17 |
 | [Perdóname](https://open.spotify.com/track/5Old2vvcl089PeN4o995b9) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:47 | 2022-09-16 | 2025-04-15 |
+| [Perdóname](https://open.spotify.com/track/7MdMyVXQ3FVprk7htpv11E) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg) | 3:47 | 2025-09-17 |  |
 | [Que pena siente el alma](https://open.spotify.com/track/62QHlRTwHX7cocYq2F4cIg) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Después De Vivir Un Siglo](https://open.spotify.com/album/2YnqGvMaZ81fgdiYUrYPzN) | 4:14 | 2022-09-16 | 2022-10-13 |
 | [Quiero hacerte feliz](https://open.spotify.com/track/0kOQ22oq5WleyioXFhTUSq) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 3:51 | 2022-09-16 | 2025-04-12 |
 | [Quiero hacerte feliz](https://open.spotify.com/track/7KVwAWkgU01pXozdfEQjE9) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/5O1IwyjsRHOBf4GVsAtMp3) | 3:51 | 2025-04-12 | 2025-05-07 |

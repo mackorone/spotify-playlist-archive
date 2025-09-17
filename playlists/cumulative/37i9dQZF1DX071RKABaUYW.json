@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Boyface",
+        "url": "https://open.spotify.com/album/4qRwG0dauaqghab1ATynTw"
+      },
+      "artists": [
+        {
+          "name": "PVA",
+          "url": "https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196942,
+      "name": "Boyface",
+      "url": "https://open.spotify.com/track/6cod1i5SSMl8JU2clDaXgZ"
+    },
+    {
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/5AwxyJ0KmVm17VWaH1Hybu"
       },

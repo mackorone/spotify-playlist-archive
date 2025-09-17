@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Caskets
 
-1,337 songs - 3 day 9 hr 45 min
+1,339 songs - 3 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Cut Throat](https://open.spotify.com/track/2sICZQ4Ixmet50hroTflc3) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Cut Throat](https://open.spotify.com/album/4NKyOHHQpw04ELBF9w5bur) | 3:07 | 2022-05-20 | 2022-07-23 |
 | [CYBERGIRL](https://open.spotify.com/track/6kImeXtSlXZeRfseKA5XA7) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [CYBERGIRL](https://open.spotify.com/album/60EXw9OWyY7SBXpDPAPIOX) | 3:33 | 2025-01-31 | 2025-05-03 |
 | [Cyberhex](https://open.spotify.com/track/5nYKbDASgvCDV4BLVmuGv4) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Lindsay Schoolcraft](https://open.spotify.com/artist/6ZLcdPSxw1fTYJlz3DLrSZ) | [Cyberhex](https://open.spotify.com/album/2mWmMlGC2JRcFzHHPGJhNA) | 4:35 | 2022-03-11 | 2022-04-15 |
+| [Cyclone](https://open.spotify.com/track/7pbnndpH911zmnBfInjD1u) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Cyclone](https://open.spotify.com/album/5FHXx7MbcJtdiQTWcNGhEi) | 4:02 | 2025-09-12 |  |
 | [CYNICAL SAVIOR](https://open.spotify.com/track/3fJAaXihvWxMVa1T2XzNsB) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [CYNICAL SAVIOR](https://open.spotify.com/album/79c1qw14jN0Xt6BSNNbfVu) | 3:24 | 2025-03-31 | 2025-06-08 |
 | [Cynicism](https://open.spotify.com/track/4GjtmSqCG46BgHltXa78PN) | [Slackjaw](https://open.spotify.com/artist/1Y4F23k7mxcA9Jxm9kpYlw) | [Cynicism](https://open.spotify.com/album/3Ov10cQRZTPb17pXIbygca) | 5:00 | 2021-12-17 | 2022-01-22 |
 | [D.N.R.](https://open.spotify.com/track/4i7VEzLgepdg2J5FTsnqUH) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Will Ramos](https://open.spotify.com/artist/0cKGJiHcOele76iiBqiSMR), [Ricky Hoover](https://open.spotify.com/artist/6BiPtQhhJgcAFyTpQIQm2I) | [D.N.R.](https://open.spotify.com/album/15lkO5OuZ4U90LUnAfYUxW) | 3:32 | 2022-07-13 | 2022-07-23 |
@@ -744,7 +745,7 @@
 | [Mass Produced](https://open.spotify.com/track/2gq5XvSm3XrbKmyV4m3wSX) | [Oceano](https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s) | [Mass Produced](https://open.spotify.com/album/48PMipn3cRGT6Ck9KCbV8w) | 3:01 | 2022-08-19 | 2022-11-05 |
 | [Masterpiece](https://open.spotify.com/track/2gF7u3yLBTy6vGrxwQBoGF) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Masterpiece](https://open.spotify.com/album/43DSae6Eotlll1LnAsFXAo) | 3:26 | 2022-04-15 | 2022-05-14 |
 | [Meat & Greet](https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Meat & Greet](https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp) | 3:30 | 2023-10-27 | 2024-08-26 |
-| [Melanchronic](https://open.spotify.com/track/0ZnJwflZTxlQxtQOzRlRBL) | [vianova](https://open.spotify.com/artist/01DWiz55UPC4lQOGIo4z5n) | [Melanchronic](https://open.spotify.com/album/0eYpyV6zS75rKwRFWAYRet) | 5:25 | 2025-03-31 |  |
+| [Melanchronic](https://open.spotify.com/track/0ZnJwflZTxlQxtQOzRlRBL) | [vianova](https://open.spotify.com/artist/01DWiz55UPC4lQOGIo4z5n) | [Melanchronic](https://open.spotify.com/album/0eYpyV6zS75rKwRFWAYRet) | 5:25 | 2025-03-31 | 2025-09-17 |
 | [Mercy](https://open.spotify.com/track/05pFSOQXBF9xEydmyBRU2R) | [Our Sorrows](https://open.spotify.com/artist/3WPkmecpxS1kHEWSiHgex2) | [Mercy](https://open.spotify.com/album/1ohjKFnDzXTdow3BX4JAIp) | 3:56 | 2022-04-01 | 2022-06-18 |
 | [Mindframe](https://open.spotify.com/track/5RSZLtJ4AzbggHqYLywVW7) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Mindframe](https://open.spotify.com/album/1tng5yz3AyNEX5nHLqycex) | 3:06 | 2024-12-18 |  |
 | [Mirrors](https://open.spotify.com/track/3a5xdf1nPYi8l0FsWBUtKz) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Mirrors](https://open.spotify.com/album/4h6GP84d0vn4JHFn9Dwb6V) | 4:22 | 2022-07-13 | 2022-07-21 |
@@ -1003,7 +1004,7 @@
 | [Shapeshifter](https://open.spotify.com/track/5iIsClVGHkiXNum4RBo0d5) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Shapeshifter](https://open.spotify.com/album/7ITUQA21n3ru9Nxej4pHrk) | 3:05 | 2024-11-22 | 2025-01-18 |
 | [Shimmer](https://open.spotify.com/track/5fuq9zEt8fMmwz66Ks9wrU) | [Avalanche Effect](https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb) | [Shimmer](https://open.spotify.com/album/69tKJT4Z6ddrF9uOFuJH9G) | 3:46 | 2022-06-17 | 2022-07-27 |
 | [Show Me Your God](https://open.spotify.com/track/0qE46rBnn5oz96RaAfnZHv) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Show Me Your God](https://open.spotify.com/album/6NNVcyPL17qA1ehI4ZgLnm) | 3:37 | 2022-12-02 | 2023-02-18 |
-| [Sidewinder](https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Sidewinder](https://open.spotify.com/album/3T8MDwZkCfPGGw5SByI38o) | 3:59 | 2025-04-25 |  |
+| [Sidewinder](https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Sidewinder](https://open.spotify.com/album/3T8MDwZkCfPGGw5SByI38o) | 3:59 | 2025-04-25 | 2025-09-17 |
 | [Siege Lord](https://open.spotify.com/track/4vmT3Rruzg7N0SCKJTI96u) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Siege Lord](https://open.spotify.com/album/3O1MrlUbcvMZgXlwbZKEuP) | 3:25 | 2024-05-10 | 2024-07-13 |
 | [Sign Of Life](https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:40 | 2022-06-10 | 2024-12-19 |
 | [Silence](https://open.spotify.com/track/5nCkU8SFcpmRMDSQ72Krd0) | [Empire Fall](https://open.spotify.com/artist/3LURa20zIKdXG4MHqz70zp) | [Silence](https://open.spotify.com/album/2KjHwgdCvcgmOBCA2jnxUY) | 3:28 | 2025-05-23 | 2025-08-16 |
@@ -1286,6 +1287,7 @@
 | [We Are No Saints](https://open.spotify.com/track/3BPdKJxzfJX63N7LYLDpI6) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [We Are No Saints](https://open.spotify.com/album/0LsCf8tIWzbZwfsIOJDkAg) | 3:10 | 2021-12-17 | 2022-02-11 |
 | [We Are The Dead \(feat\. Alex Terrible, Tom Barber\)](https://open.spotify.com/track/5dxYpCEtdy4koK4ziTRqma) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO), [Tom Barber](https://open.spotify.com/artist/0MDixv1DxDJce8r8uHOSOd) | [We Are The Dead](https://open.spotify.com/album/7J48Y0zeWr4VzD4Z9mECsK) | 3:43 | 2024-09-20 | 2025-08-24 |
 | [Weapon](https://open.spotify.com/track/0CGj0cu1kyQq08Zw5tt1Tt) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Weapon](https://open.spotify.com/album/4R2GKWF7ofLMXBoQhXzE3z) | 3:34 | 2022-04-08 | 2022-07-01 |
+| [Weaponize Your Rage](https://open.spotify.com/track/0jocpgTnZmTblWYDCWBXPw) | [Not Enough Space](https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK) | [Weaponize Your Rage](https://open.spotify.com/album/0foh5zGMkssbnxSFFgXRTN) | 2:56 | 2025-09-12 |  |
 | [Welcome To The Family](https://open.spotify.com/track/6czp5Vwc73Ecb4R3k6xd73) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Welcome To The Family](https://open.spotify.com/album/14JWHnuzOJDmzClEdRyyjM) | 2:36 | 2025-09-05 |  |
 | [welcome2paradise](https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [welcome2paradise](https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq) | 4:46 | 2023-05-22 | 2024-08-26 |
 | [Werewolf](https://open.spotify.com/track/1e1rQNYCZToyBDDka1Io34) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:32 | 2023-02-17 | 2023-04-22 |

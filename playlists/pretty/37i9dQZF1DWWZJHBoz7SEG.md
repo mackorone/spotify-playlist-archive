@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Saquen los pambazos y el pozole mi gente, a rumbear con México y Yng Lvcas 🇲🇽✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,052,373 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,052,365 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

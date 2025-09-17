@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Tommaso Paradiso è tornato con un pezzo 100% Paradiso\-coded e ovviamente è in cover di Indie Italia 🌊
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,632 likes - 71 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,618 likes - 71 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

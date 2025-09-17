@@ -1,12 +1,12 @@
 {
   "description": "This is SPYAIR. The essential tracks, all in one playlist.",
-  "num_followers": 27192,
+  "num_followers": 27195,
   "original_name": "This Is SPYAIR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMYFgAAAAACH6HJ+d7SEQZDAykEwPGjE",
+  "snapshot_id": "aMdXAAAAAAAvuVB8ywb8RONsp4swh6Er",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST OF THE BEST",
-        "url": "https://open.spotify.com/album/68QoEUuuoo734ojnUufXJ3"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 234373,
-      "name": "Born To Be Loud",
-      "url": "https://open.spotify.com/track/7Fw38gA686VM1lgJUu4ViS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Do It",
         "url": "https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 179973,
       "name": "MOVIN' ON",
       "url": "https://open.spotify.com/track/0PQJTbwPTgwqbCrREYxZnQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEST OF THE BEST",
+        "url": "https://open.spotify.com/album/68QoEUuuoo734ojnUufXJ3"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 234373,
+      "name": "Born To Be Loud",
+      "url": "https://open.spotify.com/track/7Fw38gA686VM1lgJUu4ViS"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 300173,
-      "name": "\u541b\u304c\u3044\u305f\u590f",
-      "url": "https://open.spotify.com/track/4ZE0oGkJo6jSWtg2nKKdUi"
+      "duration_ms": 236413,
+      "name": "MIDNIGHT",
+      "url": "https://open.spotify.com/track/5KeU7MslMMU4NZcJ2GIJdK"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 236413,
-      "name": "MIDNIGHT",
-      "url": "https://open.spotify.com/track/5KeU7MslMMU4NZcJ2GIJdK"
+      "duration_ms": 300173,
+      "name": "\u541b\u304c\u3044\u305f\u590f",
+      "url": "https://open.spotify.com/track/4ZE0oGkJo6jSWtg2nKKdUi"
     },
     {
       "added_at": null,

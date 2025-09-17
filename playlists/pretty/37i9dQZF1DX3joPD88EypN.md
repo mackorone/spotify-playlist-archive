@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,635 likes - 100 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,680 likes - 100 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 95 | [Green Model](https://open.spotify.com/track/6FXibr7oXEtXElSFP8LHES) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Gravity](https://open.spotify.com/album/1ZIyFQ6sS5bnZoY60HqkP4) | 4:22 |
 | 96 | [Earthbeat \- Single Edit](https://open.spotify.com/track/74ZDuZ6IzMjxJz7Gq72WC4) | [Tuomas Paukku Scription](https://open.spotify.com/artist/71OhqiVpT4D9PqQlUYLXD1) | [Earthbeat](https://open.spotify.com/album/1fowrT0sKZSEHUALZZU7PO) | 5:56 |
 | 97 | [Evening Song for B](https://open.spotify.com/track/19BhmK2rIrBOipvfxct6Cc) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Marius Neset](https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Sun Blowing](https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz) | 4:23 |
-| 98 | [Melancholia](https://open.spotify.com/track/2CK1rKO7y9oKhQRGR48tKG) | [Fredrik Nordström](https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Ilaria Capalbo](https://open.spotify.com/artist/36eAVpaL0KHjSI1adDdrwT), [Staffan Svensson](https://open.spotify.com/artist/11mFi4SwzgprnqEEIJpGCM) | [Melancholia](https://open.spotify.com/album/6rQSdtpLz0W1bKCySYeueo) | 5:14 |
-| 99 | [C Moll Maj](https://open.spotify.com/track/2vmTcBCnGPosTKkcPEnhlb) | [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Fredrik Ljungkvist](https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w), [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh) | [Parish](https://open.spotify.com/album/3qndY4buaSQpCck6szBaEA) | 5:52 |
-| 100 | [Melody At Night](https://open.spotify.com/track/6H8Kb2KHTCOhMBRifugOKj) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V) | [Melody At Night](https://open.spotify.com/album/2ZJefc9NERyNMMhndARgxl) | 4:31 |
+| 98 | [C Moll Maj](https://open.spotify.com/track/2vmTcBCnGPosTKkcPEnhlb) | [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Fredrik Ljungkvist](https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w), [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh) | [Parish](https://open.spotify.com/album/3qndY4buaSQpCck6szBaEA) | 5:52 |
+| 99 | [Melancholia](https://open.spotify.com/track/2CK1rKO7y9oKhQRGR48tKG) | [Fredrik Nordström](https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Ilaria Capalbo](https://open.spotify.com/artist/36eAVpaL0KHjSI1adDdrwT), [Staffan Svensson](https://open.spotify.com/artist/11mFi4SwzgprnqEEIJpGCM) | [Melancholia](https://open.spotify.com/album/6rQSdtpLz0W1bKCySYeueo) | 5:14 |
+| 100 | [When shadows dance](https://open.spotify.com/track/6XZ5SLSJ5G9ZgDYZnFIULd) | [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS), [Audun Kleive](https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq), [Per Zanussi](https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi) | [When shadows dance](https://open.spotify.com/album/4SLMUd9aFAzqP4jCSL6XNy) | 4:38 |
 
 Snapshot ID: `AAAAAKwiEIEcXiDyZkAEg/IZOnjq7EQw`

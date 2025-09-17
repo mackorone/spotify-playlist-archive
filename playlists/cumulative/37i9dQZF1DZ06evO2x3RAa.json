@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "The Sound of Love International",
+        "url": "https://open.spotify.com/album/5vBP6gUQ5xAVpITOHlpcFU"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345734,
+      "name": "Highlife - Goren Anderssen Dub Version",
+      "url": "https://open.spotify.com/track/4keKZ1aq6pYF5mXuq7cRPY"
+    },
+    {
+      "album": {
         "name": "Holy Wars",
         "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
       },

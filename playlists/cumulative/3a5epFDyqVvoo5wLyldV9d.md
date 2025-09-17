@@ -4,7 +4,7 @@
 
 > 
 
-871 songs - 2 day 20 hr 33 min
+872 songs - 2 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Let's Dance Raw](https://open.spotify.com/track/1uSO1bB5sJdu3x4eefKDpb) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Let's Dance Raw](https://open.spotify.com/album/7gcCu7XFJYx47Lpor9Lxzc) | 5:40 | 2019-11-23 |  |
 | [Leyla](https://open.spotify.com/track/5qDfBaLUXEMR2GwsLGQal9) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Gece](https://open.spotify.com/album/4IUeKh2mYOX2njthGA8STM) | 3:17 | 2019-09-23 |  |
 | [Lidojums Uz Sauli](https://open.spotify.com/track/0cb5k1gXlNjD6GhWlz1gUX) | [Ingus Baušķenieks](https://open.spotify.com/artist/7aItri3NLABDHtVkkTlRdF) | [Spoki](https://open.spotify.com/album/2MCoWM1uPpgbsuAowjJntM) | 5:51 | 2021-11-30 |  |
+| [Life On Mars?](https://open.spotify.com/track/0KpA8R3NM3N0JB4NAGbAxO) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge](https://open.spotify.com/album/2tAFOhqz3DxxVI2s5YNsrD) | 3:29 | 2025-09-16 |  |
 | [Life's Gone Down Low](https://open.spotify.com/track/1YN3aermJfsy53lU90Nssf) | [The Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Danger](https://open.spotify.com/album/5W7bPvhB7XDg4RcHKSWsQU) | 4:56 | 2023-11-14 |  |
 | [Light My Fire](https://open.spotify.com/track/2LHoNyHpsM6lbMdqcnYaOp) | [Ananda Shankar](https://open.spotify.com/artist/5eNWwEF0woj5E5Fnu9qXaQ) | [Ananda Shankar \(US Internet Release\)](https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3) | 3:32 | 2023-09-22 |  |
 | [Lindo](https://open.spotify.com/track/0Np0GTkucxwBiL4pkE0XxD) | [Wanderléa](https://open.spotify.com/artist/2ph3uep2AopkQ4romPAik0) | [Wanderlea: Mais Que A Paixão](https://open.spotify.com/album/0vWc4HuOA1KEisENTANXIQ) | 3:46 | 2021-10-06 |  |

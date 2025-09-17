@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51qI8MDEx8N.md) - [plain]
 
 > Soft piano music to accompany your reading
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,802 likes - 105 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,811 likes - 105 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,16 +12,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51qI8MDEx8N.md) - [plain]
 | 2 | [Days from Before](https://open.spotify.com/track/5bEOU1GF4yjpSAh3KSPtQD) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Days from Before](https://open.spotify.com/album/1bRj0JsqIjH1qmJLDVyytH) | 2:07 |
 | 3 | [Red Ridge Road](https://open.spotify.com/track/2BNF35bgujUs1KtGl5Xww0) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Red Ridge Road](https://open.spotify.com/album/3v0jNmPIt6mj7vRB2H1umM) | 2:43 |
 | 4 | [The Relaxing Gem](https://open.spotify.com/track/5REKUW4QDSYOIeL68o5bUH) | [ZenithEcho](https://open.spotify.com/artist/6kr9ZNAP53oR0jWVt7LJwD) | [The Relaxing Gem](https://open.spotify.com/album/6LM72L5zfSMbFq0LtG3HRs) | 1:58 |
-| 5 | [Marietta](https://open.spotify.com/track/7I3YkJ333ghsMaQXSiQNi2) | [Isaac Nash](https://open.spotify.com/artist/32MlHIPCHJoM3V9IlknCxD) | [Marietta](https://open.spotify.com/album/1GFJ90yWL7Y9rBYrIpI7LG) | 2:23 |
-| 6 | [The Destination](https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Destination](https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH) | 2:02 |
-| 7 | [I Dare Not Dream](https://open.spotify.com/track/31as8GAbqrm9thjsrTD7lo) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Dare Not Dream](https://open.spotify.com/album/1X8SeMtxLgpnUCvUo6QcVj) | 2:14 |
-| 8 | [Avignon](https://open.spotify.com/track/4QtIR11IW8W62Fl6J1gXpB) | [Oscar Latreux](https://open.spotify.com/artist/3sdfC805aK4OSRQ5YdlDLK) | [Avignon](https://open.spotify.com/album/3McxyA2RxYVWvjDOBMrM9a) | 2:30 |
-| 9 | [Letters to the Wind](https://open.spotify.com/track/2xIOGocs3xntXBULxJw5iL) | [Joseph Fina](https://open.spotify.com/artist/5BZjycpMPqgrPbJJq43szv) | [Letters to the Wind](https://open.spotify.com/album/2ao7v1AcoOvv8sEJ3vhncp) | 2:44 |
-| 10 | [sérénade](https://open.spotify.com/track/4L2r0Em9lqGCDSbsxk4C1g) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [sérénade](https://open.spotify.com/album/5caaM4yQzP89GlNu2bDNQh) | 2:32 |
-| 11 | [Presence](https://open.spotify.com/track/6E2Exlnv16ImuHjrzKeIKQ) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Presence](https://open.spotify.com/album/7Bxtw05NhQJ7Iz1jwG6B2a) | 2:25 |
-| 12 | [Still Night](https://open.spotify.com/track/2ZanS7xDIkjePVDKPiysrh) | [Ezequiel Aragón](https://open.spotify.com/artist/683KE92SAUqlhIstBnBBXd) | [Still Night](https://open.spotify.com/album/2GKswMgbtwDcung9bBcT4u) | 2:30 |
-| 13 | [Soft Rain](https://open.spotify.com/track/3C1YOgC9O7ecXCnlkkQAVR) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Soft Rain](https://open.spotify.com/album/0hvw1dqFx2BgQ8GGtTbH5y) | 2:16 |
-| 14 | [Fairy Wings](https://open.spotify.com/track/6CMNS6pnhXrNMVIaySBaMY) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Fairy Wings](https://open.spotify.com/album/0AVeV4v7mhaOW7Okhxk7Yb) | 2:05 |
+| 5 | [Soft Rain](https://open.spotify.com/track/3C1YOgC9O7ecXCnlkkQAVR) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Soft Rain](https://open.spotify.com/album/0hvw1dqFx2BgQ8GGtTbH5y) | 2:16 |
+| 6 | [Letters to the Wind](https://open.spotify.com/track/2xIOGocs3xntXBULxJw5iL) | [Joseph Fina](https://open.spotify.com/artist/5BZjycpMPqgrPbJJq43szv) | [Letters to the Wind](https://open.spotify.com/album/2ao7v1AcoOvv8sEJ3vhncp) | 2:44 |
+| 7 | [Marietta](https://open.spotify.com/track/7I3YkJ333ghsMaQXSiQNi2) | [Isaac Nash](https://open.spotify.com/artist/32MlHIPCHJoM3V9IlknCxD) | [Marietta](https://open.spotify.com/album/1GFJ90yWL7Y9rBYrIpI7LG) | 2:23 |
+| 8 | [The Destination](https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Destination](https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH) | 2:02 |
+| 9 | [Avignon](https://open.spotify.com/track/4QtIR11IW8W62Fl6J1gXpB) | [Oscar Latreux](https://open.spotify.com/artist/3sdfC805aK4OSRQ5YdlDLK) | [Avignon](https://open.spotify.com/album/3McxyA2RxYVWvjDOBMrM9a) | 2:30 |
+| 10 | [I Dare Not Dream](https://open.spotify.com/track/31as8GAbqrm9thjsrTD7lo) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Dare Not Dream](https://open.spotify.com/album/1X8SeMtxLgpnUCvUo6QcVj) | 2:14 |
+| 11 | [Fairy Wings](https://open.spotify.com/track/6CMNS6pnhXrNMVIaySBaMY) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Fairy Wings](https://open.spotify.com/album/0AVeV4v7mhaOW7Okhxk7Yb) | 2:05 |
+| 12 | [sérénade](https://open.spotify.com/track/4L2r0Em9lqGCDSbsxk4C1g) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [sérénade](https://open.spotify.com/album/5caaM4yQzP89GlNu2bDNQh) | 2:32 |
+| 13 | [Presence](https://open.spotify.com/track/6E2Exlnv16ImuHjrzKeIKQ) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Presence](https://open.spotify.com/album/7Bxtw05NhQJ7Iz1jwG6B2a) | 2:25 |
+| 14 | [Still Night](https://open.spotify.com/track/2ZanS7xDIkjePVDKPiysrh) | [Ezequiel Aragón](https://open.spotify.com/artist/683KE92SAUqlhIstBnBBXd) | [Still Night](https://open.spotify.com/album/2GKswMgbtwDcung9bBcT4u) | 2:30 |
 | 15 | [Ingénue](https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Ingénue](https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b) | 2:27 |
 | 16 | [Fireside](https://open.spotify.com/track/41A4bFgArMNz740zk0qOJD) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [Fireside](https://open.spotify.com/album/4w1VRr8VTbdwyp1VfQ7mwK) | 2:24 |
 | 17 | [Tender Steps](https://open.spotify.com/track/3WNsw5ObrZTAQGQVd8LM0m) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Tender Steps](https://open.spotify.com/album/2xorZUQJHWqqlcAGG00PXe) | 2:24 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51qI8MDEx8N.md) - [plain]
 | 104 | [Vole Vers Moi](https://open.spotify.com/track/76tMNpO6rHIMyKu9s4aY55) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Vole Vers Moi](https://open.spotify.com/album/5regfEMlH6n002DCCKrN1H) | 2:38 |
 | 105 | [Gently](https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Sapphire Sky](https://open.spotify.com/album/5q2iit8VRZVaGl68spxq2t) | 2:47 |
 
-Snapshot ID: `AAAAAG+Ep9rK2cYLbRDj36zoW2OzoVJN`
+Snapshot ID: `AAAAAGmfoULb6PRihpbYkbn5M2MLEDvs`

@@ -4,7 +4,7 @@
 
 > ra kabeh sing mbok tresnani, mbalik nresnani kowe 💔
 
-131 songs - 10 hr 56 min
+132 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Emas Hantaran](https://open.spotify.com/track/05MHiHJwPgzCKa5C8gyYH7) | [Arief](https://open.spotify.com/artist/4oKMJxfKAUkddjrPMPdk5k), [Yollanda](https://open.spotify.com/artist/6lruGjGA2RQwJyZMmOpL7e) | [Emas Hantaran](https://open.spotify.com/album/1dmUeIIkru2EioSgNBArzn) | 4:52 | 2021-09-08 | 2024-11-29 |
 | [Gak Pernah Cukup](https://open.spotify.com/track/3nmsic2kCWqzDTPHVLXVcn) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Gak Pernah Cukup](https://open.spotify.com/album/41Xs0KpcT1GoIZrWahujKJ) | 4:58 | 2021-09-08 | 2025-08-04 |
 | [Gampil](https://open.spotify.com/track/6T03CN5UVnCGPz3muqvpOz) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Gampil](https://open.spotify.com/album/0UjiKUCJA3xHzSfhjlqqVk) | 4:51 | 2024-01-11 |  |
+| [Gathel](https://open.spotify.com/track/3hesT62JpYMsWJv46GrX8v) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Gathel](https://open.spotify.com/album/3lxkWOmAJK7JDNYPmV6zVs) | 3:34 | 2025-09-16 |  |
 | [Gede Roso](https://open.spotify.com/track/3WdcGNxJHzyjZdu6Y15E6G) | [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Gede Roso](https://open.spotify.com/album/5CnwfcvfEAJyAImoXTPJtu) | 3:53 | 2021-09-08 | 2025-07-18 |
 | [HTS](https://open.spotify.com/track/6qDtRm3pWLFKFW02FoDHVt) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [HTS](https://open.spotify.com/album/3cIn9ze7231HGFB6AD72cU) | 4:15 | 2024-09-12 |  |
 | [HTS](https://open.spotify.com/track/04RtfxsXh0VDrEKfnvpXFI) | [Nayla Fardila](https://open.spotify.com/artist/3j0qZWmFuvRwN6OcG4m4Fh) | [HTS](https://open.spotify.com/album/1ZZMNuAJlEXBfcKL7kGOkl) | 4:43 | 2024-08-02 |  |
@@ -114,7 +115,7 @@
 | [Sampek Tuwek](https://open.spotify.com/track/13rfLhtagkf76aBy7Je2vO) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sampek Tuwek](https://open.spotify.com/album/7ojuyvgSHW7KXTifHkBOsD) | 5:03 | 2021-09-08 |  |
 | [Sanes](https://open.spotify.com/track/6xbi77Vq9RALnKc59kSXIS) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx), [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sanes](https://open.spotify.com/album/0EhdH1xsrPR1YjSMCjr4Wf) | 5:01 | 2023-04-13 |  |
 | [Sanes](https://open.spotify.com/track/2gpXOgtrS8IZ7zyQpNS0Fw) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Sanes](https://open.spotify.com/album/1il9TxFotfDyWgAzq4q2K5) | 5:04 | 2023-04-13 |  |
-| [Sebatas Friendly](https://open.spotify.com/track/2pMwqwUIKr2Il7ut4PsVAR) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Sebatas Friendly](https://open.spotify.com/album/6m54ZCI0KJOH0VxDs8OVXA) | 4:13 | 2025-04-21 |  |
+| [Sebatas Friendly](https://open.spotify.com/track/2pMwqwUIKr2Il7ut4PsVAR) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Sebatas Friendly](https://open.spotify.com/album/6m54ZCI0KJOH0VxDs8OVXA) | 4:13 | 2025-04-21 | 2025-09-17 |
 | [Selendang Biru](https://open.spotify.com/track/1IU1mITWrgXfQrCDTjDgeh) | [Shinta Arsinta](https://open.spotify.com/artist/1NrPlp7STfCyPAoJgc2ZJg) | [Selendang Biru](https://open.spotify.com/album/2MoVigvG7je2nf9yBvBSzb) | 5:10 | 2024-05-27 |  |
 | [Sepine Wengi](https://open.spotify.com/track/250cwRyihzWCQynWdL6RTn) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Sepine Wengi](https://open.spotify.com/album/1p53UK2w3WGOEI0S8bpQ9d) | 4:37 | 2021-09-08 |  |
 | [Sewates Konco](https://open.spotify.com/track/3ZsxUx6uEUq2JaaJZHpY8J) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Destya Eka](https://open.spotify.com/artist/2tm1IWxQUHQJNbqZRIH49s) | [Sewates Konco](https://open.spotify.com/album/6X6IZWFp4R4ViCcXrJIXqs) | 5:03 | 2023-03-31 |  |
@@ -135,7 +136,7 @@
 | [Tresno Liyane](https://open.spotify.com/track/7IWKUR4CrurVIc6BPWwWiR) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Tresno Liyane](https://open.spotify.com/album/5zI0wfXVhntN1EjsdrdViQ) | 4:50 | 2023-03-31 | 2024-08-03 |
 | [Tresno Tekan Mati New Version \- Remastered 2023](https://open.spotify.com/track/5JJ6JB7fKygWoKAcBZKxNo) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Tresno Tekan Mati \(New Version\)](https://open.spotify.com/album/5rjrUoQokVq8SKhvhatF2U) | 4:31 | 2025-01-13 |  |
 | [Tresnomu Ora Tenanan](https://open.spotify.com/track/5jrAalCzbIZ5q6BsYdXcNo) | [Arry Harmoko](https://open.spotify.com/artist/3EdYNfDh7k5d0sl4R7OXCf) | [Tresnomu Ora Tenanan](https://open.spotify.com/album/2Ce6hsEKnpg4yhaGeW8wmh) | 4:17 | 2024-04-04 | 2025-07-29 |
-| [Wegah Pisah](https://open.spotify.com/track/3Wqr2RXL6msDIuJM1m0UNW) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Wegah Pisah](https://open.spotify.com/album/2BJBjYSdy3bqsvBn6mWlUl) | 5:46 | 2024-04-04 |  |
+| [Wegah Pisah](https://open.spotify.com/track/3Wqr2RXL6msDIuJM1m0UNW) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Wegah Pisah](https://open.spotify.com/album/2BJBjYSdy3bqsvBn6mWlUl) | 5:46 | 2024-04-04 | 2025-09-17 |
 | [Wirang](https://open.spotify.com/track/5MxlCCea2uHpVk8t8n8sj3) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Wirang](https://open.spotify.com/album/1Jx1rCdsljF4gOMxPuhDsR) | 5:18 | 2024-11-06 |  |
 | [Wirang](https://open.spotify.com/track/2cNjYBMsuNELj4oJjYr0bg) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Wirang](https://open.spotify.com/album/1OdvMWMKFQGzLJ92gU8Atc) | 4:54 | 2024-02-01 |  |
 | [Yowes Modaro](https://open.spotify.com/track/1SRkMfpmXlfl0p3KPHpB3B) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Yowes Modaro](https://open.spotify.com/album/01bzVLH7VeX5g4h03DMMAW) | 4:52 | 2021-09-08 |  |

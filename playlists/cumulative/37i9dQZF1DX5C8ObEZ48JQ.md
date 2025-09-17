@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW?si=UbaOpY1rTUuGQs\-5DoJ4hw">Halo Yagami</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq?si=zhik2VomQAK71HE2Nw\-MHA">Hunter Rose</a>\. Artwork: Isu Kim.
 
-1,365 songs - 2 day 20 hr 20 min
+1,368 songs - 2 day 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -928,6 +928,7 @@
 | [Only You](https://open.spotify.com/track/23CCpqQxBcgN1zneFOeHLD) | [riosoundz](https://open.spotify.com/artist/2MyRMBg8s5gjvOU2jBEawI), [Supaakos](https://open.spotify.com/artist/48IEcIlXvzSLbnfxAC4c6B), [Suppabeatz](https://open.spotify.com/artist/2F9P5fKTh8HT5LqxT1RNfW) | [Only You](https://open.spotify.com/album/32dXSAHJR80Ac6yGxvKHpP) | 2:51 | 2022-10-28 | 2023-01-26 |
 | [Onyeoma](https://open.spotify.com/track/0xPqCE5qxaUkGCYNtzJkqx) | [Jimmynitz](https://open.spotify.com/artist/2ffXKmhOJzPxtKhfoMEtvL) | [Onyeoma](https://open.spotify.com/album/5TV0nA85FDfWdW0k2T1ADu) | 2:55 | 2023-02-22 | 2023-03-30 |
 | [OOSHATIDE](https://open.spotify.com/track/7oPLuA6UwAK03WyehFQwxc) | [OOSHA](https://open.spotify.com/artist/6OhHuHGJe5YfFNsaoIAWZm) | [OOSHATIDE](https://open.spotify.com/album/5TTZ4igqHmDM6CORsB3b4e) | 2:54 | 2023-09-27 | 2023-10-26 |
+| [OPEN](https://open.spotify.com/track/2r6x1GmYVlqTZ4bJHLMIT2) | [Nujakasha](https://open.spotify.com/artist/6cyDwv8RqKLeSjs5IKPJnI), [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq) | [REMEMBER?](https://open.spotify.com/album/0jO0u7Yx0dw3pBagWs9R2a) | 3:12 | 2025-09-16 |  |
 | [Open Hearts](https://open.spotify.com/track/0vGaq6yLFIWQTVT1IStvdn) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts](https://open.spotify.com/album/06XMKyyqiQfvBze41Yi8pv) | 3:37 | 2024-09-04 | 2024-10-05 |
 | [open love letter](https://open.spotify.com/track/3uDIf8ICZNdknf3EYbTlsC) | [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [Beezyx](https://open.spotify.com/artist/0r6sAkbsRJkBbmxYlh4cso) | [dear diary](https://open.spotify.com/album/4QIZHDRxiTCmOp45XXASNu) | 2:40 | 2023-09-27 | 2023-10-26 |
 | [Options](https://open.spotify.com/track/7lpZMYFIwH9ENMvC9UMWz5) | [Tesh Carter](https://open.spotify.com/artist/5U8rCIDXI98zaaUXw6Y0J5) | [Options](https://open.spotify.com/album/2IKQlz9gR6hg5Viw6pvKT8) | 2:38 | 2025-04-10 | 2025-07-03 |
@@ -960,6 +961,7 @@
 | [PEACE](https://open.spotify.com/track/7EnLvd4AaCCu9JPBpzm00h) | [Teledalase](https://open.spotify.com/artist/3Wxvmox8BfrWr7vJDKezHe) | [PEACE](https://open.spotify.com/album/5CR0m5NN3y0g9j1HJ2ih16) | 2:49 | 2025-01-23 | 2025-03-06 |
 | [People Pleaser](https://open.spotify.com/track/4sS3l0GDiJ3ZwLIIiuWMFi) | [G\-West](https://open.spotify.com/artist/39utnMndFEvTgT6ldinEaJ), [Ghanaian Stallion](https://open.spotify.com/artist/1rrYX4LEdujuVhl43MTpZF) | [People Pleaser](https://open.spotify.com/album/1WhgmvuCmr1J2o8zPqNFGt) | 3:17 | 2024-04-03 | 2024-05-02 |
 | [Perfection // T r u s t](https://open.spotify.com/track/4lVDPZ9uJqLYrlSf3JbrXb) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/2qXvUtcDzC8UycI1ccMWFw) | 4:00 | 2024-07-03 | 2024-08-08 |
+| [Peruse](https://open.spotify.com/track/7dF3WmeVHJMNirdKdCFe8j) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [The Plunge](https://open.spotify.com/album/3mGop1gP8tChVajxB4gEZ4) | 3:00 | 2025-09-16 |  |
 | [Pete](https://open.spotify.com/track/2DDM0D8wOXNPxshFgtYIG1) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Pete](https://open.spotify.com/album/5D4ETjU3vwslf8b6HOLUWx) | 2:04 | 2024-03-06 | 2024-04-03 |
 | [Pewa](https://open.spotify.com/track/5sggvlcQAAQotkFDmHcMmt) | [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB), [Modest Chabari](https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm) | [Pewa](https://open.spotify.com/album/5NHFgvVvnOkrTlGNGPsHSW) | 3:52 | 2025-07-03 |  |
 | [Philo](https://open.spotify.com/track/59AzbolzStkg5QEEwY5lXP) | [Domae Magic](https://open.spotify.com/artist/5uoJ8Wz4XxMv1aXCEYWTiL) | [Philo](https://open.spotify.com/album/6Po5M4pz7JuOlVhmFamBZJ) | 3:06 | 2024-10-04 | 2024-11-07 |
@@ -987,13 +989,14 @@
 | [Promise](https://open.spotify.com/track/0XiqUgSUvwPCyi6iyEES6N) | [A\-swxg](https://open.spotify.com/artist/4WLrRRtBJv9WV3A5KVClPg) | [Promise](https://open.spotify.com/album/6wdW7MEbcMGqrsFKDVB21x) | 2:47 | 2024-02-06 | 2024-03-06 |
 | [Promises](https://open.spotify.com/track/4HP4bjD1xurss7xiOKd4MR) | [Ehu](https://open.spotify.com/artist/7sv6kMhWDM83MtvcWfmTEW) | [Promises](https://open.spotify.com/album/0OqEqi1qjnybOsNkSrnFDD) | 3:12 | 2022-09-02 | 2022-10-01 |
 | [Proud of You](https://open.spotify.com/track/4C9tt3KQzIsFsC1xllzXVm) | [Kotrell](https://open.spotify.com/artist/1k3uh1cWemPuWEYV2lcMPS) | [Proud of You](https://open.spotify.com/album/47ytL4acNVzIBiJxNdg0qV) | 2:54 | 2024-02-06 | 2024-03-06 |
-| [PTSD](https://open.spotify.com/track/3oSOAmX3az2ekWnOZrWqRN) | [Dan Drizzy](https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI) | [PTSD](https://open.spotify.com/album/7y7BPELlPwXptFNCS4MGMC) | 2:50 | 2025-04-10 |  |
+| [PTSD](https://open.spotify.com/track/3oSOAmX3az2ekWnOZrWqRN) | [Dan Drizzy](https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI) | [PTSD](https://open.spotify.com/album/7y7BPELlPwXptFNCS4MGMC) | 2:50 | 2025-04-10 | 2025-09-17 |
 | [Puff & Pass](https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Puff & Pass](https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F) | 2:41 | 2023-09-27 | 2024-02-07 |
 | [Pull](https://open.spotify.com/track/3duQZunFoBl8dSYC2SDSAV) | [Mayoe](https://open.spotify.com/artist/2VRi1C1C50BCnLmtr9b2yK) | [Pull](https://open.spotify.com/album/6jaW7bIwqz0i11CnfSNAdu) | 2:46 | 2024-09-04 | 2024-10-05 |
 | [PULL UP](https://open.spotify.com/track/1YHMh6yWE2PDoQbj25FEDk) | [Demmi](https://open.spotify.com/artist/2lF5l1MCyqNj4WyBE4Jopk), [The Ganyo](https://open.spotify.com/artist/1XRErztmwGC9jKhzkxLlJx), [Mullah](https://open.spotify.com/artist/25fPQEpjzxOTF9jSefp8NH) | [PULL UP](https://open.spotify.com/album/056rKeXfXwpGCxZaRxQSlE) | 2:14 | 2024-05-01 | 2024-06-05 |
 | [Pull Up](https://open.spotify.com/track/0IBxgBMEp0Bdjb0SCZ2SPk) | [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Pull Up](https://open.spotify.com/album/6TXaWaOHkfq2h1UUNBMTOH) | 2:58 | 2023-10-25 | 2023-11-30 |
 | [Pull up](https://open.spotify.com/track/1JvqN0vUrSfB01bQoGexLn) | [Naka](https://open.spotify.com/artist/52DXXortL8zEG5MqscRQmn) | [VIBEST4R EP](https://open.spotify.com/album/7rCXMRr1MrMVijZaUDuYjd) | 2:38 | 2025-06-04 |  |
 | [Pull Up](https://open.spotify.com/track/2wK5qJVUTOkWzjfeTnQI2d) | [Yaw Darling](https://open.spotify.com/artist/5Evs57zwRolR6QHb2qeYwv) | [Pull Up](https://open.spotify.com/album/5fnMktzHv3fIEM5iGNt4w5) | 2:13 | 2023-02-22 | 2023-03-30 |
+| [Pure Illusion](https://open.spotify.com/track/6AoJt7n1F5kUfxdiso5px4) | [Tessi Nandi](https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ) | [Pure Illusion](https://open.spotify.com/album/0Asn8iI5BSjOYWRm4ZbWf7) | 3:26 | 2025-09-16 |  |
 | [PURPLE SLUSHIES](https://open.spotify.com/track/3igf2ZaBhLdgVi7hQLXI5Z) | [Fentse.](https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc) | [Therapy Is Cancelled](https://open.spotify.com/album/4nUOULl5gl3Dr0velwTNFs) | 4:01 | 2023-11-29 | 2023-12-14 |
 | [Purpose](https://open.spotify.com/track/6GdvXuBys1krm4cNnxHhQR) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Angel On The Run](https://open.spotify.com/album/2T574vuC96N9WW0bpIQzcR) | 2:49 | 2023-06-27 | 2024-02-07 |
 | [Père](https://open.spotify.com/track/4yRZ3SAszB7vbemF24sZgM) | [Mo'Believe](https://open.spotify.com/artist/2JZT6fRSlCQFOnSvkwJ8PW) | [Père](https://open.spotify.com/album/4dgdV8g7x1fAhCO4Iax0yo) | 2:47 | 2022-09-02 | 2022-10-01 |

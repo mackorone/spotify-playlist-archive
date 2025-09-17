@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: 2charm",
+  "description": "The best new music by independent artists and labels. Cover: Soli",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -3036,7 +3036,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 127875,
       "name": "Alta Vista",
       "url": "https://open.spotify.com/track/0fVbDxSUajty5EpKJed4UJ"
@@ -4844,7 +4844,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 220000,
       "name": "Back Again",
       "url": "https://open.spotify.com/track/76f7W6eUJFz8l2hD1CuA2R"
@@ -5948,7 +5948,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 286173,
       "name": "Bawuypawuy",
       "url": "https://open.spotify.com/track/6DpNqGwrr5sk0wVXekxWks"
@@ -7660,7 +7660,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 171481,
       "name": "Blame Game",
       "url": "https://open.spotify.com/track/3hr8V6nCTZOqpRXswFZVp3"
@@ -7696,7 +7696,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 177195,
       "name": "Blame Saturn",
       "url": "https://open.spotify.com/track/0uPpudOva6y0ub2zZ44HbS"
@@ -9172,6 +9172,24 @@
       "duration_ms": 194040,
       "name": "Brave Face",
       "url": "https://open.spotify.com/track/53u6SSL6tgS4IidAab2JT8"
+    },
+    {
+      "album": {
+        "name": "Brawl",
+        "url": "https://open.spotify.com/album/6XhvrPuOnvYmBXaeIoCkIs"
+      },
+      "artists": [
+        {
+          "name": "Altai",
+          "url": "https://open.spotify.com/artist/0iNIJkKMOZrBPjL0n8skbw"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Brawl",
+      "url": "https://open.spotify.com/track/45yIde2MBCpBcsGVxRKU3j"
     },
     {
       "album": {
@@ -17404,7 +17422,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 238541,
       "name": "Diane",
       "url": "https://open.spotify.com/track/7iU1KJ2EwyLqJDTCr5XgyD"
@@ -23208,7 +23226,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 220744,
       "name": "Far Away Need Some",
       "url": "https://open.spotify.com/track/6fItyzi1ClBjr0vqcU4XX3"
@@ -23814,6 +23832,24 @@
       "duration_ms": 313750,
       "name": "Fight Or Flight",
       "url": "https://open.spotify.com/track/0FQu568m5iyA0hmF9NMjLq"
+    },
+    {
+      "album": {
+        "name": "Fight!",
+        "url": "https://open.spotify.com/album/5GhYb3n1BAxdo6UoGCVDfS"
+      },
+      "artists": [
+        {
+          "name": "Toy Shaw",
+          "url": "https://open.spotify.com/artist/6MYXLrJHjEWW8LFssFPqDg"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180651,
+      "name": "Fight!",
+      "url": "https://open.spotify.com/track/39ia5GW4VSFGPd5WWFpgCy"
     },
     {
       "album": {
@@ -26229,6 +26265,24 @@
     },
     {
       "album": {
+        "name": "Gasleak",
+        "url": "https://open.spotify.com/album/50jEvgnnS2ngZmXdMN2x6B"
+      },
+      "artists": [
+        {
+          "name": "OH! Daisy",
+          "url": "https://open.spotify.com/artist/4vHTaAnr8RGRXrjpIBatOQ"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231128,
+      "name": "Gasleak",
+      "url": "https://open.spotify.com/track/55fFLnl2Dz46dtmIQOJKmw"
+    },
+    {
+      "album": {
         "name": "GASLIGHT",
         "url": "https://open.spotify.com/album/2AUAlJiWXZzww96uuBFJBU"
       },
@@ -27738,6 +27792,24 @@
       "duration_ms": 108901,
       "name": "Gold",
       "url": "https://open.spotify.com/track/0DQCSRBp86CD934sZeL0Ww"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/60UXc9WSc6dlUHYtMA5XJH"
+      },
+      "artists": [
+        {
+          "name": "Mild West",
+          "url": "https://open.spotify.com/artist/5phEMMGMU5K2LAoGkFQxzR"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259877,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6YNBTeVSkSJJipjqD5S7WF"
     },
     {
       "album": {
@@ -30144,7 +30216,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 222431,
       "name": "Heatstroke",
       "url": "https://open.spotify.com/track/5FadpP8ykzhCcrJobe3OU8"
@@ -33303,6 +33375,24 @@
     },
     {
       "album": {
+        "name": "I Love You Babe",
+        "url": "https://open.spotify.com/album/5v1bRmXMXp9zMQYiTaLSAh"
+      },
+      "artists": [
+        {
+          "name": "Grace Woodroofe",
+          "url": "https://open.spotify.com/artist/6eMOqUqLUBE24yBrdb8XHd"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264347,
+      "name": "I Love You Babe",
+      "url": "https://open.spotify.com/track/7biAoWdaVpTaKbkOOdf8lC"
+    },
+    {
+      "album": {
         "name": "I loved you first",
         "url": "https://open.spotify.com/album/0jiw9OVoXTLYWcznw4ECX4"
       },
@@ -35467,6 +35557,24 @@
     },
     {
       "album": {
+        "name": "In The Garden",
+        "url": "https://open.spotify.com/album/3zEv0tk7kiIDyd76R972TB"
+      },
+      "artists": [
+        {
+          "name": "Keanu",
+          "url": "https://open.spotify.com/artist/7CFFNSaFkn8FOD1z2HBhp9"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183374,
+      "name": "In The Garden",
+      "url": "https://open.spotify.com/track/1JkXxDtWLPY1Z6Wn42b8Uu"
+    },
+    {
+      "album": {
         "name": "IN THE HIVE",
         "url": "https://open.spotify.com/album/6n5SPV276zNnLHA0mFyb7P"
       },
@@ -36713,6 +36821,24 @@
     },
     {
       "album": {
+        "name": "It's You!",
+        "url": "https://open.spotify.com/album/58bcN15Nc1O3fl40NXUp5L"
+      },
+      "artists": [
+        {
+          "name": "Tilly Fenton",
+          "url": "https://open.spotify.com/artist/0ZaJkkKuLo8dZDEUcVj8hr"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178730,
+      "name": "It's You!",
+      "url": "https://open.spotify.com/track/5LJgndlOyPLZkhmcOHjRYq"
+    },
+    {
+      "album": {
         "name": "its all overrated",
         "url": "https://open.spotify.com/album/0ttWT9B0K1y1yVk87IfXeP"
       },
@@ -37862,7 +37988,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 146277,
       "name": "kerosene",
       "url": "https://open.spotify.com/track/3Q7V3YefR1Mk5R2Zx8e2L0"
@@ -39248,7 +39374,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 138275,
       "name": "lego",
       "url": "https://open.spotify.com/track/2lIvl5lxoJxmiyZfG1Mgrf"
@@ -49661,6 +49787,24 @@
     },
     {
       "album": {
+        "name": "Obvious",
+        "url": "https://open.spotify.com/album/5qf4bahAEBYQ1DC5yNSSBi"
+      },
+      "artists": [
+        {
+          "name": "Soli",
+          "url": "https://open.spotify.com/artist/6yYm7Asdzf0sxI68kAJB0s"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145893,
+      "name": "Obvious",
+      "url": "https://open.spotify.com/track/4MDbNtvNn6nlmadLmdLb97"
+    },
+    {
+      "album": {
         "name": "Occupants",
         "url": "https://open.spotify.com/album/5Is2oVUUHW0XqhgKON8afM"
       },
@@ -56030,7 +56174,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 117418,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/0fDItFFrXyVt3mK1wwFnbB"
@@ -61735,6 +61879,28 @@
     },
     {
       "album": {
+        "name": "Skin Deep",
+        "url": "https://open.spotify.com/album/3RotQTND2JndSEIZ9TprXd"
+      },
+      "artists": [
+        {
+          "name": "Talia Perese",
+          "url": "https://open.spotify.com/artist/6Gp5ElBOlUi6ibQplIZc5c"
+        },
+        {
+          "name": "EDYONTHEBEAT",
+          "url": "https://open.spotify.com/artist/5rO3cIUpqwYXBNk6cdSdGC"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181978,
+      "name": "Skin Deep",
+      "url": "https://open.spotify.com/track/4LGDHY86YQ47xzIdzwMmj2"
+    },
+    {
+      "album": {
         "name": "Skink",
         "url": "https://open.spotify.com/album/6AySP9LBx7FeRcJQ3d8WjV"
       },
@@ -65354,7 +65520,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 172466,
       "name": "Strangers In Line",
       "url": "https://open.spotify.com/track/2l7HI1DP7lIbFFcqthuX6R"
@@ -66088,6 +66254,24 @@
       "duration_ms": 245117,
       "name": "Summer's Song",
       "url": "https://open.spotify.com/track/68j6dHg2AIwQDHMT9nMnhc"
+    },
+    {
+      "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/5t2cPqYjYYI7GCJ1vMh4B5"
+      },
+      "artists": [
+        {
+          "name": "Platonic Sex",
+          "url": "https://open.spotify.com/artist/61hTjDPDLNpg6CPMtmLqHX"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255167,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/3dIZXaEZaeLAnm9cHv81Cu"
     },
     {
       "album": {
@@ -69838,7 +70022,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 143211,
       "name": "Then Disappear",
       "url": "https://open.spotify.com/track/1UvdfUI71roZtIg3r7sAa5"
@@ -70912,6 +71096,24 @@
       "duration_ms": 195775,
       "name": "to be known",
       "url": "https://open.spotify.com/track/4dTvIQOSKytQ82zfBO99BB"
+    },
+    {
+      "album": {
+        "name": "Tabis",
+        "url": "https://open.spotify.com/album/6fwoDZXRrhY4Qy7jmmpLz4"
+      },
+      "artists": [
+        {
+          "name": "Convenience Store",
+          "url": "https://open.spotify.com/artist/7IAvo6jpUmUVxf8f6Lft1y"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157682,
+      "name": "To Lie",
+      "url": "https://open.spotify.com/track/27zoSGV242D7LphTJp5QFq"
     },
     {
       "album": {
@@ -73256,7 +73458,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 232666,
       "name": "Up In Flames (The Wayland)",
       "url": "https://open.spotify.com/track/0472ecSudB9Oo4MnHIEpCz"
@@ -76451,6 +76653,24 @@
     },
     {
       "album": {
+        "name": "When I Die",
+        "url": "https://open.spotify.com/album/6QrPjHOZbgL2TeOtaS2GCx"
+      },
+      "artists": [
+        {
+          "name": "Rita Mae",
+          "url": "https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182368,
+      "name": "When I Die",
+      "url": "https://open.spotify.com/track/0FomWIDUKAutMMoLcVz9Nm"
+    },
+    {
+      "album": {
         "name": "When I Grow Up",
         "url": "https://open.spotify.com/album/0XAKrbFLkpXIouq9JZZq4P"
       },
@@ -76704,6 +76924,24 @@
       "duration_ms": 150857,
       "name": "Where Yuh From",
       "url": "https://open.spotify.com/track/1Z4gQErV62bDWdr7bJZVDN"
+    },
+    {
+      "album": {
+        "name": "Where's Your Head?",
+        "url": "https://open.spotify.com/album/7nXlEehQ9ccgfiKYx0f2bL"
+      },
+      "artists": [
+        {
+          "name": "Your Personal Chef",
+          "url": "https://open.spotify.com/artist/0b8l6VFKzDwwzj7l3MzOPn"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219840,
+      "name": "Where's Your Head?",
+      "url": "https://open.spotify.com/track/7KADUovayMciSbvRdWpnfU"
     },
     {
       "album": {
@@ -78542,6 +78780,24 @@
       "duration_ms": 157407,
       "name": "You \"Spaceboy\"",
       "url": "https://open.spotify.com/track/3qnCv48et0cKW7FNJFGaD4"
+    },
+    {
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/5Uq20eQXYt6RktqeeBpl9U"
+      },
+      "artists": [
+        {
+          "name": "Hitch",
+          "url": "https://open.spotify.com/artist/0EqZqTzwUy9Sgm7yFIllLo"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219122,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/44U8coblvssDK0S4u3ExWD"
     },
     {
       "album": {

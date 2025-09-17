@@ -5733,6 +5733,28 @@
     },
     {
       "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/2gTZvYBtprARgndX724KEX"
+      },
+      "artists": [
+        {
+          "name": "Justin OH",
+          "url": "https://open.spotify.com/artist/5x2u5vpKBhviWQlni8VM8L"
+        },
+        {
+          "name": "Jantine",
+          "url": "https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176470,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/6Ql6cQGKPrU5CP8u6LHzkT"
+    },
+    {
+      "album": {
         "name": "Funk It",
         "url": "https://open.spotify.com/album/2M8c3XJgVUNuu1sc0d0oXj"
       },
@@ -14020,12 +14042,12 @@
       },
       "artists": [
         {
-          "name": "Fluorescents",
-          "url": "https://open.spotify.com/artist/3k7eYa4LVI5wqhLj7PACE2"
-        },
-        {
           "name": "Mazare",
           "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
+        },
+        {
+          "name": "Fluorescents",
+          "url": "https://open.spotify.com/artist/3k7eYa4LVI5wqhLj7PACE2"
         }
       ],
       "date_added": "2025-07-17",

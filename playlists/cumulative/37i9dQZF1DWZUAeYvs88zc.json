@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 207911,
       "name": "cold medicine",
       "url": "https://open.spotify.com/track/5UgbDqJYYckCKtAjfBtoy2"
@@ -3657,6 +3657,24 @@
     },
     {
       "album": {
+        "name": "<3DISC",
+        "url": "https://open.spotify.com/album/2e8TXWKQI9xiplPC7q359b"
+      },
+      "artists": [
+        {
+          "name": "Ericka Jane",
+          "url": "https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160516,
+      "name": "HEARTDISC",
+      "url": "https://open.spotify.com/track/6TrZ2TUIerD5UA5r6dysUg"
+    },
+    {
+      "album": {
         "name": "DESIRE PATH",
         "url": "https://open.spotify.com/album/3vC3tHIOUT2TM4dIIXwsKZ"
       },
@@ -4224,7 +4242,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 213080,
       "name": "I MISS YOUR LOVE",
       "url": "https://open.spotify.com/track/0ex8iDhoMsgoix4EkoeTMm"
@@ -5894,6 +5912,24 @@
       "duration_ms": 197253,
       "name": "Lovesick Lullaby",
       "url": "https://open.spotify.com/track/6KPLhHAdbheko4jRpYTqqx"
+    },
+    {
+      "album": {
+        "name": "Make Me Cry",
+        "url": "https://open.spotify.com/album/6zkx3umapCWzMktYccapQ3"
+      },
+      "artists": [
+        {
+          "name": "BIZZY",
+          "url": "https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174622,
+      "name": "Make Me Cry",
+      "url": "https://open.spotify.com/track/3TtpqKNIjpfE8Gdwsx4DHg"
     },
     {
       "album": {

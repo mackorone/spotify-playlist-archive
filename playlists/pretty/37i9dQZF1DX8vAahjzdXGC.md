@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Ed Sheeran, CORTIS, Andmesh, Fabio Asher dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,128 likes - 104 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,143 likes - 104 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 11 | [Aku Berjanji](https://open.spotify.com/track/0peGp475yG57hjwpP1PP8n) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Berjanji](https://open.spotify.com/album/4TpbJouqiWJsUGBZbxIdeW) | 3:59 |
 | 12 | [DOG HOUSE \(feat\. Julia Wolf & Yeat\)](https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DOG HOUSE](https://open.spotify.com/album/3r4vAHYjjrGp84E0g909W6) | 3:10 |
 | 13 | [some days](https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [some days](https://open.spotify.com/album/1UbgSoMftakwqLl0jJC5K0) | 3:17 |
-| 14 | [Dancing By Myself](https://open.spotify.com/track/4xrUExyBK5PrsSnq0fQZVG) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [Timethai](https://open.spotify.com/artist/4OP4jGznSvNjM0aY8IFm3S) | [Dancing By Myself](https://open.spotify.com/album/2NWDOJYhFJ92FaFtZMbgjw) | 2:46 |
+| 14 | [Dancing By Myself](https://open.spotify.com/track/4xrUExyBK5PrsSnq0fQZVG) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [Dancing By Myself](https://open.spotify.com/album/2NWDOJYhFJ92FaFtZMbgjw) | 2:46 |
 | 15 | [REMIND ME](https://open.spotify.com/track/7hWVFCk6UZf8Pjywuemi6l) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [REMIND ME](https://open.spotify.com/album/5NZLWaWu9JYHR2Vqy5A1Zu) | 3:34 |
 | 16 | [Heaven](https://open.spotify.com/track/0em3aeTRdv6AEBdUKkNW8j) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/23UkQx8aKE4IERCFuxpYL0) | 4:02 |
 | 17 | [Ordinary Day](https://open.spotify.com/track/1cvtW4ZA6Tfmap44lhb5GG) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Ordinary Day](https://open.spotify.com/album/37OQK1sKHnUDkFWFnsbX1V) | 3:26 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 43 | [Tiba Waktuku](https://open.spotify.com/track/4KB9RClVzrTjFA2suWcW4O) | [Thito Tangguh](https://open.spotify.com/artist/6Lox8gUBTHAYfnLi3YptwI) | [Tetap Tangguh](https://open.spotify.com/album/3aRdlemADqN0B4RiWvVWo1) | 4:03 |
 | 44 | [YOU](https://open.spotify.com/track/0cYa8kO74yiwQkl4V1I61Q) | [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu) | [YOU](https://open.spotify.com/album/5uurUTJsmlR5v29fb42u2r) | 3:57 |
 | 45 | [Elevator Music](https://open.spotify.com/track/3JPlpg1N3G4wv5QrTOSjvR) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Elevator Music](https://open.spotify.com/album/5AjKa0nb3p4CSPOpICdWNu) | 2:52 |
-| 46 | [AUTOBAHN](https://open.spotify.com/track/6RPDXnRp2wjMU8zNARdMIV) | [Bintang Gemilau](https://open.spotify.com/artist/13bylBwokgQpNNKdgaOZhP), [Kenz](https://open.spotify.com/artist/0and9txR3hU9FMaCsYIDEM), [Chop Guapo](https://open.spotify.com/artist/1Hsy0Ce9ik70IPm3zhYFNT) | [AUTOBAHN](https://open.spotify.com/album/3gNDO6XlCXztcAd7wxVOAz) | 3:13 |
+| 46 | [AUTOBAHN](https://open.spotify.com/track/6RPDXnRp2wjMU8zNARdMIV) | [Bintang Gemilau](https://open.spotify.com/artist/13bylBwokgQpNNKdgaOZhP), [Kenz](https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk), [Chop Guapo](https://open.spotify.com/artist/1Hsy0Ce9ik70IPm3zhYFNT) | [AUTOBAHN](https://open.spotify.com/album/3gNDO6XlCXztcAd7wxVOAz) | 3:13 |
 | 47 | [Ini Adanya](https://open.spotify.com/track/1eW5GFRRr8xF1oTeiaFw7X) | [T\. Rucira](https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC) | [Vol\. 1 \(Prolog\)](https://open.spotify.com/album/1h4j9BfwvCnwIQjyThDtMS) | 3:06 |
 | 48 | [ragebait!](https://open.spotify.com/track/1agtREeSQBAZWgZqMJN7me) | [Father Koi](https://open.spotify.com/artist/3TiCUxDWDi4qSDLITpkziT), [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [ragebait!](https://open.spotify.com/album/1XAqhHKsw7tlS1ZnOes3Sr) | 2:20 |
 | 49 | [Eternal Wailing](https://open.spotify.com/track/1l6X7gthTpPAKwGxzFcsug) | [Sunlotus](https://open.spotify.com/artist/27aLaxfy7huYKyQuLTlHzn), [Stephania Shakila](https://open.spotify.com/artist/6M6v6KDBvjtweSnL3i6uSK) | [Eternal Wailing / Your Canary \- Single](https://open.spotify.com/album/7JBKNHsJvuvMU2Xvy1gBiW) | 6:53 |

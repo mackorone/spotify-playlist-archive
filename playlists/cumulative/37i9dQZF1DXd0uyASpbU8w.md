@@ -4,7 +4,7 @@
 
 > New music from Nasty C, Ed Sheeran, Lowfeye & La Cabra and more.
 
-7,874 songs - 22 day 23 hr 25 min
+7,875 songs - 22 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7403,6 +7403,7 @@
 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 | 2023-12-08 | 2023-12-16 |
 | [Walking On Sunshine](https://open.spotify.com/track/1MSLgha9cc8bnIRNyegqEs) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Walking On Sunshine](https://open.spotify.com/album/0iJqoEfWjqbQG4XjAR8nbE) | 3:25 | 2025-07-25 | 2025-08-01 |
 | [WalkOnBy \(feat\. Earl Sweatshirt & Rae Khalil\)](https://open.spotify.com/track/5mUHnwhs4N0bLhidpub3FC) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [WalkOnBy \(feat\. Earl Sweatshirt & Rae Khalil\)](https://open.spotify.com/album/7fh5OBZUItvGL20l3MLEnV) | 3:47 | 2024-06-13 | 2024-06-21 |
+| [Wallpaper](https://open.spotify.com/track/6LdIS1qUJYXBms7rAcKQ3z) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Wallpaper](https://open.spotify.com/album/6W63ELml5omoe4bNVKVsdI) | 2:59 | 2025-09-12 |  |
 | [Wamuhle \(feat\. Just Percy & Mduduzi Ncube\)](https://open.spotify.com/track/61kljvq4N6RXXQydiuPt18) | [RoneeDeep](https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO), [Just Percy](https://open.spotify.com/artist/47nFfbUJLgqP9rFKZLzzXy), [Mduduzi Ncube](https://open.spotify.com/artist/26wQS9QDgipxSQd9uWBUSG) | [Wamuhle \(feat\. Just Percy & Mduduzi Ncube\)](https://open.spotify.com/album/7LDVHxI3UobUQk87RLkXxC) | 6:37 | 2025-04-18 | 2025-04-25 |
 | [Wamuhle \(feat\. Thatohatsi & Tracy\)](https://open.spotify.com/track/7eFG1NVzjS64ObVlrEs7Nd) | [Fiso el Musica](https://open.spotify.com/artist/1oFcgC4c32VaCNNlA9UrGC), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L), [Tracy](https://open.spotify.com/artist/4YOZVLM9eFGOM88mtTLfze) | [INCEPTION](https://open.spotify.com/album/3uhSK8qMA42PfOpouOPssD) | 8:07 | 2025-02-27 | 2025-03-07 |
 | [Wander](https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr) | [MXV](https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG), [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Wander](https://open.spotify.com/album/5GSOhfjkMp4JDEGguyrthM) | 3:30 | 2025-08-21 | 2025-08-29 |

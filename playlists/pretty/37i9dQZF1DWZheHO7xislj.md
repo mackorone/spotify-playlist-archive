@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 
 > Selection of soul music for the perfect dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,980 likes - 200 songs - 13 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,979 likes - 200 songs - 13 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,10 +171,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 | 161 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/2xVtBEcsM6s2RsH8wkirhS) | [Rotary Connection](https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va), [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Best Of Rotary Connection](https://open.spotify.com/album/51eqNHht7wUBpKBc9fbsxK) | 5:49 |
 | 162 | [Lucky Man](https://open.spotify.com/track/5Q4Dgn6sHsGkcSspTlLD9m) | [Courtney John](https://open.spotify.com/artist/53uGQ1amGHHb0Tzn2A6Oc0) | [Made In Jamaica](https://open.spotify.com/album/3V8jJfoqu62XYL8K9OArz9) | 3:14 |
 | 163 | [Holding On](https://open.spotify.com/track/7hrUma6oSEaVwnlwkQa7XB) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Holding On](https://open.spotify.com/album/4ZlV13oHyTpo3S3LjZRvRU) | 4:14 |
-| 164 | [I Think I'll Call It Morning](https://open.spotify.com/track/2NFaL70qpAezdlByUkFTOq) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/6gZlPB0fBBD75qUSKSFKs0) | 3:29 |
-| 165 | [Right As Rain](https://open.spotify.com/track/1ARkKt39O6WQqE0QEpZntu) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:17 |
-| 166 | [This Girl \(feat\. Kylie Auldist\)](https://open.spotify.com/track/5rjPINVemhJJL3JUiXLeV1) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Kylie Auldist](https://open.spotify.com/artist/3CSpwE5QPsrPT9KgtG3BF4) | [Soul Messin](https://open.spotify.com/album/24msxYdYJGlhXZhbMdz9iY) | 3:44 |
-| 167 | [We Can Work It Out](https://open.spotify.com/track/6AplSHtiSr0cqimR27ghdV) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed Sealed And Delivered](https://open.spotify.com/album/4QxPK644Vy4FQrtMF90CMe) | 3:20 |
+| 164 | [Right As Rain](https://open.spotify.com/track/1ARkKt39O6WQqE0QEpZntu) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:17 |
+| 165 | [I Think I'll Call It Morning](https://open.spotify.com/track/2NFaL70qpAezdlByUkFTOq) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/6gZlPB0fBBD75qUSKSFKs0) | 3:29 |
+| 166 | [We Can Work It Out](https://open.spotify.com/track/6AplSHtiSr0cqimR27ghdV) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed Sealed And Delivered](https://open.spotify.com/album/4QxPK644Vy4FQrtMF90CMe) | 3:20 |
+| 167 | [This Girl \(feat\. Kylie Auldist\)](https://open.spotify.com/track/5rjPINVemhJJL3JUiXLeV1) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Kylie Auldist](https://open.spotify.com/artist/3CSpwE5QPsrPT9KgtG3BF4) | [Soul Messin](https://open.spotify.com/album/24msxYdYJGlhXZhbMdz9iY) | 3:44 |
 | 168 | [What Kind of Cool \- Will We Think of Next](https://open.spotify.com/track/2zjiWPb1i2SWu9Cco49vkO) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [Landing On a Hundred](https://open.spotify.com/album/45Mk7SLfzqvkwKzxjgE3FH) | 5:08 |
 | 169 | [I Want to Make It with You](https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e) | [Bobbie Houston](https://open.spotify.com/artist/4i975rT2vHNcwrOqEm6laa) | [Beach Diggin', Vol\. 3](https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU) | 3:06 |
 | 170 | [Little Bit of Feel Good](https://open.spotify.com/track/0cIoSMR8kFaJHF8eGgHBHs) | [Jamie Lidell](https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI) | [Jim](https://open.spotify.com/album/3Hoe3hptCyII2pA7tNEAab) | 4:02 |
@@ -187,8 +187,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 | 177 | [Hey Nineteen](https://open.spotify.com/track/12Ht0EOxXboCpbW58Wxxdf) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5OtaRmEFDEDWIwxpqOgf03) | 5:08 |
 | 178 | [Just To See Her](https://open.spotify.com/track/4veUi0IuVGJ6Yh8gM1N6Vb) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [The Ultimate Collection: Smokey Robinson](https://open.spotify.com/album/5GsGic6FvdqD0iTMauHM5y) | 4:02 |
 | 179 | [Mr\. Big Stuff](https://open.spotify.com/track/0Kehy5ONzB3tgvo3KRdcvW) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Mr\. Big Stuff \(Remastered\)](https://open.spotify.com/album/0VUpqywWXd86fGSTs5LwpT) | 2:44 |
-| 180 | [Concrete Reservation](https://open.spotify.com/track/4SuGW6oK6AMgKBIqhJ4gyY) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Is It Because I'm Black](https://open.spotify.com/album/076qHSzvu55zhfDwgOGiv5) | 2:27 |
-| 181 | [The Tracks Of My Tears](https://open.spotify.com/track/3AR9uXc8JbOVfe92kzmJTH) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/3k6u76lSaKt4FrxSphXPRj) | 2:54 |
+| 180 | [The Tracks Of My Tears](https://open.spotify.com/track/3AR9uXc8JbOVfe92kzmJTH) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/3k6u76lSaKt4FrxSphXPRj) | 2:54 |
+| 181 | [Concrete Reservation](https://open.spotify.com/track/4SuGW6oK6AMgKBIqhJ4gyY) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Is It Because I'm Black](https://open.spotify.com/album/076qHSzvu55zhfDwgOGiv5) | 2:27 |
 | 182 | [This Land Is Your Land](https://open.spotify.com/track/1FE45v3BxmGjFiDwuSpeDJ) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1ARyfw246YulT9j3B2qfXl) | 4:31 |
 | 183 | [Until You Came Into My Life](https://open.spotify.com/track/0dVeBXkfWALnOSs6N3lrxm) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Big Little Lies \(Music from Season 2 of the HBO Limited Series\)](https://open.spotify.com/album/5bVh1bvKmcaBUjQwcapIEN) | 3:12 |
 | 184 | [It's Love](https://open.spotify.com/track/7A8YLLXffwbChLJs1sW67Y) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \(Words And Sounds Vol\. 1\)](https://open.spotify.com/album/2fwvQikqDmWiam99r1om1B) | 5:54 |

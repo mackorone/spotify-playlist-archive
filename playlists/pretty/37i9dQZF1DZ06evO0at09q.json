@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMYFgAAAAADoXWWAE3+QIMHzq+eg7tKO",
+  "snapshot_id": "aMdXAAAAAAAVmv5juKG8F0AyEyo/5bbT",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dimensions",
-        "url": "https://open.spotify.com/album/5ifn2Tcd0wWwzeKJXxpxLM"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "I Got",
-      "url": "https://open.spotify.com/track/4hrOYN8z9kfg4KTTbhvAIX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dollar Stack",
         "url": "https://open.spotify.com/album/23jIIMZiOL1ajReCPEYvMe"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 151874,
       "name": "Dollar Stack",
       "url": "https://open.spotify.com/track/2KE6SIDlHjWBdKrnfZ3e9B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dimensions",
+        "url": "https://open.spotify.com/album/5ifn2Tcd0wWwzeKJXxpxLM"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "I Got",
+      "url": "https://open.spotify.com/track/4hrOYN8z9kfg4KTTbhvAIX"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/7rsCAGnLldVpyhXYbLWTSa"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/41Y3AarQVkAq87Q4OEL34A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Get It",
         "url": "https://open.spotify.com/album/6TEyfWinjOan6oz4KsTo9E"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 167619,
       "name": "Get It",
       "url": "https://open.spotify.com/track/73liGOdiotIjtQMishFETa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alien",
-        "url": "https://open.spotify.com/album/7rsCAGnLldVpyhXYbLWTSa"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/41Y3AarQVkAq87Q4OEL34A"
     },
     {
       "added_at": null,
@@ -703,28 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Talk",
-        "url": "https://open.spotify.com/album/0rs1UsgxCAo1cuUQ79OQDU"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        },
-        {
-          "name": "Isenberg",
-          "url": "https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal"
-        }
-      ],
-      "duration_ms": 256976,
-      "name": "All Talk",
-      "url": "https://open.spotify.com/track/2syDBxdUUcHtPjNSl1WRLS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/6pqnK4wrfwhbEpGF5hI9Sv"
+        "name": "Modern Mechanics",
+        "url": "https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD"
       },
       "artists": [
         {
@@ -732,9 +712,9 @@
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 215625,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/2xG03uf9J5pevBAviqxRjk"
+      "duration_ms": 225000,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/4Y03M2hBHxhYzjfo8unVIM"
     },
     {
       "added_at": null,
@@ -755,6 +735,42 @@
       "duration_ms": 234400,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/3SJNXg8LaOLTbIbSXofFcM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/6pqnK4wrfwhbEpGF5hI9Sv"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 215625,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2xG03uf9J5pevBAviqxRjk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Talk",
+        "url": "https://open.spotify.com/album/0rs1UsgxCAo1cuUQ79OQDU"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        },
+        {
+          "name": "Isenberg",
+          "url": "https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal"
+        }
+      ],
+      "duration_ms": 256976,
+      "name": "All Talk",
+      "url": "https://open.spotify.com/track/2syDBxdUUcHtPjNSl1WRLS"
     },
     {
       "added_at": null,
@@ -791,62 +807,6 @@
       "duration_ms": 230476,
       "name": "Problem",
       "url": "https://open.spotify.com/track/4E9enYOmhzIld9ezlik57W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Modern Mechanics",
-        "url": "https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/4Y03M2hBHxhYzjfo8unVIM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/222D7CUNZUVg7QhXJa9MEl"
-      },
-      "artists": [
-        {
-          "name": "Jack Beats",
-          "url": "https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW"
-        },
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        },
-        {
-          "name": "Quinn",
-          "url": "https://open.spotify.com/artist/2ra5scTrNqQy2ygL3H6Fyp"
-        }
-      ],
-      "duration_ms": 263520,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/09lLEr6ET6EptJTjzgMTaL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dimensions",
-        "url": "https://open.spotify.com/album/5ifn2Tcd0wWwzeKJXxpxLM"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "Dimensions",
-      "url": "https://open.spotify.com/track/6HIoWv3bdIih39MoMwop4z"
     },
     {
       "added_at": null,
@@ -891,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dimensions",
+        "url": "https://open.spotify.com/album/5ifn2Tcd0wWwzeKJXxpxLM"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "Dimensions",
+      "url": "https://open.spotify.com/track/6HIoWv3bdIih39MoMwop4z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blanc Sur Noir, Vol. 3",
         "url": "https://open.spotify.com/album/4N3Di4QVSACoXsM3P0I2a2"
       },
@@ -907,6 +883,22 @@
       "duration_ms": 220645,
       "name": "Lost",
       "url": "https://open.spotify.com/track/521c3uJHm5aaqRhWcairlf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ghetto Ghetto 50",
+        "url": "https://open.spotify.com/album/1LrmaK2LICnxDPXdsFnt1C"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "Gangsta Shit",
+      "url": "https://open.spotify.com/track/0uVH7gLiScfsqXQ3ATRtyP"
     },
     {
       "added_at": null,

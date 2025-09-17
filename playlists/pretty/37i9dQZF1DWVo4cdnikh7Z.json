@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Madharaasi",
-  "num_followers": 721828,
+  "num_followers": 721846,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMdtbghwpL0N+iS/Q1L0sPYWwUTl",
+  "snapshot_id": "AAAAANpxCWgVLeQqKnqnVteB0xfJBf9G",
   "tracks": [
     {
       "added_at": "2025-07-31 13:51:13",
@@ -31,74 +31,6 @@
       "duration_ms": 207219,
       "name": "Salambala (From \"Madharaasi\") (Tamil)",
       "url": "https://open.spotify.com/track/6Hf4OJWW7YAwsrnJ8d0XcE"
-    },
-    {
-      "added_at": "2025-08-02 11:46:37",
-      "album": {
-        "name": "Coolie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3roEiD2gUP1LHPHwUPbXs1"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        }
-      ],
-      "duration_ms": 206627,
-      "name": "Powerhouse",
-      "url": "https://open.spotify.com/track/3JC5Xx48KqzYYlbTr6weCv"
-    },
-    {
-      "added_at": "2025-08-23 16:10:02",
-      "album": {
-        "name": "Vazhiyiraen (From \"Madharaasi\") (Tamil)",
-        "url": "https://open.spotify.com/album/6AQI3YTESLAAFD5XWgyY14"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Kwame Fyah",
-          "url": "https://open.spotify.com/artist/120SM3yXyZdzqUaqhTE0tc"
-        },
-        {
-          "name": "Vignesh Shivan",
-          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
-        }
-      ],
-      "duration_ms": 235613,
-      "name": "Vazhiyiraen (From \"Madharaasi\") (Tamil)",
-      "url": "https://open.spotify.com/track/467iUE97xBb5IlQXZFNbUS"
-    },
-    {
-      "added_at": "2025-08-02 11:46:37",
-      "album": {
-        "name": "Coolie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3roEiD2gUP1LHPHwUPbXs1"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Sublahshini",
-          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
-        },
-        {
-          "name": "Asal Kolaar",
-          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
-        }
-      ],
-      "duration_ms": 217627,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/7MrdHOL2aoWfT16CncgNei"
     },
     {
       "added_at": "2025-08-28 13:30:26",
@@ -169,10 +101,58 @@
       "url": "https://open.spotify.com/track/6SSnh9P1xYHjTfbVBMmsTv"
     },
     {
-      "added_at": "2025-09-02 09:21:05",
+      "added_at": "2025-08-23 16:10:02",
       "album": {
-        "name": "Theekkoluthi (From \"Bison Kaalamadan\")",
-        "url": "https://open.spotify.com/album/07Dw4Lngh65vRnGwFSspdP"
+        "name": "Vazhiyiraen (From \"Madharaasi\") (Tamil)",
+        "url": "https://open.spotify.com/album/6AQI3YTESLAAFD5XWgyY14"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Kwame Fyah",
+          "url": "https://open.spotify.com/artist/120SM3yXyZdzqUaqhTE0tc"
+        },
+        {
+          "name": "Vignesh Shivan",
+          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
+        }
+      ],
+      "duration_ms": 235613,
+      "name": "Vazhiyiraen (From \"Madharaasi\") (Tamil)",
+      "url": "https://open.spotify.com/track/467iUE97xBb5IlQXZFNbUS"
+    },
+    {
+      "added_at": "2025-08-02 11:46:37",
+      "album": {
+        "name": "Coolie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3roEiD2gUP1LHPHwUPbXs1"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Asal Kolaar",
+          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
+        }
+      ],
+      "duration_ms": 217627,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/7MrdHOL2aoWfT16CncgNei"
+    },
+    {
+      "added_at": "2025-09-16 14:37:44",
+      "album": {
+        "name": "Rekka Rekka (From \"Bison Kaalamaadan\")",
+        "url": "https://open.spotify.com/album/7Br0FidswToB3vRdj9H8Nl"
       },
       "artists": [
         {
@@ -180,13 +160,17 @@
           "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
         },
         {
-          "name": "Mari Selvaraj",
-          "url": "https://open.spotify.com/artist/38Zkf8fQfCpFzXsHfGVRdF"
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
         }
       ],
-      "duration_ms": 364651,
-      "name": "Theekkoluthi - From \"Bison Kaalamadan\"",
-      "url": "https://open.spotify.com/track/5TiY2x67s6iWW0VS9LhbwF"
+      "duration_ms": 303203,
+      "name": "Rekka Rekka - From \"Bison Kaalamaadan\"",
+      "url": "https://open.spotify.com/track/2lyodB0HLF9KWD8lR4EA4J"
     },
     {
       "added_at": "2025-07-24 05:42:21",
@@ -213,36 +197,96 @@
       "url": "https://open.spotify.com/track/3watEGWsGyrEgd6GxkeGSI"
     },
     {
-      "added_at": "2025-09-01 08:17:00",
+      "added_at": "2025-09-16 10:53:07",
       "album": {
-        "name": "Sirimara Sirimara (From \"GHAATI\")(Tamil)",
-        "url": "https://open.spotify.com/album/3jZlWeyHZFJeF5hTtrzBcV"
+        "name": "Kiss (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/52ZisiHTVpTEYFIoqQDXOJ"
       },
       "artists": [
         {
-          "name": "Nagavelli Vidya Sagar",
-          "url": "https://open.spotify.com/artist/2ik2sh5tUx1dFIB5AI5cxt"
+          "name": "Jen Martin",
+          "url": "https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO"
         },
         {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+          "name": "Abishek Suresh",
+          "url": "https://open.spotify.com/artist/1zjo3tk6lONw78F9ijLoet"
         },
         {
-          "name": "Lipsika Bhashyam",
-          "url": "https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1"
-        },
-        {
-          "name": "Baby Maanvitha Nagavelli",
-          "url": "https://open.spotify.com/artist/5w0IEMUEo4yX06bszpTmWh"
-        },
-        {
-          "name": "Madhan Karky",
-          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+          "name": "Vignesh Shivan",
+          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Sirimara Sirimara (From \"GHAATI\")(Tamil)",
-      "url": "https://open.spotify.com/track/2icZ4oeCcM4cSvOlveiW3c"
+      "duration_ms": 258461,
+      "name": "Ennale Ennale",
+      "url": "https://open.spotify.com/track/0SNKyRUrs6Kk7ifGLkoLog"
+    },
+    {
+      "added_at": "2025-08-02 11:46:37",
+      "album": {
+        "name": "Coolie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3roEiD2gUP1LHPHwUPbXs1"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "duration_ms": 206627,
+      "name": "Powerhouse",
+      "url": "https://open.spotify.com/track/3JC5Xx48KqzYYlbTr6weCv"
+    },
+    {
+      "added_at": "2025-09-02 09:21:05",
+      "album": {
+        "name": "Theekkoluthi (From \"Bison Kaalamadan\")",
+        "url": "https://open.spotify.com/album/07Dw4Lngh65vRnGwFSspdP"
+      },
+      "artists": [
+        {
+          "name": "Nivas K Prasanna",
+          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
+        },
+        {
+          "name": "Mari Selvaraj",
+          "url": "https://open.spotify.com/artist/38Zkf8fQfCpFzXsHfGVRdF"
+        }
+      ],
+      "duration_ms": 364651,
+      "name": "Theekkoluthi - From \"Bison Kaalamadan\"",
+      "url": "https://open.spotify.com/track/5TiY2x67s6iWW0VS9LhbwF"
+    },
+    {
+      "added_at": "2025-09-16 07:27:19",
+      "album": {
+        "name": "Bus Fight X Powerhouse X Disco (From \"Coolie BGM\")",
+        "url": "https://open.spotify.com/album/2QMLORj3nZDtyhmhSF53iP"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Rajinikanth",
+          "url": "https://open.spotify.com/artist/3ds25WkPGxtYxOCrzPS3dz"
+        },
+        {
+          "name": "Aamir Khan",
+          "url": "https://open.spotify.com/artist/0Tn7oEmE8zDUR340Doo9zl"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "duration_ms": 177514,
+      "name": "Bus Fight x Powerhouse x Disco (From \"Coolie BGM\")",
+      "url": "https://open.spotify.com/track/1TuAiGYL1nJvTfGaHNEX40"
     },
     {
       "added_at": "2025-09-10 13:03:15",
@@ -259,26 +303,6 @@
       "duration_ms": 222445,
       "name": "Kaleesha",
       "url": "https://open.spotify.com/track/1x0Jfn08Bpz1pZATAW4BbT"
-    },
-    {
-      "added_at": "2025-09-01 07:57:38",
-      "album": {
-        "name": "Ennada Vazhka (Dawood)",
-        "url": "https://open.spotify.com/album/1ZqhADw50o2jmBybwo3bkN"
-      },
-      "artists": [
-        {
-          "name": "Rakesh Ambigapathy",
-          "url": "https://open.spotify.com/artist/2CMRKM8ofULeGJAucGQTaC"
-        },
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        }
-      ],
-      "duration_ms": 262437,
-      "name": "Ennada Vazhka - Dawood",
-      "url": "https://open.spotify.com/track/08WnCUfEsHDIpCDv7BiZtd"
     },
     {
       "added_at": "2025-07-28 09:54:01",
@@ -417,6 +441,30 @@
       "url": "https://open.spotify.com/track/7i65HSYgxKsZOv9znKh0tY"
     },
     {
+      "added_at": "2025-09-16 10:53:07",
+      "album": {
+        "name": "Kiss (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/52ZisiHTVpTEYFIoqQDXOJ"
+      },
+      "artists": [
+        {
+          "name": "Jen Martin",
+          "url": "https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ashique AR",
+          "url": "https://open.spotify.com/artist/7a2hwgmPEziltEjQBW9kNI"
+        }
+      ],
+      "duration_ms": 219487,
+      "name": "Thirudi",
+      "url": "https://open.spotify.com/track/3d0xVe7NSdKZ4Ci7A8rI4t"
+    },
+    {
       "added_at": "2025-09-15 11:02:40",
       "album": {
         "name": "Oliya Kekka (From \"Bomb\")",
@@ -519,6 +567,30 @@
       "duration_ms": 177600,
       "name": "Jaithraya (From \"Mirai\") [Tamil]",
       "url": "https://open.spotify.com/track/1yr6EVk5jsnbXN6E0iiUMs"
+    },
+    {
+      "added_at": "2025-09-16 10:53:07",
+      "album": {
+        "name": "Kiss (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/52ZisiHTVpTEYFIoqQDXOJ"
+      },
+      "artists": [
+        {
+          "name": "Jen Martin",
+          "url": "https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO"
+        },
+        {
+          "name": "Inno Genga",
+          "url": "https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU"
+        },
+        {
+          "name": "Ashique AR",
+          "url": "https://open.spotify.com/artist/7a2hwgmPEziltEjQBW9kNI"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Venaandi",
+      "url": "https://open.spotify.com/track/6EAs8zLYKTxlrsJWApogJ8"
     },
     {
       "added_at": "2025-08-02 11:45:29",
@@ -1027,50 +1099,6 @@
       "duration_ms": 174285,
       "name": "Venum Macha Peace (From \"Oh God Beautiful\")",
       "url": "https://open.spotify.com/track/46rjKpAKpnWhEVEx4EoiUO"
-    },
-    {
-      "added_at": "2025-08-25 13:19:30",
-      "album": {
-        "name": "The Arrival (From \"45\") [Tamil Version]",
-        "url": "https://open.spotify.com/album/4dFb1rna7D7pv3HaOAo7GG"
-      },
-      "artists": [
-        {
-          "name": "MC Vicky",
-          "url": "https://open.spotify.com/artist/1AzwwC0SvUjDKSlNkRWwSO"
-        },
-        {
-          "name": "Nishan Rai",
-          "url": "https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy"
-        },
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        }
-      ],
-      "duration_ms": 159314,
-      "name": "The Arrival (From \"45\") [Tamil Version]",
-      "url": "https://open.spotify.com/track/09VcSD9iDsiskBpjXaNbEi"
-    },
-    {
-      "added_at": "2025-08-25 13:15:05",
-      "album": {
-        "name": "Pei Kathai",
-        "url": "https://open.spotify.com/album/6yZeyHSvRTokN9tJST0VyB"
-      },
-      "artists": [
-        {
-          "name": "Bobo Shashi",
-          "url": "https://open.spotify.com/artist/207e202Dz3barZ9ij9jGpR"
-        },
-        {
-          "name": "Yuki Praveen",
-          "url": "https://open.spotify.com/artist/6Nke0y2Gwq2uESBYvuz7Qq"
-        }
-      ],
-      "duration_ms": 166049,
-      "name": "Puriyaadha Bhoomi",
-      "url": "https://open.spotify.com/track/3J1UyzX06bL2H6IFJIHwk7"
     },
     {
       "added_at": "2025-08-08 14:37:22",
@@ -1717,30 +1745,6 @@
       "url": "https://open.spotify.com/track/2V8Ma2DHRLbwJnOaU7Tx0p"
     },
     {
-      "added_at": "2025-07-21 06:37:08",
-      "album": {
-        "name": "Meenduma? (From \"Once More\")",
-        "url": "https://open.spotify.com/album/6GxBWpVmdVfoDQowis3GWD"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        },
-        {
-          "name": "Aavani Malhar",
-          "url": "https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG"
-        },
-        {
-          "name": "Vignesh Srikanth",
-          "url": "https://open.spotify.com/artist/4tJEEeKyEuYWQLzBz0a8p1"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Meenduma? - From \"Once More\"",
-      "url": "https://open.spotify.com/track/5sN3ZzrPsL6DqGKn4xJAJD"
-    },
-    {
       "added_at": "2025-07-28 09:47:16",
       "album": {
         "name": "Minnali (From \"Housemates\")",
@@ -1763,30 +1767,6 @@
       "duration_ms": 283125,
       "name": "Minnali - From \"Housemates\"",
       "url": "https://open.spotify.com/track/3ZZ92MwbLdOBaiWDh8ihOh"
-    },
-    {
-      "added_at": "2025-07-18 06:58:15",
-      "album": {
-        "name": "Kuberaa (Tamil)",
-        "url": "https://open.spotify.com/album/57JMpf9DmVsdJ4vKTI3a9R"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Sinduri Vishal",
-          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
-        },
-        {
-          "name": "Viveka",
-          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
-        }
-      ],
-      "duration_ms": 263083,
-      "name": "En Magane",
-      "url": "https://open.spotify.com/track/4WUGfwhw1MckBVIdtLsc31"
     },
     {
       "added_at": "2025-07-17 11:05:41",

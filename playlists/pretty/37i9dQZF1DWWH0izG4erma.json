@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 629870,
+  "num_followers": 629973,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-09-05 01:52:34",
       "album": {
-        "name": "White Trash",
-        "url": "https://open.spotify.com/album/7J6zBIqt8ongSdhixNuYBw"
-      },
-      "artists": [
-        {
-          "name": "Colin Stough",
-          "url": "https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds"
-        }
-      ],
-      "duration_ms": 225368,
-      "name": "White Trash",
-      "url": "https://open.spotify.com/track/1O6LYaqNV8ZFV8EPs5xWoJ"
-    },
-    {
-      "added_at": "2025-09-05 01:52:34",
-      "album": {
         "name": "With or Without Me",
         "url": "https://open.spotify.com/album/1tUWUYVM1TertVwChOCW7D"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 222294,
       "name": "With or Without Me",
       "url": "https://open.spotify.com/track/5FweRtm4C4IxNDFP2aHdXy"
+    },
+    {
+      "added_at": "2025-09-05 01:52:34",
+      "album": {
+        "name": "White Trash",
+        "url": "https://open.spotify.com/album/7J6zBIqt8ongSdhixNuYBw"
+      },
+      "artists": [
+        {
+          "name": "Colin Stough",
+          "url": "https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds"
+        }
+      ],
+      "duration_ms": 225368,
+      "name": "White Trash",
+      "url": "https://open.spotify.com/track/1O6LYaqNV8ZFV8EPs5xWoJ"
     },
     {
       "added_at": "2025-09-05 01:52:34",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2025-09-05 01:52:34",
       "album": {
+        "name": "If I Know You",
+        "url": "https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr"
+      },
+      "artists": [
+        {
+          "name": "Aaron McBee",
+          "url": "https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA"
+        }
+      ],
+      "duration_ms": 163637,
+      "name": "Midnight Dancer",
+      "url": "https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf"
+    },
+    {
+      "added_at": "2025-09-05 01:52:34",
+      "album": {
         "name": "Find You (feat. Rory Rodriguez)",
         "url": "https://open.spotify.com/album/3fHJPIAdCJbwVjlPqHUS6E"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 212680,
       "name": "Find You (feat. Rory Rodriguez)",
       "url": "https://open.spotify.com/track/6Ai14RhZhVEG9S2Vk6JjsL"
-    },
-    {
-      "added_at": "2025-09-05 01:52:34",
-      "album": {
-        "name": "If I Know You",
-        "url": "https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr"
-      },
-      "artists": [
-        {
-          "name": "Aaron McBee",
-          "url": "https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA"
-        }
-      ],
-      "duration_ms": 163637,
-      "name": "Midnight Dancer",
-      "url": "https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf"
     },
     {
       "added_at": "2025-09-05 01:52:34",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-09-05 01:52:34",
       "album": {
-        "name": "Old News",
-        "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
-      },
-      "artists": [
-        {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
-        }
-      ],
-      "duration_ms": 251498,
-      "name": "All of These Years",
-      "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
-    },
-    {
-      "added_at": "2025-09-05 01:52:34",
-      "album": {
         "name": "Black Powder Soul",
         "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 216153,
       "name": "Black Powder Soul",
       "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
+    },
+    {
+      "added_at": "2025-09-05 01:52:34",
+      "album": {
+        "name": "Old News",
+        "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
+      },
+      "artists": [
+        {
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+        }
+      ],
+      "duration_ms": 251498,
+      "name": "All of These Years",
+      "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
     },
     {
       "added_at": "2025-09-05 01:52:34",

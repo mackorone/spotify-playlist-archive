@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Grizzly & Rothy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,256 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,285 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 49 | [WOODAHE](https://open.spotify.com/track/5zqwFI0qVuC5sDN5v96hLp) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5), [Choo young woo](https://open.spotify.com/artist/46ALFLjuto4s9T9TA6HJi2) | [The Tale of Lady Ok \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4bn8lLRe75VygKRdJ9zA3L) | 3:30 |
 | 50 | [Be Your Enemy](https://open.spotify.com/track/1ssN3REdzr9dUIZ6T8rD1T) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:35 |
 
-Snapshot ID: `AAAAABE1UOsOo3pTj67DNb0wH6C0ESVv`
+Snapshot ID: `AAAAAFseM4X9RhNin09TpsUMKlBM+sYB`

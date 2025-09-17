@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "Ain't Nobody",
+        "url": "https://open.spotify.com/album/3AfZApPiVNmPESFq3J9R9Q"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        },
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154459,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/2gnEndVbpPiaSAn2gEA0WH"
+    },
+    {
+      "album": {
         "name": "Alles Kan Kapot",
         "url": "https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT"
       },
@@ -604,7 +626,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 221904,
       "name": "Eatin' Good",
       "url": "https://open.spotify.com/track/1NIxmZsepizxk5Nv7oxVhP"

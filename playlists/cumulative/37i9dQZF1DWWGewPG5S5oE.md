@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 曽根麻央
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: H ZETTRIO
 
-443 songs - 1 day 11 hr 55 min
+444 songs - 1 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Chapter 0](https://open.spotify.com/track/6rEFHgdmQha1VyCG7pYtEN) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Dosukoi SS](https://open.spotify.com/album/6Lap8GJr0DW8VQP2BRj8Y4) | 0:44 | 2025-05-27 | 2025-06-20 |
 | [Child's eye](https://open.spotify.com/track/72CKhZXYJbieI0Rzy3I8wq) | [SAI](https://open.spotify.com/artist/3qV6tSZj71FW9cKKD4hrHG) | [YELLOW](https://open.spotify.com/album/5KAYYjNX5y00ARgTjI2kVN) | 2:15 | 2023-11-21 | 2024-02-07 |
 | [Children of Peace](https://open.spotify.com/track/2lnYMX79vLI5cj2LrNlRUN) | [Kyoto Jazz Sextet](https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd) | [UNITY](https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV) | 5:33 | 2022-09-27 | 2022-10-21 |
+| [Chili Chili \(feat\. Yucco Miller\)](https://open.spotify.com/track/4rYDtfaxhmw39VTEAdmSWE) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY), [Yucco Miller](https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO) | [Dazz On](https://open.spotify.com/album/2wMdVrbu1ckG6MmUI30lFu) | 3:50 | 2025-09-16 |  |
 | [China Girl](https://open.spotify.com/track/2Wt2CcSsjOyHiVGekE46Pw) | [Solitary Circus](https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3), [Yusuke Orita](https://open.spotify.com/artist/0Axix53b6tHd1GpZUTAkba), [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia) | [China Girl](https://open.spotify.com/album/6x1N7LotYPwMbe7Gsz44Xe) | 4:57 | 2025-05-13 | 2025-05-21 |
 | [Christmas Song II](https://open.spotify.com/track/7cvAdWZFK5ODIklRPHrnmO) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [Christmas Song II](https://open.spotify.com/album/5mwTFbyzv89qTDbAlHCp2W) | 3:02 | 2023-12-12 | 2024-01-26 |
 | [City Creatures](https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [City Creatures](https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559) | 3:04 | 2022-09-06 | 2024-12-18 |
@@ -241,7 +242,7 @@
 | [path](https://open.spotify.com/track/0Ssnsve8Zj16FrN7ImqZhI) | [窪田ひかり](https://open.spotify.com/artist/3VY5fhcEPI6M1JrH1yFvMO) | [path](https://open.spotify.com/album/5FCmV7iPZfSYuOV5UN7SW3) | 4:19 | 2024-12-24 | 2025-02-19 |
 | [Pathos](https://open.spotify.com/track/55kHKJPafkM9HynXY0oozI) | [川嶋哲郎](https://open.spotify.com/artist/7HYO9BWP2sgKxAF1VbCwCM), [CHAKA STRING QUARTET](https://open.spotify.com/artist/6bZSpfaWtn36aiqdRyakh2) | [A Walk in Life](https://open.spotify.com/album/66a5UKnW2qZdFmItUgReg3) | 8:05 | 2024-03-12 | 2024-07-24 |
 | [PATIO](https://open.spotify.com/track/4MMniEzwkS2fg0JcaTVsfJ) | [Satoru Shionoya](https://open.spotify.com/artist/2EgHsuNzwgFaVrPgjzHNpe) | [ARROW OF TIME](https://open.spotify.com/album/773UYnDHqToyTj9ML5lgrH) | 5:03 | 2024-02-20 | 2024-04-19 |
-| [Patterns](https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Patterns](https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ) | 4:40 | 2024-11-12 |  |
+| [Patterns](https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Patterns](https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ) | 4:40 | 2024-11-12 | 2025-09-17 |
 | [Peaceful Honk](https://open.spotify.com/track/1gHnfWCyM8v7A03Qst7dJ0) | [西口明宏](https://open.spotify.com/artist/7cfJQuXW7ehOs7SixLZJhC) | [Peaceful Honk](https://open.spotify.com/album/4Z9uEm5Vfak2MKEkAHA87j) | 3:04 | 2024-07-02 | 2024-09-18 |
 | [Pendulum \[Feat\. Sonicwonder & Michelle Willis\]](https://open.spotify.com/track/0JwQJRLM0Kwvs1CFWhufhj) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w), [Michelle Willis](https://open.spotify.com/artist/2CgQstPV8fb7a4zCFWgPw0) | [Pendulum \[Feat\. Sonicwonder & Michelle Willis\]](https://open.spotify.com/album/4xm9hq7Z4NORk6mJZA0grx) | 5:57 | 2025-03-04 | 2025-05-29 |
 | [Pentatonic 物語](https://open.spotify.com/track/7f1ZL67EshqrNwoqBvFlWl) | [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [高木大丈夫](https://open.spotify.com/artist/4tkM95cPiJfdqAfWfvxU60), [Marty Holoubek](https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF) | [Songbook6](https://open.spotify.com/album/3asyCHxLTPhQu11NlRCqWh) | 3:04 | 2023-03-07 | 2023-05-17 |

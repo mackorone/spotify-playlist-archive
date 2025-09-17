@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs65pqQR22I.md) - [plain]
 
 > Dark noise to keep you sharp and focused during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,651 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,747 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs65pqQR22I.md) - [plain]
 | 52 | [Relaxing Black Noise Waves](https://open.spotify.com/track/6NaJlg3pGN7B8bFHt6nePo) | [Sleep Sauce](https://open.spotify.com/artist/7MfD7bqyg0WTkai8yuFtH9) | [Black Noise Relaxing Waves](https://open.spotify.com/album/1rLk5sduKeryCRMExWxmGZ) | 3:03 |
 | 53 | [Sleepy Black Robo\-Noise](https://open.spotify.com/track/5MutcU7kIiofO3HVbYPWBO) | [Utmost\-@mos](https://open.spotify.com/artist/2rTA4Aq0QblqZJ2AwY7R4n) | [Robots Treasure Black Noise](https://open.spotify.com/album/2zXVBLKJ324oHVsvdnB9S6) | 2:58 |
 | 54 | [Serene Black Noise](https://open.spotify.com/track/4KY3v44ESVbj8SGEAKNJ4l) | [Digital Sounds Recordings](https://open.spotify.com/artist/6pzPREJWA5t3tGBsPlbKKI) | [Peaceful Black Noise](https://open.spotify.com/album/0TLWTVN5x5xCRx7D60HKXt) | 2:07 |
-| 55 | [Whispering Abyss \- Black Noise](https://open.spotify.com/track/45ZoRghEQkmPcyLgokWjTN) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Black Noise Tranquility](https://open.spotify.com/album/5ZsJGVGbXIjQ3uvEveCb7e) | 2:35 |
-| 56 | [Tranquil Black Noise](https://open.spotify.com/track/16mqlk2a8x1JHZbQZcgI8J) | [Fabricants of Noise](https://open.spotify.com/artist/6rUkUd35nP2xoKO46sKPqs) | [Relaxing Black Noise](https://open.spotify.com/album/3fYR0hAFxWrJQzuHqQuRLP) | 2:04 |
-| 57 | [Coal Echoes](https://open.spotify.com/track/06CZdio4eDdkdTPEZeFfiZ) | [Dream Fuzz](https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF) | [Coal Echoes](https://open.spotify.com/album/2PZtXdEG5eM6FPA8Ztontj) | 4:47 |
+| 55 | [Coal Echoes](https://open.spotify.com/track/06CZdio4eDdkdTPEZeFfiZ) | [Dream Fuzz](https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF) | [Coal Echoes](https://open.spotify.com/album/2PZtXdEG5eM6FPA8Ztontj) | 4:47 |
+| 56 | [Whispering Abyss \- Black Noise](https://open.spotify.com/track/45ZoRghEQkmPcyLgokWjTN) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Black Noise Tranquility](https://open.spotify.com/album/5ZsJGVGbXIjQ3uvEveCb7e) | 2:35 |
+| 57 | [Tranquil Black Noise](https://open.spotify.com/track/16mqlk2a8x1JHZbQZcgI8J) | [Fabricants of Noise](https://open.spotify.com/artist/6rUkUd35nP2xoKO46sKPqs) | [Relaxing Black Noise](https://open.spotify.com/album/3fYR0hAFxWrJQzuHqQuRLP) | 2:04 |
 | 58 | [Black Momentum](https://open.spotify.com/track/1fFwJVPH6fBqUGlL8qlKDf) | [Aileron](https://open.spotify.com/artist/2KETNse3N25ZwsHhq2iQnt) | [Black Momentum](https://open.spotify.com/album/42zOsFDYX5OgsMC7W4m5Fz) | 2:30 |
 | 59 | [Sleepy Black Noise](https://open.spotify.com/track/4skhZxAdjEHQ8XCOhLuhQS) | [ATOM](https://open.spotify.com/artist/0K8XPZ3XL6B0m6Hpd234lQ) | [Calm Me Down Black Noise](https://open.spotify.com/album/2K98eaKEKPaVhAjDSFt2cu) | 2:22 |
 | 60 | [Deep Slumber Black Noise](https://open.spotify.com/track/04ZrTWMreXX745Z72CuLdL) | [ASMR Mateo](https://open.spotify.com/artist/7uEuyUsDa6GZxIRiQOzfsX) | [Deep Slumber Black Noise](https://open.spotify.com/album/7oBB1YbLWa6wZ4SNzhYvEF) | 2:48 |

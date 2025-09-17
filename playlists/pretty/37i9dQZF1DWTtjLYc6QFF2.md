@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: Maryna Krut
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,274 likes - 45 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,275 likes - 45 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 44 | [Шалена](https://open.spotify.com/track/0BIeTpND6npFakTn6BX5gx) | [Ляна](https://open.spotify.com/artist/3yTcpGxouCA9NFSDDujXc6) | [Шалена](https://open.spotify.com/album/6f6S1KiHMaQo3jm741Dp0v) | 3:00 |
 | 45 | [Тарас Цимбалюк](https://open.spotify.com/track/2p4RdKrKUMaMEfL3vwCydC) | [ДРІТА](https://open.spotify.com/artist/4C1doWhhFm7OZXDuBguhn8) | [Тарас Цимбалюк](https://open.spotify.com/album/6yM6HK3NpiaOicE3r2NRJP) | 1:13 |
 
-Snapshot ID: `AAAAADlKgRj6SZMUp5V9tBPvkC6SYiRU`
+Snapshot ID: `AAAAADNsB7+G3jiEdte4dwC/2dzxwEpR`

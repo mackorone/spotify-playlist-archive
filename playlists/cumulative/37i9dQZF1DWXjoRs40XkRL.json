@@ -847,6 +847,28 @@
     },
     {
       "album": {
+        "name": "Barasana Laagi Re",
+        "url": "https://open.spotify.com/album/6nscidkhxexKhPhwNALlAp"
+      },
+      "artists": [
+        {
+          "name": "DEW",
+          "url": "https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s"
+        },
+        {
+          "name": "Sanchari Nag",
+          "url": "https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199013,
+      "name": "Barasana Laagi Re",
+      "url": "https://open.spotify.com/track/6yzBtilObFjJtCgI2Z5tOF"
+    },
+    {
+      "album": {
         "name": "Jalpari - The Desert Mermaid (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1ygwH3yJqtGFDozsANxJoF"
       },
@@ -6218,7 +6240,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 1309387,
       "name": "Raag Mishra Shirvranjani Taal Deepchandi",
       "url": "https://open.spotify.com/track/21CxzCrRgjPe5nFFe3ks9j"

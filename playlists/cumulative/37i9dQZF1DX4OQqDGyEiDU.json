@@ -4205,6 +4205,24 @@
     },
     {
       "album": {
+        "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
+        "url": "https://open.spotify.com/album/7INI4kXA59Vti239hZ9gwe"
+      },
+      "artists": [
+        {
+          "name": "NAKISO",
+          "url": "https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122482,
+      "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
+      "url": "https://open.spotify.com/track/2YZa7FpeKe423Wvme0yKNf"
+    },
+    {
+      "album": {
         "name": "\u3046\u3089\u3084\u307f\u3057\u3044 (feat. Kai,\u521d\u97f3\u30df\u30af,\u53ef\u4e0d)",
         "url": "https://open.spotify.com/album/46CCqNpwGw3LRgENm97aGk"
       },
@@ -4250,6 +4268,24 @@
       "duration_ms": 203023,
       "name": "\u304a\u3069\u308a\u3083\u3093\u305b",
       "url": "https://open.spotify.com/track/4OdbLnJJ3fWwaOdfOz2lEB"
+    },
+    {
+      "album": {
+        "name": "\u304a\u546a\u3044",
+        "url": "https://open.spotify.com/album/3gOIqdMqe8hz5xeXHJyaOr"
+      },
+      "artists": [
+        {
+          "name": "NAKISO",
+          "url": "https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117391,
+      "name": "\u304a\u546a\u3044",
+      "url": "https://open.spotify.com/track/59ojJ2W9aV1BpYogNMycAF"
     },
     {
       "album": {
@@ -4398,7 +4434,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 176233,
       "name": "\u3057\u3085\u304d\u2661\u308b\u30fc\u3077\u307e\u306b\u3042\uff01 - feat.\u521d\u97f3\u30df\u30af",
       "url": "https://open.spotify.com/track/1ZHpeNDuNTY3fo89Cpi3D6"
@@ -5480,7 +5516,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 135789,
       "name": "\u30a8\u30f3\u30f4\u30a3\u30fc\u30d9\u30a4\u30d3\u30fc",
       "url": "https://open.spotify.com/track/02vOyaNCKGX8uhjggOIH83"
@@ -7306,7 +7342,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 160606,
       "name": "\u30cf\u30ed\u30fc\u30bb\u30ab\u30a4",
       "url": "https://open.spotify.com/track/2SLuTdPR3ptm4V4byF8Iry"
@@ -8644,6 +8680,24 @@
       "duration_ms": 176800,
       "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0",
       "url": "https://open.spotify.com/track/1iywVk6Xx1XmJwd0rExYI3"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0 (Best Friend Remix)",
+        "url": "https://open.spotify.com/album/7LeSWBUQBEBUp0mguX4fQs"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178383,
+      "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0 (Best Friend Remix)",
+      "url": "https://open.spotify.com/track/5an1RVI4IDE9xP7iBRVssg"
     },
     {
       "album": {
@@ -11606,7 +11660,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 176080,
       "name": "\u840c\u3086\u308b",
       "url": "https://open.spotify.com/track/57DORQtOwHw7DB5jMFkCuI"
@@ -11642,7 +11696,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 144356,
       "name": "\u8868\u73fe\u6b32",
       "url": "https://open.spotify.com/track/0wkSnDFd2nIs3ORCfogReM"

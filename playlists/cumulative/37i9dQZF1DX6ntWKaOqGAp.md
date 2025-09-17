@@ -2,7 +2,7 @@
 
 ### [J\-Rock ON!!](https://open.spotify.com/playlist/37i9dQZF1DX6ntWKaOqGAp)
 
-> 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: King Gnu
+> 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: 羊文学 Hitsujibungaku
 
 2,525 songs - 6 day 13 hr 50 min
 

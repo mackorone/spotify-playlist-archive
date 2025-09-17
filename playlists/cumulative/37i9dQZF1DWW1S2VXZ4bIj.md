@@ -4,7 +4,7 @@
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: Ink Waruntorn
 
-522 songs - 1 day 7 hr 43 min
+523 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Bad Shawty](https://open.spotify.com/track/4O3J4WqPNqZP9Fib5ztyvj) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Bad Shawty](https://open.spotify.com/album/3OXNYJD05Ze2PBHOnUS1zA) | 3:30 | 2025-04-18 | 2025-04-25 |
 | [BADLY](https://open.spotify.com/track/4BDW3yQgmhQDLHLvaxzZtd) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BADLY](https://open.spotify.com/album/3L7hKLf8saWSccgsuExpqt) | 3:30 | 2025-08-15 | 2025-08-31 |
 | [Barbie](https://open.spotify.com/track/7vMTgmx2xtN0yUWf47fjEI) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Barbie](https://open.spotify.com/album/1LLHRg01Vb5my1oq6FCQVc) | 2:03 | 2024-08-02 | 2024-08-24 |
-| [BB](https://open.spotify.com/track/64qJUpatIimaU56Wk7Fk0B) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [BB](https://open.spotify.com/album/3yqxL15iqBwSHx0iIqkd1x) | 3:32 | 2025-09-05 |  |
+| [BB](https://open.spotify.com/track/64qJUpatIimaU56Wk7Fk0B) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [BB](https://open.spotify.com/album/3yqxL15iqBwSHx0iIqkd1x) | 3:32 | 2025-09-05 | 2025-09-17 |
 | [Be My Baby \(This Christmas\)](https://open.spotify.com/track/5xkKrjNxwgW702X135ZO5K) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [Be My Baby \(This Christmas\)](https://open.spotify.com/album/0ZldKmAdq1grXp4uZPEC9c) | 3:45 | 2024-12-20 | 2024-12-27 |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-09-09 | 2024-10-05 |
 | [beginner](https://open.spotify.com/track/4bcfiaTv3id9jpqhyDv2uV) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [Love & Limerence](https://open.spotify.com/album/3QI3Yxmiebv6OWPw2wU2Nh) | 3:52 | 2024-08-23 | 2024-09-20 |
@@ -58,7 +58,7 @@
 | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/track/77rZWogLvZ2NOf248oMd6N) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/album/5gck47MGPzpchPNcTAlfIl) | 4:13 | 2025-01-30 |  |
 | [DAISIES](https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S) | 2:56 | 2025-07-11 |  |
 | [Damn Right \(feat\. Childish Gambino & Kali Uchis\)](https://open.spotify.com/track/6HjYE79OOCGEhkIRfXLqrz) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:50 | 2025-03-14 | 2025-03-22 |
-| [Dancing By Myself](https://open.spotify.com/track/4xrUExyBK5PrsSnq0fQZVG) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [Timethai](https://open.spotify.com/artist/4OP4jGznSvNjM0aY8IFm3S) | [Dancing By Myself](https://open.spotify.com/album/2NWDOJYhFJ92FaFtZMbgjw) | 2:46 | 2025-09-12 |  |
+| [Dancing By Myself](https://open.spotify.com/track/4xrUExyBK5PrsSnq0fQZVG) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [Dancing By Myself](https://open.spotify.com/album/2NWDOJYhFJ92FaFtZMbgjw) | 2:46 | 2025-09-12 |  |
 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 | 2024-06-27 |  |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-19 | 2025-04-25 |
 | [Dirty Work](https://open.spotify.com/track/1ImRS2KtSaDZcj9vQTxwFA) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/1oJztb2MfwieRwHZ1t4NrN) | 3:00 | 2025-07-04 | 2025-07-19 |
@@ -158,6 +158,7 @@
 | [RAPSTAR](https://open.spotify.com/track/3LJdM5B8POsS6aG4ri5TQ3) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [RAPSTAR](https://open.spotify.com/album/5k4H423NlDI2jyhN3cENua) | 3:00 | 2024-10-25 | 2024-11-09 |
 | [Rapunzel \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/03qZDQKRYZdjhKsQ5G5H0t) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 2:45 | 2025-03-03 | 2025-03-22 |
 | [Really Like You](https://open.spotify.com/track/3entdIWiOuQfcXIkJEABsV) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:17 | 2025-01-24 | 2025-02-14 |
+| [Rich Man](https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:17 | 2025-09-16 |  |
 | [Ride or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 | 2025-01-09 | 2025-02-22 |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-27 | 2024-12-13 |
 | [Running Wild](https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:31 | 2024-11-15 | 2024-11-23 |

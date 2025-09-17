@@ -5181,6 +5181,24 @@
     },
     {
       "album": {
+        "name": "Cyclone",
+        "url": "https://open.spotify.com/album/5FHXx7MbcJtdiQTWcNGhEi"
+      },
+      "artists": [
+        {
+          "name": "Future Palace",
+          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242809,
+      "name": "Cyclone",
+      "url": "https://open.spotify.com/track/7pbnndpH911zmnBfInjD1u"
+    },
+    {
+      "album": {
         "name": "CYNICAL SAVIOR",
         "url": "https://open.spotify.com/album/79c1qw14jN0Xt6BSNNbfVu"
       },
@@ -13860,7 +13878,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 325789,
       "name": "Melanchronic",
       "url": "https://open.spotify.com/track/0ZnJwflZTxlQxtQOzRlRBL"
@@ -18746,7 +18764,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 239682,
       "name": "Sidewinder",
       "url": "https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3"
@@ -24038,6 +24056,24 @@
       "duration_ms": 214874,
       "name": "Weapon",
       "url": "https://open.spotify.com/track/0CGj0cu1kyQq08Zw5tt1Tt"
+    },
+    {
+      "album": {
+        "name": "Weaponize Your Rage",
+        "url": "https://open.spotify.com/album/0foh5zGMkssbnxSFFgXRTN"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Space",
+          "url": "https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176767,
+      "name": "Weaponize Your Rage",
+      "url": "https://open.spotify.com/track/0jocpgTnZmTblWYDCWBXPw"
     },
     {
       "album": {

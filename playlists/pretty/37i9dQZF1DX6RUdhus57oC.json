@@ -1,6 +1,6 @@
 {
   "description": "Le sommeil, c'est la sant\u00e9, alors laissez-vous bercer. Photo : Alain Roche",
-  "num_followers": 30874,
+  "num_followers": 30876,
   "original_name": "Douce nuit",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-09-12 14:39:34",
       "album": {
+        "name": "Sparrow Eye",
+        "url": "https://open.spotify.com/album/2ebbOKUcsgBBhyQ83DjA6H"
+      },
+      "artists": [
+        {
+          "name": "Jared Chance Taylor",
+          "url": "https://open.spotify.com/artist/29GfkEnuiaWJrX3uM4PPLt"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Sparrow Eye",
+      "url": "https://open.spotify.com/track/5fsFankh47Uve3ugGEKyyG"
+    },
+    {
+      "added_at": "2025-09-12 14:39:34",
+      "album": {
         "name": "Echoes In The Wind",
         "url": "https://open.spotify.com/album/2UXh5wXXK266hiOoYkztV0"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 137556,
       "name": "Echoes In The Wind",
       "url": "https://open.spotify.com/track/6EO1zgWT7dpChCqOfeFIVS"
-    },
-    {
-      "added_at": "2025-09-12 14:39:34",
-      "album": {
-        "name": "Sparrow Eye",
-        "url": "https://open.spotify.com/album/2ebbOKUcsgBBhyQ83DjA6H"
-      },
-      "artists": [
-        {
-          "name": "Jared Chance Taylor",
-          "url": "https://open.spotify.com/artist/29GfkEnuiaWJrX3uM4PPLt"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Sparrow Eye",
-      "url": "https://open.spotify.com/track/5fsFankh47Uve3ugGEKyyG"
     },
     {
       "added_at": "2025-09-12 14:39:34",

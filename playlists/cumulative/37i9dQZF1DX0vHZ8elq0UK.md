@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-355 songs - 20 hr 19 min
+356 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Love Myself](https://open.spotify.com/track/4Y6IdA3e4wwLrbKHDjufaC) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [HAIZ](https://open.spotify.com/album/4oeF4AKGQajeLuVVCpHh8c) | 3:38 | 2021-12-16 |  |
 | [LoveStoned / I Think She Knows \(Interlude\)](https://open.spotify.com/track/5iyE2d4U3Vc5cqY9mPTlpy) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 7:24 | 2022-04-11 | 2022-04-20 |
 | [Lullaby](https://open.spotify.com/track/5xzCzOAOfRi4DOttSzvznR) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Lullaby](https://open.spotify.com/album/1SR7c6j94aiuYEhUrfTbZ7) | 3:24 | 2021-12-16 | 2022-07-26 |
+| [Make Me Cry](https://open.spotify.com/track/3TtpqKNIjpfE8Gdwsx4DHg) | [BIZZY](https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk) | [Make Me Cry](https://open.spotify.com/album/6zkx3umapCWzMktYccapQ3) | 2:54 | 2025-09-16 |  |
 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 | 2022-07-08 | 2022-09-10 |
 | [Maps](https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:09 | 2021-12-16 |  |
 | [Marry You](https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:50 | 2022-07-08 | 2024-04-19 |

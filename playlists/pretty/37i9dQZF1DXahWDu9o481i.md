@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,689 likes - 56 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,719 likes - 56 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

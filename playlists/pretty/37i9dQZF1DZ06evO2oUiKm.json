@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMYFgAAAAADmXe/V9FJ/lBqYq+P84+vd",
+  "snapshot_id": "aMdXAAAAAAApEz28caajiXnPNfHHeNCP",
   "tracks": [
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 269897,
-      "name": "You First",
-      "url": "https://open.spotify.com/track/1wGL1oXVUUnY4t48OgB4Rl"
+      "duration_ms": 41066,
+      "name": "Why - Interlude",
+      "url": "https://open.spotify.com/track/6ZKb3UNC7IvVCtYzT3vS3q"
     },
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 163704,
-      "name": "She Said",
-      "url": "https://open.spotify.com/track/2uJ8sLJW0otjZ33RjMfwuP"
+      "duration_ms": 269897,
+      "name": "You First",
+      "url": "https://open.spotify.com/track/1wGL1oXVUUnY4t48OgB4Rl"
     },
     {
       "added_at": null,
@@ -843,6 +843,50 @@
       "duration_ms": 187128,
       "name": "I've Already Won",
       "url": "https://open.spotify.com/track/6CiLixdgvog7l1tY18vEaz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "She Is Risen, Vol. 2",
+        "url": "https://open.spotify.com/album/1HfkVtVSe4OQqpFLSmT94X"
+      },
+      "artists": [
+        {
+          "name": "Morgan James",
+          "url": "https://open.spotify.com/artist/56cxpytHZalu41uOraqsB4"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Shoshana Bean",
+          "url": "https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5"
+        }
+      ],
+      "duration_ms": 256010,
+      "name": "Everything's Alright",
+      "url": "https://open.spotify.com/track/3xO030eZebHF82IMjz626q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Johnson",
+          "url": "https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 162468,
+      "name": "Big Dog",
+      "url": "https://open.spotify.com/track/6TSIuLcb2iuuaCO84h7JoI"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

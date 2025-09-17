@@ -586,6 +586,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 576 | [Prelude](https://open.spotify.com/track/7KIWUT6JRWPgXMFeNLTyS4) | [Typhoon](https://open.spotify.com/artist/6p6WlxIkeWH8yOYvciFfVl) | [White Lighter](https://open.spotify.com/album/4O1WEqjRcJqSjF0HhQPm31) | 0:17 |
 | 577 | [Ashes in the Snow \- Remastered](https://open.spotify.com/track/6ieH021IWLGOGifX0FUzsM) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Hymn to the Immortal Wind \(Anniversary Edition\)](https://open.spotify.com/album/2tMQkZ8WvwpM7qmRVrW3hK) | 11:44 |
 | 578 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
-| 579 | [Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [The Most Dear and The Future](https://open.spotify.com/album/51h6ahBtJWl7emcB5yDSuU) | 2:19 |
+| 579 | [Senja](https://open.spotify.com/track/5XivEexP5g4mYhkeZ2JMT1) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [WHERE IS MY HEAD?](https://open.spotify.com/album/4KdSMovHLQrLV7lGM7Z0af) | 2:34 |
 
-Snapshot ID: `AAAHrDylFCWqiwJgPKTSj5Nz0jNxRjjr`
+Snapshot ID: `AAAHroFNw7zuqS3IQi//PwcJaDEkrGeU`

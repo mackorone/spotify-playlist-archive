@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Rhineland, The Wild Wind, Laureline and more
+> With Rhineland, Laureline, The Wild Wind and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,151 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,152 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [I Got It](https://open.spotify.com/track/2hfoVrTEJFOf4U0WctEcJI) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Cutting Edge Stuff](https://open.spotify.com/album/1CwW0jNyO2eLdu7Udf6M8D) | 3:48 |
 | 50 | [Reckless](https://open.spotify.com/track/3rkgDAgshJ6qDBFHEOMRvs) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [A Dream Through Open Eyes](https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ) | 3:37 |
 
-Snapshot ID: `aMjGiQAAAACUfRjhQdoFascW9W6Y5d24`
+Snapshot ID: `AAAAAHf6M/HyJjKN8IMHguqiLZ1DhPCF`

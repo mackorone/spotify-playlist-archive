@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36edUJpD76c.md) - [plain]
 
 > Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Aymen, Amo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,972,379 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,972,194 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36edUJpD76c.md) - [plain]
 | 34 | [Hennessy](https://open.spotify.com/track/7AoFFLyeCsUJ4xsxGMUbI5) | [Yc](https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA) | [Hennessy](https://open.spotify.com/album/52IaEzXz8U94P5FiuYhrrI) | 1:54 |
 | 35 | [Kichta Walk](https://open.spotify.com/track/5RXP4YWkiOfmOPAk4MofWz) | [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC) | [Kichta Walk](https://open.spotify.com/album/3KXJ9hNm7ze8X8eLgHfgpx) | 2:56 |
 | 36 | [Wir beide](https://open.spotify.com/track/0wAOFB8OowTWHkjVSXL7Er) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Wir beide](https://open.spotify.com/album/4qDViSet7NVOJ5qpJ5AqCC) | 3:13 |
-| 37 | [MS\. FATTY](https://open.spotify.com/track/76yQVPxMbxr1w1DxjZXx6c) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [MS\. FATTY](https://open.spotify.com/album/1scwCDGBdMG4TXegKI3Htv) | 2:31 |
+| 37 | [MURDA \(MS\. FATTY\)](https://open.spotify.com/track/76yQVPxMbxr1w1DxjZXx6c) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [MURDA \(MS\. FATTY\)](https://open.spotify.com/album/1scwCDGBdMG4TXegKI3Htv) | 2:31 |
 | 38 | [Was ich mach](https://open.spotify.com/track/22GHZQfIxCUbwZVcmOLD9E) | [Vega](https://open.spotify.com/artist/6F9QTYrJgiLY80BZGzWIHO), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [Was ich mach](https://open.spotify.com/album/1WVhNwop7LwhqtUItjV5qC) | 2:29 |
 | 39 | [Regentage](https://open.spotify.com/track/2wsshURx5YlfXcUpJETi5T) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Regentage](https://open.spotify.com/album/0PFt6WX6A7W0MIJsBtK0b0) | 2:58 |
 | 40 | [Baddest in Germany](https://open.spotify.com/track/68riJ0IgArc6va32ihh57s) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Baddest in Germany](https://open.spotify.com/album/5sXwo4isUCjmHW1vlJmgci) | 2:20 |

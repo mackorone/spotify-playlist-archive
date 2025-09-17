@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,820 songs - 3 day 9 hr 35 min
+1,821 songs - 3 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1102,6 +1102,7 @@
 | [Of Dragons and Monsters](https://open.spotify.com/track/5hzChgHbQ1a1V6lImbhQy4) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Evenings on Instagram, Pt\. I](https://open.spotify.com/album/369bs70zWIK9JdueHB97dw) | 1:02 | 2021-03-16 | 2022-04-14 |
 | [Of The Heart](https://open.spotify.com/track/7rXMNuRFLxjUoO3ITg2fBf) | [Leslie Miles](https://open.spotify.com/artist/23A7R7jwaZW0PQyH2TpGi1) | [Of The Heart](https://open.spotify.com/album/2Dmc3pp082OdyufHd2a7oK) | 2:25 | 2022-06-08 | 2022-06-14 |
 | [Oh Tannenbaum](https://open.spotify.com/track/66mfPFzGKc6Y62YQx9QdZl) | [Sasha Cohn](https://open.spotify.com/artist/7zB6bpjg6Cl3ngSwB3nNvm) | [Weinachten](https://open.spotify.com/album/0vC2jwHlYlIBt0omi48bmm) | 1:53 | 2021-04-29 | 2022-04-16 |
+| [old folk house](https://open.spotify.com/track/0EFZihyuzAKHCozChCS9c7) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [old folk house](https://open.spotify.com/album/6tYfikLqid5yVpreTD0j5X) | 2:08 | 2025-09-16 |  |
 | [Old Friends](https://open.spotify.com/track/77q2I17hdHukGdJJpxYOke) | [Juliana](https://open.spotify.com/artist/6RBHDN4rT8QrKtozLpU8Vp) | [Old Friends EP](https://open.spotify.com/album/2arcSC9YzTWGM1c9pHBWsR) | 4:55 | 2021-05-12 | 2021-05-19 |
 | [Old Habit](https://open.spotify.com/track/4FoGnUdmnEsTxrsvRofMZr) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [Old Habit](https://open.spotify.com/album/1jOnTWP253diSiCFev3UKJ) | 2:03 | 2021-05-03 | 2022-04-19 |
 | [Old Letter](https://open.spotify.com/track/3Ou4VHEilRM3CLJ4TkxBzY) | [Guido Heeneman](https://open.spotify.com/artist/2e4x0REh1E5gnXL9fNkidv), [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/00PzQJppWlGGLdMCmBQtfy) | 3:54 | 2022-12-24 | 2023-01-04 |
@@ -1823,7 +1824,7 @@
 | [Ærlighet](https://open.spotify.com/track/7h79rwHdJhHy4srfV43xVB) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Ærlighet](https://open.spotify.com/album/5d1MTzFWXVmeWpXY71Sfct) | 1:57 | 2021-03-18 | 2022-04-17 |
 | [È ora di dormire](https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [È ora di dormire](https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY) | 2:59 | 2021-04-28 | 2022-04-06 |
 | [Échelle](https://open.spotify.com/track/2QKdAMS5nL4aAH8pg7NHlm) | [Satordi de Launay](https://open.spotify.com/artist/4NZ53ctU4KWRID8Y431vhq) | [Échelle](https://open.spotify.com/album/1kV6tLaBDsR4t2xaSmVVzJ) | 0:59 | 2021-05-16 | 2022-04-02 |
-| [森の住人](https://open.spotify.com/track/4hxnwRWpuL8J4S5oOtl9jT) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [神様のメロディ](https://open.spotify.com/album/1xtbw2HzyWubGlsgO2gEGe) | 5:39 | 2025-01-21 |  |
+| [森の住人](https://open.spotify.com/track/4hxnwRWpuL8J4S5oOtl9jT) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [神様のメロディ](https://open.spotify.com/album/1xtbw2HzyWubGlsgO2gEGe) | 5:39 | 2025-01-21 | 2025-09-17 |
 | [管弦楽組曲 第3番 ニ長調 BWV 1068: G線上のアリア](https://open.spotify.com/track/4uSFOXu5fSfbWMLsNPikp0) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Miyuji Kaneko](https://open.spotify.com/artist/1P9zpzupo4lDtMYqC96WLE) | [管弦楽組曲 第3番 ニ長調 BWV 1068: G線上のアリア](https://open.spotify.com/album/3JNTQwUs7ggr8fsFiVNhuC) | 3:34 | 2022-03-01 | 2022-07-29 |
 | [還る](https://open.spotify.com/track/4SsJaHSydoIr3cYwxPKwfU) | [田中タリラ](https://open.spotify.com/artist/1xQC7gNhUDSY1IfQvF8fou) | [還る](https://open.spotify.com/album/6GsJjr8oBbjvXmNOLwYVRk) | 4:23 | 2025-09-11 |  |
 | [陽だまり](https://open.spotify.com/track/5m8CY9GToqHZDzdWvF1kl3) | [Amane](https://open.spotify.com/artist/08kVeFrSyMxCN8sAUJeRHr) | [陽だまり](https://open.spotify.com/album/0IdaqRT4ULMBDNjkEKzMn9) | 2:40 | 2025-09-11 |  |

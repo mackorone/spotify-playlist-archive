@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: Aymen
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,951 likes - 100 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,945 likes - 100 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 60 | [Padapapa](https://open.spotify.com/track/76tcXNRe8JRHYsYg8zmMff) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Safraoui](https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [Padapapa](https://open.spotify.com/album/7Mh88g2XzZNw96kzd748nl) | 2:58 |
 | 61 | [Jebiga](https://open.spotify.com/track/30tl9xkDBGoo8xlzsaRnA8) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Nucci](https://open.spotify.com/artist/3YNm5MBjwq1QDeKQJq7wze), [Voyage](https://open.spotify.com/artist/7aASXckUdNXJ5X338n8C1D) | [Der Faktor Mensch](https://open.spotify.com/album/7z9baz3rVNE3TsUCPzOYD1) | 2:07 |
 | 62 | [KUNSTWERK](https://open.spotify.com/track/46Qzl6GOYinCIvq3LbVugs) | [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [KUNSTWERK](https://open.spotify.com/album/467oYjt04QFPvLeVhMLerm) | 2:29 |
-| 63 | [MS\. FATTY](https://open.spotify.com/track/76yQVPxMbxr1w1DxjZXx6c) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [MS\. FATTY](https://open.spotify.com/album/1scwCDGBdMG4TXegKI3Htv) | 2:31 |
+| 63 | [MURDA \(MS\. FATTY\)](https://open.spotify.com/track/76yQVPxMbxr1w1DxjZXx6c) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [MURDA \(MS\. FATTY\)](https://open.spotify.com/album/1scwCDGBdMG4TXegKI3Htv) | 2:31 |
 | 64 | [Delale](https://open.spotify.com/track/2sbg1omBXnFOeHvbWyR1Vv) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Delale](https://open.spotify.com/album/4cVsNCWTpWwIvGOXPX8nAs) | 2:35 |
 | 65 | [Zemer](https://open.spotify.com/track/1RC4uLbhnXE6bZUVXlJKky) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [Zemer](https://open.spotify.com/album/1ycMDahcVTL9gMDQG6Sr2I) | 2:14 |
 | 66 | [Rauch](https://open.spotify.com/track/6v1b9nidriM4UBfN7KToko) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Renaissance](https://open.spotify.com/album/5cSEvN4TBHPfIciw8Ln05p) | 2:27 |

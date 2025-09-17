@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-904 songs - 2 day 11 hr 55 min
+905 songs - 2 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,7 +637,7 @@
 | [Ready Lets Go](https://open.spotify.com/track/27M2m1NzEmCkzb9kzTLqzT) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 0:59 | 2022-05-28 | 2024-01-10 |
 | [Real Death](https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [A Crow Looked at Me](https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN) | 2:27 | 2024-06-06 |  |
 | [Real House](https://open.spotify.com/track/62R903SYfJm79xxLhjEhyW) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 5:58 | 2024-03-22 | 2024-06-25 |
-| [Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [The Most Dear and The Future](https://open.spotify.com/album/51h6ahBtJWl7emcB5yDSuU) | 2:19 | 2025-09-14 |  |
+| [Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [The Most Dear and The Future](https://open.spotify.com/album/51h6ahBtJWl7emcB5yDSuU) | 2:19 | 2025-09-14 | 2025-09-17 |
 | [recognized](https://open.spotify.com/track/4sriGuSuKyc8mmcoWaNO2b) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 1:02 | 2023-04-19 | 2024-01-02 |
 | [Red Rain \- 2012 Remaster](https://open.spotify.com/track/3ixUQ3Wt5B6iIkY6zWhRMY) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(2012 Remastered\)](https://open.spotify.com/album/2ikq6LspaBbUG2qyiV5qdx) | 5:40 | 2024-01-08 |  |
 | [Redemption Arc](https://open.spotify.com/track/5P2xjOkykDrAHcLxCLyBDi) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 3:21 | 2024-03-03 | 2024-03-05 |
@@ -674,6 +674,7 @@
 | [Searchin'](https://open.spotify.com/track/2HhzGAT66gogfukLzhC60W) | [Acid Dad](https://open.spotify.com/artist/3iqOjs2iwL6ywtcENg1ppm) | [Take It From The Dead](https://open.spotify.com/album/58jvwnt6gtTDDhNqH8jI48) | 3:23 | 2023-07-12 | 2024-01-16 |
 | [Secret History](https://open.spotify.com/track/3JXmhHzljGagSdPuCmqBpp) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Foxing](https://open.spotify.com/album/7wtRnGjfT3JMeseYGVzDy3) | 4:01 | 2024-10-22 |  |
 | [Secret Knock](https://open.spotify.com/track/0rnhjjdY8szBKmi6HAVDvC) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [Black Hole Superette](https://open.spotify.com/album/63y5mkLctupacSr20e0O6j) | 3:32 | 2025-08-14 |  |
+| [Senja](https://open.spotify.com/track/5XivEexP5g4mYhkeZ2JMT1) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [WHERE IS MY HEAD?](https://open.spotify.com/album/4KdSMovHLQrLV7lGM7Z0af) | 2:34 | 2025-09-16 |  |
 | [Sequence](https://open.spotify.com/track/1sxLbBQVXUvFRkEMiHjQ99) | [Stealing Sheep](https://open.spotify.com/artist/3ghT43Gj41br25PvBCDS22) | [Not Real](https://open.spotify.com/album/4J2or5UZfwCFPtPOobZwZQ) | 3:13 | 2024-01-04 | 2024-03-12 |
 | [Seven Psalms: The Lord / Love Is Like a Braid / My Professional Opinion / Your Forgiveness / Trail of Volcanoes / The Sacred Harp / Wait](https://open.spotify.com/track/3Y7ZWE3zat6O9YhMm44qCf) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Seven Psalms](https://open.spotify.com/album/2W88kNmADcEEvcaJPVGZHF) | 33:02 | 2023-05-21 | 2025-07-25 |
 | [Sextape](https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:01 | 2024-02-23 |  |

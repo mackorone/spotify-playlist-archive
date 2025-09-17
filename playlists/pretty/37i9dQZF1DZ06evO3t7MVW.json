@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 90946,
+  "num_followers": 90970,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMYFgAAAAAD/uRoEXU72eh4OH2Au9Dza",
+  "snapshot_id": "aMdXAAAAAADxAne3w7EBd/yiffwO8O9G",
   "tracks": [
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sacred Sound",
-        "url": "https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796"
-      },
-      "artists": [
-        {
-          "name": "Iya Terra",
-          "url": "https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 216476,
-      "name": "Give Thanks (feat. Stick Figure)",
-      "url": "https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel It All Around",
         "url": "https://open.spotify.com/album/02qlYc4mrjNMFFQvOkrS01"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 194225,
       "name": "Show Love (with Stick Figure)",
       "url": "https://open.spotify.com/track/40duW4CYbkAvHPtb19eX03"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sacred Sound",
+        "url": "https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796"
+      },
+      "artists": [
+        {
+          "name": "Iya Terra",
+          "url": "https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 216476,
+      "name": "Give Thanks (feat. Stick Figure)",
+      "url": "https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r"
     },
     {
       "added_at": null,

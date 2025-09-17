@@ -4,7 +4,7 @@
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-2,292 songs - 5 day 9 hr 21 min
+2,293 songs - 5 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Bumpin'](https://open.spotify.com/track/2JSRHxHfbteGcueRhfKtm7) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Bumpin'](https://open.spotify.com/album/4BtfgqdJz0qKvr7hHXAAmo) | 2:50 | 2022-06-03 | 2022-06-11 |
 | [Bumpin'](https://open.spotify.com/track/4cRh8GLkf85Dl8dsceZMqp) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Bumpin'](https://open.spotify.com/album/1Zs0tvWEiGsszEnjKjr2yA) | 2:55 | 2023-09-15 | 2023-11-18 |
 | [Bumpin'](https://open.spotify.com/track/6wf74PzfY9kbx6nW66IHo0) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [Play EP](https://open.spotify.com/album/46pHq2uVjEIgAkVKF7PF18) | 2:49 | 2025-05-09 | 2025-06-07 |
+| [Bunzzz](https://open.spotify.com/track/0FVvWhTlaAtcEbO8Bp6on0) | [Jeff Sorkowitz](https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC) | [Bunzzz](https://open.spotify.com/album/7FPQMoNjZePas7ccKQcjNz) | 2:38 | 2025-09-16 |  |
 | [Burn](https://open.spotify.com/track/5AGHwn4FLvJUdqmA10JImw) | [David Herrlich](https://open.spotify.com/artist/62k0c1WajfOGpgzjmVHpKj) | [No More / Burn](https://open.spotify.com/album/7w7voLuEhvC219Xd6U2cMF) | 2:31 | 2022-11-05 | 2022-11-12 |
 | [Burn This House](https://open.spotify.com/track/5HYOVRe3chMbHoFnGxdxWC) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Burn This House](https://open.spotify.com/album/54p2xfsHK8EbDCSLsEX956) | 3:35 | 2022-04-28 | 2022-05-14 |
 | [Burnin](https://open.spotify.com/track/5dCEmmQ6jZxMXbcMr7PnNr) | [Kyle Robertson](https://open.spotify.com/artist/6hi9tO3xaLRWsl2Q6jqjMI) | [Burnin](https://open.spotify.com/album/5OY5Lf5vOQNlhXX6B8rE6q) | 3:35 | 2022-07-15 | 2022-07-30 |

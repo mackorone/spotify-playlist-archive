@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,434 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,492 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Meu Grito de Amor](https://open.spotify.com/track/6WjPuwI7jxzqLWwFXr60m4) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Country Sessions](https://open.spotify.com/album/0x6pkgWkVjIlXWS016XzDN) | 3:32 |
 | 50 | [É Tudo Sobre Você / Ser Mudado \- Ao Vivo](https://open.spotify.com/track/1h0yBDChztCJRTqmI5U6ou) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Uma Só Voz \- Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/1nvgIwTyHcYpxu5Xk6o0ZY) | 7:22 |
 
-Snapshot ID: `MFuBIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFzSoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

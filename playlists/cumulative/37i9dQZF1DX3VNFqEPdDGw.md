@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Ranjit Bawa
 
-352 songs - 18 hr 4 min
+353 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Patili Chaa Di](https://open.spotify.com/track/3McpImTq4C6gA3UFAuZ9Hh) | [Sajjan Adeeb](https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON) | [Patili Chaa Di](https://open.spotify.com/album/369dmtIr8TdnVDlGK33XRP) | 3:14 | 2025-06-03 |  |
 | [Patola](https://open.spotify.com/track/4UnZeL7xwGxsjdSoC2Jgne) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [DJ Jesta](https://open.spotify.com/artist/7spq8uj7U7HSbg5r3hGQuA) | [Patola](https://open.spotify.com/album/34ExNlFZBdA3qlDawAXDKt) | 4:00 | 2025-01-08 | 2025-03-20 |
 | [Pauna Crore](https://open.spotify.com/track/2sP6Nv4rglhNZoi7brcg4X) | [Boota Aklia](https://open.spotify.com/artist/5xFvjlU5uaj67ErkybedNZ) | [Pauna Crore](https://open.spotify.com/album/7nVUM54y7QHcA2wKkJovvr) | 2:44 | 2025-06-30 | 2025-07-05 |
+| [Peg Pugg Laake \- From "Nikka Zaildar 4"](https://open.spotify.com/track/2KUtpfZyxov16ta32Gerg3) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Peg Pugg Laake \(From "Nikka Zaildar 4"\)](https://open.spotify.com/album/3gtVxrGCt0SUe1P9VhJPlO) | 2:41 | 2025-09-16 |  |
 | [Peg Te Bhangra](https://open.spotify.com/track/65wgSWsUxiK9Xwvyo81SAG) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i), [Mista Baaz](https://open.spotify.com/artist/4WfXu0xIHhthU5Jb5x3hRq) | [Peg Te Bhangra](https://open.spotify.com/album/5mDKUZuY40vUIQb5nTnd3q) | 2:57 | 2024-06-21 | 2025-01-09 |
 | [Pehle Lalkare Naal Main Dar Gai \- Desi Remix](https://open.spotify.com/track/68RWov6fKPxwtlrnBqOUTc) | [Amar Singh Chamkila](https://open.spotify.com/artist/2yZ5VRE8Cy4H81VL9biNbQ), [Amarjot](https://open.spotify.com/artist/3cE16YWyzYxHOfnm64kKgg), [Bhumik Raj](https://open.spotify.com/artist/5pcqn5mDxT6XKUBwSm2n8N) | [Pehle Lalkare Naal Main Dar Gai \- Desi Remix](https://open.spotify.com/album/61tQHjpdbo2qMvdv3Z73Lh) | 2:26 | 2024-10-16 | 2025-01-09 |
 | [Pehredaariyan](https://open.spotify.com/track/2vJaQC3GomnoivP7aIogz9) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [Pehredaariyan](https://open.spotify.com/album/3mt8nNSKMHPei2Tb8GmWE0) | 2:51 | 2025-01-08 | 2025-08-06 |
@@ -298,7 +299,7 @@
 | [Snake Charmer](https://open.spotify.com/track/6CSjET6CC7SRqFNyNvQcRw) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [Sukshinder Shinda](https://open.spotify.com/artist/6Mp7fezR1NJNc7tnybKo18) | [Snake Charmer](https://open.spotify.com/album/2ngFdTXwh9ehbsv2Xa8oAe) | 4:56 | 2023-02-21 | 2023-05-26 |
 | [Sorry](https://open.spotify.com/track/6vNwtyeEXQTLDnWFmEGlbG) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Sorry](https://open.spotify.com/album/2VmNAyodPzVsndwScEShst) | 2:11 | 2021-12-18 | 2022-01-11 |
 | [Star](https://open.spotify.com/track/41i79wo8uVSA74MUD1CbVZ) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Munda Sidhua Da](https://open.spotify.com/album/4Q4oPqoWHnWuRPIqMb0ohS) | 4:05 | 2021-12-18 | 2022-01-11 |
-| [Step Bhull Gyi](https://open.spotify.com/track/2wJdq8jS5hKKQHbPBjynQx) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX) | [Bhadauria](https://open.spotify.com/album/2l2IZm9oxJEOnzQRONl3h0) | 3:16 | 2025-01-08 |  |
+| [Step Bhull Gyi](https://open.spotify.com/track/2wJdq8jS5hKKQHbPBjynQx) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX) | [Bhadauria](https://open.spotify.com/album/2l2IZm9oxJEOnzQRONl3h0) | 3:16 | 2025-01-08 | 2025-09-17 |
 | [Still Blessed](https://open.spotify.com/track/07HEIcwXVL3RE6fbttEeAp) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Still Blessed](https://open.spotify.com/album/1Tl4m3E5DZxWKnho6jmC2x) | 2:26 | 2025-03-10 |  |
 | [Still Standing](https://open.spotify.com/track/6qJwdPK0bMWyX2ys3lZ23y) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [Underrated](https://open.spotify.com/album/2k3QwEDSQHgQLclE3Cvcov) | 2:38 | 2021-12-18 | 2023-09-02 |
 | [Stoole](https://open.spotify.com/track/7LAlUMPRkSEdTCBAzPiSTQ) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Stoole](https://open.spotify.com/album/5w95INvDMDcVJiH9NoWHRp) | 2:49 | 2025-07-16 |  |

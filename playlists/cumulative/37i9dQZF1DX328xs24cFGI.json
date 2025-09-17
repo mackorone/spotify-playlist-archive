@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "\u30cd\u30aa\u30f3\u30c6\u30c8\u30e9",
+        "url": "https://open.spotify.com/album/5eBe2vfBo5KDCoTwC1vVGf"
+      },
+      "artists": [
+        {
+          "name": "\u30ab\u30e9\u30ce\u30a2",
+          "url": "https://open.spotify.com/artist/3OG4fjBtofQNIBaWMnZw2m"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204736,
+      "name": "aquarium",
+      "url": "https://open.spotify.com/track/5BWT3Lvw8lwkhKHlz0EK7A"
+    },
+    {
+      "album": {
         "name": "Ima no Futari o Otagai ga Miteru",
         "url": "https://open.spotify.com/album/3a1PHwaqJwCMcQrrVEPO0e"
       },
@@ -1592,6 +1610,24 @@
       "duration_ms": 250033,
       "name": "It\u2019s all good",
       "url": "https://open.spotify.com/track/5V6ZKHUuyo9TgpmzMgxV9R"
+    },
+    {
+      "album": {
+        "name": "Kanaimasenkane",
+        "url": "https://open.spotify.com/album/5RooSsSfxYYJ29F6navtyA"
+      },
+      "artists": [
+        {
+          "name": "Ryukku to Soine Gohan",
+          "url": "https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281766,
+      "name": "Kanaimasenkane",
+      "url": "https://open.spotify.com/track/626Gdtfm2RgScpMKKKTMNH"
     },
     {
       "album": {
@@ -2820,7 +2856,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 321800,
       "name": "Sign",
       "url": "https://open.spotify.com/track/5ZLkGLEYYDlgcDXK6A2vYO"
@@ -8240,7 +8276,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 234117,
       "name": "\u8cb4\u65b9\u306e\u604b\u4eba\u306b\u306a\u308a\u305f\u3044",
       "url": "https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q"

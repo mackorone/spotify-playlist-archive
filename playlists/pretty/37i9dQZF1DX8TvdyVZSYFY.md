@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,095,917 likes - 300 songs - 17 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,095,940 likes - 300 songs - 17 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,8 +284,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 274 | [Breathe \- Acoustic](https://open.spotify.com/track/3eiY1jAroh5xlT9qd1KEA8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Breathe \(Acoustic\)](https://open.spotify.com/album/6U4ZNqzqc79i1ZZBialhPV) | 3:51 |
 | 275 | [My My My! \- Acoustic](https://open.spotify.com/track/4SQG8VU2qmbvgb53ptyjz9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [My My My! \(Acoustic\)](https://open.spotify.com/album/2lXAwRwgMTwcXS3NNekp6Q) | 3:43 |
 | 276 | [One Call Away \- Acoustic](https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away \(Acoustic\)](https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A) | 3:09 |
-| 277 | [I Wanna Dance with Somebody \- Acoustic](https://open.spotify.com/track/2Ksnh0QtEidLCZXSbPqxoI) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg) | [I Wanna Dance with Somebody \(Acoustic\)](https://open.spotify.com/album/6uD5hZuQwWjcWmmGSuEUH3) | 3:31 |
-| 278 | [Take On Me \- 2017 Acoustic](https://open.spotify.com/track/74vMY1UdmXNtHcTMaVUoQl) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Take On Me \(2017 Acoustic\)](https://open.spotify.com/album/6g26qg7JoIOsXZzU8yVyI9) | 3:04 |
+| 277 | [Take On Me \- 2017 Acoustic](https://open.spotify.com/track/74vMY1UdmXNtHcTMaVUoQl) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Take On Me \(2017 Acoustic\)](https://open.spotify.com/album/6g26qg7JoIOsXZzU8yVyI9) | 3:04 |
+| 278 | [I Wanna Dance with Somebody \- Acoustic](https://open.spotify.com/track/2Ksnh0QtEidLCZXSbPqxoI) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg) | [I Wanna Dance with Somebody \(Acoustic\)](https://open.spotify.com/album/6uD5hZuQwWjcWmmGSuEUH3) | 3:31 |
 | 279 | [When You Love Someone \- Acoustic](https://open.spotify.com/track/3wm0791j8FPkG7RUYljgr8) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [When You Love Someone \(Acoustic\)](https://open.spotify.com/album/7abPoR0SXjsHVkHquLrV7B) | 3:30 |
 | 280 | [Feel So Close](https://open.spotify.com/track/1WtXpaF4v2ukGOsjoxPcyF) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Feel So Close](https://open.spotify.com/album/62WTjygikgpKrpBKd07x1x) | 3:26 |
 | 281 | [Shotgun \- Acoustic Version](https://open.spotify.com/track/6kH01KoU0eNgOmiUWvHGVk) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Shotgun \(Acoustic Version\)](https://open.spotify.com/album/07UqxHoaAeemManpiWR8HU) | 3:24 |

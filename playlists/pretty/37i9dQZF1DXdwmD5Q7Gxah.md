@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/at\-least\-we\-have\-music">Check out our latest newsletter!</a> Cover: mark william lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,189,436 likes - 173 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189,374 likes - 173 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,10 +176,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 166 | [Little Acts Of Violence](https://open.spotify.com/track/3GTLg27Ds17WYPaie2JRBG) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Little Acts Of Violence](https://open.spotify.com/album/1CYW6Tlvv7S4Bqfss4H4yX) | 2:50 |
 | 167 | [Killed For Sport](https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Killed For Sport](https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH) | 4:14 |
 | 168 | [Pale Blue Eyes](https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pale Blue Eyes](https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D) | 3:09 |
-| 169 | [Jinx!](https://open.spotify.com/track/43sg2nW6LjsgaXxakTuhHF) | [Joon Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Jinx!](https://open.spotify.com/album/0C4Dk75gkYgJo6MGrVsdSb) | 4:06 |
+| 169 | [Jinx!](https://open.spotify.com/track/43sg2nW6LjsgaXxakTuhHF) | [Ms\* Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Jinx!](https://open.spotify.com/album/0C4Dk75gkYgJo6MGrVsdSb) | 4:06 |
 | 170 | [Enything](https://open.spotify.com/track/2UKoazaZ4EJHGIa2UJRcPO) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Enything](https://open.spotify.com/album/5dOyFR717iZJDNeOoWtHQj) | 4:41 |
 | 171 | [Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk 2](https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r) | 2:25 |
 | 172 | [Seasons](https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Seasons](https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ) | 2:37 |
 | 173 | [Long Sardine](https://open.spotify.com/track/7DeppqAvyRBMFyvbGL7Gqp) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Long Sardine](https://open.spotify.com/album/3bcaVoQfjwuDmsYoWAgvaJ) | 1:52 |
 
-Snapshot ID: `AAAAAIcW7iCN/Uwr4CDBdqELlxeKN43W`
+Snapshot ID: `AAAAAAZAVbkXLKYTto2/EOsBkYxHw/Is`

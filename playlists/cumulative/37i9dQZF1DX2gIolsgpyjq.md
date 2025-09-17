@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: ORA
 
-1,306 songs - 2 day 20 hr 46 min
+1,307 songs - 2 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,6 +640,7 @@
 | [Last Time](https://open.spotify.com/track/1kRi2A08loSg8oZmHbvxWG) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Last Time](https://open.spotify.com/album/3vO08GPmv2KGP66nUmW0IC) | 2:56 | 2024-02-29 | 2025-01-03 |
 | [Late At Night](https://open.spotify.com/track/0j0NEMwhXk8yyKmcQxCmrg) | [Håvard](https://open.spotify.com/artist/0z0OPsPAfAt1Zme2HMx1pt) | [Late At Night](https://open.spotify.com/album/3NjiRyzpzqUfNN4Zh8JJo3) | 3:36 | 2024-10-31 | 2024-12-05 |
 | [Late to the Party](https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Late to the Party](https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt) | 3:06 | 2024-08-22 | 2024-11-01 |
+| [Lately \(feat\. Lune\)](https://open.spotify.com/track/2wjWaQsqwxSXjy7n79QRRx) | [Yikes](https://open.spotify.com/artist/78j8yyA3RI06vgd4tmZgiO), [Lune](https://open.spotify.com/artist/0zEi8xjbkBE57K1lxuwkRK) | [Lately \(feat\. Lune\)](https://open.spotify.com/album/0ADrZnaHbqGg9oWjqsLdhy) | 5:30 | 2025-09-16 |  |
 | [Lazy Critic](https://open.spotify.com/track/66k2tA0uc2G2R9DEeWqoVT) | [drea](https://open.spotify.com/artist/5uAxEwTjRGgSqL1NkSROTM) | [Letters to my bitter self](https://open.spotify.com/album/7FCJ4gsweqvpHhYNc9447M) | 2:21 | 2024-04-18 | 2024-06-07 |
 | [Lead Me Astray](https://open.spotify.com/track/4IEqteZXhzacBCpKbgE55R) | [Adam Seuba](https://open.spotify.com/artist/7hLLarNo36ZfaThr01L6XV) | [Lead Me Astray](https://open.spotify.com/album/0VMptxRef24G0FOabJPZGi) | 3:16 | 2025-08-28 |  |
 | [Leading Man](https://open.spotify.com/track/05xZdt3o6H10bXWGdMFYqD) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Film Buff](https://open.spotify.com/album/2T5QLCxyHEGbph6TBNtNzZ) | 2:47 | 2024-09-26 | 2024-11-01 |
@@ -958,7 +959,7 @@
 | [Rivers Don't Speak](https://open.spotify.com/track/1qf3auAlvL3BNTTgvBistk) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Rivers Don't Speak](https://open.spotify.com/album/7bmD1ZPyifBcTIbpxgufq1) | 3:35 | 2024-08-01 | 2024-10-04 |
 | [Riviera](https://open.spotify.com/track/5vDuD9ndOBRnV61bHHr9Gg) | [OBESTALLT](https://open.spotify.com/artist/4pXCzsrekbc42Kbme1cvpi) | [Riviera](https://open.spotify.com/album/315GjUSP75Jcfklq5O5hc8) | 4:58 | 2025-06-05 | 2025-07-18 |
 | [Rock and Roll, Summer](https://open.spotify.com/track/2wpi25Kv4W62DdDU8jrAFt) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t) | [See what heaven looks like now](https://open.spotify.com/album/46MlUsV2c7Jxi8tQItfT57) | 3:10 | 2025-03-13 | 2025-06-06 |
-| [Rock My World](https://open.spotify.com/track/1TAnJWnyTvbyclRUtIh9sh) | [cortex](https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i) | [Rock My World](https://open.spotify.com/album/149IT1kXp0gMhQQXO5cBYT) | 2:14 | 2025-07-17 |  |
+| [Rock My World](https://open.spotify.com/track/1TAnJWnyTvbyclRUtIh9sh) | [cortex](https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i) | [Rock My World](https://open.spotify.com/album/149IT1kXp0gMhQQXO5cBYT) | 2:14 | 2025-07-17 | 2025-09-17 |
 | [Rollin](https://open.spotify.com/track/3QpC95Mb7OZK8NhdYtmNPh) | [Pish](https://open.spotify.com/artist/031RVClqaUebiDDv8bSDvh) | [Rollin](https://open.spotify.com/album/6TV0ssgPMPB7ej0WhN08j5) | 3:47 | 2024-02-22 | 2024-03-29 |
 | [Rom Pom Pom](https://open.spotify.com/track/6EtrlEk6AQAOnCBmnxmWRQ) | [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [Rom Pom Pom](https://open.spotify.com/album/0f3okYooJRZZ1D8V6Abro3) | 6:31 | 2024-02-15 | 2024-05-09 |
 | [Romanticize Me](https://open.spotify.com/track/32JqzkFkwoByPPnu8R5mLo) | [Nicoel](https://open.spotify.com/artist/6r07cY3uTfDRAelK2bbTyA) | [Romanticize Me](https://open.spotify.com/album/4uBGRctNphP63XX4gZj4wy) | 2:55 | 2025-04-10 | 2025-05-17 |

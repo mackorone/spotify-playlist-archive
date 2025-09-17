@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhzMp90Opmn.md) - [plain]
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,089 likes - 200 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,414 likes - 200 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhzMp90Opmn.md) - [plain]
 | 31 | [Pink Noise for Tranquility](https://open.spotify.com/track/6Ibp1yXeTZY5au5i3AgXR8) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Nature's Pink Noise](https://open.spotify.com/album/24AmrnX6tCSQjb5qjDaNi5) | 4:06 |
 | 32 | [Amazing Pink \- Seamless](https://open.spotify.com/track/4pZUnR6v0hw2xBJoqkfOQj) | [Jane Color](https://open.spotify.com/artist/5IHSYO8kKxpkIphS2vmEuX) | [Color Of Pink](https://open.spotify.com/album/6pNeoNCnyuxZeE22N9FOfi) | 3:09 |
 | 33 | [Pink Noise Slow Down](https://open.spotify.com/track/49aVsIRxEqD5InHDDXzPi7) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Pink Noise Slow Down](https://open.spotify.com/album/2QJbHLWT1VaEa1C8cudpw8) | 2:40 |
-| 34 | [Chilled Pink Lullaby](https://open.spotify.com/track/0APmmogkV8VCzKdGB6d0Sh) | [Acoustic Activity](https://open.spotify.com/artist/3aSkejkyPbnMng0ako4TTb) | [Chilled Pink Sleep](https://open.spotify.com/album/6XcpRqHSr3sujIw1oOF02N) | 4:07 |
+| 34 | [Chilled Pink Lullaby](https://open.spotify.com/track/0APmmogkV8VCzKdGB6d0Sh) | [Avosola](https://open.spotify.com/artist/451HQRdyUYr2CEkK4A9wty) | [Chilled Pink Sleep](https://open.spotify.com/album/6XcpRqHSr3sujIw1oOF02N) | 4:07 |
 | 35 | [Sleep Pink Noise](https://open.spotify.com/track/2nwEe93mREjGmPSsAZDz7v) | [Noise Gravity](https://open.spotify.com/artist/5Qd5aYgxNuzurvHmSbHRa5) | [Relaxing Pink Noise](https://open.spotify.com/album/3AyftmvDjBFj2mhNM4X2eV) | 3:01 |
 | 36 | [Pink Noise Satisfaction](https://open.spotify.com/track/3HRDr4iGCIH6IjYpduxVJl) | [Wavelab](https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21) | [Pink Noise Satisfaction](https://open.spotify.com/album/4ceYxcs6IXW4LnbrxeepSD) | 3:11 |
 | 37 | [Delicate Pink Noise](https://open.spotify.com/track/52O5Dws8LUDzRl0uPLIkQm) | [Delicatessen Noise](https://open.spotify.com/artist/5RxupLWXooqV5lxD8c4vCz) | [Delicate Pink Noise](https://open.spotify.com/album/2FPyYWcoCwRcRjrvdXM9SV) | 3:06 |

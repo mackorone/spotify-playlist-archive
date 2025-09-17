@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > You're the paracetamol to my headache ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,972 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,989 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,14 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 68 | [Ogologo](https://open.spotify.com/track/6qmFmnzZb0SkKoqO2p4oHg) | [Tha Boy Myles](https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [BIRDS OF A FEATHER \(B.O.A.F\)](https://open.spotify.com/album/5npAPJDHjIVCoTypP4TP7G) | 2:16 |
 | 69 | [Lose My Mind \- A COLORS SHOW](https://open.spotify.com/track/3YnaqBaUzBzqTl0UB4DQJi) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Lose My Mind \- A COLORS SHOW](https://open.spotify.com/album/78ifkKkoXwrREDN28GeIez) | 3:30 |
 | 70 | [You](https://open.spotify.com/track/5N2GjhSAg6jNO7yHyV1mIW) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [You](https://open.spotify.com/album/77bslM0qd2KnYYxXgVx86b) | 2:15 |
-| 71 | [Spell](https://open.spotify.com/track/5T74ZbMhmbON30pJt3u3Rd) | [Young Legend](https://open.spotify.com/artist/4xlH0w88CE65Qi7jE0PLYd), [F3line](https://open.spotify.com/artist/0dO41kWVCHHDVfbQTaidMQ), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Spell](https://open.spotify.com/album/3qRmPWSuZQtt6ntNr3i7Zd) | 3:02 |
-| 72 | [Behind \(with Joshua Baraka\)](https://open.spotify.com/track/64YJeGo9tXmfvRTPcv9rcP) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [131 \(EP\)](https://open.spotify.com/album/1x9kTzzq1OHHjKA8KzI8sO) | 3:02 |
+| 71 | [Behind \(with Joshua Baraka\)](https://open.spotify.com/track/64YJeGo9tXmfvRTPcv9rcP) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [131 \(EP\)](https://open.spotify.com/album/1x9kTzzq1OHHjKA8KzI8sO) | 3:02 |
+| 72 | [Spell](https://open.spotify.com/track/5T74ZbMhmbON30pJt3u3Rd) | [Young Legend](https://open.spotify.com/artist/4xlH0w88CE65Qi7jE0PLYd), [F3line](https://open.spotify.com/artist/0dO41kWVCHHDVfbQTaidMQ), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Spell](https://open.spotify.com/album/3qRmPWSuZQtt6ntNr3i7Zd) | 3:02 |
 | 73 | [Check & Balance](https://open.spotify.com/track/4pT6DMvWj2nXyo0Xpj4sy5) | [Synnex Music](https://open.spotify.com/artist/1wOg4RKiG4cS1EcELL7gdB), [Musta4a](https://open.spotify.com/artist/4if5dwAkHl7FZNCJTIB5e9) | [Check & Balance](https://open.spotify.com/album/0uUfej33gYq7PBysLcmBBx) | 2:36 |
 | 74 | [Sexy Roma](https://open.spotify.com/track/3yTgd6eflmtQUr7QYXTS3g) | [Prayly](https://open.spotify.com/artist/1bIlyg8r7BMZZgUVKn9LyH) | [Sexy Roma](https://open.spotify.com/album/1IegkTCiqiahBKNx6q1swn) | 2:49 |
 | 75 | [Finish Me](https://open.spotify.com/track/3BDcZ3uPxpKYEJCfItLV2h) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Ransom Beatz](https://open.spotify.com/artist/6fzdE3sz7e6kFOwOywdmiy), [Big Tobz](https://open.spotify.com/artist/5mJzAPLj72Ifm4MdYS08uK) | [Finish Me](https://open.spotify.com/album/3sVIR1mKqq5oSE8UKwFvES) | 2:11 |
 | 76 | [Wifey](https://open.spotify.com/track/64sIw7KWbyz9HcNPYJ50UN) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [LCV3: Sweet Surrender.](https://open.spotify.com/album/4mNAKHeQjbQ59K12lgcB4M) | 3:44 |
-| 77 | [Hold Me Down](https://open.spotify.com/track/4FkDBM4l0NSox3DbuCI82u) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Hold Me Down](https://open.spotify.com/album/0qlOwDeWucIUd6XFbdw6So) | 2:55 |
-| 78 | [Repay Your Part](https://open.spotify.com/track/0bos4KHIefjCBFT9qcMSu1) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Teslim: A Lover Boy PTSD](https://open.spotify.com/album/4ma3gfhBBC4zmqBGZKnufW) | 3:55 |
+| 77 | [Repay Your Part](https://open.spotify.com/track/0bos4KHIefjCBFT9qcMSu1) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Teslim: A Lover Boy PTSD](https://open.spotify.com/album/4ma3gfhBBC4zmqBGZKnufW) | 3:55 |
+| 78 | [Hold Me Down](https://open.spotify.com/track/4FkDBM4l0NSox3DbuCI82u) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Hold Me Down](https://open.spotify.com/album/0qlOwDeWucIUd6XFbdw6So) | 2:55 |
 | 79 | [Don't Run](https://open.spotify.com/track/0FODu62RBuyngvchl8H7w3) | [Kosi O](https://open.spotify.com/artist/6q9sxVAsYdPBk669BlZZVO) | [Don't Run](https://open.spotify.com/album/0F4QcV3VSrFtSN2v5IGYZF) | 3:34 |
 | 80 | [Samory](https://open.spotify.com/track/50IoIPZlen5UAnmsAYRzEM) | [Dahvi](https://open.spotify.com/artist/0NNZ9fgoCQAhNosJJH9CKt) | [Samory](https://open.spotify.com/album/2zGag5WZkERb7PpoVu2SuP) | 2:41 |
 

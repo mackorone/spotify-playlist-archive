@@ -4263,6 +4263,36 @@
     },
     {
       "album": {
+        "name": "America's Bandleader",
+        "url": "https://open.spotify.com/album/31DxnMa6Do5GPZzz1JoMKT"
+      },
+      "artists": [
+        {
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        },
+        {
+          "name": "Ernie Caceres",
+          "url": "https://open.spotify.com/artist/5wazyKBgk8KDzdmHIhuhvc"
+        },
+        {
+          "name": "Marion Hutton",
+          "url": "https://open.spotify.com/artist/3laQbbBvyhDMtrSHPyk4My"
+        },
+        {
+          "name": "The Modernaires",
+          "url": "https://open.spotify.com/artist/3qKEtH1zoLm2ofNZivYevw"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183213,
+      "name": "Let's Have Another Cup Of Coffee (From \"Face The Music\") - 2002 Remastered",
+      "url": "https://open.spotify.com/track/5DMTreJFLW0tzLdqIC7OtZ"
+    },
+    {
+      "album": {
         "name": "Unsung Irving Berlin",
         "url": "https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK"
       },

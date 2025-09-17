@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Miel San Marcos
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,047 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,048 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 72 | [Navidad en Miami](https://open.spotify.com/track/1Ba9dnSKcLKyeHrnUIut90) | [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk) | [Navidad en Miami](https://open.spotify.com/album/3jzhn84tvI6eValgXTsBtK) | 2:40 |
 | 73 | [Un Año Más](https://open.spotify.com/track/0mfXZiUkaiVFwOBNWUEF7d) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG) | [Un Año Más](https://open.spotify.com/album/1YibNRYLpKLEOt0LNkpCvf) | 3:12 |
 | 74 | [Hosanna \(Vamos a Belén\)](https://open.spotify.com/track/0ndeBrUagppnWpvpw01u0j) | [MISSION MUSICA](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw) | [Hosanna \(Vamos a Belén\)](https://open.spotify.com/album/3Wj0Xa2Efq9RXCjVkgjCya) | 3:46 |
-| 75 | [La Tierra Canta](https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Generacion Radical](https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT) | 6:46 |
-| 76 | [Este Amor \- Ambient Mix](https://open.spotify.com/track/5cCma1QpQPBQAOclyR93cu) | [Leah Gourlie](https://open.spotify.com/artist/03YBwHES4V6lFxEhg0u0ZX), [Nathan Ironside](https://open.spotify.com/artist/61tv5wBp8BSzZ1S6mNqvJ8) | [Este Amor](https://open.spotify.com/album/5ZuB3x8p9wZ7wE3brMzPBa) | 5:23 |
+| 75 | [Este Amor \- Ambient Mix](https://open.spotify.com/track/5cCma1QpQPBQAOclyR93cu) | [Leah Gourlie](https://open.spotify.com/artist/03YBwHES4V6lFxEhg0u0ZX), [Nathan Ironside](https://open.spotify.com/artist/61tv5wBp8BSzZ1S6mNqvJ8) | [Este Amor](https://open.spotify.com/album/5ZuB3x8p9wZ7wE3brMzPBa) | 5:23 |
+| 76 | [La Tierra Canta](https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Generacion Radical](https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT) | 6:46 |
 | 77 | [Espiritu Santo](https://open.spotify.com/track/2mIOrzmVSD9V3RdsBk1Qgb) | [Lily Marie Antonini](https://open.spotify.com/artist/1x8FFUkHOebTcWv9L7KJnt) | [Happy Birthday Jesus \(Merry Christmas\)](https://open.spotify.com/album/2MPDwgwrUSkLkaxDQraZ0x) | 3:39 |
 | 78 | [Navidad](https://open.spotify.com/track/25bGGqQUGbY6odUbPYtoZ7) | [Despinal](https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe) | [Navidad](https://open.spotify.com/album/4M3g8HcYnCJmA99uh2456G) | 3:07 |
 | 79 | [Feliz Navidad](https://open.spotify.com/track/7DdzZR7HApfnnkosAe2vVG) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Feliz Navidad](https://open.spotify.com/album/6VCsFBSPBKUHkU5Lvoknh8) | 2:49 |

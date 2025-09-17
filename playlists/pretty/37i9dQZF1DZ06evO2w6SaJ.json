@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 6894,
+  "num_followers": 6896,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMYFgAAAAAArOL5lHgZXe8vJ09khbZqV",
+  "snapshot_id": "aMdXAAAAAACYJ7c4MQix3DyOQVpAMspH",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "darkhorse",
+        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "Decorated",
+      "url": "https://open.spotify.com/track/04jBnYdyN86CGnQjh9OJ8t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Butterfly (New Anthem)",
         "url": "https://open.spotify.com/album/0kQ1ZMco7VJAWkyo29NGdk"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 227246,
       "name": "Butterfly (New Anthem)",
       "url": "https://open.spotify.com/track/4sgqK7zBhYX7wrTbMe5H8s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "darkhorse",
-        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "Decorated",
-      "url": "https://open.spotify.com/track/04jBnYdyN86CGnQjh9OJ8t"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "darkhorse",
+        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 158693,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/1R5VItfeA25A8TeUDb5QZY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "darkhorse",
-        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 262666,
-      "name": "Candy Coated",
-      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 196306,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
+      "duration_ms": 262666,
+      "name": "Candy Coated",
+      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
     },
     {
       "added_at": null,

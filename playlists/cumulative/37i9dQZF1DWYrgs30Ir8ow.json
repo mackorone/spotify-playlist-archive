@@ -7929,6 +7929,24 @@
     },
     {
       "album": {
+        "name": "Girl In Red",
+        "url": "https://open.spotify.com/album/3QmtI0HUE8P4YrnSHjMdjR"
+      },
+      "artists": [
+        {
+          "name": "Hiqpy",
+          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213187,
+      "name": "Girl In Red",
+      "url": "https://open.spotify.com/track/7FDZ2inzoMZSlV9To1mMdO"
+    },
+    {
+      "album": {
         "name": "GIRLS",
         "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,165 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,173 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Wake Up](https://open.spotify.com/track/4T6kkDUqUiv7Adh9o5ImRw) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Wake Up](https://open.spotify.com/album/0KIv2HwJItvjalsFzQRzf8) | 2:45 |
 | 50 | [я не собираюсь мешать](https://open.spotify.com/track/3HuWSpAduuIwOr8Qfu1xK5) | [KRISTIEE](https://open.spotify.com/artist/0qyv7OappGDi0OyJxcqpVt) | [я не собираюсь мешать](https://open.spotify.com/album/1qSJHNrqHmzudSaBAPr6eI) | 2:07 |
 
-Snapshot ID: `MFuBIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MFzSoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

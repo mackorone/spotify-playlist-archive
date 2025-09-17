@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:5qK8WYVzvkaBcoe4CDfuyY\">KUNTARI</a> on cover. Artwork by Thami Nabil",
-  "num_followers": 190877,
+  "num_followers": 190890,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "The Big E",
-        "url": "https://open.spotify.com/album/4873pITj5PQrxzNqYf7CPk"
-      },
-      "artists": [
-        {
-          "name": "Editrix",
-          "url": "https://open.spotify.com/artist/114Z5iDTpNa5tbPNSUMCre"
-        }
-      ],
-      "duration_ms": 166528,
-      "name": "The Big E",
-      "url": "https://open.spotify.com/track/4CIGIijEyrDgrLeS1TWvXp"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
         "name": "Hand To Mouth",
         "url": "https://open.spotify.com/album/3wGORzE4SH5K6toBJhzGnX"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 218962,
       "name": "Consider This",
       "url": "https://open.spotify.com/track/7ibTbfuTYaIUbcGAJlpyzB"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
+        "name": "The Big E",
+        "url": "https://open.spotify.com/album/4873pITj5PQrxzNqYf7CPk"
+      },
+      "artists": [
+        {
+          "name": "Editrix",
+          "url": "https://open.spotify.com/artist/114Z5iDTpNa5tbPNSUMCre"
+        }
+      ],
+      "duration_ms": 166528,
+      "name": "The Big E",
+      "url": "https://open.spotify.com/track/4CIGIijEyrDgrLeS1TWvXp"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Futuro Cercano",
-        "url": "https://open.spotify.com/album/5drSZ3zh5LItFNGb8z68Um"
-      },
-      "artists": [
-        {
-          "name": "Valesuchi",
-          "url": "https://open.spotify.com/artist/20lLQVCg1N2fCUB7fEg46b"
-        }
-      ],
-      "duration_ms": 262916,
-      "name": "22",
-      "url": "https://open.spotify.com/track/4BiZttnK30HFXmG1JIuWr3"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
         "name": "Iti Eta No",
         "url": "https://open.spotify.com/album/2FWWgnlsClYz9KprV5aJBm"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 251164,
       "name": "Iti Eta No",
       "url": "https://open.spotify.com/track/1w6G2Jl7OB9LtY5rrxqdfl"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
+        "name": "Futuro Cercano",
+        "url": "https://open.spotify.com/album/5drSZ3zh5LItFNGb8z68Um"
+      },
+      "artists": [
+        {
+          "name": "Valesuchi",
+          "url": "https://open.spotify.com/artist/20lLQVCg1N2fCUB7fEg46b"
+        }
+      ],
+      "duration_ms": 262916,
+      "name": "22",
+      "url": "https://open.spotify.com/track/4BiZttnK30HFXmG1JIuWr3"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Noor-e Vojood",
-        "url": "https://open.spotify.com/album/3tEm5SjojNJ79ZrW5iTQ7R"
-      },
-      "artists": [
-        {
-          "name": "Mohammad Mostafa Heydarian",
-          "url": "https://open.spotify.com/artist/5gcN10J58SA82tyq6nScoa"
-        }
-      ],
-      "duration_ms": 254599,
-      "name": "B\u00e2rieh",
-      "url": "https://open.spotify.com/track/4twU0LMGHLqK4dtwDaDL5x"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
         "name": "M29",
         "url": "https://open.spotify.com/album/0mp2d3TTvyqhyiciUqx7Ja"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
+        "name": "Noor-e Vojood",
+        "url": "https://open.spotify.com/album/3tEm5SjojNJ79ZrW5iTQ7R"
+      },
+      "artists": [
+        {
+          "name": "Mohammad Mostafa Heydarian",
+          "url": "https://open.spotify.com/artist/5gcN10J58SA82tyq6nScoa"
+        }
+      ],
+      "duration_ms": 254599,
+      "name": "B\u00e2rieh",
+      "url": "https://open.spotify.com/track/4twU0LMGHLqK4dtwDaDL5x"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
         "name": "Thinking about you",
         "url": "https://open.spotify.com/album/72gqbn4daD7B6rCmT3U6mG"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Distratta",
-        "url": "https://open.spotify.com/album/0LC582TtftOkHG7J5KvFlJ"
-      },
-      "artists": [
-        {
-          "name": "Silvia Tarozzi",
-          "url": "https://open.spotify.com/artist/3QXW4xSGmwli3mbaKTgFxb"
-        }
-      ],
-      "duration_ms": 169775,
-      "name": "Distratta",
-      "url": "https://open.spotify.com/track/7hinjcS3WbroKjp04bDj0i"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
         "name": "The Scrollkeeper",
         "url": "https://open.spotify.com/album/4KQRc2xhNQzRj05N2EPwKh"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Lacrimae",
-        "url": "https://open.spotify.com/album/5F5KGB9XBm9hViPBMZpipd"
+        "name": "Distratta",
+        "url": "https://open.spotify.com/album/0LC582TtftOkHG7J5KvFlJ"
       },
       "artists": [
         {
-          "name": "Samuele CYMA",
-          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
+          "name": "Silvia Tarozzi",
+          "url": "https://open.spotify.com/artist/3QXW4xSGmwli3mbaKTgFxb"
         }
       ],
-      "duration_ms": 339026,
-      "name": "Sangue coagulato",
-      "url": "https://open.spotify.com/track/3as5N2iBqzVwslgYQfb0d4"
+      "duration_ms": 169775,
+      "name": "Distratta",
+      "url": "https://open.spotify.com/track/7hinjcS3WbroKjp04bDj0i"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
+        "name": "Lacrimae",
+        "url": "https://open.spotify.com/album/5F5KGB9XBm9hViPBMZpipd"
+      },
+      "artists": [
+        {
+          "name": "Samuele CYMA",
+          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
+        }
+      ],
+      "duration_ms": 339026,
+      "name": "Sangue coagulato",
+      "url": "https://open.spotify.com/track/3as5N2iBqzVwslgYQfb0d4"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
         "name": "Muddy Shores",
         "url": "https://open.spotify.com/album/7dXHKXvI27xVaZlNbNVLMo"
       },
@@ -1263,6 +1263,22 @@
       "duration_ms": 130872,
       "name": "Muddy Shores",
       "url": "https://open.spotify.com/track/0XZo0HtwB9W3m3O4Dgc6XN"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
+        "name": "TIDE/TIED",
+        "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
+      },
+      "artists": [
+        {
+          "name": "Thanya Iyer",
+          "url": "https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P"
+        }
+      ],
+      "duration_ms": 440269,
+      "name": "Waves/Hold/Tied",
+      "url": "https://open.spotify.com/track/4eKAKVci8MLFTLkuIJUja6"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1287,18 +1303,18 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "TIDE/TIED",
-        "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
+        "name": "sound for people's spaces",
+        "url": "https://open.spotify.com/album/0uja4DPzq4bfeJ43HXrH23"
       },
       "artists": [
         {
-          "name": "Thanya Iyer",
-          "url": "https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P"
+          "name": "Drew Seele",
+          "url": "https://open.spotify.com/artist/0yhUckuRDGfMY8O6JkeeQJ"
         }
       ],
-      "duration_ms": 440269,
-      "name": "Waves/Hold/Tied",
-      "url": "https://open.spotify.com/track/4eKAKVci8MLFTLkuIJUja6"
+      "duration_ms": 137419,
+      "name": "a new object found dirt in my left eye but i keep looking",
+      "url": "https://open.spotify.com/track/6O0vGPbpPJCILp8gT9GNgE"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1315,22 +1331,6 @@
       "duration_ms": 299786,
       "name": "Scintille",
       "url": "https://open.spotify.com/track/1TVL0GMb5jryOaAbkutpPc"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
-        "name": "sound for people's spaces",
-        "url": "https://open.spotify.com/album/0uja4DPzq4bfeJ43HXrH23"
-      },
-      "artists": [
-        {
-          "name": "Drew Seele",
-          "url": "https://open.spotify.com/artist/0yhUckuRDGfMY8O6JkeeQJ"
-        }
-      ],
-      "duration_ms": 137419,
-      "name": "a new object found dirt in my left eye but i keep looking",
-      "url": "https://open.spotify.com/track/6O0vGPbpPJCILp8gT9GNgE"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "ARCTERYX",
-        "url": "https://open.spotify.com/album/5hPUH4ZC8ROe32jIEx6muf"
-      },
-      "artists": [
-        {
-          "name": "ONYX GARDEN",
-          "url": "https://open.spotify.com/artist/579Ah65QiTZxDgiaGKpJtx"
-        }
-      ],
-      "duration_ms": 192676,
-      "name": "ARCTERYX",
-      "url": "https://open.spotify.com/track/5W6P7Ac5O0Eh3IDcuNC7d4"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
         "name": "Call Me Resurging",
         "url": "https://open.spotify.com/album/7yuXQ3WAIR8JDvS5DzAP12"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 127875,
       "name": "SOPHIA",
       "url": "https://open.spotify.com/track/4cWLextkahfaw1YYlPRKiV"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
+        "name": "ARCTERYX",
+        "url": "https://open.spotify.com/album/5hPUH4ZC8ROe32jIEx6muf"
+      },
+      "artists": [
+        {
+          "name": "ONYX GARDEN",
+          "url": "https://open.spotify.com/artist/579Ah65QiTZxDgiaGKpJtx"
+        }
+      ],
+      "duration_ms": 192676,
+      "name": "ARCTERYX",
+      "url": "https://open.spotify.com/track/5W6P7Ac5O0Eh3IDcuNC7d4"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "Garden Window Escape",
-        "url": "https://open.spotify.com/album/4lvWgwsdsWFixYZW1YyFRz"
-      },
-      "artists": [
-        {
-          "name": "Staraya derevnya",
-          "url": "https://open.spotify.com/artist/6TLbl4LSDzMM19n2GZ1pYm"
-        }
-      ],
-      "duration_ms": 225300,
-      "name": "Tight-Lipped Thief",
-      "url": "https://open.spotify.com/track/7nVF0BTHnLXTLX5SYKbEhu"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
         "name": "Cero",
         "url": "https://open.spotify.com/album/67mzZB3Tacqcr0gD52Dtfu"
       },
@@ -1523,22 +1507,18 @@
     {
       "added_at": "2025-09-05 15:14:39",
       "album": {
-        "name": "STARK PHENOMENA",
-        "url": "https://open.spotify.com/album/23cFIcU9O7traX8CiRJuif"
+        "name": "Garden Window Escape",
+        "url": "https://open.spotify.com/album/4lvWgwsdsWFixYZW1YyFRz"
       },
       "artists": [
         {
-          "name": "HxH",
-          "url": "https://open.spotify.com/artist/3RyGZmwI5ddTMW1OojjIgY"
-        },
-        {
-          "name": "Ayorinde E. Peebles",
-          "url": "https://open.spotify.com/artist/5TnHrMvW0SebaAl6UE8Gq0"
+          "name": "Staraya derevnya",
+          "url": "https://open.spotify.com/artist/6TLbl4LSDzMM19n2GZ1pYm"
         }
       ],
-      "duration_ms": 444000,
-      "name": "Pyrex Vision",
-      "url": "https://open.spotify.com/track/3aiBUd8fzOc60XUPxGpm4u"
+      "duration_ms": 225300,
+      "name": "Tight-Lipped Thief",
+      "url": "https://open.spotify.com/track/7nVF0BTHnLXTLX5SYKbEhu"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1575,6 +1555,42 @@
       "duration_ms": 378000,
       "name": "B#G T##E S########Y 2",
       "url": "https://open.spotify.com/track/6gMUT7M1xxND6vy5tUDDkY"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
+        "name": "STARK PHENOMENA",
+        "url": "https://open.spotify.com/album/23cFIcU9O7traX8CiRJuif"
+      },
+      "artists": [
+        {
+          "name": "HxH",
+          "url": "https://open.spotify.com/artist/3RyGZmwI5ddTMW1OojjIgY"
+        },
+        {
+          "name": "Ayorinde E. Peebles",
+          "url": "https://open.spotify.com/artist/5TnHrMvW0SebaAl6UE8Gq0"
+        }
+      ],
+      "duration_ms": 444000,
+      "name": "Pyrex Vision",
+      "url": "https://open.spotify.com/track/3aiBUd8fzOc60XUPxGpm4u"
+    },
+    {
+      "added_at": "2025-09-05 15:14:39",
+      "album": {
+        "name": "FRAGILE",
+        "url": "https://open.spotify.com/album/5Kr7LAn2YXvRuu9wnI0bWj"
+      },
+      "artists": [
+        {
+          "name": "Vera Di Lecce",
+          "url": "https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ"
+        }
+      ],
+      "duration_ms": 241970,
+      "name": "FRAGILE",
+      "url": "https://open.spotify.com/track/0fCIitWe2mTCldYyLJppzw"
     },
     {
       "added_at": "2025-09-05 15:14:39",
@@ -1635,22 +1651,6 @@
       "duration_ms": 475309,
       "name": "Predisparadis",
       "url": "https://open.spotify.com/track/1CBzfrWW56xJwsZeRLAB6l"
-    },
-    {
-      "added_at": "2025-09-05 15:14:39",
-      "album": {
-        "name": "FRAGILE",
-        "url": "https://open.spotify.com/album/5Kr7LAn2YXvRuu9wnI0bWj"
-      },
-      "artists": [
-        {
-          "name": "Vera Di Lecce",
-          "url": "https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ"
-        }
-      ],
-      "duration_ms": 241970,
-      "name": "FRAGILE",
-      "url": "https://open.spotify.com/track/0fCIitWe2mTCldYyLJppzw"
     },
     {
       "added_at": "2025-09-05 15:14:39",

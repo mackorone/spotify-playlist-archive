@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "32nd Floor",
+        "url": "https://open.spotify.com/album/3xLBUAMjb7qcbu1nW5EPep"
+      },
+      "artists": [
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171380,
+      "name": "32nd Floor",
+      "url": "https://open.spotify.com/track/2mqx3ugsy7KCmGlV1tDP7K"
+    },
+    {
+      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI"
       },
@@ -202,6 +220,24 @@
       "duration_ms": 195000,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/40UkLDbc5LAw5kmBZGXReV"
+    },
+    {
+      "album": {
+        "name": "Back Outside",
+        "url": "https://open.spotify.com/album/1uhm8KeAsEylvJfNVq9mo8"
+      },
+      "artists": [
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186826,
+      "name": "Back Outside",
+      "url": "https://open.spotify.com/track/5f9kF5QsT7XOv5TLRza1zJ"
     },
     {
       "album": {
@@ -1461,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/06PW2jhNwYmHswRhRaB4L4"
+      },
+      "artists": [
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210307,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5dShEaAMvS1larPOsU3H1r"
+    },
+    {
+      "album": {
         "name": "Young HeartThrob",
         "url": "https://open.spotify.com/album/7lmS1zDxOuTlJrJ8C1NHEW"
       },
@@ -1622,6 +1676,24 @@
       "duration_ms": 200205,
       "name": "I Do (feat. SZA)",
       "url": "https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1"
+    },
+    {
+      "album": {
+        "name": "HELLA PRESSURE",
+        "url": "https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161952,
+      "name": "i need some inspo",
+      "url": "https://open.spotify.com/track/3aakGDVfwfVgUgT10ax7zE"
     },
     {
       "album": {
@@ -3626,7 +3698,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 182858,
       "name": "Ur Best Friend (with Kehlani)",
       "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"

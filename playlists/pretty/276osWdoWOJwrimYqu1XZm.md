@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/276osWdoWOJwrimYqu1XZm.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 131 songs - 14 hr 8 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 130 songs - 14 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,16 +128,15 @@ pretty - [cumulative](/playlists/cumulative/276osWdoWOJwrimYqu1XZm.md) - [plain]
 | 118 | [Kaleidoscope](https://open.spotify.com/track/1mB1Gxy7b7CmjQalfJh676) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ) | [Touch The Sky EP](https://open.spotify.com/album/43fJmIA9tFqfpCErDVkluQ) | 5:56 |
 | 119 | [Alles Zerfällt](https://open.spotify.com/track/3Z2DU1Dy4u9HxCwcXnJ0j0) | [Ben Techy](https://open.spotify.com/artist/2ZxU6WNgBLwqif2Bkf6bbT) | [Kein Vorbei](https://open.spotify.com/album/1SsdgkBgBWFdxQEAwFq8oi) | 4:07 |
 | 120 | [I'll Take You Higher](https://open.spotify.com/track/71FLhenAHptmNH4J6KeiFG) | [Lowerzone](https://open.spotify.com/artist/08kHFbfYt54KU8xxZtqSjf) | [Exhale VA006](https://open.spotify.com/album/0ATkgjuuEqaPJbX0Cg7n2z) | 4:41 |
-| 121 | [Take Me Down](https://open.spotify.com/track/7aSvg2Yn8NZy63f4dLVqBE) | [Amstra](https://open.spotify.com/artist/22hoWqtS82DDN3jJqxjqH7), [Sosya](https://open.spotify.com/artist/4xs7ROT2oEnleHZeio5t9j) | [Exhale VA006](https://open.spotify.com/album/0ATkgjuuEqaPJbX0Cg7n2z) | 5:16 |
-| 122 | [Era Of Us](https://open.spotify.com/track/0AdZea91wVCpeAT1NA5YPF) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Exhale VA005](https://open.spotify.com/album/1qi1t5uTt9q8FMLMwHFV5t) | 4:32 |
-| 123 | [Before I Forget Your Voice](https://open.spotify.com/track/5yNlRRPQCG05GVNzUM3PWH) | [Krl Mx](https://open.spotify.com/artist/49e9A9elFAUS9sCDMTyiWC) | [Exhale VA003](https://open.spotify.com/album/6wruyQtjglWadmz5JsfKaI) | 5:24 |
-| 124 | [New Order \- Blue Monday \- ARMA Remix](https://open.spotify.com/track/0sWcAFIqdK1d4Q3HI2B9Nc) | [ARMA](https://open.spotify.com/artist/6521yl6LJNVjbPpSz3ohSZ) | [New Order \- Blue Monday \(ARMA Remix\)](https://open.spotify.com/album/5rqubfjv6XettGbsiCQBRm) | 6:28 |
-| 125 | [Lost in Suffering \- Original Mix](https://open.spotify.com/track/5nTJFYx6zw0FxkkXlCscxB) | [Amstra](https://open.spotify.com/artist/22hoWqtS82DDN3jJqxjqH7) | [MRC Various Artists](https://open.spotify.com/album/3Nrgw8cvAsOk9x1ALuQMGS) | 5:34 |
-| 126 | [Demons And The Ghost \- Radio Edit](https://open.spotify.com/track/2fznqQyX4hKIcXlk4YOzNH) | [Blame The Mono](https://open.spotify.com/artist/22HdnwskoQ7Htj3pEMP5W7), [DLV](https://open.spotify.com/artist/7AkaRihy2hr1tjUXsjYK9x) | [Demons And The Ghost \(Radio Edit\)](https://open.spotify.com/album/55VnN6m1ub5FRVyLkS3u0d) | 3:01 |
-| 127 | [Let Out](https://open.spotify.com/track/3mZ2RvcTuBxe7O1y7EMl4d) | [In Verruf](https://open.spotify.com/artist/5EnbpUtGIk2qPzGgNE75m0) | [Sektion 1](https://open.spotify.com/album/37MyA9ZcBxHBwp0a2ti4CI) | 6:07 |
-| 128 | [Getrieben Von Der Bassline](https://open.spotify.com/track/73ipi4sxE1SeHysVkrdAb2) | [Blame The Mono](https://open.spotify.com/artist/22HdnwskoQ7Htj3pEMP5W7), [DLV](https://open.spotify.com/artist/7AkaRihy2hr1tjUXsjYK9x), [Palastoni](https://open.spotify.com/artist/28oa99VEqmiC6i2SzvMPiC) | [Demons And The Ghost \- EP](https://open.spotify.com/album/0v3KxI8YwAV8Tn5GjmDnMA) | 5:31 |
-| 129 | [Conflict](https://open.spotify.com/track/52NB4f71xepo93DrRtoFFk) | [Amstra](https://open.spotify.com/artist/22hoWqtS82DDN3jJqxjqH7) | [Kriptika records 004A](https://open.spotify.com/album/4Fq95fQ2Rj0Ygt09Tnga8t) | 5:17 |
-| 130 | [Anderswelt](https://open.spotify.com/track/42jTsCLNaBG2o9N01DPiI4) | [Roman Gehrecke](https://open.spotify.com/artist/7g2FnYwHfBBbE7YihQcG1O) | [Schutt und Asche](https://open.spotify.com/album/39idKqpFh8Ft41yM8tFgpv) | 5:58 |
-| 131 | [Trouble](https://open.spotify.com/track/3BWwcNKgJMf0Kpzij48Oj0) | [Amstra](https://open.spotify.com/artist/22hoWqtS82DDN3jJqxjqH7) | [Trouble](https://open.spotify.com/album/6wbkwZOtHOvaaNLn47dRNy) | 6:57 |
+| 121 | [Era Of Us](https://open.spotify.com/track/0AdZea91wVCpeAT1NA5YPF) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Exhale VA005](https://open.spotify.com/album/1qi1t5uTt9q8FMLMwHFV5t) | 4:32 |
+| 122 | [Before I Forget Your Voice](https://open.spotify.com/track/5yNlRRPQCG05GVNzUM3PWH) | [Krl Mx](https://open.spotify.com/artist/49e9A9elFAUS9sCDMTyiWC) | [Exhale VA003](https://open.spotify.com/album/6wruyQtjglWadmz5JsfKaI) | 5:24 |
+| 123 | [New Order \- Blue Monday \- ARMA Remix](https://open.spotify.com/track/0sWcAFIqdK1d4Q3HI2B9Nc) | [ARMA](https://open.spotify.com/artist/6521yl6LJNVjbPpSz3ohSZ) | [New Order \- Blue Monday \(ARMA Remix\)](https://open.spotify.com/album/5rqubfjv6XettGbsiCQBRm) | 6:28 |
+| 124 | [Lost in Suffering \- Original Mix](https://open.spotify.com/track/5nTJFYx6zw0FxkkXlCscxB) | [Amstra](https://open.spotify.com/artist/22hoWqtS82DDN3jJqxjqH7) | [MRC Various Artists](https://open.spotify.com/album/3Nrgw8cvAsOk9x1ALuQMGS) | 5:34 |
+| 125 | [Demons And The Ghost \- Radio Edit](https://open.spotify.com/track/2fznqQyX4hKIcXlk4YOzNH) | [Blame The Mono](https://open.spotify.com/artist/22HdnwskoQ7Htj3pEMP5W7), [DLV](https://open.spotify.com/artist/7AkaRihy2hr1tjUXsjYK9x) | [Demons And The Ghost \(Radio Edit\)](https://open.spotify.com/album/55VnN6m1ub5FRVyLkS3u0d) | 3:01 |
+| 126 | [Let Out](https://open.spotify.com/track/3mZ2RvcTuBxe7O1y7EMl4d) | [In Verruf](https://open.spotify.com/artist/5EnbpUtGIk2qPzGgNE75m0) | [Sektion 1](https://open.spotify.com/album/37MyA9ZcBxHBwp0a2ti4CI) | 6:07 |
+| 127 | [Getrieben Von Der Bassline](https://open.spotify.com/track/73ipi4sxE1SeHysVkrdAb2) | [Blame The Mono](https://open.spotify.com/artist/22HdnwskoQ7Htj3pEMP5W7), [DLV](https://open.spotify.com/artist/7AkaRihy2hr1tjUXsjYK9x), [Palastoni](https://open.spotify.com/artist/28oa99VEqmiC6i2SzvMPiC) | [Demons And The Ghost \- EP](https://open.spotify.com/album/0v3KxI8YwAV8Tn5GjmDnMA) | 5:31 |
+| 128 | [Conflict](https://open.spotify.com/track/52NB4f71xepo93DrRtoFFk) | [Amstra](https://open.spotify.com/artist/22hoWqtS82DDN3jJqxjqH7) | [Kriptika records 004A](https://open.spotify.com/album/4Fq95fQ2Rj0Ygt09Tnga8t) | 5:17 |
+| 129 | [Anderswelt](https://open.spotify.com/track/42jTsCLNaBG2o9N01DPiI4) | [Roman Gehrecke](https://open.spotify.com/artist/7g2FnYwHfBBbE7YihQcG1O) | [Schutt und Asche](https://open.spotify.com/album/39idKqpFh8Ft41yM8tFgpv) | 5:58 |
+| 130 | [Trouble](https://open.spotify.com/track/3BWwcNKgJMf0Kpzij48Oj0) | [Amstra](https://open.spotify.com/artist/22hoWqtS82DDN3jJqxjqH7) | [Trouble](https://open.spotify.com/album/6wbkwZOtHOvaaNLn47dRNy) | 6:57 |
 
-Snapshot ID: `AAAAjrFk7LBLw8jOX4I3tc3uSd30vRB6`
+Snapshot ID: `AAAAjyYvfKjxHob3/RdJUtIG9TGmnkuE`

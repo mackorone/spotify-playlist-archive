@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 ### [Fresh Finds Polska](https://open.spotify.com/playlist/37i9dQZF1DWTI0B69TStH2)
 
-> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:39BnGnKHfJNx4JXrSANdkf">MUD/O</a>
+> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:54S3G0C8oIzH1Va5WpIHS4">zofia justyńska</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,452 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,477 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 41 | [plotki o tb](https://open.spotify.com/track/3Kq1zlRx95hC31TGfK1wBg) | [Jeza](https://open.spotify.com/artist/6iZcRHZJJlionCEqm1KvWk) | [plotki o tb](https://open.spotify.com/album/65RKfh618ou2nNOnb8Gnhn) | 2:40 |
 | 42 | [nausea](https://open.spotify.com/track/2MeYeE4LEkkUaunaXUg969) | [imasleep](https://open.spotify.com/artist/1hAUIs8Rpq6kpNHqlwJW4i) | [nausea](https://open.spotify.com/album/1zaHDn7Rsa7X72g2VHwTXL) | 3:36 |
 | 43 | [W świetle zimnych miast](https://open.spotify.com/track/41TWBsJmKoarDLuAbyvuqB) | [Gaba Duthel](https://open.spotify.com/artist/3HpDqDwyBFw2q3Z4rzUytr) | [W świetle zimnych miast](https://open.spotify.com/album/6mN8JSWB3s1Tw6QHWfzSks) | 3:22 |
-| 44 | [WRAK](https://open.spotify.com/track/4wiDpGylQ5BCJD7EOUkih6) | [Twój, Dawid](https://open.spotify.com/artist/0t94HGOfXAG5BnHlRWlIqk), [Młody SMF](https://open.spotify.com/artist/4gY5AFKNSTiO3uXUKeF2oC), [Varhlak](https://open.spotify.com/artist/3LFVtSa6cvpOODIHRi2SWX), [chilli](https://open.spotify.com/artist/1CrHFIXk7brOKv0Cd7ZOA5) | [WRAK](https://open.spotify.com/album/4YRsYwF1rFB73sbqnyLWIq) | 4:15 |
+| 44 | [WRAK](https://open.spotify.com/track/4wiDpGylQ5BCJD7EOUkih6) | [Młody SMF](https://open.spotify.com/artist/4gY5AFKNSTiO3uXUKeF2oC), [Varhlak](https://open.spotify.com/artist/3LFVtSa6cvpOODIHRi2SWX), [Twój, Dawid](https://open.spotify.com/artist/0t94HGOfXAG5BnHlRWlIqk), [chilli](https://open.spotify.com/artist/1CrHFIXk7brOKv0Cd7ZOA5) | [WRAK](https://open.spotify.com/album/4YRsYwF1rFB73sbqnyLWIq) | 4:15 |
 | 45 | [Dzięki](https://open.spotify.com/track/3ARmYkBKXLMTEvnGlLeFAt) | [Julia Bojur](https://open.spotify.com/artist/7yI5GTAddn0GBCRnDOpWPK), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [Dzięki](https://open.spotify.com/album/2wSjlONQNx1Umr2NsNGOJH) | 2:24 |
 | 46 | [Lato](https://open.spotify.com/track/6bVEkSajE1lPHoGcC3NDbI) | [Aelin](https://open.spotify.com/artist/6HabYzDg7Jx3Tg1UChWy76) | [Lato](https://open.spotify.com/album/0LJcUtFfs8clUh2x9msUPx) | 2:53 |
 | 47 | [Hybryda](https://open.spotify.com/track/0YyEAIlIGi1w45JM71ZrLA) | [SOWA](https://open.spotify.com/artist/6HpA9iaFaRd6LiD5cwxBTu) | [Hybryda](https://open.spotify.com/album/2OtRqTSenfZOBJBk83Mjnf) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [CZERWONE KORALE](https://open.spotify.com/track/7wpvsJwJqGm9T28V4TtAef) | [KiNi](https://open.spotify.com/artist/0TlcxBhHsEmrr3wi0dlgvZ) | [CZERWONE KORALE](https://open.spotify.com/album/6mo192PCN1GLKqOLLXQBYm) | 3:15 |
 | 100 | [nikt nie musi wiedzieć](https://open.spotify.com/track/2W1bvYVBpaN8S26iyuovfR) | [oswojeni](https://open.spotify.com/artist/6HSaeoRmLRRCdymdtKFsfh) | [nikt nie musi wiedzieć](https://open.spotify.com/album/7erXdjau7a0KZV0LKZSnNM) | 3:40 |
 
-Snapshot ID: `AAAAAPdRleV5KOgTykvnwXkP5Ckt8VmT`
+Snapshot ID: `AAAAAAJuOvV0JCV3kEK3hPpIuWHZNqK4`

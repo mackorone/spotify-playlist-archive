@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  BOYSODA
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,752 likes - 200 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,759 likes - 200 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

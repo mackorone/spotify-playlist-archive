@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 
 > High School has never been this FIRE\. Listen to the music from Jentry Chau vs\. The Underworld, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,622 likes - 53 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,634 likes - 53 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 | 8 | [Do You See Me](https://open.spotify.com/track/2Qq4cHhvAKu55LDU5kzijB) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Jentry Chau vs the Underworld](https://open.spotify.com/artist/7sHIdMQfOvU0PwMhLcwY19) | [Jentry Chau vs the Underworld \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO) | 2:07 |
 | 9 | [Hello Jentry](https://open.spotify.com/track/0ak3WhkAgM8EVW9puQG6bd) | [Brian H\. Kim](https://open.spotify.com/artist/6AWougHufUYuAil1drF6MB), [Jentry Chau vs the Underworld](https://open.spotify.com/artist/7sHIdMQfOvU0PwMhLcwY19) | [Jentry Chau vs the Underworld \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO) | 0:56 |
 | 10 | [LEMONADE](https://open.spotify.com/track/5Z3mR4zAX4K3krt4JAOpmx) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 2:59 |
-| 11 | [Sen Qi Qi](https://open.spotify.com/track/1oNWDEI1SSzm13JMOM7WGl) | [Notiz Yong](https://open.spotify.com/artist/2Cbo3mHhIRLvHXxQIAz8k6), [Kenton](https://open.spotify.com/artist/5tUXE5XK6VpNJj4LtxeI7W), [Jentry Chau vs the Underworld](https://open.spotify.com/artist/7sHIdMQfOvU0PwMhLcwY19) | [Jentry Chau vs the Underworld \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO) | 1:25 |
+| 11 | [Sen Qi Qi](https://open.spotify.com/track/1oNWDEI1SSzm13JMOM7WGl) | [Notiz Yong](https://open.spotify.com/artist/2Cbo3mHhIRLvHXxQIAz8k6), [KENTON](https://open.spotify.com/artist/5tUXE5XK6VpNJj4LtxeI7W), [Jentry Chau vs the Underworld](https://open.spotify.com/artist/7sHIdMQfOvU0PwMhLcwY19) | [Jentry Chau vs the Underworld \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO) | 1:25 |
 | 12 | [Keeping Tabs](https://open.spotify.com/track/5nyVWaY7wfKMQh9l75iQ5r) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/0TMmGHybMKtsjBBEmwXHkF) | 2:57 |
 | 13 | [i take back what i said](https://open.spotify.com/track/4PhNwLY8xrHBSdDmewOlvI) | [min.a](https://open.spotify.com/artist/077Uh1goMP4hr0IPdrEruw) | [i take back what i said](https://open.spotify.com/album/2tkC2xbepcu28mtpyviwlY) | 2:12 |
 | 14 | [Sweetest Nothings](https://open.spotify.com/track/6FFxBcsIWatbD1f8BnziEr) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Jentry Chau vs the Underworld](https://open.spotify.com/artist/7sHIdMQfOvU0PwMhLcwY19) | [Jentry Chau vs the Underworld \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO) | 3:12 |

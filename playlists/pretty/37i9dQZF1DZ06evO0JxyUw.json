@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 274853,
+  "num_followers": 274865,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMYFgAAAAAD6WEfmJCyuJpg/KRHO8SSY",
+  "snapshot_id": "aMdXAAAAAACDArlvFVj1zpOWlsOkjork",
   "tracks": [
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AGUILERA",
-        "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 206542,
-      "name": "Cuando Me D\u00e9 la Gana",
-      "url": "https://open.spotify.com/track/054rVEFJSFyS9tHbZp1Pwz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Santo",
         "url": "https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 183414,
       "name": "Santo",
       "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AGUILERA",
+        "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 206542,
+      "name": "Cuando Me D\u00e9 la Gana",
+      "url": "https://open.spotify.com/track/054rVEFJSFyS9tHbZp1Pwz"
     },
     {
       "added_at": null,
@@ -943,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0m8VAwx05KPWcxo0B3g2W7"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 186839,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/7xYy4fuiPfFEAsjz3H93Sl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Particles",
         "url": "https://open.spotify.com/album/1qY2yMeihnMGKoFggYCrRB"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 262820,
       "name": "Fall On Me",
       "url": "https://open.spotify.com/track/7oyFihJppZYPP7o0NfoHnZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 193160,
-      "name": "Save Me from Myself",
-      "url": "https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y"
     }
   ],
   "unique_name": "This Is Christina Aguilera",

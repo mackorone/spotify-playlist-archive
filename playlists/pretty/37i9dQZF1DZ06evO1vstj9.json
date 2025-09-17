@@ -1,12 +1,12 @@
 {
   "description": "This is Elmiene. The essential tracks, all in one playlist.",
-  "num_followers": 5816,
+  "num_followers": 5832,
   "original_name": "This Is Elmiene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMYFgAAAAAABy21UX/63eu4uVr0qEBA9",
+  "snapshot_id": "aMdXAAAAAABnBT0FYCgeuXtvXja24U+6",
   "tracks": [
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 51240,
-      "name": "Days!",
-      "url": "https://open.spotify.com/track/6VsOaeuFQ2F7Ux3kkvKDa5"
+      "duration_ms": 144672,
+      "name": "Dull Jewellery",
+      "url": "https://open.spotify.com/track/14dH3pJ865OU7LDKX3lbMd"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 144672,
-      "name": "Dull Jewellery",
-      "url": "https://open.spotify.com/track/14dH3pJ865OU7LDKX3lbMd"
+      "duration_ms": 51240,
+      "name": "Days!",
+      "url": "https://open.spotify.com/track/6VsOaeuFQ2F7Ux3kkvKDa5"
     },
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6"
+        "name": "Live From 525",
+        "url": "https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 220573,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8"
+      "duration_ms": 241546,
+      "name": "Over You By Now - Live From 525",
+      "url": "https://open.spotify.com/track/5l5C8OH7yxyCvUVlAJIZvi"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From 525",
-        "url": "https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA"
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 241546,
-      "name": "Over You By Now - Live From 525",
-      "url": "https://open.spotify.com/track/5l5C8OH7yxyCvUVlAJIZvi"
+      "duration_ms": 220573,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8"
     },
     {
       "added_at": null,

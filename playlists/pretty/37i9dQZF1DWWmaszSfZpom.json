@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 945504,
+  "num_followers": 945501,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -1495,30 +1495,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/7GCjgOvt3728sKyNDVpQsJ"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/0f8oDE74ZkCvIOamuwh306"
-        },
-        {
-          "name": "Jyayo",
-          "url": "https://open.spotify.com/artist/2kyppI9RJmlA20LaOqdn2s"
-        },
-        {
-          "name": "Yaw Faso",
-          "url": "https://open.spotify.com/artist/15DoyzRB8Y3fOIAOoZr3MV"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "N\u00e3o Pare",
-      "url": "https://open.spotify.com/track/4wIUFSrHS8wR0ggNpmHsBS"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Mechendo Voce Vai",
         "url": "https://open.spotify.com/album/0FfgTedsNzwUksBwaFVF8J"
       },
@@ -1539,6 +1515,30 @@
       "duration_ms": 196000,
       "name": "Mechendo Voce Vai",
       "url": "https://open.spotify.com/track/6WOHqlRNvyvTIYWGTgKxPZ"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/7GCjgOvt3728sKyNDVpQsJ"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/0f8oDE74ZkCvIOamuwh306"
+        },
+        {
+          "name": "Jyayo",
+          "url": "https://open.spotify.com/artist/2kyppI9RJmlA20LaOqdn2s"
+        },
+        {
+          "name": "Yaw Faso",
+          "url": "https://open.spotify.com/artist/15DoyzRB8Y3fOIAOoZr3MV"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "N\u00e3o Pare",
+      "url": "https://open.spotify.com/track/4wIUFSrHS8wR0ggNpmHsBS"
     },
     {
       "added_at": "2023-06-26 14:06:50",

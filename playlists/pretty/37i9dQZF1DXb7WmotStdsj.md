@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les hits Raï du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,687 likes - 60 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,743 likes - 60 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hala Rani Fiha](https://open.spotify.com/track/5906V9Gvt3VJzJReUsR8cG) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Raouf Samourai](https://open.spotify.com/artist/68sGJdtxTd8GgSc9oVcaIK) | [Hala Rani Fiha](https://open.spotify.com/album/4aMCboAxYhNkypniSCeZLZ) | 4:50 |
-| 2 | [Atiteha l'amour عطيتها](https://open.spotify.com/track/0iQYnonGw7XG8m7N1tQdDz) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Atiteha l'amour عطيتها](https://open.spotify.com/album/3F7MCxGdT3r1guFLD8fddV) | 2:55 |
-| 3 | [Nti T9alchi وانا نخلص كلشي](https://open.spotify.com/track/4iJG6cWUusjhEAE25AmMwu) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Nti T9alchi وانا نخلص كلشي](https://open.spotify.com/album/3vjvWe3TFqoAoKYdVoq5m6) | 5:49 |
-| 4 | [Pour Le Moment Manich Nhas](https://open.spotify.com/track/57y5tBvYYARdxgFEIKftBi) | [Cheb Rami](https://open.spotify.com/artist/7eqYQ9gRxYnCr3gQ1uarEo) | [Pour Le Moment Manich Nhas](https://open.spotify.com/album/1ap64eynUsY3uxbjK9n1Si) | 5:35 |
+| 2 | [Pour Le Moment Manich Nhas](https://open.spotify.com/track/57y5tBvYYARdxgFEIKftBi) | [Cheb Rami](https://open.spotify.com/artist/7eqYQ9gRxYnCr3gQ1uarEo) | [Pour Le Moment Manich Nhas](https://open.spotify.com/album/1ap64eynUsY3uxbjK9n1Si) | 5:35 |
+| 3 | [Atiteha l'amour عطيتها](https://open.spotify.com/track/0iQYnonGw7XG8m7N1tQdDz) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Atiteha l'amour عطيتها](https://open.spotify.com/album/3F7MCxGdT3r1guFLD8fddV) | 2:55 |
+| 4 | [Nti T9alchi وانا نخلص كلشي](https://open.spotify.com/track/4iJG6cWUusjhEAE25AmMwu) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Nti T9alchi وانا نخلص كلشي](https://open.spotify.com/album/3vjvWe3TFqoAoKYdVoq5m6) | 5:49 |
 | 5 | [Malek Ya Zahri](https://open.spotify.com/track/1J1O8Mnft07pGn8OO08bcJ) | [Cheb Mirou](https://open.spotify.com/artist/39O6tDnyxN5GNWhjHRkjNa) | [Malek Ya Zahri](https://open.spotify.com/album/2AoUR8KBmqLRp5vFbWzhag) | 5:03 |
 | 6 | [Ya Zahri Sket](https://open.spotify.com/track/5OG8JDBJao7IBSZZR3gl8M) | [Cheb Mirou](https://open.spotify.com/artist/39O6tDnyxN5GNWhjHRkjNa), [Rami Latinos](https://open.spotify.com/artist/5Br2ck21YmpuBSmgzDLzjm) | [Ya Zahri Sket](https://open.spotify.com/album/0vBKfVJBOQguSvlqQKAFcK) | 5:18 |
 | 7 | [تلبس لاكوست تلبس فاندي بڨاندي تڨعد بڨاندي](https://open.spotify.com/track/3jyyG3x2WlkQu2V23gWTjl) | [Cheb Badro](https://open.spotify.com/artist/77ajZbWMJ87JLLMVUPZDy3) | [تلبس لاكوست تلبس فاندي بڨاندي تڨعد بڨاندي](https://open.spotify.com/album/6ogfT1oeL9zSNqfWWjcgxP) | 5:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [M'en Galbi Rani Netaleem Chir Labes Lacoste W L3alem](https://open.spotify.com/track/2AfEg8BrxxYWnTSkCO3WoP) | [Cheba Warda Charlomanté](https://open.spotify.com/artist/26vSgNM4fjX4RkmrI26qCZ), [Manini Sahar](https://open.spotify.com/artist/1YFMNFSAIaFxXUOb8tf78c) | [M'en Galbi Rani Netaleem Chir Labes Lacoste W L3alem](https://open.spotify.com/album/20U5bTrHMj4yJyEY90V7DJ) | 5:38 |
 | 60 | [Ya Glbi](https://open.spotify.com/track/4iR1FL0ou2i5N9fMv4UZ2M) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Ya Glbi](https://open.spotify.com/album/3Ia5JNFiTOKD1JKsjoyJHq) | 7:08 |
 
-Snapshot ID: `AAAAAOfr3qlSHN3sZRiiz40+kEcyfTUP`
+Snapshot ID: `AAAAAEsOZNyDeN47+9S7uP01vYIvhzdG`

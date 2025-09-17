@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 
 > Free your mind from distraction with calming white noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,307 likes - 175 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,527 likes - 175 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,7 +157,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 | 147 | [A Windy Day White Noise](https://open.spotify.com/track/6CYKfTdwIOupiFe6fMxDPG) | [Noise Gravity](https://open.spotify.com/artist/5Qd5aYgxNuzurvHmSbHRa5) | [White Noise Gravital EP](https://open.spotify.com/album/4RdmnEVTyqqjD5FVxodwua) | 2:01 |
 | 148 | [Field Spectrum](https://open.spotify.com/track/3XG01xovL8ygkL6TLZ60xr) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Field Spectrum](https://open.spotify.com/album/1NyupceZmOc5jxKlhY9b6s) | 2:42 |
 | 149 | [My Favorite Sleep Noise](https://open.spotify.com/track/4r50S4BkUhjhLcCwBzxO3C) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [My Favorite Sleep Noise](https://open.spotify.com/album/02kHREDO0Lz8zyZBuiGBFO) | 2:17 |
-| 150 | [High Altitudes](https://open.spotify.com/track/2aeYy4OvCZWqZWVrbKeh6m) | [Zen Maestro](https://open.spotify.com/artist/3JyVeZAzOZdJ2dyl5Qd1Wv) | [Relaxed State of Mind](https://open.spotify.com/album/4xYs7vQmlu7qFDVvy9BCcJ) | 3:54 |
+| 150 | [High Altitudes](https://open.spotify.com/track/2aeYy4OvCZWqZWVrbKeh6m) | [Zaestro](https://open.spotify.com/artist/6NRx8nUKXG8pYiL7AA4r0W) | [Relaxed State of Mind](https://open.spotify.com/album/4xYs7vQmlu7qFDVvy9BCcJ) | 3:54 |
 | 151 | [Blue White Noise](https://open.spotify.com/track/0X97bKfDQg76Abx5LDfs8g) | [Libronics](https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja) | [The Focus Noise](https://open.spotify.com/album/1KLlCt51zibJJVuvcdo2lz) | 2:32 |
 | 152 | [Relaxing Focus Noise](https://open.spotify.com/track/7K7agsW6aBgr1RVi2NXFPf) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Momentary Repose](https://open.spotify.com/album/1giBQuyDOKrKsgt3WcYzNo) | 2:23 |
 | 153 | [Peaceful Endless Noise](https://open.spotify.com/track/5mp7Z7mO1LMHD8uDovSHIH) | [Thyyphoon](https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5) | [Endless Noises Vol II](https://open.spotify.com/album/4MrhA8HUGK31Z5kqa2wr6j) | 2:12 |

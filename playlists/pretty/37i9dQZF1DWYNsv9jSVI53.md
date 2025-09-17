@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNsv9jSVI53.md) - [plain]
 
 > The official playlist for Russian Doll on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,916 likes - 26 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,937 likes - 26 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

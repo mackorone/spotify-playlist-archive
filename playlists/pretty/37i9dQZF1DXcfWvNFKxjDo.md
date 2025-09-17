@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Jaden Bojsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,379 likes - 89 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,358 likes - 89 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

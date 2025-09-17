@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  ORA
 
-302 songs - 15 hr 22 min
+303 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Alt hvad jeg vil](https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Alt hvad jeg vil](https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF) | 3:44 | 2025-04-03 |  |
 | [Ambulance](https://open.spotify.com/track/5Dy6tX5fNswTndKlysuBJr) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [Ambulance](https://open.spotify.com/album/22A62knHn06HMNeyOAHPS4) | 3:03 | 2024-09-12 | 2024-10-29 |
 | [Amor](https://open.spotify.com/track/0r3mhkCvXHaIrfh6Fh0ICH) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Amor](https://open.spotify.com/album/22Es0Jeka50VvECPh4TOpu) | 2:49 | 2024-06-27 | 2025-02-12 |
-| [apricot jam](https://open.spotify.com/track/3lt60TB5Y83IgaijLVmg6f) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [apricot jam](https://open.spotify.com/album/0YIqLLGGuZLiqfsZkL1e3N) | 3:14 | 2025-07-31 |  |
+| [apricot jam](https://open.spotify.com/track/3lt60TB5Y83IgaijLVmg6f) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [apricot jam](https://open.spotify.com/album/0YIqLLGGuZLiqfsZkL1e3N) | 3:14 | 2025-07-31 | 2025-09-17 |
 | [ATTITUDE](https://open.spotify.com/track/6SX2HQYSAtdHL4z9ooKgfg) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw), [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [ATTITUDE](https://open.spotify.com/album/3OzfQT3HXKSMWWZYRwp4bN) | 2:56 | 2025-02-27 | 2025-06-06 |
 | [Autopilot](https://open.spotify.com/track/5fKRNLxtq3Gp93Ewl2GTx7) | [Clara Elise](https://open.spotify.com/artist/4Q7zfZJIS6i3XsAuzLuaEX) | [Autopilot](https://open.spotify.com/album/4ISci7c0hJwqysFwIxzMyH) | 2:25 | 2025-07-17 | 2025-07-25 |
 | [AUTOSTRADA](https://open.spotify.com/track/0USF4aKnHq5vhyv2EY6Ts7) | [FABRÄK](https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [7"](https://open.spotify.com/album/339UrGqZIVQUud5XLmUNz1) | 2:51 | 2024-06-27 | 2024-09-12 |
@@ -306,6 +306,7 @@
 | [Without You \(feat\. eee gee\)](https://open.spotify.com/track/0QhufSlyQVv6o9X4erX7WS) | [Selma Judith](https://open.spotify.com/artist/5LLTM3JbwyRIPXqJMSH0hc), [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Half truths from a broken heart](https://open.spotify.com/album/2nIJGhfS4tHqEl6gFDsjNz) | 4:12 | 2024-09-12 | 2024-09-26 |
 | [Woman Lake](https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Woman Lake](https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6) | 2:44 | 2025-04-17 | 2025-07-11 |
 | [Words for Myself](https://open.spotify.com/track/0n0iTPcp4RMXnVN6ZdEEGe) | [Anna Frank](https://open.spotify.com/artist/1RCtH6n7rYymOrMvbX84xg) | [Words for Myself](https://open.spotify.com/album/4YDcP1HZt5vETOWs765m3Z) | 2:10 | 2025-06-19 |  |
+| [You Don't Wanna Be Mine](https://open.spotify.com/track/46zvZV1EiD2Qch4qELYLno) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [You Don't Wanna Be Mine](https://open.spotify.com/album/7e9JMqzTga2FTNHZFmG1NP) | 2:39 | 2025-09-11 |  |
 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 | 2025-03-27 | 2025-07-11 |
 | [Yourself](https://open.spotify.com/track/4GhSPHwC6Ye5Vns747Gk4p) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Yourself](https://open.spotify.com/album/6nui1QBsq4FYx8R6ncaqNL) | 2:45 | 2025-07-31 | 2025-08-08 |
 | [ZAMINA](https://open.spotify.com/track/1DUOr1ivwCp4ICR4hmG6tJ) | [Zay](https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z) | [ZAMINA](https://open.spotify.com/album/5aM1Gfnf17ypEJlffL1oPT) | 3:12 | 2025-07-03 | 2025-08-12 |

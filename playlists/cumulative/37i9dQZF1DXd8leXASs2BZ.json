@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: AIRIE",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: TOKINE",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -4517,6 +4517,24 @@
     },
     {
       "album": {
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/2JKdsTbaTsqElbr8mt5xhT"
+      },
+      "artists": [
+        {
+          "name": "TOKINE",
+          "url": "https://open.spotify.com/artist/3Tg1uV8PDqrVWiPHOBZumU"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/5zKboQNA9hRClhrkmIA8I1"
+    },
+    {
+      "album": {
         "name": "Deep Inside",
         "url": "https://open.spotify.com/album/7hxrB01zm8NgOnCrLpSPqn"
       },
@@ -7548,6 +7566,28 @@
       "duration_ms": 123000,
       "name": "Gifu City is Come Back",
       "url": "https://open.spotify.com/track/3yCiMkAeK41EMehU5NLjXA"
+    },
+    {
+      "album": {
+        "name": "GIMME",
+        "url": "https://open.spotify.com/album/35bWlBlBOGldMRC0kkWdfq"
+      },
+      "artists": [
+        {
+          "name": "Sound's Deli",
+          "url": "https://open.spotify.com/artist/7dd46Nuonbm2HO2pZ8bdgB"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209200,
+      "name": "GIMME",
+      "url": "https://open.spotify.com/track/4rFd8qYq6Zvvf2l3iUjMKv"
     },
     {
       "album": {
@@ -11594,7 +11634,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 227684,
       "name": "Mac Miller",
       "url": "https://open.spotify.com/track/41jtCNe3Zsobh3ESiXxnvt"
@@ -11668,6 +11708,32 @@
       "duration_ms": 194812,
       "name": "MAKE IT OUT",
       "url": "https://open.spotify.com/track/11Lwm3G1684YSbbzoXuKkw"
+    },
+    {
+      "album": {
+        "name": "make u sweat",
+        "url": "https://open.spotify.com/album/53AV0vfa4d9sKHRkS1lMYG"
+      },
+      "artists": [
+        {
+          "name": "Ryuk",
+          "url": "https://open.spotify.com/artist/6XwuA8ruL7xjyyxxnUCjwX"
+        },
+        {
+          "name": "ONJUICY",
+          "url": "https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD"
+        },
+        {
+          "name": "DJ juju",
+          "url": "https://open.spotify.com/artist/2JV884Hupews4yybsGOcEu"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "make u sweat",
+      "url": "https://open.spotify.com/track/7iYQFuLJxiwKZZiDrqFZkM"
     },
     {
       "album": {
@@ -11824,7 +11890,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 236707,
       "name": "Mata Rainen",
       "url": "https://open.spotify.com/track/6e2GAQXNrzFmZO1Z53W0eq"
@@ -18296,7 +18362,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 229000,
       "name": "TAKARA (feat. DABO)",
       "url": "https://open.spotify.com/track/1ZTis8wjfXjAtxfuVwGEi0"

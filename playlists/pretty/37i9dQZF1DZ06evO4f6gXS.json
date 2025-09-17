@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMYFgAAAAACN4bwANY2+D3CN4y3ThXx5",
+  "snapshot_id": "aMdXAAAAAAD7jO+U3sWtCIEvyATa7Ql0",
   "tracks": [
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 275920,
-      "name": "Love Don't Ever Say Goodbye",
-      "url": "https://open.spotify.com/track/4bAEG1ZYfkMCT3SdDRqTzw"
+      "duration_ms": 258613,
+      "name": "ASAP (As Soon as Possible)",
+      "url": "https://open.spotify.com/track/3fU5oXtdBs8QqpBvMQDWQl"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 258613,
-      "name": "ASAP (As Soon as Possible)",
-      "url": "https://open.spotify.com/track/3fU5oXtdBs8QqpBvMQDWQl"
+      "duration_ms": 275920,
+      "name": "Love Don't Ever Say Goodbye",
+      "url": "https://open.spotify.com/track/4bAEG1ZYfkMCT3SdDRqTzw"
     },
     {
       "added_at": null,
@@ -504,8 +504,8 @@
       },
       "artists": [
         {
-          "name": "Anthony Drakes",
-          "url": "https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza"
+          "name": "Dean Edwards",
+          "url": "https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI"
         },
         {
           "name": "Emmanuel",
@@ -516,12 +516,12 @@
           "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
         },
         {
-          "name": "Dean Edwards",
-          "url": "https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI"
-        },
-        {
           "name": "The Jones Girls",
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        },
+        {
+          "name": "Anthony Drakes",
+          "url": "https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza"
         },
         {
           "name": "Julianne",
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
         }
       ],
-      "duration_ms": 301000,
-      "name": "Is It True?",
-      "url": "https://open.spotify.com/track/2P3rUI2tEIlBo5YXcGrOuf"
+      "duration_ms": 280000,
+      "name": "Please Come Back",
+      "url": "https://open.spotify.com/track/63icbDiDWBKZlnwR7bMJzQ"
     },
     {
       "added_at": null,
@@ -591,50 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul Central, Vol. 1",
-        "url": "https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya"
-      },
-      "artists": [
-        {
-          "name": "Dean Edwards",
-          "url": "https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI"
-        },
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o"
-        },
-        {
-          "name": "Chris Ballin",
-          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
-        },
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        },
-        {
-          "name": "Anthony Drakes",
-          "url": "https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza"
-        },
-        {
-          "name": "Julianne",
-          "url": "https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR"
-        },
-        {
-          "name": "The Sound Principle",
-          "url": "https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw"
-        },
-        {
-          "name": "Richard Anthony Davis",
-          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Please Come Back",
-      "url": "https://open.spotify.com/track/63icbDiDWBKZlnwR7bMJzQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
         "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
       },
@@ -647,6 +603,22 @@
       "duration_ms": 231053,
       "name": "You're the Only Bargain I've Got",
       "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 265506,
+      "name": "Merry Go Round",
+      "url": "https://open.spotify.com/track/74rQiIDK5mNhowNZ4UXiWT"
     },
     {
       "added_at": null,
@@ -683,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luxury Soul 2018",
+        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 157133,
+      "name": "If You Don't Start Nothing",
+      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coming Back",
         "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
       },
@@ -692,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 265506,
-      "name": "Merry Go Round",
-      "url": "https://open.spotify.com/track/74rQiIDK5mNhowNZ4UXiWT"
+      "duration_ms": 245600,
+      "name": "Somewhere Alone Tonight",
+      "url": "https://open.spotify.com/track/7p8yn1qom6ABw7zFTYvM6b"
     },
     {
       "added_at": null,
@@ -743,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luxury Soul 2018",
-        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 157133,
-      "name": "If You Don't Start Nothing",
-      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On Target (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
       },
@@ -775,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good to the Last Drop",
+        "url": "https://open.spotify.com/album/2ZdN4EryvKNzKfzp3bfDGw"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 186040,
+      "name": "Learn How to Love",
+      "url": "https://open.spotify.com/track/4zy0jFArD4EwoFlhKkxcVa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coming Back",
         "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
       },
@@ -784,9 +772,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 245600,
-      "name": "Somewhere Alone Tonight",
-      "url": "https://open.spotify.com/track/7p8yn1qom6ABw7zFTYvM6b"
+      "duration_ms": 218493,
+      "name": "Sweet Ecstasy",
+      "url": "https://open.spotify.com/track/7ohWpJGxqnwVuLq6iQrlz9"
     },
     {
       "added_at": null,
@@ -807,13 +795,29 @@
     {
       "added_at": null,
       "album": {
+        "name": "On Target (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "What a Fool",
+      "url": "https://open.spotify.com/track/5h1Xn0K0ke0E7fey2kXWtW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soul Central, Vol. 1",
         "url": "https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya"
       },
       "artists": [
         {
-          "name": "Richard Anthony Davis",
-          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
+          "name": "Anthony Drakes",
+          "url": "https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza"
         },
         {
           "name": "Emmanuel",
@@ -832,27 +836,27 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         },
         {
-          "name": "Anthony Drakes",
-          "url": "https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza"
-        },
-        {
           "name": "Julianne",
           "url": "https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR"
         },
         {
           "name": "The Sound Principle",
           "url": "https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw"
+        },
+        {
+          "name": "Richard Anthony Davis",
+          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
         }
       ],
-      "duration_ms": 297000,
-      "name": "Lovers for Life",
-      "url": "https://open.spotify.com/track/70TgN1YwZOaqBmPLKOfbus"
+      "duration_ms": 301000,
+      "name": "Is It True?",
+      "url": "https://open.spotify.com/track/2P3rUI2tEIlBo5YXcGrOuf"
     },
     {
       "added_at": null,
       "album": {
-        "name": "On Target (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
+        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
+        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
       },
       "artists": [
         {
@@ -860,25 +864,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 344000,
-      "name": "What a Fool",
-      "url": "https://open.spotify.com/track/5h1Xn0K0ke0E7fey2kXWtW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Sweet Ecstasy",
-      "url": "https://open.spotify.com/track/7ohWpJGxqnwVuLq6iQrlz9"
+      "duration_ms": 168920,
+      "name": "Don't Be Sorry Be Careful",
+      "url": "https://open.spotify.com/track/0sXmIrSxNdjBPcQCvFGe5t"
     },
     {
       "added_at": null,
@@ -936,25 +924,9 @@
           "url": "https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw"
         }
       ],
-      "duration_ms": 271120,
-      "name": "The More I Get To Know You",
-      "url": "https://open.spotify.com/track/69VxpJEzI5FQnsMi9oKx4Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
-        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 168920,
-      "name": "Don't Be Sorry Be Careful",
-      "url": "https://open.spotify.com/track/0sXmIrSxNdjBPcQCvFGe5t"
+      "duration_ms": 297000,
+      "name": "Lovers for Life",
+      "url": "https://open.spotify.com/track/70TgN1YwZOaqBmPLKOfbus"
     }
   ],
   "unique_name": "This Is The Jones Girls",

@@ -947,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/64WgcSmTWns5mJlxRipZVq"
+      },
+      "artists": [
+        {
+          "name": "Sean Rivers",
+          "url": "https://open.spotify.com/artist/7k8ThbMOx8Qg3rtkMEUI7R"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137739,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/09tLsyKOJbQfzRrKR6HVmi"
+    },
+    {
+      "album": {
         "name": "Nothing Stays in One Place for Long",
         "url": "https://open.spotify.com/album/6LG30qpC6gwWTx4JsGWGf9"
       },
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 196762,
       "name": "blu sparks",
       "url": "https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno"
@@ -2458,7 +2476,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 153510,
       "name": "Coquelicot",
       "url": "https://open.spotify.com/track/1yMiMLEVBWals38tiLThLR"
@@ -5446,7 +5464,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 200010,
       "name": "In Brevi",
       "url": "https://open.spotify.com/track/6IdoTS34g52DiT8RoOWQNl"
@@ -9829,6 +9847,24 @@
     },
     {
       "album": {
+        "name": "Running out of time",
+        "url": "https://open.spotify.com/album/2oEpsE6ZkZj4bGUUgvxEn6"
+      },
+      "artists": [
+        {
+          "name": "Seawiew",
+          "url": "https://open.spotify.com/artist/6D8Dxtr3FcjFKy4m5PxIRH"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145920,
+      "name": "Running out of time",
+      "url": "https://open.spotify.com/track/46gHk18SLlF6juH6fjqwBc"
+    },
+    {
+      "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/6wL1ZfIwEDzrsQGpP5ixXf"
       },
@@ -9898,6 +9934,24 @@
       "duration_ms": 169868,
       "name": "Saints",
       "url": "https://open.spotify.com/track/5SV96TXvKqxuwNxNmvbq1X"
+    },
+    {
+      "album": {
+        "name": "Salt & Beaches",
+        "url": "https://open.spotify.com/album/1nshIFM70UHUudptUMN4t3"
+      },
+      "artists": [
+        {
+          "name": "Pat Jr",
+          "url": "https://open.spotify.com/artist/7F6eGe9WVjyshqDIdZo4KJ"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134198,
+      "name": "Salt & Beaches",
+      "url": "https://open.spotify.com/track/13ZuEu0I6Zjy67BuxYLiMt"
     },
     {
       "album": {
@@ -12934,6 +12988,24 @@
       "duration_ms": 495483,
       "name": "Vei",
       "url": "https://open.spotify.com/track/6RgMpjc2jIoCAAtAykmTgE"
+    },
+    {
+      "album": {
+        "name": "Velvet Booth",
+        "url": "https://open.spotify.com/album/3VInFJGz32nL7s5aCWRxIa"
+      },
+      "artists": [
+        {
+          "name": "Mr Rawlings",
+          "url": "https://open.spotify.com/artist/5IjVKmCZM7Sy41wQISlmRI"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134482,
+      "name": "Velvet Booth",
+      "url": "https://open.spotify.com/track/7nr7FBOjNubyavoqhoRkMb"
     },
     {
       "album": {

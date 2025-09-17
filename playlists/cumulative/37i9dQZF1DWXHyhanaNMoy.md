@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Langa ✨
 
-1,500 songs - 2 day 18 hr 51 min
+1,500 songs - 2 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1161,7 +1161,7 @@
 | [Santorini](https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Santorini](https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z) | 2:40 | 2023-07-10 | 2023-09-29 |
 | [Schijt](https://open.spotify.com/track/7doMumJZEo17qcIMTPYyFk) | [Fraasie](https://open.spotify.com/artist/1ZpVxyJ5H28OWw0iUOsV82), [Digitzz](https://open.spotify.com/artist/4MCQBhrvHrufVxrKk5c5U3), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [Schijt](https://open.spotify.com/album/1uwe4RflGCrT3A0FuF228V) | 2:36 | 2023-09-28 | 2023-10-13 |
 | [Science](https://open.spotify.com/track/5SoDaPgXA4C2BuTPPInaV2) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:21 | 2022-07-14 | 2022-09-23 |
-| [Science](https://open.spotify.com/track/5wkeyRDjAjca9gD68ZtZrb) | [Demmaa & Javé](https://open.spotify.com/artist/44j3SrDZgV0BhbXNaDjHj6), [Demmaa](https://open.spotify.com/artist/0QNUFOACb7okLgyHnghUBW), [Javé](https://open.spotify.com/artist/0l0L4jCaPSwe99OwHtzQeT) | [Science](https://open.spotify.com/album/38siWgtK2AzqgadjRXRory) | 2:32 | 2025-09-11 |  |
+| [Science](https://open.spotify.com/track/5wkeyRDjAjca9gD68ZtZrb) | [Demmaa & Javé](https://open.spotify.com/artist/44j3SrDZgV0BhbXNaDjHj6), [Demmaa](https://open.spotify.com/artist/0QNUFOACb7okLgyHnghUBW), [Javé](https://open.spotify.com/artist/0l0L4jCaPSwe99OwHtzQeT) | [Science](https://open.spotify.com/album/38siWgtK2AzqgadjRXRory) | 2:27 | 2025-09-11 |  |
 | [Se Te Nota](https://open.spotify.com/track/03Q9frsT4Nr5rQn7Xx82WT) | [BuenosDiaz](https://open.spotify.com/artist/3qMCibsPjK04k9BAijQCRM), [KARYO](https://open.spotify.com/artist/5axX3V9XC7KOWoquBOdA59), [Lunaty](https://open.spotify.com/artist/0bQSrdEHyOnEpiENRbGtEo), [Peso El Connect](https://open.spotify.com/artist/3DHIq4oCIITJXI82lGv4IC), [JM Fuego](https://open.spotify.com/artist/3NclztAZJKINqZ2m6anhQk) | [Se Te Nota](https://open.spotify.com/album/0TSaVQEZqkj6eyAvyl24b6) | 2:14 | 2022-11-04 | 2022-11-18 |
 | [Searching](https://open.spotify.com/track/2imYbBOOllM62rDPk1eGUy) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Searching](https://open.spotify.com/album/5qqVO3JNih12p1fOuC4A71) | 2:06 | 2024-05-23 | 2024-07-05 |
 | [Season](https://open.spotify.com/track/6QKypZP2gDMeeIq5O4LuIO) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [Season](https://open.spotify.com/album/5A6jH4nly9mmEjclnmhhIG) | 2:19 | 2022-07-14 | 2022-07-28 |

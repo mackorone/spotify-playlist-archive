@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 80836,
+  "num_followers": 80865,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,26 @@
     {
       "added_at": "2025-09-05 00:01:31",
       "album": {
+        "name": "Trump",
+        "url": "https://open.spotify.com/album/4ae3iKzKGE1kPWigSBARMS"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        }
+      ],
+      "duration_ms": 160074,
+      "name": "Trump",
+      "url": "https://open.spotify.com/track/6N5ZV6koxWGLSyO4YfmSP3"
+    },
+    {
+      "added_at": "2025-09-05 00:01:31",
+      "album": {
         "name": "Feel D Mood",
         "url": "https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 217718,
       "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
       "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
-    },
-    {
-      "added_at": "2025-09-05 00:01:31",
-      "album": {
-        "name": "Trump",
-        "url": "https://open.spotify.com/album/4ae3iKzKGE1kPWigSBARMS"
-      },
-      "artists": [
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        },
-        {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
-        }
-      ],
-      "duration_ms": 160074,
-      "name": "Trump",
-      "url": "https://open.spotify.com/track/6N5ZV6koxWGLSyO4YfmSP3"
     },
     {
       "added_at": "2025-09-05 00:01:31",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-09-05 00:01:31",
       "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 168779,
-      "name": "Double",
-      "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
-    },
-    {
-      "added_at": "2025-09-05 00:01:31",
-      "album": {
         "name": "Jujupiano La Presido",
         "url": "https://open.spotify.com/album/2KeqBy1snU9zaG9zz1ewgg"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 129231,
       "name": "Jujupiano",
       "url": "https://open.spotify.com/track/60Rdrz0jHgjziwqpMtgHCk"
+    },
+    {
+      "added_at": "2025-09-05 00:01:31",
+      "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 168779,
+      "name": "Double",
+      "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
     },
     {
       "added_at": "2025-09-05 00:01:31",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-09-05 00:01:31",
       "album": {
-        "name": "Marhaba X We Must",
-        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 143187,
-      "name": "Marhaba",
-      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
-    },
-    {
-      "added_at": "2025-09-05 00:01:31",
-      "album": {
         "name": "Hi Hi",
         "url": "https://open.spotify.com/album/6gmqGq8zHgE0ym1OImsxqt"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 135941,
       "name": "Hi Hi",
       "url": "https://open.spotify.com/track/7udshzJFOOChc3pUehXDbf"
+    },
+    {
+      "added_at": "2025-09-05 00:01:31",
+      "album": {
+        "name": "Marhaba X We Must",
+        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 143187,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
     },
     {
       "added_at": "2025-09-05 00:01:31",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-09-05 00:01:31",
       "album": {
-        "name": "Aquafina",
-        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Aquafina",
-      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
-    },
-    {
-      "added_at": "2025-09-05 00:01:31",
-      "album": {
         "name": "Holiday / Reason You",
         "url": "https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 159100,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz"
+    },
+    {
+      "added_at": "2025-09-05 00:01:31",
+      "album": {
+        "name": "Aquafina",
+        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
     },
     {
       "added_at": "2025-09-05 00:01:31",
@@ -1151,22 +1151,22 @@
     {
       "added_at": "2025-09-05 00:01:31",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ"
+        "name": "Pawon Boy Vol.1",
+        "url": "https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6"
       },
       "artists": [
         {
-          "name": "Yung Alpha",
-          "url": "https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6"
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Dj 4kerty",
+          "url": "https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG"
         }
       ],
-      "duration_ms": 185396,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE"
+      "duration_ms": 135652,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a"
     },
     {
       "added_at": "2025-09-05 00:01:31",
@@ -1187,22 +1187,18 @@
     {
       "added_at": "2025-09-05 00:01:31",
       "album": {
-        "name": "Pawon Boy Vol.1",
-        "url": "https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6"
+        "name": "Colors (My Baby) / Loyal",
+        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
       },
       "artists": [
         {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Dj 4kerty",
-          "url": "https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
         }
       ],
-      "duration_ms": 135652,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a"
+      "duration_ms": 164240,
+      "name": "Colors (My Baby)",
+      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
     }
   ],
   "unique_name": "Keep Fit Club ",

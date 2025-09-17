@@ -482,7 +482,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 212491,
       "name": "Alive & Well",
       "url": "https://open.spotify.com/track/2W5MV8gAzYhvcWV7lywxP1"
@@ -3121,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "Erasure",
+        "url": "https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189159,
+      "name": "Erasure",
+      "url": "https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/2hkRgU5Xm7CJy5HQQxh07k"
       },
@@ -3168,7 +3186,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 154933,
       "name": "Everything\u2019s On Fire But I\u2019m Fine",
       "url": "https://open.spotify.com/track/1QlspbCplGbHwofyNqyiBb"
@@ -8662,6 +8680,24 @@
       "duration_ms": 142124,
       "name": "Talking To Myself",
       "url": "https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x"
+    },
+    {
+      "album": {
+        "name": "Tomorrow We Escape",
+        "url": "https://open.spotify.com/album/1cSUzXXFmtNIFrCECjFe4R"
+      },
+      "artists": [
+        {
+          "name": "Ho99o9",
+          "url": "https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131079,
+      "name": "Target Practice",
+      "url": "https://open.spotify.com/track/1N3LYk2u9cSGnH1x5ODoqD"
     },
     {
       "album": {

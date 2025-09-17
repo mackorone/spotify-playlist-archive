@@ -4603,6 +4603,28 @@
     },
     {
       "album": {
+        "name": "SAM'S CLUB",
+        "url": "https://open.spotify.com/album/50OBECtPBbwI9OGlg7vCHh"
+      },
+      "artists": [
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        },
+        {
+          "name": "22nd Jim",
+          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "CAN'T DENY IT",
+      "url": "https://open.spotify.com/track/7AMejrHwxXtepII3zfej7x"
+    },
+    {
+      "album": {
         "name": "Can't FW Nobody",
         "url": "https://open.spotify.com/album/2y7jRmcPfAfRWZzn2LRBYO"
       },
@@ -14280,7 +14302,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 138528,
       "name": "KEPT ON MY CLEATS",
       "url": "https://open.spotify.com/track/6mD0a1h5bpdBECecKgFQxp"

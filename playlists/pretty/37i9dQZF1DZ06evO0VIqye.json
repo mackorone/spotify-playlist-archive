@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 61481,
+  "num_followers": 61479,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMYFgAAAAABcQhjZzqbOZmqTH+9pnkeJ",
+  "snapshot_id": "aMdXAAAAAABnEqKg6qC3PPHW6PqgSDyE",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Sessions",
-        "url": "https://open.spotify.com/album/72grmzVPqrB4FnWtmGNqS9"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/1AKXEXuWv0g6XQSghcJtNO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tank Girl Soundtrack",
         "url": "https://open.spotify.com/album/5EmkiJMTXyVyQnOO84hKz7"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 143360,
       "name": "Let's Do It - O.S.T.",
       "url": "https://open.spotify.com/track/0AsgPWO44bOT7Bo4oArEEW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First Sessions",
+        "url": "https://open.spotify.com/album/72grmzVPqrB4FnWtmGNqS9"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/1AKXEXuWv0g6XQSghcJtNO"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Reputation (Music from the Original Motion Picture)",
-        "url": "https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Rebel, Rebel",
-      "url": "https://open.spotify.com/track/7M73Fj5VKCn37at0myvTCn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glorious Results of a Misspent Youth (Expanded Edition)",
         "url": "https://open.spotify.com/album/75T1W71zi6uGCXQPwodRQd"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 173853,
       "name": "New Orleans",
       "url": "https://open.spotify.com/track/51ReZrIWONjt5fKxVcmjEi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Reputation (Music from the Original Motion Picture)",
+        "url": "https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Rebel, Rebel",
+      "url": "https://open.spotify.com/track/7M73Fj5VKCn37at0myvTCn"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Backlash",
-      "url": "https://open.spotify.com/track/5bzOdHdkOO8fjfhNfdFJJs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fake Friends",
         "url": "https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Backlash",
+      "url": "https://open.spotify.com/track/5bzOdHdkOO8fjfhNfdFJJs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Up Your Alley",
         "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unvarnished (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5zYm8Y47mCuyRHYsLk22sL"
+        "name": "Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 233386,
-      "name": "Bad as We Can Be",
-      "url": "https://open.spotify.com/track/5xBnwSHVVnoibWwoWt9pMa"
+      "duration_ms": 182800,
+      "name": "I Love Playin' With Fire",
+      "url": "https://open.spotify.com/track/2f145m0AvoZX5tF1Rac2QZ"
     }
   ],
   "unique_name": "This Is Joan Jett & the Blackhearts",

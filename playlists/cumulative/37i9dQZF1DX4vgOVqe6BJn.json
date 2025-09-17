@@ -1117,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "Erasure",
+        "url": "https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189159,
+      "name": "Erasure",
+      "url": "https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR"
+    },
+    {
+      "album": {
         "name": "Falling Apart",
         "url": "https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj"
       },
@@ -1755,7 +1773,7 @@
     },
     {
       "album": {
-        "name": "Heartfalls (feat. Khazali)",
+        "name": "Heartfalls (feat. Caleb Virgo)",
         "url": "https://open.spotify.com/album/0pav2XJdIIb7cswufb8ZwF"
       },
       "artists": [
@@ -1764,16 +1782,34 @@
           "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
         },
         {
-          "name": "Khazali",
-          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
+          "name": "Caleb Virgo",
+          "url": "https://open.spotify.com/artist/5oOhMCLwSFyyyLpc80aUVd"
         }
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202815,
-      "name": "Heartfalls (feat. Khazali)",
+      "name": "Heartfalls (feat. Caleb Virgo)",
       "url": "https://open.spotify.com/track/6AlTHpfu0unvKz7uc3PFVv"
+    },
+    {
+      "album": {
+        "name": "Heaviness",
+        "url": "https://open.spotify.com/album/2pm917uNJ3wpKBDy0Hoxfm"
+      },
+      "artists": [
+        {
+          "name": "Falle Nioke",
+          "url": "https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224050,
+      "name": "Heaviness",
+      "url": "https://open.spotify.com/track/2Xgo2uCqGH4LMS14yHbodv"
     },
     {
       "album": {
@@ -3673,6 +3709,24 @@
     },
     {
       "album": {
+        "name": "SHARK",
+        "url": "https://open.spotify.com/album/7si0iU7YBG37vzLRgtNQnR"
+      },
+      "artists": [
+        {
+          "name": "Reaper",
+          "url": "https://open.spotify.com/artist/47qrgNNbZRRCAK0ZrKcuZV"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417777,
+      "name": "SHARK",
+      "url": "https://open.spotify.com/track/2BXR22CKOUPARbYeIVATqJ"
+    },
+    {
+      "album": {
         "name": "SHOWBIZ",
         "url": "https://open.spotify.com/album/0iJFu1erjoKbUak1UdT5oi"
       },
@@ -4100,6 +4154,24 @@
       "duration_ms": 220899,
       "name": "Surfin'",
       "url": "https://open.spotify.com/track/1ZmCYjCIenkXd8Ia59t0TJ"
+    },
+    {
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Symmetry",
+      "url": "https://open.spotify.com/track/1Xk4qOVBo2N4lA8RWJabjM"
     },
     {
       "album": {
@@ -4568,6 +4640,24 @@
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO"
+    },
+    {
+      "album": {
+        "name": "We Can Pretend",
+        "url": "https://open.spotify.com/album/3OfYRp72axi4mYCejUbZoT"
+      },
+      "artists": [
+        {
+          "name": "Baby Universe",
+          "url": "https://open.spotify.com/artist/14KWskNq8uFJtGecO7YmIW"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266938,
+      "name": "We Can Pretend",
+      "url": "https://open.spotify.com/track/7msBqHVeABojkm6AvMxrjC"
     },
     {
       "album": {

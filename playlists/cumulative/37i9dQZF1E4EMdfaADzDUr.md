@@ -2,7 +2,7 @@
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With winterburn, Leblanc, After Cooking and more
+> With After Cooking, winterburn, Leblanc and more
 
 130 songs - 9 hr 37 min
 

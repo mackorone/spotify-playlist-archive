@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Rubel, Marina Sena
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,265 likes - 85 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,260 likes - 85 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 84 | [Desculpe o Auê \- Ao Vivo](https://open.spotify.com/track/2wHOXgPbLgsrdDf60hsJy7) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [André Whoong](https://open.spotify.com/artist/1ZxKO0ur2O9gH35FV89coV), [Bona](https://open.spotify.com/artist/3JcoeykZnLoV6Z1rSwsuMV) | [Desculpe o Auê \(Ao Vivo\)](https://open.spotify.com/album/70ayyaP7jxqFfpvOvbtxqK) | 3:33 |
 | 85 | [Rio](https://open.spotify.com/track/1rEi13xiygTnnysYpVmOGR) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Rio](https://open.spotify.com/album/5QpuwSU3qtOvEdxcSVsllt) | 4:00 |
 
-Snapshot ID: `AAAAAJFIfsx/UtLVJdXPkQvNUC03WGe2`
+Snapshot ID: `AAAAAMuNJWlbugghcFHecs3b5mIx9x2H`

@@ -170,7 +170,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 192000,
       "name": "ADIMAI",
       "url": "https://open.spotify.com/track/4fJq3KI3Wa0kxVyY4huDrZ"
@@ -3645,6 +3645,32 @@
     },
     {
       "album": {
+        "name": "Rekka Rekka (From \"Bison Kaalamaadan\")",
+        "url": "https://open.spotify.com/album/7Br0FidswToB3vRdj9H8Nl"
+      },
+      "artists": [
+        {
+          "name": "Nivas K Prasanna",
+          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303203,
+      "name": "Rekka Rekka - From \"Bison Kaalamaadan\"",
+      "url": "https://open.spotify.com/track/2lyodB0HLF9KWD8lR4EA4J"
+    },
+    {
+      "album": {
         "name": "Rich Rich (From \"Mahaan\")",
         "url": "https://open.spotify.com/album/3Z4pHhZ5NKMNoNCKIngFCm"
       },
@@ -3808,7 +3834,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-17",
       "duration_ms": 185806,
       "name": "SAVADIII (SG EDITION) - AK VALLY & Thambi Natta Remix",
       "url": "https://open.spotify.com/track/5fMb3hekUehr6GHWdo7F6b"

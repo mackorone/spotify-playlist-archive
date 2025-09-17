@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Kirk Franklin & The Family, Kurt Carr & The Kurt Carr Singers, Chicago Mass Choir and more
+> With Samoht, MAJOR., Chicago Mass Choir and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 252 likes - 50 songs - 4 hr 1 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [Lord, Break These Chains](https://open.spotify.com/track/7kskWHbf1Z5FL8ziNSUYUk) | [China Styles](https://open.spotify.com/artist/3ubPEAmladxyGrppqdQwTk) | [BH 365](https://open.spotify.com/album/0C1SREcdvljfeDsLF0MNvK) | 3:29 |
 | 50 | [I Feel Like Going On](https://open.spotify.com/track/6rCVGZwhOWpxRJOejAGVQp) | [The 5 Heartbeats](https://open.spotify.com/artist/08XJ8En6r470i5QJV4vzrG) | [The Five Heartbeats \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7yyzbiqpfv5lKM5m4u4Wta) | 6:41 |
 
-Snapshot ID: `aMjcOQAAAAD0TMjW3rz6uYU2Q+5tr3LU`
+Snapshot ID: `AAAAAH23lHxeHMjUJ2m0Acjc86W1+T/i`

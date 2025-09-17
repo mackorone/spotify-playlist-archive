@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iSJxWbeWLf.md) - [plain]
 
 > White noise for studying and concentration
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,342 likes - 54 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,524 likes - 54 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iSJxWbeWLf.md) - [plain]
 | 12 | [Recycled White Noise](https://open.spotify.com/track/7CJtFJZrKkgYQIm8GPBdRV) | [Crystal Slowdown](https://open.spotify.com/artist/6O0u8LauyCpF8qnE347A4o) | [Recycled White Noise](https://open.spotify.com/album/52ldNa0Vt9u0mzcp8WpyQK) | 5:33 |
 | 13 | [Snowflake Serene](https://open.spotify.com/track/0ZsB17r7du0FbzRI73PqYA) | [Valdervande](https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX) | [Snowflake Serene](https://open.spotify.com/album/4rm29G1rZpwIRx6DHSBpEE) | 3:29 |
 | 14 | [Classic White Noise](https://open.spotify.com/track/3MN3DNjyftwie7OVxAqi0e) | [Likko Sol](https://open.spotify.com/artist/2Or8PQp1nSscZ2gnIkx17E) | [Classic White Noise](https://open.spotify.com/album/4nbxMf3QGj2sq91iBB5K98) | 3:41 |
-| 15 | [Pink Noise in the Clouds](https://open.spotify.com/track/13CjSx77aqHKD1FwlLTPL3) | [Acoustic Activity](https://open.spotify.com/artist/3aSkejkyPbnMng0ako4TTb) | [Pink Noise in the Clouds](https://open.spotify.com/album/51Ih7E1U2BpapVGCRESxb6) | 3:10 |
+| 15 | [Pink Noise in the Clouds](https://open.spotify.com/track/13CjSx77aqHKD1FwlLTPL3) | [Avosola](https://open.spotify.com/artist/451HQRdyUYr2CEkK4A9wty) | [Pink Noise in the Clouds](https://open.spotify.com/album/51Ih7E1U2BpapVGCRESxb6) | 3:10 |
 | 16 | [Flat White Noise](https://open.spotify.com/track/2sT8xEi35Qn6iceYxi1u2V) | [520Hz](https://open.spotify.com/artist/6S1S2NTJ5M5REqvqp6zYSs) | [White Noise Hz](https://open.spotify.com/album/3A8cNq1g1XQKds0Ho4ltJG) | 2:30 |
 | 17 | [Delicate White Noise](https://open.spotify.com/track/6sUY8p4taLXxhqoo3JbOhR) | [Noise Advisor](https://open.spotify.com/artist/28Xwzrz7nVTqirstVfbxF1) | [Delicate White Noise](https://open.spotify.com/album/4PwZOVcCvo0QkWtgTVEEIw) | 2:42 |
 | 18 | [Falling for White Noise](https://open.spotify.com/track/0iBMkvge37pfNn6zXgn5s3) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [Falling for White Noise](https://open.spotify.com/album/59wBIPCmPd0gtMcnfqTcUX) | 3:48 |

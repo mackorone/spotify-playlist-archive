@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Malcriada",
-  "num_followers": 92196,
+  "num_followers": 92197,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-09-11 00:17:05",
       "album": {
+        "name": "Cabello Rojo",
+        "url": "https://open.spotify.com/album/3VBMZY8Bm6HUPXSCgQBn38"
+      },
+      "artists": [
+        {
+          "name": "Nova Club",
+          "url": "https://open.spotify.com/artist/2dHSEYEz7AKUtdlJutrRTA"
+        }
+      ],
+      "duration_ms": 194286,
+      "name": "Cabello Rojo",
+      "url": "https://open.spotify.com/track/2JPq2IjAikdyBRHeveZXks"
+    },
+    {
+      "added_at": "2025-09-11 00:17:05",
+      "album": {
         "name": "adondevamos??",
         "url": "https://open.spotify.com/album/7F766sekcvwWXK5YVp7eJf"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 231724,
       "name": "adondevamos??",
       "url": "https://open.spotify.com/track/7137vD0rMEEK3Qoy3G9Sp7"
-    },
-    {
-      "added_at": "2025-09-11 00:17:05",
-      "album": {
-        "name": "Cabello Rojo",
-        "url": "https://open.spotify.com/album/3VBMZY8Bm6HUPXSCgQBn38"
-      },
-      "artists": [
-        {
-          "name": "Nova Club",
-          "url": "https://open.spotify.com/artist/2dHSEYEz7AKUtdlJutrRTA"
-        }
-      ],
-      "duration_ms": 194286,
-      "name": "Cabello Rojo",
-      "url": "https://open.spotify.com/track/2JPq2IjAikdyBRHeveZXks"
     },
     {
       "added_at": "2025-09-11 00:17:05",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-09-11 00:17:05",
       "album": {
-        "name": "Hesitated",
-        "url": "https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp"
-      },
-      "artists": [
-        {
-          "name": "Jack Rabbit",
-          "url": "https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp"
-        }
-      ],
-      "duration_ms": 160426,
-      "name": "Hesitated",
-      "url": "https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP"
-    },
-    {
-      "added_at": "2025-09-11 00:17:05",
-      "album": {
         "name": "Voz en el Mar",
         "url": "https://open.spotify.com/album/0h2WlyrHox0ZH2Jlxs7Obb"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2025-09-11 00:17:05",
       "album": {
-        "name": "ATIZALE",
-        "url": "https://open.spotify.com/album/0E6BnN3hk8Om51qM2vtmfv"
+        "name": "Hesitated",
+        "url": "https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp"
       },
       "artists": [
         {
-          "name": "Refugee",
-          "url": "https://open.spotify.com/artist/65GZg7V2p8KsgXcr72slTx"
+          "name": "Jack Rabbit",
+          "url": "https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp"
         }
       ],
-      "duration_ms": 144196,
-      "name": "ATIZALE",
-      "url": "https://open.spotify.com/track/3OLDaypybBlk46CtasInNL"
+      "duration_ms": 160426,
+      "name": "Hesitated",
+      "url": "https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP"
     },
     {
       "added_at": "2025-09-11 00:17:05",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2025-09-11 00:17:05",
       "album": {
+        "name": "ATIZALE",
+        "url": "https://open.spotify.com/album/0E6BnN3hk8Om51qM2vtmfv"
+      },
+      "artists": [
+        {
+          "name": "Refugee",
+          "url": "https://open.spotify.com/artist/65GZg7V2p8KsgXcr72slTx"
+        }
+      ],
+      "duration_ms": 144196,
+      "name": "ATIZALE",
+      "url": "https://open.spotify.com/track/3OLDaypybBlk46CtasInNL"
+    },
+    {
+      "added_at": "2025-09-11 00:17:05",
+      "album": {
         "name": "Entresue\u00f1os",
         "url": "https://open.spotify.com/album/0Jsc0pQII2vfnBV1fWKZIz"
       },
@@ -1135,42 +1135,6 @@
       "duration_ms": 176950,
       "name": "Entresue\u00f1os",
       "url": "https://open.spotify.com/track/1hZfTTvkoxecJCqEqaoYqq"
-    },
-    {
-      "added_at": "2025-09-11 00:17:05",
-      "album": {
-        "name": "De Tepito Pa'La Calle",
-        "url": "https://open.spotify.com/album/0BxPmyGd6fUA6vzg4NnQoX"
-      },
-      "artists": [
-        {
-          "name": "Los Anormales",
-          "url": "https://open.spotify.com/artist/2i4eEP0ufBPa8FilGxoczv"
-        },
-        {
-          "name": "NENE GOGA",
-          "url": "https://open.spotify.com/artist/78s4afXb7KlQfIQ0Ryp4vj"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "TOMI",
-      "url": "https://open.spotify.com/track/5HGLJDt8i6tlNbSxgyo84p"
-    },
-    {
-      "added_at": "2025-09-11 00:17:05",
-      "album": {
-        "name": "Rinconcito en el Cielo",
-        "url": "https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 222855,
-      "name": "Rinconcito en el Cielo",
-      "url": "https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc"
     },
     {
       "added_at": "2025-09-11 00:17:05",
@@ -1195,6 +1159,42 @@
       "duration_ms": 148800,
       "name": "Chaka",
       "url": "https://open.spotify.com/track/2JQEpanfnk5EGSzFPiN09U"
+    },
+    {
+      "added_at": "2025-09-11 00:17:05",
+      "album": {
+        "name": "Rinconcito en el Cielo",
+        "url": "https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 222855,
+      "name": "Rinconcito en el Cielo",
+      "url": "https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc"
+    },
+    {
+      "added_at": "2025-09-11 00:17:05",
+      "album": {
+        "name": "De Tepito Pa'La Calle",
+        "url": "https://open.spotify.com/album/0BxPmyGd6fUA6vzg4NnQoX"
+      },
+      "artists": [
+        {
+          "name": "Los Anormales",
+          "url": "https://open.spotify.com/artist/2i4eEP0ufBPa8FilGxoczv"
+        },
+        {
+          "name": "NENE GOGA",
+          "url": "https://open.spotify.com/artist/78s4afXb7KlQfIQ0Ryp4vj"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "TOMI",
+      "url": "https://open.spotify.com/track/5HGLJDt8i6tlNbSxgyo84p"
     },
     {
       "added_at": "2025-09-11 00:17:05",

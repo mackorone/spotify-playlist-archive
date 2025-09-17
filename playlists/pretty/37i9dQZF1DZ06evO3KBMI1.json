@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 73648,
+  "num_followers": 73656,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMYFgAAAAAAu7wuSEZhrz+i2Acpfa2N5",
+  "snapshot_id": "aMdXAAAAAAAiRe+FaCdfuLWp2yFzqe+V",
   "tracks": [
     {
       "added_at": null,
@@ -251,38 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ODD FUTURE short ver.",
-        "url": "https://open.spotify.com/album/276iqWzPw3i8uGdvoDzMsN"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 89983,
-      "name": "ODD FUTURE short ver.",
-      "url": "https://open.spotify.com/track/5tXOuIoDO0ZtGLijEOD6HZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE ONE",
-        "url": "https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "7th Trigger",
-      "url": "https://open.spotify.com/track/3ALiXA2sdQBuHotnGkEAoV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ENIGMASIS",
         "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
       },
@@ -303,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EPIPHANY",
-        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
+        "name": "THE ONE",
+        "url": "https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf"
       },
       "artists": [
         {
@@ -312,9 +280,25 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 251773,
-      "name": "PHOENIX AX",
-      "url": "https://open.spotify.com/track/3g7jOzyFtGOgTSmzalvlt7"
+      "duration_ms": 258933,
+      "name": "7th Trigger",
+      "url": "https://open.spotify.com/track/3ALiXA2sdQBuHotnGkEAoV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ODD FUTURE short ver.",
+        "url": "https://open.spotify.com/album/276iqWzPw3i8uGdvoDzMsN"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 89983,
+      "name": "ODD FUTURE short ver.",
+      "url": "https://open.spotify.com/track/5tXOuIoDO0ZtGLijEOD6HZ"
     },
     {
       "added_at": null,
@@ -351,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EPIPHANY",
+        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 251773,
+      "name": "PHOENIX AX",
+      "url": "https://open.spotify.com/track/3g7jOzyFtGOgTSmzalvlt7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MMH",
         "url": "https://open.spotify.com/album/5RrsFS1r5qn2MkjKNEnCFr"
       },
@@ -379,22 +379,6 @@
       "duration_ms": 253053,
       "name": "Fight For Liberty",
       "url": "https://open.spotify.com/track/07NMKEDSIgM6W6FvmCIKKa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "CHANCE!",
-      "url": "https://open.spotify.com/track/6ASc0gMzq0KSiVB8WLPHCP"
     },
     {
       "added_at": null,
@@ -431,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "CHANCE!",
+      "url": "https://open.spotify.com/track/6ASc0gMzq0KSiVB8WLPHCP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EPIPHANY",
         "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
       },
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ENIGMASIS",
-        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 289853,
-      "name": "THEORY",
-      "url": "https://open.spotify.com/track/0GmGyXJKcxbbsXu1HtkDqA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "0 CHOIR",
         "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 341093,
       "name": "0 choir",
       "url": "https://open.spotify.com/track/0l0v2OwXowCmGOcPeIOcUP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ENIGMASIS",
+        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 289853,
+      "name": "THEORY",
+      "url": "https://open.spotify.com/track/0GmGyXJKcxbbsXu1HtkDqA"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ENIGMASIS",
-        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
+        "name": "7\uff54\uff48 Trigger",
+        "url": "https://open.spotify.com/album/2y1EdY2dKT6w0nVGt9uVtz"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 260079,
-      "name": "VICTOSPIN",
-      "url": "https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3"
+      "duration_ms": 275306,
+      "name": "AWAYOKUBA-\u65ac\u308b",
+      "url": "https://open.spotify.com/track/7rOGRAUI5YauKjCA0KIC0f"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "7\uff54\uff48 Trigger",
-        "url": "https://open.spotify.com/album/2y1EdY2dKT6w0nVGt9uVtz"
+        "name": "ENIGMASIS",
+        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
       },
       "artists": [
         {
@@ -568,25 +568,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 275306,
-      "name": "AWAYOKUBA-\u65ac\u308b",
-      "url": "https://open.spotify.com/track/7rOGRAUI5YauKjCA0KIC0f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EPIPHANY",
-        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "WINGS ever",
-      "url": "https://open.spotify.com/track/1XJ40s9ENDiSeHVuqVkgEP"
+      "duration_ms": 260079,
+      "name": "VICTOSPIN",
+      "url": "https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3"
     },
     {
       "added_at": null,
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ENIGMASIS",
-        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
+        "name": "EPIPHANY",
+        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
       },
       "artists": [
         {
@@ -616,9 +600,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 210413,
-      "name": "\u30d3\u30bf\u30fc\u30b9\u30a6\u30a3\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/04kM1N15bkZxI0KlQB4tXb"
+      "duration_ms": 206760,
+      "name": "WINGS ever",
+      "url": "https://open.spotify.com/track/1XJ40s9ENDiSeHVuqVkgEP"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
       "duration_ms": 270173,
       "name": "\u30af\u30aa\u30ea\u30a2",
       "url": "https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ENIGMASIS",
+        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "\u30d3\u30bf\u30fc\u30b9\u30a6\u30a3\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/04kM1N15bkZxI0KlQB4tXb"
     },
     {
       "added_at": null,
@@ -671,30 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6765\u9ce5\u6c5f",
-        "url": "https://open.spotify.com/album/6ZFcRyPSEjIISFDg38kfyB"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        },
-        {
-          "name": "\u5c71\u7530\u5b5d\u4e4b",
-          "url": "https://open.spotify.com/artist/4TVqk2KMYTgu4TMyEJdu0P"
-        },
-        {
-          "name": "Aiemu",
-          "url": "https://open.spotify.com/artist/5jgdNxHkpHuJ9dSUgw8KZt"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "\u6765\u9ce5\u6c5f",
-      "url": "https://open.spotify.com/track/01jssTUlTw2QSx8U1XLhAw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIFE 6 SENSE",
         "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
       },
@@ -723,6 +699,30 @@
       "duration_ms": 181333,
       "name": "PHOENIX",
       "url": "https://open.spotify.com/track/6x4Ic92TnTIG6uJHi2VoXy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u6765\u9ce5\u6c5f",
+        "url": "https://open.spotify.com/album/6ZFcRyPSEjIISFDg38kfyB"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        },
+        {
+          "name": "\u5c71\u7530\u5b5d\u4e4b",
+          "url": "https://open.spotify.com/artist/4TVqk2KMYTgu4TMyEJdu0P"
+        },
+        {
+          "name": "Aiemu",
+          "url": "https://open.spotify.com/artist/5jgdNxHkpHuJ9dSUgw8KZt"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "\u6765\u9ce5\u6c5f",
+      "url": "https://open.spotify.com/track/01jssTUlTw2QSx8U1XLhAw"
     },
     {
       "added_at": null,

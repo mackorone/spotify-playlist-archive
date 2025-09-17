@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Ardhito Pramono
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,084 likes - 106 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,083 likes - 106 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

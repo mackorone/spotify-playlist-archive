@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 
 > Unwind to the real beauty of Instrumentals!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,947 likes - 100 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,960 likes - 100 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,13 +76,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 | 66 | [A Mother's Lullaby \- Live](https://open.spotify.com/track/2pWLZPs7fj9zHKgccr6J88) | [Bharath Kashyap](https://open.spotify.com/artist/64gIAKUTHEFa94DBnvFdXR) | [Live at Gray Spark Audio](https://open.spotify.com/album/3cjjBxqy2u5qaEoNHgSn3g) | 5:00 |
 | 67 | [Change Is Constant](https://open.spotify.com/track/6cMH2fGXa2mnVmpH5ZJQ9r) | [Celestial Teapot](https://open.spotify.com/artist/6aHtkeW2toEgtMdYoiaVg8) | [One Big Sky](https://open.spotify.com/album/1zUsQok0rVwhy3ay8UD3Mw) | 6:44 |
 | 68 | [Dark Sundae in Triplicane](https://open.spotify.com/track/17FtPFUyO6v4VwdYKR2Vl1) | [Prasanna](https://open.spotify.com/artist/2r6h7HtxCQtmG3jfXs2ZmZ) | [Electric Ganesha Land](https://open.spotify.com/album/2e55LkHl4NoGHJgaWqm699) | 6:50 |
-| 69 | [Emotive Conversation](https://open.spotify.com/track/4TtP5t0uihrLtFbnDV2ImP) | [Avik Ganguly](https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks) | [Emotive Conversation](https://open.spotify.com/album/2Ig7cVIgBMpH2i4myl0NT1) | 2:52 |
-| 70 | [Maybe Someday](https://open.spotify.com/track/3bOBQatV3miQwshPF6sqHy) | [Abhishek Bonthu](https://open.spotify.com/artist/2Npi8Fvuiey2YK0sWreWl5) | [Maybe Someday](https://open.spotify.com/album/2Tt6FvcQmkFXo0vAIpWIM1) | 2:42 |
+| 69 | [Maybe Someday](https://open.spotify.com/track/3bOBQatV3miQwshPF6sqHy) | [Abhishek Bonthu](https://open.spotify.com/artist/2Npi8Fvuiey2YK0sWreWl5) | [Maybe Someday](https://open.spotify.com/album/2Tt6FvcQmkFXo0vAIpWIM1) | 2:42 |
+| 70 | [Emotive Conversation](https://open.spotify.com/track/4TtP5t0uihrLtFbnDV2ImP) | [Avik Ganguly](https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks) | [Emotive Conversation](https://open.spotify.com/album/2Ig7cVIgBMpH2i4myl0NT1) | 2:52 |
 | 71 | [Back to One](https://open.spotify.com/track/4yEXxzaeY1QfEfRVXTNqi9) | [Chris Jason](https://open.spotify.com/artist/2V2s3Ojx8fA8C0kZhyWmkl) | [Back to One](https://open.spotify.com/album/5r2rB9OynhQbvJeBE24z28) | 3:10 |
 | 72 | [Ascent](https://open.spotify.com/track/4i6XRMX1DRgJVZIRHjGHYe) | [Alam Khan](https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG), [Arjun K\. Verma](https://open.spotify.com/artist/7zRwN2RRNF3NJ0YjBprXDk), [Del Sol Quartet](https://open.spotify.com/artist/5keTow3JGXZRACyDjl2tMH), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ) | [Ascent](https://open.spotify.com/album/6IM9vWv8KvbSg65TlBAFCS) | 1:59 |
 | 73 | [The Last Cadenza](https://open.spotify.com/track/3j0AwklIEeYW7AjOPFMkt4) | [Bhaskar Dutta](https://open.spotify.com/artist/5WmWSEl2YZs5TgVsFFDXBk) | [The Violin Player \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ZVQVSIMR5231HVPUYJWTo) | 5:47 |
-| 74 | [Mon Kharaper Bristi](https://open.spotify.com/track/208iNU2i8NjvYMEixOlJh7) | [Avik Ganguly](https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks) | [My Journey with Ebony & Ivory](https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk) | 3:03 |
-| 75 | [Peregrination \(feat\. Anjna Swaminathan\)](https://open.spotify.com/track/00u1ZHXpQNW9H8a4dupCCa) | [Rajna Swaminathan](https://open.spotify.com/artist/76Kr5nklB4ofbdxy0OISZA), [Anjna Swaminathan](https://open.spotify.com/artist/0tjmkKWHrOabhi2Po3O8EQ) | [Of Agency and Abstraction](https://open.spotify.com/album/0IWc6Er95KUR9p5xVXXm9B) | 4:09 |
+| 74 | [Peregrination \(feat\. Anjna Swaminathan\)](https://open.spotify.com/track/00u1ZHXpQNW9H8a4dupCCa) | [Rajna Swaminathan](https://open.spotify.com/artist/76Kr5nklB4ofbdxy0OISZA), [Anjna Swaminathan](https://open.spotify.com/artist/0tjmkKWHrOabhi2Po3O8EQ) | [Of Agency and Abstraction](https://open.spotify.com/album/0IWc6Er95KUR9p5xVXXm9B) | 4:09 |
+| 75 | [Mon Kharaper Bristi](https://open.spotify.com/track/208iNU2i8NjvYMEixOlJh7) | [Avik Ganguly](https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks) | [My Journey with Ebony & Ivory](https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk) | 3:03 |
 | 76 | [Mind Games](https://open.spotify.com/track/25huDxLSCWw37NB5J2lkS5) | [Vinay Kaushal](https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ), [Shirish Malhotra](https://open.spotify.com/artist/09BRSkC9du5CQy9r6u6Bv2) | [Duality](https://open.spotify.com/album/39btMG9DNAir8fkFT7OcXN) | 5:28 |
 | 77 | [Valencia](https://open.spotify.com/track/4u0eNhPfra8m1BpOwtYVRr) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv) | [Valencia](https://open.spotify.com/album/12WTQanIkVo2kml0e4O2EG) | 4:54 |
 | 78 | [Monsoon Melodies](https://open.spotify.com/track/3uMMZfQrOG8dNfioP0nWaU) | [Bhooshan Gogad](https://open.spotify.com/artist/7rZipNXSBDQicSLNRZbN2B) | [Monsoon Melodies](https://open.spotify.com/album/39gBKIFpzZGzBIF21xwg60) | 4:56 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Skinny Hightower
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,563 likes - 100 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,587 likes - 100 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Take Off Your Cool](https://open.spotify.com/track/0Ysimq1w9pwerOtGekE76i) | [Chief Adjuah](https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Take Off Your Cool](https://open.spotify.com/album/4cIqn29NG2sXYtANxx5LSJ) | 7:27 |
+| 1 | [Take Off Your Cool](https://open.spotify.com/track/0Ysimq1w9pwerOtGekE76i) | [Chief Adjuah](https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Take Off Your Cool](https://open.spotify.com/album/4cIqn29NG2sXYtANxx5LSJ) | 7:27 |
 | 2 | [Suede](https://open.spotify.com/track/7a7rZUp3doRbHOyfH8Bpyu) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx), [Alex Parchment](https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab) | [Suede](https://open.spotify.com/album/3tPwSfznRxFsfAWwrptFwT) | 3:37 |
 | 3 | [Dersen Cafe](https://open.spotify.com/track/1GhtPXeqONUwX91jVh3Obu) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Dersen Cafe & Give Nothing](https://open.spotify.com/album/4YU2bHRmTiy9fSI6arBkYH) | 2:04 |
 | 4 | [UNDEFEATED](https://open.spotify.com/track/5fwKEMTyS0FqLk7KVdGQwl) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4) | [LIVE\-ACTION](https://open.spotify.com/album/6KpA380vLBVA6d6lYebIk3) | 3:22 |

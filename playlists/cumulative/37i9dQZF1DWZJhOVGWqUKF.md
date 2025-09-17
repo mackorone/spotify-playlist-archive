@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Smash Into Pieces
 
-654 songs - 1 day 13 hr 13 min
+654 songs - 1 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [77 \- feat\. Avril Lavigne](https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [77 \(feat\. Avril Lavigne\)](https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt) | 2:53 | 2025-04-25 | 2025-06-08 |
 | [A Brand New God](https://open.spotify.com/track/1tMJAI8SdpPee1dG1eFUVb) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [BAD STAR](https://open.spotify.com/album/0RPj9cZzlISaA1b6JJrUrr) | 3:32 | 2025-04-24 | 2025-05-02 |
 | [A Fool's Parade](https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [A Fool's Parade](https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h) | 3:42 | 2024-06-27 | 2025-01-11 |
-| [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:07 | 2025-06-12 |  |
+| [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:38 | 2025-06-12 |  |
 | [A Little Too High](https://open.spotify.com/track/07UhkkoVZLfX0khL5UzpoZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 3:37 | 2025-08-07 |  |
 | [A Sky Full of Stars](https://open.spotify.com/track/46ugCVn6XqZKNDE2lLQzOm) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [A Sky Full of Stars](https://open.spotify.com/album/6rVuS8geDXgoTCaPMMFSJS) | 3:22 | 2025-05-30 | 2025-07-11 |
 | [A WIFE\. A WHORE.](https://open.spotify.com/track/147mFah1EuPCCmueW3HxSG) | [Letters Sent Home](https://open.spotify.com/artist/6VS6UnMmEtkcyYumRHZUI1), [Pentastone](https://open.spotify.com/artist/2Ga7dFa3QASOZpORTAUD8l) | [A WIFE\. A WHORE.](https://open.spotify.com/album/46pKIioYD8ARKFZ6AhhNU0) | 3:14 | 2025-06-26 | 2025-07-04 |
@@ -268,7 +268,7 @@
 | [Help](https://open.spotify.com/track/7iCs2MBtk1NrADU6G3MjZB) | [Maelføy](https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp) | [Help](https://open.spotify.com/album/6Ae3eq0cJR9kR2nJUZw5pt) | 3:49 | 2025-01-10 | 2025-01-17 |
 | [Here to Stay](https://open.spotify.com/track/0hUDVGg1GL70jyyE5T9kkD) | [Lansdowne](https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34) | [Here to Stay](https://open.spotify.com/album/3quNTDVJ9YU0hLkqnCwfAc) | 3:28 | 2024-09-26 | 2024-10-04 |
 | [Heroes \- Spotify Singles](https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes \- Spotify Singles](https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag) | 3:00 | 2025-01-10 | 2025-04-18 |
-| [Heroes Are Calling](https://open.spotify.com/track/0QOEWQEowuJUz7LRIe3F6b) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes Are Calling](https://open.spotify.com/album/5vTfNc6mJuhXr2O3UIER3e) | 2:59 | 2024-06-27 | 2025-09-12 |
+| [Heroes Are Calling](https://open.spotify.com/track/0QOEWQEowuJUz7LRIe3F6b) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes Are Calling](https://open.spotify.com/album/5vTfNc6mJuhXr2O3UIER3e) | 2:59 | 2024-06-27 |  |
 | [hide & seek](https://open.spotify.com/track/3hQVXjMDZBWhbl0lSTW7IC) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [hide & seek](https://open.spotify.com/album/0pD1eUq9emXqqRnt9JI2u2) | 3:07 | 2025-07-10 | 2025-07-18 |
 | [Hollywood Forever](https://open.spotify.com/track/5CNopDW4B3IBlspdSmvjCh) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hollywood Forever](https://open.spotify.com/album/69FMIiQw61cmQM3B1xACr9) | 4:37 | 2024-10-24 |  |
 | [Holy Water \(feat\. Ivan Moody of Five Finger Death Punch\)](https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Holy Water \(feat\. Ivan Moody of Five Finger Death Punch\)](https://open.spotify.com/album/2VO6HxN9o1v3s3zSKlLoiz) | 3:01 | 2025-02-28 | 2025-08-23 |
@@ -567,7 +567,7 @@
 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 | 2024-08-01 | 2025-08-10 |
 | [The Art Of Being Alone](https://open.spotify.com/track/4tPx1qTsAr7kwB4oKAoMCu) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf), [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [The Art Of Being Alone](https://open.spotify.com/album/64XgHGWD8KkYDrDI1wp9OX) | 4:19 | 2025-09-11 |  |
 | [The Beat](https://open.spotify.com/track/5TM64poPKEC9oqUoxojedI) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [The Beat](https://open.spotify.com/album/4niaB3fUejqfPM4alqc3uT) | 1:43 | 2025-07-10 | 2025-07-18 |
-| [THE BOTTOM](https://open.spotify.com/track/49Syz20A5meY1lBkkaoKN4) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [THE BOTTOM](https://open.spotify.com/album/46AUWrJnzx6ZFw3Bbjz8OZ) | 3:52 | 2025-07-24 |  |
+| [THE BOTTOM](https://open.spotify.com/track/49Syz20A5meY1lBkkaoKN4) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [THE BOTTOM](https://open.spotify.com/album/46AUWrJnzx6ZFw3Bbjz8OZ) | 3:52 | 2025-07-24 | 2025-09-17 |
 | [The Contract](https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Contract](https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J) | 3:48 | 2025-06-12 | 2025-08-23 |
 | [THE DAY I DIE](https://open.spotify.com/track/6i7bF28lxl9lIY5YlxEkOL) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [THE DAY I DIE](https://open.spotify.com/album/2TcaqGYejUhMR5Aazztveu) | 4:00 | 2025-04-24 | 2025-06-21 |
 | [The Day Of...](https://open.spotify.com/track/20w340h37XvpPjiO591XCg) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Day Of...](https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1) | 4:33 | 2024-08-08 | 2024-09-27 |

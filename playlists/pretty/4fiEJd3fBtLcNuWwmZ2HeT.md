@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 348 songs - 19 hr 47 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 352 songs - 20 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -356,5 +356,9 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 346 | [ゲシュタルト後悔](https://open.spotify.com/track/2V4nd8UC7PrhKpZAWcxHpB) | [CARAMEL CANDiD](https://open.spotify.com/artist/4nDSmohFDEuowSQQjTAStH) | [ゲシュタルト後悔](https://open.spotify.com/album/7tJhkSSOzBgYiOduOLIx6o) | 3:09 |
 | 347 | [DARLING](https://open.spotify.com/track/2tsKPVmDYAspAyOU2Wjbkd) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 3:43 |
 | 348 | [Snooze](https://open.spotify.com/track/1Ht0sIJf1IYEiBW9XDLKnF) | [wotaku](https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX) | [Snooze](https://open.spotify.com/album/0GrWylaTP2A3nDLDIklvWM) | 2:58 |
+| 349 | [これを依存と呼ぶなら](https://open.spotify.com/track/1Oe45Ze9SwanHB2vL7gY9H) | [MEJIBRAY](https://open.spotify.com/artist/6VeP6EHKYyGJrN60TlAPpo) | [Slivers.exe](https://open.spotify.com/album/3Nh4cuCIR5iHJyv07kCoRL) | 5:40 |
+| 350 | [Umi no shizuku](https://open.spotify.com/track/0jjz9medFeIXgz1lVOccgZ) | [exist†trace](https://open.spotify.com/artist/2qrNC9noTTHFbNw5SQTh52) | [Ambivalent Symphony](https://open.spotify.com/album/1lPIKPAcpTidL1Xvo78rMI) | 4:51 |
+| 351 | [ヒトガワリ](https://open.spotify.com/track/40KFocvzK7xc1jHzBDM8k4) | [きくおはな](https://open.spotify.com/artist/1GBV8C0PfGVH1G5QRqHt5k) | [第二幕](https://open.spotify.com/album/7et3nHvC6nflQu4QsJkJvs) | 4:26 |
+| 352 | [Umitagari](https://open.spotify.com/track/413FikBJHxjwz8EWNi2hVK) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:45 |
 
-Snapshot ID: `AAAJUSYRVirs+CmHZ9kUuwGjAxiBtvXq`
+Snapshot ID: `AAAJVU+cSvKAGImphX0jvbNaNUo5Ib3T`

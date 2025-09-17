@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANyTi/8BXb1NLt7knue7M5gzgQvM",
+  "snapshot_id": "AAAAAMdnuftcwVTI2+FMN+9+9A1Z0pZy",
   "tracks": [
     {
       "added_at": "2025-09-08 02:20:09",
@@ -141,6 +141,22 @@
       "url": "https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX"
     },
     {
+      "added_at": "2025-09-16 07:02:01",
+      "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
       "added_at": "2025-09-08 02:20:09",
       "album": {
         "name": "SWAG",
@@ -237,20 +253,20 @@
       "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
     },
     {
-      "added_at": "2025-09-08 02:20:09",
+      "added_at": "2025-09-16 07:02:01",
       "album": {
-        "name": "Lovin Myself",
-        "url": "https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp"
+        "name": "Imaginary Playerz",
+        "url": "https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 176214,
-      "name": "Lovin Myself",
-      "url": "https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN"
+      "duration_ms": 207380,
+      "name": "Imaginary Playerz",
+      "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
     },
     {
       "added_at": "2025-09-08 02:20:09",
@@ -267,22 +283,6 @@
       "duration_ms": 175788,
       "name": "Type Dangerous",
       "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
-    },
-    {
-      "added_at": "2025-09-08 02:20:09",
-      "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/3fAes6kOJqF8H5IumD0aik"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/7gn1dVwAYxmzpj5peCAOWt"
     },
     {
       "added_at": "2025-09-08 02:20:09",
@@ -311,22 +311,6 @@
     {
       "added_at": "2025-09-08 02:20:09",
       "album": {
-        "name": "What Are You Waiting For",
-        "url": "https://open.spotify.com/album/4qp5j55H9mKYb6HqNXtfXm"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 144424,
-      "name": "What Are You Waiting For",
-      "url": "https://open.spotify.com/track/54zcjcLY7yDAOdViuHcrhQ"
-    },
-    {
-      "added_at": "2025-09-08 02:20:09",
-      "album": {
         "name": "Backflips in a Restaurant",
         "url": "https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7"
       },
@@ -339,38 +323,6 @@
       "duration_ms": 165522,
       "name": "Need You Around",
       "url": "https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z"
-    },
-    {
-      "added_at": "2025-09-08 02:20:09",
-      "album": {
-        "name": "DIFFERENT",
-        "url": "https://open.spotify.com/album/3ktE9BFKxeYT90NbKnDn7v"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 141756,
-      "name": "DIFFERENT",
-      "url": "https://open.spotify.com/track/0c6PVOqHNDuhH6uNfA13IX"
-    },
-    {
-      "added_at": "2025-09-08 02:20:09",
-      "album": {
-        "name": "Karaoke",
-        "url": "https://open.spotify.com/album/24mDmuNu8kGAUHn7xEfBbk"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 163315,
-      "name": "Karaoke",
-      "url": "https://open.spotify.com/track/2kUwVaaNh6xX7iaAzPIK5Y"
     },
     {
       "added_at": "2025-09-08 02:20:09",
@@ -407,38 +359,6 @@
     {
       "added_at": "2025-09-08 02:20:09",
       "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/6Uz2Mo5S7QfjoGt4bgTXfD"
-      },
-      "artists": [
-        {
-          "name": "Tripov",
-          "url": "https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h"
-        }
-      ],
-      "duration_ms": 169898,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/09eXUhQEMNokUW7xqZT3YD"
-    },
-    {
-      "added_at": "2025-09-08 02:20:09",
-      "album": {
-        "name": "Music For People Who Believe In Love",
-        "url": "https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE"
-      },
-      "artists": [
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        }
-      ],
-      "duration_ms": 198460,
-      "name": "Honey Blonde",
-      "url": "https://open.spotify.com/track/4A2jbfMjTwAbqf5rJ0BTLh"
-    },
-    {
-      "added_at": "2025-09-08 02:20:09",
-      "album": {
         "name": "You'll Be In My Heart",
         "url": "https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ"
       },
@@ -471,22 +391,6 @@
     {
       "added_at": "2025-09-08 02:20:09",
       "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/5BeSpFkdJkSc9phzT3bJSs"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 177514,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ"
-    },
-    {
-      "added_at": "2025-09-08 02:20:09",
-      "album": {
         "name": "P.U.S.P.A.",
         "url": "https://open.spotify.com/album/2uy4WkOAatMqKXI3dtusiE"
       },
@@ -499,22 +403,6 @@
       "duration_ms": 240200,
       "name": "Putri Iklan",
       "url": "https://open.spotify.com/track/0wlZGWWK9M6KRHky1IfBYZ"
-    },
-    {
-      "added_at": "2025-09-08 02:20:09",
-      "album": {
-        "name": "Sarwa Renjana",
-        "url": "https://open.spotify.com/album/54bIfja1dUvfnOPUCmY5CC"
-      },
-      "artists": [
-        {
-          "name": "Armand Maulana",
-          "url": "https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb"
-        }
-      ],
-      "duration_ms": 190912,
-      "name": "Aku Tempatmu Pulang",
-      "url": "https://open.spotify.com/track/2THSRFEIrQHhW6zgMb4aJI"
     },
     {
       "added_at": "2025-09-08 02:20:09",
@@ -547,22 +435,6 @@
       "duration_ms": 221927,
       "name": "Berharap Pada Timur",
       "url": "https://open.spotify.com/track/04Xja5NhxVXzuGGusGyqSN"
-    },
-    {
-      "added_at": "2025-09-08 02:20:09",
-      "album": {
-        "name": "Ternyata Eh Ternyata",
-        "url": "https://open.spotify.com/album/2ndRylR8iWf9D8BkYCp5Kc"
-      },
-      "artists": [
-        {
-          "name": "Avolia",
-          "url": "https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE"
-        }
-      ],
-      "duration_ms": 202622,
-      "name": "Ternyata Eh Ternyata",
-      "url": "https://open.spotify.com/track/5suxnk05DrWsjJQkU8dp0G"
     },
     {
       "added_at": "2025-09-08 02:20:09",
@@ -675,22 +547,6 @@
       "duration_ms": 263087,
       "name": "Pesan Cinta",
       "url": "https://open.spotify.com/track/41M4whJ2Vy5UV9tvWaVt8B"
-    },
-    {
-      "added_at": "2025-09-08 02:20:09",
-      "album": {
-        "name": "Bad Girls Like You",
-        "url": "https://open.spotify.com/album/5Nc9aGRxGkut2IrN0Dmxss"
-      },
-      "artists": [
-        {
-          "name": "Tobii",
-          "url": "https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Bad Girls Like You",
-      "url": "https://open.spotify.com/track/23EDUpNbiKcDwhUf9kBRo8"
     },
     {
       "added_at": "2025-09-08 02:20:09",
@@ -1127,22 +983,6 @@
       "duration_ms": 170000,
       "name": "Jadi Kekasihku Saja",
       "url": "https://open.spotify.com/track/1lCv3fOI9bqBypLpgUfA4T"
-    },
-    {
-      "added_at": "2025-09-08 02:20:09",
-      "album": {
-        "name": "Tiara Andini",
-        "url": "https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl"
-      },
-      "artists": [
-        {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
-        }
-      ],
-      "duration_ms": 235979,
-      "name": "Gemintang Hatiku",
-      "url": "https://open.spotify.com/track/2Q44ftk6lRes25tvoXlAqp"
     },
     {
       "added_at": "2025-09-08 02:20:09",

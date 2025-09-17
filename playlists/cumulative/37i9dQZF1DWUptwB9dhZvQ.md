@@ -4,7 +4,7 @@
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : Coolie
 
-217 songs - 6 hr 33 min
+218 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/track/4lCJO8QeKIkU2um1z5NBb9) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl) | [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/album/7mKc9SHsbYiAoDODfFqqZo) | 2:48 | 2023-02-03 | 2025-05-28 |
 | [Bommai Theme](https://open.spotify.com/track/1gXArCGq0bOmH7EdMw3Gl9) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Bommai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/142n2bgdZKBNBTwi0kWXH4) | 3:08 | 2023-06-08 | 2023-07-15 |
 | [Brothers in Arms](https://open.spotify.com/track/69RyTphfpI2ySydSDLbVLE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Raayan \(Original Background Score\)](https://open.spotify.com/album/0ZlKGiNXYO5G8Gpg5iFTUm) | 2:01 | 2024-12-10 |  |
+| [Bus Fight x Powerhouse x Disco \(From "Coolie BGM"\)](https://open.spotify.com/track/1TuAiGYL1nJvTfGaHNEX40) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rajinikanth](https://open.spotify.com/artist/3ds25WkPGxtYxOCrzPS3dz), [Aamir Khan](https://open.spotify.com/artist/0Tn7oEmE8zDUR340Doo9zl), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Bus Fight X Powerhouse X Disco \(From "Coolie BGM"\)](https://open.spotify.com/album/2QMLORj3nZDtyhmhSF53iP) | 2:57 | 2025-09-16 |  |
 | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/track/3Feda69zjFHpUaJtJskq7N) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/album/3ef08KVjQfE97k9qFvybCh) | 2:48 | 2023-01-16 |  |
 | [Chikitu Vibe Promo \(From "Coolie"\)](https://open.spotify.com/track/5mLQsi5t349Wdm9sB07so0) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [T\. Rajendar](https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle) | [Chikitu Vibe Promo \(From "Coolie"\)](https://open.spotify.com/album/3rawORcH9av8a4xPpPqWEG) | 0:56 | 2024-12-13 | 2025-09-13 |
 | [Chill Theme](https://open.spotify.com/track/1clDa8XhJTTiivWDIuO5B9) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU) | [Lover \(Original Score\)](https://open.spotify.com/album/2ckveWEr2jwpwwhkKVOFS1) | 1:22 | 2024-03-17 | 2024-06-08 |
@@ -129,7 +130,7 @@
 | [Marriage At 2AM \- Background Score](https://open.spotify.com/track/4XlAwjHZUbQrgUJcfrCuMQ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:27 | 2022-07-08 | 2023-08-19 |
 | [Masked Warrior](https://open.spotify.com/track/5SISIYduHnFqlQz9lOAANQ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Kochadaiiyaan \(Original Score\)](https://open.spotify.com/album/7eBKHNP3IAPfqvZP7CE1t4) | 2:58 | 2023-02-21 | 2023-04-21 |
 | [Master the Blaster \- Background Score](https://open.spotify.com/track/4BRWG0mQqol30OG5xLIplN) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:32 | 2021-11-01 | 2025-08-08 |
-| [Mathew Theme \(From "Jailer"\)](https://open.spotify.com/track/1DfpYz98hG74VoH8ROcvw2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mathew Theme \(From "Jailer"\)](https://open.spotify.com/album/6GD2CMMyn07ALf3tguGZZF) | 2:09 | 2023-09-08 |  |
+| [Mathew Theme \(From "Jailer"\)](https://open.spotify.com/track/1DfpYz98hG74VoH8ROcvw2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mathew Theme \(From "Jailer"\)](https://open.spotify.com/album/6GD2CMMyn07ALf3tguGZZF) | 2:09 | 2023-09-08 | 2025-09-17 |
 | [Michael Theme Song \(Tamil\)](https://open.spotify.com/track/3mQp0Zo0iSvfjXmaxXHOVp) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Michael \(Tamil\)](https://open.spotify.com/album/45ZKgYcHjkpSSDbqYt90Sy) | 2:08 | 2023-01-30 | 2023-04-21 |
 | [Moaning Theme \- Background Score](https://open.spotify.com/track/3Qm35fbJSuclok2fQB2rzZ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:24 | 2022-07-08 | 2023-08-19 |
 | [Mudinja Thodra](https://open.spotify.com/track/6b52NQujSIgTurwO7fVJnj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Madharaasi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P) | 1:57 | 2025-09-10 | 2025-09-12 |

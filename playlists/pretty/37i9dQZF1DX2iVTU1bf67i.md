@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 
 > The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,118 likes - 200 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,174 likes - 200 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 | 146 | [Trouble In Mind](https://open.spotify.com/track/1Q3nwehHU6712WVfvpWVpz) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Red In Bluesville](https://open.spotify.com/album/275AqoGJKv5Mu2quadBUTM) | 5:44 |
 | 147 | [Where Are You? \- Rudy Van Gelder Edition / Remastered 1999](https://open.spotify.com/track/5OiS6Qse8ZY9jJ5CTwO9Yx) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 5:21 |
 | 148 | [Just One Of Those Things \- Take 8 \- Master Take](https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Songs For Distingué Lovers](https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw) | 5:33 |
-| 149 | [How High The Moon \- Remastered](https://open.spotify.com/track/5KbYlvQhNwlyfTcOGeWQ2e) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [June Christy Recalls Those Kenton Days](https://open.spotify.com/album/7LiaPDVtP6eWdpO6MCkiIS) | 2:33 |
+| 149 | [How High The Moon \- Remastered 2001](https://open.spotify.com/track/5KbYlvQhNwlyfTcOGeWQ2e) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [June Christy Recalls Those Kenton Days](https://open.spotify.com/album/7LiaPDVtP6eWdpO6MCkiIS) | 2:33 |
 | 150 | [Namely You](https://open.spotify.com/track/29naPagLSF8eIFdJXgBmVi) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Newk's Time](https://open.spotify.com/album/61ZMZem0tvxv63NqN8mesY) | 3:18 |
 | 151 | [Lover Man \- Remastered](https://open.spotify.com/track/7hjJTsKBkmmQgqQ6ZFakSg) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Intuition](https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc) | 4:30 |
 | 152 | [I Can't Get Started](https://open.spotify.com/track/3UgqGdZQZFByqmENWtfaA6) | [John Lewis](https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s) | [Grand Encounter: 2° East / 3° West](https://open.spotify.com/album/5ZPkGeJqOYisfBWba69W9S) | 3:36 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-455 songs - 23 hr 0 min
+456 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Let's Face The Music And Dance](https://open.spotify.com/track/0h3dxP1Akmx0CKzoJTHbBa) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [When I Look In Your Eyes](https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD) | 5:18 | 2024-07-26 |  |
 | [Let's Go Back To The Waltz](https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [Empathy](https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH) | 4:30 | 2024-07-26 |  |
 | [Let's Go West Again](https://open.spotify.com/track/4mbFo8etzP7mRYPLhUnU3R) | [Betty Hutton](https://open.spotify.com/artist/4VCyL3xDf8AYZUQRtEF7bp) | [Annie Get Your Gun \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/6ElY58QbaDUrZju8KQ0UBh) | 3:08 | 2024-07-26 |  |
+| [Let's Have Another Cup Of Coffee \(From "Face The Music"\) \- 2002 Remastered](https://open.spotify.com/track/5DMTreJFLW0tzLdqIC7OtZ) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc), [Ernie Caceres](https://open.spotify.com/artist/5wazyKBgk8KDzdmHIhuhvc), [Marion Hutton](https://open.spotify.com/artist/3laQbbBvyhDMtrSHPyk4My), [The Modernaires](https://open.spotify.com/artist/3qKEtH1zoLm2ofNZivYevw) | [America's Bandleader](https://open.spotify.com/album/31DxnMa6Do5GPZzz1JoMKT) | 3:03 | 2025-09-16 |  |
 | [Let's Keep In Touch While We're Dancing](https://open.spotify.com/track/6fl5SROT0VOe4IgcHyiVom) | [Lynnette Perry](https://open.spotify.com/artist/5rNEB0kE0Eu081J4obzqDn), [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 4:48 | 2024-07-26 |  |
 | [Let's Say It with Firecrackers](https://open.spotify.com/track/2sGeTCNosbaPDA6VDFq9Ft) | [Bryce Pinkham](https://open.spotify.com/artist/4btoHQmPd0eXBRdxsN7AJd), [Corbin Bleu](https://open.spotify.com/artist/5GuEFqVXxQsqJtjGqoFWvf), [Lora Lee Gayer](https://open.spotify.com/artist/0X8yomlDiz6TuulO3Sybor), [Holiday Inn Original Broadway Ensemble](https://open.spotify.com/artist/5GdZzDOvXB4JqpwZsJSKhj) | [Irving Berlin's Holiday Inn \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6YbUStrOvVgjVZ9HtQPOKQ) | 3:05 | 2024-07-26 |  |
 | [Let's Start The New Year Right \- From "Holiday Inn" Soundtrack](https://open.spotify.com/track/1R9eghNr3OjUET9XNqNsW9) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Bob Crosby & His Orchestra](https://open.spotify.com/artist/6wUL6C3zRBBf4N0QwYdws4) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UFYxC0oiZkmTijiBWzYXs) | 2:33 | 2024-07-26 |  |

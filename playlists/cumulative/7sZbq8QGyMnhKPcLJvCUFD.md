@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-760 songs - 1 day 14 hr 11 min
+761 songs - 1 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Freedom](https://open.spotify.com/track/1roivsvHAUwl9VhnEpRGjD) | [32Stitches](https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ), [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Freedom](https://open.spotify.com/album/5d0m1rwDpjHleCQyfDUu3f) | 3:45 | 2022-09-02 | 2023-04-28 |
 | [Freefall](https://open.spotify.com/track/4uAfbFWPDw2D2PwnYwusXH) | [RIENK](https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9) | [Freefall](https://open.spotify.com/album/4blg6OOSjjWU2bQO0G1zFg) | 3:08 | 2025-01-03 |  |
 | [From The Top](https://open.spotify.com/track/6VyLyu1gHjr6P3Kjy5ImP9) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [From The Top](https://open.spotify.com/album/7izd5GNllU2xpzIvyrd9qv) | 2:57 | 2024-10-17 |  |
+| [Funeral](https://open.spotify.com/track/6Ql6cQGKPrU5CP8u6LHzkT) | [Justin OH](https://open.spotify.com/artist/5x2u5vpKBhviWQlni8VM8L), [Jantine](https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG) | [Funeral](https://open.spotify.com/album/2gTZvYBtprARgndX724KEX) | 2:56 | 2025-09-16 |  |
 | [Funk It](https://open.spotify.com/track/5UxqThkJZYyOHZZ8ovBKzU) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Funk It](https://open.spotify.com/album/2M8c3XJgVUNuu1sc0d0oXj) | 3:02 | 2025-01-13 |  |
 | [Galactic](https://open.spotify.com/track/2XG44lK8ODf0Ziikx8pzxo) | [Natty Lou](https://open.spotify.com/artist/01iBGqeIP82ClBsWKXEW1O), [Sebotage](https://open.spotify.com/artist/6wGjRjiTXERLfPwoMY19iP) | [Galactic](https://open.spotify.com/album/7KylNpVIx4aYFZR7WNI1mx) | 3:23 | 2024-03-05 | 2024-09-29 |
 | [Gang](https://open.spotify.com/track/3rY9c54y99HLvtwgdWa9Da) | [DJ Nansuya](https://open.spotify.com/artist/12bX3Fr0vy9dvgIoxzPQ36) | [Gang](https://open.spotify.com/album/0KGak11lvZ0sRN5m9oNrA4) | 2:33 | 2025-02-11 |  |
@@ -669,7 +670,7 @@
 | [The Redeemer](https://open.spotify.com/track/0eFVCzAfOfbK053Kwy2qVO) | [ANIZYZ](https://open.spotify.com/artist/2MWaA6CZ9Rf8tDDuoMjZJq), [BVSSL7ON](https://open.spotify.com/artist/68eoJvGNNchU2mUZaE8f3X) | [The Redeemer](https://open.spotify.com/album/6v2ASAAYoG0Ee0G0e7KJua) | 1:33 | 2025-06-12 |  |
 | [The Riot](https://open.spotify.com/track/5NLdmEFbJIl6z3XNyYiXo4) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [The Riot](https://open.spotify.com/album/4LJhlX7i3YpdeRgVmyPvom) | 3:05 | 2024-10-04 |  |
 | [The Rocks](https://open.spotify.com/track/7fAzUkWPy7LKXNfvZs7W3V) | [Maze](https://open.spotify.com/artist/6lAnJw7YqGPgG1ShMCjcbQ) | [The Rocks](https://open.spotify.com/album/2AIbgGVrYnbOhuYWAUzTiV) | 4:01 | 2024-01-30 | 2024-08-28 |
-| [The Sound](https://open.spotify.com/track/3quLDIBSXkvoidNLfQzju7) | [Fluorescents](https://open.spotify.com/artist/3k7eYa4LVI5wqhLj7PACE2), [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9) | [The Sound](https://open.spotify.com/album/3rYyOaZMBlyUD3Olle9r0g) | 3:38 | 2025-07-17 |  |
+| [The Sound](https://open.spotify.com/track/3quLDIBSXkvoidNLfQzju7) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Fluorescents](https://open.spotify.com/artist/3k7eYa4LVI5wqhLj7PACE2) | [The Sound](https://open.spotify.com/album/3rYyOaZMBlyUD3Olle9r0g) | 3:38 | 2025-07-17 |  |
 | [The Time](https://open.spotify.com/track/4BBZYc1dqFnjg7Q0FBifkE) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [The Time](https://open.spotify.com/album/5c4WYL7FNA1Q5CtkWURneS) | 3:30 | 2023-06-28 | 2023-08-10 |
 | [Think About Me](https://open.spotify.com/track/58D90FJE3U4HMZG8yZT0Ha) | [Yancle](https://open.spotify.com/artist/4O1BpPjKtbmon4QJDaYFGM) | [Think About Me](https://open.spotify.com/album/4Vg4b2iTQKB2uGe5Isi1VI) | 3:07 | 2023-07-19 | 2023-08-10 |
 | [Thought It Was U](https://open.spotify.com/track/3cakt86V0NLaQNFqiN5MvS) | [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [Thought It Was U](https://open.spotify.com/album/28j7q90iOylNg6QhifQEso) | 3:05 | 2023-08-02 | 2023-08-20 |
