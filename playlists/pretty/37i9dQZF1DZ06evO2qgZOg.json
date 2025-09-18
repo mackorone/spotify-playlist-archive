@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 308520,
+  "num_followers": 308742,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAABl1GDclj3yPxvCC13SUKaO",
+  "snapshot_id": "aMiogAAAAAASc5/4Q7lZM5WCWu/s7Z01",
   "tracks": [
     {
       "added_at": null,
@@ -251,38 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "Sick of It",
-      "url": "https://open.spotify.com/track/4EYpOdL69yWuIRc49AyeZa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 208826,
-      "name": "I Want to Live",
-      "url": "https://open.spotify.com/track/4Ahphc0UzRSoMpJRHgnGQK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take It All Back",
         "url": "https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU"
       },
@@ -307,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victorious",
-        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
       },
       "artists": [
         {
@@ -316,9 +284,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0"
+      "duration_ms": 208826,
+      "name": "I Want to Live",
+      "url": "https://open.spotify.com/track/4Ahphc0UzRSoMpJRHgnGQK"
     },
     {
       "added_at": null,
@@ -332,15 +300,15 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 199480,
-      "name": "What I Believe",
-      "url": "https://open.spotify.com/track/5aUl2cPg4O7yXXdzWQVTYO"
+      "duration_ms": 190360,
+      "name": "Sick of It",
+      "url": "https://open.spotify.com/track/4EYpOdL69yWuIRc49AyeZa"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
       },
       "artists": [
         {
@@ -348,9 +316,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 215880,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/7sCQbcrVlIKoIjOpR3Oj5N"
+      "duration_ms": 223240,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0"
     },
     {
       "added_at": null,
@@ -371,6 +339,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/7sCQbcrVlIKoIjOpR3Oj5N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "What I Believe",
+      "url": "https://open.spotify.com/track/5aUl2cPg4O7yXXdzWQVTYO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Victorious",
         "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
       },
@@ -383,38 +383,6 @@
       "duration_ms": 245715,
       "name": "Victorious",
       "url": "https://open.spotify.com/track/4emQrNiz37OidY7SoXXQls"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Comatose",
-        "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 210786,
-      "name": "The Last Night",
-      "url": "https://open.spotify.com/track/37CMjUAU8fL6YqZVTplZqZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 225853,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/6VMT3SzIMbNoR5lsUsniQY"
     },
     {
       "added_at": null,
@@ -435,6 +403,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 225853,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/6VMT3SzIMbNoR5lsUsniQY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comatose",
+        "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 210786,
+      "name": "The Last Night",
+      "url": "https://open.spotify.com/track/37CMjUAU8fL6YqZVTplZqZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
       },
@@ -447,6 +447,22 @@
       "duration_ms": 210520,
       "name": "Never Surrender",
       "url": "https://open.spotify.com/track/4MoVvVkDGFNtQPHciZgG3w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 232054,
+      "name": "Ash In The Wind",
+      "url": "https://open.spotify.com/track/3MExPJbadqPSX3GlUeqzfl"
     },
     {
       "added_at": null,
@@ -483,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 232054,
-      "name": "Ash In The Wind",
-      "url": "https://open.spotify.com/track/3MExPJbadqPSX3GlUeqzfl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 204786,
       "name": "It's Not Me, It's You",
       "url": "https://open.spotify.com/track/1swaR8iEKe5qyCoyCWjyvP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 193968,
+      "name": "Not Afraid",
+      "url": "https://open.spotify.com/track/1TnAZhq4cp6K2I4UmHJzZ4"
     },
     {
       "added_at": null,
@@ -551,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 193968,
-      "name": "Not Afraid",
-      "url": "https://open.spotify.com/track/1TnAZhq4cp6K2I4UmHJzZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
       },
@@ -579,6 +579,22 @@
       "duration_ms": 220080,
       "name": "One Day Too Late",
       "url": "https://open.spotify.com/track/6JLnc7pF4WUzQ6BWONpc7j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "All That Matters",
+      "url": "https://open.spotify.com/track/4TXAA3r1m7CaGoUnDRBAJ2"
     },
     {
       "added_at": null,
@@ -615,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "All That Matters",
-      "url": "https://open.spotify.com/track/4TXAA3r1m7CaGoUnDRBAJ2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dominion: Day of Destiny",
         "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 192307,
       "name": "Crossfire",
       "url": "https://open.spotify.com/track/4bwvPbiPCsjyMZc6W4VPA2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 232990,
+      "name": "Fire Inside of Me",
+      "url": "https://open.spotify.com/track/1royRCZwWV2h4zPSnwbyw7"
     },
     {
       "added_at": null,
@@ -675,22 +691,6 @@
       "duration_ms": 211149,
       "name": "Beyond Incredible",
       "url": "https://open.spotify.com/track/3qd9Dq8PpCsrFD5WGbpjK8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 232990,
-      "name": "Fire Inside of Me",
-      "url": "https://open.spotify.com/track/1royRCZwWV2h4zPSnwbyw7"
     },
     {
       "added_at": null,

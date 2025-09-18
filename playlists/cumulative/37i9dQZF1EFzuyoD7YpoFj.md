@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-606 songs - 1 day 8 hr 59 min
+607 songs - 1 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,7 +530,8 @@
 | [Voodoo](https://open.spotify.com/track/4eAo5CTR5HyKiOXlwZZ5KC) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Voodoo Man](https://open.spotify.com/album/03iwOF2N5jXlXVchecaphc) | 2:45 | 2024-07-24 | 2024-11-07 |
 | [Vous Faites Partie De Moi](https://open.spotify.com/track/5V86dw7gDcAhagp0i0y9av) | [Josephine Baker](https://open.spotify.com/artist/3u2id3WhQmBnU6ppSQj23X) | [Best French Chansons: Josephine Baker and Various Artists Vol\. 01](https://open.spotify.com/album/57VD7tSbKOFlBVcXz5kMoa) | 3:06 | 2024-07-24 | 2025-06-01 |
 | [Vous faites partie de moi](https://open.spotify.com/track/3iD6sQeWtFbU5sOXYabxv4) | [Madeleine & Salomon](https://open.spotify.com/artist/3b3gzfoQXBnYjVZqVNQMSb) | [A Woman's Journey](https://open.spotify.com/album/4kW6pVi19ce9kZaiJQTRJp) | 2:39 | 2025-05-31 |  |
-| [Wake Up and Dream](https://open.spotify.com/track/6PQejkkXDm3J0z6KISr0gf) | [Lisa B](https://open.spotify.com/artist/65mobulm962Y9CpwhbyBOV) | [I Get A Kick: Cole Porter Reimagined](https://open.spotify.com/album/7uXMJ2O8nRQMhWWCjyo7zH) | 5:51 | 2025-07-10 |  |
+| [Wake Up And Dream](https://open.spotify.com/track/62e8szrEtgpWRTTlyd5EZR) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Cole Porter In London, Vol\. 1](https://open.spotify.com/album/0DS8IXLdZ7be3Y6mBCEX2U) | 3:06 | 2025-09-17 |  |
+| [Wake Up and Dream](https://open.spotify.com/track/6PQejkkXDm3J0z6KISr0gf) | [Lisa B](https://open.spotify.com/artist/65mobulm962Y9CpwhbyBOV) | [I Get A Kick: Cole Porter Reimagined](https://open.spotify.com/album/7uXMJ2O8nRQMhWWCjyo7zH) | 5:51 | 2025-07-10 | 2025-09-18 |
 | [Wake up and Dream \- Live](https://open.spotify.com/track/1LojiH7EP6Rg83sojy2Dcd) | [James Maddock](https://open.spotify.com/artist/1AnKBhvZOnW4capiuty5SD), [David Immergluck](https://open.spotify.com/artist/3FvD6hfUHLsvKfwEVadEqO) | [Jimmy & Immy Live at Rockwood Music Hall](https://open.spotify.com/album/3t9Czb6LlWGNuX8Lo0khPR) | 6:11 | 2025-06-27 | 2025-07-10 |
 | [Waltz Down the Aisle](https://open.spotify.com/track/5yVd5RaMGMwQhCasnMKxIU) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Xavier Cugat Orchestra](https://open.spotify.com/artist/0GywhPccRQuGztB35ZnE0Z) | [Porter, Cole: Let's Misbehave! \(1927\-1940\)](https://open.spotify.com/album/7DsbZB88NYHjCpOZBvrx4m) | 3:06 | 2024-07-24 |  |
 | [We Are Getting Married](https://open.spotify.com/track/2Eva3o61RrvfW71fImfPKx) | [Cole Porter \(composer\), The MGM Studio Orchestra](https://open.spotify.com/artist/10DmwGZhrgdeAaxPIx4y2O) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 1:53 | 2024-07-24 |  |

@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: G Flip
+> Songs from LGBTQIA+ artists\. Cover: Darkoo
 
 1,597 songs - 3 day 14 hr 20 min
 

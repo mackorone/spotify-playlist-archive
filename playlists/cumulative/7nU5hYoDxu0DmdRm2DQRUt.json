@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/5clpTIKRLA4BTRVwrtacPp"
+      },
+      "artists": [
+        {
+          "name": "james K",
+          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423890,
+      "name": "Blinkmoth (July Mix)",
+      "url": "https://open.spotify.com/track/3iHnAH5IlTJhyEX8mBvrVH"
+    },
+    {
+      "album": {
         "name": "Germina Speeder",
         "url": "https://open.spotify.com/album/3WDE4IqUDA5SRnL9n6jyIw"
       },
@@ -2262,6 +2280,24 @@
       "duration_ms": 884200,
       "name": "God's Mirrorball",
       "url": "https://open.spotify.com/track/1AiexVTC5gIpLkIxhCX4sw"
+    },
+    {
+      "album": {
+        "name": "All Cylinders",
+        "url": "https://open.spotify.com/album/1jooROM5diSNAfEwESyDDH"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204615,
+      "name": "Gold Filigree",
+      "url": "https://open.spotify.com/track/2GFMkbnh2SvLxgavAadQRg"
     },
     {
       "album": {

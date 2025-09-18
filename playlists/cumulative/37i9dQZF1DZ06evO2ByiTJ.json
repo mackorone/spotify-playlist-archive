@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Santifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202060,
+      "name": "Colhendo Frutos",
+      "url": "https://open.spotify.com/track/70NUGliFKWIQca4lC0YiQp"
+    },
+    {
+      "album": {
         "name": "Elaine Martins (Ao Vivo)",
         "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
       },
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 267122,
       "name": "Palavras L\u00edquidas",
       "url": "https://open.spotify.com/track/4S7Kl8lfNb5UuMM1weoNHo"

@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari en español con los 100 millones de streams de "High" de Rawayana 🇻🇪
 
-415 songs - 1 day 3 hr 13 min
+416 songs - 1 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Tú](https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Dimensión Caribe](https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW) | 3:56 | 2021-12-10 |  |
 | [Tú y yo](https://open.spotify.com/track/3vBjaSS7wvU1CnwcdwCG8h) | [Danny Killah](https://open.spotify.com/artist/5e2Q3YFRDbCgsnYb3oTtjv), [Mad Division](https://open.spotify.com/artist/4m7qBup076NTsTawvEH4R1), [Neim](https://open.spotify.com/artist/1D5TvUfVCsdSxBOuJs0Umi) | [Tú y yo](https://open.spotify.com/album/1E3L3NhhraybnW6FN5g22R) | 3:05 | 2024-08-30 | 2024-11-30 |
 | [Ubicación](https://open.spotify.com/track/3x0FuGussvMpNi039Ly6bL) | [Reis Belico](https://open.spotify.com/artist/6T8S4zSY1ICYEG50Hgs3QJ) | [Ubicación](https://open.spotify.com/album/0VrgvPZGgTtD22blD2Hg6S) | 3:34 | 2022-10-14 | 2022-11-19 |
+| [Uma Brasileira](https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Uma Brasileira](https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC) | 3:18 | 2025-07-30 |  |
 | [Un Desperdicio](https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 3:43 | 2024-05-10 |  |
 | [Una Vaina](https://open.spotify.com/track/1W7j0UqTRmZvEDtWvFG1oi) | [Mista Bombo](https://open.spotify.com/artist/0dOCP5MXmqLp0fNfN0mL3V), [M3B](https://open.spotify.com/artist/2JTmAQ8oR4a8N3cixRINcv), [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij) | [Golden Riddim](https://open.spotify.com/album/5FmuqIORFTIrgMSXOJLrIu) | 2:39 | 2023-01-20 | 2023-02-03 |
 | [Uno atrás del otro](https://open.spotify.com/track/4yLPu2EzbQi7ABXJlFbKfF) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Uno atrás del otro](https://open.spotify.com/album/3rDzQe7r99cctE3LLB0qHQ) | 2:27 | 2025-07-30 |  |
@@ -420,7 +421,7 @@
 | [Young Veterans](https://open.spotify.com/track/0dh5zUeRSss5dpKWzqhLAd) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Natty Congo Crew](https://open.spotify.com/artist/0eDwZ8EuFO0B8yMNmHHfkw) | [Young Veterans](https://open.spotify.com/album/6Xe8li7kMQZFZmeeeCSc9K) | 4:06 | 2024-08-30 | 2024-11-30 |
 | [Zendaya](https://open.spotify.com/track/722xKS7DxafZfGSun3qrdU) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Zendaya](https://open.spotify.com/album/3QzxQIii3EXNjbEtSH6L6x) | 2:18 | 2023-05-05 |  |
 | [¿QMH?](https://open.spotify.com/track/1oC1UuwAokzHio2IEFTfRP) | [J Gonz](https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL), [n.a.n.o](https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm) | [¿QMH?](https://open.spotify.com/album/0BRoR8Gmw9rtBWE7BhGYT3) | 3:33 | 2024-01-26 | 2024-05-11 |
-| [Ángel Del Pasado](https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Ángel Del Pasado](https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo) | 4:06 | 2021-12-10 |  |
+| [Ángel Del Pasado](https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Ángel Del Pasado](https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo) | 4:06 | 2021-12-10 | 2025-09-18 |
 | [Ñam\-ñam](https://open.spotify.com/track/0ZJIOiFF0U8tJsf3wScdzC) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw), [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Ñam\-ñam](https://open.spotify.com/album/66xMC16E6mkFZvjZ7KazCV) | 4:32 | 2022-04-28 | 2022-06-14 |
 | [Últimos Días](https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Últimos Días](https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3) | 5:19 | 2021-12-10 |  |
 

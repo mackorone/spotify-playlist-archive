@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WSL1lc9u02zxatXjk17yi.md) - [plain]
 
 > KARENTレーベルで配信中の楽曲の中から、雨の日に聴きたいボカロ楽曲を選曲。
 
-[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 39 likes - 30 songs - 1 hr 57 min
+[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 38 likes - 30 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

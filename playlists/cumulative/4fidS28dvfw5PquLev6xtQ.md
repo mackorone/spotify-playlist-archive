@@ -2,7 +2,7 @@
 
 ### [RYM Top 100 Songs \(Updated "Tuesdays"\)](https://open.spotify.com/playlist/4fidS28dvfw5PquLev6xtQ)
 
-> Bruh it&\#x27;s lovely when Curtis Mayfield moves up cuz his song is Move on Up HAHAHAHAHAHA
+> MBV without Loveless is like Shenmue without Ryo
 
 100 songs - 12 hr 45 min
 

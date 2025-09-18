@@ -1,12 +1,12 @@
 {
-  "description": "Check out the latest hits from Sandalwood!\nCover : I Am God",
-  "num_followers": 64252,
+  "description": "Check out the latest hits from Sandalwood!\nCover : BRAT",
+  "num_followers": 64266,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM+LfST96VxK92JSuwAYb1MWaktu",
+  "snapshot_id": "AAAAAHnMpZl39NYKCvya85IEFwO2j6Xu",
   "tracks": [
     {
       "added_at": "2025-09-15 06:32:45",
@@ -79,6 +79,50 @@
       "duration_ms": 284000,
       "name": "Adu Chandada Kaala - From \"Andondittu Kaala\"",
       "url": "https://open.spotify.com/track/2MotObicUvqXxECGoP37KF"
+    },
+    {
+      "added_at": "2025-09-17 08:14:39",
+      "album": {
+        "name": "The Mother Song (From \"Mirai\") [Kannada]",
+        "url": "https://open.spotify.com/album/61mXKQK7w1fIpVvGSGBzaX"
+      },
+      "artists": [
+        {
+          "name": "GowraHari",
+          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "duration_ms": 130800,
+      "name": "The Mother Song (From \"Mirai\") [Kannada]",
+      "url": "https://open.spotify.com/track/7BXHkuUESSJPhAedvx0PiE"
+    },
+    {
+      "added_at": "2025-09-17 08:24:36",
+      "album": {
+        "name": "Neene Nanna Odeya (From \"Karimani Malika Neenalla\")",
+        "url": "https://open.spotify.com/album/2h8QZhlXw6fEql0mtieDc4"
+      },
+      "artists": [
+        {
+          "name": "Chandru Obaiah",
+          "url": "https://open.spotify.com/artist/4cllCIrGu05Jo803DCYW9N"
+        },
+        {
+          "name": "Lahari Mahesh",
+          "url": "https://open.spotify.com/artist/4zWCZjFTPmksVLFqbBLceH"
+        }
+      ],
+      "duration_ms": 251854,
+      "name": "Neene Nanna Odeya (From \"Karimani Malika Neenalla\")",
+      "url": "https://open.spotify.com/track/6JSnTl1dqt8O10lLfilJFd"
     },
     {
       "added_at": "2025-09-15 06:46:08",
@@ -1167,26 +1211,6 @@
       "duration_ms": 278823,
       "name": "Koti Koti Jeeva Meeti (From \"Rippan Swaamy\")",
       "url": "https://open.spotify.com/track/5Nq7xFLWDOScwLJvuFqlQZ"
-    },
-    {
-      "added_at": "2025-08-01 06:35:05",
-      "album": {
-        "name": "Sada Ninnane (From \"31 Days\") (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18oKPCPklw3jnCT3BucOej"
-      },
-      "artists": [
-        {
-          "name": "Abhishek M R",
-          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
-        },
-        {
-          "name": "V. Manohar",
-          "url": "https://open.spotify.com/artist/2J5reHSIjjv6mtrbD9q1xN"
-        }
-      ],
-      "duration_ms": 151466,
-      "name": "Sada Ninnane (From \"31 Days\") (Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/6rx3Wq8Ldf0hDScKLQ9B5q"
     }
   ],
   "unique_name": "Latest Kannada",

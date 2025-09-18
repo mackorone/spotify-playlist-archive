@@ -1,6 +1,6 @@
 {
   "description": "Energetic tracks from the 1990s to boost your running session.",
-  "num_followers": 667206,
+  "num_followers": 667352,
   "original_name": "90s Pop Run",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-01-03 14:53:32",
       "album": {
-        "name": "Tuesday Night Music Club",
-        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 272106,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
-    },
-    {
-      "added_at": "2023-01-03 14:53:32",
-      "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 234493,
       "name": "Man! I Feel Like A Woman!",
       "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
+    },
+    {
+      "added_at": "2023-01-03 14:53:32",
+      "album": {
+        "name": "Tuesday Night Music Club",
+        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 272106,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
     },
     {
       "added_at": "2023-05-18 19:03:21",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-01-03 14:53:32",
       "album": {
-        "name": "Pieces Of A Dream",
-        "url": "https://open.spotify.com/album/5sLISkyWFgcOCxIooPYfT4"
-      },
-      "artists": [
-        {
-          "name": "Anastacia",
-          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "I'm Outta Love - Radio Edit",
-      "url": "https://open.spotify.com/track/583xVl0Sbj93uU4ceixgU8"
-    },
-    {
-      "added_at": "2023-01-03 14:53:32",
-      "album": {
         "name": "Best! The Singles 16 Tracks",
         "url": "https://open.spotify.com/album/5BAPBgAp1Qt9UD5vsBGXTz"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 230066,
       "name": "I've Been Thinking About You",
       "url": "https://open.spotify.com/track/50PeqUz1BjMw9ayNTk5O4d"
+    },
+    {
+      "added_at": "2023-01-03 14:53:32",
+      "album": {
+        "name": "Pieces Of A Dream",
+        "url": "https://open.spotify.com/album/5sLISkyWFgcOCxIooPYfT4"
+      },
+      "artists": [
+        {
+          "name": "Anastacia",
+          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "I'm Outta Love - Radio Edit",
+      "url": "https://open.spotify.com/track/583xVl0Sbj93uU4ceixgU8"
     },
     {
       "added_at": "2023-05-18 19:07:10",
@@ -797,28 +797,20 @@
       "url": "https://open.spotify.com/track/0bwNb4KRkhzahJJMFsGoPR"
     },
     {
-      "added_at": "2023-01-03 14:53:32",
+      "added_at": "2023-05-18 19:03:21",
       "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+        "name": "Jennifer Paige",
+        "url": "https://open.spotify.com/album/0uKakjHwamECXOBi80uvNv"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Pablo Flores",
-          "url": "https://open.spotify.com/artist/1zTUYXZHltJuaK4ONIzKDu"
-        },
-        {
-          "name": "Javier Garza",
-          "url": "https://open.spotify.com/artist/7d6UVb1wJfBBglIebDp5Cz"
+          "name": "Jennifer Paige",
+          "url": "https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1"
         }
       ],
-      "duration_ms": 271266,
-      "name": "Mar\u00eda - Pablo Flores Spanglish Radio Edit",
-      "url": "https://open.spotify.com/track/4bNqBlJkoueiFla9YsyNg9"
+      "duration_ms": 199960,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/6YXWauQKn5nQVhcC4KVplQ"
     }
   ],
   "unique_name": "90s Pop Run",

@@ -383,22 +383,6 @@
     {
       "added_at": "2025-08-28 22:00:05",
       "album": {
-        "name": "Ringdans",
-        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        }
-      ],
-      "duration_ms": 212258,
-      "name": "Ringdans",
-      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
-    },
-    {
-      "added_at": "2025-08-28 22:00:05",
-      "album": {
         "name": "Gressholmen",
         "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 231334,
       "name": "T\u00e5rnet",
       "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
+    },
+    {
+      "added_at": "2025-08-28 22:00:05",
+      "album": {
+        "name": "Ringdans",
+        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        }
+      ],
+      "duration_ms": 212258,
+      "name": "Ringdans",
+      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
     },
     {
       "added_at": "2025-08-28 22:00:05",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-08-28 22:00:05",
       "album": {
-        "name": "Hilsen Halvdan",
-        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
-      },
-      "artists": [
-        {
-          "name": "Halvdan Sivertsen",
-          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
-        }
-      ],
-      "duration_ms": 258638,
-      "name": "Sommerfuggel I Vinterland",
-      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
-    },
-    {
-      "added_at": "2025-08-28 22:00:05",
-      "album": {
         "name": "V\u00e5r beste dag",
         "url": "https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN"
       },
@@ -483,18 +467,34 @@
     {
       "added_at": "2025-08-28 22:00:05",
       "album": {
-        "name": "Ta Meg Med",
-        "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
+        "name": "Hilsen Halvdan",
+        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
       },
       "artists": [
         {
-          "name": "Olav Stedje",
-          "url": "https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA"
+          "name": "Halvdan Sivertsen",
+          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
         }
       ],
-      "duration_ms": 194506,
-      "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
-      "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
+      "duration_ms": 258638,
+      "name": "Sommerfuggel I Vinterland",
+      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
+    },
+    {
+      "added_at": "2025-08-28 22:00:05",
+      "album": {
+        "name": "Ta m\u00e6 tilbake",
+        "url": "https://open.spotify.com/album/39qaA2S36UMbg2iIUZ3LkC"
+      },
+      "artists": [
+        {
+          "name": "Inge Bremnes",
+          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "Ta m\u00e6 tilbake",
+      "url": "https://open.spotify.com/track/2NciC5G8wXqlv9SxZAfppN"
     },
     {
       "added_at": "2025-08-28 22:00:05",
@@ -519,18 +519,18 @@
     {
       "added_at": "2025-08-28 22:00:05",
       "album": {
-        "name": "Ta m\u00e6 tilbake",
-        "url": "https://open.spotify.com/album/39qaA2S36UMbg2iIUZ3LkC"
+        "name": "Ta Meg Med",
+        "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
       },
       "artists": [
         {
-          "name": "Inge Bremnes",
-          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
+          "name": "Olav Stedje",
+          "url": "https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA"
         }
       ],
-      "duration_ms": 241306,
-      "name": "Ta m\u00e6 tilbake",
-      "url": "https://open.spotify.com/track/2NciC5G8wXqlv9SxZAfppN"
+      "duration_ms": 194506,
+      "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
+      "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
     },
     {
       "added_at": "2025-08-28 22:00:05",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-08-28 22:00:05",
       "album": {
+        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 266328,
+      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
+    },
+    {
+      "added_at": "2025-08-28 22:00:05",
+      "album": {
         "name": "Alltid Aldri (feat. Ingebj\u00f8rg Bratland)",
         "url": "https://open.spotify.com/album/5wa6SdMaTRGnI6qI7TDq37"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 220160,
       "name": "Alltid Aldri (feat. Ingebj\u00f8rg Bratland)",
       "url": "https://open.spotify.com/track/1l4A0NJPKZOaZ28BrwDVR5"
-    },
-    {
-      "added_at": "2025-08-28 22:00:05",
-      "album": {
-        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 266328,
-      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
     },
     {
       "added_at": "2025-08-28 22:00:05",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-08-28 22:00:05",
       "album": {
-        "name": "Kom ut kom fram",
-        "url": "https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF"
-      },
-      "artists": [
-        {
-          "name": "Finn Kalvik",
-          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
-        }
-      ],
-      "duration_ms": 226760,
-      "name": "Lilla vackra Anna",
-      "url": "https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg"
-    },
-    {
-      "added_at": "2025-08-28 22:00:05",
-      "album": {
         "name": "Club 7",
         "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2025-08-28 22:00:05",
       "album": {
+        "name": "Kom ut kom fram",
+        "url": "https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF"
+      },
+      "artists": [
+        {
+          "name": "Finn Kalvik",
+          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
+        }
+      ],
+      "duration_ms": 226760,
+      "name": "Lilla vackra Anna",
+      "url": "https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg"
+    },
+    {
+      "added_at": "2025-08-28 22:00:05",
+      "album": {
         "name": "Heile veien ned",
         "url": "https://open.spotify.com/album/1bPeKBeiPxL33kcyI4GdzE"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 264693,
       "name": "Heile veien ned",
       "url": "https://open.spotify.com/track/37BdNAd2PInnfRCVeq6HOi"
+    },
+    {
+      "added_at": "2025-08-28 22:00:05",
+      "album": {
+        "name": "Annen som du",
+        "url": "https://open.spotify.com/album/1WxHEl0KfSA2h25BcoNFGS"
+      },
+      "artists": [
+        {
+          "name": "Trang F\u00f8dsel",
+          "url": "https://open.spotify.com/artist/3pOEfaqokP940PuLUoho3l"
+        }
+      ],
+      "duration_ms": 217703,
+      "name": "Annen som du",
+      "url": "https://open.spotify.com/track/4DMSneArB5W5BTAz8A2ij4"
     },
     {
       "added_at": "2025-08-28 22:00:05",
@@ -803,38 +819,6 @@
     {
       "added_at": "2025-08-28 22:00:05",
       "album": {
-        "name": "Annen som du",
-        "url": "https://open.spotify.com/album/1WxHEl0KfSA2h25BcoNFGS"
-      },
-      "artists": [
-        {
-          "name": "Trang F\u00f8dsel",
-          "url": "https://open.spotify.com/artist/3pOEfaqokP940PuLUoho3l"
-        }
-      ],
-      "duration_ms": 217703,
-      "name": "Annen som du",
-      "url": "https://open.spotify.com/track/4DMSneArB5W5BTAz8A2ij4"
-    },
-    {
-      "added_at": "2025-08-28 22:00:05",
-      "album": {
-        "name": "Monumental",
-        "url": "https://open.spotify.com/album/5LPLarBQIRrBlAYj47vPf9"
-      },
-      "artists": [
-        {
-          "name": "Trygve Skaug",
-          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
-        }
-      ],
-      "duration_ms": 230306,
-      "name": "Monumental",
-      "url": "https://open.spotify.com/track/3IlGkwahrujXd52GYxzP17"
-    },
-    {
-      "added_at": "2025-08-28 22:00:05",
-      "album": {
         "name": "Aldri i livet",
         "url": "https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 188796,
       "name": "Aldri i livet",
       "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
+    },
+    {
+      "added_at": "2025-08-28 22:00:05",
+      "album": {
+        "name": "Ikke slipp",
+        "url": "https://open.spotify.com/album/6uI7b5qmPwZ4dioH3m39oD"
+      },
+      "artists": [
+        {
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+        }
+      ],
+      "duration_ms": 263706,
+      "name": "Ikke slipp",
+      "url": "https://open.spotify.com/track/4uEElpOvG54makyKCVnWDs"
     }
   ],
   "unique_name": "Norske viser",

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A heart in amber",
+        "url": "https://open.spotify.com/album/4LRDAV59yKImvrvSaUQcWf"
+      },
+      "artists": [
+        {
+          "name": "Xavier Mendoza",
+          "url": "https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229384,
+      "name": "A heart in amber",
+      "url": "https://open.spotify.com/track/1TyArzdihmZB650pUI7fxV"
+    },
+    {
+      "album": {
         "name": "A Little Brighter Every Day",
         "url": "https://open.spotify.com/album/46LYThMVZtZb45xNBQvqmp"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 152799,
       "name": "Alter do Ch\u00e3o",
       "url": "https://open.spotify.com/track/6QGwP5HGzrFq8J6RyEf4ku"
@@ -376,7 +394,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 204873,
       "name": "Black Orpheus",
       "url": "https://open.spotify.com/track/3VCzknPQgKeeggh1AQcNYF"
@@ -542,7 +560,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 189443,
       "name": "Bossa for Baden",
       "url": "https://open.spotify.com/track/0xp48lPf2ngBBC9CgW9LE6"
@@ -632,7 +650,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 206555,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/7Kh9w5XOJqykS2IpTdZC8X"
@@ -704,7 +722,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 322581,
       "name": "Calmaria",
       "url": "https://open.spotify.com/track/15FJtMcEK4SoZC1mVxuQ55"
@@ -992,7 +1010,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 227750,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/5WhNEjI1UPLRFk3AP3uF3f"
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 257085,
       "name": "Descer Pelo Rio",
       "url": "https://open.spotify.com/track/5EPMAKQslCbGpMqgj6UDL9"
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 205218,
       "name": "Estamos \u00c1i",
       "url": "https://open.spotify.com/track/4EcIXzbnuTibtjTL5UxL0N"
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 256522,
       "name": "Falando de Amor",
       "url": "https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe"
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 196971,
       "name": "Goin' Out of My Head",
       "url": "https://open.spotify.com/track/4LMFr5xaHXr101AV96zZSM"
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 223755,
       "name": "I Left My Heart in San Francisco",
       "url": "https://open.spotify.com/track/6p2Qx196CPwdcxKE7eweKi"
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 205502,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY"
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 243751,
       "name": "Maneiro",
       "url": "https://open.spotify.com/track/5Ibs7bA78QLwMylLggsZpi"
@@ -1928,7 +1946,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 378700,
       "name": "Medita\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4QdHwCmkuQuKfCuqK0VqOP"
@@ -1946,7 +1964,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 272965,
       "name": "Mestre Sala",
       "url": "https://open.spotify.com/track/5R9gaRq8mNeuStZxXu1Sr9"
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 225837,
       "name": "O Que Ser\u00e1",
       "url": "https://open.spotify.com/track/4ETY0pZlXh8rgVixElVF1E"
@@ -2180,7 +2198,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 183989,
       "name": "O Sabor Mais Doce",
       "url": "https://open.spotify.com/track/0hWp43PwXj9zQl6ZZDFYRm"
@@ -2324,7 +2342,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 288021,
       "name": "Once I Loved",
       "url": "https://open.spotify.com/track/7tQUCA9GrJry8j3mIXfO77"
@@ -2342,10 +2360,28 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 178123,
       "name": "Ondas Cintilantes",
       "url": "https://open.spotify.com/track/0BaqfOrf4DXXO7oOgbanwm"
+    },
+    {
+      "album": {
+        "name": "Our Poetry",
+        "url": "https://open.spotify.com/album/654pcW24D0sY2s08xWpmC2"
+      },
+      "artists": [
+        {
+          "name": "Leandro Amor Trio",
+          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202099,
+      "name": "Our Poetry",
+      "url": "https://open.spotify.com/track/0TucZzpJ9CFlNCSViSDBbM"
     },
     {
       "album": {
@@ -2486,7 +2522,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 397571,
       "name": "Press\u00e1gio",
       "url": "https://open.spotify.com/track/5BdyZTa9TXXdLfOvvwhgGH"
@@ -2504,7 +2540,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 125585,
       "name": "Puxar Do Amor",
       "url": "https://open.spotify.com/track/3156vqIutz0l7K9rfn3Hyg"
@@ -2540,7 +2576,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 207583,
       "name": "P\u00f4r Do Sol Perfeito",
       "url": "https://open.spotify.com/track/3dwbmNoBG2cGFeOtVtPJ8H"
@@ -2558,7 +2594,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 288478,
       "name": "Quiet Nights of Quiet Stars",
       "url": "https://open.spotify.com/track/6dSDOHrVdfyPfGlkZVUyD3"
@@ -2720,7 +2756,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 171482,
       "name": "Serenidad",
       "url": "https://open.spotify.com/track/1AFomBCec7hQLhPhgouIpQ"
@@ -2846,7 +2882,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 277055,
       "name": "Sonhar Acordado",
       "url": "https://open.spotify.com/track/19mMhSofoLJlqIEDy46fZ2"
@@ -3106,7 +3142,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 151877,
       "name": "Time Passes By",
       "url": "https://open.spotify.com/track/2ZqQihrhkzoMTtf6x9wn2b"
@@ -3142,7 +3178,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 192500,
       "name": "Triste",
       "url": "https://open.spotify.com/track/6PNnw3AFDCwNV6uDcNjnQ4"

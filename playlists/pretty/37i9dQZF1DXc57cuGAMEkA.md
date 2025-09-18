@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Ed Sheeran, Drake, Kali Uchis, Ado and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,715 likes - 84 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,725 likes - 84 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 42 | [FaSHioN](https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:54 |
 | 43 | [Dip \(feat\. Ty Dolla $ign & Blxst\)](https://open.spotify.com/track/0SKKPmfRDbi6BuAb4eZXJw) | [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Dip](https://open.spotify.com/album/655LQf0zGFKcLFQm16qTgc) | 3:16 |
 | 44 | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC) | 2:44 |
-| 45 | [DADE \(feat\. Key Glock\)](https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [DADE \(feat\. Key Glock\)](https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad) | 1:44 |
+| 45 | [DADE](https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [DADE](https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad) | 1:44 |
 | 46 | [CURIOUS \(feat\. Toro y Moi\)](https://open.spotify.com/track/1iX4H6DTyg7xrmt8EzJbzB) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [CURIOUS \(feat\. Toro y Moi\)](https://open.spotify.com/album/7uwhe6VCJXSpA5kEYK2BL2) | 3:50 |
 | 47 | [ESTA ES TU CASA NENA](https://open.spotify.com/track/1be5haaiIQXBp7nQFhhpge) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [ESTA ES TU CASA NENA](https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5) | 3:29 |
 | 48 | [RODEO](https://open.spotify.com/track/7jd4sz1jTKa6yHU0171kYY) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [RODEO](https://open.spotify.com/album/4ZfhnQhFXNg4zfpW8TdI6P) | 3:22 |

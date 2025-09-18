@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49!",
-  "num_followers": 121778,
+  "num_followers": 121807,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35 (OST. The Red Envelope Album)",
-        "url": "https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2"
-      },
-      "artists": [
-        {
-          "name": "Billkin",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "\u0e23\u0e31\u0e01\u0e41\u0e23\u0e01\u0e1e\u0e1a (Knock Knock) - From \u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35",
-      "url": "https://open.spotify.com/track/6jo2rnrIYLXUUcJOpuTfaq"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "Sunkissed",
         "url": "https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL"
       },
@@ -283,6 +267,22 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
+        "name": "\u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35 (OST. The Red Envelope Album)",
+        "url": "https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "\u0e23\u0e31\u0e01\u0e41\u0e23\u0e01\u0e1e\u0e1a (Knock Knock) - From \u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35",
+      "url": "https://open.spotify.com/track/6jo2rnrIYLXUUcJOpuTfaq"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
         "name": "clean",
         "url": "https://open.spotify.com/album/0Q85NYeTS69jKGLilCR5Y2"
       },
@@ -295,6 +295,38 @@
       "duration_ms": 258401,
       "name": "\u0e23\u0e2d\u0e22\u0e22\u0e34\u0e49\u0e21",
       "url": "https://open.spotify.com/track/6ezEwX2eZRZlioqYaUPOKX"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "rain",
+        "url": "https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "duration_ms": 196896,
+      "name": "\u0e15\u0e34\u0e14\u0e1d\u0e19",
+      "url": "https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e23\u0e49\u0e2d\u0e07\u0e19\u0e33",
+        "url": "https://open.spotify.com/album/0zDHoE9lv0a9BNP9F2YtRf"
+      },
+      "artists": [
+        {
+          "name": "Pramote Vilepana",
+          "url": "https://open.spotify.com/artist/5ymrPYlQszvpBHwIVHGPcQ"
+        }
+      ],
+      "duration_ms": 225200,
+      "name": "\u0e04\u0e37\u0e19\u0e17\u0e35\u0e48\u0e14\u0e32\u0e27\u0e40\u0e15\u0e47\u0e21\u0e1f\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/5JoSLllHkOdE56kpHU4fi6"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -335,34 +367,18 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "rain",
-        "url": "https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX"
+        "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
+        "url": "https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw"
       },
       "artists": [
         {
-          "name": "PiXXiE",
-          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
         }
       ],
-      "duration_ms": 196896,
-      "name": "\u0e15\u0e34\u0e14\u0e1d\u0e19",
-      "url": "https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
-        "name": "\u0e23\u0e49\u0e2d\u0e07\u0e19\u0e33",
-        "url": "https://open.spotify.com/album/0zDHoE9lv0a9BNP9F2YtRf"
-      },
-      "artists": [
-        {
-          "name": "Pramote Vilepana",
-          "url": "https://open.spotify.com/artist/5ymrPYlQszvpBHwIVHGPcQ"
-        }
-      ],
-      "duration_ms": 225200,
-      "name": "\u0e04\u0e37\u0e19\u0e17\u0e35\u0e48\u0e14\u0e32\u0e27\u0e40\u0e15\u0e47\u0e21\u0e1f\u0e49\u0e32",
-      "url": "https://open.spotify.com/track/5JoSLllHkOdE56kpHU4fi6"
+      "duration_ms": 195500,
+      "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
+      "url": "https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -383,22 +399,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
-        "url": "https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw"
-      },
-      "artists": [
-        {
-          "name": "NuNew",
-          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
-      "url": "https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
         "url": "https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy"
       },
@@ -411,22 +411,6 @@
       "duration_ms": 191392,
       "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
       "url": "https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
-        "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
-        "url": "https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO"
-      },
-      "artists": [
-        {
-          "name": "Patrickananda",
-          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
-      "url": "https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -447,6 +431,22 @@
       "duration_ms": 199500,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d feat. Violette Wautier",
       "url": "https://open.spotify.com/track/2bGK8OZkr2IH4XHFMWS3CZ"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
+        "url": "https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO"
+      },
+      "artists": [
+        {
+          "name": "Patrickananda",
+          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
+      "url": "https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
+        "name": "Club",
+        "url": "https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L"
+      },
+      "artists": [
+        {
+          "name": "SCRUBB",
+          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
+        }
+      ],
+      "duration_ms": 266893,
+      "name": "\u0e04\u0e39\u0e48\u0e01\u0e31\u0e19 (Soulmate)",
+      "url": "https://open.spotify.com/track/2SewBThepvNfjZ6fyBhGYT"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
         "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
         "url": "https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 203000,
       "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
       "url": "https://open.spotify.com/track/0UdosedsHuO7pFUxOLJNDT"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
-        "name": "Club",
-        "url": "https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L"
-      },
-      "artists": [
-        {
-          "name": "SCRUBB",
-          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
-        }
-      ],
-      "duration_ms": 266893,
-      "name": "\u0e04\u0e39\u0e48\u0e01\u0e31\u0e19 (Soulmate)",
-      "url": "https://open.spotify.com/track/2SewBThepvNfjZ6fyBhGYT"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
-        "url": "https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg"
-      },
-      "artists": [
-        {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
-        }
-      ],
-      "duration_ms": 240450,
-      "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
-      "url": "https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "1001 (You're Lovely)",
         "url": "https://open.spotify.com/album/1wFsK9shNnndg6oDUoOLqt"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 194842,
       "name": "1001 (You're Lovely)",
       "url": "https://open.spotify.com/track/4X6pR4sgSGXG1lSX7nxWEM"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
+        "url": "https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg"
+      },
+      "artists": [
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "duration_ms": 240450,
+      "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
+      "url": "https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
-        "url": "https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
-      "url": "https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "\u0e40\u0e04\u0e49\u0e32\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14 (ily)",
         "url": "https://open.spotify.com/album/2zzPZglny0oSYZzi7PzCDG"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 176808,
       "name": "\u0e40\u0e04\u0e49\u0e32\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14 (ily)",
       "url": "https://open.spotify.com/track/6WssVwDznRk2o5Qvg4JfaN"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e23\u0e01 (Blooming)",
-        "url": "https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4"
-      },
-      "artists": [
-        {
-          "name": "LANDOKMAI",
-          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
-        }
-      ],
-      "duration_ms": 257566,
-      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e23\u0e01 - Blooming",
-      "url": "https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "\u0e40\u0e2d\u0e32\u0e1b\u0e32\u0e01\u0e01\u0e32\u0e21\u0e32\u0e27\u0e07",
         "url": "https://open.spotify.com/album/7HadcYAjeZGgkiCg0WnPnm"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e23\u0e01 (Blooming)",
+        "url": "https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4"
+      },
+      "artists": [
+        {
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+        }
+      ],
+      "duration_ms": 257566,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e23\u0e01 - Blooming",
+      "url": "https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
         "name": "\u0e01\u0e32\u0e23\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 (A Beautiful Ride)",
         "url": "https://open.spotify.com/album/1ydHr5YNHNe5zpI3Az62Os"
       },
@@ -919,26 +919,6 @@
       "duration_ms": 213230,
       "name": "\u0e01\u0e32\u0e23\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21",
       "url": "https://open.spotify.com/track/5NUcn9d8kMrcoMQyE2CctY"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
-        "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 (Defendant Of Love)",
-        "url": "https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH"
-      },
-      "artists": [
-        {
-          "name": "F.HERO",
-          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
-        },
-        {
-          "name": "Txrbo",
-          "url": "https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 - Defendant Of Love",
-      "url": "https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -979,6 +959,26 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
+        "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 (Defendant Of Love)",
+        "url": "https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH"
+      },
+      "artists": [
+        {
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
+        },
+        {
+          "name": "Txrbo",
+          "url": "https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 - Defendant Of Love",
+      "url": "https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
         "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
         "url": "https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF"
       },
@@ -991,38 +991,6 @@
       "duration_ms": 246935,
       "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
       "url": "https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
-        "name": "\u0e1a\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e22 (best wishes)",
-        "url": "https://open.spotify.com/album/6xoyq8b2PH5uBwTw6ppCbA"
-      },
-      "artists": [
-        {
-          "name": "BOWKYLION",
-          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
-        }
-      ],
-      "duration_ms": 289777,
-      "name": "\u0e1a\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e22 (best wishes)",
-      "url": "https://open.spotify.com/track/3Js0tYhiLhVXHskoOF0jLh"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
-        "name": "\u0e14\u0e35\u0e43\u0e08\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32",
-        "url": "https://open.spotify.com/album/4D1IFvo9V2Y8Ty52v8LcyE"
-      },
-      "artists": [
-        {
-          "name": "Whal & Dolph",
-          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
-        }
-      ],
-      "duration_ms": 248250,
-      "name": "\u0e14\u0e35\u0e43\u0e08\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32",
-      "url": "https://open.spotify.com/track/1WbqdJzBawPmNVBL1tT7dK"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -1043,22 +1011,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 (Too Cute)",
-        "url": "https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o"
-      },
-      "artists": [
-        {
-          "name": "PiXXiE",
-          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 - Too Cute",
-      "url": "https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
         "url": "https://open.spotify.com/album/3W0ub1BH8vz3mFc9P2YZJo"
       },
@@ -1075,6 +1027,38 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
+        "name": "\u0e1a\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e22 (best wishes)",
+        "url": "https://open.spotify.com/album/6xoyq8b2PH5uBwTw6ppCbA"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "duration_ms": 289777,
+      "name": "\u0e1a\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e22 (best wishes)",
+      "url": "https://open.spotify.com/track/3Js0tYhiLhVXHskoOF0jLh"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 (Too Cute)",
+        "url": "https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 - Too Cute",
+      "url": "https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
         "name": "\u0e09\u0e25\u0e32\u0e21\u0e0a\u0e2d\u0e1a\u0e07\u0e31\u0e1a\u0e04\u0e38\u0e13 Feat.IIVY B",
         "url": "https://open.spotify.com/album/7nzdc88JydSq90v212jrfU"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 235790,
       "name": "\u0e09\u0e25\u0e32\u0e21\u0e0a\u0e2d\u0e1a\u0e07\u0e31\u0e1a\u0e04\u0e38\u0e13 Feat.IIVY B",
       "url": "https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e14\u0e35\u0e43\u0e08\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32",
+        "url": "https://open.spotify.com/album/4D1IFvo9V2Y8Ty52v8LcyE"
+      },
+      "artists": [
+        {
+          "name": "Whal & Dolph",
+          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
+        }
+      ],
+      "duration_ms": 248250,
+      "name": "\u0e14\u0e35\u0e43\u0e08\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32",
+      "url": "https://open.spotify.com/track/1WbqdJzBawPmNVBL1tT7dK"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e43\u0e08\u0e40\u0e14\u0e35\u0e22\u0e27",
-        "url": "https://open.spotify.com/album/6aC3OBM7rpD1gAzF4oZfxl"
-      },
-      "artists": [
-        {
-          "name": "Whal & Dolph",
-          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
-        }
-      ],
-      "duration_ms": 229250,
-      "name": "\u0e43\u0e08\u0e40\u0e14\u0e35\u0e22\u0e27",
-      "url": "https://open.spotify.com/track/4OZjDh3pxthm3Ig9Fs7C7N"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "\u0e41\u0e1e\u0e49\u0e17\u0e38\u0e01\u0e17\u0e35 (LOOPER), FOLLOWERS",
         "url": "https://open.spotify.com/album/7igqgnplrOHmu0UoB95pMA"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 194500,
       "name": "FOLLOWERS",
       "url": "https://open.spotify.com/track/5lyB7wS4hQhK0FeFLJWfpQ"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e43\u0e08\u0e40\u0e14\u0e35\u0e22\u0e27",
+        "url": "https://open.spotify.com/album/6aC3OBM7rpD1gAzF4oZfxl"
+      },
+      "artists": [
+        {
+          "name": "Whal & Dolph",
+          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
+        }
+      ],
+      "duration_ms": 229250,
+      "name": "\u0e43\u0e08\u0e40\u0e14\u0e35\u0e22\u0e27",
+      "url": "https://open.spotify.com/track/4OZjDh3pxthm3Ig9Fs7C7N"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e2b\u0e27\u0e07 (You're Mine)",
-        "url": "https://open.spotify.com/album/4oWwhDTfbza1oR6DXlkFSH"
+        "name": "\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14 - Single",
+        "url": "https://open.spotify.com/album/4LCkqfMAnt4LABq3GUrMk9"
       },
       "artists": [
         {
-          "name": "Earth Patravee",
-          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
+          "name": "Lipta",
+          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
         }
       ],
-      "duration_ms": 216162,
-      "name": "\u0e2b\u0e27\u0e07 (You're Mine)",
-      "url": "https://open.spotify.com/track/5t2958ghc1UIUovv1pqMl3"
+      "duration_ms": 208543,
+      "name": "\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14",
+      "url": "https://open.spotify.com/track/2tnqncsjgyccckWm6hHutQ"
     }
   ],
   "unique_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",

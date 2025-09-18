@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 ### [Latest Romance Telugu](https://open.spotify.com/playlist/37i9dQZF1DX1MYRp9oolwH)
 
-> Bringing out the best of latest love tracks<br/>Cover : Andhra King Taluka
+> Bringing out the best of latest love tracks<br/>Cover : OG
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,418 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,449 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Andhamaa Andhamaa \(From "8 Vasantalu"\)](https://open.spotify.com/track/3RvjJi0JLIqsF94B79pMdv) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Aavani Malhar](https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG), [Vanamali](https://open.spotify.com/artist/26RVabQo2q3G6wqyO0LnvV) | [Andhamaa Andhamaa \(From "8 Vasantalu"\)](https://open.spotify.com/album/6TE5omSNCTQcQgdX73b4B9) | 4:36 |
 | 50 | [Chandrakala Oo Chandrakala \(From "Shanmukha"\)](https://open.spotify.com/track/2rNgFg37XoxAE57fWC3xLl) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q) | [Chandrakala Oo Chandrakala \(From "Shanmukha"\)](https://open.spotify.com/album/1iMjRo2Iskv6ZHCh4ENh16) | 3:27 |
 
-Snapshot ID: `AAAAAK4XP/MM7s7Ehvh3p8R81oMGw0r5`
+Snapshot ID: `AAAAAF74rwOlxVzpAYk/6KN7EyGgRmkj`

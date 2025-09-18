@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Home to Pakistani Hits. Cover: Asim Azhar",
+  "description": "Home to the greatest Pakistani hits \ud83c\udfb6 Cover: Bayaan",
   "name": "Pakka Hit Hai",
   "tracks": [
     {
@@ -1196,6 +1196,28 @@
       "duration_ms": 128000,
       "name": "dilrubaa",
       "url": "https://open.spotify.com/track/1PfOAYwjTSYCskgSGdRfQw"
+    },
+    {
+      "album": {
+        "name": "Distant",
+        "url": "https://open.spotify.com/album/0KRHD8UKvY8S3Z9NUiyymx"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "Jevin Gill",
+          "url": "https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180890,
+      "name": "Distant",
+      "url": "https://open.spotify.com/track/7Lw9zeFHaxoSUwAcCtGCP1"
     },
     {
       "album": {
@@ -4064,7 +4086,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 278400,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/0v8UhUalYhCuq6fDEe9ijE"

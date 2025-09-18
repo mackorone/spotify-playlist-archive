@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Ed Sheeran, CORTIS, Andmesh, Fabio Asher dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,143 likes - 104 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,164 likes - 104 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 7 | [City Walls](https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 5:22 |
 | 8 | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF) | 4:44 |
 | 9 | [Take A Drive](https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Take A Drive](https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a) | 3:45 |
-| 10 | [Bukan Lagi Rumahmu \(Air Mata Di Ujung Sajadah Original Motion Picture Soundtrack\)](https://open.spotify.com/track/6pM2HooueA9dHb5NeTVJeT) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Bukan Lagi Rumahmu \(Air Mata Di Ujung Sajadah Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2zs39r5aMSz13iNaaqeTlH) | 4:32 |
+| 10 | [Bukan Lagi Rumahmu \(Air Mata Di Ujung Sajadah 2 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/6pM2HooueA9dHb5NeTVJeT) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Bukan Lagi Rumahmu \(Air Mata Di Ujung Sajadah 2 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2zs39r5aMSz13iNaaqeTlH) | 4:32 |
 | 11 | [Aku Berjanji](https://open.spotify.com/track/0peGp475yG57hjwpP1PP8n) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Berjanji](https://open.spotify.com/album/4TpbJouqiWJsUGBZbxIdeW) | 3:59 |
 | 12 | [DOG HOUSE \(feat\. Julia Wolf & Yeat\)](https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DOG HOUSE](https://open.spotify.com/album/3r4vAHYjjrGp84E0g909W6) | 3:10 |
 | 13 | [some days](https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [some days](https://open.spotify.com/album/1UbgSoMftakwqLl0jJC5K0) | 3:17 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 25 | [Di Mana Rumah Tuk Pulang?](https://open.spotify.com/track/10JW9o9lfFSTG7NDek5uRs) | [Dialog Senja](https://open.spotify.com/artist/7hzltD6Z1nipi3asl645sh) | [Di Mana Rumah Tuk Pulang?](https://open.spotify.com/album/4s7CBBNisdAhUM963JCduC) | 4:51 |
 | 26 | [Buang Garam Di Laut](https://open.spotify.com/track/2X4KT7AOroEAHAeg9jheO9) | [Luvia band](https://open.spotify.com/artist/68LnYWYS7UQ67awNV3RO6a) | [Buang Garam Di Laut](https://open.spotify.com/album/3bktbSxvPXoLZVnEL1ZcTz) | 4:49 |
 | 27 | [Tanah Nurani](https://open.spotify.com/track/0RbGsjGS1bEzZzLfslXjkR) | [Iksan Skuter](https://open.spotify.com/artist/2M0JEUzgcRX62pMAVlhpxy) | [Tanah Nurani](https://open.spotify.com/album/1ekZMmC7V5L0wOYfzAJp7f) | 3:44 |
-| 28 | [Pura Pura Bahagia \(Air Mata Di Ujung Sajadah Original Motion Picture Soundtrack\)](https://open.spotify.com/track/510uu4XzVglUYK1ORb8iJw) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL) | [Pura Pura Bahagia \(Air Mata Di Ujung Sajadah Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5fUc794LvvTtVoLMMUouMA) | 4:29 |
+| 28 | [Pura Pura Bahagia \(Air Mata Di Ujung Sajadah 2 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/510uu4XzVglUYK1ORb8iJw) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL) | [Pura Pura Bahagia \(Air Mata Di Ujung Sajadah 2 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5fUc794LvvTtVoLMMUouMA) | 4:29 |
 | 29 | [Izinkan Hatimu Bicara](https://open.spotify.com/track/5ZxoU3xRM3bx55bb3VZTT8) | [Segara](https://open.spotify.com/artist/0WjyOvIkQBnivAPEMLRMIC) | [Izinkan Hatimu Bicara](https://open.spotify.com/album/1UhNjlBNxHOdUY9euNqyVj) | 4:29 |
 | 30 | [Cincin](https://open.spotify.com/track/4GLpdZC3ospV3mbKkZBIRj) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Cincin](https://open.spotify.com/album/1uWkss1dRCmiM9Cfs50Bxf) | 3:54 |
 | 31 | [EGP](https://open.spotify.com/track/6uOGcTA9RS4lV0B6kjTSBJ) | [Sundanis](https://open.spotify.com/artist/7aL9PiYEeYQWnBL8iDPHDs) | [EGP](https://open.spotify.com/album/78RZnl53aFY6nw9vAvpWih) | 3:29 |

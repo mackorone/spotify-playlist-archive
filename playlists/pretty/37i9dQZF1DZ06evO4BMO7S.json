@@ -1,12 +1,12 @@
 {
   "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 22906,
+  "num_followers": 22916,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAAAPoivCPdE25S5c+QeFBxTo",
+  "snapshot_id": "aMiogAAAAACqBgrvo81hv88k2izbPsCd",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
-      "url": "https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soft Sounds from Another Planet",
         "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 213986,
       "name": "Boyish",
       "url": "https://open.spotify.com/track/4ETQzZdnRJwaoFIPQy3GJv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
+      "url": "https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt"
     },
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soft Sounds from Another Planet",
+        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Road Head",
+      "url": "https://open.spotify.com/track/5rQEom98vgByjAZ4kIw2kL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Too Real (Remixes)",
         "url": "https://open.spotify.com/album/5jOMCJMBZIaAah4JOssJb7"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 234970,
       "name": "Maybes - RAC Mix",
       "url": "https://open.spotify.com/track/2QbTsEUF97LixvDbyKUdCj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soft Sounds from Another Planet",
-        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Road Head",
-      "url": "https://open.spotify.com/track/5rQEom98vgByjAZ4kIw2kL"
     },
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psychopomp",
-        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "Everybody Wants to Love You",
-      "url": "https://open.spotify.com/track/38OvTFIg5ZYRow2sA1jgKo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soft Sounds from Another Planet",
         "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 220386,
       "name": "The Body Is a Blade",
       "url": "https://open.spotify.com/track/6TBgnQqDXmGECYuZYgj6DI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "Everybody Wants to Love You",
+      "url": "https://open.spotify.com/track/38OvTFIg5ZYRow2sA1jgKo"
     },
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soft Sounds from Another Planet",
+        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 392600,
+      "name": "Diving Woman",
+      "url": "https://open.spotify.com/track/6V7c8Dd40BKFqWIYS5zTXx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NamgungFEFERE",
         "url": "https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 228544,
       "name": "NamgungFEFERE (feat. Japanese Breakfast)",
       "url": "https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soft Sounds from Another Planet",
-        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 392600,
-      "name": "Diving Woman",
-      "url": "https://open.spotify.com/track/6V7c8Dd40BKFqWIYS5zTXx"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
+        "name": "The Ballad of the Witches' Road (Pop Version) [From \"Agatha All Along\"]",
+        "url": "https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 226981,
-      "name": "Skinny Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
+      "duration_ms": 151395,
+      "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ballad of the Witches' Road (Pop Version) [From \"Agatha All Along\"]",
-        "url": "https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 151395,
-      "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
+      "duration_ms": 226981,
+      "name": "Skinny Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
     },
     {
       "added_at": null,

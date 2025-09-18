@@ -4,7 +4,7 @@
 
 > 
 
-979 songs - 2 day 8 hr 12 min
+980 songs - 2 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,6 +616,7 @@
 | [Out Of The Woods](https://open.spotify.com/track/0qUnBLZ8bJqUNEeQgayL9t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:55 | 2025-05-31 |  |
 | [Outside Gray's Papaya](https://open.spotify.com/track/3XXZvxVGKS9qfYyn2Tqu1P) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy), [Kenita Miller](https://open.spotify.com/artist/5kOdYyojlc2aJDWIc6YfcF), [Sasha Hutchings](https://open.spotify.com/artist/0Pg2rEmiZEnmxw4eQwtvsR), [Amber Gray](https://open.spotify.com/artist/14i357yzHOFOHFma68eNJb), [Gizel Jiménez](https://open.spotify.com/artist/4OCa4835vmYQPqAL7xDKdc), [Jasmine Cephas\-Jones](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF), [Julia Harriman](https://open.spotify.com/artist/4pBuF0Sfo9lU7fA3ToTQ2i), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Warriors](https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl) | 2:08 | 2024-11-09 |  |
 | [Paciencia Y Fe](https://open.spotify.com/track/1J5wovj5z5AET4f8mfWKvJ) | [Olga Merediz](https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX) | [In The Heights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0F3HOT0E0Jj2MSnPm6tq4n) | 4:39 | 2025-03-03 |  |
+| [Pain](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:38 | 2025-09-17 |  |
 | [Painkillers](https://open.spotify.com/track/2DWuT8Xe7IeZK6feMqH7it) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:05 | 2025-06-12 |  |
 | [Pantyhose](https://open.spotify.com/track/7m6xr2HY0BYmBDTh2UIx02) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 2:57 | 2025-08-24 |  |
 | [Paper Rings](https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:42 | 2023-07-05 |  |

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdziGPHNE40t.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdziGPHNE40t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdziGPHNE40t)
 
-### [slow mornings](https://open.spotify.com/playlist/37i9dQZF1DXdziGPHNE40t)
+### [Jazzy Morning](https://open.spotify.com/playlist/37i9dQZF1DXdziGPHNE40t)
 
-> start your day right ☕️ wake up with some calm and cool Jazz
+> start your day right ☕️ wake up with some calm and slow Jazz
 
-734 songs - 1 day 19 hr 29 min
+735 songs - 1 day 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [All the Time](https://open.spotify.com/track/0XxT9BefucZG5PNIMNCgEM) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [All the Time](https://open.spotify.com/album/1I0vmtYXaxsa5sBE2CJlTK) | 2:55 | 2022-05-17 | 2023-03-31 |
 | [All Your Love](https://open.spotify.com/track/5yeAueY8i94ZgDhYrrtqAy) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [All Your Love](https://open.spotify.com/album/1ue4TwX3fJ4SoaD9BuXaID) | 2:44 | 2024-03-08 | 2024-12-10 |
 | [Ambiance](https://open.spotify.com/track/4Ws3qsowDjLZUkuC0SXYs1) | [Black Door Band](https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni) | [Ambiance](https://open.spotify.com/album/1EVoAtvMrWdNbDQwsqo1kP) | 3:15 | 2025-04-23 | 2025-08-20 |
-| [Amenity](https://open.spotify.com/track/22ST1wR1gV2twZd5Ylr8Ln) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Amenity](https://open.spotify.com/album/25AGC7Jl9JmsBzDILQUbaP) | 3:56 | 2025-05-19 |  |
+| [Amenity](https://open.spotify.com/track/22ST1wR1gV2twZd5Ylr8Ln) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Amenity](https://open.spotify.com/album/25AGC7Jl9JmsBzDILQUbaP) | 3:56 | 2025-05-19 | 2025-09-18 |
 | [Amnesia](https://open.spotify.com/track/1louoVYSYYP4FwOBz2KlxR) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Amnesia](https://open.spotify.com/album/5nJI9LH0cyPEMVqxfc1m07) | 4:47 | 2022-05-31 | 2022-09-07 |
 | [Anastasia](https://open.spotify.com/track/1vqZjstTJXQhNM45zKZVts) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Anastasia](https://open.spotify.com/album/7fgMqDYwnq0UxtR6xDZbDQ) | 3:56 | 2025-02-24 |  |
 | [Angel Falls](https://open.spotify.com/track/18mq8tGDlx1wF16w1YZxTf) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Angel Falls](https://open.spotify.com/album/4p1xPxPef4pe0cyAqJa20l) | 3:46 | 2024-05-10 | 2024-11-06 |
@@ -656,6 +656,7 @@
 | [Try To Remember](https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Try To Remember](https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx) | 3:26 | 2022-05-17 | 2024-12-04 |
 | [Twenty Somethings](https://open.spotify.com/track/4eaogpCx2UNkKylwlDNGJ7) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Twenty Somethings](https://open.spotify.com/album/2U3BM2wzkqr0aKtZm4bNyP) | 2:32 | 2022-12-08 |  |
 | [Twilight's Last Waltz](https://open.spotify.com/track/5fc8RLe4x7bgwnqZOWZqVt) | [The Manhattan Trio](https://open.spotify.com/artist/4EIEvwQ689URBkInS6L1r4) | [Twilight's Last Waltz](https://open.spotify.com/album/227MPlCydtMDfLUGQJCRsQ) | 3:18 | 2024-02-02 | 2025-05-20 |
+| [Undoing](https://open.spotify.com/track/45UFtP15tBNW9HFjnTbzgG) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Undoing](https://open.spotify.com/album/3H1ccamqL8ojjJItdY4rPW) | 3:19 | 2025-09-17 |  |
 | [Unspoken Love](https://open.spotify.com/track/1wAZQsmkq7lrW6Kt7ttTd6) | [Derek Hines Trio](https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY) | [Unspoken Love](https://open.spotify.com/album/6YgE3eC9OKqxbke7WwjtPX) | 3:46 | 2024-04-10 | 2025-07-02 |
 | [Unveiling the Mysteries](https://open.spotify.com/track/6YOWRZtVkEjzEkcRRsoAuG) | [Quinn Perry Trio](https://open.spotify.com/artist/16azKEAxILijPKm6gQf9Rb) | [Unveiling the Mysteries](https://open.spotify.com/album/45433mfYJExWGX0PirdOGo) | 3:24 | 2024-05-10 | 2025-07-16 |
 | [Up And Streak](https://open.spotify.com/track/1i4lRoAoLTJc5OoCGY8H7J) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Up And Streak](https://open.spotify.com/album/5KoV5QWKSVwBzPuGdNSPOC) | 2:18 | 2024-04-17 | 2025-08-20 |

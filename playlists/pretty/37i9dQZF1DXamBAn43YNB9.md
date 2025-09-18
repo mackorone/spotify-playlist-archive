@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,878 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,908 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 99 | [High Road](https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [High Road](https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu) | 3:19 |
 | 100 | [Texas Ain't That Far, Is It Dear?](https://open.spotify.com/track/7dVg7MMdfkAI0CpDlpOcEL) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Texas Ain't That Far, Is It Dear?](https://open.spotify.com/album/0prqg8lKNhYst58DsrEfII) | 3:36 |
 
-Snapshot ID: `AAAAAHYNTJ+MI8JCagu5rQFpwHhkHYKf`
+Snapshot ID: `AAAAAFQeIS3XgnSVOiqB13MSV0VxUBCY`

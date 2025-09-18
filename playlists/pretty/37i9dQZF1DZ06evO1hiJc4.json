@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 152429,
+  "num_followers": 152440,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAABJYKlGsUjOGsoEXlXCZPUA",
+  "snapshot_id": "aMiogAAAAABo8ZFNgAUfTo39zz3tBxzq",
   "tracks": [
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Goes",
-        "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 284271,
-      "name": "Love Goes (feat. Labrinth)",
-      "url": "https://open.spotify.com/track/5aRlRDvXRuP81qEzKTXQvM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 195746,
       "name": "Heaven Can Wait (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/2VDTgXwf3F6kcpX4HI0BKy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Goes",
+        "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 284271,
+      "name": "Love Goes (feat. Labrinth)",
+      "url": "https://open.spotify.com/track/5aRlRDvXRuP81qEzKTXQvM"
     },
     {
       "added_at": null,
@@ -539,34 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music Is the Weapon (Reloaded)",
-        "url": "https://open.spotify.com/album/76zSNlOGCAxTln5yG4pfih"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 199168,
-      "name": "Titans",
-      "url": "https://open.spotify.com/track/1YHeCzS5L9xs76eOpAS6WU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -591,6 +563,34 @@
       "duration_ms": 186120,
       "name": "Angel in Your Eyes (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/6k71NlTnn41Vk7RJX7CSbY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music Is the Weapon (Reloaded)",
+        "url": "https://open.spotify.com/album/76zSNlOGCAxTln5yG4pfih"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 199168,
+      "name": "Titans",
+      "url": "https://open.spotify.com/track/1YHeCzS5L9xs76eOpAS6WU"
     },
     {
       "added_at": null,

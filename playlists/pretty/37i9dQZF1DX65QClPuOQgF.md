@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65QClPuOQgF.md) - [plain]
 
 > Find your study focus with high pitched azure noise \- perfect for masking disruptive noises.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,732 likes - 113 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,752 likes - 113 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65QClPuOQgF.md) - [plain]
 | 14 | [Heavenly Blue](https://open.spotify.com/track/5UzI55dwuhyDlzJTLlWBii) | [Evolysium](https://open.spotify.com/artist/2HpNxW7zoPDIEnDC0g9y25) | [Dozy Blue](https://open.spotify.com/album/6MlcnEMhkCNPbU5AVOpKnL) | 2:49 |
 | 15 | [Blue Beauty](https://open.spotify.com/track/480POEmKsRKYqgs0pm4yyC) | [Jane Color](https://open.spotify.com/artist/5IHSYO8kKxpkIphS2vmEuX) | [Blue Beauty](https://open.spotify.com/album/1k5JOZm1HJExbdKoN5782A) | 3:02 |
 | 16 | [Colores Celestiales](https://open.spotify.com/track/25RWfdxRHvMpvP070Jk7Vy) | [Ardeon](https://open.spotify.com/artist/7IG0fEAR9mz2PBckWjAfS8) | [Ondas de Sonido Azul](https://open.spotify.com/album/2lLPo0vw1h2iaM6eB86Xlg) | 3:00 |
-| 17 | [Blue Noise Study Hall](https://open.spotify.com/track/03YxrOCFGtPkc111rK2tNg) | [Zen Maestro](https://open.spotify.com/artist/3JyVeZAzOZdJ2dyl5Qd1Wv) | [Blue Noise Study Hall](https://open.spotify.com/album/5ijsZIZzHbICvslYAQAErp) | 4:54 |
+| 17 | [Blue Noise Study Hall](https://open.spotify.com/track/03YxrOCFGtPkc111rK2tNg) | [Zaestro](https://open.spotify.com/artist/6NRx8nUKXG8pYiL7AA4r0W) | [Blue Noise Study Hall](https://open.spotify.com/album/5ijsZIZzHbICvslYAQAErp) | 4:54 |
 | 18 | [Blissful Blue Noise](https://open.spotify.com/track/6wh7LJHpQHrhzXBtJNgZNc) | [Fluffy Duffy](https://open.spotify.com/artist/5Zar2ecaQrP2jeYjnjNk9p) | [Blissful Blue Noise](https://open.spotify.com/album/026pqMVmUDdbisorPEs8rA) | 2:52 |
 | 19 | [Blue Waves](https://open.spotify.com/track/3VzAubUg9tph2Ibok0L3iE) | [Waves Of Time](https://open.spotify.com/artist/5doCIxxFrIe9mTSjcGKmQd) | [Ethereal Blue Noise](https://open.spotify.com/album/2bu51QWBB0jJaS108ye0Zx) | 2:56 |
 | 20 | [Focused Blue Noise](https://open.spotify.com/track/4Hp0gNV0LnfVxol3tTUg5Y) | [Contented](https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP) | [Concentrate Blue Noise](https://open.spotify.com/album/1OzpgtmsSNysYIxuTrnJ0Q) | 2:20 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65QClPuOQgF.md) - [plain]
 | 38 | [Blue Focus Waves](https://open.spotify.com/track/6JKZIEHa35TLnJlVEet015) | [The Inceptionists](https://open.spotify.com/artist/6paFuX94JPUGBwVheWFqhT) | [Blue Focus Waves](https://open.spotify.com/album/6amgHJfy3QH8qwxa8aEepl) | 4:50 |
 | 39 | [Appeasing Blue Noise](https://open.spotify.com/track/3aQnOrA2opORaxIiutRaYK) | [Winding Down](https://open.spotify.com/artist/2a4mBYnXQQQrd94VnZilKX) | [Soothe Blue Noise](https://open.spotify.com/album/4fRjKjqT0DPTY19FzK8xs0) | 2:17 |
 | 40 | [Healing Blue Noise](https://open.spotify.com/track/0B79ZKSuylMgF6u4SVN42q) | [Natura Ferox](https://open.spotify.com/artist/4pxwvJBcr1c7RBwb1sZ2pH) | [Natura Blue](https://open.spotify.com/album/4RauYiLXVw1M6gssmMRpFP) | 3:05 |
-| 41 | [Marine Blue Noise](https://open.spotify.com/track/74FIxncHya1nLGefZu2iWG) | [Zen Maestro](https://open.spotify.com/artist/3JyVeZAzOZdJ2dyl5Qd1Wv) | [Marine Blue Noise](https://open.spotify.com/album/3XUorlXyWO7ZlMOhnlUn4O) | 5:12 |
+| 41 | [Marine Blue Noise](https://open.spotify.com/track/74FIxncHya1nLGefZu2iWG) | [Zaestro](https://open.spotify.com/artist/6NRx8nUKXG8pYiL7AA4r0W) | [Marine Blue Noise](https://open.spotify.com/album/3XUorlXyWO7ZlMOhnlUn4O) | 5:12 |
 | 42 | [Denim Study Focus](https://open.spotify.com/track/5miNk9DsqX5HAig88rU8uJ) | [Xiskko](https://open.spotify.com/artist/4UMyTN1UI04MCa5s5HO2sg) | [Denim Study Focus](https://open.spotify.com/album/7eGBaEzwuvCZptmB9bOkLO) | 5:16 |
 | 43 | [Azure Focus](https://open.spotify.com/track/4Nc5D1DpDxyz44tTK057G2) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Azure Focus](https://open.spotify.com/album/6DptTnAjZnz0r6VIaoy1IG) | 5:23 |
 | 44 | [Blue Wind Noise](https://open.spotify.com/track/3hCD4TBSJF91KkdPQ4nQ2E) | [Aeoluzzz](https://open.spotify.com/artist/0aWv3c8ziN4LaKzIjHwb9V) | [Blue Wind Noise](https://open.spotify.com/album/0WCEfZdTaT4gYHomK5oIvD) | 3:15 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65QClPuOQgF.md) - [plain]
 | 69 | [High Blue Noise](https://open.spotify.com/track/5G4ZO1xMatAItsdHkyuBWy) | [Sound of Muses](https://open.spotify.com/artist/5l9VrNt92FCVro9qeWKBwi) | [Oceanic Blue Noise](https://open.spotify.com/album/6SKxPt1dSoMMV4jeHkqgkZ) | 3:46 |
 | 70 | [Sapphire Blue Noise](https://open.spotify.com/track/6ecx7AIB1idbuu4iH3JBFx) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Sapphire Blue Noise](https://open.spotify.com/album/4WZQOU8BbWjmpARJ2a3ku7) | 5:08 |
 | 71 | [Blue Winds](https://open.spotify.com/track/0Ajiv63ZzqVEoIx7EZTwcR) | [Sky Travis](https://open.spotify.com/artist/5IkHDfUNRiqyATjgbDHuGy) | [Blue Winds](https://open.spotify.com/album/7pN3sI0Flz4dIHf12RpmrH) | 2:57 |
-| 72 | [Blue Noise Hush](https://open.spotify.com/track/6jbPF7zQXptnRo7O1XYuIR) | [Zen Maestro](https://open.spotify.com/artist/3JyVeZAzOZdJ2dyl5Qd1Wv) | [Blue Noise Hush](https://open.spotify.com/album/5UBZzPWHjB8CSOxma8W3ZK) | 4:53 |
+| 72 | [Blue Noise Hush](https://open.spotify.com/track/6jbPF7zQXptnRo7O1XYuIR) | [Zaestro](https://open.spotify.com/artist/6NRx8nUKXG8pYiL7AA4r0W) | [Blue Noise Hush](https://open.spotify.com/album/5UBZzPWHjB8CSOxma8W3ZK) | 4:53 |
 | 73 | [Blue Noise Fountain](https://open.spotify.com/track/3GdLxYOVkspD3OgHGsgb3U) | [Sweet Sol](https://open.spotify.com/artist/0nJCGnCYFNKjjgHnEaDyUu) | [Blue Noise Fountain](https://open.spotify.com/album/48x1vSc7TU4EmRqMdjzMrd) | 3:01 |
-| 74 | [Andalucian Blue Noise](https://open.spotify.com/track/2a4ZF4wEOUBvq5gCLuHjgo) | [Zen Maestro](https://open.spotify.com/artist/3JyVeZAzOZdJ2dyl5Qd1Wv) | [Andalucian Blue Noise](https://open.spotify.com/album/4wAsa6x7EZSlHX8xqCiyOe) | 3:28 |
+| 74 | [Andalucian Blue Noise](https://open.spotify.com/track/2a4ZF4wEOUBvq5gCLuHjgo) | [Zaestro](https://open.spotify.com/artist/6NRx8nUKXG8pYiL7AA4r0W) | [Andalucian Blue Noise](https://open.spotify.com/album/4wAsa6x7EZSlHX8xqCiyOe) | 3:28 |
 | 75 | [Sky High Blue Noise](https://open.spotify.com/track/379blMFhCCmT5MySrUytU9) | [Likko Sol](https://open.spotify.com/artist/2Or8PQp1nSscZ2gnIkx17E) | [Sky High Blue Noise](https://open.spotify.com/album/4e6TGyGLwzhMputD8okXC1) | 4:49 |
 | 76 | [Blue Noise = Stress Relief](https://open.spotify.com/track/4LARgONSHp5tyqqCJmuYIP) | [Linus Xio](https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL) | [Blue Noise = Stress Relief](https://open.spotify.com/album/0QsY3fnk1X11tFX04PgXRr) | 3:08 |
 | 77 | [Ethereal Blue Noise](https://open.spotify.com/track/1unau4iVK8IHhCvIWg1wqu) | [Fortuna](https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV) | [Ethereal Blue Noise](https://open.spotify.com/album/55IMMLmNy7IWMESXGkDj8f) | 3:13 |

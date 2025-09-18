@@ -4,7 +4,7 @@
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-140 songs - 6 hr 18 min
+142 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Agronomy](https://open.spotify.com/track/02waHCZlp2s2ivnqDp3CjA) | [Contra La Muerte De La Luz](https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE) | [Agronomy](https://open.spotify.com/album/1oKBvI5blJWJCcfkek7pwZ) | 2:23 | 2023-03-13 |  |
 | [Almost Being in Love](https://open.spotify.com/track/2omqysIJo9PIwSMcMCz3cu) | [Damian Syslo](https://open.spotify.com/artist/16zAiqqDsHkJ3UPqS9vQiu) | [Almost Being in Love](https://open.spotify.com/album/3MVho0RdwGmZa3Nr3efad5) | 3:29 | 2023-03-13 |  |
 | [Autumn Rivulet](https://open.spotify.com/track/1GKWMeosT79GoNumiypX55) | [Drifreda](https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW) | [Autumn Rivulet](https://open.spotify.com/album/4zjAFkKAJ47Wh71lbo7Hos) | 2:48 | 2025-01-07 |  |
+| [Autumn Veil](https://open.spotify.com/track/6jb9WmbVg4DyAGMNLwUE3L) | [Novielle](https://open.spotify.com/artist/2du0EHVj1RbqO4q7mcL50s) | [Autumn Veil](https://open.spotify.com/album/1UXGGqE5eWx711zLL5g3st) | 1:58 | 2025-09-17 |  |
 | [Back to life](https://open.spotify.com/track/7apr0AjkfBJD0Ma5h1uNvk) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:50 | 2023-03-13 | 2023-10-20 |
 | [Bergspitze](https://open.spotify.com/track/0LfV2CQ5s90rs91icZcJ61) | [Phases of You](https://open.spotify.com/artist/04f6XeDUKqybwfbSheAoWv) | [Entre tus manos](https://open.spotify.com/album/5loAom6m6jvgODXh7J3QqK) | 2:56 | 2023-03-13 |  |
 | [Birds on the Horizon](https://open.spotify.com/track/3U2VlsRYfh3OJFHlMRKooB) | [Christian Julian](https://open.spotify.com/artist/1K5ZWTvO8xdN7joWl5soXC) | [Birds on the Horizon](https://open.spotify.com/album/1FUeCcNvm3b1ijbLD2N21u) | 2:49 | 2023-08-02 |  |
@@ -55,6 +56,7 @@
 | [Just When](https://open.spotify.com/track/2aG9L2NgevZU8Be93QrE3K) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Just When](https://open.spotify.com/album/1uMXvwn9cCALxvaCG1S0Jf) | 3:02 | 2023-04-24 |  |
 | [Last Chance](https://open.spotify.com/track/5NtgA0Ooz2UyHDnYwDRUu8) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [She's Playing Moody Piano on a Rainy Day](https://open.spotify.com/album/23fGXtCZFxRYXWuPqFvYx4) | 2:14 | 2023-03-13 | 2023-10-20 |
 | [Last time in the rain](https://open.spotify.com/track/0UHxHoVeocXY2bHcHA0PHU) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Last time in the rain](https://open.spotify.com/album/11rQmfIgDLRXZVKWC95a6d) | 3:13 | 2025-04-29 |  |
+| [Left Behind](https://open.spotify.com/track/4dCze40Fkzx4BQiHyXlfdb) | [Falk Tyler](https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu) | [Left Behind](https://open.spotify.com/album/1gfWJEGN4BjU3HDKVqSRs9) | 2:15 | 2025-09-17 |  |
 | [Like a Rose](https://open.spotify.com/track/6ijewExLv4RQnlQwkNZJef) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:00 | 2023-03-13 | 2025-08-23 |
 | [Lluvia Suave \- Nature](https://open.spotify.com/track/7iKHNnNBUJ8PvWxcH2yUcw) | [Vincent Pino](https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR) | [Lluvia Suave](https://open.spotify.com/album/1ZOvYb0aFVlgXd6vv2Wo1e) | 2:24 | 2025-05-14 |  |
 | [May We Meet Again](https://open.spotify.com/track/094ycsRYKwaMjTXyJlvOGe) | [Konstantin Rotärmel](https://open.spotify.com/artist/73x7dsM3ThlOaumf63iiyT) | [Echoes Of Rain](https://open.spotify.com/album/43iV5w7TUZunozRVL1Tm0d) | 2:03 | 2023-10-19 | 2024-04-19 |

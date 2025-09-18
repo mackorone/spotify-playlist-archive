@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 48712,
+  "num_followers": 48715,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAADsMTU6NZRsYXjqRWxkOWTs",
+  "snapshot_id": "aMiogAAAAAC4J/f1GQjopSIx+3SEl5C6",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 248213,
-      "name": "Hey, That's No Way to Say Goodbye",
-      "url": "https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu"
+      "duration_ms": 308240,
+      "name": "Tryin' Times",
+      "url": "https://open.spotify.com/track/5wNo8LEPPEs9HSYh0A63CB"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 308240,
-      "name": "Tryin' Times",
-      "url": "https://open.spotify.com/track/5wNo8LEPPEs9HSYh0A63CB"
+      "duration_ms": 248213,
+      "name": "Hey, That's No Way to Say Goodbye",
+      "url": "https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet Fire",
-        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 436453,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 243466,
       "name": "You're Lookin' Like Love To Me",
       "url": "https://open.spotify.com/track/3ry3B05LnmDlL43M4UUl3S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 436453,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Like Makin' Love",
-        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "I Wanted It Too",
-      "url": "https://open.spotify.com/track/1gVFAOjp9U176pxyCGAfAR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 271640,
       "name": "Can We Find Love Again",
       "url": "https://open.spotify.com/track/1G13qSTYRoDhyuFub96Y7P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feel Like Makin' Love",
+        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "I Wanted It Too",
+      "url": "https://open.spotify.com/track/1gVFAOjp9U176pxyCGAfAR"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roberta Flack & Donny Hathaway",
-        "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/1J93LI2FVb7nmseDjZr1S8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quiet Fire",
         "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
       },
@@ -675,22 +655,6 @@
       "duration_ms": 403520,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/3LYXTv0JJZRzUBtswVxDmw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set the Night to Music",
-        "url": "https://open.spotify.com/album/4NH4c6JLgCJeFiVrC5jBez"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 299573,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/50ILHnbevWzqVvk1tYm3BO"
     },
     {
       "added_at": null,
@@ -755,6 +719,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roberta Flack & Donny Hathaway",
+        "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 220773,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/1J93LI2FVb7nmseDjZr1S8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set the Night to Music",
+        "url": "https://open.spotify.com/album/4NH4c6JLgCJeFiVrC5jBez"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 299573,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/50ILHnbevWzqVvk1tYm3BO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roberta",
+        "url": "https://open.spotify.com/album/6ZRG7eADa1XJfu7UU4t6X1"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 602306,
+      "name": "It Might Be You",
+      "url": "https://open.spotify.com/track/3Rufli1yB8NTPOii0qReSp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Very Best of Roberta Flack",
         "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
       },
@@ -787,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roberta",
-        "url": "https://open.spotify.com/album/6ZRG7eADa1XJfu7UU4t6X1"
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
       "artists": [
         {
@@ -796,9 +812,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 602306,
-      "name": "It Might Be You",
-      "url": "https://open.spotify.com/track/3Rufli1yB8NTPOii0qReSp"
+      "duration_ms": 420160,
+      "name": "Ballad of the Sad Young Men",
+      "url": "https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF"
     },
     {
       "added_at": null,
@@ -823,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 420160,
-      "name": "Ballad of the Sad Young Men",
-      "url": "https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -859,18 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chapter Two",
-        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
+        "name": "Roberta Flack Featuring Donny Hathaway",
+        "url": "https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg"
       },
       "artists": [
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 299000,
-      "name": "Until It's Time for You to Go",
-      "url": "https://open.spotify.com/track/0f3FOlNpyINc62ys6DfQHv"
+      "duration_ms": 246066,
+      "name": "Only Heaven Can Wait (For Love) (feat. Donny Hathaway)",
+      "url": "https://open.spotify.com/track/7FOSBjOxnDd3vns3AKx8rr"
     },
     {
       "added_at": null,
@@ -899,22 +903,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roberta Flack Featuring Donny Hathaway",
-        "url": "https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg"
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
       },
       "artists": [
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 246066,
-      "name": "Only Heaven Can Wait (For Love) (feat. Donny Hathaway)",
-      "url": "https://open.spotify.com/track/7FOSBjOxnDd3vns3AKx8rr"
+      "duration_ms": 299000,
+      "name": "Until It's Time for You to Go",
+      "url": "https://open.spotify.com/track/0f3FOlNpyINc62ys6DfQHv"
     },
     {
       "added_at": null,

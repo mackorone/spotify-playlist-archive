@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181 likes - 131 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 183 likes - 131 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 26 | [Sleepless Nights](https://open.spotify.com/track/5YutQTssc3wSkx1jvZJ3ci) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Sleepless Nights](https://open.spotify.com/album/5BrQLIkC06tX0bSgBBn45i) | 3:12 |
 | 27 | [Lemonade](https://open.spotify.com/track/4Wu9oOCp1ITsfpEAqC83bQ) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [New Stage](https://open.spotify.com/album/29ZHoZziuOvmkSArdiUXAw) | 3:02 |
 | 28 | [Superhuman](https://open.spotify.com/track/7LmNkYE8oHU1vMvGCcZCsi) | [Crystal Knives](https://open.spotify.com/artist/7A2dTrQMswkIlzDkXYkkV0), [Chalklines](https://open.spotify.com/artist/54isiqTEAspL53Y4YazrlB), [Brooke Williams](https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz) | [Superhuman](https://open.spotify.com/album/6FWj8SgXvszXvGZ21beENG) | 3:37 |
-| 29 | [Runaway \(feat\. Julia Michaels\)](https://open.spotify.com/track/26ZzGymk02Qx5Ofb3ekXiR) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 3:25 |
-| 30 | [Higher Love \(feat\. Natania and Subhi\) \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/7vh5wN9o1meMGK8DooO7KD) | [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Higher Love \(feat\. Natania and Subhi\) \[from the Smurfs Movie Soundtrack\]](https://open.spotify.com/album/4AitGOdoQPQZGcpiGXMHAq) | 2:56 |
+| 29 | [Higher Love \(feat\. Natania and Subhi\) \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/7vh5wN9o1meMGK8DooO7KD) | [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Higher Love \(feat\. Natania and Subhi\) \[from the Smurfs Movie Soundtrack\]](https://open.spotify.com/album/4AitGOdoQPQZGcpiGXMHAq) | 2:56 |
+| 30 | [Runaway \(feat\. Julia Michaels\)](https://open.spotify.com/track/26ZzGymk02Qx5Ofb3ekXiR) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 3:25 |
 | 31 | [Sun Maahi \(Lofi Mix\)](https://open.spotify.com/track/3IvW9tmXT1dsSDC7TXwz9U) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Sun Maahi \- The EP](https://open.spotify.com/album/4KjwbIbL7Wjcx1IiNDMRbh) | 2:52 |
 | 32 | [Your Body On My Body](https://open.spotify.com/track/4lO27Ds7iRjTjHDn2qiqsN) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40) | [Four More Shots Please! Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/2VmahNskoUK0FWJKa1bUH8) | 2:35 |
 | 33 | [We Are The Ones \(feat\. Gucci Mane\)](https://open.spotify.com/track/47AEUwR1rppGeruasDVgBC) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 2:47 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 130 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 | 131 | [Get It Done](https://open.spotify.com/track/5J9WaXYErqUTZoNmk7ebG6) | [Saint Bodhi](https://open.spotify.com/artist/6JQTItHYnmTq4PxskHsxr4) | [Get It Done](https://open.spotify.com/album/1MVJomsYj2fjYDtA5QzEk3) | 2:16 |
 
-Snapshot ID: `Ab8aPgAAAABfS7XVrhcpFwwhSd7V1YQu`
+Snapshot ID: `Ab8f1AAAAABmq6AwGLox1DJQKpxZcAop`

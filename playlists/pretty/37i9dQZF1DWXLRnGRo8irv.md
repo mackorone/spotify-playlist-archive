@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [BURN](https://open.spotify.com/track/194uztQZdWMZutepG4ZkeB) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<BURN>](https://open.spotify.com/album/4benP09DGGgfu79UY9zvaU) | 3:19 |
 | 50 | [Light It Up](https://open.spotify.com/track/3VZYKwQmzzaMZ2m7aletiO) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<BURN>](https://open.spotify.com/album/4benP09DGGgfu79UY9zvaU) | 0:42 |
 
-Snapshot ID: `AAAAAP1Y6ik4Iwf6YktvGsis6Ka2YOIu`
+Snapshot ID: `AAAAAO3O8jkqbm/H2T+Xycea4OoymnlO`

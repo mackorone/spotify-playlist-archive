@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Simiran Kaur Dhadli
 
-215 songs - 11 hr 3 min
+216 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Phulkari](https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Phulkari](https://open.spotify.com/album/3skDjGnv85nUKxVQknCk2B) | 3:16 | 2023-03-18 | 2024-11-05 |
 | [Putt Jatt Da](https://open.spotify.com/track/0xffKEAFkJB8ZWt0w38YAn) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Putt Jatt Da](https://open.spotify.com/album/5RuqCvnNgBn5VUzm05EtlD) | 2:35 | 2025-03-20 |  |
 | [Pyar Ni Sarya](https://open.spotify.com/track/5JaGHHCV76DAgyLfo75GNy) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Pyar Ni Sarya](https://open.spotify.com/album/4IhUHMHvSoKOKnaleWpCAm) | 3:19 | 2025-08-29 |  |
-| [Queen Of Calli \(From "Aapocalypse"\)](https://open.spotify.com/track/6RMI0sZiFkdhOrgOsnD8en) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [Verse](https://open.spotify.com/artist/6u7wsDrP8AnQth07iGnmkO) | [Queen Of Calli \(From "Aapocalypse"\)](https://open.spotify.com/album/2DxY8Csi4QmR3hnh5wxhjP) | 2:28 | 2025-09-08 |  |
+| [Queen Of Calli \(From "Aapocalypse"\)](https://open.spotify.com/track/6RMI0sZiFkdhOrgOsnD8en) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [Verse](https://open.spotify.com/artist/6u7wsDrP8AnQth07iGnmkO) | [Queen Of Calli \(From "Aapocalypse"\)](https://open.spotify.com/album/2DxY8Csi4QmR3hnh5wxhjP) | 2:28 | 2025-09-08 | 2025-09-18 |
 | [Raah](https://open.spotify.com/track/5jZDDXuXDySYyd6DSCKOco) | [Manvi Arora](https://open.spotify.com/artist/5qrWplhwtDCuQdSDKrDrxf) | [Raah](https://open.spotify.com/album/6cHoE8lreJw6ZgKuSOyBYy) | 2:20 | 2024-11-26 | 2025-01-18 |
 | [Raanjha \- Spotify Singles](https://open.spotify.com/track/2Xi2rN0Awghch9seTfDmge) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Raanjha \- Spotify Singles](https://open.spotify.com/album/644jvb8ZYS8ySgtUrXM8T0) | 2:23 | 2023-03-18 | 2023-04-20 |
 | [Rafflan](https://open.spotify.com/track/64LiKpnfoGb5E6h3TsTnEP) | [Sahiba Aulakh](https://open.spotify.com/artist/1dOU4M0v0yeTczwMOhIBWh), [Gurbilling](https://open.spotify.com/artist/5Ae4guOm8OzoaSunZvltCq) | [Rafflan](https://open.spotify.com/album/0H24XMNw4pK8lyXrTgHYMD) | 2:12 | 2024-12-03 |  |
@@ -216,6 +216,7 @@
 | [US \(feat\. Raja Kumari\)](https://open.spotify.com/track/36cqlmc53NqlEUqPJdgUOx) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 | 2023-03-18 | 2024-09-07 |
 | [What's The Matter](https://open.spotify.com/track/7dsKW3auwVIogDnKGfOJk6) | [Manpreet Dhillon](https://open.spotify.com/artist/43NqRT7AYkjgNTCSU3BwiA), [Mr Preet](https://open.spotify.com/artist/0SddWPvFd2czXSRu57Z4L8), [Deep Boparai](https://open.spotify.com/artist/2YOwXX24g1UB05iwJ7HE6d) | [What's The Matter](https://open.spotify.com/album/493YcDQvHlCHpzLjSYN8DK) | 2:17 | 2025-01-10 | 2025-04-30 |
 | [Who Was With You](https://open.spotify.com/track/58mJuJRqVeoDBBIk9HWCiz) | [Shahat Gill](https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Who Was With You](https://open.spotify.com/album/2OtWaIyzG95Ljev1hyzwlz) | 2:45 | 2024-09-05 | 2025-02-15 |
+| [With Ya Always \(From "Aapocalypse"\)](https://open.spotify.com/track/3f63N35Q90RbKvbWOuK0UY) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [Verse](https://open.spotify.com/artist/6u7wsDrP8AnQth07iGnmkO) | [With Ya Always \(From "Aapocalypse"\)](https://open.spotify.com/album/2BmYgLaefBdRQLoJy7oPFH) | 3:27 | 2025-09-17 |  |
 | [Wrangler](https://open.spotify.com/track/22J4nmeDNKv8OlaFaqgfpr) | [Naaz Aulakh](https://open.spotify.com/artist/4IM8q4PhjHwrBOdITz0eRi) | [Wrangler](https://open.spotify.com/album/2HRm4krnpq1ZuZc9tInKya) | 2:33 | 2023-03-18 | 2023-10-10 |
 | [XL](https://open.spotify.com/track/7ALzEnfVJrEXMGS14vvqPj) | [Simar Dorraha](https://open.spotify.com/artist/51awvxzfYz80ygO4RQpTte), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [XL](https://open.spotify.com/album/1oXRArIgbvBeZNtDuPkQ9A) | 4:18 | 2024-01-30 | 2024-04-19 |
 | [XL](https://open.spotify.com/track/3Hy56XQKWdElhKlnYiTqpy) | [Simar Dorraha](https://open.spotify.com/artist/51awvxzfYz80ygO4RQpTte), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [XL](https://open.spotify.com/album/04Ncv0UW4Of8cNkvLF0rnc) | 4:18 | 2023-07-20 | 2024-01-31 |

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la d\u00e9cada. En portada: Joe Arroyo",
-  "num_followers": 779841,
+  "num_followers": 779926,
   "original_name": "Salsa: Los 90s",
   "owner": {
     "name": "Spotify",
@@ -1047,38 +1047,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Otra Nota",
-        "url": "https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 293266,
-      "name": "Necesito Amarte",
-      "url": "https://open.spotify.com/track/6k7mfR2JMnfyLb2t3mcTJo"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
-        "name": "Para Ti...",
-        "url": "https://open.spotify.com/album/5PTzP5nx9BStBILTrfJAZP"
-      },
-      "artists": [
-        {
-          "name": "Anthony Cruz",
-          "url": "https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC"
-        }
-      ],
-      "duration_ms": 326040,
-      "name": "Dile A El",
-      "url": "https://open.spotify.com/track/7v7VXdLHnTq8q4wmvSo7A9"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "A Pesar De Todo",
         "url": "https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t"
       },
@@ -1123,6 +1091,38 @@
       "duration_ms": 302893,
       "name": "Hagamos Lo Que Diga El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/481Da1w7hnEZ61sAHKnrer"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Otra Nota",
+        "url": "https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 293266,
+      "name": "Necesito Amarte",
+      "url": "https://open.spotify.com/track/6k7mfR2JMnfyLb2t3mcTJo"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Para Ti...",
+        "url": "https://open.spotify.com/album/5PTzP5nx9BStBILTrfJAZP"
+      },
+      "artists": [
+        {
+          "name": "Anthony Cruz",
+          "url": "https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC"
+        }
+      ],
+      "duration_ms": 326040,
+      "name": "Dile A El",
+      "url": "https://open.spotify.com/track/7v7VXdLHnTq8q4wmvSo7A9"
     },
     {
       "added_at": "2024-07-12 19:20:44",

@@ -1,6 +1,6 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 110365,
+  "num_followers": 110383,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Animales",
-        "url": "https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe"
-      },
-      "artists": [
-        {
-          "name": "Pereza",
-          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Princesas",
-      "url": "https://open.spotify.com/track/3hlWUNjAlbZ6nOjAbrivBv"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "El Sentimiento Garrapatero Que Nos Traen Las Flores",
         "url": "https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 186733,
       "name": "El aire de la calle",
       "url": "https://open.spotify.com/track/2PaETSKl3w3IdtLIbDnQXJ"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Animales",
+        "url": "https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe"
+      },
+      "artists": [
+        {
+          "name": "Pereza",
+          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Princesas",
+      "url": "https://open.spotify.com/track/3hlWUNjAlbZ6nOjAbrivBv"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Confidencial/New Booklet",
-        "url": "https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU"
-      },
-      "artists": [
-        {
-          "name": "Tequila",
-          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
-        }
-      ],
-      "duration_ms": 189133,
-      "name": "Salta!!!",
-      "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Al calor del amor en un bar",
         "url": "https://open.spotify.com/album/6trh5fT753w9Si8rdigFGm"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 170680,
       "name": "El calor del amor en un bar",
       "url": "https://open.spotify.com/track/0AFJOoRQFlo10Vm1p6BRjg"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Confidencial/New Booklet",
+        "url": "https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU"
+      },
+      "artists": [
+        {
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
+        }
+      ],
+      "duration_ms": 189133,
+      "name": "Salta!!!",
+      "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
     },
     {
       "added_at": "2022-01-25 22:47:02",

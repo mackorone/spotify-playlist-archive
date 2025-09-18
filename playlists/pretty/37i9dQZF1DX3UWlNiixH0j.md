@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: mei ehara
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,561 likes - 74 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,853 likes - 74 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 32 | [ランドリー四月を泳ぐ](https://open.spotify.com/track/0OenOL91FapnogFtW1ndYL) | [TIDAL CLUB](https://open.spotify.com/artist/0O4w4sG37zlMGsXK8fOsMw) | [ランドリー四月を泳ぐ](https://open.spotify.com/album/39sZUXzzuq8OFOr4W7CUoV) | 4:53 |
 | 33 | [雨に打たれて](https://open.spotify.com/track/55HMKYZOKMYc58naFdvCMc) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [雨に打たれて](https://open.spotify.com/album/7FnpL2blQQRVKEIiY8gC7c) | 3:18 |
 | 34 | [Tongues](https://open.spotify.com/track/37mOR6hOZqIo1lu6Z1J92U) | [Sotaro Fujiwara](https://open.spotify.com/artist/7q53lx1QXYkwoErQ682z0N), [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ) | [Tongues](https://open.spotify.com/album/4F2gRBxNYg2vO19UtAJB2u) | 3:01 |
-| 35 | [WHEN YOUR OWN INITIALS ARE ENOUGH](https://open.spotify.com/track/0huE46kfj5EC4TqEWw5Be5) | [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [SUNDANCE FOR BOTTEGA VENETA](https://open.spotify.com/album/4Ds0rPkwGrxsHSqysy8IoR) | 3:09 |
+| 35 | [真夏のトワイライト](https://open.spotify.com/track/6Y5hTkQSznh1wFDw2p3SDW) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx), [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [真夏のトワイライト](https://open.spotify.com/album/2I35grEfCPhILtpBhZAHfn) | 4:38 |
 | 36 | [BAKA](https://open.spotify.com/track/6ls085GIWTVbUF7Sjw5iLw) | [黒沼英之](https://open.spotify.com/artist/7dkDvlrSkcuAaGL6r8hGX3) | [BAKA](https://open.spotify.com/album/08YIsReVzsAdrdeOEsRE2a) | 2:54 |
 | 37 | [say my name](https://open.spotify.com/track/7vMHZ0sgIqRbMjJwYZVkUJ) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [say my name](https://open.spotify.com/album/3ix94HKA9QJ4fKL9TuuB2p) | 4:03 |
 | 38 | [Zest](https://open.spotify.com/track/3rohG04D4MnPeVCanbJA3G) | [wala.collective](https://open.spotify.com/artist/7eemBtJuL38427DQ0v1JLi) | [Zest](https://open.spotify.com/album/3Y55ddsXYYnua81BNBpBeQ) | 3:02 |
 | 39 | [JOOOOKE](https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [JOOOOKE](https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor) | 3:03 |
 | 40 | [ROSE](https://open.spotify.com/track/2jbWhKzRu30UH19vKHhnow) | [ItimatuSuzuka](https://open.spotify.com/artist/0H4tdUOZriPtjlE0ggoS5T) | [ROSE](https://open.spotify.com/album/7E5agLbvupvLKRT5KW5tGp) | 2:47 |
-| 41 | [真夏のトワイライト](https://open.spotify.com/track/6Y5hTkQSznh1wFDw2p3SDW) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx), [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [真夏のトワイライト](https://open.spotify.com/album/2I35grEfCPhILtpBhZAHfn) | 4:38 |
+| 41 | [WHEN YOUR OWN INITIALS ARE ENOUGH](https://open.spotify.com/track/0huE46kfj5EC4TqEWw5Be5) | [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [SUNDANCE FOR BOTTEGA VENETA](https://open.spotify.com/album/4Ds0rPkwGrxsHSqysy8IoR) | 3:09 |
 | 42 | [Funky Lovely Girl](https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Funky Lovely Girl](https://open.spotify.com/album/7AjNWrJY5Psf79navIAE1p) | 3:45 |
 | 43 | [Rorutana](https://open.spotify.com/track/5mocMpmPyla7dILBdI0Rup) | [Yutasyu](https://open.spotify.com/artist/4mRjs2ZjlgmiAqM6WiGgb4) | [Rorutana](https://open.spotify.com/album/0xP4wrQpSJmT9oTH0rFDeI) | 3:22 |
 | 44 | [健忘者たち](https://open.spotify.com/track/5pPvVb1woBjn86gnNsbBg2) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [健忘者たち](https://open.spotify.com/album/2vAlIqHLL3NnHay18v8zTP) | 3:46 |

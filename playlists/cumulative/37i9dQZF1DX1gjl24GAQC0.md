@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands \(한류 보이 밴드\)](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: TAEMIN\(태민\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your favorite oppa or dongsaeng? \(Cover: IDID\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-747 songs - 1 day 16 hr 50 min
+749 songs - 1 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Blah](https://open.spotify.com/track/0KtYC988oRVR2vot9LiyXn) | [1THE9](https://open.spotify.com/artist/6ZZafCTzyk1yjqEES63cMm) | [Blah Blah](https://open.spotify.com/album/366G5N87hlz50kVUV9tcwt) | 3:17 | 2022-03-30 | 2022-04-02 |
 | [Blind](https://open.spotify.com/track/6WjOw0KjfTtLM9VYm3CFYh) | [Ciipher](https://open.spotify.com/artist/18VvNIaKQgZXhSBnu7p5z7) | [BLIND](https://open.spotify.com/album/2HCVBzFcSE6NU7C2HIahqx) | 3:28 | 2022-03-31 | 2022-05-24 |
 | [BLIND FOR LOVE](https://open.spotify.com/track/4bUkJxCgAY9e9Tb0r4vOoy) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [6IXENSE](https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8) | 3:36 | 2022-03-31 | 2022-04-18 |
-| [Blooming CROWN](https://open.spotify.com/track/7LrmZENqrRtHOJPrlipqXK) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [I did it.](https://open.spotify.com/album/2wuV69PYaXXXG1NVC4wlcs) | 3:03 | 2025-09-16 |  |
+| [Blooming CROWN](https://open.spotify.com/track/7LrmZENqrRtHOJPrlipqXK) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [I did it.](https://open.spotify.com/album/2wuV69PYaXXXG1NVC4wlcs) | 3:03 | 2025-09-16 | 2025-09-18 |
 | [Blue Flame](https://open.spotify.com/track/6DTeLNeutILDk51f5IZN7d) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [BLUE FLAME](https://open.spotify.com/album/4fjvLKlsbalQp5Z8gDpk4l) | 3:14 | 2021-12-08 | 2022-07-27 |
 | [Blue Hour](https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:29 | 2021-12-08 | 2025-07-17 |
 | [BOBBIN](https://open.spotify.com/track/14JS85dA20uiGU5XGAWtif) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [BOBBIN](https://open.spotify.com/album/3NqyPRfB9A7ZlU12gkY3fc) | 3:08 | 2022-01-03 | 2022-04-07 |
@@ -130,6 +130,7 @@
 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 | 2022-10-12 |  |
 | [CEREMONY](https://open.spotify.com/track/7EdgizR99xZh1EpngDaSBi) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/4v9IBMLeDDviC5A4UGA4p6) | 2:44 | 2025-08-22 | 2025-09-10 |
 | [Chained Up](https://open.spotify.com/track/0fp7yXkUbwmM8ML6sWu6HW) | [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) | [Chained Up](https://open.spotify.com/album/0xV4AYgTAeT6JzGuXmki91) | 3:12 | 2022-04-04 | 2022-04-10 |
+| [CHAN\-RAN](https://open.spotify.com/track/0UoxcThas4J2ijiJ6Yivb6) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [I did it.](https://open.spotify.com/album/2wuV69PYaXXXG1NVC4wlcs) | 3:01 | 2025-09-17 |  |
 | [Chance](https://open.spotify.com/track/2DfoKySsCsAABuPSgEbzcb) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Lord of Heroes OST Part 1](https://open.spotify.com/album/75ZMTjX52zVKPRXnHbwNve) | 3:43 | 2022-03-22 | 2022-04-15 |
 | [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 | 2023-10-13 | 2025-04-22 |
 | [Cheeky](https://open.spotify.com/track/5zAMY2u5sRYyd8wLjlbTep) | [ENOi](https://open.spotify.com/artist/7nZr0bruX5BKXqb8LSe2U3) | [RED IN THE APPLE](https://open.spotify.com/album/26wrEDX1YtBq40f5wEtyeM) | 3:09 | 2022-03-30 | 2022-04-19 |
@@ -334,7 +335,7 @@
 | [I'm Crazy](https://open.spotify.com/track/4rJNKkF32Et7EvyQzFWzGK) | [Jeon Woong](https://open.spotify.com/artist/3Hn9zmyEgavAajnyTgZUGq), [LEE DAE HWI](https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB) | [Crazy Love \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/46l3dmaoKKZey0eBG9whW1) | 3:29 | 2022-03-30 | 2022-04-19 |
 | [I'm in Trouble](https://open.spotify.com/track/30iB3Vk6T4gAUfZ0OvmwxY) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Nocturne](https://open.spotify.com/album/5j8qRyyqFwXkIH7boJ6m9N) | 3:04 | 2021-12-08 | 2022-07-29 |
 | [ICE AGE](https://open.spotify.com/track/1q2bu7PaEUUiFJYFsAiHiz) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [into the ICE AGE](https://open.spotify.com/album/2N9Y7kFSctM8v4T4G2uYWo) | 3:10 | 2022-02-15 | 2022-06-22 |
-| [Ice On My Teeth](https://open.spotify.com/track/62eDE0RR8Sgh7yw8ZLeyAM) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.2](https://open.spotify.com/album/2FLo3lAhEQpvHAtRN0HEUP) | 3:03 | 2024-11-29 |  |
+| [Ice On My Teeth](https://open.spotify.com/track/62eDE0RR8Sgh7yw8ZLeyAM) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.2](https://open.spotify.com/album/2FLo3lAhEQpvHAtRN0HEUP) | 3:03 | 2024-11-29 | 2025-09-18 |
 | [ICONIC](https://open.spotify.com/track/4BSx3P80BGTTh0hRmvSvxL) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [ICONIC](https://open.spotify.com/album/5Boa7YknUbdFy87sIxQ2vG) | 3:26 | 2025-08-04 | 2025-08-13 |
 | [ICONIK](https://open.spotify.com/track/7srZ5Feiz5S4R4O9jL1Dx4) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [NEVER SAY NEVER](https://open.spotify.com/album/6zfGu7WflAzOzsC2Dxgu5I) | 3:13 | 2025-09-01 |  |
 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 | 2025-01-07 | 2025-07-25 |
@@ -638,6 +639,7 @@
 | [Sweet Venom](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 | 2023-11-21 | 2025-01-30 |
 | [Switch](https://open.spotify.com/track/4e378M6XRmJBW30gNws2TE) | [Gguggugi](https://open.spotify.com/artist/0SLGKxtZbiQFfJGtJ8TDTo) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 2:59 | 2023-04-26 | 2023-06-02 |
 | [Tag Tag Tag](https://open.spotify.com/track/6HMR9w1ORta3CXI9r4ptpE) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [VERI\-CHILL](https://open.spotify.com/album/0SQHVWNdrujtaHAodFG99C) | 3:05 | 2022-03-30 | 2022-04-19 |
+| [TAKE A SHOT](https://open.spotify.com/track/1JTPqGG7hHzLsBWK6caGQz) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [TAKE A SHOT](https://open.spotify.com/album/06qgEuyha6pNcBJvglOGha) | 2:28 | 2025-09-17 |  |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-09 |  |
 | [TAKEOVER](https://open.spotify.com/track/2wW53eqOu1AG50Uwi5c3D8) | [82MAJOR](https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663) | [SILENCE SYNDROME](https://open.spotify.com/album/2Z00o0quhfUOA9HY57Msb8) | 3:08 | 2025-04-14 | 2025-05-20 |
 | [Talk Saxy](https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Talk Saxy](https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0) | 3:10 | 2023-10-29 | 2024-02-22 |

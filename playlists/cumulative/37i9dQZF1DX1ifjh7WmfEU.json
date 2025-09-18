@@ -859,6 +859,24 @@
     },
     {
       "album": {
+        "name": "consolation",
+        "url": "https://open.spotify.com/album/7LORbuNBK0aO9InBE8gFbY"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Frays",
+          "url": "https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157250,
+      "name": "consolation",
+      "url": "https://open.spotify.com/track/4wjEcvWf8ynGLJDxFTG7sZ"
+    },
+    {
+      "album": {
         "name": "Conversus Caelum",
         "url": "https://open.spotify.com/album/4dg0Gjf5S33NuhGOR9xBkY"
       },
@@ -3644,6 +3662,24 @@
       "duration_ms": 123344,
       "name": "Romanzo",
       "url": "https://open.spotify.com/track/61TS7LURuPHVDdVsuWvxfC"
+    },
+    {
+      "album": {
+        "name": "rose",
+        "url": "https://open.spotify.com/album/5GHnVV6bXReFjIUFAuowEE"
+      },
+      "artists": [
+        {
+          "name": "Ethan \u00c9lgar",
+          "url": "https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "rose",
+      "url": "https://open.spotify.com/track/6MnZYdwZQ42JTat9wH7Zfz"
     },
     {
       "album": {

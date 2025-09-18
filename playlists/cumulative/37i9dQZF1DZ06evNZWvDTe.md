@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-205 songs - 12 hr 13 min
+207 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [No Kissing Baby](https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:41 | 2022-08-08 |  |
 | [NO SIR](https://open.spotify.com/track/1xq5og7HPgvbujGR9NR1V6) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [NO SIR](https://open.spotify.com/album/3jXQqOdt2mGJASugFOWYZr) | 2:21 | 2024-12-13 | 2025-08-31 |
 | [Nobody's Business \(feat\. Akwaboah\)](https://open.spotify.com/track/0Dv4HyaZg0dNnRf1oAZOEa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Mary](https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo) | 4:52 | 2022-03-10 | 2022-09-17 |
-| [Non Living Thing \(feat\. Oxlade\)](https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:49 | 2021-12-28 |  |
+| [Non Living Thing](https://open.spotify.com/track/7H7XxS0Qbrs0NCnjijkqC1) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j) | 3:49 | 2025-09-18 |  |
+| [Non Living Thing \(feat\. Oxlade\)](https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:49 | 2021-12-28 | 2025-09-18 |
 | [Obi Doba \(feat\. Bisa Kdei\)](https://open.spotify.com/track/1wipMSbcqYW4UPQTkQSpUk) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:48 | 2022-03-11 | 2022-03-13 |
 | [ODO](https://open.spotify.com/track/2zo3vTLvzQmM83xLV8d6LG) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ebony](https://open.spotify.com/artist/3cm6Zb6gWgbshGkhl1xHYd) | [Alpha](https://open.spotify.com/album/3vB23UtiQmUqwsw9Ge8xcr) | 4:31 | 2022-03-04 | 2022-03-27 |
 | [Odo Bi](https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Epistles of Mama](https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr) | 3:27 | 2022-11-16 |  |
@@ -155,7 +156,8 @@
 | [Onyame eyhira\(produced By Kaywa\) \(feat\. Castro\)](https://open.spotify.com/track/4Q33HiVThLk7DDDAfyu8S2) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Castro](https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 4:24 | 2021-12-28 | 2022-10-13 |
 | [Oofeets](https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [Oofeets](https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y) | 3:46 | 2021-12-28 | 2025-03-31 |
 | [Original](https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:07 | 2022-07-19 |  |
-| [Otan](https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1) | 3:16 | 2023-12-13 |  |
+| [Otan](https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1) | 3:16 | 2023-12-13 | 2025-09-18 |
+| [Otan](https://open.spotify.com/track/40QrEzU7KQxJUViO5IF9U1) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/35glKQJdjELPoOBIYQ1T3a) | 3:17 | 2025-09-18 |  |
 | [Over Me \(feat\. Cina Soul\)](https://open.spotify.com/track/5WK9VS79hdiLz4UYwr6KTF) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:18 | 2022-11-12 | 2023-01-23 |
 | [Overdose](https://open.spotify.com/track/2JEaKCe6NDnP2f5mPmk88W) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Jesse Jagz](https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:24 | 2022-01-16 | 2022-10-13 |
 | [Overload 2](https://open.spotify.com/track/38tyJTQNH3CX0TBaSL6Nph) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Overload 2](https://open.spotify.com/album/0FUMpRiaQSexzpDp2XKDDO) | 3:38 | 2022-02-21 | 2022-02-23 |

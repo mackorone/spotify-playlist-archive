@@ -4,7 +4,7 @@
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-312 songs - 1 day 6 hr 24 min
+314 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Basic Maneuvers](https://open.spotify.com/track/7woL8TwGlZLp3bzZfnOVYV) | [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Basic Maneuvers EP](https://open.spotify.com/album/33apADlecXppVzx6C1Tvgi) | 4:42 | 2025-06-24 |  |
 | [Be Free](https://open.spotify.com/track/1O9wM3lgCR50cqM53nL66O) | [Kuniyuki & Cushty](https://open.spotify.com/artist/2lBNHvKLX522xc5JHTzO7j) | [Circles](https://open.spotify.com/album/1opEBoxbcDy8U72F79e0mB) | 6:40 | 2025-08-21 |  |
 | [Bis uns das Licht vertreibt \- Marcel Dettmann Version 2 Remix \- Mixed](https://open.spotify.com/track/5WsRwqPkxPw1nMobU9EAbR) | [Tocotronic](https://open.spotify.com/artist/4WOaecAM3RMMmrbZzNx0vu), [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP) | [Running Back Mastermix: Marcel Dettmann \- Edits & Cuts \(DJ Mix\)](https://open.spotify.com/album/3t8d7MkH1hAUbLaVGHaLct) | 4:19 | 2025-07-04 |  |
+| [Blinkmoth \(July Mix\)](https://open.spotify.com/track/3iHnAH5IlTJhyEX8mBvrVH) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Friend](https://open.spotify.com/album/5clpTIKRLA4BTRVwrtacPp) | 7:03 | 2025-09-17 |  |
 | [Bo Knows](https://open.spotify.com/track/7nU7bzK48HqKSivZqS1BGz) | [Sascha Funke](https://open.spotify.com/artist/1dDTkRz9WVOQr63enjJ1Yd) | [Germina Speeder](https://open.spotify.com/album/3WDE4IqUDA5SRnL9n6jyIw) | 6:57 | 2025-03-10 |  |
 | [Body Music](https://open.spotify.com/track/4Cmdy2dNVMteL3I8F3t16X) | [Ashtar Afterhours](https://open.spotify.com/artist/6BpuYRnswVfunDciLR16nA) | [Body Music](https://open.spotify.com/album/01Nn2mY1Lz09D0XiieeKwf) | 6:07 | 2025-09-16 |  |
 | [Body on Body](https://open.spotify.com/track/4eNmdcBJ770bhw2Ee6F0U4) | [AFAR](https://open.spotify.com/artist/3RISmAgVwF5b24BjC8OsYZ) | [Body on Body](https://open.spotify.com/album/0AymIdPRppmrsB2kO9AbVF) | 4:15 | 2025-09-05 |  |
@@ -122,6 +123,7 @@
 | [Glimpse](https://open.spotify.com/track/6MSMEYnP6OPJU4OQargcs7) | [Rhode & Brown](https://open.spotify.com/artist/3tA0d4G3jC6CXf6MXEZE5T) | [Underwater Bounce \- EP](https://open.spotify.com/album/17xPf4vJddlA4wV7yqr8LD) | 5:56 | 2025-07-04 |  |
 | [Go Computer](https://open.spotify.com/track/6CtBdu3aZXOSicicclJObJ) | [Raxon](https://open.spotify.com/artist/6gp9WP1OleU89x2gF9w2ID) | [USWATT](https://open.spotify.com/album/3tAxpEZmeaQbgR0yh7ptnN) | 5:58 | 2024-10-26 | 2025-09-06 |
 | [God's Mirrorball](https://open.spotify.com/track/1AiexVTC5gIpLkIxhCX4sw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Moonbuilding 2703 AD](https://open.spotify.com/album/1pSigtLUTHraLsmmc1PYAv) | 14:44 | 2025-01-31 |  |
+| [Gold Filigree](https://open.spotify.com/track/2GFMkbnh2SvLxgavAadQRg) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/1jooROM5diSNAfEwESyDDH) | 3:24 | 2025-09-17 |  |
 | [Good To You](https://open.spotify.com/track/0gBh7JyQ4QQDA4RdWiwb0r) | [Damiano von Erckert](https://open.spotify.com/artist/28Y1hMhuru402KjzFJDegi) | [Magnolia EP](https://open.spotify.com/album/06BQFfQaGymZoZmfo0nRk4) | 5:57 | 2025-09-16 |  |
 | [Goodbye Horses \- New Wave Version](https://open.spotify.com/track/4DdqcDyyddC2sP2WOMMhzU) | [Q Lazzarus](https://open.spotify.com/artist/2EOrSEDPcZ9feKWSi8Fpdi) | [Goodbye Horses \(New Wave Version\)](https://open.spotify.com/album/4YrFgWusaHw79XTvqC8BH2) | 5:04 | 2025-02-27 |  |
 | [Groovy Baby](https://open.spotify.com/track/569eyJXP9UW4uVmkpAENoc) | [Kingdom Come](https://open.spotify.com/artist/1cDASBD4h47ypA04Ya2hWw), [Ron Allen](https://open.spotify.com/artist/3cluZ1EQaIO0pz0cJiqMJr) | [Groovy Baby](https://open.spotify.com/album/1rKUia1gX72dZYffkfoKN3) | 6:01 | 2025-06-24 |  |

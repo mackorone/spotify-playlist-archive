@@ -4,7 +4,7 @@
 
 > Playlist
 
-607 songs - 1 day 11 hr 54 min
+608 songs - 1 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Hindsight](https://open.spotify.com/track/1djMy6mgIdrznCtYBTPcNo) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Hindsight](https://open.spotify.com/album/69l8xCdEYBXB27p0AVdFVh) | 3:06 | 2023-10-25 |  |
 | [Hole](https://open.spotify.com/track/6OOkbVOvc8umM48aIEA3aK) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Hole](https://open.spotify.com/album/4PXmj9895vqvTuuz6trOW8) | 2:54 | 2023-10-25 |  |
 | [Hole](https://open.spotify.com/track/73p5gQZ9kxHmLaqBf7P06u) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Santolina](https://open.spotify.com/album/3xXpKIMBsUbVv8RwYE5Ibz) | 2:54 | 2023-10-25 |  |
+| [Hollow Smiles](https://open.spotify.com/track/4L6g4KVBaDU9eVwVeJwNwf) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Hollow Smiles](https://open.spotify.com/album/5AGi2EuRJQ4k5AYTZ4dUcl) | 3:42 | 2025-09-17 |  |
 | [Homebody](https://open.spotify.com/track/67a4dHkPPmLBdQN7XA1mzp) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy) | [Homebody](https://open.spotify.com/album/5qWNc3Pd8CwTnDOp0E0OJl) | 3:28 | 2023-10-25 |  |
 | [Honestly](https://open.spotify.com/track/1xvxR2EWqdHg9eSU8dlm2r) | [Sebastian Roca](https://open.spotify.com/artist/4axhTQXDTfbRk7FZe2tsTF) | [Parkview Demos](https://open.spotify.com/album/3Vgnh06FtxYOsr1zkFwVu2) | 3:53 | 2023-10-25 |  |
 | [Honey](https://open.spotify.com/track/752BS2kpBhOU6PGxRYXT0C) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Honey](https://open.spotify.com/album/2KpcZDIIAbqiAGf0a7Wzpt) | 3:04 | 2025-05-30 |  |

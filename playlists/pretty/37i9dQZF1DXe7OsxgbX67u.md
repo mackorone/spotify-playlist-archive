@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7OsxgbX67u.md) - [plain]
 
 > Listen to the music from Invincible, streaming only on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,306 likes - 73 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,339 likes - 73 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,6 +80,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7OsxgbX67u.md) - [plain]
 | 70 | [My Type](https://open.spotify.com/track/2QDAcDBws8M6CJ3Vi8JVDE) | [LG \(TEAM GENIUS\)](https://open.spotify.com/artist/7iI4KMaRDjJGuHA6QLGnJx) | [Colors](https://open.spotify.com/album/4LMqI9dsUMYb7z7TFq3cvA) | 2:12 |
 | 71 | [the ground below \(feat\. Royal Blood\) \- Royal Jewels Mix](https://open.spotify.com/track/0ZihFuThMaeARjmxTsoNFe) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [the ground below \(feat\. Royal Blood\) \[Royal Jewels Mix\]](https://open.spotify.com/album/5eV8MufOSCcvwS9oCPN4aX) | 2:53 |
 | 72 | [Invincible](https://open.spotify.com/track/6WQJBaBfM1Ow66RIlc43SK) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz) | [Invincible: Vol\. 1 \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/2YqLtiozpeFoScLa7vMCRy) | 4:55 |
-| 73 | [Second Strongest Viltrumite](https://open.spotify.com/track/3yK5GeQQu7crbX38UPw6kn) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz) | [Invincible: Vol\. 1 \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/2YqLtiozpeFoScLa7vMCRy) | 4:04 |
+| 73 | [Mr\. Ten Times Worse](https://open.spotify.com/track/3yK5GeQQu7crbX38UPw6kn) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz) | [Invincible: Vol\. 1 \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/2YqLtiozpeFoScLa7vMCRy) | 4:04 |
 
 Snapshot ID: `AAAAAOU9DR5AkqlyePU0r4G8xg2Pin9S`

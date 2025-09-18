@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: ATEEZ
 
-718 songs - 1 day 15 hr 32 min
+719 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Lollipop](https://open.spotify.com/track/53WRoCbjgRtPdi7es1zGnZ) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [TRICKSTER](https://open.spotify.com/album/2cDSI73Vw84p1vCL9W2evB) | 2:09 | 2024-02-27 | 2024-04-17 |
 | [Lollipop](https://open.spotify.com/track/6DWAaxDv3HfeJbUCNnXwRB) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [TRICKSTER](https://open.spotify.com/album/5BYtSfXOuqwh1iC5o8GfBH) | 2:09 | 2024-02-06 | 2024-02-28 |
 | [Loose](https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose](https://open.spotify.com/album/2XCAFhzTvaqKFJogtaJnz1) | 3:30 | 2025-04-04 | 2025-06-04 |
+| [Lost](https://open.spotify.com/track/6dlbp9t6McWNc8r8ZXtYvP) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [LOST](https://open.spotify.com/album/2RNBslHPjuQ1SSjmevJCiO) | 2:42 | 2025-09-16 |  |
 | [LOUD](https://open.spotify.com/track/312amIo1Pj8FH0vYMy5yOu) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [LOUD](https://open.spotify.com/album/6GXhrItMV3o5txOWLETTBA) | 3:12 | 2024-06-18 | 2025-03-07 |
 | [LOVE / HATE](https://open.spotify.com/track/08nRL1drNzWuYvxfTplhgS) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [LOVE / HATE](https://open.spotify.com/album/4ZGFTkABqgi5LofCHOWVDc) | 2:22 | 2025-01-14 | 2025-04-03 |
 | [Love 119 \- Japanese Version](https://open.spotify.com/track/5Gw3SiNinRr4kY8FxKl7Dm) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119 \(Japanese Version\)](https://open.spotify.com/album/40zoR4FnNilJl5gK2qzjCg) | 2:53 | 2024-01-24 | 2024-01-29 |

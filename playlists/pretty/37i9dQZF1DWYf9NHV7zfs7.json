@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Luciano Pereyra & David Bisbal",
-  "num_followers": 67270,
+  "num_followers": 67308,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -359,26 +359,6 @@
     {
       "added_at": "2025-09-12 18:58:01",
       "album": {
-        "name": "La del Primer Puesto",
-        "url": "https://open.spotify.com/album/17i5gpmOgTjDDHlgnqa5ua"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "La del Primer Puesto",
-      "url": "https://open.spotify.com/track/6sbE3hkY1kRT4CmmdOJDJC"
-    },
-    {
-      "added_at": "2025-09-12 18:58:01",
-      "album": {
         "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
         "url": "https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 213480,
       "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
       "url": "https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C"
+    },
+    {
+      "added_at": "2025-09-12 18:58:01",
+      "album": {
+        "name": "La del Primer Puesto",
+        "url": "https://open.spotify.com/album/17i5gpmOgTjDDHlgnqa5ua"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "La del Primer Puesto",
+      "url": "https://open.spotify.com/track/6sbE3hkY1kRT4CmmdOJDJC"
     },
     {
       "added_at": "2025-09-12 18:58:01",
@@ -607,6 +607,26 @@
     {
       "added_at": "2025-09-12 18:58:01",
       "album": {
+        "name": "Vivo Por Ella (feat. KAROL G)",
+        "url": "https://open.spotify.com/album/57WjrGotxjy4Wh2CEHZSMl"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 264040,
+      "name": "Vivo Por Ella (feat. KAROL G)",
+      "url": "https://open.spotify.com/track/0XG0M7286ZdcOflyehbXmS"
+    },
+    {
+      "added_at": "2025-09-12 18:58:01",
+      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
       },
@@ -619,22 +639,6 @@
       "duration_ms": 186666,
       "name": "Mejor Que Ayer",
       "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
-    },
-    {
-      "added_at": "2025-09-12 18:58:01",
-      "album": {
-        "name": "Sue\u00f1o Dorado",
-        "url": "https://open.spotify.com/album/5iAfktdcKxeETNbaxEWckh"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 231426,
-      "name": "Sin Principio Ni Final",
-      "url": "https://open.spotify.com/track/6ihwy1c6tsMC6AWANIrhH2"
     },
     {
       "added_at": "2025-09-12 18:58:01",
@@ -655,22 +659,18 @@
     {
       "added_at": "2025-09-12 18:58:01",
       "album": {
-        "name": "Vivo Por Ella (feat. KAROL G)",
-        "url": "https://open.spotify.com/album/57WjrGotxjy4Wh2CEHZSMl"
+        "name": "Sue\u00f1o Dorado",
+        "url": "https://open.spotify.com/album/5iAfktdcKxeETNbaxEWckh"
       },
       "artists": [
         {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 264040,
-      "name": "Vivo Por Ella (feat. KAROL G)",
-      "url": "https://open.spotify.com/track/0XG0M7286ZdcOflyehbXmS"
+      "duration_ms": 231426,
+      "name": "Sin Principio Ni Final",
+      "url": "https://open.spotify.com/track/6ihwy1c6tsMC6AWANIrhH2"
     },
     {
       "added_at": "2025-09-12 18:58:01",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-09-12 18:58:01",
       "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "Oncemil",
-      "url": "https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ"
-    },
-    {
-      "added_at": "2025-09-12 18:58:01",
-      "album": {
         "name": "Cabildo y Juramento",
         "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2025-09-12 18:58:01",
       "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "Oncemil",
+      "url": "https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ"
+    },
+    {
+      "added_at": "2025-09-12 18:58:01",
+      "album": {
         "name": "La Pelirroja",
         "url": "https://open.spotify.com/album/4DqYrcBKkblqWqbOpUWCK1"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-09-12 18:58:01",
       "album": {
-        "name": "Abel",
-        "url": "https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Motivos",
-      "url": "https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu"
-    },
-    {
-      "added_at": "2025-09-12 18:58:01",
-      "album": {
         "name": "Conociendo Rusia",
         "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 213127,
       "name": "Tarde o Temprano",
       "url": "https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde"
+    },
+    {
+      "added_at": "2025-09-12 18:58:01",
+      "album": {
+        "name": "Abel",
+        "url": "https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 181933,
+      "name": "Motivos",
+      "url": "https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu"
     },
     {
       "added_at": "2025-09-12 18:58:01",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-09-12 18:58:01",
       "album": {
-        "name": "El Otro",
-        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
-      },
-      "artists": [
-        {
-          "name": "Chano",
-          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Carnavalintro",
-      "url": "https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0"
-    },
-    {
-      "added_at": "2025-09-12 18:58:01",
-      "album": {
         "name": "Si Me Disculpo Ahora",
         "url": "https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 120759,
       "name": "Si Me Disculpo Ahora",
       "url": "https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF"
+    },
+    {
+      "added_at": "2025-09-12 18:58:01",
+      "album": {
+        "name": "El Otro",
+        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
+      },
+      "artists": [
+        {
+          "name": "Chano",
+          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Carnavalintro",
+      "url": "https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0"
     },
     {
       "added_at": "2025-09-12 18:58:01",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-09-12 18:58:01",
       "album": {
-        "name": "Mientes",
-        "url": "https://open.spotify.com/album/4OhPGq0bP1zqgxt8R9vpUX"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 160736,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/34UvFr9iB7R5hojk6iNN1N"
-    },
-    {
-      "added_at": "2025-09-12 18:58:01",
-      "album": {
         "name": "Por Ese Hombre",
         "url": "https://open.spotify.com/album/4h3BqE5RLSLpFHQKNMIfTI"
       },
@@ -1139,22 +1123,6 @@
     {
       "added_at": "2025-09-12 18:58:01",
       "album": {
-        "name": "Me Diste la Espalda",
-        "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 202492,
-      "name": "Me Diste la Espalda",
-      "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
-    },
-    {
-      "added_at": "2025-09-12 18:58:01",
-      "album": {
         "name": "ENCHASTRE",
         "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
@@ -1171,6 +1139,38 @@
       "duration_ms": 209133,
       "name": "AYER TE VI (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
+    },
+    {
+      "added_at": "2025-09-12 18:58:01",
+      "album": {
+        "name": "Me Diste la Espalda",
+        "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 202492,
+      "name": "Me Diste la Espalda",
+      "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
+    },
+    {
+      "added_at": "2025-09-12 18:58:01",
+      "album": {
+        "name": "Mientes",
+        "url": "https://open.spotify.com/album/4OhPGq0bP1zqgxt8R9vpUX"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 160736,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/34UvFr9iB7R5hojk6iNN1N"
     },
     {
       "added_at": "2025-09-12 18:58:01",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-09-12 18:58:01",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 157007,
-      "name": "No Molestar",
-      "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
-    },
-    {
-      "added_at": "2025-09-12 18:58:01",
-      "album": {
         "name": "Inconsciente Colectivo",
         "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
       },
@@ -1235,6 +1219,38 @@
       "duration_ms": 192226,
       "name": "Fue Amor",
       "url": "https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1"
+    },
+    {
+      "added_at": "2025-09-12 18:58:01",
+      "album": {
+        "name": "Manantial",
+        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
+      },
+      "artists": [
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "La Fuerza del Enga\u00f1o",
+      "url": "https://open.spotify.com/track/2KrzUHEX4tL0zZOKHFQmqG"
+    },
+    {
+      "added_at": "2025-09-12 18:58:01",
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 157007,
+      "name": "No Molestar",
+      "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
     },
     {
       "added_at": "2025-09-12 18:58:01",
@@ -1271,22 +1287,6 @@
       "duration_ms": 206520,
       "name": "Es ahora",
       "url": "https://open.spotify.com/track/1MWDhdadRnIK7APAKV0PfG"
-    },
-    {
-      "added_at": "2025-09-12 18:58:01",
-      "album": {
-        "name": "Manantial",
-        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
-      },
-      "artists": [
-        {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "La Fuerza del Enga\u00f1o",
-      "url": "https://open.spotify.com/track/2KrzUHEX4tL0zZOKHFQmqG"
     },
     {
       "added_at": "2025-09-12 18:58:01",

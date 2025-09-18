@@ -4,7 +4,7 @@
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-149 songs - 6 hr 36 min
+150 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Red Roses for a Blue Lady](https://open.spotify.com/track/3dP26yhAx1murb5j0Y833W) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [\(Remember Me\) I'm the One That Loves You](https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK) | 2:45 | 2023-12-26 | 2024-11-10 |
 | [Release Me \(And Let Me Love Again\)](https://open.spotify.com/track/6S8qwbkB6VpeQFI7rsDbWO) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Welcome to My World](https://open.spotify.com/album/3MrG9jbcRu5CnJyqFRxwna) | 3:11 | 2023-12-26 | 2024-07-29 |
 | [Return To Me \(Ritorna\-Me\) \- 1997 Remaster](https://open.spotify.com/track/6YAgmqaeo8Fm3pne8OJEBo) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 2:24 | 2024-01-02 |  |
-| [Rio Bravo \- 1994 Remaster](https://open.spotify.com/track/5E0zvQknrvTFrmPnrwIoCl) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Lush Years](https://open.spotify.com/album/6kPcePhU1tNPObqUY0yDPQ) | 3:01 | 2024-03-18 |  |
+| [Rio Bravo \- 1994 Remaster](https://open.spotify.com/track/5E0zvQknrvTFrmPnrwIoCl) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Lush Years](https://open.spotify.com/album/6kPcePhU1tNPObqUY0yDPQ) | 3:01 | 2024-03-18 | 2025-09-18 |
 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2L9QLAhrvtP4EYg1lY0Tnw) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 2:15 | 2023-12-26 | 2023-12-30 |
 | [S'posin'](https://open.spotify.com/track/5zfRiEJa09MdiPeMHx07gi) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin TV Show](https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR) | 2:28 | 2023-12-26 | 2024-07-24 |
 | [Send Me the Pillow You Dream On](https://open.spotify.com/track/7hyuFoept7slNptV126UwW) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Essential Dean Martin](https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3) | 2:30 | 2023-12-29 | 2024-06-30 |
@@ -118,6 +118,7 @@
 | [Somewhere There's a Someone](https://open.spotify.com/track/6o6SjSnjl1uFjvAMDhmZ3H) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Somewhere There's a Someone](https://open.spotify.com/album/4xl7kIvmXiZCZ9UYQoluaH) | 2:14 | 2023-12-26 | 2025-01-27 |
 | [South of the Border](https://open.spotify.com/track/2Q87Wv1UylYPZ1yAH87ddv) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino Latino](https://open.spotify.com/album/2ws8PE4HE9e4IqWNBKGv5j) | 1:49 | 2023-12-26 | 2024-07-24 |
 | [Standing On The Corner](https://open.spotify.com/track/721c6myRkDcRFuPNrbhzXy) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 6 \(1955\-1956\)](https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6) | 2:51 | 2024-01-27 | 2024-06-16 |
+| [Standing On The Corner](https://open.spotify.com/track/0ZRNBYKLlqAUZxCJrkKA3I) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Sweet](https://open.spotify.com/artist/0F70W7YtLopmlP8S1BsbJl), [Ron Furmanek](https://open.spotify.com/artist/7LrLiL3hiy4IDwbWH29vnG) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:49 | 2025-09-18 |  |
 | [Sway \(Quien Sera\)](https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:42 | 2023-12-26 |  |
 | [Take Me In Your Arms \(Torna A Surriento\)](https://open.spotify.com/track/7h3NB9NiOkGZxAkui5F9HH) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 12 \(1961\)](https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh) | 2:41 | 2025-02-21 | 2025-05-16 |
 | [Take Me In Your Arms \(Torna A Surriento\) \- Remastered 1998](https://open.spotify.com/track/2hwkWcWEY664YUk6EEFccq) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italian Love Songs](https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10) | 2:39 | 2023-12-29 | 2025-09-04 |

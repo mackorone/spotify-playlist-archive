@@ -1,6 +1,6 @@
 {
   "description": "Super mega hits! Foto: Sabrina Carpenter",
-  "num_followers": 6675603,
+  "num_followers": 6675478,
   "original_name": "Pop Up",
   "owner": {
     "name": "Spotify",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-09-12 06:00:14",
       "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Mr. Eclectic",
+      "url": "https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5"
+    },
+    {
+      "added_at": "2025-09-12 06:00:14",
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 235328,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
-    },
-    {
-      "added_at": "2025-09-12 06:00:14",
-      "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Mr. Eclectic",
-      "url": "https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5"
     },
     {
       "added_at": "2025-09-12 06:00:14",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2025-09-12 06:00:14",
       "album": {
+        "name": "Gabriela (with Young Miko) [Young Miko Remix]",
+        "url": "https://open.spotify.com/album/787QaYqz3Cfh4XcM4EeEv1"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 198809,
+      "name": "Gabriela (with Young Miko) - Young Miko Remix",
+      "url": "https://open.spotify.com/track/31C7psknR5LicjpCqtH9aw"
+    },
+    {
+      "added_at": "2025-09-12 06:00:14",
+      "album": {
         "name": "Late Night Feelings",
         "url": "https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA"
       },
@@ -1327,26 +1347,6 @@
       "duration_ms": 189557,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe"
-    },
-    {
-      "added_at": "2025-09-12 06:00:14",
-      "album": {
-        "name": "Gabriela (with Young Miko) [Young Miko Remix]",
-        "url": "https://open.spotify.com/album/787QaYqz3Cfh4XcM4EeEv1"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 198809,
-      "name": "Gabriela (with Young Miko) - Young Miko Remix",
-      "url": "https://open.spotify.com/track/31C7psknR5LicjpCqtH9aw"
     },
     {
       "added_at": "2025-09-12 06:00:14",

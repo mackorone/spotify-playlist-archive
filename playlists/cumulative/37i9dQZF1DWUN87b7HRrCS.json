@@ -23,6 +23,42 @@
     },
     {
       "album": {
+        "name": "A heart in amber",
+        "url": "https://open.spotify.com/album/4LRDAV59yKImvrvSaUQcWf"
+      },
+      "artists": [
+        {
+          "name": "Xavier Mendoza",
+          "url": "https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229384,
+      "name": "A heart in amber",
+      "url": "https://open.spotify.com/track/1TyArzdihmZB650pUI7fxV"
+    },
+    {
+      "album": {
+        "name": "A High Romance",
+        "url": "https://open.spotify.com/album/68u4avv9rtgtmSXFCjpQOp"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195778,
+      "name": "A High Romance",
+      "url": "https://open.spotify.com/track/3vmReLMuSqDLBLtMQqIVSh"
+    },
+    {
+      "album": {
         "name": "A Little Brighter Every Day",
         "url": "https://open.spotify.com/album/46LYThMVZtZb45xNBQvqmp"
       },
@@ -52,7 +88,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 240072,
       "name": "Above the Clouds",
       "url": "https://open.spotify.com/track/3LScC8PsoWhfG3IvoQ0VoC"
@@ -92,6 +128,24 @@
       "duration_ms": 187993,
       "name": "Anita's Dream",
       "url": "https://open.spotify.com/track/6iTbkT0gcl0WglctFiCT2L"
+    },
+    {
+      "album": {
+        "name": "Ao Mar e ao Vento",
+        "url": "https://open.spotify.com/album/6eZpekST8g6b2qWWffKX5V"
+      },
+      "artists": [
+        {
+          "name": "Marcio Philomena",
+          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312716,
+      "name": "Ao Mar e ao Vento",
+      "url": "https://open.spotify.com/track/1ELY4E0azE57lSuw5K55YJ"
     },
     {
       "album": {
@@ -250,7 +304,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 206555,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/7Kh9w5XOJqykS2IpTdZC8X"
@@ -1200,7 +1254,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 378700,
       "name": "Medita\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4QdHwCmkuQuKfCuqK0VqOP"
@@ -1218,10 +1272,28 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 330546,
       "name": "Morning Of The Carnival - From \"Black Orpheus\"",
       "url": "https://open.spotify.com/track/6GQ6rapsknPIutGbpv0DTR"
+    },
+    {
+      "album": {
+        "name": "My one and only",
+        "url": "https://open.spotify.com/album/5amSqhspHPpgLi7zDxwDVm"
+      },
+      "artists": [
+        {
+          "name": "Dave Oakley trio",
+          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201624,
+      "name": "My one and only",
+      "url": "https://open.spotify.com/track/5yT0chfor6lWakOdSBcwYg"
     },
     {
       "album": {
@@ -1438,7 +1510,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 186050,
       "name": "Over the Rainbow",
       "url": "https://open.spotify.com/track/4oVtVfH5Byf8mRThHC8ZSb"
@@ -1564,7 +1636,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 199875,
       "name": "Rio",
       "url": "https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq"
@@ -1582,7 +1654,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 223895,
       "name": "Rio Lindo",
       "url": "https://open.spotify.com/track/3usSv5DQqZlulKLHRumXGH"
@@ -1636,7 +1708,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 186477,
       "name": "Seu Sorriso",
       "url": "https://open.spotify.com/track/4tQ8S7exeZTiZ1DAYWgchp"
@@ -1744,7 +1816,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 170418,
       "name": "Strangers in the Night",
       "url": "https://open.spotify.com/track/4oulAJLw1DSMKERkIQDFG8"

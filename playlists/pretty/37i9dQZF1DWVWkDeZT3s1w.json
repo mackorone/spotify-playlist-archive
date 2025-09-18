@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 115083,
+  "num_followers": 115124,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,18 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Tributos",
-        "url": "https://open.spotify.com/album/0dEUXKP7jRiyUDny8TbivE"
+        "name": "Ahora o Nunca",
+        "url": "https://open.spotify.com/album/3ZrgPlBW4UBF7iSww4ugqE"
       },
       "artists": [
         {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        },
-        {
-          "name": "TREN LOKOTE",
-          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
-        },
-        {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
         }
       ],
-      "duration_ms": 213097,
-      "name": "Tributos",
-      "url": "https://open.spotify.com/track/6QtAJqBqwwsbQBG0shnhQr"
+      "duration_ms": 373407,
+      "name": "En Defensa Propia",
+      "url": "https://open.spotify.com/track/1YGRyW2Yf0U48A621H1IZR"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -419,18 +411,26 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Ahora o Nunca",
-        "url": "https://open.spotify.com/album/3ZrgPlBW4UBF7iSww4ugqE"
+        "name": "Tributos",
+        "url": "https://open.spotify.com/album/0dEUXKP7jRiyUDny8TbivE"
       },
       "artists": [
         {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
         }
       ],
-      "duration_ms": 373407,
-      "name": "En Defensa Propia",
-      "url": "https://open.spotify.com/track/1YGRyW2Yf0U48A621H1IZR"
+      "duration_ms": 213097,
+      "name": "Tributos",
+      "url": "https://open.spotify.com/track/6QtAJqBqwwsbQBG0shnhQr"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Rap da Rap quita",
-        "url": "https://open.spotify.com/album/0jVsbiQY6WsG6Yr0SAa39P"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 289649,
-      "name": "Rap da Rap quita",
-      "url": "https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "La Caza de Nari\u00f1o",
         "url": "https://open.spotify.com/album/5hMkRwGOLJN3nQxJ4BkJwW"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 221590,
       "name": "La Caza de Nari\u00f1o",
       "url": "https://open.spotify.com/track/5MeIi5WpWhvCmRAqn0ODgm"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Rap da Rap quita",
+        "url": "https://open.spotify.com/album/0jVsbiQY6WsG6Yr0SAa39P"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 289649,
+      "name": "Rap da Rap quita",
+      "url": "https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -871,6 +871,26 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Tiempos Muertos",
+        "url": "https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV"
+      },
+      "artists": [
+        {
+          "name": "Elote el Barbaro",
+          "url": "https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m"
+        },
+        {
+          "name": "Sinful",
+          "url": "https://open.spotify.com/artist/0Pe4PWfk1dWblSMuxQbKt2"
+        }
+      ],
+      "duration_ms": 286673,
+      "name": "Esto Es M\u00e9xico",
+      "url": "https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Es La Hora",
         "url": "https://open.spotify.com/album/1ubaszU0AtWQL82uYKnaSo"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 284413,
       "name": "Ellas",
       "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Tiempos Muertos",
-        "url": "https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV"
-      },
-      "artists": [
-        {
-          "name": "Elote el Barbaro",
-          "url": "https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m"
-        },
-        {
-          "name": "Sinful",
-          "url": "https://open.spotify.com/artist/0Pe4PWfk1dWblSMuxQbKt2"
-        }
-      ],
-      "duration_ms": 286673,
-      "name": "Esto Es M\u00e9xico",
-      "url": "https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "El eslab\u00f3n perdido",
-        "url": "https://open.spotify.com/album/0cnmNoOmJCsRYTruZmE8oq"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        },
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
-        }
-      ],
-      "duration_ms": 213334,
-      "name": "El eslab\u00f3n perdido",
-      "url": "https://open.spotify.com/track/5oPhZx0Ap6kcJKBIfzzy6D"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Parlante",
         "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
       },
@@ -1063,6 +1039,30 @@
       "duration_ms": 261311,
       "name": "Parlante",
       "url": "https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "El eslab\u00f3n perdido",
+        "url": "https://open.spotify.com/album/0cnmNoOmJCsRYTruZmE8oq"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "duration_ms": 213334,
+      "name": "El eslab\u00f3n perdido",
+      "url": "https://open.spotify.com/track/5oPhZx0Ap6kcJKBIfzzy6D"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Helarte",
-        "url": "https://open.spotify.com/album/4bParJOMVqOcoVkDM3W4QT"
-      },
-      "artists": [
-        {
-          "name": "Lirika Inverza",
-          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
-        }
-      ],
-      "duration_ms": 203909,
-      "name": "Helarte",
-      "url": "https://open.spotify.com/track/3VwGYRjzfGkwOezZuuVk6a"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Pu\u00f1o en alto",
         "url": "https://open.spotify.com/album/1mkNZzRhNSzZ59g67slzGo"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 247350,
       "name": "Pu\u00f1o en alto",
       "url": "https://open.spotify.com/track/7LDGnBJMPWHDgK3cwg22Dt"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Helarte",
+        "url": "https://open.spotify.com/album/4bParJOMVqOcoVkDM3W4QT"
+      },
+      "artists": [
+        {
+          "name": "Lirika Inverza",
+          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
+        }
+      ],
+      "duration_ms": 203909,
+      "name": "Helarte",
+      "url": "https://open.spotify.com/track/3VwGYRjzfGkwOezZuuVk6a"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "P\u00f3lvora",
-        "url": "https://open.spotify.com/album/6wfXg2gEg4atcD1jNZrzUf"
-      },
-      "artists": [
-        {
-          "name": "Facto",
-          "url": "https://open.spotify.com/artist/74rJSaz1EmGYuS0WGZZ45m"
-        }
-      ],
-      "duration_ms": 204669,
-      "name": "Soy Pueblo",
-      "url": "https://open.spotify.com/track/6Q1FsZ9JLsKWHQVwMdwk71"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Escorpi\u00f3n",
         "url": "https://open.spotify.com/album/3U0wjZVkZ7qtblFGLIzqpA"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 172925,
       "name": "Escorpi\u00f3n",
       "url": "https://open.spotify.com/track/48djoywLHuEwUlOpZP1tMR"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "P\u00f3lvora",
+        "url": "https://open.spotify.com/album/6wfXg2gEg4atcD1jNZrzUf"
+      },
+      "artists": [
+        {
+          "name": "Facto",
+          "url": "https://open.spotify.com/artist/74rJSaz1EmGYuS0WGZZ45m"
+        }
+      ],
+      "duration_ms": 204669,
+      "name": "Soy Pueblo",
+      "url": "https://open.spotify.com/track/6Q1FsZ9JLsKWHQVwMdwk71"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Voy a Regresar (Escape Al Purgatorio)",
-        "url": "https://open.spotify.com/album/0N7bZyhtF57dxDalFrqh58"
-      },
-      "artists": [
-        {
-          "name": "Zaque",
-          "url": "https://open.spotify.com/artist/4WQmw3fIx9F7iPKL5v8SCN"
-        },
-        {
-          "name": "Doctor Destino",
-          "url": "https://open.spotify.com/artist/5urer15JPbCELf17LVia7w"
-        }
-      ],
-      "duration_ms": 189910,
-      "name": "Voy a Regresar",
-      "url": "https://open.spotify.com/track/270GICoYWe6CFgxU65c9OE"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "El rap es nuestra arma",
         "url": "https://open.spotify.com/album/0Ec1q2ql5Xi4SdtWO7YKh4"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 229761,
       "name": "El rap es nuestra arma",
       "url": "https://open.spotify.com/track/61lOmoS69aWS1N3wGReWm1"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Voy a Regresar (Escape Al Purgatorio)",
+        "url": "https://open.spotify.com/album/0N7bZyhtF57dxDalFrqh58"
+      },
+      "artists": [
+        {
+          "name": "Zaque",
+          "url": "https://open.spotify.com/artist/4WQmw3fIx9F7iPKL5v8SCN"
+        },
+        {
+          "name": "Doctor Destino",
+          "url": "https://open.spotify.com/artist/5urer15JPbCELf17LVia7w"
+        }
+      ],
+      "duration_ms": 189910,
+      "name": "Voy a Regresar",
+      "url": "https://open.spotify.com/track/270GICoYWe6CFgxU65c9OE"
     },
     {
       "added_at": "2025-05-23 06:00:30",

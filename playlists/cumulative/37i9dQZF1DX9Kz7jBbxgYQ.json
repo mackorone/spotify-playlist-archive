@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Home to the best of South Asian Indie scene. Cover: Osho Jain",
+  "description": "Home to the best of South Asian Indie scene. Cover: Bhoomi",
   "name": "Desi Indie",
   "tracks": [
     {
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 103264,
       "name": "Chaand Baaliyan",
       "url": "https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ"
@@ -1847,6 +1847,28 @@
     },
     {
       "album": {
+        "name": "Don't Even Text",
+        "url": "https://open.spotify.com/album/0pfQ6IPkE1tcpRoBtuDgDb"
+      },
+      "artists": [
+        {
+          "name": "Tsumyoki",
+          "url": "https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X"
+        },
+        {
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179644,
+      "name": "Don't Even Text",
+      "url": "https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Wanna Love",
         "url": "https://open.spotify.com/album/4BrAHxQqfEIoYLiPf8Y9q4"
       },
@@ -2232,6 +2254,24 @@
       "duration_ms": 255122,
       "name": "Filhaal",
       "url": "https://open.spotify.com/track/0PNU96DGl5PRswbstQgbtv"
+    },
+    {
+      "album": {
+        "name": "Fiqr Na Karo",
+        "url": "https://open.spotify.com/album/7B5gIstmMrODjIn32kUFVO"
+      },
+      "artists": [
+        {
+          "name": "Omar Mukhtar",
+          "url": "https://open.spotify.com/artist/6FR7jutAadVl9LMNooryDl"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219642,
+      "name": "Fiqr Na Karo",
+      "url": "https://open.spotify.com/track/4LAS8j4UMbzX0hnZVUJDZ0"
     },
     {
       "album": {
@@ -5234,7 +5274,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 159046,
       "name": "Raabta",
       "url": "https://open.spotify.com/track/2nBdQVqfV2RFTSdcGfKsi7"
@@ -5785,6 +5825,32 @@
     },
     {
       "album": {
+        "name": "Safar",
+        "url": "https://open.spotify.com/album/7wCKJBWmGZv5vcP8PVWDVO"
+      },
+      "artists": [
+        {
+          "name": "Daniyaal Omar",
+          "url": "https://open.spotify.com/artist/2GbKYLI5CCtuGpz1tdubYz"
+        },
+        {
+          "name": "Seventean",
+          "url": "https://open.spotify.com/artist/1KbWZUNoYa35zBcd7LjbRd"
+        },
+        {
+          "name": "sherry",
+          "url": "https://open.spotify.com/artist/4132g724ofm2OxQ9oJmnQC"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139206,
+      "name": "Safar",
+      "url": "https://open.spotify.com/track/4Y7lsapW6wDDj2NzugnW9h"
+    },
+    {
+      "album": {
         "name": "Ved",
         "url": "https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ"
       },
@@ -5862,6 +5928,32 @@
       "duration_ms": 157124,
       "name": "Sajna",
       "url": "https://open.spotify.com/track/7mLEqVKAkMow4vAlNUtwET"
+    },
+    {
+      "album": {
+        "name": "Sajna",
+        "url": "https://open.spotify.com/album/2orPTOnSyTuUHEl0yXMnlJ"
+      },
+      "artists": [
+        {
+          "name": "Rabi Ahmed",
+          "url": "https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn"
+        },
+        {
+          "name": "Syed Hamza",
+          "url": "https://open.spotify.com/artist/4aszTEWKdtIPcvzJjlfnoQ"
+        },
+        {
+          "name": "Aalehaider Gillani",
+          "url": "https://open.spotify.com/artist/36oQ9VCIlkevaIa1Mi6hmA"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Sajna",
+      "url": "https://open.spotify.com/track/5vzPyTGOFaQ0g225aWoR1A"
     },
     {
       "album": {
@@ -6034,7 +6126,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 270000,
       "name": "Shikayat",
       "url": "https://open.spotify.com/track/7e2dvR0ySx1bBJRDxVJiG1"
@@ -6314,7 +6406,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 186393,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK"

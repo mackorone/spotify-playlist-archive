@@ -1391,6 +1391,24 @@
     },
     {
       "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/7lpHxatfVtKuYAvxYdzeUZ"
+      },
+      "artists": [
+        {
+          "name": "Loun",
+          "url": "https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Capitaine",
+      "url": "https://open.spotify.com/track/33wWROHqj5ffAYKq7rzFDM"
+    },
+    {
+      "album": {
         "name": "Casablanca",
         "url": "https://open.spotify.com/album/39TxiVIpZwVtntKtxdenwr"
       },

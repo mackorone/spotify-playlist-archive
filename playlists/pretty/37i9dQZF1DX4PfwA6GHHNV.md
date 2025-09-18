@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,915 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,921 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 53 | [Quem Me Guia](https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq) | [Amorim](https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Quem Me Guia](https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq) | 2:29 |
 | 54 | [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 |
 | 55 | [Brinca Comigo](https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd) | [RUBY](https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Atitude](https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ) | 3:05 |
-| 56 | [Tobogã](https://open.spotify.com/track/44iMcueuRgLXnR1VfjXxcl) | [Renegado](https://open.spotify.com/artist/1ZiH9dJVo1p8NrvJd7SL7f), [PMM](https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J) | [Tobogã](https://open.spotify.com/album/6K65JC2hkUGVCUIDRgkzzD) | 2:46 |
-| 57 | [RELACIONAMENTO SOLO](https://open.spotify.com/track/3LwmbuHvt9rsiGsppCcW80) | [SOMOS](https://open.spotify.com/artist/4RirWYVQPhtDNNwW5hmhuP), [6ta](https://open.spotify.com/artist/1gUxxusVwo7SHvLBVytGWj), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL), [Avila Beatz](https://open.spotify.com/artist/7xUdVOv7jgGkwdfMlvxaRf) | [RELACIONAMENTO SOLO](https://open.spotify.com/album/5fx7lMvfcNgCs4oEwSW63o) | 2:35 |
+| 56 | [RELACIONAMENTO SOLO](https://open.spotify.com/track/3LwmbuHvt9rsiGsppCcW80) | [SOMOS](https://open.spotify.com/artist/4RirWYVQPhtDNNwW5hmhuP), [6ta](https://open.spotify.com/artist/1gUxxusVwo7SHvLBVytGWj), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL), [Avila Beatz](https://open.spotify.com/artist/7xUdVOv7jgGkwdfMlvxaRf) | [RELACIONAMENTO SOLO](https://open.spotify.com/album/5fx7lMvfcNgCs4oEwSW63o) | 2:35 |
+| 57 | [Tobogã](https://open.spotify.com/track/44iMcueuRgLXnR1VfjXxcl) | [Renegado](https://open.spotify.com/artist/1ZiH9dJVo1p8NrvJd7SL7f), [PMM](https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J) | [Tobogã](https://open.spotify.com/album/6K65JC2hkUGVCUIDRgkzzD) | 2:46 |
 | 58 | [Gingado](https://open.spotify.com/track/2f1WwFtdxF8QoJBetGSwq2) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv), [DIMELLABS](https://open.spotify.com/artist/3jhKiT3Vs47GPa03YxJyG9) | [Gingado](https://open.spotify.com/album/3FEL97ooyFfpzxruDM6HBI) | 2:27 |
 | 59 | [TocToc](https://open.spotify.com/track/452FBQWeQfbivI4APRWld6) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [TocToc](https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT) | 2:35 |
 | 60 | [Natureza](https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Natureza](https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd) | 2:24 |

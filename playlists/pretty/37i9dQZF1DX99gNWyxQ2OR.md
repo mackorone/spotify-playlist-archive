@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99gNWyxQ2OR.md) - [plain]
 
 > A complete collection of Chopin's Nocturnes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,189 likes - 21 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,210 likes - 21 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

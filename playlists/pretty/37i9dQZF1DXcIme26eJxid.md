@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > Afropop Classics to get you in the 90s mood ahead of My Father’s Shadow’s Nigerian debut\. Curated by the film’s writer, Grammy\-winning executive Wale Davies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,898 likes - 50 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,936 likes - 50 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

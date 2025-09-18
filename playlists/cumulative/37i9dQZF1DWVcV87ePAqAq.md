@@ -4,7 +4,7 @@
 
 > Ränta på ränta..\. 💸
 
-556 songs - 1 day 6 hr 43 min
+557 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-12-31 | 2023-06-09 |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-12-20 | 2024-05-29 |
 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 | 2022-01-03 | 2022-11-14 |
+| [SVAG](https://open.spotify.com/track/7pgA4UVutmW2hktzYZXNuM) | [Kenneth Svensson](https://open.spotify.com/artist/4ChUBIVdqsR82ZDAjdUvy6) | [SVAG](https://open.spotify.com/album/4qbumWkGdvo6HlNReuongj) | 2:02 | 2025-09-17 |  |
 | [SVÄRMORSDRÖM \(feat\. Anis Don Demina\) \- Remix](https://open.spotify.com/track/0QSrDkVDmQVdhGNtNBtOYW) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT), [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [SVÄRMORSDRÖM \(feat\. Anis Don Demina\) \[Remix\]](https://open.spotify.com/album/3c2ZeqVjzpw9RdnWKDWMJH) | 3:02 | 2020-12-31 | 2022-07-29 |
 | [Sweet but Psycho \- Morgan Page Dance Remix](https://open.spotify.com/track/7nbVbGjifh0m2fhPYqcI1R) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Sweet but Psycho \(Remixes\)](https://open.spotify.com/album/6pZkOJtEaENfW9IURljzSh) | 3:46 | 2020-12-31 | 2022-07-29 |
 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2022-01-03 | 2024-04-19 |

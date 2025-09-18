@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 435868,
+  "num_followers": 435994,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/3khKaLL2SaCzw9UyvsLh5u"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        }
+      ],
+      "duration_ms": 201235,
+      "name": "Sensation",
+      "url": "https://open.spotify.com/track/7bqTk1RRfajEw5fJf3CooS"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Pedro (W&W Remix)",
         "url": "https://open.spotify.com/album/0huIo0to4wsfiIKSCD9q3A"
       },
@@ -1195,42 +1211,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Sensation",
-        "url": "https://open.spotify.com/album/3khKaLL2SaCzw9UyvsLh5u"
-      },
-      "artists": [
-        {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
-        }
-      ],
-      "duration_ms": 201235,
-      "name": "Sensation",
-      "url": "https://open.spotify.com/track/7bqTk1RRfajEw5fJf3CooS"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "I Feel",
-        "url": "https://open.spotify.com/album/6ZaXuqLxGYtBJoKePPSnNb"
-      },
-      "artists": [
-        {
-          "name": "ZAPRAVKA",
-          "url": "https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 140468,
-      "name": "I Feel",
-      "url": "https://open.spotify.com/track/03neM3HWo29PTZ4OVVUyv3"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Day 'N' Nite",
         "url": "https://open.spotify.com/album/6dcsjHmG76mqILvU5tQVfa"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 133000,
       "name": "Day 'N' Nite",
       "url": "https://open.spotify.com/track/7t7OC0F1LpOFyRIJNgPkQo"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "I Feel",
+        "url": "https://open.spotify.com/album/6ZaXuqLxGYtBJoKePPSnNb"
+      },
+      "artists": [
+        {
+          "name": "ZAPRAVKA",
+          "url": "https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 140468,
+      "name": "I Feel",
+      "url": "https://open.spotify.com/track/03neM3HWo29PTZ4OVVUyv3"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Stumblin' In (Sonny Wern Remix)",
-        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Stumblin' In (Sonny Wern Remix)",
-      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "King Of My Castle",
         "url": "https://open.spotify.com/album/3hjLM01JbuC0E74QVJgnMx"
       },
@@ -1483,22 +1463,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1vrQiLeLfUNq4IshXfqg9R"
+        "name": "Stumblin' In (Sonny Wern Remix)",
+        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
       },
       "artists": [
         {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         },
         {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
         }
       ],
-      "duration_ms": 209032,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/34AodtfpGFMvlxpKFrNxvY"
+      "duration_ms": 152400,
+      "name": "Stumblin' In (Sonny Wern Remix)",
+      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1523,6 +1503,26 @@
       "duration_ms": 153311,
       "name": "Come On Baddie Let's Go Party",
       "url": "https://open.spotify.com/track/5xC5CWiHAlUyVmkVfhMhQ5"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1vrQiLeLfUNq4IshXfqg9R"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/34AodtfpGFMvlxpKFrNxvY"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Freaks (Dimitri Vegas & Like Mike Remix)",
         "url": "https://open.spotify.com/album/3aPnbfWk0xokbH2cyMHOaB"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 147998,
       "name": "Freaks - Dimitri Vegas & Like Mike Remix",
       "url": "https://open.spotify.com/track/6KSJc2F0ExJCTqU50Sxb0N"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        }
-      ],
-      "duration_ms": 176914,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Jerk It Out",
-        "url": "https://open.spotify.com/album/3h5YGKxwIHpALqFFYSH5BY"
-      },
-      "artists": [
-        {
-          "name": "ILYAA",
-          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Jerk It Out",
-      "url": "https://open.spotify.com/track/0HhCzdm7N8KCFpUurURQNA"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Hit The Road Jack",
         "url": "https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 126428,
       "name": "Hit The Road Jack",
       "url": "https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Jerk It Out",
+        "url": "https://open.spotify.com/album/3h5YGKxwIHpALqFFYSH5BY"
+      },
+      "artists": [
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Jerk It Out",
+      "url": "https://open.spotify.com/track/0HhCzdm7N8KCFpUurURQNA"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1895,6 +1895,46 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O"
+      },
+      "artists": [
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Stisema",
+          "url": "https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1"
+        },
+        {
+          "name": "Lulu Voxx",
+          "url": "https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu"
+        }
+      ],
+      "duration_ms": 168124,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
+      },
+      "artists": [
+        {
+          "name": "Bisken",
+          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
+        }
+      ],
+      "duration_ms": 134357,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/4GiMsN7yVRvaKAjbe0hlU2"
       },
@@ -1939,46 +1979,6 @@
       "duration_ms": 165569,
       "name": "Paint It Red",
       "url": "https://open.spotify.com/track/1I3YPOEyTzpPp3zlYfO99o"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O"
-      },
-      "artists": [
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        },
-        {
-          "name": "Stisema",
-          "url": "https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1"
-        },
-        {
-          "name": "Lulu Voxx",
-          "url": "https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu"
-        }
-      ],
-      "duration_ms": 168124,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
-      },
-      "artists": [
-        {
-          "name": "Bisken",
-          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
-        }
-      ],
-      "duration_ms": 134357,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
     },
     {
       "added_at": "2025-06-26 22:00:24",

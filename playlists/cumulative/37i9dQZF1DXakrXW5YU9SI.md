@@ -4,7 +4,7 @@
 
 > Powitaj jesień błogimi dźwiękami 🍂
 
-640 songs - 1 day 11 hr 49 min
+641 songs - 1 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Nerwy na bok](https://open.spotify.com/track/7ww82v6kviSjJC0h0WJxDS) | [Kuba Dąbrowski](https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP), [Bubito](https://open.spotify.com/artist/5tXbAvOKJtpBUoZxXHj6hz) | [Nerwy na bok](https://open.spotify.com/album/5rzD0h7tqcisv70yoZ2Tb7) | 2:26 | 2025-09-15 |  |
 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 | 2024-06-28 | 2024-09-13 |
 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 | 2025-02-28 | 2025-06-01 |
+| [Niby to wiem](https://open.spotify.com/track/1TGP53EWadwAcMCQDzUBL8) | [Marek Niedzielski](https://open.spotify.com/artist/3FSYJjsEavVFpzluaiqYoY), [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Niby to wiem](https://open.spotify.com/album/5NGVIouWnsDoi0kWFwpjOg) | 3:25 | 2025-09-15 |  |
 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-05-31 | 2025-09-16 |
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-06-28 | 2024-08-21 |
 | [Nie bolało](https://open.spotify.com/track/1RJfHolln7fiPAOBWleNFL) | [Klaudia Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Nie bolało](https://open.spotify.com/album/6iWtrne7gJQfcsmbtcmuPL) | 2:48 | 2025-02-21 | 2025-03-12 |
@@ -645,7 +646,7 @@
 | [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 | 2025-08-15 |  |
 | [Ćma](https://open.spotify.com/track/4TsUpBDBZQLGaSEjNrgCKX) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Ćma](https://open.spotify.com/album/0bmxGp8qMZcfKrKFR6wJMz) | 4:39 | 2025-01-17 | 2025-01-25 |
 | [Łza](https://open.spotify.com/track/4mCbpDFKxtGkCzWixh2rDE) | [Magda Kluz](https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ) | [Łza](https://open.spotify.com/album/0D35KRRYG1KJGwTG9iGSAT) | 3:53 | 2025-02-07 | 2025-03-15 |
-| [życzenie](https://open.spotify.com/track/3PJ5RijJmk106e25mnO9Bf) | [nath](https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd) | [życzenie](https://open.spotify.com/album/7cVVnDc6K2zR7ai2yon3f3) | 4:43 | 2025-09-15 |  |
+| [życzenie](https://open.spotify.com/track/3PJ5RijJmk106e25mnO9Bf) | [nath](https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd) | [życzenie](https://open.spotify.com/album/7cVVnDc6K2zR7ai2yon3f3) | 4:43 | 2025-09-15 | 2025-09-18 |
 | [⁠Godspeed](https://open.spotify.com/track/33u4P7aW3p8l6M14QvoJvo) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [3rd Rocket 666](https://open.spotify.com/album/04GxVH15zJEDngF4Qf5Wvs) | 4:01 | 2025-03-14 | 2025-03-29 |
 | [👩‍❤️‍👨](https://open.spotify.com/track/4wb0tiHtOUiEqhR4NKwSFp) | [Linia Nocna](https://open.spotify.com/artist/6ASsF4ZKpJlpeRF7HarDfe) | [👩‍❤️‍👨](https://open.spotify.com/album/5s9dplQwHJK8LmzepvzvvK) | 2:27 | 2025-06-09 | 2025-06-21 |
 

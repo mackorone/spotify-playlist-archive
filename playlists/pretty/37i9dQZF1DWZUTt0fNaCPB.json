@@ -1,6 +1,6 @@
 {
   "description": "No need for a gadget, just play these rock songs to set your pace!",
-  "num_followers": 1084632,
+  "num_followers": 1084757,
   "original_name": "Running to Rock 170-190 BPM",
   "owner": {
     "name": "Spotify",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-06-26 10:09:38",
       "album": {
-        "name": "The End Is Where We Begin",
-        "url": "https://open.spotify.com/album/4fSovBNtliN1OY3CXNDS16"
-      },
-      "artists": [
-        {
-          "name": "Thousand Foot Krutch",
-          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
-        }
-      ],
-      "duration_ms": 239626,
-      "name": "Light up the Sky",
-      "url": "https://open.spotify.com/track/0AY6XbTfRSk9wpCIQTnwc0"
-    },
-    {
-      "added_at": "2025-06-26 10:09:38",
-      "album": {
         "name": "Witch Hunt",
         "url": "https://open.spotify.com/album/4vvW52mcvUtJb2PvhbgtXl"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 218720,
       "name": "War Is Killing Us All",
       "url": "https://open.spotify.com/track/65b1ds24VRmAsCAWef8RgQ"
+    },
+    {
+      "added_at": "2025-06-26 10:09:38",
+      "album": {
+        "name": "The End Is Where We Begin",
+        "url": "https://open.spotify.com/album/4fSovBNtliN1OY3CXNDS16"
+      },
+      "artists": [
+        {
+          "name": "Thousand Foot Krutch",
+          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
+        }
+      ],
+      "duration_ms": 239626,
+      "name": "Light up the Sky",
+      "url": "https://open.spotify.com/track/0AY6XbTfRSk9wpCIQTnwc0"
     }
   ],
   "unique_name": "Running to Rock 170-190 BPM",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Terence Crawford
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Skylar Diggins
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,794,359 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,794,693 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 | 24 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 |
 | 25 | [Back To The South \(with Yo Gotti\)](https://open.spotify.com/track/0EzVPJ4VdIEthe8B3PE5LX) | [Zillionaire Doe](https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [Mr\. 14 Months](https://open.spotify.com/album/0iudlC6t3MrtmiKcYLechp) | 3:23 |
 | 26 | [OUTSIDE](https://open.spotify.com/track/22itRNJ0N4sB8RSeofp7pW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:03 |
-| 27 | [My Lil Shit](https://open.spotify.com/track/5Y5B4dGlIW8Z4P0fO3zclj) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [J Money](https://open.spotify.com/artist/6ma7eBrKihYrXcvdMNpnc5), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB), [Roscoe Dash](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb), [Lil Meany](https://open.spotify.com/artist/3YrPHrJdthXkJgMZaMzXOP) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:15 |
+| 27 | [My Lil Shit](https://open.spotify.com/track/5Y5B4dGlIW8Z4P0fO3zclj) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [J Money](https://open.spotify.com/artist/6ma7eBrKihYrXcvdMNpnc5), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB), [Roscoe Dash](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb), [Lil Meany](https://open.spotify.com/artist/3YrPHrJdthXkJgMZaMzXOP), [DJ Spinz](https://open.spotify.com/artist/7m4YY1JUSagIGuM9BL7KR1) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:15 |
 | 28 | [MM3](https://open.spotify.com/track/2D8i2yY8z3kB5gRaUJ5weK) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 2:54 |
 | 29 | [Mommanem](https://open.spotify.com/track/3WgFhZfyk5nb6v7hkwPmD4) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 1:15 |
 | 30 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 | 99 | [Back in Blood \(feat\. Lil Durk\)](https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Back In Blood \(feat\. Lil Durk\)](https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5) | 3:04 |
 | 100 | [Runnin](https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:15 |
 
-Snapshot ID: `AAAAAParNgk2UHs7NvImky3A6yRBNs0W`
+Snapshot ID: `AAAAALqGFQ2KyPyRP3zInJYn97d2t36r`

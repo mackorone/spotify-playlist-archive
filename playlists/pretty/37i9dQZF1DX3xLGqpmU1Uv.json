@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico! Alberto V\u00e1zquez en portada.",
-  "num_followers": 176110,
+  "num_followers": 176130,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/5vvanUaOWBi9JYjsh3X2I7"
-      },
-      "artists": [
-        {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
-        }
-      ],
-      "duration_ms": 158066,
-      "name": "Historia De Tommy",
-      "url": "https://open.spotify.com/track/6Uf7HlTnMIUzFpUpHikfl1"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Loco - Vintage Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 140026,
       "name": "Al Ritmo De La Lluvia",
       "url": "https://open.spotify.com/track/5TmvmwxsHSfDfdW0RptHE4"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5vvanUaOWBi9JYjsh3X2I7"
+      },
+      "artists": [
+        {
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "Historia De Tommy",
+      "url": "https://open.spotify.com/track/6Uf7HlTnMIUzFpUpHikfl1"
     },
     {
       "added_at": "2020-03-18 04:18:26",

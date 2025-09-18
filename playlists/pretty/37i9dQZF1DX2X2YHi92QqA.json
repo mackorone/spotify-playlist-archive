@@ -1,12 +1,12 @@
 {
   "description": "\u041c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u043f\u0440\u0438\u0454\u043c\u043d\u0438\u0445 \u043e\u0441\u0456\u043d\u043d\u0456\u0445 \u043f\u0440\u043e\u0433\u0443\u043b\u044f\u043d\u043e\u043a \ud83c\udf41",
-  "num_followers": 38117,
+  "num_followers": 38124,
   "original_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ1Y2nREVMuvvtKYfbjFL+E3SpI5",
+  "snapshot_id": "AAAAAGOpioEj28CKIPYKhXyvsUFzMiow",
   "tracks": [
     {
       "added_at": "2025-09-01 16:25:25",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-09-01 16:25:25",
       "album": {
+        "name": "One More Try",
+        "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 356000,
+      "name": "One More Try",
+      "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
+    },
+    {
+      "added_at": "2025-09-01 16:25:25",
+      "album": {
         "name": "LIFELINE",
         "url": "https://open.spotify.com/album/3kBuRWAR5eqO29Yr0tzkJi"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 231626,
       "name": "I DON'T WANNA FEEL THAT WAY",
       "url": "https://open.spotify.com/track/4Co67jPlW5wF3vW5gye8cO"
-    },
-    {
-      "added_at": "2025-09-01 16:25:25",
-      "album": {
-        "name": "One More Try",
-        "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 356000,
-      "name": "One More Try",
-      "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
     },
     {
       "added_at": "2025-09-01 16:25:25",
@@ -603,18 +603,18 @@
     {
       "added_at": "2025-09-01 16:25:25",
       "album": {
-        "name": "I think we should just move in together",
-        "url": "https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv"
+        "name": "Kava",
+        "url": "https://open.spotify.com/album/7q4ky8FehrlQeEV3llZN9D"
       },
       "artists": [
         {
-          "name": "Min Taka",
-          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
+          "name": "MamaRika",
+          "url": "https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS"
         }
       ],
-      "duration_ms": 245836,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr"
+      "duration_ms": 179142,
+      "name": "Kava",
+      "url": "https://open.spotify.com/track/2PqtiIAHQhZfOH5GTAonYt"
     },
     {
       "added_at": "2025-09-01 16:25:25",
@@ -635,18 +635,18 @@
     {
       "added_at": "2025-09-01 16:25:25",
       "album": {
-        "name": "Kava",
-        "url": "https://open.spotify.com/album/7q4ky8FehrlQeEV3llZN9D"
+        "name": "I think we should just move in together",
+        "url": "https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv"
       },
       "artists": [
         {
-          "name": "MamaRika",
-          "url": "https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS"
+          "name": "Min Taka",
+          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
         }
       ],
-      "duration_ms": 179142,
-      "name": "Kava",
-      "url": "https://open.spotify.com/track/2PqtiIAHQhZfOH5GTAonYt"
+      "duration_ms": 245836,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr"
     },
     {
       "added_at": "2025-09-01 16:25:25",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-09-01 16:25:25",
       "album": {
-        "name": "Nich",
-        "url": "https://open.spotify.com/album/5uZN4GeZekd1sUKcdHPh3r"
-      },
-      "artists": [
-        {
-          "name": "LATEXFAUNA",
-          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
-        }
-      ],
-      "duration_ms": 230660,
-      "name": "Nich",
-      "url": "https://open.spotify.com/track/1dfi1Jv98IN75RVmohHLil"
-    },
-    {
-      "added_at": "2025-09-01 16:25:25",
-      "album": {
         "name": "Sweetest Heart",
         "url": "https://open.spotify.com/album/3Kqj4em7mdF3fXF5CGe8xL"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2025-09-01 16:25:25",
       "album": {
+        "name": "Nich",
+        "url": "https://open.spotify.com/album/5uZN4GeZekd1sUKcdHPh3r"
+      },
+      "artists": [
+        {
+          "name": "LATEXFAUNA",
+          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
+        }
+      ],
+      "duration_ms": 230660,
+      "name": "Nich",
+      "url": "https://open.spotify.com/track/1dfi1Jv98IN75RVmohHLil"
+    },
+    {
+      "added_at": "2025-09-01 16:25:25",
+      "album": {
         "name": "The Table",
         "url": "https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 173952,
       "name": "The Table",
       "url": "https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv"
-    },
-    {
-      "added_at": "2025-09-01 16:25:25",
-      "album": {
-        "name": "WITHERED",
-        "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 195328,
-      "name": "Is This Really Love?",
-      "url": "https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ"
     },
     {
       "added_at": "2025-09-01 16:25:25",
@@ -755,18 +739,18 @@
     {
       "added_at": "2025-09-01 16:25:25",
       "album": {
-        "name": "Lucerna",
-        "url": "https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X"
+        "name": "WITHERED",
+        "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
       },
       "artists": [
         {
-          "name": "LATEXFAUNA",
-          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 376000,
-      "name": "Lucerna",
-      "url": "https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8"
+      "duration_ms": 195328,
+      "name": "Is This Really Love?",
+      "url": "https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ"
     },
     {
       "added_at": "2025-09-01 16:25:25",
@@ -783,6 +767,22 @@
       "duration_ms": 136956,
       "name": "\u041b\u0435\u0431\u0456\u0434\u043e\u043d\u044c\u043a\u043e",
       "url": "https://open.spotify.com/track/3jvcFXp201IwQ1hGpq0Xoj"
+    },
+    {
+      "added_at": "2025-09-01 16:25:25",
+      "album": {
+        "name": "Lucerna",
+        "url": "https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X"
+      },
+      "artists": [
+        {
+          "name": "LATEXFAUNA",
+          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
+        }
+      ],
+      "duration_ms": 376000,
+      "name": "Lucerna",
+      "url": "https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8"
     },
     {
       "added_at": "2025-09-01 16:25:25",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-09-01 16:25:25",
       "album": {
-        "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
-        "url": "https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf"
-      },
-      "artists": [
-        {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
-        }
-      ],
-      "duration_ms": 139805,
-      "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
-      "url": "https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC"
-    },
-    {
-      "added_at": "2025-09-01 16:25:25",
-      "album": {
         "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
         "url": "https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 210248,
       "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
       "url": "https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL"
+    },
+    {
+      "added_at": "2025-09-01 16:25:25",
+      "album": {
+        "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
+        "url": "https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+        }
+      ],
+      "duration_ms": 139805,
+      "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
+      "url": "https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC"
     },
     {
       "added_at": "2025-09-01 16:25:25",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-09-01 16:25:25",
       "album": {
-        "name": "\u042f\u043d\u0430\u043d\u0435\u0431\u0456\u0431\u0443\u0432",
-        "url": "https://open.spotify.com/album/6G88Fi3Xa2MGwUTjuS23oh"
-      },
-      "artists": [
-        {
-          "name": "Okean Elzy",
-          "url": "https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS"
-        }
-      ],
-      "duration_ms": 271670,
-      "name": "\u0421\u043e\u0441\u043d\u0438",
-      "url": "https://open.spotify.com/track/5KiGsTkfN86b6oEyzLJ0uS"
-    },
-    {
-      "added_at": "2025-09-01 16:25:25",
-      "album": {
         "name": "An Excuse / IF YOU DANCE AGAIN",
         "url": "https://open.spotify.com/album/7eaCbCjzOCvCOMh7aa8xsB"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 150123,
       "name": "An Excuse - Abbey Road Version",
       "url": "https://open.spotify.com/track/4HKyA6vXYh1gO1AEkJha7Y"
+    },
+    {
+      "added_at": "2025-09-01 16:25:25",
+      "album": {
+        "name": "\u042f\u043d\u0430\u043d\u0435\u0431\u0456\u0431\u0443\u0432",
+        "url": "https://open.spotify.com/album/6G88Fi3Xa2MGwUTjuS23oh"
+      },
+      "artists": [
+        {
+          "name": "Okean Elzy",
+          "url": "https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS"
+        }
+      ],
+      "duration_ms": 271670,
+      "name": "\u0421\u043e\u0441\u043d\u0438",
+      "url": "https://open.spotify.com/track/5KiGsTkfN86b6oEyzLJ0uS"
     },
     {
       "added_at": "2025-09-01 16:25:25",

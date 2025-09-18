@@ -4,7 +4,7 @@
 
 > The sound of spring.
 
-237 songs - 10 hr 21 min
+238 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,5 +245,6 @@
 | [Ámbar](https://open.spotify.com/track/7gScZspJ5A3DpEY8rWNiO3) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Monteverde](https://open.spotify.com/album/6e1VBFdJxZ1b7wKQCuw5XY) | 2:42 | 2025-03-11 |  |
 | [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 | 2025-03-11 | 2025-04-03 |
 | [Éclat de Brume](https://open.spotify.com/track/2AID3rEEd5Wd3Le09Ht6Gm) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Éclat de Brume](https://open.spotify.com/album/6O2UnhVcWDP22Nxy1fMcbG) | 2:40 | 2025-03-11 |  |
+| [Éveil](https://open.spotify.com/track/2brRgCl1LHEDuwMjFxp8s5) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Éveil](https://open.spotify.com/album/3A3g8Hg3Y2y42uG7BmDoft) | 2:54 | 2025-09-17 |  |
 
 \*This playlist was first scraped on 2025-03-12. Prior content cannot be recovered.

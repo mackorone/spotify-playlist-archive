@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Rock](https://open.spotify.com/playlist/37i9dQZF1DX78toxP7mOaJ)
 
-> Fresh rock & alternative from independent artists every Wednesday\. Cover: 9Million
+> Fresh rock & alternative from independent artists every Wednesday\. Cover: Liquid Mike
 
 2,094 songs - 4 day 19 hr 44 min
 

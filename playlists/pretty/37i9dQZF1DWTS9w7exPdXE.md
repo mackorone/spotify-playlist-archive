@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Volkspop \| Nederpop\. Cover: Yves Berendse
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,947 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,985 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 47 | [Drink Rode Wijn](https://open.spotify.com/track/4dfcAShEiezY5K2IP33iOn) | [Donny Ponsen](https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N) | [Drink Rode Wijn](https://open.spotify.com/album/2eUCtZLQrk8l2Js1bBQm3R) | 3:30 |
 | 48 | [Rosanne](https://open.spotify.com/track/2O3kmOZ0N8A3PtBW4DWqFm) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Vandaag](https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa) | 2:39 |
 | 49 | [Turk Uit De Kroeg](https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Turk Uit De Kroeg](https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9) | 3:12 |
-| 50 | [Hobbelen](https://open.spotify.com/track/5qFZg7EFHunqo78JB088TG) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Hobbelen](https://open.spotify.com/album/0smgsY2IM7sKhlOcH64Csg) | 3:03 |
-| 51 | [Sinds 1 Dag Of 2 \(32 Jaar\)](https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:20 |
-| 52 | [Gooi 'm Dicht](https://open.spotify.com/track/3OVqGh1AJlrjLThO3S6LAn) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Gooi 'm Dicht](https://open.spotify.com/album/1n3tJ1eFmoEtmV2fSRwLsN) | 2:32 |
-| 53 | [Een bom](https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Een bom](https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C) | 3:24 |
+| 50 | [Sinds 1 Dag Of 2 \(32 Jaar\)](https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:20 |
+| 51 | [Hobbelen](https://open.spotify.com/track/5qFZg7EFHunqo78JB088TG) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Hobbelen](https://open.spotify.com/album/0smgsY2IM7sKhlOcH64Csg) | 3:03 |
+| 52 | [Een bom](https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Een bom](https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C) | 3:24 |
+| 53 | [Gooi 'm Dicht](https://open.spotify.com/track/3OVqGh1AJlrjLThO3S6LAn) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Gooi 'm Dicht](https://open.spotify.com/album/1n3tJ1eFmoEtmV2fSRwLsN) | 2:32 |
 | 54 | [Stiekem Gedanst](https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [De Jonge Jaren van Toontje Lager \- 50 Jaar Nederpop](https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr) | 3:34 |
 | 55 | [In Spanje](https://open.spotify.com/track/4opSg2AR63oSBkys9zq2qb) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In Spanje](https://open.spotify.com/album/2ES5voKkNIQXKvjgyDhkV1) | 2:59 |
 | 56 | [Zwevend naar 't geluk](https://open.spotify.com/track/0DBCfqAcsiQAonBXMD50cA) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [De nieuwe van....](https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL) | 3:38 |

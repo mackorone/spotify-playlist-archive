@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 30079,
+  "num_followers": 30080,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAACo7APtMnr8j4Wa+YLJj9v3",
+  "snapshot_id": "aMiogAAAAAC76amOGcvuuZcm1aJwAaEH",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Big [Expanded]",
-        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 278160,
-      "name": "Anything For You - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/2QUeoJUK5KYn6P6medGcgM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lean Into It (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 229160,
       "name": "Just Take My Heart [Acoustic] - 2021 Remastered",
       "url": "https://open.spotify.com/track/3jlYHtyC4XxNgyjMzIFfDQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Big [Expanded]",
+        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 278160,
+      "name": "Anything For You - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/2QUeoJUK5KYn6P6medGcgM"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "...The Stories We Could Tell",
-        "url": "https://open.spotify.com/album/7n9ucIrj2GIE0VpLSU8Wpe"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 259293,
-      "name": "Just Let Your Heart Decide",
-      "url": "https://open.spotify.com/track/0kHY2RwiRyOvL0WX9C7Brn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr. Big (2023 Remastered)",
         "url": "https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 295472,
       "name": "Had Enough - 2023 Remastered",
       "url": "https://open.spotify.com/track/4bdJBbE17wBF9BRnaodYpk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...The Stories We Could Tell",
+        "url": "https://open.spotify.com/album/7n9ucIrj2GIE0VpLSU8Wpe"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 259293,
+      "name": "Just Let Your Heart Decide",
+      "url": "https://open.spotify.com/track/0kHY2RwiRyOvL0WX9C7Brn"
     },
     {
       "added_at": null,

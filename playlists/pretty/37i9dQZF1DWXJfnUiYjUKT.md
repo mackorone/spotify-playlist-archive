@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Ed Sheeran on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,971 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,006 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 39 | [RADIO \(feat\. Kim Petras\)](https://open.spotify.com/track/06kFuqzhMk4E6IYeO0sTfx) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [SISTER](https://open.spotify.com/album/6U7EWP2htJIkZny2Iv7mHG) | 3:10 |
 | 40 | [Throw Me Away](https://open.spotify.com/track/7A6rGStLPS34gMstMJdQ2Z) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Throw Me Away](https://open.spotify.com/album/4mLxcFr0NJyLtCOHQCFRGz) | 3:11 |
 | 41 | [JUICY](https://open.spotify.com/track/3SYa9xlmRsRB772x9y5GUz) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [JUICY](https://open.spotify.com/album/20F80R47bc7O1rlCHXPiiP) | 3:12 |
-| 42 | [DADE \(feat\. Key Glock\)](https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [DADE \(feat\. Key Glock\)](https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad) | 1:44 |
+| 42 | [DADE](https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [DADE](https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad) | 1:44 |
 | 43 | [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:30 |
 | 44 | [808 HYMN](https://open.spotify.com/track/3UaOcDgXZVFMopdWX8hukn) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [808 HYMN](https://open.spotify.com/album/6Br8z93mJODxZskiJ3GHZD) | 4:13 |
 | 45 | [Never the Same](https://open.spotify.com/track/3cICWi44Hk5tD3DL8Qf9N3) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Never the Same](https://open.spotify.com/album/5Tqy8bidgwF0uhWQ3TRgIm) | 3:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Merayakan 1000 artis RADAR dengan mendengarkan beberapa artis RADAR Indonesia yang paling banyak diputar\. Cover: Difki Khalif
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,327 likes - 55 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,332 likes - 55 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

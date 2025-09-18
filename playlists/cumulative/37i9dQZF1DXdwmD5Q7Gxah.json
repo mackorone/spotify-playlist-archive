@@ -25413,6 +25413,24 @@
     },
     {
       "album": {
+        "name": "Hey Mama",
+        "url": "https://open.spotify.com/album/47w1YxYuoIGR2yPJyLEsZI"
+      },
+      "artists": [
+        {
+          "name": "Jordan Patterson",
+          "url": "https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236823,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/1UjdWK2qSXojLOsDaYOhqS"
+    },
+    {
+      "album": {
         "name": "Hey Michael",
         "url": "https://open.spotify.com/album/28hQxdmFZYjRLEqeM5hZK0"
       },

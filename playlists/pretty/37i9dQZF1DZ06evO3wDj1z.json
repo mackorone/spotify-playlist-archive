@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 112970,
+  "num_followers": 112999,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAACc5pgnmiKSrqz+2Ud/4BT5",
+  "snapshot_id": "aMiogAAAAABDxtsy73YuVpVUMgGnOqAo",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Jefe De Las Plazas",
-        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 162626,
-      "name": "Me Gusta Tener de a Dos",
-      "url": "https://open.spotify.com/track/3cT2AiNvR5CtkBCXqhbB5A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1s Exitos Con El Shaka",
         "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 171240,
       "name": "Dos Botellas De Mezcal",
       "url": "https://open.spotify.com/track/02KpEs5nhST1mtxBfDnZIW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Jefe De Las Plazas",
+        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 162626,
+      "name": "Me Gusta Tener de a Dos",
+      "url": "https://open.spotify.com/track/3cT2AiNvR5CtkBCXqhbB5A"
     },
     {
       "added_at": null,

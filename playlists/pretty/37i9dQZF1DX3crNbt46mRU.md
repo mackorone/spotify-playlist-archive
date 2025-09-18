@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Ed Sheeran, Hecht, Damiano David and Tyla, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,449 likes - 120 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,448 likes - 120 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 111 | [Let You Know](https://open.spotify.com/track/609FRLY8f3c7CXqsloE09P) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Sonia Ammar](https://open.spotify.com/artist/73Xyd80Zdq5fZc0xyjkQtB) | [Let You Know](https://open.spotify.com/album/6V7GNffcfF3oOumBPNNqmv) | 3:39 |
 | 112 | [Gut fühlen](https://open.spotify.com/track/55kKBkrvzuvf5TP2PVY673) | [Sebastian Wurth](https://open.spotify.com/artist/5rj84X5CwWe6q0tTucTZoY), [Aisha Vibes](https://open.spotify.com/artist/7x6XwopgxWpVKTUiDSwRaN) | [Gut fühlen](https://open.spotify.com/album/1OgCrMpiR0aKjfX7HIQ0WQ) | 2:20 |
 | 113 | [Bennifer](https://open.spotify.com/track/5cjLocpjQsAo5hEZdfFoNM) | [Tabea](https://open.spotify.com/artist/2Ln4MnBIgYIjosyhXvgvW3) | [Bennifer](https://open.spotify.com/album/1G4hFd2VUqBiWalqfqOUu9) | 2:31 |
-| 114 | [DADE \(feat\. Key Glock\)](https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [DADE \(feat\. Key Glock\)](https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad) | 1:44 |
+| 114 | [DADE](https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [DADE](https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad) | 1:44 |
 | 115 | [Hass dass ich dich liebe](https://open.spotify.com/track/2xUOiUbM6veryw9G2JB004) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Hass dass ich dich liebe](https://open.spotify.com/album/4Ne4OqbQNEMGeRhOokIZVu) | 2:55 |
 | 116 | [REMIND ME](https://open.spotify.com/track/7hWVFCk6UZf8Pjywuemi6l) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [REMIND ME](https://open.spotify.com/album/5NZLWaWu9JYHR2Vqy5A1Zu) | 3:34 |
 | 117 | [Liebe & grauer Beton](https://open.spotify.com/track/2qb3DRefhHXRcgAt3a5GXT) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO), [Felix Averian](https://open.spotify.com/artist/5vAVNHQJI2uD7IVsoADd9V), [Aliea](https://open.spotify.com/artist/3lv6STCDkBHfeOXGQOeKJk) | [Liebe & grauer Beton](https://open.spotify.com/album/6qgXNbyS42JnfIGrdQzQ7N) | 2:32 |

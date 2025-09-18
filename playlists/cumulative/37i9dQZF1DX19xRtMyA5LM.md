@@ -4,11 +4,11 @@
 
 > De beste tracks in WS❗️Cover: Qlas
 
-129 songs - 5 hr 48 min
+130 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1+1 \(Outside\)](https://open.spotify.com/track/2MPWNU7QkwmBNAoHdYLYfW) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [1+1 \(Outside\)](https://open.spotify.com/album/0W9yMPmPSIwvjKDv5jPPPJ) | 2:38 | 2025-07-17 |  |
+| [1+1 \(Outside\)](https://open.spotify.com/track/2MPWNU7QkwmBNAoHdYLYfW) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [1+1 \(Outside\)](https://open.spotify.com/album/0W9yMPmPSIwvjKDv5jPPPJ) | 2:38 | 2025-07-17 | 2025-09-18 |
 | [100 Gedachtes](https://open.spotify.com/track/22nHlVHnWJ4LYcM2f2rEB4) | [Zarfani](https://open.spotify.com/artist/3jU0uVi2Njx9HZ59lSk3H1) | [100 Gedachtes](https://open.spotify.com/album/5J8oaMK1f14ZgZIgGDaRxl) | 2:28 | 2025-08-04 | 2025-08-29 |
 | [160](https://open.spotify.com/track/7tkhoPEvhqjPlh3TcKHqU9) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [160](https://open.spotify.com/album/44jKkRxDb0ldNyEDq6eoib) | 1:44 | 2025-08-21 |  |
 | [1942](https://open.spotify.com/track/2gS56EP8dsjqIZUvIqy5Tn) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [2019 \(DELUXE\)](https://open.spotify.com/album/25YWapebrhujpU387FLiR5) | 2:18 | 2025-07-17 | 2025-09-05 |
@@ -124,6 +124,7 @@
 | [Uomini d’Onore](https://open.spotify.com/track/6cpG23bMKBRor5ZPBTxIRS) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [Heinek'n](https://open.spotify.com/artist/5ed6V9Y0zJ86tgeKvgDRKo) | [Rozengeur & Bloedsporen](https://open.spotify.com/album/0YG1mRrVCLpN3EfLbrW2Og) | 2:54 | 2025-08-28 |  |
 | [Vdv](https://open.spotify.com/track/6qB66SFVZSTTWlWT8POSlM) | [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [RResstante](https://open.spotify.com/artist/2VBibXVmZwmvX8tn3maHMC), [Gettalot](https://open.spotify.com/artist/3Ah2w3vVoguN5RdBDeyXPc), [Fearblow](https://open.spotify.com/artist/35xHCzQHAXuCWut0PxO793) | [Noéden](https://open.spotify.com/album/1v80U9kA5nNBvJXlCQbEFW) | 3:31 | 2025-08-14 |  |
 | [Vertrouwen In Mij](https://open.spotify.com/track/5nZImbRFbiYuNZu8Zc3grD) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Rozengeur & Bloedsporen](https://open.spotify.com/album/0YG1mRrVCLpN3EfLbrW2Og) | 3:33 | 2025-08-28 |  |
+| [VIES WERK](https://open.spotify.com/track/5YXASMbz3rIxOO81oTk06V) | [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs) | [VIES WERK](https://open.spotify.com/album/7tsbtwIYLw9oiF3CeLagJw) | 2:40 | 2025-09-17 |  |
 | [Voetbalshirtjes](https://open.spotify.com/track/1Vi1s0DvH0BPPgJtIODbJO) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Voetbalshirtjes](https://open.spotify.com/album/6fDzSgKJAS7D0DVLPWv1fL) | 2:17 | 2025-07-17 | 2025-09-12 |
 | [Wat Als](https://open.spotify.com/track/3MH1FEbQMawB7jR0s6PCpv) | [WAWA](https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ) | [Wat Als](https://open.spotify.com/album/3B2CIvHGONdPbd8S9WrSwG) | 2:19 | 2025-08-07 | 2025-09-04 |
 | [Weinig Liefde](https://open.spotify.com/track/3t990TZlINj5GWoqxK3wBc) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Weinig Liefde](https://open.spotify.com/album/6RPr65uVZIIxuiB4powm3i) | 3:26 | 2025-07-17 |  |

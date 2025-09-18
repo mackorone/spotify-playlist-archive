@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-775 songs - 1 day 15 hr 5 min
+776 songs - 1 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-02-23 | 2023-05-02 |
 | [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-05-17 | 2023-07-05 |
 | [Champagne Coast](https://open.spotify.com/track/2kSGp5ZmO7u1Ine84Rx0w1) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Champagne Coast](https://open.spotify.com/album/4TsFGVDbd2kmlT1uLTsgeE) | 4:52 | 2024-07-10 | 2024-10-02 |
+| [Champion Sound](https://open.spotify.com/track/78W1WOxeqq3fRInVvotqEM) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Champion Sound](https://open.spotify.com/album/2ADEgzm7hG6TdXdNHBjLAo) | 2:40 | 2025-09-17 |  |
 | [Charger](https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [Franchement !](https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD) | 2:35 | 2025-08-09 |  |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-05-25 | 2023-06-27 |
 | [Chasing Highs](https://open.spotify.com/track/3GJjiToqnCxTm5rOaqoxdi) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Chasing Highs](https://open.spotify.com/album/1nF6jsEiGpdjS7gG3DPaIP) | 3:15 | 2023-04-14 | 2023-06-27 |

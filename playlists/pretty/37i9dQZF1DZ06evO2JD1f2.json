@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13004,
+  "num_followers": 13005,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAACD7Qb67vKOutjHqGHpBW6y",
+  "snapshot_id": "aMiogAAAAADImRCqzcGVGxnTx3xlRuJ+",
   "tracks": [
     {
       "added_at": null,
@@ -983,18 +983,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Aint Feeling You",
-        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
+        "name": "SNOFALL",
+        "url": "https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp"
       },
       "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 168607,
-      "name": "RIP LU MIKE",
-      "url": "https://open.spotify.com/track/2fTtulLDfS5WnNiZmcumit"
+      "duration_ms": 204791,
+      "name": "Scarface (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/59JNRew95Gmn4wSfqdf1kR"
     }
   ],
   "unique_name": "This Is EST Gee",

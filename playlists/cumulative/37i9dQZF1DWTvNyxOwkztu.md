@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-331 songs - 18 hr 20 min
+332 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Don't Tell Me I Can't Have It](https://open.spotify.com/track/7DdrHlmyfDmAibdAbEdYIu) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [Don't Tell Me I Can't Have It](https://open.spotify.com/album/4YyslwvTvE2qpL1zXdNrUx) | 3:07 | 2022-05-20 |  |
 | [Don't Worry](https://open.spotify.com/track/1a6r66Fc1mvkgQ4A2XP5Mk) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Don't Worry](https://open.spotify.com/album/3GJxRhegDoOkFd727RlTS1) | 2:24 | 2022-05-20 |  |
 | [Don't Worry](https://open.spotify.com/track/1nOwt0eXrd8z2i2Q7Hqjdc) | [XIXI](https://open.spotify.com/artist/6hkvnjLeIb4gSHy3GImvqw), [Hildur Ottilia](https://open.spotify.com/artist/1H2le59U6mjpcoQwuZrmFk) | [Don't Worry](https://open.spotify.com/album/1JY1js3AQi74qUZhqG6xrL) | 3:15 | 2023-06-30 |  |
-| [Dont Let Go](https://open.spotify.com/track/2eglgMpfZEmWjq8fGNd3SF) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Dont Let Go](https://open.spotify.com/album/6q3wkxd0NSe2S34P1DplUV) | 3:24 | 2025-02-07 |  |
+| [Dont Let Go](https://open.spotify.com/track/2eglgMpfZEmWjq8fGNd3SF) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Dont Let Go](https://open.spotify.com/album/6q3wkxd0NSe2S34P1DplUV) | 3:24 | 2025-02-07 | 2025-09-18 |
 | [Don’t Worry](https://open.spotify.com/track/3velQ2xk4VMEb5No5W3bkQ) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Don’t Worry](https://open.spotify.com/album/2UZuAyYd1pTF1puvlQ2W4c) | 4:36 | 2021-12-09 | 2023-02-18 |
 | [Doubts](https://open.spotify.com/track/10Iafk2IS4TyUsfP4C4kPE) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Down Here with You](https://open.spotify.com/album/6WqF77ilKp8ui2RlGIYmAp) | 3:15 | 2021-12-09 | 2022-02-27 |
 | [Dreams](https://open.spotify.com/track/2HcHfWexQZ2UcjIvpZbxVI) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Dreams](https://open.spotify.com/album/61e2gK909Y2JMapY2jPw1b) | 3:27 | 2023-08-25 |  |
@@ -159,6 +159,7 @@
 | [Last Forever](https://open.spotify.com/track/6jt9ksqmpgggBsIj5pVZNd) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Not from Here](https://open.spotify.com/album/3wltnpCzev9PmIK5aQmDhv) | 4:14 | 2021-12-09 | 2022-05-21 |
 | [lazy days](https://open.spotify.com/track/5fJoCtqF88ahLix2iwAHtz) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [lazy days](https://open.spotify.com/album/7kVqLYOuteo8X1RFyGdHEC) | 2:04 | 2022-05-20 | 2025-04-16 |
 | [Lemonade](https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [In The Sun](https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5) | 4:04 | 2022-10-07 |  |
+| [Let the Kids Play](https://open.spotify.com/track/5hH8EqncZlJc60QrImkJXW) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Let the Kids Play](https://open.spotify.com/album/4QshFT2fLj004RTZjDRCWr) | 3:52 | 2025-08-22 |  |
 | [Levante](https://open.spotify.com/track/35ME0Y7EEMKJ4nSM4SPhAX) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Hidden Treasures EP](https://open.spotify.com/album/1AG7es9vgkIopCWbFtQYpn) | 3:13 | 2021-12-09 | 2023-02-18 |
 | [Liftoff](https://open.spotify.com/track/3uTGlHyPwijzXFQoMaROt1) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [Liftoff](https://open.spotify.com/album/0mpEDy0wUtGHbe5lj5nYIv) | 3:25 | 2021-12-09 |  |
 | [Lightwave](https://open.spotify.com/track/06s5vykBOEzheEyLq0AZms) | [Farves](https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB) | [Lightwave](https://open.spotify.com/album/2iJ0fDXeOSlhh7hmmCj1Ux) | 3:36 | 2022-09-12 | 2025-04-06 |

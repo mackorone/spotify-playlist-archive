@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 
 > The Official EA SPORTS F1 23 Soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,230 likes - 34 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,240 likes - 34 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 | 25 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 |
 | 26 | [Transport God](https://open.spotify.com/track/5pthouxnG0MLtbjmJvZ42v) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [GENESIS](https://open.spotify.com/album/2y3ZfgrrqOtkexvBjGa49v) | 2:12 |
 | 27 | [Immortal](https://open.spotify.com/track/4CtHOVGGI0CXmow1DnhaVL) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Immortal](https://open.spotify.com/album/31sFjiahDnYKKsPdDcqCSv) | 4:08 |
-| 28 | [Everything Is Possible](https://open.spotify.com/track/7ochZrmegW0e3z8Qi3YezJ) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [Everything Is Possible](https://open.spotify.com/album/1ltvtcDxdR5Ehzl7UVQoJB) | 5:15 |
-| 29 | [We've Got A Good Thing Going](https://open.spotify.com/track/47FUHv5KRr4nQ1xyJoTNZR) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [We've Got A Good Thing Going](https://open.spotify.com/album/6EXOECUag8jXX4iJIu4mJ5) | 5:01 |
-| 30 | [Oceans](https://open.spotify.com/track/2H28Hbm2ScwDoWdsbHUsNB) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [Oceans](https://open.spotify.com/album/5momdt5jI4owNpsBqNhfwm) | 4:53 |
+| 28 | [Oceans](https://open.spotify.com/track/2H28Hbm2ScwDoWdsbHUsNB) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [Oceans](https://open.spotify.com/album/5momdt5jI4owNpsBqNhfwm) | 4:53 |
+| 29 | [Everything Is Possible](https://open.spotify.com/track/7ochZrmegW0e3z8Qi3YezJ) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [Everything Is Possible](https://open.spotify.com/album/1ltvtcDxdR5Ehzl7UVQoJB) | 5:15 |
+| 30 | [We've Got A Good Thing Going](https://open.spotify.com/track/47FUHv5KRr4nQ1xyJoTNZR) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [We've Got A Good Thing Going](https://open.spotify.com/album/6EXOECUag8jXX4iJIu4mJ5) | 5:01 |
 | 31 | [If You Like That](https://open.spotify.com/track/39u52p0pgk76Ukq3e0c815) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl) | [If You Like That](https://open.spotify.com/album/7s5tZT1opeQmfuy5s9XZhm) | 4:34 |
 | 32 | [Real Talk \(Boys Noize Remix\)](https://open.spotify.com/track/2Z9NWTkvE7dDFDpWhCY3bQ) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Real Talk \(Boys Noize Remix\)](https://open.spotify.com/album/71qWeuLd6mu03o55lvJPKH) | 6:45 |
 | 33 | [Freefall](https://open.spotify.com/track/0j8FwkrQI4y15CEaO9CzeA) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Freefall](https://open.spotify.com/album/6u7ORvdJdUwg9VTvAy3gtX) | 3:44 |

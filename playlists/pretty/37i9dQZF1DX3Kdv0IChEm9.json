@@ -1,6 +1,6 @@
 {
   "description": "100% cl\u00e1ssicos.",
-  "num_followers": 468231,
+  "num_followers": 468389,
   "original_name": "EDM Hits",
   "owner": {
     "name": "Spotify",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 242680,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/3tyPOhuVnt5zd5kGfxbCyL"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
         "name": "The Beginning (Deluxe)",
         "url": "https://open.spotify.com/album/0BkpKcHw606at6Y2cp8kdE"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 238120,
       "name": "Sonnentanz - Sun Don't Shine",
       "url": "https://open.spotify.com/track/6Qi0Wls2EaolwPMPMxfe5f"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 242680,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/3tyPOhuVnt5zd5kGfxbCyL"
     }
   ],
   "unique_name": "EDM Hits",

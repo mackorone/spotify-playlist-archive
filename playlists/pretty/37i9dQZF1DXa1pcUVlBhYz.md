@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Shimza & Kasango
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,878 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,884 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 8 | [Intersexy \(Thakzin Remix\)](https://open.spotify.com/track/3mUpLs4JexPKtrd8l5rLz6) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Intersexy \(Thakzin Remix\)](https://open.spotify.com/album/6cbI8L2XkSCYwFa8j8wyj7) | 6:24 |
 | 9 | [Celebration \(feat\. Dawn Richard\)](https://open.spotify.com/track/723J8TT1MrywSg66aIqZio) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 2:50 |
 | 10 | [Sinking](https://open.spotify.com/track/5NE89y5Vvr2KQDqSzY5Rtj) | [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Tides](https://open.spotify.com/album/0oyMJfhMIKJHK3PXJDmugB) | 4:38 |
-| 11 | [Isaka \(6am\)](https://open.spotify.com/track/7c5uGV9Rys18JP2570ykTu) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Jazzworx](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [Isaka \(6am\)](https://open.spotify.com/album/3r5uZvE4Cxt6bDibCl6qKY) | 5:49 |
+| 11 | [Isaka \(6am\)](https://open.spotify.com/track/7c5uGV9Rys18JP2570ykTu) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [Isaka \(6am\)](https://open.spotify.com/album/3r5uZvE4Cxt6bDibCl6qKY) | 5:49 |
 | 12 | [With You](https://open.spotify.com/track/2niEmkDmcR2T0ch2qPPoLm) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [With You](https://open.spotify.com/album/1STaSLMAgjTvXuQTOqyvEw) | 3:21 |
 | 13 | [Stimulation](https://open.spotify.com/track/3EKDfS52GYH6mXT7pyo1JV) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Stimulation](https://open.spotify.com/album/28CIkCFWMObaWeO4KQ3lfb) | 4:46 |
 | 14 | [Aria](https://open.spotify.com/track/2bBvkqFf4jFssDHYOxDUrU) | [Ehua](https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50) | [Panta Rei](https://open.spotify.com/album/3yQacbQfDovjruUyUy7BN4) | 4:45 |

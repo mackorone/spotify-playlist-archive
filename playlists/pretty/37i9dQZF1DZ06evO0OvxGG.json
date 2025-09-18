@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 8235,
+  "num_followers": 8239,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAACiSRjhvAO5lsCZ7Qs8uRRl",
+  "snapshot_id": "aMiogAAAAACXP5UYioT2pn5bWCMyk4HQ",
   "tracks": [
     {
       "added_at": null,
@@ -239,30 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "8KG",
-        "url": "https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c"
-      },
-      "artists": [
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "8KG",
-      "url": "https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ascens\u00e3o do Cisne Negro",
         "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
       },
@@ -283,6 +259,30 @@
       "duration_ms": 206869,
       "name": "Show Lotado",
       "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "8KG",
+        "url": "https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c"
+      },
+      "artists": [
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 132923,
+      "name": "8KG",
+      "url": "https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malvatrem (Deluxe)",
-        "url": "https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "A Jogada Que \u00c9 Foda",
-      "url": "https://open.spotify.com/track/4StZobTljFrwK85NRxkBHg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cosmo e Wanda",
         "url": "https://open.spotify.com/album/4e7KAQn2VK5U9452GKBay5"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 132710,
       "name": "Cosmo e Wanda",
       "url": "https://open.spotify.com/track/2AZFs8hGLEC00btCoKQGFb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Malvatrem (Deluxe)",
+        "url": "https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "A Jogada Que \u00c9 Foda",
+      "url": "https://open.spotify.com/track/4StZobTljFrwK85NRxkBHg"
     },
     {
       "added_at": null,
@@ -915,6 +915,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MONTE RUSH+",
+        "url": "https://open.spotify.com/album/3Diovb4bH559HziAhlI21P"
+      },
+      "artists": [
+        {
+          "name": "Big Rush",
+          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 135521,
+      "name": "O PAPO",
+      "url": "https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malvatrem (Deluxe)",
         "url": "https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 168000,
       "name": "Preso na Minha BCT",
       "url": "https://open.spotify.com/track/0LeAkijREFI8nnHK2xIQ5H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MONTE RUSH+",
-        "url": "https://open.spotify.com/album/3Diovb4bH559HziAhlI21P"
-      },
-      "artists": [
-        {
-          "name": "Big Rush",
-          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 135521,
-      "name": "O PAPO",
-      "url": "https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n"
     },
     {
       "added_at": null,

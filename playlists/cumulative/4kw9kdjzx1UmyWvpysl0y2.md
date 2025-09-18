@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,072 songs - 2 day 12 hr 1 min
+1,073 songs - 2 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -735,6 +735,7 @@
 | [Pump](https://open.spotify.com/track/0wdmg7VuwWNWnRkDWOh27n) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Pump](https://open.spotify.com/album/3LocwBHPnRIn9FFkDLMQ9d) | 4:24 | 2023-08-14 | 2023-12-14 |
 | [Purple](https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Purple](https://open.spotify.com/album/1TYUytf3KP39fBUe4ZS4pl) | 3:09 | 2021-12-03 | 2022-03-10 |
 | [Pursuit of Violence](https://open.spotify.com/track/05bArpM2cVvDXOSr3sWFxK) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Pursuit of Violence](https://open.spotify.com/album/4wFX3JgcI39B2i6TcdYvfL) | 3:53 | 2023-03-14 | 2023-06-06 |
+| [PUSH IT WAY DOWN LOW](https://open.spotify.com/track/7AysNgZyzTipff4Q3H73mp) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf) | [PUSH IT WAY DOWN LOW](https://open.spotify.com/album/7AYJtErrIsURUYDlNyX7Z4) | 3:16 | 2025-09-17 |  |
 | [Pyroclastic](https://open.spotify.com/track/1xcPjGqDvj0ftzVficnBbB) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Pyroclastic](https://open.spotify.com/album/2fMKtEJt9BgUGbX5J00F39) | 3:28 | 2024-07-22 | 2024-10-12 |
 | [Quantum Level](https://open.spotify.com/track/61Td1mc3CdLhIyMwXblkSU) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Prismatic](https://open.spotify.com/artist/2W8zVw5vOEFKRz9k5GIZZl) | [Quantum Level](https://open.spotify.com/album/7AQLiKBitTPJ9f8VrYYQxE) | 3:38 | 2023-05-08 | 2023-08-01 |
 | [Quick Highs](https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Quick Highs](https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf) | 3:14 | 2023-06-01 | 2023-08-28 |

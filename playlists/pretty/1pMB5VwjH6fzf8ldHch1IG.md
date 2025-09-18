@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Miley Cyrus.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 44,615 likes - 99 songs - 5 hr 31 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 44,610 likes - 99 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 12 | [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 |
 | 13 | [Gyatt](https://open.spotify.com/track/6cpRVsxxwB04HEnOGddGCc) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gyatt](https://open.spotify.com/album/49uUL66idnoxmSuv2l6mRs) | 2:17 |
 | 14 | [Spaces](https://open.spotify.com/track/1r4gQdNHdAJfUpREI0ywiu) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Spaces](https://open.spotify.com/album/4PRxkv5xFKdjAp2CNPmgct) | 3:00 |
-| 15 | [DADE \(feat\. Key Glock\)](https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [DADE \(feat\. Key Glock\)](https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad) | 1:44 |
+| 15 | [DADE](https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [DADE](https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad) | 1:44 |
 | 16 | [We Don't Talk Anymore](https://open.spotify.com/track/741BHlTeSVBReJdfUdKlRk) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [WORDPLAY](https://open.spotify.com/album/1ZT00C99V2fm1qOMWTe9kg) | 2:16 |
 | 17 | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF) | 4:44 |
 | 18 | [Chrome Jets](https://open.spotify.com/track/5a0SxmltHNs5PaRTUAAYLZ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Chrome Jets](https://open.spotify.com/album/5CXyWQG2ke7GBv0ftgVaCf) | 3:36 |
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 93 | [EAST LA](https://open.spotify.com/track/6eyQ5jBuxqfmpiGcdRodz7) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Taboo](https://open.spotify.com/artist/6WirJzihzKTGyw7mgEdJUP) | [EAST LA](https://open.spotify.com/album/0wS3yObH7Sip3fko2HsFEa) | 3:22 |
 | 94 | [Make U Rain](https://open.spotify.com/track/4pA6ntYrnklWGbtnsDuVV5) | [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Make U Rain](https://open.spotify.com/album/3tn2G0phZYmENZNRRwoK3b) | 2:44 |
 | 95 | [Guilty](https://open.spotify.com/track/7Egrl7aItjwVKNrWua5lM2) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [SHY2K](https://open.spotify.com/album/5idFFAYK8aZ15scmZFtk9n) | 2:39 |
-| 96 | [Carried Away \(feat\. Night Lovell\)](https://open.spotify.com/track/1IWDzlzjmhKZQp3dqXfv6W) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 3:43 |
+| 96 | [Carried Away](https://open.spotify.com/track/1IWDzlzjmhKZQp3dqXfv6W) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 3:43 |
 | 97 | [Reach](https://open.spotify.com/track/3BnfPpuiZYueTDASS6UE7o) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Reach](https://open.spotify.com/album/1Il2gSQNo91NycABId7xbg) | 2:53 |
 | 98 | [be a bitch](https://open.spotify.com/track/2nTvToMkyC8w9HySV4W7uU) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [be a bitch](https://open.spotify.com/album/26TVH1aBTaZG5TQURy09Wl) | 3:04 |
 | 99 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 |

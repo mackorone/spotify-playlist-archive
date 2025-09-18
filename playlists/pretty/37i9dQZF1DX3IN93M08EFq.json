@@ -1,6 +1,6 @@
 {
   "description": "De b\u00e4sta indiel\u00e5tarna - klassiker som Dansa Fast\u00e4n, Shoreline och Helgen v. 48! ",
-  "num_followers": 73929,
+  "num_followers": 73931,
   "original_name": "Indieklassiker",
   "owner": {
     "name": "Spotify",
@@ -537,6 +537,22 @@
       "url": "https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c"
     },
     {
+      "added_at": "2025-08-07 09:58:34",
+      "album": {
+        "name": "Verkligen",
+        "url": "https://open.spotify.com/album/07hoph1012FbhlIwkUYqTy"
+      },
+      "artists": [
+        {
+          "name": "kent",
+          "url": "https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "Kr\u00e4m (s\u00e5 n\u00e4ra f\u00e5r ingen g\u00e5)",
+      "url": "https://open.spotify.com/track/6mwzXxkU8SLbIcOCqCVuOg"
+    },
+    {
       "added_at": "2024-06-24 11:47:22",
       "album": {
         "name": "The Sound of the Smiths (Deluxe; 2008 Remaster)",
@@ -555,22 +571,6 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Music Machine",
-        "url": "https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW"
-      },
-      "artists": [
-        {
-          "name": "Melody Club",
-          "url": "https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Electric",
-      "url": "https://open.spotify.com/track/2AvS4Rk5G6jPAhZwytyF20"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
         "name": "Johnossi",
         "url": "https://open.spotify.com/album/79mwxuh2n3TUVp0lGfSoec"
       },
@@ -585,20 +585,20 @@
       "url": "https://open.spotify.com/track/7FxmsmphMyy09gdqGHeqFC"
     },
     {
-      "added_at": "2025-08-07 09:58:34",
+      "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Verkligen",
-        "url": "https://open.spotify.com/album/07hoph1012FbhlIwkUYqTy"
+        "name": "Music Machine",
+        "url": "https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW"
       },
       "artists": [
         {
-          "name": "kent",
-          "url": "https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX"
+          "name": "Melody Club",
+          "url": "https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS"
         }
       ],
-      "duration_ms": 161666,
-      "name": "Kr\u00e4m (s\u00e5 n\u00e4ra f\u00e5r ingen g\u00e5)",
-      "url": "https://open.spotify.com/track/6mwzXxkU8SLbIcOCqCVuOg"
+      "duration_ms": 238826,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/2AvS4Rk5G6jPAhZwytyF20"
     },
     {
       "added_at": "2024-06-24 11:47:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 
 > PH vibin' cover: Elhé
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,561 likes - 93 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,596 likes - 93 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

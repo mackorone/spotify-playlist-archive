@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ฉลอง 1,000 ศิลปิน RADAR กับ 10 ศิลปิน RADAR ประเทศไทยที่มียอดสตรีมสูงที่สุด ปก: Saran
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,319 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,323 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 47 | [ข้าแค่โดนทิ้ง](https://open.spotify.com/track/5lsiqvhJAKZhKnkziGDnze) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [ข้าแค่โดนทิ้ง](https://open.spotify.com/album/0tphmBmP9MPznrZ7goOBud) | 5:37 |
 | 48 | [คอลเซนเตอร์](https://open.spotify.com/track/5B31ax059orLDjMmt23z4L) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr) | [คอลเซนเตอร์](https://open.spotify.com/album/0DXPpVfsFRMBpSWNtHNRvb) | 4:23 |
 | 49 | [G.A.Y o\(T^T\)o](https://open.spotify.com/track/30p0jzv4DZf1gOIHOvBlRh) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [G.A.Y o\(T^T\)o](https://open.spotify.com/album/1tonE5HqMUp6oTqQtUWuaI) | 3:47 |
-| 50 | [หยอกไม่หลอก \(TRICK OR TREAT\) \[feat\. Chrrissa\]](https://open.spotify.com/track/6Lo9GFEQ1IsbTHXWza3xyp) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj), [Chrrissa](https://open.spotify.com/artist/3HbdAO1uUXLMo1FRXJWdYt) | [หยอกไม่หลอก \(TRICK OR TREAT\)](https://open.spotify.com/album/64CbnizNQ4vrBgzTUrw11J) | 3:37 |
+| 50 | [หยอกไม่หลอก \(TRICK OR TREAT\) \[feat\. Chrrissa\]](https://open.spotify.com/track/6Lo9GFEQ1IsbTHXWza3xyp) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj), [Chrrissa](https://open.spotify.com/artist/3HbdAO1uUXLMo1FRXJWdYt) | [หยอกไม่หลอก \(TRICK OR TREAT\) \[feat\. Chrrissa\]](https://open.spotify.com/album/64CbnizNQ4vrBgzTUrw11J) | 3:37 |
 
 Snapshot ID: `AAAAABYW/SfkF6DJy/JJ51TKv05j5kxD`

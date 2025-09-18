@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai 🍹 and festoon yourself with lei 🌺, welcome to the Hawaiian party! 🌴🥭🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,802 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,818 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 47 | [I Get a Kick Out of You](https://open.spotify.com/track/4ZGiNag9e8bNZ1fqXuvnDB) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Siboney \(Lounge Serie\)](https://open.spotify.com/album/5lCKCcAibWfuXzKpV9vi2x) | 2:39 |
 | 48 | [La Mar](https://open.spotify.com/track/1Z4aOyNZmQ95yBRzPWgFJ3) | [Eden Ahbez](https://open.spotify.com/artist/10uwDZEuXM1HzOeDlrybCS) | [Eden's Island \(Remastered\)](https://open.spotify.com/album/1zEXjYvmffHT5H3YMnR88Q) | 2:45 |
 | 49 | [Xtabay \- Remastered](https://open.spotify.com/track/2Zfjoj9ywSckX4682KRbWj) | [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d) | [The Best of Yma Sumac \(All Tracks Remastered 2014\)](https://open.spotify.com/album/7rwOSPANcz14uwehdWCwsF) | 3:21 |
-| 50 | [Baia](https://open.spotify.com/track/1INMAZPPXvgdWjKuHqDU8P) | [Ferrante & Teicher](https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB) | [Soundproof](https://open.spotify.com/album/0TmGdwZXnFFgDpVFk0FGtY) | 2:47 |
-| 51 | [Conjuration](https://open.spotify.com/track/09VEnlRzGS48WD5TCHzQqj) | [Richard Hayman & His Orchestra](https://open.spotify.com/artist/6rUa5Spu1A7O98MketkcX7) | [Voodoo!](https://open.spotify.com/album/4BDEbzbpRICKqfIqHZVdNq) | 2:22 |
+| 50 | [Conjuration](https://open.spotify.com/track/09VEnlRzGS48WD5TCHzQqj) | [Richard Hayman & His Orchestra](https://open.spotify.com/artist/6rUa5Spu1A7O98MketkcX7) | [Voodoo!](https://open.spotify.com/album/4BDEbzbpRICKqfIqHZVdNq) | 2:22 |
+| 51 | [Baia](https://open.spotify.com/track/1INMAZPPXvgdWjKuHqDU8P) | [Ferrante & Teicher](https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB) | [Soundproof](https://open.spotify.com/album/0TmGdwZXnFFgDpVFk0FGtY) | 2:47 |
 | 52 | [Mombasa Love Song](https://open.spotify.com/track/5PggdfNnUPNg7nwGZSBNiw) | [Tak Shindo](https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR) | [MGANGA!](https://open.spotify.com/album/15jEM8o3CyVez6n1I0dERU) | 2:40 |
 | 53 | [Tropicando](https://open.spotify.com/track/46SMRZqsnGNdyGPhlcFFWb) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR), [101 Strings Orchestra](https://open.spotify.com/artist/1sLpCr5xThZkGHLw4H0mNE) | [Que Mango! Arranged and Conducted by Les Baxter \(Remastered from the Original Master Tapes\)](https://open.spotify.com/album/7GPc0QmiMhM3c3nUuBIpfO) | 2:37 |
 | 54 | [Hilawe](https://open.spotify.com/track/3JfdX5DBjXvMdQd55Ipq4s) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Hawaiian Sunset](https://open.spotify.com/album/0krfVkBvqQxmQXAXOFeuwg) | 1:11 |

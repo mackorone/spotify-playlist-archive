@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7fz7UPTxns39Xp8gj9zoIB">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-178 songs - 10 hr 18 min
+179 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [GIRL ON TV](https://open.spotify.com/track/2EPLg9fa4HKsBzuVR5Hwhn) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 3:12 | 2022-09-08 |  |
 | [Give It Time](https://open.spotify.com/track/5FoziGnQmXWy3tm87PVTbb) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Sideways](https://open.spotify.com/album/5XsAy9Iqc4HVotx800ojMA) | 3:10 | 2022-09-08 |  |
 | [good](https://open.spotify.com/track/6kuR6cGKmGoplhELslv6Fw) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:28 | 2022-09-08 |  |
+| [Handsome](https://open.spotify.com/track/2GIddrm2ihwIyNIXTbGL3B) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Handsome](https://open.spotify.com/album/75L3Tq36JRPGF4z86UhVUw) | 3:45 | 2025-09-17 |  |
 | [happier](https://open.spotify.com/track/5Imv22PbpWHLDlcetv2EUd) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [happier](https://open.spotify.com/album/07Bqqi7M1ck2JR6TllJf9P) | 2:46 | 2023-05-06 | 2023-12-14 |
 | [happier](https://open.spotify.com/track/74NifIdrs0PP1jb4ze0gQ6) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 2:46 | 2023-12-13 |  |
 | [happy people](https://open.spotify.com/track/2d1yL0MZkW1RjB09NHSYXG) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one of those happy people](https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h) | 3:12 | 2022-09-08 |  |

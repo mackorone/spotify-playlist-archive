@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: DJ Koze, Dirk von Lowtzow
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,873 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,847 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 71 | [New Earth Time](https://open.spotify.com/track/6B9FH9oGQkjAlmaBkYfVr5) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [New Earth Time](https://open.spotify.com/album/7q9XglyVKCywFzOcnd1aZz) | 4:05 |
 | 72 | [I could sleep all day](https://open.spotify.com/track/1vHRM4eM40KpwwPYBGK0l4) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga), [BEACHPEOPLE](https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba) | [I could sleep all day](https://open.spotify.com/album/3JzdvkvRMqpDRsU4ElKLmJ) | 1:49 |
 | 73 | [Greasy off the Racing Line](https://open.spotify.com/track/6Cpdq6s6JahxwEwLYaIyyB) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alison Mosshart](https://open.spotify.com/artist/5rexG906fVLfq8H9m8J9P9) | [Greasy off the Racing Line](https://open.spotify.com/album/7gEMU3rkf8kSz86naYCB67) | 4:09 |
-| 74 | [Refresh](https://open.spotify.com/track/3vB73MV91lZgfHQ8DztNuC) | [Sebastien Tellier](https://open.spotify.com/artist/0QBfQi4T3cDGYCY8sWNBxe) | [Refresh](https://open.spotify.com/album/1jJIpGlUoeQzMPWm95KOj4) | 2:35 |
+| 74 | [Refresh](https://open.spotify.com/track/3vB73MV91lZgfHQ8DztNuC) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Refresh](https://open.spotify.com/album/1jJIpGlUoeQzMPWm95KOj4) | 2:35 |
 | 75 | [Onions](https://open.spotify.com/track/6R1NQXv3yXEMNmEoq3oV5w) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Onions](https://open.spotify.com/album/2QbGDADifKwU9DlKwQvK6I) | 3:08 |
 
 Snapshot ID: `AAAAAIfKW4axQizGIwv5eYAkbMeqxiBO`

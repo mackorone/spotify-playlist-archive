@@ -1,12 +1,12 @@
 {
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 10044,
+  "num_followers": 10054,
   "original_name": "This Is El Potro De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAAAuJiH5gXXo2jOUYxFIsQQM",
+  "snapshot_id": "aMiogAAAAACz5Ec9C4k2vgyAEs5tNH9B",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
         }
       ],
-      "duration_ms": 158058,
-      "name": "El Mochomo - En Vivo",
-      "url": "https://open.spotify.com/track/7dBU9jVoGHCwkEPPzZur9X"
+      "duration_ms": 203406,
+      "name": "Julio Beltran - En Vivo",
+      "url": "https://open.spotify.com/track/3qoBcxY8TgV2Xmmqo5TxxP"
     },
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
         }
       ],
-      "duration_ms": 203406,
-      "name": "Julio Beltran - En Vivo",
-      "url": "https://open.spotify.com/track/3qoBcxY8TgV2Xmmqo5TxxP"
+      "duration_ms": 158058,
+      "name": "El Mochomo - En Vivo",
+      "url": "https://open.spotify.com/track/7dBU9jVoGHCwkEPPzZur9X"
     },
     {
       "added_at": null,
@@ -383,18 +383,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9jame Vac\u00edo",
-        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
+        "name": "Desde el Rancho Bella Vista",
+        "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
       },
       "artists": [
+        {
+          "name": "Inteligencia Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs"
+        },
         {
           "name": "El Potro De Sinaloa",
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 228320,
-      "name": "El Inicio...",
-      "url": "https://open.spotify.com/track/4Cc8CxUVyq0ZjXy6gH8vKx"
+      "duration_ms": 230038,
+      "name": "Ni el Dinero Ni Nada",
+      "url": "https://open.spotify.com/track/0YiNEnEmLo3gHc7w2USFua"
     },
     {
       "added_at": null,
@@ -415,22 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde el Rancho Bella Vista",
-        "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
+        "name": "D\u00e9jame Vac\u00edo",
+        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
       },
       "artists": [
-        {
-          "name": "Inteligencia Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs"
-        },
         {
           "name": "El Potro De Sinaloa",
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 230038,
-      "name": "Ni el Dinero Ni Nada",
-      "url": "https://open.spotify.com/track/0YiNEnEmLo3gHc7w2USFua"
+      "duration_ms": 228320,
+      "name": "El Inicio...",
+      "url": "https://open.spotify.com/track/4Cc8CxUVyq0ZjXy6gH8vKx"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "Por Que No Vienes",
-      "url": "https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Comandante Fuentes",
         "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 140053,
       "name": "La Compra y Venta",
       "url": "https://open.spotify.com/track/5uPapq4kYFFP7V1oa5XW4P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "Por Que No Vienes",
+      "url": "https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Maz Poderoso",
-        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "Que No Se Apague la Lumbre",
-      "url": "https://open.spotify.com/track/5Bwet1Stw98vVFi2kNX5uZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Comandante Fuentes",
         "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 162771,
       "name": "Gilberto Palomares",
       "url": "https://open.spotify.com/track/23QiV1ksBzed9MjGleEiI4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Maz Poderoso",
+        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "Que No Se Apague la Lumbre",
+      "url": "https://open.spotify.com/track/5Bwet1Stw98vVFi2kNX5uZ"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Maz Poderoso",
-        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 129533,
-      "name": "Como en la Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/3BrZrZ62yBViYCnKnDp5mh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Que Anda en El Dorado (En Vivo)",
         "url": "https://open.spotify.com/album/2qmSpNf0jhi2QqWqpPgbaw"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 148077,
       "name": "El Que Anda en El Dorado (En Vivo)",
       "url": "https://open.spotify.com/track/7C2fQc583vpxolfKfQLLyj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Maz Poderoso",
+        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 129533,
+      "name": "Como en la Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/3BrZrZ62yBViYCnKnDp5mh"
     },
     {
       "added_at": null,
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 224960,
-      "name": "El Ni\u00f1o Sabio",
-      "url": "https://open.spotify.com/track/10R5cUV5ba5FcjbnMgPlo0"
+      "duration_ms": 186586,
+      "name": "La Captura Del Zar",
+      "url": "https://open.spotify.com/track/4UzgvxcaLDMM6iujVVHb3m"
     }
   ],
   "unique_name": "This Is El Potro De Sinaloa",

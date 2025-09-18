@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 962,335 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 962,391 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 15 | [GHOST\. \(feat\. Samara Cyn\)](https://open.spotify.com/track/1RukMhDhOQ1lsAWfriPZB0) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [GHOST.](https://open.spotify.com/album/5ef38pXWigK1RHZ4SHEjyP) | 2:10 |
 | 16 | [CLOVER](https://open.spotify.com/track/0ceAnr7yV1CO6Hseca0vrB) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [CLOVER](https://open.spotify.com/album/5Qd57v5SWaP70VXJBzmu1j) | 3:10 |
 | 17 | [FRIENDLY FIRE \(with Jadagrace and SWIM\)](https://open.spotify.com/track/7EefaTBcP8s9qH7JvEXwoR) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [FRIENDLY FIRE](https://open.spotify.com/album/51Sff7vFg9shG3eRSRPE50) | 3:11 |
-| 18 | [Carried Away \(feat\. Night Lovell\)](https://open.spotify.com/track/1IWDzlzjmhKZQp3dqXfv6W) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 3:43 |
+| 18 | [Carried Away](https://open.spotify.com/track/1IWDzlzjmhKZQp3dqXfv6W) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 3:43 |
 | 19 | [Wyl' Out](https://open.spotify.com/track/5o3iFDr3syIS8juM2YCkqI) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Wyl' Out](https://open.spotify.com/album/3ZOKbLPlNuv498mbhe14r6) | 2:53 |
 | 20 | [PRESS + DELETE](https://open.spotify.com/track/5l3dbOAZpjGR14bxQ3F00a) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [PRESS + DELETE](https://open.spotify.com/album/2tWpQ1C6DzSnCJjGbQfoVi) | 1:53 |
 | 21 | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6) | 3:56 |

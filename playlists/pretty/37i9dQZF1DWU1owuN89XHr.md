@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,315 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,335 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 64 | [Causa y Efecto](https://open.spotify.com/track/0AnYxf8QJBHahyMdltizf5) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Metamorfosis](https://open.spotify.com/album/3g67KVzMF8xAhy8ZuzZqJ6) | 4:56 |
 | 65 | [Loco por Ti](https://open.spotify.com/track/4c2ZX1OHkLS0XEaxTShO8S) | [Buena Fe](https://open.spotify.com/artist/0vq2EzqxetHZj0NtymUtXm), [Frank Delgado](https://open.spotify.com/artist/7bvO23YLnJxN5KcU5r6EhR) | [Extremistas Nobles](https://open.spotify.com/album/5AB2RcRU1wt8mnwAOfhXDe) | 4:14 |
 | 66 | [Entre Pairos y Derivas](https://open.spotify.com/track/2oUT6iRSQM4cdDE1pMse6h) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Entre Pairos y Derivas](https://open.spotify.com/album/0Dm8kFxZeLSQNTOcF4ZCIQ) | 4:16 |
-| 67 | [Una Palabra](https://open.spotify.com/track/4OdjDo0fQUNDYWvxsHqLdi) | [Carlos Varela](https://open.spotify.com/artist/2KVT6XgP2vgdUat355J7hy) | [Sounds of Havana, Vol\. 1](https://open.spotify.com/album/6LAgHUV1qLh2jQUyK3AGbU) | 2:30 |
-| 68 | [Lo Niego Todo](https://open.spotify.com/track/4OpjKvt0ZXA117dqzOrV1y) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Lo Niego Todo](https://open.spotify.com/album/5hkq8Af2XQd5wYSQwscjOs) | 4:42 |
+| 67 | [Lo Niego Todo](https://open.spotify.com/track/4OpjKvt0ZXA117dqzOrV1y) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Lo Niego Todo](https://open.spotify.com/album/5hkq8Af2XQd5wYSQwscjOs) | 4:42 |
+| 68 | [Una Palabra](https://open.spotify.com/track/4OdjDo0fQUNDYWvxsHqLdi) | [Carlos Varela](https://open.spotify.com/artist/2KVT6XgP2vgdUat355J7hy) | [Sounds of Havana, Vol\. 1](https://open.spotify.com/album/6LAgHUV1qLh2jQUyK3AGbU) | 2:30 |
 | 69 | [Todo Cambia](https://open.spotify.com/track/4ZOomo8OwEczYXh0I9qOGU) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Será Posible El Sur?](https://open.spotify.com/album/2U6CJqnFntxEWLSLBoeCs1) | 4:50 |
 | 70 | [Yolanda](https://open.spotify.com/track/2FtwxY4ZIzqkIX3EQn9sC4) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Amo Esta Isla](https://open.spotify.com/album/7jvAtbqVoxKAS9vR7vr4qG) | 4:38 |
 | 71 | [Espectro](https://open.spotify.com/track/4JtwqHO8budsBHlr9XRWUH) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm), [Joe Demikeli](https://open.spotify.com/artist/6eTKdlYtVBJQbwdsgsxm1J) | [Más Alto](https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG) | 4:19 |

@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-324 songs - 14 hr 44 min
+326 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Atlantis](https://open.spotify.com/track/48ONVlzVpQiJNY3oHM7dud) | [Clarence Öfwerman](https://open.spotify.com/artist/58c41fbN8x9viByYPYSdSc) | [Atlantis](https://open.spotify.com/album/47KJxUttlgxLOPkxmAqTYK) | 2:55 | 2020-10-20\* | 2022-01-08 |
 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 | 2020-10-20\* |  |
 | [Barcarolle](https://open.spotify.com/track/5BHPZXzyqpVDsUhzzf7nTS) | [Niccolò Pagliani](https://open.spotify.com/artist/59yX2grILnPdqDdLnYhKJE) | [Continuo](https://open.spotify.com/album/6J9zqyjrncN68DgTubHoGr) | 2:20 | 2020-10-20\* | 2021-10-21 |
+| [Beaten Paths](https://open.spotify.com/track/6qZSqd0f69P0Rgu7QNkVyr) | [Andrew Mays](https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I) | [Beaten Paths](https://open.spotify.com/album/1P2EE6grDABLYOioo7VP5w) | 2:23 | 2025-09-17 |  |
 | [Before Leaving](https://open.spotify.com/track/0ulkiXChe3pH4UMxuTvXje) | [Gradient Layer](https://open.spotify.com/artist/5ySNkmwfljYELipELJjQyl) | [A Lonesome Place](https://open.spotify.com/album/7hEdNZe2UtuKl1rzBwSq9R) | 1:55 | 2020-10-20\* | 2023-09-09 |
 | [Believe](https://open.spotify.com/track/3F58fYdt8S9jHUUPnziTpC) | [Pederosa Calafiori](https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq) | [Believe](https://open.spotify.com/album/5Q2CIcPYsX3hI0EpVMFXGb) | 2:36 | 2025-04-09 |  |
 | [Benevolent](https://open.spotify.com/track/6PySB4GoTTMKXhH4Ksaugj) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [These Steady Hands](https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP) | 3:08 | 2020-10-20\* | 2023-09-09 |
@@ -332,5 +333,6 @@
 | [Years Gone By](https://open.spotify.com/track/4Wh4CEwY02vdiErroICrIS) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [Years Gone By](https://open.spotify.com/album/0ms9pTEwVNrZ2lu3Cd1ago) | 2:36 | 2024-03-20 |  |
 | [You Would Know](https://open.spotify.com/track/6pzQ42eg8TJSNRXR6eoeUs) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [You Would Know](https://open.spotify.com/album/3KdHdkUYvDI4FIJ9A80c4q) | 2:09 | 2023-09-08 |  |
 | [Your Life Is A Gift](https://open.spotify.com/track/1uqi6DUdiGg0cYseMqEpYL) | [Elliot Adasik](https://open.spotify.com/artist/0ygQ1CuZpZqv6dsdnIl3wL) | [Piano & Strings Lullabies](https://open.spotify.com/album/3jLuR1qxmo4vODeJJOVWH4) | 2:01 | 2020-10-20\* | 2023-09-09 |
+| [Éveil](https://open.spotify.com/track/2brRgCl1LHEDuwMjFxp8s5) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Éveil](https://open.spotify.com/album/3A3g8Hg3Y2y42uG7BmDoft) | 2:54 | 2025-09-17 |  |
 
 \*This playlist was first scraped on 2020-10-20. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-344 songs - 14 hr 6 min
+346 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Calas de Roche](https://open.spotify.com/track/4PdjQqQIf7S5MYE044XugT) | [Paco Ruiz](https://open.spotify.com/artist/0u9wDbPkhtpcLsufDJ4zc8) | [Calas de Roche](https://open.spotify.com/album/3sd2f1RnqLNL39UAU03a3h) | 2:26 | 2021-12-14 | 2025-06-11 |
 | [Camino](https://open.spotify.com/track/6iRtD6kgCTAHOl5nXmOkop) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Camino](https://open.spotify.com/album/5nyL3abLor8WN4Ba6mJIyr) | 2:15 | 2024-03-05 |  |
 | [Can't Be Replaced](https://open.spotify.com/track/23xsPaiiJQ0StFj9NmTcHG) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Can't Be Replaced](https://open.spotify.com/album/5lB5I9Lx2dl9rqcObrd6Qi) | 2:23 | 2025-02-21 |  |
+| [Cantare](https://open.spotify.com/track/2klT0TpmyfRKCAhDRJofA5) | [Selenar Rex](https://open.spotify.com/artist/0aCvzm1b2BQnlQIJmixAw3) | [Cantare](https://open.spotify.com/album/442BAigdqDKpsAZy7f2iVE) | 2:07 | 2025-09-17 |  |
 | [Carousel](https://open.spotify.com/track/3hVSL4kM3pVj8YRmBiDcIn) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Carousel](https://open.spotify.com/album/6qN46VNn1NLcmaWJYk5hKK) | 2:03 | 2021-12-14 | 2022-04-29 |
 | [Carried Away](https://open.spotify.com/track/6osYVNKzPnVM3k7y2SasZT) | [Nadav Kohen](https://open.spotify.com/artist/6pg3pij73xdq9wUlp7R1lN) | [Carried Away](https://open.spotify.com/album/2CbSr0PzBU4Yps8XWb8hGB) | 2:02 | 2025-05-14 |  |
 | [Cascading Light](https://open.spotify.com/track/6XntuBpji3AMUM2Y5Dh3vx) | [Winston Church](https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi), [Denis Turbide](https://open.spotify.com/artist/3Ivps5evkCqTJp50aqXTlu) | [Cascading Light](https://open.spotify.com/album/6qg5QHrWzd4WTiKPfgLwAv) | 2:43 | 2023-01-27 |  |
@@ -352,5 +353,6 @@
 | [Your Love](https://open.spotify.com/track/000tG7ZCNMDFLzIxobVSUZ) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Your Love](https://open.spotify.com/album/645jck6JPjVMjb4NwNscBZ) | 2:40 | 2021-12-14 | 2024-10-02 |
 | [Ámbar](https://open.spotify.com/track/7gScZspJ5A3DpEY8rWNiO3) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Monteverde](https://open.spotify.com/album/6e1VBFdJxZ1b7wKQCuw5XY) | 2:42 | 2023-03-01 |  |
 | [Éclat de Brume](https://open.spotify.com/track/2AID3rEEd5Wd3Le09Ht6Gm) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Éclat de Brume](https://open.spotify.com/album/6O2UnhVcWDP22Nxy1fMcbG) | 2:40 | 2023-12-12 |  |
+| [Éveil](https://open.spotify.com/track/2brRgCl1LHEDuwMjFxp8s5) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Éveil](https://open.spotify.com/album/3A3g8Hg3Y2y42uG7BmDoft) | 2:54 | 2025-09-17 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -107,8 +107,8 @@
     {
       "added_at": "2025-09-16 15:00:09",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Blue age",
+        "url": "https://open.spotify.com/album/33wwg7H07B9wa1JSKywbW2"
       },
       "artists": [
         {
@@ -412,8 +412,8 @@
       },
       "artists": [
         {
-          "name": "\u3055\u3068\u3046\u3002",
-          "url": "https://open.spotify.com/artist/42NSweYycHvIuvNz89WwzR"
+          "name": "Sato",
+          "url": "https://open.spotify.com/artist/42olGDHZaEPtRmxwEZPY31"
         }
       ],
       "duration_ms": 215192,
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-09-16 15:00:09",
       "album": {
-        "name": "\u98a8\u795e",
-        "url": "https://open.spotify.com/album/2dkncPeCSULjpH34voco0k"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 235543,
-      "name": "\u98a8\u795e",
-      "url": "https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC"
-    },
-    {
-      "added_at": "2025-09-16 15:00:09",
-      "album": {
         "name": "\u307e\u306a\u3056\u3057\u306f\u5149",
         "url": "https://open.spotify.com/album/7gZ6GXk5BJNcQZfEGjiiZC"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 207469,
       "name": "\u307e\u306a\u3056\u3057\u306f\u5149",
       "url": "https://open.spotify.com/track/0HI4lUmOWpFzxPB5NMlAXW"
+    },
+    {
+      "added_at": "2025-09-16 15:00:09",
+      "album": {
+        "name": "\u98a8\u795e",
+        "url": "https://open.spotify.com/album/2dkncPeCSULjpH34voco0k"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 235543,
+      "name": "\u98a8\u795e",
+      "url": "https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC"
     },
     {
       "added_at": "2025-09-16 15:00:09",
@@ -783,18 +783,18 @@
     {
       "added_at": "2025-09-16 15:00:09",
       "album": {
-        "name": "\u30b5\u30de\u30fc\u30c9\u30c3\u30b0",
-        "url": "https://open.spotify.com/album/34h5mCheOLne5KSeCB9LGQ"
+        "name": "\u30ab\u30eb\u30c1\u30e3\u30fc",
+        "url": "https://open.spotify.com/album/22yg77xzNQlpZtFsKG3vdv"
       },
       "artists": [
         {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
         }
       ],
-      "duration_ms": 201306,
-      "name": "\u30b5\u30de\u30fc\u30c9\u30c3\u30b0",
-      "url": "https://open.spotify.com/track/3opgyLP5M2gOyszzXQCKyW"
+      "duration_ms": 178987,
+      "name": "\u30ab\u30eb\u30c1\u30e3\u30fc",
+      "url": "https://open.spotify.com/track/6lM8TkGnjBwijnAcM9sJlp"
     },
     {
       "added_at": "2025-09-16 15:00:09",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-09-16 15:00:09",
       "album": {
+        "name": "\u30b5\u30de\u30fc\u30c9\u30c3\u30b0",
+        "url": "https://open.spotify.com/album/34h5mCheOLne5KSeCB9LGQ"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 201306,
+      "name": "\u30b5\u30de\u30fc\u30c9\u30c3\u30b0",
+      "url": "https://open.spotify.com/track/3opgyLP5M2gOyszzXQCKyW"
+    },
+    {
+      "added_at": "2025-09-16 15:00:09",
+      "album": {
         "name": "medicine",
         "url": "https://open.spotify.com/album/4zJib3YlaVcLh9NLRpg8MV"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 162643,
       "name": "medicine",
       "url": "https://open.spotify.com/track/72SOp62ne2tErJqwlGEHQj"
-    },
-    {
-      "added_at": "2025-09-16 15:00:09",
-      "album": {
-        "name": "\u30ab\u30eb\u30c1\u30e3\u30fc",
-        "url": "https://open.spotify.com/album/22yg77xzNQlpZtFsKG3vdv"
-      },
-      "artists": [
-        {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
-        }
-      ],
-      "duration_ms": 178987,
-      "name": "\u30ab\u30eb\u30c1\u30e3\u30fc",
-      "url": "https://open.spotify.com/track/6lM8TkGnjBwijnAcM9sJlp"
     },
     {
       "added_at": "2025-09-16 15:00:09",
@@ -863,18 +863,18 @@
     {
       "added_at": "2025-09-16 15:00:09",
       "album": {
-        "name": "\u785d\u5b50\u306e\u7dda",
-        "url": "https://open.spotify.com/album/0n4ltZwQnNA4rVtnInnJPq"
+        "name": "\u3042\u306a\u305f\u306e\u3053\u3068\u3092\u304a\u3057\u3048\u3066",
+        "url": "https://open.spotify.com/album/6IMsVn3Ly1cR94CkXctwHp"
       },
       "artists": [
         {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
         }
       ],
-      "duration_ms": 256428,
-      "name": "\u785d\u5b50\u306e\u7dda",
-      "url": "https://open.spotify.com/track/1h8hSEfuhRy9fw7uFfFsD0"
+      "duration_ms": 149369,
+      "name": "\u3042\u306a\u305f\u306e\u3053\u3068\u3092\u304a\u3057\u3048\u3066",
+      "url": "https://open.spotify.com/track/6x4ApXjfn5paE3MLkab65F"
     },
     {
       "added_at": "2025-09-16 15:00:09",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-09-16 15:00:09",
       "album": {
+        "name": "\u785d\u5b50\u306e\u7dda",
+        "url": "https://open.spotify.com/album/0n4ltZwQnNA4rVtnInnJPq"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 256428,
+      "name": "\u785d\u5b50\u306e\u7dda",
+      "url": "https://open.spotify.com/track/1h8hSEfuhRy9fw7uFfFsD0"
+    },
+    {
+      "added_at": "2025-09-16 15:00:09",
+      "album": {
         "name": "pained",
         "url": "https://open.spotify.com/album/7xNiLmGaSSoAwNw0d9btaM"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 252760,
       "name": "pained",
       "url": "https://open.spotify.com/track/4fLu1o9tL4Fg7Zh7y4P7mK"
-    },
-    {
-      "added_at": "2025-09-16 15:00:09",
-      "album": {
-        "name": "\u3042\u306a\u305f\u306e\u3053\u3068\u3092\u304a\u3057\u3048\u3066",
-        "url": "https://open.spotify.com/album/6IMsVn3Ly1cR94CkXctwHp"
-      },
-      "artists": [
-        {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
-        }
-      ],
-      "duration_ms": 149369,
-      "name": "\u3042\u306a\u305f\u306e\u3053\u3068\u3092\u304a\u3057\u3048\u3066",
-      "url": "https://open.spotify.com/track/6x4ApXjfn5paE3MLkab65F"
     },
     {
       "added_at": "2025-09-16 15:00:09",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-09-16 15:00:09",
       "album": {
-        "name": "\u4e00\u9014\u306a\u5973\u306e\u5b50\u3002",
-        "url": "https://open.spotify.com/album/2Agow1p20GVdYvyfOKDRoB"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 179117,
-      "name": "\u4e00\u9014\u306a\u5973\u306e\u5b50\u3002",
-      "url": "https://open.spotify.com/track/06fMKL5WAQtTOgGW2CD90H"
-    },
-    {
-      "added_at": "2025-09-16 15:00:09",
-      "album": {
         "name": "\u3053\u306e\u4e16\u754c\u306b\u56fd\u304c\u7121\u304b\u3063\u305f\u3089",
         "url": "https://open.spotify.com/album/3xew462pPgsDMWwwCC5lut"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 259704,
       "name": "\u3053\u306e\u4e16\u754c\u306b\u56fd\u304c\u7121\u304b\u3063\u305f\u3089",
       "url": "https://open.spotify.com/track/129vY7oCXRRzEeb8PETl6H"
+    },
+    {
+      "added_at": "2025-09-16 15:00:09",
+      "album": {
+        "name": "\u4e00\u9014\u306a\u5973\u306e\u5b50\u3002",
+        "url": "https://open.spotify.com/album/2Agow1p20GVdYvyfOKDRoB"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 179117,
+      "name": "\u4e00\u9014\u306a\u5973\u306e\u5b50\u3002",
+      "url": "https://open.spotify.com/track/06fMKL5WAQtTOgGW2CD90H"
     },
     {
       "added_at": "2025-09-16 15:00:09",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-09-16 15:00:09",
       "album": {
-        "name": "\u82b1\u8a00\u8449\u306f\u8abf\u3079\u306a\u3044\u3067",
-        "url": "https://open.spotify.com/album/6qVqbvdFCUJrpshwuOq2Pv"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 239162,
-      "name": "\u82b1\u8a00\u8449\u306f\u8abf\u3079\u306a\u3044\u3067",
-      "url": "https://open.spotify.com/track/5VIfNgHFcJGmszvKMi2qFY"
-    },
-    {
-      "added_at": "2025-09-16 15:00:09",
-      "album": {
         "name": "\u8f2a\u5efb",
         "url": "https://open.spotify.com/album/7xU82B3dlA5JWTKQaFzsQZ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 232802,
       "name": "\u8f2a\u5efb",
       "url": "https://open.spotify.com/track/1uOffGf28u4EyPo0mzeVdY"
+    },
+    {
+      "added_at": "2025-09-16 15:00:09",
+      "album": {
+        "name": "\u82b1\u8a00\u8449\u306f\u8abf\u3079\u306a\u3044\u3067",
+        "url": "https://open.spotify.com/album/6qVqbvdFCUJrpshwuOq2Pv"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 239162,
+      "name": "\u82b1\u8a00\u8449\u306f\u8abf\u3079\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/5VIfNgHFcJGmszvKMi2qFY"
     },
     {
       "added_at": "2025-09-16 15:00:09",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-09-16 15:00:09",
       "album": {
-        "name": "\u50d5\u3089\u3057\u3055",
-        "url": "https://open.spotify.com/album/3CKYnctlDRNi4XqHGSfSqL"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 248146,
-      "name": "\u50d5\u3089\u3057\u3055",
-      "url": "https://open.spotify.com/track/2ZwS4OtnNImLucRnYQRMH6"
-    },
-    {
-      "added_at": "2025-09-16 15:00:09",
-      "album": {
         "name": "\u516b\u6708\u306e\u82b1\u706b",
         "url": "https://open.spotify.com/album/4zqGczzlyDIugumlcH6ePr"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 246250,
       "name": "\u516b\u6708\u306e\u82b1\u706b",
       "url": "https://open.spotify.com/track/1pHGmUo0pXW9jfH0h48ppN"
+    },
+    {
+      "added_at": "2025-09-16 15:00:09",
+      "album": {
+        "name": "\u50d5\u3089\u3057\u3055",
+        "url": "https://open.spotify.com/album/3CKYnctlDRNi4XqHGSfSqL"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 248146,
+      "name": "\u50d5\u3089\u3057\u3055",
+      "url": "https://open.spotify.com/track/2ZwS4OtnNImLucRnYQRMH6"
     },
     {
       "added_at": "2025-09-16 15:00:09",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-09-16 15:00:09",
       "album": {
-        "name": "\u30e9\u30b9\u30c8\u30c6\u30a3\u30fc\u30f3",
-        "url": "https://open.spotify.com/album/4dqUl348QY8vyDhornJnAK"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "\u30e9\u30b9\u30c8\u30c6\u30a3\u30fc\u30f3",
-      "url": "https://open.spotify.com/track/16LZJJN61lQjFxtvNzhU9d"
-    },
-    {
-      "added_at": "2025-09-16 15:00:09",
-      "album": {
         "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2 - Aimoraimo",
         "url": "https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 255320,
       "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2 - Aimoraimo",
       "url": "https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1"
+    },
+    {
+      "added_at": "2025-09-16 15:00:09",
+      "album": {
+        "name": "\u30e9\u30b9\u30c8\u30c6\u30a3\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/4dqUl348QY8vyDhornJnAK"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "\u30e9\u30b9\u30c8\u30c6\u30a3\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/16LZJJN61lQjFxtvNzhU9d"
     },
     {
       "added_at": "2025-09-16 15:00:09",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-09-16 15:00:09",
       "album": {
-        "name": "Syrup",
-        "url": "https://open.spotify.com/album/00h0hPRAbRGwreEd01zWIy"
-      },
-      "artists": [
-        {
-          "name": "Shota Shimizu",
-          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
-        }
-      ],
-      "duration_ms": 165523,
-      "name": "Syrup",
-      "url": "https://open.spotify.com/track/6Ccjf33pkoiOkpw9iPi3ir"
-    },
-    {
-      "added_at": "2025-09-16 15:00:09",
-      "album": {
         "name": "\u300c\u6b8b\u50cf\u306e\u611b\u3057\u65b9\u3001\u6216\u3044\u306f\u305d\u308c\u306b\u3088\u3063\u3066\u7523\u307f\u843d\u3061\u305f\u81ea\u8eab\u306e\u6b6a\u3055\u3092\u3001\u53d7\u3051\u5165\u308c\u308b\u70ba\u306b\u50d5\u305f\u3061\u304c\u904e\u3054\u3059\u5bc4\u308b\u8fba\u306e\u7121\u3044\u5e7e\u3064\u304b\u306e\u65e5\u3005\u306b\u3064\u3044\u3066\u3002\u300d",
         "url": "https://open.spotify.com/album/09CXKOHMVftqI3MhkLc6MU"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 218891,
       "name": "\u3071\u3089\u3044\u305d",
       "url": "https://open.spotify.com/track/428vfWii2yP680un6tby9J"
+    },
+    {
+      "added_at": "2025-09-16 15:00:09",
+      "album": {
+        "name": "Syrup",
+        "url": "https://open.spotify.com/album/00h0hPRAbRGwreEd01zWIy"
+      },
+      "artists": [
+        {
+          "name": "Shota Shimizu",
+          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
+        }
+      ],
+      "duration_ms": 165523,
+      "name": "Syrup",
+      "url": "https://open.spotify.com/track/6Ccjf33pkoiOkpw9iPi3ir"
     },
     {
       "added_at": "2025-09-16 15:00:09",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-09-16 15:00:09",
       "album": {
-        "name": "\u30e2\u30eb\u30c8",
-        "url": "https://open.spotify.com/album/0zWrZx0f4gxrhNzbdqOVuy"
-      },
-      "artists": [
-        {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
-        }
-      ],
-      "duration_ms": 149500,
-      "name": "\u30e2\u30eb\u30c8",
-      "url": "https://open.spotify.com/track/5eY0O5x5oKAFZOYqDX5CpU"
-    },
-    {
-      "added_at": "2025-09-16 15:00:09",
-      "album": {
         "name": "Contrast",
         "url": "https://open.spotify.com/album/6vptFPctTJu6HtY1yAwZPI"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 258500,
       "name": "Contrast",
       "url": "https://open.spotify.com/track/7xsztWMVvAzfNVyaCqW2Tj"
+    },
+    {
+      "added_at": "2025-09-16 15:00:09",
+      "album": {
+        "name": "\u30e2\u30eb\u30c8",
+        "url": "https://open.spotify.com/album/0zWrZx0f4gxrhNzbdqOVuy"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "duration_ms": 149500,
+      "name": "\u30e2\u30eb\u30c8",
+      "url": "https://open.spotify.com/track/5eY0O5x5oKAFZOYqDX5CpU"
     }
   ],
   "unique_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",

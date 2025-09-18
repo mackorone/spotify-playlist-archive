@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon!",
-  "num_followers": 28167,
+  "num_followers": 28170,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-09-15 13:56:40",
       "album": {
+        "name": "Demo",
+        "url": "https://open.spotify.com/album/4eddCF6C4oHNORXbMSKHvZ"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "duration_ms": 171806,
+      "name": "Demo",
+      "url": "https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn"
+    },
+    {
+      "added_at": "2025-09-15 13:56:40",
+      "album": {
         "name": "SZAR AZ \u00c9LET",
         "url": "https://open.spotify.com/album/1dQ7jejuPoZHDusPiG2vhc"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 191707,
       "name": "SZAR AZ \u00c9LET",
       "url": "https://open.spotify.com/track/3jsbWC8B4zKp45oeXiUnLP"
-    },
-    {
-      "added_at": "2025-09-15 13:56:40",
-      "album": {
-        "name": "Demo",
-        "url": "https://open.spotify.com/album/4eddCF6C4oHNORXbMSKHvZ"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 171806,
-      "name": "Demo",
-      "url": "https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn"
     },
     {
       "added_at": "2025-09-15 13:56:40",
@@ -963,26 +963,6 @@
     {
       "added_at": "2025-09-15 13:56:40",
       "album": {
-        "name": "Talpra cig\u00e1nyok",
-        "url": "https://open.spotify.com/album/2Ql5DaKsixp6Oev9vRKlak"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "L.L. Junior",
-          "url": "https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O"
-        }
-      ],
-      "duration_ms": 136950,
-      "name": "Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/57azn5oXW0OWBv8HVtuSmn"
-    },
-    {
-      "added_at": "2025-09-15 13:56:40",
-      "album": {
         "name": "BANNANI",
         "url": "https://open.spotify.com/album/1tHyKcCUoVbv045LQBFKHO"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 170000,
       "name": "SENKI NEM SZ\u00d3L R\u00c1NK",
       "url": "https://open.spotify.com/track/2vE3ycwf1fDcPt5v8RykaT"
+    },
+    {
+      "added_at": "2025-09-15 13:56:40",
+      "album": {
+        "name": "Talpra cig\u00e1nyok",
+        "url": "https://open.spotify.com/album/2Ql5DaKsixp6Oev9vRKlak"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "L.L. Junior",
+          "url": "https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O"
+        }
+      ],
+      "duration_ms": 136950,
+      "name": "Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/57azn5oXW0OWBv8HVtuSmn"
     },
     {
       "added_at": "2025-09-15 13:56:40",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-09-15 13:56:40",
       "album": {
-        "name": "az \u00e9n orsz\u00e1gom",
-        "url": "https://open.spotify.com/album/1B0fhyY2g7APOcJW6xulVs"
-      },
-      "artists": [
-        {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
-        }
-      ],
-      "duration_ms": 184380,
-      "name": "az \u00e9n orsz\u00e1gom",
-      "url": "https://open.spotify.com/track/0Xymkt9jHypCBwW9NWfPoN"
-    },
-    {
-      "added_at": "2025-09-15 13:56:40",
-      "album": {
         "name": "NINTENDO",
         "url": "https://open.spotify.com/album/5JK5KmPYSR3Ruys8nDUa7c"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 126315,
       "name": "NINTENDO",
       "url": "https://open.spotify.com/track/5MOlhGLex8jhMeyUPSsanz"
+    },
+    {
+      "added_at": "2025-09-15 13:56:40",
+      "album": {
+        "name": "az \u00e9n orsz\u00e1gom",
+        "url": "https://open.spotify.com/album/1B0fhyY2g7APOcJW6xulVs"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        }
+      ],
+      "duration_ms": 184380,
+      "name": "az \u00e9n orsz\u00e1gom",
+      "url": "https://open.spotify.com/track/0Xymkt9jHypCBwW9NWfPoN"
     },
     {
       "added_at": "2025-09-15 13:56:40",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-09-15 13:56:40",
       "album": {
-        "name": "Oy Lele",
-        "url": "https://open.spotify.com/album/49XobDXRmdpDuNcGVMKj9B"
-      },
-      "artists": [
-        {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Oy Lele",
-      "url": "https://open.spotify.com/track/7nnTebRqWMU92pbdF1hpk5"
-    },
-    {
-      "added_at": "2025-09-15 13:56:40",
-      "album": {
         "name": "J\u00e1ratlan",
         "url": "https://open.spotify.com/album/6ND8Ft1X16BRRQxGLpTtKY"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 196235,
       "name": "J\u00e1ratlan",
       "url": "https://open.spotify.com/track/7gt3yKDsnuyD3klF0uOEXW"
+    },
+    {
+      "added_at": "2025-09-15 13:56:40",
+      "album": {
+        "name": "Oy Lele",
+        "url": "https://open.spotify.com/album/49XobDXRmdpDuNcGVMKj9B"
+      },
+      "artists": [
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Oy Lele",
+      "url": "https://open.spotify.com/track/7nnTebRqWMU92pbdF1hpk5"
     },
     {
       "added_at": "2025-09-15 13:56:40",
@@ -1435,18 +1435,26 @@
     {
       "added_at": "2025-09-15 13:56:40",
       "album": {
-        "name": "Bomba",
-        "url": "https://open.spotify.com/album/3zbdVP1otrUnQoxlCvKQMu"
+        "name": "Rend\u0151rb\u00e1",
+        "url": "https://open.spotify.com/album/381XsrVAdCTvbLyPqpyd7w"
       },
       "artists": [
         {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/0mrz04tAG5y6E8xTJUhLwa"
+          "name": "Wxlfless",
+          "url": "https://open.spotify.com/artist/7hhhDArCYPA0njtiX2E9Pr"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+        },
+        {
+          "name": "Sisi",
+          "url": "https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f"
         }
       ],
-      "duration_ms": 216800,
-      "name": "Titkos \u00fczenet",
-      "url": "https://open.spotify.com/track/5OdmRZPg8cCOJE6j3wm87X"
+      "duration_ms": 144000,
+      "name": "Rend\u0151rb\u00e1",
+      "url": "https://open.spotify.com/track/2HuXzKUXrsSnJVeXRLxDqX"
     }
   ],
   "unique_name": "Most Men\u0151",

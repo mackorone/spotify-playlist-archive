@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 宋德鶴 \(Song of crane\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,469 likes - 86 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,473 likes - 86 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 12 | [Another Lover](https://open.spotify.com/track/5OjK43v389m7FFt0yDmFEr) | [Destroyers](https://open.spotify.com/artist/0n2SzMMLz0dcLCTFvKkxO7) | [Still Here](https://open.spotify.com/album/2LQk0SA9eHveBrOPdLwgPN) | 4:52 |
 | 13 | [Unending Love](https://open.spotify.com/track/39Ct69r2YE9muk9TBb1Bs4) | [Nocturnes](https://open.spotify.com/artist/2pytQBmgjNvYnZqvt6tZiZ) | [Unending Love](https://open.spotify.com/album/1bludfFchkO0MYPI3cRO4I) | 8:49 |
 | 14 | [阿母的話 \- Live](https://open.spotify.com/track/4LaFx62GX2uvfxFM5nDjuJ) | [農村武裝青年](https://open.spotify.com/artist/5OMLBbk6IzeEniWMhwglHM), [CINEMAPHONIC](https://open.spotify.com/artist/3RH6MrwIQhIVvfpE3Ireae) | [農村武裝青年 on CINEMAPHONIC \(Live\)](https://open.spotify.com/album/7rEEmj80qUAELureJeEyvN) | 4:43 |
-| 15 | [保持微醺 sapater han aca](https://open.spotify.com/track/1grB6QMiSsPI0MqxuI5fNK) | [微醺開根 RadiwRaliw](https://open.spotify.com/artist/1oX1fKc9VJ1JRElklASntF) | [火開始的地方 pasaring kelan rana’](https://open.spotify.com/album/6qfP4RHWVWigpPLn30b9d9) | 3:05 |
+| 15 | [保持微醺 sapater han aca](https://open.spotify.com/track/1grB6QMiSsPI0MqxuI5fNK) | [微醺開根 RadiwRaliw](https://open.spotify.com/artist/1oX1fKc9VJ1JRElklASntF) | [火開始的地方 pasaring kelan ṟanaʼ](https://open.spotify.com/album/6qfP4RHWVWigpPLn30b9d9) | 3:05 |
 | 16 | [我們都是外星人](https://open.spotify.com/track/4tiTaI5SKN5GlLRUINJ7ou) | [Quis](https://open.spotify.com/artist/5tBUXHMbwrbqysU0oTUP1P) | [我們都是外星人](https://open.spotify.com/album/12fV5cMZHcVBXFOM2QIYmr) | 3:55 |
 | 17 | [抽屜](https://open.spotify.com/track/79FjNCFyGzPK4vNX1LFHls) | [紙鳶](https://open.spotify.com/artist/05delKph4l4CQoZ5seRwW9) | [抽屜](https://open.spotify.com/album/5jtnw8dCoBRuff5ofWfwhk) | 3:48 |
 | 18 | [缺口——寄W](https://open.spotify.com/track/0pyPjItufIXxkRL7XyXW7l) | [緩緩 Huan Huan](https://open.spotify.com/artist/0JeQFUYo8H7c5K8VIICIIH) | [缺口——寄W](https://open.spotify.com/album/5VsoozygHPvI7bFp1PpIPF) | 3:43 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 70 | [多個朋友](https://open.spotify.com/track/1972fx4kf59FOjcrtrG5oW) | [Energy](https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u) | [ALL IN](https://open.spotify.com/album/17VorWmKJQbDTO6JxIAPgG) | 3:46 |
 | 71 | [就算只是夢](https://open.spotify.com/track/10HDAnbEXX0ashiD7ofqU4) | [吾橋有水 FloodingBridge](https://open.spotify.com/artist/0mYdyPW4ExvkilLuv5KU0k) | [就算只是夢](https://open.spotify.com/album/7zeTJ5wShtpuvwnEjF6qTY) | 3:53 |
 | 72 | [喝彩（Cheer）](https://open.spotify.com/track/0xMs1OSMrEdkTEBJGdrMcd) | [回春丹](https://open.spotify.com/artist/49x8WCVjNPZNepo3NmeMEi) | [喝彩（Cheer）](https://open.spotify.com/album/7vrgOvwjTgjrV7jNyzKVc6) | 3:13 |
-| 73 | [Action \- Attention Ver.](https://open.spotify.com/track/5TCBjDJ00x81AvX4T7BWkc) | [SCOOL](https://open.spotify.com/artist/39fvShWcI12gynGYyEOTeb) | [Cerememory](https://open.spotify.com/album/6p8i0dRqW5PTDn7l2SXgJQ) | 3:10 |
+| 73 | [Action（From《AFTER SCOOL》男團選秀Attention小分隊）](https://open.spotify.com/track/5TCBjDJ00x81AvX4T7BWkc) | [SCOOL](https://open.spotify.com/artist/39fvShWcI12gynGYyEOTeb) | [《AFTER SCOOL》畢業紀念專輯：Cerememory](https://open.spotify.com/album/6p8i0dRqW5PTDn7l2SXgJQ) | 3:10 |
 | 74 | [来电瑶](https://open.spotify.com/track/1VLC1aoLhShRNhKIulV3ut) | [法老](https://open.spotify.com/artist/429wOEd8ummnOTS4gw3WcQ), [BY2](https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR) | [来电瑶](https://open.spotify.com/album/2KKACaGyExkF2oUruqFfCB) | 3:38 |
 | 75 | [秋天的夜晚 \- 大慕可可 X 刺點創作工坊音樂劇《九月啊九月》插曲](https://open.spotify.com/track/2S6pbDGdcJ5zJ8gla1cHIu) | [KAXA](https://open.spotify.com/artist/5Hq9W4AHt4ykIEJp6ObqOG) | [秋天的夜晚 \(大慕可可 X 刺點創作工坊音樂劇《九月啊九月》插曲\)](https://open.spotify.com/album/5K1sek63BE2Lyy8X93gzFa) | 4:10 |
 | 76 | [你會等我嗎 ?](https://open.spotify.com/track/23WAiJqVHO8PrCWA6xs43S) | [AKB48 Team TP](https://open.spotify.com/artist/5EJySPaACof5q6mh88d3gb) | [你會等我嗎?](https://open.spotify.com/album/0Zhwc9f6e0SWTAzJW3n732) | 3:42 |

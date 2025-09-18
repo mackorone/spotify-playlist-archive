@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-659 songs - 1 day 4 hr 33 min
+662 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Comfort](https://open.spotify.com/track/2Vi2f6Hf11vYsoov4Z9HWe) | [Gabriela Ohm](https://open.spotify.com/artist/3UvBxuvjgjOfzdIM84Pm2g) | [Comfort](https://open.spotify.com/album/49QcBTDwd5jQbAyvcgXZhr) | 3:01 | 2024-08-07 | 2025-05-15 |
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2022-04-22 | 2024-11-07 |
 | [Confession](https://open.spotify.com/track/7IhjDHQ2l4uRgyRNkWgbWt) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Confession](https://open.spotify.com/album/7CSswOSFP7HjwUzXWhZYiT) | 2:29 | 2022-04-22 | 2023-08-08 |
+| [consolation](https://open.spotify.com/track/4wjEcvWf8ynGLJDxFTG7sZ) | [Félix Frays](https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p) | [consolation](https://open.spotify.com/album/7LORbuNBK0aO9InBE8gFbY) | 2:37 | 2025-09-17 |  |
 | [Contemplation](https://open.spotify.com/track/04QMzMxrwND0Tkh3Na0K6K) | [Sorrel Hauer](https://open.spotify.com/artist/5F8nqlAgRked7aLmw3uWlo) | [Contemplation](https://open.spotify.com/album/3yuVxlE4JhW8J4ZRvyMaqb) | 3:04 | 2022-04-22 | 2024-02-14 |
 | [Conversations](https://open.spotify.com/track/5iU1vfBMdbpGj1QT3sPcy8) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Conversations](https://open.spotify.com/album/4aYNTrTcQisJeqN1xZuBOn) | 2:53 | 2025-01-22 |  |
 | [Coulant](https://open.spotify.com/track/445KHitEvap0tspDZ3C78V) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Coulant](https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq) | 2:28 | 2022-04-22 | 2023-08-15 |
@@ -132,7 +133,7 @@
 | [die letzten Schritte](https://open.spotify.com/track/71UMvOQ8RDBtsBi0rj5uB3) | [Rebecca Mayer](https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY) | [der Saibling](https://open.spotify.com/album/5qhOBNNRy0I0dcZ426mosd) | 2:42 | 2022-04-22 | 2024-02-14 |
 | [Distant Glow](https://open.spotify.com/track/2aBYVl2d2RFAPbYlZ7rIUf) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Weightless Again](https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG) | 2:11 | 2022-04-22 | 2023-04-19 |
 | [Divine](https://open.spotify.com/track/0dPlWCE1GsnltA6q0n6nzN) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Divine](https://open.spotify.com/album/2aIQpr7QM5i2xuVQuB9YpB) | 2:45 | 2024-01-08 |  |
-| [docile](https://open.spotify.com/track/32d6hHOruz7YSM1V4o0JSi) | [Félix Frays](https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p) | [docile](https://open.spotify.com/album/5J2X0qHRnjhOZXcir9RlEO) | 2:31 | 2025-08-05 |  |
+| [docile](https://open.spotify.com/track/32d6hHOruz7YSM1V4o0JSi) | [Félix Frays](https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p) | [docile](https://open.spotify.com/album/5J2X0qHRnjhOZXcir9RlEO) | 2:31 | 2025-08-05 | 2025-09-18 |
 | [Dolci Onde](https://open.spotify.com/track/7fEzNMe3cbrrigKWXaAw25) | [Janet Bolt](https://open.spotify.com/artist/6qaN2QFmI31hie6adDTtgz) | [Dolci Onde](https://open.spotify.com/album/6gE4b75yGmknTpGYSYWSEj) | 3:05 | 2023-06-19 | 2025-05-15 |
 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 | 2022-04-22 | 2024-02-14 |
 | [Dormancy](https://open.spotify.com/track/0gTGHIdwerQJczdziYMaoq) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Dormancy](https://open.spotify.com/album/1nJmaA5MmaQ8U8t2eknqYz) | 2:49 | 2024-03-04 |  |
@@ -306,6 +307,7 @@
 | [Longitude](https://open.spotify.com/track/28W2mqtvitwaoKe5IHL4M9) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Longitude](https://open.spotify.com/album/5xkVqIK6vdCA6e3rWJjYjJ) | 2:34 | 2024-05-22 | 2025-05-15 |
 | [Look to the Sea](https://open.spotify.com/track/0niChogoxtdK17KtHH0jni) | [Aisha Edwards](https://open.spotify.com/artist/3YZeY8Jt05JPzWSY6VNnYZ) | [Look to the Sea](https://open.spotify.com/album/5krugfl1J2zSBZG7R2zNy5) | 2:42 | 2022-04-22 | 2023-01-27 |
 | [Looking Back](https://open.spotify.com/track/3GXXTCrbeSnCCeex84gUnX) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Looking Back](https://open.spotify.com/album/1z7dnB4fPpXGtPC1GON9rY) | 2:50 | 2022-04-22 | 2023-08-08 |
+| [Love of My Life](https://open.spotify.com/track/1k43yZUlrZlWLlLSE9HSFC) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Love of My Life](https://open.spotify.com/album/10mjFWOlFE2Vr0ZrgPNXYZ) | 2:19 | 2025-09-17 |  |
 | [Love Theme](https://open.spotify.com/track/0lSZUzGi4EBc1Q0HqynTqO) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Love Theme](https://open.spotify.com/album/5trgrL7pUh0OyxMRsxztyk) | 2:59 | 2022-04-22 | 2024-05-23 |
 | [Love Will Set Us Free](https://open.spotify.com/track/4vO8oT2rdWcCzHYTEcoJGl) | [Novum Cordis](https://open.spotify.com/artist/3iSbAtzrrSEaZlc16jeS9d) | [Love Will Set Us Free](https://open.spotify.com/album/6rXybaAOBtVCldnzhMSn2g) | 2:25 | 2022-04-22 | 2023-08-15 |
 | [Luce](https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Luce](https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H) | 2:10 | 2023-11-13 |  |
@@ -393,6 +395,7 @@
 | [Ocean Heart](https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Ocean Heart](https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL) | 2:52 | 2022-04-22 | 2023-08-08 |
 | [Oceans Between Us](https://open.spotify.com/track/7uU6gogq2d2IaktE5gSeV2) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [Oceans Between Us](https://open.spotify.com/album/4ha1Xqb5sGAuc9PzPmQEQ3) | 2:21 | 2025-05-13 |  |
 | [Oh Endless Day](https://open.spotify.com/track/7gqehJjwPZxAkMFEsxMAYr) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [Oh Endless Day](https://open.spotify.com/album/3RRumjF8Ef3D6eGngq3Vbb) | 4:47 | 2022-04-22 | 2022-07-28 |
+| [Old Love Letters](https://open.spotify.com/track/2mhP5eGS9TMJ1m29xzP7F6) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Old Love Letters](https://open.spotify.com/album/1prkPC6ctTBlDKcQ6zUplq) | 2:47 | 2025-09-17 |  |
 | [Older](https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl) | [C.J\. Wilkins](https://open.spotify.com/artist/6cG2racndnT8Xeb4HvR5Pa) | [Older](https://open.spotify.com/album/4JnGk3makGnlFtCyxfyALk) | 2:45 | 2022-04-22 | 2024-03-20 |
 | [Om än bara för en stund](https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY) | [Maya Åström](https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph) | [Om än bara för en stund](https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH) | 2:38 | 2022-09-15 | 2023-08-15 |
 | [Ombre](https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Ombre](https://open.spotify.com/album/1ktCmaFnzHE10sLDumdAMT) | 2:05 | 2022-04-22 | 2025-05-15 |

@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-405 songs - 16 hr 19 min
+408 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Andiamo](https://open.spotify.com/track/2d8TANAiuSm99uVmymr6Fb) | [Eloisa Duarte](https://open.spotify.com/artist/5y1jHMp7lrJ35DEPQi9XSu) | [Andiamo](https://open.spotify.com/album/4WBfWZqSs9iAnGkgTordyy) | 3:04 | 2024-05-07 |  |
 | [Aning](https://open.spotify.com/track/1gqSAZHdFgARHhkmGHvr5D) | [Julia Andersson](https://open.spotify.com/artist/2biLvSI1dr6gdNAZAnq6z2) | [Dröm](https://open.spotify.com/album/7emzujJp5H2gEdEpzdgILf) | 2:38 | 2023-05-15 |  |
 | [Approaching Dusk](https://open.spotify.com/track/6vwuSjfe1UjY6fn43HZ4CK) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Piano Studies](https://open.spotify.com/album/26pIGdUcRbCfXQ2GcuvvQA) | 1:45 | 2021-06-27 | 2023-05-16 |
+| [Arabesque](https://open.spotify.com/track/2W7aB2FQqWFq6oYR0x2Muc) | [Cedric Grey](https://open.spotify.com/artist/6JbH37KxXJI583fPVzxyqO) | [Arabesque](https://open.spotify.com/album/4BRIfQCswq2SeymgVav1hZ) | 2:21 | 2025-09-17 |  |
 | [Aragonese](https://open.spotify.com/track/3bN2VEtYuFV2GjEHmfxTI3) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Aragonese](https://open.spotify.com/album/7xumXPGEwMrYVOb4pk6ANG) | 2:14 | 2024-07-23 |  |
 | [Arriving](https://open.spotify.com/track/2BWhYS9sosKmgg8BWjoQul) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Arriving](https://open.spotify.com/album/0JObZV0R4Ko376lsiK0JWF) | 2:48 | 2023-05-15 | 2025-04-10 |
 | [As the Light Unfolds](https://open.spotify.com/track/4iLQt0yaViFFVYA2QqReQo) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [As the Light Unfolds](https://open.spotify.com/album/5iZC7M6Z8SuVixMY1qYKMA) | 4:18 | 2025-08-18 |  |
@@ -166,6 +167,7 @@
 | [Heugstatt](https://open.spotify.com/track/4xPcKCcKH9ioUiOxLloJOa) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Old Friend](https://open.spotify.com/album/0gVxVIhQ0IcZ6ommP2ypx9) | 3:05 | 2023-05-15 | 2025-07-17 |
 | [Hoarfrost](https://open.spotify.com/track/035cErPCPOVn4L3USUtBc9) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [20023](https://open.spotify.com/album/32zg3pyWlp7g2lvJ2CN68Z) | 2:31 | 2023-06-19 | 2024-04-19 |
 | [Hoarfrost](https://open.spotify.com/track/7raJ9hPFYeCf8o43g176zS) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Hoarfrost](https://open.spotify.com/album/6DaDlbh2nSPJoD3Qj3pjXS) | 2:31 | 2023-05-15 |  |
+| [Hot Springs Cove](https://open.spotify.com/track/3dCvFvKdbyPavhXonp1O0O) | [aung](https://open.spotify.com/artist/0s0tm9zd9sIgQU1g44VujV) | [Hot Springs Cove](https://open.spotify.com/album/3et31FrGP4wzUiivFNe7vu) | 2:11 | 2025-09-17 |  |
 | [I'll Be Around](https://open.spotify.com/track/4UJ8IkZl3qhcRLFdZ9XyY5) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [I'll Be Around](https://open.spotify.com/album/2A01x4zvltCBhOa8cpl9mf) | 3:10 | 2023-09-26 |  |
 | [Idyllwild](https://open.spotify.com/track/2RKTXZKlTWEKYgAwA0D8dM) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Idyllwild](https://open.spotify.com/album/36EtKQcr9CYVdkcGFymr9Z) | 2:21 | 2025-05-13 |  |
 | [If The Wind Stops \- Calm Version](https://open.spotify.com/track/1IftqSqlnSXAHG6Vahrsuj) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Pianissimo](https://open.spotify.com/album/7vBWI0VTZ4NPylawx1Eng2) | 4:04 | 2023-09-11 | 2024-02-06 |
@@ -308,7 +310,7 @@
 | [Reminiscence](https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As The Years Go By](https://open.spotify.com/album/5aeUh8jEe9W9IUQJU0Q3Bd) | 2:32 | 2022-07-05 | 2023-05-16 |
 | [Respiro](https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Respiro](https://open.spotify.com/album/6rs8vroVC5n6qKclLx9prJ) | 2:05 | 2023-05-15 |  |
 | [Reverie of the Plains](https://open.spotify.com/track/6Jm87c63XEWFJqKrzaArV8) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Reverie of the Plains](https://open.spotify.com/album/6XERKnx3XcIgMsbgYkGgx9) | 3:21 | 2024-12-11 |  |
-| [rewind](https://open.spotify.com/track/3jz7hr714fHMHXqO0kYR3R) | [Nicholai Janeret](https://open.spotify.com/artist/1emPMGrt54fr9Ax9Q2xOql) | [rewind](https://open.spotify.com/album/5Deaq9fAIYodfXMfjiBmtg) | 2:29 | 2025-06-10 |  |
+| [rewind](https://open.spotify.com/track/3jz7hr714fHMHXqO0kYR3R) | [Nicholai Janeret](https://open.spotify.com/artist/1emPMGrt54fr9Ax9Q2xOql) | [rewind](https://open.spotify.com/album/5Deaq9fAIYodfXMfjiBmtg) | 2:29 | 2025-06-10 | 2025-09-18 |
 | [Riverlight](https://open.spotify.com/track/3sp6FlleWKCE9mxdnHXFlU) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Riverlight](https://open.spotify.com/album/2wWyVXM1gackIofNnlxWdP) | 2:13 | 2023-05-15 |  |
 | [Rébus](https://open.spotify.com/track/1RaP4GkSYdKzKyRJdXxBJ6) | [Christophe Pouget](https://open.spotify.com/artist/6NMPthFB3FbixffuRKpIGU) | [Rébus](https://open.spotify.com/album/4pJZ7dbo8FXYh3NwS7wOvl) | 2:29 | 2023-05-15 |  |
 | [Salt Skin](https://open.spotify.com/track/5MKtW4amtrjowQ4z7uWCjU) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Salt Skin](https://open.spotify.com/album/5uDgyEcwgosiV7lf9n2f40) | 2:55 | 2023-05-15 |  |
@@ -337,6 +339,7 @@
 | [Softly, Gently](https://open.spotify.com/track/0wmmFkwOtzaanH4T5vMMLz) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [Softly, Gently](https://open.spotify.com/album/5el3jiphgAIadKL7FcB09G) | 2:00 | 2022-07-05 | 2023-05-16 |
 | [Softly, Gently](https://open.spotify.com/track/5JwtahJeHWFPETXjxBH74B) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [Softly, Gently](https://open.spotify.com/album/1Q7Yfz4VUJoZrJPuo2ePIj) | 2:00 | 2021-06-27 | 2022-07-29 |
 | [Solo Stroll](https://open.spotify.com/track/5Gug122LEQi3zHI0fomUgi) | [Holgar Ingeldson](https://open.spotify.com/artist/1yJ4WtOgFB4k9NYCNvWCvL) | [Solo Stroll](https://open.spotify.com/album/1C4CBb9HOLqMyQUmWVMlhq) | 2:16 | 2024-09-24 |  |
+| [something familiar](https://open.spotify.com/track/49AZECHl99ZaUVgHa4JjqM) | [reinë](https://open.spotify.com/artist/4KMRoxw1UPjNsfY53yIfYR) | [something familiar](https://open.spotify.com/album/4oB5z70NjRTQTaoI4QtZau) | 2:51 | 2025-09-17 |  |
 | [Somewhere Else](https://open.spotify.com/track/62d61kCTywtaW5PnY2NJ1T) | [Mischa](https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1) | [Somewhere Else](https://open.spotify.com/album/3SGeZuQNVjCqyo2gtVMKvZ) | 2:21 | 2024-08-12 |  |
 | [somewhere else, together](https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [somewhere else, together](https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX) | 3:09 | 2023-11-28 | 2025-05-10 |
 | [Somewhere In Between](https://open.spotify.com/track/1dWtAobHBqAxNS4W495gda) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [KEEN: Peace & Calm Vol\. 1](https://open.spotify.com/album/5ElKIzZRCQYV6AlyLHOmPj) | 2:31 | 2022-07-05 | 2022-11-13 |

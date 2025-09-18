@@ -1976,7 +1976,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 193010,
       "name": "Beams of Light",
       "url": "https://open.spotify.com/track/53Jjj0NJsxD8WUw5AWURHy"
@@ -6970,7 +6970,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 199002,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/57SCq7ZXSwvDkeScWWg5MG"
@@ -15165,6 +15165,24 @@
     },
     {
       "album": {
+        "name": "This moment",
+        "url": "https://open.spotify.com/album/4llBMu5EhyK3mKXZwIoxnx"
+      },
+      "artists": [
+        {
+          "name": "Ivan Blois",
+          "url": "https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186583,
+      "name": "This moment",
+      "url": "https://open.spotify.com/track/76OxrjpPPwRadLLkq3oa5B"
+    },
+    {
+      "album": {
         "name": "This Morning",
         "url": "https://open.spotify.com/album/7mYQhnbJorRqvOtmOepChZ"
       },
@@ -15666,6 +15684,24 @@
       "duration_ms": 238426,
       "name": "Under the same roof",
       "url": "https://open.spotify.com/track/3IzCbEBNJV97OpSdjd6DwQ"
+    },
+    {
+      "album": {
+        "name": "Undone by Repetition",
+        "url": "https://open.spotify.com/album/66nRzeNQ2ASWjjzDTuG1Fb"
+      },
+      "artists": [
+        {
+          "name": "Tate Jackson Trio",
+          "url": "https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219861,
+      "name": "Undone by Repetition",
+      "url": "https://open.spotify.com/track/6DX5V3BhG7lEqx0rDIvvCj"
     },
     {
       "album": {

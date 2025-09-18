@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 4062333,
+  "num_followers": 4062614,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAAAiRiDRKH7EA1mjwagqg6UL",
+  "snapshot_id": "aMiogAAAAACUuuJet4oAOR1R3ntEjqOT",
   "tracks": [
     {
       "added_at": null,
@@ -887,26 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
       },
       "artists": [
         {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "BabyTron",
-          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
         }
       ],
-      "duration_ms": 284903,
-      "name": "Tobey (feat. Big Sean and BabyTron)",
-      "url": "https://open.spotify.com/track/1ymWIr4E5x6xORlDO0bXlP"
+      "duration_ms": 288866,
+      "name": "Patiently Waiting",
+      "url": "https://open.spotify.com/track/6C781pluv3BPxGHHCUJNYc"
     },
     {
       "added_at": null,
@@ -931,22 +927,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
       },
       "artists": [
         {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
         }
       ],
-      "duration_ms": 288866,
-      "name": "Patiently Waiting",
-      "url": "https://open.spotify.com/track/6C781pluv3BPxGHHCUJNYc"
+      "duration_ms": 284903,
+      "name": "Tobey (feat. Big Sean and BabyTron)",
+      "url": "https://open.spotify.com/track/1ymWIr4E5x6xORlDO0bXlP"
     },
     {
       "added_at": null,

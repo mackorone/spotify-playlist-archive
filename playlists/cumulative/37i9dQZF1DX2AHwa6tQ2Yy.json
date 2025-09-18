@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-05",
-  "description": "Try a little tenderness. Cover: Don West",
+  "description": "Try a little tenderness. Cover: Bumpy",
   "name": "soulful",
   "tracks": [
     {
@@ -642,7 +642,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 255008,
       "name": "Breakadawn",
       "url": "https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY"
@@ -1571,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/5ysy8zzAwGcbqRyIRZ3Zsc"
+      },
+      "artists": [
+        {
+          "name": "Bumpy",
+          "url": "https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342860,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/2tSuFw2Or4SRUSqlcEv4iM"
+    },
+    {
+      "album": {
         "name": "Feeling Myself",
         "url": "https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd"
       },
@@ -1912,6 +1930,24 @@
       "duration_ms": 415613,
       "name": "Girl (feat. KAYTRANADA)",
       "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
+    },
+    {
+      "album": {
+        "name": "Give Me All Your Love",
+        "url": "https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200414,
+      "name": "Give Me All Your Love",
+      "url": "https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd"
     },
     {
       "album": {
@@ -3254,7 +3290,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 181395,
       "name": "MIAMI",
       "url": "https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4"
@@ -3418,6 +3454,28 @@
       "duration_ms": 217200,
       "name": "My Way",
       "url": "https://open.spotify.com/track/4YIVPG1e2m9moeCRdc3w0E"
+    },
+    {
+      "album": {
+        "name": "Myself (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178586,
+      "name": "Myself (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj"
     },
     {
       "album": {
@@ -3808,7 +3866,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 308301,
       "name": "One Inch Punch",
       "url": "https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE"

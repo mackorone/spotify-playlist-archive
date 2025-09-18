@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: JVSON
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,916 likes - 101 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,956 likes - 101 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

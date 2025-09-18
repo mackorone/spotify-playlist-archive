@@ -1,13 +1,77 @@
 {
   "description": "Lekker rustig aan doen op zaterdag met deze zachte popliedjes.",
-  "num_followers": 113198,
+  "num_followers": 113193,
   "original_name": "Easy On Saturday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHVae2ESDdnb1HjTvhavnEA5rFys",
+  "snapshot_id": "AAAAAB+jrpoppaC5Mow4V46vBzHnmyGP",
   "tracks": [
+    {
+      "added_at": "2025-09-11 22:00:22",
+      "album": {
+        "name": "The Sailors' Tales",
+        "url": "https://open.spotify.com/album/0v6YscOyjviSJ1hqRTqS4T"
+      },
+      "artists": [
+        {
+          "name": "Aure",
+          "url": "https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "The Sailors' Tales",
+      "url": "https://open.spotify.com/track/1XJbj3IBytWGi2At0HjcRr"
+    },
+    {
+      "added_at": "2025-09-11 22:00:22",
+      "album": {
+        "name": "Heart Talks",
+        "url": "https://open.spotify.com/album/0h02ch3LLJXbUsdvh05BJs"
+      },
+      "artists": [
+        {
+          "name": "PIMSKIN",
+          "url": "https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX"
+        }
+      ],
+      "duration_ms": 121408,
+      "name": "Heart Talks",
+      "url": "https://open.spotify.com/track/3PGZRVnlybWd3Q2lNIgNcs"
+    },
+    {
+      "added_at": "2025-09-11 22:00:22",
+      "album": {
+        "name": "In Our Blood (Acoustic)",
+        "url": "https://open.spotify.com/album/4TkThiRr9e9AAuxHYtSHLx"
+      },
+      "artists": [
+        {
+          "name": "MADOUX",
+          "url": "https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ"
+        }
+      ],
+      "duration_ms": 207508,
+      "name": "In Our Blood - Acoustic",
+      "url": "https://open.spotify.com/track/4a21EACjyMtifGTF1PgheC"
+    },
+    {
+      "added_at": "2025-09-11 22:00:22",
+      "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "duration_ms": 156386,
+      "name": "80 Days",
+      "url": "https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s"
+    },
     {
       "added_at": "2025-09-11 22:00:22",
       "album": {
@@ -103,86 +167,6 @@
       "duration_ms": 196627,
       "name": "Wings",
       "url": "https://open.spotify.com/track/2GfSI35lY8p6tr9IUqiwKo"
-    },
-    {
-      "added_at": "2025-09-11 22:00:22",
-      "album": {
-        "name": "The Sailors' Tales",
-        "url": "https://open.spotify.com/album/0v6YscOyjviSJ1hqRTqS4T"
-      },
-      "artists": [
-        {
-          "name": "Aure",
-          "url": "https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "The Sailors' Tales",
-      "url": "https://open.spotify.com/track/1XJbj3IBytWGi2At0HjcRr"
-    },
-    {
-      "added_at": "2025-09-11 22:00:22",
-      "album": {
-        "name": "Heart Talks",
-        "url": "https://open.spotify.com/album/0h02ch3LLJXbUsdvh05BJs"
-      },
-      "artists": [
-        {
-          "name": "PIMSKIN",
-          "url": "https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX"
-        }
-      ],
-      "duration_ms": 121408,
-      "name": "Heart Talks",
-      "url": "https://open.spotify.com/track/3PGZRVnlybWd3Q2lNIgNcs"
-    },
-    {
-      "added_at": "2025-09-11 22:00:22",
-      "album": {
-        "name": "In Our Blood (Acoustic)",
-        "url": "https://open.spotify.com/album/4TkThiRr9e9AAuxHYtSHLx"
-      },
-      "artists": [
-        {
-          "name": "MADOUX",
-          "url": "https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ"
-        }
-      ],
-      "duration_ms": 207508,
-      "name": "In Our Blood - Acoustic",
-      "url": "https://open.spotify.com/track/4a21EACjyMtifGTF1PgheC"
-    },
-    {
-      "added_at": "2025-09-11 22:00:22",
-      "album": {
-        "name": "Adagio",
-        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        }
-      ],
-      "duration_ms": 156386,
-      "name": "80 Days",
-      "url": "https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s"
-    },
-    {
-      "added_at": "2025-09-11 22:00:22",
-      "album": {
-        "name": "Strongest Girl",
-        "url": "https://open.spotify.com/album/6V6ikokpSTTqRoa0ZySpTu"
-      },
-      "artists": [
-        {
-          "name": "Few Bits",
-          "url": "https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc"
-        }
-      ],
-      "duration_ms": 207469,
-      "name": "Strongest Girl",
-      "url": "https://open.spotify.com/track/4kjgZBKYqcawEEPrKVMleZ"
     },
     {
       "added_at": "2025-09-11 22:00:22",
@@ -1655,6 +1639,22 @@
       "duration_ms": 230329,
       "name": "Abigail",
       "url": "https://open.spotify.com/track/7agIX3ge0VVzTQAJTvJH5E"
+    },
+    {
+      "added_at": "2025-09-11 22:00:22",
+      "album": {
+        "name": "Strongest Girl",
+        "url": "https://open.spotify.com/album/6V6ikokpSTTqRoa0ZySpTu"
+      },
+      "artists": [
+        {
+          "name": "Few Bits",
+          "url": "https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc"
+        }
+      ],
+      "duration_ms": 207469,
+      "name": "Strongest Girl",
+      "url": "https://open.spotify.com/track/4kjgZBKYqcawEEPrKVMleZ"
     }
   ],
   "unique_name": "Easy On Saturday",

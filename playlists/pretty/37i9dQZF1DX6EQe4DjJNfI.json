@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Melly",
-  "num_followers": 182401,
+  "num_followers": 182662,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,26 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
+        "name": "s\u00f3 (mais) uma vez",
+        "url": "https://open.spotify.com/album/74aOIXbvcA7NROiJzfRcGp"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
+        }
+      ],
+      "duration_ms": 210522,
+      "name": "s\u00f3 (mais) uma vez",
+      "url": "https://open.spotify.com/track/6Q34vqJQgCRNxbc6xWsVR1"
+    },
+    {
+      "added_at": "2025-08-25 19:42:35",
+      "album": {
         "name": "Um Mar Pra Cada Um,",
         "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
       },
@@ -111,26 +131,6 @@
       "duration_ms": 341376,
       "name": "Har\u00e9m",
       "url": "https://open.spotify.com/track/2erhUFGpL85eP1NuTSuuig"
-    },
-    {
-      "added_at": "2025-08-25 19:42:35",
-      "album": {
-        "name": "s\u00f3 (mais) uma vez",
-        "url": "https://open.spotify.com/album/74aOIXbvcA7NROiJzfRcGp"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Paulo DK",
-          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
-        }
-      ],
-      "duration_ms": 210522,
-      "name": "s\u00f3 (mais) uma vez",
-      "url": "https://open.spotify.com/track/6Q34vqJQgCRNxbc6xWsVR1"
     },
     {
       "added_at": "2025-08-25 19:42:35",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
-        "name": "De Lua",
-        "url": "https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "De Lua",
-      "url": "https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8"
-    },
-    {
-      "added_at": "2025-08-25 19:42:35",
-      "album": {
         "name": "Te Ouvir",
         "url": "https://open.spotify.com/album/7J0lgtrG1nb3vHLRNQpdlG"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 215757,
       "name": "Te Ouvir",
       "url": "https://open.spotify.com/track/6exIYcUynpOULD7mcWIEas"
+    },
+    {
+      "added_at": "2025-08-25 19:42:35",
+      "album": {
+        "name": "De Lua",
+        "url": "https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "De Lua",
+      "url": "https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8"
     },
     {
       "added_at": "2025-08-25 19:42:35",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
-        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
-        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
-      },
-      "artists": [
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 152678,
-      "name": "Anjo",
-      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
-    },
-    {
-      "added_at": "2025-08-25 19:42:35",
-      "album": {
         "name": "Fim do Mundo",
         "url": "https://open.spotify.com/album/0uVLNBvgHwsZ9hZdJiVOD9"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 147321,
       "name": "Fim do Mundo",
       "url": "https://open.spotify.com/track/20tCRW9BLgyBXSdiprQ6bB"
+    },
+    {
+      "added_at": "2025-08-25 19:42:35",
+      "album": {
+        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
+        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 152678,
+      "name": "Anjo",
+      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
     },
     {
       "added_at": "2025-08-25 19:42:35",
@@ -471,6 +471,26 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
+        "name": "1001 Roteiros",
+        "url": "https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm"
+      },
+      "artists": [
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        },
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        }
+      ],
+      "duration_ms": 161024,
+      "name": "1001 Roteiros",
+      "url": "https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ"
+    },
+    {
+      "added_at": "2025-08-25 19:42:35",
+      "album": {
         "name": "Desalinho",
         "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
       },
@@ -491,22 +511,18 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
-        "name": "1001 Roteiros",
-        "url": "https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm"
+        "name": "Sonhei com Voc\u00ea",
+        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
       },
       "artists": [
         {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        },
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
         }
       ],
-      "duration_ms": 161024,
-      "name": "1001 Roteiros",
-      "url": "https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ"
+      "duration_ms": 261144,
+      "name": "Sonhei com Voc\u00ea",
+      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
     },
     {
       "added_at": "2025-08-25 19:42:35",
@@ -531,22 +547,6 @@
       "duration_ms": 225566,
       "name": "Porque Me Responde Ainda",
       "url": "https://open.spotify.com/track/0MniTeJQje07YTaMbKRlSE"
-    },
-    {
-      "added_at": "2025-08-25 19:42:35",
-      "album": {
-        "name": "Sonhei com Voc\u00ea",
-        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 261144,
-      "name": "Sonhei com Voc\u00ea",
-      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
     },
     {
       "added_at": "2025-08-25 19:42:35",
@@ -591,6 +591,26 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
+        "name": "Amar D\u00f3i",
+        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        }
+      ],
+      "duration_ms": 168063,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
+    },
+    {
+      "added_at": "2025-08-25 19:42:35",
+      "album": {
         "name": "Cansei De Chorar Seu Nome",
         "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
       },
@@ -615,22 +635,18 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
-        "name": "Amar D\u00f3i",
-        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
+        "name": "Coisas Simples",
+        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
       },
       "artists": [
         {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
         }
       ],
-      "duration_ms": 168063,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
+      "duration_ms": 157772,
+      "name": "Coisas Simples",
+      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
     },
     {
       "added_at": "2025-08-25 19:42:35",
@@ -659,42 +675,6 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
-        "name": "Coisas Simples",
-        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 157772,
-      "name": "Coisas Simples",
-      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
-    },
-    {
-      "added_at": "2025-08-25 19:42:35",
-      "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Felipe Rosa",
-          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
-    },
-    {
-      "added_at": "2025-08-25 19:42:35",
-      "album": {
         "name": "Meu Time (Ao Vivo)",
         "url": "https://open.spotify.com/album/2ZZURcVGtXBm3RRanOJMgb"
       },
@@ -719,18 +699,22 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
-        "name": "Red On My Lips",
-        "url": "https://open.spotify.com/album/6cW19rqP5z2smPZwyeG6vL"
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
       },
       "artists": [
         {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
         }
       ],
-      "duration_ms": 134406,
-      "name": "Red On My Lips",
-      "url": "https://open.spotify.com/track/5MBNXbieJAHV7lOcNxpzfL"
+      "duration_ms": 182857,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
     },
     {
       "added_at": "2025-08-25 19:42:35",
@@ -759,6 +743,22 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
+        "name": "Red On My Lips",
+        "url": "https://open.spotify.com/album/6cW19rqP5z2smPZwyeG6vL"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        }
+      ],
+      "duration_ms": 134406,
+      "name": "Red On My Lips",
+      "url": "https://open.spotify.com/track/5MBNXbieJAHV7lOcNxpzfL"
+    },
+    {
+      "added_at": "2025-08-25 19:42:35",
+      "album": {
         "name": "Liga\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
       },
@@ -783,26 +783,6 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
-        "name": "perco o ar",
-        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 204604,
-      "name": "perco o ar",
-      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
-    },
-    {
-      "added_at": "2025-08-25 19:42:35",
-      "album": {
         "name": "N\u00e3o Vou Negar",
         "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 163937,
       "name": "N\u00e3o Vou Negar",
       "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
+    },
+    {
+      "added_at": "2025-08-25 19:42:35",
+      "album": {
+        "name": "perco o ar",
+        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 204604,
+      "name": "perco o ar",
+      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
     },
     {
       "added_at": "2025-08-25 19:42:35",
@@ -855,6 +855,26 @@
       "duration_ms": 185499,
       "name": "Viu!?",
       "url": "https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf"
+    },
+    {
+      "added_at": "2025-08-25 19:42:35",
+      "album": {
+        "name": "Daqui pra Frente - Dread Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY"
+      },
+      "artists": [
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 181514,
+      "name": "Daqui pra Frente - Dread Session, Vol. 1",
+      "url": "https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn"
     },
     {
       "added_at": "2025-08-25 19:42:35",
@@ -927,26 +947,6 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
-        "name": "Daqui pra Frente - Dread Session, Vol. 1",
-        "url": "https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY"
-      },
-      "artists": [
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 181514,
-      "name": "Daqui pra Frente - Dread Session, Vol. 1",
-      "url": "https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn"
-    },
-    {
-      "added_at": "2025-08-25 19:42:35",
-      "album": {
         "name": "Sozinho",
         "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
       },
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
+        "name": "UNHA DE FOGUINHO",
+        "url": "https://open.spotify.com/album/4Snh5BuDdaYJPJ0Fl2H1Uz"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "duration_ms": 165037,
+      "name": "UNHA DE FOGUINHO",
+      "url": "https://open.spotify.com/track/6lH6NusL3eoEv9XIJTVNWH"
+    },
+    {
+      "added_at": "2025-08-25 19:42:35",
+      "album": {
         "name": "Tempo Que N\u00e3o Volta",
         "url": "https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 172173,
       "name": "Tempo Que N\u00e3o Volta",
       "url": "https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8"
-    },
-    {
-      "added_at": "2025-08-25 19:42:35",
-      "album": {
-        "name": "UNHA DE FOGUINHO",
-        "url": "https://open.spotify.com/album/4Snh5BuDdaYJPJ0Fl2H1Uz"
-      },
-      "artists": [
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 165037,
-      "name": "UNHA DE FOGUINHO",
-      "url": "https://open.spotify.com/track/6lH6NusL3eoEv9XIJTVNWH"
     },
     {
       "added_at": "2025-08-25 19:42:35",

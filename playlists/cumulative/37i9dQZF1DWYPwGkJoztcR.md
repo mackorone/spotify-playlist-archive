@@ -4,7 +4,7 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-113 songs - 6 hr 31 min
+114 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Daydreaming](https://open.spotify.com/track/1bBXBskc6n3uJywJUdcWEC) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [In my cluttered head](https://open.spotify.com/album/1AchE697lDOBQB0LuUTjDC) | 3:23 | 2025-06-27 |  |
 | [Do You Want To Be Honest?](https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Do You Want To Be Honest?](https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ) | 3:32 | 2025-06-27 |  |
 | [Duly Love](https://open.spotify.com/track/2fqRddXFY6TNFvbdfTOtcK) | [Robin Storm](https://open.spotify.com/artist/3fZXZxVDGmf9HeSNzOZklx) | [Duly Love](https://open.spotify.com/album/7CenE3Z51PKnvEkEMDbbg5) | 3:09 | 2025-06-27 |  |
+| [Every Town](https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Every Town](https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q) | 3:53 | 2025-09-15 |  |
 | [Everyday Life](https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 4:18 | 2025-06-27 | 2025-09-04 |
 | [Falling](https://open.spotify.com/track/0V9YrzbwrwU56cJEzo8l5q) | [Loes Haverkort](https://open.spotify.com/artist/54777M62D5hfIB0mFJ7Lzy) | [Falling](https://open.spotify.com/album/3wJxsWMmDGAxsBOR55WHVK) | 3:36 | 2025-06-27 |  |
 | [Falling Easy](https://open.spotify.com/track/4s0eEqOyR0ybLtBo5fkPB6) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Green Lights](https://open.spotify.com/album/0pIx3rjKDxor7Uza8remku) | 2:57 | 2025-06-27 |  |
@@ -52,8 +53,8 @@
 | [I Look For You](https://open.spotify.com/track/4RLvewAmYtg8FetS2t3sjA) | [BYNK](https://open.spotify.com/artist/1JHiSrdnSqRoXMDxlrDM57) | [I Look For You](https://open.spotify.com/album/4DzVKjoqUO5l0e4BDj51wr) | 3:31 | 2025-06-27 |  |
 | [I Will](https://open.spotify.com/track/55iAa62IUSZPvDomtdTXtf) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [BROWN & GRAY](https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN) | [I Will](https://open.spotify.com/album/7dDoxxE2cbTMHdgd9ddiAj) | 2:49 | 2025-06-27 |  |
 | [In The Middle](https://open.spotify.com/track/7n2tqj3L3fflT1ApcOWWgw) | [Mad3 for M3](https://open.spotify.com/artist/6gkVmcX3QAvhKaS481fpzV), [Cris Cab](https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK) | [In The Middle](https://open.spotify.com/album/3jJe1v9GSpDnow0L8Tw4ZW) | 3:41 | 2025-06-27 |  |
-| [It's The First Time 2021](https://open.spotify.com/track/6Daq4m0QeSWUPBIsI0jNCM) | [Lois Lane](https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt) | [It's The First Time 2021](https://open.spotify.com/album/7hVeYFdAOQpmueUQwrL95t) | 3:54 | 2025-06-27 |  |
-| [Julianne](https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:51 | 2025-06-27 |  |
+| [It's The First Time 2021](https://open.spotify.com/track/6Daq4m0QeSWUPBIsI0jNCM) | [Lois Lane](https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt) | [It's The First Time 2021](https://open.spotify.com/album/7hVeYFdAOQpmueUQwrL95t) | 3:55 | 2025-06-27 |  |
+| [Julianne](https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:51 | 2025-06-27 | 2025-09-18 |
 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2025-06-27 |  |
 | [Just Say Aye](https://open.spotify.com/track/2FUWdMp90MAPCc1zV0CtQd) | [Daniel Docherty](https://open.spotify.com/artist/186gOhAX0pNXjYldk47D0F), [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Just Say Aye](https://open.spotify.com/album/6aTtPR8tdR33NwAFJg9yyb) | 3:38 | 2025-06-27 |  |
 | [Kind Of Love](https://open.spotify.com/track/6IBkD70W6Lx4w13dzyYNEn) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Kind Of Love](https://open.spotify.com/album/0DAoXzBMrgwUt84tXqkKyJ) | 3:54 | 2025-06-27 | 2025-09-16 |

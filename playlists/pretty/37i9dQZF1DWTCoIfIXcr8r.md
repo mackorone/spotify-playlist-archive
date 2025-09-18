@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCoIfIXcr8r.md) - [plain]
 
 > Find your flow with a classical Indian soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,809 likes - 50 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,823 likes - 50 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,14 +16,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCoIfIXcr8r.md) - [plain]
 | 6 | [Jogiya](https://open.spotify.com/track/7oDCqI6qYIc2ebiduj7RkM) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 3:59 |
 | 7 | [Flute Bhairavi](https://open.spotify.com/track/3y2qoG04eGcwXrpTzQSkzY) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 2:13 |
 | 8 | [Raga Bhairavi](https://open.spotify.com/track/4ZSFj6ZtxOfd5WTswALDVP) | [Shaant Man](https://open.spotify.com/artist/3DlcfbEsCsjEkmTOAHBNwO) | [Raga Bageshri](https://open.spotify.com/album/6fFlNIRxn9PddYBHxGCOte) | 4:29 |
-| 9 | [Raag Shuddh Sarang\-Alap](https://open.spotify.com/track/5m7bVAjnN5tjcbcjBmDi7X) | [Raghunath Seth](https://open.spotify.com/artist/3R3kXhcudwAwi9WXL0nIjg) | [Pandit Raghunath Seth](https://open.spotify.com/album/7gA8iaSNVBHXMloszROyi8) | 6:32 |
+| 9 | [Raag Shuddh Sarang\-Alap](https://open.spotify.com/track/5m7bVAjnN5tjcbcjBmDi7X) | [Pandit Raghunath Seth](https://open.spotify.com/artist/3R3kXhcudwAwi9WXL0nIjg) | [Pandit Raghunath Seth](https://open.spotify.com/album/7gA8iaSNVBHXMloszROyi8) | 6:32 |
 | 10 | [Asavari](https://open.spotify.com/track/3hsLPliFTPsnj1LJYSe88w) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 5:52 |
 | 11 | [Raga Ahiri Todi \(gat in Vilambit Ektaal\)](https://open.spotify.com/track/0W8qPEIHNGVsLqlMHbTATf) | [Benjamin Shrivastav Shanson](https://open.spotify.com/artist/3IKouO9Y74YNhaDsd65Ogl), [Partho Mukherjee](https://open.spotify.com/artist/1IftW1kiCpeNpYZLCIVk2j), [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [The Art of the Indian Dilruba](https://open.spotify.com/album/64hQ09B9825K5BndFE0zcB) | 15:32 |
 | 12 | [Peaceful Escape \(Raga Bhimpalasi\)](https://open.spotify.com/track/1iOJROLXHdQM4eOyFutqKw) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Whisper](https://open.spotify.com/album/5JbHzXUfSQuVXabVdaEuNr) | 5:03 |
 | 13 | [Pilu](https://open.spotify.com/track/0fhMfRX1cNa5YqjADO581I) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 5:52 |
 | 14 | [Raga Patdeep \- Alap](https://open.spotify.com/track/2LOwDjRTCEV72ijYjHSZlu) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Aradhana](https://open.spotify.com/album/2tGZD01y5HosmqD4Lssg9k) | 7:15 |
 | 15 | [Raga \- Brindavani](https://open.spotify.com/track/3BMLk59gpyhKR6OVunPIeo) | [B\. Sivaramakrishna Rao](https://open.spotify.com/artist/6CgbREbxupEkAr0CqTHajh) | [Healing Ragas](https://open.spotify.com/album/68Ly5LFDwAmtMdEDmG1LUr) | 9:13 |
-| 16 | [Raag Dhani\-Alap](https://open.spotify.com/track/6b9iKoO6mgaeUwjZGSqdn8) | [Raghunath Seth](https://open.spotify.com/artist/3R3kXhcudwAwi9WXL0nIjg) | [Pandit Raghunath Seth](https://open.spotify.com/album/7gA8iaSNVBHXMloszROyi8) | 5:34 |
+| 16 | [Raag Dhani\-Alap](https://open.spotify.com/track/6b9iKoO6mgaeUwjZGSqdn8) | [Pandit Raghunath Seth](https://open.spotify.com/artist/3R3kXhcudwAwi9WXL0nIjg) | [Pandit Raghunath Seth](https://open.spotify.com/album/7gA8iaSNVBHXMloszROyi8) | 5:34 |
 | 17 | [Raga Purya Kalyan \- Alap](https://open.spotify.com/track/4eKiGJ1AZae3uF17Rxf3CI) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Aradhana](https://open.spotify.com/album/2tGZD01y5HosmqD4Lssg9k) | 3:42 |
 | 18 | [Raga Madhuvanti: Gat I\. Rupak Taal, Tihai \(Live\)](https://open.spotify.com/track/2h5FdXnhDkPLd6fd6ANNiG) | [Pandit Dhruv Nath Mishra](https://open.spotify.com/artist/62oZ169ulQWy1pcVdT32hu), [Ravi Tripathi](https://open.spotify.com/artist/7D73VJBs9rJh9USThws70P) | [The Sounds of Varanasi](https://open.spotify.com/album/0lcivNOAvETQuDFgizuIrm) | 3:40 |
 | 19 | [Meditating On The Ocean of Awareness \- Mohanam Raga](https://open.spotify.com/track/0NYnNPUscMRxffTjNRpaTc) | [Music for Deep Meditation](https://open.spotify.com/artist/7rZubTb0F8TCTUsNBgfy9I) | [Classical Indian Music for Healing and Relaxation \- The Ancient Beauty of the Veena With Young Virtuosa Gayatri Govindarajan](https://open.spotify.com/album/6dJxnAd9TI4qc4PeEoVqxr) | 6:27 |

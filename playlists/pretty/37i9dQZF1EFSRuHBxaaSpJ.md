@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 53 | [Papel](https://open.spotify.com/track/2cqnmtSYMDRUBWDkFJWlXj) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 3:16 |
 | 54 | [Mitterrand](https://open.spotify.com/track/3cK8iQ4iSDaUE2wlZ2N7lF) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 2:49 |
 | 55 | [L'EFFORT \- interlude](https://open.spotify.com/track/5jCrLazhdpVCeXPnd2XiDH) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 1:48 |
-| 56 | [Entre nous](https://open.spotify.com/track/0CCuBJkOnLy09zFaQBSJ50) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Entre nous](https://open.spotify.com/album/1LvrT5k4frdXaOy7sc66jl) | 2:48 |
-| 57 | [Love Therapy](https://open.spotify.com/track/0gIphsFucR85iYwuMcqxiv) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 5:08 |
+| 56 | [Love Therapy](https://open.spotify.com/track/0gIphsFucR85iYwuMcqxiv) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 5:08 |
+| 57 | [Entre nous](https://open.spotify.com/track/0CCuBJkOnLy09zFaQBSJ50) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Entre nous](https://open.spotify.com/album/1LvrT5k4frdXaOy7sc66jl) | 2:48 |
 | 58 | [Celtics](https://open.spotify.com/track/4ZFvrW2BSxfJfJ69WPL5ws) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Day One](https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L) | 3:00 |
 | 59 | [Ce soir](https://open.spotify.com/track/2pURrR5rSb7XUwRhEz5xSN) | [SLK](https://open.spotify.com/artist/6CBm5KPNnurK4hFutVDIpz), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [La Centrale](https://open.spotify.com/album/6f8fSoo94Jbu6QBAKkYk1O) | 2:57 |
 | 60 | [Lalala](https://open.spotify.com/track/0QY2cfSWkWtY4bXWfAlMSf) | [Sifax](https://open.spotify.com/artist/5dacK0fiMwLoV93yBdUrZK) | [La Mentale](https://open.spotify.com/album/3gnmXOGZpZrM4lpFTjqUqu) | 2:56 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 77 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 |
 | 78 | [fade up](https://open.spotify.com/track/6VhmOw8lERbTRs1Al7iy2z) | [Eliias](https://open.spotify.com/artist/36hWlixqFk1ZWlJQYaB5To) | [march 29](https://open.spotify.com/album/1DpoTfAnZAEEIqJ4zqcpJG) | 6:32 |
 
-Snapshot ID: `Ab8aUgAAAAB3jnOeuBRd6xCpdwc/lhUw`
+Snapshot ID: `Ab8fwAAAAABvACpI/dd3EuSfqqi4p7UL`

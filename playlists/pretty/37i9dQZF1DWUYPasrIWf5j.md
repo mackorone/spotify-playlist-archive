@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 
 > Instrumental covers of favourites played on ukulele.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,035 likes - 88 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,067 likes - 88 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 21 | [Learn to Fly](https://open.spotify.com/track/0lVszdihtq1tt9MFMesZ4a) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Ooh La La](https://open.spotify.com/album/24AKH2sDtBVCQJg1wkYarc) | 3:56 |
 | 22 | [Driver's License](https://open.spotify.com/track/0Z4318tVXV1bUuf481yYb5) | [Michael Shirley](https://open.spotify.com/artist/2q3cCHnHPfV8jzQIfqwkb6) | [Driver's License](https://open.spotify.com/album/5eK4J7fmTeXVuokj4GBFJl) | 3:52 |
 | 23 | [Jolene](https://open.spotify.com/track/04pU2FFhRKcNVTAA6mZiSR) | [Lukas Glenn](https://open.spotify.com/artist/5ynIpFDk091P5NvdaMsrEO) | [Jolene](https://open.spotify.com/album/7JN5r9ErFDdIWP0Z89B8C3) | 2:51 |
-| 24 | [I'll Be There](https://open.spotify.com/track/3foBkSLypzR5fkDIngs930) | [Jack Adeline](https://open.spotify.com/artist/46IufC6lZGWAWbbLzy0COP) | [I'll Be There](https://open.spotify.com/album/0pDpabFpvlmlaSAdUNaHvw) | 3:49 |
+| 24 | [I'll Be There](https://open.spotify.com/track/3foBkSLypzR5fkDIngs930) | [J\. Adeline](https://open.spotify.com/artist/0tVNHCVKmdQ5KynS8NCZMx) | [I'll Be There](https://open.spotify.com/album/0pDpabFpvlmlaSAdUNaHvw) | 3:49 |
 | 25 | [The Lazy Song](https://open.spotify.com/track/2fOa6SUM7HAtMxZSzA38S8) | [Jillian Bosch](https://open.spotify.com/artist/6M4papcmK0X0HNyA3felGW) | [A Thousand Years](https://open.spotify.com/album/56X5chQwECoMG26y7HY7RQ) | 3:16 |
 | 26 | [Another Love](https://open.spotify.com/track/0NLQqEnyWUpsoSNuo7uqBE) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Another Love](https://open.spotify.com/album/1ooUrQVIUBFcKiSHbRRYf3) | 4:17 |
 | 27 | [Save Your Tears](https://open.spotify.com/track/5PilZ505kJWTzIMkbvWMGX) | [Thiago Ferna](https://open.spotify.com/artist/6DhYjMCO2gZhXIsLtY8Rqu) | [Save Your Tears](https://open.spotify.com/album/5ruPKHpJM3H75v4XiGKg9K) | 3:39 |
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 57 | [Hakuna Matata \- Ukulele](https://open.spotify.com/track/00JVfpsAdypvz7gT4ZxaMk) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/7IOgP4SbeI4sfrcJjfZi4v) | 2:47 |
 | 58 | [Waterloo Sunset](https://open.spotify.com/track/6MjhsQAxVzHCwhXkql67ZR) | [Leon Leke](https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe) | [Waterloo Sunset](https://open.spotify.com/album/1PUvm2zu9tv6vfCT8TZfAI) | 3:30 |
 | 59 | [A Thousand Years](https://open.spotify.com/track/4nhlQ1y76rSqrQs0SZwylA) | [Michael Sharon](https://open.spotify.com/artist/3nwEO3bnbLWk2QGHo7JSvm) | [Uke Classics](https://open.spotify.com/album/27AhRs4C9zr6daRn8f0ckn) | 4:43 |
-| 60 | [Sunshine Superman](https://open.spotify.com/track/1EnLRToE3ecicHWleYow1d) | [Jack Adeline](https://open.spotify.com/artist/46IufC6lZGWAWbbLzy0COP) | [Sunshine Superman](https://open.spotify.com/album/4ynXAjJpx6QJTiJ6w1h3ey) | 3:47 |
+| 60 | [Sunshine Superman](https://open.spotify.com/track/1EnLRToE3ecicHWleYow1d) | [J\. Adeline](https://open.spotify.com/artist/0tVNHCVKmdQ5KynS8NCZMx) | [Sunshine Superman](https://open.spotify.com/album/4ynXAjJpx6QJTiJ6w1h3ey) | 3:47 |
 | 61 | [I Got You Babe](https://open.spotify.com/track/6mofZ4UGWUNvccgBTQ9Zgc) | [Brandi Singer](https://open.spotify.com/artist/6M21uZWGDjG8BDYuFBTxzo) | [I Got You Babe](https://open.spotify.com/album/02oFSVAq9OkC8ugRm8i8xI) | 3:07 |
 | 62 | [Lucky](https://open.spotify.com/track/0bWRj1HS4Z0f08LSAZYGsh) | [Brandi Singer](https://open.spotify.com/artist/6M21uZWGDjG8BDYuFBTxzo) | [Ukelele Girl](https://open.spotify.com/album/6dMsLBwMpTlwWsE1U3Sz7R) | 3:06 |
 | 63 | [All Of Me](https://open.spotify.com/track/0q27gc0LjAclgicdlnG182) | [Kelly Tindall](https://open.spotify.com/artist/4xD621j6OgUo2hQYeHAfZ6) | [All of Me](https://open.spotify.com/album/6HyyJzRp1wsqrTYUTB6mcW) | 3:51 |
-| 64 | [The Lion Sleeps Tonight](https://open.spotify.com/track/1lYTXhbkp0rZAN8KXqyX0I) | [Jack Adeline](https://open.spotify.com/artist/46IufC6lZGWAWbbLzy0COP) | [Sunshine Superman](https://open.spotify.com/album/4ynXAjJpx6QJTiJ6w1h3ey) | 3:16 |
+| 64 | [The Lion Sleeps Tonight](https://open.spotify.com/track/1lYTXhbkp0rZAN8KXqyX0I) | [J\. Adeline](https://open.spotify.com/artist/0tVNHCVKmdQ5KynS8NCZMx) | [Sunshine Superman](https://open.spotify.com/album/4ynXAjJpx6QJTiJ6w1h3ey) | 3:16 |
 | 65 | [Take Me Home, Country Roads](https://open.spotify.com/track/6Fs6w8DpsvDWSBZ31YMQOO) | [Peter Shore](https://open.spotify.com/artist/7JNxtPv7RyoODXUVh45GW6) | [Uke Dreams](https://open.spotify.com/album/0xBCxd4ODDwEiaZHnztUA6) | 3:17 |
 | 66 | [Don't Worry Be Happy](https://open.spotify.com/track/4CGLkQhF9G2aTExZChONix) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 5:22 |
 | 67 | [Brown Eyed Girl \(Instrumental Version\)](https://open.spotify.com/track/3lEbjq7AFXvskZTSSt9lZo) | [Matt Carlson](https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8) | [Ukulele Covers of Pop Hits](https://open.spotify.com/album/2LrJLsqxDuRtfLtTHYtfoi) | 3:44 |

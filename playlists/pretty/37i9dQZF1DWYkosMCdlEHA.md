@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,665 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,667 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 42 | [Burnin' & Lootin' \- Live At Music Hall, Boston / 1978](https://open.spotify.com/track/0gfDevYMgqlw7hCF08Mo17) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Easy Skanking In Boston '78](https://open.spotify.com/album/3DZmcdIS8JlZwYFhbN9Pbc) | 5:35 |
 | 43 | [Proibiram as Flores \- Acústico](https://open.spotify.com/track/6TlCniUVARBxvWoYO3nkqy) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Eltin](https://open.spotify.com/artist/0CuAjzGLgyZe7aHgVwSzSq) | [Proibiram as Flores \(Acústico\)](https://open.spotify.com/album/4acrd7sLUexTmyeRF15QOs) | 3:58 |
 | 44 | [Reggae de Barão \- Acústico](https://open.spotify.com/track/1eZq0aDtVF4JOe1OMXCQKo) | [Da Vula Band](https://open.spotify.com/artist/4foXml2ME1mqHJ6i8DDhdA) | [Flow and Slow \(Acústico\)](https://open.spotify.com/album/5Rb8yyhD4wFRbzGJxK2UOM) | 3:42 |
-| 45 | [A Verdade](https://open.spotify.com/track/2bYnxpCsu0GOPCH0VG98mu) | [Acustico Reggae](https://open.spotify.com/artist/7FcAQCTYtDwaJxuImpe7Wh) | [Na Cidade](https://open.spotify.com/album/6PazpBG8UxyQNrf2GFFpSt) | 3:19 |
-| 46 | [Estar Com Você \- Acústico](https://open.spotify.com/track/6RhGK2a9CBRBhkM8IrAbFy) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Emmano](https://open.spotify.com/artist/4kexQ10G1LH3GVukrGooaq) | [Acústico Helio Bentes](https://open.spotify.com/album/0dChJJpi23nrGBsdTiIRrh) | 2:56 |
+| 45 | [Estar Com Você \- Acústico](https://open.spotify.com/track/6RhGK2a9CBRBhkM8IrAbFy) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Emmano](https://open.spotify.com/artist/4kexQ10G1LH3GVukrGooaq) | [Acústico Helio Bentes](https://open.spotify.com/album/0dChJJpi23nrGBsdTiIRrh) | 2:56 |
+| 46 | [A Verdade](https://open.spotify.com/track/2bYnxpCsu0GOPCH0VG98mu) | [Acustico Reggae](https://open.spotify.com/artist/7FcAQCTYtDwaJxuImpe7Wh) | [Na Cidade](https://open.spotify.com/album/6PazpBG8UxyQNrf2GFFpSt) | 3:19 |
 | 47 | [Rouxinois \- Acústico](https://open.spotify.com/track/4fRuM4IPj3p4KF1Y7noleR) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Rouxinois](https://open.spotify.com/album/6Yui3ZXHsYRpg0v7I4hMPc) | 3:21 |
 | 48 | [É Bonito de Ver](https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt) | [Madayati](https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K) | [É Bonito de Ver](https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3) | 3:21 |
 | 49 | [No Mar \- Ao Vivo](https://open.spotify.com/track/38P9vgI3czMkthxfAbwxcw) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts \- Natiruts Acústico ao Vivo no Rio de Janeiro](https://open.spotify.com/album/2Bgbj1L9OuhIsGNYumBMQb) | 3:29 |

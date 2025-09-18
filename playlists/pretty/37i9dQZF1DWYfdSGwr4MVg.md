@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfdSGwr4MVg.md) - [plain]
 
 > Gentle lullabies that soothe, relax, and ease your baby to sleep 🧸🌙💤
 
-[Spotify](https://open.spotify.com/user/spotify) - 442 likes - 150 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 449 likes - 150 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfdSGwr4MVg.md) - [plain]
 | 125 | [Sleepy Sunsets](https://open.spotify.com/track/4sr6QHv1sfNmYmGenPxFi6) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Sleepy Sunsets](https://open.spotify.com/album/4EZuI4fS5bZDSycFo8NAmi) | 1:44 |
 | 126 | [Hush Little Baby](https://open.spotify.com/track/3dZsGdzWYHCOXiikBixgmI) | [Steinar Lugn](https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1) | [Hush Little Baby](https://open.spotify.com/album/7zitQ3fdy1ixpuX7c4W5Ze) | 1:44 |
 | 127 | [A Soft Morning](https://open.spotify.com/track/3XWPbydiRn9kl6DMWtw33O) | [Peyton Malloye](https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx) | [A Soft Morning](https://open.spotify.com/album/0z2CvCuHJPqYgmPuw9MUrN) | 1:44 |
-| 128 | [Wishes And Dreams](https://open.spotify.com/track/7pLIblryaPZdRpzchMH6lF) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Wishes And Dreams](https://open.spotify.com/album/5iq6HY6limzuEPGMWSyRDr) | 2:28 |
+| 128 | [Wishes And Dreams](https://open.spotify.com/track/7pLIblryaPZdRpzchMH6lF) | [C\. Galloway](https://open.spotify.com/artist/4L9pdQ2AqtetBjet9GSWX6) | [Wishes And Dreams](https://open.spotify.com/album/5iq6HY6limzuEPGMWSyRDr) | 2:28 |
 | 129 | [Little Lady Bird](https://open.spotify.com/track/6xOH1jKAX6XcMKR4w5XEy4) | [Cats meow](https://open.spotify.com/artist/2ItMNwIn1iI3oqnSZfnbpy) | [Little Lady Bird](https://open.spotify.com/album/7qPygS88Yken4LaSNrjSdg) | 2:11 |
 | 130 | [Left And Right](https://open.spotify.com/track/0H9uhbL0BrrV7iMnNovlIr) | [Francine Miller](https://open.spotify.com/artist/5vxAOWWWvD46wo9rxyELlv) | [Left And Right](https://open.spotify.com/album/6TsQmkqi4FGV7umaH5v7c1) | 1:56 |
 | 131 | [Tender Love](https://open.spotify.com/track/1Sj9j66afjsxGjB2sshX0f) | [Greg Lattimore](https://open.spotify.com/artist/2qmcE76xWoCFGJy7fzPcx6) | [Tender Love](https://open.spotify.com/album/1dzNzILrstf1UJv9DEXDoA) | 2:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Ryan Ofei & Shoreline City Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 943,813 likes - 75 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 943,884 likes - 75 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 12 | [The Lamb's Book of Life \- Live From Passion 2025](https://open.spotify.com/track/0wfutOGnaGste3UPCEFHEV) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Call On Heaven \(Come, Lord Jesus\) \- Live](https://open.spotify.com/album/4tgH3HIbpzXKMjDIadVHIY) | 6:02 |
 | 13 | [Before We Put Our Trust In Human Kings / Exalted \- Live](https://open.spotify.com/track/0cYZliKx3JNe2YIounQPvy) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz), [Charrise Barron](https://open.spotify.com/artist/6605K7pp3GA4NxliiVPret) | [Before We Put Our Trust In Human Kings / Exalted \(Live\)](https://open.spotify.com/album/2Y9vpMNj8F3pHdIEMmfcRZ) | 7:09 |
 | 14 | [Love of God \(Live\)](https://open.spotify.com/track/5lwi7XvSzlGsJ6NIGR1qAn) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Love of God \(Live\)](https://open.spotify.com/album/1NdJ3UWZpGZFkrMu6Xe69K) | 7:48 |
-| 15 | [Tend \- Live](https://open.spotify.com/track/48coTJmM6gVsjGQcvzihge) | [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Tend \(Live\)](https://open.spotify.com/album/5ggbPIq5UwLEthNL7uM1RX) | 6:49 |
+| 15 | [Tend \- Live](https://open.spotify.com/track/48coTJmM6gVsjGQcvzihge) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo) | [Tend \(Live\)](https://open.spotify.com/album/5ggbPIq5UwLEthNL7uM1RX) | 6:49 |
 | 16 | [You Stay The Same \- Live](https://open.spotify.com/track/1GVNMNVD6iShdSkhXdNy01) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Hailey Hampton](https://open.spotify.com/artist/1es11bh34XVASYtJEa6be3) | [You Stay The Same \(Live\)](https://open.spotify.com/album/7rzqEeJH3LEF5g8Gt3TfhK) | 5:33 |
 | 17 | [Holy Hands \- Live](https://open.spotify.com/track/1CRnlPeWgRyep3kfulcaVp) | [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Holy Hands \(Live\)](https://open.spotify.com/album/0TlNPCiRxU36TmSo9ovB6P) | 7:14 |
 | 18 | [Worship You Forever \- Live](https://open.spotify.com/track/73UurtEXXHMNMcmrFjy1QI) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Taku Mudere](https://open.spotify.com/artist/0vwGmATjvSL1WFEFBOxBxP), [Liv Glenny](https://open.spotify.com/artist/2SKJKPnvWGBcgvD36Dyp48) | [Worship You Forever \(Live\)](https://open.spotify.com/album/69kq9MBksNnBiXZjozRvbz) | 8:15 |

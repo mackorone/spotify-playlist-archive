@@ -1,6 +1,6 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: LISA",
-  "num_followers": 469910,
+  "num_followers": 469924,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2025-08-11 13:08:34",
       "album": {
-        "name": "Bruises EP",
-        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Bruises - Steve Void Remix",
-      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
-    },
-    {
-      "added_at": "2025-08-11 13:08:34",
-      "album": {
         "name": "My Head & My Heart (Claptone Remix)",
         "url": "https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 182450,
       "name": "My Head & My Heart - Claptone Remix",
       "url": "https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP"
+    },
+    {
+      "added_at": "2025-08-11 13:08:34",
+      "album": {
+        "name": "Bruises EP",
+        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "Bruises - Steve Void Remix",
+      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
     },
     {
       "added_at": "2025-08-11 13:08:34",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-08-11 13:08:34",
       "album": {
+        "name": "Fly Away (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/3jQOaHRiMgqxMN2qo1SZTJ"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 192195,
+      "name": "Fly Away (Jonas Blue Remix)",
+      "url": "https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo"
+    },
+    {
+      "added_at": "2025-08-11 13:08:34",
+      "album": {
         "name": "Wait So Long (RE\\MIND Remix)",
         "url": "https://open.spotify.com/album/26xNafbC2ESdSmzYMsr0S0"
       },
@@ -963,30 +979,6 @@
       "duration_ms": 289959,
       "name": "Wait So Long - RE\\MIND Remix",
       "url": "https://open.spotify.com/track/0yZjFgJYHJwnMMBhzEBP7J"
-    },
-    {
-      "added_at": "2025-08-11 13:08:34",
-      "album": {
-        "name": "Blessings - The Remixes (Part 1)",
-        "url": "https://open.spotify.com/album/2jKX83sjxv0Jwk35xBR0Us"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        },
-        {
-          "name": "CamrinWatsin",
-          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Blessings - CamrinWatsin Remix",
-      "url": "https://open.spotify.com/track/3bErnntUPcW8jLbixhpZmQ"
     },
     {
       "added_at": "2025-08-11 13:08:34",
@@ -1011,22 +1003,6 @@
     {
       "added_at": "2025-08-11 13:08:34",
       "album": {
-        "name": "Fly Away (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/3jQOaHRiMgqxMN2qo1SZTJ"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 192195,
-      "name": "Fly Away (Jonas Blue Remix)",
-      "url": "https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo"
-    },
-    {
-      "added_at": "2025-08-11 13:08:34",
-      "album": {
         "name": "Lil Boo Thang (Galantis Remix)",
         "url": "https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5"
       },
@@ -1043,6 +1019,30 @@
       "duration_ms": 129631,
       "name": "Lil Boo Thang - Galantis Remix",
       "url": "https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0"
+    },
+    {
+      "added_at": "2025-08-11 13:08:34",
+      "album": {
+        "name": "Blessings - The Remixes (Part 1)",
+        "url": "https://open.spotify.com/album/2jKX83sjxv0Jwk35xBR0Us"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        },
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Blessings - CamrinWatsin Remix",
+      "url": "https://open.spotify.com/track/3bErnntUPcW8jLbixhpZmQ"
     },
     {
       "added_at": "2025-08-11 13:08:34",

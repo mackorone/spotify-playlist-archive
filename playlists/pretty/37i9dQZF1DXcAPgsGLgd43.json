@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 97764,
+  "num_followers": 97819,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
+        "name": "Magalenha",
+        "url": "https://open.spotify.com/album/4n9gt1qeX4Pdb4Vr9P8L7K"
+      },
+      "artists": [
+        {
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        }
+      ],
+      "duration_ms": 155202,
+      "name": "Magalenha",
+      "url": "https://open.spotify.com/track/2w18aoWAqasGEgIP8kXGQh"
+    },
+    {
+      "added_at": "2025-09-12 04:00:10",
+      "album": {
         "name": "Pegado",
         "url": "https://open.spotify.com/album/1b3JSZK4YWuJDekO8LmMZA"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 125000,
       "name": "Pegado",
       "url": "https://open.spotify.com/track/2if67V4tMNmOdmwjQfNahB"
-    },
-    {
-      "added_at": "2025-09-12 04:00:10",
-      "album": {
-        "name": "Magalenha",
-        "url": "https://open.spotify.com/album/4n9gt1qeX4Pdb4Vr9P8L7K"
-      },
-      "artists": [
-        {
-          "name": "Leandro Da Silva",
-          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
-        }
-      ],
-      "duration_ms": 155202,
-      "name": "Magalenha",
-      "url": "https://open.spotify.com/track/2w18aoWAqasGEgIP8kXGQh"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
+        "name": "Matadora (Radio Edit)",
+        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
+      },
+      "artists": [
+        {
+          "name": "Maahez",
+          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Matadora - Radio Edit",
+      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
+    },
+    {
+      "added_at": "2025-09-12 04:00:10",
+      "album": {
         "name": "La Buena Vida (feat. Tayson Kryss)",
         "url": "https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 137963,
       "name": "La Buena Vida (feat. Tayson Kryss)",
       "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
-    },
-    {
-      "added_at": "2025-09-12 04:00:10",
-      "album": {
-        "name": "Matadora (Radio Edit)",
-        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
-      },
-      "artists": [
-        {
-          "name": "Maahez",
-          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
-        },
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Matadora - Radio Edit",
-      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -1755,26 +1755,18 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "Rulay",
-        "url": "https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN"
+        "name": "Capitale",
+        "url": "https://open.spotify.com/album/0huwDj81jiBTRF1dWOKjfo"
       },
       "artists": [
         {
-          "name": "GROSSOMODDO",
-          "url": "https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt"
-        },
-        {
-          "name": "Mydoz",
-          "url": "https://open.spotify.com/artist/0U1dlnhyX0WtKuJqPbNeXb"
-        },
-        {
-          "name": "Zairah",
-          "url": "https://open.spotify.com/artist/6zM7zqk0dutYW0BbtnaD8b"
+          "name": "Illyus Barrientos ",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
         }
       ],
-      "duration_ms": 165123,
-      "name": "Rulay",
-      "url": "https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw"
+      "duration_ms": 203520,
+      "name": "Capitale",
+      "url": "https://open.spotify.com/track/6SeZObDDZZiJmzY4qgfh57"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -1795,18 +1787,26 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "Capitale",
-        "url": "https://open.spotify.com/album/0huwDj81jiBTRF1dWOKjfo"
+        "name": "Rulay",
+        "url": "https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN"
       },
       "artists": [
         {
-          "name": "Illyus Barrientos ",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+          "name": "GROSSOMODDO",
+          "url": "https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt"
+        },
+        {
+          "name": "Mydoz",
+          "url": "https://open.spotify.com/artist/0U1dlnhyX0WtKuJqPbNeXb"
+        },
+        {
+          "name": "Zairah",
+          "url": "https://open.spotify.com/artist/6zM7zqk0dutYW0BbtnaD8b"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Capitale",
-      "url": "https://open.spotify.com/track/6SeZObDDZZiJmzY4qgfh57"
+      "duration_ms": 165123,
+      "name": "Rulay",
+      "url": "https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
+        "name": "Prendemos",
+        "url": "https://open.spotify.com/album/6q8kuIR3wtqvmU8R2nbtDP"
+      },
+      "artists": [
+        {
+          "name": "Boris Way",
+          "url": "https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Prendemos",
+      "url": "https://open.spotify.com/track/3VjDXDQHo85S8h6hfniLmb"
+    },
+    {
+      "added_at": "2025-09-12 04:00:10",
+      "album": {
         "name": "La Luz",
         "url": "https://open.spotify.com/album/3uWcMVDJHFQc62aZkwcsAf"
       },
@@ -1967,22 +1983,6 @@
       "duration_ms": 160000,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae"
-    },
-    {
-      "added_at": "2025-09-12 04:00:10",
-      "album": {
-        "name": "Prendemos",
-        "url": "https://open.spotify.com/album/6q8kuIR3wtqvmU8R2nbtDP"
-      },
-      "artists": [
-        {
-          "name": "Boris Way",
-          "url": "https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Prendemos",
-      "url": "https://open.spotify.com/track/3VjDXDQHo85S8h6hfniLmb"
     },
     {
       "added_at": "2025-09-12 04:00:10",

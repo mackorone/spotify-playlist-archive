@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 512219,
+  "num_followers": 512416,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Dusty In Memphis",
-        "url": "https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 148053,
-      "name": "Son Of A Preacher Man",
-      "url": "https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Papas & The Mamas",
         "url": "https://open.spotify.com/album/0JJMI060q086v9ul5gHdey"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 194426,
       "name": "Dream A Little Dream Of Me",
       "url": "https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Dusty In Memphis",
+        "url": "https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 148053,
+      "name": "Son Of A Preacher Man",
+      "url": "https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Wonderful World Of Sam Cooke",
         "url": "https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 128786,
       "name": "(What A) Wonderful World - Mono",
       "url": "https://open.spotify.com/track/2G0GextMwZJLkNxcSZ7ZJ3"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "The Dock of the Bay",
-        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "You'll Lose A Good Thing",
@@ -747,6 +731,22 @@
       "duration_ms": 159866,
       "name": "You'll Lose A Good Thing",
       "url": "https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Dock of the Bay",
+        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "La La Means I Love You",
-        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 200906,
-      "name": "La-La Means I Love You",
-      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Take A Look",
@@ -811,6 +795,22 @@
       "duration_ms": 176080,
       "name": "Anyone Who Knows What Love Is (Will Understand)",
       "url": "https://open.spotify.com/track/5GWCndQ8ykzf6rYRvwrFcj"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "La La Means I Love You",
+        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "La-La Means I Love You",
+      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-05-03 14:52:34",
       "album": {
-        "name": "You Don't Have To Say You Love Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/52uwBxHFIheYUU0ydCL5Hh"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 170440,
-      "name": "You Don't Have To Say You Love Me",
-      "url": "https://open.spotify.com/track/0q8nQ0H4ad4KYcZdrTZPux"
-    },
-    {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
         "name": "...\"Let Me Sing\"",
         "url": "https://open.spotify.com/album/4oC3Mh9wD9vaZIvlxTsdX4"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 164000,
       "name": "Break It To Me Gently",
       "url": "https://open.spotify.com/track/5JccvAiwcZ7n3urnXqWPsG"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "You Don't Have To Say You Love Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/52uwBxHFIheYUU0ydCL5Hh"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 170440,
+      "name": "You Don't Have To Say You Love Me",
+      "url": "https://open.spotify.com/track/0q8nQ0H4ad4KYcZdrTZPux"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Golden Hits of The Everly Brothers",
-        "url": "https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 120306,
-      "name": "Crying in the Rain",
-      "url": "https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "You're All I Need",
         "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "The Golden Hits of The Everly Brothers",
+        "url": "https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 120306,
+      "name": "Crying in the Rain",
+      "url": "https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "If You Can Believe Your Eyes And Ears",
         "url": "https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 157960,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "A Girl Called Dusty (Expanded Edtion)",
-        "url": "https://open.spotify.com/album/1ulDMEpgJC1L4W05dMyqHl"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "Wishin' And Hopin' - Stereo Version",
-      "url": "https://open.spotify.com/track/4NAbnwBxeiFY714TBr3zBJ"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1231,6 +1215,22 @@
       "duration_ms": 207133,
       "name": "Cherish",
       "url": "https://open.spotify.com/track/7uGeDI6nJEdUYMsMd7mQyl"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "A Girl Called Dusty (Expanded Edtion)",
+        "url": "https://open.spotify.com/album/1ulDMEpgJC1L4W05dMyqHl"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "Wishin' And Hopin' - Stereo Version",
+      "url": "https://open.spotify.com/track/4NAbnwBxeiFY714TBr3zBJ"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/1MB4UsW8MUMLMRxuNsXpDm"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 172960,
-      "name": "A Place In The Sun",
-      "url": "https://open.spotify.com/track/0tURbnatc9qCxlYpXuPK8I"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Kitty Kallen's Coloring Book",
         "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
       },
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Guitars A La Lee",
-        "url": "https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4"
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/1MB4UsW8MUMLMRxuNsXpDm"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 129066,
-      "name": "Sweet Happy Life",
-      "url": "https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr"
+      "duration_ms": 172960,
+      "name": "A Place In The Sun",
+      "url": "https://open.spotify.com/track/0tURbnatc9qCxlYpXuPK8I"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "Guitars A La Lee",
+        "url": "https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 129066,
+      "name": "Sweet Happy Life",
+      "url": "https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Cowboys to Girls",
         "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
       },
@@ -1363,22 +1363,6 @@
       "duration_ms": 159080,
       "name": "Cowboys to Girls",
       "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "My Cherie Amour",
-        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Yester-Me, Yester-You, Yesterday",
-      "url": "https://open.spotify.com/track/0l9RGwc48deJ6j61KXAAvs"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Yester-Me, Yester-You, Yesterday",
+      "url": "https://open.spotify.com/track/0l9RGwc48deJ6j61KXAAvs"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "A Date with The Everly Brothers",
         "url": "https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P"
       },
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Bobby Vee",
-        "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vee",
-          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "More Than I Can Say",
-      "url": "https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Ooo Baby Baby: The Anthlogy",
         "url": "https://open.spotify.com/album/7iNG3yfard0TYDWKTFC6qr"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 191000,
       "name": "You've Really Got A Hold On Me",
       "url": "https://open.spotify.com/track/1vG906bxMqUVufJoLSF4rV"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Bobby Vee",
+        "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "More Than I Can Say",
+      "url": "https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-05-03 14:52:34",
       "album": {
-        "name": "Oh, What A Night! / The Great Ballads",
-        "url": "https://open.spotify.com/album/5IjlGKFY636wmz3eqE7V1N"
-      },
-      "artists": [
-        {
-          "name": "The Dells",
-          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Oh, What A Night",
-      "url": "https://open.spotify.com/track/2ht21Rlf8L6cPLBkYmhpcs"
-    },
-    {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
         "name": "Doo Wop Classics Vol. 1",
         "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 174200,
       "name": "Daddy's Home",
       "url": "https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Oh, What A Night! / The Great Ballads",
+        "url": "https://open.spotify.com/album/5IjlGKFY636wmz3eqE7V1N"
+      },
+      "artists": [
+        {
+          "name": "The Dells",
+          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Oh, What A Night",
+      "url": "https://open.spotify.com/track/2ht21Rlf8L6cPLBkYmhpcs"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -2231,8 +2231,8 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Ultimate Bee Gees",
-        "url": "https://open.spotify.com/album/6PM8QzSc6FXrL11UwDfdI1"
+        "name": "Best Of Bee Gees, Vol. 1",
+        "url": "https://open.spotify.com/album/0YD5pkRnCzXeCM2z8YlvjU"
       },
       "artists": [
         {
@@ -2240,9 +2240,9 @@
           "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/6oEyQSER3TyW92IJm61Fzk"
+      "duration_ms": 145573,
+      "name": "Massachusetts (2008 Remastered LP Version)",
+      "url": "https://open.spotify.com/track/1mBPlknQe00PCd7R9g34ix"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2311,6 +2311,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "The Ultimate Bee Gees",
+        "url": "https://open.spotify.com/album/6PM8QzSc6FXrL11UwDfdI1"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/6oEyQSER3TyW92IJm61Fzk"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Greatest Motown Hits",
         "url": "https://open.spotify.com/album/0OA94DlliFxpfYOptv1rNS"
       },
@@ -2323,22 +2339,6 @@
       "duration_ms": 175693,
       "name": "What Becomes Of The Brokenhearted",
       "url": "https://open.spotify.com/track/7Bvap2GAW2DAyZ7EVUJpMO"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Best Of Bee Gees, Vol. 1",
-        "url": "https://open.spotify.com/album/0YD5pkRnCzXeCM2z8YlvjU"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Massachusetts (2008 Remastered LP Version)",
-      "url": "https://open.spotify.com/track/1mBPlknQe00PCd7R9g34ix"
     },
     {
       "added_at": "2022-05-30 13:00:37",

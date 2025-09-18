@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,016 songs - 1 day 16 hr 44 min
+2,017 songs - 1 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1599,6 +1599,7 @@
 | [Soft Waves Arr\. For Felt Piano](https://open.spotify.com/track/1sDrkPu0uL96SZb84ATTCg) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Felt Piano Lullabies](https://open.spotify.com/album/32PpJ7q4DdWKYEiy0EtRLw) | 1:00 | 2023-07-06 | 2024-01-30 |
 | [Soft Waves Arr\. For Piano](https://open.spotify.com/track/2yQlIVNhe1tZzU62IdTH0Y) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Soft Piano Lullabies](https://open.spotify.com/album/1L1EO9QolDutpzDKVRK3t8) | 1:01 | 2023-01-25 |  |
 | [Soften](https://open.spotify.com/track/4kibMcibhtId8yZon153AX) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Soften](https://open.spotify.com/album/6bCdkq4rIdIyKqRfSVMYx0) | 1:00 | 2024-04-05 |  |
+| [Softening Heart](https://open.spotify.com/track/2k8HK1l4NB2ZNhwEKEI00K) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Softening Heart](https://open.spotify.com/album/1zIHfZzNjqeMNgcXQH5rMB) | 1:00 | 2025-09-17 |  |
 | [Softening Once Again](https://open.spotify.com/track/2kxNayMoa5msvitWO90xiR) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Calming Moments](https://open.spotify.com/album/4yz3qOY8SkpbzyUarrx00Z) | 1:01 | 2022-05-15 | 2025-03-03 |
 | [Softly Pierced](https://open.spotify.com/track/1qP4CRu80KxAqUfgqXclCr) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [January Reflections](https://open.spotify.com/album/27vMc2xjMVYrtcu2WsbZPz) | 1:06 | 2022-02-11 | 2024-01-30 |
 | [Softly Softly](https://open.spotify.com/track/1ZiackJELO9OcQHExv08XP) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Ambient Strings](https://open.spotify.com/album/4V4CPYWrLhhCCkAbX6B2sy) | 1:30 | 2024-01-29 |  |

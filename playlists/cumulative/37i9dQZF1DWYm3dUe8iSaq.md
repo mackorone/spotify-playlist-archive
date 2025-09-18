@@ -198,7 +198,7 @@
 | [Lightly Looms \- 7" Version](https://open.spotify.com/track/61nRG6QC5ngcqPKKRGZofs) | [Michael Baker](https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr) | [Lightly Looms \(7" Version\)](https://open.spotify.com/album/16zY9Qgh72UHlb33ersKvc) | 4:02 | 2022-04-08 | 2022-10-14 |
 | [Like I Used To](https://open.spotify.com/track/4EWvA59SKYHIOdMpfv6JNP) | [Lily Lyons](https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX) | [Like I Used To](https://open.spotify.com/album/5TZg7JUKQEvzxj0G6NdIXe) | 2:40 | 2022-11-18 | 2024-09-18 |
 | [Little White Chapel](https://open.spotify.com/track/1j4Okp2EWef680zQg9SBvl) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Little White Chapel](https://open.spotify.com/album/2K6ZIQk4tlIKQJOnKyrjY1) | 4:03 | 2024-10-06 |  |
-| [Lose](https://open.spotify.com/track/6qNC7GRaDTrfZya3k4DLfV) | [RYMAN](https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj) | [Lose](https://open.spotify.com/album/5DgdTn8PkuVCuoHp1XdDap) | 3:15 | 2025-03-21 |  |
+| [Lose](https://open.spotify.com/track/6qNC7GRaDTrfZya3k4DLfV) | [RYMAN](https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj) | [Lose](https://open.spotify.com/album/5DgdTn8PkuVCuoHp1XdDap) | 3:15 | 2025-03-21 | 2025-09-18 |
 | [Losing You](https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Losing You](https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP) | 3:35 | 2024-04-29 | 2025-09-13 |
 | [Losing You](https://open.spotify.com/track/0YXxshSez93ufAdxbfQfRd) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Before The Dawn](https://open.spotify.com/album/1EcxPip4KAIlQBjkBLtNdX) | 2:58 | 2022-04-08 | 2023-07-01 |
 | [Lost](https://open.spotify.com/track/1mGdHXCqhbV8oXCPkY1dZk) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lost](https://open.spotify.com/album/4V5bqbPeDTAd2uzQ3YhRmp) | 3:20 | 2024-06-07 | 2025-01-27 |
@@ -383,6 +383,6 @@
 | [You're A Mystery](https://open.spotify.com/track/3ytfjqpqNhTdFbNt4uZ6Au) | [Wil Owen](https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP) | [You're A Mystery](https://open.spotify.com/album/6NakoaoQkDEhDrCRwxJzgn) | 3:13 | 2022-04-08 | 2023-03-16 |
 | [You're A Mystery](https://open.spotify.com/track/5m3n8JK40XBTIQYyHfrhPu) | [Wil Owen](https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP) | [You're A Mystery](https://open.spotify.com/album/38dcanpHYVXTl79HTimr0w) | 3:13 | 2023-02-24 | 2023-05-20 |
 | [Young](https://open.spotify.com/track/1p4iQ1vXaXtoM8SyOamNNU) | [Nanuk](https://open.spotify.com/artist/5k64JTFIHR64agZZUTinI7) | [Young](https://open.spotify.com/album/6J0Giau2BxwhGBYS4UDcic) | 3:21 | 2023-04-07 | 2024-06-08 |
-| [Your Dog](https://open.spotify.com/track/1LHRpiGObRt9Y3WDgoj9l8) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Your Dog](https://open.spotify.com/album/736y0JBkHDPbrll16m0EQ3) | 3:29 | 2024-10-06 | 2025-09-12 |
+| [Your Dog](https://open.spotify.com/track/1LHRpiGObRt9Y3WDgoj9l8) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Your Dog](https://open.spotify.com/album/736y0JBkHDPbrll16m0EQ3) | 3:29 | 2024-10-06 |  |
 
 \*This playlist was first scraped on 2022-05-14. Prior content cannot be recovered.

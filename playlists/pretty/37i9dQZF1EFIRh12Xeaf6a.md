@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,150 likes - 276 songs - 14 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,149 likes - 276 songs - 14 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 157 | [Wrap Around Joy](https://open.spotify.com/track/3L3ZUhdMlW2qWVZEJRW7Ri) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 2:56 |
 | 158 | [Sweet Sweetheart](https://open.spotify.com/track/333YdlIdHL2ZpWoMDGuEKd) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 2:43 |
 | 159 | [Satisfied](https://open.spotify.com/track/4aAqN4Xzxd7UqG9KpTeVVI) | [Lulu And The Luvvers](https://open.spotify.com/artist/4N3yBX8wmW8uAXW7MdXwdb) | [Something To Shout About](https://open.spotify.com/album/6d1nUCOvcCLhMGzpTjLbQY) | 2:54 |
-| 160 | [Pocket Money](https://open.spotify.com/track/42A8Z3UJbg0nTp6SOzaGJb) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:44 |
-| 161 | [Morning Sun \- Mono](https://open.spotify.com/track/6bJ9jvOZJjMhy7Gv3MyKbN) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Come And Stay With Me: The UK 45s 1964\-1969](https://open.spotify.com/album/3poqeypm6c69muWwccyoz8) | 3:06 |
+| 160 | [Morning Sun \- Mono](https://open.spotify.com/track/6bJ9jvOZJjMhy7Gv3MyKbN) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Come And Stay With Me: The UK 45s 1964\-1969](https://open.spotify.com/album/3poqeypm6c69muWwccyoz8) | 3:06 |
+| 161 | [Pocket Money](https://open.spotify.com/track/42A8Z3UJbg0nTp6SOzaGJb) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:44 |
 | 162 | [Let's Start the Party Again](https://open.spotify.com/track/1CQwSqdeaVhoAAFcxRhyaq) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Uptown](https://open.spotify.com/album/6YPhneHexGxBqdG4JYBjlO) | 2:48 |
 | 163 | [The Awful Truth](https://open.spotify.com/track/111iXVIriBsgidJT1lTIsN) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 3:12 |
 | 164 | [God Only Knows](https://open.spotify.com/track/08eCQi9h03wYDNxtUN94OF) | [The Fun Surfers](https://open.spotify.com/artist/46sr5uwA9UiQgqtVPQMSgM) | [Hot 100 2017: Australia Day](https://open.spotify.com/album/3HQsI1KdfBILNojoVRdDMc) | 2:24 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 275 | [It's A Crazy Afternoon](https://open.spotify.com/track/3HR8V9vdhRYdRXg9dlGRQw) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [Something's Burning](https://open.spotify.com/album/4DVJF6FAjpGPMMWJroujUX) | 1:57 |
 | 276 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `Ab8aXAAAAADgEGozhey09Lb+UKkHqNV2`
+Snapshot ID: `Ab8f3gAAAAA33ynrCQSBDzaP0oeMoiJr`

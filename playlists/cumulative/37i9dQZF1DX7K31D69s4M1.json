@@ -7731,6 +7731,24 @@
     },
     {
       "album": {
+        "name": "Evening Mood",
+        "url": "https://open.spotify.com/album/64tnO9VmLqITDU7BpzkrHO"
+      },
+      "artists": [
+        {
+          "name": "Jasper Avelline",
+          "url": "https://open.spotify.com/artist/4pPV1eWRWDUYofcp8oxQg1"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139250,
+      "name": "Evening Mood",
+      "url": "https://open.spotify.com/track/0DmtFGEfcr2fFWrhClUpev"
+    },
+    {
+      "album": {
         "name": "Evening Star",
         "url": "https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65"
       },
@@ -15592,7 +15610,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 139924,
       "name": "Lost Frequencies",
       "url": "https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA"
@@ -20248,7 +20266,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 154000,
       "name": "Our Time Will Come",
       "url": "https://open.spotify.com/track/1z4bpvqPgnfUg9fkykQp0D"
@@ -21872,7 +21890,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 144000,
       "name": "Quiet Daydreams",
       "url": "https://open.spotify.com/track/4nExUsoIdpILv1K4NM82kS"
@@ -25524,7 +25542,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 155226,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/2CAazxXgxJXG4hfC8ucXs3"
@@ -32524,6 +32542,24 @@
       "duration_ms": 59287,
       "name": "\u00c9chelle",
       "url": "https://open.spotify.com/track/2QKdAMS5nL4aAH8pg7NHlm"
+    },
+    {
+      "album": {
+        "name": "\u00c9veil",
+        "url": "https://open.spotify.com/album/3A3g8Hg3Y2y42uG7BmDoft"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "\u00c9veil",
+      "url": "https://open.spotify.com/track/2brRgCl1LHEDuwMjFxp8s5"
     },
     {
       "album": {

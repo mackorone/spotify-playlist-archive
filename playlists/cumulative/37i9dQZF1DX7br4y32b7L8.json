@@ -2399,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Champion Sound",
+        "url": "https://open.spotify.com/album/2ADEgzm7hG6TdXdNHBjLAo"
+      },
+      "artists": [
+        {
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Champion Sound",
+      "url": "https://open.spotify.com/track/78W1WOxeqq3fRInVvotqEM"
+    },
+    {
+      "album": {
         "name": "Franchement !",
         "url": "https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 
 > Change will challenge tradition\. Listen to the music from and inspired by The Crown, streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,081 likes - 152 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,107 likes - 152 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 | 2 | [Dreamboat](https://open.spotify.com/track/5KpECOf7hoR234q8fJcphk) | [Alma Cogan](https://open.spotify.com/artist/0oGo1uX2IixGBLb3fsiVnK) | [The Magic Of Alma Cogan](https://open.spotify.com/album/0QHQ3Jya66uxgdTG9DM2e5) | 1:47 |
 | 3 | [Trouble in Suez](https://open.spotify.com/track/3KIeiHzWQ1vFkUcFFvCdK8) | [Jack Shaindlin](https://open.spotify.com/artist/5YkgPDT3sjvYtPkpiqi2js) | [Newsreel](https://open.spotify.com/album/0H9KCvCjzzRPfOTYrmhFWx) | 1:33 |
 | 4 | [Marching to Victory](https://open.spotify.com/track/243GEZvXwFBY6ZVlrjWc8K) | [Ron Goodwin](https://open.spotify.com/artist/6LAuSqJCRCwwtITrlfHg41) | [Roads to War \(1933\-1945\) Part 2](https://open.spotify.com/album/3xjJNKKdlneA49u1sAMwwr) | 1:50 |
-| 5 | [I've Never Been In Love Before \(with David Rose & His Orchestra\) \- From "Guys and Dolls"](https://open.spotify.com/track/0voo6ZDdfa25QvjHsHiZfT) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [David Rose And His Orchestra](https://open.spotify.com/artist/3jiRVp1vGHXKjOOwaa2GQv) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 3:04 |
+| 5 | [I've Never Been In Love Before \(with David Rose & His Orchestra\) \- From "Guys and Dolls"](https://open.spotify.com/track/0voo6ZDdfa25QvjHsHiZfT) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [David Rose & His Orchestra](https://open.spotify.com/artist/5ZsSQKAEppzogR04EeQ60l) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 3:04 |
 | 6 | [Colonel Bogey](https://open.spotify.com/track/2IA8v5iaTgSZatIQRAirLW) | [Kenneth J\. Alford](https://open.spotify.com/artist/5aXc79IJ7WO46HhoY17ipn), [United States Navy Band](https://open.spotify.com/artist/1eejNkRYzjfs41C6xkzx4m) | [100 Famous Marches](https://open.spotify.com/album/0d4Cf21kdnD4HxsmDHbuxZ) | 3:54 |
 | 7 | [Princess](https://open.spotify.com/track/1YGwBhkZLqNJR1xp6gIIxs) | [Tommy Steele](https://open.spotify.com/artist/2eUMWLKLpPyMWuTgoMgEG6) | [Presenting Tommy Steele](https://open.spotify.com/album/0ZZCgfl305G0nJUn9rL1gD) | 2:12 |
 | 8 | [Ding Dong](https://open.spotify.com/track/5NXAvbNZOSuDZiFotfWOA5) | [The Packards](https://open.spotify.com/artist/48NWAOVS7JwLkHZTYd11RO) | [Ding Dong: The Old Town Single](https://open.spotify.com/album/726ZbqJXE54KmtPEOp0WuB) | 2:29 |

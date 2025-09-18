@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 
 > Curated for the culture, built for the fairway\. <a href="https://www.instagram.com/swang/">Tap in</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,331 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,346 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 | 50 | [1004](https://open.spotify.com/track/5OAzOwPHeHBrIoJC0nluKR) | [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [1004](https://open.spotify.com/album/0SKE3rK1WD9Xx1kwWuaWdm) | 1:54 |
 | 51 | [maybe it's u](https://open.spotify.com/track/6jY0tnfTpQGjH9PZIvMpLu) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [TRUE MAGIC, DELUXE](https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1) | 3:57 |
 | 52 | [Supreme Dee](https://open.spotify.com/track/4JEkyWx4exs9TAmeV4e06P) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Supreme Dee](https://open.spotify.com/album/0xuHVcGvttTmGcFxhhLPze) | 2:08 |
-| 53 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
+| 53 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [DJ Spinz](https://open.spotify.com/artist/7m4YY1JUSagIGuM9BL7KR1) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
 | 54 | [FRENCH BOSSA NOVA](https://open.spotify.com/track/38dNnsL9yYygLYiX5ORf6B) | [Ladji Mouflet](https://open.spotify.com/artist/2NNTIDSDRlsf4lzYW9fpKm), [aupinard](https://open.spotify.com/artist/53EA17A3lcuQ2kJYYYkYTh), [gracegrace](https://open.spotify.com/artist/3ORiPD4KjKZ3mOYOVko4Ud) | [FRENCH BOSSA NOVA](https://open.spotify.com/album/1U25ArvtrbFkbAgke4NltV) | 3:50 |
 | 55 | [GRIMEY GZ FREESTYLE](https://open.spotify.com/track/0XkIimESHQhahJZKo56JD8) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw) | [JUCO](https://open.spotify.com/album/7DPpGKFT2NvSYoPuiGHnVm) | 3:00 |
 | 56 | [Cant Go Broke \- Remix](https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Cant Go Broke \(Remix\)](https://open.spotify.com/album/2mkUnlEIvymQmfNikypqYg) | 1:47 |

@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\. Cover: Young Jonn
 
-888 songs - 1 day 21 hr 37 min
+889 songs - 1 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,6 +485,7 @@
 | [Love Me Now](https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Love Me Now](https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD) | 2:25 | 2025-05-09 | 2025-05-17 |
 | [Love Nobody](https://open.spotify.com/track/2pg8Vb16ItDI2bovhZalrQ) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Love Nobody](https://open.spotify.com/album/6TIHRkJD000qOjjYc0gcSR) | 3:30 | 2021-09-10 | 2022-07-29 |
 | [Love Somebody](https://open.spotify.com/track/2I70L2L5daHknXX1OcL9dj) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Love Somebody](https://open.spotify.com/album/0QrTobqSZwX1sV7EjiqYN8) | 2:47 | 2021-09-10 | 2022-07-29 |
+| [Low](https://open.spotify.com/track/1RpvFcU5nGkh00NBpd48nY) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Low](https://open.spotify.com/album/0cHlzu49tgDANbBKMHgnYX) | 3:30 | 2025-09-16 |  |
 | [low](https://open.spotify.com/track/0cXS55EqxWn17NUi1GQYg7) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 2:34 | 2024-10-04 | 2024-10-08 |
 | [Loyal](https://open.spotify.com/track/01pAPjpO2BBDAWG4yGs6uA) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [Loyal](https://open.spotify.com/album/4gYliBmMW5PvtrRbOn5Ish) | 2:40 | 2025-07-25 | 2025-08-09 |
 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 | 2024-06-07 | 2024-07-13 |

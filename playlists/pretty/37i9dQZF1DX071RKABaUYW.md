@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 
 > Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: Pollyfromthedirt
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,779 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,787 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 | 34 | [Try Try Try](https://open.spotify.com/track/1kthQJdi4E9AMUqefZsb4s) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Try Try Try](https://open.spotify.com/album/6VAAZQK8A1ui0KIKJUPT2q) | 4:01 |
 | 35 | [on my way](https://open.spotify.com/track/4Ug6Z80Gn1FRkvmm043V5K) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [on my way](https://open.spotify.com/album/3eQDP9GFsOnrdXaWzQozcm) | 2:44 |
 | 36 | [Declare Me Dead!](https://open.spotify.com/track/4dFScdueJuGXSumYDDhYHi) | [Toni Sancho](https://open.spotify.com/artist/4SpaShKE14x1P5jTruqwIK) | [Declare Me Dead!](https://open.spotify.com/album/4IVjJgmYHV6fJgxGhWeXqt) | 3:26 |
-| 37 | [Gimme Whatcha Got](https://open.spotify.com/track/4YOJtlUJxsI9qcyfjHgWLz) | [Cosmorat](https://open.spotify.com/artist/7N3uZZGaea8CxH6SoFyCpr) | [Gimme Whatcha Got](https://open.spotify.com/album/6u96d4ZA32JaG7Wyh9VhRv) | 4:40 |
+| 37 | [Gimme Whatcha Got](https://open.spotify.com/track/4YOJtlUJxsI9qcyfjHgWLz) | [djank](https://open.spotify.com/artist/1CGWRM0uKNS2EaVrjvvMDV) | [Gimme Whatcha Got](https://open.spotify.com/album/6u96d4ZA32JaG7Wyh9VhRv) | 4:40 |
 | 38 | [Baby Teeth](https://open.spotify.com/track/4t4JakZ0A3nlOlFi6Z4LYm) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi) | [Baby Teeth](https://open.spotify.com/album/5dnePhTkDdoowk0jpLBMzJ) | 2:29 |
 | 39 | [Ascension](https://open.spotify.com/track/4JVzP13jx3I5pXi5VFv8Vf) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Ascension](https://open.spotify.com/album/2EpbiW6Oj4cm8S3TyqCwp9) | 4:20 |
 | 40 | [out of luck](https://open.spotify.com/track/0j62ISJwxVyKxxhXqt1qEO) | [eyejust](https://open.spotify.com/artist/15SEcS1jHahrTRgrubLiuB) | [out of luck](https://open.spotify.com/album/5gaFCIcwVvedqK8myXDo1t) | 2:19 |

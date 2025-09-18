@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Twenty One Pilots
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,639 likes - 85 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,640 likes - 85 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,15 +15,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 5 | [Stripes](https://open.spotify.com/track/0m44vc74oAmoRLXS6QToW8) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Stripes](https://open.spotify.com/album/5e1hRjKNjbpWu6AntxnJMM) | 3:11 |
 | 6 | [Alive](https://open.spotify.com/track/6Uvo6d74LcODauNBSqWNt2) | [Honey I'm Home](https://open.spotify.com/artist/4nOBSMvnstrNNr5Bl7z2OA) | [Alive](https://open.spotify.com/album/4zXYI1ZtMuPyGa0ilGzE2e) | 3:01 |
 | 7 | [Legalize Living](https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Legalize Living](https://open.spotify.com/album/50bN734086s72BiT5VNoPw) | 3:24 |
-| 8 | [She Is Sky](https://open.spotify.com/track/3EevA8j3P4I8duzD7jkpEu) | [Claw Boys Claw](https://open.spotify.com/artist/5t378xBMytAymycG84zIPv) | [Fly](https://open.spotify.com/album/2RyTAPXyGOuMybluV7Z6jH) | 3:42 |
-| 9 | [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 |
-| 10 | [Disco Dream](https://open.spotify.com/track/1l7kpzfxOa7ZzMcgfQnKpV) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ), [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Disco Dream](https://open.spotify.com/album/2X0Eq8taQHP1gmgeN5SPXb) | 2:53 |
-| 11 | [This Is \- Single Edit](https://open.spotify.com/track/7MAMO8dokg9IRhWTiBJqK0) | [TJE](https://open.spotify.com/artist/7MpTEotcUgJBQ0rMLYS2mb) | [This Is](https://open.spotify.com/album/0qThG45ynm1pF51jQx41fs) | 3:25 |
-| 12 | [The Cheapest Seats](https://open.spotify.com/track/0gFwzYpoS3w2cPibHvy5zw) | [The Radar Station](https://open.spotify.com/artist/3Vp5u3UjIcleE3GSU5DSLs) | [Birds Of Choice](https://open.spotify.com/album/3ZrHnvW9hyrb5QvLa2NPvL) | 4:28 |
-| 13 | [she came for a sweet time](https://open.spotify.com/track/2385kaeJicfgBSN3q7mpPR) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [she came for a sweet time](https://open.spotify.com/album/1vanujSCrZTGKwCEUOo1zY) | 4:19 |
-| 14 | [Hinge](https://open.spotify.com/track/115eVVoPwI1MnXrEA0IEYv) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Hinge](https://open.spotify.com/album/07X1z4tHWK9GCMsOWvIcKV) | 2:40 |
-| 15 | [Blonde](https://open.spotify.com/track/76LCFZlh07QHTf2i03r5cs) | [HUNK](https://open.spotify.com/artist/1Et5MQj7bL3VRAXMYgShL1) | [Blonde](https://open.spotify.com/album/6dm09myB7JppjP7YY64RrI) | 2:37 |
-| 16 | [Unbind](https://open.spotify.com/track/4TvpYr1gFtYxtZ4yn2LVuI) | [Eloi Youssef](https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A) | [Unbind](https://open.spotify.com/album/04wo4zBOGQzQlbYADhO8xO) | 3:27 |
+| 8 | [Unbind](https://open.spotify.com/track/4TvpYr1gFtYxtZ4yn2LVuI) | [Eloi Youssef](https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A) | [Unbind](https://open.spotify.com/album/04wo4zBOGQzQlbYADhO8xO) | 3:27 |
+| 9 | [She Is Sky](https://open.spotify.com/track/3EevA8j3P4I8duzD7jkpEu) | [Claw Boys Claw](https://open.spotify.com/artist/5t378xBMytAymycG84zIPv) | [Fly](https://open.spotify.com/album/2RyTAPXyGOuMybluV7Z6jH) | 3:42 |
+| 10 | [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 |
+| 11 | [Disco Dream](https://open.spotify.com/track/1l7kpzfxOa7ZzMcgfQnKpV) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ), [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Disco Dream](https://open.spotify.com/album/2X0Eq8taQHP1gmgeN5SPXb) | 2:53 |
+| 12 | [This Is \- Single Edit](https://open.spotify.com/track/7MAMO8dokg9IRhWTiBJqK0) | [TJE](https://open.spotify.com/artist/7MpTEotcUgJBQ0rMLYS2mb) | [This Is](https://open.spotify.com/album/0qThG45ynm1pF51jQx41fs) | 3:25 |
+| 13 | [The Cheapest Seats](https://open.spotify.com/track/0gFwzYpoS3w2cPibHvy5zw) | [The Radar Station](https://open.spotify.com/artist/3Vp5u3UjIcleE3GSU5DSLs) | [Birds Of Choice](https://open.spotify.com/album/3ZrHnvW9hyrb5QvLa2NPvL) | 4:28 |
+| 14 | [she came for a sweet time](https://open.spotify.com/track/2385kaeJicfgBSN3q7mpPR) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [she came for a sweet time](https://open.spotify.com/album/1vanujSCrZTGKwCEUOo1zY) | 4:19 |
+| 15 | [Hinge](https://open.spotify.com/track/115eVVoPwI1MnXrEA0IEYv) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Hinge](https://open.spotify.com/album/07X1z4tHWK9GCMsOWvIcKV) | 2:40 |
+| 16 | [Blonde](https://open.spotify.com/track/76LCFZlh07QHTf2i03r5cs) | [HUNK](https://open.spotify.com/artist/1Et5MQj7bL3VRAXMYgShL1) | [Blonde](https://open.spotify.com/album/6dm09myB7JppjP7YY64RrI) | 2:37 |
 | 17 | [Mantra](https://open.spotify.com/track/1YTbBtCdH2LhlfCg244HMI) | [RAMAN.](https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86) | [Mantra](https://open.spotify.com/album/7AeYLafX8jsJRVhyznZUqX) | 6:00 |
 | 18 | [True Believer](https://open.spotify.com/track/6RRYgdkCmVTYHGmId3LpqW) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [True Believer](https://open.spotify.com/album/1kALPLjhxfv9Yu1lVeHu62) | 4:34 |
 | 19 | [There’s No More Underground](https://open.spotify.com/track/3FRVbgqA7pVAJ0VBnXsrIK) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [There’s No More Underground](https://open.spotify.com/album/5euflJlUQaylKswQycK6oS) | 2:14 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 84 | [ARCHNEMESIS!](https://open.spotify.com/track/3SzbMnxKrOWxi7z8sqzOPW) | [LS.GATEKEEPER](https://open.spotify.com/artist/5djBwQkKvq6Dccf5hBWqSk), [Lui Surreal](https://open.spotify.com/artist/1iYbQXLrNdjcndT8cyfA8m) | [ARCHNEMESIS!](https://open.spotify.com/album/1DUu6Zzm4Ly3FT6QlTsoWQ) | 2:56 |
 | 85 | [I Knew We'd Talk About It One Day](https://open.spotify.com/track/1p5YXN5n2wDDun03QhSjjL) | [Humour](https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr) | [I Knew We'd Talk About It One Day](https://open.spotify.com/album/0NP0x5cKqz1XytxGNiiZ0y) | 3:27 |
 
-Snapshot ID: `AAAAAIZESL7cT6uZzYX3GTY3ddg6v3S7`
+Snapshot ID: `AAAAAP0UQfpY73kP6qRMdpv75lAjteVt`

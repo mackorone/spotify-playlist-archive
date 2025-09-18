@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"https://loremandfriends.substack.com/p/at-least-we-have-music\">Check out our latest newsletter!</a> Cover: mark william lewis",
-  "num_followers": 1189374,
+  "num_followers": 1189340,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
@@ -55,6 +55,38 @@
       "duration_ms": 164583,
       "name": "Woman Lake",
       "url": "https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO"
+    },
+    {
+      "added_at": "2025-09-16 17:01:44",
+      "album": {
+        "name": "Hey Mama",
+        "url": "https://open.spotify.com/album/47w1YxYuoIGR2yPJyLEsZI"
+      },
+      "artists": [
+        {
+          "name": "Jordan Patterson",
+          "url": "https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G"
+        }
+      ],
+      "duration_ms": 236823,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/1UjdWK2qSXojLOsDaYOhqS"
+    },
+    {
+      "added_at": "2025-09-10 20:00:56",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/1BrAurLoXx2P0DFrdU3N2J"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 267576,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/6LCMIrcOxFKMAmccaK7biI"
     },
     {
       "added_at": "2025-09-12 04:00:21",
@@ -135,22 +167,6 @@
       "duration_ms": 224486,
       "name": "Dreamflasher",
       "url": "https://open.spotify.com/track/75Wgg4LerPD3mVO5hEyUN9"
-    },
-    {
-      "added_at": "2025-09-10 20:00:56",
-      "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/1BrAurLoXx2P0DFrdU3N2J"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 267576,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/6LCMIrcOxFKMAmccaK7biI"
     },
     {
       "added_at": "2025-08-29 04:26:54",

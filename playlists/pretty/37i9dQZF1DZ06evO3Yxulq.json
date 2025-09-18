@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41336,
+  "num_followers": 41335,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAABxvPyP+8w39sv1Zk57VL1w",
+  "snapshot_id": "aMiogAAAAAB2DtAPdQJcsTA0U2ldrc2u",
   "tracks": [
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta Poder Ver",
+        "url": "https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 269645,
+      "name": "El Gran Nombre del Se\u00f1or",
+      "url": "https://open.spotify.com/track/3POuELiafd4VQ3FZC1YCPr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emanuel",
         "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
       },
@@ -635,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Poder Ver",
-        "url": "https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX"
+        "name": "Loco Amor (Spanish Version)",
+        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
       },
       "artists": [
         {
@@ -644,9 +660,25 @@
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 269645,
-      "name": "El Gran Nombre del Se\u00f1or",
-      "url": "https://open.spotify.com/track/3POuELiafd4VQ3FZC1YCPr"
+      "duration_ms": 303373,
+      "name": "Loco Amor - Spanish Version",
+      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 350858,
+      "name": "M\u00e1s Alto Honor",
+      "url": "https://open.spotify.com/track/4ktw8BW1kGxifJEiKQoOjB"
     },
     {
       "added_at": null,
@@ -671,38 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 350858,
-      "name": "M\u00e1s Alto Honor",
-      "url": "https://open.spotify.com/track/4ktw8BW1kGxifJEiKQoOjB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loco Amor (Spanish Version)",
-        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 303373,
-      "name": "Loco Amor - Spanish Version",
-      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Batalla",
         "url": "https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF"
       },
@@ -719,6 +719,42 @@
       "duration_ms": 287533,
       "name": "La Batalla",
       "url": "https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Famous For (I Believe) - Collection",
+        "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 242427,
+      "name": "Tu Poder (Creo en Ti)",
+      "url": "https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 362977,
+      "name": "Eterno (Con Cuando los Santos Marchen Ya)",
+      "url": "https://open.spotify.com/track/6Bg0B8U2GIiLVZhyYkrbPp"
     },
     {
       "added_at": null,
@@ -743,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 362977,
-      "name": "Eterno (Con Cuando los Santos Marchen Ya)",
-      "url": "https://open.spotify.com/track/6Bg0B8U2GIiLVZhyYkrbPp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ambientes de Cuna",
         "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 452354,
       "name": "Como Dijiste",
       "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Famous For (I Believe) - Collection",
-        "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 242427,
-      "name": "Tu Poder (Creo en Ti)",
-      "url": "https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 155741,
+  "num_followers": 155768,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAABVhWUglv/VS86tvHp6cyxA",
+  "snapshot_id": "aMiogAAAAABVTa49GIt6my/tK1TQagGC",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Canciones de Amor (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 177023,
+      "name": "Ignoraste Mis L\u00e1grimas - Remastered 2025",
+      "url": "https://open.spotify.com/track/2bruhtOHnKcHjdEPV9jDGi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inv\u00e9ntame Un Amor",
         "url": "https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 227288,
       "name": "Pero La Recuerdo (Cumbia Santa Mar\u00eda)",
       "url": "https://open.spotify.com/track/7xbRLQyE9t7zkA3osC8S2d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Canciones de Amor (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 177023,
-      "name": "Ignoraste Mis L\u00e1grimas - Remastered 2025",
-      "url": "https://open.spotify.com/track/2bruhtOHnKcHjdEPV9jDGi"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Fuerte Que Nunca",
-        "url": "https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 157175,
-      "name": "Nunca Cambies",
-      "url": "https://open.spotify.com/track/2aZkwq6MoLBdSDcm8L09mP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
       },
@@ -679,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luchar\u00e9 Por Ti",
-        "url": "https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7"
+        "name": "Mas Fuerte Que Nunca",
+        "url": "https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL"
       },
       "artists": [
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 210453,
-      "name": "Luchar\u00e9 Por Ti",
-      "url": "https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm"
+      "duration_ms": 157175,
+      "name": "Nunca Cambies",
+      "url": "https://open.spotify.com/track/2aZkwq6MoLBdSDcm8L09mP"
     },
     {
       "added_at": null,
@@ -719,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 185736,
-      "name": "De Frente Al Mar",
-      "url": "https://open.spotify.com/track/4V73yEyOkURMlSPsXEDcGG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vuelve Por Favor",
         "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
       },
@@ -747,6 +711,42 @@
       "duration_ms": 157605,
       "name": "Arr\u00e1ncame La Vida",
       "url": "https://open.spotify.com/track/6xxPw0GEudMMCUKqmvdTCW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luchar\u00e9 Por Ti",
+        "url": "https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "Luchar\u00e9 Por Ti",
+      "url": "https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 185736,
+      "name": "De Frente Al Mar",
+      "url": "https://open.spotify.com/track/4V73yEyOkURMlSPsXEDcGG"
     },
     {
       "added_at": null,

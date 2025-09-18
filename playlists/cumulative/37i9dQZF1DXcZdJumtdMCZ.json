@@ -509,6 +509,32 @@
     },
     {
       "album": {
+        "name": "BLOCK",
+        "url": "https://open.spotify.com/album/11s3Z6pC4m5c9YsKXOw95D"
+      },
+      "artists": [
+        {
+          "name": "DJ LYAN",
+          "url": "https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        },
+        {
+          "name": "Iykki Berry",
+          "url": "https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227555,
+      "name": "BLOCK",
+      "url": "https://open.spotify.com/track/3Cy4lZ4tK3k3BdlefB4JBK"
+    },
+    {
+      "album": {
         "name": "Bomb",
         "url": "https://open.spotify.com/album/3Y3cRb0PDi1okh0yLMZpCC"
       },
@@ -3660,6 +3686,10 @@
         {
           "name": "Vedan",
           "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        },
+        {
+          "name": "Mari Selvaraj",
+          "url": "https://open.spotify.com/artist/38Zkf8fQfCpFzXsHfGVRdF"
         }
       ],
       "date_added": "2025-09-16",

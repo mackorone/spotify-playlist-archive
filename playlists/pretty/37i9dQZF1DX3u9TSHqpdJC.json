@@ -1,13 +1,29 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: mags. Artwork by Paola Saliby",
-  "num_followers": 230121,
+  "description": "The best new pop music from new, independent artists.  Cover: Maeve. Artwork by Paola Saliby",
+  "num_followers": 230143,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK9S/lrsLNpZlINT1nF+XfJZOAz4",
+  "snapshot_id": "AAAAADm19uY7lLnL4O1cG/wYNsrbM3/6",
   "tracks": [
+    {
+      "added_at": "2025-08-28 01:30:45",
+      "album": {
+        "name": "(We're Not) Together!!!!",
+        "url": "https://open.spotify.com/album/6miLYRRgroNvcp4BWPi6u5"
+      },
+      "artists": [
+        {
+          "name": "Maeve",
+          "url": "https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI"
+        }
+      ],
+      "duration_ms": 196632,
+      "name": "(We're Not) Together!!!!",
+      "url": "https://open.spotify.com/track/5JkfmtZEEMRvgBT6ugXx1v"
+    },
     {
       "added_at": "2025-09-05 05:07:41",
       "album": {
@@ -23,6 +39,122 @@
       "duration_ms": 170400,
       "name": "blue",
       "url": "https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV"
+    },
+    {
+      "added_at": "2025-09-17 04:39:34",
+      "album": {
+        "name": "Mr. Fantasy",
+        "url": "https://open.spotify.com/album/7afsya6okGMYvO0HeHVXKT"
+      },
+      "artists": [
+        {
+          "name": "MR. FANTASY",
+          "url": "https://open.spotify.com/artist/34te8NejkffLcYjn9kiAiH"
+        }
+      ],
+      "duration_ms": 184515,
+      "name": "Mr. Fantasy",
+      "url": "https://open.spotify.com/track/5zNGqDaS8DXmvbskkmGLAG"
+    },
+    {
+      "added_at": "2025-09-17 04:39:34",
+      "album": {
+        "name": "Baby Teeth",
+        "url": "https://open.spotify.com/album/3TBvK353HDQDDNfScJ8QaD"
+      },
+      "artists": [
+        {
+          "name": "Yuneki",
+          "url": "https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi"
+        },
+        {
+          "name": "shortstraw.",
+          "url": "https://open.spotify.com/artist/3qlFWAsq8StLpupHiBDVND"
+        }
+      ],
+      "duration_ms": 194888,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/7gqcQg5BexFAhj848x2Nni"
+    },
+    {
+      "added_at": "2025-09-17 04:39:34",
+      "album": {
+        "name": "When I Die",
+        "url": "https://open.spotify.com/album/6QrPjHOZbgL2TeOtaS2GCx"
+      },
+      "artists": [
+        {
+          "name": "Rita Mae",
+          "url": "https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE"
+        }
+      ],
+      "duration_ms": 182368,
+      "name": "When I Die",
+      "url": "https://open.spotify.com/track/0FomWIDUKAutMMoLcVz9Nm"
+    },
+    {
+      "added_at": "2025-09-17 04:39:34",
+      "album": {
+        "name": "Blood Moon",
+        "url": "https://open.spotify.com/album/1T1wPY475CLErkq858TqWR"
+      },
+      "artists": [
+        {
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+        }
+      ],
+      "duration_ms": 291834,
+      "name": "Blood Moon",
+      "url": "https://open.spotify.com/track/4cXAWD76lMGYjXxezJIKin"
+    },
+    {
+      "added_at": "2025-09-17 04:39:34",
+      "album": {
+        "name": "Songs for Myfanwy",
+        "url": "https://open.spotify.com/album/31H5DZZXYZ6PvN4ZOWlBW7"
+      },
+      "artists": [
+        {
+          "name": "Edie Bens",
+          "url": "https://open.spotify.com/artist/0BdtAVeSQlKZkWcgcz7aLS"
+        }
+      ],
+      "duration_ms": 204835,
+      "name": "Better Without You",
+      "url": "https://open.spotify.com/track/38iOwl3BlTJPfzY0qpWn6d"
+    },
+    {
+      "added_at": "2025-09-17 04:39:34",
+      "album": {
+        "name": "It's not love",
+        "url": "https://open.spotify.com/album/71vUOHcRzntJKakNA0v5Q4"
+      },
+      "artists": [
+        {
+          "name": "S\u00edomha Hennessy",
+          "url": "https://open.spotify.com/artist/1zLfXGP1wLk65fRTqh5fFq"
+        }
+      ],
+      "duration_ms": 260143,
+      "name": "It's not love",
+      "url": "https://open.spotify.com/track/5YnM8b7aCTTWPwAfmOaBbb"
+    },
+    {
+      "added_at": "2025-09-17 04:39:34",
+      "album": {
+        "name": "Son Of God",
+        "url": "https://open.spotify.com/album/2qDHoltZx4QWzrICJQvflH"
+      },
+      "artists": [
+        {
+          "name": "Amalia",
+          "url": "https://open.spotify.com/artist/7ucDImvm0vl1QXYNMbmoHB"
+        }
+      ],
+      "duration_ms": 209262,
+      "name": "Son Of God",
+      "url": "https://open.spotify.com/track/2i8X42IG4zgd0GwA1PJWrL"
     },
     {
       "added_at": "2025-09-05 05:07:41",
@@ -151,22 +283,6 @@
       "duration_ms": 240000,
       "name": "Pretend We're Fine",
       "url": "https://open.spotify.com/track/38vOPZSOEisbsuQXMMxxsD"
-    },
-    {
-      "added_at": "2025-08-28 01:30:45",
-      "album": {
-        "name": "(We're Not) Together!!!!",
-        "url": "https://open.spotify.com/album/6miLYRRgroNvcp4BWPi6u5"
-      },
-      "artists": [
-        {
-          "name": "Maeve",
-          "url": "https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI"
-        }
-      ],
-      "duration_ms": 196632,
-      "name": "(We're Not) Together!!!!",
-      "url": "https://open.spotify.com/track/5JkfmtZEEMRvgBT6ugXx1v"
     },
     {
       "added_at": "2025-09-03 04:00:25",
@@ -831,22 +947,6 @@
     {
       "added_at": "2025-08-13 04:00:29",
       "album": {
-        "name": "Baby Teeth",
-        "url": "https://open.spotify.com/album/5dnePhTkDdoowk0jpLBMzJ"
-      },
-      "artists": [
-        {
-          "name": "Yuneki",
-          "url": "https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi"
-        }
-      ],
-      "duration_ms": 149273,
-      "name": "Baby Teeth",
-      "url": "https://open.spotify.com/track/4t4JakZ0A3nlOlFi6Z4LYm"
-    },
-    {
-      "added_at": "2025-08-13 04:00:29",
-      "album": {
         "name": "Fangirl",
         "url": "https://open.spotify.com/album/76OWtdYv8bss5WrVqbIMZJ"
       },
@@ -859,22 +959,6 @@
       "duration_ms": 177403,
       "name": "Fangirl",
       "url": "https://open.spotify.com/track/2XOGjg1PcToav3czcUhB22"
-    },
-    {
-      "added_at": "2025-08-13 04:00:29",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/7aZQ1zDqgiSWpe9tZlXNIY"
-      },
-      "artists": [
-        {
-          "name": "ARI LEE",
-          "url": "https://open.spotify.com/artist/2CR4RXDXZVMvjEV3rrEVA7"
-        }
-      ],
-      "duration_ms": 164444,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/3uOB0wMj7h3ohbvlerJdhd"
     },
     {
       "added_at": "2025-08-13 04:00:29",
@@ -1375,38 +1459,6 @@
     {
       "added_at": "2025-07-18 16:52:12",
       "album": {
-        "name": "JUST FRIENDS?",
-        "url": "https://open.spotify.com/album/5lQclnPqFCFvh1w4DYC7ha"
-      },
-      "artists": [
-        {
-          "name": "dolphoe",
-          "url": "https://open.spotify.com/artist/0Z37o7UvHfZrbW11TVrfDr"
-        }
-      ],
-      "duration_ms": 110000,
-      "name": "JUST FRIENDS?",
-      "url": "https://open.spotify.com/track/5UuX41K7fJC2mJaLDbmdns"
-    },
-    {
-      "added_at": "2025-07-25 04:01:02",
-      "album": {
-        "name": "ENOUGH.",
-        "url": "https://open.spotify.com/album/3W6u3zgrFAPb6kZ5hwMxUF"
-      },
-      "artists": [
-        {
-          "name": "SNACKTIME",
-          "url": "https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr"
-        }
-      ],
-      "duration_ms": 228808,
-      "name": "ENOUGH.",
-      "url": "https://open.spotify.com/track/5uvnq6j5kdofhXoPuuoIqF"
-    },
-    {
-      "added_at": "2025-07-18 16:52:12",
-      "album": {
         "name": "Less is More",
         "url": "https://open.spotify.com/album/2lcpy0xLuRBRlBTvNWZbSy"
       },
@@ -1419,54 +1471,6 @@
       "duration_ms": 234382,
       "name": "Less is More",
       "url": "https://open.spotify.com/track/5pAhmlaJVD65EKlb6fJi2M"
-    },
-    {
-      "added_at": "2025-07-23 08:01:41",
-      "album": {
-        "name": "Girls Gone Wild",
-        "url": "https://open.spotify.com/album/4iATlDkOaCC5pujOmapT4F"
-      },
-      "artists": [
-        {
-          "name": "Rosetta",
-          "url": "https://open.spotify.com/artist/6Lx5dgRpSaju4zkiSYmYoa"
-        }
-      ],
-      "duration_ms": 163774,
-      "name": "Girls Gone Wild",
-      "url": "https://open.spotify.com/track/7q2PvvuEvuZwuXlwvkKyPm"
-    },
-    {
-      "added_at": "2025-07-23 08:01:41",
-      "album": {
-        "name": "What's This Really About",
-        "url": "https://open.spotify.com/album/1FQmyUtauhTMIlQw1zoP6o"
-      },
-      "artists": [
-        {
-          "name": "Ruby Plume",
-          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "What's This Really About",
-      "url": "https://open.spotify.com/track/0lIcZEJMNWL1wkjaXZnOjr"
-    },
-    {
-      "added_at": "2025-07-23 08:01:41",
-      "album": {
-        "name": "BURST <3",
-        "url": "https://open.spotify.com/album/1fYqSbROUNRZPKBWj8ZiE8"
-      },
-      "artists": [
-        {
-          "name": "Coupdekat",
-          "url": "https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0"
-        }
-      ],
-      "duration_ms": 118393,
-      "name": "BURST <3",
-      "url": "https://open.spotify.com/track/0BVok2Uwo0mFcXb4AK8udy"
     },
     {
       "added_at": "2025-07-16 04:00:35",

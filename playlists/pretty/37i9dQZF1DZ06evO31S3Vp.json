@@ -1,12 +1,12 @@
 {
   "description": "This is J\u00e3o. The essential tracks, all in one playlist.",
-  "num_followers": 205985,
+  "num_followers": 205971,
   "original_name": "This Is J\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAAAfMv1bPEeslFYsP3LJmj6K",
+  "snapshot_id": "aMiogAAAAADswP41kOtpFC5CumUkrQEV",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mal",
-        "url": "https://open.spotify.com/album/66cKlnpPVfGXR0Xgec7lK7"
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
       },
       "artists": [
         {
           "name": "J\u00e3o",
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        },
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
         }
       ],
-      "duration_ms": 166255,
-      "name": "Mal",
-      "url": "https://open.spotify.com/track/3Q97FKXvvhX7xNE9T3rp0Z"
+      "duration_ms": 176263,
+      "name": "Modo de Dizer",
+      "url": "https://open.spotify.com/track/3lAHnDr46AbZKq4XSSvxO2"
     },
     {
       "added_at": null,
@@ -231,18 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
+        "name": "Mal",
+        "url": "https://open.spotify.com/album/66cKlnpPVfGXR0Xgec7lK7"
       },
       "artists": [
         {
           "name": "J\u00e3o",
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
         }
       ],
-      "duration_ms": 176263,
-      "name": "Modo de Dizer",
-      "url": "https://open.spotify.com/track/3lAHnDr46AbZKq4XSSvxO2"
+      "duration_ms": 166255,
+      "name": "Mal",
+      "url": "https://open.spotify.com/track/3Q97FKXvvhX7xNE9T3rp0Z"
     },
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPER",
-        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 148548,
-      "name": "Escorpi\u00e3o",
-      "url": "https://open.spotify.com/track/4UStL1GSBg8uThwygAz7Ao"
+      "duration_ms": 186504,
+      "name": "Acidente",
+      "url": "https://open.spotify.com/track/0soeEPl0HwEmuC0LNQ1dSp"
     },
     {
       "added_at": null,
@@ -295,38 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 186504,
-      "name": "Acidente",
-      "url": "https://open.spotify.com/track/0soeEPl0HwEmuC0LNQ1dSp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOBOS",
-        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 156297,
-      "name": "A Rua",
-      "url": "https://open.spotify.com/track/2OKEIwfQhf2a6lJuR3aMXJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUPER",
         "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
       },
@@ -336,25 +304,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 171679,
-      "name": "L\u00e1bia",
-      "url": "https://open.spotify.com/track/015fd1R17Z7S1FeU5H2V3I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PIRATA",
-        "url": "https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 195028,
-      "name": "Doce",
-      "url": "https://open.spotify.com/track/0U2PbvCX6MHp72tqiaCPSS"
+      "duration_ms": 148548,
+      "name": "Escorpi\u00e3o",
+      "url": "https://open.spotify.com/track/4UStL1GSBg8uThwygAz7Ao"
     },
     {
       "added_at": null,
@@ -375,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
+        "name": "LOBOS",
+        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
       },
       "artists": [
         {
@@ -384,9 +336,25 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 181234,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/6LVzmx8BF8BFsqnpYKx3C5"
+      "duration_ms": 156297,
+      "name": "A Rua",
+      "url": "https://open.spotify.com/track/2OKEIwfQhf2a6lJuR3aMXJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PIRATA",
+        "url": "https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 195028,
+      "name": "Doce",
+      "url": "https://open.spotify.com/track/0U2PbvCX6MHp72tqiaCPSS"
     },
     {
       "added_at": null,
@@ -400,9 +368,41 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 118466,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/7j5iKo6swq5W6iwF91xbbP"
+      "duration_ms": 171679,
+      "name": "L\u00e1bia",
+      "url": "https://open.spotify.com/track/015fd1R17Z7S1FeU5H2V3I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ANTI-HER\u00d3I",
+        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 236921,
+      "name": "VSF",
+      "url": "https://open.spotify.com/track/6rL40EhmdDeEeqS0FDZ9Ab"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 181234,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/6LVzmx8BF8BFsqnpYKx3C5"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 118466,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/7j5iKo6swq5W6iwF91xbbP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ANTI-HER\u00d3I",
         "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
       },
@@ -436,9 +452,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 236921,
-      "name": "VSF",
-      "url": "https://open.spotify.com/track/6rL40EhmdDeEeqS0FDZ9Ab"
+      "duration_ms": 219634,
+      "name": "Enquanto Me Beija",
+      "url": "https://open.spotify.com/track/0EsftWIxQKCoCz5HZtlpkW"
     },
     {
       "added_at": null,
@@ -500,9 +516,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 219634,
-      "name": "Enquanto Me Beija",
-      "url": "https://open.spotify.com/track/0EsftWIxQKCoCz5HZtlpkW"
+      "duration_ms": 179446,
+      "name": "Triste Pra Sempre",
+      "url": "https://open.spotify.com/track/3n7ZwCXQUZekntN3f7dzwD"
     },
     {
       "added_at": null,
@@ -564,9 +580,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 179446,
-      "name": "Triste Pra Sempre",
-      "url": "https://open.spotify.com/track/3n7ZwCXQUZekntN3f7dzwD"
+      "duration_ms": 184712,
+      "name": "Voc\u00ea Vai Me Destruir",
+      "url": "https://open.spotify.com/track/3mPz8WMo0zOWMxezQjyc8n"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
       "duration_ms": 196658,
       "name": "Me Beija Com Raiva",
       "url": "https://open.spotify.com/track/7kRhodBTcAQXGoZdTEw8fZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ANTI-HER\u00d3I",
-        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 184712,
-      "name": "Voc\u00ea Vai Me Destruir",
-      "url": "https://open.spotify.com/track/3mPz8WMo0zOWMxezQjyc8n"
     },
     {
       "added_at": null,

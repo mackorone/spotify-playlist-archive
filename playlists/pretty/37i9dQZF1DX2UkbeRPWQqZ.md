@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 
 > Sweet lullabies on guitar for little dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,600 likes - 100 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,603 likes - 100 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 30 | [Cai Cai Balão](https://open.spotify.com/track/1pPCs58FyrQKuAUaxvx4GV) | [Pipo and Roy](https://open.spotify.com/artist/2D6uOhkI97JwoLo1GGgmGS) | [Cai Cai Balão](https://open.spotify.com/album/1lPJowoAoyvvbOUfo2CpM8) | 1:13 |
 | 31 | [Twilight Song](https://open.spotify.com/track/7547NWMuS3rffoRnJAkGRS) | [Little Miles](https://open.spotify.com/artist/4FMHVjDrLWpdPYQ7Q6pcUT) | [Twilight Song](https://open.spotify.com/album/4kFbCc5PiDyVXpsB0wE2S2) | 1:28 |
 | 32 | [Skidamarink](https://open.spotify.com/track/4WKj1FwMz5Y5dNSHnzgiQO) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Skidamarink](https://open.spotify.com/album/5879evWEXNX6qW2PEVdif0) | 2:01 |
-| 33 | [Wishes And Dreams](https://open.spotify.com/track/7pLIblryaPZdRpzchMH6lF) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Wishes And Dreams](https://open.spotify.com/album/5iq6HY6limzuEPGMWSyRDr) | 2:28 |
+| 33 | [Wishes And Dreams](https://open.spotify.com/track/7pLIblryaPZdRpzchMH6lF) | [C\. Galloway](https://open.spotify.com/artist/4L9pdQ2AqtetBjet9GSWX6) | [Wishes And Dreams](https://open.spotify.com/album/5iq6HY6limzuEPGMWSyRDr) | 2:28 |
 | 34 | [Quiet Nightfall](https://open.spotify.com/track/0QudnzqXDyXDkyiSqf4mJF) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Quiet Nightfall](https://open.spotify.com/album/2Uv7yxJdrIOlTt126xTRvi) | 2:39 |
 | 35 | [Stars From Afar](https://open.spotify.com/track/6xO6mruU9Ptgfm6VjA2cSa) | [Paige Rosen](https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn) | [Cozy Evening](https://open.spotify.com/album/1QfZNlNZN8UIaervJMkTlp) | 2:48 |
 | 36 | [All Is Calm](https://open.spotify.com/track/0CBLqVCOalzlHumLvX0IEd) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [All Is Calm](https://open.spotify.com/album/1D4gPj0UQbdxBvPYdb0qcO) | 1:15 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 62 | [Le Fiacre \- Guitar Version](https://open.spotify.com/track/6CUY3d2PJhIzR2V6MNkoSf) | [Ani Ander](https://open.spotify.com/artist/4tgweMpFuTmUl1mXLTgb4W) | [Le Fiacre \(Guitar Version\)](https://open.spotify.com/album/4ymz79UOyQjqwCHyE8oUw2) | 2:01 |
 | 63 | [Edelweiss](https://open.spotify.com/track/7aa9kUH7qZonH3URpYBZ5k) | [Sleepy Puppies](https://open.spotify.com/artist/2jAIiERKgjiqD2qRpAtii3) | [Edelweiss](https://open.spotify.com/album/4rjTw6MmyKd847DGoO36Pj) | 1:53 |
 | 64 | [Toy song](https://open.spotify.com/track/1EffS9L96WFcVqyl2C3lsb) | [Roger Citrus](https://open.spotify.com/artist/0jP4ZJa7Q5zhdwW68ZdYMW) | [Toy Song](https://open.spotify.com/album/4DnkzFjiU9jVnOmjHixzdf) | 1:27 |
-| 65 | [Teddy's Song](https://open.spotify.com/track/2TmoZmiotn3ODpaI89Nvmn) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Teddy's Song](https://open.spotify.com/album/5xHLZxAvx8xaZrKZme85VX) | 2:27 |
+| 65 | [Teddy's Song](https://open.spotify.com/track/2TmoZmiotn3ODpaI89Nvmn) | [C\. Galloway](https://open.spotify.com/artist/4L9pdQ2AqtetBjet9GSWX6) | [Teddy's Song](https://open.spotify.com/album/5xHLZxAvx8xaZrKZme85VX) | 2:27 |
 | 66 | [Head Shoulders Knees and Toes](https://open.spotify.com/track/6L3jWWum4jr3UNz17UQPai) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Acoustic Guitar Lullabies](https://open.spotify.com/album/1aUPcEPAxp9UwB1Vvezu7P) | 1:36 |
 | 67 | [Itsy Bitsy Spider](https://open.spotify.com/track/3FIPEJ6eEft1rB2DrOghDc) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Itsy Bitsy Spider](https://open.spotify.com/album/4e171SgcolbaTGuahv9wHl) | 1:38 |
 | 68 | [Night Bloom](https://open.spotify.com/track/0nD6TTIGnE9oIhxf05kkLx) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Night Bloom](https://open.spotify.com/album/3CeNMgkjbqdib08f7ZFDdg) | 2:21 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 72 | [Golden Slumbers](https://open.spotify.com/track/2XCDCv6kc6Rg9u2xHoaNC8) | [Wholy Moly](https://open.spotify.com/artist/3XdE126uFbtnhVKolZQ65n) | [Golden Slumbers](https://open.spotify.com/album/6Go7jtmR2g1fxGcyHsC50H) | 1:51 |
 | 73 | [Twinkle Steps](https://open.spotify.com/track/0zI3B8JHFyChQleFjSzreB) | [Andrew Rick](https://open.spotify.com/artist/5AT79GgEygZW9OVGweJeBu) | [Twinkle Steps](https://open.spotify.com/album/3TORGzeVtnsfZCZv4BfCSk) | 2:22 |
 | 74 | [Sleep tight my love](https://open.spotify.com/track/4MSOUIQmO0vTnLDBOtd9XH) | [Roger Citrus](https://open.spotify.com/artist/0jP4ZJa7Q5zhdwW68ZdYMW) | [Sleep tight my love](https://open.spotify.com/album/56bdIslv6OwTFEtEngkfMi) | 1:27 |
-| 75 | [The Moon Above](https://open.spotify.com/track/27RV6pYoZ8CGeLUDtmii50) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [The Moon Above](https://open.spotify.com/album/54mTxczsB3GC4RewOMDCJu) | 2:00 |
+| 75 | [The Moon Above](https://open.spotify.com/track/27RV6pYoZ8CGeLUDtmii50) | [C\. Galloway](https://open.spotify.com/artist/4L9pdQ2AqtetBjet9GSWX6) | [The Moon Above](https://open.spotify.com/album/54mTxczsB3GC4RewOMDCJu) | 2:00 |
 | 76 | [In My Arms Again](https://open.spotify.com/track/6DdZkGNXrDP9SGPbsfEwmI) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [In My Arms Again](https://open.spotify.com/album/0x3Jsqs6vXGb4gpRam46Fo) | 1:55 |
 | 77 | [Nocturne](https://open.spotify.com/track/0HvsoK5mb8X5R8SuRyM0zk) | [Jeffrey Keller](https://open.spotify.com/artist/3GtDYdKAnt1iA04jpZB0ze) | [Nocturne](https://open.spotify.com/album/3Nz6S7NBhNIhRLaT613Hxz) | 1:34 |
 | 78 | [This Little Light Of Mine](https://open.spotify.com/track/0GnbdQSxH6gir7fIMXJu4e) | [Euan Levy](https://open.spotify.com/artist/4zYP64IZ8weY745lhRv3By) | [This Little Light Of Mine](https://open.spotify.com/album/6qyhloOjALX97CGMuzNsAq) | 2:08 |

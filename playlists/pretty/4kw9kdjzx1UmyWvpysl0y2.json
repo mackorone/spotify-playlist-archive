@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124975,
+  "num_followers": 124970,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUlaD/vh/MVqM6ulkvPe1rDVpIjdtW",
+  "snapshot_id": "AAAUlvk8Hw67kmifBuAZX0w12YM9ZJAP",
   "tracks": [
+    {
+      "added_at": "2025-09-17 14:01:41",
+      "album": {
+        "name": "PUSH IT WAY DOWN LOW",
+        "url": "https://open.spotify.com/album/7AYJtErrIsURUYDlNyX7Z4"
+      },
+      "artists": [
+        {
+          "name": "Mersiv",
+          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "PUSH IT WAY DOWN LOW",
+      "url": "https://open.spotify.com/track/7AysNgZyzTipff4Q3H73mp"
+    },
     {
       "added_at": "2025-09-16 13:14:28",
       "album": {

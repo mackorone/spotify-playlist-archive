@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 632592,
+  "num_followers": 632685,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-09-12 10:54:23",
       "album": {
-        "name": "Wackelkontakt",
-        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
-      },
-      "artists": [
-        {
-          "name": "Oimara",
-          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
-        }
-      ],
-      "duration_ms": 168801,
-      "name": "Wackelkontakt",
-      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
-    },
-    {
-      "added_at": "2025-09-12 10:54:23",
-      "album": {
         "name": "LET'S GO",
         "url": "https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 193091,
       "name": "LET'S GO",
       "url": "https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN"
+    },
+    {
+      "added_at": "2025-09-12 10:54:23",
+      "album": {
+        "name": "Wackelkontakt",
+        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
+      },
+      "artists": [
+        {
+          "name": "Oimara",
+          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
+        }
+      ],
+      "duration_ms": 168801,
+      "name": "Wackelkontakt",
+      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
     },
     {
       "added_at": "2025-09-12 10:54:23",
@@ -627,34 +627,6 @@
     {
       "added_at": "2025-09-12 10:54:23",
       "album": {
-        "name": "Sleepless",
-        "url": "https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        },
-        {
-          "name": "PaulWetz",
-          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
-        },
-        {
-          "name": "Nu Aspect",
-          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
-        },
-        {
-          "name": "YUMA",
-          "url": "https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0"
-        }
-      ],
-      "duration_ms": 165263,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH"
-    },
-    {
-      "added_at": "2025-09-12 10:54:23",
-      "album": {
         "name": "YEAH",
         "url": "https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH"
       },
@@ -679,6 +651,34 @@
       "duration_ms": 141551,
       "name": "YEAH",
       "url": "https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for"
+    },
+    {
+      "added_at": "2025-09-12 10:54:23",
+      "album": {
+        "name": "Sleepless",
+        "url": "https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+        },
+        {
+          "name": "Nu Aspect",
+          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
+        },
+        {
+          "name": "YUMA",
+          "url": "https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0"
+        }
+      ],
+      "duration_ms": 165263,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH"
     },
     {
       "added_at": "2025-09-12 10:54:23",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-09-12 10:54:23",
       "album": {
-        "name": "Alles oder Nix",
-        "url": "https://open.spotify.com/album/0NnRLfvRuoKVqQgX1gcBwu"
-      },
-      "artists": [
-        {
-          "name": "SSIO",
-          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
-        }
-      ],
-      "duration_ms": 252417,
-      "name": "Alles oder Nix",
-      "url": "https://open.spotify.com/track/36puuD04lEUD8kVwQsTLm6"
-    },
-    {
-      "added_at": "2025-09-12 10:54:23",
-      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 187394,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+    },
+    {
+      "added_at": "2025-09-12 10:54:23",
+      "album": {
+        "name": "Alles oder Nix",
+        "url": "https://open.spotify.com/album/0NnRLfvRuoKVqQgX1gcBwu"
+      },
+      "artists": [
+        {
+          "name": "SSIO",
+          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
+        }
+      ],
+      "duration_ms": 252417,
+      "name": "Alles oder Nix",
+      "url": "https://open.spotify.com/track/36puuD04lEUD8kVwQsTLm6"
     },
     {
       "added_at": "2025-09-12 10:54:23",
@@ -903,50 +903,6 @@
     {
       "added_at": "2025-09-12 10:54:23",
       "album": {
-        "name": "The Final Countdown 2025",
-        "url": "https://open.spotify.com/album/6zFqyTMIN7FIz15ajOZPlC"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        },
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 182343,
-      "name": "The Final Countdown 2025",
-      "url": "https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG"
-    },
-    {
-      "added_at": "2025-09-12 10:54:23",
-      "album": {
-        "name": "We Are The People (southstar Remix)",
-        "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 236157,
-      "name": "We Are The People - southstar Remix",
-      "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
-    },
-    {
-      "added_at": "2025-09-12 10:54:23",
-      "album": {
         "name": "Craving 4 U (feat. bbyclose)",
         "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
       },
@@ -967,6 +923,26 @@
       "duration_ms": 139300,
       "name": "Craving 4 U (feat. bbyclose)",
       "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
+    },
+    {
+      "added_at": "2025-09-12 10:54:23",
+      "album": {
+        "name": "We Are The People (southstar Remix)",
+        "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 236157,
+      "name": "We Are The People - southstar Remix",
+      "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
     },
     {
       "added_at": "2025-09-12 10:54:23",
@@ -1003,6 +979,30 @@
       "duration_ms": 169852,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+    },
+    {
+      "added_at": "2025-09-12 10:54:23",
+      "album": {
+        "name": "The Final Countdown 2025",
+        "url": "https://open.spotify.com/album/6zFqyTMIN7FIz15ajOZPlC"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 182343,
+      "name": "The Final Countdown 2025",
+      "url": "https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG"
     },
     {
       "added_at": "2025-09-12 10:54:23",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-09-12 10:54:23",
       "album": {
-        "name": "HURENSOHN",
-        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "HURENSOHN",
-      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
-    },
-    {
-      "added_at": "2025-09-12 10:54:23",
-      "album": {
         "name": "Dein Mann Freestyle",
         "url": "https://open.spotify.com/album/0ayWaNEoJHQHWvGI6i11Vu"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 145989,
       "name": "Dein Mann Freestyle",
       "url": "https://open.spotify.com/track/3B32IYD2zmDza2Pp17xqgV"
+    },
+    {
+      "added_at": "2025-09-12 10:54:23",
+      "album": {
+        "name": "HURENSOHN",
+        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "HURENSOHN",
+      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
     },
     {
       "added_at": "2025-09-12 10:54:23",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2025-09-12 10:54:23",
       "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"
+    },
+    {
+      "added_at": "2025-09-12 10:54:23",
+      "album": {
         "name": "Would You (go to bed with me?)",
         "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 120522,
       "name": "Would You (go to bed with me?)",
       "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
-    },
-    {
-      "added_at": "2025-09-12 10:54:23",
-      "album": {
-        "name": "Big Jet Plane",
-        "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
-      },
-      "artists": [
-        {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"
     },
     {
       "added_at": "2025-09-12 10:54:23",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2025-09-12 10:54:23",
       "album": {
+        "name": "Down Under (feat. Colin Hay)",
+        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "Down Under (feat. Colin Hay)",
+      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+    },
+    {
+      "added_at": "2025-09-12 10:54:23",
+      "album": {
         "name": "2 Times",
         "url": "https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
-    },
-    {
-      "added_at": "2025-09-12 10:54:23",
-      "album": {
-        "name": "Down Under (feat. Colin Hay)",
-        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Colin Hay",
-          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "Down Under (feat. Colin Hay)",
-      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
     },
     {
       "added_at": "2025-09-12 10:54:23",

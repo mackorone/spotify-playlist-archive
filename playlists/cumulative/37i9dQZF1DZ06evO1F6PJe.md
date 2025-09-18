@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-197 songs - 17 hr 12 min
+198 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Living On The Moon](https://open.spotify.com/track/6Im052EnAuJJHDTKYcxciQ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades Of Blue \(Overdrive\)](https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg) | 3:21 | 2024-10-14 | 2025-01-18 |
 | [Long Distance Blues](https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:52 | 2022-08-23 |  |
 | [Lookout Man!](https://open.spotify.com/track/3xyzXPlwWyniV1pBRCRNBE) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/1i8hO7RSXJ4FOumcLoDyN2) | 5:31 | 2022-10-10 | 2022-10-12 |
-| [Love Ain't a Love Song](https://open.spotify.com/track/6U7s8WTYhJgCQuaS1RYgL2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 3:48 | 2022-08-05 |  |
+| [Love Ain't a Love Song](https://open.spotify.com/track/6U7s8WTYhJgCQuaS1RYgL2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 3:48 | 2022-08-05 | 2025-09-18 |
 | [Love Ain't A Love Song](https://open.spotify.com/track/6AsY2YeYT9WJF85QROfoj8) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades Of Blue \(Overdrive\)](https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg) | 3:48 | 2024-10-15 | 2024-11-09 |
 | [Mainline Florida \- Live](https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 7:01 | 2022-08-06 | 2022-11-24 |
 | [Man of Many Words](https://open.spotify.com/track/6hhe7LQXLdkzHx3wShTsau) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 4:10 | 2024-02-02 | 2024-10-15 |
@@ -182,6 +182,7 @@
 | [This Train \- Live](https://open.spotify.com/track/3TfM4iSLcv9f7mhp0GM1Yp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [This Train \(Live\)](https://open.spotify.com/album/4mjY6VfFAXgbvw95PaSu8b) | 8:24 | 2022-08-05 | 2022-11-02 |
 | [Time Clocks](https://open.spotify.com/track/7Mft5wZsFV4LrxLhlKzaJ7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 7:07 | 2022-09-29 | 2022-10-01 |
 | [Time Clocks \(Live\)](https://open.spotify.com/track/4d9lTTLjl3wRrMiDnOBhZu) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks \(Live\)](https://open.spotify.com/album/0oIeoroN4DPWkMN9MES9ey) | 7:56 | 2023-04-17 | 2023-04-23 |
+| [To Know You Is To Love You](https://open.spotify.com/track/3ErQfDpfSiYwe2ft3QfbnE) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [B.B\. King's Blues Summit 100, Vol\. I](https://open.spotify.com/album/11ORBdj8pkH4i8k8KN3qEU) | 5:30 | 2025-09-18 |  |
 | [Train \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:57 | 2024-06-13 |  |
 | [Trigger Finger](https://open.spotify.com/track/5opU7iBbcGxUkZy3yXIil2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n) | 4:04 | 2025-08-07 |  |
 | [Trigger Finger](https://open.spotify.com/track/6XHWkCRUWawmhKabunby7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trigger Finger](https://open.spotify.com/album/4CdL2CJw4i5qUOpNQCTNWF) | 4:04 | 2025-06-22 | 2025-08-07 |

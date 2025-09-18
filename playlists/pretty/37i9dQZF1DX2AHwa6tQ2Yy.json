@@ -1,44 +1,44 @@
 {
-  "description": "Try a little tenderness. Cover: Don West",
-  "num_followers": 52114,
+  "description": "Try a little tenderness. Cover: Bumpy",
+  "num_followers": 52126,
   "original_name": "soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM+E8zhJptd3meV9kKcC9Ck26XFb",
+  "snapshot_id": "AAAAAFQ8IM+J3GXmYr7PKeWCOyXujcpx",
   "tracks": [
     {
       "added_at": "2025-08-22 01:38:54",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/2ibYWKbp1dta52A2Jg3kAN"
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
       "artists": [
         {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 207589,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/5OSZxdDYrFERsEDs7MnLA9"
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
-      "added_at": "2025-08-22 01:38:54",
+      "added_at": "2025-09-17 13:57:22",
       "album": {
-        "name": "Small Change",
-        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/5ysy8zzAwGcbqRyIRZ3Zsc"
       },
       "artists": [
         {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+          "name": "Bumpy",
+          "url": "https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS"
         }
       ],
-      "duration_ms": 165020,
-      "name": "Small Change",
-      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
+      "duration_ms": 342860,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/2tSuFw2Or4SRUSqlcEv4iM"
     },
     {
       "added_at": "2025-08-22 01:38:54",
@@ -59,38 +59,6 @@
     {
       "added_at": "2025-08-22 01:38:54",
       "album": {
-        "name": "Kanana",
-        "url": "https://open.spotify.com/album/1xCw5CbamxGX0iWfQxLZky"
-      },
-      "artists": [
-        {
-          "name": "Bumpy",
-          "url": "https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS"
-        }
-      ],
-      "duration_ms": 335958,
-      "name": "Kanana",
-      "url": "https://open.spotify.com/track/5KNbuqKLvnMkJpW29vcUgJ"
-    },
-    {
-      "added_at": "2025-08-22 01:38:54",
-      "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
-    },
-    {
-      "added_at": "2025-08-22 01:38:54",
-      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -107,6 +75,38 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
+    },
+    {
+      "added_at": "2025-08-22 01:38:54",
+      "album": {
+        "name": "Small Change",
+        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 165020,
+      "name": "Small Change",
+      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
+    },
+    {
+      "added_at": "2025-08-22 01:38:54",
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
       "added_at": "2025-08-22 01:38:54",
@@ -199,18 +199,34 @@
     {
       "added_at": "2025-08-22 01:38:54",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+        "name": "Time",
+        "url": "https://open.spotify.com/album/2ibYWKbp1dta52A2Jg3kAN"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
         }
       ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
+      "duration_ms": 207589,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/5OSZxdDYrFERsEDs7MnLA9"
+    },
+    {
+      "added_at": "2025-08-22 01:38:54",
+      "album": {
+        "name": "Kanana",
+        "url": "https://open.spotify.com/album/1xCw5CbamxGX0iWfQxLZky"
+      },
+      "artists": [
+        {
+          "name": "Bumpy",
+          "url": "https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS"
+        }
+      ],
+      "duration_ms": 335958,
+      "name": "Kanana",
+      "url": "https://open.spotify.com/track/5KNbuqKLvnMkJpW29vcUgJ"
     },
     {
       "added_at": "2025-08-22 01:38:54",
@@ -227,22 +243,6 @@
       "duration_ms": 206947,
       "name": "Wildfires",
       "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
-    },
-    {
-      "added_at": "2025-08-22 01:38:54",
-      "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Didn't Cha Know",
-      "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
     },
     {
       "added_at": "2025-08-22 01:38:54",
@@ -293,6 +293,54 @@
       "url": "https://open.spotify.com/track/0Ed3Md9WesYA0qTvcyo50A"
     },
     {
+      "added_at": "2025-09-17 13:57:22",
+      "album": {
+        "name": "Give Me All Your Love",
+        "url": "https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 200414,
+      "name": "Give Me All Your Love",
+      "url": "https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd"
+    },
+    {
+      "added_at": "2025-08-22 01:38:54",
+      "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Didn't Cha Know",
+      "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
+    },
+    {
+      "added_at": "2025-08-22 01:38:54",
+      "album": {
+        "name": "Keep Walkin'",
+        "url": "https://open.spotify.com/album/6c5OThz1oFTpUzXQzKmyXb"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "duration_ms": 210313,
+      "name": "Keep Walkin'",
+      "url": "https://open.spotify.com/track/78eKLWFEiP9QigCvronTXN"
+    },
+    {
       "added_at": "2025-08-22 01:38:54",
       "album": {
         "name": "What's Going On",
@@ -323,22 +371,6 @@
       "duration_ms": 314075,
       "name": "Nikes",
       "url": "https://open.spotify.com/track/19YKaevk2bce4odJkP5L22"
-    },
-    {
-      "added_at": "2025-08-22 01:38:54",
-      "album": {
-        "name": "Keep Walkin'",
-        "url": "https://open.spotify.com/album/6c5OThz1oFTpUzXQzKmyXb"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 210313,
-      "name": "Keep Walkin'",
-      "url": "https://open.spotify.com/track/78eKLWFEiP9QigCvronTXN"
     },
     {
       "added_at": "2025-08-22 01:38:54",
@@ -431,22 +463,6 @@
     {
       "added_at": "2025-08-22 01:38:54",
       "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 189780,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7"
-    },
-    {
-      "added_at": "2025-08-22 01:38:54",
-      "album": {
         "name": "Oh Honey",
         "url": "https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": "2025-08-22 01:38:54",
       "album": {
-        "name": "Rose in the Dark",
-        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 335310,
-      "name": "When I'm in Your Arms",
-      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
-    },
-    {
-      "added_at": "2025-08-22 01:38:54",
-      "album": {
         "name": "The Celestial Suite",
         "url": "https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 306493,
       "name": "Cosmic Echos",
       "url": "https://open.spotify.com/track/4HuigiKKmUOzZCLkJ7aZXJ"
+    },
+    {
+      "added_at": "2025-08-22 01:38:54",
+      "album": {
+        "name": "Rose in the Dark",
+        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 335310,
+      "name": "When I'm in Your Arms",
+      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
     },
     {
       "added_at": "2025-08-22 01:38:54",
@@ -567,22 +583,6 @@
     {
       "added_at": "2025-08-22 01:38:54",
       "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
-      },
-      "artists": [
-        {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Didn't I",
-      "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
-    },
-    {
-      "added_at": "2025-08-22 01:38:54",
-      "album": {
         "name": "Seems Like",
         "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 194020,
       "name": "Seems Like",
       "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
+    },
+    {
+      "added_at": "2025-08-22 01:38:54",
+      "album": {
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
+      },
+      "artists": [
+        {
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Didn't I",
+      "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
     },
     {
       "added_at": "2025-08-22 01:38:54",
@@ -731,18 +747,18 @@
     {
       "added_at": "2025-08-22 01:38:54",
       "album": {
-        "name": "RATHER BE",
-        "url": "https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M"
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV"
       },
       "artists": [
         {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
         }
       ],
-      "duration_ms": 171873,
-      "name": "RATHER BE",
-      "url": "https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv"
+      "duration_ms": 189780,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7"
     },
     {
       "added_at": "2025-08-22 01:38:54",
@@ -759,6 +775,22 @@
       "duration_ms": 185000,
       "name": "Shameful Game",
       "url": "https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx"
+    },
+    {
+      "added_at": "2025-08-22 01:38:54",
+      "album": {
+        "name": "RATHER BE",
+        "url": "https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 171873,
+      "name": "RATHER BE",
+      "url": "https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv"
     },
     {
       "added_at": "2025-08-22 01:38:54",
@@ -847,22 +879,6 @@
     {
       "added_at": "2025-08-22 01:38:54",
       "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 265410,
-      "name": "August 10",
-      "url": "https://open.spotify.com/track/2MIavWMdvbYuRoA2Cw6VkN"
-    },
-    {
-      "added_at": "2025-08-22 01:38:54",
-      "album": {
         "name": "Illadelph Halflife",
         "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
       },
@@ -875,6 +891,22 @@
       "duration_ms": 357200,
       "name": "What They Do",
       "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
+    },
+    {
+      "added_at": "2025-08-22 01:38:54",
+      "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 265410,
+      "name": "August 10",
+      "url": "https://open.spotify.com/track/2MIavWMdvbYuRoA2Cw6VkN"
     },
     {
       "added_at": "2025-08-22 01:38:54",
@@ -999,22 +1031,6 @@
     {
       "added_at": "2025-08-22 01:38:54",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg"
-    },
-    {
-      "added_at": "2025-08-22 01:38:54",
-      "album": {
         "name": "Mahal",
         "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
       },
@@ -1087,6 +1103,42 @@
     {
       "added_at": "2025-08-22 01:38:54",
       "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg"
+    },
+    {
+      "added_at": "2025-09-17 13:57:22",
+      "album": {
+        "name": "Myself (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "Myself (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj"
+    },
+    {
+      "added_at": "2025-08-22 01:38:54",
+      "album": {
         "name": "The Bottom Line",
         "url": "https://open.spotify.com/album/0bDFKtBkBTJxTVLwZ8H80N"
       },
@@ -1151,54 +1203,6 @@
       "duration_ms": 160455,
       "name": "FREEDOM (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4"
-    },
-    {
-      "added_at": "2025-08-22 01:38:54",
-      "album": {
-        "name": "MIAMI",
-        "url": "https://open.spotify.com/album/46Aw6DwBHIqyFVHhljg8la"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 181395,
-      "name": "MIAMI",
-      "url": "https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4"
-    },
-    {
-      "added_at": "2025-08-22 01:38:54",
-      "album": {
-        "name": "The Rabbit That Hunts Tigers",
-        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
-      },
-      "artists": [
-        {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
-        }
-      ],
-      "duration_ms": 308301,
-      "name": "One Inch Punch",
-      "url": "https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE"
-    },
-    {
-      "added_at": "2025-08-22 01:38:54",
-      "album": {
-        "name": "Buhloone Mindstate",
-        "url": "https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 255008,
-      "name": "Breakadawn",
-      "url": "https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY"
     }
   ],
   "unique_name": "soulful",

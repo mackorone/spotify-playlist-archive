@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance music by independent artists and labels, featuring Noah Baine. Artwork by Rewina Beshue.",
+  "description": "The best new dance music by independent artists and labels, featuring Jaguar. Artwork by Rewina Beshue.",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -2367,6 +2367,28 @@
     },
     {
       "album": {
+        "name": "All Night (Remix)",
+        "url": "https://open.spotify.com/album/7uHw9HMYrbWZgmR2j4smWm"
+      },
+      "artists": [
+        {
+          "name": "Julia Morgan",
+          "url": "https://open.spotify.com/artist/6VdlEyt0raZW4H9B37T9cf"
+        },
+        {
+          "name": "Trey Kams",
+          "url": "https://open.spotify.com/artist/07yU8A73IxTgNowXLh6gHf"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172868,
+      "name": "All Night - Remix",
+      "url": "https://open.spotify.com/track/6EHSLcPzBUdais1Yj3Kn0Y"
+    },
+    {
+      "album": {
         "name": "ALL NIGHT DANCE",
         "url": "https://open.spotify.com/album/6fLdwL1ojilfGbFKsK3q6X"
       },
@@ -3342,6 +3364,24 @@
       "duration_ms": 291460,
       "name": "Archos Gmini",
       "url": "https://open.spotify.com/track/3PxcyeNF7wP4kYYwFFz9gf"
+    },
+    {
+      "album": {
+        "name": "Are You Ready?",
+        "url": "https://open.spotify.com/album/252uqpNPPjBpvsHMoRa4BR"
+      },
+      "artists": [
+        {
+          "name": "Paqu\u00e9",
+          "url": "https://open.spotify.com/artist/55q6RLf1bNVnBKE9qC1MC3"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365500,
+      "name": "Are You Ready?",
+      "url": "https://open.spotify.com/track/66QP8kFLqTfo5H9Yxj2Xe4"
     },
     {
       "album": {
@@ -11301,6 +11341,24 @@
     },
     {
       "album": {
+        "name": "Could I Be?",
+        "url": "https://open.spotify.com/album/6o51jDtWsIF8FkkyDJqn1l"
+      },
+      "artists": [
+        {
+          "name": "inva",
+          "url": "https://open.spotify.com/artist/5l4SP33aCi22EjaKx2YWRN"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222068,
+      "name": "Could I Be?",
+      "url": "https://open.spotify.com/track/0irMYMMCmDx01xtqNs06Fa"
+    },
+    {
+      "album": {
         "name": "You Can Count On Me",
         "url": "https://open.spotify.com/album/58qvXFO0W1EJNWRe2auesq"
       },
@@ -17501,6 +17559,24 @@
     },
     {
       "album": {
+        "name": "PGN4",
+        "url": "https://open.spotify.com/album/6wcyh6uq4wnqBvmC8Kql0H"
+      },
+      "artists": [
+        {
+          "name": "Pagan",
+          "url": "https://open.spotify.com/artist/64DMGOuRN75gf19FY7eVme"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274590,
+      "name": "Fall Into Your Arms",
+      "url": "https://open.spotify.com/track/2hVc4Zv81vBlgKla2g2BjS"
+    },
+    {
+      "album": {
         "name": "FALLEN ANGEL",
         "url": "https://open.spotify.com/album/0ezWogMlYPR5VXwtYEDhgK"
       },
@@ -18879,6 +18955,24 @@
     },
     {
       "album": {
+        "name": "flowers",
+        "url": "https://open.spotify.com/album/1ODyATZy7gpfEO6zUJ2cr5"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217453,
+      "name": "flowers",
+      "url": "https://open.spotify.com/track/0hzGVIvqQw6BwjORJzxF4U"
+    },
+    {
+      "album": {
         "name": "Flutter",
         "url": "https://open.spotify.com/album/2o9XR4P8jKKOMsTOziNVb2"
       },
@@ -19056,7 +19150,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 255437,
       "name": "Foda",
       "url": "https://open.spotify.com/track/7zjTYUSVM2M9Mi8FsHYxuR"
@@ -21260,7 +21354,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 145713,
       "name": "Gimme !",
       "url": "https://open.spotify.com/track/0WCyUMx5OxghTqJWReiiX8"
@@ -22188,6 +22282,28 @@
       "duration_ms": 371551,
       "name": "Got To Do",
       "url": "https://open.spotify.com/track/6XKjrBH9jDhvYUvNVi59pc"
+    },
+    {
+      "album": {
+        "name": "Got U Groovin'",
+        "url": "https://open.spotify.com/album/4p9zLeBp6cmfVKNmeunjpG"
+      },
+      "artists": [
+        {
+          "name": "Entasia",
+          "url": "https://open.spotify.com/artist/4hhSH03TjHXI2OcnRzBDll"
+        },
+        {
+          "name": "SHUFFA",
+          "url": "https://open.spotify.com/artist/3tosID3SunySdhOUdzmO8E"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304847,
+      "name": "Got U Groovin'",
+      "url": "https://open.spotify.com/track/2RTUV2sGoRUpW5PFCJp6k8"
     },
     {
       "album": {
@@ -23496,7 +23612,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 201000,
       "name": "Here",
       "url": "https://open.spotify.com/track/58lD70y0zxpdiAA9pUCbMk"
@@ -36641,6 +36757,24 @@
     },
     {
       "album": {
+        "name": "No Heart",
+        "url": "https://open.spotify.com/album/4LmR3GgkzZllnYMP4pkYki"
+      },
+      "artists": [
+        {
+          "name": "THELMA",
+          "url": "https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292564,
+      "name": "No Heart",
+      "url": "https://open.spotify.com/track/2PT2YgnWt40cdlVWHINqiu"
+    },
+    {
+      "album": {
         "name": "No Lie",
         "url": "https://open.spotify.com/album/2zz6KdMmS1sqK9uOlrvE6W"
       },
@@ -45342,7 +45476,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 180930,
       "name": "Shookadoo",
       "url": "https://open.spotify.com/track/7L3prmjPhWKjweCNoV6Wlx"
@@ -53276,7 +53410,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 240000,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/53mNFIZypKLnQlQyw3DKAo"
@@ -56424,7 +56558,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 214889,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/2ruLLHQCDecXZH7rmj2xXS"
@@ -57916,7 +58050,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 163853,
       "name": "Wild Things",
       "url": "https://open.spotify.com/track/0URye81mlMND44sNFErobp"

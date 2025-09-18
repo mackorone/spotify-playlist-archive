@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 508863,
+  "num_followers": 508923,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAABXsIjS1L4lByDc0vCibNb7",
+  "snapshot_id": "aMiogAAAAABET0GzGiN8YzXJInsRFZbY",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Es Color De Rosa",
-        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Me Olvidar\u00e1s",
-      "url": "https://open.spotify.com/track/3702UGFpHLtMh25rZoSbVx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pensando Positivo",
         "url": "https://open.spotify.com/album/58iuRein03jS4ByY5s8OE1"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 193300,
       "name": "Pensando Positivo",
       "url": "https://open.spotify.com/track/7c8y7v1RLIn4YvEjSFcTwq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Es Color De Rosa",
+        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Me Olvidar\u00e1s",
+      "url": "https://open.spotify.com/track/3702UGFpHLtMh25rZoSbVx"
     },
     {
       "added_at": null,

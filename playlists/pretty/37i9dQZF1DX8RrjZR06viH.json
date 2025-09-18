@@ -1,6 +1,6 @@
 {
   "description": "H\u00f8sten er her! \ud83c\udf42\n",
-  "num_followers": 99345,
+  "num_followers": 99344,
   "original_name": "h\u00f8st i lufta",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-09-11 22:00:26",
       "album": {
-        "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
-        "url": "https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
-      "url": "https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45"
-    },
-    {
-      "added_at": "2025-09-11 22:00:26",
-      "album": {
         "name": "Milk and Honey",
         "url": "https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 210807,
       "name": "Milk and Honey",
       "url": "https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK"
+    },
+    {
+      "added_at": "2025-09-11 22:00:26",
+      "album": {
+        "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
+        "url": "https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
+      "url": "https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45"
     },
     {
       "added_at": "2025-09-11 22:00:26",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-09-11 22:00:26",
       "album": {
-        "name": "N\u00e5 har du meg",
-        "url": "https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy"
-      },
-      "artists": [
-        {
-          "name": "Emelie Hollow",
-          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
-        }
-      ],
-      "duration_ms": 221427,
-      "name": "N\u00e5 har du meg",
-      "url": "https://open.spotify.com/track/33coicso7oegceR6nB7Srl"
-    },
-    {
-      "added_at": "2025-09-11 22:00:26",
-      "album": {
         "name": "Venter du",
         "url": "https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 157360,
       "name": "Venter du",
       "url": "https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD"
+    },
+    {
+      "added_at": "2025-09-11 22:00:26",
+      "album": {
+        "name": "N\u00e5 har du meg",
+        "url": "https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "duration_ms": 221427,
+      "name": "N\u00e5 har du meg",
+      "url": "https://open.spotify.com/track/33coicso7oegceR6nB7Srl"
     },
     {
       "added_at": "2025-09-11 22:00:26",
@@ -947,26 +947,6 @@
     {
       "added_at": "2025-09-11 22:00:26",
       "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Better Days (feat. John Mayer)",
-      "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
-    },
-    {
-      "added_at": "2025-09-11 22:00:26",
-      "album": {
         "name": "Fineste Dama P\u00e5 Utestedet",
         "url": "https://open.spotify.com/album/7pU45MsJfs2xoqC34wPKeV"
       },
@@ -987,6 +967,26 @@
     {
       "added_at": "2025-09-11 22:00:26",
       "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Better Days (feat. John Mayer)",
+      "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
+    },
+    {
+      "added_at": "2025-09-11 22:00:26",
+      "album": {
         "name": "Hva vi kunne bli",
         "url": "https://open.spotify.com/album/0UG3jUBKtxD87IoznNgrev"
       },
@@ -999,26 +999,6 @@
       "duration_ms": 175360,
       "name": "Hva vi kunne bli",
       "url": "https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u"
-    },
-    {
-      "added_at": "2025-09-11 22:00:26",
-      "album": {
-        "name": "Pornography",
-        "url": "https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK"
-      },
-      "artists": [
-        {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
-        },
-        {
-          "name": "Emilie Nicolas",
-          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Pornography",
-      "url": "https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8"
     },
     {
       "added_at": "2025-09-11 22:00:26",
@@ -1043,18 +1023,22 @@
     {
       "added_at": "2025-09-11 22:00:26",
       "album": {
-        "name": "Kanskje det g\u00e5r te helvete",
-        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK"
       },
       "artists": [
         {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        },
+        {
+          "name": "Emilie Nicolas",
+          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
         }
       ],
-      "duration_ms": 146813,
-      "name": "Gjesten p\u00e5 festen",
-      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
+      "duration_ms": 226666,
+      "name": "Pornography",
+      "url": "https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8"
     },
     {
       "added_at": "2025-09-11 22:00:26",
@@ -1075,6 +1059,22 @@
       "duration_ms": 169248,
       "name": "Sommer i Norge",
       "url": "https://open.spotify.com/track/3EWGpExJwrJxqfXrv8jySH"
+    },
+    {
+      "added_at": "2025-09-11 22:00:26",
+      "album": {
+        "name": "Kanskje det g\u00e5r te helvete",
+        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 146813,
+      "name": "Gjesten p\u00e5 festen",
+      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
     },
     {
       "added_at": "2025-09-11 22:00:26",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-09-11 22:00:26",
       "album": {
-        "name": "Gamle vaner",
-        "url": "https://open.spotify.com/album/223dqSTNxI8iK6Bj7iudvN"
-      },
-      "artists": [
-        {
-          "name": "Nessi",
-          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
-        }
-      ],
-      "duration_ms": 124067,
-      "name": "Gamle vaner",
-      "url": "https://open.spotify.com/track/3spvaek151dJXQ3Uc7wDrK"
-    },
-    {
-      "added_at": "2025-09-11 22:00:26",
-      "album": {
         "name": "Synd synd synd",
         "url": "https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 192213,
       "name": "Synd synd synd",
       "url": "https://open.spotify.com/track/1E3XUJ45spbv204ePpWeJR"
+    },
+    {
+      "added_at": "2025-09-11 22:00:26",
+      "album": {
+        "name": "Gamle vaner",
+        "url": "https://open.spotify.com/album/223dqSTNxI8iK6Bj7iudvN"
+      },
+      "artists": [
+        {
+          "name": "Nessi",
+          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
+        }
+      ],
+      "duration_ms": 124067,
+      "name": "Gamle vaner",
+      "url": "https://open.spotify.com/track/3spvaek151dJXQ3Uc7wDrK"
     },
     {
       "added_at": "2025-09-11 22:00:26",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2025-09-11 22:00:26",
       "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/0VUXnqYhSEbRpQiJ6pvcYt"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "25",
+      "url": "https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg"
+    },
+    {
+      "added_at": "2025-09-11 22:00:26",
+      "album": {
         "name": "Oh Love (Acoustic)",
         "url": "https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2025-09-11 22:00:26",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/0VUXnqYhSEbRpQiJ6pvcYt"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "25",
-      "url": "https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg"
-    },
-    {
-      "added_at": "2025-09-11 22:00:26",
-      "album": {
         "name": "Ole Lukk\u00f8ye",
         "url": "https://open.spotify.com/album/6KmalLGuo1RnLKTloNsiAQ"
       },
@@ -1235,22 +1235,6 @@
       "duration_ms": 265726,
       "name": "Ole Lukk\u00f8ye",
       "url": "https://open.spotify.com/track/03MTSWFmsqzh7lch0AlPAJ"
-    },
-    {
-      "added_at": "2025-09-11 22:00:26",
-      "album": {
-        "name": "Alibi",
-        "url": "https://open.spotify.com/album/1H4bbyylsgLeduoQrASeGr"
-      },
-      "artists": [
-        {
-          "name": "Beharie",
-          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
-        }
-      ],
-      "duration_ms": 213293,
-      "name": "Alibi",
-      "url": "https://open.spotify.com/track/1aLTu59n1Wix22Wwbr1BdE"
     },
     {
       "added_at": "2025-09-11 22:00:26",
@@ -1287,22 +1271,18 @@
     {
       "added_at": "2025-09-11 22:00:26",
       "album": {
-        "name": "V\u00e5rs\u00f8g",
-        "url": "https://open.spotify.com/album/0xNCvZnoASYU3VjS8Tl9OV"
+        "name": "Alibi",
+        "url": "https://open.spotify.com/album/1H4bbyylsgLeduoQrASeGr"
       },
       "artists": [
         {
-          "name": "Jonas Benyoub",
-          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
-        },
-        {
-          "name": "Henning Sommerro",
-          "url": "https://open.spotify.com/artist/6jW6nKyPEmPdBrKOEICcuu"
+          "name": "Beharie",
+          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
         }
       ],
-      "duration_ms": 188202,
-      "name": "V\u00e5rs\u00f8g",
-      "url": "https://open.spotify.com/track/19fg74cR8JsB4As2iaJil2"
+      "duration_ms": 213293,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/1aLTu59n1Wix22Wwbr1BdE"
     },
     {
       "added_at": "2025-09-11 22:00:26",
@@ -1323,6 +1303,26 @@
     {
       "added_at": "2025-09-11 22:00:26",
       "album": {
+        "name": "V\u00e5rs\u00f8g",
+        "url": "https://open.spotify.com/album/0xNCvZnoASYU3VjS8Tl9OV"
+      },
+      "artists": [
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
+        {
+          "name": "Henning Sommerro",
+          "url": "https://open.spotify.com/artist/6jW6nKyPEmPdBrKOEICcuu"
+        }
+      ],
+      "duration_ms": 188202,
+      "name": "V\u00e5rs\u00f8g",
+      "url": "https://open.spotify.com/track/19fg74cR8JsB4As2iaJil2"
+    },
+    {
+      "added_at": "2025-09-11 22:00:26",
+      "album": {
         "name": "Miste huet",
         "url": "https://open.spotify.com/album/3XKZriJLIHInSAQQEW5Ut1"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 177669,
       "name": "Miste huet",
       "url": "https://open.spotify.com/track/2se3rw5jBytcnk2xDCW2Jb"
+    },
+    {
+      "added_at": "2025-09-11 22:00:26",
+      "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/1QZMCyEf9XZB52oKGhkqZa"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 211489,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/2mii3Q0tuCBI5DNyt0pBqW"
     },
     {
       "added_at": "2025-09-11 22:00:26",
@@ -1379,42 +1395,6 @@
     {
       "added_at": "2025-09-11 22:00:26",
       "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/1QZMCyEf9XZB52oKGhkqZa"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 211489,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/2mii3Q0tuCBI5DNyt0pBqW"
-    },
-    {
-      "added_at": "2025-09-11 22:00:26",
-      "album": {
-        "name": "eye 2 eye",
-        "url": "https://open.spotify.com/album/4MDeoH6qR5RfApbdgWhDqB"
-      },
-      "artists": [
-        {
-          "name": "bob junior",
-          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
-        },
-        {
-          "name": "Evan Klar",
-          "url": "https://open.spotify.com/artist/75uckX1A3uct1uhAbAdVy2"
-        }
-      ],
-      "duration_ms": 147781,
-      "name": "eye 2 eye",
-      "url": "https://open.spotify.com/track/1XieKqmcoYB4s2PZqjYDSJ"
-    },
-    {
-      "added_at": "2025-09-11 22:00:26",
-      "album": {
         "name": "henda i v\u00e6ret",
         "url": "https://open.spotify.com/album/4ryEkaYCH9uIdA4jbdHhIP"
       },
@@ -1435,18 +1415,38 @@
     {
       "added_at": "2025-09-11 22:00:26",
       "album": {
-        "name": "Jeg tar deg imot",
-        "url": "https://open.spotify.com/album/348MaQv1g119x9tSvy27Qk"
+        "name": "Part Of The Story",
+        "url": "https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG"
       },
       "artists": [
         {
-          "name": "Randi Oline",
-          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
+          "name": "Emma Jensen",
+          "url": "https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS"
         }
       ],
-      "duration_ms": 186073,
-      "name": "Jeg tar deg imot",
-      "url": "https://open.spotify.com/track/3rcVyuZ0No5sP78pzKud25"
+      "duration_ms": 187173,
+      "name": "Part Of The Story",
+      "url": "https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4"
+    },
+    {
+      "added_at": "2025-09-11 22:00:26",
+      "album": {
+        "name": "eye 2 eye",
+        "url": "https://open.spotify.com/album/4MDeoH6qR5RfApbdgWhDqB"
+      },
+      "artists": [
+        {
+          "name": "bob junior",
+          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
+        },
+        {
+          "name": "Evan Klar",
+          "url": "https://open.spotify.com/artist/75uckX1A3uct1uhAbAdVy2"
+        }
+      ],
+      "duration_ms": 147781,
+      "name": "eye 2 eye",
+      "url": "https://open.spotify.com/track/1XieKqmcoYB4s2PZqjYDSJ"
     },
     {
       "added_at": "2025-09-11 22:00:26",

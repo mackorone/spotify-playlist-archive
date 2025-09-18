@@ -4,7 +4,7 @@
 
 > 2025: doom scrolling is out, off\-grid is in.
 
-96 songs - 4 hr 3 min
+101 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Aguachile](https://open.spotify.com/track/79JWsSXbAW3gisGFrLXafU) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Aguachile](https://open.spotify.com/album/6ugXuZjPxb6eUacXvSiPXZ) | 2:06 | 2025-05-30 |  |
 | [Amenable](https://open.spotify.com/track/45hCCandEc5IGL5p6rUy7g) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Amenable](https://open.spotify.com/album/7lTPmvctkCtwVtMyJZtPaw) | 2:54 | 2025-03-07 |  |
 | [Aperetif](https://open.spotify.com/track/0gTbCfoGn1ZHru7ZfBk0x3) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Aperetif](https://open.spotify.com/album/441Vp8czTgLjVLFPPZxHxP) | 2:33 | 2025-03-07 |  |
+| [Arabesque](https://open.spotify.com/track/2W7aB2FQqWFq6oYR0x2Muc) | [Cedric Grey](https://open.spotify.com/artist/6JbH37KxXJI583fPVzxyqO) | [Arabesque](https://open.spotify.com/album/4BRIfQCswq2SeymgVav1hZ) | 2:21 | 2025-09-17 |  |
 | [Are You Sure](https://open.spotify.com/track/2TqLlM0y1UJMRIrbunTpmG) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Are You Sure](https://open.spotify.com/album/2VKd1pXPnFyyhbNryo22um) | 2:10 | 2025-03-07 |  |
 | [As the Light Unfolds](https://open.spotify.com/track/4iLQt0yaViFFVYA2QqReQo) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [As the Light Unfolds](https://open.spotify.com/album/5iZC7M6Z8SuVixMY1qYKMA) | 4:18 | 2025-08-18 |  |
 | [Au revoir](https://open.spotify.com/track/7vfdFzzXnux3FSS1GOQ5cn) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Au revoir](https://open.spotify.com/album/3nthhPdTXBSHY9A0Owcoe2) | 2:46 | 2025-03-07 |  |
@@ -27,11 +28,12 @@
 | [Constant Flow](https://open.spotify.com/track/4ddSt3tiJ7QxAq93PlIf3Z) | [Stace Brinorma](https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk) | [Constant Flow](https://open.spotify.com/album/6ZKXemtYF6UdrXwA9mA2o6) | 2:20 | 2025-04-09 |  |
 | [Copper Corners](https://open.spotify.com/track/2ZOHuRyNd05kKlsZVKPnuD) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Copper Corners](https://open.spotify.com/album/1ex8osQco2SsMVEvJBrwEA) | 2:24 | 2025-03-07 |  |
 | [Counting the Days](https://open.spotify.com/track/1xfEo3rOHLAT3vqxMPKC5d) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Counting the Days](https://open.spotify.com/album/1DIDzFc9XpurOpFuCGmL43) | 2:48 | 2025-04-02 |  |
-| [Descanso](https://open.spotify.com/track/09GOfbYAJRl2EtDAWCzaYh) | [aung](https://open.spotify.com/artist/0s0tm9zd9sIgQU1g44VujV) | [Descanso](https://open.spotify.com/album/3P2cjSVUew8ztsFyndU0mo) | 2:52 | 2025-06-10 |  |
+| [Descanso](https://open.spotify.com/track/09GOfbYAJRl2EtDAWCzaYh) | [aung](https://open.spotify.com/artist/0s0tm9zd9sIgQU1g44VujV) | [Descanso](https://open.spotify.com/album/3P2cjSVUew8ztsFyndU0mo) | 2:52 | 2025-06-10 | 2025-09-18 |
 | [Dianthus](https://open.spotify.com/track/1AFS4HPrOmxvVgKGVuylWI) | [Valentia Serrano](https://open.spotify.com/artist/1OCi9l2I6jEaENzD8MuSAJ) | [Dianthus](https://open.spotify.com/album/2NVyXMffU56Xmv5Dqs8Aix) | 2:33 | 2025-03-21 |  |
 | [Dream Currents](https://open.spotify.com/track/1ojiIYfLCTbwPU5Iw5eGKx) | [Enigmatic Horizons](https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc) | [Dream Currents](https://open.spotify.com/album/52oI8gPpTN0njgd3m1cip8) | 2:18 | 2025-03-07 |  |
 | [Ember](https://open.spotify.com/track/7yZcjQGSDcKdxAmxJ7rvqd) | [Lunar Lull](https://open.spotify.com/artist/0w0zHn5v90BiyC7Puy5dPo) | [Ember](https://open.spotify.com/album/4Veqj4ATJBFYcrGMig7O38) | 2:44 | 2025-05-20 |  |
 | [Ephemere](https://open.spotify.com/track/1Pssjy6ANBqZ4H26A9T3AY) | [Orphea Nyx](https://open.spotify.com/artist/2GpH3SIs7R1MlgFgnFQLRq) | [Ephemere](https://open.spotify.com/album/65qy730xZa0z8mPRR9DZk1) | 2:04 | 2025-08-18 |  |
+| [Everflow](https://open.spotify.com/track/5zUGn3dq7JncD3RyBe09bH) | [Orphea Nyx](https://open.spotify.com/artist/2GpH3SIs7R1MlgFgnFQLRq) | [Everflow](https://open.spotify.com/album/1hqwYk5MdiP5eVWUYhBzWt) | 2:37 | 2025-09-17 |  |
 | [Falling Softly](https://open.spotify.com/track/74KTeVGUFWJfVw3e7k0W0s) | [Gustav Potter](https://open.spotify.com/artist/26s4OPUnJXERdx6o2KGIL6) | [Falling Softly](https://open.spotify.com/album/1sdwS0IyPGfEpjkMdgpc4T) | 2:19 | 2025-03-07 |  |
 | [Far Apart](https://open.spotify.com/track/0fRhQua0hDniGl8Ya6FObR) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Far Apart](https://open.spotify.com/album/0qhruBrhX5rEM8dyCXOK0X) | 2:04 | 2025-03-07 |  |
 | [first light](https://open.spotify.com/track/7bu870j7iPDSdbMob24mRp) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [first light](https://open.spotify.com/album/11ohTTCQ3SNzVb2IjCuuRk) | 2:55 | 2025-03-07 |  |
@@ -46,6 +48,7 @@
 | [Healing Tendrils](https://open.spotify.com/track/41ThXtLwrQtNmL4kxtoHKe) | [Stanley Lloyd](https://open.spotify.com/artist/32BtOzjlmKXKmYpKFIX6OY) | [Healing Tendrils](https://open.spotify.com/album/0RiGwcltuObnCRpjiAOpJS) | 2:40 | 2025-03-07 |  |
 | [Hiver](https://open.spotify.com/track/3X7jAbQljjes5YZPV1TAUP) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Hiver](https://open.spotify.com/album/1wKl4ZvsF3qx5EVq9hKgy4) | 2:29 | 2025-03-07 | 2025-06-11 |
 | [Home](https://open.spotify.com/track/4dOD4uPnmDmh8LKkC3jQ8o) | [Sune Klintberg](https://open.spotify.com/artist/3TXiQjSvTxhlNZTML8XJQY) | [Home](https://open.spotify.com/album/6m4x8gXUxYmkr7Dj850nzg) | 2:46 | 2025-03-07 |  |
+| [Hot Springs Cove](https://open.spotify.com/track/3dCvFvKdbyPavhXonp1O0O) | [aung](https://open.spotify.com/artist/0s0tm9zd9sIgQU1g44VujV) | [Hot Springs Cove](https://open.spotify.com/album/3et31FrGP4wzUiivFNe7vu) | 2:11 | 2025-09-17 |  |
 | [Idyllwild](https://open.spotify.com/track/2RKTXZKlTWEKYgAwA0D8dM) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Idyllwild](https://open.spotify.com/album/36EtKQcr9CYVdkcGFymr9Z) | 2:21 | 2025-05-13 |  |
 | [In Green](https://open.spotify.com/track/65X0IiKlzsco1zlM18opk6) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [In Green](https://open.spotify.com/album/0ron8ZEWZaCkrL3cg4H0VE) | 2:34 | 2025-04-23 |  |
 | [In Regards to A Dream](https://open.spotify.com/track/6KMe6OFo5QCi9co4Vnfz8I) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [In Regards to A Dream](https://open.spotify.com/album/19VRs67fPxLG5QzQME6zE8) | 3:03 | 2025-03-07 |  |
@@ -80,7 +83,9 @@
 | [Skyline Sonnet](https://open.spotify.com/track/5IqPPFogK8Quw9iKgnvqxl) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [Skyline Sonnet](https://open.spotify.com/album/0pLZ2ao9Gg7nKiIWewdlVh) | 2:36 | 2025-03-07 |  |
 | [Soar](https://open.spotify.com/track/510zxCdlRrbJ1w2iSLnHrR) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Soar](https://open.spotify.com/album/7Mpo6kNCqKZ3MRd3IfGtAW) | 2:13 | 2025-08-05 |  |
 | [Sole In Viso](https://open.spotify.com/track/46o8PS9zl4HryzFZEVgtwm) | [Emilio Abruzzo](https://open.spotify.com/artist/3Cmm3KzKAdZM69mMxxLaDK) | [Sole In Viso](https://open.spotify.com/album/6spKUg9mnuj7UNvjOR5w7S) | 2:23 | 2025-03-07 | 2025-06-11 |
+| [something familiar](https://open.spotify.com/track/49AZECHl99ZaUVgHa4JjqM) | [reinë](https://open.spotify.com/artist/4KMRoxw1UPjNsfY53yIfYR) | [something familiar](https://open.spotify.com/album/4oB5z70NjRTQTaoI4QtZau) | 2:51 | 2025-09-17 |  |
 | [Strangely Familiar](https://open.spotify.com/track/2nsOZMaNxxtd79bJ7dbxLb) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Strangely Familiar](https://open.spotify.com/album/0690iOy21OddNlV3HRLEgD) | 3:22 | 2025-05-13 |  |
+| [stronghold](https://open.spotify.com/track/5jG7oYc2pE5KptTutOzQWQ) | [Elarune](https://open.spotify.com/artist/0AGFEF0rviLWBlKn1DBeUu) | [stronghold](https://open.spotify.com/album/64ddUi0c1mXgTZhKIzUT0Z) | 2:05 | 2025-09-17 |  |
 | [Stronghold](https://open.spotify.com/track/7u88VSbgr8shaE8AEQgxWr) | [Eldur Hæettu](https://open.spotify.com/artist/1lGzKi0vUzzzT5b2U4CMHC) | [Stronghold](https://open.spotify.com/album/0sgtGomrGyyVDpMka5CFAK) | 2:51 | 2025-03-07 |  |
 | [Sunflower](https://open.spotify.com/track/7gcHVrqiSXb2vhLKvze7Ub) | [Kuro Yama](https://open.spotify.com/artist/1cS2AwtXloMGmieZSnIJ9d) | [Sunflower](https://open.spotify.com/album/1WMJxArpMCKdWDKFie4azg) | 2:21 | 2025-03-07 |  |
 | [Sunny](https://open.spotify.com/track/4RZ1hx5zELZWryF84Hxyye) | [Daiku T](https://open.spotify.com/artist/24p9LXzvz3njcv7UOI9xU5) | [Sunny](https://open.spotify.com/album/46fZUZRfAlSTXQHc47u80I) | 2:00 | 2025-04-02 |  |

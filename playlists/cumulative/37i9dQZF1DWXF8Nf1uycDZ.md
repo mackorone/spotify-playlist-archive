@@ -2,7 +2,7 @@
 
 ### [Throwback Thursday \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWXF8Nf1uycDZ)
 
-> This week: y2k\. Cover: Sisqo
+> This week: strings attached 🎻\. Cover: The Veronicas
 
 259 songs - 17 hr 25 min
 

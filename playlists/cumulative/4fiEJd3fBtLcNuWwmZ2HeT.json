@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Merveilles",
+        "url": "https://open.spotify.com/album/32OKDgdDPz4zLf3FY6Fhxj"
+      },
+      "artists": [
+        {
+          "name": "Malace Mizer",
+          "url": "https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292586,
+      "name": "Au Revoir",
+      "url": "https://open.spotify.com/track/2iFF3KireK1QxkCvUVJaQv"
+    },
+    {
+      "album": {
         "name": "After the partY",
         "url": "https://open.spotify.com/album/0b6bP73xLMUe33k8xkPzRw"
       },

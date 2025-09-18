@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[lia♡](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 979 songs - 2 day 8 hr 12 min
+[lia♡](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 980 songs - 2 day 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -987,5 +987,6 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 977 | [Pierre Gasly](https://open.spotify.com/track/2fpTftjrqrcyGYjBYzStaC) | [FeldaLeaf](https://open.spotify.com/artist/7vwDmkDOnHLO7N0CIaidIg), [APM Boy](https://open.spotify.com/artist/124FXtf1eBUXtUq8xZo5hV) | [Pierre Gasly](https://open.spotify.com/album/6QNprAfaTNDRl6aXev1GSb) | 2:16 |
 | 978 | [Feels Like Loneliness](https://open.spotify.com/track/0QTOY1FBKwC7jA33N8cLSi) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 3:20 |
 | 979 | [I Told You Things](https://open.spotify.com/track/5V6mK1pEu22104f22m8KkX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 3:41 |
+| 980 | [Pain](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:38 |
 
-Snapshot ID: `AAAGovAHSPjZDiMUnUJ2IdwlxlQaggzn`
+Snapshot ID: `AAAGo3rUA6tF5LozIPD8+I7CAvs695Zf`

@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Kujenga",
-  "num_followers": 11857,
+  "num_followers": 11862,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
+        "name": "H.O.P.E (Holding On to Positive Expectations)",
+        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
+      },
+      "artists": [
+        {
+          "name": "Ofentse Moses Sebula",
+          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
+        }
+      ],
+      "duration_ms": 365000,
+      "name": "H.O.P.E",
+      "url": "https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a"
+    },
+    {
+      "added_at": "2025-08-29 10:19:41",
+      "album": {
         "name": "Inkehli",
         "url": "https://open.spotify.com/album/5HSsIxH98Ic7Mw0k12cmSm"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 113750,
       "name": "Njia",
       "url": "https://open.spotify.com/track/6tmedtkicLtB4uJKuc2spW"
-    },
-    {
-      "added_at": "2025-08-29 10:19:41",
-      "album": {
-        "name": "H.O.P.E (Holding On to Positive Expectations)",
-        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
-      },
-      "artists": [
-        {
-          "name": "Ofentse Moses Sebula",
-          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
-        }
-      ],
-      "duration_ms": 365000,
-      "name": "H.O.P.E",
-      "url": "https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a"
     },
     {
       "added_at": "2025-08-29 10:19:41",

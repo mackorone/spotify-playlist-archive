@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. El Rabbanito en portada.",
-  "num_followers": 219971,
+  "num_followers": 220037,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,26 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
+        "name": "Chorumbo",
+        "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "duration_ms": 200141,
+      "name": "Chorumbo",
+      "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
         "name": "El Jelty",
         "url": "https://open.spotify.com/album/0HnwPMtwdE6iRhv8vRaulE"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 245632,
       "name": "Si Estuviera el G\u00fcero",
       "url": "https://open.spotify.com/track/2llTfNMuotrHlU6ZtOaYUb"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
-        "name": "Chorumbo",
-        "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        },
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        }
-      ],
-      "duration_ms": 200141,
-      "name": "Chorumbo",
-      "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -959,6 +959,26 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
+        "name": "Fresas De La Capital",
+        "url": "https://open.spotify.com/album/6Zpv9HFhV78xWi58Gi3E8B"
+      },
+      "artists": [
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        },
+        {
+          "name": "Jaque Mate",
+          "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
+        }
+      ],
+      "duration_ms": 173397,
+      "name": "Fresas De La Capital",
+      "url": "https://open.spotify.com/track/3HIL8kXH7d56lMcl9wEOpb"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
         "name": "Entre Hierba, Polvo y Plomo",
         "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 215594,
       "name": "Entre Hierba, Polvo y Plomo",
       "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
-        "name": "Fresas De La Capital",
-        "url": "https://open.spotify.com/album/6Zpv9HFhV78xWi58Gi3E8B"
-      },
-      "artists": [
-        {
-          "name": "Legion RG",
-          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
-        },
-        {
-          "name": "Jaque Mate",
-          "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
-        }
-      ],
-      "duration_ms": 173397,
-      "name": "Fresas De La Capital",
-      "url": "https://open.spotify.com/track/3HIL8kXH7d56lMcl9wEOpb"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
-        "name": "La Loteria",
-        "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 176350,
-      "name": "Por La Baja Navegamos",
-      "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
         "name": "Barbas Y Botas",
         "url": "https://open.spotify.com/album/4xnyS1V1mrX8F2KejpGU1F"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 209116,
       "name": "Barbas Y Botas",
       "url": "https://open.spotify.com/track/1gqus9p1wgFlpAoTcAP7ci"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
+        "name": "La Loteria",
+        "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 176350,
+      "name": "Por La Baja Navegamos",
+      "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
-        "name": "La Posada Especial",
-        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 338511,
-      "name": "Promesa Cumplida",
-      "url": "https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
         "name": "Magneto",
         "url": "https://open.spotify.com/album/3LZBjdQbfBo2h4Oa1mA7HS"
       },
@@ -1179,22 +1163,18 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
-        "name": "Me Recordar\u00e1 El Cartel",
-        "url": "https://open.spotify.com/album/0y3JfPmBXObYNQdFA51wPt"
+        "name": "La Posada Especial",
+        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
       },
       "artists": [
         {
-          "name": "Pantera De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
-        },
-        {
-          "name": "Markitos Toys",
-          "url": "https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 221391,
-      "name": "Me Recordar\u00e1 El Cartel",
-      "url": "https://open.spotify.com/track/3frGd9BgQSOrOg7ELtmIND"
+      "duration_ms": 338511,
+      "name": "Promesa Cumplida",
+      "url": "https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -1215,6 +1195,26 @@
       "duration_ms": 214655,
       "name": "100% Mayo",
       "url": "https://open.spotify.com/track/66xebj3Jw2Y6qzuvxnE6QD"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
+        "name": "Me Recordar\u00e1 El Cartel",
+        "url": "https://open.spotify.com/album/0y3JfPmBXObYNQdFA51wPt"
+      },
+      "artists": [
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        },
+        {
+          "name": "Markitos Toys",
+          "url": "https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g"
+        }
+      ],
+      "duration_ms": 221391,
+      "name": "Me Recordar\u00e1 El Cartel",
+      "url": "https://open.spotify.com/track/3frGd9BgQSOrOg7ELtmIND"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
+        "name": "Desde La Prisi\u00f3n 19",
+        "url": "https://open.spotify.com/album/1kdG9DtGQoZGHAEFd4lLQj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cartel",
+          "url": "https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J"
+        }
+      ],
+      "duration_ms": 175583,
+      "name": "Desde La Prisi\u00f3n 19",
+      "url": "https://open.spotify.com/track/5WKa58Z9qiOYdOwKw52KUg"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
         "name": "Lunetas",
         "url": "https://open.spotify.com/album/77PjwDAfnqkqKWm4yGlV93"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 176760,
       "name": "Lunetas",
       "url": "https://open.spotify.com/track/5stvPTThbnckmxWgW8Nswj"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
-        "name": "Desde La Prisi\u00f3n 19",
-        "url": "https://open.spotify.com/album/1kdG9DtGQoZGHAEFd4lLQj"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cartel",
-          "url": "https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J"
-        }
-      ],
-      "duration_ms": 175583,
-      "name": "Desde La Prisi\u00f3n 19",
-      "url": "https://open.spotify.com/track/5WKa58Z9qiOYdOwKw52KUg"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
+        "name": "Corridos a Lo Maximo",
+        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 206461,
+      "name": "David De Los Acme",
+      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
         "name": "El Hombre De Las 3 D\u00e9cadas",
         "url": "https://open.spotify.com/album/0hGC6GQVpdIZlZqLVQ610L"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 184261,
       "name": "El Compa 1",
       "url": "https://open.spotify.com/track/4X51ot2ZvuPIVRbbPwoLBv"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
-        "name": "Corridos a Lo Maximo",
-        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
-      },
-      "artists": [
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "David De Los Acme",
-      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
-        "name": "El Pinky",
-        "url": "https://open.spotify.com/album/3fcnlKU8TRjOmpsvVgEhrD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 185615,
-      "name": "El Pinky",
-      "url": "https://open.spotify.com/track/0M7rgwIeogKvMzzpHbRqmJ"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
         "name": "Le Apodan El Fresa",
         "url": "https://open.spotify.com/album/1AEAC2w9INswuQduuqzAxG"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 194541,
       "name": "Le Apodan El Fresa",
       "url": "https://open.spotify.com/track/5isAR6vWFuvgIPlgDfO4lX"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
+        "name": "El Pinky",
+        "url": "https://open.spotify.com/album/3fcnlKU8TRjOmpsvVgEhrD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 185615,
+      "name": "El Pinky",
+      "url": "https://open.spotify.com/track/0M7rgwIeogKvMzzpHbRqmJ"
     },
     {
       "added_at": "2025-08-15 06:00:35",

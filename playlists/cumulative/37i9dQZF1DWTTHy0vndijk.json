@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: CHAEYOUNG(\ucc44\uc601)) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: \ud504\ub9bc\ub85c\uc988(PRIMROSE)) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -4475,6 +4475,24 @@
     },
     {
       "album": {
+        "name": "Love Your Flower",
+        "url": "https://open.spotify.com/album/4DnObuoZoENbimDi6adEZp"
+      },
+      "artists": [
+        {
+          "name": "PRIMROSE",
+          "url": "https://open.spotify.com/artist/1nE2Iu4qK1fzslPJcLGq66"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Love Your Flower",
+      "url": "https://open.spotify.com/track/3YCSEjFJTceJXxzC4gdKei"
+    },
+    {
+      "album": {
         "name": "Op.22 Y-Waltz : in Minor",
         "url": "https://open.spotify.com/album/2CMx2ufebKtglecf9Q1F90"
       },
@@ -6980,7 +6998,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 191695,
       "name": "STEREOTYPE",
       "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"

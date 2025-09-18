@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,852 likes - 82 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,926 likes - 82 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 23 | [Insomnia \- Radio Edit](https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [One For The Lad's](https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9) | 3:36 |
 | 24 | [Bellissima \- Radio Edit](https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [Ten Top10 90s Hits](https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz) | 3:14 |
 | 25 | [Désenchantée \- Radio Edit](https://open.spotify.com/track/0eAvGqc9t4Wuc6gDcSi5Aa) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:40 |
-| 26 | [The Launch \- Radio Edit](https://open.spotify.com/track/6FP4peicCGnib7asns71fs) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [The Launch](https://open.spotify.com/album/2mf2kFapmGUkmAVWvjjzr0) | 3:40 |
-| 27 | [Lizard](https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [The Double Album](https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a) | 5:13 |
+| 26 | [Lizard](https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [The Double Album](https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a) | 5:13 |
+| 27 | [The Launch \- Radio Edit](https://open.spotify.com/track/6FP4peicCGnib7asns71fs) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [The Launch](https://open.spotify.com/album/2mf2kFapmGUkmAVWvjjzr0) | 3:40 |
 | 28 | [The Heart of the Ocean \- Radio Mix](https://open.spotify.com/track/6cQT6DT7QMkQm9W5IIwlDC) | [Mythos 'N DJ Cosmo](https://open.spotify.com/artist/0i4Dxa9yaEorvpp6Ad5Zkw) | [The Heart of the Ocean](https://open.spotify.com/album/1JaM9Iym0AkNBl9yWON9Rb) | 3:01 |
 | 29 | [Bellissima \- Radio Mix](https://open.spotify.com/track/4W8njwKQsbLFj3dZx82DWT) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [I Have a Dream / Bellissima](https://open.spotify.com/album/1cYUo02UWjPEVvMd6pFuSd) | 3:50 |
 | 30 | [Follow Me \- Lange's Club Mix](https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [The Morrighan](https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S) | [I Believe / Follow Me](https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv) | 6:32 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 36 | [Toca Me \- Clubmix](https://open.spotify.com/track/4OGrLEjSTGoc0dSNE49w49) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ) | [Toca Me](https://open.spotify.com/album/0rurUxYPrhh8DlTEFcvi4Q) | 5:46 |
 | 37 | [ALARMA!](https://open.spotify.com/track/5ezKbpPGtVHwUzKo3rdywi) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Platinum Edition\)](https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R) | 3:25 |
 | 38 | [Raindrops \- Radio Edit](https://open.spotify.com/track/5harK7MSbeedWxAekeBqGZ) | [Stunt](https://open.spotify.com/artist/2thOenzsesBQDJxkDkMUGI) | [Raindrops](https://open.spotify.com/album/5iefIjpSiQUki0ZqWse3hS) | 3:34 |
-| 39 | [In My Mind](https://open.spotify.com/track/7FhMo3HBdR6CC5PMBVQoN3) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [LP](https://open.spotify.com/album/7DItYlCOQS3UKW6scIHoDA) | 3:28 |
-| 40 | [Dr Feelgood \- Radio Edit](https://open.spotify.com/track/2etCol6AqBN1SkenuxzBE2) | [Interphace](https://open.spotify.com/artist/5oADI8beeP63WY4xyHr7nn) | [Injected Movements Radio Versions](https://open.spotify.com/album/43ddVzrwlBtRGrDZUkr4YJ) | 3:46 |
+| 39 | [Dr Feelgood \- Radio Edit](https://open.spotify.com/track/2etCol6AqBN1SkenuxzBE2) | [Interphace](https://open.spotify.com/artist/5oADI8beeP63WY4xyHr7nn) | [Injected Movements Radio Versions](https://open.spotify.com/album/43ddVzrwlBtRGrDZUkr4YJ) | 3:46 |
+| 40 | [In My Mind](https://open.spotify.com/track/7FhMo3HBdR6CC5PMBVQoN3) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [LP](https://open.spotify.com/album/7DItYlCOQS3UKW6scIHoDA) | 3:28 |
 | 41 | [The Ride](https://open.spotify.com/track/0cWSMnw5SX1ItDdQzBe51E) | [Basic Element](https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ) | [The Ultimate Ride](https://open.spotify.com/album/5XbDQJJx1vai2UQBG1SKYb) | 4:08 |
 | 42 | [Paradoxx \- Original Album Version](https://open.spotify.com/track/5qF7pHGeAns5TtLZDMLJ2F) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Special Edition\)](https://open.spotify.com/album/0O4qBIZ7IKKuPzLftLxA92) | 3:57 |
 | 43 | [Xpander](https://open.spotify.com/track/76mh0rcSJpNhoCCqazptWm) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [The Xpander E.P.](https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q) | 11:30 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 61 | [Lift Me Up \- Barthezz Uplifting Remix](https://open.spotify.com/track/2wT7K2yIR1Tlf116qUc02C) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [Lift Me Up](https://open.spotify.com/album/69hzCLwyNDH2m7m2YV6FAH) | 8:42 |
 | 62 | [Carte Blanche \- Original Mix](https://open.spotify.com/track/2YmQ5jhgV7EX7yWR1IEP9c) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd) | [30 Best Trance Anthems Best Ever](https://open.spotify.com/album/0rIzXOKFdnHhZ4Qmqtd9Ax) | 7:04 |
 | 63 | [You](https://open.spotify.com/track/2x7eD4StqS1n9XTBJDOn7A) | [La Cream](https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc) | [La Cream](https://open.spotify.com/album/6QfZW2wYR43ZpVVXruPbpQ) | 3:07 |
-| 64 | [Believe \- Radio Version](https://open.spotify.com/track/5YoPqsi7hkinkyrdQSgrkK) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [At The Rebels Room](https://open.spotify.com/album/10kMItbeNNucdGw3RiKgci) | 3:26 |
-| 65 | [Protect Your Mind \(Braveheart\) \- Vocal Mix](https://open.spotify.com/track/2BrQKigNLErWheTt6nXYXZ) | [DJ Sakin & Friends](https://open.spotify.com/artist/7rz2w4y86wgga7Z6nrJKty) | [Protect Your Mind \(Braveheart\)](https://open.spotify.com/album/2IHaZr494ZaU2M4mYmIqaq) | 3:39 |
+| 64 | [Protect Your Mind \(Braveheart\) \- Vocal Mix](https://open.spotify.com/track/2BrQKigNLErWheTt6nXYXZ) | [DJ Sakin & Friends](https://open.spotify.com/artist/7rz2w4y86wgga7Z6nrJKty) | [Protect Your Mind \(Braveheart\)](https://open.spotify.com/album/2IHaZr494ZaU2M4mYmIqaq) | 3:39 |
+| 65 | [Believe \- Radio Version](https://open.spotify.com/track/5YoPqsi7hkinkyrdQSgrkK) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [At The Rebels Room](https://open.spotify.com/album/10kMItbeNNucdGw3RiKgci) | 3:26 |
 | 66 | [Luvstruck \- Radio Edit](https://open.spotify.com/track/5zaRPiIB5mtXLPye8w2xSb) | [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/4I7aN6i2uvGefJXZxmEffY) | 3:17 |
 | 67 | [Cream \- Radio Edit](https://open.spotify.com/track/5BkCd2617ac7yWP5WGCiO7) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Cream \(All Mixes\)](https://open.spotify.com/album/5MEGBwEwILYEroHl0tMMRK) | 3:18 |
 | 68 | [Free](https://open.spotify.com/track/4UuA9Tn0QfBEkea3Rcf2q3) | [La Cream](https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc) | [La Cream](https://open.spotify.com/album/6QfZW2wYR43ZpVVXruPbpQ) | 3:10 |

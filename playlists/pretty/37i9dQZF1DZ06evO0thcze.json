@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 56192,
+  "num_followers": 56205,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAABmdCz6HvE7e+enULJcFWms",
+  "snapshot_id": "aMiogAAAAABmakYhZ5Qa/WoMsEbhxD6p",
   "tracks": [
     {
       "added_at": null,
@@ -115,6 +115,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todo Va a Estar Bien",
+        "url": "https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 267796,
+      "name": "Todo Va Estar Bien",
+      "url": "https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LQRA Session #5",
         "url": "https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a"
       },
@@ -139,30 +163,6 @@
       "duration_ms": 308000,
       "name": "LQRA Session #5",
       "url": "https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo Va a Estar Bien",
-        "url": "https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 267796,
-      "name": "Todo Va Estar Bien",
-      "url": "https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE"
     },
     {
       "added_at": null,
@@ -675,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Ti Estoy Loco",
+        "url": "https://open.spotify.com/album/75Mx4x35IQXPFkq8Z9jxK8"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 222843,
+      "name": "Por Ti Estoy Loco",
+      "url": "https://open.spotify.com/track/1j8DGkY3x2sAJoUKW0zAE5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Borrachera",
         "url": "https://open.spotify.com/album/2iZVXuF5HQwXFPNktQi3n6"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 210000,
       "name": "Mamoncita y Chula",
       "url": "https://open.spotify.com/track/2fh0e0swlDpasM5SaMvdO9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Ti Estoy Loco",
-        "url": "https://open.spotify.com/album/75Mx4x35IQXPFkq8Z9jxK8"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 222843,
-      "name": "Por Ti Estoy Loco",
-      "url": "https://open.spotify.com/track/1j8DGkY3x2sAJoUKW0zAE5"
     },
     {
       "added_at": null,
@@ -979,6 +979,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cora",
+        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Lento Y Contento",
+      "url": "https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 321951,
       "name": "Malvada",
       "url": "https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cora",
-        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Lento Y Contento",
-      "url": "https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg"
     },
     {
       "added_at": null,
@@ -1351,8 +1351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
-        "url": "https://open.spotify.com/album/6LOpEa2PQnIhwMzeE9levS"
+        "name": "Alcohol Amargo",
+        "url": "https://open.spotify.com/album/2oKBetIgm4nosWANPzkO5q"
       },
       "artists": [
         {
@@ -1360,13 +1360,13 @@
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         },
         {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 190764,
-      "name": "\u2060\u2060Caballo Del Desierto",
-      "url": "https://open.spotify.com/track/63z4y0xxU454kYikT42uQd"
+      "duration_ms": 236202,
+      "name": "Alcohol Amargo",
+      "url": "https://open.spotify.com/track/3O7aFrnyTmEsLwaKtOonqd"
     }
   ],
   "unique_name": "This Is Neto Pe\u00f1a",

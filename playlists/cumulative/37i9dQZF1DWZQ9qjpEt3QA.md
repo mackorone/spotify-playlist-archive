@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-162 songs - 10 hr 48 min
+162 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Give Me The Light](https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.1](https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC) | 3:10 | 2022-05-26 |  |
 | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02) | 3:45 | 2024-02-09 | 2025-04-19 |
 | [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 | 2022-05-26 | 2023-02-17 |
+| [Good Day](https://open.spotify.com/track/0iy5fIvQtdPqJdFYAwE4ay) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Death of a Daisy & Birth of an Oyster](https://open.spotify.com/album/0E5xwRecVOuzErYMTxVBC3) | 4:13 | 2025-09-16 |  |
 | [GPS](https://open.spotify.com/track/7mSXu1Q76JGPLYolCKp3Xw) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [LostOwl](https://open.spotify.com/artist/2nO3NsrkKhV3cBI7X1wYbb), [Nam Ngo](https://open.spotify.com/artist/5rEpvWrgw0tvax27frKVlH) | [GPS](https://open.spotify.com/album/1dabh9kedSOCHQSXE1cYsN) | 3:59 | 2022-05-26 |  |
 | [Groovin](https://open.spotify.com/track/2ayXROMw6bYBUgL4zVpbma) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [JUE](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Groovin](https://open.spotify.com/album/0lIIrN2fJnQS2gwxVmN5GV) | 3:22 | 2024-02-29 |  |
 | [Groovin \(feat\. Jue\)](https://open.spotify.com/track/6U3c49IZbXVJopmisWnSnS) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Groovin \(Feat\. Jue\)](https://open.spotify.com/album/6oTEsDbZevj1Q0XJIMPlwk) | 3:22 | 2023-07-06 | 2023-11-17 |
@@ -135,7 +136,6 @@
 | [The Midnight Flight](https://open.spotify.com/track/5dkRhWKooE7u39PHvke1i2) | [Namba](https://open.spotify.com/artist/3f6vHFzOFH0pHidakH57Gy), [Chocolate Kit](https://open.spotify.com/artist/4j5XaWuESB6OHy4Eblktqw) | [The Midnight Flight](https://open.spotify.com/album/5h87AL0dOom7DOBgmFkgCK) | 3:55 | 2022-05-26 |  |
 | [The One](https://open.spotify.com/track/3ToRoy9OQHoiz662kJvTTu) | [Purples n' Oranges](https://open.spotify.com/artist/2TmqQRA5s51zD2C4zbiqPq) | [The One](https://open.spotify.com/album/1mHIev96eFTEdby7dAoT67) | 5:18 | 2022-05-26 |  |
 | [Through the Tunnel](https://open.spotify.com/track/0yuCGyf9UYFjoxQuJqJTm3) | [Yangbans](https://open.spotify.com/artist/2YnwThp48Nrhtf7JIBCpbu) | [Through the Tunnel](https://open.spotify.com/album/1AGVQTchxNPR1BCLzK83CI) | 4:48 | 2022-05-26 |  |
-| [Track 3](https://open.spotify.com/track/0iy5fIvQtdPqJdFYAwE4ay) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-16 |  |
 | [Ultra Venus](https://open.spotify.com/track/0QhWeC7nAvAOyKNA279gRT) | [Disco Hue](https://open.spotify.com/artist/6k0tAEcYn1sa2M3EZhlEfw) | [The Yearbook](https://open.spotify.com/album/6Zqb6O4wNqSwUe6uR6Bdpo) | 3:20 | 2022-05-26 | 2023-07-07 |
 | [Venus](https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:32 | 2022-05-26 | 2022-07-29 |
 | [Venus 샛별](https://open.spotify.com/track/000j3FwREid2RIpm6nTLn9) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Venus 샛별](https://open.spotify.com/album/70zQXUoP3iBxwdGxTFM5ya) | 3:32 | 2022-05-26 | 2023-02-03 |

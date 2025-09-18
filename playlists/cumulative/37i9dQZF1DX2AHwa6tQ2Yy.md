@@ -2,9 +2,9 @@
 
 ### [soulful](https://open.spotify.com/playlist/37i9dQZF1DX2AHwa6tQ2Yy)
 
-> Try a little tenderness\. Cover: Don West
+> Try a little tenderness\. Cover: Bumpy
 
-333 songs - 20 hr 39 min
+336 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Bran Nue Wurld](https://open.spotify.com/track/4OOkftDd4EKeNjKDqpegYZ) | [Mo’Ju](https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g) | [ORO, PLATA, MATA](https://open.spotify.com/album/4DiD3VBlFIJivBlzuLE6yk) | 3:21 | 2023-03-23 | 2023-04-02 |
 | [Brand New](https://open.spotify.com/track/1vjyekD56hO5NIsJAgjKgc) | [Mi\-kaisha](https://open.spotify.com/artist/2nDEgpZ9zmM7cqkdUab6Tr) | [Brand New](https://open.spotify.com/album/1oeBre4fMvcoLjbJ9tyvhW) | 3:09 | 2022-06-02 | 2022-09-09 |
 | [Break](https://open.spotify.com/track/41NfPrA9JEK6ufqJkUUU2N) | [Emily Muli](https://open.spotify.com/artist/5PF3HYijywmkoIgVSwXtP8) | [Break](https://open.spotify.com/album/6uoil0oYQ1OemgpS0QExn6) | 3:24 | 2022-06-02 | 2022-09-11 |
-| [Breakadawn](https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Buhloone Mindstate](https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd) | 4:15 | 2025-07-11 |  |
+| [Breakadawn](https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Buhloone Mindstate](https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd) | 4:15 | 2025-07-11 | 2025-09-18 |
 | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5) | 5:52 | 2024-02-22 | 2025-07-11 |
 | [Can I Just Love You](https://open.spotify.com/track/2zmVuZrjXkZgTnsLm9cSDz) | [Sunday Rose](https://open.spotify.com/artist/0on2Bi1asBv63WyzwbSQvE) | [Can I Just Love You](https://open.spotify.com/album/41thN8uSJPYw6XWzLAkLNN) | 3:18 | 2022-06-02 | 2022-09-09 |
 | [catch the night](https://open.spotify.com/track/1m9yB7P1Ba9cuBEMXPHg3n) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [catch the night](https://open.spotify.com/album/5l2k8k5EZeC1qcRKz0wzIs) | 2:55 | 2023-11-16 | 2025-04-27 |
@@ -91,6 +91,7 @@
 | [Falling](https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Falling](https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY) | 3:30 | 2023-02-09 | 2025-07-11 |
 | [Falling in Love Again](https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Tomorrow's Gonna Come](https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0) | 3:50 | 2022-07-28 | 2024-04-19 |
 | [Falling In Love Again](https://open.spotify.com/track/3GwTR3DPSUvAsZeNbbiUdr) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Falling In Love Again](https://open.spotify.com/album/7KY31Q0oFQu3joycepf2Wn) | 3:51 | 2022-06-02 | 2022-07-29 |
+| [Feel Good](https://open.spotify.com/track/2tSuFw2Or4SRUSqlcEv4iM) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Feel Good](https://open.spotify.com/album/5ysy8zzAwGcbqRyIRZ3Zsc) | 5:42 | 2025-09-17 |  |
 | [Feeling Myself](https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Feeling Myself](https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd) | 3:34 | 2022-10-21 | 2022-11-13 |
 | [Feeling Myself](https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:34 | 2022-10-25 | 2023-03-26 |
 | [Feet Don't Fail Me Now](https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ) | 3:18 | 2022-06-02 | 2025-07-11 |
@@ -109,6 +110,7 @@
 | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/album/7eDn2idlPx8ENANzBYcndg) | 2:40 | 2025-07-11 |  |
 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 | 2023-11-16 | 2025-07-11 |
 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 | 2025-07-11 |  |
+| [Give Me All Your Love](https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6) | 3:20 | 2025-09-17 |  |
 | [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2022-06-02 | 2022-12-11 |
 | [Golden](https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw) | 3:09 | 2022-12-08 | 2024-04-19 |
 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 | 2022-06-02 | 2025-07-11 |
@@ -181,7 +183,7 @@
 | [maryjane](https://open.spotify.com/track/1HD7Z0tprZYcPC2okitF6z) | [KHYA](https://open.spotify.com/artist/4XgGyZXiobm9kfKFBdasgm) | [maryjane](https://open.spotify.com/album/0g56yZHVOSFB47HhNDnB0V) | 3:21 | 2023-02-24 | 2025-07-11 |
 | [Masterpiece](https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 5:44 | 2025-07-11 |  |
 | [Met at the River](https://open.spotify.com/track/2sxQ1OkdtF7GyH1SVpDcI4) | [Mara TK](https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Met at the River](https://open.spotify.com/album/1syDBafjciFbCWgxm9zzP2) | 4:38 | 2022-06-02 | 2022-09-09 |
-| [MIAMI](https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MIAMI](https://open.spotify.com/album/46Aw6DwBHIqyFVHhljg8la) | 3:01 | 2025-07-14 |  |
+| [MIAMI](https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MIAMI](https://open.spotify.com/album/46Aw6DwBHIqyFVHhljg8la) | 3:01 | 2025-07-14 | 2025-09-18 |
 | [Mikey Might](https://open.spotify.com/track/4tHN4ENGcnHuaOIDWQlI3x) | [Jerome Farah](https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw) | [Mikey Might](https://open.spotify.com/album/4CBOYSxOd5Tn7Vyr3tF6rH) | 2:30 | 2022-06-02 | 2022-07-22 |
 | [Missing You](https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Missing You](https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B) | 3:33 | 2025-07-11 |  |
 | [Money](https://open.spotify.com/track/1X8qpbbjQo0vftVq5c7kwr) | [Mo’Ju](https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g) | [Money](https://open.spotify.com/album/27xePvSrtU2d9uC8deq5cy) | 3:35 | 2023-01-19 | 2023-02-03 |
@@ -190,6 +192,7 @@
 | [Music & Me](https://open.spotify.com/track/2212oBX0YELcs0sr6DqGer) | [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Music and Me](https://open.spotify.com/album/1MCA50GzswxscAouRWnrES) | 4:00 | 2025-07-11 |  |
 | [My Phone Can Die](https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [My Phone Can Die](https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa) | 2:59 | 2023-06-16 | 2025-03-30 |
 | [My Way](https://open.spotify.com/track/4YIVPG1e2m9moeCRdc3w0E) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [When Everything Is Better, I'll Let You Know](https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx) | 3:37 | 2022-10-21 | 2023-05-30 |
+| [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL) | 2:58 | 2025-09-17 |  |
 | [Naomi](https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing \(Deluxe\)](https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM) | 3:50 | 2023-05-04 | 2025-07-11 |
 | [Natural](https://open.spotify.com/track/3uMewMD8hz7pCWnpgC10ay) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/6PPhLgXiq4nEiZ8x2ZB3xV) | 3:40 | 2022-06-02 | 2022-09-20 |
 | [Natural](https://open.spotify.com/track/6BZ0VMdtzWZZ3ecUMKmarw) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 3:40 | 2022-09-08 | 2024-04-19 |
@@ -210,7 +213,7 @@
 | [Oh Honey](https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [Oh Honey](https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi) | 5:56 | 2025-07-11 |  |
 | [Oil & Water](https://open.spotify.com/track/62lq6SYb2Q0BP1nYpFXlby) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39) | 3:12 | 2022-06-02 | 2025-07-11 |
 | [On Read](https://open.spotify.com/track/5Dz8KovSvRxL6AfkbQXAig) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0) | [Future Classic, Vol\. 1: Classic](https://open.spotify.com/album/346aNEGf6GqQlUK4NPAn2o) | 4:11 | 2023-03-23 | 2023-07-07 |
-| [One Inch Punch](https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK) | 5:08 | 2025-07-11 |  |
+| [One Inch Punch](https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK) | 5:08 | 2025-07-11 | 2025-09-18 |
 | [One Wish](https://open.spotify.com/track/4v2cHBzCtmkvWVWbZ4Rilu) | [Thea](https://open.spotify.com/artist/3MofB6MnXczVVUw6i94oFN) | [Land of Nod](https://open.spotify.com/album/7rzRftiKwTlCxFhZLmdyic) | 3:54 | 2022-06-02 | 2022-09-09 |
 | [Only Wanna Be With You](https://open.spotify.com/track/7ivEZyVKpHlqCKFFUqOYX1) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Only Wanna Be With You](https://open.spotify.com/album/5MEXy3BoHRig5xBgxdzegm) | 3:00 | 2022-06-02 | 2025-07-11 |
 | [Open Up](https://open.spotify.com/track/4UDVrGYUdqaJ8o3yL1snpV) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Dawn](https://open.spotify.com/album/0UoHPF3kjLWKwSHkfmvlIq) | 3:51 | 2022-06-02 | 2022-11-18 |

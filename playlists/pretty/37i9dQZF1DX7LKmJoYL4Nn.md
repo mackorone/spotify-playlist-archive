@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,354 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,367 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 68 | [Hysteric Humanoid](https://open.spotify.com/track/4GDOaroj4GirkuS9Eq1f9b) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [ALKALOID「Believe 4 leaves」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/7aQDesep26GWfrEGjKrN1m) | 4:09 |
 | 69 | [A little bit UP!!](https://open.spotify.com/track/3PQyK1cirH5POLnr8ECCfC) | [Switch/逆先夏目\(CV.野島健児\)、青葉つむぎ\(CV.石川界人\)、春川宙\(CV.山本和臣\)](https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV) | [Switch「Brilliant Smile」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/7t4Y99FrYflBP9tlaAQlEc) | 4:28 |
 | 70 | [NEW DAYBREAK](https://open.spotify.com/track/2iom8kZCmuUny8MfbH94VK) | [流星隊/南雲 鉄虎\(CV.中島 ヨシキ\)、高峯 翠\(CV.渡辺 拓海\)、仙石 忍\(CV.新田 杏樹\)、守沢 千秋\(CV.帆世 雄一\)、深海 奏汰\(CV.西山 宏太朗\)](https://open.spotify.com/artist/0cvDPbtYkcYQsdy9MONamK) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 流星隊](https://open.spotify.com/album/6e3obtGSFhup7yHHHYksid) | 3:40 |
-| 71 | [Ringing evil phone](https://open.spotify.com/track/2qQRTuUDbce625o8ELS3vX) | [EVIL NUM+／逆先 夏目\(CV.野島 健児\)、氷鷹 北斗\(CV.前野 智昭\)、葵 ひなた\(CV.斉藤 壮馬\)、紫之 創\(CV.高坂 知也\)、朔間 凛月\(CV.山下 大輝\)](https://open.spotify.com/artist/3bMNMWYrLxOUy6CZDsucYt) | [あんさんぶるスターズ！！ EVIL NUM+「Ringing evil phone」](https://open.spotify.com/album/0dd0yMYC6Kx15SETHvgkQo) | 3:57 |
+| 71 | [Green to the sky](https://open.spotify.com/track/5YcgW76CzIVxuUzCPfZjCi) | [高峯 翠\(CV.渡辺 拓海\)](https://open.spotify.com/artist/0uE5wXj5AQljxyMhD6HBsO) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 流星隊](https://open.spotify.com/album/6e3obtGSFhup7yHHHYksid) | 3:47 |
 | 72 | [FORBIDDEN RAIN](https://open.spotify.com/track/6wFtFERTwXYu9vGFkeys44) | [UNDEAD/朔間零\(CV.増田俊樹\)、羽風薫\(CV.細貝圭\)、大神晃牙\(CV.小野友樹\)、乙狩アドニス\(CV.羽多野渉\)](https://open.spotify.com/artist/018xyFp4b4AbcZE9Zp13DP) | [UNDEAD「FORBIDDEN RAIN」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/5PVU3WIqTxfohzNmI48brf) | 3:02 |
 | 73 | [You're Speculation](https://open.spotify.com/track/5Rp7oI0yJU9tI7hXurrtSV) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [あんさんぶるスターズ！！ ユニットソングCD ALKALOID](https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L) | 3:41 |
-| 74 | [No name yet](https://open.spotify.com/track/34siwMLyNV8M8V5RwaF4Re) | [Double Face/三毛縞 斑\(CV.鳥海 浩輔\)、桜河 こはく\(CV.海渡 翼\)](https://open.spotify.com/artist/3dtzZMV1ZuvWrpmR1s89ju) | [Double Face「No name yet」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/7nbT3Z3HUtfybX6EVVw7Tb) | 4:14 |
-| 75 | [Dreaming Ocean](https://open.spotify.com/track/46b7fm7RyNGct0HBYpHi0C) | [fine/天祥院英智\(CV.緑川 光\)、日々樹 渉\(CV.江口拓也\)、姫宮桃李\(CV.村瀬 歩\)、伏見弓弦\(CV.橋本晃太朗\)](https://open.spotify.com/artist/7oK5LO53kXSt3xxFsENt4v) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 fine](https://open.spotify.com/album/2SNuhzWNGPRSeEYEScL2Do) | 4:04 |
+| 74 | [Ringing evil phone](https://open.spotify.com/track/2qQRTuUDbce625o8ELS3vX) | [EVIL NUM+／逆先 夏目\(CV.野島 健児\)、氷鷹 北斗\(CV.前野 智昭\)、葵 ひなた\(CV.斉藤 壮馬\)、紫之 創\(CV.高坂 知也\)、朔間 凛月\(CV.山下 大輝\)](https://open.spotify.com/artist/3bMNMWYrLxOUy6CZDsucYt) | [あんさんぶるスターズ！！ EVIL NUM+「Ringing evil phone」](https://open.spotify.com/album/0dd0yMYC6Kx15SETHvgkQo) | 3:57 |
+| 75 | [No name yet](https://open.spotify.com/track/34siwMLyNV8M8V5RwaF4Re) | [Double Face/三毛縞 斑\(CV.鳥海 浩輔\)、桜河 こはく\(CV.海渡 翼\)](https://open.spotify.com/artist/3dtzZMV1ZuvWrpmR1s89ju) | [Double Face「No name yet」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/7nbT3Z3HUtfybX6EVVw7Tb) | 4:14 |
 
 Snapshot ID: `AAAAAIKLEk8CUZ0flERP3sUC6O41trlA`

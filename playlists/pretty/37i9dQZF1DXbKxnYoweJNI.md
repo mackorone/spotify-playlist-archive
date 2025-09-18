@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 莉莉周她說 \(Lily Chou\-Chou Lied\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,639 likes - 141 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,636 likes - 141 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 58 | [祝福歌](https://open.spotify.com/track/39BaFJWIVA2V0yi6uhQaq5) | [淞雅 Salut Sonia](https://open.spotify.com/artist/6xJvoQFDNEP2Q4Bqcz39DE) | [祝福歌](https://open.spotify.com/album/2kdxektfsQnf3OfTVAVy3l) | 5:03 |
 | 59 | [我知道我們不能夠相愛](https://open.spotify.com/track/7MV1w0aGH7yqtDz5Zf5Tvs) | [蔡羽忻 Sydney](https://open.spotify.com/artist/0VaRTsaNnT45dS9plKQpZb) | [我知道我們不能夠相愛](https://open.spotify.com/album/4Tp1YgRmlBmuaCujxl9iIl) | 4:16 |
 | 60 | [翻不過的篇章](https://open.spotify.com/track/4sPk5yBWmLCS2RiQ8dN3xu) | [若函](https://open.spotify.com/artist/2hK3WsZJTmQcNVCMduaxOj) | [翻不過的篇章](https://open.spotify.com/album/6y7PpAE3C3dOUxJkMf1a0z) | 3:42 |
-| 61 | [保持微醺 sapater han aca](https://open.spotify.com/track/1grB6QMiSsPI0MqxuI5fNK) | [微醺開根 RadiwRaliw](https://open.spotify.com/artist/1oX1fKc9VJ1JRElklASntF) | [火開始的地方 pasaring kelan rana’](https://open.spotify.com/album/6qfP4RHWVWigpPLn30b9d9) | 3:05 |
+| 61 | [保持微醺 sapater han aca](https://open.spotify.com/track/1grB6QMiSsPI0MqxuI5fNK) | [微醺開根 RadiwRaliw](https://open.spotify.com/artist/1oX1fKc9VJ1JRElklASntF) | [火開始的地方 pasaring kelan ṟanaʼ](https://open.spotify.com/album/6qfP4RHWVWigpPLn30b9d9) | 3:05 |
 | 62 | [Forgive Me](https://open.spotify.com/track/7CgRk24wIh4HQu463dP6tb) | [Emma Woods](https://open.spotify.com/artist/0FCkAAasVSivVKXrzF1Qmc) | [Forgive Me](https://open.spotify.com/album/4cKWyfBhPO84yu1twZjgrp) | 2:34 |
 | 63 | [我留了一個清晨給你](https://open.spotify.com/track/4jL2Nd88h0DcLDXsIK2yNd) | [陳竟飛 Shane Chen](https://open.spotify.com/artist/1USgS12pGV5X0E5tfy9Uqw) | [我留了一個清晨給你](https://open.spotify.com/album/2zI8m4wPGgpkwJnErnl4XV) | 3:33 |
 | 64 | [If I Say Sorry](https://open.spotify.com/track/2Dk339QKqAPPWwSyVcCn8d) | [aaro](https://open.spotify.com/artist/2pGN49cfieiYONWLglN489) | [If I Say Sorry](https://open.spotify.com/album/3RAwtZyYpP2aSFDZgxS03O) | 2:45 |

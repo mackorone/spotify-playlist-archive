@@ -4,7 +4,7 @@
 
 > Rustig aan doen op zondag met deze zachte popliedjes.
 
-260 songs - 14 hr 54 min
+262 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Angel Child](https://open.spotify.com/track/13oIo7ceUwD6RCxPfGJyhX) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Angel Child](https://open.spotify.com/album/6ecE7tM2AG6ZhVVzELMz8b) | 3:40 | 2025-01-25 |  |
 | [Answer Phone](https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Answer Phone](https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt) | 2:40 | 2023-12-15 |  |
 | [Apricity](https://open.spotify.com/track/0FoYbh9V3vpHDk5CSBvXWv) | [Ruud Houweling](https://open.spotify.com/artist/2IONeTGcpMPwB3v6CCyLQ8) | [Accidental Pictures](https://open.spotify.com/album/3fz3kqKLpDiVvJT3dzuTRK) | 2:45 | 2024-02-09 | 2025-03-13 |
+| [april](https://open.spotify.com/track/7xba9o02EQR0YMrBOZ4d10) | [Judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [april](https://open.spotify.com/album/6qJIriPhREpx7cSdgGAtFL) | 2:21 | 2025-09-17 |  |
 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 | 2024-04-25 |  |
 | [Autumn Love](https://open.spotify.com/track/236HZ8DhG7k0cXgem99oPP) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Autumn Love](https://open.spotify.com/album/2aENqkLbaJgieNQX7fqDdl) | 3:18 | 2023-12-14 |  |
 | [Autumn Love](https://open.spotify.com/track/6iBI0LmXBzcexTweRPjkPP) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Autumn Love](https://open.spotify.com/album/2NTUSfIlrjzhVvEoYb9BLK) | 3:18 | 2024-02-15 | 2024-04-19 |
@@ -146,6 +147,7 @@
 | [Love for Love](https://open.spotify.com/track/20MgAM82oZsimk1Ra3ZtUQ) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [Love for Love](https://open.spotify.com/album/7niKHHS5qhPITUoaykHyNN) | 2:14 | 2025-06-04 |  |
 | [Love Is Gone \- Acoustic](https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Love Is Gone \(Acoustic\)](https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J) | 2:56 | 2022-12-22 | 2024-02-16 |
 | [Love Is Pain](https://open.spotify.com/track/6Prd1Z03iwPmmPSPTzMBhh) | [Plume](https://open.spotify.com/artist/5mwcMzXAn2fReGFjXeGGsJ) | [Love Is Pain](https://open.spotify.com/album/14HZiGrDyGfdVvjZisEni1) | 3:42 | 2023-11-09 |  |
+| [Love The Way It Hurts](https://open.spotify.com/track/3u1UZ826Dbecx5Zl41tI4D) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Love The Way It Hurts](https://open.spotify.com/album/6OqAYoh045njumidj7tobF) | 4:20 | 2025-09-17 |  |
 | [Magnetic Fields](https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ) | [The Analogues Sideshow](https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO), [The Analogues](https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2) | [Magnetic Fields](https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed) | 2:33 | 2022-12-22 | 2025-03-13 |
 | [Make it a Memory](https://open.spotify.com/track/4wNyXz7XVh4CfjTgstJr7T) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX), [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Make it a Memory](https://open.spotify.com/album/5SxOgwsyojWkxjknZwFusM) | 3:29 | 2022-12-22 | 2024-07-19 |
 | [Mathematics](https://open.spotify.com/track/7qyDTnHLhucrlpblFvhjuP) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Leveller](https://open.spotify.com/album/6SfToUjflJFZiHB0gGNOZe) | 4:01 | 2025-01-25 |  |
@@ -202,7 +204,7 @@
 | [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 | 2024-02-14 |  |
 | [Stayed Up Late \- Sunrise Version](https://open.spotify.com/track/7utiiIHn9CNo9vVVBH0lss) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [Stayed Up Late \(Sunrise Version\)](https://open.spotify.com/album/1aixYOsjkfhVEIHUIbK2Zk) | 3:26 | 2023-03-16 | 2025-09-04 |
 | [Stone](https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Sebastian Kole](https://open.spotify.com/artist/2Ve76xf8WEVRRfanpQHgLs) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:48 | 2022-12-22 | 2024-05-10 |
-| [Straight Driving](https://open.spotify.com/track/3v5TZOPO6er2CwiMgkwdvJ) | [Joseph & Maia](https://open.spotify.com/artist/2dXGyySsUY7yYzCfMf6OSZ) | [Straight Driving](https://open.spotify.com/album/0XYqlktCr6PNXXH2fFDZot) | 3:20 | 2023-06-01 |  |
+| [Straight Driving](https://open.spotify.com/track/3v5TZOPO6er2CwiMgkwdvJ) | [Joseph & Maia](https://open.spotify.com/artist/2dXGyySsUY7yYzCfMf6OSZ) | [Straight Driving](https://open.spotify.com/album/0XYqlktCr6PNXXH2fFDZot) | 3:20 | 2023-06-01 | 2025-09-18 |
 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2022-12-22 | 2024-02-15 |
 | [Strange Rooms](https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ) | [The Joy of Coincidences](https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6) | 3:20 | 2025-03-28 |  |
 | [stuck \- revisited](https://open.spotify.com/track/3t1bStEBG5YeLOLisxemoN) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom \(revisited\)](https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN) | 4:13 | 2023-11-09 |  |
@@ -236,7 +238,7 @@
 | [they only talk about the weather](https://open.spotify.com/track/7KgQS17rDK7gjWtOgNL2V1) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [they only talk about the weather](https://open.spotify.com/album/6fAwhVuJzrG19uLkfWopkR) | 2:35 | 2022-12-22 | 2024-04-19 |
 | [this song should not exist](https://open.spotify.com/track/24pQ7W3aHv18U0i7qyce1M) | [Ruxley](https://open.spotify.com/artist/1STiTeuda0CtQf1DDh7F8P) | [this song should not exist](https://open.spotify.com/album/5zV1ICSYofEArHOXWX6Cv9) | 2:56 | 2023-05-25 | 2024-02-09 |
 | [Those Were The Times](https://open.spotify.com/track/2vQwvuPDgsxyJyzsg8bKNG) | [Inkt](https://open.spotify.com/artist/23QHt3jgvqWKAeJaNjp4dQ), [Aron Hannes](https://open.spotify.com/artist/3YWoe6haPoiQdq7GaQz2OR) | [Those Were The Times](https://open.spotify.com/album/0bku58FOu05QQ989yvKWDI) | 3:01 | 2023-07-13 | 2024-04-19 |
-| [Those Were The Times](https://open.spotify.com/track/4bmo3t5W9JSZMNYhmm5yhK) | [Inkt](https://open.spotify.com/artist/23QHt3jgvqWKAeJaNjp4dQ), [Aron Hannes](https://open.spotify.com/artist/3YWoe6haPoiQdq7GaQz2OR) | [Those Were The Times](https://open.spotify.com/album/69X4yVKaGRxvQToqwK0R9N) | 3:01 | 2023-06-01 |  |
+| [Those Were The Times](https://open.spotify.com/track/4bmo3t5W9JSZMNYhmm5yhK) | [Inkt](https://open.spotify.com/artist/23QHt3jgvqWKAeJaNjp4dQ), [Aron Hannes](https://open.spotify.com/artist/3YWoe6haPoiQdq7GaQz2OR) | [Those Were The Times](https://open.spotify.com/album/69X4yVKaGRxvQToqwK0R9N) | 3:01 | 2023-06-01 | 2025-09-18 |
 | [Throw Me a Line](https://open.spotify.com/track/51fMhyYj71hpLnhn3YOij6) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Throw Me a Line](https://open.spotify.com/album/6W6Koawu49kcqmsJHec9xe) | 5:15 | 2022-12-22 | 2024-04-19 |
 | [Throw Me a Line](https://open.spotify.com/track/6A9KO1xgzkx7hNNJwPSGr8) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Throw Me a Line](https://open.spotify.com/album/2jHV1P9ncsBcChh5p8sZc1) | 5:15 | 2024-04-18 | 2024-07-16 |
 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2022-12-22 | 2024-05-17 |

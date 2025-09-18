@@ -1,13 +1,125 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Hannah Frances",
-  "num_followers": 93801,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Lefty Parker",
+  "num_followers": 93814,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKf2MztkmgJq6RFaVMwBDhJrnNkw",
+  "snapshot_id": "AAAAAHEnEmgjjXDXEvK4QK9LS517QeBi",
   "tracks": [
+    {
+      "added_at": "2025-09-17 19:01:43",
+      "album": {
+        "name": "If You Know Me (demo)",
+        "url": "https://open.spotify.com/album/06M6z1DB5blsjhKh8oVBbE"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "duration_ms": 127540,
+      "name": "If You Know Me - demo",
+      "url": "https://open.spotify.com/track/1x0Q0nvWYbJCrmsPZNHIkb"
+    },
+    {
+      "added_at": "2025-09-17 19:01:43",
+      "album": {
+        "name": "Ark",
+        "url": "https://open.spotify.com/album/5fTWamVeREJOOPG8Cwz3Iw"
+      },
+      "artists": [
+        {
+          "name": "Lefty Parker",
+          "url": "https://open.spotify.com/artist/5NvSLQOTzXhKMV5TMdwxuk"
+        }
+      ],
+      "duration_ms": 109054,
+      "name": "Ark",
+      "url": "https://open.spotify.com/track/1AjmwSSwHSeN6difFmlhe4"
+    },
+    {
+      "added_at": "2025-09-17 19:01:43",
+      "album": {
+        "name": "i guess, i guess",
+        "url": "https://open.spotify.com/album/3orVP7BQ6C3MmQqb9wYkJg"
+      },
+      "artists": [
+        {
+          "name": "Nectarine Girl",
+          "url": "https://open.spotify.com/artist/4uEVWU1ZQu0r9m6XzbKHHX"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "i guess, i guess",
+      "url": "https://open.spotify.com/track/6lokyDfTasL1DMXTq6FPcR"
+    },
+    {
+      "added_at": "2025-09-17 19:01:43",
+      "album": {
+        "name": "No Trespassing!",
+        "url": "https://open.spotify.com/album/2ZhXI2jEWIR0qnQXoHI2SB"
+      },
+      "artists": [
+        {
+          "name": "His His",
+          "url": "https://open.spotify.com/artist/2TMWd2oE1MAzSt4V10lnVO"
+        }
+      ],
+      "duration_ms": 193021,
+      "name": "No Trespassing!",
+      "url": "https://open.spotify.com/track/3eH7t4FtYRKxj6BaxuzYuL"
+    },
+    {
+      "added_at": "2025-09-17 19:01:43",
+      "album": {
+        "name": "Dumb and Free",
+        "url": "https://open.spotify.com/album/428fNMSgYpKiG0CVRfzsVe"
+      },
+      "artists": [
+        {
+          "name": "Paul Spring",
+          "url": "https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Dumb and Free",
+      "url": "https://open.spotify.com/track/6gljAB0L7dM79wY0BbLWyd"
+    },
+    {
+      "added_at": "2025-09-10 14:27:51",
+      "album": {
+        "name": "To The Sandals",
+        "url": "https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 248932,
+      "name": "To The Sandals",
+      "url": "https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE"
+    },
+    {
+      "added_at": "2025-09-17 19:01:43",
+      "album": {
+        "name": "Fertilizer",
+        "url": "https://open.spotify.com/album/0KEl5gHiaZ0SRtWkyVCQa4"
+      },
+      "artists": [
+        {
+          "name": "animat",
+          "url": "https://open.spotify.com/artist/5LcZJ5jDHXAKIrnz4CuVhb"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Fertilizer",
+      "url": "https://open.spotify.com/track/0vRAqzxzUV9qVyuDb0wxdO"
+    },
     {
       "added_at": "2025-09-03 16:37:20",
       "album": {
@@ -41,20 +153,68 @@
       "url": "https://open.spotify.com/track/4KgMu6Sf2CmxA25NqijvKj"
     },
     {
-      "added_at": "2025-09-10 14:27:51",
+      "added_at": "2025-09-17 19:01:43",
       "album": {
-        "name": "To The Sandals",
-        "url": "https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw"
+        "name": "Unheaven",
+        "url": "https://open.spotify.com/album/0HCxzlMUERFyfQ6PTDkNq6"
       },
       "artists": [
         {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+          "name": "Georgia Mulligan",
+          "url": "https://open.spotify.com/artist/4tXhvq7trzNGSORS5pAB9o"
         }
       ],
-      "duration_ms": 248932,
-      "name": "To The Sandals",
-      "url": "https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE"
+      "duration_ms": 250176,
+      "name": "The Floor of the Enmore",
+      "url": "https://open.spotify.com/track/40pztFsIXnENqAUKeyxo0Z"
+    },
+    {
+      "added_at": "2025-09-17 19:01:43",
+      "album": {
+        "name": "Wash you clean",
+        "url": "https://open.spotify.com/album/3lXQCVFMbiNgJuOu8n6xlT"
+      },
+      "artists": [
+        {
+          "name": "Lucia",
+          "url": "https://open.spotify.com/artist/35DeBpQFb1aenGL7YfiGmL"
+        }
+      ],
+      "duration_ms": 177679,
+      "name": "Wash you clean",
+      "url": "https://open.spotify.com/track/0QWL0vlLGJ4aI2HZHyqBJd"
+    },
+    {
+      "added_at": "2025-09-17 19:01:43",
+      "album": {
+        "name": "Tall Enough",
+        "url": "https://open.spotify.com/album/7sElX6FYXA9rqme8dDloRh"
+      },
+      "artists": [
+        {
+          "name": "Laney Tripp",
+          "url": "https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8"
+        }
+      ],
+      "duration_ms": 125169,
+      "name": "Tall Enough",
+      "url": "https://open.spotify.com/track/3bRFU0b7iHLeH8o5okTQhx"
+    },
+    {
+      "added_at": "2025-09-17 19:01:43",
+      "album": {
+        "name": "floating",
+        "url": "https://open.spotify.com/album/5fOuBR8qqCbZrLf6l6NUi5"
+      },
+      "artists": [
+        {
+          "name": "Torri Weidinger",
+          "url": "https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM"
+        }
+      ],
+      "duration_ms": 175717,
+      "name": "floating",
+      "url": "https://open.spotify.com/track/7bmD2YYQdTCkNHwxi7YmLJ"
     },
     {
       "added_at": "2025-09-10 18:45:32",
@@ -89,6 +249,42 @@
       "url": "https://open.spotify.com/track/5w4EOmbV5giFngDYUOxYp3"
     },
     {
+      "added_at": "2025-09-17 19:01:43",
+      "album": {
+        "name": "She Holds Me",
+        "url": "https://open.spotify.com/album/2Ow1ZYIWU2erbGCiSlGdCF"
+      },
+      "artists": [
+        {
+          "name": "Dring",
+          "url": "https://open.spotify.com/artist/1CXXrFuiErqDFLhQPPPYKt"
+        }
+      ],
+      "duration_ms": 184314,
+      "name": "She Holds Me",
+      "url": "https://open.spotify.com/track/5R2lEJq8s91Xm1k7mbKGoQ"
+    },
+    {
+      "added_at": "2025-09-17 19:01:43",
+      "album": {
+        "name": "Let's Not Talk About It",
+        "url": "https://open.spotify.com/album/0pN6nZJRThT8toSyhpGEQw"
+      },
+      "artists": [
+        {
+          "name": "Oliver Beard",
+          "url": "https://open.spotify.com/artist/2TMEMfI1XEJxyrepBXoXRX"
+        },
+        {
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs"
+        }
+      ],
+      "duration_ms": 293890,
+      "name": "Let's Not Talk About It",
+      "url": "https://open.spotify.com/track/2j0jFiNFU9LgQAQQLlUAjh"
+    },
+    {
       "added_at": "2025-09-10 14:27:51",
       "album": {
         "name": "Postcard",
@@ -119,6 +315,22 @@
       "duration_ms": 334026,
       "name": "Surviving You",
       "url": "https://open.spotify.com/track/4qRsuo9unSbXwl2dUfhsib"
+    },
+    {
+      "added_at": "2025-09-17 19:01:43",
+      "album": {
+        "name": "Do you believe in magic?",
+        "url": "https://open.spotify.com/album/0Y4V4inBQMudeeTrWVbq0n"
+      },
+      "artists": [
+        {
+          "name": "August James",
+          "url": "https://open.spotify.com/artist/0rDjSI5RVCPaKNcd9tUdBH"
+        }
+      ],
+      "duration_ms": 184917,
+      "name": "Do you believe in magic?",
+      "url": "https://open.spotify.com/track/1MZwu37a8xPyn4gFcJYm42"
     },
     {
       "added_at": "2025-09-10 14:27:51",

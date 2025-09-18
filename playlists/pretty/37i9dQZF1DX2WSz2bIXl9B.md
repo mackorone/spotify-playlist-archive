@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WSz2bIXl9B.md) - [plain]
 
 > Pódcasts que necesitas mantener en tu RADAR: ConPdePodcast, La Crónica Oscura, Las Auténticas señoras de la  calle Lista, Tu amiga psicóloga y Sobre las palabras pódcast<br/><br/>En portada, Las Auténticas señoras de la  calle Lista
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,467 likes - 35 songs - 1 day 16 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,468 likes - 35 songs - 1 day 16 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

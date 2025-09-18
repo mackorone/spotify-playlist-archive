@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-966 songs - 2 day 8 hr 39 min
+968 songs - 2 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Balladeering](https://open.spotify.com/track/6vrXCt6qfdKPX6ooAu6LVz) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Balladeering](https://open.spotify.com/album/28TQpx5WAwvwPDOXl1Lx8E) | 2:04 | 2022-04-11 | 2023-02-24 |
 | [Banks of Noon](https://open.spotify.com/track/2HriYFonV6QkhctkB8DMxY) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Banks of Noon](https://open.spotify.com/album/7EOxOqItUbFeCrlC4xxgfR) | 3:35 | 2022-12-08 | 2025-03-11 |
 | [Barney's](https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 3:03 | 2022-11-24 |  |
-| [Beams of Light](https://open.spotify.com/track/53Jjj0NJsxD8WUw5AWURHy) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Beams of Light](https://open.spotify.com/album/3MF75NQAjQcZ79o6qmzg3A) | 3:13 | 2025-05-19 |  |
+| [Beams of Light](https://open.spotify.com/track/53Jjj0NJsxD8WUw5AWURHy) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Beams of Light](https://open.spotify.com/album/3MF75NQAjQcZ79o6qmzg3A) | 3:13 | 2025-05-19 | 2025-09-18 |
 | [Beatrice](https://open.spotify.com/track/3fZQ7I7lDN2DZQJHuJ70Ly) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Beatrice](https://open.spotify.com/album/4g1qHBpSJiWwjhLyX27ypB) | 3:35 | 2022-12-08 |  |
 | [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 | 2023-02-02 | 2023-05-26 |
 | [Bella's Smile](https://open.spotify.com/track/2YDm0hVUj1JGWqyRK6ERpP) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Baldwin's Tune](https://open.spotify.com/album/7BkeW5r0rPvAuIgnCLQD7F) | 3:11 | 2022-05-02 | 2022-12-02 |
@@ -391,7 +391,7 @@
 | [In a quiet voice](https://open.spotify.com/track/0gEwI6dLfDSdb5uykp86Xx) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [In a quiet voice](https://open.spotify.com/album/3y21l63OCbOjOXR4st1swK) | 2:44 | 2023-04-13 |  |
 | [In a Sentimental Mood](https://open.spotify.com/track/7JNNtslGExM27L7sCMzQiS) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [In a Sentimental Mood](https://open.spotify.com/album/5rOOiUweJ8OZ7eDqlRHURS) | 4:34 | 2022-04-11 | 2024-09-04 |
 | [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 | 2022-04-11 | 2025-03-11 |
-| [In Bloom](https://open.spotify.com/track/57SCq7ZXSwvDkeScWWg5MG) | [Eight Bar Band](https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa) | [In Bloom](https://open.spotify.com/album/1SYdoLn1A38v85CdEMWnde) | 3:19 | 2025-03-03 |  |
+| [In Bloom](https://open.spotify.com/track/57SCq7ZXSwvDkeScWWg5MG) | [Eight Bar Band](https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa) | [In Bloom](https://open.spotify.com/album/1SYdoLn1A38v85CdEMWnde) | 3:19 | 2025-03-03 | 2025-09-18 |
 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 | 2022-05-31 | 2024-06-25 |
 | [In Every Way](https://open.spotify.com/track/3V0xjqjhlrrOdT97yLSc6A) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [In Every Way](https://open.spotify.com/album/6D39gRfzo5FkMHvROmpAze) | 3:02 | 2024-09-03 | 2025-07-24 |
 | [In Love In Vain](https://open.spotify.com/track/51T3UIxjT7JFCa65LJF9u8) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [In Love In Vain](https://open.spotify.com/album/2Qhxe4KQqMY6vXjimJjLt2) | 2:58 | 2023-08-24 | 2025-05-20 |
@@ -846,6 +846,7 @@
 | [This Is New](https://open.spotify.com/track/6fYwCP9RSKhbOkLmGwX41N) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [This Is New](https://open.spotify.com/album/3Lt4cW6ig50NtOBGtsBO7V) | 3:15 | 2022-04-11 | 2023-03-03 |
 | [This isn’t home](https://open.spotify.com/track/7FJiPlX1unkR69o7SwYJa4) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This isn’t home](https://open.spotify.com/album/6cfSkl9nRlvkdVvOdTE3un) | 2:46 | 2023-03-02 | 2025-08-20 |
 | [This Lullaby](https://open.spotify.com/track/0XvOa8OJrBwVXG77AMkzN6) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [This Lullaby](https://open.spotify.com/album/0qqrXJ63GT7I1PKoVVpQY4) | 2:27 | 2024-02-23 | 2025-01-08 |
+| [This moment](https://open.spotify.com/track/76OxrjpPPwRadLLkq3oa5B) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [This moment](https://open.spotify.com/album/4llBMu5EhyK3mKXZwIoxnx) | 3:06 | 2025-09-17 |  |
 | [This Morning](https://open.spotify.com/track/2kpki79GZZ2BNg5dNcvRUO) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [This Morning](https://open.spotify.com/album/7mYQhnbJorRqvOtmOepChZ) | 3:21 | 2024-02-09 | 2024-10-22 |
 | [Thoughts Of You](https://open.spotify.com/track/1ca7uFXnN2yDZu9TgMy04N) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Thoughts Of You](https://open.spotify.com/album/1qwTOSaVVrRVW4vBjjzbza) | 2:56 | 2023-09-08 | 2025-07-24 |
 | [Through The Years](https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Through The Years](https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0) | 3:56 | 2022-06-22 | 2025-06-06 |
@@ -874,6 +875,7 @@
 | [Twilight's Last Waltz](https://open.spotify.com/track/5fc8RLe4x7bgwnqZOWZqVt) | [The Manhattan Trio](https://open.spotify.com/artist/4EIEvwQ689URBkInS6L1r4) | [Twilight's Last Waltz](https://open.spotify.com/album/227MPlCydtMDfLUGQJCRsQ) | 3:18 | 2024-02-02 |  |
 | [Under A Smiling Moon](https://open.spotify.com/track/0aqmVdsk85uvygzAxpJENH) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 4:23 | 2022-04-11 | 2023-05-12 |
 | [Under the same roof](https://open.spotify.com/track/3IzCbEBNJV97OpSdjd6DwQ) | [Krista Lake Band](https://open.spotify.com/artist/3WVZp2cbKWXh2PzmQEOx9D) | [Old Habits](https://open.spotify.com/album/1fco2lBvgsVH2R0xsklBaZ) | 3:58 | 2022-04-11 | 2025-07-02 |
+| [Undone by Repetition](https://open.spotify.com/track/6DX5V3BhG7lEqx0rDIvvCj) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Undone by Repetition](https://open.spotify.com/album/66nRzeNQ2ASWjjzDTuG1Fb) | 3:39 | 2025-09-17 |  |
 | [Unending](https://open.spotify.com/track/2XpPGcRWevUyye6j0pCNFQ) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Once Knowing](https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW) | 4:17 | 2023-02-23 | 2025-07-24 |
 | [Unforgettable Moments](https://open.spotify.com/track/2DSHoCUCRaj8RcybcfxFJl) | [Le Bourget](https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL) | [Unforgettable Moments](https://open.spotify.com/album/3fX7twz5mzDXlbTerEPXSv) | 3:42 | 2025-02-10 | 2025-06-06 |
 | [Unspoken](https://open.spotify.com/track/1DWcrgF8P6NlHf9rvN7lzm) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Unspoken](https://open.spotify.com/album/1JhUCymiRLse2OsgguYg6L) | 3:13 | 2024-03-08 | 2024-12-04 |

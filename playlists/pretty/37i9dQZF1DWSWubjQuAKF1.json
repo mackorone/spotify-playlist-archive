@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Marek Niedzielski, Ania Szlagowska",
-  "num_followers": 24059,
+  "num_followers": 24057,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-09-16 22:00:08",
       "album": {
+        "name": "Born To Be Blue",
+        "url": "https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 171753,
+      "name": "Born To Be Blue",
+      "url": "https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw"
+    },
+    {
+      "added_at": "2025-09-16 22:00:08",
+      "album": {
         "name": "Seans",
         "url": "https://open.spotify.com/album/2Fe1SexwAJoAjF5hVDcHir"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 187533,
       "name": "Nie p\u0142acz za mn\u0105 zbyt cz\u0119sto!",
       "url": "https://open.spotify.com/track/2f6UPHuNkMeYEXCCTT56XM"
-    },
-    {
-      "added_at": "2025-09-16 22:00:08",
-      "album": {
-        "name": "Born To Be Blue",
-        "url": "https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 171753,
-      "name": "Born To Be Blue",
-      "url": "https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw"
     },
     {
       "added_at": "2025-09-16 22:00:08",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-09-16 22:00:08",
       "album": {
-        "name": "Wiem co z nami b\u0119dzie",
-        "url": "https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V"
-      },
-      "artists": [
-        {
-          "name": "Leon Krze\u015bniak",
-          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
-        }
-      ],
-      "duration_ms": 200268,
-      "name": "Wiem co z nami b\u0119dzie",
-      "url": "https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj"
-    },
-    {
-      "added_at": "2025-09-16 22:00:08",
-      "album": {
         "name": "wolniej!",
         "url": "https://open.spotify.com/album/6sHUFDP92VgAXRF6hHkJqJ"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 148000,
       "name": "wolniej!",
       "url": "https://open.spotify.com/track/1DPShtZe2ocPeVX77GPC1f"
+    },
+    {
+      "added_at": "2025-09-16 22:00:08",
+      "album": {
+        "name": "Wiem co z nami b\u0119dzie",
+        "url": "https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V"
+      },
+      "artists": [
+        {
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+        }
+      ],
+      "duration_ms": 200268,
+      "name": "Wiem co z nami b\u0119dzie",
+      "url": "https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj"
     },
     {
       "added_at": "2025-09-16 22:00:08",
@@ -779,26 +779,6 @@
     {
       "added_at": "2025-09-16 22:00:08",
       "album": {
-        "name": "UV",
-        "url": "https://open.spotify.com/album/78O2rmEK9RDPfiaYMiNHrH"
-      },
-      "artists": [
-        {
-          "name": "Jan Marczewski",
-          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
-        },
-        {
-          "name": "wojtman.fm",
-          "url": "https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo"
-        }
-      ],
-      "duration_ms": 179656,
-      "name": "UV",
-      "url": "https://open.spotify.com/track/2I7ZODHpfb8waBrGE1ubOh"
-    },
-    {
-      "added_at": "2025-09-16 22:00:08",
-      "album": {
         "name": "Chc\u0119 si\u0119 z Tob\u0105 bawi\u0107",
         "url": "https://open.spotify.com/album/1mo1ZbH9DQDqB17ms82ahA"
       },
@@ -819,6 +799,26 @@
     {
       "added_at": "2025-09-16 22:00:08",
       "album": {
+        "name": "UV",
+        "url": "https://open.spotify.com/album/78O2rmEK9RDPfiaYMiNHrH"
+      },
+      "artists": [
+        {
+          "name": "Jan Marczewski",
+          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+        },
+        {
+          "name": "wojtman.fm",
+          "url": "https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo"
+        }
+      ],
+      "duration_ms": 179656,
+      "name": "UV",
+      "url": "https://open.spotify.com/track/2I7ZODHpfb8waBrGE1ubOh"
+    },
+    {
+      "added_at": "2025-09-16 22:00:08",
+      "album": {
         "name": "Rzeka",
         "url": "https://open.spotify.com/album/3D3J5dpQAHrawx2KujS2ao"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 232733,
       "name": "Rzeka",
       "url": "https://open.spotify.com/track/7EI8yqG3nA8MvfUKGkTIwC"
-    },
-    {
-      "added_at": "2025-09-16 22:00:08",
-      "album": {
-        "name": "jest zlaa",
-        "url": "https://open.spotify.com/album/02lSbMO1JWKo0qrW0lY6Vw"
-      },
-      "artists": [
-        {
-          "name": "stickxr",
-          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
-        }
-      ],
-      "duration_ms": 144798,
-      "name": "jest zlaa",
-      "url": "https://open.spotify.com/track/7Bzy7wBqZ1YTIX7IW2DcUi"
     },
     {
       "added_at": "2025-09-16 22:00:08",
@@ -867,6 +851,22 @@
     {
       "added_at": "2025-09-16 22:00:08",
       "album": {
+        "name": "jest zlaa",
+        "url": "https://open.spotify.com/album/02lSbMO1JWKo0qrW0lY6Vw"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "duration_ms": 144798,
+      "name": "jest zlaa",
+      "url": "https://open.spotify.com/track/7Bzy7wBqZ1YTIX7IW2DcUi"
+    },
+    {
+      "added_at": "2025-09-16 22:00:08",
+      "album": {
         "name": "Za d\u0142ugo",
         "url": "https://open.spotify.com/album/4WoYlU65QF1PxwD4Rykoin"
       },
@@ -879,26 +879,6 @@
       "duration_ms": 217070,
       "name": "Za d\u0142ugo",
       "url": "https://open.spotify.com/track/7At9ZJ0GOf2yuOp5HUOU4q"
-    },
-    {
-      "added_at": "2025-09-16 22:00:08",
-      "album": {
-        "name": "MAMY CZAS",
-        "url": "https://open.spotify.com/album/2UNYyT3D4fSiWT8H5er3uH"
-      },
-      "artists": [
-        {
-          "name": "NEWSKIN",
-          "url": "https://open.spotify.com/artist/5Mjmvf4xclnuWsy6MGuxW6"
-        },
-        {
-          "name": "ZORZA",
-          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "MAMY CZAS",
-      "url": "https://open.spotify.com/track/158kRJZfrHHbL7LXT6UlSh"
     },
     {
       "added_at": "2025-09-16 22:00:08",
@@ -935,22 +915,22 @@
     {
       "added_at": "2025-09-16 22:00:08",
       "album": {
-        "name": "Kompleks Boga",
-        "url": "https://open.spotify.com/album/0VztBtq2zkNSBwVrcUDktK"
+        "name": "MAMY CZAS",
+        "url": "https://open.spotify.com/album/2UNYyT3D4fSiWT8H5er3uH"
       },
       "artists": [
         {
-          "name": "Hania",
-          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
+          "name": "NEWSKIN",
+          "url": "https://open.spotify.com/artist/5Mjmvf4xclnuWsy6MGuxW6"
         },
         {
-          "name": "Szymon Pa\u0142yz",
-          "url": "https://open.spotify.com/artist/6hyNPMwg4ERl3hk2W4Kxdz"
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
         }
       ],
-      "duration_ms": 187041,
-      "name": "Kompleks Boga",
-      "url": "https://open.spotify.com/track/25xdnX6NokQxIylrlcrURn"
+      "duration_ms": 225680,
+      "name": "MAMY CZAS",
+      "url": "https://open.spotify.com/track/158kRJZfrHHbL7LXT6UlSh"
     },
     {
       "added_at": "2025-09-16 22:00:08",
@@ -971,6 +951,26 @@
     {
       "added_at": "2025-09-16 22:00:08",
       "album": {
+        "name": "Kompleks Boga",
+        "url": "https://open.spotify.com/album/0VztBtq2zkNSBwVrcUDktK"
+      },
+      "artists": [
+        {
+          "name": "Hania",
+          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
+        },
+        {
+          "name": "Szymon Pa\u0142yz",
+          "url": "https://open.spotify.com/artist/6hyNPMwg4ERl3hk2W4Kxdz"
+        }
+      ],
+      "duration_ms": 187041,
+      "name": "Kompleks Boga",
+      "url": "https://open.spotify.com/track/25xdnX6NokQxIylrlcrURn"
+    },
+    {
+      "added_at": "2025-09-16 22:00:08",
+      "album": {
         "name": "BOOM",
         "url": "https://open.spotify.com/album/43o9D8UKbPHhcpLDBDTsZJ"
       },
@@ -983,6 +983,26 @@
       "duration_ms": 164951,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/12l0xfTk73hF16FxASqEwt"
+    },
+    {
+      "added_at": "2025-09-16 22:00:08",
+      "album": {
+        "name": "Nerwy na bok",
+        "url": "https://open.spotify.com/album/5rzD0h7tqcisv70yoZ2Tb7"
+      },
+      "artists": [
+        {
+          "name": "Kuba D\u0105browski",
+          "url": "https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP"
+        },
+        {
+          "name": "Bubito",
+          "url": "https://open.spotify.com/artist/5tXbAvOKJtpBUoZxXHj6hz"
+        }
+      ],
+      "duration_ms": 146313,
+      "name": "Nerwy na bok",
+      "url": "https://open.spotify.com/track/7ww82v6kviSjJC0h0WJxDS"
     },
     {
       "added_at": "2025-09-16 22:00:08",
@@ -1019,26 +1039,6 @@
       "duration_ms": 186461,
       "name": "\u010cyrvone Nebo",
       "url": "https://open.spotify.com/track/3cGQ3b4enpPUGJsPLvcN7v"
-    },
-    {
-      "added_at": "2025-09-16 22:00:08",
-      "album": {
-        "name": "Nerwy na bok",
-        "url": "https://open.spotify.com/album/5rzD0h7tqcisv70yoZ2Tb7"
-      },
-      "artists": [
-        {
-          "name": "Kuba D\u0105browski",
-          "url": "https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP"
-        },
-        {
-          "name": "Bubito",
-          "url": "https://open.spotify.com/artist/5tXbAvOKJtpBUoZxXHj6hz"
-        }
-      ],
-      "duration_ms": 146313,
-      "name": "Nerwy na bok",
-      "url": "https://open.spotify.com/track/7ww82v6kviSjJC0h0WJxDS"
     },
     {
       "added_at": "2025-09-16 22:00:08",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-09-16 22:00:08",
       "album": {
-        "name": "miejsce dla 2",
-        "url": "https://open.spotify.com/album/7DuNGKkIAJLNx6tf6gxCJB"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 172455,
-      "name": "miejsce dla 2",
-      "url": "https://open.spotify.com/track/5bOKRpuTYZDzXuTW2Vm8Yt"
-    },
-    {
-      "added_at": "2025-09-16 22:00:08",
-      "album": {
         "name": "\u015blad",
         "url": "https://open.spotify.com/album/69kc4sFg5UJX8iRMxOrw4x"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 197500,
       "name": "\u015blad",
       "url": "https://open.spotify.com/track/4HiXJSftCBFKIhXY5UFQUN"
+    },
+    {
+      "added_at": "2025-09-16 22:00:08",
+      "album": {
+        "name": "miejsce dla 2",
+        "url": "https://open.spotify.com/album/7DuNGKkIAJLNx6tf6gxCJB"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 172455,
+      "name": "miejsce dla 2",
+      "url": "https://open.spotify.com/track/5bOKRpuTYZDzXuTW2Vm8Yt"
     }
   ],
   "unique_name": "up next",

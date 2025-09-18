@@ -10026,7 +10026,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 142600,
       "name": "cotton candy",
       "url": "https://open.spotify.com/track/3W6IeQYR29rUpVQ2xE2FO5"
@@ -14812,7 +14812,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 169142,
       "name": "Falochrony",
       "url": "https://open.spotify.com/track/6rCz0E0G6El6irdft7Zjgp"
@@ -22818,7 +22818,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 192122,
       "name": "Kiedy umr\u0119 kochanie (H. Po\u015bwiatowska)",
       "url": "https://open.spotify.com/track/2PB5GjIi4EC3XYsanvpysO"
@@ -29368,7 +29368,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-17",
+      "date_removed": null,
       "duration_ms": 179571,
       "name": "Multisport",
       "url": "https://open.spotify.com/track/1ZIscVoYHftgA5STle5cPo"
@@ -35962,6 +35962,24 @@
       "duration_ms": 154964,
       "name": "PARASAIL",
       "url": "https://open.spotify.com/track/2Q0aElTZQtEUsoiaQfizu6"
+    },
+    {
+      "album": {
+        "name": "Parasol",
+        "url": "https://open.spotify.com/album/05GtyHpIjez9rGE6iQ50t8"
+      },
+      "artists": [
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Parasol",
+      "url": "https://open.spotify.com/track/5Ou4WXzPb7TFu5AfC18J9a"
     },
     {
       "album": {
@@ -44650,7 +44668,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-09-17",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"

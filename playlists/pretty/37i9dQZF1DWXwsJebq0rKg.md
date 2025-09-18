@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 
 > Rolitas para que se te prenda el corazón y después te tranquilices y no mueras en la corrida\. Por Emilio Antún.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,766 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,246 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

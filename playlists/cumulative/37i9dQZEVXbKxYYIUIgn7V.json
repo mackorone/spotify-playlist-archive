@@ -13953,6 +13953,28 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6tZ8Lr0POSPvr58qJAFwn7"
+      },
+      "artists": [
+        {
+          "name": "Born On Road",
+          "url": "https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z"
+        },
+        {
+          "name": "Brodie",
+          "url": "https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217411,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0dDO88EP1FcKMrj8N1hXWy"
+    },
+    {
+      "album": {
         "name": "FLY",
         "url": "https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX"
       },
@@ -15912,7 +15934,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 225084,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/4tVVmShMF2PYdLqcejrsy2"
@@ -17894,7 +17916,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 134454,
       "name": "Heul doch",
       "url": "https://open.spotify.com/track/0rMTjAKPEFHzGA9eFk9qpx"
@@ -23622,10 +23644,28 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 85750,
       "name": "like no other",
       "url": "https://open.spotify.com/track/2aV6PEr2FjepiySqlpJz32"
+    },
+    {
+      "album": {
+        "name": "like no other",
+        "url": "https://open.spotify.com/album/0tuNnXEuqBV5czh9riEVr6"
+      },
+      "artists": [
+        {
+          "name": "SICC",
+          "url": "https://open.spotify.com/artist/09FpUXXjyV26VlKCRNTZTK"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85761,
+      "name": "like no other",
+      "url": "https://open.spotify.com/track/3EZ2S7UKYTFLQynw4jSDBx"
     },
     {
       "album": {
@@ -27286,7 +27326,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 87816,
       "name": "Montagem Supersonic",
       "url": "https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk"
@@ -31800,6 +31840,24 @@
       "duration_ms": 178369,
       "name": "Purple Hat",
       "url": "https://open.spotify.com/track/6WiGRFQfx2qw49MA7OeDYK"
+    },
+    {
+      "album": {
+        "name": "Showtime",
+        "url": "https://open.spotify.com/album/3xxxrTrhNERexGHGYH7lMw"
+      },
+      "artists": [
+        {
+          "name": "J.R.A",
+          "url": "https://open.spotify.com/artist/6Npe8o2vquWKmyyMkuluAy"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123533,
+      "name": "Purpose",
+      "url": "https://open.spotify.com/track/3QuVemoQIQRRYxiJzaveJQ"
     },
     {
       "album": {
@@ -41194,7 +41252,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 111342,
       "name": "Valet",
       "url": "https://open.spotify.com/track/44DVF1XRGvekMLB0CTzyLF"

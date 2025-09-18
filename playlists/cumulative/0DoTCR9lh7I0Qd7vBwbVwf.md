@@ -2,7 +2,7 @@
 
 ### [FOCUS MUSIC 🎧☁️✨ music for deep focus, deep work, study concentration music](https://open.spotify.com/playlist/0DoTCR9lh7I0Qd7vBwbVwf)
 
-> full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
+> full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard <a href="https://whatsapp.com/channel/0029Vb77aIy0G0XoQL0UJX0W">Daily Study Tips here</a>
 
 445 songs - 14 hr 33 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,689 likes - 145 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,691 likes - 145 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 42 | [Guilty Pleasure](https://open.spotify.com/track/6OeglDMxrFvhmHxegrNLz2) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [¡Viva la Cobra!](https://open.spotify.com/album/5hJuFOrpXDXHtBmAHnAvua) | 3:22 |
 | 43 | [Under Control](https://open.spotify.com/track/6xWivl1glHgntvVucG0mqD) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Nights](https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4) | 4:06 |
 | 44 | [Gasoline](https://open.spotify.com/track/5AcTuYSmbmcZA8kiLE4bAR) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:08 |
-| 45 | [Afroki \(feat\. Bonnie McKee\)](https://open.spotify.com/track/39Ni4ManwZGs46fXh5qPfu) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Neon Future I](https://open.spotify.com/album/3KYFjFzw34AhmlxQC8r5W6) | 4:17 |
-| 46 | [California Gurls](https://open.spotify.com/track/0UIOvoQGJxydXVBGQo85qJ) | [Rio Branco](https://open.spotify.com/artist/3n4PootMSIDqpViSB9SA1D) | [Bossa Nova Covers \(Vol\. 4\)](https://open.spotify.com/album/2TQn2mu1GZNRDwAXLzkGB8) | 4:02 |
+| 45 | [California Gurls](https://open.spotify.com/track/0UIOvoQGJxydXVBGQo85qJ) | [Rio Branco](https://open.spotify.com/artist/3n4PootMSIDqpViSB9SA1D) | [Bossa Nova Covers \(Vol\. 4\)](https://open.spotify.com/album/2TQn2mu1GZNRDwAXLzkGB8) | 4:02 |
+| 46 | [Afroki \(feat\. Bonnie McKee\)](https://open.spotify.com/track/39Ni4ManwZGs46fXh5qPfu) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Neon Future I](https://open.spotify.com/album/3KYFjFzw34AhmlxQC8r5W6) | 4:17 |
 | 47 | [How I Roll](https://open.spotify.com/track/38casNXY2G39SZRUjALtcY) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:36 |
 | 48 | [Drown Me Out](https://open.spotify.com/track/4qSPm5ad3tx81UNQdy2ml7) | [Andy Black](https://open.spotify.com/artist/09NYzWfQlunWS3XBZFaDEC) | [The Shadow Side](https://open.spotify.com/album/4DwLXVB5zeO75k8HlTFhB6) | 2:51 |
 | 49 | [Seal It with a Kiss](https://open.spotify.com/track/1gilYs9AY8a75q275GTkiY) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:26 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 144 | [Let Me Live](https://open.spotify.com/track/2qjXFcLQ3sCFz0b225XVk9) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Hotel Rock Bottom](https://open.spotify.com/album/1eMHqaoJVquw5uorVOtCiu) | 3:36 |
 | 145 | [Make It Happen](https://open.spotify.com/track/1E1dsesLy4AYVTPtTyQEe8) | [Hybrid the Rapper](https://open.spotify.com/artist/5Ewzso9cYxwUpYYfDgcBo0), [Double](https://open.spotify.com/artist/4NOA8osMRoNN1FZ5vrR4y2) | [King of Collab](https://open.spotify.com/album/3ISMRSukyD4PM2t4HpBO1p) | 3:29 |
 
-Snapshot ID: `Ab8aKgAAAAAeRSJXNd8GQw2Y79J0kDXn`
+Snapshot ID: `Ab8fwAAAAADE0hbGXiYjLpwY0Pg2l80J`

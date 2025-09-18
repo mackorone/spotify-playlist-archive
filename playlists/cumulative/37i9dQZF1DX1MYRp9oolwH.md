@@ -2,7 +2,7 @@
 
 ### [Latest Romance Telugu](https://open.spotify.com/playlist/37i9dQZF1DX1MYRp9oolwH)
 
-> Bringing out the best of latest love tracks<br/>Cover : Andhra King Taluka
+> Bringing out the best of latest love tracks<br/>Cover : OG
 
 324 songs - 20 hr 55 min
 

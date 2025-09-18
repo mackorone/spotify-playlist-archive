@@ -4,7 +4,7 @@
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-89 songs - 6 hr 55 min
+90 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Bizzy Body](https://open.spotify.com/track/78dTPqstG8GigLVkHe5OM4) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0x7J2lQoSvwTedF3yy2dWL) | 4:49 | 2024-09-27 | 2025-08-27 |
 | [Blow My Mind](https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Blow My Mind](https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp) | 3:19 | 2025-08-26 |  |
 | [Buga](https://open.spotify.com/track/4kre5jC1AncY14Ra2gzmR0) | [Jesse King & The Queens In The Palace](https://open.spotify.com/artist/098qOt76s46NMCahJbGxZL) | [Buga](https://open.spotify.com/album/03m61gb4oqfDamdrmwvl13) | 6:50 | 2024-09-27 | 2025-08-27 |
+| [Collabo](https://open.spotify.com/track/0hp62UwmajmzAjXkMKznhD) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Double Trouble](https://open.spotify.com/album/27Jz5SHt1hamUx7fD9A6VC) | 3:43 | 2025-08-26 |  |
 | [Come Closer \(feat\. Drake\)](https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 3:31 | 2025-08-26 |  |
 | [Cool Temper](https://open.spotify.com/track/30AtTTXstHEVGpZVWrM8iM) | [J\. Martins](https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm) | [Get Serious](https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk) | 4:25 | 2024-09-27 |  |
 | [Corny](https://open.spotify.com/track/2LOlSWqi18gZeJb5aZ63dE) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema Compilation](https://open.spotify.com/album/5H6TAMOUgLUX1RfSOG1Al5) | 3:47 | 2025-08-26 |  |
@@ -84,7 +85,7 @@
 | [Sensima](https://open.spotify.com/track/2tsuHoDRjMTPkibpOkRuq4) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Sensima](https://open.spotify.com/album/4zpIOgKbJU2MdA0PK6hoeI) | 3:07 | 2025-08-26 |  |
 | [Soco \(feat\. Wizkid, Ceeza Milli, Spotless & Terri\)](https://open.spotify.com/track/1KpBtWSI9dlv0RjtzvF1BD) | [StarBoy](https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A), [Spotless](https://open.spotify.com/artist/7zd8O0lGS5sHftyvnhtWD1), [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Soco \(feat\. Wizkid, Ceeza Milli, Spotless & Terri\)](https://open.spotify.com/album/5pJAx43ygdhq0uKb0MABEo) | 4:15 | 2025-08-26 |  |
 | [Stalemate](https://open.spotify.com/track/039djQX5LwqXM93UxvktmR) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Stalemate \(Edit\)](https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd) | 12:54 | 2024-09-27 | 2025-08-27 |
-| [Superstar](https://open.spotify.com/track/1peZOCos8iTHCMSeEkzkDB) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Everybody Loves Ice Prince](https://open.spotify.com/album/35IQekv12aRfdoWjonmwWi) | 4:15 | 2024-09-27 |  |
+| [Superstar](https://open.spotify.com/track/1peZOCos8iTHCMSeEkzkDB) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Everybody Loves Ice Prince](https://open.spotify.com/album/35IQekv12aRfdoWjonmwWi) | 4:15 | 2024-09-27 | 2025-09-18 |
 | [Temptation](https://open.spotify.com/track/46FEsUbii0gqgLDFJwKaq2) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0x7J2lQoSvwTedF3yy2dWL) | 4:44 | 2024-09-27 | 2025-08-27 |
 | [Ten over Ten](https://open.spotify.com/track/6Y8oFiPAZ7L0kYzeRV8GSE) | [Naeto C](https://open.spotify.com/artist/5wJBdwIAg6nZoCaWbFhc1r) | [Super C Season](https://open.spotify.com/album/7w9ML6i2GudIqvF6OM3Tfg) | 3:38 | 2024-09-27 | 2025-08-27 |
 | [The Mood](https://open.spotify.com/track/6gHUiXF4BiJ9d7biTNmdKR) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 2:41 | 2025-08-26 |  |

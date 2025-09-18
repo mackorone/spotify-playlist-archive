@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1051102,
+  "num_followers": 1050990,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "End of the World",
-        "url": "https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 250483,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "Wishbone",
         "url": "https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 234228,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "End of the World",
+        "url": "https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 250483,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "clich\u00e9",
-        "url": "https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 176242,
-      "name": "clich\u00e9",
-      "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "A Minute, A Moment...",
         "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 164000,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "clich\u00e9",
+        "url": "https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 176242,
+      "name": "clich\u00e9",
+      "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -851,18 +851,22 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Headphones On",
-        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
+        "name": "All I Know (with Khalid)",
+        "url": "https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf"
       },
       "artists": [
         {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 240308,
-      "name": "Headphones On",
-      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
+      "duration_ms": 176046,
+      "name": "All I Know (with Khalid)",
+      "url": "https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -883,22 +887,18 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "All I Know (with Khalid)",
-        "url": "https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf"
+        "name": "Headphones On",
+        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
       },
       "artists": [
         {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
         }
       ],
-      "duration_ms": 176046,
-      "name": "All I Know (with Khalid)",
-      "url": "https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP"
+      "duration_ms": 240308,
+      "name": "Headphones On",
+      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Leave Me Alone",
-        "url": "https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 141738,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/1T38okUZknebljidMNSvfJ"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "I Said I Love You First",
         "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
       },
@@ -1123,22 +1107,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 165107,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "Suburbs",
         "url": "https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9"
       },
@@ -1151,6 +1119,22 @@
       "duration_ms": 184970,
       "name": "Suburbs",
       "url": "https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 165107,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1183,6 +1167,22 @@
       "duration_ms": 162772,
       "name": "SMOKE THE PAIN AWAY",
       "url": "https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 141738,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/1T38okUZknebljidMNSvfJ"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 152813,
+      "name": "Pookie",
+      "url": "https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/6QmqxSyG8tSOBIVXgOc875"
       },
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF"
+        "name": "Itty Bitty",
+        "url": "https://open.spotify.com/album/6cPPkaA7q9UF66afGI945c"
       },
       "artists": [
         {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
         }
       ],
-      "duration_ms": 152813,
-      "name": "Pookie",
-      "url": "https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF"
+      "duration_ms": 162000,
+      "name": "Itty Bitty",
+      "url": "https://open.spotify.com/track/6TxJ6ocfLpkKkY8152ttpM"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Itty Bitty",
-        "url": "https://open.spotify.com/album/6cPPkaA7q9UF66afGI945c"
+        "name": "Dinner",
+        "url": "https://open.spotify.com/album/4OWtgRW16OHXE98shkJjZA"
       },
       "artists": [
         {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+          "name": "Adam Klobi",
+          "url": "https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Itty Bitty",
-      "url": "https://open.spotify.com/track/6TxJ6ocfLpkKkY8152ttpM"
+      "duration_ms": 228000,
+      "name": "Dinner",
+      "url": "https://open.spotify.com/track/0fD2C4iOpAJet8DBaImPJy"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1423,38 +1439,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Why Is She Still Here?",
-        "url": "https://open.spotify.com/album/6CjxfwBk8BkGbYHUdvI1Uq"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 150255,
-      "name": "Why Is She Still Here?",
-      "url": "https://open.spotify.com/track/6ndIUORCz2Skax5iPl11P8"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
-        "name": "Dinner",
-        "url": "https://open.spotify.com/album/4OWtgRW16OHXE98shkJjZA"
-      },
-      "artists": [
-        {
-          "name": "Adam Klobi",
-          "url": "https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Dinner",
-      "url": "https://open.spotify.com/track/0fD2C4iOpAJet8DBaImPJy"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "Forever Is A Feeling",
         "url": "https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 203490,
       "name": "Bullseye (with Hozier)",
       "url": "https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "Why Is She Still Here?",
+        "url": "https://open.spotify.com/album/6CjxfwBk8BkGbYHUdvI1Uq"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 150255,
+      "name": "Why Is She Still Here?",
+      "url": "https://open.spotify.com/track/6ndIUORCz2Skax5iPl11P8"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "The Reaper",
-        "url": "https://open.spotify.com/album/56quvGXHpGk8v1UoAirScb"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "The Reaper",
-      "url": "https://open.spotify.com/track/1h1cFLBjXf4SgoCxbrcrLC"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "My First Heartbreak",
         "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
       },
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Running/Planning",
-        "url": "https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2"
+        "name": "The Reaper",
+        "url": "https://open.spotify.com/album/56quvGXHpGk8v1UoAirScb"
       },
       "artists": [
         {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
         }
       ],
-      "duration_ms": 266586,
-      "name": "Running/Planning",
-      "url": "https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl"
+      "duration_ms": 188133,
+      "name": "The Reaper",
+      "url": "https://open.spotify.com/track/1h1cFLBjXf4SgoCxbrcrLC"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1639,18 +1623,18 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Lovesick Lullaby",
-        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
+        "name": "Running/Planning",
+        "url": "https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
         }
       ],
-      "duration_ms": 175134,
-      "name": "Lovesick Lullaby",
-      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
+      "duration_ms": 266586,
+      "name": "Running/Planning",
+      "url": "https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "What Was That",
-        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
+        "name": "Lovesick Lullaby",
+        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 209286,
-      "name": "What Was That",
-      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
+      "duration_ms": 175134,
+      "name": "Lovesick Lullaby",
+      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1699,6 +1683,26 @@
       "duration_ms": 177273,
       "name": "Living My Best Life",
       "url": "https://open.spotify.com/track/4zSPRXPBgSRuNTrZT7Qdog"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "I Said I Love You First... And You Said It Back",
+        "url": "https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 132539,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb"
     }
   ],
   "unique_name": "Pop Right Now",

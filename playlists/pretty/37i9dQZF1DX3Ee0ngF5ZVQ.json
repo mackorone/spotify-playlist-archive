@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jake Worthington",
-  "num_followers": 406749,
+  "num_followers": 406741,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-09-12 04:00:12",
       "album": {
+        "name": "Worry is a Sickness",
+        "url": "https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "duration_ms": 254836,
+      "name": "Worry is a Sickness",
+      "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
+    },
+    {
+      "added_at": "2025-09-12 04:00:12",
+      "album": {
         "name": "Start at the End",
         "url": "https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1"
       },
@@ -799,26 +815,6 @@
       "duration_ms": 208573,
       "name": "Start at the End",
       "url": "https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI"
-    },
-    {
-      "added_at": "2025-09-12 04:00:12",
-      "album": {
-        "name": "I'm The One",
-        "url": "https://open.spotify.com/album/31cSwPDJHYe00GhuyOxfvu"
-      },
-      "artists": [
-        {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
-        },
-        {
-          "name": "Marty Stuart",
-          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
-        }
-      ],
-      "duration_ms": 175973,
-      "name": "I'm The One (feat. Marty Stuart)",
-      "url": "https://open.spotify.com/track/6tMUkiyHP1DMMcoqCS6fkY"
     },
     {
       "added_at": "2025-09-12 04:00:12",
@@ -839,18 +835,22 @@
     {
       "added_at": "2025-09-12 04:00:12",
       "album": {
-        "name": "Worry is a Sickness",
-        "url": "https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf"
+        "name": "I'm The One",
+        "url": "https://open.spotify.com/album/31cSwPDJHYe00GhuyOxfvu"
       },
       "artists": [
         {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+        },
+        {
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
         }
       ],
-      "duration_ms": 254836,
-      "name": "Worry is a Sickness",
-      "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
+      "duration_ms": 175973,
+      "name": "I'm The One (feat. Marty Stuart)",
+      "url": "https://open.spotify.com/track/6tMUkiyHP1DMMcoqCS6fkY"
     },
     {
       "added_at": "2025-09-12 04:00:12",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-09-12 04:00:12",
       "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU"
+    },
+    {
+      "added_at": "2025-09-12 04:00:12",
+      "album": {
         "name": "Two Hands",
         "url": "https://open.spotify.com/album/4pGOuhDwIrhIRAFffciZHf"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 206266,
       "name": "Two Hands",
       "url": "https://open.spotify.com/track/7vVC6koJ1ZxiegJItW77pA"
-    },
-    {
-      "added_at": "2025-09-12 04:00:12",
-      "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl"
-      },
-      "artists": [
-        {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU"
     },
     {
       "added_at": "2025-09-12 04:00:12",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-09-12 04:00:12",
       "album": {
-        "name": "The Droptines",
-        "url": "https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl"
-      },
-      "artists": [
-        {
-          "name": "The Droptines",
-          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
-        }
-      ],
-      "duration_ms": 182406,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8"
-    },
-    {
-      "added_at": "2025-09-12 04:00:12",
-      "album": {
         "name": "Getter Back Song",
         "url": "https://open.spotify.com/album/0wuyy8Le3WZagNuf0tSEaL"
       },
@@ -1351,22 +1335,18 @@
     {
       "added_at": "2025-09-12 04:00:12",
       "album": {
-        "name": "Never Again One More Time",
-        "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
+        "name": "The Droptines",
+        "url": "https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl"
       },
       "artists": [
         {
-          "name": "Walker Montgomery",
-          "url": "https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl"
-        },
-        {
-          "name": "Randy Rogers",
-          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
         }
       ],
-      "duration_ms": 178284,
-      "name": "Never Again One More Time",
-      "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
+      "duration_ms": 182406,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8"
     },
     {
       "added_at": "2025-09-12 04:00:12",
@@ -1395,6 +1375,26 @@
     {
       "added_at": "2025-09-12 04:00:12",
       "album": {
+        "name": "Never Again One More Time",
+        "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
+      },
+      "artists": [
+        {
+          "name": "Walker Montgomery",
+          "url": "https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl"
+        },
+        {
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
+        }
+      ],
+      "duration_ms": 178284,
+      "name": "Never Again One More Time",
+      "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
+    },
+    {
+      "added_at": "2025-09-12 04:00:12",
+      "album": {
         "name": "What Else Can She Do",
         "url": "https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 234360,
       "name": "jackson",
       "url": "https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4"
-    },
-    {
-      "added_at": "2025-09-12 04:00:12",
-      "album": {
-        "name": "Green in Colorado",
-        "url": "https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 196833,
-      "name": "Green in Colorado",
-      "url": "https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV"
     },
     {
       "added_at": "2025-09-12 04:00:12",
@@ -1443,22 +1427,6 @@
     {
       "added_at": "2025-09-12 04:00:12",
       "album": {
-        "name": "Horseback",
-        "url": "https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP"
-      },
-      "artists": [
-        {
-          "name": "Jenna Paulette",
-          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "Horseback",
-      "url": "https://open.spotify.com/track/5dnFskVANQJ007A7egWZqC"
-    },
-    {
-      "added_at": "2025-09-12 04:00:12",
-      "album": {
         "name": "The Greys Between",
         "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
       },
@@ -1475,6 +1443,38 @@
     {
       "added_at": "2025-09-12 04:00:12",
       "album": {
+        "name": "Green in Colorado",
+        "url": "https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 196833,
+      "name": "Green in Colorado",
+      "url": "https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV"
+    },
+    {
+      "added_at": "2025-09-12 04:00:12",
+      "album": {
+        "name": "Horseback",
+        "url": "https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "Horseback",
+      "url": "https://open.spotify.com/track/5dnFskVANQJ007A7egWZqC"
+    },
+    {
+      "added_at": "2025-09-12 04:00:12",
+      "album": {
         "name": "Live From Cheatham Street",
         "url": "https://open.spotify.com/album/5toLbY15yPPb1iVknycOc0"
       },
@@ -1487,34 +1487,6 @@
       "duration_ms": 254013,
       "name": "All Of My Exes (Still Make Me Breakfast) - Live From Cheatham Street",
       "url": "https://open.spotify.com/track/48pMU2RkrMLAzM4NfGIBUQ"
-    },
-    {
-      "added_at": "2025-09-12 04:00:12",
-      "album": {
-        "name": "Running out of Time",
-        "url": "https://open.spotify.com/album/43tiHHwZStRZcQJmm6ohVf"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        },
-        {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
-        },
-        {
-          "name": "Randy Rogers",
-          "url": "https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk"
-        },
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
-        }
-      ],
-      "duration_ms": 217899,
-      "name": "Running out of Time",
-      "url": "https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu"
     },
     {
       "added_at": "2025-09-12 04:00:12",
@@ -1547,6 +1519,34 @@
       "duration_ms": 257146,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"
+    },
+    {
+      "added_at": "2025-09-12 04:00:12",
+      "album": {
+        "name": "Running out of Time",
+        "url": "https://open.spotify.com/album/43tiHHwZStRZcQJmm6ohVf"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        },
+        {
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+        },
+        {
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk"
+        },
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "duration_ms": 217899,
+      "name": "Running out of Time",
+      "url": "https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu"
     },
     {
       "added_at": "2025-09-12 04:00:12",

@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 6665,
+  "num_followers": 6679,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAAA2r+ytoId4nTccASQ9fT3v",
+  "snapshot_id": "aMiogAAAAADEDPTM0DATga2SfsUDbx1Z",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakur (Deluxe)",
-        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "Dodge",
-      "url": "https://open.spotify.com/track/1fyhqGc41gcZ587gqBrvqA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/0HxAGJYlpgABL4M0m8EqCK"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 172105,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/0U41OjwzjJEiyTUgAMqn9Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shakur (Deluxe)",
+        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "Dodge",
+      "url": "https://open.spotify.com/track/1fyhqGc41gcZ587gqBrvqA"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakur (Deluxe)",
-        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/4h9P6fvFrgB0bmUdTB6hBm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pay Me",
         "url": "https://open.spotify.com/album/3lcoiVRQOzUF8S0yxkl7Ll"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 127529,
       "name": "Pay Me",
       "url": "https://open.spotify.com/track/5tKDta4aibt6Qk46AIWzLI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shakur (Deluxe)",
+        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/4h9P6fvFrgB0bmUdTB6hBm"
     },
     {
       "added_at": null,

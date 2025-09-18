@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: Elmiene
 
-826 songs - 2 day 1 hr 23 min
+827 songs - 2 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,6 +630,7 @@
 | [Show Me](https://open.spotify.com/track/4PT6iFaqj8tLcwqYjHI2MY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Show Me](https://open.spotify.com/album/2SDGe9MmzvbDwmQ6wvHFb8) | 3:37 | 2024-12-13 | 2025-02-22 |
 | [SIDE OF YOU](https://open.spotify.com/track/1cHBuQf2xa55GghN4eBp1H) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SIDE OF YOU](https://open.spotify.com/album/4bl5UiLHsOJc2OIaO9ugmG) | 2:45 | 2022-09-23 | 2024-02-24 |
 | [Sign And Signal](https://open.spotify.com/track/1QpPefY7AVM2Y67CGROj39) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 4:22 | 2023-03-03 | 2023-09-17 |
+| [Silver Lining](https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/4Mrqm0SLoMDGBbHNKAxJbz) | 3:20 | 2025-09-12 |  |
 | [Simple Man](https://open.spotify.com/track/7ENWxXOW7VsdcrI5AHgM0u) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Simple Man](https://open.spotify.com/album/5RleA8tUjdpG5vdwCP3j86) | 3:42 | 2024-02-09 | 2024-03-20 |
 | [Simplify](https://open.spotify.com/track/3FWMV8E8bugipOWGaehWW6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 3:51 | 2024-10-04 | 2025-05-24 |
 | [Simply Beautiful](https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Simply Beautiful](https://open.spotify.com/album/6kYamSMXOBgysbJwvjNBjc) | 4:18 | 2024-08-02 |  |
@@ -716,7 +717,7 @@
 | [The Light \(I Need You\)](https://open.spotify.com/track/02ONt6TdguBGgJzJTzwXCN) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [The Light \(I Need You\)](https://open.spotify.com/album/62V1Z7zodlcga1W3uZeVAl) | 3:37 | 2025-03-07 |  |
 | [The List \- Acoustic](https://open.spotify.com/track/1j5n8L8OiDeBsTQhNu1xHD) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [The List \(Acoustic\)](https://open.spotify.com/album/3eEAn7oPPZVL1Zzb1vYfQv) | 4:55 | 2023-02-24 | 2023-03-04 |
 | [The Love Is Gone](https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [The Love Is Gone](https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j) | 3:19 | 2024-09-13 |  |
-| [The Only Love We Know](https://open.spotify.com/track/16h8BuxfNtEqGI1C8WNo1z) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/32yofsJDutpcH21hGOLslE) | 4:34 | 2025-04-18 |  |
+| [The Only Love We Know](https://open.spotify.com/track/16h8BuxfNtEqGI1C8WNo1z) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/32yofsJDutpcH21hGOLslE) | 4:34 | 2025-04-18 | 2025-09-18 |
 | [The Reason](https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA) | 3:24 | 2022-08-26 | 2022-10-13 |
 | [The Reason](https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W) | 3:24 | 2022-08-26 | 2024-04-19 |
 | [The Same](https://open.spotify.com/track/21mNm6PDVvo5XwXzkZ36bF) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez) | [The Same](https://open.spotify.com/album/63dxyobOSlFhNwWulcC4Sv) | 3:48 | 2023-02-24 | 2023-04-01 |

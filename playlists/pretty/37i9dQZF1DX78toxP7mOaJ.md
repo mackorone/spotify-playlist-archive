@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 ### [Fresh Finds Rock](https://open.spotify.com/playlist/37i9dQZF1DX78toxP7mOaJ)
 
-> Fresh rock & alternative from independent artists every Wednesday\. Cover: 9Million
+> Fresh rock & alternative from independent artists every Wednesday\. Cover: Liquid Mike
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,059 likes - 147 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,079 likes - 147 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 146 | [Scorching Heat](https://open.spotify.com/track/0VNlrimGojC31fEX3c7T78) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Scorching Heat](https://open.spotify.com/album/0qhOi2eJxJ0yFthw12DVwT) | 3:14 |
 | 147 | [somber](https://open.spotify.com/track/73fEj9HZpqGQ33aaAuRkwj) | [lefty](https://open.spotify.com/artist/3vMJDeW97NNdl9PwxnG7tp) | [somber](https://open.spotify.com/album/3AVf2zZ4vDLkAvCy6lH0M4) | 3:29 |
 
-Snapshot ID: `AAAAAJa+EDSyluBVqTnAyKMNloIr7VbD`
+Snapshot ID: `AAAAALp7vOepGLxhxYguYXLurlaw0g5G`

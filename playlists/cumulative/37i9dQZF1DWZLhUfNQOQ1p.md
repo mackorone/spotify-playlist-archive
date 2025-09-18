@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano 🍹
 
-439 songs - 1 day 5 hr 36 min
+440 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [All Access](https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX) | [Ben Eggs](https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd) | [All Access](https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg) | 3:06 | 2021-08-05 | 2023-05-31 |
 | [All Dancing Under The Same Sky \- Edit](https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [All Dancing Under The Same Sky](https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR) | 3:04 | 2024-11-22 | 2025-03-14 |
 | [All Good](https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [All Good](https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G) | 3:16 | 2021-08-05 | 2023-05-31 |
-| [All In A Dream](https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 3:50 | 2023-05-30 |  |
+| [All In A Dream](https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 3:50 | 2023-05-30 | 2025-09-18 |
 | [All Over This Party](https://open.spotify.com/track/788ZCLe4Ko8nHPTcU2jvqS) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/3yHZaVlIRZocZ9G1fKtSCU) | 3:32 | 2024-05-19 | 2024-06-03 |
 | [All The Wild Things](https://open.spotify.com/track/6dts1ns58gm8pXv8EnJaYZ) | [Lylos](https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR) | [All The Wild Things](https://open.spotify.com/album/6cgWG2hgYYjxfx7MH5lYrc) | 3:30 | 2021-08-05 | 2023-05-31 |
 | [All This Love](https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [All This Love](https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb) | 3:53 | 2024-07-17 |  |
@@ -289,6 +289,7 @@
 | [One Last Time](https://open.spotify.com/track/70FH1owOXIQKDV50Xzlgff) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [Lucas Marx](https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV) | [One Last Time](https://open.spotify.com/album/1DsUHDsuR9GlDjbZe4QOIX) | 2:30 | 2021-08-05 | 2022-11-17 |
 | [One Last Time](https://open.spotify.com/track/7rGi9l1iyEE86wOaSnBRNE) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [Lucas Marx](https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV) | [One Last Time](https://open.spotify.com/album/4gXAEC2yDOCulIZd2myBCf) | 2:30 | 2021-08-05 | 2023-04-14 |
 | [One Thousand Waves](https://open.spotify.com/track/1mYROkVrR8J8Zg87GhcGIs) | [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [One Thousand Waves](https://open.spotify.com/album/1uyFMVG3dOwjx9nVBMJlqC) | 3:46 | 2024-07-18 | 2025-07-25 |
+| [orange juice](https://open.spotify.com/track/7GvpILTCIzaAwpvFteGOG0) | [Bæthtubs](https://open.spotify.com/artist/4jGqSzQirwi7cFUCzZoI1S) | [orange juice](https://open.spotify.com/album/1l5W5RuywK6dNxscYAEF79) | 3:06 | 2025-08-06 |  |
 | [Ordinary Pleasure](https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 3:03 | 2023-05-14 | 2024-04-19 |
 | [Ordinary Pleasure](https://open.spotify.com/track/6SlYQ2fAKWSfHEHNhH2kgM) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/0QIT60nFvB6oxdntBO8dmQ) | 3:03 | 2024-04-05 |  |
 | [Ostia](https://open.spotify.com/track/0qEH6uPXtjLZ9Ut132gHJ3) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [Ostia](https://open.spotify.com/album/08uHg0ZtyHm2o49InQY9Nn) | 5:02 | 2024-04-05 | 2024-05-06 |

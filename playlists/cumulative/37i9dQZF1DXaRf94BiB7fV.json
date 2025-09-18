@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Katya Krishnan",
+  "description": "The best new music by independent artists and labels in India. Cover - Tang Mizaaji",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -12701,6 +12701,24 @@
     },
     {
       "album": {
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/7IdpEHsPgcJRM5uDcmPchS"
+      },
+      "artists": [
+        {
+          "name": "Maya",
+          "url": "https://open.spotify.com/artist/1Z4cTmwQ9KWWkxymOBAdPO"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/38AW6cWX26RcAHOIluanA2"
+    },
+    {
+      "album": {
         "name": "I\u2019m On Your Side",
         "url": "https://open.spotify.com/album/0rW3Lx8FykpGzsp2d3AZkE"
       },
@@ -13908,6 +13926,32 @@
       "duration_ms": 335623,
       "name": "Joy",
       "url": "https://open.spotify.com/track/31I0BHIOs0lydljTMGUrnu"
+    },
+    {
+      "album": {
+        "name": "Juda Na Ho",
+        "url": "https://open.spotify.com/album/3Ive7BeU2f23dBzEOIYhE2"
+      },
+      "artists": [
+        {
+          "name": "Rahul Dutta",
+          "url": "https://open.spotify.com/artist/6YRU8HGdg1XIbc1tVUER1c"
+        },
+        {
+          "name": "Amaresh Dey",
+          "url": "https://open.spotify.com/artist/03f1nLLkqHu9FtIKPbo6CX"
+        },
+        {
+          "name": "Rounak Ghosh",
+          "url": "https://open.spotify.com/artist/1xVqCLyLfLEB0ZHpTSCtpx"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219559,
+      "name": "Juda Na Ho",
+      "url": "https://open.spotify.com/track/6qYdnZuPkRk1kuEG2Tx1Gt"
     },
     {
       "album": {
@@ -25870,7 +25914,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 310786,
       "name": "Saadho",
       "url": "https://open.spotify.com/track/2Q82mCCsgJPqNH8ceuCc9P"
@@ -26772,7 +26816,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 78620,
       "name": "Samay",
       "url": "https://open.spotify.com/track/3UnoRhbtklJ7fge8vmw2tY"
@@ -27222,7 +27266,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 144831,
       "name": "sawaal",
       "url": "https://open.spotify.com/track/2q4LMHFntMr5DWhRyIT4XP"
@@ -27924,6 +27968,24 @@
       "duration_ms": 305015,
       "name": "Sifar",
       "url": "https://open.spotify.com/track/6b7MNI0T9camWW2JrvlH7w"
+    },
+    {
+      "album": {
+        "name": "Sikkon Ka Nagar",
+        "url": "https://open.spotify.com/album/1HmhDhCpAOuobtyDha5uEZ"
+      },
+      "artists": [
+        {
+          "name": "Tang Mizaaji",
+          "url": "https://open.spotify.com/artist/3el3X0f5FDNfJuVJ1abqnz"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226909,
+      "name": "Sikkon Ka Nagar",
+      "url": "https://open.spotify.com/track/69AbYiI0rhlTq4mQ0KPylQ"
     },
     {
       "album": {
@@ -29766,6 +29828,28 @@
       "duration_ms": 234351,
       "name": "Tere Bina Jiya Jaye Na",
       "url": "https://open.spotify.com/track/3g0PtWvvLSVl5G5N5nRF6d"
+    },
+    {
+      "album": {
+        "name": "Tere hi liye",
+        "url": "https://open.spotify.com/album/0V3AARcsdXOerG1uSMxy66"
+      },
+      "artists": [
+        {
+          "name": "Semitone Music",
+          "url": "https://open.spotify.com/artist/6RK4CwoShv5wLFlcF5mCoh"
+        },
+        {
+          "name": "Ketan Verma",
+          "url": "https://open.spotify.com/artist/2YtH0jrj57zuQt2vzoNNUf"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230322,
+      "name": "Tere hi liye",
+      "url": "https://open.spotify.com/track/1MJYnbJDDRfxKKhrKrP3q9"
     },
     {
       "album": {
@@ -33954,7 +34038,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 160421,
       "name": "Yaddan Teriyaan",
       "url": "https://open.spotify.com/track/4427J5CpfdAN3eL6FsCKmG"
@@ -34132,7 +34216,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 245171,
       "name": "Ye Khwaab",
       "url": "https://open.spotify.com/track/4G0B8D4ffk6ycHA0gup8iy"
@@ -34288,6 +34372,28 @@
       "duration_ms": 230443,
       "name": "Yeh Duniya Jala Do",
       "url": "https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg"
+    },
+    {
+      "album": {
+        "name": "Yeh Raat Yeh Din Yeh Shaam",
+        "url": "https://open.spotify.com/album/6u0d1InTiD7NwpjoN5Q6kw"
+      },
+      "artists": [
+        {
+          "name": "Mohnish Gaikawad",
+          "url": "https://open.spotify.com/artist/5ZnbId45CYwKtirU6tMOQT"
+        },
+        {
+          "name": "Ramil Ganjoo",
+          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172666,
+      "name": "Yeh Raat Yeh Din Yeh Shaam",
+      "url": "https://open.spotify.com/track/3nJzDXktpG8OtXwgM6rydO"
     },
     {
       "album": {

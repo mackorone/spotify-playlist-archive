@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Tommy WÁ
 
-300 songs - 17 hr 34 min
+301 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [ukuthanda wena](https://open.spotify.com/track/6z4w4hAbwUm5nGz03AuiVd) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [ukuthanda wena](https://open.spotify.com/album/34EfitSWSsf04PbFF4qE39) | 4:25 | 2023-03-03 | 2023-12-02 |
 | [Umcebo](https://open.spotify.com/track/35iJjKLP8l5RgOX88ZXCZd) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umsebenzi](https://open.spotify.com/album/0Kq9gEpM9GBQzjxNjEhLvy) | 3:52 | 2020-12-17 | 2023-03-18 |
 | [Under The Strikes](https://open.spotify.com/track/767IdfyG4k7BIczG9HQ3dQ) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Under The Strikes](https://open.spotify.com/album/3X2bhCGH9RNj9gErZuY0Qn) | 4:30 | 2024-06-07 | 2024-07-06 |
+| [UNDER THE SUN](https://open.spotify.com/track/3TDzJLTVGhfoLp6iNrrFCo) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [LIMINAL SPACES](https://open.spotify.com/album/5VeEgnUM7NaFDK8RsJpFmS) | 2:44 | 2025-08-28 |  |
 | [Very Simple](https://open.spotify.com/track/2qIHmkIr2PfPM1RXs7OtZR) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL) | [Something New](https://open.spotify.com/album/5RvKtXooRfP5QEbil7kQ95) | 2:33 | 2022-09-30 | 2023-05-12 |
 | [Wa Jo](https://open.spotify.com/track/5iISbYxH4NKcTeARFaiXNW) | [Les Amazones d'Afrique](https://open.spotify.com/artist/6dHMq5KZ8ScqdzsCKGagdo), [Jemiriye](https://open.spotify.com/artist/5ImkBTlljsStrWEt38kbDD), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6) | [Musow Danse \(Bonus Edition\)](https://open.spotify.com/album/5iab4EDeaJQZsfwDtHz76Q) | 3:06 | 2024-11-22 | 2025-02-28 |
 | [WARNING](https://open.spotify.com/track/6HOOJ2LbasnZqxuqlaNSfk) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [WARNING](https://open.spotify.com/album/4HYPMdHDoTzGLCeB9nVxxZ) | 4:06 | 2023-04-27 | 2023-05-12 |
@@ -295,7 +296,7 @@
 | [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 | 2023-09-29 | 2024-02-09 |
 | [Who No Know Go Know](https://open.spotify.com/track/06X209H8fcc5K70BrKWf1K) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Who No Know Go Know](https://open.spotify.com/album/1leaqx7QytYKi4CSgWQBYH) | 3:17 | 2020-12-10 | 2022-11-04 |
 | [Wine Drunk](https://open.spotify.com/track/4FUOS0mP6SnAqBdnRWkbBN) | [Baraka](https://open.spotify.com/artist/7jhoWa68COaf3lbfwYgkz9) | [Voicemail](https://open.spotify.com/album/4cjkqBi12YLhvPs5vIwWmG) | 3:57 | 2023-06-30 | 2023-08-04 |
-| [Wish](https://open.spotify.com/track/5swbXHitmJ9RqBrgK8gEYC) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB) | [Wish](https://open.spotify.com/album/1A1zf55JDCIn6qEAb1g8N8) | 3:08 | 2025-08-28 |  |
+| [Wish](https://open.spotify.com/track/5swbXHitmJ9RqBrgK8gEYC) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB) | [Wish](https://open.spotify.com/album/1A1zf55JDCIn6qEAb1g8N8) | 3:08 | 2025-08-28 | 2025-09-18 |
 | [Wishbone \- Acoustic](https://open.spotify.com/track/2COv0NGUIsXwZxhxXtdQiH) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Wishbone \(Acoustic\)](https://open.spotify.com/album/2iWdlTgui1qOzJwUPisj8j) | 2:45 | 2025-08-28 |  |
 | [With You in Mind](https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [With You in Mind](https://open.spotify.com/album/5dDVYZyFfxvCZR9lUrQPsC) | 2:57 | 2025-05-23 |  |
 | [Woman King](https://open.spotify.com/track/1OBzOpEaPjWE7lnGsmF4vA) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [African Royalty](https://open.spotify.com/album/2bh6NRrRmiKVSST5ia5JpK) | 2:37 | 2023-12-01 | 2025-07-11 |

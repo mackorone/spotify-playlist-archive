@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 
 ### [FOCUS MUSIC 🎧☁️✨ music for deep focus, deep work, study concentration music](https://open.spotify.com/playlist/0DoTCR9lh7I0Qd7vBwbVwf)
 
-> full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
+> full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard <a href="https://whatsapp.com/channel/0029Vb77aIy0G0XoQL0UJX0W">Daily Study Tips here</a>
 
-[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,095 likes - 199 songs - 6 hr 19 min
+[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,096 likes - 199 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 | 198 | [Whispered Illumination](https://open.spotify.com/track/3lNJiwO7FsHKSflZUazO4t) | [Nahh Chill](https://open.spotify.com/artist/6A9Ea4TIDpSQOP5APKCiGT), [Sonic Strokes](https://open.spotify.com/artist/2R3cdAtELIEPmC0L6AGzSk), [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F) | [Harmonic Cascade](https://open.spotify.com/album/7ayUYTyyQ56icRxqtpFCgT) | 1:49 |
 | 199 | [Nebulous Harmonies](https://open.spotify.com/track/1ieG1XXGEDdNZIxeJAsQwq) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Enchanted Lullabies](https://open.spotify.com/album/0MEJQYWiFpgdLljquPRNxU) | 1:56 |
 
-Snapshot ID: `AAAAZb1mU8ecB2ogGHzCJpVpiZdi0Szu`
+Snapshot ID: `AAAAZq4MnZM6StSvzh14D9XeQNKKPEiJ`

@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1604609,
+  "num_followers": 1604744,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "Never Forget You",
-        "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 184349,
-      "name": "Never Forget You",
-      "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
-    },
-    {
-      "added_at": "2025-09-12 04:00:10",
-      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/4x87urW3BcnGOCcKeSvl6Y"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 245927,
       "name": "Children - Edit Mix",
       "url": "https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV"
+    },
+    {
+      "added_at": "2025-09-12 04:00:10",
+      "album": {
+        "name": "Never Forget You",
+        "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 184349,
+      "name": "Never Forget You",
+      "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/20PzigIv4lOEZIwjxmr2eF"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/4iQFexCu2T1PhIUS7Tg2fV"
-    },
-    {
-      "added_at": "2025-09-12 04:00:10",
-      "album": {
         "name": "Tears Don\u2019t Fall",
         "url": "https://open.spotify.com/album/57nuOUDbXKsN91R9ry5EAj"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 214323,
       "name": "Tears Don\u2019t Fall",
       "url": "https://open.spotify.com/track/3Hsbv9Z19MaIfXOu8S2v34"
+    },
+    {
+      "added_at": "2025-09-12 04:00:10",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/20PzigIv4lOEZIwjxmr2eF"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/4iQFexCu2T1PhIUS7Tg2fV"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "Night Time",
-        "url": "https://open.spotify.com/album/0PJGRfQTywmeibJjwL756e"
-      },
-      "artists": [
-        {
-          "name": "Roddy Lima",
-          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
-        }
-      ],
-      "duration_ms": 198764,
-      "name": "Night Time",
-      "url": "https://open.spotify.com/track/6lRMBIxee93wZmbUMgzqOD"
-    },
-    {
-      "added_at": "2025-09-12 04:00:10",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp"
       },
@@ -1487,8 +1471,24 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "The Good Part",
-        "url": "https://open.spotify.com/album/5b566QQbdtpFn1z7G6ONsL"
+        "name": "Night Time",
+        "url": "https://open.spotify.com/album/0PJGRfQTywmeibJjwL756e"
+      },
+      "artists": [
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        }
+      ],
+      "duration_ms": 198764,
+      "name": "Night Time",
+      "url": "https://open.spotify.com/track/6lRMBIxee93wZmbUMgzqOD"
+    },
+    {
+      "added_at": "2025-09-12 04:00:10",
+      "album": {
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
       },
       "artists": [
         {
@@ -1496,13 +1496,13 @@
           "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
         },
         {
-          "name": "LORYN",
-          "url": "https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ"
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
         }
       ],
-      "duration_ms": 191250,
-      "name": "The Good Part",
-      "url": "https://open.spotify.com/track/6kzR79ao3TNnigymnhJoGI"
+      "duration_ms": 202992,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -1591,8 +1591,8 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "No Matter What",
-        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
+        "name": "The Good Part",
+        "url": "https://open.spotify.com/album/5b566QQbdtpFn1z7G6ONsL"
       },
       "artists": [
         {
@@ -1600,13 +1600,13 @@
           "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
         },
         {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+          "name": "LORYN",
+          "url": "https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ"
         }
       ],
-      "duration_ms": 202992,
-      "name": "No Matter What",
-      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
+      "duration_ms": 191250,
+      "name": "The Good Part",
+      "url": "https://open.spotify.com/track/6kzR79ao3TNnigymnhJoGI"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "Sunrise To The Morning",
-        "url": "https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Sunrise To The Morning",
-      "url": "https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF"
-    },
-    {
-      "added_at": "2025-09-12 04:00:10",
-      "album": {
         "name": "Pull Out",
         "url": "https://open.spotify.com/album/1WyoGZphtDpMXxCD3iYuBJ"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 286928,
       "name": "Pull Out",
       "url": "https://open.spotify.com/track/3yLZ9iZRFJokbQypcIetjo"
+    },
+    {
+      "added_at": "2025-09-12 04:00:10",
+      "album": {
+        "name": "Sunrise To The Morning",
+        "url": "https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Sunrise To The Morning",
+      "url": "https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF"
     },
     {
       "added_at": "2025-09-12 04:00:10",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2025-09-12 04:00:10",
       "album": {
-        "name": "Each Other",
-        "url": "https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv"
-      },
-      "artists": [
-        {
-          "name": "Amy Wiles",
-          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
-        }
-      ],
-      "duration_ms": 184737,
-      "name": "Each Other",
-      "url": "https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA"
-    },
-    {
-      "added_at": "2025-09-12 04:00:10",
-      "album": {
         "name": "Audio Machina",
         "url": "https://open.spotify.com/album/2sB9V3w4Lvj2bZBKBybSyJ"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 192380,
       "name": "Audio Machina",
       "url": "https://open.spotify.com/track/1RmEvAkXPrasJZnTUKpzMJ"
+    },
+    {
+      "added_at": "2025-09-12 04:00:10",
+      "album": {
+        "name": "Each Other",
+        "url": "https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv"
+      },
+      "artists": [
+        {
+          "name": "Amy Wiles",
+          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
+        }
+      ],
+      "duration_ms": 184737,
+      "name": "Each Other",
+      "url": "https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA"
     },
     {
       "added_at": "2025-09-12 04:00:10",

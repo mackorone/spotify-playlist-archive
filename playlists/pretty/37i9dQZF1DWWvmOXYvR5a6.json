@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: Coogie)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221429,
+  "num_followers": 221442,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -1095,18 +1095,22 @@
     {
       "added_at": "2025-09-08 06:58:45",
       "album": {
-        "name": "FREAK LIKE ME",
-        "url": "https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG"
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
       },
       "artists": [
         {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "BE'O (\ube44\uc624)",
+          "url": "https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0"
         }
       ],
-      "duration_ms": 167706,
-      "name": "FREAK LIKE ME",
-      "url": "https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex"
+      "duration_ms": 199064,
+      "name": "Deep Sea (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
     },
     {
       "added_at": "2025-09-08 06:58:45",
@@ -1151,22 +1155,18 @@
     {
       "added_at": "2025-09-08 06:58:45",
       "album": {
-        "name": "Double-sidedness",
-        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
+        "name": "FREAK LIKE ME",
+        "url": "https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG"
       },
       "artists": [
         {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        },
-        {
-          "name": "BE'O (\ube44\uc624)",
-          "url": "https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0"
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
         }
       ],
-      "duration_ms": 199064,
-      "name": "Deep Sea (Feat. BE'O)",
-      "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
+      "duration_ms": 167706,
+      "name": "FREAK LIKE ME",
+      "url": "https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex"
     },
     {
       "added_at": "2025-09-08 06:58:45",
@@ -1475,30 +1475,6 @@
     {
       "added_at": "2025-09-08 06:58:45",
       "album": {
-        "name": "Beginning",
-        "url": "https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0"
-      },
-      "artists": [
-        {
-          "name": "Gist",
-          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 181173,
-      "name": "Black Swan (Feat. Leellamarz, DON MALIK)",
-      "url": "https://open.spotify.com/track/0rG31ihx1Jurb7hzc6ixc0"
-    },
-    {
-      "added_at": "2025-09-08 06:58:45",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -1519,6 +1495,30 @@
       "duration_ms": 234839,
       "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
+    },
+    {
+      "added_at": "2025-09-08 06:58:45",
+      "album": {
+        "name": "Beginning",
+        "url": "https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0"
+      },
+      "artists": [
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 181173,
+      "name": "Black Swan (Feat. Leellamarz, DON MALIK)",
+      "url": "https://open.spotify.com/track/0rG31ihx1Jurb7hzc6ixc0"
     },
     {
       "added_at": "2025-09-08 06:58:45",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2025-09-08 06:58:45",
       "album": {
-        "name": "Show Must Go On",
-        "url": "https://open.spotify.com/album/7ltbcQigXrafN9CNgi3AdC"
-      },
-      "artists": [
-        {
-          "name": "Bryan Chase",
-          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Show Must Go On",
-      "url": "https://open.spotify.com/track/0pBbICsYvshPFa69K8TpsC"
-    },
-    {
-      "added_at": "2025-09-08 06:58:45",
-      "album": {
         "name": "BLEND",
         "url": "https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 137546,
       "name": "Bad Idea (Feat. BANG YEDAM, pH-1)",
       "url": "https://open.spotify.com/track/5YkYwKTub2bBqnoUsK89Su"
+    },
+    {
+      "added_at": "2025-09-08 06:58:45",
+      "album": {
+        "name": "Show Must Go On",
+        "url": "https://open.spotify.com/album/7ltbcQigXrafN9CNgi3AdC"
+      },
+      "artists": [
+        {
+          "name": "Bryan Chase",
+          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Show Must Go On",
+      "url": "https://open.spotify.com/track/0pBbICsYvshPFa69K8TpsC"
     },
     {
       "added_at": "2025-09-08 06:58:45",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2025-09-08 06:58:45",
       "album": {
-        "name": "Daisy",
-        "url": "https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA"
-      },
-      "artists": [
-        {
-          "name": "MIRANI",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 189480,
-      "name": "Daisy (feat. pH-1)",
-      "url": "https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh"
-    },
-    {
-      "added_at": "2025-09-08 06:58:45",
-      "album": {
         "name": "Berry Loves My Mood",
         "url": "https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws"
       },
@@ -1915,6 +1895,26 @@
     {
       "added_at": "2025-09-08 06:58:45",
       "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 189480,
+      "name": "Daisy (feat. pH-1)",
+      "url": "https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh"
+    },
+    {
+      "added_at": "2025-09-08 06:58:45",
+      "album": {
         "name": "Double C",
         "url": "https://open.spotify.com/album/3WpxmeGPoUYDbttYTYj539"
       },
@@ -1927,46 +1927,6 @@
       "duration_ms": 142268,
       "name": "Double C",
       "url": "https://open.spotify.com/track/3QnzKLeBJmlsmuf4bYBbqO"
-    },
-    {
-      "added_at": "2025-09-08 06:58:45",
-      "album": {
-        "name": "Curtain Call",
-        "url": "https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx"
-      },
-      "artists": [
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        },
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        },
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        }
-      ],
-      "duration_ms": 192391,
-      "name": "Spring (Feat. ASH ISLAND, Skinny Brown)",
-      "url": "https://open.spotify.com/track/7iIL3EoQtWR7jknTbzbWai"
-    },
-    {
-      "added_at": "2025-09-08 06:58:45",
-      "album": {
-        "name": "E",
-        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
-      },
-      "artists": [
-        {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        }
-      ],
-      "duration_ms": 168175,
-      "name": "put my hoodie on",
-      "url": "https://open.spotify.com/track/5qgRXWcgFajtVeqt0t0ASo"
     },
     {
       "added_at": "2025-09-08 06:58:45",
@@ -1991,6 +1951,46 @@
       "duration_ms": 227560,
       "name": "NG (Feat. pH-1, Jay Park)",
       "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
+    },
+    {
+      "added_at": "2025-09-08 06:58:45",
+      "album": {
+        "name": "E",
+        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        }
+      ],
+      "duration_ms": 168175,
+      "name": "put my hoodie on",
+      "url": "https://open.spotify.com/track/5qgRXWcgFajtVeqt0t0ASo"
+    },
+    {
+      "added_at": "2025-09-08 06:58:45",
+      "album": {
+        "name": "Curtain Call",
+        "url": "https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        }
+      ],
+      "duration_ms": 192391,
+      "name": "Spring (Feat. ASH ISLAND, Skinny Brown)",
+      "url": "https://open.spotify.com/track/7iIL3EoQtWR7jknTbzbWai"
     }
   ],
   "unique_name": "TrenChill K-Hip Hop",

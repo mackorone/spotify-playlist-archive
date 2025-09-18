@@ -2,7 +2,7 @@
 
 ### [Pop Mix](https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7)
 
-> <a href=spotify:playlist:37i9dQZF1EIWhYPOzMDt48>Myles Smith</a>, <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a>, <a href=spotify:playlist:37i9dQZF1EIYYgu6d8cpAH>DJ Snake</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIW0gmEV4Vhyx>Chappell Roan</a>, <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a>, <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a> and more
 
 240 songs - 13 hr 59 min
 

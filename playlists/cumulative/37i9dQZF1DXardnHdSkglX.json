@@ -118,7 +118,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 293623,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/1rCiE8OQy3KbBBYjwVk5xN"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 170806,
       "name": "Angel, Won't You Call Me",
       "url": "https://open.spotify.com/track/1j8J1KmPM6qsFnyOBNomZw"
@@ -259,6 +259,24 @@
     },
     {
       "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/3sckjzwxVqQB4xKue9o7kg"
+      },
+      "artists": [
+        {
+          "name": "Lully Hill",
+          "url": "https://open.spotify.com/artist/4CnQQJwzE4Hv2WDDVwLc8M"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242375,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/0Gm1NYXKBLB4ifBNjOaAki"
+    },
+    {
+      "album": {
         "name": "Bad Habits",
         "url": "https://open.spotify.com/album/3etaCNOQTjjs4tFrm4A9zv"
       },
@@ -321,6 +339,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/3YVIdrr8jij0zXuPsbCQTc"
+      },
+      "artists": [
+        {
+          "name": "48th St. Collective",
+          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/4CRjazq3qlqmWA70eRYT04"
+    },
+    {
+      "album": {
         "name": "Best Day of my life",
         "url": "https://open.spotify.com/album/6EIR0cybgt68aCZtVDoMlr"
       },
@@ -354,6 +390,24 @@
       "duration_ms": 269779,
       "name": "Big Girls Don't Cry - Bossanova",
       "url": "https://open.spotify.com/track/3vetyGs0vfHn5BE8LpsElU"
+    },
+    {
+      "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/1HmkXHFDjG9iLu3VissPyY"
+      },
+      "artists": [
+        {
+          "name": "Sun Valley",
+          "url": "https://open.spotify.com/artist/0070pgQUavlZcVICMUDyvL"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/5QM7e0GyD5DMBOIvtLjaf2"
     },
     {
       "album": {
@@ -730,7 +784,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 160565,
       "name": "Collide",
       "url": "https://open.spotify.com/track/6eKyomPI3ztAYr1jh6BkwH"
@@ -802,7 +856,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 218528,
       "name": "Crazy in Love",
       "url": "https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud"
@@ -932,10 +986,32 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 180263,
       "name": "Desaparecido",
       "url": "https://open.spotify.com/track/4vy4VpbZA0nPd6seQfADhI"
+    },
+    {
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/4CzSuhPhuQ32fVxENdbY9a"
+      },
+      "artists": [
+        {
+          "name": "Bossa Nova Covers",
+          "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
+        },
+        {
+          "name": "Mats & My",
+          "url": "https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258354,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/0wqWfQbKus3jQQVgIy4OZn"
     },
     {
       "album": {
@@ -1098,7 +1174,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 280529,
       "name": "Don't Think Twice, It's Alright",
       "url": "https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn"
@@ -1181,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "A Breeze of Bossa",
+        "url": "https://open.spotify.com/album/0aRFybustgRXMeOp40A5No"
+      },
+      "artists": [
+        {
+          "name": "Laza Bossa",
+          "url": "https://open.spotify.com/artist/2We4jc3vE6qvySVXKR1XgF"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/0e92NnNG00sB3K9ZnvWJW2"
+    },
+    {
+      "album": {
         "name": "Fast Car",
         "url": "https://open.spotify.com/album/73TUtNvDPNjPYuStcDKgn4"
       },
@@ -1250,6 +1344,28 @@
       "duration_ms": 285203,
       "name": "Fix you",
       "url": "https://open.spotify.com/track/5100NokEXg7OfxeW7WUv8K"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/5lxqBoml0iNrkwNU9nRGnP"
+      },
+      "artists": [
+        {
+          "name": "Bossa Nova Covers",
+          "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
+        },
+        {
+          "name": "Mats & My",
+          "url": "https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216722,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/14sckurQpwnPZgnKHaPUT6"
     },
     {
       "album": {
@@ -1504,6 +1620,24 @@
       "duration_ms": 197887,
       "name": "Gods Plan - Bossa Nova remix",
       "url": "https://open.spotify.com/track/0ZFBzRwxmeqnh3IdaZS6rn"
+    },
+    {
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/5pXCT8sVCdtHQR6DwX1zWa"
+      },
+      "artists": [
+        {
+          "name": "Beluga's Trio",
+          "url": "https://open.spotify.com/artist/291jj37knNKRRyZYb8bpDu"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171250,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/1Q7Iy8PfiiTO5kObiEbhpF"
     },
     {
       "album": {
@@ -2072,7 +2206,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 229087,
       "name": "I'll Be There For You - Bossa Version",
       "url": "https://open.spotify.com/track/2pk358uq0DksYK9zRxODej"
@@ -2336,7 +2470,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 252200,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF"
@@ -4372,7 +4506,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 233500,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/5dYQ1sZtZweMRMaAhL4m5J"

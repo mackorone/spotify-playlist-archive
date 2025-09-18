@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain]
 
 > Wake up at your own pace with gentle piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,835 likes - 81 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,865 likes - 81 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Someday](https://open.spotify.com/track/2l7GZORseeFArK1n3GUjac) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Someday](https://open.spotify.com/album/5B6UCEHOHCDK3BIng2X4FY) | 2:20 |
 | 2 | [Dusk](https://open.spotify.com/track/7uJUjaDOHi6KH5QUExlhmM) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Dusk](https://open.spotify.com/album/3G90cn8e9mGthYVvxgvzft) | 2:12 |
 | 3 | [It's Gonna Be Alright](https://open.spotify.com/track/4oiKoBCIYz7sFlEOdrfsbY) | [Melanié Poret](https://open.spotify.com/artist/1qP02f6jA0m3AZ8devpRNu) | [It's Gonna Be Alright](https://open.spotify.com/album/5LsPM7x2VLXIwymnMEnaxq) | 2:09 |
-| 4 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 |
+| 4 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 |
 | 5 | [Misterbianco](https://open.spotify.com/track/4b0alD7TOFqZx5pQFrtL2G) | [Mireia Lluna](https://open.spotify.com/artist/1MYbOFZ4BcGF17pCUyznzS) | [Misterbianco](https://open.spotify.com/album/4WHPHLRQSauVqZo9FrldJW) | 1:45 |
 | 6 | [to be better again](https://open.spotify.com/track/7A5KsH4tO6rdv4RN3qNzUu) | [Lonesome Mind](https://open.spotify.com/artist/4eixU2X2ZzzxUNiCv4OZA5) | [to be better again](https://open.spotify.com/album/7uHoxKaEL3Gq28RYRCpIZs) | 2:30 |
 | 7 | [A Room With A View](https://open.spotify.com/track/3dW5gmYgCbNhjxsBGhGKLo) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [A Room With A View](https://open.spotify.com/album/3krOGtwCkbHMsx4O3C7aQ2) | 2:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2oKjjtvzosP13vQjShJAaA.md) - [plain]
 
 > wöchentliche handverlesene empfehlungen des archivs\. no industry bs
 
-[hiphoparchiv](https://open.spotify.com/user/31kxwkf6wpyxxr2lxdsndxes7d3q) - 1,143 likes - 17 songs - 45 min 0 sec
+[hiphoparchiv](https://open.spotify.com/user/31kxwkf6wpyxxr2lxdsndxes7d3q) - 1,146 likes - 17 songs - 45 min 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/2oKjjtvzosP13vQjShJAaA.md) - [plain]
 | 5 | [Get Buck](https://open.spotify.com/track/30EmISivuAc0T1yHKwmwwR) | [MP FRESHLY](https://open.spotify.com/artist/2bdEzd2yRdFpuoShrO9gri), [Ramzey](https://open.spotify.com/artist/4LiSTXiV4QgUW5ZmJMaAm5) | [Get Buck](https://open.spotify.com/album/36SDff9qUZzVviy6HPwJzx) | 3:25 |
 | 6 | [MAINSTAGE](https://open.spotify.com/track/7x2Kfzs9k4v6Wiwgl7nmqW) | [Tom Hengst](https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc), [Kwam.E](https://open.spotify.com/artist/4H9W4cb3X0qRpv87yKV7fV) | [Ein Leben reicht nicht EP](https://open.spotify.com/album/2ilMnKmOArZqjuD64eWrn8) | 2:48 |
 | 7 | [Inselbegabt](https://open.spotify.com/track/2vwQZmW37TPP9YpxDY6SBP) | [Mc Smook](https://open.spotify.com/artist/6wsjNADP7oFba0tf4UywrP) | [Inselbegabt](https://open.spotify.com/album/5jb0JKYMTgmpu9bE7Dq3cQ) | 3:07 |
-| 8 | [ZÄUNE](https://open.spotify.com/track/1iZ4CwKghZBjyBAlDKQaTQ) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/1yxVBnVWDIMtmOgg5mHK9J) | [ZÄUNE](https://open.spotify.com/album/2uRJOcEtQxaVDVEzX7cZRm) | 2:33 |
+| 8 | [ZÄUNE](https://open.spotify.com/track/1iZ4CwKghZBjyBAlDKQaTQ) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [ZÄUNE](https://open.spotify.com/album/2uRJOcEtQxaVDVEzX7cZRm) | 2:33 |
 | 9 | [act xvii: done sippin](https://open.spotify.com/track/6z0S8lrP5LA83OCUbTGshD) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Still Shinin](https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE) | 2:13 |
 | 10 | [Niemand kann uns](https://open.spotify.com/track/0a7W80tDN9ktYCZuvXRkgD) | [Audio88](https://open.spotify.com/artist/4YlBDllKcEFrLtby1mqaEK), [Yassin](https://open.spotify.com/artist/04D2woeEnCEpk3Y01gTHy3) | [Niemand kann uns](https://open.spotify.com/album/301uqkNVDqD9BLJ7gy3FaE) | 2:21 |
 | 11 | [Dinge die ich nicht mehr ändern kann](https://open.spotify.com/track/2psjmhTTTxUNBVoYwdgv9W) | [Bruno Kawelke](https://open.spotify.com/artist/2IUWBYmkakCuaUMvtmRjRt) | [Dinge die ich nicht mehr ändern kann](https://open.spotify.com/album/6wEOAnwp5ffxREXKZkZbSI) | 2:40 |

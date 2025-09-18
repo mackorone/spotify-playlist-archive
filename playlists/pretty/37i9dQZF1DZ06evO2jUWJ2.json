@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 308535,
+  "num_followers": 308607,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAAB5dk7IGIXN+BeEfil6w3M9",
+  "snapshot_id": "aMiogAAAAABcCyA/gsKG5zz5jaGa8VVw",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "So So Good (Live)",
+        "url": "https://open.spotify.com/album/4dZx4AIFmNQo4KCUyhY3ru"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 288766,
+      "name": "So So Good - Live",
+      "url": "https://open.spotify.com/track/3uNx9NvRHm60mDwOBFCkqg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Graves Into Gardens (Live)",
         "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
       },
@@ -447,22 +471,6 @@
       "duration_ms": 291330,
       "name": "My Testimony (Live)",
       "url": "https://open.spotify.com/track/3v8BMCftaY6CMe06VBSe0c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Har\u00e1s Otra Vez",
-        "url": "https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 499213,
-      "name": "Como en el Cielo (Here as in Heaven)",
-      "url": "https://open.spotify.com/track/7gR2K9p8v5BB0uGLCcVimW"
     },
     {
       "added_at": null,
@@ -507,26 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "So So Good (Live)",
-        "url": "https://open.spotify.com/album/4dZx4AIFmNQo4KCUyhY3ru"
+        "name": "Lo Har\u00e1s Otra Vez",
+        "url": "https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx"
       },
       "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
         {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 288766,
-      "name": "So So Good - Live",
-      "url": "https://open.spotify.com/track/3uNx9NvRHm60mDwOBFCkqg"
+      "duration_ms": 499213,
+      "name": "Como en el Cielo (Here as in Heaven)",
+      "url": "https://open.spotify.com/track/7gR2K9p8v5BB0uGLCcVimW"
     },
     {
       "added_at": null,

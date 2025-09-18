@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan\. Cover: TrySail
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,568 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,569 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [evolutions](https://open.spotify.com/track/0jicnavqa0YI92MPBZF3Fx) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj) | [evolutions](https://open.spotify.com/album/7lTIXKesCXs3IiPqftuDIP) | 4:14 |
 | 50 | [君の知らないこと](https://open.spotify.com/track/7JHArXM2Qnkq5JMOgI82tZ) | [Sizuk](https://open.spotify.com/artist/5UNvWvt9sIB2DmhHzpkwBM), [日下部栞奈\(CV:前田佳織里\)](https://open.spotify.com/artist/3lJjODjtCocsyjPKPb8PvJ) | [君の知らないこと](https://open.spotify.com/album/2iOxJ7CNRJqsduzRLsZN3v) | 3:56 |
 
-Snapshot ID: `AAAAABy2lHYm1IlBgFzq9bRdDfFdlWty`
+Snapshot ID: `AAAAABh4it5ejvapQBiDTnlcl4eN+LSK`

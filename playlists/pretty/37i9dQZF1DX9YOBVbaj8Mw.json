@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19266,
+  "num_followers": 19267,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Ta druga",
+        "url": "https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM"
+      },
+      "artists": [
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        }
+      ],
+      "duration_ms": 245223,
+      "name": "Madison",
+      "url": "https://open.spotify.com/track/2GT3IFON9fMLf0VFriNn9r"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Wolne duchy (feat. Daria Zawia\u0142ow, Mrozu & Kacperczyk)",
         "url": "https://open.spotify.com/album/3TNtZ6k211KiaNhldNtGie"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 185471,
       "name": "Wolne duchy",
       "url": "https://open.spotify.com/track/3eNAqHexMFGCvtzaMwkjEH"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Ta druga",
-        "url": "https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM"
-      },
-      "artists": [
-        {
-          "name": "Ka\u015bka Sochacka",
-          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
-        }
-      ],
-      "duration_ms": 245223,
-      "name": "Madison",
-      "url": "https://open.spotify.com/track/2GT3IFON9fMLf0VFriNn9r"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Siniaki i cekiny",
-        "url": "https://open.spotify.com/album/5jGt4gP9qMEc0SALUvTIUk"
-      },
-      "artists": [
-        {
-          "name": "Margaret",
-          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
-        }
-      ],
-      "duration_ms": 162484,
-      "name": "Mi\u0142ego lata",
-      "url": "https://open.spotify.com/track/2uN7ueBbQDExGTiJD5kchM"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "BIA\u0141E SZALE\u0143STWO",
         "url": "https://open.spotify.com/album/1lWO1MS6sDfQ8OcITjSCX9"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 154886,
       "name": "TYLE MAM",
       "url": "https://open.spotify.com/track/4vpLSrS5KA9okRlGfgukIv"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Siniaki i cekiny",
+        "url": "https://open.spotify.com/album/5jGt4gP9qMEc0SALUvTIUk"
+      },
+      "artists": [
+        {
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+        }
+      ],
+      "duration_ms": 162484,
+      "name": "Mi\u0142ego lata",
+      "url": "https://open.spotify.com/track/2uN7ueBbQDExGTiJD5kchM"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Pierwsza P\u0142yta",
-        "url": "https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ"
-      },
-      "artists": [
-        {
-          "name": "Ania Szlagowska",
-          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
-        }
-      ],
-      "duration_ms": 202069,
-      "name": "mleko i mood",
-      "url": "https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/3T2yJp99ZSAjzHZl4nxupe"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 283577,
       "name": "Warszawa Wschodnia",
       "url": "https://open.spotify.com/track/6p5BVXBjh0JYPU955lWJX6"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Pierwsza P\u0142yta",
+        "url": "https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "duration_ms": 202069,
+      "name": "mleko i mood",
+      "url": "https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Dziewczyna S\u0142o\u0144ca",
+        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
+      },
+      "artists": [
+        {
+          "name": "Anna Rusowicz",
+          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
+        }
+      ],
+      "duration_ms": 336253,
+      "name": "Tobie",
+      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Cudze rady psuj\u0105 mi \u017cycie",
         "url": "https://open.spotify.com/album/72gEeFKWNw8mqXxdiscM20"
       },
@@ -811,22 +827,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Dziewczyna S\u0142o\u0144ca",
-        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
-      },
-      "artists": [
-        {
-          "name": "Anna Rusowicz",
-          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
-        }
-      ],
-      "duration_ms": 336253,
-      "name": "Tobie",
-      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "WIECZORAMI CH\u0141OPCY WYCHODZ\u0104 NA ULICE",
         "url": "https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4"
       },
@@ -839,22 +839,6 @@
       "duration_ms": 321506,
       "name": "Ch\u0142opcy",
       "url": "https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Instant Rewards",
-        "url": "https://open.spotify.com/album/54n8MiXmukz3tjTs9294Bm"
-      },
-      "artists": [
-        {
-          "name": "Tides From Nebula",
-          "url": "https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf"
-        }
-      ],
-      "duration_ms": 358666,
-      "name": "Fearflood",
-      "url": "https://open.spotify.com/track/4zhY8NiaTOr5FLN362ZcUJ"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -883,6 +867,22 @@
       "duration_ms": 149508,
       "name": "PRZYJED\u0179",
       "url": "https://open.spotify.com/track/4n2ENH767mh8hQv6Q83uHS"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Instant Rewards",
+        "url": "https://open.spotify.com/album/54n8MiXmukz3tjTs9294Bm"
+      },
+      "artists": [
+        {
+          "name": "Tides From Nebula",
+          "url": "https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf"
+        }
+      ],
+      "duration_ms": 358666,
+      "name": "Fearflood",
+      "url": "https://open.spotify.com/track/4zhY8NiaTOr5FLN362ZcUJ"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "LIPSTICK ON THE GLASS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3qQrPXtwP2IlcYsS2f1I6A"
-      },
-      "artists": [
-        {
-          "name": "Baasch",
-          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/38c4yTxQFXBUPzbm63wDKA"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "September Night",
         "url": "https://open.spotify.com/album/21OEKJBFzi5CVQ49vJnr3i"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 380093,
       "name": "Song for Sarah",
       "url": "https://open.spotify.com/track/5lPAbY4EpAtOe46qR4hEL0"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "LIPSTICK ON THE GLASS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3qQrPXtwP2IlcYsS2f1I6A"
+      },
+      "artists": [
+        {
+          "name": "Baasch",
+          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/38c4yTxQFXBUPzbm63wDKA"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Rugs / Carpets",
-        "url": "https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk"
-      },
-      "artists": [
-        {
-          "name": "Tymek Papior",
-          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
-        }
-      ],
-      "duration_ms": 312842,
-      "name": "Tear",
-      "url": "https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "I Love Music",
         "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 443446,
       "name": "Tatras",
       "url": "https://open.spotify.com/track/4wqezzclMc5BojbtQp0b8r"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Rugs / Carpets",
+        "url": "https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk"
+      },
+      "artists": [
+        {
+          "name": "Tymek Papior",
+          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
+        }
+      ],
+      "duration_ms": 312842,
+      "name": "Tear",
+      "url": "https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF"
     },
     {
       "added_at": "2025-04-06 08:27:45",

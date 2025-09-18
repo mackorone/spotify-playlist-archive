@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1308767,
+  "num_followers": 1308797,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAAC6bqBbYCTC0CJhmw5mPtZ3",
+  "snapshot_id": "aMiogAAAAAAmww8FYySs3uRdsJZA9TvD",
   "tracks": [
     {
       "added_at": null,
@@ -539,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paraca\u00eddas",
-        "url": "https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6"
+        "name": "Itamambuca",
+        "url": "https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb"
       },
       "artists": [
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 165517,
-      "name": "Paraca\u00eddas",
-      "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
+      "duration_ms": 243793,
+      "name": "Itamambuca",
+      "url": "https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl"
     },
     {
       "added_at": null,
@@ -571,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Itamambuca",
-        "url": "https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb"
+        "name": "Paraca\u00eddas",
+        "url": "https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6"
       },
       "artists": [
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 243793,
-      "name": "Itamambuca",
-      "url": "https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl"
+      "duration_ms": 165517,
+      "name": "Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noche Complicada",
-        "url": "https://open.spotify.com/album/22QmmZD4By3nzjlvRiQV7Q"
-      },
-      "artists": [
-        {
-          "name": "Frijo",
-          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 211208,
-      "name": "Noche Complicada",
-      "url": "https://open.spotify.com/track/4f9vS74fLCma9Tc93iTQbR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back To The Game",
         "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 218840,
       "name": "Necio (feat. LIT killah)",
       "url": "https://open.spotify.com/track/4Bn4JToBJGy47OEqB4AWtq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Noche Complicada",
+        "url": "https://open.spotify.com/album/22QmmZD4By3nzjlvRiQV7Q"
+      },
+      "artists": [
+        {
+          "name": "Frijo",
+          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 211208,
+      "name": "Noche Complicada",
+      "url": "https://open.spotify.com/track/4f9vS74fLCma9Tc93iTQbR"
     },
     {
       "added_at": null,

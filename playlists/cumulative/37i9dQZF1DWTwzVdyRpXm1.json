@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Best of South Asian Music. Cover: Shubh",
+  "description": "Best of South Asian Music. Cover: AP Dhillon",
   "name": "Desi Hits",
   "tracks": [
     {
@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Arz Kiya Hai | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/5JnqJs94bARmhFoOSW3H5h"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294500,
+      "name": "Arz Kiya Hai | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1"
+    },
+    {
+      "album": {
         "name": "Asal Mein",
         "url": "https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK"
       },
@@ -1450,7 +1468,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 259736,
       "name": "Bas Ek Dhadak - From \"Dhadak 2\"",
       "url": "https://open.spotify.com/track/1aV0CbIZbMGpYRFyTh4apW"
@@ -1742,6 +1760,36 @@
       "duration_ms": 178124,
       "name": "Bijliaan (From \"Badnaam\")",
       "url": "https://open.spotify.com/track/2jF2LdO4oB5nsj4Ylxwsoo"
+    },
+    {
+      "album": {
+        "name": "Bijuria (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+        "url": "https://open.spotify.com/album/0CZZnuGHvAOxNXNrW9vnRE"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Ravi Pawar",
+          "url": "https://open.spotify.com/artist/1RZXnoF42isxhijfdRFh75"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199071,
+      "name": "Bijuria (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+      "url": "https://open.spotify.com/track/2YRq6fQNSst2avCR6qhzSK"
     },
     {
       "album": {
@@ -2600,7 +2648,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 136250,
       "name": "Convo",
       "url": "https://open.spotify.com/track/5vXDlXE3vNa3eA8E73jySm"
@@ -2980,7 +3028,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 360063,
       "name": "Dil Ka Kya (From \"Metro ... In Dino\")",
       "url": "https://open.spotify.com/track/69tPsAXkjn3cTXoLSMr6d3"
@@ -4522,7 +4570,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 251124,
       "name": "Jab Tu Sajan - From \"Aap Jaisa Koi\"",
       "url": "https://open.spotify.com/track/6K5KEDzZS9Bo6J38Rbjexp"
@@ -7523,6 +7571,44 @@
     },
     {
       "album": {
+        "name": "Panwadi (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+        "url": "https://open.spotify.com/album/1YJfUVuJEYUytHQ7f60XQn"
+      },
+      "artists": [
+        {
+          "name": "Khesari Lal Yadav",
+          "url": "https://open.spotify.com/artist/69WMBCOrVeaxtZJCowDJ0a"
+        },
+        {
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        },
+        {
+          "name": "Dev Negi",
+          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240960,
+      "name": "Panwadi (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+      "url": "https://open.spotify.com/track/6aMoxZbGxqRkyNKAlkzIpP"
+    },
+    {
+      "album": {
         "name": "Mimi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z"
       },
@@ -8238,6 +8324,24 @@
       "duration_ms": 228855,
       "name": "Ranjha",
       "url": "https://open.spotify.com/track/0v77QqHiZUvfJkCk2rGRqw"
+    },
+    {
+      "album": {
+        "name": "Ranjha",
+        "url": "https://open.spotify.com/album/4qC2NrokZ3iEVMJOdcuXFX"
+      },
+      "artists": [
+        {
+          "name": "Noor Chahal",
+          "url": "https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166705,
+      "name": "Ranjha",
+      "url": "https://open.spotify.com/track/7xbKboQNFZR3A4unBPmYaJ"
     },
     {
       "album": {
@@ -9011,6 +9115,32 @@
     },
     {
       "album": {
+        "name": "SHERIYA",
+        "url": "https://open.spotify.com/album/2nRL1WRRHLRvBQf0k4afL6"
+      },
+      "artists": [
+        {
+          "name": "ARJN",
+          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
+        },
+        {
+          "name": "KDS",
+          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
+        },
+        {
+          "name": "RONN",
+          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191020,
+      "name": "SHERIYA",
+      "url": "https://open.spotify.com/track/3mpHzsOufcQoVMjpZPc2Kd"
+    },
+    {
+      "album": {
         "name": "Shikayat",
         "url": "https://open.spotify.com/album/5n4KPrFtZcpw8dogHM0jxJ"
       },
@@ -9486,7 +9616,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 178244,
       "name": "Supreme",
       "url": "https://open.spotify.com/track/5UGrftqh9U3zKQUt3vs7Ob"
@@ -9716,7 +9846,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 168200,
       "name": "Tension",
       "url": "https://open.spotify.com/track/0BlESrrPor7TRRpRz3nRZ5"
@@ -10980,6 +11110,24 @@
       "duration_ms": 154554,
       "name": "With You",
       "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
+    },
+    {
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/3ZIaRzsiL9ue12E2duQgiM"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156438,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/7geJy2YZjqHe1oOjaSyRAE"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: DK\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Lim Jae Beum\(임재범\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-615 songs - 1 day 16 hr 15 min
+616 songs - 1 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Long time no see](https://open.spotify.com/track/4PwrkFF5wNLBCJLxfEdtIW) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Long time no see \(Original Television Soundtrack From "The Witch Store Reopening"\)](https://open.spotify.com/album/52p2C1TriWORdN2fUGX4fc) | 3:28 | 2023-10-05 | 2023-10-16 |
 | [Longing For The One I Lost](https://open.spotify.com/track/5zmaQ67jCtABqcWzjQNa6w) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Longing For The One I Lost](https://open.spotify.com/album/41pUcaq83SjCE6ZIWfN4KM) | 3:56 | 2024-12-10 | 2025-03-23 |
 | [Looking at the Photo](https://open.spotify.com/track/05vg8sTPGNYv7uKYbVU4e3) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Looking at the Photo \(REVIBE Vol.2\)](https://open.spotify.com/album/25JKB4F13k0KyACimQx081) | 4:39 | 2021-12-20 | 2022-07-24 |
-| [Looking For Love \(Man Ver.\)](https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Oh My Venus \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/2RZaKdOuXB0obaW21fy3Oo) | 4:01 | 2022-04-01 |  |
+| [Looking For Love \(Man Ver.\)](https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Oh My Venus \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/2RZaKdOuXB0obaW21fy3Oo) | 4:01 | 2022-04-01 | 2025-09-18 |
 | [Lost](https://open.spotify.com/track/2pRmhfwgixiYF91SywOUFh) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Stranger 2 \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6ndtD6TsJ5d9gju1CIDf6Z) | 3:16 | 2021-12-20 | 2022-07-11 |
 | [Love Fool](https://open.spotify.com/track/78ArztlRnP0iatNE9GJNJB) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Full Bloom](https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y) | 3:11 | 2024-03-06 | 2024-05-11 |
 | [Love Illusion](https://open.spotify.com/track/0RFQSzdcZOBYIBN5rOacTo) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Love Illusion](https://open.spotify.com/album/65XtBx6D49S95rheH2RS83) | 3:45 | 2024-04-15 | 2024-06-28 |
@@ -615,6 +615,7 @@
 | [여행자](https://open.spotify.com/track/1uN6oKBP57ZtfOULIiYrir) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven, <집을 나서며...>](https://open.spotify.com/album/7DbmjsRXzvRuw5wDRSiOAy) | 4:02 | 2022-08-03 | 2024-03-09 |
 | [우주의 전설](https://open.spotify.com/track/6ABWK6E3RDzCJS7X8wdvIP) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,\(세븐 콤마\) <빛을 따라서...>](https://open.spotify.com/album/7lqABGolJepJu86N1WRo9T) | 3:58 | 2022-08-12 | 2022-10-06 |
 | [이 또한 지나가리라](https://open.spotify.com/track/5xpJOKLD5Zsm8ihVxpeK1N) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [TO...](https://open.spotify.com/album/2kpy6VCOSDfuus42rg7Ic6) | 3:45 | 2022-10-24 | 2025-07-17 |
+| [인사](https://open.spotify.com/track/4EGe0ovVvjRyGS5Wt9uM9C) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [인사 Prelude1](https://open.spotify.com/album/63qF2GbuABAfcprCdWlEXn) | 3:56 | 2025-09-17 |  |
 | [잊어버리지마 Don't Forget \(feat\. 태연 Taeyeon\)](https://open.spotify.com/track/2HC6c1d7SiznMV4rkmmxBB) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [잊어버리지마 Don't Forget \(feat\. 태연 Taeyeon\) \- Single](https://open.spotify.com/album/4laMaViU0DAsIz0iNdXxcI) | 3:39 | 2021-12-20 | 2022-07-24 |
 | [제발 내게 말해주라 \(Please tell me\)](https://open.spotify.com/track/0BeyMR83qdrHlIM52jprNC) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [제발 내게 말해주라 \(Please tell me\)](https://open.spotify.com/album/5ijS3IJtIUrqhioDNEJmu6) | 3:33 | 2024-11-29 | 2024-12-25 |
 | [중독된 사랑](https://open.spotify.com/track/5NtAjS4i0wEFK0lvvuSAVb) | [Cho Jang Hyuck](https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q) | [Love](https://open.spotify.com/album/3OXMz0E7sNDCEtiB4xNNkf) | 4:26 | 2023-12-01 |  |

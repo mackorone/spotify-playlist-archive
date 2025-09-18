@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,262 songs - 2 day 19 hr 30 min
+1,263 songs - 2 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [24](https://open.spotify.com/track/1pvvg93oaSTKKCUzeEWYwo) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Born Dirty](https://open.spotify.com/artist/0qM78DOdgnNPpq2CpTNgU5) | [24](https://open.spotify.com/album/7pkYBo20zBpRzfyTqBkzhM) | 3:20 | 2021-12-11 | 2022-07-29 |
 | [400](https://open.spotify.com/track/4tvlhGkTprgA9dY8gfQISz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [400](https://open.spotify.com/album/4EbFL1qYraa4ICB46UbnK3) | 3:25 | 2022-04-01 | 2022-04-20 |
 | [4U](https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U](https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr) | 3:00 | 2024-09-06 | 2025-07-02 |
-| [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 | 2024-07-16 |  |
+| [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 | 2024-07-16 | 2025-09-18 |
 | [7 Seconds \(feat\. Shamiya Battles\) \- Radio Edit](https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [7 Seconds \(feat\. Shamiya Battles\) \[Radio Edit\]](https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG) | 1:32 | 2024-09-20 |  |
 | [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2022-04-01 | 2023-03-25 |
 | [A Milli \- SIDEPIECE Remix](https://open.spotify.com/track/7nDxeN6NDc7v3v774IXiC5) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [A Milli \(SIDEPIECE Remix\)](https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS) | 2:33 | 2023-02-07 | 2024-04-19 |
@@ -958,6 +958,7 @@
 | [Saturation](https://open.spotify.com/track/1B8mCijpw9ItgJcOqWn2Dq) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [Clyde P](https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1) | [Saturation EP](https://open.spotify.com/album/5N07AHUNsDWtPEoVLbFXBb) | 2:53 | 2020-12-27 | 2021-03-23 |
 | [Saturday Love](https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Dino DZ](https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si) | [Saturday Love](https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6) | 2:21 | 2023-05-26 | 2024-04-06 |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2022-05-13 | 2022-08-15 |
+| [Savana](https://open.spotify.com/track/6qe61hWL08SxLCQTcOulMB) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Chemistry](https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2) | 2:30 | 2025-09-12 |  |
 | [Save the Rave](https://open.spotify.com/track/0mxjKriHsdi8zKiBTWIOrT) | [Tommie Sunshine](https://open.spotify.com/artist/42tlZWSz1V6Rsqds29GcRo), [MureKian](https://open.spotify.com/artist/4UhhnJQyqAsw82qwRNCU7R), [Sabrina Signs](https://open.spotify.com/artist/30XgRdKEsS1c8RkOYYiTbu) | [Save the Rave](https://open.spotify.com/album/5M5Rx6ZeoZgX1jpJ62d6t6) | 3:37 | 2020-05-22\* | 2021-12-21 |
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2023-10-13 |  |
 | [Sax In The City](https://open.spotify.com/track/7hBW4xLLxjcg6cEPFCznD8) | [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2), [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Sax In The City](https://open.spotify.com/album/7x5gVB98UKkoG2hceZL8a9) | 2:52 | 2020-11-03 | 2021-12-03 |

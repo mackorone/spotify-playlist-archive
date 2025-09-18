@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-178 songs - 7 hr 59 min
+182 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,10 @@
 | [Bei Sogni](https://open.spotify.com/track/4uEy0quzyHhmOolODWrsaI) | [Gennaro Acciaio](https://open.spotify.com/artist/5WJ6nJkEinNxWYIWTou21D) | [Bei Sogni](https://open.spotify.com/album/4D4zNlwymGjT6t0ls03vP6) | 2:44 | 2022-01-19 | 2024-12-18 |
 | [Beyond The Words](https://open.spotify.com/track/2rcjEdhxMASzFKFMLE0VyK) | [Phoebe Waits](https://open.spotify.com/artist/57E9IfMja5EiaW6JlxxPfF) | [Beyond The Words](https://open.spotify.com/album/2IXXs0F9tteFAxo2M1qUGh) | 2:32 | 2022-01-19 | 2024-11-14 |
 | [Birds view](https://open.spotify.com/track/4PkmyK6ZS3X96rG05wmThj) | [Egil Kahn](https://open.spotify.com/artist/28QjN2OHUlc9nT6Oo0okfe) | [Hills](https://open.spotify.com/album/2VdPwkgbn9S8KFfkrHqhGa) | 2:05 | 2022-11-14 | 2024-10-23 |
+| [Bliss](https://open.spotify.com/track/1uUf0oxdIJYfJCJRRIQsRm) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [Bliss](https://open.spotify.com/album/7LbRUFAxDaHVjCcvNmsWmV) | 3:31 | 2025-09-17 |  |
 | [Brightness](https://open.spotify.com/track/02LCUK8mJhh65xVc9hVoXB) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [Waves](https://open.spotify.com/album/4sWw9ZNMdERgyz8KbtgHUi) | 2:14 | 2022-01-19 |  |
 | [Calm And Restore](https://open.spotify.com/track/0t714TKW801BuUy11qPX0K) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calm And Restore](https://open.spotify.com/album/2DeYd1rdTsveiEqsBq4K4F) | 3:01 | 2024-10-22 | 2025-02-20 |
+| [Cascade](https://open.spotify.com/track/5adFxEx5X49AW6K4yl9Xef) | [Astral Chants](https://open.spotify.com/artist/74iuTKjTeNqMtynmJ6wTTF) | [Cascade](https://open.spotify.com/album/6ekqd6M7YWFIIDERra1c66) | 2:20 | 2025-09-17 |  |
 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 | 2022-01-19 | 2025-05-15 |
 | [Cloudscape](https://open.spotify.com/track/2jMHW6iPBdG4AbtvNGona5) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Cloudscape](https://open.spotify.com/album/5wwrR5aEmGMxemHKT9GnxS) | 2:31 | 2025-03-20 |  |
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2022-01-19 | 2022-04-14 |
@@ -44,6 +46,7 @@
 | [Dunfanaghy Beach](https://open.spotify.com/track/6HzRAiGTMhRBYHJpYBxLDt) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Dunfanaghy Beach](https://open.spotify.com/album/3RrKj0S9sPr9Zhhpz9vFDW) | 2:09 | 2022-01-19 | 2024-11-14 |
 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 | 2022-02-02 | 2024-12-18 |
 | [Easy](https://open.spotify.com/track/1OP1Pxj0AeFSkVcqdc9IFQ) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [Easy](https://open.spotify.com/album/4XJPGsxGDxmk8qNylj56gb) | 2:51 | 2022-07-27 |  |
+| [Ember](https://open.spotify.com/track/0UI9vtPrrF4rKVbAyftf6Q) | [Solfjord](https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0) | [Ember](https://open.spotify.com/album/6saaWCTWKStjjhJJx3KdMw) | 2:39 | 2025-09-17 |  |
 | [Emotion](https://open.spotify.com/track/3Erp4addg6gNsxONhzMTff) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Emotion](https://open.spotify.com/album/5qBzrhSYA2oc8GUJgty2Pp) | 3:24 | 2022-01-19 |  |
 | [Empires Luck](https://open.spotify.com/track/3eKndOAWTLzbzqaAdBRwBR) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Empires Luck](https://open.spotify.com/album/3Dm6sCX8BsO4t8TEOPO6DO) | 3:02 | 2022-01-19 |  |
 | [Epiphania](https://open.spotify.com/track/3ZkHsyYw4go5gyXNhTzXB7) | [Lewis Bird](https://open.spotify.com/artist/4McPLMM7aYZPv43M5VPXyp) | [Epiphania](https://open.spotify.com/album/3qouyLfbJvV6Q4rNjgzuc7) | 2:26 | 2022-02-16 |  |
@@ -138,6 +141,7 @@
 | [Sincerity](https://open.spotify.com/track/6LmFMurSx0pVsZCuHolQ1r) | [Pierre Delongpre](https://open.spotify.com/artist/5WMDkZMK3ZgXII7d14q5I9) | [Piano and My Heart](https://open.spotify.com/album/6LueQAU32JLzLcf4ONiAsi) | 2:54 | 2022-01-19 | 2025-01-08 |
 | [Slow Minor Reflection \(Rework\)](https://open.spotify.com/track/75xVb6hYBS7w1bd6rtoxQw) | [Mathias Algotsson](https://open.spotify.com/artist/5cxbLasvz3bRsChqr96Qy6) | [Slow Minor Reflection \(Rework\)](https://open.spotify.com/album/4pfbotQd3HJUKguN4dUsAC) | 2:49 | 2025-03-28 | 2025-04-03 |
 | [Slow Release](https://open.spotify.com/track/0BhIPUDcsFG5fYr9uOSd35) | [Halcyon Fields](https://open.spotify.com/artist/5iDVGLma1wDxCbA5gtS6cN) | [Slow Release](https://open.spotify.com/album/2069wPcp6sTs8ZgS7xoXgQ) | 3:24 | 2023-04-05 |  |
+| [Soft Gravity](https://open.spotify.com/track/04L3ysrKJAYm3PbfO6aonO) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Soft Gravity](https://open.spotify.com/album/34v6EsMOGwMJ5mt2sM2OKS) | 2:42 | 2025-09-17 |  |
 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 | 2022-01-19 | 2024-11-14 |
 | [Solitude](https://open.spotify.com/track/23xaPw50MI2yuX666Jiyag) | [Sarah Bowman](https://open.spotify.com/artist/2Wz8oWJF4XcdrxJeFkkWJI) | [Solitude](https://open.spotify.com/album/5UYaZ6FoT2W2RlU9H2lrZt) | 2:39 | 2022-01-19 | 2024-12-18 |
 | [Sonhando](https://open.spotify.com/track/1qexZcBQUxrTM3RGeLU7Nr) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Sonhando](https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T) | 3:08 | 2022-01-19 | 2024-12-18 |

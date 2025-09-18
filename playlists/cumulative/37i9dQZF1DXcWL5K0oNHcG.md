@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: SYNC.EXE\. Artwork: Joy Yamusangie.
 
-1,592 songs - 5 day 4 hr 29 min
+1,594 songs - 5 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Appointment](https://open.spotify.com/track/1N3tx0sOutSiNXKCrW88fq) | [Peter Somuah](https://open.spotify.com/artist/556nzhldvx3leEVjIBDMqU) | [Outer Space](https://open.spotify.com/album/50LpWwyBQRCBadtKEegrEQ) | 3:49 | 2022-05-04 | 2022-06-01 |
 | [April In Paris](https://open.spotify.com/track/2mBmDzFH3ysQoZM6eEYh0X) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [April In Paris](https://open.spotify.com/album/3bAfv8bowq6PIv2rw0zI87) | 4:03 | 2024-06-26 | 2024-09-05 |
 | [Arbe](https://open.spotify.com/track/0P6AyrSZtyKOrFQND4Pgn6) | [Gilad Ronen](https://open.spotify.com/artist/2BCT30JusHQ3I6StLqRxiS) | [Reflections](https://open.spotify.com/album/1yDtE1Rr7hjEzbH6DFp4FG) | 7:28 | 2023-03-15 | 2023-04-13 |
-| [Archipelago](https://open.spotify.com/track/3JR8gq8O5yKuesOThvwRC7) | [Cumulus Frisbee](https://open.spotify.com/artist/673QByL1fEcoAMYdHc452d) | [Archipelago](https://open.spotify.com/album/0lMX9iwhoJDxkaqUfTSal8) | 2:55 | 2025-01-22 |  |
+| [Archipelago](https://open.spotify.com/track/3JR8gq8O5yKuesOThvwRC7) | [Cumulus Frisbee](https://open.spotify.com/artist/673QByL1fEcoAMYdHc452d) | [Archipelago](https://open.spotify.com/album/0lMX9iwhoJDxkaqUfTSal8) | 2:55 | 2025-01-22 | 2025-09-18 |
 | [Archipelago](https://open.spotify.com/track/2aq8iH0Wr9uoj7ZdlmDOaI) | [Jules Brennan](https://open.spotify.com/artist/7unObIw4zbKUXYKFynXqQC) | [Archipelago](https://open.spotify.com/album/6CXVvIk3hjaELne5L4xZlq) | 5:31 | 2022-10-05 | 2022-10-27 |
 | [Arcipelago](https://open.spotify.com/track/4MUEcaK1OhK3c42fW9Pplg) | [Aura Safari](https://open.spotify.com/artist/2g7vF2a9fxqlidHNqcvROO) | [Arcipelago](https://open.spotify.com/album/45bYLHvAXCtAoTAoojjrZf) | 4:40 | 2022-07-20 | 2022-09-01 |
 | [Arianna](https://open.spotify.com/track/0trieYOgkGGY3xTZ4B09ZU) | [Zac Colwell](https://open.spotify.com/artist/7BmfdJB28dqduFA30V5BjL) | [Arianna](https://open.spotify.com/album/3OwtJAhhiJ0j8gA730mbEI) | 2:54 | 2023-06-07 | 2023-08-24 |
@@ -264,6 +264,7 @@
 | [Chroma](https://open.spotify.com/track/2sl0Hu9Tg0jbjDfWaFLH2u) | [Hiroaki Nakahara](https://open.spotify.com/artist/0SEnJE6D4QGANQU6IYGEq5) | [Chroma](https://open.spotify.com/album/3cyrdno79RmveN0wOTdhPd) | 4:58 | 2022-01-19 | 2022-02-17 |
 | [Chromo Sud](https://open.spotify.com/track/57uBrIhxq6YQA9G7aV9h6A) | [Robocobra Quartet](https://open.spotify.com/artist/1TWFJFIiQbaPOLDqp3he4s) | [Living Isn't Easy](https://open.spotify.com/album/2iV1RDKqb1Ide0fUJ8TYpM) | 9:17 | 2022-06-22 | 2022-07-07 |
 | [Chrysalide](https://open.spotify.com/track/4z216cr5r11o7U1aCrjY67) | [Patricia Essong](https://open.spotify.com/artist/0Xw8xErlE8lUQwW2h9KQhS) | [Chrysalide](https://open.spotify.com/album/4zObpGAsQyYFylPsuzUJgT) | 3:12 | 2023-02-01 | 2023-03-16 |
+| [Circa 2019](https://open.spotify.com/track/33VHDPVMX4zjiv0zYFl3cT) | [Tanhai Collective](https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73) | [Circa 2019](https://open.spotify.com/album/1GiNqVTjpSb5WrQiiRszHU) | 3:21 | 2025-09-17 |  |
 | [Circle](https://open.spotify.com/track/5HUiIsZYWC31h81ABO3TfC) | [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [Circle](https://open.spotify.com/album/4z4klvHvNgG0JUndFd1AF0) | 4:04 | 2022-01-19 | 2022-03-17 |
 | [Circle](https://open.spotify.com/track/61mY6YrbudiQvZippGdhGt) | [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [family line](https://open.spotify.com/album/5ep1EpuYUGa6wynARjAKYP) | 4:04 | 2022-11-30 | 2023-01-12 |
 | [City Lights](https://open.spotify.com/track/6NS7YL5uQHbBGV7yqMfX4W) | [Heem](https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m), [nate](https://open.spotify.com/artist/3PxzSlDM4b2YYCLNLXEXhK), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM), [Howard](https://open.spotify.com/artist/21NIgabQhP1v1spdtkQwKN) | [City Lights](https://open.spotify.com/album/6PZDMVRldEyBVFUx6VtsVx) | 2:29 | 2023-06-07 | 2023-08-24 |
@@ -287,7 +288,7 @@
 | [Coming Around](https://open.spotify.com/track/7nEZs0rR5vKoZa1m1fRkeO) | [Lazy Habits](https://open.spotify.com/artist/3Bwm7GVj1bGNj6fxf80OKP), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ) | [Vermillion Sands](https://open.spotify.com/album/22DvsqJ1U6RUjR3oYeFhQx) | 3:59 | 2022-05-04 | 2022-06-01 |
 | [Commitment](https://open.spotify.com/track/3k9rthVLiTnYTn2atzxTiq) | [Julian Haugland](https://open.spotify.com/artist/7tTmyOcfd302w9W8hdm5qc) | [Commitment](https://open.spotify.com/album/3pSHaOyVollF3s2d2RmfOY) | 3:08 | 2022-03-23 | 2022-04-27 |
 | [Common INSP](https://open.spotify.com/track/0EQWYF60nNlISwauRD9grS) | [slowstoop](https://open.spotify.com/artist/759vJrda9Y2XsEsfjmtqET) | [Aftre Theatre](https://open.spotify.com/album/1gcqFpfz3QT9XvjGFY4N9r) | 3:15 | 2023-01-11 | 2023-02-02 |
-| [Communion](https://open.spotify.com/track/1glJiExOlcbDjdNIzElYqQ) | [Georgia Cécile](https://open.spotify.com/artist/0KjGICUAvAWs6qev5iovJa) | [Communion](https://open.spotify.com/album/2ljsWrtbL0hv7DNsww4Ox7) | 4:04 | 2025-01-22 |  |
+| [Communion](https://open.spotify.com/track/1glJiExOlcbDjdNIzElYqQ) | [Georgia Cécile](https://open.spotify.com/artist/0KjGICUAvAWs6qev5iovJa) | [Communion](https://open.spotify.com/album/2ljsWrtbL0hv7DNsww4Ox7) | 4:04 | 2025-01-22 | 2025-09-18 |
 | [Como El Viento](https://open.spotify.com/track/1btzPRLIQCbQgni2IZ7T1n) | [Pedro Ricardo](https://open.spotify.com/artist/3uZc1Er5d61JLxm5EaO567), [Damián Botigué](https://open.spotify.com/artist/2ymmifhcBMARPeIjZPz3uJ) | [Como El Viento](https://open.spotify.com/album/5lMi5TqJerVF2VAVQDZ8U9) | 4:15 | 2023-06-14 | 2023-09-15 |
 | [Confirmation](https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8) | [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [re os \- REO MATSUMOTO](https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW) | [Confirmation](https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej) | 4:55 | 2022-07-27 | 2022-09-09 |
 | [Conscious Breathing](https://open.spotify.com/track/4U73BQgo2HOP0nUG0ZJhpS) | [EABS](https://open.spotify.com/artist/5YkOoDfxepfrbbyuimbo8c) | [Conscious Breathing](https://open.spotify.com/album/40MAotyRTwIMbmPhOs3qzW) | 4:07 | 2022-05-18 | 2022-06-16 |
@@ -400,6 +401,7 @@
 | [eaters](https://open.spotify.com/track/3NmAjuIzrDm5TJjzXLJ37l) | [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [eaters](https://open.spotify.com/album/2Bk5OvCjq4YIIAiTKVUe8L) | 3:25 | 2022-04-06 | 2022-05-05 |
 | [Echoes](https://open.spotify.com/track/6E4NJHE0TEuMsCOIddyJSQ) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Echoes](https://open.spotify.com/album/3g6bR9rpjAQExzVXH6zFDP) | 4:05 | 2023-02-22 | 2023-04-20 |
 | [Echoes \- Radio Edit 2](https://open.spotify.com/track/6g2gjJj3Qyo7q9L9qNFQEI) | [Directions](https://open.spotify.com/artist/34Ry1qT7CKFCTRRjnEsBRr) | [Echoes \(Anniversary Edition\)](https://open.spotify.com/album/0mdZ69GDNxnFX6yuGLfamh) | 4:27 | 2022-01-19 | 2022-02-17 |
+| [Eclosion](https://open.spotify.com/track/5lS4tzwoU6e6hu83Rh2W3C) | [Andrii Pokaz](https://open.spotify.com/artist/2fZ6SyGO76IltbDHjBMItC), [Oleksandr Poliakov](https://open.spotify.com/artist/2fspYQRqRVD3JWbA39OScD), [Ruslan Semenov](https://open.spotify.com/artist/4PAVdWhCzWPS7w435ydyMx), [Miroslav Pyatnikov](https://open.spotify.com/artist/7g1nQRB53SYUSAF7J2Hxay) | [PROTEUS](https://open.spotify.com/album/0aQVlVk1bjpmZn2A2ILSro) | 4:27 | 2025-09-17 |  |
 | [Edinburgh Sunshine](https://open.spotify.com/track/23MMSMRVvX7mr8Sk4DNkob) | [Jordan Ferrin](https://open.spotify.com/artist/2pGY3AkGNH2zFiYTeteqAL) | [Tales Of Transcendence](https://open.spotify.com/album/40yXqTQa120Gtubh3XmHsW) | 5:30 | 2022-03-23 | 2022-04-27 |
 | [Egungun](https://open.spotify.com/track/1XgM9dS27HgCLf0Hh4rbPD) | [Salin](https://open.spotify.com/artist/190s2q06h5ztFSuGHOpmf3) | [Egungun](https://open.spotify.com/album/7J7YZVUDS8IHSYDqR1ZlQo) | 4:10 | 2024-10-02 | 2025-02-27 |
 | [EJS](https://open.spotify.com/track/0DfgW4Z7XprHeaUiam9xU3) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [EJS](https://open.spotify.com/album/6o9Ad7lUqLKGXgM4DLck42) | 2:13 | 2023-09-27 | 2023-11-11 |

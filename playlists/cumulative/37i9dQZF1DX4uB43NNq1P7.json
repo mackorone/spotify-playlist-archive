@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Autumn Veil",
+        "url": "https://open.spotify.com/album/1UXGGqE5eWx711zLL5g3st"
+      },
+      "artists": [
+        {
+          "name": "Novielle",
+          "url": "https://open.spotify.com/artist/2du0EHVj1RbqO4q7mcL50s"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118830,
+      "name": "Autumn Veil",
+      "url": "https://open.spotify.com/track/6jb9WmbVg4DyAGMNLwUE3L"
+    },
+    {
+      "album": {
         "name": "Back to life",
         "url": "https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS"
       },
@@ -848,6 +866,24 @@
       "duration_ms": 193250,
       "name": "Last time in the rain",
       "url": "https://open.spotify.com/track/0UHxHoVeocXY2bHcHA0PHU"
+    },
+    {
+      "album": {
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/1gfWJEGN4BjU3HDKVqSRs9"
+      },
+      "artists": [
+        {
+          "name": "Falk Tyler",
+          "url": "https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/4dCze40Fkzx4BQiHyXlfdb"
     },
     {
       "album": {

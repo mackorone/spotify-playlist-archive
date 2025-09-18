@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 16 | [Kleines Mädchen große Träume](https://open.spotify.com/track/34y5yuvWwxO93Ws1Ng0PVw) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr), [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Kleines Mädchen große Träume](https://open.spotify.com/album/39d8JB3Nil2U7iAPqQcMLd) | 2:11 |
 | 17 | [Freibadpommes](https://open.spotify.com/track/32QhIks9oWNU67KeciR6Ns) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [snoid](https://open.spotify.com/artist/6UjcyqJVaoBpUlpbUjzMkT) | [Wann Album? \(Bonus EP\)](https://open.spotify.com/album/2dOblou1MabNG7PHtgSG4H) | 2:02 |
 | 18 | [Planufer](https://open.spotify.com/track/2pzuTdm3xjArM282QRTd1G) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Planufer](https://open.spotify.com/album/793ncmuxf7YZPi8PFwXhgD) | 2:00 |
-| 19 | [Räuber](https://open.spotify.com/track/7FlD4gnVO1DVl4QDwjwW71) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Räuber](https://open.spotify.com/album/5rKwLPSnTXWRh5vimce5NW) | 2:20 |
-| 20 | [MÄNNER LOL](https://open.spotify.com/track/1vx6xAbuY0Z48JPxL3RXD8) | [YAENNIVER](https://open.spotify.com/artist/62yGrNS5EcrAnBVlDtlBEw) | [MÄNNER LOL](https://open.spotify.com/album/6LDv1ipNw03bAsGBLMcyqA) | 3:07 |
+| 19 | [MÄNNER LOL](https://open.spotify.com/track/1vx6xAbuY0Z48JPxL3RXD8) | [YAENNIVER](https://open.spotify.com/artist/62yGrNS5EcrAnBVlDtlBEw) | [MÄNNER LOL](https://open.spotify.com/album/6LDv1ipNw03bAsGBLMcyqA) | 3:07 |
+| 20 | [Räuber](https://open.spotify.com/track/7FlD4gnVO1DVl4QDwjwW71) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Räuber](https://open.spotify.com/album/5rKwLPSnTXWRh5vimce5NW) | 2:20 |
 | 21 | [Tanzen](https://open.spotify.com/track/1jp14TUFD8mIIcSZDuFyV4) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Tanzen](https://open.spotify.com/album/1MGQXlrIoxlcUZlO93hdVB) | 2:25 |
 | 22 | [Durch die Nacht](https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Durch die Nacht](https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97) | 2:53 |
 | 23 | [rewe](https://open.spotify.com/track/0pJAqvwEz4d2yPdqpdqkAl) | [cami](https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt) | [rewe](https://open.spotify.com/album/08BXhW2eMp3dE9nGYzEWuv) | 1:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Matrix](https://open.spotify.com/track/4atTlLmHSt1BBWbYXSxhqQ) | [claire my flair](https://open.spotify.com/artist/0YJlDaNrY5A0if0WeHF1uJ) | [Matrix](https://open.spotify.com/album/5qMJgbTaxrcIRwyIdVbvc0) | 3:24 |
 | 50 | [Running Away](https://open.spotify.com/track/2EcTIbGiPN2mfMhHNr1gw4) | [Die Störung](https://open.spotify.com/artist/3hqJcvEQEhRWvPWtJL8NBE) | [Running Away](https://open.spotify.com/album/2fhFMnHEKcW0MNuqtbw4YE) | 4:24 |
 
-Snapshot ID: `AAAAAM3dqMRkynxW3V9/mkSCu3YBxz0X`
+Snapshot ID: `AAAAALgnPE1SUmmkdTD2vHR3MWzpmokr`

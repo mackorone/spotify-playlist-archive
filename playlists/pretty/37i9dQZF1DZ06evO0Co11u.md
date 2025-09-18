@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 
 > This is Louis Armstrong\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,827 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,841 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 | 39 | [Cold Cold Heart](https://open.spotify.com/track/1BH2rbqoikRKIZxjMPoqs8) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sy Oliver & His Orchestra](https://open.spotify.com/artist/0Y0kqoEdmURT48Od9DA8WC) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:10 |
 | 40 | [Weather Bird](https://open.spotify.com/track/3xCM9RLOLPIze3YDbjDi17) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [The Complete Hot Five And Hot Seven Recordings Volume 3](https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn) | 2:44 |
 | 41 | [Give Me Your Kisses](https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 1:59 |
-| 42 | [It Don't Mean a Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/4M5Mnz9ORqaMMUAgKtv3bI) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Great Reunion](https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz) | 4:00 |
-| 43 | [My Sweet Hunk O' Trash \- Single Version](https://open.spotify.com/track/7vVu4cjI5zfOMlQk4EuCwZ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Sy Oliver & His Orchestra](https://open.spotify.com/artist/0Y0kqoEdmURT48Od9DA8WC) | [Louis and Friends](https://open.spotify.com/album/3kEj79dO3HIi8MBPmCO0cx) | 3:20 |
-| 44 | [Sincerely](https://open.spotify.com/track/3StcXy0MMm3XNogT3HLcUT) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sonny Burke & His Orchestra](https://open.spotify.com/artist/4PyPlV92e4yMGcVEJhQxsV) | [Satchmo Sings](https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34) | 2:57 |
+| 42 | [Sincerely](https://open.spotify.com/track/3StcXy0MMm3XNogT3HLcUT) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sonny Burke & His Orchestra](https://open.spotify.com/artist/4PyPlV92e4yMGcVEJhQxsV) | [Satchmo Sings](https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34) | 2:57 |
+| 43 | [It Don't Mean a Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/4M5Mnz9ORqaMMUAgKtv3bI) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Great Reunion](https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz) | 4:00 |
+| 44 | [My Sweet Hunk O' Trash \- Single Version](https://open.spotify.com/track/7vVu4cjI5zfOMlQk4EuCwZ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Sy Oliver & His Orchestra](https://open.spotify.com/artist/0Y0kqoEdmURT48Od9DA8WC) | [Louis and Friends](https://open.spotify.com/album/3kEj79dO3HIi8MBPmCO0cx) | 3:20 |
 | 45 | [The Home Fire](https://open.spotify.com/track/0ctsFiWScfDEQqpH03tTrh) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:18 |
 | 46 | [I Still Get Jealous](https://open.spotify.com/track/5OBriDrN0dLdVcPyuGS5m8) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:13 |
 | 47 | [The Frim Fram Sauce](https://open.spotify.com/track/0uWKUvPVyxWT6NOmRoDyzf) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Decca Singles 1935\-1946](https://open.spotify.com/album/7FGPCE2hkcKrlGIpfnOSdW) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 | 49 | [When It's Sleepy Time Down South](https://open.spotify.com/track/4PuIJl5DnSPDzQ0SpL6CAb) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Armstrong Sparks, Nevada 1964!](https://open.spotify.com/album/0ftx4EQvBU4jcu6DoQKUxm) | 3:00 |
 | 50 | [I've Got The World On A String](https://open.spotify.com/track/1YIpd72Go5Dwko6x8FZTRC) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Verve Jazz Masters 1: Louis Armstrong](https://open.spotify.com/album/0bhFuzjO6sF4COrnX4tjgm) | 2:50 |
 
-Snapshot ID: `aMdXAAAAAAD/kGBI0+qB9UgAC+ONS23g`
+Snapshot ID: `aMiogAAAAAA9NrG7AdPsqLwkmEo+9hQx`

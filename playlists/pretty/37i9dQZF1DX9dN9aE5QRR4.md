@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 
 > La playlist officielle de Nouvelle École, dispo sur Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,181 likes - 58 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,164 likes - 58 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,6 +65,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 | 55 | [AMF \- Nouvelle École](https://open.spotify.com/track/0su56748WvAwZDecsY8ZNZ) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [AMF \- Nouvelle École](https://open.spotify.com/album/5vYdXyKqXVIRKUilj5Lr0h) | 2:59 |
 | 56 | [BAGARRE \- Nouvelle École](https://open.spotify.com/track/4rgY6aiDHgEiRG6pZvfBPf) | [Arka](https://open.spotify.com/artist/3PnK1yG5p3O5dfK0m3oNRG), [Bayass](https://open.spotify.com/artist/0PT8CEHQdV4RtZfgpEdSgb), [LEDOS](https://open.spotify.com/artist/3YWUSYVX6bCnVZBaXEUwbH), [Rethno](https://open.spotify.com/artist/2buxXXrtBJJ480Nwmw95yp), [WarEnd](https://open.spotify.com/artist/0kf4yD8VtffGwtLpbienGR), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [BAGARRE \- Nouvelle École](https://open.spotify.com/album/10oTjqrL31dPKWJlZXfj3H) | 4:45 |
 | 57 | [Finale \- Nouvelle École](https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM) | [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Finale \- Nouvelle École](https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS) | 3:00 |
-| 58 | [Yafama \- Nouvelle École](https://open.spotify.com/track/2rd3kchMtUoVCP7S7a0Lxa) | [Yuz Boy](https://open.spotify.com/artist/0D02Za9zPwvLFkiRQoi6qH), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ), [Bassey Kone](https://open.spotify.com/artist/041XhEqeFNWddFXmAeAIPp) | [Yafama \- Nouvelle École](https://open.spotify.com/album/73HDVkRvYkm2ubCRYifWT4) | 3:34 |
+| 58 | [Yafama \- Nouvelle École](https://open.spotify.com/track/2rd3kchMtUoVCP7S7a0Lxa) | [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ), [Vieux Père](https://open.spotify.com/artist/1DwO3ghUmNzVFzfsGWBe6N), [Bassey Kone](https://open.spotify.com/artist/041XhEqeFNWddFXmAeAIPp) | [Yafama \- Nouvelle École](https://open.spotify.com/album/73HDVkRvYkm2ubCRYifWT4) | 3:34 |
 
 Snapshot ID: `AAAAALyE3bkA1/zoMDvdkcURgZ9hUdm5`

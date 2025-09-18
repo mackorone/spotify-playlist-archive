@@ -3785,6 +3785,32 @@
     },
     {
       "album": {
+        "name": "Bulaye Naina",
+        "url": "https://open.spotify.com/album/3hCtDZO0CHDFa2xNwzJhR2"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        },
+        {
+          "name": "Chris Jo Matt",
+          "url": "https://open.spotify.com/artist/65Et6HHRSQfKkzLbzn6CyK"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176888,
+      "name": "Bulaye Naina",
+      "url": "https://open.spotify.com/track/3l3IcXZuuiyDHWb5AgmrlV"
+    },
+    {
+      "album": {
         "name": "Buri Nazar",
         "url": "https://open.spotify.com/album/5yiYXQIoe7o1uR7KRZiv8p"
       },
@@ -19414,7 +19440,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 170204,
       "name": "Shaam Se",
       "url": "https://open.spotify.com/track/74nIqX0QoICGwolrFuWKrv"

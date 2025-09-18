@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 148437,
+  "num_followers": 148468,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAADS4XWyH8eHGAVIO1ohRrUG",
+  "snapshot_id": "aMiogAAAAAAC1iWjnKnVp4lUjLCOTquJ",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
+        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0DPUhwShX0kQQvrG4A0CCD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Day",
         "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 296266,
       "name": "Every Time I Close My Eyes (with Kenny G)",
       "url": "https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
-        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/0DPUhwShX0kQQvrG4A0CCD"
     },
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silhouette",
-        "url": "https://open.spotify.com/album/6cVND8ZOdvMdSgpdGXQHvi"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 327600,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/3E3u7Aq7DvJCj2kiGXAknO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
         "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 252866,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/0Wt0LiQPwDLEu6d1iH4b1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/6cVND8ZOdvMdSgpdGXQHvi"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 327600,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/3E3u7Aq7DvJCj2kiGXAknO"
     },
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "Loving You - Edit",
-      "url": "https://open.spotify.com/track/0KH4lkNCzPACif93d7u7A9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
         "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 194373,
       "name": "You Raise Me Up",
       "url": "https://open.spotify.com/track/3yYMnwomVxxFZCMsHqJ6sC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Loving You - Edit",
+      "url": "https://open.spotify.com/track/0KH4lkNCzPACif93d7u7A9"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 238426,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
         "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 205160,
       "name": "If",
       "url": "https://open.spotify.com/track/05CovbrGQALQUh4yVonNfa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 238426,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 334160,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/28I4YkpPX5MdkgMy9tYm4C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
         "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 170360,
       "name": "The Way We Were",
       "url": "https://open.spotify.com/track/2jpLlNuAPP7vZY7ohQh5ka"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 334160,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/28I4YkpPX5MdkgMy9tYm4C"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duotones",
-        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 303506,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
         "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
       },
@@ -407,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Duotones",
+        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 303506,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rhythm & Romance",
         "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
       },
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "The Wedding Song",
-      "url": "https://open.spotify.com/track/0si6hASQu9bU9FPB6eOa63"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Moment",
         "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 440400,
       "name": "Havana",
       "url": "https://open.spotify.com/track/3h94vp5QyqopAwVolKhM5l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "The Wedding Song",
+      "url": "https://open.spotify.com/track/0si6hASQu9bU9FPB6eOa63"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lullaby Tres",
-        "url": "https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 124976,
-      "name": "Lullaby Tres",
-      "url": "https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Moment",
         "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 357733,
       "name": "Passages",
       "url": "https://open.spotify.com/track/3rddq2C6kmthJnC2VFYzyr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lullaby Tres",
+        "url": "https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 124976,
+      "name": "Lullaby Tres",
+      "url": "https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT"
     },
     {
       "added_at": null,

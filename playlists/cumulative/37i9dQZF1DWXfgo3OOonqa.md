@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,025 songs - 3 day 14 hr 49 min
+2,026 songs - 3 day 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1911,6 +1911,7 @@
 | [VEM E BIANCA \(feat\. Cherrie\)](https://open.spotify.com/track/73zv4De4MX9XLLqSkNfbFZ) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 3:05 | 2022-05-05 | 2022-06-10 |
 | [VEM E DU?](https://open.spotify.com/track/7a0sAadzyZfGC9s3Il2PPw) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [VEM E DU?](https://open.spotify.com/album/4pMwbEtyuwQcQtx19m9VpK) | 1:59 | 2025-04-17 | 2025-07-08 |
 | [Vem e hon](https://open.spotify.com/track/0iIPP1fRRYBzdjPnwcqGoQ) | [Emma Liambi](https://open.spotify.com/artist/79ni0gLHGqim5iM0lzKMLI) | [Vem e hon](https://open.spotify.com/album/0qz3dm5mwtPhvDKp2zZBPg) | 2:24 | 2023-03-23 | 2023-04-28 |
+| [VEM VET?](https://open.spotify.com/track/5ukPTFMAIoEq6AOmRHZFRk) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [RUSHEN TAR ALDRIG SLUT](https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS) | 2:05 | 2025-09-17 |  |
 | [Veni Vidi Vici](https://open.spotify.com/track/1jvuT4OctIMkTLerIE9e1E) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Veni Vidi Vici](https://open.spotify.com/album/5kKE9BUeleg11gvFSSGE72) | 2:24 | 2024-08-29 | 2025-02-21 |
 | [Vente vad](https://open.spotify.com/track/7H4ilcNKc4bZHAwW9cgTTi) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Vente vad](https://open.spotify.com/album/2DvVni5UD3SRIRLYV1SO9B) | 2:06 | 2023-05-08 | 2023-05-26 |
 | [Vera](https://open.spotify.com/track/3GC1xZ2h920Wk75nb3w2QW) | [Donzo x Mitchi](https://open.spotify.com/artist/6vyyCB5qh4EXjfz9Rpo2iv) | [Vera](https://open.spotify.com/album/63HMi5aTveYqJdPEX1p2kt) | 2:50 | 2022-06-09 | 2022-06-24 |

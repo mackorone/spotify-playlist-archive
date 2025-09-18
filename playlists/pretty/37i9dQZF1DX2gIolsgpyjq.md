@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: ORA
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,452 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,457 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 5 | [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:30 |
 | 6 | [Technology](https://open.spotify.com/track/1yQbR35MXXMhF1GpCK8IQI) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [Technology](https://open.spotify.com/album/1WMjIoQ9QlCDbNxcxTKDJ7) | 3:20 |
 | 7 | [Younger Self](https://open.spotify.com/track/0uyWyRYclJVmkI4uqwsljH) | [Ziggy Maxwell](https://open.spotify.com/artist/6CU3o4SjJwW3qdEI6VDDiE) | [Younger Self](https://open.spotify.com/album/0NugqlTsxUeTbLc75QIrPH) | 3:50 |
-| 8 | [Lately \(feat\. Lune\)](https://open.spotify.com/track/2wjWaQsqwxSXjy7n79QRRx) | [Yikes](https://open.spotify.com/artist/78j8yyA3RI06vgd4tmZgiO), [Lune](https://open.spotify.com/artist/0zEi8xjbkBE57K1lxuwkRK) | [Lately \(feat\. Lune\)](https://open.spotify.com/album/0ADrZnaHbqGg9oWjqsLdhy) | 5:30 |
+| 8 | [Lately \(feat\. Lune\)](https://open.spotify.com/track/2wjWaQsqwxSXjy7n79QRRx) | [Yikes](https://open.spotify.com/artist/78j8yyA3RI06vgd4tmZgiO), [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2) | [Lately \(feat\. Lune\)](https://open.spotify.com/album/0ADrZnaHbqGg9oWjqsLdhy) | 5:30 |
 | 9 | [You Don't Wanna Be Mine](https://open.spotify.com/track/46zvZV1EiD2Qch4qELYLno) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [You Don't Wanna Be Mine](https://open.spotify.com/album/7e9JMqzTga2FTNHZFmG1NP) | 2:39 |
 | 10 | [stick horse](https://open.spotify.com/track/1BZisExwFCmX2eTJwOsF4E) | [Sindy](https://open.spotify.com/artist/3YUBKpd4lRd09FvF8jrLRa) | [stick horse](https://open.spotify.com/album/2WXBln1OwUUWkxNMKCUJiZ) | 2:18 |
 | 11 | [lost and found](https://open.spotify.com/track/1bZ8UqS0XyG8oAZlL6VST3) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [lost and found](https://open.spotify.com/album/4a4Qstkc9muCDEtRlXHOtI) | 3:12 |

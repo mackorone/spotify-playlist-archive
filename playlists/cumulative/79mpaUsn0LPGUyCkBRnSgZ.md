@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-905 songs - 2 day 11 hr 57 min
+907 songs - 2 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Choose Your Weapon](https://open.spotify.com/track/3NqwLwpzbpyvXB2wJE0Oe6) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Choose Your Weapon](https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z) | 1:33 | 2023-12-31 | 2024-01-09 |
 | [Chutney](https://open.spotify.com/track/66wVaiPKHWIx2g4oMQ7ic1) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [Mandrill](https://open.spotify.com/album/4bD8UUx1VGPsWbSAtfEWgX) | 3:05 | 2024-05-27 |  |
 | [Citizen of the Planet](https://open.spotify.com/track/6F3HmpbVHKaEnURkxrZqqv) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Flavors of Entanglement \(Standard Edition\)](https://open.spotify.com/album/60XREfh3Gg6chBxPBCa7dl) | 4:22 | 2022-08-25 |  |
+| [City Walls](https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 5:22 | 2025-09-17 |  |
 | [classic j dies and goes to hell part 1](https://open.spotify.com/track/3ezuOjWuTirncJITAb8ahf) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the first glass beach album](https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq) | 5:04 | 2024-01-03 |  |
 | [Close Your Eyes and Swing](https://open.spotify.com/track/3YLGWFX2FfHIVV7EJvRlrn) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Dark Times](https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX) | 0:31 | 2024-05-27 | 2024-08-11 |
 | [Closer](https://open.spotify.com/track/6vjyZVLkjfENDguX2WHrLB) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Fabiana Palladino](https://open.spotify.com/album/42oaWsdIjvtngWBANg0tux) | 3:35 | 2025-01-07 |  |
@@ -694,6 +695,7 @@
 | [Sincerely](https://open.spotify.com/track/1Y1iDBe3Q1rPn44DcvCdzH) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky](https://open.spotify.com/album/6BMB400fh0wby5BM8VOTEY) | 2:06 | 2025-04-28 | 2025-05-16 |
 | [Singing Winds, Crying Beasts](https://open.spotify.com/track/0vBCQeiEKRy6eJmrf5zz4H) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:50 | 2024-05-27 | 2024-06-01 |
 | [Sir Benni Miles](https://open.spotify.com/track/0JA4GtolOVxzFttdnMCwuJ) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Haram](https://open.spotify.com/album/0RPanQrJXRyTJoiq2trm7k) | 2:59 | 2022-01-02 |  |
+| [Siren](https://open.spotify.com/track/4ruZteFNe4IiXU1j03AK6g) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [Tell the Future With Your Body](https://open.spotify.com/album/3QHg5WQNHUN6ZxuoowtAbt) | 3:03 | 2025-09-17 |  |
 | [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 | 2025-09-06 |  |
 | [Sister Ray](https://open.spotify.com/track/4pfjtMqXAsVrjCzEtthqo0) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [The Kick](https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n) | 3:39 | 2024-02-15 |  |
 | [Sketches Of Brunswick East I](https://open.spotify.com/track/2nuzFl7CdwhdTQEnmiqWW2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn), [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Sketches of Brunswick East](https://open.spotify.com/album/6eD0NNGuIdYPUbEPbUzLnE) | 1:20 | 2023-06-23 |  |

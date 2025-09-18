@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Snow Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,121 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,138 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 32 | [プロポーズ](https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [プロポーズ](https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq) | 2:58 |
 | 33 | [チェリーポップ](https://open.spotify.com/track/6yID3RbYKiwn2p2LPz0OkK) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [チェリーポップ](https://open.spotify.com/album/7zdVJKpYBZ7sytGi2EGUPh) | 2:18 |
 | 34 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 |
-| 35 | [Divine](https://open.spotify.com/track/0s8CYpuo2FueLQoUAnbZtG) | [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9), [SWEEP](https://open.spotify.com/artist/53Ts15qc5hNl9kvxvfmrir), [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/artist/3HfZJhPmI6APJD2PQFl9ci) | [Divine](https://open.spotify.com/album/6RsmJNSYE7r6RIzDZOTDMq) | 3:16 |
+| 35 | [Divine](https://open.spotify.com/track/0s8CYpuo2FueLQoUAnbZtG) | [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9), [SWEEP](https://open.spotify.com/artist/53Ts15qc5hNl9kvxvfmrir), [JUVENILE](https://open.spotify.com/artist/2Wj83ZkeRUYtTq0kaPOoQW), [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/artist/3HfZJhPmI6APJD2PQFl9ci) | [Divine](https://open.spotify.com/album/6RsmJNSYE7r6RIzDZOTDMq) | 3:16 |
 | 36 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
 | 37 | [In Bloom](https://open.spotify.com/track/4I6OO4jk9brIdWExZn37hu) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [In Bloom](https://open.spotify.com/album/2Xv5BjbnHGWy2lTdoZGP9G) | 2:59 |
 | 38 | [イオ](https://open.spotify.com/track/39VPDfAqvjOhiA4EmikYeD) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [イオ](https://open.spotify.com/album/4xNg6oWMihtDxAg6zttebV) | 3:03 |

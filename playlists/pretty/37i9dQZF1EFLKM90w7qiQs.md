@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/52cKwQBHdpKHYYbrnqKJtX">GRACEY</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60 likes - 62 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 61 likes - 62 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 27 | [Romeo](https://open.spotify.com/track/3YvFXuk2IuWW32zeOTV3Q9) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Romeo](https://open.spotify.com/album/257PqwE2yKKYxbLvqIkT3Y) | 3:04 |
 | 28 | [Make You Dance](https://open.spotify.com/track/6BzNEYhKszAJ5rkl2xbcMi) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF \(DELUXE\)](https://open.spotify.com/album/745q70iMPQHWqjGzHeseBp) | 3:11 |
 | 29 | [Got You Covered](https://open.spotify.com/track/0yyxb5ORtu0n5KaHVAI674) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Got You Covered](https://open.spotify.com/album/75ZE1CYqgrmZXXDpjRq2HR) | 2:56 |
-| 30 | [Now Or Never](https://open.spotify.com/track/0OmiVCvlnnC0hTLekt8dPJ) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Back To Life](https://open.spotify.com/album/1J3os6fg6lvIoEC6czG8EY) | 3:27 |
-| 31 | [Backwards](https://open.spotify.com/track/4sUreUOAY8aJEGxqPwIWI9) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:00 |
+| 30 | [Backwards](https://open.spotify.com/track/4sUreUOAY8aJEGxqPwIWI9) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:00 |
+| 31 | [Now Or Never](https://open.spotify.com/track/0OmiVCvlnnC0hTLekt8dPJ) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Back To Life](https://open.spotify.com/album/1J3os6fg6lvIoEC6czG8EY) | 3:27 |
 | 32 | [Feel the Same](https://open.spotify.com/track/5vAT67Un0962lz61w0wlNl) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [You Know I Know \(Expanded Edition\)](https://open.spotify.com/album/6Z6lqEBbZq9Rbf7aYRxAZP) | 3:11 |
 | 33 | [Different Things](https://open.spotify.com/track/7hwdaCeGVkqDS5eHaSh00d) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Different Things](https://open.spotify.com/album/6WZgELDxZX8dw81mijWBbs) | 3:27 |
 | 34 | [What A Waste](https://open.spotify.com/track/7kGIXHL97P3bVy3Wh997ZA) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [What A Waste](https://open.spotify.com/album/4ydBNpc9b94VSX2VizYfRW) | 3:13 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 61 | [Figure It Out](https://open.spotify.com/track/4u1OGnxFaeeDncPLsW6Zbf) | [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Figure It Out](https://open.spotify.com/album/3nx85pcfiQEOTzpyIeJcw8) | 3:11 |
 | 62 | [BED HEAD](https://open.spotify.com/track/09xdIdn86V2ajBH8qrqkxw) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:12 |
 
-Snapshot ID: `Ab8aPgAAAACOk68Exxy/ZEbYwWk7zWIw`
+Snapshot ID: `Ab8fwAAAAADZ/oOBFhJMxwvcnDmrE6qy`

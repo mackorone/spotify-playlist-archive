@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-370 songs - 20 hr 42 min
+373 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,11 +122,12 @@
 | [Empty](https://open.spotify.com/track/1M0kmnY1ztJC0ZNQxCS7st) | [Alessandro Martire](https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2) | [Longing EP](https://open.spotify.com/album/0ajy8kD383s9wmYBq4ADnE) | 4:21 | 2025-02-26 | 2025-06-12 |
 | [Enamorados](https://open.spotify.com/track/2VFBT8eSZZ6a9AQ2Kk3qTt) | [EIXE](https://open.spotify.com/artist/4TqoArkD4dRhe02UeuxO54) | [Enamorados](https://open.spotify.com/album/2YcUBptGA3lrTKQXs02xYy) | 2:53 | 2020-12-08\* | 2025-07-16 |
 | [Endless Horizons](https://open.spotify.com/track/4aX9oNml3NCLc7BymvyKwi) | [Stellar Luminous](https://open.spotify.com/artist/1dgWSlkCY69O3oTa1u6vKN) | [Endless Horizons](https://open.spotify.com/album/616Kuhwk6PUqLzZwInp9yW) | 2:22 | 2025-02-26 |  |
-| [Entering The Clockwork Halls](https://open.spotify.com/track/0zMVJBjdegDLhwhG0Iu9nS) | [Enchanted Candlestick](https://open.spotify.com/artist/3jAFYmyMpB3O7LD8zRiRae) | [Gale](https://open.spotify.com/album/3f8gwakpBwYXt6bIt8YTvR) | 2:18 | 2022-11-22 |  |
+| [Entering The Clockwork Halls](https://open.spotify.com/track/0zMVJBjdegDLhwhG0Iu9nS) | [Enchanted Candlestick](https://open.spotify.com/artist/3jAFYmyMpB3O7LD8zRiRae) | [Gale](https://open.spotify.com/album/3f8gwakpBwYXt6bIt8YTvR) | 2:18 | 2022-11-22 | 2025-09-18 |
 | [Envision](https://open.spotify.com/track/3QG6JoaGwxU2zNUDg0Zcac) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [Envision](https://open.spotify.com/album/2IgSdhA4y6Dv3D7q54OyT0) | 2:34 | 2023-07-28 | 2023-10-24 |
-| [Ephemara](https://open.spotify.com/track/6MJP8z8GbPYyS69TvlrEL8) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Ephemara](https://open.spotify.com/album/1iPCFWvutN5Vrp8cpcBfTg) | 2:48 | 2024-02-16 |  |
+| [Ephemara](https://open.spotify.com/track/6MJP8z8GbPYyS69TvlrEL8) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Ephemara](https://open.spotify.com/album/1iPCFWvutN5Vrp8cpcBfTg) | 2:48 | 2024-02-16 | 2025-09-18 |
 | [Equanimity](https://open.spotify.com/track/7Il2cAbfYNidySAdrlP5Nx) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Equanimity](https://open.spotify.com/album/1ds68DcZuoV9M9wVZRiBBU) | 2:30 | 2024-08-21 | 2025-03-26 |
 | [Eternal Flame](https://open.spotify.com/track/4S0YD6dPpQRe9ftkF9UlyI) | [Mists in citys](https://open.spotify.com/artist/5E36n1Z8Ib7DN1LTse3kVF) | [Eternal Flame](https://open.spotify.com/album/4s6BL7UtJL8OcgqBB45YRU) | 2:57 | 2025-02-26 |  |
+| [Everchange](https://open.spotify.com/track/15zFGTCgTVoNGLKsTOZKoL) | [Icarus Lost](https://open.spotify.com/artist/3Qa3b4M89t9VWBDXfiS8Gb) | [Everchange](https://open.spotify.com/album/3kRxsNJ7yYorRXvNlufWvA) | 2:14 | 2025-07-15 |  |
 | [Exit Narrow](https://open.spotify.com/track/0bttAu2hy4YKpB9ZHiDPlx) | [Slumberland Dreams](https://open.spotify.com/artist/3PY9lWIIIysDVnJ7i83N2k) | [Exit Narrow](https://open.spotify.com/album/7HlFMsm111LrBgsUAWnWCA) | 3:07 | 2025-05-14 |  |
 | [Fade To Green](https://open.spotify.com/track/7g6H3w5ZR6LltDkD2iRISL) | [Sacred Orb](https://open.spotify.com/artist/3wo048mZLUY53Pp4KNXIQH) | [Slumber](https://open.spotify.com/album/0RVAtmxNwwR7lOimtJQAvY) | 2:28 | 2022-11-22 |  |
 | [Far Fetched Sleep](https://open.spotify.com/track/2nvpLuJz7dfrmV2J0jGxdv) | [Millie S](https://open.spotify.com/artist/3WXETka20TU3p9HZZjQ0cj) | [Far Fetched Sleep](https://open.spotify.com/album/5UnOxSSbm5Ss1q5VHU2GnX) | 3:09 | 2020-12-08\* | 2025-05-15 |
@@ -201,6 +202,7 @@
 | [Levitate](https://open.spotify.com/track/2EXBGX5M8y0bp8IUPagUpy) | [Rizik](https://open.spotify.com/artist/1RPAAHsStLojK33L7zhgzl) | [Levitate](https://open.spotify.com/album/0BtISmmdavrCmqfYAZyeKK) | 4:22 | 2020-12-08\* | 2021-03-06 |
 | [Liberation](https://open.spotify.com/track/2CbHrpzQRhQ1uG0J2dMrCP) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Liberation](https://open.spotify.com/album/5zbwTRBUIfwLsC9SkQUX9t) | 3:16 | 2022-12-30 | 2025-04-13 |
 | [lilja](https://open.spotify.com/track/2APv5JlP1VXAxvFaQpDKbK) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [lilja](https://open.spotify.com/album/4IBHQXKDfFzJVwxonoZbYt) | 3:18 | 2025-05-14 |  |
+| [Lone Lights](https://open.spotify.com/track/0nxDy6ZzAAlwnHAzxLTd6r) | [Blue Saga](https://open.spotify.com/artist/3EUYJ46gohBhdmS96WqsbF) | [Lone Lights](https://open.spotify.com/album/6h2gZlVBiXYTYPgN9NF6I9) | 4:00 | 2025-07-15 |  |
 | [long lost](https://open.spotify.com/track/7L2ofInqnrSisKJxVPGE6K) | [eternal](https://open.spotify.com/artist/4wGMrwZjdj39HPuCm3Ui6U) | [long lost](https://open.spotify.com/album/2gQ3teUEg1TVZVubUji8Bn) | 2:08 | 2025-07-15 |  |
 | [Looking at the Stars](https://open.spotify.com/track/0oEsb9pPuLAa1pUagDv4BH) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Beauty and Truth](https://open.spotify.com/album/4ZczqJuCVIdZ2JOWDbR5Ie) | 3:13 | 2020-12-08\* | 2021-07-15 |
 | [Lost In Thought](https://open.spotify.com/track/0BSJ1iQEmGibLCPMHGtdo7) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Opalescent](https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou) | 6:16 | 2020-12-08\* | 2021-05-27 |
@@ -349,7 +351,7 @@
 | [Turn of Fate](https://open.spotify.com/track/6s4hiI1mw1KxkqxsUoO2Zf) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Turn of Fate](https://open.spotify.com/album/1GdAMNIBCq41JiLzr2ji7m) | 4:57 | 2025-05-14 | 2025-05-16 |
 | [Twilight meditation](https://open.spotify.com/track/6HBgsKrL6iGC8sqtd7iiFQ) | [Maria Tern](https://open.spotify.com/artist/7kFcvb3aOQTasCNfuFU6N0) | [Twilight meditation](https://open.spotify.com/album/3fQheljhswxe6ZasBx7gSE) | 2:59 | 2024-01-30 | 2024-06-12 |
 | [Twilight Waves](https://open.spotify.com/track/1PIKB9qoJudUMw04xsYxlF) | [Atephis](https://open.spotify.com/artist/7wLT6L68giSFZDvgaotGIU) | [Twilight Waves](https://open.spotify.com/album/1bfKWTGV516IP7mR5KKbxk) | 2:46 | 2025-05-14 | 2025-06-20 |
-| [Umbrian Affair](https://open.spotify.com/track/3uS7zZlLcY1PiJ4KmFmPXG) | [Lena Bickeby](https://open.spotify.com/artist/0lb8V1RudMLNNsRF7mENZW) | [Umbrian Affair](https://open.spotify.com/album/1VrzjRpK2EWydopDXjvcUW) | 2:45 | 2020-12-08\* |  |
+| [Umbrian Affair](https://open.spotify.com/track/3uS7zZlLcY1PiJ4KmFmPXG) | [Lena Bickeby](https://open.spotify.com/artist/0lb8V1RudMLNNsRF7mENZW) | [Umbrian Affair](https://open.spotify.com/album/1VrzjRpK2EWydopDXjvcUW) | 2:45 | 2020-12-08\* | 2025-09-18 |
 | [Underlying Cause](https://open.spotify.com/track/42eEBz1XT0b0uvZDZPisyL) | [Experia](https://open.spotify.com/artist/5NTXP9El0Kk8oAEIaKZZfZ) | [Underlying Cause](https://open.spotify.com/album/38Lsf8bDz8BsQ0zzNUzEwn) | 3:10 | 2025-02-26 |  |
 | [Unkai](https://open.spotify.com/track/6KE0Eh4abncCTsZXodGGaQ) | [Kazunobu Nishiyama](https://open.spotify.com/artist/5PalD0e4tBG8xaSgTMuv6X) | [Unkai](https://open.spotify.com/album/4cqBqwZgOlzFfsimwp00kt) | 3:36 | 2022-06-16 |  |
 | [Unsaid](https://open.spotify.com/track/2AGNymbWbkZUYTZIAdGb4H) | [Nowun](https://open.spotify.com/artist/6iuLyhiEemtogvz593CVKK) | [Unsaid](https://open.spotify.com/album/7I2441VTSINBUfbWemfCyG) | 2:28 | 2023-07-28 |  |
@@ -359,6 +361,7 @@
 | [Vesperam](https://open.spotify.com/track/6xUIYjip7xV5rOGz0V168m) | [Echoes Of Time](https://open.spotify.com/artist/4nlTOopsxNUc0ps46oigBM) | [Vesperam](https://open.spotify.com/album/6XnyWTBrYLkNvpiDoEN3b5) | 2:56 | 2024-04-04 | 2025-08-08 |
 | [Violet](https://open.spotify.com/track/6UexB3inLD8R9lVXCSMnF3) | [Ólafur Apollo](https://open.spotify.com/artist/1uBzypkt8OzAyPkGifMjHI) | [Violet](https://open.spotify.com/album/6I21wxPlRPPTxalFaoVnTd) | 2:17 | 2025-07-15 |  |
 | [W.E.](https://open.spotify.com/track/3SDO8hL0wQ3Dxr6NN1CUbH) | [Asa Bjorg](https://open.spotify.com/artist/1aFaXuKUvi4TpzZn8cKYRQ) | [W.E.](https://open.spotify.com/album/3fqMLlZ31uYIz326zw9bdH) | 4:16 | 2020-12-08\* | 2021-02-20 |
+| [waiting still](https://open.spotify.com/track/32vjhjj5KWfVlHfCMg6yLs) | [NÒWN](https://open.spotify.com/artist/6HSIq0RQ7mhLiRGUu79kCm) | [waiting still](https://open.spotify.com/album/3pPwfIMqCdccz4NB99sSd0) | 2:26 | 2025-07-15 |  |
 | [Walking on Air](https://open.spotify.com/track/2dD53mHfjyGg6o856Di1OK) | [Auðura](https://open.spotify.com/artist/0DE6DqplF6aes6HrDbH29i) | [Walking on Air](https://open.spotify.com/album/7c05mEBhWNCuChYLnBCqjz) | 2:06 | 2025-02-26 |  |
 | [Water Jewel](https://open.spotify.com/track/2GKxE4qFT0kUaYveDnFcVt) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Two Jewels](https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi) | 4:07 | 2020-12-08\* |  |
 | [Waves are coming](https://open.spotify.com/track/4m6jCOTDZfNhKA7qUEpo98) | [Nicole Rosario](https://open.spotify.com/artist/56m6DbefNtX4faz0CTVjUY) | [Waves are coming](https://open.spotify.com/album/4YJTcfkvMihuIDh0oQAnuq) | 3:53 | 2021-06-16 | 2024-09-20 |

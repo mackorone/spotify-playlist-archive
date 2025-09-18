@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 928289,
+  "num_followers": 928263,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
+        "name": "Instant Moments",
+        "url": "https://open.spotify.com/album/5Fg45x7G4Pq2DNZAek17vu"
+      },
+      "artists": [
+        {
+          "name": "Divasi",
+          "url": "https://open.spotify.com/artist/5UuDK1Ur9PtuTelWdTGevY"
+        }
+      ],
+      "duration_ms": 160208,
+      "name": "Instant Moments",
+      "url": "https://open.spotify.com/track/3La3KFoSyjE2MOxoljTioT"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
         "name": "No Sleep (6AM) (feat. MERYLL)",
         "url": "https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 146195,
       "name": "No Sleep (6AM) (feat. MERYLL)",
       "url": "https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
-        "name": "Instant Moments",
-        "url": "https://open.spotify.com/album/5Fg45x7G4Pq2DNZAek17vu"
-      },
-      "artists": [
-        {
-          "name": "Divasi",
-          "url": "https://open.spotify.com/artist/5UuDK1Ur9PtuTelWdTGevY"
-        }
-      ],
-      "duration_ms": 160208,
-      "name": "Instant Moments",
-      "url": "https://open.spotify.com/track/3La3KFoSyjE2MOxoljTioT"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
+        "name": "2HEARTs dlux",
+        "url": "https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 239047,
+      "name": "my luv - bonus track",
+      "url": "https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
         "name": "Go Mode",
         "url": "https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 232031,
       "name": "Go Mode",
       "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
-        "name": "2HEARTs dlux",
-        "url": "https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 239047,
-      "name": "my luv - bonus track",
-      "url": "https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
-        "name": "Rock The Party",
-        "url": "https://open.spotify.com/album/7mJCgi7cA9vFsA4hMhizL7"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 204923,
-      "name": "Rock The Party",
-      "url": "https://open.spotify.com/track/3wnan34oo7sAqyoLPV5G9k"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
         "name": "The Unexplained",
         "url": "https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 135468,
       "name": "Reading My Mind",
       "url": "https://open.spotify.com/track/2c8TIDfFaU5LH6U05aTlIY"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
+        "name": "Rock The Party",
+        "url": "https://open.spotify.com/album/7mJCgi7cA9vFsA4hMhizL7"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 204923,
+      "name": "Rock The Party",
+      "url": "https://open.spotify.com/track/3wnan34oo7sAqyoLPV5G9k"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -1927,18 +1927,22 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
-        "name": "Charged Up",
-        "url": "https://open.spotify.com/album/4HckeGUqZQrIUCOGbNJB30"
+        "name": "Move It (with Luciana)",
+        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
       },
       "artists": [
         {
-          "name": "Firebeatz",
-          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
         }
       ],
-      "duration_ms": 123222,
-      "name": "Charged Up",
-      "url": "https://open.spotify.com/track/414AiThcDCEw5KDrpouSlQ"
+      "duration_ms": 135238,
+      "name": "Move It (with Luciana)",
+      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
     }
   ],
   "unique_name": "Shuffle Syndrome",

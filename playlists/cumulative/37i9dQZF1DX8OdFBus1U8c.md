@@ -2,7 +2,7 @@
 
 ### [RAP 91 Malayalam](https://open.spotify.com/playlist/37i9dQZF1DX8OdFBus1U8c)
 
-> Best of Malayalam Hip\-Hop! <br/>Cover :  NJ
+> Best of Malayalam Hip\-Hop! <br/>Cover :  ARJN, KDS
 
 450 songs - 23 hr 0 min
 
@@ -169,7 +169,7 @@
 | [KALLAKADATH](https://open.spotify.com/track/1Muf8EXDlTc9XnTHfroEcm) | [Lil Chaathan](https://open.spotify.com/artist/5K9M76QZEy8JnQimxKSN3O), [LAI MUSIC](https://open.spotify.com/artist/3Waesvb7iZHWiEA5qYQKH9), [Seth Panda](https://open.spotify.com/artist/3b8ZA7L8i3d33EPErGTWCo) | [KALLAKADATH](https://open.spotify.com/album/0quLu5f1HpqziLqt1RrOMq) | 3:02 | 2025-08-11 |  |
 | [Kallan](https://open.spotify.com/track/7ElPKxj95CEg80v9LYZbtI) | [SAMJU ZAG](https://open.spotify.com/artist/6UmqznGDf6FWjpZBJEfiKO), [Baluccciiii](https://open.spotify.com/artist/7wOhPadZzkMCYcHo8GIpho), [HALAALAY](https://open.spotify.com/artist/4xRhP8dcEFC4oclE9hGjvm), [CNU](https://open.spotify.com/artist/7FanLoSsZ4MQSlr2I5VpFz) | [Kallan](https://open.spotify.com/album/2ISCmkF7LrUgzdQfnVP5QS) | 3:34 | 2025-05-13 | 2025-07-08 |
 | [KALLU THE TODDY](https://open.spotify.com/track/1MigC5MPNAMPtef31ji6Fz) | [Hyde Karty](https://open.spotify.com/artist/5diOq1Qfzspw7pN99vd8bH), [Resh Nathan](https://open.spotify.com/artist/2iueufT1KH8rrwGdLZdIV0) | [KALLU THE TODDY](https://open.spotify.com/album/1JTlIHa1VeKcSi5qYQMd9c) | 3:22 | 2025-05-16 | 2025-07-11 |
-| [Kama Cetamol](https://open.spotify.com/track/5M8AOHI0J8omAWTEb3fObg) | [MANKA OY](https://open.spotify.com/artist/5H1fZuOeoWgxAhXoB1HgeS), [Anaswar Djz](https://open.spotify.com/artist/7aWGjYMaMlUYJkLsJ5IA0A) | [Kama Cetamol](https://open.spotify.com/album/6TD4ryRkAeiJoURhm3pCyp) | 3:21 | 2025-08-18 |  |
+| [Kama Cetamol](https://open.spotify.com/track/5M8AOHI0J8omAWTEb3fObg) | [MANKA OY](https://open.spotify.com/artist/5H1fZuOeoWgxAhXoB1HgeS), [Anaswar Djz](https://open.spotify.com/artist/7aWGjYMaMlUYJkLsJ5IA0A) | [Kama Cetamol](https://open.spotify.com/album/6TD4ryRkAeiJoURhm3pCyp) | 3:21 | 2025-08-18 | 2025-09-18 |
 | [Kanave](https://open.spotify.com/track/5jz0BccfTdvKOtiTD7Ma7X) | [zlaydn](https://open.spotify.com/artist/7vgJHKFryUww6RNNiBQSGl) | [Kanave](https://open.spotify.com/album/5GJypCXsLSFUye2Q7JSV5W) | 2:32 | 2025-02-24 | 2025-04-12 |
 | [KAPADAM](https://open.spotify.com/track/7sElWksjgyEgGsernHXssH) | [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT), [raze](https://open.spotify.com/artist/2bHCMsJhQQqw4A3RvzryGP) | [KAPADAM](https://open.spotify.com/album/73aI4zFwKHRScSq2FMOpPl) | 2:32 | 2025-03-28 | 2025-04-08 |
 | [Karayunnathu Enthina](https://open.spotify.com/track/2Iyyorj6O6HX5aCvlkdEJU) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Karayunnathu Enthina](https://open.spotify.com/album/1gz55jhUDXOmFkOFuUCCkw) | 4:31 | 2022-06-23 | 2024-02-13 |
@@ -404,7 +404,7 @@
 | [Theruvinte Mon](https://open.spotify.com/track/0uf8atzwCLOdHhn7Fh3Ms1) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf), [HRISHI](https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O) | [Theruvinte Mon](https://open.spotify.com/album/1n3teNhKap8DypDAAEHdoI) | 2:43 | 2024-02-12 | 2024-05-22 |
 | [Theyyam Thaka](https://open.spotify.com/track/1F2yFOSpoFvp6fi2Klzz9y) | [Wraith V](https://open.spotify.com/artist/4BOMjhDXc0Aet35ZlLZNgZ), [MC Mushti](https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm), [dh](https://open.spotify.com/artist/6ecrtFDwuTveo5XZcrsY00) | [Theyyam Thaka](https://open.spotify.com/album/0m2R3XYltFMnV4pRBJGE6n) | 3:52 | 2025-09-02 |  |
 | [Thiagarajan Syndrome](https://open.spotify.com/track/6zhDHffeXAQQ80I3MiFjRd) | [RagSagar](https://open.spotify.com/artist/2Bssm0bO0wxnmjJn5mqwzY), [Saurav SR](https://open.spotify.com/artist/24Pw3dvJ8bEAdebRYCbM3p) | [Thiagarajan Syndrome](https://open.spotify.com/album/09WO7uluXsSljENw8Pi5JZ) | 3:25 | 2025-02-25 | 2025-04-30 |
-| [Thilapp](https://open.spotify.com/track/0ewX7A6yy1LOlsvIakRQwn) | [MC Mushti](https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm), [PRODBYRSHN](https://open.spotify.com/artist/7AIIKBwYWMjvta486nCU2w) | [Thilapp](https://open.spotify.com/album/6MWLdJ97oinWbHgcvrCMkm) | 2:36 | 2025-08-01 |  |
+| [Thilapp](https://open.spotify.com/track/0ewX7A6yy1LOlsvIakRQwn) | [MC Mushti](https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm), [PRODBYRSHN](https://open.spotify.com/artist/7AIIKBwYWMjvta486nCU2w) | [Thilapp](https://open.spotify.com/album/6MWLdJ97oinWbHgcvrCMkm) | 2:36 | 2025-08-01 | 2025-09-18 |
 | [Thinnua Orangua](https://open.spotify.com/track/0BpwI9BApncyL9IcRCRVHZ) | [Hyper KR](https://open.spotify.com/artist/3s3KFYdMQq3mshkQtdE3OL), [CHNGRA](https://open.spotify.com/artist/4wbA2Yb2wNI3ycw1TEATiO) | [Thinnua Orangua](https://open.spotify.com/album/3zckeKqr4M8aYRj6ZekDWs) | 2:51 | 2025-08-29 |  |
 | [THIRA](https://open.spotify.com/track/4egydfHME98aHJhxcKzKb2) | [draeKo](https://open.spotify.com/artist/66r04nyBXUCeKq9CVk3kaq), [SULTHAN](https://open.spotify.com/artist/2igXuXwesIHwPoEn8hWqkl) | [THIRA](https://open.spotify.com/album/6R76RD5b6TqtsH1ZtFSOLx) | 3:38 | 2025-08-25 |  |
 | [THIRICHARIVU](https://open.spotify.com/track/6pcncqvQOTN0g1E9rQ67B7) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk) | [THIRICHARIVU](https://open.spotify.com/album/2n3uTWXYmQiHxftXVNvjFZ) | 2:43 | 2025-06-10 |  |

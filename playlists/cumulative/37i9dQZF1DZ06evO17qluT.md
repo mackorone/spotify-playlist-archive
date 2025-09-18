@@ -4,7 +4,7 @@
 
 > This is BK\. The essential tracks, all in one playlist.
 
-116 songs - 7 hr 33 min
+117 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Regras da Loja](https://open.spotify.com/track/73W3MxxTA0XatZjoETfenP) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [CrimeNow](https://open.spotify.com/artist/7DYmVajG3YuftFMOdBps1g) | [Lógos](https://open.spotify.com/album/50ymvLZKKjwpANkiMd25ll) | 3:50 | 2023-09-18 | 2023-10-11 |
 | [Regras da Loja](https://open.spotify.com/track/71LdNaFuOJBjHVFa7mKHat) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [CrimeNow](https://open.spotify.com/artist/7DYmVajG3YuftFMOdBps1g) | [Lógos](https://open.spotify.com/album/1QvljVqiAvLz66o28XM3wc) | 3:50 | 2024-02-18 | 2024-03-28 |
 | [ROMPEU O COURO.](https://open.spotify.com/track/6aboy6b50nYKU7gW7RPXU1) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv) | [Assim Tocam os MEUS TAMBORES](https://open.spotify.com/album/0iU74EJRxkNbobROM1bKiP) | 4:30 | 2023-09-18 | 2025-01-30 |
+| [Saturno](https://open.spotify.com/track/0NhspKUShMWkPz1RnFyNeX) | [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Saturno](https://open.spotify.com/album/1bUwo2rcqeWHbH1mRPHgmj) | 3:01 | 2025-09-18 |  |
 | [Se eu não lembrar](https://open.spotify.com/track/2Pwb1vbghtrkNBNVzlNf7N) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:57 | 2023-09-18 |  |
 | [Segundo Andar](https://open.spotify.com/track/1yCRKdKQzfT0Yc8bQU35OF) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Segundo Andar](https://open.spotify.com/album/4nm7SKKXzMr6p098vzJOKh) | 3:54 | 2023-09-18 | 2023-12-19 |
 | [Sem os Verme Pra Secar](https://open.spotify.com/track/1ONugqqe4UTv82uA2dGkMA) | [Pirâmide Perdida](https://open.spotify.com/artist/4lJ000HqAKrfAehIP2XENM), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Pirâmide Perdida \(Vol\. 7\)](https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE) | 3:00 | 2024-03-26 | 2024-03-29 |

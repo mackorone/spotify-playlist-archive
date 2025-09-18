@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Loaded Honey
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,970 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,075 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 99 | [Need You Again \(feat\. Say She She\)](https://open.spotify.com/track/0QYtZlAMNwyIWSxqa11Bi4) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3), [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Need You Again](https://open.spotify.com/album/0aE3ZsLOeR1jvZoboJSVmW) | 4:28 |
 | 100 | [Let's Stay Together](https://open.spotify.com/track/6kttTC4qm7W8CTfOLcMrMG) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Muscle Shoals](https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt) | 3:02 |
 
-Snapshot ID: `AAAAACVf8kwAy+gPZVeeNXQekFnbuet5`
+Snapshot ID: `AAAAAIuy0aQPFwZdy+BNZquufmPHzIPr`

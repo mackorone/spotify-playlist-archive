@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: Jamie xx",
-  "num_followers": 73912,
+  "num_followers": 73918,
   "original_name": "Editors' picks: Best Electronic Songs of 2024",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Half Alive",
+        "url": "https://open.spotify.com/album/6yKFZg4f9lFfEQ0cPNqFgY"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "duration_ms": 212927,
+      "name": "Half Alive",
+      "url": "https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Sweet Devotion",
         "url": "https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 207895,
       "name": "Sweet Devotion - Edit",
       "url": "https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Half Alive",
-        "url": "https://open.spotify.com/album/6yKFZg4f9lFfEQ0cPNqFgY"
-      },
-      "artists": [
-        {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
-        }
-      ],
-      "duration_ms": 212927,
-      "name": "Half Alive",
-      "url": "https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe"
     },
     {
       "added_at": "2024-12-04 12:15:00",

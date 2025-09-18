@@ -245,6 +245,24 @@
     },
     {
       "album": {
+        "name": "Ao Mar e ao Vento",
+        "url": "https://open.spotify.com/album/6eZpekST8g6b2qWWffKX5V"
+      },
+      "artists": [
+        {
+          "name": "Marcio Philomena",
+          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312716,
+      "name": "Ao Mar e ao Vento",
+      "url": "https://open.spotify.com/track/1ELY4E0azE57lSuw5K55YJ"
+    },
+    {
+      "album": {
         "name": "Gilbertos Samba",
         "url": "https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV"
       },
@@ -364,7 +382,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 263208,
       "name": "Astra",
       "url": "https://open.spotify.com/track/2Qo0025pMUTB00Hqm9KVRZ"
@@ -1775,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "Floripa",
+        "url": "https://open.spotify.com/album/3Z7vrabrKS7jf4arzq0m3t"
+      },
+      "artists": [
+        {
+          "name": "Las Almas Nuevas",
+          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238163,
+      "name": "Floripa",
+      "url": "https://open.spotify.com/track/3rIYiMtqjyHj8P12mPi4pI"
+    },
+    {
+      "album": {
         "name": "The Shadow Of Your Smile",
         "url": "https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9"
       },
@@ -2462,7 +2498,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 148146,
       "name": "Jo\u00e3ozinho Boa Pinta",
       "url": "https://open.spotify.com/track/1cqaZpuQpbrPQGzcnPPHfB"
@@ -2534,7 +2570,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 165061,
       "name": "Know About This",
       "url": "https://open.spotify.com/track/5MqmmihJnGYFs3rXjeAlVY"
@@ -2850,7 +2886,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 330546,
       "name": "Morning Of The Carnival - From \"Black Orpheus\"",
       "url": "https://open.spotify.com/track/6GQ6rapsknPIutGbpv0DTR"
@@ -3222,7 +3258,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 252228,
       "name": "Oliven\u00e7a",
       "url": "https://open.spotify.com/track/0CjpaIrrl0rEs2Y6kyncyq"
@@ -3531,6 +3567,24 @@
     },
     {
       "album": {
+        "name": "Planos Secretos",
+        "url": "https://open.spotify.com/album/0sTg4UcLvPpJGQ1dSX6hF5"
+      },
+      "artists": [
+        {
+          "name": "Sara Santos",
+          "url": "https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208937,
+      "name": "Planos Secretos",
+      "url": "https://open.spotify.com/track/6GAT5PHjMg6JtwmiDcTWl4"
+    },
+    {
+      "album": {
         "name": "Letra & M\u00fasica Ary Barroso \u2013 Rosa Passos e Lula Galv\u00e3o",
         "url": "https://open.spotify.com/album/24mfpDgch1Xr8qzJuqUi1Q"
       },
@@ -3614,7 +3668,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 397571,
       "name": "Press\u00e1gio",
       "url": "https://open.spotify.com/track/5BdyZTa9TXXdLfOvvwhgGH"
@@ -3858,7 +3912,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 338200,
       "name": "Samba Cantina",
       "url": "https://open.spotify.com/track/1Yimq2iZciRfLDDdeGnhiA"
@@ -3956,7 +4010,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 208893,
       "name": "Samba E Amor",
       "url": "https://open.spotify.com/track/1uBwJa5DlgwteCuTclf2sJ"
@@ -5054,7 +5108,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 292933,
       "name": "Voce Vai Ver",
       "url": "https://open.spotify.com/track/6TYGxl1FiKz2R9BosMN4WM"

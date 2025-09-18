@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: No Doubt",
-  "num_followers": 1458972,
+  "num_followers": 1459230,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
-        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 271533,
-      "name": "Ode To My Family",
-      "url": "https://open.spotify.com/track/5kcsc92tGAjS0uvhDY3Mok"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "You Can't Stop The Bum Rush",
         "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
       },
@@ -907,22 +891,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Fashion Nugget",
-        "url": "https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90"
-      },
-      "artists": [
-        {
-          "name": "CAKE",
-          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/0fsz7tJ7UKXT9hliLfO7aE"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Jagged Little Pill (2015 Remaster)",
         "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
@@ -935,6 +903,38 @@
       "duration_ms": 239640,
       "name": "You Learn - 2015 Remaster",
       "url": "https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 271533,
+      "name": "Ode To My Family",
+      "url": "https://open.spotify.com/track/5kcsc92tGAjS0uvhDY3Mok"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Fashion Nugget",
+        "url": "https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90"
+      },
+      "artists": [
+        {
+          "name": "CAKE",
+          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/0fsz7tJ7UKXT9hliLfO7aE"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1227,38 +1227,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Travelogue: Blues Traveler Classics",
-        "url": "https://open.spotify.com/album/6Rro4SnGlmVE4uzc2EIo2I"
-      },
-      "artists": [
-        {
-          "name": "Blues Traveler",
-          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
-        }
-      ],
-      "duration_ms": 280093,
-      "name": "Run-Around",
-      "url": "https://open.spotify.com/track/3y8rEUEUdmAcPCpPoLotnO"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
-        "name": "The Best Of / 20th Century Masters The Millennium Collection",
-        "url": "https://open.spotify.com/album/73dMmmMMWYjmCnGj1OgvIR"
-      },
-      "artists": [
-        {
-          "name": "Rusted Root",
-          "url": "https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB"
-        }
-      ],
-      "duration_ms": 261706,
-      "name": "Send Me On My Way",
-      "url": "https://open.spotify.com/track/4yshHBPp0MoVynV1sMCKV3"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Outside Looking In: The Best Of The Gin Blossoms",
         "url": "https://open.spotify.com/album/4lTXWu1mQo8m8BKwU8Rp6f"
       },
@@ -1287,6 +1255,38 @@
       "duration_ms": 207546,
       "name": "Beautiful Girl",
       "url": "https://open.spotify.com/track/6N81xlWzMaEYhjHry55OSI"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "The Best Of / 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/73dMmmMMWYjmCnGj1OgvIR"
+      },
+      "artists": [
+        {
+          "name": "Rusted Root",
+          "url": "https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB"
+        }
+      ],
+      "duration_ms": 261706,
+      "name": "Send Me On My Way",
+      "url": "https://open.spotify.com/track/4yshHBPp0MoVynV1sMCKV3"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Travelogue: Blues Traveler Classics",
+        "url": "https://open.spotify.com/album/6Rro4SnGlmVE4uzc2EIo2I"
+      },
+      "artists": [
+        {
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
+        }
+      ],
+      "duration_ms": 280093,
+      "name": "Run-Around",
+      "url": "https://open.spotify.com/track/3y8rEUEUdmAcPCpPoLotnO"
     },
     {
       "added_at": "2024-06-26 02:07:58",

@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 159244,
+  "num_followers": 159256,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -55,6 +55,30 @@
     {
       "added_at": "2025-09-12 17:53:54",
       "album": {
+        "name": "Me Pede",
+        "url": "https://open.spotify.com/album/4ocTbAztiGLSzyZzFHHkq5"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "LKAHH",
+          "url": "https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw"
+        }
+      ],
+      "duration_ms": 156090,
+      "name": "Me Pede",
+      "url": "https://open.spotify.com/track/5XZeb44ubop1TqtpZy6tlc"
+    },
+    {
+      "added_at": "2025-09-12 17:53:54",
+      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
       },
@@ -79,30 +103,6 @@
       "duration_ms": 250434,
       "name": "Madrugada \u00e9 Solid\u00e3o",
       "url": "https://open.spotify.com/track/6WmASz2D2nydllhQzNxTOU"
-    },
-    {
-      "added_at": "2025-09-12 17:53:54",
-      "album": {
-        "name": "Me Pede",
-        "url": "https://open.spotify.com/album/4ocTbAztiGLSzyZzFHHkq5"
-      },
-      "artists": [
-        {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "LKAHH",
-          "url": "https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw"
-        }
-      ],
-      "duration_ms": 156090,
-      "name": "Me Pede",
-      "url": "https://open.spotify.com/track/5XZeb44ubop1TqtpZy6tlc"
     },
     {
       "added_at": "2025-09-12 17:53:54",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-09-12 17:53:54",
       "album": {
+        "name": "De Longe. (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
+      },
+      "artists": [
+        {
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+        }
+      ],
+      "duration_ms": 206549,
+      "name": "De Longe. - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
+    },
+    {
+      "added_at": "2025-09-12 17:53:54",
+      "album": {
         "name": "replay",
         "url": "https://open.spotify.com/album/5PvhVMVRXCUyjKrTCfILI4"
       },
@@ -335,22 +351,6 @@
     {
       "added_at": "2025-09-12 17:53:54",
       "album": {
-        "name": "De Longe. (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
-      },
-      "artists": [
-        {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
-        }
-      ],
-      "duration_ms": 206549,
-      "name": "De Longe. - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
-    },
-    {
-      "added_at": "2025-09-12 17:53:54",
-      "album": {
         "name": "UM44K Ac\u00fastico",
         "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
       },
@@ -363,6 +363,46 @@
       "duration_ms": 163492,
       "name": "Pode falar - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
+    },
+    {
+      "added_at": "2025-09-12 17:53:54",
+      "album": {
+        "name": "Eles N\u00e3o Querem",
+        "url": "https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Eles N\u00e3o Querem",
+      "url": "https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V"
+    },
+    {
+      "added_at": "2025-09-12 17:53:54",
+      "album": {
+        "name": "Equa\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC"
+      },
+      "artists": [
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182205,
+      "name": "Equa\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy"
     },
     {
       "added_at": "2025-09-12 17:53:54",
@@ -395,26 +435,6 @@
     {
       "added_at": "2025-09-12 17:53:54",
       "album": {
-        "name": "Equa\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC"
-      },
-      "artists": [
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182205,
-      "name": "Equa\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy"
-    },
-    {
-      "added_at": "2025-09-12 17:53:54",
-      "album": {
         "name": "Modo Foco (Studio Rec #4)",
         "url": "https://open.spotify.com/album/7EeTxr7ArueH6YrQsbG9xw"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 179495,
       "name": "Modo Foco (Studio Rec #4)",
       "url": "https://open.spotify.com/track/1HtbqR0nEMB2tHvGweP8Nl"
-    },
-    {
-      "added_at": "2025-09-12 17:53:54",
-      "album": {
-        "name": "Eles N\u00e3o Querem",
-        "url": "https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "TerrorDosBeats",
-          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Eles N\u00e3o Querem",
-      "url": "https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V"
     },
     {
       "added_at": "2025-09-12 17:53:54",
@@ -795,26 +795,6 @@
     {
       "added_at": "2025-09-12 17:53:54",
       "album": {
-        "name": "Ciclo Vicioso",
-        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        }
-      ],
-      "duration_ms": 206142,
-      "name": "Pegando Carona",
-      "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
-    },
-    {
-      "added_at": "2025-09-12 17:53:54",
-      "album": {
         "name": "Pra Voc\u00ea Ficar",
         "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 160819,
       "name": "Pra Voc\u00ea Ficar",
       "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
+    },
+    {
+      "added_at": "2025-09-12 17:53:54",
+      "album": {
+        "name": "Ciclo Vicioso",
+        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "duration_ms": 206142,
+      "name": "Pegando Carona",
+      "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
     },
     {
       "added_at": "2025-09-12 17:53:54",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2025-09-12 17:53:54",
       "album": {
+        "name": "Nossas M\u00eddias",
+        "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
+      },
+      "artists": [
+        {
+          "name": "Gabziim",
+          "url": "https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6"
+        },
+        {
+          "name": "Sim\u00f8n",
+          "url": "https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Nossas M\u00eddias",
+      "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
+    },
+    {
+      "added_at": "2025-09-12 17:53:54",
+      "album": {
         "name": "Da Ponte Pra C\u00e1 #1 (feat. Caslu, MC FAEL & NK da Grota)",
         "url": "https://open.spotify.com/album/6wcmzpeqUN1xtD8FM7OzTw"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 248275,
       "name": "Da Ponte Pra C\u00e1 #1 (feat. Caslu, MC FAEL & NK da Grota)",
       "url": "https://open.spotify.com/track/5MSbZnRsSX8QIaGAmgVysb"
-    },
-    {
-      "added_at": "2025-09-12 17:53:54",
-      "album": {
-        "name": "Nossas M\u00eddias",
-        "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
-      },
-      "artists": [
-        {
-          "name": "Gabziim",
-          "url": "https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6"
-        },
-        {
-          "name": "Sim\u00f8n",
-          "url": "https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Nossas M\u00eddias",
-      "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
     },
     {
       "added_at": "2025-09-12 17:53:54",

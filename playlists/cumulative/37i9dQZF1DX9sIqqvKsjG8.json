@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 132478,
       "name": "A Lovely Night",
       "url": "https://open.spotify.com/track/1gzHpUQjiXvBW5cagVuWVm"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 146000,
       "name": "A Tiny Wallflower",
       "url": "https://open.spotify.com/track/00PvDazidS7DSFKcKWuhkM"
@@ -4074,7 +4074,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 137000,
       "name": "Emerald",
       "url": "https://open.spotify.com/track/0OpKRZqOmoSCtjfpkOa6Ew"
@@ -4352,7 +4352,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 158124,
       "name": "Evanescent",
       "url": "https://open.spotify.com/track/3pnSEFUzTsRZtb57Pv98vC"
@@ -4460,7 +4460,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 127661,
       "name": "Faded",
       "url": "https://open.spotify.com/track/4C9kR80niObXQuXV2xb430"
@@ -9610,7 +9610,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 144624,
       "name": "No Goodbye",
       "url": "https://open.spotify.com/track/6wnhi4gipABWBE4JNHp7lm"
@@ -12332,7 +12332,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 147524,
       "name": "Secret Meadow",
       "url": "https://open.spotify.com/track/0CtYYa8anV9WcP4R7WEP6c"
@@ -12606,6 +12606,24 @@
       "duration_ms": 169578,
       "name": "silbermond",
       "url": "https://open.spotify.com/track/1sWI71ajS4mERuwG2k5vvD"
+    },
+    {
+      "album": {
+        "name": "Silent Garden",
+        "url": "https://open.spotify.com/album/50SOQ3qzKnbgbDDjwOGNz4"
+      },
+      "artists": [
+        {
+          "name": "Cole Neumann",
+          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171601,
+      "name": "Silent Garden",
+      "url": "https://open.spotify.com/track/189qwuSxX6gpsZVkIDfxUV"
     },
     {
       "album": {
@@ -14512,7 +14530,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 127500,
       "name": "The Melting Sun",
       "url": "https://open.spotify.com/track/1fFEpC7OcocrA4zqrWMSlP"
@@ -14746,7 +14764,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 129817,
       "name": "The Still",
       "url": "https://open.spotify.com/track/17C3G5g7bBxxRAe6XVWxHA"
@@ -15816,6 +15834,24 @@
       "duration_ms": 198994,
       "name": "Vaguely Reminiscent",
       "url": "https://open.spotify.com/track/3PJLOitvkwc2NXlqOYmd4C"
+    },
+    {
+      "album": {
+        "name": "valse de la fille",
+        "url": "https://open.spotify.com/album/7joqEdM1MFBHHja8R2sV6Q"
+      },
+      "artists": [
+        {
+          "name": "Adrien Anvi\u00e9r",
+          "url": "https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154358,
+      "name": "valse de la fille",
+      "url": "https://open.spotify.com/track/7fxJDIIC14LZjmbtRr4lsM"
     },
     {
       "album": {
@@ -17004,6 +17040,24 @@
       "duration_ms": 172874,
       "name": "You Are That",
       "url": "https://open.spotify.com/track/6Rm2rBWk3flMMGPdxASdaU"
+    },
+    {
+      "album": {
+        "name": "You Just Know",
+        "url": "https://open.spotify.com/album/69Hq0iuX0oaa6ORM3zKttQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Dell",
+          "url": "https://open.spotify.com/artist/7nQzEyE1TWkfthJfE0fs43"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153677,
+      "name": "You Just Know",
+      "url": "https://open.spotify.com/track/4aXCcYaUb2HRM7g7tZwidQ"
     },
     {
       "album": {

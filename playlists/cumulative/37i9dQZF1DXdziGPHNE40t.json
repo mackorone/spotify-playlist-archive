@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-20",
-  "description": "start your day right \u2615\ufe0f wake up with some calm and cool Jazz",
-  "name": "slow mornings",
+  "description": "start your day right \u2615\ufe0f wake up with some calm and slow Jazz",
+  "name": "Jazzy Morning",
   "tracks": [
     {
       "album": {
@@ -708,7 +708,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 236170,
       "name": "Amenity",
       "url": "https://open.spotify.com/track/22ST1wR1gV2twZd5Ylr8Ln"
@@ -11758,6 +11758,24 @@
       "duration_ms": 198358,
       "name": "Twilight's Last Waltz",
       "url": "https://open.spotify.com/track/5fc8RLe4x7bgwnqZOWZqVt"
+    },
+    {
+      "album": {
+        "name": "Undoing",
+        "url": "https://open.spotify.com/album/3H1ccamqL8ojjJItdY4rPW"
+      },
+      "artists": [
+        {
+          "name": "Luke Marantz Trio",
+          "url": "https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199169,
+      "name": "Undoing",
+      "url": "https://open.spotify.com/track/45UFtP15tBNW9HFjnTbzgG"
     },
     {
       "album": {

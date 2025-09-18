@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3o9eExibzaT.md) - [plain]
 
 > It's a wonderful lie\. Listen to the music from and inspired by Big Little Lies, all episode streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,437 likes - 84 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,462 likes - 84 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

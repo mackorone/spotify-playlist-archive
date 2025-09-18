@@ -4,7 +4,7 @@
 
 > พบคนคลั่งรักหลายอัตราที่เพลย์ลิสต์นี้!
 
-218 songs - 13 hr 23 min
+219 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/track/58ViLaYQWchYq9vMfW5Prk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk) | 3:27 | 2023-02-10 |  |
 | [หมอนอิง \(Anything\)](https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [หมอนอิง \(Anything\)](https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL) | 3:38 | 2023-10-06 | 2025-03-22 |
 | [หลับไม่ฝัน \(Sleep Tight\)](https://open.spotify.com/track/3Zm6ydHdqWKx4PkqMOddIq) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [หลับไม่ฝัน \(Sleep Tight\)](https://open.spotify.com/album/6Z1bPXBVelf3jQc4esbRo5) | 2:50 | 2025-03-05 | 2025-03-15 |
-| [หวง \(You're Mine\)](https://open.spotify.com/track/5t2958ghc1UIUovv1pqMl3) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [หวง \(You're Mine\)](https://open.spotify.com/album/4oWwhDTfbza1oR6DXlkFSH) | 3:36 | 2025-08-17 |  |
+| [หวง \(You're Mine\)](https://open.spotify.com/track/5t2958ghc1UIUovv1pqMl3) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [หวง \(You're Mine\)](https://open.spotify.com/album/4oWwhDTfbza1oR6DXlkFSH) | 3:36 | 2025-08-17 | 2025-09-18 |
 | [หวง\(You're Mine\)](https://open.spotify.com/track/0fHmpM00nb8arza6MMvM6i) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [หวง\(You're Mine\)](https://open.spotify.com/album/63GllsPcsHzVIelwhn5ZDa) | 3:36 | 2023-02-10 | 2024-04-19 |
 | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/track/6vAH43fkKUA2Ysgf7jIw6R) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [สยาโม](https://open.spotify.com/artist/4AJ2vsPrlHwJMpGB4RHuvG) | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/album/0E2eCd2zuv1Iuk4MnKdros) | 3:05 | 2025-03-21 |  |
 | [หากเธอเคยรักใคร \(IF YOU LOVE\)](https://open.spotify.com/track/08OtCoRVu0sHp8dmCddtvg) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC), [Koen](https://open.spotify.com/artist/0Uz2jjlCiSOpsxSD7qOEB0) | [หากเธอเคยรักใคร \(IF YOU LOVE\)](https://open.spotify.com/album/49h8RHuCZSrOZKqsE9q8JM) | 3:35 | 2023-02-10 | 2025-03-22 |
@@ -223,6 +223,7 @@
 | [ใจสมใจ](https://open.spotify.com/track/7CM0OhKIeDodf450PiVEhB) | [TheChanisara](https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox) | [ใจสมใจ](https://open.spotify.com/album/2E3NsLtnddsqzTAXGy58BI) | 3:16 | 2024-03-16 |  |
 | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 | 2023-02-10 | 2024-08-24 |
 | [ใจเดียว](https://open.spotify.com/track/4OZjDh3pxthm3Ig9Fs7C7N) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ใจเดียว](https://open.spotify.com/album/6aC3OBM7rpD1gAzF4oZfxl) | 3:49 | 2023-02-10 |  |
+| [ไม่คิด](https://open.spotify.com/track/2tnqncsjgyccckWm6hHutQ) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [ไม่คิด \- Single](https://open.spotify.com/album/4LCkqfMAnt4LABq3GUrMk9) | 3:28 | 2025-08-17 |  |
 | [ไม่ปล่อยมือ \(Coming of Age\) \- From แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/track/3aqxAWiWENQZ1pSY3o0Q86) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [แปลรักฉันด้วยใจเธอ \(The Original Soundtrack\)](https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh) | 4:25 | 2023-02-10 | 2023-10-07 |
 | [ไม่มีตรงกลาง](https://open.spotify.com/track/6otJyteHTgYanrd812Z3eM) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 4:53 | 2024-08-23 | 2024-12-28 |
 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 | 2024-01-16 |  |

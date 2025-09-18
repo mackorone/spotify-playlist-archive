@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Coi Leray, Drake, Polo G and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,877 likes - 51 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,940 likes - 51 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 6 | [AP Freestyle](https://open.spotify.com/track/6s0omAiJpLcMWdbCCJbG6s) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [AP Freestyle](https://open.spotify.com/album/3NDWj9V9tP41LSc1JyE3c7) | 1:58 |
 | 7 | [Eatcha Beatcha](https://open.spotify.com/track/4Drf6OvnI5IYz4EezDzfDD) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Eatcha Beatcha](https://open.spotify.com/album/7vVDt3q2f1btLI7wJZPHW3) | 2:27 |
 | 8 | [It Get Deeper Pt\. 3 \(with Doughboy Clay\)](https://open.spotify.com/track/2UftRQxBVi0hcdpTZMppD1) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Doughboy Clay](https://open.spotify.com/artist/7cwxgRf1sVsGTg0Dr8Njzo) | [It Get Deeper Pt\. 3 \(with Doughboy Clay\)](https://open.spotify.com/album/4USC8g2dANqI6XCAHii83Y) | 2:55 |
-| 9 | [DADE \(feat\. Key Glock\)](https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [DADE \(feat\. Key Glock\)](https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad) | 1:44 |
+| 9 | [DADE](https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [DADE](https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad) | 1:44 |
 | 10 | [Young Player \(feat\. Larry June\)](https://open.spotify.com/track/2NhCzPc8TE47coY2HOQd5W) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Young Player \(feat\. Larry June\)](https://open.spotify.com/album/1fAL3nOjRmVjDtnoQ5P0UX) | 2:46 |
 | 11 | [Lisp](https://open.spotify.com/track/60IM9cGuF3Y9nSz25La1zB) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Lisp](https://open.spotify.com/album/7Br73jFEjwn7r9VN6SDKtB) | 2:48 |
 | 12 | [Onnat Tymin](https://open.spotify.com/track/3bssAHt7NVCxYOb1DquvcV) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu), [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Onnat Tymin](https://open.spotify.com/album/2OLLBivVfhwb9IMw4BYfsS) | 2:20 |

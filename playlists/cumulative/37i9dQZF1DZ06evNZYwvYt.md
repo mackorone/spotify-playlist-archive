@@ -4,7 +4,7 @@
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-135 songs - 9 hr 34 min
+136 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [Virtual](https://open.spotify.com/track/1afgmeS7U1Afi5Fz3dzFxA) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3dQZ49XGlRucPFOwbjpykT) | 4:02 | 2025-04-14 | 2025-05-13 |
 | [Virtual](https://open.spotify.com/track/3RsdLfvSVFZn74haerjDfY) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk) | 4:02 | 2025-05-13 |  |
 | [Yo lloraré por ti](https://open.spotify.com/track/4i4AiJzaAMMkW6P02hwp4R) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:50 | 2022-09-16 | 2025-04-16 |
-| [Yo lloraré por ti](https://open.spotify.com/track/4p6hlGrY5csRPoPq0QZ421) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl) | 3:50 | 2025-04-16 |  |
+| [Yo Lloraré Por Ti](https://open.spotify.com/track/4n01Y1FkuhXPRFnbP9YOjV) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg) | 3:50 | 2025-09-18 |  |
+| [Yo lloraré por ti](https://open.spotify.com/track/4p6hlGrY5csRPoPq0QZ421) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/6zRZN2pVvhHgIiJwDWnYkl) | 3:50 | 2025-04-16 | 2025-09-18 |
 | [Zona de promesas](https://open.spotify.com/track/0lNlxx9ZbsnXqbmgylFALP) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Te Veré Volver \- Tributo Chileno a Cerati \(Disco 2\)](https://open.spotify.com/album/2WO40wVGEPnYKpSYhoM0Z6) | 4:47 | 2022-09-18 | 2023-07-21 |
 | [Zona de Promesas](https://open.spotify.com/track/4rrPKDbLso4ULMJantCqKQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Te Veré Volver](https://open.spotify.com/album/2CahCULExuW3iofQgmRPyZ) | 4:47 | 2025-08-26 |  |
 

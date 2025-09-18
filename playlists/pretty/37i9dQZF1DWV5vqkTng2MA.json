@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Kokoroko",
-  "num_followers": 426354,
+  "num_followers": 426371,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,26 @@
     {
       "added_at": "2025-07-25 04:00:40",
       "album": {
+        "name": "Burn It Down",
+        "url": "https://open.spotify.com/album/0zklM830YV4KCwY2Oc3RxN"
+      },
+      "artists": [
+        {
+          "name": "Jason Eady",
+          "url": "https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV"
+        },
+        {
+          "name": "Taylor Hunnicutt",
+          "url": "https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp"
+        }
+      ],
+      "duration_ms": 146520,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/3We5tUcKQ3CW6r8K9kvwxG"
+    },
+    {
+      "added_at": "2025-07-25 04:00:40",
+      "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 201000,
       "name": "Summer Sun",
       "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
-    },
-    {
-      "added_at": "2025-07-25 04:00:40",
-      "album": {
-        "name": "Burn It Down",
-        "url": "https://open.spotify.com/album/0zklM830YV4KCwY2Oc3RxN"
-      },
-      "artists": [
-        {
-          "name": "Jason Eady",
-          "url": "https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV"
-        },
-        {
-          "name": "Taylor Hunnicutt",
-          "url": "https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp"
-        }
-      ],
-      "duration_ms": 146520,
-      "name": "Burn It Down",
-      "url": "https://open.spotify.com/track/3We5tUcKQ3CW6r8K9kvwxG"
     },
     {
       "added_at": "2025-07-25 04:00:40",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-07-25 04:00:40",
       "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 166106,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
-    },
-    {
-      "added_at": "2025-07-25 04:00:40",
-      "album": {
         "name": "Every Night",
         "url": "https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 174735,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo"
+    },
+    {
+      "added_at": "2025-07-25 04:00:40",
+      "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 166106,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
     },
     {
       "added_at": "2025-07-25 04:00:40",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-07-25 04:00:40",
       "album": {
-        "name": "Madelyn",
-        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 195413,
-      "name": "Madelyn",
-      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
-    },
-    {
-      "added_at": "2025-07-25 04:00:40",
-      "album": {
         "name": "Aviary: Act 1",
         "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 222937,
       "name": "Slipping",
       "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
+    },
+    {
+      "added_at": "2025-07-25 04:00:40",
+      "album": {
+        "name": "Madelyn",
+        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "Madelyn",
+      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
     },
     {
       "added_at": "2025-07-25 04:00:40",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-07-25 04:00:40",
       "album": {
-        "name": "Hey Mama",
-        "url": "https://open.spotify.com/album/1E8uKGrYVGpNb7cGRg62ma"
-      },
-      "artists": [
-        {
-          "name": "Great Caesar",
-          "url": "https://open.spotify.com/artist/4R2xkQL6chRRTgUQ1Xgaf1"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "Hey Mama",
-      "url": "https://open.spotify.com/track/5KlVIOeSrcVTZoasODK3W5"
-    },
-    {
-      "added_at": "2025-07-25 04:00:40",
-      "album": {
         "name": "Darlin'",
         "url": "https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 178626,
       "name": "Darlin\u2019",
       "url": "https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1"
+    },
+    {
+      "added_at": "2025-07-25 04:00:40",
+      "album": {
+        "name": "Hey Mama",
+        "url": "https://open.spotify.com/album/1E8uKGrYVGpNb7cGRg62ma"
+      },
+      "artists": [
+        {
+          "name": "Great Caesar",
+          "url": "https://open.spotify.com/artist/4R2xkQL6chRRTgUQ1Xgaf1"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/5KlVIOeSrcVTZoasODK3W5"
     },
     {
       "added_at": "2025-07-25 04:00:40",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-07-25 04:00:40",
       "album": {
-        "name": "Watermelon Oranges",
-        "url": "https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/19KpAubI0RsVw5AZjvnDGk"
-        }
-      ],
-      "duration_ms": 207613,
-      "name": "Don't Please Yourself",
-      "url": "https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt"
-    },
-    {
-      "added_at": "2025-07-25 04:00:40",
-      "album": {
         "name": "It Must Change",
         "url": "https://open.spotify.com/album/5osjby3YTPk2tEhRW2uJqk"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 295013,
       "name": "It Must Change",
       "url": "https://open.spotify.com/track/6jbfEdpOd0X5e756Yu7Hz0"
+    },
+    {
+      "added_at": "2025-07-25 04:00:40",
+      "album": {
+        "name": "Watermelon Oranges",
+        "url": "https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/19KpAubI0RsVw5AZjvnDGk"
+        }
+      ],
+      "duration_ms": 207613,
+      "name": "Don't Please Yourself",
+      "url": "https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt"
     },
     {
       "added_at": "2025-07-25 04:00:40",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-07-25 04:00:40",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
-      },
-      "artists": [
-        {
-          "name": "The Main Squeeze",
-          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
-        }
-      ],
-      "duration_ms": 237587,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
-    },
-    {
-      "added_at": "2025-07-25 04:00:40",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/58m6x0iCKILGzU5jNlN2C0"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 213733,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/4vmgP10TH0YYqJkzr8yLW0"
+    },
+    {
+      "added_at": "2025-07-25 04:00:40",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
+      },
+      "artists": [
+        {
+          "name": "The Main Squeeze",
+          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
+        }
+      ],
+      "duration_ms": 237587,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
     },
     {
       "added_at": "2025-07-25 04:00:40",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-07-25 04:00:40",
       "album": {
-        "name": "Waterfallin'",
-        "url": "https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bazini",
-          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
-        }
-      ],
-      "duration_ms": 224266,
-      "name": "Waterfallin'",
-      "url": "https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM"
-    },
-    {
-      "added_at": "2025-07-25 04:00:40",
-      "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 192066,
       "name": "Blown Away",
       "url": "https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48"
+    },
+    {
+      "added_at": "2025-07-25 04:00:40",
+      "album": {
+        "name": "Waterfallin'",
+        "url": "https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bazini",
+          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
+        }
+      ],
+      "duration_ms": 224266,
+      "name": "Waterfallin'",
+      "url": "https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM"
     },
     {
       "added_at": "2025-07-25 04:00:40",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2025-07-25 04:00:40",
       "album": {
+        "name": "Love You Anyway",
+        "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "Better Broken",
+      "url": "https://open.spotify.com/track/5ZnKdLTwacoAF8Ek7BVOOs"
+    },
+    {
+      "added_at": "2025-07-25 04:00:40",
+      "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/2GO7e9574zybPdj3bU3Kav"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 289080,
       "name": "Rolling Over Me",
       "url": "https://open.spotify.com/track/4EEsdIs0QGcO5Dc8QQH3Mm"
-    },
-    {
-      "added_at": "2025-07-25 04:00:40",
-      "album": {
-        "name": "Love You Anyway",
-        "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "Better Broken",
-      "url": "https://open.spotify.com/track/5ZnKdLTwacoAF8Ek7BVOOs"
     }
   ],
   "unique_name": "the new retro",

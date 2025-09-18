@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-298 songs - 13 hr 5 min
+300 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2022-05-27 | 2025-04-10 |
 | [Connemara](https://open.spotify.com/track/7JinB2F0516WbcPMtFepu6) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Connemara](https://open.spotify.com/album/5OkQ447PqYUX6t0zwSIhND) | 3:07 | 2022-05-27 | 2024-04-04 |
 | [Consideration](https://open.spotify.com/track/65lddH3h121XMhXaVkazVG) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Anarekli](https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N), [Iasamani](https://open.spotify.com/artist/6AdGVwkv68xlsPwV2KvEF8) | [Consideration](https://open.spotify.com/album/0ogzhXsphb7JCFdSg3dRc6) | 2:27 | 2023-04-05 |  |
+| [consolation](https://open.spotify.com/track/4wjEcvWf8ynGLJDxFTG7sZ) | [Félix Frays](https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p) | [consolation](https://open.spotify.com/album/7LORbuNBK0aO9InBE8gFbY) | 2:37 | 2025-09-17 |  |
 | [Conversus Caelum](https://open.spotify.com/track/1gmOOlVYyexhtuPqMvdZVH) | [Gregory Velvet](https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm) | [Conversus Caelum](https://open.spotify.com/album/4dg0Gjf5S33NuhGOR9xBkY) | 2:33 | 2025-05-02 | 2025-05-14 |
 | [Coolidge](https://open.spotify.com/track/7GOh8ao0Eiagy8av0dj8AF) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Coolidge](https://open.spotify.com/album/0kPJUFSeRLG1eVr1mdtHtl) | 2:16 | 2024-11-19 |  |
 | [Cosmos](https://open.spotify.com/track/3e1WYfmlGZvuwiwJRZ9x0f) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Cosmos](https://open.spotify.com/album/37tKu5bgF6LBrwAySLKpOd) | 2:39 | 2022-05-27 | 2025-05-22 |
@@ -209,6 +210,7 @@
 | [Resplendence](https://open.spotify.com/track/5k9AFzNbx9ODY0VRgz3uWw) | [Léa Corbelin](https://open.spotify.com/artist/3KgeRFcUTiziAZMG1uedIE) | [Resplendence](https://open.spotify.com/album/4Bz9JY3wKoFL6zAAIL5uat) | 2:54 | 2022-05-27 | 2025-01-23 |
 | [Reverie](https://open.spotify.com/track/58iu44DB0JdKTGXYfbIYMA) | [Yuko Kimura](https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn) | [Reverie](https://open.spotify.com/album/6UI7QQxBRpKU8lstoM4ncP) | 2:30 | 2024-03-05 | 2025-04-10 |
 | [Romanzo](https://open.spotify.com/track/61TS7LURuPHVDdVsuWvxfC) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Romanzo](https://open.spotify.com/album/3hV54JZiq0la65AY4KXB4J) | 2:03 | 2023-09-05 |  |
+| [rose](https://open.spotify.com/track/6MnZYdwZQ42JTat9wH7Zfz) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [rose](https://open.spotify.com/album/5GHnVV6bXReFjIUFAuowEE) | 2:38 | 2025-09-17 |  |
 | [Rowan's Lullaby](https://open.spotify.com/track/2Q5J3fYP2cPXDQwCsS0OkT) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Hymn](https://open.spotify.com/album/3Ib3ew2pm5a2UOmAAbn7QC) | 1:56 | 2022-05-27 | 2024-04-10 |
 | [Rêvasser](https://open.spotify.com/track/2rBLJwsNjWvSx0yVAQLc3B) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Rêvasser](https://open.spotify.com/album/0xnlKa5rkGsf3r93ULxb3l) | 3:29 | 2022-05-27 | 2022-07-28 |
 | [Sage](https://open.spotify.com/track/1sCQoXgqRoLpOxyEJm33CF) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [Sage](https://open.spotify.com/album/4Acn8dG40Z2vNpXBtQ3El5) | 1:58 | 2024-08-16 | 2025-04-05 |

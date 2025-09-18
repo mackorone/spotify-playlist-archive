@@ -1,6 +1,6 @@
 {
   "description": "Appreciate the many miracles around you with these songs of worship.",
-  "num_followers": 231864,
+  "num_followers": 231902,
   "original_name": "Miracles",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
+        "name": "Offerings II: All I Have to Give",
+        "url": "https://open.spotify.com/album/4TDlKYbi6YxSphRYPMMe3k"
+      },
+      "artists": [
+        {
+          "name": "Third Day",
+          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
+        }
+      ],
+      "duration_ms": 279173,
+      "name": "God of Wonders",
+      "url": "https://open.spotify.com/track/0TkFpOjGJCjmXJyDHC56Sh"
+    },
+    {
+      "added_at": "2025-09-14 09:26:33",
+      "album": {
         "name": "Worship Through It",
         "url": "https://open.spotify.com/album/20n1fFSb2Wrqs6pjwqKZEg"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 220133,
       "name": "Worship Through It",
       "url": "https://open.spotify.com/track/0WE0lN2uFCg4ojyO2ryq9I"
-    },
-    {
-      "added_at": "2025-09-14 09:26:33",
-      "album": {
-        "name": "Offerings II: All I Have to Give",
-        "url": "https://open.spotify.com/album/4TDlKYbi6YxSphRYPMMe3k"
-      },
-      "artists": [
-        {
-          "name": "Third Day",
-          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
-        }
-      ],
-      "duration_ms": 279173,
-      "name": "God of Wonders",
-      "url": "https://open.spotify.com/track/0TkFpOjGJCjmXJyDHC56Sh"
     },
     {
       "added_at": "2025-09-14 09:26:33",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
-        "name": "Watch What God Can Do",
-        "url": "https://open.spotify.com/album/6XO8eRVCeK9XsnCuBE81MY"
-      },
-      "artists": [
-        {
-          "name": "Patrick Mayberry",
-          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
-        }
-      ],
-      "duration_ms": 220019,
-      "name": "Watch What God Can Do",
-      "url": "https://open.spotify.com/track/0082DGHpaawqnVyoOZklqz"
-    },
-    {
-      "added_at": "2025-09-14 09:26:33",
-      "album": {
         "name": "The Garden",
         "url": "https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 300933,
       "name": "Heal Our Land",
       "url": "https://open.spotify.com/track/51RuKnh1Fec9pZtKOVbO28"
+    },
+    {
+      "added_at": "2025-09-14 09:26:33",
+      "album": {
+        "name": "Watch What God Can Do",
+        "url": "https://open.spotify.com/album/6XO8eRVCeK9XsnCuBE81MY"
+      },
+      "artists": [
+        {
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+        }
+      ],
+      "duration_ms": 220019,
+      "name": "Watch What God Can Do",
+      "url": "https://open.spotify.com/track/0082DGHpaawqnVyoOZklqz"
     },
     {
       "added_at": "2025-09-14 09:26:33",
@@ -775,26 +775,6 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
-        "name": "Center of Your Love",
-        "url": "https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL"
-      },
-      "artists": [
-        {
-          "name": "Upper Room Music",
-          "url": "https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf"
-        },
-        {
-          "name": "Meredith Mauldin",
-          "url": "https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y"
-        }
-      ],
-      "duration_ms": 488800,
-      "name": "Jesus, Come Be the Center (feat. Meredith Mauldin)",
-      "url": "https://open.spotify.com/track/019bUsr4PoAECWZr49KaVJ"
-    },
-    {
-      "added_at": "2025-09-14 09:26:33",
-      "album": {
         "name": "Greater Things",
         "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 431933,
       "name": "To The End",
       "url": "https://open.spotify.com/track/7qKk8olaMUdcOTcU3Txl34"
+    },
+    {
+      "added_at": "2025-09-14 09:26:33",
+      "album": {
+        "name": "Center of Your Love",
+        "url": "https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL"
+      },
+      "artists": [
+        {
+          "name": "Upper Room Music",
+          "url": "https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf"
+        },
+        {
+          "name": "Meredith Mauldin",
+          "url": "https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y"
+        }
+      ],
+      "duration_ms": 488800,
+      "name": "Jesus, Come Be the Center (feat. Meredith Mauldin)",
+      "url": "https://open.spotify.com/track/019bUsr4PoAECWZr49KaVJ"
     },
     {
       "added_at": "2025-09-14 09:26:33",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
-        "name": "Hello Maker",
-        "url": "https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j"
-      },
-      "artists": [
-        {
-          "name": "Bright City",
-          "url": "https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR"
-        }
-      ],
-      "duration_ms": 300854,
-      "name": "Rock of Our Salvation",
-      "url": "https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX"
-    },
-    {
-      "added_at": "2025-09-14 09:26:33",
-      "album": {
         "name": "Praise Before My Breakthrough",
         "url": "https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 226107,
       "name": "Be With Me",
       "url": "https://open.spotify.com/track/51YwIV5laxNugYz32eJIdw"
+    },
+    {
+      "added_at": "2025-09-14 09:26:33",
+      "album": {
+        "name": "Hello Maker",
+        "url": "https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j"
+      },
+      "artists": [
+        {
+          "name": "Bright City",
+          "url": "https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR"
+        }
+      ],
+      "duration_ms": 300854,
+      "name": "Rock of Our Salvation",
+      "url": "https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX"
     },
     {
       "added_at": "2025-09-14 09:26:33",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
-        "name": "Wonder of Our God",
-        "url": "https://open.spotify.com/album/4YTJdZrAc9uy5eOYhCVSCC"
-      },
-      "artists": [
-        {
-          "name": "Victory House Worship",
-          "url": "https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI"
-        }
-      ],
-      "duration_ms": 362988,
-      "name": "Wonder of Our God",
-      "url": "https://open.spotify.com/track/2FN1eGxJVWU7bixnwIqy5P"
-    },
-    {
-      "added_at": "2025-09-14 09:26:33",
-      "album": {
         "name": "God of the Supernatural",
         "url": "https://open.spotify.com/album/1gNQKrBDi0mmlRUx8rwHtC"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 220000,
       "name": "God of the Supernatural",
       "url": "https://open.spotify.com/track/256ai8xPuy4UfBHyLar0rd"
+    },
+    {
+      "added_at": "2025-09-14 09:26:33",
+      "album": {
+        "name": "Wonder of Our God",
+        "url": "https://open.spotify.com/album/4YTJdZrAc9uy5eOYhCVSCC"
+      },
+      "artists": [
+        {
+          "name": "Victory House Worship",
+          "url": "https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI"
+        }
+      ],
+      "duration_ms": 362988,
+      "name": "Wonder of Our God",
+      "url": "https://open.spotify.com/track/2FN1eGxJVWU7bixnwIqy5P"
     },
     {
       "added_at": "2025-09-14 09:26:33",

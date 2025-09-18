@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 947928,
+  "num_followers": 948168,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
-        "name": "Close Eyes",
-        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 132346,
-      "name": "Close Eyes",
-      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
         "name": "MOTINHA 2.0 (Mete Marcha)",
         "url": "https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 118081,
       "name": "MOTINHA 2.0 (Mete Marcha)",
       "url": "https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
+        "name": "Close Eyes",
+        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "duration_ms": 132346,
+      "name": "Close Eyes",
+      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
     },
     {
       "added_at": "2025-07-25 04:00:45",
@@ -635,26 +635,6 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
-        "name": "REAL MOONSHINE FUNK",
-        "url": "https://open.spotify.com/album/23VKm1LeYl3mkHfws8OP7D"
-      },
-      "artists": [
-        {
-          "name": "DJ ROBE",
-          "url": "https://open.spotify.com/artist/3eHYmpvQFLj7Q3g3LYP3OP"
-        },
-        {
-          "name": "TRXSHBXY",
-          "url": "https://open.spotify.com/artist/1lpPb0grX95giST5LLNOuJ"
-        }
-      ],
-      "duration_ms": 94299,
-      "name": "REAL MOONSHINE FUNK - Super Slowed",
-      "url": "https://open.spotify.com/track/05ApNGJtAmmfL9lStfo8kO"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
         "name": "Phonkageddon",
         "url": "https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 265263,
       "name": "NEON BLADE",
       "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
+        "name": "REAL MOONSHINE FUNK",
+        "url": "https://open.spotify.com/album/23VKm1LeYl3mkHfws8OP7D"
+      },
+      "artists": [
+        {
+          "name": "DJ ROBE",
+          "url": "https://open.spotify.com/artist/3eHYmpvQFLj7Q3g3LYP3OP"
+        },
+        {
+          "name": "TRXSHBXY",
+          "url": "https://open.spotify.com/artist/1lpPb0grX95giST5LLNOuJ"
+        }
+      ],
+      "duration_ms": 94299,
+      "name": "REAL MOONSHINE FUNK - Super Slowed",
+      "url": "https://open.spotify.com/track/05ApNGJtAmmfL9lStfo8kO"
     },
     {
       "added_at": "2025-07-25 04:00:45",

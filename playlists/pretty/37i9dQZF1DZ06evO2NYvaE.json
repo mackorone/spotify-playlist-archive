@@ -1,12 +1,12 @@
 {
   "description": "This is Spiritbox. The essential tracks, all in one playlist.",
-  "num_followers": 45229,
+  "num_followers": 45262,
   "original_name": "This Is Spiritbox",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAACmpflR3ZHmoAUMVXzLfxry",
+  "snapshot_id": "aMiogAAAAACgpE7tZy2zBJKFU75QpX65",
   "tracks": [
     {
       "added_at": null,
@@ -83,6 +83,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tsunami Sea",
+        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 239640,
+      "name": "Perfect Soul",
+      "url": "https://open.spotify.com/track/7CoiOXsrfI58wUZBt45HgL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "METAL FORTH",
         "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 200698,
       "name": "My Queen (feat. Spiritbox)",
       "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tsunami Sea",
-        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 239640,
-      "name": "Perfect Soul",
-      "url": "https://open.spotify.com/track/7CoiOXsrfI58wUZBt45HgL"
     },
     {
       "added_at": null,
@@ -151,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blessed Be",
-        "url": "https://open.spotify.com/album/0ZauJNaozUOLRC4kaaWzP5"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 245830,
-      "name": "Blessed Be",
-      "url": "https://open.spotify.com/track/6EJwjtqOu69c0NRAk4RRcA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tsunami Sea",
         "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 183990,
       "name": "Soft Spine",
       "url": "https://open.spotify.com/track/4bkPAARkDov1lV05emEF7a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blessed Be",
+        "url": "https://open.spotify.com/album/0ZauJNaozUOLRC4kaaWzP5"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 245830,
+      "name": "Blessed Be",
+      "url": "https://open.spotify.com/track/6EJwjtqOu69c0NRAk4RRcA"
     },
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rotoscope",
-        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 215362,
-      "name": "Rotoscope",
-      "url": "https://open.spotify.com/track/5LJmf4fMXEvO1PdlCBKwRz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tsunami Sea",
         "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 243522,
       "name": "Keep Sweet",
       "url": "https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rotoscope",
+        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 215362,
+      "name": "Rotoscope",
+      "url": "https://open.spotify.com/track/5LJmf4fMXEvO1PdlCBKwRz"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rotoscope",
-        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 224075,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/2AqKRuEcR0R8iYkBWk5Uqj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tsunami Sea",
         "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 256466,
       "name": "Tsunami Sea",
       "url": "https://open.spotify.com/track/7bGzUyc4a949g2c0EIzMpx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rotoscope",
+        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 224075,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/2AqKRuEcR0R8iYkBWk5Uqj"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rotoscope",
-        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 211123,
-      "name": "Sew Me Up",
-      "url": "https://open.spotify.com/track/1YQiA0Kfml44BqF68ZQ48n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tsunami Sea",
         "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 261139,
       "name": "Fata Morgana",
       "url": "https://open.spotify.com/track/14iSCO87Qveq9UXCtN48Vm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rotoscope",
+        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 211123,
+      "name": "Sew Me Up",
+      "url": "https://open.spotify.com/track/1YQiA0Kfml44BqF68ZQ48n"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cellar Door",
-        "url": "https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 283957,
-      "name": "Cellar Door",
-      "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tsunami Sea",
         "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 204866,
       "name": "Black Rainbow",
       "url": "https://open.spotify.com/track/3xNwSLvN6QsZ6BgUbQKRm3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cellar Door",
+        "url": "https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 283957,
+      "name": "Cellar Door",
+      "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 220327,
-      "name": "The Mara Effect, Pt. 2",
-      "url": "https://open.spotify.com/track/0FlmUj0m30mDgKo6MeUP0e"
+      "duration_ms": 337212,
+      "name": "The Beauty of Suffering",
+      "url": "https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 337212,
-      "name": "The Beauty of Suffering",
-      "url": "https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo"
+      "duration_ms": 220327,
+      "name": "The Mara Effect, Pt. 2",
+      "url": "https://open.spotify.com/track/0FlmUj0m30mDgKo6MeUP0e"
     },
     {
       "added_at": null,

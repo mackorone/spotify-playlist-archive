@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 150793,
+  "num_followers": 150803,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAAA7Ddxj+JNJoiG7hsqGI0Ak",
+  "snapshot_id": "aMiogAAAAAC2QX1qdNvFWQZnUz6NlIDi",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blown Away",
+        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 297946,
+      "name": "Two Black Cadillacs",
+      "url": "https://open.spotify.com/track/5mFYtqhN4T2D9IPSaZnVDw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Walk Through Fire",
         "url": "https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 194264,
       "name": "If It Was Up To Me",
       "url": "https://open.spotify.com/track/1fKrN4psGIjlo4sccpisJc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blown Away",
-        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 297946,
-      "name": "Two Black Cadillacs",
-      "url": "https://open.spotify.com/track/5mFYtqhN4T2D9IPSaZnVDw"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 176440,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/0i67q5f6SBh6QvDgJV4f1v"
+      "duration_ms": 210840,
+      "name": "Nothing But The Blood Of Jesus",
+      "url": "https://open.spotify.com/track/1TMD9dsPs6s16QyPa1VqS4"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 210840,
-      "name": "Nothing But The Blood Of Jesus",
-      "url": "https://open.spotify.com/track/1TMD9dsPs6s16QyPa1VqS4"
+      "duration_ms": 176440,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/0i67q5f6SBh6QvDgJV4f1v"
     },
     {
       "added_at": null,

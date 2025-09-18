@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,481 likes - 30 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,480 likes - 30 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 25 | [The Gambit](https://open.spotify.com/track/40MlHg1LIQDNryxwJQUNGH) | [Divine Disorder](https://open.spotify.com/artist/6TUH8SH556eJUVeKVq0ODz) | [Garden of Dystopia](https://open.spotify.com/album/01f26cqA6rP4x4YQ43phM9) | 8:04 |
 | 26 | [Kont Trab](https://open.spotify.com/track/3wULkaOnTXCGpK5MA3kqbe) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 6:17 |
 | 27 | [I Am the Beast](https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8) | [Ambrotype](https://open.spotify.com/artist/2kgkOFR0aUzwtamaD010iD) | [The Revelations](https://open.spotify.com/album/1tKEYkjR1fmLJeUHYouPhG) | 11:06 |
-| 28 | [Blind Fate \(Turab\)](https://open.spotify.com/track/6YJxrjI7Y53MCKWEzdxDta) | [Esodic](https://open.spotify.com/artist/46XPKhmZCbqaixuDpJsC4S) | [Mirrors of Disgrace](https://open.spotify.com/album/2myDafpzzFLHe6nw7LWGyh) | 4:45 |
-| 29 | [Forever and A Day](https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Desert Call](https://open.spotify.com/album/3x5aAqCdwXsvisJZve1cwt) | 5:40 |
+| 28 | [Forever and A Day](https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Desert Call](https://open.spotify.com/album/3x5aAqCdwXsvisJZve1cwt) | 5:40 |
+| 29 | [Blind Fate \(Turab\)](https://open.spotify.com/track/6YJxrjI7Y53MCKWEzdxDta) | [Esodic](https://open.spotify.com/artist/46XPKhmZCbqaixuDpJsC4S) | [Mirrors of Disgrace](https://open.spotify.com/album/2myDafpzzFLHe6nw7LWGyh) | 4:45 |
 | 30 | [Riot Against Riot](https://open.spotify.com/track/3Fz8IcdXklVz1Kr9SHFcFe) | [Blaakyum](https://open.spotify.com/artist/2pddgL1ZW41XCeEQNVvomB) | [Riot Against Riot](https://open.spotify.com/album/3U2yfv1nXbqz2WqmzFDro6) | 5:23 |
 
 Snapshot ID: `AAAAANlehd0JR4tZ+eaDsvGj2qGU5ptK`

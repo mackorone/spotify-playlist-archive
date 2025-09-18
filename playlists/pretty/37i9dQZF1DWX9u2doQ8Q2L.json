@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 394149,
+  "num_followers": 394181,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -91,18 +91,18 @@
     {
       "added_at": "2025-09-12 02:25:35",
       "album": {
-        "name": "TWILIGHT!!!",
-        "url": "https://open.spotify.com/album/3KbovyECUFkQQFfUVvwkD6"
+        "name": "Plazma",
+        "url": "https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp"
       },
       "artists": [
         {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
         }
       ],
-      "duration_ms": 217160,
-      "name": "TWILIGHT!!!",
-      "url": "https://open.spotify.com/track/7rPEpMvt6O2Np1i7TFk3Hc"
+      "duration_ms": 180832,
+      "name": "Plazma",
+      "url": "https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd"
     },
     {
       "added_at": "2025-09-12 02:25:35",
@@ -127,18 +127,18 @@
     {
       "added_at": "2025-09-12 02:25:35",
       "album": {
-        "name": "Plazma",
-        "url": "https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp"
+        "name": "TWILIGHT!!!",
+        "url": "https://open.spotify.com/album/3KbovyECUFkQQFfUVvwkD6"
       },
       "artists": [
         {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 180832,
-      "name": "Plazma",
-      "url": "https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd"
+      "duration_ms": 217160,
+      "name": "TWILIGHT!!!",
+      "url": "https://open.spotify.com/track/7rPEpMvt6O2Np1i7TFk3Hc"
     },
     {
       "added_at": "2025-09-12 02:25:35",
@@ -515,6 +515,22 @@
     {
       "added_at": "2025-09-12 02:25:35",
       "album": {
+        "name": "\u71c8",
+        "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
+      },
+      "artists": [
+        {
+          "name": "Soushi Sakiyama",
+          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+        }
+      ],
+      "duration_ms": 238720,
+      "name": "\u71c8",
+      "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
+    },
+    {
+      "added_at": "2025-09-12 02:25:35",
+      "album": {
         "name": "GBAD (Number_i Remix)",
         "url": "https://open.spotify.com/album/76C1D2sECFpW0lWOuhcZak"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 187398,
       "name": "GBAD (Number_i Remix)",
       "url": "https://open.spotify.com/track/0Sc93x1NGL4SbWFlMOvDkN"
-    },
-    {
-      "added_at": "2025-09-12 02:25:35",
-      "album": {
-        "name": "\u71c8",
-        "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
-      },
-      "artists": [
-        {
-          "name": "Soushi Sakiyama",
-          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
-        }
-      ],
-      "duration_ms": 238720,
-      "name": "\u71c8",
-      "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
     },
     {
       "added_at": "2025-09-12 02:25:35",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-09-12 02:25:35",
       "album": {
-        "name": "\u7d2b\u967d\u82b1",
-        "url": "https://open.spotify.com/album/0ZPqvRK7rjSwPTPNbAcEjY"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 231345,
-      "name": "\u7d2b\u967d\u82b1",
-      "url": "https://open.spotify.com/track/2ektCq0B2HZyL38eRbI70W"
-    },
-    {
-      "added_at": "2025-09-12 02:25:35",
-      "album": {
         "name": "HOWL",
         "url": "https://open.spotify.com/album/3srKYd89n0gITowdlh268j"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 191666,
       "name": "HOWL",
       "url": "https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN"
+    },
+    {
+      "added_at": "2025-09-12 02:25:35",
+      "album": {
+        "name": "\u7d2b\u967d\u82b1",
+        "url": "https://open.spotify.com/album/0ZPqvRK7rjSwPTPNbAcEjY"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 231345,
+      "name": "\u7d2b\u967d\u82b1",
+      "url": "https://open.spotify.com/track/2ektCq0B2HZyL38eRbI70W"
     },
     {
       "added_at": "2025-09-12 02:25:35",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-09-12 02:25:35",
       "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
+    },
+    {
+      "added_at": "2025-09-12 02:25:35",
+      "album": {
         "name": "\u7d75\u753b / \u3053\u305f\u3048\u3042\u308f\u305b",
         "url": "https://open.spotify.com/album/2bvMqLZrtpJ3tLbOTLSzUJ"
       },
@@ -851,18 +867,18 @@
     {
       "added_at": "2025-09-12 02:25:35",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
+        "name": "MASCARA",
+        "url": "https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC"
       },
       "artists": [
         {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 196500,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
+      "duration_ms": 215066,
+      "name": "MASCARA",
+      "url": "https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY"
     },
     {
       "added_at": "2025-09-12 02:25:35",
@@ -879,22 +895,6 @@
       "duration_ms": 289713,
       "name": "by my side",
       "url": "https://open.spotify.com/track/47FdTZdjdRJikiBNA8LXdu"
-    },
-    {
-      "added_at": "2025-09-12 02:25:35",
-      "album": {
-        "name": "MASCARA",
-        "url": "https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "MASCARA",
-      "url": "https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY"
     },
     {
       "added_at": "2025-09-12 02:25:35",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-09-12 02:25:35",
       "album": {
-        "name": "Funky Lovely Girl",
-        "url": "https://open.spotify.com/album/5Gqs19b1vhux4Y5tSS364z"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 225354,
-      "name": "Funky Lovely Girl",
-      "url": "https://open.spotify.com/track/5tC5E4f9rjRgxsUpr4abHh"
-    },
-    {
-      "added_at": "2025-09-12 02:25:35",
-      "album": {
         "name": "\u604b\u611b\u5f8c\u907a\u75c7",
         "url": "https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 167400,
       "name": "\u604b\u611b\u5f8c\u907a\u75c7",
       "url": "https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25"
+    },
+    {
+      "added_at": "2025-09-12 02:25:35",
+      "album": {
+        "name": "Funky Lovely Girl",
+        "url": "https://open.spotify.com/album/5Gqs19b1vhux4Y5tSS364z"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 225354,
+      "name": "Funky Lovely Girl",
+      "url": "https://open.spotify.com/track/5tC5E4f9rjRgxsUpr4abHh"
     },
     {
       "added_at": "2025-09-12 02:25:35",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-09-12 02:25:35",
       "album": {
+        "name": "\u3042\u3063\u3061\u3085\u3046\u307e",
+        "url": "https://open.spotify.com/album/5YCPpXUx6kVMB6ModSMDN3"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "duration_ms": 142758,
+      "name": "\u3042\u3063\u3061\u3085\u3046\u307e",
+      "url": "https://open.spotify.com/track/0N3q34hFZX2S9jc4yPNyhF"
+    },
+    {
+      "added_at": "2025-09-12 02:25:35",
+      "album": {
         "name": "Don't Tell Nobody",
         "url": "https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2025-09-12 02:25:35",
       "album": {
-        "name": "\u3042\u3063\u3061\u3085\u3046\u307e",
-        "url": "https://open.spotify.com/album/5YCPpXUx6kVMB6ModSMDN3"
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
       },
       "artists": [
         {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 142758,
-      "name": "\u3042\u3063\u3061\u3085\u3046\u307e",
-      "url": "https://open.spotify.com/track/0N3q34hFZX2S9jc4yPNyhF"
+      "duration_ms": 272036,
+      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
     },
     {
       "added_at": "2025-09-12 02:25:35",
@@ -1391,22 +1407,6 @@
       "duration_ms": 249013,
       "name": "Whole of Flower",
       "url": "https://open.spotify.com/track/3ovwLoowye9dVmbfhz1nEV"
-    },
-    {
-      "added_at": "2025-09-12 02:25:35",
-      "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 272036,
-      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
     },
     {
       "added_at": "2025-09-12 02:25:35",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-09-12 02:25:35",
       "album": {
+        "name": "0.0000%",
+        "url": "https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "duration_ms": 155740,
+      "name": "0.0000%",
+      "url": "https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy"
+    },
+    {
+      "added_at": "2025-09-12 02:25:35",
+      "album": {
         "name": "\u6bce\u65e5 - Every Day",
         "url": "https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 198370,
       "name": "\u6708\u3078\u884c\u3053\u3046",
       "url": "https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y"
-    },
-    {
-      "added_at": "2025-09-12 02:25:35",
-      "album": {
-        "name": "0.0000%",
-        "url": "https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd"
-      },
-      "artists": [
-        {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
-        }
-      ],
-      "duration_ms": 155740,
-      "name": "0.0000%",
-      "url": "https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy"
     },
     {
       "added_at": "2025-09-12 02:25:35",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2025-09-12 02:25:35",
       "album": {
+        "name": "RED OUT",
+        "url": "https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 151626,
+      "name": "RED OUT",
+      "url": "https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB"
+    },
+    {
+      "added_at": "2025-09-12 02:25:35",
+      "album": {
         "name": "LIVE IT UP! (feat. Furui Riho)",
         "url": "https://open.spotify.com/album/7EhenG8cXC6o2jHnAUHemC"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 225541,
       "name": "LIVE IT UP! (feat. Furui Riho)",
       "url": "https://open.spotify.com/track/2UzNrRpOVm83g8CHCXY64P"
-    },
-    {
-      "added_at": "2025-09-12 02:25:35",
-      "album": {
-        "name": "RED OUT",
-        "url": "https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 151626,
-      "name": "RED OUT",
-      "url": "https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB"
     },
     {
       "added_at": "2025-09-12 02:25:35",

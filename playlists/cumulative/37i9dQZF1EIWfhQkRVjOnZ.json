@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-17",
+      "date_removed": null,
       "duration_ms": 230533,
       "name": "A Call To The Faithful",
       "url": "https://open.spotify.com/track/3BAGoosCoAadI2UhrKLMu2"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 210893,
       "name": "A Threnody For Modern Romance",
       "url": "https://open.spotify.com/track/40hir97i5PBSkB3rURdnLl"
@@ -2500,7 +2500,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 191625,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3hBP0Uuu2b1gq5H8RzdO5S"
@@ -3080,7 +3080,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 223880,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/1icI4F8fzvF0APPJHfyu2w"
@@ -3447,6 +3447,24 @@
     },
     {
       "album": {
+        "name": "An Ocean Between Us",
+        "url": "https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260786,
+      "name": "The Sound of Truth",
+      "url": "https://open.spotify.com/track/7lYrz70DntWR7o8Sqfz0Ok"
+    },
+    {
+      "album": {
         "name": "Shadows Are Security",
         "url": "https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P"
       },
@@ -3494,7 +3512,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 230133,
       "name": "The Worst Is yet to Come",
       "url": "https://open.spotify.com/track/3T8WTbGrVFWI2eWrDqylTI"
@@ -3836,7 +3854,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 212506,
       "name": "Vacant Room",
       "url": "https://open.spotify.com/track/15JH5nL5yM7FuQMbbBaUWl"
@@ -3944,7 +3962,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 251320,
       "name": "When Everything Falls",
       "url": "https://open.spotify.com/track/5z9amXA7pdaWIuHLmcOoaV"
@@ -3998,7 +4016,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 219893,
       "name": "Whispers (I Hear You)",
       "url": "https://open.spotify.com/track/7KzTfufz9OG0uYWjrTYGwp"
@@ -4070,7 +4088,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-17",
+      "date_removed": null,
       "duration_ms": 262173,
       "name": "With A Thousand Words To Say But One",
       "url": "https://open.spotify.com/track/1iYgMGAiHn6GaoGXxFCT42"

@@ -4,7 +4,7 @@
 
 > a experimental mix of rock, punk, alt & indie\. Cover: bar italia
 
-826 songs - 1 day 22 hr 20 min
+827 songs - 1 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Across That Fine Line](https://open.spotify.com/track/0naG5PyrfwJQ0xtuQ1BGCM) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [A Way Forward](https://open.spotify.com/album/2hPnsq6HZHcgkFlLclKrvv) | 5:25 | 2022-01-31 | 2022-10-08 |
 | [Adrenaline](https://open.spotify.com/track/3Ir78IJjPU3eODC44pzlnf) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Adrenaline](https://open.spotify.com/album/0Od1v1llALPpgnxp3OiD6b) | 4:04 | 2024-04-22 | 2025-09-13 |
 | [Afraid](https://open.spotify.com/track/0TesiDBRH4ZOatQf4OMuHA) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Afraid](https://open.spotify.com/album/4CFQDi0NqT2pCe2mcHi9Ut) | 2:40 | 2025-01-31 | 2025-04-17 |
-| [Afraid](https://open.spotify.com/track/3nUiED5yyYaLbSVg4LidHJ) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Conditions III](https://open.spotify.com/album/2VNwMwgB3XbKeJh3sCsrpR) | 2:40 | 2025-04-16 |  |
+| [Afraid](https://open.spotify.com/track/3nUiED5yyYaLbSVg4LidHJ) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Conditions III](https://open.spotify.com/album/2VNwMwgB3XbKeJh3sCsrpR) | 2:40 | 2025-04-16 | 2025-09-18 |
 | [After Party](https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE) | 3:09 | 2025-09-12 |  |
 | [After You](https://open.spotify.com/track/0fIvB3uEk6K6T9JACYD66O) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [After You](https://open.spotify.com/album/6VISuMapTvAnaTvltpE7FC) | 2:28 | 2025-01-31 |  |
 | [AHHHH!](https://open.spotify.com/track/6Pfma5baS7P2EIjn3Htj9q) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [AHHHH!](https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F) | 2:24 | 2022-01-07 | 2022-06-11 |
@@ -100,6 +100,7 @@
 | [Brass Bell](https://open.spotify.com/track/2P1kSwV2hQFxf6jjsOwsMj) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Desire Pathway](https://open.spotify.com/album/4ijKOsVWOcCxMK2Xt2gvLx) | 4:23 | 2023-04-14 | 2024-04-19 |
 | [Break the Tension](https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Break the Tension](https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo) | 3:45 | 2024-10-04 |  |
 | [BREAKFAST IN SPACE](https://open.spotify.com/track/0p23x26aIZJs0bROjthbLl) | [Destructo Disk](https://open.spotify.com/artist/2kc0DEfYci8CKkvQmnivj9) | [BAD GRAVITY](https://open.spotify.com/album/2DbYairkSUm4YbVXd0sHwa) | 2:40 | 2022-06-10 | 2022-08-06 |
+| [Broadcast](https://open.spotify.com/track/5TCvpIRJfUrL55BkgcF0Ex) | [Legss](https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F) | [Unreal](https://open.spotify.com/album/5gcSwha8vaziKqzav5v7Ri) | 4:18 | 2025-09-12 |  |
 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 | 2024-02-16 |  |
 | [Bubblegum Infinity](https://open.spotify.com/track/3et7oRd1VMvQ3805uuor7N) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/03v97YHEAK4SfVd4QuIuOt) | 3:10 | 2022-04-29 | 2022-07-09 |
 | [Build a Bridge](https://open.spotify.com/track/04X3gZTOCcaBtoTYCV3X3K) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Careful!](https://open.spotify.com/album/4y7SBeyt5aznj46pLCxddm) | 3:29 | 2023-09-08 | 2024-08-03 |

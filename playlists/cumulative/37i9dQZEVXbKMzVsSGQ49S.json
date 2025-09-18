@@ -12794,7 +12794,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 155785,
       "name": "Eg\u00f3",
       "url": "https://open.spotify.com/track/6peUs6BJUpBfhpH5NUDdux"
@@ -17030,7 +17030,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
@@ -21848,7 +21848,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 183937,
       "name": "HOT",
       "url": "https://open.spotify.com/track/16f7srBRJyFgwflwA6ZYDu"
@@ -24562,6 +24562,24 @@
       "duration_ms": 36935,
       "name": "Intro",
       "url": "https://open.spotify.com/track/5lVmzrKaqPpPYtF7udoiNq"
+    },
+    {
+      "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
       "album": {
@@ -29336,7 +29354,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-17",
+      "date_removed": null,
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H"
@@ -29354,7 +29372,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
@@ -29484,7 +29502,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 253472,
       "name": "LSML\u00cd (l\u00edfi\u00f0 sem mig langar \u00ed)",
       "url": "https://open.spotify.com/track/1Nsjktpk26QZqCMKgHV4Fl"
@@ -56470,7 +56488,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 122253,
       "name": "\u00dearft a\u00f0 vita",
       "url": "https://open.spotify.com/track/6PtlJ55rxv8mI1YHC9Y7M9"

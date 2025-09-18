@@ -10277,6 +10277,24 @@
     },
     {
       "album": {
+        "name": "Cole Porter In London, Vol. 1",
+        "url": "https://open.spotify.com/album/0DS8IXLdZ7be3Y6mBCEX2U"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186503,
+      "name": "Wake Up And Dream",
+      "url": "https://open.spotify.com/track/62e8szrEtgpWRTTlyd5EZR"
+    },
+    {
+      "album": {
         "name": "I Get A Kick: Cole Porter Reimagined",
         "url": "https://open.spotify.com/album/7uXMJ2O8nRQMhWWCjyo7zH"
       },
@@ -10288,7 +10306,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 351120,
       "name": "Wake Up and Dream",
       "url": "https://open.spotify.com/track/6PQejkkXDm3J0z6KISr0gf"

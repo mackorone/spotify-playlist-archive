@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 
 > Where swing meets blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,584 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,602 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 37 | [Say Hey \(The Willie Mays Song\)](https://open.spotify.com/track/0IOxVTksrKA1qX73krTKeN) | [The Treniers](https://open.spotify.com/artist/1drcMrZqfYsecBlwciiLDZ) | [Baseball A Film By Ken Burns \- Original Soundtrack Recording](https://open.spotify.com/album/4oH4jZYMSUrGRjgG41Zdua) | 3:11 |
 | 38 | [Bloodshot Eyes](https://open.spotify.com/track/3T4py44BDlu7wO3pqrxWl9) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Greatest Hits](https://open.spotify.com/album/0Dwycst55CZdI6R6kXhN8c) | 2:42 |
 | 39 | [King Kong](https://open.spotify.com/track/2eVCMrIn3sIPX7TRHuBsdy) | [Big 'T' Tyler](https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa) | [Real R'n'B and Soul \(Lost and Found 2\)](https://open.spotify.com/album/6bThGExgy1Y415PO9esT13) | 1:59 |
-| 40 | [Saturday Night Fish Fry \- Pts\. 1 & 2](https://open.spotify.com/track/0LHfPA0hWcu40eP3O3pb8N) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 5:24 |
+| 40 | [Ain't Nobody Here but Us Chickens](https://open.spotify.com/track/25F0nPXUD6si9DalVWNp6m) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 3:05 |
 | 41 | [Big Fat Mama](https://open.spotify.com/track/03DRiEEHelUfdyDW2Z5y9e) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Information Blues](https://open.spotify.com/album/5a43mcGKhwab4Ns4MJ0cAJ) | 2:44 |
-| 42 | [Ain't Nobody Here but Us Chickens](https://open.spotify.com/track/25F0nPXUD6si9DalVWNp6m) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 3:05 |
+| 42 | [Saturday Night Fish Fry \- Pts\. 1 & 2](https://open.spotify.com/track/0LHfPA0hWcu40eP3O3pb8N) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 5:24 |
 | 43 | [Shake That Thing](https://open.spotify.com/track/2XacJ1d8YqhSrxxUFykEOY) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [More Greatest Hits \- Good Rockin' Tonight](https://open.spotify.com/album/1d0AzcPC6aD8jmDmhCYRuP) | 2:16 |
 | 44 | [Real Fine Daddy](https://open.spotify.com/track/1IEjfCPwrQU942xOp8Wa6B) | [Helen Humes](https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD) | [Dootone Rock 'n' Rhythm & Blues](https://open.spotify.com/album/0qt4mC8NS8SOZGjsJoXulh) | 2:16 |
 | 45 | [I'm Going To Have Myself A Ball](https://open.spotify.com/track/1959fuoNuBSXULOrA4xJi5) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [Walk That Mess!](https://open.spotify.com/album/5YK3ihvqFAPUDhsv6fcMTR) | 2:44 |

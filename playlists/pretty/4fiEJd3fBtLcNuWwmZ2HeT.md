@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 352 songs - 20 hr 6 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 353 songs - 20 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -360,5 +360,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 350 | [Umi no shizuku](https://open.spotify.com/track/0jjz9medFeIXgz1lVOccgZ) | [exist†trace](https://open.spotify.com/artist/2qrNC9noTTHFbNw5SQTh52) | [Ambivalent Symphony](https://open.spotify.com/album/1lPIKPAcpTidL1Xvo78rMI) | 4:51 |
 | 351 | [ヒトガワリ](https://open.spotify.com/track/40KFocvzK7xc1jHzBDM8k4) | [きくおはな](https://open.spotify.com/artist/1GBV8C0PfGVH1G5QRqHt5k) | [第二幕](https://open.spotify.com/album/7et3nHvC6nflQu4QsJkJvs) | 4:26 |
 | 352 | [Umitagari](https://open.spotify.com/track/413FikBJHxjwz8EWNi2hVK) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:45 |
+| 353 | [Au Revoir](https://open.spotify.com/track/2iFF3KireK1QxkCvUVJaQv) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Merveilles](https://open.spotify.com/album/32OKDgdDPz4zLf3FY6Fhxj) | 4:52 |
 
-Snapshot ID: `AAAJVU+cSvKAGImphX0jvbNaNUo5Ib3T`
+Snapshot ID: `AAAJVvqQ4CEdDoMm/LuH98+T7jzSnYjF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Tyler, The Creator✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,152 likes - 178 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,165 likes - 178 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaRcrSHNxVd.md) - [plain]
 
 > Songs to skate to, curated by Joey Valence & Brae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,198 likes - 53 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,217 likes - 53 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaRcrSHNxVd.md) - [plain]
 | 52 | [HAZARD DUTY PAY!](https://open.spotify.com/track/2EMWP3NJeivpl0Seic7Oqz) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [HAZARD DUTY PAY!](https://open.spotify.com/album/4yNpPJDCJPnFTyUiZenAxv) | 2:37 |
 | 53 | [WASSUP \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/38pW5Ai3PTVkOiMvM9JN1A) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [HYPERYOUTH](https://open.spotify.com/album/17BbrYyPUMl3zpcKo7gHML) | 3:00 |
 
-Snapshot ID: `AAAAADQ4kHPWj/8tj3Zv2scYVYcqGkmu`
+Snapshot ID: `AAAAAFkZ47mKk3XUO4Z9+vdgwugUnK3l`

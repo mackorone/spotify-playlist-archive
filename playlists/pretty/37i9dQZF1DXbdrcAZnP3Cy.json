@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! ",
-  "num_followers": 201913,
+  "num_followers": 202023,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
+        "name": "Arriba Huentitan",
+        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Volver, Volver",
+      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
         "name": "Que Vuelvas",
         "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 169418,
       "name": "Que Vuelvas",
       "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
-        "name": "Arriba Huentitan",
-        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "Volver, Volver",
-      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Cumbias con Garra Vol. IV *",
-        "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Mira oye",
-      "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "15 Primeros Exitos Vol. 1",
         "url": "https://open.spotify.com/album/4xxr8BlUMAKDdVRmDIyDjq"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 156920,
       "name": "El Centenario",
       "url": "https://open.spotify.com/track/65PXVu64xyXCpKczg4K9Cz"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Cumbias con Garra Vol. IV *",
+        "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Mira oye",
+      "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Lo Nuevo Y\u2026Lo Mejor",
-        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "duration_ms": 216346,
-      "name": "El Gigante De Hierro",
-      "url": "https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Fiesta Mexicana Con La Banda",
         "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 160626,
       "name": "La ni\u00f1a fresa",
       "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 216346,
+      "name": "El Gigante De Hierro",
+      "url": "https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Pisteando Con La Regida",
-        "url": "https://open.spotify.com/album/6XCfOtEcXJgbq6ka1C7eAc"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 156322,
-      "name": "El Muchacho Alegre",
-      "url": "https://open.spotify.com/track/2jFf11yM0aRv4DrNOcJtFX"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "30 Exitos Inolvidables",
         "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 146013,
       "name": "El Colesterol",
       "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Pisteando Con La Regida",
+        "url": "https://open.spotify.com/album/6XCfOtEcXJgbq6ka1C7eAc"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 156322,
+      "name": "El Muchacho Alegre",
+      "url": "https://open.spotify.com/track/2jFf11yM0aRv4DrNOcJtFX"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Lo Nuevo Y\u2026Lo Mejor",
-        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "La Cumbia De La Cerveza",
-      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Exitos Inolvidables",
         "url": "https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 190800,
       "name": "Juana La Cubana",
       "url": "https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "La Cumbia De La Cerveza",
+      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "La Del Mo\u00f1o Colorado",
-        "url": "https://open.spotify.com/album/6I8NtD0YFtJn6osq3YPadR"
-      },
-      "artists": [
-        {
-          "name": "Los Pedernales",
-          "url": "https://open.spotify.com/artist/2t9iBcBG9KoBeOZHevRzsc"
-        }
-      ],
-      "duration_ms": 300733,
-      "name": "La Del Mo\u00f1o Colorado",
-      "url": "https://open.spotify.com/track/4fkCG6ZvZ4oFHnNJQmD0lE"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
         "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 267613,
       "name": "C\u00f3mo Te Voy A Olvidar",
       "url": "https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "La Del Mo\u00f1o Colorado",
+        "url": "https://open.spotify.com/album/6I8NtD0YFtJn6osq3YPadR"
+      },
+      "artists": [
+        {
+          "name": "Los Pedernales",
+          "url": "https://open.spotify.com/artist/2t9iBcBG9KoBeOZHevRzsc"
+        }
+      ],
+      "duration_ms": 300733,
+      "name": "La Del Mo\u00f1o Colorado",
+      "url": "https://open.spotify.com/track/4fkCG6ZvZ4oFHnNJQmD0lE"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 151586,
-      "name": "La Leona y el Mandil\u00f3n",
-      "url": "https://open.spotify.com/track/72YKqem3dQrjdoMEH28AVH"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "All My Hits: Todos Mis Exitos",
         "url": "https://open.spotify.com/album/6ofanZuft02DovBm84Slkk"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 218293,
       "name": "La Carcacha",
       "url": "https://open.spotify.com/track/4ICNUqLxAZjHyyXnINFkp2"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 151586,
+      "name": "La Leona y el Mandil\u00f3n",
+      "url": "https://open.spotify.com/track/72YKqem3dQrjdoMEH28AVH"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Aceptalo Ya !",
-        "url": "https://open.spotify.com/album/5NrYXAeq8EqovAyrb9JWNf"
-      },
-      "artists": [
-        {
-          "name": "Los Canarios De Michoacan",
-          "url": "https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "El Wiri Wiri Aka El Guiri Guiri",
-      "url": "https://open.spotify.com/track/1fYwFiuLGzGuXRiwvHqqjl"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. III",
         "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 237960,
       "name": "Tiene Espinas El Rosal",
       "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Aceptalo Ya !",
+        "url": "https://open.spotify.com/album/5NrYXAeq8EqovAyrb9JWNf"
+      },
+      "artists": [
+        {
+          "name": "Los Canarios De Michoacan",
+          "url": "https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "El Wiri Wiri Aka El Guiri Guiri",
+      "url": "https://open.spotify.com/track/1fYwFiuLGzGuXRiwvHqqjl"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
+        "name": "El Botecito",
+        "url": "https://open.spotify.com/album/0ucwoASnxx3Y3pt7vy2esy"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos Del Pueblo",
+          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
+        }
+      ],
+      "duration_ms": 150360,
+      "name": "El Botecito",
+      "url": "https://open.spotify.com/track/7GVxAP3rK73EvCoAqxk5vJ"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
         "name": "Ra\u00edces",
         "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
       },
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "El Botecito",
-        "url": "https://open.spotify.com/album/0ucwoASnxx3Y3pt7vy2esy"
+        "name": "Mi Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/6kJW6rPKdlwMl6taKSJn9Z"
       },
       "artists": [
         {
-          "name": "Los Hijos Del Pueblo",
-          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 150360,
-      "name": "El Botecito",
-      "url": "https://open.spotify.com/track/7GVxAP3rK73EvCoAqxk5vJ"
+      "duration_ms": 211760,
+      "name": "Mi Mayor Anhelo",
+      "url": "https://open.spotify.com/track/4QX1qy6wFOoCuQlmxciEQV"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Mi Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/6kJW6rPKdlwMl6taKSJn9Z"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 211760,
-      "name": "Mi Mayor Anhelo",
-      "url": "https://open.spotify.com/track/4QX1qy6wFOoCuQlmxciEQV"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Llorar",
         "url": "https://open.spotify.com/album/2BFbazOqKrNnhed71Kfqw0"
       },
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "18 Grandes Exitos Bailables",
-        "url": "https://open.spotify.com/album/1t4FvHx2Kv3232zHHmUueG"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "La Quebradora",
-      "url": "https://open.spotify.com/track/1KjOumAi1x92WucdWaDlqD"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "En Vida",
         "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 145826,
       "name": "En Vida",
       "url": "https://open.spotify.com/track/7LNtyuekYHiZ99UxkrfCQR"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "18 Grandes Exitos Bailables",
+        "url": "https://open.spotify.com/album/1t4FvHx2Kv3232zHHmUueG"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "La Quebradora",
+      "url": "https://open.spotify.com/track/1KjOumAi1x92WucdWaDlqD"
     },
     {
       "added_at": "2024-08-30 08:25:49",

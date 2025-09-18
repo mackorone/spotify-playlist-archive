@@ -1,13 +1,29 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: SYNC.EXE. Artwork: Joy Yamusangie.",
-  "num_followers": 238665,
+  "num_followers": 238669,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMhTfZ8OnHPeg6XaOoN+mjKdFtb0",
+  "snapshot_id": "AAAAAPm9fsrJEd0rvu1s6pyychWo+u25",
   "tracks": [
+    {
+      "added_at": "2025-09-17 04:00:03",
+      "album": {
+        "name": "Circa 2019",
+        "url": "https://open.spotify.com/album/1GiNqVTjpSb5WrQiiRszHU"
+      },
+      "artists": [
+        {
+          "name": "Tanhai Collective",
+          "url": "https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Circa 2019",
+      "url": "https://open.spotify.com/track/33VHDPVMX4zjiv0zYFl3cT"
+    },
     {
       "added_at": "2025-08-13 14:00:17",
       "album": {
@@ -43,6 +59,34 @@
       "duration_ms": 291040,
       "name": "Go around in circles",
       "url": "https://open.spotify.com/track/2tJc9tvjkhmYlk191KcLJc"
+    },
+    {
+      "added_at": "2025-09-17 04:00:03",
+      "album": {
+        "name": "PROTEUS",
+        "url": "https://open.spotify.com/album/0aQVlVk1bjpmZn2A2ILSro"
+      },
+      "artists": [
+        {
+          "name": "Andrii Pokaz",
+          "url": "https://open.spotify.com/artist/2fZ6SyGO76IltbDHjBMItC"
+        },
+        {
+          "name": "Oleksandr Poliakov",
+          "url": "https://open.spotify.com/artist/2fspYQRqRVD3JWbA39OScD"
+        },
+        {
+          "name": "Ruslan Semenov",
+          "url": "https://open.spotify.com/artist/4PAVdWhCzWPS7w435ydyMx"
+        },
+        {
+          "name": "Miroslav Pyatnikov",
+          "url": "https://open.spotify.com/artist/7g1nQRB53SYUSAF7J2Hxay"
+        }
+      ],
+      "duration_ms": 267313,
+      "name": "Eclosion",
+      "url": "https://open.spotify.com/track/5lS4tzwoU6e6hu83Rh2W3C"
     },
     {
       "added_at": "2025-07-09 04:00:06",
@@ -797,22 +841,6 @@
       "url": "https://open.spotify.com/track/57BWfvRxyyRXjftCy4fzkV"
     },
     {
-      "added_at": "2025-01-22 14:46:34",
-      "album": {
-        "name": "Communion",
-        "url": "https://open.spotify.com/album/2ljsWrtbL0hv7DNsww4Ox7"
-      },
-      "artists": [
-        {
-          "name": "Georgia C\u00e9cile",
-          "url": "https://open.spotify.com/artist/0KjGICUAvAWs6qev5iovJa"
-        }
-      ],
-      "duration_ms": 244789,
-      "name": "Communion",
-      "url": "https://open.spotify.com/track/1glJiExOlcbDjdNIzElYqQ"
-    },
-    {
       "added_at": "2025-03-05 14:57:05",
       "album": {
         "name": "Light Music for Heavy Industry",
@@ -847,22 +875,6 @@
       "duration_ms": 270326,
       "name": "Dig Deep (feat.Jairo\uff09",
       "url": "https://open.spotify.com/track/0Na5bpStCY4VVDshwfBjLm"
-    },
-    {
-      "added_at": "2025-01-22 14:46:34",
-      "album": {
-        "name": "Archipelago",
-        "url": "https://open.spotify.com/album/0lMX9iwhoJDxkaqUfTSal8"
-      },
-      "artists": [
-        {
-          "name": "Cumulus Frisbee",
-          "url": "https://open.spotify.com/artist/673QByL1fEcoAMYdHc452d"
-        }
-      ],
-      "duration_ms": 175838,
-      "name": "Archipelago",
-      "url": "https://open.spotify.com/track/3JR8gq8O5yKuesOThvwRC7"
     },
     {
       "added_at": "2025-01-29 15:15:53",

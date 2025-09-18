@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Drake, Ed Sheeran, Rezz, Twenty One Pilots, Silverstein and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,312 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,288 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 29 | [Only Bible](https://open.spotify.com/track/6tt12axiCiK6oQ3Wxb1Oie) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Only Bible](https://open.spotify.com/album/12SiXaCDTNn45eI9MGXv3I) | 3:49 |
 | 30 | [ANTIDOTE \- FULL MIX](https://open.spotify.com/track/4Wnr11ZrETXAK9xQu0q7iQ) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [SHOCK TO THE SYSTEM \(PART TWO\)](https://open.spotify.com/album/5AXXok1CGIjrJnRgFweHzo) | 4:11 |
 | 31 | [New Plan](https://open.spotify.com/track/4XD9LjMYlAPutmVozaXuZr) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [New Plan](https://open.spotify.com/album/4kA25J7vx3ya5UuShMbgA9) | 3:25 |
-| 32 | [DADE \(feat\. Key Glock\)](https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [DADE \(feat\. Key Glock\)](https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad) | 1:44 |
+| 32 | [DADE](https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [DADE](https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad) | 1:44 |
 | 33 | [Iko Swaal](https://open.spotify.com/track/72QIpHD6bZqetRtxI5vWHP) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [EVERLAST](https://open.spotify.com/album/3uhmWIgY6nHnIaPlh0DMCf) | 2:51 |
 | 34 | [Backyard \(with JID\)](https://open.spotify.com/track/0lXryFB1cmrLYTfZ7vH91y) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Backyard \(with JID\)](https://open.spotify.com/album/5BTYzBFEHJuToi9lVeDdCw) | 3:23 |
 | 35 | [Sorry](https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Sorry](https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ) | 3:17 |

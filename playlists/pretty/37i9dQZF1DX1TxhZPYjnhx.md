@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: moon tang
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,603 likes - 97 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,605 likes - 97 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 52 | [Shed](https://open.spotify.com/track/6U3WPPsudfb6sCD7VUC6Hi) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Shed](https://open.spotify.com/album/6RJPC2gX5nCqkwMrf3STIA) | 3:46 |
 | 53 | [Then There's You](https://open.spotify.com/track/3l5447HIPhfaDfH1g6yEJV) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg), [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [Then There's You](https://open.spotify.com/album/6CEIbrfrBtblERDfN4H1Ky) | 3:54 |
 | 54 | [OTHERNIGHT](https://open.spotify.com/track/0xHXphVyY7SwNp4aeQdO7p) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [OTHERNIGHT](https://open.spotify.com/album/2R0stQU71C8iijxgMo6Fec) | 3:04 |
-| 55 | [Anthem](https://open.spotify.com/track/3FL07Uznq3e8sQ0KRqiLiM) | [Jam Republic](https://open.spotify.com/artist/1i4ni6SqePA1tZzp3o7jxb), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO), [ASSI](https://open.spotify.com/artist/27HYGndK1hr7oN0PeHGiW4) | [Anthem](https://open.spotify.com/album/7LmHejOXOxSsqYhCRcesBf) | 2:35 |
+| 55 | [Anthem](https://open.spotify.com/track/3FL07Uznq3e8sQ0KRqiLiM) | [ASSI](https://open.spotify.com/artist/27HYGndK1hr7oN0PeHGiW4), [Jam Republic](https://open.spotify.com/artist/1i4ni6SqePA1tZzp3o7jxb), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Anthem](https://open.spotify.com/album/7LmHejOXOxSsqYhCRcesBf) | 2:35 |
 | 56 | [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 |
 | 57 | [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 |
 | 58 | [The Suburbs](https://open.spotify.com/track/1RtBcv6qFWBiKfVWfP7gHX) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [The Suburbs](https://open.spotify.com/album/5DNXxlpEJF20jnQsFFTfmg) | 3:08 |

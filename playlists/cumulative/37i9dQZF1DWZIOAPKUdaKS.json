@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "A New Day",
+        "url": "https://open.spotify.com/album/1EOHretuuyxF4sxwE9lyom"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Ohm",
+          "url": "https://open.spotify.com/artist/3UvBxuvjgjOfzdIM84Pm2g"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168139,
+      "name": "A New Day",
+      "url": "https://open.spotify.com/track/1cR4FPMSO83pAic1OWCavB"
+    },
+    {
+      "album": {
         "name": "a new love",
         "url": "https://open.spotify.com/album/1OCzduP701HjAIhRhGaBts"
       },
@@ -7378,6 +7396,24 @@
       "duration_ms": 151761,
       "name": "Lost Words",
       "url": "https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91"
+    },
+    {
+      "album": {
+        "name": "Love of My Life",
+        "url": "https://open.spotify.com/album/10mjFWOlFE2Vr0ZrgPNXYZ"
+      },
+      "artists": [
+        {
+          "name": "Goratie",
+          "url": "https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139866,
+      "name": "Love of My Life",
+      "url": "https://open.spotify.com/track/1k43yZUlrZlWLlLSE9HSFC"
     },
     {
       "album": {

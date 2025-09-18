@@ -4,7 +4,7 @@
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-149 songs - 7 hr 59 min
+150 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Díganle A Mi Ex](https://open.spotify.com/track/3DGiTIEZWuOXRHei5UTgHf) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Díganle A Mi Ex](https://open.spotify.com/album/1bUFT404T1SsM8vX4L6Mqi) | 3:00 | 2023-05-22 | 2024-09-28 |
 | [Díganle A Mi Ex](https://open.spotify.com/track/3wAB6BoHzcy4OQg040Jydm) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Díganle A Mi Ex](https://open.spotify.com/album/0t0rQcO5MICiLAjTwVZZbn) | 3:00 | 2024-09-28 | 2025-05-18 |
 | [El Cholo Iván \- En Vivo](https://open.spotify.com/track/6luTTNib9LsQc0trSP4121) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Cholo Iván \(En Vivo\)](https://open.spotify.com/album/5fFIZpur4giaSJLfT69ZuU) | 3:28 | 2023-04-15 | 2024-05-12 |
-| [El Complemento](https://open.spotify.com/track/1CcTTiWWftNTLle3I9frRw) | [Los Bohemios de Sinaloa](https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Lo Más Escuchado](https://open.spotify.com/album/7rKmcbtCZYqrjmSSYh4N85) | 3:29 | 2025-07-12 |  |
+| [El Complemento](https://open.spotify.com/track/1CcTTiWWftNTLle3I9frRw) | [Los Bohemios de Sinaloa](https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Lo Más Escuchado](https://open.spotify.com/album/7rKmcbtCZYqrjmSSYh4N85) | 3:29 | 2025-07-12 | 2025-09-18 |
 | [El Destroyer](https://open.spotify.com/track/2qMX1kP7iX5LqJT7iuQYrl) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Destroyer](https://open.spotify.com/album/4WG0oUlZ4sX2uP8SYDklzA) | 2:53 | 2022-09-03 | 2023-04-01 |
 | [El Doble R \- En Vivo](https://open.spotify.com/track/2WeNqWQXNq8gXhiSPvH0yZ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Doble R \- En Vivo](https://open.spotify.com/album/7pf3JcYWMmFGYNC8sCqmdv) | 2:24 | 2022-09-14 | 2024-10-02 |
 | [El Doble R \- En Vivo](https://open.spotify.com/track/3XqmCoHQEVrA1yuzUNssJ3) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Doble R \(En Vivo\)](https://open.spotify.com/album/2xSF4vFFb451WNRx92gN03) | 2:24 | 2024-10-02 | 2025-09-05 |
@@ -101,6 +101,7 @@
 | [Mañanitas A Mi Madre](https://open.spotify.com/track/0blxtrjtjnRxbyTMxbLYhT) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Mañanitas A Mi Madre](https://open.spotify.com/album/6lTvPaSu334LT9hhgXD2yi) | 2:11 | 2025-05-13 | 2025-06-14 |
 | [Mañanitas A Mi Madre](https://open.spotify.com/track/6R5e0QiFWqgeMBPVmm9op0) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Mañanitas A Mi Madre](https://open.spotify.com/album/0KMNAPi9uLg4FgJ5ujU3e0) | 2:11 | 2024-05-12 | 2024-09-08 |
 | [Me Encantaría](https://open.spotify.com/track/2VSp3oMwP310IDzqYzKXaW) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Me Encantaría](https://open.spotify.com/album/59AdWrCA7Md9WZIRsxBeEP) | 3:10 | 2025-02-16 |  |
+| [Me Gustas y Se Nota](https://open.spotify.com/track/7LYmBT9PfyeduAS32PCrBU) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Haciendo Memoria](https://open.spotify.com/album/0MTVPqh9dN7NLQbpqRzigC) | 2:49 | 2025-09-18 |  |
 | [Me Llamas \- En Vivo](https://open.spotify.com/track/1fwGf1n0CaEuwA87zLZINk) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/0FLKfCwVfCW9GKHBlrPm0s) | 4:42 | 2024-09-30 |  |
 | [Me Llamas \- En Vivo](https://open.spotify.com/track/4pAHKSc9AbM5JUKlTFBiAD) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \- En Vivo](https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3) | 4:42 | 2022-06-01 | 2024-09-30 |
 | [Mi Complemento](https://open.spotify.com/track/53m15VomGDsuaV71S8gXD0) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Mi Complemento](https://open.spotify.com/album/1boUaFfBiyugoYGOQIGsQi) | 2:54 | 2025-08-24 |  |

@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-971 songs - 2 day 9 hr 36 min
+972 songs - 2 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [2.](https://open.spotify.com/track/3ahMoKvNOADvZ8zD0MNLLC) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq), [Search Party Animal](https://open.spotify.com/artist/2SdChJVcsPBYIrFDsjc72Z) | [2.](https://open.spotify.com/album/2XWc8IIONjuxbTCQXq14Dd) | 3:20 | 2021-08-27 | 2022-07-13 |
 | [24 Hours](https://open.spotify.com/track/17Ko2HhcCAHaXYLwV4uC8C) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [24 Hours](https://open.spotify.com/album/1czC3aIULw4O5j7v7nejTL) | 3:33 | 2020-10-05\* | 2022-04-16 |
 | [25MPH](https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [1000 Summers](https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw) | 3:03 | 2021-05-08 | 2022-04-09 |
-| [2AM](https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [2AM](https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf) | 2:33 | 2023-05-05 |  |
+| [2AM](https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [2AM](https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf) | 2:33 | 2023-05-05 | 2025-09-18 |
 | [3/3](https://open.spotify.com/track/0h8V80vN7KOLWlRV4dKfef) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 4:00 | 2020-10-16 | 2022-04-21 |
 | [33°](https://open.spotify.com/track/2DGDnyCAKDuPvWTbStDg0a) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [33°](https://open.spotify.com/album/337XU7rsZkoW7IASEcK0VX) | 4:30 | 2025-02-21 | 2025-04-06 |
 | [3:45/buslane](https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [3:45/buslane](https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ) | 2:08 | 2021-09-10 | 2022-07-23 |
@@ -675,6 +675,7 @@
 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 | 2020-10-05\* | 2022-07-27 |
 | [Perfect](https://open.spotify.com/track/2bAZx1704rpD2K0Uhtzei0) | [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Temporary Time](https://open.spotify.com/album/7MubkMOdmjOhRF36dpVQNM) | 3:19 | 2024-05-06 | 2024-11-16 |
 | [Personally](https://open.spotify.com/track/1Vgb7D76Y5QcIGheZgHnSt) | [Kamran Khan](https://open.spotify.com/artist/4Kl1w2H0gNlDJ4JB1pL2EA), [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Personally](https://open.spotify.com/album/2aqWNJaFSgobmmJxRWKbe7) | 3:58 | 2025-08-15 |  |
+| [Petals](https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 2:53 | 2025-09-12 |  |
 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2022-06-01 | 2023-09-16 |
 | [Pfizer](https://open.spotify.com/track/4T1pEFUMRcp383kBMkrEv8) | [Gabriel Sayer](https://open.spotify.com/artist/1YvGXgPvmPL6Iq3FiTkr5b) | [Pfizer](https://open.spotify.com/album/6rYgAwiwVBz8RK2xmTFyVP) | 3:06 | 2022-06-01 | 2022-07-28 |
 | [Phantom](https://open.spotify.com/track/5A6xiYvuRA76qdjr5fjjGw) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Guitar](https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY) | 1:50 | 2025-08-29 |  |

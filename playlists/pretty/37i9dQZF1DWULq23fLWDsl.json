@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2010. Cover: Gorillaz",
-  "num_followers": 340349,
+  "num_followers": 340491,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
+        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 211336,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/3C542UknrX76XSRXTyQ1Qg"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
         "name": "Broken Bells",
         "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 232200,
       "name": "The High Road",
       "url": "https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
-        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 211336,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/3C542UknrX76XSRXTyQ1Qg"
     },
     {
       "added_at": "2025-03-14 11:46:42",
@@ -475,38 +475,6 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
-        "name": "This Is Happening",
-        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 473333,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5gmv3BgePSYiHnPJgY7oTJ"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 287906,
-      "name": "Alter Ego",
-      "url": "https://open.spotify.com/track/6SmV1Oo24nCZBPzIYkL4HZ"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
         "name": "Broken Bells",
         "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
       },
@@ -527,6 +495,38 @@
       "duration_ms": 198040,
       "name": "The Ghost Inside",
       "url": "https://open.spotify.com/track/32fmQsWSAaDas2MJRyMSGG"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 287906,
+      "name": "Alter Ego",
+      "url": "https://open.spotify.com/track/6SmV1Oo24nCZBPzIYkL4HZ"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
+        "name": "This Is Happening",
+        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 473333,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5gmv3BgePSYiHnPJgY7oTJ"
     },
     {
       "added_at": "2025-03-14 11:46:42",
@@ -683,18 +683,18 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
-        "name": "Gorilla Manor",
-        "url": "https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID"
+        "name": "Pickin' up the Pieces",
+        "url": "https://open.spotify.com/album/6v1XsTQiTP6IziGoGpTLu1"
       },
       "artists": [
         {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
         }
       ],
-      "duration_ms": 266053,
-      "name": "Wide Eyes",
-      "url": "https://open.spotify.com/track/44DnIGEvTlhDkGv3xLSDcp"
+      "duration_ms": 189893,
+      "name": "Moneygrabber",
+      "url": "https://open.spotify.com/track/4PwwyZBEkHcm4OTJThCzXi"
     },
     {
       "added_at": "2025-03-14 11:46:42",
@@ -715,18 +715,18 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
-        "name": "Pickin' up the Pieces",
-        "url": "https://open.spotify.com/album/6v1XsTQiTP6IziGoGpTLu1"
+        "name": "Gorilla Manor",
+        "url": "https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID"
       },
       "artists": [
         {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
         }
       ],
-      "duration_ms": 189893,
-      "name": "Moneygrabber",
-      "url": "https://open.spotify.com/track/4PwwyZBEkHcm4OTJThCzXi"
+      "duration_ms": 266053,
+      "name": "Wide Eyes",
+      "url": "https://open.spotify.com/track/44DnIGEvTlhDkGv3xLSDcp"
     },
     {
       "added_at": "2025-03-14 11:46:42",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
-        "name": "Flaws",
-        "url": "https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 176071,
-      "name": "Ivy & Gold",
-      "url": "https://open.spotify.com/track/0ej0gx9JY7fNJv9thW5UEe"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
         "name": "Halcyon Digest",
         "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 449373,
       "name": "He Would Have Laughed",
       "url": "https://open.spotify.com/track/1mQ9pMKMYlgLRKT71QBcfL"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
+        "name": "Flaws",
+        "url": "https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 176071,
+      "name": "Ivy & Gold",
+      "url": "https://open.spotify.com/track/0ej0gx9JY7fNJv9thW5UEe"
     },
     {
       "added_at": "2025-03-14 11:46:42",

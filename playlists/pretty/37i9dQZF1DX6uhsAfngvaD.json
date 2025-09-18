@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 319432,
+  "num_followers": 319448,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "The world within our bedrooms",
+        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
+      },
+      "artists": [
+        {
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+        }
+      ],
+      "duration_ms": 154533,
+      "name": "Vibrate",
+      "url": "https://open.spotify.com/track/5amx35Lnc2tzpCAhNjSg5c"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "Chinatown (feat. Bruce Springsteen)",
         "url": "https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM"
       },
@@ -255,38 +271,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "The world within our bedrooms",
-        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
-      },
-      "artists": [
-        {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
-        }
-      ],
-      "duration_ms": 154533,
-      "name": "Vibrate",
-      "url": "https://open.spotify.com/track/5amx35Lnc2tzpCAhNjSg5c"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Bad Dream",
-        "url": "https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 202502,
-      "name": "Bad Dream",
-      "url": "https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "DJ-Kicks: Logic1000",
         "url": "https://open.spotify.com/album/6TTv31Q89IYhRzxTVrENNx"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 169997,
       "name": "Lurk - Mixed",
       "url": "https://open.spotify.com/track/064kl8lbsGVBN07jKkl014"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Bad Dream",
+        "url": "https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 202502,
+      "name": "Bad Dream",
+      "url": "https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -427,26 +427,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Ways To Get Out",
-        "url": "https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        },
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
-        }
-      ],
-      "duration_ms": 225848,
-      "name": "Our Past Lives",
-      "url": "https://open.spotify.com/track/25WP1r39qdLD9RQjlxgwDr"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "You and Me",
         "url": "https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 225618,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Ways To Get Out",
+        "url": "https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        },
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+        }
+      ],
+      "duration_ms": 225848,
+      "name": "Our Past Lives",
+      "url": "https://open.spotify.com/track/25WP1r39qdLD9RQjlxgwDr"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -551,18 +551,18 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Ways To Get Out (Deluxe)",
-        "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
+        "name": "Tell Me How",
+        "url": "https://open.spotify.com/album/6eyqtiXZ28uTVsIwAcmZnv"
       },
       "artists": [
         {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
         }
       ],
-      "duration_ms": 247866,
-      "name": "Come Down and Waste With Me",
-      "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
+      "duration_ms": 197389,
+      "name": "Tell Me How",
+      "url": "https://open.spotify.com/track/01CMi6BTasSxDv2sSDqv6q"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -579,22 +579,6 @@
       "duration_ms": 179839,
       "name": "Quite Like You",
       "url": "https://open.spotify.com/track/7B6jRQYFeJR4eUe2LBZfr4"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Tell Me How",
-        "url": "https://open.spotify.com/album/6eyqtiXZ28uTVsIwAcmZnv"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        }
-      ],
-      "duration_ms": 197389,
-      "name": "Tell Me How",
-      "url": "https://open.spotify.com/track/01CMi6BTasSxDv2sSDqv6q"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -627,6 +611,22 @@
       "duration_ms": 148523,
       "name": "I've Been Dreaming of You",
       "url": "https://open.spotify.com/track/1QefCoXtVK3wY1KDTt93Ei"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Ways To Get Out (Deluxe)",
+        "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "Come Down and Waste With Me",
+      "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Triple Seven",
-        "url": "https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf"
-      },
-      "artists": [
-        {
-          "name": "Wishy",
-          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
-        }
-      ],
-      "duration_ms": 278493,
-      "name": "Little While",
-      "url": "https://open.spotify.com/track/73B21p60Izq74AFwGNhzR7"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 259642,
       "name": "No More Kissing In The Rain",
       "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Triple Seven",
+        "url": "https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "duration_ms": 278493,
+      "name": "Little While",
+      "url": "https://open.spotify.com/track/73B21p60Izq74AFwGNhzR7"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "rest up",
-        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 204464,
-      "name": "rest up",
-      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Contently Miserable",
         "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 215000,
       "name": "Contently Miserable",
       "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "rest up",
+        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 204464,
+      "name": "rest up",
+      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/5Hq9ivqHhytJcNING1NyXc"
+      },
+      "artists": [
+        {
+          "name": "Blondes",
+          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
+        }
+      ],
+      "duration_ms": 220458,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/6jfZZqVjPLOuIRFmYwTtfg"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "How Can I Love? (When I Can't Get Away from You)",
         "url": "https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 179508,
       "name": "How Can I Love? - When I Can't Get Away from You",
       "url": "https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Beautiful World",
-        "url": "https://open.spotify.com/album/5Hq9ivqHhytJcNING1NyXc"
-      },
-      "artists": [
-        {
-          "name": "Blondes",
-          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
-        }
-      ],
-      "duration_ms": 220458,
-      "name": "Beautiful World",
-      "url": "https://open.spotify.com/track/6jfZZqVjPLOuIRFmYwTtfg"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Heaven Sent (Between Heavens B-Sides)",
+        "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
+      },
+      "artists": [
+        {
+          "name": "Ruby Haunt",
+          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "Nadine",
+      "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 212008,
       "name": "Portal",
       "url": "https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Heaven Sent (Between Heavens B-Sides)",
-        "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
-      },
-      "artists": [
-        {
-          "name": "Ruby Haunt",
-          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "Nadine",
-      "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
     },
     {
       "added_at": "2025-05-01 21:52:32",

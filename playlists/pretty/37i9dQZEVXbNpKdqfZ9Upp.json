@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MFzSoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MF4kIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "I'M PART",
         "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "Predador de Perereca",
         "url": "https://open.spotify.com/album/7p0RIs3cKwogFdhQduJMDM"
@@ -45,7 +45,23 @@
       "url": "https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
         "url": "https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9"
@@ -81,39 +97,7 @@
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 182576,
-      "name": "Nobody\u2019s Son",
-      "url": "https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
@@ -129,7 +113,7 @@
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "QLOO*",
         "url": "https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L"
@@ -149,7 +133,7 @@
       "url": "https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "As\u00ed Te Amo Yo Honduras",
         "url": "https://open.spotify.com/album/7pDSvE0wmxCV15BmdMZj78"
@@ -165,7 +149,23 @@
       "url": "https://open.spotify.com/track/5j4XDhD2el51sdPgB9yeZF"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 182576,
+      "name": "Nobody\u2019s Son",
+      "url": "https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "COLOR OUTSIDE THE LINES",
         "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "2 pa 1",
         "url": "https://open.spotify.com/album/7skQPB9PUxafPYhjfOEaQP"
@@ -205,7 +205,23 @@
       "url": "https://open.spotify.com/track/7mY74CfnMf1d7fvusV2IVQ"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "Orula Victor Mendivil",
+        "url": "https://open.spotify.com/album/5UjNbt6fonhyDFSWgHB5ix"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Felix",
+          "url": "https://open.spotify.com/artist/4i7XmDjXG5WSzjTEy9GZoC"
+        }
+      ],
+      "duration_ms": 141558,
+      "name": "Orula Victor Mendivil",
+      "url": "https://open.spotify.com/track/7bUfwLE9QPUkhMCks2pywY"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "La Ciudad del Sol",
         "url": "https://open.spotify.com/album/49pJTurTujrSQA2I5QWRMC"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "A Guevo A Guevo",
         "url": "https://open.spotify.com/album/6cTcZzvkZQyGbMWH64XDMj"
@@ -249,39 +265,7 @@
       "url": "https://open.spotify.com/track/1Xs5nP5kv7ld8cSn8dektt"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "CIBELES",
-        "url": "https://open.spotify.com/album/5TeupQ9L12ArCFZk5AewLa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Ramos",
-          "url": "https://open.spotify.com/artist/1nbrjOvQRh3w167UZjjMv4"
-        }
-      ],
-      "duration_ms": 165542,
-      "name": "CIBELES",
-      "url": "https://open.spotify.com/track/4TIePj8AE2txbcqAHxldnD"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "EVE: ROMANCE",
-        "url": "https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 193040,
-      "name": "Scott and Zelda",
-      "url": "https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "El Party Est\u00e1 Full",
         "url": "https://open.spotify.com/album/2IxjRIkZtkgELdvD1LTQk9"
@@ -301,23 +285,75 @@
       "url": "https://open.spotify.com/track/6X1qC5WeHcf6fRVfITu5mS"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
-        "name": "Orula Victor Mendivil",
-        "url": "https://open.spotify.com/album/5UjNbt6fonhyDFSWgHB5ix"
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
       },
       "artists": [
         {
-          "name": "Alejandro Felix",
-          "url": "https://open.spotify.com/artist/4i7XmDjXG5WSzjTEy9GZoC"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 141558,
-      "name": "Orula Victor Mendivil",
-      "url": "https://open.spotify.com/track/7bUfwLE9QPUkhMCks2pywY"
+      "duration_ms": 225084,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4tVVmShMF2PYdLqcejrsy2"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "EVE: ROMANCE",
+        "url": "https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 193040,
+      "name": "Scott and Zelda",
+      "url": "https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "COSITA LINDA",
+        "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 139483,
+      "name": "COSITA LINDA",
+      "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "CIBELES",
+        "url": "https://open.spotify.com/album/5TeupQ9L12ArCFZk5AewLa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Ramos",
+          "url": "https://open.spotify.com/artist/1nbrjOvQRh3w167UZjjMv4"
+        }
+      ],
+      "duration_ms": 165542,
+      "name": "CIBELES",
+      "url": "https://open.spotify.com/track/4TIePj8AE2txbcqAHxldnD"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
@@ -333,7 +369,95 @@
       "url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "W\u00e9ndeti Nagaira",
+        "url": "https://open.spotify.com/album/6PUqBwvA3q8WzjexekRUzY"
+      },
+      "artists": [
+        {
+          "name": "Manu Martinez",
+          "url": "https://open.spotify.com/artist/6PqLBIPs7YfXDxZjIygq58"
+        }
+      ],
+      "duration_ms": 277532,
+      "name": "W\u00e9ndeti Nagaira",
+      "url": "https://open.spotify.com/track/1E5vVC8xs3t7L0C4i7nuLu"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 145398,
+      "name": "When Did You Get Hot?",
+      "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "Quiero +",
+        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 128487,
+      "name": "Quiero +",
+      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "3 AM",
+        "url": "https://open.spotify.com/album/4OxSfLwWBT6u53mD0OeNGw"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Guzman",
+          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "duration_ms": 196015,
+      "name": "3 AM",
+      "url": "https://open.spotify.com/track/4B3cGux5Dy2VRYUbsqDj4M"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "Eta \u00d1ema",
+        "url": "https://open.spotify.com/album/1rIeegSoj3NSpSku2WfiyZ"
+      },
+      "artists": [
+        {
+          "name": "La Makulada",
+          "url": "https://open.spotify.com/artist/0Ag9ysvWMLaQ6XEe0FMpNI"
+        },
+        {
+          "name": "Greka Grekon",
+          "url": "https://open.spotify.com/artist/6hDsK3Qmb4gfxRYTkVVyY0"
+        }
+      ],
+      "duration_ms": 111627,
+      "name": "Eta \u00d1ema",
+      "url": "https://open.spotify.com/track/3CwMEOwdKxfa6c5AgnumQS"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "Cai de Perna Aberta 2",
         "url": "https://open.spotify.com/album/78owhP1ysG3groqWQqtDNm"
@@ -357,135 +481,7 @@
       "url": "https://open.spotify.com/track/0RF8xGzjPcsZPI4lnfA3YH"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 225084,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/4tVVmShMF2PYdLqcejrsy2"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 145398,
-      "name": "When Did You Get Hot?",
-      "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "Scat Pack",
-        "url": "https://open.spotify.com/album/2GokHfG7eRuwqTCsptZNRx"
-      },
-      "artists": [
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 253658,
-      "name": "Scat Pack",
-      "url": "https://open.spotify.com/track/43cjtebODc9uKZbhAhD2J2"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "COSITA LINDA",
-        "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 139483,
-      "name": "COSITA LINDA",
-      "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "Eta \u00d1ema",
-        "url": "https://open.spotify.com/album/1rIeegSoj3NSpSku2WfiyZ"
-      },
-      "artists": [
-        {
-          "name": "La Makulada",
-          "url": "https://open.spotify.com/artist/0Ag9ysvWMLaQ6XEe0FMpNI"
-        },
-        {
-          "name": "Greka Grekon",
-          "url": "https://open.spotify.com/artist/6hDsK3Qmb4gfxRYTkVVyY0"
-        }
-      ],
-      "duration_ms": 111627,
-      "name": "Eta \u00d1ema",
-      "url": "https://open.spotify.com/track/3CwMEOwdKxfa6c5AgnumQS"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "Confess Your Love",
-        "url": "https://open.spotify.com/album/2PtCXk5zuZ1vuMfWGfZyyO"
-      },
-      "artists": [
-        {
-          "name": "Jiandro",
-          "url": "https://open.spotify.com/artist/7cRE1zBQ5riXZrsoU8Z8Re"
-        },
-        {
-          "name": "ola.wav",
-          "url": "https://open.spotify.com/artist/1KJ9LBSLbpUb7rHAUdgV5I"
-        }
-      ],
-      "duration_ms": 131253,
-      "name": "Confess Your Love",
-      "url": "https://open.spotify.com/track/5wGsHz4u8LopZlpwIZO60q"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "Quiero +",
-        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 128487,
-      "name": "Quiero +",
-      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -517,55 +513,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "W\u00e9ndeti Nagaira",
-        "url": "https://open.spotify.com/album/6PUqBwvA3q8WzjexekRUzY"
-      },
-      "artists": [
-        {
-          "name": "Manu Martinez",
-          "url": "https://open.spotify.com/artist/6PqLBIPs7YfXDxZjIygq58"
-        }
-      ],
-      "duration_ms": 277532,
-      "name": "W\u00e9ndeti Nagaira",
-      "url": "https://open.spotify.com/track/1E5vVC8xs3t7L0C4i7nuLu"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 197817,
-      "name": "My Man on Willpower",
-      "url": "https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "\u9769\u547d\u9053\u4e2d - On The Way",
         "url": "https://open.spotify.com/album/6uBwz7fKYpTHQqEvbpRMQu"
@@ -581,27 +529,79 @@
       "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
-        "name": "3 AM",
-        "url": "https://open.spotify.com/album/4OxSfLwWBT6u53mD0OeNGw"
+        "name": "Scat Pack",
+        "url": "https://open.spotify.com/album/2GokHfG7eRuwqTCsptZNRx"
       },
       "artists": [
         {
-          "name": "Jimmy Guzman",
-          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
         },
         {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         }
       ],
-      "duration_ms": 196015,
-      "name": "3 AM",
-      "url": "https://open.spotify.com/track/4B3cGux5Dy2VRYUbsqDj4M"
+      "duration_ms": 253658,
+      "name": "Scat Pack",
+      "url": "https://open.spotify.com/track/43cjtebODc9uKZbhAhD2J2"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "Confess Your Love",
+        "url": "https://open.spotify.com/album/2PtCXk5zuZ1vuMfWGfZyyO"
+      },
+      "artists": [
+        {
+          "name": "Jiandro",
+          "url": "https://open.spotify.com/artist/7cRE1zBQ5riXZrsoU8Z8Re"
+        },
+        {
+          "name": "ola.wav",
+          "url": "https://open.spotify.com/artist/1KJ9LBSLbpUb7rHAUdgV5I"
+        }
+      ],
+      "duration_ms": 131253,
+      "name": "Confess Your Love",
+      "url": "https://open.spotify.com/track/5wGsHz4u8LopZlpwIZO60q"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 169214,
+      "name": "House Tour",
+      "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "YMDTP",
         "url": "https://open.spotify.com/album/4d8RwwSdksaEGY0L9q0fna"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/77ClfgbmEQssMhCuPm61I5"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "Ba Ba Bad Remix",
         "url": "https://open.spotify.com/album/4uINomjZHEhXFLHTTCgoPt"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "Babylon Club",
         "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
@@ -661,63 +661,43 @@
       "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
-        "name": "No Capea",
-        "url": "https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd"
+        "name": "Mt. Zion",
+        "url": "https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd"
       },
       "artists": [
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "duration_ms": 222230,
+      "name": "Watch Your Mouth",
+      "url": "https://open.spotify.com/track/1AbSedPxXMKs3mALPjiNfM"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "AFROROCKSTAR",
+        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
         },
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 194605,
-      "name": "No Capea",
-      "url": "https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8"
+      "duration_ms": 212091,
+      "name": "4LIFE",
+      "url": "https://open.spotify.com/track/0we0zgeUB9ARtEYfFcBhGp"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "No Broke Boys",
-        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 163994,
-      "name": "No Broke Boys",
-      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "BORONDO",
-        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 184547,
-      "name": "si te pillara",
-      "url": "https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
@@ -728,64 +708,12 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 169214,
-      "name": "House Tour",
-      "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
+      "duration_ms": 197817,
+      "name": "My Man on Willpower",
+      "url": "https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 226035,
-      "name": "MIENTRAS DUERMES",
-      "url": "https://open.spotify.com/track/4e76Ss3ji7HQZ4qwcPNkNA"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "The First Family of Soul: The Best of The Five Stairsteps",
-        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
-      },
-      "artists": [
-        {
-          "name": "The Five Stairsteps",
-          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Come Back - Buddha Remastered 2001",
-      "url": "https://open.spotify.com/track/7K6KRwyvE0plDEzxrVmCon"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "Hecho para ti",
-        "url": "https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        },
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 152734,
-      "name": "Hecho para ti",
-      "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "2+2",
         "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
@@ -805,7 +733,79 @@
       "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "No Broke Boys",
+        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "El Templo del Pop, Vol. 2",
+        "url": "https://open.spotify.com/album/7hfkdtulZht6MCFAvvXEGl"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Tu Misterioso Alguien",
+      "url": "https://open.spotify.com/track/4ksf1UdqNc9pU8R4ZZrgdY"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "No Capea",
+        "url": "https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194605,
+      "name": "No Capea",
+      "url": "https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 226035,
+      "name": "MIENTRAS DUERMES",
+      "url": "https://open.spotify.com/track/4e76Ss3ji7HQZ4qwcPNkNA"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "ZAZA (Remix)",
         "url": "https://open.spotify.com/album/0T5xVk0gJGFT32gLsea2T4"
@@ -833,91 +833,59 @@
       "url": "https://open.spotify.com/track/157SLPPoUprFCCeFf6aSSK"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
-        "name": "El Templo del Pop, Vol. 2",
-        "url": "https://open.spotify.com/album/7hfkdtulZht6MCFAvvXEGl"
+        "name": "Hecho para ti",
+        "url": "https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC"
       },
       "artists": [
         {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Tu Misterioso Alguien",
-      "url": "https://open.spotify.com/track/4ksf1UdqNc9pU8R4ZZrgdY"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "AFROROCKSTAR",
-        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
         },
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 212091,
-      "name": "4LIFE",
-      "url": "https://open.spotify.com/track/0we0zgeUB9ARtEYfFcBhGp"
+      "duration_ms": 152734,
+      "name": "Hecho para ti",
+      "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
-        "name": "Mt. Zion",
-        "url": "https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd"
+        "name": "The First Family of Soul: The Best of The Five Stairsteps",
+        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
       },
       "artists": [
         {
-          "name": "Josiah Queen",
-          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+          "name": "The Five Stairsteps",
+          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
         }
       ],
-      "duration_ms": 222230,
-      "name": "Watch Your Mouth",
-      "url": "https://open.spotify.com/track/1AbSedPxXMKs3mALPjiNfM"
+      "duration_ms": 174706,
+      "name": "Come Back - Buddha Remastered 2001",
+      "url": "https://open.spotify.com/track/7K6KRwyvE0plDEzxrVmCon"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
-        "name": "Due\u00f1o del Jard\u00edn",
-        "url": "https://open.spotify.com/album/0tz8tpENFK4GbkeHgx1hj6"
+        "name": "Tung Tung Tung Sahur (Psy-Trance)",
+        "url": "https://open.spotify.com/album/2ZaGAhX7FaGJBAYICFP0pS"
       },
       "artists": [
         {
-          "name": "Jorge Cuellar",
-          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
+          "name": "DJ Tralalero Tralala",
+          "url": "https://open.spotify.com/artist/5rChNZRJnV2MciNb9U6HyH"
         }
       ],
-      "duration_ms": 169396,
-      "name": "Ayayay",
-      "url": "https://open.spotify.com/track/2bcpAh7D4BHjXo9ZGPLIdU"
+      "duration_ms": 133147,
+      "name": "Tung Tung Tung Sahur",
+      "url": "https://open.spotify.com/track/7N0hlz8sQ1wPI4iH5Fh2L1"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
-      "album": {
-        "name": "POR SUS BESOS",
-        "url": "https://open.spotify.com/album/4cSbE15ekeLLRncLno6AJI"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 186142,
-      "name": "POR SUS BESOS",
-      "url": "https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt"
-    },
-    {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
@@ -933,7 +901,23 @@
       "url": "https://open.spotify.com/track/5B3GZOZYXNzWpUXQC42hxZ"
     },
     {
-      "added_at": "2025-09-16 16:17:50",
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "Due\u00f1o del Jard\u00edn",
+        "url": "https://open.spotify.com/album/0tz8tpENFK4GbkeHgx1hj6"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cuellar",
+          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
+        }
+      ],
+      "duration_ms": 169396,
+      "name": "Ayayay",
+      "url": "https://open.spotify.com/track/2bcpAh7D4BHjXo9ZGPLIdU"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
       "album": {
         "name": "Montagem Supersonic",
         "url": "https://open.spotify.com/album/0fauumBf19hArK8Wt3XhkC"
@@ -951,6 +935,26 @@
       "duration_ms": 87816,
       "name": "Montagem Supersonic",
       "url": "https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk"
+    },
+    {
+      "added_at": "2025-09-17 16:24:25",
+      "album": {
+        "name": "I'M PART",
+        "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
+      },
+      "artists": [
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        }
+      ],
+      "duration_ms": 178293,
+      "name": "Zundada de fondo",
+      "url": "https://open.spotify.com/track/5JVcZypdXkwfZAmtTzJSRE"
     }
   ],
   "unique_name": "Viral 50 - Honduras",

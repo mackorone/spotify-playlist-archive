@@ -134,6 +134,6 @@
 | [Wings!!!](https://open.spotify.com/track/0UudX2HUm3SEmpDuXSpNGC) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 3:37 | 2025-05-13 | 2025-06-10 |
 | [Wings!!!](https://open.spotify.com/track/20JJTYM69TGEJkS9aghe61) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 3:37 | 2025-06-12 |  |
 | [Wings!!!](https://open.spotify.com/track/6gPt5C0jGGI97i7TzxHrOg) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Wings!!!](https://open.spotify.com/album/3JQhE583coEBImqn82h1Du) | 3:42 | 2024-12-14 | 2025-04-01 |
-| [Xaiyne \- 2021 Version](https://open.spotify.com/track/5P6n33YS2cZF4qtE4YF1t9) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 0:58 | 2024-12-14 | 2025-09-16 |
+| [Xaiyne \- 2021 Version](https://open.spotify.com/track/5P6n33YS2cZF4qtE4YF1t9) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 0:58 | 2024-12-14 |  |
 
 \*This playlist was first scraped on 2024-12-14. Prior content cannot be recovered.

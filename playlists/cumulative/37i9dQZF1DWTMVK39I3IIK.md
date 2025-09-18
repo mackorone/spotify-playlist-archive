@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  ORA
 
-303 songs - 15 hr 25 min
+304 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Gennemsku Mig Nu](https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [grib mig hvis jeg falder](https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj) | 3:13 | 2024-06-27 | 2025-08-01 |
 | [Genstart](https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [GENSTART](https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11) | 4:40 | 2024-06-27 |  |
 | [Get down](https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Get down / Loving you](https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv) | 2:25 | 2024-08-15 | 2024-08-23 |
-| [Ghosted](https://open.spotify.com/track/1jJIJqxbAEAIUa15BuJVxa) | [june](https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X) | [Too Bad We Grow Up](https://open.spotify.com/album/3JEsGLchf4cPvjSud2EefH) | 3:13 | 2025-06-05 |  |
+| [Ghosted](https://open.spotify.com/track/1jJIJqxbAEAIUa15BuJVxa) | [june](https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X) | [Too Bad We Grow Up](https://open.spotify.com/album/3JEsGLchf4cPvjSud2EefH) | 3:13 | 2025-06-05 | 2025-09-18 |
 | [Gi' Mig Lige](https://open.spotify.com/track/6cgvpCN5EDQOGQdYyK8e3a) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Gi' Mig Lige](https://open.spotify.com/album/1RbqPsFleMMtKhkvwufqjA) | 2:41 | 2024-07-11 | 2025-01-24 |
 | [Go Fast Go Slow](https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Go Fast Go Slow](https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG) | 3:39 | 2024-06-27 | 2024-08-23 |
 | [Grå Skyer](https://open.spotify.com/track/0sdW0LZgcaY5KGPzLrq55A) | [hun\_sagde](https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB) | [Grå Skyer](https://open.spotify.com/album/6pikXZAx9cyLdYSisP5gBE) | 2:51 | 2025-03-07 | 2025-03-14 |
@@ -131,6 +131,7 @@
 | [Hjertet På Gaden](https://open.spotify.com/track/62EPQ5REuZwGqWoRsPP5Bx) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Hjertet På Gaden](https://open.spotify.com/album/1C6wKGnTdXN5yzDIxllZsR) | 5:12 | 2024-11-14 |  |
 | [Hope I don't need it](https://open.spotify.com/track/3Rs2tyUZmTUkjqeDoPbBng) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [Hope I don't need it](https://open.spotify.com/album/5xekVatNyBScf4BBFlPAve) | 1:55 | 2025-05-29 | 2025-06-06 |
 | [HOT \(feat\. Papa E\)](https://open.spotify.com/track/6ZrzenY5yEFciqcIUmZSYS) | [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun), [Papa E](https://open.spotify.com/artist/5xnL1wWZMXg9asLC3A05Y7) | [HOT \(feat\. Papa E\)](https://open.spotify.com/album/57MfySDOa1Z3M0R2aaZxUa) | 2:39 | 2025-05-01 | 2025-06-27 |
+| [How Does It Make U Feel](https://open.spotify.com/track/76KQNTCROBYS2FCsW22z59) | [Betty Bass](https://open.spotify.com/artist/0TwII45Qeh2MAqMjEIoQ8b) | [How Does It Make U Feel](https://open.spotify.com/album/0IqDhsXRrfVOGsOT3J4Bzg) | 3:09 | 2025-09-11 |  |
 | [Hun](https://open.spotify.com/track/6ZC9iIWBCy4VtBhoY1YTuR) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Nye Tider](https://open.spotify.com/album/5pJ0ffWRRHKdlYZPB18S9U) | 3:14 | 2024-06-27 | 2025-08-01 |
 | [Hva Nu Hvis](https://open.spotify.com/track/4taQDbXw2ioOHIy6uj6XOG) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L) | [Hva Nu Hvis](https://open.spotify.com/album/6zBoSmv6vEwoys2yOvKChF) | 3:03 | 2025-02-27 | 2025-03-28 |
 | [hva så?](https://open.spotify.com/track/5IeqczS5hrm0otRU9O8YWe) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [hva så?](https://open.spotify.com/album/0KmHCjtrUeOPujRiAcULPj) | 2:44 | 2024-09-05 | 2025-04-05 |

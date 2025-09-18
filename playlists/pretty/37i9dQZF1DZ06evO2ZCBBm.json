@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 48270,
+  "num_followers": 48275,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAAAqQ6a46a1aCj6HtRSHO1di",
+  "snapshot_id": "aMiogAAAAAAnYquy4iuQYGoojYIPe46l",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+        "name": "Artwork (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3998jgjlz1fvCo57NoN07p"
       },
       "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
         {
           "name": "The Used",
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 191559,
-      "name": "toxic energy (with Bert McCracken of The Used)",
-      "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
+      "duration_ms": 197866,
+      "name": "Blood on My Hands",
+      "url": "https://open.spotify.com/track/5hNeatT8kKThMjqGNi9SZk"
     },
     {
       "added_at": null,
@@ -375,18 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artwork (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3998jgjlz1fvCo57NoN07p"
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
       "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
         {
           "name": "The Used",
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 197866,
-      "name": "Blood on My Hands",
-      "url": "https://open.spotify.com/track/5hNeatT8kKThMjqGNi9SZk"
+      "duration_ms": 191559,
+      "name": "toxic energy (with Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 183044,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo"
+      "duration_ms": 197966,
+      "name": "Before I Leave",
+      "url": "https://open.spotify.com/track/4UvpM0BuXyfbHmt9hhAiZk"
     },
     {
       "added_at": null,
@@ -640,9 +640,25 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 197966,
-      "name": "Before I Leave",
-      "url": "https://open.spotify.com/track/4UvpM0BuXyfbHmt9hhAiZk"
+      "duration_ms": 183044,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 168891,
+      "name": "I Hate Everybody",
+      "url": "https://open.spotify.com/track/5N7p0vxDpd6oxrrxJiisIv"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
       "duration_ms": 196560,
       "name": "Dearly Departed (feat. robbietheused)",
       "url": "https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 168891,
-      "name": "I Hate Everybody",
-      "url": "https://open.spotify.com/track/5N7p0vxDpd6oxrrxJiisIv"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 174350,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/1duAXhfgEErfZ2yrdhpSXw"
+      "duration_ms": 157489,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4fOp1YbB4mTx0HYkmjs5OC"
     },
     {
       "added_at": null,
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 157489,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/4fOp1YbB4mTx0HYkmjs5OC"
+      "duration_ms": 174350,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/1duAXhfgEErfZ2yrdhpSXw"
     },
     {
       "added_at": null,

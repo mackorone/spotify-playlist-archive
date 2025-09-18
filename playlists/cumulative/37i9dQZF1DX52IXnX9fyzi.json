@@ -1964,7 +1964,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 134624,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/138hYSG5oyEk6NwpY9VYrB"
@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 146041,
       "name": "Echoes in the Rain",
       "url": "https://open.spotify.com/track/4SHc8k6K4KEviFqdI7VoHU"
@@ -2756,7 +2756,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 132750,
       "name": "For Annemieke",
       "url": "https://open.spotify.com/track/6d8UCO1LCZUsDRUcN2hBUs"
@@ -3282,7 +3282,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 130806,
       "name": "Hoffnungsschimmer",
       "url": "https://open.spotify.com/track/0ue7IZFMGtOO5nS5RVA3PY"
@@ -4474,7 +4474,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 162369,
       "name": "Les pages du matin",
       "url": "https://open.spotify.com/track/4fKPpJFzHdVNgWtaZVXZV5"
@@ -4726,7 +4726,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 134056,
       "name": "Lost to memories",
       "url": "https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx"
@@ -5320,7 +5320,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 182500,
       "name": "Narrative",
       "url": "https://open.spotify.com/track/1QKnzkBw9Hb5wjQG6qV1mS"
@@ -5579,6 +5579,24 @@
     },
     {
       "album": {
+        "name": "Notes in the Distance",
+        "url": "https://open.spotify.com/album/5sGxD9X76SonZy66wQBJ74"
+      },
+      "artists": [
+        {
+          "name": "Dave Sherman",
+          "url": "https://open.spotify.com/artist/7p9avjMf6a7ZqxS011oeuO"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132831,
+      "name": "Notes in the Distance",
+      "url": "https://open.spotify.com/track/4VJZdPRBGUc2umlo43Q1Lf"
+    },
+    {
+      "album": {
         "name": "Now That You're Gone",
         "url": "https://open.spotify.com/album/4Y4chbdc4rcDnHFdCyz5WA"
       },
@@ -5742,6 +5760,24 @@
       "duration_ms": 187004,
       "name": "Once Upon A Time",
       "url": "https://open.spotify.com/track/1z7EOsEf4wCOCsqHep43pf"
+    },
+    {
+      "album": {
+        "name": "Only in My Mind",
+        "url": "https://open.spotify.com/album/1CJzK5LKuNyCTVuEuydt9d"
+      },
+      "artists": [
+        {
+          "name": "Dawn Huntley",
+          "url": "https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139266,
+      "name": "Only in My Mind",
+      "url": "https://open.spotify.com/track/71CDHXlAiUlU2ZnyU2gOWc"
     },
     {
       "album": {
@@ -7634,7 +7670,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 183454,
       "name": "Tension Begins To Slip Away",
       "url": "https://open.spotify.com/track/4uKlYSgXaA9g8nHSl0Zh7G"
@@ -7786,6 +7822,24 @@
       "duration_ms": 240194,
       "name": "The Fumes",
       "url": "https://open.spotify.com/track/3hFMkp1whfTIyByhaJZh6D"
+    },
+    {
+      "album": {
+        "name": "the girl in white",
+        "url": "https://open.spotify.com/album/6xutuCujhp11K26MQUT3qc"
+      },
+      "artists": [
+        {
+          "name": "Aisen Voight",
+          "url": "https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157164,
+      "name": "the girl in white",
+      "url": "https://open.spotify.com/track/013G9Rc4F99RaHINNGWy9f"
     },
     {
       "album": {
@@ -8110,6 +8164,24 @@
       "duration_ms": 181777,
       "name": "Through The Years",
       "url": "https://open.spotify.com/track/66ZgkGert8jeTCEtUq7KcQ"
+    },
+    {
+      "album": {
+        "name": "Through Twining Roses",
+        "url": "https://open.spotify.com/album/3ZCcYZo5rAu903w1RCzVg1"
+      },
+      "artists": [
+        {
+          "name": "North Connolly",
+          "url": "https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144180,
+      "name": "Through Twining Roses",
+      "url": "https://open.spotify.com/track/2d8Rn8vFj1bQVpaUEU9g5t"
     },
     {
       "album": {

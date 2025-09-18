@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: KPop Demon Hunters\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,763 likes - 228 songs - 15 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,998 likes - 228 songs - 15 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

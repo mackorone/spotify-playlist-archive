@@ -271,18 +271,18 @@
     {
       "added_at": "2025-09-11 22:00:25",
       "album": {
-        "name": "Jag \u00c4r",
-        "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
+        "name": "Forgive, Forget",
+        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
       },
       "artists": [
         {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
         }
       ],
-      "duration_ms": 183160,
-      "name": "Magk\u00e4nsla",
-      "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
+      "duration_ms": 169608,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
     },
     {
       "added_at": "2025-09-11 22:00:25",
@@ -323,34 +323,18 @@
     {
       "added_at": "2025-09-11 22:00:25",
       "album": {
-        "name": "Forgive, Forget",
-        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
+        "name": "Jag \u00c4r",
+        "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
       },
       "artists": [
         {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
         }
       ],
-      "duration_ms": 169608,
-      "name": "Forgive, Forget",
-      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
-    },
-    {
-      "added_at": "2025-09-11 22:00:25",
-      "album": {
-        "name": "Mannen i spegeln",
-        "url": "https://open.spotify.com/album/7rDK3KNlGHRXAHBrH5Vp3L"
-      },
-      "artists": [
-        {
-          "name": "Lasse Stefanz",
-          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Mannen i spegeln",
-      "url": "https://open.spotify.com/track/69HqVKBK0Pgh0UzDaCyfO7"
+      "duration_ms": 183160,
+      "name": "Magk\u00e4nsla",
+      "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
     },
     {
       "added_at": "2025-09-11 22:00:25",
@@ -367,6 +351,22 @@
       "duration_ms": 160975,
       "name": "Ingen vet",
       "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
+    },
+    {
+      "added_at": "2025-09-11 22:00:25",
+      "album": {
+        "name": "Mannen i spegeln",
+        "url": "https://open.spotify.com/album/7rDK3KNlGHRXAHBrH5Vp3L"
+      },
+      "artists": [
+        {
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Mannen i spegeln",
+      "url": "https://open.spotify.com/track/69HqVKBK0Pgh0UzDaCyfO7"
     },
     {
       "added_at": "2025-09-11 22:00:25",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-09-11 22:00:25",
       "album": {
-        "name": "Springer Ikapp",
-        "url": "https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 214033,
-      "name": "Springer ikapp",
-      "url": "https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I"
-    },
-    {
-      "added_at": "2025-09-11 22:00:25",
-      "album": {
         "name": "F\u00f6rloraren",
         "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 185333,
       "name": "F\u00f6rloraren",
       "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
+    },
+    {
+      "added_at": "2025-09-11 22:00:25",
+      "album": {
+        "name": "Springer Ikapp",
+        "url": "https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "duration_ms": 214033,
+      "name": "Springer ikapp",
+      "url": "https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I"
     },
     {
       "added_at": "2025-09-11 22:00:25",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-09-11 22:00:25",
       "album": {
-        "name": "Tracks II: The Lost Albums",
-        "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 345866,
-      "name": "Unsatisfied Heart",
-      "url": "https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk"
-    },
-    {
-      "added_at": "2025-09-11 22:00:25",
-      "album": {
         "name": "AND THEN, FROM THE SHADOWS - EP",
         "url": "https://open.spotify.com/album/0wZLxZ9Y3IbCvuMiPssrbA"
       },
@@ -491,18 +475,18 @@
     {
       "added_at": "2025-09-11 22:00:25",
       "album": {
-        "name": "Den k\u00e4nslan",
-        "url": "https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2"
+        "name": "Tracks II: The Lost Albums",
+        "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
       },
       "artists": [
         {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 166963,
-      "name": "Den k\u00e4nslan",
-      "url": "https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz"
+      "duration_ms": 345866,
+      "name": "Unsatisfied Heart",
+      "url": "https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk"
     },
     {
       "added_at": "2025-09-11 22:00:25",
@@ -519,6 +503,22 @@
       "duration_ms": 228482,
       "name": "All These Years",
       "url": "https://open.spotify.com/track/79SPu1VplDqde3ONfxvS4w"
+    },
+    {
+      "added_at": "2025-09-11 22:00:25",
+      "album": {
+        "name": "Den k\u00e4nslan",
+        "url": "https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "duration_ms": 166963,
+      "name": "Den k\u00e4nslan",
+      "url": "https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz"
     },
     {
       "added_at": "2025-09-11 22:00:25",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-09-11 22:00:25",
       "album": {
-        "name": "The Forest Is The Path (Extended Edition)",
-        "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 179122,
-      "name": "This Is The Silence",
-      "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
-    },
-    {
-      "added_at": "2025-09-11 22:00:25",
-      "album": {
         "name": "F\u00f6r evigt ny",
         "url": "https://open.spotify.com/album/08ddJCSdEDyPKzc2kOJHHW"
       },
@@ -591,18 +575,18 @@
     {
       "added_at": "2025-09-11 22:00:25",
       "album": {
-        "name": "N\u00e5gonting som aldrig h\u00e4nt",
-        "url": "https://open.spotify.com/album/3rYdUbfxhvKM4jMBfc8tgq"
+        "name": "The Forest Is The Path (Extended Edition)",
+        "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
       },
       "artists": [
         {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
         }
       ],
-      "duration_ms": 181829,
-      "name": "N\u00e5gonting som aldrig h\u00e4nt",
-      "url": "https://open.spotify.com/track/2iMnR4e7P0IdHepdkp402R"
+      "duration_ms": 179122,
+      "name": "This Is The Silence",
+      "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
     },
     {
       "added_at": "2025-09-11 22:00:25",
@@ -635,6 +619,22 @@
       "duration_ms": 233726,
       "name": "Djungeltelegrafen",
       "url": "https://open.spotify.com/track/6X8dMR7RCjRripob2e23xM"
+    },
+    {
+      "added_at": "2025-09-11 22:00:25",
+      "album": {
+        "name": "N\u00e5gonting som aldrig h\u00e4nt",
+        "url": "https://open.spotify.com/album/3rYdUbfxhvKM4jMBfc8tgq"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 181829,
+      "name": "N\u00e5gonting som aldrig h\u00e4nt",
+      "url": "https://open.spotify.com/track/2iMnR4e7P0IdHepdkp402R"
     },
     {
       "added_at": "2025-09-11 22:00:25",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-09-11 22:00:25",
       "album": {
-        "name": "Dansa i neon",
-        "url": "https://open.spotify.com/album/7iAqElCjbYi83uxAuWDCZt"
-      },
-      "artists": [
-        {
-          "name": "Noice",
-          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
-        }
-      ],
-      "duration_ms": 195113,
-      "name": "Dansa i neon",
-      "url": "https://open.spotify.com/track/3KyfoGVGB48ycd2fG1Boyt"
-    },
-    {
-      "added_at": "2025-09-11 22:00:25",
-      "album": {
         "name": "Lake Geneva",
         "url": "https://open.spotify.com/album/4LUkFSa4KMpoFyXbX06t0A"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2025-09-11 22:00:25",
       "album": {
+        "name": "Dansa i neon",
+        "url": "https://open.spotify.com/album/7iAqElCjbYi83uxAuWDCZt"
+      },
+      "artists": [
+        {
+          "name": "Noice",
+          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
+        }
+      ],
+      "duration_ms": 195113,
+      "name": "Dansa i neon",
+      "url": "https://open.spotify.com/track/3KyfoGVGB48ycd2fG1Boyt"
+    },
+    {
+      "added_at": "2025-09-11 22:00:25",
+      "album": {
         "name": "Know You've Been Loved",
         "url": "https://open.spotify.com/album/2wA37r8oJRabkUrgzrkWUI"
       },
@@ -1095,6 +1095,38 @@
       "duration_ms": 216594,
       "name": "Know You've Been Loved",
       "url": "https://open.spotify.com/track/7FLEPid2NVZg3TePBk3eHS"
+    },
+    {
+      "added_at": "2025-09-11 22:00:25",
+      "album": {
+        "name": "Just idag \u00e4r jag stark",
+        "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
+      },
+      "artists": [
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Just idag \u00e4r jag stark",
+      "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
+    },
+    {
+      "added_at": "2025-09-11 22:00:25",
+      "album": {
+        "name": "F-Bomb",
+        "url": "https://open.spotify.com/album/50qDq5SuKpZCiuYQy3eKE3"
+      },
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
+        }
+      ],
+      "duration_ms": 227026,
+      "name": "F-Bomb",
+      "url": "https://open.spotify.com/track/0VkSUNZoG6kE0Rtnz4Hsf4"
     },
     {
       "added_at": "2025-09-11 22:00:25",
@@ -1119,54 +1151,6 @@
     {
       "added_at": "2025-09-11 22:00:25",
       "album": {
-        "name": "F-Bomb",
-        "url": "https://open.spotify.com/album/50qDq5SuKpZCiuYQy3eKE3"
-      },
-      "artists": [
-        {
-          "name": "Jill Johnson",
-          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
-        }
-      ],
-      "duration_ms": 227026,
-      "name": "F-Bomb",
-      "url": "https://open.spotify.com/track/0VkSUNZoG6kE0Rtnz4Hsf4"
-    },
-    {
-      "added_at": "2025-09-11 22:00:25",
-      "album": {
-        "name": "Just idag \u00e4r jag stark",
-        "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
-      },
-      "artists": [
-        {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Just idag \u00e4r jag stark",
-      "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
-    },
-    {
-      "added_at": "2025-09-11 22:00:25",
-      "album": {
-        "name": "En sommar utan dig",
-        "url": "https://open.spotify.com/album/0ibawcvzE2ExcTRji1fB8z"
-      },
-      "artists": [
-        {
-          "name": "Andreas Leksell",
-          "url": "https://open.spotify.com/artist/1dTWIwLka3fNreoT3lKbun"
-        }
-      ],
-      "duration_ms": 189593,
-      "name": "En sommar utan dig",
-      "url": "https://open.spotify.com/track/7i2vdHortsCwFlsIBT7fCJ"
-    },
-    {
-      "added_at": "2025-09-11 22:00:25",
-      "album": {
         "name": "Two Of Us",
         "url": "https://open.spotify.com/album/0ED0rbxhIywSk2WP7Ym1OB"
       },
@@ -1187,22 +1171,6 @@
     {
       "added_at": "2025-09-11 22:00:25",
       "album": {
-        "name": "L\u00e5nat",
-        "url": "https://open.spotify.com/album/1pKWyplKpbYHNw1Xdu003A"
-      },
-      "artists": [
-        {
-          "name": "Maxida M\u00e4rak",
-          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "Besv\u00e4rjelse (jag kommer \u00e4lska dig d\u00e5)",
-      "url": "https://open.spotify.com/track/0V5IP7tHiJXpyWRsSV5GAX"
-    },
-    {
-      "added_at": "2025-09-11 22:00:25",
-      "album": {
         "name": "K\u00e4rleken \u00e4r kung",
         "url": "https://open.spotify.com/album/27SBkKqyRUA4R2VsZFHrap"
       },
@@ -1215,6 +1183,38 @@
       "duration_ms": 149153,
       "name": "K\u00e4rleken \u00e4r kung",
       "url": "https://open.spotify.com/track/7rzDJT222ftI5j1FAzApNv"
+    },
+    {
+      "added_at": "2025-09-11 22:00:25",
+      "album": {
+        "name": "En sommar utan dig",
+        "url": "https://open.spotify.com/album/0ibawcvzE2ExcTRji1fB8z"
+      },
+      "artists": [
+        {
+          "name": "Andreas Leksell",
+          "url": "https://open.spotify.com/artist/1dTWIwLka3fNreoT3lKbun"
+        }
+      ],
+      "duration_ms": 189593,
+      "name": "En sommar utan dig",
+      "url": "https://open.spotify.com/track/7i2vdHortsCwFlsIBT7fCJ"
+    },
+    {
+      "added_at": "2025-09-11 22:00:25",
+      "album": {
+        "name": "L\u00e5nat",
+        "url": "https://open.spotify.com/album/1pKWyplKpbYHNw1Xdu003A"
+      },
+      "artists": [
+        {
+          "name": "Maxida M\u00e4rak",
+          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "Besv\u00e4rjelse (jag kommer \u00e4lska dig d\u00e5)",
+      "url": "https://open.spotify.com/track/0V5IP7tHiJXpyWRsSV5GAX"
     },
     {
       "added_at": "2025-09-11 22:00:25",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-09-11 22:00:25",
       "album": {
-        "name": "Wedding In Leipzig",
-        "url": "https://open.spotify.com/album/797xaR6WVTBnzBpzkbYXYq"
-      },
-      "artists": [
-        {
-          "name": "Jens Lekman",
-          "url": "https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx"
-        }
-      ],
-      "duration_ms": 633333,
-      "name": "Wedding in Leipzig",
-      "url": "https://open.spotify.com/track/11xahEyH2ySa20FGwptUec"
-    },
-    {
-      "added_at": "2025-09-11 22:00:25",
-      "album": {
         "name": "M\u00e5nen",
         "url": "https://open.spotify.com/album/1l5Mvjssz7K5HfIyTHD0g2"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 159329,
       "name": "M\u00e5nen",
       "url": "https://open.spotify.com/track/0K983v0A3vx4mtWv2TxjXQ"
+    },
+    {
+      "added_at": "2025-09-11 22:00:25",
+      "album": {
+        "name": "Wedding In Leipzig",
+        "url": "https://open.spotify.com/album/797xaR6WVTBnzBpzkbYXYq"
+      },
+      "artists": [
+        {
+          "name": "Jens Lekman",
+          "url": "https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx"
+        }
+      ],
+      "duration_ms": 633333,
+      "name": "Wedding in Leipzig",
+      "url": "https://open.spotify.com/track/11xahEyH2ySa20FGwptUec"
     },
     {
       "added_at": "2025-09-11 22:00:25",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-09-11 22:00:25",
       "album": {
-        "name": "ICONIC",
-        "url": "https://open.spotify.com/album/5s1DZmhfJzyl3jaWKtVaS7"
-      },
-      "artists": [
-        {
-          "name": "Maja Ivarsson",
-          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "ICONIC",
-      "url": "https://open.spotify.com/track/35OYbuQ13AT4lSgk5C3Txv"
-    },
-    {
-      "added_at": "2025-09-11 22:00:25",
-      "album": {
         "name": "What I'm Running From",
         "url": "https://open.spotify.com/album/6acnHsy1zaSQuHh7t984lz"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 227654,
       "name": "What I'm Running From",
       "url": "https://open.spotify.com/track/0WHfeFf2idoHxPMHQ8bhI5"
+    },
+    {
+      "added_at": "2025-09-11 22:00:25",
+      "album": {
+        "name": "ICONIC",
+        "url": "https://open.spotify.com/album/5s1DZmhfJzyl3jaWKtVaS7"
+      },
+      "artists": [
+        {
+          "name": "Maja Ivarsson",
+          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "ICONIC",
+      "url": "https://open.spotify.com/track/35OYbuQ13AT4lSgk5C3Txv"
     },
     {
       "added_at": "2025-09-11 22:00:25",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2025-09-11 22:00:25",
       "album": {
+        "name": "Den jag aldrig kunde va",
+        "url": "https://open.spotify.com/album/0EU5Ugb6KcCUiK3DuQ2Dum"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 169301,
+      "name": "Den jag aldrig kunde va",
+      "url": "https://open.spotify.com/track/5epuLjfS7X2LM5c0bGcBjJ"
+    },
+    {
+      "added_at": "2025-09-11 22:00:25",
+      "album": {
         "name": "N\u00f6d och lust",
         "url": "https://open.spotify.com/album/6Y7RhVGnwyJxpTgKIGeNYP"
       },
@@ -1359,6 +1375,26 @@
       "duration_ms": 171940,
       "name": "N\u00f6d och lust",
       "url": "https://open.spotify.com/track/3HhGWw77PZRn7k4YMku96d"
+    },
+    {
+      "added_at": "2025-09-11 22:00:25",
+      "album": {
+        "name": "Sk\u00f6nheten och odjuret",
+        "url": "https://open.spotify.com/album/3rYdH9DNXbIbhqANB6QPeO"
+      },
+      "artists": [
+        {
+          "name": "Viktor Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
+        },
+        {
+          "name": "Linus Wahlgren",
+          "url": "https://open.spotify.com/artist/0AYfmrpYfkwRY1tlatDc2Q"
+        }
+      ],
+      "duration_ms": 180920,
+      "name": "Sk\u00f6nheten och odjuret",
+      "url": "https://open.spotify.com/track/4GRpxB5acnIxYVfYwMkD18"
     },
     {
       "added_at": "2025-09-11 22:00:25",
@@ -1391,42 +1427,6 @@
       "duration_ms": 183946,
       "name": "Sign on the Window",
       "url": "https://open.spotify.com/track/6faCTa1oSQFuuyzvf4ZOIX"
-    },
-    {
-      "added_at": "2025-09-11 22:00:25",
-      "album": {
-        "name": "Den jag aldrig kunde va",
-        "url": "https://open.spotify.com/album/0EU5Ugb6KcCUiK3DuQ2Dum"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 169301,
-      "name": "Den jag aldrig kunde va",
-      "url": "https://open.spotify.com/track/5epuLjfS7X2LM5c0bGcBjJ"
-    },
-    {
-      "added_at": "2025-09-11 22:00:25",
-      "album": {
-        "name": "Sk\u00f6nheten och odjuret",
-        "url": "https://open.spotify.com/album/3rYdH9DNXbIbhqANB6QPeO"
-      },
-      "artists": [
-        {
-          "name": "Viktor Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
-        },
-        {
-          "name": "Linus Wahlgren",
-          "url": "https://open.spotify.com/artist/0AYfmrpYfkwRY1tlatDc2Q"
-        }
-      ],
-      "duration_ms": 180920,
-      "name": "Sk\u00f6nheten och odjuret",
-      "url": "https://open.spotify.com/track/4GRpxB5acnIxYVfYwMkD18"
     },
     {
       "added_at": "2025-09-11 22:00:25",

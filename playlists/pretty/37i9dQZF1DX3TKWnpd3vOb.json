@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: De Saloon",
-  "num_followers": 188414,
+  "num_followers": 188410,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,22 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/6cGJXwXv5rDaRjQwCzPcOn"
+      },
+      "artists": [
+        {
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+        }
+      ],
+      "duration_ms": 197225,
+      "name": "Claroscuro",
+      "url": "https://open.spotify.com/track/2mNju7Y612LKv6Lrdr9E6J"
+    },
+    {
+      "added_at": "2025-09-05 03:00:38",
+      "album": {
         "name": "El Duelo",
         "url": "https://open.spotify.com/album/1e9SFF9jr6iW7jEZ08THwg"
       },
@@ -87,18 +103,18 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/6cGJXwXv5rDaRjQwCzPcOn"
+        "name": "Te Amodio",
+        "url": "https://open.spotify.com/album/4ChALgLMpdJnzpROKqVtes"
       },
       "artists": [
         {
-          "name": "BBS Paranoicos",
-          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+          "name": "Sinergia",
+          "url": "https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk"
         }
       ],
-      "duration_ms": 197225,
-      "name": "Claroscuro",
-      "url": "https://open.spotify.com/track/2mNju7Y612LKv6Lrdr9E6J"
+      "duration_ms": 194757,
+      "name": "Te amodio",
+      "url": "https://open.spotify.com/track/4TLJbIecJRSJqCXbX5bYHi"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -115,22 +131,6 @@
       "duration_ms": 153991,
       "name": "Esta Tarde Vi Llover",
       "url": "https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F"
-    },
-    {
-      "added_at": "2025-09-05 03:00:38",
-      "album": {
-        "name": "Te Amodio",
-        "url": "https://open.spotify.com/album/4ChALgLMpdJnzpROKqVtes"
-      },
-      "artists": [
-        {
-          "name": "Sinergia",
-          "url": "https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk"
-        }
-      ],
-      "duration_ms": 194757,
-      "name": "Te amodio",
-      "url": "https://open.spotify.com/track/4TLJbIecJRSJqCXbX5bYHi"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Revuelta",
-        "url": "https://open.spotify.com/album/1iuOFo8UaMk6t8Wz78gN2V"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 202493,
-      "name": "D\u00e9jate Caer - 2024",
-      "url": "https://open.spotify.com/track/0Gtud72mE4ui8FF9lFBeaX"
-    },
-    {
-      "added_at": "2025-09-05 03:00:38",
-      "album": {
         "name": "De La Luz",
         "url": "https://open.spotify.com/album/0GsaLK3qnIHXrFCflRmuCZ"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 307691,
       "name": "De La Luz",
       "url": "https://open.spotify.com/track/0muLiRaM3pjoBDA0VTUTFt"
+    },
+    {
+      "added_at": "2025-09-05 03:00:38",
+      "album": {
+        "name": "Revuelta",
+        "url": "https://open.spotify.com/album/1iuOFo8UaMk6t8Wz78gN2V"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "D\u00e9jate Caer - 2024",
+      "url": "https://open.spotify.com/track/0Gtud72mE4ui8FF9lFBeaX"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -659,26 +659,6 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Al otro lado del canal",
-        "url": "https://open.spotify.com/album/60nnIm6s1dPSEdd68kYI2V"
-      },
-      "artists": [
-        {
-          "name": "El C\u00f3modo Silencio De Los Que Hablan Poco",
-          "url": "https://open.spotify.com/artist/3HrR1EoGCQa4Cl2fv2QyTk"
-        },
-        {
-          "name": "Saskya",
-          "url": "https://open.spotify.com/artist/4uPlycZpVvQGZMf9RKFzNo"
-        }
-      ],
-      "duration_ms": 155849,
-      "name": "Al otro lado del canal",
-      "url": "https://open.spotify.com/track/55er5KcKNggTKgedq7EElN"
-    },
-    {
-      "added_at": "2025-09-05 03:00:38",
-      "album": {
         "name": "La Cuenta",
         "url": "https://open.spotify.com/album/2TGDNCjdZS6w4oGFzuQMfc"
       },
@@ -699,6 +679,26 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
+        "name": "Al otro lado del canal",
+        "url": "https://open.spotify.com/album/60nnIm6s1dPSEdd68kYI2V"
+      },
+      "artists": [
+        {
+          "name": "El C\u00f3modo Silencio De Los Que Hablan Poco",
+          "url": "https://open.spotify.com/artist/3HrR1EoGCQa4Cl2fv2QyTk"
+        },
+        {
+          "name": "Saskya",
+          "url": "https://open.spotify.com/artist/4uPlycZpVvQGZMf9RKFzNo"
+        }
+      ],
+      "duration_ms": 155849,
+      "name": "Al otro lado del canal",
+      "url": "https://open.spotify.com/track/55er5KcKNggTKgedq7EElN"
+    },
+    {
+      "added_at": "2025-09-05 03:00:38",
+      "album": {
         "name": "Privado",
         "url": "https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG"
       },
@@ -715,18 +715,18 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "A Cada Segundo",
-        "url": "https://open.spotify.com/album/3J5wDJn7CcCpWg1TcuImG1"
+        "name": "Cahu\u00edn",
+        "url": "https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6"
       },
       "artists": [
         {
-          "name": "BBS Paranoicos",
-          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
         }
       ],
-      "duration_ms": 220452,
-      "name": "A Cada Segundo",
-      "url": "https://open.spotify.com/track/1V8gq40G3Fxxx4CW6r43nd"
+      "duration_ms": 181812,
+      "name": "Cahu\u00edn",
+      "url": "https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -747,18 +747,18 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Cahu\u00edn",
-        "url": "https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6"
+        "name": "A Cada Segundo",
+        "url": "https://open.spotify.com/album/3J5wDJn7CcCpWg1TcuImG1"
       },
       "artists": [
         {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
         }
       ],
-      "duration_ms": 181812,
-      "name": "Cahu\u00edn",
-      "url": "https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z"
+      "duration_ms": 220452,
+      "name": "A Cada Segundo",
+      "url": "https://open.spotify.com/track/1V8gq40G3Fxxx4CW6r43nd"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -795,22 +795,18 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Viajar",
-        "url": "https://open.spotify.com/album/7bnqsPENupVaK25z382mq9"
+        "name": "Mis Hermanos Sue\u00f1an Despiertos",
+        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
       },
       "artists": [
         {
-          "name": "Lucybell",
-          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
-        },
-        {
-          "name": "Cote Foncea",
-          "url": "https://open.spotify.com/artist/17Et5bvvC8HQhiXU27wKQn"
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
         }
       ],
-      "duration_ms": 292586,
-      "name": "Viajar - Space Mix",
-      "url": "https://open.spotify.com/track/0sGmeT8k85FWLkIREqdwda"
+      "duration_ms": 204829,
+      "name": "Mis Hermanos Sue\u00f1an Despiertos",
+      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -831,18 +827,22 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Mis Hermanos Sue\u00f1an Despiertos",
-        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
+        "name": "Viajar",
+        "url": "https://open.spotify.com/album/7bnqsPENupVaK25z382mq9"
       },
       "artists": [
         {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+          "name": "Lucybell",
+          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
+        },
+        {
+          "name": "Cote Foncea",
+          "url": "https://open.spotify.com/artist/17Et5bvvC8HQhiXU27wKQn"
         }
       ],
-      "duration_ms": 204829,
-      "name": "Mis Hermanos Sue\u00f1an Despiertos",
-      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
+      "duration_ms": 292586,
+      "name": "Viajar - Space Mix",
+      "url": "https://open.spotify.com/track/0sGmeT8k85FWLkIREqdwda"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -879,22 +879,18 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
+        "name": "Plumas",
+        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
       },
       "artists": [
         {
-          "name": "Cler Canifr\u00fa",
-          "url": "https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf"
-        },
-        {
-          "name": "Lula Bertoldi",
-          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
+      "duration_ms": 262530,
+      "name": "Todo Cae",
+      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -915,18 +911,22 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Plumas",
-        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
       },
       "artists": [
         {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+          "name": "Cler Canifr\u00fa",
+          "url": "https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf"
+        },
+        {
+          "name": "Lula Bertoldi",
+          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
         }
       ],
-      "duration_ms": 262530,
-      "name": "Todo Cae",
-      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
+      "duration_ms": 219000,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
     },
     {
       "added_at": "2025-09-05 03:00:38",

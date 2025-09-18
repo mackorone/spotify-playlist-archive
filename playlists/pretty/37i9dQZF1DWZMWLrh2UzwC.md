@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Ed Sheeran, DIOR 大穎, Louise, IU, CORTIS, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,253 likes - 120 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,254 likes - 120 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 4 | [LOUISE](https://open.spotify.com/track/2655P8CSEQwCD15seGnXCR) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ), [Louise](https://open.spotify.com/artist/2XLfZRlfVmawUCkRa1q87m) | [LOUISE](https://open.spotify.com/album/4OO22X34I5LwN4cofHvlK0) | 3:02 |
 | 5 | [Bye, Summer](https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Bye, Summer](https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl) | 3:39 |
 | 6 | [FaSHioN](https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:54 |
-| 7 | [Bukan Lagi Rumahmu \(Air Mata Di Ujung Sajadah Original Motion Picture Soundtrack\)](https://open.spotify.com/track/6pM2HooueA9dHb5NeTVJeT) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Bukan Lagi Rumahmu \(Air Mata Di Ujung Sajadah Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2zs39r5aMSz13iNaaqeTlH) | 4:32 |
+| 7 | [Bukan Lagi Rumahmu \(Air Mata Di Ujung Sajadah 2 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/6pM2HooueA9dHb5NeTVJeT) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Bukan Lagi Rumahmu \(Air Mata Di Ujung Sajadah 2 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2zs39r5aMSz13iNaaqeTlH) | 4:32 |
 | 8 | [Aku Berjanji](https://open.spotify.com/track/5fEStjhTNiswuAm07GI8gP) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Berjanji](https://open.spotify.com/album/6qpazB579YlGDPHY9l0FKl) | 3:59 |
 | 9 | [Mr\. Mountebank](https://open.spotify.com/track/5tN8OqwUxsVKUCE1cea23k) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux Deluxe](https://open.spotify.com/album/3oaSSUc7HkXIpTb4NGLKDt) | 5:11 |
 | 10 | [City Walls](https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 5:22 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 37 | [真夏のトワイライト](https://open.spotify.com/track/6Y5hTkQSznh1wFDw2p3SDW) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx), [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [真夏のトワイライト](https://open.spotify.com/album/2I35grEfCPhILtpBhZAHfn) | 4:38 |
 | 38 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5) | 3:13 |
 | 39 | [Slicked Back Hair](https://open.spotify.com/track/0ZhStYZNAZZk52Udk4sREx) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Slicked Back Hair](https://open.spotify.com/album/7gxQnRYlUl5UkH1KMuxZRJ) | 2:42 |
-| 40 | [Pura Pura Bahagia \(Air Mata Di Ujung Sajadah Original Motion Picture Soundtrack\)](https://open.spotify.com/track/510uu4XzVglUYK1ORb8iJw) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL) | [Pura Pura Bahagia \(Air Mata Di Ujung Sajadah Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5fUc794LvvTtVoLMMUouMA) | 4:29 |
+| 40 | [Pura Pura Bahagia \(Air Mata Di Ujung Sajadah 2 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/510uu4XzVglUYK1ORb8iJw) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL) | [Pura Pura Bahagia \(Air Mata Di Ujung Sajadah 2 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5fUc794LvvTtVoLMMUouMA) | 4:29 |
 | 41 | [Ordinary Day](https://open.spotify.com/track/1cvtW4ZA6Tfmap44lhb5GG) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Ordinary Day](https://open.spotify.com/album/37OQK1sKHnUDkFWFnsbX1V) | 3:26 |
 | 42 | [Tak Harus Menunggu Surga](https://open.spotify.com/track/4ZkhMMBsBHA2HtgYWX1L3c) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Tak Harus Menunggu Surga](https://open.spotify.com/album/6vkoGI2vnmwnqA7ppy1PLU) | 2:59 |
 | 43 | [Sendiri Lagi](https://open.spotify.com/track/6wRjcngSR5UjfjKGYoB6fy) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Imajinasi](https://open.spotify.com/album/7LJlbBAK1N8HwXgqwkwc8P) | 3:23 |

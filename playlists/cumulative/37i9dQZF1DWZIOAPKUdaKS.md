@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-819 songs - 1 day 11 hr 29 min
+821 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A mal tiempo, buena cara](https://open.spotify.com/track/7AV0Pso4qINIXP8skPMkjb) | [Claribel Ramón](https://open.spotify.com/artist/2R6KwyIVkDBMHj2fNvy6Aq) | [A mal tiempo, buena cara](https://open.spotify.com/album/39z5R1YULmmQgsnx0ARZNf) | 2:28 | 2021-12-07 | 2022-09-13 |
 | [A Moment to Ponder](https://open.spotify.com/track/6i3GB9JYHvYD2cH3EIDa3e) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [A Moment to Ponder](https://open.spotify.com/album/2mTcWwHdIJePrAkiou8HRo) | 1:54 | 2021-12-07 | 2022-10-05 |
 | [A Never Ending Cycle](https://open.spotify.com/track/135YvfJTQSpHZFPJSL5Iyc) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [A Never Ending Cycle](https://open.spotify.com/album/434VuhOw5djN69pXxMFyvI) | 3:10 | 2021-12-07 | 2022-07-20 |
+| [A New Day](https://open.spotify.com/track/1cR4FPMSO83pAic1OWCavB) | [Gabriela Ohm](https://open.spotify.com/artist/3UvBxuvjgjOfzdIM84Pm2g) | [A New Day](https://open.spotify.com/album/1EOHretuuyxF4sxwE9lyom) | 2:48 | 2025-09-17 |  |
 | [a new love](https://open.spotify.com/track/4DOUtqXfuYKR6RqZ3O6TIi) | [Albrecht Valiery](https://open.spotify.com/artist/3GyopzakL0G5uqjcv56M9h) | [a new love](https://open.spotify.com/album/1OCzduP701HjAIhRhGaBts) | 3:02 | 2021-12-07 |  |
 | [A partire dal](https://open.spotify.com/track/3M0EGPJEuloXdbnrP6cC4j) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [A partire dal](https://open.spotify.com/album/412D6erKmAsitjfDKwd7vK) | 2:20 | 2021-12-07 |  |
 | [A Recurring Theme](https://open.spotify.com/track/51K71t2Sk90AVbjVsBcorb) | [Cyril Mathews](https://open.spotify.com/artist/4PNqVcgrU4LxwS3GwrC4ax) | [A Recurring Theme](https://open.spotify.com/album/50lTjBe11glVo3YvOemGsH) | 2:40 | 2021-12-07 | 2024-03-20 |
@@ -416,6 +417,7 @@
 | [Lost Time](https://open.spotify.com/track/1nJE8TEWK9hf9Bl0pekJCi) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Lost Time](https://open.spotify.com/album/07lpIaggNhyyr47EJdGhDB) | 2:20 | 2021-12-07 | 2022-07-20 |
 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2021-12-07 | 2022-07-29 |
 | [Lost Words](https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU) | 2:31 | 2022-07-28 | 2023-10-05 |
+| [Love of My Life](https://open.spotify.com/track/1k43yZUlrZlWLlLSE9HSFC) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Love of My Life](https://open.spotify.com/album/10mjFWOlFE2Vr0ZrgPNXYZ) | 2:19 | 2025-09-17 |  |
 | [Love Will Set Us Free](https://open.spotify.com/track/4vO8oT2rdWcCzHYTEcoJGl) | [Novum Cordis](https://open.spotify.com/artist/3iSbAtzrrSEaZlc16jeS9d) | [Love Will Set Us Free](https://open.spotify.com/album/6rXybaAOBtVCldnzhMSn2g) | 2:25 | 2021-12-07 | 2022-08-10 |
 | [Lovesong](https://open.spotify.com/track/1FVaEmntOX3Qf2Ng5wdMok) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Lovesong](https://open.spotify.com/album/702GZkPC9uj5n0c37CwaBq) | 2:11 | 2022-08-26 | 2025-04-10 |
 | [Lucidity](https://open.spotify.com/track/4yqiWdxiO7wqyrFbCCIflZ) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Lucidity](https://open.spotify.com/album/57LcyjJDa98LkcEBN7MJ4E) | 2:20 | 2021-12-07 | 2023-10-05 |

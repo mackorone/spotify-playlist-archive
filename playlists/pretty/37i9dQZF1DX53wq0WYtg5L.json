@@ -1,6 +1,6 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 555835,
+  "num_followers": 555860,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
@@ -23,22 +23,6 @@
       "duration_ms": 179040,
       "name": "La bikina - En vivo",
       "url": "https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
-        "name": "La Coleccion Del Siglo - Federico Villa",
-        "url": "https://open.spotify.com/album/5XyB8cBTMDoLaO2XqVf6BL"
-      },
-      "artists": [
-        {
-          "name": "Federico Villa",
-          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
-        }
-      ],
-      "duration_ms": 210453,
-      "name": "Caminos de Michoac\u00e1n",
-      "url": "https://open.spotify.com/track/2fvisKVcmhGrZdf9FPEhl4"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -71,6 +55,22 @@
       "duration_ms": 176906,
       "name": "Guadalajara",
       "url": "https://open.spotify.com/track/7bqkK6DMlXwcIHbSzLq1xx"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
+        "name": "La Coleccion Del Siglo - Federico Villa",
+        "url": "https://open.spotify.com/album/5XyB8cBTMDoLaO2XqVf6BL"
+      },
+      "artists": [
+        {
+          "name": "Federico Villa",
+          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "Caminos de Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/2fvisKVcmhGrZdf9FPEhl4"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -123,22 +123,6 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
-        "name": "Antonio Aguilar",
-        "url": "https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 195303,
-      "name": "Canci\u00f3n Mixteca",
-      "url": "https://open.spotify.com/track/5JNNjvunaFiUT56W8GRs80"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
         "name": "M\u00fasica de America",
         "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 179000,
       "name": "El son de la negra",
       "url": "https://open.spotify.com/track/4WppqUEIiLL4kyo406nnJN"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
+        "name": "Antonio Aguilar",
+        "url": "https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 195303,
+      "name": "Canci\u00f3n Mixteca",
+      "url": "https://open.spotify.com/track/5JNNjvunaFiUT56W8GRs80"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
-        "name": "Canto A Mi Tierra",
-        "url": "https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 148793,
-      "name": "Viva Mexico",
-      "url": "https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
         "name": "La M\u00e1s Completa Colecci\u00f3n",
         "url": "https://open.spotify.com/album/5YZnRB9emHtZ5yRQ4xTjc7"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 177306,
       "name": "El Mariachi Loco",
       "url": "https://open.spotify.com/track/0cEazkkPgRlEBvAfDcojC2"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
+        "name": "Canto A Mi Tierra",
+        "url": "https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 148793,
+      "name": "Viva Mexico",
+      "url": "https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
-        "name": "Rancheras de Relajo",
-        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 117910,
-      "name": "Copitas Copotas",
-      "url": "https://open.spotify.com/track/4Cx4gl9qwnfwmhntA4kDEL"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
         "name": "Las Canciones Mexicanas Que El Mundo Canta",
         "url": "https://open.spotify.com/album/3jIy0sTCKvICnOyFCWoxrM"
       },
@@ -335,22 +319,6 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 158880,
-      "name": "El siete mares",
-      "url": "https://open.spotify.com/track/0byZkYj5d6UbeyK66tXLPr"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
       },
@@ -367,18 +335,34 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
-        "name": "Recuerdos De Mi Tierra",
-        "url": "https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe"
+        "name": "\u00a1M\u00c9XICO Por Siempre!",
+        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
       },
       "artists": [
         {
-          "name": "Mariachi Premier",
-          "url": "https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 181930,
-      "name": "El Son De La Negra",
-      "url": "https://open.spotify.com/track/5JCIcyxuL6pcwBHWA8U1cO"
+      "duration_ms": 158880,
+      "name": "El siete mares",
+      "url": "https://open.spotify.com/track/0byZkYj5d6UbeyK66tXLPr"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
+        "name": "Rancheras de Relajo",
+        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 117910,
+      "name": "Copitas Copotas",
+      "url": "https://open.spotify.com/track/4Cx4gl9qwnfwmhntA4kDEL"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -399,6 +383,22 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
+        "name": "Recuerdos De Mi Tierra",
+        "url": "https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Premier",
+          "url": "https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea"
+        }
+      ],
+      "duration_ms": 181930,
+      "name": "El Son De La Negra",
+      "url": "https://open.spotify.com/track/5JCIcyxuL6pcwBHWA8U1cO"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
         "name": "Negra Linda",
         "url": "https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId"
       },
@@ -411,54 +411,6 @@
       "duration_ms": 389973,
       "name": "El Cascabel",
       "url": "https://open.spotify.com/track/7gkwuWZqsoyEZ23ZdmZWxY"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
-        "name": "Lastima Que Seas Ajena",
-        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 185106,
-      "name": "Pica Que Pica",
-      "url": "https://open.spotify.com/track/1ruaLnFk2kciAKa68DLggN"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
-        "name": "Antonio Aguilar Con Mariachi",
-        "url": "https://open.spotify.com/album/1HJtciy4pGuqyaHbCp9TEF"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 191576,
-      "name": "Que Lindo Es Michoacan",
-      "url": "https://open.spotify.com/track/6hD3rxXYjOONoMh4Ox1oz5"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Rogaciano",
-      "url": "https://open.spotify.com/track/66XbA3JnX82pB26MZWeFTC"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -479,6 +431,54 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
+        "name": "Antonio Aguilar Con Mariachi",
+        "url": "https://open.spotify.com/album/1HJtciy4pGuqyaHbCp9TEF"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 191576,
+      "name": "Que Lindo Es Michoacan",
+      "url": "https://open.spotify.com/track/6hD3rxXYjOONoMh4Ox1oz5"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
+        "name": "Lastima Que Seas Ajena",
+        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 185106,
+      "name": "Pica Que Pica",
+      "url": "https://open.spotify.com/track/1ruaLnFk2kciAKa68DLggN"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Rogaciano",
+      "url": "https://open.spotify.com/track/66XbA3JnX82pB26MZWeFTC"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
         "name": "30 Exitos Inmortales",
         "url": "https://open.spotify.com/album/2xCm0V7sVyMZJITnKagCuz"
       },
@@ -495,18 +495,18 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
-        "name": "Por Tu Maldito Amor",
-        "url": "https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7"
+        "name": "Cuando M\u00e9xico Canta",
+        "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
+          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
         }
       ],
-      "duration_ms": 201866,
-      "name": "Puro Cachanilla",
-      "url": "https://open.spotify.com/track/6Ahpr5bhGJMHu0QTy4yoky"
+      "duration_ms": 149289,
+      "name": "Toro Relajo",
+      "url": "https://open.spotify.com/track/6bbGtzZoVj815f56H51uJR"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -527,18 +527,50 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
-        "name": "Cuando M\u00e9xico Canta",
-        "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
+        "name": "Por Tu Maldito Amor",
+        "url": "https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7"
       },
       "artists": [
         {
-          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
-          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 149289,
-      "name": "Toro Relajo",
-      "url": "https://open.spotify.com/track/6bbGtzZoVj815f56H51uJR"
+      "duration_ms": 201866,
+      "name": "Puro Cachanilla",
+      "url": "https://open.spotify.com/track/6Ahpr5bhGJMHu0QTy4yoky"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
+        "name": "Viva M\u00e9xico (Remastered)",
+        "url": "https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "duration_ms": 208426,
+      "name": "Juan Charrasqueado - Remastered",
+      "url": "https://open.spotify.com/track/4i0xJYVDfQ1dUXMOzO3s15"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
+        "name": "Puro Mariachi",
+        "url": "https://open.spotify.com/album/5Ykbep1heciycsMRg2QlJ3"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Los Caporales",
+          "url": "https://open.spotify.com/artist/1EkCOEysq5KAQ1axi0YhGE"
+        }
+      ],
+      "duration_ms": 137586,
+      "name": "El Son De Los Aguacates",
+      "url": "https://open.spotify.com/track/6UHL4c4BU9omcCeugZxclD"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -595,22 +627,6 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
-        "name": "Viva M\u00e9xico (Remastered)",
-        "url": "https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz"
-      },
-      "artists": [
-        {
-          "name": "Jorge Negrete",
-          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
-        }
-      ],
-      "duration_ms": 208426,
-      "name": "Juan Charrasqueado - Remastered",
-      "url": "https://open.spotify.com/track/4i0xJYVDfQ1dUXMOzO3s15"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
         "name": "Negra Linda",
         "url": "https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId"
       },
@@ -623,86 +639,6 @@
       "duration_ms": 154940,
       "name": "La Vaquilla (El Son De La Vaquilla)",
       "url": "https://open.spotify.com/track/6t3WZj3a8HC39fw57SqQEz"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
-        "name": "Puro Mariachi",
-        "url": "https://open.spotify.com/album/5Ykbep1heciycsMRg2QlJ3"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Los Caporales",
-          "url": "https://open.spotify.com/artist/1EkCOEysq5KAQ1axi0YhGE"
-        }
-      ],
-      "duration_ms": 137586,
-      "name": "El Son De Los Aguacates",
-      "url": "https://open.spotify.com/track/6UHL4c4BU9omcCeugZxclD"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
-        "name": "Que Te Ha Dado Esa Mujer",
-        "url": "https://open.spotify.com/album/4b5U1WWD6h0kJtr2Npv5HR"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 146634,
-      "name": "El Zacatecano",
-      "url": "https://open.spotify.com/track/5m3TBrw10tXhHvIdS2r3mR"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
-        "name": "La Voz de M\u00e9xico (Remastered)",
-        "url": "https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 219040,
-      "name": "Huapango Torero - Remastered",
-      "url": "https://open.spotify.com/track/0Hl5ZPb8lAk5Bx0NTUfhNQ"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
-        "name": "Viva M\u00e9xico (Remastered)",
-        "url": "https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz"
-      },
-      "artists": [
-        {
-          "name": "Jorge Negrete",
-          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
-        }
-      ],
-      "duration_ms": 159280,
-      "name": "Esos Altos de Jalisco - Remastered",
-      "url": "https://open.spotify.com/track/6n0nFNFmYsPV277I0D4z2F"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
-        "name": "Mariachi Cobre: Este Es Mi Mariachi",
-        "url": "https://open.spotify.com/album/3nvfqq53rJB9lzBKVQQC2z"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Cobre",
-          "url": "https://open.spotify.com/artist/0BlBCNf7s8Ua8CeX1VKXZQ"
-        }
-      ],
-      "duration_ms": 144720,
-      "name": "Las Abajenas",
-      "url": "https://open.spotify.com/track/2lUFQMUDXVtga7AeuSagzK"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -732,9 +668,9 @@
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 162423,
-      "name": "El Toro Serrano",
-      "url": "https://open.spotify.com/track/5oyHCXNrSTALlOyu03v6WB"
+      "duration_ms": 146634,
+      "name": "El Zacatecano",
+      "url": "https://open.spotify.com/track/5m3TBrw10tXhHvIdS2r3mR"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -755,18 +691,66 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
-        "name": "Luis Aguilar",
-        "url": "https://open.spotify.com/album/7wYE2NUCtpIJcetqiQ1ybd"
+        "name": "La Voz de M\u00e9xico (Remastered)",
+        "url": "https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE"
       },
       "artists": [
         {
-          "name": "Luis Aguilar",
-          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
         }
       ],
-      "duration_ms": 134906,
-      "name": "El Fandanguero",
-      "url": "https://open.spotify.com/track/1QzsAt7T5aHz1K4CAzOlNW"
+      "duration_ms": 219040,
+      "name": "Huapango Torero - Remastered",
+      "url": "https://open.spotify.com/track/0Hl5ZPb8lAk5Bx0NTUfhNQ"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
+        "name": "Mariachi Cobre: Este Es Mi Mariachi",
+        "url": "https://open.spotify.com/album/3nvfqq53rJB9lzBKVQQC2z"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Cobre",
+          "url": "https://open.spotify.com/artist/0BlBCNf7s8Ua8CeX1VKXZQ"
+        }
+      ],
+      "duration_ms": 144720,
+      "name": "Las Abajenas",
+      "url": "https://open.spotify.com/track/2lUFQMUDXVtga7AeuSagzK"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
+        "name": "Viva M\u00e9xico (Remastered)",
+        "url": "https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "duration_ms": 159280,
+      "name": "Esos Altos de Jalisco - Remastered",
+      "url": "https://open.spotify.com/track/6n0nFNFmYsPV277I0D4z2F"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
+        "name": "Que Te Ha Dado Esa Mujer",
+        "url": "https://open.spotify.com/album/4b5U1WWD6h0kJtr2Npv5HR"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 162423,
+      "name": "El Toro Serrano",
+      "url": "https://open.spotify.com/track/5oyHCXNrSTALlOyu03v6WB"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -783,6 +767,38 @@
       "duration_ms": 169760,
       "name": "Un canto a Michoac\u00e1n",
       "url": "https://open.spotify.com/track/4CDPllMl3h3eseqNJscV4o"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
+        "name": "Mariachi",
+        "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Arriba Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
+        }
+      ],
+      "duration_ms": 178386,
+      "name": "Juan Colorado",
+      "url": "https://open.spotify.com/track/2qqdRSEgnCaxg3gXnCQGJC"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
+        "name": "Luis Aguilar",
+        "url": "https://open.spotify.com/album/7wYE2NUCtpIJcetqiQ1ybd"
+      },
+      "artists": [
+        {
+          "name": "Luis Aguilar",
+          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
+        }
+      ],
+      "duration_ms": 134906,
+      "name": "El Fandanguero",
+      "url": "https://open.spotify.com/track/1QzsAt7T5aHz1K4CAzOlNW"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -819,6 +835,22 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
+        "name": "Cuando M\u00e9xico Canta",
+        "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
+          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
+        }
+      ],
+      "duration_ms": 322168,
+      "name": "Popurr\u00ed de Sones",
+      "url": "https://open.spotify.com/track/3M3fXgsaeOLSSq3lBq4ABT"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
         "name": "Mariachi",
         "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
       },
@@ -828,9 +860,9 @@
           "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
         }
       ],
-      "duration_ms": 178386,
-      "name": "Juan Colorado",
-      "url": "https://open.spotify.com/track/2qqdRSEgnCaxg3gXnCQGJC"
+      "duration_ms": 176386,
+      "name": "El Caporal de Chihuahua",
+      "url": "https://open.spotify.com/track/2XPWSMlqGUf0WlA4esS5GD"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -847,22 +879,6 @@
       "duration_ms": 160466,
       "name": "Los Machetes",
       "url": "https://open.spotify.com/track/1XO99D36hFTXxGQsRt606o"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
-        "name": "Cuando M\u00e9xico Canta",
-        "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
-          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
-        }
-      ],
-      "duration_ms": 322168,
-      "name": "Popurr\u00ed de Sones",
-      "url": "https://open.spotify.com/track/3M3fXgsaeOLSSq3lBq4ABT"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -895,22 +911,6 @@
       "duration_ms": 194835,
       "name": "Caminos de Guanajuato",
       "url": "https://open.spotify.com/track/2NYtb44MFHpDadBfNFcQXd"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
-        "name": "Mariachi",
-        "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Arriba Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
-        }
-      ],
-      "duration_ms": 176386,
-      "name": "El Caporal de Chihuahua",
-      "url": "https://open.spotify.com/track/2XPWSMlqGUf0WlA4esS5GD"
     },
     {
       "added_at": "2025-07-18 16:51:44",

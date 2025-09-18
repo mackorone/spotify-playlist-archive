@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 202247,
+  "num_followers": 202255,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAAD+Qbn1GMJ1HUKC8CW5Zl0v",
+  "snapshot_id": "aMiogAAAAABIWPzK6iNY3uMheUKdAVxI",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Scriptures",
+        "url": "https://open.spotify.com/album/7FYP4Y8W3UJK4YCN0efAi3"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        }
+      ],
+      "duration_ms": 332195,
+      "name": "Young Grizzley World (feat. A Boogie Wit Da Hoodie & YNW Melly)",
+      "url": "https://open.spotify.com/track/2HsSzwrvvgiYSCdsYLiJWB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/5zahdWRtrECJVVxvOOKLfe"
       },
@@ -531,30 +555,6 @@
       "duration_ms": 163200,
       "name": "Naked (feat. A Boogie wit da Hoodie)",
       "url": "https://open.spotify.com/track/3eLxZnelhb4GtTdbqeW78b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scriptures",
-        "url": "https://open.spotify.com/album/7FYP4Y8W3UJK4YCN0efAi3"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
-        }
-      ],
-      "duration_ms": 332195,
-      "name": "Young Grizzley World (feat. A Boogie Wit Da Hoodie & YNW Melly)",
-      "url": "https://open.spotify.com/track/2HsSzwrvvgiYSCdsYLiJWB"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Not a Regular Person",
+        "url": "https://open.spotify.com/album/2rclhJv98oCvlhYLG9tioj"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 186456,
+      "name": "Not a Regular Person",
+      "url": "https://open.spotify.com/track/0KfgfxTnqfX4IfhVDpPYTd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DUMMY BOY (Revised)",
         "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 128769,
       "name": "WAKA (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/4uax9U22ZAdqUxTMF1beUf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not a Regular Person",
-        "url": "https://open.spotify.com/album/2rclhJv98oCvlhYLG9tioj"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 186456,
-      "name": "Not a Regular Person",
-      "url": "https://open.spotify.com/track/0KfgfxTnqfX4IfhVDpPYTd"
     },
     {
       "added_at": null,

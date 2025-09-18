@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-2,783 songs - 6 day 5 hr 44 min
+2,784 songs - 6 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1584,7 +1584,7 @@
 | [Mu rõõm on lõputu](https://open.spotify.com/track/2CKoL2TLp12Mcd95NoE4CF) | [Silver Sepp](https://open.spotify.com/artist/7AmUwkj6qzVlFd8uYptQ0h) | [Rohtumised](https://open.spotify.com/album/20HnqLWslVWT9CnS9O0SNY) | 4:35 | 2023-07-04 | 2023-07-06 |
 | [Mu vend on lesbi](https://open.spotify.com/track/6UkWHKeFWayE2Koj2ZB2bS) | [Florian Wahl](https://open.spotify.com/artist/4S18DTzCeExY2k5vi6rGWW) | [Mu vend on lesbi](https://open.spotify.com/album/76jq6UJHxZcz6KCPIsSR2d) | 3:09 | 2024-09-08 | 2025-02-11 |
 | [Muinastulede Öö](https://open.spotify.com/track/7c5x4cNEuy2IAEyFhbcO8x) | [Reket](https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN) | [Palun Puhka](https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D) | 3:05 | 2022-05-07 | 2022-05-15 |
-| [mul krdi suva](https://open.spotify.com/track/3XakzcEu3QIALuRdiCzqku) | [White Girl](https://open.spotify.com/artist/5K9q3ogdUech17MWE2mqlL) | [mul krdi suva](https://open.spotify.com/album/71Ng1NpvZcRQB3IwFMBnXA) | 2:50 | 2025-05-24 |  |
+| [mul krdi suva](https://open.spotify.com/track/3XakzcEu3QIALuRdiCzqku) | [White Girl](https://open.spotify.com/artist/5K9q3ogdUech17MWE2mqlL) | [mul krdi suva](https://open.spotify.com/album/71Ng1NpvZcRQB3IwFMBnXA) | 2:50 | 2025-05-24 | 2025-09-18 |
 | [MUNYUN](https://open.spotify.com/track/2JJFJEvFSWyQ59Pwl2gqSF) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:34 | 2025-03-15 | 2025-03-20 |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-07-07 | 2023-06-03 |
 | [Murder In My Mind \- Sped Up](https://open.spotify.com/track/3T56drS7FjnZgGcOAHlXzx) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind \(Sped Up\)](https://open.spotify.com/album/3f4SEojgnEYtRMUvITNRZQ) | 1:55 | 2022-08-07 | 2022-09-13 |
@@ -1831,6 +1831,7 @@
 | [Permission to Dance](https://open.spotify.com/track/5eXBXreN3d1zdj6Sa8dS0u) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/6oLwgqPJrxnTibrzawDGqY) | 3:07 | 2021-07-27 | 2021-07-28 |
 | [Personal Jesus \- Original Single Version](https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Francois Kevorkian](https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU) | [Personal Jesus](https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8) | 3:44 | 2023-08-07 | 2023-08-10 |
 | [Peru](https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk) | 3:07 | 2021-12-28 | 2022-01-01 |
+| [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 | 2025-09-17 |  |
 | [PHILLY \(with Travis Scott\)](https://open.spotify.com/track/5SIvP6TdWc9DNvKbENjnYc) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:05 | 2025-03-15 | 2025-03-26 |
 | [PHONKY TOWN](https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [PHONKY TOWN](https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw) | 2:21 | 2021-05-21 | 2021-06-24 |
 | [Phonky Tribu](https://open.spotify.com/track/0uo7p6JtXF7U8x0ktN0Vty) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/2We9hFPWAKxXBmKqSDHXOK) | 4:46 | 2022-09-23 | 2022-10-12 |

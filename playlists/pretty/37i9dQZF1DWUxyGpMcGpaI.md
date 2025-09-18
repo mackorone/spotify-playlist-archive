@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain]
 
 > Music from the new anime,  <a href="https://chainsawman.dog/">"Chainsaw Man"</a>! © 2025 MAPPA/CHAINSAW MAN PROJECT ©Tatsuki Fujimoto/SHUEISHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,506 likes - 65 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,534 likes - 65 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

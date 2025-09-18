@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 436731,
+  "num_followers": 436746,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAADhD81pdny8rRVEbyqJWoUa",
+  "snapshot_id": "aMiogAAAAABU8LucMq0KIT7KDlrcoDZC",
   "tracks": [
     {
       "added_at": null,
@@ -230,11 +230,15 @@
         {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 255378,
-      "name": "Narcos",
-      "url": "https://open.spotify.com/track/0wbnC9AUenxp613TYaJsGK"
+      "duration_ms": 233880,
+      "name": "Notice Me",
+      "url": "https://open.spotify.com/track/3OnOomd79OjqSYHchCQ6ht"
     },
     {
       "added_at": null,
@@ -310,15 +314,11 @@
         {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 233880,
-      "name": "Notice Me",
-      "url": "https://open.spotify.com/track/3OnOomd79OjqSYHchCQ6ht"
+      "duration_ms": 255378,
+      "name": "Narcos",
+      "url": "https://open.spotify.com/track/0wbnC9AUenxp613TYaJsGK"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Label II",
-        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 222424,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/13Vs4lw2XisMw76z5ZV5Za"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pretty Girls Like Trap Music",
         "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 308733,
       "name": "Blue Cheese",
       "url": "https://open.spotify.com/track/67gmXPQZL1ISSh13OJJ1Pu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Label II",
+        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 222424,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/13Vs4lw2XisMw76z5ZV5Za"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is You Ready (From \"Mile 22\")",
-        "url": "https://open.spotify.com/album/0kcQVLgW7ugVdFapH14iiP"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 184276,
-      "name": "Is You Ready - From \"Mile 22\"",
-      "url": "https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culture III (Deluxe)",
         "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 144938,
       "name": "Menace",
       "url": "https://open.spotify.com/track/6J8y4lu18GkXuNhGCuZqzS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is You Ready (From \"Mile 22\")",
+        "url": "https://open.spotify.com/album/0kcQVLgW7ugVdFapH14iiP"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 184276,
+      "name": "Is You Ready - From \"Mile 22\"",
+      "url": "https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk"
     },
     {
       "added_at": null,

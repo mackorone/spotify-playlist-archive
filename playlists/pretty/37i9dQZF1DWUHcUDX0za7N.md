@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Wizard Chan
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,873 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,939 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 58 | [Folasade](https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Folasade](https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN) | 2:48 |
 | 59 | [Hello Habibi](https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:16 |
 | 60 | [Healers Chapel](https://open.spotify.com/track/1toGWaj2vdYFyoJCgoan24) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Boma Nime](https://open.spotify.com/artist/2tkw8FFnCrgenakG7wml4B) | [Healers Chapel](https://open.spotify.com/album/26EFuAiv2fxVd44jxz9oHN) | 2:59 |
-| 61 | [Lazy Baby](https://open.spotify.com/track/5DaYJuywGnucxxv8HRlkUl) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Lazy Baby](https://open.spotify.com/album/4EAhkQ3E7yUXGMVYkgXTTh) | 2:06 |
-| 62 | [Zaza \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/53BtrOyMr2ETb8Mtk7qruJ) | [KOHDEE](https://open.spotify.com/artist/4VAE2wGIfC4WMTh6N3mm7M), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Zaza \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/1jRnWoU55hKmRllDJsTvvU) | 2:07 |
-| 63 | [Sexy Lady](https://open.spotify.com/track/3k6rW3h5pnZlN0E3rUkNba) | [Lemon Adisa](https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3) | [Sexy Lady](https://open.spotify.com/album/6XMcalRHcZAvPy7hRXjF6H) | 2:52 |
+| 61 | [Sexy Lady](https://open.spotify.com/track/3k6rW3h5pnZlN0E3rUkNba) | [Lemon Adisa](https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3) | [Sexy Lady](https://open.spotify.com/album/6XMcalRHcZAvPy7hRXjF6H) | 2:52 |
+| 62 | [Lazy Baby](https://open.spotify.com/track/5DaYJuywGnucxxv8HRlkUl) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Lazy Baby](https://open.spotify.com/album/4EAhkQ3E7yUXGMVYkgXTTh) | 2:06 |
+| 63 | [Zaza \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/53BtrOyMr2ETb8Mtk7qruJ) | [KOHDEE](https://open.spotify.com/artist/4VAE2wGIfC4WMTh6N3mm7M), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Zaza \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/1jRnWoU55hKmRllDJsTvvU) | 2:07 |
 | 64 | [Wavy](https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Dj 4kerty](https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG) | [Pawon Boy Vol.1](https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6) | 2:15 |
 | 65 | [Olufunmi \(The Missing Recipe\)](https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Olufunmi \(The Missing Recipe\)](https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q) | 3:12 |
 | 66 | [ASAMPETE](https://open.spotify.com/track/1J9cc7U4jyaOgoCJ7Nssmf) | [Anti World Gangstars](https://open.spotify.com/artist/4em6zsRUNAPC2YTfqdCpow), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Agunna](https://open.spotify.com/artist/1CENr91YcmLqLMk3fPeqze), [Shagba](https://open.spotify.com/artist/5GxgrhXvXlieEQX1KThYzh), [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [Fatboy E](https://open.spotify.com/artist/7oQ6PiDrtScurCpBvMtf5b), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [NOTHING CHANGED](https://open.spotify.com/album/3WzeQmmXZLjWi7VMt7Pl7S) | 3:00 |

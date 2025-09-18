@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Connie Diiamond
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,322 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,311 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 21 | [Both Eyes Closed \(From "Highest 2 Lowest"\)](https://open.spotify.com/track/5UmAGADfwg1TDCjcHlBChF) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Both Eyes Closed \(From "Highest 2 Lowest"\)](https://open.spotify.com/album/5Je6vVs5ZlwOiEQMcSt3sj) | 4:13 |
 | 22 | [Feeeeeeeeel](https://open.spotify.com/track/5eSSmNIgjgzru9ONPvNNYf) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Feeeeeeeeel](https://open.spotify.com/album/4ETeS3fpSdrTBxSOims39G) | 2:13 |
 | 23 | [I Just Wanna](https://open.spotify.com/track/5alNo3nILWaaECqdAK4gLY) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem) | [I Just Wanna](https://open.spotify.com/album/137lXefspN6ZyZlvAtIOUn) | 2:26 |
-| 24 | [DADE \(feat\. Key Glock\)](https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [DADE \(feat\. Key Glock\)](https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad) | 1:44 |
+| 24 | [DADE](https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [DADE](https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad) | 1:44 |
 | 25 | [JAT \(Remix\) \[with Stunna Sandy\]](https://open.spotify.com/track/3vn4cW1r3BWVWv0NamDIP3) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [JAT \(Remix\)](https://open.spotify.com/album/203AygGNtkJz0KlK73sw0k) | 2:37 |
 | 26 | [Off Me](https://open.spotify.com/track/2uxvA2wfmEiTnz5iFZyeCz) | [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H) | [Off Me](https://open.spotify.com/album/3Cyll1Ghi5o0k7EwcE6RXo) | 2:53 |
 | 27 | [W.G.W](https://open.spotify.com/track/3RwDEg5IMks18qZ2mxNWcX) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [Blood, Sweat & Billz](https://open.spotify.com/album/0tONlwqnJyuZWBaHxQw3rK) | 3:38 |

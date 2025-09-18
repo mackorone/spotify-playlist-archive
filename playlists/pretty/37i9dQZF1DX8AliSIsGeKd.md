@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Natascha Polké
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,986 likes - 90 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,063 likes - 90 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -183,6 +183,28 @@
     },
     {
       "album": {
+        "name": "i'm no one",
+        "url": "https://open.spotify.com/album/445oA5XNNEf74WlfHmllFe"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "Lil Chill",
+          "url": "https://open.spotify.com/artist/3guAJUbWvGvGgz3vkJ241X"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139461,
+      "name": "Deliver - Remix",
+      "url": "https://open.spotify.com/track/1mDHLmTZTZ4fhRUeF8tN2L"
+    },
+    {
+      "album": {
         "name": "LOST IN PARADISE",
         "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
       },
@@ -370,7 +392,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-18",
       "duration_ms": 316833,
       "name": "Funky Nassau",
       "url": "https://open.spotify.com/track/4BDfJFLVXQhYI5ruXkrvVe"

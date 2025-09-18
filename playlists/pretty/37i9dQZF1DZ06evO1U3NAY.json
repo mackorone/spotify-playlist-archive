@@ -1,12 +1,12 @@
 {
   "description": "This is Within Temptation. The essential tracks, all in one playlist.",
-  "num_followers": 167371,
+  "num_followers": 167397,
   "original_name": "This Is Within Temptation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMdXAAAAAACioKL7cOMUZeHfoDO5O3fH",
+  "snapshot_id": "aMiogAAAAADfYp1dEeD2f3C2RqkTbCZe",
   "tracks": [
     {
       "added_at": null,
@@ -350,11 +350,15 @@
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
         }
       ],
-      "duration_ms": 256466,
-      "name": "The Purge",
-      "url": "https://open.spotify.com/track/1xSQOcSAFcsEl7R9AiRHAL"
+      "duration_ms": 270479,
+      "name": "Shed My Skin",
+      "url": "https://open.spotify.com/track/5fXqeLjrxoR48qgHZGlfXz"
     },
     {
       "added_at": null,
@@ -414,15 +418,11 @@
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
         }
       ],
-      "duration_ms": 270479,
-      "name": "Shed My Skin",
-      "url": "https://open.spotify.com/track/5fXqeLjrxoR48qgHZGlfXz"
+      "duration_ms": 256466,
+      "name": "The Purge",
+      "url": "https://open.spotify.com/track/1xSQOcSAFcsEl7R9AiRHAL"
     },
     {
       "added_at": null,
