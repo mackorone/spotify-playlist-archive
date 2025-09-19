@@ -2,7 +2,7 @@
 
 ### [Polskie hity](https://open.spotify.com/playlist/37i9dQZF1DWTnbCPOmjbdB)
 
-> Najlepsze polskie piosenki na czasie\. Cover: Zalia
+> Najlepsze polskie piosenki na czasie\. Cover: pszona
 
 609 songs - 1 day 5 hr 42 min
 

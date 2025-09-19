@@ -2,7 +2,7 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші пісні сьогодення\. Обкладинка: MONATIK & DOROFEEVA
+> Найпопулярніші українські та світові пісні сьогодення\. Обкладинка: Victoria Niro
 
 147 songs - 7 hr 16 min
 

@@ -479,22 +479,6 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Eros 30 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 239253,
-      "name": "Adesso tu",
-      "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
         "name": "Vorrei incontrarti fra cent'anni",
         "url": "https://open.spotify.com/album/1WOdMrMh0SxUThs0XM6WP5"
       },
@@ -515,6 +499,22 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
+        "name": "Eros 30 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 239253,
+      "name": "Adesso tu",
+      "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
         "name": "SESSO OCCASIONALE",
         "url": "https://open.spotify.com/album/51lcCxrqnkTxRLbmbL7KX6"
       },
@@ -527,22 +527,6 @@
       "duration_ms": 195923,
       "name": "SESSO OCCASIONALE",
       "url": "https://open.spotify.com/track/0Dz9zyx2w3zYtRK6yp3VKD"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
-        "name": "Chiamami Ancora Amore",
-        "url": "https://open.spotify.com/album/35v8DGlNLOl039xe3bGvjT"
-      },
-      "artists": [
-        {
-          "name": "Roberto Vecchioni",
-          "url": "https://open.spotify.com/artist/3TVifQ5FPcIzzcYSUuJkp9"
-        }
-      ],
-      "duration_ms": 253986,
-      "name": "Chiamami Ancora Amore",
-      "url": "https://open.spotify.com/track/2D6t8TtB1cpgXK1L1fJ5P5"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -563,18 +547,34 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Eros 30 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
+        "name": "Chiamami Ancora Amore",
+        "url": "https://open.spotify.com/album/35v8DGlNLOl039xe3bGvjT"
       },
       "artists": [
         {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+          "name": "Roberto Vecchioni",
+          "url": "https://open.spotify.com/artist/3TVifQ5FPcIzzcYSUuJkp9"
         }
       ],
-      "duration_ms": 223520,
-      "name": "Terra promessa",
-      "url": "https://open.spotify.com/track/7bcHU50mENL3al5DhEJc7J"
+      "duration_ms": 253986,
+      "name": "Chiamami Ancora Amore",
+      "url": "https://open.spotify.com/track/2D6t8TtB1cpgXK1L1fJ5P5"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
+        "name": "Fiamme negli occhi",
+        "url": "https://open.spotify.com/album/63QloB2LteDzQMKstFJ3XK"
+      },
+      "artists": [
+        {
+          "name": "Coma_Cose",
+          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
+        }
+      ],
+      "duration_ms": 206001,
+      "name": "Fiamme negli occhi",
+      "url": "https://open.spotify.com/track/5qn15Hs4s26YaNd5UWVe00"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -599,18 +599,18 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Fiamme negli occhi",
-        "url": "https://open.spotify.com/album/63QloB2LteDzQMKstFJ3XK"
+        "name": "Eros 30 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
       },
       "artists": [
         {
-          "name": "Coma_Cose",
-          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 206001,
-      "name": "Fiamme negli occhi",
-      "url": "https://open.spotify.com/track/5qn15Hs4s26YaNd5UWVe00"
+      "duration_ms": 223520,
+      "name": "Terra promessa",
+      "url": "https://open.spotify.com/track/7bcHU50mENL3al5DhEJc7J"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Per Un Milione",
-        "url": "https://open.spotify.com/album/2hMifnfGsH7W1cPNR8G8sH"
-      },
-      "artists": [
-        {
-          "name": "Boomdabash",
-          "url": "https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6"
-        }
-      ],
-      "duration_ms": 174615,
-      "name": "Per Un Milione",
-      "url": "https://open.spotify.com/track/4QkibOQBBrpdsCgZBpSlgQ"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
         "name": "Fai rumore",
         "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 216140,
       "name": "Fai rumore",
       "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
+        "name": "Per Un Milione",
+        "url": "https://open.spotify.com/album/2hMifnfGsH7W1cPNR8G8sH"
+      },
+      "artists": [
+        {
+          "name": "Boomdabash",
+          "url": "https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6"
+        }
+      ],
+      "duration_ms": 174615,
+      "name": "Per Un Milione",
+      "url": "https://open.spotify.com/track/4QkibOQBBrpdsCgZBpSlgQ"
     },
     {
       "added_at": "2025-02-25 22:08:25",

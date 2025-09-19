@@ -644,7 +644,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 132000,
       "name": "32 denti",
       "url": "https://open.spotify.com/track/7lryExfvt5484BVo3FT1J8"
@@ -7018,7 +7018,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 167213,
       "name": "di Odio d'Amore",
       "url": "https://open.spotify.com/track/1EgQnTurQldvDoPBzEcMwr"
@@ -8174,7 +8174,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 152400,
       "name": "DOVREI PENSARTI DI MENO",
       "url": "https://open.spotify.com/track/3tTD1nKTy076dyk3TmKXsF"
@@ -8418,7 +8418,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 172941,
       "name": "EDICOLA",
       "url": "https://open.spotify.com/track/0BHaqa6jXS1gFtLVSRIRCZ"
@@ -8902,6 +8902,24 @@
       "duration_ms": 122823,
       "name": "EX",
       "url": "https://open.spotify.com/track/0s2a4lDkvChIBsDfoa69ET"
+    },
+    {
+      "album": {
+        "name": "sale grezzo",
+        "url": "https://open.spotify.com/album/5tToCf6hc3ALEM2207fXDV"
+      },
+      "artists": [
+        {
+          "name": "Brokenkidzz",
+          "url": "https://open.spotify.com/artist/5YoIT0p6aIAuLfxbK4D6mb"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89142,
+      "name": "f u r b a",
+      "url": "https://open.spotify.com/track/1qMfrD54s3OxsTvxe6n5b6"
     },
     {
       "album": {
@@ -12450,7 +12468,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 165069,
       "name": "IL FILO CHE NON SI RICUCE MAI",
       "url": "https://open.spotify.com/track/1XlFB9zYfuQgKpAUI5YZ8k"
@@ -15130,7 +15148,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 185000,
       "name": "Luce del sole",
       "url": "https://open.spotify.com/track/1QenuCKa0kiEc7JqxeP3G1"
@@ -17354,7 +17372,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 142040,
       "name": "NO FUTURO",
       "url": "https://open.spotify.com/track/6PfQ9XgaUUqjzT46F3TC6x"
@@ -19018,7 +19036,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 302897,
       "name": "outlaw overture",
       "url": "https://open.spotify.com/track/3EuCkgHpzLixcDH2OtNFA3"
@@ -22991,6 +23009,24 @@
     },
     {
       "album": {
+        "name": "SE SOLO SAPESSI",
+        "url": "https://open.spotify.com/album/6AlGsvKscwjKnE01wMKJ9S"
+      },
+      "artists": [
+        {
+          "name": "Mett",
+          "url": "https://open.spotify.com/artist/7o7cJdvphDJCwTEnMRzoCE"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172261,
+      "name": "SE SOLO SAPESSI",
+      "url": "https://open.spotify.com/track/2LkizcdJtT8M5EzPcMMf2K"
+    },
+    {
+      "album": {
         "name": "Sedato e Deluso",
         "url": "https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler"
       },
@@ -23174,6 +23210,32 @@
       "duration_ms": 162810,
       "name": "senza la barba sono grande anch\u2019io",
       "url": "https://open.spotify.com/track/4HRgCzXPjab3ViCZuau9hT"
+    },
+    {
+      "album": {
+        "name": "Senza le ali",
+        "url": "https://open.spotify.com/album/5aUwXsNqggDeMhyMpFBd7e"
+      },
+      "artists": [
+        {
+          "name": "millepaure",
+          "url": "https://open.spotify.com/artist/7Ch7MLfFSiVCLWYnX7a7sH"
+        },
+        {
+          "name": "steee",
+          "url": "https://open.spotify.com/artist/7a8lQ49m8Drh1VyYouoBZL"
+        },
+        {
+          "name": "Whellele",
+          "url": "https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135523,
+      "name": "Senza le ali",
+      "url": "https://open.spotify.com/track/1rxdV2Tgct9dPGlr6eNyRZ"
     },
     {
       "album": {
@@ -26031,6 +26093,24 @@
     },
     {
       "album": {
+        "name": "S\u00f6ldi/F\u00f6gli",
+        "url": "https://open.spotify.com/album/2ZWsDZloi74V8Ixt2rrOjJ"
+      },
+      "artists": [
+        {
+          "name": "Clam\u00f6",
+          "url": "https://open.spotify.com/artist/3NHMeAt6gT8bx5Pru8n1jR"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150196,
+      "name": "S\u00f6ldi/F\u00f6gli",
+      "url": "https://open.spotify.com/track/5PXOHsD9mdltk94HhreLTh"
+    },
+    {
+      "album": {
         "name": "lately I feel EVERYTHING",
         "url": "https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m"
       },
@@ -27320,7 +27400,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 162439,
       "name": "TU NON CAMBIERAI",
       "url": "https://open.spotify.com/track/1znAEW8WrjvFLEIC5NkIQ6"
@@ -27988,6 +28068,24 @@
       "duration_ms": 125909,
       "name": "Un'altra volta",
       "url": "https://open.spotify.com/track/6SYs6LpcQaYvFcHmJDjTdy"
+    },
+    {
+      "album": {
+        "name": "Una Festa",
+        "url": "https://open.spotify.com/album/3weUalN6CQkLRWO4nb6DdF"
+      },
+      "artists": [
+        {
+          "name": "Alibi",
+          "url": "https://open.spotify.com/artist/6vtDqOkppg14GMh5jq7tQv"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174100,
+      "name": "Una Festa",
+      "url": "https://open.spotify.com/track/1Wq1WdsQsfWEXg8Kef0dHf"
     },
     {
       "album": {
@@ -28754,7 +28852,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 142088,
       "name": "VIVERE",
       "url": "https://open.spotify.com/track/5N69JEp0PgJoRdGTitgEvN"

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 338227,
+  "num_followers": 338286,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAACJcqH++hWtmIEnZyGE5Hc2",
+  "snapshot_id": "aMn6AAAAAABlh/HprvCzDL+LqZE/IEnr",
   "tracks": [
     {
       "added_at": null,
@@ -95,18 +95,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Primera Plana",
-        "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
+        "name": "Rigo Campos",
+        "url": "https://open.spotify.com/album/1qFit9VXot0CCpEk3HuWOb"
       },
       "artists": [
         {
           "name": "Los Tucanes De Tijuana",
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         }
       ],
-      "duration_ms": 162840,
-      "name": "Mis Tres Viejas",
-      "url": "https://open.spotify.com/track/1yxJIFPhP2EqnQ6oWJKbmP"
+      "duration_ms": 227275,
+      "name": "Rigo Campos",
+      "url": "https://open.spotify.com/track/4ygbV86leUNtfCVUV0Mqod"
     },
     {
       "added_at": null,
@@ -127,22 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rigo Campos",
-        "url": "https://open.spotify.com/album/1qFit9VXot0CCpEk3HuWOb"
+        "name": "Corridos De Primera Plana",
+        "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
       },
       "artists": [
         {
           "name": "Los Tucanes De Tijuana",
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         }
       ],
-      "duration_ms": 227275,
-      "name": "Rigo Campos",
-      "url": "https://open.spotify.com/track/4ygbV86leUNtfCVUV0Mqod"
+      "duration_ms": 162840,
+      "name": "Mis Tres Viejas",
+      "url": "https://open.spotify.com/track/1yxJIFPhP2EqnQ6oWJKbmP"
     },
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gusta Vivir De Noche",
-        "url": "https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd"
+        "name": "Me Robaste El Corazon",
+        "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 215680,
-      "name": "Me Gusta Vivir De Noche",
-      "url": "https://open.spotify.com/track/4GoBPGSNDWr9Sgi2Sc8xsj"
+      "duration_ms": 198920,
+      "name": "La Chona",
+      "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
     },
     {
       "added_at": null,
@@ -227,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Robaste El Corazon",
-        "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
+        "name": "Me Gusta Vivir De Noche",
+        "url": "https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 198920,
-      "name": "La Chona",
-      "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
+      "duration_ms": 215680,
+      "name": "Me Gusta Vivir De Noche",
+      "url": "https://open.spotify.com/track/4GoBPGSNDWr9Sgi2Sc8xsj"
     },
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mundo De Amor",
+        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 155066,
+      "name": "Tus Verdades",
+      "url": "https://open.spotify.com/track/2dFhOP19RFP0GDg0gCBVST"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 166720,
       "name": "Las Heladas (En Vivo)",
       "url": "https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mundo De Amor",
-        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "Tus Verdades",
-      "url": "https://open.spotify.com/track/2dFhOP19RFP0GDg0gCBVST"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jugo A La Vida",
-        "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "La Chica Sexy",
-      "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 153221,
       "name": "El \u00c1guila Blanca (En Vivo)",
       "url": "https://open.spotify.com/track/4R5nSQMSaXs7okGyfdjb5H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jugo A La Vida",
+        "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "La Chica Sexy",
+      "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "14 Tucanazos Bien Pesados",
-        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 145004,
-      "name": "Carrera Prohibida",
-      "url": "https://open.spotify.com/track/6WOJAgzKbqHxBmYsKqbiW5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Mas Buscados",
         "url": "https://open.spotify.com/album/64dZEFpVrF6TkL6G5nmYWh"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 174013,
       "name": "Los Mas Buscados",
       "url": "https://open.spotify.com/track/3UmOoT3QzBqX0wDly4eHoA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "14 Tucanazos Bien Pesados",
+        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 145004,
+      "name": "Carrera Prohibida",
+      "url": "https://open.spotify.com/track/6WOJAgzKbqHxBmYsKqbiW5"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tucanes De Plata ... Tucanazos Censurados",
+        "url": "https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 164320,
+      "name": "El Doctor Del Pueblo",
+      "url": "https://open.spotify.com/track/2pNbROUHRAHIFT7srabCzo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "14 Tucanazos Bien Pesados",
         "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 197013,
       "name": "Desde Que Te Amo",
       "url": "https://open.spotify.com/track/51FDXDr71U8e9D7Umn9V6r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tucanes De Plata ... Tucanazos Censurados",
-        "url": "https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 164320,
-      "name": "El Doctor Del Pueblo",
-      "url": "https://open.spotify.com/track/2pNbROUHRAHIFT7srabCzo"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Primera Plana",
-        "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 173386,
-      "name": "El Pesado",
-      "url": "https://open.spotify.com/track/1INJtwan6KATEWHapjTtHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos A Quema Ropa",
         "url": "https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 197040,
       "name": "El MZ",
       "url": "https://open.spotify.com/track/3PBqV2WG8gGZbZJP3EbU8i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Primera Plana",
+        "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 173386,
+      "name": "El Pesado",
+      "url": "https://open.spotify.com/track/1INJtwan6KATEWHapjTtHZ"
     },
     {
       "added_at": null,

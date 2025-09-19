@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Asha Bhat, Patrick Abraham
 
-554 songs - 1 day 7 hr 28 min
+555 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Maleya Hani](https://open.spotify.com/track/2wNNoAxQb1VRqKxQMdlwAU) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk), [Thrupthi Rai](https://open.spotify.com/artist/34jjiK70L2t44kp4uTSsxU) | [Maleya Hani](https://open.spotify.com/album/66cC20oPPvP02A2ToTGeaT) | 3:13 | 2023-07-10 | 2024-02-20 |
 | [Mallige Hoova](https://open.spotify.com/track/5PURTIpVPE45Al5IV0QJOS) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Ashika Ranganath](https://open.spotify.com/artist/4wexsazM0emf4VDAxSwIdp) | [Mallige Hoova](https://open.spotify.com/album/7kkpWO8QqNZw7IAmgQfxVt) | 2:57 | 2022-09-09 | 2023-07-18 |
 | [Manadaalada Maatu](https://open.spotify.com/track/7d77j1xDRzw69uQkFlGEHY) | [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp), [Nayan Meti](https://open.spotify.com/artist/6nwWvk6JlBmwe4jCnkimnd) | [Manadaalada Maatu](https://open.spotify.com/album/0LmYdvdjouZveQPz7pl8F3) | 3:08 | 2023-06-06 | 2024-01-12 |
+| [Manadhani](https://open.spotify.com/track/0xzFjj7PUkSrtDRPOIYsjl) | [Raghothama N S](https://open.spotify.com/artist/23SVcQ2QiconhMN4ZU1NZu), [Rajat Hegde](https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW), [Pratap Bhatt](https://open.spotify.com/artist/4CPXosIQsBRyqA0zIPDEn4) | [Manadhani](https://open.spotify.com/album/0iLxcLoEHjHOY0vA3mH3PU) | 4:53 | 2025-09-18 |  |
 | [Manasaagide](https://open.spotify.com/track/1NxlwioChUCGmzMp3Fijly) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2), [Abhishek Bangera](https://open.spotify.com/artist/4ccgSLvOIE9nw2mOQJwg2D) | [Manasaagide](https://open.spotify.com/album/1k24bvHGsLRZnBYIbqLleO) | 2:38 | 2024-09-09 | 2025-02-12 |
 | [Manasare](https://open.spotify.com/track/60aAnSSyv8rhIrWcKN8koO) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Harsha Abbigeri](https://open.spotify.com/artist/6VFxe1u8QcCAF5v7sQyQDr), [Amogh Malakannavar](https://open.spotify.com/artist/2ph9qktlhQK9jdfITK80V8) | [Manasare](https://open.spotify.com/album/6sy8h66IUpgLndkwXZROK1) | 2:46 | 2023-09-13 | 2024-08-13 |
 | [Manase Relax](https://open.spotify.com/track/39jpvgTkYZkH8bNeaIDFP2) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Manase Relax](https://open.spotify.com/album/2bydnauAN63633eCC1ddEM) | 2:51 | 2025-02-18 | 2025-07-09 |
@@ -434,7 +435,7 @@
 | [ONTI NANU](https://open.spotify.com/track/72UHsh4I0azUmgg6UQE2M7) | [Vishwas Javali](https://open.spotify.com/artist/7GvOdsn4GlpJVT993RveVN) | [ONTI NANU](https://open.spotify.com/album/2iHf6Om8Dd3tBr0u9McvYf) | 4:30 | 2024-02-08 | 2024-02-20 |
 | [Oo Jeevave](https://open.spotify.com/track/3oVtDUiXOdiJNeZ9GdkE7Q) | [Girish Prabhu](https://open.spotify.com/artist/3gwJq0GldUL2tNtdeaG7gN) | [Oo Jeevave](https://open.spotify.com/album/5qfB377p8oXyR0yDG9RRwA) | 3:06 | 2024-05-21 | 2024-11-09 |
 | [OPPS ELLA KATTAPA](https://open.spotify.com/track/5S9hxGtu2czG6OhXBQZXJs) | [VishwxsMUZiK](https://open.spotify.com/artist/5klwYQTdqW2U8RTVvykN5Y), [RANCH IN VEGAM](https://open.spotify.com/artist/5HkFSk43UzSWA8I3o6BEn2) | [OPPS ELLA KATTAPA](https://open.spotify.com/album/2NVUvw3aNBL2CXtniORMYi) | 3:28 | 2025-03-28 | 2025-09-07 |
-| [Paaru](https://open.spotify.com/track/7k1x1taBxaq1BUQNs5CwAw) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx) | [Paaru](https://open.spotify.com/album/7LNl42e04CCKb0GdMbcOBr) | 3:55 | 2025-04-02 |  |
+| [Paaru](https://open.spotify.com/track/7k1x1taBxaq1BUQNs5CwAw) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx) | [Paaru](https://open.spotify.com/album/7LNl42e04CCKb0GdMbcOBr) | 3:55 | 2025-04-02 | 2025-09-19 |
 | [Padave](https://open.spotify.com/track/7jeb8vTbfTLSQbQ0YkrpqO) | [Adarsh Iyengar](https://open.spotify.com/artist/0ZB0jEtwxWDtdPUH5c2U88), [Hemanth Jois](https://open.spotify.com/artist/1jGipgLVgmbinZ30YgvYwN), [Rakshith Thirthahalli](https://open.spotify.com/artist/7M7PqSzAHEMpIwHnB43kTS) | [Padave](https://open.spotify.com/album/6WEXnjMsioBRJRKiGqJKIt) | 4:16 | 2024-10-14 | 2025-03-18 |
 | [Pade Pade](https://open.spotify.com/track/63eNczU8Mm6NXK6qb2GhJr) | [Akshay Pattanshetti](https://open.spotify.com/artist/4aDW9nSPFchayJfx8qrur8), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Pade Pade](https://open.spotify.com/album/6iCiUYkdLka3GrO8cpuTuf) | 3:04 | 2024-04-01 | 2024-09-18 |
 | [Paisa](https://open.spotify.com/track/6GnCmGYCBKPe5PZSe2TnP4) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [GRV](https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU) | [Paisa](https://open.spotify.com/album/2PZsne4TWitMBuKSpW11pX) | 2:09 | 2025-03-03 |  |

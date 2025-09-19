@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,881 songs - 8 day 19 hr 19 min
+3,882 songs - 8 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,6 +492,7 @@
 | [California Boy](https://open.spotify.com/track/1yE6KYzKyJ6aBqFl7GskT3) | [Laine Kowalski](https://open.spotify.com/artist/57XUXXbRAgR1AqS45pP9Az) | [California Boy](https://open.spotify.com/album/0TsAtYtTkrim4S8Ju9SFav) | 4:46 | 2024-09-02 | 2024-09-06 |
 | [California Dreamin'](https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy) | [California Dreamin'](https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C) | 2:50 | 2025-04-08 | 2025-04-12 |
 | [California Dreaming](https://open.spotify.com/track/1JpXeGqH7N4lDQsT9yRai2) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro) | [California Dreaming](https://open.spotify.com/album/6Lw1wPDQsDXqhUemhoZTue) | 2:25 | 2024-06-20 | 2024-06-29 |
+| [California License Plate](https://open.spotify.com/track/5zcbob2CDiW65jpK224Qyk) | [Truthlive](https://open.spotify.com/artist/7rMMDJat6svdaj3KrksxgL) | [Collection 3](https://open.spotify.com/album/1iHBYO9XCXeFNl57K3rDzI) | 4:15 | 2025-09-18 |  |
 | [Call Me Closer](https://open.spotify.com/track/2FipruVV8nFTdi2d8QioDk) | [Will Rees](https://open.spotify.com/artist/1dlEz2w0VlP9NSzM6YA1Cm), [Tony Conway](https://open.spotify.com/artist/08qIoglpE6HY62KEg83DxQ), [Ana Criado](https://open.spotify.com/artist/74wwiRVGGmTpYiU2l1olVU) | [Call Me Closer](https://open.spotify.com/album/0Z5pPMzZEqzmO5IcgSgKW6) | 3:53 | 2025-08-01 | 2025-08-09 |
 | [Call My Name](https://open.spotify.com/track/5z8j8fMqFAGViOVQ93vCNH) | [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [Hugo Cobot](https://open.spotify.com/artist/2TNHy21UHQMkl2kylf9k6j), [Sue McLaren](https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D) | [Call My Name](https://open.spotify.com/album/3blKN2PYbIc3ivzvM2AENM) | 3:02 | 2025-01-23 | 2025-02-01 |
 | [Call On Me](https://open.spotify.com/track/7tXDjHtQ8VaojseWKMGzh1) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Call On Me](https://open.spotify.com/album/6yQ307guErqyn0uAbxFaQs) | 2:24 | 2024-07-19 | 2024-07-27 |

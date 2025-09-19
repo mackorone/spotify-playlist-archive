@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 慶祝 RADAR 音樂人突破 1000 位！重溫 RADAR 新勢力歷來最受歡迎歌手作品！Cover: 顏人中 \(Ele Yan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,466 likes - 66 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,470 likes - 66 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 65 | [釋迦 \- Live Session](https://open.spotify.com/track/3Z3oabr31eKhocCaFoMiHE) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [釋迦 \(Live Session\)](https://open.spotify.com/album/73lJKnwBSY4nN072HpBD8N) | 4:31 |
 | 66 | [剩下我的時候](https://open.spotify.com/track/1eyjhqtEKCxSyZ95zum0wJ) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [當我不敢說+](https://open.spotify.com/album/5VnvR23PXnaX6NrSkp6eQd) | 3:32 |
 
-Snapshot ID: `AAAAAAxrU8+/5X3mlFXbOi9yB1RCmHW+`
+Snapshot ID: `AAAAADfUSikK+DId5UZ9hiBcn66Qo5GX`

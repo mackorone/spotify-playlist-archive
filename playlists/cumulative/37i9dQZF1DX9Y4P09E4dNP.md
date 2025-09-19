@@ -2,9 +2,9 @@
 
 ### [Hip\-Life Hits](https://open.spotify.com/playlist/37i9dQZF1DX9Y4P09E4dNP)
 
-> The big Hip\-Life hits rn\. Cover: Shatta Wale
+> The big Hip\-Life hits rn\. Cover: King Paluuta
 
-281 songs - 17 hr 42 min
+282 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Konkontiba \(feat\. Batman\)](https://open.spotify.com/track/53Y4oaiD8nykrG6pT6pUaQ) | [Obour](https://open.spotify.com/artist/3gPfj7Ur5rEUNRNd8kPjRv), [Batman](https://open.spotify.com/artist/2bIsPQ3pIRDs0nx8JZGCpc) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:41 | 2020-02-20 | 2022-03-16 |
 | [Kotosa](https://open.spotify.com/track/3mBRt8Ca7OhCew1X1tac0G) | [Wutah](https://open.spotify.com/artist/15YvgMGSsybKVkZIIqOheJ) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:04 | 2020-02-20 | 2022-07-25 |
 | [Kwaku Ananse](https://open.spotify.com/track/2N9w3FacGQIN18o0DeFO1X) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Kwaku Ananse](https://open.spotify.com/album/67z5ZW6Se4NBjtP4ju4sOw) | 3:26 | 2024-03-04 | 2024-12-13 |
+| [La Vida Loca](https://open.spotify.com/track/4Hxx6KY9Hrq6q3NFZkR1gV) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [La Vida Loca](https://open.spotify.com/album/5SJvtKjcD4LmZ564pD24Rm) | 4:26 | 2025-09-19 |  |
 | [Lavida Loca \(feat\. Lasmid\)](https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Lavida Loca \(feat\. Lasmid\)](https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB) | 2:39 | 2025-07-18 |  |
 | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW) | 2:44 | 2023-07-28 | 2024-06-07 |
 | [Linda](https://open.spotify.com/track/1lbQ0Ry2cW1eIFQZexkiPM) | [Batman](https://open.spotify.com/artist/4js6LOM6yehyZOQ7LhjFlq) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 3:20 | 2020-02-20 | 2022-10-17 |
@@ -214,7 +215,7 @@
 | [Playman](https://open.spotify.com/track/2X4gf2v1AMcHPDfYdxcTNX) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Playman](https://open.spotify.com/album/45CPYCWCa66IajSsnjdHur) | 3:04 | 2024-08-30 | 2024-10-26 |
 | [Police Abaa](https://open.spotify.com/track/4fRcpwG2T87zP0Mryo5RiL) | [Nsiah Piesie](https://open.spotify.com/artist/3Jz73C0AKTFh62DKP9pTOd) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:08 | 2020-02-20 | 2022-07-29 |
 | [Princess](https://open.spotify.com/track/5mxzoHipkwp4QJaKUA128x) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Princess](https://open.spotify.com/album/64zKcYay51UzGFLBgy92Xl) | 1:37 | 2025-01-14 |  |
-| [PROBLEM](https://open.spotify.com/track/4IIGJVSF111kujLOqb0bgQ) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [PROBLEM](https://open.spotify.com/album/5Ak0B9sbAdYAtvNQr1to1a) | 2:54 | 2024-11-22 |  |
+| [PROBLEM](https://open.spotify.com/track/4IIGJVSF111kujLOqb0bgQ) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [PROBLEM](https://open.spotify.com/album/5Ak0B9sbAdYAtvNQr1to1a) | 2:54 | 2024-11-22 | 2025-09-19 |
 | [PUFF PUFF](https://open.spotify.com/track/6NMuQPXrTjnolGuttpu5Xy) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [PUFF PUFF](https://open.spotify.com/album/31PqWyE2sNdjg83d5YKIhm) | 2:44 | 2024-10-18 | 2024-11-23 |
 | [Puul](https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Puul](https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj) | 2:52 | 2024-03-04 | 2025-02-22 |
 | [Questions](https://open.spotify.com/track/2UyyeyrMMa6xeLTahzJ3WY) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Questions](https://open.spotify.com/album/09qtruWBuFM1j91UfI7xHz) | 3:25 | 2023-02-23 | 2024-03-05 |

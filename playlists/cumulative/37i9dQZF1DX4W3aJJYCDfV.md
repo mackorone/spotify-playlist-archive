@@ -4,7 +4,7 @@
 
 > Brand new music from Ed Sheeran, JADE, Gorillaz and more!
 
-18,284 songs - 41 day 4 hr 5 min
+18,285 songs - 41 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16579,6 +16579,7 @@
 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 | 2023-12-01 | 2023-12-08 |
 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 | 2024-02-02 | 2024-02-09 |
 | [Try](https://open.spotify.com/track/1YJ8Sx2YZjBFNWhvCDUEKa) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Qhairo](https://open.spotify.com/artist/4iZFdVAuD09d0newPwscSk) | [Try](https://open.spotify.com/album/4r5rI5k5ansCDpZ8tfRuv5) | 3:47 | 2023-12-01 | 2023-12-08 |
+| [Try & Escape](https://open.spotify.com/track/0cNDDA6wf2JRpLaKDcPMPl) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [BANGERS ONLY](https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3) | 3:08 | 2025-09-11 |  |
 | [Try Changing](https://open.spotify.com/track/4xOtboij9azfzcWQ9yJq8F) | [Gia Ford](https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX) | [Try Changing](https://open.spotify.com/album/6lJjmKFAxD9RUmDSStQMdg) | 4:00 | 2024-08-22 | 2024-08-30 |
 | [Try Me](https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Try Me](https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx) | 3:33 | 2023-04-13 | 2023-04-21 |
 | [Try Try Try](https://open.spotify.com/track/1kthQJdi4E9AMUqefZsb4s) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Try Try Try](https://open.spotify.com/album/6VAAZQK8A1ui0KIKJUPT2q) | 4:01 | 2025-08-14 | 2025-08-23 |

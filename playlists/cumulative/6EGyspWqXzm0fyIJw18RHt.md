@@ -4,7 +4,7 @@
 
 > The vibes
 
-36 songs - 2 hr 1 min
+37 songs - 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [My Girlfriend Is a Witch](https://open.spotify.com/track/18DaSMSqc40nV8cDhdLemj) | [October Country](https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9) | [October Country \(Expanded Edition\)](https://open.spotify.com/album/58DUHwOcuQZ62znoET7J2l) | 2:06 | 2024-10-14 |  |
 | [My Own Version of You](https://open.spotify.com/track/3BQnez3qUm6hdKwxXly7Rw) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 6:41 | 2023-03-31 |  |
 | [Necromancin Dancin](https://open.spotify.com/track/4VoSYq3aTp57jgrdNswzrd) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Blasterpiece](https://open.spotify.com/album/1QGh29u6gecFcSXOVloWEX) | 3:47 | 2023-08-10 |  |
+| [One Foot in the Grave](https://open.spotify.com/track/00sg1bWleg3eSzq5fgRaLl) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Element Two: Earth](https://open.spotify.com/album/47LAjSieRTVItb8J66EMRQ) | 2:40 | 2025-09-19 |  |
 | [Rave in the Grave](https://open.spotify.com/track/6Sf2YqGzNmVfSNpLFWuYbz) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [Rave in the Grave](https://open.spotify.com/album/2XPegg8qwhY3CHGR4n812W) | 2:42 | 2024-10-17 |  |
 | [Riboflavin\-Flavored, Non\-Carbonated, Polyunsaturated Blood](https://open.spotify.com/track/1EIcNH1zUEr7sWCNK8Q0km) | [Don Hinson & The Rigamorticians](https://open.spotify.com/artist/6GNXV11gvYYegW2APslNlN) | [Monster Dance Party](https://open.spotify.com/album/4Ucm5B1SXAUCRuuBFQUPWE) | 2:39 | 2024-10-14 |  |
 | [Season Of The Witch](https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Season Of The Witch \(From The Motion Picture "Scary Stories To Tell In The Dark"\)](https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq) | 4:07 | 2024-10-14 |  |

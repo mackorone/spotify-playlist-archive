@@ -160313,6 +160313,24 @@
     },
     {
       "album": {
+        "name": "Who Loves",
+        "url": "https://open.spotify.com/album/4fxw34zALhhysZxboTJBFF"
+      },
+      "artists": [
+        {
+          "name": "Issac Mansfield",
+          "url": "https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144326,
+      "name": "Who Loves",
+      "url": "https://open.spotify.com/track/1ZJTrzjV4iAm2XejMTJvZN"
+    },
+    {
+      "album": {
         "name": "Who You Are",
         "url": "https://open.spotify.com/album/7i8waz2ojMre9Ix47n1nGJ"
       },

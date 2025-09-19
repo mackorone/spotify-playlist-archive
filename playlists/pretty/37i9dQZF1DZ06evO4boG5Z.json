@@ -1,12 +1,12 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 29444,
+  "num_followers": 29446,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAADhXM9G2wpJ8Tgrhw2xUgIC",
+  "snapshot_id": "aMn6AAAAAADcxTVeFRavh5ZPykqMT36s",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Brew",
-        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 157386,
-      "name": "Sense & Sensibility",
-      "url": "https://open.spotify.com/track/0UaOzDAzZPiPfXP2AbIrpf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
       },
@@ -395,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
       },
       "artists": [
         {
@@ -404,9 +388,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 184960,
-      "name": "Man Or Mouse",
-      "url": "https://open.spotify.com/track/7eIdwfEjqrMtfB7YOu3yBG"
+      "duration_ms": 157386,
+      "name": "Sense & Sensibility",
+      "url": "https://open.spotify.com/track/0UaOzDAzZPiPfXP2AbIrpf"
     },
     {
       "added_at": null,
@@ -423,6 +407,22 @@
       "duration_ms": 141706,
       "name": "Leona",
       "url": "https://open.spotify.com/track/1meXK8bC29YKP011kHQml1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 184960,
+      "name": "Man Or Mouse",
+      "url": "https://open.spotify.com/track/7eIdwfEjqrMtfB7YOu3yBG"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Melancholy Connection",
-        "url": "https://open.spotify.com/album/77AjEPs6vSjhcmIeRQ7xC7"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "E20 Norr",
-      "url": "https://open.spotify.com/track/1k9GmgwJI3nuAuhjnbWjrC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Same Old Tunes",
         "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 121373,
       "name": "Dance Craze",
       "url": "https://open.spotify.com/track/2lgg5VzE1GUtmgxLz8r6u2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Melancholy Connection",
+        "url": "https://open.spotify.com/album/77AjEPs6vSjhcmIeRQ7xC7"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "E20 Norr",
+      "url": "https://open.spotify.com/track/1k9GmgwJI3nuAuhjnbWjrC"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingwood",
-        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 132333,
-      "name": "Mooseman's Jukebox",
-      "url": "https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Same Old Tunes",
         "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 220973,
       "name": "Diznee Time",
       "url": "https://open.spotify.com/track/4cew9gVe4Ot4gOVFL4Q8Cf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 132333,
+      "name": "Mooseman's Jukebox",
+      "url": "https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT"
     },
     {
       "added_at": null,

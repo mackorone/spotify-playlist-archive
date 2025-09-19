@@ -4,7 +4,7 @@
 
 > The hottest Afropop records on the planet\.  Cover: Bien & Phyno
 
-694 songs - 1 day 11 hr 21 min
+695 songs - 1 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,7 +502,7 @@
 | [Paparigo](https://open.spotify.com/track/1FHE8HWaTOW9vMXBuJOsS6) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Pygmalion](https://open.spotify.com/album/7IBIYHkyHgpQ8xXxx9sUiA) | 2:51 | 2024-12-13 | 2024-12-21 |
 | [Paradise](https://open.spotify.com/track/0zZi6rdBuRClBsbSWmeHC3) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Paradise](https://open.spotify.com/album/56YthMPztzSd9nWfFWnqXy) | 3:25 | 2022-11-25 | 2022-12-02 |
 | [Paranoid \(feat\. Fridayy\)](https://open.spotify.com/track/6axRsq4QvWQOyKfPfzgMCc) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [True To Self](https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5) | 3:32 | 2024-06-14 | 2024-10-05 |
-| [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 | 2024-03-08 |  |
+| [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 | 2024-03-08 | 2025-09-19 |
 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 | 2023-03-25 | 2023-11-10 |
 | [Party No Dey Stop \(with JayO & Byron Messia\) \- JayO & Byron Messia Remix](https://open.spotify.com/track/6qOGmElVBG9ERlgN88TxjQ) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Party No Dey Stop \(JayO & Byron Messia Remix\)](https://open.spotify.com/album/0wg0yuzwpRpdRwKNzDd7Wk) | 2:32 | 2023-10-27 | 2024-03-26 |
 | [Pawa](https://open.spotify.com/track/51TVoZ4d09tedi9Z8iSX5r) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Room Number 3](https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY) | 3:46 | 2025-07-03 | 2025-07-05 |
@@ -646,6 +646,7 @@
 | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 3:11 | 2022-05-26 | 2022-06-10 |
 | [Thick Thighs](https://open.spotify.com/track/554GIS5vF1pZXRKymmYrSb) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Thick Thighs](https://open.spotify.com/album/0S8uh30tCkqkDVJPCI01w5) | 2:57 | 2021-12-02 | 2022-02-20 |
 | [Things I Know](https://open.spotify.com/track/2AvzqDvMMRXyJhfXrBEDUb) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Things I Know](https://open.spotify.com/album/14sM4pRzpj49fEn5PJEGUP) | 2:50 | 2022-11-04 | 2023-01-20 |
+| [this!](https://open.spotify.com/track/2Cerrfi8MbeJLW07itVbr4) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [roses are red, tears are blue — A Fountain Baby Extended Play](https://open.spotify.com/album/5PG3V76DdkOmlZT7RyrvPU) | 3:04 | 2025-09-18 |  |
 | [Thug Love](https://open.spotify.com/track/17uovpjxgRlZOAriKRsgfE) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Thug Love](https://open.spotify.com/album/3Bcj3vvXd5w0eEEiIw5nJO) | 2:14 | 2022-12-02 | 2023-01-20 |
 | [Till I Die \(feat\. Spyro\)](https://open.spotify.com/track/36N2UjBiYmVHg4LQ4fJaNL) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Peace And Money](https://open.spotify.com/album/47pNTi044pGat6ihhj9Vo2) | 3:14 | 2024-12-20 | 2025-02-14 |
 | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY) | 3:03 | 2023-10-27 | 2024-08-21 |

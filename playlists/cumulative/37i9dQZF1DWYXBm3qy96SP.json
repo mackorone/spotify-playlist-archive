@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: twenty one pilots",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Aerosmith & YUNGBLUD",
   "name": "Rock The World",
   "tracks": [
     {
@@ -2112,7 +2112,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 186906,
       "name": "Apologies",
       "url": "https://open.spotify.com/track/3iTgpxcDmPDMw0n9IJYG3S"
@@ -4884,6 +4884,24 @@
     {
       "album": {
         "name": "Butterflies",
+        "url": "https://open.spotify.com/album/69DJ3dd7CZtfaKToG3DXd5"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189163,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF"
+    },
+    {
+      "album": {
+        "name": "Butterflies",
         "url": "https://open.spotify.com/album/2Xsbgs98TZqAqX7XJcLw8q"
       },
       "artists": [
@@ -5208,7 +5226,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 238756,
       "name": "can u see me in the dark?",
       "url": "https://open.spotify.com/track/7pugmRsHRy1fnug9NqH5cA"
@@ -7945,6 +7963,24 @@
     },
     {
       "album": {
+        "name": "doll",
+        "url": "https://open.spotify.com/album/1Do3N6dQQH4vcRpRoSIjnI"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209773,
+      "name": "doll",
+      "url": "https://open.spotify.com/track/6tM3TfDXxXWxb6ZACxO897"
+    },
+    {
+      "album": {
         "name": "ORDER chaos ORDER",
         "url": "https://open.spotify.com/album/0O0OCwx5K3WRMrfqwVMR2f"
       },
@@ -8638,7 +8674,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 189103,
       "name": "Elevator Operator",
       "url": "https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF"
@@ -8924,7 +8960,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 268369,
       "name": "Even In Arcadia",
       "url": "https://open.spotify.com/track/4IixOTCzviJgIigKleiVbo"
@@ -9682,7 +9718,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 256066,
       "name": "Favourite",
       "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
@@ -10892,7 +10928,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 386181,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/6FVK5UcCwZ3k34vT2wenhd"
@@ -11568,7 +11604,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 233188,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/3tlw6dqv2qejTGLnVaEsgb"
@@ -12942,7 +12978,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 233141,
       "name": "I CARE",
       "url": "https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC"
@@ -15664,7 +15700,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 208739,
       "name": "Let You Fade",
       "url": "https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc"
@@ -16036,7 +16072,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 234560,
       "name": "Little Bit Closer",
       "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
@@ -18309,6 +18345,28 @@
     },
     {
       "album": {
+        "name": "My Only Angel",
+        "url": "https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255818,
+      "name": "My Only Angel",
+      "url": "https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd"
+    },
+    {
+      "album": {
         "name": "METAL FORTH",
         "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
       },
@@ -18670,7 +18728,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 234400,
       "name": "Next Semester",
       "url": "https://open.spotify.com/track/1BANPzYIhCQkJ1ZFq2Fb0O"
@@ -19016,7 +19074,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 236013,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
@@ -20256,7 +20314,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 220226,
       "name": "Ordinary Creature",
       "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
@@ -20544,7 +20602,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 236000,
       "name": "Overcompensate",
       "url": "https://open.spotify.com/track/1LAlLBTGBUO0MDA8IbSysd"
@@ -21467,6 +21525,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191531,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB"
+    },
+    {
+      "album": {
         "name": "PREDATOR",
         "url": "https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR"
       },
@@ -21532,7 +21608,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 233793,
       "name": "Prequel",
       "url": "https://open.spotify.com/track/3ZdwCZtXWJjMqHlSFgYfIg"
@@ -22304,7 +22380,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 192911,
       "name": "Revery",
       "url": "https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1"
@@ -22962,6 +23038,24 @@
       "duration_ms": 167704,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv"
+    },
+    {
+      "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/2AGCv5fNiNdsxyHBhm7fiA"
+      },
+      "artists": [
+        {
+          "name": "Nevertel",
+          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167704,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/6vU1HxvZ59dp8CNziQOP2S"
     },
     {
       "album": {
@@ -24328,6 +24422,24 @@
       "duration_ms": 178829,
       "name": "solo",
       "url": "https://open.spotify.com/track/1h4mu5ghHkzJzswgoVqvg3"
+    },
+    {
+      "album": {
+        "name": "Some Things",
+        "url": "https://open.spotify.com/album/1iFgpCMEHReezjRNWp0XuG"
+      },
+      "artists": [
+        {
+          "name": "Nevertel",
+          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214036,
+      "name": "Some Things",
+      "url": "https://open.spotify.com/track/4z03v8DF4bBKv1pGvwPpD1"
     },
     {
       "album": {
@@ -27344,7 +27456,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-14",
+      "date_removed": null,
       "duration_ms": 171553,
       "name": "The Weather",
       "url": "https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS"
@@ -30936,7 +31048,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/34qaGPDvfWqp3F4iD5nGhf"
@@ -31034,7 +31146,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 166776,
       "name": "Young & Dumb (feat. Simple Plan)",
       "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"

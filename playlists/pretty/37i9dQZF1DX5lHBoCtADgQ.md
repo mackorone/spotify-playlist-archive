@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,357 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,377 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 9 | [Tappe \- From "Rabb Da Radio 2"](https://open.spotify.com/track/30wnxjw4ud9pwuTKSdoqAY) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Tappe \(From "Rabb Da Radio 2"\)](https://open.spotify.com/album/1qQbdooXXwN1ksUhlTXkyd) | 3:26 |
 | 10 | [Gidda](https://open.spotify.com/track/6yAhxwmFN24AlXxloASVD6) | [Satwant Kaur](https://open.spotify.com/artist/3q3BQzCBV9zDEC2KouwmP4), [Kudrat Kaur](https://open.spotify.com/artist/2AS8kPljekqO3AMBJylyop) | [Darra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/12PVaEbyDEXApwa2DJvEn1) | 5:58 |
 | 11 | [Kleriyaa Mora](https://open.spotify.com/track/3bFDMq8a1HOemL91NG9Ipg) | [Arash Riaz](https://open.spotify.com/artist/42fD5qdpYX9oe3MD7wByhf) | [Kleriyaa Mora](https://open.spotify.com/album/0IgcdYiFdbRj0aeHLV5AcR) | 2:45 |
-| 12 | [Jaago Aaiya](https://open.spotify.com/track/1hZxlzNO0gl0rl300qF7ta) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Monewala](https://open.spotify.com/artist/5gwaAQzgAG2J6tg85lWEEe) | [Jaago Aaiya](https://open.spotify.com/album/16frN5B43EYTDx3qby507S) | 4:13 |
-| 13 | [Sajna Ve Sajna](https://open.spotify.com/track/4eIOdicpfNZq1CHTD6U2BW) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Gurdas Maan Hits](https://open.spotify.com/album/33JWCJhCr7UJMa3UZbeNeJ) | 6:22 |
+| 12 | [Sajna Ve Sajna](https://open.spotify.com/track/4eIOdicpfNZq1CHTD6U2BW) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Gurdas Maan Hits](https://open.spotify.com/album/33JWCJhCr7UJMa3UZbeNeJ) | 6:22 |
+| 13 | [Jaago Aaiya](https://open.spotify.com/track/1hZxlzNO0gl0rl300qF7ta) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Monewala](https://open.spotify.com/artist/5gwaAQzgAG2J6tg85lWEEe) | [Jaago Aaiya](https://open.spotify.com/album/16frN5B43EYTDx3qby507S) | 4:13 |
 | 14 | [Challa X Chan Kithan Guzari](https://open.spotify.com/track/2hWNpP7C7mvLTloxpQM9Dw) | [Waqar Khan](https://open.spotify.com/artist/1SNuHi2OFtW7XggF1NbeV9), [Kabul Bukhari](https://open.spotify.com/artist/14KvoiphLvP8UmalvMqT49) | [Challa X Chan Kithan Guzari](https://open.spotify.com/album/34bbYQoSZGbmrSSebFPXxy) | 5:20 |
 | 15 | [Ik Jogi aa Gya](https://open.spotify.com/track/2rk1APwyNw3H0BmfiONgyu) | [Arash Riaz](https://open.spotify.com/artist/42fD5qdpYX9oe3MD7wByhf), [Parwaaz Gill](https://open.spotify.com/artist/5jmBUt1mJQmrCriEgOJSFM), [Karanvir Klair](https://open.spotify.com/artist/7eCmvzU59pXo2zmjAlcRFz) | [Ik Jogi aa Gya](https://open.spotify.com/album/4m5xMq1O6qZVU35zIcUDxi) | 4:46 |
 | 16 | [Kala Dooria](https://open.spotify.com/track/2U2xgNrMtfHtXks6TrY1zt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Virasat \-E\- Punjab,Vol\. 1](https://open.spotify.com/album/79G3oFYdXkf3sjZ4HyHAaz) | 2:59 |

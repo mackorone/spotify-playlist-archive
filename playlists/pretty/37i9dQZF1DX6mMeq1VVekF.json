@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Dijon",
-  "num_followers": 180409,
+  "num_followers": 180410,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB76h0bIH6mJZFiopx2/9Ji+faKn",
+  "snapshot_id": "AAAAALv9b5AGp/Sz7vwpgjjPbn5adnqF",
   "tracks": [
     {
       "added_at": "2025-09-02 09:16:14",
@@ -563,18 +563,18 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
-        "name": "aggressive",
-        "url": "https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b"
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/3k9rPnqzQ5NGvu8CtiA0Sz"
       },
       "artists": [
         {
-          "name": "Jim Legxacy",
-          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
         }
       ],
-      "duration_ms": 175215,
-      "name": "aggressive",
-      "url": "https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3"
+      "duration_ms": 187192,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/76AYXcnSdgIK4l3cEzuXFw"
     },
     {
       "added_at": "2025-09-02 09:16:14",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
+        "name": "aggressive",
+        "url": "https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "duration_ms": 175215,
+      "name": "aggressive",
+      "url": "https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3"
+    },
+    {
+      "added_at": "2025-09-02 09:16:14",
+      "album": {
         "name": "Same Sh*t",
         "url": "https://open.spotify.com/album/5ilEtloP5mNtfR6vbcdS9r"
       },
@@ -607,46 +623,6 @@
       "duration_ms": 148452,
       "name": "Same Sh*t",
       "url": "https://open.spotify.com/track/6JLhAcblWoXi3Yxnm2rQOy"
-    },
-    {
-      "added_at": "2025-09-02 09:16:14",
-      "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/3k9rPnqzQ5NGvu8CtiA0Sz"
-      },
-      "artists": [
-        {
-          "name": "Liv East",
-          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
-        }
-      ],
-      "duration_ms": 187192,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/76AYXcnSdgIK4l3cEzuXFw"
-    },
-    {
-      "added_at": "2025-09-02 09:16:14",
-      "album": {
-        "name": "Sticks and Stones (ft. Kojey Radical & Strandz)",
-        "url": "https://open.spotify.com/album/6KTsdhNUKZUZIXvrEWcPiO"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        },
-        {
-          "name": "Strandz",
-          "url": "https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS"
-        }
-      ],
-      "duration_ms": 252452,
-      "name": "Sticks and Stones (ft. Kojey Radical & Strandz)",
-      "url": "https://open.spotify.com/track/4GEBLb8i3BtKGuqjoU2txa"
     },
     {
       "added_at": "2025-09-02 09:16:14",
@@ -671,6 +647,30 @@
       "duration_ms": 243356,
       "name": "Osbatt",
       "url": "https://open.spotify.com/track/2LogzWD6BFBnj3avJpjcnh"
+    },
+    {
+      "added_at": "2025-09-02 09:16:14",
+      "album": {
+        "name": "Sticks and Stones (ft. Kojey Radical & Strandz)",
+        "url": "https://open.spotify.com/album/6KTsdhNUKZUZIXvrEWcPiO"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        },
+        {
+          "name": "Strandz",
+          "url": "https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS"
+        }
+      ],
+      "duration_ms": 252452,
+      "name": "Sticks and Stones (ft. Kojey Radical & Strandz)",
+      "url": "https://open.spotify.com/track/4GEBLb8i3BtKGuqjoU2txa"
     },
     {
       "added_at": "2025-09-02 09:16:14",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
-        "name": "Better Now",
-        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
-      },
-      "artists": [
-        {
-          "name": "Len Blake",
-          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
-    },
-    {
-      "added_at": "2025-09-02 09:16:14",
-      "album": {
         "name": "GREEN LIGHT",
         "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 175714,
       "name": "GREEN LIGHT",
       "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
+    },
+    {
+      "added_at": "2025-09-02 09:16:14",
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
+      },
+      "artists": [
+        {
+          "name": "Len Blake",
+          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
     },
     {
       "added_at": "2025-09-02 09:16:14",

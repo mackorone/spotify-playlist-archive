@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. Cover: Gorillaz",
+  "description": "The best indie music of the moment. Cover: Etta Marcus",
   "name": "The Indie List",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 236245,
       "name": "Before You I Just Forget",
       "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 201960,
       "name": "Bitter Everyday",
       "url": "https://open.spotify.com/track/3NGXSH11dlimo9JWJwLaEg"
@@ -2376,6 +2376,24 @@
       "duration_ms": 208000,
       "name": "Chrysalis",
       "url": "https://open.spotify.com/track/4j9tHe6pw1ljHc30IivKYT"
+    },
+    {
+      "album": {
+        "name": "Cinder Block",
+        "url": "https://open.spotify.com/album/2XMx3ZVns6LFVKu3GpAYN6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222310,
+      "name": "Cinder Block",
+      "url": "https://open.spotify.com/track/4ocbhbmq4kUNWFqCEoUOLs"
     },
     {
       "album": {
@@ -3590,7 +3608,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 296680,
       "name": "EURO-COUNTRY",
       "url": "https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0"
@@ -4314,7 +4332,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 165073,
       "name": "Girls Are God\u2019s Machines",
       "url": "https://open.spotify.com/track/3qq1DyClNrvBdaMK4QOXrw"
@@ -4462,6 +4480,24 @@
       "duration_ms": 178253,
       "name": "Gone West",
       "url": "https://open.spotify.com/track/6wO0FMzk3BWBBJKSJYFHFf"
+    },
+    {
+      "album": {
+        "name": "Good Boy",
+        "url": "https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222106,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
     },
     {
       "album": {
@@ -6859,6 +6895,24 @@
     },
     {
       "album": {
+        "name": "midori",
+        "url": "https://open.spotify.com/album/3CJbDB2BVuj3sVZ8o2kwk3"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254434,
+      "name": "midori",
+      "url": "https://open.spotify.com/track/6yFrdnr5l7TirwCgpQrdTj"
+    },
+    {
+      "album": {
         "name": "Midwest Kid",
         "url": "https://open.spotify.com/album/17PKl0hIeOg9wv87RkvP8T"
       },
@@ -6958,6 +7012,24 @@
       "duration_ms": 217901,
       "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
       "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218335,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im"
     },
     {
       "album": {
@@ -7134,7 +7206,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 164956,
       "name": "My Love",
       "url": "https://open.spotify.com/track/4XM4c3zMS0orMhblnrZwnS"
@@ -8035,6 +8107,24 @@
     },
     {
       "album": {
+        "name": "Wolf Alice - Spotify Live Room",
+        "url": "https://open.spotify.com/album/67jG99DKNpyBkD2AN0cCJm"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238729,
+      "name": "Play It Out (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/44cYxPKYAv0TEsVSScm0ua"
+    },
+    {
+      "album": {
         "name": "Pleasures / Oh, Completely",
         "url": "https://open.spotify.com/album/7JlRDvAPTpb1FD8C2G9GlG"
       },
@@ -8310,7 +8400,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 339410,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
@@ -8400,10 +8490,28 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 200501,
       "name": "Roobosh",
       "url": "https://open.spotify.com/track/4SGcQ6xwzsSPhugTOgcp7n"
+    },
+    {
+      "album": {
+        "name": "rooster",
+        "url": "https://open.spotify.com/album/2wDHpVaU5WuuRgkn52Lp2e"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335038,
+      "name": "rooster",
+      "url": "https://open.spotify.com/track/5gTYOYsiGMYVa6WVf98q1n"
     },
     {
       "album": {
@@ -9881,6 +9989,24 @@
     },
     {
       "album": {
+        "name": "Teenage Messiah",
+        "url": "https://open.spotify.com/album/0NQeE4xYtYeTOrbilll4Ao"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296724,
+      "name": "Teenage Messiah",
+      "url": "https://open.spotify.com/track/5BqaUUlhK73bzyN3edyvVA"
+    },
+    {
+      "album": {
         "name": "Television Love",
         "url": "https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0"
       },
@@ -10958,6 +11084,24 @@
       "duration_ms": 270205,
       "name": "Total euphoria",
       "url": "https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195306,
+      "name": "Townies",
+      "url": "https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo"
     },
     {
       "album": {

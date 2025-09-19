@@ -4,7 +4,7 @@
 
 > Break up songs, the best cure for a broken heart!
 
-476 songs - 1 day 2 hr 51 min
+477 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Love Me or Leave Me](https://open.spotify.com/track/1n73Qe6oEprLsUNHXET2pb) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:26 | 2023-09-15 | 2025-03-14 |
 | [Love Songs Ain't for Us \(feat\. Keith Urban\)](https://open.spotify.com/track/5s6pQWa3WI2hqe8bYa8Ai9) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love Songs Ain't for Us](https://open.spotify.com/album/7M3LEiOe6WBwqNkEYytwXg) | 3:40 | 2023-09-15 | 2025-03-14 |
 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 | 2025-03-26 |  |
+| [Lover, You Should've Come Over](https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:44 | 2025-09-18 |  |
 | [Make Me \(Cry\)](https://open.spotify.com/track/2BrzlUj1u1CtvaJDGIKpsP) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Make Me \(Cry\)](https://open.spotify.com/album/46yAYzRhSMPA44m0MzSr6g) | 4:02 | 2023-09-15 | 2025-03-14 |
 | [Make My Mind Up](https://open.spotify.com/track/0gsRy8IXAxxIAP5brg6JND) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Make My Mind Up](https://open.spotify.com/album/6Dzwr5r9VHhqDC8uigaAcv) | 3:17 | 2023-09-15 | 2025-03-14 |
 | [Maniac](https://open.spotify.com/track/6CWRYS1AaB6SGRGR8BsAMs) | [Lila](https://open.spotify.com/artist/7fMaGYPt2Za9wzgOWhWYG4) | [Maniac](https://open.spotify.com/album/6U9qXDKONFYij1UFxllzYE) | 3:17 | 2025-05-09 |  |

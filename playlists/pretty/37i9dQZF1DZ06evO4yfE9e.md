@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 
 > This is bludnymph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,514 likes - 29 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,516 likes - 29 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 2 | [Lights Out](https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lights Out](https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt) | 2:23 |
 | 3 | [ORAL HEX \(spell on you\)](https://open.spotify.com/track/24GULBTSEbv8y8mKgF3IhQ) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [ORAL HEX \(spell on you\)](https://open.spotify.com/album/3LAWMvJxRd4uQFJiyQQIbN) | 3:14 |
 | 4 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 |
-| 5 | [Watch Me](https://open.spotify.com/track/34pjQ4XCtI9gX83heBGuw6) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Watch Me](https://open.spotify.com/album/4SpyKfOIcYmiXvxLU6co2X) | 2:17 |
-| 6 | [FEAST \(Let’s Eat Yuh Yuh\)](https://open.spotify.com/track/7HZdpMX26OZywTZphD6K3H) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [FEAST](https://open.spotify.com/album/76l5VtzukIjvfZ28GYdx5n) | 2:05 |
+| 5 | [FEAST \(Let’s Eat Yuh Yuh\)](https://open.spotify.com/track/7HZdpMX26OZywTZphD6K3H) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [FEAST](https://open.spotify.com/album/76l5VtzukIjvfZ28GYdx5n) | 2:05 |
+| 6 | [Watch Me](https://open.spotify.com/track/34pjQ4XCtI9gX83heBGuw6) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Watch Me](https://open.spotify.com/album/4SpyKfOIcYmiXvxLU6co2X) | 2:17 |
 | 7 | [BOYS BOYS BOYS](https://open.spotify.com/track/1b5mWKFDR33vyOFrUwBWQw) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [BOYS BOYS BOYS](https://open.spotify.com/album/5vy9KsvFsT7WLfbwx96XG8) | 2:10 |
 | 8 | [The Things I Do For Love](https://open.spotify.com/track/4WHGwyIMlHJeJggdfKb6XF) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [The Things I Do For Love](https://open.spotify.com/album/3dmgdqxyBmZL6vN1PpYSMn) | 2:40 |
 | 9 | [Personal Pornstar](https://open.spotify.com/track/6bKpTpTcQ4imWaP4uMMJmb) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [DROOL](https://open.spotify.com/album/46uDWaLv4goRceYW9atPaI) | 2:49 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 28 | [Lavender](https://open.spotify.com/track/1V1Ej2Pl51pmoVzL2qN4Sn) | [EZ Ice](https://open.spotify.com/artist/4NZklHPG05LMNCqbffWkpG), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lavender](https://open.spotify.com/album/30eZ6nN8mdJAXaVQQSh6YA) | 2:43 |
 | 29 | [Wishin](https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Indigowavv](https://open.spotify.com/artist/2yzeix2G6wK5nEJAudnC4Z) | [Wishin](https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv) | 2:53 |
 
-Snapshot ID: `aMiogAAAAADtGhnLmCDDPB5Pc6kQwAGN`
+Snapshot ID: `aMn6AAAAAABUVQ2DPDDh1052JhcLGpIk`

@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Tiakola
+> Le R&B français, nouvelle ère\. Photo : Low Jay x Lisandro Cuxi
 
-541 songs - 1 day 1 hr 38 min
+544 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Après l'été](https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Après l'été](https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X) | 3:59 | 2024-09-19 | 2025-01-24 |
 | [Assez](https://open.spotify.com/track/5khLB5FEPptQb1PirpzYyg) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Assez](https://open.spotify.com/album/2HQPK4vEjaIGw0ljaPUooi) | 2:52 | 2025-06-19 | 2025-07-18 |
 | [Assez \(épisode 1\)](https://open.spotify.com/track/5knL7kkdGRwHHS1sjZIH5H) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Cullinan \(Gelée Royale 1 & 2\)](https://open.spotify.com/album/3NPQDrbnqqcr0I0lCTcXSw) | 3:23 | 2023-03-16 | 2023-07-07 |
-| [ASSEZ PARLÉ](https://open.spotify.com/track/5MtAMhPPcxZRJZESgmOGIN) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [MOSAÏQUE](https://open.spotify.com/album/1x2v9tCJZfJim0MK8XsjLa) | 3:02 | 2025-05-29 |  |
+| [ASSEZ PARLÉ](https://open.spotify.com/track/5MtAMhPPcxZRJZESgmOGIN) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [MOSAÏQUE](https://open.spotify.com/album/1x2v9tCJZfJim0MK8XsjLa) | 3:02 | 2025-05-29 | 2025-09-19 |
 | [Atasanté \(feat\. Hamza\)](https://open.spotify.com/track/1oXn8nhl44cH6HXqGQnOgY) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:34 | 2022-11-24 | 2023-04-28 |
 | [Au naturel](https://open.spotify.com/track/0gMwNsAiKcJ2r73M4l8E2T) | [Kayna Samet](https://open.spotify.com/artist/3qLpAs6VLppZrKlI0CXK6k) | [Au naturel](https://open.spotify.com/album/3UmWBJDH7lsRfnGf1WxWG0) | 2:40 | 2023-01-12 | 2023-02-24 |
 | [Au revoir](https://open.spotify.com/track/23wU0bMRU5wdIivfygtfIE) | [Kayna Samet](https://open.spotify.com/artist/3qLpAs6VLppZrKlI0CXK6k) | [Altaïr, pt\. 2](https://open.spotify.com/album/4YxYGnn8XXxQYSBqZ8FjMx) | 3:10 | 2023-04-13 | 2023-05-19 |
@@ -71,6 +71,7 @@
 | [C'est ma vie](https://open.spotify.com/track/5wk3OSvb7WQW99KvGt9UFv) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [C'est ma vie](https://open.spotify.com/album/6ck67LpPLfKnuezPnWT4vC) | 2:45 | 2024-12-05 | 2025-03-07 |
 | [C'EST MORT](https://open.spotify.com/track/0hkpgumskhGjYvdQ21jS9b) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [CATTLEYA](https://open.spotify.com/album/3yPzQIfc6dj1NQWNYLYHGn) | 3:11 | 2024-04-18 | 2024-11-08 |
 | [C'est toi \- Bonus](https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [C'est toi \(Bonus\)](https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4) | 2:11 | 2023-07-20 | 2023-11-17 |
+| [C.V](https://open.spotify.com/track/6fCi9uLMhHznHnmD44aCQn) | [Romy Rose](https://open.spotify.com/artist/0McCULnP8KpnUqIPSttJ2a) | [Toxic Girl Music](https://open.spotify.com/album/05hVRGL2FyNmNZbZ7p4D0m) | 2:33 | 2025-09-18 |  |
 | [CADILLAC](https://open.spotify.com/track/4eQ2L4muTCOHID7hQ7Tm7N) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [CADILLAC](https://open.spotify.com/album/3ylfUBBmPiRXupFpmSfawO) | 1:36 | 2024-11-07 | 2024-11-29 |
 | [Call Of](https://open.spotify.com/track/1MbnWmMVrMZZdXtJu5Aepb) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Call Of](https://open.spotify.com/album/0VBseUK2RCzUV9fv9aVSlH) | 2:39 | 2025-01-23 | 2025-03-14 |
 | [Canada Goose](https://open.spotify.com/track/47YYZxJqZsXptKLkrSETBN) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Canada Goose](https://open.spotify.com/album/562Ms3NgGRawf5rRcxrwAv) | 3:12 | 2024-05-02 | 2024-06-07 |
@@ -207,6 +208,7 @@
 | [HONEY GYAL](https://open.spotify.com/track/2NujDJs4LGSx2cWOQ4lrwA) | [Kayson](https://open.spotify.com/artist/4ex04kxzPLbhN4Tfm5dTiV) | [HONEY GYAL](https://open.spotify.com/album/2lDgH803WV1A2ZtiAc6piQ) | 2:44 | 2024-09-26 | 2024-11-08 |
 | [Hypnotic](https://open.spotify.com/track/7fye5mKD8gNSaM3G1IM0Kj) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [Mélodie céleste](https://open.spotify.com/album/0edoQ68sCLx1FjlM0Nai2c) | 3:19 | 2024-06-06 | 2024-10-18 |
 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:57 | 2023-12-08 | 2024-05-10 |
+| [I.L.Y](https://open.spotify.com/track/17Lm73gZfp5A5Dk1ZOTzBI) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [I.L.Y](https://open.spotify.com/album/4Wb9L50cvod37wFyTsruxS) | 2:35 | 2025-09-18 |  |
 | [Il Aimerait Bien](https://open.spotify.com/track/1amJMgQQXSazfvzDkqASGx) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [Il Aimerait Bien](https://open.spotify.com/album/1a2YLaQJEoHm85oX5RQZvw) | 2:40 | 2025-05-29 |  |
 | [Ils se demandent](https://open.spotify.com/track/1nCzYAumI9KtAmT21Ntzoo) | [Denden](https://open.spotify.com/artist/66YKNnSIqZwFDjrH0i9EAY) | [Ils se demandent](https://open.spotify.com/album/18g5YnnItpU6UQJS7k6Iva) | 1:42 | 2024-12-05 | 2025-03-28 |
 | [Imagine](https://open.spotify.com/track/16xmMdNJM9xTusbwxpUh2J) | [YG Pablo](https://open.spotify.com/artist/3UHc2YZGHYS6TEYMJeDf1D) | [Imagine](https://open.spotify.com/album/6HuV64rdMKfeexHPDTabqN) | 2:03 | 2022-12-15 | 2023-01-27 |
@@ -248,14 +250,15 @@
 | [Karma](https://open.spotify.com/track/5cdWpC6rPjP1hroxlKYLKb) | [Reÿn](https://open.spotify.com/artist/4xqnWGU6MssJcPvMaVuZQF) | [Karma](https://open.spotify.com/album/0HjyI7O830iye5BHTdRkQz) | 2:30 | 2023-10-05 | 2023-10-20 |
 | [Kassïm](https://open.spotify.com/track/3wNaJ961pZuyveLQddISkm) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Kassïm](https://open.spotify.com/album/0piLBrEAXOs5eemYSguPTl) | 1:33 | 2023-06-08 | 2023-07-07 |
 | [Katana \(feat\. Jungeli\)](https://open.spotify.com/track/7wdSNcLfqVXJHcECtEZ5ZI) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Emma'a](https://open.spotify.com/album/492YAgwbV47RfRlhs2GA9w) | 2:04 | 2023-11-09 | 2023-11-25 |
+| [Katana/My love](https://open.spotify.com/track/3EiCg3RYK1e5iiB9YeKlOj) | [Kayson](https://open.spotify.com/artist/4ex04kxzPLbhN4Tfm5dTiV) | [Katana/My love](https://open.spotify.com/album/6CPIroeeN24JyyRAh8R52x) | 3:32 | 2025-09-18 |  |
 | [Keisha](https://open.spotify.com/track/2eIpm3C9VrZgVbJwa5v1Es) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [Keisha](https://open.spotify.com/album/4xowVeOMIfvQ88PXNMcuDd) | 2:52 | 2023-11-30 | 2024-01-05 |
 | [KM](https://open.spotify.com/track/3JAhkNrtJBjeAoJB2B5Aei) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP), [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [UNE LARME DE +](https://open.spotify.com/album/5p22pIQyjHxtEU9ZflwmKc) | 2:39 | 2023-06-22 | 2023-09-29 |
-| [KO](https://open.spotify.com/track/6Kdo1H8akrb1sIFyXAQbfa) | [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT), [Milenzi](https://open.spotify.com/artist/3kUZDDyXB8aHc6Cn4lgFcU) | [KO](https://open.spotify.com/album/3p79r0hidkk1z1V0ajsoOS) | 3:07 | 2025-08-28 |  |
+| [KO](https://open.spotify.com/track/6Kdo1H8akrb1sIFyXAQbfa) | [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT), [Milenzi](https://open.spotify.com/artist/3kUZDDyXB8aHc6Cn4lgFcU) | [KO](https://open.spotify.com/album/3p79r0hidkk1z1V0ajsoOS) | 3:07 | 2025-08-28 | 2025-09-19 |
 | [L'AMÉRICAINE](https://open.spotify.com/track/5o9i7yTVirTIMMQrZrtTkd) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [SÛR ET CERTAIN](https://open.spotify.com/album/5lybxL3zlWlLz4eYh9Ns67) | 2:45 | 2023-08-03 | 2023-09-29 |
 | [L'official](https://open.spotify.com/track/1CGz3eUcjnym8RqfrnoUhr) | [Gol.d](https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV) | [L'official](https://open.spotify.com/album/7nU4DM4TY3j0C5uuINrFnk) | 2:46 | 2024-05-09 | 2024-06-28 |
 | [L'officiel](https://open.spotify.com/track/2kwPIIXZX9ZcnbeXtTTFsZ) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Cullinan](https://open.spotify.com/album/1veIu7aYgSIg5PXEEUdh8U) | 3:05 | 2022-11-24 | 2023-02-24 |
 | [La guitare suit la mélo](https://open.spotify.com/track/5BOfwzK5yI9sL2uit0fHIG) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [La guitare suit la mélo](https://open.spotify.com/album/0cBCT3uU5iywNCzTXrAaLz) | 3:09 | 2023-09-28 | 2024-05-10 |
-| [LA LETTRE](https://open.spotify.com/track/5aohxIJEXgvO3Z7StnmzMn) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [TOUT BRÛLE SAUF MOI](https://open.spotify.com/album/2gvFuE72tJBglPdowmjeLW) | 3:06 | 2025-06-12 |  |
+| [LA LETTRE](https://open.spotify.com/track/5aohxIJEXgvO3Z7StnmzMn) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [TOUT BRÛLE SAUF MOI](https://open.spotify.com/album/2gvFuE72tJBglPdowmjeLW) | 3:06 | 2025-06-12 | 2025-09-19 |
 | [LA LOI \(feat\. Franglish\)](https://open.spotify.com/track/5fZvfkA6x85Ie2YtvRrB1Q) | [Prototype](https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [FAREWELL](https://open.spotify.com/album/5LjYtn7feCJfP3vpaHw7s5) | 2:56 | 2023-07-06 | 2023-10-13 |
 | [La Pluie](https://open.spotify.com/track/2PcRPX3wHqfNYCo7gmD4Zp) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [La Pluie](https://open.spotify.com/album/2OKLI9R3wAUhLghQ9u0FaZ) | 3:55 | 2025-02-20 |  |
 | [La vie de rêve](https://open.spotify.com/track/7KjwR9ijEbm3BCVM3CrKnO) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [BTLV](https://open.spotify.com/album/0RVI6Nf64FsFvG8yZJ7JNR) | 2:49 | 2023-02-23 | 2023-03-31 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-411 songs - 1 day 0 hr 16 min
+412 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Casseroles](https://open.spotify.com/track/3hOd6gdb1GDaeA1qEstzoh) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Casseroles](https://open.spotify.com/album/6HAn1loKc6GRDhQtsHRDAR) | 3:40 | 2025-03-11 | 2025-06-09 |
 | [Casseroles](https://open.spotify.com/track/5Pg5zWBx5I7QSF6PWe7IiT) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Corn Queen](https://open.spotify.com/album/5X4svYK600xTcLxv5mvrYb) | 3:40 | 2025-06-08 |  |
 | [Chaser](https://open.spotify.com/track/76vVrWGgSYz7r0rYEwU807) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 4:22 | 2024-02-27 |  |
+| [Chasing Angels](https://open.spotify.com/track/7a8YfigQUAFQn7ORKlu87D) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 3:25 | 2025-09-18 |  |
 | [Cheap Wine & Cigarettes](https://open.spotify.com/track/0XLFn1nogKrTOp70huYjw1) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Light Up The Night](https://open.spotify.com/album/5rS288rPuXrXGuy5djlS9G) | 2:43 | 2024-09-20 |  |
 | [Cheap Wine And Cigarettes](https://open.spotify.com/track/3oiobNGKdbU0ISzLTJH7Lu) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Light Up The Night](https://open.spotify.com/album/5xvHMriUro6MJdkjCVnEfz) | 2:43 | 2024-03-29 | 2024-09-21 |
 | [Church](https://open.spotify.com/track/0QE20mK0CaoBOw5WebQY7M) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [Evolution](https://open.spotify.com/album/3scMKfMlTX9zRDAyPKw6ei) | 3:15 | 2024-02-27 |  |

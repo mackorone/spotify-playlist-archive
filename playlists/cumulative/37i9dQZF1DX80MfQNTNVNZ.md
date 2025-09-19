@@ -2,9 +2,9 @@
 
 ### [aloe](https://open.spotify.com/playlist/37i9dQZF1DX80MfQNTNVNZ)
 
-> Groove\-heavy, soothing tunes for the soul and R&B cover: Fujii Kaze
+> Groove\-heavy, soothing tunes for the soul and R&B
 
-610 songs - 1 day 11 hr 56 min
+611 songs - 1 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,7 @@
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-02-23 | 2024-01-26 |
 | [Move Like This](https://open.spotify.com/track/3Jw0dL0zh6zAYHpXa0sbrA) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [They Call Me Disco](https://open.spotify.com/album/6p40dZWSVoWmChUHZjDRJD) | 4:04 | 2021-12-23 | 2022-07-29 |
 | [Mr\. Midas](https://open.spotify.com/track/48l47x2sWBtYKkRqLQJPBs) | [James Tillman](https://open.spotify.com/artist/4FXBouJHB0s6E3d6Q9YeSO) | [Mr\. Midas](https://open.spotify.com/album/1XbJz7tLiSY1UtptEYLRex) | 3:48 | 2021-12-23 | 2022-07-29 |
-| [my apologiesss](https://open.spotify.com/track/4Co4LOu8vVJ5mntIWLRqRd) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [You Were Wrong](https://open.spotify.com/album/6qpDp066saTszT71b8pm3t) | 3:04 | 2025-09-05 |  |
+| [my apologiesss](https://open.spotify.com/track/4Co4LOu8vVJ5mntIWLRqRd) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [You Were Wrong](https://open.spotify.com/album/6qpDp066saTszT71b8pm3t) | 3:04 | 2025-09-05 | 2025-09-19 |
 | [My Baby Just Cares For Me \- HONNE Remix](https://open.spotify.com/track/5fVA5uH0SS3wJZjyC1JE5m) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [My Baby Just Cares For Me \(HONNE Remix\)](https://open.spotify.com/album/2cDU1aJ6M0LEsGy8Ks8c8l) | 3:51 | 2022-02-10 | 2025-05-17 |
 | [My Girl](https://open.spotify.com/track/5G1tZ7WSNHmvu5mzs3BpQe) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Ghost Notes](https://open.spotify.com/album/7rcd76R4bI3M4wiHvaz8n8) | 4:25 | 2021-12-23 | 2022-07-28 |
 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL) | 2:58 | 2025-09-05 |  |
@@ -447,7 +447,7 @@
 | [Solar](https://open.spotify.com/track/3oLuxFWxjCYggpX5MfLXCD) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Solar](https://open.spotify.com/album/0ihYO4WjTtY3i5PyOJPIL5) | 2:39 | 2022-07-07 | 2022-08-19 |
 | [Somewhere You Can Fly](https://open.spotify.com/track/5Nmmrv8DBGlGw59yQMOwwl) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Archives Mixtape](https://open.spotify.com/album/0PZn9YuIkbAEj4iJQOt6ni) | 2:37 | 2025-06-12 | 2025-06-28 |
 | [Sonhos Cor De Rosa](https://open.spotify.com/track/4BKsABy7jDwmuGRvnUcZkK) | [Tiawa](https://open.spotify.com/artist/0QrKRZo0bqCEvzjXfanjqw) | [Sonhos Cor De Rosa](https://open.spotify.com/album/3CaqsA6ii3fB6ME0EBZEQl) | 2:35 | 2022-03-31 | 2022-04-17 |
-| [Soulmate](https://open.spotify.com/track/6g56vvpNt52RX65lcautxd) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [The Way It Was Before](https://open.spotify.com/album/59aMQPmxNeRdtWv7Tqk5WY) | 3:11 | 2025-05-02 | 2025-09-10 |
+| [Soulmate](https://open.spotify.com/track/6g56vvpNt52RX65lcautxd) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [The Way It Was Before](https://open.spotify.com/album/59aMQPmxNeRdtWv7Tqk5WY) | 3:11 | 2025-05-02 |  |
 | [SPACE](https://open.spotify.com/track/0w8KR0YHluavjJx1DLwu6Q) | [Spice rhythm](https://open.spotify.com/artist/5lmsbZAumn8MwK6llKn4Kx), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [SPACE](https://open.spotify.com/album/58UDQ360N0Iswe8is6rSuu) | 4:17 | 2022-03-24 | 2022-04-19 |
 | [Sparkle Tape Break Up \- Mndsgn Remix](https://open.spotify.com/track/1I36mRlYXhAkUVygbtPZGd) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Mood Variant \(The Remixes\)](https://open.spotify.com/album/7mozKcwF1bQhD7zmSuCzvk) | 3:55 | 2022-04-07 | 2022-07-26 |
 | [Speaking Silence](https://open.spotify.com/track/4bO0TQQJbBUcksM7m1G2to) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [Speaking Silence](https://open.spotify.com/album/19QVd08C93fCUJaZeO9GCy) | 4:03 | 2022-03-31 | 2022-07-26 |
@@ -534,8 +534,9 @@
 | [Too Good](https://open.spotify.com/track/3i1bEZOg8cDNmQGptB4HSv) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Too Good](https://open.spotify.com/album/1UHp6VpoVu9tCdc33Ulr4g) | 3:42 | 2021-12-23 | 2022-07-29 |
 | [Too Much](https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [edbl & friends – Jackson Mathod](https://open.spotify.com/album/4Dm4vJNsXbsutvoeNRqjSI) | 2:52 | 2023-10-05 | 2024-06-07 |
 | [Toothache](https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [Toothache / Zoom](https://open.spotify.com/album/3c9W0mGNlgamPdlh1JfNj1) | 3:43 | 2021-12-23 | 2025-08-02 |
-| [Truman](https://open.spotify.com/track/3YwLPf5C4XtLr7UYbBOJQM) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6) | [THE CRASH!](https://open.spotify.com/album/0bA8AzbWwyp3TDCftT6sKw) | 2:40 | 2025-09-05 |  |
+| [Truman](https://open.spotify.com/track/3YwLPf5C4XtLr7UYbBOJQM) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6) | [THE CRASH!](https://open.spotify.com/album/0bA8AzbWwyp3TDCftT6sKw) | 2:40 | 2025-09-05 | 2025-09-19 |
 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-05-09 |  |
+| [Trust Me](https://open.spotify.com/track/7AWQMv4shieEuCNsH8lxkF) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [NICO](https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U) | 2:50 | 2025-09-18 |  |
 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 | 2023-11-30 | 2025-06-28 |
 | [Try Me](https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Try Me](https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx) | 3:33 | 2023-04-13 | 2023-07-21 |
 | [Tunnel](https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Tunnel](https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX) | 5:10 | 2022-03-31 | 2022-04-15 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 ### [Polskie hity](https://open.spotify.com/playlist/37i9dQZF1DWTnbCPOmjbdB)
 
-> Najlepsze polskie piosenki na czasie\. Cover: Zalia
+> Najlepsze polskie piosenki na czasie\. Cover: pszona
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,700 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,716 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 59 | [b.@.M.b.A](https://open.spotify.com/track/3B2oYkCbM7kUDnNOpjqRdY) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [b.@.M.b.A](https://open.spotify.com/album/5sIE0Nz8xFUeHZa2jDs84o) | 2:57 |
 | 60 | [Bez siebie](https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW) | [Ola Olszewska](https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b) | [Bez siebie](https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p) | 2:58 |
 
-Snapshot ID: `AAAAAL9uw807Ab5ya0P1+4nRzKu2THg0`
+Snapshot ID: `AAAAAAGdhCZE1oN57+BsHkc/IoMfPxba`

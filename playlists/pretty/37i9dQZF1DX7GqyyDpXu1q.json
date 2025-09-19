@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: Mark Morton",
-  "num_followers": 91704,
+  "num_followers": 91728,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "xoxo",
-        "url": "https://open.spotify.com/album/03tfpzDArDjfSEJ1dhVESX"
-      },
-      "artists": [
-        {
-          "name": "Cole Barnhill",
-          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
-        }
-      ],
-      "duration_ms": 247364,
-      "name": "xoxo",
-      "url": "https://open.spotify.com/track/0YmbrreCDawnxERUmOS4YH"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "15 Minute Smog Check",
         "url": "https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 234036,
       "name": "15 Minute Smog Check",
       "url": "https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "xoxo",
+        "url": "https://open.spotify.com/album/03tfpzDArDjfSEJ1dhVESX"
+      },
+      "artists": [
+        {
+          "name": "Cole Barnhill",
+          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
+        }
+      ],
+      "duration_ms": 247364,
+      "name": "xoxo",
+      "url": "https://open.spotify.com/track/0YmbrreCDawnxERUmOS4YH"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
+        "name": "The Vandoliers",
+        "url": "https://open.spotify.com/album/7fj96i2aTUlD9mKFH3tWmM"
+      },
+      "artists": [
+        {
+          "name": "Vandoliers",
+          "url": "https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE"
+        }
+      ],
+      "duration_ms": 185386,
+      "name": "Better Run",
+      "url": "https://open.spotify.com/track/57vENk7Nq0QO9A94DsR1ce"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
         "name": "Interstate Cowboy",
         "url": "https://open.spotify.com/album/6T9OmS588U5Dk5bKCkQvvj"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "The Vandoliers",
-        "url": "https://open.spotify.com/album/7fj96i2aTUlD9mKFH3tWmM"
-      },
-      "artists": [
-        {
-          "name": "Vandoliers",
-          "url": "https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE"
-        }
-      ],
-      "duration_ms": 185386,
-      "name": "Better Run",
-      "url": "https://open.spotify.com/track/57vENk7Nq0QO9A94DsR1ce"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "Break My Heart",
         "url": "https://open.spotify.com/album/1wOvsBCKijqgU7cFkkDHOq"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 254082,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/3njCj24qFzep7tAhiJSYTZ"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
-        "name": "Bluephoria",
-        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 272399,
-      "name": "Bluephoria",
-      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -963,6 +947,22 @@
       "duration_ms": 233250,
       "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
       "url": "https://open.spotify.com/track/07Rr3g9Gl2zPJd8flMxLAL"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "Bluephoria",
+        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 272399,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "No Simple Thing",
-        "url": "https://open.spotify.com/album/7m23UIStg6wDZJpjGRzQQV"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 203042,
-      "name": "Rock and Roll (Ain't No Simple Thing)",
-      "url": "https://open.spotify.com/track/76kfV1gUWJ4wskDtiMfK36"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "Truth And Lies",
         "url": "https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 178786,
       "name": "On To The Next",
       "url": "https://open.spotify.com/track/1hLebZRSvlJdTQ982UYvcw"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "No Simple Thing",
+        "url": "https://open.spotify.com/album/7m23UIStg6wDZJpjGRzQQV"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 203042,
+      "name": "Rock and Roll (Ain't No Simple Thing)",
+      "url": "https://open.spotify.com/track/76kfV1gUWJ4wskDtiMfK36"
     },
     {
       "added_at": "2025-04-21 21:56:35",

@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 | 9 | [Closeted, Queer and Jewish: Andrew Moses](https://open.spotify.com/episode/7EYpKOYTTJRpTnw3NWfWky) | [Soberly Speaking](https://open.spotify.com/show/5L6HER07FkCgWjYUVqsnt1) | [Soberly Speaking](https://open.spotify.com/album/5L6HER07FkCgWjYUVqsnt1) | 50:48 |
 | 10 | [The Trans Model Addicted to Ice](https://open.spotify.com/episode/2Sz7OIc0sYE0qh1sJk4Mrj) | [Soberly Speaking](https://open.spotify.com/show/5L6HER07FkCgWjYUVqsnt1) | [Soberly Speaking](https://open.spotify.com/album/5L6HER07FkCgWjYUVqsnt1) | 1:03:11 |
 
-Snapshot ID: `AAAAAGwnG25bUak1/ca+hPwdBdWlCDwP`
+Snapshot ID: `AAAAABO2DVVBZFUY5ZXrClfrAp23v/RV`

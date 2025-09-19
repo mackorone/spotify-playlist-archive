@@ -7243,6 +7243,28 @@
     },
     {
       "album": {
+        "name": "ILYBB",
+        "url": "https://open.spotify.com/album/744S9ynqev10AOzrFYWzaP"
+      },
+      "artists": [
+        {
+          "name": "Ailow",
+          "url": "https://open.spotify.com/artist/270jtLW7Wr3QPEVoE2HAkB"
+        },
+        {
+          "name": "Dionysus",
+          "url": "https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143448,
+      "name": "ILYBB",
+      "url": "https://open.spotify.com/track/3FpW4twa49qV5V3Uo8Vi8H"
+    },
+    {
+      "album": {
         "name": "Immortal (feat. Josh Rubin)",
         "url": "https://open.spotify.com/album/3OqnZbyxed8WsO2D1wlEUj"
       },

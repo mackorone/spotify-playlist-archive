@@ -2457,6 +2457,24 @@
     },
     {
       "album": {
+        "name": "Perihal Besar",
+        "url": "https://open.spotify.com/album/1gZqKq1K0GzN6eFaEpDFcS"
+      },
+      "artists": [
+        {
+          "name": "SAMSONS",
+          "url": "https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233640,
+      "name": "Di Ujung Jalan",
+      "url": "https://open.spotify.com/track/70GUGyk1sJYFTqZpSJj2KM"
+    },
+    {
+      "album": {
         "name": "Dia Masa Lalumu, Aku Masa Depanmu",
         "url": "https://open.spotify.com/album/31t2Ua284TmIA9ZjgEhQVl"
       },
@@ -5558,7 +5576,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 282675,
       "name": "Kita Ke Sana",
       "url": "https://open.spotify.com/track/5DqSZFvWvSWg5eyCDi0CuW"
@@ -5576,7 +5594,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 233916,
       "name": "Kita Usahakan Lagi",
       "url": "https://open.spotify.com/track/1wfbqUSPWbnPjkiBA9UmoF"
@@ -11038,7 +11056,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 202824,
       "name": "Tampar",
       "url": "https://open.spotify.com/track/1csKczcJqOSdK8JriLMpDW"

@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 218902,
+  "num_followers": 218915,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAACdQKFjiXsGjETJAohS0hez",
+  "snapshot_id": "aMn6AAAAAAAGKe7dD9leq/fMJsU96Cvk",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Angels",
-        "url": "https://open.spotify.com/album/5cGHWAoS3cGwU9eYTH3mSm"
+        "name": "Bad Blood X (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4wGbIbPiP3C3LdvewkRwTc"
       },
       "artists": [
         {
@@ -218,7 +218,7 @@
       ],
       "duration_ms": 232373,
       "name": "No Angels",
-      "url": "https://open.spotify.com/track/0rILJVRD7waDGOFzoyruI2"
+      "url": "https://open.spotify.com/track/1pRYM4pRLkBxojE8s5hnNt"
     },
     {
       "added_at": null,
@@ -711,30 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Earth III (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5j4IVHFClswFFiN11QQNjl"
+        "name": "Pompeii (Audien Remix)",
+        "url": "https://open.spotify.com/album/4QJKyqHqUUBWEGYD7wekvU"
       },
       "artists": [
         {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "Jacob Shea",
-          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
-        },
-        {
-          "name": "Sara Barone",
-          "url": "https://open.spotify.com/artist/1OHACW7s48L2ZIn7PUpt8y"
-        },
-        {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
         }
       ],
-      "duration_ms": 309629,
-      "name": "Planet Earth III Suite - From \"Planet Earth III\"",
-      "url": "https://open.spotify.com/track/3ZjR1n11TRs4sk55D1CxXo"
+      "duration_ms": 352968,
+      "name": "Pompeii - Audien Remix",
+      "url": "https://open.spotify.com/track/2Kl1E3NdbzT7vVi93TffoX"
     },
     {
       "added_at": null,
@@ -771,22 +763,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pompeii (Audien Remix)",
-        "url": "https://open.spotify.com/album/4QJKyqHqUUBWEGYD7wekvU"
+        "name": "Planet Earth III (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5j4IVHFClswFFiN11QQNjl"
       },
       "artists": [
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
         },
         {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+          "name": "Jacob Shea",
+          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+        },
+        {
+          "name": "Sara Barone",
+          "url": "https://open.spotify.com/artist/1OHACW7s48L2ZIn7PUpt8y"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 352968,
-      "name": "Pompeii - Audien Remix",
-      "url": "https://open.spotify.com/track/2Kl1E3NdbzT7vVi93TffoX"
+      "duration_ms": 309629,
+      "name": "Planet Earth III Suite - From \"Planet Earth III\"",
+      "url": "https://open.spotify.com/track/3ZjR1n11TRs4sk55D1CxXo"
     },
     {
       "added_at": null,

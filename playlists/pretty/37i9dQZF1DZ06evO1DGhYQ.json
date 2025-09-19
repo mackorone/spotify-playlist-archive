@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9193,
+  "num_followers": 9192,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAADIQVTcY0a3Vr47bZeM5ETb",
+  "snapshot_id": "aMn6AAAAAAAf/OeZ1Nl4HGyBKaS5WGAA",
   "tracks": [
     {
       "added_at": null,
@@ -195,26 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC WORLD",
-        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "R-Shitei",
-          "url": "https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "TEENAGE CITY RIOT",
-      "url": "https://open.spotify.com/track/5OZGr81O9jLzE5vk8CHUJB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NEON",
         "url": "https://open.spotify.com/album/39Qc4XckBaGHSqOPtQuRFT"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 310133,
       "name": "NEON",
       "url": "https://open.spotify.com/track/4Sx73QNB9EAgDWPIgQRQ9y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUSIC WORLD",
+        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "R-Shitei",
+          "url": "https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "TEENAGE CITY RIOT",
+      "url": "https://open.spotify.com/track/5OZGr81O9jLzE5vk8CHUJB"
     },
     {
       "added_at": null,
@@ -275,6 +275,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LOST IN PARADISE",
+        "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "K.A.N.T.A",
+          "url": "https://open.spotify.com/artist/1sb3bbYGpYX84TKUvdw2dO"
+        }
+      ],
+      "duration_ms": 262506,
+      "name": "MOONBEAMS SATELLITE",
+      "url": "https://open.spotify.com/track/2Qz5Jj0U1poQ6uZwWyemeK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUSIC WORLD",
         "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 256006,
       "name": "\u30b5\u30dc\u30bf\u30fc\u30b8\u30e5 - VS. ALI",
       "url": "https://open.spotify.com/track/5VKxSh8WcTp5M3Uv9SD81Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOST IN PARADISE",
-        "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "K.A.N.T.A",
-          "url": "https://open.spotify.com/artist/1sb3bbYGpYX84TKUvdw2dO"
-        }
-      ],
-      "duration_ms": 262506,
-      "name": "MOONBEAMS SATELLITE",
-      "url": "https://open.spotify.com/track/2Qz5Jj0U1poQ6uZwWyemeK"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VIVA LA MUSICA",
-        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "WILD ANGEL",
-      "url": "https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOST IN PARADISE",
         "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 347706,
       "name": "FAITH",
       "url": "https://open.spotify.com/track/3FSzby80mFX8cBt1zGbjUr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "WILD ANGEL",
+      "url": "https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM"
     },
     {
       "added_at": null,
@@ -607,22 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MY LIFE. MY DESTINY",
-        "url": "https://open.spotify.com/album/3sOmp9cI7NafWSHkFNUs4b"
+        "name": "\u8e0a\u6551\u6025\u7bb1",
+        "url": "https://open.spotify.com/album/6h4DnOV7gOz7jvVy1MhoXr"
       },
       "artists": [
         {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+          "name": "s**t kingz",
+          "url": "https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx"
         },
         {
-          "name": "LAZYLOXY",
-          "url": "https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5"
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 239600,
-      "name": "MY LIFE. MY DESTINY",
-      "url": "https://open.spotify.com/track/2O0918C9OEIB5uxg0RwdPd"
+      "duration_ms": 166850,
+      "name": "KID feat. LEO (ALI)",
+      "url": "https://open.spotify.com/track/7iNdSSdLG2X06P9c9WNHrb"
     },
     {
       "added_at": null,
@@ -667,22 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u8e0a\u6551\u6025\u7bb1",
-        "url": "https://open.spotify.com/album/6h4DnOV7gOz7jvVy1MhoXr"
+        "name": "MY LIFE. MY DESTINY",
+        "url": "https://open.spotify.com/album/3sOmp9cI7NafWSHkFNUs4b"
       },
       "artists": [
         {
-          "name": "s**t kingz",
-          "url": "https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx"
-        },
-        {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "LAZYLOXY",
+          "url": "https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5"
         }
       ],
-      "duration_ms": 166850,
-      "name": "KID feat. LEO (ALI)",
-      "url": "https://open.spotify.com/track/7iNdSSdLG2X06P9c9WNHrb"
+      "duration_ms": 239600,
+      "name": "MY LIFE. MY DESTINY",
+      "url": "https://open.spotify.com/track/2O0918C9OEIB5uxg0RwdPd"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONELY LONELY",
-        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 277700,
-      "name": "LONELY LONELY",
-      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VIVA LA MUSICA",
         "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 194733,
       "name": "GABBA GABBA HEY HEY",
       "url": "https://open.spotify.com/track/3XlHHnZSpjLwGAkhosJIbw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LONELY LONELY",
+        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 277700,
+      "name": "LONELY LONELY",
+      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tokyo Pharaoh",
-        "url": "https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 213406,
-      "name": "Tokyo Pharaoh",
-      "url": "https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VIVA LA MUSICA",
         "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 180766,
       "name": "I Want A Chance For Romance",
       "url": "https://open.spotify.com/track/2e4PuGWRWMLa18XR5Ox4q2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tokyo Pharaoh",
+        "url": "https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 213406,
+      "name": "Tokyo Pharaoh",
+      "url": "https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Side",
-        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Jungle Love\uff08Instrumental\uff09",
-      "url": "https://open.spotify.com/track/3qhDpKJUvfcUAGGZL35p0A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VIVA LA MUSICA",
         "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 266900,
       "name": "THE SWEETEST TABOO",
       "url": "https://open.spotify.com/track/554GjmgJLkRvxvovKMMpbb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild Side",
+        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Jungle Love\uff08Instrumental\uff09",
+      "url": "https://open.spotify.com/track/3qhDpKJUvfcUAGGZL35p0A"
     },
     {
       "added_at": null,
@@ -907,22 +907,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "i'm no one",
-        "url": "https://open.spotify.com/album/445oA5XNNEf74WlfHmllFe"
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "Lil Chill",
-          "url": "https://open.spotify.com/artist/3guAJUbWvGvGgz3vkJ241X"
         }
       ],
-      "duration_ms": 139461,
-      "name": "Deliver - Remix",
-      "url": "https://open.spotify.com/track/1mDHLmTZTZ4fhRUeF8tN2L"
+      "duration_ms": 316833,
+      "name": "Funky Nassau",
+      "url": "https://open.spotify.com/track/4BDfJFLVXQhYI5ruXkrvVe"
     }
   ],
   "unique_name": "This Is ALI",

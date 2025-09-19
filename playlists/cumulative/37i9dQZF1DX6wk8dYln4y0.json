@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "music that just *hits different* Cover: BENEE",
+  "description": "music that just *hits different* Cover: aleksiah",
   "name": "*hits different*",
   "tracks": [
     {
@@ -2325,6 +2325,32 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "The Favors",
+          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        },
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217143,
+      "name": "David's Brother",
+      "url": "https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh"
+    },
+    {
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
@@ -2866,7 +2892,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 193466,
       "name": "Ego",
       "url": "https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl"
@@ -3358,6 +3384,28 @@
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
+    },
+    {
+      "album": {
+        "name": "folding chairs on the moon",
+        "url": "https://open.spotify.com/album/3pNeAqZF4s1icAo94ovwOc"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "folding chairs on the moon",
+      "url": "https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF"
     },
     {
       "album": {
@@ -5472,7 +5520,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 172000,
       "name": "Kylie's Rant",
       "url": "https://open.spotify.com/track/2q7cHCcQNigbWZWgNW0XHq"
@@ -5764,7 +5812,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 193516,
       "name": "Locket",
       "url": "https://open.spotify.com/track/3iMfaUUhpNkPJWuuwpE0zk"
@@ -7249,6 +7297,24 @@
     },
     {
       "album": {
+        "name": "Punch Drunk Love",
+        "url": "https://open.spotify.com/album/460d5gDLVH1L54u9wOyhbY"
+      },
+      "artists": [
+        {
+          "name": "aleksiah",
+          "url": "https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197596,
+      "name": "Punch Drunk Love",
+      "url": "https://open.spotify.com/track/3pw0oGsWWY9vUVFcUlHq4O"
+    },
+    {
+      "album": {
         "name": "RACER",
         "url": "https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk"
       },
@@ -8664,7 +8730,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 168040,
       "name": "Stateside",
       "url": "https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO"
@@ -10666,6 +10732,24 @@
       "duration_ms": 153052,
       "name": "where do we go from here",
       "url": "https://open.spotify.com/track/0biM005Th79TJk8JLIC2ah"
+    },
+    {
+      "album": {
+        "name": "WHERE WE ARE",
+        "url": "https://open.spotify.com/album/73INzXauKzzBYrWmsGyGI1"
+      },
+      "artists": [
+        {
+          "name": "byjaye",
+          "url": "https://open.spotify.com/artist/2lAY2uQZNhOkCfPtj76Aoy"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131647,
+      "name": "WHERE WE ARE",
+      "url": "https://open.spotify.com/track/5aBenySHTQ4neQhkyMg9B4"
     },
     {
       "album": {

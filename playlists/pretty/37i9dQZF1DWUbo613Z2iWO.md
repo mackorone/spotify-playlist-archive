@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  BOYSODA
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,768 likes - 200 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,779 likes - 200 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 92 | [Toastyyy](https://open.spotify.com/track/5MhvKenRholQWMeJQkt7uL) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Toastyyy](https://open.spotify.com/album/3q7h0Omq36LKtcGtmHufqk) | 2:27 |
 | 93 | [Boujee Baby](https://open.spotify.com/track/0Mq7egfvtSRmwVjkGkmPfI) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Boujee Baby](https://open.spotify.com/album/4RmhI3BdBeIY7JjzsndQfQ) | 2:51 |
 | 94 | [brozone](https://open.spotify.com/track/1l2XbDb3BAIiWnpD92At4P) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [brozone](https://open.spotify.com/album/6sANlSveTjg4CWNoFlbCB2) | 2:29 |
-| 95 | [On My Way](https://open.spotify.com/track/7dP5I6ZtpV7f6CkIbVJisX) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [On My Way](https://open.spotify.com/album/5ibiy1cSYG4atMl6n9n4A6) | 3:05 |
+| 95 | [On My Way](https://open.spotify.com/track/7dP5I6ZtpV7f6CkIbVJisX) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [On My Way](https://open.spotify.com/album/5ibiy1cSYG4atMl6n9n4A6) | 3:05 |
 | 96 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 |
 | 97 | [Stuck On Us](https://open.spotify.com/track/3jbz8nNa7dM3flDi2thhX1) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Stuck On Us](https://open.spotify.com/album/2pbCyrVoOx9JosWEd0sRcD) | 2:55 |
 | 98 | [Catching Feelings](https://open.spotify.com/track/2YQnESqC6ASwaJyUx6U4d7) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Catching Feelings](https://open.spotify.com/album/0ZX6lnq5noF2aNcQSxfpJR) | 3:25 |

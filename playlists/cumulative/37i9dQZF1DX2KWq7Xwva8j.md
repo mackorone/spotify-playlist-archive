@@ -2,9 +2,9 @@
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro ya está aquí\. Foto: céro.
+> El futuro ya está aquí\. Foto: LUSILLON.
 
-302 songs - 14 hr 39 min
+303 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Taxi](https://open.spotify.com/track/5d8jEQ6AFvwJQC0VWmJPrh) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Taxi](https://open.spotify.com/album/2mtpU3ZYRWk6oBTsYj2DQx) | 2:57 | 2025-03-27 |  |
 | [Tirando Balas](https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tirando Balas](https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P) | 2:53 | 2024-02-06 | 2025-03-04 |
 | [Tiro Al Aire](https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tiro Al Aire](https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk) | 3:20 | 2023-03-01 | 2025-03-04 |
+| [Track 1](https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-18 |  |
 | [Tregua](https://open.spotify.com/track/4I6knIz13vdFGG0ANWmnJP) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Tregua](https://open.spotify.com/album/6hnjHa3EeDDRon6u0P4cLx) | 2:33 | 2023-09-15 | 2024-02-07 |
 | [Tremenda suerte](https://open.spotify.com/track/5Xt7uirmf3G3yI7XSvd1NV) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Tremenda suerte](https://open.spotify.com/album/5WHCioEAtmcXk4CqSTpFc6) | 2:38 | 2021-12-31 | 2022-01-07 |
 | [Triste pero no](https://open.spotify.com/track/63XSp3hSyJub2N23FtkYQw) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Triste pero no](https://open.spotify.com/album/6lzKsNh7XxGFiUlBRuZfOQ) | 3:00 | 2022-02-17 | 2022-07-15 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1196883,
+  "num_followers": 1197513,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAADpctYUjMTzJcO8AP0mJsmO",
+  "snapshot_id": "aMn6AAAAAADd+STlhxYWgIS+VEnmQgwh",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 235706,
-      "name": "To Binge (feat. Little Dragon)",
-      "url": "https://open.spotify.com/track/1dvOwoHwZB9SwvRw2Gv3nz"
+      "duration_ms": 283573,
+      "name": "Empire Ants (feat. Little Dragon)",
+      "url": "https://open.spotify.com/track/3a6PN6BRB8PP3ms48s7kU1"
     },
     {
       "added_at": null,
@@ -300,13 +300,17 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Mick Jones",
+          "url": "https://open.spotify.com/artist/7zQmORVNaWz1cW1KJB2cTX"
+        },
+        {
+          "name": "Paul Simonon",
+          "url": "https://open.spotify.com/artist/62bYKAZ5EdmG5Aca9dtVan"
         }
       ],
-      "duration_ms": 283573,
-      "name": "Empire Ants (feat. Little Dragon)",
-      "url": "https://open.spotify.com/track/3a6PN6BRB8PP3ms48s7kU1"
+      "duration_ms": 227213,
+      "name": "Plastic Beach (feat. Mick Jones and Paul Simonon)",
+      "url": "https://open.spotify.com/track/2nZ33CKRbgpJQJJQKHuGXb"
     },
     {
       "added_at": null,
@@ -380,17 +384,17 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Mick Jones",
-          "url": "https://open.spotify.com/artist/7zQmORVNaWz1cW1KJB2cTX"
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
         },
         {
-          "name": "Paul Simonon",
-          "url": "https://open.spotify.com/artist/62bYKAZ5EdmG5Aca9dtVan"
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
         }
       ],
-      "duration_ms": 227213,
-      "name": "Plastic Beach (feat. Mick Jones and Paul Simonon)",
-      "url": "https://open.spotify.com/track/2nZ33CKRbgpJQJJQKHuGXb"
+      "duration_ms": 270520,
+      "name": "Stylo (feat. Mos Def and Bobby Womack)",
+      "url": "https://open.spotify.com/track/6LUfuyLgvgqrykiTE6sJHY"
     },
     {
       "added_at": null,
@@ -451,26 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plastic Beach",
-        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
+        "name": "The Singles Collection 2001-2011",
+        "url": "https://open.spotify.com/album/5cyCeFPqDXC6R9rvx6TO1w"
       },
       "artists": [
         {
           "name": "Gorillaz",
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        },
-        {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
         }
       ],
-      "duration_ms": 270520,
-      "name": "Stylo (feat. Mos Def and Bobby Womack)",
-      "url": "https://open.spotify.com/track/6LUfuyLgvgqrykiTE6sJHY"
+      "duration_ms": 213600,
+      "name": "DARE",
+      "url": "https://open.spotify.com/track/5KITn310R8bC3aZeErFo6S"
     },
     {
       "added_at": null,
@@ -491,22 +487,6 @@
       "duration_ms": 181906,
       "name": "Saturnz Barz (feat. Popcaan)",
       "url": "https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Singles Collection 2001-2011",
-        "url": "https://open.spotify.com/album/5cyCeFPqDXC6R9rvx6TO1w"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "DARE",
-      "url": "https://open.spotify.com/track/5KITn310R8bC3aZeErFo6S"
     },
     {
       "added_at": null,
@@ -539,6 +519,30 @@
       "duration_ms": 166481,
       "name": "Sleeping Powder",
       "url": "https://open.spotify.com/track/5pE9vMyvVNOpZFutt6lyy4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plastic Beach",
+        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Gruff Rhys",
+          "url": "https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "Superfast Jellyfish (feat. Gruff Rhys and De La Soul)",
+      "url": "https://open.spotify.com/track/1UJNbgfTzG1gZZTWFJdMf1"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,705 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,742 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 49 | [Drowned World / Substitute for Love \- BT & Sasha Bucklodge Ashram New Edit](https://open.spotify.com/track/41PppPBzCNWSFNDIeEgATy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [Veronica Electronica](https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz) | 5:21 |
 | 50 | [Now I'm Following You \(Part I\)](https://open.spotify.com/track/0mPPeHgx3Kxj85Olq1hNU7) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 1:34 |
 
-Snapshot ID: `aMiogAAAAABH5QZ1hxGXvjxyP21WuwhO`
+Snapshot ID: `aMn6AAAAAABMsbZaN1ReBd1qLgAiG1ez`

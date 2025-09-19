@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 29148,
+  "num_followers": 29162,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAACszrgpLqkghVk7PqNl4wN3",
+  "snapshot_id": "aMn6AAAAAAC0aM8N6V6jCYHXz71Fi9Bb",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Michoacano",
-        "url": "https://open.spotify.com/album/4H7g82BTMoAHZXCYYXQWNw"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 227808,
-      "name": "El Michoacano",
-      "url": "https://open.spotify.com/track/1ltZxfoujP63Bp8RYFhgd5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Chakalosos",
         "url": "https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 188778,
       "name": "La Vida Recia",
       "url": "https://open.spotify.com/track/5GswRJyyhV5shlbJzBG4Os"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Michoacano",
+        "url": "https://open.spotify.com/album/4H7g82BTMoAHZXCYYXQWNw"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 227808,
+      "name": "El Michoacano",
+      "url": "https://open.spotify.com/track/1ltZxfoujP63Bp8RYFhgd5"
     },
     {
       "added_at": null,

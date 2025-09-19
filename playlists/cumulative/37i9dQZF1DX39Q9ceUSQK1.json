@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative & rock releases. Cover: Twenty One Pilots",
+  "description": "Nieuwe alternative & rock releases. Cover: Glitterpaard",
   "name": "New Alternative",
   "tracks": [
     {
@@ -784,7 +784,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 176955,
       "name": "ARCHNEMESIS!",
       "url": "https://open.spotify.com/track/3SzbMnxKrOWxi7z8sqzOPW"
@@ -856,7 +856,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 120999,
       "name": "Art School",
       "url": "https://open.spotify.com/track/2pjSXlkwwlqEhoGtUpXeqr"
@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 202723,
       "name": "Covet",
       "url": "https://open.spotify.com/track/0r1tBm32CH1t7WBlAoWYk5"
@@ -2136,6 +2136,24 @@
       "duration_ms": 182685,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
+    },
+    {
+      "album": {
+        "name": "Dancefloor",
+        "url": "https://open.spotify.com/album/0OM2I2eFTeIRJFVC4nOo3y"
+      },
+      "artists": [
+        {
+          "name": "Captain Kaiser",
+          "url": "https://open.spotify.com/artist/5yhZlft69jL09YhavstJRn"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259650,
+      "name": "Dancefloor",
+      "url": "https://open.spotify.com/track/71GRoiGyNaUoIcwq0qKRdO"
     },
     {
       "album": {
@@ -2276,7 +2294,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 143497,
       "name": "DESK JOB",
       "url": "https://open.spotify.com/track/3fkO4mY8kjtfyTWvhTt7UJ"
@@ -3479,6 +3497,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227543,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5klilPxJcv8xnwcFj4zL0U"
+    },
+    {
+      "album": {
         "name": "Fall Back",
         "url": "https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l"
       },
@@ -3530,6 +3566,24 @@
       "duration_ms": 141160,
       "name": "GUSTO",
       "url": "https://open.spotify.com/track/3DzgoqqPwtCxvyqKCj9hq7"
+    },
+    {
+      "album": {
+        "name": "H.Y",
+        "url": "https://open.spotify.com/album/1fuBJlgtkvc97Bp4QGZTP7"
+      },
+      "artists": [
+        {
+          "name": "Loveth Besamoh",
+          "url": "https://open.spotify.com/artist/1VFftaa0TUrjjQ1bhpBCvX"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248706,
+      "name": "H.Y",
+      "url": "https://open.spotify.com/track/5rpyfx9kAXFY81pEARU0cL"
     },
     {
       "album": {
@@ -3875,6 +3929,42 @@
     },
     {
       "album": {
+        "name": "Hollywood_",
+        "url": "https://open.spotify.com/album/0uKlCzA7W6bGr3xZN6ZEIp"
+      },
+      "artists": [
+        {
+          "name": "Magazines",
+          "url": "https://open.spotify.com/artist/24YiCboyRa5iK3cHYgzjaz"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211900,
+      "name": "Hollywood_",
+      "url": "https://open.spotify.com/track/3xF3eS7bjL0nXDrvgOYidS"
+    },
+    {
+      "album": {
+        "name": "Oh! The Ocean: Holy Sugar",
+        "url": "https://open.spotify.com/album/2nEdF0ORDz9Rcprb9oBL3C"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197186,
+      "name": "Holy Sugar",
+      "url": "https://open.spotify.com/track/51havxh7w9XYBjFWOAlrE5"
+    },
+    {
+      "album": {
         "name": "Hooked",
         "url": "https://open.spotify.com/album/5npYv1LOFlFeqHOUCnDthQ"
       },
@@ -4106,7 +4196,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 207220,
       "name": "I Knew We'd Talk About It One Day",
       "url": "https://open.spotify.com/track/1p5YXN5n2wDDun03QhSjjL"
@@ -4520,7 +4610,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 274123,
       "name": "Inside",
       "url": "https://open.spotify.com/track/18RVwkWFeF6HttkCGnjIop"
@@ -4654,6 +4744,24 @@
       "duration_ms": 182386,
       "name": "jupiter",
       "url": "https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4"
+    },
+    {
+      "album": {
+        "name": "Just a Lie",
+        "url": "https://open.spotify.com/album/7HSzlsZUOBtYXkalrmDJrF"
+      },
+      "artists": [
+        {
+          "name": "ise",
+          "url": "https://open.spotify.com/artist/5jx0P9PxMMiVmeTBSIEofH"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214365,
+      "name": "Just a Lie",
+      "url": "https://open.spotify.com/track/2SzQR32JD57uxEBGXKGE6e"
     },
     {
       "album": {
@@ -5418,7 +5526,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 234640,
       "name": "Make Me Mine",
       "url": "https://open.spotify.com/track/4YcJYpSBVSsqHh8RwUeXEK"
@@ -6019,6 +6127,24 @@
     },
     {
       "album": {
+        "name": "NEW AGE",
+        "url": "https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03"
+      },
+      "artists": [
+        {
+          "name": "sleepazoid",
+          "url": "https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212497,
+      "name": "NEW AGE",
+      "url": "https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9"
+    },
+    {
+      "album": {
         "name": "New To Me",
         "url": "https://open.spotify.com/album/13Q3tr5LwSC5w8sqoXX51K"
       },
@@ -6070,7 +6196,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 165210,
       "name": "Niemandsland",
       "url": "https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa"
@@ -6344,7 +6470,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 198042,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/2B5ZNovTMGMW50ml95BP7L"
@@ -6765,6 +6891,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261959,
+      "name": "Post Sex Clarity",
+      "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
+    },
+    {
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/1SVyQqde45xP0zxF7kcTPx"
       },
@@ -6812,10 +6956,28 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 152511,
       "name": "PTRCK",
       "url": "https://open.spotify.com/track/0IhSSRDZyXYZ63KK83O8Fn"
+    },
+    {
+      "album": {
+        "name": "Thursday",
+        "url": "https://open.spotify.com/album/7hzFaE1FPdV7JMwpTOuLbh"
+      },
+      "artists": [
+        {
+          "name": "Glitterpaard",
+          "url": "https://open.spotify.com/artist/0iMqLKSQA3Vdl9t5jO7SPd"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185040,
+      "name": "Quiet Boys",
+      "url": "https://open.spotify.com/track/1sNL7NZPkrn7zGF7ai5Dnv"
     },
     {
       "album": {
@@ -7490,7 +7652,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 259413,
       "name": "she came for a sweet time",
       "url": "https://open.spotify.com/track/2385kaeJicfgBSN3q7mpPR"
@@ -7854,7 +8016,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 158994,
       "name": "Spartak",
       "url": "https://open.spotify.com/track/0lGkyqqFTtfGG6yqzJZjxH"
@@ -7908,7 +8070,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 267520,
       "name": "SPIDERS",
       "url": "https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ"
@@ -8106,7 +8268,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 141453,
       "name": "Street Theatre",
       "url": "https://open.spotify.com/track/6QHyN5Cj8qVzt5Kp3ykbw0"
@@ -8639,6 +8801,24 @@
     },
     {
       "album": {
+        "name": "The Club",
+        "url": "https://open.spotify.com/album/6zqSTkjwUsAyKIjioxJ1kR"
+      },
+      "artists": [
+        {
+          "name": "Queen's Pleasure",
+          "url": "https://open.spotify.com/artist/6S0O3eQiVrw78LG1z2EE4h"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163601,
+      "name": "The Club",
+      "url": "https://open.spotify.com/track/6LrwJUlJzvlmLvKsEqAeI4"
+    },
+    {
+      "album": {
         "name": "The Contract",
         "url": "https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J"
       },
@@ -8859,6 +9039,24 @@
     },
     {
       "album": {
+        "name": "The Others",
+        "url": "https://open.spotify.com/album/6LJVixJGpv3ZHniYkhtuhC"
+      },
+      "artists": [
+        {
+          "name": "Youri Lentjes",
+          "url": "https://open.spotify.com/artist/1g79TAEwqA49vqhDmMvfPE"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343655,
+      "name": "The Others",
+      "url": "https://open.spotify.com/track/30J1M6E3h8s6fMKCJ7GbFX"
+    },
+    {
+      "album": {
         "name": "Gift Horse",
         "url": "https://open.spotify.com/album/0IzNKyesKN0lCIO2e8kUDa"
       },
@@ -9014,7 +9212,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 205132,
       "name": "This Is - Single Edit",
       "url": "https://open.spotify.com/track/7MAMO8dokg9IRhWTiBJqK0"
@@ -9360,7 +9558,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 274000,
       "name": "True Believer",
       "url": "https://open.spotify.com/track/6RRYgdkCmVTYHGmId3LpqW"

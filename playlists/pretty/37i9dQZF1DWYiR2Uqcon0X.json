@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 734549,
+  "num_followers": 734615,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-08-21 15:35:38",
       "album": {
-        "name": "Here Lies the Fool",
-        "url": "https://open.spotify.com/album/3JU7dOvlocukChNhrVrtnj"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 252213,
-      "name": "Here Lies the Fool",
-      "url": "https://open.spotify.com/track/0RvDQ5Kp6uI2IAhGZT2V3o"
-    },
-    {
-      "added_at": "2025-08-21 15:35:38",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 225146,
       "name": "Wait Up For Me",
       "url": "https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX"
+    },
+    {
+      "added_at": "2025-08-21 15:35:38",
+      "album": {
+        "name": "Here Lies the Fool",
+        "url": "https://open.spotify.com/album/3JU7dOvlocukChNhrVrtnj"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 252213,
+      "name": "Here Lies the Fool",
+      "url": "https://open.spotify.com/track/0RvDQ5Kp6uI2IAhGZT2V3o"
     },
     {
       "added_at": "2025-08-21 15:35:38",
@@ -847,18 +847,18 @@
     {
       "added_at": "2025-08-21 15:35:38",
       "album": {
-        "name": "ballerini",
-        "url": "https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
         }
       ],
-      "duration_ms": 236226,
-      "name": "half of my hometown - ballerini album version",
-      "url": "https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf"
+      "duration_ms": 156386,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
     },
     {
       "added_at": "2025-08-21 15:35:38",
@@ -895,18 +895,18 @@
     {
       "added_at": "2025-08-21 15:35:38",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
+        "name": "ballerini",
+        "url": "https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk"
       },
       "artists": [
         {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 156386,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
+      "duration_ms": 236226,
+      "name": "half of my hometown - ballerini album version",
+      "url": "https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf"
     },
     {
       "added_at": "2025-08-21 15:35:38",

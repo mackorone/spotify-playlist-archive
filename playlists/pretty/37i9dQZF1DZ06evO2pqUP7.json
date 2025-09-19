@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69455,
+  "num_followers": 69461,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAAAZW9anhhfY3ZZV8+mT8UIc",
+  "snapshot_id": "aMn6AAAAAAA7nn/YN2jXXI0Id2jNyt1j",
   "tracks": [
     {
       "added_at": null,
@@ -832,13 +832,13 @@
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         },
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
         }
       ],
-      "duration_ms": 229955,
-      "name": "Mi Favorita",
-      "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
+      "duration_ms": 190951,
+      "name": "Amigos Na' Mas",
+      "url": "https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5"
     },
     {
       "added_at": null,
@@ -936,13 +936,29 @@
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         },
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 190951,
-      "name": "Amigos Na' Mas",
-      "url": "https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5"
+      "duration_ms": 229955,
+      "name": "Mi Favorita",
+      "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
     },
     {
       "added_at": null,
@@ -967,22 +983,6 @@
       "duration_ms": 232813,
       "name": "Condado",
       "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
     },
     {
       "added_at": null,
@@ -1027,6 +1027,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gym",
+        "url": "https://open.spotify.com/album/5ctwyXD42GpDu6D2gktAz5"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 138260,
+      "name": "Gym",
+      "url": "https://open.spotify.com/track/7kVBOWAEm4YG9I0GRxbxxg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Top Gone (with Lunay)",
+        "url": "https://open.spotify.com/album/6pzt4VtRQPVattiSb1ZZAO"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Top Gone (with Lunay)",
+      "url": "https://open.spotify.com/track/0EgkGFmAdFLkZVtbyGlQRe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fantasia Sexual",
         "url": "https://open.spotify.com/album/1lf70hdVQoWSntSmDE738c"
       },
@@ -1055,42 +1091,6 @@
       "duration_ms": 253469,
       "name": "Fantasia Sexual",
       "url": "https://open.spotify.com/track/2Gbdc2PNfE5tXu9ujCxEiQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Top Gone (with Lunay)",
-        "url": "https://open.spotify.com/album/6pzt4VtRQPVattiSb1ZZAO"
-      },
-      "artists": [
-        {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "Top Gone (with Lunay)",
-      "url": "https://open.spotify.com/track/0EgkGFmAdFLkZVtbyGlQRe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gym",
-        "url": "https://open.spotify.com/album/5ctwyXD42GpDu6D2gktAz5"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 138260,
-      "name": "Gym",
-      "url": "https://open.spotify.com/track/7kVBOWAEm4YG9I0GRxbxxg"
     },
     {
       "added_at": null,
@@ -1151,26 +1151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quien Contra Mi 2",
-        "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Subconsciente",
-      "url": "https://open.spotify.com/track/456NTGEm7RgEumnZuCYtJL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9x19, Vol. 1",
         "url": "https://open.spotify.com/album/1BGtcYwVf8XMeh2J9o4WX1"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 222383,
       "name": "BAILEN",
       "url": "https://open.spotify.com/track/2dpyrOAUC27gn8284YdSJb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quien Contra Mi 2",
+        "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Subconsciente",
+      "url": "https://open.spotify.com/track/456NTGEm7RgEumnZuCYtJL"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Autrement\" de Julien Lieb est le Grand Hit de la semaine.",
+  "description": "\"Butterfly\", de Superbus et RORI, est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -3252,7 +3252,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 181000,
       "name": "Lola (feat. Nicola Sirkis)",
       "url": "https://open.spotify.com/track/2UC24t5kdAucpeFtVONiYZ"
@@ -4692,6 +4692,24 @@
       "duration_ms": 164479,
       "name": "Ta peine",
       "url": "https://open.spotify.com/track/0qp0G8VtnYHmLnbCu6lUUQ"
+    },
+    {
+      "album": {
+        "name": "Tant pis pour elle",
+        "url": "https://open.spotify.com/album/2iNJAjSxBMS58hKIqHpAxw"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158185,
+      "name": "Tant pis pour elle",
+      "url": "https://open.spotify.com/track/1VeDrlbLw18quxCqWfEFEi"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> de skarpeste knive i dansk musik  📸  ORA
+> de skarpeste knive i dansk musik  📸  Rosa
 
-304 songs - 15 hr 28 min
+307 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Feed The Good](https://open.spotify.com/track/1k1o50LNgNIBCHVEZn977a) | [Øyunn](https://open.spotify.com/artist/0h2Fx0No5huvQ7liqFOobL) | [Feed The Good](https://open.spotify.com/album/4uLDoFdGDdFT8UPivo6VYP) | 2:50 | 2025-07-31 | 2025-08-08 |
 | [Feisty](https://open.spotify.com/track/7Laa4tXNvO1QC63Qac53Gp) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Feisty](https://open.spotify.com/album/50u0hKlOJF0MNT1tqe8Gmd) | 2:40 | 2025-05-01 | 2025-06-20 |
 | [Fint Uden Mig](https://open.spotify.com/track/2oyl5wr2KLUwsiJ8o6Vtgw) | [Malou](https://open.spotify.com/artist/3rHfFG3C4laxZQQojPUexc) | [Fint Uden Mig](https://open.spotify.com/album/3OejBbCD4amRjryxFmhaAG) | 3:41 | 2025-08-21 | 2025-08-29 |
+| [Folk Forsvinder](https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr) | [Chris Burton](https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo) | [Folk Forsvinder](https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc) | 2:53 | 2025-09-18 |  |
 | [For Livet](https://open.spotify.com/track/6xD4xNZEsk83U2PdgOjEZm) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [For Livet](https://open.spotify.com/album/3lVfAlqdkQ6SShp4UsYrOc) | 2:17 | 2025-02-20 | 2025-06-07 |
 | [FOR OS](https://open.spotify.com/track/3VwWhdt75AfDVuXaai6PKs) | [BRANDZ](https://open.spotify.com/artist/6uRoBsykra8GXLj9JRMjEf) | [FOR OS](https://open.spotify.com/album/3hhtdqPyvhjsixUSbMfjp8) | 2:08 | 2025-07-24 | 2025-08-01 |
 | [Formskifter](https://open.spotify.com/track/6JjLdYF4tnAR6tJt9bypOu) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Formskifter](https://open.spotify.com/album/2v4FKfFPRtDVc2hjuysIxl) | 3:15 | 2024-06-27 | 2024-09-13 |
@@ -180,7 +181,7 @@
 | [Lige Meget Hvor Langt Du Er](https://open.spotify.com/track/1vqPaiBCEjsSmmRRSggJ23) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [Lige Meget Hvor Langt Du Er](https://open.spotify.com/album/6fYQkMjQHM0fNCLi92JJrA) | 4:18 | 2025-04-03 | 2025-08-10 |
 | [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 | 2024-09-19 |  |
 | [Like That](https://open.spotify.com/track/6gLqJMFHxveWZzHKmCbzv1) | [EMMA SEE](https://open.spotify.com/artist/6V1tC04lPs8becylbJk8KM) | [Like That](https://open.spotify.com/album/4jnfnJOU8HwBkc6y63d38h) | 3:16 | 2025-08-14 | 2025-08-22 |
-| [LIMBO](https://open.spotify.com/track/0LEqNH9R8kQxI094YhHBpe) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [: \(:](https://open.spotify.com/album/4HN7xWLgsSVl6CdpbNPGRa) | 2:32 | 2025-09-11 |  |
+| [LIMBO](https://open.spotify.com/track/0LEqNH9R8kQxI094YhHBpe) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [: \(:](https://open.spotify.com/album/4HN7xWLgsSVl6CdpbNPGRa) | 2:32 | 2025-09-11 | 2025-09-19 |
 | [Lyden Af Livet](https://open.spotify.com/track/4JfnZgT0ehB5Za52GOgKNZ) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Lyden Af Livet](https://open.spotify.com/album/1anEXLEWx8jsAnesccDtWv) | 3:50 | 2024-06-27 | 2025-02-10 |
 | [læs mig \(akustisk version\)](https://open.spotify.com/track/3rY5dgQAki617xDHkqjEux) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [dagdrømmer \(akustisk version\)](https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh) | 2:42 | 2024-06-27 | 2024-11-03 |
 | [LÆST \(feat\. Marcus.wav\)](https://open.spotify.com/track/4RV9rzJiIZ05AzHYtGeljS) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L), [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [LÆST \(feat\. Marcus.wav\)](https://open.spotify.com/album/1WcDgtM1ag4HaiGmemXhRg) | 2:56 | 2024-10-18 | 2025-01-24 |
@@ -196,7 +197,7 @@
 | [Ned Fra Månen](https://open.spotify.com/track/0JprUaYDxtSqBqzrG0L0jG) | [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun) | [Ned Fra Månen](https://open.spotify.com/album/17QzIJjOJFtzwAZG6jvdUl) | 2:38 | 2025-02-06 | 2025-02-24 |
 | [Neon Glow](https://open.spotify.com/track/4SjxHOFjy1FJFgxdejdPV9) | [Julie Ellinor](https://open.spotify.com/artist/0Qb0B1f0uVNSiNbT4SAwGi) | [Neon Glow](https://open.spotify.com/album/6jvyLhmGa5UDqDEjTiaom4) | 3:00 | 2024-10-03 | 2024-10-11 |
 | [New Beginnings](https://open.spotify.com/track/0THm1ju74NvtECmp6wGwVL) | [Thea Dora](https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD) | [New Beginnings](https://open.spotify.com/album/5IJZeiAtnWgxpMQW56JLjv) | 3:04 | 2025-02-20 | 2025-04-21 |
-| [New hair, New me](https://open.spotify.com/track/0jlIGGHaXmdagLgGNsYQRk) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [New hair, New me](https://open.spotify.com/album/0dMh0YdW5h2e0uGLFxLAEs) | 2:32 | 2025-09-11 |  |
+| [New hair, New me](https://open.spotify.com/track/0jlIGGHaXmdagLgGNsYQRk) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [New hair, New me](https://open.spotify.com/album/0dMh0YdW5h2e0uGLFxLAEs) | 2:32 | 2025-09-11 | 2025-09-19 |
 | [No One Else](https://open.spotify.com/track/6vxLhzmneGOW6zRfxc2siq) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [No One Else](https://open.spotify.com/album/3gOeqVU5TZP7ZR54je7rZi) | 3:51 | 2024-09-05 | 2024-10-17 |
 | [Noget For Nogen](https://open.spotify.com/track/6nzQ4R4i3g70M0ZKo8qaiT) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Noget For Nogen](https://open.spotify.com/album/4cTBw8cEyxgshlZz5SO447) | 3:24 | 2024-06-27 | 2024-08-14 |
 | [Ny Og Næ](https://open.spotify.com/track/3Qrb34pY41bEv1UaFy9li9) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Ny Og Næ](https://open.spotify.com/album/10LVG1XLuoTivi3WYvPqkD) | 3:11 | 2024-06-27 | 2024-09-24 |
@@ -236,9 +237,10 @@
 | [Sidste Gang \(feat\. Silvia\)](https://open.spotify.com/track/1oPn5TXceV3wB58jKxLMkJ) | [Josie Amadonna](https://open.spotify.com/artist/1OkuTIe9TmyBFKMmlAyJLR), [Silvia](https://open.spotify.com/artist/10hzpfut54PK26giA9Mm3X) | [Sidste Gang \(feat\. Silvia\)](https://open.spotify.com/album/0KkoMqyodpwPncrqMGLDbz) | 2:39 | 2025-01-09 | 2025-01-24 |
 | [Sidste År](https://open.spotify.com/track/27aVuXVBHVGcCPc8NH1KoH) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Sidste År](https://open.spotify.com/album/6DE2GW3cUXFGvkmFikTpMf) | 3:22 | 2025-01-09 | 2025-09-12 |
 | [Siger Det Ik'](https://open.spotify.com/track/0A4EXxKqR3WSfft3rwFeHU) | [UNG\-SKAB](https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8) | [Siger Det Ik'](https://open.spotify.com/album/1hdjh1iAjtRzAwKfy8LMO8) | 2:48 | 2024-06-27 | 2025-05-04 |
+| [Skyklapper](https://open.spotify.com/track/5nkDngxLSMwnNbJ7YkomTA) | [Rosa](https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM) | [Skyklapper](https://open.spotify.com/album/4ap5LraN4yGYC0my4WUmkz) | 2:53 | 2025-09-18 |  |
 | [Smelter Under Månen](https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Smelter Under Månen](https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE) | 3:18 | 2024-06-27 | 2025-01-24 |
 | [Smilet kommer nemt](https://open.spotify.com/track/23IPxqC6fLmkLBFUWb16mK) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Smilet kommer nemt](https://open.spotify.com/album/5HcOxZ8hnlLZ8OhWOEi8D4) | 2:42 | 2025-01-09 | 2025-03-16 |
-| [Sofaen](https://open.spotify.com/track/4HoFuPVIbADUVrVTjyRIT4) | [Sebastian Wegener](https://open.spotify.com/artist/7cb1H8FTdpjQYaNxKSWt9O) | [Sofaen](https://open.spotify.com/album/1oiPyNWMOyzkzuDhYwXtjb) | 2:34 | 2025-09-11 |  |
+| [Sofaen](https://open.spotify.com/track/4HoFuPVIbADUVrVTjyRIT4) | [Sebastian Wegener](https://open.spotify.com/artist/7cb1H8FTdpjQYaNxKSWt9O) | [Sofaen](https://open.spotify.com/album/1oiPyNWMOyzkzuDhYwXtjb) | 2:34 | 2025-09-11 | 2025-09-19 |
 | [Sol Gennem Regn](https://open.spotify.com/track/17n1KmOAVGpXe8BnWKrAD4) | [UNG\-SKAB](https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8) | [Sol Gennem Regn](https://open.spotify.com/album/1wnPzqdbhmYpeuZ5TZe385) | 2:53 | 2024-06-27 | 2024-11-25 |
 | [Solens Skær](https://open.spotify.com/track/3MnouEbKUGwGHgRrgHi7i7) | [Oscar Køhler](https://open.spotify.com/artist/6qTbRdIl3s58jkXrFQ1qjv) | [Solens Skær](https://open.spotify.com/album/353ZcfsIjTXTzwH3mN5cbv) | 2:29 | 2025-07-17 | 2025-07-25 |
 | [Solskam](https://open.spotify.com/track/22VyCWyIDIV7TCEpzX6qtx) | [Knægt](https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6) | [Forandring, please!?](https://open.spotify.com/album/0o2CoLXWid9ZTCSVv4RNcs) | 3:36 | 2025-03-13 | 2025-03-28 |
@@ -270,6 +272,7 @@
 | [Til Mit Hjerte Stopper \(feat\. Kundo\)](https://open.spotify.com/track/5aZzTieCOHU3CfhLJ7FSyS) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [</3](https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq) | 3:23 | 2024-06-27 | 2024-09-27 |
 | [Til Solen Er Sort](https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Til Solen Er Sort](https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz) | 3:44 | 2024-06-27 |  |
 | [Træ](https://open.spotify.com/track/1O4JjI0kH0ThnCZWrryAGD) | [Rigmor](https://open.spotify.com/artist/2vl3gjL9MJNaGgs11WZr5y) | [Træ](https://open.spotify.com/album/6VNRVd5whVnFT6PSFPpR6R) | 3:19 | 2024-12-12 | 2025-02-07 |
+| [Tunge Følelser](https://open.spotify.com/track/1Mnmmbcd8RhjOoZExPW3Zv) | [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [Tunge Følelser](https://open.spotify.com/album/7LAyKf6EHJxTiBkllKmp1U) | 2:35 | 2025-09-18 |  |
 | [Turn Around](https://open.spotify.com/track/4gDjuMCJSVsvHCLFEtb3mU) | [SOL](https://open.spotify.com/artist/7FZzDJqjzhkZi4V4SJnQWj), [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun) | [Turn Around](https://open.spotify.com/album/54ttlPjNPzVTZRSJVxxQYE) | 2:56 | 2025-01-30 | 2025-06-10 |
 | [Tænker Du Mon Nogensinde På Os](https://open.spotify.com/track/58HZHUAFH29Ujc3033yIw1) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Tænker Du Mon Nogensinde På Os](https://open.spotify.com/album/70S07sIasspR3twjbfN6BZ) | 3:07 | 2025-02-27 | 2025-06-21 |
 | [Tæt På Paradis](https://open.spotify.com/track/7dUd1GZ3DEbL2wyhzjpvoM) | [Zar Paulo](https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2) | [Elendig Software](https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o) | 4:03 | 2024-06-27 | 2025-09-05 |

@@ -2,9 +2,9 @@
 
 ### [Asakaa](https://open.spotify.com/playlist/37i9dQZF1DX7ygLlsNqPvp)
 
-> The most intense local drill music firing up the continent\. Cover:  G4 Boyz
+> The most intense local drill music firing up the continent\. Cover:  O'Kenneth
 
-257 songs - 12 hr 53 min
+258 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Awoyo Sofo](https://open.spotify.com/track/0AYl4k8cN3YXxVb88azE9K) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Awoyo Sofo](https://open.spotify.com/album/0GvruFtY50oHOTlsixNnah) | 3:15 | 2024-02-23 | 2025-02-28 |
 | [Azul](https://open.spotify.com/track/138IntrM8hYCGqejrMNOGU) | [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS) | [Azul](https://open.spotify.com/album/6o55lkrss6NOhwpLb0oMNi) | 1:37 | 2025-09-05 |  |
 | [Badman](https://open.spotify.com/track/5C2dzL3VyfP0dFnvKWplYn) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Badman](https://open.spotify.com/album/29RXmKEbM33hbEJTaTCLXC) | 3:37 | 2022-09-29 | 2024-01-05 |
+| [BALENCIAGA](https://open.spotify.com/track/1v50F7vK31Czts54YID73W) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [BALENCIAGA](https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9) | 2:20 | 2025-09-19 |  |
 | [Balling](https://open.spotify.com/track/6Uy0HWtCberVnkKRKzWWmj) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt) | [Balling](https://open.spotify.com/album/2FqS1rete3J3Viej1Du06g) | 2:46 | 2024-05-17 | 2024-06-01 |
 | [BASELINE](https://open.spotify.com/track/4jWFICufHHnaCDrtCeUGyV) | [Damy](https://open.spotify.com/artist/6Rd7l8PLs9gpbqEQ9hSpmP), [YokeeGilla](https://open.spotify.com/artist/3Y54NinYYRIlsNUzu39We4) | [BASELINE](https://open.spotify.com/album/5GUeHyG26KMyh1kKEejzcZ) | 3:13 | 2022-11-04 | 2022-12-09 |
 | [Bebe](https://open.spotify.com/track/04qKXcYDIIWVLdCTZCdUQm) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Bebe](https://open.spotify.com/album/1rFjsoBsPodLHBYQG8S8H6) | 2:07 | 2022-06-16 |  |
@@ -235,7 +236,7 @@
 | [Till It's Done](https://open.spotify.com/track/6cb3jTr1QzN9dEmSkwMtdL) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [CHRONICLES \(The First Supper\)](https://open.spotify.com/album/11gE9lxKNWiAB9AmfLQ3pQ) | 2:41 | 2025-05-09 |  |
 | [Till We Die](https://open.spotify.com/track/6cRQPMi6eZTtP7VvKmc4Rw) | [Phaize](https://open.spotify.com/artist/4S0ZEMWDccpMd5ybPA6A9n), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Till We Die](https://open.spotify.com/album/7fLZKILabFwc8BJ3GIYYcU) | 3:57 | 2025-04-04 | 2025-04-18 |
 | [Time](https://open.spotify.com/track/5KwDovDFkhSaBuRlcVke0x) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Time](https://open.spotify.com/album/5cJW97FT5Uo34WKxkkuOJk) | 2:45 | 2022-11-04 | 2023-02-11 |
-| [Toffee](https://open.spotify.com/track/4qncFa5abNWOljfJ6atPcZ) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [TOFFEE](https://open.spotify.com/album/2w0uS5c01bbICce8aD9thW) | 3:25 | 2025-07-18 |  |
+| [Toffee](https://open.spotify.com/track/4qncFa5abNWOljfJ6atPcZ) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [TOFFEE](https://open.spotify.com/album/2w0uS5c01bbICce8aD9thW) | 3:25 | 2025-07-18 | 2025-09-19 |
 | [Tonight](https://open.spotify.com/track/4AwLs3NpQFSy5bhIdeXWll) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Tonight](https://open.spotify.com/album/5rikpwZ6bc9dweoWLojsyz) | 2:19 | 2023-11-17 | 2024-01-19 |
 | [Touché](https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv) | [Nasa Nassa](https://open.spotify.com/artist/1LKGSEPso33OnJ1fZxsQVP) | [Touché](https://open.spotify.com/album/1YuEqdkNN7wFiT3LfSKcdn) | 2:02 | 2023-03-10 | 2023-03-18 |
 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 | 2024-05-24 |  |

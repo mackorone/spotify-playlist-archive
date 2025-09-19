@@ -2101,6 +2101,24 @@
     },
     {
       "album": {
+        "name": "EL 3A2LA AHM SHE2",
+        "url": "https://open.spotify.com/album/2zobtain7jVZTXUKgZLDhb"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141564,
+      "name": "EL 3A2LA AHM SHE2",
+      "url": "https://open.spotify.com/track/1twLzMoB8D5MX7AifTfKfT"
+    },
+    {
+      "album": {
         "name": "El 3asefa",
         "url": "https://open.spotify.com/album/0pET0nC1WwLXIjlOXKW54v"
       },
@@ -2438,7 +2456,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 252000,
       "name": "EL SHANTA FEHA EH",
       "url": "https://open.spotify.com/track/4L1Yl0rR62QQAFPGVPJn39"

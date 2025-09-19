@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. De Nalgas en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,934 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,966 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 45 | [Se siente raro](https://open.spotify.com/track/40rtNswQuHUIBcPa7Ty2V4) | [The Space Ocean](https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb) | [Se siente raro](https://open.spotify.com/album/0LjhQjsN5MG4H8INxjeQ05) | 3:13 |
 | 46 | [Luna Roja](https://open.spotify.com/track/28UtFz9X15GSU5TE5jOCpe) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Luna Roja](https://open.spotify.com/album/4Zilg70sudnxtv6nXRMx63) | 4:15 |
 | 47 | [Ani Oni](https://open.spotify.com/track/6w7CogVl5gvT0vEdhcjVLx) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [ESTAN STRANGE I](https://open.spotify.com/album/422eJaR43slaDf2uJXPyhH) | 3:00 |
-| 48 | [krav magá](https://open.spotify.com/track/5pzUVpoeLEiTtLcVJ3KR4r) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [piel / krav magá](https://open.spotify.com/album/0u8wiHNdWYH3K2HMB5faeO) | 3:50 |
+| 48 | [kombate](https://open.spotify.com/track/5pzUVpoeLEiTtLcVJ3KR4r) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [piel / kombate](https://open.spotify.com/album/0u8wiHNdWYH3K2HMB5faeO) | 3:50 |
 | 49 | [El Gomoso](https://open.spotify.com/track/0H6rYPbDkdMmJbedmXMqV9) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [El Retorno](https://open.spotify.com/album/3wLN5TGDfK414XeVjrfvEm) | 3:09 |
 | 50 | [Me Va la Vida en Esto](https://open.spotify.com/track/4zeo2GiWsKNE0mAW12fax3) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [Me Va la Vida en Esto](https://open.spotify.com/album/4mmNwbFWi6iNcILzefXHD1) | 3:28 |
 | 51 | [Conquistador](https://open.spotify.com/track/5zX5GQaoKypg8Int4mVCtf) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Conquistador](https://open.spotify.com/album/2Q7eoklwvVow65c7Kcghpa) | 2:54 |

@@ -2787,6 +2787,28 @@
     },
     {
       "album": {
+        "name": "ALIMENCIARZ",
+        "url": "https://open.spotify.com/album/4oOYI7apmHtJ6Lm28U84Nh"
+      },
+      "artists": [
+        {
+          "name": "ZACZAROWANY BURDEL",
+          "url": "https://open.spotify.com/artist/3qOQ6qtinNdXLqBGprfw6q"
+        },
+        {
+          "name": "Kuki",
+          "url": "https://open.spotify.com/artist/3eM69n1zBUNhr7nsDLm5AH"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218084,
+      "name": "ALIMENCIARZ",
+      "url": "https://open.spotify.com/track/02jrWOuqIbNXF77OGE9iQs"
+    },
+    {
+      "album": {
         "name": "ALL DAY FRESH",
         "url": "https://open.spotify.com/album/0kVqju6sg0VHllyh1nUC8c"
       },
@@ -14812,7 +14834,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 169142,
       "name": "Falochrony",
       "url": "https://open.spotify.com/track/6rCz0E0G6El6irdft7Zjgp"
@@ -35976,7 +35998,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 178666,
       "name": "Parasol",
       "url": "https://open.spotify.com/track/5Ou4WXzPb7TFu5AfC18J9a"
@@ -41816,7 +41838,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 235773,
       "name": "Schodki",
       "url": "https://open.spotify.com/track/773ryYtshMNAyz6iDtZgLI"

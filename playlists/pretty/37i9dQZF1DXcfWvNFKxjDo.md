@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 ### [Dance Brandneu](https://open.spotify.com/playlist/37i9dQZF1DXcfWvNFKxjDo)
 
-> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Jaden Bojsen
+> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Old Jim, Pascal Letoublon
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,346 likes - 89 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,352 likes - 89 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 88 | [I’m Really Hot \(For Myself\)](https://open.spotify.com/track/0Ot136xJA9ghl1JR5eaaVS) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [I’m Really Hot \(For Myself\)](https://open.spotify.com/album/5bknZDxdS28S9vEnODKQ0E) | 3:28 |
 | 89 | [Akasha](https://open.spotify.com/track/2Skgxo0g8xcXzqJyspPzq1) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Double Touch](https://open.spotify.com/artist/2gs35pd58Hjh9gOlH95QtF) | [](https://open.spotify.com/album/null) | 3:41 |
 
-Snapshot ID: `AAAAADhb5nsKEnCsdnloRFQ8AxZEBzlO`
+Snapshot ID: `AAAAAL6p5guJmcWSRUp/CjhpuuZYlSu8`

@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 468207,
+  "num_followers": 468288,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAAAJ/Cmc+UAH6moX4AeJChF1",
+  "snapshot_id": "aMn6AAAAAADF8c3JRJ+3qlFJEUpZO7kG",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infestissumam",
-        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 350186,
-      "name": "Year Zero",
-      "url": "https://open.spotify.com/track/3yiyZW5sYNg3VvIejh10sK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prequelle",
         "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 269706,
       "name": "Faith",
       "url": "https://open.spotify.com/track/1HPS4eeHYYI1m0qz10BDU9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infestissumam",
+        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 350186,
+      "name": "Year Zero",
+      "url": "https://open.spotify.com/track/3yiyZW5sYNg3VvIejh10sK"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف: مروان موسى
 
-430 songs - 21 hr 1 min
+431 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [EH EL ARF DAH](https://open.spotify.com/track/6fIebGHXTAQ3jtairsQkPs) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [EH EL ARF DAH](https://open.spotify.com/album/6aBAf4qEuRN6TSyfx0hUxM) | 2:11 | 2025-04-24 | 2025-08-03 |
 | [EH KMAN](https://open.spotify.com/track/57V1F5F6CopBU6RJf0r86w) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL) | [MOSLSL TURK \- SEZON 2](https://open.spotify.com/album/7EUJk4ifsTNRzfboCG03rb) | 2:42 | 2025-08-01 | 2025-08-22 |
 | [EHHHHH](https://open.spotify.com/track/5vcHeEj1lW0mC5H2HEPksO) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [ZAY MANA](https://open.spotify.com/album/0f0HgWxt0FZ8PpyTg0CgQb) | 2:01 | 2025-06-04 | 2025-08-22 |
+| [EL 3A2LA AHM SHE2](https://open.spotify.com/track/1twLzMoB8D5MX7AifTfKfT) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [EL 3A2LA AHM SHE2](https://open.spotify.com/album/2zobtain7jVZTXUKgZLDhb) | 2:21 | 2025-09-18 |  |
 | [El 3asefa](https://open.spotify.com/track/6AunR7FkXRm1EEEdWYFLWg) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [El 3asefa](https://open.spotify.com/album/0pET0nC1WwLXIjlOXKW54v) | 2:29 | 2023-05-11 | 2023-06-04 |
 | [El 3asefa](https://open.spotify.com/track/665TwdtuLDvcosWE631uEL) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [El 3asefa](https://open.spotify.com/album/6lH9q9RdXfuewaVEu2et8A) | 2:35 | 2023-06-03 | 2023-06-28 |
 | [EL ASEMA](https://open.spotify.com/track/7xGbfFIhE3fNwS9Djjjq7P) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 6:18 | 2023-02-13 | 2023-07-11 |
@@ -127,7 +128,7 @@
 | [El Neyya](https://open.spotify.com/track/2lygVhKHBUzEGMJXljHOV2) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [El Neyya](https://open.spotify.com/album/5Ym6uvtt8qnWIX1sF3XYeg) | 2:40 | 2025-08-01 |  |
 | [El QOWA](https://open.spotify.com/track/0rzAtcL37WVll20dFCYTsj) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAQSOUM](https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC) | 4:17 | 2022-05-10 | 2022-10-11 |
 | [El Rap Ghayarni](https://open.spotify.com/track/0SQ5ckrJfPLlBzfVxJ7qZn) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [El Rap Ghayarni](https://open.spotify.com/album/604qvjYynAS8jwYMPVlAgk) | 4:12 | 2022-09-27 | 2023-01-13 |
-| [EL SHANTA FEHA EH](https://open.spotify.com/track/4L1Yl0rR62QQAFPGVPJn39) | [Hassan Yasser](https://open.spotify.com/artist/2mloSlGnOrhM9IZdnroyiR), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Hussein Yasser](https://open.spotify.com/artist/2ZW5HChxwvF3imncWL70mr) | [MA3RFSH BANSA WALA LA2A](https://open.spotify.com/album/6uM0TBFVqziuaWru9JGcg8) | 4:12 | 2025-08-12 |  |
+| [EL SHANTA FEHA EH](https://open.spotify.com/track/4L1Yl0rR62QQAFPGVPJn39) | [Hassan Yasser](https://open.spotify.com/artist/2mloSlGnOrhM9IZdnroyiR), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Hussein Yasser](https://open.spotify.com/artist/2ZW5HChxwvF3imncWL70mr) | [MA3RFSH BANSA WALA LA2A](https://open.spotify.com/album/6uM0TBFVqziuaWru9JGcg8) | 4:12 | 2025-08-12 | 2025-09-19 |
 | [El Ters](https://open.spotify.com/track/2u7ORPqITjz66HLu7cMH3v) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [El Ters](https://open.spotify.com/album/0aIsZHl5cV4NO9MkpdECxh) | 2:29 | 2024-07-26 | 2025-01-28 |
 | [El Waat El Daye3](https://open.spotify.com/track/0KlV4dMk7ciYT4GfMMQhJv) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [El Waat El Daye3](https://open.spotify.com/album/79aadAOfRpMoyehE1qFrLh) | 2:54 | 2024-05-17 | 2025-06-11 |
 | [El\-Balad Baladna](https://open.spotify.com/track/22bcOGR9lJI89ZXRjT0eXd) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky), [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo) | [El\-Balad Baladna](https://open.spotify.com/album/6SEsaNegij1N9TD32er7fB) | 3:38 | 2024-08-12 | 2024-09-05 |

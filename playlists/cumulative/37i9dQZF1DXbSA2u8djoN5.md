@@ -2,9 +2,9 @@
 
 ### [Suflet + Sunet](https://open.spotify.com/playlist/37i9dQZF1DXbSA2u8djoN5)
 
-> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: BRUJA
+> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Guess Who, Macanache
 
-191 songs - 9 hr 20 min
+193 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [CALIFORNIA](https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [CALIFORNIA](https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy) | 2:19 | 2025-04-10 |  |
 | [Cand Nimeni Nu Te Vede](https://open.spotify.com/track/3uloTbf9BGYUG2xVx5P5Ze) | [Stres](https://open.spotify.com/artist/2eVoGlAScaB4z8MPO029K5), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [DJ Wicked](https://open.spotify.com/artist/5RKrZeSaUkCFy3DlCMXxl9) | [Cand Nimeni Nu Te Vede](https://open.spotify.com/album/1b5XlE2TsFyTPgGjaba7wz) | 2:48 | 2024-10-03 | 2025-01-24 |
 | [Casa Goala](https://open.spotify.com/track/5RQMopEH1rc9BqQjlpvXAO) | [Kepa](https://open.spotify.com/artist/0Mx93t13mwLCqOoQTQnILw) | [Casa Goala](https://open.spotify.com/album/0vL1n2GZ9N4GI3HMjimeMF) | 2:46 | 2024-06-27 | 2024-09-20 |
-| [Castigator](https://open.spotify.com/track/5kPFL28u3qN8kgQkrXPeBR) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy) | [Castigator](https://open.spotify.com/album/0shMiAByr7Vh3GyFJE0Kx5) | 2:36 | 2025-04-24 |  |
+| [Castigator](https://open.spotify.com/track/5kPFL28u3qN8kgQkrXPeBR) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy) | [Castigator](https://open.spotify.com/album/0shMiAByr7Vh3GyFJE0Kx5) | 2:36 | 2025-04-24 | 2025-09-19 |
 | [Certificat](https://open.spotify.com/track/7tuJGk5C2lnEZ7JstK97zO) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [Bitza](https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ), [Stres](https://open.spotify.com/artist/2eVoGlAScaB4z8MPO029K5) | [Selfmade](https://open.spotify.com/album/7umzSjHdY7cRbqe4pZppa5) | 2:09 | 2025-03-06 |  |
 | [CEVA UMAN \- INTERLUDIU](https://open.spotify.com/track/2gxUwygMzhdPhgHf07dYOA) | [andrei](https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2), [Raul Ws](https://open.spotify.com/artist/0jd4rNLzxZYyxEcvOGRtO4) | [CEVA UMAN \- INTERLUDIU](https://open.spotify.com/album/2SDJj446sLnv6Bm288MWxG) | 1:24 | 2024-08-22 | 2024-09-20 |
 | [CHARLEROI](https://open.spotify.com/track/2N13hNEZevTvfUDGEWv82s) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV), [Sisu Tudor](https://open.spotify.com/artist/33HsI8I9shSjHHVTKYxDkA), [andrei](https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2) | [CHARLEROI](https://open.spotify.com/album/18Qsg0RdnZGUF78HNPwhGD) | 2:38 | 2025-02-06 | 2025-04-25 |
@@ -90,6 +90,7 @@
 | [Glory](https://open.spotify.com/track/0ElfsiFw4owhhKiNHAl3RP) | [Moza Kaliza](https://open.spotify.com/artist/6il6kv5KNcFOECKqTe4Mfk) | [Glory](https://open.spotify.com/album/3hftYIA0d1XLGcW83cY88g) | 1:43 | 2024-10-24 | 2024-11-15 |
 | [Grinch](https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Grinch](https://open.spotify.com/album/2QN6om23DL5Gwek4PCTGx6) | 3:14 | 2025-01-09 |  |
 | [Grădina interioară](https://open.spotify.com/track/7d6WcTjwxTC1R1kL7BrIvx) | [Dragonu AKA 47](https://open.spotify.com/artist/1RFTu9DxRmO2inIuvm7JMG), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Grădina interioară](https://open.spotify.com/album/4bPrnYxez5wn8Rn6uUGJEz) | 4:26 | 2024-09-26 | 2024-10-04 |
+| [Gândul](https://open.spotify.com/track/1oQeyBWKXUd56oq0nnHTjF) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy), [Macanache](https://open.spotify.com/artist/4tr1nXsLLAQj86Hs5VyU2w) | [Gândul](https://open.spotify.com/album/64bxzzhQGgdtT1wlhJqIjg) | 2:59 | 2025-09-18 |  |
 | [Haz de necaz](https://open.spotify.com/track/134JNZxHvJgR6cngu5s0Z5) | [Bitza](https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ), [Ombladon](https://open.spotify.com/artist/6ojVBJkxhgSj5zgXsM3hnF), [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i) | [Haz de necaz](https://open.spotify.com/album/1fsbOLT7Ae6G8rpnwOH6Fi) | 3:23 | 2025-01-16 | 2025-06-06 |
 | [I'm Geekin](https://open.spotify.com/track/3pOuEf4IwX5o2vK3ZtBI7p) | [Tomi Marfă](https://open.spotify.com/artist/6ukiR3J7anX3kgmYmiIkAs), [waveman](https://open.spotify.com/artist/5niAdguvCF1zoNIWpifvXW) | [I'm Geekin](https://open.spotify.com/album/0kERiZuBvr60zc7NkbfU7W) | 1:41 | 2024-06-27 | 2024-07-27 |
 | [IBIZA](https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [HE$OYAM](https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2) | 3:03 | 2025-02-13 |  |
@@ -101,6 +102,7 @@
 | [iNGER](https://open.spotify.com/track/4lKDvhNzcRhHYfNOWqTPgx) | [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv) | [iNGER](https://open.spotify.com/album/6NWyRBmyZAWLE76D3DhJSw) | 3:21 | 2024-06-27 | 2024-11-01 |
 | [IREAL](https://open.spotify.com/track/4Zd0ZkFUwiTmk30Cd5uBMX) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4), [Angeles](https://open.spotify.com/artist/3tdg8XqJcJxUs0wpeKywzs) | [ÎNCĂ ÎN VIAȚĂ: albumul](https://open.spotify.com/album/21CZIzQwbLZEVgNBK55CZv) | 2:52 | 2025-06-05 | 2025-07-25 |
 | [Joacă](https://open.spotify.com/track/2P4d947MikKNSQw5I3lHSv) | [DOC](https://open.spotify.com/artist/6pWa7vRheyK4dmNJ2cg0gA), [Hardplay](https://open.spotify.com/artist/5oNOqzbZ0wPu4tn0mM5vmH) | [Aproape TOT](https://open.spotify.com/album/1Qb2fUJIgv2xKKYGo1WWl7) | 1:51 | 2024-10-03 | 2024-10-21 |
+| [Killa House Guerrilla/Liga Neagră](https://open.spotify.com/track/3LBuJ9IZylBnzC6rZQ8T1o) | [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Killa House Guerrilla](https://open.spotify.com/album/5k4ExMbyxwUypEndY9jBH4) | 3:23 | 2025-09-18 |  |
 | [Lacrimi](https://open.spotify.com/track/7wT5gc9AaTqRwZzrITMNFn) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO) | [Lacrimi](https://open.spotify.com/album/0Or68bwwHfbww8ECp81b0F) | 2:47 | 2025-01-23 | 2025-05-20 |
 | [Lacrimi pe Dunare](https://open.spotify.com/track/1BuodJPb5DNiRT13z5vzq2) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy) | [Lacrimi pe Dunare](https://open.spotify.com/album/4twamxyu0B8lw84wOhnDcH) | 2:57 | 2025-02-06 | 2025-02-21 |
 | [Lana Del Rey](https://open.spotify.com/track/5ExhEXUPpUPc64ZvMm8yHR) | [supernOva](https://open.spotify.com/artist/3goh4iJ1WNK7u2r6l4qW7M), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58) | [Lana Del Rey](https://open.spotify.com/album/3bKR62VutgMQifmqbewJix) | 2:16 | 2025-06-19 | 2025-07-25 |
@@ -127,7 +129,7 @@
 | [Numele ei](https://open.spotify.com/track/6Cgp2oYtVrRaU90RA16KZG) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Numele ei](https://open.spotify.com/album/6r3gIbK7Wl1QklGF1L3qku) | 2:30 | 2025-07-04 | 2025-08-22 |
 | [O Mie de Ori](https://open.spotify.com/track/048y8xZzdbr484c9k0eeRA) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM) | [O Mie de Ori](https://open.spotify.com/album/1xIRkMzL7v4NPaq2tVkTHB) | 3:39 | 2025-02-13 | 2025-02-15 |
 | [Oameni putini](https://open.spotify.com/track/4AoebUxOmHZlZi2qdS3J8e) | [Bitza](https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ) | [Oameni putini](https://open.spotify.com/album/6vSVl9iF3C4R2oxSDzzrmY) | 3:06 | 2024-10-03 | 2024-11-29 |
-| [Obsedat](https://open.spotify.com/track/5XeIbePKKTlw9HFTJbFcYG) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T) | [Obsedat](https://open.spotify.com/album/72ZWJM2PXdHCmAZQrlIqeM) | 3:01 | 2025-08-28 |  |
+| [Obsedat](https://open.spotify.com/track/5XeIbePKKTlw9HFTJbFcYG) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T) | [Obsedat](https://open.spotify.com/album/72ZWJM2PXdHCmAZQrlIqeM) | 3:01 | 2025-08-28 | 2025-09-19 |
 | [OCHI ALBAȘTRI](https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Bianca Ionescu](https://open.spotify.com/artist/6FjEnxqyibwj2OM2WQg8hU) | [OCHI ALBAȘTRI](https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3) | 3:52 | 2024-06-27 |  |
 | [Ochii](https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Ochii](https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z) | 3:16 | 2024-06-27 |  |
 | [Ochii care nu se văd](https://open.spotify.com/track/40VQXiJYyLIsqOZvBTmLDd) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [GINIA](https://open.spotify.com/artist/1giHQkT7XkpCarE8kyA6DL) | [Ochii care nu se văd](https://open.spotify.com/album/5p8fQCvnHnXHlnyvRH0QrJ) | 2:30 | 2025-07-31 | 2025-09-12 |

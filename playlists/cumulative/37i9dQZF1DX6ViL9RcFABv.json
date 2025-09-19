@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Pedro Mafama",
+  "description": "Uma playlist de pura alma pop! Foto: Criss Calisto",
   "name": "Pop PT",
   "tracks": [
     {
@@ -436,7 +436,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 284898,
       "name": "Ao Ocaso",
       "url": "https://open.spotify.com/track/1HHUKAEQM2s3jvpUxJcaMZ"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 185744,
       "name": "AURA",
       "url": "https://open.spotify.com/track/6M9QkeLsircEIi26YOE9eE"
@@ -1202,6 +1202,24 @@
       "duration_ms": 186249,
       "name": "Como Se Te Fosse Perder",
       "url": "https://open.spotify.com/track/3Oa4gJ5OfEGpCNWlLslYh0"
+    },
+    {
+      "album": {
+        "name": "Como Tens Estado",
+        "url": "https://open.spotify.com/album/4UdQsscUHyDclkcoFm60QG"
+      },
+      "artists": [
+        {
+          "name": "Criss Calisto",
+          "url": "https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184137,
+      "name": "Como Tens Estado",
+      "url": "https://open.spotify.com/track/2gEhamLKrRmJJqanA7uVm1"
     },
     {
       "album": {
@@ -2642,7 +2660,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 181184,
       "name": "Grito 2.0",
       "url": "https://open.spotify.com/track/1gg8m3ZBNPUhbtMMoBc8kU"
@@ -3475,6 +3493,40 @@
     },
     {
       "album": {
+        "name": "Moleirinha",
+        "url": "https://open.spotify.com/album/1N9eikIKeoqhxkIeWAUe3K"
+      },
+      "artists": [
+        {
+          "name": "Karetus",
+          "url": "https://open.spotify.com/artist/5SVGhU7cTodC79weaAmjYy"
+        },
+        {
+          "name": "CONAN OSIRIS",
+          "url": "https://open.spotify.com/artist/4oYolWgvQmCnjrvVNTymlf"
+        },
+        {
+          "name": "Julio Pereira",
+          "url": "https://open.spotify.com/artist/6v9TnZhced3QZ7lHZRUJC5"
+        },
+        {
+          "name": "Isabel Silvestre",
+          "url": "https://open.spotify.com/artist/2JkCTXEl8h6nmf2e6lpXV9"
+        },
+        {
+          "name": "Grupo De Cantares De Manhouce",
+          "url": "https://open.spotify.com/artist/0N5MxMPVCmLru98yUlz5AR"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Moleirinha",
+      "url": "https://open.spotify.com/track/56jU6taZOBOHZvL61KSLIJ"
+    },
+    {
+      "album": {
         "name": "Mudar A Can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7hwcdnuYalAEqFbLGYGFKl"
       },
@@ -4157,6 +4209,24 @@
     },
     {
       "album": {
+        "name": "Patroa",
+        "url": "https://open.spotify.com/album/32C3J9lftiE87G55F5ThXW"
+      },
+      "artists": [
+        {
+          "name": "Archie",
+          "url": "https://open.spotify.com/artist/6BQmTsPNeH0wmWXxa1CF4P"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Patroa",
+      "url": "https://open.spotify.com/track/3uSTx9xWkf7RTHdxRefuQ2"
+    },
+    {
+      "album": {
         "name": "Nos Tempos Livres",
         "url": "https://open.spotify.com/album/1yUSOrIyaHeUfNQOKKTJqW"
       },
@@ -4726,7 +4796,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 144493,
       "name": "Rasp\u00e3o",
       "url": "https://open.spotify.com/track/726Wj3tCY1A4vIrwHlQyRZ"
@@ -5512,6 +5582,24 @@
       "duration_ms": 216524,
       "name": "Tanta Pena",
       "url": "https://open.spotify.com/track/7mUs8RjGaraHXBS07nZo6A"
+    },
+    {
+      "album": {
+        "name": "Tanto Tempo",
+        "url": "https://open.spotify.com/album/2ItHTcdJBMsxn1q4zjf9Fr"
+      },
+      "artists": [
+        {
+          "name": "Bandidos do Cante",
+          "url": "https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225360,
+      "name": "Tanto Tempo",
+      "url": "https://open.spotify.com/track/003pENpxbAlWY7nMscpC05"
     },
     {
       "album": {

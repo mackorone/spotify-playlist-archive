@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-430 songs - 21 hr 40 min
+431 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Bring Me Down](https://open.spotify.com/track/7FhOYhjnqPPlm0LTOMnJLy) | [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI), [Sisters Cap](https://open.spotify.com/artist/2qqX8GWsa5U8kiVM10bFlp), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Bring Me Down](https://open.spotify.com/album/2lRVLM5xZEZaFYu436lCVU) | 3:14 | 2022-07-29 | 2023-09-09 |
 | [Broken Hearts](https://open.spotify.com/track/4narhpRTaHah0ixYvd5ceq) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [SIR NOTCH](https://open.spotify.com/artist/4SLZm8YYu6KrPjowQigjCQ) | [\#aparttogether](https://open.spotify.com/album/69gjrVGn8OAOGfCz5jAuLC) | 3:14 | 2022-07-29 | 2022-09-17 |
 | [Bunker](https://open.spotify.com/track/7yxo1T2VcxF0jldZZRcVnH) | [Maski & Banga](https://open.spotify.com/artist/36NmS3mln38AYWDoj8CVHN), [Koriz](https://open.spotify.com/artist/2pLjVFjvF73gyjXgOUGKQP), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Bunker](https://open.spotify.com/album/3iAp0bfNx1twpDQOcNRUix) | 2:18 | 2023-07-13 | 2024-05-11 |
+| [Butterfly](https://open.spotify.com/track/1tInwP3gnFnUFGSjy1pjuD) | [Charly Lownoise](https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W), [Komb](https://open.spotify.com/artist/3O5f9vEgwXavGPnB0dQUQc), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Giin](https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB) | [Butterfly](https://open.spotify.com/album/4IJXLpAgLGDrNo6D8opNVS) | 2:55 | 2025-09-18 |  |
 | [By My Side](https://open.spotify.com/track/4mkUtNCK2nGRL7SaeaMivZ) | [Matt Dybal](https://open.spotify.com/artist/4QdIbNe6CEKwlaucgaLnA2), [rymszaK](https://open.spotify.com/artist/1Mq3SPcQ9Bd10YSyp7j36Z), [DVDEK](https://open.spotify.com/artist/5AfiM6JGApf2HVB921bcaD) | [By My Side](https://open.spotify.com/album/5Nt8w7sdBudykOUbElCnxp) | 2:46 | 2024-01-04 | 2024-11-30 |
 | [Call on Me \- Radio Mix](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call on Me \(Radio Mix\)](https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z) | 2:51 | 2023-11-21 |  |
 | [Cambodia](https://open.spotify.com/track/4la0X6BxxFkKI7lFFMx4s4) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Vorwerk](https://open.spotify.com/artist/0JiAaia66Exx0UcsxD4TiC) | [Cambodia](https://open.spotify.com/album/61luiakkDLCHhVZPFq50CT) | 2:46 | 2024-12-17 | 2025-03-13 |

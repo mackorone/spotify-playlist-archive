@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 752020,
+  "num_followers": 752159,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAABj3ToyEdP5pcQ61QnEVQ0U",
+  "snapshot_id": "aMn6AAAAAACBgs01cC7cK6J+aGq6daEZ",
   "tracks": [
     {
       "added_at": null,
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 203760,
-      "name": "Que S\u00ed",
-      "url": "https://open.spotify.com/track/6FOE00lDuzxdmGfJ9501ro"
+      "duration_ms": 249266,
+      "name": "Pa\u2019 D\u00f3nde Se Fue",
+      "url": "https://open.spotify.com/track/2TPZomzhdB7toV3cx0hj08"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 249266,
-      "name": "Pa\u2019 D\u00f3nde Se Fue",
-      "url": "https://open.spotify.com/track/2TPZomzhdB7toV3cx0hj08"
+      "duration_ms": 256773,
+      "name": "Flaco",
+      "url": "https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 256773,
-      "name": "Flaco",
-      "url": "https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb"
+      "duration_ms": 231653,
+      "name": "Primaveral",
+      "url": "https://open.spotify.com/track/1gQxoBZiyLK5hRLLoBg89x"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 231653,
-      "name": "Primaveral",
-      "url": "https://open.spotify.com/track/1gQxoBZiyLK5hRLLoBg89x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1940 Carmen",
         "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
       },
@@ -427,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 243880,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/65mQeg46PBoOzslgpynyzF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SEIS",
         "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 189000,
       "name": "La Mujer",
       "url": "https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 243880,
-      "name": "El Diablo",
-      "url": "https://open.spotify.com/track/65mQeg46PBoOzslgpynyzF"
     },
     {
       "added_at": null,
@@ -499,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tornasol",
-        "url": "https://open.spotify.com/album/7tFRCDcq1MhhKXZJ2VZP6H"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 256540,
-      "name": "Vuelve por Favor",
-      "url": "https://open.spotify.com/track/5j35m0VodPLiRxfG3fmTSP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes \u00c9xitos del Boleroglam, Vol. 2",
         "url": "https://open.spotify.com/album/49k8bx6FKOeKocIRppwnYE"
       },
@@ -531,6 +499,22 @@
       "duration_ms": 242478,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/41SJBO05x4mHd6tuSf9BTZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tornasol",
+        "url": "https://open.spotify.com/album/7tFRCDcq1MhhKXZJ2VZP6H"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 256540,
+      "name": "Vuelve por Favor",
+      "url": "https://open.spotify.com/track/5j35m0VodPLiRxfG3fmTSP"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 166093,
+      "name": "Yo Te Qui",
+      "url": "https://open.spotify.com/track/1i52sh56NRpwyO3qREWMX7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Danza de las Lib\u00e9lulas",
         "url": "https://open.spotify.com/album/7mZmCL8uOUXpA2BASkmn5f"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paisaje Japon\u00e9s",
-        "url": "https://open.spotify.com/album/1h4yooOKEv9XQRhmSG66PX"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Paisaje Japon\u00e9s",
-      "url": "https://open.spotify.com/track/0Yo6IZJ5e4DJFKxlVPtzma"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1940 Carmen",
         "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 215813,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/171EYIdP4psxhF44HtjlLk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paisaje Japon\u00e9s",
+        "url": "https://open.spotify.com/album/1h4yooOKEv9XQRhmSG66PX"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Paisaje Japon\u00e9s",
+      "url": "https://open.spotify.com/track/0Yo6IZJ5e4DJFKxlVPtzma"
     },
     {
       "added_at": null,

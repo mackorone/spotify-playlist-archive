@@ -1,6 +1,6 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 44184,
+  "num_followers": 44228,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 345975,
+      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
+      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 238800,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 345975,
-      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
-      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2020-07-23 21:45:59",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4KqorQ6C7yDXvqgfgGrnvm"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 296333,
-      "name": "People Everyday - Metamorphosis Mix",
-      "url": "https://open.spotify.com/track/5thts3213xwSroRd11fv5A"
-    },
-    {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
         "name": "The Remixes",
         "url": "https://open.spotify.com/album/7GTZRYNB0eAig7UTsb54XG"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 290466,
       "name": "Fantasy (feat. O.D.B.)",
       "url": "https://open.spotify.com/track/2itAOPLerxnnc8KXHMqPWu"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4KqorQ6C7yDXvqgfgGrnvm"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "duration_ms": 296333,
+      "name": "People Everyday - Metamorphosis Mix",
+      "url": "https://open.spotify.com/track/5thts3213xwSroRd11fv5A"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "Funkentelechy Vs. The Placebo Syndrome",
-        "url": "https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd"
-      },
-      "artists": [
-        {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
-        }
-      ],
-      "duration_ms": 346666,
-      "name": "Flash Light",
-      "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
         "name": "Beautifully Human: Words and Sounds Vol. 2",
         "url": "https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 231560,
       "name": "Golden",
       "url": "https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Funkentelechy Vs. The Placebo Syndrome",
+        "url": "https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "duration_ms": 346666,
+      "name": "Flash Light",
+      "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
     },
     {
       "added_at": "2023-06-16 17:58:31",

@@ -278,7 +278,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 172800,
       "name": "Akhirah",
       "url": "https://open.spotify.com/track/12Vl8CoS1ijQF1eJjqnSvS"
@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 195653,
       "name": "Elbe",
       "url": "https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy"
@@ -2904,7 +2904,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 152162,
       "name": "LOVEBOMB",
       "url": "https://open.spotify.com/track/24KU81wN6PtnKs6SXktFHP"
@@ -3002,6 +3002,24 @@
       "duration_ms": 111206,
       "name": "Mach die Augen auf",
       "url": "https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS"
+    },
+    {
+      "album": {
+        "name": "Ich lieb mich, ich lieb mich nicht",
+        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123818,
+      "name": "Malediven",
+      "url": "https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY"
     },
     {
       "album": {
@@ -4149,6 +4167,28 @@
     },
     {
       "album": {
+        "name": "Sch\u00f6ne Dinge",
+        "url": "https://open.spotify.com/album/6ovsDQNSiLosfbEKaGtkKl"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159383,
+      "name": "Sch\u00f6ne Dinge",
+      "url": "https://open.spotify.com/track/5ddeAZkgc1JMI9glEwHAOx"
+    },
+    {
+      "album": {
         "name": "Sehnsucht",
         "url": "https://open.spotify.com/album/0raPoCRve4riLbX1ctCjv3"
       },
@@ -4338,6 +4378,28 @@
       "duration_ms": 134397,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/4hNZx978dxzYQl6TkgIqHP"
+    },
+    {
+      "album": {
+        "name": "Spiegel",
+        "url": "https://open.spotify.com/album/0JvrxYgSYGvkwLhZOfU7Ag"
+      },
+      "artists": [
+        {
+          "name": "DANO",
+          "url": "https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr"
+        },
+        {
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171130,
+      "name": "Spiegel",
+      "url": "https://open.spotify.com/track/6EHPSOkUXafB6YEPnB6vGy"
     },
     {
       "album": {

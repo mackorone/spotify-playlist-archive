@@ -2323,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "Bouc \u00e9missaire",
+        "url": "https://open.spotify.com/album/7IVnrFyT0BIlT9i9m420co"
+      },
+      "artists": [
+        {
+          "name": "Flip",
+          "url": "https://open.spotify.com/artist/0AvGQF1hbRypYmo5TJDwgY"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228988,
+      "name": "Bouc \u00e9missaire",
+      "url": "https://open.spotify.com/track/6E8ztfHvuTix06z3KlNZB6"
+    },
+    {
+      "album": {
         "name": "Boucle d'or",
         "url": "https://open.spotify.com/album/2JyabdWBZovF3bbpliYlP0"
       },

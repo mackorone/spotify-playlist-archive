@@ -1,6 +1,6 @@
 {
   "description": "Diese Beats machen garantiert gute Laune!",
-  "num_followers": 1350597,
+  "num_followers": 1350616,
   "original_name": "Happy Dance",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,38 @@
     {
       "added_at": "2025-08-21 22:00:28",
       "album": {
+        "name": "Addicted (feat. TIMID.)",
+        "url": "https://open.spotify.com/album/1g3CRfapU2HVFs1QK6jNAs"
+      },
+      "artists": [
+        {
+          "name": "Naarly",
+          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
+        },
+        {
+          "name": "Daytona",
+          "url": "https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC"
+        },
+        {
+          "name": "LEWS",
+          "url": "https://open.spotify.com/artist/25tLh0UFb4VoF3Oe8C8vuL"
+        },
+        {
+          "name": "FIRSTCLASS",
+          "url": "https://open.spotify.com/artist/1WM31JXTIDvyaQXFkNoWVK"
+        },
+        {
+          "name": "TIMID.",
+          "url": "https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Addicted (feat. TIMID.)",
+      "url": "https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE"
+    },
+    {
+      "added_at": "2025-08-21 22:00:28",
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
       },
@@ -367,38 +399,6 @@
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
-    },
-    {
-      "added_at": "2025-08-21 22:00:28",
-      "album": {
-        "name": "Addicted (feat. TIMID.)",
-        "url": "https://open.spotify.com/album/1g3CRfapU2HVFs1QK6jNAs"
-      },
-      "artists": [
-        {
-          "name": "Naarly",
-          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
-        },
-        {
-          "name": "Daytona",
-          "url": "https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC"
-        },
-        {
-          "name": "LEWS",
-          "url": "https://open.spotify.com/artist/25tLh0UFb4VoF3Oe8C8vuL"
-        },
-        {
-          "name": "FIRSTCLASS",
-          "url": "https://open.spotify.com/artist/1WM31JXTIDvyaQXFkNoWVK"
-        },
-        {
-          "name": "TIMID.",
-          "url": "https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Addicted (feat. TIMID.)",
-      "url": "https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE"
     },
     {
       "added_at": "2025-08-21 22:00:28",
@@ -563,26 +563,6 @@
     {
       "added_at": "2025-08-21 22:00:28",
       "album": {
-        "name": "SURRENDER",
-        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 208135,
-      "name": "Mwaki",
-      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
-    },
-    {
-      "added_at": "2025-08-21 22:00:28",
-      "album": {
         "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
         "url": "https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 120578,
       "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
       "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"
+    },
+    {
+      "added_at": "2025-08-21 22:00:28",
+      "album": {
+        "name": "SURRENDER",
+        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 208135,
+      "name": "Mwaki",
+      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
     },
     {
       "added_at": "2025-08-21 22:00:28",

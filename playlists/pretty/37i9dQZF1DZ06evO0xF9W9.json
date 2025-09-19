@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAAD5m4SYjmYrEUMxBggfxrpM",
+  "snapshot_id": "aMn6AAAAAADGSD5EI6Gz9q9OaJ+rR7hJ",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actua",
-        "url": "https://open.spotify.com/album/59Ii7JcTRINr6G3iVsmo3b"
+        "name": "CHARTiANDO",
+        "url": "https://open.spotify.com/album/0vriCqEMGkaIbDamRDi7MG"
       },
       "artists": [
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
         {
           "name": "Engel Montaz",
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         },
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+          "name": "Diamond la Mafia",
+          "url": "https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Actua",
-      "url": "https://open.spotify.com/track/2fzkeMoZGcbomhMAfovg21"
+      "duration_ms": 172198,
+      "name": "CHARTiANDO",
+      "url": "https://open.spotify.com/track/6nl1So5HXqWRuNwBrjafow"
     },
     {
       "added_at": null,
@@ -123,26 +127,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARTiANDO",
-        "url": "https://open.spotify.com/album/0vriCqEMGkaIbDamRDi7MG"
+        "name": "Actua",
+        "url": "https://open.spotify.com/album/59Ii7JcTRINr6G3iVsmo3b"
       },
       "artists": [
-        {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
-        },
         {
           "name": "Engel Montaz",
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
         },
         {
-          "name": "Diamond la Mafia",
-          "url": "https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX"
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
         }
       ],
-      "duration_ms": 172198,
-      "name": "CHARTiANDO",
-      "url": "https://open.spotify.com/track/6nl1So5HXqWRuNwBrjafow"
+      "duration_ms": 238000,
+      "name": "Actua",
+      "url": "https://open.spotify.com/track/2fzkeMoZGcbomhMAfovg21"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruta",
-        "url": "https://open.spotify.com/album/53rI2kESC0eAG3jkVfFS5I"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 150508,
-      "name": "Ruta",
-      "url": "https://open.spotify.com/track/6yToupHMF7KRbAthyR5POJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quedate (Live)",
         "url": "https://open.spotify.com/album/0VM1G9J7kPpcxaHJ5SPWPi"
       },
@@ -515,6 +499,42 @@
       "duration_ms": 210333,
       "name": "Quedate - Live",
       "url": "https://open.spotify.com/track/2tOYbLXrwEKCVwTNYBupYc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kikito & Ruta (En Vivo)",
+        "url": "https://open.spotify.com/album/4HdZnedk7RxUPB3YbtEgDs"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Dj Nanow",
+          "url": "https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz"
+        }
+      ],
+      "duration_ms": 254420,
+      "name": "Kikito y Ruta - En Vivo",
+      "url": "https://open.spotify.com/track/4lSM2qqZnyMe77wgqEoyfY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruta",
+        "url": "https://open.spotify.com/album/53rI2kESC0eAG3jkVfFS5I"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "Ruta",
+      "url": "https://open.spotify.com/track/6yToupHMF7KRbAthyR5POJ"
     },
     {
       "added_at": null,
@@ -559,26 +579,6 @@
       "duration_ms": 198231,
       "name": "Olvidando el pasado",
       "url": "https://open.spotify.com/track/4W4GNgS2O0YbrkXsTdkBVa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kikito & Ruta (En Vivo)",
-        "url": "https://open.spotify.com/album/4HdZnedk7RxUPB3YbtEgDs"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Dj Nanow",
-          "url": "https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz"
-        }
-      ],
-      "duration_ms": 254420,
-      "name": "Kikito y Ruta - En Vivo",
-      "url": "https://open.spotify.com/track/4lSM2qqZnyMe77wgqEoyfY"
     },
     {
       "added_at": null,

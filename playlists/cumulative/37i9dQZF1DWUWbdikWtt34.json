@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Mansyur S",
+  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah, Avolia",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -2167,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "Kuda Betina",
+        "url": "https://open.spotify.com/album/57I4jrhMIfAhZCzr7Df4Mx"
+      },
+      "artists": [
+        {
+          "name": "Mansyur S",
+          "url": "https://open.spotify.com/artist/4uq6QLz8nA9LAj01MDk58W"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "Kuda Betina",
+      "url": "https://open.spotify.com/track/7nGcHOBsZf7FQSPOTr2lie"
+    },
+    {
+      "album": {
         "name": "Kulepas Dengan Ikhlas",
         "url": "https://open.spotify.com/album/26nVfbBouNRMtdDOCn3Zq0"
       },
@@ -4246,6 +4264,28 @@
       "duration_ms": 247789,
       "name": "Tak Halu Lagi",
       "url": "https://open.spotify.com/track/78u16742DkFCGnGjYXzgoH"
+    },
+    {
+      "album": {
+        "name": "Tak Halu Lagi (Acoustic)",
+        "url": "https://open.spotify.com/album/0x81GpNQND6hkbzTvUNy8m"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        },
+        {
+          "name": "Avolia",
+          "url": "https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223628,
+      "name": "Tak Halu Lagi - Acoustic",
+      "url": "https://open.spotify.com/track/1ixhjnRdA3QUt9o5iRXI4i"
     },
     {
       "album": {

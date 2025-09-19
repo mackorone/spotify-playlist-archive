@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > Celebrate 1000 RADAR artists by listening to some of the top most streamed RADAR artists from the USA! Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,704 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,695 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

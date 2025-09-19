@@ -2,9 +2,9 @@
 
 ### [Habibi Gang Gang](https://open.spotify.com/playlist/37i9dQZF1DX3MGdnF1V53j)
 
-> Oualid on the cover of Habibi Gang Gang
+> DYSTINCT and Mustafa Al Abdullah on the cover of Habibi Gang Gang
 
-176 songs - 8 hr 21 min
+177 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Désolé](https://open.spotify.com/track/0c8VtydzWlEQb1VHc6r2RE) | [Enesse](https://open.spotify.com/artist/2QTqRHL8uDkArhkDvnKJFu) | [Désolé](https://open.spotify.com/album/6uFV2okOdJ8t4Y3wI6GKgx) | 3:20 | 2024-09-26 | 2024-10-09 |
 | [El 7ob Sa3b](https://open.spotify.com/track/4MN8tKKz1Sld1OhJPemc5G) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA), [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [El 7ob Sa3b](https://open.spotify.com/album/2G28Q9Sn9WWgPFuCd5fWU8) | 2:22 | 2024-02-29 | 2025-05-09 |
 | [ELISA](https://open.spotify.com/track/0pwDMVFGtlwSAP7SUw0yPW) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [ELISA](https://open.spotify.com/album/4t5cJtdXcgHQ5HlOd5anzr) | 2:44 | 2024-09-19 | 2025-05-21 |
-| [Ensay](https://open.spotify.com/track/66Kb1uA4cIUeUbEL3SR2Rs) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Ensay](https://open.spotify.com/album/3FXPwcGyoHMfqur3X6twlx) | 3:01 | 2025-05-01 |  |
+| [Ensay](https://open.spotify.com/track/66Kb1uA4cIUeUbEL3SR2Rs) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Ensay](https://open.spotify.com/album/3FXPwcGyoHMfqur3X6twlx) | 3:01 | 2025-05-01 | 2025-09-19 |
 | [Enty M3aya](https://open.spotify.com/track/1BTaGDF0XgDZ54TRdZvbiF) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA), [EMAGE](https://open.spotify.com/artist/3dHbnberWSCpLL2wOvGBYc) | [Enty M3aya](https://open.spotify.com/album/1QNQ3ecHVDs9oh69iZfbC4) | 2:45 | 2024-02-29 |  |
 | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe) | [SKY](https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp) | 3:03 | 2024-09-19 |  |
 | [Gana \(feat\. Hatim Ammor\)](https://open.spotify.com/track/25iWrs0J2F9hqUJV8tnNxP) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:12 | 2024-02-29 | 2024-06-28 |
@@ -116,7 +116,7 @@
 | [Mosh 3adi](https://open.spotify.com/track/1jNzwYwwtJ7ifSGK1t2VBA) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Mosh 3adi](https://open.spotify.com/album/4Fh81sZYgukF7Hu6Y6Yy7Q) | 2:34 | 2025-06-05 | 2025-07-11 |
 | [Moulaga](https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Moulaga](https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J) | 2:59 | 2024-02-29 | 2025-09-10 |
 | [Moutou Bsem](https://open.spotify.com/track/4xyMI0k4zyWXN8oNui3Xhg) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Moutou Bsem](https://open.spotify.com/album/6anhHh6CZ2YqX3d9Sz11BA) | 2:30 | 2024-07-18 |  |
-| [Météo](https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Météo](https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J) | 3:02 | 2024-02-29 | 2025-09-11 |
+| [Météo](https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Météo](https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J) | 3:02 | 2024-02-29 |  |
 | [Namek](https://open.spotify.com/track/27axiMYaZu77nF45ogoTTy) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Namek](https://open.spotify.com/album/1VCr5EN02r1K83Mi8vwRO7) | 3:06 | 2024-02-29 | 2025-06-27 |
 | [Niks Persoonlijks](https://open.spotify.com/track/7bxFIHG0ULALzcupONGVWc) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Niks Persoonlijks](https://open.spotify.com/album/4Eyx66Hc6RfGpCw59BhbqH) | 2:42 | 2024-02-29 |  |
 | [Niños Pequeños](https://open.spotify.com/track/3W2JCHBZtLkJs2BtMPBz7g) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Niños Pequeños](https://open.spotify.com/album/58KEzwxGgV6XxpO0Rt1bXV) | 4:17 | 2024-02-29 | 2024-06-28 |
@@ -147,7 +147,8 @@
 | [Sbabi](https://open.spotify.com/track/7ptXsiOZ38WKdOiWjj4Va6) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Sbabi](https://open.spotify.com/album/4tunxQYd61Q41HQjo0qbc3) | 3:14 | 2024-02-29 | 2025-02-14 |
 | [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 | 2024-02-29 |  |
 | [Seya](https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Seya](https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw) | 3:08 | 2024-02-29 | 2025-08-08 |
-| [SHAKUMAKU](https://open.spotify.com/track/2iWnm3VI8sgZhAqOPHaBAJ) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 2:01 | 2025-06-12 |  |
+| [SHAKO MAKO](https://open.spotify.com/track/2eU8ChhO5OqUHKHsa6hnfs) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu) | [BABABA WORLD](https://open.spotify.com/album/1m62N99DJ1zwuRrUkPW5VC) | 2:17 | 2025-09-18 |  |
+| [SHAKUMAKU](https://open.spotify.com/track/2iWnm3VI8sgZhAqOPHaBAJ) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 2:01 | 2025-06-12 | 2025-09-19 |
 | [SI NO ERES TÚ](https://open.spotify.com/track/1ggeoBAlUPhDYAQxh8UEkr) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [EL TIBURÓN](https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3) | 3:25 | 2024-05-31 | 2025-04-26 |
 | [Sokkar](https://open.spotify.com/track/22MZ14wFJ0DQUAaRy50uEW) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Sokkar](https://open.spotify.com/album/6LufOTjtT03JshmT4eT7np) | 3:08 | 2024-02-29 | 2025-05-09 |
 | [Solo \(feat\. Tayc\)](https://open.spotify.com/track/1TE1TZ7qOLVAcbKh15sxOi) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Solo \(feat\. Tayc\)](https://open.spotify.com/album/4KUc3hsO1GIJ6y8idURzhj) | 2:59 | 2024-02-29 | 2025-05-09 |

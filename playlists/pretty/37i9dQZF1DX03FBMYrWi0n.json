@@ -1,29 +1,13 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Population II",
-  "num_followers": 6965,
+  "num_followers": 6974,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAVdf/xMrsTPE+hqGdlhbD87fU9X",
+  "snapshot_id": "AAAAAFzMzDzy15sjUN2C843herKeccxV",
   "tracks": [
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
-        "name": "La Trippance",
-        "url": "https://open.spotify.com/album/7fMWbdtBBm6NAZ45d6PBUi"
-      },
-      "artists": [
-        {
-          "name": "Population II",
-          "url": "https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd"
-        }
-      ],
-      "duration_ms": 215014,
-      "name": "La Trippance",
-      "url": "https://open.spotify.com/track/6oGYqLbC0iKvWdPPvaOe7L"
-    },
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
@@ -41,20 +25,36 @@
       "url": "https://open.spotify.com/track/2l8apbCCTwY4XpAjR57JW8"
     },
     {
-      "added_at": "2025-07-18 04:00:28",
+      "added_at": "2025-09-19 00:07:39",
       "album": {
-        "name": "Contre-sens",
-        "url": "https://open.spotify.com/album/5MAMi2WRJ9ILrs5JeWPqOX"
+        "name": "GODDAMN!",
+        "url": "https://open.spotify.com/album/49saxIwgOAHKizgWK5E8TD"
       },
       "artists": [
         {
-          "name": "Fleur de Peau",
-          "url": "https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi"
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
         }
       ],
-      "duration_ms": 233026,
-      "name": "Boys Will Be Boys",
-      "url": "https://open.spotify.com/track/4WJspkXNat2ntN7jJhW0jw"
+      "duration_ms": 247468,
+      "name": "GODDAMN!",
+      "url": "https://open.spotify.com/track/4LlIM1MXl0o0waT1ky2c11"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
+        "name": "La Trippance",
+        "url": "https://open.spotify.com/album/7fMWbdtBBm6NAZ45d6PBUi"
+      },
+      "artists": [
+        {
+          "name": "Population II",
+          "url": "https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd"
+        }
+      ],
+      "duration_ms": 215014,
+      "name": "La Trippance",
+      "url": "https://open.spotify.com/track/6oGYqLbC0iKvWdPPvaOe7L"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -517,6 +517,54 @@
       "url": "https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw"
     },
     {
+      "added_at": "2025-09-11 20:55:25",
+      "album": {
+        "name": "LUCKY8",
+        "url": "https://open.spotify.com/album/6f0pLMVbyBpdDpxQmE9DA4"
+      },
+      "artists": [
+        {
+          "name": "Ribbon Skirt",
+          "url": "https://open.spotify.com/artist/4Ymrgi3r6TZQwmBSp3jBca"
+        }
+      ],
+      "duration_ms": 166765,
+      "name": "LUCKY8",
+      "url": "https://open.spotify.com/track/2iV2aeAY52wxUdkZHk3DNC"
+    },
+    {
+      "added_at": "2025-09-11 20:55:25",
+      "album": {
+        "name": "Soupe aux pois",
+        "url": "https://open.spotify.com/album/3GjGbqJTgznhyTkkeLDktd"
+      },
+      "artists": [
+        {
+          "name": "Vendou",
+          "url": "https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG"
+        }
+      ],
+      "duration_ms": 150630,
+      "name": "Soupe aux pois",
+      "url": "https://open.spotify.com/track/5kFaKzDFEJBYGMC27oio34"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
+        "name": "Darl\u00e8ne",
+        "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "duration_ms": 145936,
+      "name": "Ton h\u00f4tel",
+      "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
+    },
+    {
       "added_at": "2025-07-18 04:00:28",
       "album": {
         "name": "Renaissance",
@@ -551,38 +599,6 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "Darl\u00e8ne",
-        "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
-      },
-      "artists": [
-        {
-          "name": "Hubert Lenoir",
-          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
-        }
-      ],
-      "duration_ms": 145936,
-      "name": "Ton h\u00f4tel",
-      "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
-    },
-    {
-      "added_at": "2025-09-11 20:55:25",
-      "album": {
-        "name": "LUCKY8",
-        "url": "https://open.spotify.com/album/6f0pLMVbyBpdDpxQmE9DA4"
-      },
-      "artists": [
-        {
-          "name": "Ribbon Skirt",
-          "url": "https://open.spotify.com/artist/4Ymrgi3r6TZQwmBSp3jBca"
-        }
-      ],
-      "duration_ms": 166765,
-      "name": "LUCKY8",
-      "url": "https://open.spotify.com/track/2iV2aeAY52wxUdkZHk3DNC"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
         "name": "We Are Sunshine",
         "url": "https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV"
       },
@@ -595,38 +611,6 @@
       "duration_ms": 195000,
       "name": "The Rabbit Song",
       "url": "https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D"
-    },
-    {
-      "added_at": "2025-09-11 20:55:25",
-      "album": {
-        "name": "Soupe aux pois",
-        "url": "https://open.spotify.com/album/3GjGbqJTgznhyTkkeLDktd"
-      },
-      "artists": [
-        {
-          "name": "Vendou",
-          "url": "https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG"
-        }
-      ],
-      "duration_ms": 150630,
-      "name": "Soupe aux pois",
-      "url": "https://open.spotify.com/track/5kFaKzDFEJBYGMC27oio34"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
-        "name": "Fleur de l'\u00c2ge",
-        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        }
-      ],
-      "duration_ms": 202996,
-      "name": "Shoegaze",
-      "url": "https://open.spotify.com/track/6t5COdf65qd8igj588vkET"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -679,6 +663,22 @@
       "duration_ms": 253546,
       "name": "La vie attend pas",
       "url": "https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
+        "name": "Fleur de l'\u00c2ge",
+        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
+      },
+      "artists": [
+        {
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
+        }
+      ],
+      "duration_ms": 202996,
+      "name": "Shoegaze",
+      "url": "https://open.spotify.com/track/6t5COdf65qd8igj588vkET"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
-      },
-      "artists": [
-        {
-          "name": "ALIAS",
-          "url": "https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w"
-        }
-      ],
-      "duration_ms": 131015,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
         "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
         "url": "https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
+      },
+      "artists": [
+        {
+          "name": "ALIAS",
+          "url": "https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w"
+        }
+      ],
+      "duration_ms": 131015,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
         "name": "Supermercado",
         "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "Depuis",
-        "url": "https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va"
-      },
-      "artists": [
-        {
-          "name": "Lydia K\u00e9pinski",
-          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
-        }
-      ],
-      "duration_ms": 293200,
-      "name": "Depuis",
-      "url": "https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
         "name": "GOOD LUCK",
         "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 202986,
       "name": "WHAT A MAN",
       "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
+        "name": "Depuis",
+        "url": "https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va"
+      },
+      "artists": [
+        {
+          "name": "Lydia K\u00e9pinski",
+          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
+        }
+      ],
+      "duration_ms": 293200,
+      "name": "Depuis",
+      "url": "https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "Ketchup",
-        "url": "https://open.spotify.com/album/3Rc9SpfmAFy661xFZRZXKY"
-      },
-      "artists": [
-        {
-          "name": "La S\u00e9curit\u00e9",
-          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Ketchup",
-      "url": "https://open.spotify.com/track/1l6JgsaeYbtEE5eE5COasN"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
         "name": "Les gens qu'on aime",
         "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
+        "name": "Ketchup",
+        "url": "https://open.spotify.com/album/3Rc9SpfmAFy661xFZRZXKY"
+      },
+      "artists": [
+        {
+          "name": "La S\u00e9curit\u00e9",
+          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Ketchup",
+      "url": "https://open.spotify.com/track/1l6JgsaeYbtEE5eE5COasN"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
         "name": "Tu ne mourras pas",
         "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 146000,
       "name": "N'importe O\u00f9 Sauf Ici",
       "url": "https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
+        "name": "Contre-sens",
+        "url": "https://open.spotify.com/album/5MAMi2WRJ9ILrs5JeWPqOX"
+      },
+      "artists": [
+        {
+          "name": "Fleur de Peau",
+          "url": "https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Boys Will Be Boys",
+      "url": "https://open.spotify.com/track/4WJspkXNat2ntN7jJhW0jw"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "L\u00e9o",
-        "url": "https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag"
-      },
-      "artists": [
-        {
-          "name": "Alex Pic",
-          "url": "https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "L\u00e9o",
-      "url": "https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
         "name": "Une autre vie",
         "url": "https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z"
       },
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
+        "name": "L\u00e9o",
+        "url": "https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag"
+      },
+      "artists": [
+        {
+          "name": "Alex Pic",
+          "url": "https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "L\u00e9o",
+      "url": "https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
         "name": "Totalement Sublime",
         "url": "https://open.spotify.com/album/6MQXmQjOXqN47I1y3172Td"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 243950,
       "name": "OMG (oiseau)",
       "url": "https://open.spotify.com/track/6TqUAXAPivrpuJcmJDzeqD"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
-        "name": "Soleil '96",
-        "url": "https://open.spotify.com/album/6gybIPCRMEkBMEfOhnziWE"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "Carte du ciel",
-      "url": "https://open.spotify.com/track/57nLBQ5B7m20grJpimsQyv"
     }
   ],
   "unique_name": "ALT_QC",

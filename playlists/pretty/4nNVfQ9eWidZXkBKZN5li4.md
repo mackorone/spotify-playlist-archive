@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4nNVfQ9eWidZXkBKZN5li4.md) - [plain]
 
 > Groove to Desi chart\-toppers and Bollywood’s top TikTok hits &amp; Reels Anthems —featuring Arijit Singh, Badshah, AP Dhillon, Shreya Ghoshal, Neha Kakkar, Sunidhi Chauhan, A.R\. Rahman, Pritam, and Tanishk Bagchi!
 
-[Filtr India](https://open.spotify.com/user/filtrindia) - 227,582 likes - 92 songs - 5 hr 57 min
+[Filtr India](https://open.spotify.com/user/filtrindia) - 227,654 likes - 92 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -72,7 +72,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 185875,
       "name": "Agora Que Eu Quero Ver",
       "url": "https://open.spotify.com/track/1RShRN08PjU20gFysZQDDX"
@@ -108,7 +108,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 202069,
       "name": "Asas",
       "url": "https://open.spotify.com/track/33gruk3ZuMKP1t2gHwgmBa"
@@ -395,6 +395,32 @@
     },
     {
       "album": {
+        "name": "A Linha T\u00eanue",
+        "url": "https://open.spotify.com/album/5U0BpcKOs2wPJlxIdLsN9A"
+      },
+      "artists": [
+        {
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Da Sul pro Mundo",
+      "url": "https://open.spotify.com/track/03Udd4NjEl28jB3v8IyXc4"
+    },
+    {
+      "album": {
         "name": "Mundo (Remix)",
         "url": "https://open.spotify.com/album/2b01sgh392nbjoeQSgKydA"
       },
@@ -652,7 +678,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 235893,
       "name": "Flor Laranja",
       "url": "https://open.spotify.com/track/4Oct09kM0spNmbowmgmjE4"

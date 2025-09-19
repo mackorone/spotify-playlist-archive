@@ -2,9 +2,9 @@
 
 ### [yearning](https://open.spotify.com/playlist/37i9dQZF1DX1BGjF5N5O7F)
 
-> I thought you knew
+> we'll always have summer
 
-225 songs - 14 hr 45 min
+227 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [It Will Come Back](https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:37 | 2021-03-19 | 2022-11-13 |
 | [It Will Come Back](https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:37 | 2021-03-19 | 2024-04-19 |
 | [It Will Come Back](https://open.spotify.com/track/5gjZh6EklKm0Hug9fEZWal) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH) | 4:37 | 2021-03-19 | 2025-08-26 |
+| [Je te laisserai des mots](https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/1R6MIxBiQensgzDlDes0yT) | 2:40 | 2025-09-18 |  |
 | [Know You Better](https://open.spotify.com/track/03Yo5FRYVfTB2EuiyOmHLe) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:09 | 2021-03-19 | 2024-04-19 |
 | [Know You Better](https://open.spotify.com/track/1RBskSlyrCjfxP8zq0g14d) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe\)](https://open.spotify.com/album/7se2Nu0q1AN3VwnKmdeliw) | 4:09 | 2021-03-19 | 2022-07-29 |
 | [Krystal](https://open.spotify.com/track/5JJPfHpByZ66XsEyCNVi2p) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Krystal](https://open.spotify.com/album/0DMKZZanrzK36YjFyI5nfF) | 3:40 | 2025-08-25 |  |
@@ -157,6 +158,7 @@
 | [Sailor Song](https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:31 | 2025-08-29 |  |
 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 | 2021-03-19 | 2025-03-08 |
 | [Sci\-fi Silence](https://open.spotify.com/track/2Jyp0oNfjtotPIioFwPD5K) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK) | 6:38 | 2025-08-25 |  |
+| [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 | 2025-09-18 |  |
 | [Scott Street](https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 5:05 | 2025-08-25 |  |
 | [Sex & Rage](https://open.spotify.com/track/7jv1PP8qBwHjEx8GQhhsCz) | [Chaparelle](https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8), [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6), [Jesse Woods](https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei) | [Sex & Rage](https://open.spotify.com/album/1JdVm6awAfqiS8SPDpRf2S) | 3:13 | 2025-01-13 | 2025-04-01 |
 | [Shake the Frost \(Live\)](https://open.spotify.com/track/19MkwMrRjO7773zpuGss1o) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Live on Red Barn Radio I & II](https://open.spotify.com/album/7lf0m3iNU59X4r8udCQcB6) | 2:55 | 2025-08-25 |  |

@@ -2,9 +2,9 @@
 
 ### [peach](https://open.spotify.com/playlist/37i9dQZF1DWW1ht9f3cW7m)
 
-> freshly squeezed 🧹 daydreamers
+> freshly squeezed indie pop 🧹 mustbejohn
 
-373 songs - 20 hr 8 min
+374 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [New Love](https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:52 | 2024-06-14 | 2025-01-24 |
 | [Nothing Compares To Nineteen](https://open.spotify.com/track/7GQwcstzhZd6GNFp0LJqEt) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [Nothing Compares To Nineteen](https://open.spotify.com/album/3aiDUv877OWq4i6t9jI9cD) | 2:48 | 2024-09-20 | 2025-02-15 |
 | [Now That I Know You](https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Now That I Know You](https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7) | 3:46 | 2024-06-14 | 2025-04-13 |
-| [obsessed](https://open.spotify.com/track/6zF29Iu1GqeFrQT8QsInld) | [Harvey Brittain](https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP) | [my heart keeps score](https://open.spotify.com/album/0ox7VcYAkZpIRckI8sc6Z3) | 3:05 | 2025-06-26 |  |
+| [obsessed](https://open.spotify.com/track/6zF29Iu1GqeFrQT8QsInld) | [Harvey Brittain](https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP) | [my heart keeps score](https://open.spotify.com/album/0ox7VcYAkZpIRckI8sc6Z3) | 3:05 | 2025-06-26 | 2025-09-19 |
 | [Old Home](https://open.spotify.com/track/5LaCkGXKwY5YeHCGeOfI16) | [beaux](https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj) | [Old Home](https://open.spotify.com/album/1EDYxnUim8ALq8hs0tvLmW) | 3:03 | 2024-07-12 | 2024-09-21 |
 | [One More Night](https://open.spotify.com/track/25U7mv53Dbe3JzzDcSrTPB) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [One More Night](https://open.spotify.com/album/1Rveuvo2p2tNinGgfSEW3w) | 3:10 | 2024-06-14 | 2024-07-13 |
 | [Pacemaker](https://open.spotify.com/track/3KkoTGEnBJY07r1atEBxbe) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [Pacemaker](https://open.spotify.com/album/620asHETGznhXwYUUFP3TB) | 3:09 | 2025-05-01 | 2025-08-01 |
@@ -340,6 +340,7 @@
 | [to be free](https://open.spotify.com/track/2f526wBHCGx6u6HsbF0uAE) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [to be free](https://open.spotify.com/album/12i8HQPqFmEO1cBqhF26fI) | 3:50 | 2025-01-24 | 2025-05-16 |
 | [Too Far Gone](https://open.spotify.com/track/5F9T5JsuTugogBqM1rHCvG) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Too Far Gone](https://open.spotify.com/album/2KCorvQcuU6SwQcQVcV7kk) | 3:05 | 2025-01-24 | 2025-05-02 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-06-27 |
+| [Track 2](https://open.spotify.com/track/02kDT0zis0OkjpstQE4smc) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-18 |  |
 | [trouble](https://open.spotify.com/track/4tRUbPTB8CpQqPPW4zVs1P) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [trouble](https://open.spotify.com/album/2iEZpstaXItfUJTlaXTWNE) | 3:08 | 2024-06-14 | 2024-07-13 |
 | [Tulips](https://open.spotify.com/track/2mBbN7mMoWJXduE6T9xuZB) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Tulips](https://open.spotify.com/album/6EXK2krpifmLZZhJVlEgbv) | 3:18 | 2024-06-14 | 2024-07-13 |
 | [TV Show](https://open.spotify.com/track/1z7bP3RDABUmcONZNAnxN3) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [TV Show](https://open.spotify.com/album/758tMDw0wXQKLlhmbTErqI) | 3:17 | 2025-06-12 | 2025-08-15 |

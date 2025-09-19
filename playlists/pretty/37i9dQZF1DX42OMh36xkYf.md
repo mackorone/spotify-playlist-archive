@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Oh'laville y Fer Casillas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,099 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,107 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 11 | [DECIR ADIOS "OYE NARRADOR" \(with Cuco\)](https://open.spotify.com/track/4AZrS6z6r4T7vpBRE7doUG) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Cuco](https://open.spotify.com/artist/2uEzrLeDsui4CXSdelYFBf) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:48 |
 | 12 | [DUMBAI](https://open.spotify.com/track/2Fi6RtngvStwsjskvwabVT) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:28 |
 | 13 | [por la pequeña Venecia](https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 3:02 |
-| 14 | [krav magá](https://open.spotify.com/track/5pzUVpoeLEiTtLcVJ3KR4r) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [piel / krav magá](https://open.spotify.com/album/0u8wiHNdWYH3K2HMB5faeO) | 3:50 |
+| 14 | [kombate](https://open.spotify.com/track/5pzUVpoeLEiTtLcVJ3KR4r) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [piel / kombate](https://open.spotify.com/album/0u8wiHNdWYH3K2HMB5faeO) | 3:50 |
 | 15 | [Ladrona](https://open.spotify.com/track/2exqtw1dxXaOhhlvG2PTMc) | [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC) | [Ladrona](https://open.spotify.com/album/4xciG2FHH3NM9UE1lCiFMY) | 2:07 |
 | 16 | [Me Vuelvo Del DIM](https://open.spotify.com/track/4D4QeJRcuThO84Yg1Yu4Tf) | [Sa!koro](https://open.spotify.com/artist/6LNkIoneVxdu31qUNsfRwa), [Milanezie](https://open.spotify.com/artist/6xcD5pcEiRobg9IXphHa5L) | [GRACIAS SA!KO](https://open.spotify.com/album/500MFNZFFYYlyfd8VJZcnT) | 2:18 |
 | 17 | [El Triste](https://open.spotify.com/track/0u7u1vVxQHagcqOK1lANhL) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [El Triste](https://open.spotify.com/album/6ZvocIvlt006fUlDF1d7Nq) | 4:45 |

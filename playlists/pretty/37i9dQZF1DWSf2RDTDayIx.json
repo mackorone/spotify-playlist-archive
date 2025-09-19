@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2447381,
+  "num_followers": 2447458,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -919,26 +919,6 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
-        "name": "Beat Of Your Heart",
-        "url": "https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 209186,
-      "name": "Beat Of Your Heart",
-      "url": "https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr"
-    },
-    {
-      "added_at": "2025-09-05 16:00:10",
-      "album": {
         "name": "Woke Up in Love",
         "url": "https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 216873,
       "name": "Woke Up in Love",
       "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
+    },
+    {
+      "added_at": "2025-09-05 16:00:10",
+      "album": {
+        "name": "Beat Of Your Heart",
+        "url": "https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "Beat Of Your Heart",
+      "url": "https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr"
     },
     {
       "added_at": "2025-09-05 16:00:10",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
+        "name": "START UP A RUMOUR",
+        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 200351,
+      "name": "START UP A RUMOUR",
+      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
+    },
+    {
+      "added_at": "2025-09-05 16:00:10",
+      "album": {
         "name": "Stewpid",
         "url": "https://open.spotify.com/album/45VtC7hbjqdnloYG2e8jO4"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 161068,
       "name": "Stewpid",
       "url": "https://open.spotify.com/track/4ZCs1ZodLShvfhYLDrJExa"
-    },
-    {
-      "added_at": "2025-09-05 16:00:10",
-      "album": {
-        "name": "START UP A RUMOUR",
-        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 200351,
-      "name": "START UP A RUMOUR",
-      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
     },
     {
       "added_at": "2025-09-05 16:00:10",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
-        "name": "Saving It All",
-        "url": "https://open.spotify.com/album/3wwmoi3CiDSRJCPivgRZkV"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        },
-        {
-          "name": "Angel Janson",
-          "url": "https://open.spotify.com/artist/5nycUaruL25aOGh6M1kmSz"
-        }
-      ],
-      "duration_ms": 186268,
-      "name": "Saving It All",
-      "url": "https://open.spotify.com/track/2D15cl0pYVNkKWwLCMdzK8"
-    },
-    {
-      "added_at": "2025-09-05 16:00:10",
-      "album": {
         "name": "TANZPARTEI II (Mixtape)",
         "url": "https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 177167,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/3lx9HS7No2pTJxPZRgdPdX"
+    },
+    {
+      "added_at": "2025-09-05 16:00:10",
+      "album": {
+        "name": "Saving It All",
+        "url": "https://open.spotify.com/album/3wwmoi3CiDSRJCPivgRZkV"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "Angel Janson",
+          "url": "https://open.spotify.com/artist/5nycUaruL25aOGh6M1kmSz"
+        }
+      ],
+      "duration_ms": 186268,
+      "name": "Saving It All",
+      "url": "https://open.spotify.com/track/2D15cl0pYVNkKWwLCMdzK8"
     },
     {
       "added_at": "2025-09-05 16:00:10",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
-    },
-    {
-      "added_at": "2025-09-05 16:00:10",
-      "album": {
         "name": "Lost In Music",
         "url": "https://open.spotify.com/album/51da1nUSWtm7kA6JZuu6lT"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 210929,
       "name": "Lost In Music",
       "url": "https://open.spotify.com/track/7FUKSjbSp3GrEEPTmj5e5R"
+    },
+    {
+      "added_at": "2025-09-05 16:00:10",
+      "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
     },
     {
       "added_at": "2025-09-05 16:00:10",
@@ -2027,6 +2027,22 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/56f1MFjf3qnA3OQSqS0017"
+      },
+      "artists": [
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "duration_ms": 285786,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM"
+    },
+    {
+      "added_at": "2025-09-05 16:00:10",
+      "album": {
         "name": "heaven in your arms",
         "url": "https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n"
       },
@@ -2043,22 +2059,6 @@
       "duration_ms": 248415,
       "name": "heaven in your arms",
       "url": "https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi"
-    },
-    {
-      "added_at": "2025-09-05 16:00:10",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/56f1MFjf3qnA3OQSqS0017"
-      },
-      "artists": [
-        {
-          "name": "Luuk Van Dijk",
-          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
-        }
-      ],
-      "duration_ms": 285786,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM"
     },
     {
       "added_at": "2025-09-05 16:00:10",
@@ -2275,26 +2275,6 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/6jXFSUgmXl8qAZEIPChYcE"
-      },
-      "artists": [
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        },
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 167104,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/6E36ezapy6yorkh8UbNO65"
-    },
-    {
-      "added_at": "2025-09-05 16:00:10",
-      "album": {
         "name": "Life's Too Short",
         "url": "https://open.spotify.com/album/7y2ZooIMvgEpB51V3R2qCm"
       },
@@ -2311,6 +2291,26 @@
       "duration_ms": 211010,
       "name": "Life's Too Short",
       "url": "https://open.spotify.com/track/326yOKaTPs91elL1KW794F"
+    },
+    {
+      "added_at": "2025-09-05 16:00:10",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/6jXFSUgmXl8qAZEIPChYcE"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 167104,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/6E36ezapy6yorkh8UbNO65"
     },
     {
       "added_at": "2025-09-05 16:00:10",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
-      },
-      "artists": [
-        {
-          "name": "Jodie Harsh",
-          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
-        }
-      ],
-      "duration_ms": 161068,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
-    },
-    {
-      "added_at": "2025-09-05 16:00:10",
-      "album": {
         "name": "Enjoy Your Life",
         "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 240053,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
+    },
+    {
+      "added_at": "2025-09-05 16:00:10",
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
+      },
+      "artists": [
+        {
+          "name": "Jodie Harsh",
+          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
+        }
+      ],
+      "duration_ms": 161068,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
     },
     {
       "added_at": "2025-09-05 16:00:10",
@@ -2559,6 +2559,26 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
+        "name": "Anemoia",
+        "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 218757,
+      "name": "Devotion (feat. TEED)",
+      "url": "https://open.spotify.com/track/6wgm6R3hGR820RHkX1cfTr"
+    },
+    {
+      "added_at": "2025-09-05 16:00:10",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
       },
@@ -2599,26 +2619,6 @@
       "duration_ms": 164280,
       "name": "I LUV U (Sunny)",
       "url": "https://open.spotify.com/track/5Zr3A0yB8p60zWiK7kwFxl"
-    },
-    {
-      "added_at": "2025-09-05 16:00:10",
-      "album": {
-        "name": "Anemoia",
-        "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 218757,
-      "name": "Devotion (feat. TEED)",
-      "url": "https://open.spotify.com/track/6wgm6R3hGR820RHkX1cfTr"
     },
     {
       "added_at": "2025-09-05 16:00:10",
@@ -2767,6 +2767,26 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
+        "name": "You're Free",
+        "url": "https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "duration_ms": 167298,
+      "name": "You're Free",
+      "url": "https://open.spotify.com/track/0KF938333oCvIXDxe72K44"
+    },
+    {
+      "added_at": "2025-09-05 16:00:10",
+      "album": {
         "name": "Talk About Us",
         "url": "https://open.spotify.com/album/6FP7mTrWQAcu2eQZ7AKbMU"
       },
@@ -2787,26 +2807,6 @@
       "duration_ms": 137250,
       "name": "Talk About Us",
       "url": "https://open.spotify.com/track/49WJ1FRGxmgFO09nOjENf3"
-    },
-    {
-      "added_at": "2025-09-05 16:00:10",
-      "album": {
-        "name": "You're Free",
-        "url": "https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
-        }
-      ],
-      "duration_ms": 167298,
-      "name": "You're Free",
-      "url": "https://open.spotify.com/track/0KF938333oCvIXDxe72K44"
     },
     {
       "added_at": "2025-09-05 16:00:10",
@@ -3051,22 +3051,6 @@
     {
       "added_at": "2025-09-05 16:00:10",
       "album": {
-        "name": "By My Side",
-        "url": "https://open.spotify.com/album/0weLliC8lL49CoiBpc6ieC"
-      },
-      "artists": [
-        {
-          "name": "Beau Cruz",
-          "url": "https://open.spotify.com/artist/5rKzRUYK7yX3lrWNsm2nbS"
-        }
-      ],
-      "duration_ms": 167244,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/3EnPWB9QR0PyYV6Oey8si9"
-    },
-    {
-      "added_at": "2025-09-05 16:00:10",
-      "album": {
         "name": "Anti-Hero (Remixes)",
         "url": "https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA"
       },
@@ -3083,6 +3067,22 @@
       "duration_ms": 215696,
       "name": "Anti-Hero - Jayda G Remix",
       "url": "https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp"
+    },
+    {
+      "added_at": "2025-09-05 16:00:10",
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/0weLliC8lL49CoiBpc6ieC"
+      },
+      "artists": [
+        {
+          "name": "Beau Cruz",
+          "url": "https://open.spotify.com/artist/5rKzRUYK7yX3lrWNsm2nbS"
+        }
+      ],
+      "duration_ms": 167244,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/3EnPWB9QR0PyYV6Oey8si9"
     }
   ],
   "unique_name": "Happy Beats",

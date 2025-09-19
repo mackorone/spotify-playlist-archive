@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: Kiri T
+> 感受女聲力量。Cover: CONSTANCE 康堤
 
-563 songs - 1 day 9 hr 31 min
+568 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [AFK???](https://open.spotify.com/track/1OfUSTbVRxIUaisRxyoqCK) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [AFK???](https://open.spotify.com/album/4rCoxG3kObBdtUszHBpfKX) | 3:06 | 2024-11-07 | 2025-09-12 |
 | [Afterglow](https://open.spotify.com/track/1lQRxn6whhD9GG5jaZcHvu) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Afterglow](https://open.spotify.com/album/1bCV8b4iui8QDDKylQOEBJ) | 2:08 | 2025-02-20 | 2025-09-12 |
 | [Amazing Grace](https://open.spotify.com/track/5cofkYnlrYaXesdVpP6xeP) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Amazing Grace](https://open.spotify.com/album/74VNV5wkmqHDq3xuNLKryH) | 4:58 | 2024-06-27 | 2025-09-12 |
+| [AMERICANO](https://open.spotify.com/track/6zjnNyW1pZbMkt69v2OkTL) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [AMERICANO](https://open.spotify.com/album/6JBvATX9VNlsWqrNND2xm9) | 2:41 | 2025-09-18 |  |
 | [Another Day](https://open.spotify.com/track/2mIv66hfLHGn59uzBPPtnZ) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [Another Day](https://open.spotify.com/album/7ohZZGOS9fYAifoSES1nMi) | 3:44 | 2025-09-11 |  |
 | [anything you ask](https://open.spotify.com/track/4cOWfl6IYophMuVhI6JfxY) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [anything you ask](https://open.spotify.com/album/5k7wAaARTHyyI6w0afP1GE) | 4:06 | 2024-06-27 | 2025-09-12 |
 | [Apart, so](https://open.spotify.com/track/4q9ECX1n9i9tiSDZNg52EE) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Apart, so](https://open.spotify.com/album/4wqtBzrhuytFJoNhVmAtKy) | 3:28 | 2024-06-27 | 2025-09-12 |
@@ -204,6 +205,7 @@
 | [一個傻瓜一個啞 \- Moment remix](https://open.spotify.com/track/2VvyUlfarVDRCNACd8U6EI) | [Kira Chan](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [一個傻瓜一個啞 \(Moment remix\)](https://open.spotify.com/album/5SDjzln631SF2J26vBiYzq) | 3:33 | 2024-06-27 | 2025-09-12 |
 | [一口一](https://open.spotify.com/track/1h6tZ0VO1KvyldahaKgYUD) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [一口一](https://open.spotify.com/album/3iv495ecbGF4eSA8CAjNPU) | 3:13 | 2025-07-24 |  |
 | [一圈](https://open.spotify.com/track/24WSKHUGL4Doq6Txbdo1fD) | [Elanne Kong](https://open.spotify.com/artist/4c13SqfZoqbvlFk0UeUIuR) | [一圈](https://open.spotify.com/album/6ZA5Q3c1CoYnJbhAj5C0l3) | 3:48 | 2024-11-28 |  |
+| [一律建議分手](https://open.spotify.com/track/0KOhktXlsA1KHE1g8LiJ0m) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [一律建議分手](https://open.spotify.com/album/0vBu53cgDImoXXhfRw1afc) | 3:27 | 2025-09-18 |  |
 | [一念天堂，二人結界](https://open.spotify.com/track/6HTkrptDYm8zNAfvM0W9aI) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [一念天堂，二人結界](https://open.spotify.com/album/1YqyKe6cqbf2FIzy01Reay) | 4:05 | 2024-07-11 | 2025-09-12 |
 | [一手造成](https://open.spotify.com/track/7D0xhG1kyWghQgAbtHXoN4) | [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [一手造成](https://open.spotify.com/album/3B822JL4gtdMgJVXqdz40o) | 3:38 | 2024-06-27 | 2025-09-12 |
 | [一直留在心底的事](https://open.spotify.com/track/51xGwzEhYUiuhJnigThWs4) | [Elanne Kong](https://open.spotify.com/artist/4c13SqfZoqbvlFk0UeUIuR) | [一直留在心底的事](https://open.spotify.com/album/25IsRgCumMs7Ch9KOpkMzb) | 3:51 | 2024-08-08 | 2025-09-12 |
@@ -398,6 +400,7 @@
 | [拯救我自己](https://open.spotify.com/track/4cAiQJTsXtFeuprgYtEWfz) | [Vivian Chan](https://open.spotify.com/artist/7h7iZmYBCQ3EEOwJLvTx8T) | [拯救我自己](https://open.spotify.com/album/7Lc3darGqlfHrzAKp9vSmv) | 3:50 | 2024-06-27 | 2025-09-12 |
 | [接住](https://open.spotify.com/track/3P7xcO3UKI6c5SVjFFK7Id) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [接住](https://open.spotify.com/album/4GPqgcqnfoaNKHzXmqEKPQ) | 3:43 | 2025-08-07 |  |
 | [提前分手](https://open.spotify.com/track/7dJo2zjWskUkKbQnHB1yRS) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [提前分手](https://open.spotify.com/album/18hmzmdLSotlOcsmPH5xNp) | 3:32 | 2024-11-21 |  |
+| [撇](https://open.spotify.com/track/6eTfIbBQqCaonvqCv5jmvS) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [撇](https://open.spotify.com/album/58tmbCyD2KyANZy4BLmtk1) | 3:07 | 2025-09-18 |  |
 | [撇sss](https://open.spotify.com/track/4sbXE6h9tCqeqc7VUveMA2) | [胡樂彤](https://open.spotify.com/artist/3y7xbntnGkT9eyXv384NeI) | [撇sss](https://open.spotify.com/album/36ar1jx7PBW7ytUHSFzRwa) | 3:33 | 2024-10-17 | 2025-09-12 |
 | [撞到正](https://open.spotify.com/track/6yBpBsHVcuKsmTlZbZWwA6) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [撞到正](https://open.spotify.com/album/01qVQADXDRGtK3Pw5wms68) | 3:37 | 2024-06-27 | 2025-09-12 |
 | [收聲多謝](https://open.spotify.com/track/6UBbSrmg2XMWFTe9rImahv) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [收聲多謝](https://open.spotify.com/album/41LEXHiUDcHlhXpdPvmKf2) | 3:17 | 2024-06-27 | 2025-09-12 |
@@ -502,6 +505,7 @@
 | [細間始終你好](https://open.spotify.com/track/688wipwWNbVMPE9ACylRo5) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [細間始終你好](https://open.spotify.com/album/5Lg3spWSfuQ1O1DvlnBVHa) | 3:48 | 2024-08-22 | 2025-09-12 |
 | [經痛不及我心痛](https://open.spotify.com/track/0IAFA8XugTtMuRibXAFMnG) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [經痛不及我心痛](https://open.spotify.com/album/1B1Z8wDPacZLqC3uILeV9q) | 3:13 | 2024-06-27 | 2025-09-12 |
 | [綜藝魂](https://open.spotify.com/track/7fMnbJCVBf9KXSfAu1z9Up) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [綜藝魂](https://open.spotify.com/album/1hr4bMBHAQU6m9LyujNbm7) | 3:58 | 2024-06-27 | 2025-09-12 |
+| [綠縈](https://open.spotify.com/track/0yu5BK7v2TOQlNYfh5G3la) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [綠縈](https://open.spotify.com/album/393JYyxrcTNWyq1FSCSEc6) | 3:24 | 2025-09-18 |  |
 | [維納斯的誕生](https://open.spotify.com/track/2Pv8dvmyPDHEcPLUvtIEYp) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [維納斯的誕生](https://open.spotify.com/album/67zlgpo5ZskpaP9dcwTEky) | 4:20 | 2024-11-21 |  |
 | [緊張大師](https://open.spotify.com/track/5fjEMYNAp3HR8ODLqsl7TU) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [緊張大師](https://open.spotify.com/album/1Nho2qbRCWEKWdgfsmDm45) | 3:09 | 2025-06-19 |  |
 | [美男子圖鑑](https://open.spotify.com/track/5mhWe9oy3xHB52Qhf86DVt) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [美男子圖鑑](https://open.spotify.com/album/3aHapX83gJwZznhrxKC2rM) | 2:55 | 2024-06-27 | 2025-09-12 |
@@ -519,6 +523,7 @@
 | [蛻 SWITCH](https://open.spotify.com/track/2OcVtRLi5BTnkjD2MPKog8) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [蛻 SWITCH](https://open.spotify.com/album/6OcCfNZtFBskQByvaGygLu) | 2:49 | 2025-06-05 | 2025-09-12 |
 | [被吃掉的靈魂](https://open.spotify.com/track/5C803SxLZnhe9e6FC0YiNW) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [被吃掉的靈魂](https://open.spotify.com/album/2I7CoLPIkTjR6R8mSXJwTB) | 3:31 | 2024-06-27 | 2025-09-12 |
 | [複雜事情簡單化](https://open.spotify.com/track/1GIY9FlL3RVtNwrR0KwKtq) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [複雜事情簡單化](https://open.spotify.com/album/36LK1862cNLR937ixzfiDl) | 4:14 | 2024-06-27 | 2025-09-12 |
+| [要有光](https://open.spotify.com/track/2DF5HfxfAN2vvamHFnVEVk) | [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [要有光](https://open.spotify.com/album/4ggTOCE3ROEhSyp7whYNhn) | 3:44 | 2025-09-18 |  |
 | [解咒說明書](https://open.spotify.com/track/7LJbnO4dGlntR0BuzI7mTV) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [解咒說明書](https://open.spotify.com/album/7hCvLsp8Tky2C61PEdJlMT) | 3:36 | 2024-08-01 | 2025-09-12 |
 | [計劃書](https://open.spotify.com/track/06Ly3CaLBPDX9BYIDla9wG) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [計劃書](https://open.spotify.com/album/4RohGZKe8Zrr0TI6DY2naG) | 3:41 | 2025-06-13 |  |
 | [討好式戀愛](https://open.spotify.com/track/5bqnlcRLN5IudbbFbYfIWz) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [討好式戀愛](https://open.spotify.com/album/12YLTrOgEHGysZIYb5bpvl) | 3:44 | 2024-06-27 | 2025-09-12 |

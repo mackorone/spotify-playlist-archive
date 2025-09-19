@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 29247,
+  "num_followers": 29252,
   "original_name": "THE IDOLM@STER SHINY COLORS",
   "owner": {
     "name": "Spotify",
@@ -724,6 +724,22 @@
       },
       "artists": [
         {
+          "name": "\u5927\u5d0e\u751c\u82b1 (CV.\u524d\u5ddd\u6dbc\u5b50)",
+          "url": "https://open.spotify.com/artist/2g9z5veeBlJr77ajuOwqsi"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "\u307e\u305f\u660e\u65e5",
+      "url": "https://open.spotify.com/track/5Ssa6l0xdHdsIH0maRNOat"
+    },
+    {
+      "added_at": "2025-02-28 16:30:31",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Luna- (2022 Version)",
+        "url": "https://open.spotify.com/album/0PC9a1J3ae1N0yrTXJS2kT"
+      },
+      "artists": [
+        {
           "name": "\u4e09\u5cf0\u7d50\u83ef (CV.\u5e0c\u6c34\u3057\u304a)",
           "url": "https://open.spotify.com/artist/0dQIFp0S9pK2pAZF4MkxhN"
         }
@@ -747,22 +763,6 @@
       "duration_ms": 274800,
       "name": "\u5343\u591c\u30a2\u30ea\u30a2",
       "url": "https://open.spotify.com/track/3ExAAENazuICvkqsm0hYW5"
-    },
-    {
-      "added_at": "2025-02-28 16:30:31",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Luna- (2022 Version)",
-        "url": "https://open.spotify.com/album/0PC9a1J3ae1N0yrTXJS2kT"
-      },
-      "artists": [
-        {
-          "name": "\u5927\u5d0e\u751c\u82b1 (CV.\u524d\u5ddd\u6dbc\u5b50)",
-          "url": "https://open.spotify.com/artist/2g9z5veeBlJr77ajuOwqsi"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "\u307e\u305f\u660e\u65e5",
-      "url": "https://open.spotify.com/track/5Ssa6l0xdHdsIH0maRNOat"
     },
     {
       "added_at": "2025-02-28 16:30:31",

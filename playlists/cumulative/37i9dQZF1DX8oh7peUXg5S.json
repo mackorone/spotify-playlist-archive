@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
+  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Jorge Drexler.",
   "name": "Cantautores",
   "tracks": [
     {
@@ -1881,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "El fin y el medio",
+        "url": "https://open.spotify.com/album/5DkLPWI8YPIVPyRyFv3BAB"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194827,
+      "name": "El fin y el medio",
+      "url": "https://open.spotify.com/track/4T3bJgWiT1Gy0rQo0Jpu9n"
+    },
+    {
+      "album": {
         "name": "El Hilo Rojo",
         "url": "https://open.spotify.com/album/4SF1Z5cqPSf14wrsKUWRoi"
       },
@@ -3358,7 +3376,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 205767,
       "name": "Lila Alel\u00ed",
       "url": "https://open.spotify.com/track/1pv8kjnd68qQt0dM22reqP"
@@ -3698,7 +3716,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 232080,
       "name": "Mar\u00eda la portuguesa",
       "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
@@ -7042,7 +7060,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 284240,
       "name": "Yolanda",
       "url": "https://open.spotify.com/track/1g5dfzxtSWEhLoGW0CWszT"

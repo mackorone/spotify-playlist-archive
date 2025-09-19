@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,563 likes - 118 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,562 likes - 118 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 62 | [We Need Love \- from Songland](https://open.spotify.com/track/2GtSvnYFfj7vvpo9B0FqlI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [We Need Love \(from Songland\)](https://open.spotify.com/album/5ek765URdBnZNbVtzDmQ8c) | 2:39 |
 | 63 | [Sway \- From Songland](https://open.spotify.com/track/0GGlWxiq7PLzAFlqDvbuvh) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Sway \(From Songland\)](https://open.spotify.com/album/6TySLr5b3fQz3EepElqFYT) | 2:27 |
 | 64 | [Pill for This \(from Songland\)](https://open.spotify.com/track/7IQlF0sWkkztpejeIKnftW) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [Pill for This \(from Songland\)](https://open.spotify.com/album/2r1WiGYZP7wsuC0RBZucGe) | 2:53 |
-| 65 | [Young \- From "Songland"](https://open.spotify.com/track/7nzxQacflIozCTLTiBl4JB) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Young \(From "Songland"\)](https://open.spotify.com/album/5gUfxcxbwFbKjXuz0Trknk) | 3:05 |
-| 66 | [Hit It From The Back](https://open.spotify.com/track/68Ghe54c1dBAD3ygRW5IKR) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:28 |
+| 65 | [Hit It From The Back](https://open.spotify.com/track/68Ghe54c1dBAD3ygRW5IKR) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:28 |
+| 66 | [Young \- From "Songland"](https://open.spotify.com/track/7nzxQacflIozCTLTiBl4JB) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Young \(From "Songland"\)](https://open.spotify.com/album/5gUfxcxbwFbKjXuz0Trknk) | 3:05 |
 | 67 | [Flame](https://open.spotify.com/track/4menArgtu2QyKU36ngRguV) | [Laine Hardy](https://open.spotify.com/artist/2e4sMCgdXD5TkFquoTEA4j) | [Flame](https://open.spotify.com/album/5WGyqoyK5USGcp30aBHdpm) | 2:38 |
 | 68 | [That's How I'm Feelin' \(feat\. Pitbull & Missy Elliott\)](https://open.spotify.com/track/6VKCyfMweQ2qQqNWOgUjU0) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:58 |
 | 69 | [Somewhere in Vegas](https://open.spotify.com/track/305JUOn2scJ85yXmf2zT2G) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Somewhere in Vegas](https://open.spotify.com/album/3MzfiAvF6hweDfGmWRyMWR) | 2:44 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 117 | [Gotta Get Up](https://open.spotify.com/track/4qfJUsO8ede16DZDcT5LA1) | [Haven Burton](https://open.spotify.com/artist/10ZqjgXYftp9SFt7f2wHZh), [Lilias White](https://open.spotify.com/artist/2vCRuRgI4PMtjQoNP1y4Fq), [Georgia Engel](https://open.spotify.com/artist/41ikFrMg552IvT5cpKTYE0), [Company of HALF TIME](https://open.spotify.com/artist/3fIoUPRtPSrCxWxOJFQPlx) | [HALF TIME \(Original Cast Recording\)](https://open.spotify.com/album/6HuEqXAEaG5Pvv4JnOKoR9) | 3:54 |
 | 118 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 |
 
-Snapshot ID: `Ab8fwAAAAABT9fEgol2gOpl7k/FW7BOJ`
+Snapshot ID: `Ab8lfgAAAADUm53G3GkXtVGwjFAo+Je1`

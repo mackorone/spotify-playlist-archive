@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Sabaton
 
-1,131 songs - 3 day 10 hr 27 min
+1,132 songs - 3 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [A Statue of the King](https://open.spotify.com/track/6onJXFCCG302XlD7j0puR8) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Avatar Country](https://open.spotify.com/album/4n3K2YQ2TYUppYdXN2xDFY) | 3:44 | 2022-03-22 | 2022-04-20 |
 | [A Thousand Shades \(feat\. Jeff Beck\)](https://open.spotify.com/track/35OjKODzqSMrllo8vFFJZz) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:26 | 2023-03-10 | 2023-07-17 |
 | [A Visceral Retch](https://open.spotify.com/track/7BlvPctRnjjJUjBnrySJ7b) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [A Visceral Retch](https://open.spotify.com/album/51kqr7eiWXoV5tzSYcYn4N) | 4:05 | 2024-09-13 |  |
-| [A.F\. Day](https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [A.F\. Day](https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO) | 3:47 | 2024-05-17 |  |
+| [A.F\. Day](https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [A.F\. Day](https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO) | 3:47 | 2024-05-17 | 2025-09-19 |
 | [A.N.G.S.T.](https://open.spotify.com/track/2pyjEyfm9ZTlYJwmq1m3xZ) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [A.N.G.S.T](https://open.spotify.com/album/2jxI0Ma0GPmKiGoRlrQOLe) | 5:08 | 2025-01-31 | 2025-03-12 |
 | [Absinthe Children](https://open.spotify.com/track/1sLuebUQL26k6N47EE7lD7) | [Ember Falls](https://open.spotify.com/artist/6RbFulf0Q38msfpcgh8e0m) | [Ruins](https://open.spotify.com/album/7ddNWr43lXlo6LbFZgOLdf) | 5:31 | 2022-01-28 | 2022-07-26 |
 | [Abyss](https://open.spotify.com/track/45NROGUYtGuOJzO7NTlgx9) | [Mind Riot](https://open.spotify.com/artist/1TfGMeYSHRoSmgkNqhPdRw) | [Abyss](https://open.spotify.com/album/5LHQvwBOHoHQb45ss15KkH) | 3:49 | 2021-12-17 | 2022-04-20 |
@@ -497,6 +497,7 @@
 | [In Waves](https://open.spotify.com/track/4B5hrpQjHTLfGMcTgpatUs) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves](https://open.spotify.com/album/5NDxdsUG2cpD3jJRqHbgic) | 5:02 | 2024-04-05 | 2025-09-16 |
 | [Inertia](https://open.spotify.com/track/7ojDrvflVkMCy5UErZxi8s) | [Scar Of The Sun](https://open.spotify.com/artist/771ZPlgDeS8Q3y35hm1wAk) | [Inertia](https://open.spotify.com/album/0DnGqEqHsg66rpYia3hrmQ) | 3:50 | 2022-01-07 | 2022-07-15 |
 | [Infanticide A.I.](https://open.spotify.com/track/59gHi5YTMV2DMf6FOQ7lLh) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Infanticide A.I.](https://open.spotify.com/album/4HxvJvHmd0KWqTXvWgudMe) | 3:27 | 2025-08-22 |  |
+| [Innovation](https://open.spotify.com/track/1lfhK6kujLiH6af2H3uq6z) | [Rage](https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x) | [Innovation](https://open.spotify.com/album/78Zbcsf9pNG0di4zyjAiJb) | 3:17 | 2025-09-15 |  |
 | [Insatiable](https://open.spotify.com/track/1ttxIAucUPrVzeEILspoe0) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Insatiable](https://open.spotify.com/album/7f0BnKdZMy902smde28brF) | 2:59 | 2023-10-06 | 2023-10-30 |
 | [Into the Black](https://open.spotify.com/track/69uGltZ3kbIqYmPDHp1p2E) | [Lords of Black](https://open.spotify.com/artist/5PgEqen6HcezHZRU1PJO0Z) | [Into the Black](https://open.spotify.com/album/4b99g7dJp9C9tCOIT03JaF) | 3:58 | 2021-12-17 | 2022-08-20 |
 | [Into The Storm](https://open.spotify.com/track/0FcbEF2c45mID7o7IJ0qM6) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Into The Storm](https://open.spotify.com/album/7GcDYQFIVJ6W3IkzIfFiia) | 5:02 | 2021-12-17 | 2022-07-29 |

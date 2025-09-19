@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6EGyspWqXzm0fyIJw18RHt.md) - [plain]
 
 > The vibes
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 36 songs - 2 hr 1 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 37 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,5 +44,6 @@ pretty - [cumulative](/playlists/cumulative/6EGyspWqXzm0fyIJw18RHt.md) - [plain]
 | 34 | [Vampire Reference in a Minor Key](https://open.spotify.com/track/6yF5PIbuoQFBn5On5Fual4) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | ["In case I make it,"](https://open.spotify.com/album/0O6onBuhBVzHtJb9bk4rOV) | 4:38 |
 | 35 | [Damn These Vampires](https://open.spotify.com/track/2TYXkQaCOLC8nzJx01ZWKj) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Eternals Deck](https://open.spotify.com/album/3SkG4Alb9sIniRsJiXwlYX) | 3:24 |
 | 36 | [Unleash Your Spirit](https://open.spotify.com/track/21t9VLX5JNXLgVd2XNRFdq) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Songs on the Computer](https://open.spotify.com/album/3GQEX55RfjR9MydqaAflHH) | 2:17 |
+| 37 | [One Foot in the Grave](https://open.spotify.com/track/00sg1bWleg3eSzq5fgRaLl) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Element Two: Earth](https://open.spotify.com/album/47LAjSieRTVItb8J66EMRQ) | 2:40 |
 
-Snapshot ID: `AAAAK+queHr7owXCa2XvM9QIjQxk7gvx`
+Snapshot ID: `AAAALF+cnd4gIDW2uv4C4ZVWMHXzkcDJ`

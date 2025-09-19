@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: 4Batz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,101,683 likes - 299 songs - 15 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,101,738 likes - 299 songs - 15 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -278,7 +278,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 268 | [Stay Home](https://open.spotify.com/track/7EHpanFygP4PvGj1XK5ZdZ) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Stay Home](https://open.spotify.com/album/2K5izQrAm5MsXpiZIGbiGi) | 2:37 |
 | 269 | [Phuckups \(Hold Me\)](https://open.spotify.com/track/1RXWR9vkTy3Py5zeylY8BQ) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [FLUX](https://open.spotify.com/album/6BMlVeL026upB5ad22ztJ9) | 2:05 |
 | 270 | [stranger](https://open.spotify.com/track/5xxh3JM4y3zboVTFK5Exzf) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [HONEYCOATED](https://open.spotify.com/album/6eBLl4owVt3F2oK3vnnLAv) | 1:55 |
-| 271 | [On My Way](https://open.spotify.com/track/7dP5I6ZtpV7f6CkIbVJisX) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [On My Way](https://open.spotify.com/album/5ibiy1cSYG4atMl6n9n4A6) | 3:05 |
+| 271 | [On My Way](https://open.spotify.com/track/7dP5I6ZtpV7f6CkIbVJisX) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [On My Way](https://open.spotify.com/album/5ibiy1cSYG4atMl6n9n4A6) | 3:05 |
 | 272 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 |
 | 273 | [Blame It On Me](https://open.spotify.com/track/6pZBCJsupkHOMqsLNKC2IH) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Blame It On Me](https://open.spotify.com/album/5MFIzCR04bQxJDTfgbjbGY) | 2:51 |
 | 274 | [Crazy](https://open.spotify.com/track/1NYLCsFL2wkm03qtaZeTFc) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Crazy](https://open.spotify.com/album/5rmWj0bqnkDKZBF2jmm1W5) | 2:39 |

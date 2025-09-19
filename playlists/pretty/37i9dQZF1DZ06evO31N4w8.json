@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 65250,
+  "num_followers": 65268,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAACsCZZny4WNXVwthZjJrjSl",
+  "snapshot_id": "aMn6AAAAAABt3oD2mymCYUeFOBelBEbY",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rifare Mi Suerte",
-        "url": "https://open.spotify.com/album/72Tvu1pJWr2HQ9lHYipwsf"
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 181773,
-      "name": "Tu Ultimo Verano",
-      "url": "https://open.spotify.com/track/699jQV2HYGBnITdlgboFcL"
+      "duration_ms": 234093,
+      "name": "Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/4LBU6vLTwbgE6VQ6ZYeyKp"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk"
+        "name": "Rifare Mi Suerte",
+        "url": "https://open.spotify.com/album/72Tvu1pJWr2HQ9lHYipwsf"
       },
       "artists": [
         {
@@ -324,25 +324,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Por Tu Maldito Amor",
-      "url": "https://open.spotify.com/track/4LBU6vLTwbgE6VQ6ZYeyKp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "No Volver\u00e9",
-      "url": "https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL"
+      "duration_ms": 181773,
+      "name": "Tu Ultimo Verano",
+      "url": "https://open.spotify.com/track/699jQV2HYGBnITdlgboFcL"
     },
     {
       "added_at": null,
@@ -359,6 +343,22 @@
       "duration_ms": 197933,
       "name": "Como Fui A Enamorarme De Ti",
       "url": "https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "No Volver\u00e9",
+      "url": "https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pensando En Usted",
-        "url": "https://open.spotify.com/album/6DXyjAr1mEW7lIMJv7lyzy"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 181117,
-      "name": "Pensando En Usted",
-      "url": "https://open.spotify.com/track/7yUvzs4rzLnjJajlwCmsrM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Exitos Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 202840,
       "name": "Para Qu\u00e9 Quieres Que Vuelva",
       "url": "https://open.spotify.com/track/27WMmlAzzcQzj0IPrcXX4O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pensando En Usted",
+        "url": "https://open.spotify.com/album/6DXyjAr1mEW7lIMJv7lyzy"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 181117,
+      "name": "Pensando En Usted",
+      "url": "https://open.spotify.com/track/7yUvzs4rzLnjJajlwCmsrM"
     },
     {
       "added_at": null,

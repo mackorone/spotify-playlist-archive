@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,987 likes - 1,099 songs - 2 day 17 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,986 likes - 1,099 songs - 2 day 17 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -485,7 +485,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 475 | [Komma över dig \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/0llOYwxUVtCD5lBJMrj7ox) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N) | [Komma över dig \(Spotify Studio It's Hits Recording\)](https://open.spotify.com/album/5hgN3SUTwOFBmM0zKRyC1H) | 2:55 |
 | 476 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 |
 | 477 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV) | 4:32 |
-| 478 | [Dance In The Dark \- Spotify Singles](https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Dance In The Dark \(Spotify Singles\)](https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX) | 3:45 |
+| 478 | [Dance In The Dark \(Spotify Singles\)](https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Dance In The Dark \(Spotify Singles\)](https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX) | 3:45 |
 | 479 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
 | 480 | [Shelley \- Spotify Studio It's Hits Recording \(feat\. Simon Ljungman\)](https://open.spotify.com/track/603Kxiz7PagWpTA4AwWQwf) | [GAMMAL](https://open.spotify.com/artist/3O6DpqAKwn7L1KS9s9x0w5), [Simon Ljungman](https://open.spotify.com/artist/6xHcaF74pS4vWsMUJ8J58c) | [Shelley \- Spotify Studio It's Hits Recording \(feat\. Simon Ljungman\)](https://open.spotify.com/album/24iQXGfk58P1f5EMOnE83r) | 4:13 |
 | 481 | [Ghost Town \- Spotify Studio Oyster Recording](https://open.spotify.com/track/1u2PjlxxOf3lqW15aVjU1L) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Ghost Town \- Spotify Studio Oyster Recording](https://open.spotify.com/album/6BsFTqro25MBsYW60rRkJn) | 3:41 |

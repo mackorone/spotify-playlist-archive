@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Mariana Nolasco
 
-857 songs - 1 day 18 hr 48 min
+858 songs - 1 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Barquinho de papel](https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Trilhas](https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5) | 3:48 | 2022-08-26 | 2023-01-28 |
 | [Barulho Das Ondas](https://open.spotify.com/track/4gdlltsXloVZhtJhPYw1PN) | [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c) | [Barulho Das Ondas](https://open.spotify.com/album/4dz9jnGDmEIzi9YaKXC6c6) | 3:28 | 2025-07-25 |  |
 | [Bebê](https://open.spotify.com/track/5eGKoukqxNOcO2SWkqGNqE) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Bebê](https://open.spotify.com/album/6HvOPuBicSOthMOgXvMPuT) | 2:53 | 2024-09-20 | 2024-12-21 |
-| [Beijo Doce](https://open.spotify.com/track/5HLXENIh3KW5qpu0DEo78i) | [SalDoce](https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG), [Lucy Alves](https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ) | [Doce](https://open.spotify.com/album/5G0BQlpsFS3ej65XNdFR4x) | 2:21 | 2025-06-27 |  |
+| [Beijo Doce](https://open.spotify.com/track/5HLXENIh3KW5qpu0DEo78i) | [SalDoce](https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG), [Lucy Alves](https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ) | [Doce](https://open.spotify.com/album/5G0BQlpsFS3ej65XNdFR4x) | 2:21 | 2025-06-27 | 2025-09-19 |
 | [Beijos de artifício](https://open.spotify.com/track/7ePoRoOa6Xl2IsvaZfyeeA) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Beijos de artifício](https://open.spotify.com/album/3CFAqEIXUM7AFu4gngcwQw) | 3:52 | 2024-02-02 | 2024-07-19 |
 | [belo horizonte \(metade de mim\)](https://open.spotify.com/track/4Q668LogaM0KnJWlqSzyHt) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [belo horizonte \(metade de mim\)](https://open.spotify.com/album/0G8JkUOLgYOf5XfgL8Fw2N) | 2:32 | 2025-02-14 | 2025-06-14 |
 | [Bem Bem](https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Bem Bem](https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l) | 2:16 | 2025-08-01 |  |
@@ -128,6 +128,7 @@
 | [Cabelo De Anjo](https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Eu Feat\. Você](https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7) | 3:34 | 2024-11-08 | 2024-12-21 |
 | [Cachaça](https://open.spotify.com/track/7q6hWgcTaN1l8eejnHA1OK) | [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S), [Ítalo Ribeiro](https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu) | [Cachaça](https://open.spotify.com/album/282hflxotkYOTqoFHYIXPY) | 2:34 | 2023-04-28 | 2023-05-23 |
 | [Cada Amor](https://open.spotify.com/track/7iuIozN19rt8QyzX20kb93) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Cada Amor](https://open.spotify.com/album/5nGLsNfvUZKzTQHK1yrxtY) | 3:05 | 2023-08-04 | 2023-08-23 |
+| [Cada Linha](https://open.spotify.com/track/49gSrZDPSaWtmLZzkMW9Wt) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI), [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Cada Linha](https://open.spotify.com/album/11S0gVsVXpCpSUFYYiLADo) | 2:42 | 2025-09-19 |  |
 | [Cadê Você](https://open.spotify.com/track/5gJ2NB8gUcdCcTgJELxGL0) | [João Napoli](https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L) | [Cadê Você](https://open.spotify.com/album/5ftuOK9rWkiFsNaILVtMzj) | 2:40 | 2024-04-09 | 2024-07-13 |
 | [Caetano](https://open.spotify.com/track/7iAca5b6rUy0NW6rkmwEp4) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [Caetano](https://open.spotify.com/album/2sXrM5agNPq05PLg8JaiKM) | 3:22 | 2024-09-06 | 2024-10-26 |
 | [Cafeína](https://open.spotify.com/track/0S3Q4nv7VBxWQmRBQ36RGp) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Cafeína](https://open.spotify.com/album/5NmVr6admdym5ik1G7v5Lo) | 3:11 | 2022-05-13 | 2022-06-15 |

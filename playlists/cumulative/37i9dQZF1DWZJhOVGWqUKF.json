@@ -628,7 +628,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 163000,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4PLDxqsxWe6fmZW9P4ydUd"
@@ -1523,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Catapults",
+          "url": "https://open.spotify.com/artist/1kgH8UtIKcjH6fuUj1DnFG"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Birdsong",
+      "url": "https://open.spotify.com/track/2D4o1FluKrZA2oXvsHBCqN"
+    },
+    {
+      "album": {
         "name": "BITTER",
         "url": "https://open.spotify.com/album/5xqgdddk0PXK3kny7Sz8D1"
       },
@@ -1991,6 +2009,24 @@
     },
     {
       "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/69DJ3dd7CZtfaKToG3DXd5"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189163,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF"
+    },
+    {
+      "album": {
         "name": "By a Monster\u2019s Hand",
         "url": "https://open.spotify.com/album/1v2xwYDX1DPiIqIR4mKJxV"
       },
@@ -2262,7 +2298,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 199386,
       "name": "CHASING THE HIGH",
       "url": "https://open.spotify.com/track/5kEZlaEqkMNAScxNKJo56f"
@@ -2846,7 +2882,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 280776,
       "name": "DARK THINGS",
       "url": "https://open.spotify.com/track/6oxfnbwSvVvl8FhqojHfd5"
@@ -4556,7 +4592,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 105700,
       "name": "Grown Up",
       "url": "https://open.spotify.com/track/7Dp9v2Z4X8coGY1r36tJmt"
@@ -4658,6 +4694,28 @@
       "duration_ms": 186033,
       "name": "Hand That Feeds - From the Film Ballerina",
       "url": "https://open.spotify.com/track/0svd9Ojc1lK8tmp7bRwO7N"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184555,
+      "name": "Hanging On To Thunder (feat. Stand Atlantic)",
+      "url": "https://open.spotify.com/track/2qI6Cwnkf2R4iGjwiFvAkR"
     },
     {
       "album": {
@@ -5188,7 +5246,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 175243,
       "name": "Hunting Season",
       "url": "https://open.spotify.com/track/0tKMZFO30VbRFulQzIWxjX"
@@ -6445,6 +6503,28 @@
     },
     {
       "album": {
+        "name": "Living Proof (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218986,
+      "name": "Living Proof (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV"
+    },
+    {
+      "album": {
         "name": "Lonely Night In The Park",
         "url": "https://open.spotify.com/album/0UW5iJTjUbGL3S5fK8aWCP"
       },
@@ -7334,6 +7414,28 @@
       "duration_ms": 170941,
       "name": "my mind is a mountain",
       "url": "https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8"
+    },
+    {
+      "album": {
+        "name": "My Only Angel",
+        "url": "https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255818,
+      "name": "My Only Angel",
+      "url": "https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd"
     },
     {
       "album": {
@@ -8505,6 +8607,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191531,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB"
+    },
+    {
+      "album": {
         "name": "Popular Monster",
         "url": "https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD"
       },
@@ -8556,6 +8676,46 @@
       "duration_ms": 185346,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/3pTCy3GDllLC0wHXtMSVZh"
+    },
+    {
+      "album": {
+        "name": "Pretty Skin",
+        "url": "https://open.spotify.com/album/5NKjDtg8Z6q6WloHn7YLgP"
+      },
+      "artists": [
+        {
+          "name": "Lost in Hollywood",
+          "url": "https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214135,
+      "name": "Pretty Skin",
+      "url": "https://open.spotify.com/track/74nZP5AFjhATYHivIjbh44"
+    },
+    {
+      "album": {
+        "name": "PRIMITIVE (feat. Point North)",
+        "url": "https://open.spotify.com/album/4ohGX6aggLH8NlAsEb0uQr"
+      },
+      "artists": [
+        {
+          "name": "Comastatic",
+          "url": "https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF"
+        },
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192884,
+      "name": "PRIMITIVE (feat. Point North)",
+      "url": "https://open.spotify.com/track/4pBzqinnI6xQvz0eNp8j9W"
     },
     {
       "album": {
@@ -9953,6 +10113,24 @@
     },
     {
       "album": {
+        "name": "Stayin' Alive",
+        "url": "https://open.spotify.com/album/0ELxb7dwLnWte2zgLWgICV"
+      },
+      "artists": [
+        {
+          "name": "Royal Republic",
+          "url": "https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209840,
+      "name": "Stayin' Alive",
+      "url": "https://open.spotify.com/track/6MNLnNLQ6XAUYjONXdh5Fp"
+    },
+    {
+      "album": {
         "name": "Stepper",
         "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
       },
@@ -10054,7 +10232,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 175413,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/4Z9n7KfCAiE9tyEbAMiUtv"
@@ -10126,7 +10304,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 172510,
       "name": "SUCKERPUNCH",
       "url": "https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj"
@@ -10538,7 +10716,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 259563,
       "name": "The Art Of Being Alone",
       "url": "https://open.spotify.com/track/4tPx1qTsAr7kwB4oKAoMCu"
@@ -11552,7 +11730,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 149933,
       "name": "Vampire",
       "url": "https://open.spotify.com/track/0onuZYhWiN2uUL5ufDKM4q"
@@ -11896,7 +12074,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 177933,
       "name": "Weirdo (feat. Lee Jennings of The Funeral Portrait)",
       "url": "https://open.spotify.com/track/4uoC9GLUXkmZntLQLrZeQc"
@@ -12026,6 +12204,24 @@
       "duration_ms": 216741,
       "name": "Where I Lay",
       "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350856,
+      "name": "Who Wants To Live Forever?",
+      "url": "https://open.spotify.com/track/7B38TXK2kfIGggpNOyT5zE"
     },
     {
       "album": {

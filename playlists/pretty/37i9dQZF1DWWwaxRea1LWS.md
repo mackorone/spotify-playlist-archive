@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 ### [Throwback Thursday](https://open.spotify.com/playlist/37i9dQZF1DWWwaxRea1LWS)
 
-> \#SpotifyTBT this week is all about audiophile classics\. Cover: Stevie Wonder
+> \#SpotifyTBT this week is taking a short trip back to 2020\. Cover: Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,308,426 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,308,431 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [Turn to Stone](https://open.spotify.com/track/1Pd1h30mgU05QkWYhgFzwt) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 3:49 |
 | 50 | [Englishman In New York](https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [...Nothing Like The Sun](https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R) | 4:27 |
 
-Snapshot ID: `AAAAALIaJrWHkqn8K79gIKSFX+AUnqCr`
+Snapshot ID: `AAAAAE8WWd6sptqjh7HISceVo/MKJqFz`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Music that's hard to define but easy to love. Cover: Parcels",
+  "description": "Music that's hard to define but easy to love. Cover: Lola Young",
   "name": "Front Left",
   "tracks": [
     {
@@ -3367,6 +3367,24 @@
     },
     {
       "album": {
+        "name": "Mount Crystal",
+        "url": "https://open.spotify.com/album/5qiZBMIgAH1lqylwi0FC8h"
+      },
+      "artists": [
+        {
+          "name": "Joviale",
+          "url": "https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189761,
+      "name": "Blu",
+      "url": "https://open.spotify.com/track/7p4XQTjHv9uSXUxQnPmPSV"
+    },
+    {
+      "album": {
         "name": "Death of a Party Girl",
         "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
       },
@@ -6564,7 +6582,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 208626,
       "name": "Darlin'",
       "url": "https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS"
@@ -6940,7 +6958,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 147413,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
@@ -10868,7 +10886,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 191379,
       "name": "Glum",
       "url": "https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD"
@@ -14038,6 +14056,24 @@
       "duration_ms": 242737,
       "name": "I Was Neon",
       "url": "https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7"
+    },
+    {
+      "album": {
+        "name": "Children of the Baked Potato",
+        "url": "https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169320,
+      "name": "I Wish I Didn\u2019t Waste Your Time",
+      "url": "https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ"
     },
     {
       "album": {
@@ -22263,6 +22299,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261959,
+      "name": "Post Sex Clarity",
+      "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
+    },
+    {
+      "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/6wHALvUCNQKWuRJsvHUdUb"
       },
@@ -22310,7 +22364,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 167823,
       "name": "Potion",
       "url": "https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD"
@@ -23370,6 +23424,24 @@
       "duration_ms": 214539,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv"
+    },
+    {
+      "album": {
+        "name": "Rock A Bye Baby",
+        "url": "https://open.spotify.com/album/0qeaBZwHMVi9JEJFy7OWuy"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170579,
+      "name": "Rock A Bye Baby",
+      "url": "https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn"
     },
     {
       "album": {
@@ -27930,7 +28002,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 197625,
       "name": "The Eyes",
       "url": "https://open.spotify.com/track/4MpAtRHh8dckqOar0vlLBp"
@@ -30808,6 +30880,28 @@
       "duration_ms": 209286,
       "name": "What Was That",
       "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
+    },
+    {
+      "album": {
+        "name": "What You Need",
+        "url": "https://open.spotify.com/album/5JbGpDzw1QQpWEWfJIh8ux"
+      },
+      "artists": [
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        },
+        {
+          "name": "Soft Glas",
+          "url": "https://open.spotify.com/artist/64YO6kjOrspjCGA2GQwsT0"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230513,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/2UvWkmIR6mUaOx7gkWWuCT"
     },
     {
       "album": {

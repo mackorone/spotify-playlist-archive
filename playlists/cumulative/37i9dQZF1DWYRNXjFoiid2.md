@@ -2,7 +2,7 @@
 
 ### [Ultimate Pop Gaming](https://open.spotify.com/playlist/37i9dQZF1DWYRNXjFoiid2)
 
-> Pop to fuel your gaming\. Cover: d4vd
+> Pop to fuel your gaming\. Cover: KATSEYE
 
 436 songs - 21 hr 28 min
 

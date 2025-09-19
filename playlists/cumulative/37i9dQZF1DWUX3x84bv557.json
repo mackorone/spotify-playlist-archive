@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "0612345678",
+        "url": "https://open.spotify.com/album/3CgYS7rGV4pFRojDGRCX0g"
+      },
+      "artists": [
+        {
+          "name": "Ceder",
+          "url": "https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd"
+        },
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143385,
+      "name": "0612345678",
+      "url": "https://open.spotify.com/track/244Lc2uhaHG8ax7Y1Yme5Q"
+    },
+    {
+      "album": {
         "name": "Doodgewoon",
         "url": "https://open.spotify.com/album/33R9zCzhjy1G0uDU76nmlF"
       },
@@ -404,6 +426,24 @@
       "duration_ms": 139756,
       "name": "25 Nachten (Wonderful Days)",
       "url": "https://open.spotify.com/track/3vc8nuTPR0eNE06rnywF8V"
+    },
+    {
+      "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/22JWsrUkiVvOAeaPCm5rPT"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163969,
+      "name": "3D",
+      "url": "https://open.spotify.com/track/08FAGebjL6tfLPGygWMJv2"
     },
     {
       "album": {
@@ -1096,6 +1136,28 @@
       "duration_ms": 227000,
       "name": "Alles Beweegt",
       "url": "https://open.spotify.com/track/65z7C8iBVk8V2v4e0lP0AH"
+    },
+    {
+      "album": {
+        "name": "Alles Goud",
+        "url": "https://open.spotify.com/album/3rtA6PkTnJpvqjowYjmSd4"
+      },
+      "artists": [
+        {
+          "name": "Iwan Esajas",
+          "url": "https://open.spotify.com/artist/0rexY8WTinI4l79RM2zjWI"
+        },
+        {
+          "name": "Jeroen Russchen",
+          "url": "https://open.spotify.com/artist/4PlFxEuFahcttvLUHAplvP"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142142,
+      "name": "Alles Goud",
+      "url": "https://open.spotify.com/track/49iEJuWSHsK0O4HENW8qJR"
     },
     {
       "album": {
@@ -2402,7 +2464,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 155370,
       "name": "BEEP BEEP",
       "url": "https://open.spotify.com/track/0Kqd4Fsg6n4LwWwLR0hpy7"
@@ -3448,7 +3510,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 171904,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/2wz7MrwJMq90RMuapVv0e3"
@@ -6610,6 +6672,24 @@
       "duration_ms": 223028,
       "name": "Goed Nieuws",
       "url": "https://open.spotify.com/track/1qSTVPUUf1JGUc5NpIZ6mB"
+    },
+    {
+      "album": {
+        "name": "Golven van Geluid",
+        "url": "https://open.spotify.com/album/09xpdIddXo9yFQqoj7Bdj1"
+      },
+      "artists": [
+        {
+          "name": "Nobu",
+          "url": "https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109783,
+      "name": "Golven van Geluid",
+      "url": "https://open.spotify.com/track/5qm4PUn0pTAJsBfquYsD17"
     },
     {
       "album": {
@@ -10359,6 +10439,24 @@
     },
     {
       "album": {
+        "name": "Laat Maar",
+        "url": "https://open.spotify.com/album/14eIBXhH2yBMmWIf23FqpJ"
+      },
+      "artists": [
+        {
+          "name": "Dyde",
+          "url": "https://open.spotify.com/artist/4KDbJoYj56Kf3KSpZYWEUu"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207735,
+      "name": "Laat Maar",
+      "url": "https://open.spotify.com/track/4UrbiBPtaSgFIMz06s5eIO"
+    },
+    {
+      "album": {
         "name": "Laat Me (Live)",
         "url": "https://open.spotify.com/album/4pzEUoFwxJz9PLxdJOE1Tu"
       },
@@ -13048,7 +13146,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 187782,
       "name": "Nog even hier",
       "url": "https://open.spotify.com/track/2CxcTO9K3RBdgATXpA02Dd"
@@ -19342,6 +19440,24 @@
       "duration_ms": 181249,
       "name": "Zo Dichtbij",
       "url": "https://open.spotify.com/track/2j1as6rFD5wD6VGDoW01Ho"
+    },
+    {
+      "album": {
+        "name": "Zo'n Dag",
+        "url": "https://open.spotify.com/album/7zjUYwyA4oF253yFJMmok8"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182635,
+      "name": "Zo'n Dag",
+      "url": "https://open.spotify.com/track/5DIvlv645skL2pAfZYPfqn"
     },
     {
       "album": {

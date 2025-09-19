@@ -5662,7 +5662,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "BUSY",
       "url": "https://open.spotify.com/track/1peSW56EXaVDkzbHeU6TBZ"
@@ -19734,7 +19734,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 225897,
       "name": "Last 1s Left",
       "url": "https://open.spotify.com/track/78igz8PCqqNYLVyhhSh0z5"
@@ -29277,6 +29277,24 @@
     },
     {
       "album": {
+        "name": "The Complete Discography",
+        "url": "https://open.spotify.com/album/5rQPHWyiLu7mkHIb3p8F5r"
+      },
+      "artists": [
+        {
+          "name": "Korea Girl",
+          "url": "https://open.spotify.com/artist/1Z5bekaSxinwyB2pxG6pks"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261293,
+      "name": "Reunion",
+      "url": "https://open.spotify.com/track/7cSwv1A2yKLUIf7ya0tKxJ"
+    },
+    {
+      "album": {
         "name": "So Close To What",
         "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
       },
@@ -29444,6 +29462,24 @@
       "duration_ms": 144113,
       "name": "Rock",
       "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
+    },
+    {
+      "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/61H9iD0BpYICfV7k6SmoMy"
+      },
+      "artists": [
+        {
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139011,
+      "name": "Rock & Roll",
+      "url": "https://open.spotify.com/track/3OLYHxl3y6qhrvUMGNJ894"
     },
     {
       "album": {
@@ -31572,7 +31608,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 236160,
       "name": "So Far So Fake",
       "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
@@ -37646,7 +37682,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"

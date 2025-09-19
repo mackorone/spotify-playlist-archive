@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "The best voices in R&B. Cover: Elmiene",
+  "description": "The best voices in R&B. Cover: Bellah",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -1108,6 +1108,24 @@
       "duration_ms": 150720,
       "name": "Blind",
       "url": "https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd"
+    },
+    {
+      "album": {
+        "name": "Boo Thang Bootcamp",
+        "url": "https://open.spotify.com/album/1bmRCIIeSUxMzbmJsArs2o"
+      },
+      "artists": [
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175953,
+      "name": "Boo Thang Bootcamp",
+      "url": "https://open.spotify.com/track/0ForNGLm6YvbidK5EPLy1H"
     },
     {
       "album": {
@@ -5082,7 +5100,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 161139,
       "name": "Lovers To Enemies",
       "url": "https://open.spotify.com/track/3bkyytDbOVfBw1C4YxxV0B"
@@ -6154,6 +6172,10 @@
         {
           "name": "Jaz Karis",
           "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
         }
       ],
       "date_added": "2025-07-10",

@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-216 songs - 12 hr 49 min
+218 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [How Will I Know](https://open.spotify.com/track/6Zj0prCnGTWIHJzbkRkxdY) | [Teddy Beats](https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB), [Nicola Fasano](https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ), [Miami Rockets](https://open.spotify.com/artist/4byzj224X350YqoAqGSkd8), [Anni](https://open.spotify.com/artist/6RMCiCPbBhd7hYP4cWhjOE) | [How Will I Know](https://open.spotify.com/album/689NgodT15JChJA4f2TdSM) | 3:06 | 2025-06-19 |  |
 | [Hurt Again](https://open.spotify.com/track/1KYdFmr3dZ678rVMD58k78) | [Into The Ether](https://open.spotify.com/artist/3d4kaVkfUluAiKUxDWDz5v), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Hurt Again](https://open.spotify.com/album/6zm2DCjAiQVani25CubAZO) | 3:40 | 2025-08-22 |  |
 | [I Never Knew How \- Original Mix](https://open.spotify.com/track/1JRqdhtPjnfgizg6DB9ISo) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7), [Patrick Baker](https://open.spotify.com/artist/73PTYegu3D1i5vRERzcBhT) | [I Never Knew How](https://open.spotify.com/album/1YRe3DxgMk2eyJghhuRtiE) | 3:32 | 2025-06-19 |  |
+| [I Was Made For Loving You](https://open.spotify.com/track/1Oq12ylF5RLY9PXU0yImJe) | [SRNDE](https://open.spotify.com/artist/09GI3XFxh5aCMcTDm5sqFB), [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u) | [I Was Made For Loving You](https://open.spotify.com/album/2eSAnDMPGUEW166itn4AZd) | 2:28 | 2025-09-19 |  |
 | [I Would Like To Know](https://open.spotify.com/track/42JXQGrJTzN67naZ7QySyR) | [Collective Sound Members](https://open.spotify.com/artist/2nbNDji9Kj4dcqH0g8B5UQ) | [Music From The Soul Vol\. 1](https://open.spotify.com/album/1tleH47sxteEjY8Cts1Ztw) | 3:37 | 2025-06-19 |  |
 | [If We Could Fly](https://open.spotify.com/track/7lrrMXyShyiRnruh9nLBNb) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Soul Dhamma](https://open.spotify.com/artist/0VnLQZ37oYVlV9MeztxSmu) | [If We Could Fly](https://open.spotify.com/album/1h4zfoe4LvCVo767mxD0jj) | 2:35 | 2025-06-19 |  |
 | [In The Air Tonight](https://open.spotify.com/track/2kTrGtoJ3nhEBjPRfewgKM) | [ReUnited](https://open.spotify.com/artist/3ba8XnU6tuDE8ZSpJNw6v1), [Mashti](https://open.spotify.com/artist/0c2kLTUTikqUpkRjJOerzf), [Deep Dive Corp.](https://open.spotify.com/artist/2Xn8Gef5Hv2QOWYlXs2gTb) | [Chill Executive Officer \(CEO\), Vol\. 17 \[Selected by Maykel Piron\]](https://open.spotify.com/album/4Mp7Y5fgZZJpCehY6mqn8S) | 3:58 | 2025-07-18 |  |
@@ -194,6 +195,7 @@
 | [Sunday](https://open.spotify.com/track/72hlIMZzH5uKjddm1BHqIl) | [Clément Leroux](https://open.spotify.com/artist/3MttWEEoyq7W9MjHEBaKhG) | [Circle Line](https://open.spotify.com/album/0tVzr7LmiN8OoWuRPcoCgx) | 3:58 | 2025-07-18 | 2025-09-05 |
 | [Sunrise](https://open.spotify.com/track/7CXD0SFVhMXi7z898a6fxs) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [April Bender](https://open.spotify.com/artist/4nEs5Ln0E5g3UtNu8suntA) | [Sunrise](https://open.spotify.com/album/2gpx29vJMTMNlYxN9CIcsE) | 3:04 | 2025-06-19 |  |
 | [Sunset Drive](https://open.spotify.com/track/7zybSU9tFO9HNlwmGF7stc) | [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL) | [Echoes](https://open.spotify.com/album/1oyF52n5Za9DFmSC2t0KMN) | 3:54 | 2025-07-18 |  |
+| [Swollen \- Rerecorded](https://open.spotify.com/track/77wZGIXInDcPzgWgHVoSgL) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa), [Katty Heath](https://open.spotify.com/artist/31cvPCTwxqNl84W1pMYUtv) | [Swollen \(Rerecorded\)](https://open.spotify.com/album/2KPz8x24uuhKzyO1fcStRR) | 3:48 | 2025-09-19 |  |
 | [Synaesthesia \- Alaska Sunset Mix](https://open.spotify.com/track/5qd5ckqDGzdpUEHniH6xE1) | [The Thrillseekers](https://open.spotify.com/artist/1RYDKWzJnJtbTPYNsDswD5), [Alaska](https://open.spotify.com/artist/50NRg10PLi5hNYVLhVZ1AA) | [Synaesthesia](https://open.spotify.com/album/40FjILzRvfgSP8Y70c5G6j) | 6:16 | 2025-07-18 | 2025-09-05 |
 | [The Feeling](https://open.spotify.com/track/634oslBYVxFz4xhc9T332m) | [Marc Gonen](https://open.spotify.com/artist/7xdcLkcWfAhUVQGmQFwoRf) | [Nocturnal 013](https://open.spotify.com/album/4PWmmWlQCvI9679sufia6g) | 3:59 | 2025-07-18 |  |
 | [The Hymn \- Update Project Ambient Mix](https://open.spotify.com/track/52aw2PDTL2EllASZXFWZzm) | [Skyscraper](https://open.spotify.com/artist/6Wfqk51nF026WOoqCQRDlj) | [The Hymn](https://open.spotify.com/album/3MDush4tXVD6Nxb5unQmKj) | 6:27 | 2025-06-19 |  |

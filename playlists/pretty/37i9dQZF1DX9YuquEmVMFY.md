@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > 2025 Tyler, The Creator \[CHROMAKOPIA: THE WORLD TOUR in SEOUL\] 9월 13\-14일 @ 킨텍스 제2전시장 10홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,510 likes - 26 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,696 likes - 26 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 | 25 | [NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:15 |
 | 26 | [I Hope You Find Your Way Home](https://open.spotify.com/track/0pvZCv4JOS5WBu7JITYef6) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:29 |
 
-Snapshot ID: `AAAAAFAXrzStg5F/10qDQuqUy+Vfvfuj`
+Snapshot ID: `AAAAAKQUAmuRNicTrQh0zxvOEn4ip2N1`

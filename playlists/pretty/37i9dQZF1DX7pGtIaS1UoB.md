@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,747 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,755 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [像晴天像雨天（电视剧《难哄》心动曲）](https://open.spotify.com/track/298LjjcBvuQCAlwUWb9dKb) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [电视剧《难哄》影视原声带·只喜欢你Love Moments](https://open.spotify.com/album/7hcotSWQZpoxnAmA04vCOr) | 3:56 |
-| 2 | [《右先生》Mr Right](https://open.spotify.com/track/6RtE4MSOGZgMyZFMjWrb47) | [Sheron Tan](https://open.spotify.com/artist/3trKMbo3kf5THeIDoQEEph), [黄湘淋](https://open.spotify.com/artist/4aHnpdagCMoZKf8XgRxG5t) | [《右先生》Mr Right](https://open.spotify.com/album/6f0N4CejAj2OtC8oAoXLVf) | 3:59 |
+| 2 | [愛的指南針](https://open.spotify.com/track/7GlIfefAiaHFuwq9fb13WD) | [TWMusik](https://open.spotify.com/artist/5MRpe7NPAmjAGuAJLD6ti6), [Xian Yong](https://open.spotify.com/artist/4Lbez2zKuAfleJwMlcqr1P) | [愛的指南針](https://open.spotify.com/album/3h3COQQ4UIYbhRQDwZfIAK) | 3:29 |
 | 3 | [就是愛妳](https://open.spotify.com/track/73eCSQ1DxQbaOnzy8PhKx3) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:21 |
 | 4 | [你知道你比晚霞好看嗎](https://open.spotify.com/track/2kutq7mQIFYUdGxHptsMlE) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [BK](https://open.spotify.com/artist/6oUenG9cEPeZ4QYHXZGeFN), [Seluu](https://open.spotify.com/artist/3NL3hiZCEKrItNzxZTJ15o) | [你知道你比晚霞好看嗎](https://open.spotify.com/album/6bbOpE8Z3gxj1ROQGtaNWm) | 2:58 |
 | 5 | [想和你看五月的晚霞](https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [華與浪漫](https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT) | 3:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 74 | [愛情訊號](https://open.spotify.com/track/6IHWyp73QtPQ2zKbzlniMG) | [顧于安](https://open.spotify.com/artist/40BZviKYLv51xc0Rrwij7m) | [愛情訊號](https://open.spotify.com/album/6FPuEWkynIIDuQKzwSQC3X) | 3:28 |
 | 75 | [All Day](https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [All Day](https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU) | 3:26 |
 
-Snapshot ID: `AAAAAJtyaAPJZsddYALwdWZygGjpEE2f`
+Snapshot ID: `AAAAABpUNLSdkTpCFfF9Pf2hQvcc5+Tg`

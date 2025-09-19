@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Deejay Telio, Wet Bed Gang",
-  "num_followers": 78278,
+  "num_followers": 78303,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
+        "name": "Mais Antigo",
+        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 206466,
+      "name": "Lembrei-me",
+      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
+    },
+    {
+      "added_at": "2025-07-25 14:20:58",
+      "album": {
         "name": "LONDON LP",
         "url": "https://open.spotify.com/album/7GbrLzZ9xJ9mhwk6MO1mWf"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 156600,
       "name": "0044",
       "url": "https://open.spotify.com/track/7cfIbKCASPe9FDhYjaQnDd"
-    },
-    {
-      "added_at": "2025-07-25 14:20:58",
-      "album": {
-        "name": "Mais Antigo",
-        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
-      },
-      "artists": [
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 206466,
-      "name": "Lembrei-me",
-      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
     },
     {
       "added_at": "2025-07-25 14:20:58",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
+        "name": "Malandro",
+        "url": "https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 210675,
+      "name": "Malandro",
+      "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
+    },
+    {
+      "added_at": "2025-07-25 14:20:58",
+      "album": {
         "name": "Dado",
         "url": "https://open.spotify.com/album/5iEcD9LQ9XzPYL5E3fckjn"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 207720,
       "name": "Dado",
       "url": "https://open.spotify.com/track/2JfAp9d5Y1S4tfQTfgY6qJ"
-    },
-    {
-      "added_at": "2025-07-25 14:20:58",
-      "album": {
-        "name": "Malandro",
-        "url": "https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 210675,
-      "name": "Malandro",
-      "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
     },
     {
       "added_at": "2025-07-25 14:20:58",

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2bIhTmfM3ln.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2bIhTmfM3ln) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2bIhTmfM3ln)
 
-### [Lovin' Beats](https://open.spotify.com/playlist/37i9dQZF1DX2bIhTmfM3ln)
+### [AfroBae](https://open.spotify.com/playlist/37i9dQZF1DX2bIhTmfM3ln)
 
-> You're the paracetamol to my headache ❤️
+> Single people dey suffer
 
 839 songs - 1 day 16 hr 39 min
 
@@ -206,7 +206,7 @@
 | [Do You Mind?](https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Do You Mind?](https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw) | 2:27 | 2023-05-26 | 2024-03-01 |
 | [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 | 2023-10-27 | 2024-04-19 |
 | [Don't Leave](https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 3:05 | 2024-04-19 | 2024-06-28 |
-| [Don't Run](https://open.spotify.com/track/0FODu62RBuyngvchl8H7w3) | [Kosi O](https://open.spotify.com/artist/6q9sxVAsYdPBk669BlZZVO) | [Don't Run](https://open.spotify.com/album/0F4QcV3VSrFtSN2v5IGYZF) | 3:34 | 2025-08-25 |  |
+| [Don't Run](https://open.spotify.com/track/0FODu62RBuyngvchl8H7w3) | [Kosi O](https://open.spotify.com/artist/6q9sxVAsYdPBk669BlZZVO) | [Don't Run](https://open.spotify.com/album/0F4QcV3VSrFtSN2v5IGYZF) | 3:34 | 2025-08-25 | 2025-09-19 |
 | [Done With Talking](https://open.spotify.com/track/4Ml0dbQwZ8DCQFqp7Zir1K) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9), [Skondtrack](https://open.spotify.com/artist/4mqRl2NpY6gEtKLDzSRJQZ) | [Done With Talking](https://open.spotify.com/album/2YMPntxNoTghXrBpV8Acpi) | 3:00 | 2024-04-26 | 2024-05-03 |
 | [Don’t Bother Me \(feat\. Monaky\)](https://open.spotify.com/track/4NGKfHySAPw7810jTT3cwC) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Forever Getting It \(FGI\)](https://open.spotify.com/album/27qsscuTpkS5s9SkmCDRS3) | 2:29 | 2025-04-11 | 2025-08-26 |
 | [Dopamine](https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dopamine](https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz) | 2:51 | 2025-07-25 |  |
@@ -415,7 +415,7 @@
 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2023-03-17 | 2023-06-10 |
 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-28 | 2024-01-04 |
 | [Lately \(feat\. Ruger\)](https://open.spotify.com/track/46FW3Liu7MUD6yrmhPXc5C) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Lately \(feat\. Ruger\)](https://open.spotify.com/album/23rrPoEvZbtSJwrgZiyMyF) | 2:51 | 2024-09-06 | 2025-03-08 |
-| [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 | 2022-06-09 | 2023-01-20 |
+| [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 | 2022-06-09 |  |
 | [Lemme Know](https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Lemme Know](https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf) | 2:53 | 2024-10-25 |  |
 | [LEMON & ICE](https://open.spotify.com/track/2RjMbn9t2htoGo0lBYhV49) | [Shauna Shadae](https://open.spotify.com/artist/3emXVifDxKaDkNSJ3MX0wr), [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y) | [LEMON & ICE](https://open.spotify.com/album/0qFb7xbQHzcazJuVXikU4Y) | 2:57 | 2024-09-20 | 2024-09-28 |
 | [Let Me Be](https://open.spotify.com/track/3u8OeLttFqulCrcb3odEps) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P), [Christer](https://open.spotify.com/artist/2vemjAzrRomX77RflYLqbU), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Moments After](https://open.spotify.com/album/1LkeXOTB9ErcgYzQF6EYMV) | 2:33 | 2025-05-30 | 2025-07-05 |
@@ -671,7 +671,7 @@
 | [Running \(To You\)](https://open.spotify.com/track/5rTC3tKShDyYK0wk0rq96X) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Running \(To You\)](https://open.spotify.com/album/0rwqdLBpVDxg3QKhxOfZmH) | 3:11 | 2022-02-11 | 2024-02-16 |
 | [Safe](https://open.spotify.com/track/7dXdkGdFsBqHA12BCLrYm2) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc), [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [Story of Our Lives](https://open.spotify.com/album/11She1URb5G1orrCZeLFsG) | 2:42 | 2024-09-20 | 2024-11-27 |
 | [Salt](https://open.spotify.com/track/68d70XrR9yr5515EzmnE7e) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Salt](https://open.spotify.com/album/5f9qY7kRdRwPOYTdR4PJMG) | 3:05 | 2024-04-19 | 2024-06-28 |
-| [Samory](https://open.spotify.com/track/50IoIPZlen5UAnmsAYRzEM) | [Dahvi](https://open.spotify.com/artist/0NNZ9fgoCQAhNosJJH9CKt) | [Samory](https://open.spotify.com/album/2zGag5WZkERb7PpoVu2SuP) | 2:41 | 2025-05-09 |  |
+| [Samory](https://open.spotify.com/track/50IoIPZlen5UAnmsAYRzEM) | [Dahvi](https://open.spotify.com/artist/0NNZ9fgoCQAhNosJJH9CKt) | [Samory](https://open.spotify.com/album/2zGag5WZkERb7PpoVu2SuP) | 2:41 | 2025-05-09 | 2025-09-19 |
 | [san siro](https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [san siro](https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD) | 3:14 | 2022-09-01 | 2023-04-09 |
 | [san siro \- remix](https://open.spotify.com/track/0uslkdkt54FiKvwEOOeFoH) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [san siro \(remix\)](https://open.spotify.com/album/4sb3gCQUk95ciN325RAQII) | 3:27 | 2023-09-09 | 2023-09-15 |
 | [Sankofa \- Remix](https://open.spotify.com/track/0CmnXFWyp6lBVhEXYzLWa9) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sankofa \(5 Star Remix\)](https://open.spotify.com/album/7vuWMKZUPRYEy5YWdloX5K) | 3:14 | 2022-12-02 | 2023-01-20 |

@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-5,296 songs - 12 day 4 hr 51 min
+5,297 songs - 12 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [A la luz de la luna](https://open.spotify.com/track/4b9ZJYE4He1r2aH9aVs76I) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Si molesto, os vais](https://open.spotify.com/album/41EFYkiiDgiOg44Ekx2fg0) | 4:11 | 2024-10-25 | 2024-11-09 |
 | [A la Mierda](https://open.spotify.com/track/4LQXK92qiThKntANgxd9Yz) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [A tomar por culo](https://open.spotify.com/album/1u0KpgKOxJZY5wVrfbveOB) | 1:58 | 2024-10-18 | 2024-10-26 |
 | [A LA MODA](https://open.spotify.com/track/78PnQcK3JQnXDwan5kn3Kr) | [León Benavente](https://open.spotify.com/artist/5wuBA4TiRM0CNjSXjsutn6) | [NUEVA SINFONÍA SOBRE EL CAOS](https://open.spotify.com/album/2tdYBjtWsaCnIjAHn37A3A) | 3:17 | 2024-10-04 | 2024-10-12 |
+| [A la muerte](https://open.spotify.com/track/0zsn2IzGuRZoC5s2jgqJDN) | [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [A la muerte](https://open.spotify.com/album/5qZV3Ux7bedYirvSmfMt4L) | 4:55 | 2025-09-18 |  |
 | [A Las 12](https://open.spotify.com/track/0btPVfNIE43s6ZFtp0GgVh) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [A Las 12](https://open.spotify.com/album/0lg6WmcaL9mkwWo2bQQU7f) | 3:08 | 2024-06-21 | 2024-06-29 |
 | [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:07 | 2025-06-13 | 2025-06-28 |
 | [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 | 2025-08-07 | 2025-08-16 |

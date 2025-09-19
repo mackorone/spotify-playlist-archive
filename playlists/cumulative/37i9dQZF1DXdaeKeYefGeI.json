@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Boven alle maren",
+        "url": "https://open.spotify.com/album/2Djzxt5s4DSBcBEUGCLtbq"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kuhr",
+          "url": "https://open.spotify.com/artist/42SCqZAVnFo3ocAyO0tDTj"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224360,
+      "name": "Boven alle maren",
+      "url": "https://open.spotify.com/track/28hIO84E2TaygSm0l0ac7J"
+    },
+    {
+      "album": {
         "name": "Boze Wolven",
         "url": "https://open.spotify.com/album/1Cqk1oec5jI5pZA5zR265q"
       },

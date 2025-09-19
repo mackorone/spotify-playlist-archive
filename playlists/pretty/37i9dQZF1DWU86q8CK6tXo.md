@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Madilyn Mei
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,206 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,218 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 47 | [Breathe onto me](https://open.spotify.com/track/1TKRTEOlBI30ftNy1kWQCh) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Breathe onto me](https://open.spotify.com/album/5FI4CXyIPIvp34yuBjRn6F) | 3:57 |
 | 48 | [idgaf era](https://open.spotify.com/track/1QkeDzrWGwDJd8mjQrUeBD) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [idgaf era](https://open.spotify.com/album/3tGoaKWZxgQ1BuGQNi6Ryz) | 2:44 |
 | 49 | [SMYLM](https://open.spotify.com/track/4JRbEcUs01JZCFjN9hGE1E) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [SMYLM](https://open.spotify.com/album/47HatR4NP5jlPZs2VaX7aw) | 3:07 |
-| 50 | [Hotel TV](https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Hotel TV](https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn) | 4:37 |
-| 51 | [Piece Of My Heart](https://open.spotify.com/track/6wtsNV5SwSuNOYSucwa8xq) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [City Woman](https://open.spotify.com/album/0sjM1eT9s4ARHFb9LCfU3W) | 3:16 |
+| 50 | [Piece Of My Heart](https://open.spotify.com/track/6wtsNV5SwSuNOYSucwa8xq) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [City Woman](https://open.spotify.com/album/0sjM1eT9s4ARHFb9LCfU3W) | 3:16 |
+| 51 | [Hotel TV](https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Hotel TV](https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn) | 4:37 |
 | 52 | [Rot](https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/2HCGmvj96bD2W37182wvlR) | 3:12 |
 | 53 | [GIVE IN](https://open.spotify.com/track/7DvaIxndt396r0LJeXSe3j) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [GIVE IN](https://open.spotify.com/album/5tRfIKrXKuaIIcuwIuYr2o) | 2:55 |
 | 54 | [Fine Shyt](https://open.spotify.com/track/3vKwu0KC7H6c571CAOpjo3) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Fine Shyt](https://open.spotify.com/album/0c8jxGUF4gXdO0N2RXvY6I) | 2:40 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 59 | [Rodeo](https://open.spotify.com/track/3KtJMh6nkI5Sv8YUayxsKm) | [Girl Math](https://open.spotify.com/artist/5ME3kZ92gTA4IcXDauJmz5), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Rodeo](https://open.spotify.com/album/4lUpiJgxMtkPx0NIQH1uV2) | 3:23 |
 | 60 | [Silhouette](https://open.spotify.com/track/1SsL6M9twrTldU3p98mhU3) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Vertigo](https://open.spotify.com/album/5gp3ITvPT0U9jxp3e0sz6R) | 2:37 |
 | 61 | [i’m too pretty for this](https://open.spotify.com/track/5GHDLL8nYL4dKing77xBiQ) | [Leyla Ebrahimi](https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR) | [i’m too pretty for this](https://open.spotify.com/album/7wkhOxwlPuKIzZAbonRET7) | 4:01 |
-| 62 | [Old Me \(New Wig\)](https://open.spotify.com/track/5z2uZEskbJ5BpsIgLSLj7A) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Old Me \(New Wig\)](https://open.spotify.com/album/1eEsQqAyFkj2C6gU1IYTGh) | 2:19 |
-| 63 | [Baby](https://open.spotify.com/track/44o4tDW0hGnrNOM180kM6K) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Ring Ring](https://open.spotify.com/album/0LiTyKtFq29DDgZ1zvMI4j) | 3:42 |
+| 62 | [Baby](https://open.spotify.com/track/44o4tDW0hGnrNOM180kM6K) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Ring Ring](https://open.spotify.com/album/0LiTyKtFq29DDgZ1zvMI4j) | 3:42 |
+| 63 | [Old Me \(New Wig\)](https://open.spotify.com/track/5z2uZEskbJ5BpsIgLSLj7A) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Old Me \(New Wig\)](https://open.spotify.com/album/1eEsQqAyFkj2C6gU1IYTGh) | 2:19 |
 | 64 | [Jumbos](https://open.spotify.com/track/2XOnuf9xCg90wOcrthaGPD) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Jumbos](https://open.spotify.com/album/5FLJL9V5MiJde68lPpdGZr) | 3:11 |
 | 65 | [Pressure](https://open.spotify.com/track/46H0bctMtuGEn11ZhNJkkc) | [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Pressure](https://open.spotify.com/album/1qo6mW0KlP5vEOLXqM7OIn) | 2:05 |
 

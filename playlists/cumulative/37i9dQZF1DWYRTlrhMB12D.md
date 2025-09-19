@@ -4,7 +4,7 @@
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Mere Jeevan Saathi
 
-232 songs - 17 hr 38 min
+233 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Hai Apna Dil To Aawara \- Happy](https://open.spotify.com/track/0p7EstNUg5VYyD8jxs1Na7) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj), [S\. D\. Burman](https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT) | [Solva Saal](https://open.spotify.com/album/1EVQ9JYSRELdpeTPrERR8y) | 4:21 | 2021-09-29 |  |
 | [Ham Hain Rahi Pyar Ke](https://open.spotify.com/track/21KLl43JhFp0UPZSssfm3E) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Nau Do Gyarah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qZ48c89Wg1VN9TVHwHapf) | 4:51 | 2022-01-05 | 2024-04-19 |
 | [Ham Hain Rahi Pyar Ke](https://open.spotify.com/track/7ATQ6V6C9JZsfOxEIzinEq) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [S\. D\. Burman](https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT) | [Nau Do Gyarah](https://open.spotify.com/album/71y1FToTJ2jefo1LSJzSuY) | 4:51 | 2024-04-08 |  |
+| [Ham Tere Pyar Mein](https://open.spotify.com/track/2rHxwYzdn66nDMmDmmio6W) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Dil Ek Mandir](https://open.spotify.com/album/7m1pd3B9UwxaWEtG9XjUh2) | 4:46 | 2025-09-18 |  |
 | [Hawa Mein Udta Jaye](https://open.spotify.com/track/4CHMgTLE7B1zGUGzi7k5yG) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Barsaat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kQNA934VKsG2PM3zJZdSG) | 3:08 | 2022-01-05 | 2022-07-25 |
 | [Hothon Se Chhu Lo Tum \- From "Prem Geet"](https://open.spotify.com/track/4EWCkL6rAYxOUvXLtcWfKI) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Prem Geet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aLedlf7u6dlkt66OyoE3y) | 4:54 | 2025-04-14 |  |
 | [Hum Tum Se Mohabbat Karke \- Hanste Bhi Rahe](https://open.spotify.com/track/3dWaN2oB9WvL4P3TLWZZGN) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Awaara](https://open.spotify.com/album/4FBRxpP3WLREdA32HyScFm) | 3:39 | 2021-09-29 | 2022-07-29 |
@@ -217,7 +218,7 @@
 | [Tum Pukar Lo Tumhara Intezar Hai](https://open.spotify.com/track/3bKu8IK7vgUDwtJiYcBkme) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Khamoshi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JhYCL7nhuh98kIMzzqviP) | 3:45 | 2021-09-29 |  |
 | [Tumsa Nahin Dekha](https://open.spotify.com/track/19XGh74why406tLVd0ddVt) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Tumsa Nahin Dekha](https://open.spotify.com/album/3LTuCNDs3g4vWGtLS5RfVv) | 3:30 | 2022-01-05 | 2022-07-22 |
 | [Unse Mili Nazar Ke Mere Hosh Ud Gai](https://open.spotify.com/track/7FOTN3rhNJ98H6SPr7TFtr) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Jhuk Gaya Aasman](https://open.spotify.com/album/0dhq3US0td5gddcXWGH0uf) | 4:05 | 2025-03-05 |  |
-| [Woh Bhooli Dastan Lo Phir Yaad](https://open.spotify.com/track/3RM9QK09MCBbThpyBP8aYB) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Sanjog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2uiy6pl0OnWtMy8M5aB2Ys) | 4:52 | 2024-04-08 |  |
+| [Woh Bhooli Dastan Lo Phir Yaad](https://open.spotify.com/track/3RM9QK09MCBbThpyBP8aYB) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Sanjog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2uiy6pl0OnWtMy8M5aB2Ys) | 4:52 | 2024-04-08 | 2025-09-19 |
 | [Woh Hai Zara Khafa Khafa](https://open.spotify.com/track/7hWJABKFlASuT36B5Jfsbd) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Shagird \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/34hP62rESb0f50MnHRrB7x) | 5:53 | 2024-04-08 | 2024-04-19 |
 | [Woh Hai Zara Khafa Khafa](https://open.spotify.com/track/56ycPgSKY8YJd0QxyxapJK) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax) | [Shagird](https://open.spotify.com/album/2iSp67d0KsGsoAItnOxggG) | 5:47 | 2024-04-08 |  |
 | [Yaad Kiya Dil Ne](https://open.spotify.com/track/4SIyELnEXAxSzXbWQ5MorW) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Patita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1AO1npNUV93OKmz3J7X3lW) | 4:14 | 2021-09-29 |  |

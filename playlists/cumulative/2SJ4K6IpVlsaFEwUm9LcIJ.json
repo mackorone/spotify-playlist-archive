@@ -1747,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "Faking The Books",
+        "url": "https://open.spotify.com/album/6NUMXxMBXsCuth2PXt4d79"
+      },
+      "artists": [
+        {
+          "name": "Lali Puna",
+          "url": "https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204400,
+      "name": "Call 1-800-fear",
+      "url": "https://open.spotify.com/track/2X36dBX0bv5gQfWh1ELxcu"
+    },
+    {
+      "album": {
         "name": "Believer / Can U Read Me?",
         "url": "https://open.spotify.com/album/4l8FsRiQpbxROp8cQEDPil"
       },

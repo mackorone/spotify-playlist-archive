@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "In His Will",
+        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281701,
+      "name": "All Powerful and Sovereign",
+      "url": "https://open.spotify.com/track/50aHZPleDo8B9jSbLanqfj"
+    },
+    {
+      "album": {
         "name": "Amaram Onyewem (Live)",
         "url": "https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP"
       },
@@ -1814,6 +1832,24 @@
       "duration_ms": 227169,
       "name": "You Do This One",
       "url": "https://open.spotify.com/track/5EHqWoa0odvdlXOGIvyAUS"
+    },
+    {
+      "album": {
+        "name": "In His Will",
+        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249673,
+      "name": "You No Let Them",
+      "url": "https://open.spotify.com/track/1ra32VEEafJj5MzV6NuoEc"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3CqYAE"

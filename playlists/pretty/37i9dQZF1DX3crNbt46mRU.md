@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Ed Sheeran, Hecht, Damiano David and Tyla, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,448 likes - 120 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,464 likes - 120 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 119 | [ZEITZONEN](https://open.spotify.com/track/69SdVs2zap1GOxIsagEVTJ) | [Mike Singer](https://open.spotify.com/artist/1LRpAVWq5z6VZMG3tTdZKU) | [ZEITZONEN](https://open.spotify.com/album/1VAA1cbTFx7Gk8ocp99Gqz) | 2:44 |
 | 120 | [Der Himmel weint](https://open.spotify.com/track/1mBAx009Vx1k4uZHJ5fM93) | [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [Der Himmel weint](https://open.spotify.com/album/4HYIKAS86f72AuxihqsKgs) | 3:20 |
 
-Snapshot ID: `AAAAAIQxU8En/fox4DAcZ6ksLTIqxAFp`
+Snapshot ID: `AAAAAK9a5I4GPvaa7+j+SCkg13ooXvsZ`

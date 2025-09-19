@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-426 songs - 1 day 0 hr 59 min
+427 songs - 1 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [YOU SO PRETTY](https://open.spotify.com/track/7HgoxH8kyUWZZTS1o93XL6) | [溫璽揚](https://open.spotify.com/artist/2Fijvd4HSZroOdzEapceP1), [張婧](https://open.spotify.com/artist/5NPtjVTLt3DJmi5hOir6Gl) | [YOU SO PRETTY](https://open.spotify.com/album/6kqM8kHLwbqNytMzU8TuDN) | 3:23 | 2024-01-29 | 2024-01-30 |
 | [You're My Love](https://open.spotify.com/track/4oOlDUTm41YVy23XzRssrS) | [李佳翰](https://open.spotify.com/artist/0Smp4iNiSczpOof3x08L1T) | [You're My Love](https://open.spotify.com/album/4vmKVMmlL0aEAaGBWJ12Uo) | 3:17 | 2023-09-18 | 2024-01-12 |
 | [⼀直在⼀起好嗎](https://open.spotify.com/track/70cB4HoaERBIDIzIZcIOg5) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [⼀直在⼀起好嗎](https://open.spotify.com/album/4KnTEJL7azTJwzgS5XCGVd) | 2:59 | 2022-09-05 | 2022-09-20 |
-| [《右先生》Mr Right](https://open.spotify.com/track/6RtE4MSOGZgMyZFMjWrb47) | [Sheron Tan](https://open.spotify.com/artist/3trKMbo3kf5THeIDoQEEph), [黄湘淋](https://open.spotify.com/artist/4aHnpdagCMoZKf8XgRxG5t) | [《右先生》Mr Right](https://open.spotify.com/album/6f0N4CejAj2OtC8oAoXLVf) | 3:59 | 2025-09-04 |  |
+| [《右先生》Mr Right](https://open.spotify.com/track/6RtE4MSOGZgMyZFMjWrb47) | [Sheron Tan](https://open.spotify.com/artist/3trKMbo3kf5THeIDoQEEph), [黄湘淋](https://open.spotify.com/artist/4aHnpdagCMoZKf8XgRxG5t) | [《右先生》Mr Right](https://open.spotify.com/album/6f0N4CejAj2OtC8oAoXLVf) | 3:59 | 2025-09-04 | 2025-09-19 |
 | [一天 \- 電視劇《想見你》插曲](https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [一天](https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM) | 4:08 | 2022-06-06 |  |
 | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/track/0n620D2UF9SNRKny1vFdQo) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/album/6mVkOMZ2W2fZX0WLPijazf) | 2:24 | 2022-06-06 | 2022-07-25 |
 | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/track/0yuyPYhkkHYlBKwrPi6MZk) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Gentle Bones](https://open.spotify.com/album/4BEjRqKkO7zvPO6GXCDcIM) | 2:24 | 2022-06-13 | 2023-05-03 |
@@ -263,6 +263,7 @@
 | [愛妳愛我](https://open.spotify.com/track/3HcDZebLoHcOlMiM3s6iAm) | [李宜柏PAULYBLEE](https://open.spotify.com/artist/6rCZx04nawchlA7kTA0c9v) | [愛妳愛我](https://open.spotify.com/album/0xCL2wvYYuOlMXw7xBrWo9) | 4:10 | 2024-11-07 | 2024-12-15 |
 | [愛情儲蓄罐](https://open.spotify.com/track/7aF8wcSnXKyhKsmGPDZ31L) | [李承铉](https://open.spotify.com/artist/5YtsROKebAVSnTpAbLChwF) | [愛情儲蓄罐](https://open.spotify.com/album/78jEnDvmVjL5wUHhczxxj4) | 3:33 | 2024-05-30 | 2024-09-01 |
 | [愛情訊號](https://open.spotify.com/track/6IHWyp73QtPQ2zKbzlniMG) | [顧于安](https://open.spotify.com/artist/40BZviKYLv51xc0Rrwij7m) | [愛情訊號](https://open.spotify.com/album/6FPuEWkynIIDuQKzwSQC3X) | 3:28 | 2025-08-07 |  |
+| [愛的指南針](https://open.spotify.com/track/7GlIfefAiaHFuwq9fb13WD) | [TWMusik](https://open.spotify.com/artist/5MRpe7NPAmjAGuAJLD6ti6), [Xian Yong](https://open.spotify.com/artist/4Lbez2zKuAfleJwMlcqr1P) | [愛的指南針](https://open.spotify.com/album/3h3COQQ4UIYbhRQDwZfIAK) | 3:29 | 2025-09-18 |  |
 | [愛的菜市場](https://open.spotify.com/track/75V4tdx9wBJWXAvgADroED) | [楊宜蓉Wooly](https://open.spotify.com/artist/4yhGqaSsVlCIYDs7jb7F6a) | [愛的菜市場](https://open.spotify.com/album/3pvU1pLuTuOcpwm2ooVNip) | 2:59 | 2025-02-06 | 2025-04-09 |
 | [愛的首席](https://open.spotify.com/track/5LLF4td1wqhZ2fuxAulSWD) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [愛的首席](https://open.spotify.com/album/3q9vVzxUg1HwBylkLJKpS8) | 3:32 | 2024-01-01 | 2024-06-29 |
 | [感情線](https://open.spotify.com/track/3LgX9DAyToN6qHeCWhuuQH) | [Tension](https://open.spotify.com/artist/7fQvUENMhNj1uudorBk9DO) | [故事\(新歌+精選\)](https://open.spotify.com/album/3Zgjs3ZBOn1h0wj2e1yzpp) | 4:05 | 2022-07-11 | 2022-11-02 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ed\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: Calvin Harris, Jessie Reyez",
+  "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ed\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: The Chainsmokers",
   "name": "mint Japan",
   "tracks": [
     {
@@ -590,7 +590,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 186093,
       "name": "After You (feat. FAANGS)",
       "url": "https://open.spotify.com/track/4cGvzO9ejXEVQl2FQI7Hmu"
@@ -2994,7 +2994,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 167000,
       "name": "Dance In The Sunlight",
       "url": "https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F"
@@ -9450,7 +9450,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 164285,
       "name": "Never Going Home Tonight (feat. Madison Love)",
       "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
@@ -9726,6 +9726,24 @@
       "duration_ms": 148500,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS"
+    },
+    {
+      "album": {
+        "name": "NSFW",
+        "url": "https://open.spotify.com/album/1VjkgQldR3Gv1akeGkLyDa"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146341,
+      "name": "NSFW",
+      "url": "https://open.spotify.com/track/15KkQmwZhilaeahH0TYdeS"
     },
     {
       "album": {
@@ -10926,7 +10944,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 201988,
       "name": "Refuge",
       "url": "https://open.spotify.com/track/1PCkDEDApsRDfUIIp7uEp3"
@@ -11811,6 +11829,24 @@
     },
     {
       "album": {
+        "name": "Smooth",
+        "url": "https://open.spotify.com/album/7ojjB8vVRuwmhB9n0KMCUr"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173452,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/58QPfkhEGLkZeqXwZkcNv5"
+    },
+    {
+      "album": {
         "name": "So High",
         "url": "https://open.spotify.com/album/69aHHvjyL600M08fRSTkl6"
       },
@@ -12472,7 +12508,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 154666,
       "name": "Summer Skies (Love To Cry)",
       "url": "https://open.spotify.com/track/1z4TAq5AmDi3IkEizIn8Wn"
@@ -12616,7 +12652,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 179000,
       "name": "Superrich",
       "url": "https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms"
@@ -13772,7 +13808,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 191475,
       "name": "una noche con hugel",
       "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
@@ -14000,6 +14036,32 @@
       "duration_ms": 129629,
       "name": "VOLTAGE",
       "url": "https://open.spotify.com/track/227u7P0lZxYfBH9KjT1gsf"
+    },
+    {
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Skytech",
+          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169326,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy"
     },
     {
       "album": {

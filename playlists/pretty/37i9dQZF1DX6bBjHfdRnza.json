@@ -1,12 +1,12 @@
 {
   "description": "The best new dance music by independent artists and labels, featuring Jaguar. Artwork by Rewina Beshue.",
-  "num_followers": 207355,
+  "num_followers": 207381,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEu4IT+SS1LUOjuweom3B3WEa/wz",
+  "snapshot_id": "AAAAAMMIfmnJ4EGpZdxVjP7b+gZoS03u",
   "tracks": [
     {
       "added_at": "2025-09-17 18:35:08",
@@ -129,6 +129,42 @@
       "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
     },
     {
+      "added_at": "2025-09-05 04:00:22",
+      "album": {
+        "name": "4x4",
+        "url": "https://open.spotify.com/album/4gA6nwPTt9kkPPugPCntEs"
+      },
+      "artists": [
+        {
+          "name": "White Pepper",
+          "url": "https://open.spotify.com/artist/5xI6IJZ7JY3kbapLmwUR1O"
+        }
+      ],
+      "duration_ms": 202633,
+      "name": "4x4",
+      "url": "https://open.spotify.com/track/5U9ja4wixV4ba7PIWaRqeu"
+    },
+    {
+      "added_at": "2025-09-18 14:49:01",
+      "album": {
+        "name": "Soul Of The Dancefloor",
+        "url": "https://open.spotify.com/album/5qYZVGIYgfowGmLKkKeCaB"
+      },
+      "artists": [
+        {
+          "name": "BAVR",
+          "url": "https://open.spotify.com/artist/2GKky4NWDiyQGNfg0AWV0m"
+        },
+        {
+          "name": "Mirage",
+          "url": "https://open.spotify.com/artist/1t7EIjSsW1qmSwU3d10Aiy"
+        }
+      ],
+      "duration_ms": 216668,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/1luD5JSJyGUCAUDSgiYCeD"
+    },
+    {
       "added_at": "2025-09-12 04:00:15",
       "album": {
         "name": "I'M IN THE PARTY",
@@ -147,22 +183,6 @@
       "duration_ms": 202249,
       "name": "I'M IN THE PARTY",
       "url": "https://open.spotify.com/track/21pN20UXz8BojFYS4zDThl"
-    },
-    {
-      "added_at": "2025-09-05 04:00:22",
-      "album": {
-        "name": "4x4",
-        "url": "https://open.spotify.com/album/4gA6nwPTt9kkPPugPCntEs"
-      },
-      "artists": [
-        {
-          "name": "White Pepper",
-          "url": "https://open.spotify.com/artist/5xI6IJZ7JY3kbapLmwUR1O"
-        }
-      ],
-      "duration_ms": 202633,
-      "name": "4x4",
-      "url": "https://open.spotify.com/track/5U9ja4wixV4ba7PIWaRqeu"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1419,22 +1439,6 @@
       "duration_ms": 185021,
       "name": "Bby",
       "url": "https://open.spotify.com/track/59kJK9zso5CWEUOxGaGgLg"
-    },
-    {
-      "added_at": "2025-08-13 04:00:29",
-      "album": {
-        "name": "Pulse",
-        "url": "https://open.spotify.com/album/2jQNViLad16W4iVbiRyKqT"
-      },
-      "artists": [
-        {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/6XdyNOUc7zYzxpqzHyyhJO"
-        }
-      ],
-      "duration_ms": 193655,
-      "name": "Pulse",
-      "url": "https://open.spotify.com/track/3tl58J37u0PzwDpZ5faQvq"
     },
     {
       "added_at": "2025-08-01 04:00:40",

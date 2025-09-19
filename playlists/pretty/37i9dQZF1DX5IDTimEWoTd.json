@@ -1,12 +1,12 @@
 {
   "description": "Beautiful songs to give you that warm, fuzzy feeling.",
-  "num_followers": 2723754,
+  "num_followers": 2723992,
   "original_name": "Warm Fuzzy Feeling",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAILTILcNke22OT8b8b4R8ztmNIuW",
+  "snapshot_id": "AAAAAIwuMBdW8k9AABRdc+syvqKRiosO",
   "tracks": [
     {
       "added_at": "2025-02-07 05:00:27",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
     },
     {
+      "added_at": "2025-09-18 15:43:22",
+      "album": {
+        "name": "Flamingo Serenade",
+        "url": "https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ"
+      },
+      "artists": [
+        {
+          "name": "The Flamingos",
+          "url": "https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6"
+        }
+      ],
+      "duration_ms": 202773,
+      "name": "I Only Have Eyes for You",
+      "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
+    },
+    {
       "added_at": "2024-08-12 15:54:12",
       "album": {
         "name": "FOUR (Deluxe)",
@@ -71,22 +87,6 @@
       "duration_ms": 221306,
       "name": "Lover",
       "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
-    },
-    {
-      "added_at": "2025-05-27 16:13:20",
-      "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "The First Time",
-      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -215,6 +215,22 @@
       "duration_ms": 281560,
       "name": "Thinking out Loud",
       "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2025-05-27 16:13:20",
+      "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1285,22 +1301,6 @@
       "url": "https://open.spotify.com/track/1sd2HaV5RYWN8ly7htaElN"
     },
     {
-      "added_at": "2025-06-30 03:19:46",
-      "album": {
-        "name": "I Just Don't Know You Yet",
-        "url": "https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 201007,
-      "name": "I Just Don't Know You Yet",
-      "url": "https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF"
-    },
-    {
       "added_at": "2024-08-12 15:54:12",
       "album": {
         "name": "In Your Love",
@@ -1315,6 +1315,22 @@
       "duration_ms": 225826,
       "name": "In Your Love",
       "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
+    },
+    {
+      "added_at": "2025-06-30 03:19:46",
+      "album": {
+        "name": "I Just Don't Know You Yet",
+        "url": "https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 201007,
+      "name": "I Just Don't Know You Yet",
+      "url": "https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1647,26 +1663,6 @@
       "duration_ms": 159345,
       "name": "Sky is the Limit",
       "url": "https://open.spotify.com/track/1HEL4WpJrCcfjwJMCTKesn"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
-        "name": "love is just a word",
-        "url": "https://open.spotify.com/album/6c7hlhcoeifiXU0NlHTPhg"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 226954,
-      "name": "love is just a word",
-      "url": "https://open.spotify.com/track/5ozaEo4KGNnJgdzChs7FQi"
     }
   ],
   "unique_name": "Warm Fuzzy Feeling",

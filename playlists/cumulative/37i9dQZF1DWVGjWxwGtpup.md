@@ -2,9 +2,9 @@
 
 ### [Caliente](https://open.spotify.com/playlist/37i9dQZF1DWVGjWxwGtpup)
 
-> Tous les hits latino du moment sont ici\. Photo : Rauw Alejandro
+> Tous les hits latino du moment sont ici\. Photo : Bad Gyal
 
-312 songs - 16 hr 3 min
+313 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [SI SABE FERXXO](https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 2:32 | 2024-01-25 | 2024-02-16 |
 | [Si Te Vas](https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Mixteip](https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS) | 3:18 | 2025-08-14 |  |
 | [Si Tú Me Vieras](https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Palabra De To's \(Seca\)](https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P) | 3:09 | 2025-05-22 | 2025-06-20 |
+| [Siempre Lo Mismo](https://open.spotify.com/track/0mmcVE9a4QJrgaAsyXdcuZ) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Siempre Lo Mismo](https://open.spotify.com/album/0asXGmwf95NCLkA5iETAbq) | 3:40 | 2025-09-18 |  |
 | [Sigueme Besando Asi](https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Sigueme Besando Asi](https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f) | 3:05 | 2024-11-21 | 2025-04-18 |
 | [Sin Novia](https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sin Novia](https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl) | 3:08 | 2023-09-28 | 2023-11-24 |
 | [SIN TI](https://open.spotify.com/track/5AcyixjIMjWfLUphthR46B) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [SIN TI](https://open.spotify.com/album/5fWYCPqDrOopoTPAPbyzDK) | 3:02 | 2024-02-15 | 2024-03-22 |
@@ -292,7 +293,7 @@
 | [TRAGO \#1 LOLOLO](https://open.spotify.com/track/4hwdIStMgDWTkFBoNSwlM8) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Altafulla](https://open.spotify.com/artist/0Tr6PMUYJ3MupljA0MS4Dy), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [TRAGO \#1 LOLOLO](https://open.spotify.com/album/1ASpVS2RnpVQ3PdBh2rhd8) | 3:05 | 2025-08-14 |  |
 | [TRAJECITO](https://open.spotify.com/track/2NGbCghWkDGTZtknazgEuf) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [TRAJECITO](https://open.spotify.com/album/22pfyMyN1fDcgnlSLNPGGo) | 3:14 | 2023-11-23 | 2024-08-16 |
 | [Triple S](https://open.spotify.com/track/57lPefSIAt3ghkfnYFj1B7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Triple S](https://open.spotify.com/album/2Vum7fnobCUz4Ac6TsZyt4) | 3:12 | 2024-02-29 | 2025-04-04 |
-| [Truth or Dare](https://open.spotify.com/track/7IQ5bOfhi1sTDksxXaqMq9) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Truth or Dare](https://open.spotify.com/album/32cXafVL6NaCZHaKGt3q3i) | 2:16 | 2025-09-11 |  |
+| [Truth or Dare](https://open.spotify.com/track/7IQ5bOfhi1sTDksxXaqMq9) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Truth or Dare](https://open.spotify.com/album/32cXafVL6NaCZHaKGt3q3i) | 2:16 | 2025-09-11 | 2025-09-19 |
 | [TUCHAT](https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [TUCHAT](https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe) | 3:41 | 2025-07-10 |  |
 | [Tucu](https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Tucu](https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj) | 3:06 | 2023-09-28 | 2024-10-11 |
 | [Tus Besos \- French Version](https://open.spotify.com/track/4m589UyBjAZ9YNQmA9Y2TU) | [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5), [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd) | [Tus Besos \(French Version\)](https://open.spotify.com/album/0eiQhIdvIfNfUvZIQdHbUo) | 2:26 | 2025-04-03 |  |

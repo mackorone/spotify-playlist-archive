@@ -662,7 +662,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 198893,
       "name": "Out of Africa: Main Title",
       "url": "https://open.spotify.com/track/0twtEOouu8gohnjlPGYa9O"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 100333,
       "name": "Paganini: 24 Caprices, Op. 1: No. 1 in E Major",
       "url": "https://open.spotify.com/track/7pEIKAaZYLyYc81IENw8IQ"
@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 250066,
       "name": "The Age of Innocence: Theme",
       "url": "https://open.spotify.com/track/43wyMgvDfI5FZ9RHvpP5pF"
@@ -1250,6 +1250,36 @@
       "duration_ms": 872840,
       "name": "The Devil's Trill",
       "url": "https://open.spotify.com/track/6b6EmPElw09fWyaY7yzo5N"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: Le quattro stagioni",
+        "url": "https://open.spotify.com/album/6C6a2lqcgoIHMtTpTAOT5z"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Israel Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
+        },
+        {
+          "name": "Zubin Mehta",
+          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146560,
+      "name": "The Four Seasons, Winter, Violin Concerto in F Minor, RV 297, Op. 8 No. 4: II. Largo",
+      "url": "https://open.spotify.com/track/5ABUTY3DZLUzd07TQLyP5U"
     },
     {
       "album": {

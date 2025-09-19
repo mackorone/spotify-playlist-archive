@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music\. yanaco on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,974 likes - 150 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,022 likes - 150 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 149 | [Hondou no Kumo](https://open.spotify.com/track/3fd0CkItjLx54Fk9PPQaBf) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 1:55 |
 | 150 | [Brook](https://open.spotify.com/track/3QiwoxBNSq5Cpn0pgCCq2H) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [잔물결 \(janmulgyeol\)](https://open.spotify.com/album/1jIKfpjeGejpLvmkQFId1i) | 3:14 |
 
-Snapshot ID: `AAAAAJXgpGAZGgXDIaT+vc0UxBZfdZXq`
+Snapshot ID: `AAAAAEYksfffQxgol+ZsI+IrheWqGamh`

@@ -1049,6 +1049,28 @@
     },
     {
       "album": {
+        "name": "P-POP CULTURE",
+        "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160796,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/3ExgWVPWOQts9RVBkqpdic"
+    },
+    {
+      "album": {
         "name": "BTDT (Been There Done That)",
         "url": "https://open.spotify.com/album/1tRD8Rx1R1BbfRXBhUyEwU"
       },
@@ -1064,7 +1086,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 169902,
       "name": "BTDT (Been There Done That)",
       "url": "https://open.spotify.com/track/0hVdUJRUZYDNtOztuJSWoz"
@@ -1750,7 +1772,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 273272,
       "name": "Dil Galti Kar Baitha Hai",
       "url": "https://open.spotify.com/track/7HPM13Xek5XoRWxRzHfvkB"
@@ -1842,6 +1864,28 @@
       "duration_ms": 174467,
       "name": "Dime Dime",
       "url": "https://open.spotify.com/track/4kNTujhP4ZNfK2W93XyOma"
+    },
+    {
+      "album": {
+        "name": "Distant",
+        "url": "https://open.spotify.com/album/0KRHD8UKvY8S3Z9NUiyymx"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "Jevin Gill",
+          "url": "https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180890,
+      "name": "Distant",
+      "url": "https://open.spotify.com/track/7Lw9zeFHaxoSUwAcCtGCP1"
     },
     {
       "album": {
@@ -1990,6 +2034,32 @@
       "duration_ms": 176232,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV"
+    },
+    {
+      "album": {
+        "name": "Face Card",
+        "url": "https://open.spotify.com/album/5GjNN0MGhH1QtF7iVjHksU"
+      },
+      "artists": [
+        {
+          "name": "NAYEL",
+          "url": "https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170192,
+      "name": "Face Card",
+      "url": "https://open.spotify.com/track/1DidFRHeqssCgMPjhT1em3"
     },
     {
       "album": {
@@ -3524,10 +3594,40 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 233684,
       "name": "Kya Loge Tum",
       "url": "https://open.spotify.com/track/6t7PuZfHAtNGheWisgUq3I"
+    },
+    {
+      "album": {
+        "name": "Lagey Rabb Warga",
+        "url": "https://open.spotify.com/album/1fsotABIj9rKdSirJVwi72"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Suyash",
+          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
+        },
+        {
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
+        },
+        {
+          "name": "Mukku",
+          "url": "https://open.spotify.com/artist/6UONv04Z1hQqtQjskS0H0p"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "Lagey Rabb Warga",
+      "url": "https://open.spotify.com/track/1JzfMiyxwzEk2JmZBNMZVD"
     },
     {
       "album": {
@@ -4416,7 +4516,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 212692,
       "name": "Naach Meri Rani (Feat. Nora Fatehi)",
       "url": "https://open.spotify.com/track/1orM67pmkNc4alrZkWjYkV"
@@ -4996,7 +5096,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 174002,
       "name": "Paani Paani",
       "url": "https://open.spotify.com/track/47Rqh5ZSamtIOFi7G6VgFJ"
@@ -5646,7 +5746,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 195681,
       "name": "Saanware",
       "url": "https://open.spotify.com/track/4LzjjNaJfnbPtJFYfMC8dc"
@@ -5972,6 +6072,28 @@
       "duration_ms": 406000,
       "name": "Sar-e-Aam",
       "url": "https://open.spotify.com/track/66KgWIcz4xXJbOKFR0g9TY"
+    },
+    {
+      "album": {
+        "name": "savera",
+        "url": "https://open.spotify.com/album/57XU5RuEZQWoYsTuJP6rnJ"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Turhan James",
+          "url": "https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177499,
+      "name": "savera",
+      "url": "https://open.spotify.com/track/57wyw9LmTBrbg0r8ruF8zV"
     },
     {
       "album": {
@@ -6346,6 +6468,28 @@
       "duration_ms": 181794,
       "name": "Summer Luv",
       "url": "https://open.spotify.com/track/1vwHEMn3RJBteolX643U9a"
+    },
+    {
+      "album": {
+        "name": "Sundari",
+        "url": "https://open.spotify.com/album/3PsTebbjkIZRMvW6NB1nwM"
+      },
+      "artists": [
+        {
+          "name": "Sanju Rathod",
+          "url": "https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7"
+        },
+        {
+          "name": "G-SPXRK",
+          "url": "https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161052,
+      "name": "Sundari",
+      "url": "https://open.spotify.com/track/5gsi1bSTPDIiW6Pi5kFmiU"
     },
     {
       "album": {

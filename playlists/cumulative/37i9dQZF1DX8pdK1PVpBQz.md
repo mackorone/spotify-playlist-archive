@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Soli
 
-4,252 songs - 9 day 18 hr 14 min
+4,254 songs - 9 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -750,6 +750,7 @@
 | [COME MY WAY](https://open.spotify.com/track/0mzxxjyEli7yTD5NQmCzgu) | [0800](https://open.spotify.com/artist/6IERXYoMmyee181MMzQzrk) | [COME MY WAY](https://open.spotify.com/album/2ED2ij7vz6muQHUCjeB92m) | 2:54 | 2023-03-22 | 2023-04-20 |
 | [Come Papi](https://open.spotify.com/track/6oqgSZ5g6G7w6VqZ3Q5qUD) | [Keiynan](https://open.spotify.com/artist/0tkkz8CmkHga4YZgSHEDVl) | [Come Papi](https://open.spotify.com/album/5Bn0Red2zKgJQ0E6CziGp4) | 3:21 | 2023-08-16 | 2023-08-31 |
 | [Come Thru](https://open.spotify.com/track/6qdHQ8DWsPDH6yKMCjFAF6) | [MAMI](https://open.spotify.com/artist/0HbvIwq1mKjgFSVo6j5HSk) | [Come Thru](https://open.spotify.com/album/5gNpBXuW90D4Y4aBNDjGhN) | 3:14 | 2022-06-29 | 2022-07-20 |
+| [Comfort](https://open.spotify.com/track/03TEY9LGl1dFNGRszxjGi0) | [Private Mountain](https://open.spotify.com/artist/0ADk9wfY6PK41umJym9zs0) | [Heart on Sleeve, 10,000 Better Days](https://open.spotify.com/album/2MbQjUoEV9XQWvNUM6kmKC) | 4:48 | 2025-09-18 |  |
 | [Comfort in Lies](https://open.spotify.com/track/1XHIUuIiaXkSupqb69LTnt) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [Comfort in Lies](https://open.spotify.com/album/2VXyxc46wgIH1DCqJmj5lU) | 2:52 | 2022-01-25 | 2022-02-17 |
 | [Comfortable](https://open.spotify.com/track/1XURoccCeIHQskikxVZKt4) | [Sophie\-Maude](https://open.spotify.com/artist/6UqpAADXa90AcrsczMmq0G) | [Comfortable](https://open.spotify.com/album/30d5QI9YCWZDXSEiYMIeor) | 3:29 | 2022-02-09 | 2022-03-10 |
 | [Comin' Up!](https://open.spotify.com/track/1Bi4UaZUQXWUuZdhQ9Dt3Y) | [RISSA](https://open.spotify.com/artist/7dpSIP6tbo4EEovVDCpfCJ) | [Made To Feel](https://open.spotify.com/album/183kGKiXuwNAkCPufaiV8K) | 1:22 | 2023-10-19 | 2023-11-16 |
@@ -1363,7 +1364,7 @@
 | [Free](https://open.spotify.com/track/6dHjiA0mBKm1AwBeB2LV0E) | [GLVES](https://open.spotify.com/artist/7wRaOhk0CnmQUzewX36M2u) | [Free](https://open.spotify.com/album/5bn4642vJdhYTmvxjLeZaB) | 3:50 | 2022-07-06 | 2022-08-04 |
 | [Free](https://open.spotify.com/track/4uVWDpwLWi9kKex6JYFZ8T) | [Vida Sunshyne](https://open.spotify.com/artist/4HmDdowCSXsHMjXtbKS4FZ) | [Free](https://open.spotify.com/album/5WEArEzG9qrMf9yqFQO56u) | 3:00 | 2022-08-16 | 2022-09-01 |
 | [Free Kitten](https://open.spotify.com/track/6XzQcgxOkerUy8W0Lspmgx) | [Voiid](https://open.spotify.com/artist/5k1Hr3VeI3TXHwBh9ohm0b) | [Free Kitten](https://open.spotify.com/album/3T5LblFP8XqcHK9sOjGq5F) | 3:37 | 2023-02-22 | 2023-03-16 |
-| [free my mind](https://open.spotify.com/track/2E5peop15ccspoUjptzVHG) | [The Stamps](https://open.spotify.com/artist/4lNBuBS2if6Kz9IYUK5fdC) | [in all the ways i am](https://open.spotify.com/album/6E4AJ8v6AjUpviMSpRpbxd) | 3:06 | 2025-08-12 |  |
+| [free my mind](https://open.spotify.com/track/2E5peop15ccspoUjptzVHG) | [The Stamps](https://open.spotify.com/artist/4lNBuBS2if6Kz9IYUK5fdC) | [in all the ways i am](https://open.spotify.com/album/6E4AJ8v6AjUpviMSpRpbxd) | 3:06 | 2025-08-12 | 2025-09-19 |
 | [FREEDOM WE'RE NEEDING](https://open.spotify.com/track/0njYthzChwavvcyKyD0CD4) | [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [FREEDOM WE'RE NEEDING](https://open.spotify.com/album/620btm2TdkMTxU6O4ZW6qp) | 3:49 | 2025-01-21 | 2025-03-05 |
 | [Freeway](https://open.spotify.com/track/4fdYx2x1WP3GAuXPGQRAoM) | [Elliott Willis](https://open.spotify.com/artist/6sE7HxNkJK8gqm3HLXLq55) | [Freeway](https://open.spotify.com/album/6bldQI3wKQF2ixn4vA9oxx) | 2:27 | 2022-02-23 | 2022-03-16 |
 | [FRENEMIES](https://open.spotify.com/track/2hwAugT0B9Xu7VGZnPh3Ur) | [Mac11](https://open.spotify.com/artist/2W3wMkNKFpC45vIpuFcjc0) | [PUBLIC ENEMY](https://open.spotify.com/album/55SIX2DV1xWxf5Qn3lPmrN) | 3:01 | 2022-04-20 | 2022-05-05 |
@@ -2541,6 +2542,7 @@
 | [Never See You Again](https://open.spotify.com/track/03uktU3LC5OUzvkf9BpFjg) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Never See You Again](https://open.spotify.com/album/6WOIvkvcVK0tk7k1xDZyEq) | 3:34 | 2024-08-20 | 2024-11-06 |
 | [Never Unlove](https://open.spotify.com/track/5DAh70C3AD3mt4LZY6cUXT) | [Ms\. Thandi](https://open.spotify.com/artist/0puWDWtG4G9xAJJ6JiZEfA), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Never Unlove](https://open.spotify.com/album/66amADLG6u8BsffjbDFIS4) | 3:16 | 2025-05-13 | 2025-07-16 |
 | [Neverland](https://open.spotify.com/track/2xmGlfUVrYS8tSEcPye48n) | [WEI](https://open.spotify.com/artist/2jOSQFHIeUc2OcPx8tSaTw), [Annie Lux](https://open.spotify.com/artist/54vSGePBrdJojNSXh13DwN) | [Neverland](https://open.spotify.com/album/5j7kZIvDKe5NQxkZIZev1g) | 2:06 | 2022-02-23 | 2022-03-10 |
+| [NEW AGE](https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [NEW AGE](https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03) | 3:32 | 2025-09-18 |  |
 | [New Australia](https://open.spotify.com/track/7oYDU3Q6DZEzi84Epnr99B) | [Drunk Mums](https://open.spotify.com/artist/1vd7OHxzKOJeFKjN1M7VTb) | [New Australia](https://open.spotify.com/album/59VufXbhdtQ08bYVNGRYZj) | 2:31 | 2024-02-22 | 2024-04-09 |
 | [New Day](https://open.spotify.com/track/4vtgGDaTTaOroje4hqnpG7) | [Summer Flake](https://open.spotify.com/artist/2oPPuIRXZ5gCKBtbt3dcsb) | [New Day](https://open.spotify.com/album/0oUN13Dr10JPewYeHxEl87) | 4:33 | 2024-06-11 | 2024-08-21 |
 | [New Feelings](https://open.spotify.com/track/2aqlCJQ2LSz3yA1dBsAH6G) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [New Feelings](https://open.spotify.com/album/5uMABp0y0oZXkLrYlwtOFZ) | 3:02 | 2023-10-04 | 2023-10-27 |
@@ -4081,7 +4083,7 @@
 | [What if it happens again?](https://open.spotify.com/track/1N0k7YMLlO97UhIbGsRdaY) | [Lily Bloom](https://open.spotify.com/artist/42XQtUQBwNYZvj1oJRrB1T) | [What if it happens again?](https://open.spotify.com/album/3Lj6NunwcuLRcLqL075iU1) | 3:33 | 2023-04-19 | 2023-05-24 |
 | [What If My Body Could Love Like You](https://open.spotify.com/track/3XTPdGlyfI0x4SO2Vxb1C5) | [Lisa Caruso](https://open.spotify.com/artist/36HJno2GZYrC3jPO8ACz6T) | [What If My Body Could Love Like You](https://open.spotify.com/album/5LVIKy3etAe9oXNNVAeNIq) | 3:47 | 2023-07-12 | 2023-07-27 |
 | [What It's All About](https://open.spotify.com/track/3weULBBOa7Gk5C1eVuj5Dh) | [Big Scary](https://open.spotify.com/artist/4mLYW48jy9Pwv6KpT74Evf) | [Wing](https://open.spotify.com/album/3Qc1qeHSkWYfWg9Jt9mxMq) | 3:43 | 2024-02-16 | 2024-04-09 |
-| [What Line?](https://open.spotify.com/track/4xGJfHUgmuXXJIKgWvNlb9) | [LOLA](https://open.spotify.com/artist/0cD96GFyKaDX2LdpHpyT7d) | [What Line?](https://open.spotify.com/album/5bH6EJdqZzCNSOVhONDsfl) | 4:55 | 2025-08-05 |  |
+| [What Line?](https://open.spotify.com/track/4xGJfHUgmuXXJIKgWvNlb9) | [LOLA](https://open.spotify.com/artist/0cD96GFyKaDX2LdpHpyT7d) | [What Line?](https://open.spotify.com/album/5bH6EJdqZzCNSOVhONDsfl) | 4:55 | 2025-08-05 | 2025-09-19 |
 | [What The Hell Is Wrong With Me](https://open.spotify.com/track/3o7nSxUIVKYHZfVwJY54Fe) | [Baby Velvet](https://open.spotify.com/artist/77Ddh5UnAgDIfixnYjwOnI) | [What The Hell Is Wrong With Me](https://open.spotify.com/album/5UrfViNlhZfYAUsNbrDMt6) | 2:53 | 2022-04-13 | 2022-05-05 |
 | [What They Say](https://open.spotify.com/track/378QOKpGBbvh8nhFWfQ5pS) | [Ian Buller](https://open.spotify.com/artist/5mV5RdUE0DQw0z9pJcrKBS) | [What They Say](https://open.spotify.com/album/7q5DmM8ohWhr2Vy0XAk92S) | 2:38 | 2022-07-19 | 2022-08-25 |
 | [What U Do](https://open.spotify.com/track/7HbVJ7YXeHHGl3Ketpl86z) | [Haz' Beats](https://open.spotify.com/artist/2PMFm0z412L9xRCPRfMmkN), [Miloux](https://open.spotify.com/artist/0wxqHrY3M43hkutOC6qDHW), [Diggy Dupé](https://open.spotify.com/artist/4H3PAXVo7CJWQj30ndGKSn) | [What U Do](https://open.spotify.com/album/4HS7vExeFMNa787nkOH8eY) | 3:10 | 2023-02-15 | 2023-03-02 |

@@ -2,9 +2,9 @@
 
 ### [Pop Radyo](https://open.spotify.com/playlist/37i9dQZF1DX9G2MXp8YYmm)
 
-> Pop'un sevilen isimleri\. Kapak: Göksel İpekçi x Safiye
+> Pop'un sevilen isimleri\. Kapak: Tuğba Özerk
 
-383 songs - 19 hr 15 min
+384 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Hürrem](https://open.spotify.com/track/0mQxlAQVm5jVuExsofCiPM) | [Melis Kar](https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj) | [Hürrem](https://open.spotify.com/album/4J5VzGkcJRoo1tGKbAL4PP) | 2:15 | 2024-07-11 | 2024-09-06 |
 | [Issız Duvarlar](https://open.spotify.com/track/1nSJoh7pPSHkMX8pXGE33H) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [Issız Duvarlar](https://open.spotify.com/album/6zyInuDlsBKGYXwK5IhpR9) | 2:59 | 2025-05-29 |  |
 | [İlaç](https://open.spotify.com/track/6RRRcmV4Vu4AfuImAxIJc6) | [Irmak Arıcı](https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B) | [İlaç](https://open.spotify.com/album/3ehOYFz1tCCCUWNDTps4Hb) | 2:44 | 2025-01-16 | 2025-01-24 |
-| [İlk Görüşte Diyenler](https://open.spotify.com/track/2Nl4cwR8yS6DOhm1EPiLYD) | [Göksel İpekçi](https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr), [Safiye](https://open.spotify.com/artist/3J5L8phe7TP0vhoiXdJizP) | [İlk Görüşte Diyenler](https://open.spotify.com/album/72X7xDZufFTCg3zxNOCYtV) | 2:33 | 2025-09-04 |  |
+| [İlk Görüşte Diyenler](https://open.spotify.com/track/2Nl4cwR8yS6DOhm1EPiLYD) | [Göksel İpekçi](https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr), [Safiye](https://open.spotify.com/artist/3J5L8phe7TP0vhoiXdJizP) | [İlk Görüşte Diyenler](https://open.spotify.com/album/72X7xDZufFTCg3zxNOCYtV) | 2:33 | 2025-09-04 | 2025-09-19 |
 | [İmdadım](https://open.spotify.com/track/6Bd1IXmQB9YZa7yI8j98fM) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ), [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08) | [İmdadım](https://open.spotify.com/album/616fhHuuWrVXPz8gpHR8Yd) | 2:09 | 2024-06-27 |  |
 | [İmkansız Bir Aşk Denir](https://open.spotify.com/track/7oWgtgmSgC9XCRcnj7NF0r) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [İmkansız Bir Aşk Denir](https://open.spotify.com/album/0ZpK4LGEPGWmhkhPsZrj5b) | 3:17 | 2024-06-27 | 2024-07-12 |
 | [İSTANBUL BİLE](https://open.spotify.com/track/2qfdA02I5BLwqNDGxc1JvL) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd), [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [İSTANBUL BİLE](https://open.spotify.com/album/51rttRrCgLiGh0l2nKypnv) | 3:51 | 2025-02-06 | 2025-04-06 |
@@ -284,6 +284,7 @@
 | [Sağ Salim](https://open.spotify.com/track/4luMMabCTC0UJgdH7sQCRK) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [AKKOR](https://open.spotify.com/album/7cJXufqiT9XL1V80r77P4G) | 4:39 | 2024-11-07 | 2025-02-18 |
 | [Sen Anlamazsın](https://open.spotify.com/track/0gpRP7BZ3sfNeZb38CJ3QK) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Sen Anlamazsın](https://open.spotify.com/album/3ZoTNMvjTmVSAVt7FOTh3s) | 2:50 | 2025-06-19 | 2025-08-21 |
 | [Sen Ağla](https://open.spotify.com/track/1QTxQQfJjNYzMcOpilX3Bf) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:06 | 2025-06-26 |  |
+| [Sen Kalp Ben](https://open.spotify.com/track/36yASDIlHQ3u2KjGPpIahi) | [Tuğba Özerk](https://open.spotify.com/artist/30Lb5Jijp6ynpodpRsrqIX) | [Sen Kalp Ben](https://open.spotify.com/album/2kUoBwwIZAQ3e85ILszLSB) | 2:29 | 2025-09-18 |  |
 | [Seni Bana Vermediler](https://open.spotify.com/track/1RfKc1ILYZtgkD41gCpZRc) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Seni Bana Vermediler](https://open.spotify.com/album/7nkt6nd03wiPPZOjS1VKnj) | 2:55 | 2025-04-17 | 2025-05-09 |
 | [Seni Görmeden](https://open.spotify.com/track/3iI4EZW4zQ755c5hKPE5ab) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Seni Görmeden](https://open.spotify.com/album/2lhuxO6JhzcQ0KEFcEY2eM) | 2:27 | 2025-07-24 | 2025-09-09 |
 | [Seni Seven Kimdi](https://open.spotify.com/track/5M6QrHGDWdWhyq7hVz3zR8) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Seni Seven Kimdi](https://open.spotify.com/album/6x0U8MXvacaNyr070qwfML) | 4:00 | 2024-11-14 | 2025-07-18 |

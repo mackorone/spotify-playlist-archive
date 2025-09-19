@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Metejoor, Ed Sheeran, Red Sebastian and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,746 likes - 101 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,756 likes - 101 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 100 | [Flatline](https://open.spotify.com/track/4PIrbZdWo7ETTWZQNEbCUz) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Flatline](https://open.spotify.com/album/5UaiSKEsyY4vjBBR9ZIodw) | 2:45 |
 | 101 | [Fall In Your Arms](https://open.spotify.com/track/0Ak2IuK7Xk29NAEJDerJE9) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [JAMES.](https://open.spotify.com/album/2Qne4lCCAtu1lAVikGk5UY) | 3:38 |
 
-Snapshot ID: `AAAAAPp1mP6UZY3fnihyol/wRkcyJk+5`
+Snapshot ID: `AAAAAGha3J71e+o7jFclH31ckx3cawoo`

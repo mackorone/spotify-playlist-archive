@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 167831,
+  "num_followers": 167839,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,30 @@
     {
       "added_at": "2025-09-15 03:42:19",
       "album": {
+        "name": "It's Not This",
+        "url": "https://open.spotify.com/album/5XbxaUEQQ7jTJ5zBa19pjY"
+      },
+      "artists": [
+        {
+          "name": "Bearson",
+          "url": "https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg"
+        },
+        {
+          "name": "Lemaitre",
+          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
+        },
+        {
+          "name": "josh pan",
+          "url": "https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "It's Not This",
+      "url": "https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P"
+    },
+    {
+      "added_at": "2025-09-15 03:42:19",
+      "album": {
         "name": "Diamond Miner",
         "url": "https://open.spotify.com/album/22tlBIBLJy9pmB9AnJILEE"
       },
@@ -783,30 +807,6 @@
       "duration_ms": 193000,
       "name": "pity dirty",
       "url": "https://open.spotify.com/track/1O12sL9Ekek4WY7U03cG06"
-    },
-    {
-      "added_at": "2025-09-15 03:42:19",
-      "album": {
-        "name": "It's Not This",
-        "url": "https://open.spotify.com/album/5XbxaUEQQ7jTJ5zBa19pjY"
-      },
-      "artists": [
-        {
-          "name": "Bearson",
-          "url": "https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg"
-        },
-        {
-          "name": "Lemaitre",
-          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
-        },
-        {
-          "name": "josh pan",
-          "url": "https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "It's Not This",
-      "url": "https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P"
     },
     {
       "added_at": "2025-09-15 03:42:19",
@@ -995,26 +995,6 @@
     {
       "added_at": "2025-09-15 03:42:19",
       "album": {
-        "name": "Walk Long",
-        "url": "https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ"
-      },
-      "artists": [
-        {
-          "name": "Psylo",
-          "url": "https://open.spotify.com/artist/4EvMhwDutimwUZSG7t38XI"
-        },
-        {
-          "name": "KINIDA",
-          "url": "https://open.spotify.com/artist/5rxk8Y4xZoD152zShQiwhB"
-        }
-      ],
-      "duration_ms": 248877,
-      "name": "Walk Long",
-      "url": "https://open.spotify.com/track/1ibtSIWTF1Ti00WMocGGir"
-    },
-    {
-      "added_at": "2025-09-15 03:42:19",
-      "album": {
         "name": "Londinium",
         "url": "https://open.spotify.com/album/6SpDB8znJJGwcuoj2GW1cV"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 136007,
       "name": "So",
       "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
+    },
+    {
+      "added_at": "2025-09-15 03:42:19",
+      "album": {
+        "name": "Walk Long",
+        "url": "https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ"
+      },
+      "artists": [
+        {
+          "name": "Psylo",
+          "url": "https://open.spotify.com/artist/4EvMhwDutimwUZSG7t38XI"
+        },
+        {
+          "name": "KINIDA",
+          "url": "https://open.spotify.com/artist/5rxk8Y4xZoD152zShQiwhB"
+        }
+      ],
+      "duration_ms": 248877,
+      "name": "Walk Long",
+      "url": "https://open.spotify.com/track/1ibtSIWTF1Ti00WMocGGir"
     },
     {
       "added_at": "2025-09-15 03:42:19",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-09-15 03:42:19",
       "album": {
+        "name": "ELEVATED LOVE",
+        "url": "https://open.spotify.com/album/4srnbIqcCujzndeJwJSmwP"
+      },
+      "artists": [
+        {
+          "name": "KAMOBii",
+          "url": "https://open.spotify.com/artist/2oQ9BxzlZifyZKD035tVj1"
+        }
+      ],
+      "duration_ms": 208391,
+      "name": "ELEVATED LOVE",
+      "url": "https://open.spotify.com/track/68S4hD2MjipTvup1a4Qyvw"
+    },
+    {
+      "added_at": "2025-09-15 03:42:19",
+      "album": {
         "name": "Live on Ice",
         "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 215999,
       "name": "Cheap Vacations (feat. Glassface)",
       "url": "https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP"
-    },
-    {
-      "added_at": "2025-09-15 03:42:19",
-      "album": {
-        "name": "ELEVATED LOVE",
-        "url": "https://open.spotify.com/album/4srnbIqcCujzndeJwJSmwP"
-      },
-      "artists": [
-        {
-          "name": "KAMOBii",
-          "url": "https://open.spotify.com/artist/2oQ9BxzlZifyZKD035tVj1"
-        }
-      ],
-      "duration_ms": 208391,
-      "name": "ELEVATED LOVE",
-      "url": "https://open.spotify.com/track/68S4hD2MjipTvup1a4Qyvw"
     },
     {
       "added_at": "2025-09-15 03:42:19",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-09-15 03:42:19",
       "album": {
-        "name": "Cheap Queen",
-        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 203946,
-      "name": "If You Think It's Love",
-      "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
-    },
-    {
-      "added_at": "2025-09-15 03:42:19",
-      "album": {
         "name": "From You",
         "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
       },
@@ -1687,18 +1671,18 @@
     {
       "added_at": "2025-09-15 03:42:19",
       "album": {
-        "name": "Our Time is Blue",
-        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
+        "name": "Cheap Queen",
+        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
       },
       "artists": [
         {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         }
       ],
-      "duration_ms": 218266,
-      "name": "Our Time",
-      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
+      "duration_ms": 203946,
+      "name": "If You Think It's Love",
+      "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
     },
     {
       "added_at": "2025-09-15 03:42:19",
@@ -1719,18 +1703,38 @@
     {
       "added_at": "2025-09-15 03:42:19",
       "album": {
-        "name": "I WILL BE THE CAUSE OF OUR DEATH",
-        "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
+        "name": "Our Time is Blue",
+        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
       },
       "artists": [
         {
-          "name": "takeshi iwamoto",
-          "url": "https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9"
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
         }
       ],
-      "duration_ms": 222000,
-      "name": "I WILL BE THE CAUSE OF OUR DEATH",
-      "url": "https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC"
+      "duration_ms": 218266,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
+    },
+    {
+      "added_at": "2025-09-15 03:42:19",
+      "album": {
+        "name": "Acchordance",
+        "url": "https://open.spotify.com/album/3adRFNS6sAgApn9uuKDXYF"
+      },
+      "artists": [
+        {
+          "name": "Doctor Flake",
+          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
+        },
+        {
+          "name": "Malika",
+          "url": "https://open.spotify.com/artist/4kEd51gggillWwuzr1rpM6"
+        }
+      ],
+      "duration_ms": 276154,
+      "name": "Lonely Road",
+      "url": "https://open.spotify.com/track/22W2hL07wNFLxoAceaEJkt"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

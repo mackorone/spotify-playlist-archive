@@ -2961,6 +2961,24 @@
     },
     {
       "album": {
+        "name": "\u534a\u534a",
+        "url": "https://open.spotify.com/album/5kcrOZq9e6Y6fDeEiSFAK1"
+      },
+      "artists": [
+        {
+          "name": "Wols",
+          "url": "https://open.spotify.com/artist/6DSR9qZRz6KjXARryGMOvb"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "\u534a\u534a",
+      "url": "https://open.spotify.com/track/6M8hmnUyDTVah1gB1oXwel"
+    },
+    {
+      "album": {
         "name": "\u5357\u65b9\u7684\u6708\u4eae",
         "url": "https://open.spotify.com/album/7p4Sy8J4q3Ix3HdNSpG1Rb"
       },
@@ -7707,6 +7725,24 @@
     },
     {
       "album": {
+        "name": "\u76f8\u6a5f",
+        "url": "https://open.spotify.com/album/1hH5YCYHkSb275KV18QUk6"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u6728",
+          "url": "https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177800,
+      "name": "\u76f8\u6a5f",
+      "url": "https://open.spotify.com/track/13s83RBJM3kNVBTK7gJ2Xf"
+    },
+    {
+      "album": {
         "name": "\u773c\u6dda",
         "url": "https://open.spotify.com/album/1iT1Z70Gwr7jrShnTYccov"
       },
@@ -7808,7 +7844,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 189000,
       "name": "\u79b1\u6587 - OT\uff1a\u8a00\u4e0d\u7531\u8877",
       "url": "https://open.spotify.com/track/1rmOhrRj8cFpb7KEDqtdVc"
@@ -7826,7 +7862,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 189500,
       "name": "\u7a7a\u57ce\u8a18",
       "url": "https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F"

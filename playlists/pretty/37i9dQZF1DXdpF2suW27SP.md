@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > YeezYuri & Wet Bed Gang entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,079 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,107 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [Saudade](https://open.spotify.com/track/2YVtDpRtyFb7rzu0m7Dg6S) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Morais](https://open.spotify.com/artist/4cEw0eZ9duWo7tuxQ78Obu) | [Saudade](https://open.spotify.com/album/6P2otgLvoiizkovS14Oiaz) | 3:38 |
 | 70 | [Cara a cara](https://open.spotify.com/track/5qA0JrW3jOR8OOBAkmEQyQ) | [SlimeLifeBaby](https://open.spotify.com/artist/5an3YOg8y5hF13ePDpGdqz), [Mariela](https://open.spotify.com/artist/1UpLatwiEUHQne567fXpPY) | [Cara a Cara](https://open.spotify.com/album/1WUCsWhdMTgKkfdDZkkkjw) | 3:10 |
 
-Snapshot ID: `AAAAACrXHkOkPiP7qcp9l6Gv+Smbjdi+`
+Snapshot ID: `AAAAAGZhP/S9MzDBLtL2aiVNDt3lL7dj`

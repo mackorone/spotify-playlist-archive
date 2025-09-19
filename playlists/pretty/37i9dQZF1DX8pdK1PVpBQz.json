@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: Soli",
-  "num_followers": 28988,
+  "num_followers": 28996,
   "original_name": "Fresh Finds AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEsjl1Ui3OJBrkeJFRvrluVuYwmQ",
+  "snapshot_id": "AAAAAE1CUDdyike3oaEwzHzlAlWzRHzQ",
   "tracks": [
     {
       "added_at": "2025-09-16 14:00:30",
@@ -103,6 +103,22 @@
       "duration_ms": 327716,
       "name": "Mingle",
       "url": "https://open.spotify.com/track/01zH8Xx1jvezlqrbIo60i9"
+    },
+    {
+      "added_at": "2025-09-18 06:57:17",
+      "album": {
+        "name": "Heart on Sleeve, 10,000 Better Days",
+        "url": "https://open.spotify.com/album/2MbQjUoEV9XQWvNUM6kmKC"
+      },
+      "artists": [
+        {
+          "name": "Private Mountain",
+          "url": "https://open.spotify.com/artist/0ADk9wfY6PK41umJym9zs0"
+        }
+      ],
+      "duration_ms": 288500,
+      "name": "Comfort",
+      "url": "https://open.spotify.com/track/03TEY9LGl1dFNGRszxjGi0"
     },
     {
       "added_at": "2025-09-16 14:00:30",
@@ -215,6 +231,22 @@
       "duration_ms": 185452,
       "name": "Foreign Feeling",
       "url": "https://open.spotify.com/track/1Vq4HOc5bliSg23hq8tIEP"
+    },
+    {
+      "added_at": "2025-09-18 06:57:17",
+      "album": {
+        "name": "NEW AGE",
+        "url": "https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03"
+      },
+      "artists": [
+        {
+          "name": "sleepazoid",
+          "url": "https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel"
+        }
+      ],
+      "duration_ms": 212497,
+      "name": "NEW AGE",
+      "url": "https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9"
     },
     {
       "added_at": "2025-09-02 14:00:13",
@@ -1607,38 +1639,6 @@
       "duration_ms": 223928,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/0eMV7pbegUhXUIMwXRBfHg"
-    },
-    {
-      "added_at": "2025-08-05 14:00:25",
-      "album": {
-        "name": "What Line?",
-        "url": "https://open.spotify.com/album/5bH6EJdqZzCNSOVhONDsfl"
-      },
-      "artists": [
-        {
-          "name": "LOLA",
-          "url": "https://open.spotify.com/artist/0cD96GFyKaDX2LdpHpyT7d"
-        }
-      ],
-      "duration_ms": 295718,
-      "name": "What Line?",
-      "url": "https://open.spotify.com/track/4xGJfHUgmuXXJIKgWvNlb9"
-    },
-    {
-      "added_at": "2025-08-12 14:00:17",
-      "album": {
-        "name": "in all the ways i am",
-        "url": "https://open.spotify.com/album/6E4AJ8v6AjUpviMSpRpbxd"
-      },
-      "artists": [
-        {
-          "name": "The Stamps",
-          "url": "https://open.spotify.com/artist/4lNBuBS2if6Kz9IYUK5fdC"
-        }
-      ],
-      "duration_ms": 186160,
-      "name": "free my mind",
-      "url": "https://open.spotify.com/track/2E5peop15ccspoUjptzVHG"
     }
   ],
   "unique_name": "Fresh Finds AU & NZ",

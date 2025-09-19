@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección de ELENA ROSE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,837 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,833 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 49 | [Cómo Te Atreves](https://open.spotify.com/track/3Iw5nYAPwHw12sjhTaVn5P) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Cómo Te Atreves](https://open.spotify.com/album/5jBnlgFRHm1gJHrhVDdE5I) | 2:59 |
 | 50 | [QSV](https://open.spotify.com/track/73ZE0Dmy5FsfiMUECtehzG) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [QSV](https://open.spotify.com/album/07ouadyCgIvGlbHgJu7BE1) | 2:05 |
 
-Snapshot ID: `AAAAALm2l6ZWp/dcXke8X4Q0+Oucz1HP`
+Snapshot ID: `AAAAAJLaQ3K0stz0pHjIomrv+rvLXn7l`

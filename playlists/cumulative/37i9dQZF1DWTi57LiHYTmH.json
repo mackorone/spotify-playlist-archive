@@ -2707,6 +2707,28 @@
     },
     {
       "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 706693,
+      "name": "Fratres (Transc. Osokins for Piano)",
+      "url": "https://open.spotify.com/track/5K3Is3Xgg3jToIvbqBZiTL"
+    },
+    {
+      "album": {
         "name": "The Importance of Birds",
         "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
       },
@@ -4148,6 +4170,32 @@
       "duration_ms": 131200,
       "name": "No. 4, Largo",
       "url": "https://open.spotify.com/track/5XfmcJMAaifjRrIdLaXVLm"
+    },
+    {
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ"
+      },
+      "artists": [
+        {
+          "name": "Leon Wolf",
+          "url": "https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S"
+        },
+        {
+          "name": "Robin Kallenberger",
+          "url": "https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144075,
+      "name": "Noctilucent",
+      "url": "https://open.spotify.com/track/3sdCoYRGhiUJmd02vVp8xe"
     },
     {
       "album": {
@@ -6444,7 +6492,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 198466,
       "name": "The Road: 6. Husedalen",
       "url": "https://open.spotify.com/track/1z2yoZMj4TSEwWVfRq8sqR"
@@ -6880,7 +6928,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 65560,
       "name": "Variations concertantes, Op. 17/MWV Q 19: I. Thema",
       "url": "https://open.spotify.com/track/6niR0Jo6cYUMeNpcRGsIt3"

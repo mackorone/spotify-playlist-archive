@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Samantha Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,304 likes - 100 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,344 likes - 100 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 4 | [Corrina](https://open.spotify.com/track/21FbveXKY4LdlUbIRG80P6) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Swingin' Live at The Church in Tulsa](https://open.spotify.com/album/1BS29Yn0GYgoJG7LAMkqXI) | 5:10 |
 | 5 | [Midnight Heat \- Live](https://open.spotify.com/track/2HlfyyZwGq6tQYwl2qU0vY) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Live In London](https://open.spotify.com/album/3Lqzd6AFTfeVybMiBbBDse) | 5:24 |
 | 6 | [The Last Matador Of Bayonne \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/4rgnW50oylv9VMDb1GKJcU) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Last Matador Of Bayonne \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/album/6GMLIFdBnSEUiVzhg1F0Ju) | 8:12 |
-| 7 | [Always Free \(Live in Austin\)](https://open.spotify.com/track/7lcoqPnMvytTtYPBqS2LNO) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends \(Live in Austin\)](https://open.spotify.com/album/3FnXv4h5TBWXo7ccTftiUj) | 7:36 |
+| 7 | [Always Free \(Live in Austin\) \[Live\]](https://open.spotify.com/track/7lcoqPnMvytTtYPBqS2LNO) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends \(Live in Austin\)](https://open.spotify.com/album/3FnXv4h5TBWXo7ccTftiUj) | 7:36 |
 | 8 | [Blues Music \- Live at the Knitting Factory, NYC, NY \- 7/20/1994 \(Set 1\)](https://open.spotify.com/track/2jEBAgMU9Mhb0tpaEUxE5o) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [G\. Love & Special Sauce \(30th Anniversary Expanded Edition\)](https://open.spotify.com/album/76IqHvS37OvwXviTLbOx4Q) | 4:58 |
 | 9 | [Underneath The River \- Live 2023](https://open.spotify.com/track/2pgRRXsHtZe5OpHD6FmKgC) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Underneath The River \(Live 2023\)](https://open.spotify.com/album/19HeG1fcpAL9DoQ9utLxhq) | 6:34 |
 | 10 | [Ball Peen Hammer \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/3U9bFP9W41u4Bjxx3A0Nad) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Ball Peen Hammer \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/album/0FAqA6YKkJmz3y1rLhYnM4) | 3:57 |

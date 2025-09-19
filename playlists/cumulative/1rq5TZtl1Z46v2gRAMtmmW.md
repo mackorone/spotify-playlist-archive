@@ -4,7 +4,7 @@
 
 > 
 
-449 songs - 1 day 5 hr 51 min
+451 songs - 1 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Meli \(II\)](https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Meli \(II\)](https://open.spotify.com/album/6pDZnLDqV5XuiVmuSw7oZs) | 6:57 | 2022-06-28 | 2023-05-19 |
 | [Mesa Mesa](https://open.spotify.com/track/1msa48qu8yDKW3KKza18Nk) | [Yuuf](https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v) | [Mesa Mesa](https://open.spotify.com/album/1etDO8SYGuooX7uNrZy6w9) | 4:56 | 2025-09-09 |  |
 | [Method Actor](https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Method Actor](https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE) | 3:51 | 2024-06-10 | 2024-09-12 |
+| [More](https://open.spotify.com/track/0udrRKq9AIymrp1OJJbQes) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [More](https://open.spotify.com/album/4OIdvBzdQNmzqZOYZ7dHJ4) | 3:08 | 2025-09-18 |  |
 | [more soul](https://open.spotify.com/track/6n8cm6hPcYMYOUtdIjDkSC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [TRUE MAGIC, DELUXE](https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1) | 4:17 | 2025-07-18 |  |
 | [Motorway](https://open.spotify.com/track/7LvrMSPnW345xGt48D4D6X) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX), [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d) | [Lorings](https://open.spotify.com/album/61edjeTzA9eXBLQ1JxyJFI) | 1:48 | 2025-04-25 | 2025-09-18 |
 | [MOVEMENT](https://open.spotify.com/track/3fLwSEBKc3hVBqfuGUyzxN) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [CHOROPHOBIA](https://open.spotify.com/album/3Hqy5F2Bny4NmVvc40XN69) | 3:27 | 2025-09-08 |  |
@@ -428,6 +429,7 @@
 | [Until There's Nothing Left](https://open.spotify.com/track/1Mx0bF3jajHH3zvMHfaleV) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Until There’s Nothing Left](https://open.spotify.com/album/1KPZFUZfy0l7uFKLzrVjHL) | 3:50 | 2024-08-28 | 2025-01-22 |
 | [Up Song \- Live at Bush Hall](https://open.spotify.com/track/3b6suhvxtWPIF0tZe5xDCL) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Live at Bush Hall](https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW) | 4:20 | 2023-03-24 | 2023-10-28 |
 | [Vajkoczy](https://open.spotify.com/track/3KmzZk1OtrY7eNvAliEaiP) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Vajkoczy](https://open.spotify.com/album/3oy1d5bjUEGw1GiJJ1vPLI) | 4:10 | 2023-08-29 | 2023-09-28 |
+| [VANDAL](https://open.spotify.com/track/3kVUSyFb3VK13TUqDfHimM) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH), [Moses Yoofee](https://open.spotify.com/artist/63xdxZes5VBaGdAWhMbgdZ) | [VANDAL](https://open.spotify.com/album/4QXMqZNT32fBt9dTZqTdxK) | 2:46 | 2025-09-18 |  |
 | [Vast Oceans, Empty Skies](https://open.spotify.com/track/6Vxm5h0BxHdwM5oBMhTi3E) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW) | [Vast Oceans, Empty Skies](https://open.spotify.com/album/5vBh6dcOCsHMs3o7NvbGMI) | 4:20 | 2023-12-11 | 2024-03-01 |
 | [VIOLET](https://open.spotify.com/track/7bj2V0jUq2wbuOwxlajhIu) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [VIOLET](https://open.spotify.com/album/1PXmYCuozfCvpV3ssSgsgA) | 2:26 | 2023-09-26 | 2024-04-17 |
 | [Visionary](https://open.spotify.com/track/1JXAauW28NaabFzWBucAJk) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Visionary](https://open.spotify.com/album/17RXzKiPyfV4Ud7ii1atEP) | 3:26 | 2023-01-20 | 2023-02-10 |

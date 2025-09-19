@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSu9OYFMtl78.md) - [plain]
 
 > Sophisticated palates only\. Curated by: JaNa Craig
 
-[Spotify](https://open.spotify.com/user/spotify) - 173 likes - 143 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 190 likes - 143 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

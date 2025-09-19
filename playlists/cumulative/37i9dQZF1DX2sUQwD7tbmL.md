@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-750 songs - 1 day 18 hr 34 min
+751 songs - 1 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 | 2022-04-13 |  |
 | [Gloom](https://open.spotify.com/track/5AMe0pqbUp4HR6Vi1ngYLW) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Gloom](https://open.spotify.com/album/4cAwTMcwIYn36iVG2Uz2oz) | 2:00 | 2022-07-29 | 2022-10-14 |
 | [Gloom](https://open.spotify.com/track/6L8JVXMBLDZeyhBKr0lrj8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:00 | 2022-10-14 | 2024-04-19 |
-| [Gloria](https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Gloria](https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC) | 2:32 | 2023-06-02 | 2025-09-14 |
+| [Gloria](https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Gloria](https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC) | 2:32 | 2023-06-02 |  |
 | [Go Boy](https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Go Boy](https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E) | 2:56 | 2023-04-07 | 2025-06-07 |
 | [Go Wild](https://open.spotify.com/track/0H39cYgfekuFluOgGPUicR) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Go Wild](https://open.spotify.com/album/4W0dYMXgDxAfT9y86EQqw8) | 3:17 | 2021-05-01 | 2022-04-14 |
 | [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 | 2023-09-29 | 2024-04-19 |
@@ -369,7 +369,7 @@
 | [Jolie](https://open.spotify.com/track/5bB4eyM0bd4i5YIB3SyfBF) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Jolie](https://open.spotify.com/album/7KSc6yLnDS8rahkCrjgPgf) | 3:00 | 2021-05-01 | 2022-07-29 |
 | [Juicy Fruit](https://open.spotify.com/track/1pHN7g9eGQYWTpLQLGDIDf) | [Findlay](https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Juicy Fruit](https://open.spotify.com/album/0n3GFuNvAtic4L7cETyIBZ) | 2:52 | 2024-11-22 | 2025-02-07 |
 | [Juliette](https://open.spotify.com/track/1Po2n7GxUAf6snaUxYekd5) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Juliette](https://open.spotify.com/album/0A4sFi0UGoIbXNqAGjUyIm) | 2:50 | 2022-04-13 | 2022-04-21 |
-| [Juno](https://open.spotify.com/track/7F35nM1uBD2AzkXSYgLenE) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Juno](https://open.spotify.com/album/2Ff77bF2DIy1ry5qZ4yq7o) | 3:03 | 2024-11-22 |  |
+| [Juno](https://open.spotify.com/track/7F35nM1uBD2AzkXSYgLenE) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Juno](https://open.spotify.com/album/2Ff77bF2DIy1ry5qZ4yq7o) | 3:03 | 2024-11-22 | 2025-09-19 |
 | [Just Before The Morning](https://open.spotify.com/track/0bu0to8kgrXDzWklgZ3BuQ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:34 | 2023-09-29 | 2025-09-13 |
 | [Just Stay For Once](https://open.spotify.com/track/1Kaimjtef03VF7AQDLmwQ9) | [Imani Graham](https://open.spotify.com/artist/3z3RfAKT2rmzCfPoXSKfEA) | [Just Stay For Once](https://open.spotify.com/album/0CkS4LqIzZO5YOU1eMDOM5) | 3:36 | 2024-09-20 | 2025-01-03 |
 | [kerosene](https://open.spotify.com/track/52I97JnPW2VptLJbqrsNr3) | [mmmonika](https://open.spotify.com/artist/2kYklIrGwKMyDuVt6RiWgD) | [kerosene](https://open.spotify.com/album/5S3q7V1wbMnyyclCPacuNK) | 2:15 | 2021-05-01 | 2022-04-13 |
@@ -640,6 +640,7 @@
 | [Sure Enough](https://open.spotify.com/track/2ioGdTGwGqyeIJwwADffh0) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Sure Enough](https://open.spotify.com/album/6KE6jdNEjsGzjkQEp2GX3n) | 2:51 | 2024-03-01 | 2025-06-07 |
 | [Sway](https://open.spotify.com/track/2u4ugBC7qiil1W02UTXPJU) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Let Yourself Free](https://open.spotify.com/album/3EEUq4UWicsmDfWWkmImGE) | 2:15 | 2023-09-29 | 2025-09-13 |
 | [Sweating Gold](https://open.spotify.com/track/6h2xiDln9WpUTHpfLHzvd6) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Sweating Gold](https://open.spotify.com/album/7pKNs5eRx11unBLFzai0Cy) | 4:13 | 2021-05-01 | 2022-02-01 |
+| [Sweet Disaster](https://open.spotify.com/track/067SgWoNFD7fpN8v7UpHZj) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [Heartbreak Hysteria \(Deluxe\)](https://open.spotify.com/album/6XFTm4q18apeeh3zhHlGcT) | 3:22 | 2025-09-12 |  |
 | [Switch Over](https://open.spotify.com/track/1SFVei3ZUf3EuJdvKqmGKv) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 3:05 | 2025-06-06 |  |
 | [T Love](https://open.spotify.com/track/0Z2gIlbvlpFSb5W3TyCVjd) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Into The Rift](https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y) | 5:10 | 2023-09-29 | 2024-04-19 |
 | [T Love](https://open.spotify.com/track/1DMLc4avhS9tZZqI8VVtr5) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [T Love](https://open.spotify.com/album/3ppnqC8JtzBM9nq6VZbEqB) | 5:10 | 2022-05-01 | 2022-07-29 |
@@ -715,7 +716,7 @@
 | [upside down](https://open.spotify.com/track/6bfZzQWM6AJU8ER00jY2rx) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [upside down](https://open.spotify.com/album/4ittGDLkz4slK7qEsgAy0R) | 3:07 | 2022-04-13 | 2022-04-21 |
 | [Uptight](https://open.spotify.com/track/222lvkVmQn5YrgGgykcrOk) | [Nitefire](https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl) | [Uptight](https://open.spotify.com/album/0lrZQdDRJwHJkzSQ161Axp) | 3:01 | 2022-04-21 | 2022-07-28 |
 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 | 2022-04-13 | 2022-06-03 |
-| [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2024-03-01 |  |
+| [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2024-03-01 | 2025-09-19 |
 | [Vickie](https://open.spotify.com/track/57U1PB3FAleLul5wMj5dEZ) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Vickie](https://open.spotify.com/album/526tAZMztvUDsuiSs4Z7Ml) | 3:43 | 2022-06-01 |  |
 | [Virtual Aerobics](https://open.spotify.com/track/1fpGZJnHXFEbq8UIWIKmHH) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Virtual Aerobics](https://open.spotify.com/album/70QRj2miXV0LTLG887MgTp) | 2:02 | 2021-05-01 | 2022-03-18 |
 | [Waiting on the Summer](https://open.spotify.com/track/5w6amHqMxl0yFEkhsZt0Tk) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Stereo Hype](https://open.spotify.com/album/4c6J2SkNIWpKJBPy2TKZlp) | 4:14 | 2021-05-01 | 2022-04-14 |

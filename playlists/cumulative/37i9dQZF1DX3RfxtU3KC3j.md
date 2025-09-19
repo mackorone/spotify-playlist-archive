@@ -2,7 +2,7 @@
 
 ### [Türkçe Rock](https://open.spotify.com/playlist/37i9dQZF1DX3RfxtU3KC3j)
 
-> Gitar ve davulu konuşturanlar\. 🎸 Kapak: Dolu Kadehi Ters Tut
+> Gitar ve davulu konuşturanlar\. 🎸 Kapak: Batu Akdeniz
 
 447 songs - 1 day 1 hr 44 min
 

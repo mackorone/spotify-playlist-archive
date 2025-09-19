@@ -4,7 +4,7 @@
 
 > 
 
-872 songs - 2 day 20 hr 37 min
+875 songs - 2 day 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Bar Mediterraneo](https://open.spotify.com/track/3gfULpXswOBwrEcJB7Q9On) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS) | 3:04 | 2023-01-06 |  |
 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 | 2023-04-03 |  |
 | [Barcelona](https://open.spotify.com/track/6iw40hlRf77ti3ikBTMzOf) | [Giulia Y Los Tellarini](https://open.spotify.com/artist/5FGRi6VEnxlHSmeZggFbu8) | [Eusebio](https://open.spotify.com/album/1qqtVcmjqZWWon6M2eIU6A) | 2:25 | 2020-07-26 |  |
+| [Batanga II](https://open.spotify.com/track/52GajzxE6Jr7mIHWxiqDQG) | [Cuban old music](https://open.spotify.com/artist/6zt5pxFtaZFwoWIDnpQiV0) | [Pasión por Los 50](https://open.spotify.com/album/3wl1nvW6ExKmoF4vLj54VM) | 4:17 | 2025-09-18 |  |
 | [Batkalem Gad](https://open.spotify.com/track/4pVGFLYWOkt0QSoiT4KkV3) | [Simone](https://open.spotify.com/artist/1TdH01YRisNttfaGubLIR1), [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Batkalem Gad](https://open.spotify.com/album/11HyvAF5XrYmjuR7kUoO3Q) | 4:36 | 2025-02-19 |  |
 | [Belly Dance](https://open.spotify.com/track/38h5AatRyCvPcWdRdfRjyG) | [Amina](https://open.spotify.com/artist/0YjVZkuo6DCP2gx34ZM2q2) | [Yalil](https://open.spotify.com/album/61NxoE3TkhvLGc5VZI5LXN) | 4:49 | 2023-11-19 |  |
 | [Bia Lulucha](https://open.spotify.com/track/2ddfCiC26mGInDqeKmQwNz) | [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [La diva aux pieds nus](https://open.spotify.com/album/68ainFkjoFnPRN1y9pHugc) | 5:02 | 2020-09-23 |  |
@@ -223,6 +224,7 @@
 | [Doy Doy Doyamadım](https://open.spotify.com/track/14vBIsc4zs84fKgfwefpEs) | [Şenay](https://open.spotify.com/artist/02xbLoQZr8LXtC3ljLCNNU) | [Sev Kardeşim \(Hayat Bayram Olsa\)](https://open.spotify.com/album/71lFLef1rCCQnHJqS3C8lS) | 6:08 | 2020-12-01 |  |
 | [Dsusper](https://open.spotify.com/track/0ZHPeGQWKPkc6d0YwCvXTS) | [Kola](https://open.spotify.com/artist/7HfTVTCd4CJRDCWKGa2CpH) | [Guiné Bissau \(Sodad Serie 6 \- Vol\. 7\)](https://open.spotify.com/album/5vbeXj6LgPFAyOK3NrNf2c) | 5:03 | 2023-02-23 |  |
 | [Dukha](https://open.spotify.com/track/4XYGjUYSAWuiBOGtK9vxxL) | [Judas](https://open.spotify.com/artist/7lsA0gpo4Uam6FnhzvqwsC) | [Ugat the best of pinoy folk rock](https://open.spotify.com/album/1VjN1SV5s4GZ4AnqUjXKct) | 3:21 | 2020-07-12 |  |
+| [Duodo Wuo Ye Ya \- Short Version](https://open.spotify.com/track/4BNS9ahTuP5wpkL46H60bY) | [Dan Boadi](https://open.spotify.com/artist/6zxbp2s8aQ3HnJbBgkCigm) | [Money Is The Root Of Evil b/w Duodu Wuo Ye Ya](https://open.spotify.com/album/5VCBLctlfE3AiPDuma1sB4) | 5:04 | 2025-09-18 |  |
 | [Détends\-toi](https://open.spotify.com/track/701cUe4zKDdMFgb8UV3Py8) | [Stella](https://open.spotify.com/artist/5w3hiAOQKr9glXE15H4A6e), [Ed Longo](https://open.spotify.com/artist/3nqWfkB8tEeGxqYgwzg6U4) | [Détends\-Toi](https://open.spotify.com/album/6OlWZuO3iT7RbhcmqPCbCK) | 6:20 | 2022-12-12 |  |
 | [Dünyada Tek Sen Mi Varsın](https://open.spotify.com/track/44l427juug0N5Jc2MOW69Q) | [Ceylan Ece](https://open.spotify.com/artist/1S9XTKpBzRAHzla1vo6S60) | [Meçhul Sevgili](https://open.spotify.com/album/1lss3LCJZ5cQboMIXXWqLT) | 3:15 | 2019-09-03 |  |
 | [E Go Betta](https://open.spotify.com/track/5Zlfqewbd8ETl6VKw2BwT8) | [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc) | [You No Fit Touch Am](https://open.spotify.com/album/34YHmifYW5JiB6mfmj7QQZ) | 6:09 | 2021-05-13 |  |
@@ -527,6 +529,7 @@
 | [Nereci](https://open.spotify.com/track/6Iob8qYmUUTenQRi4u3tfs) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA), [Marizinha](https://open.spotify.com/artist/2E7RJStNCRGdzJbT1AzpwA) | [Djavan](https://open.spotify.com/album/6nNxchWJHFDd31sbiWlKPC) | 3:19 | 2019-07-27 |  |
 | [Neveen](https://open.spotify.com/track/1rU5TrPEoGHRjopPaefAb9) | [Salah Ragab](https://open.spotify.com/artist/4qczpAvtGm4OU2Jz2cXPWq), [The Cairo Jazz Band](https://open.spotify.com/artist/0tFxRtUBDrWSRcHp9FwCCe) | [Egyptian Jazz](https://open.spotify.com/album/2qCSIYhyOQ8LJ8Dwc8Cmu0) | 7:54 | 2022-02-25 |  |
 | [Nisyan](https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Compilation](https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5) | 4:17 | 2024-01-25 |  |
+| [No stasera no \- Original 45 Version](https://open.spotify.com/track/3zmXS9nQzn2LDQrEWbknnT) | [Sal Panzera](https://open.spotify.com/artist/27kJ8rzVc6uLbFf5GL2GqF) | [No stasera no \(Original 45 Version\)](https://open.spotify.com/album/5iNxRK5BWkiRUwDpebFGHl) | 4:32 | 2025-09-18 |  |
 | [No te aguanto más](https://open.spotify.com/track/1x8Hbu1mx6LHNVEdiyLrtw) | [Objetivo Birmania](https://open.spotify.com/artist/6d88kdF9N4XWda5sc2yzul) | [Tormenta A Las Diez](https://open.spotify.com/album/4043IeeEKdbTGbrSJNHlm0) | 3:38 | 2022-09-23 |  |
 | [Noche de Ronda](https://open.spotify.com/track/68wE8jzo7TjQVpuO0dovNR) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 3:18 | 2022-01-08 |  |
 | [Nomalizo](https://open.spotify.com/track/6gB3NJQ9dF5xoqUBKGX6Uz) | [Letta Mbulu](https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0) | [Greatest Hits](https://open.spotify.com/album/3lptmTh9SD224S4ZKKgCgv) | 5:08 | 2020-07-28 |  |

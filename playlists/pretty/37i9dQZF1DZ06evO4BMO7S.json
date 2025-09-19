@@ -1,12 +1,12 @@
 {
   "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 22916,
+  "num_followers": 22934,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAACqBgrvo81hv88k2izbPsCd",
+  "snapshot_id": "aMn6AAAAAACw/tgeM3XiiKmU1vbM+2z8",
   "tracks": [
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 220316,
-      "name": "Paprika",
-      "url": "https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3"
+      "duration_ms": 219782,
+      "name": "Slide Tackle",
+      "url": "https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 219782,
-      "name": "Slide Tackle",
-      "url": "https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1"
+      "duration_ms": 220316,
+      "name": "Paprika",
+      "url": "https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psychopomp",
-        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 144677,
-      "name": "The Woman That Loves You",
-      "url": "https://open.spotify.com/track/0sCAvQ7CJ1HeCPWiJmYivu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sable (Original Video Game Soundtrack)",
         "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 171000,
       "name": "Glider - from \"Sable\" Original Video Game Soundtrack",
       "url": "https://open.spotify.com/track/6fyMExLM9mmtXAQKCnTaZG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 144677,
+      "name": "The Woman That Loves You",
+      "url": "https://open.spotify.com/track/0sCAvQ7CJ1HeCPWiJmYivu"
     },
     {
       "added_at": null,

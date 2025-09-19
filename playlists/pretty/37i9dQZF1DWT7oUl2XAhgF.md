@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Adi Oasis
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,110 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,172 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 34 | [Send It Back](https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Send It Back](https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6) | 2:53 |
 | 35 | [Reasons To Stay](https://open.spotify.com/track/1wcjZRnXu86UIWh0tPY5xd) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I) | [Reasons To Stay](https://open.spotify.com/album/66tOv5HJVitbCHEq52WTks) | 3:36 |
 | 36 | [Mama I Really Love You](https://open.spotify.com/track/7bWe4daPY3z357WjP6Xu7p) | [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [You Had Your Chance..\. Bad Attitude!](https://open.spotify.com/album/5xVj3HpB047Vppiwx92ncZ) | 3:15 |
-| 37 | [If We Try](https://open.spotify.com/track/7oyYeHq2tz7f80DSl9nknN) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quinones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [If We Try](https://open.spotify.com/album/2IbIbmF3m122JX9Gkh3Dhw) | 3:44 |
+| 37 | [If We Try](https://open.spotify.com/track/7oyYeHq2tz7f80DSl9nknN) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [If We Try](https://open.spotify.com/album/2IbIbmF3m122JX9Gkh3Dhw) | 3:44 |
 | 38 | [Just As Long As We're Together](https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just As Long As We're Together](https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn) | 3:14 |
 | 39 | [Maybe It's You](https://open.spotify.com/track/7kFgKExxDFZJghA6Q4kCUR) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Maybe It's You](https://open.spotify.com/album/2K52HJlE1DOY5JgVMAr4Xz) | 3:54 |
 | 40 | [Walk The Way](https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin'](https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O) | 3:11 |

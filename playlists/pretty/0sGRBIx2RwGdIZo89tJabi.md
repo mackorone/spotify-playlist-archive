@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0sGRBIx2RwGdIZo89tJabi.md) - [plain]
 
 > These are a few of my favorite tracks at the moment :\)
 
-[Ekonovah](https://open.spotify.com/user/6ziw37syq4ndhwjeo094f2kbe) - 110 likes - 20 songs - 1 hr 6 min
+[Ekonovah](https://open.spotify.com/user/6ziw37syq4ndhwjeo094f2kbe) - 111 likes - 20 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

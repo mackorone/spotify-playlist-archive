@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-821 songs - 2 day 15 hr 10 min
+822 songs - 2 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,6 +711,7 @@
 | [toaf\_](https://open.spotify.com/track/1wdfhZqeNVnULZPWNdWBep) | [Miyauchi Yuri](https://open.spotify.com/artist/1AVCRg5rAMfIXaUcz2fi3p) | [トーンアフタートーン](https://open.spotify.com/album/44TRNTnE4YCeQSg0LgHjVA) | 3:55 | 2022-03-31 | 2022-07-27 |
 | [Tobiume](https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:38 | 2022-07-28 | 2024-02-09 |
 | [TOBIUME](https://open.spotify.com/track/5JpfGKhIFJqGYdTf8wlr8q) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM) | 4:38 | 2022-04-07 | 2022-07-29 |
+| [Tokyo 1](https://open.spotify.com/track/2UxnSVsaf2OujQaVAa58Zu) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hokkaido](https://open.spotify.com/album/2uW1FDnKmX1z0QxajdRmYv) | 4:42 | 2025-09-18 |  |
 | [Tokyo 1](https://open.spotify.com/track/5nl56UAcJlkc9BNVEaXX21) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Tokyo 1](https://open.spotify.com/album/1MpV8UzILMsmdhl31SPZZU) | 4:42 | 2025-08-20 |  |
 | [Topanga Canyon](https://open.spotify.com/track/0dQ28uH1krBpjQ0OzcpmEs) | [Hiroki Okano](https://open.spotify.com/artist/5ZtBM3N7gMFDYynbIhlFfJ) | [Return to the Soul](https://open.spotify.com/album/3HWOK9otQrOs9JMvr8IEuB) | 5:02 | 2022-04-16 | 2022-04-21 |
 | [Traffic \(Taipei\)](https://open.spotify.com/track/7nCJi0AYoVIY85jVtBNUV1) | [UNKNOWN ME](https://open.spotify.com/artist/5tmYdSKm3f4o6oOFCuxgtR) | [Subtropics](https://open.spotify.com/album/3I0XvrPCUYXiCdEuVcSRH9) | 4:22 | 2022-03-31 | 2022-07-14 |
@@ -827,7 +828,7 @@
 | [雲の速度](https://open.spotify.com/track/0qwCdemBX1SJ0bHbhd9B5e) | [オノセイゲン](https://open.spotify.com/artist/6v0jbPAxNpiQPnu9MaaRLf) | [SEIGEN](https://open.spotify.com/album/6Pu7wOVVNVNyg3Z0bdJxb2) | 9:57 | 2022-04-07 | 2022-07-11 |
 | [霧中夢](https://open.spotify.com/track/3QfKXrXI14fomDcmwYdkOY) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [夢中夢](https://open.spotify.com/album/62kdE7eeVhMWFMvvHPxiBn) | 6:59 | 2024-03-07 | 2024-12-04 |
 | [風に舞うエンジェル](https://open.spotify.com/track/1s5kQcQCD6mF6RKInHR44U) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [ふれあい](https://open.spotify.com/album/0ZCCs6urVebwf2rIeMyVLo) | 5:45 | 2022-04-16 | 2022-07-26 |
-| [風の谷のナウシカ \- 2024 ver.](https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [風の谷のナウシカ \(2024 ver.\)](https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH) | 5:25 | 2024-03-07 |  |
+| [風の谷のナウシカ \- 2024 ver.](https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [風の谷のナウシカ \(2024 ver.\)](https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH) | 5:25 | 2024-03-07 | 2025-09-19 |
 | [麹室 \- 2020winterMIX](https://open.spotify.com/track/3iRNwztTOICguefJsk9FPQ) | [kibaco](https://open.spotify.com/artist/57cn83HfH33HD5evuQRbch) | [麹室 \(2020winterMIX\)](https://open.spotify.com/album/5FeWSmOPHOTO9kURDYFWJR) | 4:22 | 2022-03-31 | 2022-04-11 |
 
 \*This playlist was first scraped on 2022-03-31. Prior content cannot be recovered.

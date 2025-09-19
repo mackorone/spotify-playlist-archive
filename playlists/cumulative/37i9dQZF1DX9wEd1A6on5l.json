@@ -6754,7 +6754,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 139636,
       "name": "HIGH STAR",
       "url": "https://open.spotify.com/track/0lDF1W7GchI8tKq6GCfdUE"
@@ -9196,7 +9196,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 163539,
       "name": "MACHO (feat. NLE Choppa)",
       "url": "https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF"
@@ -10446,7 +10446,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 190819,
       "name": "No Less",
       "url": "https://open.spotify.com/track/32wGNSA3W124qObuGWW2i6"
@@ -12303,6 +12303,28 @@
     },
     {
       "album": {
+        "name": "Reality (feat. Terry Apala)",
+        "url": "https://open.spotify.com/album/6CSPlZJDHsXOpUO7W4cXvd"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        },
+        {
+          "name": "Terry Apala",
+          "url": "https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Reality (feat. Terry Apala)",
+      "url": "https://open.spotify.com/track/09X741bYWpIYBvNDJ2l6ss"
+    },
+    {
+      "album": {
         "name": "Prince of the Street",
         "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
       },
@@ -12800,6 +12822,28 @@
       "duration_ms": 158955,
       "name": "See Me yah",
       "url": "https://open.spotify.com/track/5ta3DW7XdUPYtlZNCUVGHc"
+    },
+    {
+      "album": {
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185719,
+      "name": "See What We've Done",
+      "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
     },
     {
       "album": {

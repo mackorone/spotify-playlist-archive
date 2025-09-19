@@ -4,7 +4,7 @@
 
 > The best new dance music by independent artists and labels, featuring Jaguar\. Artwork by Rewina Beshue.
 
-3,154 songs - 8 day 15 hr 1 min
+3,155 songs - 8 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1172,6 +1172,7 @@
 | [golden youth](https://open.spotify.com/track/0EEBpebb9zvFIaPc3g6mmR) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [golden youth](https://open.spotify.com/album/6c3sJYQyG60sv54IhQZk0o) | 3:32 | 2021-12-01 | 2022-01-27 |
 | [Gone Too Late](https://open.spotify.com/track/5qlgb01ehJT3cg7OoDsQv5) | [Dylan C\. Greene](https://open.spotify.com/artist/5E6C1T3ALDIdlJCWL0ZPC4), [3kelves](https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH), [We Are Neurotic](https://open.spotify.com/artist/6Md8JmF20ZQgz6g54LqdIA) | [Gone Too Late](https://open.spotify.com/album/7vSIrrDO9EUipOyutvrObH) | 4:47 | 2023-08-16 | 2024-01-11 |
 | [Good Love](https://open.spotify.com/track/3XyytSlgnDMymOwukbUqLz) | [Jey Vazz](https://open.spotify.com/artist/3UUa5nO3gumI0Ld4bapvhu) | [RAY](https://open.spotify.com/album/5upxZBUzZmGLURduCXytVA) | 2:04 | 2023-07-12 | 2023-08-17 |
+| [Good Time](https://open.spotify.com/track/1luD5JSJyGUCAUDSgiYCeD) | [BAVR](https://open.spotify.com/artist/2GKky4NWDiyQGNfg0AWV0m), [Mirage](https://open.spotify.com/artist/1t7EIjSsW1qmSwU3d10Aiy) | [Soul Of The Dancefloor](https://open.spotify.com/album/5qYZVGIYgfowGmLKkKeCaB) | 3:36 | 2025-09-18 |  |
 | [Good Time](https://open.spotify.com/track/2WsHUKU3LyKvCPW1le2gZm) | [Declan Knapp](https://open.spotify.com/artist/1dvBU2hQV77ywL1HTIA0O4) | [Good Time](https://open.spotify.com/album/5eobomkH2bGB4TOhk7rfDi) | 2:29 | 2025-02-21 | 2025-03-15 |
 | [Goodbye](https://open.spotify.com/track/1B0JPbHveYeKoEfOYep3Ja) | [SAINT](https://open.spotify.com/artist/5PoQmMLwwzA0lnmnhbip2n) | [Goodbye](https://open.spotify.com/album/40e19DXM4NgcsO1RenWOzI) | 4:30 | 2023-02-15 | 2023-03-09 |
 | [Goodbye](https://open.spotify.com/track/5bUIl6Zl07j4VIGuRBZAwT) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Goodbye](https://open.spotify.com/album/3FHo3yL2zOdA8OxcXxUWCH) | 5:10 | 2022-03-23 | 2022-04-14 |
@@ -2207,7 +2208,7 @@
 | [Pull Me Into You](https://open.spotify.com/track/37P4yZrleSbiQwYWNrSpaM) | [Stresshead](https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs) | [Pull Me Into You](https://open.spotify.com/album/7DbskBDYopj3B71p7wGbQh) | 3:36 | 2025-07-18 | 2025-09-06 |
 | [Pulse](https://open.spotify.com/track/4Bw0kLLTeGE7Gb6CaNPIgU) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [HANDSOME GANG: Every Second We Try](https://open.spotify.com/album/2qXEzsvihC6CHwkHw0qOga) | 4:55 | 2023-06-28 | 2024-01-11 |
 | [Pulse](https://open.spotify.com/track/6LLvkAyDL6Yv6gHI8SF7Bw) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Pulse](https://open.spotify.com/album/7GCTjtsPVA8BSaFsUycCjf) | 4:55 | 2023-06-07 | 2023-07-13 |
-| [Pulse](https://open.spotify.com/track/3tl58J37u0PzwDpZ5faQvq) | [Modula](https://open.spotify.com/artist/6XdyNOUc7zYzxpqzHyyhJO) | [Pulse](https://open.spotify.com/album/2jQNViLad16W4iVbiRyKqT) | 3:13 | 2025-08-13 |  |
+| [Pulse](https://open.spotify.com/track/3tl58J37u0PzwDpZ5faQvq) | [Modula](https://open.spotify.com/artist/6XdyNOUc7zYzxpqzHyyhJO) | [Pulse](https://open.spotify.com/album/2jQNViLad16W4iVbiRyKqT) | 3:13 | 2025-08-13 | 2025-09-19 |
 | [Pulse Mode](https://open.spotify.com/track/6vCrvEmvRIDVwed2tAto5i) | [Gene On Earth](https://open.spotify.com/artist/0nFTxvt33kxliqqvTXT2Hj) | [Lazybones](https://open.spotify.com/album/0irCXpj4fTA1ZcsFvOjS4M) | 5:47 | 2023-04-19 | 2023-05-18 |
 | [Pulses of Light](https://open.spotify.com/track/3Pb9BgklV5BiAeOSSRklHh) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Pulses of Light](https://open.spotify.com/album/4T0CTWKVRiKGjBs10feLYp) | 4:46 | 2022-02-23 | 2022-04-14 |
 | [Pulsion](https://open.spotify.com/track/3qbWjVhtY2DEqoCQETqNLA) | [AMNES](https://open.spotify.com/artist/1NWWdL1ttPLXOnDwqJFrbJ) | [Pulsion](https://open.spotify.com/album/2UdbQfdmzrwULw2UVnV6Wt) | 2:25 | 2024-11-08 | 2024-12-05 |

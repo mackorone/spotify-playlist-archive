@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 871 songs - 2 day 20 hr 20 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 874 songs - 2 day 20 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -879,5 +879,8 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 869 | [Dosti](https://open.spotify.com/track/4rbgZwAnb8unEplZOQRWLX) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR), [Zoheb Hassan](https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B) | [Naya Beat Volume 1: South Asian Dance and Electronic Music 1983\-1992](https://open.spotify.com/album/1FjJVrJypgYf1WtWCo3kAd) | 4:33 |
 | 870 | [Forever And Ever](https://open.spotify.com/track/7pD1NHvfB5W5L4bGBPBQtd) | [Demis Roussos](https://open.spotify.com/artist/0J9mbwg4BquN4XlHzdMK3X) | [Forever And Ever](https://open.spotify.com/album/1x58IoWBz7t0RuTOlWaRog) | 3:41 |
 | 871 | [Life On Mars?](https://open.spotify.com/track/0KpA8R3NM3N0JB4NAGbAxO) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge](https://open.spotify.com/album/2tAFOhqz3DxxVI2s5YNsrD) | 3:29 |
+| 872 | [No stasera no \- Original 45 Version](https://open.spotify.com/track/3zmXS9nQzn2LDQrEWbknnT) | [Sal Panzera](https://open.spotify.com/artist/27kJ8rzVc6uLbFf5GL2GqF) | [No stasera no \(Original 45 Version\)](https://open.spotify.com/album/5iNxRK5BWkiRUwDpebFGHl) | 4:32 |
+| 873 | [Duodo Wuo Ye Ya \- Short Version](https://open.spotify.com/track/4BNS9ahTuP5wpkL46H60bY) | [Dan Boadi](https://open.spotify.com/artist/6zxbp2s8aQ3HnJbBgkCigm) | [Money Is The Root Of Evil b/w Duodu Wuo Ye Ya](https://open.spotify.com/album/5VCBLctlfE3AiPDuma1sB4) | 5:04 |
+| 874 | [Batanga II](https://open.spotify.com/track/52GajzxE6Jr7mIHWxiqDQG) | [Cuban old music](https://open.spotify.com/artist/6zt5pxFtaZFwoWIDnpQiV0) | [Pasión por Los 50](https://open.spotify.com/album/3wl1nvW6ExKmoF4vLj54VM) | 4:17 |
 
-Snapshot ID: `AAAD2MCvIpDZb+clfL4/65pXoEjcejTa`
+Snapshot ID: `AAAD2xJh1ZaSDeJrlWN4pIcVtkyv+rRs`

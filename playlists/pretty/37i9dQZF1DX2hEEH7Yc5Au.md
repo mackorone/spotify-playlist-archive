@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [傻瓜](https://open.spotify.com/track/70mHgNHjxqA1cho8jZLGVX) | [Landy Wen](https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj) | [熱浪](https://open.spotify.com/album/0kq5r4RNw0vRK9tXs13Rd8) | 4:36 |
 | 50 | [無窮](https://open.spotify.com/track/2y2Aho30oC8SugthFyWdsW) | [Fang Wu](https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu) | [我來自…](https://open.spotify.com/album/2yugoUaduiw5G5lAa8UBu1) | 3:55 |
 
-Snapshot ID: `AAAAAIJL9cCoBiQLntgQ20FFECkPieCu`
+Snapshot ID: `AAAAAPmfjKYTpvCKDi2VWMkqmgDhtsvt`

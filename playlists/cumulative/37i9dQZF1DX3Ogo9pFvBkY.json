@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 130645,
       "name": "Appearance",
       "url": "https://open.spotify.com/track/2Yp4j0acgawJR9WGGmb1Zb"
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 160363,
       "name": "Blue Ocean",
       "url": "https://open.spotify.com/track/60nRJX1Tf1OVBhDkiWSds7"
@@ -4034,7 +4034,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 229124,
       "name": "Deep Within",
       "url": "https://open.spotify.com/track/6uxEvGVQFAUSpTzvLYOXKO"
@@ -5978,7 +5978,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 161131,
       "name": "Expression",
       "url": "https://open.spotify.com/track/3lLMnQT5oGhOUJD1PnLmMX"
@@ -7188,6 +7188,24 @@
       "duration_ms": 144000,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/66YX221rAhbBXGV9h69qHl"
+    },
+    {
+      "album": {
+        "name": "Glowing Lights",
+        "url": "https://open.spotify.com/album/79PlRr4LdkkC8EMQOxY3wa"
+      },
+      "artists": [
+        {
+          "name": "Avelio",
+          "url": "https://open.spotify.com/artist/5KLm95E3mnd6cUvqdw8Fs2"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159948,
+      "name": "Glowing Lights",
+      "url": "https://open.spotify.com/track/3fuETl5z3Pimu1vJ5zy3NF"
     },
     {
       "album": {
@@ -8812,7 +8830,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 138141,
       "name": "Kamala Whispers",
       "url": "https://open.spotify.com/track/7vuiorqf35I6w77KN6SX9v"
@@ -9586,7 +9604,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 184074,
       "name": "Lumina",
       "url": "https://open.spotify.com/track/17OeJexDLejdKK1OhWvcFW"
@@ -9626,6 +9644,24 @@
       "duration_ms": 154800,
       "name": "Luminous Corridor",
       "url": "https://open.spotify.com/track/1IIJYx2RQFNrHO2X9868LD"
+    },
+    {
+      "album": {
+        "name": "Lunar Breath",
+        "url": "https://open.spotify.com/album/5XbbdptRxVgmbtI6JHJGv3"
+      },
+      "artists": [
+        {
+          "name": "Lunao Sol",
+          "url": "https://open.spotify.com/artist/4kuabxT28eAvWVknQUk6wx"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Lunar Breath",
+      "url": "https://open.spotify.com/track/09SNI09hiEKhoHWIIm2tMb"
     },
     {
       "album": {
@@ -10004,6 +10040,24 @@
       "duration_ms": 144782,
       "name": "Metric",
       "url": "https://open.spotify.com/track/4zSOtBBAs9EyMUpNwbp6ta"
+    },
+    {
+      "album": {
+        "name": "Midday",
+        "url": "https://open.spotify.com/album/19H2TKqPGoicu3iH6Q0Y0W"
+      },
+      "artists": [
+        {
+          "name": "Lavona",
+          "url": "https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140155,
+      "name": "Midday",
+      "url": "https://open.spotify.com/track/7J60faSsc1RtsxuaVTz12h"
     },
     {
       "album": {
@@ -12383,6 +12437,24 @@
     },
     {
       "album": {
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/7IoaWf8N4yW0OZjXuhs8JD"
+      },
+      "artists": [
+        {
+          "name": "Eoforwine",
+          "url": "https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154855,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/2IXGKjGcXf8PuyolwYB9EU"
+    },
+    {
+      "album": {
         "name": "Pure Air",
         "url": "https://open.spotify.com/album/5DaR78zcqu8qM8MB5qRJwq"
       },
@@ -12578,6 +12650,24 @@
       "duration_ms": 200500,
       "name": "Quiet Slumber",
       "url": "https://open.spotify.com/track/0kPzgp8kbVwiMXpqGDEYPH"
+    },
+    {
+      "album": {
+        "name": "Quieto",
+        "url": "https://open.spotify.com/album/5OxYFMUDmeIx8k6K9c2EB4"
+      },
+      "artists": [
+        {
+          "name": "Quiescente",
+          "url": "https://open.spotify.com/artist/3ks3BPJbvfi7mAENbrPqXI"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154462,
+      "name": "Quieto",
+      "url": "https://open.spotify.com/track/0PAB7bTEVYYpA0PWkS2Cwi"
     },
     {
       "album": {
@@ -13438,7 +13528,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 177000,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/0POsUHXKVnilLquumLz5sM"
@@ -14950,7 +15040,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 162707,
       "name": "Stillness Above",
       "url": "https://open.spotify.com/track/2PsCjzE5BD5mK0EPcPUH8F"
@@ -15328,7 +15418,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 188000,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/0j8jhVHMHLb3MFEmC0jGgt"

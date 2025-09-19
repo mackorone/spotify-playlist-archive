@@ -4,7 +4,7 @@
 
 > you up?
 
-524 songs - 1 day 5 hr 20 min
+525 songs - 1 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Die For You](https://open.spotify.com/track/2bk3kDxxFLHafZDuw06Fxs) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [The Highlights](https://open.spotify.com/album/5L5evi5tJPh8WaEFAQp7Tp) | 4:20 | 2022-02-04 | 2023-01-05 |
 | [dirty laundry](https://open.spotify.com/track/0qgZvYWLIqDn0tXimF8gPa) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [deadroses](https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q) | 2:45 | 2022-02-04 | 2022-07-13 |
 | [DIRTY LITTLE SECRET](https://open.spotify.com/track/1YLzM2u0jpPxKTcrovSSZP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [DIRTY LITTLE SECRET](https://open.spotify.com/album/5CvA57rVw7Mru6533m6cN6) | 3:34 | 2024-09-20 | 2025-08-20 |
-| [Dirty Thoughts](https://open.spotify.com/track/2g1QPpTd4o8gTAapxEUPnz) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dirty Thoughts](https://open.spotify.com/album/5bQZRw0e4UHu3KrkGrVKto) | 2:09 | 2024-08-02 |  |
+| [Dirty Thoughts](https://open.spotify.com/track/2g1QPpTd4o8gTAapxEUPnz) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dirty Thoughts](https://open.spotify.com/album/5bQZRw0e4UHu3KrkGrVKto) | 2:09 | 2024-08-02 | 2025-09-19 |
 | [Divide](https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dreams 2 Reality](https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd) | 2:50 | 2022-10-28 | 2022-11-10 |
 | [DJ](https://open.spotify.com/track/29wNcK0QMe1MCASeDfdGpc) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 3:16 | 2022-05-12 | 2022-05-20 |
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2022-03-25 | 2024-04-24 |
@@ -137,6 +137,7 @@
 | [Drama \(feat\. Drake\)](https://open.spotify.com/track/0PXp9QxBfSKGGpWUNaws2X) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Exis](https://open.spotify.com/album/2vnPwMLtMXZWGkKsoylsGt) | 4:11 | 2022-02-08 | 2023-01-01 |
 | [Drama \(feat\. Drake\)](https://open.spotify.com/track/0XO2hckt5aHvvwH7FFdVYF) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Exis](https://open.spotify.com/album/6EfvX1lLPABeA3hMjcFuWr) | 4:11 | 2023-01-20 | 2023-03-27 |
 | [Drama \(feat\. Drake\)](https://open.spotify.com/track/232jKM7OzWMfuwHyf9r3dX) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Drama \(feat\. Drake\) \[Sped Up\]](https://open.spotify.com/album/5e31w2HtxpJeqO16YCDviv) | 4:11 | 2024-01-26 | 2024-03-30 |
+| [Dress](https://open.spotify.com/track/6oVxXO5oQ4pTpO8RSnkzvv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:50 | 2025-09-18 |  |
 | [Drew Barrymore](https://open.spotify.com/track/0JvUjekRwmDcQq4S0Sxocf) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Carnival](https://open.spotify.com/album/2ellIuTAeZqsBDVqGpNe9R) | 3:11 | 2022-03-25 | 2022-04-21 |
 | [Drive](https://open.spotify.com/track/09pBww2I1sjGcHac0KvC2M) | [Dxvn.](https://open.spotify.com/artist/3UzhllIYKcLay5xslYF85U) | [Drive](https://open.spotify.com/album/5Rswkdm3qCP7C1X0iRpP9d) | 4:30 | 2022-07-15 | 2022-09-29 |
 | [Drugs N Hella Melodies \(feat\. Kali Uchis\)](https://open.spotify.com/track/3Bi3ws3uigvFSmfTcSLjnp) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Drugs N Hella Melodies \(feat\. Kali Uchis\)](https://open.spotify.com/album/4OjG23scCW1EvILkMk0syB) | 3:18 | 2022-02-04 | 2022-07-17 |

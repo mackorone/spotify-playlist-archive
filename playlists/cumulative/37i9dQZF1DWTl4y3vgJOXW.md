@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Skylar Diggins
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Josh Allen and Tua Tagovailoa
 
 844 songs - 1 day 19 hr 14 min
 

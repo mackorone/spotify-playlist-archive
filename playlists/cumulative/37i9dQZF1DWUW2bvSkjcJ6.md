@@ -2,7 +2,7 @@
 
 ### [New Music Friday Deutschland](https://open.spotify.com/playlist/37i9dQZF1DWUW2bvSkjcJ6)
 
-> Neue Musik von Ed Sheeran, Pashanim,  Damiano David und Tyla, und mehr!
+> Neue Musik von Zimmer90, Nina Chuba, Lewis Capaldi, RAYE und mehr!
 
 6,237 songs - 12 day 17 hr 44 min
 

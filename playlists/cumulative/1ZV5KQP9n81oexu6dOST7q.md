@@ -4,7 +4,7 @@
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-88 songs - 4 hr 20 min
+89 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [All Around The World \(La La La\)](https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/0Y59j5oCvwTM2aNyPb6YpJ) | 2:27 | 2025-07-04 |  |
 | [All My Life](https://open.spotify.com/track/5tjfXXQOYRD9ouvAVTn3XF) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [All My Life](https://open.spotify.com/album/2mBgCtL1Tm0TChhAXUHW98) | 2:07 | 2025-07-04 |  |
 | [Another Life](https://open.spotify.com/track/5vSwn5J5QdE5g6FJm7gg9E) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Another Life](https://open.spotify.com/album/1FlZN9twq2MMzucN76UOU0) | 2:19 | 2025-07-04 |  |
+| [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 | 2025-09-18 |  |
 | [Away](https://open.spotify.com/track/7BM311QgIRlXRTZsPCIsQP) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Away](https://open.spotify.com/album/32uPiN6yCNSZI6AJ5BmylD) | 3:58 | 2025-07-04 | 2025-09-13 |
 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 | 2025-07-04 | 2025-09-12 |
 | [Back In My Bed](https://open.spotify.com/track/5Ptt8Whisd1IwucwgXEyeT) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MEYY](https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5), [Y2J!](https://open.spotify.com/artist/4j9xWaq0mEloOvk8GW6aNb) | [Back In My Bed](https://open.spotify.com/album/5oKNITqLnzMlc1B0733IKd) | 2:23 | 2025-07-04 |  |

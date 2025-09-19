@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 83232,
+  "num_followers": 83238,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAABj9aiCdredHXAzcBWZgXc0",
+  "snapshot_id": "aMn6AAAAAAAwBtMkeftXAYnX43XG5Kkt",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Empire Strikes First",
-        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Los Angeles Is Burning",
-      "url": "https://open.spotify.com/track/0biGKHOtNVGM14sRSztyKq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Generator",
         "url": "https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 202066,
       "name": "Generator",
       "url": "https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Los Angeles Is Burning",
+      "url": "https://open.spotify.com/track/0biGKHOtNVGM14sRSztyKq"
     },
     {
       "added_at": null,

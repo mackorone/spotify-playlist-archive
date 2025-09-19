@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap\. <br/>Cover: La Cabra, Lowfeye
+> Only the hottest South African rap\. <br/>Cover: Ziggy4x
 
-1,033 songs - 2 day 6 hr 40 min
+1,034 songs - 2 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [Haibo \(feat\. S1mba & Reason\) \- Remix](https://open.spotify.com/track/5xO9vhE0odRSahw5oQOHwr) | [Kiddo CSA](https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW), [Reason](https://open.spotify.com/artist/25LmW62LFKrcapOAnJWoNX), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [Haibo \(feat\. S1mba & Reason\) \[Remix\]](https://open.spotify.com/album/6y5QE68qjiuXSQ9d0XYpaJ) | 3:18 | 2022-05-19 | 2022-07-15 |
 | [Hale Ditshabe](https://open.spotify.com/track/3vJAcvzRhQiyE6TRAPykJ6) | [Fifi Cooper](https://open.spotify.com/artist/3MqTW7hSRkZaL5sMCSHFO9), [Swift1520](https://open.spotify.com/artist/7JwmL9lBb7Ny2TI2h6fAUd) | [Hale Ditshabe](https://open.spotify.com/album/1o0fqco2wPIucn0OPfH0qT) | 3:00 | 2025-05-01 | 2025-07-18 |
 | [HAMBA HA](https://open.spotify.com/track/6CPmGbuYQ6IJKGgDylKhW7) | [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S), [Roiii](https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V), [Buzzi Lee](https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR) | [HAMBA HA](https://open.spotify.com/album/6bIxmm59vfwazznB9xxoXM) | 3:20 | 2023-06-23 | 2023-10-14 |
-| [Hamptons \(feat\. Trxp & whoisbabyesco\)](https://open.spotify.com/track/50pqvYDPCD27giHgGummB8) | [MVLICKE](https://open.spotify.com/artist/3s1Z51m5pqY6RB0zFYwFlE), [Trxp](https://open.spotify.com/artist/5odEf6eim8OCISiYAAD9Ge), [whoisbabyesco](https://open.spotify.com/artist/7n8nfUesQwoe70CHYbdUbA) | [Hamptons \(feat\. Trxp & whoisbabyesco\)](https://open.spotify.com/album/5QL6gNcnUrDfcahxrvvT7q) | 3:00 | 2025-04-03 |  |
+| [Hamptons \(feat\. Trxp & whoisbabyesco\)](https://open.spotify.com/track/50pqvYDPCD27giHgGummB8) | [MVLICKE](https://open.spotify.com/artist/3s1Z51m5pqY6RB0zFYwFlE), [Trxp](https://open.spotify.com/artist/5odEf6eim8OCISiYAAD9Ge), [whoisbabyesco](https://open.spotify.com/artist/7n8nfUesQwoe70CHYbdUbA) | [Hamptons \(feat\. Trxp & whoisbabyesco\)](https://open.spotify.com/album/5QL6gNcnUrDfcahxrvvT7q) | 3:00 | 2025-04-03 | 2025-09-19 |
 | [Handling Business](https://open.spotify.com/track/1jxHnGpNOqWiyYQ2zaUn93) | [Tony Dayimane](https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Handling Business](https://open.spotify.com/album/2qtCtbe6idi2lZ88Px451Q) | 3:16 | 2023-12-14 | 2024-05-10 |
 | [Happy Vibe](https://open.spotify.com/track/3fpJgPREo1bJm4k2viVpcA) | [Aewon Wolf](https://open.spotify.com/artist/2HdJNbpBYMaUSzsmUMILLC) | [VIBES](https://open.spotify.com/album/7kZF3NyxpIXgyyKl72h9KR) | 3:50 | 2022-03-24 | 2022-04-15 |
 | [Hard To Believe](https://open.spotify.com/track/09Su6hSkRJIudi16ZYKBO9) | [Yung Tyran](https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX) | [Hard To Believe](https://open.spotify.com/album/0yGUhWYZXnFchwj764kDCO) | 2:30 | 2025-08-01 |  |
@@ -597,6 +597,7 @@
 | [Neva Again \- '95 Remix](https://open.spotify.com/track/0a5xp73pMA68i26VzoYDLE) | [Propherts Of Da City](https://open.spotify.com/artist/4eR5Rs8Dcv0lD05WbUYOdb) | [Universal Souljaz](https://open.spotify.com/album/16DQunq4itF4igF53MaraZ) | 4:53 | 2023-01-30 | 2023-02-02 |
 | [Never Leave](https://open.spotify.com/track/76UE0LjH2n4bHnYTLv3JAT) | [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [Never Leave](https://open.spotify.com/album/2thmsOHH8ATk2KAU0VqfiG) | 2:49 | 2024-01-25 | 2024-05-10 |
 | [NEVER RIDE](https://open.spotify.com/track/3DFw8WqtxcGtUP8X1o4Yti) | [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Thato Saul](https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [NEVER RIDE](https://open.spotify.com/album/17BYlFgYEGoqNwJsiM4B4k) | 2:26 | 2022-05-12 | 2023-10-21 |
+| [New Lat](https://open.spotify.com/track/3jojiJ4Acs3LldIzqbImqJ) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27) | [New Lat](https://open.spotify.com/album/1H1i8QbwJUR4vjiTVQvtV9) | 1:52 | 2025-09-18 |  |
 | [Next.](https://open.spotify.com/track/3LjWJMHEZ1vX1suuLxBHil) | [Angie Santana](https://open.spotify.com/artist/3gh6VwtLkdkaWCPUV4L6yT) | [Next.](https://open.spotify.com/album/2ncuXjvusmRBKIHbGjuDBt) | 3:20 | 2022-05-19 | 2022-06-28 |
 | [NGALA \(feat\. Dusse Wavy & Risky T RSA\)](https://open.spotify.com/track/0IG2c60PVOQQgYsIXNdeA1) | [Nelz](https://open.spotify.com/artist/1nYQzmyKri9MijJSG4jKbb), [Dusse wavy](https://open.spotify.com/artist/2RE980wJCfjFzi4G31x4WZ), [Risky T RSA](https://open.spotify.com/artist/45dXsoPKgfmTNwm0YJRKut) | [NGALA \(feat\. Dusse Wavy & Risky T RSA\)](https://open.spotify.com/album/5qHhlrJVVWUxcvWZW1FzkW) | 3:46 | 2025-05-30 |  |
 | [Ngaswili](https://open.spotify.com/track/2ewfPjg00hdyXT4kKlVgTh) | [Papii the hitman](https://open.spotify.com/artist/2a6mx0UiwmleLO05SbL0b8), [Aerysbeatz](https://open.spotify.com/artist/5GwTlE1TaXZ4ZgT3Z5R8K8) | [Gennge Tshedzani](https://open.spotify.com/album/0QG40HKyZWZrJFxAxJUGvv) | 2:05 | 2025-08-22 |  |

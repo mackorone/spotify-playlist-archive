@@ -2643,6 +2643,28 @@
     },
     {
       "album": {
+        "name": "vemzavr!",
+        "url": "https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183931,
+      "name": "vemzavr!",
+      "url": "https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox"
+    },
+    {
+      "album": {
         "name": "VERSENY",
         "url": "https://open.spotify.com/album/7BoGRMEz5YVBClZMGzn3Sv"
       },
@@ -2802,7 +2824,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 219999,
       "name": "ZHA MAJ DUR",
       "url": "https://open.spotify.com/track/1pveRbNO9ChgyuY37trkLw"

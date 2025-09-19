@@ -2,7 +2,7 @@
 
 ### [Los Que Mandan \- Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
-> The playlist sin fronteras elevando a la Música Mexicana\. Cover: Tombochio
+> The playlist official de <a href="https://open.spotify.com/genre/0JQ5DAqbMKFGEKqSBDV3q2/"> Belicofest </a> \- Elevando a la Música Mexicana.
 
 962 songs - 2 day 1 hr 43 min
 

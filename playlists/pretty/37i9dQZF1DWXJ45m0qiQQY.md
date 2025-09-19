@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ45m0qiQQY.md) - [plain](/playlists/plain/37i9dQZF1DWXJ45m0qiQQY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXJ45m0qiQQY)
 
-### [spooky lofi 👻](https://open.spotify.com/playlist/37i9dQZF1DWXJ45m0qiQQY)
+### [spooky halloween lofi 👻🎃](https://open.spotify.com/playlist/37i9dQZF1DWXJ45m0qiQQY)
 
-> chilling beats for haunted vibes.
+> chilling beats for haunted halloween vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,401 likes - 80 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,455 likes - 80 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ45m0qiQQY.md) - [plain]
 | 79 | [Poltergeist](https://open.spotify.com/track/0T5rk7dwzNx7hGLYyau2LS) | [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U), [Saito](https://open.spotify.com/artist/0bdr6z9DImvrsrs2WoZ8pV) | [Beentrill](https://open.spotify.com/album/3oUkpjPJsN7ixJ1siKUSWr) | 1:37 |
 | 80 | [ghouls](https://open.spotify.com/track/0Juh1gUqeZGCLbOz9B27ed) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [skeletons rising](https://open.spotify.com/album/4R3fFGf4nfo6tTBK9tNSlC) | 2:36 |
 
-Snapshot ID: `AAAAADGPovJJMnzGwK4Z0OconjVTKPWT`
+Snapshot ID: `AAAAAJa7+N+AkMzJnsicJ1jzTlad/I0I`

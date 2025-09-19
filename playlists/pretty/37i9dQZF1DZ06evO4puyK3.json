@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 166025,
+  "num_followers": 166050,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAACYr+IaFCCshismsM994K1E",
+  "snapshot_id": "aMn6AAAAAADx3o2PEz4NYZQtYsVrt/1X",
   "tracks": [
     {
       "added_at": null,
@@ -638,15 +638,11 @@
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 190777,
-      "name": "APENAS UM NEN\u00c9M",
-      "url": "https://open.spotify.com/track/67FXDuLWJNuafe1mVdWsim"
+      "duration_ms": 168887,
+      "name": "BONEKINHA",
+      "url": "https://open.spotify.com/track/5y4Wpk9ts2RzDwYNIAtJ9J"
     },
     {
       "added_at": null,
@@ -714,11 +710,15 @@
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 168887,
-      "name": "BONEKINHA",
-      "url": "https://open.spotify.com/track/5y4Wpk9ts2RzDwYNIAtJ9J"
+      "duration_ms": 190777,
+      "name": "APENAS UM NEN\u00c9M",
+      "url": "https://open.spotify.com/track/67FXDuLWJNuafe1mVdWsim"
     },
     {
       "added_at": null,
@@ -771,6 +771,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "V\u00edcio",
+        "url": "https://open.spotify.com/album/1rbODKal1K9YMyz0PgtC82"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 175890,
+      "name": "V\u00edcio",
+      "url": "https://open.spotify.com/track/2S7MWqh2o9JWO2iFwBTcW8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LADY LESTE",
+        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 188307,
+      "name": "LEIL\u00c3O",
+      "url": "https://open.spotify.com/track/4k7mlEX9Nc3Ei0nFQ4cOE3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -795,38 +827,6 @@
       "duration_ms": 174213,
       "name": "BRUXARIA 3000",
       "url": "https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LADY LESTE",
-        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 188307,
-      "name": "LEIL\u00c3O",
-      "url": "https://open.spotify.com/track/4k7mlEX9Nc3Ei0nFQ4cOE3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "V\u00edcio",
-        "url": "https://open.spotify.com/album/1rbODKal1K9YMyz0PgtC82"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 175890,
-      "name": "V\u00edcio",
-      "url": "https://open.spotify.com/track/2S7MWqh2o9JWO2iFwBTcW8"
     },
     {
       "added_at": null,

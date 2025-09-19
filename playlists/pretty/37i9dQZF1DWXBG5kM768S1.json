@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 79881,
+  "num_followers": 79886,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,18 @@
     {
       "added_at": "2025-08-28 22:00:05",
       "album": {
-        "name": "Linedans",
-        "url": "https://open.spotify.com/album/79BW7npDsLuTpg7RCJ1KrU"
+        "name": "M\u00e5nesinn",
+        "url": "https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7"
       },
       "artists": [
         {
-          "name": "\u00c5ge Aleksandersen",
-          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
-        },
-        {
-          "name": "Line Sofie Aleksandersen",
-          "url": "https://open.spotify.com/artist/139biVMfyquAUumShjaSQs"
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
         }
       ],
-      "duration_ms": 230973,
-      "name": "Trondheimsnatt (feat. Line Sofie Aleksandersen)",
-      "url": "https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf"
+      "duration_ms": 171640,
+      "name": "Fordi eg elskar deg",
+      "url": "https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT"
     },
     {
       "added_at": "2025-08-28 22:00:05",
@@ -147,18 +143,22 @@
     {
       "added_at": "2025-08-28 22:00:05",
       "album": {
-        "name": "M\u00e5nesinn",
-        "url": "https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7"
+        "name": "Linedans",
+        "url": "https://open.spotify.com/album/79BW7npDsLuTpg7RCJ1KrU"
       },
       "artists": [
         {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+          "name": "\u00c5ge Aleksandersen",
+          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
+        },
+        {
+          "name": "Line Sofie Aleksandersen",
+          "url": "https://open.spotify.com/artist/139biVMfyquAUumShjaSQs"
         }
       ],
-      "duration_ms": 171640,
-      "name": "Fordi eg elskar deg",
-      "url": "https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT"
+      "duration_ms": 230973,
+      "name": "Trondheimsnatt (feat. Line Sofie Aleksandersen)",
+      "url": "https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf"
     },
     {
       "added_at": "2025-08-28 22:00:05",
@@ -175,6 +175,22 @@
       "duration_ms": 244120,
       "name": "Bestevenn",
       "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
+    },
+    {
+      "added_at": "2025-08-28 22:00:05",
+      "album": {
+        "name": "Berre meg",
+        "url": "https://open.spotify.com/album/7s0RRWzX6z2zieWyyyxogN"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Ingen som du",
+      "url": "https://open.spotify.com/track/4FbpUlIwMiWiqP8fUhDbW2"
     },
     {
       "added_at": "2025-08-28 22:00:05",
@@ -227,22 +243,6 @@
       "duration_ms": 253946,
       "name": "Gressholmen",
       "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
-    },
-    {
-      "added_at": "2025-08-28 22:00:05",
-      "album": {
-        "name": "Berre meg",
-        "url": "https://open.spotify.com/album/7s0RRWzX6z2zieWyyyxogN"
-      },
-      "artists": [
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Ingen som du",
-      "url": "https://open.spotify.com/track/4FbpUlIwMiWiqP8fUhDbW2"
     },
     {
       "added_at": "2025-08-28 22:00:05",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-08-28 22:00:05",
       "album": {
+        "name": "Hver gang vi m\u00f8tes - Sesong 2 - Ole Paus' dag",
+        "url": "https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K"
+      },
+      "artists": [
+        {
+          "name": "Anita Skorgan",
+          "url": "https://open.spotify.com/artist/4dTqh57h7Qc97TWARfoVD4"
+        }
+      ],
+      "duration_ms": 193079,
+      "name": "Det begynner \u00e5 bli et liv",
+      "url": "https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi"
+    },
+    {
+      "added_at": "2025-08-28 22:00:05",
+      "album": {
         "name": "Spor i sn\u00f8",
         "url": "https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 230680,
       "name": "Spor i sn\u00f8",
       "url": "https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc"
-    },
-    {
-      "added_at": "2025-08-28 22:00:05",
-      "album": {
-        "name": "Hver gang vi m\u00f8tes - Sesong 2 - Ole Paus' dag",
-        "url": "https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K"
-      },
-      "artists": [
-        {
-          "name": "Anita Skorgan",
-          "url": "https://open.spotify.com/artist/4dTqh57h7Qc97TWARfoVD4"
-        }
-      ],
-      "duration_ms": 193079,
-      "name": "Det begynner \u00e5 bli et liv",
-      "url": "https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi"
     },
     {
       "added_at": "2025-08-28 22:00:05",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-08-28 22:00:05",
       "album": {
+        "name": "Ta Meg Med",
+        "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
+      },
+      "artists": [
+        {
+          "name": "Olav Stedje",
+          "url": "https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
+      "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
+    },
+    {
+      "added_at": "2025-08-28 22:00:05",
+      "album": {
         "name": "Badebussen",
         "url": "https://open.spotify.com/album/3EmJ7JUoTy85Ah0ITqQ7UX"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 178160,
       "name": "Badebussen",
       "url": "https://open.spotify.com/track/1Ajp5nOYezdcpx3e8CfzMl"
-    },
-    {
-      "added_at": "2025-08-28 22:00:05",
-      "album": {
-        "name": "Ta Meg Med",
-        "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
-      },
-      "artists": [
-        {
-          "name": "Olav Stedje",
-          "url": "https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
-      "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
     },
     {
       "added_at": "2025-08-28 22:00:05",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-08-28 22:00:05",
       "album": {
-        "name": "Himmelen var vid",
-        "url": "https://open.spotify.com/album/6uWyWLZ0uaFUImbfbO6LiR"
-      },
-      "artists": [
-        {
-          "name": "Stein Torleif Bjella",
-          "url": "https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm"
-        }
-      ],
-      "duration_ms": 180506,
-      "name": "Himmelen var vid",
-      "url": "https://open.spotify.com/track/0ksBsczjgpbDRr73m2OXFG"
-    },
-    {
-      "added_at": "2025-08-28 22:00:05",
-      "album": {
         "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
         "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
       },
@@ -619,22 +603,34 @@
     {
       "added_at": "2025-08-28 22:00:05",
       "album": {
-        "name": "Alltid Aldri (feat. Ingebj\u00f8rg Bratland)",
-        "url": "https://open.spotify.com/album/5wa6SdMaTRGnI6qI7TDq37"
+        "name": "Himmelen var vid",
+        "url": "https://open.spotify.com/album/6uWyWLZ0uaFUImbfbO6LiR"
       },
       "artists": [
         {
-          "name": "\u00c5ge Aleksandersen",
-          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
-        },
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+          "name": "Stein Torleif Bjella",
+          "url": "https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm"
         }
       ],
-      "duration_ms": 220160,
-      "name": "Alltid Aldri (feat. Ingebj\u00f8rg Bratland)",
-      "url": "https://open.spotify.com/track/1l4A0NJPKZOaZ28BrwDVR5"
+      "duration_ms": 180506,
+      "name": "Himmelen var vid",
+      "url": "https://open.spotify.com/track/0ksBsczjgpbDRr73m2OXFG"
+    },
+    {
+      "added_at": "2025-08-28 22:00:05",
+      "album": {
+        "name": "Kr\u00e5keviks Songbok",
+        "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
+      },
+      "artists": [
+        {
+          "name": "Herborg Kr\u00e5kevik",
+          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
+        }
+      ],
+      "duration_ms": 178760,
+      "name": "Den Fyrste Song",
+      "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
     },
     {
       "added_at": "2025-08-28 22:00:05",
@@ -655,18 +651,22 @@
     {
       "added_at": "2025-08-28 22:00:05",
       "album": {
-        "name": "Kr\u00e5keviks Songbok",
-        "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
+        "name": "Alltid Aldri (feat. Ingebj\u00f8rg Bratland)",
+        "url": "https://open.spotify.com/album/5wa6SdMaTRGnI6qI7TDq37"
       },
       "artists": [
         {
-          "name": "Herborg Kr\u00e5kevik",
-          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
+          "name": "\u00c5ge Aleksandersen",
+          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
+        },
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
         }
       ],
-      "duration_ms": 178760,
-      "name": "Den Fyrste Song",
-      "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
+      "duration_ms": 220160,
+      "name": "Alltid Aldri (feat. Ingebj\u00f8rg Bratland)",
+      "url": "https://open.spotify.com/track/1l4A0NJPKZOaZ28BrwDVR5"
     },
     {
       "added_at": "2025-08-28 22:00:05",

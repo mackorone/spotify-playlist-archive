@@ -312,7 +312,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 115513,
       "name": "Adipoli",
       "url": "https://open.spotify.com/track/3RHV8pLX9hk2GTtbb3spdW"
@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 256000,
       "name": "Barbie Dolly",
       "url": "https://open.spotify.com/track/4eaWzbLKHb3pAKvZQ8Z3Ek"
@@ -3112,7 +3112,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 204671,
       "name": "I'm Single",
       "url": "https://open.spotify.com/track/6XuF9uDYJDwhoEBFR9naeq"
@@ -3442,7 +3442,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 166153,
       "name": "Jakkamma",
       "url": "https://open.spotify.com/track/5ACzDWWWVMbL46vShyPhR5"
@@ -4718,7 +4718,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 167998,
       "name": "Kaneer Enge ?",
       "url": "https://open.spotify.com/track/5xa8ZOoNx03TDVb8jql91D"
@@ -10476,7 +10476,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 185600,
       "name": "Thalapathi",
       "url": "https://open.spotify.com/track/7sJmHAqsAcadSlBHIsVTlb"
@@ -10858,6 +10858,28 @@
       "duration_ms": 232615,
       "name": "Thean Aruvi",
       "url": "https://open.spotify.com/track/6ImKfKnGadzcmOrgoYNy9u"
+    },
+    {
+      "album": {
+        "name": "Aarohanam",
+        "url": "https://open.spotify.com/album/5Da0j8ZDRVATizTR7c2gTU"
+      },
+      "artists": [
+        {
+          "name": "PRI",
+          "url": "https://open.spotify.com/artist/3SdB1D3HlBKxhy5kOOQvit"
+        },
+        {
+          "name": "Bak n 4th",
+          "url": "https://open.spotify.com/artist/0XZDSZnm55oXsRvKSsnPyv"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Thedal",
+      "url": "https://open.spotify.com/track/6DF5ghhV4ColVi92w2qFsD"
     },
     {
       "album": {

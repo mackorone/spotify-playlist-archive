@@ -2,9 +2,9 @@
 
 ### [Jazz Club](https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa)
 
-> The best jazz new releases\. Cover: Célia Kameni
+> The best jazz new releases\. Cover: Raye
 
-820 songs - 2 day 10 hr 13 min
+821 songs - 2 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,7 @@
 | [la fièvre](https://open.spotify.com/track/73euPNYFaNgWU75TZNRISm) | [daoud](https://open.spotify.com/artist/3e76yvk1gLZQhKZiUHkMsP), [Mehdi Nassouli](https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ) | [la fièvre](https://open.spotify.com/album/6kk3IGZZgNRIclaNuOLctr) | 2:29 | 2025-08-21 |  |
 | [La Gloria Eres Tú](https://open.spotify.com/track/1CpwwKDtTwWJ4NNC6gVygw) | [Yilian Cañizares](https://open.spotify.com/artist/51kjU9cCnLDzokU3agspnv), [Tiganá Santana](https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9) | [Habana\-Bahia](https://open.spotify.com/album/40Glzz3JECT8bA1w7TXzkw) | 3:21 | 2023-10-12 | 2024-01-26 |
 | [La javanaise](https://open.spotify.com/track/5ViznvnYZBURd5hjnxsyQD) | [Pierre Génisson](https://open.spotify.com/artist/0tF4SmLJvn3gTurPM8TWC2), [Bruno Fontaine](https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp), [Youn Sun Nah](https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj) | [La javanaise](https://open.spotify.com/album/4i3K5vEnyHDGNQlIqfl3AO) | 5:37 | 2024-09-19 | 2024-10-04 |
-| [La Mer](https://open.spotify.com/track/1x75lqOHJVV0J4fljYtaS2) | [Fred Nardin](https://open.spotify.com/artist/1UHA7lPwTt1jk2UT7afakp) | [Trio \[+\]](https://open.spotify.com/album/5KzWT3s1S5wdLnckfZJxoP) | 3:54 | 2025-06-19 |  |
+| [La Mer](https://open.spotify.com/track/1x75lqOHJVV0J4fljYtaS2) | [Fred Nardin](https://open.spotify.com/artist/1UHA7lPwTt1jk2UT7afakp) | [Trio \[+\]](https://open.spotify.com/album/5KzWT3s1S5wdLnckfZJxoP) | 3:54 | 2025-06-19 | 2025-09-19 |
 | [La Sultane](https://open.spotify.com/track/3oURBM4IElFdZnOxH4jK3Z) | [André Manoukian](https://open.spotify.com/artist/5BfTfnzUSptoVhFigXMc1v) | [La Sultane](https://open.spotify.com/album/2M4u22iX7ILonKwGeuUTLw) | 4:42 | 2025-06-12 | 2025-08-30 |
 | [La Ñapa](https://open.spotify.com/track/15A7KFrf9RKpCDUWGGuImI) | [The Bongo Hop](https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [La Ñapa](https://open.spotify.com/album/3irpaaj5nCOgJSZe56PNWt) | 4:45 | 2022-04-14 | 2022-06-10 |
 | [Lady \(Ezra Collective Version\)](https://open.spotify.com/track/7qxfxicaAE5DLMxXx0IvoG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Lady \(Ezra Collective Version\)](https://open.spotify.com/album/4yw5JJgvqt2Lv8aT24tqK3) | 5:47 | 2023-01-12 | 2023-03-25 |
@@ -506,6 +506,7 @@
 | [Nguinya Mulema](https://open.spotify.com/track/3rjMaIg9VeSOjOCrzHyrm4) | [Monsieur MÂLÂ](https://open.spotify.com/artist/5N5NNRHYscHxAzcCPCtj7t) | [Nguinya Mulema](https://open.spotify.com/album/317Z4PKLlx0Et61qpiaHvT) | 4:41 | 2024-02-22 | 2024-05-24 |
 | [Niggun](https://open.spotify.com/track/3NVhdxU8IWtnnLIs3HhTKR) | [Omer Klein](https://open.spotify.com/artist/0YGq6lWfXYjeUjM7oZkEho), [Haggai Cohen Milo](https://open.spotify.com/artist/2fI1YlX1x0WkepdSlvLVve), [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1) | [Niggun](https://open.spotify.com/album/2O6WfKYNY33szSFsARg6ia) | 7:43 | 2022-12-08 | 2023-03-25 |
 | [Night Life \(with Mickey Raphael\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/4pzhJmY4FkJy49EkrLxdhc) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Night Life \(with Mickey Raphael\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/1s1hg0fDxYubOCjG5dJT4s) | 3:43 | 2023-07-06 | 2023-09-15 |
+| [Nightbird](https://open.spotify.com/track/5ywlQz286fFX2BB2j9BGGI) | [Lady Linn](https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL) | [Nightbird](https://open.spotify.com/album/3KfBJWqY4Dr2XO1lDJS8Ir) | 5:56 | 2025-09-18 |  |
 | [No Better Time](https://open.spotify.com/track/1gElwot1Kfi8qeMbl4fwEd) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo), [The J.O\. Big Band](https://open.spotify.com/artist/2EewOSv6Ed3n2I2WLRC6ip) | [Judith Owen Swings Christmas](https://open.spotify.com/album/443pS65hhIU4j4BDdfbmnB) | 3:03 | 2024-12-19 | 2025-01-17 |
 | [No Moon At All](https://open.spotify.com/track/5t4SdjnXGHuWyF7G18FtFB) | [Holly Cole](https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX) | [No Moon At All](https://open.spotify.com/album/1wJ5GS7rxZVnsWt0AqMf74) | 2:18 | 2024-10-17 | 2025-01-24 |
 | [No One's Watching Me \- feat\. Olivia Dean](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 | 2024-09-26 | 2025-01-10 |

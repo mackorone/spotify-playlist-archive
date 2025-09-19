@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-150 songs - 7 hr 25 min
+151 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Haryanvi Swag](https://open.spotify.com/track/3pnigHrG7LXFjnH3lbUcTz) | [Sumit Goswami](https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM), [Jerry](https://open.spotify.com/artist/68hoiPmCjy1S0Ioe0l1lT7), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Haryanvi Swag](https://open.spotify.com/album/3PslA9S2V2vUDqRJo8z23C) | 2:23 | 2023-07-24 | 2024-08-01 |
 | [Hashtag](https://open.spotify.com/track/24zHwk9jgxzOHnOPuYIqAJ) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Hashtag](https://open.spotify.com/album/3bGxx8NysaqVYt3pR6r7de) | 3:09 | 2023-07-24 | 2023-08-01 |
 | [Hathkadi](https://open.spotify.com/track/3iaprUf4dr63Iq31S4XeZ7) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [Hathkadi](https://open.spotify.com/album/46se898ZDUG4m3aRv001y9) | 2:56 | 2023-07-24 | 2024-01-06 |
+| [His Grace](https://open.spotify.com/track/332MWQx06lB5rX26awlEou) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [His Grace](https://open.spotify.com/album/7pEeKnBVNMSxL1L098K1VB) | 3:37 | 2025-09-18 |  |
 | [How We Flex](https://open.spotify.com/track/77KvbW654HJ4iPwcTH4xtY) | [Deep13Bhai](https://open.spotify.com/artist/718tfbSBs9LZeNVAAn19XD), [Shaitan](https://open.spotify.com/artist/3p486QTcZzNDrForILESQ3) | [How We Flex](https://open.spotify.com/album/3cMsgRtPhkpsfOc1K1l4tW) | 2:36 | 2024-12-13 | 2025-05-18 |
 | [HR Alee](https://open.spotify.com/track/7dvIesoeetHINXgjqGJNXD) | [Deepak Sharma](https://open.spotify.com/artist/1rAdtSzr09FZquUOXkEMNQ) | [HR Alee](https://open.spotify.com/album/1uCXOyeJUEJ6mYLOZsUau0) | 2:57 | 2024-05-09 | 2025-09-13 |
 | [Inaam](https://open.spotify.com/track/51O38IidoQaQ8XwIoJZ4fw) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [Inaam](https://open.spotify.com/album/5xhWijw7nDOj8OodK0fa1e) | 3:04 | 2023-07-24 | 2024-04-19 |
@@ -110,7 +111,7 @@
 | [On The Way](https://open.spotify.com/track/2iPHhqfqRUEDiHhBq5WICc) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [On The Way](https://open.spotify.com/album/6w2anhBM6gSig6lvPQncTc) | 3:31 | 2024-04-17 | 2025-01-09 |
 | [Original Gangster](https://open.spotify.com/track/6yganQdeXdluMvUWwEKQLI) | [Eshan Bhati](https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf) | [Original Gangster](https://open.spotify.com/album/0eBL64eE3sRzvRNDqOH8UE) | 3:01 | 2024-08-30 | 2024-10-24 |
 | [Over Confidence](https://open.spotify.com/track/06uSHFvu4crGsylvkgCroZ) | [Billa Sonipat Ala](https://open.spotify.com/artist/2meesqiC5l9NfNShrgP8Hf), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3), [Deepty](https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel) | [Over Confidence](https://open.spotify.com/album/681CueFKwbAwt5kCRVbjRC) | 2:38 | 2025-01-08 |  |
-| [Pahalwani](https://open.spotify.com/track/3pIyIe9dwEnQyXUQfxaIcd) | [Krishan Madha](https://open.spotify.com/artist/7GTkzMSNgDarYvOGiBHRtL), [Moni Hooda](https://open.spotify.com/artist/7sTD73ts93UaMiWy1hk9KI) | [Pahalwani](https://open.spotify.com/album/7HfKGDVQgJcsZyXN5lklcl) | 4:00 | 2024-05-24 |  |
+| [Pahalwani](https://open.spotify.com/track/3pIyIe9dwEnQyXUQfxaIcd) | [Krishan Madha](https://open.spotify.com/artist/7GTkzMSNgDarYvOGiBHRtL), [Moni Hooda](https://open.spotify.com/artist/7sTD73ts93UaMiWy1hk9KI) | [Pahalwani](https://open.spotify.com/album/7HfKGDVQgJcsZyXN5lklcl) | 4:00 | 2024-05-24 | 2025-09-19 |
 | [Panga](https://open.spotify.com/track/13yHaNGlckcW7zvJ5yUSwN) | [Ammy Chahar](https://open.spotify.com/artist/5XE93ktVBgJuN7ln4YDvmX), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Panga](https://open.spotify.com/album/3BTHZFnhSzPqSho78f8Kwz) | 3:01 | 2025-01-31 |  |
 | [Papi Purane](https://open.spotify.com/track/4RVpvENpsF5H5bJSruG0wC) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Papi Purane](https://open.spotify.com/album/4sxXvRDG24bb2CA5pEUOKc) | 2:30 | 2024-04-17 | 2024-12-14 |
 | [Papi Purane](https://open.spotify.com/track/4XUHHkMuN4pPj7mX4UEQYz) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Papi Purane](https://open.spotify.com/album/1pV9QlaOmciHfC5lElLR6E) | 2:30 | 2024-03-08 | 2024-04-19 |

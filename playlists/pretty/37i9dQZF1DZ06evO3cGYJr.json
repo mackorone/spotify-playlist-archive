@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAAA35nrzI+cZe5Hj/bX8auIq",
+  "snapshot_id": "aMn6AAAAAACQrrYyyhI+CT8FsqsZNFxX",
   "tracks": [
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 180000,
-      "name": "1DK",
-      "url": "https://open.spotify.com/track/1NbIgGzU9Xjj8XlDbQtN8I"
+      "duration_ms": 162420,
+      "name": "NOT_ALIVE//NOT_DEAD",
+      "url": "https://open.spotify.com/track/4m5A3XxebTTWhoWG7jTsTX"
     },
     {
       "added_at": null,
@@ -411,18 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "maybe i need to know myself",
-        "url": "https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y"
+        "name": "NEVER CATCH THE LIGHT",
+        "url": "https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO"
       },
       "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
         {
           "name": "Learke",
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 296206,
-      "name": "BREATHE",
-      "url": "https://open.spotify.com/track/1OwctdSAK19GSLfpsz9eir"
+      "duration_ms": 211343,
+      "name": "GRACE MY EYES",
+      "url": "https://open.spotify.com/track/6eekhQ1JwiOdLfI9yupCvd"
     },
     {
       "added_at": null,
@@ -436,9 +440,9 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 162420,
-      "name": "NOT_ALIVE//NOT_DEAD",
-      "url": "https://open.spotify.com/track/4m5A3XxebTTWhoWG7jTsTX"
+      "duration_ms": 180000,
+      "name": "1DK",
+      "url": "https://open.spotify.com/track/1NbIgGzU9Xjj8XlDbQtN8I"
     },
     {
       "added_at": null,
@@ -483,22 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEVER CATCH THE LIGHT",
-        "url": "https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO"
+        "name": "maybe i need to know myself",
+        "url": "https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y"
       },
       "artists": [
-        {
-          "name": "Joshua Lanuarii",
-          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
-        },
         {
           "name": "Learke",
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 211343,
-      "name": "GRACE MY EYES",
-      "url": "https://open.spotify.com/track/6eekhQ1JwiOdLfI9yupCvd"
+      "duration_ms": 296206,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/1OwctdSAK19GSLfpsz9eir"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "maybe i need to know myself",
-        "url": "https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y"
+        "name": "So long (waiting 4 this)",
+        "url": "https://open.spotify.com/album/5pniDD9B6Fw108FhGLGvog"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Filter",
-      "url": "https://open.spotify.com/track/2RsKdzQe6crT8oOYrl9X6S"
+      "duration_ms": 156610,
+      "name": "So long (waiting 4 this)",
+      "url": "https://open.spotify.com/track/3kNeuB76ICOmIUljH4MJFJ"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So long (waiting 4 this)",
-        "url": "https://open.spotify.com/album/5pniDD9B6Fw108FhGLGvog"
+        "name": "maybe i need to know myself",
+        "url": "https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y"
       },
       "artists": [
         {
@@ -560,9 +560,57 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 156610,
-      "name": "So long (waiting 4 this)",
-      "url": "https://open.spotify.com/track/3kNeuB76ICOmIUljH4MJFJ"
+      "duration_ms": 173000,
+      "name": "Filter",
+      "url": "https://open.spotify.com/track/2RsKdzQe6crT8oOYrl9X6S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Xernia (2021 Version)",
+        "url": "https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 58590,
+      "name": "Xaiyne - 2021 Version",
+      "url": "https://open.spotify.com/track/5P6n33YS2cZF4qtE4YF1t9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Feel It",
+        "url": "https://open.spotify.com/album/1PfYmdUoCZK9JfQu4z3Vy0"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 297152,
+      "name": "I Feel It",
+      "url": "https://open.spotify.com/track/2spKRxUBwrc4pMBBJpPnCC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "maybe i need to know myself",
+        "url": "https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Futile",
+      "url": "https://open.spotify.com/track/0sLzwYsGIiUZsZ9Kvil7ih"
     },
     {
       "added_at": null,
@@ -592,25 +640,9 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Futile",
-      "url": "https://open.spotify.com/track/0sLzwYsGIiUZsZ9Kvil7ih"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Feel It",
-        "url": "https://open.spotify.com/album/1PfYmdUoCZK9JfQu4z3Vy0"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 297152,
-      "name": "I Feel It",
-      "url": "https://open.spotify.com/track/2spKRxUBwrc4pMBBJpPnCC"
+      "duration_ms": 114468,
+      "name": "can't",
+      "url": "https://open.spotify.com/track/043q2mHs10VHctg7zt6tzR"
     },
     {
       "added_at": null,
@@ -631,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "maybe i need to know myself",
-        "url": "https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 114468,
-      "name": "can't",
-      "url": "https://open.spotify.com/track/043q2mHs10VHctg7zt6tzR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Xernia (2021 Version)",
         "url": "https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 219769,
       "name": "U_KNOWN - 2021 Version",
       "url": "https://open.spotify.com/track/2FrS1ydBBI5gPeFSQOL1HN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Xernia (2021 Version)",
-        "url": "https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 58590,
-      "name": "Xaiyne - 2021 Version",
-      "url": "https://open.spotify.com/track/5P6n33YS2cZF4qtE4YF1t9"
     }
   ],
   "unique_name": "This Is Learke",

@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "BET YOUR LIFE",
+        "url": "https://open.spotify.com/album/7vOz3K6W0hzTyPI5PrKJvA"
+      },
+      "artists": [
+        {
+          "name": "ONE OR EIGHT",
+          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137684,
+      "name": "BET YOUR LIFE",
+      "url": "https://open.spotify.com/track/3i3i4SqqAjWvihgVhWbQXS"
+    },
+    {
+      "album": {
         "name": "Better Half (feat. Omoinotake)",
         "url": "https://open.spotify.com/album/6nIPGzCGclgKS7r5vt5oy9"
       },
@@ -10257,6 +10275,24 @@
     },
     {
       "album": {
+        "name": "TAKE A SHOT",
+        "url": "https://open.spotify.com/album/06qgEuyha6pNcBJvglOGha"
+      },
+      "artists": [
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "TAKE A SHOT",
+      "url": "https://open.spotify.com/track/1JTPqGG7hHzLsBWK6caGQz"
+    },
+    {
+      "album": {
         "name": "MUSi-aM",
         "url": "https://open.spotify.com/album/5T7DFjBp74VsO5eHFT3Kie"
       },
@@ -10536,7 +10572,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 224318,
       "name": "Time",
       "url": "https://open.spotify.com/track/1OvE4CwaIZJ89Eq0qXGCEF"
@@ -11812,7 +11848,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 147857,
       "name": "Young & Reckless",
       "url": "https://open.spotify.com/track/0Lb4nVNM4sGZA7XBOuJEkh"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,052 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,443 likes - 65 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 35 | [Só Danço Samba](https://open.spotify.com/track/3oAUlcseAPHcBVJ6nHWbJv) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto](https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y) | 3:45 |
 | 36 | [A Tonga Da Mironga Do Kabuletê](https://open.spotify.com/track/1xgiVKlkBQsBeDfImpQXYM) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [20 Grandes Sucessos De Vinicius De Moreas](https://open.spotify.com/album/0XRyGJJdrVKMDmp70hKQpo) | 0:54 |
 | 37 | [Agua De Beber](https://open.spotify.com/track/4SSADZr3VsQeoqNbjLXw8W) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/0GcP2Ly5pnuNFdk5lLgDGB) | 2:19 |
-| 38 | [Samba Da Benção](https://open.spotify.com/track/2dA7eKXUzw1Ndc78kKRefH) | [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [Baden Powell \- A Bênção Baden Powell](https://open.spotify.com/album/6tfUEd0AHP0l3cqOdsREbf) | 6:50 |
-| 39 | [Manha de Carnaval](https://open.spotify.com/track/2LFcZ1nrrMPmGOvuEwAK23) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound Of Brazil / Piano Of João Donato](https://open.spotify.com/album/64UoZw5GAHgZjO463vdgGH) | 3:06 |
+| 38 | [Manha de Carnaval](https://open.spotify.com/track/2LFcZ1nrrMPmGOvuEwAK23) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound Of Brazil / Piano Of João Donato](https://open.spotify.com/album/64UoZw5GAHgZjO463vdgGH) | 3:06 |
+| 39 | [Samba Da Benção](https://open.spotify.com/track/2dA7eKXUzw1Ndc78kKRefH) | [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [Baden Powell \- A Bênção Baden Powell](https://open.spotify.com/album/6tfUEd0AHP0l3cqOdsREbf) | 6:50 |
 | 40 | [O Barquinho](https://open.spotify.com/track/2oBiFDhFwbEHYaGOf1Mfrb) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [20 Grandes Sucessos De Nara Leao](https://open.spotify.com/album/3szAhEAqI6a0L2INCE1IrJ) | 3:05 |
 | 41 | [Aos Pés da Cruz](https://open.spotify.com/track/5JpzCoU3507wF3znYcQbFA) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/5aTQQVvZkNcSi0K5R4glLO) | 3:15 |
 | 42 | [Corcovado \(Quiet Nights Of Quiet Stars\)](https://open.spotify.com/track/6OeIgS4Sk5Qea5Ds5MGTGe) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto](https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y) | 2:20 |

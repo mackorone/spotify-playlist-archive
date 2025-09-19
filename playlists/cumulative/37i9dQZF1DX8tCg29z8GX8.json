@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 161156,
       "name": "Bad Feeling",
       "url": "https://open.spotify.com/track/1toPx3Ekrax1CIGIBJIgLf"
@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 182142,
       "name": "Bobo",
       "url": "https://open.spotify.com/track/48fNM8TUHTZbndUYoWnEUy"
@@ -2832,7 +2832,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 164026,
       "name": "Chances",
       "url": "https://open.spotify.com/track/5DiPuzT8Gf9hKTTqaf2Fkd"
@@ -3840,7 +3840,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 179005,
       "name": "EMIKO",
       "url": "https://open.spotify.com/track/2pDz8CxpjxguRg1SXplkG2"
@@ -3858,7 +3858,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 148363,
       "name": "Emotional",
       "url": "https://open.spotify.com/track/2tDYu64ZvvrKhkbIPUaz1w"
@@ -4354,7 +4354,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 182622,
       "name": "Fine Girl",
       "url": "https://open.spotify.com/track/6P52DObY1mHoGjJAObCvAQ"
@@ -4654,7 +4654,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 144657,
       "name": "Forget",
       "url": "https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75"
@@ -5486,7 +5486,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 140204,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/2thpkCc0YtkCVn88jou50k"
@@ -5722,7 +5722,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 160375,
       "name": "I Feel Nice",
       "url": "https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB"
@@ -6991,6 +6991,24 @@
     },
     {
       "album": {
+        "name": "La Vida Loca",
+        "url": "https://open.spotify.com/album/5SJvtKjcD4LmZ564pD24Rm"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266896,
+      "name": "La Vida Loca",
+      "url": "https://open.spotify.com/track/4Hxx6KY9Hrq6q3NFZkR1gV"
+    },
+    {
+      "album": {
         "name": "Labadi Waakye",
         "url": "https://open.spotify.com/album/5DVQEI28yBq4QdOHPjyCe8"
       },
@@ -7068,7 +7086,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 141967,
       "name": "Larger Than Life (feat. Stonebwoy)",
       "url": "https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO"
@@ -7946,7 +7964,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 173397,
       "name": "Many Many Things",
       "url": "https://open.spotify.com/track/4uzKhhLD4m4ZgIOmUzXDBP"
@@ -8248,7 +8266,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy"
@@ -8858,7 +8876,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 266922,
       "name": "NLF (Breakfast) (feat. Lyrical Joe, Medikal & Beeztrap KOTM) - Remix",
       "url": "https://open.spotify.com/track/0p78AVztWdAadBisJf2AwD"
@@ -9710,7 +9728,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 196951,
       "name": "Otan",
       "url": "https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5"
@@ -10668,7 +10686,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 148928,
       "name": "Real Thing",
       "url": "https://open.spotify.com/track/2FkPTIoTRM5oF0IzqdOp9e"
@@ -11192,7 +11210,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 182727,
       "name": "Saint Tropez",
       "url": "https://open.spotify.com/track/6o4oHv1VSmHmHjWfQf8yp0"
@@ -11400,6 +11418,28 @@
       "duration_ms": 189626,
       "name": "See Boday",
       "url": "https://open.spotify.com/track/2fTMA25R9zSVGwW2lBW69q"
+    },
+    {
+      "album": {
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185719,
+      "name": "See What We've Done",
+      "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
     },
     {
       "album": {
@@ -12854,7 +12894,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 169142,
       "name": "TIENS MA MONEY (feat. Stonebwoy)",
       "url": "https://open.spotify.com/track/6S46LxjNxiMLQLS352CFib"
@@ -13378,7 +13418,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 171247,
       "name": "unconditional",
       "url": "https://open.spotify.com/track/5AdS5p0hYS4dlKbJz0tMwj"
@@ -14156,7 +14196,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-09",
+      "date_removed": null,
       "duration_ms": 173571,
       "name": "Would You? (feat. Olivetheboy)",
       "url": "https://open.spotify.com/track/1v89FlplDCTaz6Yu4BPYW1"
@@ -14594,7 +14634,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 156080,
       "name": "ZAAZAA",
       "url": "https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj"

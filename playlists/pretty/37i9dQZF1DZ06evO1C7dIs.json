@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 260808,
+  "num_followers": 260834,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAAAP0t9S54/48jLlkTnNQsbQ",
+  "snapshot_id": "aMn6AAAAAAAuCHPgW8uLitRk+1KZZIFl",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanborn",
-        "url": "https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 268226,
-      "name": "Stargazers",
-      "url": "https://open.spotify.com/track/6iB8e72Dgdvrnn4AuvIgmP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dark Passion Play",
         "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 347402,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/5BVCsSoPnMXwPeaK9Aexjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oceanborn",
+        "url": "https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 268226,
+      "name": "Stargazers",
+      "url": "https://open.spotify.com/track/6iB8e72Dgdvrnn4AuvIgmP"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Over The Hills And Far Away",
-        "url": "https://open.spotify.com/album/6j4E355c5CbrduKa4rGGLj"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 320733,
-      "name": "10th Man Down",
-      "url": "https://open.spotify.com/track/6ufTwGcAxjHAYlTrhxeyME"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dark Passion Play",
         "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 340715,
       "name": "Last of the Wilds",
       "url": "https://open.spotify.com/track/6UN6xo95p2gTCmmFmwgKBw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Over The Hills And Far Away",
+        "url": "https://open.spotify.com/album/6j4E355c5CbrduKa4rGGLj"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 320733,
+      "name": "10th Man Down",
+      "url": "https://open.spotify.com/track/6ufTwGcAxjHAYlTrhxeyME"
     },
     {
       "added_at": null,

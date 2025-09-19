@@ -2,9 +2,9 @@
 
 ### [HOTPOP](https://open.spotify.com/playlist/37i9dQZF1DXcklpCH5705e)
 
-> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Sherman Zhuo
+> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Firdhaus 菲道爾
 
-238 songs - 15 hr 28 min
+239 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [你到底在選擇什麼](https://open.spotify.com/track/3tKi1rBzT8RPtAyId7iOJ7) | [公館青少年 GGteens](https://open.spotify.com/artist/70tzNPv1y3Ft17QI4KLdSp) | [你到底在選擇什麼](https://open.spotify.com/album/1rjvwp6Fbsik62WVAGsBFw) | 4:13 | 2025-08-14 |  |
 | [你在我喜歡的世界裡（《愛你》影視劇主題曲）](https://open.spotify.com/track/14PzcR0qXHYCfPhvSM2RlT) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [你在我喜歡的世界裡（《愛你》影視劇主題曲）](https://open.spotify.com/album/78BlwkN5CKGfU8jeDXLz4G) | 3:44 | 2025-04-03 |  |
 | [你已經替我決定了 \(《命中註定那頭鵝》電影主題曲\)](https://open.spotify.com/track/2PDdcf9HyMU93mqgNvJiVZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [你已經替我決定了 \(《命中註定那頭鵝》電影主題曲\)](https://open.spotify.com/album/2wsKWIVEbeFEvqvjWsAfig) | 3:49 | 2025-05-09 |  |
+| [你想得美](https://open.spotify.com/track/4vSqgkQmBSwB5yDXoU191e) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [六一九](https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU) | 2:52 | 2025-09-18 |  |
 | [你救哪一個 \(Hidden Track\)](https://open.spotify.com/track/3F4di2gUOaxexwCsrPwtQT) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [Vibes](https://open.spotify.com/album/4KmgdX1Q7Q5tzEwNhNjjII) | 3:37 | 2023-02-02 | 2025-04-04 |
 | [你是我的女人](https://open.spotify.com/track/6jDLdVKCa0lM8RyzNuvnxn) | [Robynn & Kendy](https://open.spotify.com/artist/3NFZHFNSDK0Q8k3k38ysTp) | [Robynn & Kendy](https://open.spotify.com/album/4Kh0aJr49Tb4lDBEJu5kAq) | 3:36 | 2023-02-02 | 2025-04-04 |
 | [你會來看我嗎？](https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [你會來看我嗎？](https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC) | 3:41 | 2025-04-10 |  |

@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Element Two: Earth",
+        "url": "https://open.spotify.com/album/47LAjSieRTVItb8J66EMRQ"
+      },
+      "artists": [
+        {
+          "name": "Shayfer James",
+          "url": "https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160675,
+      "name": "One Foot in the Grave",
+      "url": "https://open.spotify.com/track/00sg1bWleg3eSzq5fgRaLl"
+    },
+    {
+      "album": {
         "name": "Rave in the Grave",
         "url": "https://open.spotify.com/album/2XPegg8qwhY3CHGR4n812W"
       },

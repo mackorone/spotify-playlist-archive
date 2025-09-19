@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-631 songs - 1 day 7 hr 5 min
+632 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [dashstar\* \- VIP](https://open.spotify.com/track/4FKRT4uPFx2L4exy9DCs1o) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\* \(VIP\)](https://open.spotify.com/album/014iFORUzGJCv81enXjJMg) | 2:20 | 2023-02-10 | 2024-04-19 |
 | [Dead Or Alive](https://open.spotify.com/track/4ebye8oxJ3SaTi3MD50lbn) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Dead Or Alive](https://open.spotify.com/album/1iELNSuo6I77ZYPo8BJl3o) | 2:14 | 2022-01-07 | 2022-04-16 |
 | [Deep \(with DJ Snake & Yung Felix\)](https://open.spotify.com/track/0hSdx0sbSmYRVJzZTuspu0) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Deep \(with DJ Snake & Yung Felix\)](https://open.spotify.com/album/3WpS9W69UKt59YFj744I0u) | 3:33 | 2022-10-28 | 2022-10-30 |
+| [Deep Clear Water](https://open.spotify.com/track/10jXicWLj7TM7Ny7eTZgdP) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Deep Clear Water](https://open.spotify.com/album/6WIt8IVo6ayTiQQ9zihsSM) | 3:19 | 2025-09-12 |  |
 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-06-17 | 2025-09-13 |
 | [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 | 2023-07-07 | 2024-05-03 |
 | [Dernière danse \- Techno Mix](https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Dernière danse \(Techno Mix\)](https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q) | 3:17 | 2024-02-16 |  |
@@ -461,7 +462,7 @@
 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 | 2023-08-11 |  |
 | [Queen Of My Castle](https://open.spotify.com/track/5AkKovjix5SPXurPaV1p69) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Queen Of My Castle](https://open.spotify.com/album/5g6FHRdXl51AAOmlJaHfk9) | 2:36 | 2024-06-21 | 2024-11-02 |
 | [R 2 ME](https://open.spotify.com/track/0eFqPUbuiobmOEiotEFxGy) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [R 2 ME](https://open.spotify.com/album/3IrJQH8ohnkiOHq0C2BcJN) | 2:32 | 2025-07-01 |  |
-| [R U DOWN?](https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [R U DOWN?](https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd) | 2:19 | 2025-08-01 |  |
+| [R U DOWN?](https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [R U DOWN?](https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd) | 2:19 | 2025-08-01 | 2025-09-19 |
 | [Radio](https://open.spotify.com/track/3FN3jsZTdt5sU6NRcIgUKK) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Radio](https://open.spotify.com/album/7udcz2WCVMk58UsJ7cPXH9) | 3:15 | 2023-01-06 | 2023-05-21 |
 | [Rain In Ibiza](https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rain In Ibiza](https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN) | 2:21 | 2022-03-11 | 2023-10-08 |
 | [RATATA](https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:06 | 2023-02-24 | 2025-09-13 |

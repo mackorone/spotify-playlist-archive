@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Vivir Quintana & Majo Aguilar en portada \ud83d\udd25",
-  "num_followers": 123453,
+  "num_followers": 123477,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-09-15 16:46:15",
       "album": {
+        "name": "LA PENSI\u00d3N",
+        "url": "https://open.spotify.com/album/585xFnVpbV7V7zfsoUajH0"
+      },
+      "artists": [
+        {
+          "name": "Mariana Ochoa",
+          "url": "https://open.spotify.com/artist/5r3KBrwjeekt6CRjUG8rj9"
+        }
+      ],
+      "duration_ms": 162429,
+      "name": "LA PENSI\u00d3N",
+      "url": "https://open.spotify.com/track/7fj1OVzy2ef7yI2USTp7jI"
+    },
+    {
+      "added_at": "2025-09-15 16:46:15",
+      "album": {
         "name": "Maldita Billetera",
         "url": "https://open.spotify.com/album/1ctchvx9rFJeAY41RvrvP8"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 202500,
       "name": "Maldita Billetera",
       "url": "https://open.spotify.com/track/6wghCwZvtMVV3ElbalRq9u"
-    },
-    {
-      "added_at": "2025-09-15 16:46:15",
-      "album": {
-        "name": "LA PENSI\u00d3N",
-        "url": "https://open.spotify.com/album/585xFnVpbV7V7zfsoUajH0"
-      },
-      "artists": [
-        {
-          "name": "Mariana Ochoa",
-          "url": "https://open.spotify.com/artist/5r3KBrwjeekt6CRjUG8rj9"
-        }
-      ],
-      "duration_ms": 162429,
-      "name": "LA PENSI\u00d3N",
-      "url": "https://open.spotify.com/track/7fj1OVzy2ef7yI2USTp7jI"
     },
     {
       "added_at": "2025-09-15 16:46:15",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-09-15 16:46:15",
       "album": {
-        "name": "Cuando Yo Quiera Has De Volver",
-        "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 212126,
-      "name": "Cuando Yo Quiera Has De Volver",
-      "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
-    },
-    {
-      "added_at": "2025-09-15 16:46:15",
-      "album": {
         "name": "Tu Orgullo",
         "url": "https://open.spotify.com/album/267SO0IVvJF735vzJNB5zV"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 212757,
       "name": "Tu Orgullo",
       "url": "https://open.spotify.com/track/0dUoMXtgCcfZt2py8iXROK"
+    },
+    {
+      "added_at": "2025-09-15 16:46:15",
+      "album": {
+        "name": "Cuando Yo Quiera Has De Volver",
+        "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 212126,
+      "name": "Cuando Yo Quiera Has De Volver",
+      "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
     },
     {
       "added_at": "2025-09-15 16:46:15",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2025-09-15 16:46:15",
       "album": {
-        "name": "En Teor\u00eda",
-        "url": "https://open.spotify.com/album/439GW2omcgcLtXHceYSYWa"
-      },
-      "artists": [
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        },
-        {
-          "name": "Johanna Cota",
-          "url": "https://open.spotify.com/artist/6bm7uU9sg4Fm6MVQ6Rovi2"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "En Teor\u00eda",
-      "url": "https://open.spotify.com/track/1dt6VIKZ612pNrAa2HtK2i"
-    },
-    {
-      "added_at": "2025-09-15 16:46:15",
-      "album": {
         "name": "Doble T",
         "url": "https://open.spotify.com/album/4P6cszM5VvuNEqBRpSPfgs"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 159857,
       "name": "Doble T",
       "url": "https://open.spotify.com/track/0psYURhcteRbFcW9MH3Rj9"
+    },
+    {
+      "added_at": "2025-09-15 16:46:15",
+      "album": {
+        "name": "En Teor\u00eda",
+        "url": "https://open.spotify.com/album/439GW2omcgcLtXHceYSYWa"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        },
+        {
+          "name": "Johanna Cota",
+          "url": "https://open.spotify.com/artist/6bm7uU9sg4Fm6MVQ6Rovi2"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "En Teor\u00eda",
+      "url": "https://open.spotify.com/track/1dt6VIKZ612pNrAa2HtK2i"
     },
     {
       "added_at": "2025-09-15 16:46:15",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-09-15 16:46:15",
       "album": {
-        "name": "No Me Rebajo",
-        "url": "https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU"
-      },
-      "artists": [
-        {
-          "name": "La Morra De La Vihuela",
-          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "No Me Rebajo",
-      "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
-    },
-    {
-      "added_at": "2025-09-15 16:46:15",
-      "album": {
         "name": "C\u00f3mo Le Hacen Los Dolidos",
         "url": "https://open.spotify.com/album/0eLLMT6TGrsPZyyM8VBE9q"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 166280,
       "name": "C\u00f3mo Le Hacen Los Dolidos",
       "url": "https://open.spotify.com/track/3hACkfWTkqO9XYfScnGjXp"
+    },
+    {
+      "added_at": "2025-09-15 16:46:15",
+      "album": {
+        "name": "No Me Rebajo",
+        "url": "https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU"
+      },
+      "artists": [
+        {
+          "name": "La Morra De La Vihuela",
+          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "No Me Rebajo",
+      "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
     },
     {
       "added_at": "2025-09-15 16:46:15",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-09-15 16:46:15",
       "album": {
-        "name": "\u00bfPor Qu\u00e9 No Vienes?",
-        "url": "https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm"
-      },
-      "artists": [
-        {
-          "name": "Vicky Terrazas",
-          "url": "https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "\u00bfPor Qu\u00e9 No Vienes?",
-      "url": "https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY"
-    },
-    {
-      "added_at": "2025-09-15 16:46:15",
-      "album": {
         "name": "En Vivo: Irene del Rosario",
         "url": "https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 214414,
       "name": "No Puedo Olvidarlo",
       "url": "https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P"
+    },
+    {
+      "added_at": "2025-09-15 16:46:15",
+      "album": {
+        "name": "\u00bfPor Qu\u00e9 No Vienes?",
+        "url": "https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm"
+      },
+      "artists": [
+        {
+          "name": "Vicky Terrazas",
+          "url": "https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "\u00bfPor Qu\u00e9 No Vienes?",
+      "url": "https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY"
     },
     {
       "added_at": "2025-09-15 16:46:15",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2025-09-15 16:46:15",
       "album": {
-        "name": "Osa Mayor",
-        "url": "https://open.spotify.com/album/1xQZbA4mChm7D0X81X6yCc"
+        "name": "Yo Ni Te Topo",
+        "url": "https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj"
       },
       "artists": [
         {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+          "name": "Brianda",
+          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
         }
       ],
-      "duration_ms": 227194,
-      "name": "Locura Autom\u00e1tica",
-      "url": "https://open.spotify.com/track/6bBQaJ14zJooV1zvISFYEX"
+      "duration_ms": 158210,
+      "name": "Yo Ni Te Topo",
+      "url": "https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr"
     },
     {
       "added_at": "2025-09-15 16:46:15",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2025-09-15 16:46:15",
       "album": {
-        "name": "Yo Ni Te Topo",
-        "url": "https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj"
+        "name": "Osa Mayor",
+        "url": "https://open.spotify.com/album/1xQZbA4mChm7D0X81X6yCc"
       },
       "artists": [
         {
-          "name": "Brianda",
-          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
         }
       ],
-      "duration_ms": 158210,
-      "name": "Yo Ni Te Topo",
-      "url": "https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr"
+      "duration_ms": 227194,
+      "name": "Locura Autom\u00e1tica",
+      "url": "https://open.spotify.com/track/6bBQaJ14zJooV1zvISFYEX"
     },
     {
       "added_at": "2025-09-15 16:46:15",

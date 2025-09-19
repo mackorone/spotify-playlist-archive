@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: Poppy, Amy Lee & Courtney LaPlante",
+  "description": "The best in new rock. Cover: Aerosmith & YUNGBLUD",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -686,7 +686,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 205239,
       "name": "BALCONY",
       "url": "https://open.spotify.com/track/1FqQNvS76qtUAwj3aore7f"
@@ -888,6 +888,24 @@
       "duration_ms": 178722,
       "name": "Big Time Nothing",
       "url": "https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1"
+    },
+    {
+      "album": {
+        "name": "Bitch",
+        "url": "https://open.spotify.com/album/2uyUeKwzu56mjv1jpII4wE"
+      },
+      "artists": [
+        {
+          "name": "The Buoys",
+          "url": "https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229849,
+      "name": "Bitch",
+      "url": "https://open.spotify.com/track/375yACL0bMGmcgr1cY62r3"
     },
     {
       "album": {
@@ -1933,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251880,
+      "name": "Drenched",
+      "url": "https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX"
+    },
+    {
+      "album": {
         "name": "Drone",
         "url": "https://open.spotify.com/album/7x0fnd4CBbRgf00jWks3ID"
       },
@@ -2378,6 +2414,24 @@
       "duration_ms": 124663,
       "name": "First One",
       "url": "https://open.spotify.com/track/1kwH8rfBYqM9bWf2x8b7iD"
+    },
+    {
+      "album": {
+        "name": "Flood",
+        "url": "https://open.spotify.com/album/1yRHBzcfygy0krP0wqVwk7"
+      },
+      "artists": [
+        {
+          "name": "Flycatcher",
+          "url": "https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213553,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/7mkOTx13FFvCad61vbAIcT"
     },
     {
       "album": {
@@ -3248,7 +3302,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 233141,
       "name": "I CARE",
       "url": "https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC"
@@ -4661,6 +4715,28 @@
     },
     {
       "album": {
+        "name": "My Only Angel",
+        "url": "https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255818,
+      "name": "My Only Angel",
+      "url": "https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd"
+    },
+    {
+      "album": {
         "name": "N.O.V.A",
         "url": "https://open.spotify.com/album/4HBA9y6e5lpzONKwSfs487"
       },
@@ -4712,6 +4788,24 @@
       "duration_ms": 402133,
       "name": "Never Stop Loving You",
       "url": "https://open.spotify.com/track/47Je1AgGGoqiK1ERyARL5Y"
+    },
+    {
+      "album": {
+        "name": "NEW AGE",
+        "url": "https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03"
+      },
+      "artists": [
+        {
+          "name": "sleepazoid",
+          "url": "https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212497,
+      "name": "NEW AGE",
+      "url": "https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9"
     },
     {
       "album": {
@@ -5382,7 +5476,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 168555,
       "name": "Paint A Picture",
       "url": "https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh"
@@ -6188,7 +6282,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 234715,
       "name": "Shut You Out",
       "url": "https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW"
@@ -7706,7 +7800,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 238002,
       "name": "Unravelling",
       "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"

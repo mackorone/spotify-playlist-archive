@@ -213,6 +213,24 @@
     },
     {
       "album": {
+        "name": "The Tourist (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4mTNGNRf1JANZXVvBxowfL"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178693,
+      "name": "Bedroom Dreams",
+      "url": "https://open.spotify.com/track/50NKGnimZ3ypdxJDbrMU4z"
+    },
+    {
+      "album": {
         "name": "News Of The World (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6v1bOteXExLs8oA8epNRuc"
       },
@@ -1238,7 +1256,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 95280,
       "name": "Queenie Searches for Jacob",
       "url": "https://open.spotify.com/track/2kIYYof7DC0jU3j2s7Wrdn"

@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-694 songs - 1 day 9 hr 2 min
+695 songs - 1 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Cream](https://open.spotify.com/track/7LgYzp5DkC6wPE3WPU3dZS) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Kulshaan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap) | [Cream](https://open.spotify.com/album/1Z3AIHg848JJGQ2rDWz7Hj) | 3:22 | 2025-01-28 | 2025-02-20 |
 | [CREDENTIALS](https://open.spotify.com/track/5Iv2d84UF1HkkkPGmI1Dvf) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [2003](https://open.spotify.com/album/3xaN6DbmCjuDsBclF2xSaF) | 2:30 | 2024-07-19 | 2024-08-30 |
 | [Cult](https://open.spotify.com/track/6khPfBEdrUMNK9ukBL7yzc) | [Sukhpall Channi](https://open.spotify.com/artist/1o2oKjgjDjZwAjaLnKB2LX) | [Cult](https://open.spotify.com/album/4qefqfL9uEPInY8EYMJAmr) | 2:31 | 2024-12-05 | 2025-03-28 |
-| [CULT](https://open.spotify.com/track/0PQYu4I5csxnSNDDMN6xPk) | [Xvir Grewal](https://open.spotify.com/artist/6kGxwXzhQX2OfUcGNi5Rh6) | [CULT](https://open.spotify.com/album/6RERD6AfphwkNzmP5sLOBG) | 2:49 | 2025-08-13 |  |
+| [CULT](https://open.spotify.com/track/0PQYu4I5csxnSNDDMN6xPk) | [Xvir Grewal](https://open.spotify.com/artist/6kGxwXzhQX2OfUcGNi5Rh6) | [CULT](https://open.spotify.com/album/6RERD6AfphwkNzmP5sLOBG) | 2:49 | 2025-08-13 | 2025-09-19 |
 | [Da Boyz](https://open.spotify.com/track/3g8pr3GIUlFFya9RfEpBtw) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg) | [Da Boyz](https://open.spotify.com/album/1fT7lCZ3sfwNWDe6nSXKrD) | 1:44 | 2023-08-03 | 2023-09-12 |
 | [Daadey](https://open.spotify.com/track/4wQoYEtHU6oXo9z62GITtH) | [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm), [Divrose](https://open.spotify.com/artist/2vozhmDOGI7uIqNM1v7GHE), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Daadey](https://open.spotify.com/album/432wkwsdlyvcW99ePM2I85) | 2:07 | 2023-10-26 | 2023-11-07 |
 | [Daang Te Dera \- From "Khadari"](https://open.spotify.com/track/4kTuCpxZpGrUwiEnbHIEfU) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs), [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb) | [Daang Te Dera \(From "Khadari"\)](https://open.spotify.com/album/3Jd5vtPICSYKSyLwVg6Jkx) | 2:33 | 2024-01-22 | 2024-01-25 |
@@ -601,6 +601,7 @@
 | [STRAP](https://open.spotify.com/track/1GmaStjvbOzszpxINI8oTi) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [STRAP](https://open.spotify.com/album/4S53T78rr9YNwFGG08bkNI) | 2:42 | 2023-10-26 | 2024-03-14 |
 | [STREET Flow](https://open.spotify.com/track/4pVizj13VbHI010vGoA3DR) | [Armaan Dhillon](https://open.spotify.com/artist/7tKbaCF35AFn9aXt22LFoC) | [STREET Flow](https://open.spotify.com/album/6DSw9P317UljN6m1SHnvdW) | 2:16 | 2024-01-05 | 2024-01-19 |
 | [Street Flow](https://open.spotify.com/track/6OrstIkLUMihQEgQv4txvy) | [Armaan Dhillon](https://open.spotify.com/artist/7tKbaCF35AFn9aXt22LFoC), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [Legacy](https://open.spotify.com/album/0m8UoInWemJ0sdaS2GIqai) | 2:16 | 2023-10-23 | 2024-04-19 |
+| [Street Talk](https://open.spotify.com/track/3PZjsRjRArMSKYcbUJm8fq) | [G MAG](https://open.spotify.com/artist/5hxSCytCHDded72ghiUG0m), [RAGE 24](https://open.spotify.com/artist/6PMpAHsdTywd7MnW7X1pfh), [Dev Ocean](https://open.spotify.com/artist/0m6PgLqa6qgmEzKk1FS6eX) | [Lehar Chandigarh Mixtape](https://open.spotify.com/album/1oxwF8cjAC7wXjKTQmDxmF) | 3:00 | 2025-09-18 |  |
 | [Streetwise](https://open.spotify.com/track/5YYqibj5kqYWjZ3GOHHUaC) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:44 | 2023-09-04 | 2024-03-05 |
 | [Strong Enough](https://open.spotify.com/track/6C4zDUv7NpDxmvyakCGnKf) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [Strong Enough](https://open.spotify.com/album/6sxRh5LkG9gk3cAnaaZjT6) | 3:10 | 2025-05-05 |  |
 | [STUBBORN](https://open.spotify.com/track/2EWNCovGetUcsMm0YoaLW1) | [Shera Dhaliwal](https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5), [Avy](https://open.spotify.com/artist/60LOC5YjxUz2giCuSG8vgY) | [STUBBORN](https://open.spotify.com/album/7sLWgorFOvUA5U6ri8m2bN) | 2:14 | 2025-09-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24785,
+  "num_followers": 24782,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAADpo1NhnesNOlwsQyw3v7xs",
+  "snapshot_id": "aMn6AAAAAAAdY0zkLLJNm2kJWV9GsYPV",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Too Much (From \u201cZapped\u201d)",
+        "url": "https://open.spotify.com/album/73XdslsbaoIRZworqNAgJ2"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/1cqudsA6yOqEUwGX5mrCeW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fashion Is My Kryptonite (from \"Shake It Up: Made In Japan\")",
         "url": "https://open.spotify.com/album/0KeTEWCMTNGLKvgS4mj8C9"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 164613,
       "name": "Fashion Is My Kryptonite (from \"Shake It Up: Made In Japan\")",
       "url": "https://open.spotify.com/track/7H9vfjM5tu6TX2ClilT3u7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Too Much (From \u201cZapped\u201d)",
-        "url": "https://open.spotify.com/album/73XdslsbaoIRZworqNAgJ2"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/1cqudsA6yOqEUwGX5mrCeW"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Disney Channel Play It Loud",
+        "url": "https://open.spotify.com/album/3cLSwFnXjZGfgM62w7BCuT"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "Remember Me - From \"Shake It Up\"",
+      "url": "https://open.spotify.com/track/7g9OZaQlRGfIA9M1kNEtUK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To Live For",
         "url": "https://open.spotify.com/album/3gioCmiIcOvqNRWBpMYrr5"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 230207,
       "name": "My Jam",
       "url": "https://open.spotify.com/track/02DaqClSJTt95OvsiroP5j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Disney Channel Play It Loud",
-        "url": "https://open.spotify.com/album/3cLSwFnXjZGfgM62w7BCuT"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "Remember Me - From \"Shake It Up\"",
-      "url": "https://open.spotify.com/track/7g9OZaQlRGfIA9M1kNEtUK"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 218733,
-      "name": "Bottle You Up",
-      "url": "https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p"
+      "duration_ms": 224213,
+      "name": "Only When You're Close",
+      "url": "https://open.spotify.com/track/7BhxxlLcCCfvixzy8KExZv"
     },
     {
       "added_at": null,
@@ -655,30 +655,6 @@
       "duration_ms": 268973,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Jam - Track Commentary",
-        "url": "https://open.spotify.com/album/2J9D3akwEAUR4kfYHQvtww"
-      },
-      "artists": [
-        {
-          "name": "Bobby Brackins",
-          "url": "https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 144090,
-      "name": "My Jam - Track Commentary",
-      "url": "https://open.spotify.com/track/6iYBqmCFPD5HzWq9Bfyiab"
     }
   ],
   "unique_name": "This Is Zendaya",

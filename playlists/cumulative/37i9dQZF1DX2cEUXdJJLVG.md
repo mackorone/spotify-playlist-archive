@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-440 songs - 1 day 2 hr 20 min
+441 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Clouds](https://open.spotify.com/track/5bfuYOSY3lC5KRjKaPs7hx) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Benjamin Fro](https://open.spotify.com/artist/0O9dDLVIaf3EA0HlMjant6) | [Clouds](https://open.spotify.com/album/0bd4sxHpZedop36TTS5Mkd) | 4:09 | 2022-09-09 | 2024-05-10 |
 | [Colors](https://open.spotify.com/track/4WqG4yMCX2QbjQc8SBaDyt) | [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN) | [Colors](https://open.spotify.com/album/3GnLPpDwWYpIEdBlgaEk4o) | 3:24 | 2025-06-19 |  |
 | [Colours](https://open.spotify.com/track/7s94DZ7wrUSlDvPZasqEux) | [NTEIBINT](https://open.spotify.com/artist/6fJxi0zWcEG0argPVsSrXw) | [Colours](https://open.spotify.com/album/0CRsO4ZeFqnjp2vX7dn7O0) | 5:11 | 2022-09-09 | 2023-07-08 |
+| [Come Alive](https://open.spotify.com/track/54qhMRdSYqQhUo7CtFzXQa) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Come Alive](https://open.spotify.com/album/4rFgB6gBS4YJR8EtyUinvw) | 3:17 | 2025-09-18 |  |
 | [Come Get It \(feat\. DAVIES\)](https://open.spotify.com/track/0NNwzgqaF0GfxVMhVpHxrV) | [Alannah Chapman](https://open.spotify.com/artist/0eiHbBXXBUIcn2b34Wmx9V), [DAVIES](https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y) | [Come Get It \(feat\. DAVIES\)](https://open.spotify.com/album/7jvpWvHx9jY7ew3PU6BKYA) | 2:54 | 2025-03-27 |  |
 | [Come to Me \- Late Night Version](https://open.spotify.com/track/4dsuDBdmva1gGqx35pd8Zy) | [Bkk](https://open.spotify.com/artist/37iEII5f2rWL5OxjUZ2wWw), [Bora](https://open.spotify.com/artist/5jedSTtBRn1JoOsIop4A6t) | [Come to Me \(Late Night Version\)](https://open.spotify.com/album/5XCPXsYrIWAlwbMQjv9VAq) | 3:07 | 2022-09-09 | 2024-05-10 |
 | [Company](https://open.spotify.com/track/5IDu7Pb1pqeWpmkDarfQwZ) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [SammyB](https://open.spotify.com/artist/5GFqETG1gTsyg32HCBNmjQ), [Dux](https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr) | [Housewife](https://open.spotify.com/album/7y8yy64nFLCHR0NB6VsH0z) | 3:38 | 2024-10-21 |  |

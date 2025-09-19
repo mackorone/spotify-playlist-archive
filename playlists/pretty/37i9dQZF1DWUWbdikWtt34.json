@@ -1,13 +1,49 @@
 {
-  "description": "Dendang Dangdut teratas. Cover: Mansyur S",
-  "num_followers": 193836,
+  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah, Avolia",
+  "num_followers": 193874,
   "original_name": "Dangdut Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADRaMxsvDnGQ+mXdmRkcxqHeun3E",
+  "snapshot_id": "AAAAAKIjkEnltIUuy21akldYJjXo0pzB",
   "tracks": [
+    {
+      "added_at": "2025-09-18 23:50:55",
+      "album": {
+        "name": "Tak Halu Lagi (Acoustic)",
+        "url": "https://open.spotify.com/album/0x81GpNQND6hkbzTvUNy8m"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        },
+        {
+          "name": "Avolia",
+          "url": "https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE"
+        }
+      ],
+      "duration_ms": 223628,
+      "name": "Tak Halu Lagi - Acoustic",
+      "url": "https://open.spotify.com/track/1ixhjnRdA3QUt9o5iRXI4i"
+    },
+    {
+      "added_at": "2025-09-18 23:50:55",
+      "album": {
+        "name": "Kuda Betina",
+        "url": "https://open.spotify.com/album/57I4jrhMIfAhZCzr7Df4Mx"
+      },
+      "artists": [
+        {
+          "name": "Mansyur S",
+          "url": "https://open.spotify.com/artist/4uq6QLz8nA9LAj01MDk58W"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Kuda Betina",
+      "url": "https://open.spotify.com/track/7nGcHOBsZf7FQSPOTr2lie"
+    },
     {
       "added_at": "2025-09-02 02:25:26",
       "album": {
@@ -27,6 +63,22 @@
       "duration_ms": 437457,
       "name": "Rindunya Hatiku",
       "url": "https://open.spotify.com/track/1LIj4fVzWvknxXokqSEoGN"
+    },
+    {
+      "added_at": "2025-09-02 02:25:26",
+      "album": {
+        "name": "Ada Yang Punya",
+        "url": "https://open.spotify.com/album/1KbX92WGlqW6jqozBnC0Y3"
+      },
+      "artists": [
+        {
+          "name": "Lesti",
+          "url": "https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB"
+        }
+      ],
+      "duration_ms": 243147,
+      "name": "Ada Yang Punya",
+      "url": "https://open.spotify.com/track/3l6pWg1lq08PH5QrlviCJC"
     },
     {
       "added_at": "2025-09-02 02:25:26",
@@ -99,22 +151,6 @@
       "duration_ms": 247789,
       "name": "Tak Halu Lagi",
       "url": "https://open.spotify.com/track/78u16742DkFCGnGjYXzgoH"
-    },
-    {
-      "added_at": "2025-09-02 02:25:26",
-      "album": {
-        "name": "Ada Yang Punya",
-        "url": "https://open.spotify.com/album/1KbX92WGlqW6jqozBnC0Y3"
-      },
-      "artists": [
-        {
-          "name": "Lesti",
-          "url": "https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB"
-        }
-      ],
-      "duration_ms": 243147,
-      "name": "Ada Yang Punya",
-      "url": "https://open.spotify.com/track/3l6pWg1lq08PH5QrlviCJC"
     },
     {
       "added_at": "2025-09-02 02:25:26",

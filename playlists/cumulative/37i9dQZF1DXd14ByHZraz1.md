@@ -2,9 +2,9 @@
 
 ### [mint brasil](https://open.spotify.com/playlist/37i9dQZF1DXd14ByHZraz1)
 
-> Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Alok
+> Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Alok, Gui Boratto, House of EL
 
-254 songs - 13 hr 20 min
+255 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Lost For Days \- Remix](https://open.spotify.com/track/7eUv5Miiq8xSbEKpzI2zJd) | [DJ Valle](https://open.spotify.com/artist/5cYXpZE0nMP9yKot4mb32e) | [Lost For Days \(Remix\)](https://open.spotify.com/album/03kcd2pUOAq7BFD6l54akK) | 2:35 | 2021-12-24 | 2022-03-05 |
 | [Lost Generation \- Edit](https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz), [Bulgarian Voices Angelite](https://open.spotify.com/artist/6OxyG688AdDLBKo5yrJXU9), [Huun\-Huur\-Tu](https://open.spotify.com/artist/1bK0K2tuAcvMScEWIHt54t) | [Lost Generation](https://open.spotify.com/album/2s9p73FuCiqa0XBz3jtevC) | 2:43 | 2022-11-25 | 2024-03-09 |
 | [Love Goes](https://open.spotify.com/track/3uAFwegcb4Vavx5BNgzXT9) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [Jae Walters](https://open.spotify.com/artist/2kAm3LwfVyqbufmusOcanD) | [Love Goes](https://open.spotify.com/album/3vGHDvBv1PAtzQCnD00eAO) | 3:21 | 2023-01-20 | 2024-04-06 |
+| [Love Will Find A Way \(feat\. House Of EL\)](https://open.spotify.com/track/6q7KKrYjnABZILCeWTcAZ7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc), [House of EL](https://open.spotify.com/artist/0UMMEX2H03BK9oleRvjHos) | [Love Will Find A Way \(feat\. House Of EL\)](https://open.spotify.com/album/0rTkYNKnXBhHyzTNhW9VHw) | 3:02 | 2025-09-19 |  |
 | [Machine](https://open.spotify.com/track/4qHCsEA7EtRKUQVf00tybz) | [Riro](https://open.spotify.com/artist/4NqnlCPDCBgLdVOY8lDark) | [Human Experience](https://open.spotify.com/album/4Gv0T3z8IBCxGaohWJvoBf) | 2:55 | 2024-12-20 |  |
 | [Mad Max](https://open.spotify.com/track/3WOK3bugvtrDkh04XKUPEq) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh) | [Echoes of a Decade](https://open.spotify.com/album/5hbjXY9vfqoNptQKw64FzE) | 2:37 | 2024-10-04 | 2025-05-16 |
 | [Mahaba](https://open.spotify.com/track/76QYDYnFoaUBkkk4gei84D) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Mahaba](https://open.spotify.com/album/3XlArIGlspDya8mQlmYTAL) | 3:43 | 2025-08-22 |  |
@@ -171,7 +172,7 @@
 | [My Body \(feat\. Y&M\)](https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Y&M](https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q) | [My Body \(feat\. Y&M\)](https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL) | 2:40 | 2024-03-08 | 2025-01-24 |
 | [My Mind](https://open.spotify.com/track/0KWLQWjOKpyCziaEpb1nbi) | [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB), [Avsten](https://open.spotify.com/artist/3Q7ITfAujief9tMSciw9rq) | [My Mind](https://open.spotify.com/album/1kY5pJbnsqMO1rN8DTdOhI) | 3:44 | 2024-04-05 |  |
 | [My Neck, My Back](https://open.spotify.com/track/37zAxyf8mkOLjNBIMFZQUd) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Reezer](https://open.spotify.com/artist/0A0qH0k5vzwUrAAjcxZsN0) | [My Neck, My Back](https://open.spotify.com/album/5GW2S5DnOKOVUkgvhK2aHr) | 3:06 | 2023-04-28 | 2024-04-26 |
-| [Nebula](https://open.spotify.com/track/2QBIMr3RAUr6OxoOIHM4r5) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [Nebula](https://open.spotify.com/album/0ZxA2UfY6QLTnOtH3rExch) | 3:15 | 2024-07-05 |  |
+| [Nebula](https://open.spotify.com/track/2QBIMr3RAUr6OxoOIHM4r5) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [Nebula](https://open.spotify.com/album/0ZxA2UfY6QLTnOtH3rExch) | 3:15 | 2024-07-05 | 2025-09-19 |
 | [Never](https://open.spotify.com/track/7koAfgOQuAnfqDoTdpWMYe) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Never](https://open.spotify.com/album/7IAYlv5CQlfuU9dhETcshh) | 3:25 | 2021-12-24 | 2023-03-11 |
 | [Never Let Me Go](https://open.spotify.com/track/3CEXfu2rSEzUSGB9zFUoZz) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Never Let Me Go](https://open.spotify.com/album/75SuSwl4W3d0T8HpUFeM4p) | 3:25 | 2021-12-24 | 2024-01-20 |
 | [Next to Me \- Vintage Culture Remix](https://open.spotify.com/track/2bidvM5hM1LGiEDkgp0EUz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Next to Me \(Remixes\)](https://open.spotify.com/album/1ZzxjxcYWxEStGTGPNHsG9) | 6:22 | 2021-12-24 | 2023-07-22 |

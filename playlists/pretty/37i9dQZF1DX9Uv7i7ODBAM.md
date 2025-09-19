@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain]
 
 > Enjoy music from "My Hero Academia"! ©堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,886 likes - 84 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,958 likes - 84 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain]
 | 83 | [Chris takes the world by storm](https://open.spotify.com/track/30sI2fCouCG9RMnDicqpqj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [CC鳴羽田漢気応援団](https://open.spotify.com/artist/1j2RJIb2DyBKbssxMjyqUl) | [Chris takes the world by storm](https://open.spotify.com/album/2bTnTBLJbXFHcjykhk8Bcr) | 1:25 |
 | 84 | [マルカネ百貨店のうた](https://open.spotify.com/track/5kDKh8yFSyrgdw0HrAz2NW) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [マルカネキッズ](https://open.spotify.com/artist/1KuRBxi1hTfuWnbx6I0NpL) | [マルカネ百貨店のうた](https://open.spotify.com/album/2wHkMOVhhbwgJDfQhBv8qu) | 0:47 |
 
-Snapshot ID: `AAAAAP8RGGV9cYVmDvJekY7toHEZ9bQQ`
+Snapshot ID: `AAAAANOIQ0xtJCUzEOspHzAez83p1Euv`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Peppa Pig
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,819 likes - 177 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,941 likes - 177 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,7 +152,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 142 | [Dynamic Duo](https://open.spotify.com/track/4Pc04sqvxFDrUcwuuiPxPL) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [More Doll Adventures](https://open.spotify.com/album/0NxSc7HKJiDIzCoFiuemcS) | 1:03 |
 | 143 | [I Can Feel Joy](https://open.spotify.com/track/5RrDhsJ8HAfDVZvXeRSJuD) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Barney's World, Vol\. 3](https://open.spotify.com/album/11iiNrm2C4LAZbE1SbXpAQ) | 1:59 |
 | 144 | [No, No, Toothbrushing!](https://open.spotify.com/track/3YiH9ewhL9Ng9qn3f2ck9F) | [Bebefinn](https://open.spotify.com/artist/0HOIrKyqmmjsxXIhuIx1Q3), [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Bebefinn 3 \(Pt\. 4\)](https://open.spotify.com/album/0qOBsUHkXvhc3ItYQArVcx) | 2:49 |
-| 145 | [If You're Happy And You Know It](https://open.spotify.com/track/6OnsX1WJJujgH6SuLYRUC7) | [Plim Plim Kids Songs](https://open.spotify.com/artist/5oHgABNbvhNBr8p6Z5y1Wl) | [Nursery Rhyme Classics & Kids Songs by Plim Plim Vol\. 1](https://open.spotify.com/album/78BLQHrNVloEE7tudjqxuP) | 1:41 |
+| 145 | [If You're Happy And You Know It](https://open.spotify.com/track/6OnsX1WJJujgH6SuLYRUC7) | [Plim Plim Kids Songs](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [Nursery Rhyme Classics & Kids Songs by Plim Plim Vol\. 1](https://open.spotify.com/album/78BLQHrNVloEE7tudjqxuP) | 1:41 |
 | 146 | [There's a Little Wheel a\-Turning in My Heart](https://open.spotify.com/track/5LxiImAnb0VfGJFxXrU2BJ) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Classic Songs and Rhymes for Kids](https://open.spotify.com/album/6DeW2OaIG0POb5ZaPlNr4U) | 2:55 |
 | 147 | [Take Time](https://open.spotify.com/track/66fNlMGZDiMzCYZZKv6i4o) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Take Time](https://open.spotify.com/album/1DjV8qs8OTFztjGa8fWGFi) | 3:45 |
 | 148 | [Sugar Shack \- Sweet Memories](https://open.spotify.com/track/2b8FP82vruDAHHyYQwI1Hn) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Sugar Shack \(Sweet Memories\)](https://open.spotify.com/album/1kOlGKBDLyTt9L4YCypzI7) | 1:24 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Bad Omens",
+  "description": "The UK's biggest rock playlist. Cover: NewDad",
   "name": "The Rock List",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 250268,
       "name": "3AM",
       "url": "https://open.spotify.com/track/4luxOEfutsNhpklD0kox93"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 240282,
       "name": "All The Rage",
       "url": "https://open.spotify.com/track/7j3wkOWJzTylQrZ85CsaPf"
@@ -1696,6 +1696,24 @@
       "duration_ms": 186866,
       "name": "Aunque duela",
       "url": "https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB"
+    },
+    {
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/6uBBKFcKNdrq0fUw0T7Eny"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Cramp",
+          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151733,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/3UMbZWBBN0CSjPHqgaQItA"
     },
     {
       "album": {
@@ -3138,6 +3156,24 @@
       "duration_ms": 240630,
       "name": "BUTCHER'S BIN",
       "url": "https://open.spotify.com/track/0fRtRBeaVneVSDFAZ7yIiK"
+    },
+    {
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/69DJ3dd7CZtfaKToG3DXd5"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189163,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF"
     },
     {
       "album": {
@@ -4681,6 +4717,24 @@
     },
     {
       "album": {
+        "name": "Disappear",
+        "url": "https://open.spotify.com/album/2E2M2jt9rsdOMycC5hOaV9"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231285,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/09ofXA1JKT4UhRDIhRkOpE"
+    },
+    {
+      "album": {
         "name": "Disappearing Man",
         "url": "https://open.spotify.com/album/3vEwCqXxIaMN2bF4jnvw8b"
       },
@@ -6128,7 +6182,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 127211,
       "name": "Flowers & Dirt",
       "url": "https://open.spotify.com/track/0mnUcuIMHiKQyHkkNNeKRr"
@@ -7006,6 +7060,24 @@
       "duration_ms": 152133,
       "name": "GODDESS",
       "url": "https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In"
+    },
+    {
+      "album": {
+        "name": "GODSPEED",
+        "url": "https://open.spotify.com/album/4cSCHQrw9w1LwC7XdmEM1y"
+      },
+      "artists": [
+        {
+          "name": "These New South Whales",
+          "url": "https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233853,
+      "name": "GODSPEED",
+      "url": "https://open.spotify.com/track/0pexddeI1EA8AhqWTBlErK"
     },
     {
       "album": {
@@ -8280,7 +8352,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 248523,
       "name": "Hype Man",
       "url": "https://open.spotify.com/track/4eTN4kEeexKdkAE804WJfv"
@@ -9604,6 +9676,24 @@
       "duration_ms": 243522,
       "name": "Keep Sweet",
       "url": "https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m"
+    },
+    {
+      "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/1KB94XkuiG4b4Az6LiRXpt"
+      },
+      "artists": [
+        {
+          "name": "White Lies",
+          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216026,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/5qtGhBulxtsFRHmikMhBHe"
     },
     {
       "album": {
@@ -10938,7 +11028,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 204475,
       "name": "mangetout",
       "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
@@ -11403,6 +11493,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218335,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im"
+    },
+    {
+      "album": {
         "name": "From Hell to Here",
         "url": "https://open.spotify.com/album/0fESCRLAS064Q9a5blaLQ6"
       },
@@ -11857,6 +11965,28 @@
     },
     {
       "album": {
+        "name": "My Only Angel",
+        "url": "https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255818,
+      "name": "My Only Angel",
+      "url": "https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd"
+    },
+    {
+      "album": {
         "name": "METAL FORTH",
         "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
       },
@@ -12038,6 +12168,24 @@
       "duration_ms": 184186,
       "name": "Never Said Goodbye - Single Version",
       "url": "https://open.spotify.com/track/0t2SrDrlQLS1WxjwRTp7aT"
+    },
+    {
+      "album": {
+        "name": "NEW AGE",
+        "url": "https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03"
+      },
+      "artists": [
+        {
+          "name": "sleepazoid",
+          "url": "https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212497,
+      "name": "NEW AGE",
+      "url": "https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9"
     },
     {
       "album": {
@@ -12456,7 +12604,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 194672,
       "name": "Nothing Changes",
       "url": "https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN"
@@ -12672,7 +12820,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 193166,
       "name": "Oh No!",
       "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
@@ -13641,6 +13789,24 @@
     },
     {
       "album": {
+        "name": "Picking Wings Off A Butterfly",
+        "url": "https://open.spotify.com/album/04F2as0wwQtozaLofdgrDg"
+      },
+      "artists": [
+        {
+          "name": "Mouth Culture",
+          "url": "https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218891,
+      "name": "Picking Wings Off A Butterfly",
+      "url": "https://open.spotify.com/track/1DgL71LQA2PI11bxx8jsxu"
+    },
+    {
+      "album": {
         "name": "Piggie",
         "url": "https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm"
       },
@@ -13984,6 +14150,24 @@
       "duration_ms": 195595,
       "name": "Power Trip",
       "url": "https://open.spotify.com/track/4YKtcfUPgEU7TEIA9HqrCo"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191531,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB"
     },
     {
       "album": {
@@ -14536,7 +14720,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 182545,
       "name": "Regret 101",
       "url": "https://open.spotify.com/track/7LTWdBRVymyvHO19q36mzX"
@@ -18407,6 +18591,24 @@
     },
     {
       "album": {
+        "name": "Tracing Lines",
+        "url": "https://open.spotify.com/album/7EdSp9CD44UYEzHTbWiWBD"
+      },
+      "artists": [
+        {
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246078,
+      "name": "Tracing Lines",
+      "url": "https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL"
+    },
+    {
+      "album": {
         "name": "Cream",
         "url": "https://open.spotify.com/album/2QhlzKJweHYmtFZByf51qc"
       },
@@ -18746,7 +18948,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 238002,
       "name": "Unravelling",
       "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
@@ -18818,7 +19020,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 183223,
       "name": "Up From the Bottom",
       "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
@@ -20424,7 +20626,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 246946,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"

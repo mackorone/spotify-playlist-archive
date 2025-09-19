@@ -1,6 +1,6 @@
 {
   "description": "Get ready to sing your hearts out with these family friendly road trip classics.",
-  "num_followers": 731592,
+  "num_followers": 731634,
   "original_name": "Family Road Trip",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAPR2dw5iOeqGvfMGjW2mIXIXcSkw",
   "tracks": [
-    {
-      "added_at": "2024-05-29 18:39:32",
-      "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
-    },
     {
       "added_at": "2024-05-29 18:39:32",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2024-05-29 18:39:32",
+      "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
     },
     {
       "added_at": "2024-05-29 18:39:32",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-05-29 18:39:32",
       "album": {
-        "name": "Working Class Dog",
-        "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
-      },
-      "artists": [
-        {
-          "name": "Rick Springfield",
-          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
-        }
-      ],
-      "duration_ms": 194120,
-      "name": "Jessie's Girl",
-      "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
-    },
-    {
-      "added_at": "2024-05-29 18:39:32",
-      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2024-05-29 18:39:32",
       "album": {
-        "name": "Sunshine on Leith",
-        "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
+        "name": "Working Class Dog",
+        "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
       },
       "artists": [
         {
-          "name": "The Proclaimers",
-          "url": "https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i"
+          "name": "Rick Springfield",
+          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
         }
       ],
-      "duration_ms": 219466,
-      "name": "I'm Gonna Be (500 Miles)",
-      "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
+      "duration_ms": 194120,
+      "name": "Jessie's Girl",
+      "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
     },
     {
       "added_at": "2024-05-29 18:39:32",
@@ -491,6 +475,22 @@
       "duration_ms": 248906,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
+    },
+    {
+      "added_at": "2024-05-29 18:39:32",
+      "album": {
+        "name": "Sunshine on Leith",
+        "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
+      },
+      "artists": [
+        {
+          "name": "The Proclaimers",
+          "url": "https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "I'm Gonna Be (500 Miles)",
+      "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
     },
     {
       "added_at": "2024-05-29 18:39:32",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-05-29 18:39:32",
       "album": {
+        "name": "...Somewhere More Familiar",
+        "url": "https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ"
+      },
+      "artists": [
+        {
+          "name": "Sister Hazel",
+          "url": "https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe"
+    },
+    {
+      "added_at": "2024-05-29 18:39:32",
+      "album": {
         "name": "The Best Of Don McLean",
         "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 193093,
       "name": "Thank God I'm a Country Boy",
       "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
-    },
-    {
-      "added_at": "2024-05-29 18:39:32",
-      "album": {
-        "name": "...Somewhere More Familiar",
-        "url": "https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ"
-      },
-      "artists": [
-        {
-          "name": "Sister Hazel",
-          "url": "https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe"
     },
     {
       "added_at": "2024-05-29 18:39:32",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-05-29 18:39:32",
       "album": {
-        "name": "The Breakfast Club",
-        "url": "https://open.spotify.com/album/2yrEJ5xNvTdEEFuTtcku9M"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "Don't You (Forget About Me)",
-      "url": "https://open.spotify.com/track/6yEAAIEHu4GcUFptg5W9kI"
-    },
-    {
-      "added_at": "2024-05-29 18:39:32",
-      "album": {
         "name": "Sheryl Crow",
         "url": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 256000,
       "name": "Everyday Is A Winding Road",
       "url": "https://open.spotify.com/track/0t6DAi9KEiaWOtgTTXGhD2"
+    },
+    {
+      "added_at": "2024-05-29 18:39:32",
+      "album": {
+        "name": "The Breakfast Club",
+        "url": "https://open.spotify.com/album/2yrEJ5xNvTdEEFuTtcku9M"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/6yEAAIEHu4GcUFptg5W9kI"
     },
     {
       "added_at": "2024-05-29 18:39:32",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAAB3FXNYL5GS0wftjXYPCk+O",
+  "snapshot_id": "aMn6AAAAAACWGECPif9oxbrStFkdOw2S",
   "tracks": [
     {
       "added_at": null,
@@ -422,11 +422,15 @@
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 160429,
-      "name": "say no more",
-      "url": "https://open.spotify.com/track/6b6KwJ5Ig1SmOKM9cD3Bem"
+      "duration_ms": 143557,
+      "name": "again",
+      "url": "https://open.spotify.com/track/0mdmPFVl91blHPZGEFjG64"
     },
     {
       "added_at": null,
@@ -494,15 +498,11 @@
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 143557,
-      "name": "again",
-      "url": "https://open.spotify.com/track/0mdmPFVl91blHPZGEFjG64"
+      "duration_ms": 160429,
+      "name": "say no more",
+      "url": "https://open.spotify.com/track/6b6KwJ5Ig1SmOKM9cD3Bem"
     },
     {
       "added_at": null,

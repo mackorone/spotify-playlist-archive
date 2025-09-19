@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 ### [Türkçe Rock](https://open.spotify.com/playlist/37i9dQZF1DX3RfxtU3KC3j)
 
-> Gitar ve davulu konuşturanlar\. 🎸 Kapak: Dolu Kadehi Ters Tut
+> Gitar ve davulu konuşturanlar\. 🎸 Kapak: Batu Akdeniz
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,953 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,924 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 74 | [Gidin](https://open.spotify.com/track/4RNuCCsvfGF03sfmboHwlT) | [Peyk](https://open.spotify.com/artist/6gPaETmwMTVwGdrd5eIiog) | [Suluşaka](https://open.spotify.com/album/1w0yVuxBLrepX4dhR3ArpP) | 3:15 |
 | 75 | [Mayın Tarlası](https://open.spotify.com/track/3r4JGqyBhcIpOKRQLYjD5C) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kelimeler Yetse](https://open.spotify.com/album/3ELwjLdlTIbBH401F0j7kR) | 5:23 |
 
-Snapshot ID: `AAAAALpAE5rAAi8g/D3qFAbyB7MOaiip`
+Snapshot ID: `AAAAANE0Ne1VTFm9u2eJPYjHnU4ZyCDI`

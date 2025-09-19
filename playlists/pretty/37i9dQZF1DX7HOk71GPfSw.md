@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > just got chilly 🥶🥶🥶🥶🥶🥶🥶
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,392 likes - 200 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,552 likes - 200 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 61 | [Calcify](https://open.spotify.com/track/6qMtpq3cRmI4nLsFu2gBu9) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Calcify](https://open.spotify.com/album/3i5ZuC8nvLIzAhbyEaUl03) | 2:24 |
 | 62 | [Angel Music \- dj g2g & Vrod Beatz Remix](https://open.spotify.com/track/6okxoNBAQhpR8WsnWBenCv) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye), [Vrod Beatz](https://open.spotify.com/artist/2I7iWS6LSrOMrWWvh45Qmv), [dj g2g](https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL) | [Angel Music Remixes](https://open.spotify.com/album/5rqjaBZpmpN9I8aCrwGKH4) | 3:21 |
 | 63 | [Hard Refresh](https://open.spotify.com/track/0RJbtBExI8If2wURyvbnQl) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Hard Refresh](https://open.spotify.com/album/55tdckUQly6YmPJBPwiFCi) | 3:52 |
-| 64 | [Joker](https://open.spotify.com/track/6FmaQ1FesE0j6Au0Kh9LOb) | [Joon Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Joker](https://open.spotify.com/album/6vndf1r9x2NuLwgo5ItjdG) | 3:21 |
+| 64 | [Joker](https://open.spotify.com/track/6FmaQ1FesE0j6Au0Kh9LOb) | [Ms\* Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Joker](https://open.spotify.com/album/6vndf1r9x2NuLwgo5ItjdG) | 3:21 |
 | 65 | [Light](https://open.spotify.com/track/7qd0MUlZqe5tc4kGH1DHhR) | [Ryan Leahan](https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg) | [Light](https://open.spotify.com/album/0jy5qYknh6HPp9eV29OEN5) | 3:07 |
 | 66 | [Spencer Needs A Ladder](https://open.spotify.com/track/51T76WhQ9wtp8DsZZx0hjg) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Spencer Needs A Ladder](https://open.spotify.com/album/2NzfmCURODIHigaOhXhwEr) | 3:29 |
 | 67 | [BURST <3](https://open.spotify.com/track/0BVok2Uwo0mFcXb4AK8udy) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [BURST <3](https://open.spotify.com/album/1fYqSbROUNRZPKBWj8ZiE8) | 1:58 |

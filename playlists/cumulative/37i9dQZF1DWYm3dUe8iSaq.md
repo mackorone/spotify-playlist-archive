@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-376 songs - 22 hr 3 min
+377 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [A Rock](https://open.spotify.com/track/7bTfKo4Uz6ZDdDAu8s5hUm) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr) | [A Rock](https://open.spotify.com/album/6Jrv2HApm3RAjDjlMnOqD9) | 3:18 | 2022-04-08 | 2024-07-12 |
 | [Absence](https://open.spotify.com/track/1oXNjzF8RrQdo8hxqdKMhK) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Absence](https://open.spotify.com/album/2oFNbvHPWWaEIAzYJliGfW) | 2:56 | 2022-04-08 | 2024-02-12 |
 | [After Hours](https://open.spotify.com/track/3cPWXpjXPPW8LIs27Bxv5c) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [After Hours](https://open.spotify.com/album/6OyLz1K6f82RCgcbsQ6jwv) | 3:12 | 2024-07-19 | 2024-10-30 |
-| [Alabaster](https://open.spotify.com/track/7LqMpswiEeZAnqNTkcLiGY) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Alabaster](https://open.spotify.com/album/3Dplc4wrcPMcKtGMMDfEAs) | 4:15 | 2025-09-11 |  |
+| [Alabaster](https://open.spotify.com/track/7LqMpswiEeZAnqNTkcLiGY) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Alabaster](https://open.spotify.com/album/3Dplc4wrcPMcKtGMMDfEAs) | 4:15 | 2025-09-11 | 2025-09-19 |
 | [Alive Again](https://open.spotify.com/track/148fQv3KkXtjXPZrc3h6m5) | [Marti West](https://open.spotify.com/artist/6CQ7EYVHudzCArbeXZYV4e) | [Alive Again](https://open.spotify.com/album/2zG6uB7tN0f2TD9NWACGnq) | 2:08 | 2022-07-01 | 2022-08-15 |
 | [Alive Again](https://open.spotify.com/track/1ZtSmb2seJ5DbHTIC5kCHP) | [Marti West](https://open.spotify.com/artist/6CQ7EYVHudzCArbeXZYV4e) | [Alive Again](https://open.spotify.com/album/0ZVgEQTyxyVHz2OVdnFJSk) | 2:08 | 2022-04-08 | 2022-07-29 |
 | [Alive Again](https://open.spotify.com/track/6lHampBGU7RjwJ5Eb7AGou) | [Marti West](https://open.spotify.com/artist/6CQ7EYVHudzCArbeXZYV4e) | [The Way Back Home](https://open.spotify.com/album/1JGTdkOpyxYH1hsqZ2z7yR) | 2:08 | 2023-01-13 | 2023-07-01 |
@@ -31,6 +31,7 @@
 | [Alpine Green](https://open.spotify.com/track/1xsPUCsAv5Z7nngtLN5iqD) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Alpine Green](https://open.spotify.com/album/2pvUSmFKGwaPPtN4kEhymT) | 2:30 | 2022-07-01 | 2022-08-17 |
 | [Alpine Green](https://open.spotify.com/track/5ViF51pwzCt6zGHNVYEPJr) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Still](https://open.spotify.com/album/2ZazqwsVLTRPltQMgje6Mc) | 2:30 | 2022-10-07 | 2022-11-13 |
 | [Alpine Green](https://open.spotify.com/track/5eBrtJj35okckUbYP78X14) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Alpine Green](https://open.spotify.com/album/0nocoG26Snubuxek095d2y) | 2:30 | 2022-07-01 | 2024-04-19 |
+| [Always Almost Losing You](https://open.spotify.com/track/0MyZNBpfBQ6tMIT5o8DviW) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Always Almost Losing You](https://open.spotify.com/album/3QK8NXU2hlevgUC5Qyv76n) | 2:55 | 2025-09-11 |  |
 | [Another Day](https://open.spotify.com/track/4rlXhOtWRzGhxjgr9FRKF0) | [Ben Stafford](https://open.spotify.com/artist/3pWZ3BMPDAaoNd1DciVMyd) | [Beudy Penlan](https://open.spotify.com/album/1RA5ryginKxtFUqkFfaNT2) | 2:58 | 2022-04-08 | 2024-06-08 |
 | [apocalypse](https://open.spotify.com/track/4kZE6pMgi6rzyxgjVF9Usx) | [Virens](https://open.spotify.com/artist/5tCrFsPMoJ91yC4tnzKmTW) | [apocalypse](https://open.spotify.com/album/4ykIzkOUqdl7RGOssVVgK2) | 2:52 | 2024-04-29 | 2024-06-08 |
 | [Aquarium Kisses](https://open.spotify.com/track/0Bp2D0RD5GF83GRh1iMbav) | [Rachel Sermanni](https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk) | [Aquarium Kisses](https://open.spotify.com/album/2GTlATmh5ktYJyi3NM1Fs9) | 3:42 | 2022-05-20 | 2023-05-20 |

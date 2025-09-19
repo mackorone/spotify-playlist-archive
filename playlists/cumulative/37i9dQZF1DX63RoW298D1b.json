@@ -322,7 +322,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 162980,
       "name": "Authentic",
       "url": "https://open.spotify.com/track/79WuHtIUNcbSeDmKrUQKas"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 126423,
       "name": "Deferment",
       "url": "https://open.spotify.com/track/0ibKzzyo527y98eTHe7Ktg"
@@ -2495,6 +2495,24 @@
     },
     {
       "album": {
+        "name": "Nightshade Galaxy",
+        "url": "https://open.spotify.com/album/1wthHxGAWdBxO4XgKP8Le0"
+      },
+      "artists": [
+        {
+          "name": "Blauberg Calm",
+          "url": "https://open.spotify.com/artist/78Z2LNd3NigoMoYVYBSi8P"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128250,
+      "name": "Nightshade Galaxy",
+      "url": "https://open.spotify.com/track/27ByWR4rUApJ5wgclxMLNx"
+    },
+    {
+      "album": {
         "name": "Notturno",
         "url": "https://open.spotify.com/album/5sTu5u2ARluSip9mOYGXBc"
       },
@@ -2546,6 +2564,24 @@
       "duration_ms": 132366,
       "name": "Now The Leaves Are Falling",
       "url": "https://open.spotify.com/track/04BbfF1OmlQYySiRkosklB"
+    },
+    {
+      "album": {
+        "name": "Old Love Letters",
+        "url": "https://open.spotify.com/album/1prkPC6ctTBlDKcQ6zUplq"
+      },
+      "artists": [
+        {
+          "name": "Yasuo Zen",
+          "url": "https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167286,
+      "name": "Old Love Letters",
+      "url": "https://open.spotify.com/track/2mhP5eGS9TMJ1m29xzP7F6"
     },
     {
       "album": {

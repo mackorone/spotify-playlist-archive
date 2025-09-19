@@ -2,7 +2,7 @@
 
 ### [hIndies](https://open.spotify.com/playlist/37i9dQZF1DWXSzFkaLsPkN)
 
-> Hindi hai, Indie hai! Cover\- Madhur Sharma & Aanchal Tyagi
+> Hindi hai, Indie hai! Cover\- Taba Chake
 
 288 songs - 15 hr 49 min
 

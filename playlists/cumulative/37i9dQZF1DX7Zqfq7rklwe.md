@@ -2,9 +2,9 @@
 
 ### [VOLUME SUOMI](https://open.spotify.com/playlist/37i9dQZF1DX7Zqfq7rklwe)
 
-> Suomen suurin ja paras rock\-soittolista\. 🦇
+> Suomen suurin ja paras rock\-soittolista\. Kannessa Aerosmith ja YUNGBLUD.
 
-293 songs - 18 hr 57 min
+298 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,10 +70,13 @@
 | [Dark Ocean Summoning](https://open.spotify.com/track/1jU7R8VlbsEaSK7i0BQwiz) | [Old Gods of Asgard](https://open.spotify.com/artist/4BMtxSIHPpG1WM2TbvNjiR) | [Rebirth \- Greatest Hits \(Music from the Games 'Alan Wake' 1 & 2 and 'Control'\)](https://open.spotify.com/album/0LZhC50aIf7O233yj7IH4Z) | 6:43 | 2024-09-11 | 2025-02-07 |
 | [Darkness Always Wins](https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Darkness Always Wins](https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr) | 4:50 | 2025-04-24 |  |
 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 | 2024-09-11 | 2025-02-07 |
+| [Dead End](https://open.spotify.com/track/1qYto5saFz03lgET0Kcb8W) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Dead End](https://open.spotify.com/album/07jg0qHyZftzBT2bClnwTs) | 3:35 | 2025-09-18 |  |
 | [Dead Or Alive](https://open.spotify.com/track/122jYbqBkC5X3TO7AKpFgo) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Dead Or Alive](https://open.spotify.com/album/1XI9tZmvcoof83ZShzUwTL) | 3:43 | 2024-11-14 | 2025-01-17 |
 | [Dead People Scare Me \(But The Living Make Me Sick\)](https://open.spotify.com/track/6VcbQTlKbE4bt85Rx6qXnV) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [Dead People Scare Me \(But The Living Make Me Sick\)](https://open.spotify.com/album/5KDDpUroWEDc7HXH0Dqouc) | 3:32 | 2025-05-22 |  |
+| [Deathress](https://open.spotify.com/track/4JiNrMWIH2JeAuMIjPlno5) | [LAB](https://open.spotify.com/artist/6sOJPvWOPUqhAoVwV4G6Uk) | [Deathress](https://open.spotify.com/album/7gk9kfF1h653TA18Blj9kz) | 3:51 | 2025-09-18 |  |
 | [Demonic Depression](https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [God Of Angels Trust](https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC) | 3:58 | 2025-06-05 | 2025-06-13 |
 | [Destroy Me](https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Destroy Me](https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc) | 2:42 | 2025-09-04 |  |
+| [Destroyer](https://open.spotify.com/track/6ePdqFGSVyz9R3lhZZoEOY) | [Sweatmaster](https://open.spotify.com/artist/2GhrB6KvD9FsgG81kMsD89) | [Destroyer](https://open.spotify.com/album/0N2E5NQfkVbF3op9XQkvx7) | 2:38 | 2025-09-18 |  |
 | [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 | 2024-09-11 | 2024-12-20 |
 | [Devilry of Ecstasy](https://open.spotify.com/track/719WQ11ocVYYq2Hd2FKcgJ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Devilry of Ecstasy](https://open.spotify.com/album/0I8tTyfyVf3DHw9xHu5zym) | 3:26 | 2024-09-11 | 2025-01-10 |
 | [Die By The Blade](https://open.spotify.com/track/53h1ZSLWi8hVWF9DWKNXVh) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:14 | 2025-02-13 | 2025-05-02 |
@@ -113,6 +116,7 @@
 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2024-09-11 | 2025-01-10 |
 | [Haluaako Piepponen turpaan?](https://open.spotify.com/track/08jQ1OPwy0gJ6VrlWRPKH9) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Haluaako Piepponen turpaan?](https://open.spotify.com/album/3va93w0LhqBOsmUUKmxmSg) | 3:32 | 2024-10-24 | 2025-01-24 |
 | [Haluamanilainen, mietin sua pahalla \- Emma Gaala 2025 Live](https://open.spotify.com/track/6GdsfRTm1mjLgyCP5Qd653) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Haluamanilainen, mietin sua pahalla \(Emma Gaala 2025 Live\)](https://open.spotify.com/album/2QXiRw2Y032iqIuXDyaFOo) | 5:22 | 2025-04-13 |  |
+| [Hanging On To Thunder \(feat\. Stand Atlantic\)](https://open.spotify.com/track/2qI6Cwnkf2R4iGjwiFvAkR) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [](https://open.spotify.com/album/null) | 3:04 | 2025-09-18 |  |
 | [Hearts Burst into Fire](https://open.spotify.com/track/6DsILuMLGYN6QqPXlhGHWo) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Scream Aim Fire](https://open.spotify.com/album/2mGohCvbL3klQgXyTj7uNB) | 4:57 | 2024-09-11 | 2024-09-13 |
 | [Heaven's On Fire](https://open.spotify.com/track/1brpdmqkx3kSxyqzqXfW7J) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 3:21 | 2025-03-18 | 2025-06-20 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 | 2025-03-28 |
@@ -175,6 +179,7 @@
 | [Monsters](https://open.spotify.com/track/747GeWvELWeEc7VFFIo7eJ) | [Fear Of Domination](https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq) | [Monsters](https://open.spotify.com/album/4Yo4Cc6YbANSJjb6BEb87g) | 4:22 | 2024-09-11 | 2025-06-27 |
 | [Musta valo](https://open.spotify.com/track/0tmxdDHthPCpoF881Hu3Zy) | [Timo Rautiainen & Trio Niskalaukaus](https://open.spotify.com/artist/6sJ8TvVdY3NLFxtG4TESzC) | [Tuomiojärvi](https://open.spotify.com/album/2bOL9UxiD5EoRkmc3ulkfo) | 3:50 | 2025-09-11 |  |
 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 | 2025-07-10 | 2025-07-18 |
+| [My Only Angel](https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [My Only Angel](https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f) | 4:15 | 2025-09-18 |  |
 | [Neon Noir](https://open.spotify.com/track/4jW6TlrmCQUGnNcbEdr8Ui) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Neon Noir](https://open.spotify.com/album/1F9QDVhcJCUz0BHcjdmqvX) | 4:56 | 2024-09-11 | 2024-12-13 |
 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 | 2024-09-11 | 2025-01-17 |
 | [No Loss, No Love](https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [No Loss, No Love](https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K) | 2:56 | 2025-02-06 | 2025-02-28 |

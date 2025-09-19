@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: I Talk Too Much When I'm Drunk
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Briellebeth
 
-152 songs - 9 hr 10 min
+156 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,8 @@
 | [Apa Kabar](https://open.spotify.com/track/57AzzQHGqd9QO0eBCzfq0W) | [Radhini](https://open.spotify.com/artist/7KwNYf1K0Qt3sV7DtVHWcU) | [Apa Kabar](https://open.spotify.com/album/3tQx2RPsvOKCJ02ETZ3hR9) | 3:11 | 2025-01-23 |  |
 | [Baby \(Let Me Go\)](https://open.spotify.com/track/1SHu7U29GaqDQscph7k8Ha) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Latinka](https://open.spotify.com/artist/6ns8FM7VeO27uESowfbvx2), [Nael Larumunde](https://open.spotify.com/artist/4A5EugnDijRnEMmNYqpntT), [Niel Larumunde](https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O) | [Baby \(Let Me Go\)](https://open.spotify.com/album/3TqYCWuv8yVfBwzDE0xJ0H) | 4:08 | 2025-02-14 | 2025-08-01 |
 | [Baby July](https://open.spotify.com/track/10Yqzw7epmxfTzbZ03p1zX) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Baby July](https://open.spotify.com/album/3rrJ11EUeMVmCB7UkHOe3y) | 3:19 | 2025-07-31 |  |
+| [Back 2 You](https://open.spotify.com/track/5io7Qe2zh7px5elpRJk5oC) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Back 2 You](https://open.spotify.com/album/3XR3yBBYAP8Kq5q1Vh6j7p) | 2:37 | 2025-09-18 |  |
+| [BACK 2 YOU](https://open.spotify.com/track/7sFjAaWSZDrUsxSxALlA09) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [](https://open.spotify.com/album/null) | 3:41 | 2025-09-18 |  |
 | [Bagaimana?](https://open.spotify.com/track/7lSoylIrvMa71W7pZLw8kD) | [Soulvibe](https://open.spotify.com/artist/16V8gNCkbY1L1jPd2uEBLg) | [Bagaimana?](https://open.spotify.com/album/5BCij7vEkrydrOYN3EcDoG) | 4:06 | 2024-10-03 | 2025-05-02 |
 | [Bangkit \(Apa Yang Kau Takutkan?\)](https://open.spotify.com/track/5fltq57JdvtjPOz9V13N3a) | [SIVIA](https://open.spotify.com/artist/21PaJ7FN5NCb7BNVA3KTuy) | [Bangkit \(Apa Yang Kau Takutkan?\)](https://open.spotify.com/album/1eNZ8gzpfe4ElR9U9q0iIE) | 4:24 | 2025-04-24 |  |
 | [Be My Love](https://open.spotify.com/track/5a4qqM7xdsHefJBTEzSgVb) | [I Talk Too Much When I'm Drunk](https://open.spotify.com/artist/4EvhAbrKkEcqaztPw5wouv) | [I Love Too Much When I’m Drunk](https://open.spotify.com/album/4T0HuawiX38S7XQoTO7XLZ) | 3:59 | 2025-08-28 |  |
@@ -83,6 +85,7 @@
 | [Ku Tak Bisa](https://open.spotify.com/track/2K9g1BHo6ILnSotpjqEnhd) | [KidQuest](https://open.spotify.com/artist/2lfQ3ZMcgbom8T8iSrtbbb) | [Ku Tak Bisa](https://open.spotify.com/album/0Fto9zAm9zcvIaceOHMFP9) | 2:54 | 2024-12-20 | 2025-07-18 |
 | [LA DA DI](https://open.spotify.com/track/3rGqFXA11MnvgrypxlvHbL) | [Andrea Najla](https://open.spotify.com/artist/2yjgwD4t4KZpeSM782W8YE) | [LA DA DI](https://open.spotify.com/album/3KKGdhGCpBoVBW1VXXvEp5) | 2:34 | 2025-01-09 | 2025-07-18 |
 | [Labuan Hati](https://open.spotify.com/track/0ic1OT8aHvTpDU71X5MXfP) | [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g), [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Labuan Hati](https://open.spotify.com/album/6N8etUnE4H5VTFdAtDAOaU) | 3:56 | 2024-11-21 |  |
+| [Lagi Lagi Lagi](https://open.spotify.com/track/7Fzz5hweenr8sAJFiyckVI) | [Haira](https://open.spotify.com/artist/35U82BI9FvOGL8BW2fa8Db), [Kafin Sulthan](https://open.spotify.com/artist/59etqRZfBHKypG44RjjDCq) | [Lagi Lagi Lagi](https://open.spotify.com/album/2CzW3RNkzaPxuKfTyEMgTP) | 3:51 | 2025-09-18 |  |
 | [Lalala \(This Christmas Day\)](https://open.spotify.com/track/2ouEzLyN5S2aoC5SxP2Wd8) | [Moneva](https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J) | [Lalala \(This Christmas Day\)](https://open.spotify.com/album/2m0EJwBBoTWFXQH474xa9x) | 2:42 | 2024-12-06 | 2025-05-30 |
 | [Light](https://open.spotify.com/track/62LfjQE0DbXdcxTwHP5HaJ) | [Inara](https://open.spotify.com/artist/1qcKOcPdWe0cxQn9ZXCefL), [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Light](https://open.spotify.com/album/3WZjmog0USmx1kp1PmH5Nt) | 3:06 | 2025-06-12 |  |
 | [Like That](https://open.spotify.com/track/1w6FQsV3hhmE4qshMfb5yk) | [Andrea Tanzil](https://open.spotify.com/artist/3YJZTp3m6z2jgFUwe3krO7) | [Like That](https://open.spotify.com/album/2sklL9TXZl2I57onVPgSU1) | 3:20 | 2024-10-03 | 2025-05-30 |
@@ -120,6 +123,7 @@
 | [Romansa](https://open.spotify.com/track/2TgoXlrnoxoAEZxAP9EL2n) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o), [Chrisson](https://open.spotify.com/artist/7yIjh7i3kQp2YqYwkeiX4D) | [Romansa](https://open.spotify.com/album/7gHNnIvBnEjcakYhWX9TaB) | 3:34 | 2024-11-28 |  |
 | [Rumah Kaca](https://open.spotify.com/track/6YlTNiiv6UvfEilEcPLC2h) | [Manutized](https://open.spotify.com/artist/2shs60BW5cYC3a5tobSTdS) | [Rumah Kaca](https://open.spotify.com/album/2hE0QOeElfQgdiNvkVTB2M) | 4:03 | 2024-10-10 | 2025-05-30 |
 | [Rusuk](https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk](https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt) | 4:15 | 2024-10-03 |  |
+| [Safe Spot](https://open.spotify.com/track/50y0uV8SoSDYslBNZTKlhY) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA) | [Safe Spot](https://open.spotify.com/album/55Xq0PeZm8bR3Aimi8xayS) | 3:52 | 2025-09-18 |  |
 | [Sampai Kita Jadi Tua](https://open.spotify.com/track/1NnEN2eunhro9y6BMkcGPj) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Sampai Kita Jadi Tua](https://open.spotify.com/album/1jlvdtwI733LB4iOPyPN5p) | 3:34 | 2024-10-03 | 2025-05-30 |
 | [Satu Hari Tanpa Kita](https://open.spotify.com/track/511lgmyXJ2BApxUU6mKAYd) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Satu Hari Tanpa Kita](https://open.spotify.com/album/0aJ7G5YyWHt2kWG9kOxxKZ) | 4:32 | 2025-07-17 |  |
 | [Satu Mimpiku](https://open.spotify.com/track/2qdaaqZLXjPbJLj6tfQTiN) | [Anjelia Dom](https://open.spotify.com/artist/7AiZ5XZ49xLKToi5dtQ5lJ), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Satu Mimpiku](https://open.spotify.com/album/7zQZXfqafLRyy1XQoqBS3S) | 3:12 | 2025-06-05 |  |

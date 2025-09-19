@@ -4,7 +4,7 @@
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-188 songs - 12 hr 53 min
+189 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Dead Embryonic Cells](https://open.spotify.com/track/3erQAddOalef7tmVpAZ3BV) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 4:52 | 2024-03-25 |  |
 | [Death Race](https://open.spotify.com/track/3s1SB3s9fB5Rb5kPEdEXFl) | [Voltax](https://open.spotify.com/artist/1A5Dt5zgajoli6BFEiL4P2) | [Death Race](https://open.spotify.com/album/6ksG84Pk4DsFnOFzOa2N7S) | 4:10 | 2020-10-24 | 2022-07-06 |
 | [Decadencia](https://open.spotify.com/track/19amI5dP9jlKty6yzIDQd6) | [The Arcane Hate](https://open.spotify.com/artist/2MO4AtDtp33PTj17zFm3yi) | [Decadencia](https://open.spotify.com/album/2tGTIfITV3Ef4FJ7PpKIrD) | 4:21 | 2020-10-24 | 2022-07-13 |
-| [Deceitful Idols](https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz) | [Anima Tempo](https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5) | [Deceitful Idols](https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw) | 5:31 | 2020-10-24 |  |
+| [Deceitful Idols](https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz) | [Anima Tempo](https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5) | [Deceitful Idols](https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw) | 5:31 | 2020-10-24 | 2025-09-19 |
 | [Del 51 AL 25 + La Clinica DE Lo Grotesco](https://open.spotify.com/track/6pz3pSPptoGaiU87heEKmG) | [Thanatology](https://open.spotify.com/artist/75txqStVuE5UPJb2Cmc9Hv) | [Xtreem Mutilation \- Vol.2](https://open.spotify.com/album/0cCB0FLTFklCF5Kn1TkHIM) | 3:22 | 2020-10-24 | 2022-07-06 |
 | [Deseando Destruir y Matar](https://open.spotify.com/track/2zumIZU09Iz2eGRJ5UXHms) | [V8](https://open.spotify.com/artist/2GOgGMMJooNV8Yk2PjvzAa) | [Un Paso Mas en la Batalla](https://open.spotify.com/album/0zHdtlc987CwJR3Pr5TV5z) | 5:16 | 2020-10-24 |  |
 | [Desierto en el Mar](https://open.spotify.com/track/0ZVOkeraSEAuGgZIJ3yTpO) | [Desierto Gris](https://open.spotify.com/artist/5RuvfuEp9GxsTmaZtGSI7C) | [Desierto en el Mar](https://open.spotify.com/album/0ho5eyvtdsNPQYXwQP0SWe) | 4:36 | 2020-10-24 | 2022-07-17 |
@@ -105,6 +105,7 @@
 | [Hoy Podes Pudrirte](https://open.spotify.com/track/4taoA7P7oh1whE2Z4EHJGc) | [Avernal](https://open.spotify.com/artist/0Pk6A0iFcoDjG1w0P1OMU2) | [El Sangriento](https://open.spotify.com/album/614yYarWjW9kGJ7HApmS0Y) | 2:40 | 2020-10-24 | 2024-10-31 |
 | [Hurninki\-sag](https://open.spotify.com/track/7gthjN7FzRmqrYKGdcVtMe) | [Black Hate](https://open.spotify.com/artist/1YK9suOewtPHgPf3DbMbQG) | [Altalith](https://open.spotify.com/album/7vm3mSZ7PFVZPrjBLKVkUw) | 4:32 | 2020-10-24 | 2022-07-18 |
 | [Immanence](https://open.spotify.com/track/6M26Tj2qfh5YfuuPb9s1Ft) | [All Tomorrows](https://open.spotify.com/artist/02zfNolwCUPprPV1hZR7Qo) | [Sol Agnates](https://open.spotify.com/album/3A2Z2mqC7B0vaygu9M0oys) | 4:14 | 2020-10-24 | 2022-07-28 |
+| [Imágenes Paganas](https://open.spotify.com/track/3sbiXFI3AvFQ8lUmtmjMg5) | [DARLOTODO](https://open.spotify.com/artist/4fF4XIT3yf28TCAp6AKkwB), [OConnor](https://open.spotify.com/artist/2fkbcrv0tNgxkzT0wvivRN) | [Imágenes Paganas](https://open.spotify.com/album/374ffAPIAJAlWXwQIP0oxO) | 3:43 | 2025-09-18 |  |
 | [Infiel a Dos Mentiras "Vida"](https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa) | [Kilcrops](https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw) | [Javhe Karma](https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1) | 7:40 | 2020-10-24 |  |
 | [Inmolación](https://open.spotify.com/track/5frhQhZU0yN1lWOfNGw5Sg) | [Éntomos](https://open.spotify.com/artist/4TRb26crZjAkKUQeafr1e1) | [Disidencia](https://open.spotify.com/album/2Ftt0glEcEEnToACWBs24G) | 3:51 | 2020-10-24 | 2022-07-21 |
 | [Inverted Gloaming](https://open.spotify.com/track/1k5ioIagKFk4cRsN7kt8fF) | [Target](https://open.spotify.com/artist/6QJtShEe3N2TDh8PyTfFgo) | [Deep Water Flames](https://open.spotify.com/album/7jumzjqc553LWLSsRwHBwo) | 6:11 | 2020-10-24 | 2022-07-05 |

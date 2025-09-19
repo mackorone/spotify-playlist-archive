@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12391,
+  "num_followers": 12396,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAAAotN1Q0G0L+NDyMwq/n1xQ",
+  "snapshot_id": "aMn6AAAAAACRXR3eoGrHG+9O86FyNJIY",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wings",
-        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 153142,
-      "name": "cloud 11",
-      "url": "https://open.spotify.com/track/0Hs4LMUEMw6xsJNAX9fgiz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "close with desires (feat. thuy)",
         "url": "https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 205750,
       "name": "close with desires (feat. thuy)",
       "url": "https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wings",
+        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 153142,
+      "name": "cloud 11",
+      "url": "https://open.spotify.com/track/0Hs4LMUEMw6xsJNAX9fgiz"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wish list",
-        "url": "https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "wishlist",
-      "url": "https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Real",
         "url": "https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 176640,
       "name": "Real",
       "url": "https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wish list",
+        "url": "https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "wishlist",
+      "url": "https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp"
     }
   ],
   "unique_name": "This Is th\u1ee7y",

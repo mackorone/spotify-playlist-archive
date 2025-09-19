@@ -2,7 +2,7 @@
 
 ### [New Music Friday Naija](https://open.spotify.com/playlist/37i9dQZF1DXbTop77dnX35)
 
-> New Music from Qing Madi, Stonebwoy, Rybeena, Skales  and more
+> New Music from Kizz Daniel, Cardi B, King Promise, Shoday  and more
 
 3,831 songs - 8 day 1 hr 18 min
 

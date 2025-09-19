@@ -2,7 +2,7 @@
 
 ### [Throwback Thursday](https://open.spotify.com/playlist/37i9dQZF1DWWwaxRea1LWS)
 
-> \#SpotifyTBT this week is all about audiophile classics\. Cover: Stevie Wonder
+> \#SpotifyTBT this week is taking a short trip back to 2020\. Cover: Cardi B
 
 5,797 songs - 15 day 19 hr 51 min
 

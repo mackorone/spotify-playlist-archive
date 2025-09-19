@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAChwGbOP0WZCyLGCYFe0cWtF852f",
+  "snapshot_id": "AAAAAMCmRYCgOQ5FITzjs1nY81fb2jfJ",
   "tracks": [
     {
       "added_at": "2025-09-01 08:11:59",
@@ -103,6 +103,26 @@
       "duration_ms": 291153,
       "name": "Uyir",
       "url": "https://open.spotify.com/track/77Cfuv7fcORyO4AYB5E0bS"
+    },
+    {
+      "added_at": "2025-09-18 13:10:58",
+      "album": {
+        "name": "Aarohanam",
+        "url": "https://open.spotify.com/album/5Da0j8ZDRVATizTR7c2gTU"
+      },
+      "artists": [
+        {
+          "name": "PRI",
+          "url": "https://open.spotify.com/artist/3SdB1D3HlBKxhy5kOOQvit"
+        },
+        {
+          "name": "Bak n 4th",
+          "url": "https://open.spotify.com/artist/0XZDSZnm55oXsRvKSsnPyv"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Thedal",
+      "url": "https://open.spotify.com/track/6DF5ghhV4ColVi92w2qFsD"
     },
     {
       "added_at": "2025-08-06 12:51:42",
@@ -741,30 +761,6 @@
       "url": "https://open.spotify.com/track/2SAehaZgtMkygse1UGrZWs"
     },
     {
-      "added_at": "2025-05-06 10:25:16",
-      "album": {
-        "name": "Uyir Ponaalum",
-        "url": "https://open.spotify.com/album/4PClcq39M4seJMLAitgNnS"
-      },
-      "artists": [
-        {
-          "name": "bebhumika",
-          "url": "https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl"
-        },
-        {
-          "name": "pixlpxl\u00ae",
-          "url": "https://open.spotify.com/artist/1EGgZfRoAg2Z5kAbF5XaH1"
-        },
-        {
-          "name": "Flameboi",
-          "url": "https://open.spotify.com/artist/7gDVeDg6db32fZhZKIeL3n"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Thalapathi",
-      "url": "https://open.spotify.com/track/7sJmHAqsAcadSlBHIsVTlb"
-    },
-    {
       "added_at": "2025-05-28 07:17:30",
       "album": {
         "name": "Ponaaley Ponaaley",
@@ -889,26 +885,6 @@
       "url": "https://open.spotify.com/track/0Xq6zAQzmQTiBckOU4BSVA"
     },
     {
-      "added_at": "2025-05-15 13:49:40",
-      "album": {
-        "name": "Adipoli",
-        "url": "https://open.spotify.com/album/5btEGNWBn6T6ZQ2CLFnKqm"
-      },
-      "artists": [
-        {
-          "name": "PAX DHARMA",
-          "url": "https://open.spotify.com/artist/62QHD5zKMKEPataClvGpeJ"
-        },
-        {
-          "name": "Buggimaan",
-          "url": "https://open.spotify.com/artist/0r4YXuFgQ7PpwQpi9cVrSo"
-        }
-      ],
-      "duration_ms": 115513,
-      "name": "Adipoli",
-      "url": "https://open.spotify.com/track/3RHV8pLX9hk2GTtbb3spdW"
-    },
-    {
       "added_at": "2025-06-20 05:34:52",
       "album": {
         "name": "Kaathadi",
@@ -935,30 +911,6 @@
       "duration_ms": 185577,
       "name": "Kaathadi",
       "url": "https://open.spotify.com/track/2F3oivF0j2938HjVa5Pr5g"
-    },
-    {
-      "added_at": "2025-04-11 05:06:30",
-      "album": {
-        "name": "Jakkamma",
-        "url": "https://open.spotify.com/album/6ZbhFBNTgwM0sVa47H4RYM"
-      },
-      "artists": [
-        {
-          "name": "Jaru Muralee",
-          "url": "https://open.spotify.com/artist/1D5mrr8ya6GM0yQPOgrPqH"
-        },
-        {
-          "name": "AK Sekaren",
-          "url": "https://open.spotify.com/artist/2TuYELbaTUDcXeeLLgxU9s"
-        },
-        {
-          "name": "BSP",
-          "url": "https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Jakkamma",
-      "url": "https://open.spotify.com/track/5ACzDWWWVMbL46vShyPhR5"
     },
     {
       "added_at": "2025-06-05 12:56:10",
@@ -1011,26 +963,6 @@
       "duration_ms": 151551,
       "name": "NoBody - Yaarum Illa",
       "url": "https://open.spotify.com/track/7qP3QxqSqTvsstdhUT6xmM"
-    },
-    {
-      "added_at": "2025-05-16 10:06:19",
-      "album": {
-        "name": "I'm Single",
-        "url": "https://open.spotify.com/album/7fkCBHxm28G7NVZdE39l4x"
-      },
-      "artists": [
-        {
-          "name": "L.V. Muthukumarasamy",
-          "url": "https://open.spotify.com/artist/1bLTExC3vBstps2u92ae6J"
-        },
-        {
-          "name": "Harish Kalyan",
-          "url": "https://open.spotify.com/artist/6BcKl9CndKi18aLEvJa51D"
-        }
-      ],
-      "duration_ms": 204671,
-      "name": "I'm Single",
-      "url": "https://open.spotify.com/track/6XuF9uDYJDwhoEBFR9naeq"
     },
     {
       "added_at": "2025-05-23 05:11:41",
@@ -1099,38 +1031,6 @@
       "duration_ms": 237176,
       "name": "Pollappu Rani",
       "url": "https://open.spotify.com/track/0ROO0u3ZKXObue6v87GZoc"
-    },
-    {
-      "added_at": "2025-05-30 05:42:41",
-      "album": {
-        "name": "Kaneer Enge ?",
-        "url": "https://open.spotify.com/album/4RRwVfaCuSLHvwWcwhlMyS"
-      },
-      "artists": [
-        {
-          "name": "A R Anandh",
-          "url": "https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y"
-        }
-      ],
-      "duration_ms": 167998,
-      "name": "Kaneer Enge ?",
-      "url": "https://open.spotify.com/track/5xa8ZOoNx03TDVb8jql91D"
-    },
-    {
-      "added_at": "2025-05-16 14:14:02",
-      "album": {
-        "name": "Barbie Dolly",
-        "url": "https://open.spotify.com/album/5GiFCoI7VSFCBC17PIoooW"
-      },
-      "artists": [
-        {
-          "name": "Girish Karthik",
-          "url": "https://open.spotify.com/artist/4ZkbHRnpFZkiLrHPJcTb9Z"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Barbie Dolly",
-      "url": "https://open.spotify.com/track/4eaWzbLKHb3pAKvZQ8Z3Ek"
     }
   ],
   "unique_name": "RADAR Tamil",

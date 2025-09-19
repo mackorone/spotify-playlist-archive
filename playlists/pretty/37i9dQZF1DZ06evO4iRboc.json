@@ -1,12 +1,12 @@
 {
   "description": "This is Laufey. The essential tracks, all in one playlist.",
-  "num_followers": 321961,
+  "num_followers": 322246,
   "original_name": "This Is Laufey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAAC1JIAbggEJB8KcboJV1weu",
+  "snapshot_id": "aMn6AAAAAAAc+6wYsTS/u1ZgKeB2qkEr",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Matter of Time (Standard Edition)",
+        "url": "https://open.spotify.com/album/6lauK4mNENDUMSoekDVDNG"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "Seems Like Old Times - Bonus Track",
+      "url": "https://open.spotify.com/track/5mAFfXu5wUJWicmzxjJRKo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 198000,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/1trLEhC9nDvvj36MfnlwcJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Matter of Time (Standard Edition)",
-        "url": "https://open.spotify.com/album/6lauK4mNENDUMSoekDVDNG"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "Seems Like Old Times - Bonus Track",
-      "url": "https://open.spotify.com/track/5mAFfXu5wUJWicmzxjJRKo"
     },
     {
       "added_at": null,

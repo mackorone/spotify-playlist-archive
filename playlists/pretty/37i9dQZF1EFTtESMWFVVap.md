@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTtESMWFVVap.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4pfLHiO1JM2juX7ZXtqYXX">Anaïs Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211 likes - 119 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 212 likes - 119 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTtESMWFVVap.md) - [plain]
 | 68 | [On Your Way \(Felix Song\)](https://open.spotify.com/track/6tgatLFmwva7iQK2Y7eUCZ) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell](https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD) | 2:53 |
 | 69 | [Venus](https://open.spotify.com/track/3xbEpsPggGtJCNAGRdfcus) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Young Man In America](https://open.spotify.com/album/4RNXc0opm9igpGD1Ga9FsY) | 2:21 |
 | 70 | [Wilderland](https://open.spotify.com/track/05HQWj3yN0nVNRVFXbJjjO) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Young Man In America](https://open.spotify.com/album/4RNXc0opm9igpGD1Ga9FsY) | 3:08 |
-| 71 | [Real World](https://open.spotify.com/track/1wiONBe074or4arzDmIhG2) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell](https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD) | 1:49 |
-| 72 | [Comrade Sweetheart](https://open.spotify.com/track/2UIB6tQlgtvNpTOjPyI1NJ) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc) | [Rolling Golden Holy](https://open.spotify.com/album/43mr98g3RoWlC3jyxAKf5I) | 3:33 |
+| 71 | [Comrade Sweetheart](https://open.spotify.com/track/2UIB6tQlgtvNpTOjPyI1NJ) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc) | [Rolling Golden Holy](https://open.spotify.com/album/43mr98g3RoWlC3jyxAKf5I) | 3:33 |
+| 72 | [Real World](https://open.spotify.com/track/1wiONBe074or4arzDmIhG2) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell](https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD) | 1:49 |
 | 73 | [He Did](https://open.spotify.com/track/0Sg5OLEr3NIerkuUYOZGIi) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Young Man In America](https://open.spotify.com/album/4RNXc0opm9igpGD1Ga9FsY) | 4:05 |
 | 74 | [Willie of Winsbury \(Child 100\)](https://open.spotify.com/track/2jy0G9oiWKyRgiySdFXVQ4) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Jefferson Hamer](https://open.spotify.com/artist/3y6Xgu4ghSkuPM8HVHijCv) | [Child Ballads](https://open.spotify.com/album/2h0LB7F0ss32qT8i81UdN2) | 5:51 |
 | 75 | [Cold Rain and Snow](https://open.spotify.com/track/4ZMM9loKuLRcyV6Iv46gR2) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc) | [Rolling Golden Holy](https://open.spotify.com/album/43mr98g3RoWlC3jyxAKf5I) | 2:48 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTtESMWFVVap.md) - [plain]
 | 118 | [I Got a Well](https://open.spotify.com/track/0AS95ZFPpzscVyHmUPCmc6) | [Miriam Bernardo](https://open.spotify.com/artist/0UWloG98LNXMiDqewU6RTL), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Jer Coons](https://open.spotify.com/artist/4ZdqTj99dVfhkb8D4ZVsJS), [Stephanie Wilson](https://open.spotify.com/artist/0BRpENYnifmgDtPuQXrB8D), [Halle Jade Toulis](https://open.spotify.com/artist/2dIJG46nfM6XppnTBa1Cmw), [Hannah Gluck](https://open.spotify.com/artist/1x2NujACxvWXOZIwMy2R4a) | [Songs from the Well](https://open.spotify.com/album/1a2hitttrH8jB7kwqBz5uK) | 3:26 |
 | 119 | [Songbird Intro](https://open.spotify.com/track/7cYqfclUOwJ5psP3Lwcl8L) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Hadestown](https://open.spotify.com/album/4H6NRX6bvkIJZIJdZSPq6Y) | 0:24 |
 
-Snapshot ID: `Ab8f1AAAAADLeCd7xQE0TGHXiEdj1RWP`
+Snapshot ID: `Ab8lnAAAAAAImrbrH06zrqH+kgfqT6xY`

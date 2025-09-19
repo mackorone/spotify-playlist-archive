@@ -1,12 +1,12 @@
 {
   "description": "The hottest new pop with all the drops. Cover: Demi Lovato",
-  "num_followers": 321201,
+  "num_followers": 321542,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFphyRQqhtk8nXSzkbx3U1jtHwVw",
+  "snapshot_id": "AAAAAG9jZQ5ewVyglXEbbs0PkuU37mH3",
   "tracks": [
     {
       "added_at": "2025-09-12 04:00:20",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-09-12 04:00:20",
       "album": {
-        "name": "Unconditional",
-        "url": "https://open.spotify.com/album/665ddrCgPJLmhnGjWJmmRj"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 212386,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/2mpoTHp955e9ojKaA2Yb9b"
-    },
-    {
-      "added_at": "2025-09-12 04:00:20",
-      "album": {
         "name": "Play (Extended Edition)",
         "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
       },
@@ -55,42 +39,6 @@
       "duration_ms": 217681,
       "name": "Don\u2019t Look Down",
       "url": "https://open.spotify.com/track/7ne6grXcOlB7o5TfYr3Mfa"
-    },
-    {
-      "added_at": "2025-09-12 04:00:20",
-      "album": {
-        "name": "SISTER",
-        "url": "https://open.spotify.com/album/6U7EWP2htJIkZny2Iv7mHG"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 190222,
-      "name": "RADIO (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/06kFuqzhMk4E6IYeO0sTfx"
-    },
-    {
-      "added_at": "2025-09-12 04:00:20",
-      "album": {
-        "name": "808 HYMN",
-        "url": "https://open.spotify.com/album/6Br8z93mJODxZskiJ3GHZD"
-      },
-      "artists": [
-        {
-          "name": "Erin LeCount",
-          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
-        }
-      ],
-      "duration_ms": 253751,
-      "name": "808 HYMN",
-      "url": "https://open.spotify.com/track/3UaOcDgXZVFMopdWX8hukn"
     },
     {
       "added_at": "2025-09-05 04:00:14",
@@ -135,6 +83,78 @@
       "duration_ms": 171200,
       "name": "Forever",
       "url": "https://open.spotify.com/track/185lm6Rdf2y5s4WnW3PzHB"
+    },
+    {
+      "added_at": "2025-09-12 04:00:20",
+      "album": {
+        "name": "SISTER",
+        "url": "https://open.spotify.com/album/6U7EWP2htJIkZny2Iv7mHG"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 190222,
+      "name": "RADIO (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/06kFuqzhMk4E6IYeO0sTfx"
+    },
+    {
+      "added_at": "2025-09-12 04:00:20",
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/665ddrCgPJLmhnGjWJmmRj"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "duration_ms": 212386,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/2mpoTHp955e9ojKaA2Yb9b"
+    },
+    {
+      "added_at": "2025-09-12 04:00:20",
+      "album": {
+        "name": "808 HYMN",
+        "url": "https://open.spotify.com/album/6Br8z93mJODxZskiJ3GHZD"
+      },
+      "artists": [
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "duration_ms": 253751,
+      "name": "808 HYMN",
+      "url": "https://open.spotify.com/track/3UaOcDgXZVFMopdWX8hukn"
+    },
+    {
+      "added_at": "2025-09-05 04:00:14",
+      "album": {
+        "name": "Money Made Me A Savage (Calabria)",
+        "url": "https://open.spotify.com/album/61ppUwJEtGqCONLN7UMNAK"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "duration_ms": 123854,
+      "name": "Money Made Me A Savage - Calabria",
+      "url": "https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4"
     },
     {
       "added_at": "2025-09-12 04:00:20",
@@ -231,26 +251,6 @@
       "duration_ms": 136500,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/7IQ5bOfhi1sTDksxXaqMq9"
-    },
-    {
-      "added_at": "2025-09-05 04:00:14",
-      "album": {
-        "name": "Money Made Me A Savage (Calabria)",
-        "url": "https://open.spotify.com/album/61ppUwJEtGqCONLN7UMNAK"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 123854,
-      "name": "Money Made Me A Savage - Calabria",
-      "url": "https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4"
     },
     {
       "added_at": "2025-09-12 04:00:20",
@@ -1413,46 +1413,6 @@
       "url": "https://open.spotify.com/track/7paRyIC5aRpiiYkiBnT39O"
     },
     {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/1Az4ZOoqLL9UV6JeH9kUWW"
-      },
-      "artists": [
-        {
-          "name": "Levent Geiger",
-          "url": "https://open.spotify.com/artist/7JSBgXyCDzX24iZCHJofIG"
-        }
-      ],
-      "duration_ms": 133024,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/15cMhcxJnC8oUireSkKbrP"
-    },
-    {
-      "added_at": "2025-08-01 14:19:13",
-      "album": {
-        "name": "Everything Changes (But I Won't) (ft. Shygirl & Casey MQ)",
-        "url": "https://open.spotify.com/album/5uK8jgBCw1slqIixAJwdYh"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        },
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Casey MQ",
-          "url": "https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8"
-        }
-      ],
-      "duration_ms": 235294,
-      "name": "Everything Changes (But I Won't) (ft. Shygirl & Casey MQ)",
-      "url": "https://open.spotify.com/track/60Jqns1ivZYGsupZATGbXv"
-    },
-    {
       "added_at": "2025-08-01 14:19:13",
       "album": {
         "name": "Wake Up (With You Mine)",
@@ -1471,22 +1431,6 @@
       "duration_ms": 200181,
       "name": "Wake Up (With You Mine)",
       "url": "https://open.spotify.com/track/0LPqVcXdVWsiGz7SkyOrC4"
-    },
-    {
-      "added_at": "2025-08-01 14:19:13",
-      "album": {
-        "name": "Blow My Mind",
-        "url": "https://open.spotify.com/album/33nNhA7E44enUFN4eYI3Qk"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ennis",
-          "url": "https://open.spotify.com/artist/63RrE3UKxL775dT9siAan2"
-        }
-      ],
-      "duration_ms": 204755,
-      "name": "Blow My Mind",
-      "url": "https://open.spotify.com/track/17IO6YxvP74VQLZiYmG62U"
     },
     {
       "added_at": "2025-08-01 14:19:13",
@@ -1683,26 +1627,6 @@
     {
       "added_at": "2025-08-01 14:19:13",
       "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/2VpQLsVZOBVzuDmTHsQETP"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 223898,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/0m00au0MMoII2767mu4sj7"
-    },
-    {
-      "added_at": "2025-08-01 14:19:13",
-      "album": {
         "name": "Loosen Up",
         "url": "https://open.spotify.com/album/0zVdQCWZh8j3FARvnNr6sZ"
       },
@@ -1739,26 +1663,6 @@
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
-    },
-    {
-      "added_at": "2025-08-01 14:19:13",
-      "album": {
-        "name": "From Disco To Disco",
-        "url": "https://open.spotify.com/album/4oq6QME2y7Xf5vYC5zHmxG"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        }
-      ],
-      "duration_ms": 141774,
-      "name": "From Disco To Disco",
-      "url": "https://open.spotify.com/track/1MzPUIynJATkuvympwipnm"
     },
     {
       "added_at": "2025-08-01 14:19:13",
@@ -1831,70 +1735,6 @@
       "duration_ms": 161367,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/3MUFebos5drIwrUHxUorhP"
-    },
-    {
-      "added_at": "2025-08-01 14:19:13",
-      "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/36Vuo1Sls1ZzZqcceuapAh"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Culture Shock",
-          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
-        },
-        {
-          "name": "Fragma",
-          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/7A2K6UcyFSt7wBuv4B6kXi"
-    },
-    {
-      "added_at": "2025-08-01 14:19:13",
-      "album": {
-        "name": "Supernature MMXXV (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/6qv9tZVFJRhVsLsj7Lb5As"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        },
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 209932,
-      "name": "Supernature MMXXV - Purple Disco Machine Remix - Edit",
-      "url": "https://open.spotify.com/track/43RZQRAL5M9pmDDkQwFQYp"
-    },
-    {
-      "added_at": "2025-08-01 14:19:13",
-      "album": {
-        "name": "3am",
-        "url": "https://open.spotify.com/album/4iwqQzA2I4bjGedTQjCKQV"
-      },
-      "artists": [
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 172928,
-      "name": "3am",
-      "url": "https://open.spotify.com/track/7qAuCJDxFwt6Zp8WWVK15h"
     },
     {
       "added_at": "2025-08-01 14:19:13",

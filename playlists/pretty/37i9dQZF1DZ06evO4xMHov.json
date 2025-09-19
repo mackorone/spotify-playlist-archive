@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63246,
+  "num_followers": 63250,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAAD7lathRYgjCaiJ6m55Xk4b",
+  "snapshot_id": "aMn6AAAAAAC3GcAQgsW5IRSAs4cxHHwc",
   "tracks": [
     {
       "added_at": null,
@@ -735,42 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ao Rei",
-        "url": "https://open.spotify.com/album/4Oy8ojNQkl0Q1Q6FWTlFnO"
-      },
-      "artists": [
-        {
-          "name": "Rachel Novaes",
-          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 244720,
-      "name": "Eu Cantarei",
-      "url": "https://open.spotify.com/track/6wirmUJ6XncGeFjSyIMGwx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 385280,
-      "name": "Gl\u00f3ria & Honra",
-      "url": "https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gloria A Deus",
         "url": "https://open.spotify.com/album/2krT7tZVv5nde0MiKYOdvx"
       },
@@ -795,22 +759,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
       },
       "artists": [
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Nathanael Brito",
-          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
         }
       ],
-      "duration_ms": 602491,
-      "name": "Que Ele Cres\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
+      "duration_ms": 385280,
+      "name": "Gl\u00f3ria & Honra",
+      "url": "https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ao Rei",
+        "url": "https://open.spotify.com/album/4Oy8ojNQkl0Q1Q6FWTlFnO"
+      },
+      "artists": [
+        {
+          "name": "Rachel Novaes",
+          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 244720,
+      "name": "Eu Cantarei",
+      "url": "https://open.spotify.com/track/6wirmUJ6XncGeFjSyIMGwx"
     },
     {
       "added_at": null,
@@ -827,6 +807,26 @@
       "duration_ms": 275260,
       "name": "Sangue de Jesus",
       "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Nathanael Brito",
+          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
+        }
+      ],
+      "duration_ms": 602491,
+      "name": "Que Ele Cres\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
     },
     {
       "added_at": null,
@@ -971,22 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 331306,
-      "name": "Incompar\u00e1vel - Ao Vivo",
-      "url": "https://open.spotify.com/track/2pN3oRT2BJyghB5vsljMuZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Acende o Fogo / Eu Me Prostro (Ao Vivo)",
         "url": "https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 508432,
       "name": "Acende o Fogo / Eu Me Prostro - Ao Vivo",
       "url": "https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 331306,
+      "name": "Incompar\u00e1vel - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pN3oRT2BJyghB5vsljMuZ"
     },
     {
       "added_at": null,

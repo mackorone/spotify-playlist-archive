@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>CORTIS\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,887 likes - 106 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,825 likes - 106 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

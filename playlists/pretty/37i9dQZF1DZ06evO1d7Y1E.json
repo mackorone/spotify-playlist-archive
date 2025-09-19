@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 118446,
+  "num_followers": 118440,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAAB1vKiKS7GfNvihGVE9pMhO",
+  "snapshot_id": "aMn6AAAAAADYV2EMfD/Zyyih7JScB8Sd",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Liberdade (Deluxe)",
+        "url": "https://open.spotify.com/album/72UAM9YXaUyl4iT8crtq2p"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Real Fuba",
+          "url": "https://open.spotify.com/artist/0PjEY1nAycpN9PeI3zOtdb"
+        },
+        {
+          "name": "Elow",
+          "url": "https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk"
+        },
+        {
+          "name": "MUC4",
+          "url": "https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M"
+        }
+      ],
+      "duration_ms": 325039,
+      "name": "Manifesto #1 - A Rua Cercada Por Divis\u00e3o",
+      "url": "https://open.spotify.com/track/49amNfKyZnKEoQ5YUCjDzG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desabafo 2",
         "url": "https://open.spotify.com/album/0lcel8WZounsmaTOL2Awg9"
       },
@@ -283,38 +315,6 @@
       "duration_ms": 145573,
       "name": "Eu Fiz o Jogo Virar",
       "url": "https://open.spotify.com/track/53BkPZwlaLbW77uV9BnJkl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Manifesto #1 - A Rua Cercada Por Divis\u00e3o",
-        "url": "https://open.spotify.com/album/2d0nztkaB5IqZylGa7sSwC"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Real Fuba",
-          "url": "https://open.spotify.com/artist/0PjEY1nAycpN9PeI3zOtdb"
-        },
-        {
-          "name": "Elow",
-          "url": "https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk"
-        },
-        {
-          "name": "MUC4",
-          "url": "https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M"
-        }
-      ],
-      "duration_ms": 325039,
-      "name": "Manifesto #1 - A Rua Cercada Por Divis\u00e3o",
-      "url": "https://open.spotify.com/track/0rit28V12fO4K9jGUXhLrj"
     },
     {
       "added_at": null,
@@ -511,38 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desabafo",
-        "url": "https://open.spotify.com/album/5glFkBO45WBRpvp4dMWPrm"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Tkd",
-          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
-        },
-        {
-          "name": "Neytxn",
-          "url": "https://open.spotify.com/artist/7L1wqmAtk7pQwj2xtPWIbq"
-        }
-      ],
-      "duration_ms": 150508,
-      "name": "Desabafo",
-      "url": "https://open.spotify.com/track/37LWZe5mdHIKuXBh8GuwlH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica",
         "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
       },
@@ -587,6 +555,38 @@
       "duration_ms": 600000,
       "name": "Poesia Ac\u00fastica #11 Nada Mudou",
       "url": "https://open.spotify.com/track/0BiXrraKIkkc4Qj2lcgVUc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desabafo",
+        "url": "https://open.spotify.com/album/5glFkBO45WBRpvp4dMWPrm"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Tkd",
+          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
+        },
+        {
+          "name": "Neytxn",
+          "url": "https://open.spotify.com/artist/7L1wqmAtk7pQwj2xtPWIbq"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "Desabafo",
+      "url": "https://open.spotify.com/track/37LWZe5mdHIKuXBh8GuwlH"
     },
     {
       "added_at": null,
@@ -1027,26 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Voando Alto",
-        "url": "https://open.spotify.com/album/24So9sRe5T0wzkHbjPeqUZ"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Dj Gabriel do Borel",
-          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
-        }
-      ],
-      "duration_ms": 137430,
-      "name": "To Voando Alto",
-      "url": "https://open.spotify.com/track/7HLU2aJTAQfSIgJ2dMASsP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toma Jack",
         "url": "https://open.spotify.com/album/2RtehDMWnoR1NIKmS1oAJ7"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 246153,
       "name": "Toma Jack",
       "url": "https://open.spotify.com/track/3UsIef0hR8Hroi9tw9Zoef"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "To Voando Alto",
+        "url": "https://open.spotify.com/album/24So9sRe5T0wzkHbjPeqUZ"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Dj Gabriel do Borel",
+          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
+        }
+      ],
+      "duration_ms": 137430,
+      "name": "To Voando Alto",
+      "url": "https://open.spotify.com/track/7HLU2aJTAQfSIgJ2dMASsP"
     },
     {
       "added_at": null,
@@ -1219,6 +1219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00e1 Fluindo",
+        "url": "https://open.spotify.com/album/0Mw3N6i9NxXULaYEBigTjk"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "T\u00e1 Fluindo",
+      "url": "https://open.spotify.com/track/3J9RgzjfVuVnGlPjenqVho"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recome\u00e7o",
         "url": "https://open.spotify.com/album/5MoBxDzlYReoWJMSRwxFDp"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 177230,
       "name": "Recome\u00e7o",
       "url": "https://open.spotify.com/track/7cOZisYC7MaDLfavfq86Ed"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00e1 Fluindo",
-        "url": "https://open.spotify.com/album/0Mw3N6i9NxXULaYEBigTjk"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "T\u00e1 Fluindo",
-      "url": "https://open.spotify.com/track/3J9RgzjfVuVnGlPjenqVho"
     },
     {
       "added_at": null,

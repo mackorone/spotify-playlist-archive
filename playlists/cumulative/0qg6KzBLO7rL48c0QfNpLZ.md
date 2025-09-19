@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,242 songs - 2 day 6 hr 49 min
+1,244 songs - 2 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/track/6jvYUrFJeebfiHjyCvfiHE) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/album/3ZQaTE0GhMpsJKCqo8vnpb) | 2:36 | 2022-06-10 | 2024-09-15 |
 | [Can't Replace You](https://open.spotify.com/track/24Sf0BvyVFgfcHltMYFb3C) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Can't Replace You](https://open.spotify.com/album/7Jy9avj7Fl0um0tgU19lHg) | 2:08 | 2024-01-18 | 2024-08-20 |
 | [Can't Stay The Same](https://open.spotify.com/track/6GkDwFCNZ4JJiFdpj0Ko6p) | [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [Oke](https://open.spotify.com/artist/2iYuQedAM3oShovJ0KK1Lo) | [Can't Stay The Same](https://open.spotify.com/album/2fJk98hcQKLg5OTaAHsCrc) | 2:24 | 2025-06-06 | 2025-07-14 |
+| [Can't Stop](https://open.spotify.com/track/6UscNPeo8GcZYz6sxDZi3E) | [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [HeɅven](https://open.spotify.com/artist/12PufqR6w54uHrEiOkJnzU), [REWEL](https://open.spotify.com/artist/73UOSrluHvjIdsQE8L4hEX) | [Can't Stop](https://open.spotify.com/album/7N1k7c9zGGREiOzhrduQzH) | 2:35 | 2025-09-18 |  |
 | [Capsize](https://open.spotify.com/track/2XMTqoHHSH0lvuXrvIEdco) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Truce \- EP](https://open.spotify.com/album/5qeKpDQFyotJjLh61pUZQo) | 3:57 | 2022-10-06 | 2024-09-15 |
 | [Careless Whisper](https://open.spotify.com/track/3d8Rskx07wth6oRKtztkfF) | [Hitkend House Lab](https://open.spotify.com/artist/5EwR3Ug8qlVaZshixxQvOB) | [Careless Whisper](https://open.spotify.com/album/4dLLi5MqDpxgNhtvf0qxFf) | 3:05 | 2025-03-21 | 2025-04-24 |
 | [Careless Whisper](https://open.spotify.com/track/5523XfZJmzdBtVej08fYMd) | [PACANI](https://open.spotify.com/artist/2nxv5w3WmZvpfg3VAhAfxY), [Syntheticsax](https://open.spotify.com/artist/05hm1QdbuSVF4WdgzA0tFJ), [Ben Plum](https://open.spotify.com/artist/4a5nlCkBsY0lZRYl5k3MnG) | [Careless Whisper](https://open.spotify.com/album/0pHGgN4d0ewS2zon77Uikv) | 2:53 | 2024-09-20 | 2024-11-21 |
@@ -483,6 +484,7 @@
 | [Hold Me](https://open.spotify.com/track/3xWlinzkmeYJeTn6p94Kmt) | [Hafex](https://open.spotify.com/artist/1br3nylz7tCq82qiwd4j6d), [ALIGEE](https://open.spotify.com/artist/4dDaO9ddXBL5vsAul73nWY), [SEIDS](https://open.spotify.com/artist/2Eipav5ZNY6ON1FReIYpKE) | [Hold Me](https://open.spotify.com/album/3XP17A1O80okZISP9GAx8C) | 2:38 | 2024-12-27 | 2025-02-18 |
 | [hold me](https://open.spotify.com/track/338tJBkDmyCGOMZIszW7C1) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [Friends & I](https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn) | [hold me](https://open.spotify.com/album/2Tk1BWq1XmeyuC6RgSEFLC) | 2:17 | 2024-08-02 | 2024-08-31 |
 | [Hold Me Close](https://open.spotify.com/track/50rOUQlJ4BdBFP8ZsxUP7g) | [miksklim](https://open.spotify.com/artist/1PQT3gGx4JUciQyvvJUeVz), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [Hold Me Close](https://open.spotify.com/album/0sdw6rcJ1TKwCQuAko96en) | 2:20 | 2024-05-31 | 2024-06-29 |
+| [Hold Me Closer](https://open.spotify.com/track/72THRAS8NmKyR4hZ4LjrBG) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [RVPTR](https://open.spotify.com/artist/48fFW9rHg6jYYbPPnI1Ye4) | [Hold Me Closer](https://open.spotify.com/album/0BJ9jRlRCq8dCULjRuYkRU) | 2:30 | 2025-09-18 |  |
 | [Hold My Hand](https://open.spotify.com/track/4bgpbZY9iAK7Qwfsf9BmW7) | [Cloudy Bubbles](https://open.spotify.com/artist/48q8LIxu2krOGgb9RwA8GW) | [Hold My Hand](https://open.spotify.com/album/65o1R5jqsZwZFVj0lr5Z4b) | 2:15 | 2025-01-17 | 2025-02-05 |
 | [Hold On](https://open.spotify.com/track/2fnuh8NPfCoYBz9zyMJP2o) | [Mike Key](https://open.spotify.com/artist/4XkrjaEBlplom5eENt6nSP), [Rue More](https://open.spotify.com/artist/26bowrYXXcMtHgx8g7sPKa) | [Hold On](https://open.spotify.com/album/59k48IeNY8vyGysUYbODgI) | 2:24 | 2024-05-03 | 2024-06-15 |
 | [Hold This Memory](https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Hold This Memory](https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG) | 2:40 | 2024-01-10 | 2024-06-29 |

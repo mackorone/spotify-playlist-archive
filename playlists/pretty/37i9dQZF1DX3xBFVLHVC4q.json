@@ -415,94 +415,6 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "\u5922\u3067\u591c\u7a7a\u3092\u7167\u3089\u3057\u305f\u3044/\u672a\u719fDREAMER",
-        "url": "https://open.spotify.com/album/3RC4kNrfwR8LXVbu6x85KM"
-      },
-      "artists": [
-        {
-          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
-          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
-        },
-        {
-          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
-          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
-        },
-        {
-          "name": "\u6e21\u8fba \u66dc (CV.\u6589\u85e4\u6731\u590f)",
-          "url": "https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB"
-        },
-        {
-          "name": "Yoshiko Tsushima (CV: Aika Kobayashi)",
-          "url": "https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY"
-        },
-        {
-          "name": "\u56fd\u6728\u7530\u82b1\u4e38 (CV.\u9ad8\u69fb\u304b\u306a\u3053)",
-          "url": "https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an"
-        },
-        {
-          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b)",
-          "url": "https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO"
-        }
-      ],
-      "duration_ms": 334440,
-      "name": "\u5922\u3067\u591c\u7a7a\u3092\u7167\u3089\u3057\u305f\u3044",
-      "url": "https://open.spotify.com/track/0x89IEs0NJHOULPx4wgPPB"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "\u5143\u6c17\u5168\u958bDAY! DAY! DAY!",
-        "url": "https://open.spotify.com/album/0F1JBEDt9APY8kvHvACQYt"
-      },
-      "artists": [
-        {
-          "name": "CYaRon!",
-          "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "\u591c\u7a7a\u306f\u306a\u3093\u3067\u3082\u77e5\u3063\u3066\u308b\u306e?",
-      "url": "https://open.spotify.com/track/1ORM9UcRS2m6sSCFHtGM9l"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.2 \u301cWINTER VACATION\u301c)",
-        "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
-      },
-      "artists": [
-        {
-          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
-          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
-        },
-        {
-          "name": "\u6e21\u8fba \u66dc (CV.\u6589\u85e4\u6731\u590f)",
-          "url": "https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB"
-        }
-      ],
-      "duration_ms": 296840,
-      "name": "Misty Frosty Love",
-      "url": "https://open.spotify.com/track/3AyAdFgfT5jEHiZr45Gijq"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "\u30b3\u30ef\u30ec\u30e4\u30b9\u30ad",
-        "url": "https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO"
-      },
-      "artists": [
-        {
-          "name": "Guilty Kiss",
-          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "Shadow gate to love",
-      "url": "https://open.spotify.com/track/102b9XE1FmD4seoZrOBWoj"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
         "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.1 \u301cSUMMER VACATION\u301c)",
         "url": "https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW"
       },
@@ -556,9 +468,45 @@
           "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
         }
       ],
-      "duration_ms": 239733,
-      "name": "\u5143\u6c17\u5168\u958bDAY! DAY! DAY!",
-      "url": "https://open.spotify.com/track/472fNidp2NJoijcPKMvaZv"
+      "duration_ms": 278400,
+      "name": "\u591c\u7a7a\u306f\u306a\u3093\u3067\u3082\u77e5\u3063\u3066\u308b\u306e?",
+      "url": "https://open.spotify.com/track/1ORM9UcRS2m6sSCFHtGM9l"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "\u30b3\u30ef\u30ec\u30e4\u30b9\u30ad",
+        "url": "https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO"
+      },
+      "artists": [
+        {
+          "name": "Guilty Kiss",
+          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "Shadow gate to love",
+      "url": "https://open.spotify.com/track/102b9XE1FmD4seoZrOBWoj"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.2 \u301cWINTER VACATION\u301c)",
+        "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
+          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
+        },
+        {
+          "name": "\u6e21\u8fba \u66dc (CV.\u6589\u85e4\u6731\u590f)",
+          "url": "https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB"
+        }
+      ],
+      "duration_ms": 296840,
+      "name": "Misty Frosty Love",
+      "url": "https://open.spotify.com/track/3AyAdFgfT5jEHiZr45Gijq"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -583,6 +531,58 @@
       "duration_ms": 256986,
       "name": "G\u7dda\u4e0a\u306e\u30b7\u30f3\u30c7\u30ec\u30e9",
       "url": "https://open.spotify.com/track/1q8HSZgkbK1AAs32TjBiW6"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "\u5922\u3067\u591c\u7a7a\u3092\u7167\u3089\u3057\u305f\u3044/\u672a\u719fDREAMER",
+        "url": "https://open.spotify.com/album/3RC4kNrfwR8LXVbu6x85KM"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
+        },
+        {
+          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
+          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
+        },
+        {
+          "name": "\u6e21\u8fba \u66dc (CV.\u6589\u85e4\u6731\u590f)",
+          "url": "https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB"
+        },
+        {
+          "name": "Yoshiko Tsushima (CV: Aika Kobayashi)",
+          "url": "https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY"
+        },
+        {
+          "name": "\u56fd\u6728\u7530\u82b1\u4e38 (CV.\u9ad8\u69fb\u304b\u306a\u3053)",
+          "url": "https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an"
+        },
+        {
+          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b)",
+          "url": "https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO"
+        }
+      ],
+      "duration_ms": 334440,
+      "name": "\u5922\u3067\u591c\u7a7a\u3092\u7167\u3089\u3057\u305f\u3044",
+      "url": "https://open.spotify.com/track/0x89IEs0NJHOULPx4wgPPB"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "\u5143\u6c17\u5168\u958bDAY! DAY! DAY!",
+        "url": "https://open.spotify.com/album/0F1JBEDt9APY8kvHvACQYt"
+      },
+      "artists": [
+        {
+          "name": "CYaRon!",
+          "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
+        }
+      ],
+      "duration_ms": 239733,
+      "name": "\u5143\u6c17\u5168\u958bDAY! DAY! DAY!",
+      "url": "https://open.spotify.com/track/472fNidp2NJoijcPKMvaZv"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -627,6 +627,26 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
+        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.2 \u301cWINTER VACATION\u301c)",
+        "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b)",
+          "url": "https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6"
+        },
+        {
+          "name": "\u5c0f\u539f\u97a0\u8389 (CV.\u9234\u6728\u611b\u5948)",
+          "url": "https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2"
+        }
+      ],
+      "duration_ms": 263146,
+      "name": "\u6d99\u304c\u96ea\u306b\u306a\u308b\u524d\u306b",
+      "url": "https://open.spotify.com/track/6g6nsxbKZvG3V79aCJRDB6"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
         "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.1 \u301cSUMMER VACATION\u301c)",
         "url": "https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 310426,
       "name": "\u8fd1\u672a\u6765\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9",
       "url": "https://open.spotify.com/track/09hTxG0bQXAulhD92ambAW"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.2 \u301cWINTER VACATION\u301c)",
-        "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
-      },
-      "artists": [
-        {
-          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b)",
-          "url": "https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6"
-        },
-        {
-          "name": "\u5c0f\u539f\u97a0\u8389 (CV.\u9234\u6728\u611b\u5948)",
-          "url": "https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2"
-        }
-      ],
-      "duration_ms": 263146,
-      "name": "\u6d99\u304c\u96ea\u306b\u306a\u308b\u524d\u306b",
-      "url": "https://open.spotify.com/track/6g6nsxbKZvG3V79aCJRDB6"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
         }
       ],
-      "duration_ms": 255813,
-      "name": "Amazing Travel DNA",
-      "url": "https://open.spotify.com/track/6b5SwxLObqfrx9ewIU3UWU"
+      "duration_ms": 222760,
+      "name": "\u7a7a\u4e2d\u604b\u611b\u8ad6",
+      "url": "https://open.spotify.com/track/7HQAR5V6SQC8SGfimUpFYD"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
         }
       ],
-      "duration_ms": 222760,
-      "name": "\u7a7a\u4e2d\u604b\u611b\u8ad6",
-      "url": "https://open.spotify.com/track/7HQAR5V6SQC8SGfimUpFYD"
+      "duration_ms": 255813,
+      "name": "Amazing Travel DNA",
+      "url": "https://open.spotify.com/track/6b5SwxLObqfrx9ewIU3UWU"
     },
     {
       "added_at": "2024-12-17 16:20:41",

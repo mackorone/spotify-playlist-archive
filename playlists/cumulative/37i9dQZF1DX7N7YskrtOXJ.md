@@ -4,7 +4,7 @@
 
 > La fiesta se enciende con cumbia.
 
-244 songs - 14 hr 44 min
+245 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Compañeros](https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Compañeros](https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T) | 4:05 | 2023-08-25 |  |
 | [Conductor](https://open.spotify.com/track/5DrsyiBfSuIHS015buu06S) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Chico de Oro](https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr) | 2:51 | 2024-03-29 | 2025-01-22 |
 | [Contigo](https://open.spotify.com/track/3zMTzQ8ABjdAYBUNIbKcwh) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Intimo \(Live\)](https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP) | 3:56 | 2024-02-27 | 2024-12-26 |
-| [Corazón](https://open.spotify.com/track/0zbd8A9zWSd0JtBVyn44Ge) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [90 Retro Style](https://open.spotify.com/album/6V4MgFF7UgYIUEE5v2Gigr) | 3:05 | 2025-01-17 |  |
+| [Corazón](https://open.spotify.com/track/0zbd8A9zWSd0JtBVyn44Ge) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [90 Retro Style](https://open.spotify.com/album/6V4MgFF7UgYIUEE5v2Gigr) | 3:05 | 2025-01-17 | 2025-09-19 |
 | [Cosecha de Mujeres](https://open.spotify.com/track/1lMxEHxFMSbwr6nVxlzQ1G) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 2:36 | 2024-03-29 | 2025-08-31 |
 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 | 2023-08-25 |  |
 | [Cuando Decidas Partir](https://open.spotify.com/track/21GYwBFpT12ZX7JnvehlKH) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [Cuando Decidas Partir](https://open.spotify.com/album/2SQmLguOKzwg4Svi8KcVbM) | 3:09 | 2023-08-25 | 2025-04-08 |
@@ -234,6 +234,7 @@
 | [Una Ráfaga De Amor](https://open.spotify.com/track/4vFJMrCClTb09P4fjF5oHQ) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Un Fenómeno Natural](https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy) | 3:02 | 2023-08-25 | 2024-04-19 |
 | [Una Villera Más](https://open.spotify.com/track/3PuoX1VLgKfstN9ACNCyQh) | [Sonora 5 Estrellas](https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1) | [Seguimos Vacilando](https://open.spotify.com/album/5haOD8BT0MxCdZQhs2JVoV) | 4:44 | 2023-08-25 | 2024-02-28 |
 | [Vamos a La Boti](https://open.spotify.com/track/1L3cNFIt6YEeVFFjQyI573) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Vamos a La Boti](https://open.spotify.com/album/4SGTUuoBZgFeXV3XSt5CVF) | 2:33 | 2023-08-25 | 2025-04-21 |
+| [Veneno Para Olvidar](https://open.spotify.com/track/093BkdHzJ10bqUbXbdA09u) | [Megapuesta](https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2) | [Veneno Para Olvidar](https://open.spotify.com/album/3jWy2ZHjzyNmX38j7v4pbk) | 3:52 | 2025-09-18 |  |
 | [Volar y Volar](https://open.spotify.com/track/5JwWwa7tEBqlOEhHBmoM1q) | [Sonora 5 Estrellas](https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1), [Dunguita](https://open.spotify.com/artist/6tgy6fQk4b1XwrSoHvEqBo) | [Volar y Volar](https://open.spotify.com/album/4oU2XR6eERJhkMtJk4355g) | 3:32 | 2023-09-08 | 2023-12-23 |
 | [Voluntad Heredada](https://open.spotify.com/track/3GFubkKHTeHuOvAy0sXgmg) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 4:32 | 2023-08-25 | 2024-02-28 |
 | [Volvemos a Caer](https://open.spotify.com/track/2v6EvuXgKWGeFK2HukTKT9) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Gonzalo Yañez](https://open.spotify.com/artist/0IbRsXxQF51TMsTaVNfeqA) | [Volvemos a Caer](https://open.spotify.com/album/1m9EeBYrwdJouDQ6YbI8SB) | 3:16 | 2023-08-25 | 2024-02-28 |

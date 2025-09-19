@@ -2,7 +2,7 @@
 
 ### [New Music Friday Iceland](https://open.spotify.com/playlist/37i9dQZF1DXdvNG1v6uWvH)
 
-> Loksins New Music Friday! Ný tónlist Of Ed Sheeran, KUSK, Demi Lovato  og mörgum fleiri!
+> Loksins New Music Friday! Ný tónlist Of Ásgeir, Lola Young, Lewis Capaldi  og mörgum fleiri!
 
 7,775 songs - 17 day 9 hr 53 min
 

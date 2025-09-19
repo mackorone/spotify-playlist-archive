@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 215825,
       "name": "ASI ES LA VIDA (feat. Descemer Bueno & Omi Hernandez) - Remix",
       "url": "https://open.spotify.com/track/0jj0Hf63LdLDgoy73YS352"
@@ -3302,7 +3302,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 148152,
       "name": "Como Pacman",
       "url": "https://open.spotify.com/track/2TV1EuYnG5XqEyQSd1EB9X"
@@ -3694,7 +3694,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 184462,
       "name": "Cosas Pendientes",
       "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
@@ -3774,7 +3774,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 168300,
       "name": "Croketita",
       "url": "https://open.spotify.com/track/2viKn02L839kO9ka0FqCkm"
@@ -5278,7 +5278,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 198766,
       "name": "El Doble",
       "url": "https://open.spotify.com/track/7bo4UV0Jf987r03w3UMJFi"
@@ -6700,7 +6700,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 121789,
       "name": "Fr\u00eda - Dutch Remix",
       "url": "https://open.spotify.com/track/0q49LzgiTZf80iLCvjgh8g"
@@ -8147,6 +8147,24 @@
     },
     {
       "album": {
+        "name": "KORAZONG",
+        "url": "https://open.spotify.com/album/1HVqPBOI5b3OTpbEqxvDUM"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174048,
+      "name": "KORAZONG",
+      "url": "https://open.spotify.com/track/43J20QsNeYhG23RcLHIGIn"
+    },
+    {
+      "album": {
         "name": "Kriptonita (feat. Villano Antillano)",
         "url": "https://open.spotify.com/album/5qOAMIs8cjr2VNDFh5K2O3"
       },
@@ -8498,7 +8516,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 210223,
       "name": "LA CYBER",
       "url": "https://open.spotify.com/track/64qTTkd9J9eLmJI4pIPYTL"
@@ -9074,6 +9092,28 @@
       "duration_ms": 276066,
       "name": "La Single",
       "url": "https://open.spotify.com/track/7dAwKpgHeKrxPJ2aygL97o"
+    },
+    {
+      "album": {
+        "name": "La Tirana",
+        "url": "https://open.spotify.com/album/3m4iMb2AizcRBHVi2YWZVp"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244059,
+      "name": "La Tirana",
+      "url": "https://open.spotify.com/track/50EbdrEGOfk6fWYOAIYo7I"
     },
     {
       "album": {
@@ -11102,7 +11142,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 158520,
       "name": "MPENZI WANGU",
       "url": "https://open.spotify.com/track/2ZIuMho0jsKb8OhBAZPAWz"
@@ -12488,7 +12528,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 240964,
       "name": "ori\u00f3N",
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
@@ -13890,7 +13930,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 171813,
       "name": "QUE HACES",
       "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
@@ -14456,7 +14496,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 196000,
       "name": "REPETIMOS",
       "url": "https://open.spotify.com/track/6fd06SYRA9Fj8oFUhiOFvh"
@@ -15192,7 +15232,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 169960,
       "name": "SIN AIRE",
       "url": "https://open.spotify.com/track/0zFeDV1p5V9td9V3pFy4uM"
@@ -15360,6 +15400,24 @@
       "duration_ms": 170813,
       "name": "Skittles",
       "url": "https://open.spotify.com/track/3F1OzaBwLv4F0cwLtL29gO"
+    },
+    {
+      "album": {
+        "name": "sobelove",
+        "url": "https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131827,
+      "name": "sobelove",
+      "url": "https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl"
     },
     {
       "album": {
@@ -16804,7 +16862,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 190928,
       "name": "Tu Loca",
       "url": "https://open.spotify.com/track/3rNjg96AJMRTsRZ6GKRICw"
@@ -17078,6 +17136,28 @@
       "duration_ms": 169621,
       "name": "T\u00edrame Un Hello - Remix",
       "url": "https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA"
+    },
+    {
+      "album": {
+        "name": "T\u00fa Me Quieres",
+        "url": "https://open.spotify.com/album/1ftYZwim5oDmdeBu028o0q"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "T\u00fa Me Quieres",
+      "url": "https://open.spotify.com/track/41RnLvEx7eV01Pvuqt4wAY"
     },
     {
       "album": {
@@ -18262,6 +18342,28 @@
       "duration_ms": 172854,
       "name": "X",
       "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
+    },
+    {
+      "album": {
+        "name": "POR SI ALGUIEN NOS ESCUCHA",
+        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "X TI",
+      "url": "https://open.spotify.com/track/4TFjpINnVhINpTdrtNQIvx"
     },
     {
       "album": {

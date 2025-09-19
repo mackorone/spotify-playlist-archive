@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Herman van Veen & Gerson Main
 
-226 songs - 13 hr 46 min
+227 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bitterzoet](https://open.spotify.com/track/39He9xYIIOdK0pU3U9OjAs) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Bitterzoet](https://open.spotify.com/album/6i4IItGQSRvbdBguRDggMI) | 3:58 | 2023-02-10 | 2023-03-18 |
 | [Blijf Bij Mij \- Live](https://open.spotify.com/track/3iDaIXcvqurUTjJbaAu3Xb) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Ruth Jacott](https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u) | [Plugged \(Live\)](https://open.spotify.com/album/3GRkSdhiHZS9wepjQInp8v) | 3:00 | 2023-02-10 | 2023-05-12 |
 | [Bo](https://open.spotify.com/track/5kjSd4ji3luSzLWVJClQx2) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Roman \(Expanded Edition\)](https://open.spotify.com/album/7MQ3eqEq8KXImcFgWbjnKY) | 3:55 | 2023-02-10 | 2023-06-22 |
+| [Boven alle maren](https://open.spotify.com/track/28hIO84E2TaygSm0l0ac7J) | [Lenny Kuhr](https://open.spotify.com/artist/42SCqZAVnFo3ocAyO0tDTj) | [Boven alle maren](https://open.spotify.com/album/2Djzxt5s4DSBcBEUGCLtbq) | 3:44 | 2025-09-18 |  |
 | [Boze Wolven](https://open.spotify.com/track/2b0qtpy1kAISyhpGTOfj25) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Boze Wolven](https://open.spotify.com/album/1Cqk1oec5jI5pZA5zR265q) | 3:39 | 2024-10-10 |  |
 | [Brabant](https://open.spotify.com/track/0GiWi4EkPduFWHQyhiKpRB) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Guus Meeuwis](https://open.spotify.com/album/5Nkqfgaq1tqBzLGhSf0zaC) | 3:30 | 2023-02-10 | 2023-09-09 |
 | [Brugwachter](https://open.spotify.com/track/1nycat5wdlgvoHHl3Up4cv) | [Toverberg](https://open.spotify.com/artist/1Vem7FbnzmwH36evasOuZx) | [Brugwachter](https://open.spotify.com/album/6B1IiXW4SlRKzjvUrdkM4c) | 2:41 | 2023-12-05 | 2024-10-04 |

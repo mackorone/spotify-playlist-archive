@@ -4,7 +4,7 @@
 
 > The best in every corner of modern punk rock\. Cover: Maruja
 
-550 songs - 1 day 3 hr 36 min
+551 songs - 1 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [No One Was Driving The Car](https://open.spotify.com/track/4uRiAKVlF3WDlE8nCLGIlg) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [No One Was Driving The Car](https://open.spotify.com/album/5OUlsu7mgYMtKykXbbwvnN) | 3:19 | 2025-09-04 |  |
 | [Nobody’s](https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Nobody’s](https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT) | 2:15 | 2024-10-10 | 2025-02-08 |
 | [Nod](https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nod](https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk) | 3:02 | 2025-02-07 |  |
+| [noitanitsarcorP](https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd) | [Algernon Cadwallader](https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE) | [Trying Not to Have a Thought](https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM) | 4:09 | 2025-09-11 |  |
 | [nosebleeds](https://open.spotify.com/track/0SMRtXWXIn7Xxr2FyNpyOt) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [i’m still breathing](https://open.spotify.com/album/2AyoTkItCVeDOWklLgo2KI) | 3:02 | 2025-05-08 | 2025-07-20 |
 | [Not Hell, Not Heaven](https://open.spotify.com/track/4Ce8dTj67I9SbiSf7QPno2) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Not Hell, Not Heaven](https://open.spotify.com/album/5iMnk7ccwBlI3EKlKmEDBU) | 3:01 | 2025-02-07 | 2025-05-13 |
 | [Nothing Changes](https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Kids In The Crowd \- Music From The Documentary Soundtrack](https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO) | 3:14 | 2025-07-19 |  |
@@ -467,7 +468,7 @@
 | [Stop Living & Don't Dream](https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Stop Living & Don't Dream](https://open.spotify.com/album/2PWbNB64S8z7ntcCBgIJgy) | 2:22 | 2023-04-21 | 2023-12-11 |
 | [Stop Living & Don't Dream](https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [The Prius Diaries: A Hybrid Story](https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU) | 2:22 | 2023-11-13 | 2024-12-25 |
 | [Stormy Weather](https://open.spotify.com/track/1OVZlRUXlkLOpWMj3cjlNt) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Stormy Weather](https://open.spotify.com/album/27nbEvefyBeXYdC20NlP6D) | 2:33 | 2024-05-31 | 2024-07-20 |
-| [Stupid](https://open.spotify.com/track/1sZ0l4JoRhrNHDOplkImZR) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Stupid](https://open.spotify.com/album/0bMz5kvRYRUcUX9FC9rgfB) | 2:25 | 2024-10-10 |  |
+| [Stupid](https://open.spotify.com/track/1sZ0l4JoRhrNHDOplkImZR) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Stupid](https://open.spotify.com/album/0bMz5kvRYRUcUX9FC9rgfB) | 2:25 | 2024-10-10 | 2025-09-19 |
 | [Supermodels](https://open.spotify.com/track/2JFmXR9RMrZ864QAaZp1qy) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [Supermodels](https://open.spotify.com/album/0M7xdz5lQAD65XiahtuUPO) | 3:18 | 2025-05-08 |  |
 | [SURVIVAL AIN'T TAUGHT](https://open.spotify.com/track/3xlNhQWwb0WS3w6P3VJpJF) | [JIVEBOMB](https://open.spotify.com/artist/6C3q8wGXgz5KKWv5GqWkvV) | [SURVIVAL AIN'T TAUGHT](https://open.spotify.com/album/0B0BWGwmFIg2OUqbYLSUge) | 1:26 | 2025-02-07 | 2025-02-24 |
 | [SWALLOW](https://open.spotify.com/track/2OrhUx4vQuLn40TKeCdCkC) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Liily](https://open.spotify.com/album/4WO7oxivDXL5d7JE7hO0t4) | 3:55 | 2024-06-14 | 2024-06-29 |

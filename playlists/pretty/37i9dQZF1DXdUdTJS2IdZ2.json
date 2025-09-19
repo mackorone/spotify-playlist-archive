@@ -1,13 +1,129 @@
 {
-  "description": "Rising stars and new releases from sunny Singapore. Cover: Shye",
-  "num_followers": 4091,
+  "description": "Rising stars and new releases from sunny Singapore. Cover: brb.",
+  "num_followers": 4092,
   "original_name": "Rising 65",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHImv88VqeLMwNWY8JB/6PkmXCT4",
+  "snapshot_id": "AAAAAL84MVU7eKj+/b9hsYSSTdYQc8As",
   "tracks": [
+    {
+      "added_at": "2025-09-18 16:00:25",
+      "album": {
+        "name": "\u77ac\u9593\u7684\u77ac\u9593 (\u96fb\u5f71\u300a\u4ed6\u5e74\u5979\u65e5\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/796MxC3IVgtFKuhrC5Fo0S"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "duration_ms": 300480,
+      "name": "\u77ac\u9593\u7684\u77ac\u9593 (\u96fb\u5f71\u300a\u4ed6\u5e74\u5979\u65e5\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/5HGAEdNPg1y5CesBg6ZNCR"
+    },
+    {
+      "added_at": "2025-09-18 16:00:25",
+      "album": {
+        "name": "taste test",
+        "url": "https://open.spotify.com/album/1PCcnx3pkx9xnDjE48JE9f"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 169148,
+      "name": "taste test",
+      "url": "https://open.spotify.com/track/6cJMqbFoBGsLFf4yuq7PRv"
+    },
+    {
+      "added_at": "2025-09-18 16:00:25",
+      "album": {
+        "name": "Live A Little",
+        "url": "https://open.spotify.com/album/66Xx4bVFLFA5Hr9bdjg7jQ"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Kheng",
+          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "Live A Little",
+      "url": "https://open.spotify.com/track/3p6beC5dh2J87kGyehC7fg"
+    },
+    {
+      "added_at": "2025-09-18 16:00:25",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Jean Seizure",
+          "url": "https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/72r9HFW0xRccGiQrDXWmVd"
+    },
+    {
+      "added_at": "2025-09-18 16:00:25",
+      "album": {
+        "name": "RICH",
+        "url": "https://open.spotify.com/album/5As5b3LJnMumsTkQM00x7h"
+      },
+      "artists": [
+        {
+          "name": "Yokez",
+          "url": "https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus"
+        },
+        {
+          "name": "GARETH FERNANDEZ",
+          "url": "https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb"
+        }
+      ],
+      "duration_ms": 170742,
+      "name": "RICH",
+      "url": "https://open.spotify.com/track/0APma3TkPygErSuwg8y9nn"
+    },
+    {
+      "added_at": "2025-09-18 16:00:25",
+      "album": {
+        "name": "Laughing track",
+        "url": "https://open.spotify.com/album/3u2to7VATHhsYUUqaNwJrN"
+      },
+      "artists": [
+        {
+          "name": "Mila Bea",
+          "url": "https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm"
+        }
+      ],
+      "duration_ms": 205536,
+      "name": "Laughing track",
+      "url": "https://open.spotify.com/track/5S10QxTIO34rSid4NL8ZfL"
+    },
+    {
+      "added_at": "2025-09-18 16:00:25",
+      "album": {
+        "name": "WHERE DID YOU GO?",
+        "url": "https://open.spotify.com/album/76oHz88MMImyw2i7LQUwBi"
+      },
+      "artists": [
+        {
+          "name": "Nigel Zhen",
+          "url": "https://open.spotify.com/artist/31ErICn21CyTGivaRu1SpE"
+        }
+      ],
+      "duration_ms": 290400,
+      "name": "WHERE DID YOU GO?",
+      "url": "https://open.spotify.com/track/343DbzneoCq71xm0X5xz7W"
+    },
     {
       "added_at": "2025-09-12 01:00:17",
       "album": {

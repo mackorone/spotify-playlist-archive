@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/at\-least\-we\-have\-music">Check out our latest newsletter!</a> Cover: mark william lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,189,340 likes - 174 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189,273 likes - 174 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

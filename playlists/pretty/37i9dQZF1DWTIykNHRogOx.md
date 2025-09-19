@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Vanessa Paradis
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,287 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,283 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [La rivière](https://open.spotify.com/track/0MMXPraylvfvemFGDINgag) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/6fCbeaZSXlVDgHTiaMR9C9) | 2:45 |
 | 50 | [mes nuits à toi](https://open.spotify.com/track/2yCPDgKuOtM0KQcktQocb5) | [Alma Rechtman](https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN) | [dans ma maison](https://open.spotify.com/album/5sa26UmvekC0g0AeJsxArm) | 2:52 |
 
-Snapshot ID: `AAAAAIzqczArrD/1agU8W7mPRoUFymZX`
+Snapshot ID: `AAAAAAYC1+kdpESEt6eU/BgOc0SGNkDI`

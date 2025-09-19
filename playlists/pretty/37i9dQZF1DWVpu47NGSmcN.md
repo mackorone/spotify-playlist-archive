@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 
 > Jejeran artis perempuan inspiratif Indonesia\. Cover: Anggis Devaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,432 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,435 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 49 | [Find Me](https://open.spotify.com/track/3ExcmO9xmKBWIKBoMn2xUi) | [Wizzy](https://open.spotify.com/artist/3nFxNn6bmS2fT5WMgF87Ls) | [Find Me](https://open.spotify.com/album/6lbhXSs5BomjF7PZsNz44J) | 4:32 |
 | 50 | [Surreal](https://open.spotify.com/track/5RXgvTYtP8X8FGbCIw6la8) | [Rasyiqa](https://open.spotify.com/artist/7cBoDUBWlU3lXx8ya0WMQX) | [Reckless \(the album\)](https://open.spotify.com/album/7thmL6AdtyHv3jg76LNNdc) | 4:55 |
 
-Snapshot ID: `AAAAAG6Ehx3BpDmatjW8LtFO6Y1XvKHE`
+Snapshot ID: `AAAAAMHAQ62ZfnkYlyC90k8O4kp2puo/`

@@ -2,7 +2,7 @@
 
 ### [trend 2025](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak: Murat Boz x Poizi
+> viral, trend ve yükselenler\.  Kapak: TUANA
 
 214 songs - 11 hr 3 min
 

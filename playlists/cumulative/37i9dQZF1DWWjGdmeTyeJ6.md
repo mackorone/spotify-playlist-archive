@@ -4,7 +4,7 @@
 
 > The best new music from independent artists and labels\. Cover: Hudson Freeman
 
-8,951 songs - 20 day 5 hr 7 min
+8,952 songs - 20 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8646,6 +8646,7 @@
 | [Who are you?](https://open.spotify.com/track/6jh4GCOZfSXrstZiFKYYx0) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/3fi0zt0K8yyyGmfBoSa5hn) | 2:31 | 2024-11-27 | 2025-01-16 |
 | [WHO DAT](https://open.spotify.com/track/5cShPEpSbFcxGTtHvscJoH) | [Charbel](https://open.spotify.com/artist/4UENa19IKtHmTGXfnGUufo) | [WHO DAT](https://open.spotify.com/album/4CiUmJYJxaf44o4Ts6eSvo) | 2:24 | 2022-06-15 | 2022-06-30 |
 | [Who Invented Missing You](https://open.spotify.com/track/32m8KsAg5arfdjKcIGoEe5) | [Brooks Hoffman](https://open.spotify.com/artist/211ei7mBKVPTmpm023Em6Q) | [Who Invented Missing You](https://open.spotify.com/album/0Jszj4lt4DFaf2Z5jbnjIm) | 3:19 | 2025-04-02 | 2025-04-10 |
+| [Who Loves](https://open.spotify.com/track/1ZJTrzjV4iAm2XejMTJvZN) | [Issac Mansfield](https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w) | [Who Loves](https://open.spotify.com/album/4fxw34zALhhysZxboTJBFF) | 2:24 | 2025-09-17 |  |
 | [Who You Are](https://open.spotify.com/track/7olFqYuOkisFHqudWw4pVZ) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Who You Are](https://open.spotify.com/album/7i8waz2ojMre9Ix47n1nGJ) | 3:56 | 2023-04-12 | 2023-04-15 |
 | [Who You Love](https://open.spotify.com/track/0hnuXO1RDcoIIZux7WSeol) | [Pelch](https://open.spotify.com/artist/1sJoi3cOOQf2J21k7K8FjV) | [Who You Love](https://open.spotify.com/album/7CZUUq2ULe9DohjVLctBlS) | 2:49 | 2023-03-29 | 2023-04-06 |
 | [Who's Gonna Hold You Tonight](https://open.spotify.com/track/4anoTM56qvfkXVdUiUmmSr) | [The Yves](https://open.spotify.com/artist/50CeFDCHW8eEwymrHFAeKL) | [Who's Gonna Hold You Tonight](https://open.spotify.com/album/0Ugwf7D4x4zpNwqPYhwcez) | 3:17 | 2022-03-16 | 2022-03-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Schmitty, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,480 likes - 160 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,520 likes - 160 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 10800,
+  "num_followers": 10811,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAAAWZ9cCWneA5Iu+Y7K48vqC",
+  "snapshot_id": "aMn6AAAAAACNIxPlU9n/q2xhSqezeOwc",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 193786,
+      "name": "sunday",
+      "url": "https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -151,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness (the beginnings)",
-        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 193786,
-      "name": "sunday",
-      "url": "https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "in defense of my own happiness",
         "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keeping The Light On",
-        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 223628,
-      "name": "Keeping The Light On",
-      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 196772,
       "name": "I Can't Make You Love Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Keeping The Light On",
+        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 223628,
+      "name": "Keeping The Light On",
+      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outer Banks: Season 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 242714,
-      "name": "Out on the Weekend",
-      "url": "https://open.spotify.com/track/6b9aVZxVnYtUIZD8oW9yS9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All My Time",
         "url": "https://open.spotify.com/album/4qeBLSYWpeGjrJzElRrhip"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 182068,
       "name": "All My Time",
       "url": "https://open.spotify.com/track/3uO6Mi35UGMVA6tHmBFusV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outer Banks: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 242714,
+      "name": "Out on the Weekend",
+      "url": "https://open.spotify.com/track/6b9aVZxVnYtUIZD8oW9yS9"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 237915,
-      "name": "QUESTIONS, CHAOS & FAITH",
-      "url": "https://open.spotify.com/track/1bHUfLczpJKKgyB5OKlBbE"
+      "duration_ms": 149500,
+      "name": "STRONG ONES",
+      "url": "https://open.spotify.com/track/2ZHO25QseXKr2ip1vuXvOg"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 149500,
-      "name": "STRONG ONES",
-      "url": "https://open.spotify.com/track/2ZHO25QseXKr2ip1vuXvOg"
+      "duration_ms": 237915,
+      "name": "QUESTIONS, CHAOS & FAITH",
+      "url": "https://open.spotify.com/track/1bHUfLczpJKKgyB5OKlBbE"
     },
     {
       "added_at": null,
@@ -727,18 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "May",
-        "url": "https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6"
+        "name": "Fortune Favors The Bold",
+        "url": "https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy"
       },
       "artists": [
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Tim Gent",
+          "url": "https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln"
         }
       ],
-      "duration_ms": 222228,
-      "name": "Stacy",
-      "url": "https://open.spotify.com/track/2nMvxqGTwM9aJAOYH0jSWD"
+      "duration_ms": 218164,
+      "name": "Fortune Favors The Bold",
+      "url": "https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH"
     },
     {
       "added_at": null,
@@ -759,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortune Favors The Bold",
-        "url": "https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy"
+        "name": "May",
+        "url": "https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6"
       },
       "artists": [
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Tim Gent",
-          "url": "https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln"
         }
       ],
-      "duration_ms": 218164,
-      "name": "Fortune Favors The Bold",
-      "url": "https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH"
+      "duration_ms": 222228,
+      "name": "Stacy",
+      "url": "https://open.spotify.com/track/2nMvxqGTwM9aJAOYH0jSWD"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nazareth",
-        "url": "https://open.spotify.com/album/1Ny7Q4HVVdo4fOA99DX4mM"
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/2LAq8CGSyEPEWDadcMmMRs"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 186514,
-      "name": "Nazareth",
-      "url": "https://open.spotify.com/track/3Jbv6IxhzJK3jthNIbKheI"
+      "duration_ms": 201856,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0VTJh1k8GwxCOdSHpcDe9s"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/2LAq8CGSyEPEWDadcMmMRs"
+        "name": "Nazareth",
+        "url": "https://open.spotify.com/album/1Ny7Q4HVVdo4fOA99DX4mM"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 201856,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/0VTJh1k8GwxCOdSHpcDe9s"
+      "duration_ms": 186514,
+      "name": "Nazareth",
+      "url": "https://open.spotify.com/track/3Jbv6IxhzJK3jthNIbKheI"
     },
     {
       "added_at": null,

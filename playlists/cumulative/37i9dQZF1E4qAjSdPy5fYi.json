@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With STYXVII, UrvTek, Joshua Lanuarii and more",
+  "description": "With STYXVII, Joshua Lanuarii, UrvTek and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 153575,
       "name": "AlterHuman",
       "url": "https://open.spotify.com/track/5iFc7qq3RJDAvyGSHFm27Z"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 132359,
       "name": "destruction",
       "url": "https://open.spotify.com/track/6IP1eZ0wac2kgEKPDDH3Ro"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 175609,
       "name": "Digital Hell (KinitoPET Song)",
       "url": "https://open.spotify.com/track/2Ydn79hWyJuzElWRk0sO0Z"
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 152423,
       "name": "Ena MIX (Allergic to People MIX)",
       "url": "https://open.spotify.com/track/34jDexIVNRb3E12CMkQwlZ"
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 177679,
       "name": "Fox Paws",
       "url": "https://open.spotify.com/track/7tiPt81dGVuX14yNVe8cvT"
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 105000,
       "name": "GEOCITIES",
       "url": "https://open.spotify.com/track/2LN7XWSdbzI5G5H00KT08I"
@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 201951,
       "name": "I Need Coffee - Remix",
       "url": "https://open.spotify.com/track/10hQaGJs4fnENxawWcwkPL"
@@ -2082,7 +2082,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 133114,
       "name": "ICE CREAM PARTY",
       "url": "https://open.spotify.com/track/3SvmZCUGalhWSHFaNVOkhn"
@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 99596,
       "name": "IDK",
       "url": "https://open.spotify.com/track/0SF9NvnC6FIxeePYEMD93k"
@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 162522,
       "name": "kinky murder machine",
       "url": "https://open.spotify.com/track/2nCCr0d2xX2eBhlgnKa2t8"
@@ -2446,7 +2446,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "KNOT SONG",
       "url": "https://open.spotify.com/track/1vxuF4XwRtYBkUgWa8Ukub"
@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "LESBIAN PONIES WITH WEAPONS",
       "url": "https://open.spotify.com/track/3fqzrSXBp4mynyuU5cR6p1"
@@ -2906,7 +2906,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 144003,
       "name": "My Puppy Song",
       "url": "https://open.spotify.com/track/58vztARV09BWQbsOX2PTsg"
@@ -3484,7 +3484,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 85500,
       "name": "PUPPY TF",
       "url": "https://open.spotify.com/track/7Mf4WiQGRUBhWhDjiYjbLt"
@@ -3542,6 +3542,24 @@
       "duration_ms": 202000,
       "name": "re:ARRANGEMENT",
       "url": "https://open.spotify.com/track/13F6tG0As0WV4fSx6WX9NP"
+    },
+    {
+      "album": {
+        "name": "Redmageddon",
+        "url": "https://open.spotify.com/album/0eU7Ed2oBH1qicPKnsulOC"
+      },
+      "artists": [
+        {
+          "name": "Sodikken",
+          "url": "https://open.spotify.com/artist/1MUV2xrrCkG9mhZyVUDGEy"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334620,
+      "name": "Redmageddon",
+      "url": "https://open.spotify.com/track/6X9cEJrEJIlMq317Td3S8L"
     },
     {
       "album": {
@@ -3614,7 +3632,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 194693,
       "name": "rose tints",
       "url": "https://open.spotify.com/track/5PcC91JT46zbmpSXO4htwO"
@@ -3964,7 +3982,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 129363,
       "name": "SYNONYM FOR POISON",
       "url": "https://open.spotify.com/track/6RkjRS8KxVFplXRdhdSy2V"
@@ -4120,7 +4138,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 135529,
       "name": "The Ultimate Swag",
       "url": "https://open.spotify.com/track/3m5UPxagPp7T6hA7Kh7Iil"

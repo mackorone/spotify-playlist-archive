@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162418,
+  "num_followers": 162434,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAADZfbrzzJlc300uIY3GKvpb",
+  "snapshot_id": "aMn6AAAAAADOjSj82d2U4w6sbztfiN3m",
   "tracks": [
     {
       "added_at": null,
@@ -599,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia 2",
-        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+        "name": "Luz da Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/7gzYiyJJ7RygmVDgoUgqGN"
       },
       "artists": [
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 189939,
-      "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
-      "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
+      "duration_ms": 311515,
+      "name": "Luz da Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/2fJvFgq7mr90PSXV0vuZhq"
     },
     {
       "added_at": null,
@@ -631,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luz da Esperan\u00e7a",
-        "url": "https://open.spotify.com/album/7gzYiyJJ7RygmVDgoUgqGN"
+        "name": "Aline Barros e Cia 2",
+        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
       },
       "artists": [
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 311515,
-      "name": "Luz da Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/2fJvFgq7mr90PSXV0vuZhq"
+      "duration_ms": 189939,
+      "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
+      "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Minha Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 307250,
+      "name": "Refinador (Refiner)",
+      "url": "https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Santo (HLY FOREVER)",
         "url": "https://open.spotify.com/album/0CxDtqsBJbpiofMCp6MWtf"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 166803,
       "name": "Santo (HLY FOREVER)",
       "url": "https://open.spotify.com/track/6XBH2c7HSzkWGgr5OkziXm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minha Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 307250,
-      "name": "Refinador (Refiner)",
-      "url": "https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR"
     },
     {
       "added_at": null,

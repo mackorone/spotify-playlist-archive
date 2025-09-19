@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124970,
+  "num_followers": 124974,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUlvk8Hw67kmifBuAZX0w12YM9ZJAP",
+  "snapshot_id": "AAAUmJxzMRhjofDLJfJqsRI3gHbxQfmk",
   "tracks": [
+    {
+      "added_at": "2025-09-18 14:46:25",
+      "album": {
+        "name": "Shangri-La",
+        "url": "https://open.spotify.com/album/2lSaIwhi64HvrBBxX9JsMV"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Shangri-La",
+      "url": "https://open.spotify.com/track/53OW7YksYVzJIWjQGYc4xI"
+    },
     {
       "added_at": "2025-09-17 14:01:41",
       "album": {
@@ -1119,158 +1135,6 @@
       "duration_ms": 197142,
       "name": "Stop Drop Roll",
       "url": "https://open.spotify.com/track/6g7z70RaH57ZUbYz32ITKy"
-    },
-    {
-      "added_at": "2025-06-27 14:38:02",
-      "album": {
-        "name": "Canvas",
-        "url": "https://open.spotify.com/album/2KFNPVSYpmgbUi7GWnTWRv"
-      },
-      "artists": [
-        {
-          "name": "Paper Skies",
-          "url": "https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA"
-        }
-      ],
-      "duration_ms": 127448,
-      "name": "Canvas",
-      "url": "https://open.spotify.com/track/5emVaZ8lh03pO2CGT3doLa"
-    },
-    {
-      "added_at": "2025-06-26 13:23:44",
-      "album": {
-        "name": "never mine",
-        "url": "https://open.spotify.com/album/4M3yKgmuuIRtstbx40GJel"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "BKAYE",
-          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
-        }
-      ],
-      "duration_ms": 170909,
-      "name": "never mine",
-      "url": "https://open.spotify.com/track/1fNFVjK6tIpDNwUA0QucXI"
-    },
-    {
-      "added_at": "2025-06-25 14:05:14",
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/6xOIqG0yH0Ejwg6wROcPDc"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "WELON",
-          "url": "https://open.spotify.com/artist/0fegs2UgMTsicSZ00z3HJQ"
-        }
-      ],
-      "duration_ms": 182291,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/6ZcnuLd0mWgqseSnxTFMRF"
-    },
-    {
-      "added_at": "2025-06-24 14:53:26",
-      "album": {
-        "name": "Can You",
-        "url": "https://open.spotify.com/album/5mCqlZt0A5PjgtmFd82dHV"
-      },
-      "artists": [
-        {
-          "name": "MXV",
-          "url": "https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG"
-        },
-        {
-          "name": "Courtney Storm",
-          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Can You",
-      "url": "https://open.spotify.com/track/1IViMQ0Ifl0N9Gbkwdifso"
-    },
-    {
-      "added_at": "2025-06-23 13:45:09",
-      "album": {
-        "name": "BUSTED",
-        "url": "https://open.spotify.com/album/0j1YfLra3m8CJCRvPhVcql"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        },
-        {
-          "name": "Teminite",
-          "url": "https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF"
-        },
-        {
-          "name": "Boom Kitty",
-          "url": "https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR"
-        }
-      ],
-      "duration_ms": 142615,
-      "name": "BUSTED",
-      "url": "https://open.spotify.com/track/49mT4saNKf5BskrD7Bwrw9"
-    },
-    {
-      "added_at": "2025-06-20 13:53:33",
-      "album": {
-        "name": "Pretty Race Girl",
-        "url": "https://open.spotify.com/album/69AaJSfAe4CSBfHCiDA0Og"
-      },
-      "artists": [
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        },
-        {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
-        }
-      ],
-      "duration_ms": 199300,
-      "name": "Distant Dreams",
-      "url": "https://open.spotify.com/track/2o6nImD3OPpIoeDLOleeX8"
-    },
-    {
-      "added_at": "2025-06-20 13:52:57",
-      "album": {
-        "name": "Not Alone",
-        "url": "https://open.spotify.com/album/56BxdRTc1g4MEO0Tqx0vLZ"
-      },
-      "artists": [
-        {
-          "name": "Egzod",
-          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Not Alone",
-      "url": "https://open.spotify.com/track/1P1ffwyNHcTVNisfPj7VZd"
-    },
-    {
-      "added_at": "2025-06-18 15:06:13",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/664k9hObMi2CQ7cCnV88FO"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Principle",
-          "url": "https://open.spotify.com/artist/6ldZGvFDjs6KafLouTBHJ9"
-        }
-      ],
-      "duration_ms": 206102,
-      "name": "Breathing Underwater - VIP",
-      "url": "https://open.spotify.com/track/5zFkF9JXxS8tlRA7Gyfl2L"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

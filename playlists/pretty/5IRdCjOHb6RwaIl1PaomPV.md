@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from ATRIP, Major Lazer and ear, plus the latest cuts from Bennett Coast, inter alia, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,805 likes - 100 songs - 5 hr 42 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,803 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 8 | [MOJADO Y MOJADA](https://open.spotify.com/track/3hcH3hBbyifKpMMiKeUXk3) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [MOJADO Y MOJADA](https://open.spotify.com/album/7MWjI3eBgqZDIaTs4ghGXH) | 3:04 |
 | 9 | [red mustang](https://open.spotify.com/track/7GCIBsR9AaK0zMvzhhGcvV) | [ALCATRAZ](https://open.spotify.com/artist/1HLQrKy2EhoJdADW105gfR) | [red mustang](https://open.spotify.com/album/5zBq50aMfduBmJFZ5QqCLV) | 2:20 |
 | 10 | [Eteus \- K\-LONE Remix](https://open.spotify.com/track/6W3KgMPghnxvOk9ROfezYo) | [not even noticed](https://open.spotify.com/artist/2pAV7s3FEruu2LJW6JQGFo), [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Eteus \(K\-LONE Remix\)](https://open.spotify.com/album/2NqXnPgLi8w4kzJrs257hw) | 3:28 |
-| 11 | [Joker](https://open.spotify.com/track/6FmaQ1FesE0j6Au0Kh9LOb) | [Joon Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Joker](https://open.spotify.com/album/6vndf1r9x2NuLwgo5ItjdG) | 3:21 |
+| 11 | [Joker](https://open.spotify.com/track/6FmaQ1FesE0j6Au0Kh9LOb) | [Ms\* Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Joker](https://open.spotify.com/album/6vndf1r9x2NuLwgo5ItjdG) | 3:21 |
 | 12 | [musica electronica](https://open.spotify.com/track/259kNeFoQp9TyTZdDBBznX) | [yaego](https://open.spotify.com/artist/3F5cNbKjtYHvv43yu5BhKp) | [ÆRO](https://open.spotify.com/album/61vLkSuJkjpk692UHjAgMW) | 3:01 |
 | 13 | [STILLETTO PUMPS IN THE POOL](https://open.spotify.com/track/0BF6uBRfBi5MtfvSJVMidl) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v), [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [STRAWBERRY LEMONADE](https://open.spotify.com/album/4pWoMdeKkPNZVoZouJCtDm) | 3:08 |
 | 14 | [angel candles](https://open.spotify.com/track/7cl1kr7pqaXdDov0lf6cQq) | [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr), [notinbed](https://open.spotify.com/artist/0e7T2sPaxQSpePLh4AhMg8) | [angel candles](https://open.spotify.com/album/5nVv2lLlDlzEREyU2wnTiZ) | 2:09 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 50 | [Putita Boutique \(I Love Music\) \- Remixed by EQ](https://open.spotify.com/track/0eqoM9dLPwamCnp76z6kry) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [EQ](https://open.spotify.com/artist/1B8ycQsEGw3fUTkzWs5kFD) | [Putita Boutique \(I Love Music\) \[Remixed by EQ\]](https://open.spotify.com/album/5MeBaaOsbTDzPq9pDsa5b8) | 3:44 |
 | 51 | [Stateside](https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z) | 2:48 |
 | 52 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 |
-| 53 | [Something To Hold Onto \- Harder](https://open.spotify.com/track/3t77ihcEQU1Emc7NX89neB) | [Joon Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Something To Hold Onto](https://open.spotify.com/album/3Ex9hBObTirTVPShhmUQfD) | 2:49 |
+| 53 | [Something To Hold Onto \- Harder](https://open.spotify.com/track/3t77ihcEQU1Emc7NX89neB) | [Ms\* Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Something To Hold Onto](https://open.spotify.com/album/3Ex9hBObTirTVPShhmUQfD) | 2:49 |
 | 54 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 |
 | 55 | [Buurman Uit Berlijn](https://open.spotify.com/track/5lE64uyiHhhSwS01VI4pV6) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Buurman Uit Berlijn](https://open.spotify.com/album/7kzvFxJhbI6deTcwJjSYOE) | 4:45 |
 | 56 | [destroy me](https://open.spotify.com/track/2GhvoJajHIXxWK4vtPWkqN) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:43 |

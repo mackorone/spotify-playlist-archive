@@ -1101,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "LA LLAVE",
+        "url": "https://open.spotify.com/album/52U5V49ea5yNLX86XJZU4Y"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206586,
+      "name": "lib\u00e9lulas",
+      "url": "https://open.spotify.com/track/2bXk4TfEqWsxBNh1orU0gB"
+    },
+    {
+      "album": {
         "name": "lib\u00e9lulas",
         "url": "https://open.spotify.com/album/2Rqv4WMkgKGmzZlkFE3o3e"
       },
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 213249,
       "name": "Muriendo de Miedo",
       "url": "https://open.spotify.com/track/2bT6v6frik0lLBlFNbv1uT"

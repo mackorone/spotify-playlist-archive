@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 199249,
       "name": "4 Love",
       "url": "https://open.spotify.com/track/0UwZVuAG2Hfi50U08Bk3R6"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 469823,
       "name": "All Powerful",
       "url": "https://open.spotify.com/track/3ajMxkGIalFItWrXuEf9YS"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 309577,
       "name": "All Yours",
       "url": "https://open.spotify.com/track/0yZpq2QPTsVqs6sSbOhtpe"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 198929,
       "name": "Amen",
       "url": "https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 545470,
       "name": "ATOFARATI",
       "url": "https://open.spotify.com/track/5JJCORb7DGLOUpPxCcNCwi"
@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 320000,
       "name": "Elshaddai",
       "url": "https://open.spotify.com/track/0cgMhBiowzRrrtDKl8KW7I"
@@ -2682,7 +2682,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 336600,
       "name": "Esandleni",
       "url": "https://open.spotify.com/track/7LTDINonhUaOiWTyN3AxCI"
@@ -2990,7 +2990,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 417624,
       "name": "Father",
       "url": "https://open.spotify.com/track/1Y0hXpUG2enh3D9CwlD55R"
@@ -3228,7 +3228,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 324375,
       "name": "Follow the Lamb",
       "url": "https://open.spotify.com/track/2K6opDsFVe9w9YHhIczSGk"
@@ -4888,7 +4888,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-17",
+      "date_removed": null,
       "duration_ms": 351666,
       "name": "Holy Spirit",
       "url": "https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9"
@@ -5077,6 +5077,28 @@
     },
     {
       "album": {
+        "name": "How Great You Are",
+        "url": "https://open.spotify.com/album/0jJ8AgkTxfZIyJIVyrdMkc"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ojo",
+          "url": "https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r"
+        },
+        {
+          "name": "Prospa Ochimana",
+          "url": "https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318620,
+      "name": "How Great You Are",
+      "url": "https://open.spotify.com/track/2uNdZjm6wWzLap2asj1f1S"
+    },
+    {
+      "album": {
         "name": "Human Like Me",
         "url": "https://open.spotify.com/album/1BiuLtFDlAGpjfAClQtTqp"
       },
@@ -5262,7 +5284,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 546156,
       "name": "I Get Backing",
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
@@ -6334,7 +6356,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 817168,
       "name": "Jesu - Live",
       "url": "https://open.spotify.com/track/4RyKKCSQOyuiiIY2t5dEgN"
@@ -6901,6 +6923,28 @@
     },
     {
       "album": {
+        "name": "Lomhlengi / Uvukile (Live)",
+        "url": "https://open.spotify.com/album/2hqvjazkKC4aQLYDkhZFv5"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Dumi Mkokstad",
+          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 703440,
+      "name": "Lomhlengi / Uvukile (Live)",
+      "url": "https://open.spotify.com/track/1Sh5lTwJdEkcZEVGGYTi8O"
+    },
+    {
+      "album": {
         "name": "The EXILE",
         "url": "https://open.spotify.com/album/3Z5eTl8JjXIWoMx3M8GRsN"
       },
@@ -7240,7 +7284,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 1005560,
       "name": "Mercy - Live",
       "url": "https://open.spotify.com/track/5j3fJAxQp4gQ53xOPRnzvA"
@@ -7618,7 +7662,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 381041,
       "name": "Moyo Wanga",
       "url": "https://open.spotify.com/track/3mYapvHCLZ9udtGPiQfSyU"
@@ -8142,7 +8186,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 648235,
       "name": "New Generation",
       "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
@@ -8416,7 +8460,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 361389,
       "name": "None Like You Lord",
       "url": "https://open.spotify.com/track/4C1j4hhESWONgyhe52Bwpc"
@@ -10224,7 +10268,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 358501,
       "name": "Shake The Ground",
       "url": "https://open.spotify.com/track/3Gfi0d2EJT1S6f3U72eQuL"
@@ -10436,7 +10480,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 198000,
       "name": "So Good",
       "url": "https://open.spotify.com/track/3qggW9kMBkT34jXDHzEv6e"
@@ -10746,7 +10790,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 390000,
       "name": "Sweetest Name - Orchestra version",
       "url": "https://open.spotify.com/track/7dFy3NrLZd5gniYLhsLocb"
@@ -10808,7 +10852,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 405857,
       "name": "TAKE IT ALL",
       "url": "https://open.spotify.com/track/3Qlxhas8BdpZ7Swqiquvk9"
@@ -11398,7 +11442,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 230931,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP"
@@ -11566,6 +11610,24 @@
       "duration_ms": 589875,
       "name": "Thixo Wamadinga Ethu (Live)",
       "url": "https://open.spotify.com/track/67NHjEvUTfqyKqNZF0tSMh"
+    },
+    {
+      "album": {
+        "name": "To The Deep",
+        "url": "https://open.spotify.com/album/7J71uUsQrCrUY2rPo28z33"
+      },
+      "artists": [
+        {
+          "name": "CRC Music",
+          "url": "https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349691,
+      "name": "To The Deep",
+      "url": "https://open.spotify.com/track/5r9q9MzeexXef7visJl9LL"
     },
     {
       "album": {
@@ -12916,7 +12978,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 574838,
       "name": "Yahweh (Godiya Gareka)",
       "url": "https://open.spotify.com/track/5denxHwiQxVrZSANjsDh8C"
@@ -13100,7 +13162,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 349973,
       "name": "Yesu Wena UnguMhlobo - Live",
       "url": "https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa"

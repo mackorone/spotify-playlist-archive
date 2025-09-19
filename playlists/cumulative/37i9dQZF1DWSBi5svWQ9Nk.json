@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De 50 grootste hits in NL. Cover: Bente",
+  "description": "De 50 grootste hits in NL. Cover: Bilal Wahib",
   "name": "Hot Hits NL",
   "tracks": [
     {
@@ -1347,6 +1347,28 @@
     },
     {
       "album": {
+        "name": "Blijf Dan Hier (feat. Danique)",
+        "url": "https://open.spotify.com/album/5tIDCaNRuNQW39P0hbPUMv"
+      },
+      "artists": [
+        {
+          "name": "Ruben Annink",
+          "url": "https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ"
+        },
+        {
+          "name": "Danique",
+          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134857,
+      "name": "Blijf Dan Hier (feat. Danique)",
+      "url": "https://open.spotify.com/track/0ZlOCk6sjUpJkMcFNszlmo"
+    },
+    {
+      "album": {
         "name": "Blind Op Zoek (Trapagas)",
         "url": "https://open.spotify.com/album/44ODNi0Z8Bh70aourII7wk"
       },
@@ -2668,7 +2690,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 136406,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK"
@@ -3954,6 +3976,32 @@
       "duration_ms": 186043,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
+    },
+    {
+      "album": {
+        "name": "Helaas",
+        "url": "https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx"
+      },
+      "artists": [
+        {
+          "name": "Langa",
+          "url": "https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        },
+        {
+          "name": "Rijck",
+          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Helaas",
+      "url": "https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5"
     },
     {
       "album": {
@@ -5688,7 +5736,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 146727,
       "name": "Lotje - Lil Kleine Remix",
       "url": "https://open.spotify.com/track/7ps3LdQn8lKdaa2sbIKFTR"
@@ -5928,6 +5976,24 @@
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
       "album": {
@@ -6248,7 +6314,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 147367,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB"

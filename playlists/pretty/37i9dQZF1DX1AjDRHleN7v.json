@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 392296,
+  "num_followers": 392380,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -311,26 +311,6 @@
     {
       "added_at": "2025-09-12 17:34:26",
       "album": {
-        "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
-        "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
-      },
-      "artists": [
-        {
-          "name": "Gabriel O Pensador",
-          "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
-        },
-        {
-          "name": "Armandinho",
-          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
-        }
-      ],
-      "duration_ms": 185295,
-      "name": "Liberdade",
-      "url": "https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ"
-    },
-    {
-      "added_at": "2025-09-12 17:34:26",
-      "album": {
         "name": "O Mundo Diz Que N\u00e3o",
         "url": "https://open.spotify.com/album/7kZ5JyVWYTLnCt0nwvs3Gi"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 193411,
       "name": "O Mundo Diz Que N\u00e3o",
       "url": "https://open.spotify.com/track/4fGBndf26VOuEwcrQ7Cd7u"
+    },
+    {
+      "added_at": "2025-09-12 17:34:26",
+      "album": {
+        "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
+        "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
+      },
+      "artists": [
+        {
+          "name": "Gabriel O Pensador",
+          "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
+        },
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "duration_ms": 185295,
+      "name": "Liberdade",
+      "url": "https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ"
     },
     {
       "added_at": "2025-09-12 17:34:26",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-09-12 17:34:26",
       "album": {
-        "name": "Que Seja de Alegria",
-        "url": "https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 174853,
-      "name": "Que Seja de Alegria",
-      "url": "https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP"
-    },
-    {
-      "added_at": "2025-09-12 17:34:26",
-      "album": {
         "name": "Encantos Mil",
         "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 168637,
       "name": "Encantos Mil",
       "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
+    },
+    {
+      "added_at": "2025-09-12 17:34:26",
+      "album": {
+        "name": "Que Seja de Alegria",
+        "url": "https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 174853,
+      "name": "Que Seja de Alegria",
+      "url": "https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP"
     },
     {
       "added_at": "2025-09-12 17:34:26",

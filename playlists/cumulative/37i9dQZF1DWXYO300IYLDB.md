@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-540 songs - 1 day 8 hr 6 min
+542 songs - 1 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [i get high](https://open.spotify.com/track/00P85t1fMCdWweMrVvAsU3) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [i get high](https://open.spotify.com/album/6Gz2a2ybIh06fzk2pNU7Fe) | 2:04 | 2022-10-20 | 2022-12-14 |
 | [i heart the internet](https://open.spotify.com/track/5NzIkBzG0MFVjpzSsgUhY0) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [i heart the internet](https://open.spotify.com/album/3Bg7PLOLItNpz7OajqkVDk) | 3:15 | 2023-04-25 | 2023-05-03 |
 | [I Hold Something In My Hand](https://open.spotify.com/track/2BUu1OUVCYGDXyDEF0dQhF) | [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4) | [I Hold Something In My Hand](https://open.spotify.com/album/5kqUxXj0Zwf0V5XIpUEtf6) | 3:04 | 2024-01-11 | 2024-01-26 |
+| [I Know \(A Little\)](https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [I Know \(A Little\)](https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E) | 3:40 | 2025-09-18 |  |
 | [I like me better](https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I like me better](https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz) | 3:12 | 2022-10-20 | 2022-12-14 |
 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2022-11-24 | 2023-04-14 |
 | [I Love You So \- Acoustic](https://open.spotify.com/track/5cjagrNaegv6IQZKflkPTf) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So \(Acoustic\)](https://open.spotify.com/album/5WU3xyxDUz9pSjBg8h6cYU) | 2:27 | 2022-10-20 | 2024-11-08 |
@@ -222,6 +223,7 @@
 | [In A Perfect World \(with Julia Michaels\) \- Acoustic](https://open.spotify.com/track/1Dw3ZSgoBZANlxWbebQjvf) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [In A Perfect World \(with Julia Michaels\) \[Acoustic\]](https://open.spotify.com/album/0OujFpzd6JMeFnJWLtVhSK) | 3:12 | 2023-08-10 | 2023-12-22 |
 | [In My Life](https://open.spotify.com/track/625ZpDbngDHqNgjoGiCgBp) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [Architect \(Deluxe\)](https://open.spotify.com/album/4tKIQtoOiJDj2mRonGNOcv) | 2:40 | 2022-12-13 | 2023-01-20 |
 | [Inconvenient](https://open.spotify.com/track/05Wkpex2HSIKXopQ9MI582) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Inconvenient](https://open.spotify.com/album/7DQTWo1YTY0fT61EvzjOfB) | 2:20 | 2023-01-26 | 2023-04-14 |
+| [Inefficient Love](https://open.spotify.com/track/5Bf91qvflBGAAyCChcvO8o) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Inefficient Love](https://open.spotify.com/album/3nrboAgmwjsaYkhhubeX2c) | 3:43 | 2025-09-18 |  |
 | [Is It Real? \(feat\. Salena Mastroianni\) \- Acoustic](https://open.spotify.com/track/4nSzmDBXKSqzw7MySbv5pU) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Simon Field](https://open.spotify.com/artist/2S0tj8IQ2ytFKa5HdCni57), [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1), [Salena Mastroianni](https://open.spotify.com/artist/0X9HZbVBzUgugjKVgrYk6W) | [Is It Real? \(feat\. Salena Mastroianni\)](https://open.spotify.com/album/1vBlvh8xYucADAfrBNYrPM) | 3:35 | 2022-10-20 | 2022-11-02 |
 | [It Don't Matter](https://open.spotify.com/track/2UjGyCvayHjGihV3oLhD8a) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Donavon Frankenreiter](https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG) | 3:06 | 2024-03-07 | 2025-07-11 |
 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 | 2025-01-23 |  |
@@ -334,7 +336,7 @@
 | [Pool](https://open.spotify.com/track/1ZP4Qxb7USL3EezbxfpOVF) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pool](https://open.spotify.com/album/3rDZy3Mdl38XtftACWXL5c) | 3:43 | 2024-11-07 | 2025-07-11 |
 | [Post Office](https://open.spotify.com/track/29IrCfWN8k476jCSB7co47) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Post Office](https://open.spotify.com/album/0hiQvelIfblqRE2VOwSBKX) | 3:30 | 2023-11-14 | 2024-01-14 |
 | [Potion](https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Potion](https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17) | 2:47 | 2025-04-03 |  |
-| [Pride Trials](https://open.spotify.com/track/08VscSYLkddGfTMNIDpYrl) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Pride Trials](https://open.spotify.com/album/7gE2klwdGjX4kBA1rNUBaZ) | 4:14 | 2024-11-28 |  |
+| [Pride Trials](https://open.spotify.com/track/08VscSYLkddGfTMNIDpYrl) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Pride Trials](https://open.spotify.com/album/7gE2klwdGjX4kBA1rNUBaZ) | 4:14 | 2024-11-28 | 2025-09-19 |
 | [Pure Shores](https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP) | [Colder Shoulders](https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291) | [Pure Shores](https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU) | 3:19 | 2025-07-10 |  |
 | [Purple Rain \- Acoustic](https://open.spotify.com/track/1fjkAaYIIIn7dOxeln1NO1) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Purple Rain \(Acoustic\)](https://open.spotify.com/album/0PQzIMtIL8scwxiOXXap00) | 2:34 | 2023-02-16 | 2023-09-29 |
 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2023-04-13 | 2024-05-09 |
@@ -495,7 +497,7 @@
 | [You Could Start A Cult \- Live from Spotify Studios](https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Live from Spotify Studios](https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh) | 2:56 | 2024-02-13 | 2025-02-07 |
 | [Your House My House](https://open.spotify.com/track/0FBvAV5khV9zgmPm71VjQS) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Love You](https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA) | 2:17 | 2023-11-14 | 2024-02-28 |
 | [Your Song \- Bonus Track](https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights \(Lights Re\-pack / Bonus Version\)](https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V) | 3:11 | 2023-03-14 | 2024-01-03 |
-| [あの日のままのぼくら](https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [カーニバルの夢](https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48) | 3:14 | 2025-07-10 |  |
+| [あの日のままのぼくら](https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [カーニバルの夢](https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48) | 3:14 | 2025-07-10 | 2025-09-19 |
 | [いつものこと](https://open.spotify.com/track/2dguw4nUUpg0Lxu9pd2w3L) | [小野雄大](https://open.spotify.com/artist/0e20MJY2rEAHyJN6CNBkzr) | [いつものこと](https://open.spotify.com/album/3Vb5JKrWeF9pGhSIHmCcmO) | 4:00 | 2024-02-06 | 2024-11-08 |
 | [きみといっしょ](https://open.spotify.com/track/5fEF7RXefUrSj6cHI2RFMX) | [宗藤竜太](https://open.spotify.com/artist/0SbD2ebnqKRmC6FrmC8VHS) | [きみといっしょ](https://open.spotify.com/album/1OhwpPbEkZToBKMzKKasb4) | 3:27 | 2024-02-20 | 2024-03-08 |
 | [さいなら](https://open.spotify.com/track/647oMB0in42klUaC4cDcFI) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [さいなら](https://open.spotify.com/album/6GlJfGrISS0My3OtiunCH7) | 2:39 | 2025-03-20 | 2025-04-04 |

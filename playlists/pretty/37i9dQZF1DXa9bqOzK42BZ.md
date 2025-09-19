@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO?si=fqM7FOF0TyGe\_Q8OgNmSqA">Walter Chilambo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,829 likes - 100 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,865 likes - 100 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 99 | [Msaada](https://open.spotify.com/track/3QxGvXzFz43WkhdhwOXDGY) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL), [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Msaada](https://open.spotify.com/album/0JfHXADJpWRHgHB1XPg1k1) | 4:04 |
 | 100 | [Rien](https://open.spotify.com/track/4xUgJ7IlDRhCEbjZwPaZS3) | [Sarah Kalume](https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa) | [Rien](https://open.spotify.com/album/0VZTt4X6pRWrWplWtTnucU) | 3:53 |
 
-Snapshot ID: `AAAAAK5huw3MCntqsTTDkM9divZ671i7`
+Snapshot ID: `AAAAANvHATHbFPEd91Lz0xRc45EPUzVr`

@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-868 songs - 1 day 22 hr 38 min
+869 songs - 1 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -822,6 +822,7 @@
 | [WALKING HOME IN THE RAIN](https://open.spotify.com/track/0BLIUPUMVrWbu7QtLWdeNn) | [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [I'M DOING IT](https://open.spotify.com/album/2wa7MjKQNL9TQX3GDMuG7t) | 2:43 | 2020-07-31 | 2025-07-17 |
 | [waltz](https://open.spotify.com/track/0WxQXx1MwC6LpIzEGZiQSE) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [waltz](https://open.spotify.com/album/48Ry2sdfkU5r4SHmaP9olC) | 2:43 | 2025-04-11 |  |
 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 4:07 | 2020-10-16 | 2025-07-17 |
+| [Want You Back](https://open.spotify.com/track/47ZgtovCo5c8I5QqAtXKiy) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Want You Back](https://open.spotify.com/album/0E5rDybP5sO4st8biXaOo3) | 3:03 | 2025-09-19 |  |
 | [War In Your Arms](https://open.spotify.com/track/6j7ECfEZNlJFKzSTGavsE6) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [War In Your Arms](https://open.spotify.com/album/7h6f4SBKM7yosSAHR7eZf3) | 3:33 | 2021-05-08 | 2025-07-17 |
 | [War Is Love](https://open.spotify.com/track/786Lp156fjnJQOW6OxGre1) | [BOBI ANDONOV](https://open.spotify.com/artist/5EXfqUleFQVrNrQIDpuAxy) | [War Is Love](https://open.spotify.com/album/3LrEoKNF8CswuzeE2FcGxu) | 4:00 | 2023-04-21 | 2025-07-17 |
 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 | 2022-08-19 | 2025-08-27 |

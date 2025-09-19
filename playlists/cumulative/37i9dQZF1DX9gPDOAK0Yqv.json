@@ -2177,6 +2177,28 @@
     },
     {
       "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/2krYmufLCUlSPkDOerynF8"
+      },
+      "artists": [
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        },
+        {
+          "name": "Paradoks",
+          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200314,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/3Y1ivgzPagSbzOPbwJ3Zow"
+    },
+    {
+      "album": {
         "name": "Coda Sublim\u00e9",
         "url": "https://open.spotify.com/album/74UAUYeWx2WdIFGBABUUV7"
       },
@@ -2188,7 +2210,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 228750,
       "name": "Coda Sublim\u00e9",
       "url": "https://open.spotify.com/track/3GZlAb8u7JtNyYakicY5C8"
@@ -2236,7 +2258,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 229047,
       "name": "Collide",
       "url": "https://open.spotify.com/track/4PaBwFv5dmdOcgMlWXPFjb"
@@ -3566,7 +3588,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 234044,
       "name": "Dreams Of Life",
       "url": "https://open.spotify.com/track/0KO6KAiYcwjEltbZASdXmX"
@@ -4878,7 +4900,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 175024,
       "name": "Flight",
       "url": "https://open.spotify.com/track/13lTWHUyO1s1wYHKRz63Ap"
@@ -5050,7 +5072,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 258545,
       "name": "Forget",
       "url": "https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r"
@@ -5410,7 +5432,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 402818,
       "name": "Ghosts Again - Massano Remix",
       "url": "https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC"
@@ -5454,6 +5476,28 @@
       "duration_ms": 184477,
       "name": "girl$ - Layton Giordani Remix",
       "url": "https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz"
+    },
+    {
+      "album": {
+        "name": "Girls MIA",
+        "url": "https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133848,
+      "name": "Girls MIA",
+      "url": "https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q"
     },
     {
       "album": {
@@ -5684,7 +5728,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 294794,
       "name": "Gran Turismo",
       "url": "https://open.spotify.com/track/59JhHycPF88Xuor4zIV5Hk"
@@ -7408,7 +7452,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 171700,
       "name": "Just Getting Started",
       "url": "https://open.spotify.com/track/7557mBgUqoA7ydrmBnztEI"
@@ -7658,6 +7702,24 @@
       "duration_ms": 334615,
       "name": "Killa",
       "url": "https://open.spotify.com/track/4xKkpbUcrVoYrIXu7Xgzo9"
+    },
+    {
+      "album": {
+        "name": "Koko",
+        "url": "https://open.spotify.com/album/4wcfyp6Jo32SXCSyPZwqaH"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "Koko",
+      "url": "https://open.spotify.com/track/39tgmvIqDuQYlpvGEIyRMf"
     },
     {
       "album": {
@@ -8384,7 +8446,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 212883,
       "name": "Long Way Down",
       "url": "https://open.spotify.com/track/6wvNaK8x00PJVI81LAp1ry"
@@ -8876,7 +8938,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 206013,
       "name": "Maze",
       "url": "https://open.spotify.com/track/0nODCiPKcbPj6rfNVOkEIR"
@@ -8982,7 +9044,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 194159,
       "name": "Memory Leak",
       "url": "https://open.spotify.com/track/21KmD4GGubAmJnZFwRsHCG"
@@ -11379,6 +11441,50 @@
     },
     {
       "album": {
+        "name": "RACER",
+        "url": "https://open.spotify.com/album/6geBfBpOE48ZMYCMs8FD3b"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144960,
+      "name": "RACER",
+      "url": "https://open.spotify.com/track/7IqrsY0SHIDdWgIJMIUzpZ"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198190,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/5UzmK3aMmpW9X1pKjRdrMi"
+    },
+    {
+      "album": {
         "name": "Rakata",
         "url": "https://open.spotify.com/album/7F0WozSMvzB7hPFTwq6KD4"
       },
@@ -11452,7 +11558,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 241953,
       "name": "Ray Of Sun",
       "url": "https://open.spotify.com/track/0tthM9vyDpMoyWcz0y0Usb"
@@ -12392,7 +12498,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 178593,
       "name": "Seduce Me",
       "url": "https://open.spotify.com/track/61JfaqJKJ47a3tXnNdSunz"
@@ -12498,6 +12604,28 @@
       "duration_ms": 192626,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/5jRtRJNZuWMU7RCipIoNPh"
+    },
+    {
+      "album": {
+        "name": "SexyBack",
+        "url": "https://open.spotify.com/album/2Itng7z3sjVM5iE0vxHj5P"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "Victor Garde",
+          "url": "https://open.spotify.com/artist/0bC87PglfzQGdIUKnSDWa5"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "SexyBack",
+      "url": "https://open.spotify.com/track/0Zi3WlwXZAnTFju0NLAiFG"
     },
     {
       "album": {
@@ -16008,7 +16136,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 334663,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/0Ge4OwygcQIsFLEvAIKJIO"
@@ -16500,7 +16628,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 221538,
       "name": "Without You",
       "url": "https://open.spotify.com/track/4ynRYz5CzTeSqsOPZOKWEQ"
@@ -16676,7 +16804,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-17",
+      "date_removed": null,
       "duration_ms": 253440,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/4XtZxUoTAqUSkNi5v27K7p"

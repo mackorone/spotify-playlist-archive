@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2oKjjtvzosP13vQjShJAaA.md) - [plain]
 
 > wöchentliche handverlesene empfehlungen des archivs\. no industry bs
 
-[hiphoparchiv](https://open.spotify.com/user/31kxwkf6wpyxxr2lxdsndxes7d3q) - 1,146 likes - 17 songs - 45 min 0 sec
+[hiphoparchiv](https://open.spotify.com/user/31kxwkf6wpyxxr2lxdsndxes7d3q) - 1,146 likes - 15 songs - 39 min 47 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,6 @@ pretty - [cumulative](/playlists/cumulative/2oKjjtvzosP13vQjShJAaA.md) - [plain]
 | 12 | [Solang wir](https://open.spotify.com/track/2iCwGZ3jyU2BLBk12AZGur) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [Solang wir](https://open.spotify.com/album/7kKY2ZJfBLpcsNfW2i2evA) | 2:57 |
 | 13 | [Glam Life](https://open.spotify.com/track/7M2uEtGTwbnZo6CBxug6TA) | [Da Playaz](https://open.spotify.com/artist/7c4KTyZM7icu8bSlWHRhPL), [Pierre Sonality](https://open.spotify.com/artist/0niBEgx0rRNWoTXgiJIiwA), [Young Krillin](https://open.spotify.com/artist/5daTSRLr5FPpoAU2o1IzyJ), [Crack Ignaz](https://open.spotify.com/artist/1RzvREvTenKGPYk6laaGdD) | [Glam Life](https://open.spotify.com/album/2d9p2JJaelYNJ9n9TJzRaP) | 3:15 |
 | 14 | [NOCHMAL](https://open.spotify.com/track/3szqiB5y3lcV2tOELWtLEb) | [Tom Hengst](https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc), [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [Ein Leben reicht nicht EP](https://open.spotify.com/album/2ilMnKmOArZqjuD64eWrn8) | 2:24 |
-| 15 | [Guten Morgen Deutschland](https://open.spotify.com/track/3Tj0NrGA2GsHAfQEBQA234) | [beslik](https://open.spotify.com/artist/0zw17mk0oEnrv4STjNgxsr) | [Guten Morgen Deutschland](https://open.spotify.com/album/2XT4u3Qf0BXGt42OtAfh9a) | 2:02 |
-| 16 | [Die sprechende Stadt](https://open.spotify.com/track/1fLPa3l62l1nzA7avFh3pd) | [helmuth](https://open.spotify.com/artist/4HIT0I8KzbTN5TuUcV60GG), [redd.](https://open.spotify.com/artist/5t9W4dnZEMslPiOAS4OHfe) | [Die sprechende Stadt](https://open.spotify.com/album/64hcDvmNklzXpQR8SPfsGt) | 2:49 |
-| 17 | [In vollen Zügen](https://open.spotify.com/track/5Gve4Ge6uLspvFdQFzv8jV) | [Mc Smook](https://open.spotify.com/artist/6wsjNADP7oFba0tf4UywrP), [Beatbauerjonas](https://open.spotify.com/artist/6fh30VMPAEjgSSH6lluKmk), [Fluffy Bunny](https://open.spotify.com/artist/5vkdaL4XJpemdQBRiGJ0Ah) | [In vollen Zügen](https://open.spotify.com/album/3f1oWm0w7pPBmrsgW4Lmty) | 3:09 |
+| 15 | [Die sprechende Stadt](https://open.spotify.com/track/1fLPa3l62l1nzA7avFh3pd) | [helmuth](https://open.spotify.com/artist/4HIT0I8KzbTN5TuUcV60GG), [redd.](https://open.spotify.com/artist/5t9W4dnZEMslPiOAS4OHfe) | [Die sprechende Stadt](https://open.spotify.com/album/64hcDvmNklzXpQR8SPfsGt) | 2:49 |
 
-Snapshot ID: `AAAAv7LoKF2pJgu+sxkGSkJ/DltPU+BD`
+Snapshot ID: `AAAAwt5RWTZ2y+4XPhGf1f5DH/dCxUi7`

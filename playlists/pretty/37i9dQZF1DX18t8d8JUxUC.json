@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Andrea Bejar",
-  "num_followers": 29538,
+  "num_followers": 29558,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-08-22 15:29:01",
       "album": {
+        "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU"
+      },
+      "artists": [
+        {
+          "name": "N\u00fameros Primos",
+          "url": "https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7"
+        }
+      ],
+      "duration_ms": 235531,
+      "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB"
+    },
+    {
+      "added_at": "2025-08-22 15:29:01",
+      "album": {
         "name": "todos menos yo",
         "url": "https://open.spotify.com/album/0LNQEWpmVnfqfncP5KE7Ag"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 196675,
       "name": "todos menos yo",
       "url": "https://open.spotify.com/track/0h0Yt8CZxudSESeTFfRclh"
-    },
-    {
-      "added_at": "2025-08-22 15:29:01",
-      "album": {
-        "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
-        "url": "https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU"
-      },
-      "artists": [
-        {
-          "name": "N\u00fameros Primos",
-          "url": "https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7"
-        }
-      ],
-      "duration_ms": 235531,
-      "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB"
     },
     {
       "added_at": "2025-08-22 15:29:01",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2025-08-22 15:29:01",
       "album": {
-        "name": "Ahi Estar\u00e9",
-        "url": "https://open.spotify.com/album/6LbdFuVzlRSGiAAebnnhiS"
+        "name": "Una historia que contar",
+        "url": "https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk"
       },
       "artists": [
         {
-          "name": "selines",
-          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
+          "name": "Mateo Falgas",
+          "url": "https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W"
         }
       ],
-      "duration_ms": 180103,
-      "name": "Ahi Estar\u00e9",
-      "url": "https://open.spotify.com/track/2aEDaXZ9YCUxXyYVkCJGp0"
+      "duration_ms": 186995,
+      "name": "Una historia que contar",
+      "url": "https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ"
     }
   ],
   "unique_name": "Latin Folk",

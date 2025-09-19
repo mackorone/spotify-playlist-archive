@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 487552,
+  "num_followers": 487525,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-02-07 17:00:04",
       "album": {
-        "name": "Soft Rock Band",
-        "url": "https://open.spotify.com/album/5iovC6HGeUUD5S8cahSw0m"
-      },
-      "artists": [
-        {
-          "name": "Good Morning",
-          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
-        }
-      ],
-      "duration_ms": 492280,
-      "name": "Soft Rock Band",
-      "url": "https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7"
-    },
-    {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
         "name": "News of the Universe",
         "url": "https://open.spotify.com/album/1GUFHInzictK6bRxCdRUft"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 212075,
       "name": "Poppies",
       "url": "https://open.spotify.com/track/4oiZ494M5fJgMhdqew0n8p"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Soft Rock Band",
+        "url": "https://open.spotify.com/album/5iovC6HGeUUD5S8cahSw0m"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "duration_ms": 492280,
+      "name": "Soft Rock Band",
+      "url": "https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "LONG LIVE THE WILDERNESS",
-        "url": "https://open.spotify.com/album/74G6zlK0eqHKbdleUXtafE"
-      },
-      "artists": [
-        {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
-        }
-      ],
-      "duration_ms": 286209,
-      "name": "LONG LIVE THE WILDERNESS",
-      "url": "https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Things Left to Do",
         "url": "https://open.spotify.com/album/5kR8QkF6vQ2M8eFsiRiWSg"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 220373,
       "name": "Yes",
       "url": "https://open.spotify.com/track/1s0EhxGMlnR0E47dRmwFZe"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "LONG LIVE THE WILDERNESS",
+        "url": "https://open.spotify.com/album/74G6zlK0eqHKbdleUXtafE"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 286209,
+      "name": "LONG LIVE THE WILDERNESS",
+      "url": "https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY"
     },
     {
       "added_at": "2025-05-22 14:00:15",
@@ -649,38 +649,6 @@
       "url": "https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ"
     },
     {
-      "added_at": "2025-03-27 13:00:14",
-      "album": {
-        "name": "Right or Wrong",
-        "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 207665,
-      "name": "Right or Wrong",
-      "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Bangkok",
-        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
-      },
-      "artists": [
-        {
-          "name": "Alaaska",
-          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
-        }
-      ],
-      "duration_ms": 212173,
-      "name": "Bangkok",
-      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Naga Damai",
@@ -699,18 +667,34 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Recycle",
-        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
+        "name": "Bangkok",
+        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
       },
       "artists": [
         {
-          "name": "loren north",
-          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
+          "name": "Alaaska",
+          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
         }
       ],
-      "duration_ms": 204342,
-      "name": "Recycle",
-      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
+      "duration_ms": 212173,
+      "name": "Bangkok",
+      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
+    },
+    {
+      "added_at": "2025-03-27 13:00:14",
+      "album": {
+        "name": "Right or Wrong",
+        "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 207665,
+      "name": "Right or Wrong",
+      "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -727,6 +711,22 @@
       "duration_ms": 205974,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Recycle",
+        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
+      },
+      "artists": [
+        {
+          "name": "loren north",
+          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
+        }
+      ],
+      "duration_ms": 204342,
+      "name": "Recycle",
+      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -857,22 +857,6 @@
       "url": "https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz"
     },
     {
-      "added_at": "2025-05-22 14:00:15",
-      "album": {
-        "name": "LCD",
-        "url": "https://open.spotify.com/album/7JiblL6oSzGZfiTAin8t4Y"
-      },
-      "artists": [
-        {
-          "name": "Ghost Care",
-          "url": "https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy"
-        }
-      ],
-      "duration_ms": 211705,
-      "name": "LCD",
-      "url": "https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "\"For Some Other Reason\" b/w \"Fair Warning\" and \"What Would You Say?\"",
@@ -895,6 +879,22 @@
       "duration_ms": 147000,
       "name": "Fair Warning",
       "url": "https://open.spotify.com/track/4oLZSZ3FTrml6ma6sOOMbp"
+    },
+    {
+      "added_at": "2025-05-22 14:00:15",
+      "album": {
+        "name": "LCD",
+        "url": "https://open.spotify.com/album/7JiblL6oSzGZfiTAin8t4Y"
+      },
+      "artists": [
+        {
+          "name": "Ghost Care",
+          "url": "https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy"
+        }
+      ],
+      "duration_ms": 211705,
+      "name": "LCD",
+      "url": "https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Bees",
-        "url": "https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc"
-      },
-      "artists": [
-        {
-          "name": "Wholesome",
-          "url": "https://open.spotify.com/artist/2PLqBXGI8EeWZx2asQJIvl"
-        }
-      ],
-      "duration_ms": 213253,
-      "name": "Bees",
-      "url": "https://open.spotify.com/track/0KyMzgnV6wtuiSXNrSwbmF"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Heat Stroke",
         "url": "https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 207247,
       "name": "Heat Stroke",
       "url": "https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Bees",
+        "url": "https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc"
+      },
+      "artists": [
+        {
+          "name": "Wholesome",
+          "url": "https://open.spotify.com/artist/2PLqBXGI8EeWZx2asQJIvl"
+        }
+      ],
+      "duration_ms": 213253,
+      "name": "Bees",
+      "url": "https://open.spotify.com/track/0KyMzgnV6wtuiSXNrSwbmF"
     },
     {
       "added_at": "2025-03-27 13:00:14",
@@ -1039,6 +1039,22 @@
       "duration_ms": 182186,
       "name": "Stargazer",
       "url": "https://open.spotify.com/track/3NguJRn6XA8XHaBkIy5VB1"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Malibu Sunset b/w Hang On",
+        "url": "https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol"
+      },
+      "artists": [
+        {
+          "name": "The Travelers",
+          "url": "https://open.spotify.com/artist/6vayW66astvaRgv4llGBff"
+        }
+      ],
+      "duration_ms": 128194,
+      "name": "Malibu Sunset",
+      "url": "https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1071,22 +1087,6 @@
       "duration_ms": 165589,
       "name": "Postcode Lover",
       "url": "https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Malibu Sunset b/w Hang On",
-        "url": "https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol"
-      },
-      "artists": [
-        {
-          "name": "The Travelers",
-          "url": "https://open.spotify.com/artist/6vayW66astvaRgv4llGBff"
-        }
-      ],
-      "duration_ms": 128194,
-      "name": "Malibu Sunset",
-      "url": "https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1157,22 +1157,6 @@
       "url": "https://open.spotify.com/track/6898BcNygl1YiW8Fabu5E2"
     },
     {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Cold Summers EP",
-        "url": "https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj"
-      },
-      "artists": [
-        {
-          "name": "Crepes",
-          "url": "https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh"
-        }
-      ],
-      "duration_ms": 174080,
-      "name": "Cold Summers",
-      "url": "https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Mammoth Surf",
@@ -1187,6 +1171,22 @@
       "duration_ms": 120476,
       "name": "Mammoth Surf",
       "url": "https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Cold Summers EP",
+        "url": "https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj"
+      },
+      "artists": [
+        {
+          "name": "Crepes",
+          "url": "https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh"
+        }
+      ],
+      "duration_ms": 174080,
+      "name": "Cold Summers",
+      "url": "https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Stained Glass Curtain",
-        "url": "https://open.spotify.com/album/77BQ2RiVYfF9uT3lUIjE0L"
+        "name": "Spice It Up",
+        "url": "https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ"
       },
       "artists": [
         {
-          "name": "Conflict at Serenity Pools",
-          "url": "https://open.spotify.com/artist/2NbYmPv7Un2A0cNOY2uZDd"
+          "name": "Surf Trash",
+          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
         }
       ],
-      "duration_ms": 170788,
-      "name": "Stained Glass Curtain",
-      "url": "https://open.spotify.com/track/32hMObO47FeOlNPfn58XiZ"
+      "duration_ms": 146651,
+      "name": "Spice It Up",
+      "url": "https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

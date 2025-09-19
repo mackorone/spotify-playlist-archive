@@ -1,6 +1,6 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 575703,
+  "num_followers": 575718,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-02-10 10:54:18",
       "album": {
-        "name": "Coming Up for Air (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3IJ5RDbQeiWIf7Fo601JwE"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 232520,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/0My8NPmENHrN5W7OfgZnZJ"
-    },
-    {
-      "added_at": "2025-02-10 10:54:18",
-      "album": {
         "name": "Saw You In A Dream",
         "url": "https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 208280,
       "name": "Saw You In A Dream",
       "url": "https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok"
+    },
+    {
+      "added_at": "2025-02-10 10:54:18",
+      "album": {
+        "name": "Coming Up for Air (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3IJ5RDbQeiWIf7Fo601JwE"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 232520,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0My8NPmENHrN5W7OfgZnZJ"
     },
     {
       "added_at": "2025-02-10 10:54:18",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-02-10 10:54:18",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 193597,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/10unIjOu5Jurco3SDbV4HZ"
-    },
-    {
-      "added_at": "2025-02-10 10:54:18",
-      "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/0PDuUFWUxyM329z0JnT8GT"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 229282,
       "name": "Tough",
       "url": "https://open.spotify.com/track/3XXGqZX50zbGqSOup74UH2"
+    },
+    {
+      "added_at": "2025-02-10 10:54:18",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 193597,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/10unIjOu5Jurco3SDbV4HZ"
     },
     {
       "added_at": "2025-02-10 10:54:18",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-02-10 10:54:18",
       "album": {
-        "name": "What Will We Be (Standard)",
-        "url": "https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/17XvbAd3K1GOjWy5uQvK2U"
-    },
-    {
-      "added_at": "2025-02-10 10:54:18",
-      "album": {
         "name": "The Good Times and The Bad Ones",
         "url": "https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 277694,
       "name": "Grey",
       "url": "https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd"
+    },
+    {
+      "added_at": "2025-02-10 10:54:18",
+      "album": {
+        "name": "What Will We Be (Standard)",
+        "url": "https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/17XvbAd3K1GOjWy5uQvK2U"
     },
     {
       "added_at": "2025-02-10 10:54:18",
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2025-02-10 10:54:18",
       "album": {
-        "name": "brent ii",
-        "url": "https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2"
+        "name": "Use Somebody (Acoustic Version)",
+        "url": "https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5"
       },
       "artists": [
         {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        },
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+          "name": "Isabella Celander",
+          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
         }
       ],
-      "duration_ms": 233746,
-      "name": "emily",
-      "url": "https://open.spotify.com/track/1sTtlEZeVeeEnxEztJNkYN"
+      "duration_ms": 186660,
+      "name": "Use Somebody - Acoustic Version",
+      "url": "https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s"
     },
     {
       "added_at": "2025-02-10 10:54:18",
@@ -1071,6 +1067,26 @@
     {
       "added_at": "2025-02-10 10:54:18",
       "album": {
+        "name": "brent ii",
+        "url": "https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 233746,
+      "name": "emily",
+      "url": "https://open.spotify.com/track/1sTtlEZeVeeEnxEztJNkYN"
+    },
+    {
+      "added_at": "2025-02-10 10:54:18",
+      "album": {
         "name": "Echoes, Silence, Patience & Grace",
         "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 293453,
       "name": "Home",
       "url": "https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN"
-    },
-    {
-      "added_at": "2025-02-10 10:54:18",
-      "album": {
-        "name": "Use Somebody (Acoustic Version)",
-        "url": "https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5"
-      },
-      "artists": [
-        {
-          "name": "Isabella Celander",
-          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
-        }
-      ],
-      "duration_ms": 186660,
-      "name": "Use Somebody - Acoustic Version",
-      "url": "https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s"
     },
     {
       "added_at": "2025-02-10 10:54:18",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-02-10 10:54:18",
       "album": {
-        "name": "House With No Mirrors",
-        "url": "https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 227613,
-      "name": "House With No Mirrors",
-      "url": "https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh"
-    },
-    {
-      "added_at": "2025-02-10 10:54:18",
-      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 180466,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I"
+    },
+    {
+      "added_at": "2025-02-10 10:54:18",
+      "album": {
+        "name": "House With No Mirrors",
+        "url": "https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 227613,
+      "name": "House With No Mirrors",
+      "url": "https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh"
     },
     {
       "added_at": "2025-02-10 10:54:18",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-02-10 10:54:18",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
-    },
-    {
-      "added_at": "2025-02-10 10:54:18",
-      "album": {
         "name": "Starships (Acoustic Version)",
         "url": "https://open.spotify.com/album/619LYsYlwIWumLb0lun7dK"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 206267,
       "name": "Starships - Acoustic Version",
       "url": "https://open.spotify.com/track/4PGdU6yyUM4GSdLe6tUiNT"
+    },
+    {
+      "added_at": "2025-02-10 10:54:18",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
     },
     {
       "added_at": "2025-02-10 10:54:18",

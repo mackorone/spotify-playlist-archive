@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: HANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 988,499 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 988,623 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [Like 1](https://open.spotify.com/track/7gLw3Zh9o0giJ2YSjFKY1V) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Like 1](https://open.spotify.com/album/6m1tTBNtQtBtNeDLhVm3bO) | 3:06 |
 | 50 | [I Like It](https://open.spotify.com/track/0ehOXYkQzud0mztFZzb8d5) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Shout Out to Jesus](https://open.spotify.com/album/6JdrLXoyDYcFub6NGoB5oX) | 2:37 |
 
-Snapshot ID: `AAAAAJ14TmQXRxke+lVJAayVU5aP9iAo`
+Snapshot ID: `AAAAAAm8ZCceHCFvUPgQbsDdXlRKtb2o`

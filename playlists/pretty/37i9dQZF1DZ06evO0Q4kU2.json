@@ -1,12 +1,12 @@
 {
   "description": "This is Gabr\u00edel \u00d3lafs. The essential tracks, all in one playlist.",
-  "num_followers": 2152,
+  "num_followers": 2158,
   "original_name": "This Is Gabr\u00edel \u00d3lafs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAADUNIMjpZ4S/soXAxQthl3A",
+  "snapshot_id": "aMn6AAAAAADL0UlKE35p2YPK92ghFOAT",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solon Islandus (Deluxe)",
-        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 168085,
-      "name": "The Drifter",
-      "url": "https://open.spotify.com/track/4lSVZHhtD1Fh2GTfgiK0UJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bambal\u00f3",
         "url": "https://open.spotify.com/album/2Pxg7kjXogc6wNNmP80rHL"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 161129,
       "name": "Bambal\u00f3",
       "url": "https://open.spotify.com/track/5rzY2HPvGBe7E2yKxXbRAE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solon Islandus (Deluxe)",
+        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 168085,
+      "name": "The Drifter",
+      "url": "https://open.spotify.com/track/4lSVZHhtD1Fh2GTfgiK0UJ"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 181613,
-      "name": "Droplets",
-      "url": "https://open.spotify.com/track/1NjiI6iwfCZw8x54aBhsSr"
+      "duration_ms": 198946,
+      "name": "Filma",
+      "url": "https://open.spotify.com/track/3dXWzjmmYSHwWQKSGhy9gQ"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 198946,
-      "name": "Filma",
-      "url": "https://open.spotify.com/track/3dXWzjmmYSHwWQKSGhy9gQ"
+      "duration_ms": 181613,
+      "name": "Droplets",
+      "url": "https://open.spotify.com/track/1NjiI6iwfCZw8x54aBhsSr"
     },
     {
       "added_at": null,

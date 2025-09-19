@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Jazzy
+> The UK's biggest dance playlist! Cover: Jonas Blue, Malive
 
 701 songs - 1 day 12 hr 28 min
 

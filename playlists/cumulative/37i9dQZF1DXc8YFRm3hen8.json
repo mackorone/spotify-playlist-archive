@@ -1751,6 +1751,24 @@
     },
     {
       "album": {
+        "name": "El Cantar de los Anzuelos",
+        "url": "https://open.spotify.com/album/6EC7bqC3eLObVq1trOes4B"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232183,
+      "name": "El Cantar de los Anzuelos",
+      "url": "https://open.spotify.com/track/6RPjByBOMY4mDJZ7kShliE"
+    },
+    {
+      "album": {
         "name": "El c\u00f3mo y el qu\u00e9",
         "url": "https://open.spotify.com/album/7mSOKTC1jY5CWNPSxjbjmx"
       },
@@ -5342,7 +5360,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 226226,
       "name": "Post-Crucifixion",
       "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
@@ -6339,6 +6357,24 @@
     },
     {
       "album": {
+        "name": "Tirada",
+        "url": "https://open.spotify.com/album/0e4a2nRRM0ogp4RkmEIKks"
+      },
+      "artists": [
+        {
+          "name": "Mica Suarez",
+          "url": "https://open.spotify.com/artist/4dhx1Yv3xA8FvVaPShQBiX"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162553,
+      "name": "Tirada",
+      "url": "https://open.spotify.com/track/61DGrm8ePPZsAHe3XNlYfz"
+    },
+    {
+      "album": {
         "name": "Todavia No Puedo Olvidarte (En Vivo)",
         "url": "https://open.spotify.com/album/5I7AvLn3SQ6HF14rf2MGVh"
       },
@@ -6630,7 +6666,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 211992,
       "name": "Tu Encanto",
       "url": "https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol"

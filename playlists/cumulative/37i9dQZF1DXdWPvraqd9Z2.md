@@ -4,7 +4,7 @@
 
 > Actress and activist Shakina Nayfack shares interviews with some of her favorite trans artists.
 
-6 songs - 5 hr 27 min
+6 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,6 @@
 | [Loud, Live and in Her Glory w/ Ts Madison](https://open.spotify.com/episode/1dWQePeVpRU3sMr8WZGQym) | [The Laverne Cox Show](https://open.spotify.com/show/2GPQaKpelElHdMyhbILHil) | [The Laverne Cox Show](https://open.spotify.com/album/2GPQaKpelElHdMyhbILHil) | 45:55 | 2021-11-12 |  |
 | [Shakina Nayfack: Manifest Pussy!](https://open.spotify.com/episode/1G37vS1HgjPlZwG5MZ8CdU) | [She's a Woman with Miz Cracker](https://open.spotify.com/show/4CG68SScStbsmX1VOXKDx4) | [She's a Woman with Miz Cracker](https://open.spotify.com/album/4CG68SScStbsmX1VOXKDx4) | 51:24 | 2021-11-12 |  |
 | [Shakina Nayfack: The Radical Act of Being a Trans Woman in Love](https://open.spotify.com/episode/3iSeAsw6yJDNxL10lsLmJh) | [LGBTQ&A](https://open.spotify.com/show/37E7LIv89GodYNEBAWREd8) | [LGBTQ&A](https://open.spotify.com/album/37E7LIv89GodYNEBAWREd8) | 28:41 | 2021-11-12 |  |
-| [This is… Kim Petras](https://open.spotify.com/episode/7oOZA2fnjnLJ7VQzZanIGz) | [I am Paris](https://open.spotify.com/show/7Gl8ddlbZIXUEwCstU0aTd) | [I am Paris](https://open.spotify.com/album/7Gl8ddlbZIXUEwCstU0aTd) | 1:01:31 | 2021-11-12 |  |
+| [This is… Kim Petras](https://open.spotify.com/episode/7oOZA2fnjnLJ7VQzZanIGz) | [I am Paris](https://open.spotify.com/show/7Gl8ddlbZIXUEwCstU0aTd) | [I am Paris](https://open.spotify.com/album/7Gl8ddlbZIXUEwCstU0aTd) | 49:36 | 2021-11-12 |  |
 
 \*This playlist was first scraped on 2022-05-01. Prior content cannot be recovered.

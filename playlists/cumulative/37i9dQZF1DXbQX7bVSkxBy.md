@@ -2,7 +2,7 @@
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify the goodness of God\.  Cover: Mike Aremu and Gabriel Eziashi
+> Raise a voice and testify the goodness of God\.  Cover: TKeyz
 
 462 songs - 1 day 13 hr 57 min
 

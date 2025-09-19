@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
+  "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: LUCY.",
   "name": "Punk Espa\u00f1ol",
   "tracks": [
     {
@@ -284,7 +284,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 160034,
       "name": "All Cayetanos Are Bastards",
       "url": "https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 212293,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/1IEAdc4FWEDCAydBnvVsli"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 224172,
       "name": "Anda y Que Te Den",
       "url": "https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6"
@@ -486,6 +486,28 @@
       "duration_ms": 101731,
       "name": "Antimateria",
       "url": "https://open.spotify.com/track/2vzkOxWmJWQFzRRu1zNRsN"
+    },
+    {
+      "album": {
+        "name": "Aquel Verano del 86",
+        "url": "https://open.spotify.com/album/797wsnhR4QQS6ZL3tHyT8j"
+      },
+      "artists": [
+        {
+          "name": "Manolo Kabezabolo",
+          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
+        },
+        {
+          "name": "Aurora Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/3GnMrfvoW6rrZxbau2b6fu"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151160,
+      "name": "Aquel Verano del 86",
+      "url": "https://open.spotify.com/track/6B5eoVR1bvpo7vrkbnPYXj"
     },
     {
       "album": {
@@ -1003,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "Combats d'Autoesgrima",
+        "url": "https://open.spotify.com/album/4PfYDZXaNXMQTkinm1v1zv"
+      },
+      "artists": [
+        {
+          "name": "Crim",
+          "url": "https://open.spotify.com/artist/2p7rRgVQsbzdA8zkpb83Q2"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216140,
+      "name": "Combats d'Autoesgrima",
+      "url": "https://open.spotify.com/track/2zwBvN2OsHEEMLUYaYUrr6"
+    },
+    {
+      "album": {
         "name": "Con Rabia, Con Ira",
         "url": "https://open.spotify.com/album/1hwEngSxBB59Rd3NohKLjS"
       },
@@ -1228,7 +1268,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 177560,
       "name": "Cuidado",
       "url": "https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN"
@@ -1706,7 +1746,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 170290,
       "name": "El Infierno Es Demasiado Dulce",
       "url": "https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN"
@@ -2335,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "Femme Fatale",
+        "url": "https://open.spotify.com/album/0qm6LCQgQ09rLUl76IMsLE"
+      },
+      "artists": [
+        {
+          "name": "Rinoceronte Ganador",
+          "url": "https://open.spotify.com/artist/7rjZ2vMhNTefDMxSL8j2GW"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226269,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/2sbtfc1GISmqYzEBBA2Qa9"
+    },
+    {
+      "album": {
         "name": "Figurante",
         "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
       },
@@ -2386,7 +2444,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 220488,
       "name": "Froil\u00e1n de Todos los Antros",
       "url": "https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k"
@@ -3352,6 +3410,24 @@
       "duration_ms": 192800,
       "name": "La \u00daltima Patada",
       "url": "https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90"
+    },
+    {
+      "album": {
+        "name": "...Y Una Mierda",
+        "url": "https://open.spotify.com/album/7HstxEug5UmMcjngQLblJj"
+      },
+      "artists": [
+        {
+          "name": "Sartenazo Cerebral",
+          "url": "https://open.spotify.com/artist/4UIGa1G6fmJ74FheT3qszX"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157280,
+      "name": "Las 13:12",
+      "url": "https://open.spotify.com/track/5O6D1ZUqffHMLgzlQsVbJC"
     },
     {
       "album": {
@@ -4831,6 +4907,24 @@
     },
     {
       "album": {
+        "name": "Hawai",
+        "url": "https://open.spotify.com/album/1J5DJeQpsKX8JWh0I8ocRw"
+      },
+      "artists": [
+        {
+          "name": "Rata Negra",
+          "url": "https://open.spotify.com/artist/7KjdFWj7ujhSLbzWYAAgVe"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118170,
+      "name": "Pesadilla Adulta",
+      "url": "https://open.spotify.com/track/4g3INzuTAV6sZxnaxg1RJs"
+    },
+    {
+      "album": {
         "name": "Pesambre",
         "url": "https://open.spotify.com/album/50rhx0847BpLx391oLvk1t"
       },
@@ -5088,6 +5182,24 @@
       "duration_ms": 194999,
       "name": "Prozak, Etumina y Haloperidol",
       "url": "https://open.spotify.com/track/1bR2QoVmgV3b4wbVVZ3VUj"
+    },
+    {
+      "album": {
+        "name": "Psiqui\u00e1trico",
+        "url": "https://open.spotify.com/album/5Etn03o0XEIrR2MrObJ4cm"
+      },
+      "artists": [
+        {
+          "name": "Wini De Spiz",
+          "url": "https://open.spotify.com/artist/5ZZVHQA8eZ8N7p1i2xrBaD"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "Psiqui\u00e1trico",
+      "url": "https://open.spotify.com/track/2zjzLeLtlfaWp1ALnLGxUN"
     },
     {
       "album": {
@@ -5919,6 +6031,24 @@
     },
     {
       "album": {
+        "name": "TOURIST GO HOME",
+        "url": "https://open.spotify.com/album/6u0N8mu9hpL3SLNaO1jJbg"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "TOURIST GO HOME",
+      "url": "https://open.spotify.com/track/0zBstQDXCKjS3PXpZGfajx"
+    },
+    {
+      "album": {
         "name": "Tras la Pausa",
         "url": "https://open.spotify.com/album/1nTpsCNdDSlwdXUxmug6Iv"
       },
@@ -6296,7 +6426,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 170585,
       "name": "Vieja Guardia",
       "url": "https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s"

@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Mansyur S
+> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah, Avolia
 
-262 songs - 20 hr 54 min
+264 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Konco Rindu](https://open.spotify.com/track/5KXY2olwTQxjhbX6plooNV) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Konco Rindu](https://open.spotify.com/album/4zoCn0RSzcqyAvf3gEjn1i) | 5:05 | 2021-08-23 | 2023-03-31 |
 | [Ku Puja Puja](https://open.spotify.com/track/13p3Fu1HTCPsUXQ8JGxVEz) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Ku Puja Puja](https://open.spotify.com/album/7xH7H47nIFy8825YlQPeTv) | 4:55 | 2021-08-23 |  |
 | [Ku Rela Kau Pilih Dia](https://open.spotify.com/track/1TaH2ozKqo0Jy40NDrjfMD) | [Hari Putra](https://open.spotify.com/artist/7rghk7Vdh0DpjZOpp9zSwN) | [Ku Rela Kau Pilih Dia](https://open.spotify.com/album/55aZkSCmAlpyHZ586K7sNx) | 6:09 | 2024-04-25 |  |
+| [Kuda Betina](https://open.spotify.com/track/7nGcHOBsZf7FQSPOTr2lie) | [Mansyur S](https://open.spotify.com/artist/4uq6QLz8nA9LAj01MDk58W) | [Kuda Betina](https://open.spotify.com/album/57I4jrhMIfAhZCzr7Df4Mx) | 5:08 | 2025-09-18 |  |
 | [Kulepas Dengan ikhlas](https://open.spotify.com/track/0MMgF49ViaGpAonpNRbavI) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Kulepas Dengan Ikhlas](https://open.spotify.com/album/26nVfbBouNRMtdDOCn3Zq0) | 6:13 | 2021-08-23 |  |
 | [Lagi Syantik](https://open.spotify.com/track/2t65pJQA9BpPXehQLkOydo) | [Siti Badriah](https://open.spotify.com/artist/7uFoXSuGpa1zjda9SgmqFk) | [Lagi Syantik](https://open.spotify.com/album/0IQVxZ7YaLlnnoy4v7I61t) | 3:49 | 2021-08-23 | 2024-04-19 |
 | [Lagi Syantik](https://open.spotify.com/track/2whJ6VW0y0EGhp1XYElDCp) | [Siti Badriah](https://open.spotify.com/artist/7uFoXSuGpa1zjda9SgmqFk) | [Lagi Syantik](https://open.spotify.com/album/5DIDVNHJvI0dc2HxgjxBzF) | 3:49 | 2021-08-23 | 2024-09-07 |
@@ -234,6 +235,7 @@
 | [Surgaku](https://open.spotify.com/track/3IYqAgn7ENaDH9uTZGomQO) | [Aulia](https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6) | [Surgaku](https://open.spotify.com/album/4ItlHPYdgaJuYN5MD1tlm0) | 5:33 | 2023-03-30 |  |
 | [Syair Bidadari](https://open.spotify.com/track/1HcovJlkDKYmC8XFS6yT2k) | [LitaLy](https://open.spotify.com/artist/0GaVYWWQgbhglhWmMphflr) | [Syair Bidadari](https://open.spotify.com/album/3St0I5wMX7cCcuz2tqgk1d) | 4:29 | 2024-03-22 | 2024-09-27 |
 | [Tak Halu Lagi](https://open.spotify.com/track/78u16742DkFCGnGjYXzgoH) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Tak Halu Lagi](https://open.spotify.com/album/1sknQvj8wY6k2dJJ0JIY3L) | 4:07 | 2025-07-31 |  |
+| [Tak Halu Lagi \- Acoustic](https://open.spotify.com/track/1ixhjnRdA3QUt9o5iRXI4i) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Tak Halu Lagi \(Acoustic\)](https://open.spotify.com/album/0x81GpNQND6hkbzTvUNy8m) | 3:43 | 2025-09-18 |  |
 | [Tak Ikhlasno](https://open.spotify.com/track/4h8rT4tUL27KwIznPur58B) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Ikhlasno](https://open.spotify.com/album/2n0favF8lI3Tv4y8dIQBbY) | 4:31 | 2021-08-23 | 2023-02-17 |
 | [Tak Lalekne Kowe](https://open.spotify.com/track/5Qj0PtT0uCwEX3IuWiHLt9) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Lalekne Kowe](https://open.spotify.com/album/7Mrs9ngZquGRsZSkR1HIE7) | 5:41 | 2021-08-23 | 2023-09-15 |
 | [Tak Mungkin Air Matamu Jadi Air Susu](https://open.spotify.com/track/0MBr5As6Xf5fgkBuWM5QFM) | [Mansyur S](https://open.spotify.com/artist/4uq6QLz8nA9LAj01MDk58W) | [Tak Mungkin Air Matamu Jadi Air Susu](https://open.spotify.com/album/333nKK13Nz0N8cklmwJlLV) | 7:06 | 2025-08-21 |  |

@@ -1579,6 +1579,36 @@
     },
     {
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/4IJXLpAgLGDrNo6D8opNVS"
+      },
+      "artists": [
+        {
+          "name": "Charly Lownoise",
+          "url": "https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W"
+        },
+        {
+          "name": "Komb",
+          "url": "https://open.spotify.com/artist/3O5f9vEgwXavGPnB0dQUQc"
+        },
+        {
+          "name": "Tatsunoshin",
+          "url": "https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP"
+        },
+        {
+          "name": "Giin",
+          "url": "https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175678,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/1tInwP3gnFnUFGSjy1pjuD"
+    },
+    {
+      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/5Nt8w7sdBudykOUbElCnxp"
       },

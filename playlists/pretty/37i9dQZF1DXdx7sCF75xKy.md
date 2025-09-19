@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women at full volume\. Misha Omar is co\-curating EQUAL Singapore & Malaysia this month.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,718 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,720 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 49 | [headspace](https://open.spotify.com/track/7iYW5BO8v0Q5Lh2vG9cdTX) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [headspace](https://open.spotify.com/album/0RKtnkVRnOQwD5OBcXnFEP) | 3:08 |
 | 50 | [Selamat Tinggal Cinta](https://open.spotify.com/track/76Jja7HBIxJqDEfepLubZK) | [Feminin](https://open.spotify.com/artist/6iwnnU3olNfS08pcof3KFI) | [Untukmu](https://open.spotify.com/album/68ZKpSD0FeQmZRvu16Zqv6) | 5:14 |
 
-Snapshot ID: `AAAAAHGDY2DpssB4M1Mryu8Zd1l6plsI`
+Snapshot ID: `AAAAAKwH16Dk0yA03+hZO3XslhSMm2w1`

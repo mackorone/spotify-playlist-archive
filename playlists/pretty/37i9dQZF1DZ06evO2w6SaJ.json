@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 6898,
+  "num_followers": 6901,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAAD5TsjX/RDsWO1IQ/jVnsLE",
+  "snapshot_id": "aMn6AAAAAABPGCRzyIS0p/vHaediUGzT",
   "tracks": [
     {
       "added_at": null,
@@ -347,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Harvest",
-        "url": "https://open.spotify.com/album/3yPR90KJOLOvnWqoQHsmAH"
+        "name": "Leeches",
+        "url": "https://open.spotify.com/album/57CQYU02aEtsqazAwDllv7"
       },
       "artists": [
         {
           "name": "Crazy Town",
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        },
+        {
+          "name": "Ray Garrison",
+          "url": "https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64"
         }
       ],
-      "duration_ms": 211880,
-      "name": "Tattoo Dreams",
-      "url": "https://open.spotify.com/track/2TMiO4a3idv2vBOpIa7AQ3"
+      "duration_ms": 212623,
+      "name": "Leeches",
+      "url": "https://open.spotify.com/track/54wyAgc6pQzXTBOjgN38vg"
     },
     {
       "added_at": null,
@@ -387,22 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leeches",
-        "url": "https://open.spotify.com/album/57CQYU02aEtsqazAwDllv7"
+        "name": "The Harvest",
+        "url": "https://open.spotify.com/album/3yPR90KJOLOvnWqoQHsmAH"
       },
       "artists": [
         {
           "name": "Crazy Town",
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        },
-        {
-          "name": "Ray Garrison",
-          "url": "https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64"
         }
       ],
-      "duration_ms": 212623,
-      "name": "Leeches",
-      "url": "https://open.spotify.com/track/54wyAgc6pQzXTBOjgN38vg"
+      "duration_ms": 211880,
+      "name": "Tattoo Dreams",
+      "url": "https://open.spotify.com/track/2TMiO4a3idv2vBOpIa7AQ3"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 196306,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
+      "duration_ms": 173773,
+      "name": "Waste of My Time",
+      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 173773,
-      "name": "Waste of My Time",
-      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
+      "duration_ms": 196306,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Ed Sheeran, JADE, Gorillaz and more!",
-  "num_followers": 928823,
+  "num_followers": 928942,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACHH1AwZRM34/XqXDFcbC7gK3roR",
+  "snapshot_id": "AAAAAFBdC4IY0VGePNw6gBik81dC0sGK",
   "tracks": [
     {
       "added_at": "2025-09-11 23:00:07",
@@ -1267,6 +1267,22 @@
       "duration_ms": 143213,
       "name": "Jaime",
       "url": "https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf"
+    },
+    {
+      "added_at": "2025-09-11 23:00:07",
+      "album": {
+        "name": "BANGERS ONLY",
+        "url": "https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 188142,
+      "name": "Try & Escape",
+      "url": "https://open.spotify.com/track/0cNDDA6wf2JRpLaKDcPMPl"
     },
     {
       "added_at": "2025-09-11 23:00:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,147 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,166 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 64 | [Contigo en la playa](https://open.spotify.com/track/5YZpIO8LYmAuHY6RshKAgL) | [Kira Kolumna](https://open.spotify.com/artist/4ZRVadQQ7rbyhiGZurqb72) | [Contigo en la playa](https://open.spotify.com/album/3hFrMthztGPiBeedZoMyIS) | 2:21 |
 | 65 | [Ida's Sommerlied](https://open.spotify.com/track/32rYNfv14cF2dDdAu1WCkL) | [Sonia Liebing](https://open.spotify.com/artist/3YZCbwdW9Gy1sZXV39uf6B), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 7 \- Die große Geburtstagsfeier \(Party mit Schlagerstars\)](https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy) | 1:53 |
 | 66 | [Wenn ich den See seh'](https://open.spotify.com/track/4G6RaIF1ogdDzpPWaKKG8T) | [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Wenn ich den See seh'](https://open.spotify.com/album/7FpzmPcNIwl0zMUl742zRR) | 2:23 |
-| 67 | [Drachenwind](https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5) | [Berend Intelmann](https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v) | [Unter meinem Bett 7](https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy) | 3:40 |
-| 68 | [Hund und Katze](https://open.spotify.com/track/75wYu5BBtsTFp6yaguVJO3) | [Francesco Wilking](https://open.spotify.com/artist/6XlZ98sKawGp29N1VyWFqV), [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Unter meinem Bett 6](https://open.spotify.com/album/5T56fAdOETGPwEWYReIesL) | 3:57 |
+| 67 | [Hund und Katze](https://open.spotify.com/track/75wYu5BBtsTFp6yaguVJO3) | [Francesco Wilking](https://open.spotify.com/artist/6XlZ98sKawGp29N1VyWFqV), [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Unter meinem Bett 6](https://open.spotify.com/album/5T56fAdOETGPwEWYReIesL) | 3:57 |
+| 68 | [Drachenwind](https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5) | [Berend Intelmann](https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v) | [Unter meinem Bett 7](https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy) | 3:40 |
 | 69 | [Raumschiff](https://open.spotify.com/track/0LqVqtvi6cnPEIOpxIVN1I) | [Anton](https://open.spotify.com/artist/4W56IJDi1Hn7IAYXXQkYte), [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [Raumschiff](https://open.spotify.com/album/0RvaLDbmx9L8P3gLvQU69N) | 3:03 |
 | 70 | [Rumspringen](https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ) | [Bernd Begemann](https://open.spotify.com/artist/4OY3MNylZg1nxCpFILirnH), [Belinda](https://open.spotify.com/artist/6tfFPvA0Pw2jbDrhVoNHxY) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 2:29 |
 

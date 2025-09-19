@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Ricky",
+        "url": "https://open.spotify.com/album/4ZA55kbdgi4YfNtEXCVvra"
+      },
+      "artists": [
+        {
+          "name": "Rick Grove",
+          "url": "https://open.spotify.com/artist/6ZqkiLDqtgWIf9upBjABI2"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200079,
+      "name": "As The Sun Hits Your Face",
+      "url": "https://open.spotify.com/track/3HnhrCHcrtWZjIzveBclBU"
+    },
+    {
+      "album": {
         "name": "And Then the Sun Came Up",
         "url": "https://open.spotify.com/album/0ARbTN291oZy3KePCs36Uq"
       },
@@ -972,6 +990,24 @@
       "duration_ms": 184000,
       "name": "Boy Tied In A Knot",
       "url": "https://open.spotify.com/track/0D6sECAN11gZwLV2LJWrKM"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Malin Pettersen",
+          "url": "https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202720,
+      "name": "Break Things",
+      "url": "https://open.spotify.com/track/1GgFAaCWCPcENXLJMhepOj"
     },
     {
       "album": {
@@ -1810,7 +1846,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 175010,
       "name": "Fear/Hope",
       "url": "https://open.spotify.com/track/3hswSBDeVf5DNk9oUKtqlX"
@@ -2778,7 +2814,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 168000,
       "name": "How long",
       "url": "https://open.spotify.com/track/65dGvhhSg65PUUpTTJdwIb"
@@ -2922,7 +2958,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 246897,
       "name": "I Miss You, I Do",
       "url": "https://open.spotify.com/track/6Q6DS150kHJ3bigd3EEWh6"
@@ -3972,7 +4008,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 179742,
       "name": "Nothing Without You",
       "url": "https://open.spotify.com/track/0IfYF9evGdkLHxBrY06hsh"
@@ -4228,7 +4264,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 170589,
       "name": "Peace Song",
       "url": "https://open.spotify.com/track/2RTGWy7mMTKcLeQiHapuTv"
@@ -5056,7 +5092,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 184726,
       "name": "The Call is Coming From Inside The House",
       "url": "https://open.spotify.com/track/2lXJCd5rmWww7o8TRSp6eC"
@@ -5406,7 +5442,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 258880,
       "name": "The State of the World",
       "url": "https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N"
@@ -5924,7 +5960,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-22",
+      "date_removed": null,
       "duration_ms": 194218,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/3lCDch1ZQ7LThCk73gHjBd"

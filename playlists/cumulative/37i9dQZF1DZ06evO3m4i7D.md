@@ -4,11 +4,11 @@
 
 > This is Eugenio Esquivel\. The essential tracks, all in one playlist.
 
-35 songs - 1 hr 49 min
+35 songs - 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [6AM](https://open.spotify.com/track/584QtvdD4qgocm4RMZGaXA) | [Los comandos](https://open.spotify.com/artist/3RAAVsS7QjNsiLkRe083Ay), [Alejandrosoy](https://open.spotify.com/artist/4ZTVKldtGZcSr3pz1sw5ja), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [6AM](https://open.spotify.com/album/5T8BE0bIWYbJo8r5lNhoC1) | 2:43 | 2025-09-16 |  |
+| [6AM](https://open.spotify.com/track/584QtvdD4qgocm4RMZGaXA) | [Los comandos](https://open.spotify.com/artist/3RAAVsS7QjNsiLkRe083Ay), [Alejandrosoy](https://open.spotify.com/artist/4ZTVKldtGZcSr3pz1sw5ja), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [6AM](https://open.spotify.com/album/5T8BE0bIWYbJo8r5lNhoC1) | 2:27 | 2025-09-16 |  |
 | [A 150](https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [A 150](https://open.spotify.com/album/51g8xFmtl2Bm6TXRNidRkC) | 2:28 | 2024-08-08 |  |
 | [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 | 2024-08-08 |  |
 | [Bachata Bélica](https://open.spotify.com/track/1Bhc0dOPU2yc4w1G9WpzWR) | [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Bachata Bélica](https://open.spotify.com/album/4xeQqVxLpVcYWGgLfa9X02) | 3:15 | 2025-02-08 |  |

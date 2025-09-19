@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaEXdyjLdxm.md) - [plain]
 
 > LGBTQIA+ artists like you've never heard before\. Cover: Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,288 likes - 52 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,289 likes - 52 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaEXdyjLdxm.md) - [plain]
 | 25 | [Here You Come Again \- Recorded at HOB Studios, Toronto](https://open.spotify.com/track/5fpymVNyujJ2UohIX5ujxw) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Spotify Singles](https://open.spotify.com/album/4zT3trMgbFpd8Bgc0rBxEa) | 3:09 |
 | 26 | [Hallelujah \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 5:46 |
 | 27 | [I Fall Apart \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/0MVvZYjUh20I13vor30dYe) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/29FXbpvWD8WQ6jiKLdhAz6) | 3:51 |
-| 28 | [Dance In The Dark \- Spotify Singles](https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Dance In The Dark \(Spotify Singles\)](https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX) | 3:45 |
+| 28 | [Dance In The Dark \(Spotify Singles\)](https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Dance In The Dark \(Spotify Singles\)](https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX) | 3:45 |
 | 29 | [Slip Away \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2QX2OeVkckAavMTJtbV7GX) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spotify Singles](https://open.spotify.com/album/4vucVTj5GjNV0MllVjsxo5) | 2:48 |
 | 30 | [Love Somebody](https://open.spotify.com/track/7onurzG7nyLWQUGvdySaNS) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Spotify Singles](https://open.spotify.com/album/7yzvoOWugzfdTuqCeedb4l) | 5:10 |
 | 31 | [Softly \- Spotify Singles](https://open.spotify.com/track/3GiuX3xcyLwFMoTqbyyO8q) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Spotify Singles](https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR) | 3:32 |

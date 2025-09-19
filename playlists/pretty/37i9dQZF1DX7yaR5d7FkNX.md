@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 
 > ✨❤️🌹Para Rocanlovers en compañía de Juanes
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,765 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,773 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cuando Estamos Tú Y Yo](https://open.spotify.com/track/6WaUpoZCmtfX9bnhhdFl1m) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Cuando Estamos Tú Y Yo](https://open.spotify.com/album/1DH8vPGBYBcmzTg0TGKotF) | 2:39 |
 | 2 | [llorandoenelclub\_100625\_v2](https://open.spotify.com/track/4a122VZ6nteagEdv1pVwGV) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [llorandoenelclub\_100625\_v2](https://open.spotify.com/album/73FHDk1GU3EhTYlFCM2qDU) | 2:28 |
 | 3 | [El Gomoso](https://open.spotify.com/track/0H6rYPbDkdMmJbedmXMqV9) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [El Retorno](https://open.spotify.com/album/3wLN5TGDfK414XeVjrfvEm) | 3:09 |
-| 4 | [krav magá](https://open.spotify.com/track/5pzUVpoeLEiTtLcVJ3KR4r) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [piel / krav magá](https://open.spotify.com/album/0u8wiHNdWYH3K2HMB5faeO) | 3:50 |
+| 4 | [kombate](https://open.spotify.com/track/5pzUVpoeLEiTtLcVJ3KR4r) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [piel / kombate](https://open.spotify.com/album/0u8wiHNdWYH3K2HMB5faeO) | 3:50 |
 | 5 | [<3CDMX](https://open.spotify.com/track/3L8OZNmQMFGMDhigIRL1zR) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [<3CDMX](https://open.spotify.com/album/4GA4fEf2DfMVAoJ60eE151) | 3:04 |
 | 6 | [Lemon](https://open.spotify.com/track/4hPdsiK5fBGBf93OVGLuep) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Vengo del Futuro y No Hay Futuro](https://open.spotify.com/album/2PDUWv0wSYeaWorpbGpuIY) | 2:36 |
 | 7 | [Eso Que Tú Llamas Amor](https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Eso Que Tú Llamas Amor](https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI) | 2:55 |

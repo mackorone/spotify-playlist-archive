@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-590 songs - 1 day 8 hr 56 min
+591 songs - 1 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [Noor](https://open.spotify.com/track/0dHWY1elhBd1BOrgyMg5VT) | [Karan Nawani](https://open.spotify.com/artist/7rhiZksPc6NrFYY2x0iajU) | [Echoes Of Love](https://open.spotify.com/album/1xwtHTdzmUs83zWUpoO4CZ) | 3:07 | 2024-02-19 | 2024-04-16 |
 | [O Piya](https://open.spotify.com/track/4F7ZtGn9AADKvcdVA2eODk) | [Ayush Gupta](https://open.spotify.com/artist/389pB8tUWtnvxFuA5H1x52) | [O Piya](https://open.spotify.com/album/1TQUFjE8g7QgYtj8nm2IL5) | 3:55 | 2024-06-11 | 2024-07-09 |
 | [O Saajna](https://open.spotify.com/track/5mbunFqwSF7Zo77lbJlLku) | [FIRDAUS](https://open.spotify.com/artist/7BfH29hEuqsCROoAMld4qj) | [O Saajna](https://open.spotify.com/album/3Ru1eQ5IFhxtY96lFacZl6) | 4:43 | 2024-09-13 | 2024-09-30 |
+| [Paani Ki Lehar](https://open.spotify.com/track/52dM9JC6FnWVOpRYDSscae) | [Rushil Aswal](https://open.spotify.com/artist/0rqe1wzJ7s8JGTOaWWBUol) | [Paani Ki Lehar](https://open.spotify.com/album/5Z7Hkb9CilgSjPdajkwpzb) | 4:44 | 2025-09-18 |  |
 | [Paas Aa](https://open.spotify.com/track/78EbeEIxRZJM9NLRxcFscq) | [Raj Thakur](https://open.spotify.com/artist/2Gao6MverARcqpP8Li1jXE), [Amisha Singh](https://open.spotify.com/artist/4eQyLr2gpOu92VoXIBDuy6) | [Paas Aa](https://open.spotify.com/album/6C8AMKqkiI4sO6nm1MiUOv) | 4:52 | 2024-07-03 | 2024-10-25 |
 | [Paas Mere](https://open.spotify.com/track/6L8QciURnXIwZVZMeeNJB5) | [Rajraktim Konwar](https://open.spotify.com/artist/6y65f3ZHnYyTcVjnNQwvJZ), [Mayukh](https://open.spotify.com/artist/19I0L8PB44SSGiPhpIjdmr) | [Paas Mere](https://open.spotify.com/album/3zxrvRU4mO4kUBGIXG78xr) | 2:56 | 2023-08-28 | 2023-12-16 |
 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 | 2023-05-17 | 2023-07-13 |
@@ -548,7 +549,7 @@
 | [Tum Hi Ho Zindagi](https://open.spotify.com/track/63fb4uUccR5njgRs53yhI0) | [Dr Prashant Shah](https://open.spotify.com/artist/0S5pmNjdaDdybWL6TSZTpj), [Mithun Kumar](https://open.spotify.com/artist/7D7J1kkyEyVW7n05cd7hof) | [Tum Hi Ho Zindagi](https://open.spotify.com/album/3pU6Zmnvcn2GSiLKcn4E0B) | 1:45 | 2024-09-29 | 2024-10-02 |
 | [Tum Ho](https://open.spotify.com/track/3etyNnDggmCD0kCA7f8S25) | [Peddy Jey](https://open.spotify.com/artist/69nhISlOUkxh6wI5XagbBB) | [Tum Ho](https://open.spotify.com/album/2reqa4xPxtc2O0liIs6RvV) | 3:36 | 2025-03-20 | 2025-04-23 |
 | [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 | 2023-09-22 | 2024-04-01 |
-| [Tum Jo Mil Gye](https://open.spotify.com/track/7vBXs7qy52027RpuzietIC) | [Shikhar](https://open.spotify.com/artist/3PPDiyfJdSIL8UW8EeFmjM) | [Tum Jo Mil Gaye](https://open.spotify.com/album/0cRJ70Co1cb0ndnFLoE4EN) | 1:31 | 2025-08-18 |  |
+| [Tum Jo Mil Gye](https://open.spotify.com/track/7vBXs7qy52027RpuzietIC) | [Shikhar](https://open.spotify.com/artist/3PPDiyfJdSIL8UW8EeFmjM) | [Tum Jo Mil Gaye](https://open.spotify.com/album/0cRJ70Co1cb0ndnFLoE4EN) | 1:31 | 2025-08-18 | 2025-09-19 |
 | [Tum Jo Mile](https://open.spotify.com/track/7I8wUSlvmYKv1bf2TU3UBy) | [Shubhashish Upadhyay](https://open.spotify.com/artist/3FMZ4EYLC6d2M2I0UZgSsA), [Anurag D](https://open.spotify.com/artist/2q0wPAJHBknTwwKMsPxoAv) | [Tum Jo Mile](https://open.spotify.com/album/74MuugXpPZBBqEbp2LkSEV) | 2:45 | 2025-08-05 | 2025-09-13 |
 | [TUM JO SAATH HO](https://open.spotify.com/track/4LoBM8A2XOuiQ4Ic3IVWeu) | [Archit Tak](https://open.spotify.com/artist/2j4zrtE8NNT2KgHpCoyoYA) | [TUM JO SAATH HO](https://open.spotify.com/album/6lR4XHAh3vVFzkp9otcMBs) | 4:01 | 2023-06-08 | 2023-08-04 |
 | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/7JdzydVMtRwxr1BUIipZbv) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/album/5IoxrWkZLHmHIhZLHyiAjj) | 1:15 | 2023-09-21 | 2023-10-04 |

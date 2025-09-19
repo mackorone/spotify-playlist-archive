@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,760 likes - 100 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,765 likes - 100 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 97 | [Love & Happiness \- Live](https://open.spotify.com/track/0MBkQKu5au3kGJ5LykLWok) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Tokyo..\. Live](https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ) | 6:16 |
 | 98 | [Chain of Fools \- Live at the Olympia Theatre, Paris, May 7, 1968](https://open.spotify.com/track/2x2NfvKP47YdNxySl2DjVt) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha In Paris \(Live\)](https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz) | 2:52 |
 | 99 | [Stand by Me / Chain Gang / Don't Know Much About History / The Happy Song \- Live](https://open.spotify.com/track/4bnDjFR0UZ4QECCGBqj0LI) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Live: 1989 Memphis Music & Heritage Festival](https://open.spotify.com/album/6YQxgANveFPoKUd4gPt6DH) | 11:36 |
-| 100 | [Unconditional Love](https://open.spotify.com/track/3fKqsgKDop6bnLdpDiGXOy) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Spotify Singles](https://open.spotify.com/album/3iLgafL3t8zorpB18bKfzF) | 9:08 |
+| 100 | [Move To Groove \- Live At The Montreaux Jazz Festival/1972](https://open.spotify.com/track/6ZKvCmbRHECqbs4M8AeqNd) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Live At The Montreaux Jazz Festival](https://open.spotify.com/album/6ea4nOTkOXTEI5m0p7I0MC) | 8:10 |
 
 Snapshot ID: `AAAAAGE/W2ecoATaSBcQUacYcJyK36F6`

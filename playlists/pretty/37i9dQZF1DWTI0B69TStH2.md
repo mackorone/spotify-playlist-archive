@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:54S3G0C8oIzH1Va5WpIHS4">zofia justyńska</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,480 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,476 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 28 | [blue](https://open.spotify.com/track/2NHK219XZGLZfnP0pVYqV0) | [MUD/O](https://open.spotify.com/artist/39BnGnKHfJNx4JXrSANdkf) | [It's enough to say I tried](https://open.spotify.com/album/45gJ5mFAn3RocUfGHfBOPm) | 3:35 |
 | 29 | [Nerwy na bok](https://open.spotify.com/track/7ww82v6kviSjJC0h0WJxDS) | [Kuba Dąbrowski](https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP), [Bubito](https://open.spotify.com/artist/5tXbAvOKJtpBUoZxXHj6hz) | [Nerwy na bok](https://open.spotify.com/album/5rzD0h7tqcisv70yoZ2Tb7) | 2:26 |
 | 30 | [Gasnę](https://open.spotify.com/track/5cGbou3LUw72H6KmQE2EuZ) | [The Ferrules](https://open.spotify.com/artist/4xW3Z57gzwZQKC3ZVX0Ijk) | [Gasnę](https://open.spotify.com/album/0wTpJhzCtkymnG42e8zaY2) | 4:18 |
-| 31 | [bravo girl](https://open.spotify.com/track/6scotc51WCWORRDKDjUL2B) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [bravo girl](https://open.spotify.com/album/7vi5jgKCTShlsAbnSEiNK3) | 3:04 |
+| 31 | [bravo girl](https://open.spotify.com/track/6scotc51WCWORRDKDjUL2B) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [bravo girl](https://open.spotify.com/album/7vi5jgKCTShlsAbnSEiNK3) | 3:05 |
 | 32 | [SLIM & SHADY](https://open.spotify.com/track/0wA2YBTFnBaIvYaPS9hCD6) | [Mokebe](https://open.spotify.com/artist/5aTIqwE8d480xJS7H3iJTC), [Dżanglu](https://open.spotify.com/artist/4ZYy3V9JdLmmr9Su7FlDlP) | [SLIM & SHADY](https://open.spotify.com/album/4b2PBYObTtjDLW1ZjRdy58) | 3:05 |
 | 33 | [ZING](https://open.spotify.com/track/0K1ReevVwjAZnZxJdgHOuL) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [papablessbeatz](https://open.spotify.com/artist/162AzTq1o7CUVQP8Rn52pY) | [ZING](https://open.spotify.com/album/76WeuX9Tj1Re0A2I1sCzUP) | 1:56 |
 | 34 | [ślad](https://open.spotify.com/track/4HiXJSftCBFKIhXY5UFQUN) | [oda nova](https://open.spotify.com/artist/0H4RGeMvvrlp8zo8T9YEDU), [Filip Solen](https://open.spotify.com/artist/5aQRaG3AJ08Htrqgr4SKJ5) | [ślad](https://open.spotify.com/album/69kc4sFg5UJX8iRMxOrw4x) | 3:17 |

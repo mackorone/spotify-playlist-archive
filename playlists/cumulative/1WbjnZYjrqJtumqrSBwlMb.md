@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,183 songs - 3 day 0 hr 24 min
+1,184 songs - 3 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1138,6 +1138,7 @@
 | [WHARF TALK \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:24 | 2023-03-31 |  |
 | [WHAT A DAY](https://open.spotify.com/track/3v3gyQkwRQGwDUZ7V2q2lF) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:36 | 2023-03-31 |  |
 | [What If You Were Right The First Time?](https://open.spotify.com/track/3acb2sXcXrUQGFYJE2qHs8) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Brianstorm](https://open.spotify.com/album/3wes7jJ9Ig44rYtlYGwAh9) | 3:02 | 2020-07-22 |  |
+| [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 | 2025-09-19 |  |
 | [What The World Needs Now Is Love](https://open.spotify.com/track/0RGL4xoWE5bakfcJuhi5cp) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [I Who Have Nothing](https://open.spotify.com/album/2Um9ftNNHVdWbnOgZOcyOn) | 2:36 | 2024-08-11 |  |
 | [What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 3:09 | 2022-07-03 |  |
 | [What You Need](https://open.spotify.com/track/4Yw8TyBm9J8cpy2guHUYog) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 3:26 | 2022-12-17 |  |

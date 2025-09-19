@@ -14,7 +14,7 @@
 | [All The Same](https://open.spotify.com/track/33fKu1jFRuXJiBg5fXZQSk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [All The Same](https://open.spotify.com/album/0PJURdQhTdpGqgEJ60SZHq) | 5:24 | 2024-04-11 |  |
 | [Alone With U](https://open.spotify.com/track/3eVPlHoRinMGANyHTjyCTw) | [Stone Forte](https://open.spotify.com/artist/0FUx2oTzlbJ1eR8I9EmpAQ) | [Alone With U](https://open.spotify.com/album/3iHEf58joahl3W6wx0YyAw) | 3:06 | 2024-04-11 |  |
 | [Babyface](https://open.spotify.com/track/3S7Go0zMpO1WQpx6oZQd2y) | [Artio](https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5) | [Babyface](https://open.spotify.com/album/4L9qo6vo2gLQZIwmNNSiG2) | 3:26 | 2024-04-11 |  |
-| [Bebaynetu](https://open.spotify.com/track/5dThygvX9AZmUj58dRDiJ3) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [Bebaynetu](https://open.spotify.com/album/1Vu6krP87Wv0M5OMinxWbq) | 4:03 | 2024-04-11 | 2025-04-12 |
+| [Bebaynetu](https://open.spotify.com/track/5dThygvX9AZmUj58dRDiJ3) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [Bebaynetu](https://open.spotify.com/album/1Vu6krP87Wv0M5OMinxWbq) | 4:03 | 2024-04-11 |  |
 | [Bff](https://open.spotify.com/track/1sTbrvBuOe3dI6T4OKWuEo) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Wasted Love](https://open.spotify.com/album/2Z295mlCyk7DFybZzTG9B0) | 2:31 | 2024-04-11 | 2024-11-23 |
 | [Bff](https://open.spotify.com/track/6NvH9j53XhLJq3G5ucuI10) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Bff](https://open.spotify.com/album/7jPIgC4AJtuCtwCE1EHwvs) | 2:31 | 2024-04-11 |  |
 | [Bloodsick](https://open.spotify.com/track/32VipKuv7NVkmIEr5VWuAJ) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Bloodsick](https://open.spotify.com/album/7duWIyNqpeKx4FGnuRxK1c) | 2:44 | 2024-04-11 |  |
@@ -63,6 +63,6 @@
 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 | 2024-04-11 |  |
 | [The Sky Tonight](https://open.spotify.com/track/4yETyNaa9Aed6veTZFu4hK) | [Emmeline](https://open.spotify.com/artist/7fAUd8o33I4t30UMxfIZPR) | [Small\-Town Girls and Soft Summer Nights](https://open.spotify.com/album/6isLTenhMfUWI3VQ5KIfvJ) | 3:00 | 2024-04-11 |  |
 | [Yacht Money](https://open.spotify.com/track/15IpsxxAoY6wAkppXaGftf) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Yacht Money](https://open.spotify.com/album/7kY0EWaq3UcUhkUi5fxwb6) | 4:28 | 2024-04-11 |  |
-| [Yasuke in Roppongi](https://open.spotify.com/track/47nkIbi7iyQ5k4CHkQN8xC) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [Yasuke In Roppongi](https://open.spotify.com/album/74v6dv4Uuw3het0QzpMpia) | 5:25 | 2024-04-11 |  |
+| [Yasuke in Roppongi](https://open.spotify.com/track/47nkIbi7iyQ5k4CHkQN8xC) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [Yasuke In Roppongi](https://open.spotify.com/album/74v6dv4Uuw3het0QzpMpia) | 5:25 | 2024-04-11 | 2025-09-19 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

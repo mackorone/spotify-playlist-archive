@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,311 songs - 3 day 4 hr 17 min
+1,312 songs - 3 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [Innerspace](https://open.spotify.com/track/1TC1xwWe4QVFlx6cPGWOaH) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [Innerspace](https://open.spotify.com/album/2XLO3r4aoXtdTa6nGpR9uL) | 3:46 | 2022-04-26 | 2022-08-07 |
 | [intro \(end of the world\)](https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 1:32 | 2024-03-09 | 2024-03-11 |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-02-16 | 2022-03-18 |
+| [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 | 2025-09-18 |  |
 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 | 2023-10-28 | 2023-11-19 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-12-20 | 2021-12-29 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:27 | 2022-12-19 | 2024-12-28 |
@@ -1036,7 +1037,7 @@
 | [念](https://open.spotify.com/track/21Y7Om8LTUS5dNKqKYeywc) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [念](https://open.spotify.com/album/1QowbHwkez4o0CuheZSsan) | 4:48 | 2024-02-23 | 2024-04-19 |
 | [怎麼了](https://open.spotify.com/track/5cU1O9P0EDA0rPkPDykhIm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [終於了解自由 \(Deluxe\)](https://open.spotify.com/album/2lrmHLTedOpdP6TaZDZ77F) | 5:21 | 2023-02-28 | 2023-03-02 |
 | [思念即地獄](https://open.spotify.com/track/7EougyUYWZdE1zCzsCA1Sx) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [思念即地獄](https://open.spotify.com/album/611grh8eoY6RDvhbhaVtj0) | 4:00 | 2021-05-21 | 2021-07-31 |
-| [思覺失調](https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz) | [Wilfred Lau](https://open.spotify.com/artist/6Vfc2kpU520XHaSRDRdNCG) | [Stat UP](https://open.spotify.com/album/1fFP9aBmo9sSVQXQK5wTqd) | 3:25 | 2022-10-12 |  |
+| [思覺失調](https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz) | [Wilfred Lau](https://open.spotify.com/artist/6Vfc2kpU520XHaSRDRdNCG) | [Stat UP](https://open.spotify.com/album/1fFP9aBmo9sSVQXQK5wTqd) | 3:25 | 2022-10-12 | 2025-09-19 |
 | [怪我只敢做好人](https://open.spotify.com/track/3xO69oVpP3pSIKG9CIMEm4) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [怪我只敢做好人](https://open.spotify.com/album/6W16HM33LbSuXP9twr1Md0) | 3:58 | 2023-07-10 | 2023-09-06 |
 | [悲觀主義](https://open.spotify.com/track/7bbk6utQUtWWbbZaATBbf7) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [悲觀主義](https://open.spotify.com/album/7jGpEFCdCYTDVU5VecRfOE) | 3:48 | 2025-03-22 | 2025-07-03 |
 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 | 2021-03-27\* | 2023-02-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechni si ženy z Česka a Slovenska na plný pecky! Playlist byl sestaven ve spolupráci s THERA
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,342 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,343 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 54 | [Plán A](https://open.spotify.com/track/1q1GDqMr0jmkyjTrh8QXft) | [Tajči Gali](https://open.spotify.com/artist/2qgmE0kzhXWaKAm2P8rjqX), [Farizey](https://open.spotify.com/artist/1XoAr2fwxaNxKW2bpLUgGt) | [Plán A](https://open.spotify.com/album/3uYEaVMvzAiDTHnLP7FmDj) | 2:00 |
 | 55 | [Stále som](https://open.spotify.com/track/7JeVRhvdsU2s6HpuUPdEuA) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Ja, Sára](https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte) | 2:38 |
 
-Snapshot ID: `AAAAAOLELfq2s5fgcV4I5LrNvNiWWVl2`
+Snapshot ID: `AAAAAOOEOJi9UaGuhGqNVwuT/bkO2Ruw`

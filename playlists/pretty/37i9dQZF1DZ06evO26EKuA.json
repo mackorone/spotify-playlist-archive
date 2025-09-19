@@ -1,12 +1,12 @@
 {
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 459543,
+  "num_followers": 459634,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAABcpGXKHDBFqe04QFeZ2arq",
+  "snapshot_id": "aMn6AAAAAABOfu79+wrKI8z92G9tPeZP",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy As\u00ed",
-        "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Quiero Charlar Con La Muerte",
-      "url": "https://open.spotify.com/track/7rkHACbUWdirRZ3lrHCxET"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homenaje A Una Vida Vol 1",
         "url": "https://open.spotify.com/album/4c2ZYYDwVqpfShY6IJGoFi"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 166200,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/3v8d12Ogo5N2ucwReogiSq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy As\u00ed",
+        "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Quiero Charlar Con La Muerte",
+      "url": "https://open.spotify.com/track/7rkHACbUWdirRZ3lrHCxET"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volver\u00e9 a Amar",
-        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 152306,
-      "name": "Que Vivan Las Mujeres",
-      "url": "https://open.spotify.com/track/42Ja72gm1M9ddPKoIVotVI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 124680,
       "name": "Y No Me Lo Das",
       "url": "https://open.spotify.com/track/4L8MlmRxoCRSzTP5PECCDx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 152306,
+      "name": "Que Vivan Las Mujeres",
+      "url": "https://open.spotify.com/track/42Ja72gm1M9ddPKoIVotVI"
     },
     {
       "added_at": null,

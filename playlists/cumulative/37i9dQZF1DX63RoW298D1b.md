@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-230 songs - 9 hr 43 min
+232 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Angel Wings](https://open.spotify.com/track/2XZC2qNKbAKHLpvJH0BEZs) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Angel Wings](https://open.spotify.com/album/65XjpkXA9NZbuhOaEOqGnT) | 2:58 | 2024-02-13 | 2025-03-13 |
 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 | 2023-05-09 | 2024-02-03 |
 | [Archipelago](https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Archipelago](https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9) | 2:38 | 2024-01-04 |  |
-| [Authentic](https://open.spotify.com/track/79WuHtIUNcbSeDmKrUQKas) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Authentic](https://open.spotify.com/album/7vkO9Ja6IlloWVRk3PzCex) | 2:42 | 2025-01-15 |  |
+| [Authentic](https://open.spotify.com/track/79WuHtIUNcbSeDmKrUQKas) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Authentic](https://open.spotify.com/album/7vkO9Ja6IlloWVRk3PzCex) | 2:42 | 2025-01-15 | 2025-09-19 |
 | [Autumn Song](https://open.spotify.com/track/5D1S7lI0guR6YcGcKjtNbq) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Autumn Song](https://open.spotify.com/album/3wWlrBCF10tWs73IQIUnJA) | 2:30 | 2023-11-07 | 2024-11-20 |
 | [Beautiful](https://open.spotify.com/track/7yXwSf40aUSSRQTAjg2TRV) | [Halbert Stone](https://open.spotify.com/artist/2iLk7f4nMNmLZytDO6vaYc) | [Beautiful](https://open.spotify.com/album/1u4j15TBVVYGUi7pZsYqGF) | 2:34 | 2023-05-09 | 2025-02-27 |
 | [Beauty](https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Beauty](https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP) | 2:36 | 2023-05-09 |  |
@@ -49,7 +49,7 @@
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2023-05-09 | 2025-02-27 |
 | [Credo](https://open.spotify.com/track/7GhpnGB1M8qQ04yqHLdoaE) | [Samuel Yates](https://open.spotify.com/artist/490O7wKhdxCPXCpZyklL9R) | [Credo](https://open.spotify.com/album/7F2h54BsLRxDAfmi0Wa4f9) | 2:30 | 2023-05-09 | 2025-02-27 |
 | [Dahlia](https://open.spotify.com/track/64ovZi9kM3UqPSPgGYaf5l) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Dahlia](https://open.spotify.com/album/78wynCL5BJIJe0utApFZko) | 2:55 | 2023-12-12 |  |
-| [Deferment](https://open.spotify.com/track/0ibKzzyo527y98eTHe7Ktg) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Deferment](https://open.spotify.com/album/24Ldw57mkv72yL3aq8yYV6) | 2:06 | 2023-11-07 |  |
+| [Deferment](https://open.spotify.com/track/0ibKzzyo527y98eTHe7Ktg) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Deferment](https://open.spotify.com/album/24Ldw57mkv72yL3aq8yYV6) | 2:06 | 2023-11-07 | 2025-09-19 |
 | [Del Mar](https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Del Mar](https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ) | 2:40 | 2023-08-01 |  |
 | [Diaphanous](https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Diaphanous](https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS) | 2:53 | 2023-11-13 |  |
 | [Divine](https://open.spotify.com/track/0dPlWCE1GsnltA6q0n6nzN) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Divine](https://open.spotify.com/album/2aIQpr7QM5i2xuVQuB9YpB) | 2:45 | 2024-01-04 | 2025-06-11 |
@@ -145,9 +145,11 @@
 | [Mystic Rivers](https://open.spotify.com/track/24qUwzHcqj4x9JIJ5FP5JO) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Mystic Rivers](https://open.spotify.com/album/2J5LFFXdwIVXxLSmm3wxej) | 3:11 | 2024-05-01 |  |
 | [New Joy](https://open.spotify.com/track/434bUY0izo0oDWZgs9QEb7) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Horse Teeth](https://open.spotify.com/album/31WT0zYnQLseWQPfmCTYt7) | 1:57 | 2023-05-09 | 2024-02-03 |
 | [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 | 2023-10-10 |  |
+| [Nightshade Galaxy](https://open.spotify.com/track/27ByWR4rUApJ5wgclxMLNx) | [Blauberg Calm](https://open.spotify.com/artist/78Z2LNd3NigoMoYVYBSi8P) | [Nightshade Galaxy](https://open.spotify.com/album/1wthHxGAWdBxO4XgKP8Le0) | 2:08 | 2025-09-17 |  |
 | [Notturno](https://open.spotify.com/track/1vwLrgMsd1sCPpXTzXxuBL) | [Finja Seiden](https://open.spotify.com/artist/4HgoiVnZ4T75NSjXygiOyH) | [Notturno](https://open.spotify.com/album/5sTu5u2ARluSip9mOYGXBc) | 3:11 | 2024-03-19 | 2025-09-18 |
 | [Now And Before](https://open.spotify.com/track/4tMEY0J6K9yqD87Soyghrk) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [Now And Before](https://open.spotify.com/album/36YDYhgvnRFligfHWZbbIk) | 2:01 | 2025-02-26 |  |
 | [Now The Leaves Are Falling](https://open.spotify.com/track/04BbfF1OmlQYySiRkosklB) | [Lexi Bradley](https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm) | [Now The Leaves Are Falling](https://open.spotify.com/album/2LTIXjHfpEQ5qTjGFrv9Mk) | 2:12 | 2023-11-13 | 2025-04-10 |
+| [Old Love Letters](https://open.spotify.com/track/2mhP5eGS9TMJ1m29xzP7F6) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Old Love Letters](https://open.spotify.com/album/1prkPC6ctTBlDKcQ6zUplq) | 2:47 | 2025-09-17 |  |
 | [On Silver Hill](https://open.spotify.com/track/2vj5NP6jpVbPqoxhopxcRA) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [On Silver Hill](https://open.spotify.com/album/0SRYu5fWTwlurk6AugaODm) | 2:08 | 2024-05-07 |  |
 | [Once Forever Ago](https://open.spotify.com/track/0bGOgz4DShPF9bTMglH0n5) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Once Forever Ago](https://open.spotify.com/album/4cR5Wy8LV56sEP177KVrd6) | 2:26 | 2024-03-05 |  |
 | [Onward](https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Onward](https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i) | 2:14 | 2023-06-20 |  |

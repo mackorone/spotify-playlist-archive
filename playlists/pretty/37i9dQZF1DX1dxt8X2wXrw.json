@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 77761,
+  "num_followers": 77758,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-09-17 05:30:06",
       "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 180117,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
+    },
+    {
+      "added_at": "2025-09-17 05:30:06",
+      "album": {
         "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
         "url": "https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 219968,
       "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
       "url": "https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx"
-    },
-    {
-      "added_at": "2025-09-17 05:30:06",
-      "album": {
-        "name": "Dancer",
-        "url": "https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 180117,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
     },
     {
       "added_at": "2025-09-17 05:30:06",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-09-17 05:30:06",
       "album": {
-        "name": "Summerinlove",
-        "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 271047,
-      "name": "Summerinlove",
-      "url": "https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU"
-    },
-    {
-      "added_at": "2025-09-17 05:30:06",
-      "album": {
         "name": "Gen Z Luv",
         "url": "https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 153266,
       "name": "Gen Z Luv",
       "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
+    },
+    {
+      "added_at": "2025-09-17 05:30:06",
+      "album": {
+        "name": "Summerinlove",
+        "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 271047,
+      "name": "Summerinlove",
+      "url": "https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU"
     },
     {
       "added_at": "2025-09-17 05:30:06",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-09-17 05:30:06",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg"
-    },
-    {
-      "added_at": "2025-09-17 05:30:06",
-      "album": {
         "name": "Toroka",
         "url": "https://open.spotify.com/album/4ygUCm61U3CV3xnJepGieC"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 202075,
       "name": "Toroka",
       "url": "https://open.spotify.com/track/6RMltEudPPFoJuUoshxRBB"
+    },
+    {
+      "added_at": "2025-09-17 05:30:06",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg"
     },
     {
       "added_at": "2025-09-17 05:30:06",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-09-17 05:30:06",
       "album": {
-        "name": "ALL IN",
-        "url": "https://open.spotify.com/album/193wg0lwoipCYBEneekEkv"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 136096,
-      "name": "ALL IN",
-      "url": "https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P"
-    },
-    {
-      "added_at": "2025-09-17 05:30:06",
-      "album": {
         "name": "Drown",
         "url": "https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4"
       },
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2025-09-17 05:30:06",
       "album": {
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/193wg0lwoipCYBEneekEkv"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 136096,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P"
+    },
+    {
+      "added_at": "2025-09-17 05:30:06",
+      "album": {
         "name": "act x: n da mornin",
         "url": "https://open.spotify.com/album/3dPpOhzZ93SSz2E5qD47HR"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 131833,
       "name": "act x: n da mornin",
       "url": "https://open.spotify.com/track/2BcLIOfKXWk7mz5HSyhAKO"
-    },
-    {
-      "added_at": "2025-09-17 05:30:06",
-      "album": {
-        "name": "4EVER",
-        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 159595,
-      "name": "4EVER",
-      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
     },
     {
       "added_at": "2025-09-17 05:30:06",
@@ -1231,6 +1215,22 @@
       "duration_ms": 166849,
       "name": "breath away",
       "url": "https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91"
+    },
+    {
+      "added_at": "2025-09-17 05:30:06",
+      "album": {
+        "name": "4EVER",
+        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 159595,
+      "name": "4EVER",
+      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
     },
     {
       "added_at": "2025-09-17 05:30:06",

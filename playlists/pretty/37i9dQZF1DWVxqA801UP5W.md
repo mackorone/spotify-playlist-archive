@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,924 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,942 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 43 | [Lavender Haze \- Snakehips Remix](https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Lavender Haze \(Remixes\)](https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr) | 3:07 |
 | 44 | [Don't Go Yet \- Major Lazer Remix](https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Don't Go Yet \(Major Lazer Remix\)](https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo) | 2:51 |
 | 45 | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/album/3jQOaHRiMgqxMN2qo1SZTJ) | 3:12 |
-| 46 | [Wait So Long \- RE\\MIND Remix](https://open.spotify.com/track/0yZjFgJYHJwnMMBhzEBP7J) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [RE\\MIND](https://open.spotify.com/artist/3V9dIUKIoVArPUrt30P4XX) | [Wait So Long \(RE\\MIND Remix\)](https://open.spotify.com/album/26xNafbC2ESdSmzYMsr0S0) | 4:49 |
+| 46 | [Lil Boo Thang \- Galantis Remix](https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Lil Boo Thang \(Galantis Remix\)](https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5) | 2:09 |
 | 47 | [exes \- Regard Remix](https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [exes \(Regard Remix\)](https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9) | 3:02 |
-| 48 | [Lil Boo Thang \- Galantis Remix](https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Lil Boo Thang \(Galantis Remix\)](https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5) | 2:09 |
+| 48 | [Wait So Long \- RE\\MIND Remix](https://open.spotify.com/track/0yZjFgJYHJwnMMBhzEBP7J) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [RE\\MIND](https://open.spotify.com/artist/3V9dIUKIoVArPUrt30P4XX) | [Wait So Long \(RE\\MIND Remix\)](https://open.spotify.com/album/26xNafbC2ESdSmzYMsr0S0) | 4:49 |
 | 49 | [Blessings \- CamrinWatsin Remix](https://open.spotify.com/track/3bErnntUPcW8jLbixhpZmQ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6) | [Blessings \- The Remixes \(Part 1\)](https://open.spotify.com/album/2jKX83sjxv0Jwk35xBR0Us) | 3:46 |
 | 50 | [JOY \(Back On 74\)](https://open.spotify.com/track/0K2PQziTagDXHiCFPqoE82) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Back on 74\)](https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z) | 4:31 |
 

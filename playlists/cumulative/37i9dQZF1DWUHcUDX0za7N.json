@@ -355,6 +355,28 @@
     },
     {
       "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/2Lv338rTrbxhL8FfrDYnUq"
+      },
+      "artists": [
+        {
+          "name": "Musta4a",
+          "url": "https://open.spotify.com/artist/4if5dwAkHl7FZNCJTIB5e9"
+        },
+        {
+          "name": "Yugoszn",
+          "url": "https://open.spotify.com/artist/7yWR3RApVuDFsZ6MqOHyFn"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/2X8iFO7FVV26zTA6YJhcS9"
+    },
+    {
+      "album": {
         "name": "ANY GIVEN MONDAY III",
         "url": "https://open.spotify.com/album/0rKiUKuJeVT67WzL0OsEaW"
       },
@@ -406,7 +428,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 240000,
       "name": "African Boy, on a Cruise",
       "url": "https://open.spotify.com/track/3iKSXR7Xm5sA6q5NcpWFl6"
@@ -868,7 +890,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 114825,
       "name": "Automoto (feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/2y9fqvlVSHGAMbCEizSKaZ"
@@ -3324,7 +3346,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 142138,
       "name": "Designer Baby",
       "url": "https://open.spotify.com/track/6N24qh0lNjPDph0rdWDxKK"
@@ -3372,6 +3394,28 @@
       "duration_ms": 192731,
       "name": "Devil Agent (2 Fighting)",
       "url": "https://open.spotify.com/track/6nFL2WU0fb8VEu9NVfGtw6"
+    },
+    {
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/7rybIiBcDPQ2Y4nOp8w13G"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/4me9zDEParfetwhlguxvHp"
     },
     {
       "album": {
@@ -4120,7 +4164,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 148571,
       "name": "ESCAPE PLAN",
       "url": "https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm"
@@ -4624,7 +4668,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 98964,
       "name": "flavor.",
       "url": "https://open.spotify.com/track/3q51YwUa160xFufWZuPM78"
@@ -4646,6 +4690,24 @@
       "duration_ms": 156055,
       "name": "Flimsy Excusees",
       "url": "https://open.spotify.com/track/2rB5XZMKGKxbhXS9B5HVTp"
+    },
+    {
+      "album": {
+        "name": "Pawon + Fly",
+        "url": "https://open.spotify.com/album/6twgGorVU0d808ToQ632pw"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118939,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/1GYbLczHk6f3O6drvghsB4"
     },
     {
       "album": {
@@ -4704,7 +4766,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 155883,
       "name": "Forever (feat. Shallipopi)",
       "url": "https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08"
@@ -6242,7 +6304,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 169482,
       "name": "Ji Jo Mi",
       "url": "https://open.spotify.com/track/5fQuG6aDMyfQ18iMMmJpLY"
@@ -6544,7 +6606,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 122068,
       "name": "KOMOLE",
       "url": "https://open.spotify.com/track/2xrb6kn0KcNbLg4eUXxzZe"
@@ -7552,7 +7614,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 153997,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/6OLsNF93NAkdaWJXQev6Xi"
@@ -8724,7 +8786,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 141052,
       "name": "O.U.A.T",
       "url": "https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn"
@@ -10758,7 +10820,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 172394,
       "name": "Sexy Lady",
       "url": "https://open.spotify.com/track/3k6rW3h5pnZlN0E3rUkNba"
@@ -11174,7 +11236,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 126214,
       "name": "Slide",
       "url": "https://open.spotify.com/track/02h7LkDcneD5ucrBtWynF3"
@@ -11458,7 +11520,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 186352,
       "name": "Space",
       "url": "https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN"
@@ -12343,6 +12405,36 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "BIGBIRD KUTI",
+          "url": "https://open.spotify.com/artist/7n7wewebGwzL1Yz8yxdz4M"
+        },
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        },
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/4RZJ4xsVuq20lNS9eDe4ly"
+    },
+    {
+      "album": {
         "name": "BILLION DOLLAR DREAM",
         "url": "https://open.spotify.com/album/2ffIFz0rBMZrnlTlZm00nz"
       },
@@ -12652,7 +12744,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-09",
+      "date_removed": null,
       "duration_ms": 163404,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/1DTVhkf9ATO3hoPrCrh0iX"
@@ -13240,7 +13332,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 178802,
       "name": "Who's Really Rapping",
       "url": "https://open.spotify.com/track/6YXiZEP5bMhEQV5TJovgnz"
@@ -13796,7 +13888,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 156080,
       "name": "ZAAZAA",
       "url": "https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj"

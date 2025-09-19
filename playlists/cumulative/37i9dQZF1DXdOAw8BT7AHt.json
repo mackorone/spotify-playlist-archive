@@ -6537,6 +6537,24 @@
     },
     {
       "album": {
+        "name": "Trying Not to Have a Thought",
+        "url": "https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM"
+      },
+      "artists": [
+        {
+          "name": "Algernon Cadwallader",
+          "url": "https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249304,
+      "name": "noitanitsarcorP",
+      "url": "https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd"
+    },
+    {
+      "album": {
         "name": "i\u2019m still breathing",
         "url": "https://open.spotify.com/album/2AyoTkItCVeDOWklLgo2KI"
       },
@@ -8474,7 +8492,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 145893,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/1sZ0l4JoRhrNHDOplkImZR"

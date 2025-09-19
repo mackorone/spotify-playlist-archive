@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Kany",
+  "description": "Les hits zouk du moment. Photo : L\u00c9A CHURROS",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -246,7 +246,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 241334,
       "name": "Amour et Haine",
       "url": "https://open.spotify.com/track/5CDyaTaAbWzoozhZwopddf"
@@ -444,6 +444,24 @@
       "duration_ms": 191150,
       "name": "Blesser",
       "url": "https://open.spotify.com/track/5mlP39pwHpY1MjS3FFqXPq"
+    },
+    {
+      "album": {
+        "name": "Blessing you",
+        "url": "https://open.spotify.com/album/7pnhleO3tBNRDGnDxnyJ73"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9A CHURROS",
+          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167721,
+      "name": "Blessing you",
+      "url": "https://open.spotify.com/track/4mYdnx8dfBwkW0J1G4fdhT"
     },
     {
       "album": {
@@ -2107,6 +2125,28 @@
     },
     {
       "album": {
+        "name": "J'avoue, j'avoue part. 2",
+        "url": "https://open.spotify.com/album/7y79dDxIeReWrhUOh02r2Z"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Hiro",
+          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171458,
+      "name": "J'avoue, j'avoue part. 2",
+      "url": "https://open.spotify.com/track/4ZHYynp9MFmygQSrRMh71A"
+    },
+    {
+      "album": {
         "name": "J'IMAGINE",
         "url": "https://open.spotify.com/album/4oKsrRi55stpJvZ1L2PtfO"
       },
@@ -2750,7 +2790,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 154312,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/2kRv77B419PCT2N6nIHx4E"
@@ -2812,6 +2852,28 @@
       "duration_ms": 189391,
       "name": "Loin d'ici",
       "url": "https://open.spotify.com/track/22nGLFY5Ak7DYjCoIAYl2V"
+    },
+    {
+      "album": {
+        "name": "Loin de moi (Studio)",
+        "url": "https://open.spotify.com/album/4Cddzzv2N4beb8dQA1RkrZ"
+      },
+      "artists": [
+        {
+          "name": "VJ Awax",
+          "url": "https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm"
+        },
+        {
+          "name": "SAM",
+          "url": "https://open.spotify.com/artist/3bmZk0Yel5uz2zLrtWzVaw"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194942,
+      "name": "Loin de moi - Studio",
+      "url": "https://open.spotify.com/track/2ZNAILFfuZFe62K0T7ykmq"
     },
     {
       "album": {
@@ -2982,7 +3044,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 178462,
       "name": "Magic",
       "url": "https://open.spotify.com/track/7irKeE5J5mE58a0V6aqmNg"
@@ -3378,7 +3440,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 154402,
       "name": "M\u00e9tiss la",
       "url": "https://open.spotify.com/track/3RSbeeAslAyZUk9OEJ2W5k"
@@ -5058,6 +5120,24 @@
       "duration_ms": 247058,
       "name": "Succomber",
       "url": "https://open.spotify.com/track/6e0mrjKeAMZQoaEz5W7z0z"
+    },
+    {
+      "album": {
+        "name": "Sylvani",
+        "url": "https://open.spotify.com/album/7FInE5VRrjROrd6KUi8pZ4"
+      },
+      "artists": [
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226614,
+      "name": "Sylvani",
+      "url": "https://open.spotify.com/track/4rLKmKo0tutkAbMqi7fMQt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9Uz5V4eZsn.md) - [plain]
 
 > Ambient Indian sounds for your daily Yoga practise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,367 likes - 61 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,378 likes - 61 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9Uz5V4eZsn.md) - [plain]
 | 37 | [Sacred Stones](https://open.spotify.com/track/3Kij3gbe7n1gUmlTbgqo69) | [Sheila Chandra](https://open.spotify.com/artist/7eYoqLpLD211aYrxb64AzN) | [Weaving My Ancestors' Voices \(Real World Gold\)](https://open.spotify.com/album/18xHLkID2nZIjqAGCrKVs6) | 5:31 |
 | 38 | [Raga Hansadhwani](https://open.spotify.com/track/6QT56xgKBPA15RyuGft5hh) | [Pravin Godkhindi](https://open.spotify.com/artist/5zsiGj3C1bfEBeWtq0ryPe) | [Music Therapy \- For Motivation & Rejuvenation](https://open.spotify.com/album/5onhOTw07V7vWwwZW5E4Vk) | 20:19 |
 | 39 | [Raga Vachaspati](https://open.spotify.com/track/2XHoUye408nrCMwDWA1sQH) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [From the NCPA Archives](https://open.spotify.com/album/0asRCIwh1AWKSebsnAltWt) | 15:50 |
-| 40 | [Raga marwa \(Alap\)](https://open.spotify.com/track/1pL6KuDlcoZ56kpySrbGgc) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS), [Pandit Nandu Muley](https://open.spotify.com/artist/6N59YkuOVRTRV0OuMDcs7f) | [The Flow of Time](https://open.spotify.com/album/1rarYuvRtVudEWp0btZZ9g) | 8:51 |
+| 40 | [Raga marwa \(Alap\)](https://open.spotify.com/track/1pL6KuDlcoZ56kpySrbGgc) | [Pandit Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS), [Pandit Nandu Muley](https://open.spotify.com/artist/6N59YkuOVRTRV0OuMDcs7f) | [The Flow of Time](https://open.spotify.com/album/1rarYuvRtVudEWp0btZZ9g) | 8:51 |
 | 41 | [Raga Bhoopali](https://open.spotify.com/track/2FvS3T9QA1K7RibQDrTYqc) | [Sangit Om](https://open.spotify.com/artist/51OgTOMeriyJbz07cpve3u) | [The Spirit of Yoga](https://open.spotify.com/album/3twYsK4gKVEaBVOUUdeT88) | 3:52 |
 | 42 | [Darashan Maago](https://open.spotify.com/track/2ZjPWpIuoNRT2NY1D0n6vr) | [Snatam Kaur](https://open.spotify.com/artist/6NvMFz8onERoCM6bKjTASJ) | [Beloved](https://open.spotify.com/album/075EtImHqtDYPvYcypAGNQ) | 12:55 |
 | 43 | [Peace](https://open.spotify.com/track/2G05MCwb1Cnk1csGaU3ZY5) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion Collection 1 \- Blessings of the Heart](https://open.spotify.com/album/02CVgMWdeo6X7VfqajyEry) | 5:05 |

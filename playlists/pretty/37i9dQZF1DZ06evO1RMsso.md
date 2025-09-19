@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,627 likes - 42 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,641 likes - 42 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 35 | [A Tree For My Bed](https://open.spotify.com/track/799BZgHYabYSYp7VtpIWcb) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jurassic Park](https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf) | 2:12 |
 | 36 | [Main Theme \(From "Schindler's List"\)](https://open.spotify.com/track/6uDHjpkyezYfIlSwW6HfkG) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Nicola Benedetti](https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW), [Bournemouth Symphony Orchestra](https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB), [Kirill Karabits](https://open.spotify.com/artist/4R3RDYAysOS0Joet8zTxc7) | [The Silver Violin](https://open.spotify.com/album/47VlUP2jxeitw3MaAtIPQn) | 3:48 |
 | 37 | [Anakin's Betrayal](https://open.spotify.com/track/4sLtmtKMmA5iCIa90tWhSe) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 4:05 |
-| 38 | [Princess Leia's Theme](https://open.spotify.com/track/7hlYfQpGJWdheP2quiyz8j) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 4:23 |
-| 39 | [March of the Resistance](https://open.spotify.com/track/420y9qWviZ4cdneynQWSKr) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 2:35 |
+| 38 | [March of the Resistance](https://open.spotify.com/track/420y9qWviZ4cdneynQWSKr) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 2:35 |
+| 39 | [Princess Leia's Theme](https://open.spotify.com/track/7hlYfQpGJWdheP2quiyz8j) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 4:23 |
 | 40 | [Star Wars \(Main Theme\)](https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 5:46 |
 | 41 | [Hymn To The Fallen \- From "Saving Private Ryan" Soundtrack](https://open.spotify.com/track/71zPpqRMdkEUCl7cPQIBrV) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Saving Private Ryan](https://open.spotify.com/album/60Ymcp3amHOWlPfPnNeNSI) | 6:10 |
 | 42 | [Theme from Superman \- Concert Version](https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Superman: The Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Hlfql6zSPcQGyZZ6TY5jO) | 4:24 |
 
-Snapshot ID: `aMiogAAAAADEP5cVeQy/L8AKjypKsPCF`
+Snapshot ID: `aMn6AAAAAAAc1yKBI/GhQ3ZNjcTwyZT+`

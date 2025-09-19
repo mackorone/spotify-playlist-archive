@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Crudo Means Raw
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,581 likes - 66 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,577 likes - 66 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 59 | [No Te Kille](https://open.spotify.com/track/6F0huMsOBe2NeqBQ8VW1Oo) | [Covi Quintana](https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN) | [No Te Kille](https://open.spotify.com/album/6yQz8nmIHjmYSfH1Ra4ZXK) | 3:21 |
 | 60 | [Falta Otro](https://open.spotify.com/track/3sfCIuoce3P6gxQM4oQqRA) | [Mr Cowans](https://open.spotify.com/artist/4rj1EKvdpJDihlx2TW3lPF), [Don Pablo Mures](https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [Maeo](https://open.spotify.com/artist/3twM6hBRnxGCEeNwg5YNtr), [El Boys C](https://open.spotify.com/artist/3B1GmppngulhD9aMDzTLs4) | [Falta Otro](https://open.spotify.com/album/26cgtxNRDmz815MkObJKSa) | 4:53 |
 | 61 | [NACIMOS POR LA PLATA](https://open.spotify.com/track/2zhJhmSSsd6BjPQP0NzJX6) | [El Charri](https://open.spotify.com/artist/5qTqU3wq4x1DonsVsi60Iy), [Don Pablo Mures](https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k), [Chamaco](https://open.spotify.com/artist/1xCbQhtV5c1Vc1I1n2jyv0), [Aldair Productions](https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN) | [NACIMOS POR LA PLATA](https://open.spotify.com/album/6dJQgDlZZAQldxozgWec7p) | 4:16 |
-| 62 | [LA ÚLTIMA CITA](https://open.spotify.com/track/4ZhifSYGebrMtMtbPUIhkk) | [Andiex](https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY), [LIL VEKZ](https://open.spotify.com/artist/6LXBLKP1T8O5oGnb4NahKk) | [LA ÚLTIMA CITA](https://open.spotify.com/album/6Xr4uOzaPQXfhT4dBwgU38) | 3:54 |
+| 62 | [LA ÚLTIMA CITA](https://open.spotify.com/track/4ZhifSYGebrMtMtbPUIhkk) | [Andiex](https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY), [Lil Vekz](https://open.spotify.com/artist/6zWFbpS3lI1lxYrK9HoTGo) | [LA ÚLTIMA CITA](https://open.spotify.com/album/6Xr4uOzaPQXfhT4dBwgU38) | 3:54 |
 | 63 | [Si Dios Lo Quería](https://open.spotify.com/track/6mZbaOtGkNdLd5npcDilJc) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Si Dios Lo Quería](https://open.spotify.com/album/0MFAysIypmOEavoQcAsZXO) | 3:33 |
 | 64 | [¿A Quién Le Debo?](https://open.spotify.com/track/5gNj5Q9TmzzOIpgNRr37Ru) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [¿A Quién Le Debo?](https://open.spotify.com/album/3cfcLOKS1QoExbnqat3MBC) | 3:27 |
 | 65 | [Mi Cora](https://open.spotify.com/track/45ct8eQ190WelNwKRcoqeU) | [Nohaaddana](https://open.spotify.com/artist/2w4vDNeEe7xccBqtBNjPcA) | [Mi Cora](https://open.spotify.com/album/4aUYU4E0KHqdfFafYvu8YZ) | 3:04 |

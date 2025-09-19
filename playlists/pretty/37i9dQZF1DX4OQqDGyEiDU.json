@@ -531,22 +531,6 @@
     {
       "added_at": "2025-09-16 15:00:05",
       "album": {
-        "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
-        "url": "https://open.spotify.com/album/0VT7LIPGfvANx4jh5s11Ui"
-      },
-      "artists": [
-        {
-          "name": "\u306a\u308b\u307f\u3084",
-          "url": "https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
-      "url": "https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5"
-    },
-    {
-      "added_at": "2025-09-16 15:00:05",
-      "album": {
         "name": "ROSE",
         "url": "https://open.spotify.com/album/2l7pgbmqxrUzgY7ppseiGv"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 161872,
       "name": "\u6625\u5d50",
       "url": "https://open.spotify.com/track/3wM3VFL0nuEhwATHcJfPSm"
+    },
+    {
+      "added_at": "2025-09-16 15:00:05",
+      "album": {
+        "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/0VT7LIPGfvANx4jh5s11Ui"
+      },
+      "artists": [
+        {
+          "name": "\u306a\u308b\u307f\u3084",
+          "url": "https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5"
     },
     {
       "added_at": "2025-09-16 15:00:05",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-09-16 15:00:05",
       "album": {
-        "name": "\u4eba\u30de\u30cb\u30a2",
-        "url": "https://open.spotify.com/album/0oUGAS1qyR8O5jbNe71uKn"
-      },
-      "artists": [
-        {
-          "name": "Sasuke Haraguchi",
-          "url": "https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3"
-        }
-      ],
-      "duration_ms": 127200,
-      "name": "\u4eba\u30de\u30cb\u30a2",
-      "url": "https://open.spotify.com/track/4H89WUjBaQMIiqcnMSVX1j"
-    },
-    {
-      "added_at": "2025-09-16 15:00:05",
-      "album": {
         "name": "\u32f0\u8cac\u4efb\u96c6\u5408\u4f53",
         "url": "https://open.spotify.com/album/5wL21xdm0DWF6jIG1mE1gI"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 172470,
       "name": "\u30b0\u30c3\u30d0\u30a4\u5ba3\u8a00",
       "url": "https://open.spotify.com/track/2sQDwbzGSpHXwnIAOrcDn9"
+    },
+    {
+      "added_at": "2025-09-16 15:00:05",
+      "album": {
+        "name": "\u4eba\u30de\u30cb\u30a2",
+        "url": "https://open.spotify.com/album/0oUGAS1qyR8O5jbNe71uKn"
+      },
+      "artists": [
+        {
+          "name": "Sasuke Haraguchi",
+          "url": "https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3"
+        }
+      ],
+      "duration_ms": 127200,
+      "name": "\u4eba\u30de\u30cb\u30a2",
+      "url": "https://open.spotify.com/track/4H89WUjBaQMIiqcnMSVX1j"
     },
     {
       "added_at": "2025-09-16 15:00:05",

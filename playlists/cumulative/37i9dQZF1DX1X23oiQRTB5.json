@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "GIMS x SCH x La Mano 1.9 au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Gazo au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -90,6 +90,28 @@
       "duration_ms": 152440,
       "name": "10 minutes",
       "url": "https://open.spotify.com/track/3KLqY7E5dOgvfZ6qppQ9u7"
+    },
+    {
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/2yF9faLFKf5b5nbo5DxMOb"
+      },
+      "artists": [
+        {
+          "name": "JRK 19",
+          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
+        },
+        {
+          "name": "Freeze corleone",
+          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "112",
+      "url": "https://open.spotify.com/track/6LMeT9MN8aYMT1sp6CPVZ3"
     },
     {
       "album": {
@@ -1736,7 +1758,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 169906,
       "name": "David Douillet",
       "url": "https://open.spotify.com/track/1pDNTAJjd9nRChEiGXxnr7"
@@ -2363,6 +2385,28 @@
     },
     {
       "album": {
+        "name": "Flying Blue",
+        "url": "https://open.spotify.com/album/2n2zlLuUnCKLgjQLPLEsMS"
+      },
+      "artists": [
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Flying Blue",
+      "url": "https://open.spotify.com/track/7JGEUwyfP2oH2nbMllxeo8"
+    },
+    {
+      "album": {
         "name": "FRAUDE",
         "url": "https://open.spotify.com/album/1ds595bn2azH1sYiG38A66"
       },
@@ -2456,6 +2500,28 @@
       "duration_ms": 149064,
       "name": "Freestyle LVL UP 2",
       "url": "https://open.spotify.com/track/7DOqkqVZuvPhKIAtVXjZo1"
+    },
+    {
+      "album": {
+        "name": "French Riviera",
+        "url": "https://open.spotify.com/album/4PGUqRAkVCUhLxFBwFhopW"
+      },
+      "artists": [
+        {
+          "name": "Rim'K",
+          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152049,
+      "name": "French Riviera",
+      "url": "https://open.spotify.com/track/3geOCQaZHm3GRUolmeZpqv"
     },
     {
       "album": {
@@ -5438,7 +5504,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 178200,
       "name": "Plus pareil (feat. Gazo)",
       "url": "https://open.spotify.com/track/51OxkEhk8CwEhBl6xxJn2L"
@@ -6670,7 +6736,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 181600,
       "name": "Tendance",
       "url": "https://open.spotify.com/track/48Lf3BlGjy9I6505nEwWNl"
@@ -6904,7 +6970,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 209479,
       "name": "Tu veux quoi",
       "url": "https://open.spotify.com/track/6oUTxLiDzwdZWsQyGFZ03d"
@@ -7120,6 +7186,24 @@
       "duration_ms": 187027,
       "name": "VVS",
       "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"
+    },
+    {
+      "album": {
+        "name": "Willy Wonka",
+        "url": "https://open.spotify.com/album/1pvX4ZwsxdyRzcqtBwBGKf"
+      },
+      "artists": [
+        {
+          "name": "Bilouki",
+          "url": "https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183050,
+      "name": "Willy Wonka",
+      "url": "https://open.spotify.com/track/2bdn9JRP2J0T48V35BLjCP"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 135424,
+  "num_followers": 135440,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAAAL2VeQtfulWoUz5pK/MwzZ",
+  "snapshot_id": "aMn6AAAAAACD81elKZ1UF/2cgK8VXXvU",
   "tracks": [
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance With My Father",
-        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
+        "name": "The Night I Fell In Love",
+        "url": "https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 304666,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0sIkUPLns02tRPM7pjQEj4"
+      "duration_ms": 317746,
+      "name": "Wait for Love",
+      "url": "https://open.spotify.com/track/0y2O8TW10Pj3fel0Upqa54"
     },
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Night I Fell In Love",
-        "url": "https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY"
+        "name": "Dance With My Father",
+        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 317746,
-      "name": "Wait for Love",
-      "url": "https://open.spotify.com/track/0y2O8TW10Pj3fel0Upqa54"
+      "duration_ms": 304666,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0sIkUPLns02tRPM7pjQEj4"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Any Love",
-        "url": "https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 302533,
-      "name": "Any Love",
-      "url": "https://open.spotify.com/track/6BixR2rv0aozttgKLDlC5s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Luther Vandross",
         "url": "https://open.spotify.com/album/0JzmsNDLZ6NCc6Mc3J2UgN"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 338533,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/1xjR98caFMyxOlXkvj56ZK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Any Love",
+        "url": "https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 302533,
+      "name": "Any Love",
+      "url": "https://open.spotify.com/track/6BixR2rv0aozttgKLDlC5s"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Night I Fell In Love",
+        "url": "https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 245560,
+      "name": "Creepin'",
+      "url": "https://open.spotify.com/track/5cltWPM1GjCEShVZiz4cD3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luther Vandross",
         "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 373800,
       "name": "Because It's Really Love",
       "url": "https://open.spotify.com/track/4AAzip5bCUOhmDAu4eeRL4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Night I Fell In Love",
-        "url": "https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 245560,
-      "name": "Creepin'",
-      "url": "https://open.spotify.com/track/5cltWPM1GjCEShVZiz4cD3"
     },
     {
       "added_at": null,

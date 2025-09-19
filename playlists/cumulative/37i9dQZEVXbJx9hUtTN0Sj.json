@@ -4759,6 +4759,24 @@
     },
     {
       "album": {
+        "name": "Black Beatles",
+        "url": "https://open.spotify.com/album/6FfjuSkWU06SaQPOVjdojJ"
+      },
+      "artists": [
+        {
+          "name": "Leo Walt",
+          "url": "https://open.spotify.com/artist/1sPYSDiyubB8fkWvh3iFdr"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164407,
+      "name": "Black Beatles",
+      "url": "https://open.spotify.com/track/2zSMiTv0Ha4Lgfjpew23vG"
+    },
+    {
+      "album": {
         "name": "Black Friday (pretty like the sun)",
         "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
       },
@@ -14178,7 +14196,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 158774,
       "name": "git",
       "url": "https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1"
@@ -33654,7 +33672,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 216506,
       "name": "SONGI SONGI - FRENCH REMIX",
       "url": "https://open.spotify.com/track/27SNJsRbj1bg2kvxRCBaTB"
@@ -33858,7 +33876,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 274408,
       "name": "Specter",
       "url": "https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8"
@@ -36486,7 +36504,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "The Sick",
       "url": "https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA"
@@ -40832,6 +40850,24 @@
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
+    {
+      "album": {
+        "name": "Willy Wonka",
+        "url": "https://open.spotify.com/album/1pvX4ZwsxdyRzcqtBwBGKf"
+      },
+      "artists": [
+        {
+          "name": "Bilouki",
+          "url": "https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183050,
+      "name": "Willy Wonka",
+      "url": "https://open.spotify.com/track/2bdn9JRP2J0T48V35BLjCP"
     },
     {
       "album": {

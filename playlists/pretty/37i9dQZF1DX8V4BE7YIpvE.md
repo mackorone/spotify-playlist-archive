@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,969 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,066 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 | 99 | [Saga](https://open.spotify.com/track/3GonFKucRqYyY1QRBVqalr) | [High Fedelity Highway](https://open.spotify.com/artist/2iqYU8YJegaHYzs18bs3nG) | [Saga](https://open.spotify.com/album/6CZVMYSLfI1r5sXXCt0b8F) | 3:30 |
 | 100 | [Outrunners](https://open.spotify.com/track/3dbEGEBl2UlFHhxSPHsQrH) | [Beta Beta Beta](https://open.spotify.com/artist/3Q6xEwdxfXL8lTgj1KbXkU) | [Outrunners](https://open.spotify.com/album/1lHAsQQl2cVbrsuhKdpqdU) | 3:30 |
 
-Snapshot ID: `AAAAAPSuIFW/TvLVMuoSWDb2zI8Ivk6g`
+Snapshot ID: `AAAAAPfSUIvD9T82Wc0hZ8o3x2TG3hp8`

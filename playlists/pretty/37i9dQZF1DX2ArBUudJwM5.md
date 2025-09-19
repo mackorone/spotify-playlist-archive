@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. Curada por Sol Ortega.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,689 likes - 23 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,690 likes - 23 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 9 | [Sicaria](https://open.spotify.com/track/4ukKTac13xGAB27uHnOBT9) | [Milena Adamis](https://open.spotify.com/artist/2Bgl8dbmtHRYbgeDtWq4Yy) | [Tranzas Del Swing Vol.2](https://open.spotify.com/album/6as1rvZnLlajz5Wr4Q68Zs) | 5:32 |
 | 10 | [The labyrinth trapped you](https://open.spotify.com/track/3sO1Vc43sVbprXnpRpv0rr) | [Cia Rebeck](https://open.spotify.com/artist/6xUdgbtLYC7vFdAKr5nP44) | [The labyrinth trapped you \[DK004\]](https://open.spotify.com/album/1VUSzqXDKRCfX5o8mpC9dp) | 5:31 |
 | 11 | [Lost at 9pm](https://open.spotify.com/track/3rxfxCbXfNWIn2rwFxPdn8) | [Erika Halliday](https://open.spotify.com/artist/5HlRz2Fo1ZBzTt4RJrFlzv) | [Lost at 9pm](https://open.spotify.com/album/5gqWklcCpjfqWzc9w4rJUf) | 5:49 |
-| 12 | [Máquina De Experiencias](https://open.spotify.com/track/4H3ahu5ghqt7PwKr2ff2TA) | [PAMPA](https://open.spotify.com/artist/5tWAMlHCmAZl5gJQJjFwmS) | [Barreras Mentales](https://open.spotify.com/album/7yGaBonx8PctSKnPlf4mmY) | 5:00 |
-| 13 | [Queen Of Swords](https://open.spotify.com/track/2PSjplBcb9xHYgZdTurg88) | [Desirée Falessi](https://open.spotify.com/artist/3YPJmqPLtlrRR4oiJquoNF) | [Queen Of Swords](https://open.spotify.com/album/7eHRGdkgXkVP8nVkxLrCa0) | 6:41 |
+| 12 | [Queen Of Swords](https://open.spotify.com/track/2PSjplBcb9xHYgZdTurg88) | [Desirée Falessi](https://open.spotify.com/artist/3YPJmqPLtlrRR4oiJquoNF) | [Queen Of Swords](https://open.spotify.com/album/7eHRGdkgXkVP8nVkxLrCa0) | 6:41 |
+| 13 | [Máquina De Experiencias](https://open.spotify.com/track/4H3ahu5ghqt7PwKr2ff2TA) | [PAMPA](https://open.spotify.com/artist/5tWAMlHCmAZl5gJQJjFwmS) | [Barreras Mentales](https://open.spotify.com/album/7yGaBonx8PctSKnPlf4mmY) | 5:00 |
 | 14 | [Hit Me](https://open.spotify.com/track/3LcWadS1j2rfrcOVcS6vjc) | [Romina Cohn](https://open.spotify.com/artist/2IZzBDyzXaUQ7pu9gbmXI8) | [Hit Me](https://open.spotify.com/album/3OA4trUNkErSGCuQ9XdRyS) | 6:59 |
 | 15 | [Randomshape](https://open.spotify.com/track/1E9kknrc1pYDRn37pbcsLc) | [Mai iachetti](https://open.spotify.com/artist/575TgodOOhMtSqhGYNWAeh) | [90s Trip](https://open.spotify.com/album/0KUyW9SX1sc2zdnQ2YbLyr) | 6:26 |
 | 16 | [Maniac Girl](https://open.spotify.com/track/5tQXuFK64dK0sQ7j5oHRsm) | [Gina Demarchi](https://open.spotify.com/artist/7hqmhjZKJeV1zIxWcpBKNY) | [Lady Tazz presents Hermanas \(Part Two\)](https://open.spotify.com/album/48Sgw03L7rcXljlwKMhlWG) | 5:24 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 22 | [Cadillac](https://open.spotify.com/track/4yQoJUxgTD1qjD3vHvK8wL) | [Uma Scheffer](https://open.spotify.com/artist/2y1JA9jNWjTJY0n0b4M6GO), [EOYYV](https://open.spotify.com/artist/247OZRPayPDR9qeiZ49Vth) | [4 22](https://open.spotify.com/album/7HrPbjeueyUTxJ4R92Fi73) | 5:46 |
 | 23 | [Get that](https://open.spotify.com/track/1hiPghu8NoK8B7Y5woX50Q) | [Pert](https://open.spotify.com/artist/17HOo5fFjJngXgPQhwUAf0) | [Pleasure EP](https://open.spotify.com/album/0rffzwv2Oj8snKQGwkCQhj) | 5:17 |
 
-Snapshot ID: `AAAAAE1hvlbndTHoscubYpdRzM42eTXK`
+Snapshot ID: `AAAAADcOe2C3htb/71nnYY9GbymO8wnK`

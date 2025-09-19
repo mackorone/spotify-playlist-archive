@@ -4,7 +4,7 @@
 
 > Play the <a href="spotify:site:skzstaydium"> STAYdium Champions Quiz!</a><br/>Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-371 songs - 20 hr 2 min
+374 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,10 @@
 | [CASE 143 \-Japanese ver.\-](https://open.spotify.com/track/3IjsvJc4SK3PT0SjhHKuvB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CASE 143 \-Japanese ver.\-](https://open.spotify.com/album/2vC7q4Mem0uH1c7U6bTEeZ) | 3:11 | 2022-12-14 |  |
 | [CEREMONY](https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:44 | 2025-08-22 |  |
 | [CEREMONY \(English Version\)](https://open.spotify.com/track/4E0Qaiv0Fqm2DnIdigQTod) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:44 | 2025-08-22 |  |
+| [CEREMONY \(Festival Version \- English Version\)](https://open.spotify.com/track/0DvwGYLXwiQ4dcZt0HW0Ku) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CEREMONY \(Celebrate Remixes\)](https://open.spotify.com/album/0oAkQz5sI5UkylnzynFtCg) | 2:52 | 2025-09-18 |  |
 | [CEREMONY \(Festival Version\)](https://open.spotify.com/track/7M5Hi8WuBSsCP5ioxG0pUf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:52 | 2025-08-22 |  |
+| [CEREMONY \(Hip Hip Version \- English Version\)](https://open.spotify.com/track/56pZMj5rapecV8nqJ7ksXM) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [CEREMONY \(Celebrate Remixes\)](https://open.spotify.com/album/0oAkQz5sI5UkylnzynFtCg) | 2:37 | 2025-09-18 |  |
+| [CEREMONY \(Hooray Version \- English Version\)](https://open.spotify.com/track/4EOnsbNaLJ6xCUB5AjwJEQ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [CEREMONY \(Celebrate Remixes\)](https://open.spotify.com/album/0oAkQz5sI5UkylnzynFtCg) | 3:04 | 2025-09-18 |  |
 | [Charmer](https://open.spotify.com/track/4QDpsNBlllaLGj8zbF2EE0) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:08 | 2022-03-18 | 2024-04-19 |
 | [Charmer](https://open.spotify.com/track/5PyqnR2KX6a6qwf6l9rgpj) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:08 | 2022-03-18 |  |
 | [CHEESE](https://open.spotify.com/track/5Kllw7Fco57MHtMEGgRdoc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:02 | 2022-03-18 |  |

@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: Die\-On, Tel Kel
 
-841 songs - 1 day 18 hr 36 min
+842 songs - 1 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Bodies N Vvs](https://open.spotify.com/track/6btO1MqMZb8Qva7MrnXmrC) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Mr Fastlife](https://open.spotify.com/album/6tvyItVXcqoFjrefEk60O4) | 2:58 | 2024-08-23 | 2025-02-15 |
 | [Bogotà](https://open.spotify.com/track/2j52PuH3H76JaoNeFEwcp6) | [Mitso](https://open.spotify.com/artist/6K1YP5VKK70aE35zG7t3sV) | [Bogotà](https://open.spotify.com/album/3Tdd4b9OZQd9zw4gGSvMAK) | 3:04 | 2022-04-01 | 2022-08-27 |
 | [BOSSLAB](https://open.spotify.com/track/3slmbjKKWuyQUKHzbZPbEc) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [BOSSLAB](https://open.spotify.com/album/6OOu5f0k8Fa4bwSPjMm2oQ) | 4:32 | 2023-03-10 | 2023-12-02 |
+| [Bouc émissaire](https://open.spotify.com/track/6E8ztfHvuTix06z3KlNZB6) | [Flip](https://open.spotify.com/artist/0AvGQF1hbRypYmo5TJDwgY) | [Bouc émissaire](https://open.spotify.com/album/7IVnrFyT0BIlT9i9m420co) | 3:48 | 2025-09-18 |  |
 | [Boucle d'or](https://open.spotify.com/track/3fRx1iAvPNHA3ZIM8ObHzQ) | [Dextee](https://open.spotify.com/artist/2T0593JGcrLxhxTwHXaWiE) | [Boucle d'or](https://open.spotify.com/album/2JyabdWBZovF3bbpliYlP0) | 2:12 | 2023-03-17 | 2023-04-29 |
 | [BPM](https://open.spotify.com/track/6fZh6vpC8gIax8ILjPEb6E) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Nouvelle vie](https://open.spotify.com/album/1AVjkLXsyQoO61z02FJKRf) | 3:20 | 2024-10-25 |  |
 | [BRILLES](https://open.spotify.com/track/4CAGAkTcc1jUWP7COxfzFb) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [BRILLES](https://open.spotify.com/album/0XTugJmLUDOFHGR5Aw9J6b) | 2:14 | 2023-06-16 | 2023-10-28 |

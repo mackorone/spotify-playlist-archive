@@ -3616,7 +3616,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 158315,
       "name": "Cosmic Tide",
       "url": "https://open.spotify.com/track/2fwm5I8q9wsTfq0bdmba9G"
@@ -4358,7 +4358,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 230000,
       "name": "Destination",
       "url": "https://open.spotify.com/track/0b5QTyMSoMPLl5r6YQco2D"
@@ -6348,7 +6348,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 268872,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/7lccvYkUPYlsGUW4mDOCB3"
@@ -7104,7 +7104,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 359939,
       "name": "Geeks On Hubbard",
       "url": "https://open.spotify.com/track/30rZV8iT6jSXk5x1rC7gW0"
@@ -7126,7 +7126,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 248757,
       "name": "Geht's noch? - DJ Gigola Remix",
       "url": "https://open.spotify.com/track/00V7ezFmvR4wv4m7f9PC5A"
@@ -8761,6 +8761,24 @@
     },
     {
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/6EIOtwfNPMUhsOP4l6b7xX"
+      },
+      "artists": [
+        {
+          "name": "Disguised",
+          "url": "https://open.spotify.com/artist/3eIDHfo94uKVDqWrLDRgCG"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319726,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/22fQffIGJCZ5hSXZIQ40Em"
+    },
+    {
+      "album": {
         "name": "Montevideo",
         "url": "https://open.spotify.com/album/14WMLfOBl0aAGDfP38hBUL"
       },
@@ -9342,7 +9360,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 359136,
       "name": "Jumping Away",
       "url": "https://open.spotify.com/track/0S9YWLUkzlmewMACEl69N8"
@@ -9498,6 +9516,28 @@
       "duration_ms": 227323,
       "name": "Kiss My Acid",
       "url": "https://open.spotify.com/track/1W5bIbH1EkceLdZPp6WH6V"
+    },
+    {
+      "album": {
+        "name": "Kita Protocol",
+        "url": "https://open.spotify.com/album/6FNld454onimwJyvzPuu9Y"
+      },
+      "artists": [
+        {
+          "name": "Alokin",
+          "url": "https://open.spotify.com/artist/0EUBUNrg3RtPMNcxgLCvIb"
+        },
+        {
+          "name": "Lost Endings",
+          "url": "https://open.spotify.com/artist/65k0K8TsyQ8pZs8HPu4Rfz"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247935,
+      "name": "Kita Protocol",
+      "url": "https://open.spotify.com/track/3jRY3CHPb993iZAgo0bjbO"
     },
     {
       "album": {
@@ -10658,6 +10698,28 @@
       "duration_ms": 378181,
       "name": "Maybe I'm Wrong",
       "url": "https://open.spotify.com/track/7Azu6woSBIL0Gwj3Y79bn5"
+    },
+    {
+      "album": {
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/4QziocRlxq0VgHwO2X9vsP"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "GeezLy",
+          "url": "https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190652,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/2SVvycM3A5XdT6leTr30mv"
     },
     {
       "album": {
@@ -12303,6 +12365,24 @@
     },
     {
       "album": {
+        "name": "Obey to the Dancefloor",
+        "url": "https://open.spotify.com/album/2CdzfpgbyPNtr9wcNXWFkW"
+      },
+      "artists": [
+        {
+          "name": "Kos:mo",
+          "url": "https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245538,
+      "name": "Obey to the Dancefloor",
+      "url": "https://open.spotify.com/track/1QM9ks9MkLN3mLL6KjOFDP"
+    },
+    {
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/0bH98ZSn4uWsvDdaRDomml"
       },
@@ -13192,6 +13272,24 @@
       "duration_ms": 409139,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/2DDBrQdOIi1mtBCZocYCeo"
+    },
+    {
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/13gJUh1skJHT8IafvCl0Gc"
+      },
+      "artists": [
+        {
+          "name": "Llu\u00eds Ribalta",
+          "url": "https://open.spotify.com/artist/5LezOo3EjvTZO9wOHjAyCE"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325849,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/2WeihGqdeMOJP2RlCi1kZu"
     },
     {
       "album": {
@@ -14230,7 +14328,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 217846,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/1FxEYFrZxLoBe3P5SKZmJo"
@@ -14270,6 +14368,24 @@
       "duration_ms": 323829,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/5bVBdOVX77LPQLUKm8MPkj"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/6EIOtwfNPMUhsOP4l6b7xX"
+      },
+      "artists": [
+        {
+          "name": "Disguised",
+          "url": "https://open.spotify.com/artist/3eIDHfo94uKVDqWrLDRgCG"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270209,
+      "name": "Reflected",
+      "url": "https://open.spotify.com/track/1mJMOL5S4uDUU4MCfc3iZT"
     },
     {
       "album": {
@@ -15422,7 +15538,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 199130,
       "name": "Selective Perception - Radio Edit",
       "url": "https://open.spotify.com/track/23Imn2eLRS8lWuCgor4TUf"
@@ -15768,7 +15884,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 308571,
       "name": "Sidereal",
       "url": "https://open.spotify.com/track/33GOlIUNB1pfTt6t0SRvbY"
@@ -15790,6 +15906,24 @@
       "duration_ms": 294866,
       "name": "Siente (el Ritmo)",
       "url": "https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238260,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/3TAPQ9FqT9nRBvpdGxMEt4"
     },
     {
       "album": {
@@ -16801,6 +16935,24 @@
     },
     {
       "album": {
+        "name": "TA TA TA",
+        "url": "https://open.spotify.com/album/0QqNZEQTSdkYgZytXCMRFK"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364137,
+      "name": "TA TA TA",
+      "url": "https://open.spotify.com/track/1Ze3yn5gQ2T8gcV0GJFXzt"
+    },
+    {
+      "album": {
         "name": "Takata",
         "url": "https://open.spotify.com/album/6NmFYBL9WxmwsGcWHkheJj"
       },
@@ -17600,7 +17752,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 136285,
       "name": "The Game",
       "url": "https://open.spotify.com/track/78ZeRCHyBkTno8M2dePgRc"
@@ -17930,6 +18082,28 @@
       "duration_ms": 456984,
       "name": "The Sound of the Underground",
       "url": "https://open.spotify.com/track/173zfO8W0VXRZwbfiCPnxr"
+    },
+    {
+      "album": {
+        "name": "The Substance",
+        "url": "https://open.spotify.com/album/4gKqI4sLEdrVeZQxm8nwsV"
+      },
+      "artists": [
+        {
+          "name": "HNGT",
+          "url": "https://open.spotify.com/artist/1LMZAwKQsYL6iIyAx7VuLK"
+        },
+        {
+          "name": "bela coelho",
+          "url": "https://open.spotify.com/artist/0fZy2S8QjBWeTiFGX15Mu2"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228181,
+      "name": "The Substance",
+      "url": "https://open.spotify.com/track/6kpHtj3elCs5I5j6sW537G"
     },
     {
       "album": {
@@ -18766,7 +18940,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 313600,
       "name": "Under The Ocean",
       "url": "https://open.spotify.com/track/4JQNvmZIDSG2xWL40txXNf"
@@ -20094,6 +20268,24 @@
       "duration_ms": 351549,
       "name": "You Can't Control Me",
       "url": "https://open.spotify.com/track/65AwPDHRx3Ft6QTP0nOgDc"
+    },
+    {
+      "album": {
+        "name": "YOU CAN'T ESCAPE",
+        "url": "https://open.spotify.com/album/53yXcIYrJqDQbjvbiw1C5h"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347586,
+      "name": "YOU CAN'T ESCAPE",
+      "url": "https://open.spotify.com/track/4ew2GWVnDkaMyeA4Cu2B1M"
     },
     {
       "album": {

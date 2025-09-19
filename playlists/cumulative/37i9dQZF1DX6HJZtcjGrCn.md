@@ -2,14 +2,15 @@
 
 ### [Cena Indie](https://open.spotify.com/playlist/37i9dQZF1DX6HJZtcjGrCn)
 
-> Música independente\. A tua alternativa ao mainstream\. Foto: Carl Karlsson
+> Música independente\. A tua alternativa ao mainstream\. Foto: Noiserv, Milhanas
 
-337 songs - 20 hr 0 min
+340 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 | 2025-07-25 |  |
 | [20 \. 08 \. A fearless party between a kid and his own thoughts](https://open.spotify.com/track/7Hl1qkIjWiVRXzcq33F24W) | [Noiserv](https://open.spotify.com/artist/2DLUyAtFcP1bEOd8l6ZMys), [Surma](https://open.spotify.com/artist/0K3KGih25AbNfCp4vvNiFz) | [20 \. 08 \. A fearless party between a kid and his own thoughts](https://open.spotify.com/album/6Q69qRCmapZsjzSqh6EjKL) | 3:15 | 2025-07-17 |  |
+| [20 \. 16 \. A casa das rodas quadradas](https://open.spotify.com/track/7xLWJuXuWAKsj9w57ysC3E) | [Noiserv](https://open.spotify.com/artist/2DLUyAtFcP1bEOd8l6ZMys), [Milhanas](https://open.spotify.com/artist/4NbHlXvmfisJ4e9tNkTqgC) | [20 \. 16 \. A casa das rodas quadradas](https://open.spotify.com/album/3xTpKyMSTS2fDH13jObW1R) | 3:02 | 2025-09-19 |  |
 | [26 \(I'm Drowning\)](https://open.spotify.com/track/64REKg8Q7WDwjcP3XS87ea) | [Wendy Lucas](https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a) | [26 \(I'm Drowning\)](https://open.spotify.com/album/5FqmQnAuKP5icz2Ay0OZ4Z) | 3:19 | 2024-07-25 | 2024-08-09 |
 | [7 dias](https://open.spotify.com/track/3todR6e3uhzaqY2Guq4Qjo) | [Tiago Bettencourt](https://open.spotify.com/artist/7Aqr06WngG4dj6rArzKgUG) | [7 dias](https://open.spotify.com/album/05LW24oVoRGt8w8KpO5LWV) | 3:30 | 2025-07-18 | 2025-08-01 |
 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 | 2025-04-10 | 2025-04-25 |
@@ -47,7 +48,7 @@
 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-07-25 | 2025-01-17 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-20 |  |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2024-06-20 | 2025-09-12 |
-| [Blue](https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Blue](https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W) | 2:33 | 2025-04-03 |  |
+| [Blue](https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Blue](https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W) | 2:33 | 2025-04-03 | 2025-09-19 |
 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 | 2025-04-17 |  |
 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-06-20 | 2024-07-27 |
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-06-20 | 2024-10-04 |
@@ -59,7 +60,7 @@
 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 | 2025-03-07 |  |
 | [Canção de águas mil](https://open.spotify.com/track/6aBlpwwH4QK1val0g6FDUe) | [Samuel Úria](https://open.spotify.com/artist/5RRpftRxDNxlmo5lSn5UCg) | [Canção de águas mil](https://open.spotify.com/album/2mf1hnQvz6QWP3pfcfTFZU) | 3:58 | 2024-10-03 | 2024-10-18 |
 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 | 2025-03-28 |  |
-| [Castaway](https://open.spotify.com/track/4rD9YjjzbA2kAdUM7QlVqN) | [Cristóvam](https://open.spotify.com/artist/7p23ERQPaBJU2W0gguMNTi) | [Castaway](https://open.spotify.com/album/0dBFjxAi2chf1pfLuK6J63) | 3:19 | 2025-08-28 |  |
+| [Castaway](https://open.spotify.com/track/4rD9YjjzbA2kAdUM7QlVqN) | [Cristóvam](https://open.spotify.com/artist/7p23ERQPaBJU2W0gguMNTi) | [Castaway](https://open.spotify.com/album/0dBFjxAi2chf1pfLuK6J63) | 3:19 | 2025-08-28 | 2025-09-19 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2024-06-20 |  |
 | [Champagne](https://open.spotify.com/track/64fFsjcOMJcHNfpeqMx1w7) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Champagne / That's Life](https://open.spotify.com/album/65qwYgZjXDi3WGiN53Kl5Q) | 5:27 | 2024-12-20 | 2025-01-17 |
 | [Champagne Coast](https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 4:52 | 2024-06-20 | 2025-09-12 |
@@ -75,7 +76,7 @@
 | [Circle of Trust](https://open.spotify.com/track/76x9lsvahKXzPQVIJQLhDp) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Pink Elephant](https://open.spotify.com/album/5qLTlCTZvN24Fm1nqd7XCV) | 6:05 | 2025-05-08 | 2025-07-09 |
 | [Claw Foot](https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 2:46 | 2024-06-20 | 2024-10-25 |
 | [Coffin Change](https://open.spotify.com/track/4EW3Ebr82k827MUZK01syk) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Coffin Change](https://open.spotify.com/album/6srPIek56xx2e6aWRaiBTG) | 3:05 | 2025-02-21 | 2025-04-21 |
-| [Come Home](https://open.spotify.com/track/2oN37fFbPU1FjQCnld5p0M) | [luz](https://open.spotify.com/artist/4vva933K9mfu4kRXwgk8Oy) | [Come Home](https://open.spotify.com/album/1arJ8RHCVPyxKlOnbgSyD9) | 3:44 | 2025-08-28 |  |
+| [Come Home](https://open.spotify.com/track/2oN37fFbPU1FjQCnld5p0M) | [luz](https://open.spotify.com/artist/4vva933K9mfu4kRXwgk8Oy) | [Come Home](https://open.spotify.com/album/1arJ8RHCVPyxKlOnbgSyD9) | 3:44 | 2025-08-28 | 2025-09-19 |
 | [Coming Home](https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coming Home](https://open.spotify.com/album/5xJOewC53fRL37VrHco2de) | 2:16 | 2024-06-20 | 2024-11-11 |
 | [confession](https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [confession](https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ) | 1:24 | 2025-02-28 | 2025-05-09 |
 | [Constelação](https://open.spotify.com/track/21t2rAN3JYaUh0BmFZv0Pj) | [Manel Cruz](https://open.spotify.com/artist/3kIHdzOf4v1eV2xQZakYsY) | [Constelação](https://open.spotify.com/album/7LUPwhBK4wh1Eh6zTOqM0y) | 3:17 | 2025-05-29 | 2025-06-21 |
@@ -127,6 +128,7 @@
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2024-06-20 | 2025-02-21 |
 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:11 | 2025-08-01 |  |
 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 | 2024-06-20 |  |
+| [Good Boy](https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Boy](https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF) | 3:42 | 2025-09-19 |  |
 | [Good Enough](https://open.spotify.com/track/46CcxJGa71r6b7Kso0zCo5) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Good Enough](https://open.spotify.com/album/6RvxG9FO7YTFHJDRiEiLFH) | 2:18 | 2024-10-24 | 2025-05-23 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-09-20 |  |
 | [Good People](https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/7D1a13Dz2xlg4LY0avlTni) | 3:06 | 2024-06-20 | 2025-01-10 |
@@ -242,6 +244,7 @@
 | [Picture Window](https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 2:58 | 2025-03-21 | 2025-07-11 |
 | [Pink Skies](https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:21 | 2024-06-20 | 2024-08-04 |
 | [Porque Não Danças](https://open.spotify.com/track/3MwPeBmUfcyjDDCaiKBTrN) | [Filipe Karlsson](https://open.spotify.com/artist/0Yh7cLzoB86bDiq6fAXfB6) | [Porque Não Danças](https://open.spotify.com/album/7bVfNTAe23mCwvvNYxOTqj) | 2:39 | 2024-06-20 | 2024-10-04 |
+| [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [](https://open.spotify.com/album/null) | 4:21 | 2025-09-19 |  |
 | [Primavera](https://open.spotify.com/track/38a6BwqDanayW8iISyM4a3) | [Cassete Pirata](https://open.spotify.com/artist/2VQ14XaMYiXOr7lLePbZrf) | [A Família](https://open.spotify.com/album/0IFYHsfU1eP7rNAGIAmzhM) | 4:39 | 2024-06-20 | 2024-07-05 |
 | [priva](https://open.spotify.com/track/71N6nS5oKkG4wL39zU5JuD) | [luto](https://open.spotify.com/artist/0kxSZuqy1iP7tbH3CLRD5x), [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [priva](https://open.spotify.com/album/36LChvzBcAq0KP9zCZGC31) | 3:12 | 2025-04-24 | 2025-07-26 |
 | [Quantos Queres](https://open.spotify.com/track/1hsZPuDq8uFjG8XrrEbRUi) | [Inês Marques Lucas](https://open.spotify.com/artist/6eVIiykMS1MiFG8AkH7ILn) | [Festival da Canção 2025](https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu) | 2:58 | 2025-03-14 | 2025-03-21 |

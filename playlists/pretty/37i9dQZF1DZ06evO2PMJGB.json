@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 264971,
+  "num_followers": 265001,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAACF3qgMzDplCXERKVgskUha",
+  "snapshot_id": "aMn6AAAAAACE8CkBUHiTDVKfKSVUBBFm",
   "tracks": [
     {
       "added_at": null,
@@ -203,54 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Vai Embora",
-        "url": "https://open.spotify.com/album/6JwoRKYnWd1Dv5z6zfv0bo"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        }
-      ],
-      "duration_ms": 205785,
-      "name": "N\u00e3o Vai Embora",
-      "url": "https://open.spotify.com/track/28atBekPVlTdnU4M9Z7udd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bate",
-        "url": "https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 138143,
-      "name": "Bate",
-      "url": "https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica",
         "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
       },
@@ -303,6 +255,54 @@
       "duration_ms": 628124,
       "name": "Poesia Ac\u00fastica 13",
       "url": "https://open.spotify.com/track/5ZWeAFfmlTGYleUxOq7kcp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bate",
+        "url": "https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 138143,
+      "name": "Bate",
+      "url": "https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Vai Embora",
+        "url": "https://open.spotify.com/album/6JwoRKYnWd1Dv5z6zfv0bo"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "duration_ms": 205785,
+      "name": "N\u00e3o Vai Embora",
+      "url": "https://open.spotify.com/track/28atBekPVlTdnU4M9Z7udd"
     },
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUAN CITY (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 209928,
-      "name": "CORA\u00c7\u00c3O CIGANO - Ao Vivo",
-      "url": "https://open.spotify.com/track/4vWh6tEfcLzdvYWp2IlOJS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHAMA MEU NOME",
         "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 135111,
       "name": "ATEN\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/4mBto7hyeS6yHhx8lIkn4l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LUAN CITY (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 209928,
+      "name": "CORA\u00c7\u00c3O CIGANO - Ao Vivo",
+      "url": "https://open.spotify.com/track/4vWh6tEfcLzdvYWp2IlOJS"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAAAB5wtLShTjIcVmlP5jT3tK",
+  "snapshot_id": "aMn6AAAAAADvWc3PbO0jUlDyGCYGTZfu",
   "tracks": [
     {
       "added_at": null,
@@ -107,30 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen to the Kids",
-        "url": "https://open.spotify.com/album/7ARgpYp0gR8rTsuQUV5LW5"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "King Tone SA",
-          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
-        },
-        {
-          "name": "Celimpilo",
-          "url": "https://open.spotify.com/artist/1i80StFcfHjIWxi8yEl9Qb"
-        }
-      ],
-      "duration_ms": 441718,
-      "name": "Speaking in Tongues",
-      "url": "https://open.spotify.com/track/7tckx2FuJqJv9unFZUgBuR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Say Kunkra",
         "url": "https://open.spotify.com/album/0gbR6yggQOqIWOwxoanjoX"
       },
@@ -159,6 +135,30 @@
       "duration_ms": 297600,
       "name": "Say Kunkra",
       "url": "https://open.spotify.com/track/0ENxjfCyvoGwkLXcRyiGWB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen to the Kids",
+        "url": "https://open.spotify.com/album/7ARgpYp0gR8rTsuQUV5LW5"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
+        },
+        {
+          "name": "Celimpilo",
+          "url": "https://open.spotify.com/artist/1i80StFcfHjIWxi8yEl9Qb"
+        }
+      ],
+      "duration_ms": 441718,
+      "name": "Speaking in Tongues",
+      "url": "https://open.spotify.com/track/7tckx2FuJqJv9unFZUgBuR"
     },
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Akhiwe",
-        "url": "https://open.spotify.com/album/7iOIG58ngKhpw4ucTtYUFR"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Zonke",
-          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Bayathetha",
-      "url": "https://open.spotify.com/track/10VZjDN4MNLGcSGVZKmLov"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amandla",
         "url": "https://open.spotify.com/album/38fqmt5ic3eipFvEf877Qv"
       },
@@ -563,22 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinumb Heart Beating",
-        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
+        "name": "Akhiwe",
+        "url": "https://open.spotify.com/album/7iOIG58ngKhpw4ucTtYUFR"
       },
       "artists": [
         {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Zonke",
+          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Delakufa",
-      "url": "https://open.spotify.com/track/3Koj6l9nIOVtfTZXv4QAo5"
+      "duration_ms": 226000,
+      "name": "Bayathetha",
+      "url": "https://open.spotify.com/track/10VZjDN4MNLGcSGVZKmLov"
     },
     {
       "added_at": null,
@@ -603,6 +583,50 @@
       "duration_ms": 344070,
       "name": "Imizamo",
       "url": "https://open.spotify.com/track/12zPpq22jKVhhQT4ZKyuEP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Platinumb Heart Beating",
+        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Delakufa",
+      "url": "https://open.spotify.com/track/3Koj6l9nIOVtfTZXv4QAo5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Orientation",
+        "url": "https://open.spotify.com/album/0SyaRiLg4CNdXAcXhluXPr"
+      },
+      "artists": [
+        {
+          "name": "Professor",
+          "url": "https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Character",
+          "url": "https://open.spotify.com/artist/2uWyZkj1CvtRYntOAMteEI"
+        }
+      ],
+      "duration_ms": 311026,
+      "name": "Fingerprints",
+      "url": "https://open.spotify.com/track/4DKV6qNEGLzBap8ozqJIqO"
     },
     {
       "added_at": null,
@@ -655,30 +679,6 @@
       "duration_ms": 259285,
       "name": "Sizophelelaphi",
       "url": "https://open.spotify.com/track/7reyhT3VHZXfdRVaKoHl0Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Orientation",
-        "url": "https://open.spotify.com/album/0SyaRiLg4CNdXAcXhluXPr"
-      },
-      "artists": [
-        {
-          "name": "Professor",
-          "url": "https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Character",
-          "url": "https://open.spotify.com/artist/2uWyZkj1CvtRYntOAMteEI"
-        }
-      ],
-      "duration_ms": 311026,
-      "name": "Fingerprints",
-      "url": "https://open.spotify.com/track/4DKV6qNEGLzBap8ozqJIqO"
     },
     {
       "added_at": null,
@@ -835,34 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Date Night (feat. King Talkzin)",
-        "url": "https://open.spotify.com/album/2FhNBJLWieMXPHIUCQxusp"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Daliwonga",
-          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
-        },
-        {
-          "name": "Deep Sen",
-          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
-        },
-        {
-          "name": "KingTalkzin",
-          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
-        }
-      ],
-      "duration_ms": 378459,
-      "name": "Date Night (feat. King Talkzin) - Club Edit",
-      "url": "https://open.spotify.com/track/0Jwngzaphnm6C8zKxDL6XW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Church Grooves Evolution",
         "url": "https://open.spotify.com/album/4759cdMebLbrNuG8AlNR0U"
       },
@@ -891,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Next Gen",
-        "url": "https://open.spotify.com/album/0i4WqyKHDVQlo0ojq5mJVq"
+        "name": "Date Night (feat. King Talkzin)",
+        "url": "https://open.spotify.com/album/2FhNBJLWieMXPHIUCQxusp"
       },
       "artists": [
         {
@@ -900,45 +872,21 @@
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Kamoh Xaba",
-          "url": "https://open.spotify.com/artist/2Fotv9MULwrtOPORxgtRui"
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
         },
         {
-          "name": "Mashudu",
-          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
+          "name": "Deep Sen",
+          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
         },
         {
-          "name": "King Tone SA",
-          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
-        },
-        {
-          "name": "Shane907",
-          "url": "https://open.spotify.com/artist/2JrN19KmNsyT3BWdEEbFeX"
+          "name": "KingTalkzin",
+          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
         }
       ],
-      "duration_ms": 229384,
-      "name": "Mpulele (feat. King Tone SA & Shane907) - Radio Edit",
-      "url": "https://open.spotify.com/track/1YuLielZbBk98qv6KYAgH6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Keep Hope Alive",
-        "url": "https://open.spotify.com/album/6VxGGpIzmAyS3hubryZmSm"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "King Monada",
-          "url": "https://open.spotify.com/artist/5SDXPZSEfwqvGPwqiQezOP"
-        }
-      ],
-      "duration_ms": 437419,
-      "name": "Fofa",
-      "url": "https://open.spotify.com/track/3jLOLJszeaSo5IcKDxQ2pM"
+      "duration_ms": 378459,
+      "name": "Date Night (feat. King Talkzin) - Club Edit",
+      "url": "https://open.spotify.com/track/0Jwngzaphnm6C8zKxDL6XW"
     },
     {
       "added_at": null,
@@ -975,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "iThuba",
-        "url": "https://open.spotify.com/album/3A58oIuIwH9osLRMmV7kQD"
+        "name": "Keep Hope Alive",
+        "url": "https://open.spotify.com/album/6VxGGpIzmAyS3hubryZmSm"
       },
       "artists": [
         {
@@ -984,21 +932,45 @@
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Nhlonipho",
-          "url": "https://open.spotify.com/artist/2pia1bbhmqFUxZvJzsulRW"
-        },
-        {
-          "name": "Yallunder",
-          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
-        },
-        {
-          "name": "x Wise",
-          "url": "https://open.spotify.com/artist/54Ezt67ziGxr1pnen8NrKG"
+          "name": "King Monada",
+          "url": "https://open.spotify.com/artist/5SDXPZSEfwqvGPwqiQezOP"
         }
       ],
-      "duration_ms": 432144,
-      "name": "iThuba - Deep House Mix",
-      "url": "https://open.spotify.com/track/5swyymcx1oXoHa8R5Tueth"
+      "duration_ms": 437419,
+      "name": "Fofa",
+      "url": "https://open.spotify.com/track/3jLOLJszeaSo5IcKDxQ2pM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Next Gen",
+        "url": "https://open.spotify.com/album/0i4WqyKHDVQlo0ojq5mJVq"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Kamoh Xaba",
+          "url": "https://open.spotify.com/artist/2Fotv9MULwrtOPORxgtRui"
+        },
+        {
+          "name": "Mashudu",
+          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
+        },
+        {
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
+        },
+        {
+          "name": "Shane907",
+          "url": "https://open.spotify.com/artist/2JrN19KmNsyT3BWdEEbFeX"
+        }
+      ],
+      "duration_ms": 229384,
+      "name": "Mpulele (feat. King Tone SA & Shane907) - Radio Edit",
+      "url": "https://open.spotify.com/track/1YuLielZbBk98qv6KYAgH6"
     },
     {
       "added_at": null,
@@ -1051,38 +1023,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afro Wave",
-        "url": "https://open.spotify.com/album/1cGMWl5ce7XiIoLP3ecUqp"
+        "name": "iThuba",
+        "url": "https://open.spotify.com/album/3A58oIuIwH9osLRMmV7kQD"
       },
       "artists": [
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
         {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Olodum",
-          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
+          "name": "Nhlonipho",
+          "url": "https://open.spotify.com/artist/2pia1bbhmqFUxZvJzsulRW"
         },
         {
-          "name": "Tman Xpress",
-          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+          "name": "Yallunder",
+          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
         },
         {
-          "name": "Phila Dlozi",
-          "url": "https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v"
+          "name": "x Wise",
+          "url": "https://open.spotify.com/artist/54Ezt67ziGxr1pnen8NrKG"
         }
       ],
-      "duration_ms": 411428,
-      "name": "Afro Wave",
-      "url": "https://open.spotify.com/track/6MqvxQI4W6zgGvL3BmsDam"
+      "duration_ms": 432144,
+      "name": "iThuba - Deep House Mix",
+      "url": "https://open.spotify.com/track/5swyymcx1oXoHa8R5Tueth"
     },
     {
       "added_at": null,
@@ -1135,30 +1099,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Next Gen",
-        "url": "https://open.spotify.com/album/0i4WqyKHDVQlo0ojq5mJVq"
+        "name": "Afro Wave",
+        "url": "https://open.spotify.com/album/1cGMWl5ce7XiIoLP3ecUqp"
       },
       "artists": [
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
         {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Nobuhle",
-          "url": "https://open.spotify.com/artist/0ColCSarofycdrbbPfmx5u"
+          "name": "Olodum",
+          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
         },
         {
-          "name": "Shane907",
-          "url": "https://open.spotify.com/artist/2JrN19KmNsyT3BWdEEbFeX"
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
         },
         {
-          "name": "La-ak",
-          "url": "https://open.spotify.com/artist/6vRaiFSVd3bqE6eXto6Plw"
+          "name": "Phila Dlozi",
+          "url": "https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v"
         }
       ],
-      "duration_ms": 271858,
-      "name": "Nakupenda (feat. LA-AK) - Radio Edit",
-      "url": "https://open.spotify.com/track/3Ww4hnEh6Sw5CFjcsVdGn9"
+      "duration_ms": 411428,
+      "name": "Afro Wave",
+      "url": "https://open.spotify.com/track/6MqvxQI4W6zgGvL3BmsDam"
     },
     {
       "added_at": null,
@@ -1191,30 +1163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wena Kphela",
-        "url": "https://open.spotify.com/album/0rVbKRueliaVGriIZ6BMZt"
-      },
-      "artists": [
-        {
-          "name": "Ze2",
-          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 250711,
-      "name": "Wena Kphela",
-      "url": "https://open.spotify.com/track/4FZCPj5ENTJUICPckzTEO0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Church Grooves Evolution",
         "url": "https://open.spotify.com/album/4759cdMebLbrNuG8AlNR0U"
       },
@@ -1243,26 +1191,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Next Gen",
-        "url": "https://open.spotify.com/album/0i4WqyKHDVQlo0ojq5mJVq"
+        "name": "Wena Kphela",
+        "url": "https://open.spotify.com/album/0rVbKRueliaVGriIZ6BMZt"
       },
       "artists": [
         {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Yallunder",
-          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
+          "name": "Ze2",
+          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
         },
         {
           "name": "X-wise",
           "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         }
       ],
-      "duration_ms": 207600,
-      "name": "Ntwana yami (feat. X-wise) - Acoustic Version",
-      "url": "https://open.spotify.com/track/4sf0P3XBy2YD4omSpKsg2i"
+      "duration_ms": 250711,
+      "name": "Wena Kphela",
+      "url": "https://open.spotify.com/track/4FZCPj5ENTJUICPckzTEO0"
     },
     {
       "added_at": null,
@@ -1295,6 +1243,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Next Gen",
+        "url": "https://open.spotify.com/album/0i4WqyKHDVQlo0ojq5mJVq"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Nobuhle",
+          "url": "https://open.spotify.com/artist/0ColCSarofycdrbbPfmx5u"
+        },
+        {
+          "name": "Shane907",
+          "url": "https://open.spotify.com/artist/2JrN19KmNsyT3BWdEEbFeX"
+        },
+        {
+          "name": "La-ak",
+          "url": "https://open.spotify.com/artist/6vRaiFSVd3bqE6eXto6Plw"
+        }
+      ],
+      "duration_ms": 271858,
+      "name": "Nakupenda (feat. LA-AK) - Radio Edit",
+      "url": "https://open.spotify.com/track/3Ww4hnEh6Sw5CFjcsVdGn9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pakinou (Remix)",
         "url": "https://open.spotify.com/album/2fir7nH0x8BcWInU28seKW"
       },
@@ -1319,6 +1295,30 @@
       "duration_ms": 221415,
       "name": "Pakinou - Remix",
       "url": "https://open.spotify.com/track/55PRpaKqYP3iLMIKS6gADm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sabela",
+        "url": "https://open.spotify.com/album/35fo6qvzOiIWfFEdPr2puO"
+      },
+      "artists": [
+        {
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        }
+      ],
+      "duration_ms": 343404,
+      "name": "Sabela - Club Mix",
+      "url": "https://open.spotify.com/track/4NyrfFyJnQWmjjc7Xc4q1n"
     }
   ],
   "unique_name": "This Is OSKIDO",

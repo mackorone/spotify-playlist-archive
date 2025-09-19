@@ -550,7 +550,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-17",
+      "date_removed": null,
       "duration_ms": 133333,
       "name": "2 pa 1",
       "url": "https://open.spotify.com/track/7mY74CfnMf1d7fvusV2IVQ"
@@ -6524,7 +6524,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-17",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "BAIA",
       "url": "https://open.spotify.com/track/4Hd6t7AZtpP3xIxwgFP0OL"
@@ -20381,6 +20381,24 @@
     },
     {
       "album": {
+        "name": "El Brinco del Sapo",
+        "url": "https://open.spotify.com/album/3c8HIvI6Preld5FUC5DSwq"
+      },
+      "artists": [
+        {
+          "name": "Cimarrona Cimalokera Alajuela",
+          "url": "https://open.spotify.com/artist/4Btb1v81ANgAHhBRUmoxwW"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93988,
+      "name": "El Brinco del Sapo",
+      "url": "https://open.spotify.com/track/6q3dd5I0QZGv56mjtyDkBy"
+    },
+    {
+      "album": {
         "name": "El Cielo",
         "url": "https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f"
       },
@@ -27458,7 +27476,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 225084,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/4tVVmShMF2PYdLqcejrsy2"
@@ -29900,7 +29918,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 169214,
       "name": "House Tour",
       "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
@@ -42724,7 +42742,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 247179,
       "name": "Mix de Parranderas",
       "url": "https://open.spotify.com/track/1cOJuUsmYjxheGzCqk8sLV"

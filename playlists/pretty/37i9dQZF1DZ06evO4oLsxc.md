@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 
 > This is Venna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 897 likes - 41 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 901 likes - 41 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 17 | [Mount Shasta](https://open.spotify.com/track/705XFBTxmtDRjrC7jIOY3t) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [EQUINOX](https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7) | 3:08 |
 | 18 | [Avenue B](https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Avenue B](https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu) | 4:02 |
 | 19 | [São Paulo’ Interlude](https://open.spotify.com/track/1KzaKXtkmo6UROkEHcp6GP) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 1:10 |
-| 20 | [Black Classical Music \(feat\. Venna & Charlie Stacey\)](https://open.spotify.com/track/3jT3NYsADHgJCBUMz93udD) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g) | [Black Classical Music](https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG) | 5:19 |
-| 21 | [Where Are We Going?](https://open.spotify.com/track/6G1S9eAYKMget4tJowHYsi) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Where Are We Going?](https://open.spotify.com/album/6DEa2LNhNCldLC4bl9bE9I) | 3:46 |
+| 20 | [Where Are We Going?](https://open.spotify.com/track/6G1S9eAYKMget4tJowHYsi) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Where Are We Going?](https://open.spotify.com/album/6DEa2LNhNCldLC4bl9bE9I) | 3:46 |
+| 21 | [Black Classical Music \(feat\. Venna & Charlie Stacey\)](https://open.spotify.com/track/3jT3NYsADHgJCBUMz93udD) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g) | [Black Classical Music](https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG) | 5:19 |
 | 22 | [Standard](https://open.spotify.com/track/6vidfcE63k1dl1YrQTQ4S5) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Standard](https://open.spotify.com/album/7aXmIOc3CuYe0AtqO3fjca) | 2:37 |
 | 23 | [Yoshi’ Intro](https://open.spotify.com/track/0PNd4kXm7P60yjSNLIJ6Vy) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 0:40 |
 | 24 | [Perfect Divide](https://open.spotify.com/track/1MulJQklvwRh9Yp8Tfnsnv) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 3:32 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 40 | [Perfect Peace](https://open.spotify.com/track/0taUesXNdcrBxJBUR4FXYg) | [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [King Kay](https://open.spotify.com/artist/5QS58BjJTzNzvVsUiFR4zB), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Ambrosia](https://open.spotify.com/album/02HL5yDyMnfyhw1Wgi45xj) | 3:01 |
 | 41 | [Deeper One](https://open.spotify.com/track/3uNCnf0Ha0Cf6JNzs7W59j) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Lost, This Winter](https://open.spotify.com/album/79fVV5zDmHcJhOuuxdmAZ2) | 3:26 |
 
-Snapshot ID: `aMiogAAAAAAYQdE8+pgTAgPKz6GZqGh1`
+Snapshot ID: `aMn6AAAAAAApDDxg83ca/jzfUTRfDW6r`

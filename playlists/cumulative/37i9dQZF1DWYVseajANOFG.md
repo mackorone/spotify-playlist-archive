@@ -2,7 +2,7 @@
 
 ### [Flow Panamá](https://open.spotify.com/playlist/37i9dQZF1DWYVseajANOFG)
 
-> Así suena la música urbana de Panamá hoy\. Foto: Barbel
+> Así suena la música urbana de Panamá hoy\. Foto: Sech
 
 539 songs - 1 day 6 hr 3 min
 
@@ -248,7 +248,7 @@
 | [La Ruta](https://open.spotify.com/track/5h4mgbGijQ2CXMNuF4c4rW) | [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d), [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb) | [La Ruta](https://open.spotify.com/album/1sTGqUxkt0vT7S3IN9cVbn) | 3:41 | 2023-06-02 |  |
 | [La Ruta 2 \- Remix](https://open.spotify.com/track/4ooP7lycA7xq4HQnxxAPeK) | [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Fulo El Yeyo](https://open.spotify.com/artist/0YUrJpMVgqTxD8UnfPRKEh) | [La Ruta 2 \(Remix\)](https://open.spotify.com/album/3qt4XqW6StnIUKzRhKxBno) | 4:55 | 2023-12-15 | 2024-01-20 |
 | [La Sesión \#47](https://open.spotify.com/track/3X8NRejOXJ0gKzDC6qVzn6) | [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn), [Monster](https://open.spotify.com/artist/7g5ywTNboidtPjVRrvGkCa), [Alberto Sandino](https://open.spotify.com/artist/1g7k0SBYc922yRdRPmFg47), [Directed by Karma](https://open.spotify.com/artist/5bgxAPHQ7LSyVnnxsEKxQR) | [La Sesión \#47](https://open.spotify.com/album/3TJh1E1VYtGpOZoJ5XZoBm) | 3:03 | 2022-03-11 |  |
-| [LA ÚLTIMA CITA](https://open.spotify.com/track/4ZhifSYGebrMtMtbPUIhkk) | [Andiex](https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY), [LIL VEKZ](https://open.spotify.com/artist/6LXBLKP1T8O5oGnb4NahKk) | [LA ÚLTIMA CITA](https://open.spotify.com/album/6Xr4uOzaPQXfhT4dBwgU38) | 3:54 | 2025-09-12 |  |
+| [LA ÚLTIMA CITA](https://open.spotify.com/track/4ZhifSYGebrMtMtbPUIhkk) | [Andiex](https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY), [Lil Vekz](https://open.spotify.com/artist/6zWFbpS3lI1lxYrK9HoTGo) | [LA ÚLTIMA CITA](https://open.spotify.com/album/6Xr4uOzaPQXfhT4dBwgU38) | 3:54 | 2025-09-12 |  |
 | [Lambo](https://open.spotify.com/track/0Oh26zAfZKlOYCRVYaH8WD) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm) | [Lambo](https://open.spotify.com/album/0xUjYM3Z2efK5Z5PPoIGZF) | 3:02 | 2022-05-27 | 2022-06-25 |
 | [Laptop](https://open.spotify.com/track/0kdIdp62usgrjKDvuzeCmb) | [Pash](https://open.spotify.com/artist/6iOnQUuxAqtZ2fnVOrNq4s), [El Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U), [Pinky](https://open.spotify.com/artist/5HU5bbbcgabE9AgBkXJaXS) | [Laptop](https://open.spotify.com/album/4UtCCbOZFNqNr7VzQKg2FL) | 4:18 | 2022-07-29 | 2022-08-13 |
 | [Las Paredes](https://open.spotify.com/track/7up6PZ77hriEYAHS5XU8Ac) | [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw) | [Las Paredes](https://open.spotify.com/album/7otnVviucmjeILPBsWJu7a) | 2:31 | 2023-05-05 | 2023-06-03 |

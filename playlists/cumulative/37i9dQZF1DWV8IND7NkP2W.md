@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-810 songs - 1 day 12 hr 35 min
+811 songs - 1 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,7 @@
 | [kczsdeg](https://open.spotify.com/track/1IovOeRY9QeBs8MDgqN9dO) | [slowstoop](https://open.spotify.com/artist/759vJrda9Y2XsEsfjmtqET) | [BUD](https://open.spotify.com/album/1ICwHwkNbIFFzp7rZXvk92) | 2:05 | 2022-07-14 | 2022-11-05 |
 | [Keemel](https://open.spotify.com/track/7kc96tpLbfO5IP3Vg1aaQT) | [MASARO](https://open.spotify.com/artist/13Gxb7d1eiQFoZEDy2HcBX) | [Keemel](https://open.spotify.com/album/7mq1DoDjlRCILEfodZvnit) | 1:16 | 2022-01-06 | 2022-06-13 |
 | [keep j](https://open.spotify.com/track/2xOJGbDOvfSenRpdOVzHmS) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [keep j](https://open.spotify.com/album/7aVHJAd8FNUipkIXsmdNQV) | 3:01 | 2022-02-24 | 2022-06-29 |
-| [Keyframe](https://open.spotify.com/track/3zUPEfda1zsGBQ8ODoJozL) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Keyframe](https://open.spotify.com/album/2DVMwBgoDdVVvDdagyeEmk) | 2:00 | 2021-12-23 |  |
+| [Keyframe](https://open.spotify.com/track/3zUPEfda1zsGBQ8ODoJozL) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Keyframe](https://open.spotify.com/album/2DVMwBgoDdVVvDdagyeEmk) | 2:00 | 2021-12-23 | 2025-09-19 |
 | [Kiddish](https://open.spotify.com/track/3aJGP2lJwgsCduog1jmGuE) | [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP), [another silent weekend](https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA) | [Kiddish](https://open.spotify.com/album/5Vhwd7DKQWvXzBZh7MVe6n) | 2:08 | 2022-01-06 | 2022-07-16 |
 | [Kizanka](https://open.spotify.com/track/5IbxNiplCikWjPQIidIpbP) | [Hedge Hop](https://open.spotify.com/artist/73mgRho1n2qDPfYMgvzugF), [Kazuki Arai](https://open.spotify.com/artist/1tLZA82NJkrx6GOPKxlAIK) | [Kizanka](https://open.spotify.com/album/5a9lNbGJcjeLT6j8t3mTfh) | 2:30 | 2021-12-23 | 2022-07-29 |
 | [Kizuna](https://open.spotify.com/track/6bsS5j5OC2q5ZrxlVg9rTs) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Kizuna](https://open.spotify.com/album/1ISgbuRY57vsJWuxiNLtYu) | 3:09 | 2021-12-23 | 2022-07-19 |
@@ -655,6 +655,7 @@
 | [Spiritual State](https://open.spotify.com/track/1Q1onoQM04M590VO7aLOyt) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [The Champloo](https://open.spotify.com/artist/2qhjN0fdlNPZtCiP3MALRH) | [Spiritual State](https://open.spotify.com/album/3vJyN20ZkQ2x5YMjniVrwY) | 6:57 | 2022-04-21 | 2023-09-29 |
 | [Spring Fever](https://open.spotify.com/track/0l5FtOj6LGeDykv7WM7gkR) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [Spring Fever](https://open.spotify.com/album/5GSSACeC1W7lg7aN8d1qnk) | 4:03 | 2022-07-28 | 2023-06-18 |
 | [Spring Fever](https://open.spotify.com/track/2k21QRkejIDUk5b7K9YA27) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [Spring Fever](https://open.spotify.com/album/7wFqHdaHXqzKDepQNoh5EZ) | 4:03 | 2021-12-23 | 2022-07-26 |
+| [Stack Wave \(feat\. STUTS\)](https://open.spotify.com/track/0U3IxVP9vj56VAuVGHrSuo) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Stack Wave \(feat\. STUTS\)](https://open.spotify.com/album/00n7OlFDIC3zpWOXmV2bAV) | 4:36 | 2025-09-18 |  |
 | [stained glass](https://open.spotify.com/track/1CZGGAMZ8L8K7KixFUvrDS) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [stained glass](https://open.spotify.com/album/7kW2HciwXAKpd3a5Ln6V9o) | 3:00 | 2023-11-16 | 2024-02-06 |
 | [Star Lights](https://open.spotify.com/track/0ZvsCTEVn63usqC4Btqrvl) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [Star Lights](https://open.spotify.com/album/4hbeKG9EsVjY1Gbq8nyQVL) | 1:41 | 2022-11-17 | 2022-11-19 |
 | [Star Lights](https://open.spotify.com/track/42JJrR4kPouaRq8as9BrTI) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [Star Lights](https://open.spotify.com/album/7oHXU8KZZGtIBTj5HspiwL) | 1:41 | 2022-11-17 | 2023-06-01 |

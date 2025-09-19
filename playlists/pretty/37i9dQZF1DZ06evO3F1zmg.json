@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 42159,
+  "num_followers": 42165,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAABf8Kp40EuTvtFr5/val6BJ",
+  "snapshot_id": "aMn6AAAAAACKw+6LsGcvZux/s/qxIjnM",
   "tracks": [
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That Girl (feat. Saweetie)",
-        "url": "https://open.spotify.com/album/109kFKSHQurf4h5JZWgCLk"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 147386,
-      "name": "That Girl (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/0gYIDOQkA4DZQw3wboBiuP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pretty Summer Playlist: Season 1",
         "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 224119,
       "name": "B*tch From Da Souf (Remix)",
       "url": "https://open.spotify.com/track/2zUbimuKNWDMCwbqNauLWV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That Girl (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/109kFKSHQurf4h5JZWgCLk"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 147386,
+      "name": "That Girl (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/0gYIDOQkA4DZQw3wboBiuP"
     },
     {
       "added_at": null,

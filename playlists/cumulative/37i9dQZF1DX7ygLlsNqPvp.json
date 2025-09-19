@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The most intense local drill music firing up the continent. Cover:  G4 Boyz",
+  "description": "The most intense local drill music firing up the continent. Cover:  O'Kenneth",
   "name": "Asakaa",
   "tracks": [
     {
@@ -922,6 +922,24 @@
       "duration_ms": 217165,
       "name": "Badman",
       "url": "https://open.spotify.com/track/5C2dzL3VyfP0dFnvKWplYn"
+    },
+    {
+      "album": {
+        "name": "BALENCIAGA",
+        "url": "https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140014,
+      "name": "BALENCIAGA",
+      "url": "https://open.spotify.com/track/1v50F7vK31Czts54YID73W"
     },
     {
       "album": {
@@ -5402,7 +5420,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 205500,
       "name": "Toffee",
       "url": "https://open.spotify.com/track/4qncFa5abNWOljfJ6atPcZ"

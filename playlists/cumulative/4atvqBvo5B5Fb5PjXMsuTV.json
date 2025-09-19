@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 18 Sep 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 19 Sep 22:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -5882,6 +5882,24 @@
       "duration_ms": 430960,
       "name": "Aon",
       "url": "https://open.spotify.com/track/31NMfMxMEnqDich4OYD8sE"
+    },
+    {
+      "album": {
+        "name": "Aozora",
+        "url": "https://open.spotify.com/album/7KlIqRDBwYnGWG3qTATybW"
+      },
+      "artists": [
+        {
+          "name": "Karnivool",
+          "url": "https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386169,
+      "name": "Aozora",
+      "url": "https://open.spotify.com/track/74yIS4Qvm1DsjF2A5cWGeJ"
     },
     {
       "album": {
@@ -18822,7 +18840,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 230800,
       "name": "COME AND FIND YOU",
       "url": "https://open.spotify.com/track/3WXxMEvZkI1ubGnkSUtvIX"
@@ -29734,6 +29752,24 @@
       "duration_ms": 221818,
       "name": "FACEDOWN",
       "url": "https://open.spotify.com/track/3NeyGd5x77xBqeByPsTqq8"
+    },
+    {
+      "album": {
+        "name": "Facing Atlas",
+        "url": "https://open.spotify.com/album/3gfEp3bCySjOJ1vCIFINCi"
+      },
+      "artists": [
+        {
+          "name": "Anna von Hausswolff",
+          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293013,
+      "name": "Facing Atlas",
+      "url": "https://open.spotify.com/track/1txdGGWecPU3sDP2mOexmF"
     },
     {
       "album": {
@@ -40980,6 +41016,28 @@
       "duration_ms": 162077,
       "name": "Highway",
       "url": "https://open.spotify.com/track/65dEhKcp9ZzJ6kJCCkvA2h"
+    },
+    {
+      "album": {
+        "name": "Him",
+        "url": "https://open.spotify.com/album/76hqSrvvW8tDRWPgFjmgtB"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "HIM Movie",
+          "url": "https://open.spotify.com/artist/62bEtjQcjnCO97g6vRNTV1"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132765,
+      "name": "Him",
+      "url": "https://open.spotify.com/track/6SRMSCLGHYHXGbdFD58qTA"
     },
     {
       "album": {
@@ -55618,7 +55676,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 197030,
       "name": "Lua Cheia",
       "url": "https://open.spotify.com/track/1lVBy1tImjpwRKu9uy5ors"
@@ -87471,6 +87529,24 @@
     },
     {
       "album": {
+        "name": "Talk to Me",
+        "url": "https://open.spotify.com/album/3sLWg4zJJqnBBnt5tfJxQt"
+      },
+      "artists": [
+        {
+          "name": "Angelo Ferreri",
+          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172810,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/4fX9D49kIG2MjuM6rOgcGV"
+    },
+    {
+      "album": {
         "name": "Talker",
         "url": "https://open.spotify.com/album/67C44VolRSTecbZ2gpRuBE"
       },
@@ -90530,7 +90606,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 230350,
       "name": "The Mountain of Corsicana",
       "url": "https://open.spotify.com/track/0gKGIBpQ1GHVD58jD3KvRA"
@@ -95744,7 +95820,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 212386,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/2mpoTHp955e9ojKaA2Yb9b"

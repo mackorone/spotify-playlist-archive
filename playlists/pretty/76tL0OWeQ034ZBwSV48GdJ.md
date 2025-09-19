@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 230 songs - 21 hr 45 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 229 songs - 21 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -237,6 +237,5 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 | 227 | [Don't Give Up](https://open.spotify.com/track/41IzbkTcmjj8EMsMCAw0iM) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Don't Give Up](https://open.spotify.com/album/1MuZwe2gViW1Pv3MQrznk5) | 3:06 |
 | 228 | [Close to the Edge](https://open.spotify.com/track/0jhOH11JC88ldXcf6gOuvv) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Incomplete](https://open.spotify.com/album/2psTE65dgUGrvM8RVAUy6I) | 5:08 |
 | 229 | [Ludmilla](https://open.spotify.com/track/1nENRX73yJFJqa4XN1uJEV) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Dear Diary](https://open.spotify.com/album/1Gxfg7F8DQ1V8oBEIZzWa7) | 7:16 |
-| 230 | [The Color Violet](https://open.spotify.com/track/6JtnOj7ubrZpi2busElfkt) | [DATSKO](https://open.spotify.com/artist/2b1Yc522In2BV3Q1fj2JzY) | [The Color Violet](https://open.spotify.com/album/4GdcHnq2iwnYWmCnswotzr) | 4:52 |
 
-Snapshot ID: `AAABG51/xQ6Wa7JzbgDuqnLmnNIhZo0X`
+Snapshot ID: `AAABHPF8DuniwnAS/Vo2HKvULsg2ViqR`

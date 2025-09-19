@@ -2,7 +2,7 @@
 
 ### [rave](https://open.spotify.com/playlist/37i9dQZF1DWSXMERUaiq9M)
 
-> The sound of a new generation\. Cover: Funk Tribu
+> The sound of a new generation\. Cover: KI/KI
 
 559 songs - 1 day 10 hr 37 min
 
@@ -326,7 +326,7 @@
 | [Memories](https://open.spotify.com/track/2TfanzHEXaJ0jwlPv3NV3N) | [ANDATA](https://open.spotify.com/artist/4EWtOuG1AiHXvrd9LtEnzQ), [Trancemaster Krause](https://open.spotify.com/artist/5zKJhJZNLAQoVoycu4Esnw) | [Memories](https://open.spotify.com/album/0WubnIJ7QrftGTxphQb0Ai) | 2:39 | 2025-07-03 | 2025-07-18 |
 | [Microcosmic healing](https://open.spotify.com/track/7Ezy1j4gtqK74NcxFnnhdG) | [Schacke](https://open.spotify.com/artist/3bphZJ7NojBKcoCeBOSJ5Z), [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa) | [Looks are deceiving](https://open.spotify.com/album/7epuFIB3jRTj3pWBBPqWCj) | 5:56 | 2023-06-05 | 2023-06-10 |
 | [Midsommar](https://open.spotify.com/track/79JUzsH4mlxo0HQvBwECi7) | [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Løvehjerte](https://open.spotify.com/album/7sSy3PAvDBJHbxZxNcY95U) | 4:35 | 2024-12-28 | 2025-01-07 |
-| [Milky Way](https://open.spotify.com/track/7yZ21ZsAUHsoKQozwfrLo1) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Milky Way](https://open.spotify.com/album/4UagjNEJgp7hg9O46irhE0) | 2:51 | 2025-08-21 |  |
+| [Milky Way](https://open.spotify.com/track/7yZ21ZsAUHsoKQozwfrLo1) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Milky Way](https://open.spotify.com/album/4UagjNEJgp7hg9O46irhE0) | 2:51 | 2025-08-21 | 2025-09-19 |
 | [Mirage](https://open.spotify.com/track/681iK2vB0RCr4m7TX5hcn6) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Mirage](https://open.spotify.com/album/0Lww6EN9xtbrMbpAc3ulQL) | 2:35 | 2024-04-05 | 2024-06-11 |
 | [Mission Impossible III](https://open.spotify.com/track/0NeYTEmugY7xa3xiKIAnVP) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH) | [The Head Hurts but the Heart Knows the Truth](https://open.spotify.com/album/3g16U5C8SE3xYybOaqF94x) | 3:28 | 2024-12-28 | 2025-01-07 |
 | [Moment](https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Moment](https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV) | 3:24 | 2023-03-25 |  |
@@ -375,7 +375,7 @@
 | [Pain in my Heart](https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Sturm und Drang](https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK) | 3:44 | 2024-06-13 |  |
 | [Papi](https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Papi](https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg) | 3:03 | 2025-08-07 |  |
 | [Papi](https://open.spotify.com/track/58uQz5X3NinstpE6HSY3lk) | [NOVAH](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Papi](https://open.spotify.com/album/59hXZBuOL8AZtPXb383RGr) | 3:36 | 2025-07-11 |  |
-| [Party All The Time](https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde) | [Party All The Time](https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq) | 2:09 | 2023-09-15 | 2025-09-18 |
+| [Party All The Time](https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde) | [Party All The Time](https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq) | 2:09 | 2023-09-15 |  |
 | [Party People](https://open.spotify.com/track/2ABnWO87LfxTHsj2dewC7X) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Nik Sitz](https://open.spotify.com/artist/4HihOLMje7U0pcQ7hvC6Bm), [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs) | [Party People](https://open.spotify.com/album/1iTxUzn9DqvScz3SJVjdgz) | 3:15 | 2024-08-12 |  |
 | [Patience](https://open.spotify.com/track/5CteVFkxiW0XfzCbTyh4Pc) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Patience](https://open.spotify.com/album/4OX5yUMOuU4w1DCcmXtEpy) | 3:28 | 2024-08-22 | 2024-09-17 |
 | [Pensiero Energia](https://open.spotify.com/track/2ivsdYNQIo0qFNBuM22kl2) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [WAXTAPE 2](https://open.spotify.com/album/1uHpC5qOXH6SYPXYEW1Jbh) | 3:29 | 2023-11-09 | 2023-11-17 |

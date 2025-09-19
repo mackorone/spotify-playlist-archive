@@ -4,7 +4,7 @@
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Sol Ortega
 
-316 songs - 1 day 6 hr 30 min
+318 songs - 1 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A La Mañanita \- Angata Remix](https://open.spotify.com/track/2XOie6489fbf0STQBaEbj5) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Angata](https://open.spotify.com/artist/5aJassdHJMA4TgXDsMWaP0) | [A La Mañanita \(Angata Remix\)](https://open.spotify.com/album/10uuG37zMMEbwrwADoj02g) | 5:42 | 2024-04-26 | 2025-03-20 |
 | [A Million Like You](https://open.spotify.com/track/15UotJUnbOatmRx0ZqpPGk) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [A Million Like You](https://open.spotify.com/album/4tddzRDAsPzhDTGhtpwcJt) | 3:46 | 2025-02-28 | 2025-08-29 |
 | [A380](https://open.spotify.com/track/2f7oUjeoSNw64PRWEdGi5S) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Mercurio](https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG) | [A380](https://open.spotify.com/album/24SZgEw38GafDdGtQUdy1f) | 4:46 | 2024-03-01 | 2025-03-20 |
+| [Acantilados](https://open.spotify.com/track/0LMmJ14i9xTdsbXDTe32fA) | [Pazzos](https://open.spotify.com/artist/6w5dyozNGRkQ1qzLuPdHov) | [Acantilados](https://open.spotify.com/album/7gEjV278J9Ty5OzzFrgZiE) | 6:32 | 2025-09-19 |  |
 | [Acid Morning](https://open.spotify.com/track/6mu8usH9A5WQejJ1kDSqlI) | [CCINNI](https://open.spotify.com/artist/7BgfHp3OpzJmQGUGRXf5wp) | [Radio From 99](https://open.spotify.com/album/6Ls5LSA7ZxG6fUyaXrQK5A) | 4:27 | 2025-06-27 |  |
 | [Acid Rain](https://open.spotify.com/track/5EM8jyVuk8uCyBvS0X4elR) | [Ludmila Di Pasquale](https://open.spotify.com/artist/7hDe40AlwF450fQo0LndgG) | [Acid Rain](https://open.spotify.com/album/5ozI69yBdbUpdxmyR8y9CT) | 5:32 | 2024-05-31 |  |
 | [Al Sur \(Remix\)](https://open.spotify.com/track/653NELKyXY5eHtXUfZeEHQ) | [Klauss](https://open.spotify.com/artist/5shIwMUlc16bVmFU7AbNfr) | [Al Sur \(Remix\)](https://open.spotify.com/album/3mviZQjGBXJ8eZhdXohbVf) | 5:39 | 2025-03-19 |  |
@@ -304,6 +305,7 @@
 | [Undertones 2 \- Remix](https://open.spotify.com/track/3NCaewb7OXm9eXmW3ECd0b) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI), [Rumanians](https://open.spotify.com/artist/5Hu2cTdWpxnck5aaCeirWv) | [Undertones 2 \(Remix\)](https://open.spotify.com/album/4uLKTeYiEOsqZDLg9m2hCl) | 7:12 | 2023-12-22 | 2025-03-20 |
 | [Utopia](https://open.spotify.com/track/3YqN04q8uUceD8HKM0VCd3) | [Stjepanek](https://open.spotify.com/artist/3CbZyG68qYiKTYyN7ya6SG), [Bob Tosh](https://open.spotify.com/artist/3CSNiJzkKeRXlfiXyzEygS) | [Utopia](https://open.spotify.com/album/0eWoQrhgpAaO1RoGQ0G6ck) | 6:57 | 2025-03-19 |  |
 | [Vectoria \- Original Mix](https://open.spotify.com/track/0Ww28y8TkdNMhijhYgNbe7) | [John Cosani](https://open.spotify.com/artist/2LRGIZMAT8HDCNQvMqgcFg) | [Vectoria](https://open.spotify.com/album/4Vs7EUAgcGDxfZ7SFpauhH) | 8:00 | 2020-09-04 | 2023-11-18 |
+| [Vesper](https://open.spotify.com/track/5QwSKYtSlEJYTkmQGconNk) | [CAMILA \(AR\)](https://open.spotify.com/artist/4XpVMVxOWZuEu4rw7nusFC) | [Vesper](https://open.spotify.com/album/0bXLbgN5wSXw4zxjOiLpEm) | 6:25 | 2025-09-19 |  |
 | [VIP](https://open.spotify.com/track/0LAFayAntIMUW9ymqbb2bv) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [VIP](https://open.spotify.com/album/0FaaeP7LODf38af0yuv2Xd) | 2:37 | 2025-06-20 |  |
 | [Virtual Escape](https://open.spotify.com/track/4lyhpmlKNpMfJrvTadObcV) | [Juan Deminicis](https://open.spotify.com/artist/7DN8Db1uGrW7eUDjKf3Bfi) | [Solar Reign \| Virtual Escape](https://open.spotify.com/album/68StK8Ps3HWU73Do3XwhFe) | 7:18 | 2025-07-11 |  |
 | [Vivere \- Rokazer Remix](https://open.spotify.com/track/4dvU4ZGcBBZtouh6YfMw9t) | [Rocio Portillo](https://open.spotify.com/artist/0IWaN7iu4zEYq5u1jl1lib), [Rokazer](https://open.spotify.com/artist/0kBZmuhkAKIdZE5YVkdhqV) | [Vivere](https://open.spotify.com/album/7zEbJeVhd4FbVv296MIaj7) | 7:09 | 2024-05-24 | 2025-03-20 |

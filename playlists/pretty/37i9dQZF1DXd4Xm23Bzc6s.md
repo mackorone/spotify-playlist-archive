@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4Xm23Bzc6s.md) - [plain]
 
 > Cuco's crafted a playlist for..\. the playlistener\. Get it? <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,627 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,650 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [She Don't Ever Lose Her Groove](https://open.spotify.com/track/1jgEsS6YuIPizhl83OHS4S) | [Latimore](https://open.spotify.com/artist/0nVQLK3LSM9SFP5xp64D7a) | [Latimore III](https://open.spotify.com/album/7rBXct8i5LklG6IY2HA75U) | 2:59 |
 | 2 | [Sweet & Lovely](https://open.spotify.com/track/5F5C7kqIOVP6ZpKRZwtNMH) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Sounds Good](https://open.spotify.com/album/6Jxt4spHx2WCH5WfapgUWD) | 2:37 |
-| 3 | [What's His Name](https://open.spotify.com/track/5dImMTUYHlfHPyfPckpZTZ) | [Joey Quinones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP), [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [What's His Name](https://open.spotify.com/album/06FaPKFLTJCQuIFyZvII2R) | 3:03 |
+| 3 | [What's His Name](https://open.spotify.com/track/5dImMTUYHlfHPyfPckpZTZ) | [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP), [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [What's His Name](https://open.spotify.com/album/06FaPKFLTJCQuIFyZvII2R) | 3:03 |
 | 4 | [Baby My Love](https://open.spotify.com/track/2DdTrnTUuROMdNyJOOx3aw) | [Fil Callendar](https://open.spotify.com/artist/149K8ZTLYta3Uk2Llqirn5) | [Roots Rock Reggae \(Expanded Version\)](https://open.spotify.com/album/0bcQ7mE3SbTw4ccYmO23Jy) | 3:42 |
-| 5 | [Don't Tell Me](https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm) | [Joey Quinones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Don't Tell Me](https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl) | 3:53 |
+| 5 | [Don't Tell Me](https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm) | [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Don't Tell Me](https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl) | 3:53 |
 | 6 | [Win or Lose](https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI) | [Sam Dees](https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX) | [Second to None](https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH) | 2:54 |
 | 7 | [Memories of War](https://open.spotify.com/track/26Hkr3RxTyqAgqLOCd8wW4) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb) | [Adrian Younge Presents: Something About April II](https://open.spotify.com/album/5UUTi6FExQQdkoEt61Cl2T) | 2:43 |
 | 8 | [Wait for Me](https://open.spotify.com/track/4V13mtFLyFXXasg2RKHuJJ) | [The Brothers Of Soul](https://open.spotify.com/artist/7EOBpvnonNT0gPAPU1hjYF) | [I Guess That Don't Make Me a Loser](https://open.spotify.com/album/5SDAtEZmXo8uRRiGAqCZtr) | 3:04 |

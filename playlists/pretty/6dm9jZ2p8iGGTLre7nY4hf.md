@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6dm9jZ2p8iGGTLre7nY4hf.md) - [plain]
 
 > Break up songs, the best cure for a broken heart!
 
-[Filtr Norway](https://open.spotify.com/user/sonymusic) - 441,269 likes - 111 songs - 6 hr 35 min
+[Filtr Norway](https://open.spotify.com/user/sonymusic) - 441,260 likes - 112 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,8 +116,9 @@ pretty - [cumulative](/playlists/cumulative/6dm9jZ2p8iGGTLre7nY4hf.md) - [plain]
 | 106 | [KARAOKE](https://open.spotify.com/track/3uVQNkFMVS4BTxukzG35UR) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [KARAOKE](https://open.spotify.com/album/5wRNoI7QzBYp49j21ZwZX6) | 3:41 |
 | 107 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 |
 | 108 | [Siste farvel](https://open.spotify.com/track/45UXXykuHGkwKAGIctXfu7) | [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Siste farvel](https://open.spotify.com/album/5qy2NCz2kL0hBwDlLYftjS) | 2:56 |
-| 109 | [HVA HAR SKJEDD MED OSS TO](https://open.spotify.com/track/7hVUWnMNUl7KIRyvhlVOju) | [Hkeem](https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH) | [HVA HAR SKJEDD MED OSS TO](https://open.spotify.com/album/74Ce2wpn1Lpr4qUMhQZnjA) | 2:22 |
-| 110 | [Next Life](https://open.spotify.com/track/15ioRljMDBXZUYkaZMIOgj) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Icarus](https://open.spotify.com/album/6dOw1Yt8emqoiDLOulwIHq) | 2:35 |
-| 111 | [be a bitch](https://open.spotify.com/track/2nTvToMkyC8w9HySV4W7uU) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [be a bitch](https://open.spotify.com/album/26TVH1aBTaZG5TQURy09Wl) | 3:04 |
+| 109 | [Lover, You Should've Come Over](https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:44 |
+| 110 | [HVA HAR SKJEDD MED OSS TO](https://open.spotify.com/track/7hVUWnMNUl7KIRyvhlVOju) | [Hkeem](https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH) | [HVA HAR SKJEDD MED OSS TO](https://open.spotify.com/album/74Ce2wpn1Lpr4qUMhQZnjA) | 2:22 |
+| 111 | [Next Life](https://open.spotify.com/track/15ioRljMDBXZUYkaZMIOgj) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Icarus](https://open.spotify.com/album/6dOw1Yt8emqoiDLOulwIHq) | 2:35 |
+| 112 | [be a bitch](https://open.spotify.com/track/2nTvToMkyC8w9HySV4W7uU) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [be a bitch](https://open.spotify.com/album/26TVH1aBTaZG5TQURy09Wl) | 3:04 |
 
-Snapshot ID: `AAAHzAu4fS+iVSAm53hB83q2IQKl4IHe`
+Snapshot ID: `AAAH0KEM3FiYuPSnXQu7QjtC+4ZOkhtE`

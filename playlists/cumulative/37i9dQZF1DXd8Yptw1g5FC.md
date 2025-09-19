@@ -4,7 +4,7 @@
 
 > Sertab Erener ve haftanın en iyi çıkışları!
 
-3,186 songs - 6 day 16 hr 46 min
+3,190 songs - 6 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1138,6 +1138,7 @@
 | [Göz Bebeklerim](https://open.spotify.com/track/7tajCR4ppglEkZ0n2QHSAq) | [TurkodiRoma](https://open.spotify.com/artist/5ms13kENAqc7SAFQvPQz7L) | [Göz Bebeklerim](https://open.spotify.com/album/2VmXk4Lm0INsUzfQFBVgqU) | 2:58 | 2025-03-06 | 2025-03-14 |
 | [Göz Bebeğim](https://open.spotify.com/track/61N92iASLpPGpbGbYy7A5I) | [Parla](https://open.spotify.com/artist/0ELB2APjrcxE6zO75MWpBN), [Mili B](https://open.spotify.com/artist/7y2FO59lrnN6jNoiHoEhE9) | [Göz Bebeğim](https://open.spotify.com/album/5Lh7cAD82nLXVGKwkWAr25) | 2:23 | 2025-08-07 | 2025-08-15 |
 | [Göz Gezdirdim Dört Köşeyi Aradım](https://open.spotify.com/track/4BISnX681nrJnrOzN4DUfT) | [Sedat Anar](https://open.spotify.com/artist/2xkjroNYi5FHZlJovEBTnt) | [Göz Gezdirdim Dört Köşeyi Aradım](https://open.spotify.com/album/3tspLhoOcqR1DxGi67vJlL) | 6:00 | 2025-08-28 | 2025-09-05 |
+| [Göz Göze](https://open.spotify.com/track/0yni332sJKt4fCMEQQ88CR) | [kimbureyhan](https://open.spotify.com/artist/5BueMcWYV4z3Jqrfo8GXCV) | [Göz Göze](https://open.spotify.com/album/3PBq19lgrZi1IVTvFkdtsD) | 1:57 | 2025-09-11 |  |
 | [Göz Ucuyla](https://open.spotify.com/track/7jCbFW5shAEZip9UY9qkc1) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Göz Ucuyla](https://open.spotify.com/album/0yidWP4ngDNDEd0XiYrlWP) | 2:42 | 2025-05-01 | 2025-05-09 |
 | [Gözlerime Bak](https://open.spotify.com/track/095NXp8QMHNDTqDPH5CIRY) | [487APHE](https://open.spotify.com/artist/3kCTsQ7Fvse9nqMiZJXfoT), [BARO](https://open.spotify.com/artist/34tuu1IhVrXqgadfA6OCrT) | [Gözlerime Bak](https://open.spotify.com/album/3Gt6YXPLqkEy3Q8WRy9p75) | 2:32 | 2025-03-06 | 2025-03-14 |
 | [Gözlerin](https://open.spotify.com/track/01nmjMvClMHJYi3ahHf1YE) | [Dj Akman](https://open.spotify.com/artist/5gYojnIIxMSy1XIMgIxJgs) | [Gözlerin](https://open.spotify.com/album/2JfDRdqKDg191oR5AX7Sag) | 3:24 | 2025-07-03 | 2025-07-11 |
@@ -1633,6 +1634,7 @@
 | [Kismet](https://open.spotify.com/track/7EGdmpdRd0HWadPyC08pVU) | [Berkay Nordi](https://open.spotify.com/artist/0W7qlKINrvhYvxzrk4vZ3z) | [Kismet](https://open.spotify.com/album/5IqNr4SQX1CxNoVLKbkrlx) | 2:15 | 2025-05-01 | 2025-05-09 |
 | [Kiss of the Spider Woman](https://open.spotify.com/track/2JQ9aXIbKkBASVyv5hlS0o) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Kiss of the Spider Woman](https://open.spotify.com/album/0eCe3QwDzhEhAxgVGUjvEj) | 2:39 | 2025-09-04 | 2025-09-12 |
 | [Kişisel Veriler](https://open.spotify.com/track/3mONcSpkaoz6WkH51M5eFY) | [Rota](https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB) | [Kişisel Veriler](https://open.spotify.com/album/7o4rKX6ukLTt9HVhW2R23I) | 7:24 | 2025-03-20 | 2025-03-28 |
+| [KİBAR](https://open.spotify.com/track/4DRuDliF4NEyGGGQBDGMTE) | [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [KİBAR](https://open.spotify.com/album/0l5KCxHTa3b1CDfER9SfmO) | 1:41 | 2025-09-11 |  |
 | [KİMİN UMRUNDA](https://open.spotify.com/track/5q8ZLqXtcZLpbEin75aLTu) | [Kenan](https://open.spotify.com/artist/720jWnlmqf0o6UgIAaWArU), [ÖzgürCan](https://open.spotify.com/artist/6m1bPVZMf5Hsi8cgmEs1yy) | [KİMİN UMRUNDA](https://open.spotify.com/album/2awFRwSkUG8suApvxqYkgv) | 3:05 | 2025-04-03 | 2025-04-11 |
 | [KLK](https://open.spotify.com/track/3MJsu3EPgf2EFmzn4pVZYp) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [KLK](https://open.spotify.com/album/4imN7ZQVUp0Q5sZyV7mK23) | 3:19 | 2025-05-08 | 2025-05-16 |
 | [Know You Naked](https://open.spotify.com/track/4XBkny5RwYFxETjyMU8dwE) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Know You Naked](https://open.spotify.com/album/0RHlF72mPRiLux1omiKIxe) | 3:25 | 2025-07-31 | 2025-08-09 |
@@ -1928,6 +1930,7 @@
 | [Nabız](https://open.spotify.com/track/4sotafbaNW7MCqdSjSGI3N) | [Maho G](https://open.spotify.com/artist/1y01BmA2Ho4ZaxGGRBbJ2V) | [Nabız](https://open.spotify.com/album/5na5ARQCBPiWCKZQimnA3E) | 3:31 | 2025-06-26 | 2025-07-04 |
 | [NADAS](https://open.spotify.com/track/2Jim411ZuEBm3esynzF1u1) | [UZ4Y](https://open.spotify.com/artist/6u01CCedMmzWrjTyeup4mf) | [NADAS](https://open.spotify.com/album/4lwW7STef9jXyYkD1Wm13R) | 2:42 | 2025-05-01 | 2025-05-09 |
 | [Nafile](https://open.spotify.com/track/3FlQzHZ0siGCKDerBc9SSM) | [Lauda](https://open.spotify.com/artist/5Lqc1Kt1B1dSWcqpHw8q81), [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf) | [Nafile](https://open.spotify.com/album/6fQlwMllSiOwVr18FcDRjW) | 2:48 | 2025-07-31 | 2025-08-09 |
+| [Nafile](https://open.spotify.com/track/7bmvztJ2SeLiP8WoECPytC) | [SWAG](https://open.spotify.com/artist/4rwtQ4t7Iy9mznkq3zQESw) | [Nafile](https://open.spotify.com/album/1tpvtPbodi0nOUG6ThcFNi) | 1:51 | 2025-09-11 |  |
 | [Namımız Var Napıyım](https://open.spotify.com/track/7uGAJ6vAtBMwibOihYqHeC) | [Deniz Boss](https://open.spotify.com/artist/4bRyMTfi869oUWXEXiibZm) | [Namımız Var Napıyım](https://open.spotify.com/album/0kc7IXq81PGDyxbLbrZpsh) | 1:22 | 2025-07-24 | 2025-08-01 |
 | [NAPCAN](https://open.spotify.com/track/54NALoCkXNtuZiea3x2UY5) | [Tatar](https://open.spotify.com/artist/4sgO0wCfOL83DksdpREnOz) | [NAPCAN](https://open.spotify.com/album/5eUdIzBXyaotXt5c2ehTSB) | 1:39 | 2025-04-24 | 2025-05-02 |
 | [napıyosun mesela ?](https://open.spotify.com/track/4PA0CfHSeg5yYx7PCyGeMb) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 3:05 | 2025-07-17 | 2025-07-25 |
@@ -2965,6 +2968,7 @@
 | [Yere Düştüm](https://open.spotify.com/track/7oEyxI63xJdZ9mo6CTeeKH) | [Başar Keklik](https://open.spotify.com/artist/5m5Z5rAO3wYF1rvJmzhv7o) | [Yere Düştüm](https://open.spotify.com/album/197BTuMAP2s0IZaGVqCFoz) | 3:10 | 2025-07-17 | 2025-07-25 |
 | [Yerinde Dur](https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Yerinde Dur](https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8) | 2:28 | 2025-06-26 | 2025-07-04 |
 | [Yerlerdeyim](https://open.spotify.com/track/36XvQFoo2dTSbwawPjO0c6) | [Vera](https://open.spotify.com/artist/6FuP3iXROMCITNRbUJIRC3), [Simge Pınar](https://open.spotify.com/artist/3LaMLuHw30v7Smtt3mcrjE) | [Yerlerdeyim](https://open.spotify.com/album/0CrUw1BKM8SHtrsIMnm8Sp) | 3:43 | 2025-02-20 | 2025-02-28 |
+| [yes baby](https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [yes baby](https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL) | 2:55 | 2025-09-11 |  |
 | [Yeterince Üzüldük](https://open.spotify.com/track/2XKhg7GIMqho6hIj4ecHds) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Yeterince Üzüldük](https://open.spotify.com/album/3zSzaopgxMvcjmhJI3QO5U) | 2:35 | 2025-05-29 | 2025-06-06 |
 | [Yetmedi Senle Olmaya Nefesim](https://open.spotify.com/track/0JNT6rcKpaK2doBCGpDvcX) | [Erden Erdoğan](https://open.spotify.com/artist/71Qmm2rF0wjEedvk4pgI5L), [Rüya Soydan](https://open.spotify.com/artist/2p329iGIX28fJuK8mCEvb6) | [Anla Beni Güzelim](https://open.spotify.com/album/7iuZzScvQM2h0glS7bYlVM) | 2:48 | 2025-08-14 | 2025-08-22 |
 | [Yeşil Güzel Renk](https://open.spotify.com/track/2Y2uqEmjPo4AnS7pVVEPV2) | [Sevda Deniz Karali](https://open.spotify.com/artist/15Z0sgBT1nnrFz5lkxVFmZ) | [Yeşil Güzel Renk](https://open.spotify.com/album/4S4gKITyNBdiM28VGYU2Ra) | 2:41 | 2025-06-12 | 2025-06-20 |

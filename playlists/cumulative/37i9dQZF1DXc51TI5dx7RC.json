@@ -303,6 +303,28 @@
     },
     {
       "album": {
+        "name": "BU",
+        "url": "https://open.spotify.com/album/6KVDybfylX2lE1NUrpC70s"
+      },
+      "artists": [
+        {
+          "name": "SURIYA MQT",
+          "url": "https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P"
+        },
+        {
+          "name": "P6ICK",
+          "url": "https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166700,
+      "name": "BU",
+      "url": "https://open.spotify.com/track/3X5Kco6l9HuvtO9CLCtzzq"
+    },
+    {
+      "album": {
         "name": "Call Me When You Break Up (with Gracie Abrams)",
         "url": "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3"
       },
@@ -1404,7 +1426,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
@@ -2159,6 +2181,24 @@
     },
     {
       "album": {
+        "name": "What's going on",
+        "url": "https://open.spotify.com/album/1vTJWhwPxSs22314Mp8fYN"
+      },
+      "artists": [
+        {
+          "name": "PP Krit",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "What's going on",
+      "url": "https://open.spotify.com/track/5dIYl0ERKVWLz6cKpfWwKp"
+    },
+    {
+      "album": {
         "name": "Alter Ego",
         "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
       },
@@ -2598,7 +2638,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 193246,
       "name": "\u0e09\u0e31\u0e19\u0e08\u0e30\u0e23\u0e35\u0e1a\u0e1a\u0e2d\u0e01\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/0VOIQcLeVfauNE0uwmIWD6"

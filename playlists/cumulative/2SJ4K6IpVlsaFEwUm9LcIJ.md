@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-734 songs - 1 day 19 hr 11 min
+735 songs - 1 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [By the Mark](https://open.spotify.com/track/7vZ499OwlWTpddvdXXb0VF) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/2rQnb3cAjCW49K3sA7xaep) | 3:40 | 2024-04-13 | 2024-05-16 |
 | [C Is The Heavenly Option](https://open.spotify.com/track/08mk6DH2nTVwlrQTE0Hunr) | [Heavenly](https://open.spotify.com/artist/1sDWIdL18InXgES9TwvsL2), [Calvin Johnson](https://open.spotify.com/artist/4L0x6V9ckwc4QhR069mk9M) | [Le Jardin De Heavenly](https://open.spotify.com/album/0InB1oG08YUmJuztRRoHvK) | 3:21 | 2024-05-24 | 2024-07-12 |
 | [Café Style 4](https://open.spotify.com/track/3mvAYqD6LJIFcPhkfkcMJe) | [The Convenience](https://open.spotify.com/artist/2PKfkrNktahdkVFB47NjGv) | [Like Cartoon Vampires](https://open.spotify.com/album/2A2py4eAMFQCUdvuY22Bum) | 1:57 | 2025-05-08 | 2025-07-04 |
+| [Call 1\-800\-fear](https://open.spotify.com/track/2X36dBX0bv5gQfWh1ELxcu) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [Faking The Books](https://open.spotify.com/album/6NUMXxMBXsCuth2PXt4d79) | 3:24 | 2025-09-18 |  |
 | [Can U Read Me?](https://open.spotify.com/track/5VQctXg4C2R2bEiIxjEeeS) | [Nite\-Funk](https://open.spotify.com/artist/2qpbJXtYrpwyNwgXM3MRsn) | [Believer / Can U Read Me?](https://open.spotify.com/album/4l8FsRiQpbxROp8cQEDPil) | 3:35 | 2025-06-14 | 2025-07-04 |
 | [Can You Feel the Beat Tonight?](https://open.spotify.com/track/5xbpkr8kuz9Djodai18VIA) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [Cooper B Handy's Album, Vol\. 3](https://open.spotify.com/album/0uRS4EwISSvwcBbfaxdfJi) | 1:57 | 2024-03-18 | 2024-05-16 |
 | [Cap Hits the Button](https://open.spotify.com/track/4B4Rhg8TMUXeUXMnqdAjTm) | [Mope Grooves](https://open.spotify.com/artist/180kJdOQylLrSL0euYbqLF) | [Box of Dark Roses](https://open.spotify.com/album/4ZvT0dsezILOXo0YEV6Z8Q) | 5:25 | 2025-02-19 | 2025-03-02 |

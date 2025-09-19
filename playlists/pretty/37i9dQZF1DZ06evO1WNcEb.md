@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,856 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,862 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 19 | [Grande é o Nosso Deus](https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Grande é o Nosso Deus](https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd) | 5:19 |
 | 20 | [Até Tocar o Céu](https://open.spotify.com/track/1tqQHKQEsdWcgDboT9rnFL) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 7:06 |
 | 21 | [Quanto Amor \(feat\. Eyshila\)](https://open.spotify.com/track/2he2Kf0Kr2nHqPsawBg435) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 4:26 |
-| 22 | [Deus Forte \(Ao Vivo\)](https://open.spotify.com/track/3i7GanYhWqwGpC1fRJQquk) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus Forte \(Ao Vivo\)](https://open.spotify.com/album/7C1wJaUx8jI3E1XV9oi4ED) | 4:30 |
-| 23 | [Deus dos Vales, Deus dos Montes](https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 4:43 |
+| 22 | [Deus dos Vales, Deus dos Montes](https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 4:43 |
+| 23 | [Deus Forte \(Ao Vivo\)](https://open.spotify.com/track/3i7GanYhWqwGpC1fRJQquk) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus Forte \(Ao Vivo\)](https://open.spotify.com/album/7C1wJaUx8jI3E1XV9oi4ED) | 4:30 |
 | 24 | [É Assim que Eu Quero Te Adorar](https://open.spotify.com/track/2IwhjYtwmTtigR0gPTwleo) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 6:33 |
 | 25 | [Na Casa de Deus \(Ao Vivo\)](https://open.spotify.com/track/405pnewk2TN2WxsUKyvbS4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Na Casa de Deus \(Ao Vivo\)](https://open.spotify.com/album/7yentyJ51KwfcdZUGD1wXm) | 4:02 |
 | 26 | [Eu Me Arrependo](https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq) | [Jesus, o Brasil Te Adora](https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC) | 5:53 |
 | 27 | [Eu Não Me Rendo a Minha Dor \(Ao Vivo\)](https://open.spotify.com/track/1CLdTTa42Y2PZMuYuwbMVS) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eu Não Me Rendo a Minha Dor \(Ao Vivo\)](https://open.spotify.com/album/5m0ssj0Vlx2Nw0oX1Xu9JZ) | 4:03 |
 | 28 | [Eu Quero Ser Santo](https://open.spotify.com/track/5sLmKSlC5aDWhTomfobhqK) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 6:20 |
 | 29 | [Profetiza](https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Profetiza](https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm) | 4:54 |
-| 30 | [Tu Podes Fazer de Novo \(Ao Vivo\)](https://open.spotify.com/track/0CKn82sbrhFWQTgCCNALw2) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Tu Podes Fazer de Novo \(Ao Vivo\)](https://open.spotify.com/album/5AMT8bkT4k7vDR97HmQ0EH) | 5:06 |
-| 31 | [Deus Está me Ensinando](https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 4:54 |
+| 30 | [Deus Está me Ensinando](https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 4:54 |
+| 31 | [Tu Podes Fazer de Novo \(Ao Vivo\)](https://open.spotify.com/track/0CKn82sbrhFWQTgCCNALw2) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Tu Podes Fazer de Novo \(Ao Vivo\)](https://open.spotify.com/album/5AMT8bkT4k7vDR97HmQ0EH) | 5:06 |
 | 32 | [De Manhã \(Ao Vivo\)](https://open.spotify.com/track/24xEv4vmx7DkJjE5rAu3ld) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [De Manhã \(Ao Vivo\)](https://open.spotify.com/album/1ZcC6cU12wzi4LP2VsEUL3) | 4:35 |
 | 33 | [Espírito Santo](https://open.spotify.com/track/4iznng5u9df8eqllNmoRp4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 4:22 |
 | 34 | [Vou Glorificar](https://open.spotify.com/track/187l0KkKTNCnfpJ1vYa0Y7) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Na Casa de Deus](https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX) | 4:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 49 | [Com o Teu Fogo](https://open.spotify.com/track/4tZSrmVZ9Q72FJVEbNVjFG) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 5:13 |
 | 50 | [Sopra Espírito \- Na Igreja \- In Memoriam Ludmila Ferber, Ao Vivo](https://open.spotify.com/track/3xllqibWTuiSHhuzw2YkVK) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Sopra Espírito \(Na Igreja \- In Memoriam Ludmila Ferber, Ao Vivo\)](https://open.spotify.com/album/4xEhmC9MdsDeExOCIBTPVo) | 5:26 |
 
-Snapshot ID: `aMiogAAAAACHx3lnejEEMdq7biOF6vwq`
+Snapshot ID: `aMn6AAAAAAAnKaA6Oy3fCtFu0PNLCzlA`

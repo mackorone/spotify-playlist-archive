@@ -4,10 +4,11 @@
 
 > songs voor je playlist! \#fyp
 
-776 songs - 1 day 15 hr 7 min
+779 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [0612345678](https://open.spotify.com/track/244Lc2uhaHG8ax7Y1Yme5Q) | [Ceder](https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [0612345678](https://open.spotify.com/album/3CgYS7rGV4pFRojDGRCX0g) | 2:23 | 2025-09-18 |  |
 | [1+1 \(Outside\)](https://open.spotify.com/track/2MPWNU7QkwmBNAoHdYLYfW) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [1+1 \(Outside\)](https://open.spotify.com/album/0W9yMPmPSIwvjKDv5jPPPJ) | 2:38 | 2025-06-03 |  |
 | [10/10](https://open.spotify.com/track/1Na008bZjzO3CR3JiHIZ3C) | [Romy Indy](https://open.spotify.com/artist/6JhADekMjsEbsfmBxjsmjQ) | [10/10](https://open.spotify.com/album/5VWPkqPUYktdoEVXIPhoRc) | 1:37 | 2025-04-09 | 2025-06-21 |
 | [100 Gram Uit Nederland](https://open.spotify.com/track/5oVVU5t4eaIPH3Fsvfb0Dw) | [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN), [Offensief](https://open.spotify.com/artist/5och3wqTbvZpmyYX8bPimR), [HET POMPSTATION](https://open.spotify.com/artist/6TQQsMsMKQBHjZrFv63d90), [Yung Petsi](https://open.spotify.com/artist/3fLUixLOM1KxH2PgdN3PMK) | [100 Gram Uit Nederland](https://open.spotify.com/album/7BUvK6HKtF5qaIHwR3cD8U) | 2:52 | 2024-06-24 | 2024-10-08 |
@@ -90,6 +91,7 @@
 | [Blikkendag](https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Blikkendag](https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB) | 3:29 | 2024-12-03 |  |
 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2025-01-09 | 2025-02-11 |
 | [Blue Berries](https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4) | [Sem Jacobs](https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt), [Tagmann](https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7) | [Blue Berries](https://open.spotify.com/album/5rYaOhuUSKY1APLQ131QWN) | 2:50 | 2024-06-13 | 2024-09-18 |
+| [Bodega Baddie](https://open.spotify.com/track/4JI9FH3KOYOushudtnZt0z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [](https://open.spotify.com/album/null) | 1:44 | 2025-09-18 |  |
 | [Body](https://open.spotify.com/track/2XmZI4dnQhLlt9imUoAnFc) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [Spanker](https://open.spotify.com/artist/6wMnkPepu5AcV3w9rtIw09), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R) | [Body](https://open.spotify.com/album/1GlRi6vd31FMIWrQkgxu45) | 2:36 | 2024-11-11 | 2024-12-04 |
 | [Bongoloco](https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA) | 3:26 | 2023-07-04 | 2023-11-06 |
 | [Bongoloco](https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV) | 3:26 | 2023-10-30 | 2024-01-09 |
@@ -136,6 +138,7 @@
 | [chille guy](https://open.spotify.com/track/6u6yLaxKWGQAUdzbisoGUM) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [chille guy](https://open.spotify.com/album/3CnwMnrBbY4kFitwIBT3rJ) | 1:40 | 2024-12-18 | 2025-01-16 |
 | [Christmas Bae](https://open.spotify.com/track/0GsNzZNqLPrNnJswoQOCtO) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Christmas Bae](https://open.spotify.com/album/5A5f08mnl1DLQijHRpTank) | 3:10 | 2024-12-18 | 2024-12-27 |
 | [Company](https://open.spotify.com/track/61uyGDPJ06MkxJtHgPmuyO) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:28 | 2023-06-07 | 2023-07-19 |
+| [Comportement](https://open.spotify.com/track/2nOZaGwMYt07nXtIeYbEiu) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Journal intime](https://open.spotify.com/album/7h7MqzSJ1wEXpjHzkevE6h) | 2:52 | 2025-09-18 |  |
 | [Confidence](https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Premiers pas](https://open.spotify.com/album/4TdXHEGmIaPV2xvqTnf5z4) | 3:44 | 2025-07-01 |  |
 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 | 2023-11-23 | 2023-12-30 |
 | [Constellations](https://open.spotify.com/track/6XZFPFanJb6RKGvuAAv3g8) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:20 | 2025-01-13 | 2025-06-21 |

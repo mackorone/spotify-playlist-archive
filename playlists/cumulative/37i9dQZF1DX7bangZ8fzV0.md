@@ -4,7 +4,7 @@
 
 > Net die beste Afrikaanse musiek! Omslag: Dassie
 
-328 songs - 18 hr 7 min
+329 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Ek Like Jou](https://open.spotify.com/track/1xG077ty9EwidOBANZwKlD) | [Leah](https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh) | [Ek Like Jou](https://open.spotify.com/album/4XP2UPBce2DLra8bZ2DXQp) | 3:24 | 2022-09-14 | 2024-10-11 |
 | [Ek Ly Aan](https://open.spotify.com/track/5q7za64TQKzLN6qga093Jo) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Ek Ly Aan](https://open.spotify.com/album/60enOSqxjh06pLpDFRkzD8) | 3:17 | 2023-02-09 | 2023-07-21 |
 | [Ek Moes Ek Wou Ek Sou](https://open.spotify.com/track/4M5ZYtZaATYEjmCY1I78sR) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Ek Moes Ek Wou Ek Sou](https://open.spotify.com/album/4fAIx1F240tedTZvZVouJm) | 3:20 | 2022-05-05 | 2024-04-27 |
+| [Ek Sal Nie Bang Wees Nie](https://open.spotify.com/track/0YAYhBmpFGVCgOBcdzjzBS) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Ek Sal Nie Bang Wees Nie](https://open.spotify.com/album/4Ok6uHJKhvETPiGnCu7qYQ) | 4:44 | 2025-09-18 |  |
 | [Ek Sê So](https://open.spotify.com/track/2q8HCRTpxZrqErJ3RqOpRT) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Ek Sê So](https://open.spotify.com/album/1w40mnsJMQ65QLtsn5xZhB) | 3:01 | 2022-12-22 | 2023-06-30 |
 | [Ek Verstaan](https://open.spotify.com/track/4f1ejHkPawc7rqetNInHOA) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa), [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Ek Verstaan](https://open.spotify.com/album/1lgKA1jlBsN9OqDct5jzrI) | 2:44 | 2024-10-10 |  |
 | [Ek Wens](https://open.spotify.com/track/7cYUAAyZDMOLBqhzXCen7S) | [Ray Dylan](https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY) | [Ek Wens](https://open.spotify.com/album/7s1ETgKwUedSSPMIJTY6Hg) | 3:57 | 2022-11-10 | 2023-06-04 |
@@ -210,7 +211,7 @@
 | [Meisies Soos Jy](https://open.spotify.com/track/67N0nsJvvBnvDYzh9ajNWF) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Meisies Soos Jy](https://open.spotify.com/album/164AAP3cVdfP6Wt1nDNPla) | 4:10 | 2022-04-22 | 2022-11-25 |
 | [Memories Maak](https://open.spotify.com/track/3Iue15EbnjaD5dfgYCw7mf) | [Ariana Venus](https://open.spotify.com/artist/2NxHVU4CsjrwS2MIA0dupe) | [Memories Maak](https://open.spotify.com/album/28qOth6mq7ANU4Pgrb5KK9) | 3:36 | 2025-06-19 | 2025-08-01 |
 | [Moegdans](https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Moegdans](https://open.spotify.com/album/2PZIORUBXjaeRTuepRjTvq) | 3:21 | 2023-09-21 | 2025-09-03 |
-| [Mooier As Mens](https://open.spotify.com/track/6Sf2Gix8i6F5dppxF4SDsW) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Mooier As Mens](https://open.spotify.com/album/6icQRVPzVaFuFForSooh0L) | 3:31 | 2025-05-15 |  |
+| [Mooier As Mens](https://open.spotify.com/track/6Sf2Gix8i6F5dppxF4SDsW) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Mooier As Mens](https://open.spotify.com/album/6icQRVPzVaFuFForSooh0L) | 3:31 | 2025-05-15 | 2025-09-19 |
 | [Morsig](https://open.spotify.com/track/2PM1iKRKIz73N0r5wRfl5e) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Morsig](https://open.spotify.com/album/4apOG7LWrQ140OaSwLtWNs) | 3:14 | 2024-09-27 | 2025-06-07 |
 | [My Nannas](https://open.spotify.com/track/7AiWpdNAuQtauRiZLRTiin) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [My Nannas](https://open.spotify.com/album/5aHgjmoL4dh4xbDgzl6rHc) | 3:17 | 2022-10-13 | 2024-07-19 |
 | [My Persoon](https://open.spotify.com/track/72X1334S3ENO1j1RnTvtzc) | [Die Campbells](https://open.spotify.com/artist/1GfnUbIqwTuETN5vXE1Y4H), [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [My Persoon](https://open.spotify.com/album/0x2D2KYd5jIzeffnnRgynF) | 3:32 | 2022-11-24 | 2022-12-24 |

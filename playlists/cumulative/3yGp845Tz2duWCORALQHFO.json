@@ -10493,6 +10493,24 @@
     },
     {
       "album": {
+        "name": "Collection 3",
+        "url": "https://open.spotify.com/album/1iHBYO9XCXeFNl57K3rDzI"
+      },
+      "artists": [
+        {
+          "name": "Truthlive",
+          "url": "https://open.spotify.com/artist/7rMMDJat6svdaj3KrksxgL"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255360,
+      "name": "California License Plate",
+      "url": "https://open.spotify.com/track/5zcbob2CDiW65jpK224Qyk"
+    },
+    {
+      "album": {
         "name": "Call Me Closer",
         "url": "https://open.spotify.com/album/0Z5pPMzZEqzmO5IcgSgKW6"
       },

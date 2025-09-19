@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37615,
+  "num_followers": 37614,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAAC1XSoFADo05/ynPec72eDa",
+  "snapshot_id": "aMn6AAAAAADyN2HcH18RiEt7NcYXl5Xa",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Phantom Five",
-        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "A Letter To No One",
-      "url": "https://open.spotify.com/track/1aE8HVgaRZGqFY6sF0utyR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Candy Pop",
         "url": "https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo"
       },
@@ -671,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5ZMRwsDfAY7Z1smCfmEwlG"
+        "name": "The Phantom Five",
+        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
       },
       "artists": [
         {
@@ -680,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 172535,
-      "name": "Actors Have No Shame",
-      "url": "https://open.spotify.com/track/2YbU0FKAic1peco49W2zal"
+      "duration_ms": 241693,
+      "name": "A Letter To No One",
+      "url": "https://open.spotify.com/track/1aE8HVgaRZGqFY6sF0utyR"
     },
     {
       "added_at": null,
@@ -703,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Phantom Five",
-        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
+        "name": "Run (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ZMRwsDfAY7Z1smCfmEwlG"
       },
       "artists": [
         {
@@ -712,9 +696,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 141826,
-      "name": "Bang Your Head",
-      "url": "https://open.spotify.com/track/2lhODvBNEJnbpyowhOhs1V"
+      "duration_ms": 172535,
+      "name": "Actors Have No Shame",
+      "url": "https://open.spotify.com/track/2YbU0FKAic1peco49W2zal"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
       "duration_ms": 174320,
       "name": "Disco Body Parts (feat. AWOLNATION)",
       "url": "https://open.spotify.com/track/4W0PnZs6I5KLx3lbPUwnI2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Phantom Five",
+        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 141826,
+      "name": "Bang Your Head",
+      "url": "https://open.spotify.com/track/2lhODvBNEJnbpyowhOhs1V"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Echo, My Shadow, My Covers & Me",
-        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 249212,
-      "name": "Flagpole Sitta (feat. Elohim)",
-      "url": "https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/02JHHLFl8FLvBU1QwQCeod"
       },
@@ -811,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5ZMRwsDfAY7Z1smCfmEwlG"
+        "name": "My Echo, My Shadow, My Covers & Me",
+        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
       "artists": [
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
         }
       ],
-      "duration_ms": 174384,
-      "name": "Walking Away",
-      "url": "https://open.spotify.com/track/5EGlRPjdwqWQLDexcHMnwK"
+      "duration_ms": 249212,
+      "name": "Flagpole Sitta (feat. Elohim)",
+      "url": "https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H"
     },
     {
       "added_at": null,
@@ -847,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Echo, My Shadow, My Covers & Me",
-        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
+        "name": "Run (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ZMRwsDfAY7Z1smCfmEwlG"
       },
       "artists": [
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 243066,
-      "name": "Eye In The Sky (feat. Beck)",
-      "url": "https://open.spotify.com/track/4JxXyhC4FAALmp7uXrmsrG"
+      "duration_ms": 174384,
+      "name": "Walking Away",
+      "url": "https://open.spotify.com/track/5EGlRPjdwqWQLDexcHMnwK"
     },
     {
       "added_at": null,
@@ -883,6 +863,26 @@
       "duration_ms": 278867,
       "name": "Table for One (feat. Elohim)",
       "url": "https://open.spotify.com/track/7fE5PFt7j1aNGdCEM89qxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Echo, My Shadow, My Covers & Me",
+        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Eye In The Sky (feat. Beck)",
+      "url": "https://open.spotify.com/track/4JxXyhC4FAALmp7uXrmsrG"
     }
   ],
   "unique_name": "This Is AWOLNATION",

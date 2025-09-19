@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 
 > From India to MENA, these hits will make you dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,201 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,211 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 28 | [Dilbar \(From "Satyameva Jayate"\)](https://open.spotify.com/track/6cARnc9YVlBNigjNSX63pp) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Frolic Neha Kakkar](https://open.spotify.com/album/72AyTNvQjaCH6btYBQbyVD) | 3:04 |
 | 29 | [Dilbar Arabic](https://open.spotify.com/track/5EdkHBTXHVXrLz1AkIMweE) | [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA), [Fnaire](https://open.spotify.com/artist/1g8q1m1XjmUW8zOO3vCqcW), [Mohcine Tizaf](https://open.spotify.com/artist/2iO6cqotEJYZC0H3mch1ZC), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Dilbar Arabic](https://open.spotify.com/album/4EF0E4sgNEA27ZrB4QMbjy) | 3:18 |
 | 30 | [Bollywood](https://open.spotify.com/track/75bnrRBe7WXrlM8vxBQMOI) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Bollywood](https://open.spotify.com/album/4a4Ilmyy4LticNI8wjxdEh) | 3:09 |
-| 31 | [Wallah Wallah](https://open.spotify.com/track/4N1szZrSScl8EbUg2t240H) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Proof](https://open.spotify.com/artist/5pk8AXDLwwybWfGXpqWkZ5) | [Wallah Wallah](https://open.spotify.com/album/0YvN3saYGkzZzvRcCdyYNr) | 3:51 |
-| 32 | [Mann Tu Talbat](https://open.spotify.com/track/2E7YOOQjlK8bb0I7kM3JSG) | [Hamza Faruqui](https://open.spotify.com/artist/0wUD0Q5YZchgEGt7Xh7bXI) | [Super Star](https://open.spotify.com/album/0wswgvh5SqzIbPPimeNuTu) | 5:29 |
+| 31 | [Mann Tu Talbat](https://open.spotify.com/track/2E7YOOQjlK8bb0I7kM3JSG) | [Hamza Faruqui](https://open.spotify.com/artist/0wUD0Q5YZchgEGt7Xh7bXI) | [Super Star](https://open.spotify.com/album/0wswgvh5SqzIbPPimeNuTu) | 5:29 |
+| 32 | [Wallah Wallah](https://open.spotify.com/track/4N1szZrSScl8EbUg2t240H) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Proof](https://open.spotify.com/artist/5pk8AXDLwwybWfGXpqWkZ5) | [Wallah Wallah](https://open.spotify.com/album/0YvN3saYGkzZzvRcCdyYNr) | 3:51 |
 | 33 | [Zariya](https://open.spotify.com/track/7kWMZ2LZIedqzCgPkGNX81) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Farah Siraj](https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY), [Ani Choying Drolma](https://open.spotify.com/artist/4WDdyyr7KmLpJ6Gf65VQwI) | [Coke Studio India Season 3: Episode 1](https://open.spotify.com/album/2CStgaiOhe1w4OXAoqP1gl) | 7:12 |
 | 34 | [Wak Wak](https://open.spotify.com/track/4OxGLH7f7DZzkUGXFSMd8y) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp), [Omar Belmir](https://open.spotify.com/artist/17vRJZ5WQBC1CvEW7XVGlL) | [Wak Wak](https://open.spotify.com/album/49nPb7VBPJ83NWIkXUp3SM) | 3:07 |
 | 35 | [Hermosa](https://open.spotify.com/track/1zgld0Oet9q8u2mjrGCBNr) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [D Soldierz](https://open.spotify.com/artist/2iMLFmSsfgkQjyIg8Y6QVj) | [Hermosa](https://open.spotify.com/album/60V8eeJcMracw5CfeQtuge) | 3:23 |

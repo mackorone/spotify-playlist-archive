@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 ### [Rap Español](https://open.spotify.com/playlist/37i9dQZF1DXcd2Vmhfon1w)
 
-> Lo mejor del hip hop español\. Feat\. Israel B.
+> Lo mejor del hip hop español\. Feat\. Delaossa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,942 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,949 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 49 | [Poco a Poco](https://open.spotify.com/track/08rNMX9zgEtl5pZUvtRFp7) | [Jarfaiter](https://open.spotify.com/artist/7hqwOMu222wUGHIzm49sJk), [Geckodelarue](https://open.spotify.com/artist/7pN6gysuGSvvdMpWPyDoN4) | [Poco a Poco](https://open.spotify.com/album/0q1VjTfbC30yaZb03oRde2) | 1:51 |
 | 50 | [El Método](https://open.spotify.com/track/2D8jG41HnBRlwZE8VCFyM7) | [Escandaloso Xpósito](https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf) | [El Método](https://open.spotify.com/album/0m7wFEI6CWfWn2nv9y9Cqg) | 2:16 |
 
-Snapshot ID: `AAAAAEa4Ka/zq9CgW1topG39Db+3iS3f`
+Snapshot ID: `AAAAAKf2XhUYAAI+PSik9X8cReOzHUF1`

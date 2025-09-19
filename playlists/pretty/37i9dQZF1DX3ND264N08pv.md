@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,309 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,354 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Club Banger](https://open.spotify.com/track/2wkQjbEHsp0VbFdbc3FFWS) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Club Banger EP](https://open.spotify.com/album/1dRTAgu3lF9zpe1WaDZ2wf) | 1:58 |
+| 1 | [Club Banger](https://open.spotify.com/track/2wkQjbEHsp0VbFdbc3FFWS) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Club Banger](https://open.spotify.com/album/1dRTAgu3lF9zpe1WaDZ2wf) | 1:58 |
 | 2 | [Path Of The Wisemen](https://open.spotify.com/track/68Ln2A2umloSrPWrVMOI9h) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB) | [Path Of The Wisemen](https://open.spotify.com/album/3v5vGc50acckobzhRTFsWd) | 3:00 |
 | 3 | [Highs In My Dreams](https://open.spotify.com/track/3t2qOSDPQYkNrkdDpEIFFx) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Highs In My Dreams](https://open.spotify.com/album/6cmDJ0zrIcYjhre3Z3In2v) | 2:26 |
 | 4 | [Dark Smile](https://open.spotify.com/track/73zL3n9NzWIXVtvhlUnsXB) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [IMHAPPY](https://open.spotify.com/artist/610Cl4EOB0UT1FSg8zjedB) | [Dark Smile](https://open.spotify.com/album/7FUkQyx2A9SfDaBWpvbEFc) | 3:36 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 36 | [Memories](https://open.spotify.com/track/5HPBgvcnHhuskoO8aWAkvt) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [Memories](https://open.spotify.com/album/4LLCLJ1QGgzRnYDG5Zz8ba) | 2:58 |
 | 37 | [In Synergy](https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [In Synergy](https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T) | 2:46 |
 | 38 | [REBELS AT HEART](https://open.spotify.com/track/7sRBCzeVu9wnOtOi7ifXGP) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [REBELS AT HEART](https://open.spotify.com/album/4GSKfWQafbT294cDzRb6y1) | 2:04 |
-| 39 | [Hardcore Strikes Back](https://open.spotify.com/track/7bf4DG2tPnRn5Dce4virJE) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Hardcore Strikes Back](https://open.spotify.com/album/6mReiEKP5mrzmQV1N0YRdE) | 3:09 |
-| 40 | [Kamikaze](https://open.spotify.com/track/3BaGQ8tsutNrim7MGWBjbC) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc), [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [Kamikaze](https://open.spotify.com/album/49C4pHCfwYCc0XeSSeJvV0) | 3:40 |
+| 39 | [Kamikaze](https://open.spotify.com/track/3BaGQ8tsutNrim7MGWBjbC) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc), [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [Kamikaze](https://open.spotify.com/album/49C4pHCfwYCc0XeSSeJvV0) | 3:40 |
+| 40 | [Hardcore Strikes Back](https://open.spotify.com/track/7bf4DG2tPnRn5Dce4virJE) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Hardcore Strikes Back](https://open.spotify.com/album/6mReiEKP5mrzmQV1N0YRdE) | 3:09 |
 | 41 | [F.R.E.N.C.H.C.O.R.E.](https://open.spotify.com/track/48KVM5tvfliqY6l7kduiPF) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB), [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [Frenchcore Familia](https://open.spotify.com/artist/3lX2yJBnRgHzvGp6d5xGjR) | [F.R.E.N.C.H.C.O.R.E.](https://open.spotify.com/album/08UAg9MSdmXQ2IBnhJx6eC) | 2:38 |
 | 42 | [Life's A Bitch](https://open.spotify.com/track/3IatERaIQb9jVbR0OmrlXa) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Life's A Bitch](https://open.spotify.com/album/4LbVG19yQnDbyt1khkSIGI) | 3:33 |
 | 43 | [Monkey Man](https://open.spotify.com/track/6bSKqsylJ6DzDP6Onvp746) | [The Herbalist](https://open.spotify.com/artist/15FJi8mBaxYory85rxoCtu), [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Monkey Man](https://open.spotify.com/album/4R9thnGKDqtC5jzajpi5u4) | 2:20 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-4,218 songs - 9 day 8 hr 40 min
+4,219 songs - 9 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1192,7 +1192,7 @@
 | [Eu Não Previ \- Ao Vivo em Goiânia](https://open.spotify.com/track/3S8M3mZGIc10IdtmNTsrjQ) | [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Traia Véia \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/73lR6Nivc8Qwu3Jym41CKg) | 2:14 | 2023-07-30 | 2023-08-08 |
 | [Eu So Comi Ela uma Vez](https://open.spotify.com/track/7eoRm37Ta1jvGMiMRfOQoa) | [Dj VN Maestro](https://open.spotify.com/artist/31r6lIoq94Bww3TKIPQ01L), [MC G DS](https://open.spotify.com/artist/1xIma0CABaifVU5xJAqAAs) | [Eu So Comi Ela uma Vez](https://open.spotify.com/album/3Wt4fIdsPcbuOHpQvASMkQ) | 1:47 | 2024-06-22 | 2024-07-17 |
 | [Eu Te Amo Tanto Iguinho](https://open.spotify.com/track/4CZ0TYScO38MfP7rPAjMuo) | [Piseiro original](https://open.spotify.com/artist/4SQcSMJpci1m42ekRFUjAe) | [Iguinho e lulinha Eu te amo tanto](https://open.spotify.com/album/6aLdsqcozK4CnGUGBMMicf) | 3:32 | 2022-11-19 | 2022-12-04 |
-| [Eu Tô Fazendo uma Mágica](https://open.spotify.com/track/4bK0eX2k4XvwLTNm0xoinz) | [Gordinho Bolado](https://open.spotify.com/artist/6yiZkjeldEjFFhIaXj3w77), [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [Bolado na Base](https://open.spotify.com/artist/2RL3LwofYTX5hz0xZjnVXP) | [Eu Tô Fazendo uma Mágica](https://open.spotify.com/album/5lOW4YHylAtV72h5dpmjdu) | 2:31 | 2025-09-02 |  |
+| [Eu Tô Fazendo uma Mágica](https://open.spotify.com/track/4bK0eX2k4XvwLTNm0xoinz) | [Gordinho Bolado](https://open.spotify.com/artist/6yiZkjeldEjFFhIaXj3w77), [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [Bolado na Base](https://open.spotify.com/artist/2RL3LwofYTX5hz0xZjnVXP) | [Eu Tô Fazendo uma Mágica](https://open.spotify.com/album/5lOW4YHylAtV72h5dpmjdu) | 2:31 | 2025-09-02 | 2025-09-19 |
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-21 | 2024-05-25 |
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-03-19 | 2024-06-03 |
 | [Eusexua](https://open.spotify.com/track/6TeKbncyK62smlAvPy1dNa) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 4:23 | 2025-01-28 | 2025-02-02 |
@@ -2314,6 +2314,7 @@
 | [Merhametsiz](https://open.spotify.com/track/4hQVobSCtZ6zI7cjCyIOF4) | [Cevher](https://open.spotify.com/artist/5jUaU1L6PePJadPjzKYFXf) | [Merhametsiz](https://open.spotify.com/album/6ahlCcEViVQLxgoQKVfH3X) | 4:06 | 2024-06-28 | 2024-07-17 |
 | [Meri Jaan](https://open.spotify.com/track/4iEGv5Ne6HuCkFCjzxdWQK) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp) | [Gangubai Kathiawadi](https://open.spotify.com/album/1ewtD7ykSg3j31ARf0VN0b) | 3:58 | 2022-03-15 | 2022-04-01 |
 | [Merindukanmu](https://open.spotify.com/track/6iWN7lzwq9LedX3F1g3sTy) | [Salma Aliyyah](https://open.spotify.com/artist/090J9hBaxShI7OWuk64gm3) | [Merindukanmu](https://open.spotify.com/album/5CNkGpz6Hf1P595qSsOw3C) | 3:55 | 2023-05-12 | 2023-05-14 |
+| [Merindumu lagi](https://open.spotify.com/track/2EhHCazu5nK0S3oljv0B6l) | [Khifnu](https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7) | [Merindumu lagi](https://open.spotify.com/album/4LTGuJdFIcKgJfHjsK0lE7) | 3:38 | 2025-09-18 |  |
 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/6WY4wvlmgccWapnIg14Vy0) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [1996](https://open.spotify.com/album/2GVHciB5rx3gCQgIqHdJ4G) | 4:46 | 2023-04-04 | 2023-04-12 |
 | [MERVE \- Masada Chivas](https://open.spotify.com/track/1QR6XjncDYLxeYCmxPb2Ab) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [MERVE \(Masada Chivas\)](https://open.spotify.com/album/6Q21JmmA4ohsWT4GcZfq2z) | 2:39 | 2023-03-13 | 2023-03-23 |
 | [MERVE \- Masada Chivas](https://open.spotify.com/track/3x8hqraew3LLsZENdhGv3P) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [MERVE \(Masada Chivas\)](https://open.spotify.com/album/7Jo5ql6vYAeGbWtPphIk2U) | 2:39 | 2023-03-22 | 2023-04-14 |

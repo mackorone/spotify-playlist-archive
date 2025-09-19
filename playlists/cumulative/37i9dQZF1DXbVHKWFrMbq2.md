@@ -4,7 +4,7 @@
 
 > canciones para chillear con Conociendo Rusia & Jorge Drexler.
 
-178 songs - 9 hr 43 min
+179 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Cure For Me \(feat\. Silvana Estrada\) \- Live](https://open.spotify.com/track/6PzoioDNJ88Vpgd9ZmyOVG) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cure For Me \(feat\. Silvana Estrada\) \[Live\]](https://open.spotify.com/album/4DDaWo4xz93U8e9BTTaLGI) | 3:51 | 2023-10-17 | 2024-03-30 |
 | [De cabeza a pies](https://open.spotify.com/track/1CQ5RmaOyNaEpSm1zJDkZz) | [Cheti](https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7), [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [De cabeza a pies](https://open.spotify.com/album/6kxifQONbXoeQJDXQT8eqy) | 2:23 | 2023-10-26 | 2023-11-18 |
 | [Delfines](https://open.spotify.com/track/5LqVs6hiodD5YXRGV5rNzc) | [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY) | [Delfines](https://open.spotify.com/album/2wBW2z26H62mqXz6CA5eJL) | 4:38 | 2023-12-11 | 2024-01-26 |
-| [DESAFIANDO EL DESTINO](https://open.spotify.com/track/4rBQxFVwTnf99p818azSon) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 3:12 | 2023-10-17 |  |
+| [DESAFIANDO EL DESTINO](https://open.spotify.com/track/4rBQxFVwTnf99p818azSon) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 3:12 | 2023-10-17 | 2025-09-19 |
 | [Desastres Fabulosos](https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Desastres Fabulosos](https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09) | 2:43 | 2025-05-16 |  |
 | [Desenamórame](https://open.spotify.com/track/5ciqgtjBFAdTwbJJtMLjic) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Desenamórame](https://open.spotify.com/album/21B6mm6hnmEO3lassKflCw) | 3:16 | 2024-04-26 | 2024-05-25 |
 | [Deseo](https://open.spotify.com/track/3NeG4L63NUnmhdoUQygd2W) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [INEFABLE](https://open.spotify.com/album/3HJxFyRPL2rUb0wIE6KHlw) | 3:33 | 2025-06-20 |  |
@@ -118,6 +118,7 @@
 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 | 2024-08-29 | 2024-09-20 |
 | [no me dejes ir](https://open.spotify.com/track/7DSmAiyl2mJU5LAUggNhVB) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [no me dejes ir](https://open.spotify.com/album/69ZQKycDrLE7bxQvItohZO) | 2:52 | 2024-04-26 | 2024-05-25 |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2025-08-22 | 2025-09-13 |
+| [No Pidas Perdón](https://open.spotify.com/track/5IY0AjOuUuGUSOa1L5rzIf) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [No Pidas Perdón](https://open.spotify.com/album/5EwlZS0o5bqSoECgyE8ida) | 2:42 | 2025-09-19 |  |
 | [No Voy a Ser Yo](https://open.spotify.com/track/1eMgItwutbGkckkl3JTKFH) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [No Voy a Ser Yo](https://open.spotify.com/album/1tnAVXOqJfrqGUgG6ZUm3e) | 2:55 | 2023-10-17 | 2024-02-09 |
 | [Nuestra Canción](https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Caja de Música](https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC) | 4:20 | 2023-10-17 | 2024-04-19 |
 | [Odio Odiarme](https://open.spotify.com/track/3KACg25zaLJqra1gvIRLwX) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Odio Odiarme](https://open.spotify.com/album/7aTXNvIk94LtvPOVJq0Fbq) | 2:06 | 2025-04-04 | 2025-05-16 |

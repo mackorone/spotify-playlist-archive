@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 ### [New Music Friday Deutschland](https://open.spotify.com/playlist/37i9dQZF1DWUW2bvSkjcJ6)
 
-> Neue Musik von Ed Sheeran, Pashanim,  Damiano David und Tyla, und mehr!
+> Neue Musik von Zimmer90, Nina Chuba, Lewis Capaldi, RAYE und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,201 likes - 89 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,256 likes - 89 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 88 | [ZEITZONEN](https://open.spotify.com/track/69SdVs2zap1GOxIsagEVTJ) | [Mike Singer](https://open.spotify.com/artist/1LRpAVWq5z6VZMG3tTdZKU) | [ZEITZONEN](https://open.spotify.com/album/1VAA1cbTFx7Gk8ocp99Gqz) | 2:44 |
 | 89 | [Der Himmel weint](https://open.spotify.com/track/1mBAx009Vx1k4uZHJ5fM93) | [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [Der Himmel weint](https://open.spotify.com/album/4HYIKAS86f72AuxihqsKgs) | 3:20 |
 
-Snapshot ID: `AAAAAHTI09KVf1e0hXJOminyyg4YSVZ/`
+Snapshot ID: `AAAAAJIFIn5/ivdZyKQhjuXJTtAYcDQp`

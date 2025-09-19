@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Hinds.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Toldos Verdes.",
   "name": "Rock 2025",
   "tracks": [
     {
@@ -909,6 +909,42 @@
     },
     {
       "album": {
+        "name": "Benito el aparejador",
+        "url": "https://open.spotify.com/album/4nBWA6NMAHZhzAfIulGWse"
+      },
+      "artists": [
+        {
+          "name": "Dear Joanne",
+          "url": "https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140565,
+      "name": "Benito el aparejador",
+      "url": "https://open.spotify.com/track/6i8ZEKYyMjSIIptOea9EBq"
+    },
+    {
+      "album": {
+        "name": "Bestia del Abismo",
+        "url": "https://open.spotify.com/album/51dDr8Nk0YWXm8wzHO63no"
+      },
+      "artists": [
+        {
+          "name": "Medalla",
+          "url": "https://open.spotify.com/artist/7gF2UrWGq0htyQ1SeF7jet"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248801,
+      "name": "Bestia del Abismo",
+      "url": "https://open.spotify.com/track/7qYyTfMnyZ212UpTLa3J4f"
+    },
+    {
+      "album": {
         "name": "BOCARRIBA",
         "url": "https://open.spotify.com/album/454Jw8XR7LdygHcbqYlWdz"
       },
@@ -1238,7 +1274,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 152466,
       "name": "Cisne negro",
       "url": "https://open.spotify.com/track/4FxW5Agp9HGxBFY5ZPAPs1"
@@ -1426,7 +1462,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 122567,
       "name": "Cryptobro y Cryptonena",
       "url": "https://open.spotify.com/track/6i8ESJ59UYGJIAEQxwnJrB"
@@ -3258,7 +3294,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 197253,
       "name": "Huella de ti",
       "url": "https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b"
@@ -3808,7 +3844,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 158341,
       "name": "La Playa",
       "url": "https://open.spotify.com/track/2nsE3BmaCd917YeHhjgpSy"
@@ -5383,6 +5419,24 @@
     },
     {
       "album": {
+        "name": "No veo una salida",
+        "url": "https://open.spotify.com/album/3xX8d14amWZyJ3yhvwmCc4"
+      },
+      "artists": [
+        {
+          "name": "Amante Laff\u00f3n",
+          "url": "https://open.spotify.com/artist/73nKf9LdEfuRB5TJRkai1T"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192320,
+      "name": "No veo una salida",
+      "url": "https://open.spotify.com/track/4y9eXCqePXQUSfQYzymJ6X"
+    },
+    {
+      "album": {
         "name": "No Vuelvo a Beber",
         "url": "https://open.spotify.com/album/3KOB2bRzJHL8KEdPkv8j3C"
       },
@@ -5784,7 +5838,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 185764,
       "name": "Patatas de chino",
       "url": "https://open.spotify.com/track/1zlTTbTEAhunokfJDAOUjT"
@@ -5856,7 +5910,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 212798,
       "name": "Pelo De Foca",
       "url": "https://open.spotify.com/track/3TnX1o4P2mCyM0to89CXkY"
@@ -5900,6 +5954,24 @@
       "duration_ms": 167120,
       "name": "Perd\u00ed los Galeones",
       "url": "https://open.spotify.com/track/2ZNQgbErHYNYUvMKyDAWyS"
+    },
+    {
+      "album": {
+        "name": "Hawai",
+        "url": "https://open.spotify.com/album/1J5DJeQpsKX8JWh0I8ocRw"
+      },
+      "artists": [
+        {
+          "name": "Rata Negra",
+          "url": "https://open.spotify.com/artist/7KjdFWj7ujhSLbzWYAAgVe"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118170,
+      "name": "Pesadilla Adulta",
+      "url": "https://open.spotify.com/track/4g3INzuTAV6sZxnaxg1RJs"
     },
     {
       "album": {
@@ -6841,6 +6913,24 @@
     },
     {
       "album": {
+        "name": "Sitcom",
+        "url": "https://open.spotify.com/album/6jXZr7t2qwhWitXGE9jStc"
+      },
+      "artists": [
+        {
+          "name": "De Rancho",
+          "url": "https://open.spotify.com/artist/5CvFmofsJbfkYoGOFryI2k"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145003,
+      "name": "Sitcom",
+      "url": "https://open.spotify.com/track/36rZJV3ioGnEPzq72aCZMe"
+    },
+    {
+      "album": {
         "name": "Sobrepensando",
         "url": "https://open.spotify.com/album/5mPW8AzWLDjN1aDt7mZt2u"
       },
@@ -6892,6 +6982,24 @@
       "duration_ms": 166393,
       "name": "Solt\u00e9 tu mano",
       "url": "https://open.spotify.com/track/3aYwrgTEzIFHSEhXGIhzCm"
+    },
+    {
+      "album": {
+        "name": "Somos tan malos cada dos por tres",
+        "url": "https://open.spotify.com/album/04dVtiAndMn2QAiXznIhoa"
+      },
+      "artists": [
+        {
+          "name": "Toldos Verdes",
+          "url": "https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "Somos tan malos cada dos por tres",
+      "url": "https://open.spotify.com/track/52k8fBbw1k22kx5zpf6ff7"
     },
     {
       "album": {
@@ -7172,6 +7280,24 @@
       "duration_ms": 261333,
       "name": "Tekken",
       "url": "https://open.spotify.com/track/5kxroIDsvS0AQck5X8EKYN"
+    },
+    {
+      "album": {
+        "name": "Telara\u00f1a",
+        "url": "https://open.spotify.com/album/0CtuUVjfO5BV5XwulJ4ytJ"
+      },
+      "artists": [
+        {
+          "name": "Kitai",
+          "url": "https://open.spotify.com/artist/2TQyVG4JdI6hdRsOMEFOg4"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216566,
+      "name": "Telara\u00f1a",
+      "url": "https://open.spotify.com/track/5SDSiEmGU5AX88QaW958Uf"
     },
     {
       "album": {
@@ -7719,6 +7845,28 @@
     },
     {
       "album": {
+        "name": "Ultra Dime Algo",
+        "url": "https://open.spotify.com/album/7xc4yqOjQ4S05vZCISvad6"
+      },
+      "artists": [
+        {
+          "name": "Ghouljaboy",
+          "url": "https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d"
+        },
+        {
+          "name": "Lucy Morry",
+          "url": "https://open.spotify.com/artist/2IPRuevPK8i0XGGQFlkrNg"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217011,
+      "name": "Ultra Dime Algo",
+      "url": "https://open.spotify.com/track/0aztqNooApJ0LZ35MBB37K"
+    },
+    {
+      "album": {
         "name": "ULTRASUR",
         "url": "https://open.spotify.com/album/1lAD75rGpcUWpxti7DLLb6"
       },
@@ -7748,7 +7896,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 178629,
       "name": "Uma Thurman",
       "url": "https://open.spotify.com/track/2kdvuLboXtcrWjk3ZVqauw"
@@ -8012,7 +8160,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 241371,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/6BZkhCoEBb1tdspwt0cIZb"

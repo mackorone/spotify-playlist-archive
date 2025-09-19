@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,408 likes - 195 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,825 likes - 195 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 194 | [morning sun](https://open.spotify.com/track/6zH8CCVRoPEdnC609EHiim) | [Wicker Whales](https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou) | [morning sun](https://open.spotify.com/album/4Ihr8c62YpsHpRouNOheTZ) | 3:09 |
 | 195 | [Solar Skies](https://open.spotify.com/track/1W3SYju3DvZHWgNSzb3N0S) | [Caelestis Nati](https://open.spotify.com/artist/5FYjMehrDmyDkbZqpYP1j8) | [Solar Skies](https://open.spotify.com/album/1cNfEsEpQg6o6Pw9z4EnZc) | 2:40 |
 
-Snapshot ID: `AAAAAGluzkwirtUmzmgQGBr7NYHfU0LS`
+Snapshot ID: `AAAAALMlTu3q7rTAimEIF2HjT/ARJBtw`

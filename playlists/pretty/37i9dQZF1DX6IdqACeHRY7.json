@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 156984,
+  "num_followers": 156992,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
-        "name": "En dr\u00f8m om et menneske",
-        "url": "https://open.spotify.com/album/5etPPW2saTnIg66emll6tp"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "En dr\u00f8m om et menneske",
-      "url": "https://open.spotify.com/track/2WwWecb8U1bvv0LiKXQUsF"
-    },
-    {
-      "added_at": "2025-08-29 08:01:40",
-      "album": {
         "name": "Breach",
         "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
+    },
+    {
+      "added_at": "2025-08-29 08:01:40",
+      "album": {
+        "name": "En dr\u00f8m om et menneske",
+        "url": "https://open.spotify.com/album/5etPPW2saTnIg66emll6tp"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "En dr\u00f8m om et menneske",
+      "url": "https://open.spotify.com/track/2WwWecb8U1bvv0LiKXQUsF"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-09-16 13:16:29",
       "album": {
-        "name": "Fuck Me Eyes",
-        "url": "https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 364800,
-      "name": "Fuck Me Eyes",
-      "url": "https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei"
-    },
-    {
-      "added_at": "2025-09-16 13:16:29",
-      "album": {
         "name": "A Beautiful Real Life",
         "url": "https://open.spotify.com/album/2SBm27QvS2epOxB2DvT5GP"
       },
@@ -725,20 +709,20 @@
       "url": "https://open.spotify.com/track/0knqVSsgD7C8yu5yNmQFbA"
     },
     {
-      "added_at": "2025-08-29 08:01:40",
+      "added_at": "2025-09-16 13:16:29",
       "album": {
-        "name": "\u00c5boulevarden",
-        "url": "https://open.spotify.com/album/5mJP3xBZvvTXSxnukizPf4"
+        "name": "Fuck Me Eyes",
+        "url": "https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU"
       },
       "artists": [
         {
-          "name": "Skinz",
-          "url": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 162585,
-      "name": "\u00c5boulevarden",
-      "url": "https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK"
+      "duration_ms": 364800,
+      "name": "Fuck Me Eyes",
+      "url": "https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -755,6 +739,38 @@
       "duration_ms": 212626,
       "name": "Love on the Weekend",
       "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
+    },
+    {
+      "added_at": "2025-08-29 08:01:40",
+      "album": {
+        "name": "\u00c5boulevarden",
+        "url": "https://open.spotify.com/album/5mJP3xBZvvTXSxnukizPf4"
+      },
+      "artists": [
+        {
+          "name": "Skinz",
+          "url": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
+        }
+      ],
+      "duration_ms": 162585,
+      "name": "\u00c5boulevarden",
+      "url": "https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK"
+    },
+    {
+      "added_at": "2025-09-16 13:16:29",
+      "album": {
+        "name": "Den nye pige",
+        "url": "https://open.spotify.com/album/5xp5cdwnjXheO7ZRmiTPNa"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+        }
+      ],
+      "duration_ms": 169851,
+      "name": "Den nye pige",
+      "url": "https://open.spotify.com/track/62ULtmT9IgrELMOpd4SJqi"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -811,22 +827,6 @@
       "duration_ms": 186971,
       "name": "Hurt So Bad",
       "url": "https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz"
-    },
-    {
-      "added_at": "2025-09-16 13:16:29",
-      "album": {
-        "name": "Den nye pige",
-        "url": "https://open.spotify.com/album/5xp5cdwnjXheO7ZRmiTPNa"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00e6st",
-          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
-        }
-      ],
-      "duration_ms": 169851,
-      "name": "Den nye pige",
-      "url": "https://open.spotify.com/track/62ULtmT9IgrELMOpd4SJqi"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -1117,6 +1117,22 @@
       "url": "https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il"
     },
     {
+      "added_at": "2025-09-16 13:16:29",
+      "album": {
+        "name": "Fire Uger",
+        "url": "https://open.spotify.com/album/5z1Hzumvn8lPUtaYX1vVE7"
+      },
+      "artists": [
+        {
+          "name": "Mumle",
+          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
+        }
+      ],
+      "duration_ms": 205869,
+      "name": "Fire Uger",
+      "url": "https://open.spotify.com/track/2fGbVht5HksMkvkIXvlPzc"
+    },
+    {
       "added_at": "2025-08-29 08:01:40",
       "album": {
         "name": "golden thing",
@@ -1147,22 +1163,6 @@
       "duration_ms": 218946,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V"
-    },
-    {
-      "added_at": "2025-09-16 13:16:29",
-      "album": {
-        "name": "Fire Uger",
-        "url": "https://open.spotify.com/album/5z1Hzumvn8lPUtaYX1vVE7"
-      },
-      "artists": [
-        {
-          "name": "Mumle",
-          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
-        }
-      ],
-      "duration_ms": 205869,
-      "name": "Fire Uger",
-      "url": "https://open.spotify.com/track/2fGbVht5HksMkvkIXvlPzc"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
-        "name": "hungover sunday",
-        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 180402,
-      "name": "hungover sunday",
-      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
-    },
-    {
-      "added_at": "2025-08-29 08:01:40",
-      "album": {
         "name": "English Rain",
         "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 181400,
       "name": "Please Don't Say You Love Me",
       "url": "https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y"
+    },
+    {
+      "added_at": "2025-08-29 08:01:40",
+      "album": {
+        "name": "hungover sunday",
+        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 180402,
+      "name": "hungover sunday",
+      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
-        "name": "Lukas Graham (Blue Album)",
-        "url": "https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 236866,
-      "name": "What Happened To Perfect",
-      "url": "https://open.spotify.com/track/6MbtUcXRSDlJ4Zu3CYWMEG"
-    },
-    {
-      "added_at": "2025-08-29 08:01:40",
-      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 229783,
       "name": "Flux",
       "url": "https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy"
+    },
+    {
+      "added_at": "2025-08-29 08:01:40",
+      "album": {
+        "name": "Lukas Graham (Blue Album)",
+        "url": "https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "What Happened To Perfect",
+      "url": "https://open.spotify.com/track/6MbtUcXRSDlJ4Zu3CYWMEG"
     },
     {
       "added_at": "2025-08-29 08:01:40",

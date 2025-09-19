@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas",
-  "num_followers": 87941,
+  "num_followers": 87948,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Te Valgo",
-        "url": "https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk"
-      },
-      "artists": [
-        {
-          "name": "Piel Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "Te Valgo",
-      "url": "https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Ciudad Faro",
         "url": "https://open.spotify.com/album/58sctZs8nWBBUJ8qY956Vk"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 215909,
       "name": "Las Calles del Mundo",
       "url": "https://open.spotify.com/track/5n51OYaZgE3QS8PPO0p1zH"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Te Valgo",
+        "url": "https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk"
+      },
+      "artists": [
+        {
+          "name": "Piel Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "Te Valgo",
+      "url": "https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "LVRBOY",
-        "url": "https://open.spotify.com/album/5W6bM73YTdbpCZQXH0ZJtE"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 249917,
-      "name": "LVRBOY",
-      "url": "https://open.spotify.com/track/4EboiR8ycNdFamgaNcY4bb"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 276000,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "LVRBOY",
+        "url": "https://open.spotify.com/album/5W6bM73YTdbpCZQXH0ZJtE"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 249917,
+      "name": "LVRBOY",
+      "url": "https://open.spotify.com/track/4EboiR8ycNdFamgaNcY4bb"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "TEMPLO KOMODO",
-        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
-      },
-      "artists": [
-        {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
-        }
-      ],
-      "duration_ms": 249965,
-      "name": "B\u00fahoz",
-      "url": "https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Rocal",
         "url": "https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 230237,
       "name": "Rocal",
       "url": "https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "TEMPLO KOMODO",
+        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
+      },
+      "artists": [
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 249965,
+      "name": "B\u00fahoz",
+      "url": "https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Solo t\u00fa",
-        "url": "https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65"
-      },
-      "artists": [
-        {
-          "name": "APOLO 7",
-          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
-        }
-      ],
-      "duration_ms": 247392,
-      "name": "Solo t\u00fa",
-      "url": "https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Prende",
         "url": "https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG"
       },
@@ -855,22 +839,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Cisne",
-        "url": "https://open.spotify.com/album/7f7pQzEZjRdDZZDEtqWgl3"
-      },
-      "artists": [
-        {
-          "name": "V for Volume",
-          "url": "https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Cisne",
-      "url": "https://open.spotify.com/track/3HEjxQXUOFV8cWLaGDR27g"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Lockdownska",
         "url": "https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P"
       },
@@ -883,6 +851,22 @@
       "duration_ms": 219506,
       "name": "Lockdownska",
       "url": "https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Solo t\u00fa",
+        "url": "https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65"
+      },
+      "artists": [
+        {
+          "name": "APOLO 7",
+          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
+        }
+      ],
+      "duration_ms": 247392,
+      "name": "Solo t\u00fa",
+      "url": "https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -907,6 +891,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Cisne",
+        "url": "https://open.spotify.com/album/7f7pQzEZjRdDZZDEtqWgl3"
+      },
+      "artists": [
+        {
+          "name": "V for Volume",
+          "url": "https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Cisne",
+      "url": "https://open.spotify.com/track/3HEjxQXUOFV8cWLaGDR27g"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Recorrer el Mundo",
         "url": "https://open.spotify.com/album/2H4P2Z1NJLy12k8WvrjSjw"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 178133,
       "name": "Recorrer el Mundo",
       "url": "https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "La Fuente",
+        "url": "https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "duration_ms": 327296,
+      "name": "La Fuente",
+      "url": "https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -943,22 +959,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "La Fuente",
-        "url": "https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT"
-      },
-      "artists": [
-        {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
-        }
-      ],
-      "duration_ms": 327296,
-      "name": "La Fuente",
-      "url": "https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Madre Tierra",
         "url": "https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF"
       },
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Eng\u00e1\u00f1ate",
+        "url": "https://open.spotify.com/album/5HXkHlkENQcA6FIqwnmzSC"
+      },
+      "artists": [
+        {
+          "name": "Pirineos En Llamas",
+          "url": "https://open.spotify.com/artist/522pAy9TuhE7aqrhl8tVFd"
+        }
+      ],
+      "duration_ms": 181124,
+      "name": "Eng\u00e1\u00f1ate",
+      "url": "https://open.spotify.com/track/6RGz1S7FWiya3aLDMUXnJV"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Tierra",
         "url": "https://open.spotify.com/album/4hONbMfBNGtrslvAqe2wX4"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 183539,
       "name": "Desierto",
       "url": "https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Eng\u00e1\u00f1ate",
-        "url": "https://open.spotify.com/album/5HXkHlkENQcA6FIqwnmzSC"
-      },
-      "artists": [
-        {
-          "name": "Pirineos En Llamas",
-          "url": "https://open.spotify.com/artist/522pAy9TuhE7aqrhl8tVFd"
-        }
-      ],
-      "duration_ms": 181124,
-      "name": "Eng\u00e1\u00f1ate",
-      "url": "https://open.spotify.com/track/6RGz1S7FWiya3aLDMUXnJV"
     }
   ],
   "unique_name": "Rock Colombia",

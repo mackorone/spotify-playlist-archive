@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: Siinaye",
+  "description": "The best in South African and international R&B. Cover: Langa Mavuso",
   "name": "R&Beats",
   "tracks": [
     {
@@ -790,7 +790,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 207640,
       "name": "Aweh [Remix] (feat. Cassper Nyovest)",
       "url": "https://open.spotify.com/track/7sR4V3QuvyZS8jLzbhUpM2"
@@ -6375,6 +6375,24 @@
     },
     {
       "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/0aNt6NtyBAirAZiH0t0uFp"
+      },
+      "artists": [
+        {
+          "name": "Langa Mavuso",
+          "url": "https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303247,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/5LsDCOZGFJpTtWRiI3rz1b"
+    },
+    {
+      "album": {
         "name": "Marigold",
         "url": "https://open.spotify.com/album/7LuXpYGWJ7iV20JyGIOKRM"
       },
@@ -6670,6 +6688,24 @@
       "duration_ms": 248134,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/0xGeYAUMOeqPrOCK7RKrQH"
+    },
+    {
+      "album": {
+        "name": "Heat The Streets",
+        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201408,
+      "name": "Miss Hot July",
+      "url": "https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD"
     },
     {
       "album": {
@@ -10930,7 +10966,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 210468,
       "name": "Umabukisa",
       "url": "https://open.spotify.com/track/3xEuiBIudjo3LLGxJIfsLR"

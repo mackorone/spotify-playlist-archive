@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 371457,
+  "num_followers": 371488,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2025-08-28 23:00:33",
       "album": {
+        "name": "U Lyk My Style",
+        "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
+      },
+      "artists": [
+        {
+          "name": "Stacy N.K.R",
+          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "U Lyk My Style",
+      "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
+    },
+    {
+      "added_at": "2025-08-28 23:00:33",
+      "album": {
         "name": "Fantasy (feat. Franc Moody)",
         "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": "2025-08-28 23:00:33",
       "album": {
-        "name": "U Lyk My Style",
-        "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
-      },
-      "artists": [
-        {
-          "name": "Stacy N.K.R",
-          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "U Lyk My Style",
-      "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
-    },
-    {
-      "added_at": "2025-08-28 23:00:33",
-      "album": {
         "name": "If You Love Her",
         "url": "https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm"
       },
@@ -659,30 +659,6 @@
       "duration_ms": 164000,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/1MaDw1BQ797k8j7xXnH486"
-    },
-    {
-      "added_at": "2025-08-28 23:00:33",
-      "album": {
-        "name": "All that Glitters is not Gold",
-        "url": "https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 171613,
-      "name": "All that Glitters is not Gold",
-      "url": "https://open.spotify.com/track/45Exz93oyRbDvmM8FvpgYz"
     },
     {
       "added_at": "2025-08-28 23:00:33",
@@ -715,22 +691,26 @@
     {
       "added_at": "2025-08-28 23:00:33",
       "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+        "name": "All that Glitters is not Gold",
+        "url": "https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
         },
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 174562,
-      "name": "More Than A Little Bit (feat. Tinashe)",
-      "url": "https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f"
+      "duration_ms": 171613,
+      "name": "All that Glitters is not Gold",
+      "url": "https://open.spotify.com/track/45Exz93oyRbDvmM8FvpgYz"
     },
     {
       "added_at": "2025-08-28 23:00:33",
@@ -751,6 +731,26 @@
       "duration_ms": 199497,
       "name": "DARLING DRIVE",
       "url": "https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2"
+    },
+    {
+      "added_at": "2025-08-28 23:00:33",
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 174562,
+      "name": "More Than A Little Bit (feat. Tinashe)",
+      "url": "https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f"
     },
     {
       "added_at": "2025-08-28 23:00:33",
@@ -823,6 +823,26 @@
     {
       "added_at": "2025-08-28 23:00:33",
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 208375,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
+    },
+    {
+      "added_at": "2025-08-28 23:00:33",
+      "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 178419,
       "name": "Yours",
       "url": "https://open.spotify.com/track/0WBooGsMy4knzz3BXDhhUU"
-    },
-    {
-      "added_at": "2025-08-28 23:00:33",
-      "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 208375,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
     },
     {
       "added_at": "2025-08-28 23:00:33",

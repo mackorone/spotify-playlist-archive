@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 ### [New Music Friday Naija](https://open.spotify.com/playlist/37i9dQZF1DXbTop77dnX35)
 
-> New Music from Qing Madi, Stonebwoy, Rybeena, Skales  and more
+> New Music from Kizz Daniel, Cardi B, King Promise, Shoday  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,982 likes - 59 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,078 likes - 59 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 58 | [FUJI XTRA](https://open.spotify.com/track/3Uzt8Mi47gKO7sckxPvfwn) | [BisiManuel](https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO) | [FUJI XTRA](https://open.spotify.com/album/6aUnPATXtcLIoQ6xLvrF6f) | 3:37 |
 | 59 | [Ukuphumelela](https://open.spotify.com/track/2CiDQsPXQsl80PodS2DM3a) | [Miza](https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1), [BosPianii](https://open.spotify.com/artist/1n8CWNLpUdGV8MaWzxRZcl), [Sponch Makhekhe](https://open.spotify.com/artist/2I2bM9sQKABXCNFg5V6YrX) | [Ukuphumelela](https://open.spotify.com/album/0Cu0yU8Xbr1n4g1PWfktQQ) | 5:41 |
 
-Snapshot ID: `AAAAAHQY3v8fUHHvcr52Wt+EyKzJbC4q`
+Snapshot ID: `AAAAAJwSsRRbwR+CJsHCwXJZZVTKpc1C`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. Vale Lambo in cover.",
+  "description": "Rap napoletano e il meglio della scena campana. Dipinto e Frezza in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -690,7 +690,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 165222,
       "name": "Aria",
       "url": "https://open.spotify.com/track/0caTPacDysfcJExNGfBGdO"
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 173906,
       "name": "CADILLAC (feat. MV Killa, Geolier, Tony Effe)",
       "url": "https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60"
@@ -1652,7 +1652,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 172427,
       "name": "CHARME (feat. Christian Revo, Vale Lambo)",
       "url": "https://open.spotify.com/track/1c6eHnBBBIV3isAHk2KO4X"
@@ -2982,7 +2982,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 160601,
       "name": "FAVELA",
       "url": "https://open.spotify.com/track/4ZshCIjVgsRSgxEGA2vfZB"
@@ -6221,6 +6221,28 @@
     },
     {
       "album": {
+        "name": "MALINQUORE",
+        "url": "https://open.spotify.com/album/4Z3kfPf6zxJhI5CAoaESqO"
+      },
+      "artists": [
+        {
+          "name": "Mooncler",
+          "url": "https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7"
+        },
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151428,
+      "name": "NEL BENE E NEL MALE (feat. Silent Bob)",
+      "url": "https://open.spotify.com/track/6GOyPV5EYObpYcy6r0BNSn"
+    },
+    {
+      "album": {
         "name": "NIENT'",
         "url": "https://open.spotify.com/album/3px1C5m3ENUE1F9ciL4t03"
       },
@@ -6838,7 +6860,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 144000,
       "name": "OCCHI",
       "url": "https://open.spotify.com/track/0jWxzA8RW4pL776VGrqD7p"
@@ -9060,7 +9082,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 170476,
       "name": "SINALOA",
       "url": "https://open.spotify.com/track/4Due7F4EdqTFwsFWaOvjhg"
@@ -9652,6 +9674,24 @@
       "duration_ms": 108400,
       "name": "T Pens",
       "url": "https://open.spotify.com/track/65U8ZFmt7JSrLdwH93q363"
+    },
+    {
+      "album": {
+        "name": "TARZAN",
+        "url": "https://open.spotify.com/album/5BWTACMSG5c7mksDXlXz5p"
+      },
+      "artists": [
+        {
+          "name": "Hosawa",
+          "url": "https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108907,
+      "name": "TARZAN",
+      "url": "https://open.spotify.com/track/7zjhf3qjQ8jNj1DVKd3SIj"
     },
     {
       "album": {
@@ -10706,7 +10746,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 186260,
       "name": "Video hot (feat. Geolier)",
       "url": "https://open.spotify.com/track/3o9OeBX0vgh51r15Ta7Dok"
@@ -10932,6 +10972,24 @@
       "duration_ms": 172491,
       "name": "Welcome To Favelas",
       "url": "https://open.spotify.com/track/0m0usigRxg1cvBo0ezr0ts"
+    },
+    {
+      "album": {
+        "name": "WHITE MOSCHINO",
+        "url": "https://open.spotify.com/album/1vkDyMgyGrw9XGnRPC4gaL"
+      },
+      "artists": [
+        {
+          "name": "Erness",
+          "url": "https://open.spotify.com/artist/0ai9hSxhZEP5cTjreUnR58"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144076,
+      "name": "WHITE MOSCHINO",
+      "url": "https://open.spotify.com/track/5qEFAIF3fEEnBHg0ymRCP5"
     },
     {
       "album": {

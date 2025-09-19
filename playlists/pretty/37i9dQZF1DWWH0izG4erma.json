@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 630097,
+  "num_followers": 630207,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-09-05 01:52:34",
       "album": {
-        "name": "Burnpile",
-        "url": "https://open.spotify.com/album/4U4XFiX4vwKkbjHCiWiLRk"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 176344,
-      "name": "Burnpile",
-      "url": "https://open.spotify.com/track/0RZIfeHVRF7fDohP3V7twJ"
-    },
-    {
-      "added_at": "2025-09-05 01:52:34",
-      "album": {
         "name": "With or Without Me",
         "url": "https://open.spotify.com/album/1tUWUYVM1TertVwChOCW7D"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 222294,
       "name": "With or Without Me",
       "url": "https://open.spotify.com/track/5FweRtm4C4IxNDFP2aHdXy"
+    },
+    {
+      "added_at": "2025-09-05 01:52:34",
+      "album": {
+        "name": "Burnpile",
+        "url": "https://open.spotify.com/album/4U4XFiX4vwKkbjHCiWiLRk"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 176344,
+      "name": "Burnpile",
+      "url": "https://open.spotify.com/track/0RZIfeHVRF7fDohP3V7twJ"
     },
     {
       "added_at": "2025-09-05 01:52:34",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-09-05 01:52:34",
       "album": {
-        "name": "Old News",
-        "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
-      },
-      "artists": [
-        {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
-        }
-      ],
-      "duration_ms": 251498,
-      "name": "All of These Years",
-      "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
-    },
-    {
-      "added_at": "2025-09-05 01:52:34",
-      "album": {
         "name": "Black Powder Soul",
         "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 216153,
       "name": "Black Powder Soul",
       "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
+    },
+    {
+      "added_at": "2025-09-05 01:52:34",
+      "album": {
+        "name": "Old News",
+        "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
+      },
+      "artists": [
+        {
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+        }
+      ],
+      "duration_ms": 251498,
+      "name": "All of These Years",
+      "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
     },
     {
       "added_at": "2025-09-05 01:52:34",

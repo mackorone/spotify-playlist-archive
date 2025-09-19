@@ -1875,6 +1875,28 @@
     },
     {
       "album": {
+        "name": "\u00c1guas Vivas",
+        "url": "https://open.spotify.com/album/0tSOZ0o2u8PfrxmyLp2Ayb"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399386,
+      "name": "Quem \u00e9 Ele - Ao Vivo",
+      "url": "https://open.spotify.com/track/22PsL4yowwLGs3uriCAYtf"
+    },
+    {
+      "album": {
         "name": "Quem \u00e9 Ele (Ao Vivo)",
         "url": "https://open.spotify.com/album/7kWHlrt0U9mKj9cUzbFwqu"
       },
@@ -1890,7 +1912,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 399386,
       "name": "Quem \u00e9 Ele - Ao Vivo",
       "url": "https://open.spotify.com/track/7sbw0RaD6nxalNUtjAcKnB"

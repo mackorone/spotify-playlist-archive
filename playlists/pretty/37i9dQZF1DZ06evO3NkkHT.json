@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 65546,
+  "num_followers": 65649,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAADgq9CSlpdni2yFXNuHB5L4",
+  "snapshot_id": "aMn6AAAAAADDURbNveQqdxIq0l9hGlYN",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 136866,
-      "name": "Change Me",
-      "url": "https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMAR (Deluxe)",
         "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 137716,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/1YA4Jn5uE82zSUUW17hnsP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 136866,
+      "name": "Change Me",
+      "url": "https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/26TX1oZbaDeKxfTYDclSAo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Tried Everything But Therapy (Complete Edition)",
         "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 163314,
       "name": "All Gas No Brakes (feat. BigXthaPlug)",
       "url": "https://open.spotify.com/track/0PdMFKW7gIrXHzFsaFtrEG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/26TX1oZbaDeKxfTYDclSAo"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 149573,
-      "name": "Take Care",
-      "url": "https://open.spotify.com/track/7KLZOdEqC0A2U3UtMthTqK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lonestar Luchador",
         "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 185736,
       "name": "Hit List (with BigXthaPlug & Big Yavo)",
       "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 149573,
+      "name": "Take Care",
+      "url": "https://open.spotify.com/track/7KLZOdEqC0A2U3UtMthTqK"
     },
     {
       "added_at": null,
@@ -787,6 +787,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good To Me",
+        "url": "https://open.spotify.com/album/1M3XfdyaT9cU4kji29TuO3"
+      },
+      "artists": [
+        {
+          "name": "Mykfresh",
+          "url": "https://open.spotify.com/artist/67cmVMoqQDWreDXtsIaJdR"
+        },
+        {
+          "name": "2RawQua",
+          "url": "https://open.spotify.com/artist/3DGljPQGDgIsRtIiqetMAo"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 208583,
+      "name": "Good To Me",
+      "url": "https://open.spotify.com/track/0mptmsUHHZgrxdhcbUwD1O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MEET THE 6IXERS",
         "url": "https://open.spotify.com/album/4eRm5B4jHC8zJhQizo15w5"
       },
@@ -811,30 +835,6 @@
       "duration_ms": 137896,
       "name": "Meet The 6ixers",
       "url": "https://open.spotify.com/track/0Ta2fVj5VeLL49IZQ9JCO5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good To Me",
-        "url": "https://open.spotify.com/album/1M3XfdyaT9cU4kji29TuO3"
-      },
-      "artists": [
-        {
-          "name": "Mykfresh",
-          "url": "https://open.spotify.com/artist/67cmVMoqQDWreDXtsIaJdR"
-        },
-        {
-          "name": "2RawQua",
-          "url": "https://open.spotify.com/artist/3DGljPQGDgIsRtIiqetMAo"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 208583,
-      "name": "Good To Me",
-      "url": "https://open.spotify.com/track/0mptmsUHHZgrxdhcbUwD1O"
     },
     {
       "added_at": null,

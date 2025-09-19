@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  kayan9896
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  donny daydreams
 
-1,508 songs - 3 day 13 hr 4 min
+1,511 songs - 3 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,6 +509,7 @@
 | [London \(Live Version\)](https://open.spotify.com/track/3qAh3vHbkjv6aU4uGup7Nk) | [Lucid Fuzzy](https://open.spotify.com/artist/5d9ViTf7DQ0PBUHN3JTQu5) | [London \(Live Version\)](https://open.spotify.com/album/5Hck9WPH2ceGio4m6yAWBx) | 5:28 | 2023-02-16 | 2023-07-14 |
 | [LOOK AT ME](https://open.spotify.com/track/0q0J04NigVLzVEtTJ43Gtx) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT), [JOCELINE](https://open.spotify.com/artist/7JpBZy4NUF2irqBCpIg1N3), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [LOOK AT ME](https://open.spotify.com/album/4W86QzHSltzRLWcXnWkgjC) | 3:13 | 2022-09-01 | 2023-02-03 |
 | [Look into my eyes](https://open.spotify.com/track/22A9vU5ZK7nuwySBtwNZFT) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Look into my eyes](https://open.spotify.com/album/34j4lPhObPKCVIgI8V0ZYD) | 2:58 | 2023-09-21 | 2023-11-24 |
+| [Looser! \(唔知自己喺度做緊啲乜\)](https://open.spotify.com/track/2jZewBNF8eksUYADiIS3SG) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [Looser! \(唔知自己喺度做緊啲乜\)](https://open.spotify.com/album/5QyU4p6R0G8h8JnZzmNHa9) | 2:53 | 2025-09-18 |  |
 | [loosing sleep](https://open.spotify.com/track/58ZvlB4ZLb9GC2ECVA9RKM) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [Rae Law](https://open.spotify.com/artist/3R82T1kwSMzxEH1UbkRqLV), [Alexmalism](https://open.spotify.com/artist/2UwJTbVVDgt5KKRK5i94zD) | [lovestruck 100%](https://open.spotify.com/album/0w5Us8AowlWT31Za3cTZZb) | 2:26 | 2024-07-25 | 2024-11-15 |
 | [Lord Forgive](https://open.spotify.com/track/2Tp27IUvgu3nOSFQhPCbQ3) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [Lord Forgive](https://open.spotify.com/album/2v3oz4fAvLpzprABVQryiZ) | 2:43 | 2023-05-18 | 2023-09-01 |
 | [Losing Game](https://open.spotify.com/track/2zbWE9VO60pVYyaZ2BKDlE) | [Alexmalism](https://open.spotify.com/artist/2UwJTbVVDgt5KKRK5i94zD) | [Losing Game](https://open.spotify.com/album/45GELGJ5FlEcA80P31GYVk) | 4:16 | 2024-06-20 | 2024-11-15 |
@@ -833,6 +834,7 @@
 | [Summer<333](https://open.spotify.com/track/5UOMNStwSpasj1ZhvxTRe9) | [Carson Leung](https://open.spotify.com/artist/3g80FKOHJgeoD51aYOaV1w), [Ryanleeisgod](https://open.spotify.com/artist/02Hhkeh8JMihnNCW1pWyTB) | [Summer<>希慎廣場](https://open.spotify.com/album/3RgmZYT045EPCuuaYncUF0) | 5:22 | 2023-07-13 | 2024-06-07 |
 | [Summertime](https://open.spotify.com/track/1VNpY4n21SSy45W5cr1KAY) | [lil orchid](https://open.spotify.com/artist/2bH3Mtz0p3fClnVvn3SRTQ), [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR), [Just Kane](https://open.spotify.com/artist/6zsc3yu20vjzTAStfOKCKs) | [Summertime](https://open.spotify.com/album/5HXqXJMgcn4f3cyTQ7wPOU) | 3:45 | 2022-06-16 | 2022-09-09 |
 | [summertime \- sped up version](https://open.spotify.com/track/46xk0mf8dULXN6lV9dfp44) | [lil orchid](https://open.spotify.com/artist/2bH3Mtz0p3fClnVvn3SRTQ), [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR), [Just Kane](https://open.spotify.com/artist/6zsc3yu20vjzTAStfOKCKs) | [summertime \(sped up version\)](https://open.spotify.com/album/52t5Lkt98lxG5pww3km44n) | 3:20 | 2023-08-17 | 2023-09-01 |
+| [Sunday](https://open.spotify.com/track/0zoyQ4zLfCllPHwxNbU9UR) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [Sunday](https://open.spotify.com/album/7GyPx5YbwnpNRxuascrsPm) | 3:09 | 2025-09-18 |  |
 | [SUNFLOWER](https://open.spotify.com/track/0avb57sul4VUpJjtGkNt0Q) | [Ethan Tong](https://open.spotify.com/artist/6ism2YHCPqfxz6Rja13RUb) | [SUNFLOWER](https://open.spotify.com/album/2m84tNPN0XFOoGpIH2N7gq) | 3:13 | 2022-07-28 | 2022-11-04 |
 | [Sunrise](https://open.spotify.com/track/1OxvO9ForBTdpFIR5IOCes) | [Bedroom Party](https://open.spotify.com/artist/2aSJ9BDyUpJgndRanmLCdr) | [Party Outside](https://open.spotify.com/album/3ZtVPCcV0e5hwz2FTwavQ4) | 3:16 | 2023-11-23 | 2024-02-02 |
 | [Sunscreen](https://open.spotify.com/track/3nYaDlQEPre1YTDRm8mTVs) | [her favorite band](https://open.spotify.com/artist/3ctoZrsuHZ3Xl66iqykWfB), [Barney Sku](https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v), [Sake by the Water](https://open.spotify.com/artist/6bcndRRyytWLfkekq2XyKQ) | [Sunscreen](https://open.spotify.com/album/3WpMOcu4hbj5M3jfXC3WIG) | 2:29 | 2025-05-29 |  |
@@ -1499,6 +1501,7 @@
 | [飛躍道 \(feat\. Martin Lau\)](https://open.spotify.com/track/2JAMdBhSe6CZNXXf0HNaKl) | [KASA](https://open.spotify.com/artist/2npcg8bjHorVxVkRyy7iFO), [Martin Lau](https://open.spotify.com/artist/1zc9R6YosRN2gnUuZnIgQ7) | [飛躍道 \(feat\. Martin Lau\)](https://open.spotify.com/album/53ATgUPfKkkX3UUEUJWNvB) | 3:55 | 2024-02-08 | 2024-05-10 |
 | [食鹽之道](https://open.spotify.com/track/5OduEFjTfnab4ioxtIDnBN) | [Georgina 陳樂頤](https://open.spotify.com/artist/4JO14JxctLwBDIdQh8rWyZ) | [食鹽之道](https://open.spotify.com/album/30RYhkx0JBjBgtvU1DSdkE) | 3:14 | 2023-03-09 | 2023-07-14 |
 | [餘光](https://open.spotify.com/track/06QauBbFnDBsQGVq1uOwU2) | [楊智遠](https://open.spotify.com/artist/3z1plF2EanRX8DWiJ24jbU) | [餘光](https://open.spotify.com/album/6ACsITQffM5yoeJ2WiNWqA) | 5:16 | 2025-04-24 | 2025-08-01 |
+| [餘光 Glimmer](https://open.spotify.com/track/2DANrQ28aV4FlHLyc3OGaN) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [餘光 Glimmer](https://open.spotify.com/album/6BixmfOznc1AcACQoeNjzJ) | 5:22 | 2025-09-18 |  |
 | [香](https://open.spotify.com/track/4q9vO6YbRXdfScIFR3I4t6) | [Alexmalism](https://open.spotify.com/artist/2UwJTbVVDgt5KKRK5i94zD) | [香](https://open.spotify.com/album/0duDHA0HOS5tgr0o1cWJGJ) | 4:48 | 2022-08-25 | 2023-02-03 |
 | [香](https://open.spotify.com/track/1mQs7TBokQ8l85TUcdlGeu) | [Delf](https://open.spotify.com/artist/3ZVZi0IyNLH18rZsmA8SfO), [polun](https://open.spotify.com/artist/64bB4K2Z0AohDMCrnTtypq) | [Geosonics \- A Love Letter](https://open.spotify.com/album/25AEzqbb0RLpOkMnGidwPV) | 1:28 | 2023-12-21 | 2024-05-10 |
 | [香港地pt.2](https://open.spotify.com/track/2q24Khiek5SoCiBMyHO1Kx) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [香港地pt.2](https://open.spotify.com/album/1UB7z3WhjgeyibzaNQkjLu) | 3:35 | 2022-05-26 | 2022-07-29 |

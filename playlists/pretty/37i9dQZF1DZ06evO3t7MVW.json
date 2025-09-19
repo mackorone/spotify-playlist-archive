@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 90997,
+  "num_followers": 91028,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAACeBTDX337yfPqkcaPYxAaJ",
+  "snapshot_id": "aMn6AAAAAADL1WdMQIfZccFji0Y6bl1W",
   "tracks": [
     {
       "added_at": null,
@@ -375,18 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+        "name": "Hopes and Dreams",
+        "url": "https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5"
       },
       "artists": [
+        {
+          "name": "KBong",
+          "url": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq"
+        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 283793,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW"
+      "duration_ms": 233810,
+      "name": "Livin' Easy",
+      "url": "https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v"
     },
     {
       "added_at": null,
@@ -427,22 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hopes and Dreams",
-        "url": "https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5"
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
       "artists": [
-        {
-          "name": "KBong",
-          "url": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq"
-        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 233810,
-      "name": "Livin' Easy",
-      "url": "https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v"
+      "duration_ms": 283793,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW"
     },
     {
       "added_at": null,
@@ -635,26 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slow Ride",
-        "url": "https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX"
+        "name": "Feel It All Around",
+        "url": "https://open.spotify.com/album/02qlYc4mrjNMFFQvOkrS01"
       },
       "artists": [
         {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+          "name": "Sensamotion",
+          "url": "https://open.spotify.com/artist/58hWUFxkzmX6sU5OMsN2Pm"
         },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 232444,
-      "name": "Slow Ride",
-      "url": "https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K"
+      "duration_ms": 194225,
+      "name": "Show Love (with Stick Figure)",
+      "url": "https://open.spotify.com/track/40duW4CYbkAvHPtb19eX03"
     },
     {
       "added_at": null,
@@ -675,22 +671,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel It All Around",
-        "url": "https://open.spotify.com/album/02qlYc4mrjNMFFQvOkrS01"
+        "name": "Slow Ride",
+        "url": "https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX"
       },
       "artists": [
         {
-          "name": "Sensamotion",
-          "url": "https://open.spotify.com/artist/58hWUFxkzmX6sU5OMsN2Pm"
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 194225,
-      "name": "Show Love (with Stick Figure)",
-      "url": "https://open.spotify.com/track/40duW4CYbkAvHPtb19eX03"
+      "duration_ms": 232444,
+      "name": "Slow Ride",
+      "url": "https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K"
     },
     {
       "added_at": null,
@@ -754,15 +754,11 @@
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 254655,
-      "name": "Higher (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/04dXzKIPzrU6sRZai9YuTZ"
+      "duration_ms": 282696,
+      "name": "Falling Stars",
+      "url": "https://open.spotify.com/track/7xJkMC1Yq4SNxZOunlIxvr"
     },
     {
       "added_at": null,
@@ -810,11 +806,15 @@
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 282696,
-      "name": "Falling Stars",
-      "url": "https://open.spotify.com/track/7xJkMC1Yq4SNxZOunlIxvr"
+      "duration_ms": 254655,
+      "name": "Higher (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/04dXzKIPzrU6sRZai9YuTZ"
     },
     {
       "added_at": null,

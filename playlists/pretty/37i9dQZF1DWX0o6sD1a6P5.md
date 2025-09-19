@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: DJ Malvado x Doddy
+> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Naza
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,000,778 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,000,857 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [MONEY \(feat\. Boumidjal X\)](https://open.spotify.com/track/0OItrStw62ofKZD6x857Fp) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD), [Boumidjal X](https://open.spotify.com/artist/3i2AdhSP4YeSYY1m5JoUnK) | [MONEY \(feat\. Boumidjal X\)](https://open.spotify.com/album/0eVA46YM5CygKRbBECdo2X) | 2:06 |
 | 50 | [Ewo](https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Uzama The 3rd](https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw) | 3:00 |
 
-Snapshot ID: `AAAAAMkl3M9d5y6dQf/w3QqDSW7Ak+mj`
+Snapshot ID: `AAAAABqKD9DOva2WeBoxal2QZpfG9KGk`

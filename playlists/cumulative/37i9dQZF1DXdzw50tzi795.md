@@ -2,7 +2,7 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: ETC.
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: SURIYA MQT, P6ICK
 
 192 songs - 12 hr 27 min
 

@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-359 songs - 20 hr 36 min
+361 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [CARAMEL GiRLS](https://open.spotify.com/track/3zqUXbPZmNN3ebEACQg1lz) | [CARAMEL CANDiD](https://open.spotify.com/artist/4nDSmohFDEuowSQQjTAStH) | [CARAMEL GiRLS](https://open.spotify.com/album/0Q2N3hiG7l86Shfwau7zMd) | 3:31 | 2025-08-12 |  |
 | [Castaway](https://open.spotify.com/track/1VHUi73u56DMyiaahlHlNO) | [The Vanished People](https://open.spotify.com/artist/3EogvEV9nc7Av6ngy8CIeJ) | [Castaway \(sped up\)](https://open.spotify.com/album/6qOGDBswcn43n0nbAhgguU) | 3:26 | 2024-01-09 |  |
 | [Changing Seasons \-Reload\-](https://open.spotify.com/track/1PPzHVc3ietfHHU0vPPPDl) | [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 3:14 | 2024-04-26 |  |
+| [Cherry Hunt \(feat\. KANON69\)](https://open.spotify.com/track/4sRSZt6c8MBpEuBHxoOmP4) | [Royal Scandal](https://open.spotify.com/artist/74X1MHqkgWa169zirFjTjh), [KANON69](https://open.spotify.com/artist/5aKVkaAP4dYG7zQeM4z25h) | [Cherry Hunt \(feat\. KANON69\)](https://open.spotify.com/album/2SSea7KXtKp5S6yOKt1tS0) | 3:50 | 2025-09-18 |  |
 | [CIRCUS PANIC!!! \(feat\. 初音ミク\)](https://open.spotify.com/track/6ax4cQgbngN4llOzOWU2vy) | [32ki](https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [CIRCUS PANIC!!!](https://open.spotify.com/album/4qE171656eSJzqeLkbGjkw) | 3:59 | 2024-02-26 |  |
 | [Color Your Night](https://open.spotify.com/track/4pjFNyjGaoKgLTnndISP6V) | [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 3:47 | 2024-04-26 |  |
 | [completion](https://open.spotify.com/track/4cMiyKkRtjzglIfBQtWEzH) | [Megurimeguru](https://open.spotify.com/artist/5z8DugoSIrKIjVw0i8DTFk) | [completion](https://open.spotify.com/album/6el6qm4djpKHsw5hoAwDZo) | 2:09 | 2025-02-18 |  |
@@ -245,6 +246,7 @@
 | [なしのつぶて](https://open.spotify.com/track/1O2hcDSkikd89nlbW5hmdV) | [未完成モノローグ](https://open.spotify.com/artist/26QVC80GmRRg4EbeTHs3H3) | [なしのつぶて](https://open.spotify.com/album/3ey0iJJMcD5q8tDA5r54MQ) | 2:46 | 2023-09-14 |  |
 | [ばかじゃないのに](https://open.spotify.com/track/1fMqXaqP3EhRWQdzxAaZqi) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [沈香学](https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ) | 4:14 | 2024-01-31 |  |
 | [よふかしのうた \- Yofukashino Uta](https://open.spotify.com/track/1j6Agt1Sn2DjQ0NA33J3r2) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [よふかしのうた](https://open.spotify.com/album/6peWfaCCNUTETgugcpNHed) | 4:00 | 2023-03-10 |  |
+| [アイされヒビわれカガミのうた](https://open.spotify.com/track/3KwAPj5ErBvGeFufjjiAA0) | [きくおはな](https://open.spotify.com/artist/1GBV8C0PfGVH1G5QRqHt5k) | [第二幕](https://open.spotify.com/album/7et3nHvC6nflQu4QsJkJvs) | 4:55 | 2025-09-18 |  |
 | [アディオス](https://open.spotify.com/track/5GvjB9nq8oGYJWfEIMebZ3) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [アディオス](https://open.spotify.com/album/4ugiNFkcSGCDLCPdX7Nj9w) | 3:20 | 2023-09-11 |  |
 | [アデュー、サロー](https://open.spotify.com/track/0KeLopzJIbotv8hQ8fdBX3) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [アデュー、サロー](https://open.spotify.com/album/2rf16QleG0chhlywJ9UPsi) | 2:35 | 2022-08-27 |  |
 | [イドラのサーカス](https://open.spotify.com/track/2FvGW1qdjJwSzyB31IeeJj) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [マイネームイズラヴソング](https://open.spotify.com/album/676AXtU3CFKuDBf0wJsYuz) | 3:31 | 2022-08-18 |  |

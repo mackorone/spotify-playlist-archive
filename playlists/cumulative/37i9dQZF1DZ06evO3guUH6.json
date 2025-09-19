@@ -966,6 +966,24 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244533,
+      "name": "Ni Con Labios Prestados",
+      "url": "https://open.spotify.com/track/5MPajQIS9V2AFuSVGXVdoR"
+    },
+    {
+      "album": {
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1120,7 +1138,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 196146,
       "name": "Que Sepas",
       "url": "https://open.spotify.com/track/0lPSo6OtN3vPrpBaZ9YHOm"

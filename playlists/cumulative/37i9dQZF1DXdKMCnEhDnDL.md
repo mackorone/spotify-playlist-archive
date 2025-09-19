@@ -2,7 +2,7 @@
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes\. Cover: Ruben Annink & Danique
+> De beste Nederlandse liedjes\. Cover: Bente
 
 410 songs - 20 hr 59 min
 

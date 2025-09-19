@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como CAROLINA DE DEUS e explora as músicas escolhidas pelos nossos editores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,217 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,222 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Enquanto Voas \(II\)](https://open.spotify.com/track/1mBF9hEUJMHCOFFhzpBpic) | [Ana Mariano](https://open.spotify.com/artist/7MUZ4F7lryA5Hf2d2aTafU) | [Outras Vias de Aproximação](https://open.spotify.com/album/2v2reHkQoGPFzLeLSlxntO) | 3:17 |
 | 50 | [Plot Twist](https://open.spotify.com/track/79We0JRp6GMtNkrNeKGzBg) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [Chorar No Club](https://open.spotify.com/album/3fLB88ZumC9ippQyZDZi2Y) | 2:46 |
 
-Snapshot ID: `AAAAALHV5JNIYRIZldNnPBA9dPO6gy1V`
+Snapshot ID: `AAAAAEHZGm17d6aVBXUetDglt35bSnuK`

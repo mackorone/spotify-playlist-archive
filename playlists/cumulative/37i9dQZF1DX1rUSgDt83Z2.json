@@ -1307,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "Wegwerpliefde",
+        "url": "https://open.spotify.com/album/4nF1DWMvzLvI8LIx3UUrdn"
+      },
+      "artists": [
+        {
+          "name": "Nienke Leone",
+          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181823,
+      "name": "Ik Heb Je Gemist",
+      "url": "https://open.spotify.com/track/3cHSCDCPYczMfKrSOLChKM"
+    },
+    {
+      "album": {
         "name": "Ik Kom Weer Thuis",
         "url": "https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk"
       },
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 187580,
       "name": "Noem Mij Bij Jouw Naam",
       "url": "https://open.spotify.com/track/5UymQJVIxkBRKEod5Hpltf"

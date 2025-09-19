@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ivan Greko, Trannos",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: DAIMA",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 146522,
       "name": "BRIZA",
       "url": "https://open.spotify.com/track/5yxfR0tSXmg5LIQ7d0TX1W"
@@ -2514,6 +2514,28 @@
       "duration_ms": 141176,
       "name": "DIEFTHINTIS",
       "url": "https://open.spotify.com/track/1R3ISkeACOnqpDDqsUV8tL"
+    },
+    {
+      "album": {
+        "name": "Dikaiosyni Kai Oneira Gia Tous Xypolytous",
+        "url": "https://open.spotify.com/album/7ormxUegpGlvOCsNba6Y0m"
+      },
+      "artists": [
+        {
+          "name": "Anser",
+          "url": "https://open.spotify.com/artist/3peCLl6eMLh8lJyRUt4jc8"
+        },
+        {
+          "name": "Stixoima",
+          "url": "https://open.spotify.com/artist/5RbSA2rN3Z1OChfNSZ8Jqz"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169026,
+      "name": "Dikaiosyni Kai Oneira Gia Tous Xypolytous",
+      "url": "https://open.spotify.com/track/2h9mOsYvR6gjfhqeM783ae"
     },
     {
       "album": {
@@ -4140,7 +4162,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 140114,
       "name": "GHETTO",
       "url": "https://open.spotify.com/track/1gn6JPh45pa3978jvl5u0A"
@@ -4756,7 +4778,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 230600,
       "name": "I POLI MAS",
       "url": "https://open.spotify.com/track/2z0Ke8aGrzhjMlCdRFeU4S"
@@ -6438,7 +6460,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 249433,
       "name": "ME TYRANNAEI",
       "url": "https://open.spotify.com/track/0CyZfSYQXaHMqeCscmbiEA"
@@ -6680,6 +6702,28 @@
       "duration_ms": 185026,
       "name": "MNPN",
       "url": "https://open.spotify.com/track/2NVFxETIb3t7tmU4u0wLid"
+    },
+    {
+      "album": {
+        "name": "MOLOTOV",
+        "url": "https://open.spotify.com/album/7pDsDMQJ0KlmBCucDynLcQ"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164506,
+      "name": "MOLOTOV",
+      "url": "https://open.spotify.com/track/1U9oT9anqEgC7axD1Th7NT"
     },
     {
       "album": {
@@ -9855,6 +9899,32 @@
     },
     {
       "album": {
+        "name": "SUPERFLOW",
+        "url": "https://open.spotify.com/album/746GmU7ha5ibZbd2pa23QC"
+      },
+      "artists": [
+        {
+          "name": "BAKV",
+          "url": "https://open.spotify.com/artist/7q4dxsrYuPcd0PgxBc1eQ4"
+        },
+        {
+          "name": "GRINGO",
+          "url": "https://open.spotify.com/artist/7JpWPShNNObDYAQCq1KIRK"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "SUPERFLOW",
+      "url": "https://open.spotify.com/track/2CsZ3yl4pOMF4uQiv8QDmZ"
+    },
+    {
+      "album": {
         "name": "Bad Boy 2",
         "url": "https://open.spotify.com/album/4amE4omSlHZVRil5S8JxQ8"
       },
@@ -10838,7 +10908,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 195400,
       "name": "V.A.R.",
       "url": "https://open.spotify.com/track/0Stg1iLZjuakhqa2iu7lCF"
@@ -11263,6 +11333,46 @@
     },
     {
       "album": {
+        "name": "Xanomai",
+        "url": "https://open.spotify.com/album/2tqPmM1AX5Prilf8vH4kRm"
+      },
+      "artists": [
+        {
+          "name": "ATC Nico",
+          "url": "https://open.spotify.com/artist/1uENJBsvFjDUv7OrH3DaKR"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Xanomai",
+      "url": "https://open.spotify.com/track/781EsHGFSmt58Bqi4mGGll"
+    },
+    {
+      "album": {
+        "name": "XAROS",
+        "url": "https://open.spotify.com/album/1JrJ4zYUsmIVPrVn7vbXv4"
+      },
+      "artists": [
+        {
+          "name": "DAIMA",
+          "url": "https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN"
+        },
+        {
+          "name": "Stanley",
+          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128741,
+      "name": "XAROS",
+      "url": "https://open.spotify.com/track/0drZEILXlqWqzpniZMZEbh"
+    },
+    {
+      "album": {
         "name": "Xeirovomvida",
         "url": "https://open.spotify.com/album/5m8SClJMQuzg2Ebz10RSYd"
       },
@@ -11442,6 +11552,28 @@
       "duration_ms": 144461,
       "name": "YAMAHA",
       "url": "https://open.spotify.com/track/299atntfE9wfFWe85iau4o"
+    },
+    {
+      "album": {
+        "name": "YARIS",
+        "url": "https://open.spotify.com/album/5ARxTe3pQsLl4jkUVYtCy0"
+      },
+      "artists": [
+        {
+          "name": "Venom",
+          "url": "https://open.spotify.com/artist/6CdAVuqNOSOZ9KsZXMZwFr"
+        },
+        {
+          "name": "TOP BOY",
+          "url": "https://open.spotify.com/artist/0jfKK925sgkd5zIBvcPdTF"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185259,
+      "name": "YARIS",
+      "url": "https://open.spotify.com/track/5W3p7nxRGAdKUio87vcTMX"
     },
     {
       "album": {

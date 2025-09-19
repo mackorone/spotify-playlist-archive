@@ -796,7 +796,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 179120,
       "name": "Back To Bed",
       "url": "https://open.spotify.com/track/1gdbZIhFYNmQz8aXA7puqH"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 132968,
       "name": "Cool Car, Stupid Decisions",
       "url": "https://open.spotify.com/track/30eU5auguA6zk7jJX9YiyA"
@@ -2309,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/2t0tzhydw5GN4WiYmqNBts"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194685,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0VM4421vCWFJaLeLq1C33b"
+    },
+    {
+      "album": {
         "name": "Egal (was passiert)",
         "url": "https://open.spotify.com/album/4mNn1ZVQzxRhOQjFav5rMe"
       },
@@ -2876,6 +2894,24 @@
       "duration_ms": 135883,
       "name": "gensehaut",
       "url": "https://open.spotify.com/track/4hcuqPKZS9s8P9jyOamH0M"
+    },
+    {
+      "album": {
+        "name": "get better!",
+        "url": "https://open.spotify.com/album/44DDyYBv1WXPKfStRoCXPl"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137781,
+      "name": "get better!",
+      "url": "https://open.spotify.com/track/2FElV26FnQwjsGzmkh4Dom"
     },
     {
       "album": {
@@ -6792,7 +6828,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 96000,
       "name": "Sun Is Gone",
       "url": "https://open.spotify.com/track/5hUEi4BzzroXKvvkIScbaw"
@@ -7245,6 +7281,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV"
+    },
+    {
+      "album": {
         "name": "Sun FM",
         "url": "https://open.spotify.com/album/16loyrI8kbGUd53IzTBXE3"
       },
@@ -7358,6 +7412,28 @@
       "duration_ms": 182224,
       "name": "Tut mir nicht leid",
       "url": "https://open.spotify.com/track/3Z0vdZfMKPRgPrVlpj18oQ"
+    },
+    {
+      "album": {
+        "name": "twenty three",
+        "url": "https://open.spotify.com/album/3UXfEeyTSTziQL6AVITSsA"
+      },
+      "artists": [
+        {
+          "name": "Pabst",
+          "url": "https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD"
+        },
+        {
+          "name": "Blush Always",
+          "url": "https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229429,
+      "name": "twenty three",
+      "url": "https://open.spotify.com/track/3CrSjYWQn1MYLDRbNaBzzn"
     },
     {
       "album": {
@@ -7616,7 +7692,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 172613,
       "name": "vitamin",
       "url": "https://open.spotify.com/track/0yNrKZfMskOElmuadLTI55"
@@ -7962,10 +8038,28 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 189250,
       "name": "what a life",
       "url": "https://open.spotify.com/track/6NqcZkgcZsXu3kpOzmS5RM"
+    },
+    {
+      "album": {
+        "name": "What Does She Have",
+        "url": "https://open.spotify.com/album/5QIFRXZBSXicIIX8sXPVqG"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198520,
+      "name": "What Does She Have",
+      "url": "https://open.spotify.com/track/3xNMIHsncO6D3f4jD5I2Vc"
     },
     {
       "album": {

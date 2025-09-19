@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: Avenoir
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,368 likes - 196 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,406 likes - 196 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 22341,
+  "num_followers": 22344,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAABRc/jZGIPh2xja0UYok+1H",
+  "snapshot_id": "aMn6AAAAAACRb1ots5/qOu4VFixDrRAI",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tua Sorte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/24pLn2VLpannt8kUm86B8c"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Tua Sorte (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4vOZsXEbP5AalMYNYxY4j2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Pare",
         "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 266193,
       "name": "Soldado Ferido",
       "url": "https://open.spotify.com/track/476aDnrdzh6DQ2Xa4KSSwX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tua Sorte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/24pLn2VLpannt8kUm86B8c"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Tua Sorte (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4vOZsXEbP5AalMYNYxY4j2"
     },
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sou Teu Deus",
+        "url": "https://open.spotify.com/album/15aD5OIPVjK9Qq3jhITeX1"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 290481,
+      "name": "Sou Teu Deus",
+      "url": "https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nasci Pra Voar",
         "url": "https://open.spotify.com/album/6u8T90oj5FjrcsoljgjmT7"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 309001,
       "name": "Que Tal",
       "url": "https://open.spotify.com/track/1cKmv6Ca3hqonAttrAOH6y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sou Teu Deus",
-        "url": "https://open.spotify.com/album/15aD5OIPVjK9Qq3jhITeX1"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 290481,
-      "name": "Sou Teu Deus",
-      "url": "https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Tira-me do Vale",
-      "url": "https://open.spotify.com/track/3TtolRnx8AHhlb42ZDKPBX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aguente, Guerreiro",
         "url": "https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 307750,
       "name": "Aguente, Guerreiro",
       "url": "https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Tira-me do Vale",
+      "url": "https://open.spotify.com/track/3TtolRnx8AHhlb42ZDKPBX"
     },
     {
       "added_at": null,
@@ -627,22 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus Prover\u00e1",
-        "url": "https://open.spotify.com/album/7ATgvDv9nBNW2Y0jTi9pEC"
+        "name": "O Melhor Pra Ti",
+        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
       },
       "artists": [
-        {
-          "name": "Casa do Oleiro Adora\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/6lGPisEkgq8UJDUPcKr0Fv"
-        },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 310257,
-      "name": "Deus Prover\u00e1",
-      "url": "https://open.spotify.com/track/4bRaa8R2awkTROnotcmE9B"
+      "duration_ms": 243000,
+      "name": "O Melhor Pra Ti",
+      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
     },
     {
       "added_at": null,
@@ -663,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Melhor Pra Ti",
-        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
+        "name": "Deus Prover\u00e1",
+        "url": "https://open.spotify.com/album/7ATgvDv9nBNW2Y0jTi9pEC"
       },
       "artists": [
+        {
+          "name": "Casa do Oleiro Adora\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/6lGPisEkgq8UJDUPcKr0Fv"
+        },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 243000,
-      "name": "O Melhor Pra Ti",
-      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
+      "duration_ms": 310257,
+      "name": "Deus Prover\u00e1",
+      "url": "https://open.spotify.com/track/4bRaa8R2awkTROnotcmE9B"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 314542,
-      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Desisto",
         "url": "https://open.spotify.com/album/1y16WYWXU9osg7dSAXViWl"
       },
@@ -739,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+        "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur"
       },
       "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 286023,
-      "name": "Shekinah",
-      "url": "https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL"
+      "duration_ms": 314542,
+      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
       "duration_ms": 314026,
       "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
       "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 286023,
+      "name": "Shekinah",
+      "url": "https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL"
     },
     {
       "added_at": null,
@@ -807,38 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Deus dos Pequeninos",
-        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "O Deus dos Pequeninos",
-      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Haver\u00e1 Vergonha",
-        "url": "https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 316673,
-      "name": "N\u00e3o Haver\u00e1 Vergonha",
-      "url": "https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midian Lima (Ao Vivo)",
         "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },
@@ -851,6 +819,22 @@
       "duration_ms": 274274,
       "name": "Lugar Seguro (Ao Vivo)",
       "url": "https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Deus dos Pequeninos",
+        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "O Deus dos Pequeninos",
+      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
       "duration_ms": 272697,
       "name": "Prossiga (feat. Midian Lima)",
       "url": "https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Haver\u00e1 Vergonha",
+        "url": "https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 316673,
+      "name": "N\u00e3o Haver\u00e1 Vergonha",
+      "url": "https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN"
     },
     {
       "added_at": null,
@@ -915,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A B\u00ean\u00e7\u00e3o do Senhor",
-        "url": "https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9"
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 250636,
-      "name": "A B\u00ean\u00e7\u00e3o do Senhor",
-      "url": "https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9"
+      "duration_ms": 333067,
+      "name": "O Rei Est\u00e1 Voltando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6zB5D61eW6SxQWGXn8jzle"
     }
   ],
   "unique_name": "This Is Midian Lima",

@@ -4706,7 +4706,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-14",
+      "date_removed": null,
       "duration_ms": 152993,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
@@ -6602,7 +6602,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 183318,
       "name": "Juno",
       "url": "https://open.spotify.com/track/7F35nM1uBD2AzkXSYgLenE"
@@ -11549,6 +11549,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak Hysteria (Deluxe)",
+        "url": "https://open.spotify.com/album/6XFTm4q18apeeh3zhHlGcT"
+      },
+      "artists": [
+        {
+          "name": "Sawyer Hill",
+          "url": "https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202490,
+      "name": "Sweet Disaster",
+      "url": "https://open.spotify.com/track/067SgWoNFD7fpN8v7UpHZj"
+    },
+    {
+      "album": {
         "name": "Phonetics On and On",
         "url": "https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc"
       },
@@ -12942,7 +12960,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"

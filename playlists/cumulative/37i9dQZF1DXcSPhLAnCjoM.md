@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Autrement" de Julien Lieb est le Grand Hit de la semaine.
+> "Butterfly", de Superbus et RORI, est le Grand Hit de la semaine.
 
-276 songs - 14 hr 10 min
+277 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Les étoiles](https://open.spotify.com/track/656reMy5BDuXUbNRr7oeg3) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux \(nan j'déconne\)](https://open.spotify.com/album/1w0eAL8YxKe9MVvZdNtUqH) | 3:27 | 2023-10-05 | 2024-06-07 |
 | [Les étoiles](https://open.spotify.com/track/0qhFivak96RXIyePqIWIWx) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [Les étoiles](https://open.spotify.com/album/3p3XIEqXV37o6CCdCEa0W8) | 2:43 | 2025-03-06 |  |
 | [Lisa](https://open.spotify.com/track/1F3bGtwgmhV9ND6jLYdKsh) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Lisa](https://open.spotify.com/album/5lgCAuiOX00D2dqFy4atIg) | 3:50 | 2024-06-06 | 2024-09-27 |
-| [Lola \(feat\. Nicola Sirkis\)](https://open.spotify.com/track/2UC24t5kdAucpeFtVONiYZ) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq), [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ), [Nicola Sirkis](https://open.spotify.com/artist/1GPOQdRaRdalF1ct9DKfuJ) | [Lola \(feat\. Nicola Sirkis\)](https://open.spotify.com/album/3qaG54mQkO2ekk3FNuSbKQ) | 3:01 | 2025-02-13 |  |
+| [Lola \(feat\. Nicola Sirkis\)](https://open.spotify.com/track/2UC24t5kdAucpeFtVONiYZ) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq), [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ), [Nicola Sirkis](https://open.spotify.com/artist/1GPOQdRaRdalF1ct9DKfuJ) | [Lola \(feat\. Nicola Sirkis\)](https://open.spotify.com/album/3qaG54mQkO2ekk3FNuSbKQ) | 3:01 | 2025-02-13 | 2025-09-19 |
 | [Loser](https://open.spotify.com/track/5Dj8pFjDCm6Pm4aaOqfgkj) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Loser](https://open.spotify.com/album/4v8CMaH9wc0c47jev8WYEp) | 2:49 | 2024-06-20 | 2024-08-23 |
 | [LOVE'n'TENDRESSE](https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [LOVE'n'TENDRESSE](https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6) | 3:14 | 2023-09-28 | 2024-05-24 |
 | [L’Étoile](https://open.spotify.com/track/6051Cr1ieO10nTt9rONI6c) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOX](https://open.spotify.com/album/5QBhx8xa2BVC8vDtklwVPl) | 3:09 | 2024-05-16 | 2024-06-14 |
@@ -255,6 +255,7 @@
 | [Summer Body](https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Pas de seum pour le summer](https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA) | 2:59 | 2024-07-04 | 2025-01-10 |
 | [T'en aller](https://open.spotify.com/track/59MVdyazjn9ExcL2C8xuTY) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [T'en aller](https://open.spotify.com/album/00nbP0PHv8JjqtS82B1hYN) | 3:11 | 2024-10-17 | 2025-04-18 |
 | [Ta peine](https://open.spotify.com/track/0qp0G8VtnYHmLnbCu6lUUQ) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Ta peine](https://open.spotify.com/album/2vN2COSOLbR6pMi4Et7k7R) | 2:44 | 2024-02-29 | 2024-06-21 |
+| [Tant pis pour elle](https://open.spotify.com/track/1VeDrlbLw18quxCqWfEFEi) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Tant pis pour elle](https://open.spotify.com/album/2iNJAjSxBMS58hKIqHpAxw) | 2:38 | 2025-09-18 |  |
 | [Tara](https://open.spotify.com/track/4DokPvEWGHqqFIi4uWnYyh) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Comme je suis](https://open.spotify.com/album/50MyaLvIiDzLntnyJoihFW) | 2:32 | 2024-01-18 | 2024-05-17 |
 | [Ton amoureuse](https://open.spotify.com/track/3GlDnq2U3v4cWdTYDWfw65) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9) | 2:38 | 2024-10-24 | 2025-02-21 |
 | [Ton regard](https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Ton regard](https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH) | 2:33 | 2024-06-13 | 2025-04-25 |

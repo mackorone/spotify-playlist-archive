@@ -504,10 +504,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 302021,
       "name": "Histeria",
       "url": "https://open.spotify.com/track/0nRGbWXmLv56lPsR3dtB3y"
+    },
+    {
+      "album": {
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202801,
+      "name": "La Caca del Bandido",
+      "url": "https://open.spotify.com/track/7BgrrQesQnHXefzJsM9jKg"
     },
     {
       "album": {

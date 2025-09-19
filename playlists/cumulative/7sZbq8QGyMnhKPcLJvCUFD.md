@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-761 songs - 1 day 14 hr 14 min
+762 songs - 1 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Ignite My Heart](https://open.spotify.com/track/4rtc115cnnZRxV0QXK18Bt) | [Adikop](https://open.spotify.com/artist/1bmpgDPBBF9GapFDg7DGA4), [Chris Ponate](https://open.spotify.com/artist/2qF3uIwfVNlgjIFfo9PXjo) | [Ignite My Heart](https://open.spotify.com/album/1k4mpBBEeWxDI7hg9LCMMY) | 2:40 | 2023-05-03 | 2023-08-10 |
 | [Illusion](https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Crunr](https://open.spotify.com/artist/6NpDx4k32E3pChXfXeDVTr) | [Illusion](https://open.spotify.com/album/1K5HiEm4XcBAxxrk0afaQE) | 3:17 | 2022-09-09 | 2023-08-10 |
 | [ILY](https://open.spotify.com/track/1CODxPEoQv5e0yJuOiLvbj) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Go Off EP](https://open.spotify.com/album/2BdA0bIcagPyuUxevSv2mC) | 2:40 | 2022-12-07 | 2023-04-28 |
+| [ILYBB](https://open.spotify.com/track/3FpW4twa49qV5V3Uo8Vi8H) | [Ailow](https://open.spotify.com/artist/270jtLW7Wr3QPEVoE2HAkB), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [ILYBB](https://open.spotify.com/album/744S9ynqev10AOzrFYWzaP) | 2:23 | 2025-09-18 |  |
 | [Immortal \(feat\. Josh Rubin\)](https://open.spotify.com/track/2RdwrJkx3swffe5ylzvfKR) | [CITYWLKR](https://open.spotify.com/artist/37195HH4Ces0cQkYr4rSCU), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Immortal \(feat\. Josh Rubin\)](https://open.spotify.com/album/3OqnZbyxed8WsO2D1wlEUj) | 4:30 | 2023-04-14 | 2023-08-10 |
 | [In Bonfires Green](https://open.spotify.com/track/0fBsWX8BBEibjZutjIKQpI) | [Psylla](https://open.spotify.com/artist/0glz26CRdAXpDqL31326C8) | [In Bonfires Green](https://open.spotify.com/album/3zIWr5HZdX2G1JEmOCt9by) | 3:32 | 2024-04-30 | 2024-11-20 |
 | [In My Head](https://open.spotify.com/track/1NK0ypmETjEOrPa14AkwTv) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [In My Head](https://open.spotify.com/album/4Mf0mMMSrcaZWoLvG5u0Rc) | 3:08 | 2022-04-01 | 2023-04-28 |

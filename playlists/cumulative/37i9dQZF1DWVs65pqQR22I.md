@@ -4,7 +4,7 @@
 
 > Dark noise to keep you sharp and focused during your study session.
 
-198 songs - 8 hr 56 min
+199 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Black Noise Loopable No Fade](https://open.spotify.com/track/6DDZ4xQa6zeic65kTZVlyi) | [Black Noise Therapy](https://open.spotify.com/artist/0Ed5IDzdOfSHBxrbywgeiM), [Black Noise Loopable](https://open.spotify.com/artist/0AINnTX3ydWS5AaznVjfun) | [Black Noise Loopable](https://open.spotify.com/album/5LAys7inEAnAYgrqemR3CJ) | 2:13 | 2023-03-10 | 2023-04-22 |
 | [Black Noise Lullaby](https://open.spotify.com/track/2dVNkNt8qRnnsEbzHWifHU) | [Naturelle](https://open.spotify.com/artist/2ZqIdeQMZpsr1jAruu22fI) | [Healing Black Noise](https://open.spotify.com/album/4vTf5vLobu75WEgLrpFKGu) | 2:13 | 2023-03-10 | 2023-06-01 |
 | [Black Noise Lullaby](https://open.spotify.com/track/5C6rNHrxqyhhEw4EybyGJq) | [Odd Recordings](https://open.spotify.com/artist/0lhOaH03r7Lvt8UpOBCHOk) | [Calmed By The Black Noise](https://open.spotify.com/album/00VOYEZMRvtzOwvKVMKd7K) | 2:03 | 2023-03-10 |  |
-| [Black Noise Medicine](https://open.spotify.com/track/3ErI5QWiPygevXOeeXntOO) | [Doze Off](https://open.spotify.com/artist/4qPfn548UaFRQO5XBJuE4E) | [Black Noise Detox](https://open.spotify.com/album/6zMcdyQNooveNakoyp69V1) | 3:15 | 2023-06-01 |  |
+| [Black Noise Medicine](https://open.spotify.com/track/3ErI5QWiPygevXOeeXntOO) | [Doze Off](https://open.spotify.com/artist/4qPfn548UaFRQO5XBJuE4E) | [Black Noise Detox](https://open.spotify.com/album/6zMcdyQNooveNakoyp69V1) | 3:15 | 2023-06-01 | 2025-09-19 |
 | [Black Noise Meditation](https://open.spotify.com/track/6j6JSiOY5hpeI9orUoY3UU) | [Soundstars](https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8) | [Serene Black Noise Melodies](https://open.spotify.com/album/00SIpBgbHleiWvn8U4uQqk) | 2:35 | 2023-03-10 | 2023-06-20 |
 | [Black Noise Meditation](https://open.spotify.com/track/16RdggNSGletPKlMX5QE3B) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Relaxing Black Noise Sounds](https://open.spotify.com/album/3mBWZqwhnCwlhzeWnX27YM) | 3:20 | 2023-06-01 | 2025-08-23 |
 | [Black Noise Mind Mull](https://open.spotify.com/track/3ijpEiWNuUmARUHefxSOvd) | [Contented](https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP) | [Placid Black Noise](https://open.spotify.com/album/062LOMoeL90kizJiCxeVOS) | 2:31 | 2023-04-21 |  |
@@ -116,6 +116,7 @@
 | [Euphony of Black Noise](https://open.spotify.com/track/4WIdwHatjxIC224UO4UwlR) | [Soundstars](https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8) | [Serene Black Noise Melodies](https://open.spotify.com/album/00SIpBgbHleiWvn8U4uQqk) | 2:27 | 2023-03-10 | 2023-06-20 |
 | [Everlasting Black Noise](https://open.spotify.com/track/2HFlg5MppHkkxW15wmqMFj) | [Vita Nova](https://open.spotify.com/artist/73NuuIXGeBU7AyknDXY5A2) | [Black Opal Dream](https://open.spotify.com/album/4QoFfiDYebLXDIYtcvPzRK) | 2:46 | 2023-06-01 |  |
 | [Exquisite Black Noise](https://open.spotify.com/track/51buzvWwqdxkVXexBG9ACe) | [Delicatessen Noise](https://open.spotify.com/artist/5RxupLWXooqV5lxD8c4vCz) | [Delicate Black Noise](https://open.spotify.com/album/1WhZbjAQu52jXBtUBx2dZ1) | 3:08 | 2023-03-31 |  |
+| [fallin' black noise](https://open.spotify.com/track/2Mhd7xjrpK5Np2pwqg2vGr) | [The Frequency Shifters](https://open.spotify.com/artist/7MbxdnkfBJ2STy1K8VzbzJ) | [fallin' black noise](https://open.spotify.com/album/3cWDwqhxIsi4sTeupb0yL1) | 3:42 | 2025-04-09 |  |
 | [Focused Black Noise](https://open.spotify.com/track/4706E26ijxiFCGJAC8RbRi) | [BGVV](https://open.spotify.com/artist/2ZZmOU69olG4AWM3c3LX1T) | [Close Your Eyes To Black Noise](https://open.spotify.com/album/34NQgOeuoKjZKAhbnDihFe) | 2:05 | 2023-03-10 | 2024-02-14 |
 | [Focused Black Noise](https://open.spotify.com/track/5rURzzYYHLowCCnERjNBu5) | [LBE Sound Factory](https://open.spotify.com/artist/2KH7b9r4W32S6NlIKaf1Fc) | [Soothing Black Noise](https://open.spotify.com/album/47H3tArlJPjYiIAW7qjwFc) | 2:13 | 2023-04-21 |  |
 | [Focused Mind Black Noise](https://open.spotify.com/track/1CaTOiBEuHSyMtF84KA9qM) | [Linus Xio](https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL) | [Focused Mind Black Noise](https://open.spotify.com/album/5fZ4T8Ll08WOc4VXIdVcMo) | 3:10 | 2023-10-10 |  |

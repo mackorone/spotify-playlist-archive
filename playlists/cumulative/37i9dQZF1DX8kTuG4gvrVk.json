@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 462561,
       "name": "ETA - RMX",
       "url": "https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH"
@@ -2462,7 +2462,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 148714,
       "name": "Killin' It Girl (feat. GloRilla)",
       "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
@@ -2524,7 +2524,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 247840,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
@@ -3238,7 +3238,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 173573,
       "name": "ME GUSTAS CC",
       "url": "https://open.spotify.com/track/4Hkp1TiYqGYhknFwtUsbqd"
@@ -4851,6 +4851,28 @@
     },
     {
       "album": {
+        "name": "Se Riega",
+        "url": "https://open.spotify.com/album/2F9NvZEkq2lHSeTSLWpnMs"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160178,
+      "name": "Se Riega",
+      "url": "https://open.spotify.com/track/7EOiQ1TeeA4eMgkCl4gUGY"
+    },
+    {
+      "album": {
         "name": "dile no a las drogas",
         "url": "https://open.spotify.com/album/2kvzVR1bpkXKLmai4ZfMqS"
       },
@@ -5628,6 +5650,36 @@
       "duration_ms": 177049,
       "name": "una noche",
       "url": "https://open.spotify.com/track/634CTghcuEDy2FXcTsLG5m"
+    },
+    {
+      "album": {
+        "name": "TRINIDAD BENDITA",
+        "url": "https://open.spotify.com/album/3MPeQFXj8sDLFf0jWkClyT"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Sebastian Ledher",
+          "url": "https://open.spotify.com/artist/6KUSLPXO8e94sZWVksv4nn"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        },
+        {
+          "name": "Joseph Ren",
+          "url": "https://open.spotify.com/artist/0TG7p0ATDDBfhBjl9EBvIb"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "UNA NOCHE DE LOCURA",
+      "url": "https://open.spotify.com/track/2tKVinInf0PJS1iG04zzqi"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Rap Español](https://open.spotify.com/playlist/37i9dQZF1DXcd2Vmhfon1w)
 
-> Lo mejor del hip hop español\. Feat\. Israel B.
+> Lo mejor del hip hop español\. Feat\. Delaossa.
 
 623 songs - 1 day 8 hr 40 min
 

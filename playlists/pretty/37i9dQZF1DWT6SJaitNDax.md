@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: Young Jonn
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,485 likes - 101 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,583 likes - 101 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

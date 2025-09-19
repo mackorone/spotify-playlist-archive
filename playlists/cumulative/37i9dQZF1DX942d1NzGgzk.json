@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The latest of R&B in the UK. Cover: Natanya",
+  "description": "The latest of R&B in the UK. Cover: RUBII",
   "name": "R&B UK",
   "tracks": [
     {
@@ -976,7 +976,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 132863,
       "name": "BETTER THAN THAT",
       "url": "https://open.spotify.com/track/5g0eR1a8APtcRfU8CkHBfj"
@@ -1493,6 +1493,42 @@
     },
     {
       "album": {
+        "name": "LONDON, WHEN ARE U GONNA FEEL LIKE HOME?",
+        "url": "https://open.spotify.com/album/22jYWWOuUDaJEoz1BH3Shy"
+      },
+      "artists": [
+        {
+          "name": "Raquel Martins",
+          "url": "https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194550,
+      "name": "CHOOSE YOUR PLAYA",
+      "url": "https://open.spotify.com/track/4FcuUAbRwQPnwp2bCnrehM"
+    },
+    {
+      "album": {
+        "name": "Symptoms of Me",
+        "url": "https://open.spotify.com/album/3j2DGHCJMkOzvHddr8GkKs"
+      },
+      "artists": [
+        {
+          "name": "Summer Banton",
+          "url": "https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149488,
+      "name": "Class A",
+      "url": "https://open.spotify.com/track/3X5VHuawDizSLFIYpJQD5U"
+    },
+    {
+      "album": {
         "name": "Hamartia",
         "url": "https://open.spotify.com/album/6mzeTCb0ty0ufadqSaZzfW"
       },
@@ -1552,7 +1588,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 156613,
       "name": "Clothes Off",
       "url": "https://open.spotify.com/track/3AbbBPOMTPWAJm0BYAJUY1"
@@ -1574,6 +1610,24 @@
       "duration_ms": 179987,
       "name": "cocoa body",
       "url": "https://open.spotify.com/track/2DSsF45LB3rzvJehF5qpcF"
+    },
+    {
+      "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/7Gz1S0Pnz6FrH80PZNWpoI"
+      },
+      "artists": [
+        {
+          "name": "Stefan Mahendra",
+          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228366,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/51YSHFD4wFUjUkafKlPuuV"
     },
     {
       "album": {
@@ -2240,7 +2294,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 151626,
       "name": "Egyptian Cotton",
       "url": "https://open.spotify.com/track/0wQC3sJOGHzmNs4gfG56r6"
@@ -2262,6 +2316,24 @@
       "duration_ms": 155121,
       "name": "Eighteen",
       "url": "https://open.spotify.com/track/6SCSFTRB2ueJIhYQ2VJK68"
+    },
+    {
+      "album": {
+        "name": "BRITISH BOGOT\u00c1 BOY",
+        "url": "https://open.spotify.com/album/5Ne9zTgzSScFDIBXrtyLPH"
+      },
+      "artists": [
+        {
+          "name": "Isaiah St Jean",
+          "url": "https://open.spotify.com/artist/14rchXSv5I3gxgE6qNuMN2"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183770,
+      "name": "EMILIA",
+      "url": "https://open.spotify.com/track/68B5H1EYzsjhBJtGd62VyY"
     },
     {
       "album": {
@@ -2417,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "FALL THROUGH",
+        "url": "https://open.spotify.com/album/6Iaph0ERIiTHqq9YLRpMkc"
+      },
+      "artists": [
+        {
+          "name": "Rya",
+          "url": "https://open.spotify.com/artist/5o0oa7D3vG5hisRVA4M3Vp"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "FALL THROUGH",
+      "url": "https://open.spotify.com/track/3l04IKVbK3rgDLOkaigL7R"
+    },
+    {
+      "album": {
         "name": "Fallin 4 A Thug",
         "url": "https://open.spotify.com/album/08two7eshES8TNEHi6WBGl"
       },
@@ -2518,7 +2608,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 182546,
       "name": "Figures On The Wall",
       "url": "https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH"
@@ -2674,6 +2764,24 @@
       "duration_ms": 159321,
       "name": "Forever",
       "url": "https://open.spotify.com/track/64CKrUSNUMzFHziTnJJzNG"
+    },
+    {
+      "album": {
+        "name": "Forgive & Forget",
+        "url": "https://open.spotify.com/album/4MKYOIlZOjLfZIgn1vgBHf"
+      },
+      "artists": [
+        {
+          "name": "RUBII",
+          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Forgive & Forget",
+      "url": "https://open.spotify.com/track/6KafcmIAnIcYOA1Qppfurb"
     },
     {
       "album": {
@@ -3754,7 +3862,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 218924,
       "name": "I Like",
       "url": "https://open.spotify.com/track/4e3NnwgoLWJEUNUN4CQD18"
@@ -4068,7 +4176,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 172307,
       "name": "IN MY HEAD",
       "url": "https://open.spotify.com/track/5xOQIw4Q5BpEMX4IQSojV3"
@@ -5026,7 +5134,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 189428,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/4H8zToQEWeZ710p9uDtEbP"
@@ -7130,7 +7238,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 182857,
       "name": "Run",
       "url": "https://open.spotify.com/track/1dtf4ewjHJDhkuJMFgdsD8"
@@ -7499,6 +7607,24 @@
     },
     {
       "album": {
+        "name": "Sit by Me",
+        "url": "https://open.spotify.com/album/1E4itc9Asd3l73EHASr0Qh"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Mettle",
+          "url": "https://open.spotify.com/artist/0wzicZBrVg1SpiMsZzNmFC"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318078,
+      "name": "Sit by Me",
+      "url": "https://open.spotify.com/track/32pVI4BhI81pdtEsZFRUqy"
+    },
+    {
+      "album": {
         "name": "skip!",
         "url": "https://open.spotify.com/album/2UukWbmIAt7fb9LAK3xD81"
       },
@@ -7622,7 +7748,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 157374,
       "name": "Somewhere You Can Fly",
       "url": "https://open.spotify.com/track/5Nmmrv8DBGlGw59yQMOwwl"
@@ -7909,6 +8035,24 @@
     },
     {
       "album": {
+        "name": "stuck",
+        "url": "https://open.spotify.com/album/0LhiMrqAXTJgaShcZqlZlW"
+      },
+      "artists": [
+        {
+          "name": "b4u",
+          "url": "https://open.spotify.com/artist/5DjaUPqQpwjqpoYKeGcULR"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114039,
+      "name": "stuck",
+      "url": "https://open.spotify.com/track/0yBh1xowtli8sJsqSUydCT"
+    },
+    {
+      "album": {
         "name": "Stuck on You",
         "url": "https://open.spotify.com/album/46q4wEyyrNgO74c7fbK6Oe"
       },
@@ -7990,6 +8134,28 @@
       "duration_ms": 154392,
       "name": "Suite Life (Familiar) - Bonus Track",
       "url": "https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq"
+    },
+    {
+      "album": {
+        "name": "Sum'n Serious (SLIZZY MIX)",
+        "url": "https://open.spotify.com/album/3K6Da0mqmR1NOlj4RkRFs2"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155307,
+      "name": "Sum'n Serious - SLIZZY MIX",
+      "url": "https://open.spotify.com/track/0J3kISGKt7eTppkNUxhYUn"
     },
     {
       "album": {

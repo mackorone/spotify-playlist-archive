@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "It's giving those vibes. Cover: Kehlani",
+  "description": "It's giving those vibes. Cover: Kaya Imani, Yssi SB & ADF Samski",
   "name": "Vibes",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 141686,
       "name": "Aesthetic",
       "url": "https://open.spotify.com/track/6G1bcTNJORYUTB2IQn1ETb"
@@ -220,6 +220,24 @@
       "duration_ms": 152000,
       "name": "Alles Over",
       "url": "https://open.spotify.com/track/30uHOuSV1gIkSOoD9rxtRR"
+    },
+    {
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/3GsMcFluyo0t8Bt7godgzV"
+      },
+      "artists": [
+        {
+          "name": "Nelson Clark",
+          "url": "https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174479,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/3cfAU26S3unXxHX7Pu0171"
     },
     {
       "album": {
@@ -354,7 +372,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 165725,
       "name": "Bichota Como Karol",
       "url": "https://open.spotify.com/track/5EiZLrriVg19FiUbvs9JxP"
@@ -431,6 +449,54 @@
     },
     {
       "album": {
+        "name": "Combinatie",
+        "url": "https://open.spotify.com/album/5dpVpb8NqQfV7JaFWcBzcP"
+      },
+      "artists": [
+        {
+          "name": "Kaya Imani",
+          "url": "https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "Combinatie",
+      "url": "https://open.spotify.com/track/1gbc2lBN65iPiXTATrs5YQ"
+    },
+    {
+      "album": {
+        "name": "Come Thru",
+        "url": "https://open.spotify.com/album/5ROqfZuNT2aIBM0h6lAx4S"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "Melo-X",
+          "url": "https://open.spotify.com/artist/6AxHPycFTjxDROqK1pzsAE"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "Come Thru",
+      "url": "https://open.spotify.com/track/7N2ZpxdytE7iAvkzdcsHrR"
+    },
+    {
+      "album": {
         "name": "Crush (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/6NwDHbB35rZjIQsRPSkaF5"
       },
@@ -486,7 +552,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 138181,
       "name": "Darlin'",
       "url": "https://open.spotify.com/track/595A0CKRnBVB3B2BlQfob0"
@@ -625,6 +691,28 @@
     },
     {
       "album": {
+        "name": "88",
+        "url": "https://open.spotify.com/album/3UqophSkJ9MIEPdGIucF20"
+      },
+      "artists": [
+        {
+          "name": "Sidney Shane",
+          "url": "https://open.spotify.com/artist/32tHxdDs7eCpgjYPzWHyXA"
+        },
+        {
+          "name": "KIMONO",
+          "url": "https://open.spotify.com/artist/1nSGi0gYeO1v0gWXRaGk1F"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206510,
+      "name": "Fersteri",
+      "url": "https://open.spotify.com/track/45pXZ2l3wGs6WDzoohtx3s"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/0zrL41M8eSdDtMFaROdtrT"
       },
@@ -738,7 +826,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 181000,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3A3SdSkS4UDAATAfpHPgFZ"
@@ -862,7 +950,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 162758,
       "name": "Gewond geraakt",
       "url": "https://open.spotify.com/track/4t1c62awOwIpsMLOfmbUR0"
@@ -1507,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "Leugens",
+        "url": "https://open.spotify.com/album/5ptuKXWOSfHCbLkeIL7FYC"
+      },
+      "artists": [
+        {
+          "name": "Ali Aldrig",
+          "url": "https://open.spotify.com/artist/0IlbBoUun2sswjQQuzgdw6"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184474,
+      "name": "Leugens",
+      "url": "https://open.spotify.com/track/5mnwyxb0aZFv6R1kykhd7n"
+    },
+    {
+      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/5Uk5oD7ERsOZ05QpV5i6bH"
       },
@@ -1518,7 +1624,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 157297,
       "name": "Linda",
       "url": "https://open.spotify.com/track/5hswX3BbAnas7QLGuSSRqH"
@@ -1850,7 +1956,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 189071,
       "name": "Offa Me (feat. Victoria Mon\u00e9t)",
       "url": "https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA"
@@ -2106,7 +2212,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 195159,
       "name": "Revive Me",
       "url": "https://open.spotify.com/track/1NZCQqIvAEVdZJFUPzf2Tb"
@@ -2128,6 +2234,28 @@
       "duration_ms": 160200,
       "name": "RUMBA",
       "url": "https://open.spotify.com/track/1pwgyTGXTQllI9P62zSwcE"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177886,
+      "name": "Safe (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
     },
     {
       "album": {
@@ -2172,7 +2300,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 168072,
       "name": "So Much Sense",
       "url": "https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo"
@@ -2433,6 +2561,28 @@
     },
     {
       "album": {
+        "name": "Tafel Voor 2",
+        "url": "https://open.spotify.com/album/3KZ7sUm5SAEV7TaSuQ7PPA"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195021,
+      "name": "Tafel Voor 2",
+      "url": "https://open.spotify.com/track/68xWjy9I9MvZydX02I5OAH"
+    },
+    {
+      "album": {
         "name": "Take My Hand",
         "url": "https://open.spotify.com/album/79NAc2PHiTe8z6WmmSDgyD"
       },
@@ -2528,7 +2678,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 138947,
       "name": "Tiramisu",
       "url": "https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee"
@@ -2550,7 +2700,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 123243,
       "name": "TMI PT. 2",
       "url": "https://open.spotify.com/track/1s8Qvm4LI2nLx2DhhWkxGc"
@@ -2590,7 +2740,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 146732,
       "name": "Top Tier",
       "url": "https://open.spotify.com/track/7t13ipXkmuas7yzuAcPffz"
@@ -2798,7 +2948,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 160026,
       "name": "Woorden Wegen Niks",
       "url": "https://open.spotify.com/track/6fAlrzWpVgfN0VOmfoaXJw"

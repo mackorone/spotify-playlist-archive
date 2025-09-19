@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,900 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,896 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 48 | [SOLO](https://open.spotify.com/track/6XdSYm8aBk5cp4tAA8Cgie) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [BUENOS AIRES MOTEL](https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY) | 2:33 |
 | 49 | [Transtango](https://open.spotify.com/track/6ajUXYpxjeP6PrjJOoY0b2) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Reinventango](https://open.spotify.com/album/5jwhQjcZ5sIiNos3OfLwxi) | 4:19 |
 | 50 | [La Última Copa](https://open.spotify.com/track/5QWi1iGvTappdOGes0CAPE) | [Mauricio Junior Lescano](https://open.spotify.com/artist/0InckL49BuCjxQZuSPg9DV) | [Modo Tango](https://open.spotify.com/album/5hztYEebSTjDTFEV1gO9hK) | 2:35 |
-| 51 | [Fuego y pasión / Que Ironía \- Acústico](https://open.spotify.com/track/3UzaPjqE4v7CCnvVzbVNKg) | [Gianni](https://open.spotify.com/artist/0Wb8Pu3pQBRYRhuc9yRZOU) | [Fuego y pasión / Que Ironía \(Acústico\)](https://open.spotify.com/album/3wJNdWMDUM0C4d5j9SUbDD) | 4:00 |
-| 52 | [Línea D](https://open.spotify.com/track/35qVKJEncUuBN93wh29u9P) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S) | [Otoño](https://open.spotify.com/album/0e6nn83SoAOV6XeWDAUNkn) | 4:05 |
-| 53 | [Plegaria para un niño dormido](https://open.spotify.com/track/3hW3s0ClWYEKdDVZnwKZYU) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 3:47 |
+| 51 | [Línea D](https://open.spotify.com/track/35qVKJEncUuBN93wh29u9P) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S) | [Otoño](https://open.spotify.com/album/0e6nn83SoAOV6XeWDAUNkn) | 4:05 |
+| 52 | [Plegaria para un niño dormido](https://open.spotify.com/track/3hW3s0ClWYEKdDVZnwKZYU) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 3:47 |
+| 53 | [Fuego y pasión / Que Ironía \- Acústico](https://open.spotify.com/track/3UzaPjqE4v7CCnvVzbVNKg) | [Gianni](https://open.spotify.com/artist/0Wb8Pu3pQBRYRhuc9yRZOU) | [Fuego y pasión / Que Ironía \(Acústico\)](https://open.spotify.com/album/3wJNdWMDUM0C4d5j9SUbDD) | 4:00 |
 | 54 | [Yumbera](https://open.spotify.com/track/1hCjsKGQkWdi551Vgxgjn1) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Incidental Tango](https://open.spotify.com/album/6HL9PB5KmthDOLH8q00Gdg) | 4:12 |
 | 55 | [Fueye Mood](https://open.spotify.com/track/7o405CF3y3a0s5nDPQYAlE) | [Supertangox](https://open.spotify.com/artist/0hSsQFYJ0B5MMpjpg9rwKC) | [Fueye Mood](https://open.spotify.com/album/7vrPwQQk9tgwirJXpa8uia) | 3:51 |
 | 56 | [Mistela](https://open.spotify.com/track/3n2VMpEZW00BKG6MAsJEeo) | [Narcotango](https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9), [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n), [Mariano Castro](https://open.spotify.com/artist/2EO2iOsCDEZcqAhWu22tYH) | [Limanueva](https://open.spotify.com/album/1Q1J4JdO0wxNuFgvBsSQYy) | 4:19 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 64 | [Preludio para el Año 3001 \(Sgoliat vs KoolTURE Remix\)](https://open.spotify.com/track/4sHTrFv2n14HlExW74hEa2) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW), [Sgoliat vs KoolTURE](https://open.spotify.com/artist/1Nj1CJBwJxilEpdplcoun1) | [Preludio para el Año 3001 \(Sgoliat vs KoolTURE Remix\)](https://open.spotify.com/album/6ryjto0IP1T2u03yYQ5UF8) | 3:36 |
 | 65 | [Leonel, El Feo](https://open.spotify.com/track/2pOtwVqvY9DvXi0nbVcbRN) | [Luciano Supervielle](https://open.spotify.com/artist/0cVBzbJ1qk2pergJG8jbSC) | [Bajofondo Tango Club Presenta A Supervielle](https://open.spotify.com/album/7tFEuEPPlS8rNpI4iWcJTU) | 2:30 |
 | 66 | [Roberto](https://open.spotify.com/track/3GITRjbGkiq3H1ZUaiBX3s) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 2:33 |
-| 67 | [El Dia Que Me Quieras](https://open.spotify.com/track/76QoEfEGQKIVnYsQufETfK) | [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Sebastian Barbui](https://open.spotify.com/album/28XcARHQ3YiuaAZkGDPidC) | 3:22 |
-| 68 | [Porque Canto Asi](https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6) | [Porque Canto Asi](https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP) | 2:14 |
+| 67 | [Porque Canto Asi](https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6) | [Porque Canto Asi](https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP) | 2:14 |
+| 68 | [El Dia Que Me Quieras](https://open.spotify.com/track/76QoEfEGQKIVnYsQufETfK) | [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Sebastian Barbui](https://open.spotify.com/album/28XcARHQ3YiuaAZkGDPidC) | 3:22 |
 | 69 | [Mientras Tanto](https://open.spotify.com/track/6mEAf6mpMkiYRIivukpJ16) | [Narcotango](https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9), [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n), [Mariano Castro](https://open.spotify.com/artist/2EO2iOsCDEZcqAhWu22tYH) | [Cuenco](https://open.spotify.com/album/5kTDKs3NG4YZVN1P6aZDWB) | 4:29 |
 | 70 | [Muero Sin Vos](https://open.spotify.com/track/0u7ddEKYuoTl5Z1rntL28g) | [Lilí Gardés](https://open.spotify.com/artist/7LyRikRQ83unSIemMi1z3c) | [Muero Sin Vos](https://open.spotify.com/album/0jIWSnPUndgDdmtRORsF1Q) | 2:27 |
 

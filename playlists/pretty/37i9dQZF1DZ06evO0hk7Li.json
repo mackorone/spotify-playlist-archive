@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 39747,
+  "num_followers": 39744,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMiogAAAAAC/Ro4GEjRVghP45Wx0SmsN",
+  "snapshot_id": "aMn6AAAAAAADKY8RbqrHKbQ0eS14X76o",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yonder",
-        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 177400,
-      "name": "You Like It I Love It",
-      "url": "https://open.spotify.com/track/78sI81RifcXgUp2YBiZb2q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/2LQHSnhq9Da9qOVG4tAFQA"
       },
@@ -615,22 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monster 2.0",
-        "url": "https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX"
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
       },
       "artists": [
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
         }
       ],
-      "duration_ms": 217440,
-      "name": "Monster 2.0",
-      "url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao"
+      "duration_ms": 177400,
+      "name": "You Like It I Love It",
+      "url": "https://open.spotify.com/track/78sI81RifcXgUp2YBiZb2q"
     },
     {
       "added_at": null,
@@ -647,6 +627,26 @@
       "duration_ms": 169166,
       "name": "Part Time Love",
       "url": "https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monster 2.0",
+        "url": "https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Monster 2.0",
+      "url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartlands / Thorns",
-        "url": "https://open.spotify.com/album/1NnzB8wGIoN04CjEjL9fo6"
-      },
-      "artists": [
-        {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 382889,
-      "name": "Thorns",
-      "url": "https://open.spotify.com/track/4Grrun3ZnHh9qzPuasmTl3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yonder",
         "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
       },
@@ -775,18 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+        "name": "Heartlands / Thorns",
+        "url": "https://open.spotify.com/album/1NnzB8wGIoN04CjEjL9fo6"
       },
       "artists": [
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        },
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 158124,
-      "name": "Black N White",
-      "url": "https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395"
+      "duration_ms": 382889,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/4Grrun3ZnHh9qzPuasmTl3"
     },
     {
       "added_at": null,
@@ -807,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
       },
       "artists": [
         {
@@ -816,9 +800,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 294227,
-      "name": "Dear Simone",
-      "url": "https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq"
+      "duration_ms": 158124,
+      "name": "Black N White",
+      "url": "https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395"
     },
     {
       "added_at": null,
@@ -843,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
       "artists": [
         {
@@ -852,9 +836,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 220906,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6sL9r9439ijWhZhtLHFBbm"
+      "duration_ms": 294227,
+      "name": "Dear Simone",
+      "url": "https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
       "duration_ms": 204778,
       "name": "Blind",
       "url": "https://open.spotify.com/track/0T2Echuro2d0KUJdbkRNFa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 220906,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6sL9r9439ijWhZhtLHFBbm"
     },
     {
       "added_at": null,

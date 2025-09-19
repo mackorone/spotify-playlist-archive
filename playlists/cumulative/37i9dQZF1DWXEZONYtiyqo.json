@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Theo Rose",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: ADI, Emilian",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -82,10 +82,32 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 169510,
       "name": "2 Pove\u0219ti",
       "url": "https://open.spotify.com/track/2jSCWkNhJSlCWs5LXG21h5"
+    },
+    {
+      "album": {
+        "name": "2 vulcani",
+        "url": "https://open.spotify.com/album/54YXD6VpTSTL0IQMLSOb5g"
+      },
+      "artists": [
+        {
+          "name": "VUNK",
+          "url": "https://open.spotify.com/artist/1PMRWTda28Ufeyk8rIBEnf"
+        },
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/65Ba62OqG78qY2M8wlQNfr"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162628,
+      "name": "2 vulcani",
+      "url": "https://open.spotify.com/track/3uhdnm1aIr7U1zDmMFd1ci"
     },
     {
       "album": {
@@ -464,7 +486,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 186666,
       "name": "Am\u00e2ndoi",
       "url": "https://open.spotify.com/track/3sSs3h5nQ7fmIL91dKynhv"
@@ -482,7 +504,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 205714,
       "name": "Ancora",
       "url": "https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH"
@@ -572,7 +594,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 142153,
       "name": "Arde",
       "url": "https://open.spotify.com/track/0FOZ5aKf4AUKl2jT9nJf5j"
@@ -1074,7 +1096,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 190000,
       "name": "Cel mai fericit de pe p\u01cem\u00e2nt",
       "url": "https://open.spotify.com/track/7cq7xzEWmWWXy2okyYcZmX"
@@ -1329,6 +1351,24 @@
     },
     {
       "album": {
+        "name": "Cum m\u0103 ai tu",
+        "url": "https://open.spotify.com/album/6BgBMKGRjDPYaIHWz7lY9H"
+      },
+      "artists": [
+        {
+          "name": "EMAA",
+          "url": "https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180964,
+      "name": "Cum m\u0103 ai tu",
+      "url": "https://open.spotify.com/track/4zZtAZdEtFOr3tc6iRMteT"
+    },
+    {
+      "album": {
         "name": "Cum te vad eu",
         "url": "https://open.spotify.com/album/2I6xBq2JOHn4KyAqyLgCp5"
       },
@@ -1492,7 +1532,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 143315,
       "name": "De ce te ui\u021bi a\u0219a?",
       "url": "https://open.spotify.com/track/79rksdIBECEMhSlpSB1NYE"
@@ -2114,7 +2154,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 178290,
       "name": "Echo",
       "url": "https://open.spotify.com/track/61qMlEw96KJJluJx1ANYbH"
@@ -2394,6 +2434,24 @@
       "duration_ms": 138285,
       "name": "Fraiere",
       "url": "https://open.spotify.com/track/0te77uk0Eb44ZlSzAWJYcX"
+    },
+    {
+      "album": {
+        "name": "Fricile tale",
+        "url": "https://open.spotify.com/album/5ZacYYDztAiu5RZLsIiQ0x"
+      },
+      "artists": [
+        {
+          "name": "IRAIDA",
+          "url": "https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245393,
+      "name": "Fricile tale",
+      "url": "https://open.spotify.com/track/0cpJ4uF77qKnSayUiO8q9V"
     },
     {
       "album": {
@@ -2952,6 +3010,28 @@
       "duration_ms": 131328,
       "name": "Karma",
       "url": "https://open.spotify.com/track/25ZsA23GKv5Ca3j1o86jK6"
+    },
+    {
+      "album": {
+        "name": "La Izvoare",
+        "url": "https://open.spotify.com/album/2YRsHbF7QXGL5wsvEmS0dv"
+      },
+      "artists": [
+        {
+          "name": "Dj Sava",
+          "url": "https://open.spotify.com/artist/0rDSGIC4lIxx1zc0eGJY42"
+        },
+        {
+          "name": "ADDA",
+          "url": "https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "La Izvoare",
+      "url": "https://open.spotify.com/track/2KE9MGInTguWtsAcoyOasW"
     },
     {
       "album": {
@@ -3760,7 +3840,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 180000,
       "name": "Neinten\u021bionat",
       "url": "https://open.spotify.com/track/3K5VZfyDi1SvgTjhma4eq2"
@@ -4344,7 +4424,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 191931,
       "name": "Ochii t\u0103i tri\u0219ti",
       "url": "https://open.spotify.com/track/0xVRcjDrbSyRILYbNPj6Zv"
@@ -4972,6 +5052,24 @@
       "duration_ms": 139805,
       "name": "RiTiTi",
       "url": "https://open.spotify.com/track/1sHlpmqRbbLSufAKcyPYVl"
+    },
+    {
+      "album": {
+        "name": "Romanian girl (From \"Cursa\" The Movie)",
+        "url": "https://open.spotify.com/album/3it3HYBhV50ftsYcMyUHwz"
+      },
+      "artists": [
+        {
+          "name": "Stefania",
+          "url": "https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165702,
+      "name": "Romanian girl - From \"Cursa\" The Movie",
+      "url": "https://open.spotify.com/track/7zCWFGUCJe1I3tG7bbueXA"
     },
     {
       "album": {
@@ -5675,6 +5773,28 @@
     },
     {
       "album": {
+        "name": "Trec\u0103tor",
+        "url": "https://open.spotify.com/album/1I591aeaK1BoL8MEbxoVmy"
+      },
+      "artists": [
+        {
+          "name": "ADI",
+          "url": "https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo"
+        },
+        {
+          "name": "Emilian",
+          "url": "https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177952,
+      "name": "Trec\u0103tor",
+      "url": "https://open.spotify.com/track/6CwoQ1l8yrUBNlK6PPZNd3"
+    },
+    {
+      "album": {
         "name": "Antifragil",
         "url": "https://open.spotify.com/album/7c5Nufai061QtoKDEsv8VC"
       },
@@ -6031,6 +6151,28 @@
     },
     {
       "album": {
+        "name": "Vis\u0103tori",
+        "url": "https://open.spotify.com/album/5uRFNdIuEKdUUkkf9SRSyK"
+      },
+      "artists": [
+        {
+          "name": "Dorian Popa",
+          "url": "https://open.spotify.com/artist/7qY3EcnVR7pBXBzaHi3bYo"
+        },
+        {
+          "name": "Iuliana Beregoi",
+          "url": "https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121919,
+      "name": "Vis\u0103tori",
+      "url": "https://open.spotify.com/track/1nC5wge0KIJ1xkY8VwXHS5"
+    },
+    {
+      "album": {
         "name": "Vreau",
         "url": "https://open.spotify.com/album/1CTnPDqSqReiVCcEv51RPs"
       },
@@ -6064,6 +6206,42 @@
       "duration_ms": 235000,
       "name": "Women Theory",
       "url": "https://open.spotify.com/track/4nwVWUZZlR93FBniXaKlu6"
+    },
+    {
+      "album": {
+        "name": "Yanana",
+        "url": "https://open.spotify.com/album/1ATel7tjL6UPijOVTGRetK"
+      },
+      "artists": [
+        {
+          "name": "MIRA",
+          "url": "https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Yanana",
+      "url": "https://open.spotify.com/track/1HFVsODc3igA9E3HqetWfP"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Dara",
+          "url": "https://open.spotify.com/artist/36IWLQyilJWsSkYDfzvc5B"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187704,
+      "name": "Zenit",
+      "url": "https://open.spotify.com/track/00llrwQRCYJnjXGco19kmy"
     },
     {
       "album": {

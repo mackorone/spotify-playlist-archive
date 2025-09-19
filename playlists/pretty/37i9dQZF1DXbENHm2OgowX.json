@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 286566,
+  "num_followers": 286829,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-09-05 04:00:08",
       "album": {
-        "name": "its never enough",
-        "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
-      },
-      "artists": [
-        {
-          "name": "les",
-          "url": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
-        }
-      ],
-      "duration_ms": 98196,
-      "name": "its never enough",
-      "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
-    },
-    {
-      "added_at": "2025-09-05 04:00:08",
-      "album": {
         "name": "You Are Here / Ataraxia",
         "url": "https://open.spotify.com/album/5jvrvQ02mWbzd5rEshxbFQ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 199960,
       "name": "Ataraxia",
       "url": "https://open.spotify.com/track/0HICmyLJANMaAjSMSqEZUj"
+    },
+    {
+      "added_at": "2025-09-05 04:00:08",
+      "album": {
+        "name": "its never enough",
+        "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
+      },
+      "artists": [
+        {
+          "name": "les",
+          "url": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
+        }
+      ],
+      "duration_ms": 98196,
+      "name": "its never enough",
+      "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
     },
     {
       "added_at": "2025-09-05 04:00:08",
@@ -935,6 +935,22 @@
     {
       "added_at": "2025-09-05 04:00:08",
       "album": {
+        "name": "Dance of Seasons",
+        "url": "https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "duration_ms": 422853,
+      "name": "Dance of Seasons",
+      "url": "https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN"
+    },
+    {
+      "added_at": "2025-09-05 04:00:08",
+      "album": {
         "name": "cry",
         "url": "https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 204043,
       "name": "Mat\u00e8l",
       "url": "https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E"
-    },
-    {
-      "added_at": "2025-09-05 04:00:08",
-      "album": {
-        "name": "Dance of Seasons",
-        "url": "https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr"
-      },
-      "artists": [
-        {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        }
-      ],
-      "duration_ms": 422853,
-      "name": "Dance of Seasons",
-      "url": "https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN"
     },
     {
       "added_at": "2025-09-05 04:00:08",
@@ -1183,18 +1183,26 @@
     {
       "added_at": "2025-09-05 04:00:08",
       "album": {
-        "name": "And They Will Fall",
-        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
+        "name": "For One Another",
+        "url": "https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw"
       },
       "artists": [
         {
-          "name": "Nik Sudan",
-          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        },
+        {
+          "name": "Harbors",
+          "url": "https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R"
         }
       ],
-      "duration_ms": 241333,
-      "name": "And They Will Fall",
-      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
+      "duration_ms": 230173,
+      "name": "For One Another",
+      "url": "https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj"
     }
   ],
   "unique_name": "gloomcore",

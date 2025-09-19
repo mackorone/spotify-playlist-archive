@@ -4,7 +4,7 @@
 
 > This is Louis Armstrong\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 11 min
+54 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [I Only Have Eyes For You](https://open.spotify.com/track/77Aqjy8Kcd5GK1ZORCTNnF) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Under The Stars](https://open.spotify.com/album/75C4EhW6oQjXpDvbKQwbpM) | 4:16 | 2025-07-20 |  |
 | [I Still Get Jealous](https://open.spotify.com/track/5OBriDrN0dLdVcPyuGS5m8) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:13 | 2025-07-20 |  |
 | [I'm In The Mood For Love \- Single Version](https://open.spotify.com/track/5rsGCb9gGF94iibePU5jMO) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Volume 1: Rhythm Saved The World \(1935\-1936\)](https://open.spotify.com/album/2ce0x6CSfBLGz5QIOYKlc4) | 3:10 | 2025-07-20 |  |
-| [I've Got The World On A String](https://open.spotify.com/track/1YIpd72Go5Dwko6x8FZTRC) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Verve Jazz Masters 1: Louis Armstrong](https://open.spotify.com/album/0bhFuzjO6sF4COrnX4tjgm) | 2:50 | 2025-09-13 |  |
+| [I've Got The World On A String](https://open.spotify.com/track/1YIpd72Go5Dwko6x8FZTRC) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Verve Jazz Masters 1: Louis Armstrong](https://open.spotify.com/album/0bhFuzjO6sF4COrnX4tjgm) | 2:50 | 2025-09-13 | 2025-09-19 |
 | [Ill Wind](https://open.spotify.com/track/5x86T4WYD8z4axZugABMJ7) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 3:41 | 2025-07-20 |  |
 | [It Don't Mean a Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/4M5Mnz9ORqaMMUAgKtv3bI) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Great Reunion](https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz) | 4:00 | 2025-07-20 |  |
 | [It's Been A Long, Long Time](https://open.spotify.com/track/14TmAdCnF2aR5OoguGZ2JA) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:22 | 2025-07-20 |  |
@@ -41,6 +41,7 @@
 | [Makin' Whoopee](https://open.spotify.com/track/0YgEYSBt2e4BSTIQBhukou) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Louis Armstrong Meets Oscar Peterson \(Expanded Edition\)](https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0) | 3:56 | 2025-07-20 |  |
 | [Moon River](https://open.spotify.com/track/17gxfuiFUrLhbUKdunxUPJ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:59 | 2025-07-20 |  |
 | [My Sweet Hunk O' Trash \- Single Version](https://open.spotify.com/track/7vVu4cjI5zfOMlQk4EuCwZ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Sy Oliver & His Orchestra](https://open.spotify.com/artist/0Y0kqoEdmURT48Od9DA8WC) | [Louis and Friends](https://open.spotify.com/album/3kEj79dO3HIi8MBPmCO0cx) | 3:20 | 2025-07-20 |  |
+| [Only You](https://open.spotify.com/track/6ekrqvy9b9HROq5xX7lwWw) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Very Best Of Louis Armstrong](https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC) | 3:10 | 2025-09-19 |  |
 | [Oops!](https://open.spotify.com/track/5Q7Ag0Geoh18cqVJHoDaPv) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Cheek To Cheek: The Complete Duet Recordings](https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX) | 3:11 | 2025-07-20 |  |
 | [Sincerely](https://open.spotify.com/track/3StcXy0MMm3XNogT3HLcUT) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sonny Burke & His Orchestra](https://open.spotify.com/artist/4PyPlV92e4yMGcVEJhQxsV) | [Satchmo Sings](https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34) | 2:57 | 2025-08-28 |  |
 | [Solitude](https://open.spotify.com/track/3dtBmo7lvR8FVeWybUX7su) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Great Reunion](https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz) | 4:57 | 2025-07-20 |  |

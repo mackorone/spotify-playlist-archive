@@ -2,7 +2,7 @@
 
 ### [Dance Brandneu](https://open.spotify.com/playlist/37i9dQZF1DXcfWvNFKxjDo)
 
-> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Jaden Bojsen
+> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Old Jim, Pascal Letoublon
 
 4,565 songs - 9 day 0 hr 47 min
 

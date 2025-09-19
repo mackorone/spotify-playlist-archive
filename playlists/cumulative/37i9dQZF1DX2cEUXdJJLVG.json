@@ -1585,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/4rFgB6gBS4YJR8EtyUinvw"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197752,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/54qhMRdSYqQhUo7CtFzXQa"
+    },
+    {
+      "album": {
         "name": "Come Get It (feat. DAVIES)",
         "url": "https://open.spotify.com/album/7jvpWvHx9jY7ew3PU6BKYA"
       },

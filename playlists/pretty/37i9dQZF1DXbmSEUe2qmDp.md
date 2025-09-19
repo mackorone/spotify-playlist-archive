@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Matheus Vargas
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,192 likes - 69 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,253 likes - 69 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 68 | [Bate\-Volta](https://open.spotify.com/track/6bWIGsHaPL4gfOCDpzn0SF) | [Matheus Marcolino](https://open.spotify.com/artist/2XQpug45cVZnFbLlpe58HQ), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Bate\-Volta](https://open.spotify.com/album/1nKommPLM7t2AIzRU5TIot) | 2:38 |
 | 69 | [Dois Pé no Peito \- Ao Vivo](https://open.spotify.com/track/46vgRBlaFOiyfCyYk2xBDr) | [Abel e Benício](https://open.spotify.com/artist/53ealWeLbd46JtRUBRBJlE), [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Dois Pé no Peito \(Ao Vivo\)](https://open.spotify.com/album/5JBlm5DyZxfFlvmTadfVsS) | 2:57 |
 
-Snapshot ID: `AAAAAIBUWPihrCRbEkXJYnLdE36M+MJK`
+Snapshot ID: `AAAAAAUyYrL8JB0Y8kRvQbD0LmDs66Mj`

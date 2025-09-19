@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 131350,
       "name": "Crushing",
       "url": "https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS"
@@ -5799,6 +5799,24 @@
     },
     {
       "album": {
+        "name": "Hagaki",
+        "url": "https://open.spotify.com/album/21LKWaFjHFYtOPZ099uEdR"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Ma \u9593",
+      "url": "https://open.spotify.com/track/28DvrpcX2EBfFpSwufPdNi"
+    },
+    {
+      "album": {
         "name": "Mad Skillz",
         "url": "https://open.spotify.com/album/73XpuHdsSUhYWIfmqugGVj"
       },
@@ -9197,6 +9215,28 @@
     },
     {
       "album": {
+        "name": "Stack Wave (feat. STUTS)",
+        "url": "https://open.spotify.com/album/00n7OlFDIC3zpWOXmV2bAV"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276138,
+      "name": "Stack Wave (feat. STUTS)",
+      "url": "https://open.spotify.com/track/0U3IxVP9vj56VAuVGHrSuo"
+    },
+    {
+      "album": {
         "name": "stained glass",
         "url": "https://open.spotify.com/album/7kW2HciwXAKpd3a5Ln6V9o"
       },
@@ -11020,7 +11060,7 @@
       ],
       "date_added": "2020-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-19",
       "duration_ms": 165333,
       "name": "Woodstock",
       "url": "https://open.spotify.com/track/26vm8tYfXCHUxK8A3jFgBZ"

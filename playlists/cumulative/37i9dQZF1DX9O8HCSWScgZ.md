@@ -4,7 +4,7 @@
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-99 songs - 3 hr 49 min
+100 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [mermaid melodies](https://open.spotify.com/track/5zO8OlM8WBi7ve7o8zlQ6A) | [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Rufus Dipper](https://open.spotify.com/artist/7vSjvv75PSaKYhLK3J0DMb) | [mermaid melodies](https://open.spotify.com/album/3TtVNk2KrYd2Fk93hem1Cm) | 2:56 | 2024-10-18 | 2024-10-28 |
 | [midnight escape](https://open.spotify.com/track/1H1wSRhMTiGB6cgrNQO4gw) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [midnight escape](https://open.spotify.com/album/4soXZQhBjBXl0480o8cj5G) | 3:00 | 2024-10-18 |  |
 | [Midnight Stuff](https://open.spotify.com/track/2MGJydjBonGOlIzDQZL3dQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Midnight Stuff](https://open.spotify.com/album/0Vcjo60rQ38NPW8MLsG6gG) | 2:09 | 2024-10-18 |  |
-| [mirror maze](https://open.spotify.com/track/1N3CGy4TEPeF7ROJcztkEq) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [mirror maze](https://open.spotify.com/album/7J86EmXsS5IBGNPXzsRENp) | 2:28 | 2024-11-08 |  |
+| [mirror maze](https://open.spotify.com/track/1N3CGy4TEPeF7ROJcztkEq) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [mirror maze](https://open.spotify.com/album/7J86EmXsS5IBGNPXzsRENp) | 2:28 | 2024-11-08 | 2025-09-19 |
 | [mixture](https://open.spotify.com/track/61Ghb129p1GQJwe0R1HMA5) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [mixture](https://open.spotify.com/album/4dAcetjrb9Z6lCH0BbpWYC) | 2:03 | 2024-10-18 | 2024-10-25 |
 | [Morning Dew](https://open.spotify.com/track/12FNaRxFplk9Bs3fjpQzHM) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [Morning Dew](https://open.spotify.com/album/1sOBZaf8YPRGzWfUiS0470) | 2:38 | 2024-11-29 |  |
 | [Natsumi](https://open.spotify.com/track/4GQ8CyrjkROX6hiM7q1d2H) | [Neko Kedi](https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw) | [Natsumi](https://open.spotify.com/album/72FhFkkn8epsa96noAjLMJ) | 2:06 | 2024-10-18 |  |
@@ -80,6 +80,7 @@
 | [Now](https://open.spotify.com/track/4VixPNMZMDJ9qV0KUUuxBf) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [Now](https://open.spotify.com/album/3mSLe7fzKHHVpGxfy4Z4oG) | 2:07 | 2024-10-18 |  |
 | [Occasions](https://open.spotify.com/track/5Bf3tZzkgcnpqaGLKkInmV) | [cloudsonmymind](https://open.spotify.com/artist/2YS55Gaa9L2WvDtG3kYRy7) | [Occasions](https://open.spotify.com/album/4KADYqV6KjvdtxhY8MulEA) | 2:22 | 2024-10-18 |  |
 | [Ocean Ride](https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Ocean Ride](https://open.spotify.com/album/0wHm0QUEgZUUNYUF9ut2pq) | 2:09 | 2024-10-18 |  |
+| [Old Days](https://open.spotify.com/track/7Eg2ohLf7IeYtmnL9Jykxs) | [KiddoCalvin](https://open.spotify.com/artist/08tB77WyTGC9pZ5Pm7Ymu6) | [Old Days](https://open.spotify.com/album/5uC3oL1qKlBI5cUP6r9Dcp) | 2:14 | 2025-09-18 |  |
 | [On The Surface](https://open.spotify.com/track/5VT8EXUki1C1aZdKmMbsXI) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [On The Surface](https://open.spotify.com/album/6VJ3WlHiq8GOMOddlNgvx3) | 2:05 | 2024-10-18 | 2025-09-06 |
 | [Open Doors](https://open.spotify.com/track/7GhpBmlLkehIvowAgeU7wU) | [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [At Ease](https://open.spotify.com/album/16qoJEqdBZ3s71UCX3GfaG) | 2:30 | 2024-10-18 |  |
 | [Our Feelings](https://open.spotify.com/track/6Afhf3If4W91Y1SaubBPQK) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Our Feelings](https://open.spotify.com/album/1Wl54blA680GecLnFfJoGS) | 2:20 | 2024-10-18 |  |
